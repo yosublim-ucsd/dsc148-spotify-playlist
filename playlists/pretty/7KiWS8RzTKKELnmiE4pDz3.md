@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 359 songs - 16 hr 1 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 361 songs - 16 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -367,5 +367,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 357 | [Strike \(Holster\)](https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 2:28 |
 | 358 | [Hanukkahween 2](https://open.spotify.com/track/0PYTrLhiNlgOaEPDxbwx3j) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Blp Kosher And The Magic Dreidel](https://open.spotify.com/album/7KP3jfdAFSjRx1HEQkIyyY) | 2:06 |
 | 359 | [Self Care](https://open.spotify.com/track/4os8zlf0umDZxCvZC2u2Z1) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Cold Summer](https://open.spotify.com/album/0TxLAUhKclBHQUoeunGQlq) | 1:46 |
+| 360 | [We Dem](https://open.spotify.com/track/4rlvqiq90liG5L5gpcUpiq) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [4Respect 4Freedom 4Loyalty 4WhatImportant](https://open.spotify.com/album/4tCZ22E9RnUz09OaDJfaoO) | 2:47 |
+| 361 | [Southside](https://open.spotify.com/track/5lf3ajySox32qFvGEf2TFM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:53 |
 
-Snapshot ID: `NzAxMixiNDBjOWIyMDRkMzMyOTUwMmQ0ZDZhZWZiMzczNzg1MWNlYjljMzYx`
+Snapshot ID: `NzAxNCxiNmRiZDU1YjZiZGJmMDQxZjQzMTM0Y2MwZjk1ODcyMjA5NWI5N2U0`

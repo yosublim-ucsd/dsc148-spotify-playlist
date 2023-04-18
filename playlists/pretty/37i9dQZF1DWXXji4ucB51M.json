@@ -1,12 +1,12 @@
 {
   "description": "The official 2020 VMAs playlist from MTV + Spotify. See more at <a href=\"http://www.mtv.com/vma\">vma.mtv.com</a> \ud83d\ude80",
-  "num_followers": 105100,
+  "num_followers": 105097,
   "original_name": "MTV VMAs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMDgyNzBlMmNiZTBmZWRkZGRiZGVjYTk5ZTVlODA5YmQw",
+  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMDZhNzk2NjAyNWU5YjQ0YWYxZWQwNDA1N2VkNDU3Zjc5",
   "tracks": [
     {
       "added_at": "2020-08-24 22:19:29",
@@ -295,22 +295,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 193829,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "Life Is Good (feat. Drake)",
         "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 172127,
       "name": "Yo Perreo Sola",
       "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 193829,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -655,22 +655,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "SHE IS COMING",
-        "url": "https://open.spotify.com/album/6Be5Qxq0Xm0CGyxs5JUYX9"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "Mother's Daughter",
-      "url": "https://open.spotify.com/track/4C5iYZMmSYeIUCtX3uShA7"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "Tickets To My Downfall",
         "url": "https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 205158,
       "name": "bloody valentine",
       "url": "https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "SHE IS COMING",
+        "url": "https://open.spotify.com/album/6Be5Qxq0Xm0CGyxs5JUYX9"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 219080,
+      "name": "Mother's Daughter",
+      "url": "https://open.spotify.com/track/4C5iYZMmSYeIUCtX3uShA7"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -751,6 +751,22 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 208520,
+      "name": "Yummy",
+      "url": "https://open.spotify.com/track/16wAOAZ2OkqoIDN7TpChjR"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 206080,
       "name": "Eleven (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/18O00Y7yrkJ0pRXm1n21Og"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 208520,
-      "name": "Yummy",
-      "url": "https://open.spotify.com/track/16wAOAZ2OkqoIDN7TpChjR"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "CALM",
-        "url": "https://open.spotify.com/album/46K4raQPIGem3N031upNj9"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 220536,
-      "name": "Wildflower",
-      "url": "https://open.spotify.com/track/6qlcjGJPTZEwR8nf2nSe9C"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "Rare (Deluxe)",
         "url": "https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 161188,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/5EBtY2shIV1vmY4bnvvV6T"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "CALM",
+        "url": "https://open.spotify.com/album/46K4raQPIGem3N031upNj9"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 220536,
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/6qlcjGJPTZEwR8nf2nSe9C"
     },
     {
       "added_at": "2020-08-24 22:19:29",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "Wake Up, Sunshine",
-        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 223994,
-      "name": "Some Kind of Disaster",
-      "url": "https://open.spotify.com/track/02lU0Hj680zVexT4GqJJZ4"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "Orphans / Arabesque",
         "url": "https://open.spotify.com/album/6DX4K0afv5l01Pf6lymJuB"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 197533,
       "name": "Orphans",
       "url": "https://open.spotify.com/track/6muOWhMh7Tf0UFUtMDBhUR"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 223994,
+      "name": "Some Kind of Disaster",
+      "url": "https://open.spotify.com/track/02lU0Hj680zVexT4GqJJZ4"
     },
     {
       "added_at": "2020-08-24 22:19:29",

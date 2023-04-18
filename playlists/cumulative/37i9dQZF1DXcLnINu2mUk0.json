@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 133407,
       "name": "Culpa Do \u00c1lcool",
       "url": "https://open.spotify.com/track/1GAy3MLjR2Nlhdr1Z4iQb0"
@@ -2796,6 +2796,28 @@
       "duration_ms": 206315,
       "name": "Madruga",
       "url": "https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B"
+    },
+    {
+      "album": {
+        "name": "BAGAGEM",
+        "url": "https://open.spotify.com/album/2XPfsQ1uOAIOMVSmAOwVnz"
+      },
+      "artists": [
+        {
+          "name": "CHLOE",
+          "url": "https://open.spotify.com/artist/2sohJUFgwhJEjrbm4QzSfW"
+        },
+        {
+          "name": "Drizzy",
+          "url": "https://open.spotify.com/artist/4GdVnTiuhvPVYdrPOLB7b1"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218445,
+      "name": "MAIS ALTO",
+      "url": "https://open.spotify.com/track/5BGlwfNhojchI4UT19QYoZ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 59484,
+  "num_followers": 59552,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTUyMDE4NSwwMDAwMDAwMGVhNjBjOWM1ZjA1YzQwMjViZmM4ODQzNjZhZDAwMDk5",
+  "snapshot_id": "MTY4MTUyMDE4NSwwMDAwMDAwMDNmNWRmNmMyMDkwMWQwMDM2YjA4M2ZkZDk4NWUzMmUy",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "How Long Have You Been Away?",
-        "url": "https://open.spotify.com/album/0rG6VTxWDBNufy5ghJTHij"
-      },
-      "artists": [
-        {
-          "name": "kryptogram",
-          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
-        }
-      ],
-      "duration_ms": 208568,
-      "name": "How Long Have You Been Away?",
-      "url": "https://open.spotify.com/track/0W1jh3ExLv0nMvvmNJOBxh"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Somewhere (feat. Gus Dapperton)",
         "url": "https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 183943,
       "name": "Somewhere (feat. Gus Dapperton)",
       "url": "https://open.spotify.com/track/0bmQ5H9mHFzRnJ4ZntylFg"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "How Long Have You Been Away?",
+        "url": "https://open.spotify.com/album/0rG6VTxWDBNufy5ghJTHij"
+      },
+      "artists": [
+        {
+          "name": "kryptogram",
+          "url": "https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui"
+        }
+      ],
+      "duration_ms": 208568,
+      "name": "How Long Have You Been Away?",
+      "url": "https://open.spotify.com/track/0W1jh3ExLv0nMvvmNJOBxh"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "\u018eD\u00c9N",
-        "url": "https://open.spotify.com/album/3biwHpS1Tnm3LOgTf3CqYr"
-      },
-      "artists": [
-        {
-          "name": "MIEL",
-          "url": "https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd"
-        }
-      ],
-      "duration_ms": 213896,
-      "name": "Lilas",
-      "url": "https://open.spotify.com/track/1qS1IzE3loYp6fBrzGJUeG"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "6\u00ba",
         "url": "https://open.spotify.com/album/4pUtOdz74IkwnwQUZdpkUj"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 192000,
       "name": "6\u00ba",
       "url": "https://open.spotify.com/track/1rEHH6Wrm0iuv61O1oM2nc"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "\u018eD\u00c9N",
+        "url": "https://open.spotify.com/album/3biwHpS1Tnm3LOgTf3CqYr"
+      },
+      "artists": [
+        {
+          "name": "MIEL",
+          "url": "https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd"
+        }
+      ],
+      "duration_ms": 213896,
+      "name": "Lilas",
+      "url": "https://open.spotify.com/track/1qS1IzE3loYp6fBrzGJUeG"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -943,6 +943,26 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
+        "name": "Nunca Nunca",
+        "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
+      },
+      "artists": [
+        {
+          "name": "La M\u00e1quina Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
+        },
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 171133,
+      "name": "Nunca Nunca",
+      "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
         "name": "El Muro",
         "url": "https://open.spotify.com/album/38xzRsuZMB90afWuLksZA8"
       },
@@ -955,6 +975,22 @@
       "duration_ms": 223437,
       "name": "El Muro",
       "url": "https://open.spotify.com/track/40KjgjBzPdYEknIkyq11bS"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Los Caymanes (Para Olvidar)",
+        "url": "https://open.spotify.com/album/4RYVw8Xc7gvIEqpjSuX0Ng"
+      },
+      "artists": [
+        {
+          "name": "Tropicana Club",
+          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Los Caymanes (Para Olvidar)",
+      "url": "https://open.spotify.com/track/3FYl4aKqX7a6CslBDE6Tau"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -991,18 +1027,18 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Los Caymanes (Para Olvidar)",
-        "url": "https://open.spotify.com/album/4RYVw8Xc7gvIEqpjSuX0Ng"
+        "name": "Might Forgive You / Tkm",
+        "url": "https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd"
       },
       "artists": [
         {
-          "name": "Tropicana Club",
-          "url": "https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn"
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Los Caymanes (Para Olvidar)",
-      "url": "https://open.spotify.com/track/3FYl4aKqX7a6CslBDE6Tau"
+      "duration_ms": 249638,
+      "name": "Might Forgive You",
+      "url": "https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1019,26 +1055,6 @@
       "duration_ms": 231050,
       "name": "Cuando Te Veo",
       "url": "https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Nunca Nunca",
-        "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
-      },
-      "artists": [
-        {
-          "name": "La M\u00e1quina Camale\u00f3n",
-          "url": "https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj"
-        },
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 171133,
-      "name": "Nunca Nunca",
-      "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Might Forgive You / Tkm",
-        "url": "https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd"
-      },
-      "artists": [
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 249638,
-      "name": "Might Forgive You",
-      "url": "https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Mirada Speed",
         "url": "https://open.spotify.com/album/61p5MxzByqmdQZNNAFVzZ8"
       },
@@ -1139,6 +1139,22 @@
       "duration_ms": 191468,
       "name": "Drinkee (Radio Edit)",
       "url": "https://open.spotify.com/track/32dGtSQJ07FYAS9sK13eO6"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Hyperreal",
+        "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 202177,
+      "name": "Tears At Bae",
+      "url": "https://open.spotify.com/track/78YZ3FMouneV2rWFtBWifu"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -1219,22 +1235,6 @@
       "duration_ms": 289335,
       "name": "Realidades No Ordinarias",
       "url": "https://open.spotify.com/track/71GdwydcMwyK63mJncZwTt"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Cuadros",
-        "url": "https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK"
-      },
-      "artists": [
-        {
-          "name": "Floreana",
-          "url": "https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ"
-        }
-      ],
-      "duration_ms": 203625,
-      "name": "Takotsubo",
-      "url": "https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz"
     }
   ],
   "unique_name": "Onda Indietr\u00f3nica",

@@ -2,7 +2,7 @@
 
 ### [SUPERNOVA](https://open.spotify.com/playlist/37i9dQZF1DX82RdxyHKCWG)
 
-> As novidades e estrelas do pop que estão explodindo no Spotify\. ✨ Foto: SZA, Doja Cat
+> As novidades e estrelas do pop gringo que estão explodindo no Spotify\. ✨ Foto: SZA, Doja Cat
 
 551 songs - 1 day 4 hr 21 min
 

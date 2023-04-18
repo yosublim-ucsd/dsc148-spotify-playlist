@@ -4,31 +4,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. ISIDE in cover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,661 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,668 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DNA](https://open.spotify.com/track/5zBPYJyuIMuSpYVdYIkyV5) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [DNA](https://open.spotify.com/album/1pH8NNZryuGdbX3Wq6vAsN) | 3:09 |
-| 2 | [Favole \(mi hai rotto il caxxo\)](https://open.spotify.com/track/5Pqp4dJ2KgZRA4l3dIY9iX) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Favole \(mi hai rotto il caxxo\)](https://open.spotify.com/album/0YFbYRdWVJ8bqvjOSZ1D2v) | 2:53 |
-| 3 | [Los Angeles](https://open.spotify.com/track/4WPWjTm1Tacywwc1rPmMtB) | [Baustelle](https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi) | [Elvis](https://open.spotify.com/album/5bvG8jYOZBxSwZfjDoWRSO) | 3:19 |
-| 4 | [TU X ME](https://open.spotify.com/track/2UXtA9hSGW4XCDkimfkrOS) | [LE CARIE](https://open.spotify.com/artist/2A8udj5MEQyHsfVJjXmukj), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [TRE](https://open.spotify.com/album/6KgWi7Dq7eGztZzC9ExYmn) | 2:50 |
+| 1 | [TU X ME](https://open.spotify.com/track/2UXtA9hSGW4XCDkimfkrOS) | [LE CARIE](https://open.spotify.com/artist/2A8udj5MEQyHsfVJjXmukj), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [TRE](https://open.spotify.com/album/6KgWi7Dq7eGztZzC9ExYmn) | 2:50 |
+| 2 | [BABY](https://open.spotify.com/track/7rat6YuFFrqCz7asAqQtMf) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [BABY](https://open.spotify.com/album/5znorjvZtJXTHO1fwtlXFl) | 2:15 |
+| 3 | [DNA](https://open.spotify.com/track/5zBPYJyuIMuSpYVdYIkyV5) | [ISIDE](https://open.spotify.com/artist/7cLpOMioHNlfhx7hInzeRQ) | [DNA](https://open.spotify.com/album/1pH8NNZryuGdbX3Wq6vAsN) | 3:09 |
+| 4 | [Russian roulette](https://open.spotify.com/track/78HTk9Utv4Kh5C0QIUv2q8) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [Russian roulette](https://open.spotify.com/album/1GRYhGhcPDLHnzmwY43uQq) | 4:10 |
 | 5 | [COSA VA IN ME?](https://open.spotify.com/track/7CzSSJurj4jcsO8W53iz9L) | [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn) | [COSA VA IN ME?](https://open.spotify.com/album/15qyqPXK3K5Z1KJvVoGVV1) | 3:01 |
-| 6 | [Like an Animal](https://open.spotify.com/track/7nHxIAj5achKMZnYNcbzfe) | [Piqued Jacks](https://open.spotify.com/artist/5eprmPyM92CrWnnE1P840z) | [Like an Animal](https://open.spotify.com/album/4ZC0Mn6F39LpmArk28IbIo) | 2:59 |
-| 7 | [Spaccio \(feat\. Fast Animals and Slow Kids\)](https://open.spotify.com/track/3QeGRIk6yOx6RRrXD2whlJ) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR), [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [in fieri](https://open.spotify.com/album/1PbpWl95wrYdqDXQjGzZfD) | 2:34 |
+| 6 | [Favole \(mi hai rotto il caxxo\)](https://open.spotify.com/track/5Pqp4dJ2KgZRA4l3dIY9iX) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW) | [Favole \(mi hai rotto il caxxo\)](https://open.spotify.com/album/0YFbYRdWVJ8bqvjOSZ1D2v) | 2:53 |
+| 7 | [Samurai](https://open.spotify.com/track/4Vmz8qG1vEpyAWEYB98MUf) | [ALIPERTI](https://open.spotify.com/artist/2wyyxE2lzVUrOD4tPGitor) | [Samurai](https://open.spotify.com/album/35PjENODFLTmCJrZNuPXK4) | 2:53 |
 | 8 | [TRANNE LA MIA](https://open.spotify.com/track/3Wpfd2r7ETAC33g4kxcQMm) | [Moise](https://open.spotify.com/artist/7v40Q7L4JodP3Bav2Za0s8) | [TRANNE LA MIA](https://open.spotify.com/album/11HIYudpkn92btFtYIFdTm) | 2:21 |
-| 9 | [Russian roulette](https://open.spotify.com/track/78HTk9Utv4Kh5C0QIUv2q8) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [Russian roulette](https://open.spotify.com/album/1GRYhGhcPDLHnzmwY43uQq) | 4:10 |
-| 10 | [Samurai](https://open.spotify.com/track/4Vmz8qG1vEpyAWEYB98MUf) | [ALIPERTI](https://open.spotify.com/artist/2wyyxE2lzVUrOD4tPGitor) | [Samurai](https://open.spotify.com/album/35PjENODFLTmCJrZNuPXK4) | 2:53 |
-| 11 | [Battelli ebbri](https://open.spotify.com/track/2PHcFq8CAordszMzLS1dAs) | [C+C=Maxigross](https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37) | [Cosmic Res](https://open.spotify.com/album/4Myim57HbNcJ46KqbYkqmP) | 3:17 |
-| 12 | [BABY](https://open.spotify.com/track/7rat6YuFFrqCz7asAqQtMf) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [BABY](https://open.spotify.com/album/5znorjvZtJXTHO1fwtlXFl) | 2:15 |
-| 13 | [Per sempre con me](https://open.spotify.com/track/3R5Zzcdl1TlOOlPvH9ms2p) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp), [Roberta Sammarelli](https://open.spotify.com/artist/4p0xFyZO0ruUklDaQJoSEy) | [Per sempre con me](https://open.spotify.com/album/56dvZSgSM4diF5fA6IY7Jo) | 3:23 |
+| 9 | [Per sempre con me](https://open.spotify.com/track/3R5Zzcdl1TlOOlPvH9ms2p) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp), [Roberta Sammarelli](https://open.spotify.com/artist/4p0xFyZO0ruUklDaQJoSEy) | [Per sempre con me](https://open.spotify.com/album/56dvZSgSM4diF5fA6IY7Jo) | 3:23 |
+| 10 | [Time and Time](https://open.spotify.com/track/5yoZ3ruzBCsMWLWrEMRb2W) | [Bee Bee Sea](https://open.spotify.com/artist/5CKsgoNaSS96h4gPbLFuWV) | [Time and Time](https://open.spotify.com/album/4tnfYJuYrz6WOmIc0BjDAa) | 4:52 |
+| 11 | [Heavy Metallo](https://open.spotify.com/track/7jFII1yerbRImS5lkZ7ZPn) | [DOLA](https://open.spotify.com/artist/0OvTRIcNwihrBkwZK2oiqy) | [Heavy Metallo](https://open.spotify.com/album/0FE1tX6oK8XVPD7N9iHRvM) | 2:54 |
+| 12 | [Like an Animal](https://open.spotify.com/track/7nHxIAj5achKMZnYNcbzfe) | [Piqued Jacks](https://open.spotify.com/artist/5eprmPyM92CrWnnE1P840z) | [Like an Animal](https://open.spotify.com/album/4ZC0Mn6F39LpmArk28IbIo) | 2:59 |
+| 13 | [Battelli ebbri](https://open.spotify.com/track/2PHcFq8CAordszMzLS1dAs) | [C+C=Maxigross](https://open.spotify.com/artist/4xD2DfxKGL6E8URwy6Sf37) | [Cosmic Res](https://open.spotify.com/album/4Myim57HbNcJ46KqbYkqmP) | 3:17 |
 | 14 | [Eclissi](https://open.spotify.com/track/72HI1aZn1i1eoTpuVQtcKn) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Eclissi](https://open.spotify.com/album/2DZNZYc4ZanD5PrNlSsmuo) | 3:49 |
-| 15 | [Time and Time](https://open.spotify.com/track/5yoZ3ruzBCsMWLWrEMRb2W) | [Bee Bee Sea](https://open.spotify.com/artist/5CKsgoNaSS96h4gPbLFuWV) | [Time and Time](https://open.spotify.com/album/4tnfYJuYrz6WOmIc0BjDAa) | 4:52 |
-| 16 | [0 SENTIMENTO](https://open.spotify.com/track/5WCw5MPG167COqxJu6c42Y) | [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn) | [0 SENTIMENTO](https://open.spotify.com/album/5DzCgb5qGCuUBPB7DQuWFE) | 2:29 |
-| 17 | [Heavy Metallo](https://open.spotify.com/track/7jFII1yerbRImS5lkZ7ZPn) | [DOLA](https://open.spotify.com/artist/0OvTRIcNwihrBkwZK2oiqy) | [Heavy Metallo](https://open.spotify.com/album/0FE1tX6oK8XVPD7N9iHRvM) | 2:54 |
-| 18 | [Religione](https://open.spotify.com/track/3ub4NLZaKzI3VgjK1Y6rh6) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Religione](https://open.spotify.com/album/1tagO5z43CGsbmETkOp4YN) | 2:48 |
-| 19 | [Signorina Mani Avanti](https://open.spotify.com/track/7pljhNu1HXO2TEYg1nLxAa) | [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [Signorina Mani Avanti](https://open.spotify.com/album/3ldHaKOt5xQ3puA16Q8Kcl) | 3:52 |
-| 20 | [Musica per aeroporti](https://open.spotify.com/track/2k4D2XNzM0VfRnUl9ts1RY) | [Federico Dragogna](https://open.spotify.com/artist/4oFI4JmGg9miIDYczoKIIm) | [Musica per aeroporti](https://open.spotify.com/album/2dDHNcqTbZMleDaLNpcqL6) | 2:41 |
-| 21 | [Kingston](https://open.spotify.com/track/7qSR7XjG33IecK7QQZ7EZN) | [Selflore](https://open.spotify.com/artist/1UwtZvdrbC5NfPUu3o17NP) | [Kingston](https://open.spotify.com/album/5uDldxfvAeabJ6ylTDNwy2) | 2:34 |
+| 15 | [Kingston](https://open.spotify.com/track/7qSR7XjG33IecK7QQZ7EZN) | [Selflore](https://open.spotify.com/artist/1UwtZvdrbC5NfPUu3o17NP) | [Kingston](https://open.spotify.com/album/5uDldxfvAeabJ6ylTDNwy2) | 2:34 |
+| 16 | [Religione](https://open.spotify.com/track/3ub4NLZaKzI3VgjK1Y6rh6) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Religione](https://open.spotify.com/album/1tagO5z43CGsbmETkOp4YN) | 2:48 |
+| 17 | [Spaccio \(feat\. Fast Animals and Slow Kids\)](https://open.spotify.com/track/3QeGRIk6yOx6RRrXD2whlJ) | [SANTI FRANCESI](https://open.spotify.com/artist/3VsF47TUmv6WPsWjICe8VR), [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [in fieri](https://open.spotify.com/album/1PbpWl95wrYdqDXQjGzZfD) | 2:34 |
+| 18 | [Signorina Mani Avanti](https://open.spotify.com/track/7pljhNu1HXO2TEYg1nLxAa) | [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [Signorina Mani Avanti](https://open.spotify.com/album/3ldHaKOt5xQ3puA16Q8Kcl) | 3:52 |
+| 19 | [Musica per aeroporti](https://open.spotify.com/track/2k4D2XNzM0VfRnUl9ts1RY) | [Federico Dragogna](https://open.spotify.com/artist/4oFI4JmGg9miIDYczoKIIm) | [Musica per aeroporti](https://open.spotify.com/album/2dDHNcqTbZMleDaLNpcqL6) | 2:41 |
+| 20 | [0 SENTIMENTO](https://open.spotify.com/track/5WCw5MPG167COqxJu6c42Y) | [Asjatica](https://open.spotify.com/artist/5wu37JsDSxwAvkZIdYT3Nn) | [0 SENTIMENTO](https://open.spotify.com/album/5DzCgb5qGCuUBPB7DQuWFE) | 2:29 |
+| 21 | [Los Angeles](https://open.spotify.com/track/4WPWjTm1Tacywwc1rPmMtB) | [Baustelle](https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi) | [Elvis](https://open.spotify.com/album/5bvG8jYOZBxSwZfjDoWRSO) | 3:19 |
 | 22 | [Rosso](https://open.spotify.com/track/1dCoLitotcRABlWlOOZcTs) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Rosso](https://open.spotify.com/album/7wl8O8kzkACKcaiWrmXKEV) | 3:35 |
 | 23 | [Tipi a posto](https://open.spotify.com/track/7dhM6cmSACQt53M0T7Vnqb) | [Antartica](https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb) | [Tipi a Posto](https://open.spotify.com/album/0OTDRav72ZKBKSCTORhVnF) | 2:20 |
 | 24 | [Il colore si perde](https://open.spotify.com/track/6BCi9E6yGSjQb4y49dPPQE) | [Sick Tamburo](https://open.spotify.com/artist/4mOnUjGAvB6c6wXDUf5CPp) | [Il colore si perde](https://open.spotify.com/album/2bYOG0a6yL1qZYrtnNIcgX) | 3:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 74 | [Mondo Cane](https://open.spotify.com/track/7a8r6vINl5QByT6ktCadYK) | [Methos](https://open.spotify.com/artist/6EgN0y0qGF6ifXnc35B33h) | [Mondo Cane](https://open.spotify.com/album/4eTP3mLT8xxizGeaahzXJ8) | 2:14 |
 | 75 | [Casa stanza letto dormi](https://open.spotify.com/track/30Yp1eG2fOC9hEyQ6jVrL8) | [⁄handlogic](https://open.spotify.com/artist/0Fke9julMOJ0HZ1UhCoe9Z) | [Casa stanza letto dormi](https://open.spotify.com/album/5nBYAfZJPDVYwD4RmoavSY) | 6:55 |
 
-Snapshot ID: `MTY4MTQ2MzI3MiwwMDAwMDAwMDFjZjA3ZTdjYWVhMGYzZjc5OWJmZDc5OTczYTZiMjBi`
+Snapshot ID: `MTY4MTczOTk3OCwwMDAwMDAwMDQ2NWM1ZGFiMTkzZjUzNDdmMDdmZDcwMTRmYWNjYjBm`

@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-142 songs - 8 hr 13 min
+143 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Crazy, Like Me!](https://open.spotify.com/track/1Q2olRfNKPRStACvonlfqS) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Crazy, Like Me!](https://open.spotify.com/album/7fP1WnaLnKYajHvHJjU15g) | 2:54 | 2022-12-08 |  |
 | [Cryexgenic](https://open.spotify.com/track/1UACIXnIw1AVHyodV4wbhv) | [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b), [Cryogenic](https://open.spotify.com/artist/3JkD7HM6gEzgOMm9kwzunN) | [Cryexgenic](https://open.spotify.com/album/1wVCfLLSlUP2zprjVCYKR9) | 3:43 | 2022-12-08 |  |
 | [DANCEFLOOR SLAYER](https://open.spotify.com/track/7dqpISlr5xVC4eDID1jc5c) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1), [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w) | [DANCEFLOOR SLAYER](https://open.spotify.com/album/6uXYnYAFqg6i6Ti2svFblo) | 2:41 | 2022-12-15 |  |
+| [Dead Limit \- Evil Activities Remix](https://open.spotify.com/track/3Tez9FI9bgkA7aMO7JYjqT) | [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [The Upbeats](https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF) | [Dead Limit \(Evil Activities Remix\)](https://open.spotify.com/album/37IiaHO3iZ8k6v2b2Aiiv4) | 3:47 | 2023-04-17 |  |
 | [Death Jams](https://open.spotify.com/track/4adnfSbly0bAD5YTDh30Jx) | [Karun](https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT) | [Death Jams](https://open.spotify.com/album/2x44uTjnKxzCNujOQ3qCqM) | 2:54 | 2023-03-07 | 2023-03-18 |
 | [Deathblow](https://open.spotify.com/track/5odPjdHDsGX3RUSzrw7eD9) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl) | [Deathblow](https://open.spotify.com/album/6PmtZ0lfWZ5XFl4IryXLxa) | 3:46 | 2022-12-08 |  |
 | [Demolition Hardcore](https://open.spotify.com/track/3pG4KAfjRpnfezGwDiN2mY) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Demolition Hardcore](https://open.spotify.com/album/70Wnww8EdxAMmEwdbrZrn8) | 3:20 | 2022-12-08 |  |
@@ -114,7 +115,7 @@
 | [Pussy Lovers \- Gunz Pumping Remix](https://open.spotify.com/track/22ykr4tkk4WINmBZ2r9Zmv) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Pussy Lovers](https://open.spotify.com/album/731nrWHUxC4dfkM6F7PYs6) | 5:12 | 2022-12-08 | 2023-03-07 |
 | [Rave Machine](https://open.spotify.com/track/7quuryt7S7Ix5Xr51GC3Ng) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [Rave Machine](https://open.spotify.com/album/1PrEgszhMvGe9PiLdPywWu) | 3:48 | 2022-12-08 | 2023-04-14 |
 | [Ready to Explode](https://open.spotify.com/track/2ghOOeK8G7LLwygHsgZzjP) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [D\-Ceptor](https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Ready to Explode](https://open.spotify.com/album/1E4pKYJpNlutAR8xdE5JKN) | 2:47 | 2022-12-08 | 2023-04-07 |
-| [Ride With Me](https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C) | [Vandal!sm](https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4) | [Ride With Me](https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4) | 3:57 | 2022-12-08 |  |
+| [Ride With Me](https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C) | [Vandal!sm](https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4) | [Ride With Me](https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4) | 3:57 | 2022-12-08 | 2023-04-18 |
 | [Ring The Alarm](https://open.spotify.com/track/4gBHKeyq7rKDN6mqJyJMzg) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3) | [Ring The Alarm](https://open.spotify.com/album/6ooGzNXXaCcdUoCVix1ciT) | 3:27 | 2022-12-08 |  |
 | [Road Rage](https://open.spotify.com/track/5hZuHOC9L0OAYz26BHWsh3) | [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Road Rage](https://open.spotify.com/album/614CqVxko6YYHIpr9bz89T) | 3:57 | 2022-12-08 |  |
 | [RUDE METHODS](https://open.spotify.com/track/25jlmlUJiDquYv8NIyPBTV) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7) | [RUDE METHODS](https://open.spotify.com/album/2dSW6exybjXs8rXYQ3utSd) | 3:08 | 2023-03-07 |  |

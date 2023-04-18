@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-276 songs - 15 hr 3 min
+277 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Contigo](https://open.spotify.com/track/6T0xKuYzSIz1AbfcCqcJNu) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr), [Cunha Beats](https://open.spotify.com/artist/7D094QVmbEkI7e2df0VUq7) | [Contigo](https://open.spotify.com/album/0nDhqtYEUXpkKWfqgXMXY4) | 3:06 | 2023-02-10 | 2023-03-02 |
 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 | 2022-07-07 |  |
 | [Coração de Prata](https://open.spotify.com/track/3kX8pwkuFxnCmzZAxP5VeR) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Coração de Prata](https://open.spotify.com/album/2dSNU471jKPFqhF2cmvey7) | 2:56 | 2023-01-06 | 2023-01-19 |
-| [Culpa Do Álcool](https://open.spotify.com/track/1GAy3MLjR2Nlhdr1Z4iQb0) | [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Culpa Do Álcool](https://open.spotify.com/album/0vnNwTitOdyUljMkE1qUPW) | 2:13 | 2023-04-13 |  |
+| [Culpa Do Álcool](https://open.spotify.com/track/1GAy3MLjR2Nlhdr1Z4iQb0) | [Stefânia Leonel](https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE) | [Culpa Do Álcool](https://open.spotify.com/album/0vnNwTitOdyUljMkE1qUPW) | 2:13 | 2023-04-13 | 2023-04-18 |
 | [Cupid](https://open.spotify.com/track/23WXbyhKyMT8dowZx3Bu7I) | [King Cizzy](https://open.spotify.com/artist/3ZTBddrm597Yp0BM5aLLUN) | [Cupid](https://open.spotify.com/album/4MUjU07dZASo1tDM1MDGY6) | 2:56 | 2022-12-23 | 2023-01-21 |
 | [Curvas](https://open.spotify.com/track/6qyEXFoHVLdKmM2gNLGfnW) | [INFANTE](https://open.spotify.com/artist/3fPlXnjAgjxRkkv8XB1XMv), [Jotta R](https://open.spotify.com/artist/0u2OA1XApgS4rozZ1iWTRZ) | [Curvas](https://open.spotify.com/album/2dZGlThlyesP83r0z5bVXu) | 4:20 | 2022-07-07 | 2022-08-19 |
 | [Céu No Quarto](https://open.spotify.com/track/7qocYaIQY1ToJnbK7pj8fN) | [Walter 4reignr](https://open.spotify.com/artist/0QzzLKzJwwEuw3TFt0A0Lt) | [Céu No Quarto](https://open.spotify.com/album/1iQArK8itENXTXgexkZwDd) | 2:38 | 2022-12-23 | 2023-01-21 |
@@ -147,6 +147,7 @@
 | [Lumi](https://open.spotify.com/track/3T730d6ZWMwVnMXE51v2eY) | [Gang Mka](https://open.spotify.com/artist/0KXnikJ0xyK7bm4zOd5bs3) | [Lumi](https://open.spotify.com/album/0wx0yTWfXM641rHK9rFSr6) | 2:11 | 2022-11-11 | 2022-12-02 |
 | [Lá Fora](https://open.spotify.com/track/2tcqz3Az2AEB3ui0yAvdWr) | [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Lá Fora](https://open.spotify.com/album/4RBovD9AuQkPGJ8Tpz9Bpg) | 3:06 | 2022-10-06 | 2022-12-02 |
 | [Madruga](https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Madruga](https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA) | 3:26 | 2022-11-11 |  |
+| [MAIS ALTO](https://open.spotify.com/track/5BGlwfNhojchI4UT19QYoZ) | [CHLOE](https://open.spotify.com/artist/2sohJUFgwhJEjrbm4QzSfW), [Drizzy](https://open.spotify.com/artist/4GdVnTiuhvPVYdrPOLB7b1) | [BAGAGEM](https://open.spotify.com/album/2XPfsQ1uOAIOMVSmAOwVnz) | 3:38 | 2023-04-13 |  |
 | [Mais Uma Vez](https://open.spotify.com/track/6G1qfNxVKAjxaVInNwj2aK) | [B.E.R.A](https://open.spotify.com/artist/69N3zTGQ7lPJURlJCklOSk) | [Mais Uma Vez](https://open.spotify.com/album/2Cy2WpJjRQ4ZMxqEcK4srx) | 3:57 | 2023-02-10 | 2023-02-24 |
 | [mal\-me\-quer](https://open.spotify.com/track/6r1oBhMARlpEotia4lbhqo) | [Hachibae](https://open.spotify.com/artist/4Y32ard944s09cbgtFOD0i) | [mal\-me\-quer](https://open.spotify.com/album/3ByBw1099rBcfs0QPqE1M8) | 1:47 | 2023-01-06 | 2023-01-21 |
 | [Mal\-Me\-Queres Amarelos](https://open.spotify.com/track/0vpZYmZBBGvtgw6jCCnb1q) | [BlvckPunch](https://open.spotify.com/artist/0gECWTBjkZ3EUpW6Ww0mUJ), [Pimp Nilo](https://open.spotify.com/artist/2rWBakgQaaMaYtvzgQbV6w) | [Hat\-Trick de Love](https://open.spotify.com/album/5FTbZYQKPFebxVXe3qgPfq) | 3:52 | 2022-09-29 | 2022-10-14 |

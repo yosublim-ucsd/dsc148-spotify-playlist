@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Hit-Boy",
-  "num_followers": 1609438,
+  "num_followers": 1609720,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGQwMTA5YjQ2ODVlNGNiYjMzNTVmNTgzYjhmZDc0MmVk",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDE0NjhmYjg0YTAxYmUwZjZkMTU3MzIwZjZlM2I2YzZh",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -439,30 +439,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "The Great Escape",
-        "url": "https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        }
-      ],
-      "duration_ms": 221520,
-      "name": "Orange Village",
-      "url": "https://open.spotify.com/track/3ZUgG228RG5bbRGsF3OzDg"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/138M0lORis5tDxurpIbd7V"
       },
@@ -487,22 +463,26 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "I'M REALLY LIKE THAT",
-        "url": "https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV"
+        "name": "The Great Escape",
+        "url": "https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr"
       },
       "artists": [
         {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
         },
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
         }
       ],
-      "duration_ms": 98308,
-      "name": "Legendary",
-      "url": "https://open.spotify.com/track/2VXhwq2VuhVcLBsJa6A2wY"
+      "duration_ms": 221520,
+      "name": "Orange Village",
+      "url": "https://open.spotify.com/track/3ZUgG228RG5bbRGsF3OzDg"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -523,6 +503,26 @@
       "duration_ms": 256926,
       "name": "Slipping Into Darkness",
       "url": "https://open.spotify.com/track/7oTTYjFN9TksJwsj55r2hb"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "I'M REALLY LIKE THAT",
+        "url": "https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV"
+      },
+      "artists": [
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 98308,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/2VXhwq2VuhVcLBsJa6A2wY"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -579,54 +579,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "The Great Escape",
-        "url": "https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Joey Bada$$",
-          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
-        },
-        {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        }
-      ],
-      "duration_ms": 152693,
-      "name": "Barrag\u00e1n Lighting",
-      "url": "https://open.spotify.com/track/5jJhS8m6vstzzeHdlGoHjt"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Wake Up (feat. Lucy Rose)",
-        "url": "https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Wake Up (feat. Lucy Rose)",
-      "url": "https://open.spotify.com/track/1wea451SlpJfqRy4YVK867"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "This Thing Of Ours",
         "url": "https://open.spotify.com/album/44qqs0b21hn7gAsuTioQkT"
       },
@@ -647,6 +599,26 @@
       "duration_ms": 177373,
       "name": "TV Dinners (feat. Boldy James & Sideshow)",
       "url": "https://open.spotify.com/track/706NuVviwPA1BBI2XkDui5"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Wake Up (feat. Lucy Rose)",
+        "url": "https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Wake Up (feat. Lucy Rose)",
+      "url": "https://open.spotify.com/track/1wea451SlpJfqRy4YVK867"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -675,6 +647,34 @@
       "duration_ms": 185454,
       "name": "Talk About Me (feat. Kid Cudi, Denzel Curry & JID)",
       "url": "https://open.spotify.com/track/3tmpJN9fGVkrhlNkZVgH90"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "The Great Escape",
+        "url": "https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        }
+      ],
+      "duration_ms": 152693,
+      "name": "Barrag\u00e1n Lighting",
+      "url": "https://open.spotify.com/track/5jJhS8m6vstzzeHdlGoHjt"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -719,26 +719,26 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "The Great Escape",
-        "url": "https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr"
+        "name": "3P",
+        "url": "https://open.spotify.com/album/7oct4g7sEmjOy2kw8RkrCd"
       },
       "artists": [
         {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
         },
         {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "C Dot Castro",
+          "url": "https://open.spotify.com/artist/1EEH91ujjE6eIlYtEjrHv6"
         },
         {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+          "name": "halfBREED",
+          "url": "https://open.spotify.com/artist/2OKpImEHt9ug1QUHp56tQj"
         }
       ],
-      "duration_ms": 197266,
-      "name": "Art Talk",
-      "url": "https://open.spotify.com/track/4n0fik3eIbcmKhDh4Xw5x9"
+      "duration_ms": 216521,
+      "name": "Game 6",
+      "url": "https://open.spotify.com/track/2NpAwkhQZDFD1kWR1ZxuWM"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -767,6 +767,30 @@
       "duration_ms": 226095,
       "name": "Raised Different",
       "url": "https://open.spotify.com/track/1fwYvYMEdz5lOBXxjbez4T"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "The Great Escape",
+        "url": "https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 197266,
+      "name": "Art Talk",
+      "url": "https://open.spotify.com/track/4n0fik3eIbcmKhDh4Xw5x9"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -827,28 +851,28 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "60 Days",
-        "url": "https://open.spotify.com/album/3uSqUJp3IJUVpNwprYqrvS"
+        "name": "she / her / black bitch",
+        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
       },
       "artists": [
         {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
         },
         {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 199493,
-      "name": "60 Days",
-      "url": "https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI"
+      "duration_ms": 180076,
+      "name": "Swamp Bitches (with Rico Nasty)",
+      "url": "https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM"
     },
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "3P",
-        "url": "https://open.spotify.com/album/7oct4g7sEmjOy2kw8RkrCd"
+        "name": "Vinyl Days",
+        "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
       },
       "artists": [
         {
@@ -856,17 +880,13 @@
           "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
         },
         {
-          "name": "C Dot Castro",
-          "url": "https://open.spotify.com/artist/1EEH91ujjE6eIlYtEjrHv6"
-        },
-        {
-          "name": "halfBREED",
-          "url": "https://open.spotify.com/artist/2OKpImEHt9ug1QUHp56tQj"
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
         }
       ],
-      "duration_ms": 216521,
-      "name": "Game 6",
-      "url": "https://open.spotify.com/track/2NpAwkhQZDFD1kWR1ZxuWM"
+      "duration_ms": 108387,
+      "name": "In my lifetime (feat. Action Bronson)",
+      "url": "https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -891,22 +911,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "she / her / black bitch",
-        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
+        "name": "Wimbledon",
+        "url": "https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m"
       },
       "artists": [
         {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+          "name": "Free Party",
+          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
         }
       ],
-      "duration_ms": 180076,
-      "name": "Swamp Bitches (with Rico Nasty)",
-      "url": "https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM"
+      "duration_ms": 142409,
+      "name": "Wimbledon",
+      "url": "https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -923,22 +939,6 @@
       "duration_ms": 255693,
       "name": "I Love You, I Hate You",
       "url": "https://open.spotify.com/track/6XQPPbvRXZvWSUDag8jyEj"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Wimbledon",
-        "url": "https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m"
-      },
-      "artists": [
-        {
-          "name": "Free Party",
-          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
-        }
-      ],
-      "duration_ms": 142409,
-      "name": "Wimbledon",
-      "url": "https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -963,22 +963,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Vinyl Days",
-        "url": "https://open.spotify.com/album/0RTHMVF27KRMHIGnF7iLru"
+        "name": "60 Days",
+        "url": "https://open.spotify.com/album/3uSqUJp3IJUVpNwprYqrvS"
       },
       "artists": [
         {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
         },
         {
-          "name": "Action Bronson",
-          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 108387,
-      "name": "In my lifetime (feat. Action Bronson)",
-      "url": "https://open.spotify.com/track/6FoyBTuvyX2YFw4QW1e6DK"
+      "duration_ms": 199493,
+      "name": "60 Days",
+      "url": "https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI"
     },
     {
       "added_at": "2023-04-14 04:00:00",

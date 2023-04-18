@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > RADAR is a Spotify program to promote exciting artists! Benelux RADAR artists: Zoë Tauran \(cover\), Haunted Youth, DIKKE, Shermanology, MEAU, De Staat & Antoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,064 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,068 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

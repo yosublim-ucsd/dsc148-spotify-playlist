@@ -4,7 +4,7 @@
 
 > A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!
 
-372 songs - 20 hr 42 min
+373 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Headspace](https://open.spotify.com/track/40eIrKcUvepNmdenanC0Hl) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Godsend](https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2) | 2:57 | 2021-10-31 | 2023-02-08 |
 | [Headspace \- GOLDHOUSE Remix](https://open.spotify.com/track/7HcnT1waFtSq0Ul3kXwflW) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG), [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY) | [Headspace](https://open.spotify.com/album/7y8Dzogy270AzjyhZU204y) | 3:08 | 2021-10-31 | 2022-07-29 |
 | [Healing](https://open.spotify.com/track/4EKTLzgEPHij7hKpqjuZH5) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Healing](https://open.spotify.com/album/6ptypNaGR4S2XJOPvrXKtY) | 3:24 | 2021-10-31 | 2023-01-27 |
-| [Heart Cry](https://open.spotify.com/track/7sj3foHbvvf33iGlhx2Rma) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Dan Rivera](https://open.spotify.com/artist/0AMYyPxXhg0YdrIrLaWD31) | [Heart Cry](https://open.spotify.com/album/1mXWDLikomDEHcv5cYornP) | 7:05 | 2023-04-17 |  |
+| [Heart Cry](https://open.spotify.com/track/7sj3foHbvvf33iGlhx2Rma) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Dan Rivera](https://open.spotify.com/artist/0AMYyPxXhg0YdrIrLaWD31) | [Heart Cry](https://open.spotify.com/album/1mXWDLikomDEHcv5cYornP) | 7:05 | 2023-04-17 | 2023-04-18 |
 | [HEARTBEAT](https://open.spotify.com/track/5uiQHTNins7Q4g971dBteD) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [HEARTBEAT](https://open.spotify.com/album/43pPjFLwb4YLAN28HbcZQE) | 3:16 | 2021-10-31 | 2023-02-08 |
 | [Heartbeat \(All I Need\)](https://open.spotify.com/track/41eeOy5oZTW88kz6HOaTNV) | [theCurrent](https://open.spotify.com/artist/1wbKO2FnUMah5t5LVF4cNz) | [Heartbeat \(All I Need\)](https://open.spotify.com/album/4T0ewZ0EGgl8B6jVDACXna) | 3:39 | 2021-10-31 | 2022-07-22 |
 | [Heavenly \- Ethan C\. Davis Remix](https://open.spotify.com/track/5CpnqWOerx7I3rkThe5cyR) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD), [Ethan C\. Davis](https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II) | [Heavenly \(Ethan C\. Davis Remix\)](https://open.spotify.com/album/5jvHkWq48VJRuvAMLgpLon) | 3:42 | 2023-02-08 |  |
@@ -223,6 +223,7 @@
 | [Love Is Everything We Need](https://open.spotify.com/track/4U4MhlKh1s5DW1PH4W3PbG) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Love Is Everything We Need](https://open.spotify.com/album/6QonKeISFBF4m0uucPdv1M) | 2:37 | 2023-02-08 | 2023-04-13 |
 | [Love Me Back to Life](https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Love Me Back to Life](https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM) | 2:47 | 2023-02-08 |  |
 | [Love Me Like You \- TYE Remix](https://open.spotify.com/track/67uQCds7ugUZn3TZUhc5dB) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Love Me Like You \(TYE Remix\)](https://open.spotify.com/album/7t1QRFDMpYbZPFnirwkU3q) | 3:23 | 2021-10-31 | 2022-11-13 |
+| [Loved By You](https://open.spotify.com/track/08Kl8Vhr889IAfCuj8IZwK) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [God Help Me](https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8) | 3:13 | 2023-04-18 |  |
 | [Loved By You](https://open.spotify.com/track/45HtUmhWSfLEBuFl68t4wl) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Loved By You](https://open.spotify.com/album/6LrvY8QbN1dDfvc68cGFtu) | 3:13 | 2023-02-08 | 2023-04-13 |
 | [Low \- dance party](https://open.spotify.com/track/0JqbggEh5R0MnKdPCUdqxC) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Low](https://open.spotify.com/album/5Dh3yjnbVzt3FIXBp9oOhe) | 4:14 | 2023-02-08 | 2023-02-25 |
 | [Luau \- Juicebangers Remix](https://open.spotify.com/track/5rtgmeK5ssgSN91yqZeUjT) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Juicebangers](https://open.spotify.com/artist/5NJ5H0WVG6JpjTROfISdpE) | [Luau](https://open.spotify.com/album/3TIFgTpdDDPhEbw5s16lUr) | 3:39 | 2021-10-31 | 2022-06-15 |

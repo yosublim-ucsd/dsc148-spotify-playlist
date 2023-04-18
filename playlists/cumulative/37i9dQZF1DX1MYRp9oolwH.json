@@ -913,6 +913,32 @@
     },
     {
       "album": {
+        "name": "Kalallo (From \"Virupaksha\")",
+        "url": "https://open.spotify.com/album/13x9vHOv9fKiM7vo9kGUp5"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Madhushree",
+          "url": "https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224130,
+      "name": "Kalallo (From \"Virupaksha\")",
+      "url": "https://open.spotify.com/track/4K21tbyME0wnR0jqGgLkyq"
+    },
+    {
+      "album": {
         "name": "Liger (Telugu) [Original Motion Picture Soundtrack]",
         "url": "https://open.spotify.com/album/0bI7C4I6FzlNlZZDqJOfDJ"
       },

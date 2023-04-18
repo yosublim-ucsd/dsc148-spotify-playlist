@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Disciplina",
+        "url": "https://open.spotify.com/album/2AJHstP2C7QChprVZHZzMd"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Timbiqui",
+          "url": "https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Como Te Amo Yo",
+      "url": "https://open.spotify.com/track/3fPKTWTbhTnXjI5T3YAklK"
+    },
+    {
+      "album": {
         "name": "Corazon de Acero",
         "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
       },
@@ -752,7 +770,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 219026,
       "name": "Guaracha Sabrosona",
       "url": "https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3"
@@ -864,7 +882,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 249768,
       "name": "La Monjita Voladora - Cumbia Sonidera",
       "url": "https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3"
@@ -936,7 +954,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 343353,
       "name": "La Noche Mas Linda",
       "url": "https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9"
@@ -954,7 +972,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 260728,
       "name": "La Picare",
       "url": "https://open.spotify.com/track/68Ur7kDx0OXW5BH0TxpAPn"
@@ -1175,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "Sin Fluctuar",
+        "url": "https://open.spotify.com/album/3NgiKf6ZieNXNlMr3piBQV"
+      },
+      "artists": [
+        {
+          "name": "Anddy Caicedo",
+          "url": "https://open.spotify.com/artist/0Emz7Y7utBVunAblbfCdrC"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249750,
+      "name": "Mi amor para siempre",
+      "url": "https://open.spotify.com/track/3FPrD3cbQQDmI3wohLeoVi"
+    },
+    {
+      "album": {
         "name": "Mi Pecadito",
         "url": "https://open.spotify.com/album/2YsZcOI0c1Eyo0JlDAGwXD"
       },
@@ -1212,6 +1248,24 @@
       "duration_ms": 220273,
       "name": "Morena",
       "url": "https://open.spotify.com/track/03NjizgksFxcj3JpxLh3vn"
+    },
+    {
+      "album": {
+        "name": "Sin Par",
+        "url": "https://open.spotify.com/album/6oiSNtHH7vCAor8nVogNdG"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332796,
+      "name": "Mujer Del Paraiso",
+      "url": "https://open.spotify.com/track/6IRnwt8WFgysjevOZbPMbc"
     },
     {
       "album": {
@@ -1398,7 +1452,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 61518,
       "name": "Pideme la Luna - Remix",
       "url": "https://open.spotify.com/track/53h0I0zOgs1KntA5lel3EF"
@@ -1793,6 +1847,28 @@
     },
     {
       "album": {
+        "name": "un x100to",
+        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194563,
+      "name": "un x100to",
+      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
+    },
+    {
+      "album": {
         "name": "Universo Paralelo",
         "url": "https://open.spotify.com/album/5gHGEuYNsRd8xSVW1Si2E2"
       },
@@ -1860,6 +1936,24 @@
       "duration_ms": 204000,
       "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
       "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"
+    },
+    {
+      "album": {
+        "name": "Yo no lloro por llorar (Versi\u00f3n salsa)",
+        "url": "https://open.spotify.com/album/5sK5gmBFf2xT2hhNRx8G3q"
+      },
+      "artists": [
+        {
+          "name": "Nacho Acero",
+          "url": "https://open.spotify.com/artist/2y3xMb1SrZezuoNZ5LTrxR"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240056,
+      "name": "Yo no lloro por llorar - Versi\u00f3n salsa",
+      "url": "https://open.spotify.com/track/6zYxJWxCl4SofXiffXk0kV"
     },
     {
       "album": {

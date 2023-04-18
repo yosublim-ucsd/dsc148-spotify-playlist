@@ -2820,7 +2820,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
@@ -3436,6 +3436,28 @@
       "duration_ms": 224516,
       "name": "Champion",
       "url": "https://open.spotify.com/track/2ZsK7PdynTF7ilvUEgKTvT"
+    },
+    {
+      "album": {
+        "name": "Chandelier",
+        "url": "https://open.spotify.com/album/6ByqhfdAVhPiVfZh3eLw45"
+      },
+      "artists": [
+        {
+          "name": "Ghostluvme",
+          "url": "https://open.spotify.com/artist/6KtRA9pyDcbDyanI7bfU8W"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203126,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/6V7pu8NLbhTHGU1DY8oesv"
     },
     {
       "album": {
@@ -5160,7 +5182,7 @@
       ],
       "date_added": "2022-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
@@ -5844,7 +5866,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 206548,
       "name": "Feeling Like This",
       "url": "https://open.spotify.com/track/1cvj0Nu3iwA4Yyd2IX26fL"
@@ -10320,7 +10342,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
@@ -14748,7 +14770,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 200341,
       "name": "Poems",
       "url": "https://open.spotify.com/track/5Y0m4WXHMvaVFCOeqOnzEQ"
@@ -17128,7 +17150,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 188864,
       "name": "Swimmin",
       "url": "https://open.spotify.com/track/2HeMIZbi9gI0EgljgMxijh"
@@ -18952,7 +18974,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 190515,
       "name": "WAYLE",
       "url": "https://open.spotify.com/track/0jCNrDbEbpRbuDiGcKa907"

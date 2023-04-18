@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > It's not a genre, it's a culture\. Cover: <a href="hhttps://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF?si=lK9CEKu4SAunMBAfvrAf6w">Inkos'yamagcokama</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,881 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,927 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

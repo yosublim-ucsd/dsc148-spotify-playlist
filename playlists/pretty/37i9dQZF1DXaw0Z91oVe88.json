@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2431,
+  "num_followers": 2430,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTY5MCwwMDAwMDAwMGUzNTM0NjA3NjE2YTg4OWI2ZmVlOGU4NWJiZTk0ZGUz",
+  "snapshot_id": "MTY3OTkwNTY5MCwwMDAwMDAwMDU1ODU4ZTliMzM1ZWI2N2EyYWRjZGJiNjQwNWU2Nzgy",
   "tracks": [
     {
       "added_at": "2023-03-27 08:28:10",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-03-27 08:28:10",
       "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 231201,
+      "name": "You Never Know",
+      "url": "https://open.spotify.com/track/39kzWAiVPpycdMpr745oPj"
+    },
+    {
+      "added_at": "2023-03-27 08:28:10",
+      "album": {
         "name": "And July",
         "url": "https://open.spotify.com/album/3xUWeFeLn6m3NXKr0FlT3E"
       },
@@ -135,6 +151,22 @@
     {
       "added_at": "2023-03-27 08:28:10",
       "album": {
+        "name": "FLOWER ROAD",
+        "url": "https://open.spotify.com/album/75LBd3Qv8p2DqqGk3oykdx"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 228631,
+      "name": "FLOWER ROAD",
+      "url": "https://open.spotify.com/track/5tmKSkKHNVrxh4Fctj2TdS"
+    },
+    {
+      "added_at": "2023-03-27 08:28:10",
+      "album": {
         "name": "I can't tell you everything",
         "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
       },
@@ -151,22 +183,6 @@
     {
       "added_at": "2023-03-27 08:28:10",
       "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 231201,
-      "name": "You Never Know",
-      "url": "https://open.spotify.com/track/39kzWAiVPpycdMpr745oPj"
-    },
-    {
-      "added_at": "2023-03-27 08:28:10",
-      "album": {
         "name": "EXIT : E",
         "url": "https://open.spotify.com/album/7D2FML3EyRJcCoiEgUbRxT"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 209281,
       "name": "SENTIMENTAL",
       "url": "https://open.spotify.com/track/7000FosyVc1UpvN2Sckidx"
-    },
-    {
-      "added_at": "2023-03-27 08:28:10",
-      "album": {
-        "name": "FLOWER ROAD",
-        "url": "https://open.spotify.com/album/75LBd3Qv8p2DqqGk3oykdx"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 228631,
-      "name": "FLOWER ROAD",
-      "url": "https://open.spotify.com/track/5tmKSkKHNVrxh4Fctj2TdS"
     },
     {
       "added_at": "2023-03-27 08:28:10",
@@ -295,22 +295,6 @@
     {
       "added_at": "2023-03-27 08:28:10",
       "album": {
-        "name": "Q",
-        "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 205693,
-      "name": "How Do You Think",
-      "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
-    },
-    {
-      "added_at": "2023-03-27 08:28:10",
-      "album": {
         "name": "MIRROR",
         "url": "https://open.spotify.com/album/7gXO4iJkFBA3PUxDofF3E9"
       },
@@ -343,22 +327,18 @@
     {
       "added_at": "2023-03-27 08:28:10",
       "album": {
-        "name": "How To Love (Feat.Paul Kim)",
-        "url": "https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD"
+        "name": "Q",
+        "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
       },
       "artists": [
         {
-          "name": "Peakboy",
-          "url": "https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l"
-        },
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
         }
       ],
-      "duration_ms": 180000,
-      "name": "How To Love (Feat.Paul Kim)",
-      "url": "https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU"
+      "duration_ms": 205693,
+      "name": "How Do You Think",
+      "url": "https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD"
     },
     {
       "added_at": "2023-03-27 08:28:10",
@@ -375,6 +355,26 @@
       "duration_ms": 175493,
       "name": "Lover",
       "url": "https://open.spotify.com/track/4ky31ddTcLg2u2t9KBcyMv"
+    },
+    {
+      "added_at": "2023-03-27 08:28:10",
+      "album": {
+        "name": "How To Love (Feat.Paul Kim)",
+        "url": "https://open.spotify.com/album/4zooij8rxsZUw9RGzQawVD"
+      },
+      "artists": [
+        {
+          "name": "Peakboy",
+          "url": "https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l"
+        },
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "How To Love (Feat.Paul Kim)",
+      "url": "https://open.spotify.com/track/6TPW9rvXhD8NK8bvrrGImU"
     },
     {
       "added_at": "2023-03-27 08:28:10",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-03-27 08:28:10",
       "album": {
-        "name": "Cold World",
-        "url": "https://open.spotify.com/album/1LV9rvmb5ibcrCKLcv6Pv2"
-      },
-      "artists": [
-        {
-          "name": "OVAN",
-          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
-        }
-      ],
-      "duration_ms": 208306,
-      "name": "Cold World",
-      "url": "https://open.spotify.com/track/4N2qh0ovGWJOSPqCB2007q"
-    },
-    {
-      "added_at": "2023-03-27 08:28:10",
-      "album": {
         "name": "Summer Strike, Pt. 11 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4c2io6xcGCFbYWStLbQlKS"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 254186,
       "name": "I Will Remember You",
       "url": "https://open.spotify.com/track/40I9cCZCKcPtyU5MoziIHk"
+    },
+    {
+      "added_at": "2023-03-27 08:28:10",
+      "album": {
+        "name": "Cold World",
+        "url": "https://open.spotify.com/album/1LV9rvmb5ibcrCKLcv6Pv2"
+      },
+      "artists": [
+        {
+          "name": "OVAN",
+          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
+        }
+      ],
+      "duration_ms": 208306,
+      "name": "Cold World",
+      "url": "https://open.spotify.com/track/4N2qh0ovGWJOSPqCB2007q"
     },
     {
       "added_at": "2023-03-27 08:28:10",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-03-27 08:28:10",
       "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 224288,
-      "name": "WERE WE?",
-      "url": "https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE"
-    },
-    {
-      "added_at": "2023-03-27 08:28:10",
-      "album": {
         "name": "Fuzzy peach",
         "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 251653,
       "name": "Fuzzy peach",
       "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
+    },
+    {
+      "added_at": "2023-03-27 08:28:10",
+      "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 224288,
+      "name": "WERE WE?",
+      "url": "https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE"
     },
     {
       "added_at": "2023-03-27 08:28:10",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-03-27 08:28:10",
       "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 194611,
-      "name": "HEY RAIN",
-      "url": "https://open.spotify.com/track/2czqxIu2ijRXOxCYs62RM2"
-    },
-    {
-      "added_at": "2023-03-27 08:28:10",
-      "album": {
         "name": "STELLA I",
         "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 116000,
       "name": "Go Your Way",
       "url": "https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq"
+    },
+    {
+      "added_at": "2023-03-27 08:28:10",
+      "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 194611,
+      "name": "HEY RAIN",
+      "url": "https://open.spotify.com/track/2czqxIu2ijRXOxCYs62RM2"
     },
     {
       "added_at": "2023-03-27 08:28:10",

@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Amari, Artwork: Isu Kim
 
-1,056 songs - 2 day 14 hr 58 min
+1,057 songs - 2 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [5IN5](https://open.spotify.com/track/0VAmVvZPUxBmiZVHVwWB9x) | [NAIV](https://open.spotify.com/artist/20slUJYsGQ6lecW91DROiN) | [5IN5](https://open.spotify.com/album/4sqxlnkK4EB9CQatBh6Dfi) | 2:34 | 2022-05-05 | 2022-06-17 |
 | [5traws](https://open.spotify.com/track/3YKEOeOgoLpaM1mOMMjMUM) | [MAGE](https://open.spotify.com/artist/0vhbTpMY6YaoSPlLyWO0JV) | [5traws](https://open.spotify.com/album/06OcVD1DU4ewL2Lu2FZGID) | 3:16 | 2023-03-16 | 2023-03-31 |
 | [88 \(My Way\)](https://open.spotify.com/track/1YSOiXPbUrCWmNS4PgBxAU) | [Monrè](https://open.spotify.com/artist/3ecVBJjyHsoqgwvggDn4mA) | [88 \(My Way\)](https://open.spotify.com/album/0zwqytweaGlcwjATFmdTFZ) | 2:37 | 2022-01-27 | 2022-02-11 |
-| [A Night in Shibuya](https://open.spotify.com/track/0MKacxWoNCBVDS3evLi4BZ) | [Figo](https://open.spotify.com/artist/0BVfgdAkJOnrpoFl2bKkQM) | [A Night in Shibuya](https://open.spotify.com/album/0i4MxnxxBiJWCvxPC1823h) | 3:25 | 2023-04-06 |  |
+| [A Night in Shibuya](https://open.spotify.com/track/0MKacxWoNCBVDS3evLi4BZ) | [Figo](https://open.spotify.com/artist/0BVfgdAkJOnrpoFl2bKkQM) | [A Night in Shibuya](https://open.spotify.com/album/0i4MxnxxBiJWCvxPC1823h) | 3:25 | 2023-04-06 | 2023-04-18 |
+| [A Night in Shibuya](https://open.spotify.com/track/6O2Ei6TnkvlrE64PQxuX0A) | [Figo](https://open.spotify.com/artist/0BVfgdAkJOnrpoFl2bKkQM) | [A Night in Shibuya](https://open.spotify.com/album/24z6i61iV5LaeQXtEQDRKn) | 3:25 | 2023-04-06 |  |
 | [a song about love](https://open.spotify.com/track/5g1KaIR68wse9wwa6EsrJa) | [teresa](https://open.spotify.com/artist/5DUpFW7ATXzQf6jOkKBX1u) | [a song about love](https://open.spotify.com/album/1rGCA8ii3VIdsxWGm6kMVL) | 3:23 | 2023-02-16 | 2023-03-03 |
 | [A Sunrise Worth Greeting](https://open.spotify.com/track/4detVDK4eJbYyozzdSvnIF) | [Mica Caldito](https://open.spotify.com/artist/6XdTCrSBB4lV5MVqZEuygi) | [A Sunrise Worth Greeting](https://open.spotify.com/album/2SLhdWvDet2UDfekKnxORc) | 4:22 | 2022-05-05 | 2022-06-17 |
 | [Ace of Spades](https://open.spotify.com/track/2PNaLj26zsCloNz6JHINC8) | [$aint Pxpe](https://open.spotify.com/artist/6Ym0aSumqoa7GnFGtk4nch) | [Ace of Spades](https://open.spotify.com/album/1TxQLSFYcw4Fq7oYDAOzk7) | 2:46 | 2022-05-05 | 2022-06-17 |

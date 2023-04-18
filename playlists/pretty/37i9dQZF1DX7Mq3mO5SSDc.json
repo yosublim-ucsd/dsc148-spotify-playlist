@@ -1,12 +1,12 @@
 {
   "description": "An homage to the iconic label\u2019s 1980s and 1990s roots.",
-  "num_followers": 276483,
+  "num_followers": 276537,
   "original_name": "Hip-Hop Anthems: Def Jam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTQ3Nzc4MywwMDAwMDAwMGFhNjhmZGRmZGNmMjFiYTIwNzZlZDhmNWY1NWNkNDQ1",
+  "snapshot_id": "MTYzOTQ3Nzc4MywwMDAwMDAwMDUzYzA4Y2VlYzBkYWJkMDc3NTY0NTA1ZTFjYzRjNDE4",
   "tracks": [
     {
       "added_at": "2020-03-04 09:06:11",
@@ -131,6 +131,22 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
+        "name": "It's Dark And Hell Is Hot",
+        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Ruff Ryders' Anthem",
+      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
+    },
+    {
+      "added_at": "2020-03-04 09:06:11",
+      "album": {
         "name": "Regulate\u2026 G Funk Era",
         "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
       },
@@ -151,22 +167,6 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
-        "name": "It's Dark And Hell Is Hot",
-        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Ruff Ryders' Anthem",
-      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
-    },
-    {
-      "added_at": "2020-03-04 09:06:11",
-      "album": {
         "name": "Vol.2... Hard Knock Life",
         "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
       },
@@ -179,22 +179,6 @@
       "duration_ms": 238466,
       "name": "Hard Knock Life (Ghetto Anthem)",
       "url": "https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX"
-    },
-    {
-      "added_at": "2020-03-04 09:06:11",
-      "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 246933,
-      "name": "No Sleep Till Brooklyn",
-      "url": "https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN"
     },
     {
       "added_at": "2020-03-04 09:06:11",
@@ -215,6 +199,38 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
+        "name": "Mr. Smith (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 293933,
+      "name": "Doin' It",
+      "url": "https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo"
+    },
+    {
+      "added_at": "2020-03-04 09:06:11",
+      "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 246933,
+      "name": "No Sleep Till Brooklyn",
+      "url": "https://open.spotify.com/track/5qxChyzKLEyoPJ5qGrdurN"
+    },
+    {
+      "added_at": "2020-03-04 09:06:11",
+      "album": {
         "name": "Bacdafucup",
         "url": "https://open.spotify.com/album/5lUgtggG1KroP0qHkpxQ4K"
       },
@@ -227,6 +243,22 @@
       "duration_ms": 218333,
       "name": "Slam",
       "url": "https://open.spotify.com/track/0W2mz7mvaBaEsC4rmoRNPn"
+    },
+    {
+      "added_at": "2020-03-04 09:06:11",
+      "album": {
+        "name": "Flesh Of My Flesh, Blood Of My Blood",
+        "url": "https://open.spotify.com/album/3dNsHWAS8t7AiAqj9ofG5T"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 305466,
+      "name": "Slippin'",
+      "url": "https://open.spotify.com/track/740gNyGWKk98gy8nJLhHrv"
     },
     {
       "added_at": "2020-03-04 09:06:11",
@@ -251,38 +283,6 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
-        "name": "Flesh Of My Flesh, Blood Of My Blood",
-        "url": "https://open.spotify.com/album/3dNsHWAS8t7AiAqj9ofG5T"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 305466,
-      "name": "Slippin'",
-      "url": "https://open.spotify.com/track/740gNyGWKk98gy8nJLhHrv"
-    },
-    {
-      "added_at": "2020-03-04 09:06:11",
-      "album": {
-        "name": "Mr. Smith (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 293933,
-      "name": "Doin' It",
-      "url": "https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo"
-    },
-    {
-      "added_at": "2020-03-04 09:06:11",
-      "album": {
         "name": "Fear Of A Black Planet",
         "url": "https://open.spotify.com/album/0aFNb4RDk2hmKKLa0bzXNz"
       },
@@ -295,38 +295,6 @@
       "duration_ms": 282640,
       "name": "Fight The Power",
       "url": "https://open.spotify.com/track/1yo16b3u0lptm6Cs7lx4AD"
-    },
-    {
-      "added_at": "2020-03-04 09:06:11",
-      "album": {
-        "name": "The Black Album",
-        "url": "https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Dirt Off Your Shoulder",
-      "url": "https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm"
-    },
-    {
-      "added_at": "2020-03-04 09:06:11",
-      "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Brass Monkey",
-      "url": "https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ"
     },
     {
       "added_at": "2020-03-04 09:06:11",
@@ -347,6 +315,38 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
+        "name": "The Black Album",
+        "url": "https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "Dirt Off Your Shoulder",
+      "url": "https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm"
+    },
+    {
+      "added_at": "2020-03-04 09:06:11",
+      "album": {
+        "name": "Mama Said Knock You Out (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2ljUSR5STBQGeiqjrfWbSe"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 246533,
+      "name": "Around The Way Girl",
+      "url": "https://open.spotify.com/track/4Qxv2L4JICAWLFrBV6QeH8"
+    },
+    {
+      "added_at": "2020-03-04 09:06:11",
+      "album": {
         "name": "Strictly Business",
         "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
       },
@@ -359,6 +359,22 @@
       "duration_ms": 261839,
       "name": "You Gots To Chill",
       "url": "https://open.spotify.com/track/0f1yzIIGD8k32DNVeEn6jb"
+    },
+    {
+      "added_at": "2020-03-04 09:06:11",
+      "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Brass Monkey",
+      "url": "https://open.spotify.com/track/2tY1gxCKslfXLFpFofYmJQ"
     },
     {
       "added_at": "2020-03-04 09:06:11",
@@ -399,24 +415,8 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
-        "name": "The Dynasty",
-        "url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "I Just Wanna Love U (Give It 2 Me)",
-      "url": "https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c"
-    },
-    {
-      "added_at": "2020-03-04 09:06:11",
-      "album": {
-        "name": "Mama Said Knock You Out (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2ljUSR5STBQGeiqjrfWbSe"
+        "name": "Phenomenon",
+        "url": "https://open.spotify.com/album/0AJaRBLPuUybHfdJi87GQP"
       },
       "artists": [
         {
@@ -424,25 +424,9 @@
           "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
         }
       ],
-      "duration_ms": 246533,
-      "name": "Around The Way Girl",
-      "url": "https://open.spotify.com/track/4Qxv2L4JICAWLFrBV6QeH8"
-    },
-    {
-      "added_at": "2020-03-04 09:06:11",
-      "album": {
-        "name": "Out Of Business (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4TdiCmBKujkiyMeJ1guJJa"
-      },
-      "artists": [
-        {
-          "name": "EPMD",
-          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "Da Joint",
-      "url": "https://open.spotify.com/track/4opGTspdCCVK9IG1b4k8yp"
+      "duration_ms": 244733,
+      "name": "Phenomenon",
+      "url": "https://open.spotify.com/track/7Jc0l11j0Ehx6smWHqDXtX"
     },
     {
       "added_at": "2020-03-04 09:06:11",
@@ -463,54 +447,6 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 220840,
-      "name": "Paul Revere",
-      "url": "https://open.spotify.com/track/3gKwVWwKmeuFtPubICbOGc"
-    },
-    {
-      "added_at": "2020-03-04 09:06:11",
-      "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 302666,
-      "name": "Rebel Without A Pause",
-      "url": "https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb"
-    },
-    {
-      "added_at": "2020-03-04 09:06:11",
-      "album": {
-        "name": "The Blueprint 2: The Gift & The Curse",
-        "url": "https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 281240,
-      "name": "Excuse Me Miss",
-      "url": "https://open.spotify.com/track/0ZHu7jkSSrT0eK4OxuG4O5"
-    },
-    {
-      "added_at": "2020-03-04 09:06:11",
-      "album": {
         "name": "Bacdafucup",
         "url": "https://open.spotify.com/album/5lUgtggG1KroP0qHkpxQ4K"
       },
@@ -527,24 +463,72 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
-        "name": "The Great Adventures Of Slick Rick",
-        "url": "https://open.spotify.com/album/71mmTJdWvpkzQNmVfFbRdN"
+        "name": "The Dynasty",
+        "url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E"
       },
       "artists": [
         {
-          "name": "Slick Rick",
-          "url": "https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 242133,
-      "name": "Children's Story",
-      "url": "https://open.spotify.com/track/71A6V5dh5Y8ikhm6NGwZ7p"
+      "duration_ms": 227866,
+      "name": "I Just Wanna Love U (Give It 2 Me)",
+      "url": "https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c"
     },
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
-        "name": "Phenomenon",
-        "url": "https://open.spotify.com/album/0AJaRBLPuUybHfdJi87GQP"
+        "name": "Out Of Business (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TdiCmBKujkiyMeJ1guJJa"
+      },
+      "artists": [
+        {
+          "name": "EPMD",
+          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "Da Joint",
+      "url": "https://open.spotify.com/track/4opGTspdCCVK9IG1b4k8yp"
+    },
+    {
+      "added_at": "2020-03-04 09:06:11",
+      "album": {
+        "name": "Ain't A Damn Thing Changed",
+        "url": "https://open.spotify.com/album/6EI3q6PeLLmPPPlMxKl59h"
+      },
+      "artists": [
+        {
+          "name": "Nice & Smooth",
+          "url": "https://open.spotify.com/artist/5QhsLryFrDbj9IZ38UmMyn"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Hip Hop Junkies",
+      "url": "https://open.spotify.com/track/3KKrZ3adgWcJiJQWFqoDnv"
+    },
+    {
+      "added_at": "2020-03-04 09:06:11",
+      "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 220840,
+      "name": "Paul Revere",
+      "url": "https://open.spotify.com/track/3gKwVWwKmeuFtPubICbOGc"
+    },
+    {
+      "added_at": "2020-03-04 09:06:11",
+      "album": {
+        "name": "Bigger And Deffer",
+        "url": "https://open.spotify.com/album/5jNxWuqdnchBjdoKykAsY7"
       },
       "artists": [
         {
@@ -552,9 +536,25 @@
           "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
         }
       ],
-      "duration_ms": 244733,
-      "name": "Phenomenon",
-      "url": "https://open.spotify.com/track/7Jc0l11j0Ehx6smWHqDXtX"
+      "duration_ms": 322733,
+      "name": "I Need Love",
+      "url": "https://open.spotify.com/track/519xI1wfOAJvHeV9kFdXaV"
+    },
+    {
+      "added_at": "2020-03-04 09:06:11",
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 302666,
+      "name": "Rebel Without A Pause",
+      "url": "https://open.spotify.com/track/1JJ8D0KE144weLOGrjqJrb"
     },
     {
       "added_at": "2020-03-04 09:06:11",
@@ -587,50 +587,18 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+        "name": "The Great Adventures Of Slick Rick",
+        "url": "https://open.spotify.com/album/71mmTJdWvpkzQNmVfFbRdN"
       },
       "artists": [
         {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+          "name": "Slick Rick",
+          "url": "https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1"
         }
       ],
-      "duration_ms": 275546,
-      "name": "The New Style",
-      "url": "https://open.spotify.com/track/0Mu1MYdE414HeybYSms5KK"
-    },
-    {
-      "added_at": "2020-03-04 09:06:11",
-      "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 319360,
-      "name": "Don't Believe The Hype",
-      "url": "https://open.spotify.com/track/5k8dJvnLKfv1YN9W3bO79x"
-    },
-    {
-      "added_at": "2020-03-04 09:06:11",
-      "album": {
-        "name": "Ain't A Damn Thing Changed",
-        "url": "https://open.spotify.com/album/6EI3q6PeLLmPPPlMxKl59h"
-      },
-      "artists": [
-        {
-          "name": "Nice & Smooth",
-          "url": "https://open.spotify.com/artist/5QhsLryFrDbj9IZ38UmMyn"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "Hip Hop Junkies",
-      "url": "https://open.spotify.com/track/3KKrZ3adgWcJiJQWFqoDnv"
+      "duration_ms": 242133,
+      "name": "Children's Story",
+      "url": "https://open.spotify.com/track/71A6V5dh5Y8ikhm6NGwZ7p"
     },
     {
       "added_at": "2020-03-04 09:06:11",
@@ -651,50 +619,34 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
-        "name": "The Great Adventures Of Slick Rick (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F"
+        "name": "The Blueprint 2: The Gift & The Curse",
+        "url": "https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU"
       },
       "artists": [
         {
-          "name": "Slick Rick",
-          "url": "https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1"
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 245826,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/5JV45IebgbfO3EylYV49rl"
+      "duration_ms": 281240,
+      "name": "Excuse Me Miss",
+      "url": "https://open.spotify.com/track/0ZHu7jkSSrT0eK4OxuG4O5"
     },
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
-        "name": "Bigger And Deffer",
-        "url": "https://open.spotify.com/album/5jNxWuqdnchBjdoKykAsY7"
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
       },
       "artists": [
         {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
         }
       ],
-      "duration_ms": 322733,
-      "name": "I Need Love",
-      "url": "https://open.spotify.com/track/519xI1wfOAJvHeV9kFdXaV"
-    },
-    {
-      "added_at": "2020-03-04 09:06:11",
-      "album": {
-        "name": "Strictly Business",
-        "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
-      },
-      "artists": [
-        {
-          "name": "EPMD",
-          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
-        }
-      ],
-      "duration_ms": 285413,
-      "name": "Strictly Business",
-      "url": "https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX"
+      "duration_ms": 275546,
+      "name": "The New Style",
+      "url": "https://open.spotify.com/track/0Mu1MYdE414HeybYSms5KK"
     },
     {
       "added_at": "2020-03-04 09:06:11",
@@ -735,22 +687,6 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 226040,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
-    },
-    {
-      "added_at": "2020-03-04 09:06:11",
-      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/1i8XHvNdaPXRhoQW0IBycA"
       },
@@ -767,6 +703,38 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 319360,
+      "name": "Don't Believe The Hype",
+      "url": "https://open.spotify.com/track/5k8dJvnLKfv1YN9W3bO79x"
+    },
+    {
+      "added_at": "2020-03-04 09:06:11",
+      "album": {
+        "name": "Strictly Business",
+        "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
+      },
+      "artists": [
+        {
+          "name": "EPMD",
+          "url": "https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN"
+        }
+      ],
+      "duration_ms": 285413,
+      "name": "Strictly Business",
+      "url": "https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX"
+    },
+    {
+      "added_at": "2020-03-04 09:06:11",
+      "album": {
         "name": "The Great Adventures Of Slick Rick (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F"
       },
@@ -776,9 +744,9 @@
           "url": "https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1"
         }
       ],
-      "duration_ms": 336160,
-      "name": "The Ruler's Back",
-      "url": "https://open.spotify.com/track/3cb6gJ7SHYuZ3NVm996ffD"
+      "duration_ms": 245826,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/5JV45IebgbfO3EylYV49rl"
     },
     {
       "added_at": "2020-03-04 09:06:11",
@@ -815,6 +783,58 @@
     {
       "added_at": "2020-03-04 09:06:11",
       "album": {
+        "name": "Def Jam's Greatest Hits - Hardcore",
+        "url": "https://open.spotify.com/album/6YWqN2zFrtZ0OvR782LFzR"
+      },
+      "artists": [
+        {
+          "name": "Boss",
+          "url": "https://open.spotify.com/artist/3mKv8UOsUlfywaQ5bSJRCT"
+        },
+        {
+          "name": "Papa Juggy",
+          "url": "https://open.spotify.com/artist/5v0aP96grdt495fENdbRyf"
+        }
+      ],
+      "duration_ms": 241560,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/6PZ4laM20qkvIrgji3NLsK"
+    },
+    {
+      "added_at": "2020-03-04 09:06:11",
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 226040,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
+    },
+    {
+      "added_at": "2020-03-04 09:06:11",
+      "album": {
+        "name": "The Great Adventures Of Slick Rick (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TzJROIsnfOkLUWmeOjt2F"
+      },
+      "artists": [
+        {
+          "name": "Slick Rick",
+          "url": "https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1"
+        }
+      ],
+      "duration_ms": 336160,
+      "name": "The Ruler's Back",
+      "url": "https://open.spotify.com/track/3cb6gJ7SHYuZ3NVm996ffD"
+    },
+    {
+      "added_at": "2020-03-04 09:06:11",
+      "album": {
         "name": "Out Of Business (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4TdiCmBKujkiyMeJ1guJJa"
       },
@@ -835,26 +855,6 @@
       "duration_ms": 291133,
       "name": "Headbanger",
       "url": "https://open.spotify.com/track/17GdAx0kHOFNXZiCj8HuOW"
-    },
-    {
-      "added_at": "2020-03-04 09:06:11",
-      "album": {
-        "name": "Def Jam's Greatest Hits - Hardcore",
-        "url": "https://open.spotify.com/album/6YWqN2zFrtZ0OvR782LFzR"
-      },
-      "artists": [
-        {
-          "name": "Boss",
-          "url": "https://open.spotify.com/artist/3mKv8UOsUlfywaQ5bSJRCT"
-        },
-        {
-          "name": "Papa Juggy",
-          "url": "https://open.spotify.com/artist/5v0aP96grdt495fENdbRyf"
-        }
-      ],
-      "duration_ms": 241560,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/6PZ4laM20qkvIrgji3NLsK"
     }
   ],
   "unique_name": "Hip-Hop Anthems: Def Jam",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Jorja Smith \(pictured\), Lewis Capaldi, Aitch and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,367 likes - 133 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,424 likes - 133 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

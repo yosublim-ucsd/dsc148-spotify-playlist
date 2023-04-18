@@ -456,7 +456,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 211267,
       "name": "Cool & Easy",
       "url": "https://open.spotify.com/track/2IuJYsK6oaFId5SCp4D2b4"
@@ -1078,6 +1078,24 @@
       "duration_ms": 193352,
       "name": "In Another Life",
       "url": "https://open.spotify.com/track/24tzZeY1hzccRdH4twuwXM"
+    },
+    {
+      "album": {
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/5SDGTrB2F8K4U95zvLjvgZ"
+      },
+      "artists": [
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211332,
+      "name": "IRL",
+      "url": "https://open.spotify.com/track/2wZUb8mFWOod6tDi9BeEmU"
     },
     {
       "album": {
@@ -2102,7 +2120,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 265199,
       "name": "Rescue",
       "url": "https://open.spotify.com/track/2saVnMHiSuTmNSrsTvse0i"
@@ -2616,6 +2634,28 @@
       "duration_ms": 206879,
       "name": "True Love",
       "url": "https://open.spotify.com/track/1rNVWAPDh9YZbjjTRY9ibt"
+    },
+    {
+      "album": {
+        "name": "Undeniable (feat. Kaylan Arnold)",
+        "url": "https://open.spotify.com/album/3n932rLi5cM8YNejLeCcf7"
+      },
+      "artists": [
+        {
+          "name": "Jah Cure",
+          "url": "https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy"
+        },
+        {
+          "name": "Kaylan Arnold",
+          "url": "https://open.spotify.com/artist/30Umdbc6mDkhyrfyPw2quC"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240488,
+      "name": "Undeniable (feat. Kaylan Arnold)",
+      "url": "https://open.spotify.com/track/3FXA9dJbftFcgOoMiGYH0u"
     },
     {
       "album": {

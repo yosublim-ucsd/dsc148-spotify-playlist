@@ -1,12 +1,12 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Depeche Mode. ",
-  "num_followers": 78342,
+  "num_followers": 78534,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM3MTI3MCwwMDAwMDAwMGIxZWFmYzYxN2NiNTFkMjViMDY1NTIxMGJmMmRjMzMz",
+  "snapshot_id": "MTY3NTM3MTI3MCwwMDAwMDAwMGExOGY4OGNhZDYyMTI1YmRmZmU4ZjY4N2MwNzIwYzkz",
   "tracks": [
     {
       "added_at": "2023-01-25 15:11:28",
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY"
     },
     {
-      "added_at": "2023-04-17 01:00:12",
+      "added_at": "2023-04-18 00:52:07",
       "album": {
         "name": "Mistaken Identity",
         "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY"
     },
     {
-      "added_at": "2023-04-17 01:00:12",
+      "added_at": "2023-04-18 00:52:07",
       "album": {
         "name": "Substance",
         "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-01-25 15:11:28",
       "album": {
-        "name": "Decade",
-        "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "A View to a Kill",
-      "url": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
-    },
-    {
-      "added_at": "2023-01-25 15:11:28",
-      "album": {
         "name": "Tom Tom Club",
         "url": "https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 320000,
       "name": "Sunglasses At Night",
       "url": "https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC"
+    },
+    {
+      "added_at": "2023-01-25 15:11:28",
+      "album": {
+        "name": "Decade",
+        "url": "https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "A View to a Kill",
+      "url": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
     },
     {
       "added_at": "2023-01-25 15:11:28",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-01-25 15:11:28",
       "album": {
+        "name": "Into the Gap (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6tcBa4XORQYZBuFCILU3tX"
+      },
+      "artists": [
+        {
+          "name": "Thompson Twins",
+          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
+        }
+      ],
+      "duration_ms": 286360,
+      "name": "Hold Me Now",
+      "url": "https://open.spotify.com/track/0ELzxemxnjAasucn8Sww3m"
+    },
+    {
+      "added_at": "2023-01-25 15:11:28",
+      "album": {
         "name": "Non-Stop Erotic Cabaret",
         "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 323866,
       "name": "Say Hello, Wave Goodbye - 7\" Single Version",
       "url": "https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv"
-    },
-    {
-      "added_at": "2023-01-25 15:11:28",
-      "album": {
-        "name": "Upstairs At Eric's",
-        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
-      },
-      "artists": [
-        {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
-        }
-      ],
-      "duration_ms": 346800,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/1QlogZxaAT35c3HqjJt1JH"
     },
     {
       "added_at": "2023-01-25 15:11:28",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-01-25 15:11:28",
       "album": {
-        "name": "Into the Gap (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6tcBa4XORQYZBuFCILU3tX"
+        "name": "Upstairs At Eric's",
+        "url": "https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V"
       },
       "artists": [
         {
-          "name": "Thompson Twins",
-          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
         }
       ],
-      "duration_ms": 286360,
-      "name": "Hold Me Now",
-      "url": "https://open.spotify.com/track/0ELzxemxnjAasucn8Sww3m"
+      "duration_ms": 346800,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/1QlogZxaAT35c3HqjJt1JH"
     },
     {
       "added_at": "2023-01-25 15:11:28",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-01-25 15:11:28",
       "album": {
-        "name": "Crash",
-        "url": "https://open.spotify.com/album/5PHV7kFMuDYufMWOy68gNx"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        }
-      ],
-      "duration_ms": 265320,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/537yo062QIz16oQOgxmul3"
-    },
-    {
-      "added_at": "2023-01-25 15:11:28",
-      "album": {
         "name": "You And Me Both",
         "url": "https://open.spotify.com/album/2R2ayUdwlcamdEKFJD5BZu"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 330960,
       "name": "Wishing (If I Had a Photograph of You)",
       "url": "https://open.spotify.com/track/6bJhaEuaDpObzFOrsOejlJ"
+    },
+    {
+      "added_at": "2023-01-25 15:11:28",
+      "album": {
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/5PHV7kFMuDYufMWOy68gNx"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "duration_ms": 265320,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/537yo062QIz16oQOgxmul3"
     },
     {
       "added_at": "2023-01-25 15:11:28",

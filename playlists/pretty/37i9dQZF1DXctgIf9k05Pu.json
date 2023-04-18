@@ -1,12 +1,12 @@
 {
   "description": "Aesthetic vibes that just make sense. ",
-  "num_followers": 231108,
+  "num_followers": 231171,
   "original_name": "Aesthetic Lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMDA1Y2YzMDg5Yjk1YTAyNDk5NTBlMTk2NzdhYzRlZjQ0",
+  "snapshot_id": "MTY0Mzc2MTMwOCwwMDAwMDAwMDUyNzdmMDAyMDJlNDg2N2NiNTk1NzI5NTQ3MWVjNjJk",
   "tracks": [
     {
       "added_at": "2022-02-02 00:21:48",
@@ -63,22 +63,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 252230,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Flaming Hot Cheetos",
         "url": "https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 123884,
       "name": "Flaming Hot Cheetos",
       "url": "https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 252230,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Collection",
-        "url": "https://open.spotify.com/album/5si4HjKpy29BM849EkQpJ9"
-      },
-      "artists": [
-        {
-          "name": "90sFlav",
-          "url": "https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C"
-        }
-      ],
-      "duration_ms": 126250,
-      "name": "Call me",
-      "url": "https://open.spotify.com/track/1tZQJiCrjMuWZkNdtClr2Z"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "rainy evening",
         "url": "https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 108000,
       "name": "Controlla",
       "url": "https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Collection",
+        "url": "https://open.spotify.com/album/5si4HjKpy29BM849EkQpJ9"
+      },
+      "artists": [
+        {
+          "name": "90sFlav",
+          "url": "https://open.spotify.com/artist/6OOxsmeDk34xk6Ok3Ap95C"
+        }
+      ],
+      "duration_ms": 126250,
+      "name": "Call me",
+      "url": "https://open.spotify.com/track/1tZQJiCrjMuWZkNdtClr2Z"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
-        "name": "Gravity Falls",
-        "url": "https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG"
-      },
-      "artists": [
-        {
-          "name": "L.Dre",
-          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "Gravity Falls",
-      "url": "https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
         "name": "Harbor",
         "url": "https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "Gravity Falls",
+        "url": "https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG"
+      },
+      "artists": [
+        {
+          "name": "L.Dre",
+          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
+        }
+      ],
+      "duration_ms": 114000,
+      "name": "Gravity Falls",
+      "url": "https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/3fr8eTKmfc0cjaijl4lduW"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 86571,
       "name": "viola",
       "url": "https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
+        "name": "Theres Still Us",
+        "url": "https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ"
+      },
+      "artists": [
+        {
+          "name": "Swell",
+          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
+        }
+      ],
+      "duration_ms": 157524,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -679,22 +695,6 @@
       "duration_ms": 182416,
       "name": "the way that you see me (feat. Ayleen Valentine)",
       "url": "https://open.spotify.com/track/0k2bhZ9oM3boyUWaV3MfWk"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "Theres Still Us",
-        "url": "https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ"
-      },
-      "artists": [
-        {
-          "name": "Swell",
-          "url": "https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez"
-        }
-      ],
-      "duration_ms": 157524,
-      "name": "I'm Sorry",
-      "url": "https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM"
     },
     {
       "added_at": "2022-02-02 00:21:48",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-02-02 00:21:48",
       "album": {
+        "name": "Redbone",
+        "url": "https://open.spotify.com/album/7ifFCYOT1n2YGyYhSuU59g"
+      },
+      "artists": [
+        {
+          "name": "Dontcry",
+          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
+        }
+      ],
+      "duration_ms": 102176,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/2hYuPn9UXZCqkA3mMedCXe"
+    },
+    {
+      "added_at": "2022-02-02 00:21:48",
+      "album": {
         "name": "Summer Picnic",
         "url": "https://open.spotify.com/album/6U05K7fOYSMkZ7qJuKCVND"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 112941,
       "name": "fountain",
       "url": "https://open.spotify.com/track/35D1qs5m12ATl5WhkiunHT"
-    },
-    {
-      "added_at": "2022-02-02 00:21:48",
-      "album": {
-        "name": "Redbone",
-        "url": "https://open.spotify.com/album/7ifFCYOT1n2YGyYhSuU59g"
-      },
-      "artists": [
-        {
-          "name": "Dontcry",
-          "url": "https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU"
-        }
-      ],
-      "duration_ms": 102176,
-      "name": "Redbone",
-      "url": "https://open.spotify.com/track/2hYuPn9UXZCqkA3mMedCXe"
     },
     {
       "added_at": "2022-02-02 00:21:48",

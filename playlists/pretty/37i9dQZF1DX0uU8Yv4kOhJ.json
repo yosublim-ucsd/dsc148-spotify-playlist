@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 122015,
+  "num_followers": 122043,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMzQ4MCwwMDAwMDAwMGYzODVkZGU4NWI5MDBiYTk2ZWJjNmExZjllYjI2Y2I4",
+  "snapshot_id": "MTY3NjYxMzQ4MCwwMDAwMDAwMDViMjViMGRhMjA3ZDJiNzcxZmY2NDFjOGJmZjlkNTNl",
   "tracks": [
     {
       "added_at": "2023-02-17 05:58:00",
@@ -127,42 +127,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Prender el Alma",
-        "url": "https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 315493,
-      "name": "La Cosecha",
-      "url": "https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/6OevmK3tcivYCuZKtJ6PRC"
-      },
-      "artists": [
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        },
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
-        }
-      ],
-      "duration_ms": 254815,
-      "name": "Coraz\u00f3n de Rub\u00ed",
-      "url": "https://open.spotify.com/track/4zBYQGO8dU0SVpm3Zld6q2"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Orcas",
         "url": "https://open.spotify.com/album/474lLBbfJm8Y3zjSIXWgA3"
       },
@@ -215,26 +179,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Luzmila Carpio Remixed (Luzmila Carpio Meets ZZK)",
-        "url": "https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj"
-      },
-      "artists": [
-        {
-          "name": "Luzmila Carpio",
-          "url": "https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr"
-        },
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
-        }
-      ],
-      "duration_ms": 260504,
-      "name": "Tarpuricusum Sarata - Captain Planet Remix",
-      "url": "https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Amansara Remixed",
         "url": "https://open.spotify.com/album/3zFmRK5xmyvsSIQ60kNbb6"
       },
@@ -251,6 +195,62 @@
       "duration_ms": 239417,
       "name": "Sueno en Paraguay - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/59ERJnanE5T9s95cIMpQbx"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/6OevmK3tcivYCuZKtJ6PRC"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+        }
+      ],
+      "duration_ms": 254815,
+      "name": "Coraz\u00f3n de Rub\u00ed",
+      "url": "https://open.spotify.com/track/4zBYQGO8dU0SVpm3Zld6q2"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Prender el Alma",
+        "url": "https://open.spotify.com/album/4i3DT5kt2AlODhnyv0mDKN"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 315493,
+      "name": "La Cosecha",
+      "url": "https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Luzmila Carpio Remixed (Luzmila Carpio Meets ZZK)",
+        "url": "https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj"
+      },
+      "artists": [
+        {
+          "name": "Luzmila Carpio",
+          "url": "https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr"
+        },
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+        }
+      ],
+      "duration_ms": 260504,
+      "name": "Tarpuricusum Sarata - Captain Planet Remix",
+      "url": "https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Lo Mejor de Savia Andina (M\u00fasica Boliviana)",
-        "url": "https://open.spotify.com/album/3TThUIkeWMC62bZdIdYeV9"
-      },
-      "artists": [
-        {
-          "name": "Savia Andina",
-          "url": "https://open.spotify.com/artist/0hkFv9719WLJ2uupZTn0ru"
-        }
-      ],
-      "duration_ms": 214906,
-      "name": "Boquer\u00f3n Abandonado",
-      "url": "https://open.spotify.com/track/0ECth7Ix1HakMkZVOWDALf"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Nada",
         "url": "https://open.spotify.com/album/6uvd9g2I5M3x6EaKusdJDK"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 298809,
       "name": "Nada",
       "url": "https://open.spotify.com/track/0IqrBjsS2wToMuIJgZjur7"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Lo Mejor de Savia Andina (M\u00fasica Boliviana)",
+        "url": "https://open.spotify.com/album/3TThUIkeWMC62bZdIdYeV9"
+      },
+      "artists": [
+        {
+          "name": "Savia Andina",
+          "url": "https://open.spotify.com/artist/0hkFv9719WLJ2uupZTn0ru"
+        }
+      ],
+      "duration_ms": 214906,
+      "name": "Boquer\u00f3n Abandonado",
+      "url": "https://open.spotify.com/track/0ECth7Ix1HakMkZVOWDALf"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Ay Palomita",
-        "url": "https://open.spotify.com/album/7DOyUoS0PJlkCjj7e8x7gk"
+        "name": "Morena Esperanza (Remasterizado)",
+        "url": "https://open.spotify.com/album/5XKPz8xM5PTS5vzaC7gyrY"
       },
       "artists": [
         {
-          "name": "Rodrigo Gallardo",
-          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+          "name": "Illapu",
+          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
         }
       ],
-      "duration_ms": 391452,
-      "name": "Ay Palomita",
-      "url": "https://open.spotify.com/track/04p8PSA8qNyrrszfgLM6DD"
+      "duration_ms": 266080,
+      "name": "Isla Negra",
+      "url": "https://open.spotify.com/track/4HK6iuNDF0SC5Vz7jznprn"
     },
     {
       "added_at": "2023-02-17 05:58:00",

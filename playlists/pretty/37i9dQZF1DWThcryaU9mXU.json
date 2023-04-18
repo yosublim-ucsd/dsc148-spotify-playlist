@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 38578,
+  "num_followers": 38625,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMDRhM2FmNWFlOGM4ODZiODY4ODRmZDg5YTljM2JkODBk",
+  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMDNhZDkzOGRhZDcyNTM4N2ZmZmJmZjIzNTY1OTdhMzE0",
   "tracks": [
     {
       "added_at": "2023-03-24 00:01:00",
@@ -191,6 +191,26 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
+        "name": "Real Gone",
+        "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
+      },
+      "artists": [
+        {
+          "name": "Ally Venable",
+          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 262869,
+      "name": "Broken & Blue (feat. Joe Bonamassa)",
+      "url": "https://open.spotify.com/track/6YhIOU8jVa14jqcyc6bCKf"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
         "name": "The Blues",
         "url": "https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 411960,
       "name": "Reconsider Baby",
       "url": "https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
-        "name": "Real Gone",
-        "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
-      },
-      "artists": [
-        {
-          "name": "Ally Venable",
-          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 262869,
-      "name": "Broken & Blue (feat. Joe Bonamassa)",
-      "url": "https://open.spotify.com/track/6YhIOU8jVa14jqcyc6bCKf"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Scoundrel",
-        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
-      },
-      "artists": [
-        {
-          "name": "Sam Burchfield",
-          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
-        }
-      ],
-      "duration_ms": 277733,
-      "name": "Bonnie",
-      "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "A Savage Life",
         "url": "https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 167330,
       "name": "Blues On The Bay",
       "url": "https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Scoundrel",
+        "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "duration_ms": 277733,
+      "name": "Bonnie",
+      "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "All Blues",
-        "url": "https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu"
-      },
-      "artists": [
-        {
-          "name": "Peter Frampton Band",
-          "url": "https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO"
-        }
-      ],
-      "duration_ms": 274088,
-      "name": "Same Old Blues",
-      "url": "https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Open Road",
         "url": "https://open.spotify.com/album/6rCfNyYGANioIYQ7LTF2IV"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 304868,
       "name": "That's Why I'm Crying",
       "url": "https://open.spotify.com/track/2oaHiYkuDjqbfMPZERPlKH"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "All Blues",
+        "url": "https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu"
+      },
+      "artists": [
+        {
+          "name": "Peter Frampton Band",
+          "url": "https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO"
+        }
+      ],
+      "duration_ms": 274088,
+      "name": "Same Old Blues",
+      "url": "https://open.spotify.com/track/1J5kvLHbuFrcYlQDxrujYr"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Man of the World: The Anthology 1968-1988",
-        "url": "https://open.spotify.com/album/69HtVZxz40GuPTCxfgtx5o"
-      },
-      "artists": [
-        {
-          "name": "Peter Green",
-          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
-        }
-      ],
-      "duration_ms": 464666,
-      "name": "A Fool No More",
-      "url": "https://open.spotify.com/track/7gfoAvnBt1L3QpzHZfce8T"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Jackie Sings The Blues",
         "url": "https://open.spotify.com/album/0vNnjQQ3qUWyNI3H8tYMy4"
       },
@@ -655,18 +639,18 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Nothing But the Blues (Live)",
-        "url": "https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc"
+        "name": "Man of the World: The Anthology 1968-1988",
+        "url": "https://open.spotify.com/album/69HtVZxz40GuPTCxfgtx5o"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Peter Green",
+          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
         }
       ],
-      "duration_ms": 430106,
-      "name": "Groaning the Blues - Live at the Fillmore, San Francisco, 1994",
-      "url": "https://open.spotify.com/track/0cczXxFrHRdrAOymBxEmmF"
+      "duration_ms": 464666,
+      "name": "A Fool No More",
+      "url": "https://open.spotify.com/track/7gfoAvnBt1L3QpzHZfce8T"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -683,6 +667,22 @@
       "duration_ms": 224840,
       "name": "I Shall Know Him",
       "url": "https://open.spotify.com/track/5sk8dIBrmEJc2YY4lW2LHT"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Nothing But the Blues (Live)",
+        "url": "https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 430106,
+      "name": "Groaning the Blues - Live at the Fillmore, San Francisco, 1994",
+      "url": "https://open.spotify.com/track/0cczXxFrHRdrAOymBxEmmF"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Next Time You See Me",
-        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
-      },
-      "artists": [
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 156040,
-      "name": "I Need Love So Bad",
-      "url": "https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Wish Someone Would Care",
         "url": "https://open.spotify.com/album/2nnXcAt9Yke9sHwKtfcJlY"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 140960,
       "name": "Sufferin' With The Blues",
       "url": "https://open.spotify.com/track/780aR01ClCSK7X6DQlyT60"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Next Time You See Me",
+        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "duration_ms": 156040,
+      "name": "I Need Love So Bad",
+      "url": "https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 285200,
-      "name": "Tender Organs",
-      "url": "https://open.spotify.com/track/6cst4w2QTOrH5e6FAsLLjI"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Midnight Call",
         "url": "https://open.spotify.com/album/12mXkL9AHk64ChMcGy1S99"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 288240,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/6UySBGc30lbIKbo39z0zFB"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 285200,
+      "name": "Tender Organs",
+      "url": "https://open.spotify.com/track/6cst4w2QTOrH5e6FAsLLjI"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Best Of The Vanguard Years",
-        "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 319960,
-      "name": "No More Lonely Nights",
-      "url": "https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Memphis Moonlight",
         "url": "https://open.spotify.com/album/190SoOYPW7oceXrstDTvp8"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 288856,
       "name": "Love Is Gone",
       "url": "https://open.spotify.com/track/72H7XGrB55Uh7IOxlPD6u6"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Best Of The Vanguard Years",
+        "url": "https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 319960,
+      "name": "No More Lonely Nights",
+      "url": "https://open.spotify.com/track/2JrOFXxwVO0duMSxfhwUXN"
     },
     {
       "added_at": "2023-03-24 00:01:00",

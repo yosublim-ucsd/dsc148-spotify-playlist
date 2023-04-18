@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Jordan Sandhu & Mahira Sharma
 
-93 songs - 4 hr 35 min
+95 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 | 2023-03-29 |  |
 | [DEAD ZONE](https://open.spotify.com/track/5RTQ7QLKmUyWMl0jdPJzhp) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Jay Dee](https://open.spotify.com/artist/35sUjoeFA3eopTY3PXEjVA) | [DEAD ZONE](https://open.spotify.com/album/0mjJN14v2RlLGi4irooXVm) | 2:49 | 2023-03-29 |  |
 | [Doaba Zone](https://open.spotify.com/track/4aPJDwEXwpND92r8VVfgvi) | [Shivjot Suchipind](https://open.spotify.com/artist/7dIWDfVELEshdx6pQvN6KJ) | [Doaba Zone](https://open.spotify.com/album/7hkWGmP36F8gFpCshqK04g) | 3:05 | 2023-03-29 | 2023-04-09 |
+| [Don’T Care](https://open.spotify.com/track/4AGDZS12QtecmUYaIdIxZ5) | [Gur\. V](https://open.spotify.com/artist/28zEsrNPBJJSsmRjsysTvY), [Jot Dhindsa](https://open.spotify.com/artist/6pJP9TynvFU2wR1pDMtwth), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Don’T Care](https://open.spotify.com/album/1ZbZn6xKNv0PDn7hq2B9Av) | 2:50 | 2023-04-17 |  |
 | [Duphare](https://open.spotify.com/track/6Yd2Qe4m4DHNrOYoGz46Us) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Jatt Da Nishana](https://open.spotify.com/album/63SkBlsiJBtXn24OefwFLT) | 2:05 | 2023-03-29 | 2023-04-15 |
 | [Excited](https://open.spotify.com/track/4zgEDxWXTVuNmkI79ptoms) | [Inder Dosanjh](https://open.spotify.com/artist/4uhm0dnOES3u20XHR4HTQY), [Quan](https://open.spotify.com/artist/4rDS8JCx4Q5fYKO5K14Vxp) | [Excited](https://open.spotify.com/album/3tSrUwOd0bpchOFDr23apD) | 2:52 | 2023-03-29 |  |
 | [Expense](https://open.spotify.com/track/4LPNEtQxELZYdaacTHWMxq) | [Teji Grewal](https://open.spotify.com/artist/68evXbnRy6P5jtQ9Q0gVMr) | [Expense](https://open.spotify.com/album/1T0Lwamtr3bvYAOIQ4WdW3) | 2:10 | 2023-03-29 | 2023-04-09 |
@@ -64,6 +65,7 @@
 | [Majhail 1.0](https://open.spotify.com/track/5NeP5LxzlLaGlsVFHviHUj) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [FAME](https://open.spotify.com/album/6gTapG6daOo6Y9XhibKBvg) | 2:49 | 2023-03-29 |  |
 | [Mandeer](https://open.spotify.com/track/2nxQsbR0Cqy4MPI6vftwyX) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Awara](https://open.spotify.com/album/5yfA6iH6eQ4JkhT0z9mmmF) | 3:10 | 2023-03-29 |  |
 | [Mere Wala Jatt](https://open.spotify.com/track/2A9cZk5m1wYvlUPLhIMA7U) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Mere Wala Jatt](https://open.spotify.com/album/71mPX0HJuZ6FSJD7WNiTCi) | 3:43 | 2023-03-29 |  |
+| [Miss India](https://open.spotify.com/track/25YxiGah27DBUtuxADIzug) | [George Sidhu](https://open.spotify.com/artist/3D2754tZxCEJ4bhiEN0QEC), [G Noor](https://open.spotify.com/artist/3oCuewGts8hB4pGDkG5Lo8), [Riyaaz](https://open.spotify.com/artist/7CpYGl06EZeQ7cQJ6lCTkq) | [Miss India](https://open.spotify.com/album/2jPAZcpRzdI7GIMThM56am) | 2:56 | 2023-04-17 |  |
 | [Modern Mirza](https://open.spotify.com/track/20gi7fdusYZmDvsj8hBd3Z) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6) | [Modern Mirza](https://open.spotify.com/album/2Dnw9FRBqVGdmKpwuVCLJa) | 3:33 | 2023-03-29 |  |
 | [Muqabala](https://open.spotify.com/track/5OcXS6QZCiQYHzae9rfEeC) | [Guri Lahoria](https://open.spotify.com/artist/4oMjKSuAAFB6E9a5Icudw3), [Devilo](https://open.spotify.com/artist/5qrlwNqpcRzoI9Pjux1xHQ) | [Muqabala](https://open.spotify.com/album/5bPE9YHDx56udNABcQzZsf) | 3:46 | 2023-03-29 | 2023-04-15 |
 | [My Rulez](https://open.spotify.com/track/2WrgOxn53EUKLxuzo1pscL) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [My Rulez](https://open.spotify.com/album/0NPgf1wtzwgv7qw2TtNfAZ) | 2:47 | 2023-03-29 |  |

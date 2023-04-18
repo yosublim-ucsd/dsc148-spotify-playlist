@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 2676,
+  "num_followers": 2686,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMDFjNThjZWNhNmRhYThiMDUyNGYwYTI1NDE2MzgwZTAy",
+  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMGUzM2ExMWUyNGFlYmUxYTkwYTk1YzdlZTc2ZTI1Y2I1",
   "tracks": [
     {
       "added_at": "2023-03-30 23:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Ballad Of Easy Rider",
-        "url": "https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS"
-      },
-      "artists": [
-        {
-          "name": "Mell & Vintage Future",
-          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
-        }
-      ],
-      "duration_ms": 125800,
-      "name": "Ballad Of Easy Rider",
-      "url": "https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "The Green Stone",
         "url": "https://open.spotify.com/album/57CTi3hCyV59RC8r5Yu9Wu"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 204840,
       "name": "I Waited for You",
       "url": "https://open.spotify.com/track/72ekaAHOCACTFM9C5DQ9uw"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Ballad Of Easy Rider",
+        "url": "https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS"
+      },
+      "artists": [
+        {
+          "name": "Mell & Vintage Future",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+        }
+      ],
+      "duration_ms": 125800,
+      "name": "Ballad Of Easy Rider",
+      "url": "https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Big Thing",
+        "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
+      },
+      "artists": [
+        {
+          "name": "Elephant",
+          "url": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
+        }
+      ],
+      "duration_ms": 215440,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "Maybe, Maybe Not",
         "url": "https://open.spotify.com/album/453ui3VLbh97vpNlo5YEAf"
       },
@@ -731,6 +747,22 @@
       "duration_ms": 200157,
       "name": "Maybe, Maybe Not",
       "url": "https://open.spotify.com/track/1rDkFbHS0krhKweIL6ogTB"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Burlesque Desert Window",
+        "url": "https://open.spotify.com/album/4oUx1HJHLYrR89VrzjzHf4"
+      },
+      "artists": [
+        {
+          "name": "Trampled by Turtles",
+          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
+        }
+      ],
+      "duration_ms": 179573,
+      "name": "Burlesque Desert Window",
+      "url": "https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -755,38 +787,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Big Thing",
-        "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
-      },
-      "artists": [
-        {
-          "name": "Elephant",
-          "url": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
-        }
-      ],
-      "duration_ms": 215440,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Burlesque Desert Window",
-        "url": "https://open.spotify.com/album/4oUx1HJHLYrR89VrzjzHf4"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 179573,
-      "name": "Burlesque Desert Window",
-      "url": "https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "The Longest Journey",
         "url": "https://open.spotify.com/album/6VaC5jCtlmDrrGq9A8pKrx"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Loose Future",
-        "url": "https://open.spotify.com/album/25dWaNwrPBrS1UAXUBZOVh"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "Loose Future",
-      "url": "https://open.spotify.com/track/1f7mKDuWfkhMXOnRcdI8Vz"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Once Upon A Town",
         "url": "https://open.spotify.com/album/5uPvRkqZrTkRvIufbRFvt4"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 179250,
       "name": "Once Upon A Town",
       "url": "https://open.spotify.com/track/32qnA2AzhYiz9QfSMVvgo3"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Loose Future",
+        "url": "https://open.spotify.com/album/25dWaNwrPBrS1UAXUBZOVh"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "Loose Future",
+      "url": "https://open.spotify.com/track/1f7mKDuWfkhMXOnRcdI8Vz"
     }
   ],
   "unique_name": "Route Americana",

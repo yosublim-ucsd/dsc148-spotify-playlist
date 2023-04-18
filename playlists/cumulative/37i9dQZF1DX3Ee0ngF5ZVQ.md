@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Catie Offerman
 
-433 songs - 1 day 1 hr 49 min
+434 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Burn It Down \- 717 Tapes](https://open.spotify.com/track/5NqaRQWSVg9mnnmdCZJ17s) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [717 Tapes, Vol\. 2](https://open.spotify.com/album/1AWzOlaYVoo3IazAiSD5t6) | 2:49 | 2022-07-22 | 2022-11-13 |
 | [Burn Me Down](https://open.spotify.com/track/7r41RrqQejlztQ1zn3rcN2) | [Carlton Anderson](https://open.spotify.com/artist/74mYYs1dlkIRfk36HcsFRv) | [Burn Me Down](https://open.spotify.com/album/5EQprNS7gJmsycBK6KYQps) | 3:07 | 2022-07-01 | 2022-07-15 |
 | [Burnout](https://open.spotify.com/track/5rQxbTWwuOoNV9q2PSRWZs) | [Jacob Stelly](https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41), [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [Burnout](https://open.spotify.com/album/6E9hTVy9M8uxAUQPaTH7eE) | 4:02 | 2022-03-25 | 2023-04-15 |
-| [But Me](https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2) | [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [But Me](https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1) | 3:55 | 2022-07-22 |  |
+| [But Me](https://open.spotify.com/track/4Y6NQuXwIQNbRJccgE9ul2) | [Slade Coulter](https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn) | [But Me](https://open.spotify.com/album/3EMvVIcOA7woHlWrlxQoF1) | 3:55 | 2022-07-22 | 2023-04-18 |
 | [Buzzed Brain](https://open.spotify.com/track/28BlOyCL7tkzuc9xWwTPFI) | [Carson Jeffrey](https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l) | [Buzzed Brain, Pt\. 2](https://open.spotify.com/album/04Z0wNec76yBlauZ0gabJ3) | 4:26 | 2021-12-17 | 2022-07-24 |
 | [Calling Your Bluff](https://open.spotify.com/track/2KBsnRFMKnPkjjQNuVhClj) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Cigarettes and Alcohol \- EP](https://open.spotify.com/album/1hEQhjpGQpqDjLE9iYt1bH) | 3:23 | 2022-06-10 | 2022-07-29 |
 | [Can't Put the Bottle Down](https://open.spotify.com/track/0Ufy3qrNWGyNe0LRNtbUy5) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Can't Put the Bottle Down](https://open.spotify.com/album/1sp7u3WV7sjHYxLPjBHGlm) | 3:23 | 2022-05-06 | 2022-08-24 |
@@ -416,6 +416,7 @@
 | [When You're Coming Down](https://open.spotify.com/track/3tzy19v6fti9MZI38jmUzt) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [When You're Coming Down](https://open.spotify.com/album/0ME2uFunWrzFObtOtAKn5z) | 4:20 | 2021-12-17 | 2022-03-19 |
 | [Where Cotton Is King](https://open.spotify.com/track/54nEY2U21ezqHezg1XNeqr) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Where Cotton Is King](https://open.spotify.com/album/5rkQu4FxupIR0c3py7AHz7) | 3:31 | 2022-09-02 | 2023-02-11 |
 | [Where the Lonely Go](https://open.spotify.com/track/3ExEYtIdVTuIebZsoc8l2v) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Heaven Down Here](https://open.spotify.com/album/3BRywwUQdsv5iFBZ9LajTg) | 3:31 | 2022-01-28 | 2022-06-25 |
+| [Where the Wildflowers Lay](https://open.spotify.com/track/6UGVVw3Jpck5k3IVeUWK0X) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Drowning In Dreams](https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS) | 2:47 | 2023-04-14 |  |
 | [Where the Wildflowers Lay](https://open.spotify.com/track/7zrKHpQ36XPqL46P9qgXAs) | [Kat Hasty](https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d) | [Drowning in Dreams, Pt\. 2](https://open.spotify.com/album/5Gc3yWWPy0KdH7BR12Z3TK) | 2:47 | 2021-12-17 | 2023-04-14 |
 | [Wherever I Am](https://open.spotify.com/track/1mIAWUrotcchpannDztoxM) | [Kolton Moore & the Clever Few](https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj) | [Wherever I Am](https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS) | 4:13 | 2021-12-17 |  |
 | [Whiskey](https://open.spotify.com/track/6XHyGwW1pu2vIVhtt8M5uf) | [Graycie York](https://open.spotify.com/artist/1xJprUmeoe1iyVDl9vb552) | [Whiskey](https://open.spotify.com/album/44mK7NKStFXVAF5MgIpyaq) | 4:01 | 2021-12-17 | 2022-07-26 |

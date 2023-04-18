@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,486 likes - 30 songs - 1 hr 26 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,484 likes - 31 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,5 +38,6 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 | 28 | [Dale Loca](https://open.spotify.com/track/2gadKaKUi5ZGtzawTUfLwr) | [Chemical Surf](https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx), [Anna Marchesini](https://open.spotify.com/artist/5pgt3A5TmZz94jyIbUPbtD) | [Dale Loca](https://open.spotify.com/album/2lawLhKlGRsqvS4ETYdPqW) | 2:18 |
 | 29 | [Take My Breath Away \(feat\. Linney\)](https://open.spotify.com/track/4MrSl40iewpWmkq0GOi849) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Take My Breath Away \(feat\. Linney\)](https://open.spotify.com/album/5DPdR5DXrXQ2sV7H1yMJKe) | 4:00 |
 | 30 | [Euphoria](https://open.spotify.com/track/7l9iHqc96MliysA243IK2V) | [Odd Language](https://open.spotify.com/artist/6jo39RCQ903pfIWvev74XB) | [Euphoria](https://open.spotify.com/album/41ANCAUNiWvzR9cjxq5iVD) | 2:52 |
+| 31 | [Anarchy](https://open.spotify.com/track/7EQr5uQA2EafjldVAV2vkx) | [MT11](https://open.spotify.com/artist/1dupVc2k1FzwKcGNPX08ks) | [Anarchy](https://open.spotify.com/album/5jTGJaYpZ8ifetpJAjRQmK) | 3:17 |
 
-Snapshot ID: `NjE4NywwMDIzMDM0ODllMzEzOTZjNjUxZGRmMzE3YTA3NzYyMzZkN2VjN2E2`
+Snapshot ID: `NjE4OCw0YzMxYjFkMjdmMzY0NDRiNzhkNjI1ZTc1NjIyNDA0ZTAwMjU3MjYz`

@@ -1,12 +1,12 @@
 {
   "description": "Vibras rastafari para poner en sinton\u00eda el coraz\u00f3n.",
-  "num_followers": 73906,
+  "num_followers": 73956,
   "original_name": "Reggae Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTI2MjI2MSwwMDAwMDAwMGFjMTkyZTkwNjY1MDI0MDI1NjNkMjVlNDZiMGJkZTk0",
+  "snapshot_id": "MTY4MTI2MjI2MSwwMDAwMDAwMGI5OGU4M2Y4NDM1M2Q5MDY0YjUwNzU4M2IxYWM1NzA1",
   "tracks": [
     {
       "added_at": "2023-01-27 05:01:00",
@@ -157,38 +157,6 @@
       "url": "https://open.spotify.com/track/34Uygh7OsoZdlzzDbHgjgb"
     },
     {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "Vivi En Do",
-        "url": "https://open.spotify.com/album/1nqhr6N5KbIaUbsTXq5WCa"
-      },
-      "artists": [
-        {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
-        }
-      ],
-      "duration_ms": 257881,
-      "name": "Mas Alla De Tus Ojos",
-      "url": "https://open.spotify.com/track/4Wbc65UGEKfToeo4w8rQO7"
-    },
-    {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "Pampas Reggae",
-        "url": "https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/2lqFwTECuP5VNUvzzotxWo"
-    },
-    {
       "added_at": "2023-04-12 01:17:41",
       "album": {
         "name": "Binikini",
@@ -211,6 +179,22 @@
     {
       "added_at": "2023-01-27 05:01:00",
       "album": {
+        "name": "Pampas Reggae",
+        "url": "https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/2lqFwTECuP5VNUvzzotxWo"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
         "name": "La Dulzura",
         "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 364959,
       "name": "La Complicidad",
       "url": "https://open.spotify.com/track/0yAc7tMrxA3KwdVpVDe402"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Vivi En Do",
+        "url": "https://open.spotify.com/album/1nqhr6N5KbIaUbsTXq5WCa"
+      },
+      "artists": [
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "duration_ms": 257881,
+      "name": "Mas Alla De Tus Ojos",
+      "url": "https://open.spotify.com/track/4Wbc65UGEKfToeo4w8rQO7"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Diario",
-        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 304973,
-      "name": "De Antes",
-      "url": "https://open.spotify.com/track/3aZQgYCIcO2OQHU7bPvt5R"
-    },
-    {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
         "name": "Tu Eres Como el Fuego",
         "url": "https://open.spotify.com/album/4WfZ8y9zEy9z1VCZM88fm9"
       },
@@ -363,22 +347,6 @@
     {
       "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Hagan Correr la Voz",
-        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        }
-      ],
-      "duration_ms": 221040,
-      "name": "Tu Presencia",
-      "url": "https://open.spotify.com/track/58KaBE2fnHA8R0iesCbe8o"
-    },
-    {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
         "name": "Trippy Caribbean",
         "url": "https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG"
       },
@@ -391,6 +359,38 @@
       "duration_ms": 262771,
       "name": "V\u00e9ngase I",
       "url": "https://open.spotify.com/track/1kOzw10XqOtFA7Qar4Bjpu"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Diario",
+        "url": "https://open.spotify.com/album/29N2zEcNkyFcgy0dIhqY91"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 304973,
+      "name": "De Antes",
+      "url": "https://open.spotify.com/track/3aZQgYCIcO2OQHU7bPvt5R"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Hagan Correr la Voz",
+        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 221040,
+      "name": "Tu Presencia",
+      "url": "https://open.spotify.com/track/58KaBE2fnHA8R0iesCbe8o"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-01-27 05:01:00",
       "album": {
+        "name": "Eleven",
+        "url": "https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt"
+      },
+      "artists": [
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "duration_ms": 249906,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
         "name": "Tierra",
         "url": "https://open.spotify.com/album/4mbl2aKs7pes6EKvInIsLL"
       },
@@ -583,22 +599,6 @@
     {
       "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Eleven",
-        "url": "https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 249906,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame"
-    },
-    {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
         "name": "Pasajeros",
         "url": "https://open.spotify.com/album/7wPX6dyFYxKhSpszngQfhJ"
       },
@@ -611,22 +611,6 @@
       "duration_ms": 260306,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/7gbNeM27pOcRrXOjl49ZyN"
-    },
-    {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "RAS Portraits",
-        "url": "https://open.spotify.com/album/5vqr9fcTKswnFS7WJKPax9"
-      },
-      "artists": [
-        {
-          "name": "Gondwana",
-          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "Armonia de Amor",
-      "url": "https://open.spotify.com/track/0FGiRaJJoao1C1pNrqpxQA"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -651,34 +635,34 @@
     {
       "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "La Playa",
-        "url": "https://open.spotify.com/album/0LZXfPCtqnaP9y4KsOMSWV"
+        "name": "RAS Portraits",
+        "url": "https://open.spotify.com/album/5vqr9fcTKswnFS7WJKPax9"
       },
       "artists": [
         {
-          "name": "Alkilados",
-          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+          "name": "Gondwana",
+          "url": "https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd"
         }
       ],
-      "duration_ms": 196164,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/0VFp2NOB2gUYtD1raVIFir"
+      "duration_ms": 235426,
+      "name": "Armonia de Amor",
+      "url": "https://open.spotify.com/track/0FGiRaJJoao1C1pNrqpxQA"
     },
     {
       "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "Buenas Noticias",
-        "url": "https://open.spotify.com/album/4XtplkaYKyMzIiIekNBe2n"
+        "name": "M\u00edstica Ra\u00edz",
+        "url": "https://open.spotify.com/album/4JStVeGijMSujCyhPs2vAb"
       },
       "artists": [
         {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+          "name": "Raices y Cultura",
+          "url": "https://open.spotify.com/artist/1atI7YjIWe7u50rp2CbkCd"
         }
       ],
-      "duration_ms": 251878,
-      "name": "Puedo esperarte",
-      "url": "https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh"
+      "duration_ms": 215197,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/54PNVT1xT6FDtKUnR7zSsj"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -699,18 +683,18 @@
     {
       "added_at": "2023-01-27 05:01:00",
       "album": {
-        "name": "M\u00edstica Ra\u00edz",
-        "url": "https://open.spotify.com/album/4JStVeGijMSujCyhPs2vAb"
+        "name": "La Playa",
+        "url": "https://open.spotify.com/album/0LZXfPCtqnaP9y4KsOMSWV"
       },
       "artists": [
         {
-          "name": "Raices y Cultura",
-          "url": "https://open.spotify.com/artist/1atI7YjIWe7u50rp2CbkCd"
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
         }
       ],
-      "duration_ms": 215197,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/54PNVT1xT6FDtKUnR7zSsj"
+      "duration_ms": 196164,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/0VFp2NOB2gUYtD1raVIFir"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -747,6 +731,22 @@
     {
       "added_at": "2023-01-27 05:01:00",
       "album": {
+        "name": "Buenas Noticias",
+        "url": "https://open.spotify.com/album/4XtplkaYKyMzIiIekNBe2n"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        }
+      ],
+      "duration_ms": 251878,
+      "name": "Puedo esperarte",
+      "url": "https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
         "name": "Mucha Cosa Buena",
         "url": "https://open.spotify.com/album/2Lvsyubptl5ITRCjy0FTmH"
       },
@@ -775,22 +775,6 @@
       "duration_ms": 263986,
       "name": "Mi Princesa",
       "url": "https://open.spotify.com/track/4JN86HHZDQJNd8amda2rR6"
-    },
-    {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "Donde Brilla el Sol",
-        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
-      },
-      "artists": [
-        {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
-        }
-      ],
-      "duration_ms": 269186,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/0TM45NFoyeOOMAy6sdxX3n"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -927,6 +911,22 @@
       "duration_ms": 231737,
       "name": "Prende",
       "url": "https://open.spotify.com/track/5SAPEts9WtHjBgsMUx51pq"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Donde Brilla el Sol",
+        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        }
+      ],
+      "duration_ms": 269186,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/0TM45NFoyeOOMAy6sdxX3n"
     },
     {
       "added_at": "2023-01-27 05:01:00",

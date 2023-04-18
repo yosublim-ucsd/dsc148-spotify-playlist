@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127130,
+  "num_followers": 127116,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDEyOCwwNGQ2NzE0ODNkMWIyN2UwMjZmNTM4OWVlZjllYjFlOTU4ZGFjZjc4",
+  "snapshot_id": "NDEzMiw2Mjk0MTMzODcwYmM0NTQyMTU5ODdkNTYzZDkxMTUyODU4YWYyZTBk",
   "tracks": [
+    {
+      "added_at": "2023-04-17 17:37:06",
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/6XwawQBMFv5iuFwsXOnyYn"
+      },
+      "artists": [
+        {
+          "name": "hayve",
+          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/4v43DTptT6aZheUUrACW2K"
+    },
     {
       "added_at": "2023-04-13 17:40:24",
       "album": {
@@ -1091,22 +1107,6 @@
       "duration_ms": 194000,
       "name": "Every Little Thing",
       "url": "https://open.spotify.com/track/6CShhNa33zOmCqJ0SkjsWc"
-    },
-    {
-      "added_at": "2023-01-31 21:50:02",
-      "album": {
-        "name": "Hit My Line",
-        "url": "https://open.spotify.com/album/1jsCz6z1vazhH54A8z88gS"
-      },
-      "artists": [
-        {
-          "name": "SKYLER",
-          "url": "https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9"
-        }
-      ],
-      "duration_ms": 155160,
-      "name": "Hit My Line",
-      "url": "https://open.spotify.com/track/30CCIjlZ9vSb6ZTDwlEUZX"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Welisson",
-  "num_followers": 95461,
+  "num_followers": 95646,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTI2MCwwMDAwMDAwMGUzNTlkMDIzMmFjMGFhOTRhZWU2YTgyNDdlMjE1YzY2",
+  "snapshot_id": "MTY4MTQ0MTI2MCwwMDAwMDAwMGM1YTVhZjc4NjY0MzAwM2MzMjkxYjljYmU5MWMzNzg5",
   "tracks": [
     {
       "added_at": "2023-04-14 03:01:00",
@@ -399,6 +399,30 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
+        "name": "N\u00c9 SEGREDO",
+        "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        },
+        {
+          "name": "Bairro 13",
+          "url": "https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT"
+        }
+      ],
+      "duration_ms": 155771,
+      "name": "N\u00c9 SEGREDO",
+      "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
         "name": "Gucci, Prada",
         "url": "https://open.spotify.com/album/2bEgdwaosXzPsnvfKKIYTb"
       },
@@ -427,50 +451,6 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Bonjour",
-        "url": "https://open.spotify.com/album/0Baa9kQydueBXW6jcAE6Tq"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 131927,
-      "name": "Bonjour",
-      "url": "https://open.spotify.com/track/2tFmuYL5D8zqBHvs0nG5Tn"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
-        "name": "N\u00c9 SEGREDO",
-        "url": "https://open.spotify.com/album/0RrjNaFfi2X1qVLPSLXTwT"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Victor WAO",
-          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
-        },
-        {
-          "name": "Bairro 13",
-          "url": "https://open.spotify.com/artist/2ippo8G3HMB1qEEJvkj8PT"
-        }
-      ],
-      "duration_ms": 155771,
-      "name": "N\u00c9 SEGREDO",
-      "url": "https://open.spotify.com/track/4pjznsLeoyimnxGlVpmyJI"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
         "name": "Dior",
         "url": "https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 229894,
       "name": "Dior",
       "url": "https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
+        "name": "Bonjour",
+        "url": "https://open.spotify.com/album/0Baa9kQydueBXW6jcAE6Tq"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 131927,
+      "name": "Bonjour",
+      "url": "https://open.spotify.com/track/2tFmuYL5D8zqBHvs0nG5Tn"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -763,6 +763,30 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
+        "name": "Jovens do Reggae",
+        "url": "https://open.spotify.com/album/1GJLb6DW0nVTH9rcaCzKgp"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Original Quality",
+          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "Jovens do Reggae",
+      "url": "https://open.spotify.com/track/3HdEOUNuFuoWj06rXpQQ4o"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
         "name": "Vida Cara",
         "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
       },
@@ -791,54 +815,6 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Jovens do Reggae",
-        "url": "https://open.spotify.com/album/1GJLb6DW0nVTH9rcaCzKgp"
-      },
-      "artists": [
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Original Quality",
-          "url": "https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "Jovens do Reggae",
-      "url": "https://open.spotify.com/track/3HdEOUNuFuoWj06rXpQQ4o"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
-        "name": "Envolvido",
-        "url": "https://open.spotify.com/album/14fMVoFXwNx71Pj4Y5zNtx"
-      },
-      "artists": [
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Oldilla",
-          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Envolvido",
-      "url": "https://open.spotify.com/track/48h4dsva3ihxdZ5rkB3IVX"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -863,6 +839,30 @@
       "duration_ms": 225600,
       "name": "EU SOU O TREM",
       "url": "https://open.spotify.com/track/7cHfnWEkL5KqfLg03G7Gic"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
+        "name": "Envolvido",
+        "url": "https://open.spotify.com/album/14fMVoFXwNx71Pj4Y5zNtx"
+      },
+      "artists": [
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Oldilla",
+          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Envolvido",
+      "url": "https://open.spotify.com/track/48h4dsva3ihxdZ5rkB3IVX"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -951,26 +951,6 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Animais Traidores",
-        "url": "https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "VEGA",
-          "url": "https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Animais Traidores",
-      "url": "https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
         "name": "Londres Freestyle",
         "url": "https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 128000,
       "name": "Londres Freestyle",
       "url": "https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
+        "name": "Animais Traidores",
+        "url": "https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "VEGA",
+          "url": "https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Animais Traidores",
+      "url": "https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -1091,30 +1091,6 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Silenciador",
-        "url": "https://open.spotify.com/album/0R7Z7BN0utY3V8e1MOWmxM"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Hash Produ\u00e7\u00f5es",
-          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Silenciador",
-      "url": "https://open.spotify.com/track/3biKlRmlBqKIFDEbTGGC1S"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
         "name": "Royal Salute",
         "url": "https://open.spotify.com/album/4ytptXvi8DRm1jbXwoklwH"
       },
@@ -1143,30 +1119,6 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Gucci Gucci",
-        "url": "https://open.spotify.com/album/77BN0mLv2yvN3BKTWnAyrt"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Marvin MK",
-          "url": "https://open.spotify.com/artist/7DlDVQY8FKFc9x03NNmtAA"
-        }
-      ],
-      "duration_ms": 158709,
-      "name": "Gucci Gucci",
-      "url": "https://open.spotify.com/track/1QoVBtfK4XMo95WOwRQAI0"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
         "name": "Jogo do Milh\u00e3o",
         "url": "https://open.spotify.com/album/3eMouVrdJSJgk1Joj172dL"
       },
@@ -1191,6 +1143,54 @@
       "duration_ms": 194634,
       "name": "Desde Menorzin",
       "url": "https://open.spotify.com/track/5XvbaX4eAeNkScND1tInpr"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
+        "name": "Silenciador",
+        "url": "https://open.spotify.com/album/0R7Z7BN0utY3V8e1MOWmxM"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Hash Produ\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Silenciador",
+      "url": "https://open.spotify.com/track/3biKlRmlBqKIFDEbTGGC1S"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
+        "name": "Gucci Gucci",
+        "url": "https://open.spotify.com/album/77BN0mLv2yvN3BKTWnAyrt"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Marvin MK",
+          "url": "https://open.spotify.com/artist/7DlDVQY8FKFc9x03NNmtAA"
+        }
+      ],
+      "duration_ms": 158709,
+      "name": "Gucci Gucci",
+      "url": "https://open.spotify.com/track/1QoVBtfK4XMo95WOwRQAI0"
     },
     {
       "added_at": "2023-04-14 03:01:00",

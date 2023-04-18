@@ -1,12 +1,12 @@
 {
   "description": "Quiet spring mornings, wake up early with the birds. \nTake a moment with nature for a positive start of your day.",
-  "num_followers": 2634,
+  "num_followers": 2662,
   "original_name": "Early Birds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg0Nzc0MCwwMDAwMDAwMDNiNzgxM2IwOWQyYzBmZmVmZDVjNzRiOTQ2MDdlMDY1",
+  "snapshot_id": "MTY3Nzg0Nzc0MCwwMDAwMDAwMGU3Y2M2ZjIwOTFkNmRkNjVjZTIxZGU0MGQ5Y2FiYmJl",
   "tracks": [
     {
       "added_at": "2023-03-01 15:55:04",
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/0mmPcIKxcOliobshml5PAM"
     },
     {
-      "added_at": "2023-04-17 01:08:28",
+      "added_at": "2023-04-18 01:04:44",
       "album": {
         "name": "Highway Birds",
         "url": "https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC"
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-03-01 15:55:04",
       "album": {
-        "name": "Blackbird Spring Ambience",
-        "url": "https://open.spotify.com/album/77vJilvSazMFD0Ly0yYX3h"
-      },
-      "artists": [
-        {
-          "name": "Scandinavian Birds",
-          "url": "https://open.spotify.com/artist/4XvR2kpgU1cJlUdOJx6OLN"
-        }
-      ],
-      "duration_ms": 102840,
-      "name": "blackbird spring ambience",
-      "url": "https://open.spotify.com/track/1oU42Iu4KihKEpAV6fBVIp"
-    },
-    {
-      "added_at": "2023-03-01 15:55:04",
-      "album": {
         "name": "Song Birds",
         "url": "https://open.spotify.com/album/1Y4uHy2KrRErPaVezfeabU"
       },
@@ -267,6 +251,22 @@
     {
       "added_at": "2023-03-01 15:55:04",
       "album": {
+        "name": "Blackbird Spring Ambience",
+        "url": "https://open.spotify.com/album/77vJilvSazMFD0Ly0yYX3h"
+      },
+      "artists": [
+        {
+          "name": "Scandinavian Birds",
+          "url": "https://open.spotify.com/artist/4XvR2kpgU1cJlUdOJx6OLN"
+        }
+      ],
+      "duration_ms": 102840,
+      "name": "blackbird spring ambience",
+      "url": "https://open.spotify.com/track/1oU42Iu4KihKEpAV6fBVIp"
+    },
+    {
+      "added_at": "2023-03-01 15:55:04",
+      "album": {
         "name": "Calm Bird Lunch",
         "url": "https://open.spotify.com/album/0kq3VBW2O4MKDK6g0OXdZf"
       },
@@ -279,22 +279,6 @@
       "duration_ms": 79975,
       "name": "Beautiful Birds Above the Canopy",
       "url": "https://open.spotify.com/track/7zD9VBtet53ChaxtMpNGG7"
-    },
-    {
-      "added_at": "2023-03-01 15:55:04",
-      "album": {
-        "name": "Epic Birds - vol.1",
-        "url": "https://open.spotify.com/album/3gLESq3vZCmz7FpUKujn0P"
-      },
-      "artists": [
-        {
-          "name": "Epic Soundscapes",
-          "url": "https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc"
-        }
-      ],
-      "duration_ms": 172211,
-      "name": "Evening Twitter",
-      "url": "https://open.spotify.com/track/56IQIsik0oPXERemlFafdu"
     },
     {
       "added_at": "2023-03-01 15:55:04",
@@ -331,6 +315,22 @@
     {
       "added_at": "2023-03-01 15:55:04",
       "album": {
+        "name": "Epic Birds - vol.1",
+        "url": "https://open.spotify.com/album/3gLESq3vZCmz7FpUKujn0P"
+      },
+      "artists": [
+        {
+          "name": "Epic Soundscapes",
+          "url": "https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc"
+        }
+      ],
+      "duration_ms": 172211,
+      "name": "Evening Twitter",
+      "url": "https://open.spotify.com/track/56IQIsik0oPXERemlFafdu"
+    },
+    {
+      "added_at": "2023-03-01 15:55:04",
+      "album": {
         "name": "Soothing Birds",
         "url": "https://open.spotify.com/album/3YxvBOnaOmEGehyj9p4I7j"
       },
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/4Pvq68Y0K9k6dYkyP4HBcv"
     },
     {
-      "added_at": "2023-04-17 01:08:28",
+      "added_at": "2023-04-18 01:04:44",
       "album": {
         "name": "Warmer Seasons",
         "url": "https://open.spotify.com/album/2kDHBZDCOOBLcmME7nE8vv"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/4DrIcgoUysx7TrCHot2naY"
     },
     {
-      "added_at": "2023-04-17 01:08:28",
+      "added_at": "2023-04-18 01:04:44",
       "album": {
         "name": "In the Midst of Nature",
         "url": "https://open.spotify.com/album/1AUZZNBB4fOtrSLQTeDv4N"
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-03-01 15:55:04",
       "album": {
+        "name": "Wonderful Morning",
+        "url": "https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT"
+      },
+      "artists": [
+        {
+          "name": "Sounds on Earth",
+          "url": "https://open.spotify.com/artist/0zAXRELdldn64qrWHARuzn"
+        }
+      ],
+      "duration_ms": 174300,
+      "name": "Wonderful Morning",
+      "url": "https://open.spotify.com/track/7ewF5MOKXCWHpc1aSjx9Kb"
+    },
+    {
+      "added_at": "2023-03-01 15:55:04",
+      "album": {
         "name": "Orchid Stories",
         "url": "https://open.spotify.com/album/3pIBo72s3vU0JhwV80Am5V"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 140610,
       "name": "Summer Breeze Bird",
       "url": "https://open.spotify.com/track/1z32JHysDBPvcNyxxn3N4y"
-    },
-    {
-      "added_at": "2023-03-01 15:55:04",
-      "album": {
-        "name": "Wonderful Morning",
-        "url": "https://open.spotify.com/album/4hq3hq5EBz2T0DmDo4hlFT"
-      },
-      "artists": [
-        {
-          "name": "Sounds on Earth",
-          "url": "https://open.spotify.com/artist/0zAXRELdldn64qrWHARuzn"
-        }
-      ],
-      "duration_ms": 174300,
-      "name": "Wonderful Morning",
-      "url": "https://open.spotify.com/track/7ewF5MOKXCWHpc1aSjx9Kb"
     },
     {
       "added_at": "2023-03-01 15:55:04",

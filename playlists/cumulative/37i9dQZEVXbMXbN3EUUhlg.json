@@ -915,6 +915,28 @@
     },
     {
       "album": {
+        "name": "Americana Na Vaquejada",
+        "url": "https://open.spotify.com/album/35vat6W0JnjkK3tXIqx1eX"
+      },
+      "artists": [
+        {
+          "name": "Grand\u00e3o Vaqueiro",
+          "url": "https://open.spotify.com/artist/1gveCzOmKMjqEMwuB5kKNH"
+        },
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156330,
+      "name": "Americana Na Vaquejada",
+      "url": "https://open.spotify.com/track/1M6rclDhYmqRBMFGNJOFKB"
+    },
+    {
+      "album": {
         "name": "Amor da Despedida",
         "url": "https://open.spotify.com/album/2E5eG2FJ0VAkg4rVmLlX1i"
       },
@@ -10876,7 +10898,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 206451,
       "name": "Sal e Pimenta",
       "url": "https://open.spotify.com/track/6BsKZXjKIrGWMK1uLWfJYN"

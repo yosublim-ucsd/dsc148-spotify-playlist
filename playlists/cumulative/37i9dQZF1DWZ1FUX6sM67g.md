@@ -4,7 +4,7 @@
 
 > ¡En este punto tropical, se encuentra un poco de todo! Foto: Manú, Beéle, Andrés Cepeda
 
-119 songs - 7 hr 19 min
+120 songs - 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [La Carta](https://open.spotify.com/track/04FSJks8f0kAmXpE4Tk1CD) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [La Carta](https://open.spotify.com/album/3moycdz652XUwSF8jMdfVv) | 2:37 | 2022-05-20 | 2022-08-13 |
 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 | 2023-02-02 |  |
 | [La Historia \- Escalona Nunca Se Había Grabado Así](https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Historia \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/album/2wcgOo4KxX9mWenJ4PeuUu) | 4:30 | 2023-02-10 |  |
-| [La Historia Más Bonita](https://open.spotify.com/track/3RcjPBOTMKVupOhSsaiPh4) | [Fresto Music](https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB) | [Llegué](https://open.spotify.com/album/00GHOs9aUdKNUSzZJAoWMw) | 4:01 | 2023-03-31 |  |
+| [La Historia Más Bonita](https://open.spotify.com/track/3RcjPBOTMKVupOhSsaiPh4) | [Fresto Music](https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB) | [Llegué](https://open.spotify.com/album/00GHOs9aUdKNUSzZJAoWMw) | 4:01 | 2023-03-31 | 2023-04-18 |
 | [La Media Vuelta \- Versión Salsa](https://open.spotify.com/track/42p0wbRmmYsxV7urL8ijki) | [Cielo Torres](https://open.spotify.com/artist/7AqX9JGo4WdLp5gPNSRoDJ), [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [La Media Vuelta](https://open.spotify.com/album/3Xi5dIMcuaIpcZorzYGaSv) | 3:29 | 2023-03-10 |  |
 | [La Mejor Versión de Mi](https://open.spotify.com/track/2yWjS7QcpqtDI5KmmQyxkn) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [La Mejor Versión de Mi](https://open.spotify.com/album/4tzJ6ghCYh5fZ61k5s8k5G) | 4:29 | 2022-05-20 | 2022-07-29 |
 | [La Mejor Versión de Mi](https://open.spotify.com/track/62WQGsG4lHE0gQhLjBeAO6) | [Los Barraza](https://open.spotify.com/artist/5uX7ebKHlBttut8EUM9Uzs) | [La Mejor Versión de Mi](https://open.spotify.com/album/0WWfQgz8vCAqLeg7TcdBMJ) | 4:29 | 2022-07-28 | 2022-09-10 |
@@ -119,6 +119,7 @@
 | [Tu Apellido](https://open.spotify.com/track/2TU4tlyGdNznDYinTE7yiL) | [Ezio Oliva](https://open.spotify.com/artist/7MP3vdAhPGxCkUVgOP1Nln), [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Tu Apellido](https://open.spotify.com/album/7CNIv4WRksLzyIKg039mj4) | 2:41 | 2022-10-28 | 2023-02-10 |
 | [Tuki Tuki](https://open.spotify.com/track/0jtuFuZNhMV142OIXPonEO) | [Pucho Y Tucutu](https://open.spotify.com/artist/6q6sntFmzW5GgUFzAagcrh), [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Tuki Tuki](https://open.spotify.com/album/0dU3EdsJVImaGc9kYRQF9p) | 3:12 | 2022-05-20 |  |
 | [Un Ladrón](https://open.spotify.com/track/0GRqaS1RZuqNTlnlOPb5sX) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [La Última Misión](https://open.spotify.com/album/5YLmrfqNRJK66Gl4QVLwHW) | 4:14 | 2022-10-07 | 2022-12-03 |
+| [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-04-17 |  |
 | [Una Mentirita](https://open.spotify.com/track/6ut8ePIEbWycmzEHXWU06p) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Friends & Legends](https://open.spotify.com/album/6ynC3pKZOdcjotW7NTFta1) | 3:37 | 2022-05-20 |  |
 | [Vale la Pena](https://open.spotify.com/track/1gnkKuNpKnOvXMftw747lu) | [Grupo Merenguisimo](https://open.spotify.com/artist/4KcGb6w8lBbsV0tErkz3fW) | [100 % Latino Vol\. 1](https://open.spotify.com/album/6M7YGALzaiR2xPezIz73FA) | 3:26 | 2022-11-11 | 2022-11-13 |
 | [Vale la Pena](https://open.spotify.com/track/4vpii4xtBH8pAgUn8acSGy) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ni Es Lo Mismo Ni Es Igual](https://open.spotify.com/album/0rMhxS1sNMYZ4OLKuoDhLN) | 3:27 | 2022-05-20 | 2022-10-16 |

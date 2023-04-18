@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-271 songs - 16 hr 13 min
+272 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [你被寫在我的歌裡](https://open.spotify.com/track/7ovUSP7jWkzWR2SHptYJfd) | [Sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U), [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [你在煩惱什麼](https://open.spotify.com/album/4GfRmbxZ3d1K05z3DWQlqa) | 4:35 | 2022-06-06 |  |
 | [你還不知道?](https://open.spotify.com/track/4dV0T2JbvRemNAdt2oaOhG) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Tay Kewei](https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2) | [你還不知道?](https://open.spotify.com/album/64w5Op6YBOQ9AiV76Rvikp) | 3:11 | 2022-06-06 |  |
 | [借我一輩子](https://open.spotify.com/track/5VyoSXa2XCEWzD445lxDVL) | [O.J](https://open.spotify.com/artist/4xxiCcnghNjM9G8Ust7Wqx) | [完美的一刻](https://open.spotify.com/album/2JJFAj0E3MAaUuPwdfpUzh) | 3:55 | 2022-06-13 | 2022-07-04 |
+| [做我的Baby](https://open.spotify.com/track/59fev4MSDxjJTwekSG6m5x) | [吉娜](https://open.spotify.com/artist/37aJa5RefuVWG1pzIIlrT0), [娜娜](https://open.spotify.com/artist/7q7sSta579PAYXxIBXjU89) | [做我的Baby](https://open.spotify.com/album/4m6VzZgyiPpZiGoxzrdQR8) | 3:06 | 2023-04-17 |  |
 | [傻瓜](https://open.spotify.com/track/2lQNNJ3KsiIGaLAF7hYNzn) | [Sherman Chung](https://open.spotify.com/artist/6meomXUCnPUYEWxITWNVZ0) | [我可以](https://open.spotify.com/album/23YehfrSYxAYWm5vLhOaBD) | 4:05 | 2022-07-11 | 2022-07-19 |
 | [像極了愛情](https://open.spotify.com/track/5pUZgW1mHL2BDO7alkxmJM) | [ZouHaoHao](https://open.spotify.com/artist/1nTcm5zOf9aYf7jYmmJStI) | [像極了愛情](https://open.spotify.com/album/4Tbw7aEOvvTyESuHvcwOKK) | 3:23 | 2022-06-06 | 2022-07-21 |
 | [兩人世界](https://open.spotify.com/track/57OQCjeVopFXR8hQhCu6lM) | [Huang Yali](https://open.spotify.com/artist/5nLnIboxUroy6N5HBGRTMe) | [黄雅莉的奇幻秀](https://open.spotify.com/album/0xqBcDVlh3ZLrjgmwDTh8U) | 3:41 | 2022-06-27 | 2022-07-05 |
@@ -264,7 +265,7 @@
 | [还是你的笑容最可爱](https://open.spotify.com/track/6o0tRz6uSjA66A1LdEWwC6) | [音阙诗听](https://open.spotify.com/artist/6JZIgN9gEgNSS8lY5pmwbx), [泠鸢yousa](https://open.spotify.com/artist/5LyduAjWazekfgxC6M6rbk), [王梓钰](https://open.spotify.com/artist/5VNN9ctooTvYoBZKoGZ8Tr) | [还是你的笑容最可爱](https://open.spotify.com/album/1hY8IORuxUCrJlOVnH0FM5) | 2:45 | 2022-06-06 | 2022-07-22 |
 | [追光者](https://open.spotify.com/track/6XqSMZVMzLW9whVxxUr98p) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [追光者](https://open.spotify.com/album/0OlLgBOD24qBVkpZwGPTLW) | 3:33 | 2022-07-25 |  |
 | [遇到你 \- 電視劇《原來我很愛你》片頭曲](https://open.spotify.com/track/3IEGZEXPl9Rk1MLE0khnZi) | [林彥俊](https://open.spotify.com/artist/0rtjGz2usYOefz4yYZb4Ih), [萬鵬](https://open.spotify.com/artist/7rfYWk7WW24KDeU3nKJS3Z) | [遇到你 \(電視劇《原來我很愛你》片頭曲\)](https://open.spotify.com/album/1Y61uReThvJfYvzMAvhJc1) | 4:05 | 2022-06-06 |  |
-| [那一刻心動](https://open.spotify.com/track/2DspJPhiolrxUFIAnFfQ2L) | [大柯](https://open.spotify.com/artist/6a7NsPX4YpPVh1qQL5lrFq) | [那一刻心動](https://open.spotify.com/album/2o0W8GuTm30Ms9830PrUAA) | 3:42 | 2023-04-10 |  |
+| [那一刻心動](https://open.spotify.com/track/2DspJPhiolrxUFIAnFfQ2L) | [大柯](https://open.spotify.com/artist/6a7NsPX4YpPVh1qQL5lrFq) | [那一刻心動](https://open.spotify.com/album/2o0W8GuTm30Ms9830PrUAA) | 3:42 | 2023-04-10 | 2023-04-18 |
 | [都怪那一眼\(Love at first sight\)\-電視劇<我的老闆是隻貓 >片頭曲](https://open.spotify.com/track/6uJ3uxT6lyZLKyr0DO57EB) | [Vera Yen](https://open.spotify.com/artist/08VvDNRmZUZ99QZb63qXgU) | [電視劇\(我的老闆是隻貓\)片頭曲&插曲](https://open.spotify.com/album/6QQVXygK29VWKR9Zt4VMM2) | 4:11 | 2022-06-27 | 2022-07-21 |
 | [阳光的陪伴](https://open.spotify.com/track/0RhNGs3Rj5vwv0NFoBTLVa) | [Sunnee楊芸晴](https://open.spotify.com/artist/07Qt0KlMf6vpPVXuY5Qrhj) | [阳光的陪伴](https://open.spotify.com/album/5U3rbQPVdRmCdY7vQiFHDq) | 3:50 | 2022-06-06 | 2022-07-29 |
 | [陪我看日出](https://open.spotify.com/track/54vBDYCulMrXboGiXiABXD) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg) | [日出](https://open.spotify.com/album/4Imutb6AFFjGa7fh9AAUK2) | 4:20 | 2022-06-20 |  |

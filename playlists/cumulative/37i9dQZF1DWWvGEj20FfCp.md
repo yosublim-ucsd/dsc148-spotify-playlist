@@ -4,7 +4,7 @@
 
 > Music adds a new dimension to fashion\. Soundtrack for designer Thebe Magugu’s latest collection titled Folklorics.
 
-402 songs - 1 day 2 hr 54 min
+403 songs - 1 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,7 +408,8 @@
 | [Yessirskiii](https://open.spotify.com/track/59JWp4PjZ9TRM8cmtaDYB1) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Eternal Atake \(Deluxe\) \- LUV vs\. The World 2](https://open.spotify.com/album/0fEO7g2c5onkaXsybEtuD2) | 3:39 | 2022-06-01 | 2022-08-02 |
 | [You](https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7), [Flansie](https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI) | [You](https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1) | 4:06 | 2023-02-10 | 2023-03-11 |
 | [You Gots To Chill](https://open.spotify.com/track/0f1yzIIGD8k32DNVeEn6jb) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Strictly Business](https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5) | 4:21 | 2022-08-22 | 2022-09-07 |
-| [Zola Budd](https://open.spotify.com/track/0qwOrPWqch7GVwMIlzjsgN) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Africa Classics](https://open.spotify.com/album/6yN2MuXTbbHU0Xh5mk5aWK) | 3:58 | 2023-03-10 |  |
+| [Zola Budd](https://open.spotify.com/track/0qwOrPWqch7GVwMIlzjsgN) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Africa Classics](https://open.spotify.com/album/6yN2MuXTbbHU0Xh5mk5aWK) | 3:58 | 2023-03-10 | 2023-04-18 |
+| [Zola Budd](https://open.spotify.com/track/2YAaOJ86NNPFq70QrMNc4g) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 4:00 | 2023-03-10 |  |
 | [ʅ͡͡͡͡͡͡͡͡͡͡͡\(ƟӨ\)ʃ͡͡͡͡͡͡͡͡͡͡ ꐑ\(ཀ ඊູ ఠీੂ೧ູ࿃ूੂ✧✧✧✧✧✧ළඕั࿃ूੂ࿃ूੂ](https://open.spotify.com/track/2SJo1P387WJHJx1uFbyrRj) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [ʅ͡͡͡͡͡͡͡͡͡͡͡\(ƟӨ\)ʃ͡͡͡͡͡͡͡͡͡͡ ꐑ\(ཀ ඊູ ఠీੂ೧ູ࿃ूੂ✧ළඕั࿃ूੂ࿃ूੂੂ࿃ूੂළඕั✧ı̴̴̡ ̡̡͡\|̲̲̲͡ ̲̲̲͡͡π̲̲͡͡ ɵੂ≢࿃ूੂ೧ູఠీੂ ඊູཀ ꐑ\(ʅ͡͡͡͡͡͡͡͡͡͡͡\(ƟӨ\)ʃ͡͡͡͡͡͡͡͡͡͡](https://open.spotify.com/album/6TRvxALhGHTGM1AjCd61SU) | 4:38 | 2023-02-10 | 2023-03-11 |
 
 \*This playlist was first scraped on 2022-05-01. Prior content cannot be recovered.

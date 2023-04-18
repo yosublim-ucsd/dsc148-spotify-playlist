@@ -198,7 +198,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 137497,
       "name": "a different view",
       "url": "https://open.spotify.com/track/76nkb2MgYQ3ZOho3N1tEL2"
@@ -2902,6 +2902,24 @@
       "duration_ms": 170698,
       "name": "Evening Stroll in Shibuya",
       "url": "https://open.spotify.com/track/1GVhKeYitcGUCarDWKve7S"
+    },
+    {
+      "album": {
+        "name": "EVOKE",
+        "url": "https://open.spotify.com/album/75loSbBYSXtaRofHhpBL6d"
+      },
+      "artists": [
+        {
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234226,
+      "name": "EVOKE",
+      "url": "https://open.spotify.com/track/0TwK1i7La2lfEOUCcH1g9t"
     },
     {
       "album": {

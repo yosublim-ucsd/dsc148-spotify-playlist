@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kabzaa",
-  "num_followers": 48510,
+  "num_followers": 48519,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ2NTY5OSwwMDAwMDAwMDc1MTliNTdhZGQ5ZjA1OTgwN2Y4YmFiNTIxM2Y0ZTQx",
+  "snapshot_id": "MTY4MTcyMTA1OSwwMDAwMDAwMDU0MzIzM2JhOTMxYzIwYjdmYjU0NmFlNjg3OTYzMGRl",
   "tracks": [
     {
       "added_at": "2023-02-28 11:36:56",
@@ -119,6 +119,30 @@
       "duration_ms": 172948,
       "name": "Welcome To Bengaluru (From \"Raaghu\")",
       "url": "https://open.spotify.com/track/3luuHoWZH4QeJeL4kCpJew"
+    },
+    {
+      "added_at": "2023-04-17 08:44:19",
+      "album": {
+        "name": "Ninage Sigalu Eedina (From \"Pranayam\")",
+        "url": "https://open.spotify.com/album/0AqZBeTmunjZ805n9kBSX9"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Mano Murthy",
+          "url": "https://open.spotify.com/artist/3ijciQeyNDV7iQicWGWLWj"
+        },
+        {
+          "name": "Chinmay Bhavikere",
+          "url": "https://open.spotify.com/artist/58qVDLXPZcodljlDBUNiOk"
+        }
+      ],
+      "duration_ms": 212600,
+      "name": "Ninage Sigalu Eedina (From \"Pranayam\")",
+      "url": "https://open.spotify.com/track/3FSyxmCld0H3SCL1WQ1JVi"
     },
     {
       "added_at": "2023-02-03 09:21:47",
@@ -257,26 +281,6 @@
       "url": "https://open.spotify.com/track/6JtZ4fpPS1TgqyIP2igKL7"
     },
     {
-      "added_at": "2023-04-04 12:13:44",
-      "album": {
-        "name": "Hodalo Bittu Hodalo (from \"Veeram\")",
-        "url": "https://open.spotify.com/album/7yDG6VIfWfv5xXpFGlwGB8"
-      },
-      "artists": [
-        {
-          "name": "J. Anoop Seelin",
-          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
-        },
-        {
-          "name": "Supriyaa Ram",
-          "url": "https://open.spotify.com/artist/6ZRC0Bc7Dcx49chE1ppbkp"
-        }
-      ],
-      "duration_ms": 235624,
-      "name": "Hodalo Bittu Hodalo (from \"Veeram\")",
-      "url": "https://open.spotify.com/track/13MCBoyvRHTmFVvikqlzAk"
-    },
-    {
       "added_at": "2023-04-13 06:35:39",
       "album": {
         "name": "Tun Tun Tun (from \"Elra Kaaleliyatte Kaala\")",
@@ -297,28 +301,28 @@
       "url": "https://open.spotify.com/track/1LGE5fbDTx4jQ3LBPph72i"
     },
     {
-      "added_at": "2023-03-29 10:56:31",
+      "added_at": "2023-04-17 08:39:55",
       "album": {
-        "name": "Oh Ammalaali Ammalaali (From \"Dasara\") - Single",
-        "url": "https://open.spotify.com/album/19sJJ7dDwYeSBNpiRkDHBS"
+        "name": "PS Anthem (From \u201cPS-2\") [Kannada] [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/4dXfycka0T079aL7HYORMB"
       },
       "artists": [
         {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
         },
         {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
         },
         {
-          "name": "Varadaraj Chikkaballapura",
-          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+          "name": "Nabyla Maan",
+          "url": "https://open.spotify.com/artist/11MBLpYXQnyoJN5wJ9NQhW"
         }
       ],
-      "duration_ms": 167540,
-      "name": "Oh Ammalaali Ammalaali (From \"Dasara\")",
-      "url": "https://open.spotify.com/track/5PD9FrQ1lkGTBvx0jFcVUT"
+      "duration_ms": 183111,
+      "name": "PS Anthem (From \u201cPS-2\") [Kannada]",
+      "url": "https://open.spotify.com/track/0xf1Yhdwv1HTuv6oyHrRn3"
     },
     {
       "added_at": "2023-04-12 09:09:34",
@@ -469,26 +473,6 @@
       "url": "https://open.spotify.com/track/0WSTkzo2AxwP6vePkanVJV"
     },
     {
-      "added_at": "2023-04-05 09:51:25",
-      "album": {
-        "name": "Magale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5oNtJR97mFzTwuETjkN8Ir"
-      },
-      "artists": [
-        {
-          "name": "A B M",
-          "url": "https://open.spotify.com/artist/27TjKmlCpVl5DVrG7pOJj1"
-        },
-        {
-          "name": "Rashmi D",
-          "url": "https://open.spotify.com/artist/6W3jiCR6bPIMUbfSFKQ9Td"
-        }
-      ],
-      "duration_ms": 256420,
-      "name": "Hodeya Doora Nee",
-      "url": "https://open.spotify.com/track/0ZceismjoPxbLhkZQSEbpm"
-    },
-    {
       "added_at": "2023-03-22 11:13:26",
       "album": {
         "name": "Twinkle Twinkle (from \"Shivaji Surathkal 2\")",
@@ -581,30 +565,6 @@
       "url": "https://open.spotify.com/track/7yLIvdklQi1ynSQ154O5qj"
     },
     {
-      "added_at": "2023-04-03 11:46:52",
-      "album": {
-        "name": "Theme Song (From \"Pentagon\")",
-        "url": "https://open.spotify.com/album/0NkiDGXsmKShkDJhsm6DH2"
-      },
-      "artists": [
-        {
-          "name": "Ananya Bhat",
-          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
-        },
-        {
-          "name": "Kadri Manikanth",
-          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
-        },
-        {
-          "name": "Raghu Shivamogga",
-          "url": "https://open.spotify.com/artist/0kge21NmxzbAMedq9doJtX"
-        }
-      ],
-      "duration_ms": 256538,
-      "name": "Theme Song (From \"Pentagon\")",
-      "url": "https://open.spotify.com/track/2amLyygrGznwGVfqIiz0fC"
-    },
-    {
       "added_at": "2023-04-10 13:39:18",
       "album": {
         "name": "Darbar",
@@ -671,22 +631,6 @@
       "duration_ms": 286250,
       "name": "Dharaniya Dhamaniya - From \"Dhairyam Sarvatra Sadhanam\"",
       "url": "https://open.spotify.com/track/0znT06DbSQ4ApZbJjbhDr9"
-    },
-    {
-      "added_at": "2023-03-08 08:10:21",
-      "album": {
-        "name": "Neenillade (From \"Mandala - The UFO Incident\")",
-        "url": "https://open.spotify.com/album/6MEWfeF4gjqrE8xPKRyBSs"
-      },
-      "artists": [
-        {
-          "name": "Raghu Dixit",
-          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
-        }
-      ],
-      "duration_ms": 344491,
-      "name": "Neenillade (From \"Mandala - The UFO Incident\")",
-      "url": "https://open.spotify.com/track/3WFDYO4qmhxnTFmHJlOxe2"
     },
     {
       "added_at": "2023-04-03 11:46:52",

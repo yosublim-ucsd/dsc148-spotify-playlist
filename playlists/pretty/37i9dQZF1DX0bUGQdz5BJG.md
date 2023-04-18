@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Bryan Martin
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,227 likes - 180 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,313 likes - 180 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

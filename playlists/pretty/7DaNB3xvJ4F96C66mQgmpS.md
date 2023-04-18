@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 
 > Workout songs to get your mental right and blood pumping.
 
-[Digster](https://open.spotify.com/user/digster.fm) - 88,699 likes - 50 songs - 2 hr 35 min
+[Digster](https://open.spotify.com/user/digster.fm) - 88,690 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/7DaNB3xvJ4F96C66mQgmpS.md) - [plain]
 | 49 | [Truffle Butter](https://open.spotify.com/track/3keUgTGEoZJt0QkzTB6kHg) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Truffle Butter](https://open.spotify.com/album/0cg0JTyl731GnvVS1MyYjj) | 3:39 |
 | 50 | [Mr\. Glock](https://open.spotify.com/track/1ipSpQfzBbhPFhYm6tfVIz) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape](https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9) | 2:26 |
 
-Snapshot ID: `MTY2OSwyZDQ3NGM0MzVmNjQ5ZmVhMGU4MzYzNzBkNDFlZjFjNWFmNzk5NGUz`
+Snapshot ID: `MTY3MSw4Y2U1NGJjMDk1ODkwNWNmMjc1M2U2MzA3NzIzMGZjYTJjMzdlOTM5`

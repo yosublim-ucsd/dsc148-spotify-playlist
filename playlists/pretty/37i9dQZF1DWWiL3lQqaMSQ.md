@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 
 > All of the nominees in one playlist! More info on this year's event can be found at <a href="http://www.stellarawards.com">stellarawards.com</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,905 likes - 67 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,913 likes - 67 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 | 25 | [Excess Love \- Live](https://open.spotify.com/track/3eqODi0QYCr5nqMtzpYMoL) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Miracle Worker \(Live\)](https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw) | 8:27 |
 | 26 | [You Know My Name](https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Jimi Cravity](https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:00 |
 | 27 | [With Thanksgiving](https://open.spotify.com/track/6Q7tPu0ujUXK1bBF1T1m8R) | [Kurt Carr](https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH) | [Bless Somebody Else](https://open.spotify.com/album/4vRoBivVMl8YODQ0mR4Pdw) | 5:58 |
-| 28 | [I Love Him](https://open.spotify.com/track/0m5RnG9Zaxi6ierwUtrOIh) | [Renee Spearman](https://open.spotify.com/artist/4UhXj07SO0QVDVJlj6sMcW), [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [Dr\. Holly Carter](https://open.spotify.com/artist/3mZT0ejcCmnNswl8HXOxNA) | [I Love Him](https://open.spotify.com/album/5yLNbxR3Ho43FXKGU997lf) | 3:55 |
+| 28 | [I Love Him](https://open.spotify.com/track/1pjLgp7d1kKK4i2FkoCp7p) | [Renee Spearman](https://open.spotify.com/artist/4UhXj07SO0QVDVJlj6sMcW), [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [Dr\. Holly Carter](https://open.spotify.com/artist/3mZT0ejcCmnNswl8HXOxNA) | [I Love Him](https://open.spotify.com/album/57ZBh1sPj0TyLXW24oUGIH) | 4:16 |
 | 29 | [Something About That Name](https://open.spotify.com/track/0iWnZnhzosqAEXfVz2UCJK) | [True Believers](https://open.spotify.com/artist/1ZZkBXcnO3tthAPz9NMbm8) | [Back To The Roots](https://open.spotify.com/album/5HmnZBlJ37Dfx91wNfJTYi) | 3:56 |
 | 30 | [Strong God](https://open.spotify.com/track/7xL1Z3k7YvBTYjkIQrDdle) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:05 |
 | 31 | [Speak the Name](https://open.spotify.com/track/59QUpxB7OQOi0SONJ4emAm) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Greenleaf, Season 3 \(Music from the Original TV Series\)](https://open.spotify.com/album/4HBxCMRCyfxHhoW1vFiK2i) | 4:55 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiL3lQqaMSQ.md) - [plain]
 | 66 | [The Greatest](https://open.spotify.com/track/6sYEL144ROUzl6naTmgIPk) | [Lawrence Hancock](https://open.spotify.com/artist/6UD4FlKheqYI40jvwZavH8) | [Nothings Too Hard](https://open.spotify.com/album/4g8S3RrzlnweH4PGwhK5Wi) | 3:34 |
 | 67 | [We Are Soldiers in the Army](https://open.spotify.com/track/4CU4El1YbvC4MWdtjdZmuo) | [Gospel Kids](https://open.spotify.com/artist/5MFX3lSx7yGhxAXa0kP1Pi) | [Gospel Kids Present Christian Soldiers](https://open.spotify.com/album/5jqvgr1T0jqV7QgGxaKUNm) | 3:04 |
 
-Snapshot ID: `MTU5OTU4MzMwNiwwMDAwMDAwMDRlOWZlMThiY2I5MTFkNzdhMjlkZGEzMjljNzE0Y2Y1`
+Snapshot ID: `MTU5OTU4MzMwNiwwMDAwMDAwMDk3NDQzMTNmZGEzMjFjNjk5OTM3NWM4MmRhOWE0NGEx`

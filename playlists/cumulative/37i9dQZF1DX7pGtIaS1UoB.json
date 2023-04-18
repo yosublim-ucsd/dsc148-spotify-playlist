@@ -1539,6 +1539,28 @@
     },
     {
       "album": {
+        "name": "\u505a\u6211\u7684Baby",
+        "url": "https://open.spotify.com/album/4m6VzZgyiPpZiGoxzrdQR8"
+      },
+      "artists": [
+        {
+          "name": "\u5409\u5a1c",
+          "url": "https://open.spotify.com/artist/37aJa5RefuVWG1pzIIlrT0"
+        },
+        {
+          "name": "\u5a1c\u5a1c",
+          "url": "https://open.spotify.com/artist/7q7sSta579PAYXxIBXjU89"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186547,
+      "name": "\u505a\u6211\u7684Baby",
+      "url": "https://open.spotify.com/track/59fev4MSDxjJTwekSG6m5x"
+    },
+    {
+      "album": {
         "name": "\u6211\u53ef\u4ee5",
         "url": "https://open.spotify.com/album/23YehfrSYxAYWm5vLhOaBD"
       },
@@ -4964,7 +4986,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 222104,
       "name": "\u90a3\u4e00\u523b\u5fc3\u52d5",
       "url": "https://open.spotify.com/track/2DspJPhiolrxUFIAnFfQ2L"

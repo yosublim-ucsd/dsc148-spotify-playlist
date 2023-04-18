@@ -1,12 +1,12 @@
 {
   "description": "may include",
-  "num_followers": 26589,
+  "num_followers": 26987,
   "original_name": "side effects",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ5MzExMCwwMDAwMDAwMDZiZDA5MjM5ZjI3OGMwMTU1MjUyOWE5ZGJmNWJlOTJj",
+  "snapshot_id": "MTY4MTc1ODk1OCwwMDAwMDAwMDNjYjQ4OWY4Njc3MTY2Y2ExYjgzMzU1YzE3NDVjMmE0",
   "tracks": [
     {
       "added_at": "2023-04-14 04:01:00",
@@ -57,20 +57,20 @@
       "url": "https://open.spotify.com/track/5G9Ix7zpWjV9jqFP7K7Hlg"
     },
     {
-      "added_at": "2023-04-14 04:01:00",
+      "added_at": "2023-04-11 14:48:39",
       "album": {
-        "name": "Love Letters",
-        "url": "https://open.spotify.com/album/69pCjNxYsuiwgnLIBxVTep"
+        "name": "Stratosphere",
+        "url": "https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb"
       },
       "artists": [
         {
-          "name": "Baby Bugs",
-          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
+          "name": "Duster",
+          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
         }
       ],
-      "duration_ms": 196815,
-      "name": "Love Letters",
-      "url": "https://open.spotify.com/track/2p1kB54xX8sS5UWuyqTMT4"
+      "duration_ms": 223200,
+      "name": "Constellations",
+      "url": "https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/2zJDq0UXhz3mUvmncn4GA1"
     },
     {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/69pCjNxYsuiwgnLIBxVTep"
+      },
+      "artists": [
+        {
+          "name": "Baby Bugs",
+          "url": "https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5"
+        }
+      ],
+      "duration_ms": 196815,
+      "name": "Love Letters",
+      "url": "https://open.spotify.com/track/2p1kB54xX8sS5UWuyqTMT4"
+    },
+    {
       "added_at": "2023-04-11 14:48:39",
       "album": {
         "name": "melanchole",
@@ -103,22 +119,6 @@
       "duration_ms": 161462,
       "name": "i was all over her",
       "url": "https://open.spotify.com/track/7svpAkwc6xaSxlbZ7V7JiS"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "Stratosphere",
-        "url": "https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb"
-      },
-      "artists": [
-        {
-          "name": "Duster",
-          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
-        }
-      ],
-      "duration_ms": 223200,
-      "name": "Constellations",
-      "url": "https://open.spotify.com/track/1MXOWbSCEjoGwivtIMnlBV"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -155,38 +155,6 @@
     {
       "added_at": "2023-04-11 14:48:39",
       "album": {
-        "name": "BreathingExercise",
-        "url": "https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD"
-      },
-      "artists": [
-        {
-          "name": "surrenderdorothy",
-          "url": "https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp"
-        }
-      ],
-      "duration_ms": 72874,
-      "name": "TheBestVersionOfMyself",
-      "url": "https://open.spotify.com/track/5ew51yiULYPreqN5It5h3S"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Enjoyer",
-        "url": "https://open.spotify.com/album/5g1TtsONP7WO45t1bZYanW"
-      },
-      "artists": [
-        {
-          "name": "Teenage Priest",
-          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
-        }
-      ],
-      "duration_ms": 216949,
-      "name": "Enjoyer",
-      "url": "https://open.spotify.com/track/0WlvboUTfGNKzsszxTa9YI"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
         "name": "It's All In Your Head",
         "url": "https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR"
       },
@@ -199,6 +167,38 @@
       "duration_ms": 130742,
       "name": "How To Never Stop Being Sad",
       "url": "https://open.spotify.com/track/6ZLt6fyonW1xOGMBC9vJPJ"
+    },
+    {
+      "added_at": "2023-04-11 14:48:39",
+      "album": {
+        "name": "A Different Age",
+        "url": "https://open.spotify.com/album/7tZp8ZodRmNpf1DTcHfV61"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 334901,
+      "name": "Become the Warm Jets",
+      "url": "https://open.spotify.com/track/7Ko1ZXgGku1hjFH7LIfD33"
+    },
+    {
+      "added_at": "2023-04-11 14:48:39",
+      "album": {
+        "name": "Chamber of Reflection (Remixes)",
+        "url": "https://open.spotify.com/album/4SmPOUhbSUydP4jg0KZNfT"
+      },
+      "artists": [
+        {
+          "name": "Your Anxiety Buddy",
+          "url": "https://open.spotify.com/artist/6krQn0Lyb7Wj0Yz03Z2Ts0"
+        }
+      ],
+      "duration_ms": 150836,
+      "name": "Chamber of Reflection (Live Cover)",
+      "url": "https://open.spotify.com/track/2wCbsLmmjendUDzsMGubP0"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -235,6 +235,22 @@
       "duration_ms": 185906,
       "name": "The Moon Song - Studio Version Duet",
       "url": "https://open.spotify.com/track/6E0YEPzjMvUymYOvmDIgp4"
+    },
+    {
+      "added_at": "2023-04-11 14:48:39",
+      "album": {
+        "name": "Come Over And Love Me",
+        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "Come Over And Love Me",
+      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -315,18 +331,66 @@
     {
       "added_at": "2023-04-11 14:48:39",
       "album": {
-        "name": "Come Over And Love Me",
-        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/173vl6dvK0QxRsoavnlxtb"
       },
       "artists": [
         {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+          "name": "Dearly Somber",
+          "url": "https://open.spotify.com/artist/2zpjCn1057VSMxzN6JHclH"
         }
       ],
-      "duration_ms": 161266,
-      "name": "Come Over And Love Me",
-      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
+      "duration_ms": 314482,
+      "name": "Peach Lavender Girl",
+      "url": "https://open.spotify.com/track/1o6duWfCrqZrBDtcg4U6tQ"
+    },
+    {
+      "added_at": "2023-04-11 14:48:39",
+      "album": {
+        "name": "BreathingExercise",
+        "url": "https://open.spotify.com/album/35jxEKfiHeAU9yXJlmPOcD"
+      },
+      "artists": [
+        {
+          "name": "surrenderdorothy",
+          "url": "https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp"
+        }
+      ],
+      "duration_ms": 72874,
+      "name": "TheBestVersionOfMyself",
+      "url": "https://open.spotify.com/track/5ew51yiULYPreqN5It5h3S"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Enjoyer",
+        "url": "https://open.spotify.com/album/5g1TtsONP7WO45t1bZYanW"
+      },
+      "artists": [
+        {
+          "name": "Teenage Priest",
+          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
+        }
+      ],
+      "duration_ms": 216949,
+      "name": "Enjoyer",
+      "url": "https://open.spotify.com/track/0WlvboUTfGNKzsszxTa9YI"
+    },
+    {
+      "added_at": "2023-04-11 14:48:39",
+      "album": {
+        "name": "Trick",
+        "url": "https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 157973,
+      "name": "Advice",
+      "url": "https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -359,6 +423,22 @@
       "duration_ms": 186507,
       "name": "Blues Run the Game",
       "url": "https://open.spotify.com/track/6Ay9SMrkUMZ1Uq01X5b7wJ"
+    },
+    {
+      "added_at": "2023-04-17 19:15:58",
+      "album": {
+        "name": "High School Football",
+        "url": "https://open.spotify.com/album/3zaHm3kBLgfQkO8Jd1nVfn"
+      },
+      "artists": [
+        {
+          "name": "Brevin Kim",
+          "url": "https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh"
+        }
+      ],
+      "duration_ms": 200926,
+      "name": "It Was Nice To See You",
+      "url": "https://open.spotify.com/track/3P22L4S20rAHHekbrXxF4V"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -395,6 +475,22 @@
     {
       "added_at": "2023-04-11 14:48:39",
       "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr"
+      },
+      "artists": [
+        {
+          "name": "Birth Day",
+          "url": "https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt"
+        }
+      ],
+      "duration_ms": 141698,
+      "name": "Suicide Cleanup",
+      "url": "https://open.spotify.com/track/5ibob4IdqDLEBi176GswYc"
+    },
+    {
+      "added_at": "2023-04-11 14:48:39",
+      "album": {
         "name": "The Gaping Mouth",
         "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
       },
@@ -427,22 +523,6 @@
     {
       "added_at": "2023-04-14 17:25:10",
       "album": {
-        "name": "High School Football",
-        "url": "https://open.spotify.com/album/3zaHm3kBLgfQkO8Jd1nVfn"
-      },
-      "artists": [
-        {
-          "name": "Brevin Kim",
-          "url": "https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "I'll Be Damned",
-      "url": "https://open.spotify.com/track/0CXSKdN0pLbwc4TUp06ScG"
-    },
-    {
-      "added_at": "2023-04-14 17:25:10",
-      "album": {
         "name": "I'M OK NO I'M NOT",
         "url": "https://open.spotify.com/album/5UniBmaoxyjTUwBgOS165S"
       },
@@ -455,22 +535,6 @@
       "duration_ms": 233601,
       "name": "Noise",
       "url": "https://open.spotify.com/track/3M3ZGMLBVdBKRLkandKONJ"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "A Different Age",
-        "url": "https://open.spotify.com/album/7tZp8ZodRmNpf1DTcHfV61"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 334901,
-      "name": "Become the Warm Jets",
-      "url": "https://open.spotify.com/track/7Ko1ZXgGku1hjFH7LIfD33"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -579,22 +643,6 @@
     {
       "added_at": "2023-04-11 14:48:39",
       "album": {
-        "name": "Trick",
-        "url": "https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 157973,
-      "name": "Advice",
-      "url": "https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
         "name": "Big Day",
         "url": "https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj"
       },
@@ -623,22 +671,6 @@
       "duration_ms": 258870,
       "name": "run it back",
       "url": "https://open.spotify.com/track/5Wcc3fBgp1vjBmbxhHEXCR"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "Chamber of Reflection (Remixes)",
-        "url": "https://open.spotify.com/album/4SmPOUhbSUydP4jg0KZNfT"
-      },
-      "artists": [
-        {
-          "name": "Your Anxiety Buddy",
-          "url": "https://open.spotify.com/artist/6krQn0Lyb7Wj0Yz03Z2Ts0"
-        }
-      ],
-      "duration_ms": 150836,
-      "name": "Chamber of Reflection (Live Cover)",
-      "url": "https://open.spotify.com/track/2wCbsLmmjendUDzsMGubP0"
     },
     {
       "added_at": "2023-04-11 14:48:39",
@@ -819,22 +851,6 @@
     {
       "added_at": "2023-04-11 14:48:39",
       "album": {
-        "name": "Hourglass",
-        "url": "https://open.spotify.com/album/173vl6dvK0QxRsoavnlxtb"
-      },
-      "artists": [
-        {
-          "name": "Dearly Somber",
-          "url": "https://open.spotify.com/artist/2zpjCn1057VSMxzN6JHclH"
-        }
-      ],
-      "duration_ms": 314482,
-      "name": "Peach Lavender Girl",
-      "url": "https://open.spotify.com/track/1o6duWfCrqZrBDtcg4U6tQ"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
         "name": "i'll be okay",
         "url": "https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 98750,
       "name": "Better",
       "url": "https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR"
-    },
-    {
-      "added_at": "2023-04-11 14:48:39",
-      "album": {
-        "name": "Boyhood",
-        "url": "https://open.spotify.com/album/1ghe8W4YxdcimjnpguMQTr"
-      },
-      "artists": [
-        {
-          "name": "Birth Day",
-          "url": "https://open.spotify.com/artist/75UKUI7fd2RjNRgy8oaNdt"
-        }
-      ],
-      "duration_ms": 141698,
-      "name": "Suicide Cleanup",
-      "url": "https://open.spotify.com/track/5ibob4IdqDLEBi176GswYc"
     },
     {
       "added_at": "2023-04-11 14:48:39",

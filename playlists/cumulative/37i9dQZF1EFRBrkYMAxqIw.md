@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/76LEMAAXaxvnvt22nn8DUH">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-86 songs - 4 hr 37 min
+87 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Planet](https://open.spotify.com/track/1DD7BCsexlwDHYm6o6KBDo) | [OsTEKKe](https://open.spotify.com/artist/2UXpQhhV4lKrBCHezLbWoA) | [Planet](https://open.spotify.com/album/1r975QemC2LPmOoC35VjtE) | 2:12 | 2022-12-13 |  |
 | [Queen Of The Night \- From The Voice Of Germany](https://open.spotify.com/track/5idzZY9eDzlh4JbZqVHgei) | [Mary Summer](https://open.spotify.com/artist/5JPLyJCt5tWeHZc33Rs7OD) | [Queen Of The Night \(From The Voice Of Germany\)](https://open.spotify.com/album/6DvJhjNeDzqdqTCkQ7BpOO) | 3:53 | 2022-05-25 |  |
 | [React](https://open.spotify.com/track/0GWYApQBwErVPkyXYCTJjI) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [React](https://open.spotify.com/album/0Dg7mV6QrpSw8b3o45bNkq) | 3:24 | 2022-05-25 | 2022-10-14 |
-| [React](https://open.spotify.com/track/2KHWuIEL5peYokB3HoLY4m) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [React](https://open.spotify.com/album/1kApiZqAxZ1xwJQNwwyl7T) | 3:24 | 2022-10-13 |  |
+| [React](https://open.spotify.com/track/0qMAJBLMTshMx03CJkJl6O) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [React](https://open.spotify.com/album/3iJA3r8NBh2p3ZwRCiMxYz) | 3:24 | 2023-04-17 |  |
+| [React](https://open.spotify.com/track/2KHWuIEL5peYokB3HoLY4m) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [React](https://open.spotify.com/album/1kApiZqAxZ1xwJQNwwyl7T) | 3:24 | 2022-10-13 | 2023-04-18 |
 | [Rothko](https://open.spotify.com/track/29Dx55ymImTU6QpiaAhk0d) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Rothko](https://open.spotify.com/album/0NYU8lQu7GALTqyFM14wLo) | 2:58 | 2022-07-24 |  |
 | [Run to You \(feat\. Grace Ackerman\)](https://open.spotify.com/track/4PNuUWj7DOnkz6VvegoOjG) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [Grace Ackerman](https://open.spotify.com/artist/78SfXT84Lde7FNt3MVBz1n) | [Run to You \(feat\. Grace Ackerman\)](https://open.spotify.com/album/7phKRhiBZZzaif1y1ldZEb) | 2:59 | 2022-05-25 |  |
 | [Running](https://open.spotify.com/track/2uIqAH4YQ7oD8rPVujlTZf) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Animosity](https://open.spotify.com/album/7wrg3K3lEMEXcIovV4OYB6) | 2:53 | 2022-05-25 |  |

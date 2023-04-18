@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Los Aptos & DannyLux en portada.
 
-280 songs - 14 hr 36 min
+281 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Me Encantas](https://open.spotify.com/track/4nzy7rc0JlsoMVfYBgmybw) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Me Encantas](https://open.spotify.com/album/5nhMOcUkwPf4kajn0UQIht) | 3:20 | 2022-10-14 | 2023-02-25 |
 | [Me Gusta Mi Vida](https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH) | [Joan Y Su Elite](https://open.spotify.com/artist/7zezEcThEVuTMXsVgPLPG1), [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Me Gusta Mi Vida](https://open.spotify.com/album/6Afdo0WciubGD9TEGkrop9) | 3:47 | 2021-12-27 | 2022-09-24 |
 | [Me Muero Por Tenerte](https://open.spotify.com/track/1TaUH3gMmI52eJwnQjpKrg) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Grupo 415](https://open.spotify.com/artist/4T7VVYDG8RzvV1E0zUP6Gw) | [Me Muero Por Tenerte](https://open.spotify.com/album/5fsETqTQv6MtnpTKpLURKa) | 3:56 | 2022-08-05 | 2022-11-19 |
+| [Me preguntHan](https://open.spotify.com/track/4EVUrEnwnNxxEF7sKRAW7p) | [David Ornelas](https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq) | [Me preguntHan](https://open.spotify.com/album/1KjPzLdoQAHK72HWd4GId7) | 3:48 | 2023-04-14 |  |
 | [Me Salió Barato](https://open.spotify.com/track/07lRi3ggS7EvqnN0rvngDw) | [Gvano](https://open.spotify.com/artist/0koudnTW4GW7uJY9ekOnUF), [La Inolvidable Banda Agua De La Llave](https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3) | [Amor Y Lágrimas](https://open.spotify.com/album/49kFxFPfwOBucIOPBf1u6i) | 2:27 | 2022-09-23 | 2022-12-10 |
 | [Mi Dolor](https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Mi Dolor](https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC) | 3:38 | 2023-01-13 |  |
 | [Mi Todo](https://open.spotify.com/track/4PJPDW3jEL4VNAfICxaEVm) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Mi Todo](https://open.spotify.com/album/0zpk19f8Rp6hb1YGjOMVX9) | 4:01 | 2022-02-23 | 2022-09-24 |
@@ -184,7 +185,7 @@
 | [Negro Como La Pantera](https://open.spotify.com/track/1QpM1kB7sggMOBuWUNUnfg) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Negro Como La Pantera](https://open.spotify.com/album/1V2a8dVFLfV4lju73nnIXr) | 2:09 | 2023-02-24 |  |
 | [No Hay Pedo Hay Peda](https://open.spotify.com/track/76ZtbyTDsdwMkIjvz1Z2sX) | [El Enfermo](https://open.spotify.com/artist/3derxbyWBTqAU8H8DPzn0q), [El Ezequiel](https://open.spotify.com/artist/5fEXlQQjFkAH2xuBUGxOTw) | [No Hay Pedo Hay Peda](https://open.spotify.com/album/1LCAjw1LW3nWqJmgPR8JqT) | 4:00 | 2022-12-09 | 2023-01-17 |
 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 | 2022-03-04 | 2022-09-24 |
-| [No Le Muevan Al Viejón](https://open.spotify.com/track/5vEO1CsJTtXg4myKwjiZZp) | [Moiza](https://open.spotify.com/artist/77146l5Vcu5vbpVPNXxvLC), [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [No Le Muevan Al Viejón](https://open.spotify.com/album/2T49xEeAbotGF9bskLcqDa) | 2:28 | 2022-12-09 |  |
+| [No Le Muevan Al Viejón](https://open.spotify.com/track/5vEO1CsJTtXg4myKwjiZZp) | [Moiza](https://open.spotify.com/artist/77146l5Vcu5vbpVPNXxvLC), [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [No Le Muevan Al Viejón](https://open.spotify.com/album/2T49xEeAbotGF9bskLcqDa) | 2:28 | 2022-12-09 | 2023-04-18 |
 | [No Llega El Olvido \- En Vivo](https://open.spotify.com/track/6G5qABmBsCynrpdqlWWgK3) | [Uriel Barrera](https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH), [Neto Bernal](https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5) | [No Llega El Olvido \(En Vivo\)](https://open.spotify.com/album/1LW3Trn9wtBrtMi4rveSVY) | 3:48 | 2023-04-14 |  |
 | [No Me Enseñaste](https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [No Me Enseñaste](https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE) | 3:03 | 2022-11-18 | 2023-04-15 |
 | [No Me Gustan Los Enredos](https://open.spotify.com/track/2MNn01bSLrN1A85gC2Hnrs) | [3 Caleb](https://open.spotify.com/artist/28bkOQcxioYFEsE06mmnkd) | [No Me Gustan Los Enredos](https://open.spotify.com/album/2Kyj2BkIurcfRoFyN4uDui) | 2:53 | 2022-05-13 | 2022-08-06 |

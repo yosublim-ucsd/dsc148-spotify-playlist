@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-531 songs - 1 day 6 hr 6 min
+532 songs - 1 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Give Up Baby Go](https://open.spotify.com/track/6DIMM15oo3kxnCuVypaYGy) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [From 2 to 3](https://open.spotify.com/album/291A3Ud0sbMSfmG48k6GQY) | 4:17 | 2022-04-13 |  |
 | [Gloom](https://open.spotify.com/track/5AMe0pqbUp4HR6Vi1ngYLW) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Gloom](https://open.spotify.com/album/4cAwTMcwIYn36iVG2Uz2oz) | 2:00 | 2022-07-29 | 2022-10-14 |
 | [Gloom](https://open.spotify.com/track/6L8JVXMBLDZeyhBKr0lrj8) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:00 | 2022-10-14 |  |
+| [Go Boy](https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Go Boy](https://open.spotify.com/album/5MGppdhOf6M7mBsIWrg55E) | 2:56 | 2023-04-07 |  |
 | [Go Wild](https://open.spotify.com/track/0H39cYgfekuFluOgGPUicR) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [Go Wild](https://open.spotify.com/album/4W0dYMXgDxAfT9y86EQqw8) | 3:17 | 2021-05-01 | 2022-04-14 |
 | [Going up the Coast](https://open.spotify.com/track/2bTvNKT8bxyyPhzHu4A2Wx) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [Going up the Coast](https://open.spotify.com/album/229OwGf2JaBsr2DFw9ixjy) | 2:54 | 2021-05-01 | 2022-04-20 |
 | [Gold Rush](https://open.spotify.com/track/4QcqzYDzMFvDSf6pyjOzET) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [Gold Rush](https://open.spotify.com/album/2bdAXLoO6ESOHzA8O0pFZL) | 2:35 | 2021-05-01 | 2022-04-14 |
@@ -450,7 +451,7 @@
 | [Sunflower](https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE) | 4:12 | 2022-10-14 | 2023-04-15 |
 | [Sunlight](https://open.spotify.com/track/6XpJw6mIuTQ7tPYTvjYyVX) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Sunlight](https://open.spotify.com/album/73G6WLLpF5yejKrJCYwidT) | 3:32 | 2021-05-01 | 2022-07-29 |
 | [Sunset Chaser](https://open.spotify.com/track/0US7M5Cc4HToQXy99z92SV) | [Ragamuffs](https://open.spotify.com/artist/0IIb8Xf1ZDISXLSntUDMRq) | [Achy Luminescence](https://open.spotify.com/album/0rUhSoE2bdLyMMO0m2ywBG) | 5:30 | 2022-04-13 | 2022-04-18 |
-| [supermarket](https://open.spotify.com/track/11cufrIGJ6pbcVqJ205Eqe) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [supermarket](https://open.spotify.com/album/2rpxxVofUOFlcnFD5jriTt) | 2:25 | 2022-11-07 |  |
+| [supermarket](https://open.spotify.com/track/11cufrIGJ6pbcVqJ205Eqe) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [supermarket](https://open.spotify.com/album/2rpxxVofUOFlcnFD5jriTt) | 2:25 | 2022-11-07 | 2023-04-18 |
 | [supermarket](https://open.spotify.com/track/5FdE9hALukJ6ivdFXbCGEj) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [supermarket](https://open.spotify.com/album/1I00sBmH4cpFAbEPr33t1S) | 2:25 | 2022-05-27 | 2022-06-18 |
 | [Sweating Gold](https://open.spotify.com/track/6h2xiDln9WpUTHpfLHzvd6) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Sweating Gold](https://open.spotify.com/album/7pKNs5eRx11unBLFzai0Cy) | 4:13 | 2021-05-01 | 2022-02-01 |
 | [T Love](https://open.spotify.com/track/1DMLc4avhS9tZZqI8VVtr5) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [T Love](https://open.spotify.com/album/3ppnqC8JtzBM9nq6VZbEqB) | 5:10 | 2022-05-01 | 2022-07-29 |

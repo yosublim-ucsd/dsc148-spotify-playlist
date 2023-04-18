@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251510,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/7ByxizhA4GgEf7Sxomxhze"
+    },
+    {
+      "album": {
         "name": "When It Was Now (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5Ix8zXCxsX8YCGAThyBVE8"
       },
@@ -1215,6 +1233,24 @@
     },
     {
       "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "Friday I'm in Love",
+      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
+    },
+    {
+      "album": {
         "name": "friends*",
         "url": "https://open.spotify.com/album/5kTxAa5VGbfvrEsn5ufBU7"
       },
@@ -1680,7 +1716,7 @@
       ],
       "date_added": "2020-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2020-07-24",
+      "date_removed": null,
       "duration_ms": 207306,
       "name": "I Belong in Your Arms",
       "url": "https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9"
@@ -2220,7 +2256,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 244000,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/71v8qnPTtFJKKFcyLV2Sjz"
@@ -3186,10 +3222,28 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 301714,
       "name": "Simple Pleasures",
       "url": "https://open.spotify.com/track/3SFyR2ii2zKh4BU0QJuJ1G"
+    },
+    {
+      "album": {
+        "name": "Port Of Morrow",
+        "url": "https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255400,
+      "name": "Simple Song",
+      "url": "https://open.spotify.com/track/48bo7uexDvAThcRDvEB2W7"
     },
     {
       "album": {
@@ -3222,7 +3276,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 201666,
       "name": "Sleepwalking, Pt. I (Acoustic)",
       "url": "https://open.spotify.com/track/2Y5v72rZR7ym6LRbh5NilJ"
@@ -3298,6 +3352,24 @@
       "duration_ms": 218004,
       "name": "Stars Are on Your Side",
       "url": "https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ"
+    },
+    {
+      "album": {
+        "name": "Conditions",
+        "url": "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230800,
+      "name": "Sweet Disposition",
+      "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
     },
     {
       "album": {
@@ -3528,7 +3600,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 182026,
       "name": "The Ghost Who Walks",
       "url": "https://open.spotify.com/track/3KrujCpaooRF2xXc7cfULh"
@@ -3618,7 +3690,7 @@
       ],
       "date_added": "2019-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 191960,
       "name": "The Woods",
       "url": "https://open.spotify.com/track/5ocjpwbvnbO2pnAvEa0b2u"

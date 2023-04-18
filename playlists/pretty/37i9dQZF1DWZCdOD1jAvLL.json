@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Rezz",
-  "num_followers": 205812,
+  "num_followers": 205928,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDc4NWI0NWRjNjZiOWE2ZGNlZTkwNDRlZjM4YmVmMzJl",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGYwYjc4MGZmMDYyNGEzZTBhY2E4OWE3ZmViZDYzMzM2",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -809,6 +809,26 @@
       "url": "https://open.spotify.com/track/2S5e00424Wsh4bVcvV8AKc"
     },
     {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        }
+      ],
+      "duration_ms": 209714,
+      "name": "Synergy",
+      "url": "https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA"
+    },
+    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Outer Space",
@@ -863,26 +883,6 @@
       "duration_ms": 134148,
       "name": "Empress - Zeds Dead Remix",
       "url": "https://open.spotify.com/track/5w9XTPbDewcXuKaseMFwlj"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Synergy",
-        "url": "https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "DVBBS",
-          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
-        }
-      ],
-      "duration_ms": 209714,
-      "name": "Synergy",
-      "url": "https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Bongoloco",
-        "url": "https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Furlan",
-          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Bongoloco",
-      "url": "https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Helicopter",
         "url": "https://open.spotify.com/album/7vKuJ6fPYmOxW7IAh4xeaU"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 145474,
       "name": "Helicopter",
       "url": "https://open.spotify.com/track/1WrxHnZVeYqJdKnUzk3onw"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Bongoloco",
+        "url": "https://open.spotify.com/album/6kC3PZyvcdO2XDw8Q7HDOA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Bongoloco",
+      "url": "https://open.spotify.com/track/20MM2VpIUqc7FHJ0a8PX3a"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Loca People",
-        "url": "https://open.spotify.com/album/3cSg8LgwykWmPsL5J6dIzs"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        }
-      ],
-      "duration_ms": 158437,
-      "name": "Loca People",
-      "url": "https://open.spotify.com/track/2y1V4nbrr7Lqr6d7K3TMXi"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Thrones of Blood",
         "url": "https://open.spotify.com/album/3bA9JNdeH91Id0ilofZlVX"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 320853,
       "name": "Fall Apart",
       "url": "https://open.spotify.com/track/0o4nOUsrcHCKMu74kUlxDS"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Loca People",
+        "url": "https://open.spotify.com/album/3cSg8LgwykWmPsL5J6dIzs"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 158437,
+      "name": "Loca People",
+      "url": "https://open.spotify.com/track/2y1V4nbrr7Lqr6d7K3TMXi"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1301,6 +1301,22 @@
       "url": "https://open.spotify.com/track/4iZjLwKa4VUZBeeMvgyNeL"
     },
     {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "One Touch",
+        "url": "https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        }
+      ],
+      "duration_ms": 180437,
+      "name": "One Touch",
+      "url": "https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq"
+    },
+    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Molotov",
@@ -1319,22 +1335,6 @@
       "duration_ms": 178065,
       "name": "Molotov",
       "url": "https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "One Touch",
-        "url": "https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo"
-      },
-      "artists": [
-        {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
-        }
-      ],
-      "duration_ms": 180437,
-      "name": "One Touch",
-      "url": "https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/1VxPsvoY1SE2wWG6hStEpG"
-      },
-      "artists": [
-        {
-          "name": "Loco & Jam",
-          "url": "https://open.spotify.com/artist/5RwXcpTt7Fr8S8yG3Tbr9b"
-        }
-      ],
-      "duration_ms": 407000,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/0ihobYmU0yxWaw0GpZFSpY"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "A Mere Blip In Your Timeline",
         "url": "https://open.spotify.com/album/24oSN9awI8g3kOCQ4M8Nxb"
       },
@@ -1471,22 +1455,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Heritage",
-        "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1VxPsvoY1SE2wWG6hStEpG"
       },
       "artists": [
         {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+          "name": "Loco & Jam",
+          "url": "https://open.spotify.com/artist/5RwXcpTt7Fr8S8yG3Tbr9b"
         }
       ],
-      "duration_ms": 198582,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6"
+      "duration_ms": 407000,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/0ihobYmU0yxWaw0GpZFSpY"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1527,6 +1507,26 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        }
+      ],
+      "duration_ms": 198582,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "THE POWER!",
         "url": "https://open.spotify.com/album/7Ewjy1z4p5QKz0EFrgXskf"
       },
@@ -1561,20 +1561,28 @@
       "url": "https://open.spotify.com/track/3v3NFAqax9Zg6TFBltTMF8"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "It's All Fiction",
-        "url": "https://open.spotify.com/album/1ftZpkTqPl2OIM6QCRb8u7"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/3XjD5Vaq09m61AYKjQth7K"
       },
       "artists": [
         {
-          "name": "Grigor\u00e9",
-          "url": "https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX"
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        },
+        {
+          "name": "RUNN",
+          "url": "https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg"
         }
       ],
-      "duration_ms": 256721,
-      "name": "Hyperreal",
-      "url": "https://open.spotify.com/track/3NxY6I8zzqT2F2Ue2G8BRZ"
+      "duration_ms": 253200,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/2kY3zw2cGQOG3IL6gMW20R"
     }
   ],
   "unique_name": "Bangers",

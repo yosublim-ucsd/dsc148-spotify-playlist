@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 103647,
+  "num_followers": 103663,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY3OTAyOCwwMDAwMDAwMDg3Mjg2MzAyMTY5MTllMzViZjZlMDFlMTY0YWNhODQw",
+  "snapshot_id": "MTY4MDY3OTAyOCwwMDAwMDAwMDc2ZWE4YTlhYTRkMGNhYjg1MTNhYzMxZWVhYzJhMzYy",
   "tracks": [
     {
       "added_at": "2023-04-05 07:17:08",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-04-05 07:17:08",
       "album": {
-        "name": "Call of the Whipbird",
-        "url": "https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1"
-      },
-      "artists": [
-        {
-          "name": "Subset",
-          "url": "https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl"
-        }
-      ],
-      "duration_ms": 388735,
-      "name": "Whipbird Dub",
-      "url": "https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg"
-    },
-    {
-      "added_at": "2023-04-05 07:17:08",
-      "album": {
         "name": "Cherry",
         "url": "https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 213441,
       "name": "Clavicle",
       "url": "https://open.spotify.com/track/0WsWPDqKxxbhuagIulHk9g"
+    },
+    {
+      "added_at": "2023-04-05 07:17:08",
+      "album": {
+        "name": "Call of the Whipbird",
+        "url": "https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1"
+      },
+      "artists": [
+        {
+          "name": "Subset",
+          "url": "https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl"
+        }
+      ],
+      "duration_ms": 388735,
+      "name": "Whipbird Dub",
+      "url": "https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg"
     },
     {
       "added_at": "2023-04-05 07:17:08",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-04-05 07:17:08",
       "album": {
-        "name": "Setting Sun",
-        "url": "https://open.spotify.com/album/2ExANkuoKaZn7qOGvf014G"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 373166,
-      "name": "Setting Sun",
-      "url": "https://open.spotify.com/track/4BG4Smwt9cu1RzAKurrIN6"
-    },
-    {
-      "added_at": "2023-04-05 07:17:08",
-      "album": {
         "name": "Caring EP",
         "url": "https://open.spotify.com/album/3pIUvgrnnoHYdTv0pts9wX"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 274267,
       "name": "Shapeless",
       "url": "https://open.spotify.com/track/1PDkQCBKrza8FSiAmmm7n7"
+    },
+    {
+      "added_at": "2023-04-05 07:17:08",
+      "album": {
+        "name": "Setting Sun",
+        "url": "https://open.spotify.com/album/2ExANkuoKaZn7qOGvf014G"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 373166,
+      "name": "Setting Sun",
+      "url": "https://open.spotify.com/track/4BG4Smwt9cu1RzAKurrIN6"
     },
     {
       "added_at": "2023-04-05 07:17:08",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-04-05 07:17:08",
       "album": {
-        "name": "The Corner",
-        "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
-      },
-      "artists": [
-        {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
-        }
-      ],
-      "duration_ms": 220653,
-      "name": "The Corner",
-      "url": "https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR"
-    },
-    {
-      "added_at": "2023-04-05 07:17:08",
-      "album": {
         "name": "Inperspect",
         "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 498001,
       "name": "Inperspect",
       "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
+    },
+    {
+      "added_at": "2023-04-05 07:17:08",
+      "album": {
+        "name": "The Corner",
+        "url": "https://open.spotify.com/album/5BTdRwKRznLonMVvEuAZPi"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "duration_ms": 220653,
+      "name": "The Corner",
+      "url": "https://open.spotify.com/track/1Pfun1VMFlTBwgqLNdUxcR"
     },
     {
       "added_at": "2023-04-05 07:17:08",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-04-05 07:17:08",
       "album": {
+        "name": "Poly 61",
+        "url": "https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H"
+      },
+      "artists": [
+        {
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+        }
+      ],
+      "duration_ms": 273300,
+      "name": "Poly 61",
+      "url": "https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU"
+    },
+    {
+      "added_at": "2023-04-05 07:17:08",
+      "album": {
         "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 (Flora Wong Remix)",
         "url": "https://open.spotify.com/album/1A4sqGtcGXGiyzeSQlLfov"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 201600,
       "name": "Sleeping Tiger on the Bund \u84c4\u52bf\u5f85\u53d1 - Flora Wong Remix",
       "url": "https://open.spotify.com/track/6a58UtB386V9UVtgmhf61g"
-    },
-    {
-      "added_at": "2023-04-05 07:17:08",
-      "album": {
-        "name": "Poly 61",
-        "url": "https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H"
-      },
-      "artists": [
-        {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
-        }
-      ],
-      "duration_ms": 273300,
-      "name": "Poly 61",
-      "url": "https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU"
     },
     {
       "added_at": "2023-04-05 07:17:08",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-04-05 07:17:08",
       "album": {
-        "name": "Inperspect",
-        "url": "https://open.spotify.com/album/0Yon94iHYUaXtGcJ3u6QyW"
-      },
-      "artists": [
-        {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
-        }
-      ],
-      "duration_ms": 329784,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/45cGbDnSsjro3Ssom6Wmbf"
-    },
-    {
-      "added_at": "2023-04-05 07:17:08",
-      "album": {
         "name": "Take Them",
         "url": "https://open.spotify.com/album/5KW5wIu6RhXkBGl3TTKqOp"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 287542,
       "name": "Take Them",
       "url": "https://open.spotify.com/track/00nHvLYHf4mQaVuCq2eoTT"
+    },
+    {
+      "added_at": "2023-04-05 07:17:08",
+      "album": {
+        "name": "Inperspect",
+        "url": "https://open.spotify.com/album/0Yon94iHYUaXtGcJ3u6QyW"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 329784,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/45cGbDnSsjro3Ssom6Wmbf"
     },
     {
       "added_at": "2023-04-05 07:17:08",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-04-05 07:17:08",
       "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/2QV91V7AsQLDSKbcjSFYpG"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 317178,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/6KOngf9VGk1Q6oQgfuryQU"
+    },
+    {
+      "added_at": "2023-04-05 07:17:08",
+      "album": {
         "name": "All Ways",
         "url": "https://open.spotify.com/album/2fSalddDJUxWeDeXl2yTwR"
       },
@@ -1011,38 +1027,6 @@
       "duration_ms": 256000,
       "name": "All Ways",
       "url": "https://open.spotify.com/track/6FXo8XBPJVRVTnULgrMEVt"
-    },
-    {
-      "added_at": "2023-04-05 07:17:08",
-      "album": {
-        "name": "Ultra Truth",
-        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
-      },
-      "artists": [
-        {
-          "name": "Daniel Avery",
-          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
-        }
-      ],
-      "duration_ms": 317183,
-      "name": "Ultra Truth",
-      "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
-    },
-    {
-      "added_at": "2023-04-05 07:17:08",
-      "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/2QV91V7AsQLDSKbcjSFYpG"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 317178,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/6KOngf9VGk1Q6oQgfuryQU"
     },
     {
       "added_at": "2023-04-05 07:17:08",
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2023-04-05 07:17:08",
       "album": {
+        "name": "Ultra Truth",
+        "url": "https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "duration_ms": 317183,
+      "name": "Ultra Truth",
+      "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
+    },
+    {
+      "added_at": "2023-04-05 07:17:08",
+      "album": {
         "name": "Mercury Remixes",
         "url": "https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ"
       },
@@ -1099,6 +1099,26 @@
       "duration_ms": 207304,
       "name": "Violet - DJ Python Remix",
       "url": "https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI"
+    },
+    {
+      "added_at": "2023-04-05 07:17:08",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/3VLtsXibcVJSiiHbSu3DYY"
+      },
+      "artists": [
+        {
+          "name": "edapollo",
+          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
+        },
+        {
+          "name": "Kendl",
+          "url": "https://open.spotify.com/artist/70kLAtCzsMiSqLU8qY7QQC"
+        }
+      ],
+      "duration_ms": 266853,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK"
     },
     {
       "added_at": "2023-04-05 07:17:08",
@@ -1135,26 +1155,6 @@
     {
       "added_at": "2023-04-05 07:17:08",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/3VLtsXibcVJSiiHbSu3DYY"
-      },
-      "artists": [
-        {
-          "name": "edapollo",
-          "url": "https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm"
-        },
-        {
-          "name": "Kendl",
-          "url": "https://open.spotify.com/artist/70kLAtCzsMiSqLU8qY7QQC"
-        }
-      ],
-      "duration_ms": 266853,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK"
-    },
-    {
-      "added_at": "2023-04-05 07:17:08",
-      "album": {
         "name": "Halcyon (30 Something) [Remixes]",
         "url": "https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W"
       },
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-04-05 07:17:08",
       "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/5DSIVfyY6Ju3uoUJ68Jcck"
-      },
-      "artists": [
-        {
-          "name": "Nice Girl",
-          "url": "https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB"
-        }
-      ],
-      "duration_ms": 270271,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3"
-    },
-    {
-      "added_at": "2023-04-05 07:17:08",
-      "album": {
         "name": "Inertia",
         "url": "https://open.spotify.com/album/1AZ22tLqS9tCZfLB6pocSZ"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 305680,
       "name": "Inertia",
       "url": "https://open.spotify.com/track/1vfn6qNHbzTLQVCNZ5Lmf8"
+    },
+    {
+      "added_at": "2023-04-05 07:17:08",
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/5DSIVfyY6Ju3uoUJ68Jcck"
+      },
+      "artists": [
+        {
+          "name": "Nice Girl",
+          "url": "https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB"
+        }
+      ],
+      "duration_ms": 270271,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3"
     },
     {
       "added_at": "2023-04-05 07:17:08",

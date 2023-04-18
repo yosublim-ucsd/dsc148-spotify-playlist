@@ -5097,6 +5097,28 @@
     },
     {
       "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/0U7a7nBQGHhDyDuhBxc3mw"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Chris Avantgarde",
+          "url": "https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186284,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/4XzeThE3txvCBIrP40tj85"
+    },
+    {
+      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -5170,7 +5192,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 225319,
       "name": "Fall in luv",
       "url": "https://open.spotify.com/track/6EiVtwnD7dpfXkgkw5XPIQ"
@@ -10595,6 +10617,24 @@
     },
     {
       "album": {
+        "name": "MTG - REBOLA NO MEU C4RALHO",
+        "url": "https://open.spotify.com/album/63WfQxZlaM7RieVafWxH6p"
+      },
+      "artists": [
+        {
+          "name": "DJ LA BEAT",
+          "url": "https://open.spotify.com/artist/7x17bGSbbPvPv9YOhPhMch"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207692,
+      "name": "MTG - REBOLA NO MEU C4RALHO",
+      "url": "https://open.spotify.com/track/6UsDf89sHDBewBBw7hc0Qc"
+    },
+    {
+      "album": {
         "name": "Muchachos, Ahora Nos Volvimos a Ilusionar",
         "url": "https://open.spotify.com/album/0WRR7nTtUtQXKe8kpQHGvn"
       },
@@ -11744,7 +11784,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 184773,
       "name": "OTONABLUE",
       "url": "https://open.spotify.com/track/3h1XlHgx0m1dO6nNSO1kSV"
@@ -13388,7 +13428,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 231644,
       "name": "Querer Querernos",
       "url": "https://open.spotify.com/track/15ItGp1Ugz6NBsRIdpBect"
@@ -18468,6 +18508,24 @@
       "duration_ms": 173373,
       "name": "\u30a6\u30bf\u30ab\u30bf\u30e9\u30e9\u30d0\u30a4",
       "url": "https://open.spotify.com/track/3IhHrBYZaxySuRu1zI7Vuk"
+    },
+    {
+      "album": {
+        "name": "\u4e00\u6642\u5e30\u56fd",
+        "url": "https://open.spotify.com/album/7u4bwVJmR4P4Z1vXKB3ruZ"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184773,
+      "name": "\u30aa\u30c8\u30ca\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/3iszqtuRuu5JhOG1jDqwkO"
     },
     {
       "album": {

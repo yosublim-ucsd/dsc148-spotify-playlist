@@ -3311,6 +3311,24 @@
     },
     {
       "album": {
+        "name": "Go Boy",
+        "url": "https://open.spotify.com/album/5MGppdhOf6M7mBsIWrg55E"
+      },
+      "artists": [
+        {
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176727,
+      "name": "Go Boy",
+      "url": "https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ"
+    },
+    {
+      "album": {
         "name": "Go Wild",
         "url": "https://open.spotify.com/album/4W0dYMXgDxAfT9y86EQqw8"
       },
@@ -8100,7 +8118,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 145333,
       "name": "supermarket",
       "url": "https://open.spotify.com/track/11cufrIGJ6pbcVqJ205Eqe"

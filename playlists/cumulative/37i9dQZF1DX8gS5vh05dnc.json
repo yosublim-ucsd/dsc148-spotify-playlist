@@ -484,7 +484,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 263120,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
@@ -2231,6 +2231,24 @@
     },
     {
       "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194594,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
+    },
+    {
+      "album": {
         "name": "Mad at Disney",
         "url": "https://open.spotify.com/album/1xWYSg7J7pxTZ113CJVy1P"
       },
@@ -2526,7 +2544,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 187062,
       "name": "No Explanations",
       "url": "https://open.spotify.com/track/6C8nmYYiWCess3VeX3z8ub"
@@ -2614,6 +2632,24 @@
       "duration_ms": 206956,
       "name": "Old With You",
       "url": "https://open.spotify.com/track/2a8dFwynGpl0p0YYSUEnax"
+    },
+    {
+      "album": {
+        "name": "One Day at a Time",
+        "url": "https://open.spotify.com/album/0cFFxwnLmAYZhMwHSYPAkA"
+      },
+      "artists": [
+        {
+          "name": "PREP",
+          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192768,
+      "name": "One Day at a Time",
+      "url": "https://open.spotify.com/track/1xt9Nzh3Gc7oFdNIIbbvJr"
     },
     {
       "album": {

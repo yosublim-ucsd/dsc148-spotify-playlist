@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 118804,
+  "num_followers": 118935,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMGI4Mjc1ZmUwZDAyMWYxOTI0YjA2NmVjY2RlNzgyYzMw",
+  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMGI2MzRjYzg3YzFkNGFjODNlZjk1ODU2Yzg0YzBhNGU4",
   "tracks": [
     {
       "added_at": "2022-05-27 04:00:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Ain't Nothin' to It",
-        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 254653,
-      "name": "Dear Rodeo",
-      "url": "https://open.spotify.com/track/5S8TnsIYMVrUg1bKxiGf6e"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Sellout",
         "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
       },
@@ -239,34 +223,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "A Long Way from Your Heart",
-        "url": "https://open.spotify.com/album/04ffYrjCuXYHdWvFXzGeW9"
+        "name": "Ain't Nothin' to It",
+        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
       },
       "artists": [
         {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 241838,
-      "name": "Pay No Rent",
-      "url": "https://open.spotify.com/track/4FIIaVhMlCDlIRPUWtd7Ax"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Homeland Insecurity",
-        "url": "https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422"
-      },
-      "artists": [
-        {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
-        }
-      ],
-      "duration_ms": 208293,
-      "name": "Come Back Down",
-      "url": "https://open.spotify.com/track/2OmdWZzYSufueUptTzGven"
+      "duration_ms": 254653,
+      "name": "Dear Rodeo",
+      "url": "https://open.spotify.com/track/5S8TnsIYMVrUg1bKxiGf6e"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -287,18 +255,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "To Be Loved By You",
-        "url": "https://open.spotify.com/album/6Vtd35xUUyiFApy5kFdqVu"
+        "name": "A Long Way from Your Heart",
+        "url": "https://open.spotify.com/album/04ffYrjCuXYHdWvFXzGeW9"
       },
       "artists": [
         {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
         }
       ],
-      "duration_ms": 198324,
-      "name": "To Be Loved By You",
-      "url": "https://open.spotify.com/track/5Ykc3Wr4L4wef5QDdaaxM7"
+      "duration_ms": 241838,
+      "name": "Pay No Rent",
+      "url": "https://open.spotify.com/track/4FIIaVhMlCDlIRPUWtd7Ax"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -319,18 +287,34 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Harold Saul High",
-        "url": "https://open.spotify.com/album/2uYVHiJwrv4qxQg9RhmeOn"
+        "name": "Homeland Insecurity",
+        "url": "https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
         }
       ],
-      "duration_ms": 177866,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/4oCUw978NJjfUIWYtEVaCP"
+      "duration_ms": 208293,
+      "name": "Come Back Down",
+      "url": "https://open.spotify.com/track/2OmdWZzYSufueUptTzGven"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "To Be Loved By You",
+        "url": "https://open.spotify.com/album/6Vtd35xUUyiFApy5kFdqVu"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 198324,
+      "name": "To Be Loved By You",
+      "url": "https://open.spotify.com/track/5Ykc3Wr4L4wef5QDdaaxM7"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -367,18 +351,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Welcome To Countryland",
-        "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
+        "name": "Harold Saul High",
+        "url": "https://open.spotify.com/album/2uYVHiJwrv4qxQg9RhmeOn"
       },
       "artists": [
         {
-          "name": "Flatland Cavalry",
-          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 200672,
-      "name": "Some Things Never Change",
-      "url": "https://open.spotify.com/track/7zxsnW2mjKjpkgvfZqQNX4"
+      "duration_ms": 177866,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4oCUw978NJjfUIWYtEVaCP"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -399,6 +383,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "Welcome To Countryland",
+        "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
+      },
+      "artists": [
+        {
+          "name": "Flatland Cavalry",
+          "url": "https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav"
+        }
+      ],
+      "duration_ms": 200672,
+      "name": "Some Things Never Change",
+      "url": "https://open.spotify.com/track/7zxsnW2mjKjpkgvfZqQNX4"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "Muchos Sonidos",
         "url": "https://open.spotify.com/album/4AyYKQ8iCNv5ZiAhEFRPhE"
       },
@@ -411,6 +411,38 @@
       "duration_ms": 223596,
       "name": "Ranch Girl Dream",
       "url": "https://open.spotify.com/track/459Tsc8UpweSq3WqZ80OOV"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Vol. 1- EP",
+        "url": "https://open.spotify.com/album/5syk2daTo1YtSBRRjuyCjS"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "duration_ms": 268538,
+      "name": "It Ain't Me",
+      "url": "https://open.spotify.com/track/610z3fv4hqlH5eff9yBJTN"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Borrowed Time",
+        "url": "https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb"
+      },
+      "artists": [
+        {
+          "name": "Read Southall Band",
+          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+        }
+      ],
+      "duration_ms": 220649,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/3lIseaWnhgvIcklKySbCJV"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -439,22 +471,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Borrowed Time",
-        "url": "https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb"
-      },
-      "artists": [
-        {
-          "name": "Read Southall Band",
-          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
-        }
-      ],
-      "duration_ms": 220649,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/3lIseaWnhgvIcklKySbCJV"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Black Sheep",
         "url": "https://open.spotify.com/album/42FIwhkRiRgUp0bLKTwvVP"
       },
@@ -467,6 +483,22 @@
       "duration_ms": 224027,
       "name": "Happier Alone",
       "url": "https://open.spotify.com/track/7vtbbBGH2hKTVMnhJlLpn7"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Marfa Lights",
+        "url": "https://open.spotify.com/album/24NOQ09OAx540cYX976EEo"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Marfa Lights",
+      "url": "https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -503,22 +535,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Vol. 1- EP",
-        "url": "https://open.spotify.com/album/5syk2daTo1YtSBRRjuyCjS"
-      },
-      "artists": [
-        {
-          "name": "Kolby Cooper",
-          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
-        }
-      ],
-      "duration_ms": 268538,
-      "name": "It Ain't Me",
-      "url": "https://open.spotify.com/track/610z3fv4hqlH5eff9yBJTN"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Welcome To Countryland",
         "url": "https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 226538,
       "name": "Life Without You",
       "url": "https://open.spotify.com/track/4GH1IMTWa7o2WCsmEOtO6t"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Marfa Lights",
-        "url": "https://open.spotify.com/album/24NOQ09OAx540cYX976EEo"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Marfa Lights",
-      "url": "https://open.spotify.com/track/62TNzM2AkC9NiTu9nEcmMI"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Leanna",
-        "url": "https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd"
-      },
-      "artists": [
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 174555,
-      "name": "Hey Moon",
-      "url": "https://open.spotify.com/track/55UgjwzWbQqOGMu66RHQRe"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "'21",
         "url": "https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 212235,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/6cvKAHoVOvSlINUCjbjGLu"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Leanna",
+        "url": "https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 174555,
+      "name": "Hey Moon",
+      "url": "https://open.spotify.com/track/55UgjwzWbQqOGMu66RHQRe"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -835,6 +835,38 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "Unwanted Man",
+        "url": "https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "duration_ms": 256875,
+      "name": "Unwanted Man",
+      "url": "https://open.spotify.com/track/6ohgxacIDKLyvvfUYcmKcR"
+    },
+    {
+      "added_at": "2023-04-18 00:47:30",
+      "album": {
+        "name": "blood",
+        "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 298906,
+      "name": "blood",
+      "url": "https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "Leanna",
         "url": "https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd"
       },
@@ -851,18 +883,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Unwanted Man",
-        "url": "https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw"
+        "name": "Drowning In Dreams",
+        "url": "https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS"
       },
       "artists": [
         {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+          "name": "Kat Hasty",
+          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
         }
       ],
-      "duration_ms": 256875,
-      "name": "Unwanted Man",
-      "url": "https://open.spotify.com/track/6ohgxacIDKLyvvfUYcmKcR"
+      "duration_ms": 268968,
+      "name": "Pretty Things",
+      "url": "https://open.spotify.com/track/4629TVxMQhshiEV4D5Uwyy"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -883,38 +915,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "No Vacancy",
-        "url": "https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O"
-      },
-      "artists": [
-        {
-          "name": "Treaty Oak Revival",
-          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
-        }
-      ],
-      "duration_ms": 244429,
-      "name": "No Vacancy",
-      "url": "https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ"
-    },
-    {
-      "added_at": "2023-04-17 01:25:56",
-      "album": {
-        "name": "blood",
-        "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 298906,
-      "name": "blood",
-      "url": "https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Hey Baby",
         "url": "https://open.spotify.com/album/6ZdP5o3oXMpIsYCYBU6pRu"
       },
@@ -927,6 +927,22 @@
       "duration_ms": 287031,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/7gj7pwh6wq2Wr0cvcx0mqu"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "No Vacancy",
+        "url": "https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O"
+      },
+      "artists": [
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "duration_ms": 244429,
+      "name": "No Vacancy",
+      "url": "https://open.spotify.com/track/72B4o9F7SbMeDWJoQPcqQJ"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -959,22 +975,6 @@
       "duration_ms": 210437,
       "name": "When Love Comes Around",
       "url": "https://open.spotify.com/track/6YlFNWOL2Q1kFOsIvd3Otm"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Drowning In Dreams",
-        "url": "https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS"
-      },
-      "artists": [
-        {
-          "name": "Kat Hasty",
-          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
-        }
-      ],
-      "duration_ms": 268968,
-      "name": "Pretty Things",
-      "url": "https://open.spotify.com/track/4629TVxMQhshiEV4D5Uwyy"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Where Phones Don't Work",
-        "url": "https://open.spotify.com/album/0VNn10LfXJkzFLdk3l9RNQ"
-      },
-      "artists": [
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
-        }
-      ],
-      "duration_ms": 213643,
-      "name": "Phones Don't Work",
-      "url": "https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Cigarettes and Alcohol",
         "url": "https://open.spotify.com/album/4YkOSXyyPDj923FSnXZJAJ"
       },
@@ -1105,7 +1089,23 @@
       "url": "https://open.spotify.com/track/5KOIbBonnacDrt1TUgWmLe"
     },
     {
-      "added_at": "2023-04-17 01:25:56",
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Where Phones Don't Work",
+        "url": "https://open.spotify.com/album/0VNn10LfXJkzFLdk3l9RNQ"
+      },
+      "artists": [
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+        }
+      ],
+      "duration_ms": 213643,
+      "name": "Phones Don't Work",
+      "url": "https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml"
+    },
+    {
+      "added_at": "2023-04-18 00:47:30",
       "album": {
         "name": "Pretty Ugly",
         "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"
@@ -1239,18 +1239,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Crash Landing",
-        "url": "https://open.spotify.com/album/1uP0ZFi3vsQwBnhPxJaIwG"
+        "name": "Hold My Beer",
+        "url": "https://open.spotify.com/album/570g8LS6QdbTV7LFy1i1Nh"
       },
       "artists": [
         {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+          "name": "Randy Rogers",
+          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
+        },
+        {
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
         }
       ],
-      "duration_ms": 204825,
-      "name": "Crash Landing",
-      "url": "https://open.spotify.com/track/4gvIiHEnw4a9kBFefzVYfC"
+      "duration_ms": 239045,
+      "name": "Hold My Beer",
+      "url": "https://open.spotify.com/track/6PXDfeOlL2y2FBQKpHKIcW"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1271,22 +1275,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Hold My Beer",
-        "url": "https://open.spotify.com/album/570g8LS6QdbTV7LFy1i1Nh"
+        "name": "Crash Landing",
+        "url": "https://open.spotify.com/album/1uP0ZFi3vsQwBnhPxJaIwG"
       },
       "artists": [
         {
-          "name": "Randy Rogers",
-          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
-        },
-        {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
         }
       ],
-      "duration_ms": 239045,
-      "name": "Hold My Beer",
-      "url": "https://open.spotify.com/track/6PXDfeOlL2y2FBQKpHKIcW"
+      "duration_ms": 204825,
+      "name": "Crash Landing",
+      "url": "https://open.spotify.com/track/4gvIiHEnw4a9kBFefzVYfC"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "High on the Bottle",
-        "url": "https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr"
-      },
-      "artists": [
-        {
-          "name": "Creed Fisher",
-          "url": "https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu"
-        }
-      ],
-      "duration_ms": 253952,
-      "name": "High on the Bottle",
-      "url": "https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Something 'Bout a Southern Girl",
         "url": "https://open.spotify.com/album/4QZxScKbnzOx4eVPQmEgp5"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 262186,
       "name": "Something 'Bout a Southern Girl",
       "url": "https://open.spotify.com/track/2TfC1woNLlRmCqn6IWrET6"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "High on the Bottle",
+        "url": "https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr"
+      },
+      "artists": [
+        {
+          "name": "Creed Fisher",
+          "url": "https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu"
+        }
+      ],
+      "duration_ms": 253952,
+      "name": "High on the Bottle",
+      "url": "https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "First Dirt Road",
-        "url": "https://open.spotify.com/album/2M5ulwziM5CwKd4zGSdUc3"
-      },
-      "artists": [
-        {
-          "name": "Chris Colston",
-          "url": "https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "First Dirt Road",
-      "url": "https://open.spotify.com/track/6VIMJ4ixnzZO6jgrhQRhC1"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "In the Dark",
         "url": "https://open.spotify.com/album/3X6pi4gHeBN14Lt9ItfOiX"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 232520,
       "name": "In the Dark",
       "url": "https://open.spotify.com/track/7nlNwrNlmvOZVBuP00ax0v"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Lightning Fast",
+        "url": "https://open.spotify.com/album/5hX3XsWvSjNVbSRMd5MuFS"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "duration_ms": 190853,
+      "name": "Lightning Fast",
+      "url": "https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "First Dirt Road",
+        "url": "https://open.spotify.com/album/2M5ulwziM5CwKd4zGSdUc3"
+      },
+      "artists": [
+        {
+          "name": "Chris Colston",
+          "url": "https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "First Dirt Road",
+      "url": "https://open.spotify.com/track/6VIMJ4ixnzZO6jgrhQRhC1"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "Volume 2",
         "url": "https://open.spotify.com/album/1Ow5quOYqrRSf4SU6SQnga"
       },
@@ -1563,6 +1579,22 @@
       "duration_ms": 210124,
       "name": "Everything I Had",
       "url": "https://open.spotify.com/track/70eyw755HGnxFAk8jPJGRo"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "When You're Coming Down",
+        "url": "https://open.spotify.com/album/0ME2uFunWrzFObtOtAKn5z"
+      },
+      "artists": [
+        {
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "When You're Coming Down",
+      "url": "https://open.spotify.com/track/3tzy19v6fti9MZI38jmUzt"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1599,54 +1631,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "When You're Coming Down",
-        "url": "https://open.spotify.com/album/0ME2uFunWrzFObtOtAKn5z"
+        "name": "Texas Made",
+        "url": "https://open.spotify.com/album/7yBHMD2T0sAI8G569XlqDA"
       },
       "artists": [
         {
-          "name": "Jarrod Morris",
-          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
+          "name": "Sarah Hobbs",
+          "url": "https://open.spotify.com/artist/3MhVMd9a3ynRnLBThqSLkI"
         }
       ],
-      "duration_ms": 260000,
-      "name": "When You're Coming Down",
-      "url": "https://open.spotify.com/track/3tzy19v6fti9MZI38jmUzt"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Lightning Fast",
-        "url": "https://open.spotify.com/album/5hX3XsWvSjNVbSRMd5MuFS"
-      },
-      "artists": [
-        {
-          "name": "Corey Kent",
-          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
-        }
-      ],
-      "duration_ms": 190853,
-      "name": "Lightning Fast",
-      "url": "https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
-        "name": "Bad Romantic",
-        "url": "https://open.spotify.com/album/537wfsAlZEoI5qEOR7NpJQ"
-      },
-      "artists": [
-        {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
-        },
-        {
-          "name": "Summer Dean",
-          "url": "https://open.spotify.com/artist/33tSPgqoMQLTTJBn7LLLul"
-        }
-      ],
-      "duration_ms": 206108,
-      "name": "You're Lucky She's Lonely",
-      "url": "https://open.spotify.com/track/0ECaEFqiKqtdWdMzogmqBX"
+      "duration_ms": 231808,
+      "name": "Like I Love You",
+      "url": "https://open.spotify.com/track/5DATEqpNaBjXVo2NF0HPoo"
     }
   ],
   "unique_name": "Texas Country Rewind",

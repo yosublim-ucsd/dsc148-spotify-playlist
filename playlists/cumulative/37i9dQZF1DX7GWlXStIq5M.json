@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits j\u00e1 consagrados e os novos nomes do pop dividindo o mesmo palco!   / Foto: Priscilla Alcantara",
+  "description": "Os hits j\u00e1 consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Priscilla Alcantara",
   "name": "Palco POP",
   "tracks": [
     {
@@ -4605,6 +4605,24 @@
     },
     {
       "album": {
+        "name": "Na Sua",
+        "url": "https://open.spotify.com/album/4rUcoz67PBYnscDJFS0hi8"
+      },
+      "artists": [
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185952,
+      "name": "Na Sua",
+      "url": "https://open.spotify.com/track/5Wwap1q83am8aMJMo4mjDs"
+    },
+    {
+      "album": {
         "name": "nada contra (ci\u00fame)",
         "url": "https://open.spotify.com/album/4eQOYhDped8j3q2tZHVdM0"
       },
@@ -5416,7 +5434,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 154690,
       "name": "Perdid\u00e3o",
       "url": "https://open.spotify.com/track/3WhmWO1hQYOl3xBqiSSqPx"
@@ -6010,7 +6028,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 145500,
       "name": "Pra Voc\u00ea e pra Mim",
       "url": "https://open.spotify.com/track/2KG5nqBRLLYbPNs29tOUu2"

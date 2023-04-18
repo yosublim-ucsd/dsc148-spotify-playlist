@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [American Crow In Rain](https://open.spotify.com/track/4JoECPt0bCLkrwSuvo9mkH) | [TAIOWA](https://open.spotify.com/artist/1Ch86YPeCu9LppuzxgpMF6) | [Morning Rain](https://open.spotify.com/album/1Bx8g7l4OILWFLnkYb4fvF) | 3:08 | 2021-11-11 |  |
+| [American Crow In Rain](https://open.spotify.com/track/4JoECPt0bCLkrwSuvo9mkH) | [TAIOWA](https://open.spotify.com/artist/1Ch86YPeCu9LppuzxgpMF6) | [Morning Rain](https://open.spotify.com/album/1Bx8g7l4OILWFLnkYb4fvF) | 3:08 | 2021-11-11 | 2023-04-18 |
 | [Aves del bosque y lluvia](https://open.spotify.com/track/1spz2ba2kDuHL6HrPZC6Cn) | [Sonidos Del Bosques](https://open.spotify.com/artist/38vgVJont1qwYekn4nTaRZ) | [Ruido del bosque](https://open.spotify.com/album/5Ov50QwFnpulEHH0M7C8Js) | 2:30 | 2021-11-11 |  |
 | [Aves del bosque y lluvia ligera](https://open.spotify.com/track/6uS10tj1xSGwpOaxvvgwoo) | [Hector's Nature Sounds](https://open.spotify.com/artist/33BDxeH7SAKTv1gJAol8wk) | [Ruido del bosque: pájaros y lluvia](https://open.spotify.com/album/2qEkPg5waJBvxjBX1E8v0p) | 1:55 | 2021-11-11 |  |
 | [Beautiful Bird & Rain Noise](https://open.spotify.com/track/2pmugk13iWAVy280WYWOj8) | [Fictional Athmosphere](https://open.spotify.com/artist/0gQq1HrP727iogwRWtHJ5H) | [Beautiful Bird & Rain Noise](https://open.spotify.com/album/6fJw6eP08VlrQ0BUDagv8L) | 1:56 | 2021-11-11 |  |
@@ -56,7 +56,7 @@
 | [Lively Rainforest](https://open.spotify.com/track/738rAS3K2PE4aMiluAAbl3) | [Daily Calm](https://open.spotify.com/artist/1RFbFQgjNdi8M4qM5gzgfj) | [Calm Rain](https://open.spotify.com/album/7jRKQ6G04oCT4O1QA0A5X3) | 3:38 | 2021-11-11 |  |
 | [Lluvia Cálida Del Bosque](https://open.spotify.com/track/4bAKwwbGa5AAGOQ07Onvt6) | [Bosque Ocupado](https://open.spotify.com/artist/74gmCcvPSZqRnrv4nwQIfW) | [Pájaros Trinando](https://open.spotify.com/album/6x4TqR1nDIckMR5CG09g3l) | 2:10 | 2021-11-11 |  |
 | [Lluvia ligera y truenos](https://open.spotify.com/track/0aMS42Rw7Kabs7x3nqOU3W) | [Pacifica Norte](https://open.spotify.com/artist/3uHURKaTSA3GBQOqUbVXpm) | [Lluvia ligera y truenos](https://open.spotify.com/album/09x9KnmIyjuZYwZMC5I8Eu) | 2:02 | 2021-11-11 | 2022-03-30 |
-| [Magical Forest Birds In Light Rain](https://open.spotify.com/track/7IYdXf0CQ7acQXLihtnqb7) | [Soul Healer](https://open.spotify.com/artist/1QptpPG5DCnj1GVwooQpAi) | [Soul Healing Birds](https://open.spotify.com/album/4NPlWnO0Q7j8rk6CyosvKo) | 2:25 | 2021-11-11 | 2023-03-04 |
+| [Magical Forest Birds In Light Rain](https://open.spotify.com/track/7IYdXf0CQ7acQXLihtnqb7) | [Soul Healer](https://open.spotify.com/artist/1QptpPG5DCnj1GVwooQpAi) | [Soul Healing Birds](https://open.spotify.com/album/4NPlWnO0Q7j8rk6CyosvKo) | 2:25 | 2021-11-11 |  |
 | [Magical Rainforest](https://open.spotify.com/track/5gKbTObGEDjqpB6pTzu1Ht) | [Accuweather](https://open.spotify.com/artist/2Y7k2YqDWE9s1eSuQlaWNi) | [The Sound Of Rain](https://open.spotify.com/album/4GarWDiMBHvz8hQudi2Ql4) | 2:25 | 2021-11-11 |  |
 | [Mellow Forest Rain](https://open.spotify.com/track/2bTcONpqEDdYvaFmJQWuEI) | [Sacred Nature](https://open.spotify.com/artist/7lAi4aNlwZqQLch98sKi5Z) | [Mellow Forest Rain](https://open.spotify.com/album/1QgH2hp8LfklCAr7h90gEO) | 2:48 | 2021-11-11 |  |
 | [Mellow Steady Rain](https://open.spotify.com/track/4yFWl1nJiNwKSZNYTf6lPj) | [The Weather Channel](https://open.spotify.com/artist/6oRsQFv60pMDQmDWkpH4Nu) | [Rain Sounds](https://open.spotify.com/album/2yyOeP6MeA53yZJNmvFrHE) | 2:25 | 2021-11-11 |  |

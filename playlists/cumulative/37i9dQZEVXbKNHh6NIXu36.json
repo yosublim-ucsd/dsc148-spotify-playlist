@@ -5653,6 +5653,24 @@
     },
     {
       "album": {
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/0RUl3Zp4QI1IaxU3bOg0Oj"
+      },
+      "artists": [
+        {
+          "name": "Monika Gajek",
+          "url": "https://open.spotify.com/artist/0K2Pu3o5gn1K5vbzZvCAMn"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150520,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/4zEUHvw6nTfVPGGJlh2UXh"
+    },
+    {
+      "album": {
         "name": "Dein Song",
         "url": "https://open.spotify.com/album/03fcHHNq4kGVLXYADaysNY"
       },
@@ -6472,6 +6490,24 @@
       "duration_ms": 164842,
       "name": "Don't Go Yet",
       "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
+    },
+    {
+      "album": {
+        "name": "Don't Let Me Go",
+        "url": "https://open.spotify.com/album/0JgVq1pP3xboLNgdxCopEH"
+      },
+      "artists": [
+        {
+          "name": "Sem Eisinger",
+          "url": "https://open.spotify.com/artist/73iRYNagrxEsjbTjE9XDoJ"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235573,
+      "name": "Don't Let Me Go",
+      "url": "https://open.spotify.com/track/6Ee0ya90Wfr7kvjiZ3HNhC"
     },
     {
       "album": {
@@ -9594,7 +9630,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 102860,
       "name": "Give It To Me - Full Vocal Mix",
       "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
@@ -10130,7 +10166,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 179140,
       "name": "Gr\u00fcne Augen l\u00fcgen nicht",
       "url": "https://open.spotify.com/track/4lptrKbbydmqa74YS0a1rt"
@@ -15340,7 +15376,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 134887,
       "name": "Mangos mit Chili",
       "url": "https://open.spotify.com/track/7AyE8MRf4dIK75mqqpks9S"
@@ -19217,6 +19253,24 @@
     },
     {
       "album": {
+        "name": "The Super Mario Bros. Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd"
+      },
+      "artists": [
+        {
+          "name": "Jack Black",
+          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95440,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
+    },
+    {
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -21034,7 +21088,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 157093,
       "name": "Roller",
       "url": "https://open.spotify.com/track/6hw1Sy9wZ8UCxYGdpKrU6M"
@@ -24496,7 +24550,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 284200,
       "name": "The Real Slim Shady",
       "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"

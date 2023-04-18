@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Marshmello, Farruko",
-  "num_followers": 56482,
+  "num_followers": 56479,
   "original_name": "Top Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "Mzc3MSw2Y2VkMzVkMDFlMWE3ZTU1ZTk3OGM4Nzg3Y2I1MjU5NDg5NWIwNWVk",
+  "snapshot_id": "Mzc3Miw1YTMzNGEyZTk1MzkzZDc4ZmRjNzhhZjFkNTEwNTdkY2I3ODczMjA5",
   "tracks": [
     {
       "added_at": "2023-04-14 00:02:14",
@@ -207,6 +207,22 @@
       "duration_ms": 206054,
       "name": "MIRAGE (feat. Ozuna, GIMS & Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/4e1U6KRJGed8gh3uRbAv3P"
+    },
+    {
+      "added_at": "2023-04-17 19:02:41",
+      "album": {
+        "name": "Desejo Imortal (It Must Have Been Love)",
+        "url": "https://open.spotify.com/album/5dJzuxTgkvdhSlgInkqMqC"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 184128,
+      "name": "Desejo Imortal (It Must Have Been Love)",
+      "url": "https://open.spotify.com/track/1L7hWEc3tVjvmbw48ShktM"
     },
     {
       "added_at": "2023-04-14 19:49:00",

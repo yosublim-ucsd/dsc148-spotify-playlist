@@ -1,12 +1,12 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 77635,
+  "num_followers": 77660,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGEwNDUwZjc1ODRhMDI4OGY3OWQzYjZhMzk4N2EzMGUz",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDBlOWNiMDNhMTNjNzZkZmRjZTM4YzI0YzQwNzVkMjll",
   "tracks": [
     {
       "added_at": "2022-08-05 04:02:00",
@@ -247,6 +247,34 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Mademoiselle in New York",
+        "url": "https://open.spotify.com/album/024Dffa0Le6qspFynJmMGU"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Lucienne Renaudin Vary",
+          "url": "https://open.spotify.com/artist/24GBjJEWkP0b1NiOTheF54"
+        },
+        {
+          "name": "Bill Elliott",
+          "url": "https://open.spotify.com/artist/3m37vbDpkiEDSUXQcJJhcZ"
+        },
+        {
+          "name": "BBC Concert Orchestra",
+          "url": "https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg"
+        }
+      ],
+      "duration_ms": 238413,
+      "name": "Porgy and Bess, Act 2: I Loves You, Porgy",
+      "url": "https://open.spotify.com/track/4LWX33zyFJYbm0NQ0QJHFi"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Steppin' Out",
         "url": "https://open.spotify.com/album/0DItsczVSy5rOaJOOIZ49F"
       },
@@ -279,34 +307,6 @@
       "duration_ms": 358640,
       "name": "How Long Has This Been Going On?",
       "url": "https://open.spotify.com/track/5axYHelFYVT2Qb5R49LMX6"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Mademoiselle in New York",
-        "url": "https://open.spotify.com/album/024Dffa0Le6qspFynJmMGU"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Lucienne Renaudin Vary",
-          "url": "https://open.spotify.com/artist/24GBjJEWkP0b1NiOTheF54"
-        },
-        {
-          "name": "Bill Elliott",
-          "url": "https://open.spotify.com/artist/3m37vbDpkiEDSUXQcJJhcZ"
-        },
-        {
-          "name": "BBC Concert Orchestra",
-          "url": "https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg"
-        }
-      ],
-      "duration_ms": 238413,
-      "name": "Porgy and Bess, Act 2: I Loves You, Porgy",
-      "url": "https://open.spotify.com/track/4LWX33zyFJYbm0NQ0QJHFi"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -375,6 +375,22 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Sarah Vaughan Sings George Gershwin",
+        "url": "https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 199387,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/3yoCcX8jaVBWXb9c8Q5nW2"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Gershwin: 6 Songs / Corea: Children's Songs",
         "url": "https://open.spotify.com/album/0mTvzUX0Uxz1wdKJlZCZr3"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 78000,
       "name": "3 Preludes : Allegro Ben Ritmato E Deciso",
       "url": "https://open.spotify.com/track/2e0YXuNYzhUb9dKpBnGmWq"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Sarah Vaughan Sings George Gershwin",
-        "url": "https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 199387,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/3yoCcX8jaVBWXb9c8Q5nW2"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -951,6 +951,26 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
+        "name": "Gershwin Take Two",
+        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Simon Tedeschi",
+          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
+        }
+      ],
+      "duration_ms": 47426,
+      "name": "I'll Build a Stairway to Paradise",
+      "url": "https://open.spotify.com/track/1PKu4cKPcE8s3yxNatioM1"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
         "name": "Gershwin - Set: Bernstein/Ozawa/Previn/Levine",
         "url": "https://open.spotify.com/album/4OCPUWvxvehvgxAv5nOJ4i"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 204920,
       "name": "3 Preludes for Piano Solo: 2. Andante con moto e poco rubato (Arr. Jascha Heifetz)",
       "url": "https://open.spotify.com/track/0SIRzB0ZuR3LTPisCFPsAp"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
-        "name": "Gershwin Take Two",
-        "url": "https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Simon Tedeschi",
-          "url": "https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6"
-        }
-      ],
-      "duration_ms": 47426,
-      "name": "I'll Build a Stairway to Paradise",
-      "url": "https://open.spotify.com/track/1PKu4cKPcE8s3yxNatioM1"
     },
     {
       "added_at": "2022-08-05 04:02:00",

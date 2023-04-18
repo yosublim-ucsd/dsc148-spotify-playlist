@@ -1,15 +1,15 @@
 {
   "description": "This is Billy Paul. The essential tracks, all in one playlist.",
-  "num_followers": 8994,
+  "num_followers": 8997,
   "original_name": "This Is Billy Paul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwMjc0MDEsMDAwMDAwMDAwZTkyYzU1NjIzNDViZjc2MzA0MDhkMTdjMGE1NTQwYw==",
+  "snapshot_id": "MjgwMjg4NjMsMDAwMDAwMDBlYzM0NDExNTEwNjMzMzI2YjBmZDI4MzkzOWQ2MjAxOA==",
   "tracks": [
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "360 Degrees of Billy Paul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "Let 'Em In",
         "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/7EIETgqBk63OdvVyIFDNKx"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "Only The Strong Survive",
         "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "War of the Gods (Expanded Edition)",
         "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/0y04zEcbrvldIwm37ditaQ"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "360 Degrees of Billy Paul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/5TUs6T93fNFvgQov6MlYkP"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "Let 'Em In",
         "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
@@ -100,12 +100,12 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 196746,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/67YNqbykfHQb8ZyMfnHE2J"
+      "duration_ms": 247693,
+      "name": "How Good Is Your Game",
+      "url": "https://open.spotify.com/track/22sOzufAavitHhMx12ZVrn"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/2p1SZrBaJS6yHK0OdPfo1x"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "Chico & The Gypsies & International Friends",
         "url": "https://open.spotify.com/album/1j0sRFAO5QDtqAMVFOptn7"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/3An00Ze0w1MugizM3HGYtr"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "360 Degrees of Billy Paul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/7MJgHOKfiffKRPLQTSLlgo"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "Let 'Em In",
         "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
@@ -168,12 +168,12 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 247693,
-      "name": "How Good Is Your Game",
-      "url": "https://open.spotify.com/track/22sOzufAavitHhMx12ZVrn"
+      "duration_ms": 196746,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/67YNqbykfHQb8ZyMfnHE2J"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "When Love Is New",
         "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/2nUdP86O3XTrrsz4KItvQV"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/4GDKs7Uu9meQvHzXQNWLd1"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "360 Degrees of Billy Paul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
@@ -221,39 +221,7 @@
       "url": "https://open.spotify.com/track/5ByN27Jq2LtQIUBpgPybgP"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
-      "album": {
-        "name": "Got My Head On Straight",
-        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 329106,
-      "name": "July, July, July, July",
-      "url": "https://open.spotify.com/track/2SHMTYTsis20SNBwH6kxSA"
-    },
-    {
-      "added_at": "2023-04-16 11:21:28",
-      "album": {
-        "name": "When Love Is New",
-        "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 298800,
-      "name": "Let the Dollar Circulate",
-      "url": "https://open.spotify.com/track/3ihmJ6AKx2BC6vWhx25eaH"
-    },
-    {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "Chim\u00e8ne Badi Gospel & Soul",
         "url": "https://open.spotify.com/album/5syCQKGjZSUZDhRXrDg4cp"
@@ -273,7 +241,39 @@
       "url": "https://open.spotify.com/track/1w4EmsaSRG53afdB1LLYPj"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
+      "album": {
+        "name": "When Love Is New",
+        "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 298800,
+      "name": "Let the Dollar Circulate",
+      "url": "https://open.spotify.com/track/3ihmJ6AKx2BC6vWhx25eaH"
+    },
+    {
+      "added_at": "2023-04-17 11:43:22",
+      "album": {
+        "name": "Got My Head On Straight",
+        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 329106,
+      "name": "July, July, July, July",
+      "url": "https://open.spotify.com/track/2SHMTYTsis20SNBwH6kxSA"
+    },
+    {
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "360 Degrees of Billy Paul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/3awQsj2wDfaISFX47q9fTi"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "Let 'Em In",
         "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/3tVh4RTBgccJae0eJXZdrU"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "Ebony Woman",
         "url": "https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/4jJ2YMKm2FqIvn7p85pSJY"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "War of the Gods (Expanded Edition)",
         "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/43DVOH2EmG4jX0UmUcr7W5"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "When Love Is New",
         "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/5WKZLDgbyEIgRql76MCc8Y"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "Feelin' Good at the Cadillac Club",
         "url": "https://open.spotify.com/album/5HV7hyk7LSoLaE5RU8x8eR"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/5Eoz3m5ib7RAQ6X516P7nN"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "Me and Mrs. Jones (1895 Jazz Remix)",
         "url": "https://open.spotify.com/album/3fBz6LPWXI78PIWkFt3HLs"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/6YCiG04BomoJxB2YEId4TK"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "Only The Strong Survive",
         "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
@@ -409,23 +409,7 @@
       "url": "https://open.spotify.com/track/74JWzy85piHTRoMW9d3ucE"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
-      "album": {
-        "name": "360 Degrees of Billy Paul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 262640,
-      "name": "I'm Gonna Make It This Time",
-      "url": "https://open.spotify.com/track/7ihfimLyy6cDFA2HyKrowR"
-    },
-    {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "When Love Is New",
         "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
@@ -441,7 +425,23 @@
       "url": "https://open.spotify.com/track/3UsaOSKBppxl8uzX4JiWGw"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
+      "album": {
+        "name": "360 Degrees of Billy Paul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 262640,
+      "name": "I'm Gonna Make It This Time",
+      "url": "https://open.spotify.com/track/7ihfimLyy6cDFA2HyKrowR"
+    },
+    {
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/2vU8g2haVL2jUDVfybglno"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "Sandra de S\u00e1",
         "url": "https://open.spotify.com/album/1EFJZlGXZjfQvY86kDIgBm"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/5pLsXl65StWByYN0PppUhk"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "Going East",
         "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/39CtdFoNAUQbRfzEQ3bH9k"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "Only The Strong Survive",
         "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/7ugJ3cdJ1MxBRHEKxFsHtu"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "Let 'Em In",
         "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/06w9kfTUA22jCVoiceN0gQ"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "When Love Is New",
         "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/47PQRVxpVpddcLUl62JGFh"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "First Class",
         "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
@@ -557,23 +557,7 @@
       "url": "https://open.spotify.com/track/4JRQg67LUxpcdGCXfvGIVi"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
-      "album": {
-        "name": "Only The Strong Survive",
-        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 335693,
-      "name": "Sooner Or Later",
-      "url": "https://open.spotify.com/track/6n5fj08oL2AWgRbfrflU1l"
-    },
-    {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "Got My Head On Straight",
         "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
@@ -589,7 +573,23 @@
       "url": "https://open.spotify.com/track/4Bt1bolv73Tc5K9nw8v5cN"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
+      "album": {
+        "name": "Only The Strong Survive",
+        "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 335693,
+      "name": "Sooner Or Later",
+      "url": "https://open.spotify.com/track/6n5fj08oL2AWgRbfrflU1l"
+    },
+    {
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "Going East",
         "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
@@ -605,23 +605,7 @@
       "url": "https://open.spotify.com/track/0Gp0SZlAOq6ble9MDunuMM"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
-      "album": {
-        "name": "Ebony Woman",
-        "url": "https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 232186,
-      "name": "Ebony Woman",
-      "url": "https://open.spotify.com/track/1QjYM7bjbF0fwPDJMIs8z9"
-    },
-    {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "War of the Gods (Expanded Edition)",
         "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
@@ -637,10 +621,10 @@
       "url": "https://open.spotify.com/track/23mT3ScCi2K2XnRQdVqY2P"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
+        "name": "Ebony Woman",
+        "url": "https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc"
       },
       "artists": [
         {
@@ -648,12 +632,12 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 285800,
-      "name": "I Gotta Put This Life Down",
-      "url": "https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd"
+      "duration_ms": 232186,
+      "name": "Ebony Woman",
+      "url": "https://open.spotify.com/track/1QjYM7bjbF0fwPDJMIs8z9"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "Let 'Em In",
         "url": "https://open.spotify.com/album/2nmsx6jR3zoA6aaoMvIa9L"
@@ -669,10 +653,10 @@
       "url": "https://open.spotify.com/track/7acTQ0sGLozR4ss0ipwAsi"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
-        "name": "Got My Head On Straight",
-        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
       },
       "artists": [
         {
@@ -680,12 +664,12 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 191600,
-      "name": "My Head's On Straight",
-      "url": "https://open.spotify.com/track/3bL3Q7RPzST59rgRLo7koY"
+      "duration_ms": 285800,
+      "name": "I Gotta Put This Life Down",
+      "url": "https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "War of the Gods (Expanded Edition)",
         "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
@@ -701,7 +685,23 @@
       "url": "https://open.spotify.com/track/2rgaSZcYWOvW4BJELg9inh"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
+      "album": {
+        "name": "Got My Head On Straight",
+        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "My Head's On Straight",
+      "url": "https://open.spotify.com/track/3bL3Q7RPzST59rgRLo7koY"
+    },
+    {
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "Going East",
         "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
@@ -717,23 +717,7 @@
       "url": "https://open.spotify.com/track/7czybjNI9bQw8DvdmOdH37"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
-      "album": {
-        "name": "First Class",
-        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 260866,
-      "name": "What A Way To Love",
-      "url": "https://open.spotify.com/track/5yir7jpd8N1iPyYgKO16nb"
-    },
-    {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "When Love Is New",
         "url": "https://open.spotify.com/album/2QZMUUthtwT7XuGonEbmyS"
@@ -749,7 +733,23 @@
       "url": "https://open.spotify.com/track/4smJDFiteu2hZOW9oFlCzt"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
+      "album": {
+        "name": "First Class",
+        "url": "https://open.spotify.com/album/7sSyuzNf15uhmUu8DdX168"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "What A Way To Love",
+      "url": "https://open.spotify.com/track/5yir7jpd8N1iPyYgKO16nb"
+    },
+    {
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "Only The Strong Survive",
         "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
@@ -765,7 +765,31 @@
       "url": "https://open.spotify.com/track/5ouaur1lUArHSyi9QMa58j"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
+      "album": {
+        "name": "The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes (Live In Concert)",
+        "url": "https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        },
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        },
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 302642,
+      "name": "Love Train - Live",
+      "url": "https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj"
+    },
+    {
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "Going East",
         "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
@@ -781,7 +805,7 @@
       "url": "https://open.spotify.com/track/6DNKhb6QCGppmSz1AP423W"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "People Power",
         "url": "https://open.spotify.com/album/6iymwlZyrYoH4V18jwg8HR"
@@ -801,7 +825,7 @@
       "url": "https://open.spotify.com/track/6juHCyYwxA0DrklqGnb1QU"
     },
     {
-      "added_at": "2023-04-16 11:21:28",
+      "added_at": "2023-04-17 11:43:22",
       "album": {
         "name": "Ebony Woman",
         "url": "https://open.spotify.com/album/7ynT3ZWytYl31uW2Atscdc"
@@ -815,22 +839,6 @@
       "duration_ms": 230440,
       "name": "Let's Fall In Love All Over Again",
       "url": "https://open.spotify.com/track/2uXNAf7DPYZPgizWmlacBQ"
-    },
-    {
-      "added_at": "2023-04-16 11:21:28",
-      "album": {
-        "name": "War of the Gods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 372533,
-      "name": "I See the Light",
-      "url": "https://open.spotify.com/track/3aq0mO4ZQN2VQuHDq5OUNj"
     }
   ],
   "unique_name": "This Is Billy Paul",

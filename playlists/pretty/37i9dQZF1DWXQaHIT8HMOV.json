@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1425,
+  "num_followers": 1428,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0OTM4NiwwMDAwMDAwMDA1ZDc1YTcyMTE3MGI1MjMyNGFhMzVkMWE1Mjk3NGJk",
+  "snapshot_id": "MTY4MTQ0OTM4NiwwMDAwMDAwMGRmM2JjN2FiYTE5NTg0MmQwZTMyMTIxZjkxMTdjMjdl",
   "tracks": [
     {
       "added_at": "2023-04-06 20:59:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Thank God",
-        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
-      },
-      "artists": [
-        {
-          "name": "Vinka",
-          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
-        }
-      ],
-      "duration_ms": 180172,
-      "name": "Thank God",
-      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "WATERSHED",
         "url": "https://open.spotify.com/album/2gOc1mcXCepbRTMtXlmoKJ"
       },
@@ -411,46 +395,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Baibe",
-        "url": "https://open.spotify.com/album/3pxfc2qdtKQ4FBjcvLTsMe"
-      },
-      "artists": [
-        {
-          "name": "Henry Tigan",
-          "url": "https://open.spotify.com/artist/4upZy8u9qZc5uUZ5w8Z3Eo"
-        }
-      ],
-      "duration_ms": 254850,
-      "name": "Baibe",
-      "url": "https://open.spotify.com/track/7hPUGxExv6E8o7qK4XeZnQ"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Leaving Summer",
-        "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
-      },
-      "artists": [
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        },
-        {
-          "name": "Akeine",
-          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Leaving Summer",
-      "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Part2 (Dinner in Maui)",
         "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
       },
@@ -471,6 +415,22 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
+        "name": "Thank God",
+        "url": "https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy"
+      },
+      "artists": [
+        {
+          "name": "Vinka",
+          "url": "https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES"
+        }
+      ],
+      "duration_ms": 180172,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
         "name": "Enjoyment",
         "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
       },
@@ -487,6 +447,22 @@
       "duration_ms": 193776,
       "name": "Enjoyment",
       "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Baibe",
+        "url": "https://open.spotify.com/album/3pxfc2qdtKQ4FBjcvLTsMe"
+      },
+      "artists": [
+        {
+          "name": "Henry Tigan",
+          "url": "https://open.spotify.com/artist/4upZy8u9qZc5uUZ5w8Z3Eo"
+        }
+      ],
+      "duration_ms": 254850,
+      "name": "Baibe",
+      "url": "https://open.spotify.com/track/7hPUGxExv6E8o7qK4XeZnQ"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -523,6 +499,30 @@
       "duration_ms": 175000,
       "name": "Chai Mata",
       "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Leaving Summer",
+        "url": "https://open.spotify.com/album/3WXVLlMIZOLqmPkZTJqHWT"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        },
+        {
+          "name": "Akeine",
+          "url": "https://open.spotify.com/artist/2RuHphW7LRCASStgHSFmds"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Leaving Summer",
+      "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -709,42 +709,6 @@
       "url": "https://open.spotify.com/track/5NvvaLZbvtjpzGBPxOARQd"
     },
     {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Bbuba",
-        "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
-      },
-      "artists": [
-        {
-          "name": "Maurice Kirya",
-          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
-        }
-      ],
-      "duration_ms": 204289,
-      "name": "Bbuba",
-      "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Bega Bega",
-        "url": "https://open.spotify.com/album/2K3kJ9PdnZ0FhQGiUfqQA9"
-      },
-      "artists": [
-        {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        },
-        {
-          "name": "Jose Chameleone",
-          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
-        }
-      ],
-      "duration_ms": 172016,
-      "name": "Bega Bega",
-      "url": "https://open.spotify.com/track/4ctK1RbMMolmBH24Nws6bU"
-    },
-    {
       "added_at": "2023-04-14 05:16:26",
       "album": {
         "name": "Far Away",
@@ -783,34 +747,38 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Geza Bugeza",
-        "url": "https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P"
+        "name": "Bega Bega",
+        "url": "https://open.spotify.com/album/2K3kJ9PdnZ0FhQGiUfqQA9"
       },
       "artists": [
         {
-          "name": "Nina Roz",
-          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        },
+        {
+          "name": "Jose Chameleone",
+          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
         }
       ],
-      "duration_ms": 140822,
-      "name": "Geza Bugeza",
-      "url": "https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW"
+      "duration_ms": 172016,
+      "name": "Bega Bega",
+      "url": "https://open.spotify.com/track/4ctK1RbMMolmBH24Nws6bU"
     },
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Kika Buka",
-        "url": "https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc"
+        "name": "Bbuba",
+        "url": "https://open.spotify.com/album/0OtlaMUzvSQHITLDdyEuq3"
       },
       "artists": [
         {
-          "name": "Sheebah",
-          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+          "name": "Maurice Kirya",
+          "url": "https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729"
         }
       ],
-      "duration_ms": 156961,
-      "name": "Kika Buka",
-      "url": "https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS"
+      "duration_ms": 204289,
+      "name": "Bbuba",
+      "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -827,6 +795,22 @@
       "duration_ms": 215757,
       "name": "Riri",
       "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Kika Buka",
+        "url": "https://open.spotify.com/album/4GjXFLosn6LolYRbupEkVc"
+      },
+      "artists": [
+        {
+          "name": "Sheebah",
+          "url": "https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu"
+        }
+      ],
+      "duration_ms": 156961,
+      "name": "Kika Buka",
+      "url": "https://open.spotify.com/track/1jcnzmZk4F57GiRIOiSbMS"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -855,22 +839,34 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb"
+        "name": "Geza Bugeza",
+        "url": "https://open.spotify.com/album/6rpL5Yl2Gu8H0xqPSu445P"
       },
       "artists": [
         {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
-        },
-        {
-          "name": "Latinum",
-          "url": "https://open.spotify.com/artist/4L3ta0ADfVnBdi04utLTqA"
+          "name": "Nina Roz",
+          "url": "https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh"
         }
       ],
-      "duration_ms": 201822,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6"
+      "duration_ms": 140822,
+      "name": "Geza Bugeza",
+      "url": "https://open.spotify.com/track/0KCeBr5ylT1GJzt9bu4SkW"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Boss Lady",
+        "url": "https://open.spotify.com/album/5zkrqJchuQrRlDqizwxhAf"
+      },
+      "artists": [
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 178754,
+      "name": "Boss Lady",
+      "url": "https://open.spotify.com/track/0kJQr7pKDtbwrV8n4BYTjV"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -891,18 +887,22 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Kampala",
-        "url": "https://open.spotify.com/album/2KyDqnxPYOmxrhjvopJgIG"
+        "name": "Low",
+        "url": "https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb"
       },
       "artists": [
         {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Latinum",
+          "url": "https://open.spotify.com/artist/4L3ta0ADfVnBdi04utLTqA"
         }
       ],
-      "duration_ms": 189544,
-      "name": "Kampala",
-      "url": "https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74"
+      "duration_ms": 201822,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6"
     }
   ],
   "unique_name": "Made In Uganda",

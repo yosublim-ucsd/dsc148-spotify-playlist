@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Agent",
-  "num_followers": 80556,
+  "num_followers": 80608,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ3NTI4NywwMDAwMDAwMDU0Zjg0ZDhjYjRjMGFjNWM2NGEzMTdmNDc0NTY2NzVi",
+  "snapshot_id": "MTY4MTczMzY4NywwMDAwMDAwMGU2Mjk4NzgyNGQ5MTEwYzllZmVmMzU2MGU2YTliYzQw",
   "tracks": [
     {
       "added_at": "2023-02-22 14:11:25",
@@ -23,6 +23,30 @@
       "duration_ms": 207210,
       "name": "Malli Malli (From \"Agent\")",
       "url": "https://open.spotify.com/track/2JwFf9z75lIfpLyIF7NDVU"
+    },
+    {
+      "added_at": "2023-04-17 12:14:47",
+      "album": {
+        "name": "Kalallo (From \"Virupaksha\")",
+        "url": "https://open.spotify.com/album/13x9vHOv9fKiM7vo9kGUp5"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Madhushree",
+          "url": "https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo"
+        }
+      ],
+      "duration_ms": 224130,
+      "name": "Kalallo (From \"Virupaksha\")",
+      "url": "https://open.spotify.com/track/4K21tbyME0wnR0jqGgLkyq"
     },
     {
       "added_at": "2023-04-14 12:28:07",

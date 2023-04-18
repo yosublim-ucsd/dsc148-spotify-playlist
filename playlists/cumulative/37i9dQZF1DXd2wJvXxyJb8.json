@@ -1,8 +1,34 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "ta mas e se eu largar tudo e for vender minha arte na praia e viver das coisas q a terra d\u00e1 ",
+  "description": "ta mas vcs viram q o troy seguiu a gabriela no insta/??",
   "name": "Hits da Internet",
   "tracks": [
+    {
+      "album": {
+        "name": "* da Anitta",
+        "url": "https://open.spotify.com/album/5vrDahFF5TU32GwPMxP4SC"
+      },
+      "artists": [
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140100,
+      "name": "* da Anitta",
+      "url": "https://open.spotify.com/track/0VhG6qzFZo9JrHu56Wq7gh"
+    },
     {
       "album": {
         "name": "Pode Cr\u00ea (Ao Vivo)",
@@ -212,7 +238,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 176360,
       "name": "Agudo M\u00e1gico 3",
       "url": "https://open.spotify.com/track/6Hio4nlyWL2WBL8nYlbuGt"
@@ -3660,7 +3686,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 136615,
       "name": "O Poder Dessa Garota",
       "url": "https://open.spotify.com/track/3emWP5AGvDHFAlHlCOPiqT"
@@ -5336,6 +5362,24 @@
       "duration_ms": 123711,
       "name": "Vento Forte",
       "url": "https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39"
+    },
+    {
+      "album": {
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184038,
+      "name": "Versions of Me",
+      "url": "https://open.spotify.com/track/2nkuIfizGlr456oUbGCBmZ"
     },
     {
       "album": {

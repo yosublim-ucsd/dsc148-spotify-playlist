@@ -102,7 +102,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 283493,
       "name": "2 M\u00e9lodies h\u00e9bra\u00efques, M. A22: No. 1, Kaddisch (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/7qUSSYSvNXGehtN90lzK2x"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 294893,
       "name": "Ave Maria, Op. 52 No. 6, D. 839 (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/5VwIJShgYEzxbZGPaDx9Uk"
@@ -336,6 +336,28 @@
       },
       "artists": [
         {
+          "name": "Robert Sherman, Host",
+          "url": "https://open.spotify.com/artist/6VZIaOICmrhGRWmjjXHx6O"
+        },
+        {
+          "name": "Clara Rockmore",
+          "url": "https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73853,
+      "name": "Commentary 4",
+      "url": "https://open.spotify.com/track/2F8PJ25OokK48sNonfHwOm"
+    },
+    {
+      "album": {
+        "name": "Music In and On The Air",
+        "url": "https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1"
+      },
+      "artists": [
+        {
           "name": "Robert Sherman",
           "url": "https://open.spotify.com/artist/5f4noQpEoJy7W1Jsa6aQyR"
         },
@@ -424,7 +446,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 514733,
       "name": "Concerto for 2 Violins in D minor, BWV 1043: 2nd movement",
       "url": "https://open.spotify.com/track/0vxhF01eweNLunXafcXtP2"
@@ -782,7 +804,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 125746,
       "name": "La vie en rose (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/6ZNktqtOKZe2her0frw4H3"
@@ -1000,7 +1022,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 167253,
       "name": "Porgy and Bess, Act I Scene 1: Summertime (Arr. for Theremin & Piano)",
       "url": "https://open.spotify.com/track/0jioCLgkOZzXhb5yYgdfpL"
@@ -1078,7 +1100,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 537293,
       "name": "Sonata for violin and piano: Allegro",
       "url": "https://open.spotify.com/track/2JU9CepLNuxp0Agyyp3fFr"
@@ -1524,7 +1546,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-21",
+      "date_removed": null,
       "duration_ms": 439640,
       "name": "WNYC Radio Broadcast, September 12, 1995",
       "url": "https://open.spotify.com/track/5syGA1YsxaZ21ypwfKygOZ"

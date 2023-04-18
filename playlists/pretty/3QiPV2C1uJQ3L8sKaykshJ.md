@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3QiPV2C1uJQ3L8sKaykshJ.md) - [plain]
 
 > Listen to A\-List tracks from the women of RCA Records featuring music from SZA, Latto, Fousheé, Elle King, and more\. Cover: SZA
 
-[RCA Records](https://open.spotify.com/user/rcarecords) - 14,230 likes - 52 songs - 2 hr 50 min
+[RCA Records](https://open.spotify.com/user/rcarecords) - 14,228 likes - 52 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

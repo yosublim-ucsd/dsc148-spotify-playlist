@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-292 songs - 21 hr 15 min
+293 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Forever Promises](https://open.spotify.com/track/4a1J9yup472zZW604BHbha) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:13 | 2022-11-17 |  |
 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 | 2022-11-11 |  |
 | [From Birth](https://open.spotify.com/track/36UStFErscz4HacHTR6I04) | [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7) | [Cartography](https://open.spotify.com/album/5wuEblqsUnqUQQgTbcVpjP) | 2:44 | 2021-12-17 | 2022-11-11 |
+| [From My Perspective](https://open.spotify.com/track/0aYO1PA22QmRVz7mYXAiUT) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [From My Perspective](https://open.spotify.com/album/6CY77pDMz6tioKGrK6aGaz) | 4:02 | 2023-04-14 |  |
 | [From Now On](https://open.spotify.com/track/53roJ5AgOGeWt7f0sjKpXW) | [Emil Brandqvist](https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8), [Emil Brandqvist Trio](https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG) | [Entering the Woods](https://open.spotify.com/album/7HV0aIXTJHdYpJWLgyBynP) | 3:41 | 2022-05-25 | 2022-09-15 |
 | [Ghost Song \#6](https://open.spotify.com/track/72PmD0iDjTNM9seYDN87Av) | [Paul Jarret](https://open.spotify.com/artist/3UZbyz0QMCgygRaBh7dEEa), [Jim Black](https://open.spotify.com/artist/6kqqAVzvnHV9B3xHGkHxA4) | [Ghost Song \#6](https://open.spotify.com/album/69GnQv4bJpxL2yWfBQ93X2) | 2:25 | 2021-12-17 | 2022-11-11 |
 | [Glimmer Of Hope](https://open.spotify.com/track/5CLc13Ktc8gDsDihuAqFzM) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL), [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Arctic Riff](https://open.spotify.com/album/019T87LVzoR6yBR8pYahZr) | 8:33 | 2022-05-25 | 2022-12-20 |
@@ -157,7 +158,7 @@
 | [Merry Monday](https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0) | [Lennie Weston](https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ) | [Merry Monday](https://open.spotify.com/album/4jE1tDbdj3RgvlxGGiT72y) | 3:10 | 2022-12-01 |  |
 | [Midnight](https://open.spotify.com/track/3C39yMMp5FZC7Dvk10KFrA) | [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Martin Höper](https://open.spotify.com/artist/1in1rh9jX09HI8VSThaIeg), [Ola Winkler](https://open.spotify.com/artist/2G1GN2b3u7Fh607yHsFOCb) | [Underworld](https://open.spotify.com/album/5wBPrHUc1HAt0JJhidr6Ke) | 4:18 | 2022-05-25 | 2022-10-08 |
 | [Midnight Fairytale](https://open.spotify.com/track/7cZxQ0m9bK0TLsaUD2UoQd) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Midnight Fairytale](https://open.spotify.com/album/3buXxoeXLMcwS9LQbzRGev) | 2:09 | 2023-02-02 |  |
-| [Min Bästa Vän](https://open.spotify.com/track/0p4ZHM5q7ypXxSyTV9ipIS) | [Bergsundet](https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA) | [Min Bästa Vän](https://open.spotify.com/album/70wVe8UmVPg6b2mm0rzqSw) | 3:34 | 2022-12-01 |  |
+| [Min Bästa Vän](https://open.spotify.com/track/0p4ZHM5q7ypXxSyTV9ipIS) | [Bergsundet](https://open.spotify.com/artist/6kCbD1qX1VTDw8BV8r4hCA) | [Min Bästa Vän](https://open.spotify.com/album/70wVe8UmVPg6b2mm0rzqSw) | 3:34 | 2022-12-01 | 2023-04-18 |
 | [Moonpie](https://open.spotify.com/track/3YlJpTObKekXnRKgK9v7j0) | [Food](https://open.spotify.com/artist/5UH0MJYNrZoaqu9P0A3SII) | [Mercurial Balm](https://open.spotify.com/album/3cf5MLkn2rHxN7LFSHaMFW) | 4:33 | 2021-12-17 | 2022-02-18 |
 | [Morning Moon](https://open.spotify.com/track/4b1cZXkFtOdpZnyU0GfZWm) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [Morning Moon](https://open.spotify.com/album/3n781Nd8Ff9001PJNWTuUq) | 5:52 | 2022-03-03 | 2022-11-13 |
 | [Morning Song](https://open.spotify.com/track/29GCaqKf8MDuv6FPeLYD6W) | [Jakob Bro](https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Uma Elmo](https://open.spotify.com/album/2YxlIAhEn3nFJUYaI5R8ts) | 6:55 | 2021-12-17 | 2022-12-04 |

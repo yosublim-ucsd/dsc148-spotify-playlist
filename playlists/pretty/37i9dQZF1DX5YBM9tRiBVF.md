@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YBM9tRiBVF.md) - [plain]
 
 > Listen to women at full volume!  On the cover this month: <a href="spotify:artist:69LIgTfuoQOAiE5wbqkMci">Isolde Lasoen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,906 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,909 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

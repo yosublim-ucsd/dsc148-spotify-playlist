@@ -1,12 +1,12 @@
 {
   "description": "Where music and emotions meet. Cover: <a href=\"spotify:artist:7Ddov9nbJDbpgzvBVb7cU1\">George Wassouf</a>",
-  "num_followers": 58782,
+  "num_followers": 58814,
   "original_name": "Tarab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzA3ODk3NywwMDAwMDAwMDYxNjExNzU2ZTNhNDNjYjMwMDYyZmE0YjhkNjE3YTM0",
+  "snapshot_id": "MTY2MzA3ODk3NywwMDAwMDAwMGIzOGZiODRiZDBkY2IwMjg2YzcwODIwMTA0N2Q0NmQ1",
   "tracks": [
     {
       "added_at": "2022-09-13 14:22:57",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Maliket Gamal El Rouh",
-        "url": "https://open.spotify.com/album/4bzpxq9uHStQAUOJiFEuuR"
-      },
-      "artists": [
-        {
-          "name": "George Wassouf",
-          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
-        }
-      ],
-      "duration_ms": 227869,
-      "name": "Maliket Gamal El Rouh",
-      "url": "https://open.spotify.com/track/0g8dUzQS5hkB2FxmZA4CCv"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
         "name": "Ya Habibi Dawwabni L'hawa",
         "url": "https://open.spotify.com/album/5rX52aUXojBQb3xSdwYTvH"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 1185163,
       "name": "El Hop Elly Kan",
       "url": "https://open.spotify.com/track/0qiH7V7xzBu2zTYuAmHeu7"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Maliket Gamal El Rouh",
+        "url": "https://open.spotify.com/album/4bzpxq9uHStQAUOJiFEuuR"
+      },
+      "artists": [
+        {
+          "name": "George Wassouf",
+          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
+        }
+      ],
+      "duration_ms": 227869,
+      "name": "Maliket Gamal El Rouh",
+      "url": "https://open.spotify.com/track/0g8dUzQS5hkB2FxmZA4CCv"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Hal El Garih",
-        "url": "https://open.spotify.com/album/1s5pAmaM9QksqPBfzHSqYi"
-      },
-      "artists": [
-        {
-          "name": "George Wassouf",
-          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
-        }
-      ],
-      "duration_ms": 201598,
-      "name": "Hal El Garih",
-      "url": "https://open.spotify.com/track/4YC6vKHLH5fYEQEiEQQWD6"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
         "name": "Badak Maleoun Seneh",
         "url": "https://open.spotify.com/album/3eKEfWOZfH5PcwMFvSW7Va"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 954506,
       "name": "Ala Babee Waqef Qamaren",
       "url": "https://open.spotify.com/track/5AmP3h3zhDQcte3kz4z2Ts"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Hal El Garih",
+        "url": "https://open.spotify.com/album/1s5pAmaM9QksqPBfzHSqYi"
+      },
+      "artists": [
+        {
+          "name": "George Wassouf",
+          "url": "https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1"
+        }
+      ],
+      "duration_ms": 201598,
+      "name": "Hal El Garih",
+      "url": "https://open.spotify.com/track/4YC6vKHLH5fYEQEiEQQWD6"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Ya Sidi",
-        "url": "https://open.spotify.com/album/5K6ayvq7O2N0kD4coQDCYv"
-      },
-      "artists": [
-        {
-          "name": "Tarabband",
-          "url": "https://open.spotify.com/artist/7HMpq7BBo9dLKr1z961pRA"
-        }
-      ],
-      "duration_ms": 277080,
-      "name": "Baghdad Choby",
-      "url": "https://open.spotify.com/track/1EVvdFSELehGqjvNYgScjF"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
         "name": "Ossit Helem",
         "url": "https://open.spotify.com/album/6hplNUsuDBfX4u31Ohi0FH"
       },
@@ -399,66 +383,18 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Master of Andalusian Folklore: Traditional Syrian Songs",
-        "url": "https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN"
+        "name": "Ya Sidi",
+        "url": "https://open.spotify.com/album/5K6ayvq7O2N0kD4coQDCYv"
       },
       "artists": [
         {
-          "name": "Sabah Fakhri",
-          "url": "https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg"
+          "name": "Tarabband",
+          "url": "https://open.spotify.com/artist/7HMpq7BBo9dLKr1z961pRA"
         }
       ],
-      "duration_ms": 666840,
-      "name": "Alloulou al-Mamdood / Loulou Bi Loulou",
-      "url": "https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "Nesseit El Noum",
-        "url": "https://open.spotify.com/album/16jh51MRSnPk4OWxnHZ688"
-      },
-      "artists": [
-        {
-          "name": "Rida",
-          "url": "https://open.spotify.com/artist/2fDV7WMHe1Wj7FZ8rVfnwp"
-        }
-      ],
-      "duration_ms": 290613,
-      "name": "Nesseit El Noum",
-      "url": "https://open.spotify.com/track/150RdQBL2CroFPlEEXXMtg"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "Ma Tehun",
-        "url": "https://open.spotify.com/album/6pwEsH49iokQcVGX5GlMXf"
-      },
-      "artists": [
-        {
-          "name": "Yara",
-          "url": "https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e"
-        }
-      ],
-      "duration_ms": 297500,
-      "name": "Ma Tehun",
-      "url": "https://open.spotify.com/track/1OcQAcusS56avDzLEhSetL"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "El Zakah",
-        "url": "https://open.spotify.com/album/7qHio96eRUQ6lwWKH44QFc"
-      },
-      "artists": [
-        {
-          "name": "Latifa",
-          "url": "https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe"
-        }
-      ],
-      "duration_ms": 119318,
-      "name": "El Zakah",
-      "url": "https://open.spotify.com/track/5BPiU4eojxCA9PHLRi8x4t"
+      "duration_ms": 277080,
+      "name": "Baghdad Choby",
+      "url": "https://open.spotify.com/track/1EVvdFSELehGqjvNYgScjF"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -479,6 +415,70 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
+        "name": "Master of Andalusian Folklore: Traditional Syrian Songs",
+        "url": "https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN"
+      },
+      "artists": [
+        {
+          "name": "Sabah Fakhri",
+          "url": "https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg"
+        }
+      ],
+      "duration_ms": 666840,
+      "name": "Alloulou al-Mamdood / Loulou Bi Loulou",
+      "url": "https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Ma Tehun",
+        "url": "https://open.spotify.com/album/6pwEsH49iokQcVGX5GlMXf"
+      },
+      "artists": [
+        {
+          "name": "Yara",
+          "url": "https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e"
+        }
+      ],
+      "duration_ms": 297500,
+      "name": "Ma Tehun",
+      "url": "https://open.spotify.com/track/1OcQAcusS56avDzLEhSetL"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Nesseit El Noum",
+        "url": "https://open.spotify.com/album/16jh51MRSnPk4OWxnHZ688"
+      },
+      "artists": [
+        {
+          "name": "Rida",
+          "url": "https://open.spotify.com/artist/2fDV7WMHe1Wj7FZ8rVfnwp"
+        }
+      ],
+      "duration_ms": 290613,
+      "name": "Nesseit El Noum",
+      "url": "https://open.spotify.com/track/150RdQBL2CroFPlEEXXMtg"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "El Zakah",
+        "url": "https://open.spotify.com/album/7qHio96eRUQ6lwWKH44QFc"
+      },
+      "artists": [
+        {
+          "name": "Latifa",
+          "url": "https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe"
+        }
+      ],
+      "duration_ms": 119318,
+      "name": "El Zakah",
+      "url": "https://open.spotify.com/track/5BPiU4eojxCA9PHLRi8x4t"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
         "name": "Sultan's of Al Tarab, Vol. 4",
         "url": "https://open.spotify.com/album/6oHJk3MZboCBJzqHsOZe65"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 135506,
       "name": "Ala El Aadid Ijtamaana",
       "url": "https://open.spotify.com/track/7FkTCLunm1yMQuRDsfJtcH"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
+      },
+      "artists": [
+        {
+          "name": "Nour Mehanna",
+          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
+        }
+      ],
+      "duration_ms": 449226,
+      "name": "Ibaati Gawab",
+      "url": "https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -555,22 +571,6 @@
       "duration_ms": 314232,
       "name": "Helwit El Helwat",
       "url": "https://open.spotify.com/track/140SsIEUuQkdJl5nMe6OuY"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
-      },
-      "artists": [
-        {
-          "name": "Nour Mehanna",
-          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
-        }
-      ],
-      "duration_ms": 449226,
-      "name": "Ibaati Gawab",
-      "url": "https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR"
     },
     {
       "added_at": "2022-09-13 14:22:57",

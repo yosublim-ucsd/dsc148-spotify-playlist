@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists. (Cover: Red Velvet, aespa)",
-  "num_followers": 98099,
+  "num_followers": 98082,
   "original_name": "Christmas K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzM2NDI1MywwMDAwMDAwMDdkNDNiMTM1MWJhNTY4NTA4NTM3ODExMWMxZWFjNWU1",
+  "snapshot_id": "MTY3MzM2NDI1MywwMDAwMDAwMDFlZjczMzA3MWNiM2JhMjYyZmQxYzkxOGJjYjQ4NmE1",
   "tracks": [
     {
       "added_at": "2023-01-10 15:24:13",
@@ -379,6 +379,30 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
+        "name": "SHOW ME THE MONEY 11 Final",
+        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 236524,
+      "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
         "name": "When it snows(Feat.Heize)",
         "url": "https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK"
       },
@@ -435,26 +459,18 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Final",
-        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+        "name": "MAD Winter Edition",
+        "url": "https://open.spotify.com/album/3D4sDxSTwqNnsyYlI3ueb4"
       },
       "artists": [
         {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
         }
       ],
-      "duration_ms": 236524,
-      "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
+      "duration_ms": 212836,
+      "name": "\uace0\ubc31\uc1a1 Confession Song",
+      "url": "https://open.spotify.com/track/0Lw61bzbNQz9Nkw4uRlx4F"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -487,22 +503,6 @@
       "duration_ms": 213314,
       "name": "Dynamite - Holiday Remix",
       "url": "https://open.spotify.com/track/71g5YNZv9ysuAZVPuxOmiC"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
-        "name": "MAD Winter Edition",
-        "url": "https://open.spotify.com/album/3D4sDxSTwqNnsyYlI3ueb4"
-      },
-      "artists": [
-        {
-          "name": "GOT7",
-          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
-        }
-      ],
-      "duration_ms": 212836,
-      "name": "\uace0\ubc31\uc1a1 Confession Song",
-      "url": "https://open.spotify.com/track/0Lw61bzbNQz9Nkw4uRlx4F"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "THE BOYZ Special Single [Candles]",
-        "url": "https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun"
-      },
-      "artists": [
-        {
-          "name": "THE BOYZ",
-          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Candles",
-      "url": "https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "Maybe Christmas (Orchestra Version)",
         "url": "https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 165693,
       "name": "merry merry",
       "url": "https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "THE BOYZ Special Single [Candles]",
+        "url": "https://open.spotify.com/album/0kIrSdkjAIqiQ8yhXyrtun"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/5vT3UDjwJt87muaqyLW13W"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "This Christmas \u2013 Winter is Coming",
-        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 259339,
-      "name": "Christmas without You",
-      "url": "https://open.spotify.com/track/617cDTzVRFEwYPzi3FKaXT"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "The Winter's Tale",
         "url": "https://open.spotify.com/album/1WrPy47aE3pCJvrHYjJ33v"
       },
@@ -915,6 +899,22 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
+        "name": "This Christmas \u2013 Winter is Coming",
+        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 259339,
+      "name": "Christmas without You",
+      "url": "https://open.spotify.com/track/617cDTzVRFEwYPzi3FKaXT"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
         "name": "My Favorite Winter",
         "url": "https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp"
       },
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "My Winter Trip",
-        "url": "https://open.spotify.com/album/4VVH0BD7z9Cs4iORPbZ2Ci"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 251617,
-      "name": "My Winter Trip",
-      "url": "https://open.spotify.com/track/1SDRgU2C81CcOhaOvTOBCk"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "When It Snows mmm (feat. Wheein)",
         "url": "https://open.spotify.com/album/5z8FBqt7BCXR6MB5fzy7L3"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "This Christmas \u2013 Winter is Coming",
-        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
+        "name": "My Winter Trip",
+        "url": "https://open.spotify.com/album/4VVH0BD7z9Cs4iORPbZ2Ci"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
         }
       ],
-      "duration_ms": 167456,
-      "name": "The Magic of Christmas Time",
-      "url": "https://open.spotify.com/track/35OjjtMHKnPdOAsEZ6M9OA"
+      "duration_ms": 251617,
+      "name": "My Winter Trip",
+      "url": "https://open.spotify.com/track/1SDRgU2C81CcOhaOvTOBCk"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1099,22 +1083,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "This Christmas \u2013 Winter is Coming",
-        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 204554,
-      "name": "Candy Cane",
-      "url": "https://open.spotify.com/track/1SO3jE0lOysjtylF6y3FWt"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "Have Yourself A Merry Little Christmas - SM STATION",
         "url": "https://open.spotify.com/album/3bxhc60UWLrymlDVA21vy2"
       },
@@ -1135,6 +1103,22 @@
       "duration_ms": 291040,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/6SmFhQAavuPzBm3OUH1Kzs"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "This Christmas \u2013 Winter is Coming",
+        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 167456,
+      "name": "The Magic of Christmas Time",
+      "url": "https://open.spotify.com/track/35OjjtMHKnPdOAsEZ6M9OA"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1239,6 +1223,22 @@
       "duration_ms": 204906,
       "name": "5 Christmas Languages",
       "url": "https://open.spotify.com/track/5wy21ZeTCwveMpA5cktc7S"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "This Christmas \u2013 Winter is Coming",
+        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 204554,
+      "name": "Candy Cane",
+      "url": "https://open.spotify.com/track/1SO3jE0lOysjtylF6y3FWt"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
+        "name": "Will You Be My Home",
+        "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
+      },
+      "artists": [
+        {
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
+        }
+      ],
+      "duration_ms": 210653,
+      "name": "Will You Be My Home",
+      "url": "https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
         "name": "This Christmas - Single",
         "url": "https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 225488,
       "name": "Because It's Christmas",
       "url": "https://open.spotify.com/track/4hqJ7ikAK2dXTeptTi58Di"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
-        "name": "Will You Be My Home",
-        "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
-      },
-      "artists": [
-        {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
-          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
-        }
-      ],
-      "duration_ms": 210653,
-      "name": "Will You Be My Home",
-      "url": "https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "One More Christmas",
-        "url": "https://open.spotify.com/album/3lPMJJ43ldTBxyH7chPGsp"
-      },
-      "artists": [
-        {
-          "name": "Jessica",
-          "url": "https://open.spotify.com/artist/7jPVuaaHLs4QVSuN561jZt"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "One More Christmas - English Version",
-      "url": "https://open.spotify.com/track/4WZLM2PrAUoGdPkQajUBkC"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
         "name": "Movie Winter",
         "url": "https://open.spotify.com/album/34q66uq3KaL6CTlqDmTvyc"
       },
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "Sweater (Orchestral Version)",
-        "url": "https://open.spotify.com/album/3ito8Q4onJ9uQFAR3omfWb"
+        "name": "One More Christmas",
+        "url": "https://open.spotify.com/album/3lPMJJ43ldTBxyH7chPGsp"
       },
       "artists": [
         {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+          "name": "Jessica",
+          "url": "https://open.spotify.com/artist/7jPVuaaHLs4QVSuN561jZt"
         }
       ],
-      "duration_ms": 237161,
-      "name": "Sweater - Orchestral Version",
-      "url": "https://open.spotify.com/track/04qZBrSALT0FSxG42XLexl"
+      "duration_ms": 212893,
+      "name": "One More Christmas - English Version",
+      "url": "https://open.spotify.com/track/4WZLM2PrAUoGdPkQajUBkC"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1647,6 +1631,22 @@
       "duration_ms": 230161,
       "name": "It's Christmas time",
       "url": "https://open.spotify.com/track/180YObDi8MLn7mIOXhY5HK"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "Sweater (Orchestral Version)",
+        "url": "https://open.spotify.com/album/3ito8Q4onJ9uQFAR3omfWb"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 237161,
+      "name": "Sweater - Orchestral Version",
+      "url": "https://open.spotify.com/track/04qZBrSALT0FSxG42XLexl"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "APRIL 3rd Mini Album 'Prelude'",
-        "url": "https://open.spotify.com/album/5NROq4sawLKjGwuiZydaqh"
+        "name": "DAILY",
+        "url": "https://open.spotify.com/album/2xizHLpgVU5Rew3RtSEh2f"
       },
       "artists": [
         {
-          "name": "APRIL",
-          "url": "https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa"
+          "name": "Who R U?",
+          "url": "https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK"
         }
       ],
-      "duration_ms": 185354,
-      "name": "Snowman (Special Ver.)",
-      "url": "https://open.spotify.com/track/5OcyTnnsLDY3TVDJJ73RAY"
+      "duration_ms": 143977,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/1969eDqAJwlhdu4ChKLgqG"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1743,38 +1743,18 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "DAILY",
-        "url": "https://open.spotify.com/album/2xizHLpgVU5Rew3RtSEh2f"
+        "name": "APRIL 3rd Mini Album 'Prelude'",
+        "url": "https://open.spotify.com/album/5NROq4sawLKjGwuiZydaqh"
       },
       "artists": [
         {
-          "name": "Who R U?",
-          "url": "https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK"
+          "name": "APRIL",
+          "url": "https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa"
         }
       ],
-      "duration_ms": 143977,
-      "name": "Good Night",
-      "url": "https://open.spotify.com/track/1969eDqAJwlhdu4ChKLgqG"
-    },
-    {
-      "added_at": "2023-01-10 15:24:13",
-      "album": {
-        "name": "Be Your Christmas",
-        "url": "https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV"
-      },
-      "artists": [
-        {
-          "name": "Sweden Laundry",
-          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
-        },
-        {
-          "name": "Vanilla Acoustic",
-          "url": "https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG"
-        }
-      ],
-      "duration_ms": 158880,
-      "name": "Snowball (feat. Vanilla Acoustic)",
-      "url": "https://open.spotify.com/track/6ATxvOBCZYRLXh318dD59I"
+      "duration_ms": 185354,
+      "name": "Snowman (Special Ver.)",
+      "url": "https://open.spotify.com/track/5OcyTnnsLDY3TVDJJ73RAY"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1803,18 +1783,22 @@
     {
       "added_at": "2023-01-10 15:24:13",
       "album": {
-        "name": "Christmas in July",
-        "url": "https://open.spotify.com/album/0euAPwcmvqbw78ptNqYxN2"
+        "name": "Be Your Christmas",
+        "url": "https://open.spotify.com/album/7sQNIBp1U1SrbjcDSKe5IV"
       },
       "artists": [
         {
-          "name": "KANGTA",
-          "url": "https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG"
+          "name": "Sweden Laundry",
+          "url": "https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp"
+        },
+        {
+          "name": "Vanilla Acoustic",
+          "url": "https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG"
         }
       ],
-      "duration_ms": 239653,
-      "name": "Christmas in July",
-      "url": "https://open.spotify.com/track/1XbMklm5bn9DRpRyvePwow"
+      "duration_ms": 158880,
+      "name": "Snowball (feat. Vanilla Acoustic)",
+      "url": "https://open.spotify.com/track/6ATxvOBCZYRLXh318dD59I"
     },
     {
       "added_at": "2023-01-10 15:24:13",
@@ -1831,6 +1815,22 @@
       "duration_ms": 289384,
       "name": "MY GROWN UP CHRISTMAS LIST",
       "url": "https://open.spotify.com/track/2ONdR1GlPowCViNz74KE7h"
+    },
+    {
+      "added_at": "2023-01-10 15:24:13",
+      "album": {
+        "name": "Christmas in July",
+        "url": "https://open.spotify.com/album/0euAPwcmvqbw78ptNqYxN2"
+      },
+      "artists": [
+        {
+          "name": "KANGTA",
+          "url": "https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG"
+        }
+      ],
+      "duration_ms": 239653,
+      "name": "Christmas in July",
+      "url": "https://open.spotify.com/track/1XbMklm5bn9DRpRyvePwow"
     },
     {
       "added_at": "2023-01-10 15:24:13",

@@ -1,12 +1,12 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: <a href=\"spotify:artist:18RkLKfeoUgZflWv9os25W\">Miriam Makeba</a>",
-  "num_followers": 85593,
+  "num_followers": 85661,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMDIzOTg5Y2ExYjc3ZDEzYTU0OWYzZTRlOTY1OTM3YmYz",
+  "snapshot_id": "MTU4NjI1MTE2MCwwMDAwMDAwMDc2NTcwOWU1YjI5Yjg1NjdlMGMxNGZlZTUzMzcxMmZm",
   "tracks": [
     {
       "added_at": "2019-06-28 16:54:51",
@@ -109,22 +109,6 @@
       "url": "https://open.spotify.com/track/7L5FEYVfpIEGHJOv6gZ6EW"
     },
     {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
-        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
-      },
-      "artists": [
-        {
-          "name": "William Onyeabor",
-          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
-        }
-      ],
-      "duration_ms": 386160,
-      "name": "Fantastic Man",
-      "url": "https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm"
-    },
-    {
       "added_at": "2020-04-07 09:19:20",
       "album": {
         "name": "Third World Child",
@@ -143,6 +127,42 @@
       "duration_ms": 291000,
       "name": "Asimbonanga (Mandela)",
       "url": "https://open.spotify.com/track/25u53mEJMoUkHcBWYavOVT"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
+        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
+      },
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+        }
+      ],
+      "duration_ms": 386160,
+      "name": "Fantastic Man",
+      "url": "https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        },
+        {
+          "name": "Afrika 70",
+          "url": "https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV"
+        }
+      ],
+      "duration_ms": 745653,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -175,26 +195,6 @@
       "duration_ms": 373333,
       "name": "Greetings",
       "url": "https://open.spotify.com/track/03P5b745wtD0qS5IdNtrh9"
-    },
-    {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        },
-        {
-          "name": "Afrika 70",
-          "url": "https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV"
-        }
-      ],
-      "duration_ms": 745653,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
     },
     {
       "added_at": "2020-04-07 09:19:20",
@@ -393,22 +393,6 @@
       "url": "https://open.spotify.com/track/7Mi1P2r04F6iyOzrB3IOlR"
     },
     {
-      "added_at": "2019-06-28 16:54:51",
-      "album": {
-        "name": "Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973-77",
-        "url": "https://open.spotify.com/album/7bmfQqqmSOdIzdIW3Ye8F3"
-      },
-      "artists": [
-        {
-          "name": "The Funkees",
-          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
-        }
-      ],
-      "duration_ms": 448914,
-      "name": "Akula Owu Onyeara",
-      "url": "https://open.spotify.com/track/0X7mNbVv1YYJ8SrAk4AsiT"
-    },
-    {
       "added_at": "2020-04-07 09:19:20",
       "album": {
         "name": "Guz Hits",
@@ -423,6 +407,22 @@
       "duration_ms": 332720,
       "name": "Dlala Mapantsula",
       "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
+    },
+    {
+      "added_at": "2019-06-28 16:54:51",
+      "album": {
+        "name": "Dancing Time: The Best of Eastern Nigeria's Afro Rock Exponents 1973-77",
+        "url": "https://open.spotify.com/album/7bmfQqqmSOdIzdIW3Ye8F3"
+      },
+      "artists": [
+        {
+          "name": "The Funkees",
+          "url": "https://open.spotify.com/artist/6dqBherxR2n5xMfqAI0L2J"
+        }
+      ],
+      "duration_ms": 448914,
+      "name": "Akula Owu Onyeara",
+      "url": "https://open.spotify.com/track/0X7mNbVv1YYJ8SrAk4AsiT"
     },
     {
       "added_at": "2019-06-28 16:54:51",
@@ -661,20 +661,20 @@
       "url": "https://open.spotify.com/track/4ZAjQaFzbW5IbJJsjfCJJ4"
     },
     {
-      "added_at": "2020-04-07 09:19:20",
+      "added_at": "2019-06-28 16:54:51",
       "album": {
-        "name": "Weekend Special (USA Remixes)",
-        "url": "https://open.spotify.com/album/5npwhnt8Jnv7KQgHqR6OJv"
+        "name": "Ivory Music Classics, Vol. 2",
+        "url": "https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ"
       },
       "artists": [
         {
-          "name": "Brenda & The Big Dudes",
-          "url": "https://open.spotify.com/artist/3PGhsvfwxsjXsQw2swnopZ"
+          "name": "Dizzy K Falola",
+          "url": "https://open.spotify.com/artist/4QebwA96fgRFgzeXzx9dmj"
         }
       ],
-      "duration_ms": 288109,
-      "name": "Weekend Special (with Brenda Fassie) - USA Remix",
-      "url": "https://open.spotify.com/track/3Uy4yCyO4Yfc9JfifokpJG"
+      "duration_ms": 265573,
+      "name": "Baby Kilode",
+      "url": "https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu"
     }
   ],
   "unique_name": "Classic Afropop",

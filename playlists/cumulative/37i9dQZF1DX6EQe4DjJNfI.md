@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Amanda Magalhães, Dj Nyack
 
-111 songs - 5 hr 44 min
+112 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Garota Nota 100](https://open.spotify.com/track/7eA6fYJFYjGLrqpMYhRTAo) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Garota Nota 100](https://open.spotify.com/album/40x6HLtvlgqwUmp9O4mzKi) | 3:15 | 2023-01-20 | 2023-03-25 |
 | [Gosto de Você](https://open.spotify.com/track/75YFJjfgVCM46P6UUfGhDx) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [Gosto de Você](https://open.spotify.com/album/4AL19qe0DttWN5gcCxsKrw) | 2:50 | 2022-11-18 |  |
 | [incenso](https://open.spotify.com/track/1zJb71H6zt6EljSfpvI83f) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f) | [incenso](https://open.spotify.com/album/6v5HmpIOk6DhQj2D1B9A5D) | 2:23 | 2023-01-27 |  |
-| [incomum](https://open.spotify.com/track/0h6oF0wN1AWD1waKl979Jp) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [jovemCARLOS](https://open.spotify.com/album/0YAr9017bY6ojo4GGk7ijC) | 3:37 | 2023-04-07 |  |
+| [incomum](https://open.spotify.com/track/0h6oF0wN1AWD1waKl979Jp) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [jovemCARLOS](https://open.spotify.com/album/0YAr9017bY6ojo4GGk7ijC) | 3:37 | 2023-04-07 | 2023-04-18 |
 | [incomum](https://open.spotify.com/track/70zl4IbecZee4V3YubNt4J) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [incomum](https://open.spotify.com/album/2jpFAKZ13KRb8EqChWMBON) | 3:37 | 2022-11-18 | 2023-04-09 |
 | [intenção](https://open.spotify.com/track/0skj9KDlD6sFf7RB8SgWB4) | [Matheus Caettano](https://open.spotify.com/artist/7s0WoVMuWmgKszwmct3sB1), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [Vício](https://open.spotify.com/album/1Xc3wQDbAv60BjFIcUoy59) | 2:13 | 2022-11-18 |  |
 | [Intenção](https://open.spotify.com/track/40rijjvXbyX6alCMtM2r3Z) | [Wallace Lopes](https://open.spotify.com/artist/3SCWQkVBlN3uvNQoXSHCAN), [Damiana Sadili](https://open.spotify.com/artist/3hbg9yKFggp4UmquEPpgd5) | [Intenção](https://open.spotify.com/album/3GtRC63GLxKHEq2o7j95A8) | 3:19 | 2022-11-18 |  |
@@ -68,6 +68,7 @@
 | [Melhor Ficar Sozinho](https://open.spotify.com/track/4vtzVyzc2pdw5vdg5nA5bn) | [Leon](https://open.spotify.com/artist/0grtw6LqS6bemrDRJrf1zl), [RM no Beat](https://open.spotify.com/artist/0l2UV4PlNSSXoiIDgjjZ8t) | [Melhor Ficar Sozinho](https://open.spotify.com/album/191sqhnSI1Mfp0h0Hg8sZC) | 2:40 | 2022-11-18 | 2023-04-09 |
 | [Melhor Que Ontem](https://open.spotify.com/track/0TpDDNhAvukWiJL9SjEe9O) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Melhor Que Ontem](https://open.spotify.com/album/6FMd26Sy35kd9boORkrOnT) | 3:00 | 2022-11-18 |  |
 | [MENTIROSO](https://open.spotify.com/track/2pWh0qXT9466a6HwMf9I1W) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [MENTIROSO](https://open.spotify.com/album/4M1ABS74NBYnrsXMSEQIRV) | 2:47 | 2022-11-18 |  |
+| [Mergulhei](https://open.spotify.com/track/58H4xYSRZ65vvmZPEAZ91H) | [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq), [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB), [kLap](https://open.spotify.com/artist/51Qf68QZaIZsgS8C1XB5Ow), [Tapsounds](https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO) | [Mergulhei](https://open.spotify.com/album/4raO1hapwBztV4pxrNSzps) | 3:31 | 2023-04-17 |  |
 | [Meu Bem](https://open.spotify.com/track/6vqzZxu7AUW7Idg4aGBt1i) | [Fanieh](https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN) | [Meu Bem](https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h) | 3:04 | 2022-11-18 |  |
 | [Modo Avião](https://open.spotify.com/track/0WxQNvzeTDOIWi1Y3rsrHN) | [Meraki](https://open.spotify.com/artist/2y8PQh31BuCKxhKVmavWWs), [BlakkStar](https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX) | [Modo Avião](https://open.spotify.com/album/7n4cfdYDKxgjxWeHHyopGG) | 2:47 | 2022-11-18 | 2022-12-03 |
 | [Na Cama](https://open.spotify.com/track/3jBUU3sojivff7iNesTd9S) | [LEXY](https://open.spotify.com/artist/1jsbcRHlNmr4AATn3bVhOd), [Batista](https://open.spotify.com/artist/5P7LznAMG6vFpraIIoE3qp), [RZ](https://open.spotify.com/artist/5OWjhQcHTvSP9fCGeiDSaf) | [Na Cama](https://open.spotify.com/album/0NvtbyPCU9bIVdIhTh4fgo) | 3:15 | 2022-11-18 | 2023-01-14 |

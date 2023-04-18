@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:  <a href="https://open.spotify.com/artist/7JwNO91xnzO8mqTn1LYS9h?si=2e33ZQeKSQqH4E0377Z0sw"> Boijake </a>  and <a href="https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO?si=P5Cm2p4iSRWRDXWDS21hjQ"> Cina Soul </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,485 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,493 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

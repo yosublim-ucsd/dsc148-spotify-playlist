@@ -4,7 +4,7 @@
 
 > Grab your dancing shoes and strut your stuff with these upbeat blues numbers.
 
-123 songs - 7 hr 11 min
+124 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Flying High](https://open.spotify.com/track/79w4w08Q8Rn9uu9bPO3OFr) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Flying High](https://open.spotify.com/album/4JMqOQEwutakJ4kLg1eyt6) | 2:30 | 2023-01-06 | 2023-02-20 |
 | [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 | 2022-05-27 |  |
 | [From a Buick 6](https://open.spotify.com/track/1plmVWEUfEsgZz38Xpm7hP) | [The Wave Pictures](https://open.spotify.com/artist/4MOV18YgNAGUBCJi0MIrHw) | [French Cricket](https://open.spotify.com/album/0QxCkPJNB6e3oxjAENImTF) | 3:05 | 2022-11-17 | 2022-11-19 |
-| [Georgia Women](https://open.spotify.com/track/6iXthXEPC9OJi9UkOZSN2g) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Georgia Women](https://open.spotify.com/album/1Ju9SXFdTM6uvkjTdiQNAS) | 4:05 | 2022-05-27 |  |
+| [Georgia Women](https://open.spotify.com/track/6iXthXEPC9OJi9UkOZSN2g) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Georgia Women](https://open.spotify.com/album/1Ju9SXFdTM6uvkjTdiQNAS) | 4:05 | 2022-05-27 | 2023-04-18 |
 | [Get Right Before You Get Left](https://open.spotify.com/track/3C0kKoOwndJkF07oweozpz) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [The High Cost Of Low Living](https://open.spotify.com/album/0ICEUWSi4yT9BpkjR0lo6N) | 3:51 | 2021-12-20 | 2022-11-19 |
 | [Give Me Back My Wig \- Remastered](https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 3:34 | 2021-12-20 |  |
 | [Golden Girl Blues](https://open.spotify.com/track/6Zrmhv80Oc3ASwhRtjXDPF) | [Trudy Lynn](https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz) | [Golden Girl Blues](https://open.spotify.com/album/1iArO8gjyaE6y0MUW9H8QQ) | 5:07 | 2022-02-25 | 2022-11-19 |
@@ -131,5 +131,6 @@
 | [Why I Sing The Blues](https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live And Well](https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi) | 8:37 | 2021-12-20 |  |
 | [You Can't Judge A Book By Its Cover](https://open.spotify.com/track/4HEmPMRG1Mz4pYEpYbWTO0) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [The Chess Box](https://open.spotify.com/album/5cERxgxqQGUNmqEjsaz0B8) | 3:14 | 2021-12-20 |  |
 | [You Move Me So](https://open.spotify.com/track/06MLrSTAZxLhdrIpHPt2GO) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Lucille](https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s) | 2:04 | 2021-12-20 | 2022-11-19 |
+| [You're Gonna Be Sorry](https://open.spotify.com/track/4FZgwsFaXm8Xsr7SqRM1Ov) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [Bob Corritore & Friends: Women In Blues Showcase](https://open.spotify.com/album/2I4QimPw04GHkkxKzPAQis) | 2:46 | 2023-04-14 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

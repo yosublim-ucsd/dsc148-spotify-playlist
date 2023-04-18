@@ -1,12 +1,12 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 51922,
+  "num_followers": 51919,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQxNDUyOSwwMDAwMDAwMGMzODg0ZDNlM2I1NmViOGVlYzU1NTg2YWQ2ZWZjYzQz",
+  "snapshot_id": "MTY4MTQxNDUyOSwwMDAwMDAwMDU5ZmY5NTM1MDY0NDRiODdkYjE3YTZiN2Q1OTI4ZDRh",
   "tracks": [
     {
       "added_at": "2023-04-13 19:35:28",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-04-13 19:35:28",
       "album": {
+        "name": "Anclas",
+        "url": "https://open.spotify.com/album/7qaPfXArvKUdTbC2qCwIgG"
+      },
+      "artists": [
+        {
+          "name": "Gata Cattana",
+          "url": "https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo"
+        }
+      ],
+      "duration_ms": 237447,
+      "name": "Lis\u00edstrata",
+      "url": "https://open.spotify.com/track/0zU49ugNNhip8mmrleoOzQ"
+    },
+    {
+      "added_at": "2023-04-13 19:35:28",
+      "album": {
         "name": "Faroles",
         "url": "https://open.spotify.com/album/6E2eSxShTgMRZi3WKjJev0"
       },
@@ -319,22 +335,6 @@
     {
       "added_at": "2023-04-13 19:35:28",
       "album": {
-        "name": "Caminar Sola",
-        "url": "https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Caminar Sola",
-      "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
-    },
-    {
-      "added_at": "2023-04-13 19:35:28",
-      "album": {
         "name": "La Fortaleza",
         "url": "https://open.spotify.com/album/73V6n1hTD93z5VVOm8eRb9"
       },
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-04-13 19:35:28",
       "album": {
-        "name": "Anclas",
-        "url": "https://open.spotify.com/album/7qaPfXArvKUdTbC2qCwIgG"
-      },
-      "artists": [
-        {
-          "name": "Gata Cattana",
-          "url": "https://open.spotify.com/artist/4aW7Oc19mMo4LTbdomZKgo"
-        }
-      ],
-      "duration_ms": 237447,
-      "name": "Lis\u00edstrata",
-      "url": "https://open.spotify.com/track/0zU49ugNNhip8mmrleoOzQ"
-    },
-    {
-      "added_at": "2023-04-13 19:35:28",
-      "album": {
         "name": "La hija del loco",
         "url": "https://open.spotify.com/album/0Jyzj8fLiBzZc5i0jbtCfU"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 266613,
       "name": "Historika",
       "url": "https://open.spotify.com/track/11LBXStTNnMsUjMLRpurqe"
+    },
+    {
+      "added_at": "2023-04-13 19:35:28",
+      "album": {
+        "name": "Caminar Sola",
+        "url": "https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Caminar Sola",
+      "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
     },
     {
       "added_at": "2023-04-13 19:35:28",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-04-13 19:35:28",
       "album": {
-        "name": "Libres",
-        "url": "https://open.spotify.com/album/1O16JRkcbct2LxYaanL3ye"
-      },
-      "artists": [
-        {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        }
-      ],
-      "duration_ms": 221278,
-      "name": "Libres",
-      "url": "https://open.spotify.com/track/1XZ3fMlt3ajzDAPDkMqh6C"
-    },
-    {
-      "added_at": "2023-04-13 19:35:28",
-      "album": {
         "name": "Gitanas",
         "url": "https://open.spotify.com/album/2S6OhCz266448hlUEzIduB"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 190653,
       "name": "Gitanas",
       "url": "https://open.spotify.com/track/2GyKZ65PKJJ16ACMqnzC1y"
+    },
+    {
+      "added_at": "2023-04-13 19:35:28",
+      "album": {
+        "name": "Libres",
+        "url": "https://open.spotify.com/album/1O16JRkcbct2LxYaanL3ye"
+      },
+      "artists": [
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "duration_ms": 221278,
+      "name": "Libres",
+      "url": "https://open.spotify.com/track/1XZ3fMlt3ajzDAPDkMqh6C"
     },
     {
       "added_at": "2023-04-13 19:35:28",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-04-13 19:35:28",
       "album": {
-        "name": "Mujeres",
-        "url": "https://open.spotify.com/album/2umjf37Z9va9M5JSgEPR5V"
-      },
-      "artists": [
-        {
-          "name": "Banda Femenil Regional \"Mujeres del Viento Florido\"",
-          "url": "https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd"
-        }
-      ],
-      "duration_ms": 195560,
-      "name": "Mujeres",
-      "url": "https://open.spotify.com/track/34bvJEceDRCHVQDyPd7sa2"
-    },
-    {
-      "added_at": "2023-04-13 19:35:28",
-      "album": {
         "name": "Hasta Salvarnos",
         "url": "https://open.spotify.com/album/2HPbAM9jESS0gzuIkP46eZ"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 153061,
       "name": "Bruja",
       "url": "https://open.spotify.com/track/01XccHu8pc3IIdCyT6lGl4"
+    },
+    {
+      "added_at": "2023-04-13 19:35:28",
+      "album": {
+        "name": "Mujeres",
+        "url": "https://open.spotify.com/album/2umjf37Z9va9M5JSgEPR5V"
+      },
+      "artists": [
+        {
+          "name": "Banda Femenil Regional \"Mujeres del Viento Florido\"",
+          "url": "https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd"
+        }
+      ],
+      "duration_ms": 195560,
+      "name": "Mujeres",
+      "url": "https://open.spotify.com/track/34bvJEceDRCHVQDyPd7sa2"
     },
     {
       "added_at": "2023-04-13 19:35:28",

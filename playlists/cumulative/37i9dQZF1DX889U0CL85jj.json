@@ -24,7 +24,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 127000,
       "name": "12:34 AM",
       "url": "https://open.spotify.com/track/16iNVfWKKZPDjctIcd0KMn"
@@ -2184,7 +2184,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 167213,
       "name": "either side",
       "url": "https://open.spotify.com/track/5zsbL78TMgXh1vzt77h5pl"
@@ -2206,6 +2206,24 @@
       "duration_ms": 167213,
       "name": "either side",
       "url": "https://open.spotify.com/track/6ktq7bBlxFi3aPexm5N31m"
+    },
+    {
+      "album": {
+        "name": "Enjoyer",
+        "url": "https://open.spotify.com/album/5g1TtsONP7WO45t1bZYanW"
+      },
+      "artists": [
+        {
+          "name": "Teenage Priest",
+          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216949,
+      "name": "Enjoyer",
+      "url": "https://open.spotify.com/track/0WlvboUTfGNKzsszxTa9YI"
     },
     {
       "album": {
@@ -4693,6 +4711,28 @@
     },
     {
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0cjBYgnLQiYlYzVQIpkr8E"
+      },
+      "artists": [
+        {
+          "name": "Somni",
+          "url": "https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7"
+        },
+        {
+          "name": "Harris Cole",
+          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5kuCRLXQ7RTG4osKfELrUM"
+    },
+    {
+      "album": {
         "name": "Lost Cause",
         "url": "https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED"
       },
@@ -5618,6 +5658,24 @@
       "duration_ms": 261614,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/7tqLWumGlP0N0ouyj49WLk"
+    },
+    {
+      "album": {
+        "name": "ocean blues",
+        "url": "https://open.spotify.com/album/3FBQOSOwu6rri2Uh8abLhu"
+      },
+      "artists": [
+        {
+          "name": "dayaway",
+          "url": "https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183703,
+      "name": "ocean blues",
+      "url": "https://open.spotify.com/track/2BTSL4Ewagae4AmmekRYtW"
     },
     {
       "album": {
@@ -8212,7 +8270,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 253179,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/7ajvW6P91ViwSc8MsrBSP5"

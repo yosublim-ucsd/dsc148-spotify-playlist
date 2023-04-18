@@ -1,12 +1,12 @@
 {
   "description": "Raw, sentimental feels.",
-  "num_followers": 417028,
+  "num_followers": 417212,
   "original_name": "sad lofi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU4NzgwNywwMDAwMDAwMGZhMjkyOTIyMjZhOGFlMGYwMzU4MzE0MjMxZmFiNmJk",
+  "snapshot_id": "MTY3NjU4NzgwNywwMDAwMDAwMDhiMWQwNGIxZTAzYzQxNDYxZmJkM2VhODdhNzBiYTA4",
   "tracks": [
     {
       "added_at": "2023-02-16 22:50:07",
@@ -219,6 +219,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "[oops]",
+        "url": "https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy"
+      },
+      "artists": [
+        {
+          "name": "potsu",
+          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
+        }
+      ],
+      "duration_ms": 142182,
+      "name": "[oops]",
+      "url": "https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "disappear",
         "url": "https://open.spotify.com/album/3innYFypOVQEwccHtItsh6"
       },
@@ -271,22 +287,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "[oops]",
-        "url": "https://open.spotify.com/album/3YC7Yglgba2ZH3GLlK9NKy"
-      },
-      "artists": [
-        {
-          "name": "potsu",
-          "url": "https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA"
-        }
-      ],
-      "duration_ms": 142182,
-      "name": "[oops]",
-      "url": "https://open.spotify.com/track/2IhNiST8ZiY4KPcPSBzMcB"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "I Love You, That's the Problem",
         "url": "https://open.spotify.com/album/26C68ZCAfMugnKcTp3Kf9u"
       },
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
+        "name": "Penthouse",
+        "url": "https://open.spotify.com/album/0GttCWGCN1dQ5B9Yx9XPh2"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "duration_ms": 143132,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/7B31LBiu80ZPLRF9UYLsEU"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
         "name": "Elsewhere",
         "url": "https://open.spotify.com/album/1gGfFfbRfgFUdEt0moggLS"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 168974,
       "name": "Think About U (feat. Joji)",
       "url": "https://open.spotify.com/track/4yakjUoss5rjOdPWQ8mW6Q"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
-        "name": "Penthouse",
-        "url": "https://open.spotify.com/album/0GttCWGCN1dQ5B9Yx9XPh2"
-      },
-      "artists": [
-        {
-          "name": "Wun Two",
-          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
-        }
-      ],
-      "duration_ms": 143132,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/7B31LBiu80ZPLRF9UYLsEU"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -735,18 +735,22 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Distant",
-        "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
+        "name": "leaving us",
+        "url": "https://open.spotify.com/album/6byIGSY3mMn5JxSfUE1qcC"
       },
       "artists": [
         {
-          "name": "w00ds",
-          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
+          "name": "loftii",
+          "url": "https://open.spotify.com/artist/7flbszy9aVOQeWiV4MomSB"
+        },
+        {
+          "name": "kerri",
+          "url": "https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf"
         }
       ],
-      "duration_ms": 144892,
-      "name": "Distant",
-      "url": "https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0"
+      "duration_ms": 169941,
+      "name": "can't tell",
+      "url": "https://open.spotify.com/track/2vf6pbQcLYnbZfNkmZ57La"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -771,22 +775,18 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "leaving us",
-        "url": "https://open.spotify.com/album/6byIGSY3mMn5JxSfUE1qcC"
+        "name": "Distant",
+        "url": "https://open.spotify.com/album/4Hdki5EPcGWFmTr3UF6Xt8"
       },
       "artists": [
         {
-          "name": "loftii",
-          "url": "https://open.spotify.com/artist/7flbszy9aVOQeWiV4MomSB"
-        },
-        {
-          "name": "kerri",
-          "url": "https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf"
+          "name": "w00ds",
+          "url": "https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy"
         }
       ],
-      "duration_ms": 169941,
-      "name": "can't tell",
-      "url": "https://open.spotify.com/track/2vf6pbQcLYnbZfNkmZ57La"
+      "duration_ms": 144892,
+      "name": "Distant",
+      "url": "https://open.spotify.com/track/5PTpamIgmhhvqkQaYyADu0"
     },
     {
       "added_at": "2023-02-16 22:50:07",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-02-16 22:50:07",
       "album": {
-        "name": "Good Grief",
-        "url": "https://open.spotify.com/album/0y8tstF4swTvZdDWYdsknY"
-      },
-      "artists": [
-        {
-          "name": "Shrimpnose",
-          "url": "https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D"
-        }
-      ],
-      "duration_ms": 130169,
-      "name": "Wretched",
-      "url": "https://open.spotify.com/track/1rPy4B02RJf6NILtwBJpsu"
-    },
-    {
-      "added_at": "2023-02-16 22:50:07",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/3GntHIEeqqemhISRVDjkl3"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 84000,
       "name": "Hold on, Pt. 2",
       "url": "https://open.spotify.com/track/5CiJgYqEopAiCRBOjMb5j0"
+    },
+    {
+      "added_at": "2023-02-16 22:50:07",
+      "album": {
+        "name": "Good Grief",
+        "url": "https://open.spotify.com/album/0y8tstF4swTvZdDWYdsknY"
+      },
+      "artists": [
+        {
+          "name": "Shrimpnose",
+          "url": "https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D"
+        }
+      ],
+      "duration_ms": 130169,
+      "name": "Wretched",
+      "url": "https://open.spotify.com/track/1rPy4B02RJf6NILtwBJpsu"
     },
     {
       "added_at": "2023-02-16 22:50:07",

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Feliz Navidad! Celebra los d\u00edas festivos con estas canciones. ",
-  "num_followers": 287569,
+  "num_followers": 287551,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTczNDI2OSwwMDAwMDAwMDk3OTgyMzMyODZjODE3NjE5ZWM5ODUyMGY0NjU0Zjlm",
+  "snapshot_id": "MTY3MTczNDI2OSwwMDAwMDAwMDMyZjdjM2Y4OTQ4YTc5MjQ1NTRiODhkMzIzOGM0ZjE1",
   "tracks": [
     {
       "added_at": "2022-12-22 18:37:48",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-12-22 18:37:48",
       "album": {
-        "name": "Nuestra Navidad",
-        "url": "https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG"
-      },
-      "artists": [
-        {
-          "name": "Myriam Hernandez",
-          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
-        }
-      ],
-      "duration_ms": 216038,
-      "name": "Nuestra Canci\u00f3n De Navidad",
-      "url": "https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0"
-    },
-    {
-      "added_at": "2022-12-22 18:37:48",
-      "album": {
         "name": "ESTE DICIEMBRE",
         "url": "https://open.spotify.com/album/6Up6WWPwItJ5Ze9BC5yt4w"
       },
@@ -1143,6 +1127,30 @@
       "duration_ms": 152766,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/6fWLEZCVpWpmOX7cVN6dqX"
+    },
+    {
+      "added_at": "2022-12-22 18:37:48",
+      "album": {
+        "name": "Mix Navide\u00f1o",
+        "url": "https://open.spotify.com/album/4vrnz7ohoGvbtiBT8cYflV"
+      },
+      "artists": [
+        {
+          "name": "Maxi Brito",
+          "url": "https://open.spotify.com/artist/1gAwItzJvuDNCkLBeksvqk"
+        },
+        {
+          "name": "E Negrito",
+          "url": "https://open.spotify.com/artist/3cbXGLH5iFcHdxHjoetzuB"
+        },
+        {
+          "name": "CDI RECORDS S.A.",
+          "url": "https://open.spotify.com/artist/6RYcrTuVVfidFKu0WKNc5k"
+        }
+      ],
+      "duration_ms": 199621,
+      "name": "Mix Navide\u00f1o",
+      "url": "https://open.spotify.com/track/59UYBKR8C6O8aW4bB34JzL"
     }
   ],
   "unique_name": "Feliz Navidad",

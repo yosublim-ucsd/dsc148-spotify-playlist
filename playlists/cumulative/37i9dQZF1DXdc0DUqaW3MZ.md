@@ -4,7 +4,7 @@
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Jitwam
 
-311 songs - 18 hr 46 min
+312 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [EKG \- Club Mix](https://open.spotify.com/track/3R6FntVNKj4DNywzoXb8uv) | [fleet.dreams](https://open.spotify.com/artist/10Yk6Qr3BjC5A3tPXuRyrL), [àj magic](https://open.spotify.com/artist/5uV384H0jprjQ4aBAD8nmI) | [EKG \(Club Mix\)](https://open.spotify.com/album/0kx0Sjf9B8Elswa89JcsuD) | 5:06 | 2021-12-07 | 2022-07-29 |
 | [Even If It Hurts](https://open.spotify.com/track/4CwchvMNlpQSpQGKEK3sAw) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [La Linda](https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O) | 4:11 | 2022-06-20 | 2023-04-04 |
 | [Even If It Hurts \(feat\. Blood Orange\)](https://open.spotify.com/track/0dK65MHzlEfrImScmaNNvl) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Even If It Hurts \(feat\. Blood Orange\)](https://open.spotify.com/album/2n1a8R8GbWeUixEU1DuKR1) | 4:10 | 2022-04-11 | 2022-04-20 |
+| [Even If It Hurts \(feat\. Blood Orange\)](https://open.spotify.com/track/3awUAAKKgqpvQUKSxvcqYM) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [La Linda](https://open.spotify.com/album/36BV0UIqHyq9RG7a2Q0x0K) | 4:10 | 2022-06-20 |  |
 | [Everything Is Everything](https://open.spotify.com/track/7ijDV8QPQEIDPmjxZ3xtDV) | [Laurence Guy](https://open.spotify.com/artist/1PTEiCpkzNkLNgMi1LL8JR), [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [Everything Is Everything](https://open.spotify.com/album/2Q4XtuUFgl9chQvddYqVxv) | 3:20 | 2022-05-06 |  |
 | [Eye Mo K](https://open.spotify.com/track/4LBrt8RUMpGhPXkLqvsh4U) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Sankofa Season](https://open.spotify.com/album/2X0ipAg7rr3Zzc9bDuhROn) | 5:42 | 2021-12-07 | 2022-07-29 |
 | [Eyes Wide Shut](https://open.spotify.com/track/7HdbnLwOAdyEjvQdTls7QR) | [Sola](https://open.spotify.com/artist/1Bfk5r6g6fXLaMoESYbePK) | [Feels Like A War](https://open.spotify.com/album/53dXT9bc9PpiBFp8C4vmy3) | 3:13 | 2021-12-07 | 2022-06-23 |
@@ -251,7 +252,7 @@
 | [Rendezvous \(with Miraa May\)](https://open.spotify.com/track/5JPF1NwO99YaxEF7AYFa0Z) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Rendezvous \(with Miraa May\)](https://open.spotify.com/album/4eAgNJFr1l00Lmm0CyPios) | 2:30 | 2022-04-11 |  |
 | [Resonate](https://open.spotify.com/track/69aJGjfpWk9mrw6amJM6jC) | [Tomos](https://open.spotify.com/artist/4Y1tn3YmnjLxDhLOKyxK1Y) | [Resonate](https://open.spotify.com/album/7yAJGXt2eSGGFU0rbVdSvj) | 4:32 | 2021-12-07 | 2022-07-26 |
 | [Ride My Bike](https://open.spotify.com/track/0BnTBkmvmAnS0smJW0nWdM) | [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Ride My Bike](https://open.spotify.com/album/18DGR4MNDXM2CRsEUR7Qaz) | 3:50 | 2022-04-11 | 2022-04-14 |
-| [Right Now](https://open.spotify.com/track/2cXOqys4hyhCdwy4qp6hYD) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Right Now](https://open.spotify.com/album/3LjaQJxClcafNQjSNwJytA) | 3:59 | 2022-04-11 |  |
+| [Right Now](https://open.spotify.com/track/2cXOqys4hyhCdwy4qp6hYD) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Right Now](https://open.spotify.com/album/3LjaQJxClcafNQjSNwJytA) | 3:59 | 2022-04-11 | 2023-04-18 |
 | [Roll The Dice](https://open.spotify.com/track/13iySKnW33nZuTffrdNKkG) | [Oriyin](https://open.spotify.com/artist/1U6zrotpn78aWOuV4aaaOQ) | [Roll The Dice](https://open.spotify.com/album/1sRw5B0LbM6twlXxOfC1ff) | 3:29 | 2021-12-07 | 2022-07-29 |
 | [Run \- Gelka Remix](https://open.spotify.com/track/323vCZcxCExSrNDfxe4Scy) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Gelka](https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Run \(Gelka Remix\)](https://open.spotify.com/album/15neb2JEHQOgIPgijRArt2) | 4:08 | 2022-04-11 | 2022-04-16 |
 | [S.A.D](https://open.spotify.com/track/2tdEGV3mQJ3qhGYD0KIlaB) | [Oscar Welsh](https://open.spotify.com/artist/5h7aN3xfMdLwyuopfgvtST) | [S.A.D](https://open.spotify.com/album/0bBGzAua73MV43eiD6l5SE) | 3:20 | 2022-04-11 | 2022-04-15 |

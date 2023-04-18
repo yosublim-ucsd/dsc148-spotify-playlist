@@ -1,12 +1,12 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1542,
+  "num_followers": 1543,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMDBkODY2Yjc5Mjc5NDAzYzU4YTZiNWM0NDZkMzAwZTA1",
+  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMDgwYzQ2ZTJjNjEzMGJkOTQ1N2U4MGZmZjVmNGFmMWRj",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -143,22 +143,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Merry Macs Sing Mairzy Doats",
-        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
-      },
-      "artists": [
-        {
-          "name": "The Merry Macs",
-          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
-        }
-      ],
-      "duration_ms": 164600,
-      "name": "Mairzy Doats",
-      "url": "https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "50th Anniversary Collection (Vol. 2)",
         "url": "https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 149333,
       "name": "Straighten Up And Fly Right - Single Version",
       "url": "https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Merry Macs Sing Mairzy Doats",
+        "url": "https://open.spotify.com/album/2mDsfD127OI1Lem0XolFXr"
+      },
+      "artists": [
+        {
+          "name": "The Merry Macs",
+          "url": "https://open.spotify.com/artist/1GdTErb29TNkiEGWrNGAeH"
+        }
+      ],
+      "duration_ms": 164600,
+      "name": "Mairzy Doats",
+      "url": "https://open.spotify.com/track/3jMP8VYsS7mt9ZeqLlnr3m"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -277,20 +277,20 @@
       "url": "https://open.spotify.com/track/2iXNeaqJ1Ef3YZ3iEak8tU"
     },
     {
-      "added_at": "2022-03-28 19:29:09",
+      "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
       },
       "artists": [
         {
-          "name": "The Four Lads",
-          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
         }
       ],
-      "duration_ms": 195133,
-      "name": "Moments To Remember",
-      "url": "https://open.spotify.com/track/3M6vVP9wlbGC10xZ654SDb"
+      "duration_ms": 178066,
+      "name": "May You Always",
+      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -309,20 +309,20 @@
       "url": "https://open.spotify.com/track/1fsWE3xBbvORHHPqICzTyR"
     },
     {
-      "added_at": "2020-08-17 22:49:59",
+      "added_at": "2022-03-28 19:29:09",
       "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
       },
       "artists": [
         {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+          "name": "The Four Lads",
+          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
         }
       ],
-      "duration_ms": 178066,
-      "name": "May You Always",
-      "url": "https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM"
+      "duration_ms": 195133,
+      "name": "Moments To Remember",
+      "url": "https://open.spotify.com/track/3M6vVP9wlbGC10xZ654SDb"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -393,6 +393,22 @@
       "url": "https://open.spotify.com/track/5m1bCro6fYB2Vl6aRGCMpJ"
     },
     {
+      "added_at": "2022-03-28 19:29:09",
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
+      },
+      "artists": [
+        {
+          "name": "The McGuire Sisters",
+          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Teach Me Tonight",
+      "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
+    },
+    {
       "added_at": "2020-08-17 22:49:59",
       "album": {
         "name": "50 Best Hits",
@@ -429,38 +445,6 @@
       "url": "https://open.spotify.com/track/49Xc60AAQc6NIFAa1DikVo"
     },
     {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
-      },
-      "artists": [
-        {
-          "name": "The Four Lads",
-          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
-        }
-      ],
-      "duration_ms": 171733,
-      "name": "Standing On the Corner",
-      "url": "https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq"
-    },
-    {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6"
-      },
-      "artists": [
-        {
-          "name": "The McGuire Sisters",
-          "url": "https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Teach Me Tonight",
-      "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
-    },
-    {
       "added_at": "2020-08-17 22:49:59",
       "album": {
         "name": "The Best Of The Ames",
@@ -475,6 +459,22 @@
       "duration_ms": 166520,
       "name": "Rag Mop",
       "url": "https://open.spotify.com/track/7z03paoXvhCzN22twdfPHR"
+    },
+    {
+      "added_at": "2022-03-28 19:29:09",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/0PHOqv81FzFx8PSVqEa0NE"
+      },
+      "artists": [
+        {
+          "name": "The Four Lads",
+          "url": "https://open.spotify.com/artist/3stlWzoChlEtbdZAz6CNC3"
+        }
+      ],
+      "duration_ms": 171733,
+      "name": "Standing On the Corner",
+      "url": "https://open.spotify.com/track/4DDuqcRrjG1XBma3hvaFFq"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -549,22 +549,6 @@
       "url": "https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr"
     },
     {
-      "added_at": "2022-03-28 19:29:09",
-      "album": {
-        "name": "The Amazing Ames Brothers",
-        "url": "https://open.spotify.com/album/4Mb59LfU7RrMOZTh6qx8IP"
-      },
-      "artists": [
-        {
-          "name": "The Ames Brothers",
-          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
-        }
-      ],
-      "duration_ms": 179146,
-      "name": "Undecided",
-      "url": "https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22"
-    },
-    {
       "added_at": "2020-08-17 22:49:59",
       "album": {
         "name": "Teach Me Tonight",
@@ -579,6 +563,22 @@
       "duration_ms": 170666,
       "name": "Teach Me Tonight",
       "url": "https://open.spotify.com/track/0JqKK01MXbnDhBKKdcUCnX"
+    },
+    {
+      "added_at": "2022-03-28 19:29:09",
+      "album": {
+        "name": "The Amazing Ames Brothers",
+        "url": "https://open.spotify.com/album/4Mb59LfU7RrMOZTh6qx8IP"
+      },
+      "artists": [
+        {
+          "name": "The Ames Brothers",
+          "url": "https://open.spotify.com/artist/4oXaAEofJFedGweFqy5qiv"
+        }
+      ],
+      "duration_ms": 179146,
+      "name": "Undecided",
+      "url": "https://open.spotify.com/track/1bDzspMSL17XQokxAxAe22"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -679,6 +679,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "Teach Me Tonight",
+        "url": "https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ"
+      },
+      "artists": [
+        {
+          "name": "The De Castro Sisters",
+          "url": "https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G"
+        }
+      ],
+      "duration_ms": 159666,
+      "name": "Give Me Time",
+      "url": "https://open.spotify.com/track/22McLEDE7FIJDSNUhYqnKz"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "Best Of The Four Coins",
         "url": "https://open.spotify.com/album/5QpanrSfnut4MbnbG8ryH9"
       },
@@ -727,18 +743,18 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Teach Me Tonight",
-        "url": "https://open.spotify.com/album/3WbxZUc3ukR1BEz3SgOgbJ"
+        "name": "The Singles Collection 1946-60",
+        "url": "https://open.spotify.com/album/75jzCtbYZGSEJgL7i9MhNN"
       },
       "artists": [
         {
-          "name": "The De Castro Sisters",
-          "url": "https://open.spotify.com/artist/1OCPhFtvkZDLUJJkrJfD2G"
+          "name": "The Fontane Sisters",
+          "url": "https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15"
         }
       ],
-      "duration_ms": 159666,
-      "name": "Give Me Time",
-      "url": "https://open.spotify.com/track/22McLEDE7FIJDSNUhYqnKz"
+      "duration_ms": 161906,
+      "name": "Underneath The Linden Tree",
+      "url": "https://open.spotify.com/track/2rXUt201xsDplJW2BtBFXU"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -755,22 +771,6 @@
       "duration_ms": 173133,
       "name": "Love On A Greyhound Bus",
       "url": "https://open.spotify.com/track/4wam2im1dxbWFVU5TjxF8C"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Singles Collection 1946-60",
-        "url": "https://open.spotify.com/album/75jzCtbYZGSEJgL7i9MhNN"
-      },
-      "artists": [
-        {
-          "name": "The Fontane Sisters",
-          "url": "https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "Underneath The Linden Tree",
-      "url": "https://open.spotify.com/track/2rXUt201xsDplJW2BtBFXU"
     },
     {
       "added_at": "2020-08-17 22:49:59",

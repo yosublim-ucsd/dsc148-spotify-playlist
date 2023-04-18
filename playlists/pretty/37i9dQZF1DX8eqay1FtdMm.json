@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bAylah(\uc544\uc77c\ub77c)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 318043,
+  "num_followers": 318116,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc1MjM5OCwwMDAwMDAwMDFhODQ3ZjdhZWQ4YjdiMTBmMmY3NzM4OTliNTg5ZThk",
+  "snapshot_id": "MTY4MDc1MjM5OCwwMDAwMDAwMDc3ODA1MjZkNTNmYjUwODk4ODU4YWQwODNjYzcyNTg2",
   "tracks": [
     {
       "added_at": "2023-03-31 10:23:23",
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3cgDEWthQdpLcTTeWMV0VB"
     },
     {
-      "added_at": "2023-04-17 00:50:33",
+      "added_at": "2023-04-18 01:23:02",
       "album": {
         "name": "Anomaly",
         "url": "https://open.spotify.com/album/1pYNoczdbcFbN7udLlB1t0"
@@ -151,6 +151,22 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 191220,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
         "name": "Hotel del Luna (Original Television Soundtrack) Pt.3",
         "url": "https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y"
       },
@@ -183,22 +199,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 7",
-        "url": "https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A"
-      },
-      "artists": [
-        {
-          "name": "SOYOU",
-          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
-        }
-      ],
-      "duration_ms": 169448,
-      "name": "I Miss You",
-      "url": "https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "v o K a l audio liner",
         "url": "https://open.spotify.com/album/3Uc4lyksj1k3SBs2KVc0Sf"
       },
@@ -215,6 +215,42 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 7",
+        "url": "https://open.spotify.com/album/36sxaODM0ii4HmNjPLWS9A"
+      },
+      "artists": [
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        }
+      ],
+      "duration_ms": 169448,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/3SfbB0Y3saMIQnNctxMVhj"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "GANADARA",
+        "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 203727,
+      "name": "GANADARA (Feat. IU)",
+      "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
         "name": "Me After You",
         "url": "https://open.spotify.com/album/0caJtWmA3k3kY6kourOUHh"
       },
@@ -227,38 +263,6 @@
       "duration_ms": 280358,
       "name": "Me After You",
       "url": "https://open.spotify.com/track/5AkyvofVWUqds8x1HHgDU9"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 191220,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
-        "name": "My Voice - The 1st Album (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 223451,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -283,6 +287,26 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
+        "name": "Don't Forget",
+        "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "Don\u2019t Forget",
+      "url": "https://open.spotify.com/track/0THW04vlFAkfflASMFam0t"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
         "name": "Alchemy of Souls: Light and Shadow, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg"
       },
@@ -295,6 +319,26 @@
       "duration_ms": 256173,
       "name": "I\u2032m Sorry",
       "url": "https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 223214,
+      "name": "Love Is Ugly (Feat. Hwa Sa)",
+      "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -319,22 +363,18 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Don't Forget",
-        "url": "https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt"
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
       },
       "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
         {
           "name": "TAEYEON",
           "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 219106,
-      "name": "Don\u2019t Forget",
-      "url": "https://open.spotify.com/track/0THW04vlFAkfflASMFam0t"
+      "duration_ms": 223451,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -387,42 +427,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Naul <Ballad Pop City>",
-        "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 260668,
-      "name": "Nights Into Days (Prod. by Naul)",
-      "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
-        "name": "GANADARA",
-        "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 203727,
-      "name": "GANADARA (Feat. IU)",
-      "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "Only Then",
         "url": "https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq"
       },
@@ -471,6 +475,22 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
+        "name": "Naul <Ballad Pop City>",
+        "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 260668,
+      "name": "Nights Into Days (Prod. by Naul)",
+      "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
         "name": "Jelly box Flower Way SEJEONG",
         "url": "https://open.spotify.com/album/32dL7nyPowMbiu8QFrAkIM"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 239122,
       "name": "Flower Way (Prod. By ZICO)",
       "url": "https://open.spotify.com/track/1dOD5F2hX5TBtKdQlEseR7"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Hwa Sa",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 223214,
-      "name": "Love Is Ugly (Feat. Hwa Sa)",
-      "url": "https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Purpose - The 2nd Album",
-        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 239499,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "18 again, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2BLtLWe1K6HZm0NjKuYjCV"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 244213,
       "name": "Hello",
       "url": "https://open.spotify.com/track/0RRJ2PHFSCyBaaydDHOv1u"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "Purpose - The 2nd Album",
+        "url": "https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 239499,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "New Year",
-        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 168760,
-      "name": "Fuckin' New Year",
-      "url": "https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "Be ordinary",
         "url": "https://open.spotify.com/album/6C9pNWWWir3wnLn2JfMVBe"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 236071,
       "name": "The Snowman",
       "url": "https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "New Year",
+        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 168760,
+      "name": "Fuckin' New Year",
+      "url": "https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 10",
-        "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
-      },
-      "artists": [
-        {
-          "name": "Yoon Mirae",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 256314,
-      "name": "It\u2032s My Life",
-      "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "Butterfly Effect",
         "url": "https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 273680,
       "name": "Space",
       "url": "https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8"
+      },
+      "artists": [
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "duration_ms": 256314,
+      "name": "It\u2032s My Life",
+      "url": "https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "New Year",
-        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 234386,
-      "name": "Big world",
-      "url": "https://open.spotify.com/track/0Hy3JNYKAJu4ttcyQHzzYA"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "Bye",
         "url": "https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 290960,
       "name": "Soju Hanjan",
       "url": "https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "New Year",
+        "url": "https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 234386,
+      "name": "Big world",
+      "url": "https://open.spotify.com/track/0Hy3JNYKAJu4ttcyQHzzYA"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Unlock My Boss, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9"
-      },
-      "artists": [
-        {
-          "name": "Sion",
-          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
-        }
-      ],
-      "duration_ms": 202858,
-      "name": "Lie to me",
-      "url": "https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
         "name": "I'M",
         "url": "https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Always with you",
-        "url": "https://open.spotify.com/album/1nmOHceICDLOOI3IgPHvdu"
+        "name": "Unlock My Boss, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9"
       },
       "artists": [
         {
-          "name": "Kim MinSeok",
-          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+          "name": "Sion",
+          "url": "https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r"
         }
       ],
-      "duration_ms": 262000,
-      "name": "Always with you",
-      "url": "https://open.spotify.com/track/6tNtfR4sJfEzQmjhg7gWzy"
+      "duration_ms": 202858,
+      "name": "Lie to me",
+      "url": "https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1379,6 +1363,38 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
+        "name": "Always with you",
+        "url": "https://open.spotify.com/album/1nmOHceICDLOOI3IgPHvdu"
+      },
+      "artists": [
+        {
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Always with you",
+      "url": "https://open.spotify.com/track/6tNtfR4sJfEzQmjhg7gWzy"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
+        "name": "Divorce Attorney Shin (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "duration_ms": 205560,
+      "name": "Far away",
+      "url": "https://open.spotify.com/track/43iomf0oLrC9449yN58E4c"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
         "name": "Rookie Historian GooHaeRyung (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 250831,
       "name": "The opposite side",
       "url": "https://open.spotify.com/track/63jQ5Els02lQZFwZSqn8Dh"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
-        "name": "Divorce Attorney Shin (Original Television Soundtrack, Pt. 4)",
-        "url": "https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 205560,
-      "name": "Far away",
-      "url": "https://open.spotify.com/track/43iomf0oLrC9449yN58E4c"
     },
     {
       "added_at": "2023-03-31 10:23:23",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
+        "name": "Dear",
+        "url": "https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p"
+      },
+      "artists": [
+        {
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+        }
+      ],
+      "duration_ms": 240840,
+      "name": "First Line",
+      "url": "https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab"
+    },
+    {
+      "added_at": "2023-03-31 10:23:23",
+      "album": {
         "name": "Starting Now",
         "url": "https://open.spotify.com/album/4HSSyNh3DVQVT2z5Z9cSzy"
       },
@@ -1639,34 +1655,22 @@
     {
       "added_at": "2023-03-31 10:23:23",
       "album": {
-        "name": "Agency (Original Television Soundtrack, Pt. 2)",
-        "url": "https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4"
+        "name": "Burn Like A Star",
+        "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
       },
       "artists": [
         {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 224080,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/532r4BnsqKpIEgjp0UzBNu"
-    },
-    {
-      "added_at": "2023-03-31 10:23:23",
-      "album": {
-        "name": "Dear",
-        "url": "https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p"
-      },
-      "artists": [
+          "name": "Ahn Ye Eun",
+          "url": "https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs"
+        },
         {
-          "name": "Shin Yong Jae",
-          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+          "name": "Woo Ye Rin",
+          "url": "https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL"
         }
       ],
-      "duration_ms": 240840,
-      "name": "First Line",
-      "url": "https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab"
+      "duration_ms": 188253,
+      "name": "Burn Like A Star",
+      "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
     },
     {
       "added_at": "2023-03-31 10:23:23",

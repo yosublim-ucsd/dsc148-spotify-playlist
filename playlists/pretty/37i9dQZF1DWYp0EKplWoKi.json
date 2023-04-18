@@ -1,13 +1,33 @@
 {
   "description": "La esquina donde la M\u00fasica Mexicana se junta con los ritmos urbanos. Peso Pluma & Blessd en portada.",
-  "num_followers": 176564,
+  "num_followers": 177149,
   "original_name": "El Junte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMGVlY2JiOTA3NDRhZGUwODI4ZDg1N2UwZjEwMmViNzg1",
+  "snapshot_id": "MTY4MTc0NzU1NCwwMDAwMDAwMGY3NzY4NWUyNmRjZWQ1OGFkN2E4NDM2M2QzYWM4OTM5",
   "tracks": [
+    {
+      "added_at": "2023-04-17 16:05:54",
+      "album": {
+        "name": "un x100to",
+        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 194563,
+      "name": "un x100to",
+      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
+    },
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
@@ -1003,26 +1023,6 @@
       "duration_ms": 126168,
       "name": "The Price",
       "url": "https://open.spotify.com/track/4uJ0uZ5PbRd6gSKBnRX9R0"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Don Esteban",
-        "url": "https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        },
-        {
-          "name": "Nietos Del Viejo",
-          "url": "https://open.spotify.com/artist/3sC7anQFAQtZNYpADNh5EH"
-        }
-      ],
-      "duration_ms": 203104,
-      "name": "Zumbando Terrenos",
-      "url": "https://open.spotify.com/track/3cydPWRwnndcp2C2lIlUt1"
     },
     {
       "added_at": "2023-04-14 06:00:00",

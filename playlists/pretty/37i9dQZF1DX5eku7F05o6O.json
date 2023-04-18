@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 3350,
+  "num_followers": 3351,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMjU4MTE2MCwwMDAwMDAwMDAwNWNjMGQzY2FkYThhNWY3MThiMGM3MDg2Y2YyNDAy",
+  "snapshot_id": "MTYxMjU4MTE2MCwwMDAwMDAwMDlhODY5MmUyYWI3NzRiNDU2MTkwZWRjNGJkZTdmNTMx",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -287,26 +287,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Il",
-        "url": "https://open.spotify.com/album/6rFWeVAaT4ExiW4Lx33NWS"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        },
-        {
-          "name": "BUFFLO",
-          "url": "https://open.spotify.com/artist/53f0gOO8G7iK7hWJNFaLs2"
-        }
-      ],
-      "duration_ms": 271746,
-      "name": "Nostos",
-      "url": "https://open.spotify.com/track/7bSK3VEURjfxNp7H9wLNqE"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Plus tard qu'on pense",
         "url": "https://open.spotify.com/album/1OZOYHMEITu3Lg4HtBh4Op"
       },
@@ -323,18 +303,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Tokyo",
-        "url": "https://open.spotify.com/album/0bMiShtGJ5QjAehkO34ULW"
+        "name": "Il",
+        "url": "https://open.spotify.com/album/6rFWeVAaT4ExiW4Lx33NWS"
       },
       "artists": [
         {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        },
+        {
+          "name": "BUFFLO",
+          "url": "https://open.spotify.com/artist/53f0gOO8G7iK7hWJNFaLs2"
         }
       ],
-      "duration_ms": 201306,
-      "name": "L'\u00e9loge des derni\u00e8res fois",
-      "url": "https://open.spotify.com/track/3zCpnWcLYS8dsi497CNhcm"
+      "duration_ms": 271746,
+      "name": "Nostos",
+      "url": "https://open.spotify.com/track/7bSK3VEURjfxNp7H9wLNqE"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -367,6 +351,22 @@
       "duration_ms": 203666,
       "name": "Le rep\u00e8re tranquille",
       "url": "https://open.spotify.com/track/5LfohBLHNOqSCGEOKpsMFf"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Tokyo",
+        "url": "https://open.spotify.com/album/0bMiShtGJ5QjAehkO34ULW"
+      },
+      "artists": [
+        {
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+        }
+      ],
+      "duration_ms": 201306,
+      "name": "L'\u00e9loge des derni\u00e8res fois",
+      "url": "https://open.spotify.com/track/3zCpnWcLYS8dsi497CNhcm"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -503,6 +503,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Matthias & Maxime (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1DBjSrdtHrW3RudYzyhCKR"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "duration_ms": 167436,
+      "name": "Un autre amour",
+      "url": "https://open.spotify.com/track/329d06nIUGV7dRE6xYwblR"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Les Atomes",
         "url": "https://open.spotify.com/album/70PjrmmSUclywQfx6DvaFv"
       },
@@ -539,38 +555,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Tricot machine",
-        "url": "https://open.spotify.com/album/2UydMBIw7r4DVeFLeFZPIe"
-      },
-      "artists": [
-        {
-          "name": "TRICOT MACHINE",
-          "url": "https://open.spotify.com/artist/2kWRtp0Ph5iKM1tJGvQid7"
-        }
-      ],
-      "duration_ms": 203173,
-      "name": "Super ordinaire",
-      "url": "https://open.spotify.com/track/26FfcTUMhreHE2YSheGN1u"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Matthias & Maxime (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1DBjSrdtHrW3RudYzyhCKR"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Blais",
-          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
-        }
-      ],
-      "duration_ms": 167436,
-      "name": "Un autre amour",
-      "url": "https://open.spotify.com/track/329d06nIUGV7dRE6xYwblR"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "4488 de l'amour",
         "url": "https://open.spotify.com/album/159Jn9npXR9HeDl0WoWVTa"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 165693,
       "name": "Pri\u00e8re",
       "url": "https://open.spotify.com/track/2SrsbMuDf8ruS3r0DZT0mk"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Tricot machine",
+        "url": "https://open.spotify.com/album/2UydMBIw7r4DVeFLeFZPIe"
+      },
+      "artists": [
+        {
+          "name": "TRICOT MACHINE",
+          "url": "https://open.spotify.com/artist/2kWRtp0Ph5iKM1tJGvQid7"
+        }
+      ],
+      "duration_ms": 203173,
+      "name": "Super ordinaire",
+      "url": "https://open.spotify.com/track/26FfcTUMhreHE2YSheGN1u"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -731,38 +731,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Tous Les Sens",
-        "url": "https://open.spotify.com/album/5OdWPOVpIWOTbgjUx1DkmE"
-      },
-      "artists": [
-        {
-          "name": "Ariane Moffatt",
-          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
-        }
-      ],
-      "duration_ms": 321426,
-      "name": "Pers\u00e9ides",
-      "url": "https://open.spotify.com/track/4Aojnexk0G5xmXZwTpeLWo"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Le treizi\u00e8me \u00e9tage",
-        "url": "https://open.spotify.com/album/1EbsNqRNKj1gmDsENEuCyl"
-      },
-      "artists": [
-        {
-          "name": "Louis-Jean Cormier",
-          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
-        }
-      ],
-      "duration_ms": 389320,
-      "name": "Un monstre",
-      "url": "https://open.spotify.com/track/7lCAerPlcyO0XomfHJwTq0"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Le feu de chaque jour",
         "url": "https://open.spotify.com/album/4j1nx0dlIVExJ9uxjkVPo8"
       },
@@ -775,6 +743,22 @@
       "duration_ms": 271360,
       "name": "Loin de Disneyland",
       "url": "https://open.spotify.com/track/76CGTEQ17dXFWw6llOycSj"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Tous Les Sens",
+        "url": "https://open.spotify.com/album/5OdWPOVpIWOTbgjUx1DkmE"
+      },
+      "artists": [
+        {
+          "name": "Ariane Moffatt",
+          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
+        }
+      ],
+      "duration_ms": 321426,
+      "name": "Pers\u00e9ides",
+      "url": "https://open.spotify.com/track/4Aojnexk0G5xmXZwTpeLWo"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -795,6 +779,38 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Le treizi\u00e8me \u00e9tage",
+        "url": "https://open.spotify.com/album/1EbsNqRNKj1gmDsENEuCyl"
+      },
+      "artists": [
+        {
+          "name": "Louis-Jean Cormier",
+          "url": "https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G"
+        }
+      ],
+      "duration_ms": 389320,
+      "name": "Un monstre",
+      "url": "https://open.spotify.com/track/7lCAerPlcyO0XomfHJwTq0"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "27 fois l'aurore",
+        "url": "https://open.spotify.com/album/50NmsF9dRHdp2vXaVwTvfT"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00e9 Leclerc",
+          "url": "https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I"
+        }
+      ],
+      "duration_ms": 191853,
+      "name": "Vers le sud",
+      "url": "https://open.spotify.com/track/7k5JH3TPQppL1zZt40kIbz"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Un Autre \u00c9t\u00e9",
         "url": "https://open.spotify.com/album/1EPQK7vUSd8UQzVLToWnWf"
       },
@@ -807,26 +823,6 @@
       "duration_ms": 189000,
       "name": "Un Autre \u00c9t\u00e9",
       "url": "https://open.spotify.com/track/22sQRY8rd7fIbIgMHRc3eO"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "Silhouettes",
-        "url": "https://open.spotify.com/album/17JhlO2Y0kvAIJwML6jkzJ"
-      },
-      "artists": [
-        {
-          "name": "Simon P. Castonguay",
-          "url": "https://open.spotify.com/artist/0HKEAfhGGihNdbRX49bioD"
-        },
-        {
-          "name": "Tambour",
-          "url": "https://open.spotify.com/artist/4AiSaEOdhGLXyM1UGObDdi"
-        }
-      ],
-      "duration_ms": 456688,
-      "name": "Silhouettes",
-      "url": "https://open.spotify.com/track/6X9B7GfAc8Po0DyW3UA9m0"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -851,18 +847,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Ubiquit\u00e9",
-        "url": "https://open.spotify.com/album/5SC0ot9Pkx2U33PD0VCBT8"
+        "name": "Silhouettes",
+        "url": "https://open.spotify.com/album/17JhlO2Y0kvAIJwML6jkzJ"
       },
       "artists": [
         {
-          "name": "Martin Lizotte",
-          "url": "https://open.spotify.com/artist/4BHr9YxHWGZd8OVIcCVnd5"
+          "name": "Simon P. Castonguay",
+          "url": "https://open.spotify.com/artist/0HKEAfhGGihNdbRX49bioD"
+        },
+        {
+          "name": "Tambour",
+          "url": "https://open.spotify.com/artist/4AiSaEOdhGLXyM1UGObDdi"
         }
       ],
-      "duration_ms": 200255,
-      "name": "Voltige",
-      "url": "https://open.spotify.com/track/3k4RLVYe0AGrVfuwYJyCMy"
+      "duration_ms": 456688,
+      "name": "Silhouettes",
+      "url": "https://open.spotify.com/track/6X9B7GfAc8Po0DyW3UA9m0"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -883,6 +883,22 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
+        "name": "Ubiquit\u00e9",
+        "url": "https://open.spotify.com/album/5SC0ot9Pkx2U33PD0VCBT8"
+      },
+      "artists": [
+        {
+          "name": "Martin Lizotte",
+          "url": "https://open.spotify.com/artist/4BHr9YxHWGZd8OVIcCVnd5"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Voltige",
+      "url": "https://open.spotify.com/track/3k4RLVYe0AGrVfuwYJyCMy"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
         "name": "Fatale",
         "url": "https://open.spotify.com/album/0RB7JoaGx5mcCcDbMDyRM9"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 116575,
       "name": "7",
       "url": "https://open.spotify.com/track/6VyfmBp0tqEWBQAg2DkjyC"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "27 fois l'aurore",
-        "url": "https://open.spotify.com/album/50NmsF9dRHdp2vXaVwTvfT"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00e9 Leclerc",
-          "url": "https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I"
-        }
-      ],
-      "duration_ms": 191853,
-      "name": "Vers le sud",
-      "url": "https://open.spotify.com/track/7k5JH3TPQppL1zZt40kIbz"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Lovers in No Mind's Land",
-        "url": "https://open.spotify.com/album/4IjYBvTsTKMeTRYHf1dZzh"
-      },
-      "artists": [
-        {
-          "name": "Slow Fade Sailors",
-          "url": "https://open.spotify.com/artist/14bUWQx1jCureD3Kud1ElD"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "One Final Drink, One Final Smoke",
-      "url": "https://open.spotify.com/track/40qVet6deMAcVqwUQy3jJC"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Stella",
         "url": "https://open.spotify.com/album/35I4P4msenASz5z5xjSIdo"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Les Ombres Longues",
-        "url": "https://open.spotify.com/album/1VWw0MtGZlUXZMcANHMzCX"
+        "name": "Lovers in No Mind's Land",
+        "url": "https://open.spotify.com/album/4IjYBvTsTKMeTRYHf1dZzh"
       },
       "artists": [
         {
-          "name": "Antoine Corriveau",
-          "url": "https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak"
+          "name": "Slow Fade Sailors",
+          "url": "https://open.spotify.com/artist/14bUWQx1jCureD3Kud1ElD"
         }
       ],
-      "duration_ms": 188520,
-      "name": "Le nouveau vocabulaire",
-      "url": "https://open.spotify.com/track/5dhWyASbSFyAarXtYfovgH"
+      "duration_ms": 287000,
+      "name": "One Final Drink, One Final Smoke",
+      "url": "https://open.spotify.com/track/40qVet6deMAcVqwUQy3jJC"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1103,6 +1087,22 @@
       "duration_ms": 196613,
       "name": "Trop tard",
       "url": "https://open.spotify.com/track/0kGlndxcDA7drOZwgt4eOd"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Les Ombres Longues",
+        "url": "https://open.spotify.com/album/1VWw0MtGZlUXZMcANHMzCX"
+      },
+      "artists": [
+        {
+          "name": "Antoine Corriveau",
+          "url": "https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "Le nouveau vocabulaire",
+      "url": "https://open.spotify.com/track/5dhWyASbSFyAarXtYfovgH"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Des feux pour voir",
-        "url": "https://open.spotify.com/album/2sQho2MsHKvdsDtwtnV3kd"
-      },
-      "artists": [
-        {
-          "name": "Marie-Pierre Arthur",
-          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
-        }
-      ],
-      "duration_ms": 190718,
-      "name": "Puits de lumi\u00e8re",
-      "url": "https://open.spotify.com/track/3LENs8SNsDnxpMYgdHFcQY"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "22h22",
         "url": "https://open.spotify.com/album/2HdjJqBfxdOKa4LHZB21X8"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 203253,
       "name": "Domenico",
       "url": "https://open.spotify.com/track/7EDpfVvpvhHYztOSLci2ZL"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Des feux pour voir",
+        "url": "https://open.spotify.com/album/2sQho2MsHKvdsDtwtnV3kd"
+      },
+      "artists": [
+        {
+          "name": "Marie-Pierre Arthur",
+          "url": "https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc"
+        }
+      ],
+      "duration_ms": 190718,
+      "name": "Puits de lumi\u00e8re",
+      "url": "https://open.spotify.com/track/3LENs8SNsDnxpMYgdHFcQY"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Parades",
-        "url": "https://open.spotify.com/album/68gezXq5hixi4zYIow8L22"
-      },
-      "artists": [
-        {
-          "name": "Mina Tindle",
-          "url": "https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Je sais",
-      "url": "https://open.spotify.com/track/3LDuDSAyLuICLyhieUy6v0"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "La pluie entre nous",
         "url": "https://open.spotify.com/album/0Y10OKNgG1nCZgNYjD9ycN"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 220630,
       "name": "La pluie entre nous",
       "url": "https://open.spotify.com/track/4uXdnDGrnb5pCNyIl32UT7"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Parades",
+        "url": "https://open.spotify.com/album/68gezXq5hixi4zYIow8L22"
+      },
+      "artists": [
+        {
+          "name": "Mina Tindle",
+          "url": "https://open.spotify.com/artist/1myZw5gJTFWZUrqv4Qdq2E"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "Je sais",
+      "url": "https://open.spotify.com/track/3LDuDSAyLuICLyhieUy6v0"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "LUNES",
-        "url": "https://open.spotify.com/album/3mV5Ke3VjwZhuDQMsHmeYY"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Lacasse",
-          "url": "https://open.spotify.com/artist/1HVLJVmE9Pc1XPZ3P5sZbz"
-        }
-      ],
-      "duration_ms": 291720,
-      "name": "Rester l\u00e0",
-      "url": "https://open.spotify.com/track/1o6qhANR6l2ffQk5YiKJEn"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
         "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 186215,
       "name": "Rien ne se perd, rien ne se cr\u00e9e",
       "url": "https://open.spotify.com/track/18uxjumWJUkZqYYisV2smH"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "LUNES",
+        "url": "https://open.spotify.com/album/3mV5Ke3VjwZhuDQMsHmeYY"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Lacasse",
+          "url": "https://open.spotify.com/artist/1HVLJVmE9Pc1XPZ3P5sZbz"
+        }
+      ],
+      "duration_ms": 291720,
+      "name": "Rester l\u00e0",
+      "url": "https://open.spotify.com/track/1o6qhANR6l2ffQk5YiKJEn"
     },
     {
       "added_at": "2021-02-06 03:12:40",

@@ -1,52 +1,32 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 19207,
+  "num_followers": 19308,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI1Nzk2OCwwMDAwMDAwMDVmNWEwZjFlODM3YzVlZmVmNTQwYzdlYWJjMmQ5ODBl",
+  "snapshot_id": "MTY4MDI1Nzk2OCwwMDAwMDAwMGEwZDQ5YTIyOTFjY2M0YmU3NjE3NGI5ZjU0ZTZhY2Fh",
   "tracks": [
-    {
-      "added_at": "2023-04-17 01:03:55",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        },
-        {
-          "name": "WOOGIE",
-          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
-        }
-      ],
-      "duration_ms": 228226,
-      "name": "Rock With You - Spotify Singles",
-      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
-    },
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
       "artists": [
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Ugly Duck",
+          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
         }
       ],
-      "duration_ms": 191220,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+      "duration_ms": 204991,
+      "name": "MOMMAE",
+      "url": "https://open.spotify.com/track/1LNlfvPQmB0cqYJQQskZ8x"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -71,102 +51,6 @@
       "duration_ms": 208250,
       "name": "BLUE CHECK (Feat. Jay Park, Jessi) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/7aNA0yQbOYu3HKWv9zElJX"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
-        "name": "GANADARA",
-        "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 203727,
-      "name": "GANADARA (Feat. IU)",
-      "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Ugly Duck",
-          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
-        }
-      ],
-      "duration_ms": 204991,
-      "name": "MOMMAE",
-      "url": "https://open.spotify.com/track/1LNlfvPQmB0cqYJQQskZ8x"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 216786,
-      "name": "All I Wanna Do (K) (Feat. Hoody & Loco)",
-      "url": "https://open.spotify.com/track/2FWquqPNxte8iqZ3ATQG0p"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
-        "name": "Need To Know",
-        "url": "https://open.spotify.com/album/4IGSbTfm3Xwmp8up7pOR3t"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 169251,
-      "name": "Need To Know",
-      "url": "https://open.spotify.com/track/0CqZryIJnJhwCCnECIC7Lr"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
-        "name": "To Life",
-        "url": "https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 191491,
-      "name": "To Life",
-      "url": "https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -267,6 +151,66 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
+        "name": "Need To Know",
+        "url": "https://open.spotify.com/album/4IGSbTfm3Xwmp8up7pOR3t"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 169251,
+      "name": "Need To Know",
+      "url": "https://open.spotify.com/track/0CqZryIJnJhwCCnECIC7Lr"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
+        "name": "To Life",
+        "url": "https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 191491,
+      "name": "To Life",
+      "url": "https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
+        "name": "GANG (Official Remix)",
+        "url": "https://open.spotify.com/album/7sSR7cyAVVr1OkCouJpxc6"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "duration_ms": 191880,
+      "name": "GANG - Official Remix",
+      "url": "https://open.spotify.com/track/3D0nbQmiFAnibdZTajgaYO"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
         "name": "H1GHR : BLUE TAPE",
         "url": "https://open.spotify.com/album/1BjSEUWIHzkOMumRhxBJHZ"
       },
@@ -339,30 +283,22 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "GANG (Official Remix)",
-        "url": "https://open.spotify.com/album/7sSR7cyAVVr1OkCouJpxc6"
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD"
       },
       "artists": [
         {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+          "name": "JMIN",
+          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
         },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
         }
       ],
-      "duration_ms": 191880,
-      "name": "GANG - Official Remix",
-      "url": "https://open.spotify.com/track/3D0nbQmiFAnibdZTajgaYO"
+      "duration_ms": 166813,
+      "name": "Dedication (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -383,26 +319,6 @@
       "duration_ms": 218375,
       "name": "DEJAVU (Feat. Jay Park) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/3SB8fH05CZEkPTWJAgkAB2"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD"
-      },
-      "artists": [
-        {
-          "name": "JMIN",
-          "url": "https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 166813,
-      "name": "Dedication (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -447,26 +363,6 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/1s1EHjXGkOQaCPl2iY359n"
-      },
-      "artists": [
-        {
-          "name": "GEMINI",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 176986,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/2W4YKFHDaMdQkpXzDjbTER"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
         "name": "H1GHR : RED TAPE",
         "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
       },
@@ -507,58 +403,18 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Episode 1",
-        "url": "https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy"
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
       },
       "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "toigo",
-          "url": "https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG"
-        },
-        {
-          "name": "J'Kyun",
-          "url": "https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ"
-        },
-        {
-          "name": "JAMBINO",
-          "url": "https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K"
-        },
-        {
-          "name": "XINSAYNE",
-          "url": "https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS"
-        },
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 265252,
-      "name": "WE (Feat. Jay Park) (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/4QoOoFKhAWYOylWw2io6va"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/6CcrXh8NHk5agJtbGt0tYR"
-      },
-      "artists": [
-        {
-          "name": "Wolftyla",
-          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 191141,
-      "name": "Butterflies (Feat. Jay Park)",
-      "url": "https://open.spotify.com/track/2I7OULYLv1IVo3Q4KOt88D"
+      "duration_ms": 191220,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -595,6 +451,46 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/1s1EHjXGkOQaCPl2iY359n"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 176986,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/2W4YKFHDaMdQkpXzDjbTER"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/6CcrXh8NHk5agJtbGt0tYR"
+      },
+      "artists": [
+        {
+          "name": "Wolftyla",
+          "url": "https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 191141,
+      "name": "Butterflies (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/2I7OULYLv1IVo3Q4KOt88D"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
         "name": "BRB",
         "url": "https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2"
       },
@@ -627,6 +523,58 @@
       "duration_ms": 231222,
       "name": "Think (feat. Jay Park)",
       "url": "https://open.spotify.com/track/1CXFpNn6Zry8QziDpz7wC9"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 1",
+        "url": "https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "toigo",
+          "url": "https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG"
+        },
+        {
+          "name": "J'Kyun",
+          "url": "https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ"
+        },
+        {
+          "name": "JAMBINO",
+          "url": "https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K"
+        },
+        {
+          "name": "XINSAYNE",
+          "url": "https://open.spotify.com/artist/4yY3FsmWRwMIFXRDkMpnBS"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 265252,
+      "name": "WE (Feat. Jay Park) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/4QoOoFKhAWYOylWw2io6va"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 209392,
+      "name": "All I Wanna Do",
+      "url": "https://open.spotify.com/track/2PcJoVkfjcbvoqBxV1Nj7y"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -683,6 +631,30 @@
       "duration_ms": 187200,
       "name": "Forget About Tomorrow",
       "url": "https://open.spotify.com/track/6u7ipGHDJsBA3UOwuz0W2T"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
+        "name": "BOYCOLD",
+        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 292109,
+      "name": "h1ghr gang",
+      "url": "https://open.spotify.com/track/2fFeKfvIEJxpFbeTZ0tsJ5"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -807,30 +779,6 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "BOYCOLD",
-        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 292109,
-      "name": "h1ghr gang",
-      "url": "https://open.spotify.com/track/2fFeKfvIEJxpFbeTZ0tsJ5"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
         "name": "School Rapper4 - Team Battle:Textbook Rap Battle2",
         "url": "https://open.spotify.com/album/5ArV0JO4azUkTjbcAVkC6p"
       },
@@ -851,26 +799,6 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "Westcoast",
-        "url": "https://open.spotify.com/album/23khvZGgUKTP9J6K1qD0g1"
-      },
-      "artists": [
-        {
-          "name": "YULTRON",
-          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Westcoast",
-      "url": "https://open.spotify.com/track/3oLTFTg2LC3P3E8QhcV71I"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
         "name": "Son Malas (Feat. Jay Park)",
         "url": "https://open.spotify.com/album/7pO4kGrPiU6lQoA832UXt0"
       },
@@ -887,34 +815,6 @@
       "duration_ms": 148640,
       "name": "Son Malas",
       "url": "https://open.spotify.com/track/1nBA795YhyTO5992WmhEzW"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
-        "name": "SignHere episode1",
-        "url": "https://open.spotify.com/album/5nwsIsO5NUjZ0lDf7oMCTh"
-      },
-      "artists": [
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        },
-        {
-          "name": "RYNO",
-          "url": "https://open.spotify.com/artist/5rIOZ6g7qSlq60wITUUle2"
-        },
-        {
-          "name": "sogumm",
-          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
-        },
-        {
-          "name": "YELLA D",
-          "url": "https://open.spotify.com/artist/4D139q2zdOGkNdWHeFmIog"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Game Good (Feat. Simon Dominic) (Prod. GooseBumps & Simon Dominic)",
-      "url": "https://open.spotify.com/track/59futJ8UnUZuv3Lhu7lGWC"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -955,22 +855,30 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "Playinwitme (Remix) [feat. Jay Park]",
-        "url": "https://open.spotify.com/album/19WwEdK5A4x4bojaxaTRqT"
+        "name": "SignHere episode1",
+        "url": "https://open.spotify.com/album/5nwsIsO5NUjZ0lDf7oMCTh"
       },
       "artists": [
         {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
         },
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "RYNO",
+          "url": "https://open.spotify.com/artist/5rIOZ6g7qSlq60wITUUle2"
+        },
+        {
+          "name": "sogumm",
+          "url": "https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS"
+        },
+        {
+          "name": "YELLA D",
+          "url": "https://open.spotify.com/artist/4D139q2zdOGkNdWHeFmIog"
         }
       ],
-      "duration_ms": 193060,
-      "name": "Playinwitme (Remix) [feat. Jay Park]",
-      "url": "https://open.spotify.com/track/6aRVRfQZWy8vMmiBXu9vhy"
+      "duration_ms": 180800,
+      "name": "Game Good (Feat. Simon Dominic) (Prod. GooseBumps & Simon Dominic)",
+      "url": "https://open.spotify.com/track/59futJ8UnUZuv3Lhu7lGWC"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -1003,6 +911,46 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
+        "name": "Westcoast",
+        "url": "https://open.spotify.com/album/23khvZGgUKTP9J6K1qD0g1"
+      },
+      "artists": [
+        {
+          "name": "YULTRON",
+          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Westcoast",
+      "url": "https://open.spotify.com/track/3oLTFTg2LC3P3E8QhcV71I"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
+        "name": "Playinwitme (Remix) [feat. Jay Park]",
+        "url": "https://open.spotify.com/album/19WwEdK5A4x4bojaxaTRqT"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 193060,
+      "name": "Playinwitme (Remix) [feat. Jay Park]",
+      "url": "https://open.spotify.com/track/6aRVRfQZWy8vMmiBXu9vhy"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
         "name": "SignHere episode1",
         "url": "https://open.spotify.com/album/5nwsIsO5NUjZ0lDf7oMCTh"
       },
@@ -1023,30 +971,6 @@
       "duration_ms": 239813,
       "name": "Juice (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/3Xgttn2kqwZE4smkIlnmhE"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
-        "name": "Thuggin 4 My Baby",
-        "url": "https://open.spotify.com/album/05yZdaFZebreNpWGOssmsl"
-      },
-      "artists": [
-        {
-          "name": "YULTRON",
-          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Thuggin 4 My Baby",
-      "url": "https://open.spotify.com/track/5l4DwTPXsAREUlBiRV6qil"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -1111,6 +1035,30 @@
       "duration_ms": 258839,
       "name": "No Gravity (Prod. Jay Park & DJ Wegun & WOOGIE & GroovyRoom)",
       "url": "https://open.spotify.com/track/1gUFxP5qGhfDemzaJjkrDb"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
+        "name": "Thuggin 4 My Baby",
+        "url": "https://open.spotify.com/album/05yZdaFZebreNpWGOssmsl"
+      },
+      "artists": [
+        {
+          "name": "YULTRON",
+          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Thuggin 4 My Baby",
+      "url": "https://open.spotify.com/track/5l4DwTPXsAREUlBiRV6qil"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -1226,11 +1174,63 @@
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
         }
       ],
-      "duration_ms": 209392,
-      "name": "All I Wanna Do",
-      "url": "https://open.spotify.com/track/2PcJoVkfjcbvoqBxV1Nj7y"
+      "duration_ms": 216786,
+      "name": "All I Wanna Do (K) (Feat. Hoody & Loco)",
+      "url": "https://open.spotify.com/track/2FWquqPNxte8iqZ3ATQG0p"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
+        "name": "GANADARA",
+        "url": "https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 203727,
+      "name": "GANADARA (Feat. IU)",
+      "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
+    },
+    {
+      "added_at": "2023-04-18 01:12:29",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        },
+        {
+          "name": "WOOGIE",
+          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
+        }
+      ],
+      "duration_ms": 228226,
+      "name": "Rock With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 224951,
+      "name": "2nd THOTS",
+      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
         "name": "Thoughts Of You",
         "url": "https://open.spotify.com/album/2ZXNtjobXsbWgzcRlYGaPx"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 224520,
       "name": "Thoughts Of You (Feat. pH-1 & BENZO)",
       "url": "https://open.spotify.com/track/3NVsaXCV8RR8VGZzZlXuVX"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 224951,
-      "name": "2nd THOTS",
-      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "Ask Bout Me",
-        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Sexy 4 Eva",
-      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
         "name": "H1GHR : RED TAPE",
         "url": "https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 222432,
       "name": "World Domination",
       "url": "https://open.spotify.com/track/20QRiEt3H04E5vHJG4LDlG"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
+        "name": "Ask Bout Me",
+        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Sexy 4 Eva",
+      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
     },
     {
       "added_at": "2023-02-22 06:37:37",

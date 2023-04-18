@@ -1,12 +1,12 @@
 {
   "description": "The best indie covers. Cover: Remi Wolf",
-  "num_followers": 278479,
+  "num_followers": 278507,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIyNTA3NCwwMDAwMDAwMDhhMDhmZDc4ZjAwOWE2YTg0ZmI1ZDQ4OTk0YjYxMTZk",
+  "snapshot_id": "MTY4MTIyNTA3NCwwMDAwMDAwMGQ0NzBhZTE0MjBkZmQyOTMyY2MwMjYwOTA4NTgyNTkz",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i"
     },
     {
-      "added_at": "2023-04-17 01:35:53",
+      "added_at": "2023-04-18 01:28:42",
       "album": {
         "name": "The Moon Song",
         "url": "https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
     },
     {
-      "added_at": "2023-04-17 01:35:53",
+      "added_at": "2023-04-18 01:28:42",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
@@ -433,22 +433,6 @@
       "url": "https://open.spotify.com/track/6uWstgXnQXfnAtcowLb9mf"
     },
     {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "del mar county fair 2008",
-        "url": "https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 174888,
-      "name": "del mar county fair 2008",
-      "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "As I Rise",
@@ -463,6 +447,22 @@
       "duration_ms": 140741,
       "name": "As I Rise",
       "url": "https://open.spotify.com/track/6Tkdjq5Wg4ECxk5iCKUbAx"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "del mar county fair 2008",
+        "url": "https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 174888,
+      "name": "del mar county fair 2008",
+      "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -633,6 +633,30 @@
       "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
     },
     {
+      "added_at": "2023-01-20 05:00:00",
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        },
+        {
+          "name": "Pop Goes Ambient",
+          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
+        },
+        {
+          "name": "Amelia Magdalena",
+          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "God's Plan",
@@ -689,7 +713,7 @@
       "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
     },
     {
-      "added_at": "2023-04-17 01:35:53",
+      "added_at": "2023-04-18 01:28:42",
       "album": {
         "name": "Dancing on My Own",
         "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
@@ -703,30 +727,6 @@
       "duration_ms": 209813,
       "name": "Dancing on My Own",
       "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
-    },
-    {
-      "added_at": "2023-01-20 05:00:00",
-      "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/2ULm5UwqgPxTypBJYi0w1w"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        },
-        {
-          "name": "Pop Goes Ambient",
-          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
-        },
-        {
-          "name": "Amelia Magdalena",
-          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/3uertkdKKnKntI2kK0fDqg"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/0voD3AU9IVGAyCXeV8GeSz"
     },
     {
-      "added_at": "2023-04-17 01:35:53",
+      "added_at": "2023-04-18 01:28:42",
       "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2"
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Paul",
+        "url": "https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 187121,
+      "name": "Paul",
+      "url": "https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Candid",
         "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Paul",
-        "url": "https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 187121,
-      "name": "Paul",
-      "url": "https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Fix You",
         "url": "https://open.spotify.com/album/0GqKv6ZSLVMgbjE8gVDpkC"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Singing Other People's Love Songs",
-        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
-      },
-      "artists": [
-        {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
-        }
-      ],
-      "duration_ms": 136891,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Chandelier",
         "url": "https://open.spotify.com/album/2Rm8OQ2XIg5jJjqzdKW2Gz"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 313520,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/7w7X5rwDFXwHSqlxtsljP7"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Singing Other People's Love Songs",
+        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "duration_ms": 136891,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -949,7 +949,7 @@
       "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
     },
     {
-      "added_at": "2023-04-17 01:35:53",
+      "added_at": "2023-04-18 01:28:42",
       "album": {
         "name": "Under The Milky Way",
         "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
@@ -1037,22 +1037,6 @@
       "url": "https://open.spotify.com/track/6ApsMLGIa9zw446CrqxcEi"
     },
     {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "Hopelessly Devoted to You",
-        "url": "https://open.spotify.com/album/3KCMm1lJyjLsLa4nYuHudZ"
-      },
-      "artists": [
-        {
-          "name": "The Orion Experience",
-          "url": "https://open.spotify.com/artist/2qU0jqxiFeXrw5NTV1bIQM"
-        }
-      ],
-      "duration_ms": 147415,
-      "name": "Hopelessly Devoted to You",
-      "url": "https://open.spotify.com/track/7GTmhgsPfmpZHp0e78WYsK"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Sweater Weather (Acoustic)",
@@ -1071,6 +1055,22 @@
       "duration_ms": 150517,
       "name": "Sweater Weather (Acoustic)",
       "url": "https://open.spotify.com/track/0BbV0fKqY3jxlXYbtzN2bO"
+    },
+    {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Hopelessly Devoted to You",
+        "url": "https://open.spotify.com/album/3KCMm1lJyjLsLa4nYuHudZ"
+      },
+      "artists": [
+        {
+          "name": "The Orion Experience",
+          "url": "https://open.spotify.com/artist/2qU0jqxiFeXrw5NTV1bIQM"
+        }
+      ],
+      "duration_ms": 147415,
+      "name": "Hopelessly Devoted to You",
+      "url": "https://open.spotify.com/track/7GTmhgsPfmpZHp0e78WYsK"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
-      },
-      "artists": [
-        {
-          "name": "Julia Cooper",
-          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
-        }
-      ],
-      "duration_ms": 191875,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Fake Plastic Trees",
         "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 260000,
       "name": "Fake Plastic Trees",
       "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
+      },
+      "artists": [
+        {
+          "name": "Julia Cooper",
+          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
+        }
+      ],
+      "duration_ms": 191875,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1205,7 +1205,7 @@
       "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
     },
     {
-      "added_at": "2023-04-17 01:35:53",
+      "added_at": "2023-04-18 01:28:42",
       "album": {
         "name": "Candid",
         "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"

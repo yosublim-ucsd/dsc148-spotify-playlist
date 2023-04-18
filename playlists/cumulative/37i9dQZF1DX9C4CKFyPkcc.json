@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2022-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 225000,
       "name": "Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/5ycg3qbGRl5tDcOAtwqsDR"
@@ -1158,6 +1158,28 @@
       "duration_ms": 209268,
       "name": "Heavenly Hosts",
       "url": "https://open.spotify.com/track/73qkqix6nJuYUZQ44raWXs"
+    },
+    {
+      "album": {
+        "name": "These Christmas Lights",
+        "url": "https://open.spotify.com/album/5pgUIgHDhjfGe2rGunmU7a"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "date_added": "2022-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292973,
+      "name": "Help From Heaven",
+      "url": "https://open.spotify.com/track/1hVlhkBQWKQUcFmcCWGzDf"
     },
     {
       "album": {

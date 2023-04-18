@@ -6331,6 +6331,24 @@
     },
     {
       "album": {
+        "name": "Futuro & Momento",
+        "url": "https://open.spotify.com/album/3EwDwEAiDKPNL0Wqkteube"
+      },
+      "artists": [
+        {
+          "name": "A$TRO BOY",
+          "url": "https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126667,
+      "name": "Futuro & Momento",
+      "url": "https://open.spotify.com/track/50BMRoWfCLCLGUserYgRSy"
+    },
+    {
+      "album": {
         "name": "F\u00e1brica de Notas",
         "url": "https://open.spotify.com/album/0kYpMJcfCaRM1YPnx0SfDD"
       },
@@ -8911,6 +8929,32 @@
     },
     {
       "album": {
+        "name": "Mas Existe um Lugar",
+        "url": "https://open.spotify.com/album/7yndifwpVcv6LAZ2FVwoso"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "Kaio Viana",
+          "url": "https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4"
+        },
+        {
+          "name": "Noemi Leal",
+          "url": "https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183652,
+      "name": "Mas Existe um Lugar",
+      "url": "https://open.spotify.com/track/7IN41XfDoGETfFsARAHOsv"
+    },
+    {
+      "album": {
         "name": "Mas Existe um Lugar (speed)",
         "url": "https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w"
       },
@@ -10954,7 +10998,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 147310,
       "name": "N\u00e3o Tenha Medo",
       "url": "https://open.spotify.com/track/2qjdmv7DWgg3nLsI7sF5j7"
@@ -13346,7 +13390,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 146770,
       "name": "Quem Sou Eu",
       "url": "https://open.spotify.com/track/323l1V9fPIeC3UxaLJKMq0"
@@ -16354,6 +16398,10 @@
         {
           "name": "Mateca",
           "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        },
+        {
+          "name": "Trap Select",
+          "url": "https://open.spotify.com/artist/1VlNGdzvBRtCDPi18GuX91"
         }
       ],
       "date_added": "2023-04-14",

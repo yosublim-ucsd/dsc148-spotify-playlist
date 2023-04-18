@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-373 songs - 1 day 2 hr 37 min
+374 songs - 1 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Lords of the Hellfire Club](https://open.spotify.com/track/7qpBjLP9myvl8rrXzNDDu2) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN) | [Sea Savage](https://open.spotify.com/album/0VPRh1X9MAYGyhW1PX8HOv) | 2:31 | 2021-12-17 | 2022-03-04 |
 | [Loss of Humanity](https://open.spotify.com/track/38K2DlgRYQ9dOTutG9vwIZ) | [EXA](https://open.spotify.com/artist/1h7Hmq4S3N6KmKYhCs4J6P) | [Cut the Past](https://open.spotify.com/album/2xQVSFMtpz9g3sjhPWeBPD) | 4:51 | 2021-12-17 | 2022-02-27 |
 | [Lowlife](https://open.spotify.com/track/5BPPlNliU7Ddz1uU20MQcG) | [Cryptic Slaughter](https://open.spotify.com/artist/20ml1U2ibB2HPnPpWrJIKT) | [Convicted](https://open.spotify.com/album/7mHgdfVzpEFJ3w5ZMM1Ehv) | 2:32 | 2022-07-13 |  |
+| [Lux Æterna](https://open.spotify.com/track/18zjwSgYiwu1Meb7Po3tUP) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 3:25 | 2023-04-17 |  |
 | [M\-16](https://open.spotify.com/track/6z8KgGwhwJPSq948Vk3mWk) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [M\-16](https://open.spotify.com/album/4z5S4xdou220mwTfA2mmZn) | 4:49 | 2022-07-13 |  |
 | [M.O.A.B.](https://open.spotify.com/track/2R5VkpwntZikyvWLoeW0tp) | [Mammothor](https://open.spotify.com/artist/6L8W07NCv5iosKaHy29F46) | [M.O.A.B.](https://open.spotify.com/album/0jOS8ADvtpLrB8vkKV5JAx) | 4:04 | 2022-04-01 | 2022-07-30 |
 | [Mad Butcher](https://open.spotify.com/track/6qjOQSSLUealhSEd4Uy1dq) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [Sentence Of Death](https://open.spotify.com/album/7HOTAkNpLiNtBg70E8BhV1) | 3:30 | 2022-07-13 | 2022-07-23 |
@@ -367,7 +368,7 @@
 | [Wave of Death](https://open.spotify.com/track/6egRwYsMJ8DVJQAKOjHWou) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [The Last Rager](https://open.spotify.com/album/4fYFZrF8hQ8z94tQCa3zvU) | 1:53 | 2022-07-13 |  |
 | [Welcome To The Freakshow](https://open.spotify.com/track/4JfWOkRwd93UwkU9TqbavB) | [Ultra\-Violence](https://open.spotify.com/artist/6krhRWKGQ106VQGYdDFHAO) | [Operation Misdirection](https://open.spotify.com/album/2ILFNiol36zJ17ZuiTYPMe) | 2:54 | 2021-12-17 | 2022-07-27 |
 | [Whiplash \(Remastered\)](https://open.spotify.com/track/0c7TUi67lKsso6WAKpOVzu) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Deluxe Remaster\)](https://open.spotify.com/album/7GttoSWxEi5lZvIWeSrh6n) | 4:08 | 2022-09-09 | 2022-11-13 |
-| [Whiplash \(Remastered\)](https://open.spotify.com/track/4k1IS2uF2dGcU3GzOOZqqb) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o) | 4:08 | 2022-07-13 |  |
+| [Whiplash \(Remastered\)](https://open.spotify.com/track/4k1IS2uF2dGcU3GzOOZqqb) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o) | 4:08 | 2022-07-13 | 2023-04-18 |
 | [Whiplash \- Remastered](https://open.spotify.com/track/38fIaph07Kd8ZIN6l17ZJs) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Kill 'Em All \(Remastered\)](https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ) | 4:08 | 2022-07-13 | 2022-07-29 |
 | [Will](https://open.spotify.com/track/1McVG4zrAtMTRrZkYEjo15) | [Devil In Me](https://open.spotify.com/artist/4iJJYo1VWZPEvJzE8YxXqL) | [Will](https://open.spotify.com/album/3ysfhAWXBoxPtB8gMnNUK0) | 2:49 | 2021-12-17 | 2022-02-28 |
 | [Winds Of Slaughter](https://open.spotify.com/track/1st60RcopofZkit6bSltag) | [Shrapnel](https://open.spotify.com/artist/5svar5SaK3U0NvKzTUPGjf) | [Winds Of Slaughter](https://open.spotify.com/album/1Mc6fY65sHE2Jkx7a27d9h) | 4:44 | 2021-12-17 | 2022-07-28 |

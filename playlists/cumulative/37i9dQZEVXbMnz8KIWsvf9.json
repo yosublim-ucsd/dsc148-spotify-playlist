@@ -1788,7 +1788,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 195163,
       "name": "Dum Dum",
       "url": "https://open.spotify.com/track/4XhdM1Ku9JM4abVuRWAsgk"
@@ -6988,7 +6988,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 136000,
       "name": "TOY",
       "url": "https://open.spotify.com/track/2YRHRAT0c0g4WIZjsf9clK"
@@ -9202,7 +9202,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 285584,
       "name": "\u0e22\u0e34\u0e49\u0e21\u0e17\u0e31\u0e49\u0e07\u0e19\u0e49\u0e33\u0e15\u0e32",
       "url": "https://open.spotify.com/track/1m1aNI4vjnwmrxateBIXgK"
@@ -11160,6 +11160,24 @@
       "duration_ms": 185573,
       "name": "\u6b7b\u306c\u306e\u304c\u3044\u3044\u308f",
       "url": "https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6"
+    },
+    {
+      "album": {
+        "name": "THE SECOND STEP : CHAPTER TWO (JP EDITION)",
+        "url": "https://open.spotify.com/album/1ITJ3AY63eEUnMxZTV735E"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204614,
+      "name": "\u75c5",
+      "url": "https://open.spotify.com/track/16Dklj36BXIa9bY1ZgP7DK"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbMnz8KIWsvf9"

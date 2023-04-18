@@ -1,13 +1,29 @@
 {
   "description": "De lunes a domingo, descubre un tema elegido por tus editores de Spotify.",
-  "num_followers": 421787,
+  "num_followers": 421798,
   "original_name": "Canci\u00f3n del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1NTYwMCwwMDAwMDAwMDQxN2ZlMTQ4MGQwODllMTc1ZWU3OTE1YjY1Y2UyNjdj",
+  "snapshot_id": "MTY4MTc0NjUwMiwwMDAwMDAwMDg5YTgxZGNhZDZiMTk3MzE2ZjM3ZDNkYzJlN2Y3ZWEx",
   "tracks": [
+    {
+      "added_at": "2023-04-17 15:48:22",
+      "album": {
+        "name": "Diamante Roto",
+        "url": "https://open.spotify.com/album/2uVFSNl6CyYRYVhRwxZm2t"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 181766,
+      "name": "Diamante Roto",
+      "url": "https://open.spotify.com/track/4pvkKHtaudkch7Zk3am1hS"
+    },
     {
       "added_at": "2023-04-14 07:00:00",
       "album": {
@@ -883,30 +899,6 @@
       "duration_ms": 189608,
       "name": "Mala Mia",
       "url": "https://open.spotify.com/track/1gPDUmzf3TviGRmSUnwst0"
-    },
-    {
-      "added_at": "2023-04-10 18:00:00",
-      "album": {
-        "name": "Arketipo Temporada 2",
-        "url": "https://open.spotify.com/album/5zcLt8Qw4QCNH48l0CBjyu"
-      },
-      "artists": [
-        {
-          "name": "El Arkeologo",
-          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
-        },
-        {
-          "name": "Gambeta",
-          "url": "https://open.spotify.com/artist/1ansBUwEboqKX6Fm31txU4"
-        },
-        {
-          "name": "Lianna",
-          "url": "https://open.spotify.com/artist/0DvVlPVedwq6LF3jQqkZXa"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Red Velvet",
-      "url": "https://open.spotify.com/track/6VPXeQLMC7hpFdJjyeDMvW"
     }
   ],
   "unique_name": "Canci\u00f3n del D\u00eda",

@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:trance\_progressive">trance and progressive</a>.
 
-601 songs - 1 day 12 hr 53 min
+602 songs - 1 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Gratitude](https://open.spotify.com/track/0KU8W0lHfsNlH7lfV1dz29) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Marty Longstaff](https://open.spotify.com/artist/0JtMH7U9d7Z8pOSBz2U8Wn) | [Gratitude](https://open.spotify.com/album/0wyLwBTTorS8W4yHXJNPGj) | 3:53 | 2022-04-15 | 2022-10-08 |
 | [Gravity](https://open.spotify.com/track/0WU0YiTidd4MBZm8k41B92) | [Taylor Torrence](https://open.spotify.com/artist/4PhWdminU7odBReTmyyZrH), [Elara](https://open.spotify.com/artist/0csxaKH8pDLL39JSy6rpGX) | [Gravity](https://open.spotify.com/album/7eS3KoZbCYz7h5tbBHxgRq) | 4:16 | 2022-03-04 | 2023-03-04 |
 | [Great Ocean Road](https://open.spotify.com/track/70CgMVGi2L6ZMZeTPqFFbC) | [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy), [Jordan Tobias](https://open.spotify.com/artist/0hMFrL7Fn79LC30jv0h9l3), [That Girl](https://open.spotify.com/artist/7AF04fxdnfv9qKODrd0poh) | [Great Ocean Road](https://open.spotify.com/album/2EPd7BNNI9zY3MEgSdV2kr) | 3:14 | 2022-02-04 | 2022-05-28 |
+| [Greatest Gift](https://open.spotify.com/track/3LznVdJVVTLxYY7iXkVdWT) | [Roger Shah](https://open.spotify.com/artist/3dAnWbqTzCOK1jdiK2v3gI), [Ambedo](https://open.spotify.com/artist/58TFIrb4R2yFMkiGv5b5HV), [Yelow](https://open.spotify.com/artist/0GLDtPfnUd5hQ18yba1xDi), [Capri](https://open.spotify.com/artist/36BbBuMd9ZJHGxYrPbcB84) | [Greatest Gift](https://open.spotify.com/album/4auc1shQt7cTIWHaVt3caC) | 3:40 | 2023-04-07 |  |
 | [Halcyon](https://open.spotify.com/track/0VWxONjwAB5ECKUDKDfYD2) | [Exouler](https://open.spotify.com/artist/0iGNYF6J9JmfpBHAmYAucM) | [True Hits, Vol\. 8](https://open.spotify.com/album/1THD37jO55fFKytiSpskWQ) | 3:40 | 2022-07-22 |  |
 | [Halcyon](https://open.spotify.com/track/1UwdPwhkyr8X4lr0HAoKMV) | [Matt Fax](https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV) | [Halcyon / Mirage](https://open.spotify.com/album/5poQ53iK8aEysv02gdjWkZ) | 3:45 | 2022-11-25 |  |
 | [Halfway](https://open.spotify.com/track/5L1QyeUnZFi81hOnj6RsoR) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [Halfway](https://open.spotify.com/album/3IYVqDEsGUltuWbk4lORHH) | 2:50 | 2022-04-15 | 2022-04-19 |
@@ -362,7 +363,7 @@
 | [Never Be Alone](https://open.spotify.com/track/6FAK5GkhC4kanPdOGTlWhz) | [Kudus](https://open.spotify.com/artist/6s69joiC63fdwO83zTquv8), [Mirjam Tumaini](https://open.spotify.com/artist/0VIpOJKQgRWdlBhePFUOpd) | [Never Be Alone](https://open.spotify.com/album/52zvyjKhpOAr2tMmPj1Qbo) | 3:06 | 2022-06-17 |  |
 | [Never Cry Again](https://open.spotify.com/track/4EEBn0pbdBm3eUk5WEyizA) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [Whiteout](https://open.spotify.com/artist/35wRsBUrfQziBPzvJTr9bt) | [Never Cry Again](https://open.spotify.com/album/5atYDx8R2Nd8DAKRbO7TJa) | 3:50 | 2022-10-14 | 2023-01-14 |
 | [Never Fade Away \- Maarten de Jong Remix](https://open.spotify.com/track/6sscfnG0RcwxteRjd6VduT) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb), [Lo\-Fi Sugar](https://open.spotify.com/artist/7dgk105OUyKcy7lfUn5uHy), [Maarten de Jong](https://open.spotify.com/artist/1Rkbc6XIHQ89uq9n1a8kGY) | [Never Fade Away \(Maarten de Jong Remix\)](https://open.spotify.com/album/79ZPuDNVySkxCXUgDdML8h) | 3:54 | 2022-01-14 | 2023-02-25 |
-| [Never Say Goodbye](https://open.spotify.com/track/3XTzLevBhCJQ0h6aDUwWBA) | [Miss Rodriguez](https://open.spotify.com/artist/4yZGU0gzItG1ItNaTGKhiP) | [Never Say Goodbye](https://open.spotify.com/album/5M7fL4Kmiv0bHuDFiEGtii) | 3:16 | 2023-04-07 |  |
+| [Never Say Goodbye](https://open.spotify.com/track/3XTzLevBhCJQ0h6aDUwWBA) | [Miss Rodriguez](https://open.spotify.com/artist/4yZGU0gzItG1ItNaTGKhiP) | [Never Say Goodbye](https://open.spotify.com/album/5M7fL4Kmiv0bHuDFiEGtii) | 3:16 | 2023-04-07 | 2023-04-18 |
 | [Never Temporary](https://open.spotify.com/track/6QC21eD5NwF4H6o14yF6rc) | [Greg Oakland](https://open.spotify.com/artist/74OcjgGgrViwZT8BfZS0gA), [Tara Louise](https://open.spotify.com/artist/6rCzXE6L3H7Eihb4BgGTRU) | [Never Temporary](https://open.spotify.com/album/6NV6WnE3q9YxhglZoWt6f3) | 4:00 | 2023-04-07 | 2023-04-10 |
 | [Never Thought I'd Find You](https://open.spotify.com/track/6J4oCRJ3IKS2WYlbU4r2ly) | [Dj T.H.](https://open.spotify.com/artist/4ulezsrIi1ZZ4uUx1QqasZ), [Jam Da Bass](https://open.spotify.com/artist/3Gk4dBkVDyEMcCkW0GTd8I), [Jaki Nelson](https://open.spotify.com/artist/7oz4dlYyj9jadcbGJq1jwx) | [Never Thought I’d Find You](https://open.spotify.com/album/1JlKTPdTwCeuwtpEXd4oCt) | 5:40 | 2023-04-07 |  |
 | [New Beginning](https://open.spotify.com/track/3mSvm233eEIHKM51fsvhie) | [ReOrder](https://open.spotify.com/artist/6wfno0FdSaJa3DHHBuY1jy) | [New Beginning](https://open.spotify.com/album/0krjoAvDBsUqcDwniaar7X) | 3:31 | 2022-03-25 | 2023-03-07 |

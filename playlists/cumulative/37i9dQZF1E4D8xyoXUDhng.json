@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Saints In Praise",
+        "url": "https://open.spotify.com/album/5CuCkOSWpR1shF8tV8TzH6"
+      },
+      "artists": [
+        {
+          "name": "West Angeles Cogic Mass Choir And Congregation",
+          "url": "https://open.spotify.com/artist/73uuFguS457tkIlBOgQvpx"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374600,
+      "name": "Adoration Medley - Live",
+      "url": "https://open.spotify.com/track/26nSbcWMhPKRC5uKGvlOuJ"
+    },
+    {
+      "album": {
         "name": "The Broken Instrument",
         "url": "https://open.spotify.com/album/5NLCrRypAi1t9hwKi6w9jG"
       },
@@ -1167,6 +1185,24 @@
     },
     {
       "album": {
+        "name": "#thespirituals",
+        "url": "https://open.spotify.com/album/0znQ7aSFIooTjLYDRb37cf"
+      },
+      "artists": [
+        {
+          "name": "ACM Gospel Choir",
+          "url": "https://open.spotify.com/artist/4XUjYkrgrCyiWnjD9h0SuD"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192211,
+      "name": "Ev'ry Time I Feel the Spirit",
+      "url": "https://open.spotify.com/track/4UUhU4pwAW7TMve55d8TZ5"
+    },
+    {
+      "album": {
         "name": "The Best Gospel Songs Ever",
         "url": "https://open.spotify.com/album/5nWYAnQYCMjNZJQRWquhVi"
       },
@@ -1178,7 +1214,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 242506,
       "name": "Every Praise",
       "url": "https://open.spotify.com/track/50QimSjdNdPEE0ddkqhpc5"
@@ -1994,7 +2030,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 329166,
       "name": "Highlight God (Poem)",
       "url": "https://open.spotify.com/track/7w7KI5de1BEQVmeq3nhLSR"
@@ -2012,7 +2048,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 212173,
       "name": "His Eye Is On The Sparrow",
       "url": "https://open.spotify.com/track/65QGMwTh15KhXgqjSCIWSr"
@@ -2066,7 +2102,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 279040,
       "name": "Holy Is The Lamb",
       "url": "https://open.spotify.com/track/314gW9paIqnhLx9ajEGwj8"
@@ -2272,7 +2308,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 296373,
       "name": "I Love The Lord (with Georgia Mass Choir)",
       "url": "https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY"
@@ -2751,6 +2787,24 @@
     },
     {
       "album": {
+        "name": "Bebe & Cece Winans",
+        "url": "https://open.spotify.com/album/04yzZmFa7utzY9bZH4PlgO"
+      },
+      "artists": [
+        {
+          "name": "Bebe & Cece Winans",
+          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232760,
+      "name": "In Return",
+      "url": "https://open.spotify.com/track/2KssxEq22uVJzXzu4K393p"
+    },
+    {
+      "album": {
         "name": "Bringing It Back Home",
         "url": "https://open.spotify.com/album/62KnQkbZsmhz5y9q6Gs2m2"
       },
@@ -2802,7 +2856,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 243893,
       "name": "It's All In The Worship",
       "url": "https://open.spotify.com/track/7CLwhGARPJHLobduuM3wGO"
@@ -2994,7 +3048,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 224332,
       "name": "Jesus Keep Me Near the Cross",
       "url": "https://open.spotify.com/track/48mvXNlAbV4fBM4Td4OJgm"
@@ -3360,7 +3414,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 336586,
       "name": "Lord Prepare Me To Be A Sanctuary",
       "url": "https://open.spotify.com/track/3LDSvaUzc679GPLE1Uwz5c"
@@ -3498,7 +3552,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 62000,
       "name": "Loving Father",
       "url": "https://open.spotify.com/track/4LOiSOxdMM7LwENsMbOwRW"
@@ -3932,7 +3986,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-30",
+      "date_removed": null,
       "duration_ms": 461800,
       "name": "My Help",
       "url": "https://open.spotify.com/track/0W8RhOqOvJdZNPYSgaxhSn"
@@ -4040,7 +4094,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 183968,
       "name": "O Come O Come Emmanuel",
       "url": "https://open.spotify.com/track/7hicYsdPGS2EQUlqXalwti"
@@ -4102,7 +4156,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 278453,
       "name": "Oh Lord How Excellent Is Thy Name",
       "url": "https://open.spotify.com/track/3A5H5S7z4keCQCT2WrXYAI"
@@ -4120,7 +4174,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 86893,
       "name": "Oh Sweet Wonder",
       "url": "https://open.spotify.com/track/2ppQGZRiNam0Nf2BFlowqa"
@@ -4564,7 +4618,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 208472,
       "name": "Safe In His Arms",
       "url": "https://open.spotify.com/track/3aqTs1agcNKsBo6verQzus"
@@ -4992,7 +5046,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 258573,
       "name": "Sooner or Later",
       "url": "https://open.spotify.com/track/1Qjp4VEOz7usvQTDLf3D2I"
@@ -5180,7 +5234,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 208400,
       "name": "Swing Low Street Chariot",
       "url": "https://open.spotify.com/track/39dKSYYC02JQdxnPHblfE7"
@@ -5274,7 +5328,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 99443,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1pTkbmcMNIaQiGiyOXFuj7"
@@ -6124,7 +6178,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 576133,
       "name": "Worship Medley: If It Had Not Been For The Lord On My Side / Great Is Thy Faithfulness / The King Of Who I Am",
       "url": "https://open.spotify.com/track/59bn1Nohw3uUtYmOJZKPVS"
@@ -6160,7 +6214,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 214600,
       "name": "You Amaze Me - I Just Want You Album Version",
       "url": "https://open.spotify.com/track/3LhV1K7c2PtAdmEdANSLxd"

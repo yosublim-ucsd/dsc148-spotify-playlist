@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY2MzYwMCwwMDAwMDAwMDdiY2QzYjg3ZTg4ZjNjZmMwYTFmMjhjZjg3NGNmMTU2",
+  "snapshot_id": "MTY4MDY2MzYwMCwwMDAwMDAwMDZhYjI0NDExZGQwYzljYWZmYWI2ZGE0YmUyMzYyZGI0",
   "tracks": [
     {
       "added_at": "2023-04-05 03:00:00",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
+        "name": "TOP",
+        "url": "https://open.spotify.com/album/7FPR6NSBtUXM1jwuybfD2L"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "duration_ms": 95008,
+      "name": "TOP",
+      "url": "https://open.spotify.com/track/6qFEielNbJIiwgIbZA24nQ"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
         "name": "UWU",
         "url": "https://open.spotify.com/album/7vkaUsnmcEXuSIkQ58vRGt"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 181983,
       "name": "SHAMPOO",
       "url": "https://open.spotify.com/track/5nQNuWgtRHzQXTmnrb2Ysn"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
-        "name": "TOP",
-        "url": "https://open.spotify.com/album/7FPR6NSBtUXM1jwuybfD2L"
-      },
-      "artists": [
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        }
-      ],
-      "duration_ms": 95008,
-      "name": "TOP",
-      "url": "https://open.spotify.com/track/6qFEielNbJIiwgIbZA24nQ"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "Algo",
-        "url": "https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb"
-      },
-      "artists": [
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 168841,
-      "name": "Algo",
-      "url": "https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
         "name": "Mosaicos",
         "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
       },
@@ -351,22 +335,6 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "Dwele",
-        "url": "https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz"
-      },
-      "artists": [
-        {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Dwele",
-      "url": "https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
         "name": "Llorando en la Fiesta",
         "url": "https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD"
       },
@@ -379,6 +347,38 @@
       "duration_ms": 191170,
       "name": "Rothmans",
       "url": "https://open.spotify.com/track/1mhq1CwMSZD6hITfzm6AzE"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
+        "name": "Algo",
+        "url": "https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb"
+      },
+      "artists": [
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 168841,
+      "name": "Algo",
+      "url": "https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
+        "name": "Dwele",
+        "url": "https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Dwele",
+      "url": "https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "UN N\u00daMERO",
-        "url": "https://open.spotify.com/album/5q6ysT1TcmswkV4c86d2bI"
-      },
-      "artists": [
-        {
-          "name": "LUPE",
-          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
-        }
-      ],
-      "duration_ms": 103656,
-      "name": "DNI",
-      "url": "https://open.spotify.com/track/7pm3ArAgPXyT5kgk0RYLpW"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
         "name": "Mosaicos",
         "url": "https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC"
       },
@@ -575,22 +559,6 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "Azul Es Donde Siempre Estoy",
-        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "BF4E",
-      "url": "https://open.spotify.com/track/6Dad5XKRcJ3m8dQapu3fjG"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
         "name": "Miseria",
         "url": "https://open.spotify.com/album/6OvaaOohiSRpW9w9iJ0gAM"
       },
@@ -607,6 +575,38 @@
       "duration_ms": 140444,
       "name": "Miseria",
       "url": "https://open.spotify.com/track/133WrLbDi3hHdqnmivs1yX"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
+        "name": "UN N\u00daMERO",
+        "url": "https://open.spotify.com/album/5q6ysT1TcmswkV4c86d2bI"
+      },
+      "artists": [
+        {
+          "name": "LUPE",
+          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+        }
+      ],
+      "duration_ms": 103656,
+      "name": "DNI",
+      "url": "https://open.spotify.com/track/7pm3ArAgPXyT5kgk0RYLpW"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
+        "name": "Azul Es Donde Siempre Estoy",
+        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "BF4E",
+      "url": "https://open.spotify.com/track/6Dad5XKRcJ3m8dQapu3fjG"
     },
     {
       "added_at": "2023-04-05 03:00:00",

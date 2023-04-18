@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 203562,
       "name": "Envenenao",
       "url": "https://open.spotify.com/track/0mRasKLNRK934lWvxf5dss"
@@ -2870,6 +2870,24 @@
       "duration_ms": 185039,
       "name": "No Necesito",
       "url": "https://open.spotify.com/track/2JF8yg6KMD8CXmYRThVFPH"
+    },
+    {
+      "album": {
+        "name": "\"No Pasa De Moda\" - Gabriel Pagan",
+        "url": "https://open.spotify.com/album/48vQQD0fnP8eE3EPYai0qm"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Pagan",
+          "url": "https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167689,
+      "name": "No Pasa De Moda",
+      "url": "https://open.spotify.com/track/2yAU2njV0eS9iVJKf22Eoc"
     },
     {
       "album": {

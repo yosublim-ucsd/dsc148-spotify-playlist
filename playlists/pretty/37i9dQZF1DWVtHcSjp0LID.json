@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 54904,
+  "num_followers": 54959,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGFiOTExY2FhNDQ4ODViZjkzZWIyYjUyMmJmMzAzYTc0",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGQ0MDlmMmUwMGFhYWNhOTQ1Y2I1ZmRkMzg1OTVlYjIx",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -119,26 +119,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Opal (Four Tet Remix)",
-        "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 494256,
-      "name": "Opal - Four Tet Remix",
-      "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Mind Doodles",
         "url": "https://open.spotify.com/album/2Zlm5KWIiAgooWhwWdM8xI"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 421306,
       "name": "Singularity",
       "url": "https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Opal (Four Tet Remix)",
+        "url": "https://open.spotify.com/album/2cPmeKiyUBdYDyFG3nbPpN"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 494256,
+      "name": "Opal - Four Tet Remix",
+      "url": "https://open.spotify.com/track/3VtTuQ6lypMoOBcm6VMzdh"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -263,6 +263,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "In Colour",
+        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        }
+      ],
+      "duration_ms": 291018,
+      "name": "Gosh",
+      "url": "https://open.spotify.com/track/4mlZurguzNJior9siewA8C"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Unity Pt. 2",
         "url": "https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "In Colour",
-        "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        }
-      ],
-      "duration_ms": 291018,
-      "name": "Gosh",
-      "url": "https://open.spotify.com/track/4mlZurguzNJior9siewA8C"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Bicep",
         "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
       },
@@ -311,6 +311,22 @@
       "duration_ms": 216267,
       "name": "Ayaya",
       "url": "https://open.spotify.com/track/25L371GlKBBBnIJhtlYRVI"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Syvsover",
+        "url": "https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 360118,
+      "name": "Ghostly",
+      "url": "https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -331,22 +347,6 @@
       "duration_ms": 286186,
       "name": "What Have You Done To Me?",
       "url": "https://open.spotify.com/track/6Y1i876TjV3Gmf9eUIs8Fw"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Syvsover",
-        "url": "https://open.spotify.com/album/3Se55Em2mSqYwuQLqS7XDb"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 360118,
-      "name": "Ghostly",
-      "url": "https://open.spotify.com/track/0nKe1H75sjT2lQMH1gjR3e"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Arterial",
-        "url": "https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH"
-      },
-      "artists": [
-        {
-          "name": "Lusine",
-          "url": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
-        }
-      ],
-      "duration_ms": 254962,
-      "name": "Arterial",
-      "url": "https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Pacer",
         "url": "https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 459081,
       "name": "Pacer",
       "url": "https://open.spotify.com/track/7edXzWL0NdmKOpGe6NKHyO"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Arterial",
+        "url": "https://open.spotify.com/album/11IULm1RrL6acmTm3qQzLH"
+      },
+      "artists": [
+        {
+          "name": "Lusine",
+          "url": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
+        }
+      ],
+      "duration_ms": 254962,
+      "name": "Arterial",
+      "url": "https://open.spotify.com/track/5G67YWTwKKRBkk1EH8aw3S"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/0UMTI5aZGLWvKF68r9jQ0I"
-      },
-      "artists": [
-        {
-          "name": "Coeo",
-          "url": "https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z"
-        }
-      ],
-      "duration_ms": 416652,
-      "name": "Timid Dancer",
-      "url": "https://open.spotify.com/track/6By61fFlJmZ4FjNTbc0Z5w"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Science Is Science",
         "url": "https://open.spotify.com/album/1BHST3ipVCc0i32OcXX1i7"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 423445,
       "name": "Bassment Dweller - Original Mix",
       "url": "https://open.spotify.com/track/27kxG6am8GnYowF9HQPuzX"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/0UMTI5aZGLWvKF68r9jQ0I"
+      },
+      "artists": [
+        {
+          "name": "Coeo",
+          "url": "https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z"
+        }
+      ],
+      "duration_ms": 416652,
+      "name": "Timid Dancer",
+      "url": "https://open.spotify.com/track/6By61fFlJmZ4FjNTbc0Z5w"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Dance Machine",
+        "url": "https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn"
+      },
+      "artists": [
+        {
+          "name": "Stereoclip",
+          "url": "https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL"
+        },
+        {
+          "name": "Jim Henderson",
+          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
+        }
+      ],
+      "duration_ms": 340100,
+      "name": "Dance Machine - Original Mix",
+      "url": "https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Occasional Magic Remixes EP",
         "url": "https://open.spotify.com/album/1LpyYD31piweVGq8HIhv2n"
       },
@@ -1103,42 +1123,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Dance Machine",
-        "url": "https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn"
-      },
-      "artists": [
-        {
-          "name": "Stereoclip",
-          "url": "https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL"
-        },
-        {
-          "name": "Jim Henderson",
-          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
-        }
-      ],
-      "duration_ms": 340100,
-      "name": "Dance Machine - Original Mix",
-      "url": "https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "The Scientific Method, Vol 2",
-        "url": "https://open.spotify.com/album/7gf1BNF4YoliT6y24RSUhb"
-      },
-      "artists": [
-        {
-          "name": "Professor Kliq",
-          "url": "https://open.spotify.com/artist/6hEcaHTpPQm6jLrbkUKREW"
-        }
-      ],
-      "duration_ms": 315733,
-      "name": "Overhead",
-      "url": "https://open.spotify.com/track/1QuON1epjuRDg6PbGGLKCb"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Vasudeva",
         "url": "https://open.spotify.com/album/0MonXllNzp5GeLEGopQE5G"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 355540,
       "name": "Lefty's Bar",
       "url": "https://open.spotify.com/track/3zsDzU5rmhseMKqSaJUjKc"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "The Scientific Method, Vol 2",
+        "url": "https://open.spotify.com/album/7gf1BNF4YoliT6y24RSUhb"
+      },
+      "artists": [
+        {
+          "name": "Professor Kliq",
+          "url": "https://open.spotify.com/artist/6hEcaHTpPQm6jLrbkUKREW"
+        }
+      ],
+      "duration_ms": 315733,
+      "name": "Overhead",
+      "url": "https://open.spotify.com/track/1QuON1epjuRDg6PbGGLKCb"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1239,38 +1239,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Ars Vivendi",
-        "url": "https://open.spotify.com/album/5uYfpev9L3tOSEr0OMGI1F"
-      },
-      "artists": [
-        {
-          "name": "Eisket",
-          "url": "https://open.spotify.com/artist/7dg92RF0oCciOkdpRwtskK"
-        }
-      ],
-      "duration_ms": 381406,
-      "name": "Ars Vivendi",
-      "url": "https://open.spotify.com/track/6KQesAONxYMlSrcmapTqDm"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Frekk EP",
-        "url": "https://open.spotify.com/album/1OEm5cnudsYGee21Ic1nYE"
-      },
-      "artists": [
-        {
-          "name": "Async",
-          "url": "https://open.spotify.com/artist/5PZlBEt3wsD3kAw6i7Mz0t"
-        }
-      ],
-      "duration_ms": 474009,
-      "name": "Deepart 8.0",
-      "url": "https://open.spotify.com/track/1TmgIqBZJsMvs4p96tEWrI"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Reachy Prints",
         "url": "https://open.spotify.com/album/1gEUsLhMFziQj29kuo65hk"
       },
@@ -1283,6 +1251,22 @@
       "duration_ms": 288554,
       "name": "Hawkmoth",
       "url": "https://open.spotify.com/track/0LQwjyPTElZ4rKxJXEPFnq"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Ars Vivendi",
+        "url": "https://open.spotify.com/album/5uYfpev9L3tOSEr0OMGI1F"
+      },
+      "artists": [
+        {
+          "name": "Eisket",
+          "url": "https://open.spotify.com/artist/7dg92RF0oCciOkdpRwtskK"
+        }
+      ],
+      "duration_ms": 381406,
+      "name": "Ars Vivendi",
+      "url": "https://open.spotify.com/track/6KQesAONxYMlSrcmapTqDm"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Deep Blues",
-        "url": "https://open.spotify.com/album/3COd0dLoCxArPMX6EN1U6s"
+        "name": "Frekk EP",
+        "url": "https://open.spotify.com/album/1OEm5cnudsYGee21Ic1nYE"
       },
       "artists": [
         {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+          "name": "Async",
+          "url": "https://open.spotify.com/artist/5PZlBEt3wsD3kAw6i7Mz0t"
         }
       ],
-      "duration_ms": 525200,
-      "name": "End Title - Art of Tones Remix",
-      "url": "https://open.spotify.com/track/4JFjJqCYitt1NGcpXZ6xsR"
+      "duration_ms": 474009,
+      "name": "Deepart 8.0",
+      "url": "https://open.spotify.com/track/1TmgIqBZJsMvs4p96tEWrI"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1363,6 +1347,22 @@
       "duration_ms": 478373,
       "name": "Everything",
       "url": "https://open.spotify.com/track/7hnloYYhI8mr4ZuT4H2ZuS"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Deep Blues",
+        "url": "https://open.spotify.com/album/3COd0dLoCxArPMX6EN1U6s"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 525200,
+      "name": "End Title - Art of Tones Remix",
+      "url": "https://open.spotify.com/track/4JFjJqCYitt1NGcpXZ6xsR"
     }
   ],
   "unique_name": "Deep Study",

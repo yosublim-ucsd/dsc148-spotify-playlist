@@ -4,7 +4,7 @@
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-160 songs - 11 hr 13 min
+161 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Crazy He Calls Me](https://open.spotify.com/track/3737oBAK0AEMMGxOdjM5xW) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Trav'lin' Light](https://open.spotify.com/album/03Xem2BGYv3uVW7bQpBVuQ) | 3:27 | 2022-05-12 |  |
 | [Cry Me A River](https://open.spotify.com/track/1ZAJSDOejLqTsKZ5LSvCOv) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Dexter Blows Hot & Cool](https://open.spotify.com/album/007UOKwZqyvqWhjcIHlYqI) | 3:42 | 2023-03-17 |  |
 | [D & E](https://open.spotify.com/track/6IXPs28Up5f65Wg3sHzBsS) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [We Get Requests](https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40) | 5:10 | 2022-05-12 |  |
-| [Darn That Dream \- Live In Los Angeles, 1954](https://open.spotify.com/track/6BLqrmuRTePFJEbmSNCilF) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah Jams \(Live\)](https://open.spotify.com/album/2QjkCel3cxXA573yPStwVg) | 5:14 | 2022-05-12 |  |
+| [Darn That Dream \- Live In Los Angeles, 1954](https://open.spotify.com/track/6BLqrmuRTePFJEbmSNCilF) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Dinah Jams \(Live\)](https://open.spotify.com/album/2QjkCel3cxXA573yPStwVg) | 5:14 | 2022-05-12 | 2023-04-18 |
 | [Dear Lord](https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Dear Old Stockholm](https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k) | 5:30 | 2022-05-12 |  |
 | [Dedicated To You](https://open.spotify.com/track/7981FAW8DbDs1ueK4Ha8R2) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:32 | 2022-05-12 |  |
 | [Diane](https://open.spotify.com/track/1Bc6DBlULAm002j4GeXP68) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Steamin' \[Rudy Van Gelder edition\]](https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ) | 7:47 | 2022-05-12 |  |
@@ -75,6 +75,7 @@
 | [I'm Old Fashioned](https://open.spotify.com/track/2DZdof9VHreWvnCBAuhNr2) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 5:03 | 2022-05-12 | 2023-03-18 |
 | [I'm Through With Love](https://open.spotify.com/track/0GoXM92wupNu7ydgt826Oz) | [Arthur Prysock](https://open.spotify.com/artist/6yJZMmgqsTjH6ooVALu7oT) | [Jazz 'Round Midnight: Ballads](https://open.spotify.com/album/7vFkvIbJVMmVx9sou1UXZY) | 3:42 | 2023-03-17 |  |
 | [I'm Through With Love](https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT) | [Lorez Alexandria](https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY) | [Alexandria The Great](https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9) | 5:25 | 2023-03-17 |  |
+| [If I Had You \- Bonus Track](https://open.spotify.com/track/54U0BdTlsSah7SI6bxJeF6) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [For Those In Love \(Expanded Edition\)](https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2) | 4:45 | 2023-04-14 |  |
 | [Indian Summer](https://open.spotify.com/track/7IFQTbvDmVAH7XuJiEhoYc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Wrapped Tight](https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e) | 5:01 | 2022-05-12 | 2023-02-17 |
 | [It Ain't Necessarily So](https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The George Gershwin Song Book](https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a) | 2:48 | 2022-05-12 |  |
 | [It Had To Be You](https://open.spotify.com/track/6nRX1T6aaqZLIA4KUldLTC) | [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Great Ladies Of Song / Spotlight On Dinah Shore](https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy) | 3:24 | 2022-05-12 |  |

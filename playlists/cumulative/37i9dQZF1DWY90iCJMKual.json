@@ -1051,6 +1051,28 @@
     },
     {
       "album": {
+        "name": "Lambing (feat. Kiyo)",
+        "url": "https://open.spotify.com/album/6l0kQa5M2byUTlTE3vQPug"
+      },
+      "artists": [
+        {
+          "name": "KINDRED",
+          "url": "https://open.spotify.com/artist/20bisCfPMhrXJH4Wv5lmh1"
+        },
+        {
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "Lambing (feat. Kiyo)",
+      "url": "https://open.spotify.com/track/0daJYm6XQNjKKiIrddULNH"
+    },
+    {
+      "album": {
         "name": "Late Night Drive",
         "url": "https://open.spotify.com/album/5bOLs8MfFRAvnZxQiHTYoy"
       },
@@ -1622,6 +1644,24 @@
       "duration_ms": 177741,
       "name": "RBND",
       "url": "https://open.spotify.com/track/0aHciOWN2wx4tVCv0lwZqs"
+    },
+    {
+      "album": {
+        "name": "Right Time",
+        "url": "https://open.spotify.com/album/7IMA9Uv2Eys0tNrQ1ImYrE"
+      },
+      "artists": [
+        {
+          "name": "John Roa",
+          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208125,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/1i1qzqAEak05032RuwcrTY"
     },
     {
       "album": {

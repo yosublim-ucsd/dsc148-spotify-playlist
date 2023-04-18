@@ -1,15 +1,15 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 85206,
+  "num_followers": 85265,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI1ODAxOCwwMDAwMDAwMDAzMTY4OWUzNzlmZDg3NjExZmI0OWZkZjNiOTBkZDU5",
+  "snapshot_id": "MTY4MDI1ODAxOCwwMDAwMDAwMGQzMDVkMWFlMmVkY2Q4NmQ0MWFlNTRjYTgwY2U5YmI0",
   "tracks": [
     {
-      "added_at": "2023-04-17 01:11:39",
+      "added_at": "2023-04-18 00:59:50",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 239002,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
+    },
+    {
+      "added_at": "2023-02-28 10:17:04",
+      "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7"
       },
@@ -187,6 +203,22 @@
       "duration_ms": 171333,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g"
+    },
+    {
+      "added_at": "2023-02-28 10:17:04",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 139800,
+      "name": "Empty Cup",
+      "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
     },
     {
       "added_at": "2023-02-28 10:17:04",
@@ -231,8 +263,8 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+        "name": "bath",
+        "url": "https://open.spotify.com/album/02NrdZD41xSb9J0dAseL6r"
       },
       "artists": [
         {
@@ -240,9 +272,9 @@
           "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
         }
       ],
-      "duration_ms": 239002,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/0PkpRtJqrwuXhbdtJuQm7E"
+      "duration_ms": 261705,
+      "name": "bath",
+      "url": "https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA"
     },
     {
       "added_at": "2023-02-28 10:17:04",
@@ -267,38 +299,6 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
-        "name": "Take You Down",
-        "url": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ"
-      },
-      "artists": [
-        {
-          "name": "YUGYEOM",
-          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
-        }
-      ],
-      "duration_ms": 172013,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
-    },
-    {
-      "added_at": "2023-02-28 10:17:04",
-      "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 139800,
-      "name": "Empty Cup",
-      "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
-    },
-    {
-      "added_at": "2023-02-28 10:17:04",
-      "album": {
         "name": "Will spring come?",
         "url": "https://open.spotify.com/album/42SJRbZgv7qyZsa2uhxa83"
       },
@@ -311,6 +311,22 @@
       "duration_ms": 198698,
       "name": "Will spring come?",
       "url": "https://open.spotify.com/track/2Dn2Cy1z5xxLZeEmvhAfiQ"
+    },
+    {
+      "added_at": "2023-02-28 10:17:04",
+      "album": {
+        "name": "Take You Down",
+        "url": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        }
+      ],
+      "duration_ms": 172013,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/6iFdx5TnKmYxh47Y3O1rBv"
     },
     {
       "added_at": "2023-02-28 10:17:04",
@@ -339,22 +355,6 @@
       "duration_ms": 273453,
       "name": "Flower (Feat. Jay Park, Woo, GIRIBOY)",
       "url": "https://open.spotify.com/track/0mVvkepe2sQUa0j8NWukaZ"
-    },
-    {
-      "added_at": "2023-02-28 10:17:04",
-      "album": {
-        "name": "idealism",
-        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 289000,
-      "name": "A Song Nobody Knows",
-      "url": "https://open.spotify.com/track/5HB7KB2HPCex1iOjiZnal7"
     },
     {
       "added_at": "2023-02-28 10:17:04",
@@ -391,22 +391,6 @@
       "duration_ms": 119401,
       "name": "but I'll wait for you",
       "url": "https://open.spotify.com/track/4J4rGYpqgk6S4VtifoJIWN"
-    },
-    {
-      "added_at": "2023-02-28 10:17:04",
-      "album": {
-        "name": "bath",
-        "url": "https://open.spotify.com/album/02NrdZD41xSb9J0dAseL6r"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 261705,
-      "name": "bath",
-      "url": "https://open.spotify.com/track/22tAOnXPrSFOp2En3WcyyA"
     },
     {
       "added_at": "2023-02-28 10:17:04",
@@ -471,6 +455,38 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 223141,
+      "name": "Moon, 12:04am",
+      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
+    },
+    {
+      "added_at": "2023-02-28 10:17:04",
+      "album": {
+        "name": "idealism",
+        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 289000,
+      "name": "A Song Nobody Knows",
+      "url": "https://open.spotify.com/track/5HB7KB2HPCex1iOjiZnal7"
+    },
+    {
+      "added_at": "2023-02-28 10:17:04",
+      "album": {
         "name": "OFOSUN",
         "url": "https://open.spotify.com/album/5kezSa95PtqnwifxO0K6ky"
       },
@@ -507,22 +523,6 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
-      },
-      "artists": [
-        {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
-        }
-      ],
-      "duration_ms": 223141,
-      "name": "Moon, 12:04am",
-      "url": "https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV"
-    },
-    {
-      "added_at": "2023-02-28 10:17:04",
-      "album": {
         "name": "Far From the Madding City",
         "url": "https://open.spotify.com/album/43toiDnPej9XfkfNB821JD"
       },
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
+        "name": "boy.",
+        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+      },
+      "artists": [
+        {
+          "name": "offonoff",
+          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+        }
+      ],
+      "duration_ms": 370659,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/1OJExKEuSvIdtw9NIaszOc"
+    },
+    {
+      "added_at": "2023-02-28 10:17:04",
+      "album": {
         "name": "Little Women, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 229570,
       "name": "LA VIE",
       "url": "https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj"
-    },
-    {
-      "added_at": "2023-02-28 10:17:04",
-      "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "BRB",
-      "url": "https://open.spotify.com/track/1KTkQFju4e9JnuYuXWRNnM"
     },
     {
       "added_at": "2023-02-28 10:17:04",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
-        "name": "boy.",
-        "url": "https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj"
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
       "artists": [
         {
-          "name": "offonoff",
-          "url": "https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT"
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
         }
       ],
-      "duration_ms": 370659,
-      "name": "Overthinking",
-      "url": "https://open.spotify.com/track/1OJExKEuSvIdtw9NIaszOc"
+      "duration_ms": 208746,
+      "name": "BRB",
+      "url": "https://open.spotify.com/track/1KTkQFju4e9JnuYuXWRNnM"
     },
     {
       "added_at": "2023-02-28 10:17:04",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
-        "name": "Space science",
-        "url": "https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 233170,
-      "name": "Space science",
-      "url": "https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd"
-    },
-    {
-      "added_at": "2023-02-28 10:17:04",
-      "album": {
         "name": "Seoul Vibes, Pt. 1",
         "url": "https://open.spotify.com/album/3q7KjpY97nYzFbjRQ9ivlL"
       },
@@ -767,6 +751,22 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
+        "name": "Space science",
+        "url": "https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM"
+      },
+      "artists": [
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 233170,
+      "name": "Space science",
+      "url": "https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd"
+    },
+    {
+      "added_at": "2023-02-28 10:17:04",
+      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/6lc1CGb9DBXKszqEzMGZq7"
       },
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
-        "name": "PROTOTYPE RESEARCH #0063",
-        "url": "https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP"
-      },
-      "artists": [
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        }
-      ],
-      "duration_ms": 212627,
-      "name": "Abandoned Dog",
-      "url": "https://open.spotify.com/track/4SSRoJFSJ9zqM3uDDGkPEp"
-    },
-    {
-      "added_at": "2023-02-28 10:17:04",
-      "album": {
         "name": "Black & White Film",
         "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 159386,
       "name": "Black & White Film (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9"
+    },
+    {
+      "added_at": "2023-02-28 10:17:04",
+      "album": {
+        "name": "PROTOTYPE RESEARCH #0063",
+        "url": "https://open.spotify.com/album/0djyRzAxBwLFkW89M8XdwP"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        }
+      ],
+      "duration_ms": 212627,
+      "name": "Abandoned Dog",
+      "url": "https://open.spotify.com/track/4SSRoJFSJ9zqM3uDDGkPEp"
     },
     {
       "added_at": "2023-02-28 10:17:04",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-02-28 10:17:04",
       "album": {
+        "name": "idealism",
+        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Blue Candle",
+      "url": "https://open.spotify.com/track/74NAth9jobuzJLmRyDde3n"
+    },
+    {
+      "added_at": "2023-02-28 10:17:04",
+      "album": {
         "name": "Like a Diamond",
         "url": "https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 196586,
       "name": "Like a Diamond (With. Stella Jang)",
       "url": "https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG"
-    },
-    {
-      "added_at": "2023-02-28 10:17:04",
-      "album": {
-        "name": "idealism",
-        "url": "https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Blue Candle",
-      "url": "https://open.spotify.com/track/74NAth9jobuzJLmRyDde3n"
     },
     {
       "added_at": "2023-02-28 10:17:04",

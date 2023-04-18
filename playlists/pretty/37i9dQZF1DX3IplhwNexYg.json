@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: Gengahr",
-  "num_followers": 111258,
+  "num_followers": 111262,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMDM0MGU2YjQ2YjI1OThkZDgzMDdmMDY4ZTdlYTBmODhi",
+  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMGI1NDA4YjEyODA0Njg5ZWM4MzBjMGNmYTU3ODk2Yzg5",
   "tracks": [
     {
       "added_at": "2023-04-13 23:00:00",
@@ -215,6 +215,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Cave World",
+        "url": "https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 237980,
+      "name": "Punk Rock Loser",
+      "url": "https://open.spotify.com/track/2pqoh1jUQoppztoQRRGyKK"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 200093,
       "name": "$20",
       "url": "https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Cave World",
-        "url": "https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 237980,
-      "name": "Punk Rock Loser",
-      "url": "https://open.spotify.com/track/2pqoh1jUQoppztoQRRGyKK"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "From Nothing To A Little Bit More",
-        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 171280,
-      "name": "Lucky Bean",
-      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Emotional Creature",
         "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 202693,
       "name": "Weeds",
       "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "From Nothing To A Little Bit More",
+        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 171280,
+      "name": "Lucky Bean",
+      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "atomic",
+        "url": "https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd"
+      },
+      "artists": [
+        {
+          "name": "Aziya",
+          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
+        }
+      ],
+      "duration_ms": 169190,
+      "name": "atomic",
+      "url": "https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Blue Weekend",
         "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
@@ -615,22 +631,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/3cXbQAwXV8OXJbxlSCrDWQ"
-      },
-      "artists": [
-        {
-          "name": "The Lemon Twigs",
-          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
-        }
-      ],
-      "duration_ms": 198613,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/2Hle4CAsxaWCBhfQuOCsZX"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "angel in realtime.",
         "url": "https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 238653,
       "name": "the angel of 8th ave.",
       "url": "https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/3cXbQAwXV8OXJbxlSCrDWQ"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        }
+      ],
+      "duration_ms": 198613,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2Hle4CAsxaWCBhfQuOCsZX"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -679,18 +695,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Swampy & Sombre Two",
-        "url": "https://open.spotify.com/album/5GDEoqKD2xARNtyX5EiTh5"
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
       "artists": [
         {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 213009,
-      "name": "Swampy",
-      "url": "https://open.spotify.com/track/1JfO7XSiLjbOlCIqDwg3ja"
+      "duration_ms": 196317,
+      "name": "Sofa King",
+      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -711,18 +727,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+        "name": "Swampy & Sombre Two",
+        "url": "https://open.spotify.com/album/5GDEoqKD2xARNtyX5EiTh5"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
         }
       ],
-      "duration_ms": 196317,
-      "name": "Sofa King",
-      "url": "https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ"
+      "duration_ms": 213009,
+      "name": "Swampy",
+      "url": "https://open.spotify.com/track/1JfO7XSiLjbOlCIqDwg3ja"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -739,22 +755,6 @@
       "duration_ms": 196533,
       "name": "The Overload",
       "url": "https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "atomic",
-        "url": "https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd"
-      },
-      "artists": [
-        {
-          "name": "Aziya",
-          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
-        }
-      ],
-      "duration_ms": 169190,
-      "name": "atomic",
-      "url": "https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "A Fistful of Peaches",
-        "url": "https://open.spotify.com/album/66f2AJfIYSpWtiDMac7Wea"
-      },
-      "artists": [
-        {
-          "name": "Black Honey",
-          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
-        }
-      ],
-      "duration_ms": 212288,
-      "name": "Cut the Cord",
-      "url": "https://open.spotify.com/track/3nrPemlBKtA9Ggcnl3JpHu"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Say It Now",
         "url": "https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 220833,
       "name": "Say It Now",
       "url": "https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "A Fistful of Peaches",
+        "url": "https://open.spotify.com/album/66f2AJfIYSpWtiDMac7Wea"
+      },
+      "artists": [
+        {
+          "name": "Black Honey",
+          "url": "https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS"
+        }
+      ],
+      "duration_ms": 212288,
+      "name": "Cut the Cord",
+      "url": "https://open.spotify.com/track/3nrPemlBKtA9Ggcnl3JpHu"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Alright",
-        "url": "https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv"
+        "name": "What You Did",
+        "url": "https://open.spotify.com/album/3zJKF1QzRphIyM2V2qEbnP"
       },
       "artists": [
         {
-          "name": "Bad Nerves",
-          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
         }
       ],
-      "duration_ms": 156600,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/1J5d0ELID0QInebg1Sl3JJ"
+      "duration_ms": 182719,
+      "name": "What You Did",
+      "url": "https://open.spotify.com/track/3PfPDRwntf2v4iohiINx7s"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "What You Did",
-        "url": "https://open.spotify.com/album/3zJKF1QzRphIyM2V2qEbnP"
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv"
       },
       "artists": [
         {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+          "name": "Bad Nerves",
+          "url": "https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ"
         }
       ],
-      "duration_ms": 182719,
-      "name": "What You Did",
-      "url": "https://open.spotify.com/track/3PfPDRwntf2v4iohiINx7s"
+      "duration_ms": 156600,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1J5d0ELID0QInebg1Sl3JJ"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Last Together",
+        "url": "https://open.spotify.com/album/1jfzgHMJyZUTchRliRmz3F"
+      },
+      "artists": [
+        {
+          "name": "Vistas",
+          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
+        }
+      ],
+      "duration_ms": 198473,
+      "name": "Last Together",
+      "url": "https://open.spotify.com/track/3mBV6qqVvE1NcuLmD2vTg6"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 265278,
       "name": "I Shimmer",
       "url": "https://open.spotify.com/track/5iVcl5SBNcJsD9islOvnba"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Last Together",
-        "url": "https://open.spotify.com/album/1jfzgHMJyZUTchRliRmz3F"
-      },
-      "artists": [
-        {
-          "name": "Vistas",
-          "url": "https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc"
-        }
-      ],
-      "duration_ms": 198473,
-      "name": "Last Together",
-      "url": "https://open.spotify.com/track/3mBV6qqVvE1NcuLmD2vTg6"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Wayfinding",
-        "url": "https://open.spotify.com/album/2uKHnwdrCulGi0RdoaJCMl"
+        "name": "Break!",
+        "url": "https://open.spotify.com/album/3hB4arhUMH7fMOKJo2QMct"
       },
       "artists": [
         {
-          "name": "Chappaqua Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
         }
       ],
-      "duration_ms": 189466,
-      "name": "Wayfinding",
-      "url": "https://open.spotify.com/track/1SBkDOflNcFTPGysQJa9gd"
+      "duration_ms": 137000,
+      "name": "Thick of the Honey",
+      "url": "https://open.spotify.com/track/4o4LGrbQuSeJZEoLxIOVSx"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Break!",
-        "url": "https://open.spotify.com/album/3hB4arhUMH7fMOKJo2QMct"
+        "name": "Wayfinding",
+        "url": "https://open.spotify.com/album/2uKHnwdrCulGi0RdoaJCMl"
       },
       "artists": [
         {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
         }
       ],
-      "duration_ms": 137000,
-      "name": "Thick of the Honey",
-      "url": "https://open.spotify.com/track/4o4LGrbQuSeJZEoLxIOVSx"
+      "duration_ms": 189466,
+      "name": "Wayfinding",
+      "url": "https://open.spotify.com/track/1SBkDOflNcFTPGysQJa9gd"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Wiggy",
-        "url": "https://open.spotify.com/album/7I2nm8uXW9PjIW4EICNb22"
-      },
-      "artists": [
-        {
-          "name": "Gretel H\u00e4nlyn",
-          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
-        }
-      ],
-      "duration_ms": 215526,
-      "name": "Wiggy",
-      "url": "https://open.spotify.com/track/6rydH51WZy57dxUBdHyUU1"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/3LdfZrdlKsanntRZHYncJr"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 231684,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/2NZyf2jJaf0PntMfTe5fPf"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Wiggy",
+        "url": "https://open.spotify.com/album/7I2nm8uXW9PjIW4EICNb22"
+      },
+      "artists": [
+        {
+          "name": "Gretel H\u00e4nlyn",
+          "url": "https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG"
+        }
+      ],
+      "duration_ms": 215526,
+      "name": "Wiggy",
+      "url": "https://open.spotify.com/track/6rydH51WZy57dxUBdHyUU1"
     },
     {
       "added_at": "2023-04-13 23:00:00",

@@ -4,7 +4,7 @@
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. Winter on cover!
 
-301 songs - 20 hr 41 min
+302 songs - 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Culto](https://open.spotify.com/track/6Ow58pNK9dPNKLLxrfKX9z) | [Lasitud](https://open.spotify.com/artist/1zQ7Htx1vh0vmCHmxVVG0d) | [Culto](https://open.spotify.com/album/6Jl1jLK4buw7Mo8XoYX8Uy) | 4:14 | 2022-04-01 | 2022-07-29 |
 | [Cupid](https://open.spotify.com/track/3y9rDgEdATAwgFX2NPKGw7) | [Vero](https://open.spotify.com/artist/2LsDmxmf4PpOYXeHYOuWKD) | [Cupid](https://open.spotify.com/album/2Fp2nN5Jriaag1RaQtYW7q) | 3:10 | 2022-02-15 | 2022-07-29 |
 | [dad](https://open.spotify.com/track/5TpE5xJ9mrD5IwaeLHi7bi) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [i wanna feel happy](https://open.spotify.com/album/0w0PikGULYYHYAlAZFyDnn) | 3:12 | 2022-06-08 | 2022-10-15 |
-| [Daisy Chain](https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3) | [Muted Color](https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD) | [Pastel](https://open.spotify.com/album/4atzYhVGosCXHuxvf2GEEy) | 4:01 | 2022-08-03 |  |
+| [Daisy Chain](https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3) | [Muted Color](https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD) | [Pastel](https://open.spotify.com/album/4atzYhVGosCXHuxvf2GEEy) | 4:01 | 2022-08-03 | 2023-04-18 |
 | [Dance AM](https://open.spotify.com/track/0P57tdDD56YOrjkYSpfBKS) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 4:32 | 2021-10-19 | 2023-01-14 |
 | [Daylighter](https://open.spotify.com/track/2Nfv9rms6Q7uloTk2KYU8k) | [Relay Tapes](https://open.spotify.com/artist/7xIrG2TmYRzrigiWJXznFp) | [Debris](https://open.spotify.com/album/5m9bsX1WJMuAtN2d4ssMHS) | 4:26 | 2023-03-31 |  |
 | [DEAR FUTURE '18](https://open.spotify.com/track/2dwIC1Ls0pAWxIrDbpsMhD) | [Coaltar Of The Deepers](https://open.spotify.com/artist/2S5Vk5knCxjALFqlMnULmZ) | [RABBIT EP](https://open.spotify.com/album/6bNKwYjohWbpVaFOU8z5um) | 5:09 | 2022-12-15 | 2023-01-14 |
@@ -230,6 +230,7 @@
 | [Polypanic Rooms](https://open.spotify.com/track/1KER62no0SGNgvsnnpAb7M) | [Polyester Embassy](https://open.spotify.com/artist/2jbc5JbKhDkmzXj1LlmEq4) | [Tragicomedy](https://open.spotify.com/album/3VGTuyIULOBTiDkcyB0sFN) | 4:44 | 2022-12-15 | 2023-01-14 |
 | [Press](https://open.spotify.com/track/0PJtjnEPQamRRHIDVj1cGx) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/28us6d6Q9xD8vTkSUbL6Nu) | 3:31 | 2021-10-19 | 2022-12-01 |
 | [Press](https://open.spotify.com/track/37SnMHwWU7F9isLYZB3taJ) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF) | 3:31 | 2021-10-19 |  |
+| [Pressure](https://open.spotify.com/track/10FlXJUgM6r159dNILdFDt) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Pressure](https://open.spotify.com/album/5PcCgXyYFXsjQvS1Wjv8LU) | 2:53 | 2023-04-14 |  |
 | [Pretend to Be Here](https://open.spotify.com/track/0yDvw3DK4JVV8VR1S7aQRZ) | [Pia Fraus](https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT) | [Nature Heart Software](https://open.spotify.com/album/25NpVtdgL29klIrre3mion) | 3:37 | 2021-10-19 | 2023-01-13 |
 | [Pretty Face](https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [Dead Kids R.I.P\. City](https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3) | 2:31 | 2021-10-19 |  |
 | [Prism of Feeling](https://open.spotify.com/track/4jAx1BnnLRfvkODzP4Ieo9) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Love Lives in the Body](https://open.spotify.com/album/4gCNGW6u3kNtr0u5fxgUmq) | 4:45 | 2022-12-12 | 2023-02-22 |

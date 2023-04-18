@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y?si=hRwyX9JuS92OirIIx6lNnw\" > Prettyboy D-O </a> ",
-  "num_followers": 18073,
+  "num_followers": 18125,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ3NTU4NiwwMDAwMDAwMGJiNDJlMTY4YjcyY2I2ZmQ3OGRhODM4MjYxYTNmYmZm",
+  "snapshot_id": "MTY4MTQ3NTU4NiwwMDAwMDAwMDJlYTQwMGQ5NjUwOWE2ZGJiMTdlYWY5NGY0NmM5NGFh",
   "tracks": [
     {
       "added_at": "2023-04-14 12:33:06",
@@ -331,42 +331,22 @@
     {
       "added_at": "2023-04-14 12:33:06",
       "album": {
-        "name": "Breaking The Yoke Of Love",
-        "url": "https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6"
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
       "artists": [
         {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         },
         {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        },
-        {
-          "name": "Raybekah",
-          "url": "https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW"
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
         }
       ],
-      "duration_ms": 198039,
-      "name": "Breaking The Yoke Of Love",
-      "url": "https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA"
-    },
-    {
-      "added_at": "2023-04-14 12:33:06",
-      "album": {
-        "name": "Love Triangle",
-        "url": "https://open.spotify.com/album/3jUpxVJwDVNiWELcyukdOU"
-      },
-      "artists": [
-        {
-          "name": "7Dime",
-          "url": "https://open.spotify.com/artist/2ezc7Zq9xX0tADcy8UbvNi"
-        }
-      ],
-      "duration_ms": 152456,
-      "name": "Love Triangle",
-      "url": "https://open.spotify.com/track/0nfY7lzgMQvAR6bMyMr1ac"
+      "duration_ms": 211050,
+      "name": "Cloak & Dagger (feat. J Hus)",
+      "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
     },
     {
       "added_at": "2023-04-14 12:33:06",
@@ -383,6 +363,26 @@
       "duration_ms": 149052,
       "name": "Dog Eat Dog",
       "url": "https://open.spotify.com/track/4XYpWMW1ec7GJW2Eq8UA9k"
+    },
+    {
+      "added_at": "2023-04-14 12:33:06",
+      "album": {
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 207473,
+      "name": "FYN",
+      "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
     },
     {
       "added_at": "2023-04-14 12:33:06",
@@ -427,42 +427,42 @@
     {
       "added_at": "2023-04-14 12:33:06",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+        "name": "Breaking The Yoke Of Love",
+        "url": "https://open.spotify.com/album/2gFTRUI821BCGGx2VNy3w6"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "J Hus",
-          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        },
+        {
+          "name": "Raybekah",
+          "url": "https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW"
         }
       ],
-      "duration_ms": 211050,
-      "name": "Cloak & Dagger (feat. J Hus)",
-      "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
+      "duration_ms": 198039,
+      "name": "Breaking The Yoke Of Love",
+      "url": "https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA"
     },
     {
       "added_at": "2023-04-14 12:33:06",
       "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
+        "name": "Love Triangle",
+        "url": "https://open.spotify.com/album/3jUpxVJwDVNiWELcyukdOU"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+          "name": "7Dime",
+          "url": "https://open.spotify.com/artist/2ezc7Zq9xX0tADcy8UbvNi"
         }
       ],
-      "duration_ms": 207473,
-      "name": "FYN",
-      "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
+      "duration_ms": 152456,
+      "name": "Love Triangle",
+      "url": "https://open.spotify.com/track/0nfY7lzgMQvAR6bMyMr1ac"
     },
     {
       "added_at": "2023-04-14 12:33:06",
@@ -479,6 +479,26 @@
       "duration_ms": 189090,
       "name": "Omo Ologo",
       "url": "https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR"
+    },
+    {
+      "added_at": "2023-04-14 12:33:06",
+      "album": {
+        "name": "Letter From Overseas (feat. Black Sherif)",
+        "url": "https://open.spotify.com/album/6ucz02tBn7xRIRjJJ5kfHA"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 138243,
+      "name": "Letter From Overseas (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ"
     },
     {
       "added_at": "2023-04-14 12:33:06",
@@ -503,26 +523,6 @@
       "duration_ms": 216013,
       "name": "Who's True",
       "url": "https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr"
-    },
-    {
-      "added_at": "2023-04-14 12:33:06",
-      "album": {
-        "name": "Letter From Overseas (feat. Black Sherif)",
-        "url": "https://open.spotify.com/album/6ucz02tBn7xRIRjJJ5kfHA"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 138243,
-      "name": "Letter From Overseas (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/67KA6E6erqyx2lL3ib0mxZ"
     },
     {
       "added_at": "2023-04-14 12:33:06",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-04-14 12:33:06",
       "album": {
+        "name": "Kpos Lifestyle, Vol. 1",
+        "url": "https://open.spotify.com/album/14LQRjG0c0AUmVqCyFL01E"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/61ltF3Ur8S1WYnrDVuoi79"
+    },
+    {
+      "added_at": "2023-04-14 12:33:06",
+      "album": {
         "name": "Owa",
         "url": "https://open.spotify.com/album/00OQvNVhBS2IxUIOmPMEj0"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 173569,
       "name": "Owa",
       "url": "https://open.spotify.com/track/0QJGhiYMgf22RoRjYFmx3H"
-    },
-    {
-      "added_at": "2023-04-14 12:33:06",
-      "album": {
-        "name": "Kpos Lifestyle, Vol. 1",
-        "url": "https://open.spotify.com/album/14LQRjG0c0AUmVqCyFL01E"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/61ltF3Ur8S1WYnrDVuoi79"
     },
     {
       "added_at": "2023-04-14 12:33:06",
@@ -759,6 +759,22 @@
       "duration_ms": 180950,
       "name": "Vigilante Bop",
       "url": "https://open.spotify.com/track/4IschypVu1Oz4FS8Gg7y0u"
+    },
+    {
+      "added_at": "2023-04-14 12:33:06",
+      "album": {
+        "name": "Commander",
+        "url": "https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Commander",
+      "url": "https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r"
     },
     {
       "added_at": "2023-04-14 12:33:06",
@@ -847,22 +863,6 @@
     {
       "added_at": "2023-04-14 12:33:06",
       "album": {
-        "name": "Commander",
-        "url": "https://open.spotify.com/album/6AgVfi3qmgN0r3mi7MhPf3"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Commander",
-      "url": "https://open.spotify.com/track/5hqC4PiceksAR1UXRyHx0r"
-    },
-    {
-      "added_at": "2023-04-14 12:33:06",
-      "album": {
         "name": "Holy Gee",
         "url": "https://open.spotify.com/album/6G5EqRXFllg0YGv6sXk5IP"
       },
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-04-14 12:33:06",
       "album": {
-        "name": "BBO (Bad Bxtches Only)",
-        "url": "https://open.spotify.com/album/4yaDvxGKIlvdoZh4OzPpOY"
-      },
-      "artists": [
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 163976,
-      "name": "BBO (Bad Bxtches Only)",
-      "url": "https://open.spotify.com/track/5SYbZNSUDKugdnsVAutBUf"
-    },
-    {
-      "added_at": "2023-04-14 12:33:06",
-      "album": {
         "name": "Young Preacher",
         "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 181250,
       "name": "FAKE NIKES (feat. Blxckie & Cheque)",
       "url": "https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq"
+    },
+    {
+      "added_at": "2023-04-14 12:33:06",
+      "album": {
+        "name": "BBO (Bad Bxtches Only)",
+        "url": "https://open.spotify.com/album/4yaDvxGKIlvdoZh4OzPpOY"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 163976,
+      "name": "BBO (Bad Bxtches Only)",
+      "url": "https://open.spotify.com/track/5SYbZNSUDKugdnsVAutBUf"
     },
     {
       "added_at": "2023-04-14 12:33:06",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-04-14 12:33:06",
       "album": {
+        "name": "MIDLIFE CRISIS / WYDTM",
+        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 131478,
+      "name": "MIDLIFE CRISIS",
+      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
+    },
+    {
+      "added_at": "2023-04-14 12:33:06",
+      "album": {
         "name": "High Tension 2.0",
         "url": "https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q"
       },
@@ -1023,6 +1039,22 @@
       "duration_ms": 163813,
       "name": "Out There",
       "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
+    },
+    {
+      "added_at": "2023-04-14 12:33:06",
+      "album": {
+        "name": "Pot Of Stew",
+        "url": "https://open.spotify.com/album/7wSOzsCfac5crudnU3ne8O"
+      },
+      "artists": [
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        }
+      ],
+      "duration_ms": 108066,
+      "name": "Pot Of Stew",
+      "url": "https://open.spotify.com/track/5Q1k767YrKyEMiDBjXYEnd"
     },
     {
       "added_at": "2023-04-14 12:33:06",
@@ -1047,38 +1079,6 @@
     {
       "added_at": "2023-04-14 12:33:06",
       "album": {
-        "name": "MIDLIFE CRISIS / WYDTM",
-        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 131478,
-      "name": "MIDLIFE CRISIS",
-      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
-    },
-    {
-      "added_at": "2023-04-14 12:33:06",
-      "album": {
-        "name": "Pot Of Stew",
-        "url": "https://open.spotify.com/album/7wSOzsCfac5crudnU3ne8O"
-      },
-      "artists": [
-        {
-          "name": "Erigga",
-          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
-        }
-      ],
-      "duration_ms": 108066,
-      "name": "Pot Of Stew",
-      "url": "https://open.spotify.com/track/5Q1k767YrKyEMiDBjXYEnd"
-    },
-    {
-      "added_at": "2023-04-14 12:33:06",
-      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/5zoE3LTZotB4stVdvcYT6x"
       },
@@ -1091,6 +1091,22 @@
       "duration_ms": 241738,
       "name": "Sober",
       "url": "https://open.spotify.com/track/2KjV1nxFfYkmq66z4ZK7tz"
+    },
+    {
+      "added_at": "2023-04-14 12:33:06",
+      "album": {
+        "name": "Blessed Sinner",
+        "url": "https://open.spotify.com/album/015Ci9KJFaVbvorl31nEv8"
+      },
+      "artists": [
+        {
+          "name": "Rord Kelly",
+          "url": "https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR"
+        }
+      ],
+      "duration_ms": 178599,
+      "name": "Blessed Sinner",
+      "url": "https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U"
     },
     {
       "added_at": "2023-04-14 12:33:06",
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2023-04-14 12:33:06",
       "album": {
-        "name": "Blessed Sinner",
-        "url": "https://open.spotify.com/album/015Ci9KJFaVbvorl31nEv8"
-      },
-      "artists": [
-        {
-          "name": "Rord Kelly",
-          "url": "https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR"
-        }
-      ],
-      "duration_ms": 178599,
-      "name": "Blessed Sinner",
-      "url": "https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U"
-    },
-    {
-      "added_at": "2023-04-14 12:33:06",
-      "album": {
         "name": "The Guy",
         "url": "https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL"
       },
@@ -1179,6 +1179,22 @@
       "duration_ms": 171891,
       "name": "Highest Student",
       "url": "https://open.spotify.com/track/7a0Wzxeh1I88Br9ZNtHD5H"
+    },
+    {
+      "added_at": "2023-04-14 12:33:06",
+      "album": {
+        "name": "YPSZN3",
+        "url": "https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 200833,
+      "name": "Silent Mode",
+      "url": "https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ"
     },
     {
       "added_at": "2023-04-14 12:33:06",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2023-04-14 12:33:06",
       "album": {
-        "name": "YPSZN3",
-        "url": "https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 200833,
-      "name": "Silent Mode",
-      "url": "https://open.spotify.com/track/16czimzBLTAXTC8l4tdaMQ"
-    },
-    {
-      "added_at": "2023-04-14 12:33:06",
-      "album": {
         "name": "Moving Mad",
         "url": "https://open.spotify.com/album/1wqrmVrcBTus8veGMT2Nnq"
       },
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-04-14 12:33:06",
       "album": {
+        "name": "Wahala",
+        "url": "https://open.spotify.com/album/2FlTnOE9paxs4soz5FzKJO"
+      },
+      "artists": [
+        {
+          "name": "Abstraktt",
+          "url": "https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD"
+        }
+      ],
+      "duration_ms": 162692,
+      "name": "Wahala",
+      "url": "https://open.spotify.com/track/3neQ27BTYg6eBK3Zb4PERm"
+    },
+    {
+      "added_at": "2023-04-14 12:33:06",
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4EsC6oCWtJjU9zuHBIxan8"
       },
@@ -1303,22 +1319,6 @@
     {
       "added_at": "2023-04-14 12:33:06",
       "album": {
-        "name": "Wahala",
-        "url": "https://open.spotify.com/album/2FlTnOE9paxs4soz5FzKJO"
-      },
-      "artists": [
-        {
-          "name": "Abstraktt",
-          "url": "https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD"
-        }
-      ],
-      "duration_ms": 162692,
-      "name": "Wahala",
-      "url": "https://open.spotify.com/track/3neQ27BTYg6eBK3Zb4PERm"
-    },
-    {
-      "added_at": "2023-04-14 12:33:06",
-      "album": {
         "name": "INTERMISSION",
         "url": "https://open.spotify.com/album/2bIfTq7gNYqPUGR7YIhZW7"
       },
@@ -1331,22 +1331,6 @@
       "duration_ms": 168018,
       "name": "INTERMISSION",
       "url": "https://open.spotify.com/track/3Nn6h1A0DhGnfnMSWw73HQ"
-    },
-    {
-      "added_at": "2023-04-14 12:33:06",
-      "album": {
-        "name": "Suliya",
-        "url": "https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm"
-      },
-      "artists": [
-        {
-          "name": "Hotkid",
-          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
-        }
-      ],
-      "duration_ms": 131500,
-      "name": "Suliya",
-      "url": "https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd"
     },
     {
       "added_at": "2023-04-14 12:33:06",
@@ -1367,6 +1351,22 @@
       "duration_ms": 173571,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5"
+    },
+    {
+      "added_at": "2023-04-14 12:33:06",
+      "album": {
+        "name": "Suliya",
+        "url": "https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm"
+      },
+      "artists": [
+        {
+          "name": "Hotkid",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
+        }
+      ],
+      "duration_ms": 131500,
+      "name": "Suliya",
+      "url": "https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd"
     }
   ],
   "unique_name": "Naija Bars ",

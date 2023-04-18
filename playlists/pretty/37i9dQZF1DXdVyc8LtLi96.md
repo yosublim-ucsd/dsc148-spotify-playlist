@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 
 > The perfect soundtrack to your morning yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,671 likes - 235 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,709 likes - 235 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 | 51 | [Veilless](https://open.spotify.com/track/23y3iLdIBGDsCmZ2W6R7LT) | [Adriana Milou](https://open.spotify.com/artist/1hdDs4wK0nVxEMPc1IXXRb) | [Veilless](https://open.spotify.com/album/5g3U1Y4eqaNcSffpD61Syy) | 2:18 |
 | 52 | [Easy Relaxation](https://open.spotify.com/track/5C2kORborDnldRKdr5jcQY) | [Whispers in Haze](https://open.spotify.com/artist/1lixcMl0CmYCkIX0ct66hP) | [Easy Relaxation](https://open.spotify.com/album/2d1vqShDaC1AEcLIQVomTM) | 3:00 |
 | 53 | [By Night](https://open.spotify.com/track/3GUcRSX4iicaUG2K2g4bBH) | [Hain Sona](https://open.spotify.com/artist/6Caj9wTooVGTk1edAU4uXD) | [By Night](https://open.spotify.com/album/0XD64OAteO7YJRXdMfnuKb) | 2:44 |
-| 54 | [Layer](https://open.spotify.com/track/3h6v2gPzB9ouue4uNq9mVo) | [Sôfur](https://open.spotify.com/artist/4Ooe7DB6fuhAtdr6tXVJfT) | [Layer](https://open.spotify.com/album/5fcvLEFHyTopriEc7ffypY) | 2:25 |
+| 54 | [Layers](https://open.spotify.com/track/0dV0hmfXXs4IlEYjJzKQrq) | [Da Malia](https://open.spotify.com/artist/21uIQDwO87x0WilDQA3NkT) | [Layers](https://open.spotify.com/album/3s9Bz1dca6XBz5Lrc7Zf5l) | 2:25 |
 | 55 | [Softly Drift](https://open.spotify.com/track/2YYvF9y9HlnvDUsqgmmI9a) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Softly Drift](https://open.spotify.com/album/7GpqbUVy8lUymLnjVEtmDL) | 3:18 |
 | 56 | [Jeevan](https://open.spotify.com/track/06k8aoKACp7ouBnP1lZFOz) | [Gamini Khatri](https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i) | [Jeevan](https://open.spotify.com/album/2DOS9BHPBdFcVrjJf2YPsJ) | 2:30 |
 | 57 | [Beyond The Moon](https://open.spotify.com/track/4657ZjUX9Go69R5LHdbPOJ) | [Tryggve Malmberg](https://open.spotify.com/artist/53E9B0OiR03VSuqIqhCguq) | [Beyond The Moon](https://open.spotify.com/album/3ylKvmxVNOb1kXL1jf1Cta) | 2:30 |
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 | 234 | [Repeating](https://open.spotify.com/track/0tBmAvHj80wggdNsNXj2aa) | [Gargantis](https://open.spotify.com/artist/5GXKQgbYHVdRFSznRp5trz) | [Repeating](https://open.spotify.com/album/01BlV7fiIRik4h9Gw4fRVu) | 2:32 |
 | 235 | [Safety](https://open.spotify.com/track/3EcvMo6Td4Kuv05GMNXZrs) | [Gabriel Verci](https://open.spotify.com/artist/5fwefxhrUGOhSbrg5GfIF1) | [Mindful](https://open.spotify.com/album/3feONECTQLJQie9tsNFuX5) | 2:48 |
 
-Snapshot ID: `MTY3MzYxMzM1NSwwMDAwMDAwMGIzZDg5ZjEwYThlZWNhODg5Y2RmOWM1ZjMwOTUzOTUw`
+Snapshot ID: `MTY3MzYxMzM1NSwwMDAwMDAwMGUwMGNmODZlYTllMzNhZmNjOGVkOTM3YmQyZjU3M2Fl`

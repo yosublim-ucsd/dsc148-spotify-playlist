@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 40785,
+  "num_followers": 40816,
   "original_name": "Legendary Labels: Tuff Gong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjMxNTM4MCwwMDAwMDAwMGJjYmVlNzNkYjU5NGQ3OTUzOWQxYWFkMGFhYzc4NGFk",
+  "snapshot_id": "MTY0NjMxNTM4MCwwMDAwMDAwMGMzM2JkZTU5ZDBiNTE4ZGY2OWVkNDEzZWI0NzhkOWVm",
   "tracks": [
     {
       "added_at": "2022-03-03 13:49:40",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-03-03 13:49:40",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1MlY1vmHeHaKzLd0I1dNuZ"
-      },
-      "artists": [
-        {
-          "name": "The Wailers",
-          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
-        }
-      ],
-      "duration_ms": 254240,
-      "name": "Burnin' And Lootin'",
-      "url": "https://open.spotify.com/track/3fgLnDbABMr41BpEPTeQCU"
-    },
-    {
-      "added_at": "2022-03-03 13:49:40",
-      "album": {
         "name": "Love Is My Religion",
         "url": "https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 228506,
       "name": "Love Is My Religion",
       "url": "https://open.spotify.com/track/4BWt85BLRIujlHaIOQDaqR"
+    },
+    {
+      "added_at": "2022-03-03 13:49:40",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1MlY1vmHeHaKzLd0I1dNuZ"
+      },
+      "artists": [
+        {
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        }
+      ],
+      "duration_ms": 254240,
+      "name": "Burnin' And Lootin'",
+      "url": "https://open.spotify.com/track/3fgLnDbABMr41BpEPTeQCU"
     },
     {
       "added_at": "2022-03-03 13:49:40",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-03-03 13:49:40",
       "album": {
-        "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 213893,
-      "name": "Positive Vibration",
-      "url": "https://open.spotify.com/track/5722IiSQ4ZqzpwhwFeCz2u"
-    },
-    {
-      "added_at": "2022-03-03 13:49:40",
-      "album": {
         "name": "Survival",
         "url": "https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 261839,
       "name": "Babylon System",
       "url": "https://open.spotify.com/track/6xbtDXk8utIS8rOWD0X9XA"
+    },
+    {
+      "added_at": "2022-03-03 13:49:40",
+      "album": {
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 213893,
+      "name": "Positive Vibration",
+      "url": "https://open.spotify.com/track/5722IiSQ4ZqzpwhwFeCz2u"
     },
     {
       "added_at": "2022-03-03 13:49:40",

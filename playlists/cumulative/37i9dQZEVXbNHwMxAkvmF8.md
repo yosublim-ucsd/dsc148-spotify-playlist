@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-768 songs - 1 day 15 hr 53 min
+769 songs - 1 day 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Add Tovább \- Hóban Ébred](https://open.spotify.com/track/0u9d3S4SvsWhyrAUSRQak9) | [Csondor Kata](https://open.spotify.com/artist/6bMCVNXzD05FAXAQTENiP9) | [Hóban Ébred..\. \(Az Ünnep Dalai\)](https://open.spotify.com/album/2ODRdmlfGMVOdl5ekka8RL) | 3:06 | 2022-12-25 | 2022-12-27 |
 | [Adieu](https://open.spotify.com/track/2BUX7RHIJfxfK6LxfZBHtU) | [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [Adieu](https://open.spotify.com/album/7LOO7LJKYJ2TD1nJyx1WZp) | 3:39 | 2022-05-06 | 2022-05-15 |
 | [Afro Beat](https://open.spotify.com/track/1Y9crZGy8iOyCPxFBPfMDP) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd) | [Megáll Az Idő](https://open.spotify.com/album/5t7s3WL4RH53iFIJT5RPwg) | 3:12 | 2023-03-02 |  |
-| [Aha\-Aha](https://open.spotify.com/track/2YmkWevzHTiEyvgjdTKB3r) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [Aha\-Aha](https://open.spotify.com/album/70x4V15158Bk5OE6iTtS6U) | 2:12 | 2022-05-20 |  |
+| [Aha\-Aha](https://open.spotify.com/track/2YmkWevzHTiEyvgjdTKB3r) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [Aha\-Aha](https://open.spotify.com/album/70x4V15158Bk5OE6iTtS6U) | 2:12 | 2022-05-20 | 2023-04-18 |
 | [aight](https://open.spotify.com/track/6aBPkT8tZnZZ6ILg67OuAh) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [aight](https://open.spotify.com/album/1C7pFblVVUtJ3fXFrpmscx) | 2:06 | 2021-04-18 | 2021-07-01 |
 | [aight](https://open.spotify.com/track/37kI8bPlN5iN37kSFTyKCY) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [camouflage](https://open.spotify.com/album/3OFCYRfoLNKtAnr1CsSVqa) | 2:07 | 2021-07-01 | 2021-11-10 |
 | [Ajándék](https://open.spotify.com/track/0a0zPUrwviAua4IhhaYUsP) | [Bereczki Zoltán](https://open.spotify.com/artist/2KjgTkzmS3SEzxiMsNpZiU), [Dóra Szinetár](https://open.spotify.com/artist/1eKpiP1plO0BqtwPCzzv0E) | [Duett Karácsony](https://open.spotify.com/album/6gwEBQlpdksPo5q8JzCnJg) | 4:28 | 2021-12-24 | 2022-12-27 |
@@ -276,6 +276,7 @@
 | [Head Shoulders Knees & Toes \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/6i7zAdNhzUN2k1HcrBxPHG) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Head Shoulders Knees & Toes \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/1MZ3ZQqAV3wFjHjaOe6KFz) | 2:36 | 2021-03-27\* | 2021-09-14 |
 | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 | 2021-07-07 | 2021-08-29 |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-07-09 | 2023-01-18 |
+| [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-04-17 |  |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2022-12-04 | 2022-12-06 |
 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 | 2023-02-18 | 2023-02-20 |
 | [Heaven and Hell](https://open.spotify.com/track/2ZUJsR8HEktit58X6FuPQM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:25 | 2021-08-31 | 2021-09-02 |

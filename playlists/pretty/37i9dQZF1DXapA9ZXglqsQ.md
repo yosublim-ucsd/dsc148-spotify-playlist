@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapA9ZXglqsQ.md) - [plain]
 
 > Meet Joe Hisaishi, a one\-of\-a\-kind composer/musician known for his world famous "Studio Ghibli" film scores, as well as countless other classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,963 likes - 62 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,120 likes - 62 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mother’s Broom \- from 'Kiki's Delivery Service'](https://open.spotify.com/track/3oEGtnUuGhDWZXH2ghip9w) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [ロイヤル・フィルハーモニー管弦楽団](https://open.spotify.com/artist/7Ah35lhlp7p3HOVmmzJh2I) | [Mother’s Broom \(from 'Kiki's Delivery Service'\)](https://open.spotify.com/album/0AGnGG5K5qBoJXkqd5mMl5) | 3:49 |
-| 2 | [Merry\-Go\-Round of Life \- from 'Howl’s Moving Castle'](https://open.spotify.com/track/1CHswVnHopmeIly3bTSnmF) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [ロイヤル・フィルハーモニー管弦楽団](https://open.spotify.com/artist/7Ah35lhlp7p3HOVmmzJh2I) | [Merry\-Go\-Round of Life \(from 'Howl’s Moving Castle'\)](https://open.spotify.com/album/39aX7AHzQvs6m4C8cIpatW) | 2:44 |
+| 2 | [Merry\-Go\-Round of Life \- from 'Howl’s Moving Castle'](https://open.spotify.com/track/1CHswVnHopmeIly3bTSnmF) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Merry\-Go\-Round of Life \(from 'Howl’s Moving Castle'\)](https://open.spotify.com/album/39aX7AHzQvs6m4C8cIpatW) | 2:44 |
 | 3 | [Kids Return \- Live](https://open.spotify.com/track/2c3wkztuWgSjrVFKCeNOIJ) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Songs of Hope: The Essential Joe Hisaishi Vol\. 2](https://open.spotify.com/album/21lX43f0nTVmkW85bvZc7S) | 4:08 |
 | 4 | [HANA\-BI \- Live](https://open.spotify.com/track/1pACiYWfCSt4d1prtS0orM) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Songs of Hope: The Essential Joe Hisaishi Vol\. 2](https://open.spotify.com/album/21lX43f0nTVmkW85bvZc7S) | 3:14 |
 | 5 | [la pioggia](https://open.spotify.com/track/2EvkfIfHqmLlKkKc3tcfPw) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Songs of Hope: The Essential Joe Hisaishi Vol\. 2](https://open.spotify.com/album/21lX43f0nTVmkW85bvZc7S) | 5:14 |

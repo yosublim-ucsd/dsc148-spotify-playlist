@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 378089,
+  "num_followers": 378121,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ3MDg3NSwwMDAwMDAwMDNiNmY0NTdhOTQ4OWQ0ZDQzMjFjOGFjMDQzNTYwNzBm",
+  "snapshot_id": "MTY3MzQ3MDg3NSwwMDAwMDAwMGZkNTgzNjk5ZGY2M2JlNGU4N2EyODQzOTgwMTMwMjE5",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "RELAXER",
+        "url": "https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 206026,
+      "name": "In Cold Blood",
+      "url": "https://open.spotify.com/track/0jeJR3LdrC2QJNviq7wjzp"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Chemicals",
         "url": "https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 262400,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/2HZasNmIAzprwJjFLPoSGM"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "RELAXER",
-        "url": "https://open.spotify.com/album/3uHMSQ1cC1fFAi4WMnelQP"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 206026,
-      "name": "In Cold Blood",
-      "url": "https://open.spotify.com/track/0jeJR3LdrC2QJNviq7wjzp"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Phase (Deluxe)",
+        "url": "https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR"
+      },
+      "artists": [
+        {
+          "name": "Jack Garratt",
+          "url": "https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA"
+        }
+      ],
+      "duration_ms": 260866,
+      "name": "Surprise Yourself",
+      "url": "https://open.spotify.com/track/6YaC65M3ujeROidG3b09J0"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "The Juicebox",
         "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
       },
@@ -675,18 +691,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Phase (Deluxe)",
-        "url": "https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR"
+        "name": "Californian Soil",
+        "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
       },
       "artists": [
         {
-          "name": "Jack Garratt",
-          "url": "https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA"
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
         }
       ],
-      "duration_ms": 260866,
-      "name": "Surprise Yourself",
-      "url": "https://open.spotify.com/track/6YaC65M3ujeROidG3b09J0"
+      "duration_ms": 199996,
+      "name": "Lose Your Head",
+      "url": "https://open.spotify.com/track/2kU6bMVN21UbJ425q1yIKR"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -703,22 +719,6 @@
       "duration_ms": 252864,
       "name": "Free In The Knowledge",
       "url": "https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Californian Soil",
-        "url": "https://open.spotify.com/album/3wcC3Rowkgk4CffWv84sJH"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 199996,
-      "name": "Lose Your Head",
-      "url": "https://open.spotify.com/track/2kU6bMVN21UbJ425q1yIKR"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Far From Here",
+        "url": "https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 260338,
+      "name": "Edge of the Dark",
+      "url": "https://open.spotify.com/track/4RE36XFP3a20pBSV9GdMAE"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Romantic Images",
         "url": "https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 247934,
       "name": "Emotion feat. Wild Nothing",
       "url": "https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Far From Here",
-        "url": "https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 260338,
-      "name": "Edge of the Dark",
-      "url": "https://open.spotify.com/track/4RE36XFP3a20pBSV9GdMAE"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1267,6 +1267,38 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "First Contact",
+        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/1FG2lH6gxJCX94kOg2Sozp"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "LP (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ySTNJgYTaUQJwGBLYWpKv"
+      },
+      "artists": [
+        {
+          "name": "Discovery",
+          "url": "https://open.spotify.com/artist/1fg65Qx6tRt0aXBfz5I4w5"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Swing Tree",
+      "url": "https://open.spotify.com/track/3Gec0eWZ22o0rNKKUSSzLI"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "are we?",
         "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
       },
@@ -1287,22 +1319,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "First Contact",
-        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
-      },
-      "artists": [
-        {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        }
-      ],
-      "duration_ms": 236173,
-      "name": "No Time",
-      "url": "https://open.spotify.com/track/1FG2lH6gxJCX94kOg2Sozp"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 266036,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "LP (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5ySTNJgYTaUQJwGBLYWpKv"
-      },
-      "artists": [
-        {
-          "name": "Discovery",
-          "url": "https://open.spotify.com/artist/1fg65Qx6tRt0aXBfz5I4w5"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Swing Tree",
-      "url": "https://open.spotify.com/track/3Gec0eWZ22o0rNKKUSSzLI"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "September Come",
-        "url": "https://open.spotify.com/album/7gmEibaDmaeX04sGCIPayd"
-      },
-      "artists": [
-        {
-          "name": "Mo\u00ebl",
-          "url": "https://open.spotify.com/artist/4G0BLZEt6gxTlxB6fZsvTa"
-        },
-        {
-          "name": "The Accents",
-          "url": "https://open.spotify.com/artist/4nbJ453Y0kDXpYVvQYq7DJ"
-        }
-      ],
-      "duration_ms": 240131,
-      "name": "September Come",
-      "url": "https://open.spotify.com/track/0xsrh1MnIju00GT8ZmEcIu"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "WONDER (reimagined)",
         "url": "https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 255976,
       "name": "WONDER - PVRIS Remix",
       "url": "https://open.spotify.com/track/45Lipcl84LsBSjNu9HLvd7"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "September Come",
+        "url": "https://open.spotify.com/album/7gmEibaDmaeX04sGCIPayd"
+      },
+      "artists": [
+        {
+          "name": "Mo\u00ebl",
+          "url": "https://open.spotify.com/artist/4G0BLZEt6gxTlxB6fZsvTa"
+        },
+        {
+          "name": "The Accents",
+          "url": "https://open.spotify.com/artist/4nbJ453Y0kDXpYVvQYq7DJ"
+        }
+      ],
+      "duration_ms": 240131,
+      "name": "September Come",
+      "url": "https://open.spotify.com/track/0xsrh1MnIju00GT8ZmEcIu"
     },
     {
       "added_at": "2023-01-11 21:01:15",

@@ -3391,6 +3391,24 @@
     },
     {
       "album": {
+        "name": "Knock Out",
+        "url": "https://open.spotify.com/album/3pHuTLk66QGfAd4KRq4ErX"
+      },
+      "artists": [
+        {
+          "name": "Okazaki Taiiku",
+          "url": "https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225666,
+      "name": "Knock Out",
+      "url": "https://open.spotify.com/track/5ktgImJ7uP5gR2Pv85R9Qy"
+    },
+    {
+      "album": {
         "name": "Koino Uta",
         "url": "https://open.spotify.com/album/3WCOtVNy5QefE0fbrfMGUy"
       },
@@ -11532,7 +11550,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 303627,
       "name": "\u661f\u306e\u30af\u30ba \u03b1",
       "url": "https://open.spotify.com/track/5MU5Ut06m3owitzqy5Bmvf"

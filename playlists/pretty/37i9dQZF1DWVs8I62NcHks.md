@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVs8I62NcHks.md) - [plain]
 
 > All your favorite Disney classics, new and old\. Stream Pinocchio on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,901,068 likes - 83 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,901,112 likes - 83 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

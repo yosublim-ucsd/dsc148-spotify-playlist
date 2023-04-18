@@ -4,7 +4,7 @@
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-478 songs - 1 day 13 hr 10 min
+479 songs - 1 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,6 +147,7 @@
 | [Goodbye](https://open.spotify.com/track/6mV94eTaeLShS60zi0lHxv) | [Renee Rosnes](https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD) | [Art & Soul](https://open.spotify.com/album/4e4qbotsDrDjZm3yUnVdP4) | 5:36 | 2022-02-10 |  |
 | [Goodbye Mr\. Evans](https://open.spotify.com/track/508fsu9SwC0ZaTlr8cWYTL) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja), [Scott Colley](https://open.spotify.com/artist/2xXlVRnJO7vxdGV8Z2nWjb), [Dennis Mackrel](https://open.spotify.com/artist/3PUIxfK6P8boslOXGpZPoK) | [Souvenir](https://open.spotify.com/album/3brxc2ayHoVUxk8PhXFZ8A) | 9:38 | 2022-02-10 |  |
 | [Guess I'll Hang Out My Tears To Dry](https://open.spotify.com/track/5g3O8EUyEr0nquFAUf3bPc) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [My Foolish Heart](https://open.spotify.com/album/2Ewzq4eFx2OHKG69SduRad) | 11:09 | 2022-02-10 |  |
+| [Heaven Sent You](https://open.spotify.com/track/0oucU7y8EaRo6PbBHIaAdt) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 4:14 | 2023-04-14 |  |
 | [Heroes](https://open.spotify.com/track/0QE9gHtja2QR77FCMaTs9w) | [Lynne Arriale Trio](https://open.spotify.com/artist/5aSW8XbsteHFgFPYpp1s3x) | [The Lights Are Always On](https://open.spotify.com/album/5F7V2ea9cMt7PLJ1oOg8iB) | 4:15 | 2022-04-07 |  |
 | [Hesitation](https://open.spotify.com/track/79DycP44xL69ZNfkH3Kqnd) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 2:20 | 2022-05-19 |  |
 | [Home Of My Tomorrow](https://open.spotify.com/track/01PueBjWRvJTwWwuClGbEp) | [Clover Post](https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz) | [Home Of My Tomorrow](https://open.spotify.com/album/3amTnyss3HFuWlMgDJ7Oyu) | 3:08 | 2022-11-24 |  |
@@ -206,7 +207,7 @@
 | [It's So Peaceful In The Country](https://open.spotify.com/track/6ntbjPkc9JckO4IlB0LeSg) | [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg), [Kenny Washington](https://open.spotify.com/artist/4ern8uIUTeqcI4AE8Q5ZnO), [Peter Washington](https://open.spotify.com/artist/6t5ibafOkoWm4GveO6lBzp) | [All Through The Night](https://open.spotify.com/album/1ZAmPpqvbbsMa1lXu4YjWR) | 5:16 | 2022-03-10 |  |
 | [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2022-11-12 |  |
 | [It's Yours](https://open.spotify.com/track/35OgNnx9Uhmau4krXkD4cO) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Relaxin'](https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ) | 4:08 | 2022-06-03 |  |
-| [January Dust](https://open.spotify.com/track/1jSmbHPNCdQkbXaRMeaeet) | [Yoon Jong Ryul](https://open.spotify.com/artist/14gyB2ipghybniP9azTd42) | [Simple Life](https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP) | 7:33 | 2022-02-10 |  |
+| [January Dust](https://open.spotify.com/track/1jSmbHPNCdQkbXaRMeaeet) | [Yoon Jong Ryul](https://open.spotify.com/artist/14gyB2ipghybniP9azTd42) | [Simple Life](https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP) | 7:33 | 2022-02-10 | 2023-04-18 |
 | [Jitterbug Waltz](https://open.spotify.com/track/1ypXqJHbK7e2gxbXUUI5kt) | [Mark Lewandowski](https://open.spotify.com/artist/1R4AQQ9Nmpc45CPW1QaXdo), [Liam Noble](https://open.spotify.com/artist/7mELwSaNVG7mx7Ju8Pja4N), [Paul Clarvis](https://open.spotify.com/artist/55yNRgOKReYCobfF0JTEKQ) | [Waller](https://open.spotify.com/album/5Tm4fXny7i9zeHOKABUx2X) | 6:16 | 2022-07-07 |  |
 | [Jitterbug Waltz](https://open.spotify.com/track/78tkbFOl19X4dd25sxossL) | [Mark Lewandowski](https://open.spotify.com/artist/1R4AQQ9Nmpc45CPW1QaXdo), [Liam Noble](https://open.spotify.com/artist/7mELwSaNVG7mx7Ju8Pja4N), [Paul Clarvis](https://open.spotify.com/artist/55yNRgOKReYCobfF0JTEKQ) | [Waller](https://open.spotify.com/album/5xUzn9J7eHJOQpQ6bYba8U) | 6:16 | 2022-02-10 | 2022-07-29 |
 | [Johnny Come Lately](https://open.spotify.com/track/7g1qq3AN0siIENRddNSloR) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Johnny Come Lately](https://open.spotify.com/album/0zr4z6oCxAOyJ64x1iBuvi) | 2:55 | 2022-11-12 |  |

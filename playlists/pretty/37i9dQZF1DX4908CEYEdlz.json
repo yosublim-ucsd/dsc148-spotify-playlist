@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Fall Out Boy",
-  "num_followers": 703886,
+  "num_followers": 703882,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTI2MCwwMDAwMDAwMDkzZmFjYWZlODA0Y2U1YWYyNWJlMmQ5ZWFhY2Q2MWFk",
+  "snapshot_id": "MTY4MTQ0MTI2MCwwMDAwMDAwMDJkMGYyN2RjYjM3MTc5ODA1OGZjYzFhZGNmNTQyZjI4",
   "tracks": [
     {
       "added_at": "2023-04-14 03:01:00",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Heartbreak Feels So Good",
-        "url": "https://open.spotify.com/album/5GwtecGz0FCy9onGWtrVRS"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 217537,
-      "name": "Heartbreak Feels So Good",
-      "url": "https://open.spotify.com/track/0Rw35DKIumkbbMC7XPOn5r"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
         "name": "Metamorph",
         "url": "https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8"
       },
@@ -303,6 +287,38 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
+        "name": "Heartbreak Feels So Good",
+        "url": "https://open.spotify.com/album/5GwtecGz0FCy9onGWtrVRS"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 217537,
+      "name": "Heartbreak Feels So Good",
+      "url": "https://open.spotify.com/track/0Rw35DKIumkbbMC7XPOn5r"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
+        "name": "Wrecked",
+        "url": "https://open.spotify.com/album/2qjb5OwlllLLOmrueU08kG"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 244004,
+      "name": "Wrecked",
+      "url": "https://open.spotify.com/track/2d1MywHy6FwKdzxFuSJnwl"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
         "name": "Planet Zero",
         "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
       },
@@ -335,6 +351,22 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 459120,
+      "name": "72 Seasons",
+      "url": "https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h"
       },
@@ -351,22 +383,6 @@
       "duration_ms": 194826,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
-        "name": "Wrecked",
-        "url": "https://open.spotify.com/album/2qjb5OwlllLLOmrueU08kG"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 244004,
-      "name": "Wrecked",
-      "url": "https://open.spotify.com/track/2d1MywHy6FwKdzxFuSJnwl"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -403,22 +419,6 @@
       "duration_ms": 197253,
       "name": "Neurotic (feat. Lukas Rossi)",
       "url": "https://open.spotify.com/track/6JfNf81zML3XVFXZbbtyZ8"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 459120,
-      "name": "72 Seasons",
-      "url": "https://open.spotify.com/track/4poeu6nUr4UQo1RXpp29Js"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Hotel Kalifornia",
-        "url": "https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 173931,
-      "name": "City Of The Dead",
-      "url": "https://open.spotify.com/track/4CPlagY81Aa98saLVpwj2O"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 330453,
       "name": "Screaming Suicide",
       "url": "https://open.spotify.com/track/2zSb2Db4kNYH5qIs5V3BgG"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
+        "name": "Hotel Kalifornia",
+        "url": "https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 173931,
+      "name": "City Of The Dead",
+      "url": "https://open.spotify.com/track/4CPlagY81Aa98saLVpwj2O"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Lighting Up The Sky",
-        "url": "https://open.spotify.com/album/5puvjdeWFxlB0P1222trxX"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 245099,
-      "name": "Soul On Fire",
-      "url": "https://open.spotify.com/track/2u89RsYYNCCXwNvHgTnzmf"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
         "name": "\u00d8F KINGD\u00d8M AND CR\u00d8WN",
         "url": "https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 258465,
       "name": "N\u00d8 G\u00d8DS, N\u00d8 MASTERS",
       "url": "https://open.spotify.com/track/7nJMvNlDpJShN4HJNJ97Gh"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
+        "name": "Lighting Up The Sky",
+        "url": "https://open.spotify.com/album/5puvjdeWFxlB0P1222trxX"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 245099,
+      "name": "Soul On Fire",
+      "url": "https://open.spotify.com/track/2u89RsYYNCCXwNvHgTnzmf"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Taking Me Back",
-        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
-      },
-      "artists": [
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 245961,
-      "name": "Taking Me Back",
-      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
         "name": "Walk The Sky",
         "url": "https://open.spotify.com/album/3CDDZa8pfzfxfDdtm7g84B"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 229940,
       "name": "Wouldn't You Rather",
       "url": "https://open.spotify.com/track/2BJrrLbxGDM26fTpWqBMKU"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
+        "name": "BURIED ALIVE",
+        "url": "https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 213774,
+      "name": "BURIED ALIVE",
+      "url": "https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -871,34 +871,18 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "BURIED ALIVE",
-        "url": "https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL"
+        "name": "Taking Me Back",
+        "url": "https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw"
       },
       "artists": [
         {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
         }
       ],
-      "duration_ms": 213774,
-      "name": "BURIED ALIVE",
-      "url": "https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
-        "name": "More Than Machines",
-        "url": "https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83"
-      },
-      "artists": [
-        {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
-        }
-      ],
-      "duration_ms": 201541,
-      "name": "More Than Machines",
-      "url": "https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC"
+      "duration_ms": 245961,
+      "name": "Taking Me Back",
+      "url": "https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -947,6 +931,38 @@
       "duration_ms": 258837,
       "name": "Feast Of Fire",
       "url": "https://open.spotify.com/track/4iJg7QdhqLHwfYOmYHqU9z"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 293093,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
+        "name": "More Than Machines",
+        "url": "https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "duration_ms": 201541,
+      "name": "More Than Machines",
+      "url": "https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -1015,22 +1031,6 @@
       "duration_ms": 215986,
       "name": "TAKE THIS CROWN (feat. Good Charlotte)",
       "url": "https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
-        "name": "Limbo",
-        "url": "https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 293093,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W"
     },
     {
       "added_at": "2023-04-14 03:01:00",

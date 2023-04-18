@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: Nivel Codiciado ",
-  "num_followers": 98388,
+  "num_followers": 98405,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMzE5MywwMDAwMDAwMDZmMjgzMzY2NWI4MWMxOTk0ODVlNjhlMjU0MTgxOTdj",
+  "snapshot_id": "MTY3OTAzMzE5MywwMDAwMDAwMGRlNWE0NjE3OTM3ODI2YmFjYTRlMmFkYmY4YTBmN2Q1",
   "tracks": [
     {
       "added_at": "2023-03-17 06:06:33",
@@ -327,22 +327,18 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Negro Como La Pantera",
-        "url": "https://open.spotify.com/album/1V2a8dVFLfV4lju73nnIXr"
+        "name": "Cambiaste",
+        "url": "https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj"
       },
       "artists": [
         {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        },
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 129953,
-      "name": "Negro Como La Pantera",
-      "url": "https://open.spotify.com/track/1QpM1kB7sggMOBuWUNUnfg"
+      "duration_ms": 174817,
+      "name": "Cambiaste",
+      "url": "https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -363,18 +359,22 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Cambiaste",
-        "url": "https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj"
+        "name": "Negro Como La Pantera",
+        "url": "https://open.spotify.com/album/1V2a8dVFLfV4lju73nnIXr"
       },
       "artists": [
         {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 174817,
-      "name": "Cambiaste",
-      "url": "https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8"
+      "duration_ms": 129953,
+      "name": "Negro Como La Pantera",
+      "url": "https://open.spotify.com/track/1QpM1kB7sggMOBuWUNUnfg"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Solo Tu Podras",
-        "url": "https://open.spotify.com/album/6xUOmWbItiEJrE2bAU3p9W"
-      },
-      "artists": [
-        {
-          "name": "Nivel Codiciado",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        }
-      ],
-      "duration_ms": 206814,
-      "name": "Solo Tu Podras",
-      "url": "https://open.spotify.com/track/4n8zQAFzSi3jH3JQGsbI86"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Cambio De Canci\u00f3n",
         "url": "https://open.spotify.com/album/669yLYUn6jylypYi5lmge1"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 169548,
       "name": "Cambio De Canci\u00f3n",
       "url": "https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Solo Tu Podras",
+        "url": "https://open.spotify.com/album/6xUOmWbItiEJrE2bAU3p9W"
+      },
+      "artists": [
+        {
+          "name": "Nivel Codiciado",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "duration_ms": 206814,
+      "name": "Solo Tu Podras",
+      "url": "https://open.spotify.com/track/4n8zQAFzSi3jH3JQGsbI86"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Perdido en el Tiempo",
-        "url": "https://open.spotify.com/album/1TK4vBd9SsOrAuWIHXyZua"
-      },
-      "artists": [
-        {
-          "name": "Erick B",
-          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
-        }
-      ],
-      "duration_ms": 116758,
-      "name": "Loco Enamorado",
-      "url": "https://open.spotify.com/track/4URdPlDsIux1ltUokXxr0t"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Modo Avi\u00f3n",
         "url": "https://open.spotify.com/album/2C32pT8EsdDNFRcNBBo9V1"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 211106,
       "name": "Modo Avi\u00f3n",
       "url": "https://open.spotify.com/track/1eqM9yaPSVqyCPBqoHLWvk"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Perdido en el Tiempo",
+        "url": "https://open.spotify.com/album/1TK4vBd9SsOrAuWIHXyZua"
+      },
+      "artists": [
+        {
+          "name": "Erick B",
+          "url": "https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf"
+        }
+      ],
+      "duration_ms": 116758,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/4URdPlDsIux1ltUokXxr0t"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -747,38 +747,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Tu",
-        "url": "https://open.spotify.com/album/08XXrFdbOuySISB5Nu7avE"
-      },
-      "artists": [
-        {
-          "name": "Panchito Vega",
-          "url": "https://open.spotify.com/artist/3YJGzBDtf6ekCkxVRcdRjg"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/6bq5ZnMxiyQESyr8t4hjbl"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
-        "name": "Ojos Cerrados",
-        "url": "https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq"
-      },
-      "artists": [
-        {
-          "name": "Natalie L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
-        }
-      ],
-      "duration_ms": 156354,
-      "name": "Ojos Cerrados",
-      "url": "https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Nos Acoplamos Macizo",
         "url": "https://open.spotify.com/album/0mAX4bigDwYatbUkkqlUWl"
       },
@@ -811,6 +779,38 @@
       "duration_ms": 292236,
       "name": "Si No Te Hubieras Ido",
       "url": "https://open.spotify.com/track/6R5QRhLTTk2KetYpu6H5O7"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/08XXrFdbOuySISB5Nu7avE"
+      },
+      "artists": [
+        {
+          "name": "Panchito Vega",
+          "url": "https://open.spotify.com/artist/3YJGzBDtf6ekCkxVRcdRjg"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/6bq5ZnMxiyQESyr8t4hjbl"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Ojos Cerrados",
+        "url": "https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq"
+      },
+      "artists": [
+        {
+          "name": "Natalie L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU"
+        }
+      ],
+      "duration_ms": 156354,
+      "name": "Ojos Cerrados",
+      "url": "https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Damas y Placeres",
-        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
-      },
-      "artists": [
-        {
-          "name": "Esteban Gabriel",
-          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
-        }
-      ],
-      "duration_ms": 196437,
-      "name": "Mil Horas",
-      "url": "https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Payonazo Exoticos",
         "url": "https://open.spotify.com/album/4RdLhLXeCGo3xDAFH0lwNR"
       },
@@ -883,22 +867,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Mi Dolor",
-        "url": "https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        }
-      ],
-      "duration_ms": 218250,
-      "name": "Mi Dolor",
-      "url": "https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Tu Labial",
         "url": "https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx"
       },
@@ -911,6 +879,38 @@
       "duration_ms": 227018,
       "name": "Tu Labial",
       "url": "https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Damas y Placeres",
+        "url": "https://open.spotify.com/album/5v8HgiTLQwBAdYetXbRVfC"
+      },
+      "artists": [
+        {
+          "name": "Esteban Gabriel",
+          "url": "https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/1WQbRS0rx6rA64E74Dl9Hk"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Mi Dolor",
+        "url": "https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 218250,
+      "name": "Mi Dolor",
+      "url": "https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
+        "name": "La Cancion",
+        "url": "https://open.spotify.com/album/64WFuqvj8ABvZHvo9BoV0c"
+      },
+      "artists": [
+        {
+          "name": "Omar Rodriguez",
+          "url": "https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "La Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2weKT5Gn2nOEKSjtchYGUR"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
         "name": "Manzana en el Mapa",
         "url": "https://open.spotify.com/album/6CbT6DH726p3P8oAtmox7j"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 175326,
       "name": "El Terminator",
       "url": "https://open.spotify.com/track/1QQeHaqtG8tOU8BbCWVPf6"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
-        "name": "La Cancion",
-        "url": "https://open.spotify.com/album/64WFuqvj8ABvZHvo9BoV0c"
-      },
-      "artists": [
-        {
-          "name": "Omar Rodriguez",
-          "url": "https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD"
-        }
-      ],
-      "duration_ms": 205600,
-      "name": "La Canci\u00f3n",
-      "url": "https://open.spotify.com/track/2weKT5Gn2nOEKSjtchYGUR"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Nuestra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/3EQ5tfMWami2tNp5FW3Ux4"
-      },
-      "artists": [
-        {
-          "name": "Los de FL",
-          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
-        }
-      ],
-      "duration_ms": 201848,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Juzgarme",
         "url": "https://open.spotify.com/album/3wiZqEZKOkCjQ13KU4Pe2p"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 183516,
       "name": "Juzgarme",
       "url": "https://open.spotify.com/track/1GZBXmYFvNXj6tDLLtEjIB"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/3EQ5tfMWami2tNp5FW3Ux4"
+      },
+      "artists": [
+        {
+          "name": "Los de FL",
+          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
+        }
+      ],
+      "duration_ms": 201848,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
+        "name": "Las Rayas",
+        "url": "https://open.spotify.com/album/3UR62vj0iao5rSSTYEEWDD"
+      },
+      "artists": [
+        {
+          "name": "Christian Nava",
+          "url": "https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0"
+        }
+      ],
+      "duration_ms": 190636,
+      "name": "Las Rayas",
+      "url": "https://open.spotify.com/track/3NR39Ys3YaqjdckVC5tAhY"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
         "name": "Es Claro",
         "url": "https://open.spotify.com/album/5bZbVxM7cTMdqUkoNcRr5y"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 232368,
       "name": "Nadie En Este Mundo",
       "url": "https://open.spotify.com/track/228sACC7y614ro6IKRsOUJ"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
-        "name": "Las Rayas",
-        "url": "https://open.spotify.com/album/3UR62vj0iao5rSSTYEEWDD"
-      },
-      "artists": [
-        {
-          "name": "Christian Nava",
-          "url": "https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0"
-        }
-      ],
-      "duration_ms": 190636,
-      "name": "Las Rayas",
-      "url": "https://open.spotify.com/track/3NR39Ys3YaqjdckVC5tAhY"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "El Jamaico",
-        "url": "https://open.spotify.com/album/4hgCUGj95UEGaoM83P5V33"
-      },
-      "artists": [
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        }
-      ],
-      "duration_ms": 144340,
-      "name": "El Jamaico",
-      "url": "https://open.spotify.com/track/5mfbrsTi4Xln6E3MKVC0yE"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Tiempo Perdido",
         "url": "https://open.spotify.com/album/0G19We9KJd6Njy3xtlC2Ot"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 232153,
       "name": "DIFF",
       "url": "https://open.spotify.com/track/6XOn65GQp7L7Xg80RO3ZDb"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "El Jamaico",
+        "url": "https://open.spotify.com/album/4hgCUGj95UEGaoM83P5V33"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "duration_ms": 144340,
+      "name": "El Jamaico",
+      "url": "https://open.spotify.com/track/5mfbrsTi4Xln6E3MKVC0yE"
     },
     {
       "added_at": "2023-03-17 06:06:33",

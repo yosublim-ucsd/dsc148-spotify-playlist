@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Yaeji
 
-770 songs - 2 day 2 hr 36 min
+771 songs - 2 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Earthbound](https://open.spotify.com/track/1MQ8iWOA8dkFLX744wq1fX) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Earthbound](https://open.spotify.com/album/6NrVNDu3HnJRPAD3eiGaKv) | 2:45 | 2023-02-10 | 2023-02-25 |
 | [EASE YOUR MIND](https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Devin Tracy](https://open.spotify.com/artist/6MfKvHA64hLnQEJ9E5M7FT) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 3:57 | 2022-04-22 |  |
 | [Eastern Lights](https://open.spotify.com/track/0pB9l6GPqjwH46cbxLAVnJ) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf) | [Eastern Lights](https://open.spotify.com/album/1uxm5mezOuEInR9LE7By5Z) | 4:11 | 2021-12-10 | 2022-07-29 |
-| [EASY PREY \- yeule & Kin Leonn Remix](https://open.spotify.com/track/7Iq7G3WVcIz3cvJCrOCPCh) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [Kin Leonn](https://open.spotify.com/artist/7h9uypOhMJuqwLKsMghsLK), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [EVEN MORE D4TA](https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM) | 4:31 | 2023-03-17 |  |
+| [EASY PREY \- yeule & Kin Leonn Remix](https://open.spotify.com/track/7Iq7G3WVcIz3cvJCrOCPCh) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [Kin Leonn](https://open.spotify.com/artist/7h9uypOhMJuqwLKsMghsLK), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [EVEN MORE D4TA](https://open.spotify.com/album/1Jezw4Z2jKAhBF193bY5qM) | 4:31 | 2023-03-17 | 2023-04-18 |
 | [Ecdysis!](https://open.spotify.com/track/4NwLdxjO1eqR5cgGInf7Go) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Ecdysis!](https://open.spotify.com/album/7ofV8dUpKkDgd068rK3Vly) | 6:29 | 2022-01-21 | 2022-04-16 |
 | [Ecstasy \(Over & Over\)](https://open.spotify.com/track/2nHBfIdQ4ndFNaWilLdBUN) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Ecstasy \(Over & Over\)](https://open.spotify.com/album/4IMEWyvS2r1mpnTYD8j4Sb) | 3:36 | 2022-09-17 | 2022-10-06 |
 | [eee](https://open.spotify.com/track/0acffaX5iSeZRT6QsorKPA) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [rei so la](https://open.spotify.com/artist/6ZyqJ0aS979tbln9vjpVyF), [Abraham Tilbury](https://open.spotify.com/artist/4aQXVB8RpVJTrpQoKdkE4M) | [eee](https://open.spotify.com/album/7rnN1mCHS0lELUTV48yDyZ) | 3:06 | 2022-02-18 | 2022-07-29 |
@@ -406,6 +406,7 @@
 | [lived to love](https://open.spotify.com/track/2m9N5pZkg7wkgLadlvWcpj) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [lived to love](https://open.spotify.com/album/0zNnPMSDTJqoOrO75pCIvk) | 4:15 | 2021-09-24 | 2022-01-17 |
 | [Locked](https://open.spotify.com/track/1vBxzMZGCneeEemHVMw6Q3) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Pink](https://open.spotify.com/album/4AQJGcPp7SpT1xNLWrfYuz) | 8:29 | 2022-09-17 | 2022-10-06 |
 | [Looking at Your Pager](https://open.spotify.com/track/0y6CoVW1ZSBqRmPbyfhFQs) | [KH](https://open.spotify.com/artist/7nwdEDnfgNpPhWQCXX3KSx) | [Looking at Your Pager](https://open.spotify.com/album/5ZiFsbS4RLFZVyJRN3Bmvz) | 2:54 | 2022-05-20 | 2023-03-31 |
+| [Looking For You](https://open.spotify.com/track/2ovBWGKwDiF7nQ02o26bLQ) | [Sam Silver](https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0) | [How I Hear it](https://open.spotify.com/album/3IXrAMo3UkoTb1oVmCVINn) | 3:44 | 2023-04-17 |  |
 | [Looking Forward To You](https://open.spotify.com/track/1saRLoMKzzLBnCBfsZEjyu) | [Jack J](https://open.spotify.com/artist/5AIM76YeoaHOzyUHbg4UKl) | [Looking Forward To You](https://open.spotify.com/album/5ls6oECIiOOvkjKJUFzTdP) | 8:09 | 2022-01-28 | 2022-04-16 |
 | [Losing Control – Satin Jackets Remix](https://open.spotify.com/track/4PCl6CXf08m2Q2ofMxeBIG) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Losing Control \- Satin Jackets Remix](https://open.spotify.com/album/1yuYOOEedkfV3NoZWW53Fw) | 3:34 | 2021-05-21 | 2022-02-08 |
 | [Losing My Mind](https://open.spotify.com/track/2hMTgMeXtubSWYexxpLrbS) | [NEW CITY](https://open.spotify.com/artist/4X5U7EjHMofqX4mUAkJm23) | [Losing My Mind](https://open.spotify.com/album/4XjfPIc3eDkBAmGwyUPSX6) | 3:50 | 2021-04-23 | 2022-01-31 |

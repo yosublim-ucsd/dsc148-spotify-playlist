@@ -2,9 +2,9 @@
 
 ### [K\-Are & Be](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: TANAKA, Vince\(다나카, 빈스\)\)
+> 한국 R&B\. The hottest K\-R&B is here\. \(Cover: 그래쓰\(GRASS\)\)
 
-184 songs - 10 hr 30 min
+187 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [About Us \(Feat\. Filipe Santos\)](https://open.spotify.com/track/45E8aSa1AI4Yyd0XClOGpu) | [vvav](https://open.spotify.com/artist/7yphCtMHUx2eL5hHrpQnGx), [Filipe Santos](https://open.spotify.com/artist/6ZiJkBamnBr4DjuJ79thgP) | [About Us](https://open.spotify.com/album/0LhNmfYsvEH53AnyyUVCE4) | 3:16 | 2022-05-28 | 2022-07-08 |
 | [After you’ve gone](https://open.spotify.com/track/1JEeGmgxMtzRiMo0rv7RC6) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [After you’ve gone](https://open.spotify.com/album/0CDAPlOOdZ8kf5zfyNOWey) | 3:50 | 2022-08-02 | 2023-01-14 |
 | [AhChoo!](https://open.spotify.com/track/6wIZ0Yct9aMra5kHMDk5mG) | [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [AhChoo!](https://open.spotify.com/album/07X66xfc5A1CWDzgHRs2gU) | 2:55 | 2022-05-28 | 2022-08-19 |
+| [airplane\-mode](https://open.spotify.com/track/1q4FmOZDVNqozyHHHF5Qef) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi) | [Safely arrived ✈](https://open.spotify.com/album/6bW8E912AETQyFdtB6OD14) | 3:00 | 2023-04-17 |  |
 | [ALARM](https://open.spotify.com/track/6b44AK3LX4Umv2e3Q6enC8) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [ALARM](https://open.spotify.com/album/4eW3NKZ1foDDZXR1Z39EaQ) | 3:23 | 2022-09-05 | 2023-02-15 |
 | [Alive with you \(feat\. SFC.JGR\)](https://open.spotify.com/track/3jLd5QpiODmjFrZnDj32o4) | [Yel](https://open.spotify.com/artist/6vz9KUVgEo1gXIobqiwJ15), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [Alive with you](https://open.spotify.com/album/7cQ8kH5jyOLLZuAJUhccUT) | 3:23 | 2022-08-19 | 2023-01-21 |
 | [All About You](https://open.spotify.com/track/4BPHgRFpbYJZhYLp5161Qi) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [ADAMAS, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/1MkWm3teh6zqfBVkpPUaji) | 4:17 | 2022-09-05 | 2022-12-16 |
@@ -102,6 +103,7 @@
 | [Knot](https://open.spotify.com/track/0abcdEtyIbdQGNMP9cNmPh) | [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [Knot](https://open.spotify.com/album/2kgNRya8F4X05PgYdL34o6) | 3:22 | 2022-06-09 | 2022-09-06 |
 | [LA VIE](https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Little Women, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6) | 3:49 | 2022-10-05 | 2023-01-11 |
 | [Last Pure Luv](https://open.spotify.com/track/6URA9fyuaEgiVyC706jElA) | [GYU HYUK](https://open.spotify.com/artist/4CR6l2Eylrakt5FBP6I7hr) | [Last Pure Luv](https://open.spotify.com/album/2W4sJVKg3dAA7DbffsoFFh) | 3:06 | 2023-01-13 |  |
+| [Lay me by your side \(feat\. JoOhA & Still\)](https://open.spotify.com/track/4UFUYZeFSxlmMMuwxAD8Qq) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [JoOhA](https://open.spotify.com/artist/3hkgIaHRJ0slOoCa8zUFVX), [Still](https://open.spotify.com/artist/6IbdxPqmhxU87FC6GneXxX) | [You are my spring](https://open.spotify.com/album/3r6HeTeQd7JlGmuhhiGwGe) | 2:46 | 2023-04-17 |  |
 | [LEMON \(Feat\. SOLE, MINO\)](https://open.spotify.com/track/1NZDEgM9f7j5l447FAcHYq) | [Padi](https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [LEMON](https://open.spotify.com/album/6zfZDAVgp6WPIKkg1b0tdF) | 3:20 | 2023-03-30 |  |
 | [Lock me up](https://open.spotify.com/track/0PDYx9zpcOnzIW4Epfk2Bb) | [GooNight](https://open.spotify.com/artist/6HeK6beIohZ8q4L8me1iId) | [Lock me up](https://open.spotify.com/album/3TjzPxoh0SfQSdxAq9GMfn) | 3:12 | 2022-07-07 | 2022-11-15 |
 | [Loner \(Feat\. g0nny\)](https://open.spotify.com/track/5z71sbduBfZcSWdgdx4Gfk) | [yiyona](https://open.spotify.com/artist/5UxbxMzCNo2m4oyAN4GYCv), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [Loner \(Feat\. g0nny\)](https://open.spotify.com/album/1n6h9eUFPgRcDVxPxy40CT) | 3:33 | 2022-10-28 | 2023-01-11 |
@@ -161,6 +163,7 @@
 | [To be honest](https://open.spotify.com/track/0lxBdQxyYdd0uSDbo5RaXw) | [Kim Yuna](https://open.spotify.com/artist/74UiZwRnkEE56JLvKhNGCB) | [To be honest](https://open.spotify.com/album/5pFXN6DU3OjKKo7Jt1sb74) | 3:10 | 2023-01-20 |  |
 | [Today](https://open.spotify.com/track/4X45vj2AcrqfXWfvmVQQF2) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Ocean like me \(Original Web Drama Soundtrack, Pt\. 3\)](https://open.spotify.com/album/0xLr70Id543bJ27W9hOmSM) | 3:39 | 2022-05-28 | 2022-08-19 |
 | [Tonight](https://open.spotify.com/track/6z3MFmth66YuneBbyzVFGJ) | [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Tonight \(Single Edition 4\)](https://open.spotify.com/album/4NfZyYetKI0lgIDXTCs6mL) | 3:50 | 2022-05-28 | 2022-06-21 |
+| [Tonite](https://open.spotify.com/track/1RQ5RNrzQ5BD3X8idn8KOQ) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [Tonite](https://open.spotify.com/album/60TEBgKHLlYS86WTewsbuZ) | 3:09 | 2023-04-17 |  |
 | [Treasure](https://open.spotify.com/track/3iAFryjJkdXe8UpcSOSN6w) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Come Back Home](https://open.spotify.com/album/0itIaXewMbaWbViMKNstF9) | 2:15 | 2022-11-22 | 2023-03-28 |
 | [Umbrella \(feat\. Ashley Alisha, Julian Rose\)](https://open.spotify.com/track/7jwfdA1tvjaqG3fi3HwHgm) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Julian Rose](https://open.spotify.com/artist/328e3lxjZnC2YueEVt503o) | [In the Rain](https://open.spotify.com/album/5gfpmmyrpKjXeiVrd4ZQmH) | 3:08 | 2022-07-04 | 2022-10-08 |
 | [Underwater](https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [Underwater](https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7) | 4:03 | 2022-05-28 | 2022-08-19 |

@@ -1,12 +1,12 @@
 {
   "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
-  "num_followers": 1077236,
+  "num_followers": 1077586,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDA1ODg0NywwMDAwMDAwMDFkZDEwYzMyMGNhNWZkZWJkZjBiODBkYTI1YWFkMTk3",
+  "snapshot_id": "MTY3NDA1ODg0NywwMDAwMDAwMDE1YmEzNjdkYTg2NDVhMjBiMmFjMzIxMGRiZjcyZjMz",
   "tracks": [
     {
       "added_at": "2023-01-18 16:20:47",
@@ -127,38 +127,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Odessey and Oracle",
-        "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
-      },
-      "artists": [
-        {
-          "name": "The Zombies",
-          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
-        }
-      ],
-      "duration_ms": 214026,
-      "name": "Time of the Season - Mono Version",
-      "url": "https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Surrealistic Pillow",
-        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
-      },
-      "artists": [
-        {
-          "name": "Jefferson Airplane",
-          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Disraeli Gears (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4"
       },
@@ -191,18 +159,34 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
-        "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
+        "name": "Odessey and Oracle",
+        "url": "https://open.spotify.com/album/6XqM4NINcx3oc7NhOUKxXp"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "The Zombies",
+          "url": "https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5"
         }
       ],
-      "duration_ms": 208466,
-      "name": "Lucy In The Sky With Diamonds - Remastered 2009",
-      "url": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"
+      "duration_ms": 214026,
+      "name": "Time of the Season - Mono Version",
+      "url": "https://open.spotify.com/track/6hleUCx3E4gB2urwRvx1QT"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Surrealistic Pillow",
+        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -271,6 +255,22 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "Sgt. Pepper's Lonely Hearts Club Band (Remastered)",
+        "url": "https://open.spotify.com/album/6QaVfG1pHYl1z15ZxkvVDW"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Lucy In The Sky With Diamonds - Remastered 2009",
+      "url": "https://open.spotify.com/track/25yQPHgC35WNnnOUqFhgVR"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9"
       },
@@ -319,6 +319,38 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "Sunshine Superman",
+        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
+      },
+      "artists": [
+        {
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Sunshine Superman",
+      "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Magical Mystery Tour (Remastered)",
+        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 275866,
+      "name": "I Am The Walrus - Remastered 2009",
+      "url": "https://open.spotify.com/track/6Pq9MmkDQYZiiCDpxnvrf6"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "Axis: Bold As Love",
         "url": "https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r"
       },
@@ -347,38 +379,6 @@
       "duration_ms": 264960,
       "name": "Five to One",
       "url": "https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Magical Mystery Tour (Remastered)",
-        "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 275866,
-      "name": "I Am The Walrus - Remastered 2009",
-      "url": "https://open.spotify.com/track/6Pq9MmkDQYZiiCDpxnvrf6"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Sunshine Superman",
-        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
-      },
-      "artists": [
-        {
-          "name": "Donovan",
-          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Sunshine Superman",
-      "url": "https://open.spotify.com/track/4RGxUjaCmVtD30pIhtEi7w"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Light and Heavy/The Best of...",
-        "url": "https://open.spotify.com/album/5SRbMc6fb21BcI3eq3aF7X"
-      },
-      "artists": [
-        {
-          "name": "Iron Butterfly",
-          "url": "https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS"
-        }
-      ],
-      "duration_ms": 173986,
-      "name": "In-A-Gadda-Da-Vida - Single Version",
-      "url": "https://open.spotify.com/track/41TqRBgF4Ahyr4vGmZVk8b"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "Younger Than Yesterday",
         "url": "https://open.spotify.com/album/33puYJ2y5qANDenRmL8BS1"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 188240,
       "name": "My Back Pages",
       "url": "https://open.spotify.com/track/1yexhSDARSLVvRCBU3wDAm"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Light and Heavy/The Best of...",
+        "url": "https://open.spotify.com/album/5SRbMc6fb21BcI3eq3aF7X"
+      },
+      "artists": [
+        {
+          "name": "Iron Butterfly",
+          "url": "https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS"
+        }
+      ],
+      "duration_ms": 173986,
+      "name": "In-A-Gadda-Da-Vida - Single Version",
+      "url": "https://open.spotify.com/track/41TqRBgF4Ahyr4vGmZVk8b"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "Fifth Dimension",
+        "url": "https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 214640,
+      "name": "Eight Miles High",
+      "url": "https://open.spotify.com/track/2BGNomqCxEDcXyxf8bg27k"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "Steppenwolf",
         "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 290933,
       "name": "Time Has Come Today",
       "url": "https://open.spotify.com/track/5qA1ZrjjVLh1cL9GZOFdNm"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Fifth Dimension",
-        "url": "https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb"
-      },
-      "artists": [
-        {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
-        }
-      ],
-      "duration_ms": 214640,
-      "name": "Eight Miles High",
-      "url": "https://open.spotify.com/track/2BGNomqCxEDcXyxf8bg27k"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
+        "name": "Gris Gris",
+        "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 466266,
+      "name": "I Walk on Guilded Splinters",
+      "url": "https://open.spotify.com/track/0OSNN0ABo1HMgfGeMQ3pCr"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
         "name": "Cactology \"The Cactus Collection\"",
         "url": "https://open.spotify.com/album/17c5c9QwjWsNg0N7zX7EBQ"
       },
@@ -1019,38 +1035,6 @@
       "duration_ms": 196800,
       "name": "Evil - Single Version",
       "url": "https://open.spotify.com/track/1MlsQwhm6MU3PYMHNIc2YS"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Gris Gris",
-        "url": "https://open.spotify.com/album/1yBoaVrgcup2hX2DCYUajs"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 466266,
-      "name": "I Walk on Guilded Splinters",
-      "url": "https://open.spotify.com/track/0OSNN0ABo1HMgfGeMQ3pCr"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
-        "name": "Incense And Peppermints",
-        "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Alarm Clock",
-          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
-        }
-      ],
-      "duration_ms": 184453,
-      "name": "Rainy Day Mushroom Pillow",
-      "url": "https://open.spotify.com/track/35VcWn3lZ4ne9mhN8uMrFm"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1099,6 +1083,22 @@
       "duration_ms": 242906,
       "name": "San Francisco Girls (Return Of The Native)",
       "url": "https://open.spotify.com/track/2Vio9orJlk0fFVeO0CgtA6"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Incense And Peppermints",
+        "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Alarm Clock",
+          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
+        }
+      ],
+      "duration_ms": 184453,
+      "name": "Rainy Day Mushroom Pillow",
+      "url": "https://open.spotify.com/track/35VcWn3lZ4ne9mhN8uMrFm"
     },
     {
       "added_at": "2023-01-18 16:20:47",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-01-18 16:20:47",
       "album": {
-        "name": "Wake Up...It's Tomorrow",
-        "url": "https://open.spotify.com/album/4DWojULyo8xC7cRB5QjKMm"
-      },
-      "artists": [
-        {
-          "name": "Strawberry Alarm Clock",
-          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Sit With The Guru",
-      "url": "https://open.spotify.com/track/0PKrvcdX7PUgubTWn0LDQ7"
-    },
-    {
-      "added_at": "2023-01-18 16:20:47",
-      "album": {
         "name": "S.F. Sorrow",
         "url": "https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc"
       },
@@ -1227,6 +1211,26 @@
       "duration_ms": 140146,
       "name": "8:05",
       "url": "https://open.spotify.com/track/58divL3uaZBaxs73jVHisg"
+    },
+    {
+      "added_at": "2023-01-18 16:20:47",
+      "album": {
+        "name": "Sly Stone & The Mojo Men",
+        "url": "https://open.spotify.com/album/1v7g2I7epACiji9krdyOhH"
+      },
+      "artists": [
+        {
+          "name": "Sly Stone",
+          "url": "https://open.spotify.com/artist/6hA6GJ2yJA08ifsAplkUr0"
+        },
+        {
+          "name": "The Mojo Men",
+          "url": "https://open.spotify.com/artist/0RMmoLhiIGyaVI6icgcJU9"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "My Woman's Head",
+      "url": "https://open.spotify.com/track/6DZWfBmnJMsHnwzTWTL3iV"
     }
   ],
   "unique_name": "Psychedelic Rock",

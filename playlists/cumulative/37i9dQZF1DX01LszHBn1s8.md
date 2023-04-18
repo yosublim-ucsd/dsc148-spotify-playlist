@@ -4,7 +4,7 @@
 
 > OH I LOVE IT AND I HATE IT AT THE SAME TIME
 
-1,053 songs - 2 day 7 hr 23 min
+1,054 songs - 2 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -563,6 +563,7 @@
 | [Mama Said](https://open.spotify.com/track/49oXJHnnxiWIdV5E6Btgf5) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham \(Blue Album\) \[International Version\]](https://open.spotify.com/album/0o2W2d2Zl7Bur5jph6phkm) | 3:26 | 2022-05-19 | 2022-07-29 |
 | [Mama Said](https://open.spotify.com/track/5ArQzSBevAdXTxRY6Ulhbq) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham](https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v) | 3:26 | 2022-05-19 |  |
 | [Man Areas](https://open.spotify.com/track/3AN5LEspFZQdQUFUUqsDct) | [Jonny McGovern](https://open.spotify.com/artist/3M09gMoXXM7K2RitFqbFSM) | [The Gayest Of All Time](https://open.spotify.com/album/0C8RwY3TfTQaXbePl1ItnJ) | 3:16 | 2022-05-19 |  |
+| [Maria Maria \(feat\. The Product G&B\)](https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [The Product G&B](https://open.spotify.com/artist/782IpIScTpnDhYb9hyxOu1) | [Supernatural \(Remastered\)](https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq) | 4:21 | 2023-04-17 |  |
 | [Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz) | 1:08 | 2022-05-19 | 2022-10-07 |
 | [Marlboro Nights](https://open.spotify.com/track/7fuQc3IfjiB1gCqP9c1Xvy) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/67kzmAbAwzOWcLONoB8cg1) | 1:08 | 2022-05-19 | 2022-07-29 |
 | [Mary On A Cross](https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Seven Inches Of Satanic Panic](https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF) | 4:04 | 2022-08-15 | 2022-09-02 |

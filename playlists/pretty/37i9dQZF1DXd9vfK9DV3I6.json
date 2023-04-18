@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 243021,
+  "num_followers": 243264,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM1Mjk3NiwwMDAwMDAwMDUxNzc2NmZhZDE0MzI5Y2M2MjVkNjY4MzZlZjJkMWZi",
+  "snapshot_id": "MTY4MTM1Mjk3NiwwMDAwMDAwMGU4ZDIyNTVhNjljMTk5MDQ1YTUyYzU5MTlhNWU1NjNi",
   "tracks": [
     {
       "added_at": "2023-04-11 02:56:45",
@@ -159,26 +159,6 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "Give a Little",
-        "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
-        },
-        {
-          "name": "Naila",
-          "url": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
-        }
-      ],
-      "duration_ms": 234838,
-      "name": "Give a Little",
-      "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
         "name": "In Control (feat. Selin)",
         "url": "https://open.spotify.com/album/1B68g8b4wpedNDvvQLAoCe"
       },
@@ -223,6 +203,22 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/578fRVB7xQHfJ3cEuS6DgZ"
+      },
+      "artists": [
+        {
+          "name": "Kate Linn",
+          "url": "https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4"
+        }
+      ],
+      "duration_ms": 154277,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/2PkxplmTqGwUlOw0x6bXHY"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
         "name": "Lovely",
         "url": "https://open.spotify.com/album/05zjElhX5hGafbGN1YUb6H"
       },
@@ -239,18 +235,22 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/578fRVB7xQHfJ3cEuS6DgZ"
+        "name": "Give a Little",
+        "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
       },
       "artists": [
         {
-          "name": "Kate Linn",
-          "url": "https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4"
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        },
+        {
+          "name": "Naila",
+          "url": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
         }
       ],
-      "duration_ms": 154277,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/2PkxplmTqGwUlOw0x6bXHY"
+      "duration_ms": 234838,
+      "name": "Give a Little",
+      "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -291,6 +291,26 @@
       "duration_ms": 330150,
       "name": "Ya Rayeh",
       "url": "https://open.spotify.com/track/3PU7mVJbqsEsowKgEPdqNW"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
+        "name": "Schhh",
+        "url": "https://open.spotify.com/album/0zCCmkgOMvcaGLJ0UtHZL1"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "duration_ms": 185689,
+      "name": "Schhh",
+      "url": "https://open.spotify.com/track/0Cv3w0j8YqO45I2Z4wwbzX"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -351,26 +371,6 @@
       "duration_ms": 152555,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1HzpCS56kzpWGLPmZif0gT"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
-        "name": "Schhh",
-        "url": "https://open.spotify.com/album/0zCCmkgOMvcaGLJ0UtHZL1"
-      },
-      "artists": [
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        }
-      ],
-      "duration_ms": 185689,
-      "name": "Schhh",
-      "url": "https://open.spotify.com/track/0Cv3w0j8YqO45I2Z4wwbzX"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -491,6 +491,30 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7"
+      },
+      "artists": [
+        {
+          "name": "Arman Cekin",
+          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
+        },
+        {
+          "name": "Bolier",
+          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
+        },
+        {
+          "name": "Rhi'N'B",
+          "url": "https://open.spotify.com/artist/3lmnnomU294PX91GpYswMn"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
         "name": "Le Beirut",
         "url": "https://open.spotify.com/album/7MQQTBdzZwwH5nlLR4AlXX"
       },
@@ -575,30 +599,6 @@
       "duration_ms": 188000,
       "name": "Arabian Magic",
       "url": "https://open.spotify.com/track/3OoJsGYbfYFH5rLm98Z2aW"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
-        "name": "Fade Away",
-        "url": "https://open.spotify.com/album/1W8TyTpZy2Sisd3X4CWOW7"
-      },
-      "artists": [
-        {
-          "name": "Arman Cekin",
-          "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
-        },
-        {
-          "name": "Bolier",
-          "url": "https://open.spotify.com/artist/65NscqgsoMPqBtoLbkP3jD"
-        },
-        {
-          "name": "Rhi'N'B",
-          "url": "https://open.spotify.com/artist/3lmnnomU294PX91GpYswMn"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -951,6 +951,26 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
+        "name": "Dahlia Girl",
+        "url": "https://open.spotify.com/album/4M63EciFwh9GYBuxH9G9Cv"
+      },
+      "artists": [
+        {
+          "name": "Deeperise",
+          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+        },
+        {
+          "name": "Eneli",
+          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "Dahlia Girl",
+      "url": "https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
         "name": "Your Love (Anthony Keyrouz Remix)",
         "url": "https://open.spotify.com/album/3riktT549Qi3VPtvd7fsdo"
       },
@@ -971,22 +991,22 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "Dahlia Girl",
-        "url": "https://open.spotify.com/album/4M63EciFwh9GYBuxH9G9Cv"
+        "name": "Sophonisbe",
+        "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
       },
       "artists": [
         {
-          "name": "Deeperise",
-          "url": "https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe"
+          "name": "Jugurtha",
+          "url": "https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME"
         },
         {
-          "name": "Eneli",
-          "url": "https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe"
+          "name": "Sahal\u00e9",
+          "url": "https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ"
         }
       ],
-      "duration_ms": 197052,
-      "name": "Dahlia Girl",
-      "url": "https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts"
+      "duration_ms": 396428,
+      "name": "Sophonisbe - Sahale Remix",
+      "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -1023,26 +1043,6 @@
       "duration_ms": 270015,
       "name": "La rose \u00e9ternelle",
       "url": "https://open.spotify.com/track/03cVD7fHfjGRGi2kEOyIy3"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
-        "name": "Sophonisbe",
-        "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
-      },
-      "artists": [
-        {
-          "name": "Jugurtha",
-          "url": "https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME"
-        },
-        {
-          "name": "Sahal\u00e9",
-          "url": "https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ"
-        }
-      ],
-      "duration_ms": 396428,
-      "name": "Sophonisbe - Sahale Remix",
-      "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "Anlar",
-        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
-      },
-      "artists": [
-        {
-          "name": "Valeron",
-          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
-        }
-      ],
-      "duration_ms": 430769,
-      "name": "Anlar",
-      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
         "name": "Ormila",
         "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 298867,
       "name": "Ormila",
       "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
+        "name": "Anlar",
+        "url": "https://open.spotify.com/album/22JM1qXMlAVy2MDKsdyN6c"
+      },
+      "artists": [
+        {
+          "name": "Valeron",
+          "url": "https://open.spotify.com/artist/1Y2TujuCl2jLHQGlbevTip"
+        }
+      ],
+      "duration_ms": 430769,
+      "name": "Anlar",
+      "url": "https://open.spotify.com/track/30rDKZPuQxu8US9AVEWkE7"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "Salat Ala Nabina",
-        "url": "https://open.spotify.com/album/2kGHqtp9WEhUeYrCQjjzDq"
-      },
-      "artists": [
-        {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        },
-        {
-          "name": "Kawtar Sadik",
-          "url": "https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb"
-        }
-      ],
-      "duration_ms": 218709,
-      "name": "Salat Ala Nabina - Radio Edit",
-      "url": "https://open.spotify.com/track/34v65aJB2ELQx3vpegUxb1"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
         "name": "Salam",
         "url": "https://open.spotify.com/album/6PpgtyminvgtcWIsGsdbzA"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 273502,
       "name": "Rhim - Jad Halal Remix",
       "url": "https://open.spotify.com/track/34aFMrV57fY6pxyNRsDNon"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
+        "name": "Salat Ala Nabina",
+        "url": "https://open.spotify.com/album/2kGHqtp9WEhUeYrCQjjzDq"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        },
+        {
+          "name": "Kawtar Sadik",
+          "url": "https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "Salat Ala Nabina - Radio Edit",
+      "url": "https://open.spotify.com/track/34v65aJB2ELQx3vpegUxb1"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "3ala bali",
-        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Pamela Antoun",
-          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
-        }
-      ],
-      "duration_ms": 210132,
-      "name": "3ala bali",
-      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
         "name": "Mandala",
         "url": "https://open.spotify.com/album/7AaSQmgtNyGxMZgjfgeesi"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 172850,
       "name": "Mindreader",
       "url": "https://open.spotify.com/track/5P52da2sNatI3lgZEW5Prb"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
+        "name": "3ala bali",
+        "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Pamela Antoun",
+          "url": "https://open.spotify.com/artist/68gE2RqxSG5FlbLan5voiN"
+        }
+      ],
+      "duration_ms": 210132,
+      "name": "3ala bali",
+      "url": "https://open.spotify.com/track/3qLyA3AChnCW7nsX8f6SOo"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -1819,42 +1819,6 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "Moulayiten",
-        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
-      },
-      "artists": [
-        {
-          "name": "Obeidmusic",
-          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
-        },
-        {
-          "name": "Ahmad Sleiman",
-          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
-        }
-      ],
-      "duration_ms": 297593,
-      "name": "Moulayiten",
-      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 213737,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/7Kf74ttO2jGB089f7yCfVC"
       },
@@ -1899,6 +1863,42 @@
       "duration_ms": 355886,
       "name": "Lbechra",
       "url": "https://open.spotify.com/track/5zTSZWYD9bIhrpeJbt42sp"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
+        "name": "Moulayiten",
+        "url": "https://open.spotify.com/album/38Y1doCUrlX33QLXMkBtCa"
+      },
+      "artists": [
+        {
+          "name": "Obeidmusic",
+          "url": "https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks"
+        },
+        {
+          "name": "Ahmad Sleiman",
+          "url": "https://open.spotify.com/artist/2apfH39lJSec2ItcHaIvzr"
+        }
+      ],
+      "duration_ms": 297593,
+      "name": "Moulayiten",
+      "url": "https://open.spotify.com/track/4rPNmktCst6tR92stbrrBR"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1PKS9AMSpBgINKKViRYcrm"
+      },
+      "artists": [
+        {
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
+        }
+      ],
+      "duration_ms": 213737,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/63BMldQAjrTJuEGMHwaMeM"
     },
     {
       "added_at": "2023-04-11 02:56:45",

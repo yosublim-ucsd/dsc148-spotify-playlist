@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Slovakia.
 
-1,245 songs - 2 day 15 hr 40 min
+1,246 songs - 2 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [boo](https://open.spotify.com/track/03oSPzvckEJOYFjQ3ITduH) | [Gleb](https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga) | [boo](https://open.spotify.com/album/7lftEfEMOUnny2WDWHSI0N) | 2:49 | 2022-10-09 | 2022-10-21 |
 | [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2021-10-02 | 2021-11-04 |
 | [Bout A Million \(feat\. 42 Dugg & 21 Savage\)](https://open.spotify.com/track/4LaGu95Ui2s4vprSQYWUAZ) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:23 | 2021-07-18 | 2021-07-19 |
-| [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-11 |  |
+| [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 | 2023-02-11 | 2023-04-18 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-12 | 2022-04-30 |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2022-05-21 | 2022-05-27 |
 | [Boží Mlýny Melou Furt](https://open.spotify.com/track/4uFaGNP4ei0VK7VC7BVbZ2) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h), [Saul](https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL), [Zkrat Kratochvíl](https://open.spotify.com/artist/5zPcA8oC80lt3ykHdP8Dpe), [Fobia Kid](https://open.spotify.com/artist/6qtdtH7BAqRMiG7d3djqta), [LUISA](https://open.spotify.com/artist/7J8NWckBrcIlgoE7Ue8v9H), [James Cole](https://open.spotify.com/artist/4RefYXMwgQ9ygWvQLmcphN), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [Kruhy & Vlny \(217 Twins Edition\)](https://open.spotify.com/album/1g4yVHWizHVL40m5GHfXCK) | 6:47 | 2023-04-08 | 2023-04-10 |
@@ -174,6 +174,7 @@
 | [Chcem mať s tebou bejby](https://open.spotify.com/track/0oieWmZlfKdi2oxJP9ihk7) | [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG) | [S láskou, Lukáš.](https://open.spotify.com/album/3fuDMexJaDX4XIfOiAMI9t) | 2:33 | 2023-02-15 | 2023-04-11 |
 | [CHCEME TOHO MOC \(chceme víc\)](https://open.spotify.com/track/6omhLQrBwVvtt5APsw0alB) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [J\. EDEN E\-GEN \(mixed by NobodyListen\)](https://open.spotify.com/album/3d9csZH2s2QPeC9leP6i2g) | 1:11 | 2022-02-26 | 2022-02-28 |
 | [Cheers](https://open.spotify.com/track/2XHTmp60LM0SLiLVJ30RPP) | [Rytmus](https://open.spotify.com/artist/1gRr6moof50L1b7XsbClvI), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [Cheers](https://open.spotify.com/album/2gUjsTjnIteh9HQ5wmrXaO) | 3:01 | 2021-11-14 | 2021-11-28 |
+| [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-17 |  |
 | [CHILLIN IN THE CLUB \- Em](https://open.spotify.com/track/0bKzxKmIWfxynVNHoJ9TXJ) | [Ego](https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl), [Coder](https://open.spotify.com/artist/4AzHjhfZLs10PDwro86OSw) | [POHODA](https://open.spotify.com/album/2RBX9DZ5emzRpZaautXqKK) | 2:49 | 2022-07-09 | 2022-07-12 |
 | [CHLAD](https://open.spotify.com/track/6Q3nBXr2hl1PphqnlAiz3I) | [Ego](https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl), [Coder](https://open.spotify.com/artist/4AzHjhfZLs10PDwro86OSw) | [PROTOTYPES](https://open.spotify.com/album/3GfYXb7CAmHDQOVTQEKNw4) | 2:16 | 2022-07-02 | 2022-07-05 |
 | [CHLAP ROBÍ ČO MUSÍ](https://open.spotify.com/track/4wcN9YA8YpqMPIKE3OIbvA) | [Ego](https://open.spotify.com/artist/2L3W8TmknCpxsOCiZQixyl), [Coder](https://open.spotify.com/artist/4AzHjhfZLs10PDwro86OSw) | [PROTOTYPES](https://open.spotify.com/album/3GfYXb7CAmHDQOVTQEKNw4) | 2:25 | 2022-07-02 | 2022-07-04 |

@@ -1,12 +1,12 @@
 {
   "description": "These early pioneers brought the underground to the foreground. Cover: Lou Reed. ",
-  "num_followers": 1117203,
+  "num_followers": 1117955,
   "original_name": "Early Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgzMDY5OSwwMDAwMDAwMGM4NjIxMzc0YTFiZjE1MjIyOWJiZDA5YjRlZDEyMDM4",
+  "snapshot_id": "MTY3ODgzMDY5OSwwMDAwMDAwMGNlZWI2YTc2OTc2ZDI4YWE4ZTE4ZjkzNzJhYWQwZTll",
   "tracks": [
     {
       "added_at": "2023-03-14 21:51:39",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-03-14 21:51:39",
       "album": {
-        "name": "Remain in Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+        "name": "Different Class",
+        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
       },
       "artists": [
         {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
         }
       ],
-      "duration_ms": 259906,
-      "name": "Once in a Lifetime - 2005 Remaster",
-      "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
+      "duration_ms": 351626,
+      "name": "Common People",
+      "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
     },
     {
       "added_at": "2023-03-14 21:51:39",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-03-14 21:51:39",
       "album": {
-        "name": "Different Class",
-        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
       },
       "artists": [
         {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 351626,
-      "name": "Common People",
-      "url": "https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF"
+      "duration_ms": 259906,
+      "name": "Once in a Lifetime - 2005 Remaster",
+      "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
     },
     {
       "added_at": "2023-03-14 21:51:39",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-03-14 21:51:39",
       "album": {
-        "name": "The Bela Session",
-        "url": "https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1"
-      },
-      "artists": [
-        {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
-        }
-      ],
-      "duration_ms": 576703,
-      "name": "Bela Lugosi's Dead (Official Version)",
-      "url": "https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8"
-    },
-    {
-      "added_at": "2023-03-14 21:51:39",
-      "album": {
         "name": "Vital Idol",
         "url": "https://open.spotify.com/album/0XGgMqKNcQgd0i9YHFiPei"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 301800,
       "name": "Mony Mony - Downtown Mix / 24-Bit Digitally Remastered 2001",
       "url": "https://open.spotify.com/track/2LbkpJUH052AvFcNIgjHTO"
+    },
+    {
+      "added_at": "2023-03-14 21:51:39",
+      "album": {
+        "name": "The Bela Session",
+        "url": "https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "duration_ms": 576703,
+      "name": "Bela Lugosi's Dead (Official Version)",
+      "url": "https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8"
     },
     {
       "added_at": "2023-03-14 21:51:39",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2023-03-14 21:51:39",
       "album": {
+        "name": "The Velvet Underground & Nico 45th Anniversary",
+        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        }
+      ],
+      "duration_ms": 433573,
+      "name": "Heroin",
+      "url": "https://open.spotify.com/track/5by3w3NXvwDpV9FBSOR35u"
+    },
+    {
+      "added_at": "2023-03-14 21:51:39",
+      "album": {
         "name": "I Can Hear The Heart Beating As One",
         "url": "https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 234906,
       "name": "Here's Where The Story Ends",
       "url": "https://open.spotify.com/track/4SPi5Pl7aAtauFsH9Lk5LB"
-    },
-    {
-      "added_at": "2023-03-14 21:51:39",
-      "album": {
-        "name": "The Velvet Underground & Nico 45th Anniversary",
-        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
-      },
-      "artists": [
-        {
-          "name": "The Velvet Underground",
-          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
-        },
-        {
-          "name": "Nico",
-          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
-        }
-      ],
-      "duration_ms": 433573,
-      "name": "Heroin",
-      "url": "https://open.spotify.com/track/5by3w3NXvwDpV9FBSOR35u"
     },
     {
       "added_at": "2023-03-14 21:51:39",

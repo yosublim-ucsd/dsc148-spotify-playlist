@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 113847,
+  "num_followers": 113952,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMDM0MzVkODY5M2RhN2NmMTQwMjAzMzgxMGFkMjU2NmNl",
+  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMGY2YmE4YTRhMWYxN2FhYTBmOTYxOTdlMTJkNjdjMWY1",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -43,22 +43,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "The Fabulous Thunderbirds",
-        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
-      },
-      "artists": [
-        {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Scratch My Back",
-      "url": "https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Ice Pickin'",
         "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 318840,
       "name": "Cold, Cold Feeling",
       "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "The Fabulous Thunderbirds",
+        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
+      },
+      "artists": [
+        {
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Scratch My Back",
+      "url": "https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -105,22 +105,6 @@
       "url": "https://open.spotify.com/track/2T6pMaivfX7w4tfAUX4uU9"
     },
     {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "The Real Deal: Greatest Hits Volume 1",
-        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "Pride and Joy",
-      "url": "https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19"
-    },
-    {
       "added_at": "2018-02-27 16:43:49",
       "album": {
         "name": "Fitchburg Street",
@@ -137,20 +121,36 @@
       "url": "https://open.spotify.com/track/0yqpt8kklxBeMD8dpvoD8l"
     },
     {
-      "added_at": "2018-02-27 16:43:49",
+      "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Cold Snap (Remastered)",
-        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
+        "name": "Never Been Rocked Enough",
+        "url": "https://open.spotify.com/album/3PSl0k14EYuc2IYOLL4hoM"
       },
       "artists": [
         {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
         }
       ],
-      "duration_ms": 247400,
-      "name": "I Ain't Drunk - Remastered",
-      "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
+      "duration_ms": 269933,
+      "name": "Everytime I Roll The Dice",
+      "url": "https://open.spotify.com/track/5fZY8YYJMnhD9HNWB4C4zU"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "The Real Deal: Greatest Hits Volume 1",
+        "url": "https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Pride and Joy",
+      "url": "https://open.spotify.com/track/1oT20g6f8rvymheUIdFr19"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -175,18 +175,18 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Never Been Rocked Enough",
-        "url": "https://open.spotify.com/album/3PSl0k14EYuc2IYOLL4hoM"
+        "name": "The Fabulous Thunderbirds",
+        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
       },
       "artists": [
         {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
         }
       ],
-      "duration_ms": 269933,
-      "name": "Everytime I Roll The Dice",
-      "url": "https://open.spotify.com/track/5fZY8YYJMnhD9HNWB4C4zU"
+      "duration_ms": 183560,
+      "name": "Wait On Time",
+      "url": "https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -205,36 +205,20 @@
       "url": "https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x"
     },
     {
-      "added_at": "2016-03-18 21:56:19",
+      "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "The Fabulous Thunderbirds",
-        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
+        "name": "Cold Snap (Remastered)",
+        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
       },
       "artists": [
         {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 183560,
-      "name": "Wait On Time",
-      "url": "https://open.spotify.com/track/71ptjbbVkrMPebtE3CgBZS"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 320706,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/6MvGg9X7lIt64WW28Nxfxo"
+      "duration_ms": 247400,
+      "name": "I Ain't Drunk - Remastered",
+      "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -255,22 +239,6 @@
     {
       "added_at": "2016-03-18 21:56:19",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "Honey, Hush aka Talking Woman Blues",
-      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
-    },
-    {
-      "added_at": "2016-03-18 21:56:19",
-      "album": {
         "name": "Have Blues, Will Travel",
         "url": "https://open.spotify.com/album/2heZTglJ1H7pY5tArsksKC"
       },
@@ -283,6 +251,22 @@
       "duration_ms": 247373,
       "name": "Have Blues, Will Travel",
       "url": "https://open.spotify.com/track/6XxHUskI6Q4HZXiXFND9dc"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 320706,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/6MvGg9X7lIt64WW28Nxfxo"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -347,6 +331,22 @@
       "duration_ms": 261920,
       "name": "Good Texan",
       "url": "https://open.spotify.com/track/34d6n6HMfyOiQjudsxbfeh"
+    },
+    {
+      "added_at": "2016-03-18 21:56:19",
+      "album": {
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 268160,
+      "name": "Honey, Hush aka Talking Woman Blues",
+      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -467,22 +467,18 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Big Town Playboy",
-        "url": "https://open.spotify.com/album/37wiuEczE2EcWPci1VIZKH"
+        "name": "Family Style",
+        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
       },
       "artists": [
         {
-          "name": "Omar Kent Dykes",
-          "url": "https://open.spotify.com/artist/68ltmxNcXSeODTeh0YYuAF"
-        },
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+          "name": "The Vaughan Brothers",
+          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
         }
       ],
-      "duration_ms": 200520,
-      "name": "Since I Met You Baby",
-      "url": "https://open.spotify.com/track/1jlSFo0KBDs6E6Tkw06UqR"
+      "duration_ms": 305053,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s"
     },
     {
       "added_at": "2018-02-27 16:43:49",
@@ -507,18 +503,22 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "Family Style",
-        "url": "https://open.spotify.com/album/1NpSBYjQQK5zJHBAS9SxsL"
+        "name": "Big Town Playboy",
+        "url": "https://open.spotify.com/album/37wiuEczE2EcWPci1VIZKH"
       },
       "artists": [
         {
-          "name": "The Vaughan Brothers",
-          "url": "https://open.spotify.com/artist/2mwN5WQ1mAhOibFEbfFfsG"
+          "name": "Omar Kent Dykes",
+          "url": "https://open.spotify.com/artist/68ltmxNcXSeODTeh0YYuAF"
+        },
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
         }
       ],
-      "duration_ms": 305053,
-      "name": "Brothers",
-      "url": "https://open.spotify.com/track/2T3mWbAqtVIW8p6E23HD5s"
+      "duration_ms": 200520,
+      "name": "Since I Met You Baby",
+      "url": "https://open.spotify.com/track/1jlSFo0KBDs6E6Tkw06UqR"
     },
     {
       "added_at": "2018-02-27 16:43:49",

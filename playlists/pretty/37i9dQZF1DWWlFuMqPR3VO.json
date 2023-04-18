@@ -1,12 +1,12 @@
 {
   "description": "From the jazzy, up-beat New Orleans blues to the slower, zydeco and Cajun-influenced Swamp blues. Cover: Kenny Neal",
-  "num_followers": 11267,
+  "num_followers": 11279,
   "original_name": "Louisiana Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYwMDA2MCwwMDAwMDAwMGNiY2MyMmM2YWFmZjI3OGQ4MTUwZjQ4ZGFjNDRmZWRl",
+  "snapshot_id": "MTY1MDYwMDA2MCwwMDAwMDAwMDRhODg2ZjM5OGIxYzQ4NjBjZTlhYTY5YTI4N2JjN2Yz",
   "tracks": [
     {
       "added_at": "2022-04-22 04:01:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "I Got a Woman",
-      "url": "https://open.spotify.com/track/1MJjFZfKgJ3DTyXUDZd403"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "The Best of Clifton Chenier: The King of Zydeco & Louisiana Blues",
         "url": "https://open.spotify.com/album/2hwL2KfeYCpeMHeve8Y3QF"
       },
@@ -299,18 +283,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Man Of My Word",
-        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
       },
       "artists": [
         {
-          "name": "Johnny Adams",
-          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
         }
       ],
-      "duration_ms": 280360,
-      "name": "This Time I'm Gone For Good",
-      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
+      "duration_ms": 193333,
+      "name": "I Got a Woman",
+      "url": "https://open.spotify.com/track/1MJjFZfKgJ3DTyXUDZd403"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -347,22 +331,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "The Imperial Recordings",
-        "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 159373,
-      "name": "By the Water",
-      "url": "https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "New Orleans Blues",
         "url": "https://open.spotify.com/album/1lv103HKWAdbOeSGQ69eli"
       },
@@ -375,6 +343,22 @@
       "duration_ms": 163293,
       "name": "Mother's Love",
       "url": "https://open.spotify.com/track/5rUM5gwYkbmSERNgvJ6rQA"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Man Of My Word",
+        "url": "https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5"
+      },
+      "artists": [
+        {
+          "name": "Johnny Adams",
+          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
+        }
+      ],
+      "duration_ms": 280360,
+      "name": "This Time I'm Gone For Good",
+      "url": "https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -395,6 +379,22 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
+        "name": "Zodico Blues & Boogie",
+        "url": "https://open.spotify.com/album/7FEkXD5ytxX2VSVES51rGC"
+      },
+      "artists": [
+        {
+          "name": "Clifton Chenier",
+          "url": "https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "Boppin' The Rock",
+      "url": "https://open.spotify.com/track/0pgep2XqOw4cR9IWtUs51R"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
         "name": "Sufferin' Mind",
         "url": "https://open.spotify.com/album/5aM0AHheJ65Pdl6p0H6QD5"
       },
@@ -407,6 +407,38 @@
       "duration_ms": 147440,
       "name": "Well I Done Got Over It",
       "url": "https://open.spotify.com/track/1ADc4I9nlzy4rJOrLxzTzl"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "Good Neighbor",
+        "url": "https://open.spotify.com/album/0angfX8UOIjXxBKymsboIU"
+      },
+      "artists": [
+        {
+          "name": "John Boutt\u00e9",
+          "url": "https://open.spotify.com/artist/1lGFrlrax8KaaYwF2WJnDo"
+        }
+      ],
+      "duration_ms": 144800,
+      "name": "Accentuate The Positive",
+      "url": "https://open.spotify.com/track/0ObsP7kGu8zGZHKbQh6xal"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
+        "name": "The Imperial Recordings",
+        "url": "https://open.spotify.com/album/3KUmrsZw8O08srFBL49qA3"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 159373,
+      "name": "By the Water",
+      "url": "https://open.spotify.com/track/51fWp2sgOhaWmnBGcaTKXk"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -427,54 +459,6 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 227960,
-      "name": "Brown Skin Woman",
-      "url": "https://open.spotify.com/track/4t348UYDuSGPqVkmU1Dt9P"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Heart and Soul",
-        "url": "https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb"
-      },
-      "artists": [
-        {
-          "name": "Johnny Adams",
-          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
-        }
-      ],
-      "duration_ms": 235431,
-      "name": "Reconsider Me",
-      "url": "https://open.spotify.com/track/6VB5qvDSykpoc8vON065d8"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Zodico Blues & Boogie",
-        "url": "https://open.spotify.com/album/7FEkXD5ytxX2VSVES51rGC"
-      },
-      "artists": [
-        {
-          "name": "Clifton Chenier",
-          "url": "https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Boppin' The Rock",
-      "url": "https://open.spotify.com/track/0pgep2XqOw4cR9IWtUs51R"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
         "name": "The Sonet Blues Story",
         "url": "https://open.spotify.com/album/4vANqROsyz5dkzlwnO6zwx"
       },
@@ -491,22 +475,6 @@
       "duration_ms": 188600,
       "name": "Trick Bag",
       "url": "https://open.spotify.com/track/2rofi4Z4X7UdaMjKdraagu"
-    },
-    {
-      "added_at": "2022-03-28 20:10:01",
-      "album": {
-        "name": "Good Neighbor",
-        "url": "https://open.spotify.com/album/0angfX8UOIjXxBKymsboIU"
-      },
-      "artists": [
-        {
-          "name": "John Boutt\u00e9",
-          "url": "https://open.spotify.com/artist/1lGFrlrax8KaaYwF2WJnDo"
-        }
-      ],
-      "duration_ms": 144800,
-      "name": "Accentuate The Positive",
-      "url": "https://open.spotify.com/track/0ObsP7kGu8zGZHKbQh6xal"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -543,6 +511,22 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
+        "name": "Heart and Soul",
+        "url": "https://open.spotify.com/album/3zmz4edYCiggKrx4bMRTxb"
+      },
+      "artists": [
+        {
+          "name": "Johnny Adams",
+          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
+        }
+      ],
+      "duration_ms": 235431,
+      "name": "Reconsider Me",
+      "url": "https://open.spotify.com/track/6VB5qvDSykpoc8vON065d8"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
         "name": "Louis Armstrong Plays W. C. Handy",
         "url": "https://open.spotify.com/album/6yvbyi8LOzXI59WkW6QzG2"
       },
@@ -575,6 +559,22 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 227960,
+      "name": "Brown Skin Woman",
+      "url": "https://open.spotify.com/track/4t348UYDuSGPqVkmU1Dt9P"
+    },
+    {
+      "added_at": "2022-03-28 20:10:01",
+      "album": {
         "name": "Let's Talk It Over",
         "url": "https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8"
       },
@@ -591,18 +591,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Roadside Attractions",
-        "url": "https://open.spotify.com/album/6FfHCnE5eMvEa3e1TnHnTj"
+        "name": "Walking On Fire",
+        "url": "https://open.spotify.com/album/3YsGA6EPreplix3nyYEWCI"
       },
       "artists": [
         {
-          "name": "Marcia Ball",
-          "url": "https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18"
+          "name": "Kenny Neal",
+          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
         }
       ],
-      "duration_ms": 205280,
-      "name": "The Party's Still Going On",
-      "url": "https://open.spotify.com/track/69vUnyBpWRNHf0MrlgqsQL"
+      "duration_ms": 214706,
+      "name": "Blues Stew",
+      "url": "https://open.spotify.com/track/0M2HxpH3HARjQbpt1pH6K6"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -639,18 +639,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Walking On Fire",
-        "url": "https://open.spotify.com/album/3YsGA6EPreplix3nyYEWCI"
+        "name": "Roadside Attractions",
+        "url": "https://open.spotify.com/album/6FfHCnE5eMvEa3e1TnHnTj"
       },
       "artists": [
         {
-          "name": "Kenny Neal",
-          "url": "https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ"
+          "name": "Marcia Ball",
+          "url": "https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18"
         }
       ],
-      "duration_ms": 214706,
-      "name": "Blues Stew",
-      "url": "https://open.spotify.com/track/0M2HxpH3HARjQbpt1pH6K6"
+      "duration_ms": 205280,
+      "name": "The Party's Still Going On",
+      "url": "https://open.spotify.com/track/69vUnyBpWRNHf0MrlgqsQL"
     }
   ],
   "unique_name": "Louisiana Blues",

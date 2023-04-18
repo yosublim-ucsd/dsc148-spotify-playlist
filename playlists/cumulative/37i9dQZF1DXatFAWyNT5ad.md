@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: GAYLE
 
-596 songs - 1 day 7 hr 8 min
+597 songs - 1 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [FUCK ABOUT IT \(feat\. blackbear\)](https://open.spotify.com/track/3MOKBkpsarb0AfAABcLAsn) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [FUCK ABOUT IT](https://open.spotify.com/album/2U9uohrVqMVGb1pBqPFTXX) | 2:52 | 2022-10-14 | 2023-01-30 |
 | [FUCK ABOUT IT \(feat\. blackbear\)](https://open.spotify.com/track/7dNMMq9Y14fCKCNIKK95SB) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:52 | 2022-11-11 | 2023-04-17 |
 | [FUNERAL GREY](https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:44 | 2023-03-17 | 2023-04-17 |
+| [FUNERAL GREY](https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 | 2023-04-07 |  |
 | [Games](https://open.spotify.com/track/54HMQ6LzInyFQaxv6sK2TG) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [Games](https://open.spotify.com/album/2hEyp0Pcr4hoQoJSJuivGT) | 3:29 | 2022-03-17 | 2022-07-29 |
 | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/track/1ZpcR68PKaoz8DpQDRqFEE) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [GAY 4 ME \(feat\. Lauren Sanderson\)](https://open.spotify.com/album/2ZPgzxiWsWCmCaC9jzNumu) | 2:54 | 2022-03-24 | 2022-05-15 |
 | [Gentle](https://open.spotify.com/track/5aDUmwN5qyztGEkY9al4FS) | [Havelin](https://open.spotify.com/artist/42kxHIYLflWcEAGkeKNHSp) | [Gentle](https://open.spotify.com/album/2HbK1N4gW6IuSj3x9eQXPt) | 3:03 | 2022-03-24 | 2022-04-14 |
@@ -306,7 +307,7 @@
 | [Jigsaw](https://open.spotify.com/track/1WzOonguDKuWQrTTf5yR0D) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Jigsaw](https://open.spotify.com/album/4OmdjXVk6PslBdirwfruqQ) | 3:28 | 2022-03-24 | 2022-08-06 |
 | [Judge Me](https://open.spotify.com/track/10cJzlakTI6fMtoNSc6liK) | [Hank Compton](https://open.spotify.com/artist/7jKKTuM4iwzCuZ790quOMI) | [Judge Me](https://open.spotify.com/album/0O0fELYBxNe3Ou0k38e1mJ) | 3:48 | 2022-03-24 | 2022-04-20 |
 | [Just a Man](https://open.spotify.com/track/3vgjwS8CCbQZy7Pd2ZvJQa) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Just a Man](https://open.spotify.com/album/70ighIwxzEvO6EHHUbM961) | 4:01 | 2022-03-24 | 2022-04-21 |
-| [Kickflip](https://open.spotify.com/track/7FkmAIBCsJvGNoaNr9a1Xe) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Sagittarius](https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25) | 2:42 | 2023-03-24 |  |
+| [Kickflip](https://open.spotify.com/track/7FkmAIBCsJvGNoaNr9a1Xe) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Sagittarius](https://open.spotify.com/album/5uIFAwpVs0gCPiaehNZQ25) | 2:42 | 2023-03-24 | 2023-04-18 |
 | [Know You Too Well](https://open.spotify.com/track/1w1NiyET8kbJ4Po73YO6Er) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Know You Too Well](https://open.spotify.com/album/5WAUYAKKJrVjXx0bsYo2Ze) | 3:30 | 2022-03-24 | 2022-05-17 |
 | [KULT \(feat\. Jasiah\)](https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4), [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0) | [KULT \(feat\. Jasiah\)](https://open.spotify.com/album/0OxOw42tYvwBMV2MVCWLKl) | 2:57 | 2022-03-24 |  |
 | [LA at Night](https://open.spotify.com/track/4QTIKn0Sgu88QB6jbwMBhX) | [The Coronas](https://open.spotify.com/artist/2tppd6KkhK4ULAd217Ecq1) | [LA at Night](https://open.spotify.com/album/6qOEFsNn7PL9WcvIyIl4Lm) | 4:03 | 2022-03-24 | 2022-04-19 |

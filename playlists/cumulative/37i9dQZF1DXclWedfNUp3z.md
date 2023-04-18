@@ -4,7 +4,7 @@
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-357 songs - 1 day 0 hr 36 min
+358 songs - 1 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [blinding tunnel](https://open.spotify.com/track/14AP7MGqCLnJfLGsrwzrKR) | [Sownbones](https://open.spotify.com/artist/0gIMQx6hCQ9COuMORi6SWA) | [helpless](https://open.spotify.com/album/0tCBu2Dsa20w0msgy5IXsr) | 2:15 | 2022-01-19 | 2022-07-28 |
 | [Bloom](https://open.spotify.com/track/1B8uasCODGeSlXrFBCvjWy) | [Christopher Stracey](https://open.spotify.com/artist/3OtCzBJs5hFZapz4lY6aWa) | [Music for Growing Plants](https://open.spotify.com/album/3QsGjN0ERhyBi1IxXpNxhM) | 4:16 | 2021-10-20 | 2022-07-29 |
 | [Blue Surround](https://open.spotify.com/track/5ja2D6G7nq2rC3xCeFaMBH) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ) | [Infinite Echo](https://open.spotify.com/album/3hxC9wqR62FRcQGR2jcOh4) | 3:08 | 2022-11-10 | 2023-02-01 |
-| [Botanique](https://open.spotify.com/track/1pWIPbmvcqy9N06Bmasdfa) | [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i), [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t) | [Habitat](https://open.spotify.com/album/784eJcaYZn3cQXHkpQuqLN) | 9:10 | 2021-10-20 |  |
+| [Botanique](https://open.spotify.com/track/1pWIPbmvcqy9N06Bmasdfa) | [J Foerster](https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i), [N KRAMER](https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t) | [Habitat](https://open.spotify.com/album/784eJcaYZn3cQXHkpQuqLN) | 9:10 | 2021-10-20 | 2023-04-18 |
 | [Breaking Dawn](https://open.spotify.com/track/7axrDVwVVxAHolvnddXG71) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Late Spring](https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy) | 2:43 | 2021-10-20 |  |
 | [Breathing Deeper](https://open.spotify.com/track/6uK4LUxyKlWf2vKQE1Fv3I) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Finding Calmness](https://open.spotify.com/album/3KJa1BAeH2as7lZL1envIu) | 4:01 | 2021-10-20 |  |
 | [Breeze](https://open.spotify.com/track/6cwTa2hYzNX9N1adl81H08) | [Moini](https://open.spotify.com/artist/5X233qhRlsTg35ZvAMGUGl) | [Breeze](https://open.spotify.com/album/4JefNjIJrhmtbn3Mo2NheX) | 2:10 | 2022-03-11 | 2022-04-19 |
@@ -63,6 +63,7 @@
 | [Cherish](https://open.spotify.com/track/0gopaBSZjH3RrnN35lhwzu) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Cherish](https://open.spotify.com/album/7IhbGGJCLTdwkMO7q3OBmZ) | 3:13 | 2021-10-20 | 2022-07-29 |
 | [Cherish](https://open.spotify.com/track/47CcDHVJSLChnXpXd0Xan7) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Small Wonders](https://open.spotify.com/album/2rU5cwHDgBh16XilEuEco8) | 3:13 | 2021-10-20 |  |
 | [Chysis](https://open.spotify.com/track/6mYwBPBDXp6US3zyYgpvHY) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Chysis](https://open.spotify.com/album/27jkNII5NNORpvfdzkD9Wd) | 6:24 | 2021-10-20 | 2022-07-29 |
+| [Chéri \- Instrumental](https://open.spotify.com/track/29h9FSnDewNpgDhVVGgYb0) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/6IyiPFsPNCbehAh0dFYRJ6) | 3:25 | 2023-04-18 |  |
 | [Cigarra](https://open.spotify.com/track/6mESobRGEJZZAPF0pHzREQ) | [Fábio Caramuru](https://open.spotify.com/artist/5GryqMMRfFO3n0eXBEF5oH) | [Ecomúsica: Conversas de um Piano Com a Fauna Brasileira](https://open.spotify.com/album/40tSqhnInwzfSBMC75n3rM) | 5:03 | 2021-10-20 |  |
 | [Circular Wave Forms.](https://open.spotify.com/track/2naBJ9nAQbE2k90VW7LrXz) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Circular Wave Forms.](https://open.spotify.com/album/1OkmNV0J7pYQQy9wfcD5dd) | 3:00 | 2021-10-20 | 2022-04-13 |
 | [Circular Wave Forms.](https://open.spotify.com/track/7b6GiDnHmOC18lYhDCUJfj) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Circular Wave Forms.](https://open.spotify.com/album/062LGURSKpRw9BYEpR2Pla) | 3:00 | 2021-10-20 |  |

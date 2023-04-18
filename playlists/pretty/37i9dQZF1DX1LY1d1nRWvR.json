@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 25939,
+  "num_followers": 25957,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMDJhYmE5OGYzNzA4YmVlZDA3MTVmYzg0YzY1MzZiYzY5",
+  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMDRkNDI0MGQzYTYzYzFiYWQ4YTZjOTYyZWZlYTVmMmQ3",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -215,22 +215,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Nubya's 5ive",
-        "url": "https://open.spotify.com/album/42X2Gyov8AhwjiHfGCfOC4"
-      },
-      "artists": [
-        {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
-        }
-      ],
-      "duration_ms": 458605,
-      "name": "Lost Kingdoms",
-      "url": "https://open.spotify.com/track/17YIpKXRkKKqvb8ZbzyOG1"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Soweto Blues",
         "url": "https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 298997,
       "name": "Soweto Blues",
       "url": "https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Nubya's 5ive",
+        "url": "https://open.spotify.com/album/42X2Gyov8AhwjiHfGCfOC4"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        }
+      ],
+      "duration_ms": 458605,
+      "name": "Lost Kingdoms",
+      "url": "https://open.spotify.com/track/17YIpKXRkKKqvb8ZbzyOG1"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -587,6 +587,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Information",
+        "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
+      },
+      "artists": [
+        {
+          "name": "Galcher Lustwerk",
+          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
+        }
+      ],
+      "duration_ms": 246855,
+      "name": "Another Story",
+      "url": "https://open.spotify.com/track/0AW4hkKsAgn8pU7pGPnu9Y"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Laamore",
         "url": "https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 342591,
       "name": "Eye Mo K",
       "url": "https://open.spotify.com/track/6o5bke7Cp481elgM8eTenO"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Information",
-        "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
-      },
-      "artists": [
-        {
-          "name": "Galcher Lustwerk",
-          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
-        }
-      ],
-      "duration_ms": 246855,
-      "name": "Another Story",
-      "url": "https://open.spotify.com/track/0AW4hkKsAgn8pU7pGPnu9Y"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -675,26 +675,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "See-Line Woman",
-        "url": "https://open.spotify.com/album/1tFCA00rZrSeGHA208PfVY"
-      },
-      "artists": [
-        {
-          "name": "Atjazz",
-          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
-        },
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "See-Line Woman - Main Mix",
-      "url": "https://open.spotify.com/track/7hbcgPOAPdrub7ht2quP04"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW"
       },
@@ -715,18 +695,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Houses",
-        "url": "https://open.spotify.com/album/23X1T8RFr7C8sHbaVeNLDw"
+        "name": "See-Line Woman",
+        "url": "https://open.spotify.com/album/1tFCA00rZrSeGHA208PfVY"
       },
       "artists": [
         {
-          "name": "Steve Spacek",
-          "url": "https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX"
+          "name": "Atjazz",
+          "url": "https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH"
+        },
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
         }
       ],
-      "duration_ms": 450950,
-      "name": "Waiting 4 You",
-      "url": "https://open.spotify.com/track/0dKpH9fPOWbH2q58WaluKI"
+      "duration_ms": 226000,
+      "name": "See-Line Woman - Main Mix",
+      "url": "https://open.spotify.com/track/7hbcgPOAPdrub7ht2quP04"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -743,6 +727,22 @@
       "duration_ms": 708706,
       "name": "Sloppy Cosmic",
       "url": "https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Houses",
+        "url": "https://open.spotify.com/album/23X1T8RFr7C8sHbaVeNLDw"
+      },
+      "artists": [
+        {
+          "name": "Steve Spacek",
+          "url": "https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX"
+        }
+      ],
+      "duration_ms": 450950,
+      "name": "Waiting 4 You",
+      "url": "https://open.spotify.com/track/0dKpH9fPOWbH2q58WaluKI"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Theme from Selva",
-        "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 205816,
-      "name": "Theme from Selva",
-      "url": "https://open.spotify.com/track/7oTPUMeartrRlIDGKpgIa3"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Aletheia",
         "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 346361,
       "name": "Aletheia",
       "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Theme from Selva",
+        "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 205816,
+      "name": "Theme from Selva",
+      "url": "https://open.spotify.com/track/7oTPUMeartrRlIDGKpgIa3"
     },
     {
       "added_at": "2021-10-08 17:36:35",

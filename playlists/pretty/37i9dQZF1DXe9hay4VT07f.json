@@ -1,12 +1,12 @@
 {
   "description": "We outside. Cover: Popcaan",
-  "num_followers": 382336,
+  "num_followers": 382515,
   "original_name": "Dancehall Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg0NjQ1MCwwMDAwMDAwMGY2NDkzMjY1MTdkYTY5MmIyOGM0Yjc1ZTUxM2M3MDgy",
+  "snapshot_id": "MTY3Nzg0NjQ1MCwwMDAwMDAwMDJkNjcyZWUwNDRlN2VkY2MzMmIzZWUwMzc4MmY0ZTcz",
   "tracks": [
     {
       "added_at": "2023-03-03 12:27:30",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
+        "name": "Rumors",
+        "url": "https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 222893,
+      "name": "Nobody Has to Know",
+      "url": "https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
         "name": "Gvnman Shift",
         "url": "https://open.spotify.com/album/3GvAOWIAO1iZAdAz1JFPyW"
       },
@@ -307,18 +323,22 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "Rumors",
-        "url": "https://open.spotify.com/album/1MZfu40bPBKw1HzXGyGoMX"
+        "name": "Pull up to Mi Bumper",
+        "url": "https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS"
       },
       "artists": [
         {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "J Capri",
+          "url": "https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20"
         }
       ],
-      "duration_ms": 222893,
-      "name": "Nobody Has to Know",
-      "url": "https://open.spotify.com/track/5nLmO6pp71pmiVZwyTPfq9"
+      "duration_ms": 150279,
+      "name": "Pull up to Mi Bumper",
+      "url": "https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -363,26 +383,6 @@
       "duration_ms": 255360,
       "name": "Dude",
       "url": "https://open.spotify.com/track/746nPV2NXSoxW3imGpG8gk"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
-        "name": "Pull up to Mi Bumper",
-        "url": "https://open.spotify.com/album/72AxGSjTTU7SWGxcXEjXRS"
-      },
-      "artists": [
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        },
-        {
-          "name": "J Capri",
-          "url": "https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20"
-        }
-      ],
-      "duration_ms": 150279,
-      "name": "Pull up to Mi Bumper",
-      "url": "https://open.spotify.com/track/2c3e6W36veH8GSBkoMKX24"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
+        "name": "Calmc",
+        "url": "https://open.spotify.com/album/2VqdB8PN5Fm5JEfHlTee4X"
+      },
+      "artists": [
+        {
+          "name": "Kraff Gad",
+          "url": "https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR"
+        }
+      ],
+      "duration_ms": 173844,
+      "name": "Calmc",
+      "url": "https://open.spotify.com/track/4qRTXseVumpZKty0AGH1o5"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
         "name": "438",
         "url": "https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 183092,
       "name": "Moments",
       "url": "https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
-        "name": "Calmc",
-        "url": "https://open.spotify.com/album/2VqdB8PN5Fm5JEfHlTee4X"
-      },
-      "artists": [
-        {
-          "name": "Kraff Gad",
-          "url": "https://open.spotify.com/artist/4ULg9wVZKb01ORw7AIZBDR"
-        }
-      ],
-      "duration_ms": 173844,
-      "name": "Calmc",
-      "url": "https://open.spotify.com/track/4qRTXseVumpZKty0AGH1o5"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "Maestro",
-        "url": "https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1"
-      },
-      "artists": [
-        {
-          "name": "Beenie Man",
-          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Romie",
-      "url": "https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
         "name": "Mr. Brooks...A Better Tomorrow",
         "url": "https://open.spotify.com/album/1oQyk4rRCTEx75jlzhXTtB"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
+        "name": "Maestro",
+        "url": "https://open.spotify.com/album/6D9fr78fZr3H4UA8eEaSv1"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Romie",
+      "url": "https://open.spotify.com/track/1y7sKhBWlJxH6OXSDjcEKw"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
         "name": "Dickmatized",
         "url": "https://open.spotify.com/album/79gp57yPl6DStAtpdX08KQ"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 140336,
       "name": "Dickmatized",
       "url": "https://open.spotify.com/track/2dSbH1DD8CEqHqyS1Ey0bd"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
+        "name": "Ova Dweet - Single",
+        "url": "https://open.spotify.com/album/3I6muahdIVAN75q0k1Cpc5"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 221194,
+      "name": "Ova Dweet",
+      "url": "https://open.spotify.com/track/0RQEpWykgNyAMCeuZJDKJt"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -775,22 +791,6 @@
       "duration_ms": 185002,
       "name": "Mimosas",
       "url": "https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
-        "name": "Ova Dweet - Single",
-        "url": "https://open.spotify.com/album/3I6muahdIVAN75q0k1Cpc5"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        }
-      ],
-      "duration_ms": 221194,
-      "name": "Ova Dweet",
-      "url": "https://open.spotify.com/track/0RQEpWykgNyAMCeuZJDKJt"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -951,6 +951,26 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
+        "name": "Big Chune",
+        "url": "https://open.spotify.com/album/5ioIjN8A0qVhfKvTUtWwOs"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "IamNuhRush",
+          "url": "https://open.spotify.com/artist/6wU5HisymxJxU6ucvCwfOE"
+        }
+      ],
+      "duration_ms": 163352,
+      "name": "Big Chune",
+      "url": "https://open.spotify.com/track/1IjPlLjheWe899ounTjCby"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
         "name": "Dance & Sweep! - Adventures Of The Energy God",
         "url": "https://open.spotify.com/album/1h6idb5MNxRtSz4EWsMe84"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 176013,
       "name": "Levels",
       "url": "https://open.spotify.com/track/1rfANUAbPjPZhRUIz5uj7h"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
-        "name": "Big Chune",
-        "url": "https://open.spotify.com/album/5ioIjN8A0qVhfKvTUtWwOs"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        },
-        {
-          "name": "IamNuhRush",
-          "url": "https://open.spotify.com/artist/6wU5HisymxJxU6ucvCwfOE"
-        }
-      ],
-      "duration_ms": 163352,
-      "name": "Big Chune",
-      "url": "https://open.spotify.com/track/1IjPlLjheWe899ounTjCby"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "Buzz Riddim",
-        "url": "https://open.spotify.com/album/5dCRcrUFvuD8D0MgYQ75Y9"
+        "name": "Top Prize",
+        "url": "https://open.spotify.com/album/71X130a6rDyfFgOsIMX1on"
       },
       "artists": [
         {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+          "name": "Alkaline",
+          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
         }
       ],
-      "duration_ms": 226400,
-      "name": "Give Me the Light",
-      "url": "https://open.spotify.com/track/4ClQZfGW2LsUKU38jMDaI9"
+      "duration_ms": 192500,
+      "name": "Top Prize",
+      "url": "https://open.spotify.com/track/0QtGz0BVckR9AIUke9wdKH"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -1275,6 +1275,22 @@
       "duration_ms": 252893,
       "name": "Vitamin S",
       "url": "https://open.spotify.com/track/65RhyOvedCvfaR4OcAehYV"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
+        "name": "Buzz Riddim",
+        "url": "https://open.spotify.com/album/5dCRcrUFvuD8D0MgYQ75Y9"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Give Me the Light",
+      "url": "https://open.spotify.com/track/4ClQZfGW2LsUKU38jMDaI9"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -1315,54 +1331,6 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "All 2 Myself",
-        "url": "https://open.spotify.com/album/55L9lmkSHhPw7dL397V8nZ"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "All 2 Myself",
-      "url": "https://open.spotify.com/track/3lUsC8WAJTEqvsnOCLDyNk"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
-        "name": "Riddim Driven: Applause",
-        "url": "https://open.spotify.com/album/0Oy4Q9QsoRFxdzcMVwF0Rm"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 219520,
-      "name": "TEMPERATURE",
-      "url": "https://open.spotify.com/track/6zSThntwhPtWU3my2y9I1F"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
-        "name": "Top Prize",
-        "url": "https://open.spotify.com/album/71X130a6rDyfFgOsIMX1on"
-      },
-      "artists": [
-        {
-          "name": "Alkaline",
-          "url": "https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "Top Prize",
-      "url": "https://open.spotify.com/track/0QtGz0BVckR9AIUke9wdKH"
-    },
-    {
-      "added_at": "2023-03-03 12:27:30",
-      "album": {
         "name": "No Fear",
         "url": "https://open.spotify.com/album/1eju9TiiTgAimhhV0pxNOV"
       },
@@ -1375,6 +1343,22 @@
       "duration_ms": 195893,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/2d6gIQ6KRsmMKQYjEBFEN9"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
+        "name": "All 2 Myself",
+        "url": "https://open.spotify.com/album/55L9lmkSHhPw7dL397V8nZ"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "All 2 Myself",
+      "url": "https://open.spotify.com/track/3lUsC8WAJTEqvsnOCLDyNk"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -1411,8 +1395,8 @@
     {
       "added_at": "2023-03-03 12:27:30",
       "album": {
-        "name": "No Fear",
-        "url": "https://open.spotify.com/album/1eju9TiiTgAimhhV0pxNOV"
+        "name": "Riddim Driven: Applause",
+        "url": "https://open.spotify.com/album/0Oy4Q9QsoRFxdzcMVwF0Rm"
       },
       "artists": [
         {
@@ -1420,9 +1404,9 @@
           "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         }
       ],
-      "duration_ms": 207053,
-      "name": "Infiltrate",
-      "url": "https://open.spotify.com/track/1lyrrWS0fqtYPLXntd5DwK"
+      "duration_ms": 219520,
+      "name": "TEMPERATURE",
+      "url": "https://open.spotify.com/track/6zSThntwhPtWU3my2y9I1F"
     },
     {
       "added_at": "2023-03-03 12:27:30",
@@ -1559,6 +1543,22 @@
       "duration_ms": 312000,
       "name": "Original Nuttah",
       "url": "https://open.spotify.com/track/53mh7POQqTXj2Cfh7phP5b"
+    },
+    {
+      "added_at": "2023-03-03 12:27:30",
+      "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/1eju9TiiTgAimhhV0pxNOV"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 207053,
+      "name": "Infiltrate",
+      "url": "https://open.spotify.com/track/1lyrrWS0fqtYPLXntd5DwK"
     }
   ],
   "unique_name": "Dancehall Party",

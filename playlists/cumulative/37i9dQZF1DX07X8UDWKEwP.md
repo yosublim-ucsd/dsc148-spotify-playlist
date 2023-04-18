@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Monsieur Periné & Guaynaa
 
-243 songs - 14 hr 39 min
+244 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [En la Mia \(Remix\)](https://open.spotify.com/track/7hcKHEkfNuru9xvzeoSJoP) | [Yamil](https://open.spotify.com/artist/6OYqTSrG3PF4kR552cXqGk), [El Amolao](https://open.spotify.com/artist/39kGrfO5bLCQ348SpNgJXR), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf) | [En la Mia \(Remix\)](https://open.spotify.com/album/6ZdYn07TnjiipyYA8iblyu) | 3:38 | 2023-04-07 | 2023-04-15 |
 | [Encaprichao](https://open.spotify.com/track/1d2UAejVm1DMf78pfick1d) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Encaprichao](https://open.spotify.com/album/0kfRkigR4yiYk7dKVBVfCz) | 2:09 | 2023-01-20 |  |
 | [Entre Tu Cuerpo y El Mío](https://open.spotify.com/track/1B4d6OYKzXWtBjysNQclfz) | [Ryan Milo](https://open.spotify.com/artist/76X8Z4o3DI4rr5GCmzg9ap), [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Entre Tu Cuerpo y El Mío](https://open.spotify.com/album/3W2UFR03gjYhAljpYcgPak) | 3:23 | 2022-01-01 | 2022-01-29 |
-| [Envenenao](https://open.spotify.com/track/0mRasKLNRK934lWvxf5dss) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Envenenao](https://open.spotify.com/album/3UDLALZNLL9a0aMk1SvXeP) | 3:23 | 2022-09-09 |  |
+| [Envenenao](https://open.spotify.com/track/0mRasKLNRK934lWvxf5dss) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Envenenao](https://open.spotify.com/album/3UDLALZNLL9a0aMk1SvXeP) | 3:23 | 2022-09-09 | 2023-04-18 |
 | [Eres Pasado](https://open.spotify.com/track/2jcOOMWz2XdcDndQX14sWs) | [Yiyo Sarante](https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA), [El Sheke](https://open.spotify.com/artist/7kqzYL4VRj0qGXUtAt655a) | [Eres Pasado](https://open.spotify.com/album/4qbWO8FKazhiu5hzOxMA4r) | 3:10 | 2022-04-29 | 2022-06-30 |
 | [Es Mentiroso \- Nueva Versión 2022](https://open.spotify.com/track/37SCDv0kb0aHTBTvHcEJK3) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Es Mentiroso \(Nueva Versión 2022\)](https://open.spotify.com/album/0exk7iXLvcf9YrpKa9gEFX) | 3:07 | 2022-09-09 | 2023-02-18 |
 | [Esta Canción](https://open.spotify.com/track/27Y7e2ahXoIm3R5xhxlFan) | [Tutto Durán](https://open.spotify.com/artist/6J5DvhqOWQlM4RcdzePXEZ), [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Esta Canción](https://open.spotify.com/album/4LUmjFFZc79AmtjhoPmhzr) | 3:34 | 2023-02-10 |  |
@@ -150,6 +150,7 @@
 | [No Me Lo Creo](https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [No Me Lo Creo](https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg) | 4:28 | 2022-06-29 | 2023-02-22 |
 | [No Me Pongas a Elegir](https://open.spotify.com/track/01rW8XtruypjeIQvfob33P) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Dime Que Me Amas](https://open.spotify.com/album/22yvjLnXQqgeh3EsodrEw1) | 3:06 | 2022-01-01 | 2022-06-30 |
 | [No Necesito](https://open.spotify.com/track/2JF8yg6KMD8CXmYRThVFPH) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [La Batalla](https://open.spotify.com/album/1SZ7Q7CMN9KSiOtz2L1PQh) | 3:05 | 2022-01-01 | 2022-03-26 |
+| [No Pasa De Moda](https://open.spotify.com/track/2yAU2njV0eS9iVJKf22Eoc) | [Gabriel Pagan](https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP) | ["No Pasa De Moda" \- Gabriel Pagan](https://open.spotify.com/album/48vQQD0fnP8eE3EPYai0qm) | 2:47 | 2023-04-14 |  |
 | [No Pienso Caer](https://open.spotify.com/track/1lVHiMaB3bHEjOtuAX0hMm) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [No Pienso Caer](https://open.spotify.com/album/1JoQ2JCFjyol7rwn82BbvN) | 3:51 | 2022-01-01 | 2022-03-26 |
 | [No Puedo](https://open.spotify.com/track/02OLLxwUuwBKo7ZeoSks1E) | [Judy Santos](https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by) | [No Puedo](https://open.spotify.com/album/4dd10L0mNEGrOpkKzTHjCW) | 3:43 | 2022-01-01 | 2022-06-30 |
 | [Noche Primavera](https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Noche Primavera](https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG) | 3:19 | 2023-02-24 |  |

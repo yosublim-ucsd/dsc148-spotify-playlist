@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Joe Flizzow
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,904 likes - 83 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,912 likes - 82 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,6 +90,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 80 | [Eastern Ave](https://open.spotify.com/track/36TAPA4t0xNIom74YqvFHe) | [Flasher](https://open.spotify.com/artist/1qPMBDzIv4WJoToZqNxb1f) | [Eastern Ave](https://open.spotify.com/album/1LmWeZnQSDVz1qReWHDmgF) | 3:36 |
 | 81 | [Gil's Dilemma \(Everyone Feels Like This\)](https://open.spotify.com/track/3lKzjKTbToQLmHUNweBtZH) | [Good Health Good Wealth](https://open.spotify.com/artist/6oaEXmqVM7eQnzva7kHudo) | [Everyone Feels Like This](https://open.spotify.com/album/143SVCUIMcd8rEw00zN7np) | 3:38 |
 | 82 | [Here I Am](https://open.spotify.com/track/0aV1vgO3zZfGSiYkSHD56x) | [COSBY](https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv) | [Here I Am](https://open.spotify.com/album/6FFyQHGlLwyqY8IvQuMPDO) | 3:19 |
-| 83 | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) | 3:33 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDcyNjI3YTgwNmMxOWU5ODEzNGQyYmIxZGYwM2E2YjIx`
+Snapshot ID: `MTY4MTY5ODg2OSwwMDAwMDAwMDg1ZWFmYjczMWY4NTRkYmE0OWNmYjcyOGRmM2E4Yjc4`

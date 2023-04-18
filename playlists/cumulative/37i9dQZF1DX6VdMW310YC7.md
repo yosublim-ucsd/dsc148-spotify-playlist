@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,462 songs - 4 day 4 hr 53 min
+1,463 songs - 4 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -768,6 +768,7 @@
 | [Lost in My Mind \- Icarus Remix](https://open.spotify.com/track/4mhMgIkHg4fOgnYbD9HGUm) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [SOLACE REMIXES VOL\. 3](https://open.spotify.com/album/0JyrYXMS68GpBCC2I4iyNT) | 5:35 | 2020-03-18 | 2020-10-09 |
 | [Lost in Space](https://open.spotify.com/track/1OFMSWMwEiy5LJJCzzWknT) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Lost in Space](https://open.spotify.com/album/3yeNU4MOrkGAFMcH1LkXDa) | 3:42 | 2020-05-18 | 2022-04-20 |
 | [Lost In Space](https://open.spotify.com/track/59vGBEz1TByo4BCuKFF8P0) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Lost In Space](https://open.spotify.com/album/3mS5pfJvDStk99v0QRIsJH) | 3:42 | 2022-07-01 | 2023-03-22 |
+| [Lost In Space](https://open.spotify.com/track/67ck64BdbfbWZDEcgNdP6a) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Lost In Space](https://open.spotify.com/album/7EmlgPald7UuGDXgDXBYek) | 3:42 | 2023-03-10 |  |
 | [Lost in You](https://open.spotify.com/track/41JyJ75Wf7NOIP3lk3JaNH) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Lost in You](https://open.spotify.com/album/13gn0rNGUlOHhZbnG76PAW) | 3:01 | 2022-12-28 | 2023-01-06 |
 | [Lost Souls \- Nora En Pure Remix](https://open.spotify.com/track/2UsRV8KFvHaDFUJtzQADAu) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Ost](https://open.spotify.com/artist/6nd2xPiNkapZHlg6UvIVVx), [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Lost Souls \(Nora En Pure Remix\)](https://open.spotify.com/album/5eUHs8CussoumFCO2guELs) | 3:41 | 2020-03-18 | 2022-01-17 |
 | [Lost With You](https://open.spotify.com/track/3orHV9WQ9htKc6PwcypoRO) | [Lincoln Jesser](https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG) | [Lost With You](https://open.spotify.com/album/3JXBRmD6zviu4BPHgN55BD) | 4:10 | 2020-05-18 | 2022-04-20 |
@@ -948,7 +949,7 @@
 | [On Your Own \(feat\. Elderbrook\)](https://open.spotify.com/track/256Ew29R9ESFknfVXuJvSC) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [LIFTED](https://open.spotify.com/album/5bCqtk4yXM7jJzM3fOqK1G) | 3:43 | 2022-08-26 | 2022-09-10 |
 | [One By One](https://open.spotify.com/track/4KWbK1q4wxaLRykcpy6tHK) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Diplo](https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY) | 3:00 | 2022-07-01 | 2022-10-13 |
 | [One By One \(feat\. Elderbrook & Andhim\)](https://open.spotify.com/track/3053QmnOijQFGshvpAikky) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [One By One \(feat\. Elderbrook & Andhim\)](https://open.spotify.com/album/4gbp4gRykVbPsJm61qu6Tn) | 3:00 | 2021-05-03 | 2022-07-29 |
-| [One Day](https://open.spotify.com/track/2wwlAcqUIcvHNi3w2YWkZv) | [Falden](https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo) | [One Day EP](https://open.spotify.com/album/0dTsIEabndHsNr65E5HPFC) | 2:47 | 2022-01-21 |  |
+| [One Day](https://open.spotify.com/track/2wwlAcqUIcvHNi3w2YWkZv) | [Falden](https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo) | [One Day EP](https://open.spotify.com/album/0dTsIEabndHsNr65E5HPFC) | 2:47 | 2022-01-21 | 2023-04-18 |
 | [One False Step](https://open.spotify.com/track/6lvah3w62NBUe47bBwxKQk) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 5:12 | 2020-05-18 | 2020-07-03 |
 | [One House](https://open.spotify.com/track/4ysvkVgbuSFCmRfFUTO06h) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y) | [One House](https://open.spotify.com/album/0ojowZGAaJ71fFcHDF8rJw) | 3:37 | 2021-09-17 | 2022-07-28 |
 | [One Last Dance](https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [One Last Dance](https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H) | 3:04 | 2022-02-18 |  |

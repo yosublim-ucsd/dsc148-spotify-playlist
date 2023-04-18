@@ -2406,7 +2406,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 186745,
       "name": "everyone likes",
       "url": "https://open.spotify.com/track/6iNg9CQ1O2PGfjBRsgFu9s"
@@ -6806,7 +6806,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 208750,
       "name": "Pills Chills Shakes - feat. HMLT",
       "url": "https://open.spotify.com/track/6dhJbmnXW1Z5OIezT06y1G"
@@ -10142,7 +10142,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 238831,
       "name": "We've Come So Far",
       "url": "https://open.spotify.com/track/5FRTam306WIvvLrmmroNCs"
@@ -10652,6 +10652,24 @@
       "duration_ms": 215400,
       "name": "your room",
       "url": "https://open.spotify.com/track/1SQyaGfArVFSknUxwXzn80"
+    },
+    {
+      "album": {
+        "name": "BEGINNING - EP",
+        "url": "https://open.spotify.com/album/4VGyyc8FtjNz7YUYGfeHUd"
+      },
+      "artists": [
+        {
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226281,
+      "name": "YOUTH",
+      "url": "https://open.spotify.com/track/5CWAOY9n4c4Uo6YlBYLgQb"
     },
     {
       "album": {

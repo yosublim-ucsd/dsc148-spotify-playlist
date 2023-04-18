@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Yng Lvcas y Peso Pluma en portada.",
-  "num_followers": 56273,
+  "num_followers": 56310,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDU0OGQ5NGNlMzc1MTgxZTlmNmE5NjRiN2U1ODM4OTkx",
+  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMGFmYTc4ZThlYWZhOThjMGUwZmVmZWZhM2NjN2JkNGE2",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -415,18 +415,22 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Uy K Raro",
-        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
+        "name": "Pa' Eso Se Hizo",
+        "url": "https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN"
       },
       "artists": [
         {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
         }
       ],
-      "duration_ms": 127264,
-      "name": "Uy K Raro",
-      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
+      "duration_ms": 149600,
+      "name": "Pa' Eso Se Hizo",
+      "url": "https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -453,26 +457,6 @@
       "url": "https://open.spotify.com/track/6GEZEFxP11DPSdKdPUGtlZ"
     },
     {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Pa' Eso Se Hizo",
-        "url": "https://open.spotify.com/album/5pZsQEEC6uSa7zvJst7tSN"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        }
-      ],
-      "duration_ms": 149600,
-      "name": "Pa' Eso Se Hizo",
-      "url": "https://open.spotify.com/track/1LdMkXElKMDTB8mvgyvTKe"
-    },
-    {
       "added_at": "2023-03-17 06:00:00",
       "album": {
         "name": "Papi Quiero Perrear",
@@ -487,6 +471,22 @@
       "duration_ms": 135303,
       "name": "Papi Quiero Perrear",
       "url": "https://open.spotify.com/track/1fO0hDlLYH13JSEegukxcE"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Uy K Raro",
+        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 127264,
+      "name": "Uy K Raro",
+      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -577,42 +577,6 @@
       "url": "https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql"
     },
     {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
-        "name": "Nos Matamos",
-        "url": "https://open.spotify.com/album/21ZaKyZrmiksMqiystXkml"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 257657,
-      "name": "Nos Matamos",
-      "url": "https://open.spotify.com/track/7mo1AfuiwZaPxoD6UX7P3A"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "C\u00f3mo Har\u00e9",
-        "url": "https://open.spotify.com/album/3122VI6TccbqMLfCWJF69y"
-      },
-      "artists": [
-        {
-          "name": "Panea",
-          "url": "https://open.spotify.com/artist/5knDqp1Rt5PCmJF46vWLC4"
-        }
-      ],
-      "duration_ms": 182526,
-      "name": "C\u00f3mo Har\u00e9?",
-      "url": "https://open.spotify.com/track/2zh2oQk6qMKYx7NYwWTGHx"
-    },
-    {
       "added_at": "2022-09-29 23:31:37",
       "album": {
         "name": "Ya No Somos",
@@ -631,6 +595,42 @@
       "duration_ms": 189152,
       "name": "Ya No Somos",
       "url": "https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "C\u00f3mo Har\u00e9",
+        "url": "https://open.spotify.com/album/3122VI6TccbqMLfCWJF69y"
+      },
+      "artists": [
+        {
+          "name": "Panea",
+          "url": "https://open.spotify.com/artist/5knDqp1Rt5PCmJF46vWLC4"
+        }
+      ],
+      "duration_ms": 182526,
+      "name": "C\u00f3mo Har\u00e9?",
+      "url": "https://open.spotify.com/track/2zh2oQk6qMKYx7NYwWTGHx"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Nos Matamos",
+        "url": "https://open.spotify.com/album/21ZaKyZrmiksMqiystXkml"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 257657,
+      "name": "Nos Matamos",
+      "url": "https://open.spotify.com/track/7mo1AfuiwZaPxoD6UX7P3A"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -727,22 +727,6 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Las Gatas",
-        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 146303,
-      "name": "Las Gatas",
-      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
         "name": "Salvaje",
         "url": "https://open.spotify.com/album/52ZUclHV8eBvrdRMsfGjkb"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 177570,
       "name": "Salvaje",
       "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
+        "name": "Las Gatas",
+        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 146303,
+      "name": "Las Gatas",
+      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
     },
     {
       "added_at": "2023-01-27 18:00:00",

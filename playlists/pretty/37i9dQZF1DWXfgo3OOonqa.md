@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,541 likes - 85 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,588 likes - 85 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ella mai](https://open.spotify.com/track/4abHyHTOkA4DTY0zwSdbZL) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Ella mai](https://open.spotify.com/album/2t6gMApNfFjb3vvZmZQjEe) | 3:15 |
-| 2 | [Mentalité RMX \(feat\. C.Gambino\)](https://open.spotify.com/track/1pFwmWdL9aPpajfRp7yzOI) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Mentalité RMX \(feat\. C.Gambino\)](https://open.spotify.com/album/3PvR88SHoZtUCi5lB4bDZJ) | 3:38 |
-| 3 | [Cocktails \(feat\. Asme\)](https://open.spotify.com/track/45bLmakv73Jwg5XwoEEGMq) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Cocktails \(feat\. Asme\)](https://open.spotify.com/album/0ZrYAHvPy0aTXpWhRN5es6) | 2:27 |
+| 1 | [Mentalité RMX \(feat\. C.Gambino\)](https://open.spotify.com/track/1pFwmWdL9aPpajfRp7yzOI) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [Mentalité RMX \(feat\. C.Gambino\)](https://open.spotify.com/album/3PvR88SHoZtUCi5lB4bDZJ) | 3:38 |
+| 2 | [Ella mai](https://open.spotify.com/track/4abHyHTOkA4DTY0zwSdbZL) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Ella mai](https://open.spotify.com/album/2t6gMApNfFjb3vvZmZQjEe) | 3:15 |
+| 3 | [Dum av dej](https://open.spotify.com/track/3i9UKYqNJtG0ufxxYimRu1) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Dum av dej](https://open.spotify.com/album/3DO3n0BmJmDsnQNhuCziQC) | 2:39 |
 | 4 | [Har Dig](https://open.spotify.com/track/4FGvRqZ1pPaflN2jjLBMB9) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [PISTOLER POESI OCH SEX](https://open.spotify.com/album/6HpmLRAvpms9AiqSB3zGdy) | 3:22 |
-| 5 | [KURIRER](https://open.spotify.com/track/7dLIb2FTMx0EKSAipHov7P) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [KURIRER](https://open.spotify.com/album/0q4FcnWY4RnXpgsPRNS8Cy) | 2:02 |
-| 6 | [Dum av dej](https://open.spotify.com/track/3i9UKYqNJtG0ufxxYimRu1) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Dum av dej](https://open.spotify.com/album/3DO3n0BmJmDsnQNhuCziQC) | 2:39 |
+| 5 | [Cocktails \(feat\. Asme\)](https://open.spotify.com/track/45bLmakv73Jwg5XwoEEGMq) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Cocktails \(feat\. Asme\)](https://open.spotify.com/album/0ZrYAHvPy0aTXpWhRN5es6) | 2:27 |
+| 6 | [KURIRER](https://open.spotify.com/track/7dLIb2FTMx0EKSAipHov7P) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [KURIRER](https://open.spotify.com/album/0q4FcnWY4RnXpgsPRNS8Cy) | 2:02 |
 | 7 | [We Them Boys](https://open.spotify.com/track/4ThoiczTKlsb2AzBPkmBkc) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [TJUGI23](https://open.spotify.com/album/5J8dRxQwNyJdrvNlNY6NMg) | 2:50 |
 | 8 | [G63](https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5) | 2:42 |
 | 9 | [Gata](https://open.spotify.com/track/7N0a0QhkOE5g4zbpJeHWpp) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Gata](https://open.spotify.com/album/2rlOVzymMvw3H6hUmRiiJs) | 2:35 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 84 | [REAL 1](https://open.spotify.com/track/1NCPpKK0mOQUlv0MMxgiB0) | [Rankz](https://open.spotify.com/artist/6w8VGrVtEFZLigAvNZKX7F), [Nathan K](https://open.spotify.com/artist/0gjoWt9fRKf09gYem1xjn6) | [REAL 1](https://open.spotify.com/album/06GgY9wb4a7XpXyUzlQ9EX) | 2:28 |
 | 85 | [Nåt Annat](https://open.spotify.com/track/3KwRaCqqEnv1mlpkirM2pG) | [Cicii](https://open.spotify.com/artist/5uf9F1Z86ckaBP5kCA2V9F) | [Nåt Annat](https://open.spotify.com/album/20HZKmEvh4zLxHKRaCDK61) | 3:30 |
 
-Snapshot ID: `MTY4MTQ3NjcwMiwwMDAwMDAwMDI4OWJkMDNhN2U1NWMwOTM4NDM3MDMyNTJiMjk5ZWEw`
+Snapshot ID: `MTY4MTcyMzA4MCwwMDAwMDAwMDNmNmI5NzY1MjNmYzFkY2NkNzc3MTlhOGEwMDlkZTE1`

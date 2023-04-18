@@ -1,12 +1,12 @@
 {
   "description": "The sounds keeping the streets of Nigeria on fire. \nCover: Mohbad",
-  "num_followers": 5797,
+  "num_followers": 5858,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ3NTc1NiwwMDAwMDAwMDQ1NjljNTVhNDJiOTFmZGJmMTFlOTcxZTMxYzg5NWIw",
+  "snapshot_id": "MTY4MTQ3NTc1NiwwMDAwMDAwMDlkZWFkOGI5OTZlMWE3N2QwNjkxYzdmZTFhZDM4Yzhl",
   "tracks": [
     {
       "added_at": "2023-04-14 12:35:56",
@@ -303,70 +303,6 @@
     {
       "added_at": "2023-04-14 12:35:56",
       "album": {
-        "name": "Rora",
-        "url": "https://open.spotify.com/album/4LzrbIrHS40GfLklCbjX05"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 149812,
-      "name": "Rora",
-      "url": "https://open.spotify.com/track/6b6Bz7pyeqLXDn92EHCyVY"
-    },
-    {
-      "added_at": "2023-04-14 12:35:56",
-      "album": {
-        "name": "Soapy",
-        "url": "https://open.spotify.com/album/1v9gHXqfKMRyEb1i64KJW3"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 174043,
-      "name": "Soapy",
-      "url": "https://open.spotify.com/track/1SlqJxitLASHinl3X0Mvkn"
-    },
-    {
-      "added_at": "2023-04-14 12:35:56",
-      "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
-    },
-    {
-      "added_at": "2023-04-14 12:35:56",
-      "album": {
-        "name": "Wale",
-        "url": "https://open.spotify.com/album/2vLIUTSnOYT6kj0dOv5cDK"
-      },
-      "artists": [
-        {
-          "name": "Candy Bleakz",
-          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
-        }
-      ],
-      "duration_ms": 186206,
-      "name": "Wale",
-      "url": "https://open.spotify.com/track/0m4sDtOZ1vIIPLgSneozOo"
-    },
-    {
-      "added_at": "2023-04-14 12:35:56",
-      "album": {
         "name": "Astalavista",
         "url": "https://open.spotify.com/album/43SgoLOqhyoefGdGy1lxb8"
       },
@@ -387,6 +323,54 @@
     {
       "added_at": "2023-04-14 12:35:56",
       "album": {
+        "name": "Soapy",
+        "url": "https://open.spotify.com/album/1v9gHXqfKMRyEb1i64KJW3"
+      },
+      "artists": [
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "duration_ms": 174043,
+      "name": "Soapy",
+      "url": "https://open.spotify.com/track/1SlqJxitLASHinl3X0Mvkn"
+    },
+    {
+      "added_at": "2023-04-14 12:35:56",
+      "album": {
+        "name": "Rora",
+        "url": "https://open.spotify.com/album/4LzrbIrHS40GfLklCbjX05"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 149812,
+      "name": "Rora",
+      "url": "https://open.spotify.com/track/6b6Bz7pyeqLXDn92EHCyVY"
+    },
+    {
+      "added_at": "2023-04-14 12:35:56",
+      "album": {
+        "name": "Wale",
+        "url": "https://open.spotify.com/album/2vLIUTSnOYT6kj0dOv5cDK"
+      },
+      "artists": [
+        {
+          "name": "Candy Bleakz",
+          "url": "https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0"
+        }
+      ],
+      "duration_ms": 186206,
+      "name": "Wale",
+      "url": "https://open.spotify.com/track/0m4sDtOZ1vIIPLgSneozOo"
+    },
+    {
+      "added_at": "2023-04-14 12:35:56",
+      "album": {
         "name": "We Outside",
         "url": "https://open.spotify.com/album/2OHCOJtdIppm9wawD4fVwe"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 155428,
       "name": "We Outside",
       "url": "https://open.spotify.com/track/73QcmfEnoLv3pKt0aXKdOG"
+    },
+    {
+      "added_at": "2023-04-14 12:35:56",
+      "album": {
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
       "added_at": "2023-04-14 12:35:56",
@@ -531,26 +531,6 @@
     {
       "added_at": "2023-04-14 12:35:56",
       "album": {
-        "name": "Time (Remix)",
-        "url": "https://open.spotify.com/album/1c2FeiwmSLO8prJnDg24Z1"
-      },
-      "artists": [
-        {
-          "name": "Damo K",
-          "url": "https://open.spotify.com/artist/2EbTRZdju2hUrMqClX4wyO"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 147931,
-      "name": "Time - Remix",
-      "url": "https://open.spotify.com/track/2ETc95EJp82O8Bbx1MGEAR"
-    },
-    {
-      "added_at": "2023-04-14 12:35:56",
-      "album": {
         "name": "Amala",
         "url": "https://open.spotify.com/album/42FZKw04wgLtGEYerWZ9Xp"
       },
@@ -575,6 +555,26 @@
     {
       "added_at": "2023-04-14 12:35:56",
       "album": {
+        "name": "Time (Remix)",
+        "url": "https://open.spotify.com/album/1c2FeiwmSLO8prJnDg24Z1"
+      },
+      "artists": [
+        {
+          "name": "Damo K",
+          "url": "https://open.spotify.com/artist/2EbTRZdju2hUrMqClX4wyO"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 147931,
+      "name": "Time - Remix",
+      "url": "https://open.spotify.com/track/2ETc95EJp82O8Bbx1MGEAR"
+    },
+    {
+      "added_at": "2023-04-14 12:35:56",
+      "album": {
         "name": "No Advise Me",
         "url": "https://open.spotify.com/album/1DVKvXIvBqaIIuPQxy1qkK"
       },
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-04-14 12:35:56",
       "album": {
-        "name": "Oshey Boys",
-        "url": "https://open.spotify.com/album/7zXngUfueV6bS1hzS7ustQ"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "Oshey Boys",
-      "url": "https://open.spotify.com/track/5B2gyPpOBTrxaixIoBct5G"
-    },
-    {
-      "added_at": "2023-04-14 12:35:56",
-      "album": {
         "name": "Jaboti",
         "url": "https://open.spotify.com/album/0Zibh5biKDOCMSjgzpcO6i"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 153341,
       "name": "Jaboti",
       "url": "https://open.spotify.com/track/1qi9wSY9usNeP5OHfBWtsX"
+    },
+    {
+      "added_at": "2023-04-14 12:35:56",
+      "album": {
+        "name": "Oshey Boys",
+        "url": "https://open.spotify.com/album/7zXngUfueV6bS1hzS7ustQ"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "Oshey Boys",
+      "url": "https://open.spotify.com/track/5B2gyPpOBTrxaixIoBct5G"
     },
     {
       "added_at": "2023-04-14 12:35:56",
@@ -643,38 +643,6 @@
     {
       "added_at": "2023-04-14 12:35:56",
       "album": {
-        "name": "PXTA",
-        "url": "https://open.spotify.com/album/7l5tpAs5HtaHTVvSRlypnk"
-      },
-      "artists": [
-        {
-          "name": "Naira Marley",
-          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
-        }
-      ],
-      "duration_ms": 208581,
-      "name": "PXTA",
-      "url": "https://open.spotify.com/track/5h3sBzadjK7vFM6M2GR9wg"
-    },
-    {
-      "added_at": "2023-04-14 12:35:56",
-      "album": {
-        "name": "New Born Fela",
-        "url": "https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 129807,
-      "name": "New Born Fela",
-      "url": "https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas"
-    },
-    {
-      "added_at": "2023-04-14 12:35:56",
-      "album": {
         "name": "Feel Better",
         "url": "https://open.spotify.com/album/1ew7HYS9GyX2klze1hoKFL"
       },
@@ -691,6 +659,22 @@
       "duration_ms": 143300,
       "name": "Feel Better",
       "url": "https://open.spotify.com/track/11gtAsVqrzhvI0g9lVrLc0"
+    },
+    {
+      "added_at": "2023-04-14 12:35:56",
+      "album": {
+        "name": "New Born Fela",
+        "url": "https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 129807,
+      "name": "New Born Fela",
+      "url": "https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas"
     },
     {
       "added_at": "2023-04-14 12:35:56",
@@ -719,22 +703,18 @@
     {
       "added_at": "2023-04-14 12:35:56",
       "album": {
-        "name": "Realize",
-        "url": "https://open.spotify.com/album/6CsuuMym36rdojCUMsiOud"
+        "name": "PXTA",
+        "url": "https://open.spotify.com/album/7l5tpAs5HtaHTVvSRlypnk"
       },
       "artists": [
         {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
         }
       ],
-      "duration_ms": 175255,
-      "name": "Realize",
-      "url": "https://open.spotify.com/track/1GfaxJMFAolWogWr2MNkZ3"
+      "duration_ms": 208581,
+      "name": "PXTA",
+      "url": "https://open.spotify.com/track/5h3sBzadjK7vFM6M2GR9wg"
     },
     {
       "added_at": "2023-04-14 12:35:56",
@@ -751,6 +731,26 @@
       "duration_ms": 123870,
       "name": "Don't Hype Me",
       "url": "https://open.spotify.com/track/0NxAC5CVvgBfA5Qm2pqsg0"
+    },
+    {
+      "added_at": "2023-04-14 12:35:56",
+      "album": {
+        "name": "Realize",
+        "url": "https://open.spotify.com/album/6CsuuMym36rdojCUMsiOud"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 175255,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/1GfaxJMFAolWogWr2MNkZ3"
     },
     {
       "added_at": "2023-04-14 12:35:56",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-04-14 12:35:56",
       "album": {
-        "name": "Of Lagos",
-        "url": "https://open.spotify.com/album/0XZG1YD6gSjTTARiGEWz6l"
+        "name": "On Fire (From 'Gangs of Lagos')",
+        "url": "https://open.spotify.com/album/1H7A3Jo78llpDiDAuYKkQS"
       },
       "artists": [
         {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
         }
       ],
-      "duration_ms": 165720,
-      "name": "Of Lagos",
-      "url": "https://open.spotify.com/track/0G6mkL7Qenh7YYWPuorN3A"
+      "duration_ms": 160746,
+      "name": "On Fire (From 'Gangs of Lagos')",
+      "url": "https://open.spotify.com/track/5Y06JkdP9jp68nSQLfeu41"
     },
     {
       "added_at": "2023-04-14 12:35:56",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-04-14 12:35:56",
       "album": {
-        "name": "On Fire (From 'Gangs of Lagos')",
-        "url": "https://open.spotify.com/album/1H7A3Jo78llpDiDAuYKkQS"
+        "name": "Of Lagos",
+        "url": "https://open.spotify.com/album/0XZG1YD6gSjTTARiGEWz6l"
       },
       "artists": [
         {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
         }
       ],
-      "duration_ms": 160746,
-      "name": "On Fire (From 'Gangs of Lagos')",
-      "url": "https://open.spotify.com/track/5Y06JkdP9jp68nSQLfeu41"
+      "duration_ms": 165720,
+      "name": "Of Lagos",
+      "url": "https://open.spotify.com/track/0G6mkL7Qenh7YYWPuorN3A"
     },
     {
       "added_at": "2023-04-14 12:35:56",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2023-04-14 12:35:56",
       "album": {
-        "name": "Ikebe Supa",
-        "url": "https://open.spotify.com/album/4mnduAfflZxa1pqvQybyb6"
-      },
-      "artists": [
-        {
-          "name": "Carterefe",
-          "url": "https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n"
-        },
-        {
-          "name": "Ceeza Milli",
-          "url": "https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A"
-        }
-      ],
-      "duration_ms": 141068,
-      "name": "Ikebe Supa",
-      "url": "https://open.spotify.com/track/7FBXDNS5zK0BBltUjXnttC"
-    },
-    {
-      "added_at": "2023-04-14 12:35:56",
-      "album": {
         "name": "Am I a Yahoo Boy",
         "url": "https://open.spotify.com/album/0cXmTtt5BlvsgTn3Ggv0CL"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 211849,
       "name": "If No Be You",
       "url": "https://open.spotify.com/track/1ZKiX93n8VgK0Gh7iqW9Es"
+    },
+    {
+      "added_at": "2023-04-14 12:35:56",
+      "album": {
+        "name": "Ikebe Supa",
+        "url": "https://open.spotify.com/album/4mnduAfflZxa1pqvQybyb6"
+      },
+      "artists": [
+        {
+          "name": "Carterefe",
+          "url": "https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n"
+        },
+        {
+          "name": "Ceeza Milli",
+          "url": "https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A"
+        }
+      ],
+      "duration_ms": 141068,
+      "name": "Ikebe Supa",
+      "url": "https://open.spotify.com/track/7FBXDNS5zK0BBltUjXnttC"
     },
     {
       "added_at": "2023-04-14 12:35:56",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-04-14 12:35:56",
       "album": {
-        "name": "South Africa",
-        "url": "https://open.spotify.com/album/7rFikDvLvosoU23LAz1KuD"
+        "name": "My Life",
+        "url": "https://open.spotify.com/album/7mkucWU2lfNiqr20iNL5lV"
       },
       "artists": [
         {
-          "name": "Ashidapo",
-          "url": "https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg"
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 153108,
-      "name": "South Africa",
-      "url": "https://open.spotify.com/track/0hVRvGHLu9WHk16CPNDwbg"
+      "duration_ms": 132414,
+      "name": "My Life",
+      "url": "https://open.spotify.com/track/0SJYLFDUX2F1IMTdXS23zI"
     }
   ],
   "unique_name": "Street Energy ",

@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Flavio Vitor Jr.",
-  "num_followers": 294170,
+  "num_followers": 294295,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTU4MzE3MCwwMDAwMDAwMGJhMDRiZjU1MjQ4NGM1NmUzZDY2NGNhYWJlMDI3NjY2",
+  "snapshot_id": "MTY4MTU4MzE3MCwwMDAwMDAwMGM2MjNiYWNiMTM2NzE4ZDQ2MGM1NDUwOGI4ZTVmMGY3",
   "tracks": [
     {
       "added_at": "2023-04-15 18:26:10",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
+        "name": "Galileu",
+        "url": "https://open.spotify.com/album/5P7y0sQFVX3pnG2Iaz1pIM"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 185198,
+      "name": "Arrasta-Me",
+      "url": "https://open.spotify.com/track/0vJgEykXvUxZh4oiqM0IbM"
+    },
+    {
+      "added_at": "2023-04-15 18:26:10",
+      "album": {
         "name": "Divino Esposo",
         "url": "https://open.spotify.com/album/7qtVI9khsvf9SaIatXMVzV"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 218104,
       "name": "Divino Esposo",
       "url": "https://open.spotify.com/track/7f06pgaAEhXOsovtXnLdyS"
-    },
-    {
-      "added_at": "2023-04-15 18:26:10",
-      "album": {
-        "name": "Galileu",
-        "url": "https://open.spotify.com/album/5P7y0sQFVX3pnG2Iaz1pIM"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 185198,
-      "name": "Arrasta-Me",
-      "url": "https://open.spotify.com/track/0vJgEykXvUxZh4oiqM0IbM"
     },
     {
       "added_at": "2023-04-15 18:26:10",
@@ -303,26 +303,6 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
-        "name": "A tua ternura",
-        "url": "https://open.spotify.com/album/1V5hxJk8n6AgrB7oHJdVwt"
-      },
-      "artists": [
-        {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
-        },
-        {
-          "name": "Adriana Arydes",
-          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
-        }
-      ],
-      "duration_ms": 201089,
-      "name": "A tua ternura",
-      "url": "https://open.spotify.com/track/407jM0l4pJwZBbvzFXTw4o"
-    },
-    {
-      "added_at": "2023-04-15 18:26:10",
-      "album": {
         "name": "Yeshua (feat. Eliana Ribeiro)",
         "url": "https://open.spotify.com/album/6kb2Z7f0oZtl7TDrfhTN3j"
       },
@@ -363,6 +343,22 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
+        "name": "Cora\u00e7\u00e3o de Transgressor",
+        "url": "https://open.spotify.com/album/0PKAfcsf5TQeI1Ex7bgS5H"
+      },
+      "artists": [
+        {
+          "name": "Padre F\u00e1bio De Melo",
+          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
+        }
+      ],
+      "duration_ms": 250456,
+      "name": "Cora\u00e7\u00e3o de Transgressor",
+      "url": "https://open.spotify.com/track/1T72Pe1YOTYYKJNpvTOyMs"
+    },
+    {
+      "added_at": "2023-04-15 18:26:10",
+      "album": {
         "name": "Quero Nascer de Novo",
         "url": "https://open.spotify.com/album/5m2smuppJg7pYpgVmNIFhO"
       },
@@ -399,6 +395,26 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
+        "name": "A tua ternura",
+        "url": "https://open.spotify.com/album/1V5hxJk8n6AgrB7oHJdVwt"
+      },
+      "artists": [
+        {
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        },
+        {
+          "name": "Adriana Arydes",
+          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
+        }
+      ],
+      "duration_ms": 201089,
+      "name": "A tua ternura",
+      "url": "https://open.spotify.com/track/407jM0l4pJwZBbvzFXTw4o"
+    },
+    {
+      "added_at": "2023-04-15 18:26:10",
+      "album": {
         "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
         "url": "https://open.spotify.com/album/3PQJ1WcygTdXHMaXWI8qbW"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 309660,
       "name": "Ningu\u00e9m Explica Deus - Ao Vivo",
       "url": "https://open.spotify.com/track/6tSqtTXUDgG9R1BA1wtwBN"
-    },
-    {
-      "added_at": "2023-04-15 18:26:10",
-      "album": {
-        "name": "Cora\u00e7\u00e3o de Transgressor",
-        "url": "https://open.spotify.com/album/0PKAfcsf5TQeI1Ex7bgS5H"
-      },
-      "artists": [
-        {
-          "name": "Padre F\u00e1bio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
-        }
-      ],
-      "duration_ms": 250456,
-      "name": "Cora\u00e7\u00e3o de Transgressor",
-      "url": "https://open.spotify.com/track/1T72Pe1YOTYYKJNpvTOyMs"
     },
     {
       "added_at": "2023-04-15 18:26:10",
@@ -479,6 +479,58 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
+        "name": "Minha Voz Te Louva",
+        "url": "https://open.spotify.com/album/1LSnfT1VyBTCjKg3tXejFm"
+      },
+      "artists": [
+        {
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+        }
+      ],
+      "duration_ms": 200048,
+      "name": "Minha Voz Te Louva",
+      "url": "https://open.spotify.com/track/2RkN94PC0QWoYMuVnxyNUh"
+    },
+    {
+      "added_at": "2023-04-15 18:26:10",
+      "album": {
+        "name": "Hosana, Pt. 01",
+        "url": "https://open.spotify.com/album/5Nnu2Z67j4rbQm2zXMrm4N"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 214327,
+      "name": "Can\u00e7\u00e3o de Madalena",
+      "url": "https://open.spotify.com/track/1y26YuDAbMbnZfmsNvjCb3"
+    },
+    {
+      "added_at": "2023-04-15 18:26:10",
+      "album": {
+        "name": "Quero Ouvir Tua Voz",
+        "url": "https://open.spotify.com/album/4iFYsnXf0DfLQas8YlV42v"
+      },
+      "artists": [
+        {
+          "name": "Cleiton Saraiva",
+          "url": "https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO"
+        },
+        {
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        }
+      ],
+      "duration_ms": 264891,
+      "name": "Quero Ouvir Tua Voz",
+      "url": "https://open.spotify.com/track/74uwms1hqk7HUMPYrtTrgO"
+    },
+    {
+      "added_at": "2023-04-15 18:26:10",
+      "album": {
         "name": "Romaria (Ao Vivo)",
         "url": "https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U"
       },
@@ -519,50 +571,18 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
-        "name": "Minha Voz Te Louva",
-        "url": "https://open.spotify.com/album/1LSnfT1VyBTCjKg3tXejFm"
+        "name": "Alma de Cristo",
+        "url": "https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA"
       },
       "artists": [
         {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
         }
       ],
-      "duration_ms": 200048,
-      "name": "Minha Voz Te Louva",
-      "url": "https://open.spotify.com/track/2RkN94PC0QWoYMuVnxyNUh"
-    },
-    {
-      "added_at": "2023-04-15 18:26:10",
-      "album": {
-        "name": "Hosana, Pt. 01",
-        "url": "https://open.spotify.com/album/5Nnu2Z67j4rbQm2zXMrm4N"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 214327,
-      "name": "Can\u00e7\u00e3o de Madalena",
-      "url": "https://open.spotify.com/track/1y26YuDAbMbnZfmsNvjCb3"
-    },
-    {
-      "added_at": "2023-04-15 18:26:10",
-      "album": {
-        "name": "Esp\u00edrito da Verdade",
-        "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
-      },
-      "artists": [
-        {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
-        }
-      ],
-      "duration_ms": 287303,
-      "name": "Se Eu Tocar",
-      "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
+      "duration_ms": 232115,
+      "name": "Alma de Cristo",
+      "url": "https://open.spotify.com/track/5biyHI1KgkgmP2Lh7qey2S"
     },
     {
       "added_at": "2023-04-15 18:26:10",
@@ -583,62 +603,6 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
-        "name": "Acalma o Meu Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        },
-        {
-          "name": "Adriana Arydes",
-          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Acalma o Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M"
-    },
-    {
-      "added_at": "2023-04-15 18:26:10",
-      "album": {
-        "name": "Quero Ouvir Tua Voz",
-        "url": "https://open.spotify.com/album/4iFYsnXf0DfLQas8YlV42v"
-      },
-      "artists": [
-        {
-          "name": "Cleiton Saraiva",
-          "url": "https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO"
-        },
-        {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
-        }
-      ],
-      "duration_ms": 264891,
-      "name": "Quero Ouvir Tua Voz",
-      "url": "https://open.spotify.com/track/74uwms1hqk7HUMPYrtTrgO"
-    },
-    {
-      "added_at": "2023-04-15 18:26:10",
-      "album": {
-        "name": "Alma de Cristo",
-        "url": "https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        }
-      ],
-      "duration_ms": 232115,
-      "name": "Alma de Cristo",
-      "url": "https://open.spotify.com/track/5biyHI1KgkgmP2Lh7qey2S"
-    },
-    {
-      "added_at": "2023-04-15 18:26:10",
-      "album": {
         "name": "Resili\u00eancia (Ao Vivo)",
         "url": "https://open.spotify.com/album/1hVNGg5aKdYEJ54F9xPh1Q"
       },
@@ -655,18 +619,18 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
-        "name": "Ressonhar",
-        "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
+        "name": "Esp\u00edrito da Verdade",
+        "url": "https://open.spotify.com/album/4guZ7UXX6uK21iSRk0bV2P"
       },
       "artists": [
         {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
         }
       ],
-      "duration_ms": 290125,
-      "name": "Oceano de Miseric\u00f3rdia",
-      "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
+      "duration_ms": 287303,
+      "name": "Se Eu Tocar",
+      "url": "https://open.spotify.com/track/5xLXpAF0N21W3CuJSfJ39R"
     },
     {
       "added_at": "2023-04-15 18:26:10",
@@ -687,6 +651,22 @@
       "duration_ms": 238430,
       "name": "Com Tua M\u00e3o",
       "url": "https://open.spotify.com/track/7wXke7G8pXKpPPKNluM3DA"
+    },
+    {
+      "added_at": "2023-04-15 18:26:10",
+      "album": {
+        "name": "Ressonhar",
+        "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
+      },
+      "artists": [
+        {
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+        }
+      ],
+      "duration_ms": 290125,
+      "name": "Oceano de Miseric\u00f3rdia",
+      "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
     },
     {
       "added_at": "2023-04-15 18:26:10",
@@ -747,6 +727,26 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
+        "name": "Acalma o Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4znUClTL2uqwqfIZG1lVw9"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        },
+        {
+          "name": "Adriana Arydes",
+          "url": "https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Acalma o Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0bgYj6YkauDFia2BvgrL9M"
+    },
+    {
+      "added_at": "2023-04-15 18:26:10",
+      "album": {
         "name": "Em Sil\u00eancio",
         "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
       },
@@ -763,38 +763,6 @@
       "duration_ms": 228125,
       "name": "Em Sil\u00eancio",
       "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
-    },
-    {
-      "added_at": "2023-04-15 18:26:10",
-      "album": {
-        "name": "Paci\u00eancia",
-        "url": "https://open.spotify.com/album/0vZIyxFfR0WCRh0y3qYppL"
-      },
-      "artists": [
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Paci\u00eancia",
-      "url": "https://open.spotify.com/track/4uJuu76fkFhIGAbQi3ZuEv"
-    },
-    {
-      "added_at": "2023-04-15 18:26:10",
-      "album": {
-        "name": "Sil\u00eancio da Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1B4NE3b1ck5FJhxWNg2sEf"
-      },
-      "artists": [
-        {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
-        }
-      ],
-      "duration_ms": 132856,
-      "name": "Sil\u00eancio da Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2qMgNMASU67tN6Jfa0XLaV"
     },
     {
       "added_at": "2023-04-15 18:26:10",
@@ -859,6 +827,38 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
+        "name": "Cantai a Deus Com Alegria 2022",
+        "url": "https://open.spotify.com/album/5NfNDPV81OPmGHg0i3U5xv"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        }
+      ],
+      "duration_ms": 349859,
+      "name": "Irresistivelmente",
+      "url": "https://open.spotify.com/track/1mlClp0nXxSXV4iEOz5gPU"
+    },
+    {
+      "added_at": "2023-04-15 18:26:10",
+      "album": {
+        "name": "Sil\u00eancio da Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1B4NE3b1ck5FJhxWNg2sEf"
+      },
+      "artists": [
+        {
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+        }
+      ],
+      "duration_ms": 132856,
+      "name": "Sil\u00eancio da Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2qMgNMASU67tN6Jfa0XLaV"
+    },
+    {
+      "added_at": "2023-04-15 18:26:10",
+      "album": {
         "name": "Deus Anda Comigo",
         "url": "https://open.spotify.com/album/7jGddnQXi1xKn1RsXTuk1e"
       },
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
+        "name": "Paci\u00eancia",
+        "url": "https://open.spotify.com/album/0vZIyxFfR0WCRh0y3qYppL"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Paci\u00eancia",
+      "url": "https://open.spotify.com/track/4uJuu76fkFhIGAbQi3ZuEv"
+    },
+    {
+      "added_at": "2023-04-15 18:26:10",
+      "album": {
         "name": "Nada Te Perturbe",
         "url": "https://open.spotify.com/album/51XkQlDg5BCuXSOadU5j25"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 225326,
       "name": "Nada Te Perturbe",
       "url": "https://open.spotify.com/track/1h2NgvYE3TIS48weBk1Qr1"
-    },
-    {
-      "added_at": "2023-04-15 18:26:10",
-      "album": {
-        "name": "Cantai a Deus Com Alegria 2022",
-        "url": "https://open.spotify.com/album/5NfNDPV81OPmGHg0i3U5xv"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        }
-      ],
-      "duration_ms": 349859,
-      "name": "Irresistivelmente",
-      "url": "https://open.spotify.com/track/1mlClp0nXxSXV4iEOz5gPU"
     },
     {
       "added_at": "2023-04-15 18:26:10",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
-        "name": "Ato de Amor",
-        "url": "https://open.spotify.com/album/4yf1sTOcn1bC7pAUY8DItT"
-      },
-      "artists": [
-        {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
-        }
-      ],
-      "duration_ms": 202368,
-      "name": "Ato de Amor",
-      "url": "https://open.spotify.com/track/5pxF7Ksy0FzF6DF1Dypsv4"
-    },
-    {
-      "added_at": "2023-04-15 18:26:10",
-      "album": {
         "name": "Gba Stage, Vol. 5",
         "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
       },
@@ -971,22 +955,6 @@
       "duration_ms": 173272,
       "name": "Como \u00c9s Lindo",
       "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
-    },
-    {
-      "added_at": "2023-04-15 18:26:10",
-      "album": {
-        "name": "Te Adorar",
-        "url": "https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q"
-      },
-      "artists": [
-        {
-          "name": "Padre Anderson Gomes",
-          "url": "https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9"
-        }
-      ],
-      "duration_ms": 326208,
-      "name": "Te Adorar",
-      "url": "https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ"
     },
     {
       "added_at": "2023-04-15 18:26:10",
@@ -1019,6 +987,38 @@
       "duration_ms": 272670,
       "name": "Can\u00e7\u00e3o de amor fraterno",
       "url": "https://open.spotify.com/track/36FpzYhMHTFwdXBwC5CoAj"
+    },
+    {
+      "added_at": "2023-04-15 18:26:10",
+      "album": {
+        "name": "Ato de Amor",
+        "url": "https://open.spotify.com/album/4yf1sTOcn1bC7pAUY8DItT"
+      },
+      "artists": [
+        {
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+        }
+      ],
+      "duration_ms": 202368,
+      "name": "Ato de Amor",
+      "url": "https://open.spotify.com/track/5pxF7Ksy0FzF6DF1Dypsv4"
+    },
+    {
+      "added_at": "2023-04-15 18:26:10",
+      "album": {
+        "name": "Te Adorar",
+        "url": "https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q"
+      },
+      "artists": [
+        {
+          "name": "Padre Anderson Gomes",
+          "url": "https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9"
+        }
+      ],
+      "duration_ms": 326208,
+      "name": "Te Adorar",
+      "url": "https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ"
     },
     {
       "added_at": "2023-04-15 18:26:10",
@@ -1091,6 +1091,26 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
+        "name": "Gba Stage, Vol. 5",
+        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        }
+      ],
+      "duration_ms": 177322,
+      "name": "Cora\u00e7\u00e3o de M\u00e3e",
+      "url": "https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L"
+    },
+    {
+      "added_at": "2023-04-15 18:26:10",
+      "album": {
         "name": "Minha Voca\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi"
       },
@@ -1131,6 +1151,26 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
+        "name": "Lugar da Promessa",
+        "url": "https://open.spotify.com/album/0az8jmNkDgSooCY5M5SLIJ"
+      },
+      "artists": [
+        {
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+        },
+        {
+          "name": "Canthares",
+          "url": "https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr"
+        }
+      ],
+      "duration_ms": 283490,
+      "name": "Lugar da Promessa",
+      "url": "https://open.spotify.com/track/1NLPPnEEQCbaoum7s54fBG"
+    },
+    {
+      "added_at": "2023-04-15 18:26:10",
+      "album": {
         "name": "Bom \u00c9 Estarmos Aqui",
         "url": "https://open.spotify.com/album/2Imli1WPWuqu2DM9Il1fOb"
       },
@@ -1163,46 +1203,6 @@
       "duration_ms": 224000,
       "name": "Bom \u00c9 Estarmos Aqui",
       "url": "https://open.spotify.com/track/3fjQZuMcv9igwWcPx3a96j"
-    },
-    {
-      "added_at": "2023-04-15 18:26:10",
-      "album": {
-        "name": "Gba Stage, Vol. 5",
-        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
-        }
-      ],
-      "duration_ms": 177322,
-      "name": "Cora\u00e7\u00e3o de M\u00e3e",
-      "url": "https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L"
-    },
-    {
-      "added_at": "2023-04-15 18:26:10",
-      "album": {
-        "name": "Lugar da Promessa",
-        "url": "https://open.spotify.com/album/0az8jmNkDgSooCY5M5SLIJ"
-      },
-      "artists": [
-        {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
-        },
-        {
-          "name": "Canthares",
-          "url": "https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr"
-        }
-      ],
-      "duration_ms": 283490,
-      "name": "Lugar da Promessa",
-      "url": "https://open.spotify.com/track/1NLPPnEEQCbaoum7s54fBG"
     },
     {
       "added_at": "2023-04-15 18:26:10",

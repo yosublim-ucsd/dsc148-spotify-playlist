@@ -1,12 +1,12 @@
 {
   "description": "maxime. makes anti pop",
-  "num_followers": 695786,
+  "num_followers": 695821,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMGZkMWYyMWZmMzA1ZWI3NDMzMThjMmI1Mzc2MTRkMjgz",
+  "snapshot_id": "MTY4MTc1OTA0MiwwMDAwMDAwMGU0ZWY3YmU0MjA0YjY0YmJmN2VhNjkzMGIyOWVlODdj",
   "tracks": [
     {
       "added_at": "2023-04-14 04:01:00",
@@ -77,46 +77,6 @@
       "url": "https://open.spotify.com/track/3PMX4mU6uGEVtdEufrChcQ"
     },
     {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "45",
-        "url": "https://open.spotify.com/album/3sF06O8MUi5xUWlLiqC631"
-      },
-      "artists": [
-        {
-          "name": "dba James",
-          "url": "https://open.spotify.com/artist/22kaRHzxgBdm1KiWv2cRl1"
-        }
-      ],
-      "duration_ms": 145256,
-      "name": "45",
-      "url": "https://open.spotify.com/track/22157lgXks8tQll1LQsCid"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "SPEED RUN",
-        "url": "https://open.spotify.com/album/7qngj2U22AGXVoZB6QsZ51"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        },
-        {
-          "name": "Blaketheman1000",
-          "url": "https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I"
-        },
-        {
-          "name": "May Rio",
-          "url": "https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "WONDERLAND",
-      "url": "https://open.spotify.com/track/4RH5H3lx8hNw1JkXMjMqx0"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "A Violent Dichotomy",
@@ -131,6 +91,62 @@
       "duration_ms": 255113,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/6gRdiHPSPWUfzqlY3AIxcO"
+    },
+    {
+      "added_at": "2023-04-05 22:05:22",
+      "album": {
+        "name": "Familiarity",
+        "url": "https://open.spotify.com/album/48CGCAKq0qCLqZjEnKFBbE"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 207486,
+      "name": "Familiarity",
+      "url": "https://open.spotify.com/track/6hB5O4G6L5xa4r3wKSisH3"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "HIMBO/GOD'S LONELY MAN",
+        "url": "https://open.spotify.com/album/2rHMPRzjudUluNghHTKsLq"
+      },
+      "artists": [
+        {
+          "name": "Curtis Waters",
+          "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
+        }
+      ],
+      "duration_ms": 113170,
+      "name": "HIMBO",
+      "url": "https://open.spotify.com/track/6p3E1pfSwR1UPK8s4OVQOD"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "could've been",
+        "url": "https://open.spotify.com/album/5jbWku8SrgJi4mmPlIQkUO"
+      },
+      "artists": [
+        {
+          "name": "Tino Sutra",
+          "url": "https://open.spotify.com/artist/0UdWLioRqdeSw8NtyGlaZV"
+        },
+        {
+          "name": "Seago",
+          "url": "https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s"
+        },
+        {
+          "name": "harper",
+          "url": "https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK"
+        }
+      ],
+      "duration_ms": 203954,
+      "name": "could've been",
+      "url": "https://open.spotify.com/track/4ark9QtHieU5f50vDeQCFb"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -159,26 +175,26 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "could've been",
-        "url": "https://open.spotify.com/album/5jbWku8SrgJi4mmPlIQkUO"
+        "name": "SPEED RUN",
+        "url": "https://open.spotify.com/album/7qngj2U22AGXVoZB6QsZ51"
       },
       "artists": [
         {
-          "name": "Tino Sutra",
-          "url": "https://open.spotify.com/artist/0UdWLioRqdeSw8NtyGlaZV"
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
         },
         {
-          "name": "Seago",
-          "url": "https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s"
+          "name": "Blaketheman1000",
+          "url": "https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I"
         },
         {
-          "name": "harper",
-          "url": "https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK"
+          "name": "May Rio",
+          "url": "https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w"
         }
       ],
-      "duration_ms": 203954,
-      "name": "could've been",
-      "url": "https://open.spotify.com/track/4ark9QtHieU5f50vDeQCFb"
+      "duration_ms": 212000,
+      "name": "WONDERLAND",
+      "url": "https://open.spotify.com/track/4RH5H3lx8hNw1JkXMjMqx0"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -217,6 +233,78 @@
       "url": "https://open.spotify.com/track/72GKPVtBchtCDoL8LURCrB"
     },
     {
+      "added_at": "2023-04-17 19:17:22",
+      "album": {
+        "name": "YOUNG SAAB STORIES VOL. 2",
+        "url": "https://open.spotify.com/album/0QzUd2r30dYYWICQ8iOAq5"
+      },
+      "artists": [
+        {
+          "name": "Young Saab",
+          "url": "https://open.spotify.com/artist/3koEtGT6SxcjRgwh6YwDx5"
+        },
+        {
+          "name": "YGTUT",
+          "url": "https://open.spotify.com/artist/5rOkxO8Va1CnXhF7nrHMrU"
+        }
+      ],
+      "duration_ms": 130280,
+      "name": "4 LEAF CLOVER (featuring YGTUT)",
+      "url": "https://open.spotify.com/track/7ascXt2NiH6FByjAeekHMp"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Be Somebody",
+        "url": "https://open.spotify.com/album/5VWx4yKzDD4daztd1gn9D8"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 141780,
+      "name": "Be Somebody",
+      "url": "https://open.spotify.com/track/1zN4tWrJ4oGSSCichizR6D"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "a million messages",
+        "url": "https://open.spotify.com/album/4VUpB2haaJ2duXy2CaHhB8"
+      },
+      "artists": [
+        {
+          "name": "Nashon",
+          "url": "https://open.spotify.com/artist/12X1zDSQlW0c6uRXGoOzHi"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "a million messages",
+      "url": "https://open.spotify.com/track/2bzcI82YXck3xUFMGqqMTF"
+    },
+    {
+      "added_at": "2023-04-05 19:35:30",
+      "album": {
+        "name": "ROMCOM",
+        "url": "https://open.spotify.com/album/5vKdHtnPF6EJZcoGZYN83I"
+      },
+      "artists": [
+        {
+          "name": "Jakey",
+          "url": "https://open.spotify.com/artist/3q1NKu1dVzFcBfxFos4kE3"
+        }
+      ],
+      "duration_ms": 185233,
+      "name": "TOMMY HANKS",
+      "url": "https://open.spotify.com/track/0ehhyO5zJtMcgiLM2lSjpx"
+    },
+    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "JamPak Spring '23",
@@ -231,22 +319,6 @@
       "duration_ms": 137119,
       "name": "EASTSIDE RANGER",
       "url": "https://open.spotify.com/track/0NcFyn94MlTDR5AtVRPjps"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "HIMBO/GOD'S LONELY MAN",
-        "url": "https://open.spotify.com/album/2rHMPRzjudUluNghHTKsLq"
-      },
-      "artists": [
-        {
-          "name": "Curtis Waters",
-          "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U"
-        }
-      ],
-      "duration_ms": 113170,
-      "name": "HIMBO",
-      "url": "https://open.spotify.com/track/6p3E1pfSwR1UPK8s4OVQOD"
     },
     {
       "added_at": "2023-03-01 23:35:59",
@@ -301,40 +373,20 @@
       "url": "https://open.spotify.com/track/1iqPqjK8NBii4QKbHXTqn6"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
+      "added_at": "2023-03-24 04:01:00",
       "album": {
-        "name": "Be Somebody",
-        "url": "https://open.spotify.com/album/5VWx4yKzDD4daztd1gn9D8"
+        "name": "45",
+        "url": "https://open.spotify.com/album/3sF06O8MUi5xUWlLiqC631"
       },
       "artists": [
         {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        },
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+          "name": "dba James",
+          "url": "https://open.spotify.com/artist/22kaRHzxgBdm1KiWv2cRl1"
         }
       ],
-      "duration_ms": 141780,
-      "name": "Be Somebody",
-      "url": "https://open.spotify.com/track/1zN4tWrJ4oGSSCichizR6D"
-    },
-    {
-      "added_at": "2023-04-05 19:35:30",
-      "album": {
-        "name": "ROMCOM",
-        "url": "https://open.spotify.com/album/5vKdHtnPF6EJZcoGZYN83I"
-      },
-      "artists": [
-        {
-          "name": "Jakey",
-          "url": "https://open.spotify.com/artist/3q1NKu1dVzFcBfxFos4kE3"
-        }
-      ],
-      "duration_ms": 185233,
-      "name": "TOMMY HANKS",
-      "url": "https://open.spotify.com/track/0ehhyO5zJtMcgiLM2lSjpx"
+      "duration_ms": 145256,
+      "name": "45",
+      "url": "https://open.spotify.com/track/22157lgXks8tQll1LQsCid"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -351,22 +403,6 @@
       "duration_ms": 214760,
       "name": "Funky",
       "url": "https://open.spotify.com/track/1Sov7OQevNqkPxNNEpjt6z"
-    },
-    {
-      "added_at": "2023-03-01 23:35:59",
-      "album": {
-        "name": "TONY ON THE RADIO",
-        "url": "https://open.spotify.com/album/0yJdceZ9PO3J7LVe8jnbx6"
-      },
-      "artists": [
-        {
-          "name": "Igwe Aka",
-          "url": "https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI"
-        }
-      ],
-      "duration_ms": 198518,
-      "name": "TONY ON THE RADIO",
-      "url": "https://open.spotify.com/track/0nmJuIGEzy8Exr9uF10jvx"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -389,22 +425,6 @@
       "url": "https://open.spotify.com/track/5dx52a9oh4Vm7XbkqCn7Dq"
     },
     {
-      "added_at": "2023-04-05 22:05:22",
-      "album": {
-        "name": "Familiarity",
-        "url": "https://open.spotify.com/album/48CGCAKq0qCLqZjEnKFBbE"
-      },
-      "artists": [
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 207486,
-      "name": "Familiarity",
-      "url": "https://open.spotify.com/track/6hB5O4G6L5xa4r3wKSisH3"
-    },
-    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Escaping from a Violent Time, Vol. 3",
@@ -423,22 +443,6 @@
       "duration_ms": 233313,
       "name": "Extra Beat",
       "url": "https://open.spotify.com/track/4MvKGQOLx4bj1htPzXNmJK"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "a million messages",
-        "url": "https://open.spotify.com/album/4VUpB2haaJ2duXy2CaHhB8"
-      },
-      "artists": [
-        {
-          "name": "Nashon",
-          "url": "https://open.spotify.com/artist/12X1zDSQlW0c6uRXGoOzHi"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "a million messages",
-      "url": "https://open.spotify.com/track/2bzcI82YXck3xUFMGqqMTF"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -531,6 +535,22 @@
       "duration_ms": 186531,
       "name": "THE SEASON (feat. PawPaw Rod)",
       "url": "https://open.spotify.com/track/3rPn6mXyAwe1VKDp6Odz0K"
+    },
+    {
+      "added_at": "2023-03-01 23:35:59",
+      "album": {
+        "name": "TONY ON THE RADIO",
+        "url": "https://open.spotify.com/album/0yJdceZ9PO3J7LVe8jnbx6"
+      },
+      "artists": [
+        {
+          "name": "Igwe Aka",
+          "url": "https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI"
+        }
+      ],
+      "duration_ms": 198518,
+      "name": "TONY ON THE RADIO",
+      "url": "https://open.spotify.com/track/0nmJuIGEzy8Exr9uF10jvx"
     },
     {
       "added_at": "2023-03-17 04:00:00",

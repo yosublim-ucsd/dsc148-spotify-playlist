@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Belly",
-  "num_followers": 1892,
+  "num_followers": 1930,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQzNjI3OCwwMDAwMDAwMDhhZTc4Y2RjMTcyZDIwYjA2NmExNjg5ZDhkOWRiM2I3",
+  "snapshot_id": "MTY4MTQzNjI3OCwwMDAwMDAwMDgyODhhYmRmMDViNDA0YmM1YTQ5ZDAwNjY0ZDIwMmI5",
   "tracks": [
     {
       "added_at": "2023-04-14 01:37:58",
@@ -219,18 +219,22 @@
     {
       "added_at": "2023-04-14 01:37:58",
       "album": {
-        "name": "Back To Back",
-        "url": "https://open.spotify.com/album/79qV4McLzhs8U3FyRKnocz"
+        "name": "Twin Flame",
+        "url": "https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 170637,
-      "name": "Back To Back",
-      "url": "https://open.spotify.com/track/5lFDtgWsjRJu8fPOAyJIAK"
+      "duration_ms": 232122,
+      "name": "Twin Flame",
+      "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
     },
     {
       "added_at": "2023-04-14 01:37:58",
@@ -255,22 +259,22 @@
     {
       "added_at": "2023-04-14 01:37:58",
       "album": {
-        "name": "Twin Flame",
-        "url": "https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy"
+        "name": "eat ya veggies",
+        "url": "https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
         }
       ],
-      "duration_ms": 232122,
-      "name": "Twin Flame",
-      "url": "https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv"
+      "duration_ms": 161613,
+      "name": "2 time zones (feat. Night Lovell)",
+      "url": "https://open.spotify.com/track/5d2fEfIzQz67c3YQ2trVnE"
     },
     {
       "added_at": "2023-04-14 01:37:58",
@@ -295,22 +299,18 @@
     {
       "added_at": "2023-04-14 01:37:58",
       "album": {
-        "name": "eat ya veggies",
-        "url": "https://open.spotify.com/album/6iMshsixZe8oMteQdln5kp"
+        "name": "Back To Back",
+        "url": "https://open.spotify.com/album/79qV4McLzhs8U3FyRKnocz"
       },
       "artists": [
         {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 161613,
-      "name": "2 time zones (feat. Night Lovell)",
-      "url": "https://open.spotify.com/track/5d2fEfIzQz67c3YQ2trVnE"
+      "duration_ms": 170637,
+      "name": "Back To Back",
+      "url": "https://open.spotify.com/track/5lFDtgWsjRJu8fPOAyJIAK"
     },
     {
       "added_at": "2023-04-14 01:37:58",
@@ -363,66 +363,6 @@
     {
       "added_at": "2023-04-14 01:37:58",
       "album": {
-        "name": "Good Intentions",
-        "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 161319,
-      "name": "Turks (with Gunna & ft. Travis Scott)",
-      "url": "https://open.spotify.com/track/7IMwEtpAiJanqF6vQteZN2"
-    },
-    {
-      "added_at": "2023-04-14 01:37:58",
-      "album": {
-        "name": "Pause Play",
-        "url": "https://open.spotify.com/album/1fzRm9tToQXOf1GwXWP0MT"
-      },
-      "artists": [
-        {
-          "name": "Preme",
-          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
-        }
-      ],
-      "duration_ms": 164466,
-      "name": "Pause Play",
-      "url": "https://open.spotify.com/track/4Yxs4En3TdQY0oQswXJheQ"
-    },
-    {
-      "added_at": "2023-04-14 01:37:58",
-      "album": {
-        "name": "88GLAM RELOADED",
-        "url": "https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36"
-      },
-      "artists": [
-        {
-          "name": "88GLAM",
-          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        }
-      ],
-      "duration_ms": 185316,
-      "name": "Bali",
-      "url": "https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY"
-    },
-    {
-      "added_at": "2023-04-14 01:37:58",
-      "album": {
         "name": "See You Next Wednesday",
         "url": "https://open.spotify.com/album/7jJsNB4u538DpyZckBEKsB"
       },
@@ -447,6 +387,22 @@
     {
       "added_at": "2023-04-14 01:37:58",
       "album": {
+        "name": "Pause Play",
+        "url": "https://open.spotify.com/album/1fzRm9tToQXOf1GwXWP0MT"
+      },
+      "artists": [
+        {
+          "name": "Preme",
+          "url": "https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2"
+        }
+      ],
+      "duration_ms": 164466,
+      "name": "Pause Play",
+      "url": "https://open.spotify.com/track/4Yxs4En3TdQY0oQswXJheQ"
+    },
+    {
+      "added_at": "2023-04-14 01:37:58",
+      "album": {
         "name": "Pizzazz",
         "url": "https://open.spotify.com/album/53LZZfDTXEmbo9uhV70uTL"
       },
@@ -459,6 +415,50 @@
       "duration_ms": 191489,
       "name": "Pizzazz",
       "url": "https://open.spotify.com/track/0h82txCyS3TGgW0F31gew5"
+    },
+    {
+      "added_at": "2023-04-14 01:37:58",
+      "album": {
+        "name": "Good Intentions",
+        "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 161319,
+      "name": "Turks (with Gunna & ft. Travis Scott)",
+      "url": "https://open.spotify.com/track/7IMwEtpAiJanqF6vQteZN2"
+    },
+    {
+      "added_at": "2023-04-14 01:37:58",
+      "album": {
+        "name": "88GLAM RELOADED",
+        "url": "https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36"
+      },
+      "artists": [
+        {
+          "name": "88GLAM",
+          "url": "https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "duration_ms": 185316,
+      "name": "Bali",
+      "url": "https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY"
     },
     {
       "added_at": "2023-04-14 01:37:58",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-04-14 01:37:58",
       "album": {
-        "name": "HOOD AVANT-GARDE (Deluxe)",
-        "url": "https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k"
-      },
-      "artists": [
-        {
-          "name": "Charmaine",
-          "url": "https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "WOO!",
-      "url": "https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U"
-    },
-    {
-      "added_at": "2023-04-14 01:37:58",
-      "album": {
         "name": "Come Outside",
         "url": "https://open.spotify.com/album/2rjsJgXKKQRrLOrgmHHIby"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 198321,
       "name": "Come Outside",
       "url": "https://open.spotify.com/track/6N078G7btmtHvTLPPLL1wf"
+    },
+    {
+      "added_at": "2023-04-14 01:37:58",
+      "album": {
+        "name": "HOOD AVANT-GARDE (Deluxe)",
+        "url": "https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k"
+      },
+      "artists": [
+        {
+          "name": "Charmaine",
+          "url": "https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "WOO!",
+      "url": "https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U"
     },
     {
       "added_at": "2023-04-14 01:37:58",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-04-14 01:37:58",
       "album": {
-        "name": "Time & It's Order",
-        "url": "https://open.spotify.com/album/5k0XSTYg5WgESO7PolSjkV"
-      },
-      "artists": [
-        {
-          "name": "FRVRFRIDAY",
-          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
-        }
-      ],
-      "duration_ms": 135221,
-      "name": "Time & It's Order",
-      "url": "https://open.spotify.com/track/6SCl4VK0Dq3jFe7U8D9k7D"
-    },
-    {
-      "added_at": "2023-04-14 01:37:58",
-      "album": {
         "name": "Body & A Face",
         "url": "https://open.spotify.com/album/3CRgye6TS3mO54pNpvVh7J"
       },
@@ -887,6 +871,22 @@
     {
       "added_at": "2023-04-14 01:37:58",
       "album": {
+        "name": "Time & It's Order",
+        "url": "https://open.spotify.com/album/5k0XSTYg5WgESO7PolSjkV"
+      },
+      "artists": [
+        {
+          "name": "FRVRFRIDAY",
+          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
+        }
+      ],
+      "duration_ms": 135221,
+      "name": "Time & It's Order",
+      "url": "https://open.spotify.com/track/6SCl4VK0Dq3jFe7U8D9k7D"
+    },
+    {
+      "added_at": "2023-04-14 01:37:58",
+      "album": {
         "name": "Trust Your Gut",
         "url": "https://open.spotify.com/album/5DmoSgxVksKJj8BizPuhfN"
       },
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-04-14 01:37:58",
       "album": {
-        "name": "The Extravagant Collection",
-        "url": "https://open.spotify.com/album/2gd9dLTFgRz8rhUGSuu3Sq"
-      },
-      "artists": [
-        {
-          "name": "NorthSideBenji",
-          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "Money Showers",
-      "url": "https://open.spotify.com/track/776uQXP7W3PhaLF7OoieS3"
-    },
-    {
-      "added_at": "2023-04-14 01:37:58",
-      "album": {
         "name": "While You on Road",
         "url": "https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 182535,
       "name": "While You on Road",
       "url": "https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ"
+    },
+    {
+      "added_at": "2023-04-14 01:37:58",
+      "album": {
+        "name": "The Extravagant Collection",
+        "url": "https://open.spotify.com/album/2gd9dLTFgRz8rhUGSuu3Sq"
+      },
+      "artists": [
+        {
+          "name": "NorthSideBenji",
+          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "Money Showers",
+      "url": "https://open.spotify.com/track/776uQXP7W3PhaLF7OoieS3"
     },
     {
       "added_at": "2023-04-14 01:37:58",
@@ -975,42 +975,6 @@
     {
       "added_at": "2023-04-14 01:37:58",
       "album": {
-        "name": "DUSK to DAWN",
-        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
-      },
-      "artists": [
-        {
-          "name": "Boslen",
-          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
-        }
-      ],
-      "duration_ms": 150292,
-      "name": "VULTURES",
-      "url": "https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ"
-    },
-    {
-      "added_at": "2023-04-14 01:37:58",
-      "album": {
-        "name": "30,000 ft",
-        "url": "https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn"
-      },
-      "artists": [
-        {
-          "name": "NorthSideBenji",
-          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
-        },
-        {
-          "name": "Dj Charlie B",
-          "url": "https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5"
-        }
-      ],
-      "duration_ms": 157873,
-      "name": "30,000 ft",
-      "url": "https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR"
-    },
-    {
-      "added_at": "2023-04-14 01:37:58",
-      "album": {
         "name": "no long talk.",
         "url": "https://open.spotify.com/album/3RIerAmfvbXRl9uFX3UZyT"
       },
@@ -1027,6 +991,22 @@
       "duration_ms": 198676,
       "name": "My Town (feat. Giggs)",
       "url": "https://open.spotify.com/track/41l1RaDtTRnSPsy22JUFVC"
+    },
+    {
+      "added_at": "2023-04-14 01:37:58",
+      "album": {
+        "name": "DUSK to DAWN",
+        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
+      },
+      "artists": [
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        }
+      ],
+      "duration_ms": 150292,
+      "name": "VULTURES",
+      "url": "https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ"
     },
     {
       "added_at": "2023-04-14 01:37:58",
@@ -1143,6 +1123,26 @@
       "duration_ms": 148349,
       "name": "Vallie Mode",
       "url": "https://open.spotify.com/track/6c9JGhWjQgGydAxlS49f8Y"
+    },
+    {
+      "added_at": "2023-04-14 01:37:58",
+      "album": {
+        "name": "30,000 ft",
+        "url": "https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn"
+      },
+      "artists": [
+        {
+          "name": "NorthSideBenji",
+          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+        },
+        {
+          "name": "Dj Charlie B",
+          "url": "https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5"
+        }
+      ],
+      "duration_ms": 157873,
+      "name": "30,000 ft",
+      "url": "https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR"
     },
     {
       "added_at": "2023-04-14 01:37:58",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2023-04-14 01:37:58",
       "album": {
-        "name": "Here it Goes",
-        "url": "https://open.spotify.com/album/1p93XxxZlLPV5O7kVC64jO"
-      },
-      "artists": [
-        {
-          "name": "Houdini",
-          "url": "https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm"
-        },
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 189450,
-      "name": "Here it Goes",
-      "url": "https://open.spotify.com/track/0TGWqVxhdfAyRHTqF3fsYo"
-    },
-    {
-      "added_at": "2023-04-14 01:37:58",
-      "album": {
         "name": "Adult Supervision",
         "url": "https://open.spotify.com/album/5bM9enlXLb0rtI6aj6QHlS"
       },
@@ -1375,38 +1355,58 @@
     {
       "added_at": "2023-04-14 01:37:58",
       "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/5t0IgR1t1Xn4juP7Fb65nb"
+        "name": "Laughed To Myself",
+        "url": "https://open.spotify.com/album/7Jvfr3yFzAtIgT3XaZ9Awl"
       },
       "artists": [
         {
-          "name": "Mindflip",
-          "url": "https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi"
+          "name": "Velow",
+          "url": "https://open.spotify.com/artist/2UOHBwSdgEwpUgbRDkY8mA"
         }
       ],
-      "duration_ms": 160085,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/6jawC4HnwfnVzb7vCbN8Mt"
+      "duration_ms": 163758,
+      "name": "Laughed To Myself",
+      "url": "https://open.spotify.com/track/48105SIhfCIKOV4CtZLF7G"
     },
     {
       "added_at": "2023-04-14 01:37:58",
       "album": {
-        "name": "BLU",
-        "url": "https://open.spotify.com/album/46SotNSwVlaHGFmSxCHOV1"
+        "name": "Alejandro Sosa",
+        "url": "https://open.spotify.com/album/3XfyFPyRFhyG3PubBvv4kF"
       },
       "artists": [
         {
-          "name": "Nill",
-          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
+          "name": "Pengz",
+          "url": "https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc"
         },
         {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+          "name": "6ixbuzz",
+          "url": "https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk"
         }
       ],
-      "duration_ms": 208109,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/1zsIwMmM20gvGU7YzPXKF8"
+      "duration_ms": 163250,
+      "name": "Alejandro Sosa",
+      "url": "https://open.spotify.com/track/7E6dftnR9rRdXfBXn2eZow"
+    },
+    {
+      "added_at": "2023-04-14 01:37:58",
+      "album": {
+        "name": "Here it Goes",
+        "url": "https://open.spotify.com/album/1p93XxxZlLPV5O7kVC64jO"
+      },
+      "artists": [
+        {
+          "name": "Houdini",
+          "url": "https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 189450,
+      "name": "Here it Goes",
+      "url": "https://open.spotify.com/track/0TGWqVxhdfAyRHTqF3fsYo"
     }
   ],
   "unique_name": "Hip-Hop Rewind",

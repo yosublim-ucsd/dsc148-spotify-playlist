@@ -2803,6 +2803,28 @@
     },
     {
       "album": {
+        "name": "Low eyes",
+        "url": "https://open.spotify.com/album/5BKCapyPTSHptN7k2oAxXX"
+      },
+      "artists": [
+        {
+          "name": "Zubi",
+          "url": "https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY"
+        },
+        {
+          "name": "Iordan Adrian",
+          "url": "https://open.spotify.com/artist/0nJVVyhWFonf5JojJAggHs"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131134,
+      "name": "Low eyes",
+      "url": "https://open.spotify.com/track/1Yo8mvFfFQswraMF7uuhIn"
+    },
+    {
+      "album": {
         "name": "Lucid Cruise 2.0",
         "url": "https://open.spotify.com/album/0XouERt5OLjWYljfLNhg0K"
       },
@@ -4112,7 +4134,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 231202,
       "name": "Scared",
       "url": "https://open.spotify.com/track/0EW3cgvLiqTBvSQnDy2IPp"

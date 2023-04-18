@@ -4,7 +4,7 @@
 
 > Bringing out the best of latest love tracks<br/>Cover : Agent
 
-116 songs - 7 hr 36 min
+117 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Kaanunna Kalyanam \(From "Sita Ramam \(Telugu\)"\)](https://open.spotify.com/track/3eH3HTKPBmxvbT7OgxjNit) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO) | [Kaanunna Kalyanam \[From "Sita Ramam \(Telugu\)"\]](https://open.spotify.com/album/36D0e4dKu2Sf7M4CR61bI6) | 3:52 | 2022-07-20 |  |
 | [Kadaladu Paadam \(From "Chor Bazaar"\)](https://open.spotify.com/track/5nnrGFp6KOn8FaIj3dgBhD) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Suresh Bobbili](https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ) | [Kadaladu Paadam \(From "Chor Bazaar"\)](https://open.spotify.com/album/3wKWCmzqk3QB40VL3T29gC) | 3:04 | 2022-09-29 | 2023-03-28 |
 | [Kalaavathi \(From "Sarkaru Vaari Paata"\)](https://open.spotify.com/track/0RjQR5QfKREKE9wQki8spV) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Kalaavathi \(From "Sarkaru Vaari Paata"\) \- Single](https://open.spotify.com/album/0PuturA4rrgnBAf4mP9dfE) | 4:02 | 2022-02-13 | 2023-02-21 |
+| [Kalallo \(From "Virupaksha"\)](https://open.spotify.com/track/4K21tbyME0wnR0jqGgLkyq) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Madhushree](https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo) | [Kalallo \(From "Virupaksha"\)](https://open.spotify.com/album/13x9vHOv9fKiM7vo9kGUp5) | 3:44 | 2023-04-17 |  |
 | [Kalalo Kooda](https://open.spotify.com/track/5Tn2aBp45QypSmCpmhKtJN) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Vaishnavi Kovvuri](https://open.spotify.com/artist/4x2ISDzC44n2AmVAiBTp4g) | [Liger \(Telugu\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0bI7C4I6FzlNlZZDqJOfDJ) | 4:06 | 2022-11-09 |  |
 | [Kalisunte](https://open.spotify.com/track/4DHBiVL29RhEhRObEsH8Yl) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Urvasivo Rakshasivo](https://open.spotify.com/album/1P9HsznpbvQ9z4Kbo5lq6w) | 3:15 | 2022-10-23 |  |
 | [Kandireega Kalla](https://open.spotify.com/track/16Yk3jO1UJDiPwP31jOdzr) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Popcorn](https://open.spotify.com/album/6ktdg1rJf5ovG876PbWZ5G) | 2:24 | 2023-01-31 | 2023-02-21 |

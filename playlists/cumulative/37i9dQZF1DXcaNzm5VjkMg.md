@@ -4,7 +4,7 @@
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-79 songs - 5 hr 21 min
+81 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Bentuk Cinta](https://open.spotify.com/track/4J12uL4aNKzRco173fPyYQ) | [Eclat Story](https://open.spotify.com/artist/77hI181qpBHYyQItXWNwom) | [Cerita](https://open.spotify.com/album/4vaUET4fqubUUtx1TuOfjF) | 4:23 | 2023-02-03 |  |
 | [Bersamamu](https://open.spotify.com/track/1FVZrAZ6kLrgnaRB9pzYMD) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [Vorfreude](https://open.spotify.com/album/754tHb1pF9v02tc8MQZRzU) | 4:05 | 2023-02-03 |  |
 | [Biar Mantan Tau](https://open.spotify.com/track/6E6OhmmXOkklCcbqq7XF88) | [3 Composers](https://open.spotify.com/artist/145zDAbvELoocgZ4bZrSXe) | [Biar Mantan Tau](https://open.spotify.com/album/4MX7M5najq0wZTRjcYe4aX) | 3:19 | 2023-02-03 |  |
+| [Cinta Sejati](https://open.spotify.com/track/7zoWyFMR4t8m4CWSmTAois) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Hit Singles BCL And More](https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j) | 5:02 | 2023-04-17 |  |
 | [Cinta Terakhirku](https://open.spotify.com/track/5bLIFHq7N4yqz8LX3wwD4E) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Syifa Hadju](https://open.spotify.com/artist/0xchyM3xA3eEnjNUU2BZby) | [Cinta Terakhirku](https://open.spotify.com/album/4clmaWZDHoHzqw70ZhcW7W) | 4:17 | 2023-02-03 |  |
 | [COBA CINTAKU](https://open.spotify.com/track/4lehCx6bf5uarWHvhw9XGx) | [UN1TY](https://open.spotify.com/artist/6W2D6VJjmJwdtzoYZIhmSK) | [COBA CINTAKU](https://open.spotify.com/album/2ydSDu6C3zj9jT9ukPmxhp) | 3:26 | 2023-02-03 |  |
 | [Dekat Di Hati](https://open.spotify.com/track/0owU9W5gPsJEcwAmMjzomy) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [Hari Baru](https://open.spotify.com/album/7xnqhnEdGGRmEQ6oGDudkr) | 4:28 | 2023-02-03 |  |
@@ -30,7 +31,7 @@
 | [Hadiah Terindah](https://open.spotify.com/track/7AlmGGpj0EjILrJaPq0YSn) | [Aminda](https://open.spotify.com/artist/43wimUBzWxzNqiebyt1sG4) | [Hadiah Terindah](https://open.spotify.com/album/1WdwYnhvnnVN4q7XZscRAu) | 4:17 | 2023-02-03 |  |
 | [Hari Bersamanya](https://open.spotify.com/track/1nfOP7xNHeFSPOlziXswJc) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Berlayar](https://open.spotify.com/album/2yDNCNEbfaE2GnCSkY7yba) | 3:52 | 2023-02-03 |  |
 | [Hari ini,Esok dan Seterusnya/HES](https://open.spotify.com/track/18BpGOOxfFPKrjbdG9HlPT) | [Nirina Zubir](https://open.spotify.com/artist/5dN7FWc0YwXTR24XAg2hZ3) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:28 | 2023-02-03 |  |
-| [Home](https://open.spotify.com/track/1P9QCD6hXnJeu4y4psiqVS) | [D'Cinnamons](https://open.spotify.com/artist/7mW0FqPhqBN7ixFImDMEYA) | [Home](https://open.spotify.com/album/4SaQ2MRmyFhNJMMzvRjIdu) | 4:12 | 2023-02-03 |  |
+| [Home](https://open.spotify.com/track/1P9QCD6hXnJeu4y4psiqVS) | [D'Cinnamons](https://open.spotify.com/artist/7mW0FqPhqBN7ixFImDMEYA) | [Home](https://open.spotify.com/album/4SaQ2MRmyFhNJMMzvRjIdu) | 4:12 | 2023-02-03 | 2023-04-18 |
 | [I Can't Wait x Tak Bisa Bersama](https://open.spotify.com/track/35o9kIkPKgolXQFxOcupPf) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Vidi Aldiano](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [I Can't Wait x Tak Bisa Bersama](https://open.spotify.com/album/3MmEdPluU152jAt54TAuKa) | 3:30 | 2023-03-31 |  |
 | [I Love You 3000](https://open.spotify.com/track/3znQ9i61vfe2E7URHlOiyc) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [I Love You 3000](https://open.spotify.com/album/0vaFqzSwOjHv4QhK6BizL5) | 3:29 | 2023-02-03 |  |
 | [I Wanna](https://open.spotify.com/track/40LxkGy1Ubg4GDRM9ThWfX) | [Alsa](https://open.spotify.com/artist/79ZuAKAPvlGaPMRXR8KwPU) | [I Wanna](https://open.spotify.com/album/05t8DqAXfJm99F4H7PzO65) | 3:19 | 2023-02-03 |  |
@@ -61,6 +62,7 @@
 | [Meant 2 Be](https://open.spotify.com/track/35xF6iKiyjohKJgg7dntw4) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Meant 2 Be](https://open.spotify.com/album/0KORzAxKyh3MKupM2ArZtd) | 4:37 | 2023-02-03 |  |
 | [Melukis Senja](https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Melukis Senja](https://open.spotify.com/album/0jLBLt7jIjOz5n3jDiL2zn) | 4:11 | 2023-02-03 |  |
 | [Menepi Menetap](https://open.spotify.com/track/2hGIQ9tovrpsJzEBR2QQwE) | [Mikha Tambayong](https://open.spotify.com/artist/39Q7seDI6P5tEMTTeHOyGG), [Deva Mahenra](https://open.spotify.com/artist/2R4MIJ7l2ZMXxhvXqzcC9J) | [Menepi Menetap](https://open.spotify.com/album/3zNCT8AVDWtkcmgbNxVhW3) | 3:46 | 2023-02-03 |  |
+| [O..Ya](https://open.spotify.com/track/44B5higF4TQLQpRmZRCnvF) | [K3S](https://open.spotify.com/artist/7CBWAW33Sq5axOZmxrmfIk) | [O…Ya](https://open.spotify.com/album/48yt55yCovNEEMwqG8y5L5) | 3:07 | 2023-04-17 |  |
 | [P.S\. I LOVE YOU](https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [P.S\. I LOVE YOU](https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq) | 4:00 | 2023-02-03 |  |
 | [Perahu Kertas](https://open.spotify.com/track/0eFl0s1v88DTqsXFJWFTmO) | [Maudy Ayunda](https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB) | [Perahu Kertas \(Original Soundtrack\)](https://open.spotify.com/album/7KKKg80jCzCksVtgRc88r6) | 3:54 | 2023-02-03 |  |
 | [Percaya.](https://open.spotify.com/track/0lTMtrca6Bx8PS1UgldD1r) | [Ivan Gojaya](https://open.spotify.com/artist/7FCcRddXD2jm7nTIEX5S4W), [Agustin Oendari](https://open.spotify.com/artist/1AoG8XhI0jjfx4buab3qqI) | [Percaya.](https://open.spotify.com/album/2Q2TaokFQqWAyCTcp25t4z) | 3:04 | 2023-02-03 |  |

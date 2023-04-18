@@ -450,7 +450,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 231782,
       "name": "An To\u00e0n",
       "url": "https://open.spotify.com/track/4HVYdhMsuFGYM85euE2Hw7"
@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 171947,
       "name": "Bohemian",
       "url": "https://open.spotify.com/track/2xDrCnW4WzKcG41BsI252R"
@@ -2404,7 +2404,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 229225,
       "name": "Chia Tay Gi\u1ed1ng Nh\u01b0 L\u00e0 (feat. OD)",
       "url": "https://open.spotify.com/track/0e8A9MHbSa1bM2EW0eiifK"
@@ -5650,7 +5650,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 166059,
       "name": "fine",
       "url": "https://open.spotify.com/track/7uLIDtZ2yhAMRVyln7at1O"
@@ -9097,6 +9097,24 @@
     },
     {
       "album": {
+        "name": "My full-time You (M\u1ed9c)",
+        "url": "https://open.spotify.com/album/5s3qz5kHog5DEFSqWW4ekY"
+      },
+      "artists": [
+        {
+          "name": "Mlee",
+          "url": "https://open.spotify.com/artist/5amt5wnRc8EmPoBouDo0UG"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211764,
+      "name": "My full-time You (M\u1ed9c)",
+      "url": "https://open.spotify.com/track/0KFOvNZbVysXRaXnDCiWjf"
+    },
+    {
+      "album": {
         "name": "My G(irl)",
         "url": "https://open.spotify.com/album/1bifyxuMnvs2OOC2HxnCdG"
       },
@@ -11148,6 +11166,24 @@
       "duration_ms": 202820,
       "name": "N\u1ebfu Anh N\u00f3i Ra",
       "url": "https://open.spotify.com/track/64xOpDU7wlGs8IYvVNfGuE"
+    },
+    {
+      "album": {
+        "name": "N\u1ebfu Bi\u1ebft Tr\u01b0\u1edbc",
+        "url": "https://open.spotify.com/album/4JlXCIgHkUfg2W5966KU5l"
+      },
+      "artists": [
+        {
+          "name": "h0n",
+          "url": "https://open.spotify.com/artist/4uwBXcx7pPGMEPlcQrfpdS"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310475,
+      "name": "N\u1ebfu Bi\u1ebft Tr\u01b0\u1edbc",
+      "url": "https://open.spotify.com/track/5cb15uFR4p7y3odjaeXCyE"
     },
     {
       "album": {
@@ -13956,7 +13992,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 159149,
       "name": "th\u00f4i t\u00ecm nhau",
       "url": "https://open.spotify.com/track/4tgP2bUe0JYewd5ZkURAVU"
@@ -14110,6 +14146,28 @@
       "duration_ms": 218424,
       "name": "Th\u1eadt May Em \u0110\u00e3 \u0110\u1ed3ng \u00dd",
       "url": "https://open.spotify.com/track/5Z8bXAPnzowqaPWOgbATUf"
+    },
+    {
+      "album": {
+        "name": "Th\u1eadt Ra Em Ch\u1eb3ng Th\u01b0\u01a1ng Anh V\u1eady \u0110\u00e2u",
+        "url": "https://open.spotify.com/album/434zqqNMd84YfHnfko2WoV"
+      },
+      "artists": [
+        {
+          "name": "Nguyenn",
+          "url": "https://open.spotify.com/artist/0FflNqUFk4ODtAZuVuqgou"
+        },
+        {
+          "name": "\u0110\u1eb7ng Tu\u1ea5n V\u0169",
+          "url": "https://open.spotify.com/artist/215WQLToYXwGfSazi1b8bB"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369999,
+      "name": "Th\u1eadt Ra Em Ch\u1eb3ng Th\u01b0\u01a1ng Anh V\u1eady \u0110\u00e2u",
+      "url": "https://open.spotify.com/track/5HEHl6EHbRulVVOE2FREB0"
     },
     {
       "album": {
@@ -14650,7 +14708,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 249600,
       "name": "Tr\u01b0\u1edbc Hi\u00ean Nh\u00e0",
       "url": "https://open.spotify.com/track/7G4ObIxqxACqtfcL5x7lCB"
@@ -14828,6 +14886,28 @@
       "duration_ms": 175255,
       "name": "T\u00ecnh Ca T\u00ecnh Ta",
       "url": "https://open.spotify.com/track/4I2ne5vm5LJmrXAfqgjAG4"
+    },
+    {
+      "album": {
+        "name": "T\u00ecnh iu m\u00e0u h\u01b0\u1eddng",
+        "url": "https://open.spotify.com/album/1UVUEZLRaahTEipsgxxfKT"
+      },
+      "artists": [
+        {
+          "name": "CLOUDEE",
+          "url": "https://open.spotify.com/artist/17IywSEniBOoJ1pd3ixTw3"
+        },
+        {
+          "name": "Harmonie",
+          "url": "https://open.spotify.com/artist/3rccqqCLNAw6TcLFL93RNt"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143331,
+      "name": "T\u00ecnh iu m\u00e0u h\u01b0\u1eddng",
+      "url": "https://open.spotify.com/track/4ENI1h9ooavwtCWc5AgKj7"
     },
     {
       "album": {

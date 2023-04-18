@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-578 songs - 1 day 1 hr 49 min
+579 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [7days](https://open.spotify.com/track/3xFnFUqCOqRv8pPwks2NRa) | [Grey October Sound](https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76), [LostFace](https://open.spotify.com/artist/2z79fSNzwdE7Ed17BwtxnO) | [THE CAVE Vol.2](https://open.spotify.com/album/4yMNHLuAo5yhwETc9ADXzu) | 3:28 | 2021-12-23 | 2022-07-27 |
 | [@luv](https://open.spotify.com/track/2IWyVklezbxtz7TohI2ZRt) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [@luv](https://open.spotify.com/album/6KZ1AstbhLGt7Lmn4e7KQz) | 2:03 | 2022-12-17 |  |
 | [@luv](https://open.spotify.com/track/2jLr97HmB8CNbofN2wAdxI) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [@luv](https://open.spotify.com/album/2Je59eOITMeYYJJ6dhUPWD) | 2:03 | 2022-12-16 | 2022-12-17 |
-| [a different view](https://open.spotify.com/track/76nkb2MgYQ3ZOho3N1tEL2) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [a different view](https://open.spotify.com/album/0kLwohPxP72g47Jwm3e2Hw) | 2:17 | 2023-03-23 |  |
+| [a different view](https://open.spotify.com/track/76nkb2MgYQ3ZOho3N1tEL2) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [a different view](https://open.spotify.com/album/0kLwohPxP72g47Jwm3e2Hw) | 2:17 | 2023-03-23 | 2023-04-18 |
 | [A Dream About Ice Skating](https://open.spotify.com/track/2y5sDyzoEDreMgZ9bZcXGS) | [Kid on Ice](https://open.spotify.com/artist/2a1rlqxOOc5SzrxsSYxd1N), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [A Dream About Ice Skating](https://open.spotify.com/album/5eFVCmSUoTaoWFpjSOWa40) | 1:36 | 2022-03-24 |  |
 | [A garden of peace](https://open.spotify.com/track/5I2NOzAxyo8PQDm0sc3Tv6) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Y\-2](https://open.spotify.com/artist/3Tn5cTqDZdc03G1TfqpnbE) | [A garden of peace](https://open.spotify.com/album/6dVU2RB6JtGy6jGThOpQmX) | 2:51 | 2022-04-14 | 2022-07-25 |
 | [Above the horizon](https://open.spotify.com/track/5wI2gifR40G8xSipSS6Y0b) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [Floating in the midnight sun](https://open.spotify.com/album/2Nj6K8d0eTviOrZDH6MwR2) | 4:39 | 2021-12-23 | 2022-07-14 |
@@ -158,6 +158,7 @@
 | [evening](https://open.spotify.com/track/5DEhdsysvAgKaEse1YMDYa) | [Hiroyuki Kondo](https://open.spotify.com/artist/7cUBFtmjMngEMCBM2i52GS) | [evening](https://open.spotify.com/album/3iBvFy0IMlwBQXzxL07oCC) | 3:22 | 2021-12-23 | 2022-07-27 |
 | [EVENING](https://open.spotify.com/track/0qjSPCsAMCdMRvU1zxGSuR) | [NARISK](https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV) | [EVENING](https://open.spotify.com/album/7gmVOnPkeBmdr3XEi9w9R3) | 2:52 | 2022-11-24 | 2023-01-13 |
 | [Evening Stroll in Shibuya](https://open.spotify.com/track/1GVhKeYitcGUCarDWKve7S) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Evening Stroll in Shibuya](https://open.spotify.com/album/7D8sp1luG3dkCGOkzSpLFz) | 2:50 | 2021-12-23 | 2022-07-26 |
+| [EVOKE](https://open.spotify.com/track/0TwK1i7La2lfEOUCcH1g9t) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [EVOKE](https://open.spotify.com/album/75loSbBYSXtaRofHhpBL6d) | 3:54 | 2023-04-13 |  |
 | [eyes talk](https://open.spotify.com/track/6oEHeoiNFnLI3o53xOnlgS) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [eyes talk](https://open.spotify.com/album/6fBtpk19EUmNA7z1P7tSjS) | 3:28 | 2022-03-17 | 2022-12-24 |
 | [Fallin](https://open.spotify.com/track/1RkHLHCDz9P7SQfHuLYV2D) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Fallin](https://open.spotify.com/album/0Co3xoXLIVostjj7HEjuhe) | 2:29 | 2022-11-17 | 2023-03-25 |
 | [Fallin](https://open.spotify.com/track/1gHJI8wWs2AWJKkPip6NLj) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Fallin](https://open.spotify.com/album/6EybmOmFJCZS3OmcYBE33q) | 2:29 | 2022-11-17 | 2022-11-19 |

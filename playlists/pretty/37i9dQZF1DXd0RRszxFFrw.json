@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 46486,
+  "num_followers": 46515,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMGNkYTJkZjA1ZmY1ZjcwMWY4NjM3Yzk5YzkxMmI3Y2Fk",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMGFlNDE1M2JmYTQ4MmYyNWNhMjg0Yzg4NzMxNGI4MTFi",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -311,30 +311,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Trios",
-        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        },
-        {
-          "name": "Felipe Gutierrez",
-          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
-        }
-      ],
-      "duration_ms": 171973,
-      "name": "Como Las Olas",
-      "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Serenidad",
         "url": "https://open.spotify.com/album/7aVycit4E2ZeTlVXU9J2xz"
       },
@@ -383,6 +359,30 @@
       "duration_ms": 134893,
       "name": "7 Spanish songs (7 Canciones Sefaradies): No. 3. En la mar ay una torre",
       "url": "https://open.spotify.com/track/0AMFKtEaub06bUVgzyW6AM"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Trios",
+        "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        },
+        {
+          "name": "Felipe Gutierrez",
+          "url": "https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c"
+        }
+      ],
+      "duration_ms": 171973,
+      "name": "Como Las Olas",
+      "url": "https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -451,26 +451,6 @@
       "duration_ms": 126688,
       "name": "Montalba\u0301n",
       "url": "https://open.spotify.com/track/4oVDnTJ0ctB5OajVGuAUpo"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Guitarras Latinas",
-        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        },
-        {
-          "name": "Roberto Aguilar",
-          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
-        }
-      ],
-      "duration_ms": 241412,
-      "name": "Bossa de Leblon",
-      "url": "https://open.spotify.com/track/3Ct1gUurY7Wp0UAylTAnxW"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -567,6 +547,26 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Guitarras Latinas",
+        "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        },
+        {
+          "name": "Roberto Aguilar",
+          "url": "https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV"
+        }
+      ],
+      "duration_ms": 241412,
+      "name": "Bossa de Leblon",
+      "url": "https://open.spotify.com/track/3Ct1gUurY7Wp0UAylTAnxW"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "A Brand New World",
         "url": "https://open.spotify.com/album/1yYlElFV3Xk2tkBJCMEgJo"
       },
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Cinema Latino Vol. 1",
-        "url": "https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        }
-      ],
-      "duration_ms": 107434,
-      "name": "Mexico 1910",
-      "url": "https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Re-Foc",
         "url": "https://open.spotify.com/album/16i22w9V74VL7euoZIjX6G"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Cinema Latino Vol. 1",
+        "url": "https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        }
+      ],
+      "duration_ms": 107434,
+      "name": "Mexico 1910",
+      "url": "https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Goia\u0302nia",
         "url": "https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE"
       },
@@ -679,22 +679,6 @@
       "duration_ms": 172500,
       "name": "Goia\u0302nia",
       "url": "https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Cinque Terre",
-        "url": "https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM"
-      },
-      "artists": [
-        {
-          "name": "Mauricio Galbardi",
-          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
-        }
-      ],
-      "duration_ms": 232786,
-      "name": "Cinque Terre",
-      "url": "https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -715,18 +699,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Ibiza Sunset",
-        "url": "https://open.spotify.com/album/03gFLapNILwqleIO9ZCPS8"
+        "name": "Cinque Terre",
+        "url": "https://open.spotify.com/album/7suLw0GxdLqvVGuzyTTIpM"
       },
       "artists": [
         {
-          "name": "Eric Josef",
-          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
+          "name": "Mauricio Galbardi",
+          "url": "https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA"
         }
       ],
-      "duration_ms": 168432,
-      "name": "Ibiza Sunset",
-      "url": "https://open.spotify.com/track/3n3WBgFav1mo7Ccz1T3E0j"
+      "duration_ms": 232786,
+      "name": "Cinque Terre",
+      "url": "https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -743,6 +727,22 @@
       "duration_ms": 194944,
       "name": "Commitments",
       "url": "https://open.spotify.com/track/1oIDF7ezAEtZbPaR9kaZ99"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Ibiza Sunset",
+        "url": "https://open.spotify.com/album/03gFLapNILwqleIO9ZCPS8"
+      },
+      "artists": [
+        {
+          "name": "Eric Josef",
+          "url": "https://open.spotify.com/artist/29w4oGLyEXCDDyaCvKTtfN"
+        }
+      ],
+      "duration_ms": 168432,
+      "name": "Ibiza Sunset",
+      "url": "https://open.spotify.com/track/3n3WBgFav1mo7Ccz1T3E0j"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Wasi",
-        "url": "https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ"
-      },
-      "artists": [
-        {
-          "name": "Elias Carrera",
-          "url": "https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO"
-        }
-      ],
-      "duration_ms": 152663,
-      "name": "Me Estas Haciendo Falta",
-      "url": "https://open.spotify.com/track/5V0WQGIPkrEgpgQAOaGBif"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Paz",
         "url": "https://open.spotify.com/album/6FTHzmqkzw39Ey8o20i39k"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 304600,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/57hSvxwQrxe3BZ8vDu6pVF"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Wasi",
+        "url": "https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ"
+      },
+      "artists": [
+        {
+          "name": "Elias Carrera",
+          "url": "https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO"
+        }
+      ],
+      "duration_ms": 152663,
+      "name": "Me Estas Haciendo Falta",
+      "url": "https://open.spotify.com/track/5V0WQGIPkrEgpgQAOaGBif"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Hablando Con Mi Guitarra",
-        "url": "https://open.spotify.com/album/4gJ1Gbn76E8Q5lEryqRGS0"
-      },
-      "artists": [
-        {
-          "name": "Paco Infante",
-          "url": "https://open.spotify.com/artist/5Kkc0wgmIcj0FX2Bs8uHht"
-        }
-      ],
-      "duration_ms": 255529,
-      "name": "Noches de Bohemia - Guitar Version",
-      "url": "https://open.spotify.com/track/2rtScPfFTDz0yMhCA0kdge"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Asi lo siento",
         "url": "https://open.spotify.com/album/1xKRNJF9jq98hTZiqHVfpD"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 197520,
       "name": "Vivienne - Rumba",
       "url": "https://open.spotify.com/track/5ShW5SmpX42BiE8VCyhkRv"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Hablando Con Mi Guitarra",
+        "url": "https://open.spotify.com/album/4gJ1Gbn76E8Q5lEryqRGS0"
+      },
+      "artists": [
+        {
+          "name": "Paco Infante",
+          "url": "https://open.spotify.com/artist/5Kkc0wgmIcj0FX2Bs8uHht"
+        }
+      ],
+      "duration_ms": 255529,
+      "name": "Noches de Bohemia - Guitar Version",
+      "url": "https://open.spotify.com/track/2rtScPfFTDz0yMhCA0kdge"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Spanish Guitar EP",
+        "url": "https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk"
+      },
+      "artists": [
+        {
+          "name": "Alex Albright",
+          "url": "https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj"
+        }
+      ],
+      "duration_ms": 132446,
+      "name": "Adelita Mazurka",
+      "url": "https://open.spotify.com/track/2gsOZwrJXlumVqfCJYkHEf"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "El Primero",
         "url": "https://open.spotify.com/album/3lMYfWqSA5pxBemGlcNcMV"
       },
@@ -1231,22 +1247,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Spanish Guitar EP",
-        "url": "https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk"
-      },
-      "artists": [
-        {
-          "name": "Alex Albright",
-          "url": "https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj"
-        }
-      ],
-      "duration_ms": 132446,
-      "name": "Adelita Mazurka",
-      "url": "https://open.spotify.com/track/2gsOZwrJXlumVqfCJYkHEf"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Classical Guitar Latin Style",
         "url": "https://open.spotify.com/album/5eMSI07GHlyK9IDojcSXZu"
       },
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Romantic Carnival Chillout Music",
-        "url": "https://open.spotify.com/album/4mbBeSPRVCfvaLLZ8YCdsL"
+        "name": "Contemporary Spanish Guitar: Kindred Spirits",
+        "url": "https://open.spotify.com/album/61scRHtRDhLo89WfuniFJV"
       },
       "artists": [
         {
-          "name": "Gypsy Flamenco Masters",
-          "url": "https://open.spotify.com/artist/3fvnWc7bLQVnkrtFI298rl"
+          "name": "Jason Carter",
+          "url": "https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1"
         }
       ],
-      "duration_ms": 97387,
-      "name": "Mexican Mood",
-      "url": "https://open.spotify.com/track/1GlBh7jgGCrZOY1SrzvMkx"
+      "duration_ms": 402466,
+      "name": "Porgy and Bess: Summertime - The Sound of Music: My Favorite Things - Autumn Leaves (arr. J. Carter)",
+      "url": "https://open.spotify.com/track/6XhpnareRxv7kVHE4nVpXt"
     }
   ],
   "unique_name": "Cena con Guitarras",

@@ -1,12 +1,12 @@
 {
   "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ e dai suoi alleati. Ethan in cover! <a href=\"spotify:playlist:37i9dQZF1DX3LyU0mhfqgP\">Qua la playlist global</a> \u2728 ",
-  "num_followers": 5361,
+  "num_followers": 5363,
   "original_name": "GLOW Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTI4OTEyNSwwMDAwMDAwMGY4YWNjMTE3YjliMDA5OTY0YTk4NjJkZDUyYjgxMDdl",
+  "snapshot_id": "MTY4MTI4OTEyNSwwMDAwMDAwMDc1NTcyM2M3ZTFmODNiOWJhNzlmNDcwMzBjNWQyNzU1",
   "tracks": [
     {
       "added_at": "2023-04-12 08:45:25",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-04-12 08:45:25",
       "album": {
+        "name": "Perch\u00e9 piangi Palermo",
+        "url": "https://open.spotify.com/album/5EIsaz5fXXV0gG8UdPTDey"
+      },
+      "artists": [
+        {
+          "name": "Dov'\u00e8 Liana",
+          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
+        }
+      ],
+      "duration_ms": 349133,
+      "name": "Perch\u00e9 piangi Palermo",
+      "url": "https://open.spotify.com/track/5akutvcrcoQwAc5EW8fTXo"
+    },
+    {
+      "added_at": "2023-04-12 08:45:25",
+      "album": {
         "name": "Questa Fragile Bellezza",
         "url": "https://open.spotify.com/album/7dZyON07BaLqqXcXhEb0F3"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 224013,
       "name": "La musica illegale",
       "url": "https://open.spotify.com/track/1NWBuL5RKNJpsdN56inHKr"
-    },
-    {
-      "added_at": "2023-04-12 08:45:25",
-      "album": {
-        "name": "Perch\u00e9 piangi Palermo",
-        "url": "https://open.spotify.com/album/5EIsaz5fXXV0gG8UdPTDey"
-      },
-      "artists": [
-        {
-          "name": "Dov'\u00e8 Liana",
-          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
-        }
-      ],
-      "duration_ms": 349133,
-      "name": "Perch\u00e9 piangi Palermo",
-      "url": "https://open.spotify.com/track/5akutvcrcoQwAc5EW8fTXo"
     },
     {
       "added_at": "2023-04-12 08:45:25",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2023-04-12 08:45:25",
       "album": {
+        "name": "Club Domani",
+        "url": "https://open.spotify.com/album/4XqgviyTowdiw6Q9z67kzL"
+      },
+      "artists": [
+        {
+          "name": "Club Domani",
+          "url": "https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8"
+        },
+        {
+          "name": "Airys",
+          "url": "https://open.spotify.com/artist/2yB8B2iuGUq3Uj1itIAaDc"
+        }
+      ],
+      "duration_ms": 257975,
+      "name": "A Che Ora l'Amore",
+      "url": "https://open.spotify.com/track/3sdaPhbnFsgaH0baQeiXaJ"
+    },
+    {
+      "added_at": "2023-04-12 08:45:25",
+      "album": {
         "name": "CLUB TOPPERIA",
         "url": "https://open.spotify.com/album/55jRiCSPrXaypNbQFnL1ei"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 196653,
       "name": "MOVESET (feat. Kiddy Smile & David Blank)",
       "url": "https://open.spotify.com/track/3i6DPGR1k1AOnVaGltT4hY"
-    },
-    {
-      "added_at": "2023-04-12 08:45:25",
-      "album": {
-        "name": "Club Domani",
-        "url": "https://open.spotify.com/album/4XqgviyTowdiw6Q9z67kzL"
-      },
-      "artists": [
-        {
-          "name": "Club Domani",
-          "url": "https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8"
-        },
-        {
-          "name": "Airys",
-          "url": "https://open.spotify.com/artist/2yB8B2iuGUq3Uj1itIAaDc"
-        }
-      ],
-      "duration_ms": 257975,
-      "name": "A Che Ora l'Amore",
-      "url": "https://open.spotify.com/track/3sdaPhbnFsgaH0baQeiXaJ"
     },
     {
       "added_at": "2023-04-12 08:45:25",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-04-12 08:45:25",
       "album": {
-        "name": "Credo che tra un po'",
-        "url": "https://open.spotify.com/album/2roW0PmPr5vCIugdGX9kpF"
-      },
-      "artists": [
-        {
-          "name": "Whitemary",
-          "url": "https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt"
-        }
-      ],
-      "duration_ms": 218628,
-      "name": "Credo che tra un po'",
-      "url": "https://open.spotify.com/track/44rkvJd0ooTjet7uKM1q8t"
-    },
-    {
-      "added_at": "2023-04-12 08:45:25",
-      "album": {
         "name": "Le pi\u00f9 belle canzoni di Sandra Mondaini",
         "url": "https://open.spotify.com/album/0xWvoZI1iPlulOFZAJLsbO"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 221039,
       "name": "Cerco un uomo",
       "url": "https://open.spotify.com/track/7tJy22xDBueKtHRbO8rVVE"
+    },
+    {
+      "added_at": "2023-04-12 08:45:25",
+      "album": {
+        "name": "Credo che tra un po'",
+        "url": "https://open.spotify.com/album/2roW0PmPr5vCIugdGX9kpF"
+      },
+      "artists": [
+        {
+          "name": "Whitemary",
+          "url": "https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt"
+        }
+      ],
+      "duration_ms": 218628,
+      "name": "Credo che tra un po'",
+      "url": "https://open.spotify.com/track/44rkvJd0ooTjet7uKM1q8t"
     },
     {
       "added_at": "2023-04-12 08:45:25",

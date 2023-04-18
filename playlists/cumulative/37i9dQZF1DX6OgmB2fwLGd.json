@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 96182,
       "name": "11:35 In Miami",
       "url": "https://open.spotify.com/track/2qTh0uDCWUZ9G9xZO7RqGd"
@@ -11450,6 +11450,24 @@
       "duration_ms": 152762,
       "name": "Vito / Bad Boy",
       "url": "https://open.spotify.com/track/6jo3Sv2PWgX7oX2gSsvbI5"
+    },
+    {
+      "album": {
+        "name": "Vito, Pt. 2",
+        "url": "https://open.spotify.com/album/3kbhOS2Ua7lNWWNcbsFKWs"
+      },
+      "artists": [
+        {
+          "name": "Headband Andy",
+          "url": "https://open.spotify.com/artist/1yGHqqvb0V7V4u2PBaprSm"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147539,
+      "name": "Vito, Pt. 2",
+      "url": "https://open.spotify.com/track/5lpxfI9JR5XfuMfd6A0KNs"
     },
     {
       "album": {

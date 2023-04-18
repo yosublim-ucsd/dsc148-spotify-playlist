@@ -1,12 +1,12 @@
 {
   "description": "The cutting edge in new and contemporary Ambient, Atmospheric and Neo-Classical. Grandbrothers on cover.",
-  "num_followers": 147826,
+  "num_followers": 147941,
   "original_name": "Ambiente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQzMDQ2MCwwMDAwMDAwMDhkZmQ0YTZlNzU4ZGI5MGU2ZDFjMGZjZTM0NGRhMDkw",
+  "snapshot_id": "MTY4MTQzMDQ2MCwwMDAwMDAwMGEyOTBkOWUxN2Y5ZTk0YmQ0MWI5MGQ4MGQ2ODA1ZWU2",
   "tracks": [
     {
       "added_at": "2023-04-14 00:01:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-04-12 13:20:59",
       "album": {
-        "name": "12",
-        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
-      },
-      "artists": [
-        {
-          "name": "Ryuichi Sakamoto",
-          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
-        }
-      ],
-      "duration_ms": 190482,
-      "name": "20220302 - sarabande",
-      "url": "https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX"
-    },
-    {
-      "added_at": "2023-04-12 13:20:59",
-      "album": {
         "name": "Pastoral",
         "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 179439,
       "name": "After the Rain - Piano Solo",
       "url": "https://open.spotify.com/track/0z7IeekUiNaQvmGQhsfJdl"
+    },
+    {
+      "added_at": "2023-04-12 13:20:59",
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/0kvmLk15RUoNqsn8acxqf4"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "duration_ms": 190482,
+      "name": "20220302 - sarabande",
+      "url": "https://open.spotify.com/track/7IYrIgIgomCRgXCNkHOXMX"
     },
     {
       "added_at": "2023-04-12 13:20:59",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-04-12 13:20:59",
       "album": {
+        "name": "EARS",
+        "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Stratus",
+      "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
+    },
+    {
+      "added_at": "2023-04-12 13:20:59",
+      "album": {
         "name": "Vapors",
         "url": "https://open.spotify.com/album/7pmaEJKmCiewU5BDYlEiAo"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 156422,
       "name": "Sylvan Smoke",
       "url": "https://open.spotify.com/track/2Gfs49i4wLusg8WLM8Q3jS"
-    },
-    {
-      "added_at": "2023-04-12 13:20:59",
-      "album": {
-        "name": "EARS",
-        "url": "https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Stratus",
-      "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
     },
     {
       "added_at": "2023-04-12 13:20:59",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-04-12 13:20:59",
       "album": {
+        "name": "No Highs",
+        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 155472,
+      "name": "Winter Cop",
+      "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
+    },
+    {
+      "added_at": "2023-04-12 13:20:59",
+      "album": {
         "name": "Circle 26 (Tom Ashbrook Rework)",
         "url": "https://open.spotify.com/album/0qoiIX2iLAn9olZFyM2349"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 220000,
       "name": "Circle 26 - Tom Ashbrook Rework",
       "url": "https://open.spotify.com/track/3NTa2ksoxoP9ocYf6j7z38"
-    },
-    {
-      "added_at": "2023-04-12 13:20:59",
-      "album": {
-        "name": "No Highs",
-        "url": "https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 155472,
-      "name": "Winter Cop",
-      "url": "https://open.spotify.com/track/5fK31V4Icpc46SpNQkwtv3"
     },
     {
       "added_at": "2023-04-12 13:20:59",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-04-12 13:20:59",
       "album": {
-        "name": "Afterpoem",
-        "url": "https://open.spotify.com/album/6pBLWnqLVvj7SvFQOB08Bl"
-      },
-      "artists": [
-        {
-          "name": "Faten Kanaan",
-          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
-        }
-      ],
-      "duration_ms": 118897,
-      "name": "Fin ao\u00fbt, d\u00e9but septembre",
-      "url": "https://open.spotify.com/track/2x1EvHw6MncUjkzC7tEluJ"
-    },
-    {
-      "added_at": "2023-04-12 13:20:59",
-      "album": {
         "name": "Receiving",
         "url": "https://open.spotify.com/album/0UENXvfeFXBs70PjI5DGY0"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 427266,
       "name": "Receiving",
       "url": "https://open.spotify.com/track/2G1GDfDZtPMAOH2JXC3t1r"
+    },
+    {
+      "added_at": "2023-04-12 13:20:59",
+      "album": {
+        "name": "Afterpoem",
+        "url": "https://open.spotify.com/album/6pBLWnqLVvj7SvFQOB08Bl"
+      },
+      "artists": [
+        {
+          "name": "Faten Kanaan",
+          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
+        }
+      ],
+      "duration_ms": 118897,
+      "name": "Fin ao\u00fbt, d\u00e9but septembre",
+      "url": "https://open.spotify.com/track/2x1EvHw6MncUjkzC7tEluJ"
     },
     {
       "added_at": "2023-04-12 13:20:59",
@@ -967,6 +967,22 @@
     {
       "added_at": "2023-04-12 13:20:59",
       "album": {
+        "name": "Empire of Light (Original Score)",
+        "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
+      },
+      "artists": [
+        {
+          "name": "Trent Reznor and Atticus Ross",
+          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+        }
+      ],
+      "duration_ms": 107626,
+      "name": "Washed Out",
+      "url": "https://open.spotify.com/track/3LG0UmOyT3N1wHQsOdQRLs"
+    },
+    {
+      "added_at": "2023-04-12 13:20:59",
+      "album": {
         "name": "Recovered",
         "url": "https://open.spotify.com/album/5q5kFfRgXOMKiiOqk7kBFo"
       },
@@ -983,18 +999,18 @@
     {
       "added_at": "2023-04-12 13:20:59",
       "album": {
-        "name": "Empire of Light (Original Score)",
-        "url": "https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D"
+        "name": "Space 1.8",
+        "url": "https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8"
       },
       "artists": [
         {
-          "name": "Trent Reznor and Atticus Ross",
-          "url": "https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh"
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
         }
       ],
-      "duration_ms": 107626,
-      "name": "Washed Out",
-      "url": "https://open.spotify.com/track/3LG0UmOyT3N1wHQsOdQRLs"
+      "duration_ms": 101298,
+      "name": "Space 7",
+      "url": "https://open.spotify.com/track/0SMKIx5AuEskIFMzZgZNIV"
     },
     {
       "added_at": "2023-04-12 13:20:59",
@@ -1031,38 +1047,6 @@
     {
       "added_at": "2023-04-12 13:20:59",
       "album": {
-        "name": "Space 1.8",
-        "url": "https://open.spotify.com/album/51HFfu3GhuXa4VUnlpJJy8"
-      },
-      "artists": [
-        {
-          "name": "Nala Sinephro",
-          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
-        }
-      ],
-      "duration_ms": 101298,
-      "name": "Space 7",
-      "url": "https://open.spotify.com/track/0SMKIx5AuEskIFMzZgZNIV"
-    },
-    {
-      "added_at": "2023-04-12 13:20:59",
-      "album": {
-        "name": "LUX 1",
-        "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 222946,
-      "name": "LUX 1.1",
-      "url": "https://open.spotify.com/track/6R5ADT7ylKtme695nbYzAK"
-    },
-    {
-      "added_at": "2023-04-12 13:20:59",
-      "album": {
         "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
         "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 147000,
       "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
       "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
+    },
+    {
+      "added_at": "2023-04-12 13:20:59",
+      "album": {
+        "name": "LUX 1",
+        "url": "https://open.spotify.com/album/49ZTUSMszGI3uJ0sn47kHg"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 222946,
+      "name": "LUX 1.1",
+      "url": "https://open.spotify.com/track/6R5ADT7ylKtme695nbYzAK"
     },
     {
       "added_at": "2023-04-12 13:20:59",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-04-12 13:20:59",
       "album": {
-        "name": "Nouveau-N\u00e9",
-        "url": "https://open.spotify.com/album/0MytabDicwJ6x5x8xU2mqm"
-      },
-      "artists": [
-        {
-          "name": "Phoria",
-          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
-        }
-      ],
-      "duration_ms": 200862,
-      "name": "Nouveau-N\u00e9 (Re-Imagined)",
-      "url": "https://open.spotify.com/track/1sk2K7lpkZgAbTRjF07HhK"
-    },
-    {
-      "added_at": "2023-04-12 13:20:59",
-      "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
         "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
       },
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2023-04-12 13:20:59",
       "album": {
-        "name": "VIM",
-        "url": "https://open.spotify.com/album/7IOGpPO0xvq0jE1RUCepOl"
+        "name": "Nouveau-N\u00e9",
+        "url": "https://open.spotify.com/album/0MytabDicwJ6x5x8xU2mqm"
       },
       "artists": [
         {
-          "name": "Martin Kohlstedt",
-          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
+          "name": "Phoria",
+          "url": "https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm"
         }
       ],
-      "duration_ms": 207756,
-      "name": "VIM",
-      "url": "https://open.spotify.com/track/62WGcKSzm5sDtn2QTzx6Gm"
+      "duration_ms": 200862,
+      "name": "Nouveau-N\u00e9 (Re-Imagined)",
+      "url": "https://open.spotify.com/track/1sk2K7lpkZgAbTRjF07HhK"
     },
     {
       "added_at": "2023-04-12 13:20:59",
@@ -1171,18 +1155,18 @@
     {
       "added_at": "2023-04-12 13:20:59",
       "album": {
-        "name": "Solar Winds",
-        "url": "https://open.spotify.com/album/3h6sOEyEuusliYvaxoEcWU"
+        "name": "VIM",
+        "url": "https://open.spotify.com/album/7IOGpPO0xvq0jE1RUCepOl"
       },
       "artists": [
         {
-          "name": "Retland",
-          "url": "https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj"
+          "name": "Martin Kohlstedt",
+          "url": "https://open.spotify.com/artist/5odNYb0R6MGVmindrMrYyk"
         }
       ],
-      "duration_ms": 254333,
-      "name": "Solar Winds",
-      "url": "https://open.spotify.com/track/5rDCZp2N2REO0ICjB5dVNt"
+      "duration_ms": 207756,
+      "name": "VIM",
+      "url": "https://open.spotify.com/track/62WGcKSzm5sDtn2QTzx6Gm"
     },
     {
       "added_at": "2023-04-12 13:20:59",
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2023-04-12 13:20:59",
       "album": {
+        "name": "Solar Winds",
+        "url": "https://open.spotify.com/album/3h6sOEyEuusliYvaxoEcWU"
+      },
+      "artists": [
+        {
+          "name": "Retland",
+          "url": "https://open.spotify.com/artist/3dIuop1jVvVHVqOdB7mDMj"
+        }
+      ],
+      "duration_ms": 254333,
+      "name": "Solar Winds",
+      "url": "https://open.spotify.com/track/5rDCZp2N2REO0ICjB5dVNt"
+    },
+    {
+      "added_at": "2023-04-12 13:20:59",
+      "album": {
         "name": "Long Cool World",
         "url": "https://open.spotify.com/album/5y7H3tDoGqmw1w88QKGV8o"
       },
@@ -1215,22 +1215,6 @@
       "duration_ms": 316565,
       "name": "The Nighthawks Are Out",
       "url": "https://open.spotify.com/track/2j2Uj2jGLu0IUg07oKaUnu"
-    },
-    {
-      "added_at": "2023-04-12 13:20:59",
-      "album": {
-        "name": "exosphere",
-        "url": "https://open.spotify.com/album/2kOlNHnx37eLBwMGNsCqtP"
-      },
-      "artists": [
-        {
-          "name": "Be Still the Earth",
-          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
-        }
-      ],
-      "duration_ms": 200250,
-      "name": "exosphere",
-      "url": "https://open.spotify.com/track/4YzJX0cfKt0Y3X5qBCGVwX"
     },
     {
       "added_at": "2023-04-12 13:20:59",
@@ -1299,34 +1283,18 @@
     {
       "added_at": "2023-04-12 13:20:59",
       "album": {
-        "name": "Music For Growing Flowers",
-        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
+        "name": "exosphere",
+        "url": "https://open.spotify.com/album/2kOlNHnx37eLBwMGNsCqtP"
       },
       "artists": [
         {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+          "name": "Be Still the Earth",
+          "url": "https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6"
         }
       ],
-      "duration_ms": 295306,
-      "name": "Music For Growing Flowers - Pt. 7",
-      "url": "https://open.spotify.com/track/5OHJBp26mPT2GoemMDAFsg"
-    },
-    {
-      "added_at": "2023-04-12 13:20:59",
-      "album": {
-        "name": "Knit Cap Theater \"Fudarakutokaiki\" Original Soundtrack",
-        "url": "https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0"
-      },
-      "artists": [
-        {
-          "name": "kita kouhei",
-          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "Kuware Uta - Intro",
-      "url": "https://open.spotify.com/track/2SWEdiXt0rDhEcXrLBktG1"
+      "duration_ms": 200250,
+      "name": "exosphere",
+      "url": "https://open.spotify.com/track/4YzJX0cfKt0Y3X5qBCGVwX"
     },
     {
       "added_at": "2023-04-12 13:20:59",
@@ -1351,6 +1319,22 @@
     {
       "added_at": "2023-04-12 13:20:59",
       "album": {
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "duration_ms": 295306,
+      "name": "Music For Growing Flowers - Pt. 7",
+      "url": "https://open.spotify.com/track/5OHJBp26mPT2GoemMDAFsg"
+    },
+    {
+      "added_at": "2023-04-12 13:20:59",
+      "album": {
         "name": "Our True Nature",
         "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
       },
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2023-04-12 13:20:59",
       "album": {
+        "name": "Knit Cap Theater \"Fudarakutokaiki\" Original Soundtrack",
+        "url": "https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0"
+      },
+      "artists": [
+        {
+          "name": "kita kouhei",
+          "url": "https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "Kuware Uta - Intro",
+      "url": "https://open.spotify.com/track/2SWEdiXt0rDhEcXrLBktG1"
+    },
+    {
+      "added_at": "2023-04-12 13:20:59",
+      "album": {
         "name": "Forget The Curse",
         "url": "https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa"
       },
@@ -1379,6 +1379,22 @@
       "duration_ms": 379573,
       "name": "Phare",
       "url": "https://open.spotify.com/track/4N92mYGzWCFp8X925TUdSI"
+    },
+    {
+      "added_at": "2023-04-12 13:20:59",
+      "album": {
+        "name": "Isola",
+        "url": "https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA"
+      },
+      "artists": [
+        {
+          "name": "Rumpistol",
+          "url": "https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv"
+        }
+      ],
+      "duration_ms": 315960,
+      "name": "Vindheks",
+      "url": "https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE"
     },
     {
       "added_at": "2023-04-12 13:20:59",
@@ -1411,22 +1427,6 @@
       "duration_ms": 165701,
       "name": "Like We Were Dreaming All This Time, Pt. 1",
       "url": "https://open.spotify.com/track/3Gg40RY7rPkErByfnT4zGS"
-    },
-    {
-      "added_at": "2023-04-12 13:20:59",
-      "album": {
-        "name": "Isola",
-        "url": "https://open.spotify.com/album/3ba4E9NJcmPzgxcP6SeggA"
-      },
-      "artists": [
-        {
-          "name": "Rumpistol",
-          "url": "https://open.spotify.com/artist/3GopsVcnzdMhVAvWCzfFLv"
-        }
-      ],
-      "duration_ms": 315960,
-      "name": "Vindheks",
-      "url": "https://open.spotify.com/track/0k7W32ROqCNUuzRFb0tDxE"
     },
     {
       "added_at": "2023-04-12 13:20:59",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-04-12 13:20:59",
       "album": {
+        "name": "Clara",
+        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
+      },
+      "artists": [
+        {
+          "name": "Loscil",
+          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
+        }
+      ],
+      "duration_ms": 361854,
+      "name": "Vespera",
+      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
+    },
+    {
+      "added_at": "2023-04-12 13:20:59",
+      "album": {
         "name": "Nutrition",
         "url": "https://open.spotify.com/album/1CHFy3am47XIemogPAnlwi"
       },
@@ -1583,38 +1599,6 @@
     {
       "added_at": "2023-04-12 13:20:59",
       "album": {
-        "name": "Clara",
-        "url": "https://open.spotify.com/album/1QU235rCtednzHCJgperwb"
-      },
-      "artists": [
-        {
-          "name": "Loscil",
-          "url": "https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK"
-        }
-      ],
-      "duration_ms": 361854,
-      "name": "Vespera",
-      "url": "https://open.spotify.com/track/0K4cKSPVOmhept61aZto3P"
-    },
-    {
-      "added_at": "2023-04-12 13:20:59",
-      "album": {
-        "name": "The Weavers",
-        "url": "https://open.spotify.com/album/7A65Zvm39UKY1t1DCVpjPs"
-      },
-      "artists": [
-        {
-          "name": "Syntropy",
-          "url": "https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU"
-        }
-      ],
-      "duration_ms": 152541,
-      "name": "The Weavers",
-      "url": "https://open.spotify.com/track/34dBNgalCO1L56XU5xYndy"
-    },
-    {
-      "added_at": "2023-04-12 13:20:59",
-      "album": {
         "name": "Dependent",
         "url": "https://open.spotify.com/album/5JbxW4BC3aNcqI5waUS1ny"
       },
@@ -1631,18 +1615,18 @@
     {
       "added_at": "2023-04-12 13:20:59",
       "album": {
-        "name": "Whatever The Weather",
-        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+        "name": "The Weavers",
+        "url": "https://open.spotify.com/album/7A65Zvm39UKY1t1DCVpjPs"
       },
       "artists": [
         {
-          "name": "Whatever The Weather",
-          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+          "name": "Syntropy",
+          "url": "https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU"
         }
       ],
-      "duration_ms": 262375,
-      "name": "10\u00b0C",
-      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
+      "duration_ms": 152541,
+      "name": "The Weavers",
+      "url": "https://open.spotify.com/track/34dBNgalCO1L56XU5xYndy"
     },
     {
       "added_at": "2023-04-12 13:20:59",
@@ -1675,6 +1659,22 @@
       "duration_ms": 255459,
       "name": "Inspirit - Takuya's Ry\u016bteki Dragons",
       "url": "https://open.spotify.com/track/7a72jzUzOYYCDyKDNG3Icg"
+    },
+    {
+      "added_at": "2023-04-12 13:20:59",
+      "album": {
+        "name": "Whatever The Weather",
+        "url": "https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O"
+      },
+      "artists": [
+        {
+          "name": "Whatever The Weather",
+          "url": "https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ"
+        }
+      ],
+      "duration_ms": 262375,
+      "name": "10\u00b0C",
+      "url": "https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9"
     },
     {
       "added_at": "2023-04-12 13:20:59",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2023-04-12 13:20:59",
       "album": {
-        "name": "Cloudline",
-        "url": "https://open.spotify.com/album/1bLq05o6DZoBw85k6ITEsa"
+        "name": "Mysterious Shapes and Remembered Rhythms",
+        "url": "https://open.spotify.com/album/0Hq25reNy7WC2ubWOoKwjP"
       },
       "artists": [
         {
-          "name": "Hats\u00fc",
-          "url": "https://open.spotify.com/artist/0Nm8ZQuikXSCTVymMITgMd"
+          "name": "Ian Hawgood",
+          "url": "https://open.spotify.com/artist/74VB5tp2lrCzeaFg2WPRXC"
         }
       ],
-      "duration_ms": 199111,
-      "name": "Cloudline",
-      "url": "https://open.spotify.com/track/6p4yw4aRRg2SJuQm898pla"
+      "duration_ms": 168000,
+      "name": "Life Lived in the Echoes of Emptiness",
+      "url": "https://open.spotify.com/track/4lx6thZ1sT0Nrv6XopvpyY"
     }
   ],
   "unique_name": "Ambiente",

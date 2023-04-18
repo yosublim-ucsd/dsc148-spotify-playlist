@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 527890,
+  "num_followers": 528095,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDk3MjI0NSwwMDAwMDAwMDY0NThhYzlkNjcyZDc4MDAzNWMxYmQwNDcyZTVlMmY4",
+  "snapshot_id": "MTY4MDk3MjI0NSwwMDAwMDAwMGYyNzRhODNjZjg2OGIzMzhkNTRiNmVlZGM4MDYxMjU1",
   "tracks": [
     {
       "added_at": "2023-04-08 16:44:05",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-04-08 16:44:05",
       "album": {
-        "name": "Sorry To Me Too",
-        "url": "https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 209596,
-      "name": "Sorry To Me Too",
-      "url": "https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5"
-    },
-    {
-      "added_at": "2023-04-08 16:44:05",
-      "album": {
         "name": "Reboot",
         "url": "https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 278200,
       "name": "Neon Moon - with Kacey Musgraves",
       "url": "https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH"
+    },
+    {
+      "added_at": "2023-04-08 16:44:05",
+      "album": {
+        "name": "Sorry To Me Too",
+        "url": "https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 209596,
+      "name": "Sorry To Me Too",
+      "url": "https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5"
     },
     {
       "added_at": "2023-04-08 16:44:05",
@@ -978,27 +978,15 @@
         {
           "name": "Carly Rae Jepsen",
           "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 173200,
-      "name": "Talking to Yourself",
-      "url": "https://open.spotify.com/track/7I7Dk8FOkZqhqZp9N2RKiP"
-    },
-    {
-      "added_at": "2023-04-08 16:44:05",
-      "album": {
-        "name": "gg bb xx (deluxe)",
-        "url": "https://open.spotify.com/album/77Df1klImSWFeDQh96h626"
-      },
-      "artists": [
+        },
         {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
         }
       ],
-      "duration_ms": 202202,
-      "name": "the older you get, the less you cry",
-      "url": "https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt"
+      "duration_ms": 274506,
+      "name": "The Loneliest Time (feat. Rufus Wainwright)",
+      "url": "https://open.spotify.com/track/6c6vULMrRuN4NECs2iB1xe"
     },
     {
       "added_at": "2023-04-08 16:44:05",
@@ -1015,6 +1003,22 @@
       "duration_ms": 309320,
       "name": "If It Wasn't For The Nights",
       "url": "https://open.spotify.com/track/3R47KOuGuGvmoeQqbODPa3"
+    },
+    {
+      "added_at": "2023-04-08 16:44:05",
+      "album": {
+        "name": "gg bb xx (deluxe)",
+        "url": "https://open.spotify.com/album/77Df1klImSWFeDQh96h626"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 202202,
+      "name": "the older you get, the less you cry",
+      "url": "https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt"
     },
     {
       "added_at": "2023-04-08 16:44:05",
@@ -1047,6 +1051,22 @@
       "duration_ms": 178852,
       "name": "I'm Not Dead Yet",
       "url": "https://open.spotify.com/track/0UCPhf8taREU3GMhFMoNKN"
+    },
+    {
+      "added_at": "2023-04-08 16:44:05",
+      "album": {
+        "name": "The Loneliest Time",
+        "url": "https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 173200,
+      "name": "Talking to Yourself",
+      "url": "https://open.spotify.com/track/7I7Dk8FOkZqhqZp9N2RKiP"
     },
     {
       "added_at": "2023-04-08 16:44:05",
@@ -1111,26 +1131,6 @@
       "duration_ms": 184640,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/2Gs2mHNQF2Lt7a9iIarcji"
-    },
-    {
-      "added_at": "2023-04-08 16:44:05",
-      "album": {
-        "name": "The Loneliest Time",
-        "url": "https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        },
-        {
-          "name": "Rufus Wainwright",
-          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "The Loneliest Time (feat. Rufus Wainwright)",
-      "url": "https://open.spotify.com/track/6c6vULMrRuN4NECs2iB1xe"
     },
     {
       "added_at": "2023-04-08 16:44:05",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-04-08 16:44:05",
       "album": {
-        "name": "Seven Shades of Heartbreak",
-        "url": "https://open.spotify.com/album/7kYQPT7i8PrKsTG3dsXe4r"
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/3sjbCpkd5bRaUuDMxKUy3s"
       },
       "artists": [
         {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
         }
       ],
-      "duration_ms": 197197,
-      "name": "Halfway",
-      "url": "https://open.spotify.com/track/3dKMVCShHl7cT4IMoxj8x0"
+      "duration_ms": 187544,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/2jgq1RlYLt4FZldm4KAfj2"
     }
   ],
   "unique_name": "Sad Bops",

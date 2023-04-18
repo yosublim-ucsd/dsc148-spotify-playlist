@@ -1,12 +1,12 @@
 {
   "description": "Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.",
-  "num_followers": 33435,
+  "num_followers": 33473,
   "original_name": "Caribbean Calypso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTE5MDM1MCwwMDAwMDAwMDNjMmFlMzkzZWI3NmYwMTAxOTZlNWRmYTk3OWYyYTk3",
+  "snapshot_id": "MTYxOTE5MDM1MCwwMDAwMDAwMGM5MDM3NGIzMzg2YzRhOGNhYjI1NGY4OTVlZWUxYWFm",
   "tracks": [
     {
       "added_at": "2021-04-23 15:05:50",
@@ -27,22 +27,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "The Cooks in Trinidad",
-        "url": "https://open.spotify.com/album/4R9XWdsiThwOaF8OX9vs4M"
-      },
-      "artists": [
-        {
-          "name": "Wilmoth Houdini",
-          "url": "https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S"
-        }
-      ],
-      "duration_ms": 153106,
-      "name": "Black but Sweet",
-      "url": "https://open.spotify.com/track/657JgYEGUo3gKjn2PCSVpw"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Doctor Kitch",
         "url": "https://open.spotify.com/album/6ZgbMHl4E3T6Cvjat6XZGa"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 234800,
       "name": "Doctor Kitch",
       "url": "https://open.spotify.com/track/773m3sHG4pIBk0daUTl431"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "The Cooks in Trinidad",
+        "url": "https://open.spotify.com/album/4R9XWdsiThwOaF8OX9vs4M"
+      },
+      "artists": [
+        {
+          "name": "Wilmoth Houdini",
+          "url": "https://open.spotify.com/artist/62vfc9z4z77qmgqTKXNb5S"
+        }
+      ],
+      "duration_ms": 153106,
+      "name": "Black but Sweet",
+      "url": "https://open.spotify.com/track/657JgYEGUo3gKjn2PCSVpw"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -163,6 +163,22 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
+        "name": "Forever Vol.1",
+        "url": "https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY"
+      },
+      "artists": [
+        {
+          "name": "Lord Kitchener",
+          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
+        }
+      ],
+      "duration_ms": 365240,
+      "name": "Sugar Bum Bum",
+      "url": "https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
         "name": "The Man Who Never Ever Worried",
         "url": "https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 336973,
       "name": "Never Ever Worry",
       "url": "https://open.spotify.com/track/6GdYfhHRFRLYLIflNuzCX7"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
-        "name": "Calypso Awakening from the Emory Cook Collection",
-        "url": "https://open.spotify.com/album/5IBNyUVIPDVZORyS0nUaRj"
-      },
-      "artists": [
-        {
-          "name": "Small Island Pride",
-          "url": "https://open.spotify.com/artist/7ugF6nfdSQf3Lgl58uKeCL"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "Taxi Driver",
-      "url": "https://open.spotify.com/track/4bvPevGfBIGMujMTwpcXME"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -215,22 +215,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Forever Vol.1",
-        "url": "https://open.spotify.com/album/50ewdI3akLHpuLJRlTuYgY"
-      },
-      "artists": [
-        {
-          "name": "Lord Kitchener",
-          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
-        }
-      ],
-      "duration_ms": 365240,
-      "name": "Sugar Bum Bum",
-      "url": "https://open.spotify.com/track/149qzbNc27hQO3EGqUjGCq"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Calypso",
         "url": "https://open.spotify.com/album/7zMd2ZyCLK83STGzNxDz5l"
       },
@@ -247,18 +231,18 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Lord Melody Sings Calypso",
-        "url": "https://open.spotify.com/album/6f8R8HDMPeAnhR5NIoCu8e"
+        "name": "Calypso Awakening from the Emory Cook Collection",
+        "url": "https://open.spotify.com/album/5IBNyUVIPDVZORyS0nUaRj"
       },
       "artists": [
         {
-          "name": "Lord Melody",
-          "url": "https://open.spotify.com/artist/763Br9i2W8Zy7Qpuog90Ka"
+          "name": "Small Island Pride",
+          "url": "https://open.spotify.com/artist/7ugF6nfdSQf3Lgl58uKeCL"
         }
       ],
-      "duration_ms": 163333,
-      "name": "Carnival Proclamation",
-      "url": "https://open.spotify.com/track/5k6fy2tWt4a08ffsOtjuW6"
+      "duration_ms": 208653,
+      "name": "Taxi Driver",
+      "url": "https://open.spotify.com/track/4bvPevGfBIGMujMTwpcXME"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -275,6 +259,22 @@
       "duration_ms": 180440,
       "name": "Calypsonian Invasion",
       "url": "https://open.spotify.com/track/0oLlOtIYnH5kwSEOJoEarY"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Lord Melody Sings Calypso",
+        "url": "https://open.spotify.com/album/6f8R8HDMPeAnhR5NIoCu8e"
+      },
+      "artists": [
+        {
+          "name": "Lord Melody",
+          "url": "https://open.spotify.com/artist/763Br9i2W8Zy7Qpuog90Ka"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "Carnival Proclamation",
+      "url": "https://open.spotify.com/track/5k6fy2tWt4a08ffsOtjuW6"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -307,6 +307,22 @@
       "duration_ms": 187573,
       "name": "Poor but Ambitious",
       "url": "https://open.spotify.com/track/1yKL15Ahp2TD4SN0n2Jfhf"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/5myiV8PzZ56eKshMLoTvVH"
+      },
+      "artists": [
+        {
+          "name": "Lord Kitchener",
+          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "London is the Place for Me",
+      "url": "https://open.spotify.com/track/1pETAnznla509bUKb34xnS"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -355,22 +371,6 @@
       "duration_ms": 183480,
       "name": "Man Smart, Woman Smarter",
       "url": "https://open.spotify.com/track/69oH5k21w7K0DfokV4zrfg"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
-        "name": "8",
-        "url": "https://open.spotify.com/album/5myiV8PzZ56eKshMLoTvVH"
-      },
-      "artists": [
-        {
-          "name": "Lord Kitchener",
-          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "London is the Place for Me",
-      "url": "https://open.spotify.com/track/1pETAnznla509bUKb34xnS"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -439,22 +439,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Calypsonians (1930 - 1960), Vol.3",
-        "url": "https://open.spotify.com/album/4GmO9Pe5sQ7lkhnkdQlMNL"
-      },
-      "artists": [
-        {
-          "name": "The Executor",
-          "url": "https://open.spotify.com/artist/6xJuCASaNxCSPoswqEqGur"
-        }
-      ],
-      "duration_ms": 185835,
-      "name": "My Reply to Houdini",
-      "url": "https://open.spotify.com/track/416NGM98lMSM3EZwMHcGFL"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Calypso - Best of Trinidad",
         "url": "https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb"
       },
@@ -467,6 +451,38 @@
       "duration_ms": 176880,
       "name": "One Morning",
       "url": "https://open.spotify.com/track/1LLinCUuJICYx4ozbzdo0X"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Doctor Kitch",
+        "url": "https://open.spotify.com/album/6ZgbMHl4E3T6Cvjat6XZGa"
+      },
+      "artists": [
+        {
+          "name": "Lord Kitchener",
+          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
+        }
+      ],
+      "duration_ms": 155400,
+      "name": "No Melda",
+      "url": "https://open.spotify.com/track/6DqNQ3UbRLwONLC0oqCS4M"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Calypsonians (1930 - 1960), Vol.3",
+        "url": "https://open.spotify.com/album/4GmO9Pe5sQ7lkhnkdQlMNL"
+      },
+      "artists": [
+        {
+          "name": "The Executor",
+          "url": "https://open.spotify.com/artist/6xJuCASaNxCSPoswqEqGur"
+        }
+      ],
+      "duration_ms": 185835,
+      "name": "My Reply to Houdini",
+      "url": "https://open.spotify.com/track/416NGM98lMSM3EZwMHcGFL"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -503,54 +519,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "The Man Who Never Ever Worried",
-        "url": "https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp"
-      },
-      "artists": [
-        {
-          "name": "The Great Honourable Lord Pretender",
-          "url": "https://open.spotify.com/artist/6wok7L7GfBNS0nOltwmopD"
-        }
-      ],
-      "duration_ms": 317720,
-      "name": "Illegitimate Children",
-      "url": "https://open.spotify.com/track/3VAJsSxUc0n4HKwndXZb87"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
-        "name": "Doctor Kitch",
-        "url": "https://open.spotify.com/album/6ZgbMHl4E3T6Cvjat6XZGa"
-      },
-      "artists": [
-        {
-          "name": "Lord Kitchener",
-          "url": "https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK"
-        }
-      ],
-      "duration_ms": 155400,
-      "name": "No Melda",
-      "url": "https://open.spotify.com/track/6DqNQ3UbRLwONLC0oqCS4M"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
-        "name": "Calypsonians (1930 - 1960), Vol.1",
-        "url": "https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo"
-      },
-      "artists": [
-        {
-          "name": "The Growler",
-          "url": "https://open.spotify.com/artist/5lwYMYhwMqdKbfseKD1TWn"
-        }
-      ],
-      "duration_ms": 178933,
-      "name": "In the Dew and the Rain",
-      "url": "https://open.spotify.com/track/1dnOU5nbW5kpmRBg0uCtqy"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Calypsos from Trinidad: Politics, Intrigue & Violence in the 1930s",
         "url": "https://open.spotify.com/album/2KeFqsujCepKC9qaCWmRS2"
       },
@@ -563,6 +531,22 @@
       "duration_ms": 177200,
       "name": "Mr. Nankivell's Speech",
       "url": "https://open.spotify.com/track/6J1rPbuBjBaJdg53tjyhpG"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "The Man Who Never Ever Worried",
+        "url": "https://open.spotify.com/album/3cEHPnWBiQ5ZYSFCEr0gRp"
+      },
+      "artists": [
+        {
+          "name": "The Great Honourable Lord Pretender",
+          "url": "https://open.spotify.com/artist/6wok7L7GfBNS0nOltwmopD"
+        }
+      ],
+      "duration_ms": 317720,
+      "name": "Illegitimate Children",
+      "url": "https://open.spotify.com/track/3VAJsSxUc0n4HKwndXZb87"
     },
     {
       "added_at": "2021-04-23 15:05:50",
@@ -595,6 +579,22 @@
       "duration_ms": 146400,
       "name": "Adeline",
       "url": "https://open.spotify.com/track/200yEpjz40jHmTKAKnhHHJ"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Calypsonians (1930 - 1960), Vol.1",
+        "url": "https://open.spotify.com/album/4W7U6rL6f2eK4kPFk7XgHo"
+      },
+      "artists": [
+        {
+          "name": "The Growler",
+          "url": "https://open.spotify.com/artist/5lwYMYhwMqdKbfseKD1TWn"
+        }
+      ],
+      "duration_ms": 178933,
+      "name": "In the Dew and the Rain",
+      "url": "https://open.spotify.com/track/1dnOU5nbW5kpmRBg0uCtqy"
     },
     {
       "added_at": "2021-04-23 15:05:50",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Amari, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,422 likes - 76 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,427 likes - 76 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 31 | [SA 'YONG SAMYO](https://open.spotify.com/track/64OQNwMTHb5ApZeMvOeU86) | [Sheena Lee](https://open.spotify.com/artist/3xYOaLDmq7wg0xNjMXPM8N) | [SA 'YONG SAMYO](https://open.spotify.com/album/56PgymqDuwXIAvu6c3rRFP) | 4:46 |
 | 32 | [Dale](https://open.spotify.com/track/5IGaTHSo5HxFwl1GYlOAIS) | [W1LL K](https://open.spotify.com/artist/1tD6xzuNGU0flYYCMT9ewp) | [Dale](https://open.spotify.com/album/3RG3CHD4sFbFITNE3TfrMI) | 3:42 |
 | 33 | [BANGON](https://open.spotify.com/track/6jUmUoMvUQUIz46ts7ezwD) | [Starlight Replica](https://open.spotify.com/artist/2AbaEhL8UZoeSn4KbsXkjB) | [BORN AGAIN](https://open.spotify.com/album/2y8aHfOhQS501INQ1koGZV) | 5:54 |
-| 34 | [A Night in Shibuya](https://open.spotify.com/track/0MKacxWoNCBVDS3evLi4BZ) | [Figo](https://open.spotify.com/artist/0BVfgdAkJOnrpoFl2bKkQM) | [A Night in Shibuya](https://open.spotify.com/album/0i4MxnxxBiJWCvxPC1823h) | 3:25 |
+| 34 | [A Night in Shibuya](https://open.spotify.com/track/6O2Ei6TnkvlrE64PQxuX0A) | [Figo](https://open.spotify.com/artist/0BVfgdAkJOnrpoFl2bKkQM) | [A Night in Shibuya](https://open.spotify.com/album/24z6i61iV5LaeQXtEQDRKn) | 3:25 |
 | 35 | [BALIW KA](https://open.spotify.com/track/1AvjCgN2NoY3QRSi4f3TOm) | [Lil Panty](https://open.spotify.com/artist/3ocQOpsiqghIwiXS3frzb8) | [BALIW KA](https://open.spotify.com/album/5tGqknlK1X7YoEKACu9iOL) | 3:02 |
 | 36 | [Payapa](https://open.spotify.com/track/53yTYyTDCnRNor844jPGWu) | [Soulution Worship](https://open.spotify.com/artist/4BC2CPGkM5dwH7sqiaoXmi) | [Payapa](https://open.spotify.com/album/01Lpq5JeTKSShjXiepCfPg) | 4:47 |
 | 37 | [araw\-araw nang lasing](https://open.spotify.com/track/1Aq9aweeh9VFxXojTI5eAx) | [Brxdvcl](https://open.spotify.com/artist/6cAz2eSvy5z4SFDCwxZKgv) | [araw\-araw nang lasing](https://open.spotify.com/album/5y3n45WLIJ8s7VGvYFjmpx) | 2:52 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 75 | [Hiraya Manawari](https://open.spotify.com/track/459056h8gobzrJMof9MpZ0) | [Hans Pagalan](https://open.spotify.com/artist/2uRXcHgMmh3J03rZrIlMOP) | [Hiraya Manawari](https://open.spotify.com/album/1RCE1h84H2IU6lHJJEvbAP) | 4:10 |
 | 76 | [You Are Worthy](https://open.spotify.com/track/6krSQHydVy8wmManGeMoyt) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [You Are Worthy](https://open.spotify.com/album/3JVv3H1kx7MdNJNKQe5kqw) | 2:16 |
 
-Snapshot ID: `MTY4MTQwMTYwMCwwMDAwMDAwMGI5MTk0YmE2ZjRjYTcxNWI0OTJlMDBjMmRmOGE0MjFh`
+Snapshot ID: `MTY4MTQwMTYwMCwwMDAwMDAwMGU3ZWFiYmJkMWQ4YmI2ZGEwNTk0OTljNjlhZmMyNTMw`

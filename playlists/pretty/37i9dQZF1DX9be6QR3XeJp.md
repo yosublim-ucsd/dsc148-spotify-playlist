@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: G!ft
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,055 likes - 145 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,045 likes - 145 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Dulces canciones para disfrutar con tus beb\u00e9s.",
-  "num_followers": 134808,
+  "num_followers": 134851,
   "original_name": "Leche con Chocolate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTUxMTI1NywwMDAwMDAwMGFlZjJmNmEyYzRkYjcyNDNlNDEwNGExNTc3MjI4NDk2",
+  "snapshot_id": "MTY3OTUxMTI1NywwMDAwMDAwMDdlNzA5YjhkNzhlZDhlNjFkNzY1MTJiNjk4NWY3MjAz",
   "tracks": [
     {
       "added_at": "2022-01-20 16:40:05",
@@ -133,86 +133,6 @@
       "url": "https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo"
     },
     {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
-        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
-      },
-      "artists": [
-        {
-          "name": "Rachel House",
-          "url": "https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU"
-        },
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        }
-      ],
-      "duration_ms": 162826,
-      "name": "I Am Moana (Song of the Ancestors)",
-      "url": "https://open.spotify.com/track/6uk7QQiWRDjPHSiSMZlez8"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
-        "name": "Un Besito M\u00e1s",
-        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 192746,
-      "name": "Un besito m\u00e1s (feat. Juan Luis Guerra)",
-      "url": "https://open.spotify.com/track/1182pxG4uNxr3QqIH8b8k0"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
-        "name": "Nada en Su Lugar",
-        "url": "https://open.spotify.com/album/1X0J6enanArUKaI6uH3fuJ"
-      },
-      "artists": [
-        {
-          "name": "Canticu\u00e9nticos",
-          "url": "https://open.spotify.com/artist/0Ochpv3RZ8qvqUcJFn2tMr"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "Cumbia del Monstruo",
-      "url": "https://open.spotify.com/track/3XRSw1WELRPB3yJV9NtN0U"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
-      },
-      "artists": [
-        {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
-        },
-        {
-          "name": "Agatha Lee Monn",
-          "url": "https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp"
-        },
-        {
-          "name": "Katie Lopez",
-          "url": "https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Do You Want to Build a Snowman? - From \"Frozen\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6"
-    },
-    {
       "added_at": "2022-01-20 16:40:05",
       "album": {
         "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
@@ -260,6 +180,46 @@
       },
       "artists": [
         {
+          "name": "Rachel House",
+          "url": "https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "duration_ms": 162826,
+      "name": "I Am Moana (Song of the Ancestors)",
+      "url": "https://open.spotify.com/track/6uk7QQiWRDjPHSiSMZlez8"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 192746,
+      "name": "Un besito m\u00e1s (feat. Juan Luis Guerra)",
+      "url": "https://open.spotify.com/track/1182pxG4uNxr3QqIH8b8k0"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
+      },
+      "artists": [
+        {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         },
@@ -283,6 +243,46 @@
       "duration_ms": 72626,
       "name": "Know Who You Are",
       "url": "https://open.spotify.com/track/2wCRJwiL1WSrW0Dwfco7Nj"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
+        "name": "Nada en Su Lugar",
+        "url": "https://open.spotify.com/album/1X0J6enanArUKaI6uH3fuJ"
+      },
+      "artists": [
+        {
+          "name": "Canticu\u00e9nticos",
+          "url": "https://open.spotify.com/artist/0Ochpv3RZ8qvqUcJFn2tMr"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Cumbia del Monstruo",
+      "url": "https://open.spotify.com/track/3XRSw1WELRPB3yJV9NtN0U"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Agatha Lee Monn",
+          "url": "https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp"
+        },
+        {
+          "name": "Katie Lopez",
+          "url": "https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Do You Want to Build a Snowman? - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6"
     },
     {
       "added_at": "2020-07-16 23:31:15",
@@ -319,26 +319,6 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
-      },
-      "artists": [
-        {
-          "name": "Kristen Bell",
-          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
-        },
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        }
-      ],
-      "duration_ms": 225080,
-      "name": "For the First Time in Forever - From \"Frozen\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/70b5Sq3ePOu3Gqg0hjlOtR"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
         "name": "Canciones de Luna",
         "url": "https://open.spotify.com/album/3GSVwWy3uufF01FCxguQUL"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 121321,
       "name": "The Bath Song",
       "url": "https://open.spotify.com/track/6t5tUvTg4BY4syBRFYATxD"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        }
+      ],
+      "duration_ms": 225080,
+      "name": "For the First Time in Forever - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/70b5Sq3ePOu3Gqg0hjlOtR"
     },
     {
       "added_at": "2020-07-16 23:31:15",
@@ -495,22 +495,6 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
-        "name": "En Vivo - Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs"
-      },
-      "artists": [
-        {
-          "name": "Pica-Pica",
-          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
-        }
-      ],
-      "duration_ms": 178780,
-      "name": "Chuchuw\u00e1 - Remasterizado 2016",
-      "url": "https://open.spotify.com/track/2IpvzISpbaoqTErnNGS4ec"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
         "name": "Canciones de Luna",
         "url": "https://open.spotify.com/album/3GSVwWy3uufF01FCxguQUL"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 153605,
       "name": "Arrurr\u00fa",
       "url": "https://open.spotify.com/track/25EyD8t5rxJIu401VPBOJl"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
+        "name": "En Vivo - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs"
+      },
+      "artists": [
+        {
+          "name": "Pica-Pica",
+          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+        }
+      ],
+      "duration_ms": 178780,
+      "name": "Chuchuw\u00e1 - Remasterizado 2016",
+      "url": "https://open.spotify.com/track/2IpvzISpbaoqTErnNGS4ec"
     },
     {
       "added_at": "2020-07-16 23:31:15",
@@ -543,22 +543,6 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
-        "name": "Besos, Abrazos y Apapachos",
-        "url": "https://open.spotify.com/album/1YFqxqQb8dYKev6PFLn2ic"
-      },
-      "artists": [
-        {
-          "name": "Mariana Mallol",
-          "url": "https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg"
-        }
-      ],
-      "duration_ms": 131666,
-      "name": "Musiquita de Reir",
-      "url": "https://open.spotify.com/track/79BrYmFDbHnqj16M63jgYU"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 161000,
       "name": "Farolito (with Gilberto Gil)",
       "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
+        "name": "Besos, Abrazos y Apapachos",
+        "url": "https://open.spotify.com/album/1YFqxqQb8dYKev6PFLn2ic"
+      },
+      "artists": [
+        {
+          "name": "Mariana Mallol",
+          "url": "https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg"
+        }
+      ],
+      "duration_ms": 131666,
+      "name": "Musiquita de Reir",
+      "url": "https://open.spotify.com/track/79BrYmFDbHnqj16M63jgYU"
     },
     {
       "added_at": "2020-07-16 23:31:15",
@@ -707,26 +707,6 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
-        "name": "Ag\u00fcita De Lim\u00f3n Con Ch\u00eda",
-        "url": "https://open.spotify.com/album/3HEmQgo0sLd9vp1bXAD0Yl"
-      },
-      "artists": [
-        {
-          "name": "Mariana Mallol",
-          "url": "https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg"
-        },
-        {
-          "name": "Edgar Oceransky",
-          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "Sin Miedo",
-      "url": "https://open.spotify.com/track/0csMjiZHkLjzktpBNtTlEe"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
         "name": "Bob Marley For Babies",
         "url": "https://open.spotify.com/album/1rDl2v4himtK04EL0yYDXr"
       },
@@ -759,6 +739,42 @@
       "duration_ms": 213226,
       "name": "Du\u00e9rmete Mi Ni\u00f1o",
       "url": "https://open.spotify.com/track/6CeWENB12o6pQ1JdW5jCCV"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
+        "name": "Ag\u00fcita De Lim\u00f3n Con Ch\u00eda",
+        "url": "https://open.spotify.com/album/3HEmQgo0sLd9vp1bXAD0Yl"
+      },
+      "artists": [
+        {
+          "name": "Mariana Mallol",
+          "url": "https://open.spotify.com/artist/0cQJAFoSWyOndigdmyrYAg"
+        },
+        {
+          "name": "Edgar Oceransky",
+          "url": "https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "Sin Miedo",
+      "url": "https://open.spotify.com/track/0csMjiZHkLjzktpBNtTlEe"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
+        "name": "Illustrated Songs",
+        "url": "https://open.spotify.com/album/3znNEiVi6CdKznkpnVpz0s"
+      },
+      "artists": [
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        }
+      ],
+      "duration_ms": 160239,
+      "name": "Daydream by Design",
+      "url": "https://open.spotify.com/track/3VnNmdwvpuLPIdPJQXuY07"
     },
     {
       "added_at": "2020-07-16 23:31:15",
@@ -799,22 +815,6 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
-        "name": "Illustrated Songs",
-        "url": "https://open.spotify.com/album/3znNEiVi6CdKznkpnVpz0s"
-      },
-      "artists": [
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        }
-      ],
-      "duration_ms": 160239,
-      "name": "Daydream by Design",
-      "url": "https://open.spotify.com/track/3VnNmdwvpuLPIdPJQXuY07"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
         "name": "Viva Kids, Vol. 1",
         "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
-        "name": "Marc Anthony For Babies",
-        "url": "https://open.spotify.com/album/414ko0TBJNP8zSFWWr3TVa"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony For Babies",
-          "url": "https://open.spotify.com/artist/4dKFhri6ILBCHZQUHlV0XA"
-        }
-      ],
-      "duration_ms": 186466,
-      "name": "Ahora Quien",
-      "url": "https://open.spotify.com/track/0ghEk3N94LCRv1BbdIi0N6"
-    },
-    {
-      "added_at": "2020-07-16 23:31:15",
-      "album": {
         "name": "\u00c9l Empez\u00f3 Primero (Show En Vivo)",
         "url": "https://open.spotify.com/album/2zbm5CRq6JE8AU1OOMYSzQ"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 169240,
       "name": "Cinco Ranas Con Pequitas",
       "url": "https://open.spotify.com/track/1d1m1mRvPu6sMc1lwUnJya"
+    },
+    {
+      "added_at": "2020-07-16 23:31:15",
+      "album": {
+        "name": "Marc Anthony For Babies",
+        "url": "https://open.spotify.com/album/414ko0TBJNP8zSFWWr3TVa"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony For Babies",
+          "url": "https://open.spotify.com/artist/4dKFhri6ILBCHZQUHlV0XA"
+        }
+      ],
+      "duration_ms": 186466,
+      "name": "Ahora Quien",
+      "url": "https://open.spotify.com/track/0ghEk3N94LCRv1BbdIi0N6"
     },
     {
       "added_at": "2020-07-16 23:31:15",
@@ -911,34 +911,42 @@
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
-        "name": "Viva Kids, Vol. 1",
-        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
+        "name": "Nube de Algod\u00f3n",
+        "url": "https://open.spotify.com/album/3jN0mCiud1s0mQ46aj2Yom"
       },
       "artists": [
         {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        },
+        {
+          "name": "CACUCA",
+          "url": "https://open.spotify.com/artist/5yxqs3dYSbyBYRebEh7aJe"
         }
       ],
-      "duration_ms": 152013,
-      "name": "El Piojo y la Pulga",
-      "url": "https://open.spotify.com/track/5nC6wXvj96JvcAafI4DUZA"
+      "duration_ms": 136826,
+      "name": "Nube de Algod\u00f3n",
+      "url": "https://open.spotify.com/track/2UEj5kNRL0VJ9oQC6SGdjP"
     },
     {
       "added_at": "2020-07-16 23:31:15",
       "album": {
-        "name": "Marc Anthony For Babies",
-        "url": "https://open.spotify.com/album/414ko0TBJNP8zSFWWr3TVa"
+        "name": "Siguiente",
+        "url": "https://open.spotify.com/album/1Px6ATcmtKsrP7WAKmbch3"
       },
       "artists": [
         {
-          "name": "Marc Anthony For Babies",
-          "url": "https://open.spotify.com/artist/4dKFhri6ILBCHZQUHlV0XA"
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Vivir Mi Vida",
-      "url": "https://open.spotify.com/track/5F2iynEIlALVPgl8RYouu4"
+      "duration_ms": 276760,
+      "name": "De La Luna Al Sol",
+      "url": "https://open.spotify.com/track/4dJEKzBZLrdF7dzeixyrIF"
     }
   ],
   "unique_name": "Leche con Chocolate",

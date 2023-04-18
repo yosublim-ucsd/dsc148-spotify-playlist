@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Chicocurlyhead\n",
-  "num_followers": 106035,
+  "num_followers": 106061,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4NDk1NiwwMDAwMDAwMGY3OTUwNWIyMDMzZjk3ZjAzY2RkOGYwNDdiZjY1MWZl",
+  "snapshot_id": "MTY3ODQ4NDk1NiwwMDAwMDAwMDNkZmE1Njk0ZDkwNTZkNDQzNTE2MjZiMTE1NjI4ZDQx",
   "tracks": [
     {
       "added_at": "2023-03-10 21:49:16",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "LA ISLA LP",
-        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "Me Olvid\u00e9 De Los 2",
-      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "Mil Maneras de Morir",
         "url": "https://open.spotify.com/album/78YgWA7Ecdn1ettFiqH5ba"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 169776,
       "name": "TOSCANA",
       "url": "https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "LA ISLA LP",
+        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 179066,
+      "name": "Me Olvid\u00e9 De Los 2",
+      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
+        "name": "Amor En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 187440,
+      "name": "Monte Carlo",
+      "url": "https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 248000,
       "name": "B-Day",
       "url": "https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
-        "name": "Amor En Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "Monte Carlo",
-      "url": "https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "I.W.Y.",
-        "url": "https://open.spotify.com/album/0W3AKS1vhthN13diu18bTH"
-      },
-      "artists": [
-        {
-          "name": "Carlos Unger",
-          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
-        }
-      ],
-      "duration_ms": 173165,
-      "name": "I.W.Y.",
-      "url": "https://open.spotify.com/track/2qePnoTLNzI1aJHLdLBvQM"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "QCVH",
         "url": "https://open.spotify.com/album/2GttLbx4VBOgdL3uzHWO9G"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 136973,
       "name": "QCVH",
       "url": "https://open.spotify.com/track/0hi6aypEJwNCRrPQCouZF1"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "I.W.Y.",
+        "url": "https://open.spotify.com/album/0W3AKS1vhthN13diu18bTH"
+      },
+      "artists": [
+        {
+          "name": "Carlos Unger",
+          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
+        }
+      ],
+      "duration_ms": 173165,
+      "name": "I.W.Y.",
+      "url": "https://open.spotify.com/track/2qePnoTLNzI1aJHLdLBvQM"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
+        "name": "el vuelo",
+        "url": "https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3"
+      },
+      "artists": [
+        {
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+        }
+      ],
+      "duration_ms": 185293,
+      "name": "el vuelo",
+      "url": "https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
         "name": "Luces",
         "url": "https://open.spotify.com/album/4UDWBqFdxvXJfGwRsqxtKj"
       },
@@ -1387,18 +1403,18 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "el vuelo",
-        "url": "https://open.spotify.com/album/50fPKkTgYxNCIaoEWb3jU3"
+        "name": "Uh Huh",
+        "url": "https://open.spotify.com/album/0QWu0i9aspqONLrrVisUsf"
       },
       "artists": [
         {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
         }
       ],
-      "duration_ms": 185293,
-      "name": "el vuelo",
-      "url": "https://open.spotify.com/track/2qtrDGVkMqKrcL44b8U4LG"
+      "duration_ms": 163541,
+      "name": "Uh Huh",
+      "url": "https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1419,22 +1435,6 @@
       "duration_ms": 173098,
       "name": "Na Pa Ti (feat. Kofi)",
       "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
-        "name": "Uh Huh",
-        "url": "https://open.spotify.com/album/0QWu0i9aspqONLrrVisUsf"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        }
-      ],
-      "duration_ms": 163541,
-      "name": "Uh Huh",
-      "url": "https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX"
     },
     {
       "added_at": "2023-03-10 21:49:16",

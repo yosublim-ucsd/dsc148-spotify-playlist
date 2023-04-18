@@ -5458,7 +5458,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 287266,
       "name": "Cornelia Street",
       "url": "https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a"
@@ -16412,7 +16412,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 159158,
       "name": "Oi Balde - Ao Vivo",
       "url": "https://open.spotify.com/track/3mzbab4H0iZYkHggSEj0UX"
@@ -17638,7 +17638,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 192708,
       "name": "Pilantra",
       "url": "https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc"
@@ -23846,6 +23846,24 @@
       "duration_ms": 130403,
       "name": "Vacil\u00e3o",
       "url": "https://open.spotify.com/track/7CJJ7JC3kj9XdweWTvfVhX"
+    },
+    {
+      "album": {
+        "name": "Carnaval 2K23",
+        "url": "https://open.spotify.com/album/6oVh3i1ZrZuTRuKJ6Ysc08"
+      },
+      "artists": [
+        {
+          "name": "Rei Das Tchucas",
+          "url": "https://open.spotify.com/artist/5S32bOuAJ3938xWvsNEkFT"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131922,
+      "name": "Vai Cavalgando Devagar",
+      "url": "https://open.spotify.com/track/3HPK53tLIui6F9PMOqaO4N"
     },
     {
       "album": {

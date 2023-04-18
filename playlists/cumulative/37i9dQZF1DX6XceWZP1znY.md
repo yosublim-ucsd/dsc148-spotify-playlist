@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-719 songs - 1 day 23 hr 40 min
+720 songs - 1 day 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-11-22 |  |
 | [Kiss Me](https://open.spotify.com/track/3oWLxV0LKV4z2gWUOsX5zJ) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [2ND GALAXY](https://open.spotify.com/album/7aVhOAh7ezTKkV62YaS7w6) | 3:38 | 2022-06-07 | 2022-07-29 |
 | [Kiss Me](https://open.spotify.com/track/2QcjNoNPdkYy0RqPFoRKrk) | [キャロル&チューズデイ\(Vo.Nai Br.XX&Celeina Ann\)](https://open.spotify.com/artist/3tggmwr8QhWUTVdZ6br4na) | [Kiss Me/Hold Me Now](https://open.spotify.com/album/7oZVM8iL1dVOuVEioAIsGE) | 4:00 | 2022-06-07 | 2022-11-13 |
+| [Knock Out](https://open.spotify.com/track/5ktgImJ7uP5gR2Pv85R9Qy) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Knock Out](https://open.spotify.com/album/3pHuTLk66QGfAd4KRq4ErX) | 3:45 | 2023-04-13 |  |
 | [Koino Uta](https://open.spotify.com/track/15St0qWPnH4xKflV39vk28) | [Yunomi](https://open.spotify.com/artist/2j00CVYTPx6q9ANbmB2keb), [Tsukasa Yuzaki](https://open.spotify.com/artist/7i5JUEiIBlGHmiyJTS0y3A) | [Koino Uta](https://open.spotify.com/album/3WCOtVNy5QefE0fbrfMGUy) | 3:29 | 2022-06-07 | 2023-04-12 |
 | [Koko de Iki wo Shite](https://open.spotify.com/track/7cPYSzsrl6imQkzeO1HZ9b) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Palette](https://open.spotify.com/album/5P6FOSW5vOyPue3gharY5S) | 3:35 | 2022-06-07 | 2023-04-02 |
 | [Koko de Iki wo Shite](https://open.spotify.com/track/7LVsLHXVLscS5xY7q50TLT) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [Koko de Iki wo Shite](https://open.spotify.com/album/37eKnOf4wa5owxHtsBZIho) | 3:36 | 2022-08-11 | 2022-11-13 |
@@ -630,7 +631,7 @@
 | [新月のダ・カーポ](https://open.spotify.com/track/6ZaqrGOelYVrPCjCC03tit) | [相沢梨紗 \(でんぱ組.inc\)](https://open.spotify.com/artist/2IkoQ3ubR0PfATrbN8Y59G) | [新月のダ・カーポ](https://open.spotify.com/album/35dlpfOCfoWFPyOcOmq8ZK) | 5:00 | 2022-06-07 | 2022-07-28 |
 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 | 2022-06-07 | 2023-01-07 |
 | [星が泳ぐ](https://open.spotify.com/track/0MnPdlWm7MSSUnEamZp5lX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [星が泳ぐ](https://open.spotify.com/album/7KgNsK5MtZJJSdNOFBu738) | 3:59 | 2022-06-07 |  |
-| [星のクズ α](https://open.spotify.com/track/5MU5Ut06m3owitzqy5Bmvf) | [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [星のクズ α](https://open.spotify.com/album/08saxS1jXzuIRnviE8EYi0) | 5:03 | 2023-04-01 |  |
+| [星のクズ α](https://open.spotify.com/track/5MU5Ut06m3owitzqy5Bmvf) | [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [星のクズ α](https://open.spotify.com/album/08saxS1jXzuIRnviE8EYi0) | 5:03 | 2023-04-01 | 2023-04-18 |
 | [星をあつめて](https://open.spotify.com/track/6HO4vrBOmbpoX8GZoe7T8B) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [星をあつめて](https://open.spotify.com/album/1nTSBkYfzNyJFGQ75OtBgw) | 4:15 | 2022-06-07 | 2022-07-25 |
 | [星座になれたら](https://open.spotify.com/track/1iNhNmEwrd2TP4XrV7pQBI) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:18 | 2023-01-07 |  |
 | [星瞬\~Star Wink\~](https://open.spotify.com/track/2GbqVrrJzEqVjMvRgbmBBG) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [星瞬\~Star Wink\~](https://open.spotify.com/album/3JNJDGI69C0xPuGBoGW77R) | 5:42 | 2022-06-07 | 2022-07-29 |

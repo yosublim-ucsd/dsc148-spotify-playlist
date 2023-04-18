@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Rezz
 
-447 songs - 1 day 0 hr 54 min
+448 songs - 1 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Dreaming](https://open.spotify.com/track/5Gz4ahf3fZ8j21qGGfGjot) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Dreaming](https://open.spotify.com/album/3ZGP2USBTJxXBiRxSiCWnB) | 2:16 | 2022-05-06 | 2022-09-24 |
 | [Drop](https://open.spotify.com/track/5iscY6uoraOqqKurX7G8S9) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Zensery](https://open.spotify.com/artist/5B5A66ePBh1rHxaiFwuQIf) | [Drop](https://open.spotify.com/album/4TotKs9vQYC2JnSNNUvUz6) | 2:08 | 2023-01-20 |  |
 | [Eat Your Soul](https://open.spotify.com/track/1vUNgZq9RLRMe3Oiu9wQrz) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Eat Your Soul](https://open.spotify.com/album/09d5yd6Df2BOolbiKNudFg) | 2:39 | 2022-05-27 | 2022-08-06 |
+| [Eclipse](https://open.spotify.com/track/2kY3zw2cGQOG3IL6gMW20R) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Eclipse](https://open.spotify.com/album/3XjD5Vaq09m61AYKjQth7K) | 4:13 | 2023-04-14 |  |
 | [Eclosion](https://open.spotify.com/track/4OUqLt07LuTkt5oRoTXICM) | [Kermode](https://open.spotify.com/artist/4O4L8A3vvOe23k36O1eFfe) | [Eclosion](https://open.spotify.com/album/7wVvHXHHGEXcm0Eqv4aPCs) | 2:35 | 2023-02-17 | 2023-02-21 |
 | [Ecstasy Of Soul](https://open.spotify.com/track/1E0CZWim9mfwrCkXvieES8) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Ecstasy Of Soul](https://open.spotify.com/album/3Z9gZ7C37E95mJkJrWIpJ8) | 3:58 | 2023-01-20 |  |
 | [edamame \(feat\. Rich Brian\) \- Diplo Remix](https://open.spotify.com/track/1fvEC5ksBfgjGWVNP9eJ2t) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [edamame \(feat\. Rich Brian\) \[Diplo Remix\]](https://open.spotify.com/album/2pcFjaO7Eouy8DiDV9mmjW) | 2:55 | 2022-01-14 | 2022-05-07 |
@@ -183,7 +184,7 @@
 | [How it is](https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [How it is](https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc) | 3:01 | 2022-06-10 | 2022-09-03 |
 | [How We Do](https://open.spotify.com/track/0oDnZigAyI2RTxareDIuXO) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [How We Do](https://open.spotify.com/album/5QyO0fxIi4l2LFQkbWUGWw) | 3:07 | 2022-02-18 | 2022-06-25 |
 | [Human League](https://open.spotify.com/track/23urM0HEdculuZPJyhImwB) | [Stund](https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk) | [Human League](https://open.spotify.com/album/3JSeeVJd5spZaA1o63WKj7) | 4:11 | 2022-01-14 | 2022-01-29 |
-| [Hyperreal](https://open.spotify.com/track/3NxY6I8zzqT2F2Ue2G8BRZ) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [It's All Fiction](https://open.spotify.com/album/1ftZpkTqPl2OIM6QCRb8u7) | 4:16 | 2022-12-02 |  |
+| [Hyperreal](https://open.spotify.com/track/3NxY6I8zzqT2F2Ue2G8BRZ) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [It's All Fiction](https://open.spotify.com/album/1ftZpkTqPl2OIM6QCRb8u7) | 4:16 | 2022-12-02 | 2023-04-18 |
 | [HYPNOSIS](https://open.spotify.com/track/7Hrdx0AjXCVQX6qnQiJ7We) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HYPNOSIS](https://open.spotify.com/album/1AFn827ZpGac5mVf7wPa6q) | 2:38 | 2022-12-05 |  |
 | [I Confess \(feat\. ROMÉO\)](https://open.spotify.com/track/60aUfRZyvfi37ibBdiTJ9f) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [ROMÉO](https://open.spotify.com/artist/6UZAR4NCq8pcvxGZVlfuf2) | [I Confess \(feat\. ROMÉO\)](https://open.spotify.com/album/5zJDTUAiTmQUKbq7hOo64b) | 2:37 | 2022-05-20 | 2022-09-03 |
 | [I Don't Think U Do](https://open.spotify.com/track/2cyNqXxLcSV7EtEkIivrlz) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [I Don't Think U Do](https://open.spotify.com/album/53t06XQarorEYsDJXjwjSg) | 3:23 | 2022-05-06 | 2022-09-03 |

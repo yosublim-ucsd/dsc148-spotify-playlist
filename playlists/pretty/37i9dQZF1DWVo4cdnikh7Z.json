@@ -1,33 +1,13 @@
 {
   "description": "New Music from Kollywood.\nCover : Pathu Thala",
-  "num_followers": 505303,
+  "num_followers": 505586,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTU3MDg2NiwwMDAwMDAwMGQxNWMyMDUwOGE5MTViYzg0NWRlYmUyMDYzYTM2MDMx",
+  "snapshot_id": "MTY4MTczNDI5MywwMDAwMDAwMDBkZWNkZjcxMjhjMTliNGQxOWU2YTJkNmRmMjU1YmFi",
   "tracks": [
-    {
-      "added_at": "2023-04-15 15:01:06",
-      "album": {
-        "name": "PS Anthem (From \u201cPonniyin Selvan Part-2\") [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/6uhMbJWjsISKJ9niglqKk6"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Nabyla Maan",
-          "url": "https://open.spotify.com/artist/11MBLpYXQnyoJN5wJ9NQhW"
-        }
-      ],
-      "duration_ms": 183212,
-      "name": "PS Anthem (From \u201cPonniyin Selvan Part-2\")",
-      "url": "https://open.spotify.com/track/4NWU1K9iYVMMBWSQvlZgSV"
-    },
     {
       "added_at": "2023-03-28 08:45:53",
       "album": {
@@ -55,6 +35,26 @@
       "duration_ms": 290816,
       "name": "Osarattum Pathu Thala (From \"Pathu Thala\")",
       "url": "https://open.spotify.com/track/1IevAM0Sl5iUIxGWDOXIar"
+    },
+    {
+      "added_at": "2023-04-15 15:01:06",
+      "album": {
+        "name": "PS Anthem (From \u201cPonniyin Selvan Part-2\") [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/6uhMbJWjsISKJ9niglqKk6"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Nabyla Maan",
+          "url": "https://open.spotify.com/artist/11MBLpYXQnyoJN5wJ9NQhW"
+        }
+      ],
+      "duration_ms": 183212,
+      "name": "PS Anthem (From \u201cPonniyin Selvan Part-2\")",
+      "url": "https://open.spotify.com/track/4NWU1K9iYVMMBWSQvlZgSV"
     },
     {
       "added_at": "2023-03-09 13:16:34",
@@ -193,6 +193,34 @@
       "url": "https://open.spotify.com/track/6LXffI6gZ5TIEF562fA4u6"
     },
     {
+      "added_at": "2023-04-17 12:24:53",
+      "album": {
+        "name": "Vaa Tharagaye (From \"Thiruvin Kural\")",
+        "url": "https://open.spotify.com/album/5YfK8vtbT2AWk6JM9h6gMx"
+      },
+      "artists": [
+        {
+          "name": "Sam C.S.",
+          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
+        },
+        {
+          "name": "Vairamuthu",
+          "url": "https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Abhijith Anilkumar",
+          "url": "https://open.spotify.com/artist/1WdTt5EOurwVpV5TzL6JiE"
+        }
+      ],
+      "duration_ms": 238417,
+      "name": "Vaa Tharagaye - From \"Thiruvin Kural\"",
+      "url": "https://open.spotify.com/track/4xfIuzftQmEm3gjzTHJRH5"
+    },
+    {
       "added_at": "2023-03-31 15:40:00",
       "album": {
         "name": "Thunder Kaaran (Promo Song) (From \"Veeran\") - Single",
@@ -215,6 +243,22 @@
       "duration_ms": 156763,
       "name": "Thunder Kaaran (Promo Song) (From \"Veeran\")",
       "url": "https://open.spotify.com/track/4XpcWXlyWijBdG2xOnh6nO"
+    },
+    {
+      "added_at": "2023-04-17 12:24:53",
+      "album": {
+        "name": "Rudhran (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1FgqlH8kFT2s9UV7UHGvUe"
+      },
+      "artists": [
+        {
+          "name": "Balaji Sri",
+          "url": "https://open.spotify.com/artist/2KWjaqJEQSeDUVHzG5gm90"
+        }
+      ],
+      "duration_ms": 306506,
+      "name": "Uyira Udala",
+      "url": "https://open.spotify.com/track/6TQHcdtkHojnP5yNqFASAz"
     },
     {
       "added_at": "2023-04-10 11:16:26",
@@ -347,6 +391,22 @@
       "duration_ms": 255096,
       "name": "Ninaivirukka (From \"Pathu Thala\")",
       "url": "https://open.spotify.com/track/1QFt7JduUhTeos7dNxPeHw"
+    },
+    {
+      "added_at": "2023-04-17 12:24:53",
+      "album": {
+        "name": "Rudhran (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1FgqlH8kFT2s9UV7UHGvUe"
+      },
+      "artists": [
+        {
+          "name": "Balaji Sri",
+          "url": "https://open.spotify.com/artist/2KWjaqJEQSeDUVHzG5gm90"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Kanaana Kanmani",
+      "url": "https://open.spotify.com/track/1etDTeTdBw6phYuXtxXMxw"
     },
     {
       "added_at": "2023-04-13 09:23:26",
@@ -509,30 +569,6 @@
       "url": "https://open.spotify.com/track/3yv73oHnXJOAmeqqLmREPU"
     },
     {
-      "added_at": "2023-04-06 12:03:39",
-      "album": {
-        "name": "Dhoom Dhaam (From \"Dasara\") - Tamil",
-        "url": "https://open.spotify.com/album/4mu7FeEKwUlcHTj5N9TxD5"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Santhosh Hariharan",
-          "url": "https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n"
-        },
-        {
-          "name": "Meenakshi Elayaraja",
-          "url": "https://open.spotify.com/artist/5daBau8I9vfgnEtu3UzA7M"
-        }
-      ],
-      "duration_ms": 242019,
-      "name": "Dhoom Dhaam",
-      "url": "https://open.spotify.com/track/03CC6SSI9i2E8BG3f1MvEs"
-    },
-    {
       "added_at": "2023-04-13 09:23:26",
       "album": {
         "name": "Kandom Sodhanthiram (From \"August 16 1947\") - Single",
@@ -575,30 +611,6 @@
       "duration_ms": 313272,
       "name": "Oh Meri Kwabidha - From \"Burqa\"",
       "url": "https://open.spotify.com/track/2DSMGBleST7mof3QCuEsTb"
-    },
-    {
-      "added_at": "2023-04-11 14:22:41",
-      "album": {
-        "name": "Manthirapetti (From \"Saandrithazh\")",
-        "url": "https://open.spotify.com/album/4aAKNclix1CFrglIlhyO30"
-      },
-      "artists": [
-        {
-          "name": "Rajalakshmi",
-          "url": "https://open.spotify.com/artist/041Z1VBL5OaPTlrlLTH7Pb"
-        },
-        {
-          "name": "Baiju Jacob",
-          "url": "https://open.spotify.com/artist/5vDVZD7qmHX9WujAfkUEzU"
-        },
-        {
-          "name": "Jayachandran aka JVR",
-          "url": "https://open.spotify.com/artist/7DZZ368tLsLWH6BnZqmCRC"
-        }
-      ],
-      "duration_ms": 248500,
-      "name": "Manthirapetti (From \"Saandrithazh\")",
-      "url": "https://open.spotify.com/track/4FpmJ3BcQ8pRCdGUE2denv"
     },
     {
       "added_at": "2023-04-13 09:01:02",
@@ -697,94 +709,6 @@
       "url": "https://open.spotify.com/track/6iolBQ6ZcLv6gDSo7NDLGX"
     },
     {
-      "added_at": "2023-04-03 11:43:10",
-      "album": {
-        "name": "Naan Gaali (From \"Good Night\")",
-        "url": "https://open.spotify.com/album/4AjbDxRpAqUcm6GObKKmnm"
-      },
-      "artists": [
-        {
-          "name": "Sean Roldan",
-          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
-        },
-        {
-          "name": "Mohan Rajan",
-          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
-        }
-      ],
-      "duration_ms": 270352,
-      "name": "Naan Gaali - From \"Good Night\"",
-      "url": "https://open.spotify.com/track/2jG1qOcH57ZAsWARKfminr"
-    },
-    {
-      "added_at": "2023-04-06 12:15:11",
-      "album": {
-        "name": "Music School (Tamil)",
-        "url": "https://open.spotify.com/album/2Y1gjl3OnR7xsEJekWhSdM"
-      },
-      "artists": [
-        {
-          "name": "Ilaiyaraaja",
-          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
-        },
-        {
-          "name": "Priya Mali",
-          "url": "https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM"
-        },
-        {
-          "name": "Sarath Santosh",
-          "url": "https://open.spotify.com/artist/4Qv21cLGHUxyffRHV7vaUp"
-        },
-        {
-          "name": "Hrithik Jayakish",
-          "url": "https://open.spotify.com/artist/1uyEDo5vVeOUdz0xbLBKb4"
-        },
-        {
-          "name": "Neha Girish",
-          "url": "https://open.spotify.com/artist/7j7JiRc4hgylqljp5gmKcv"
-        },
-        {
-          "name": "Padmaja Sreenivasan",
-          "url": "https://open.spotify.com/artist/5B9cyUBFtZz1XNbG2Kym1P"
-        },
-        {
-          "name": "R.S. Rakthaksh",
-          "url": "https://open.spotify.com/artist/6uyXHhG8E6UjDwqS0z3x8K"
-        }
-      ],
-      "duration_ms": 247712,
-      "name": "Mummy Sollum Vaarththa",
-      "url": "https://open.spotify.com/track/7BiJ6njQLS4MVmqH7eIDM1"
-    },
-    {
-      "added_at": "2023-04-05 09:46:15",
-      "album": {
-        "name": "Kottunga Da (From \"August 16 1947\") - Single",
-        "url": "https://open.spotify.com/album/6QghOsgjLTBbn9Kr8buYfu"
-      },
-      "artists": [
-        {
-          "name": "Ananthu",
-          "url": "https://open.spotify.com/artist/2UbN2AxPOv8kc1x4J4SGjc"
-        },
-        {
-          "name": "Manoj Krishna",
-          "url": "https://open.spotify.com/artist/6QtC2T2DmsEmFBQHkP1YkM"
-        },
-        {
-          "name": "Sean Roldan",
-          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
-        },
-        {
-          "name": "Mohan Raja",
-          "url": "https://open.spotify.com/artist/6vfsUqv5WFcV7v5SYne9ql"
-        }
-      ],
-      "duration_ms": 256333,
-      "name": "Kottunga Da (From \"August 16 1947\") - Single",
-      "url": "https://open.spotify.com/track/3UVMsk8iwBPZYjtoufbVC4"
-    },
-    {
       "added_at": "2023-02-03 19:56:57",
       "album": {
         "name": "Bloody Sweet (From \"Leo\")",
@@ -871,54 +795,6 @@
       "duration_ms": 237200,
       "name": "Namma Chennai Da",
       "url": "https://open.spotify.com/track/4BBOTgh7dU4bSnpTGA3Q5F"
-    },
-    {
-      "added_at": "2023-03-29 11:59:30",
-      "album": {
-        "name": "Engu Pogirome (From \"Kannai Nambathey\") - Single",
-        "url": "https://open.spotify.com/album/6GnT1zIXtWud9Az7FWTBHB"
-      },
-      "artists": [
-        {
-          "name": "Lakshmikanth M",
-          "url": "https://open.spotify.com/artist/6Goy3epqmrsTbPAipjhPKA"
-        },
-        {
-          "name": "Siddhu Kumar",
-          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
-        },
-        {
-          "name": "Vignesh Ramakrishna",
-          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
-        }
-      ],
-      "duration_ms": 72439,
-      "name": "Engu Pogirome (From \"Kannai Nambathey\")",
-      "url": "https://open.spotify.com/track/3piBD3LDGqXQJ9ZjjfW8z4"
-    },
-    {
-      "added_at": "2023-04-06 12:15:11",
-      "album": {
-        "name": "Azhage (From \"Racer\")",
-        "url": "https://open.spotify.com/album/4my4fkekOQPCF9GQrF1Wj0"
-      },
-      "artists": [
-        {
-          "name": "Sudarshan Ashok",
-          "url": "https://open.spotify.com/artist/2sSILAscwBbgmjmwlecoFA"
-        },
-        {
-          "name": "Satz Rex",
-          "url": "https://open.spotify.com/artist/5bZn4tSaTQs2qbfhWieQho"
-        },
-        {
-          "name": "Barath",
-          "url": "https://open.spotify.com/artist/5JbZGFVV0LcHrGgYAh1RHW"
-        }
-      ],
-      "duration_ms": 205396,
-      "name": "Azhage - From \"Racer\"",
-      "url": "https://open.spotify.com/track/1kIR8jpBOGWx39tf955Y10"
     },
     {
       "added_at": "2023-03-14 06:53:28",
@@ -1017,26 +893,6 @@
       "url": "https://open.spotify.com/track/3ZgY2Az8hgK2j4jujfNvKW"
     },
     {
-      "added_at": "2023-03-17 11:02:28",
-      "album": {
-        "name": "THUNAI VARUVEN",
-        "url": "https://open.spotify.com/album/2ohSAvOqBy5asjjw4lDQtn"
-      },
-      "artists": [
-        {
-          "name": "Jasleen Royal",
-          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
-        },
-        {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "THUNAI VARUVEN",
-      "url": "https://open.spotify.com/track/4oZmlHf9XmEJkTCjdM2S0i"
-    },
-    {
       "added_at": "2022-12-04 10:42:34",
       "album": {
         "name": "Thee Thalapathy (From \"Varisu\")",
@@ -1055,46 +911,6 @@
       "duration_ms": 258000,
       "name": "Thee Thalapathy (From \"Varisu\")",
       "url": "https://open.spotify.com/track/6TK7jseRCrogw9IzQYkw2h"
-    },
-    {
-      "added_at": "2023-02-28 09:45:08",
-      "album": {
-        "name": "Andhagan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0b24hWKT59Dn3ywu1TjRyO"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        }
-      ],
-      "duration_ms": 247456,
-      "name": "Yosichi Yosichi",
-      "url": "https://open.spotify.com/track/2hlLlookIkEFF8fVN0XmMl"
-    },
-    {
-      "added_at": "2022-11-10 12:41:32",
-      "album": {
-        "name": "Vaathi",
-        "url": "https://open.spotify.com/album/5G0ShngTfASzTfVDOSOM5p"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Shweta Mohan",
-          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
-        }
-      ],
-      "duration_ms": 225380,
-      "name": "Vaa Vaathi",
-      "url": "https://open.spotify.com/track/0cgwdBXXlPfXJXWf3wMs32"
     },
     {
       "added_at": "2023-03-14 06:47:02",
@@ -1131,54 +947,6 @@
       "duration_ms": 130363,
       "name": "Maaveeran Theme (From \"Maaveeran\")",
       "url": "https://open.spotify.com/track/1KnfuPUC6vmwhBeCilZ7IA"
-    },
-    {
-      "added_at": "2023-03-08 05:13:11",
-      "album": {
-        "name": "DADA (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7ox0X6W9rsoMdGLmjuBtfs"
-      },
-      "artists": [
-        {
-          "name": "Jen Martin",
-          "url": "https://open.spotify.com/artist/1jnYex347Mx1pD9r6JtNhO"
-        },
-        {
-          "name": "Sathya Narayanan",
-          "url": "https://open.spotify.com/artist/7sKSSqwOU36u2OD4nt0jFt"
-        },
-        {
-          "name": "Kidakuzhi Mariyammal",
-          "url": "https://open.spotify.com/artist/1FcvyZdMkasVx0hbIc6WCg"
-        },
-        {
-          "name": "Prarthana Sriram",
-          "url": "https://open.spotify.com/artist/7EdorwRDTYPcN7vkcWaEjm"
-        }
-      ],
-      "duration_ms": 306600,
-      "name": "DADA Song",
-      "url": "https://open.spotify.com/track/705o6seg8uSBkEPCi5RLcV"
-    },
-    {
-      "added_at": "2023-03-01 10:27:05",
-      "album": {
-        "name": "Pal Pal Pallanguzhi (from \"Kabzaa\") [Tamil]",
-        "url": "https://open.spotify.com/album/3Ek1NzGq3JP6DvXmYKOhIq"
-      },
-      "artists": [
-        {
-          "name": "Vagu Mazan",
-          "url": "https://open.spotify.com/artist/2HrVY7Ev6LS8I38EfJvMtV"
-        },
-        {
-          "name": "Arjun Vijay",
-          "url": "https://open.spotify.com/artist/148MlefZjMglgC4ni3EBpB"
-        }
-      ],
-      "duration_ms": 207679,
-      "name": "Pal Pal Pallanguzhi (from \"Kabzaa\") [Tamil]",
-      "url": "https://open.spotify.com/track/5rkrnjl80vz1g6O33VovTM"
     },
     {
       "added_at": "2023-03-08 05:13:11",
@@ -1235,30 +1003,6 @@
       "duration_ms": 168153,
       "name": "Celebration Of Varisu (From \"Varisu\")",
       "url": "https://open.spotify.com/track/3Feda69zjFHpUaJtJskq7N"
-    },
-    {
-      "added_at": "2022-11-05 12:06:49",
-      "album": {
-        "name": "Ranjithame (From \"Varisu\")",
-        "url": "https://open.spotify.com/album/6tspDejx5wSiwaF9ujyT7W"
-      },
-      "artists": [
-        {
-          "name": "Thalapathy Vijay",
-          "url": "https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm"
-        },
-        {
-          "name": "M.M.Manasi",
-          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
-        },
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        }
-      ],
-      "duration_ms": 287080,
-      "name": "Ranjithame (From \"Varisu\")",
-      "url": "https://open.spotify.com/track/1LbBOhicFmu7ktJqIHCELt"
     },
     {
       "added_at": "2022-12-25 07:16:10",
@@ -1415,70 +1159,6 @@
       "duration_ms": 103571,
       "name": "Muthuvel Pandian Theme (From \"Jailer\")",
       "url": "https://open.spotify.com/track/6Y4it0x4uP5rI0lv05ymk1"
-    },
-    {
-      "added_at": "2022-11-07 12:07:02",
-      "album": {
-        "name": "Love Today (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4thX43Eb58eteV7DriC6H0"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        }
-      ],
-      "duration_ms": 231913,
-      "name": "Ennai Vittu - Yuvanshankar Raja Version",
-      "url": "https://open.spotify.com/track/1iAtPaOSqv78DP4pvJWxTs"
-    },
-    {
-      "added_at": "2022-11-07 12:07:02",
-      "album": {
-        "name": "Love Today (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4thX43Eb58eteV7DriC6H0"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Pradeep Ranganathan",
-          "url": "https://open.spotify.com/artist/5Kx2ruxFSUGdqCG7kJtet1"
-        },
-        {
-          "name": "Savitha Reddy",
-          "url": "https://open.spotify.com/artist/0r9tuwwUaIN8e9xh19ZoWr"
-        },
-        {
-          "name": "A.U. Navin Krubhakar",
-          "url": "https://open.spotify.com/artist/666PYWUnhPbOc65Wzn745I"
-        }
-      ],
-      "duration_ms": 145600,
-      "name": "Mamakutty",
-      "url": "https://open.spotify.com/track/7FsAdgPI7Q9hATDOoyErm6"
-    },
-    {
-      "added_at": "2022-11-05 12:06:49",
-      "album": {
-        "name": "Ennai Vittu (From \"Love Today\")",
-        "url": "https://open.spotify.com/album/7u2XibFdWx7ru0qUKHgkOe"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 244669,
-      "name": "Ennai Vittu (From \"Love Today\")",
-      "url": "https://open.spotify.com/track/3LP4QpKptfe2yEC7oG5iNa"
     }
   ],
   "unique_name": "Latest Tamil",

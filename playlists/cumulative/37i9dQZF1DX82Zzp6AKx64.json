@@ -884,7 +884,7 @@
       ],
       "date_added": "2020-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 279066,
       "name": "Every Time I Look At You",
       "url": "https://open.spotify.com/track/0ute0e8bY0FmSEIqDfhrBJ"
@@ -1644,6 +1644,24 @@
       "duration_ms": 306560,
       "name": "I'll Never Let You Go",
       "url": "https://open.spotify.com/track/2GeCfHlX5hfFKcy1aICNwR"
+    },
+    {
+      "album": {
+        "name": "Steelheart",
+        "url": "https://open.spotify.com/album/5w6EjgZMLmZm7Z0EJJZ7PZ"
+      },
+      "artists": [
+        {
+          "name": "STEELHEART",
+          "url": "https://open.spotify.com/artist/0ecbvwhuhiEAWOLHlRXpqD"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306560,
+      "name": "I'll Never Let You Go",
+      "url": "https://open.spotify.com/track/43v1rIzI5SvzVvXsvI8F9j"
     },
     {
       "album": {

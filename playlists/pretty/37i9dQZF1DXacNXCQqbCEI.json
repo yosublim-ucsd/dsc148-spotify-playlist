@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 342566,
+  "num_followers": 342663,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ3MTQyNiwwMDAwMDAwMDZkZjVmMDFlOWJhMWFiNzM3ZjdlZjI1NmU1NTJiY2Ey",
+  "snapshot_id": "MTY3NjQ3MTQyNiwwMDAwMDAwMGNiNTM2MWRlYTljNzRlNTA2NGY1NTAyZDYwZjMzZDdl",
   "tracks": [
     {
       "added_at": "2023-02-13 21:09:56",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Ostriconi",
-        "url": "https://open.spotify.com/album/3SMp3cqUcv5x0GtKVyMAxd"
-      },
-      "artists": [
-        {
-          "name": "Yeahman",
-          "url": "https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA"
-        }
-      ],
-      "duration_ms": 285990,
-      "name": "Sakoneta",
-      "url": "https://open.spotify.com/track/3rTdacXE78kylGPegwCc3B"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Sonic Forest",
         "url": "https://open.spotify.com/album/0ImFvq53ujOAdclMey4dd6"
       },
@@ -379,6 +363,38 @@
       "duration_ms": 169094,
       "name": "Sonic Forest (D\u00e9jame Respirar)",
       "url": "https://open.spotify.com/track/6hreQzJujmQLr88N0fTLO3"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Ostriconi",
+        "url": "https://open.spotify.com/album/3SMp3cqUcv5x0GtKVyMAxd"
+      },
+      "artists": [
+        {
+          "name": "Yeahman",
+          "url": "https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA"
+        }
+      ],
+      "duration_ms": 285990,
+      "name": "Sakoneta",
+      "url": "https://open.spotify.com/track/3rTdacXE78kylGPegwCc3B"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Bennu",
+        "url": "https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo"
+      },
+      "artists": [
+        {
+          "name": "Thornato",
+          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
+        }
+      ],
+      "duration_ms": 222222,
+      "name": "Chapinero",
+      "url": "https://open.spotify.com/track/004JVePzMr05q3vP462QPa"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -411,22 +427,6 @@
       "duration_ms": 189569,
       "name": "Serpiente Dorada",
       "url": "https://open.spotify.com/track/1lAwqRBdQOnGltiX0oNm9I"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
-        "name": "Bennu",
-        "url": "https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo"
-      },
-      "artists": [
-        {
-          "name": "Thornato",
-          "url": "https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "Chapinero",
-      "url": "https://open.spotify.com/track/004JVePzMr05q3vP462QPa"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "NO VISA",
-        "url": "https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA"
-      },
-      "artists": [
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
-        }
-      ],
-      "duration_ms": 218626,
-      "name": "Ghost Dance",
-      "url": "https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Balnear",
         "url": "https://open.spotify.com/album/0HXvHufu18kcQI2xKTFhwO"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 213386,
       "name": "Solitario",
       "url": "https://open.spotify.com/track/3SutSEaiANvV7SSn4TEztA"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "NO VISA",
+        "url": "https://open.spotify.com/album/3XQC3DeLtnZaCMVMdbBVRA"
+      },
+      "artists": [
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
+        }
+      ],
+      "duration_ms": 218626,
+      "name": "Ghost Dance",
+      "url": "https://open.spotify.com/track/4n7OorABBVfxTI7vId6WtK"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Shika Shika / Botanas, Vol. 15",
-        "url": "https://open.spotify.com/album/6tFwiVNeI7Pdut9sWkgCXW"
-      },
-      "artists": [
-        {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
-        }
-      ],
-      "duration_ms": 249518,
-      "name": "Canario",
-      "url": "https://open.spotify.com/track/12KVTzqgU558xqkpsywKex"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Te Quiero Olvidar",
         "url": "https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 202519,
       "name": "Te Quiero Olvidar",
       "url": "https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Shika Shika / Botanas, Vol. 15",
+        "url": "https://open.spotify.com/album/6tFwiVNeI7Pdut9sWkgCXW"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "duration_ms": 249518,
+      "name": "Canario",
+      "url": "https://open.spotify.com/track/12KVTzqgU558xqkpsywKex"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
+        "name": "Shika Shika / Botanas, Vol. 15",
+        "url": "https://open.spotify.com/album/6tFwiVNeI7Pdut9sWkgCXW"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "duration_ms": 273846,
+      "name": "Presagio",
+      "url": "https://open.spotify.com/track/3Fstql1zF6ZsU1sOWBbfQK"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
         "name": "Otun",
         "url": "https://open.spotify.com/album/04o8fTvz7ZcMYVnIx0HAgv"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 205252,
       "name": "Otun (feat. Nidia Gongora)",
       "url": "https://open.spotify.com/track/6ytRVXrJru5ft3EqQSYsnN"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
-        "name": "Shika Shika / Botanas, Vol. 15",
-        "url": "https://open.spotify.com/album/6tFwiVNeI7Pdut9sWkgCXW"
-      },
-      "artists": [
-        {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
-        }
-      ],
-      "duration_ms": 273846,
-      "name": "Presagio",
-      "url": "https://open.spotify.com/track/3Fstql1zF6ZsU1sOWBbfQK"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Kuru Kuru",
-        "url": "https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP"
+        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3"
       },
       "artists": [
         {
-          "name": "Maajo",
-          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
+          "name": "Federico Estevez",
+          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
         }
       ],
-      "duration_ms": 311141,
-      "name": "Soma",
-      "url": "https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88"
+      "duration_ms": 144021,
+      "name": "Agujeros Blancos",
+      "url": "https://open.spotify.com/track/62fdnD6CHCJHQYwH2YOQw3"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2IGTlMn6hFIJCilXryWOp3"
+        "name": "Kuru Kuru",
+        "url": "https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP"
       },
       "artists": [
         {
-          "name": "Federico Estevez",
-          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
+          "name": "Maajo",
+          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
         }
       ],
-      "duration_ms": 144021,
-      "name": "Agujeros Blancos",
-      "url": "https://open.spotify.com/track/62fdnD6CHCJHQYwH2YOQw3"
+      "duration_ms": 311141,
+      "name": "Soma",
+      "url": "https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -1051,18 +1051,22 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Underwater Temples of Mahabalipuram",
-        "url": "https://open.spotify.com/album/1R1mrvSewIDG7aiLvrAKuN"
+        "name": "Ramas",
+        "url": "https://open.spotify.com/album/2s61LZqkxTwh3PNMxO6mYX"
       },
       "artists": [
         {
-          "name": "The Golden Islands",
-          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
         }
       ],
-      "duration_ms": 150588,
-      "name": "Underwater Temples of Mahabalipuram",
-      "url": "https://open.spotify.com/track/3qebe3F4sfNJLxbUBlMJnQ"
+      "duration_ms": 289502,
+      "name": "Resiliencia",
+      "url": "https://open.spotify.com/track/590gL4Fk4eHhLazuvVefLn"
     },
     {
       "added_at": "2023-02-13 21:09:56",

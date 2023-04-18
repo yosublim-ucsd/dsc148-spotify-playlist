@@ -1,12 +1,12 @@
 {
-  "description": "Back to the golden age of the scene. Cover: The Used",
-  "num_followers": 385172,
+  "description": "Back to the golden age of the scene. Cover: Underoath",
+  "num_followers": 385545,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAxOTIzMiwwMDAwMDAwMDE1ZTk4YmU0ZjBjZDI3OWU4NTA5YmRkNTAzYjQ2ZjQ1",
+  "snapshot_id": "MTY4MDAxOTIzMiwwMDAwMDAwMDhlZTdhNmZkZTlkNGFjMTFiNjc0MDk0MzRjZTJmNDkz",
   "tracks": [
     {
       "added_at": "2023-03-20 09:14:23",
@@ -255,38 +255,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "The Silence In Black And White (Re-Issue)",
-        "url": "https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 244480,
-      "name": "Ohio Is For Lovers",
-      "url": "https://open.spotify.com/track/23DHUWJ7iEieNPMPKvjzBV"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
-        "name": "Don't You Fake It",
-        "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
-      },
-      "artists": [
-        {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
-        }
-      ],
-      "duration_ms": 149640,
-      "name": "False Pretense",
-      "url": "https://open.spotify.com/track/2ZICF8SFI5tHttaLJKMY1X"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "Selfish Machines",
         "url": "https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q"
       },
@@ -303,6 +271,22 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
+        "name": "The Silence In Black And White (Re-Issue)",
+        "url": "https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 244480,
+      "name": "Ohio Is For Lovers",
+      "url": "https://open.spotify.com/track/23DHUWJ7iEieNPMPKvjzBV"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
         "name": "With Ears To See And Eyes To Hear",
         "url": "https://open.spotify.com/album/0AMC1Y0J0a5yN7lkOSWrJr"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 219106,
       "name": "If I'm James Dean, You're Audrey Hepburn",
       "url": "https://open.spotify.com/track/1wFRkVclQWfMQQcaVLjmBE"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "Don't You Fake It",
+        "url": "https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2"
+      },
+      "artists": [
+        {
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+        }
+      ],
+      "duration_ms": 149640,
+      "name": "False Pretense",
+      "url": "https://open.spotify.com/track/2ZICF8SFI5tHttaLJKMY1X"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "This War Is Ours (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 266733,
-      "name": "This War Is Ours (The Guillotine II)",
-      "url": "https://open.spotify.com/track/1z33QOn2Hcq9SfI5pES25L"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "All's Well That Ends Well",
         "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 264413,
       "name": "Yeah Boy and Doll Face",
       "url": "https://open.spotify.com/track/51rIDh0FOCNCFkdbtIOyU0"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "This War Is Ours (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "This War Is Ours (The Guillotine II)",
+      "url": "https://open.spotify.com/track/1z33QOn2Hcq9SfI5pES25L"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "All's Well That Ends Well",
-        "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
+        "name": "Somewhere at the Bottom of the River Between Vega and Altair (10th Anniversary)",
+        "url": "https://open.spotify.com/album/5fzDxefGUH8jM7T9HCLSNr"
       },
       "artists": [
         {
-          "name": "Chiodos",
-          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
+          "name": "La Dispute",
+          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
         }
       ],
-      "duration_ms": 216293,
-      "name": "The Words \"Best Friend\" Become Redefined",
-      "url": "https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3"
+      "duration_ms": 95586,
+      "name": "Such Small Hands",
+      "url": "https://open.spotify.com/track/31Hx0pInhn2tSq5gdhWv0d"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "Somewhere at the Bottom of the River Between Vega and Altair (10th Anniversary)",
-        "url": "https://open.spotify.com/album/5fzDxefGUH8jM7T9HCLSNr"
-      },
-      "artists": [
-        {
-          "name": "La Dispute",
-          "url": "https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W"
-        }
-      ],
-      "duration_ms": 95586,
-      "name": "Such Small Hands",
-      "url": "https://open.spotify.com/track/31Hx0pInhn2tSq5gdhWv0d"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "The Art Of Drowning",
         "url": "https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 207693,
       "name": "The Days Of The Phoenix",
       "url": "https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "All's Well That Ends Well",
+        "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
+      },
+      "artists": [
+        {
+          "name": "Chiodos",
+          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "The Words \"Best Friend\" Become Redefined",
+      "url": "https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "On Letting Go",
-        "url": "https://open.spotify.com/album/4Chn7XF8fzngf9GPfTMXLz"
-      },
-      "artists": [
-        {
-          "name": "Circa Survive",
-          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
-        }
-      ],
-      "duration_ms": 257693,
-      "name": "The Difference Between Medicine And Poison Is In The Dose",
-      "url": "https://open.spotify.com/track/3SizB9Beb0HZHww3PjoXbQ"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "If Only You Were Lonely",
         "url": "https://open.spotify.com/album/2EthcuI1HKMfZC6CeC3RHq"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 187680,
       "name": "Saying Sorry",
       "url": "https://open.spotify.com/track/3tNF4ktNoFYVbzd5LAgfMY"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "On Letting Go",
+        "url": "https://open.spotify.com/album/4Chn7XF8fzngf9GPfTMXLz"
+      },
+      "artists": [
+        {
+          "name": "Circa Survive",
+          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
+        }
+      ],
+      "duration_ms": 257693,
+      "name": "The Difference Between Medicine And Poison Is In The Dose",
+      "url": "https://open.spotify.com/track/3SizB9Beb0HZHww3PjoXbQ"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "Still Searching",
-        "url": "https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B"
-      },
-      "artists": [
-        {
-          "name": "Senses Fail",
-          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Calling All Cars",
-      "url": "https://open.spotify.com/track/6fgsRsszz3omU60YckE5ah"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "\"Watch out!\"",
         "url": "https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd"
       },
@@ -875,22 +859,6 @@
       "duration_ms": 249066,
       "name": "Accidents",
       "url": "https://open.spotify.com/track/1FuZJZqUWbwpqwbT8eESfR"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
-        "name": "Juturna",
-        "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
-      },
-      "artists": [
-        {
-          "name": "Circa Survive",
-          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Act Appalled",
-      "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -927,22 +895,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "The Emptiness",
-        "url": "https://open.spotify.com/album/4HOobzcnXNTNaKxP2MIBrg"
-      },
-      "artists": [
-        {
-          "name": "Alesana",
-          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
-        }
-      ],
-      "duration_ms": 237840,
-      "name": "The Thespian",
-      "url": "https://open.spotify.com/track/2JPe6EP1iDsVwiPHwvhik0"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "The Illusion of Safety",
         "url": "https://open.spotify.com/album/1FPafRXRCsX5ZDhL16Qlyc"
       },
@@ -959,6 +911,38 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
+        "name": "Still Searching",
+        "url": "https://open.spotify.com/album/4J1JNPuYZR6zQMl7I66Z6B"
+      },
+      "artists": [
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Calling All Cars",
+      "url": "https://open.spotify.com/track/6fgsRsszz3omU60YckE5ah"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "Juturna",
+        "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
+      },
+      "artists": [
+        {
+          "name": "Circa Survive",
+          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Act Appalled",
+      "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
         "name": "Wildlife",
         "url": "https://open.spotify.com/album/4BDDKxyTMgE1UZh7Wzdx28"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 414925,
       "name": "King Park",
       "url": "https://open.spotify.com/track/1mwvhdWyZruSSMhvOWbfCv"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "The Emptiness",
+        "url": "https://open.spotify.com/album/4HOobzcnXNTNaKxP2MIBrg"
+      },
+      "artists": [
+        {
+          "name": "Alesana",
+          "url": "https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg"
+        }
+      ],
+      "duration_ms": 237840,
+      "name": "The Thespian",
+      "url": "https://open.spotify.com/track/2JPe6EP1iDsVwiPHwvhik0"
     },
     {
       "added_at": "2023-03-20 09:14:23",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "The Sufferer & The Witness",
-        "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "Ready To Fall",
-      "url": "https://open.spotify.com/track/2r1yo1u0PHegpetacdrHh2"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "Bone Palace Ballet: Grand Coda",
         "url": "https://open.spotify.com/album/6hRCJsYR4b3S2WAtrV29Hk"
       },
@@ -1071,22 +1055,6 @@
     {
       "added_at": "2023-03-20 09:14:23",
       "album": {
-        "name": "His Last Walk",
-        "url": "https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM"
-      },
-      "artists": [
-        {
-          "name": "blessthefall",
-          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "Guys Like You Make Us Look Bad",
-      "url": "https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq"
-    },
-    {
-      "added_at": "2023-03-20 09:14:23",
-      "album": {
         "name": "Try This With Your Eyes Closed",
         "url": "https://open.spotify.com/album/0UqeJDOoeBuikFNW2NX6VD"
       },
@@ -1099,6 +1067,38 @@
       "duration_ms": 249613,
       "name": "Apology",
       "url": "https://open.spotify.com/track/6hNA4yDJr0hGn0TlnmRVUQ"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "The Sufferer & The Witness",
+        "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 227706,
+      "name": "Ready To Fall",
+      "url": "https://open.spotify.com/track/2r1yo1u0PHegpetacdrHh2"
+    },
+    {
+      "added_at": "2023-03-20 09:14:23",
+      "album": {
+        "name": "His Last Walk",
+        "url": "https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM"
+      },
+      "artists": [
+        {
+          "name": "blessthefall",
+          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
+        }
+      ],
+      "duration_ms": 235640,
+      "name": "Guys Like You Make Us Look Bad",
+      "url": "https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq"
     },
     {
       "added_at": "2023-03-20 09:14:23",

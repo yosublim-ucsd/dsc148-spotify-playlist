@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: Joe Flizzow",
-  "num_followers": 60904,
+  "num_followers": 60912,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDcyNjI3YTgwNmMxOWU5ODEzNGQyYmIxZGYwM2E2YjIx",
+  "snapshot_id": "MTY4MTY5ODg2OSwwMDAwMDAwMDg1ZWFmYjczMWY4NTRkYmE0OWNmYjcyOGRmM2E4Yjc4",
   "tracks": [
     {
       "added_at": "2023-04-13 16:14:09",
@@ -1503,26 +1503,6 @@
       "duration_ms": 199480,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/0aV1vgO3zZfGSiYkSHD56x"
-    },
-    {
-      "added_at": "2023-04-13 16:14:09",
-      "album": {
-        "name": "People Pt.2 (feat. IU)",
-        "url": "https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo"
-      },
-      "artists": [
-        {
-          "name": "Agust D",
-          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
-        },
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 213995,
-      "name": "People Pt.2 (feat. IU)",
-      "url": "https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF"
     }
   ],
   "unique_name": "New Music Friday Malaysia",

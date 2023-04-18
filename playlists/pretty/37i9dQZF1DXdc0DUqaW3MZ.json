@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 300645,
+  "num_followers": 300755,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMGQ2YTM4NjFjMDkxZjNkN2RmMjJmZDk0ZjEyZDIwNTkz",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMGQ1MGQyOTkxMDc1OWRmZjllYjQ3M2Q5Nzg5ZTlkY2Iy",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -383,18 +383,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Downers",
-        "url": "https://open.spotify.com/album/1luS1QdwBrhQzsnbJlyySt"
+        "name": "Kosmos",
+        "url": "https://open.spotify.com/album/7wTZWtC5Rbu7YgNLn1GdUP"
       },
       "artists": [
         {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+          "name": "J Lloyd",
+          "url": "https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1"
         }
       ],
-      "duration_ms": 218888,
-      "name": "Downers",
-      "url": "https://open.spotify.com/track/1fnU60yGjhsP1QY335rH2m"
+      "duration_ms": 61280,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/283hwD1gWItqQGJ4e2ImE8"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -415,18 +415,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Kosmos",
-        "url": "https://open.spotify.com/album/7wTZWtC5Rbu7YgNLn1GdUP"
+        "name": "Downers",
+        "url": "https://open.spotify.com/album/1luS1QdwBrhQzsnbJlyySt"
       },
       "artists": [
         {
-          "name": "J Lloyd",
-          "url": "https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1"
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
         }
       ],
-      "duration_ms": 61280,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/283hwD1gWItqQGJ4e2ImE8"
+      "duration_ms": 218888,
+      "name": "Downers",
+      "url": "https://open.spotify.com/track/1fnU60yGjhsP1QY335rH2m"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Mr. Sun (miss da sun)",
-        "url": "https://open.spotify.com/album/4GnTrP3MNkopc3NRopSPGS"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "Mr. Sun (miss da sun)",
-      "url": "https://open.spotify.com/track/2NHVRc2gml9maFMHRgIC0y"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "ADOLESCENCE",
         "url": "https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH"
       },
@@ -527,18 +511,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Baby Face",
-        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
+        "name": "Mr. Sun (miss da sun)",
+        "url": "https://open.spotify.com/album/4GnTrP3MNkopc3NRopSPGS"
       },
       "artists": [
         {
-          "name": "Porij",
-          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
         }
       ],
-      "duration_ms": 219083,
-      "name": "Nobody Scared",
-      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
+      "duration_ms": 223533,
+      "name": "Mr. Sun (miss da sun)",
+      "url": "https://open.spotify.com/track/2NHVRc2gml9maFMHRgIC0y"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -555,6 +539,22 @@
       "duration_ms": 264710,
       "name": "Young Love",
       "url": "https://open.spotify.com/track/4UpBPaIMx7OoFpjeNdXfMn"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Baby Face",
+        "url": "https://open.spotify.com/album/03ED4VmMZWk0WfEqkNjhUe"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "duration_ms": 219083,
+      "name": "Nobody Scared",
+      "url": "https://open.spotify.com/track/4kSOiZOW85gDgPMKVmnNVC"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -791,26 +791,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "We Are",
-        "url": "https://open.spotify.com/album/15Q6QHhdfU3q7hFLVPqMps"
-      },
-      "artists": [
-        {
-          "name": "2fox",
-          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
-        },
-        {
-          "name": "Afronaut Zu",
-          "url": "https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ"
-        }
-      ],
-      "duration_ms": 255500,
-      "name": "We Are",
-      "url": "https://open.spotify.com/track/6s5AiGzj0il15KrBOlOKp6"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Believe (feat. Fredwave & Jeshi)",
         "url": "https://open.spotify.com/album/0u1IdlsVv5D33d3aPKEZrL"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 173420,
       "name": "LowKey (feat. Jayd Ink)",
       "url": "https://open.spotify.com/track/1esyt62pq02xPShuaK5OpA"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "We Are",
+        "url": "https://open.spotify.com/album/15Q6QHhdfU3q7hFLVPqMps"
+      },
+      "artists": [
+        {
+          "name": "2fox",
+          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
+        },
+        {
+          "name": "Afronaut Zu",
+          "url": "https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ"
+        }
+      ],
+      "duration_ms": 255500,
+      "name": "We Are",
+      "url": "https://open.spotify.com/track/6s5AiGzj0il15KrBOlOKp6"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/3LjaQJxClcafNQjSNwJytA"
-      },
-      "artists": [
-        {
-          "name": "Ayelle",
-          "url": "https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF"
-        }
-      ],
-      "duration_ms": 239178,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/2cXOqys4hyhCdwy4qp6hYD"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "What Kinda Music (Bonus Tracks)",
         "url": "https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2"
       },
@@ -1271,6 +1255,26 @@
       "duration_ms": 189683,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "La Linda",
+        "url": "https://open.spotify.com/album/36BV0UIqHyq9RG7a2Q0x0K"
+      },
+      "artists": [
+        {
+          "name": "Tei Shi",
+          "url": "https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL"
+        },
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "duration_ms": 250920,
+      "name": "Even If It Hurts (feat. Blood Orange)",
+      "url": "https://open.spotify.com/track/3awUAAKKgqpvQUKSxvcqYM"
     },
     {
       "added_at": "2022-06-20 14:19:42",

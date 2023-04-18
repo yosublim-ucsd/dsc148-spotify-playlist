@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,155 songs - 5 day 3 hr 52 min
+2,156 songs - 5 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Breathe Down \(Remix\)](https://open.spotify.com/track/44yhsQmjHvsDpYQbsgvWfY) | [Kira Rizavi](https://open.spotify.com/artist/5nZkybKpjeomEBzD2p5MP4) | [Breathe Down \(Remix\)](https://open.spotify.com/album/4OLLpsyZ8zdFNHtRbX3QFj) | 3:17 | 2022-02-18 | 2022-03-07 |
 | [Bremfields](https://open.spotify.com/track/0mpcVfGV7jZGXZGDC6kZUl) | [Driftwood.](https://open.spotify.com/artist/2QQ0v1cmktl5dR4cKXjpEB), [Still Greedy](https://open.spotify.com/artist/7mqIvYJVqkaRyum6QsEUEN) | [Bremfields](https://open.spotify.com/album/2jn1VIUAExHMcrX7iojirQ) | 3:52 | 2022-01-20 | 2022-02-08 |
 | [Bright](https://open.spotify.com/track/7BAUtkWAdGoFLbFbjdqMfr) | [liquidfive](https://open.spotify.com/artist/5N8lMhIyJ5Qtasb02tmK47) | [Bright](https://open.spotify.com/album/6uNRomKIuONC2y8ljKqvQV) | 2:39 | 2021-06-19 | 2021-07-04 |
+| [Bring On The Rain](https://open.spotify.com/track/1GbOsJIOKcxek838AvxYI6) | [PEP SAMMARTINO](https://open.spotify.com/artist/05G2yJEqbjhaBKN0pk4urS) | [Bring On The Rain](https://open.spotify.com/album/4YhFg9BuYVOVrrYFxVfYe2) | 4:00 | 2023-04-18 |  |
 | [broken wïngs](https://open.spotify.com/track/2v4hQFpwsAaww9cdejQEBG) | [BÖBE](https://open.spotify.com/artist/7EDnFpwVQRaREGbgWNzozn) | [poïsoned paradïse](https://open.spotify.com/album/5RMc7t6jHImV8D4jawkgXq) | 3:30 | 2023-02-17 | 2023-03-18 |
 | [Brother](https://open.spotify.com/track/7AorDFAFIecmBhx6ujIhZX) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Factory](https://open.spotify.com/album/7wjxLYyRqGzKjjXiaTs9WH) | 3:18 | 2021-12-02 | 2021-12-20 |
 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 | 2019-09-29\* | 2021-11-19 |

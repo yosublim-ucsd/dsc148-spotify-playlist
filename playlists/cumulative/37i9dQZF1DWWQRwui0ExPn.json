@@ -2856,7 +2856,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 125482,
       "name": "Afternoon Delights",
       "url": "https://open.spotify.com/track/7cCGuiJep20pOEGfNHAKpz"
@@ -14154,7 +14154,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 137187,
       "name": "b\u0103ng chuy\u1ec1n",
       "url": "https://open.spotify.com/track/7pOER4lDtIjMxeVImNK2P6"
@@ -25096,7 +25096,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 136744,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/6gZdnEbTKUy3VAi0hembPL"
@@ -37540,7 +37540,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 159562,
       "name": "Gold Sun",
       "url": "https://open.spotify.com/track/0K4EXTsQWJFWXWpW9CLgzD"
@@ -73573,6 +73573,28 @@
     },
     {
       "album": {
+        "name": "Pretty Birds",
+        "url": "https://open.spotify.com/album/4huHLIGS9GUNjkHChOTIAb"
+      },
+      "artists": [
+        {
+          "name": "DRWN.",
+          "url": "https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy"
+        },
+        {
+          "name": "dhar\u0101",
+          "url": "https://open.spotify.com/artist/1M6OZtIOe8HhLXuGy8djF6"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123178,
+      "name": "Pretty Birds",
+      "url": "https://open.spotify.com/track/3KwszaXnBJJExWG0MRmsRW"
+    },
+    {
+      "album": {
         "name": "Pretty Woman",
         "url": "https://open.spotify.com/album/3C2z3Fkxzs1s3rqXSzGIyn"
       },
@@ -86410,7 +86432,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 138000,
       "name": "space jazz",
       "url": "https://open.spotify.com/track/5JngOFWX3RuNDAhxbofBht"
@@ -86998,6 +87020,24 @@
       "duration_ms": 181317,
       "name": "Spring kisses",
       "url": "https://open.spotify.com/track/6NXd3WApHhpjZGYyJ8Uzwm"
+    },
+    {
+      "album": {
+        "name": "Spring Loop",
+        "url": "https://open.spotify.com/album/0Rp7PkblANJsTtONv1MGmQ"
+      },
+      "artists": [
+        {
+          "name": "Bobby Dreamz BIG",
+          "url": "https://open.spotify.com/artist/3WEutW4SLc7V9PiKTDM7bD"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124556,
+      "name": "Spring Loop",
+      "url": "https://open.spotify.com/track/2q8jQMT5B7HhiKuLkm2JPO"
     },
     {
       "album": {
@@ -88222,7 +88262,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 143572,
       "name": "Strange Effect",
       "url": "https://open.spotify.com/track/3lKq4yMNV2eZXTb5AgQFY3"

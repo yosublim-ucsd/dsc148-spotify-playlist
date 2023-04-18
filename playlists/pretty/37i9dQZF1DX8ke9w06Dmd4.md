@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ke9w06Dmd4.md) - [plain]
 
 > JTBC's Crossover Men's Quartet Project <Phantom Singer> Official Playlist\. \(JTBC의 크로스오버 남성 4중창 프로젝트 '팬텀싱어'의 공식 플레이리스트입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,001 likes - 168 songs - 14 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,012 likes - 168 songs - 14 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

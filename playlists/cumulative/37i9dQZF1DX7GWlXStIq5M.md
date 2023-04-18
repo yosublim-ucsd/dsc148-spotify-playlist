@@ -2,9 +2,9 @@
 
 ### [Palco POP](https://open.spotify.com/playlist/37i9dQZF1DX7GWlXStIq5M)
 
-> Os hits já consagrados e os novos nomes do pop dividindo o mesmo palco!   / Foto: Priscilla Alcantara
+> Os hits já consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Priscilla Alcantara
 
-378 songs - 20 hr 15 min
+379 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Máquina do Tempo](https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Máquina do Tempo](https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6) | 3:50 | 2020-10-20 | 2023-02-15 |
 | [Na Onda](https://open.spotify.com/track/0yNT55PxVoLMHb75JaF2s0) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Na Onda](https://open.spotify.com/album/3Vj7xdxkZg832MNCRvongO) | 3:19 | 2020-10-20 | 2022-07-26 |
 | [Na Rebolada](https://open.spotify.com/track/6pZgVujok602Yqjvo1safZ) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Maikinho DJ](https://open.spotify.com/artist/4fjI8I30Qwk0hOKr8jNvEh) | [Na Rebolada](https://open.spotify.com/album/2CVG0U36vNbgaBaRCUa8j3) | 2:18 | 2023-04-14 |  |
+| [Na Sua](https://open.spotify.com/track/5Wwap1q83am8aMJMo4mjDs) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Na Sua](https://open.spotify.com/album/4rUcoz67PBYnscDJFS0hi8) | 3:05 | 2023-04-17 |  |
 | [nada contra \(ciúme\)](https://open.spotify.com/track/1unDZmI0EXHaZ7FWugXSqC) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [nada contra \(ciúme\)](https://open.spotify.com/album/4eQOYhDped8j3q2tZHVdM0) | 2:22 | 2023-02-14 |  |
 | [NADA DISSO É PRA VOCÊ](https://open.spotify.com/track/7a30Lj1vs4veG8SC3GlLn1) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [NADA DISSO É PRA VOCÊ](https://open.spotify.com/album/5epqdTqnj8n5MzG1F5HuJt) | 3:12 | 2023-02-14 | 2023-03-03 |
 | [NANANI NANÃO](https://open.spotify.com/track/2aruxtZqyHLdm7X3XJv7lL) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m), [X Sem Peita](https://open.spotify.com/artist/082vDMJAfkNZ3U13mjBYfY), [Luiz Brazil](https://open.spotify.com/artist/4eVBI7aLNfxuynEDNki3wk) | [NANANI NANÃO](https://open.spotify.com/album/17qu6cauxhF0yARt5aaLvT) | 2:33 | 2023-02-14 | 2023-03-18 |
@@ -256,7 +257,7 @@
 | [paixão vs amor](https://open.spotify.com/track/739cbHTqihOPlsGal5yfOk) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [paixão vs amor](https://open.spotify.com/album/50tRqPMQ0sUUXX4CKUXoHB) | 2:44 | 2023-02-14 |  |
 | [pantera](https://open.spotify.com/track/6SgwJ1u5mkWWCG3Cvw11x8) | [ZOO](https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH) | [Pantera](https://open.spotify.com/album/5QStCkR4isxn3C9HPJXGe0) | 2:07 | 2023-02-14 | 2023-04-09 |
 | [Paralisou](https://open.spotify.com/track/5EsT3BhrGtI4u90k37IbnA) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Paralisou](https://open.spotify.com/album/3i5ahqN1S1KW07SmrC6YQU) | 3:05 | 2020-10-20 | 2022-07-24 |
-| [Perdidão](https://open.spotify.com/track/3WhmWO1hQYOl3xBqiSSqPx) | [Pri Pach](https://open.spotify.com/artist/0HjP0FywphjmwI2T2Pcy2H) | [Perdidão](https://open.spotify.com/album/64O18RVul0ZJ5pEMvcB4zc) | 2:34 | 2023-02-14 |  |
+| [Perdidão](https://open.spotify.com/track/3WhmWO1hQYOl3xBqiSSqPx) | [Pri Pach](https://open.spotify.com/artist/0HjP0FywphjmwI2T2Pcy2H) | [Perdidão](https://open.spotify.com/album/64O18RVul0ZJ5pEMvcB4zc) | 2:34 | 2023-02-14 | 2023-04-18 |
 | [Perfume](https://open.spotify.com/track/4ZREaPhlA5mqZMFTSQBfzw) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp), [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Perfume](https://open.spotify.com/album/5WDimSewWqftfbYKtKcWiU) | 3:24 | 2020-10-20 | 2022-07-29 |
 | [perigo !!!](https://open.spotify.com/track/20I1YGkQ5DSBrPK2Xlgkb1) | [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [Felipe Phyre](https://open.spotify.com/artist/1WSSOsnMl5OIaxB7xrY9dc) | [facetime](https://open.spotify.com/album/6kZxUbWswaoQjvBevsLaTN) | 3:01 | 2023-02-14 | 2023-03-25 |
 | [Pilantra](https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pilantra](https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K) | 3:12 | 2023-03-13 |  |
@@ -275,7 +276,7 @@
 | [Porsche](https://open.spotify.com/track/7fO8Ok3rByqDqGc0MmBsj9) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Porsche](https://open.spotify.com/album/78GkqDrHMgb9Fl1ovYfBuP) | 2:39 | 2020-10-20 | 2022-07-29 |
 | [Pra Lá de Bagdá](https://open.spotify.com/track/46J2U8ewcEwAWmu9uj2dy8) | [Sadness :c](https://open.spotify.com/artist/5pvKSKOm1QGAf5BZoD9WEr), [Griml0k](https://open.spotify.com/artist/5nu42SRKx0vVc4wwOTiq7u), [Sonun](https://open.spotify.com/artist/3qGEW1rw4ehiyz3ySwTxMZ) | [Pra Lá de Bagdá](https://open.spotify.com/album/1eJ59THKDjefHpU3k3I325) | 2:31 | 2023-02-14 | 2023-04-09 |
 | [Pra Te Convencer](https://open.spotify.com/track/3Vm5NxQWmQ5ozZpIJHjFaH) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Pra Te Convencer](https://open.spotify.com/album/4iKDTY4YzOLLhUqzDN7Lep) | 3:42 | 2020-10-20 | 2022-07-29 |
-| [Pra Você e pra Mim](https://open.spotify.com/track/2KG5nqBRLLYbPNs29tOUu2) | [Tayla Duarte](https://open.spotify.com/artist/3Uw5WlCi6laD8Wn9CBc3lY), [Arielly Porto](https://open.spotify.com/artist/0L6X54dt5wVN8arWfyN1v1) | [Pra Você e pra Mim](https://open.spotify.com/album/0ISog7zlptbjsJZvvuMg0X) | 2:25 | 2023-02-14 |  |
+| [Pra Você e pra Mim](https://open.spotify.com/track/2KG5nqBRLLYbPNs29tOUu2) | [Tayla Duarte](https://open.spotify.com/artist/3Uw5WlCi6laD8Wn9CBc3lY), [Arielly Porto](https://open.spotify.com/artist/0L6X54dt5wVN8arWfyN1v1) | [Pra Você e pra Mim](https://open.spotify.com/album/0ISog7zlptbjsJZvvuMg0X) | 2:25 | 2023-02-14 | 2023-04-18 |
 | [Praga](https://open.spotify.com/track/0KjcUsvsAFjDrcfkT1wLSE) | [Davi Bandeira](https://open.spotify.com/artist/3qinG2yx6n5OipjLIKPJ68) | [Praga](https://open.spotify.com/album/7tiNV3bFQQLZ84sKp2kWXp) | 2:20 | 2023-02-14 | 2023-04-09 |
 | [Praya](https://open.spotify.com/track/5yXjOmgTVSE3zXP1B3WP4F) | [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp), [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [White Monkey Recordings](https://open.spotify.com/artist/4aOhi7PfTjBW439bBhH0J4) | [Praya](https://open.spotify.com/album/7AOWA9hP6GbSzGBFjqcVPh) | 2:45 | 2020-10-20 | 2022-07-29 |
 | [Primeira Vez](https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [Primeira Vez](https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6) | 3:13 | 2023-02-14 |  |

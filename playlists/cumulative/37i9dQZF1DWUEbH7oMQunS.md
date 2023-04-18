@@ -4,7 +4,7 @@
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-82 songs - 5 hr 48 min
+83 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Jesus Is\_\_\_.](https://open.spotify.com/track/1ilsVjIPYIxPyjunBeDFLP) | [The City Church](https://open.spotify.com/artist/6HWUXnbMgWLWzkQAiTb4MZ) | [Jesus Is\_\_\_\. Music Project](https://open.spotify.com/album/05hvkkM29nIor7aT515II2) | 4:37 | 2018-02-14 |  |
 | [Kani \(Day\)](https://open.spotify.com/track/5h5CZG6DA94wk4lkf0a3bc) | [Porya Hatami](https://open.spotify.com/artist/6qGn1dMbzeGodjzNfzG4gZ) | [Kani](https://open.spotify.com/album/17gT7g6MJFP9JVAGYewSao) | 8:57 | 2018-02-14 |  |
 | [Leaving Safe Places](https://open.spotify.com/track/5atbh6Zl7HLrtu50KNEjAc) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Awakening](https://open.spotify.com/album/5ZepsoS1zp9MHxH27TQqgm) | 4:06 | 2018-02-14 |  |
-| [Letters](https://open.spotify.com/track/0cqSEpg2nYbneh7RGNrDcp) | [LaPeer](https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc) | ['90s Kids](https://open.spotify.com/album/5m0Qi0Nb6i8sQSqUu6HL69) | 3:26 | 2018-07-07 |  |
+| [Letters](https://open.spotify.com/track/0cqSEpg2nYbneh7RGNrDcp) | [LaPeer](https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc) | ['90s Kids](https://open.spotify.com/album/5m0Qi0Nb6i8sQSqUu6HL69) | 3:26 | 2018-07-07 | 2023-04-18 |
+| [Letters](https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8) | [LaPeer](https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc) | ['90s Kids](https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h) | 3:26 | 2023-02-07 |  |
 | [Like a Fire \(feat\. Steffany Gretzinger\)](https://open.spotify.com/track/67CPUTw6oKStnmrIc0En6p) | [Sean Feucht](https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [The Things We Did at First](https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh) | 6:32 | 2018-02-14 |  |
 | [Lord I need You](https://open.spotify.com/track/2UYvWrbew5Bbb6PchbU4t4) | [Holy Communion Instrumental Duo](https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr) | [Contemporary Worship Hits](https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0) | 2:59 | 2018-02-14 |  |
 | [Lord I Need You](https://open.spotify.com/track/6eEqMhbiCFUyJYq37x3TEu) | [Holy Communion Instrumental Duo](https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr) | [Contemporary Worship Hits](https://open.spotify.com/album/7g1PlQ8FKj3oqvaBHkQTSB) | 2:59 | 2018-02-14 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 178160,
+  "num_followers": 178252,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMDViMWFlNjYyZmVjMmJjY2E4YzlhZTdlODhhMzhhMmVk",
+  "snapshot_id": "MTY3NjYxMDA2MCwwMDAwMDAwMGM3OWI2MGI0MDQyYjI3ODllZGExMmMyOTdmYWJjNmRj",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -449,22 +449,6 @@
       "url": "https://open.spotify.com/track/3v8uNBWOvtNTyzzEMvQ2K1"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Empire Central",
-        "url": "https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA"
-      },
-      "artists": [
-        {
-          "name": "Snarky Puppy",
-          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
-        }
-      ],
-      "duration_ms": 292314,
-      "name": "Fuel City",
-      "url": "https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "The Brecker Bros",
@@ -479,6 +463,22 @@
       "duration_ms": 350506,
       "name": "Some Skunk Funk",
       "url": "https://open.spotify.com/track/4cJC5AjLjRUH2qtemrqLbD"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Empire Central",
+        "url": "https://open.spotify.com/album/17sDfQwRab5dr2aVsgu1IA"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "duration_ms": 292314,
+      "name": "Fuel City",
+      "url": "https://open.spotify.com/track/4xUGsswMzuR9ydcOwKkLyw"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
+        "name": "Letter from Home",
+        "url": "https://open.spotify.com/album/1lI7eqGgfNK73apQo4siJY"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny Group",
+          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
+        }
+      ],
+      "duration_ms": 385866,
+      "name": "Have You Heard",
+      "url": "https://open.spotify.com/track/73XavwM8RbuKL60jswYOWb"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
         "name": "The Bass-ic Collection",
         "url": "https://open.spotify.com/album/7hgSfIM3LS53U3i122ErOM"
       },
@@ -1149,22 +1165,6 @@
       "url": "https://open.spotify.com/track/1PHkwus4CNhHE17xM8k5Fx"
     },
     {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N"
-      },
-      "artists": [
-        {
-          "name": "corto.alto",
-          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
-        }
-      ],
-      "duration_ms": 288909,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Mondo Garaj",
@@ -1179,6 +1179,22 @@
       "duration_ms": 333413,
       "name": "Mondo Garaj",
       "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
+    },
+    {
+      "added_at": "2021-11-12 05:01:00",
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/7nwybWJehSYiHpwJUtV30N"
+      },
+      "artists": [
+        {
+          "name": "corto.alto",
+          "url": "https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH"
+        }
+      ],
+      "duration_ms": 288909,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/5zgN7UMueNQAlgZX6bms4w"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1211,22 +1227,6 @@
       "duration_ms": 1707435,
       "name": "Go Ahead John (2022 Remaster)",
       "url": "https://open.spotify.com/track/7dZkodGCc6Z0fTCbB1k5Ue"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Letter from Home",
-        "url": "https://open.spotify.com/album/1lI7eqGgfNK73apQo4siJY"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny Group",
-          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
-        }
-      ],
-      "duration_ms": 385866,
-      "name": "Have You Heard",
-      "url": "https://open.spotify.com/track/73XavwM8RbuKL60jswYOWb"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Ugh",
-        "url": "https://open.spotify.com/album/7iNL3YVUTgEATEd1dU5s1q"
-      },
-      "artists": [
-        {
-          "name": "Ebi Soda",
-          "url": "https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU"
-        }
-      ],
-      "duration_ms": 262646,
-      "name": "Keisha Billip",
-      "url": "https://open.spotify.com/track/0CUs0BnOHeHz5BZGJRlvVY"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Sand",
         "url": "https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 325040,
       "name": "Sand",
       "url": "https://open.spotify.com/track/7Az1OfChyqxH7B5j3vGrBX"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Ugh",
+        "url": "https://open.spotify.com/album/7iNL3YVUTgEATEd1dU5s1q"
+      },
+      "artists": [
+        {
+          "name": "Ebi Soda",
+          "url": "https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU"
+        }
+      ],
+      "duration_ms": 262646,
+      "name": "Keisha Billip",
+      "url": "https://open.spotify.com/track/0CUs0BnOHeHz5BZGJRlvVY"
     },
     {
       "added_at": "2022-04-08 04:02:00",
@@ -1437,22 +1437,6 @@
       "url": "https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ"
     },
     {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Level One",
-        "url": "https://open.spotify.com/album/6AtCu7AMCXsLOW8Isemusi"
-      },
-      "artists": [
-        {
-          "name": "The Eleventh House",
-          "url": "https://open.spotify.com/artist/6gYvM7rw3TCx7cJn4ZDXhi"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Level One",
-      "url": "https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO"
-    },
-    {
       "added_at": "2021-04-09 04:01:00",
       "album": {
         "name": "Hunting Heads",
@@ -1467,6 +1451,22 @@
       "duration_ms": 422882,
       "name": "Hunting Heads",
       "url": "https://open.spotify.com/track/5euz3r8UPd1b8YYstR3nDH"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Level One",
+        "url": "https://open.spotify.com/album/6AtCu7AMCXsLOW8Isemusi"
+      },
+      "artists": [
+        {
+          "name": "The Eleventh House",
+          "url": "https://open.spotify.com/artist/6gYvM7rw3TCx7cJn4ZDXhi"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Level One",
+      "url": "https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO"
     }
   ],
   "unique_name": "Fusion Fest",

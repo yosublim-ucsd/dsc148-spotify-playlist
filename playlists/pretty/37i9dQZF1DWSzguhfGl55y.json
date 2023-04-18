@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 601243,
+  "num_followers": 601401,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc3MDE1NSwwMDAwMDAwMGYzYmM3M2E0YjJmOTgyODdiNDJjZjZkMmVlZmM1ODY2",
+  "snapshot_id": "MTY3Nzc3MDE1NSwwMDAwMDAwMDI4ZDExN2JkNDUzNzRjMmE3NWNkYTM5YTc5MjBjOGU0",
   "tracks": [
     {
       "added_at": "2022-12-21 12:27:58",
@@ -119,6 +119,22 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
+        "name": "Stadtaffe",
+        "url": "https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H"
+      },
+      "artists": [
+        {
+          "name": "Peter Fox",
+          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "Schwarz zu blau",
+      "url": "https://open.spotify.com/track/1Fjz0ME9pzk553wH86m3ZZ"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
         "name": "0,9 (Deluxe Version)",
         "url": "https://open.spotify.com/album/6tXpsYFPFHpbKXWpovbtFs"
       },
@@ -171,34 +187,18 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
-        "name": "Stadtaffe",
-        "url": "https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H"
+        "name": "Ich & meine Maske (Premium Version)",
+        "url": "https://open.spotify.com/album/0fQtAAJlHLf5DQZJBVRt7t"
       },
       "artists": [
         {
-          "name": "Peter Fox",
-          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
         }
       ],
-      "duration_ms": 215800,
-      "name": "Schwarz zu blau",
-      "url": "https://open.spotify.com/track/1Fjz0ME9pzk553wH86m3ZZ"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
-        "name": "Zeiten \u00e4ndern dich",
-        "url": "https://open.spotify.com/album/31mBvCgKrTFJLpI6ONjgfF"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Alles wird gut",
-      "url": "https://open.spotify.com/track/4SF1K7VfTBnVSEyBCrrUWK"
+      "duration_ms": 230906,
+      "name": "Augen auf",
+      "url": "https://open.spotify.com/track/3nAJAotlLWvmSWHQ05D2ma"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -219,18 +219,18 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
-        "name": "Ich & meine Maske (Premium Version)",
-        "url": "https://open.spotify.com/album/0fQtAAJlHLf5DQZJBVRt7t"
+        "name": "Zeiten \u00e4ndern dich",
+        "url": "https://open.spotify.com/album/31mBvCgKrTFJLpI6ONjgfF"
       },
       "artists": [
         {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
         }
       ],
-      "duration_ms": 230906,
-      "name": "Augen auf",
-      "url": "https://open.spotify.com/track/3nAJAotlLWvmSWHQ05D2ma"
+      "duration_ms": 218106,
+      "name": "Alles wird gut",
+      "url": "https://open.spotify.com/track/4SF1K7VfTBnVSEyBCrrUWK"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -291,42 +291,6 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
-        "name": "Au\u00dfen Top Hits, innen Geschmack",
-        "url": "https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH"
-      },
-      "artists": [
-        {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
-        }
-      ],
-      "duration_ms": 354133,
-      "name": "Jein",
-      "url": "https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
-        "name": "Heavy Metal Payback",
-        "url": "https://open.spotify.com/album/3m1BhLKInOY8Rrs4R6STQz"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        },
-        {
-          "name": "Karel Gott",
-          "url": "https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM"
-        }
-      ],
-      "duration_ms": 270426,
-      "name": "F\u00fcr immer jung",
-      "url": "https://open.spotify.com/track/3tv1DRqL9KRuIUawu6eYG0"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
         "name": "Wir Kinder vom Bahnhof Soul (Re-Release)",
         "url": "https://open.spotify.com/album/7MrA7kNLED6TooTm9uxH2i"
       },
@@ -359,6 +323,42 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
+        "name": "Heavy Metal Payback",
+        "url": "https://open.spotify.com/album/3m1BhLKInOY8Rrs4R6STQz"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        },
+        {
+          "name": "Karel Gott",
+          "url": "https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM"
+        }
+      ],
+      "duration_ms": 270426,
+      "name": "F\u00fcr immer jung",
+      "url": "https://open.spotify.com/track/3tv1DRqL9KRuIUawu6eYG0"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
+        "name": "Au\u00dfen Top Hits, innen Geschmack",
+        "url": "https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH"
+      },
+      "artists": [
+        {
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+        }
+      ],
+      "duration_ms": 354133,
+      "name": "Jein",
+      "url": "https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
         "name": "New Dubby Conquerors",
         "url": "https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le"
       },
@@ -375,6 +375,22 @@
       "duration_ms": 284906,
       "name": "Dickes B (feat. Black Kappa)",
       "url": "https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
+        "name": "Urlaub f\u00fcrs Gehirn",
+        "url": "https://open.spotify.com/album/4Uicg3ScGwWT6M0M59UjJR"
+      },
+      "artists": [
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        }
+      ],
+      "duration_ms": 241973,
+      "name": "Urlaub f\u00fcrs Gehirn",
+      "url": "https://open.spotify.com/track/3Uu1Gpflq95f8NqKVPB5sz"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -411,22 +427,6 @@
       "duration_ms": 269840,
       "name": "Troy",
       "url": "https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
-        "name": "Urlaub f\u00fcrs Gehirn",
-        "url": "https://open.spotify.com/album/4Uicg3ScGwWT6M0M59UjJR"
-      },
-      "artists": [
-        {
-          "name": "K.I.Z",
-          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
-        }
-      ],
-      "duration_ms": 241973,
-      "name": "Urlaub f\u00fcrs Gehirn",
-      "url": "https://open.spotify.com/track/3Uu1Gpflq95f8NqKVPB5sz"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -471,42 +471,6 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
-        "name": "Hinterland",
-        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
-      },
-      "artists": [
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        }
-      ],
-      "duration_ms": 299026,
-      "name": "Im Ascheregen",
-      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
-        "name": "CLA$$IC",
-        "url": "https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        },
-        {
-          "name": "Shindy",
-          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "CLA$$IC",
-      "url": "https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
         "name": "Party 2020",
         "url": "https://open.spotify.com/album/5nf3tQHGdH6J3iINNfOL6T"
       },
@@ -547,18 +511,22 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
-        "name": "4:99 - Jubil\u00e4ums-Edition",
-        "url": "https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl"
+        "name": "CLA$$IC",
+        "url": "https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL"
       },
       "artists": [
         {
-          "name": "Die Fantastischen Vier",
-          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        },
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
         }
       ],
-      "duration_ms": 215933,
-      "name": "Mit freundlichen Gr\u00fc\u00dfen",
-      "url": "https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg"
+      "duration_ms": 226186,
+      "name": "CLA$$IC",
+      "url": "https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -579,6 +547,22 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
+        "name": "Kompass ohne Norden (Premium Edition)",
+        "url": "https://open.spotify.com/album/1SWh0DfTaWQPopinkTPIMY"
+      },
+      "artists": [
+        {
+          "name": "Prinz Pi",
+          "url": "https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk"
+        }
+      ],
+      "duration_ms": 252786,
+      "name": "Kompass ohne Norden",
+      "url": "https://open.spotify.com/track/4wEDActEN5ZyJi0DK8bCtf"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
         "name": "Hahnenkampf",
         "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
       },
@@ -595,6 +579,38 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
+        "name": "Hinterland",
+        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        }
+      ],
+      "duration_ms": 299026,
+      "name": "Im Ascheregen",
+      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
+        "name": "4:99 - Jubil\u00e4ums-Edition",
+        "url": "https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl"
+      },
+      "artists": [
+        {
+          "name": "Die Fantastischen Vier",
+          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
+        }
+      ],
+      "duration_ms": 215933,
+      "name": "Mit freundlichen Gr\u00fc\u00dfen",
+      "url": "https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
         "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
         "url": "https://open.spotify.com/album/1rR7VSYfXUZWFWZALjBcC4"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 601000,
       "name": "Leben und Tod des Kenneth Gl\u00f6ckler",
       "url": "https://open.spotify.com/track/3ai0DFuYn5KnHPUbRjAkga"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
-        "name": "Kompass ohne Norden (Premium Edition)",
-        "url": "https://open.spotify.com/album/1SWh0DfTaWQPopinkTPIMY"
-      },
-      "artists": [
-        {
-          "name": "Prinz Pi",
-          "url": "https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk"
-        }
-      ],
-      "duration_ms": 252786,
-      "name": "Kompass ohne Norden",
-      "url": "https://open.spotify.com/track/4wEDActEN5ZyJi0DK8bCtf"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -663,46 +663,6 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
-        "name": "Beat of Life, Vol. 1",
-        "url": "https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY"
-      },
-      "artists": [
-        {
-          "name": "DJ Tomekk",
-          "url": "https://open.spotify.com/artist/182XFUhmCtgombl0vTM8fN"
-        },
-        {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
-        },
-        {
-          "name": "Trooper Da Don",
-          "url": "https://open.spotify.com/artist/0ED9s4HNaTjWmNgujA1Mvu"
-        }
-      ],
-      "duration_ms": 209626,
-      "name": "Kimnotyze",
-      "url": "https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
-        "name": "Up2Date XXL",
-        "url": "https://open.spotify.com/album/2NFUNB6V1qSyhQ55FxZigO"
-      },
-      "artists": [
-        {
-          "name": "Samy Deluxe",
-          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
-        }
-      ],
-      "duration_ms": 230546,
-      "name": "Poesie Album",
-      "url": "https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY"
-    },
-    {
-      "added_at": "2022-12-21 12:27:58",
-      "album": {
         "name": "Hahnenkampf",
         "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
       },
@@ -727,18 +687,42 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
-        "name": "Electro Ghetto (Re-Release)",
-        "url": "https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX"
+        "name": "Up2Date XXL",
+        "url": "https://open.spotify.com/album/2NFUNB6V1qSyhQ55FxZigO"
       },
       "artists": [
         {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+          "name": "Samy Deluxe",
+          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
         }
       ],
-      "duration_ms": 232280,
-      "name": "Wenn wir kommen",
-      "url": "https://open.spotify.com/track/5eJ4MilFcuh4TBxlhSw5lx"
+      "duration_ms": 230546,
+      "name": "Poesie Album",
+      "url": "https://open.spotify.com/track/0T8wIusBn0OpzFm2H6AVNY"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
+        "name": "Beat of Life, Vol. 1",
+        "url": "https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY"
+      },
+      "artists": [
+        {
+          "name": "DJ Tomekk",
+          "url": "https://open.spotify.com/artist/182XFUhmCtgombl0vTM8fN"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "Trooper Da Don",
+          "url": "https://open.spotify.com/artist/0ED9s4HNaTjWmNgujA1Mvu"
+        }
+      ],
+      "duration_ms": 209626,
+      "name": "Kimnotyze",
+      "url": "https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -775,6 +759,22 @@
       "duration_ms": 295440,
       "name": "Klar",
       "url": "https://open.spotify.com/track/01y4v0GVDAFwj9hjxTMshg"
+    },
+    {
+      "added_at": "2022-12-21 12:27:58",
+      "album": {
+        "name": "Electro Ghetto (Re-Release)",
+        "url": "https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX"
+      },
+      "artists": [
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        }
+      ],
+      "duration_ms": 232280,
+      "name": "Wenn wir kommen",
+      "url": "https://open.spotify.com/track/5eJ4MilFcuh4TBxlhSw5lx"
     },
     {
       "added_at": "2022-12-21 12:27:58",
@@ -883,22 +883,18 @@
     {
       "added_at": "2022-12-21 12:27:58",
       "album": {
-        "name": "Bambule",
-        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
+        "name": "BLYAT",
+        "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
       },
       "artists": [
         {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
-        },
-        {
-          "name": "Samy Deluxe",
-          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
         }
       ],
-      "duration_ms": 274640,
-      "name": "F\u00fcchse",
-      "url": "https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi"
+      "duration_ms": 212506,
+      "name": "Nur noch Gucci",
+      "url": "https://open.spotify.com/track/6zxFyURXhsMwwkLQGZbzBw"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

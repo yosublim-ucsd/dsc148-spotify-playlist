@@ -1,12 +1,12 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Daddy O Radio (\ub370\ub514\uc624\ub808\ub514\uc624)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 209016,
+  "num_followers": 209100,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ2ODkyOSwwMDAwMDAwMDM3MzlkMDg4YmI2ZWUyNWY4MDJiNWRkYTc2MGE1MzA0",
+  "snapshot_id": "MTY4MTQ2ODkyOSwwMDAwMDAwMDQ4MjcwMzc0ZjU0YTIzMzI2OGRmYTY2ZjYzMTg4YTk4",
   "tracks": [
     {
       "added_at": "2023-04-14 10:42:09",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-04-14 10:42:09",
       "album": {
-        "name": "[Dystopia : Lose Myself]",
-        "url": "https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 189546,
-      "name": "BOCA",
-      "url": "https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0"
-    },
-    {
-      "added_at": "2023-04-14 10:42:09",
-      "album": {
         "name": "Void",
         "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 215476,
       "name": "sorry",
       "url": "https://open.spotify.com/track/2mqN6WJawRJzT2X9T5bdYV"
+    },
+    {
+      "added_at": "2023-04-14 10:42:09",
+      "album": {
+        "name": "[Dystopia : Lose Myself]",
+        "url": "https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 189546,
+      "name": "BOCA",
+      "url": "https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0"
     },
     {
       "added_at": "2023-04-14 10:42:09",
@@ -279,22 +279,6 @@
       "duration_ms": 221133,
       "name": "WINTER FLOWER(Feat.RM)",
       "url": "https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC"
-    },
-    {
-      "added_at": "2023-04-14 10:42:09",
-      "album": {
-        "name": "Shoot Me : Youth Part 1",
-        "url": "https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 175836,
-      "name": "Shoot Me",
-      "url": "https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg"
     },
     {
       "added_at": "2023-04-14 10:42:09",
@@ -343,6 +327,38 @@
       "duration_ms": 231586,
       "name": "Traffic light",
       "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
+    },
+    {
+      "added_at": "2023-04-14 10:42:09",
+      "album": {
+        "name": "RED",
+        "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 176466,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
+    },
+    {
+      "added_at": "2023-04-14 10:42:09",
+      "album": {
+        "name": "Shoot Me : Youth Part 1",
+        "url": "https://open.spotify.com/album/7cAFD2IBjYXaZr2bZdTTIf"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 175836,
+      "name": "Shoot Me",
+      "url": "https://open.spotify.com/track/3cl6BsTDeeGRbgug5TXrvg"
     },
     {
       "added_at": "2023-04-14 10:42:09",
@@ -411,38 +427,6 @@
     {
       "added_at": "2023-04-14 10:42:09",
       "album": {
-        "name": "RED",
-        "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "RED",
-      "url": "https://open.spotify.com/track/1IguWzAOIxnmTZ7mqmKUwM"
-    },
-    {
-      "added_at": "2023-04-14 10:42:09",
-      "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 218737,
-      "name": "\ub204\uad70\uac00 \ud544\uc694\ud574 I Need Somebody",
-      "url": "https://open.spotify.com/track/4aceMabp5rzZYoKKXsUffr"
-    },
-    {
-      "added_at": "2023-04-14 10:42:09",
-      "album": {
         "name": "daisy.",
         "url": "https://open.spotify.com/album/7kbMCxBkRLj9aY7aFpf9XS"
       },
@@ -475,22 +459,6 @@
     {
       "added_at": "2023-04-14 10:42:09",
       "album": {
-        "name": "5.3 (Gradation)",
-        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "Gradation",
-      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
-    },
-    {
-      "added_at": "2023-04-14 10:42:09",
-      "album": {
         "name": "HEAL",
         "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
       },
@@ -503,6 +471,22 @@
       "duration_ms": 200581,
       "name": "Sour",
       "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
+    },
+    {
+      "added_at": "2023-04-14 10:42:09",
+      "album": {
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 218737,
+      "name": "\ub204\uad70\uac00 \ud544\uc694\ud574 I Need Somebody",
+      "url": "https://open.spotify.com/track/4aceMabp5rzZYoKKXsUffr"
     },
     {
       "added_at": "2023-04-14 10:42:09",
@@ -523,6 +507,22 @@
     {
       "added_at": "2023-04-14 10:42:09",
       "album": {
+        "name": "5.3 (Gradation)",
+        "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "Gradation",
+      "url": "https://open.spotify.com/track/775S83AMYbQc8SYteOktTL"
+    },
+    {
+      "added_at": "2023-04-14 10:42:09",
+      "album": {
         "name": "Rawww",
         "url": "https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem"
       },
@@ -539,24 +539,8 @@
     {
       "added_at": "2023-04-14 10:42:09",
       "album": {
-        "name": "MOONRISE",
-        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
-      },
-      "artists": [
-        {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
-        }
-      ],
-      "duration_ms": 234534,
-      "name": "I Loved You",
-      "url": "https://open.spotify.com/track/780nTLMKXf6kX1B2yq1dFa"
-    },
-    {
-      "added_at": "2023-04-14 10:42:09",
-      "album": {
-        "name": "The Book of Us : Gluon - Nothing Can Tear Us Apart",
-        "url": "https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc"
+        "name": "Right Through Me",
+        "url": "https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D"
       },
       "artists": [
         {
@@ -564,9 +548,9 @@
           "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
         }
       ],
-      "duration_ms": 257752,
-      "name": "Where the sea sleeps",
-      "url": "https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO"
+      "duration_ms": 217972,
+      "name": "Right Through Me",
+      "url": "https://open.spotify.com/track/4cK8aSO2Ec4gmIjhtHfAKd"
     },
     {
       "added_at": "2023-04-14 10:42:09",
@@ -603,50 +587,18 @@
     {
       "added_at": "2023-04-14 10:42:09",
       "album": {
-        "name": "summer flows 0.02",
-        "url": "https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E"
+        "name": "MOONRISE",
+        "url": "https://open.spotify.com/album/4cIBNWCiJdOupf3cjuKpvG"
       },
       "artists": [
         {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
         }
       ],
-      "duration_ms": 228500,
-      "name": "ride",
-      "url": "https://open.spotify.com/track/6k0YWt1KOckGRkFoKxElSN"
-    },
-    {
-      "added_at": "2023-04-14 10:42:09",
-      "album": {
-        "name": "Void",
-        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 222021,
-      "name": "I.L.Y.",
-      "url": "https://open.spotify.com/track/6dS9qNHAeugVQ8noOOExWW"
-    },
-    {
-      "added_at": "2023-04-14 10:42:09",
-      "album": {
-        "name": "Verse 2",
-        "url": "https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN"
-      },
-      "artists": [
-        {
-          "name": "JJ Project",
-          "url": "https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW"
-        }
-      ],
-      "duration_ms": 235068,
-      "name": "\ub0b4\uc77c, \uc624\ub298 Tomorrow, Today",
-      "url": "https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10"
+      "duration_ms": 234534,
+      "name": "I Loved You",
+      "url": "https://open.spotify.com/track/780nTLMKXf6kX1B2yq1dFa"
     },
     {
       "added_at": "2023-04-14 10:42:09",
@@ -667,34 +619,34 @@
     {
       "added_at": "2023-04-14 10:42:09",
       "album": {
-        "name": "The Book of Us : Entropy",
-        "url": "https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h"
+        "name": "Void",
+        "url": "https://open.spotify.com/album/6kdRAzt9oU3X9eUdeTB0Yk"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
         }
       ],
-      "duration_ms": 227240,
-      "name": "Sweet Chaos",
-      "url": "https://open.spotify.com/track/499qjESUqiZjlNI7XQhyLp"
+      "duration_ms": 222021,
+      "name": "I.L.Y.",
+      "url": "https://open.spotify.com/track/6dS9qNHAeugVQ8noOOExWW"
     },
     {
       "added_at": "2023-04-14 10:42:09",
       "album": {
-        "name": "Right Through Me",
-        "url": "https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D"
+        "name": "summer flows 0.02",
+        "url": "https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E"
       },
       "artists": [
         {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
         }
       ],
-      "duration_ms": 217972,
-      "name": "Right Through Me",
-      "url": "https://open.spotify.com/track/4cK8aSO2Ec4gmIjhtHfAKd"
+      "duration_ms": 228500,
+      "name": "ride",
+      "url": "https://open.spotify.com/track/6k0YWt1KOckGRkFoKxElSN"
     },
     {
       "added_at": "2023-04-14 10:42:09",
@@ -715,6 +667,22 @@
     {
       "added_at": "2023-04-14 10:42:09",
       "album": {
+        "name": "The Book of Us : Entropy",
+        "url": "https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Sweet Chaos",
+      "url": "https://open.spotify.com/track/499qjESUqiZjlNI7XQhyLp"
+    },
+    {
+      "added_at": "2023-04-14 10:42:09",
+      "album": {
         "name": "DIVE",
         "url": "https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH"
       },
@@ -727,6 +695,54 @@
       "duration_ms": 199600,
       "name": "DIVE",
       "url": "https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb"
+    },
+    {
+      "added_at": "2023-04-14 10:42:09",
+      "album": {
+        "name": "The Book of Us : Gluon - Nothing Can Tear Us Apart",
+        "url": "https://open.spotify.com/album/2ozuUEt58hDK0PX8mjKOvc"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "duration_ms": 257752,
+      "name": "Where the sea sleeps",
+      "url": "https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO"
+    },
+    {
+      "added_at": "2023-04-14 10:42:09",
+      "album": {
+        "name": "The End of Nightmare",
+        "url": "https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 206819,
+      "name": "PIRI",
+      "url": "https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp"
+    },
+    {
+      "added_at": "2023-04-14 10:42:09",
+      "album": {
+        "name": "Verse 2",
+        "url": "https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN"
+      },
+      "artists": [
+        {
+          "name": "JJ Project",
+          "url": "https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW"
+        }
+      ],
+      "duration_ms": 235068,
+      "name": "\ub0b4\uc77c, \uc624\ub298 Tomorrow, Today",
+      "url": "https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10"
     },
     {
       "added_at": "2023-04-14 10:42:09",
@@ -779,22 +795,6 @@
     {
       "added_at": "2023-04-14 10:42:09",
       "album": {
-        "name": "The End of Nightmare",
-        "url": "https://open.spotify.com/album/02YL02Pjk6moxi5iuYsIPC"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 206819,
-      "name": "PIRI",
-      "url": "https://open.spotify.com/track/6vHyPhg8fgclBiY8QN68wp"
-    },
-    {
-      "added_at": "2023-04-14 10:42:09",
-      "album": {
         "name": "VINCENZO (Original Television Soundtrack) Pt. 3",
         "url": "https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3"
       },
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-04-14 10:42:09",
       "album": {
-        "name": "Nevertheless, (Original Television Soundtrack, Pt. 8)",
-        "url": "https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2"
+        "name": "Self-Portrait - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1"
       },
       "artists": [
         {
-          "name": "Say Sue Me",
-          "url": "https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby"
+          "name": "SUHO",
+          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
         }
       ],
-      "duration_ms": 268453,
-      "name": "So Tender",
-      "url": "https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN"
+      "duration_ms": 229626,
+      "name": "Let\u2019s Love",
+      "url": "https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv"
     }
   ],
   "unique_name": "Cool K'IDs Rock",

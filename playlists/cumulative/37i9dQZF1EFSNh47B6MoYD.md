@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7wWrueTstelQP0y8hwigaI">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-147 songs - 9 hr 4 min
+148 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Por Ti](https://open.spotify.com/track/5TVABmbdkXetVYpLJq0uYr) | [Eduardo Verastegui](https://open.spotify.com/artist/5Abe4JiZV5tKWEyM55N9FQ) | [Eduardo Verastegui](https://open.spotify.com/album/5Hn9VytcQtyzmc0EqCyIvC) | 4:25 | 2023-03-09 |  |
 | [Primero Muerta](https://open.spotify.com/track/6meWroBtBSUwcTfDFZ98ym) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 3:16 | 2023-03-09 |  |
 | [Protesto \- En Vivo](https://open.spotify.com/track/4eQo3wIDC3KWxUskfKsYHg) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [En Concierto \(En Vivo\)](https://open.spotify.com/album/6PqPQj8baWFcoxKk4G8eTx) | 3:55 | 2023-03-09 |  |
+| [Purest Of Pain \(A Puro Dolor\)](https://open.spotify.com/track/7KjjvhP1O6MyOb9kJxwpdh) | [Patrizio Buanne](https://open.spotify.com/artist/14JwkiGRzeex4jLuDoWpQ5) | [Italianissimo](https://open.spotify.com/album/2ID42jV1T3BDQdCs1nlk4E) | 3:40 | 2023-04-17 |  |
 | [Que Tu Piano Hable Por Ti](https://open.spotify.com/track/32uWwAPQEEjhCGABHsphLU) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Piano Sin Fronteras](https://open.spotify.com/album/5feKFwQgUEn3UL56cxdDmq) | 3:52 | 2023-03-09 |  |
 | [Quien Lo Iba a Decir](https://open.spotify.com/track/2gjO4E64337KQHLhEh2uvv) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 3:39 | 2023-03-09 |  |
 | [Quien Sale… No Entra](https://open.spotify.com/track/2ajqkkoTqo5YwhxMNmPGBP) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 4:08 | 2023-03-09 |  |

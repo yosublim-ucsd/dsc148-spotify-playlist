@@ -2981,6 +2981,24 @@
     },
     {
       "album": {
+        "name": "Beauty",
+        "url": "https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP"
+      },
+      "artists": [
+        {
+          "name": "Oscar Mallen",
+          "url": "https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK"
+    },
+    {
+      "album": {
         "name": "Beauty Of You",
         "url": "https://open.spotify.com/album/0Od2qq1KiShZ1Px1Rkka3x"
       },
@@ -3860,7 +3878,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 151884,
       "name": "Carvoeiro",
       "url": "https://open.spotify.com/track/1wpifGgn2zC6OPEI6okI67"
@@ -5736,7 +5754,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 170125,
       "name": "Desenlace",
       "url": "https://open.spotify.com/track/2nLJMA693clFEHKBi9de3i"
@@ -7839,6 +7857,24 @@
     },
     {
       "album": {
+        "name": "For the Love of You",
+        "url": "https://open.spotify.com/album/3IOVFUsrtTjyseXEaKNMvr"
+      },
+      "artists": [
+        {
+          "name": "Henriette Fleich",
+          "url": "https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107730,
+      "name": "For the Love of You",
+      "url": "https://open.spotify.com/track/7hJHeX4A3TdI0cDElWu3Zk"
+    },
+    {
+      "album": {
         "name": "for you",
         "url": "https://open.spotify.com/album/2gr0kNL6yI98YmoJe3H5AS"
       },
@@ -7886,7 +7922,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 131795,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4EZtXiZ3PdrGxTQ43WLhub"
@@ -14405,6 +14441,24 @@
     },
     {
       "album": {
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/7HbmmHY8HyI3uL9ElZXiy7"
+      },
+      "artists": [
+        {
+          "name": "Ivan Malik",
+          "url": "https://open.spotify.com/artist/1b46vh3SUeLoHOnWyfkhpm"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180874,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/1DeFsFITQCaI7J881M33W9"
+    },
+    {
+      "album": {
         "name": "Nobody's Home",
         "url": "https://open.spotify.com/album/2JwnW6S4ErnUQG8xT7cB6i"
       },
@@ -19466,7 +19520,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 227000,
       "name": "Rest Peacefully, but I Wish You Were Here",
       "url": "https://open.spotify.com/track/0KaDIuxC0tek01gCKrUNY8"
@@ -26188,7 +26242,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 182836,
       "name": "Untold Stories",
       "url": "https://open.spotify.com/track/5opvuJQY6nSCwA0Wj42yC9"

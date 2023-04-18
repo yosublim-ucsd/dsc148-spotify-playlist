@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Lil Peep
 
-794 songs - 1 day 12 hr 0 min
+795 songs - 1 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,7 +585,7 @@
 | [SAD!](https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 2:46 | 2022-07-22 | 2022-09-24 |
 | [saddest soundtrack](https://open.spotify.com/track/1HMwQR2U8VBEow0JzOAmA4) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [saddest soundtrack](https://open.spotify.com/album/6Myer4x6rVXRo1Pjead4b7) | 2:49 | 2022-09-23 | 2022-12-10 |
 | [Safe Zone](https://open.spotify.com/track/6JzZwGyrjWIAZrVoAjSMw2) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ) | [Safe Zone](https://open.spotify.com/album/0oYq4KPQO3VBWQpNF8eI4a) | 2:35 | 2021-01-15 | 2021-04-24 |
-| [Salt](https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \(Deluxe\)](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:43 | 2022-10-07 |  |
+| [Salt](https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \(Deluxe\)](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:43 | 2022-10-07 | 2023-04-18 |
 | [Salt](https://open.spotify.com/track/6zYuVQdkZNbeqx5UMmoAOH) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Salt](https://open.spotify.com/album/6ups5M7odd5WAoRPBa6QVk) | 2:45 | 2022-05-27 | 2022-09-17 |
 | [Same Room](https://open.spotify.com/track/6cUwBCnf5yiBkUwExpcni2) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Same Room](https://open.spotify.com/album/5YkVPpSWxikAxEn48uU6Mp) | 3:22 | 2022-05-13 | 2022-05-17 |
 | [Sarcoma](https://open.spotify.com/track/6gTbAJOvivFXwkOEhSIOtS) | [Killstation](https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8) | [The Two of Us Are Dying](https://open.spotify.com/album/6vEqNDFYyv3rakykPzpYwu) | 2:14 | 2022-07-22 |  |
@@ -771,6 +771,7 @@
 | [whts rght](https://open.spotify.com/track/4UT01rYr94WJcVL5FxaNDq) | [whiterosemoxie](https://open.spotify.com/artist/3XlPXxJwM5utJ5D0PiBugV) | [whts rght](https://open.spotify.com/album/32T7pErbR0Oj2lkOcgitah) | 4:18 | 2022-12-16 | 2023-01-28 |
 | [why am i here, i feel so alone](https://open.spotify.com/track/0jBaoN25PbNxfbv4sPs6eM) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [why am i here, i feel so alone](https://open.spotify.com/album/0rE8L0frf30RD6TMsdxqDn) | 2:47 | 2022-05-20 | 2022-07-23 |
 | [Why Do I Hear Breathing?](https://open.spotify.com/track/0w7MzV3fcO059kkPJUINyB) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Why Do I Hear Breathing?](https://open.spotify.com/album/6sM8hpWQ2MJqhG8swSwatj) | 1:59 | 2023-03-24 | 2023-04-09 |
+| [Why Do I Hear Breathing?](https://open.spotify.com/track/34AV8kRHUmM06sdnmDrPRe) | [Chri$tian Gate$](https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL) | [Why Do I Hear Breathing?](https://open.spotify.com/album/5Rld3VgahTXdhsOQk1oRnt) | 1:59 | 2023-03-24 |  |
 | [WICKED](https://open.spotify.com/track/691ppEeFywjs37hPT5RIYx) | [COTIS](https://open.spotify.com/artist/63CZNEytugjFnZBdjBmWc8) | [WICKED](https://open.spotify.com/album/7pmhNG52WYxvqlJMjkwR02) | 2:33 | 2021-08-07 | 2022-04-21 |
 | [Wild Wild West](https://open.spotify.com/track/4YlFygWHw78Hf6KWDzJaoI) | [Cold Hart](https://open.spotify.com/artist/1fsCfvdiomqjKJFR6xI8e4) | [Wild Wild West](https://open.spotify.com/album/7rZhimdkUOQC9vBrX59Tcc) | 2:34 | 2021-07-24 | 2022-06-22 |
 | [WingRiddenAngel](https://open.spotify.com/track/3JXYtW71arunoLaaBxp2LO) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [LOOK AT ME: THE ALBUM](https://open.spotify.com/album/7vNqlfthayItIbI0Ssmfoa) | 2:46 | 2022-06-10 | 2022-07-30 |

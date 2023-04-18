@@ -1672,7 +1672,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 135500,
       "name": "Daj spoko\u0301j",
       "url": "https://open.spotify.com/track/1pfOIDiq6T9lxMZdkk5Fhj"
@@ -2594,6 +2594,24 @@
       "duration_ms": 160009,
       "name": "Fallboard",
       "url": "https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92"
+    },
+    {
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/6ad3KlO7lZB6YHAqO9Rsos"
+      },
+      "artists": [
+        {
+          "name": "Oscar Mallen",
+          "url": "https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190655,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/3kJ1rxPXbVHdwru6Abs6eV"
     },
     {
       "album": {
@@ -4268,7 +4286,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 163500,
       "name": "Involution",
       "url": "https://open.spotify.com/track/7pYYH192TuKAQH2cHG7vPR"
@@ -6324,7 +6342,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 128146,
       "name": "Old Flame",
       "url": "https://open.spotify.com/track/4zUOnBrIEKo9D70FelAthz"

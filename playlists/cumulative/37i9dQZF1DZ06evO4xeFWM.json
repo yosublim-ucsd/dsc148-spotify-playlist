@@ -190,7 +190,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 208847,
       "name": "Eight Hours",
       "url": "https://open.spotify.com/track/5rO5unCSIjPlKdwNxroqcx"
@@ -364,6 +364,24 @@
       "duration_ms": 198074,
       "name": "Grip",
       "url": "https://open.spotify.com/track/3gicyfiEVMGONgzygpWjNT"
+    },
+    {
+      "album": {
+        "name": "Doom Days (This Got Out Of Hand Edition)",
+        "url": "https://open.spotify.com/album/2ZTutAjJEBw4mA5t4Edg1d"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209760,
+      "name": "Hangin'",
+      "url": "https://open.spotify.com/track/3s7q7sn5DaRtAuOo2ft9BD"
     },
     {
       "album": {
@@ -999,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "Give Me The Future",
+        "url": "https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137476,
+      "name": "Thelma + Louise",
+      "url": "https://open.spotify.com/track/2BzVkisodhQOPOPVJ9UKEI"
+    },
+    {
+      "album": {
         "name": "Thelma + Louise",
         "url": "https://open.spotify.com/album/4C5H43XMaCWlOqqHP7qXd7"
       },
@@ -1010,7 +1046,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 137476,
       "name": "Thelma + Louise",
       "url": "https://open.spotify.com/track/4UxATpWvXewD5EZUW01EeQ"

@@ -1,13 +1,29 @@
 {
   "description": "Just chill.",
-  "num_followers": 2424381,
+  "num_followers": 2424619,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIyMzE5MCwwMDAwMDAwMDFlMDNmMjdjNzk5NGZjNTBiYmRkYmUzMzBlNTY3OWU1",
+  "snapshot_id": "MTY4MTc1OTI0MCwwMDAwMDAwMGExMzhhYmY0MTI2OWRiODllNzE3NjJjN2Y1ZTk0ZGNj",
   "tracks": [
+    {
+      "added_at": "2023-04-17 19:20:40",
+      "album": {
+        "name": "Enjoyer",
+        "url": "https://open.spotify.com/album/5g1TtsONP7WO45t1bZYanW"
+      },
+      "artists": [
+        {
+          "name": "Teenage Priest",
+          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
+        }
+      ],
+      "duration_ms": 216949,
+      "name": "Enjoyer",
+      "url": "https://open.spotify.com/track/0WlvboUTfGNKzsszxTa9YI"
+    },
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
@@ -123,6 +139,22 @@
       "duration_ms": 244746,
       "name": "In The Rear View",
       "url": "https://open.spotify.com/track/4kgXwktpr7IqnhPo84v6ul"
+    },
+    {
+      "added_at": "2023-04-17 19:20:40",
+      "album": {
+        "name": "ocean blues",
+        "url": "https://open.spotify.com/album/3FBQOSOwu6rri2Uh8abLhu"
+      },
+      "artists": [
+        {
+          "name": "dayaway",
+          "url": "https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX"
+        }
+      ],
+      "duration_ms": 183703,
+      "name": "ocean blues",
+      "url": "https://open.spotify.com/track/2BTSL4Ewagae4AmmekRYtW"
     },
     {
       "added_at": "2023-04-11 14:26:30",
@@ -351,6 +383,26 @@
       "duration_ms": 161605,
       "name": "Prizefighter",
       "url": "https://open.spotify.com/track/57ge8V32XiTBS89Hrg7x37"
+    },
+    {
+      "added_at": "2023-04-17 19:20:40",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0cjBYgnLQiYlYzVQIpkr8E"
+      },
+      "artists": [
+        {
+          "name": "Somni",
+          "url": "https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7"
+        },
+        {
+          "name": "Harris Cole",
+          "url": "https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5kuCRLXQ7RTG4osKfELrUM"
     },
     {
       "added_at": "2023-03-17 18:54:51",
@@ -1125,22 +1177,6 @@
       "url": "https://open.spotify.com/track/6RMltEudPPFoJuUoshxRBB"
     },
     {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Victory Lap",
-        "url": "https://open.spotify.com/album/7dIv6ZyOlTosM8b5EGQyD6"
-      },
-      "artists": [
-        {
-          "name": "Teenage Priest",
-          "url": "https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34"
-        }
-      ],
-      "duration_ms": 253179,
-      "name": "Victory Lap",
-      "url": "https://open.spotify.com/track/7ajvW6P91ViwSc8MsrBSP5"
-    },
-    {
       "added_at": "2022-09-16 19:46:15",
       "album": {
         "name": "Charm of Pleasure",
@@ -1699,30 +1735,6 @@
       "duration_ms": 190714,
       "name": "Fairweather Friends",
       "url": "https://open.spotify.com/track/4ZiLg5gJOFEaamESx66ItW"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "12:34 AM",
-        "url": "https://open.spotify.com/album/4bJGMpZ7LqygIsCM3G9ZYQ"
-      },
-      "artists": [
-        {
-          "name": "Billy Lemos",
-          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
-        },
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        },
-        {
-          "name": "Maxwell Young",
-          "url": "https://open.spotify.com/artist/5HONdRTLNvBjlD2LirKp0q"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "12:34 AM",
-      "url": "https://open.spotify.com/track/16iNVfWKKZPDjctIcd0KMn"
     },
     {
       "added_at": "2022-09-29 20:59:16",
@@ -2343,22 +2355,6 @@
       "duration_ms": 200196,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/4Rh1JpJKMPOJ75SIfVIqMJ"
-    },
-    {
-      "added_at": "2022-08-19 04:00:00",
-      "album": {
-        "name": "soft thing",
-        "url": "https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J"
-      },
-      "artists": [
-        {
-          "name": "LOONY",
-          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
-        }
-      ],
-      "duration_ms": 167213,
-      "name": "either side",
-      "url": "https://open.spotify.com/track/5zsbL78TMgXh1vzt77h5pl"
     },
     {
       "added_at": "2022-08-19 04:00:00",

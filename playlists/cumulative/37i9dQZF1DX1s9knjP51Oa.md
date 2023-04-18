@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-663 songs - 1 day 4 hr 33 min
+665 songs - 1 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Delta](https://open.spotify.com/track/4VdPG8QlGPHNpLsBq7BquA) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Delta](https://open.spotify.com/album/2jxjPUO3rJTRyiJVxv1EwN) | 2:24 | 2022-08-29 |  |
 | [Det skal nok gå](https://open.spotify.com/track/6i17OjR0ZQYh5RkHexzDMR) | [Alida Sørby](https://open.spotify.com/artist/47AYObaLEm9QiTcfz3u7M9) | [Det skal nok gå](https://open.spotify.com/album/4rM836vPb1QHflp8qWRwxs) | 2:03 | 2022-07-21 |  |
 | [Deux](https://open.spotify.com/track/3HZF4X9kNjSDLppU9aw01r) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Deux](https://open.spotify.com/album/7b3eeTtobX08kn1qW1ljWb) | 3:03 | 2022-04-21 |  |
-| [die kleine Raupe](https://open.spotify.com/track/4x0UFoPofsiqTndmsZpG2h) | [Tristen Longfellow](https://open.spotify.com/artist/7peSX5RUOIXrawTG5Ax3Lv) | [die kleine Raupe](https://open.spotify.com/album/627NSKjlFXyOS3AX801vp3) | 2:37 | 2021-12-13 |  |
+| [die kleine Raupe](https://open.spotify.com/track/4x0UFoPofsiqTndmsZpG2h) | [Tristen Longfellow](https://open.spotify.com/artist/7peSX5RUOIXrawTG5Ax3Lv) | [die kleine Raupe](https://open.spotify.com/album/627NSKjlFXyOS3AX801vp3) | 2:37 | 2021-12-13 | 2023-04-18 |
 | [Dinant](https://open.spotify.com/track/6OMDq58l1Aj0NfutF14Kcq) | [Willa Jacobs](https://open.spotify.com/artist/3kC9ly7aDuSfEPXmPIemvc) | [Dinant](https://open.spotify.com/album/2KaWMPt1cekOlzNy3H47fG) | 2:11 | 2021-12-13 | 2022-02-16 |
 | [Distance](https://open.spotify.com/track/2kfYhnurfTZzBOei3IxO6K) | [Gian Moran](https://open.spotify.com/artist/5toExbFLGir8olBcwFIVs4) | [For Us](https://open.spotify.com/album/0Bug2fYptcIYXMDq7aZ9W3) | 2:10 | 2023-01-27 |  |
 | [Domande](https://open.spotify.com/track/3PCrufS6uFrm7Q6ArBW1nf) | [Flavio Nisi](https://open.spotify.com/artist/2CXAIegHBPc71Wr9GTIAz5) | [Domande](https://open.spotify.com/album/7c7ES2lzWaTQQJZ8nBIozl) | 2:31 | 2021-12-13 | 2022-07-22 |
@@ -210,6 +210,7 @@
 | [For Catherine](https://open.spotify.com/track/7sthK300jq1FzpSvJXID1L) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [For Catherine](https://open.spotify.com/album/3B1c7bhs9De05jWPNjVnIX) | 2:18 | 2022-07-21 |  |
 | [For Mark](https://open.spotify.com/track/0lmuyNAxG9YA3LfXftGzPS) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [For Mark](https://open.spotify.com/album/6zhsUXC9QsXZnpAH2uxR3c) | 5:09 | 2022-03-17 | 2022-12-06 |
 | [For the Fallen](https://open.spotify.com/track/3yPi2t6916SjRPrb9ZcFK7) | [Aiden Kelly](https://open.spotify.com/artist/6OMjw6yGi38GTbrktNfxu3) | [For the Fallen](https://open.spotify.com/album/0OEpIqXhVrKRAvAjapBqtX) | 2:52 | 2022-11-11 |  |
+| [For the Love of You](https://open.spotify.com/track/7hJHeX4A3TdI0cDElWu3Zk) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [For the Love of You](https://open.spotify.com/album/3IOVFUsrtTjyseXEaKNMvr) | 1:47 | 2023-04-17 |  |
 | [For You](https://open.spotify.com/track/2MQYYyWv4oin7VlNQDFb6n) | [Joanne Gardiner](https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5) | [For You](https://open.spotify.com/album/5ny130qGLNcwVqTEDMlVr4) | 3:12 | 2022-07-21 |  |
 | [Foreigners](https://open.spotify.com/track/3pPVu5GqeYai4ZFNP0j9Wr) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Foreigners](https://open.spotify.com/album/3eVdNFfpQKGj1btqfQGoa4) | 2:59 | 2021-12-13 | 2022-10-05 |
 | [Forelsket](https://open.spotify.com/track/4Oo0RKYm64PZSIbpFmcuK9) | [Idun Vinter](https://open.spotify.com/artist/1xxEOepOhE9VubYZpZX10m) | [Forelsket](https://open.spotify.com/album/6HKYX4ZmdHL8DMhsWp497N) | 2:50 | 2021-12-13 | 2022-07-22 |
@@ -227,7 +228,7 @@
 | [Früh](https://open.spotify.com/track/7J6nPXzpkCcAOdVgCkCNtM) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Früh](https://open.spotify.com/album/6rYq4871w4zJ9YrD5xmYIL) | 2:07 | 2021-12-13 |  |
 | [Frühlingsmorgen](https://open.spotify.com/track/4DS4TRvAEwnpi5A1Qm2oCb) | [Marcel Kaestner](https://open.spotify.com/artist/1pf4PEw1mtKsExJGa3gBdG) | [Frühlingsmorgen](https://open.spotify.com/album/6TQ6200VasnalwEkCgN9oq) | 2:19 | 2022-05-26 |  |
 | [Gekka](https://open.spotify.com/track/0NwYxDg2hNISVbpaum1Q6U) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Gekka](https://open.spotify.com/album/7zT0noPRDVhMt9fbsvy3xK) | 3:12 | 2021-12-13 | 2022-09-13 |
-| [Gently](https://open.spotify.com/track/2q1y39ymy9HRdP8A0eVikn) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Sapphire Sky](https://open.spotify.com/album/5q2iit8VRZVaGl68spxq2t) | 2:47 | 2021-12-13 |  |
+| [Gently](https://open.spotify.com/track/2q1y39ymy9HRdP8A0eVikn) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Sapphire Sky](https://open.spotify.com/album/5q2iit8VRZVaGl68spxq2t) | 2:47 | 2021-12-13 | 2023-04-18 |
 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 | 2021-12-13 |  |
 | [Gleam](https://open.spotify.com/track/4ODEul9zEesE2R8wMUs8eh) | [Simeon Walker](https://open.spotify.com/artist/5jEGjnI2WdRyJSUICQQIrK) | [Gleam](https://open.spotify.com/album/1km00QBaAtmwWqsQWjrsPH) | 2:33 | 2021-12-13 | 2022-07-22 |
 | [Glourious](https://open.spotify.com/track/3AjIuQRx278sErh7B9knpS) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Glourious](https://open.spotify.com/album/4iUd5XDXgicUS1gLzfYCIK) | 2:23 | 2021-12-13 | 2022-09-13 |
@@ -254,7 +255,7 @@
 | [Hiemalis](https://open.spotify.com/track/0UcRrIl4Ti4xSdp314ZASI) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Hiemalis](https://open.spotify.com/album/0qCnC2Syuf544DFygP9Q4i) | 2:47 | 2022-02-02 |  |
 | [Higo](https://open.spotify.com/track/4oBfjodJjWjJmYgDlZp7PV) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Higo](https://open.spotify.com/album/4fgRDKhFP0XVWAYXgGdsH0) | 2:54 | 2021-12-13 | 2022-02-03 |
 | [Himlen](https://open.spotify.com/track/08athgGdqnRmET0kInHb8n) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Himlen](https://open.spotify.com/album/0k2082EFnzxqjaNeLQElgp) | 2:01 | 2023-01-31 |  |
-| [Hinode](https://open.spotify.com/track/0jP1vlXPZWKezTOU49xGzN) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Hinode](https://open.spotify.com/album/1wkFABi2Q0XBC9j0dOEAwZ) | 2:31 | 2022-09-12 |  |
+| [Hinode](https://open.spotify.com/track/0jP1vlXPZWKezTOU49xGzN) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Hinode](https://open.spotify.com/album/1wkFABi2Q0XBC9j0dOEAwZ) | 2:31 | 2022-09-12 | 2023-04-18 |
 | [Hologram](https://open.spotify.com/track/42c7TYsycEaQtVZPMG79Os) | [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP), [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q) | [Hologram](https://open.spotify.com/album/0TwYyi7Mv0xPXzIeuRztao) | 1:58 | 2023-01-27 |  |
 | [Home full of solipsism](https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Home full of solipsism](https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA) | 2:57 | 2021-12-13 |  |
 | [Homecoming](https://open.spotify.com/track/2GoWywxSwJTNVrwgtzqQoR) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [Homecoming](https://open.spotify.com/album/6pjjILmogmek6JQtcFyMIP) | 2:32 | 2022-11-11 |  |
@@ -297,7 +298,7 @@
 | [Isle of Arran](https://open.spotify.com/track/2VKWrVYPGgJzBmRGc8LWkh) | [Quinn MacKenzie](https://open.spotify.com/artist/0smsvjiRdPUrd3bDPIinyn) | [Isle of Arran](https://open.spotify.com/album/67HkNTwNvY9he8hu5lyg6R) | 2:50 | 2021-12-13 | 2022-07-22 |
 | [It’s Nothing](https://open.spotify.com/track/2Vy6gykWpZmiWO2HYIXgCo) | [Eric Cadogan](https://open.spotify.com/artist/7a0TJP7Zpr9ROvnR3ijADo) | [It’s Nothing](https://open.spotify.com/album/2dzC4SKGPQnpgKfSSd0zFd) | 2:25 | 2022-09-23 |  |
 | [I’m Still Learning](https://open.spotify.com/track/2KM3Fna95GUcpQ6Xb3Dibh) | [Neal Robinett](https://open.spotify.com/artist/0oHaKHnMtcLtrBkqZhb2sX) | [I’m Still Learning](https://open.spotify.com/album/6325dWq46dEF9sAesxT9FU) | 2:59 | 2021-12-13 | 2022-07-22 |
-| [Ja Mata](https://open.spotify.com/track/51egrQzlzHbpm6uv49eGRV) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Oyasumi Nasai](https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4) | 3:29 | 2021-12-13 |  |
+| [Ja Mata](https://open.spotify.com/track/51egrQzlzHbpm6uv49eGRV) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Oyasumi Nasai](https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4) | 3:29 | 2021-12-13 | 2023-04-18 |
 | [January Sky](https://open.spotify.com/track/4Xj97H1nAC77849DA1Psle) | [Oscar Legrand](https://open.spotify.com/artist/6QUKLJTU9DWDhcIifnrJjN) | [January Sky](https://open.spotify.com/album/6Liarx0KPE7AR4YEs018WO) | 2:09 | 2023-01-09 |  |
 | [Je crois en toi](https://open.spotify.com/track/5yCggunPid4GYMxzCQbk99) | [Alcide St Pierre](https://open.spotify.com/artist/77f8Kuq5BQB3otUyU9rz2P) | [Je crois en toi](https://open.spotify.com/album/7FP73HulDW6i3S8xhZpDBL) | 2:39 | 2022-01-04 | 2022-12-22 |
 | [Je t'ai vu](https://open.spotify.com/track/7wvLqTxF6Nm4k579lboPC8) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Je t'ai vu](https://open.spotify.com/album/5tMnyUyPtzkcZSOiwZ9a4X) | 3:00 | 2022-10-04 |  |
@@ -457,7 +458,7 @@
 | [Rainbow](https://open.spotify.com/track/38IQW5WbKIQwSDsMQPMLSk) | [Dylan John Sparkes](https://open.spotify.com/artist/0BKBUNSVWwpiLKxZnW497R) | [Leap Of Faith](https://open.spotify.com/album/4DCBMQJDtO07ku18JAFk1Z) | 2:56 | 2022-10-24 |  |
 | [Raison d'etre](https://open.spotify.com/track/4zypTg1KZ3HNPcYqfWou6f) | [Matthew Mor](https://open.spotify.com/artist/3epJlQ4qcN08caWbdboMHw) | [Raison d'etre](https://open.spotify.com/album/267CXYk2upy1NS7lZ7pmjh) | 2:23 | 2021-12-13 | 2022-10-05 |
 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 | 2021-12-13 | 2022-07-22 |
-| [Red Roses](https://open.spotify.com/track/5CF6kdYN9s5x3Zps5hHPDZ) | [Anderson Rivers](https://open.spotify.com/artist/7986zAExINQv5pQz94fBc3) | [Red Roses](https://open.spotify.com/album/4ahdVWqHe9HBFjoBfq5w9O) | 1:54 | 2021-12-13 |  |
+| [Red Roses](https://open.spotify.com/track/5CF6kdYN9s5x3Zps5hHPDZ) | [Anderson Rivers](https://open.spotify.com/artist/7986zAExINQv5pQz94fBc3) | [Red Roses](https://open.spotify.com/album/4ahdVWqHe9HBFjoBfq5w9O) | 1:54 | 2021-12-13 | 2023-04-18 |
 | [Reflections](https://open.spotify.com/track/6jkQJB7iKoYFZanJuXlnUf) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Reflections](https://open.spotify.com/album/0E51TVTXSATgUi0AkGzw3s) | 1:53 | 2023-03-13 |  |
 | [Refreshing](https://open.spotify.com/track/6d4hQC6SMrJQayOCwxffSn) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Flourishing](https://open.spotify.com/album/2iybo2YjIrMyHuYmhIcbd8) | 2:27 | 2021-12-13 |  |
 | [Reggimi](https://open.spotify.com/track/6YLD5UAaxYG9w4D7rI6PaQ) | [Natalino Serafin](https://open.spotify.com/artist/57OZxCSUWvp2RgCCaz1AJh) | [Reggimi](https://open.spotify.com/album/3HAfEplO7S9T5qMWhs6YPR) | 2:37 | 2021-12-13 |  |
@@ -524,6 +525,7 @@
 | [Slow Sorrow](https://open.spotify.com/track/5rJVqzACUYjXwLqA4sAbib) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Slow Sorrow](https://open.spotify.com/album/1EGFcI9mmUc9KmorkNZyGx) | 2:04 | 2021-12-13 | 2022-10-25 |
 | [Slowly](https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Slowly](https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD) | 3:16 | 2022-03-17 |  |
 | [So No Regrets](https://open.spotify.com/track/4SnS6XcwucVNuXw44juFEY) | [Willow J\. Wilson](https://open.spotify.com/artist/5V2XzGtcdmXM5QZq2wnH0T) | [So No Regrets](https://open.spotify.com/album/1MaXPoxg7JrhcLwHX76Shn) | 2:14 | 2021-12-13 | 2022-07-22 |
+| [So Ro Lilleman](https://open.spotify.com/track/27vBoR2y5SuRtV2YgvgtS0) | [Sofia Runmon](https://open.spotify.com/artist/6d1sDvwkZD0AznrXcFgDUu) | [So Ro Lilleman](https://open.spotify.com/album/5a3noPVZow8nIbmZETSgNY) | 1:41 | 2023-04-17 |  |
 | [Soft Sunrays](https://open.spotify.com/track/0fXkY4lEHbkyWfDmN4KdOp) | [Peter J\. Malmsjö](https://open.spotify.com/artist/3SqescE77B2HKIjgyF9c0x) | [Soft Sunrays](https://open.spotify.com/album/3mdV0E9SbexYG03haMWL4r) | 5:45 | 2022-12-21 | 2023-02-01 |
 | [Softly](https://open.spotify.com/track/1PW5iY60ZqzBqU5OXpiX4N) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Softly](https://open.spotify.com/album/7ojzrIb4RuVzcUJilEbKgr) | 2:24 | 2021-12-13 | 2022-05-27 |
 | [Sol](https://open.spotify.com/track/5Jw3aIOOV0k4xgIELSIz7C) | [June Allen](https://open.spotify.com/artist/6euKOo2L9Z7YcUbw682sfJ) | [Memento Vivere](https://open.spotify.com/album/3hlMxDhwvTsfqw6wMi2VVE) | 2:15 | 2021-12-13 | 2022-10-25 |

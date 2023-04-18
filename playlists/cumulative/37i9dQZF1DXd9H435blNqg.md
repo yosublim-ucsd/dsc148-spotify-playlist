@@ -4,7 +4,7 @@
 
 > A different shade of the blues\. Cover: Ash Grunwald
 
-95 songs - 5 hr 19 min
+96 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Dandy Little Day](https://open.spotify.com/track/5HnCJp1xyqBUE69QG1JTd6) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Dandy Little Day](https://open.spotify.com/album/3tCzBYcHu00sdT3DZ8iAKJ) | 3:08 | 2021-02-12 |  |
 | [Deeper Well](https://open.spotify.com/track/0hAnedWjp1nrPXn4yyqp4u) | [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Deeper Well](https://open.spotify.com/album/6NxV2YhPxDRC4BQ55luKzQ) | 4:44 | 2021-11-12 |  |
 | [Dog Days](https://open.spotify.com/track/03fOkmHmQKR06GvdM2AxW5) | [Wild the Coyote](https://open.spotify.com/artist/7f4RLg2IaSnNgIjKG5TvxB) | [Dog Days](https://open.spotify.com/album/3rpWxFW2hDLikbkShc3fKY) | 4:08 | 2021-02-12 |  |
-| [Don't Mind No Distance \(Closer to Me\)](https://open.spotify.com/track/7pYRp7fSezGl2f5GHL5eIR) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Don't Mind No Distance \(Closer to Me\)](https://open.spotify.com/album/3DGAUb1My7xQWYA3g7pFab) | 3:32 | 2023-03-03 |  |
+| [Don't Mind No Distance \(Closer to Me\)](https://open.spotify.com/track/1i7yCPvwuP8EL2PQ7XMBjg) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Ghosts \(I've Come to Love You\)](https://open.spotify.com/album/5WuBeEz4IaCGoKENgqrQ0u) | 3:32 | 2023-03-03 |  |
+| [Don't Mind No Distance \(Closer to Me\)](https://open.spotify.com/track/7pYRp7fSezGl2f5GHL5eIR) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Don't Mind No Distance \(Closer to Me\)](https://open.spotify.com/album/3DGAUb1My7xQWYA3g7pFab) | 3:32 | 2023-03-03 | 2023-04-18 |
 | [Don't Say Goodbye](https://open.spotify.com/track/3vOtFfShTAHO2OMvv7GUxE) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/4D1EqPba5ZOyIbYkaWqZR2) | 3:11 | 2021-02-12 |  |
 | [Don't Say Goodbye](https://open.spotify.com/track/5myYo40RKSaKyuLRbAfqTV) | [Swamp](https://open.spotify.com/artist/3JnCy7tffnn9EBDGk8ytQS) | [Don't Say Goodbye](https://open.spotify.com/album/2GlZhFnvW6mxuyIDrerEoK) | 3:11 | 2021-02-12 | 2022-07-29 |
 | [Don't Tell Me No Lies](https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Don't Tell Me No Lies](https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5) | 2:27 | 2021-05-14 |  |

@@ -4,7 +4,7 @@
 
 > Track from Muslims around the world\. Cover: Maher Zain
 
-164 songs - 14 hr 10 min
+165 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [No One But You](https://open.spotify.com/track/0dXB28kP8XMuyeLo4mUKuv) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [No One But You](https://open.spotify.com/album/6DTSx1BOMwmneXNSsvgZux) | 3:04 | 2022-04-04 | 2022-04-18 |
 | [Nobody Gets Me](https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:00 | 2023-03-06 | 2023-03-14 |
 | [Noor\-E\-Ilahi](https://open.spotify.com/track/0haStQZr8cgw5jU121JSeA) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Abida Parveen](https://open.spotify.com/artist/4EkSOXM6psqNE4w6j0tEEl) | [Noor\-E\-Ilahi \- Single](https://open.spotify.com/album/4tr24T6sT0z1VDjbTlaxBV) | 6:09 | 2022-04-18 | 2022-10-07 |
+| [O Mohammad](https://open.spotify.com/track/1a84hW3AL3EGzPyJfEj74g) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Ayisha Abdul Basith](https://open.spotify.com/artist/5CK0g8yxcuauorabPxsA5K) | [O Mohammad](https://open.spotify.com/album/76E8vJSZzB8dsC9Q0umrzR) | 3:46 | 2023-04-17 |  |
 | [Oualahila Ar Tesninam](https://open.spotify.com/track/1jncnTEAwosbxyLVe0sxnt) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Amassakoul](https://open.spotify.com/album/0HtXxCOzxI722dtwJ7ukyv) | 3:47 | 2022-10-06 |  |
 | [Oualahila ar Tesninam](https://open.spotify.com/track/767XZqvucbqec7sLPYJDtB) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Terraforming in Analogue Space: IRL Remixes \(2000\-2015\)](https://open.spotify.com/album/0hd9pPOzNkjbjkbKXyyTlV) | 3:48 | 2022-10-06 | 2022-11-13 |
 | [Ouallahila Ar Tesninam](https://open.spotify.com/track/446gzpU2Q5Wwhy9NfRFIE1) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Amassakoul](https://open.spotify.com/album/5FPDGVaIIfWVH79NJoslSe) | 3:47 | 2021-10-21 | 2022-04-01 |

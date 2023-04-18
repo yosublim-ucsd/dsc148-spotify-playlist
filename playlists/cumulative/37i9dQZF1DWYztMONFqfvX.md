@@ -4,7 +4,7 @@
 
 > Bollywood crooner's essential songs.
 
-95 songs - 5 hr 49 min
+96 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Pachtaoge \(From "Jaani Ve"\)](https://open.spotify.com/track/5QVHNa0ppJUOoqSd36ovQS) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Pachtaoge \(From "Jaani Ve"\)](https://open.spotify.com/album/3Ptq3ARmJ8iTLBb7M7Bho0) | 3:46 | 2021-12-08 |  |
 | [Pal](https://open.spotify.com/track/79hQvdTHNBkq2fp2ZrM8b2) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Jalebi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2XSR5WDCh2PIYE0fp7C3cN) | 4:07 | 2021-12-08 |  |
 | [Phir Le Aya Dil \- Reprise](https://open.spotify.com/track/7fpWJr5shT90KiCHXKHxch) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 5:05 | 2021-12-08 |  |
+| [PS Anthem \(From "PS\-2"\) \[Hindi\]](https://open.spotify.com/track/6oB7bLzZYyyAFxQNNiId4x) | [A\. R\. Rahman, Arijit Singh, Benny Dayal, Nabyla Maan & Gulzar](https://open.spotify.com/artist/3vVhUk4K5FH4KThoxgKiTT) | [PS Anthem \(From "PS\-2"\) \[Hindi\]](https://open.spotify.com/album/6IE4goxB1IxwhUsOuDcNVK) | 3:03 | 2023-04-17 |  |
 | [Pyaar Hota Kayi Baar Hai \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/track/2vPrBucKCfKmafHhSfJ2pt) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Pyaar Hota Kayi Baar Hai \(From "Tu Jhoothi Main Makkaar"\)](https://open.spotify.com/album/1cttjZoENYipDCPgISthpY) | 3:36 | 2023-02-10 |  |
 | [Rait Zara Si \(From "Atrangi Re"\)](https://open.spotify.com/track/4uK0M8AI6gyFmyzUneQpbi) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Rait Zara Si \(From "Atrangi Re"\)](https://open.spotify.com/album/2L1otdfoUvp3MKdaT4knVK) | 4:51 | 2021-12-08 |  |
 | [Saawali Si Raat](https://open.spotify.com/track/4I5Xcdu5Hnki1aP0Uxbs4n) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 5:08 | 2021-12-08 | 2023-02-02 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de esta cumbia! Cover: Los \u00c1ngeles Azules.",
-  "num_followers": 243303,
+  "num_followers": 243359,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzI0NjEyOCwwMDAwMDAwMGI0MmUxMGQxMWM5ZDQ2YTcxY2JjNDdmOWQ2ZTFkYjRh",
+  "snapshot_id": "MTY3MzI0NjEyOCwwMDAwMDAwMDE4NjFiMzFjZjQzYzRiYzlmMjM1NWQ4MDRkYmZiNGFh",
   "tracks": [
     {
       "added_at": "2023-01-09 06:35:28",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Muchachita Consentida",
-      "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
         "name": "Amor Prohibido",
         "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 208866,
       "name": "El Chico Del Apartamento 512",
       "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 211813,
+      "name": "Muchachita Consentida",
+      "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
+        "name": "Memorias",
+        "url": "https://open.spotify.com/album/3K83jJCyGiSq9lj1FQxYce"
+      },
+      "artists": [
+        {
+          "name": "Grupo Bryndis",
+          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+        }
+      ],
+      "duration_ms": 192426,
+      "name": "Quiz\u00e1s Si, Quiz\u00e1s No",
+      "url": "https://open.spotify.com/track/2xVueNhj6UehdAPDBWK7DN"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 266213,
       "name": "Nunca Es Suficiente",
       "url": "https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
-        "name": "Memorias",
-        "url": "https://open.spotify.com/album/3K83jJCyGiSq9lj1FQxYce"
-      },
-      "artists": [
-        {
-          "name": "Grupo Bryndis",
-          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
-        }
-      ],
-      "duration_ms": 192426,
-      "name": "Quiz\u00e1s Si, Quiz\u00e1s No",
-      "url": "https://open.spotify.com/track/2xVueNhj6UehdAPDBWK7DN"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -399,18 +399,18 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "No Me Llames Mas",
-        "url": "https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd"
+        "name": "Sergio El Bailador",
+        "url": "https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y"
       },
       "artists": [
         {
-          "name": "Alcalde La Sonora",
-          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
         }
       ],
-      "duration_ms": 267415,
-      "name": "No Me Llames Mas",
-      "url": "https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF"
+      "duration_ms": 169600,
+      "name": "Sergio el Bailador",
+      "url": "https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "Sergio El Bailador",
-        "url": "https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y"
+        "name": "No Me Llames Mas",
+        "url": "https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd"
       },
       "artists": [
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "name": "Alcalde La Sonora",
+          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
         }
       ],
-      "duration_ms": 169600,
-      "name": "Sergio el Bailador",
-      "url": "https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW"
+      "duration_ms": 267415,
+      "name": "No Me Llames Mas",
+      "url": "https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "La Magia Del Amor",
-        "url": "https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
-        }
-      ],
-      "duration_ms": 184920,
-      "name": "Amor Secreto",
-      "url": "https://open.spotify.com/track/3MFDQq6V7GW6OmhVWIyrHO"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
         "name": "Corazoncito Pum Pum",
         "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 228675,
       "name": "Vida No Te Vayas",
       "url": "https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
+        "name": "La Magia Del Amor",
+        "url": "https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+        }
+      ],
+      "duration_ms": 184920,
+      "name": "Amor Secreto",
+      "url": "https://open.spotify.com/track/3MFDQq6V7GW6OmhVWIyrHO"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "Cumbias con Garra Vol. IV *",
-        "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
-      },
-      "artists": [
-        {
-          "name": "Los Tigrillos",
-          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Mira oye",
-      "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
         "name": "30 Exitos Inolvidables",
         "url": "https://open.spotify.com/album/2RDLZK3ocjN4OHLeFVLJcA"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 146013,
       "name": "El Colesterol",
       "url": "https://open.spotify.com/track/1jjLhYePEexexawOF6DgzP"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
+        "name": "Cumbias con Garra Vol. IV *",
+        "url": "https://open.spotify.com/album/6sCg6I963xNmg9qo8xbwqp"
+      },
+      "artists": [
+        {
+          "name": "Los Tigrillos",
+          "url": "https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Mira oye",
+      "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
+        "name": "Tonto Cari\u00f1o",
+        "url": "https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS"
+      },
+      "artists": [
+        {
+          "name": "Los Papis RA7",
+          "url": "https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq"
+        }
+      ],
+      "duration_ms": 299284,
+      "name": "Estupido",
+      "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
         "name": "Piel A Piel",
         "url": "https://open.spotify.com/album/0wY4TCOxdgOSvWimtb3iRA"
       },
@@ -995,22 +1011,6 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "Tonto Cari\u00f1o",
-        "url": "https://open.spotify.com/album/1jsyIp7OFTpIHDkKXl0kgS"
-      },
-      "artists": [
-        {
-          "name": "Los Papis RA7",
-          "url": "https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq"
-        }
-      ],
-      "duration_ms": 299284,
-      "name": "Estupido",
-      "url": "https://open.spotify.com/track/1hA3c7Rf0oLHFNR4ZVL030"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
         "name": "Para Que La Cu\u00f1a Apriete",
         "url": "https://open.spotify.com/album/643Req8SJXX188L5fuuVD2"
       },
@@ -1027,6 +1027,26 @@
       "duration_ms": 296680,
       "name": "La Rumba Quimbumba",
       "url": "https://open.spotify.com/track/02pQk9G1SnyBBVh9yOtxau"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
+        "name": "Oye Mujer",
+        "url": "https://open.spotify.com/album/61g9r3DhCVt25gpz2FD1DD"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 252946,
+      "name": "Oye Mujer",
+      "url": "https://open.spotify.com/track/5aLELbBB0Pa7TlGJJyBJo9"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -1083,26 +1103,6 @@
       "duration_ms": 202000,
       "name": "La Cumbia de los Monjes",
       "url": "https://open.spotify.com/track/03ITeFvMvTRpTC92WsQWw5"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
-        "name": "Oye Mujer",
-        "url": "https://open.spotify.com/album/61g9r3DhCVt25gpz2FD1DD"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 252946,
-      "name": "Oye Mujer",
-      "url": "https://open.spotify.com/track/5aLELbBB0Pa7TlGJJyBJo9"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -1171,42 +1171,6 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "La Sonora Santanera en Su 60 Aniversario",
-        "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "Sasha, Benny y Erik",
-          "url": "https://open.spotify.com/artist/03FiyT61gVIy08oxFm6xZC"
-        }
-      ],
-      "duration_ms": 243626,
-      "name": "Mil Horas (with Sasha, Benny y Erik)",
-      "url": "https://open.spotify.com/track/3dy3Bwz5w5eenJz1R5KWo6"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
-        "name": "El Fantasma del Amor",
-        "url": "https://open.spotify.com/album/10uRdZo4A5BxPHERGzd2jZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ternura Dinastia Toxqui",
-          "url": "https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ"
-        }
-      ],
-      "duration_ms": 253226,
-      "name": "El Fantasma del Amor",
-      "url": "https://open.spotify.com/track/2P0CVPl7JUmoKOXSFoL2wH"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
         "name": "T\u00fa Y Yo",
         "url": "https://open.spotify.com/album/50h6l1JyfIScae2246HXru"
       },
@@ -1223,6 +1187,26 @@
       "duration_ms": 188493,
       "name": "T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/5vEOago0nOlDNn6C4IJWLd"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
+        "name": "La Sonora Santanera en Su 60 Aniversario",
+        "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Sasha, Benny y Erik",
+          "url": "https://open.spotify.com/artist/03FiyT61gVIy08oxFm6xZC"
+        }
+      ],
+      "duration_ms": 243626,
+      "name": "Mil Horas (with Sasha, Benny y Erik)",
+      "url": "https://open.spotify.com/track/3dy3Bwz5w5eenJz1R5KWo6"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "A Mis Amigos",
-        "url": "https://open.spotify.com/album/4TtMhqvX6RwhKMLed7HMHg"
+        "name": "El Fantasma del Amor",
+        "url": "https://open.spotify.com/album/10uRdZo4A5BxPHERGzd2jZ"
       },
       "artists": [
         {
-          "name": "Alberto Pedraza Con Su Ritmo Y Sabor",
-          "url": "https://open.spotify.com/artist/4UIqtgggXTOuv5y97QQCrl"
+          "name": "Grupo Ternura Dinastia Toxqui",
+          "url": "https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ"
         }
       ],
-      "duration_ms": 279880,
-      "name": "Mi Corazon Enamorado",
-      "url": "https://open.spotify.com/track/4RWbOGWFhcnQbzafhHUSGB"
+      "duration_ms": 253226,
+      "name": "El Fantasma del Amor",
+      "url": "https://open.spotify.com/track/2P0CVPl7JUmoKOXSFoL2wH"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -1291,6 +1275,22 @@
       "duration_ms": 189320,
       "name": "La Cobra",
       "url": "https://open.spotify.com/track/3aSYVIS5nC3hrFK368flZt"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
+        "name": "A Mis Amigos",
+        "url": "https://open.spotify.com/album/4TtMhqvX6RwhKMLed7HMHg"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pedraza Con Su Ritmo Y Sabor",
+          "url": "https://open.spotify.com/artist/4UIqtgggXTOuv5y97QQCrl"
+        }
+      ],
+      "duration_ms": 279880,
+      "name": "Mi Corazon Enamorado",
+      "url": "https://open.spotify.com/track/4RWbOGWFhcnQbzafhHUSGB"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -1359,18 +1359,22 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "Exitos Quemantes Vol. IV",
-        "url": "https://open.spotify.com/album/1nYMViSA4UU0LvvWlKrcrC"
+        "name": "Homenaje a la M\u00fasica Tropical (En Vivo)",
+        "url": "https://open.spotify.com/album/5QNwAswaESEp3axpv2d6gx"
       },
       "artists": [
         {
-          "name": "Tropical\u00edsimo Apache",
-          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Yahir",
+          "url": "https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ"
         }
       ],
-      "duration_ms": 183440,
-      "name": "Ojitos Mentirosos",
-      "url": "https://open.spotify.com/track/7DTKpVBKNPsDGKwVTl2Txe"
+      "duration_ms": 222336,
+      "name": "Bonita y Mentirosa (with Yahir) - En Vivo",
+      "url": "https://open.spotify.com/track/7z4wQKhuzm8bfRD1sGiVKN"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -1403,22 +1407,18 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "Homenaje a la M\u00fasica Tropical (En Vivo)",
-        "url": "https://open.spotify.com/album/5QNwAswaESEp3axpv2d6gx"
+        "name": "Exitos Quemantes Vol. IV",
+        "url": "https://open.spotify.com/album/1nYMViSA4UU0LvvWlKrcrC"
       },
       "artists": [
         {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "Yahir",
-          "url": "https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ"
+          "name": "Tropical\u00edsimo Apache",
+          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
         }
       ],
-      "duration_ms": 222336,
-      "name": "Bonita y Mentirosa (with Yahir) - En Vivo",
-      "url": "https://open.spotify.com/track/7z4wQKhuzm8bfRD1sGiVKN"
+      "duration_ms": 183440,
+      "name": "Ojitos Mentirosos",
+      "url": "https://open.spotify.com/track/7DTKpVBKNPsDGKwVTl2Txe"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
-      },
-      "artists": [
-        {
-          "name": "Chucho Ponce Los Daddys de Chinantla",
-          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
-        }
-      ],
-      "duration_ms": 236360,
-      "name": "Mi Corazon Es un Vagabundo",
-      "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/1CJEE36qrJYAUXVJuVQ7ne"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 306133,
       "name": "He Sentido Amor - Corazo\u0301n Tun Tun",
       "url": "https://open.spotify.com/track/0WcFkMy9QR5mNBlJSuCT1j"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg"
+      },
+      "artists": [
+        {
+          "name": "Chucho Ponce Los Daddys de Chinantla",
+          "url": "https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im"
+        }
+      ],
+      "duration_ms": 236360,
+      "name": "Mi Corazon Es un Vagabundo",
+      "url": "https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm"
     },
     {
       "added_at": "2023-01-09 06:35:28",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2023-01-09 06:35:28",
       "album": {
+        "name": "S\u00f3lo \u00c9xitos",
+        "url": "https://open.spotify.com/album/6Kg07PFyPcAMUu0Tey9Qk1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los Kiero de Edgar Zacary",
+          "url": "https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF"
+        }
+      ],
+      "duration_ms": 252173,
+      "name": "Paloma Ajena",
+      "url": "https://open.spotify.com/track/65uUNFe02bXVS4KydSSYOE"
+    },
+    {
+      "added_at": "2023-01-09 06:35:28",
+      "album": {
         "name": "El Poder de la Cumbia",
         "url": "https://open.spotify.com/album/79LPQTAIJn9zkZbQxjijae"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 268346,
       "name": "Pajaro Cenzontle",
       "url": "https://open.spotify.com/track/05NDHplkvd0j8hg0XxwPFX"
-    },
-    {
-      "added_at": "2023-01-09 06:35:28",
-      "album": {
-        "name": "Donde esta el Amor",
-        "url": "https://open.spotify.com/album/1VKZuvVAkS6Jk1hHZBkDVE"
-      },
-      "artists": [
-        {
-          "name": "Los Telez",
-          "url": "https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A"
-        }
-      ],
-      "duration_ms": 226680,
-      "name": "Gritaria",
-      "url": "https://open.spotify.com/track/4QpOfEgos0X555uBOvTcGT"
     }
   ],
   "unique_name": "Super Cumbias",

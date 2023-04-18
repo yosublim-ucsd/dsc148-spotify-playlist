@@ -4670,7 +4670,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 369219,
       "name": "Minero",
       "url": "https://open.spotify.com/track/0ZEQcLlNxQI1McXdTX3QQZ"
@@ -5398,6 +5398,24 @@
       "duration_ms": 416840,
       "name": "One More Ride",
       "url": "https://open.spotify.com/track/1eys1iysFllOg7dAbUjFtB"
+    },
+    {
+      "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/2KZCa3njlP1MI1OdS026Eg"
+      },
+      "artists": [
+        {
+          "name": "Agatha Pher",
+          "url": "https://open.spotify.com/artist/0VRg3UWCu6DUIB7r5jqZZJ"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535081,
+      "name": "One Way",
+      "url": "https://open.spotify.com/track/3V0AtDnWpKc5m9ZSxGNkiv"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Happy National Pet Day! \ud83e\udef6\ud83c\udffc (Cover: Crush(\ud06c\ub7ec\uc26c))",
+  "description": "Enjoy trendy & chill Korean R&B music. (Cover: Hannah Jang(\uc7a5\ud55c\ub098))",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -676,7 +676,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 256693,
       "name": "Amusement Park",
       "url": "https://open.spotify.com/track/1TUkEXQrskATO9SoB4QMUN"
@@ -2330,7 +2330,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 216000,
       "name": "conversation",
       "url": "https://open.spotify.com/track/7uBRP5uKGhTIOW5RZV8TSg"
@@ -5421,6 +5421,32 @@
     },
     {
       "album": {
+        "name": "You are my spring",
+        "url": "https://open.spotify.com/album/3r6HeTeQd7JlGmuhhiGwGe"
+      },
+      "artists": [
+        {
+          "name": "merrymerryseoul",
+          "url": "https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy"
+        },
+        {
+          "name": "JoOhA",
+          "url": "https://open.spotify.com/artist/3hkgIaHRJ0slOoCa8zUFVX"
+        },
+        {
+          "name": "Still",
+          "url": "https://open.spotify.com/artist/6IbdxPqmhxU87FC6GneXxX"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166281,
+      "name": "Lay me by your side (feat. JoOhA & Still)",
+      "url": "https://open.spotify.com/track/4UFUYZeFSxlmMMuwxAD8Qq"
+    },
+    {
+      "album": {
         "name": "Layin' Low (feat. Jooyoung)",
         "url": "https://open.spotify.com/album/6wPJh6aQa1SoplBJcDPlZW"
       },
@@ -5732,7 +5758,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 162320,
       "name": "Locked In (Feat. Jiselle)",
       "url": "https://open.spotify.com/track/7KzkNqK1WohUzYHTJSmlOU"
@@ -8853,6 +8879,28 @@
     },
     {
       "album": {
+        "name": "Hannah's Party",
+        "url": "https://open.spotify.com/album/3KZ69DCBO18QdBtOUitVx7"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jang",
+          "url": "https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179382,
+      "name": "Shy (feat. Gist)",
+      "url": "https://open.spotify.com/track/27ycVdLcd29r4NxhS4v6yF"
+    },
+    {
+      "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/3QZlhnWxRlERxUsfuzHmk6"
       },
@@ -9534,7 +9582,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 195253,
       "name": "T.T.T (Tell The Truth) (Feat. Moon Sujin, NONE)",
       "url": "https://open.spotify.com/track/63SD3RfeR1qMmYTmEBd1F4"
@@ -10019,6 +10067,28 @@
     },
     {
       "album": {
+        "name": "TODAY (Feat. Kim Mi Jeong)",
+        "url": "https://open.spotify.com/album/7pAEDIrWroPSNk8RyH5CvN"
+      },
+      "artists": [
+        {
+          "name": "CHANHYUN",
+          "url": "https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9"
+        },
+        {
+          "name": "Kim Mi Jeong",
+          "url": "https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199040,
+      "name": "TODAY (Feat. Kim Mi Jeong)",
+      "url": "https://open.spotify.com/track/6zgRMguVIineEcfwdy1ftt"
+    },
+    {
+      "album": {
         "name": "Happy Birthday",
         "url": "https://open.spotify.com/album/0NKjnMeZCTbRLZrMsbuMYg"
       },
@@ -10176,6 +10246,28 @@
       "duration_ms": 194178,
       "name": "TUXEDO (feat. UNE)",
       "url": "https://open.spotify.com/track/1tdHJMgpkwb2GwvNJUwpbN"
+    },
+    {
+      "album": {
+        "name": "TWO BOYS WERE WALKIN' ON A WOOD",
+        "url": "https://open.spotify.com/album/448JG49SvtOMlK5TfrPBLk"
+      },
+      "artists": [
+        {
+          "name": "KORRNOI",
+          "url": "https://open.spotify.com/artist/6NSJuvZarTq2vKVIwhc9Q6"
+        },
+        {
+          "name": "Horim",
+          "url": "https://open.spotify.com/artist/4ewZPWfaF9tFfnX1bPVI6A"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "TWO BOYS WERE WALKIN' ON A WOOD (Feat. Horim)",
+      "url": "https://open.spotify.com/track/7rCOLQGqKnYAGPXar4Fl1P"
     },
     {
       "album": {

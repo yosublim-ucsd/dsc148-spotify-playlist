@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 5216,
+  "num_followers": 5231,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMDJmYjlhYTE5ODQ2NjJlNTVlZDVkNDNmNmJmNDFlMjlj",
+  "snapshot_id": "MTYyNDk3Mzc2MiwwMDAwMDAwMGQ3MDMzYTY4NDdhODgwMzdkNTBmMDZlMGExY2JhOTBi",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -195,22 +195,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Kingdom Come",
-        "url": "https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 294800,
-      "name": "Give Me Faith",
-      "url": "https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Sing Like Never Before: The Essential Collection",
         "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 348893,
       "name": "Blessed Be Your Name",
       "url": "https://open.spotify.com/track/14HrSWGYPCDwqAcVFUYKsq"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Kingdom Come",
+        "url": "https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 294800,
+      "name": "Give Me Faith",
+      "url": "https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -327,22 +327,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "Best Friends",
-      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Sunday School Songs",
         "url": "https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX"
       },
@@ -415,22 +399,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 221360,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "8 Great Hits dc Talk",
         "url": "https://open.spotify.com/album/4ml5pL07kDVb9AxJutpI9U"
       },
@@ -447,6 +415,38 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 185573,
+      "name": "Best Friends",
+      "url": "https://open.spotify.com/track/0fDEDcUApzHMvBlIIKcmMk"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 221360,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/03upgLFcOiiB0HlO4LmdLv"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "Timeless Treasures: Open the Eyes of My Heart Lord",
         "url": "https://open.spotify.com/album/1oXWRQSCgYgIy41b5YVTQI"
       },
@@ -459,26 +459,6 @@
       "duration_ms": 252725,
       "name": "Open the Eyes of My Heart Lord",
       "url": "https://open.spotify.com/track/0UlNsw2YfstrHGWYTOpE0w"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Love Won't Let Me Down",
-      "url": "https://open.spotify.com/track/2NssSayyXceWY40zguZjeq"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -515,6 +495,26 @@
       "duration_ms": 229487,
       "name": "You Are My All In All",
       "url": "https://open.spotify.com/track/5Qut1hSpuu7GtsInQunc7O"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/3GBUiNPCjCorEs0W9lf41C"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Love Won't Let Me Down",
+      "url": "https://open.spotify.com/track/2NssSayyXceWY40zguZjeq"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Sonicpraise",
-        "url": "https://open.spotify.com/album/5uzmXNAOurQhBSA4QUx4eq"
-      },
-      "artists": [
-        {
-          "name": "Sonicflood",
-          "url": "https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI"
-        }
-      ],
-      "duration_ms": 381600,
-      "name": "Lord I Lift Your Name on High",
-      "url": "https://open.spotify.com/track/1TIZNu7zA2EiixLFmrmsyF"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "We Belong To Jesus (feat. New Life Kids)",
         "url": "https://open.spotify.com/album/6ozGlAuSM6L95qyDfhRfsm"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 186280,
       "name": "Never Be Shaken",
       "url": "https://open.spotify.com/track/4siHGq67CuIl7m8L5qC3a5"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Sonicpraise",
+        "url": "https://open.spotify.com/album/5uzmXNAOurQhBSA4QUx4eq"
+      },
+      "artists": [
+        {
+          "name": "Sonicflood",
+          "url": "https://open.spotify.com/artist/1lPSXeZw9i7js7PdFJXEJI"
+        }
+      ],
+      "duration_ms": 381600,
+      "name": "Lord I Lift Your Name on High",
+      "url": "https://open.spotify.com/track/1TIZNu7zA2EiixLFmrmsyF"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -787,6 +787,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "Ultimate Kids Worship",
+        "url": "https://open.spotify.com/album/4zcn3mJeKQpLF6FDQpERmd"
+      },
+      "artists": [
+        {
+          "name": "Shout Praises Kids",
+          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
+        }
+      ],
+      "duration_ms": 232489,
+      "name": "Nothing Is Impossible",
+      "url": "https://open.spotify.com/track/5tgPpWoPFxqD8JJ10bawPG"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "New Sound",
         "url": "https://open.spotify.com/album/1PX43Nn8AuApS7ggfUOAQf"
       },
@@ -863,22 +879,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Ultimate Kids Worship",
-        "url": "https://open.spotify.com/album/4zcn3mJeKQpLF6FDQpERmd"
-      },
-      "artists": [
-        {
-          "name": "Shout Praises Kids",
-          "url": "https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE"
-        }
-      ],
-      "duration_ms": 232489,
-      "name": "Nothing Is Impossible",
-      "url": "https://open.spotify.com/track/5tgPpWoPFxqD8JJ10bawPG"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "Living in Freedom",
         "url": "https://open.spotify.com/album/3JeN6zZsjrwk3s8gra1bOG"
       },
@@ -927,22 +927,6 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Belong",
-        "url": "https://open.spotify.com/album/23UWXk1FORanft5u9boft9"
-      },
-      "artists": [
-        {
-          "name": "Rachael Nemiroff",
-          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
-        }
-      ],
-      "duration_ms": 228679,
-      "name": "Belong",
-      "url": "https://open.spotify.com/track/2LCjZzth94744Ki2vR4scR"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
         "name": "I Am Alive",
         "url": "https://open.spotify.com/album/5KLDaX1xJuK2N3vOGsCyAR"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 228506,
       "name": "I Am Alive",
       "url": "https://open.spotify.com/track/4GX54jEsDkgxleYUCRfggA"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/23UWXk1FORanft5u9boft9"
+      },
+      "artists": [
+        {
+          "name": "Rachael Nemiroff",
+          "url": "https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t"
+        }
+      ],
+      "duration_ms": 228679,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/2LCjZzth94744Ki2vR4scR"
     }
   ],
   "unique_name": "Christian Summer Camp",

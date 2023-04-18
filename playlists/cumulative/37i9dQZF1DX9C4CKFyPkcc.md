@@ -4,7 +4,7 @@
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-179 songs - 10 hr 33 min
+180 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,10 +64,11 @@
 | [Harken](https://open.spotify.com/track/4NCRqYuH1M19b3cDiRgcs9) | [David Brymer](https://open.spotify.com/artist/7GTnr8474MiGyAxQBXTdap), [Chris Beland](https://open.spotify.com/artist/589onAR28YIA48jFpfyEMT) | [Harken](https://open.spotify.com/album/2h48qsKQiHFc5mTn6vMBoX) | 3:54 | 2022-12-11 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0QqnU2evpS37pFD4tkWk1D) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/4dlf23mMkc4VpJvor27YiA) | 4:03 | 2022-11-26 |  |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1cXTOc2xKSg4whKKhDD7Va) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0XgTFzpaVhSq7D4xQTic0g) | 2:29 | 2021-12-24 |  |
-| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/5ycg3qbGRl5tDcOAtwqsDR) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0GDh799QeaJcyopyHq50Hd) | 3:45 | 2022-12-11 |  |
+| [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/5ycg3qbGRl5tDcOAtwqsDR) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0GDh799QeaJcyopyHq50Hd) | 3:45 | 2022-12-11 | 2023-04-18 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0kMkVBWiiErubE4fqUwZBF) | [Titus Showers](https://open.spotify.com/artist/6XBycjw3xsUgrPyah0XZsc) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/0rYGez2vLeVnJGrWDu80yy) | 2:40 | 2022-12-11 | 2023-02-28 |
 | [Heart and Soul of Christmas](https://open.spotify.com/track/1CSqOw750PcDxoFXv86S0L) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Heart and Soul of Christmas](https://open.spotify.com/album/2j7Ysj9HpnZnMUXhnaBX6q) | 3:36 | 2021-12-24 |  |
 | [Heavenly Hosts](https://open.spotify.com/track/73qkqix6nJuYUZQ44raWXs) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [A Drummer Boy Christmas](https://open.spotify.com/album/3mzFzJI8WYQ7Szerr4zLzT) | 3:29 | 2021-12-24 | 2022-12-12 |
+| [Help From Heaven](https://open.spotify.com/track/1hVlhkBQWKQUcFmcCWGzDf) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Christmas Lights](https://open.spotify.com/album/5pgUIgHDhjfGe2rGunmU7a) | 4:52 | 2022-12-11 |  |
 | [Here Comes Santa Claus \(Right Down Santa Claus Lane\)](https://open.spotify.com/track/7n7VsX3sv66znBwA8b5uhp) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 1:55 | 2021-12-24 |  |
 | [Here to Stay](https://open.spotify.com/track/1bEw72sYBtcZarQ3pstrmc) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq), [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Christmas Eve in Bethlehem \(Deluxe Edition\)](https://open.spotify.com/album/2zpe0u6jgqTdlxZWo92MYa) | 3:38 | 2021-12-24 |  |
 | [Holly Jolly Christmas](https://open.spotify.com/track/6V0o74Ptf4aygUPCT2Wdcu) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [More The Merrier](https://open.spotify.com/album/7o83BpMH6xfIhOfDGxLcpa) | 2:21 | 2021-12-24 |  |

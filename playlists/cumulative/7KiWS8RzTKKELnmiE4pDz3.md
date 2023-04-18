@@ -4,7 +4,7 @@
 
 > 
 
-443 songs - 19 hr 46 min
+445 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [So Messy](https://open.spotify.com/track/5xKWzb7qzaRvTQ8OSfmOWR) | [GOONIE](https://open.spotify.com/artist/2Z8HHweJsQ0WDusmOsqozg) | [So Messy](https://open.spotify.com/album/5pcdj525dihZGZFEvwIVVe) | 2:02 | 2023-02-28 |  |
 | [Song 32](https://open.spotify.com/track/0EgmhYPgButfoBvtnidyR0) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Song 32](https://open.spotify.com/album/3WyY9vsAcsEngOhfOl3aby) | 2:42 | 2022-09-20 |  |
 | [Sorry Bout That](https://open.spotify.com/track/4VHkjPgAis9JNfc1URn7zZ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [4L](https://open.spotify.com/album/05QOSu1AEcQxM5jvZFuann) | 3:06 | 2021-10-08 |  |
+| [Southside](https://open.spotify.com/track/5lf3ajySox32qFvGEf2TFM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:53 | 2023-04-17 |  |
 | [Speak 4 Em](https://open.spotify.com/track/6BfJ1k7cPUqq7k9QsMBb19) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 2:22 | 2023-03-20 |  |
 | [Spend It](https://open.spotify.com/track/7zImtrjC17hbsbW2lqKqlt) | [Kankan](https://open.spotify.com/artist/7si09ku22hK6h4WQmvlVAb) | [B4 AMGs & SRTs 2](https://open.spotify.com/album/4SJcHr1KujoEmUSoSsdVAx) | 1:35 | 2022-12-21 |  |
 | [Spiral](https://open.spotify.com/track/2YMCSqTmBTtcYA8dyUCvbT) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Spiral](https://open.spotify.com/album/4jyHGZHlA6AVFYmeAeLNGo) | 2:53 | 2022-10-24 | 2023-04-12 |
@@ -434,6 +435,7 @@
 | [WANTS!](https://open.spotify.com/track/2jtvpOlLvGzuNLqOBeAz7q) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Not Much Longer](https://open.spotify.com/album/65q9J3hfP5pJV3NiJJhb3Y) | 1:53 | 2023-01-11 |  |
 | [WAR 1](https://open.spotify.com/track/53f9imwov2EaXhtWj0rthl) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Alivë](https://open.spotify.com/album/2VLfVJIWbfaMsFQNfS11ad) | 2:33 | 2023-03-11 |  |
 | [Way It Go](https://open.spotify.com/track/3XKvJoOD0pjiM36AjlCeyd) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3), [KanKan](https://open.spotify.com/artist/5jrVFIwqg3H8O1vDZqeQOB) | [3AM Vibes](https://open.spotify.com/album/3orPhMBlpm0MQDS9ZuZxsI) | 2:22 | 2022-12-23 | 2023-04-12 |
+| [We Dem](https://open.spotify.com/track/4rlvqiq90liG5L5gpcUpiq) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [4Respect 4Freedom 4Loyalty 4WhatImportant](https://open.spotify.com/album/4tCZ22E9RnUz09OaDJfaoO) | 2:47 | 2023-04-17 |  |
 | [WHARF TALK \(feat\. A$AP Rocky\)](https://open.spotify.com/track/3u9PAti8muEXXvEjeFpQK0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:24 | 2023-04-04 |  |
 | [WHAT A DAY](https://open.spotify.com/track/3v3gyQkwRQGwDUZ7V2q2lF) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:36 | 2023-04-04 |  |
 | [What You Got \- Radio Edit](https://open.spotify.com/track/73s0ZgbwGPE2f6NrbnPeWR) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [SSGKⲟbe](https://open.spotify.com/artist/3KnFGmNMtL6zcGbpcuYxFH) | [Sapphire.](https://open.spotify.com/album/22HA1nornnauA428zn6gHB) | 1:58 | 2022-07-22 |  |

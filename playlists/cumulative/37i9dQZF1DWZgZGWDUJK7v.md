@@ -4,7 +4,7 @@
 
 > Meet the popular webtoon OSTs now! \(Cover: Love Revolution \(연애혁명\)\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-125 songs - 7 hr 38 min
+130 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/track/5rGMxvUu4su0Vg3BaV9BGe) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [Back In Time \(The Moon during the Day X K.will\)](https://open.spotify.com/album/76XdJaCbVbGzUv2JyEmn0x) | 3:45 | 2022-05-09 |  |
 | [Better for Me \(Nth Romance X MeloMance\)](https://open.spotify.com/track/3d2tLjYswXQsIsoDAZRkUr) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Better for Me \(Nth Romance X MeloMance\)](https://open.spotify.com/album/4WY3wjjGNW8kubhkHd1Qey) | 3:59 | 2022-05-09 |  |
 | [breath](https://open.spotify.com/track/2Jj5O7jDSKkgsSTTuGuQc4) | [SOYOU](https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb) | [A Kiss at Tiffany's \(Original Soundtrack\), Part.1](https://open.spotify.com/album/4MAj4sqXeEyqtzEeWnOUGs) | 3:15 | 2022-05-09 | 2023-02-23 |
+| [Can you see](https://open.spotify.com/track/14K731siyf3Yj1Q6eQ8zZq) | [Lydia](https://open.spotify.com/artist/7vF0OMb98Tc514WZDBJ6c6) | [Oh, Boy! OST Part.6 \(Soundtrack\)](https://open.spotify.com/album/0fTmqsnPjWnTAyf5BGLeET) | 4:22 | 2023-04-17 |  |
 | [Cinderella's Love \(Daily JoJo\)](https://open.spotify.com/track/6nkoJCo2lwG3HBValDvApj) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Daily JoJo \(Original Webtoon Soundtrack\) Pt.2](https://open.spotify.com/album/0YGbevSnSPmsRyOoMAosrW) | 2:56 | 2022-11-03 |  |
 | [Colored With You \(Romance 101 X SHIN YOUG JAE\)](https://open.spotify.com/track/7407spBhE4FpSMML8wyZ15) | [Shin Yong Jae](https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR) | [Colored With You \(Romance 101 X SHIN YOUG JAE\)](https://open.spotify.com/album/0YEH7wpxm6ehAXFRObJPDG) | 3:27 | 2022-05-09 | 2023-02-23 |
 | [Crush on you \(No brakes for your curves\)](https://open.spotify.com/track/5eHVjWcQKMsTRwT6OtJd0q) | [Jeong Yu Jin](https://open.spotify.com/artist/1XtBI35SSGjQXm1auxDOmD), [Sujin](https://open.spotify.com/artist/1CO3fh4c1J46zsUWpHMITX) | [Crush on you \(Original Webtoon Soundtrack\)](https://open.spotify.com/album/5vwF93uqQGNxV1BiDuWqqr) | 3:08 | 2022-05-09 |  |
@@ -104,7 +105,9 @@
 | [The first love \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 3\]](https://open.spotify.com/track/6DRQvyJXF7st78fCAn9bT7) | [YODAYOUNG](https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w) | [The first love \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 3\]](https://open.spotify.com/album/0JzL8yKGTU8CxBmZRFFOmR) | 3:56 | 2022-05-09 | 2023-02-23 |
 | [The invention of romance \(WEBTOON 'Discovery of Love' X BIG Naughty\)](https://open.spotify.com/track/3VwwxnQlYfAIIIWwgvdAWR) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [The invention of romance \(WEBTOON 'Discovery of Love' X BIG Naughty\)](https://open.spotify.com/album/3aoVOedTKPTcLJBa7F5ofg) | 2:59 | 2022-08-19 |  |
 | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/track/2wmFuAxSzNVgTSVjGAoiJ5) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/album/4i1sZysnsbV5bIAyALa04J) | 3:53 | 2022-05-09 |  |
+| [The sweetest words in the world 'I Love You'](https://open.spotify.com/track/14SOF44GRNxuaWU6ImnK1e) | [An Ye Seul](https://open.spotify.com/artist/4sfK1Rcfv4VCjpZ0ejFYkj) | [Oh, Boy! OST Part.5 \(Soundtrack\)](https://open.spotify.com/album/33UKFC52oo23UDKlVcJAD6) | 3:54 | 2023-04-17 |  |
 | [The two of us](https://open.spotify.com/track/211qUU0CXl8NqovMvW3LSc) | [Han Kyung Il](https://open.spotify.com/artist/1QWsO985ZVETFz5Odn4spA) | [The Crush Of Spring OST Part.9](https://open.spotify.com/album/7uA5KDUQnGaPpE1Ccs8gwf) | 3:51 | 2022-06-15 |  |
+| [The way I love you](https://open.spotify.com/track/29yC3hQEyVpmJ2gwFCpV4k) | [BBAHN](https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi) | [Oh, Boy! OST Part.4 \(Soundtrack\)](https://open.spotify.com/album/0iCzWgCwoQackdi0mS1I8q) | 3:54 | 2023-04-17 |  |
 | [To be honest I still love you](https://open.spotify.com/track/5IJxeM3hnKqyTMVqGiiYSq) | [Suki](https://open.spotify.com/artist/3nvehGmSWu2jlnWSC2EacH) | [The Crush Of Spring OST Part.6](https://open.spotify.com/album/7l0RjwUfOMMCAABHWX33qI) | 3:36 | 2022-06-13 |  |
 | [Today's Weather \(From "Spring Is Gone" \[Original Soundtrack\]\)](https://open.spotify.com/track/6oK4qRi5kCaWpo0bwhBbRl) | [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Today's Weather \(From "Spring Is Gone" \[Original Soundtrack\]\)](https://open.spotify.com/album/6RCjA02nGoEqphsjT6ZQGZ) | 3:40 | 2022-05-09 |  |
 | [Walking In The Memory](https://open.spotify.com/track/7EbrlzJyVfSZVldEY0MnCJ) | [MJ](https://open.spotify.com/artist/1eb5JBCoVVqiHp7FdrtBSa) | [The Crush Of Spring OST Special Track](https://open.spotify.com/album/4rUPBt8ztBW38rCPJUdXiT) | 3:10 | 2022-05-09 |  |
@@ -131,7 +134,9 @@
 | [바람이 불면](https://open.spotify.com/track/4zq4UL2YHc50NB4KGfwdRF) | [Jo Moon Geun](https://open.spotify.com/artist/23ITkiDXXyCmBN6VBKRivR) | [바이트미 \(Original Webtoon Soundtrack\) Pt.23](https://open.spotify.com/album/3NFXkReFhOYDZdwVsc5tqW) | 3:52 | 2023-01-25 |  |
 | [별이 지고 있네요](https://open.spotify.com/track/7uF6STZnY2IDIdxoPsD0uh) | [Huie](https://open.spotify.com/artist/3YLz1R7PcLpYtTue8dGWlW) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt.18](https://open.spotify.com/album/2wPVlr6UUDhEkmVjRUJhmX) | 3:50 | 2023-03-27 |  |
 | [붙잡고 싶었어](https://open.spotify.com/track/4eGVd6EScWz6MNZBqzGMaD) | [Huh Gong](https://open.spotify.com/artist/2vV9tyqzm5Tz6TeeJaPAQj) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt.11](https://open.spotify.com/album/0msxFMPXqR7Vl6KYlYyxjT) | 4:26 | 2023-01-26 |  |
+| [사랑이었다면 사랑했었다면](https://open.spotify.com/track/3xbqvnMWtjMkvtYHbShgZl) | [CANDO](https://open.spotify.com/artist/0xO9wbV9n5wWpzsVqtxK7a) | [PETER PANDA \(Original Webtoon Soundtrack\) Pt.5](https://open.spotify.com/album/70IKwOIoIauNtfMRTSlKUr) | 3:05 | 2023-04-17 |  |
 | [왜 사랑하게 했니](https://open.spotify.com/track/5SIOX7fHJsYXbs1GRBUaE0) | [금나라](https://open.spotify.com/artist/5b7jOv3a6jUtgOmPiCcbEs) | [요조신사 마초숙녀 \(Original Webtoon Soundtrack\) Pt.15](https://open.spotify.com/album/5fkLsPU9j82Jbp32POjrFa) | 3:22 | 2023-02-22 |  |
 | [우리 한번 만나볼까](https://open.spotify.com/track/1ljt74AIcMTbyvlwsGFS3a) | [다연](https://open.spotify.com/artist/67hQhPoS4fge0kmZcxHr0T) | [바이트미 \(Original Webtoon Soundtrack\) Pt.27](https://open.spotify.com/album/5x98JmAAXWbA5u5G0xrB6r) | 3:09 | 2023-02-22 |  |
+| [이 밤을 지나](https://open.spotify.com/track/11KcLs1eRcTGZQ82tJntVx) | [Seo Moon Tak](https://open.spotify.com/artist/3pNYE2NX9kKZJku5jIKe1G) | [I Wasn't the Cinderella OST part 2 \(Soundtrack\)](https://open.spotify.com/album/07sXBVe7RpL5Lux5mqpQ3Y) | 4:18 | 2023-04-17 |  |
 
 \*This playlist was first scraped on 2022-05-15. Prior content cannot be recovered.

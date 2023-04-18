@@ -4,7 +4,7 @@
 
 > Instrumentals from the North Indian school of music.
 
-57 songs - 15 hr 8 min
+58 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Hari Dhwani \- Raga Lalit \- Alap \(Sthai\)](https://open.spotify.com/track/2nEDjd2E33WtY89cBlcGXp) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Rupak Kulkarni](https://open.spotify.com/artist/629Hq4ALLZV2JwkMX6C2Ff) | [Hari Dhwani \- Raga Lalit](https://open.spotify.com/album/2x8LytN5vmjbuESvmBp27S) | 9:55 | 2021-12-07 |  |
 | [Hem Bihag \- A Creation Of Acharya Allanddin Khan \- Alap & Jor](https://open.spotify.com/track/6PbwTf3bXyyQD53mlQGsQ3) | [Aashish Khan](https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq), [Pandit Indranil Bhattacharya](https://open.spotify.com/artist/49TezlyR1n2SMfvwa7riTd) | [Live at the Royal Festival Hall, London 1994](https://open.spotify.com/album/6pFcgD0tnbn1m2kfBpEvb3) | 43:52 | 2021-12-07 |  |
 | [Jugalbandi in Teen Taal](https://open.spotify.com/track/6KsPQBR6qHXn60g6VDP6Oi) | [Alla Rakha](https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Together](https://open.spotify.com/album/0Gjp6bjN1furRn7bHAIsdi) | 15:47 | 2021-12-07 |  |
-| [Misra Mand](https://open.spotify.com/track/2enZB7URwFPcfqHN1cny8h) | [Tejendra Majumdar](https://open.spotify.com/artist/1448391H4g8M6h6vtFiwfp) | [A Light From The East](https://open.spotify.com/album/3NnlAQ33rxqM41oeizmnsp) | 8:59 | 2021-12-07 |  |
+| [Megh](https://open.spotify.com/track/3lRuxLVLB1nk60BzxhWegW) | [Pratik Shrivastava](https://open.spotify.com/artist/2Qm0bUwXaOt9QtYz6kjkvl), [Anubrata Chatterjee](https://open.spotify.com/artist/1MLZspgw3JzCsQg8R8zEf4), [Indrajit Indro Dey](https://open.spotify.com/artist/2tVkkTDeui1w14sm3q6C3O) | [The Megh Project](https://open.spotify.com/album/1I6WVjNt53hFy2k1y8s8Qx) | 3:40 | 2023-04-17 |  |
+| [Misra Mand](https://open.spotify.com/track/2enZB7URwFPcfqHN1cny8h) | [Tejendra Majumdar](https://open.spotify.com/artist/1448391H4g8M6h6vtFiwfp) | [A Light From The East](https://open.spotify.com/album/3NnlAQ33rxqM41oeizmnsp) | 8:59 | 2021-12-07 | 2023-04-18 |
 | [Pilu Ragmala in Rupak](https://open.spotify.com/track/2KQVqgVWDSThJqcQniIson) | [Alam Khan](https://open.spotify.com/artist/389sPNbjs6Hp0XSCP229JG), [Indranil Mallick](https://open.spotify.com/artist/0KL6Nzq5FePQByCl3mG8X1) | [Immersion](https://open.spotify.com/album/5QjIPDt3eApiZ2elAmiJ8i) | 13:50 | 2021-12-07 |  |
 | [Raag Hament \(Tintal, 16 beats\) \(arr\. T\. Bhattacharya\)](https://open.spotify.com/track/0TVyDdq8zgk1t3YYJOolFu) | [Tarun Bhattacharya](https://open.spotify.com/artist/75pVYyeJxeZZMforYr50pA), [Shiv Shankar Ray](https://open.spotify.com/artist/7AzfrIUqSS0ebgQm7MplWf), [Jayashree Acharya](https://open.spotify.com/artist/6RdLFlouF6vZX4LDxI23rQ) | [The Best of Indian Santur](https://open.spotify.com/album/0jtXyO8dEmcslU37nVa9kc) | 8:48 | 2021-12-07 |  |
 | [Raag Mishra Shirvranjani Taal Deepchandi](https://open.spotify.com/track/1pvvfWnFF3va8LrjbUDx8S) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Aashish Khan](https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Jugalbandi II](https://open.spotify.com/album/5shZ28NNUrgvj8bsSuAo40) | 21:49 | 2021-12-07 |  |

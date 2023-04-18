@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Clay Scott",
-  "num_followers": 36352,
+  "num_followers": 36364,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDMwZmQ1MmY0OGU3MmU3YmY0ZDYxMmFkYjVjNmJlMTIy",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDQ0OWFkOTAxMTdkYmYyNTQ2YWJlZWE1MDBkMDFhMDkz",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Je t'haine",
-        "url": "https://open.spotify.com/album/19rudC4R2eIZ1DGdE8yZAa"
-      },
-      "artists": [
-        {
-          "name": "Lo\u00efc Nottet",
-          "url": "https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu"
-        }
-      ],
-      "duration_ms": 140368,
-      "name": "Je t'haine",
-      "url": "https://open.spotify.com/track/1Rn1zphLtXbGF436KG5Ft9"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Evidence",
         "url": "https://open.spotify.com/album/2h6EgCJTdQ57YGsmp4pCII"
       },
@@ -343,42 +327,34 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "C'est mon ann\u00e9e",
-        "url": "https://open.spotify.com/album/5latsb8ARw44uhumB0rLwT"
+        "name": "Je t'haine",
+        "url": "https://open.spotify.com/album/19rudC4R2eIZ1DGdE8yZAa"
       },
       "artists": [
         {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        },
-        {
-          "name": "Ghetto Ph\u00e9nom\u00e8ne",
-          "url": "https://open.spotify.com/artist/40fhusTxvAWqq7xKB2rlgf"
+          "name": "Lo\u00efc Nottet",
+          "url": "https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu"
         }
       ],
-      "duration_ms": 225882,
-      "name": "C'est mon ann\u00e9e",
-      "url": "https://open.spotify.com/track/0FdjDIwGRs7vQLUOk4XLE7"
+      "duration_ms": 140368,
+      "name": "Je t'haine",
+      "url": "https://open.spotify.com/track/1Rn1zphLtXbGF436KG5Ft9"
     },
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "R\u00eave",
-        "url": "https://open.spotify.com/album/0bCCihl80fbk2trcJIuj3G"
+        "name": "Bootleg",
+        "url": "https://open.spotify.com/album/0HqGg6WYY7iaxWBlP2NY6P"
       },
       "artists": [
         {
-          "name": "Ad\u00e8le Castillon",
-          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
-        },
-        {
-          "name": "Videoclub",
-          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+          "name": "Mister V",
+          "url": "https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs"
         }
       ],
-      "duration_ms": 189561,
-      "name": "R\u00eave",
-      "url": "https://open.spotify.com/track/2NrgoKvt52oUq4qufUAoMh"
+      "duration_ms": 115226,
+      "name": "Bootleg",
+      "url": "https://open.spotify.com/track/21bPnt9C4Dw7xj8UUUXZp1"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -403,6 +379,46 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "R\u00eave",
+        "url": "https://open.spotify.com/album/0bCCihl80fbk2trcJIuj3G"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "duration_ms": 189561,
+      "name": "R\u00eave",
+      "url": "https://open.spotify.com/track/2NrgoKvt52oUq4qufUAoMh"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "C'est mon ann\u00e9e",
+        "url": "https://open.spotify.com/album/5latsb8ARw44uhumB0rLwT"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        },
+        {
+          "name": "Ghetto Ph\u00e9nom\u00e8ne",
+          "url": "https://open.spotify.com/artist/40fhusTxvAWqq7xKB2rlgf"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "C'est mon ann\u00e9e",
+      "url": "https://open.spotify.com/track/0FdjDIwGRs7vQLUOk4XLE7"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Chaud",
         "url": "https://open.spotify.com/album/7kurbkEohIvF2q4LGOd5w8"
       },
@@ -419,22 +435,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Bootleg",
-        "url": "https://open.spotify.com/album/0HqGg6WYY7iaxWBlP2NY6P"
-      },
-      "artists": [
-        {
-          "name": "Mister V",
-          "url": "https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs"
-        }
-      ],
-      "duration_ms": 115226,
-      "name": "Bootleg",
-      "url": "https://open.spotify.com/track/21bPnt9C4Dw7xj8UUUXZp1"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "La Masia",
         "url": "https://open.spotify.com/album/74c7CluPdWcpjVuYcn85XS"
       },
@@ -447,6 +447,22 @@
       "duration_ms": 142868,
       "name": "La Masia",
       "url": "https://open.spotify.com/track/2jnRmXdb2b9hPMdT1vWS33"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Mauvais r\u00eave",
+        "url": "https://open.spotify.com/album/5blMLwINO84ZJntrW0CTNh"
+      },
+      "artists": [
+        {
+          "name": "Hoshi",
+          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+        }
+      ],
+      "duration_ms": 239546,
+      "name": "Mauvais r\u00eave",
+      "url": "https://open.spotify.com/track/6IZWTHVNit0ajtXwAWDGO9"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -507,18 +523,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Mauvais r\u00eave",
-        "url": "https://open.spotify.com/album/5blMLwINO84ZJntrW0CTNh"
+        "name": "Ozoror",
+        "url": "https://open.spotify.com/album/6OPqZboiTNSYCKd3fSiSLX"
       },
       "artists": [
         {
-          "name": "Hoshi",
-          "url": "https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ"
+          "name": "Meryl",
+          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
         }
       ],
-      "duration_ms": 239546,
-      "name": "Mauvais r\u00eave",
-      "url": "https://open.spotify.com/track/6IZWTHVNit0ajtXwAWDGO9"
+      "duration_ms": 155638,
+      "name": "Coca-Cola Mentos",
+      "url": "https://open.spotify.com/track/7d5h2OAmrKHVFrvivayPzl"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -539,42 +555,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Personne",
-        "url": "https://open.spotify.com/album/5GE6XXHfGhdthUzEBkGlLr"
-      },
-      "artists": [
-        {
-          "name": "KALIKA",
-          "url": "https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD"
-        },
-        {
-          "name": "Youv Dee",
-          "url": "https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS"
-        }
-      ],
-      "duration_ms": 167346,
-      "name": "Personne",
-      "url": "https://open.spotify.com/track/2KM5FqdL9I7HI1KAXoVsxK"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Ozoror",
-        "url": "https://open.spotify.com/album/6OPqZboiTNSYCKd3fSiSLX"
-      },
-      "artists": [
-        {
-          "name": "Meryl",
-          "url": "https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA"
-        }
-      ],
-      "duration_ms": 155638,
-      "name": "Coca-Cola Mentos",
-      "url": "https://open.spotify.com/track/7d5h2OAmrKHVFrvivayPzl"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Tu mentais (feat. DJ Kawest)",
         "url": "https://open.spotify.com/album/2iyVrsJMWu3oFR35TIUA4I"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 161268,
       "name": "Tu mentais (feat. DJ Kawest)",
       "url": "https://open.spotify.com/track/2I2G4B2qXDtmQBCB1UDA75"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Personne",
+        "url": "https://open.spotify.com/album/5GE6XXHfGhdthUzEBkGlLr"
+      },
+      "artists": [
+        {
+          "name": "KALIKA",
+          "url": "https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD"
+        },
+        {
+          "name": "Youv Dee",
+          "url": "https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS"
+        }
+      ],
+      "duration_ms": 167346,
+      "name": "Personne",
+      "url": "https://open.spotify.com/track/2KM5FqdL9I7HI1KAXoVsxK"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "BOO",
+        "url": "https://open.spotify.com/album/3WgIFOH5NcAONFDaOeaC5V"
+      },
+      "artists": [
+        {
+          "name": "Le Juiice",
+          "url": "https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC"
+        }
+      ],
+      "duration_ms": 140629,
+      "name": "BOO",
+      "url": "https://open.spotify.com/track/12x0etPnK49pq5vhH5bqUY"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "1994",
         "url": "https://open.spotify.com/album/495cEXky5fPlnh2EJBm0KB"
       },
@@ -719,18 +735,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "BOO",
-        "url": "https://open.spotify.com/album/3WgIFOH5NcAONFDaOeaC5V"
+        "name": "Photographies",
+        "url": "https://open.spotify.com/album/0BRpAxU0TVRDmidxpZrGpD"
       },
       "artists": [
         {
-          "name": "Le Juiice",
-          "url": "https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC"
+          "name": "Alice et Moi",
+          "url": "https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3"
         }
       ],
-      "duration_ms": 140629,
-      "name": "BOO",
-      "url": "https://open.spotify.com/track/12x0etPnK49pq5vhH5bqUY"
+      "duration_ms": 176821,
+      "name": "Photographies",
+      "url": "https://open.spotify.com/track/3zjeCHlhWyJwQDKppjMG1F"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -807,22 +823,6 @@
       "duration_ms": 174545,
       "name": "Baby Girl",
       "url": "https://open.spotify.com/track/04XhWqk9rPKm384hNqMrJQ"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Photographies",
-        "url": "https://open.spotify.com/album/0BRpAxU0TVRDmidxpZrGpD"
-      },
-      "artists": [
-        {
-          "name": "Alice et Moi",
-          "url": "https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3"
-        }
-      ],
-      "duration_ms": 176821,
-      "name": "Photographies",
-      "url": "https://open.spotify.com/track/3zjeCHlhWyJwQDKppjMG1F"
     },
     {
       "added_at": "2023-04-14 04:00:00",

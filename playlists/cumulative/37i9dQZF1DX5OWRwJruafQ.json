@@ -511,6 +511,32 @@
     },
     {
       "album": {
+        "name": "Don\u2019T Care",
+        "url": "https://open.spotify.com/album/1ZbZn6xKNv0PDn7hq2B9Av"
+      },
+      "artists": [
+        {
+          "name": "Gur. V",
+          "url": "https://open.spotify.com/artist/28zEsrNPBJJSsmRjsysTvY"
+        },
+        {
+          "name": "Jot Dhindsa",
+          "url": "https://open.spotify.com/artist/6pJP9TynvFU2wR1pDMtwth"
+        },
+        {
+          "name": "Deepak Dhillon",
+          "url": "https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170250,
+      "name": "Don\u2019T Care",
+      "url": "https://open.spotify.com/track/4AGDZS12QtecmUYaIdIxZ5"
+    },
+    {
+      "album": {
         "name": "Jatt Da Nishana",
         "url": "https://open.spotify.com/album/63SkBlsiJBtXn24OefwFLT"
       },
@@ -1138,6 +1164,32 @@
       "duration_ms": 223715,
       "name": "Mere Wala Jatt",
       "url": "https://open.spotify.com/track/2A9cZk5m1wYvlUPLhIMA7U"
+    },
+    {
+      "album": {
+        "name": "Miss India",
+        "url": "https://open.spotify.com/album/2jPAZcpRzdI7GIMThM56am"
+      },
+      "artists": [
+        {
+          "name": "George Sidhu",
+          "url": "https://open.spotify.com/artist/3D2754tZxCEJ4bhiEN0QEC"
+        },
+        {
+          "name": "G Noor",
+          "url": "https://open.spotify.com/artist/3oCuewGts8hB4pGDkG5Lo8"
+        },
+        {
+          "name": "Riyaaz",
+          "url": "https://open.spotify.com/artist/7CpYGl06EZeQ7cQJ6lCTkq"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176158,
+      "name": "Miss India",
+      "url": "https://open.spotify.com/track/25YxiGah27DBUtuxADIzug"
     },
     {
       "album": {

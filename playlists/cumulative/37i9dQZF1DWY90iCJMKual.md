@@ -4,7 +4,7 @@
 
 > Groove to the rhythm of OPM's R&B tunes\. Cover: Termula
 
-102 songs - 6 hr 12 min
+104 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Kulang](https://open.spotify.com/track/6uGRcwf0z3FV9CGC5jOrxX) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Kulang](https://open.spotify.com/album/43yikgeYnQWXUzMfqN4j9i) | 4:00 | 2022-12-14 |  |
 | [Kusa](https://open.spotify.com/track/58V8gsbmm9RxVeCzbn9Tbz) | [VNCE](https://open.spotify.com/artist/3zMIe4QuRLRn7JDkxBeENc) | [Kusa](https://open.spotify.com/album/6qhqfpUcoJiYusxKWOTWI7) | 2:20 | 2023-04-06 |  |
 | [Labis](https://open.spotify.com/track/3sDoNhKtVJvUnkZMK51MAN) | [Ichan](https://open.spotify.com/artist/3U65jtJ0G4RudAEsuanoQA), [Lee](https://open.spotify.com/artist/3eQtpy0MqPUf6GNDIIut3T) | [Labis](https://open.spotify.com/album/05vUTwC0R27PEPwj91rZE3) | 4:17 | 2022-10-12 |  |
+| [Lambing \(feat\. Kiyo\)](https://open.spotify.com/track/0daJYm6XQNjKKiIrddULNH) | [KINDRED](https://open.spotify.com/artist/20bisCfPMhrXJH4Wv5lmh1), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [Lambing \(feat\. Kiyo\)](https://open.spotify.com/album/6l0kQa5M2byUTlTE3vQPug) | 3:41 | 2023-04-17 |  |
 | [Late Night Drive](https://open.spotify.com/track/5jwMDxDZ6ZgGIk2rHPwbsR) | [CJt](https://open.spotify.com/artist/5wMe42YSVxyFt6amGFPCbS) | [Late Night Drive](https://open.spotify.com/album/5bOLs8MfFRAvnZxQiHTYoy) | 2:27 | 2022-10-12 | 2022-12-15 |
 | [Ligaw](https://open.spotify.com/track/7CgEAxsgEf3L6EoSTEiDq8) | [Matthaios](https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw), [VNCE](https://open.spotify.com/artist/3zMIe4QuRLRn7JDkxBeENc) | [Ligaw](https://open.spotify.com/album/6TErTHNkA9zNz4m7quSBfO) | 3:23 | 2022-10-12 |  |
 | [Love Or Lust](https://open.spotify.com/track/4Nmo5m5ZBiPWDGqLuCTk23) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Love Or Lust](https://open.spotify.com/album/2YycMpmAokC9s0drh9tcnQ) | 2:57 | 2022-10-12 |  |
@@ -88,6 +89,7 @@
 | [Quality Time \(feat\. Mojia\)](https://open.spotify.com/track/3tCYXh7yjlu45fXgq85LmF) | [Swizzy Max](https://open.spotify.com/artist/7cDiSfjL2vCN5RHjDZocrt), [Mojia](https://open.spotify.com/artist/402vcacHfl5PtJLptZ2N8L) | [Quality Time \(feat\. Mojia\)](https://open.spotify.com/album/2JjEzLVaMzJxQkM8vslmYC) | 2:54 | 2022-10-12 |  |
 | [RAIN \(feat\. SIK4M1\)](https://open.spotify.com/track/1RyNTn3xMOxEEKBPPNv26Y) | [Shayne Carmel](https://open.spotify.com/artist/5ihyCQON8OCN3L7LtdvPJh), [Ruth Lee Resuello](https://open.spotify.com/artist/2t2lODOqTfxQh0CyN6Wx20), [Millennium PH](https://open.spotify.com/artist/0Rqq0FtfXdLCVTMi4iuM0o), [SIK4M1](https://open.spotify.com/artist/1djddcVQAVA3lJTLmzIj7e) | [RAIN \(feat\. SIK4M1\)](https://open.spotify.com/album/4RUoQYHy04Sm41QDwB9Tyz) | 3:31 | 2022-10-12 |  |
 | [RBND](https://open.spotify.com/track/0aHciOWN2wx4tVCv0lwZqs) | [Zachary](https://open.spotify.com/artist/5rqiwyKEa9FZTy78BVNRSc) | [RBND](https://open.spotify.com/album/2IgRAdB7ITP9m0NQAn9mrM) | 2:57 | 2022-12-14 |  |
+| [Right Time](https://open.spotify.com/track/1i1qzqAEak05032RuwcrTY) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Right Time](https://open.spotify.com/album/7IMA9Uv2Eys0tNrQ1ImYrE) | 3:28 | 2023-04-17 |  |
 | [Routine](https://open.spotify.com/track/36KV0cYK3Yp2RCs4bhrm3h) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Routine](https://open.spotify.com/album/5Ulkl1psrp9cElqaRNF5dB) | 3:26 | 2022-10-12 |  |
 | [Runnin' Around](https://open.spotify.com/track/70kWaRixZM83Nh5zazGZHq) | [Austin Reine](https://open.spotify.com/artist/2jVVFmvJih0Myvu6FxQkvp), [LTD](https://open.spotify.com/artist/5sqYnMZWGPsvTH8pqzZ4SD), [CM Rosal](https://open.spotify.com/artist/4cTNBFExS8XBaznA30LRqr) | [Runnin' Around](https://open.spotify.com/album/6TVpWDZWHYVn0DSlW0T5V2) | 2:30 | 2022-10-12 |  |
 | [Sa Iyo \- Diwata](https://open.spotify.com/track/4jqKGlGuRDxV1Eyah6Brw3) | [Just Hush](https://open.spotify.com/artist/3KovZIDNYgQY8chiNZo2ZF) | [Sa Iyo \(Diwata\)](https://open.spotify.com/album/0AsdvGRMxu6mbVzGHgb7jy) | 4:12 | 2022-10-12 |  |

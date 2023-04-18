@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: All Time Low",
-  "num_followers": 444772,
+  "num_followers": 444891,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTI1NDEzNCwwMDAwMDAwMGUzNTg4MzRmODk4ZjQxMjAwOTY1Y2JlZmY3YTM0MmQ5",
+  "snapshot_id": "MTY4MTI1NDEzNCwwMDAwMDAwMDUxYmEzNmU5YmNkYzExZWY1NDZiMDdkZjNmN2RiNjg1",
   "tracks": [
     {
       "added_at": "2023-04-10 16:42:16",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-04-10 16:42:16",
       "album": {
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/1Yg1708otT3hsWtAprglw7"
+      },
+      "artists": [
+        {
+          "name": "Bohnes",
+          "url": "https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q"
+        }
+      ],
+      "duration_ms": 207177,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY"
+    },
+    {
+      "added_at": "2023-04-10 16:42:16",
+      "album": {
         "name": "FREAK (Feat. jxdn)",
         "url": "https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 149142,
       "name": "FREAK (Feat. jxdn)",
       "url": "https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP"
-    },
-    {
-      "added_at": "2023-04-10 16:42:16",
-      "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/1Yg1708otT3hsWtAprglw7"
-      },
-      "artists": [
-        {
-          "name": "Bohnes",
-          "url": "https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q"
-        }
-      ],
-      "duration_ms": 207177,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY"
     },
     {
       "added_at": "2023-04-10 16:42:16",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-04-10 16:42:16",
       "album": {
+        "name": "She Likes My Tattoos",
+        "url": "https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7"
+      },
+      "artists": [
+        {
+          "name": "Pardyalone",
+          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
+        }
+      ],
+      "duration_ms": 164327,
+      "name": "She Likes My Tattoos",
+      "url": "https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g"
+    },
+    {
+      "added_at": "2023-04-10 16:42:16",
+      "album": {
         "name": "Dark Days (feat. Jeris Johnson)",
         "url": "https://open.spotify.com/album/2T4kKSW1ZBjE8QDQoPlGJO"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 170000,
       "name": "Dark Days (feat. Jeris Johnson)",
       "url": "https://open.spotify.com/track/0noEqnVKPCwEvgWekT1Pzl"
-    },
-    {
-      "added_at": "2023-04-10 16:42:16",
-      "album": {
-        "name": "She Likes My Tattoos",
-        "url": "https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7"
-      },
-      "artists": [
-        {
-          "name": "Pardyalone",
-          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
-        }
-      ],
-      "duration_ms": 164327,
-      "name": "She Likes My Tattoos",
-      "url": "https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g"
     },
     {
       "added_at": "2023-04-10 16:42:16",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-04-10 16:42:16",
       "album": {
-        "name": "Six Feet Under",
-        "url": "https://open.spotify.com/album/5ouxbPTfPDOnC70GIkZ27F"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Sands",
-          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
-        }
-      ],
-      "duration_ms": 191976,
-      "name": "Six Feet Under",
-      "url": "https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf"
-    },
-    {
-      "added_at": "2023-04-10 16:42:16",
-      "album": {
         "name": "Kings of the New Age",
         "url": "https://open.spotify.com/album/2BZ8KjxTb0pNNKFwQmG1j9"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 227393,
       "name": "Everybody but You",
       "url": "https://open.spotify.com/track/40FJkZzaY8DWGtYoCB63EE"
+    },
+    {
+      "added_at": "2023-04-10 16:42:16",
+      "album": {
+        "name": "Six Feet Under",
+        "url": "https://open.spotify.com/album/5ouxbPTfPDOnC70GIkZ27F"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 191976,
+      "name": "Six Feet Under",
+      "url": "https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf"
     },
     {
       "added_at": "2023-04-10 16:42:16",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-04-10 16:42:16",
       "album": {
+        "name": "Fuck You",
+        "url": "https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Fuck You",
+      "url": "https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9"
+    },
+    {
+      "added_at": "2023-04-10 16:42:16",
+      "album": {
         "name": "Real Life",
         "url": "https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x"
       },
@@ -999,22 +1015,6 @@
     {
       "added_at": "2023-04-10 16:42:16",
       "album": {
-        "name": "Fuck You",
-        "url": "https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Fuck You",
-      "url": "https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9"
-    },
-    {
-      "added_at": "2023-04-10 16:42:16",
-      "album": {
         "name": "DIRTY WHITE VANS//",
         "url": "https://open.spotify.com/album/7GFoR6svUHjlQrG71ipmky"
       },
@@ -1043,6 +1043,22 @@
       "duration_ms": 142600,
       "name": "LEVITATE (The Summer Song)",
       "url": "https://open.spotify.com/track/6uIPSuyyTXhED74zn4weTS"
+    },
+    {
+      "added_at": "2023-04-10 16:42:16",
+      "album": {
+        "name": "INTELLECTUAL PROPERTY",
+        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 164138,
+      "name": "FUNERAL GREY",
+      "url": "https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2"
     },
     {
       "added_at": "2023-04-10 16:42:16",
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2023-04-10 16:42:16",
       "album": {
-        "name": "GENRELESS",
-        "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
-      },
-      "artists": [
-        {
-          "name": "LESANE",
-          "url": "https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L"
-        }
-      ],
-      "duration_ms": 101650,
-      "name": "COLD BEER",
-      "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
-    },
-    {
-      "added_at": "2023-04-10 16:42:16",
-      "album": {
         "name": "Tell Me I'm Alive",
         "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
       },
@@ -1155,6 +1155,22 @@
       "duration_ms": 194227,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/72zjYe2aysOkIR7l6KQIhR"
+    },
+    {
+      "added_at": "2023-04-10 16:42:16",
+      "album": {
+        "name": "GENRELESS",
+        "url": "https://open.spotify.com/album/7kTqaUsZea6CxLpvgzRA3E"
+      },
+      "artists": [
+        {
+          "name": "LESANE",
+          "url": "https://open.spotify.com/artist/57N1gBU2XPgJH1f8UPBW7L"
+        }
+      ],
+      "duration_ms": 101650,
+      "name": "COLD BEER",
+      "url": "https://open.spotify.com/track/5pYO1LrXa4dbO2SxSliUhs"
     },
     {
       "added_at": "2023-04-10 16:42:16",
@@ -1175,22 +1191,6 @@
       "duration_ms": 175172,
       "name": "Cursive",
       "url": "https://open.spotify.com/track/75uCGgJsrtHWNViJhGMD4H"
-    },
-    {
-      "added_at": "2023-04-10 16:42:16",
-      "album": {
-        "name": "INTELLECTUAL PROPERTY",
-        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 164138,
-      "name": "FUNERAL GREY",
-      "url": "https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2"
     },
     {
       "added_at": "2023-04-10 16:42:16",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-04-10 16:42:16",
       "album": {
-        "name": "Six Feet",
-        "url": "https://open.spotify.com/album/1xFWyudHW6mEh3WYHPRRSI"
-      },
-      "artists": [
-        {
-          "name": "Real Friends",
-          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
-        }
-      ],
-      "duration_ms": 181580,
-      "name": "Six Feet",
-      "url": "https://open.spotify.com/track/2aU60JTvtQOPQ7CPkpJrnz"
-    },
-    {
-      "added_at": "2023-04-10 16:42:16",
-      "album": {
         "name": "Dandelions",
         "url": "https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 179809,
       "name": "Dandelions",
       "url": "https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA"
+    },
+    {
+      "added_at": "2023-04-10 16:42:16",
+      "album": {
+        "name": "Six Feet",
+        "url": "https://open.spotify.com/album/1xFWyudHW6mEh3WYHPRRSI"
+      },
+      "artists": [
+        {
+          "name": "Real Friends",
+          "url": "https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw"
+        }
+      ],
+      "duration_ms": 181580,
+      "name": "Six Feet",
+      "url": "https://open.spotify.com/track/2aU60JTvtQOPQ7CPkpJrnz"
     },
     {
       "added_at": "2023-04-10 16:42:16",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-04-10 16:42:16",
       "album": {
-        "name": "Permanent Rebellion",
-        "url": "https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH"
-      },
-      "artists": [
-        {
-          "name": "L.S. Dunes",
-          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
-        }
-      ],
-      "duration_ms": 193976,
-      "name": "Permanent Rebellion",
-      "url": "https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M"
-    },
-    {
-      "added_at": "2023-04-10 16:42:16",
-      "album": {
         "name": "Perfectly Imperfect",
         "url": "https://open.spotify.com/album/0mXpWAdx70cPnVJIkEDDsx"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 218552,
       "name": "Foxglove",
       "url": "https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG"
+    },
+    {
+      "added_at": "2023-04-10 16:42:16",
+      "album": {
+        "name": "Permanent Rebellion",
+        "url": "https://open.spotify.com/album/2LbVe89xE3nidK1eYLwrfH"
+      },
+      "artists": [
+        {
+          "name": "L.S. Dunes",
+          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
+        }
+      ],
+      "duration_ms": 193976,
+      "name": "Permanent Rebellion",
+      "url": "https://open.spotify.com/track/2Ot85xcajHDvU7cD2BdR2M"
     },
     {
       "added_at": "2023-04-10 16:42:16",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-04-10 16:42:16",
       "album": {
-        "name": "Don't Be Racist",
-        "url": "https://open.spotify.com/album/0VCDfLWvWT06qIxoCx33Mj"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 193874,
-      "name": "Don't Be Racist",
-      "url": "https://open.spotify.com/track/6fhA7RAtLJDiPPLfHhkjso"
-    },
-    {
-      "added_at": "2023-04-10 16:42:16",
-      "album": {
         "name": "Vandalize",
         "url": "https://open.spotify.com/album/457jZPSKtrWepu8RKsHG1a"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 194695,
       "name": "Vandalize - Japanese Version",
       "url": "https://open.spotify.com/track/2nuDirYeA0wsYcFMgC7L8E"
+    },
+    {
+      "added_at": "2023-04-10 16:42:16",
+      "album": {
+        "name": "Don't Be Racist",
+        "url": "https://open.spotify.com/album/0VCDfLWvWT06qIxoCx33Mj"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 193874,
+      "name": "Don't Be Racist",
+      "url": "https://open.spotify.com/track/6fhA7RAtLJDiPPLfHhkjso"
     }
   ],
   "unique_name": "The Scene",

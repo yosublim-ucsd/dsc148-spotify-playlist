@@ -338,10 +338,28 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 205729,
       "name": "A Night in Shibuya",
       "url": "https://open.spotify.com/track/0MKacxWoNCBVDS3evLi4BZ"
+    },
+    {
+      "album": {
+        "name": "A Night in Shibuya",
+        "url": "https://open.spotify.com/album/24z6i61iV5LaeQXtEQDRKn"
+      },
+      "artists": [
+        {
+          "name": "Figo",
+          "url": "https://open.spotify.com/artist/0BVfgdAkJOnrpoFl2bKkQM"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205729,
+      "name": "A Night in Shibuya",
+      "url": "https://open.spotify.com/track/6O2Ei6TnkvlrE64PQxuX0A"
     },
     {
       "album": {

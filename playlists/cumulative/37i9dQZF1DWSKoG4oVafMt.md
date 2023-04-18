@@ -2,9 +2,9 @@
 
 ### [Punjabi Pyar](https://open.spotify.com/playlist/37i9dQZF1DWSKoG4oVafMt)
 
-> The very best of Punjabi romance featuring Neeru Bajwa & Satinder Sartaaj
+> The very best of Punjabi romance featuring Diljit Dosanjh & Nimrat Khaira
 
-730 songs - 1 day 15 hr 37 min
+731 songs - 1 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [Jhalleya Dila](https://open.spotify.com/track/1hLZbQnKl3ElI3hS3gW21X) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Jhalleya Dila](https://open.spotify.com/album/2xn8lvOvu7wUIYqp1OIiQa) | 3:21 | 2022-01-12 | 2022-05-11 |
 | [Jhanjar](https://open.spotify.com/track/5HOzhBs1Oos4eAadzqmjhy) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [The Boss Lady](https://open.spotify.com/album/6RIkd4UrDkJ1N0BUvtuhy3) | 2:38 | 2022-08-04 | 2023-02-02 |
 | [Jhooth](https://open.spotify.com/track/5fIaC4ukz4xhK7sJcZYHVk) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Sara Gurpal](https://open.spotify.com/artist/3Agskd2jrYif8W7sDPPf0v), [Pratik Sehajpal](https://open.spotify.com/artist/63wPenaAPhlV2kTBrD0McP) | [Jhooth](https://open.spotify.com/album/2sVlsMB6P7B3SAXmsFtvC4) | 3:40 | 2023-02-01 | 2023-02-04 |
+| [Jigra Te Laija Gabrua \(From "Jodi"\)](https://open.spotify.com/track/6jwxRsmJwIezmZxYVQCcVa) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Jigra Te Laija Gabrua \(From "Jodi"\)](https://open.spotify.com/album/67yYAM5OiNbJjQJjaSVEAv) | 2:54 | 2023-04-17 |  |
 | [Jind Tere Naam](https://open.spotify.com/track/1FhvIkgpQ7XV57psmV1Doq) | [Raj Brar](https://open.spotify.com/artist/6ZBd1hRd7fSEEn7UM1UDCv) | [Jind Tere Naam](https://open.spotify.com/album/0gVTIRWykkCsotRRbtOBs0) | 3:01 | 2022-01-21 | 2022-02-05 |
 | [Jinna Jinna](https://open.spotify.com/track/3HhX98RjjN3upy74jDqwc7) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX) | [Main Viyah Nahi Karona Tere Naal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5q9U1dmh17HFjgwEwNdsGH) | 3:14 | 2022-11-09 | 2022-11-13 |
 | [Jinna Jinna \( From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/track/4qjrUAcl6Wn7BdEVBLk33y) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Daddy Beats](https://open.spotify.com/artist/1X8jfXY8suwZySWPSaieKs) | [Jinna Jinna \( From "Main Viyah Nahi Karona Tere Naal"\)](https://open.spotify.com/album/1NtyJGZS5HMYEjF8TQHdGU) | 3:14 | 2022-02-17 | 2022-07-29 |

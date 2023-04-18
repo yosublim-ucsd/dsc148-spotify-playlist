@@ -7023,6 +7023,24 @@
     },
     {
       "album": {
+        "name": "Harder Than Ever",
+        "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173437,
+      "name": "Southside",
+      "url": "https://open.spotify.com/track/5lf3ajySox32qFvGEf2TFM"
+    },
+    {
+      "album": {
         "name": "Time Served",
         "url": "https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv"
       },
@@ -8170,6 +8188,24 @@
       "duration_ms": 142471,
       "name": "Way It Go",
       "url": "https://open.spotify.com/track/3XKvJoOD0pjiM36AjlCeyd"
+    },
+    {
+      "album": {
+        "name": "4Respect 4Freedom 4Loyalty 4WhatImportant",
+        "url": "https://open.spotify.com/album/4tCZ22E9RnUz09OaDJfaoO"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167276,
+      "name": "We Dem",
+      "url": "https://open.spotify.com/track/4rlvqiq90liG5L5gpcUpiq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-397 songs - 1 day 16 hr 24 min
+398 songs - 1 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,7 @@
 | [Mesta](https://open.spotify.com/track/3HIyzleWbghroY372GMajL) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Mesta](https://open.spotify.com/album/2uDlUnjYwrxwSmeftzqo8G) | 6:11 | 2021-08-20 |  |
 | [Mezcal](https://open.spotify.com/track/6dhXnd3p9TlLXHQm0fVYtA) | [MIGANOVA](https://open.spotify.com/artist/7JZgaqDtEI3wwdvfeEuWXT) | [Mezcal](https://open.spotify.com/album/0K7nRLxSiwSF4O42winWoH) | 6:48 | 2021-12-13 | 2022-04-21 |
 | [Milla Ella](https://open.spotify.com/track/0A2mTYI8HDN0X6afRLSHB4) | [Come Closer](https://open.spotify.com/artist/0ldaAtkGESIpY4avgd1LqC) | [Milla Ella](https://open.spotify.com/album/0FhyEz5SmhnAmJQBvlx4MY) | 8:49 | 2021-08-27 | 2022-07-10 |
-| [Minero](https://open.spotify.com/track/0ZEQcLlNxQI1McXdTX3QQZ) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Minero](https://open.spotify.com/album/7ijwFFxaAbIFuhQE41eznr) | 6:09 | 2021-12-13 |  |
+| [Minero](https://open.spotify.com/track/0ZEQcLlNxQI1McXdTX3QQZ) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Minero](https://open.spotify.com/album/7ijwFFxaAbIFuhQE41eznr) | 6:09 | 2021-12-13 | 2023-04-18 |
 | [Miombo \- Original](https://open.spotify.com/track/2Jyu4yhzCv25s2xtwLpq8P) | [Laroz](https://open.spotify.com/artist/37VopouYOyLqeH34jEZ7W9) | [Miombo](https://open.spotify.com/album/5GtgbyB6ATyCEAryQrTiFE) | 7:01 | 2021-04-21 | 2022-06-29 |
 | [Mistery Lady](https://open.spotify.com/track/3OPOlqB7BWK5a9WL7eGqGM) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Soulmanic](https://open.spotify.com/artist/20zMeXKHidTZrxhk7Qdo5x) | [Mistery Lady](https://open.spotify.com/album/7pSNLI38T60BpQSq20ETle) | 3:52 | 2023-04-07 |  |
 | [Moogami](https://open.spotify.com/track/3eE1iKxmBVgsQK11Gk4WM9) | [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h), [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq) | [Moogami EP](https://open.spotify.com/album/7dFiAtaxK2FejRLMb9pAfW) | 9:01 | 2021-04-21 | 2022-07-16 |
@@ -268,6 +268,7 @@
 | [On My Knees \- Adriatique Remix](https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [On My Knees \(Adriatique Remix\)](https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr) | 7:32 | 2022-07-28 |  |
 | [Once Again \- Edit](https://open.spotify.com/track/00n7wN0flnH48KVwQOms7A) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh) | [Evaporate EP](https://open.spotify.com/album/4A3MuCKnk8RHXepwfX9qf1) | 4:12 | 2021-10-01 | 2022-07-29 |
 | [One More Ride](https://open.spotify.com/track/1eys1iysFllOg7dAbUjFtB) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [One More Ride](https://open.spotify.com/album/5TjLnQfzTLcftYCkJOYRuT) | 6:56 | 2021-04-21 | 2022-07-29 |
+| [One Way](https://open.spotify.com/track/3V0AtDnWpKc5m9ZSxGNkiv) | [Agatha Pher](https://open.spotify.com/artist/0VRg3UWCu6DUIB7r5jqZZJ) | [One Way](https://open.spotify.com/album/2KZCa3njlP1MI1OdS026Eg) | 8:55 | 2023-03-31 |  |
 | [Only](https://open.spotify.com/track/79nJCukLolYKeltbUDlLS8) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Only](https://open.spotify.com/album/0EahPFAeYJ0NJRWrltZFi8) | 7:34 | 2022-07-18 | 2022-08-23 |
 | [Open Secret](https://open.spotify.com/track/4cKPCUHY4PmNbQEUjS3KUU) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Open Secret](https://open.spotify.com/album/1GipAiG1HNG1npI5lSeWs7) | 4:33 | 2022-05-20 | 2022-07-22 |
 | [Oracle](https://open.spotify.com/track/3gJu4keUtRC5e32h64905c) | [Michael Canitrot](https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv) | [Oracle](https://open.spotify.com/album/4HlY3pU8a1WADSLdTS6iBX) | 4:51 | 2022-07-01 | 2022-09-15 |

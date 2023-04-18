@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "* da Anitta",
+        "url": "https://open.spotify.com/album/5vrDahFF5TU32GwPMxP4SC"
+      },
+      "artists": [
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140100,
+      "name": "* da Anitta",
+      "url": "https://open.spotify.com/track/0VhG6qzFZo9JrHu56Wq7gh"
+    },
+    {
+      "album": {
         "name": "1991",
         "url": "https://open.spotify.com/album/48hRv6kV9kmYzQNG1ocFH8"
       },
@@ -456,7 +482,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 251418,
       "name": "Aulas e Palestras",
       "url": "https://open.spotify.com/track/0eh5ZxasoT8tJBDEZ6oi6c"
@@ -3532,7 +3558,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 217872,
       "name": "Sala de Estar",
       "url": "https://open.spotify.com/track/1LTgY069vxDFybdo3Lhr9h"

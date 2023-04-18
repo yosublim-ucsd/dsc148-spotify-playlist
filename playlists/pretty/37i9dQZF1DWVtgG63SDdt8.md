@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4?si=7125ac0f4fdf4097">Cade Thompson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,168 likes - 99 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,237 likes - 99 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

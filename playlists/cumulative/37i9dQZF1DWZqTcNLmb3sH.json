@@ -5060,7 +5060,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 235624,
       "name": "Hodalo Bittu Hodalo (from \"Veeram\")",
       "url": "https://open.spotify.com/track/13MCBoyvRHTmFVvikqlzAk"
@@ -5118,7 +5118,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 256420,
       "name": "Hodeya Doora Nee",
       "url": "https://open.spotify.com/track/0ZceismjoPxbLhkZQSEbpm"
@@ -9790,7 +9790,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 344491,
       "name": "Neenillade (From \"Mandala - The UFO Incident\")",
       "url": "https://open.spotify.com/track/3WFDYO4qmhxnTFmHJlOxe2"
@@ -10126,6 +10126,32 @@
       "duration_ms": 286000,
       "name": "Ninadene Januma",
       "url": "https://open.spotify.com/track/01dinBefJdMHHFdNYurQt3"
+    },
+    {
+      "album": {
+        "name": "Ninage Sigalu Eedina (From \"Pranayam\")",
+        "url": "https://open.spotify.com/album/0AqZBeTmunjZ805n9kBSX9"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Mano Murthy",
+          "url": "https://open.spotify.com/artist/3ijciQeyNDV7iQicWGWLWj"
+        },
+        {
+          "name": "Chinmay Bhavikere",
+          "url": "https://open.spotify.com/artist/58qVDLXPZcodljlDBUNiOk"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212600,
+      "name": "Ninage Sigalu Eedina (From \"Pranayam\")",
+      "url": "https://open.spotify.com/track/3FSyxmCld0H3SCL1WQ1JVi"
     },
     {
       "album": {
@@ -10744,7 +10770,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 167540,
       "name": "Oh Ammalaali Ammalaali (From \"Dasara\")",
       "url": "https://open.spotify.com/track/5PD9FrQ1lkGTBvx0jFcVUT"
@@ -11614,6 +11640,32 @@
       "duration_ms": 230948,
       "name": "Preethi Mador Life Istena - From \"Hushar\"",
       "url": "https://open.spotify.com/track/0D8AsCMSjv8dXRi17Darno"
+    },
+    {
+      "album": {
+        "name": "PS Anthem (From \u201cPS-2\") [Kannada] [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/4dXfycka0T079aL7HYORMB"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Nakul Abhyankar",
+          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
+        },
+        {
+          "name": "Nabyla Maan",
+          "url": "https://open.spotify.com/artist/11MBLpYXQnyoJN5wJ9NQhW"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183111,
+      "name": "PS Anthem (From \u201cPS-2\") [Kannada]",
+      "url": "https://open.spotify.com/track/0xf1Yhdwv1HTuv6oyHrRn3"
     },
     {
       "album": {
@@ -13512,7 +13564,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 256538,
       "name": "Theme Song (From \"Pentagon\")",
       "url": "https://open.spotify.com/track/2amLyygrGznwGVfqIiz0fC"

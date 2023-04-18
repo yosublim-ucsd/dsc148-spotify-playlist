@@ -1,12 +1,12 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
-  "num_followers": 759883,
+  "num_followers": 760113,
   "original_name": "\u201980s Jam Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTE3NzE0NCwwMDAwMDAwMGJkNmZkMzg2ZWQxNDkxZTgwYTM1NTIyNDE1ZWZkN2Ez",
+  "snapshot_id": "MTYyOTE3NzE0NCwwMDAwMDAwMDQ0MWRiOWVlYmZkZTg3NDI0ZTBmZTNhMzU5NzAxZTll",
   "tracks": [
     {
       "added_at": "2021-04-01 19:37:56",
@@ -315,6 +315,22 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "The Gap Band IV",
+        "url": "https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG"
+      },
+      "artists": [
+        {
+          "name": "The Gap Band",
+          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
+        }
+      ],
+      "duration_ms": 312906,
+      "name": "You Dropped A Bomb On Me",
+      "url": "https://open.spotify.com/track/1VKPiQJnV15flF5B3zeocD"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "Somebody Else's Guy",
         "url": "https://open.spotify.com/album/2pcRJjqlPRWEL50C17bZ09"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 279800,
       "name": "Nights Over Egypt",
       "url": "https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "The Gap Band IV",
-        "url": "https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG"
-      },
-      "artists": [
-        {
-          "name": "The Gap Band",
-          "url": "https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp"
-        }
-      ],
-      "duration_ms": 312906,
-      "name": "You Dropped A Bomb On Me",
-      "url": "https://open.spotify.com/track/1VKPiQJnV15flF5B3zeocD"
     },
     {
       "added_at": "2021-04-01 19:37:56",

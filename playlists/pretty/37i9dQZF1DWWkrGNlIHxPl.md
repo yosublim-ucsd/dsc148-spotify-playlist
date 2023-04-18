@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 
 > Global crossovers by/with Arab artists\. Cover: Ghita
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,576 likes - 49 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,679 likes - 48 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Garden](https://open.spotify.com/track/0tfdhbTzWw4S7MMG3Euw50) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Garden](https://open.spotify.com/album/5nF0rJdSzwT2V7iJKFKxtO) | 2:48 |
-| 2 | [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 |
-| 3 | [Change Tomorrow](https://open.spotify.com/track/0dItuN1tugzBIXMttqsuY7) | [Jay Abo](https://open.spotify.com/artist/1Uad5DOAyWNd3yTUsF6mP7) | [Change Tomorrow](https://open.spotify.com/album/65SFAWxelR0yqqgICyx6Mn) | 4:01 |
-| 4 | [From Gaza, With Love](https://open.spotify.com/track/49AG4MU3Ij6a8NWEVLMuRu) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [From Gaza, With Love](https://open.spotify.com/album/5bah1OVDvcvn92BMkgOO6o) | 1:59 |
-| 5 | [Popular](https://open.spotify.com/track/5cojeuxRNPvDBGrSwlUwqI) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Popular](https://open.spotify.com/album/4HpPrnztMTNL0jWNq2aV4k) | 2:06 |
-| 6 | [Gazing](https://open.spotify.com/track/6b7ob860TUCKrj1U5SrWEU) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Gazing](https://open.spotify.com/album/3nkipMsCFqQ5OrX3aN6Qpz) | 2:53 |
+| 1 | [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 |
+| 2 | [POINT OF NO RETURN](https://open.spotify.com/track/4GgFF0xemAwyhyXDbTsXG1) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [POINT OF NO RETURN](https://open.spotify.com/album/1B0A3zeqNO0EsFr3zaQxRq) | 3:34 |
+| 3 | [Gazing](https://open.spotify.com/track/6b7ob860TUCKrj1U5SrWEU) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Gazing](https://open.spotify.com/album/3nkipMsCFqQ5OrX3aN6Qpz) | 2:53 |
+| 4 | [Popular](https://open.spotify.com/track/5cojeuxRNPvDBGrSwlUwqI) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Popular](https://open.spotify.com/album/4HpPrnztMTNL0jWNq2aV4k) | 2:06 |
+| 5 | [From Gaza, With Love](https://open.spotify.com/track/49AG4MU3Ij6a8NWEVLMuRu) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [From Gaza, With Love](https://open.spotify.com/album/5bah1OVDvcvn92BMkgOO6o) | 1:59 |
+| 6 | [Garden](https://open.spotify.com/track/0tfdhbTzWw4S7MMG3Euw50) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Garden](https://open.spotify.com/album/5nF0rJdSzwT2V7iJKFKxtO) | 2:48 |
 | 7 | [complicated\_5](https://open.spotify.com/track/1H4mPyCMllISVPsrlpdzqw) | [artistbasm](https://open.spotify.com/artist/4L9VftgkqPPV0KXjzM0SIh) | [complicated\_5](https://open.spotify.com/album/1J5sJ59sMgEGc8idzbj6Ml) | 3:12 |
 | 8 | [Something I Need](https://open.spotify.com/track/5j3so8OA4ddWtvObRxy0zm) | [Koteri](https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI) | [Something I Need](https://open.spotify.com/album/467mQuu2y4ISHnWMAMOHAX) | 3:36 |
 | 9 | [OBSESSED](https://open.spotify.com/track/7k2nyUIUCK6lZGeA6zdj8Z) | [Zahraa](https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr) | [OBSESSED](https://open.spotify.com/album/6E9QcKgzS7TYqFmENIBkiG) | 2:54 |
-| 10 | [POINT OF NO RETURN](https://open.spotify.com/track/4GgFF0xemAwyhyXDbTsXG1) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [POINT OF NO RETURN](https://open.spotify.com/album/1B0A3zeqNO0EsFr3zaQxRq) | 3:34 |
-| 11 | [The Tourist / The Local](https://open.spotify.com/track/1v5LAYzi7wmsMXeZv57tHJ) | [Marwan Elfakharany](https://open.spotify.com/artist/2oG1c2PmDXKTLMofwwgTxp) | [Chapter 2: Love Come Get Me](https://open.spotify.com/album/1ZeizNe18uXDvzywCQ0tG3) | 4:44 |
-| 12 | [Dodi and Diana](https://open.spotify.com/track/2qLXPJKlyq3AdL5BfkPLtJ) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Dodi and Diana](https://open.spotify.com/album/5BDRacsQIb2OfWeyoz1mLi) | 2:18 |
-| 13 | [Queen](https://open.spotify.com/track/75GOJlE9TOU8LeHdMY5gba) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Queen](https://open.spotify.com/album/7d9o63pw979XngrDlHRrey) | 3:05 |
+| 10 | [The Tourist / The Local](https://open.spotify.com/track/1v5LAYzi7wmsMXeZv57tHJ) | [Marwan Elfakharany](https://open.spotify.com/artist/2oG1c2PmDXKTLMofwwgTxp) | [Chapter 2: Love Come Get Me](https://open.spotify.com/album/1ZeizNe18uXDvzywCQ0tG3) | 4:44 |
+| 11 | [Dodi and Diana](https://open.spotify.com/track/2qLXPJKlyq3AdL5BfkPLtJ) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Dodi and Diana](https://open.spotify.com/album/5BDRacsQIb2OfWeyoz1mLi) | 2:18 |
+| 12 | [Queen](https://open.spotify.com/track/75GOJlE9TOU8LeHdMY5gba) | [Tasneem Elaidy](https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU) | [Queen](https://open.spotify.com/album/7d9o63pw979XngrDlHRrey) | 3:05 |
+| 13 | [Change Tomorrow](https://open.spotify.com/track/0dItuN1tugzBIXMttqsuY7) | [Jay Abo](https://open.spotify.com/artist/1Uad5DOAyWNd3yTUsF6mP7) | [Change Tomorrow](https://open.spotify.com/album/65SFAWxelR0yqqgICyx6Mn) | 4:01 |
 | 14 | [Heat](https://open.spotify.com/track/42v0E7B6vsNtls6UrzC9ui) | [KATARYA](https://open.spotify.com/artist/0NebVdki9sW4rcxCBnBfaV) | [Heat](https://open.spotify.com/album/2oAyoiJZwHEQWDrltRnJIz) | 2:45 |
 | 15 | [Believing In Me \(feat\. King Los\)](https://open.spotify.com/track/7JwWZEXsbB1Fb7cmrmpoOo) | [saüd](https://open.spotify.com/artist/3pYZIM4PKTsP20sNSSLs0m), [King Los](https://open.spotify.com/artist/29M3C4IzWXrztUr4cV2umC) | [Believing In Me](https://open.spotify.com/album/6oLdufnqZzlL643clLTGmM) | 2:24 |
 | 16 | [XENA](https://open.spotify.com/track/3RWjhGoGLeJlrPlMWJyHJf) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [XENA](https://open.spotify.com/album/6dIRD8FVDLGmA0AoxYEOeA) | 4:11 |
@@ -55,7 +55,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkrGNlIHxPl.md) - [plain]
 | 45 | [Enta](https://open.spotify.com/track/1mRSA7bk3iEvAyKLXHL7bi) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q) | [Arab Trap \- EP.1](https://open.spotify.com/album/3dQpnLxtGSzIRi7TEA8MzC) | 3:08 |
 | 46 | [Persian Girl](https://open.spotify.com/track/00F00gtN0N4kqlD7HdIKm8) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3), [yef](https://open.spotify.com/artist/1O1ZcnRuYrvL3jfODzdPme) | [Persian Girl](https://open.spotify.com/album/0xrvQnt3aGmIBz1AQNPkQ9) | 3:29 |
 | 47 | [Wild Things](https://open.spotify.com/track/0PHHyXwgVznLS35CqxZbIT) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Wild Things](https://open.spotify.com/album/7hwGpdnsIK7vnmbiaSXXVD) | 3:11 |
-| 48 | [Fruitseller](https://open.spotify.com/track/1CV5V40YIAS7d8CxU2bKwQ) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Fruitseller](https://open.spotify.com/album/4mghCfnlgjoqt1WWu1VvLC) | 2:38 |
-| 49 | [Unbreakable](https://open.spotify.com/track/6E223c2TGLdCYtJonmkTUi) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Seina](https://open.spotify.com/artist/6p4bXL1UgsPhxAbHWiD7ic) | [Unbreakable](https://open.spotify.com/album/2k4RJfvuASCZnkyWNo6hgF) | 4:24 |
+| 48 | [Unbreakable](https://open.spotify.com/track/6E223c2TGLdCYtJonmkTUi) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Seina](https://open.spotify.com/artist/6p4bXL1UgsPhxAbHWiD7ic) | [Unbreakable](https://open.spotify.com/album/2k4RJfvuASCZnkyWNo6hgF) | 4:24 |
 
-Snapshot ID: `MTY4MTI1MDQwOSwwMDAwMDAwMGViMGE1NjFhNzQxNzMwNjQzN2FiOGYyNDE4MjExZTlj`
+Snapshot ID: `MTY4MTcyMjc2MiwwMDAwMDAwMGMxODFkZGQyN2VmYWRiYzRmNDVhNjM5NTM3ZmM1MGVj`

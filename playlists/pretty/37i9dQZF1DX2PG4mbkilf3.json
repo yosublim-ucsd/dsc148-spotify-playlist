@@ -1,13 +1,33 @@
 {
   "description": "This is R&B in Canada, elevate your aura with Daniel Caesar.",
-  "num_followers": 139550,
+  "num_followers": 139625,
   "original_name": "Mood Ring ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGRiODU2YjVmNDg2MWM3YTY5ZDM4MTQyMGIwNTc4YjEz",
+  "snapshot_id": "MTY4MTc0Mjg3MiwwMDAwMDAwMDYwNjU3MzY0YmNhZTY0ZWVjMTFhY2U5ZWQxYmQzOTcw",
   "tracks": [
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "NEVER ENOUGH (Bonus Version)",
+        "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 222402,
+      "name": "Always (feat. Summer Walker) - Bonus",
+      "url": "https://open.spotify.com/track/6537jhwnXegjdXhLqorbjE"
+    },
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
@@ -55,26 +75,6 @@
       "duration_ms": 186230,
       "name": "LadyLove",
       "url": "https://open.spotify.com/track/2Jm8tcWP8sgs30KDZoFeNt"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "NEVER ENOUGH (Bonus Version)",
-        "url": "https://open.spotify.com/album/0qGQrHicD7qXuz5VMlDuCe"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 222402,
-      "name": "Always (feat. Summer Walker) - Bonus",
-      "url": "https://open.spotify.com/track/6537jhwnXegjdXhLqorbjE"
     },
     {
       "added_at": "2023-04-14 04:00:00",

@@ -275,6 +275,28 @@
     },
     {
       "album": {
+        "name": "FOR WHEN IT HURTS",
+        "url": "https://open.spotify.com/album/428nPJ3UUToLbe4NyTSFbj"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58080,
+      "name": "D-LOW",
+      "url": "https://open.spotify.com/track/7LP9N0E2Kh9Hj61Sqz9KVS"
+    },
+    {
+      "album": {
         "name": "The Monologue",
         "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },

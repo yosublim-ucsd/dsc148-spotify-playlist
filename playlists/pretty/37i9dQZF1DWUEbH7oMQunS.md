@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,647 likes - 60 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,724 likes - 60 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 22 | [Broke33](https://open.spotify.com/track/166QeYXOW2yS5Xy3q9V3GK) | [Medisin](https://open.spotify.com/artist/6lIxY5ICk6CAzFHERpAZnv) | [539 / 918](https://open.spotify.com/album/0s4EPOmFEtFvVxydSdnubg) | 2:42 |
 | 23 | [Reckless Love](https://open.spotify.com/track/4odhDLNCwWGUBiuyh0SYzH) | [Greg & Janna](https://open.spotify.com/artist/50hdYBalxcpRtX8yfmUGIZ) | [Reckless Love](https://open.spotify.com/album/0VN15bs7ifMLjFeOX0WzW3) | 4:57 |
 | 24 | [Water Harp](https://open.spotify.com/track/0uQIzIuNMfzCZCtRGSr4l9) | [Yoga Music](https://open.spotify.com/artist/6ppQ1vjjme5Jtz2ceBFcWY), [Yoga Workout Music](https://open.spotify.com/artist/6RVXIMP9f30jw4rBAn9RfW), [Internal Yoga](https://open.spotify.com/artist/01KhCk3LxZ60TnXjqdY5VI) | [Yoga Practice & Mindfulness Music](https://open.spotify.com/album/7ucUV4KGsEi5kYxZvRDMJj) | 2:45 |
-| 25 | [Letters](https://open.spotify.com/track/0cqSEpg2nYbneh7RGNrDcp) | [LaPeer](https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc) | ['90s Kids](https://open.spotify.com/album/5m0Qi0Nb6i8sQSqUu6HL69) | 3:26 |
+| 25 | [Letters](https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8) | [LaPeer](https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc) | ['90s Kids](https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h) | 3:26 |
 | 26 | [Great I Am \- Live](https://open.spotify.com/track/3rJAP9G6hjx2kN8Jsvas09) | [New Life Worship](https://open.spotify.com/artist/0wCMw81dQdNPMRB4zadq5g), [Integrity's Hosanna! Music](https://open.spotify.com/artist/72iDlGYfVrntfpKzmAv0Hn) | [You Hold It All \(Live\)](https://open.spotify.com/album/7ELf5tQ4o4MQP1d6Ps8t5R) | 5:28 |
 | 27 | [Weight of Heaven](https://open.spotify.com/track/32VNyf4R5Ed5ijLMpBAKGv) | [Mezzo Piano](https://open.spotify.com/artist/5DD8fdenQJ9zgVLaQVYdPQ) | [Love Has a Name](https://open.spotify.com/album/5hoVbdPfcDCKAisfnOyE3c) | 4:30 |
 | 28 | [Anthem](https://open.spotify.com/track/1oh3kBFeCK4HGCHQwM5JKH) | [SpiritFit Music](https://open.spotify.com/artist/0Ogq9gIMIesIEd65hhYuew) | [Spirit Stretch \(For Christian Yoga, Relaxation and Massage\)](https://open.spotify.com/album/1MmYwTLBBXB1tScSdPUucb) | 5:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 59 | [Without Shelter](https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb) | [Sebastian Selke](https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui), [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [The Grunewald Church Session](https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY) | 6:58 |
 | 60 | [Great Is Our God](https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD) | [Young Oceans](https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr) | [Young Oceans](https://open.spotify.com/album/1367PHceftcW1GcBTbzuzB) | 4:33 |
 
-Snapshot ID: `MTY3NTc5MTc5MSwwMDAwMDAwMGNmZTJhNGQ0YTgxYTEyMjRmNjNlNDQ1ZGUzY2RjODFj`
+Snapshot ID: `MTY3NTc5MTc5MSwwMDAwMDAwMDViOWMzZTJiY2FlYjE5M2RmMGFlM2Y4ODI4ODg0ZjAy`

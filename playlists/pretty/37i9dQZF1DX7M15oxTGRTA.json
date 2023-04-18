@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 68149,
+  "num_followers": 68239,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkzMTc0NSwwMDAwMDAwMDA2MTk2YmU5NGI5ZTQ3OTUyOTcxMGQ5MjZhNTg5NTU5",
+  "snapshot_id": "MTY3OTkzMTc0NSwwMDAwMDAwMDU3NDZmMWJjMGFkYjhhYTJkNDM4ZGM5ZDlhOTU5ZDUz",
   "tracks": [
     {
       "added_at": "2023-01-19 17:27:16",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Let's Get It On (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 290933,
-      "name": "Let's Get It On",
-      "url": "https://open.spotify.com/track/39l1UORIhuHvUWfxG53tRZ"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "360 Degrees of Billy Paul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 289106,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Let's Get It On (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 290933,
+      "name": "Let's Get It On",
+      "url": "https://open.spotify.com/track/39l1UORIhuHvUWfxG53tRZ"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
+        "name": "Between the Sheets",
+        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 340013,
+      "name": "Between the Sheets",
+      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
         "name": "Rufus Featuring Chaka Khan",
         "url": "https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 200146,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
-        "name": "Between the Sheets",
-        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 340013,
-      "name": "Between the Sheets",
-      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Jarreau",
-        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 258399,
-      "name": "Mornin'",
-      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "Life Is A Song Worth Singing (Expanded Edition)",
         "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 296880,
       "name": "When Somebody Loves You Back",
       "url": "https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Jarreau",
+        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Mornin'",
+      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
+        "name": "Extension of a Man",
+        "url": "https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Love, Love, Love",
+      "url": "https://open.spotify.com/track/3mc4nFeBX4hvuYbPsoS4GK"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
         "name": "The Dude",
         "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 259040,
       "name": "One Hundred Ways",
       "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
-        "name": "Extension of a Man",
-        "url": "https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Love, Love, Love",
-      "url": "https://open.spotify.com/track/3mc4nFeBX4hvuYbPsoS4GK"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "You've Got It Bad Girl",
-        "url": "https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 244440,
-      "name": "Summer In The City",
-      "url": "https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "The Jones Girls",
         "url": "https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 226066,
       "name": "We're in This Love Together",
       "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "You've Got It Bad Girl",
+        "url": "https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 244440,
+      "name": "Summer In The City",
+      "url": "https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Betcha by Golly Wow (Live)",
-        "url": "https://open.spotify.com/album/2jzAgNkPisnXoD5SEOw3Ws"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 253004,
-      "name": "Betcha by Golly Wow (Live)",
-      "url": "https://open.spotify.com/track/0w6qnStMvC77oV25dTSiYg"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "All the Greatest Hits",
         "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 282480,
       "name": "Computer Love",
       "url": "https://open.spotify.com/track/677tTabxmQFZjoNlo2E6JW"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Betcha by Golly Wow (Live)",
+        "url": "https://open.spotify.com/album/2jzAgNkPisnXoD5SEOw3Ws"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 253004,
+      "name": "Betcha by Golly Wow (Live)",
+      "url": "https://open.spotify.com/track/0w6qnStMvC77oV25dTSiYg"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Glow",
-        "url": "https://open.spotify.com/album/6P4wMdPtRficqe9zTxm7jL"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 338386,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/04JxGb2a7q9da31eNNCPs6"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "Open Our Eyes",
         "url": "https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 290186,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/2RH61BqMEeRjfND7MQBWHU"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/6P4wMdPtRficqe9zTxm7jL"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 338386,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/04JxGb2a7q9da31eNNCPs6"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Rhythm Nation 1814",
-        "url": "https://open.spotify.com/album/4OD3LU6001esAtFshDX46M"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 332741,
-      "name": "Come Back To Me",
-      "url": "https://open.spotify.com/track/0NSSqYISjnav81CEn6EgBY"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "Sweet Love",
         "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 333533,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/5tPwHmwrwVcdosAvMzzQ2z"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Rhythm Nation 1814",
+        "url": "https://open.spotify.com/album/4OD3LU6001esAtFshDX46M"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 332741,
+      "name": "Come Back To Me",
+      "url": "https://open.spotify.com/track/0NSSqYISjnav81CEn6EgBY"
     },
     {
       "added_at": "2023-01-19 17:27:16",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-01-19 17:27:16",
       "album": {
-        "name": "Operator Please Put Me Through",
-        "url": "https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9"
-      },
-      "artists": [
-        {
-          "name": "Jesse James",
-          "url": "https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK"
-        }
-      ],
-      "duration_ms": 307760,
-      "name": "I Can Do Bad By Myself",
-      "url": "https://open.spotify.com/track/34nUuoStWnKLFqFH0LNzQA"
-    },
-    {
-      "added_at": "2023-01-19 17:27:16",
-      "album": {
         "name": "Saci Perer\u00ea",
         "url": "https://open.spotify.com/album/3GcvpFejoLlbT2YsYHuyxF"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 215106,
       "name": "Num Para\u00edso",
       "url": "https://open.spotify.com/track/70EBZBh1LIwvYuzdvtvPCI"
+    },
+    {
+      "added_at": "2023-01-19 17:27:16",
+      "album": {
+        "name": "Operator Please Put Me Through",
+        "url": "https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9"
+      },
+      "artists": [
+        {
+          "name": "Jesse James",
+          "url": "https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK"
+        }
+      ],
+      "duration_ms": 307760,
+      "name": "I Can Do Bad By Myself",
+      "url": "https://open.spotify.com/track/34nUuoStWnKLFqFH0LNzQA"
     },
     {
       "added_at": "2023-01-19 17:27:16",

@@ -1,12 +1,12 @@
 {
   "description": "The best soft rock from the 1980s. Cover: Peter Cetera",
-  "num_followers": 226312,
+  "num_followers": 226436,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg4MDQ1NywwMDAwMDAwMDI0MTNkNTJmMjhmNTlmNmJjNmMxYmJmODU2NzI3OTY3",
+  "snapshot_id": "MTY4MDg4MDQ1NywwMDAwMDAwMGY5MGJkMjcwMTcxZGJkNWUxM2I5M2U0YTIwMzg0OWY5",
   "tracks": [
     {
       "added_at": "2023-03-30 14:38:10",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Little Lies - 2017 Remaster",
+      "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
         "name": "Toto IV",
         "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
       },
@@ -171,38 +187,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Private Eyes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 307306,
-      "name": "I Can't Go for That (No Can Do)",
-      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Little Lies - 2017 Remaster",
-      "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Street Talk (Expanded Edition)",
         "url": "https://open.spotify.com/album/0laWXQxeNNyr3N6waUu4tw"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 233866,
       "name": "Lost In Love",
       "url": "https://open.spotify.com/track/6MfVSA5iKBPHzo6RGARjL0"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Private Eyes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 307306,
+      "name": "I Can't Go for That (No Can Do)",
+      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 264986,
-      "name": "Kiss on My List",
-      "url": "https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Knee Deep In The Hoopla",
         "url": "https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 292800,
       "name": "Sara",
       "url": "https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Hearts In Motion",
+        "url": "https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J"
+      },
+      "artists": [
+        {
+          "name": "Air Supply",
+          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+        }
+      ],
+      "duration_ms": 249066,
+      "name": "Lonely Is the Night",
+      "url": "https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -383,18 +383,34 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Hearts In Motion",
-        "url": "https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J"
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/4LniALl9S6YedTFdiZWOMS"
       },
       "artists": [
         {
-          "name": "Air Supply",
-          "url": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 249066,
-      "name": "Lonely Is the Night",
-      "url": "https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W"
+      "duration_ms": 264986,
+      "name": "Kiss on My List",
+      "url": "https://open.spotify.com/track/7cDzJyC95jtGO9zAeZsWOg"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 395400,
+      "name": "New York Minute",
+      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -427,22 +443,6 @@
       "duration_ms": 317933,
       "name": "Angelia",
       "url": "https://open.spotify.com/track/2cG2bZy32qIxWVbFrobSQ1"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 395400,
-      "name": "New York Minute",
-      "url": "https://open.spotify.com/track/2jxqu3v4AZAhUNvdAbDGet"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Living In A Fantasy",
-        "url": "https://open.spotify.com/album/7fjKXnW6bvlKkVzt6x2sZW"
-      },
-      "artists": [
-        {
-          "name": "Leo Sayer",
-          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "More Than I Can Say - Remastered",
-      "url": "https://open.spotify.com/track/3RJ81z1sPLeWEFuCfGaCLC"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Soul Searchin'",
         "url": "https://open.spotify.com/album/4b6WnqBqu76diL48izgBZJ"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 279693,
       "name": "True Love",
       "url": "https://open.spotify.com/track/0fMlhe66IZtHbCSe5EGBlX"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Living In A Fantasy",
+        "url": "https://open.spotify.com/album/7fjKXnW6bvlKkVzt6x2sZW"
+      },
+      "artists": [
+        {
+          "name": "Leo Sayer",
+          "url": "https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "More Than I Can Say - Remastered",
+      "url": "https://open.spotify.com/track/3RJ81z1sPLeWEFuCfGaCLC"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
+        "name": "Bill LaBounty",
+        "url": "https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2"
+      },
+      "artists": [
+        {
+          "name": "Bill LaBounty",
+          "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
+        }
+      ],
+      "duration_ms": 262693,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
         "name": "The Right Place",
         "url": "https://open.spotify.com/album/6LI9WwNLFhfWWPj4PfTZPv"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 299960,
       "name": "Live Every Moment",
       "url": "https://open.spotify.com/track/1IMz8NXt3d1ApV6WJUFmg2"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
-        "name": "Bill LaBounty",
-        "url": "https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2"
-      },
-      "artists": [
-        {
-          "name": "Bill LaBounty",
-          "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
-        }
-      ],
-      "duration_ms": 262693,
-      "name": "Dream On",
-      "url": "https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Airplay",
-        "url": "https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n"
-      },
-      "artists": [
-        {
-          "name": "Airplay",
-          "url": "https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Should We Carry On",
-      "url": "https://open.spotify.com/track/73yhx3X96uO3jpNlAQLZwA"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "No Fun Aloud",
         "url": "https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 245306,
       "name": "I Found Somebody",
       "url": "https://open.spotify.com/track/64wX1p2ZtC9ksXSVYtCp88"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Airplay",
+        "url": "https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n"
+      },
+      "artists": [
+        {
+          "name": "Airplay",
+          "url": "https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Should We Carry On",
+      "url": "https://open.spotify.com/track/73yhx3X96uO3jpNlAQLZwA"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Airplay",
-        "url": "https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n"
-      },
-      "artists": [
-        {
-          "name": "Airplay",
-          "url": "https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw"
-        }
-      ],
-      "duration_ms": 255826,
-      "name": "Bix",
-      "url": "https://open.spotify.com/track/4BmqJhzuilRz2zHsSpILyq"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Once In a Lifetime",
         "url": "https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 280360,
       "name": "Heart (Stop Beating In Time)",
       "url": "https://open.spotify.com/track/7oQbMamRwupYuFvcYk5ntm"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Airplay",
+        "url": "https://open.spotify.com/album/3uxLkATnYOuXXIkUb2d04n"
+      },
+      "artists": [
+        {
+          "name": "Airplay",
+          "url": "https://open.spotify.com/artist/0yci1UcbunmiExfI7U0jGw"
+        }
+      ],
+      "duration_ms": 255826,
+      "name": "Bix",
+      "url": "https://open.spotify.com/track/4BmqJhzuilRz2zHsSpILyq"
     },
     {
       "added_at": "2023-03-30 14:38:10",

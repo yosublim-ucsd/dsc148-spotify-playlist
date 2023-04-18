@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-18",
       "duration_ms": 198226,
       "name": "I Am the Moon",
       "url": "https://open.spotify.com/track/0GQPSWoRGfwshYYv5nW5Ct"
@@ -1350,6 +1350,24 @@
       "duration_ms": 233488,
       "name": "I'm the One - Acoustic",
       "url": "https://open.spotify.com/track/5vk20vCA4C23pXxFhtbBTx"
+    },
+    {
+      "album": {
+        "name": "Shakey Graves And The Horse He Rode In On (Nobody's Fool and The Donor Blues EP)",
+        "url": "https://open.spotify.com/album/5ZetO1qY0okdczkZzAQEBL"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191670,
+      "name": "If Not For You (Demo)",
+      "url": "https://open.spotify.com/track/3HUCTp20rxqMnCtdyU7JgU"
     },
     {
       "album": {

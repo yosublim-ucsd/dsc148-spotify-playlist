@@ -2313,6 +2313,24 @@
     },
     {
       "album": {
+        "name": "Desejo Imortal (It Must Have Been Love)",
+        "url": "https://open.spotify.com/album/5dJzuxTgkvdhSlgInkqMqC"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184128,
+      "name": "Desejo Imortal (It Must Have Been Love)",
+      "url": "https://open.spotify.com/track/1L7hWEc3tVjvmbw48ShktM"
+    },
+    {
+      "album": {
         "name": "Desesperados",
         "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
       },

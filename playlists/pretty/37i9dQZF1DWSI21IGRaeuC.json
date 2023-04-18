@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 18099,
+  "num_followers": 18153,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg4MzIwMCwwMDAwMDAwMDI3MTdmOGEwZDNlZmJkODZmYjJlZDI5MzliODRhMWI5",
+  "snapshot_id": "MTY4MDg4MzIwMCwwMDAwMDAwMGUzMDJkZWFlNTBhOTc2Y2ExMzQwMzllNDIzMDY1ODFl",
   "tracks": [
     {
       "added_at": "2023-04-07 16:00:00",
@@ -435,30 +435,6 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "KILO (Beltran Remix)",
-        "url": "https://open.spotify.com/album/5zJhsCb81mi5yOTnRGzsK5"
-      },
-      "artists": [
-        {
-          "name": "The Martinez Brothers",
-          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 247384,
-      "name": "KILO - Beltran Remix",
-      "url": "https://open.spotify.com/track/536rYtZCAq33yLmthsLTfE"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
         "name": "Club Vibes Part 04",
         "url": "https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS"
       },
@@ -511,6 +487,30 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
+        "name": "KILO (Beltran Remix)",
+        "url": "https://open.spotify.com/album/5zJhsCb81mi5yOTnRGzsK5"
+      },
+      "artists": [
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 247384,
+      "name": "KILO - Beltran Remix",
+      "url": "https://open.spotify.com/track/536rYtZCAq33yLmthsLTfE"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
         "name": "Lovelee Dae",
         "url": "https://open.spotify.com/album/4GUOfZ9RjMWnOjzRkkTZeg"
       },
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "TAKE ME HIGH",
-        "url": "https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 220531,
-      "name": "TAKE ME HIGH",
-      "url": "https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
         "name": "Club Vibes Part 01",
         "url": "https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk"
       },
@@ -579,18 +563,18 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "Clapped",
-        "url": "https://open.spotify.com/album/6Qv28Ae8yuSpPFio55nUxJ"
+        "name": "TAKE ME HIGH",
+        "url": "https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT"
       },
       "artists": [
         {
-          "name": "Route 94",
-          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
         }
       ],
-      "duration_ms": 210932,
-      "name": "Clapped",
-      "url": "https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN"
+      "duration_ms": 220531,
+      "name": "TAKE ME HIGH",
+      "url": "https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -619,6 +603,22 @@
       "duration_ms": 222438,
       "name": "Sete - Carlita Remix",
       "url": "https://open.spotify.com/track/5jhpcEksB86jVuf71FRXHS"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "Clapped",
+        "url": "https://open.spotify.com/album/6Qv28Ae8yuSpPFio55nUxJ"
+      },
+      "artists": [
+        {
+          "name": "Route 94",
+          "url": "https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6"
+        }
+      ],
+      "duration_ms": 210932,
+      "name": "Clapped",
+      "url": "https://open.spotify.com/track/3A3bj8h4iiWTEPYsOf9ZpN"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -655,26 +655,6 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "World Is Empty",
-        "url": "https://open.spotify.com/album/5cx3KsmqYxXUEm63MGODda"
-      },
-      "artists": [
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
-        },
-        {
-          "name": "Jansons",
-          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
-        }
-      ],
-      "duration_ms": 196030,
-      "name": "World Is Empty",
-      "url": "https://open.spotify.com/track/5hj2rvMtaOkhrkAaPvqvL6"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
         "name": "Provenance",
         "url": "https://open.spotify.com/album/1NyCHXjwjEBTLlJHUrtECk"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 401250,
       "name": "Provenance",
       "url": "https://open.spotify.com/track/1Rbrm7ozBLd32dTyhikJhu"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "World Is Empty",
+        "url": "https://open.spotify.com/album/5cx3KsmqYxXUEm63MGODda"
+      },
+      "artists": [
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "Jansons",
+          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
+        }
+      ],
+      "duration_ms": 196030,
+      "name": "World Is Empty",
+      "url": "https://open.spotify.com/track/5hj2rvMtaOkhrkAaPvqvL6"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "This Energy EP",
-        "url": "https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "This Energy",
-      "url": "https://open.spotify.com/track/0FAIsPkDqH7IYxVtetwvrU"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
         "name": "Slim Shady",
         "url": "https://open.spotify.com/album/4CveQO6BuqOXbUKJboDHaN"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 176264,
       "name": "Slim Shady",
       "url": "https://open.spotify.com/track/2ESfTwWgohnkLK1qdWcwrJ"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "This Energy EP",
+        "url": "https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "This Energy",
+      "url": "https://open.spotify.com/track/0FAIsPkDqH7IYxVtetwvrU"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "No Turning Back",
-        "url": "https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt"
-      },
-      "artists": [
-        {
-          "name": "MANT",
-          "url": "https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y"
-        }
-      ],
-      "duration_ms": 190449,
-      "name": "No Turning Back",
-      "url": "https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
         "name": "Ole",
         "url": "https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 158343,
       "name": "Ole",
       "url": "https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "No Turning Back",
+        "url": "https://open.spotify.com/album/4iWlMzqqS9zOY0n0ACJQSt"
+      },
+      "artists": [
+        {
+          "name": "MANT",
+          "url": "https://open.spotify.com/artist/5FfP0wtlfiBqwJdQbmOs3y"
+        }
+      ],
+      "duration_ms": 190449,
+      "name": "No Turning Back",
+      "url": "https://open.spotify.com/track/04An9nhuAtHo8gsN9ygaug"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "Fuck The Regs EP",
-        "url": "https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/3HHEmZwcoGxl7SMdQQmztO"
       },
       "artists": [
         {
-          "name": "Josh Butler",
-          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
+          "name": "Jaden Thompson",
+          "url": "https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ"
         }
       ],
-      "duration_ms": 204836,
-      "name": "Fuck The Regs",
-      "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
+      "duration_ms": 437882,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/65f1SfKJb6bePOVUETxVQn"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -967,18 +967,18 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/3HHEmZwcoGxl7SMdQQmztO"
+        "name": "Fuck The Regs EP",
+        "url": "https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy"
       },
       "artists": [
         {
-          "name": "Jaden Thompson",
-          "url": "https://open.spotify.com/artist/0mdzsyApmam6OqNr4Z3vKQ"
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
         }
       ],
-      "duration_ms": 437882,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/65f1SfKJb6bePOVUETxVQn"
+      "duration_ms": 204836,
+      "name": "Fuck The Regs",
+      "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "winter '23",
-        "url": "https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy"
-      },
-      "artists": [
-        {
-          "name": "Ranger Trucco",
-          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
-        }
-      ],
-      "duration_ms": 370000,
-      "name": "buss it.",
-      "url": "https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
         "name": "Stutter EP",
         "url": "https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 233333,
       "name": "Stutter",
       "url": "https://open.spotify.com/track/1OTixnhGk8U4HleNJCNUg9"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "winter '23",
+        "url": "https://open.spotify.com/album/3g5iPkooVkFQTYPwRa1iyy"
+      },
+      "artists": [
+        {
+          "name": "Ranger Trucco",
+          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "buss it.",
+      "url": "https://open.spotify.com/track/6Pf51Bk7UPHmmtOflHK82T"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "No Bueno",
-        "url": "https://open.spotify.com/album/5fTUKANhhWrTFBfDmNbLbe"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 350125,
-      "name": "No Bueno",
-      "url": "https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
         "name": "Jump Ship",
         "url": "https://open.spotify.com/album/5f0oTxXSCY7PlFltoLUssp"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 381431,
       "name": "Jump Ship",
       "url": "https://open.spotify.com/track/25jHZWxC5NFkaqT5Hb5uKS"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "No Bueno",
+        "url": "https://open.spotify.com/album/5fTUKANhhWrTFBfDmNbLbe"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 350125,
+      "name": "No Bueno",
+      "url": "https://open.spotify.com/track/1BkVnW3EJByz6sbV8csgkL"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "Hydroponic EP",
-        "url": "https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 434000,
-      "name": "Hydroponic",
-      "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
         "name": "The Smoke",
         "url": "https://open.spotify.com/album/3Ujm77CyBTFg3fyKm3fTt3"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 190476,
       "name": "The Smoke",
       "url": "https://open.spotify.com/track/4i4eLhWPTCFoX0TnKqZvqa"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "Hydroponic EP",
+        "url": "https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 434000,
+      "name": "Hydroponic",
+      "url": "https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8"
     },
     {
       "added_at": "2023-04-07 16:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-04-07 16:00:00",
       "album": {
-        "name": "Beings of Light",
-        "url": "https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM"
-      },
-      "artists": [
-        {
-          "name": "Fort Romeau",
-          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
-        }
-      ],
-      "duration_ms": 423837,
-      "name": "Ramona",
-      "url": "https://open.spotify.com/track/2LtHjNilulmSaeuHcn5ki8"
-    },
-    {
-      "added_at": "2023-04-07 16:00:00",
-      "album": {
         "name": "Hush Hush EP",
         "url": "https://open.spotify.com/album/3Mauh2Eb5iJdifhsh6QwXQ"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 243809,
       "name": "Flashback feat. Forrest",
       "url": "https://open.spotify.com/track/6pf3RdhxhyoHIHmggS1O5Q"
+    },
+    {
+      "added_at": "2023-04-07 16:00:00",
+      "album": {
+        "name": "Beings of Light",
+        "url": "https://open.spotify.com/album/3KvI086EChgYtumVqRzDWM"
+      },
+      "artists": [
+        {
+          "name": "Fort Romeau",
+          "url": "https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF"
+        }
+      ],
+      "duration_ms": 423837,
+      "name": "Ramona",
+      "url": "https://open.spotify.com/track/2LtHjNilulmSaeuHcn5ki8"
     },
     {
       "added_at": "2023-04-07 16:00:00",
