@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,540 likes - 1,177 songs - 3 day 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,614 likes - 1,177 songs - 3 day 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -668,7 +668,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 658 | [La Cosecha \- Captain Planet Remix](https://open.spotify.com/track/6uunUTJLv7ikmrWhEWMkkr) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Prender el Alma \(Remixed\)](https://open.spotify.com/album/7uKN3ctBirk4Ysj6sQrtzI) | 4:22 |
 | 659 | [I Need Your Love](https://open.spotify.com/track/4d4XmACYq23zAgxEvgnp4s) | [Scherzando](https://open.spotify.com/artist/2pDMh66OCdARjVZ0GCFWDi) | [Beach Diggin', Vol\. 3](https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU) | 3:35 |
 | 660 | [Je n'aime pas le jour, je n'aime pas la nuit](https://open.spotify.com/track/4ZGVKoK9OWuSXHWUkfKN6h) | [Mazouni](https://open.spotify.com/artist/0wfq6Qxt4GZIEgjmrXSt9k) | [Un dandy en exil \(Algérie\- France 1969\-1983\)](https://open.spotify.com/album/5nfE58QeoN1Fborapt6UCn) | 5:46 |
-| 661 | [Mr\. Brown](https://open.spotify.com/track/3r7YqwV8OHYGMM9UU2oPkf) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Bob Marley vs\. Lee "Scratch" Perry: The Best of the Upsetter Years 1970\-1971](https://open.spotify.com/album/5AbZ3BpOwjnlGBmzEygP6N) | 3:30 |
+| 661 | [Mr\. Brown](https://open.spotify.com/track/5IlPnmeeUkvLRAfFK0Fvum) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Bob Marley \- The King Of Reggae \(89 legendary tracks including original tunes, tributes from reggae stars and an exclusive Marley family live at Central Park\)](https://open.spotify.com/album/2sjcaq8AbJLSEp5t8RAYhw) | 3:29 |
 | 662 | [Linda Muñequita](https://open.spotify.com/track/6OB8qyasQBcW36JfF4qBke) | [Los Hijos del sol](https://open.spotify.com/artist/2eDtYwKCGACUH3hFyaZ7Ah) | [The Roots of Chicha](https://open.spotify.com/album/3o8vUVyMgkgI8tc1mMdmlQ) | 4:44 |
 | 663 | [Cumbia Sobre el Mar](https://open.spotify.com/track/0xi0Z6QaaoeHWPahfTiISG) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p) | [Dog With a Rope](https://open.spotify.com/album/1DKfTnMLIUo2yXXSrfwVNH) | 6:17 |
 | 664 | [Maktoub Aleina](https://open.spotify.com/track/1SvhjcZt9HTr7MpeAwaskE) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [The SLAM! Years: 1983 \- 1988 \(Habibi Funk 018\)](https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS) | 4:07 |
@@ -1186,4 +1186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1176 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1177 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MTY3OTA1MTcwMCwwMDAwMDAwMDIzZjM4YmQ3N2ZhZTg2ZDFmZjU0Yzk0YmQ3Y2FjMzQ1`
+Snapshot ID: `MTY3OTA1MTcwMCwwMDAwMDAwMDQxMDdmYjJlNzNmZDVlZDdjMDQ2NmU1NjhmYTg1MmJi`

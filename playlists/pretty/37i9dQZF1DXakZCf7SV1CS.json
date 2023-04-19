@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 37918,
+  "num_followers": 38059,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mzk4MTI2MywwMDAwMDAwMDMzZDdhMTkxZDZhYjRhMGUyYTVlMDFhMDQwOTk5ZTYz",
+  "snapshot_id": "MTY3Mzk4MTI2MywwMDAwMDAwMDI2YTlhM2NjMDY0MzhiYzk5Mzg1Y2MzNTEzMTZiNWU2",
   "tracks": [
     {
       "added_at": "2022-11-29 16:59:10",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "team edward",
-        "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
-      },
-      "artists": [
-        {
-          "name": "meat computer",
-          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
-        }
-      ],
-      "duration_ms": 87242,
-      "name": "team edward",
-      "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "i hate it here",
         "url": "https://open.spotify.com/album/6wept5tC2CCShExUQLoNFb"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 157178,
       "name": "i hate it here",
       "url": "https://open.spotify.com/track/6n1ZjksfQve7uEkxGOiYgA"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "team edward",
+        "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
+      },
+      "artists": [
+        {
+          "name": "meat computer",
+          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
+        }
+      ],
+      "duration_ms": 87242,
+      "name": "team edward",
+      "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "I dont want that many friends in the first place",
-        "url": "https://open.spotify.com/album/6jmZMFNROzYBpDgPW2hFGR"
-      },
-      "artists": [
-        {
-          "name": "Poorasike",
-          "url": "https://open.spotify.com/artist/7Dg4tAfFLdPR5v0PAbdYZe"
-        }
-      ],
-      "duration_ms": 109034,
-      "name": "I dont want that many friends in the first place",
-      "url": "https://open.spotify.com/track/7kXnHbV1EaQD1atCzRmfMq"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "doing it wrong",
         "url": "https://open.spotify.com/album/3Jen7bIN7Ra09It3Ra9Svo"
       },
@@ -983,26 +967,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "I <3 Harajuku",
-        "url": "https://open.spotify.com/album/5K2FlrS1CJZVIl81gZ5SdF"
-      },
-      "artists": [
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        },
-        {
-          "name": "Fraxiom",
-          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
-        }
-      ],
-      "duration_ms": 146938,
-      "name": "I <3 Harajuku",
-      "url": "https://open.spotify.com/track/2JpMlbYEaradyfx9hraXuZ"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "None",
         "url": "https://open.spotify.com/album/0FuahJaNlb2xX87G54NSLj"
       },
@@ -1023,6 +987,26 @@
       "duration_ms": 263364,
       "name": "Thos Moser",
       "url": "https://open.spotify.com/track/6pe1T2thmWds9hPq67Xv74"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "I <3 Harajuku",
+        "url": "https://open.spotify.com/album/5K2FlrS1CJZVIl81gZ5SdF"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        },
+        {
+          "name": "Fraxiom",
+          "url": "https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "I <3 Harajuku",
+      "url": "https://open.spotify.com/track/2JpMlbYEaradyfx9hraXuZ"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -1159,22 +1143,6 @@
     {
       "added_at": "2022-11-29 16:59:10",
       "album": {
-        "name": "Rich Bitch Juice",
-        "url": "https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq"
-      },
-      "artists": [
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        }
-      ],
-      "duration_ms": 120221,
-      "name": "Rich Bitch Juice",
-      "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
-    },
-    {
-      "added_at": "2022-11-29 16:59:10",
-      "album": {
         "name": "scawy monstews and nice spwites :3",
         "url": "https://open.spotify.com/album/0v38eQrHnzNusRLakfZNkp"
       },
@@ -1187,6 +1155,22 @@
       "duration_ms": 96705,
       "name": "scawy monstews and nice spwites :3",
       "url": "https://open.spotify.com/track/6gSBiLOteoM05jq6KCrj6O"
+    },
+    {
+      "added_at": "2022-11-29 16:59:10",
+      "album": {
+        "name": "Rich Bitch Juice",
+        "url": "https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        }
+      ],
+      "duration_ms": 120221,
+      "name": "Rich Bitch Juice",
+      "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
     },
     {
       "added_at": "2022-11-29 16:59:10",
@@ -1383,6 +1367,22 @@
       "duration_ms": 70058,
       "name": "bad idea",
       "url": "https://open.spotify.com/track/3X98stWKFFlxLusl21lgWy"
+    },
+    {
+      "added_at": "2023-01-17 18:47:43",
+      "album": {
+        "name": "CLEARING",
+        "url": "https://open.spotify.com/album/5x3MrWM3MxdhJ8shNSz4rg"
+      },
+      "artists": [
+        {
+          "name": "Hyd",
+          "url": "https://open.spotify.com/artist/3pYle1qnqjdGhG0agFZLj5"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "So Clear",
+      "url": "https://open.spotify.com/track/4oQ0egre0XoHGsGSm28rlP"
     }
   ],
   "unique_name": "Hyperpop Classics",

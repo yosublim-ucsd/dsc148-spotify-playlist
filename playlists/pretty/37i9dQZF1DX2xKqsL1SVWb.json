@@ -1,12 +1,12 @@
 {
   "description": "Folk tan dulce como la miel. Kevin Kaarl en portada.",
-  "num_followers": 95915,
+  "num_followers": 95925,
   "original_name": "madera y miel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI5MDE5NSwwMDAwMDAwMGE0ODRiNWQyNWEwYjQ4OTIwY2M4ZDIzMmNjYmFhOTM5",
+  "snapshot_id": "MTY4MDI5MDE5NSwwMDAwMDAwMDVkMzg3YmUyMmM5ZmM3Y2QyNzZlN2E3OWI0Yzg3NjA1",
   "tracks": [
     {
       "added_at": "2023-03-31 18:07:09",
@@ -195,22 +195,6 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x"
-      },
-      "artists": [
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        }
-      ],
-      "duration_ms": 185460,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
         "name": "Mundo De Dos",
         "url": "https://open.spotify.com/album/2prBuM9hprQROvEI5MDZ5C"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 168125,
       "name": "So\u00f1ar Contigo",
       "url": "https://open.spotify.com/track/0GYS14rwcsMXhYMP57W164"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        }
+      ],
+      "duration_ms": 185460,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/57OmmVVcjJVBuWSMOI42Pn"
     },
     {
-      "added_at": "2023-04-18 00:58:12",
+      "added_at": "2023-04-19 00:57:53",
       "album": {
         "name": "Ya Casi Te Olvido",
         "url": "https://open.spotify.com/album/2dxhIwE8OuBoS1D0VFb7SB"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/7oyN3Xdz3o0xCNFwWc1lm1"
     },
     {
-      "added_at": "2023-04-18 00:58:12",
+      "added_at": "2023-04-19 00:57:53",
       "album": {
         "name": "No Sab\u00eda",
         "url": "https://open.spotify.com/album/2gOm3N82lznLwNw58asTBL"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/68MygQgC9byQcYbfL1c62L"
     },
     {
-      "added_at": "2023-04-18 00:58:12",
+      "added_at": "2023-04-19 00:57:53",
       "album": {
         "name": "Loza",
         "url": "https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt"
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "D\u00e9jame de Matar",
-        "url": "https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK"
+        "name": "contigo va a estar bien",
+        "url": "https://open.spotify.com/album/50fd7WdvrpQbSqiUqndCr9"
       },
       "artists": [
         {
-          "name": "Valeria Jasso",
-          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
         }
       ],
-      "duration_ms": 190169,
-      "name": "D\u00e9jame de Matar",
-      "url": "https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS"
+      "duration_ms": 185889,
+      "name": "Contigo Va a Estar Bien",
+      "url": "https://open.spotify.com/track/7DiCHaaxbePL2uUa5pNoX1"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "contigo va a estar bien",
-        "url": "https://open.spotify.com/album/50fd7WdvrpQbSqiUqndCr9"
+        "name": "D\u00e9jame de Matar",
+        "url": "https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK"
       },
       "artists": [
         {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+          "name": "Valeria Jasso",
+          "url": "https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh"
         }
       ],
-      "duration_ms": 185889,
-      "name": "Contigo Va a Estar Bien",
-      "url": "https://open.spotify.com/track/7DiCHaaxbePL2uUa5pNoX1"
+      "duration_ms": 190169,
+      "name": "D\u00e9jame de Matar",
+      "url": "https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -785,22 +785,6 @@
       "url": "https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM"
     },
     {
-      "added_at": "2023-04-18 00:58:12",
-      "album": {
-        "name": "HSN",
-        "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
-      },
-      "artists": [
-        {
-          "name": "Erich",
-          "url": "https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU"
-        }
-      ],
-      "duration_ms": 160001,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs"
-    },
-    {
       "added_at": "2023-03-31 18:07:09",
       "album": {
         "name": "Pasado y Olvido",
@@ -815,6 +799,22 @@
       "duration_ms": 255155,
       "name": "Pasado y Olvido",
       "url": "https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7"
+    },
+    {
+      "added_at": "2023-04-19 00:57:53",
+      "album": {
+        "name": "HSN",
+        "url": "https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam"
+      },
+      "artists": [
+        {
+          "name": "Erich",
+          "url": "https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU"
+        }
+      ],
+      "duration_ms": 160001,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "Dejar Ir",
-        "url": "https://open.spotify.com/album/7joqDQGlL3HEbX4uuaR8tA"
-      },
-      "artists": [
-        {
-          "name": "Carope",
-          "url": "https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs"
-        }
-      ],
-      "duration_ms": 289920,
-      "name": "Dejar Ir",
-      "url": "https://open.spotify.com/track/2a7gTBqzipCCuSQzgOSHl6"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
         "name": "Arena Roja",
         "url": "https://open.spotify.com/album/35nR8jjRVVjo6R3IhQO9le"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 238043,
       "name": "Arena Roja",
       "url": "https://open.spotify.com/track/5LxBsUiUHcxHeg1bQyQYeF"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
+        "name": "Dejar Ir",
+        "url": "https://open.spotify.com/album/7joqDQGlL3HEbX4uuaR8tA"
+      },
+      "artists": [
+        {
+          "name": "Carope",
+          "url": "https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs"
+        }
+      ],
+      "duration_ms": 289920,
+      "name": "Dejar Ir",
+      "url": "https://open.spotify.com/track/2a7gTBqzipCCuSQzgOSHl6"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -1051,38 +1051,6 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "La Balada de Sarah Lynn",
-        "url": "https://open.spotify.com/album/04SGJp6OGTuWtAycY4oOtY"
-      },
-      "artists": [
-        {
-          "name": "Un Le\u00f3n Marinero",
-          "url": "https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7"
-        }
-      ],
-      "duration_ms": 154048,
-      "name": "La Balada de Sarah Lynn",
-      "url": "https://open.spotify.com/track/358ITOTwU2zByvL2YftgGn"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
-        "name": "P\u00e1ramo M\u00edstico",
-        "url": "https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL"
-      },
-      "artists": [
-        {
-          "name": "Dali Mata",
-          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
-        }
-      ],
-      "duration_ms": 203532,
-      "name": "Arena Blanca",
-      "url": "https://open.spotify.com/track/5j0P1xvPEFC3aLloV70sAF"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
         "name": "Al Pie del Volc\u00e1n",
         "url": "https://open.spotify.com/album/34jUSNv9RoyaxI78mHzFmr"
       },
@@ -1095,6 +1063,22 @@
       "duration_ms": 245422,
       "name": "Al Pie del Volc\u00e1n",
       "url": "https://open.spotify.com/track/5TpldaZoFR74NclU2mEhTP"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
+        "name": "La Balada de Sarah Lynn",
+        "url": "https://open.spotify.com/album/04SGJp6OGTuWtAycY4oOtY"
+      },
+      "artists": [
+        {
+          "name": "Un Le\u00f3n Marinero",
+          "url": "https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7"
+        }
+      ],
+      "duration_ms": 154048,
+      "name": "La Balada de Sarah Lynn",
+      "url": "https://open.spotify.com/track/358ITOTwU2zByvL2YftgGn"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -1119,18 +1103,18 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
-        "name": "Hoy Es Hoy",
-        "url": "https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF"
+        "name": "P\u00e1ramo M\u00edstico",
+        "url": "https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL"
       },
       "artists": [
         {
-          "name": "Greta Ela",
-          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Hoy Es Hoy",
-      "url": "https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd"
+      "duration_ms": 203532,
+      "name": "Arena Blanca",
+      "url": "https://open.spotify.com/track/5j0P1xvPEFC3aLloV70sAF"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -1151,6 +1135,22 @@
     {
       "added_at": "2023-03-31 18:07:09",
       "album": {
+        "name": "Hoy Es Hoy",
+        "url": "https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF"
+      },
+      "artists": [
+        {
+          "name": "Greta Ela",
+          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Hoy Es Hoy",
+      "url": "https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
         "name": "Yaya",
         "url": "https://open.spotify.com/album/6ZhmkUD947boo8m6KGS4CM"
       },
@@ -1163,22 +1163,6 @@
       "duration_ms": 233370,
       "name": "Yaya",
       "url": "https://open.spotify.com/track/7jm48iiBt7oI8skNwgzNrs"
-    },
-    {
-      "added_at": "2023-03-31 18:07:09",
-      "album": {
-        "name": "Bolero Surrealista",
-        "url": "https://open.spotify.com/album/6kZcXw3tT2Kbj9rqZsh83a"
-      },
-      "artists": [
-        {
-          "name": "Dali Mata",
-          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
-        }
-      ],
-      "duration_ms": 234500,
-      "name": "Bolero Surrealista",
-      "url": "https://open.spotify.com/track/0axqkZNASfnYOI3abp06dT"
     },
     {
       "added_at": "2023-03-31 18:07:09",
@@ -1259,6 +1243,22 @@
       "duration_ms": 201538,
       "name": "Cuando salga el sol",
       "url": "https://open.spotify.com/track/5kR3d959InuG8hA5EDXE2k"
+    },
+    {
+      "added_at": "2023-03-31 18:07:09",
+      "album": {
+        "name": "Bolero Surrealista",
+        "url": "https://open.spotify.com/album/6kZcXw3tT2Kbj9rqZsh83a"
+      },
+      "artists": [
+        {
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+        }
+      ],
+      "duration_ms": 234500,
+      "name": "Bolero Surrealista",
+      "url": "https://open.spotify.com/track/0axqkZNASfnYOI3abp06dT"
     }
   ],
   "unique_name": "madera y miel",

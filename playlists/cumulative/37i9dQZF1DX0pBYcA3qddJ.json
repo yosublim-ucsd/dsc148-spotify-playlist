@@ -641,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Stereo Mind Game",
+        "url": "https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf"
+      },
+      "artists": [
+        {
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244772,
+      "name": "Be On Your Way",
+      "url": "https://open.spotify.com/track/2LadlqFWLPRJAQu3PEe9CN"
+    },
+    {
+      "album": {
         "name": "Sentimental Days",
         "url": "https://open.spotify.com/album/0b1GNpqsnogyIWlpXB2Zi1"
       },
@@ -866,7 +884,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 100773,
       "name": "By Night",
       "url": "https://open.spotify.com/track/4Hmg3T2TbcDfdOtj46dlqW"
@@ -1140,7 +1158,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 198848,
       "name": "Clouds Over Bourbon Street",
       "url": "https://open.spotify.com/track/6IoVv51HuCcifPmHY7VdCb"
@@ -1410,6 +1428,32 @@
       "duration_ms": 245086,
       "name": "Echo",
       "url": "https://open.spotify.com/track/6dR3WgS89laha38NshaT1s"
+    },
+    {
+      "album": {
+        "name": "Ekstasis",
+        "url": "https://open.spotify.com/album/3KJ9BPyuAcyiH4kjIUCjzf"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Timo Andres",
+          "url": "https://open.spotify.com/artist/6rsUydMSborFpWv0JkQgiz"
+        },
+        {
+          "name": "Conor Hanick",
+          "url": "https://open.spotify.com/artist/1AJdvQXiX8UiSQQb9aILUO"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184534,
+      "name": "Ekstasis",
+      "url": "https://open.spotify.com/track/1iX1fnU6tTBfgJhVyaLK4G"
     },
     {
       "album": {
@@ -1804,7 +1848,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 201261,
       "name": "Ghost World",
       "url": "https://open.spotify.com/track/4dwxdOkBE8OBXD9E6EruGv"
@@ -1862,7 +1906,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 138953,
       "name": "glued to the floor",
       "url": "https://open.spotify.com/track/20Y7AHrMDTxzOxMfw0jCv5"
@@ -1884,7 +1928,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 140040,
       "name": "Goldberg Variations, BWV 988: Variatio 7 a 1 ovvero 2 Clav. Al tempo di Giga",
       "url": "https://open.spotify.com/track/5fzzSHwK0iFGanI4suSuCA"
@@ -2862,7 +2906,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 302000,
       "name": "Let You Break My Heart Again - Live at The Symphony",
       "url": "https://open.spotify.com/track/2wFGq8rFKLPX0dkAwUwY8s"
@@ -3595,6 +3639,28 @@
     },
     {
       "album": {
+        "name": "Mother\u2019s Broom (from 'Kiki's Delivery Service')",
+        "url": "https://open.spotify.com/album/0AGnGG5K5qBoJXkqd5mMl5"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        },
+        {
+          "name": "\u30ed\u30a4\u30e4\u30eb\u30fb\u30d5\u30a3\u30eb\u30cf\u30fc\u30e2\u30cb\u30fc\u7ba1\u5f26\u697d\u56e3",
+          "url": "https://open.spotify.com/artist/7Ah35lhlp7p3HOVmmzJh2I"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229600,
+      "name": "Mother\u2019s Broom - from 'Kiki's Delivery Service'",
+      "url": "https://open.spotify.com/track/3oEGtnUuGhDWZXH2ghip9w"
+    },
+    {
+      "album": {
         "name": "Moving On",
         "url": "https://open.spotify.com/album/70ZGqbv7G5Q81ZH40hcOF6"
       },
@@ -3682,6 +3748,24 @@
       "duration_ms": 900190,
       "name": "NEW HEAVEN",
       "url": "https://open.spotify.com/track/0Jmb3suEdJDX0ITYvEEZux"
+    },
+    {
+      "album": {
+        "name": "new morning",
+        "url": "https://open.spotify.com/album/16tkdfGkBfvumvRDittZYL"
+      },
+      "artists": [
+        {
+          "name": "Sakura",
+          "url": "https://open.spotify.com/artist/27vQ6xb6e29VigNaUAvB8q"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195953,
+      "name": "new morning",
+      "url": "https://open.spotify.com/track/5hP9i6B9MmHYqTbUMVzVM0"
     },
     {
       "album": {
@@ -4142,6 +4226,24 @@
       "duration_ms": 127426,
       "name": "Poulenc: \u611b\u306e\u5c0f\u5f84",
       "url": "https://open.spotify.com/track/72nhak9DZ2egStp68ji0x7"
+    },
+    {
+      "album": {
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/4psYJ4ruuGaqH25CBWKqMp"
+      },
+      "artists": [
+        {
+          "name": "Puma Blue",
+          "url": "https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205373,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/0WJ8tNBfJRwUPfE8ibBwAF"
     },
     {
       "album": {
@@ -4809,6 +4911,24 @@
     },
     {
       "album": {
+        "name": "So Low",
+        "url": "https://open.spotify.com/album/1mjeCiGzT1UGoZHqKMr1Wc"
+      },
+      "artists": [
+        {
+          "name": "Synthia",
+          "url": "https://open.spotify.com/artist/55GAehISTHTHMesi0iILAF"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164846,
+      "name": "So Low",
+      "url": "https://open.spotify.com/track/0oC0HRFeASEgbeoXLH8O6B"
+    },
+    {
+      "album": {
         "name": "Life in Process",
         "url": "https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH"
       },
@@ -5012,7 +5132,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 232150,
       "name": "Starting Again",
       "url": "https://open.spotify.com/track/1WRwWWwaxm9zJKysz91T31"
@@ -5310,7 +5430,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 264844,
       "name": "Temple White",
       "url": "https://open.spotify.com/track/7elLKWtTEMCbOmYZ37ci9r"
@@ -5524,7 +5644,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 278400,
       "name": "TREE",
       "url": "https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d"
@@ -6442,7 +6562,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 257906,
       "name": "\u30c1\u30a7\u30ed\u30bd\u30ca\u30bf \u30c8\u77ed\u8abf Op. 65 - \u7b2c3\u697d\u7ae0 Largo",
       "url": "https://open.spotify.com/track/3Qbu91uGOGN4NOtCGRyrJg"
@@ -7195,6 +7315,24 @@
     },
     {
       "album": {
+        "name": "\u4eca\u5bb5\u304d\u308a\u306e\u5149\u666f",
+        "url": "https://open.spotify.com/album/4AxbX3NnR2xyYCw236UctB"
+      },
+      "artists": [
+        {
+          "name": "\u9752\u6728\u6176\u5247",
+          "url": "https://open.spotify.com/artist/0rb8Q1ctJ25z9P64TgKXWy"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154971,
+      "name": "\u82b1\u7d3a\u9752\u8272\u306e\u5922",
+      "url": "https://open.spotify.com/track/0iZQqdnE6Stdc8VdcJ03eW"
+    },
+    {
+      "album": {
         "name": "\u82b1\u964d\u308b\u6642\u306e\u5f7c\u65b9",
         "url": "https://open.spotify.com/album/7amC6JkIzmrsCfFec2w6gx"
       },
@@ -7250,6 +7388,24 @@
       "duration_ms": 193454,
       "name": "\u8d64\u3068\u9752",
       "url": "https://open.spotify.com/track/6AsQ1wqbmYSRmc3S9mxbaj"
+    },
+    {
+      "album": {
+        "name": "\u9060\u304f",
+        "url": "https://open.spotify.com/album/3fSSUK0Z5FZytj9JJFHA3j"
+      },
+      "artists": [
+        {
+          "name": "guppykenkyusei",
+          "url": "https://open.spotify.com/artist/4WotqvxVJBQkumfeNyMoFz"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502692,
+      "name": "\u9060\u304f",
+      "url": "https://open.spotify.com/track/6C9aG68VyWYP3aUbh9jMTQ"
     },
     {
       "album": {

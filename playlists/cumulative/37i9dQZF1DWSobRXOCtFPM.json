@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "20 Hz",
+        "url": "https://open.spotify.com/album/5ncryb8nwQ3mxE84Jha93X"
+      },
+      "artists": [
+        {
+          "name": "Capricorn",
+          "url": "https://open.spotify.com/artist/27kBITGF0FaikAGzLhGS3l"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408466,
+      "name": "20 Hz",
+      "url": "https://open.spotify.com/track/1ndmrtMTVTFLRYb0RPo36k"
+    },
+    {
+      "album": {
         "name": "Accelerate",
         "url": "https://open.spotify.com/album/5Lusm3Pd6yI36T2OU0laov"
       },
@@ -679,6 +697,24 @@
     },
     {
       "album": {
+        "name": "Punish (Radio Edit)",
+        "url": "https://open.spotify.com/album/56jQtWPz60nhgqMMqU8ZQc"
+      },
+      "artists": [
+        {
+          "name": "Uncertain",
+          "url": "https://open.spotify.com/artist/0u1M59PvHe4xP7dhzi2ccm"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246857,
+      "name": "Emerge - Radio Edit",
+      "url": "https://open.spotify.com/track/1pgjUzLh6CBpepDAB2N5f0"
+    },
+    {
+      "album": {
         "name": "Entity (Remixes)",
         "url": "https://open.spotify.com/album/4p5qsHkF823QHzILTC7iIR"
       },
@@ -759,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Music Made for Aliens",
+        "url": "https://open.spotify.com/album/2mFKFYNlT5gYdBaAGbRHnP"
+      },
+      "artists": [
+        {
+          "name": "Marc Romboy",
+          "url": "https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398769,
+      "name": "Exeter",
+      "url": "https://open.spotify.com/track/4gIfnIBiCsO5zsIVntz2IF"
+    },
+    {
+      "album": {
         "name": "The Fat of the Land",
         "url": "https://open.spotify.com/album/2qivROlvQ8BcUKTaCA7dL2"
       },
@@ -828,6 +882,24 @@
       "duration_ms": 362221,
       "name": "Get After It",
       "url": "https://open.spotify.com/track/2X4XzzpdI1eMMFPMsScPov"
+    },
+    {
+      "album": {
+        "name": "Glide",
+        "url": "https://open.spotify.com/album/7AgKj8XxTUILo8K6eyM91j"
+      },
+      "artists": [
+        {
+          "name": "Dave Angel",
+          "url": "https://open.spotify.com/artist/2Fd3lWDA61b5dcoEwNvWuT"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411461,
+      "name": "Glide",
+      "url": "https://open.spotify.com/track/0LwFDv8lo6CTYX8PJTkPTg"
     },
     {
       "album": {
@@ -1054,6 +1126,28 @@
       "duration_ms": 400000,
       "name": "Hick - Pan-Pot Remix",
       "url": "https://open.spotify.com/track/5sGtHaUKoaGlp68uEp7oz6"
+    },
+    {
+      "album": {
+        "name": "Holding Me Now",
+        "url": "https://open.spotify.com/album/0vtwBwS4ZHeBX3fMbgzyOK"
+      },
+      "artists": [
+        {
+          "name": "Davide Carbone",
+          "url": "https://open.spotify.com/artist/02lkYJwxBmJOYUhVbCrqmx"
+        },
+        {
+          "name": "Ungus Ungus Ungus",
+          "url": "https://open.spotify.com/artist/6Q26VMrq6Y3s0SbCQ60JS6"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242085,
+      "name": "Holding Me Now",
+      "url": "https://open.spotify.com/track/42ilwbXdnZCNnQSfbPPhJX"
     },
     {
       "album": {
@@ -1443,6 +1537,24 @@
     },
     {
       "album": {
+        "name": "Malbiten EP",
+        "url": "https://open.spotify.com/album/1D5WxILmPRYQyottQFjbDO"
+      },
+      "artists": [
+        {
+          "name": "Charlie Thorstenson",
+          "url": "https://open.spotify.com/artist/4z8CviapCGt8PluR1ORwbH"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408750,
+      "name": "Malbiten",
+      "url": "https://open.spotify.com/track/4hQN5kvT1djcKlvz9lgSnu"
+    },
+    {
+      "album": {
         "name": "Mindset - EP",
         "url": "https://open.spotify.com/album/13n18iOU6x7D1gmEupfDF4"
       },
@@ -1553,6 +1665,32 @@
     },
     {
       "album": {
+        "name": "My Head Is On Fire",
+        "url": "https://open.spotify.com/album/3JLozfpS3Ke2ty7QqrKAg3"
+      },
+      "artists": [
+        {
+          "name": "Coyu",
+          "url": "https://open.spotify.com/artist/5cKSSXjPNJJ6Fkm9sCMplh"
+        },
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        },
+        {
+          "name": "La CouCou",
+          "url": "https://open.spotify.com/artist/2nVcZDji102fL8qWzEuvvq"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394908,
+      "name": "My Head Is On Fire",
+      "url": "https://open.spotify.com/track/22YNTCWbJaMbTw6SrnQuDp"
+    },
+    {
+      "album": {
         "name": "Blue, Black And Grey",
         "url": "https://open.spotify.com/album/08yr2guH6hVzoWT49bQ5d9"
       },
@@ -1660,6 +1798,24 @@
       "duration_ms": 356250,
       "name": "One Four Five (Live)",
       "url": "https://open.spotify.com/track/28YHc9CUJEu9SciHhHyX0U"
+    },
+    {
+      "album": {
+        "name": "Perception",
+        "url": "https://open.spotify.com/album/3kKpXacCqn5kUo5wSbP93Z"
+      },
+      "artists": [
+        {
+          "name": "Belocca",
+          "url": "https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377769,
+      "name": "Oracle",
+      "url": "https://open.spotify.com/track/6MR95yRF4sQmofUKuCErJe"
     },
     {
       "album": {
@@ -1784,6 +1940,24 @@
       "duration_ms": 247272,
       "name": "Party Started (Set It Off)",
       "url": "https://open.spotify.com/track/6V0q9nG9UqYhNWyD62qjAA"
+    },
+    {
+      "album": {
+        "name": "Perception",
+        "url": "https://open.spotify.com/album/3kKpXacCqn5kUo5wSbP93Z"
+      },
+      "artists": [
+        {
+          "name": "Belocca",
+          "url": "https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404961,
+      "name": "Perception",
+      "url": "https://open.spotify.com/track/3ll4L5Dd6LIdYRvJnp9l7a"
     },
     {
       "album": {
@@ -2086,6 +2260,24 @@
       "duration_ms": 323636,
       "name": "Sensation - Radio Edit",
       "url": "https://open.spotify.com/track/2ay8zTIxN01I6rFEeRQcUd"
+    },
+    {
+      "album": {
+        "name": "Malbiten EP",
+        "url": "https://open.spotify.com/album/1D5WxILmPRYQyottQFjbDO"
+      },
+      "artists": [
+        {
+          "name": "Charlie Thorstenson",
+          "url": "https://open.spotify.com/artist/4z8CviapCGt8PluR1ORwbH"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358077,
+      "name": "Silverfisken",
+      "url": "https://open.spotify.com/track/6xxkx6lbMujoHAgJdSiB26"
     },
     {
       "album": {
@@ -2393,6 +2585,24 @@
     },
     {
       "album": {
+        "name": "Spice Dice",
+        "url": "https://open.spotify.com/album/2ZHAWRs6UetusubJezCxp6"
+      },
+      "artists": [
+        {
+          "name": "Hollen",
+          "url": "https://open.spotify.com/artist/3XyhZgjNCOB4onNVrbtYiB"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358451,
+      "name": "Spice Dice",
+      "url": "https://open.spotify.com/track/3J9rDij6z4TZmyC2mrysKz"
+    },
+    {
+      "album": {
         "name": "The Business",
         "url": "https://open.spotify.com/album/58aLXXQAf6a8l5FNTy1BIP"
       },
@@ -2481,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "Waveriders EP",
+        "url": "https://open.spotify.com/album/38r01VO4vB927FYxYjXtTz"
+      },
+      "artists": [
+        {
+          "name": "Filterheadz",
+          "url": "https://open.spotify.com/artist/6XqUjMGrl5jFwwyQ6hheit"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401777,
+      "name": "The Siren",
+      "url": "https://open.spotify.com/track/0Oa28vZJYTvMCzVTxX7bdY"
+    },
+    {
+      "album": {
         "name": "Thoughts (Reb\u016bke Remix)",
         "url": "https://open.spotify.com/album/53Lw6bLxSXxo36KsWQZJfq"
       },
@@ -2522,6 +2750,28 @@
       "duration_ms": 394901,
       "name": "Through the Blinds (Audiojack Remix)",
       "url": "https://open.spotify.com/track/4NFOgN08yjA8XH2uoEWJQC"
+    },
+    {
+      "album": {
+        "name": "Tomahawk",
+        "url": "https://open.spotify.com/album/0CbheLrUB8byLWdFey98ju"
+      },
+      "artists": [
+        {
+          "name": "Aitor Ronda",
+          "url": "https://open.spotify.com/artist/4Q6FHEKif7t06z6NGujL2D"
+        },
+        {
+          "name": "Pig&Dan",
+          "url": "https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341333,
+      "name": "Tomahawk",
+      "url": "https://open.spotify.com/track/5sV5pp8JDNkh7CGgkRuztg"
     },
     {
       "album": {

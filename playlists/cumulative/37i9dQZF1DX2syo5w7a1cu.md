@@ -2,7 +2,7 @@
 
 ### [Soft 90s](https://open.spotify.com/playlist/37i9dQZF1DX2syo5w7a1cu)
 
-> Mellow songs from the 90s\. Cover: <a href="spotify:artist:0Ty63ceoRnnJKVEYP0VQpk">Sting</a>
+> Mellow songs from the 1990s.
 
 369 songs - 1 day 3 hr 35 min
 

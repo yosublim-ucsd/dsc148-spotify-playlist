@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-333 songs - 14 hr 17 min
+334 songs - 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Finally Ours](https://open.spotify.com/track/790LoJy9GwWsIjtu8PZEos) | [Derick Carson](https://open.spotify.com/artist/0CaZ6x330PQergmF3mEpuY) | [Finally Ours](https://open.spotify.com/album/0I5M2jJZ6mHnUa5AwRHImg) | 2:28 | 2022-04-04 |  |
 | [Fiore](https://open.spotify.com/track/6DRCugEZcKbSOK9OT5cNvM) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Fiore](https://open.spotify.com/album/3a9gYjD5YZXp4Ss8XHXRZy) | 2:55 | 2022-04-04 |  |
 | [Folklore](https://open.spotify.com/track/0ZbDS3webX8T8c8FCV4T1l) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Folklore](https://open.spotify.com/album/4VTTfTngOcdfVVnlCDhY6f) | 2:09 | 2022-04-04 |  |
+| [For the Love of You](https://open.spotify.com/track/7hJHeX4A3TdI0cDElWu3Zk) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [For the Love of You](https://open.spotify.com/album/3IOVFUsrtTjyseXEaKNMvr) | 1:47 | 2023-04-18 |  |
 | [Forelsket](https://open.spotify.com/track/4Oo0RKYm64PZSIbpFmcuK9) | [Idun Vinter](https://open.spotify.com/artist/1xxEOepOhE9VubYZpZX10m) | [Forelsket](https://open.spotify.com/album/6HKYX4ZmdHL8DMhsWp497N) | 2:50 | 2022-04-04 | 2022-11-19 |
 | [Forget Me Not](https://open.spotify.com/track/4yKBr0AQyvqlvPf9WmbA4c) | [April Baxter](https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec) | [Forget Me Not](https://open.spotify.com/album/345nIMY4RJwHwwwYDojGBE) | 2:22 | 2022-05-20 |  |
 | [Forgive Us](https://open.spotify.com/track/7pIprvHSIi4bZiFGc6xf5p) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Forgive Us](https://open.spotify.com/album/2g5Cpml6zGcLEEZweDWEc5) | 3:32 | 2022-04-04 |  |
@@ -187,7 +188,7 @@
 | [New Chapter](https://open.spotify.com/track/4691T6692tOUpmqOcgPz71) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Chapter](https://open.spotify.com/album/2vslOwXeIfgd3IsgWuuPZI) | 2:29 | 2022-04-04 | 2022-07-29 |
 | [Next Part Of The Dream](https://open.spotify.com/track/0Bip0zvXgJNLImBHYkJkQG) | [Grace Olimpia](https://open.spotify.com/artist/0hekyZHacb34zACbjg2VSz) | [Next Part Of The Dream](https://open.spotify.com/album/178jMXfVPzfwW27g28G2yZ) | 3:13 | 2022-04-04 | 2022-07-08 |
 | [Nirha](https://open.spotify.com/track/0SK8aridaHO485I2iJD35e) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Nirha](https://open.spotify.com/album/3AEGuqW6eS9efDAYOpfBjH) | 2:44 | 2022-04-04 |  |
-| [Notes in the Stars](https://open.spotify.com/track/7tVXn05UnymHBVTXISx3sv) | [Laura Sherwin](https://open.spotify.com/artist/0bEESrhv84TNExJrfQ1LAT) | [Notes in the Stars](https://open.spotify.com/album/2Tr3KA6Ch1QwpgdQE83cDY) | 3:01 | 2022-04-04 |  |
+| [Notes in the Stars](https://open.spotify.com/track/7tVXn05UnymHBVTXISx3sv) | [Laura Sherwin](https://open.spotify.com/artist/0bEESrhv84TNExJrfQ1LAT) | [Notes in the Stars](https://open.spotify.com/album/2Tr3KA6Ch1QwpgdQE83cDY) | 3:01 | 2022-04-04 | 2023-04-19 |
 | [Nourriture et soleil](https://open.spotify.com/track/5eBaIlhJGeM9LwvqYw0J3k) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Nourriture et soleil](https://open.spotify.com/album/4ITksiX8W2gSNoW7mSStD4) | 3:00 | 2022-04-04 |  |
 | [November Birdie](https://open.spotify.com/track/3N79AZhe7FiBgF7leqGhHt) | [El Pianista Manco](https://open.spotify.com/artist/01E7DBTYoklq6FeDxgRk36) | [November Birdie](https://open.spotify.com/album/3Fm1JbS2MGWoABmIZV6KJZ) | 2:42 | 2022-12-22 |  |
 | [Nádherný deň](https://open.spotify.com/track/4Vj6uqVryCg8v3QshrKem7) | [Zuzana Kudová](https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc) | [Nádherný deň](https://open.spotify.com/album/5ZcPS7zyjR9emfCmPajYYI) | 1:59 | 2022-09-20 |  |
@@ -279,14 +280,14 @@
 | [Sweet Solace](https://open.spotify.com/track/0nhzb9shoacpm0v3m2zwhf) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb) | [Sweet Solace](https://open.spotify.com/album/3qv4GFalBDjTlSDACnjmEe) | 2:17 | 2022-07-07 |  |
 | [Symbiosis](https://open.spotify.com/track/4dc6eq2N9fGfdBGtIGZu3N) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Symbiosis](https://open.spotify.com/album/0UzYG373TFPwHolTWMHhHf) | 2:29 | 2022-04-04 |  |
 | [Taciturn](https://open.spotify.com/track/6k4vTbYOi9pLZHaJYhBRu1) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Taciturn](https://open.spotify.com/album/5xnqoJGg61x04VqCJjBeG0) | 2:59 | 2022-07-07 |  |
-| [Te lo prometto](https://open.spotify.com/track/25WI6xofZEaZmZRus2VzjO) | [Isaia Donini](https://open.spotify.com/artist/7uZiElUrYRfPalrM9kZBdI) | [Te lo prometto](https://open.spotify.com/album/3FevTCLbawOb3TgUlUD66p) | 2:16 | 2022-04-04 |  |
+| [Te lo prometto](https://open.spotify.com/track/25WI6xofZEaZmZRus2VzjO) | [Isaia Donini](https://open.spotify.com/artist/7uZiElUrYRfPalrM9kZBdI) | [Te lo prometto](https://open.spotify.com/album/3FevTCLbawOb3TgUlUD66p) | 2:16 | 2022-04-04 | 2023-04-19 |
 | [The Cherry Trees](https://open.spotify.com/track/1dPIVEUmnh7v9r4KUnOTHH) | [Gail Bastien](https://open.spotify.com/artist/1eCocb44CK7LZas5v6DKUC) | [The Cherry Trees](https://open.spotify.com/album/2tJO1OQKOOi4tSvQpNQBFG) | 2:25 | 2022-04-04 |  |
 | [The Crossing \(Revisited\)](https://open.spotify.com/track/2aLM9O5Gz5X758xYkgpSC6) | [Danny Mulhern](https://open.spotify.com/artist/4tc9PdoWcfLTI5ZcNIhWuU) | [The Crossing \(Revisited\)](https://open.spotify.com/album/7EvoRhA8ptjI0AoQQu4n6s) | 1:57 | 2022-04-04 | 2022-12-24 |
 | [The Farewell](https://open.spotify.com/track/0rIILfeK7DEyWgCqUtvH0z) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [The Farewell](https://open.spotify.com/album/1Ak9Cy3afdJz2itTFxLDWy) | 2:48 | 2022-04-04 | 2023-02-15 |
 | [The Farewell](https://open.spotify.com/track/2Mc7mVrymhooU24Hitf5D7) | [Reivaj Ebol](https://open.spotify.com/artist/0qzn5WRrlF1GhZi4Bf95Tz) | [The Farewell](https://open.spotify.com/album/1G1ATtg73fL1UQnCcGAHg6) | 2:48 | 2023-02-03 |  |
 | [The French Library](https://open.spotify.com/track/5mrxUVYEyowgATPU35aZay) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [The French Library](https://open.spotify.com/album/4ueYzOaC8Jbvxs3MbznNhY) | 2:59 | 2022-04-04 | 2022-07-08 |
 | [The Garden](https://open.spotify.com/track/5zxpOwuLmakNHkTgipD0me) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Simple Things](https://open.spotify.com/album/2Mb8DzYuYlPIM1IaNmO0oq) | 3:05 | 2022-04-04 |  |
-| [The Garden Level](https://open.spotify.com/track/5Ku72stdcggstX5jSNeMxN) | [Rachel Page](https://open.spotify.com/artist/5Wa9BCfxcZp6m8buEvClQF) | [Infinite Landing](https://open.spotify.com/album/3OUb8u8blLuUt2i4gnTUdD) | 2:17 | 2022-04-04 |  |
+| [The Garden Level](https://open.spotify.com/track/5Ku72stdcggstX5jSNeMxN) | [Rachel Page](https://open.spotify.com/artist/5Wa9BCfxcZp6m8buEvClQF) | [Infinite Landing](https://open.spotify.com/album/3OUb8u8blLuUt2i4gnTUdD) | 2:17 | 2022-04-04 | 2023-04-19 |
 | [The Owl](https://open.spotify.com/track/0YFMpvuxexjjj8lZKYRCrD) | [Valérie Beaumont](https://open.spotify.com/artist/1MB6Pvf8JF8zGKtI1LSVjD) | [The Owl](https://open.spotify.com/album/4D5mDIlOrgRAXMO4hOhYXo) | 2:59 | 2022-04-04 | 2022-11-19 |
 | [The shadow](https://open.spotify.com/track/35FJNNkCTHJ8qKyfPXDbxL) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [The shadow](https://open.spotify.com/album/2EZ31BP3AKAZd2yDJv48Wd) | 2:15 | 2022-11-18 |  |
 | [Tient qu'à un fil](https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO) | [Gaspar Parentau](https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ) | [Tient qu'à un fil](https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr) | 2:47 | 2022-04-04 |  |

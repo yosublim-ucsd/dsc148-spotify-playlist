@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of these gospel tunes.",
-  "num_followers": 618807,
+  "num_followers": 618893,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyNDYwNDA5OSwwMDAwMDAwMGJhNzYzY2UyMGUzNjJmMTBkYTAzNjA0ZmYzNTcwMWE2",
+  "snapshot_id": "MTYyNDYwNDA5OSwwMDAwMDAwMGI5MjZlNTRlZDg3ZTQ1NzAzNzUxMjE3NzcxNmIyMjRi",
   "tracks": [
     {
       "added_at": "2021-06-25 06:54:59",
@@ -327,26 +327,18 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "Revealed",
-        "url": "https://open.spotify.com/album/1WBCOU7em7eF48hAk3i5FD"
+        "name": "From The Heart",
+        "url": "https://open.spotify.com/album/5pnV5VmY1HYPnRBa3yagGq"
       },
       "artists": [
         {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
-        },
-        {
-          "name": "Ruben Studdard",
-          "url": "https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW"
-        },
-        {
-          "name": "Mary Mary",
-          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+          "name": "Jessica Reedy",
+          "url": "https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6"
         }
       ],
-      "duration_ms": 198400,
-      "name": "Love Him Like I Do",
-      "url": "https://open.spotify.com/track/5jGyahHaLBcUB1yJ9SY2zH"
+      "duration_ms": 246106,
+      "name": "Put It On The Altar",
+      "url": "https://open.spotify.com/track/1no67NVun0BIparrhLtPM6"
     },
     {
       "added_at": "2021-06-25 06:54:59",
@@ -387,18 +379,26 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "From The Heart",
-        "url": "https://open.spotify.com/album/5pnV5VmY1HYPnRBa3yagGq"
+        "name": "Revealed",
+        "url": "https://open.spotify.com/album/1WBCOU7em7eF48hAk3i5FD"
       },
       "artists": [
         {
-          "name": "Jessica Reedy",
-          "url": "https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6"
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        },
+        {
+          "name": "Ruben Studdard",
+          "url": "https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW"
+        },
+        {
+          "name": "Mary Mary",
+          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
         }
       ],
-      "duration_ms": 246106,
-      "name": "Put It On The Altar",
-      "url": "https://open.spotify.com/track/1no67NVun0BIparrhLtPM6"
+      "duration_ms": 198400,
+      "name": "Love Him Like I Do",
+      "url": "https://open.spotify.com/track/5jGyahHaLBcUB1yJ9SY2zH"
     },
     {
       "added_at": "2021-06-25 06:54:59",
@@ -603,8 +603,8 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "Broken Record",
-        "url": "https://open.spotify.com/album/3KvTiS9JDUb7IR1xOWl9Wj"
+        "name": "You Waited (Radio Edit) [Live]",
+        "url": "https://open.spotify.com/album/2S7fAEAZbvkXV2b6g3uJOF"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
         }
       ],
-      "duration_ms": 238084,
-      "name": "Won't Let Go",
-      "url": "https://open.spotify.com/track/37s52ztttg63S3jIDQNo7v"
+      "duration_ms": 220849,
+      "name": "You Waited (Radio Edit) [Live]",
+      "url": "https://open.spotify.com/track/5Hfmsb1SeH4GP2qi6eGCO0"
     },
     {
       "added_at": "2021-06-25 06:54:59",
@@ -683,8 +683,8 @@
     {
       "added_at": "2021-06-25 06:54:59",
       "album": {
-        "name": "You Waited (Radio Edit) [Live]",
-        "url": "https://open.spotify.com/album/2S7fAEAZbvkXV2b6g3uJOF"
+        "name": "Broken Record",
+        "url": "https://open.spotify.com/album/3KvTiS9JDUb7IR1xOWl9Wj"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
         }
       ],
-      "duration_ms": 220849,
-      "name": "You Waited (Radio Edit) [Live]",
-      "url": "https://open.spotify.com/track/5Hfmsb1SeH4GP2qi6eGCO0"
+      "duration_ms": 238084,
+      "name": "Won't Let Go",
+      "url": "https://open.spotify.com/track/37s52ztttg63S3jIDQNo7v"
     },
     {
       "added_at": "2021-06-25 06:54:59",

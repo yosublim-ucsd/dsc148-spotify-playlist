@@ -1,12 +1,12 @@
 {
   "description": "The best indie covers. Cover: Remi Wolf",
-  "num_followers": 278507,
+  "num_followers": 278564,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIyNTA3NCwwMDAwMDAwMGQ0NzBhZTE0MjBkZmQyOTMyY2MwMjYwOTA4NTgyNTkz",
+  "snapshot_id": "MTY4MTIyNTA3NCwwMDAwMDAwMGQ4NDk2ZTEwYjlmMjllZDZkZWM1ZDlhMGY2N2NmZTRk",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i"
     },
     {
-      "added_at": "2023-04-18 01:28:42",
+      "added_at": "2023-04-19 01:36:21",
       "album": {
         "name": "The Moon Song",
         "url": "https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm"
@@ -193,6 +193,22 @@
       "url": "https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww"
     },
     {
+      "added_at": "2023-04-19 01:36:21",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 317106,
+      "name": "A Little Bit of Everything - Spotify Singles",
+      "url": "https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Spotify Singles",
@@ -207,22 +223,6 @@
       "duration_ms": 190392,
       "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
-    },
-    {
-      "added_at": "2023-04-18 01:28:42",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 317106,
-      "name": "A Little Bit of Everything - Spotify Singles",
-      "url": "https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
     },
     {
-      "added_at": "2023-04-18 01:28:42",
+      "added_at": "2023-04-19 01:36:21",
       "album": {
         "name": "Dancing on My Own",
         "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/0voD3AU9IVGAyCXeV8GeSz"
     },
     {
-      "added_at": "2023-04-18 01:28:42",
+      "added_at": "2023-04-19 01:36:21",
       "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2"
@@ -949,7 +949,7 @@
       "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
     },
     {
-      "added_at": "2023-04-18 01:28:42",
+      "added_at": "2023-04-19 01:36:21",
       "album": {
         "name": "Under The Milky Way",
         "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
@@ -1125,6 +1125,22 @@
       "url": "https://open.spotify.com/track/6SRgFtpZmRsYNR3Kj5sHCf"
     },
     {
+      "added_at": "2023-03-17 05:00:00",
+      "album": {
+        "name": "Dancing in the Moonlight (Beach)",
+        "url": "https://open.spotify.com/album/2X9C6daog3060N1C99C49C"
+      },
+      "artists": [
+        {
+          "name": "Scoobert Doobert",
+          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "Dancing in the Moonlight (Beach)",
+      "url": "https://open.spotify.com/track/07vT5XKYnkytySiCLZPYn3"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Fake Plastic Trees",
@@ -1155,22 +1171,6 @@
       "duration_ms": 191875,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
-    },
-    {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "Dancing in the Moonlight (Beach)",
-        "url": "https://open.spotify.com/album/2X9C6daog3060N1C99C49C"
-      },
-      "artists": [
-        {
-          "name": "Scoobert Doobert",
-          "url": "https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "Dancing in the Moonlight (Beach)",
-      "url": "https://open.spotify.com/track/07vT5XKYnkytySiCLZPYn3"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1205,22 +1205,6 @@
       "url": "https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1"
     },
     {
-      "added_at": "2023-04-18 01:28:42",
-      "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 206995,
-      "name": "Strange Overtones",
-      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
-    },
-    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Bailando",
@@ -1239,6 +1223,22 @@
       "duration_ms": 187697,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN"
+    },
+    {
+      "added_at": "2023-04-19 01:36:21",
+      "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 206995,
+      "name": "Strange Overtones",
+      "url": "https://open.spotify.com/track/5aHpXbgh3lZlUPJ1iqaczp"
     },
     {
       "added_at": "2022-11-11 05:00:00",

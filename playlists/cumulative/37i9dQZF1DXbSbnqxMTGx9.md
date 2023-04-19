@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-473 songs - 1 day 3 hr 5 min
+474 songs - 1 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,8 @@
 | [Lips of Wine](https://open.spotify.com/track/2Wv7ETWvaAmsQT2hk0Hk76) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP) | 2:43 | 2021-03-02 |  |
 | [Liquidator](https://open.spotify.com/track/0qQspNKsu9bkU6SsqE8WlZ) | [Harry J Allstars](https://open.spotify.com/artist/1Q5alKemDVeSVcK35G8NAm) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:07 | 2021-03-02 |  |
 | [Lively Up Yourself](https://open.spotify.com/track/7lNytAEsXlIsY8K7S0IfDa) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Bob Marley: One Love](https://open.spotify.com/album/5OP1EOceIY6UXIR4B0xIzq) | 2:52 | 2022-09-22 | 2022-11-13 |
-| [Lively Up Yourself \- Eric ET Thorngren Remix](https://open.spotify.com/track/6FjQMNFRwyedMWtGjaWmvl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Essential Marley](https://open.spotify.com/album/2uthDmiULpCwlJBvo4qCT4) | 2:55 | 2022-09-22 |  |
+| [Lively Up Yourself \- Eric ET Thorngren Remix](https://open.spotify.com/track/3ds4nfAU8dIriVzFVZFnZN) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [The Music Of Alberto Carlos Jobim](https://open.spotify.com/album/6h9cc9NdegUHM9Qibe3ajt) | 2:55 | 2022-09-22 |  |
+| [Lively Up Yourself \- Eric ET Thorngren Remix](https://open.spotify.com/track/6FjQMNFRwyedMWtGjaWmvl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Essential Marley](https://open.spotify.com/album/2uthDmiULpCwlJBvo4qCT4) | 2:55 | 2022-09-22 | 2023-04-19 |
 | [Long Shot Kick De Bucket](https://open.spotify.com/track/1fsp1ZvQ6F5nf8Ut5TBtAX) | [The Pioneers](https://open.spotify.com/artist/4CSqr95TKzLmNeClcDr219) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:48 | 2022-09-22 |  |
 | [Long Story](https://open.spotify.com/track/0JabR3VDngjNbcLSzQerx1) | [Rudy Mills](https://open.spotify.com/artist/7bd687clsLdr4DueSybjG3) | [Riding the Musical Chariot](https://open.spotify.com/album/0PWSt4l4HLg9t4XpKaBYJy) | 3:13 | 2022-09-22 | 2022-11-13 |
 | [Love Alone](https://open.spotify.com/track/4ieXbToMBt4Cy0MU6Lf3av) | [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Love Alone](https://open.spotify.com/album/0MlJXgZuqRWqCXyY2qRDqM) | 3:29 | 2022-08-18 | 2022-09-23 |

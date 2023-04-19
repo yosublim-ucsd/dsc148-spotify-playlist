@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bispo e B\u00e1rbara Tinoco.",
-  "num_followers": 30068,
+  "num_followers": 30170,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMDkxN2U3M2E0MDAyN2JjYmMzNWZkMjcxMzc0NjY0NmY1",
+  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMDcxNTI4MTgwMzAyYzU2ODFiMTdhYjk2NDc0NGFiN2Y4",
   "tracks": [
     {
       "added_at": "2023-04-13 23:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "3815",
+        "url": "https://open.spotify.com/album/1oZCUxBvbv55jnTlC9sT90"
+      },
+      "artists": [
+        {
+          "name": "Gama WNTD",
+          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "3815",
+      "url": "https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Entre N\u00f3s",
         "url": "https://open.spotify.com/album/7hK8tp2hartNZYIdAk7qwk"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 192130,
       "name": "Entre N\u00f3s",
       "url": "https://open.spotify.com/track/2rdxhGC4hD97rwGn7SA0UM"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Madruga",
-        "url": "https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA"
-      },
-      "artists": [
-        {
-          "name": "Mike11",
-          "url": "https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x"
-        }
-      ],
-      "duration_ms": 206315,
-      "name": "Madruga",
-      "url": "https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "3815",
-        "url": "https://open.spotify.com/album/1oZCUxBvbv55jnTlC9sT90"
+        "name": "Madruga",
+        "url": "https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA"
       },
       "artists": [
         {
-          "name": "Gama WNTD",
-          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
+          "name": "Mike11",
+          "url": "https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x"
         }
       ],
-      "duration_ms": 189000,
-      "name": "3815",
-      "url": "https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe"
+      "duration_ms": 206315,
+      "name": "Madruga",
+      "url": "https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1067,18 +1067,38 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz"
+        "name": "Tu Reclamas",
+        "url": "https://open.spotify.com/album/3ihIy7j62q5IBpWWVu8EVR"
       },
       "artists": [
         {
-          "name": "J.Yen",
-          "url": "https://open.spotify.com/artist/1cHrAXseLt7kFWFdvQE2HO"
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        },
+        {
+          "name": "TeniTeach",
+          "url": "https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE"
         }
       ],
-      "duration_ms": 208163,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u"
+      "duration_ms": 230658,
+      "name": "Tu Reclamas",
+      "url": "https://open.spotify.com/track/1R5wKY4PsyED3atWwJwfDB"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Roll Another One",
+        "url": "https://open.spotify.com/album/5QsRYyibg1rSkwTKhWJhPe"
+      },
+      "artists": [
+        {
+          "name": "Jvst Fly",
+          "url": "https://open.spotify.com/artist/4yafH0N98ld6th7MqELRXa"
+        }
+      ],
+      "duration_ms": 193269,
+      "name": "Roll Another One",
+      "url": "https://open.spotify.com/track/0WtWIiMHgYKCX11kOwX6my"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1103,38 +1123,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Roll Another One",
-        "url": "https://open.spotify.com/album/5QsRYyibg1rSkwTKhWJhPe"
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz"
       },
       "artists": [
         {
-          "name": "Jvst Fly",
-          "url": "https://open.spotify.com/artist/4yafH0N98ld6th7MqELRXa"
+          "name": "J.Yen",
+          "url": "https://open.spotify.com/artist/1cHrAXseLt7kFWFdvQE2HO"
         }
       ],
-      "duration_ms": 193269,
-      "name": "Roll Another One",
-      "url": "https://open.spotify.com/track/0WtWIiMHgYKCX11kOwX6my"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Tu Reclamas",
-        "url": "https://open.spotify.com/album/3ihIy7j62q5IBpWWVu8EVR"
-      },
-      "artists": [
-        {
-          "name": "Myles 6ix",
-          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
-        },
-        {
-          "name": "TeniTeach",
-          "url": "https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE"
-        }
-      ],
-      "duration_ms": 230658,
-      "name": "Tu Reclamas",
-      "url": "https://open.spotify.com/track/1R5wKY4PsyED3atWwJwfDB"
+      "duration_ms": 208163,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1151,46 +1151,6 @@
       "duration_ms": 223961,
       "name": "EU SEI",
       "url": "https://open.spotify.com/track/7BN2gjCwesbpg6fk2AgRvB"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Sei Que Te Amo",
-        "url": "https://open.spotify.com/album/6CBP6oIIWSv7s11FGY7nTd"
-      },
-      "artists": [
-        {
-          "name": "Carlos Kendrick",
-          "url": "https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH"
-        },
-        {
-          "name": "Jess 5K",
-          "url": "https://open.spotify.com/artist/2NeUWpEKR9x4SohRs4h2bT"
-        }
-      ],
-      "duration_ms": 212690,
-      "name": "Sei Que Te Amo",
-      "url": "https://open.spotify.com/track/4wRHER6nXzSDArytUocrV3"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Vai",
-        "url": "https://open.spotify.com/album/30E33TmWJkLCZ1ivfd6zUF"
-      },
-      "artists": [
-        {
-          "name": "10/16",
-          "url": "https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE"
-        },
-        {
-          "name": "SAYLESSALEX.",
-          "url": "https://open.spotify.com/artist/6bw5SVjt0q54wNmwozMg7O"
-        }
-      ],
-      "duration_ms": 196085,
-      "name": "Vai",
-      "url": "https://open.spotify.com/track/6y2kYJAT69eIW88dc2NvQz"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1215,6 +1175,26 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Sei Que Te Amo",
+        "url": "https://open.spotify.com/album/6CBP6oIIWSv7s11FGY7nTd"
+      },
+      "artists": [
+        {
+          "name": "Carlos Kendrick",
+          "url": "https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH"
+        },
+        {
+          "name": "Jess 5K",
+          "url": "https://open.spotify.com/artist/2NeUWpEKR9x4SohRs4h2bT"
+        }
+      ],
+      "duration_ms": 212690,
+      "name": "Sei Que Te Amo",
+      "url": "https://open.spotify.com/track/4wRHER6nXzSDArytUocrV3"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Uma Chamada Tua",
         "url": "https://open.spotify.com/album/2Pt1yrT5x7GzPzCBexziIW"
       },
@@ -1231,18 +1211,38 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Chama",
-        "url": "https://open.spotify.com/album/6ahh3FXc4m8PpHLXzaC5kS"
+        "name": "Vai",
+        "url": "https://open.spotify.com/album/30E33TmWJkLCZ1ivfd6zUF"
       },
       "artists": [
         {
-          "name": "Jovem Ricch",
-          "url": "https://open.spotify.com/artist/6h1XzP48C784CYNKfgCY8D"
+          "name": "10/16",
+          "url": "https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE"
+        },
+        {
+          "name": "SAYLESSALEX.",
+          "url": "https://open.spotify.com/artist/6bw5SVjt0q54wNmwozMg7O"
         }
       ],
-      "duration_ms": 135447,
-      "name": "Chama",
-      "url": "https://open.spotify.com/track/21IKJYkz8ixquQUHXu6cXK"
+      "duration_ms": 196085,
+      "name": "Vai",
+      "url": "https://open.spotify.com/track/6y2kYJAT69eIW88dc2NvQz"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Culpa Do \u00c1lcool",
+        "url": "https://open.spotify.com/album/0vnNwTitOdyUljMkE1qUPW"
+      },
+      "artists": [
+        {
+          "name": "Stef\u00e2nia Leonel",
+          "url": "https://open.spotify.com/artist/5vBDGts6FgwIFgGezr0gZE"
+        }
+      ],
+      "duration_ms": 133407,
+      "name": "Culpa Do \u00c1lcool",
+      "url": "https://open.spotify.com/track/1GAy3MLjR2Nlhdr1Z4iQb0"
     }
   ],
   "unique_name": "Seda",

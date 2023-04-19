@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Piba\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,540 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,546 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 40 | [Lo Único Que Tenemos Que Ver Tú y Yo Es Lo de en Frente](https://open.spotify.com/track/6FuR5KzA4mm9oEB1OsIX1x) | [Mariscos](https://open.spotify.com/artist/47TIxmNNgoxt3EngNU4PWn) | [Lo Único Que Tenemos Que Ver Tú y Yo Es Lo de en Frente](https://open.spotify.com/album/4khJHEa8AuphacJcuEVORy) | 1:39 |
 | 41 | [Vibras Positivas](https://open.spotify.com/track/6nq8qg9OAldCiM6jaCVKer) | [Tomás Lauría](https://open.spotify.com/artist/0neHEgLsKKdPl2izN9qVzY) | [Viaje \(a\)marte](https://open.spotify.com/album/0s5pP23tx9XCUAQ82xSouC) | 1:58 |
 | 42 | [Tu Adicción](https://open.spotify.com/track/0JDxwd3PzqgKRXYqJYBo3A) | [Dharma y Flora](https://open.spotify.com/artist/5jjs8LaABvB8WZpahQ0CwO) | [Tu Adicción](https://open.spotify.com/album/3FJbYrTR0kolbnf1E91MtJ) | 4:37 |
-| 43 | [Brilla](https://open.spotify.com/track/5sWnTIlO1DzWt9mQcYXiH8) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j) | [Brilla](https://open.spotify.com/album/2ADSOpQF29tah5CcxFNaVv) | 2:35 |
-| 44 | [tal para cual](https://open.spotify.com/track/4lMmTToPlpzuEVo6vTjgvt) | [Lina Sanabria](https://open.spotify.com/artist/4NNyMWpP0BxL3RL0G60hmV) | [tal para cual](https://open.spotify.com/album/2vnCpwlT0q7R11ve53x1Ji) | 2:21 |
+| 43 | [tal para cual](https://open.spotify.com/track/4lMmTToPlpzuEVo6vTjgvt) | [Lina Sanabria](https://open.spotify.com/artist/4NNyMWpP0BxL3RL0G60hmV) | [tal para cual](https://open.spotify.com/album/2vnCpwlT0q7R11ve53x1Ji) | 2:21 |
+| 44 | [Brilla](https://open.spotify.com/track/5sWnTIlO1DzWt9mQcYXiH8) | [Selene](https://open.spotify.com/artist/3hk133tFNlWGS6SKHSeE7j) | [Brilla](https://open.spotify.com/album/2ADSOpQF29tah5CcxFNaVv) | 2:35 |
 | 45 | [No Se Ve](https://open.spotify.com/track/0cDYVAmMrQEvnpdBEFiPyb) | [Lalo Cortés](https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ) | [No Se Ve](https://open.spotify.com/album/1D6xmhub4qV8PTjPovk3n6) | 4:01 |
 | 46 | [Lo Disfrutaría](https://open.spotify.com/track/5qJ015XdHUQlU2hVObvmrc) | [Mila Magal](https://open.spotify.com/artist/6aVKvI8vXjzhp9FICkwRWV) | [Lo Disfrutaría](https://open.spotify.com/album/6QToLNDMnSZ0nzm0lqP0qD) | 3:26 |
-| 47 | [Buscando a Orión](https://open.spotify.com/track/4iO1Oi2QBMwOgXBWFsLmre) | [XALU](https://open.spotify.com/artist/6oYnCz7GvDdeyg9KlRzsla), [Fco\. Chandia](https://open.spotify.com/artist/655dPMaDIzxF49DrrYNc4p) | [Buscando a Orión](https://open.spotify.com/album/0KCRU1HgBRhCBLOLNdG0Np) | 2:57 |
-| 48 | [canciondeamor.mp3](https://open.spotify.com/track/3SyRbMSovxjQ2jBFxhIytQ) | [0xLxxl](https://open.spotify.com/artist/5vL7m9m6LyEb71j1fZlZVW), [BITO](https://open.spotify.com/artist/5BWRkXcJTDM8ToDDL5p2Bg) | [canciondeamor.mp3](https://open.spotify.com/album/7pr0F8f3ssNDu0cbkf0PEt) | 2:48 |
+| 47 | [canciondeamor.mp3](https://open.spotify.com/track/3SyRbMSovxjQ2jBFxhIytQ) | [0xLxxl](https://open.spotify.com/artist/5vL7m9m6LyEb71j1fZlZVW), [BITO](https://open.spotify.com/artist/5BWRkXcJTDM8ToDDL5p2Bg) | [canciondeamor.mp3](https://open.spotify.com/album/7pr0F8f3ssNDu0cbkf0PEt) | 2:48 |
+| 48 | [Buscando a Orión](https://open.spotify.com/track/4iO1Oi2QBMwOgXBWFsLmre) | [XALU](https://open.spotify.com/artist/6oYnCz7GvDdeyg9KlRzsla), [Fco\. Chandia](https://open.spotify.com/artist/655dPMaDIzxF49DrrYNc4p) | [Buscando a Orión](https://open.spotify.com/album/0KCRU1HgBRhCBLOLNdG0Np) | 2:57 |
 | 49 | [BBY? \(Intro\)](https://open.spotify.com/track/6IIQmE2vbGbm7nKKytEJz6) | [KATTO](https://open.spotify.com/artist/7MthCm9PLvyv3cF2va9Y80) | [BBY?](https://open.spotify.com/album/0z8ygzNS0kFsriH3w1lxGk) | 1:43 |
 | 50 | [Me Aburren las Cosas Perfectas](https://open.spotify.com/track/0fPbVT8ica6n6RJoxJVLQR) | [Sofía Uzal](https://open.spotify.com/artist/19Hdi3JmltQbOwPCfcUEjd) | [Desde Lejos](https://open.spotify.com/album/62mpJuTtiuCrHphbARcqhM) | 3:10 |
 
-Snapshot ID: `MTY4MTMxODgwMCwwMDAwMDAwMGZiZDY4N2VlOTY1NzNlODViNTUxZjIxMTZmNzlmMmJl`
+Snapshot ID: `MTY4MTMxODgwMCwwMDAwMDAwMGNhY2MzYjdlOGM2MjVmMDMxZGUzZTY0ZjY4NDYxYjhm`

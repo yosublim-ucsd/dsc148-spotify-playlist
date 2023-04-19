@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 1069103,
+  "num_followers": 1069639,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzQ5MDk3MiwwMDAwMDAwMGY5MzhmOTg1YjUzMGY5ZTY5MzkyM2U5NTJiMDVkMzk4",
+  "snapshot_id": "MTY2NzQ5MDk3MiwwMDAwMDAwMGI2ZWRlODcyN2FkNDA0OWM4MDBjZmEzYTFkMzU1ZGVk",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -405,22 +405,6 @@
       "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "The Fabulous Thunderbirds",
-        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
-      },
-      "artists": [
-        {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Scratch My Back",
-      "url": "https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Live And Well",
@@ -435,6 +419,22 @@
       "duration_ms": 517400,
       "name": "Why I Sing The Blues",
       "url": "https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "The Fabulous Thunderbirds",
+        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
+      },
+      "artists": [
+        {
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Scratch My Back",
+      "url": "https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -535,22 +535,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Deluxe Edition",
-        "url": "https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 295693,
-      "name": "T-Bone Shuffle",
-      "url": "https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "To Know You Is To Love You",
         "url": "https://open.spotify.com/album/1ZpLpF64iCjoc0XVrO1sEl"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 515000,
       "name": "To Know You Is To Love You",
       "url": "https://open.spotify.com/track/4c0Mgs559lG4sPiEC3XcxY"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Deluxe Edition",
+        "url": "https://open.spotify.com/album/3MSyCHOkBoZQT2byE3vprN"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 295693,
+      "name": "T-Bone Shuffle",
+      "url": "https://open.spotify.com/track/1HRx7dciQYCv76XvbBDAGM"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -725,22 +725,6 @@
       "url": "https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 431853,
-      "name": "Stone Crazy",
-      "url": "https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "This Is Clarence Carter",
@@ -755,6 +739,22 @@
       "duration_ms": 161520,
       "name": "Part Time Love",
       "url": "https://open.spotify.com/track/7p5Xpx7dd9wSPJF4Q4Nfbu"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "I Was Walking Through The Woods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 431853,
+      "name": "Stone Crazy",
+      "url": "https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -923,22 +923,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Nothing But The Truth",
-        "url": "https://open.spotify.com/album/3HpWvMIRXb0J8hIdEQz6QQ"
-      },
-      "artists": [
-        {
-          "name": "Son Seals",
-          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
-        }
-      ],
-      "duration_ms": 367533,
-      "name": "Sadie",
-      "url": "https://open.spotify.com/track/2XBeWZJeIojOrFOfVvn2dF"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "The Essential Magic Sam: The Cobra and Chief Recordings 1957-1961",
         "url": "https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 176186,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Nothing But The Truth",
+        "url": "https://open.spotify.com/album/3HpWvMIRXb0J8hIdEQz6QQ"
+      },
+      "artists": [
+        {
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+        }
+      ],
+      "duration_ms": 367533,
+      "name": "Sadie",
+      "url": "https://open.spotify.com/track/2XBeWZJeIojOrFOfVvn2dF"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -1001,22 +1001,6 @@
       "url": "https://open.spotify.com/track/01noJYGB8kT65mi8Pc2Ola"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Johnny Winter",
-        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 232453,
-      "name": "Mean Mistreater",
-      "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Best Of Slim Harpo",
@@ -1031,6 +1015,22 @@
       "duration_ms": 183133,
       "name": "I'm A King Bee",
       "url": "https://open.spotify.com/track/2uDIGXUD5hLdM7wzyl1PaR"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Johnny Winter",
+        "url": "https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 232453,
+      "name": "Mean Mistreater",
+      "url": "https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "The Son Seals Blues Band",
-        "url": "https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke"
-      },
-      "artists": [
-        {
-          "name": "Son Seals",
-          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
-        }
-      ],
-      "duration_ms": 362400,
-      "name": "Now That I'm Down",
-      "url": "https://open.spotify.com/track/5KZrHPwscBkXturVJCJlM4"
-    },
-    {
       "added_at": "2021-06-18 04:29:20",
       "album": {
         "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
@@ -1111,6 +1095,22 @@
       "duration_ms": 214520,
       "name": "Give Me Back My Wig - Remastered",
       "url": "https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "The Son Seals Blues Band",
+        "url": "https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke"
+      },
+      "artists": [
+        {
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+        }
+      ],
+      "duration_ms": 362400,
+      "name": "Now That I'm Down",
+      "url": "https://open.spotify.com/track/5KZrHPwscBkXturVJCJlM4"
     },
     {
       "added_at": "2020-01-15 21:29:46",

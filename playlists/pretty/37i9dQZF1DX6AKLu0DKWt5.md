@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from TV shows and films nominated for the 80th Golden Globe Awards\. Watch Jan 10, 2023 on NBC.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,491 likes - 32 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,492 likes - 32 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

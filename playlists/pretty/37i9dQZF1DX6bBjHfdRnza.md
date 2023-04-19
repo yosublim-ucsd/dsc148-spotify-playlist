@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: BKAYE\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,536 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,611 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 8 | [Higher](https://open.spotify.com/track/5ju2w8RfI79r2fE3nTOXDK) | [Sound Support](https://open.spotify.com/artist/4m837NfydgrNAAeZJHFpxn) | [Higher](https://open.spotify.com/album/7Hw5AFpacyOqZ208oWRUJY) | 3:28 |
 | 9 | [Superficial \(feat\. Hadar Adora\)](https://open.spotify.com/track/5kYwg6VjXxq33Ur7MYwfCb) | [Myles O'Neal](https://open.spotify.com/artist/4iRVsCKjwFnKxB5dAZrPUv), [Hadar Adora](https://open.spotify.com/artist/2HdmDZZKSZQPSpyKDb0T7w) | [Superficial \(feat\. Hadar Adora\)](https://open.spotify.com/album/6EPQ2xDyB71ZdEis7MVNlg) | 2:07 |
 | 10 | [Hortus Conclusus](https://open.spotify.com/track/6xzNn12T3bqCKDD8tNjTwJ) | [Onur Ozman](https://open.spotify.com/artist/3ILz1VL32yEEaaeHY4mqcd) | [Endowment Effect](https://open.spotify.com/album/3QKrO9mL47HKo9BslN9dAt) | 4:52 |
-| 11 | [Skit](https://open.spotify.com/track/0wkHyMOA3ich6amIw3rs8Y) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Skit](https://open.spotify.com/album/1dmvxkLnbRDI3F3T8LmCN8) | 3:38 |
+| 11 | [Skit](https://open.spotify.com/track/7peClIkcdZ744Srzrjah5b) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Skit](https://open.spotify.com/album/5N6ZyyaFBYdWMW52DbgJrR) | 3:38 |
 | 12 | [Bad Bitch](https://open.spotify.com/track/3FBKaGzvV7CWhy4hLjLzyb) | [Axeman](https://open.spotify.com/artist/3zjz2QaWQAQBrLs4nSJ0oD) | [Bad Bitch](https://open.spotify.com/album/0mNymGNgmm2V1rwtzBzi6P) | 3:56 |
 | 13 | [Hardcore](https://open.spotify.com/track/0GbfdrRADUjlKAEk3kYkJL) | [EFESIAN](https://open.spotify.com/artist/1fZOavLEMJtVzDcFGVPHWC) | [Hardcore](https://open.spotify.com/album/6wkjZLBEsqwsZKBnGvTqLQ) | 3:03 |
 | 14 | [Mistery Lady](https://open.spotify.com/track/3OPOlqB7BWK5a9WL7eGqGM) | [Curol](https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX), [Soulmanic](https://open.spotify.com/artist/20zMeXKHidTZrxhk7Qdo5x) | [Mistery Lady](https://open.spotify.com/album/7pSNLI38T60BpQSq20ETle) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Awakening \- Original Mix](https://open.spotify.com/track/70KwsuS02TXD8px2AzM7VT) | [Arzenic](https://open.spotify.com/artist/4AgLfdV9n9OV67nyuu06OF) | [Awakening](https://open.spotify.com/album/3BYWdCn0KIzNCTaVH8f5Zw) | 6:03 |
 | 100 | [The Tool \- Radio Edit](https://open.spotify.com/track/28B8KQGFrF45uEwuGFjVRk) | [Sunday Noise](https://open.spotify.com/artist/7GIGyQw9goHVF0MRV4bGRY), [Adiel Mora](https://open.spotify.com/artist/30KnooN1xQy6naR8IT0cEo) | [The Tool EP](https://open.spotify.com/album/4vvgnDvuvoHo5705V75S0n) | 3:27 |
 
-Snapshot ID: `MTY4MTUwNDMzMywwMDAwMDAwMGJmYmU2ZjkzNzQ0YTAxYzAzOTNlMTY2MDhlOTRmZGI1`
+Snapshot ID: `MTY4MTUwNDMzMywwMDAwMDAwMDc2YWU2YmUyNDc4MzAwNzNmOGE1YzNhOTQyNjUyYzg4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvEFX6xtoQd.md) - [plain]
 
 > Resonate, meditate, activate with 528 Hz solfeggio frequencies
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,316 likes - 90 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,554 likes - 90 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

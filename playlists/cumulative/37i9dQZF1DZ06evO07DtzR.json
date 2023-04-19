@@ -1157,6 +1157,24 @@
     },
     {
       "album": {
+        "name": "\u5f53\u4e8b\u8005",
+        "url": "https://open.spotify.com/album/4BdgxEZaVzqaJYwYwJeoJn"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241973,
+      "name": "\u5f53\u4e8b\u8005",
+      "url": "https://open.spotify.com/track/69TMjHuBaLNRtMPopKWbdC"
+    },
+    {
+      "album": {
         "name": "Extra Terrestrial Biological Entities",
         "url": "https://open.spotify.com/album/0CytqeWiNHC513V6oepX2F"
       },
@@ -1294,7 +1312,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 283973,
       "name": "\u82f1\u96c4 \u904b\u547d\u306e\u8a69 -Instrumental-",
       "url": "https://open.spotify.com/track/6lXrGuKbaNnT56kfBJu3fu"

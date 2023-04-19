@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u306d\u3050\u305b\n",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u6625\u306d\u3080\u308a\n",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -1454,7 +1454,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 222453,
       "name": "Coin Laundry",
       "url": "https://open.spotify.com/track/1qvK4SiFWA2wKKyPF6RR32"
@@ -1978,7 +1978,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 275935,
       "name": "Document",
       "url": "https://open.spotify.com/track/4LJidzx7SuW2lqDHkbApYh"
@@ -2584,7 +2584,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 195809,
       "name": "FLOOR IS MINE",
       "url": "https://open.spotify.com/track/1tbQ2lRPx8EvVhdaVbGSr3"
@@ -3050,7 +3050,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-23",
+      "date_removed": null,
       "duration_ms": 229173,
       "name": "Gominingen,Ore",
       "url": "https://open.spotify.com/track/3X3MJOy234znJI7iOLBaL9"
@@ -4157,6 +4157,24 @@
     },
     {
       "album": {
+        "name": "Scramble",
+        "url": "https://open.spotify.com/album/1gJYR7z3PjV3w5yCzLdhSF"
+      },
+      "artists": [
+        {
+          "name": "Ochunism",
+          "url": "https://open.spotify.com/artist/3w5Y9qujoqMYzjk6aIgpnS"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183920,
+      "name": "KODOU",
+      "url": "https://open.spotify.com/track/6HdxrzXayb7JD6vWuGAnT8"
+    },
+    {
+      "album": {
         "name": "TAKETOMBO",
         "url": "https://open.spotify.com/album/7MBwomQdtXmv6cO6DVa1Jr"
       },
@@ -4540,7 +4558,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 258920,
       "name": "Love (feat. Skaai)",
       "url": "https://open.spotify.com/track/33WmukupZpPsnobClDyZzs"
@@ -6194,7 +6212,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 212142,
       "name": "Ratpark",
       "url": "https://open.spotify.com/track/451krgfVbiNmFxAIXTGQjL"
@@ -8207,6 +8225,24 @@
     },
     {
       "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/58p4LspfYRwGqixVW1QhPf"
+      },
+      "artists": [
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "UTOPIA",
+      "url": "https://open.spotify.com/track/7sUomyof9ou8XfSi8irv2i"
+    },
+    {
+      "album": {
         "name": "Vacation",
         "url": "https://open.spotify.com/album/0fd3ncp2t3femdF8tRXksD"
       },
@@ -9510,7 +9546,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 153163,
       "name": "\u3061\u3085\u30fc2",
       "url": "https://open.spotify.com/track/5NlIcoGlcsCvT2L2gjiZl0"
@@ -9932,6 +9968,24 @@
       "duration_ms": 193709,
       "name": "\u30aa\u30fc\u30eb\u30b0\u30ea\u30fc\u30f3",
       "url": "https://open.spotify.com/track/2o38jQDB10QLiIvKCrS26F"
+    },
+    {
+      "album": {
+        "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
+        "url": "https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325898,
+      "name": "\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30fb\u30e9\u30b0",
+      "url": "https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU"
     },
     {
       "album": {
@@ -13027,6 +13081,24 @@
     },
     {
       "album": {
+        "name": "\u671d\u306b\u306a\u3063\u305f\u3089",
+        "url": "https://open.spotify.com/album/71P5mCzaBUZyXEclIjgiar"
+      },
+      "artists": [
+        {
+          "name": "umitachi",
+          "url": "https://open.spotify.com/artist/6M3JzDIG1BTMQ7eDTrIJTI"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169140,
+      "name": "\u671d\u306b\u306a\u3063\u305f\u3089",
+      "url": "https://open.spotify.com/track/5xIbExjqn7BDKHA5vEUnId"
+    },
+    {
+      "album": {
         "name": "\u3082\u3057\u3082\u661f\u304c\u964d\u308b\u306e\u306a\u3089",
         "url": "https://open.spotify.com/album/3iw8C6olIL1pRMezEZCMH7"
       },
@@ -13042,6 +13114,24 @@
       "duration_ms": 212767,
       "name": "\u671d\u713c\u3051\u304c\u7dba\u9e97\u306a\u8857\u3078\u884c\u3053\u3046",
       "url": "https://open.spotify.com/track/0tEosCdxAJ0ofky8s2YD71"
+    },
+    {
+      "album": {
+        "name": "Beam",
+        "url": "https://open.spotify.com/album/4TeYR0Av6rCISfKIUVYYQo"
+      },
+      "artists": [
+        {
+          "name": "\u660e\u308b\u3044\u8d64\u3061\u3083\u3093",
+          "url": "https://open.spotify.com/artist/4XU1iGcrARM9uqtvGoGuER"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240376,
+      "name": "\u672a\u6765",
+      "url": "https://open.spotify.com/track/0mgiUNBi9Nvh3dAHAvQOS6"
     },
     {
       "album": {

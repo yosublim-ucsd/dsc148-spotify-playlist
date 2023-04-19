@@ -4,7 +4,7 @@
 
 > The home of rave worthy melodic techno and house\. Cover: Grigoré
 
-478 songs - 1 day 13 hr 54 min
+479 songs - 1 day 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [Magalenha](https://open.spotify.com/track/67UgMiTgtwjGFoiACzup1g) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Magalenha](https://open.spotify.com/album/3KOSUwiUlteX08HipIYu5e) | 2:54 | 2023-01-26 |  |
 | [Magic](https://open.spotify.com/track/2TYjPIYOSoQ3Mu3ojzL0uD) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Baby Sol](https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ) | [Magic](https://open.spotify.com/album/0LOQJEGmChTbhp9SH5FpLc) | 2:39 | 2022-10-13 | 2023-04-07 |
 | [Make It Happen \- Dom Dolla Remix](https://open.spotify.com/track/3zSjRyDLwVWIZXEFZB6nUF) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Surrender \(Remixes\)](https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3) | 4:27 | 2022-08-18 | 2023-04-07 |
-| [MAMI \- LUCATI Remix](https://open.spotify.com/track/5SJdHBp6KT5dXrOqSQL48W) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI \(LUCATI Remix\)](https://open.spotify.com/album/5LDOFYvSb0RgKCyzQ3VWy5) | 2:55 | 2023-01-19 |  |
+| [MAMI \- LUCATI Remix](https://open.spotify.com/track/5SJdHBp6KT5dXrOqSQL48W) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI \(LUCATI Remix\)](https://open.spotify.com/album/5LDOFYvSb0RgKCyzQ3VWy5) | 2:55 | 2023-01-19 | 2023-04-19 |
 | [Mango Feedback](https://open.spotify.com/track/4lEkWLEF4MRTJE03dCF2O9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Mango Feedback](https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr) | 4:51 | 2022-08-18 | 2022-09-24 |
 | [Mariposa](https://open.spotify.com/track/1tEVej8Ced5lCHy0nOX2hi) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Mariposa](https://open.spotify.com/album/7mDh3O1KajlknUZaJaYhrm) | 7:17 | 2023-01-12 |  |
 | [Masai](https://open.spotify.com/track/61UMUNZBTRzuxFIQ0NLzza) | [MATIRAMIC](https://open.spotify.com/artist/10o35TYZ71XeQl05l4KVcJ) | [Masai](https://open.spotify.com/album/2n3I1VOEwgxQ0EQASu0LJd) | 8:41 | 2022-12-27 | 2023-01-02 |
@@ -347,6 +347,7 @@
 | [Run](https://open.spotify.com/track/3n7AsDM1FPGXk88o90rEM6) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [U](https://open.spotify.com/album/1M3F2r4eZn7oy8VWZA17Gf) | 5:59 | 2022-08-18 |  |
 | [Run & Hide \- Ae:ther Remix](https://open.spotify.com/track/1vPsTGsRfdTRhzUHG7kTLF) | [Mark Tarmonea](https://open.spotify.com/artist/0G0DRVtduDqqikbVbZXaNn), [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Run & Hide \(Ae:ther Remix\)](https://open.spotify.com/album/1YfMh6jxGPAdTxuRIYESMS) | 7:02 | 2022-12-27 | 2023-01-02 |
 | [Rush](https://open.spotify.com/track/1gwAzMEi7n9fovhhHwZ1MW) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Rush](https://open.spotify.com/album/0dLuDCa81WZsmU68WQbYUx) | 3:36 | 2022-08-18 | 2022-09-10 |
+| [Rush](https://open.spotify.com/track/011Om46G8GRULOn9PRTZ8R) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV), [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Rush](https://open.spotify.com/album/03BmU63x6DXBviWnDd4mIV) | 2:52 | 2023-04-13 |  |
 | [Rush \- Miss Monique Remix](https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb) | [Sied Van Riel](https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Rush \(Miss Monique Remix\)](https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6) | 4:51 | 2022-11-24 |  |
 | [Sahara](https://open.spotify.com/track/7q3e8G09hBubfDjD1B5A9a) | [Miyagi](https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9) | [Sahara](https://open.spotify.com/album/2XjYjAgjoaBrbRh7xzj3WT) | 6:18 | 2022-08-25 | 2022-11-11 |
 | [Saints & Sinners](https://open.spotify.com/track/0JHHFmQhjiDO0J7ll4BQmQ) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG) | [FaCet, Vol\. 1](https://open.spotify.com/album/7eeGn6KMLa7NVWM1GdtCqU) | 6:55 | 2023-03-09 | 2023-04-09 |

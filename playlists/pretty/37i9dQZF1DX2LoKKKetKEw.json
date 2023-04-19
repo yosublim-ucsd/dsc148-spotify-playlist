@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: Uwa",
-  "num_followers": 40712,
+  "num_followers": 40843,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAyMzc3NiwwMDAwMDAwMDAzMGZlZWZmNzVjMzgxMWVmMzVlM2M4MTFkMjBiMGFh",
+  "snapshot_id": "MTY3NjAyMzc3NiwwMDAwMDAwMGI5NzJmYTUzZDVhNzg3M2IyYjQ5NDAxYTRmNjcxYzhi",
   "tracks": [
     {
       "added_at": "2023-02-10 10:09:36",
@@ -267,22 +267,26 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "No Other",
-        "url": "https://open.spotify.com/album/2MLwfwU0owiSiuywucm4iN"
+        "name": "Relying",
+        "url": "https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL"
       },
       "artists": [
         {
-          "name": "Ryan Hylton",
-          "url": "https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm"
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
         },
         {
-          "name": "Amanda Kono",
-          "url": "https://open.spotify.com/artist/2yAemj0rN4gJB3DD7hTYO7"
+          "name": "Sarah Nathali\u00e9",
+          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
+        },
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
         }
       ],
-      "duration_ms": 177600,
-      "name": "No Other",
-      "url": "https://open.spotify.com/track/4i1cAl9bCBnskqNgvsoynV"
+      "duration_ms": 224030,
+      "name": "Relying",
+      "url": "https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -307,26 +311,22 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Relying",
-        "url": "https://open.spotify.com/album/7IQNM3m3vD6NkghunGuViL"
+        "name": "No Other",
+        "url": "https://open.spotify.com/album/2MLwfwU0owiSiuywucm4iN"
       },
       "artists": [
         {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+          "name": "Ryan Hylton",
+          "url": "https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm"
         },
         {
-          "name": "Sarah Nathali\u00e9",
-          "url": "https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni"
-        },
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+          "name": "Amanda Kono",
+          "url": "https://open.spotify.com/artist/2yAemj0rN4gJB3DD7hTYO7"
         }
       ],
-      "duration_ms": 224030,
-      "name": "Relying",
-      "url": "https://open.spotify.com/track/5jauoORHRVzQ5vMXFg9azL"
+      "duration_ms": 177600,
+      "name": "No Other",
+      "url": "https://open.spotify.com/track/4i1cAl9bCBnskqNgvsoynV"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -407,26 +407,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Marvelous God",
-        "url": "https://open.spotify.com/album/6w5uP78BBEzyvG4ymgm6Ut"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Mike Aremu",
-          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
-        }
-      ],
-      "duration_ms": 233404,
-      "name": "Marvelous God",
-      "url": "https://open.spotify.com/track/6VJ3yM31EykkdgBl6eAq1g"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Jireh",
         "url": "https://open.spotify.com/album/5Ksm72DfwaFQD9iTEY1vk8"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 175333,
       "name": "Jireh",
       "url": "https://open.spotify.com/track/02tEWGFU203kUXfxDsuHQs"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Marvelous God",
+        "url": "https://open.spotify.com/album/6w5uP78BBEzyvG4ymgm6Ut"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Mike Aremu",
+          "url": "https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX"
+        }
+      ],
+      "duration_ms": 233404,
+      "name": "Marvelous God",
+      "url": "https://open.spotify.com/track/6VJ3yM31EykkdgBl6eAq1g"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -751,30 +751,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Siyahamba",
-        "url": "https://open.spotify.com/album/6z2zZBjtMxyG7a5lSe7ZU6"
-      },
-      "artists": [
-        {
-          "name": "Tay Collier",
-          "url": "https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk"
-        },
-        {
-          "name": "Sy-1",
-          "url": "https://open.spotify.com/artist/0GTr5De2nHyUWgHn5nhkgP"
-        },
-        {
-          "name": "Tylynn",
-          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "Siyahamba",
-      "url": "https://open.spotify.com/track/0Eghphy9GkgQixBJJIZkXc"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/2ICTiVfpQ9tSNb9vdITG09"
       },
@@ -803,6 +779,30 @@
       "duration_ms": 193200,
       "name": "Standing",
       "url": "https://open.spotify.com/track/1IHSapgG9NsoqLKSqFroRG"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Siyahamba",
+        "url": "https://open.spotify.com/album/6z2zZBjtMxyG7a5lSe7ZU6"
+      },
+      "artists": [
+        {
+          "name": "Tay Collier",
+          "url": "https://open.spotify.com/artist/6txcB8i7aBRxOhs8Psyvvk"
+        },
+        {
+          "name": "Sy-1",
+          "url": "https://open.spotify.com/artist/0GTr5De2nHyUWgHn5nhkgP"
+        },
+        {
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Siyahamba",
+      "url": "https://open.spotify.com/track/0Eghphy9GkgQixBJJIZkXc"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -923,26 +923,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Only",
-        "url": "https://open.spotify.com/album/2PmXOqX60yjlQ52f1ZUuQw"
-      },
-      "artists": [
-        {
-          "name": "Dj Horphuray",
-          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
-        },
-        {
-          "name": "Marizu",
-          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
-        }
-      ],
-      "duration_ms": 159085,
-      "name": "Only",
-      "url": "https://open.spotify.com/track/16uaRgsUFQhtUBXf1OTwcf"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Unguilty Pleasure",
         "url": "https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 193398,
       "name": "Unguilty Pleasure",
       "url": "https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Only",
+        "url": "https://open.spotify.com/album/2PmXOqX60yjlQ52f1ZUuQw"
+      },
+      "artists": [
+        {
+          "name": "Dj Horphuray",
+          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "duration_ms": 159085,
+      "name": "Only",
+      "url": "https://open.spotify.com/track/16uaRgsUFQhtUBXf1OTwcf"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "THANK GOD",
-        "url": "https://open.spotify.com/album/3bZukQ9MXd6kg8lTZWLQzg"
-      },
-      "artists": [
-        {
-          "name": "Waconzy",
-          "url": "https://open.spotify.com/artist/3fECabmj2EOhc8imK4YKMm"
-        }
-      ],
-      "duration_ms": 130298,
-      "name": "THANK GOD",
-      "url": "https://open.spotify.com/track/1zMORse6eODeibmofSgrxS"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Light",
         "url": "https://open.spotify.com/album/1eukwQKbKTyHhnQDGU0ZfC"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 138000,
       "name": "Light",
       "url": "https://open.spotify.com/track/24yzTiIIm6voL9ez0AUOZ1"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "THANK GOD",
+        "url": "https://open.spotify.com/album/3bZukQ9MXd6kg8lTZWLQzg"
+      },
+      "artists": [
+        {
+          "name": "Waconzy",
+          "url": "https://open.spotify.com/artist/3fECabmj2EOhc8imK4YKMm"
+        }
+      ],
+      "duration_ms": 130298,
+      "name": "THANK GOD",
+      "url": "https://open.spotify.com/track/1zMORse6eODeibmofSgrxS"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/4IPg0TIXt2teKZxvxnjJHr"
+      },
+      "artists": [
+        {
+          "name": "Konola",
+          "url": "https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t"
+        }
+      ],
+      "duration_ms": 196530,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/4yf7zNinhajeShvOXAHMuZ"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/2ctbxwSVw2IkSSMwWcHdqV"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 157706,
       "name": "The Best",
       "url": "https://open.spotify.com/track/6WbvBYlHI7cFxCfQiioSUc"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/4IPg0TIXt2teKZxvxnjJHr"
-      },
-      "artists": [
-        {
-          "name": "Konola",
-          "url": "https://open.spotify.com/artist/5OLzjUDB3C9y3LvyNefP8t"
-        }
-      ],
-      "duration_ms": 196530,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/4yf7zNinhajeShvOXAHMuZ"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Made Whole",
-        "url": "https://open.spotify.com/album/7B7LqjPV3iVz3Qa1oEN5lM"
-      },
-      "artists": [
-        {
-          "name": "Gil Joe",
-          "url": "https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h"
-        }
-      ],
-      "duration_ms": 212210,
-      "name": "Made Whole",
-      "url": "https://open.spotify.com/track/5k04oXnUohIKuaVSlDy0kV"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Your Love",
         "url": "https://open.spotify.com/album/57rYhictfJHUWzCvjgHv7r"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 152730,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/2dfwFomnY0iNLgVYnVX9fE"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Made Whole",
+        "url": "https://open.spotify.com/album/7B7LqjPV3iVz3Qa1oEN5lM"
+      },
+      "artists": [
+        {
+          "name": "Gil Joe",
+          "url": "https://open.spotify.com/artist/7wEZIbeR4EyyHKhMEvBo5h"
+        }
+      ],
+      "duration_ms": 212210,
+      "name": "Made Whole",
+      "url": "https://open.spotify.com/track/5k04oXnUohIKuaVSlDy0kV"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Shining",
-        "url": "https://open.spotify.com/album/1afbLhtXnQbyLrBqNeRVhX"
-      },
-      "artists": [
-        {
-          "name": "Phontera",
-          "url": "https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm"
-        },
-        {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        }
-      ],
-      "duration_ms": 132662,
-      "name": "Shining",
-      "url": "https://open.spotify.com/track/2Rn8O7Er19MwnyOlJDhpgA"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Relief",
         "url": "https://open.spotify.com/album/1ZEiAWldZVXaoICI7oJBX3"
       },
@@ -1511,6 +1491,26 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
+        "name": "Shining",
+        "url": "https://open.spotify.com/album/1afbLhtXnQbyLrBqNeRVhX"
+      },
+      "artists": [
+        {
+          "name": "Phontera",
+          "url": "https://open.spotify.com/artist/71Vn1EeivhPQ4vl4XGOHLm"
+        },
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        }
+      ],
+      "duration_ms": 132662,
+      "name": "Shining",
+      "url": "https://open.spotify.com/track/2Rn8O7Er19MwnyOlJDhpgA"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/4hyljIq0owWSHloAOgk0ZJ"
       },
@@ -1523,22 +1523,6 @@
       "duration_ms": 155530,
       "name": "Revival",
       "url": "https://open.spotify.com/track/793voIfTFfhsQt5mFGm24o"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "Drunk",
-        "url": "https://open.spotify.com/album/6DESTJsBybhYK4ZQL82C7G"
-      },
-      "artists": [
-        {
-          "name": "K-Anthony",
-          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
-        }
-      ],
-      "duration_ms": 321428,
-      "name": "Drunk",
-      "url": "https://open.spotify.com/track/2rnvrDQFl4EkoK9ySEJFKG"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1559,6 +1543,22 @@
       "duration_ms": 161495,
       "name": "Idols",
       "url": "https://open.spotify.com/track/7gPYRjhBoy72zlXzvVTEjP"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/6DESTJsBybhYK4ZQL82C7G"
+      },
+      "artists": [
+        {
+          "name": "K-Anthony",
+          "url": "https://open.spotify.com/artist/3I9aGvBiB4q6eQh0ge4VKU"
+        }
+      ],
+      "duration_ms": 321428,
+      "name": "Drunk",
+      "url": "https://open.spotify.com/track/2rnvrDQFl4EkoK9ySEJFKG"
     },
     {
       "added_at": "2023-02-10 10:09:36",

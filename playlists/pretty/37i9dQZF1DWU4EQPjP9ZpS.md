@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,197 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,431 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 87 | [Cry Again](https://open.spotify.com/track/5LfYC98Zc9hsPTPzz9gltB) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Cry Again](https://open.spotify.com/album/1AnstNZSetOGm24TQA5GHB) | 3:02 |
 | 88 | [Vivid](https://open.spotify.com/track/5MwMvbUX8LFEjdA78fB28u) | [oDDling](https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE) | [Vivid](https://open.spotify.com/album/43nHwXwoyMqTL8UlAWaaEW) | 2:50 |
 | 89 | [Downpour](https://open.spotify.com/track/62Htu6Xp6JIM06bBN2Q2sn) | [Sleepless\-Nights](https://open.spotify.com/artist/59KIvMzLvDND3LT5DqOleE), [Cosmic Cycler](https://open.spotify.com/artist/3XvAJyOGeVmvhg0m26VS4j) | [Downpour](https://open.spotify.com/album/1vjJJPG4zN6qERcTeDDVs7) | 8:04 |
-| 90 | [Psycho Geography](https://open.spotify.com/track/7sfEm3M124nM8zd8h0tB68) | [Memorex Memories](https://open.spotify.com/artist/4IDMgbEiCgt9G7PRN62mrV) | [Psycho Geography](https://open.spotify.com/album/4HhYQAopp6qijRBSwaZTXh) | 3:21 |
-| 91 | [Sunlight](https://open.spotify.com/track/0gcu9pxAeLiyQlmURLH4zD) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb) | [Sunlight](https://open.spotify.com/album/0i6dkZajDnsCJH1BRaaHj1) | 3:32 |
+| 90 | [Sunlight](https://open.spotify.com/track/0gcu9pxAeLiyQlmURLH4zD) | [Krosia](https://open.spotify.com/artist/3DMRmCWZFPz3IX8LUgoLVb) | [Sunlight](https://open.spotify.com/album/0i6dkZajDnsCJH1BRaaHj1) | 3:32 |
+| 91 | [Psycho Geography](https://open.spotify.com/track/7sfEm3M124nM8zd8h0tB68) | [Memorex Memories](https://open.spotify.com/artist/4IDMgbEiCgt9G7PRN62mrV) | [Psycho Geography](https://open.spotify.com/album/4HhYQAopp6qijRBSwaZTXh) | 3:21 |
 | 92 | [TELL ME HOW IT FEELS](https://open.spotify.com/track/3ED8yesBlmi7oJcw3jktA2) | [bbrainz](https://open.spotify.com/artist/4WjLhyf6zlQ4R9v7uVDN2E) | [Crystal](https://open.spotify.com/album/00xbLL56fmy3kNK2LKOGTU) | 3:01 |
 | 93 | [Happy](https://open.spotify.com/track/4pM8IKc8qGOnKyloJyKU0T) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO), [Dan Mason](https://open.spotify.com/artist/6PyfRFk5DQu2o0P74VA2ag) | [Baby, I Miss You](https://open.spotify.com/album/5SMFDE1yT4gjp9I0rIxBX5) | 2:56 |
 | 94 | [Screensaver](https://open.spotify.com/track/0xEeYkUtQlXT2r7WO0uzRP) | [L a z u l i \_ y e l l o w](https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s), [Vivi Vulture](https://open.spotify.com/artist/5i7PL36PdMQfPVxLudI090) | [Screensaver](https://open.spotify.com/album/7ylBQp3WPSCu2nK5UNWbKe) | 2:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 99 | [今夜](https://open.spotify.com/track/0qX9kcTL9PonpRFpPrqSDu) | [Dan Mason ダン·メイソン](https://open.spotify.com/artist/7ustec6RrECyewmYxf4cIa) | [Miami Virtual](https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7) | 3:54 |
 | 100 | [Alliance Of Elegance](https://open.spotify.com/track/1BEyLRogl5KlaTWxogZPH1) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [Tupperwave](https://open.spotify.com/album/0BU1e6MylDRU4UGGlXT3uX) | 2:46 |
 
-Snapshot ID: `MTY2NzU0MjAyOCwwMDAwMDAwMDA4OWExNzQ3NGMyYTE3OGNjODc3MTQ2YzE1MGEzYzUw`
+Snapshot ID: `MTY2NzU0MjAyOCwwMDAwMDAwMDU4OGYxNWE2MGFhZWIxZjI1MjNiMjdkZGIyMzI4OTky`

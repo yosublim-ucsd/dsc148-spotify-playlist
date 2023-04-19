@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 
 > Songs from your family's favorite TV shows.
 
-[Spotify](https://open.spotify.com/user/spotify) - 920 likes - 50 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 921 likes - 50 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 | 16 | [Everything Is Not As It Seems \- Series Theme Song](https://open.spotify.com/track/5U4wYRHrCRxRP6iQfM824C) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Wizards of Waverly Place](https://open.spotify.com/album/2aXmfPpn8Hq7B5gxOTxxi4) | 0:50 |
 | 17 | [Hey Gabby! \(Theme Song from Gabby's Dollhouse\)](https://open.spotify.com/track/36xw27XcI4mUqFkGKh6LtO) | [PT Walkley](https://open.spotify.com/artist/4PRBH61ujBc3VWylX0IGgG), [Michel Walkley](https://open.spotify.com/artist/0wbtAw0LRnmB2cZYNkSXHJ), [Charlie Walkley](https://open.spotify.com/artist/5yAhTBMRLXzUo50PIICGiA), [Nash Walkley](https://open.spotify.com/artist/50toR6RTNrXKHJatsXHX4V) | [Hey Gabby! \(Theme Song from Gabby's Dollhouse\)](https://open.spotify.com/album/3lkEtPQqGmOQVoYykSczSC) | 2:00 |
 | 18 | [T.O.T.S\. Main Title](https://open.spotify.com/track/7rllsBhVxaGhkr6gTrVstU) | [T.O.T.S\. \- Cast](https://open.spotify.com/artist/6hShWHQzwCdaFrKl1gUBe4) | [Disney Junior Music: T.O.T.S\. \(Vol\. 1\)](https://open.spotify.com/album/2387gp9mfOvJPBYNqb59MG) | 0:40 |
-| 19 | [Hair In The Air \(Trolls: The Beat Goes On Theme\)](https://open.spotify.com/track/1mHtYTi3jasQzaUIwUM2RC) | [Poppy](https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg), [Branch](https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:14 |
-| 20 | [Add a Little Fancy \(Fancy Nancy Main Title\)](https://open.spotify.com/track/5LSwDFDfLqpUgJtQPITfr3) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 0:53 |
+| 19 | [Add a Little Fancy \(Fancy Nancy Main Title\)](https://open.spotify.com/track/5LSwDFDfLqpUgJtQPITfr3) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 0:53 |
+| 20 | [Hair In The Air \(Trolls: The Beat Goes On Theme\)](https://open.spotify.com/track/1mHtYTi3jasQzaUIwUM2RC) | [Poppy](https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg), [Branch](https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5) | [DreamWorks Trolls \- The Beat Goes On!](https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX) | 2:14 |
 | 21 | [Power Rangers Dino Charge Theme Song \- Extended Full Version](https://open.spotify.com/track/7GmlAIzyeG3OjQLB7BUkgz) | [Power Rangers](https://open.spotify.com/artist/7cTXTmhaqdEVifI1B33cnx), [Noam Kaniel](https://open.spotify.com/artist/7rW1m5GAR0FkbA74j0xztI) | [Power Rangers Dino Charge Theme Song](https://open.spotify.com/album/2TlnrB2whsLXmvMKK1KpQ0) | 1:55 |
 | 22 | [Muppet Babies Theme 2018](https://open.spotify.com/track/4LZXzrdzNjNNhXj6rW3XTO) | [Renee Elise Goldsberry](https://open.spotify.com/artist/28VFQYsMlusDx4yaVxwu0D) | [Disney Junior Music: Muppet Babies](https://open.spotify.com/album/5W62FpplwP6M2g0vwRrUBI) | 1:01 |
 | 23 | [Bringing This Baby Home](https://open.spotify.com/track/4cPjIkxqw7KKVkPe6i8lBf) | [T.O.T.S\. \- Cast](https://open.spotify.com/artist/6hShWHQzwCdaFrKl1gUBe4) | [Disney Junior Music: T.O.T.S\. \(Vol\. 1\)](https://open.spotify.com/album/2387gp9mfOvJPBYNqb59MG) | 0:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 | 49 | [Tomorrow](https://open.spotify.com/track/0kUtqYfVrzdQ8eTobqaphW) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [El Deafo \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/7yxh1BtNK7PeU9AboDogq7) | 2:43 |
 | 50 | [Opening Titles Remix](https://open.spotify.com/track/35EJK7aNqtYfQZANUTdls9) | [Sunset Shimmer](https://open.spotify.com/artist/5fyTC8eAkkeidVgqku26mz), [Twilight Sparkle](https://open.spotify.com/artist/53CQUfjaBNRwV2nFro1nac), [Pinkie Pie](https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5), [Rainbow Dash](https://open.spotify.com/artist/0iKnctG436f9uUKSuSFx2n), [Fluttershy](https://open.spotify.com/artist/2KL1HTA8ijZSuf7VJaL4OU), [Apple Jack](https://open.spotify.com/artist/1r0v3fdCiqrr9mYtvbCccT), [Rarity](https://open.spotify.com/artist/6PqIHmHPCKrZoyLMf98era) | [Equestria Girls: Original Motion Picture Soundtrack](https://open.spotify.com/album/0jly2QLfRSLqFARqSGO2Mr) | 1:31 |
 
-Snapshot ID: `MTY3NDgxMzYwMCwwMDAwMDAwMDBiOGYxZjBiNDAwMGJmZmM3OGQ4Yzc2NTAyNWVhNDJk`
+Snapshot ID: `MTY3NDgxMzYwMCwwMDAwMDAwMGRlYTk2Zjk5N2NiYzAyNDA5YWE2OGRlZWI5Zjk0NTYy`

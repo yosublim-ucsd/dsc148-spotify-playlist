@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > Dive into the full collection of Spotify Singles recordings\. Cover: Cat Burns.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,298 likes - 842 songs - 2 day 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,307 likes - 842 songs - 2 day 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -588,8 +588,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 578 | [I Don't Believe In The Sun \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/14L3bS2ioklhLCkKS5WQcQ) | [Hundred Waters](https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO) | [Spotify Singles](https://open.spotify.com/album/7BhKeRmiTdFrmc8hvGk5lb) | 4:09 |
 | 579 | [HOLD ME TIGHT OR DON’T \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4eQKDjhoCoQ8ACKvls8sfV) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Spotify Singles](https://open.spotify.com/album/7ll3Cf5KaoLl6toqeSlClH) | 3:21 |
 | 580 | [I Wanna Dance With Somebody \(Who Loves Me\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Nca5js9xKegX655YZ43Uq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Spotify Singles](https://open.spotify.com/album/7ll3Cf5KaoLl6toqeSlClH) | 4:22 |
-| 581 | [Hills \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7IwBFpU8nV0pPs4iIR5dmr) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Spotify Singles](https://open.spotify.com/album/0uW1J7ogGpaRIFLXUQVkMa) | 2:51 |
-| 582 | [Human \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4QG9LSMCNvqfiWYav9WuHC) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Spotify Singles](https://open.spotify.com/album/0uW1J7ogGpaRIFLXUQVkMa) | 2:40 |
+| 581 | [Hills \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2mbwAG0wfGJBQR4AH1Ylgt) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Spotify Singles](https://open.spotify.com/album/14vae1IgYxB3hpcDuDRgoV) | 2:51 |
+| 582 | [Human \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7vG0AFDMYvlZCDNEmuRkEf) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Spotify Singles](https://open.spotify.com/album/14vae1IgYxB3hpcDuDRgoV) | 2:40 |
 | 583 | [Maps \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1eHbFX3dETUPt5oSzgmQDF) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Spotify Singles \(Recorded At Spotify Studios NYC\)](https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY) | 3:24 |
 | 584 | [Thirteen \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2VsdSmOcXPGJVRfp9EP7nL) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Spotify Singles \(Recorded At Spotify Studios NYC\)](https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY) | 3:17 |
 | 585 | [Blackbird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Spotify Singles](https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg) | 4:27 |
@@ -851,4 +851,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 841 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 842 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MTY4MDEwMzE5OSwwMDAwMDAwMGQ4OTc0MmM2NjgwYWUzYzMxZjc2NTRmYjhjYTMwZDhl`
+Snapshot ID: `MTY4MDEwMzE5OSwwMDAwMDAwMDJmMGZkZWQ5YTBiNjEzYzkyYTkxZGVhZjkyM2MyZGJh`

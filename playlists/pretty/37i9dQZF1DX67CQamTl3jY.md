@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67CQamTl3jY.md) - [plain]
 
 > <a href="http://www.grammy.com/">第65回グラミー賞</a>\(2023年\)受賞作品を特集。
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,115 likes - 38 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,116 likes - 38 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

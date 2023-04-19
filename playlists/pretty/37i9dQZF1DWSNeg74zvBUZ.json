@@ -1,12 +1,12 @@
 {
   "description": "Sunlight! The most precious gold to be found on Earth.",
-  "num_followers": 18654,
+  "num_followers": 18662,
   "original_name": "Morning First Light",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTUxNzQ5NSwwMDAwMDAwMDNjMWMzNjUzNjA5MjY2ZTViY2M3YzBiMzQxOGZhNjc0",
+  "snapshot_id": "MTY4MTUxNzQ5NSwwMDAwMDAwMGJlZmIyM2Q1MzhiMWIzYTBkZDJkMzQ3MWU4NWNhYzU1",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -675,22 +675,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Radio Amor",
-        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
-      },
-      "artists": [
-        {
-          "name": "Tim Hecker",
-          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
-        }
-      ],
-      "duration_ms": 262813,
-      "name": "Trade Winds, White Heat",
-      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Ecom\u00fasica: Conversas de um Piano Com a Fauna Brasileira",
         "url": "https://open.spotify.com/album/40tSqhnInwzfSBMC75n3rM"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 303226,
       "name": "Cigarra",
       "url": "https://open.spotify.com/track/6mESobRGEJZZAPF0pHzREQ"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Radio Amor",
+        "url": "https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 262813,
+      "name": "Trade Winds, White Heat",
+      "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
     },
     {
       "added_at": "2021-09-10 04:35:25",
@@ -835,22 +835,6 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Anemophily",
-        "url": "https://open.spotify.com/album/2YBYYYHaUb6d2I9EzBkcmt"
-      },
-      "artists": [
-        {
-          "name": "Corimbo",
-          "url": "https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6"
-        }
-      ],
-      "duration_ms": 223810,
-      "name": "Arboretum",
-      "url": "https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
         "name": "Beautiful You",
         "url": "https://open.spotify.com/album/6P5OuLSRPjb8vumlRlcq4m"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 283200,
       "name": "Dwellberry",
       "url": "https://open.spotify.com/track/6924XH4uThVPk4CpFv30gG"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
+        "name": "Anemophily",
+        "url": "https://open.spotify.com/album/2YBYYYHaUb6d2I9EzBkcmt"
+      },
+      "artists": [
+        {
+          "name": "Corimbo",
+          "url": "https://open.spotify.com/artist/5jQIczzAJzOzwnNLFOwoI6"
+        }
+      ],
+      "duration_ms": 223810,
+      "name": "Arboretum",
+      "url": "https://open.spotify.com/track/2V0zmL125nc9w25OBdc2oT"
     }
   ],
   "unique_name": "Morning First Light",

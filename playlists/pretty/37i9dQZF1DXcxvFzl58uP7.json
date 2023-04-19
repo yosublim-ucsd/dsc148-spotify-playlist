@@ -1,12 +1,12 @@
 {
   "description": "Dreamy jams from the best bedroom producers. Cover: girl in red",
-  "num_followers": 1068024,
+  "num_followers": 1068306,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTc1OTU3MywwMDAwMDAwMGI5NTI5Y2FkNThlNWRmZDYyYmMzMzA5YzM1NmE3ODQ2",
+  "snapshot_id": "MTY4MTc1OTU3MywwMDAwMDAwMDc2OWExOGNiNTgwZWM0ODY5NWYwNmVhNzMzMTNlOTdi",
   "tracks": [
     {
       "added_at": "2023-04-17 19:26:13",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "at least i'm pretty",
-        "url": "https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL"
-      },
-      "artists": [
-        {
-          "name": "Harriette",
-          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
-        }
-      ],
-      "duration_ms": 106800,
-      "name": "at least i'm pretty",
-      "url": "https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Untourable Album",
         "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 188301,
       "name": "Tree Among Shrubs",
       "url": "https://open.spotify.com/track/4JYJU761kWJEK91hyug33F"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "at least i'm pretty",
+        "url": "https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL"
+      },
+      "artists": [
+        {
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
+        }
+      ],
+      "duration_ms": 106800,
+      "name": "at least i'm pretty",
+      "url": "https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Moonlight/Rare",
-        "url": "https://open.spotify.com/album/2Syg1EbtwFmYEkTN02Avbv"
-      },
-      "artists": [
-        {
-          "name": "Ralph Castelli",
-          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Rare",
-      "url": "https://open.spotify.com/track/3FwSGFXzoODJ3igRA06DhV"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Songs of Her's",
         "url": "https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 375656,
       "name": "Cool with You",
       "url": "https://open.spotify.com/track/5wv2XK6ms7KBBVDD1cOwlx"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Moonlight/Rare",
+        "url": "https://open.spotify.com/album/2Syg1EbtwFmYEkTN02Avbv"
+      },
+      "artists": [
+        {
+          "name": "Ralph Castelli",
+          "url": "https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Rare",
+      "url": "https://open.spotify.com/track/3FwSGFXzoODJ3igRA06DhV"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "A Collection of Fleeting Moments and Daydreams",
-        "url": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 169822,
-      "name": "Antidote",
-      "url": "https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "All Your Love",
         "url": "https://open.spotify.com/album/1Z35j1egN42Xvtul5WRlu6"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 175241,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/7G7zCzvyqz39BFE7TqPM3O"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "A Collection of Fleeting Moments and Daydreams",
+        "url": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 169822,
+      "name": "Antidote",
+      "url": "https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "endlessly",
-        "url": "https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK"
-      },
-      "artists": [
-        {
-          "name": "bixby",
-          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
-        }
-      ],
-      "duration_ms": 125793,
-      "name": "endlessly",
-      "url": "https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "You Say I'm in Love",
         "url": "https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN"
       },
@@ -999,18 +983,18 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "feel u",
-        "url": "https://open.spotify.com/album/34ZrL9unzACdI1d3UF2SlR"
+        "name": "endlessly",
+        "url": "https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK"
       },
       "artists": [
         {
-          "name": "okayceci",
-          "url": "https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P"
+          "name": "bixby",
+          "url": "https://open.spotify.com/artist/3vqtY7Lhhuw6sEwU4HmIRv"
         }
       ],
-      "duration_ms": 150670,
-      "name": "feel u",
-      "url": "https://open.spotify.com/track/5pm9nGzY5b5gp424c6iYZh"
+      "duration_ms": 125793,
+      "name": "endlessly",
+      "url": "https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1027,6 +1011,22 @@
       "duration_ms": 120000,
       "name": "Six Speed",
       "url": "https://open.spotify.com/track/38loOBAgDgCW4pFWyH9cey"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "feel u",
+        "url": "https://open.spotify.com/album/34ZrL9unzACdI1d3UF2SlR"
+      },
+      "artists": [
+        {
+          "name": "okayceci",
+          "url": "https://open.spotify.com/artist/1NCMfKfYXbyLqsChnYNd3P"
+        }
+      ],
+      "duration_ms": 150670,
+      "name": "feel u",
+      "url": "https://open.spotify.com/track/5pm9nGzY5b5gp424c6iYZh"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
+        "name": "That I Miss You",
+        "url": "https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 140116,
+      "name": "That I Miss You",
+      "url": "https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
         "name": "Taking Over The Sun",
         "url": "https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 156279,
       "name": "Picture",
       "url": "https://open.spotify.com/track/41QRBqWENQWby1zdsrbu9k"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
-        "name": "That I Miss You",
-        "url": "https://open.spotify.com/album/3tE8rkq0T77F2hwjXMzCfF"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 140116,
-      "name": "That I Miss You",
-      "url": "https://open.spotify.com/track/7szBZqBJuj9eAC8HJ4CyTM"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Over the Hill",
-        "url": "https://open.spotify.com/album/76igtoYKgzHd578j23y2Hb"
-      },
-      "artists": [
-        {
-          "name": "Ginger Root",
-          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
-        }
-      ],
-      "duration_ms": 167771,
-      "name": "Over the Hill",
-      "url": "https://open.spotify.com/track/5eFwQOHNE0zOwMRj9jhzGt"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/3na3FupK0QfSArtzyBRmLs"
       },
@@ -1367,26 +1351,6 @@
       "duration_ms": 191505,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/33HfUi07zAeFxmsKfUE7Yy"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
-        "name": "Uneasy - Metronomy x spill tab",
-        "url": "https://open.spotify.com/album/3XRHpM3LFOWY9nnWwKCKyv"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 203262,
-      "name": "Uneasy - Metronomy x spill tab",
-      "url": "https://open.spotify.com/track/6HOXiIuMfKzEpWsdZ02wZL"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1407,6 +1371,42 @@
       "duration_ms": 188786,
       "name": "How Was Your Day?",
       "url": "https://open.spotify.com/track/2E01rRrzaz6TuwCdm27m4m"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Over the Hill",
+        "url": "https://open.spotify.com/album/76igtoYKgzHd578j23y2Hb"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "duration_ms": 167771,
+      "name": "Over the Hill",
+      "url": "https://open.spotify.com/track/5eFwQOHNE0zOwMRj9jhzGt"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Uneasy - Metronomy x spill tab",
+        "url": "https://open.spotify.com/album/3XRHpM3LFOWY9nnWwKCKyv"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 203262,
+      "name": "Uneasy - Metronomy x spill tab",
+      "url": "https://open.spotify.com/track/6HOXiIuMfKzEpWsdZ02wZL"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "5K",
-        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 201261,
-      "name": "Ghost World",
-      "url": "https://open.spotify.com/track/4dwxdOkBE8OBXD9E6EruGv"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Punching Bag",
         "url": "https://open.spotify.com/album/0g9uNPKwDPldwNl9ZudsBm"
       },
@@ -1523,18 +1507,18 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Emotionless",
-        "url": "https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl"
+        "name": "5K",
+        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
       },
       "artists": [
         {
-          "name": "Crisaunt",
-          "url": "https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6"
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
         }
       ],
-      "duration_ms": 148401,
-      "name": "Emotionless",
-      "url": "https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO"
+      "duration_ms": 201261,
+      "name": "Ghost World",
+      "url": "https://open.spotify.com/track/4dwxdOkBE8OBXD9E6EruGv"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1551,6 +1535,22 @@
       "duration_ms": 202346,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/6nctEN4lXyz9KV7ujHaAKb"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Emotionless",
+        "url": "https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl"
+      },
+      "artists": [
+        {
+          "name": "Crisaunt",
+          "url": "https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6"
+        }
+      ],
+      "duration_ms": 148401,
+      "name": "Emotionless",
+      "url": "https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO"
     },
     {
       "added_at": "2023-04-17 19:26:13",

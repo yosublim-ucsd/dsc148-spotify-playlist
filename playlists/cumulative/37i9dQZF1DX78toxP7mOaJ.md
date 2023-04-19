@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Friko \| Artwork: Jim Klok
 
-866 songs - 1 day 23 hr 21 min
+867 songs - 1 day 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Addicted](https://open.spotify.com/track/706N9YAXwpbiZGYHw14tPN) | [Friday And The Fool](https://open.spotify.com/artist/2pp5YvFy9vnHuvTM5M0y7I) | [Addicted](https://open.spotify.com/album/77zQVsNEeCKTopwaMJ5pwx) | 3:00 | 2022-09-21 | 2022-10-13 |
 | [Again and Again](https://open.spotify.com/track/2MuvMbpRFBQnDhWImE90v9) | [The People Versus](https://open.spotify.com/artist/7xChVh3g4yn9Mipj7MIZ1a) | [Again and Again](https://open.spotify.com/album/1dQH33xJfPIWDn15oY8OQD) | 3:53 | 2022-05-11 | 2022-05-26 |
 | [AHHHH!](https://open.spotify.com/track/6Pfma5baS7P2EIjn3Htj9q) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [AHHHH!](https://open.spotify.com/album/3c58AoCgrcGD0kF2PAxo1F) | 2:24 | 2021-12-01 | 2022-03-24 |
-| [airplane](https://open.spotify.com/track/0ZSrtjk2DQH6xWura7F01v) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [airplane](https://open.spotify.com/album/1DeRZ8RuEzvo7pfTzf5mYm) | 3:15 | 2023-04-12 |  |
+| [airplane](https://open.spotify.com/track/0ZSrtjk2DQH6xWura7F01v) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [airplane](https://open.spotify.com/album/1DeRZ8RuEzvo7pfTzf5mYm) | 3:15 | 2023-04-12 | 2023-04-19 |
+| [airplane](https://open.spotify.com/track/6CCi6b23HctIsVkdoIq7Is) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [podunk](https://open.spotify.com/album/24QlHZXQXEPXlszax5IOWW) | 3:15 | 2023-04-12 |  |
 | [Alibi](https://open.spotify.com/track/0g2p9dssyIrbWCAE3pETd4) | [Jasper Wilderness](https://open.spotify.com/artist/2dqhFwBKG2HSQY1NoFohiw) | [Coming Home to Silence](https://open.spotify.com/album/6CuEN2Gr3nnJXydEOuE3q3) | 2:57 | 2022-10-12 | 2022-10-21 |
 | [Alibi](https://open.spotify.com/track/7wK9sB7hjnUSoCnWRyVzlu) | [Jasper Wilderness](https://open.spotify.com/artist/2dqhFwBKG2HSQY1NoFohiw) | [Coming Home to Silence](https://open.spotify.com/album/5RAFq2PS8L0tiww2yeQzJj) | 2:57 | 2022-10-19 | 2022-12-01 |
 | [Alive Again](https://open.spotify.com/track/4oUOCP3TzE3OvWpif9d9so) | [Tummyache](https://open.spotify.com/artist/2iGQR8gH9aKFtCxOsPGFYx) | [SOAK](https://open.spotify.com/album/5c2gqiaE0iCiJ7Fb03ExRv) | 3:56 | 2022-05-25 | 2022-06-30 |

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "AfriKa2",
+        "url": "https://open.spotify.com/album/4YgJK9AH2g2A4eHaiTX3wi"
+      },
+      "artists": [
+        {
+          "name": "Ka2",
+          "url": "https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367620,
+      "name": "AfriKa2",
+      "url": "https://open.spotify.com/track/5s7VoXTBBdrqaJdTQWGhRE"
+    },
+    {
+      "album": {
         "name": "Afyon Dinar\u0131 (Remix) [Radio Edit]",
         "url": "https://open.spotify.com/album/4tGdIZKYYE3NQqQZxwCWgx"
       },
@@ -72,6 +90,32 @@
       "duration_ms": 402545,
       "name": "Aguacero",
       "url": "https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU"
+    },
+    {
+      "album": {
+        "name": "Oyowa EP",
+        "url": "https://open.spotify.com/album/5RIbv8D5rGnRrAjnpYVT0O"
+      },
+      "artists": [
+        {
+          "name": "Solidmind",
+          "url": "https://open.spotify.com/artist/1SDkgFr0b1jBtP7tenTJEF"
+        },
+        {
+          "name": "Zenma",
+          "url": "https://open.spotify.com/artist/2kgmql7CAfRr5QqbhYrcIJ"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313890,
+      "name": "Ainuke",
+      "url": "https://open.spotify.com/track/3Mo4JnQEaIKOEVBIo9ewha"
     },
     {
       "album": {
@@ -2850,6 +2894,54 @@
       "duration_ms": 276005,
       "name": "Petra",
       "url": "https://open.spotify.com/track/4jX35n5hgGPbUaFYtNXa5r"
+    },
+    {
+      "album": {
+        "name": "Pharaoh",
+        "url": "https://open.spotify.com/album/0yQQlhMne6GG2ebsznhcV3"
+      },
+      "artists": [
+        {
+          "name": "Stoim",
+          "url": "https://open.spotify.com/artist/3mzj6sewlyj9tNug1u0cLW"
+        },
+        {
+          "name": "Enoo Napa",
+          "url": "https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400585,
+      "name": "Pharaoh - Enoo Napa Remix",
+      "url": "https://open.spotify.com/track/4MuRuDNaYCZ9IzaT0KSfhT"
+    },
+    {
+      "album": {
+        "name": "Povoada (Remix)",
+        "url": "https://open.spotify.com/album/0VNGzsaX62aIZjEEMNbwoi"
+      },
+      "artists": [
+        {
+          "name": "Sued Nunes",
+          "url": "https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi"
+        },
+        {
+          "name": "Maz (BR)",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257747,
+      "name": "Povoada - Remix",
+      "url": "https://open.spotify.com/track/4y1Xc5sjKxBRObrIfXRYpS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Magdalena Bay
 
-1,537 songs - 3 day 9 hr 2 min
+1,539 songs - 3 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -684,7 +684,7 @@
 | [I Think I Met You In A Dream](https://open.spotify.com/track/09MZIpr7ciaUZyxHKb37Mz) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [I Think I Met You In A Dream](https://open.spotify.com/album/22LPEr1Zguz9lVmqLQReEO) | 3:09 | 2022-02-25 | 2022-08-06 |
 | [I Try](https://open.spotify.com/track/0YY1xpXpPYL2N8tVwXBITr) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [I Try](https://open.spotify.com/album/5ZwWwcH6Q2xWIJzC1n5WXI) | 2:27 | 2021-08-27 | 2022-06-14 |
 | [I Wanna Be a Boy](https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [I Wanna Be a Boy](https://open.spotify.com/album/1CqhdFxHAyTGkmJNZMrHNw) | 3:19 | 2022-01-28 | 2022-04-16 |
-| [i wanna be your right hand](https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [i wanna be your right hand](https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT) | 2:28 | 2023-03-24 |  |
+| [i wanna be your right hand](https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [i wanna be your right hand](https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT) | 2:28 | 2023-03-24 | 2023-04-19 |
 | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/track/0lcwE4dOsg3HB2BiUJxurh) | [PRONOUN](https://open.spotify.com/artist/08q2kFjr9p4cJqTGU9xJgg) | [I WANNA DIE BUT I CAN’T \(CUZ I GOTTA KEEP LIVING\)](https://open.spotify.com/album/7Jkkqjg8xAO7Jz4vV5H9oB) | 2:50 | 2021-05-06 | 2021-05-27 |
 | [i wanna kiss boys cos i'm bored](https://open.spotify.com/track/5BGk9BV2Bar129ZNJFqgWA) | [Lucy Sugerman](https://open.spotify.com/artist/5nLGkslzP5G1oqwxhUPj2N) | [i wanna kiss boys cos i'm bored](https://open.spotify.com/album/6Q3hFKUM6miEc14p6y9nCl) | 2:56 | 2020-12-12 | 2021-01-15 |
 | [I Wanna Live Forever](https://open.spotify.com/track/759ptp5ik4aLVCMnrQmUKg) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [I Wanna Live Forever](https://open.spotify.com/album/3kI5ZrCZC4FudYzqSAbyVK) | 3:26 | 2023-03-31 |  |
@@ -899,7 +899,7 @@
 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 | 2022-05-11 | 2023-04-01 |
 | [Medicine](https://open.spotify.com/track/3k0ePe9pGy2ZLQ84taqo4V) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd) | [Medicine](https://open.spotify.com/album/6bCktPxMic30kMk8OTGNd5) | 3:36 | 2020-10-13\* | 2020-10-16 |
 | [Medicine](https://open.spotify.com/track/0CWvHfEwbeBVN0RViTybvL) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:49 | 2021-06-02 | 2022-07-23 |
-| [Melancholy](https://open.spotify.com/track/1KF7in1Tx1G5JzIVFw8Frj) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Melancholy](https://open.spotify.com/album/0O5rQMVVxqfoWgdYAUqxIT) | 2:25 | 2023-02-10 |  |
+| [Melancholy](https://open.spotify.com/track/1KF7in1Tx1G5JzIVFw8Frj) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Melancholy](https://open.spotify.com/album/0O5rQMVVxqfoWgdYAUqxIT) | 2:25 | 2023-02-10 | 2023-04-19 |
 | [melancholyism.](https://open.spotify.com/track/03ejfFAbwrrANbH4fZzF0W) | [Super Whatevr](https://open.spotify.com/artist/2kbAovdYb7krLSGdOrBMRu) | [melancholyism.](https://open.spotify.com/album/1Umawe3NueijnMkEGiQwZV) | 3:08 | 2020-10-20 | 2020-10-21 |
 | [Melrose Meltdown](https://open.spotify.com/track/0oXD7ewBoYpsLmgG07VMF6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [I Can't Let Go](https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm) | 3:32 | 2022-06-17 | 2022-08-06 |
 | [Melrose Meltdown](https://open.spotify.com/track/7kvlIHCMeZyQVG6Fsn10Vf) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Melrose Meltdown](https://open.spotify.com/album/2CxqquXzqf6JbYYVAAeEkm) | 3:32 | 2022-01-28 | 2022-06-29 |
@@ -1089,6 +1089,7 @@
 | [poppin](https://open.spotify.com/track/7hHZuFMAyVj48DwxhZE9IK) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [poppin](https://open.spotify.com/album/2Z5ksNiLa2fNEi7zWWt7Z5) | 3:49 | 2021-08-06 | 2022-04-15 |
 | [Porsche](https://open.spotify.com/track/1mYzzRRD6wB9xVAxUllDqw) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Porsche](https://open.spotify.com/album/2QoW4xvavVf9KYiIGNBNm8) | 3:35 | 2020-10-20 | 2021-06-03 |
 | [Post Humorous](https://open.spotify.com/track/59BJgnWKzFnh5TGkhHfmod) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Post Humorous](https://open.spotify.com/album/3Gk3QuFFF4zi4RdyYhBkpy) | 4:39 | 2020-10-13\* | 2021-06-03 |
+| [poster boy](https://open.spotify.com/track/2TaCG1ArsxRsUyZhqy5jei) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [poster boy](https://open.spotify.com/album/2ErL96QPbe4hXnU8K2giJr) | 2:46 | 2023-04-14 |  |
 | [predictable](https://open.spotify.com/track/5TrHE548MWLnVaUNdlUNTl) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [predictable](https://open.spotify.com/album/0Ia2tyRAn9W9gU50HTP8to) | 2:55 | 2021-10-02 | 2022-04-15 |
 | [Prescriptions](https://open.spotify.com/track/3LYjxu7eqgGPDiPz8ed4pX) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Prescriptions](https://open.spotify.com/album/3hdDCo5ApKuKVWBOPluH5L) | 3:47 | 2022-02-25 | 2022-04-21 |
 | [pressure](https://open.spotify.com/track/29XFwGNkE4E153MGV232hB) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [stories 2](https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh) | 2:10 | 2022-10-21 | 2022-10-29 |
@@ -1153,6 +1154,7 @@
 | [Running Around](https://open.spotify.com/track/6Tc9wBnQxETvqUCUZzCf6k) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Running Around](https://open.spotify.com/album/4fRGzIYX6Oeagpi13HKagP) | 3:16 | 2020-10-16 | 2020-10-23 |
 | [running back](https://open.spotify.com/track/2GIfPh0soztojStCU4hWcX) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H) | [hey prentiss](https://open.spotify.com/album/5rULMY8zzfeKSBlpuDOIZe) | 1:52 | 2022-01-28 | 2022-07-02 |
 | [Ruthless](https://open.spotify.com/track/4okcOFaWiH7Zl22gIRIA7M) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Ruthless](https://open.spotify.com/album/6cQT58l4HEG57VzaqsGIOC) | 3:25 | 2021-10-22 | 2022-06-11 |
+| [Rêve](https://open.spotify.com/track/2NrgoKvt52oUq4qufUAoMh) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Rêve](https://open.spotify.com/album/0bCCihl80fbk2trcJIuj3G) | 3:09 | 2023-04-07 |  |
 | [sad disco](https://open.spotify.com/track/2AuvCgODcdFVPHdErDoQuY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [sad disco](https://open.spotify.com/album/6b8x1yW2fvpElEYMnJzkGl) | 3:03 | 2022-03-29 | 2022-04-11 |
 | [Sad Girl Summer](https://open.spotify.com/track/6WyCDecnLaByR2WN3BVGDQ) | [smol fish](https://open.spotify.com/artist/1s6NvPMt2shlv4MBNu9M9v) | [Sad Girl Summer](https://open.spotify.com/album/2Kcmjgcrs002N9IPKOZvo0) | 3:06 | 2021-05-03 | 2021-05-27 |
 | [Sad To See You Happy](https://open.spotify.com/track/6ffcV0j4CLdpOE5CLLVzWm) | [Olivia Lunny](https://open.spotify.com/artist/7542b5kIvrKX0Zvp5iNpl9) | [Sad To See You Happy](https://open.spotify.com/album/0HxhtexTu3zoF0tqhQ0gnk) | 2:54 | 2021-05-03 | 2022-04-07 |

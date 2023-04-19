@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnWpuB1FNVp.md) - [plain]
 
 > Barack and Michelle Obama's favorite songs from summer 2019!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,761 likes - 44 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,775 likes - 44 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnWpuB1FNVp.md) - [plain]
 | 6 | [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 |
 | 7 | [Reeling In The Years](https://open.spotify.com/track/3Xe4JagghOfs9NF1xaqbb8) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [A Decade Of Steely Dan](https://open.spotify.com/album/68HbhACgHQvDhfMIzQYt8P) | 4:38 |
 | 8 | [Who's Loving You](https://open.spotify.com/track/0Lz1NsgPykKrwVnsFCmY2R) | [Sananda Maitreya](https://open.spotify.com/artist/6RGxLsQUoGk5PLyMVwb3yE) | [Introducing The Hardline According To Terence Trent D'Arby](https://open.spotify.com/album/0nw38yniBfbluS93FdYcbE) | 4:21 |
-| 9 | [Don't You Worry About a Thing](https://open.spotify.com/track/2ppH1UUQzthsvL1rFci6ST) | [Black Sugar](https://open.spotify.com/artist/7yREgs5ewgmYcDPMiInr3A) | [DJ Spinna Presents the Wonder of Stevie \- Volume 3](https://open.spotify.com/album/1A8WJrw53MG92KIX8YO2eF) | 2:48 |
+| 9 | [Don't You Worry About a Thing](https://open.spotify.com/track/5d8JZZENf65ftiAnN0qTwm) | [Black Sugar](https://open.spotify.com/artist/7yREgs5ewgmYcDPMiInr3A) | [International Funk](https://open.spotify.com/album/0nDCiyhfCQculdH78lP8x4) | 2:54 |
 | 10 | [Joke Ting \(feat\. Ari PenSmith\)](https://open.spotify.com/track/6Ic2MP2hzoBLe3r1VIle8J) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Ari PenSmith](https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP) | [Diaspora](https://open.spotify.com/album/790qROmQ1y4aPEYLcSkScH) | 3:00 |
 | 11 | [Seventeen](https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 4:25 |
 | 12 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnWpuB1FNVp.md) - [plain]
 | 43 | [Believe](https://open.spotify.com/track/7D8MbQyYgjcihxE3sH9FnG) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Renaissance](https://open.spotify.com/album/0EMbzFBRoIt0fmTsowZ8Zv) | 2:56 |
 | 44 | [Can I Kick It?](https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)](https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck) | 4:11 |
 
-Snapshot ID: `MTY2MzkzOTAyOCwwMDAwMDAwMDUwZGRiYjc4ZGJhYTAwMWVhOTJhMTFiODJkMzg5ZDcy`
+Snapshot ID: `MTY2MzkzOTAyOCwwMDAwMDAwMGY5M2Y0N2QxY2MxY2Q4N2Y5NGY5MGMwYjdkYTY0NWZm`

@@ -4,7 +4,7 @@
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: Laura Weng
 
-236 songs - 12 hr 43 min
+237 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Jezinky \(acapela\)](https://open.spotify.com/track/4XGxWLRQWGfsW3IA1ggJf3) | [Giudi](https://open.spotify.com/artist/1PpVDDj4MkhQlvvYy7SGfj) | [Jezinky \(acapela\)](https://open.spotify.com/album/3EE9GG0IhouS9ufrpJLuxb) | 2:59 | 2021-12-07 | 2022-06-01 |
 | [Jsem](https://open.spotify.com/track/091LqS4GafDKXraNTFZxhC) | [Tereza Balonová](https://open.spotify.com/artist/1kEe7RHajwXs74RkMIbAhq) | [Jsem](https://open.spotify.com/album/0pRARP9FOKcmcCKj2hFRdi) | 3:44 | 2022-03-07 | 2022-05-04 |
 | [Just Another Dream](https://open.spotify.com/track/39oWADXTHbyBXMaB9eQ1Uv) | [Anika Iris](https://open.spotify.com/artist/6qwBbYT3f2M1pZ1SKcsBDc) | [Just Another Dream](https://open.spotify.com/album/517LIc9zu3bC3oIqZMgaiF) | 3:11 | 2022-02-01 | 2022-07-01 |
-| [Já Tě Mám](https://open.spotify.com/track/57OcPTvlX94sx5HmCXyacw) | [Anna Vaverková](https://open.spotify.com/artist/6g9ensOdCVDvhlP4pjrShZ) | [Já Tě Mám](https://open.spotify.com/album/1t4WJ31sxO05xTsPdtMdNg) | 3:28 | 2023-02-28 |  |
+| [Já Tě Mám](https://open.spotify.com/track/57OcPTvlX94sx5HmCXyacw) | [Anna Vaverková](https://open.spotify.com/artist/6g9ensOdCVDvhlP4pjrShZ) | [Já Tě Mám](https://open.spotify.com/album/1t4WJ31sxO05xTsPdtMdNg) | 3:28 | 2023-02-28 | 2023-04-19 |
+| [Já Tě Mám](https://open.spotify.com/track/77pGE00XXGXGxLdxwktGqx) | [Anna Vaverková](https://open.spotify.com/artist/6g9ensOdCVDvhlP4pjrShZ) | [Já Tě Mám](https://open.spotify.com/album/0fJ5Sp4v9JydU0WoSirK1m) | 3:28 | 2023-04-04 |  |
 | [Kamkoli se dáš](https://open.spotify.com/track/2KTbW8iHPn2QtO8CYATSEq) | [Jitka Zelenková](https://open.spotify.com/artist/7JiWNPWFog0sTz1f63HToI) | [Kamkoli se dáš](https://open.spotify.com/album/4zv8DtzXeKbikL5Ri8tSo3) | 4:11 | 2021-12-07 | 2022-04-06 |
 | [Kamkolidu](https://open.spotify.com/track/3LIo1uiJvDB1S6idjdypTg) | [Sharlota](https://open.spotify.com/artist/0ir6ShDLlvv5RHsRzNixny) | [Kamkolidu](https://open.spotify.com/album/3UaLLsu55pvmkxt0OMGISp) | 3:24 | 2022-05-03 | 2022-09-07 |
 | [Kancelář](https://open.spotify.com/track/6IuzpgMwwyRXhUJgiVGZmu) | [Annie](https://open.spotify.com/artist/67IQhB57JST5EyO2UrLssN) | [Kancelář](https://open.spotify.com/album/7GhVvSQAUYJblb40MZzD4w) | 2:48 | 2022-05-31 | 2022-10-05 |

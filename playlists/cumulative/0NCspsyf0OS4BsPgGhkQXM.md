@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-722 songs - 1 day 15 hr 30 min
+723 songs - 1 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,6 +493,7 @@
 | [Perimeter](https://open.spotify.com/track/4bcOaSoyeVbPpiElUuI9Cd) | [Nikademis](https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Perimeter](https://open.spotify.com/album/0PN6lUmXCNRRx5Z55Cnw5X) | 3:30 | 2022-11-17 | 2023-02-22 |
 | [Perseus](https://open.spotify.com/track/3dS4nCiyJMx8miVcnmXv6A) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Marin Hoxha](https://open.spotify.com/artist/69kFCyHDE14cRD1cctCCcd), [Vinsmoker](https://open.spotify.com/artist/2huUeOXso2qC3L0JdJJz7u) | [Perseus](https://open.spotify.com/album/4qjZotHAONV7lhvYsaSXGm) | 2:05 | 2023-01-13 | 2023-01-28 |
 | [Pharaoh](https://open.spotify.com/track/5diYHmzYz39n8d6b1z06A6) | [Lenny](https://open.spotify.com/artist/3ZYWQmZsfFj8OhSHFQEwVU) | [Pharaoh](https://open.spotify.com/album/1GBh4jjqyzmaUmpS452TWG) | 2:19 | 2022-08-05 | 2022-11-24 |
+| [Phoenix](https://open.spotify.com/track/0G4cDuyOy5GgjMajE6bKud) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Phoenix](https://open.spotify.com/album/09bJhXcfcsu0d8ASWEuYGW) | 3:04 | 2023-04-18 |  |
 | [Phonky Halloween](https://open.spotify.com/track/5i1FsUcq7pATeyHJiU1yTZ) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9) | [Phonky Halloween](https://open.spotify.com/album/71e4Jhf7DBdO6FLcQzCwrA) | 2:16 | 2022-10-28 | 2022-11-24 |
 | [Pieces](https://open.spotify.com/track/1rjh0sy4w8xmWopEhG1h0P) | [Adam Pearce](https://open.spotify.com/artist/0AhdWP01wLAKxDfhsKMEKf), [OMAS](https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK), [Dani King](https://open.spotify.com/artist/3IoL23eRnUfAwnOTsbTLVp) | [Pieces](https://open.spotify.com/album/3erPBryAjGLFaPoSX94WXL) | 3:45 | 2022-01-14 | 2022-09-15 |
 | [Piranha](https://open.spotify.com/track/2cVJq55ISQ7LNkWibZzRSY) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Pluuto](https://open.spotify.com/artist/3BtEY5R06YAu1KVF2rvNjg) | [Piranha](https://open.spotify.com/album/7LOowmGvjVKUxJAcbUDX6N) | 3:07 | 2022-02-11 | 2022-03-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 
 > Jazz voices of today\. Cover: Samara Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,445 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,541 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 74 | [You Hit the Spot](https://open.spotify.com/track/18scliCy9vN53WX6BS8tFN) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [You Hit the Spot](https://open.spotify.com/album/5VaI6YpznbBwIBHPprSmdu) | 2:14 |
 | 75 | [Dawn](https://open.spotify.com/track/5tJ21wHKBuj9KtzaCwDxZ5) | [Allison Wheeler](https://open.spotify.com/artist/69WneXo9aoAeXaJCaPzJ6k), [David Dorůžka](https://open.spotify.com/artist/2FOnLwDbujuoPHDp1OXQw5) | [Winterspring](https://open.spotify.com/album/6Sqps6Ivj9YZm59i7wNCZM) | 7:22 |
 | 76 | [Don't Be Mean](https://open.spotify.com/track/4nQWn8Xz3cjaQgZUTA9NqL) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [Earthenya](https://open.spotify.com/album/7nZZUnGI8D3Db6q5GwCJk5) | 4:02 |
-| 77 | [Tess's Torch Song](https://open.spotify.com/track/496FwwjWBFWAo0jR0jEVGE) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/4dLNU3LLt6BudaiM2MYAwn) | 2:54 |
+| 77 | [Tess's Torch Song](https://open.spotify.com/track/4Ynai4It3N4RTXe46vJlJL) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/6VHzJNiSLGXkXw9NzY9GGX) | 2:54 |
 | 78 | [One Day, Forever](https://open.spotify.com/track/4eHwXOVp2HX7e4ZI8CSl06) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd), [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG), [Mulgrew Miller](https://open.spotify.com/artist/6Zq5ky484xYTgxE6dQ8yHh), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Carl Allen](https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n) | [One Day, Forever](https://open.spotify.com/album/4UIz8ZkbKx0S4XjLUhqOiV) | 5:08 |
 | 79 | [Something Good](https://open.spotify.com/track/13tBNWKIqlZwijZ9rFFS13) | [Sara Gazarek](https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc) | [Vanity](https://open.spotify.com/album/7fYK538rcsifxsFge3ARvr) | 5:47 |
 | 80 | [In a Mellow Tone](https://open.spotify.com/track/6VN1Tktyqjue8xUQyItXfX) | [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG), [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [In a Mellow Tone](https://open.spotify.com/album/7DXr7QMH9a88Ll6r81vCJK) | 5:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kt7dB63bU1.md) - [plain]
 | 99 | [The Trouble With Hello Is Goodbye](https://open.spotify.com/track/4iLS8yqoN0XJ7R5B0h9BOU) | [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [The Trouble With Hello Is Goodbye](https://open.spotify.com/album/6OVXyjmOHzt8Q6WcKqB9Ru) | 4:33 |
 | 100 | [Everything Happens to Me](https://open.spotify.com/track/7vBeurhHC4d7lQ0MIvCKcP) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Everything Happens to Me](https://open.spotify.com/album/52WQ5RrOAA9BgZ6MiXxSDZ) | 6:19 |
 
-Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMGYxZjg4NGM1YTdkMjU3OWJkN2I2ZWQ1Njk4OTRiZmYw`
+Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDNmNTQ1ZWJkYjhjMDVmZjQxZTVlMjU5YjI5ZDRjZGNi`

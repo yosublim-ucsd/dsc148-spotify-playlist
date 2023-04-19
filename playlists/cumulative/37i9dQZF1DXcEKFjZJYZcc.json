@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 132428,
       "name": "A Moment For Us",
       "url": "https://open.spotify.com/track/7K0BCfDf8sBsbGVnbg7SSD"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 192409,
       "name": "Amaprinces Bend",
       "url": "https://open.spotify.com/track/6DhmBzQD76Ajsd1S0UyT1H"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 126793,
       "name": "As You Close Your Eyes",
       "url": "https://open.spotify.com/track/5yLEm7dJOXoMBR5OztKbY4"
@@ -680,6 +680,24 @@
       "duration_ms": 132000,
       "name": "Contemplate",
       "url": "https://open.spotify.com/track/1088RgbNKWvtK2YfyPBscv"
+    },
+    {
+      "album": {
+        "name": "Corrente",
+        "url": "https://open.spotify.com/album/2AgWcmJDGJ08wdzbbs6f4E"
+      },
+      "artists": [
+        {
+          "name": "Scott Laudier",
+          "url": "https://open.spotify.com/artist/51hN2Ma4SwEZOoxr0SIqQK"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122784,
+      "name": "Corrente",
+      "url": "https://open.spotify.com/track/6L8CQvpOSN43vjNmYwTatw"
     },
     {
       "album": {
@@ -3374,7 +3392,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 132681,
       "name": "Summer Light",
       "url": "https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk"
@@ -4048,6 +4066,24 @@
       "duration_ms": 126517,
       "name": "White Garden",
       "url": "https://open.spotify.com/track/7odH627CfIdqmlV0M7HeWb"
+    },
+    {
+      "album": {
+        "name": "With Ease",
+        "url": "https://open.spotify.com/album/1LCrc34gyc6h3YdC7e7D5c"
+      },
+      "artists": [
+        {
+          "name": "Loumi Des Moines",
+          "url": "https://open.spotify.com/artist/5R719xRQhw9JLnHFM3dC1G"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "With Ease",
+      "url": "https://open.spotify.com/track/66nC6l1EsEIqarOvSwmotT"
     },
     {
       "album": {

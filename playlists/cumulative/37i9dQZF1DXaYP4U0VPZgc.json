@@ -1479,6 +1479,28 @@
     },
     {
       "album": {
+        "name": "PARADE",
+        "url": "https://open.spotify.com/album/3Eyw8aU1Fn25ctcjd3GnMq"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction",
+          "url": "https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz"
+        },
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301786,
+      "name": "\u6ac2",
+      "url": "https://open.spotify.com/track/4MmbhBWuOX0FChh2gb1fXv"
+    },
+    {
+      "album": {
         "name": "\u6c34\u306e\u8a3c",
         "url": "https://open.spotify.com/album/1TVw6SHvytnhXTGMijSJK2"
       },

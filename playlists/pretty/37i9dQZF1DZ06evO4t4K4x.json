@@ -1,15 +1,15 @@
 {
   "description": "This is Delia Derbyshire. The essential tracks, all in one playlist.",
-  "num_followers": 1179,
+  "num_followers": 1182,
   "original_name": "This Is Delia Derbyshire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwMjg4NjMsMDAwMDAwMDBjZDg5MTgzN2UzMjUyYjZhNjMxYTdiMjIyZmY5ODQwNg==",
+  "snapshot_id": "MjgwMzAzOTAsMDAwMDAwMDA3MmFiZTNkNDI2YjA5OWE1NWU4MmVhMGE1MjhiYzgxOA==",
   "tracks": [
     {
-      "added_at": "2023-04-17 11:43:14",
+      "added_at": "2023-04-18 13:10:08",
       "album": {
         "name": "Doctor Who: The Caves of Androzani (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4NLQXqPZVsmji1N72QViic"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/1fh0GIHW5ClsCe1D1zYVk3"
     },
     {
-      "added_at": "2023-04-17 11:43:14",
+      "added_at": "2023-04-18 13:10:08",
+      "album": {
+        "name": "Pot au Feu (BBC Version)",
+        "url": "https://open.spotify.com/album/4vF9xTT7wHXaVdtdaKUmLH"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 193187,
+      "name": "Pot au Feu - BBC Version",
+      "url": "https://open.spotify.com/track/6Y29BVuOV3mk21WLPFELU7"
+    },
+    {
+      "added_at": "2023-04-18 13:10:08",
       "album": {
         "name": "Kpm 1000 Series: Electrosonic",
         "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
@@ -53,23 +69,7 @@
       "url": "https://open.spotify.com/track/12nkGYRuBT6ewgn1w7Ygxr"
     },
     {
-      "added_at": "2023-04-17 11:43:14",
-      "album": {
-        "name": "Pot au Feu (BBC Version)",
-        "url": "https://open.spotify.com/album/4vF9xTT7wHXaVdtdaKUmLH"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 193187,
-      "name": "Pot au Feu - BBC Version",
-      "url": "https://open.spotify.com/track/6Y29BVuOV3mk21WLPFELU7"
-    },
-    {
-      "added_at": "2023-04-17 11:43:14",
+      "added_at": "2023-04-18 13:10:08",
       "album": {
         "name": "Moogies Bloogies",
         "url": "https://open.spotify.com/album/6m37XcSc4ltBFthDtMkMZ6"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/6gaWoxdfAfB2yQKKBQeQ59"
     },
     {
-      "added_at": "2023-04-17 11:43:14",
+      "added_at": "2023-04-18 13:10:08",
       "album": {
         "name": "Doctor Who: The Caves of Androzani (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/4NLQXqPZVsmji1N72QViic"
@@ -109,7 +109,23 @@
       "url": "https://open.spotify.com/track/0E6vubyhXDzrjFkYu1wNP3"
     },
     {
-      "added_at": "2023-04-17 11:43:14",
+      "added_at": "2023-04-18 13:10:08",
+      "album": {
+        "name": "Do What You Love",
+        "url": "https://open.spotify.com/album/1EG1jnmCsnfO0ME81y4mMj"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 54053,
+      "name": "About Bridges Polyphonic Theme (From The Hooykaas / Stansfield Film)",
+      "url": "https://open.spotify.com/track/130jTQ1Ce0St3eJtRjqgvn"
+    },
+    {
+      "added_at": "2023-04-18 13:10:08",
       "album": {
         "name": "Kpm 1000 Series: Electrosonic",
         "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
@@ -133,23 +149,7 @@
       "url": "https://open.spotify.com/track/0wfTZNLjGyWy6ugu1StZgB"
     },
     {
-      "added_at": "2023-04-17 11:43:14",
-      "album": {
-        "name": "Do What You Love",
-        "url": "https://open.spotify.com/album/1EG1jnmCsnfO0ME81y4mMj"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 54053,
-      "name": "About Bridges Polyphonic Theme (From The Hooykaas / Stansfield Film)",
-      "url": "https://open.spotify.com/track/130jTQ1Ce0St3eJtRjqgvn"
-    },
-    {
-      "added_at": "2023-04-17 11:43:14",
+      "added_at": "2023-04-18 13:10:08",
       "album": {
         "name": "Moogies Bloogies",
         "url": "https://open.spotify.com/album/6m37XcSc4ltBFthDtMkMZ6"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/3WEuSqvJ8kjyZhhnlC7CHw"
     },
     {
-      "added_at": "2023-04-17 11:43:14",
+      "added_at": "2023-04-18 13:10:08",
       "album": {
         "name": "Doctor Who - The Sun Makers (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5Cgh8Q4lVz54tmJt6DHLOU"
@@ -185,7 +185,23 @@
       "url": "https://open.spotify.com/track/2HEsZRIwaCvCamxJMi8yaJ"
     },
     {
-      "added_at": "2023-04-17 11:43:14",
+      "added_at": "2023-04-18 13:10:08",
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 91480,
+      "name": "Dr. Who",
+      "url": "https://open.spotify.com/track/7j4Bw7om5owxBdZE54XGOq"
+    },
+    {
+      "added_at": "2023-04-18 13:10:08",
       "album": {
         "name": "Kpm 1000 Series: Electrosonic",
         "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
@@ -209,23 +225,7 @@
       "url": "https://open.spotify.com/track/0z3rbUCweRcD7g0i3Pbw4F"
     },
     {
-      "added_at": "2023-04-17 11:43:14",
-      "album": {
-        "name": "BBC Radiophonic Workshop - 21",
-        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 91480,
-      "name": "Dr. Who",
-      "url": "https://open.spotify.com/track/7j4Bw7om5owxBdZE54XGOq"
-    },
-    {
-      "added_at": "2023-04-17 11:43:14",
+      "added_at": "2023-04-18 13:10:08",
       "album": {
         "name": "The Synth And Electronic Recording Exchanges",
         "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/1BhubvIhpbae9mlwxFAQce"
     },
     {
-      "added_at": "2023-04-17 11:43:14",
+      "added_at": "2023-04-18 13:10:08",
       "album": {
         "name": "Doctor Who - The Sun Makers (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5Cgh8Q4lVz54tmJt6DHLOU"
@@ -261,7 +261,23 @@
       "url": "https://open.spotify.com/track/59grLIYk7JDrF6APXELcMP"
     },
     {
-      "added_at": "2023-04-17 11:43:14",
+      "added_at": "2023-04-18 13:10:08",
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 41293,
+      "name": "A New View of Politics",
+      "url": "https://open.spotify.com/track/5tT0o5xxlpwCpPgAPOhsH6"
+    },
+    {
+      "added_at": "2023-04-18 13:10:08",
       "album": {
         "name": "Kpm 1000 Series: Electrosonic",
         "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
@@ -285,23 +301,7 @@
       "url": "https://open.spotify.com/track/4flhWFm1w51Rm3dwQneAyW"
     },
     {
-      "added_at": "2023-04-17 11:43:14",
-      "album": {
-        "name": "BBC Radiophonic Workshop - 21",
-        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 41293,
-      "name": "A New View of Politics",
-      "url": "https://open.spotify.com/track/5tT0o5xxlpwCpPgAPOhsH6"
-    },
-    {
-      "added_at": "2023-04-17 11:43:14",
+      "added_at": "2023-04-18 13:10:08",
       "album": {
         "name": "The Synth And Electronic Recording Exchanges",
         "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/31w8FxWHtH85l41qSS9v1K"
     },
     {
-      "added_at": "2023-04-17 11:43:14",
+      "added_at": "2023-04-18 13:10:08",
       "album": {
         "name": "Endless Waves: The Dawn of Electronic Noise & Ambient Music, Vol. 1",
         "url": "https://open.spotify.com/album/2WHKGFszAfXeD4H0TEDD4v"
@@ -337,7 +337,23 @@
       "url": "https://open.spotify.com/track/5y1l7BSFZR6u3MOUyq3jZU"
     },
     {
-      "added_at": "2023-04-17 11:43:14",
+      "added_at": "2023-04-18 13:10:08",
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 37186,
+      "name": "Great Zoos of the World",
+      "url": "https://open.spotify.com/track/4HnfjfedOmmZkxjaAeEkcY"
+    },
+    {
+      "added_at": "2023-04-18 13:10:08",
       "album": {
         "name": "Kpm 1000 Series: Electrosonic",
         "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
@@ -356,28 +372,12 @@
           "url": "https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X"
         }
       ],
-      "duration_ms": 34400,
-      "name": "Shock Chords",
-      "url": "https://open.spotify.com/track/5WcHBV1Wzac0UCRy3ZseBc"
+      "duration_ms": 74573,
+      "name": "Computermatic",
+      "url": "https://open.spotify.com/track/3O8IUG7HPVvLbp993DDdvU"
     },
     {
-      "added_at": "2023-04-17 11:43:14",
-      "album": {
-        "name": "BBC Radiophonic Workshop - 21",
-        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 37186,
-      "name": "Great Zoos of the World",
-      "url": "https://open.spotify.com/track/4HnfjfedOmmZkxjaAeEkcY"
-    },
-    {
-      "added_at": "2023-04-17 11:43:14",
+      "added_at": "2023-04-18 13:10:08",
       "album": {
         "name": "The Synth And Electronic Recording Exchanges",
         "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/1xI597kDPd4Z7eZHZaaJ9L"
     },
     {
-      "added_at": "2023-04-17 11:43:14",
+      "added_at": "2023-04-18 13:10:08",
       "album": {
         "name": "Circle of Light (Original Electronic Soundtrack Recording)",
         "url": "https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J"
@@ -417,7 +417,23 @@
       "url": "https://open.spotify.com/track/0F9SxKgSKsYK0N6iHWM4Pa"
     },
     {
-      "added_at": "2023-04-17 11:43:14",
+      "added_at": "2023-04-18 13:10:08",
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 73293,
+      "name": "Time on Our Hands",
+      "url": "https://open.spotify.com/track/0dDAu6FlLjQxSlE9NcvWmS"
+    },
+    {
+      "added_at": "2023-04-18 13:10:08",
       "album": {
         "name": "Kpm 1000 Series: Electrosonic",
         "url": "https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7"
@@ -441,23 +457,7 @@
       "url": "https://open.spotify.com/track/3nHdx0RJhzQih0I21PnIju"
     },
     {
-      "added_at": "2023-04-17 11:43:14",
-      "album": {
-        "name": "BBC Radiophonic Workshop - 21",
-        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 73293,
-      "name": "Time on Our Hands",
-      "url": "https://open.spotify.com/track/0dDAu6FlLjQxSlE9NcvWmS"
-    },
-    {
-      "added_at": "2023-04-17 11:43:14",
+      "added_at": "2023-04-18 13:10:08",
       "album": {
         "name": "The Synth And Electronic Recording Exchanges",
         "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/70uqGMtFCdPxNxRQQfjMWf"
     },
     {
-      "added_at": "2023-04-17 11:43:14",
+      "added_at": "2023-04-18 13:10:08",
       "album": {
         "name": "Circle of Light (Original Electronic Soundtrack Recording)",
         "url": "https://open.spotify.com/album/0PVskcfegzCFfZWYObDl0J"
@@ -497,7 +497,23 @@
       "url": "https://open.spotify.com/track/7lAXvqRchSNaXGDVJZXkeN"
     },
     {
-      "added_at": "2023-04-17 11:43:14",
+      "added_at": "2023-04-18 13:10:08",
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 31760,
+      "name": "Environmental Studies",
+      "url": "https://open.spotify.com/track/6Ah96m1F2nTtb0Nocj8may"
+    },
+    {
+      "added_at": "2023-04-18 13:10:08",
       "album": {
         "name": "Doctor Who - The 50th Anniversary Collection (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6oXILFHezMvby8D9Jx6x1Q"
@@ -517,59 +533,7 @@
       "url": "https://open.spotify.com/track/5dxWU9epbOtZ0XHv60tydp"
     },
     {
-      "added_at": "2023-04-17 11:43:14",
-      "album": {
-        "name": "BBC Radiophonic Workshop - 21",
-        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 31760,
-      "name": "Environmental Studies",
-      "url": "https://open.spotify.com/track/6Ah96m1F2nTtb0Nocj8may"
-    },
-    {
-      "added_at": "2023-04-17 11:43:14",
-      "album": {
-        "name": "The Synth And Electronic Recording Exchanges",
-        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        },
-        {
-          "name": "Martin Hannett",
-          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
-        }
-      ],
-      "duration_ms": 47506,
-      "name": "Hannett and Delia synth exchanges track 8",
-      "url": "https://open.spotify.com/track/4OLauE6EekCaaCMWicP3C1"
-    },
-    {
-      "added_at": "2023-04-17 11:43:14",
-      "album": {
-        "name": "BBC Radiophonic Workshop - 21",
-        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
-      },
-      "artists": [
-        {
-          "name": "Delia Derbyshire",
-          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
-        }
-      ],
-      "duration_ms": 57253,
-      "name": "Science and Health",
-      "url": "https://open.spotify.com/track/3CsSFQJyWG9gYqP6mwkqAj"
-    },
-    {
-      "added_at": "2023-04-17 11:43:14",
+      "added_at": "2023-04-18 13:10:08",
       "album": {
         "name": "The Synth And Electronic Recording Exchanges",
         "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
@@ -587,6 +551,42 @@
       "duration_ms": 121573,
       "name": "Hannett and Delia synth exchanges track 14",
       "url": "https://open.spotify.com/track/4HdrI3r3t0t4VwikGGhovW"
+    },
+    {
+      "added_at": "2023-04-18 13:10:08",
+      "album": {
+        "name": "BBC Radiophonic Workshop - 21",
+        "url": "https://open.spotify.com/album/0Y1ZjSJ0VC5XLRIgZEXQjy"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        }
+      ],
+      "duration_ms": 57253,
+      "name": "Science and Health",
+      "url": "https://open.spotify.com/track/3CsSFQJyWG9gYqP6mwkqAj"
+    },
+    {
+      "added_at": "2023-04-18 13:10:08",
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "duration_ms": 47506,
+      "name": "Hannett and Delia synth exchanges track 8",
+      "url": "https://open.spotify.com/track/4OLauE6EekCaaCMWicP3C1"
     }
   ],
   "unique_name": "This Is Delia Derbyshire",

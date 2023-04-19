@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1489361,
+  "num_followers": 1489716,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTY0OTE3OSwwMDAwMDAwMDUxZTBiYzZhNzA3YTRhMjAzYzY1ZTgwYmQwNTY4OGFm",
+  "snapshot_id": "MTY2OTY0OTE3OSwwMDAwMDAwMDM5MThlYzg5MjdmNDQ0NmE3MjczYTJhN2UyYjdlZDY4",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "13 Songs",
-        "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
-      },
-      "artists": [
-        {
-          "name": "Fugazi",
-          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
-        }
-      ],
-      "duration_ms": 173266,
-      "name": "Waiting Room",
-      "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Love Bites",
         "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 163693,
       "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
       "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "13 Songs",
+        "url": "https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY"
+      },
+      "artists": [
+        {
+          "name": "Fugazi",
+          "url": "https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G"
+        }
+      ],
+      "duration_ms": 173266,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "GI",
-        "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
-      },
-      "artists": [
-        {
-          "name": "Germs",
-          "url": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
-        }
-      ],
-      "duration_ms": 104360,
-      "name": "Lexicon Devil",
-      "url": "https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Pink Flag",
         "url": "https://open.spotify.com/album/4WXqZZ28geJSPtqLcCF56L"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 139693,
       "name": "Ex Lion Tamer - 2006 Remastered Version",
       "url": "https://open.spotify.com/track/5bb71zUIXMD6fsnHBLaoQ6"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "GI",
+        "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
+      },
+      "artists": [
+        {
+          "name": "Germs",
+          "url": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+        }
+      ],
+      "duration_ms": 104360,
+      "name": "Lexicon Devil",
+      "url": "https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "The Record",
-        "url": "https://open.spotify.com/album/5n0IOSvGqBJf92LorDWvRE"
-      },
-      "artists": [
-        {
-          "name": "Fear",
-          "url": "https://open.spotify.com/artist/0hPU1czS0JdstuT8VRtBPS"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "I Love Livin' in the City",
-      "url": "https://open.spotify.com/track/0qHt7KGw9LPm4Ms4qUZlSd"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "This Is The Modern World",
         "url": "https://open.spotify.com/album/1ofMLjpy6bhkxpOcD5y436"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 150626,
       "name": "The Modern World",
       "url": "https://open.spotify.com/track/1pXXriSh4lpOKFqsAWVdHe"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "The Record",
+        "url": "https://open.spotify.com/album/5n0IOSvGqBJf92LorDWvRE"
+      },
+      "artists": [
+        {
+          "name": "Fear",
+          "url": "https://open.spotify.com/artist/0hPU1czS0JdstuT8VRtBPS"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "I Love Livin' in the City",
+      "url": "https://open.spotify.com/track/0qHt7KGw9LPm4Ms4qUZlSd"
     },
     {
       "added_at": "2022-11-28 15:26:19",

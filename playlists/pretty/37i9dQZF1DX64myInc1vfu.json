@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Christian Nodal & TINI",
-  "num_followers": 65389,
+  "num_followers": 65440,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMGU0NjlkNzdhNzY4ZDk4MDEzNDg3YTk1MDBmOWJiYTNh",
+  "snapshot_id": "MTY3OTYzMDQwMCwwMDAwMDAwMDgzMjE3ZjE1ZDRiZTk2OTQzNGY4NjYwMDQ1OGVhY2Ni",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -607,6 +607,26 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Dos Gardenias",
+        "url": "https://open.spotify.com/album/1IoeRaaVfgwOkwH6dSPAZS"
+      },
+      "artists": [
+        {
+          "name": "Isaac et Nora",
+          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 181024,
+      "name": "Dos Gardenias",
+      "url": "https://open.spotify.com/track/7gxVugPbp7jMLmPjzhy1lt"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Saudade (Ac\u00fastica)",
         "url": "https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 296671,
       "name": "Saudade - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Dos Gardenias",
-        "url": "https://open.spotify.com/album/1IoeRaaVfgwOkwH6dSPAZS"
-      },
-      "artists": [
-        {
-          "name": "Isaac et Nora",
-          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 181024,
-      "name": "Dos Gardenias",
-      "url": "https://open.spotify.com/track/7gxVugPbp7jMLmPjzhy1lt"
     },
     {
       "added_at": "2023-03-24 04:00:00",

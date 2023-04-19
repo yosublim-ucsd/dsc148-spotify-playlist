@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0kolbeXuETTrQPEprHYda2">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,295 likes - 270 songs - 15 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,296 likes - 270 songs - 15 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 49 | [Life's Too Short \(English Version\)](https://open.spotify.com/track/2ouguQxJZn4jXisuNREqe5) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 2:58 |
 | 50 | [Way Too Long](https://open.spotify.com/track/4YMApzzqCO31TPxPvgdHhh) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Way Too Long](https://open.spotify.com/album/4PeGJQ4bZiathdzJ0bpj0X) | 2:30 |
 | 51 | [A Sweeter Place \(feat\. Kid Cudi\)](https://open.spotify.com/track/4bb94wZVF1cX66vQjNeJTX) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 4:23 |
-| 52 | [Mistakes](https://open.spotify.com/track/7sFWHYHbk3S5jKIG3rXjPd) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [EST\. 1989](https://open.spotify.com/album/7uua9VeRYOlEooVGZR53Is) | 3:06 |
-| 53 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 |
+| 52 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 |
+| 53 | [Mistakes](https://open.spotify.com/track/7sFWHYHbk3S5jKIG3rXjPd) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [EST\. 1989](https://open.spotify.com/album/7uua9VeRYOlEooVGZR53Is) | 3:06 |
 | 54 | [Happiness](https://open.spotify.com/track/4efdhHdTAS3sYJnI0mjHDc) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Confetti](https://open.spotify.com/album/33a8Ha3pE7fo2o4T4xLabF) | 3:17 |
 | 55 | [Told You So](https://open.spotify.com/track/3Mvd9KPeMf2YQa1MiQGKmV) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [LM5 \(Deluxe\)](https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj) | 3:12 |
 | 56 | [No](https://open.spotify.com/track/0ONFGnOEErh2tL0HY39F3V) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(The Experience\)](https://open.spotify.com/album/2gX0nMFSbHtcCY6F2GGgU4) | 3:03 |
@@ -211,8 +211,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 201 | [Done Me](https://open.spotify.com/track/2T6MSukHOnljzeymIcGKmk) | [Amun](https://open.spotify.com/artist/182fYJgynL0DcdVkEyUSRn) | [Done Me](https://open.spotify.com/album/4X5EoSLcpNwuQZxHmkMjWm) | 3:11 |
 | 202 | [Everything](https://open.spotify.com/track/7urCyCOzhOLrzgMzgfhluA) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Everybody's Talking About Jamie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3UqKCHOpXqyypagS12l4ns) | 3:48 |
 | 203 | [Suddenly](https://open.spotify.com/track/7kqrWavqHpsVWNy2iR6yDO) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Small Talk \- EP](https://open.spotify.com/album/6adnqzJgMLO8oJmzP0Kp28) | 3:28 |
-| 204 | [Silver Linings](https://open.spotify.com/track/3HH0rLObJZRRe1SK00Og6H) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Silver Linings](https://open.spotify.com/album/72T0alpDO0p68JS48Zswgu) | 3:53 |
-| 205 | [True \- Chambray Remix](https://open.spotify.com/track/5wy94ZiWnF1TiVzSUpxn0s) | [Mr\. Sosa](https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP), [Chambray](https://open.spotify.com/artist/4FUZzDnu4gBue46G99hesO) | [True \(Chambray Remix\)](https://open.spotify.com/album/5WUNkuxuDTKTfjBu5j4IX3) | 3:54 |
+| 204 | [True \- Chambray Remix](https://open.spotify.com/track/5wy94ZiWnF1TiVzSUpxn0s) | [Mr\. Sosa](https://open.spotify.com/artist/7cJsi55v9rMFw0HSOinyGP), [Chambray](https://open.spotify.com/artist/4FUZzDnu4gBue46G99hesO) | [True \(Chambray Remix\)](https://open.spotify.com/album/5WUNkuxuDTKTfjBu5j4IX3) | 3:54 |
+| 205 | [Silver Linings](https://open.spotify.com/track/3HH0rLObJZRRe1SK00Og6H) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Silver Linings](https://open.spotify.com/album/72T0alpDO0p68JS48Zswgu) | 3:53 |
 | 206 | [Perfect Harmony](https://open.spotify.com/track/0yGliNKLtDtfWokZHSpMo4) | [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [HER\-O](https://open.spotify.com/artist/0vhR4ixikG78qGRU7lJvHk), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Chilled Classics](https://open.spotify.com/album/2EnbPs8E7YyQq8AW72BTdm) | 5:13 |
 | 207 | [Honeymoon Phaze](https://open.spotify.com/track/5cbZFJlt0U08sKS6r0LFQo) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 5:32 |
 | 208 | [Touched By You](https://open.spotify.com/track/0OJ0C98JnN0PSJxlZ6VJJT) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:18 |
@@ -279,4 +279,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 269 | [Breathe \- Extended Reggaeton Rough Mix](https://open.spotify.com/track/7m7rZmcChdxe3SphKJZtL0) | [Kar Vogue](https://open.spotify.com/artist/1P0BWH63MKkRzVDo6KENaB) | [Big Hits in Reggaeton Mix Vol\. 1](https://open.spotify.com/album/3gIlukVpz1M1t8rBYUBn0t) | 4:32 |
 | 270 | [Bullshit](https://open.spotify.com/track/5vzmTUxuc6lnKXGfLX4AEY) | [Rose](https://open.spotify.com/artist/5l0hyotPty3d58l3w8x6EW) | [Bullshit](https://open.spotify.com/album/72cq4PGo2UgBCNMkZ7ma5F) | 2:34 |
 
-Snapshot ID: `MjgwMjk2MDQsMDAwMDAwMDAyMWQyNzYzZWQ2NWIzOTVmMmJhMzkyMzdhM2Y0Mzc3NA==`
+Snapshot ID: `MjgwMzEwNDQsMDAwMDAwMDAyNGRlZWE5M2Q2YTlhY2I2ODg1MDg0NGQ0OGE3MWE3Ng==`

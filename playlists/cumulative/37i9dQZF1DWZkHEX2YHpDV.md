@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: All Time Low
 
-922 songs - 2 day 0 hr 55 min
+923 songs - 2 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [Discourse](https://open.spotify.com/track/3tbvNiWIyOS4rJmR8b1pCz) | [Weigh the Anchor](https://open.spotify.com/artist/2mjqT7Yg4BYLmbzJJn0xb8) | [Right at Home](https://open.spotify.com/album/6wyeuVZCBxgaBwoju4iRLw) | 3:29 | 2022-01-14 | 2022-04-14 |
 | [Displacement](https://open.spotify.com/track/6pUvVBsTG47dZem4cPXhLw) | [Such Luck](https://open.spotify.com/artist/15dO6iv9muYfZhpu8BKfBU) | [Displacement](https://open.spotify.com/album/3SD2p4BjQMI79J5Yw07YJf) | 3:48 | 2022-02-04 | 2022-04-17 |
 | [Dissolution](https://open.spotify.com/track/3C8O9qGmNGLc4yGTOGCc9P) | [Awaken I Am](https://open.spotify.com/artist/3BwbgahlwovSpRfctWi8zY) | [Dissolution](https://open.spotify.com/album/7JOnLbKbDlfHBc5wxianpc) | 3:44 | 2022-03-25 | 2022-04-19 |
-| [Don't Be Racist](https://open.spotify.com/track/6fhA7RAtLJDiPPLfHhkjso) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Don't Be Racist](https://open.spotify.com/album/0VCDfLWvWT06qIxoCx33Mj) | 3:13 | 2022-07-08 |  |
+| [Don't Be Racist](https://open.spotify.com/track/6fhA7RAtLJDiPPLfHhkjso) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Don't Be Racist](https://open.spotify.com/album/0VCDfLWvWT06qIxoCx33Mj) | 3:13 | 2022-07-08 | 2023-04-19 |
 | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/track/1IflC51n9KG5JJh5sHVU1D) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Tyson Ritter](https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Teenage Heartbreak](https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9) | 2:36 | 2022-07-08 | 2022-11-05 |
 | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/track/6Tb41xQxfkhpuJOkaWNTMV) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Tyson Ritter](https://open.spotify.com/artist/683FoiwWxywQus0rfoml0x), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Don't Freak Out \(feat\. iann dior, Tyson Ritter & Travis Barker\)](https://open.spotify.com/album/6tZI7NswQRx6ufyTpkzu5c) | 2:36 | 2021-12-10 | 2022-07-25 |
 | [Don't Hate Me](https://open.spotify.com/track/4ysafP9rgpNQXYddVsepKW) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [Don't Hate Me](https://open.spotify.com/album/0JzhunpTxPRMXvmQW5ujm4) | 4:11 | 2021-12-10 | 2023-04-11 |
@@ -513,6 +513,7 @@
 | [Making Me Feel Safe](https://open.spotify.com/track/7AyTGGl1gZYBflnUR3FkUC) | [Daisyhead](https://open.spotify.com/artist/4zJP0fLge8dHeJxvGVKT7n) | [I've Been Better](https://open.spotify.com/album/4jM8Z0rNeV50VJAUWXPPhO) | 2:20 | 2021-12-10 | 2022-05-12 |
 | [Maniac \(feat\. Lindsey Stirling\)](https://open.spotify.com/track/68IZ94fW8i2g1b5zJeJZEU) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [\(e\)motion sickness](https://open.spotify.com/album/19QF8Q16dquh9yICxiJKEf) | 3:05 | 2022-07-08 | 2022-08-03 |
 | [Maniac \(feat\. Lindsey Stirling\)](https://open.spotify.com/track/3UOvbXlfZ34xiN1y0Mrjh9) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [\(e\)motion sickness](https://open.spotify.com/album/5Z9uaCooRD6HCzB8XqtxOZ) | 3:05 | 2022-06-17 | 2022-07-29 |
+| [MANIC MAN](https://open.spotify.com/track/0ioY5fitg2h9o2VgBtjVCj) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [MANIC MAN](https://open.spotify.com/album/2VYycGvZq7uUmzjqWN11V3) | 2:14 | 2023-04-10 |  |
 | [MANIC MAN](https://open.spotify.com/track/7BxSsv7qea87ygUSn4N8uK) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [MANIC MAN](https://open.spotify.com/album/4a6y5jyKNixZqbC3F8rCzb) | 2:14 | 2022-03-25 | 2023-04-13 |
 | [MANTRA](https://open.spotify.com/track/7dRj3sTBYkNbEx5kdNHriv) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [MANTRA](https://open.spotify.com/album/5V4SjUDKVzGxIJDxIHfOZ3) | 3:53 | 2022-03-25 | 2022-04-21 |
 | [Me Vs\. The World](https://open.spotify.com/track/3CXMsoCv6gYlcRLBz7WkNO) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Me Vs\. The World](https://open.spotify.com/album/2fZpg4oV91efW2YHl7EBW6) | 3:51 | 2021-12-10 | 2022-06-25 |

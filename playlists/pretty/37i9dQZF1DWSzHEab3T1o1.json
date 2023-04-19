@@ -1,12 +1,12 @@
 {
   "description": "El junte entre las estrellas del dance global y del urbano latino. Foto: Ghetto Kids, Major Lazer, Guaynaa, Tavo Rayo",
-  "num_followers": 7424,
+  "num_followers": 7425,
   "original_name": "Global Dance Crossover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjczOTg3MywwMDAwMDAwMDc1OThjZjdjMTM4YmIxM2I2NjdiNzI1MGIwMDhmYThk",
+  "snapshot_id": "MTY0MjczOTg3MywwMDAwMDAwMGQyN2Q1MzA1NDUxZjgwNTA0NGMxYjc1ZGM4MjZlZjQx",
   "tracks": [
     {
       "added_at": "2021-12-31 04:31:13",
@@ -499,30 +499,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Que Rica (Tocame)",
-        "url": "https://open.spotify.com/album/2AW6HCRfGox94vO7GMQSLD"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Sak Noel",
-          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
-        },
-        {
-          "name": "Salvi",
-          "url": "https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Que Rica (Tocame)",
-      "url": "https://open.spotify.com/track/1rNwUMlrGFUMn5LaYy71Gq"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Dancing On Dangerous",
         "url": "https://open.spotify.com/album/3jkuK2ShKMXEjgI2B7aw1o"
       },
@@ -543,6 +519,30 @@
       "duration_ms": 123428,
       "name": "Dancing On Dangerous",
       "url": "https://open.spotify.com/track/0lipGKQoFraacrrBb3Qyg4"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Que Rica (Tocame)",
+        "url": "https://open.spotify.com/album/2AW6HCRfGox94vO7GMQSLD"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Sak Noel",
+          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
+        },
+        {
+          "name": "Salvi",
+          "url": "https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Que Rica (Tocame)",
+      "url": "https://open.spotify.com/track/1rNwUMlrGFUMn5LaYy71Gq"
     },
     {
       "added_at": "2021-12-31 04:31:13",

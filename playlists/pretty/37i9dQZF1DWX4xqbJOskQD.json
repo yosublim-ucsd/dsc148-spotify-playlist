@@ -1,12 +1,12 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1543,
+  "num_followers": 1544,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMDgwYzQ2ZTJjNjEzMGJkOTQ1N2U4MGZmZjVmNGFmMWRj",
+  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMDdjZDczNGQ1NGM4YzQxZTYyMmMzYTBmZTczNjk2Y2I2",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -495,26 +495,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "The Board Of Directors",
-        "url": "https://open.spotify.com/album/7cgj7WQBm6SlACUXiJR3lH"
-      },
-      "artists": [
-        {
-          "name": "The Mills Brothers",
-          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 208052,
-      "name": "(Up A) Lazy River",
-      "url": "https://open.spotify.com/track/2tdciiLh3jZSzWBXaxo5oH"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "The War Years (1941-1947)",
         "url": "https://open.spotify.com/album/3xseO3iLY7v7dL7VP6jpsH"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 188293,
       "name": "For Sentimental Reasons",
       "url": "https://open.spotify.com/track/5t5S4nyn6OWZRpSo260sjo"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "The Board Of Directors",
+        "url": "https://open.spotify.com/album/7cgj7WQBm6SlACUXiJR3lH"
+      },
+      "artists": [
+        {
+          "name": "The Mills Brothers",
+          "url": "https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 208052,
+      "name": "(Up A) Lazy River",
+      "url": "https://open.spotify.com/track/2tdciiLh3jZSzWBXaxo5oH"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -695,22 +695,6 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
-        "name": "Best Of The Four Coins",
-        "url": "https://open.spotify.com/album/5QpanrSfnut4MbnbG8ryH9"
-      },
-      "artists": [
-        {
-          "name": "The Four Coins",
-          "url": "https://open.spotify.com/artist/1XQXkciRULT2PXhRUtmmuH"
-        }
-      ],
-      "duration_ms": 139520,
-      "name": "My One Sin",
-      "url": "https://open.spotify.com/track/0gWKRxc5ncnS3wxXF1E9jV"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
         "name": "Imagination",
         "url": "https://open.spotify.com/album/0N0IsbV6VEvnx6e6gmD9Qb"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 171960,
       "name": "Early Autumn",
       "url": "https://open.spotify.com/track/5st46QqB3wCTdFPUso9lll"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "Best Of The Four Coins",
+        "url": "https://open.spotify.com/album/5QpanrSfnut4MbnbG8ryH9"
+      },
+      "artists": [
+        {
+          "name": "The Four Coins",
+          "url": "https://open.spotify.com/artist/1XQXkciRULT2PXhRUtmmuH"
+        }
+      ],
+      "duration_ms": 139520,
+      "name": "My One Sin",
+      "url": "https://open.spotify.com/track/0gWKRxc5ncnS3wxXF1E9jV"
     },
     {
       "added_at": "2020-08-17 22:49:59",

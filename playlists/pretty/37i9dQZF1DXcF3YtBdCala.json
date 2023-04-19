@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Paola Jara en portada. ",
-  "num_followers": 125832,
+  "num_followers": 125850,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDJmMDkwZWQ5MThhNTlkMjRhZmNiNDUxZTdlZDcxNjI4",
+  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDE0NzllMzU4ZTRiNzJiZDAyZDM0NzcxMWE2YmFiZmVh",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Desarmada - Spotify Singles",
-        "url": "https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 151968,
-      "name": "Desarmada - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Que Se Sepa Nuestro Amor",
         "url": "https://open.spotify.com/album/4x4PysnRPmxowKVz2RKGjr"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 179693,
       "name": "Que Se Sepa Nuestro Amor",
       "url": "https://open.spotify.com/track/62ODSzQJBgvz647ZaP9iym"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Desarmada - Spotify Singles",
+        "url": "https://open.spotify.com/album/4lzjjzwvPHCGW5LOWTQHih"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 151968,
+      "name": "Desarmada - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Sq8nivB0lT67tpg2xgIcG"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Ese Fui Yo",
-        "url": "https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom"
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB"
       },
       "artists": [
         {
-          "name": "Nab\u00e1lez",
-          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
         }
       ],
-      "duration_ms": 162133,
-      "name": "Ese Fui Yo",
-      "url": "https://open.spotify.com/track/5PK6gIPq56QfTF9DIhWEgR"
+      "duration_ms": 157607,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Ese Fui Yo",
+        "url": "https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom"
+      },
+      "artists": [
+        {
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+        }
+      ],
+      "duration_ms": 162133,
+      "name": "Ese Fui Yo",
+      "url": "https://open.spotify.com/track/5PK6gIPq56QfTF9DIhWEgR"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Te Seguir\u00e9 Queriendo",
         "url": "https://open.spotify.com/album/0dulJ0c8NRZ33f7VswWSxH"
       },
@@ -1135,122 +1151,6 @@
       "duration_ms": 215099,
       "name": "Te Seguir\u00e9 Queriendo",
       "url": "https://open.spotify.com/track/20QNDtc0S5p4CracDvoG94"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Todo Me Recuerda A Ti",
-        "url": "https://open.spotify.com/album/7sQmXyi4Bd9aw1q7mradRJ"
-      },
-      "artists": [
-        {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
-        },
-        {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
-        }
-      ],
-      "duration_ms": 208106,
-      "name": "Todo Me Recuerda A Ti",
-      "url": "https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "La Llorona",
-        "url": "https://open.spotify.com/album/0vx6yN3peiZnWGIK3yxgZX"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 226048,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/5AOEudcsj9BbSfDbRjxkpO"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Navajas En El Viento",
-        "url": "https://open.spotify.com/album/2yGAqrfzTvChwWsB10c5Nj"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "Navajas En El Viento",
-      "url": "https://open.spotify.com/track/6EhatS1CYbGwgn1Sip0nG7"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Los Besos Jam\u00e1s",
-        "url": "https://open.spotify.com/album/1ZvZDdo2wp8MnzLUkocjgM"
-      },
-      "artists": [
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 195140,
-      "name": "Los Besos Jam\u00e1s",
-      "url": "https://open.spotify.com/track/7pj6fB6ohdQBAsI4fVUUUd"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Buscando el Olvido",
-        "url": "https://open.spotify.com/album/49Dk6xhj6vzfkl71ngoMZJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 152487,
-      "name": "Buscando el Olvido",
-      "url": "https://open.spotify.com/track/56aRaS11MbGV9Co9mOKjdP"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Te Quise Olvidar",
-        "url": "https://open.spotify.com/album/2Zt6BjmuPDe7uAbSjj4RmN"
-      },
-      "artists": [
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 228080,
-      "name": "Te Quise Olvidar",
-      "url": "https://open.spotify.com/track/2uHDgDlrL67P9rIWLN7SHU"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        }
-      ],
-      "duration_ms": 157607,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1275,6 +1175,130 @@
       "duration_ms": 175813,
       "name": "Asi Soy Yo - Remix",
       "url": "https://open.spotify.com/track/2lCWraVKfxzcazOS9mxu5T"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Todo Me Recuerda A Ti",
+        "url": "https://open.spotify.com/album/7sQmXyi4Bd9aw1q7mradRJ"
+      },
+      "artists": [
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+        }
+      ],
+      "duration_ms": 208106,
+      "name": "Todo Me Recuerda A Ti",
+      "url": "https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Navajas En El Viento",
+        "url": "https://open.spotify.com/album/2yGAqrfzTvChwWsB10c5Nj"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "Navajas En El Viento",
+      "url": "https://open.spotify.com/track/6EhatS1CYbGwgn1Sip0nG7"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "La Llorona",
+        "url": "https://open.spotify.com/album/0vx6yN3peiZnWGIK3yxgZX"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 226048,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/5AOEudcsj9BbSfDbRjxkpO"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Buscando el Olvido",
+        "url": "https://open.spotify.com/album/49Dk6xhj6vzfkl71ngoMZJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 152487,
+      "name": "Buscando el Olvido",
+      "url": "https://open.spotify.com/track/56aRaS11MbGV9Co9mOKjdP"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Los Besos Jam\u00e1s",
+        "url": "https://open.spotify.com/album/1ZvZDdo2wp8MnzLUkocjgM"
+      },
+      "artists": [
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 195140,
+      "name": "Los Besos Jam\u00e1s",
+      "url": "https://open.spotify.com/track/7pj6fB6ohdQBAsI4fVUUUd"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Te Quise Olvidar",
+        "url": "https://open.spotify.com/album/2Zt6BjmuPDe7uAbSjj4RmN"
+      },
+      "artists": [
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        }
+      ],
+      "duration_ms": 228080,
+      "name": "Te Quise Olvidar",
+      "url": "https://open.spotify.com/track/2uHDgDlrL67P9rIWLN7SHU"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "No Copio de Nada",
+        "url": "https://open.spotify.com/album/6i0OPQJveV0dkMlOb3jQWF"
+      },
+      "artists": [
+        {
+          "name": "Giovanny Ayala",
+          "url": "https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv"
+        },
+        {
+          "name": "King Daga",
+          "url": "https://open.spotify.com/artist/1F1Ldin7CSAXrPvhZnEJn3"
+        },
+        {
+          "name": "JHONA",
+          "url": "https://open.spotify.com/artist/4iF9IJDzc3ikrG2OiJfrwT"
+        }
+      ],
+      "duration_ms": 167449,
+      "name": "No Copio de Nada",
+      "url": "https://open.spotify.com/track/7GUU8AOCa3lTVSNlLlsVW0"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1323,30 +1347,6 @@
       "duration_ms": 215487,
       "name": "Tu Adi\u00f3s Como Tequila - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/6ByvWKgYeXKxw8WXQzluWi"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "No Copio de Nada",
-        "url": "https://open.spotify.com/album/6i0OPQJveV0dkMlOb3jQWF"
-      },
-      "artists": [
-        {
-          "name": "Giovanny Ayala",
-          "url": "https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv"
-        },
-        {
-          "name": "King Daga",
-          "url": "https://open.spotify.com/artist/1F1Ldin7CSAXrPvhZnEJn3"
-        },
-        {
-          "name": "JHONA",
-          "url": "https://open.spotify.com/artist/4iF9IJDzc3ikrG2OiJfrwT"
-        }
-      ],
-      "duration_ms": 167449,
-      "name": "No Copio de Nada",
-      "url": "https://open.spotify.com/track/7GUU8AOCa3lTVSNlLlsVW0"
     }
   ],
   "unique_name": "Mariachi Joven",

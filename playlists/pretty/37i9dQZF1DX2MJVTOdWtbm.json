@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Chicocurlyhead\n",
-  "num_followers": 106061,
+  "num_followers": 106101,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4NDk1NiwwMDAwMDAwMDNkZmE1Njk0ZDkwNTZkNDQzNTE2MjZiMTE1NjI4ZDQx",
+  "snapshot_id": "MTY3ODQ4NDk1NiwwMDAwMDAwMDk2Y2M1YzBjZDk4NzIxNzcxNzE0MDE5ZjBjNDYzMTBh",
   "tracks": [
     {
       "added_at": "2023-03-10 21:49:16",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
+        "name": "BeSos aL vIEnTo :(",
+        "url": "https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "BeSos aL vIEnTo :(",
+      "url": "https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
         "name": "Ac\u00e9rcate",
         "url": "https://open.spotify.com/album/5d8ygrapgzsFXavPw9Snkl"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 167218,
       "name": "Ac\u00e9rcate",
       "url": "https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
-        "name": "BeSos aL vIEnTo :(",
-        "url": "https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "BeSos aL vIEnTo :(",
-      "url": "https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Wild Americanos",
-        "url": "https://open.spotify.com/album/7vkUNL3WH7fg4PwqQlM0fJ"
-      },
-      "artists": [
-        {
-          "name": "COASTCITY",
-          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "WILD AMERICANOS",
-      "url": "https://open.spotify.com/track/44cCOL0LvNHqf9StxUvQ5F"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "Cabr\u00f3n",
         "url": "https://open.spotify.com/album/0WYn2pJadzB9tiWzC4svkf"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 179813,
       "name": "Cabr\u00f3n",
       "url": "https://open.spotify.com/track/3s7va3f0Sxww7MgvqUpThW"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "Wild Americanos",
+        "url": "https://open.spotify.com/album/7vkUNL3WH7fg4PwqQlM0fJ"
+      },
+      "artists": [
+        {
+          "name": "COASTCITY",
+          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
+        }
+      ],
+      "duration_ms": 245666,
+      "name": "WILD AMERICANOS",
+      "url": "https://open.spotify.com/track/44cCOL0LvNHqf9StxUvQ5F"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/4UDWBqFdxvXJfGwRsqxtKj"
-      },
-      "artists": [
-        {
-          "name": "Fernanda",
-          "url": "https://open.spotify.com/artist/4ofHy9bcqR6gBvOBIvCyC0"
-        }
-      ],
-      "duration_ms": 137794,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/0P3E62IdOliXiZ1hJdU0B5"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "Flavors 3",
         "url": "https://open.spotify.com/album/2AE8X5DCAuquqbJCQQRhT6"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 149458,
       "name": "What More",
       "url": "https://open.spotify.com/track/5nnj82z3JN9DALrgb6lowY"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/4UDWBqFdxvXJfGwRsqxtKj"
+      },
+      "artists": [
+        {
+          "name": "Fernanda",
+          "url": "https://open.spotify.com/artist/4ofHy9bcqR6gBvOBIvCyC0"
+        }
+      ],
+      "duration_ms": 137794,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/0P3E62IdOliXiZ1hJdU0B5"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Uh Huh",
-        "url": "https://open.spotify.com/album/0QWu0i9aspqONLrrVisUsf"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        }
-      ],
-      "duration_ms": 163541,
-      "name": "Uh Huh",
-      "url": "https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "Na Pa Ti (feat. Kofi)",
         "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 173098,
       "name": "Na Pa Ti (feat. Kofi)",
       "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "Uh Huh",
+        "url": "https://open.spotify.com/album/0QWu0i9aspqONLrrVisUsf"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        }
+      ],
+      "duration_ms": 163541,
+      "name": "Uh Huh",
+      "url": "https://open.spotify.com/track/7L5xzfKz9Lich6YoaDTTfX"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "La Patrona",
-        "url": "https://open.spotify.com/album/7GTks3uBI8W9D2EeFYp9V1"
+        "name": "Nela",
+        "url": "https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID"
       },
       "artists": [
         {
-          "name": "Aleesha",
-          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
         }
       ],
-      "duration_ms": 211688,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/23GhLjcJ26QGrn7g4saZ4k"
+      "duration_ms": 163516,
+      "name": "Nela",
+      "url": "https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx"
     }
   ],
   "unique_name": "Latin R&B",

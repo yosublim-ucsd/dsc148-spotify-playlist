@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: GAYLE
 
-597 songs - 1 day 7 hr 11 min
+598 songs - 1 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Friends With Benefits](https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Friends With Benefits](https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N) | 3:07 | 2023-03-17 |  |
 | [From The Back of a Cab](https://open.spotify.com/track/240azm4eUSWi4hXU2MLCFM) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [From The Back of a Cab](https://open.spotify.com/album/1VOGrBNajNlZyctv9c9jk8) | 2:47 | 2022-03-24 | 2022-04-16 |
 | [FUCK ABOUT IT \(feat\. blackbear\)](https://open.spotify.com/track/3MOKBkpsarb0AfAABcLAsn) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [FUCK ABOUT IT](https://open.spotify.com/album/2U9uohrVqMVGb1pBqPFTXX) | 2:52 | 2022-10-14 | 2023-01-30 |
+| [FUCK ABOUT IT \(feat\. blackbear\)](https://open.spotify.com/track/4e4htLKeAZFildRW8D2Itx) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:52 | 2023-04-07 |  |
 | [FUCK ABOUT IT \(feat\. blackbear\)](https://open.spotify.com/track/7dNMMq9Y14fCKCNIKK95SB) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:52 | 2022-11-11 | 2023-04-17 |
 | [FUNERAL GREY](https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:44 | 2023-03-17 | 2023-04-17 |
 | [FUNERAL GREY](https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 | 2023-04-07 |  |
@@ -487,7 +488,7 @@
 | [Slam \(Angel Miners\)](https://open.spotify.com/track/7CyFol088Z8iL4mDsSrgXA) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Slam \(Angel Miners\)](https://open.spotify.com/album/1QQG3ERdrTV7vQvNQh1sXG) | 4:48 | 2022-03-24 | 2022-04-18 |
 | [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 | 2023-03-17 |  |
 | [slowdown](https://open.spotify.com/track/3VMMl848gC3L3OqCXwl1uF) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [simulation](https://open.spotify.com/album/4Y49Day8mdKqVqhFoVJFRX) | 2:43 | 2022-03-24 | 2022-04-21 |
-| [Slowly Healing](https://open.spotify.com/track/67nyrWSrrWoUDTZJX4MjTl) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Slowly Healing](https://open.spotify.com/album/7AbtRZ6tCp19EsBFyAiVm7) | 2:34 | 2023-03-17 |  |
+| [Slowly Healing](https://open.spotify.com/track/67nyrWSrrWoUDTZJX4MjTl) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Slowly Healing](https://open.spotify.com/album/7AbtRZ6tCp19EsBFyAiVm7) | 2:34 | 2023-03-17 | 2023-04-19 |
 | [smoke break//](https://open.spotify.com/track/1P9VGEZN9L7YbIlsENOtJW) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SURVIVORS GUILT: THE MIXTAPE//](https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY) | 3:02 | 2022-03-24 | 2022-04-19 |
 | [so what!](https://open.spotify.com/track/1UTnLtgadp10wkFrDWXn3u) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [so what!](https://open.spotify.com/album/600i38QcfI9f9rZZUNzRiA) | 2:04 | 2022-08-19 | 2022-08-27 |
 | [Sober/Hungover \(feat\. Arizona Zervas\)](https://open.spotify.com/track/4yfQyGR61s7Mc5898V1BE6) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [Sober/Hungover \(feat\. Arizona Zervas\)](https://open.spotify.com/album/7eZqdxIfr07B8Vr02Ijd5K) | 2:49 | 2022-03-17 | 2022-07-27 |

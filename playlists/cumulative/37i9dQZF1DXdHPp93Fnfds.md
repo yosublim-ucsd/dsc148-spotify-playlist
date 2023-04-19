@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: RENEE
 
-485 songs - 1 day 3 hr 49 min
+486 songs - 1 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,7 +294,7 @@
 | [Nabundearé](https://open.spotify.com/track/53qZjbmjh3d3nbzxEzKOkF) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Crisálida](https://open.spotify.com/album/76XYjBKZrBuAj50Vyxpiur) | 2:55 | 2022-09-02 |  |
 | [Nada](https://open.spotify.com/track/3jtScBEbsSCwtHX0Vgcps4) | [AnaLu](https://open.spotify.com/artist/4jdzNnXPIXGaJEU06L5b8F), [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Nada](https://open.spotify.com/album/50nxmSkAJM5mEmqwjVfp0a) | 3:47 | 2022-01-21 | 2022-07-22 |
 | [Nada](https://open.spotify.com/track/3ZN8ok1idMxc5AFOUs4uim) | [Anastasia Amarante](https://open.spotify.com/artist/6b3WWqGeBBkcnO1YcFE304) | [Nada](https://open.spotify.com/album/3VGRzWSNxAghWIE998mES2) | 3:11 | 2022-04-01 | 2022-04-29 |
-| [Nada](https://open.spotify.com/track/0IqrBjsS2wToMuIJgZjur7) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Nada](https://open.spotify.com/album/6uvd9g2I5M3x6EaKusdJDK) | 4:58 | 2022-01-14 |  |
+| [Nada](https://open.spotify.com/track/0IqrBjsS2wToMuIJgZjur7) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Nada](https://open.spotify.com/album/6uvd9g2I5M3x6EaKusdJDK) | 4:58 | 2022-01-14 | 2023-04-19 |
 | [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 | 2022-01-14 |  |
 | [Natural](https://open.spotify.com/track/1fzRUSGF8OzeMOGmJLkXaR) | [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i), [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [Natural](https://open.spotify.com/album/310qqhmBnvOOGcuBMZapKN) | 3:36 | 2022-01-14 | 2022-07-29 |
 | [Negación](https://open.spotify.com/track/2f0RBeCZ2lP3Ql0T53w2Er) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Negación](https://open.spotify.com/album/4xFkB2ZPujTA2EPCIHVgr9) | 4:26 | 2022-01-21 | 2022-07-29 |
@@ -377,6 +377,7 @@
 | [Qué Raro Es Este Lugar](https://open.spotify.com/track/6P39XaKGRchk7Ug7jSIWQe) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Qué Raro Es Este Lugar](https://open.spotify.com/album/1npZZgI8E99ZyQKj9jpPcJ) | 4:13 | 2022-01-21 | 2022-07-12 |
 | [Quédate Conmigo](https://open.spotify.com/track/2PAGL78AFYwlh6wWIL8QZW) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz) | [Quédate Conmigo](https://open.spotify.com/album/706qXMe3arkBNE7WRwPlG8) | 3:27 | 2022-01-21 | 2022-07-27 |
 | [Radar](https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Radar](https://open.spotify.com/album/21upJvK4VBVEwgyftb1k58) | 2:42 | 2022-01-14 | 2023-04-14 |
+| [Radar](https://open.spotify.com/track/4nW9jVbdboPpVCFJ8UWeKX) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Radar](https://open.spotify.com/album/3CiE56hBxIZtHpAWZHScv5) | 2:42 | 2023-04-14 |  |
 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 | 2023-03-24 |  |
 | [Random No](https://open.spotify.com/track/37ldNgdC4zuG8Ibd5y00rA) | [Tani](https://open.spotify.com/artist/2L37ilKeNfoAADHEwH2Gf0) | [Random No](https://open.spotify.com/album/320ZKz7o0fTv8uMyBaIs7k) | 3:25 | 2022-02-11 | 2022-07-27 |
 | [Rara](https://open.spotify.com/track/4nVKNgndC4DezUMjNY3Yvz) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Planes para Hoy](https://open.spotify.com/album/4FdQLnzWnqdUCgNV1qc2Bc) | 4:43 | 2022-02-11 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 100930,
+  "num_followers": 101046,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMDE2ZDk4ZTkyNDZmZWE3NmU1NjJjN2JjZGZkNGU4MDA4",
+  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMDMxNjQ5MTFkMzIzMTc2YzgzMzlhNTUxODU2MjBjZmRi",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "El Pr\u00edncipe de la Canci\u00f3n",
+        "url": "https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 233240,
+      "name": "No Me Digas Que Te Vas",
+      "url": "https://open.spotify.com/track/5mWkMREMASdLaUI55kLxiz"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Los D\u00fao (Deluxe)",
         "url": "https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 374106,
       "name": "Ya No Vivo Por Vivir",
       "url": "https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "El Pr\u00edncipe de la Canci\u00f3n",
-        "url": "https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 233240,
-      "name": "No Me Digas Que Te Vas",
-      "url": "https://open.spotify.com/track/5mWkMREMASdLaUI55kLxiz"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "40 Y 20",
-        "url": "https://open.spotify.com/album/72HLf3LP783UMuU1zQ6XgL"
+        "name": "El Mexico Que Se Nos Fue",
+        "url": "https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
         }
       ],
-      "duration_ms": 262240,
-      "name": "Eso Nom\u00e1s",
-      "url": "https://open.spotify.com/track/7EmvOxDhWWlxIktbT4Yhgo"
+      "duration_ms": 277120,
+      "name": "El M\u00e9xico Que Se Nos Fue",
+      "url": "https://open.spotify.com/track/0pgLQNQUeji7Dc7SASQaIW"
     }
   ],
   "unique_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",

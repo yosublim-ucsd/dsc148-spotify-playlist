@@ -74,7 +74,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 322842,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/6lAiWBSXcW4vO25LckdYlN"
@@ -336,7 +336,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 232506,
       "name": "Blues for K",
       "url": "https://open.spotify.com/track/1VnOzW4zYaDifRPreUur35"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-22",
+      "date_removed": null,
       "duration_ms": 379520,
       "name": "Extra Freedom",
       "url": "https://open.spotify.com/track/0ViSJTe0YkVRP5FXcNo91V"
@@ -742,7 +742,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 405120,
       "name": "Good Thing Will Happen",
       "url": "https://open.spotify.com/track/0s7Z1aZPuSyOno3IVZdLta"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 274982,
       "name": "La Ritournelle",
       "url": "https://open.spotify.com/track/4J5oY955l3aXEmOJ7KS5l1"
@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 423263,
       "name": "Mile in the green",
       "url": "https://open.spotify.com/track/7rkZY26t32ha7lGHGnsGH7"
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 458306,
       "name": "New Friends 1",
       "url": "https://open.spotify.com/track/1PC2s55zuUhTv2f0GzMQ9t"
@@ -1560,7 +1560,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-05",
+      "date_removed": null,
       "duration_ms": 716744,
       "name": "SAMURAI - 2022 version",
       "url": "https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu"
@@ -1578,7 +1578,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 249151,
       "name": "Saudade Vem Correndo",
       "url": "https://open.spotify.com/track/1oJ7QLrQyShj1DDPl4UFlt"
@@ -1662,7 +1662,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 196416,
       "name": "Session zero - Feat. \u99ac\u5834\u667a\u7ae0",
       "url": "https://open.spotify.com/track/5RDAfd9hVQA9IqlAaxpVIP"
@@ -1734,7 +1734,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 389600,
       "name": "Some Other Time",
       "url": "https://open.spotify.com/track/2s8Eg9LjyhozDr2S35OKf2"
@@ -1838,13 +1838,13 @@
       },
       "artists": [
         {
-          "name": "INO hidefumi",
+          "name": "Hidefumi Ino",
           "url": "https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S"
         }
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-21",
+      "date_removed": null,
       "duration_ms": 236907,
       "name": "Squall",
       "url": "https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni"
@@ -1906,6 +1906,24 @@
       "duration_ms": 270000,
       "name": "Synapse",
       "url": "https://open.spotify.com/track/1GrmygOfLmflrho3gQRw9J"
+    },
+    {
+      "album": {
+        "name": "Thanks For Emily",
+        "url": "https://open.spotify.com/album/6SnmxEiNhgy8qvJGOsUOb8"
+      },
+      "artists": [
+        {
+          "name": "Fumika Asari",
+          "url": "https://open.spotify.com/artist/0XhLhf8Kv1Ox6l7Y2l9gtK"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339536,
+      "name": "Thanks For Emily",
+      "url": "https://open.spotify.com/track/5pXuqemHKZqtHMTAbFRVFK"
     },
     {
       "album": {
@@ -2082,6 +2100,24 @@
       "duration_ms": 361733,
       "name": "Tiger Rag",
       "url": "https://open.spotify.com/track/1vIrFpbVFbdDNoELavkLhz"
+    },
+    {
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/6nDbJwLVkoi5z4Y3VwLulm"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u6ca2\u54b2\u5e0c",
+          "url": "https://open.spotify.com/artist/7rshbxxDcP56wNcT7cRea1"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303600,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/4bc7kYSSKRDeFJGYEzNJAp"
     },
     {
       "album": {
@@ -2627,6 +2663,24 @@
     },
     {
       "album": {
+        "name": "One Step Beyond",
+        "url": "https://open.spotify.com/album/6C5hS53oCZ67Vz7M9gEAeW"
+      },
+      "artists": [
+        {
+          "name": "\u6a4b\u672c\u82b3",
+          "url": "https://open.spotify.com/artist/1w2jeP5GS2uAD6zvs0M9dj"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401519,
+      "name": "\u51ac\u82bd",
+      "url": "https://open.spotify.com/track/1WK88cyLnq7C3KZEZ3dfme"
+    },
+    {
+      "album": {
         "name": "\u591c\u7a7a\u304b\u3089\u306e\u6765\u8a2a\u8005",
         "url": "https://open.spotify.com/album/2AzD81GRzNTh234cFXEwgm"
       },
@@ -2696,6 +2750,24 @@
       "duration_ms": 258000,
       "name": "\u672c\u65e5\u306f\u6674\u5929",
       "url": "https://open.spotify.com/track/3STBOXNnwPWEwDdxfHPuqF"
+    },
+    {
+      "album": {
+        "name": "TOKYO JUNK BOOGIE",
+        "url": "https://open.spotify.com/album/3LIgXpMVtzTywubYgtUgdM"
+      },
+      "artists": [
+        {
+          "name": "Mari Natsuki",
+          "url": "https://open.spotify.com/artist/2pNYWL608THXN3ExiA5iay"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200751,
+      "name": "\u6771\u4eac\u30d6\u30ae\u30a6\u30ae - JUNK BOOGIE",
+      "url": "https://open.spotify.com/track/78EdyJD8l2uwT3Kw0ppViW"
     },
     {
       "album": {

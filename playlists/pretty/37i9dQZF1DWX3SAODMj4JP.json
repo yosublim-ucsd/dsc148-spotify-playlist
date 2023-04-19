@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 100731,
+  "num_followers": 100853,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIzNzE1NSwwMDAwMDAwMDEzOGI3ODdiYjlmZTU0MDEwOGM0OGY1MmMyY2I1YjY2",
+  "snapshot_id": "MTY3NzIzNzE1NSwwMDAwMDAwMDBlMTA1ZmM2ZGI2OWI3NzE4ZGYzYTY1MTY5NTE0OWJl",
   "tracks": [
     {
       "added_at": "2023-02-24 11:12:35",
@@ -183,8 +183,8 @@
     {
       "added_at": "2023-02-24 11:12:35",
       "album": {
-        "name": "360 Graus",
-        "url": "https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq"
+        "name": "Se Eu Cair",
+        "url": "https://open.spotify.com/album/7AP25ejchlZmcQOautJjQv"
       },
       "artists": [
         {
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 250485,
-      "name": "Aonde Est\u00e1 Deus?",
-      "url": "https://open.spotify.com/track/3fkXc9AcNBPiwfWqis8xKF"
+      "duration_ms": 335597,
+      "name": "Se Eu Cair",
+      "url": "https://open.spotify.com/track/70Cd7reM6PwvADdxqJfF5g"
     },
     {
       "added_at": "2023-02-24 11:12:35",
@@ -363,8 +363,8 @@
     {
       "added_at": "2023-02-24 11:12:35",
       "album": {
-        "name": "Se Eu Cair",
-        "url": "https://open.spotify.com/album/7AP25ejchlZmcQOautJjQv"
+        "name": "360 Graus",
+        "url": "https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 335597,
-      "name": "Se Eu Cair",
-      "url": "https://open.spotify.com/track/70Cd7reM6PwvADdxqJfF5g"
+      "duration_ms": 250485,
+      "name": "Aonde Est\u00e1 Deus?",
+      "url": "https://open.spotify.com/track/3fkXc9AcNBPiwfWqis8xKF"
     },
     {
       "added_at": "2023-02-24 11:12:35",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-02-24 11:12:35",
       "album": {
+        "name": "Rastros e Trilha",
+        "url": "https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA"
+      },
+      "artists": [
+        {
+          "name": "Os Arrais",
+          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
+        }
+      ],
+      "duration_ms": 302653,
+      "name": "Deserto",
+      "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
+    },
+    {
+      "added_at": "2023-02-24 11:12:35",
+      "album": {
         "name": "III (Studio Sessions)",
         "url": "https://open.spotify.com/album/5lGAYuSF5A5x1BWeFG3r4z"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 267972,
       "name": "Incrivelmente",
       "url": "https://open.spotify.com/track/7e5dxB4XlHbzakVj25TvQS"
-    },
-    {
-      "added_at": "2023-02-24 11:12:35",
-      "album": {
-        "name": "Rastros e Trilha",
-        "url": "https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA"
-      },
-      "artists": [
-        {
-          "name": "Os Arrais",
-          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
-        }
-      ],
-      "duration_ms": 302653,
-      "name": "Deserto",
-      "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
     },
     {
       "added_at": "2023-02-24 11:12:35",

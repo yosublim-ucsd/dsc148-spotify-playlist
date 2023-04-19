@@ -556,10 +556,28 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 265528,
       "name": "If You Let Me (acoustic)",
       "url": "https://open.spotify.com/track/34saUkPG912g18oQd8FT3R"
+    },
+    {
+      "album": {
+        "name": "Lessons in Love - Acoustic",
+        "url": "https://open.spotify.com/album/7Brn5xksipm26z6uGJ7Dt2"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265528,
+      "name": "If You Let Me (acoustic)",
+      "url": "https://open.spotify.com/track/6kjaMOoa3sHTeCVtQ9ctPz"
     },
     {
       "album": {

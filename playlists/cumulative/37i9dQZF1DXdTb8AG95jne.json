@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Glen Check(\uae00\ub80c\uccb4\ud06c)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: OhYoon(\uc624\uc724)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "In The K-Indie",
   "tracks": [
     {
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 145040,
       "name": "Cactus, Cactus",
       "url": "https://open.spotify.com/track/1rY2ceqiDFkB9NbV4efQOj"
@@ -3326,7 +3326,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-04",
+      "date_removed": null,
       "duration_ms": 204000,
       "name": "GRIPPIN\u2019THEGREEN",
       "url": "https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk"
@@ -8500,7 +8500,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 200000,
       "name": "Stumble",
       "url": "https://open.spotify.com/track/3A7LdxbwGAqdMZlRXj4OoB"
@@ -8876,6 +8876,24 @@
       "duration_ms": 231868,
       "name": "The Cat House \uace0\uc591\uc774 \uc9d1",
       "url": "https://open.spotify.com/track/3gOrrjFANav8rcfBiHXFnM"
+    },
+    {
+      "album": {
+        "name": "The hand that's out to you",
+        "url": "https://open.spotify.com/album/3Zlaon3fpaAjhwzZLYbIYv"
+      },
+      "artists": [
+        {
+          "name": "OhYoon",
+          "url": "https://open.spotify.com/artist/3E3GZJRleQR8QkRaFciIqV"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182813,
+      "name": "The hand that's out to you",
+      "url": "https://open.spotify.com/track/4VKosqBYXQACTfXQ5cGL88"
     },
     {
       "album": {

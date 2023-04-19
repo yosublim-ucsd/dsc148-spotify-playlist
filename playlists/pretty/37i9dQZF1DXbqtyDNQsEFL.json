@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. ",
-  "num_followers": 33392,
+  "num_followers": 33450,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ3ODAwNSwwMDAwMDAwMGVjNzEzYTdlNmE4YWIwOWRiM2Q1ODIwYzRmYzFjYTFk",
+  "snapshot_id": "MTY4MTQ3ODAwNSwwMDAwMDAwMGIwM2JiYThhOGFhMmZhNjZjYzc4NjExM2QxYjFkZDJh",
   "tracks": [
     {
       "added_at": "2023-04-14 13:13:25",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "More Than Music (Transcendent Worship)",
-        "url": "https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 632469,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/6WxUoDi4xnl4E1NDrcAewm"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
         "name": "Born of God",
         "url": "https://open.spotify.com/album/1IkGtT3gU6fHxhqRVL6inf"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 332573,
       "name": "Fix My Eyes on You",
       "url": "https://open.spotify.com/track/1kpwm7MhD1TXAG7Sd9CNNN"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
+        "name": "More Than Music (Transcendent Worship)",
+        "url": "https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 632469,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/6WxUoDi4xnl4E1NDrcAewm"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -819,30 +819,6 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
-        "url": "https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        },
-        {
-          "name": "Peter CottonTale",
-          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
-        },
-        {
-          "name": "Melodie Wagner",
-          "url": "https://open.spotify.com/artist/2tTjVo7XSr5urjzuLBftmd"
-        }
-      ],
-      "duration_ms": 205520,
-      "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
-      "url": "https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
         "name": "A Sound from Heaven",
         "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
       },
@@ -867,6 +843,30 @@
       "duration_ms": 402782,
       "name": "Yes You Are the Lord",
       "url": "https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
+        "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
+        "url": "https://open.spotify.com/album/56h2pki7aSbNXVXPSxhqSk"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        },
+        {
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+        },
+        {
+          "name": "Melodie Wagner",
+          "url": "https://open.spotify.com/artist/2tTjVo7XSr5urjzuLBftmd"
+        }
+      ],
+      "duration_ms": 205520,
+      "name": "As I Am (with Peter CottonTale & Melodie Wagner)",
+      "url": "https://open.spotify.com/track/4EA2CUAxX2ct3S9xAKE23E"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -899,22 +899,6 @@
       "duration_ms": 303553,
       "name": "Way\u03b5 Me Yie",
       "url": "https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
-        "name": "Heal Our Land (Live)",
-        "url": "https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC"
-      },
-      "artists": [
-        {
-          "name": "Akesse Brempong",
-          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
-        }
-      ],
-      "duration_ms": 461003,
-      "name": "Spontaneous Worship 1 - Live",
-      "url": "https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -963,6 +947,22 @@
       "duration_ms": 355250,
       "name": "Evidence",
       "url": "https://open.spotify.com/track/5l0XWHk6bUn5uAYuanbPfB"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
+        "name": "Heal Our Land (Live)",
+        "url": "https://open.spotify.com/album/67zMsfA2nQXycWFOe6CzGC"
+      },
+      "artists": [
+        {
+          "name": "Akesse Brempong",
+          "url": "https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb"
+        }
+      ],
+      "duration_ms": 461003,
+      "name": "Spontaneous Worship 1 - Live",
+      "url": "https://open.spotify.com/track/1Ttb0Ex4Tyt8fPwWyCvAAi"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
+        "name": "Soldier",
+        "url": "https://open.spotify.com/album/2VV5ZceaMFArYB23Oi4slm"
+      },
+      "artists": [
+        {
+          "name": "Tobi Adey",
+          "url": "https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE"
+        }
+      ],
+      "duration_ms": 132785,
+      "name": "Soldier",
+      "url": "https://open.spotify.com/track/2P3i73dVot37xSx8VdACGr"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
         "name": "The Moment (Live)",
         "url": "https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO"
       },
@@ -1075,18 +1091,18 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "Soldier",
-        "url": "https://open.spotify.com/album/2VV5ZceaMFArYB23Oi4slm"
+        "name": "BLESSINGS",
+        "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
       },
       "artists": [
         {
-          "name": "Tobi Adey",
-          "url": "https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE"
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 132785,
-      "name": "Soldier",
-      "url": "https://open.spotify.com/track/2P3i73dVot37xSx8VdACGr"
+      "duration_ms": 824408,
+      "name": "BLESSINGS",
+      "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -1111,22 +1127,6 @@
       "duration_ms": 217959,
       "name": "NEVER FORGET",
       "url": "https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
-        "name": "BLESSINGS",
-        "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 824408,
-      "name": "BLESSINGS",
-      "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
-        "url": "https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 2509230,
-      "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
-      "url": "https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/1sc4DA0c5sY2Pr0EZxX2p6"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "Olowo Orimi (The One Who Paid For Me)",
-        "url": "https://open.spotify.com/album/6DJ1WnNNd6y2uC5gv9t3hh"
+        "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
+        "url": "https://open.spotify.com/album/0Ps1VCtgbPKz7k2w7T9B2q"
       },
       "artists": [
         {
-          "name": "Victoria Orenze",
-          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 489493,
-      "name": "Olowo Orimi (The One Who Paid For Me)",
-      "url": "https://open.spotify.com/track/2WiJV9N5IxDAvgCWxGti5Z"
+      "duration_ms": 2509230,
+      "name": "YOU ARE ALWAYS THERE FOR ME (MEDLEY)",
+      "url": "https://open.spotify.com/track/4QCQwMqwtiq1ev7aabM8PL"
     },
     {
       "added_at": "2023-04-14 13:13:25",
@@ -1323,6 +1307,22 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
+        "name": "Olowo Orimi (The One Who Paid For Me)",
+        "url": "https://open.spotify.com/album/6DJ1WnNNd6y2uC5gv9t3hh"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        }
+      ],
+      "duration_ms": 489493,
+      "name": "Olowo Orimi (The One Who Paid For Me)",
+      "url": "https://open.spotify.com/track/2WiJV9N5IxDAvgCWxGti5Z"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
         "name": "The Encounter",
         "url": "https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x"
       },
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-04-14 13:13:25",
       "album": {
-        "name": "IBUKA",
-        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 302608,
-      "name": "IBUKA",
-      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
-    },
-    {
-      "added_at": "2023-04-14 13:13:25",
-      "album": {
         "name": "Limitless Worship: Accra",
         "url": "https://open.spotify.com/album/6TWDBr16khP07eyN8ANE4M"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 464291,
       "name": "King of Heaven",
       "url": "https://open.spotify.com/track/7o5X7UiaWdlhZ8RzhgpMvB"
+    },
+    {
+      "added_at": "2023-04-14 13:13:25",
+      "album": {
+        "name": "IBUKA",
+        "url": "https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 302608,
+      "name": "IBUKA",
+      "url": "https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8"
     },
     {
       "added_at": "2023-04-14 13:13:25",

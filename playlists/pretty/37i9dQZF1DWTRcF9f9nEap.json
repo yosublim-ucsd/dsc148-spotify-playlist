@@ -1,12 +1,12 @@
 {
   "description": "A sound synonymous with the Blues; these are the pioneering names in slide guitar. Cover: Johnny Winter",
-  "num_followers": 68964,
+  "num_followers": 69097,
   "original_name": "Slide Guitar Heroes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzkwMzE1NSwwMDAwMDAwMDQ2NjAyNTQxZTE0ZjIyMzQwNzQwMjIxYjc3YWE0MmU3",
+  "snapshot_id": "MTY3MzkwMzE1NSwwMDAwMDAwMGM3NGZlMGI1OTY3ZTA4ZGViMzE4ZDJmNTUxN2ExM2E0",
   "tracks": [
     {
       "added_at": "2023-01-16 21:05:55",
@@ -171,6 +171,22 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
+        "name": "You Gotta Move",
+        "url": "https://open.spotify.com/album/5nJz88Bfi3okSgLuLLDfX1"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Fred McDowell",
+          "url": "https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ"
+        }
+      ],
+      "duration_ms": 200666,
+      "name": "You Gotta Move",
+      "url": "https://open.spotify.com/track/2En6kxGCjZxXmKJ1IYu4Fp"
+    },
+    {
+      "added_at": "2023-01-16 21:05:55",
+      "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/2jKj2prskANfjyo13navEs"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 271133,
       "name": "I'm In The Mood",
       "url": "https://open.spotify.com/track/1W3QQa9SG6zaftNQJchWY7"
-    },
-    {
-      "added_at": "2023-01-16 21:05:55",
-      "album": {
-        "name": "You Gotta Move",
-        "url": "https://open.spotify.com/album/5nJz88Bfi3okSgLuLLDfX1"
-      },
-      "artists": [
-        {
-          "name": "Mississippi Fred McDowell",
-          "url": "https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ"
-        }
-      ],
-      "duration_ms": 200666,
-      "name": "You Gotta Move",
-      "url": "https://open.spotify.com/track/2En6kxGCjZxXmKJ1IYu4Fp"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC"
+        "name": "Don't Let The Bossman Get You Down!",
+        "url": "https://open.spotify.com/album/5nr04ZHmPjgfPjKsvDAdhb"
       },
       "artists": [
         {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+          "name": "Elvin Bishop",
+          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
         }
       ],
-      "duration_ms": 246240,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/1pyyaheYNV54SIVv6z5wxU"
+      "duration_ms": 176933,
+      "name": "Devil's Slide",
+      "url": "https://open.spotify.com/track/7oyB0fKoaMuiuYCI1wmtXr"
     },
     {
       "added_at": "2023-01-16 21:05:55",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-01-16 21:05:55",
       "album": {
-        "name": "Don't Let The Bossman Get You Down!",
-        "url": "https://open.spotify.com/album/5nr04ZHmPjgfPjKsvDAdhb"
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC"
       },
       "artists": [
         {
-          "name": "Elvin Bishop",
-          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
         }
       ],
-      "duration_ms": 176933,
-      "name": "Devil's Slide",
-      "url": "https://open.spotify.com/track/7oyB0fKoaMuiuYCI1wmtXr"
+      "duration_ms": 246240,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/1pyyaheYNV54SIVv6z5wxU"
     },
     {
       "added_at": "2023-01-16 21:05:55",

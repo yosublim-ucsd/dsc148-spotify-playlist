@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,917 songs - 5 day 8 hr 57 min
+1,918 songs - 5 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1246,7 +1246,8 @@
 | [Mouhamadou Bamba](https://open.spotify.com/track/5QdcVm85PHGVXtA14LoG59) | [Orchestra Baobab](https://open.spotify.com/artist/7xT0arvCDupDU1YYy0BNv9), [Baobab\-Gouye\-Gui de Dakar](https://open.spotify.com/artist/396biTOuSgatR6cQxDFL2T) | [Mouhamadou Bamba](https://open.spotify.com/album/4h4yBxb4nKA2t7WH5GfXFe) | 6:35 | 2022-07-12 |  |
 | [Moulate Salef](https://open.spotify.com/track/0r08RM2ogWG8Pf8LTJLd14) | [Attarazat Addahabia](https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x), [Faradjallah](https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD) | [Al Hadaoui \(Habibi Funk 011\)](https://open.spotify.com/album/7Kr00uukmurII2uV76igym) | 5:01 | 2022-10-31 | 2022-12-17 |
 | [Moulate Salef](https://open.spotify.com/track/7Kofvo2iSDjlFiPnNKTeND) | [Attarazat Addahabia](https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x), [Faradjallah](https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD) | [Al Hadaoui \(Habibi Funk 011\)](https://open.spotify.com/album/6YH3tsqaEFJafm56g8lNpB) | 5:01 | 2022-07-12 | 2022-11-20 |
-| [Mr\. Brown](https://open.spotify.com/track/3r7YqwV8OHYGMM9UU2oPkf) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Bob Marley vs\. Lee "Scratch" Perry: The Best of the Upsetter Years 1970\-1971](https://open.spotify.com/album/5AbZ3BpOwjnlGBmzEygP6N) | 3:30 | 2022-07-12 |  |
+| [Mr\. Brown](https://open.spotify.com/track/5IlPnmeeUkvLRAfFK0Fvum) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Bob Marley \- The King Of Reggae \(89 legendary tracks including original tunes, tributes from reggae stars and an exclusive Marley family live at Central Park\)](https://open.spotify.com/album/2sjcaq8AbJLSEp5t8RAYhw) | 3:29 | 2023-03-17 |  |
+| [Mr\. Brown](https://open.spotify.com/track/3r7YqwV8OHYGMM9UU2oPkf) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Bob Marley vs\. Lee "Scratch" Perry: The Best of the Upsetter Years 1970\-1971](https://open.spotify.com/album/5AbZ3BpOwjnlGBmzEygP6N) | 3:30 | 2022-07-12 | 2023-04-19 |
 | [Muchacha de Mi Pueblo](https://open.spotify.com/track/4yg042ZdlfDkXWLvnA4HHW) | [Martín Chacón](https://open.spotify.com/artist/38YFhbYJxR60Qok2uIoMKB) | [Canciones Zapotecas del Istmo \- Cantarle a la Vida](https://open.spotify.com/album/3JvVLgzKWXaCq5WXflmUVL) | 2:55 | 2022-06-09 |  |
 | [Mujer Hilandera](https://open.spotify.com/track/66kkC9ctzgtNHT48HnhzXW) | [Juaneco Y Su Combo](https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR) | [Leyenda Amazónica](https://open.spotify.com/album/1XBTiJCFR4XFvymIUlnkKE) | 3:52 | 2022-06-09 |  |
 | [Mundo Deserto](https://open.spotify.com/track/2x6ztBh9TsTqAS5mX9ttEw) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8) | [Ela](https://open.spotify.com/album/00v6XMJH8URR26deMot450) | 2:36 | 2022-06-09 |  |

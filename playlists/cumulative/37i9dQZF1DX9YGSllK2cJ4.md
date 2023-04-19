@@ -4,7 +4,7 @@
 
 > Take comfort in these sad piano songs.
 
-303 songs - 13 hr 40 min
+305 songs - 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Sky On Fire](https://open.spotify.com/track/2VpTN9X4LJjVOkGmLFY6Fh) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [A Sky On Fire](https://open.spotify.com/album/2oCftHwKeRxgnEshiubb4K) | 1:54 | 2023-01-31 |  |
 | [A World Without Pain](https://open.spotify.com/track/33LOlNbHBUCieXLQS88RpK) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [A World Without Pain](https://open.spotify.com/album/6RWb9qbPQsNEbqStnFM6lw) | 2:36 | 2022-08-01 |  |
 | [Aba](https://open.spotify.com/track/39EU7wgPcoU9UALeeQ0Q0Z) | [Olec Mün](https://open.spotify.com/artist/4hLe2OQqb2f9wzkGuQBJIE) | [Aba](https://open.spotify.com/album/72juJf6OMN8pncnMhFrMXT) | 4:58 | 2022-08-01 | 2022-11-15 |
-| [Adagio](https://open.spotify.com/track/3zmLvXyfixDF8gmBezsBxD) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Adagio](https://open.spotify.com/album/2rlGSTH3U5yFtDzs296a89) | 3:55 | 2022-08-01 |  |
+| [Adagio](https://open.spotify.com/track/3zmLvXyfixDF8gmBezsBxD) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Adagio](https://open.spotify.com/album/2rlGSTH3U5yFtDzs296a89) | 3:55 | 2022-08-01 | 2023-04-19 |
 | [Adagio Cantabile](https://open.spotify.com/track/0XXUvKMV5pFX1bycy9PUX6) | [Jacob Hall](https://open.spotify.com/artist/3QbJuIiSnvn9BHetzinMUM) | [Adagio Cantabile](https://open.spotify.com/album/35BgRashHcSF0sfy8HmodF) | 3:14 | 2022-12-05 | 2023-03-23 |
 | [Adam Leaves \- Second Half / Piano Version](https://open.spotify.com/track/0mw9N3Jc5D2EKvgDSMBjJN) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Kindt](https://open.spotify.com/artist/3UDsNhT6aApMOxQUrc95Bl) | [Piano Book](https://open.spotify.com/album/099nJibPYLG6UNgZtGFC6h) | 3:04 | 2022-09-12 |  |
 | [After Dawn](https://open.spotify.com/track/1N62tCrFso6PZ8OfwsbH53) | [Herbert Campas](https://open.spotify.com/artist/4xviN6HgtlSmFSSoetwtMy) | [After Dawn](https://open.spotify.com/album/4ySd5ged3rmDZ2398Odkc6) | 2:00 | 2022-08-01 | 2023-03-23 |
@@ -58,7 +58,7 @@
 | [Deep Disconnect](https://open.spotify.com/track/047TAD9SkYCiIHL2T26E4H) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Deep Disconnect](https://open.spotify.com/album/6mW08NFB9Fvan4GxxLrZU1) | 3:22 | 2022-10-04 |  |
 | [Deepest woods](https://open.spotify.com/track/3ARfOz1BOZdiaUkcjb5Ul7) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Deepest Woods](https://open.spotify.com/album/1x8ws4uwMZzi3kcUzq7nqe) | 2:49 | 2022-08-01 |  |
 | [Differences](https://open.spotify.com/track/5mtYcrEtcczNDfd7yGGb03) | [Patrick Yeboah](https://open.spotify.com/artist/3xwzWFgr06TvJX39MHCrp9) | [Differences](https://open.spotify.com/album/1F5n7iNHJq8SFVfyOrXpt0) | 2:31 | 2022-11-14 | 2023-03-23 |
-| [Dijon](https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Dijon](https://open.spotify.com/album/1ASLxNnlNc8YqS4hzxtTYs) | 2:39 | 2022-08-01 |  |
+| [Dijon](https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Dijon](https://open.spotify.com/album/1ASLxNnlNc8YqS4hzxtTYs) | 2:39 | 2022-08-01 | 2023-04-19 |
 | [Downstreams](https://open.spotify.com/track/0PfQd8JoZTLC7QmuSALrnH) | [Max Swan](https://open.spotify.com/artist/2d1JYQW1AqWDJYigDlLLPj) | [Downstreams](https://open.spotify.com/album/3BGgZ0ogCdoaejPURuwfbP) | 2:18 | 2022-08-01 | 2023-03-23 |
 | [Drift Away](https://open.spotify.com/track/6IeNMc25PkxqRLq08lWUxr) | [Sacha Hoedemaker](https://open.spotify.com/artist/5oDhs7W0MVUoMDfIhwAzJM) | [Drift Away](https://open.spotify.com/album/2saZqKHoUCUXPveojE0lPP) | 2:52 | 2022-08-25 |  |
 | [Drink the Dew](https://open.spotify.com/track/3uUXUwWgQ0SdkAY6BAJE4d) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Drink the Dew](https://open.spotify.com/album/5U5M1cpNoamvoYevrQQIOK) | 2:18 | 2023-01-31 |  |
@@ -99,6 +99,7 @@
 | [Hallelujah](https://open.spotify.com/track/4YZwWfva9YsKx2Xoo5eCBK) | [Brian Crain](https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb) | [Piano and Light](https://open.spotify.com/album/0X03bt3jajm7DMCZ2L2SAl) | 4:11 | 2022-08-01 | 2022-11-15 |
 | [Heartsease](https://open.spotify.com/track/2VqdRIXLDBYtDHLBvWw0p4) | [Nadia Oak](https://open.spotify.com/artist/69kmTV1Yq4nmkwlrYSYeMa) | [Heartsease](https://open.spotify.com/album/2jVOyTHvkQHSQ0Y19arpqE) | 2:25 | 2022-09-12 |  |
 | [helplessly hoping](https://open.spotify.com/track/5kxs43PqoQOhW9HNVh7vW4) | [dybiński](https://open.spotify.com/artist/39Mn9rf5qlNOjnaeu6O5RP) | [helplessly hoping](https://open.spotify.com/album/5osnm3nOxSsnQ8ih7Xdpyb) | 3:46 | 2023-01-27 | 2023-02-07 |
+| [Hidden](https://open.spotify.com/track/3i6TkLVyl4EiKSnuP1RrjG) | [Little Rose](https://open.spotify.com/artist/2yDY3r3GJAxtK5xhndIhVI) | [Hidden](https://open.spotify.com/album/4bVpBfSsEpKxvHwuVHPBJm) | 2:34 | 2023-04-18 |  |
 | [Holunder](https://open.spotify.com/track/5Aki6jU7ZhW2ChqPYULD6W) | [Olhans](https://open.spotify.com/artist/3AOR4ygQyQ8p3lwCj7915P) | [Holunder](https://open.spotify.com/album/3Xmq3Xkg8QTkn9ObMIKyoz) | 2:30 | 2023-02-21 |  |
 | [How it Used to Be](https://open.spotify.com/track/75erFAUKLzeaRHhaIOrTGM) | [Aaren Hughes](https://open.spotify.com/artist/5DGVHWUwFc1EvnYnw2FLye) | [How it Used to Be](https://open.spotify.com/album/7mSlDiBarb6ZuUScqXK9nz) | 2:06 | 2023-01-19 | 2023-04-05 |
 | [I Can Sail Without Wind](https://open.spotify.com/track/4t5vrwOH5r0aF9LxIXYC1y) | [Joakim Holgersson](https://open.spotify.com/artist/58iWubOtAjZXxTSSza46Kk) | [I Can Sail Without Wind](https://open.spotify.com/album/0TmcxX4WRWJDcRfgt3HJyn) | 2:26 | 2022-12-20 |  |
@@ -143,7 +144,7 @@
 | [Lumière](https://open.spotify.com/track/3iNliE9VdKaPmpUangZfTB) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Tales Of Solace](https://open.spotify.com/album/7M7ZlXalpujk6zXlhb1J4s) | 4:11 | 2022-08-01 | 2022-10-25 |
 | [Luna piena](https://open.spotify.com/track/5YwXUOcRaJNOoEImMYLIfu) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Luna piena](https://open.spotify.com/album/2cP8f6LAElBMVU8epr2t5V) | 2:50 | 2022-08-01 |  |
 | [Mamma](https://open.spotify.com/track/75HnNeRjD1HzKnpMRuoaKV) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Mamma](https://open.spotify.com/album/6o4CktR4yXJnpFqs9BDgpo) | 3:11 | 2023-02-27 |  |
-| [Mar De Ardora](https://open.spotify.com/track/5H6H2pYhX8tYGQ2DG4QeB0) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Aira](https://open.spotify.com/album/0CFCDknzl9INAM2calrwlB) | 3:06 | 2022-08-01 |  |
+| [Mar De Ardora](https://open.spotify.com/track/5H6H2pYhX8tYGQ2DG4QeB0) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Aira](https://open.spotify.com/album/0CFCDknzl9INAM2calrwlB) | 3:06 | 2022-08-01 | 2023-04-19 |
 | [Marussian](https://open.spotify.com/track/3CFKAgnwhhDgL1KpfZJ3dI) | [Nate LaFleur](https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c) | [Marussian](https://open.spotify.com/album/39Gr6U4GDtLYPgZXqJHWTj) | 2:11 | 2022-08-01 | 2023-03-23 |
 | [Melts Into Air](https://open.spotify.com/track/0N2rkPnpGdWSP9xotxYl2F) | [Jill Corazina](https://open.spotify.com/artist/0j5SBGx8jGWDdJM4Cmth83) | [Melts Into Air](https://open.spotify.com/album/1uRrdwGzAyPUmiS3RRaFDi) | 2:46 | 2022-08-01 |  |
 | [Midwayer](https://open.spotify.com/track/6gLsyO69WqFXUYJK5mCaOt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Solipsism](https://open.spotify.com/album/2BGvT97OGSAivOsOb5PzMa) | 5:45 | 2022-08-01 | 2022-10-25 |
@@ -164,7 +165,7 @@
 | [Moux: heart pieces](https://open.spotify.com/track/0vQIs6UM5iNmIEtazl28za) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/5HrBAQJ2gvG43Ce8B9zPwj) | 2:29 | 2022-08-01 |  |
 | [Mundo Flotante](https://open.spotify.com/track/0SCWfuvd3vqNmUM3rJvGoK) | [Sergio Díaz De Rojas](https://open.spotify.com/artist/0dhkL5V7ldKvybgSy3ps27) | [Mundo Flotante](https://open.spotify.com/album/0hdsXfp4q6bVkqu7mnzYLH) | 2:24 | 2022-08-01 |  |
 | [Mursejler](https://open.spotify.com/track/1mGkSBPN3SN2o2YTVbmr3C) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 2:58 | 2022-08-01 |  |
-| [My Faith Is Growing](https://open.spotify.com/track/0k1coGLsxsIE8KCdLNUwPt) | [Wayne Buckley](https://open.spotify.com/artist/4NLVYD0VS44aVklSVuGFPg) | [My Faith Is Growing](https://open.spotify.com/album/0YN13BItNmyWbUHMeSKS4f) | 3:44 | 2022-12-20 |  |
+| [My Faith Is Growing](https://open.spotify.com/track/0k1coGLsxsIE8KCdLNUwPt) | [Wayne Buckley](https://open.spotify.com/artist/4NLVYD0VS44aVklSVuGFPg) | [My Faith Is Growing](https://open.spotify.com/album/0YN13BItNmyWbUHMeSKS4f) | 3:44 | 2022-12-20 | 2023-04-19 |
 | [My True Self](https://open.spotify.com/track/2SwdJrElJz5UrjtvxEayPP) | [Thom Nelson](https://open.spotify.com/artist/4o5K7rIpvDyPmdNWvt9XY1) | [My True Self](https://open.spotify.com/album/1Wqc0QDAJGMDotKCxvhyT3) | 1:26 | 2022-12-20 |  |
 | [Mélancolie](https://open.spotify.com/track/5JlrnENzKipdE51pDq8mDT) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Mélancolie](https://open.spotify.com/album/5Dmdf5KPs7djGXKwaOAO7N) | 3:11 | 2022-08-01 |  |
 | [Natural Light](https://open.spotify.com/track/1kKbVnjBHvRSMJUsNOQp2h) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 5:35 | 2022-08-01 | 2022-10-25 |
@@ -178,7 +179,7 @@
 | [När trollmor har lagt sina elva små troll](https://open.spotify.com/track/7KLODMiUhRae6TROVoo9o9) | [Melody Spencer](https://open.spotify.com/artist/0XKEbFGTqHAajz2lusK4dM) | [När trollmor har lagt sina elva små troll](https://open.spotify.com/album/23DnPSEc2t2uvKh2mjLOif) | 1:41 | 2023-02-06 |  |
 | [Oblique](https://open.spotify.com/track/1RqdwvVWVxolAzLFzVsQLc) | [Hazel Dumoulin](https://open.spotify.com/artist/4ddvhBOBwHziZBPGwJPTjd) | [Oblique](https://open.spotify.com/album/4d5OuQinGbC9f57ORQNpOh) | 2:26 | 2022-12-20 |  |
 | [Obsidian](https://open.spotify.com/track/1mUz05wyJ0BFwLDOQ48wH7) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [Obsidian](https://open.spotify.com/album/2DPCIwXcfkLvUjpDzGo1pn) | 2:19 | 2022-12-05 |  |
-| [Ocean Heart](https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Ocean Heart](https://open.spotify.com/album/7ogcQaTj5cbsbDdmo6REqL) | 2:52 | 2022-08-01 |  |
+| [Ocean Heart](https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Ocean Heart](https://open.spotify.com/album/7ogcQaTj5cbsbDdmo6REqL) | 2:52 | 2022-08-01 | 2023-04-19 |
 | [Ocean of Time](https://open.spotify.com/track/1Nl1QXLWVSG9nYuIjJqcwU) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Ocean of Time](https://open.spotify.com/album/1OCYSqcbCFM58zstXftvUy) | 2:15 | 2023-04-04 |  |
 | [Old Summer Romance](https://open.spotify.com/track/0PsVxQjMyJSNYo9R3zZnNR) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Old Summer Romance](https://open.spotify.com/album/1mG03oOljZ3ynqzhuWVKah) | 2:36 | 2022-08-01 | 2022-11-15 |
 | [Once I saw the northern lights](https://open.spotify.com/track/5F0xQGBmdcmcm3bpvHNIt9) | [Bruno Engel](https://open.spotify.com/artist/0Sb2aOfzhbp5opi1w083TP) | [Once I saw the northern lights](https://open.spotify.com/album/4PxukojNA6yqMB3rB17Sda) | 3:34 | 2022-08-01 |  |
@@ -293,6 +294,7 @@
 | [Vespers](https://open.spotify.com/track/6NTDYbHPwOKpGXQw2WWfLo) | [Thomas Welker](https://open.spotify.com/artist/0usxXdyQdV9ucIQRKQjfVG) | [Vespers](https://open.spotify.com/album/1dea5PJqBlByt9C7GYapKH) | 2:42 | 2022-08-01 | 2022-11-15 |
 | [Vladimir's Blues](https://open.spotify.com/track/48BOPD1mQba6z5Zrz2e7Bv) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Calm Classics](https://open.spotify.com/album/6HOtwUwxw4hZO8XOycqt5F) | 1:18 | 2022-10-24 | 2022-11-14 |
 | [Vladimir's Blues](https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 1:18 | 2022-08-01 |  |
+| [Waiting for Peace](https://open.spotify.com/track/1Gk9fSqPD1cpYbrQPij47C) | [Højsgaard](https://open.spotify.com/artist/5lliVLCizk1905IEorthCG) | [Waiting for Peace](https://open.spotify.com/album/3L9OM40xrsOccrCQkQYFAF) | 2:57 | 2023-04-18 |  |
 | [Waltz For Olivia](https://open.spotify.com/track/5OPVL9eRJePaHRxuULUGju) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Silent Prayer](https://open.spotify.com/album/3L0zawGKxZFAsbszZr68wR) | 2:40 | 2022-08-01 |  |
 | [Waltz, Interrupted](https://open.spotify.com/track/4iMQEdNXGMVlAbqsJGhvxx) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Waltz, Interrupted](https://open.spotify.com/album/0Y9TvMNJVcoc6uFmHAEpF5) | 2:11 | 2022-08-01 |  |
 | [Water](https://open.spotify.com/track/0fHo89AiSS0X3ycHHKnIoU) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Water](https://open.spotify.com/album/11M6tQvBOiunzPLZKxFWwZ) | 2:32 | 2022-08-01 |  |

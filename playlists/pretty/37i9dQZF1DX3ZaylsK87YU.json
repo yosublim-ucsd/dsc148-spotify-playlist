@@ -1,12 +1,12 @@
 {
   "description": "Discover this set of songs that define modern hymns for and beyond the church.  Cover artist: Phil Wickham",
-  "num_followers": 36816,
+  "num_followers": 37147,
   "original_name": "Modhymns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY5NjM5NSwwMDAwMDAwMGU5NGMzOWJiMGFmMDIyZmU0ZjU2YmU5Nzc5MzAwYzVi",
+  "snapshot_id": "MTY3NjY5NjM5NSwwMDAwMDAwMDFlOTdlZDRmMzMzYTEyYjRiYjcyMThkNjhjZGQ5NWZl",
   "tracks": [
     {
       "added_at": "2023-02-18 04:59:55",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
+        "name": "Tremble",
+        "url": "https://open.spotify.com/album/666rMVpgsHjVdU4OMbstAz"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "Tremble",
+      "url": "https://open.spotify.com/track/5yNffCuv0YGOgRazVMfEP6"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
         "name": "O Brother, Where Art Thou? (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7gzX88qS3Vx2r87g5pbdfJ"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 265377,
       "name": "Endless Alleluia",
       "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
-        "name": "Tremble",
-        "url": "https://open.spotify.com/album/666rMVpgsHjVdU4OMbstAz"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        }
-      ],
-      "duration_ms": 238546,
-      "name": "Tremble",
-      "url": "https://open.spotify.com/track/5yNffCuv0YGOgRazVMfEP6"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -867,22 +867,22 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "30: Three Decades of Songs for the Church",
-        "url": "https://open.spotify.com/album/6GmqHkUvT9NWRxD17vBFJm"
+        "name": "Age to Age",
+        "url": "https://open.spotify.com/album/6d5DkpOtxu5FyXsqJ8aRVj"
       },
       "artists": [
         {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
         },
         {
-          "name": "Brook Hills Music",
-          "url": "https://open.spotify.com/artist/4CaYbhVqFR3fTbGHd3k4Zr"
+          "name": "Moriah Hazeltine",
+          "url": "https://open.spotify.com/artist/3pwbLGS9TlajL4oRfZzOKR"
         }
       ],
-      "duration_ms": 292600,
-      "name": "Jesus, Thank You",
-      "url": "https://open.spotify.com/track/59pRxzutrxwmP6CNL2eHbU"
+      "duration_ms": 337459,
+      "name": "You're the Only One",
+      "url": "https://open.spotify.com/track/01ZpFt0Zd1liPJUDqEJPib"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -903,22 +903,22 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Age to Age",
-        "url": "https://open.spotify.com/album/6d5DkpOtxu5FyXsqJ8aRVj"
+        "name": "30: Three Decades of Songs for the Church",
+        "url": "https://open.spotify.com/album/6GmqHkUvT9NWRxD17vBFJm"
       },
       "artists": [
         {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
         },
         {
-          "name": "Moriah Hazeltine",
-          "url": "https://open.spotify.com/artist/3pwbLGS9TlajL4oRfZzOKR"
+          "name": "Brook Hills Music",
+          "url": "https://open.spotify.com/artist/4CaYbhVqFR3fTbGHd3k4Zr"
         }
       ],
-      "duration_ms": 337459,
-      "name": "You're the Only One",
-      "url": "https://open.spotify.com/track/01ZpFt0Zd1liPJUDqEJPib"
+      "duration_ms": 292600,
+      "name": "Jesus, Thank You",
+      "url": "https://open.spotify.com/track/59pRxzutrxwmP6CNL2eHbU"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "Where His Light Was",
-        "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
-      },
-      "artists": [
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
-        }
-      ],
-      "duration_ms": 42373,
-      "name": "Doxology",
-      "url": "https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Limbs & Branches",
         "url": "https://open.spotify.com/album/6i971rX8SB9Ad5IcpDRysI"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 283986,
       "name": "The House Of God, Forever",
       "url": "https://open.spotify.com/track/11DoHAnnLO1kK2FTyzs5Uv"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "Where His Light Was",
+        "url": "https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW"
+      },
+      "artists": [
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
+        }
+      ],
+      "duration_ms": 42373,
+      "name": "Doxology",
+      "url": "https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL"
     },
     {
       "added_at": "2023-02-18 04:59:55",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-02-18 04:59:55",
       "album": {
-        "name": "The House You're Building",
-        "url": "https://open.spotify.com/album/788vAn9mghQAWMYLR8sagN"
-      },
-      "artists": [
-        {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
-        }
-      ],
-      "duration_ms": 295064,
-      "name": "Restless",
-      "url": "https://open.spotify.com/track/3stuliHpnexsTj6uXFJ5iI"
-    },
-    {
-      "added_at": "2023-02-18 04:59:55",
-      "album": {
         "name": "Counting Every Blessing",
         "url": "https://open.spotify.com/album/77bSJkD7soqec8JBlCV4Xq"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 302780,
       "name": "Counting Every Blessing",
       "url": "https://open.spotify.com/track/7ewrtrIaGOiKh3G0zD5egG"
+    },
+    {
+      "added_at": "2023-02-18 04:59:55",
+      "album": {
+        "name": "The House You're Building",
+        "url": "https://open.spotify.com/album/788vAn9mghQAWMYLR8sagN"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "duration_ms": 295064,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/3stuliHpnexsTj6uXFJ5iI"
     },
     {
       "added_at": "2023-02-18 04:59:55",

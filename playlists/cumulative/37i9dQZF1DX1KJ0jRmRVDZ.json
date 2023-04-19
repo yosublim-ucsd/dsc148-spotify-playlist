@@ -1994,7 +1994,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 266526,
       "name": "IMAGINARY LIKE THE JUSTICE",
       "url": "https://open.spotify.com/track/6cvjT8OfKJTTReE5DmNNlE"
@@ -2497,6 +2497,24 @@
     },
     {
       "album": {
+        "name": "Luck in me",
+        "url": "https://open.spotify.com/album/2SqQaZKFWtGqbb4UtnfSSx"
+      },
+      "artists": [
+        {
+          "name": "\u4f86-Ray-",
+          "url": "https://open.spotify.com/artist/2ZBJuQnv8Gmj0fIgvcgxhi"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Luck in me",
+      "url": "https://open.spotify.com/track/7Cc2wTxZ2ZaglTu1wVCZUZ"
+    },
+    {
+      "album": {
         "name": "Luxury Spoon",
         "url": "https://open.spotify.com/album/1n88YDIWx9tuAL4mykoAVh"
       },
@@ -2724,7 +2742,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 74666,
       "name": "Neppa",
       "url": "https://open.spotify.com/track/6IL2qmfBpLeLVpsglwgatn"
@@ -10374,7 +10392,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-18",
+      "date_removed": null,
       "duration_ms": 181266,
       "name": "\u611b\u3092\u89e3\u304f",
       "url": "https://open.spotify.com/track/7DHatm4xHTDxQaTz83zf7V"

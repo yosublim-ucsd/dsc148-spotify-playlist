@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 
 > <a href="spotify:artist:5oDtp2FC8VqBjTx1aT4P5j">Shy FX</a>'s favorite tracks\. Updated regularly\. Curated by Shy FX\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,044 likes - 72 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,094 likes - 72 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 | 66 | [Back to Basics](https://open.spotify.com/track/1cn6V37h4alIkOSSmRGAwq) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Trigga](https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb) | [Back to Basics](https://open.spotify.com/album/11Vqc7F8hz7ct9ZuoLwW4w) | 4:31 |
 | 67 | [Music 4 Da Soul \- ISHEN Remix](https://open.spotify.com/track/7Bdd3pNphNm7zYSgGyyPnN) | [Congo Natty](https://open.spotify.com/artist/1NngQUSMHaauD7UjKuaH2W), [Courtney Melody](https://open.spotify.com/artist/2blo9rfxtArgRU5bGeJBiO), [ISHEN](https://open.spotify.com/artist/6HFwgj6rzXMsAVrFVnAgNX) | [Music 4 da Soul \(Ishen Remix\)](https://open.spotify.com/album/7cdpcjNWmVftXgrD6G1NzU) | 4:57 |
 | 68 | [Send Out](https://open.spotify.com/track/4Dmbymrq6PSdyvl0LNlaYJ) | [Jubei](https://open.spotify.com/artist/748MGeLsgxl6GVGuDvHbsY) | [Send Out / Tradition](https://open.spotify.com/album/6U6yoGO60BsjCZyVfwmt0A) | 4:35 |
-| 69 | [Mash up the Dance](https://open.spotify.com/track/12SZ8TqMbjY1zQc2kTGX22) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance](https://open.spotify.com/album/6lmntnCO9G6CK3zdSEb2fv) | 3:09 |
+| 69 | [Mash up the Dance](https://open.spotify.com/track/3HWxmlUkBo3GXRxefWas8m) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance](https://open.spotify.com/album/6FjPHeZxl5hwST6ZF2MC3v) | 3:09 |
 | 70 | [No Man](https://open.spotify.com/track/38m03Qe21pXt6QgtVSc1Wg) | [Enei](https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J) | [No Man](https://open.spotify.com/album/6ODRXtGIsVwCihcZV241DQ) | 4:55 |
 | 71 | [Rudeboy Sound](https://open.spotify.com/track/6f8IUjZxKhQkXzPfJ0c01b) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [JODIAN NATTY](https://open.spotify.com/artist/6pibD7qPgbAdzEeDSv3N58) | [Rudeboy Sound](https://open.spotify.com/album/0mU2cgfFNEjKi99abp60re) | 3:15 |
-| 72 | [Time's Up](https://open.spotify.com/track/24zdyFMs4fJ6EF7Hi0VM84) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Time's Up](https://open.spotify.com/album/78CCHeAwm55bNPt4G6E5XA) | 3:47 |
+| 72 | [Time's Up](https://open.spotify.com/track/00WzOw6iCExyF11cHPRroj) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Time's Up](https://open.spotify.com/album/4Xc9oJ4w2xCVVuwXMNl17M) | 3:47 |
 
-Snapshot ID: `MTY3MDU4MzgxMiwwMDAwMDAwMGI4YjVkZWFmMmFiNTVmMjFiMzhhOWMwMGU4ZTQ3YTEy`
+Snapshot ID: `MTY3MDU4MzgxMiwwMDAwMDAwMGUzY2MyZWVlOWIxNzViN2VlY2ExYjU2OWMxNGM3NzRm`

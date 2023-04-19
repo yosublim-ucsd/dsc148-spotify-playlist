@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMDRiYmEwMmEwMjEwNGRjNGI0Y2RhMTgyMDFhNWQ4MWE1",
+  "snapshot_id": "MTY2MzEwNjE0NCwwMDAwMDAwMDQxOTBlZTYyMjkyMGQ2ZGNhYmFhNTU0MGI5M2RkMzJj",
   "tracks": [
     {
       "added_at": "2022-09-13 21:55:44",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "A Tribe Called Red",
-        "url": "https://open.spotify.com/album/1FYVy6b5R41tMIAhWS6fXJ"
-      },
-      "artists": [
-        {
-          "name": "The Halluci Nation",
-          "url": "https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z"
-        }
-      ],
-      "duration_ms": 219853,
-      "name": "Electric Pow Wow Drum",
-      "url": "https://open.spotify.com/track/5e8v4ibmsMHxHLALe5KaiZ"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "The State",
         "url": "https://open.spotify.com/album/3jl1TcvE91Mnu6zjKkklAb"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 210840,
       "name": "Leader of Men",
       "url": "https://open.spotify.com/track/4Vf9v7ohVz5i8PeZBliwb5"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "A Tribe Called Red",
+        "url": "https://open.spotify.com/album/1FYVy6b5R41tMIAhWS6fXJ"
+      },
+      "artists": [
+        {
+          "name": "The Halluci Nation",
+          "url": "https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z"
+        }
+      ],
+      "duration_ms": 219853,
+      "name": "Electric Pow Wow Drum",
+      "url": "https://open.spotify.com/track/5e8v4ibmsMHxHLALe5KaiZ"
     },
     {
       "added_at": "2022-09-13 21:55:44",
@@ -1019,38 +1019,6 @@
     {
       "added_at": "2022-09-13 21:55:44",
       "album": {
-        "name": "Thick As Thieves",
-        "url": "https://open.spotify.com/album/4LyTOb4shQjOLSwE0zUpk0"
-      },
-      "artists": [
-        {
-          "name": "Trooper",
-          "url": "https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN"
-        }
-      ],
-      "duration_ms": 222426,
-      "name": "Raise A Little Hell",
-      "url": "https://open.spotify.com/track/1yNz3A4ubmE5IEvpNFkjdc"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
-        "name": "Naveed",
-        "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
-      },
-      "artists": [
-        {
-          "name": "Our Lady Peace",
-          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
-        }
-      ],
-      "duration_ms": 244040,
-      "name": "Starseed",
-      "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
-    },
-    {
-      "added_at": "2022-09-13 21:55:44",
-      "album": {
         "name": "We Are the Halluci Nation",
         "url": "https://open.spotify.com/album/2iQBWB6FgiNl1mrzNX7ei4"
       },
@@ -1075,6 +1043,38 @@
       "duration_ms": 209981,
       "name": "R.E.D.",
       "url": "https://open.spotify.com/track/0E2ydjbrsOYbWFZzexOyYd"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Naveed",
+        "url": "https://open.spotify.com/album/5Kcy45Vd27PmOoSPgi9siS"
+      },
+      "artists": [
+        {
+          "name": "Our Lady Peace",
+          "url": "https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH"
+        }
+      ],
+      "duration_ms": 244040,
+      "name": "Starseed",
+      "url": "https://open.spotify.com/track/4et8vIjMkwvHvtaBp1yh70"
+    },
+    {
+      "added_at": "2022-09-13 21:55:44",
+      "album": {
+        "name": "Thick As Thieves",
+        "url": "https://open.spotify.com/album/4LyTOb4shQjOLSwE0zUpk0"
+      },
+      "artists": [
+        {
+          "name": "Trooper",
+          "url": "https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN"
+        }
+      ],
+      "duration_ms": 222426,
+      "name": "Raise A Little Hell",
+      "url": "https://open.spotify.com/track/1yNz3A4ubmE5IEvpNFkjdc"
     },
     {
       "added_at": "2022-09-13 21:55:44",

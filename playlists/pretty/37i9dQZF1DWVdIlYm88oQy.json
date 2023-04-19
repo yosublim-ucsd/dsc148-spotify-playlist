@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 70s! Cover:  Jos\u00e9 Jos\u00e9",
-  "num_followers": 37020,
+  "num_followers": 37093,
   "original_name": "70s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY2NzU3MSwwMDAwMDAwMDYwMGUyNzRkZjFlOTk0NDNlZGQ4M2I4NTkxYjk5MjQ1",
+  "snapshot_id": "MTY3NjY2NzU3MSwwMDAwMDAwMGJjN2RjN2RkNjNmZmUyYjZhNzAxNmNiYWYyYWFmYWZm",
   "tracks": [
     {
       "added_at": "2023-02-17 20:59:31",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-02-17 20:59:31",
       "album": {
-        "name": "I Can See",
-        "url": "https://open.spotify.com/album/12SudP5pnMsY8b7f2ypAd6"
-      },
-      "artists": [
-        {
-          "name": "Ralfi Pagan",
-          "url": "https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz"
-        }
-      ],
-      "duration_ms": 236240,
-      "name": "Stay Out Of My Life",
-      "url": "https://open.spotify.com/track/0wsGHiAoOQwOOtBWauLiVN"
-    },
-    {
-      "added_at": "2023-02-17 20:59:31",
-      "album": {
         "name": "Lo Mejor De...",
         "url": "https://open.spotify.com/album/3UJiui06mKfzd3ERnIrcCA"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 251133,
       "name": "Libre",
       "url": "https://open.spotify.com/track/2zC0ObgALavrI8pg23ggPR"
+    },
+    {
+      "added_at": "2023-02-17 20:59:31",
+      "album": {
+        "name": "I Can See",
+        "url": "https://open.spotify.com/album/12SudP5pnMsY8b7f2ypAd6"
+      },
+      "artists": [
+        {
+          "name": "Ralfi Pagan",
+          "url": "https://open.spotify.com/artist/5Wq4oFrEbsAvYqQ1cc6vLz"
+        }
+      ],
+      "duration_ms": 236240,
+      "name": "Stay Out Of My Life",
+      "url": "https://open.spotify.com/track/0wsGHiAoOQwOOtBWauLiVN"
     },
     {
       "added_at": "2023-02-17 20:59:31",

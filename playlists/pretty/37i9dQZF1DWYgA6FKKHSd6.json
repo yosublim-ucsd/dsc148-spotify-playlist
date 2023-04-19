@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 211279,
+  "num_followers": 211326,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMGExNjU2MWJmM2IxYTE1Nzc3NWYwOTE2YzNiZDFiYzVl",
+  "snapshot_id": "MTY3NDc5NTY2MCwwMDAwMDAwMDg3MDVkMzYzZmYzNjBlOThiOTU3Y2M5ZjYzN2MxZGJh",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -539,38 +539,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "M.P.3",
-        "url": "https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN"
-      },
-      "artists": [
-        {
-          "name": "Mike Phillips",
-          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Gonna' Miss You",
-      "url": "https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Solid",
-        "url": "https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Full Effect",
-      "url": "https://open.spotify.com/track/26xPHXWjYspNmZgChhDRYR"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Soul City",
         "url": "https://open.spotify.com/album/1DxgdQ1ElsqF3qHh536Q9D"
       },
@@ -595,22 +563,34 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/6l3WC746tLslsTMqPu6DYb"
+        "name": "Solid",
+        "url": "https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F"
       },
       "artists": [
         {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        },
-        {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/7FOIxhZMOdE8hnOF0X8qgo"
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         }
       ],
-      "duration_ms": 253946,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/7eiTz8VI2yjqwUmGwsHyIE"
+      "duration_ms": 231560,
+      "name": "Full Effect",
+      "url": "https://open.spotify.com/track/26xPHXWjYspNmZgChhDRYR"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "M.P.3",
+        "url": "https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN"
+      },
+      "artists": [
+        {
+          "name": "Mike Phillips",
+          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "Gonna' Miss You",
+      "url": "https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA"
     },
     {
       "added_at": "2021-10-01 04:02:00",
@@ -647,22 +627,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Hello Tomorrow",
-        "url": "https://open.spotify.com/album/755FhIw58on45zjf2hSpz7"
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/6l3WC746tLslsTMqPu6DYb"
       },
       "artists": [
         {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
         },
         {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/7FOIxhZMOdE8hnOF0X8qgo"
         }
       ],
-      "duration_ms": 291386,
-      "name": "When Will I Know For Sure",
-      "url": "https://open.spotify.com/track/1MTT89DX8ZoN92fXJHxRqF"
+      "duration_ms": 253946,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/7eiTz8VI2yjqwUmGwsHyIE"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -679,6 +659,26 @@
       "duration_ms": 258706,
       "name": "Up and Up",
       "url": "https://open.spotify.com/track/76VWJmXcf9xVHQmXSdR2On"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Hello Tomorrow",
+        "url": "https://open.spotify.com/album/755FhIw58on45zjf2hSpz7"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        },
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        }
+      ],
+      "duration_ms": 291386,
+      "name": "When Will I Know For Sure",
+      "url": "https://open.spotify.com/track/1MTT89DX8ZoN92fXJHxRqF"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Just Funkin' Around",
-        "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
-      },
-      "artists": [
-        {
-          "name": "Pieces Of A Dream",
-          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
-        }
-      ],
-      "duration_ms": 289586,
-      "name": "Right Back Atcha",
-      "url": "https://open.spotify.com/track/2QioAmckSszJB7cvJZ5k0j"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Tender (Remix)",
         "url": "https://open.spotify.com/album/3Hu6rLwI8Cqh4NciEwpfmX"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Poetry In Motion",
-        "url": "https://open.spotify.com/album/65KJcqC8fnZhmAlp2xsJAd"
+        "name": "Just Funkin' Around",
+        "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
       },
       "artists": [
         {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+          "name": "Pieces Of A Dream",
+          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
         }
       ],
-      "duration_ms": 280613,
-      "name": "Stratosphere",
-      "url": "https://open.spotify.com/track/0PClILX1b9qL40YodPjBzS"
+      "duration_ms": 289586,
+      "name": "Right Back Atcha",
+      "url": "https://open.spotify.com/track/2QioAmckSszJB7cvJZ5k0j"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -831,6 +815,22 @@
       "duration_ms": 316377,
       "name": "Lovesong",
       "url": "https://open.spotify.com/track/0tWkzUTlC82KsJpfJ7oC2d"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Poetry In Motion",
+        "url": "https://open.spotify.com/album/65KJcqC8fnZhmAlp2xsJAd"
+      },
+      "artists": [
+        {
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
+        }
+      ],
+      "duration_ms": 280613,
+      "name": "Stratosphere",
+      "url": "https://open.spotify.com/track/0PClILX1b9qL40YodPjBzS"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -909,6 +909,22 @@
       "url": "https://open.spotify.com/track/6Thb6pZN37pPYwhEmMoTCj"
     },
     {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Summer Horns II From A To Z",
+        "url": "https://open.spotify.com/album/1qpQY8EzHc1BqPr4Bhb7CT"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        }
+      ],
+      "duration_ms": 294946,
+      "name": "Before I Let Go",
+      "url": "https://open.spotify.com/track/1sJ8Z4FBUNSjSMDx2RrxmW"
+    },
+    {
       "added_at": "2021-07-12 18:23:33",
       "album": {
         "name": "Undeniable",
@@ -947,22 +963,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Summer Horns II From A To Z",
-        "url": "https://open.spotify.com/album/1qpQY8EzHc1BqPr4Bhb7CT"
-      },
-      "artists": [
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 294946,
-      "name": "Before I Let Go",
-      "url": "https://open.spotify.com/track/1sJ8Z4FBUNSjSMDx2RrxmW"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "L.I.T.",
         "url": "https://open.spotify.com/album/59i6TmB5fQ806IkSl5XyeN"
       },
@@ -975,22 +975,6 @@
       "duration_ms": 258138,
       "name": "L.I.T.",
       "url": "https://open.spotify.com/track/7JWyMt0OBBnPKuTGx6UNYs"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Summer Madness",
-        "url": "https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 243146,
-      "name": "Cachaca",
-      "url": "https://open.spotify.com/track/4cKdYSn1NdPawP7qCQrFH1"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1011,18 +995,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Quintastic",
-        "url": "https://open.spotify.com/album/4LzFSL2q6GErS6Kq1PnOxS"
+        "name": "Summer Madness",
+        "url": "https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt"
       },
       "artists": [
         {
-          "name": "Deon Yates",
-          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
         }
       ],
-      "duration_ms": 243685,
-      "name": "Quintastic",
-      "url": "https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf"
+      "duration_ms": 243146,
+      "name": "Cachaca",
+      "url": "https://open.spotify.com/track/4cKdYSn1NdPawP7qCQrFH1"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1039,6 +1023,22 @@
       "duration_ms": 233920,
       "name": "Limitless - Radio Edit",
       "url": "https://open.spotify.com/track/6EKw5whgxDjZzjBGV7i74H"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Quintastic",
+        "url": "https://open.spotify.com/album/4LzFSL2q6GErS6Kq1PnOxS"
+      },
+      "artists": [
+        {
+          "name": "Deon Yates",
+          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
+        }
+      ],
+      "duration_ms": 243685,
+      "name": "Quintastic",
+      "url": "https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1105,6 +1105,22 @@
       "url": "https://open.spotify.com/track/4eJIsCmuhgkuxnB2qmoHx4"
     },
     {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Say What",
+        "url": "https://open.spotify.com/album/4Sv7jKSOmNE0Lhagi9DKlo"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 227077,
+      "name": "Say What",
+      "url": "https://open.spotify.com/track/7vrvAwJcZTprmPELVAPmir"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "G (Bonus Version)",
@@ -1139,54 +1155,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Eye Of The Storm",
-        "url": "https://open.spotify.com/album/1evVKw0Y7cCwz5HUtBZq0d"
+        "name": "Shades",
+        "url": "https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7"
       },
       "artists": [
         {
-          "name": "The Groove Project",
-          "url": "https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5"
-        },
-        {
-          "name": "Adam Holzman",
-          "url": "https://open.spotify.com/artist/1Q4wpwTWP02Nxfa4oTJDlO"
+          "name": "LeBron",
+          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
         }
       ],
-      "duration_ms": 256652,
-      "name": "Eye Of The Storm",
-      "url": "https://open.spotify.com/track/6O0FDghGmoL5w0WOVaoNIP"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Say What",
-        "url": "https://open.spotify.com/album/4Sv7jKSOmNE0Lhagi9DKlo"
-      },
-      "artists": [
-        {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
-        }
-      ],
-      "duration_ms": 227077,
-      "name": "Say What",
-      "url": "https://open.spotify.com/track/7vrvAwJcZTprmPELVAPmir"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "City Beat",
-        "url": "https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z"
-      },
-      "artists": [
-        {
-          "name": "Michael J Thomas",
-          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
-        }
-      ],
-      "duration_ms": 242933,
-      "name": "City Beat",
-      "url": "https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo"
+      "duration_ms": 248071,
+      "name": "Kiss and Tell",
+      "url": "https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1207,18 +1187,38 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Shades",
-        "url": "https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7"
+        "name": "Eye Of The Storm",
+        "url": "https://open.spotify.com/album/1evVKw0Y7cCwz5HUtBZq0d"
       },
       "artists": [
         {
-          "name": "LeBron",
-          "url": "https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0"
+          "name": "The Groove Project",
+          "url": "https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5"
+        },
+        {
+          "name": "Adam Holzman",
+          "url": "https://open.spotify.com/artist/1Q4wpwTWP02Nxfa4oTJDlO"
         }
       ],
-      "duration_ms": 248071,
-      "name": "Kiss and Tell",
-      "url": "https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD"
+      "duration_ms": 256652,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/6O0FDghGmoL5w0WOVaoNIP"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "City Beat",
+        "url": "https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z"
+      },
+      "artists": [
+        {
+          "name": "Michael J Thomas",
+          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
+        }
+      ],
+      "duration_ms": 242933,
+      "name": "City Beat",
+      "url": "https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Summer Feelin'",
-        "url": "https://open.spotify.com/album/70m2RHdocFLeIPpzXEUa45"
-      },
-      "artists": [
-        {
-          "name": "Eric Darius",
-          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
-        },
-        {
-          "name": "Paul Jackson, Jr.",
-          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
-        }
-      ],
-      "duration_ms": 238887,
-      "name": "Summer Feelin'",
-      "url": "https://open.spotify.com/track/7bUb9LZSTFn447srnC1vPA"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Moment of Truth",
         "url": "https://open.spotify.com/album/3K7UdIzAbmFjiP6bnMTjKd"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 309827,
       "name": "As the Days Go by...",
       "url": "https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Summer Feelin'",
+        "url": "https://open.spotify.com/album/70m2RHdocFLeIPpzXEUa45"
+      },
+      "artists": [
+        {
+          "name": "Eric Darius",
+          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
+        },
+        {
+          "name": "Paul Jackson, Jr.",
+          "url": "https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S"
+        }
+      ],
+      "duration_ms": 238887,
+      "name": "Summer Feelin'",
+      "url": "https://open.spotify.com/track/7bUb9LZSTFn447srnC1vPA"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Pride And Joy",
-        "url": "https://open.spotify.com/album/31yg17GTD9YNJBIcqUKkXB"
-      },
-      "artists": [
-        {
-          "name": "Phillip Doc Martin",
-          "url": "https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp"
-        }
-      ],
-      "duration_ms": 248146,
-      "name": "American Garden",
-      "url": "https://open.spotify.com/track/7i2LhxMAk8Ih3VBkEARiVr"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Sexy Saxy, Vol. 3",
         "url": "https://open.spotify.com/album/4h6LnoIwO8rzt9XncM5bIQ"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 263128,
       "name": "What U Want, What U Need",
       "url": "https://open.spotify.com/track/2OTBqWfzx08u2KbROvZlhZ"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Pride And Joy",
+        "url": "https://open.spotify.com/album/31yg17GTD9YNJBIcqUKkXB"
+      },
+      "artists": [
+        {
+          "name": "Phillip Doc Martin",
+          "url": "https://open.spotify.com/artist/2r341qO070AaoAowhAOQhp"
+        }
+      ],
+      "duration_ms": 248146,
+      "name": "American Garden",
+      "url": "https://open.spotify.com/track/7i2LhxMAk8Ih3VBkEARiVr"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1707,18 +1707,26 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Just Like Heaven",
-        "url": "https://open.spotify.com/album/27QgcbudLKhaNn7L2J4Ii6"
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/50h9oPdFPFkcbCDrS6b4XS"
       },
       "artists": [
         {
-          "name": "Antonio Jackson",
-          "url": "https://open.spotify.com/artist/3Bo6RdhCfAL72XyuTw4Bx5"
+          "name": "Jazmin Ghent",
+          "url": "https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY"
+        },
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        },
+        {
+          "name": "Philippe Saisse",
+          "url": "https://open.spotify.com/artist/76eaAxXOF5UhLXASB8UiQJ"
         }
       ],
-      "duration_ms": 347066,
-      "name": "Just Like Heaven",
-      "url": "https://open.spotify.com/track/1OhVVFCQ7jRfgHC89GA0cy"
+      "duration_ms": 264151,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/21XGnNLlkeuNd7pOCUy8SI"
     }
   ],
   "unique_name": "Sax and the City",

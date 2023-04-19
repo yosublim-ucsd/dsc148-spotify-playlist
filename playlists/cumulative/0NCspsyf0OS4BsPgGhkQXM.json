@@ -10515,6 +10515,28 @@
     },
     {
       "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/09bJhXcfcsu0d8ASWEuYGW"
+      },
+      "artists": [
+        {
+          "name": "Egzod",
+          "url": "https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6"
+        },
+        {
+          "name": "Bianca",
+          "url": "https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/0G4cDuyOy5GgjMajE6bKud"
+    },
+    {
+      "album": {
         "name": "Phonky Halloween",
         "url": "https://open.spotify.com/album/71e4Jhf7DBdO6FLcQzCwrA"
       },

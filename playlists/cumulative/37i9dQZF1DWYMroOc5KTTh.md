@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-433 songs - 1 day 5 hr 46 min
+434 songs - 1 day 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Emotion feat\. Wild Nothing](https://open.spotify.com/track/5DnmZd2ZVkWPL4QcZYJwfs) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Emotion feat\. Wild Nothing](https://open.spotify.com/album/2p6O1yfG7YGebBhfUBD3LH) | 4:05 | 2021-12-03 | 2022-05-26 |
 | [Empower](https://open.spotify.com/track/3j2HYjcIlxVhUT5Ioi1owY) | [Steam Down](https://open.spotify.com/artist/2dOnTAoXrpBwYAo1qIbemO), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ), [TINYMAN](https://open.spotify.com/artist/7HK3S4sk4NgXTFqvmbHlM9), [Ahnansé](https://open.spotify.com/artist/2Jz6SJ8o8G8lvZLB1U2Pfl) | [Empower](https://open.spotify.com/album/4gwsVmaHqOVMm2VDIuzQb8) | 4:45 | 2022-01-10 | 2022-04-13 |
 | [Endless Sky](https://open.spotify.com/track/3oHOObxpYRdsRwVqizxWNM) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Endless Sky](https://open.spotify.com/album/2gudZLuzUEnf5AXljy75vO) | 2:39 | 2022-09-05 |  |
+| [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 | 2023-04-17 |  |
 | [Everything’s Gonna Be Alright](https://open.spotify.com/track/21lbj2ezsvMg0XoeBL49bw) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk), [London Community Gospel Choir](https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz) | [Untold Business](https://open.spotify.com/album/186HTycU1jAk9PociChcpO) | 3:33 | 2023-04-11 | 2023-04-18 |
 | [Evian \(feat\. PinkPantheress, Rizloski & Rax\)](https://open.spotify.com/track/5uakDGEx9HegMZZi840VzH) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Rizloski](https://open.spotify.com/artist/6Wl9y5OsaB4fyXl0cCC2iO), [Rax](https://open.spotify.com/artist/5WeVKbqPBzsASTkta9ijsz) | [HARAM!](https://open.spotify.com/album/5m1R17FavKPjP7H5YPtrt1) | 2:08 | 2022-04-06 | 2022-04-09 |
 | [Evil Butter](https://open.spotify.com/track/1H6VUUUkJfS61xILe4Ly54) | [Mera Bhai](https://open.spotify.com/artist/4C8nlIoLPOidEuovsSBSqU), [Stealing Sheep](https://open.spotify.com/artist/3ghT43Gj41br25PvBCDS22) | [Evil Butter](https://open.spotify.com/album/3HPABO1zYO6djDsOWTEVh8) | 4:35 | 2023-01-16 | 2023-03-03 |
@@ -159,7 +160,7 @@
 | [Give Me Night](https://open.spotify.com/track/4fF5HxauEt54IYSKW1rEMt) | [BCBC](https://open.spotify.com/artist/0zz7GJ7SZyi4XV3TJsg3YN), [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve) | [Give Me Night](https://open.spotify.com/album/4OM6g573k9ww2iJlRN7Thn) | 3:12 | 2022-04-06 | 2022-04-16 |
 | [Give u](https://open.spotify.com/track/2PXEL9hT8aNfzQuU12yVo7) | [Banditt](https://open.spotify.com/artist/4uoxnYSZK48iKLjfbjRi6A), [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [Give u](https://open.spotify.com/album/6UEUTJ7p3ydXkISSwLqzet) | 3:25 | 2022-01-11 | 2022-07-12 |
 | [Give You Up](https://open.spotify.com/track/54mgp55eYtG2n1rClelVwy) | [Bantum](https://open.spotify.com/artist/3PcfymOgMHBSp3T5YvSDiS) | [New Leaf](https://open.spotify.com/album/1pFGvzLqXa50s6svabO6Wv) | 4:43 | 2021-12-03 | 2022-07-23 |
-| [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 | 2021-12-03 |  |
+| [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 | 2021-12-03 | 2023-04-19 |
 | [GO \(Detroit Swindle Remix\)](https://open.spotify.com/track/3dBUKgLv3oFrE9kYhboIXm) | [Hablot Brown](https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [GO \(Detroit Swindle Remix\)](https://open.spotify.com/album/4urNMxGsd4R05fKiScM3s8) | 4:39 | 2021-12-03 | 2022-07-29 |
 | [Gold](https://open.spotify.com/track/1I6bPYYk5jQL6EXAozh6FJ) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Gold](https://open.spotify.com/album/1LuxQutCoGUjNXVHKFiVnA) | 3:19 | 2022-04-06 | 2022-04-12 |
 | [Gold](https://open.spotify.com/track/1k8qa4QpBKNEvOrcq7Yy8z) | [Soda State](https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH) | [Portal EP](https://open.spotify.com/album/78qRrrutMoz2NzbujZ2AFj) | 2:41 | 2022-04-06 | 2022-04-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Atreyu
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,480 likes - 72 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,638 likes - 72 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 22 | [VIRUS](https://open.spotify.com/track/0cDQViVCHm84keFiJp1oNI) | [We Are The Empty](https://open.spotify.com/artist/1BbI77tXAW1gC8iBYJGwMB) | [VIRUS](https://open.spotify.com/album/3iO3i41PAGmI5boQOk3Sot) | 3:41 |
 | 23 | [Pinnacle of Ecstasy](https://open.spotify.com/track/7M1RbEvdInHdNJURTdQytY) | [Poison Ruïn](https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB) | [Härvest](https://open.spotify.com/album/2BGvd8w4DoxN4DOjC47iQL) | 4:32 |
 | 24 | [Echo of Nothing](https://open.spotify.com/track/1XTJte20vksocJMtbKXh1Q) | [Incendiary](https://open.spotify.com/artist/3nS4tSuT4VwGiZH6BtlJfC) | [Echo of Nothing](https://open.spotify.com/album/4IkXhYnWcBgCVZeOJFBnUB) | 2:56 |
-| 25 | [The Surgeon](https://open.spotify.com/track/0ERKfqutINLHO7bxjDNVAK) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [The Surgeon](https://open.spotify.com/album/1DbPIWAYWX3WvyzBOMHn8V) | 5:33 |
+| 25 | [The Surgeon](https://open.spotify.com/track/4eQGDy5Mu2CNnzPZKO6pYh) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [Scorched](https://open.spotify.com/album/2JSQcvezbKguh7AVhvwLwu) | 5:33 |
 | 26 | [Rise](https://open.spotify.com/track/6w4DSyfrIyMYaGq4IoRpoe) | [Youth Never Dies](https://open.spotify.com/artist/2zPGFp4GWeCgriWz13XR6r), [Nathan Wagner](https://open.spotify.com/artist/0XURMEB81vOurKFntVmbBV), [Onlap](https://open.spotify.com/artist/5vkIUHgmiNIPn4Beoh2QPc) | [Rise](https://open.spotify.com/album/1d55t8JTka3NgApKClGJhk) | 3:14 |
 | 27 | [Freaky Carnival \- Live](https://open.spotify.com/track/2vfiTzX2gkgYBgpnGrt4C2) | [Infected Rain](https://open.spotify.com/artist/7duRZcBRPWVChY0xOyp6DY) | [Freaky Carnival \(Live\)](https://open.spotify.com/album/6X2QPuTV7Zxx0PWfw5mCnM) | 4:55 |
 | 28 | [Ghost](https://open.spotify.com/track/6ITeNeLzdL8shXoqwBCnPf) | [Woe, Is Me](https://open.spotify.com/artist/7AzzsLSrHV9darZnK3RSDN) | [Ghost](https://open.spotify.com/album/3q6fkMKLpQ8qT8tf9MsaXh) | 3:32 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 71 | [Crown of Stars](https://open.spotify.com/track/3HIv6LxOtruvhNogXCjlMd) | [The Infinity Ring](https://open.spotify.com/artist/7coXApDvpixZcFjdfqzOXg) | [Crown of Stars](https://open.spotify.com/album/7GjRW57fY8UC4q0dJl3Rfk) | 5:42 |
 | 72 | [My Body is an Earthen Shrine](https://open.spotify.com/track/1gJ4r02CmFFbiljqXjLkKF) | [Elder Devil](https://open.spotify.com/artist/3FCApIqnQKhxmZjQ8dfF9p) | [My Body is an Earthen Shrine](https://open.spotify.com/album/543I6Rq35y3vHqZ5WE2jOE) | 3:00 |
 
-Snapshot ID: `MTY4MTUwNDYxNywwMDAwMDAwMGJjYmQ3Y2U2NzIyZGExNjVlZjNlNGE0ZTFlZWY5OTMy`
+Snapshot ID: `MTY4MTUwNDYxNywwMDAwMDAwMGRhODgxZWY2NjZiOGI5ZTQwMzU2ZmFkMmE1NWZmYmVl`

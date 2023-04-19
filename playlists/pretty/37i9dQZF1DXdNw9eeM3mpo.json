@@ -1,12 +1,12 @@
 {
   "description": "100 % ska latinoamericano. Los Caligaris en portada.",
-  "num_followers": 419600,
+  "num_followers": 419746,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgyMzIwMCwwMDAwMDAwMGFlN2Q4MmZjOTdhNWQ2MGU3YTFhMDY3Zjc3ZTU4Y2Fj",
+  "snapshot_id": "MTY3NzgyMzIwMCwwMDAwMDAwMDUyMWI5ZTc0MmNlZTNlNWIwYThjZTE2Y2M3ZTcwNzA1",
   "tracks": [
     {
       "added_at": "2023-03-03 06:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Pampas Reggae",
-        "url": "https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 247800,
-      "name": "P\u00e1rate Y Mira",
-      "url": "https://open.spotify.com/track/0bhzdFuUaNH7QV3c2ZKGOK"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Latin Ska Force",
         "url": "https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 217973,
       "name": "Sk\u00e1pate",
       "url": "https://open.spotify.com/track/1vLn1lpgNJTHLcLSJqLEK0"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Pampas Reggae",
+        "url": "https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 247800,
+      "name": "P\u00e1rate Y Mira",
+      "url": "https://open.spotify.com/track/0bhzdFuUaNH7QV3c2ZKGOK"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1069,24 +1069,20 @@
       "url": "https://open.spotify.com/track/0udUVjtkBzlCvZcfcYQzS4"
     },
     {
-      "added_at": "2022-12-16 02:35:42",
+      "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Se Me Ha Perdido un Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3sHqU9KQzlVj6Mm00Irtah"
+        "name": "Aconcagua (El Gobierno de las Tribus)",
+        "url": "https://open.spotify.com/album/0viAtWxhnokSz09e9h2FLx"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        },
-        {
-          "name": "Andrea Echeverri",
-          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
         }
       ],
-      "duration_ms": 201504,
-      "name": "Se Me Ha Perdido un Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6OfrAyy51UhReRVKm4O4gO"
+      "duration_ms": 212106,
+      "name": "Te Sigo",
+      "url": "https://open.spotify.com/track/3Oo43EMAeUSAwBy2nYa0A6"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1105,20 +1101,24 @@
       "url": "https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa"
     },
     {
-      "added_at": "2021-12-21 17:00:46",
+      "added_at": "2022-12-16 02:35:42",
       "album": {
-        "name": "Aconcagua (El Gobierno de las Tribus)",
-        "url": "https://open.spotify.com/album/0viAtWxhnokSz09e9h2FLx"
+        "name": "Se Me Ha Perdido un Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3sHqU9KQzlVj6Mm00Irtah"
       },
       "artists": [
         {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
         }
       ],
-      "duration_ms": 212106,
-      "name": "Te Sigo",
-      "url": "https://open.spotify.com/track/3Oo43EMAeUSAwBy2nYa0A6"
+      "duration_ms": 201504,
+      "name": "Se Me Ha Perdido un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6OfrAyy51UhReRVKm4O4gO"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "El Club del Amigo",
-        "url": "https://open.spotify.com/album/2NajU6QdtzPaGLcH2y7SEB"
-      },
-      "artists": [
-        {
-          "name": "Guachup\u00e9",
-          "url": "https://open.spotify.com/artist/1IbUoO6fomi5BxFk5X6n1K"
-        }
-      ],
-      "duration_ms": 210586,
-      "name": "Todo va lento",
-      "url": "https://open.spotify.com/track/5DHfgP2QcNK6zwMOfAzWoP"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Morbo's Club",
         "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 237346,
       "name": "Fantasma de la Rana",
       "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "El Club del Amigo",
+        "url": "https://open.spotify.com/album/2NajU6QdtzPaGLcH2y7SEB"
+      },
+      "artists": [
+        {
+          "name": "Guachup\u00e9",
+          "url": "https://open.spotify.com/artist/1IbUoO6fomi5BxFk5X6n1K"
+        }
+      ],
+      "duration_ms": 210586,
+      "name": "Todo va lento",
+      "url": "https://open.spotify.com/track/5DHfgP2QcNK6zwMOfAzWoP"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Radio Ghetto",
-        "url": "https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Despideme",
-      "url": "https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Salon Victoria",
         "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 189480,
       "name": "Maldita Soledad",
       "url": "https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Radio Ghetto",
+        "url": "https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "Despideme",
+      "url": "https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Mugre",
-        "url": "https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Levanten las Copas",
-      "url": "https://open.spotify.com/track/5qeQlJTeVzakGj1Y1VPgjP"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Emulsion de Skape",
         "url": "https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 143200,
       "name": "Ste Ska",
       "url": "https://open.spotify.com/track/0KNXYLRR59LN2R4Qa8YGJ8"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Mugre",
+        "url": "https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Levanten las Copas",
+      "url": "https://open.spotify.com/track/5qeQlJTeVzakGj1Y1VPgjP"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "1997-2002",
-        "url": "https://open.spotify.com/album/0WMdVs6ArgHzWx81zmqwci"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Jaia",
-      "url": "https://open.spotify.com/track/3Hr4atc6R27a0tQtFSYab9"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Super Riddim Internacional Volumen 1",
         "url": "https://open.spotify.com/album/7xZ3YEl1nX77akD4rOaw2r"
       },
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
+        "name": "1997-2002",
+        "url": "https://open.spotify.com/album/0WMdVs6ArgHzWx81zmqwci"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Jaia",
+      "url": "https://open.spotify.com/track/3Hr4atc6R27a0tQtFSYab9"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
         "name": "The Maskatonians All Stars And Friends",
         "url": "https://open.spotify.com/album/369qblMdVKisn6er3exhcw"
       },
@@ -1499,34 +1499,18 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Contra-Revolucion Avenue",
-        "url": "https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2"
+        "name": "Morocha",
+        "url": "https://open.spotify.com/album/09e12okaJoA5p30Cj18XMP"
       },
       "artists": [
         {
-          "name": "Tijuana No!",
-          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
         }
       ],
-      "duration_ms": 182400,
-      "name": "Spanish Bombs",
-      "url": "https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "Klub Ska",
-        "url": "https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 146452,
-      "name": "Puto Alcohol",
-      "url": "https://open.spotify.com/track/7tj8oe1VHikWXAyS3Anhz3"
+      "duration_ms": 156655,
+      "name": "Morocha",
+      "url": "https://open.spotify.com/track/5A7HJmgaZU0buq4hpuqZ4Q"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1547,18 +1531,18 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Morocha",
-        "url": "https://open.spotify.com/album/09e12okaJoA5p30Cj18XMP"
+        "name": "Contra-Revolucion Avenue",
+        "url": "https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2"
       },
       "artists": [
         {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+          "name": "Tijuana No!",
+          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
         }
       ],
-      "duration_ms": 156655,
-      "name": "Morocha",
-      "url": "https://open.spotify.com/track/5A7HJmgaZU0buq4hpuqZ4Q"
+      "duration_ms": 182400,
+      "name": "Spanish Bombs",
+      "url": "https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1611,22 +1595,6 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Mi Vida En Otro Lado",
-        "url": "https://open.spotify.com/album/1EEjdbFeFLfjtjPSRj1IqX"
-      },
-      "artists": [
-        {
-          "name": "Maskatesta",
-          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
-        }
-      ],
-      "duration_ms": 249800,
-      "name": "Te Necesito",
-      "url": "https://open.spotify.com/track/3xpDMF75INs6FQFMa7F4Ef"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
         "name": "Contra El Viento",
         "url": "https://open.spotify.com/album/7s2OSu8SOC2BCvyzJ5pr5k"
       },
@@ -1647,24 +1615,8 @@
     {
       "added_at": "2021-12-21 17:00:46",
       "album": {
-        "name": "Frecuencia Extrema",
-        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
-      },
-      "artists": [
-        {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Mala Vida",
-      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
-    },
-    {
-      "added_at": "2021-12-21 17:00:46",
-      "album": {
-        "name": "En la Kalle",
-        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
+        "name": "Klub Ska",
+        "url": "https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w"
       },
       "artists": [
         {
@@ -1672,9 +1624,25 @@
           "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
         }
       ],
-      "duration_ms": 217826,
-      "name": "Skalari Rude Klub (SRK)",
-      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
+      "duration_ms": 146452,
+      "name": "Puto Alcohol",
+      "url": "https://open.spotify.com/track/7tj8oe1VHikWXAyS3Anhz3"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Mi Vida En Otro Lado",
+        "url": "https://open.spotify.com/album/1EEjdbFeFLfjtjPSRj1IqX"
+      },
+      "artists": [
+        {
+          "name": "Maskatesta",
+          "url": "https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE"
+        }
+      ],
+      "duration_ms": 249800,
+      "name": "Te Necesito",
+      "url": "https://open.spotify.com/track/3xpDMF75INs6FQFMa7F4Ef"
     },
     {
       "added_at": "2021-12-21 17:00:46",
@@ -1691,6 +1659,38 @@
       "duration_ms": 257959,
       "name": "Resistir\u00e9",
       "url": "https://open.spotify.com/track/2yV2H6tLETd64BapUezE95"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Morbo's Club",
+        "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
+      },
+      "artists": [
+        {
+          "name": "Sekta Core",
+          "url": "https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc"
+        }
+      ],
+      "duration_ms": 243813,
+      "name": "La Zona del Terror",
+      "url": "https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ"
+    },
+    {
+      "added_at": "2021-12-21 17:00:46",
+      "album": {
+        "name": "Frecuencia Extrema",
+        "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Mala Vida",
+      "url": "https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC"
     },
     {
       "added_at": "2021-12-21 17:00:46",

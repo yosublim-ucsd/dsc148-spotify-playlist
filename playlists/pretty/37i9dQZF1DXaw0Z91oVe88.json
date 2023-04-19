@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2430,
+  "num_followers": 2434,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTY5MCwwMDAwMDAwMDU1ODU4ZTliMzM1ZWI2N2EyYWRjZGJiNjQwNWU2Nzgy",
+  "snapshot_id": "MTY3OTkwNTY5MCwwMDAwMDAwMDhlMGNhZjhlNWEyYjdmMGU0MmQ2ODAzMWIyN2QyNmQ4",
   "tracks": [
     {
       "added_at": "2023-03-27 08:28:10",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-03-27 08:28:10",
       "album": {
-        "name": "Cold World",
-        "url": "https://open.spotify.com/album/1LV9rvmb5ibcrCKLcv6Pv2"
-      },
-      "artists": [
-        {
-          "name": "OVAN",
-          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
-        }
-      ],
-      "duration_ms": 208306,
-      "name": "Cold World",
-      "url": "https://open.spotify.com/track/4N2qh0ovGWJOSPqCB2007q"
-    },
-    {
-      "added_at": "2023-03-27 08:28:10",
-      "album": {
         "name": "The Blowing",
         "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 190826,
       "name": "Disconnected",
       "url": "https://open.spotify.com/track/7FoSoIvql4oXc8I60L8Fqi"
+    },
+    {
+      "added_at": "2023-03-27 08:28:10",
+      "album": {
+        "name": "Cold World",
+        "url": "https://open.spotify.com/album/1LV9rvmb5ibcrCKLcv6Pv2"
+      },
+      "artists": [
+        {
+          "name": "OVAN",
+          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
+        }
+      ],
+      "duration_ms": 208306,
+      "name": "Cold World",
+      "url": "https://open.spotify.com/track/4N2qh0ovGWJOSPqCB2007q"
     },
     {
       "added_at": "2023-03-27 08:28:10",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-03-27 08:28:10",
       "album": {
-        "name": "STELLA I",
-        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
+        "name": "Hundred Million Stars from the Sky (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/00vsz6H264Nbmq4XXMgK7d"
       },
       "artists": [
         {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+          "name": "Yi Sung Yol",
+          "url": "https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9"
         }
       ],
-      "duration_ms": 116000,
-      "name": "Go Your Way",
-      "url": "https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq"
+      "duration_ms": 265000,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/6SHcJIhRWtiHGmWuAwlxUt"
     },
     {
       "added_at": "2023-03-27 08:28:10",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-03-27 08:28:10",
       "album": {
-        "name": "Hundred Million Stars from the Sky (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/00vsz6H264Nbmq4XXMgK7d"
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
       "artists": [
         {
-          "name": "Yi Sung Yol",
-          "url": "https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9"
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
         }
       ],
-      "duration_ms": 265000,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/6SHcJIhRWtiHGmWuAwlxUt"
+      "duration_ms": 116000,
+      "name": "Go Your Way",
+      "url": "https://open.spotify.com/track/5CKEQUucs3M5To1LqfC8Qq"
     }
   ],
   "unique_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",

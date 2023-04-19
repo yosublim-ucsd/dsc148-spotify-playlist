@@ -2608,7 +2608,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 212828,
       "name": "That Person - Instrumental",
       "url": "https://open.spotify.com/track/7JhEKgTX5WoIWJkJk4tBUy"
@@ -2918,6 +2918,24 @@
       "duration_ms": 253045,
       "name": "With My Tears - Instrumental",
       "url": "https://open.spotify.com/track/3B3unUWfhBzmrxPb9uwa0u"
+    },
+    {
+      "album": {
+        "name": "Descendants Of The Sun Pt.7 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/60XRnPYaFeSFUvrAlRYFP6"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254737,
+      "name": "With You - Instrumental",
+      "url": "https://open.spotify.com/track/4WgPuqy54nt2pi89GM5gHs"
     },
     {
       "album": {

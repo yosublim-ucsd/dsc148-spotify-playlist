@@ -146,7 +146,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 235493,
       "name": "Adagio",
       "url": "https://open.spotify.com/track/3zmLvXyfixDF8gmBezsBxD"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 159139,
       "name": "Dijon",
       "url": "https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB"
@@ -1668,6 +1668,24 @@
       "duration_ms": 226000,
       "name": "helplessly hoping",
       "url": "https://open.spotify.com/track/5kxs43PqoQOhW9HNVh7vW4"
+    },
+    {
+      "album": {
+        "name": "Hidden",
+        "url": "https://open.spotify.com/album/4bVpBfSsEpKxvHwuVHPBJm"
+      },
+      "artists": [
+        {
+          "name": "Little Rose",
+          "url": "https://open.spotify.com/artist/2yDY3r3GJAxtK5xhndIhVI"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Hidden",
+      "url": "https://open.spotify.com/track/3i6TkLVyl4EiKSnuP1RrjG"
     },
     {
       "album": {
@@ -2482,7 +2500,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 186352,
       "name": "Mar De Ardora",
       "url": "https://open.spotify.com/track/5H6H2pYhX8tYGQ2DG4QeB0"
@@ -2860,7 +2878,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 224678,
       "name": "My Faith Is Growing",
       "url": "https://open.spotify.com/track/0k1coGLsxsIE8KCdLNUwPt"
@@ -3112,7 +3130,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 172000,
       "name": "Ocean Heart",
       "url": "https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL"
@@ -5204,6 +5222,24 @@
       "duration_ms": 78546,
       "name": "Vladimir's Blues",
       "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
+    },
+    {
+      "album": {
+        "name": "Waiting for Peace",
+        "url": "https://open.spotify.com/album/3L9OM40xrsOccrCQkQYFAF"
+      },
+      "artists": [
+        {
+          "name": "H\u00f8jsgaard",
+          "url": "https://open.spotify.com/artist/5lliVLCizk1905IEorthCG"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177357,
+      "name": "Waiting for Peace",
+      "url": "https://open.spotify.com/track/1Gk9fSqPD1cpYbrQPij47C"
     },
     {
       "album": {

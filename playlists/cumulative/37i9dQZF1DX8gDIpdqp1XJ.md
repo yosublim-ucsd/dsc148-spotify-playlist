@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-764 songs - 2 day 2 hr 17 min
+765 songs - 2 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -769,7 +769,8 @@
 | [You're Either On Something](https://open.spotify.com/track/5ZChGP01nfanQFCx2F4kcQ) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [You're Either On Something](https://open.spotify.com/album/5duiTi7izQc2iGzszYzrLJ) | 3:47 | 2021-04-02 | 2022-07-09 |
 | [Your Devotion](https://open.spotify.com/track/32q97uV01vtw3vzQWryKxu) | [Y.O.G.A.](https://open.spotify.com/artist/0H2mWrAuc4RzRwr2SkpG2y) | [Your Devotion](https://open.spotify.com/album/20IdJ1A2s43PMSj2lRx746) | 4:12 | 2021-04-02 | 2022-04-20 |
 | [Your Letter](https://open.spotify.com/track/02EfUBR452SeQUfic5swi8) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Flavour](https://open.spotify.com/album/1oCHmshXKdVv8YDSneqvLw) | 3:00 | 2021-04-02 | 2022-04-20 |
-| [Your Love](https://open.spotify.com/track/1FHeegARABz3cgW3qgrtbz) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Your Love](https://open.spotify.com/album/68d5CK8mp4yqcc7TfS8uM7) | 3:13 | 2023-04-07 |  |
+| [Your Love](https://open.spotify.com/track/1FHeegARABz3cgW3qgrtbz) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Your Love](https://open.spotify.com/album/68d5CK8mp4yqcc7TfS8uM7) | 3:13 | 2023-04-07 | 2023-04-19 |
+| [Your Love](https://open.spotify.com/track/1ZvUKEzJM4s4LyPhj70oaP) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Your Love](https://open.spotify.com/album/4tgaAuPBaVEPbUStoUNFSd) | 3:13 | 2023-04-07 |  |
 | [Yüce Dağ Başında](https://open.spotify.com/track/6UOoLY8PSg1RiNCXi1EO5w) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Yüce Dağ Başında](https://open.spotify.com/album/4erI1hl9uBkYuiBTvunXOY) | 4:18 | 2021-04-02 | 2022-04-20 |
 | [ZEZE](https://open.spotify.com/track/0yN5Z0MmCwMa0ccOAvB5wR) | [WEMA](https://open.spotify.com/artist/5aPv7qXVKLZfs9p4d8fnAE) | [WEMA](https://open.spotify.com/album/7wopc0xgBoZnqA0nIYfHnS) | 4:15 | 2022-05-06 | 2022-07-29 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6u62UVrRdZV.md) - [plain]
 
 > Summer or not: get into a sunny and beachy mood, with this selection of reggae born music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,570 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,569 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6u62UVrRdZV.md) - [plain]
 | 8 | [Nuh Like da Style Yah](https://open.spotify.com/track/4Kp19kNlmNY6QUmDqHOXlZ) | [Bugle](https://open.spotify.com/artist/4J51t1ZO7ed5qgsXmz9VXM) | [Intoxxicated Riddim](https://open.spotify.com/album/2Kr3GHlrKjrq0VF6wwVh7P) | 2:53 |
 | 9 | [Rebel Hifi](https://open.spotify.com/track/2Gvqxi6K6A6gYliyc9kxsY) | [Lotek](https://open.spotify.com/artist/1Ne5E79pl0FLsaSX5nML1s), [Spikey Tee](https://open.spotify.com/artist/6a4hSUQZf8eszRQyOgbR75) | [Rebel Hifi \(Remixes\) \(feat\. Spikey Tee\)](https://open.spotify.com/album/2oNu83nbRXNrFg0j9h2g3j) | 3:01 |
 | 10 | [Black Rabbit \- Dub](https://open.spotify.com/track/4ps8OmIEuSBxkZzpmKaTxW) | [Prince Fatty](https://open.spotify.com/artist/2KQRgrZISaDwQNpiLUTAnr), [Shniece McMenamin](https://open.spotify.com/artist/44odrjJUepZctaUDynBx8E) | [Black Rabbit](https://open.spotify.com/album/1NFY55qk8QDEobcEVsY4AF) | 3:47 |
-| 11 | [Can't Be My Lover \(feat\. Buju Banton\) \- Curtis Lynch Remix](https://open.spotify.com/track/20jlpY83jcnJcyecYVory3) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Curtis Lynch](https://open.spotify.com/artist/4z4rmxibNxHZj605twHyay) | [No Other Love / Can't Be My Lover \- Cool Breeze Mixes](https://open.spotify.com/album/4pvva5MVnN39KR6EAMhElK) | 3:52 |
+| 11 | [Can't Be My Lover \(feat\. Buju Banton\) \- Curtis Lynch Remix](https://open.spotify.com/track/20jlpY83jcnJcyecYVory3) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA), [Curtis Lynch Jnr](https://open.spotify.com/artist/1HELExvEQsGejylizKZA5Z) | [No Other Love / Can't Be My Lover \- Cool Breeze Mixes](https://open.spotify.com/album/4pvva5MVnN39KR6EAMhElK) | 3:52 |
 | 12 | [Good Enuff \- Cash Flow Dub](https://open.spotify.com/track/219czERofO0VNx1WIgsw3l) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1), [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Guns Don't Kill People...Lazers Do](https://open.spotify.com/album/6ZqhmrXfavffKqZiip0cGM) | 2:49 |
 | 13 | [Torn Apart \(feat\. RITA ORA\)](https://open.spotify.com/track/6Lxb7Czakx4SFsOaZa3qvE) | [Snoop Lion](https://open.spotify.com/artist/4RxUeUyMaEe2T5tvULq5j0), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Reincarnated \(Deluxe Version\)](https://open.spotify.com/album/5q4CMxHUBPn11UG6uYX26m) | 3:30 |
 | 14 | [Cheerleader \- Felix Jaehn Remix Radio Edit](https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh) | [Me 4 U](https://open.spotify.com/album/1QwWTLYn9dntAj7l9FRJwY) | 3:00 |

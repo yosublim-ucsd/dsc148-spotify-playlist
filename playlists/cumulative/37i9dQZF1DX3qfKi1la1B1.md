@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-183 songs - 11 hr 58 min
+184 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [kid\(Ryu Solo\)](https://open.spotify.com/track/5dYfy7fcDq4p5i9ZwtMAZo) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [kid\(Ryu Solo\)](https://open.spotify.com/album/7nRmisV0C7V5MsE1Mq2VBX) | 4:13 | 2023-03-21 |  |
 | [Kids Are Growing Up \(Part 1\)](https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Kids Are Growing Up \(Part 1\)](https://open.spotify.com/album/0q4WCFawxIPF7ZGwL2sfaV) | 2:01 | 2023-02-09 |  |
 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 | 2022-10-20 |  |
-| [Kindness Will Follow Your Tears](https://open.spotify.com/track/6DzImA6wUmJutp7hzLHJsb) | [Lonnie Holley](https://open.spotify.com/artist/7dgLSJ4HaXx0dy5V2BMQe5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Kindness Will Follow Your Tears](https://open.spotify.com/album/0aeJ1tNGjI55T0DO2eGi7g) | 4:36 | 2023-03-09 |  |
+| [Kindness Will Follow Your Tears](https://open.spotify.com/track/2HTXn9N4Hsw7oy02Db3a89) | [Lonnie Holley](https://open.spotify.com/artist/7dgLSJ4HaXx0dy5V2BMQe5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Oh Me Oh My](https://open.spotify.com/album/1jXTqjpWJXAd2PtGcnp8pe) | 4:36 | 2023-04-13 |  |
+| [Kindness Will Follow Your Tears](https://open.spotify.com/track/6DzImA6wUmJutp7hzLHJsb) | [Lonnie Holley](https://open.spotify.com/artist/7dgLSJ4HaXx0dy5V2BMQe5), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Kindness Will Follow Your Tears](https://open.spotify.com/album/0aeJ1tNGjI55T0DO2eGi7g) | 4:36 | 2023-03-09 | 2023-04-19 |
 | [Konna Yoru Dakara](https://open.spotify.com/track/1o4Q88xRSLjA5DbIBChOst) | [Kick a Show](https://open.spotify.com/artist/7BuZBNitsq4uD9eoQwJPCG) | [Konna Yoru Dakara](https://open.spotify.com/album/6M1NO2vixcPRER6o4xcvnU) | 3:04 | 2023-01-12 | 2023-01-20 |
 | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Lay Up N’ Chill \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg) | 2:33 | 2022-10-20 | 2023-01-29 |
 | [Let It Ride \(with Robert Glasper\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/track/1Aflfm3OTl13XvFjvclJtR) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Let It Ride \(with Robert Glasper\) \[From “Norah Jones is Playing Along” Podcast\]](https://open.spotify.com/album/4C3DMnehzEcys0OYqOuH1G) | 5:55 | 2023-04-13 |  |

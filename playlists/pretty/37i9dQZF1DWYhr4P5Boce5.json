@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 192781,
+  "num_followers": 192841,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE1OTI3MiwwMDAwMDAwMDIxZWU5MTY2ZGM3NGZhOTE1NGRiNTE4NGNlNmZmZDRk",
+  "snapshot_id": "MTY3NTE1OTI3MiwwMDAwMDAwMDM1NzMzOTRjZmFhZDk1NjZmODAxMDdhNWVjZmJmMTE0",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4Uan5I5JSFb1axGS0GCZmG"
-      },
-      "artists": [
-        {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
-        }
-      ],
-      "duration_ms": 216991,
-      "name": "Commitment",
-      "url": "https://open.spotify.com/track/0kJSz8ENF9QUcBmhBvIROi"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Love Will Have the Final Word",
         "url": "https://open.spotify.com/album/6ZTyCd2C1LuDlOwdlHmCzr"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 216453,
       "name": "With Every Act of Love",
       "url": "https://open.spotify.com/track/603W79d0dqq4nGZMFKHWJi"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4Uan5I5JSFb1axGS0GCZmG"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "duration_ms": 216991,
+      "name": "Commitment",
+      "url": "https://open.spotify.com/track/0kJSz8ENF9QUcBmhBvIROi"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "Out of Body",
+        "url": "https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms"
+      },
+      "artists": [
+        {
+          "name": "Apollo LTD",
+          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
+        }
+      ],
+      "duration_ms": 219613,
+      "name": "Heaven (All Around You) - Acoustic",
+      "url": "https://open.spotify.com/track/5b4U8K8IdHj8Z9kW5dxNNR"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "BUSY",
         "url": "https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 127058,
       "name": "BUSY",
       "url": "https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Out of Body",
-        "url": "https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms"
-      },
-      "artists": [
-        {
-          "name": "Apollo LTD",
-          "url": "https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp"
-        }
-      ],
-      "duration_ms": 219613,
-      "name": "Heaven (All Around You) - Acoustic",
-      "url": "https://open.spotify.com/track/5b4U8K8IdHj8Z9kW5dxNNR"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -947,26 +947,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "I Love You (Remix)",
-        "url": "https://open.spotify.com/album/1VX963HeOs6HHWWm8jwxim"
+        "name": "Choose You",
+        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
       },
       "artists": [
         {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
-        },
-        {
-          "name": "Neon Feather",
-          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
-        },
-        {
-          "name": "Tryhard Society",
-          "url": "https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw"
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 193170,
-      "name": "I Love You (Remix)",
-      "url": "https://open.spotify.com/track/0C7KfSMsBddWhnw2gCZLBK"
+      "duration_ms": 185211,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -987,18 +979,26 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Choose You",
-        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
+        "name": "I Love You (Remix)",
+        "url": "https://open.spotify.com/album/1VX963HeOs6HHWWm8jwxim"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+        },
+        {
+          "name": "Neon Feather",
+          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
+        },
+        {
+          "name": "Tryhard Society",
+          "url": "https://open.spotify.com/artist/4KrJmomsDlqlzkrYXUr2Rw"
         }
       ],
-      "duration_ms": 185211,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
+      "duration_ms": 193170,
+      "name": "I Love You (Remix)",
+      "url": "https://open.spotify.com/track/0C7KfSMsBddWhnw2gCZLBK"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "How Much You Mean To Me",
-        "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 218129,
-      "name": "How Much You Mean To Me",
-      "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "I do",
         "url": "https://open.spotify.com/album/1eQrGC1qAwhxa9YWpbT37E"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 190000,
       "name": "I do",
       "url": "https://open.spotify.com/track/1HbTfQjhpqXxmedDXkPNoa"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "How Much You Mean To Me",
+        "url": "https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 218129,
+      "name": "How Much You Mean To Me",
+      "url": "https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG"
     },
     {
       "added_at": "2023-01-31 10:01:12",

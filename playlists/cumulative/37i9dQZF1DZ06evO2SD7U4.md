@@ -4,7 +4,7 @@
 
 > This is Botellita De Jerez\. The essential tracks, all in one playlist.
 
-58 songs - 3 hr 23 min
+59 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Ropavejero](https://open.spotify.com/track/0dOKreLKmUtYQvsdzcwXZL) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Rock En Español \- Lo Mejor De Botellita De Jerez](https://open.spotify.com/album/70fvCgWSkOQRABSSJP6xAg) | 4:25 | 2023-01-14 |  |
 | [San Jorge Y El Dragon](https://open.spotify.com/track/5aPJSGuxgdVqXjUNs2dX4n) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 3:39 | 2023-01-14 |  |
 | [Saque De Meta Y Pique](https://open.spotify.com/track/2wIsOeYMl9ie4MLObWvypH) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Singles](https://open.spotify.com/album/5q54omEW1Ko4xPvxlTO9GF) | 3:16 | 2023-01-14 | 2023-03-18 |
-| [Sin Ti](https://open.spotify.com/track/12hFgenMwaFHoK2ZqiRh9q) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [La Venganza Del Hijo Del Guacarock](https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn) | 0:56 | 2023-01-14 |  |
+| [Se Me Para El Corazón](https://open.spotify.com/track/0lfZvS4JSgS91cjuON9Me1) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Niña De Mis Ojos](https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp) | 2:48 | 2023-04-18 |  |
+| [Sin Ti](https://open.spotify.com/track/12hFgenMwaFHoK2ZqiRh9q) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [La Venganza Del Hijo Del Guacarock](https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn) | 0:56 | 2023-01-14 | 2023-04-19 |
 | [Soledad](https://open.spotify.com/track/1DiHDUg3iRQJODq2vk4Er5) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Naco Es Chido](https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl) | 4:07 | 2023-01-14 |  |
 | [Soy y No Soy](https://open.spotify.com/track/0DnCu4Jl0Ip309k55w4LHJ) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Forjando Patria](https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L) | 5:10 | 2023-03-13 | 2023-03-25 |
 | [Te Quiero Mucho, Pero Ya No Te Soporto](https://open.spotify.com/track/30TZX7UiJunHYKByAQKqCj) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [\#Nopinchesmames](https://open.spotify.com/album/0f7hbtdhG4rW5xNydzad7d) | 4:06 | 2023-01-14 |  |

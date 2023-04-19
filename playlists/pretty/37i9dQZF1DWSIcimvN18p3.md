@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Sunny War
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,136 likes - 150 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,182 likes - 150 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 103 | [The Boxer \- 2002 Remaster](https://open.spotify.com/track/2xchn60m6hRjWwpb7tGvpU) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Roses in the Snow \(Deluxe Edition\)](https://open.spotify.com/album/2LSEEOLu3PSt0T30n0Vg9O) | 3:16 |
 | 104 | [Wreck You](https://open.spotify.com/track/1Ee33iUeDRUA5sGshbsOWM) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Bird & the Rifle](https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk) | 3:18 |
 | 105 | [Glenfern](https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Total Freedom](https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3) | 4:30 |
-| 106 | [I Remember You](https://open.spotify.com/track/6U7ZRYMJ2zIO1oe4YoK6pU) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Queen of the Minor Key](https://open.spotify.com/album/0zgwXcmqZV91rLsGgkwtuF) | 3:51 |
-| 107 | [Jeremiah](https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:04 |
+| 106 | [Jeremiah](https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:04 |
+| 107 | [I Remember You](https://open.spotify.com/track/6U7ZRYMJ2zIO1oe4YoK6pU) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Queen of the Minor Key](https://open.spotify.com/album/0zgwXcmqZV91rLsGgkwtuF) | 3:51 |
 | 108 | [Resentment \(New Feelings Version\)](https://open.spotify.com/track/3T5m746yNi1IFCcnaVA0IR) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Same History, New Feelings](https://open.spotify.com/album/2pVw5jbYUefDoaZgjnu4Q9) | 2:52 |
 | 109 | [Whatever Fits Together](https://open.spotify.com/track/3Ya357rg6humSfjzHxpdJ2) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Quiet the Room](https://open.spotify.com/album/3aDm82IFj0OjSDWLGTWLBE) | 3:45 |
 | 110 | [Here Before](https://open.spotify.com/track/4Y6TcrxjWUEa4GzSl8z65a) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Lookaftering](https://open.spotify.com/album/6jFHLKqnzRHI0ByuQxO37n) | 2:05 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 149 | [When You're Ready](https://open.spotify.com/track/7MkkZ2luXmVSBz7vM9MIvR) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 3:47 |
 | 150 | [Porch Light](https://open.spotify.com/track/03x3IZ5tHNueztt7tbmzjT) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour](https://open.spotify.com/album/1sfz6tIsPAhgsqvcCZ6fvw) | 3:17 |
 
-Snapshot ID: `MTY3ODI1MTYwMCwwMDAwMDAwMGNmZTRiMjljYWIxYmI5YmRlNzhlZTIxMjQ2NWE3NzU5`
+Snapshot ID: `MTY3ODI1MTYwMCwwMDAwMDAwMGUzZWViZmNjNjcyZDExOTg4ZWU2NzUyOWRiM2NjYTlm`

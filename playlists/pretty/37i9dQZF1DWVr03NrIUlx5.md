@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 
 > 8 bit bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,102 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,207 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 59 | [Mr\. Brightside](https://open.spotify.com/track/1rVr7Tq6lAk9ctFEm2IlTE) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of The Killers](https://open.spotify.com/album/2OZ8JhqyKJmjh5nwpVXWwU) | 3:41 |
 | 60 | [Stressed Out](https://open.spotify.com/track/4Z6jwje8aW39guIhuSyr4n) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Twenty One Pilots](https://open.spotify.com/album/1bBLH23v2BFQejyWAXQXOX) | 3:24 |
 | 61 | [Enter Sandman](https://open.spotify.com/track/6or0Zn98H9Cir0LILZq26W) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Metallica](https://open.spotify.com/album/5YgOotRzagZR9gCiHaXD9S) | 4:30 |
-| 62 | [Demons](https://open.spotify.com/track/2Esyeuk3y1T15Y5vFYvOm4) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Imagine Dragons](https://open.spotify.com/album/1svHcsZLcTHOqdif40fGAs) | 3:00 |
-| 63 | [Dance Monkey \(8 Bit Version\)](https://open.spotify.com/track/28V8JJ3CcpjAsyFjETYlUt) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [Killin' the Game](https://open.spotify.com/album/39j8OiT31YTk8epqyi1xSd) | 3:28 |
+| 62 | [Dance Monkey \(8 Bit Version\)](https://open.spotify.com/track/28V8JJ3CcpjAsyFjETYlUt) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [Killin' the Game](https://open.spotify.com/album/39j8OiT31YTk8epqyi1xSd) | 3:28 |
+| 63 | [Demons](https://open.spotify.com/track/2Esyeuk3y1T15Y5vFYvOm4) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Imagine Dragons](https://open.spotify.com/album/1svHcsZLcTHOqdif40fGAs) | 3:00 |
 | 64 | [On Melancholy Hill](https://open.spotify.com/track/1jsjYsq6BMdd372OSdTelM) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Gorillaz](https://open.spotify.com/album/5Ac2uMLrhTDFeRm2Kbrt0J) | 3:49 |
 | 65 | [Immigrant Song](https://open.spotify.com/track/6INzFSLg08SUeZcG64PSwZ) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Led Zeppelin](https://open.spotify.com/album/11nihhKvWVwU8cM9QWoF4Y) | 2:27 |
 | 66 | [Toxicity \(8\-Bit System Of A Down Emulation\)](https://open.spotify.com/track/78stY6565a5LgCpTvnhxl2) | [8\-Bit Arcade](https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn) | [Rock & Metal Anthems](https://open.spotify.com/album/7cVF5QegUiL7AP2e06WXOf) | 3:26 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 73 | [Old Town Road \(8 Bit Version\)](https://open.spotify.com/track/4RcSbZpzM5qYQehEolo5z2) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [Lit 8 Bits](https://open.spotify.com/album/5aybfUu9nsyEoXkyGtVYVw) | 1:55 |
 | 74 | [Boulevard of Broken Dreams](https://open.spotify.com/track/4fvRkA3P0RgsdTbpsiwEXS) | [Super Power Club](https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f) | [Super Power Club: 8\-Bit Tribute to Modern Rock Hits](https://open.spotify.com/album/18WSrQcRdR0z4qrTUJOpQd) | 2:20 |
 | 75 | [Thriller](https://open.spotify.com/track/10akn5RmTjMhOPdLm4iNKh) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Michael Jackson](https://open.spotify.com/album/72muLXH22HNmlYPdQRLsVO) | 4:01 |
-| 76 | [Beat It](https://open.spotify.com/track/1ra2jGSKvDmEWnESPgWhQf) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Michael Jackson](https://open.spotify.com/album/72muLXH22HNmlYPdQRLsVO) | 3:00 |
+| 76 | [Sweet Dream \- 8\-Bit Eurythmics Emulation](https://open.spotify.com/track/1WnEMvIOVHVKggVIokbNbo) | [8\-Bit Arcade](https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn) | [The 8\-Bit 80s](https://open.spotify.com/album/4wRRU3vtMD32OyrynXPtwZ) | 4:48 |
 | 77 | [Du Hast \(8\-Bit Rammstien Emulation\)](https://open.spotify.com/track/0HCFSx4iOx7cJLScHlys9j) | [8\-Bit Arcade](https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn) | [Rock & Metal Anthems](https://open.spotify.com/album/7cVF5QegUiL7AP2e06WXOf) | 1:54 |
 | 78 | [Smooth Criminal](https://open.spotify.com/track/6K2SIairc1P84oICLGS3Wc) | [Super Power Club](https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f) | [8\-Bit 80's](https://open.spotify.com/album/3lzOTH8UFrfDFPyXDGV3nF) | 3:01 |
-| 79 | [Sweet Dream \- 8\-Bit Eurythmics Emulation](https://open.spotify.com/track/1WnEMvIOVHVKggVIokbNbo) | [8\-Bit Arcade](https://open.spotify.com/artist/21VBNkZvKxrI9zmfFRxXvn) | [The 8\-Bit 80s](https://open.spotify.com/album/4wRRU3vtMD32OyrynXPtwZ) | 4:48 |
+| 79 | [Beat It](https://open.spotify.com/track/1ra2jGSKvDmEWnESPgWhQf) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Michael Jackson](https://open.spotify.com/album/72muLXH22HNmlYPdQRLsVO) | 3:00 |
 | 80 | [Smells Like Teen Spirit](https://open.spotify.com/track/5CVCqj3EtrFDMhZylxpqhf) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Nirvana](https://open.spotify.com/album/0tbrVxoMh8YaAVSrNBG14d) | 5:01 |
 | 81 | [The Trooper](https://open.spotify.com/track/1FbtRuEVW4lG4sm2dOMsvl) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Iron Maiden](https://open.spotify.com/album/6xPPlEtcuwC6NlCWIxIk6V) | 3:44 |
 | 82 | [Paper Planes \(8 Bit Version\)](https://open.spotify.com/track/5z7P6AS3UhpYQMqGBblCQB) | [8 Bit Universe](https://open.spotify.com/artist/6Qhv32NzYnQ4YijXdJXTLs) | [Program the Party](https://open.spotify.com/album/0YXTQKfMIT9bl4tQCyEa4O) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 99 | [What I've Done](https://open.spotify.com/track/1QPqTG2MhhMJsXVfezJriJ) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Linkin Park](https://open.spotify.com/album/6W3SvNdAMTZxqQhuKhyhEe) | 3:26 |
 | 100 | [The Unforgiven](https://open.spotify.com/track/5rXsIUQXG2zTW0bKPrMWOn) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Metallica](https://open.spotify.com/album/5YgOotRzagZR9gCiHaXD9S) | 4:23 |
 
-Snapshot ID: `MTY2OTk1NzUwMCwwMDAwMDAwMGZiZTNlODlhMWNmMjA4NTJkZTY3MDhlYjZiMjY5MTQz`
+Snapshot ID: `MTY2OTk1NzUwMCwwMDAwMDAwMDIyNzQwNmY2ZmZjNDA2MzE2YTJiYmYzYjZjM2M3MTFj`

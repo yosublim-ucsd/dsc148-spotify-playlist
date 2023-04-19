@@ -4,7 +4,7 @@
 
 > 作詞・作曲・編曲を手掛けるマルチ音楽コンポーザー。映画・アニメ・ゲーム・舞台・TVなど幅広い分野で活躍。Kalafinaのプロデュースや自身のユニットSee\-Saw、新プロジェクトFictionJunctionとしての活動でも知られ、ヨーロッパと東洋のエッセンスが融合した独自の世界観で熱い支持を集めている。
 
-103 songs - 7 hr 57 min
+104 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [春はゆく](https://open.spotify.com/track/2Zv3lEuRxAmBTG8Zw48jFV) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [花の唄 / I beg you / 春はゆく](https://open.spotify.com/album/7m8thQY9OMG9ZEE8zdfkZY) | 5:06 | 2022-02-28 | 2022-07-29 |
 | [暁の車](https://open.spotify.com/track/3IEObXuomguph3jjxrccWB) | [FictionJunction YUUKA](https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf) | [暁の車](https://open.spotify.com/album/6FSGtCdVtQ8exaIdHOpkdQ) | 5:03 | 2022-02-28 |  |
 | [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 | 2022-02-28 |  |
+| [櫂](https://open.spotify.com/track/4MmbhBWuOX0FChh2gb1fXv) | [FictionJunction](https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [PARADE](https://open.spotify.com/album/3Eyw8aU1Fn25ctcjd3GnMq) | 5:01 | 2023-04-18 |  |
 | [水の証](https://open.spotify.com/track/5mizgqUfE7BrNZtbPiNWdy) | [ラクス・クライン\(田中理恵\)](https://open.spotify.com/artist/5o8QrLIxY6vRmQUEXQI6pu) | [水の証](https://open.spotify.com/album/1TVw6SHvytnhXTGMijSJK2) | 4:27 | 2022-02-28 |  |
 | [海と真珠](https://open.spotify.com/track/4dDBdgmfZxoLE8SR41RH70) | [JUNNA](https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d) | [海と真珠](https://open.spotify.com/album/2b7R36JmXl2ajwIMnkjs67) | 4:40 | 2022-02-28 | 2022-07-29 |
 | [深海の孤独](https://open.spotify.com/track/3W7cfHOierxSmWSnrQpRVK) | [桑島法子](https://open.spotify.com/artist/4InNxmyyefEtcBZE6XqSwr) | [深海の孤独](https://open.spotify.com/album/6VxiR4xgzWYXi3RPh9E9Qv) | 4:00 | 2022-02-28 |  |

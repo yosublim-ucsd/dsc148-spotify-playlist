@@ -4,7 +4,7 @@
 
 > Relax to the more laid back sounds from today's greatest artists.
 
-78 songs - 4 hr 22 min
+79 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Honest](https://open.spotify.com/track/36svFvzM1cHJuMz8285fuD) | [Tom King](https://open.spotify.com/artist/3wmFlsEi0UJSvM8vwbO9oT) | [Honest](https://open.spotify.com/album/03n6lNpvrwBABQj56zftUW) | 3:18 | 2021-10-14 | 2022-07-29 |
 | [Hymn for Her](https://open.spotify.com/track/6pGiAaDuRg3VJGE18rmWcs) | [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH), [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Everything's Waiting for You](https://open.spotify.com/album/2v22a5ayFfHDy1Ez7J5cLk) | 3:18 | 2021-10-14 |  |
 | [Hymn for Her \(feat\. Lydia Clowes\)](https://open.spotify.com/track/2mKl6EfVpKxrCIdAmMAruF) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91), [Lydia Clowes](https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH) | [Hymn for Her](https://open.spotify.com/album/4PYpVd1NV1nT6fpkWzhGIC) | 3:18 | 2021-10-14 | 2022-07-29 |
-| [I Don't Wanna Know](https://open.spotify.com/track/65F61kWYZEFbw4LvzZq2nn) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [I Don't Wanna Know](https://open.spotify.com/album/1N066Zst2TehlUuNPluYFf) | 3:28 | 2021-10-14 |  |
+| [I Don't Wanna Know](https://open.spotify.com/track/65F61kWYZEFbw4LvzZq2nn) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [I Don't Wanna Know](https://open.spotify.com/album/1N066Zst2TehlUuNPluYFf) | 3:28 | 2021-10-14 | 2023-04-19 |
+| [I Don't Wanna Know](https://open.spotify.com/track/6btfY7XPG3EoeAeiuKMydL) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [I Don't Wanna Know](https://open.spotify.com/album/5By0Rbv4eoDfEgYJYRya19) | 3:28 | 2021-10-14 |  |
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2021-10-14 |  |
 | [I Need You To Hate Me \- Piano Version](https://open.spotify.com/track/2C4TgCEpZv51xR3Yq6z1IW) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [I Need You To Hate Me \(Alternative Versions\)](https://open.spotify.com/album/2gl66A8oH0u2WrWF6ahiRn) | 2:50 | 2021-10-14 |  |
 | [i'm lonely](https://open.spotify.com/track/65tCdopbRv73fYFOL40ViN) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [i'm lonely](https://open.spotify.com/album/2UXohnFJdRqL9sX3smMJAy) | 3:01 | 2021-10-14 |  |

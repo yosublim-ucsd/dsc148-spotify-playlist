@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 146512,
+  "num_followers": 146553,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgzNjQ2MCwwMDAwMDAwMGMxYTcxYmI4MGVhYTRhMWVmMWNjMWY5NGUxNjE5Njlm",
+  "snapshot_id": "MTY4MDgzNjQ2MCwwMDAwMDAwMGFjMzAxMWRmMzQxMTFmMTBlYWE1ZDc2MmFmMzg3Y2Vl",
   "tracks": [
     {
       "added_at": "2023-03-31 03:01:00",
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x"
     },
     {
-      "added_at": "2023-04-18 00:48:32",
+      "added_at": "2023-04-19 00:45:46",
       "album": {
         "name": "Recinto",
         "url": "https://open.spotify.com/album/2EK43yizJmRkxIxzsBPLWA"
@@ -963,22 +963,18 @@
     {
       "added_at": "2023-03-31 03:01:00",
       "album": {
-        "name": "Pelo Mundo",
-        "url": "https://open.spotify.com/album/3CBgeU3PHAYf1Yai40dUDI"
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R"
       },
       "artists": [
         {
-          "name": "CT",
-          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
-        },
-        {
-          "name": "Jef Rodriguez",
-          "url": "https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo"
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
         }
       ],
-      "duration_ms": 166865,
-      "name": "Pelo Mundo",
-      "url": "https://open.spotify.com/track/6Gv2AXzjxhlTYKyb0cznEF"
+      "duration_ms": 128000,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc"
     },
     {
       "added_at": "2023-03-31 03:01:00",
@@ -1003,18 +999,22 @@
     {
       "added_at": "2023-03-31 03:01:00",
       "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/6bWqWfQkNVdcfzoCWTll2R"
+        "name": "Pelo Mundo",
+        "url": "https://open.spotify.com/album/3CBgeU3PHAYf1Yai40dUDI"
       },
       "artists": [
         {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+          "name": "CT",
+          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
+        },
+        {
+          "name": "Jef Rodriguez",
+          "url": "https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo"
         }
       ],
-      "duration_ms": 128000,
-      "name": "Stories",
-      "url": "https://open.spotify.com/track/0ooXXsObAmmfgYEB9dlIdc"
+      "duration_ms": 166865,
+      "name": "Pelo Mundo",
+      "url": "https://open.spotify.com/track/6Gv2AXzjxhlTYKyb0cznEF"
     },
     {
       "added_at": "2023-03-31 03:01:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-03-31 03:01:00",
       "album": {
+        "name": "Doses",
+        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
+      },
+      "artists": [
+        {
+          "name": "K.E",
+          "url": "https://open.spotify.com/artist/1bxL9qRsUIjE58sHjj9FzI"
+        }
+      ],
+      "duration_ms": 206210,
+      "name": "Doses",
+      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
+    },
+    {
+      "added_at": "2023-03-31 03:01:00",
+      "album": {
         "name": "Bem Vindx \u00e0 Lyra",
         "url": "https://open.spotify.com/album/11zJh3b4sbGY49SyRkJ0If"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 228191,
       "name": "Bem Vindx \u00e0 Lyra",
       "url": "https://open.spotify.com/track/2qQpfNUbSknXrr3p467tRj"
-    },
-    {
-      "added_at": "2023-03-31 03:01:00",
-      "album": {
-        "name": "Doses",
-        "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
-      },
-      "artists": [
-        {
-          "name": "K.E",
-          "url": "https://open.spotify.com/artist/1bxL9qRsUIjE58sHjj9FzI"
-        }
-      ],
-      "duration_ms": 206210,
-      "name": "Doses",
-      "url": "https://open.spotify.com/track/6wlLKk88zURUCDZqKwwqFr"
     },
     {
       "added_at": "2023-03-31 03:01:00",
@@ -1315,26 +1315,22 @@
     {
       "added_at": "2023-03-31 03:01:00",
       "album": {
-        "name": "V\u00e1rios Planos",
-        "url": "https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI"
+        "name": "Vento Bom",
+        "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
       },
       "artists": [
         {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+          "name": "MC 2jhow",
+          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
         },
         {
-          "name": "Hila Campelo",
-          "url": "https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf"
-        },
-        {
-          "name": "Thebosh",
-          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+          "name": "Mc Tek\u00e1da-B",
+          "url": "https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU"
         }
       ],
-      "duration_ms": 180705,
-      "name": "V\u00e1rios Planos",
-      "url": "https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9"
+      "duration_ms": 169409,
+      "name": "Vento Bom",
+      "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
     },
     {
       "added_at": "2023-03-31 03:01:00",
@@ -1359,22 +1355,26 @@
     {
       "added_at": "2023-03-31 03:01:00",
       "album": {
-        "name": "Vento Bom",
-        "url": "https://open.spotify.com/album/2h0iw6R2fq3xCWDQvmIS1l"
+        "name": "V\u00e1rios Planos",
+        "url": "https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI"
       },
       "artists": [
         {
-          "name": "MC 2jhow",
-          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
         },
         {
-          "name": "Mc Tek\u00e1da-B",
-          "url": "https://open.spotify.com/artist/3Pd4HB94kuGBGGDQVISkcU"
+          "name": "Hila Campelo",
+          "url": "https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
         }
       ],
-      "duration_ms": 169409,
-      "name": "Vento Bom",
-      "url": "https://open.spotify.com/track/3TstCrqLn3542vXjNKCpV2"
+      "duration_ms": 180705,
+      "name": "V\u00e1rios Planos",
+      "url": "https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9"
     },
     {
       "added_at": "2023-03-31 03:01:00",

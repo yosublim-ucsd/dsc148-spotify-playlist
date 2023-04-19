@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: ENNIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,038 likes - 75 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,368 likes - 75 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rimini](https://open.spotify.com/track/2JNIWfyUG8AXC2staqyay5) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [rimini tape](https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU) | 2:54 |
 | 2 | [wiedersehen](https://open.spotify.com/track/0ga3JEPvSWi6aSgMfPVJow) | [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb) | [wiedersehen](https://open.spotify.com/album/5wwgn9Z4UB02M3mLaeuLuG) | 2:40 |
-| 3 | [Shirt & Handtuch](https://open.spotify.com/track/62ZlC6KfLzEBPlE7rBHs3c) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Shirt & Handtuch](https://open.spotify.com/album/5E6TabcdFH66gyiurKEmBq) | 3:34 |
-| 4 | [Alles Nur Gelogen](https://open.spotify.com/track/74eR8xSdraMDGsGPI7D5C9) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Alles Nur Gelogen](https://open.spotify.com/album/5e3VemHQtqmNtpE6ENk4WF) | 2:48 |
+| 3 | [Alles Nur Gelogen](https://open.spotify.com/track/74eR8xSdraMDGsGPI7D5C9) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Alles Nur Gelogen](https://open.spotify.com/album/5e3VemHQtqmNtpE6ENk4WF) | 2:48 |
+| 4 | [Ein Anruf entfernt](https://open.spotify.com/track/3Xqqsi0zw6p3eYkKzzzag0) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [Ein Anruf entfernt](https://open.spotify.com/album/3q1CVNPW0g2AuYT13i11T5) | 2:35 |
 | 5 | [Er oder Sie oder Du](https://open.spotify.com/track/1ojpWs42lG7y9FlB0xQXPk) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3) | [Er oder Sie oder Du](https://open.spotify.com/album/2VG9BbluDZvvYZ3rtfeWqe) | 2:14 |
-| 6 | [Raum 37](https://open.spotify.com/track/2PWaVvsSaOQTciQZM7eoX1) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [Raum 37](https://open.spotify.com/album/2k73lgJP18duGEkA7U2YkV) | 2:21 |
-| 7 | [Ein Anruf entfernt](https://open.spotify.com/track/3Xqqsi0zw6p3eYkKzzzag0) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [Ein Anruf entfernt](https://open.spotify.com/album/3q1CVNPW0g2AuYT13i11T5) | 2:35 |
+| 6 | [Shirt & Handtuch](https://open.spotify.com/track/62ZlC6KfLzEBPlE7rBHs3c) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Shirt & Handtuch](https://open.spotify.com/album/5E6TabcdFH66gyiurKEmBq) | 3:34 |
+| 7 | [Raum 37](https://open.spotify.com/track/2PWaVvsSaOQTciQZM7eoX1) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [Raum 37](https://open.spotify.com/album/2k73lgJP18duGEkA7U2YkV) | 2:21 |
 | 8 | [vielleicht in einem jahr](https://open.spotify.com/track/7AcPEULNvoFNKyN3tQjkD5) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw) | [vielleicht in einem jahr](https://open.spotify.com/album/13QzEFvk3yyGMTw4ucm41U) | 2:21 |
 | 9 | [Ich glaub ich will heut nicht mehr gehen](https://open.spotify.com/track/4zLCLlqLivpZXvYfQCqTWh) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 2:55 |
 | 10 | [So weit weg wie es geht](https://open.spotify.com/track/25IhvOQQe2P2oBNTIDOPyH) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [So weit weg wie es geht](https://open.spotify.com/album/1feJ34aoU1PdXqysjmWZxN) | 2:36 |
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 13 | [AUS MEIN KOPF](https://open.spotify.com/track/5n76Jo6GkhtVVOWRISWqRr) | [Yung Hurn](https://open.spotify.com/artist/4PvnP3yCzrT289cX3wCdOx) | [CRAZY HORSE CLUB MIXTAPE, VOL\. 1](https://open.spotify.com/album/6KF9pLPmF38Ge6TDaojJwJ) | 1:41 |
 | 14 | [Eine Ode an Wien](https://open.spotify.com/track/43ufwL96oO8ICPs6kQerlq) | [BIBIZA](https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2) | [Eine Ode an Wien](https://open.spotify.com/album/0LxX4gqN7Ys9Kvbz38gFvY) | 3:06 |
 | 15 | [Milliardär](https://open.spotify.com/track/6JKkLoETnqXMe2OL17Waet) | [CASTILLO](https://open.spotify.com/artist/7obdh4UC6xb7FpVyNy7zcS) | [Milliardär](https://open.spotify.com/album/0tMd2aX0hClZVUIwkSlvYV) | 3:03 |
-| 16 | [Mama Liebe](https://open.spotify.com/track/6C9G9dNryJIkluUkp1sJWG) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Risiko](https://open.spotify.com/album/4jtEfRUv5jjDT43Y2r1clF) | 2:58 |
+| 16 | [Bialetti](https://open.spotify.com/track/7DQPKQGA9IEsaF9H3RtnT2) | [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Bialetti](https://open.spotify.com/album/6KG4ETVdwhu6BfukGthSjE) | 3:32 |
 | 17 | [Wien](https://open.spotify.com/track/65caFJtNCC6xdSBUXZivw2) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [MINI](https://open.spotify.com/album/7w1GycA2X3co1x2JLj1G6e) | 2:16 |
 | 18 | [Lass es kreisen](https://open.spotify.com/track/6Pn5YAIhhT85vxBD3YoIzG) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Es ist Abend und wir sitzen bei mir](https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI) | 3:19 |
-| 19 | [Bialetti](https://open.spotify.com/track/7DQPKQGA9IEsaF9H3RtnT2) | [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Bialetti](https://open.spotify.com/album/6KG4ETVdwhu6BfukGthSjE) | 3:32 |
+| 19 | [Mama Liebe](https://open.spotify.com/track/6C9G9dNryJIkluUkp1sJWG) | [Steiner & Madlaina](https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg) | [Risiko](https://open.spotify.com/album/4jtEfRUv5jjDT43Y2r1clF) | 2:58 |
 | 20 | [Danke dass du mich verlassen hast](https://open.spotify.com/track/1D3iM8TeSYE9HqoIT0ATd3) | [Fatoni](https://open.spotify.com/artist/4riceIF5JCEKaSIwwLqIYt), [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Danke dass du mich verlassen hast](https://open.spotify.com/album/6Z2C1VCW2k8vJl2DQ0IXiD) | 3:17 |
 | 21 | [Wie Du](https://open.spotify.com/track/1HQVrKIUKAF6pq1JYqNMzS) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [Wie Du](https://open.spotify.com/album/6dkH0Z1f411BzyjcHuZk9I) | 2:50 |
 | 22 | [Gekreuzte Finger](https://open.spotify.com/track/3qLNG3UvIe2G3DQ0XGMeEY) | [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4), [KitschKrieg](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [SFR](https://open.spotify.com/artist/53EHeXzGs4HheTCTnwfPEr), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [Insomnia](https://open.spotify.com/album/0SZdIldsAOSd4VxNMQ90S6) | 2:50 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [He Nur Da](https://open.spotify.com/track/1nLdZdM4RT2wCw2hYxz9uA) | [RAHEL](https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv) | [He Nur Da](https://open.spotify.com/album/19HhiWUP1wjm3LcDgUylNG) | 2:54 |
 | 75 | [7SD](https://open.spotify.com/track/0uSPEMHkNHifMbwYUP4LwH) | [Trille](https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h), [Bonnie Strange](https://open.spotify.com/artist/5Jc1lyOYKyNogbbh6Rs5dh) | [7SD](https://open.spotify.com/album/2ciBwnxtCe6oY62gAw3YAh) | 2:32 |
 
-Snapshot ID: `MTY4MTQyMzYyMCwwMDAwMDAwMDkyMTFjZTI2YmM3MzVkODBlNmFiNjNjYzFmYmI1YTgx`
+Snapshot ID: `MTY4MTgwODY3MCwwMDAwMDAwMDJlMWY5YzMwYjE2MWJiOTRlZjM0ZTAxZWE0NmFlZGMy`

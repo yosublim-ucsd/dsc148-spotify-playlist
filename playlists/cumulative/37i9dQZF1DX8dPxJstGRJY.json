@@ -1224,10 +1224,28 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 248866,
       "name": "These Are Special Times",
       "url": "https://open.spotify.com/track/4iTH9LIWcRI1G6UaOgid9H"
+    },
+    {
+      "album": {
+        "name": "These Are The Special Times (Momenti Splendidi)",
+        "url": "https://open.spotify.com/album/3ncrSLsvENjj5VQzuxkTW0"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Antoine and Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2ptbreKpaZpDqnhgDm9MXP"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248866,
+      "name": "These Are Special Times",
+      "url": "https://open.spotify.com/track/10AfyyXe1IVgrTJP6cCbDO"
     },
     {
       "album": {

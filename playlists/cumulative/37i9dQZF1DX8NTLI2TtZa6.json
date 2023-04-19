@@ -805,6 +805,24 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/3MXGNfl1ji6v03NsKbH4HR"
+      },
+      "artists": [
+        {
+          "name": "Ji\u0159\u00ed Hor\u00e1k",
+          "url": "https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179140,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/1ASXypzh2iVyMpyAVxk4h5"
+    },
+    {
+      "album": {
         "name": "Breathe / Debris",
         "url": "https://open.spotify.com/album/2wb8IcAFeV3ndOH36qTsRH"
       },
@@ -1482,7 +1500,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 162857,
       "name": "Emerald",
       "url": "https://open.spotify.com/track/6Y6xWTWRzij8b6qcRbOnDh"
@@ -1504,6 +1522,24 @@
       "duration_ms": 137265,
       "name": "Endearing",
       "url": "https://open.spotify.com/track/3iyyTUxW6Y7StfgGFzwHte"
+    },
+    {
+      "album": {
+        "name": "Escape With Me",
+        "url": "https://open.spotify.com/album/5KPh3wnnOwsWBKJl4rIVFm"
+      },
+      "artists": [
+        {
+          "name": "Marina Aden",
+          "url": "https://open.spotify.com/artist/0sSwEGrgOOrG2RVtPF5weI"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Escape With Me",
+      "url": "https://open.spotify.com/track/3cvXr0N2DWk8qeFVS1JEgo"
     },
     {
       "album": {
@@ -2476,7 +2512,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 160261,
       "name": "In Between",
       "url": "https://open.spotify.com/track/3m9L0yTxcDY4OddxsApK5L"
@@ -3788,7 +3824,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 166000,
       "name": "Must",
       "url": "https://open.spotify.com/track/5Z9LClwDtSCjaRoeaG7QmQ"
@@ -4443,6 +4479,24 @@
     },
     {
       "album": {
+        "name": "Pirouette",
+        "url": "https://open.spotify.com/album/57Z6mfy4khEp7rRaU6t8hU"
+      },
+      "artists": [
+        {
+          "name": "Ron Adelaar",
+          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139713,
+      "name": "Pirouette",
+      "url": "https://open.spotify.com/track/0NZ7ku5SqkWqij5SXe3FIO"
+    },
+    {
+      "album": {
         "name": "Poetry",
         "url": "https://open.spotify.com/album/7nWkxo27xOWNSBvlnRPGd8"
       },
@@ -4930,7 +4984,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 132000,
       "name": "Ripples",
       "url": "https://open.spotify.com/track/3xE0JN7dBupo1lrr6WvZSl"
@@ -5510,7 +5564,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 141355,
       "name": "Storytelling",
       "url": "https://open.spotify.com/track/4rhOJ6KXbzenI63eYKjdrw"
@@ -5528,7 +5582,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 128187,
       "name": "Strejfer",
       "url": "https://open.spotify.com/track/2YabKanL5OYJLGosyYTWdR"
@@ -5828,6 +5882,42 @@
       "duration_ms": 214862,
       "name": "The Open",
       "url": "https://open.spotify.com/track/2sSzhlTz0N1HlSuoLLxv8z"
+    },
+    {
+      "album": {
+        "name": "The Right Course",
+        "url": "https://open.spotify.com/album/1Oa9FqJMkzggnUsHyywQ7Q"
+      },
+      "artists": [
+        {
+          "name": "Jone Lange",
+          "url": "https://open.spotify.com/artist/4bG81VTcDhZQpPzrHyWksb"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119374,
+      "name": "The Right Course",
+      "url": "https://open.spotify.com/track/6vjhLsJbpfclLNSCKHjGTW"
+    },
+    {
+      "album": {
+        "name": "The Theme of Life",
+        "url": "https://open.spotify.com/album/31QPie97sYOMWtwpzCYNUj"
+      },
+      "artists": [
+        {
+          "name": "Aquilegia",
+          "url": "https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205118,
+      "name": "The Theme of Life",
+      "url": "https://open.spotify.com/track/3uAeBJ1Mmdo58cJ8XgjkkC"
     },
     {
       "album": {
@@ -6382,7 +6472,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 137510,
       "name": "Waltz For Nala",
       "url": "https://open.spotify.com/track/3NJ3rJfgSHeRqM9Fz12lLJ"

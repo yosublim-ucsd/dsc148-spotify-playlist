@@ -938,7 +938,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 243600,
       "name": "Change My Life",
       "url": "https://open.spotify.com/track/2oqe9h6uLQ1jn48Mz4OQI6"
@@ -1360,7 +1360,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 275935,
       "name": "Document",
       "url": "https://open.spotify.com/track/4LJidzx7SuW2lqDHkbApYh"
@@ -7165,6 +7165,24 @@
     },
     {
       "album": {
+        "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
+        "url": "https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325898,
+      "name": "\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30fb\u30e9\u30b0",
+      "url": "https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU"
+    },
+    {
+      "album": {
         "name": "\u30ac\u30fc\u30eb\u30d5\u30ec\u30f3\u30c9\u30fb\u30aa\u30d6\u30fb\u30b6\u30fb\u30c7\u30c3\u30c9!",
         "url": "https://open.spotify.com/album/1oDCKrs5Xg8rX1uij43sBK"
       },
@@ -8804,6 +8822,24 @@
       "duration_ms": 267735,
       "name": "\u6625",
       "url": "https://open.spotify.com/track/0DIWUR6OVSleuWmPO5Dj2U"
+    },
+    {
+      "album": {
+        "name": "\u6625\u7802\u6f20",
+        "url": "https://open.spotify.com/album/3qPaEsgm5tPihrm4ko05yi"
+      },
+      "artists": [
+        {
+          "name": "KOMONO LAKE",
+          "url": "https://open.spotify.com/artist/3wWaB9vMXkeUHD6RgH3lpG"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "\u6625\u7802\u6f20",
+      "url": "https://open.spotify.com/track/1PCwSUdENks9PcoZR9UZS3"
     },
     {
       "album": {

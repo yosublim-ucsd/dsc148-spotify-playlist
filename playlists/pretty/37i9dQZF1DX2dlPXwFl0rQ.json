@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables del Regional Mexicano. Chiquis en portada.",
-  "num_followers": 85892,
+  "num_followers": 85936,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMGMwMTRhOTc3ZTJkMTZjNjY5YzkzOThkYzBmODIxMjc0",
+  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDk1ZjBhOWRjYzhhZjQ1NjUzMGM3ZmEyZjg4NmYyNDM5",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "duration_ms": 150654,
+      "name": "Que Poquito Me Conoces",
+      "url": "https://open.spotify.com/track/3rxafxANDFSkB2onHUBUe6"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Paloma Blanca",
         "url": "https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 233373,
       "name": "Paloma Blanca",
       "url": "https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Confidente",
-        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 150654,
-      "name": "Que Poquito Me Conoces",
-      "url": "https://open.spotify.com/track/3rxafxANDFSkB2onHUBUe6"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1315,18 +1315,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "No Se Vayan Con La Finta (En Vivo)",
-        "url": "https://open.spotify.com/album/7GI58DuMbYiPMKBeT7d42a"
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/1Zc6hqIINyRhDkyvLNV1e8"
       },
       "artists": [
         {
-          "name": "Janely Rosa",
-          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
+          "name": "Marilyn Pati\u00f1o",
+          "url": "https://open.spotify.com/artist/0QRuYvK5g5MBK4r27OyRmh"
+        },
+        {
+          "name": "Lady Yuliana",
+          "url": "https://open.spotify.com/artist/3WLVEbpQIsYvDslZadgxO2"
         }
       ],
-      "duration_ms": 193840,
-      "name": "La Primera Piedra (En Vivo)",
-      "url": "https://open.spotify.com/track/5k3Ajm3rvCI3L5IDXjZi8C"
+      "duration_ms": 205840,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/5fB1anQrnZBMnSjilCnAZ8"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1363,22 +1367,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/1Zc6hqIINyRhDkyvLNV1e8"
+        "name": "No Se Vayan Con La Finta (En Vivo)",
+        "url": "https://open.spotify.com/album/7GI58DuMbYiPMKBeT7d42a"
       },
       "artists": [
         {
-          "name": "Marilyn Pati\u00f1o",
-          "url": "https://open.spotify.com/artist/0QRuYvK5g5MBK4r27OyRmh"
-        },
-        {
-          "name": "Lady Yuliana",
-          "url": "https://open.spotify.com/artist/3WLVEbpQIsYvDslZadgxO2"
+          "name": "Janely Rosa",
+          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
         }
       ],
-      "duration_ms": 205840,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/5fB1anQrnZBMnSjilCnAZ8"
+      "duration_ms": 193840,
+      "name": "La Primera Piedra (En Vivo)",
+      "url": "https://open.spotify.com/track/5k3Ajm3rvCI3L5IDXjZi8C"
     },
     {
       "added_at": "2023-04-14 06:00:00",

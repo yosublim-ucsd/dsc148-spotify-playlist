@@ -695,6 +695,342 @@
     {
       "added_at": "2015-03-06 15:28:55",
       "album": {
+        "name": "Breaking and Shaking",
+        "url": "https://open.spotify.com/album/0FUxJv4VOv3YcDij7mXo6n"
+      },
+      "artists": [
+        {
+          "name": "Linnea Olsson",
+          "url": "https://open.spotify.com/artist/5URaqWGLWi0maxmjctj8I0"
+        }
+      ],
+      "duration_ms": 205600,
+      "name": "Breaking and Shaking",
+      "url": "https://open.spotify.com/track/6yQo4yhjAWd2dpRvJ129ng"
+    },
+    {
+      "added_at": "2015-03-06 15:28:55",
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/1KfKXG5VRlDTX55wq5bXbv"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 181786,
+      "name": "Euphoria - Single Version",
+      "url": "https://open.spotify.com/track/1xN7BpTAWnZkuSLOtRP6Qc"
+    },
+    {
+      "added_at": "2015-03-06 15:28:55",
+      "album": {
+        "name": "Intermission",
+        "url": "https://open.spotify.com/album/4k2DpqQDpRJDZPR9FjIxyZ"
+      },
+      "artists": [
+        {
+          "name": "Beldina",
+          "url": "https://open.spotify.com/artist/1j9GGUnKOakzJXzYuaVGWT"
+        }
+      ],
+      "duration_ms": 225331,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/7ty4gGxSfxM4pdFrkvkpYZ"
+    },
+    {
+      "added_at": "2015-03-06 15:28:55",
+      "album": {
+        "name": "S\u00e5nger fr\u00e5n \u00f6n",
+        "url": "https://open.spotify.com/album/6K7hncUJwfcxma5egjvTwI"
+      },
+      "artists": [
+        {
+          "name": "Amanda Jenssen",
+          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
+        }
+      ],
+      "duration_ms": 273880,
+      "name": "Illusionist",
+      "url": "https://open.spotify.com/track/6VFuvxBqwxOwIaEtBmH9kb"
+    },
+    {
+      "added_at": "2015-03-06 15:28:55",
+      "album": {
+        "name": "Skisser",
+        "url": "https://open.spotify.com/album/5Ni787cuufFVfQAif3M68j"
+      },
+      "artists": [
+        {
+          "name": "Alice Boman",
+          "url": "https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/7eClkLWbrr3TorYedzaDkI"
+    },
+    {
+      "added_at": "2015-03-06 15:28:55",
+      "album": {
+        "name": "Med \u00d6gon K\u00e4nsliga F\u00f6r Gr\u00f6nt",
+        "url": "https://open.spotify.com/album/3Ob0OEmEgdaK8XfhhQG1T8"
+      },
+      "artists": [
+        {
+          "name": "Barbro H\u00f6rberg",
+          "url": "https://open.spotify.com/artist/7urXjli8ptr8Y8Z0XLtiJ9"
+        }
+      ],
+      "duration_ms": 238626,
+      "name": "Med \u00f6gon k\u00e4nsliga f\u00f6r gr\u00f6nt",
+      "url": "https://open.spotify.com/track/5bIGTkzkJwyMsr9B2QnZ3E"
+    },
+    {
+      "added_at": "2015-03-06 15:28:55",
+      "album": {
+        "name": "Innan jag k\u00e4nde dig",
+        "url": "https://open.spotify.com/album/7aCSH1fnzWjLChB2VHG671"
+      },
+      "artists": [
+        {
+          "name": "Melissa Horn",
+          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Jag saknar dig mindre och mindre",
+      "url": "https://open.spotify.com/track/0atRkLynwT9JbhSQkoPdLY"
+    },
+    {
+      "added_at": "2015-03-06 15:28:55",
+      "album": {
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/0WD3NDgF06gmSKCFrGlvjw"
+      },
+      "artists": [
+        {
+          "name": "Naomi Pilgrim",
+          "url": "https://open.spotify.com/artist/5QpXKWRjxAVZlmn5trAa16"
+        }
+      ],
+      "duration_ms": 249233,
+      "name": "It's All Good",
+      "url": "https://open.spotify.com/track/4Zn4pQK12WQ96kGHMRhiKO"
+    },
+    {
+      "added_at": "2015-03-06 15:28:55",
+      "album": {
+        "name": "Vem e han",
+        "url": "https://open.spotify.com/album/4eW4fy6Q2yAhVTg8wzfUir"
+      },
+      "artists": [
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs"
+        },
+        {
+          "name": "Kristin Amparo",
+          "url": "https://open.spotify.com/artist/2vxWDuk2inw00eo3Hag2QR"
+        },
+        {
+          "name": "Broke n Tipsy",
+          "url": "https://open.spotify.com/artist/6JrqOWN63xkJdBaeysAddn"
+        }
+      ],
+      "duration_ms": 195126,
+      "name": "G\u00e5 p\u00e5 salong",
+      "url": "https://open.spotify.com/track/4008dpmqe3536dNu10BVAM"
+    },
+    {
+      "added_at": "2015-03-06 15:28:55",
+      "album": {
+        "name": "I'm In Love",
+        "url": "https://open.spotify.com/album/4d9WOie0E4Iq4zs8rpcw9Y"
+      },
+      "artists": [
+        {
+          "name": "Zhala",
+          "url": "https://open.spotify.com/artist/2vI70V5Tc6jB3d2uzb2UEA"
+        }
+      ],
+      "duration_ms": 240472,
+      "name": "I'm In Love",
+      "url": "https://open.spotify.com/track/0M94S8r84UQlj30DiGakJG"
+    },
+    {
+      "added_at": "2015-03-06 15:28:55",
+      "album": {
+        "name": "Facit",
+        "url": "https://open.spotify.com/album/20VAXfhn6R4LgRdBuWvWuo"
+      },
+      "artists": [
+        {
+          "name": "S\u00e4kert!",
+          "url": "https://open.spotify.com/artist/6aNouxfdfQCKjiZG0LJcjx"
+        }
+      ],
+      "duration_ms": 167973,
+      "name": "Dansa, fast\u00e4n",
+      "url": "https://open.spotify.com/track/0X29aQOkq1VXmgA71NQxUn"
+    },
+    {
+      "added_at": "2015-03-06 15:28:55",
+      "album": {
+        "name": "The Night Visitor",
+        "url": "https://open.spotify.com/album/2uRdTrtChn1rvFkDmAtL8N"
+      },
+      "artists": [
+        {
+          "name": "Anna Ternheim",
+          "url": "https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308"
+        },
+        {
+          "name": "David Ferguson",
+          "url": "https://open.spotify.com/artist/4MHz2XUNNGuttl6Yj9OHeA"
+        }
+      ],
+      "duration_ms": 229026,
+      "name": "The Longer The Waiting (The Sweeter The Kiss)",
+      "url": "https://open.spotify.com/track/1ErKzGtRz3WhZgsXsP7RJy"
+    },
+    {
+      "added_at": "2015-03-06 15:28:55",
+      "album": {
+        "name": "My Flower",
+        "url": "https://open.spotify.com/album/6evWdmv5vg9xLTJ9MojyXg"
+      },
+      "artists": [
+        {
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+        }
+      ],
+      "duration_ms": 243680,
+      "name": "My Flower",
+      "url": "https://open.spotify.com/track/6Q4CpyNSAmJjnJtQyOGK8r"
+    },
+    {
+      "added_at": "2015-03-06 15:28:55",
+      "album": {
+        "name": "I staden",
+        "url": "https://open.spotify.com/album/2gBjWy1NdE9z9X9elFGgjT"
+      },
+      "artists": [
+        {
+          "name": "Kumba",
+          "url": "https://open.spotify.com/artist/0GD2LYGX4nMj9F84HsIWp1"
+        },
+        {
+          "name": "Amanda Serra",
+          "url": "https://open.spotify.com/artist/6x5Okj9dLLSYeYE9LtnkIT"
+        }
+      ],
+      "duration_ms": 176906,
+      "name": "I staden",
+      "url": "https://open.spotify.com/track/4PxOSNVoO7QbYPK6EIG353"
+    },
+    {
+      "added_at": "2015-03-06 15:28:55",
+      "album": {
+        "name": "Though, I'm Just Me",
+        "url": "https://open.spotify.com/album/6HBHt2gESeUf3bvLBI56MF"
+      },
+      "artists": [
+        {
+          "name": "Maia Hirasawa",
+          "url": "https://open.spotify.com/artist/2xtgYE7gox5t043BJWi7bd"
+        }
+      ],
+      "duration_ms": 231626,
+      "name": "Gothenburg",
+      "url": "https://open.spotify.com/track/6UTCUjslqhE55MIkMUezX2"
+    },
+    {
+      "added_at": "2015-03-06 15:28:55",
+      "album": {
+        "name": "Indian Summer - EP",
+        "url": "https://open.spotify.com/album/5njkJEN4kJ2RCPbOixtFdC"
+      },
+      "artists": [
+        {
+          "name": "Marlene",
+          "url": "https://open.spotify.com/artist/0pAV5GaO9ak8wk1NnF37Cl"
+        }
+      ],
+      "duration_ms": 208666,
+      "name": "Indian Summer",
+      "url": "https://open.spotify.com/track/0Syg0S75x10U5F54ypxE6X"
+    },
+    {
+      "added_at": "2015-03-06 15:28:55",
+      "album": {
+        "name": "Se mig",
+        "url": "https://open.spotify.com/album/3ZFgKDVHC0csLpU5KBqBkY"
+      },
+      "artists": [
+        {
+          "name": "Ida Redig",
+          "url": "https://open.spotify.com/artist/2Q5xMO7xxS59W7ipdDQMQe"
+        }
+      ],
+      "duration_ms": 173355,
+      "name": "Se mig",
+      "url": "https://open.spotify.com/track/7eQqI59dSjsfwB3BZGGBd8"
+    },
+    {
+      "added_at": "2015-03-06 15:28:55",
+      "album": {
+        "name": "I Am Noonie Bao",
+        "url": "https://open.spotify.com/album/4lih8LOeKRk3NfEtS6QrDW"
+      },
+      "artists": [
+        {
+          "name": "Noonie Bao",
+          "url": "https://open.spotify.com/artist/1vIuPjtFhqIPE2n9W2ePgO"
+        }
+      ],
+      "duration_ms": 155693,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/5EWTEDKOcHy9WBjCipm69C"
+    },
+    {
+      "added_at": "2015-03-06 15:28:55",
+      "album": {
+        "name": "Manic Panic",
+        "url": "https://open.spotify.com/album/4q9MDr1taMGMoRniqF6ZCA"
+      },
+      "artists": [
+        {
+          "name": "Leila K",
+          "url": "https://open.spotify.com/artist/61Da4fqVMgPoo9mYY0R3k6"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "Electric - Short Version",
+      "url": "https://open.spotify.com/track/1qIhCupn4tcJWCQWoomnv7"
+    },
+    {
+      "added_at": "2015-03-06 15:28:55",
+      "album": {
+        "name": "Yellow Memories",
+        "url": "https://open.spotify.com/album/0hg1LXzC5nqwTyEYHNFiwx"
+      },
+      "artists": [
+        {
+          "name": "Fatima",
+          "url": "https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67"
+        }
+      ],
+      "duration_ms": 325213,
+      "name": "Biggest Joke of All",
+      "url": "https://open.spotify.com/track/300V5cWCzuWqtAC9DsNRxV"
+    },
+    {
+      "added_at": "2015-03-06 15:28:55",
+      "album": {
         "name": "Vintersaga",
         "url": "https://open.spotify.com/album/744znYXORcYsjxrgKWok7Y"
       },

@@ -1,15 +1,15 @@
 {
   "description": "Latin music making waves. Cover: Myke Towers by Ian Woods",
-  "num_followers": 7608,
+  "num_followers": 7627,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDU0ODA4NCwwMDAwMDAwMDVhZDEyMTNkMmMwMDBiZGNlYmIxM2ZlMDYwNDkxZGUw",
+  "snapshot_id": "MTY4MDU0ODA4NCwwMDAwMDAwMDMwYTljMzU1MDVhNTI4NjBjMWRiYThmNzc2Njk3YjUw",
   "tracks": [
     {
-      "added_at": "2023-04-18 00:57:07",
+      "added_at": "2023-04-19 01:01:32",
       "album": {
         "name": "LA VIDA ES UNA",
         "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/1cBUPbKhU9ZZWhyJ7kCAFD"
     },
     {
-      "added_at": "2023-04-18 00:57:07",
+      "added_at": "2023-04-19 01:01:32",
       "album": {
         "name": "Tibro",
         "url": "https://open.spotify.com/album/1ydYjSifTmO14cEY8l1eij"
@@ -283,6 +283,42 @@
     {
       "added_at": "2023-02-27 18:10:09",
       "album": {
+        "name": "Chivirika",
+        "url": "https://open.spotify.com/album/4en63LsV1rqze6270c9wBn"
+      },
+      "artists": [
+        {
+          "name": "El Villanord",
+          "url": "https://open.spotify.com/artist/3CLzGEm4DCOh5ouaMm6mZs"
+        },
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        }
+      ],
+      "duration_ms": 210893,
+      "name": "Chivirika",
+      "url": "https://open.spotify.com/track/6RaabFZyIbKpoC2Xh8XeXZ"
+    },
+    {
+      "added_at": "2023-02-27 18:10:09",
+      "album": {
+        "name": "Sweet & Sour",
+        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 163360,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
+    },
+    {
+      "added_at": "2023-02-27 18:10:09",
+      "album": {
         "name": "Luces",
         "url": "https://open.spotify.com/album/7rnxldpaYk6eyIZQcriFrW"
       },
@@ -305,43 +341,7 @@
       "url": "https://open.spotify.com/track/0MYtnIKlYPYzVZfi1vSPFd"
     },
     {
-      "added_at": "2023-02-27 18:10:09",
-      "album": {
-        "name": "Sweet & Sour",
-        "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 163360,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
-    },
-    {
-      "added_at": "2023-02-27 18:10:09",
-      "album": {
-        "name": "Chivirika",
-        "url": "https://open.spotify.com/album/4en63LsV1rqze6270c9wBn"
-      },
-      "artists": [
-        {
-          "name": "El Villanord",
-          "url": "https://open.spotify.com/artist/3CLzGEm4DCOh5ouaMm6mZs"
-        },
-        {
-          "name": "Yailin la Mas Viral",
-          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
-        }
-      ],
-      "duration_ms": 210893,
-      "name": "Chivirika",
-      "url": "https://open.spotify.com/track/6RaabFZyIbKpoC2Xh8XeXZ"
-    },
-    {
-      "added_at": "2023-04-18 00:57:07",
+      "added_at": "2023-04-19 01:01:32",
       "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"

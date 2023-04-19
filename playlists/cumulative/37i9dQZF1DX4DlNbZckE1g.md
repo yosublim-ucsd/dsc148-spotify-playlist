@@ -4,7 +4,7 @@
 
 > Lose yourself in the summer daze...
 
-137 songs - 7 hr 41 min
+138 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Holiday \- Edit](https://open.spotify.com/track/4HnYhXzNGiiqGLqvsyuO8b) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Holiday](https://open.spotify.com/album/41rsfR9vimZ80oMPXQwU71) | 3:55 | 2022-02-10 |  |
 | [Hope](https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 4:30 | 2022-02-10 |  |
 | [How You Been](https://open.spotify.com/track/5lpaOoqOHv0lWqhreNIPJn) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2) | [Hello My Beautiful World](https://open.spotify.com/album/7qRGXXKa5br95Ao9n7mhWK) | 3:42 | 2022-02-10 |  |
-| [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/2xXPVOKw75Ouju8Qu4SdIA) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/4nr6ytQ4OrEralEu4LhIVp) | 3:15 | 2022-02-10 |  |
+| [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/2xXPVOKw75Ouju8Qu4SdIA) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/4nr6ytQ4OrEralEu4LhIVp) | 3:15 | 2022-02-10 | 2023-04-19 |
+| [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/6IbCvfmmICEEAyDwQ9zcbt) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0E2xXn23qVmfx9ThZjWFBE) | 3:15 | 2022-02-10 |  |
 | [I Need a Doctor](https://open.spotify.com/track/5h7QCIkrAcCbdxILyK4pxF) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Journey to the Center of Myself, Vol\. 3](https://open.spotify.com/album/1cS2zM7E9G94LQgat1ANTR) | 2:12 | 2022-02-10 |  |
 | [I Wanna Help Your Mind](https://open.spotify.com/track/08ZZ7SILfKcreLtA3K6Gqr) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [I Wanna Help Your Mind](https://open.spotify.com/album/2G6xRZxWrt9mBXgHclg2i4) | 2:51 | 2022-02-10 |  |
 | [i wanted to call her but i'm tragic and she's overseas \(8 months\)](https://open.spotify.com/track/5rm1Ol1UINESXCZyfe6o1S) | [Lola Scott](https://open.spotify.com/artist/6oU5PNSVWwkSZSXwsOVF3m), [Mel Blue](https://open.spotify.com/artist/3swZbHSi8DEZonC120qG4V) | [i wanted to call her but i'm tragic and she's overseas \(8 months\)](https://open.spotify.com/album/0o7q7fwphIGBw6bqYyvhyX) | 3:06 | 2022-02-10 |  |

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-455 songs - 1 day 2 hr 38 min
+457 songs - 1 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [All Around Me](https://open.spotify.com/track/0upnL2PcB8zLkZf1q83TUg) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL) | [All Around Me](https://open.spotify.com/album/7x03vOspUDZdFRmpJNwubO) | 3:36 | 2022-04-22 | 2022-07-02 |
 | [All But A Dream](https://open.spotify.com/track/4OGWWzeMDVVW0D1dqQCS2t) | [TOMB](https://open.spotify.com/artist/2PH8zrd38yO1SphvnINyvw), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [All But A Dream](https://open.spotify.com/album/3hoLLHytifFVosoaxST1fz) | 3:39 | 2023-02-22 |  |
 | [All I Need](https://open.spotify.com/track/1uBA1ThKO8teqrrpeMHk8h) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc) | [All I Need](https://open.spotify.com/album/5awCxZjxAP9h7gyPasDTNb) | 3:57 | 2022-02-02 | 2022-04-13 |
+| [All I Wanted](https://open.spotify.com/track/4igUplQuZyjVhgch6bQynh) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [All I Wanted](https://open.spotify.com/album/7FCiKLYYweE3cvqzh7C4ny) | 4:04 | 2023-04-18 |  |
 | [All I Wanted](https://open.spotify.com/track/3oKUgGEaQ5bFsYWu6Wc9Dp) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [WAILD](https://open.spotify.com/artist/1OHv2TAFTSsMg21dhyoyEH) | [All I Wanted](https://open.spotify.com/album/2PjrdQeP3ghvirjQBFETkV) | 2:27 | 2023-01-17 | 2023-04-01 |
 | [All In](https://open.spotify.com/track/32hXXUEV1w8DaGnklg1NrP) | [Dustycloud](https://open.spotify.com/artist/5O9MafawyW4O2WhJQKXj2d), [Yury](https://open.spotify.com/artist/2XlwOcXssC0QnupEF3RLov) | [All In](https://open.spotify.com/album/2xtIgNQmBybaMsglf2gKMz) | 3:25 | 2022-03-24 | 2022-06-08 |
 | [All We Needed](https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [All We Needed](https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt) | 4:01 | 2022-07-22 | 2022-10-06 |
@@ -35,6 +36,7 @@
 | [Alpina](https://open.spotify.com/track/5MBs3DUwg497EOnhRJGULO) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [Alpina](https://open.spotify.com/album/7rbaL9kGXZGIp7ZFM9zS7F) | 3:22 | 2022-09-14 | 2022-11-12 |
 | [Already Dead](https://open.spotify.com/track/2NMdjMrdycTgwwOV1HSg6y) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Already Dead](https://open.spotify.com/album/19dUZs24O6DtL07yWRsGf2) | 2:19 | 2022-04-21 | 2022-07-01 |
 | [Always Running](https://open.spotify.com/track/3otra9el4GhzYrql7RGjGc) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Always Running](https://open.spotify.com/album/10EtmPqHir1tKuUlpT1gY4) | 2:58 | 2022-09-09 | 2022-11-11 |
+| [Amatista](https://open.spotify.com/track/5KTWIABrKytyRNaiB6LDH2) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [Amatista](https://open.spotify.com/album/5w3tcd7riGxhbFSvjXdSp2) | 3:24 | 2023-04-18 |  |
 | [Angels](https://open.spotify.com/track/13vQWuSdCKWW7HgalrdMqH) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Angels](https://open.spotify.com/album/2J2Fq5jGYkwTrzSSbPrzLK) | 3:17 | 2022-08-25 | 2022-11-01 |
 | [Anna](https://open.spotify.com/track/3IMhLID7oyBD0agguYFAkO) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [Astroleaf](https://open.spotify.com/artist/0bt0mRWS5att8pFhUkToj4) | [Anna](https://open.spotify.com/album/5zFicqaCzRszFnV8wl0Ipz) | 4:27 | 2022-07-29 | 2022-10-11 |
 | [Arcus](https://open.spotify.com/track/4R7b39fZnotCrzV2CTQTvC) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Feathervane](https://open.spotify.com/artist/7j32fTp3oaXsRUmnIQixaX) | [Nimbus](https://open.spotify.com/album/48HBe77kw2NQ0s5ohCCRyx) | 3:59 | 2022-11-14 | 2022-11-16 |
@@ -132,7 +134,7 @@
 | [Elixir](https://open.spotify.com/track/1at2wZ8lrkEn7zPAWtYxnz) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY) | [Elixir / Nectar](https://open.spotify.com/album/6mrI14TDv5H4SKoYvcEPYA) | 3:03 | 2022-06-10 | 2022-08-24 |
 | [Emeralds](https://open.spotify.com/track/64Qa4GFTr5wMR1maaR8QxY) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Emeralds](https://open.spotify.com/album/47QDAHx9JLrzYV5tfnTWzD) | 4:10 | 2022-09-13 | 2022-11-11 |
 | [Endless \(Best of Me\)](https://open.spotify.com/track/1UyiFox8VnAAFRweBDKhy0) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Endless \(Best of Me\)](https://open.spotify.com/album/72LIl7Rlti55JL63E6UsmY) | 3:40 | 2022-11-04 | 2023-01-28 |
-| [Every Little Thing](https://open.spotify.com/track/6CShhNa33zOmCqJ0SkjsWc) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Every Little Thing](https://open.spotify.com/album/51pJrPjCgYxYzzcOk4jsWQ) | 3:14 | 2023-01-31 |  |
+| [Every Little Thing](https://open.spotify.com/track/6CShhNa33zOmCqJ0SkjsWc) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Every Little Thing](https://open.spotify.com/album/51pJrPjCgYxYzzcOk4jsWQ) | 3:14 | 2023-01-31 | 2023-04-19 |
 | [Faded](https://open.spotify.com/track/7oOgau5yTVoRIDAs5GiMCf) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Faded](https://open.spotify.com/album/1WAMrFtszAHHxnKavbLG5K) | 4:24 | 2022-03-30 | 2022-06-11 |
 | [Fall](https://open.spotify.com/track/4zh4Xvbh2FXYbWgY3eYm5C) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo), [Blosso](https://open.spotify.com/artist/5Jn30mbNDGHLSxfCUZc7XM) | [Fall](https://open.spotify.com/album/3rK8FMzL3ggRX8e8AaQSXE) | 3:00 | 2021-11-25 | 2022-03-02 |
 | [Fall Apart](https://open.spotify.com/track/5put6ich4wtW7pZXb1Jore) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Fall Apart](https://open.spotify.com/album/79PySKP56KJLCaGgl94Lal) | 5:20 | 2023-02-23 |  |

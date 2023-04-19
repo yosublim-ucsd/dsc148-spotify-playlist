@@ -1,12 +1,12 @@
 {
   "description": "All 60s, all ballads. Cover: Etta James",
-  "num_followers": 124199,
+  "num_followers": 124302,
   "original_name": "60s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY4MjA3NiwwMDAwMDAwMDQ3MDlhNTYzNmE5M2Y4MmNhYTIxY2JmMWY5Zjc5Zjkx",
+  "snapshot_id": "MTY3MjY4MjA3NiwwMDAwMDAwMDhkODdjZGQ5MjhmNTE2OGM3YTk4ZTBiY2FlNWQwYTUx",
   "tracks": [
     {
       "added_at": "2023-01-02 17:54:36",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "Pain in My Heart",
-        "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 154533,
-      "name": "These Arms of Mine",
-      "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
-    },
-    {
-      "added_at": "2023-01-02 17:54:36",
-      "album": {
         "name": "Elvis 30 #1 Hits",
         "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 177840,
       "name": "Can't Help Falling In Love",
       "url": "https://open.spotify.com/track/4hAUynwghvrqDXs1ejKNEq"
+    },
+    {
+      "added_at": "2023-01-02 17:54:36",
+      "album": {
+        "name": "Pain in My Heart",
+        "url": "https://open.spotify.com/album/2BFOk5b8jjm2xmsbx7qXq3"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 154533,
+      "name": "These Arms of Mine",
+      "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
     },
     {
       "added_at": "2023-01-02 17:54:36",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "I've Been Loving You Too Long",
-      "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
-    },
-    {
-      "added_at": "2023-01-02 17:54:36",
-      "album": {
         "name": "Hits'n'Flips",
         "url": "https://open.spotify.com/album/4fKEheMhcigQBenkttp5CU"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 238733,
       "name": "Honey",
       "url": "https://open.spotify.com/track/2Qhvi6R73Zj3cpzRYzcAww"
+    },
+    {
+      "added_at": "2023-01-02 17:54:36",
+      "album": {
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 181666,
+      "name": "I've Been Loving You Too Long",
+      "url": "https://open.spotify.com/track/4pdLyulbYLCrPmDzWWeJIZ"
     },
     {
       "added_at": "2023-01-02 17:54:36",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "30 Greatest Hits: Portrait of a Legend 1951-1964",
-        "url": "https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 165280,
-      "name": "Bring It On Home To Me",
-      "url": "https://open.spotify.com/track/4yjz1aazw6R8ZURpGbCAkp"
-    },
-    {
-      "added_at": "2023-01-02 17:54:36",
-      "album": {
         "name": "When a Man Loves a Woman",
         "url": "https://open.spotify.com/album/5I9u0kRfmLLzTHneycOwFA"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 175693,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/0GVxSbigOiKlGfI30Uw00X"
+    },
+    {
+      "added_at": "2023-01-02 17:54:36",
+      "album": {
+        "name": "30 Greatest Hits: Portrait of a Legend 1951-1964",
+        "url": "https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 165280,
+      "name": "Bring It On Home To Me",
+      "url": "https://open.spotify.com/track/4yjz1aazw6R8ZURpGbCAkp"
     },
     {
       "added_at": "2023-01-02 17:54:36",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "Take A Look",
-        "url": "https://open.spotify.com/album/5yPYingqlUnFfEzbLPtrVS"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 176080,
-      "name": "Anyone Who Knows What Love Is (Will Understand)",
-      "url": "https://open.spotify.com/track/5GWCndQ8ykzf6rYRvwrFcj"
-    },
-    {
-      "added_at": "2023-01-02 17:54:36",
-      "album": {
         "name": "The Best Of Bobby Vinton",
         "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 161373,
       "name": "Mr. Lonely",
       "url": "https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx"
+    },
+    {
+      "added_at": "2023-01-02 17:54:36",
+      "album": {
+        "name": "Take A Look",
+        "url": "https://open.spotify.com/album/5yPYingqlUnFfEzbLPtrVS"
+      },
+      "artists": [
+        {
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+        }
+      ],
+      "duration_ms": 176080,
+      "name": "Anyone Who Knows What Love Is (Will Understand)",
+      "url": "https://open.spotify.com/track/5GWCndQ8ykzf6rYRvwrFcj"
     },
     {
       "added_at": "2023-01-02 17:54:36",

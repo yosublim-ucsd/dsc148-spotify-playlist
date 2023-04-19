@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-263 songs - 22 hr 4 min
+264 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,9 +47,10 @@
 | [But Beautiful](https://open.spotify.com/track/3cxsbR45aJapa001BxlGYL) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lady In Satin](https://open.spotify.com/album/4LrLP7DM1KBj8r2Sc098JA) | 4:29 | 2022-05-18 | 2022-08-27 |
 | [But Not For Me](https://open.spotify.com/track/07vtuaY3Ym8jf76SJ8g7ar) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Is Here To Stay](https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t) | 3:05 | 2022-05-18 | 2022-08-27 |
 | [Canción Y Danza VI](https://open.spotify.com/track/1iNE14jpYWtLoeQitCoYaG) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Contra La Indecisión](https://open.spotify.com/album/3e1D8PXvjboQnZY8o9vNgo) | 5:14 | 2022-05-18 |  |
-| [Casa](https://open.spotify.com/track/5W2c7aQe4ZbFNPOBS19q7z) | [Antonio Mazzei](https://open.spotify.com/artist/6Qt5MWQmYnJAEtRi385Ref), [David Xirgu](https://open.spotify.com/artist/3E27UZd7y2kH1DLQKKNxBT), [Doug Weiss](https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq) | [Casa](https://open.spotify.com/album/6hfeuqKVVsq5qIuYcTVAUy) | 4:20 | 2022-05-26 |  |
+| [Casa](https://open.spotify.com/track/5W2c7aQe4ZbFNPOBS19q7z) | [Antonio Mazzei](https://open.spotify.com/artist/6Qt5MWQmYnJAEtRi385Ref), [David Xirgu](https://open.spotify.com/artist/3E27UZd7y2kH1DLQKKNxBT), [Doug Weiss](https://open.spotify.com/artist/1saP3owFxRlgBXeJkD6oaq) | [Casa](https://open.spotify.com/album/6hfeuqKVVsq5qIuYcTVAUy) | 4:20 | 2022-05-26 | 2023-04-19 |
 | [Centre](https://open.spotify.com/track/4O44XcSyYrDUkNcKqi9aAl) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [The Silver Lining](https://open.spotify.com/album/1clbyCl11JZL9cV00ldsVY) | 2:42 | 2022-10-13 |  |
 | [Chelsea Bridge](https://open.spotify.com/track/3adEZyI3YfyACGbH293KTG) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Chelsea Bridge](https://open.spotify.com/album/193K3cqXvobNyEPiuOmEVz) | 3:54 | 2022-12-23 |  |
+| [Cherry Blossom Waltz](https://open.spotify.com/track/1wZsMtOeXbkUQiX6UKZGbY) | [James & LIsa](https://open.spotify.com/artist/1U8G4kzCPGHKTrFJi6bMQg) | [Cherry Blossom Waltz](https://open.spotify.com/album/4iZYHdYDWekmsf5tCTfNYy) | 4:24 | 2023-04-13 |  |
 | [Chez le photographe du motel \- Bande originale du film "Ascenseur pour l'échafaud"](https://open.spotify.com/track/7rR1QRYxx4JBaMtAyLrhrq) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Ascenseur pour l'échafaud](https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2) | 3:50 | 2022-08-12 |  |
 | [Close Enough For Love](https://open.spotify.com/track/0JVGzHbAmJybAXzPV6D7CM) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Close Enough For Love](https://open.spotify.com/album/1chLDtOmC1qhV5Pq7YpiqJ) | 3:25 | 2022-11-10 | 2023-01-06 |
 | [Close Your Eyes](https://open.spotify.com/track/3VSMYAVSnUHMgNonipRcsQ) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Close Your Eyes](https://open.spotify.com/album/2AKnOIZeclPvfNySSo7ANk) | 3:46 | 2022-11-10 | 2023-02-10 |

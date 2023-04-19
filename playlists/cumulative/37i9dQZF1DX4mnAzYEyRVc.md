@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: The Interrupters
 
-477 songs - 1 day 3 hr 35 min
+478 songs - 1 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Despideme](https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [Radio Ghetto](https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ) | 3:18 | 2021-12-06 |  |
 | [Dia Seguinte](https://open.spotify.com/track/5UOQw5b2rvKBmDfkFSIauk) | [Guantas](https://open.spotify.com/artist/3p50dE2v8qcMvPXjzAKUXf) | [Guantas](https://open.spotify.com/album/1zSGiGOccDEpWDjpC2bzsb) | 3:49 | 2021-12-06 | 2022-07-25 |
 | [Don't Let the Bastards Grind You Down](https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [The Toasters: 30th Anniversary](https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo) | 2:50 | 2021-12-06 |  |
-| [Don't Worry, Be Happy](https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb) | [The Busters](https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB) | [Ruder Than Rude](https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU) | 2:57 | 2021-12-06 |  |
+| [Don't Worry, Be Happy](https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb) | [The Busters](https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB) | [Ruder Than Rude](https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU) | 2:57 | 2021-12-06 | 2023-04-19 |
 | [Donde Quedó el Amor](https://open.spotify.com/track/0ISnnP3lKhl7IJvtlpyzY9) | [Santísima Trinidad](https://open.spotify.com/artist/2XObUySWwK2PkfQsL1mcvs) | [Skaparate Fest, Vol\. 2](https://open.spotify.com/album/5ZoxGJIU4fn6F1gGlHZwOi) | 3:11 | 2021-12-06 | 2022-07-29 |
 | [Doomsday](https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq) | [Mephiskapheles](https://open.spotify.com/artist/0HS3ITvEZoYY3klH9xqxpl) | [God Bless Satan](https://open.spotify.com/album/7J35hQd4DMsmKMMHoz8Lgu) | 3:15 | 2021-12-06 |  |
 | [Dormir Soñando](https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Libres Y Locos](https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E) | 3:07 | 2021-12-06 |  |
@@ -315,6 +315,7 @@
 | [Que Nada Nos Detenga](https://open.spotify.com/track/0vCMiKQLbr03Y21u20dZHz) | [Rambookiss](https://open.spotify.com/artist/0tSTUHSuyyk3PJE8ByoDJQ) | [Que Nada Nos Detenga](https://open.spotify.com/album/5oul5Mx1lxmYQrePg3qcPl) | 2:37 | 2021-12-06 | 2022-07-28 |
 | [Que Pex!](https://open.spotify.com/track/3VKXddmjTLXEZIQbo7VQdR) | [Matamoska!](https://open.spotify.com/artist/7K7DO7ofJfM8Y2MdLbt5oe) | [M Is for Murder!](https://open.spotify.com/album/4PE95wRUTjyOUu8xv2zCBN) | 2:58 | 2021-12-06 | 2022-07-29 |
 | [Queensland \(1986\)](https://open.spotify.com/track/3NR30Jc8UT5RAAeUZyFEwO) | [The Funaddicts](https://open.spotify.com/artist/4rpjkmvdM7kjnSMeWc3AXv) | [What's the Rush?](https://open.spotify.com/album/6cnUxPhagWlCrCTKacyJDD) | 3:41 | 2021-12-06 | 2022-06-14 |
+| [Quisaz, quisaz, quisaz](https://open.spotify.com/track/5PYgo5oem5HjVTvNkDcxwW) | [Ska\-J](https://open.spotify.com/artist/4Ztrfx8ru9RVCjpUM9TdMt) | [Cielo mio marito \(10 anni con gli Ska\-J\)](https://open.spotify.com/album/5JTPNv42BWxJszgoOjCWpm) | 2:54 | 2023-04-14 |  |
 | [Quizas, Quizas, Quizas](https://open.spotify.com/track/6sCAmUEUKyoTUT5j3Ax2YH) | [Ska\-J](https://open.spotify.com/artist/4Ztrfx8ru9RVCjpUM9TdMt) | [Cielo...mio marito!](https://open.spotify.com/album/3twpi7Sq3MMPTHElt8YH4X) | 2:54 | 2021-12-06 | 2022-07-29 |
 | [Quédate](https://open.spotify.com/track/2nOKzJ1jKPU4YTgIUAaKxo) | [Girls Go Ska](https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo) | [Frente al Mar](https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n) | 3:16 | 2022-03-09 | 2022-11-26 |
 | [Rastablanc](https://open.spotify.com/track/6SKGFQuZCn8uzPFk6cmnwI) | [Deskarats](https://open.spotify.com/artist/2Uyrnxu8EY0owd057n0MA4) | [Embolingats \- Homenatge a Skatalà](https://open.spotify.com/album/3rCHdRvA1sbLojXKMj927u) | 4:12 | 2021-12-06 | 2022-07-29 |

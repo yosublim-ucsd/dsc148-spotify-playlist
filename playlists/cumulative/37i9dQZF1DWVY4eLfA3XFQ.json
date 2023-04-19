@@ -14116,7 +14116,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 186999,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/5huS8x54n95lI4LLeSTvQE"
@@ -17812,6 +17812,28 @@
       "duration_ms": 166633,
       "name": "That Feeling",
       "url": "https://open.spotify.com/track/4nTj9uSRpyhHWGaeZRUeqQ"
+    },
+    {
+      "album": {
+        "name": "That Groove",
+        "url": "https://open.spotify.com/album/1iJGr9VyTXJKvKNS5eUPHn"
+      },
+      "artists": [
+        {
+          "name": "Raumakustik",
+          "url": "https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW"
+        },
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221904,
+      "name": "That Groove",
+      "url": "https://open.spotify.com/track/2XyfRkQOXeseaXBT946SIf"
     },
     {
       "album": {

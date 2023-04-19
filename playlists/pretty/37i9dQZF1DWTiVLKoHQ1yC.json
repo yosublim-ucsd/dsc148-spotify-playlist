@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 145231,
+  "num_followers": 145399,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTM5NTM5NiwwMDAwMDAwMGM1Y2UwN2VhZGI5MjkzOTlhZTc2NDg4N2YyZTUyODI1",
+  "snapshot_id": "MTY2OTM5NTM5NiwwMDAwMDAwMDk3ZDY3MWMzMjBlNzcyYjJkZjg5NWVhNTk4NDNlMDMw",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "All We Have Is Now / Stay The Same",
-        "url": "https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny"
-      },
-      "artists": [
-        {
-          "name": "Just Her",
-          "url": "https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL"
-        }
-      ],
-      "duration_ms": 252125,
-      "name": "All We Have Is Now",
-      "url": "https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u0430 \u0437\u0430\u043a\u0430\u0442\u043e\u0432",
         "url": "https://open.spotify.com/album/3RMnzbvkcxMwSqcrq9LqYS"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 283628,
       "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u0430 \u0437\u0430\u043a\u0430\u0442\u043e\u0432",
       "url": "https://open.spotify.com/track/6DwuQjVWPRRICEqJJedZYb"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "All We Have Is Now / Stay The Same",
+        "url": "https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny"
+      },
+      "artists": [
+        {
+          "name": "Just Her",
+          "url": "https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL"
+        }
+      ],
+      "duration_ms": 252125,
+      "name": "All We Have Is Now",
+      "url": "https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Proud",
-        "url": "https://open.spotify.com/album/0xyI5ztV0OXUVgZHxLUkzH"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 236101,
-      "name": "Proud",
-      "url": "https://open.spotify.com/track/57fgc1wsUpAj0BfTHncOaT"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Hiding",
         "url": "https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 431162,
       "name": "Hiding",
       "url": "https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Proud",
+        "url": "https://open.spotify.com/album/0xyI5ztV0OXUVgZHxLUkzH"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 236101,
+      "name": "Proud",
+      "url": "https://open.spotify.com/track/57fgc1wsUpAj0BfTHncOaT"
     },
     {
       "added_at": "2022-11-25 16:56:36",

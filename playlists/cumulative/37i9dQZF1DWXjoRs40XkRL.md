@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-153 songs - 13 hr 32 min
+154 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Dil Leke Mujhe Badnam \- Thumri/lounge](https://open.spotify.com/track/7ncyIsZzLUA9SRzZv8raNk) | [Paroma Dasgupta](https://open.spotify.com/artist/1pvVz9G8uL8K0ZVEnqm1SQ), [Ankur Mukherjee](https://open.spotify.com/artist/69T59hAeicTPSD99TWNO5g) | [Dil Leke Mujhe Badnam \(Thumri/lounge\)](https://open.spotify.com/album/3EffjYOMsxahbRFHYlZsod) | 5:20 | 2022-05-17 |  |
 | [Easy](https://open.spotify.com/track/1Zlp3AkCc1CCtp3yUwqdRr) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Karsh Kale](https://open.spotify.com/artist/5KNQvpxpsSUsL8Mon7SjYn), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Breathing Under Water](https://open.spotify.com/album/7FaPH6ZYyCQS6S5Frf6ib7) | 3:30 | 2022-05-17 | 2023-02-02 |
 | [Eyes \- Edit](https://open.spotify.com/track/1szU2VvMCf5y3CegDghUFE) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Anahata](https://open.spotify.com/album/5uonu2VHlV0tR3DnvfSoR4) | 2:56 | 2022-05-17 |  |
+| [Ganga Kaleidoscope](https://open.spotify.com/track/0fMdLUwrjzJlRYU5gx8vjA) | [Mahalakshmi Iyer](https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH), [Ojas Adhiya](https://open.spotify.com/artist/2sDMiRPYyxqIhyiyqH89jJ), [Rhythm Shaw](https://open.spotify.com/artist/15VQCxbC4rQp2ooxlkd40D), [Avra Banerjee](https://open.spotify.com/artist/03U223wUp1mWICExQVN5S3), [Tamal Halder](https://open.spotify.com/artist/5uPwgx7NUxZwnK0jn4nbvS), [Himadri Das](https://open.spotify.com/artist/4Q6sIUfymjRG1iggsunpYS), [Bachospati Chakraborty](https://open.spotify.com/artist/1SaViDbQoQ2NitxvO1pgHb) | [Ganga Kaleidoscope from Manoyatri](https://open.spotify.com/album/3DjEukNrmG8SekFcns4EUQ) | 9:06 | 2023-04-18 |  |
 | [Garaj Garaj Jugalbandi](https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Farid Hasan](https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ), [Mohammed Aman](https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf) | [Bandish Bandits \(Original Series Soundtrack\)](https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz) | 5:30 | 2022-05-17 |  |
 | [Ghayal Hiraniaya](https://open.spotify.com/track/3FiVgtjtsW9E2064TkOlMR) | [Fareeduddin Ayaz Qawal](https://open.spotify.com/artist/2Vg3bv5S01EFyyFZEOaLiE) | [Katiyabaaz \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4O90jGyg9Fm26MF7WWFqEj) | 7:03 | 2022-05-17 | 2023-03-16 |
 | [Ghir Ghir](https://open.spotify.com/track/56iw7QosAXwrOfu5WLQNSe) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 5:05 | 2022-05-17 |  |
@@ -159,7 +160,7 @@
 | [Tum Jo Mile Ho](https://open.spotify.com/track/0DCXweyQdnUXQ6bDSNXFi8) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3), [Sangeeta Shankar](https://open.spotify.com/artist/2oHDVj3P55EigkZFdtngNn) | [Tum Jo Mile Ho \- Single](https://open.spotify.com/album/2QYap5S921w48KgN7MUsdb) | 4:06 | 2022-05-17 |  |
 | [Veera Raja Veera](https://open.spotify.com/track/60fyKjKygvMuVArFIlioyb) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Arman Dehlvi](https://open.spotify.com/artist/1wYOalcwgWTyVjqG22p3Od), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [PS\-2 \(Hindi\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/07qw6WgmXr7RzNA9jHIpuD) | 5:04 | 2023-03-31 |  |
 | [Viraha](https://open.spotify.com/track/0j1Z4bp6LeIxb9Rdq0kdsu) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Elements](https://open.spotify.com/album/4PDXWMxlqPHO4Ox9KCvoJ8) | 4:43 | 2022-05-17 | 2023-03-21 |
-| [Yaad Piya Ki Aaye](https://open.spotify.com/track/3LWZsbikDu2gSiiExEifHw) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Yaad Piya Ki...](https://open.spotify.com/album/63RWUfA8NjW6ooa5MXP8HB) | 5:14 | 2022-05-17 |  |
+| [Yaad Piya Ki Aaye](https://open.spotify.com/track/3LWZsbikDu2gSiiExEifHw) | [Wadali Brothers](https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX) | [Yaad Piya Ki...](https://open.spotify.com/album/63RWUfA8NjW6ooa5MXP8HB) | 5:14 | 2022-05-17 | 2023-04-19 |
 | [Yaman](https://open.spotify.com/track/5y4WiVUc1SbjnfXLu9szYI) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Yaman](https://open.spotify.com/album/6NZONtGQRxsnIomjyClIqf) | 5:24 | 2022-05-17 |  |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

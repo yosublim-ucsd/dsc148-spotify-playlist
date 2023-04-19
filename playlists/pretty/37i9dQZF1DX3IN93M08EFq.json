@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 58992,
+  "num_followers": 59011,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMDczNjFhYzE2MmJhYjUwMjJiMjQ4OWM1M2RkMzUyNDQx",
+  "snapshot_id": "MTYyMzc0OTEwNSwwMDAwMDAwMDA1MWJiODdlMjhhM2YxMTM2OWJhZGFjOWFmNjZkZDcz",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Too Rye Ay",
-        "url": "https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6"
-      },
-      "artists": [
-        {
-          "name": "Dexys Midnight Runners",
-          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
-        }
-      ],
-      "duration_ms": 287306,
-      "name": "Come On Eileen",
-      "url": "https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "Writer's Block",
         "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 276693,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Too Rye Ay",
+        "url": "https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6"
+      },
+      "artists": [
+        {
+          "name": "Dexys Midnight Runners",
+          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+        }
+      ],
+      "duration_ms": 287306,
+      "name": "Come On Eileen",
+      "url": "https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -607,22 +607,6 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Up the Bracket",
-        "url": "https://open.spotify.com/album/4iddETnfRjPwoPCo9PjeyX"
-      },
-      "artists": [
-        {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
-        }
-      ],
-      "duration_ms": 160280,
-      "name": "Time for Heroes",
-      "url": "https://open.spotify.com/track/4J4LjEe33yN6gLmPib0nqz"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
         "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
         "url": "https://open.spotify.com/album/3GLyWjI7skSDxKOBEhAhUE"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 228893,
       "name": "K\u00e4nn ingen sorg f\u00f6r mig G\u00f6teborg",
       "url": "https://open.spotify.com/track/2yz5IaQLnO8WBCIWMXoRBS"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
+        "name": "Up the Bracket",
+        "url": "https://open.spotify.com/album/4iddETnfRjPwoPCo9PjeyX"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "duration_ms": 160280,
+      "name": "Time for Heroes",
+      "url": "https://open.spotify.com/track/4J4LjEe33yN6gLmPib0nqz"
     },
     {
       "added_at": "2021-06-15 09:25:05",

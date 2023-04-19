@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Lou-Adriane Cassidy",
-  "num_followers": 1247,
+  "num_followers": 1259,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ5ODU3NiwwMDAwMDAwMDlkYjFmOTJjNWIzMmFjOTA3NGIzYjNhMDRiNGU4MTRl",
+  "snapshot_id": "MTY4MTQ5ODU3NiwwMDAwMDAwMDRlYjQzZWMzMmZjOWJjNWNkZDliM2FjZGY3ODgwMzZj",
   "tracks": [
     {
       "added_at": "2023-04-14 18:56:16",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "(les) m\u00e9andres de la soif",
-        "url": "https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ"
-      },
-      "artists": [
-        {
-          "name": "Barrdo",
-          "url": "https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf"
-        }
-      ],
-      "duration_ms": 153789,
-      "name": "4900$",
-      "url": "https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz"
-    },
-    {
-      "added_at": "2023-04-14 18:56:16",
-      "album": {
         "name": "Quand la nuit tombe",
         "url": "https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 279397,
       "name": "La photo",
       "url": "https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp"
+    },
+    {
+      "added_at": "2023-04-14 18:56:16",
+      "album": {
+        "name": "(les) m\u00e9andres de la soif",
+        "url": "https://open.spotify.com/album/2Jbu0QkmYaA4zfgt5klLRZ"
+      },
+      "artists": [
+        {
+          "name": "Barrdo",
+          "url": "https://open.spotify.com/artist/1OIuW6qlJ2Vhb9YKtQxOlf"
+        }
+      ],
+      "duration_ms": 153789,
+      "name": "4900$",
+      "url": "https://open.spotify.com/track/3xaMOSIFw8RE33XQ9xmVOz"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "Le soleil et la mer",
-        "url": "https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s"
-      },
-      "artists": [
-        {
-          "name": "Bibi Club",
-          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "Femme-Lady",
-      "url": "https://open.spotify.com/track/1cYR2Ax5skQtU6RJngbfkH"
-    },
-    {
-      "added_at": "2023-04-14 18:56:16",
-      "album": {
         "name": "Depuis",
         "url": "https://open.spotify.com/album/5kcemtwM4yXjUk5C6a24Va"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 293200,
       "name": "Depuis",
       "url": "https://open.spotify.com/track/1Usjk5AH5azDSfUstQ50bG"
+    },
+    {
+      "added_at": "2023-04-14 18:56:16",
+      "album": {
+        "name": "Le soleil et la mer",
+        "url": "https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s"
+      },
+      "artists": [
+        {
+          "name": "Bibi Club",
+          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "Femme-Lady",
+      "url": "https://open.spotify.com/track/1cYR2Ax5skQtU6RJngbfkH"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
-      },
-      "artists": [
-        {
-          "name": "ALIAS",
-          "url": "https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w"
-        }
-      ],
-      "duration_ms": 131015,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
-    },
-    {
-      "added_at": "2023-04-14 18:56:16",
-      "album": {
         "name": "Rencontrer Looloo",
         "url": "https://open.spotify.com/album/2YcDBVyl0OuRS2mda5jCgG"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 150320,
       "name": "Ah Ouin",
       "url": "https://open.spotify.com/track/715ogeJXR3EL4ISDjiVdhe"
+    },
+    {
+      "added_at": "2023-04-14 18:56:16",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
+      },
+      "artists": [
+        {
+          "name": "ALIAS",
+          "url": "https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w"
+        }
+      ],
+      "duration_ms": 131015,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
+        "name": "Tipatshimushtunan",
+        "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
+      },
+      "artists": [
+        {
+          "name": "Matiu",
+          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
+        }
+      ],
+      "duration_ms": 245640,
+      "name": "40h semaine",
+      "url": "https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr"
+    },
+    {
+      "added_at": "2023-04-14 18:56:16",
+      "album": {
         "name": "Nimueshtaten nete",
         "url": "https://open.spotify.com/album/5SEtpOliFRWSyPucn4A2PO"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 240010,
       "name": "Nimueshtaten nete",
       "url": "https://open.spotify.com/track/3KtPaEk8dzOJ9GpQZzkvza"
-    },
-    {
-      "added_at": "2023-04-14 18:56:16",
-      "album": {
-        "name": "Tipatshimushtunan",
-        "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
-      },
-      "artists": [
-        {
-          "name": "Matiu",
-          "url": "https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE"
-        }
-      ],
-      "duration_ms": 245640,
-      "name": "40h semaine",
-      "url": "https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -1143,18 +1143,38 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "Mitshuap",
-        "url": "https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7"
+        "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
+        "url": "https://open.spotify.com/album/6hiaLfpvnH69stsmbA9t1W"
       },
       "artists": [
         {
-          "name": "Kanen",
-          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
+          "name": "FELP",
+          "url": "https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l"
+        },
+        {
+          "name": "Kl\u00f4 Pelgag",
+          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
         }
       ],
-      "duration_ms": 226649,
-      "name": "Ekuan Ek(u)",
-      "url": "https://open.spotify.com/track/5XJgrFZ4cqbVCiJlMKVJ4t"
+      "duration_ms": 156933,
+      "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
+      "url": "https://open.spotify.com/track/7KfODvbJdlLQw6bgT2Qzqg"
+    },
+    {
+      "added_at": "2023-04-14 18:56:16",
+      "album": {
+        "name": "Anyway",
+        "url": "https://open.spotify.com/album/09krY5QSpZboazWATr2T2S"
+      },
+      "artists": [
+        {
+          "name": "La S\u00e9curit\u00e9",
+          "url": "https://open.spotify.com/artist/5ijO3JnnKpoAOTU4QaDgdW"
+        }
+      ],
+      "duration_ms": 225250,
+      "name": "Anyway",
+      "url": "https://open.spotify.com/track/3lbmkS5HlBqsuefMgvkxka"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -1179,22 +1199,18 @@
     {
       "added_at": "2023-04-14 18:56:16",
       "album": {
-        "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
-        "url": "https://open.spotify.com/album/6hiaLfpvnH69stsmbA9t1W"
+        "name": "Mitshuap",
+        "url": "https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7"
       },
       "artists": [
         {
-          "name": "FELP",
-          "url": "https://open.spotify.com/artist/3BDyAQcs61DM6kedDF0b0l"
-        },
-        {
-          "name": "Kl\u00f4 Pelgag",
-          "url": "https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi"
+          "name": "Kanen",
+          "url": "https://open.spotify.com/artist/152AxqKxLsjKigyrD9AYsC"
         }
       ],
-      "duration_ms": 156933,
-      "name": "Babyfoot (feat. Kl\u00f4 Pelgag)",
-      "url": "https://open.spotify.com/track/7KfODvbJdlLQw6bgT2Qzqg"
+      "duration_ms": 226649,
+      "name": "Ekuan Ek(u)",
+      "url": "https://open.spotify.com/track/5XJgrFZ4cqbVCiJlMKVJ4t"
     },
     {
       "added_at": "2023-04-14 18:56:16",
@@ -1211,22 +1227,6 @@
       "duration_ms": 194239,
       "name": "Et Hop",
       "url": "https://open.spotify.com/track/6BxyLvcmA4us1mKVtZ8P09"
-    },
-    {
-      "added_at": "2023-04-14 18:56:16",
-      "album": {
-        "name": "L'heure id\u00e9ale",
-        "url": "https://open.spotify.com/album/2QsjTHO6QeITKll9jecLwR"
-      },
-      "artists": [
-        {
-          "name": "Jesuslesfilles",
-          "url": "https://open.spotify.com/artist/4lg0G5z7GXpJtAYTR9WC0W"
-        }
-      ],
-      "duration_ms": 204413,
-      "name": "Doux doux",
-      "url": "https://open.spotify.com/track/4NuOtpcC2inuP8vucJgz0D"
     }
   ],
   "unique_name": "ALT_QC",

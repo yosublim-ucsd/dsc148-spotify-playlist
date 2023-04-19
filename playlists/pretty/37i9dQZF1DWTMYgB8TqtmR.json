@@ -1,12 +1,12 @@
 {
   "description": "It's Hits \u2013 b\u00e4sta och st\u00f6rsta hitsen just nu.",
-  "num_followers": 720015,
+  "num_followers": 720069,
   "original_name": "It's Hits Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTcyMzAyNSwwMDAwMDAwMDA0YTg2Y2E4NTdlNzk5NWE3YjczMGJhZmZjNTM2ZWVj",
+  "snapshot_id": "MTY4MTg1MDQ2OSwwMDAwMDAwMGZiOTYyZGU4ZDA2OTgwNDhmM2M1YjkxNzczYjExMGM4",
   "tracks": [
     {
       "added_at": "2023-04-17 09:17:05",
@@ -445,6 +445,22 @@
       "url": "https://open.spotify.com/track/3LHWa0MK1AlEI9hukUSxn1"
     },
     {
+      "added_at": "2023-04-18 20:41:09",
+      "album": {
+        "name": "Never Felt So Alone",
+        "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 160166,
+      "name": "Never Felt So Alone",
+      "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
+    },
+    {
       "added_at": "2023-04-17 09:17:05",
       "album": {
         "name": "\u00c5lderdomshemmet",
@@ -799,22 +815,6 @@
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
-    },
-    {
-      "added_at": "2023-04-17 09:17:05",
-      "album": {
-        "name": "Sugar Sweet",
-        "url": "https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 169839,
-      "name": "Sugar Sweet",
-      "url": "https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO"
     },
     {
       "added_at": "2023-04-17 09:17:05",

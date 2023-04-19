@@ -1,12 +1,12 @@
 {
   "description": "The biggest Christmas songs of all time.",
-  "num_followers": 5353579,
+  "num_followers": 5352720,
   "original_name": "Christmas Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTcwMjkzNywwMDAwMDAwMGM4ZmU1MmJlZGQyZGIyOWIxMGYyMzNmMzlmODk5ODhh",
+  "snapshot_id": "MTY3MTcwMjkzNywwMDAwMDAwMDY0MGMwOWNiYjY3OTFjMjQ2NDQ1MTI5YWE4OTg2Y2I0",
   "tracks": [
     {
       "added_at": "2022-12-22 09:55:37",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Mono Singles",
-        "url": "https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 148146,
-      "name": "What Christmas Means To Me",
-      "url": "https://open.spotify.com/track/1V0qqWBbIWt8hlAjxTZedR"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
         "name": "The Works",
         "url": "https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 240213,
       "name": "Driving Home for Christmas",
       "url": "https://open.spotify.com/track/3Z3QhZAZpqwZa1phsbQ3JZ"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
+        "name": "Mono Singles",
+        "url": "https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 148146,
+      "name": "What Christmas Means To Me",
+      "url": "https://open.spotify.com/track/1V0qqWBbIWt8hlAjxTZedR"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Cozy Little Christmas",
-        "url": "https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 182520,
-      "name": "Cozy Little Christmas",
-      "url": "https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 158720,
       "name": "Winter Things",
       "url": "https://open.spotify.com/track/1jhljxXlHw8K9rezXKrnow"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
+        "name": "Cozy Little Christmas",
+        "url": "https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 182520,
+      "name": "Cozy Little Christmas",
+      "url": "https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Snowfall: The Tony Bennett Christmas Album",
-        "url": "https://open.spotify.com/album/2zpZloLD6haM3GzorLdfoC"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 133213,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/1yxcKrEcxt4O03IIC25yHk"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
         "name": "Learning to Crawl (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 220426,
       "name": "2000 Miles - 2007 Remaster",
       "url": "https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
+        "name": "Snowfall: The Tony Bennett Christmas Album",
+        "url": "https://open.spotify.com/album/2zpZloLD6haM3GzorLdfoC"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 133213,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/1yxcKrEcxt4O03IIC25yHk"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "These are Special Times",
-        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 254706,
-      "name": "Happy Xmas (War Is Over)",
-      "url": "https://open.spotify.com/track/2ohR9Qj4TgZafZCptO9cly"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
         "name": "The Lighthouse Keeper",
         "url": "https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 247493,
       "name": "The Lighthouse Keeper",
       "url": "https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
+        "name": "These are Special Times",
+        "url": "https://open.spotify.com/album/5k27z7TrQn2O0mKMoiwHzN"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 254706,
+      "name": "Happy Xmas (War Is Over)",
+      "url": "https://open.spotify.com/track/2ohR9Qj4TgZafZCptO9cly"
     },
     {
       "added_at": "2022-12-22 09:55:37",
@@ -1627,38 +1627,6 @@
     {
       "added_at": "2022-12-22 09:55:37",
       "album": {
-        "name": "Pure Southern Soul",
-        "url": "https://open.spotify.com/album/0IdJOPJy2DQXaqgyrjhXRc"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "Merry Christmas Baby",
-      "url": "https://open.spotify.com/track/2dbfjsBbi3nt0a173iUumA"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
-        "name": "My Kind Of Christmas",
-        "url": "https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 243133,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/0iV9yfj1knFNOSEiuTHZwl"
-    },
-    {
-      "added_at": "2022-12-22 09:55:37",
-      "album": {
         "name": "Under The Mistletoe",
         "url": "https://open.spotify.com/album/2nndXLmS4C16yX7UJBWW2U"
       },
@@ -1679,6 +1647,38 @@
       "duration_ms": 225687,
       "name": "Under The Mistletoe",
       "url": "https://open.spotify.com/track/2K4XbdyLxi9jhqVQeyUKRK"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
+        "name": "My Kind Of Christmas",
+        "url": "https://open.spotify.com/album/0EmIJRj74RImuDbGJh4iOu"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 243133,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/0iV9yfj1knFNOSEiuTHZwl"
+    },
+    {
+      "added_at": "2022-12-22 09:55:37",
+      "album": {
+        "name": "Pure Southern Soul",
+        "url": "https://open.spotify.com/album/0IdJOPJy2DQXaqgyrjhXRc"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/2dbfjsBbi3nt0a173iUumA"
     }
   ],
   "unique_name": "Christmas Hits",

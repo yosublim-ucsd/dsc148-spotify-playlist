@@ -4,7 +4,7 @@
 
 > The best new dance & electronic by independent artists and labels\. Cover: BKAYE\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-1,274 songs - 3 day 18 hr 12 min
+1,275 songs - 3 day 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1011,7 +1011,8 @@
 | [Sirens Riddim](https://open.spotify.com/track/5vcbPysrIGQ7lOVhlj31NR) | [Stay Jaya](https://open.spotify.com/artist/3EFQhJOHlgaa1Jmk8yHF8s), [Scatter](https://open.spotify.com/artist/1gB1NKDQpvMNpGVrVeRbd6) | [5 Yeeeaaarrrsss](https://open.spotify.com/album/2cyckkPuzZKnSiapPodb7b) | 5:30 | 2022-09-21 | 2022-10-13 |
 | [Sizzla \- Edit](https://open.spotify.com/track/55p8uGUOw2KFL2fuC4PUr1) | [Little Fritter](https://open.spotify.com/artist/4SV6cezgr2EYpAUV7j8ABo) | [Sizzla](https://open.spotify.com/album/3Au1HAv1Cd1DAItcHGwUqI) | 3:39 | 2023-04-12 |  |
 | [Skip Scarlet](https://open.spotify.com/track/3I20V9ZtM6dKyR64hVOWIR) | [Vale\-Smith](https://open.spotify.com/artist/4FYz0h7BBwsnav5Ptdtvj0) | [Um Yo](https://open.spotify.com/album/6Bc6TM6Pc2lrDI2vj5AF0z) | 3:50 | 2023-03-15 | 2023-04-13 |
-| [Skit](https://open.spotify.com/track/0wkHyMOA3ich6amIw3rs8Y) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Skit](https://open.spotify.com/album/1dmvxkLnbRDI3F3T8LmCN8) | 3:38 | 2023-04-12 |  |
+| [Skit](https://open.spotify.com/track/0wkHyMOA3ich6amIw3rs8Y) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Skit](https://open.spotify.com/album/1dmvxkLnbRDI3F3T8LmCN8) | 3:38 | 2023-04-12 | 2023-04-19 |
+| [Skit](https://open.spotify.com/track/7peClIkcdZ744Srzrjah5b) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Skit](https://open.spotify.com/album/5N6ZyyaFBYdWMW52DbgJrR) | 3:38 | 2023-04-12 |  |
 | [Skylines](https://open.spotify.com/track/1Gn36QzwA9REefc71GPyhu) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj), [GOUX](https://open.spotify.com/artist/1YANF2Clk0VpRNG3HPu5B1) | [Skylines](https://open.spotify.com/album/1EDQu0R5ZhELYi03iwIfe1) | 3:40 | 2022-02-16 | 2022-04-28 |
 | [Sleazy \- Nenor Remix](https://open.spotify.com/track/48mq9gAcn9m1SGgwBNBXXe) | [Underground System](https://open.spotify.com/artist/4Ytr2oBFsaJFTScQiP4QjG), [Nenor](https://open.spotify.com/artist/1HMwAssufObyNKkyHyCB3V), [Obas Nenor](https://open.spotify.com/artist/3NI0j0KO6NdKddsYJyGFRA) | [Sleazy \(Nenor Remix\) \- Single Edit](https://open.spotify.com/album/3UlLariGwYgBQnvSlSTGY0) | 3:10 | 2023-03-01 | 2023-03-09 |
 | [Sleeper Cell](https://open.spotify.com/track/75zWrxzjQEBZcJD0KfJS2i) | [Aron Volta](https://open.spotify.com/artist/0kReqfLTBVtOXtdpFFxUzA) | [Sleeper Cell EP](https://open.spotify.com/album/3TpXUv2nWm4vtbaJVFjhbM) | 4:43 | 2023-04-05 | 2023-04-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 190 songs - 12 hr 4 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 189 songs - 12 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,9 +194,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 184 | [In The End](https://open.spotify.com/track/5lDPr9m2SCnDCrCPX6o0xz) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Dreaming of David](https://open.spotify.com/album/1pnXY39h7XjEYGmS6PeKUZ) | 2:47 |
 | 185 | [Southern Point](https://open.spotify.com/track/6abe1wtVmnCIGRYGAX0Kdl) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ) | 5:02 |
 | 186 | [God Is a Circle](https://open.spotify.com/track/596pY5JqwSgSqM8cA4A0rg) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Praise A Lord Who Chews But Which Does Not Consume; \(Or Simply, Hot Between Worlds\)](https://open.spotify.com/album/5LIlFbWpjACyQFNW0nYvUC) | 3:32 |
-| 187 | [Blister In The Sun](https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 2:25 |
-| 188 | [Sleep/Swim](https://open.spotify.com/track/1GOcC3nJGnjTioFVUnLlmH) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU) | [Finally We Are No One](https://open.spotify.com/album/2XCcnYJJQXYoWm5oc20x9k) | 0:50 |
-| 189 | [You Can Get It](https://open.spotify.com/track/18L6KppkJ3SzdM169N0Xbh) | [BUMPER](https://open.spotify.com/artist/4fzRRClf1bZ6y550CzhcqV) | [pop songs 2020](https://open.spotify.com/album/3aq7whJpYQjC5m2GGENivF) | 3:02 |
-| 190 | [Penitentiary Philosophy](https://open.spotify.com/track/4Nngx0azfbJibdS5oT3dG8) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 6:09 |
+| 187 | [Sleep/Swim](https://open.spotify.com/track/1GOcC3nJGnjTioFVUnLlmH) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU) | [Finally We Are No One](https://open.spotify.com/album/2XCcnYJJQXYoWm5oc20x9k) | 0:50 |
+| 188 | [You Can Get It](https://open.spotify.com/track/18L6KppkJ3SzdM169N0Xbh) | [BUMPER](https://open.spotify.com/artist/4fzRRClf1bZ6y550CzhcqV) | [pop songs 2020](https://open.spotify.com/album/3aq7whJpYQjC5m2GGENivF) | 3:02 |
+| 189 | [Penitentiary Philosophy](https://open.spotify.com/track/4Nngx0azfbJibdS5oT3dG8) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 6:09 |
 
-Snapshot ID: `ODA0LDhiMDEzMDFmN2ZhZDQwYzZmYTA0NjI0N2ZmNDhmYThlNWU2OTczNjQ=`
+Snapshot ID: `ODA1LGI5ZjBhNzliYjVmOTgzMTIxZGY1ODkxNTY3NTMxZTRmNzMyZTdlOTc=`

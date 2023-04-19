@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/meaghansmom/\">Monique Blake</a>",
-  "num_followers": 4357,
+  "num_followers": 4392,
   "original_name": "Monique Blake's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY0MjU4MywwMDAwMDAwMGY4ODM5Y2I2MjBhZWNkY2NiODczM2VkNTQwOTJjMjNm",
+  "snapshot_id": "MTY2NDY0MjU4MywwMDAwMDAwMGY5NmRiNWEwZGE0MTgxZTkyOTVmN2RjMjY2Mzk3NzI0",
   "tracks": [
     {
       "added_at": "2022-10-01 16:43:03",
@@ -715,6 +715,22 @@
     {
       "added_at": "2022-10-01 16:43:03",
       "album": {
+        "name": "Jimmy Cozier",
+        "url": "https://open.spotify.com/album/2mnL3NqNFwDjAbQrzlWi3W"
+      },
+      "artists": [
+        {
+          "name": "J. Cozier",
+          "url": "https://open.spotify.com/artist/4PsXktnr6Ff4jxNJeVuWcG"
+        }
+      ],
+      "duration_ms": 211133,
+      "name": "She's All I Got - Radio Edit",
+      "url": "https://open.spotify.com/track/49XSbzWYyB20DTlBtQiZFw"
+    },
+    {
+      "added_at": "2022-10-01 16:43:03",
+      "album": {
         "name": "Broken Silence",
         "url": "https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 212200,
       "name": "Tables Will Turn",
       "url": "https://open.spotify.com/track/0NTsxA8DrjBbZjK35oP67U"
-    },
-    {
-      "added_at": "2022-10-01 16:43:03",
-      "album": {
-        "name": "Jimmy Cozier",
-        "url": "https://open.spotify.com/album/2mnL3NqNFwDjAbQrzlWi3W"
-      },
-      "artists": [
-        {
-          "name": "J. Cozier",
-          "url": "https://open.spotify.com/artist/4PsXktnr6Ff4jxNJeVuWcG"
-        }
-      ],
-      "duration_ms": 211133,
-      "name": "She's All I Got - Radio Edit",
-      "url": "https://open.spotify.com/track/49XSbzWYyB20DTlBtQiZFw"
     },
     {
       "added_at": "2022-10-01 16:43:03",

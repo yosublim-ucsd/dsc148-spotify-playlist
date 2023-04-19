@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Samara Joy
 
-581 songs - 1 day 16 hr 44 min
+582 songs - 1 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,7 +473,8 @@
 | [Take Love Easy](https://open.spotify.com/track/70bb4rPssrRLC3WIKuxcvI) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [Take Love Easy](https://open.spotify.com/album/05vX7tbISbLuPvTqbJMGxx) | 5:02 | 2023-03-10 |  |
 | [Tea For Two](https://open.spotify.com/track/1hKyMhmy00rKrn7pb26N6W) | [Hailey Brinnel](https://open.spotify.com/artist/7DnJOqsOYzilcgi4gGQd3d), [Terell Stafford](https://open.spotify.com/artist/7rF1f3ZbidUhK24k7N8RcB) | [Tea For Two](https://open.spotify.com/album/0NuUfAQuoR4vjyoTjAub20) | 2:54 | 2023-02-17 |  |
 | [Tell Me Now](https://open.spotify.com/track/6TUOxU9g4ePCHnzYOfWSJs) | [Nicki Richards](https://open.spotify.com/artist/2cEBjGdze7R6fxaRtfnM9L), [Gustavo Casenave](https://open.spotify.com/artist/0hxq5ox7ApLGmfkLZC34wK), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Asta Hairston Songbook](https://open.spotify.com/album/7sleoEtFgrxfK1EBCjWldG) | 4:27 | 2022-09-30 | 2022-10-08 |
-| [Tess's Torch Song](https://open.spotify.com/track/496FwwjWBFWAo0jR0jEVGE) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/4dLNU3LLt6BudaiM2MYAwn) | 2:54 | 2022-10-07 |  |
+| [Tess's Torch Song](https://open.spotify.com/track/496FwwjWBFWAo0jR0jEVGE) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/4dLNU3LLt6BudaiM2MYAwn) | 2:54 | 2022-10-07 | 2023-04-19 |
+| [Tess's Torch Song](https://open.spotify.com/track/4Ynai4It3N4RTXe46vJlJL) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/6VHzJNiSLGXkXw9NzY9GGX) | 2:54 | 2022-10-14 |  |
 | [Thank You for the Heartbreak](https://open.spotify.com/track/0FUm0D50IIAu8D7QLpKCzO) | [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc) | [Thank You for the Heartbreak](https://open.spotify.com/album/4c1pxN7DxyajfM7GujWoL2) | 4:38 | 2023-03-03 | 2023-03-25 |
 | [That Face](https://open.spotify.com/track/7bcWnfUxlvqG3AwH3rYmuB) | [Matt Forbes](https://open.spotify.com/artist/04NOFvtSv6ElxAgVdXsjdt) | [That Face](https://open.spotify.com/album/3gjpmhf7HyDfzEDIAV6O7O) | 4:12 | 2022-06-10 | 2022-06-18 |
 | [That Old Black Magic](https://open.spotify.com/track/1Vf48p1EPe5DiOxuzoo2w6) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [That Old Black Magic](https://open.spotify.com/album/1iMfTwsoUpma8937v7hHps) | 5:12 | 2022-09-30 | 2022-11-05 |

@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 333059,
+  "num_followers": 333234,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDM3OTlmNDIyM2U3YTViZmVlNmNmMDIxNDY4NWNhZTY5",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMGVmOWMxOWEyMzIyZmU1MmQ0Nzk1MmI5N2VmOTE4ZjZi",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "KINFOLK: Postcards from Everywhere",
-        "url": "https://open.spotify.com/album/5ngHFQ0hYDlYirIE5l0if9"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
-        }
-      ],
-      "duration_ms": 333304,
-      "name": "Bounce, Pts. I + II",
-      "url": "https://open.spotify.com/track/1iibuYzHLKlk8SSZic8SGG"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Stay In Your Lane",
         "url": "https://open.spotify.com/album/6CubQ1ELEiX9v8fOG0RGWl"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 120185,
       "name": "Stay In Your Lane",
       "url": "https://open.spotify.com/track/55ti5VOfdRuHEfMkbnOXR3"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "KINFOLK: Postcards from Everywhere",
+        "url": "https://open.spotify.com/album/5ngHFQ0hYDlYirIE5l0if9"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        }
+      ],
+      "duration_ms": 333304,
+      "name": "Bounce, Pts. I + II",
+      "url": "https://open.spotify.com/track/1iibuYzHLKlk8SSZic8SGG"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -493,6 +493,22 @@
       "url": "https://open.spotify.com/track/3BNHpCcu9BaL43SjLIi8o9"
     },
     {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "3 (Remastered)",
+        "url": "https://open.spotify.com/album/38p16DnIi2n5sxiZBat3ML"
+      },
+      "artists": [
+        {
+          "name": "Magic In Threes",
+          "url": "https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay"
+        }
+      ],
+      "duration_ms": 138533,
+      "name": "Work Tapes",
+      "url": "https://open.spotify.com/track/6IlJLEMA4tkDBFM4joXEzM"
+    },
+    {
       "added_at": "2022-03-11 05:02:00",
       "album": {
         "name": "Unify",
@@ -523,22 +539,6 @@
       "duration_ms": 309092,
       "name": "Open Season",
       "url": "https://open.spotify.com/track/5jjzzQ9xQ1iYsrqABU2cYH"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "3 (Remastered)",
-        "url": "https://open.spotify.com/album/38p16DnIi2n5sxiZBat3ML"
-      },
-      "artists": [
-        {
-          "name": "Magic In Threes",
-          "url": "https://open.spotify.com/artist/3OucMu53bbF9yGBcqI34ay"
-        }
-      ],
-      "duration_ms": 138533,
-      "name": "Work Tapes",
-      "url": "https://open.spotify.com/track/6IlJLEMA4tkDBFM4joXEzM"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Blaze",
-      "url": "https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Baked, Broiled & Fried",
         "url": "https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 275200,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/06Niu5WzBT4H3f382pTjdT"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Blaze",
+      "url": "https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -709,38 +709,6 @@
       "url": "https://open.spotify.com/track/090M4a8Mux6z7ukX9fUujC"
     },
     {
-      "added_at": "2021-02-19 05:01:00",
-      "album": {
-        "name": "Basilisk",
-        "url": "https://open.spotify.com/album/6qeN6Ub19GsiAr9HnQtt6H"
-      },
-      "artists": [
-        {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
-        }
-      ],
-      "duration_ms": 269146,
-      "name": "Basilisk",
-      "url": "https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Tej b/w Short Shrift",
-        "url": "https://open.spotify.com/album/3S9mtVCdQOkf0OHTNIfDQu"
-      },
-      "artists": [
-        {
-          "name": "The So Ons",
-          "url": "https://open.spotify.com/artist/4Nxb7FqlvvJ0bhqCypMD6D"
-        }
-      ],
-      "duration_ms": 328433,
-      "name": "Tej",
-      "url": "https://open.spotify.com/track/6gOJKUz0gLllkOzvZ2f7XD"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Golden Ticket",
@@ -759,6 +727,38 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Tej b/w Short Shrift",
+        "url": "https://open.spotify.com/album/3S9mtVCdQOkf0OHTNIfDQu"
+      },
+      "artists": [
+        {
+          "name": "The So Ons",
+          "url": "https://open.spotify.com/artist/4Nxb7FqlvvJ0bhqCypMD6D"
+        }
+      ],
+      "duration_ms": 328433,
+      "name": "Tej",
+      "url": "https://open.spotify.com/track/6gOJKUz0gLllkOzvZ2f7XD"
+    },
+    {
+      "added_at": "2021-02-19 05:01:00",
+      "album": {
+        "name": "Basilisk",
+        "url": "https://open.spotify.com/album/6qeN6Ub19GsiAr9HnQtt6H"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        }
+      ],
+      "duration_ms": 269146,
+      "name": "Basilisk",
+      "url": "https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Jazz In The Present Tense",
         "url": "https://open.spotify.com/album/6mB4Dw3ryI693Cpm1KOYIK"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 249933,
       "name": "Montuno Funk",
       "url": "https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        }
-      ],
-      "duration_ms": 310561,
-      "name": "NDUGU",
-      "url": "https://open.spotify.com/track/7v4FBNdpo3FQwmHcU7hDnI"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -817,22 +801,6 @@
       "url": "https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy"
     },
     {
-      "added_at": "2021-12-10 05:01:00",
-      "album": {
-        "name": "Smokeshow",
-        "url": "https://open.spotify.com/album/41lISa0NJIZ5ftQ36VmZs3"
-      },
-      "artists": [
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        }
-      ],
-      "duration_ms": 242424,
-      "name": "Smokeshow",
-      "url": "https://open.spotify.com/track/0XLakrxjjKxuKzgCiSiggV"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Good Luck With That",
@@ -849,20 +817,36 @@
       "url": "https://open.spotify.com/track/5YRjOIXSQ95AIvy4h5xkbu"
     },
     {
-      "added_at": "2021-04-16 04:00:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Moonshadows",
-        "url": "https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh"
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
       },
       "artists": [
         {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
         }
       ],
-      "duration_ms": 186746,
-      "name": "Get With It",
-      "url": "https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu"
+      "duration_ms": 310561,
+      "name": "NDUGU",
+      "url": "https://open.spotify.com/track/7v4FBNdpo3FQwmHcU7hDnI"
+    },
+    {
+      "added_at": "2021-12-10 05:01:00",
+      "album": {
+        "name": "Smokeshow",
+        "url": "https://open.spotify.com/album/41lISa0NJIZ5ftQ36VmZs3"
+      },
+      "artists": [
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "duration_ms": 242424,
+      "name": "Smokeshow",
+      "url": "https://open.spotify.com/track/0XLakrxjjKxuKzgCiSiggV"
     },
     {
       "added_at": "2021-11-26 05:01:00",
@@ -919,6 +903,22 @@
       "duration_ms": 314080,
       "name": "Don't Worry 'Bout What I Do",
       "url": "https://open.spotify.com/track/2NrgFbqq1uCovinEtTw3Mj"
+    },
+    {
+      "added_at": "2021-04-16 04:00:00",
+      "album": {
+        "name": "Moonshadows",
+        "url": "https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        }
+      ],
+      "duration_ms": 186746,
+      "name": "Get With It",
+      "url": "https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu"
     },
     {
       "added_at": "2021-07-09 04:01:00",
@@ -1009,22 +1009,6 @@
       "url": "https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8"
     },
     {
-      "added_at": "2021-04-02 05:01:00",
-      "album": {
-        "name": "Chemical Plant Zone",
-        "url": "https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ"
-      },
-      "artists": [
-        {
-          "name": "Black Market Brass",
-          "url": "https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW"
-        }
-      ],
-      "duration_ms": 261426,
-      "name": "Chemical Plant Zone",
-      "url": "https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Stay Awhile",
@@ -1041,6 +1025,22 @@
       "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
     },
     {
+      "added_at": "2021-04-02 05:01:00",
+      "album": {
+        "name": "Chemical Plant Zone",
+        "url": "https://open.spotify.com/album/2t1cN1Q9rTWzDju37p0vEJ"
+      },
+      "artists": [
+        {
+          "name": "Black Market Brass",
+          "url": "https://open.spotify.com/artist/5nNxPO2aR0S8363jLsmuwW"
+        }
+      ],
+      "duration_ms": 261426,
+      "name": "Chemical Plant Zone",
+      "url": "https://open.spotify.com/track/4xhyuLEk3hkOzU0JV1kOPr"
+    },
+    {
       "added_at": "2022-07-08 04:02:00",
       "album": {
         "name": "Prospect Park West",
@@ -1055,6 +1055,22 @@
       "duration_ms": 176184,
       "name": "Prospect Park West",
       "url": "https://open.spotify.com/track/2kOjBttPwSgiyF7bCVposZ"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Baked, Broiled & Fried",
+        "url": "https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Keb's Bucket",
+      "url": "https://open.spotify.com/track/6M6JD31lK0TXVg6KzrcjZ8"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1079,38 +1095,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Baked, Broiled & Fried",
-        "url": "https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX"
-      },
-      "artists": [
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Keb's Bucket",
-      "url": "https://open.spotify.com/track/6M6JD31lK0TXVg6KzrcjZ8"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "The Fun Ones",
-        "url": "https://open.spotify.com/album/4xTGDldacEINrMyVRXUfVH"
-      },
-      "artists": [
-        {
-          "name": "RJD2",
-          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
-        }
-      ],
-      "duration_ms": 281805,
-      "name": "Indoor S'mores",
-      "url": "https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Canoga Madness",
         "url": "https://open.spotify.com/album/6KP257UWJsfOnJ5stxJ2MC"
       },
@@ -1123,22 +1107,6 @@
       "duration_ms": 207093,
       "name": "El Camino Del Caballo",
       "url": "https://open.spotify.com/track/3EY95RjI4HbKXgUJqMmgu6"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "False Prophets",
-        "url": "https://open.spotify.com/album/5CujzokHgFMEPtzUdetfyO"
-      },
-      "artists": [
-        {
-          "name": "The Motet",
-          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
-        }
-      ],
-      "duration_ms": 352374,
-      "name": "False Prophets",
-      "url": "https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1171,6 +1139,38 @@
       "duration_ms": 202457,
       "name": "Assassin - The Paisley Park Session",
       "url": "https://open.spotify.com/track/00iZlOpfLr21eTSl0Ba3hn"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "False Prophets",
+        "url": "https://open.spotify.com/album/5CujzokHgFMEPtzUdetfyO"
+      },
+      "artists": [
+        {
+          "name": "The Motet",
+          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
+        }
+      ],
+      "duration_ms": 352374,
+      "name": "False Prophets",
+      "url": "https://open.spotify.com/track/6sOL29bZBilHSiuFEwtNS9"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "The Fun Ones",
+        "url": "https://open.spotify.com/album/4xTGDldacEINrMyVRXUfVH"
+      },
+      "artists": [
+        {
+          "name": "RJD2",
+          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
+        }
+      ],
+      "duration_ms": 281805,
+      "name": "Indoor S'mores",
+      "url": "https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1221,22 +1221,6 @@
       "url": "https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP"
     },
     {
-      "added_at": "2022-04-15 04:02:00",
-      "album": {
-        "name": "Lost Knights",
-        "url": "https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi"
-      },
-      "artists": [
-        {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Samson",
-      "url": "https://open.spotify.com/track/6d2O45piXdSJ1ieRFuYYXn"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "We Are All Shining Stars",
@@ -1251,6 +1235,22 @@
       "duration_ms": 198966,
       "name": "Everybody's Inn",
       "url": "https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY"
+    },
+    {
+      "added_at": "2022-04-15 04:02:00",
+      "album": {
+        "name": "Lost Knights",
+        "url": "https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Samson",
+      "url": "https://open.spotify.com/track/6d2O45piXdSJ1ieRFuYYXn"
     },
     {
       "added_at": "2021-11-19 05:02:00",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf"
+        "name": "Funkedemia",
+        "url": "https://open.spotify.com/album/7HKRAGoXo7IWvMhkpT6NMb"
       },
       "artists": [
         {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+          "name": "Mac James",
+          "url": "https://open.spotify.com/artist/2lV3UEHZZ7gYzj5Iv0NLJ3"
         }
       ],
-      "duration_ms": 324078,
-      "name": "Royal Highness",
-      "url": "https://open.spotify.com/track/42y27OIathcePEZFs5bYSk"
+      "duration_ms": 133381,
+      "name": "Funkedemia",
+      "url": "https://open.spotify.com/track/3Y4OuMnrh3An9tpxGWtd0z"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Funkedemia",
-        "url": "https://open.spotify.com/album/7HKRAGoXo7IWvMhkpT6NMb"
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf"
       },
       "artists": [
         {
-          "name": "Mac James",
-          "url": "https://open.spotify.com/artist/2lV3UEHZZ7gYzj5Iv0NLJ3"
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
         }
       ],
-      "duration_ms": 133381,
-      "name": "Funkedemia",
-      "url": "https://open.spotify.com/track/3Y4OuMnrh3An9tpxGWtd0z"
+      "duration_ms": 324078,
+      "name": "Royal Highness",
+      "url": "https://open.spotify.com/track/42y27OIathcePEZFs5bYSk"
     },
     {
       "added_at": "2020-11-13 05:02:00",

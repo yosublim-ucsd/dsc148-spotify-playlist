@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,559 likes - 100 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,789 likes - 100 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 71 | [Congalegre](https://open.spotify.com/track/547xPOmLdBpM4X9B2lIW8B) | [Horace Parlan](https://open.spotify.com/artist/413WfGS7CgAHEJD4DtAo3e) | [Headin' South](https://open.spotify.com/album/3zLWpN31cZL0isbgDtdcXy) | 4:24 |
 | 72 | [These Are Soulful Days](https://open.spotify.com/track/77w5ciHOxfV1CyTIoE1iWw) | [Benny Green](https://open.spotify.com/artist/4g55GmK5iQOyCoDdQCzWKZ) | [These Are Soulful Days](https://open.spotify.com/album/1yDQ8iFIOquXATNe0hztWi) | 6:50 |
 | 73 | [Mamacita \- Remastered 2014](https://open.spotify.com/track/2OAGhItJNa421Rdtby3ZuQ) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Trompeta Toccata \(Remastered 2014\)](https://open.spotify.com/album/0MbOmmvDUHC8Y1FBtG3HDl) | 11:03 |
-| 74 | [March On Selma \- Remastered](https://open.spotify.com/track/2J8zEC95MQuuQSSzdVXJg5) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Down With It](https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF) | 6:16 |
+| 74 | [March On Selma \- Remastered 2005/Rudy Van Gelder Edition](https://open.spotify.com/track/2J8zEC95MQuuQSSzdVXJg5) | [The Blue Mitchell Quintet](https://open.spotify.com/artist/4WQ2WF6X178A17JiHI4bWj) | [Down With It! \(Remastered 2005/Rudy Van Gelder Edition\)](https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF) | 6:16 |
 | 75 | [Broad Way Blues](https://open.spotify.com/track/3ASbn4OVbcg1tnSjmdyREe) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [New York Is Now](https://open.spotify.com/album/5YExsVX6QRDHsLJLLm4ogy) | 8:43 |
 | 76 | [New Monastery \- Rudy Van Gelder Edition/1999 Remaster](https://open.spotify.com/track/5K6jQyCr2sxKMvcBLI6Zfv) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Point Of Departure \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/647o8vl4OD1sjvvhql3jFS) | 7:05 |
 | 77 | [The Coaster \- 2008 Remaster](https://open.spotify.com/track/4PBqAOYTedJXNdDwtUvbTx) | [Grachan Moncur III](https://open.spotify.com/artist/5NrnFpBCv4Z43MgMVXfrrY) | [Evolution \(Remastered\)](https://open.spotify.com/album/4lybhjIqqPtLb5xV8sXg3x) | 11:39 |

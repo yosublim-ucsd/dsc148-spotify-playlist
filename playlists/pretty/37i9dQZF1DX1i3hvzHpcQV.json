@@ -1,12 +1,12 @@
 {
   "description": "Tune into the Hottest tracks of Kollywood!\nCover : Vaathi",
-  "num_followers": 552999,
+  "num_followers": 553364,
   "original_name": "Hot Hits Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTU1OTA4MiwwMDAwMDAwMGE0NzI0NTljZWEyMDI2YjU1MzFjYWE1MDIzNjhmYzhj",
+  "snapshot_id": "MTY4MTgxNTk5NSwwMDAwMDAwMDhiYTI0MWRkZDE3NjQwZmM5ODQxMzc5YjQ5NmUxNjE3",
   "tracks": [
     {
       "added_at": "2023-01-25 11:03:02",
@@ -143,30 +143,6 @@
       "duration_ms": 224095,
       "name": "Jimikki Ponnu",
       "url": "https://open.spotify.com/track/7fRIo7WyDxXn3r233GCcdL"
-    },
-    {
-      "added_at": "2023-04-03 08:28:49",
-      "album": {
-        "name": "Viduthalai (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6B4QVNX6NKy1EkU3a8bGe4"
-      },
-      "artists": [
-        {
-          "name": "Ilaiyaraaja",
-          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
-        },
-        {
-          "name": "Dhanush",
-          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
-        },
-        {
-          "name": "Ananya Bhat",
-          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Onnoda Nadandhaa",
-      "url": "https://open.spotify.com/track/5ppk5XtvJJjkYYfmJrnPX9"
     },
     {
       "added_at": "2023-02-17 09:36:56",
@@ -409,22 +385,6 @@
       "url": "https://open.spotify.com/track/4FOCZFqxIS1Xc5JWla5VNj"
     },
     {
-      "added_at": "2023-01-13 06:41:44",
-      "album": {
-        "name": "Varisu",
-        "url": "https://open.spotify.com/album/0v5sodl4XQptOtB7iD9SNy"
-      },
-      "artists": [
-        {
-          "name": "K. S. Chithra",
-          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
-        }
-      ],
-      "duration_ms": 127135,
-      "name": "Soul Of Varisu",
-      "url": "https://open.spotify.com/track/3Xhy4piUxuXY1VRqeaHi0Z"
-    },
-    {
       "added_at": "2022-05-11 13:35:16",
       "album": {
         "name": "Pathala Pathala (From \"Vikram\")",
@@ -509,30 +469,6 @@
       "url": "https://open.spotify.com/track/1Nr46gjiP50uPsz30gYhAd"
     },
     {
-      "added_at": "2022-09-26 12:27:15",
-      "album": {
-        "name": "Ponniyin Selvan Part-1 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN"
-      },
-      "artists": [
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Palakad Sreeram",
-          "url": "https://open.spotify.com/artist/4kFcACv63ngx7w0d5HGeMR"
-        },
-        {
-          "name": "Mahesh Vinayakram",
-          "url": "https://open.spotify.com/artist/3dLyuHSyFYR1OeWA67LBUC"
-        }
-      ],
-      "duration_ms": 289942,
-      "name": "Ratchasa Maamaney",
-      "url": "https://open.spotify.com/track/26aOnndLckt8uAsk6odL5n"
-    },
-    {
       "added_at": "2022-07-27 13:40:34",
       "album": {
         "name": "Megham Karukatha (From \"Thiruchitrambalam\")",
@@ -551,22 +487,6 @@
       "duration_ms": 290400,
       "name": "Megham Karukatha (From \"Thiruchitrambalam\")",
       "url": "https://open.spotify.com/track/6TQS7URegxmcb8tTNpoXzi"
-    },
-    {
-      "added_at": "2022-09-19 02:27:49",
-      "album": {
-        "name": "Vendhu Thanindhathu Kaadu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6ID1od4fd4L19s7ZjoCeW4"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        }
-      ],
-      "duration_ms": 258319,
-      "name": "Marakkuma Nenjam",
-      "url": "https://open.spotify.com/track/6WAfYZXIKo2ufmQZQR9L8E"
     },
     {
       "added_at": "2022-05-15 23:59:13",
@@ -647,26 +567,6 @@
       "duration_ms": 258909,
       "name": "Thaai Kelavi (From \"Thiruchitrambalam\")",
       "url": "https://open.spotify.com/track/1pean7zvZUqcWZaUucH63f"
-    },
-    {
-      "added_at": "2022-09-20 04:40:43",
-      "album": {
-        "name": "Kurumugil [From \"Sita Ramam (Tamil)\"]",
-        "url": "https://open.spotify.com/album/3QbblpY2hZM0cEhAs3baV7"
-      },
-      "artists": [
-        {
-          "name": "Vishal Chandrashekhar",
-          "url": "https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr"
-        },
-        {
-          "name": "Sai Vignesh",
-          "url": "https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS"
-        }
-      ],
-      "duration_ms": 218808,
-      "name": "Kurumugil (From \"Sita Ramam (Tamil)\")",
-      "url": "https://open.spotify.com/track/5e2eJl3qNNGWllzSFCYrad"
     },
     {
       "added_at": "2022-09-06 06:14:21",
@@ -1167,62 +1067,6 @@
     {
       "added_at": "2021-11-15 07:19:01",
       "album": {
-        "name": "Adi Penne",
-        "url": "https://open.spotify.com/album/41DFtugomlAL2wB8SgjIyw"
-      },
-      "artists": [
-        {
-          "name": "Stephen Zechariah",
-          "url": "https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG"
-        },
-        {
-          "name": "Srinisha Jayaseelan",
-          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
-        }
-      ],
-      "duration_ms": 301862,
-      "name": "Adi Penne",
-      "url": "https://open.spotify.com/track/6XmBh5HSdVzEAaqzEftL9t"
-    },
-    {
-      "added_at": "2022-01-04 00:58:54",
-      "album": {
-        "name": "Pushpa - The Rise",
-        "url": "https://open.spotify.com/album/602rAkHAZiAsKB8BcxEiCM"
-      },
-      "artists": [
-        {
-          "name": "Rajalakshmi Senthiganesh",
-          "url": "https://open.spotify.com/artist/1JIPdCqj5nSYLwHHD4vS5v"
-        }
-      ],
-      "duration_ms": 224016,
-      "name": "Saami Saami",
-      "url": "https://open.spotify.com/track/397k2vS0xPDxKKVXV46KtV"
-    },
-    {
-      "added_at": "2021-11-15 07:19:01",
-      "album": {
-        "name": "Kutty Pattas",
-        "url": "https://open.spotify.com/album/2Ea9r6jaWYTgPGUB5ipQDs"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Dhayanidhi",
-          "url": "https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3"
-        },
-        {
-          "name": "Rakshita Suresh",
-          "url": "https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ"
-        }
-      ],
-      "duration_ms": 239103,
-      "name": "Kutty Pattas",
-      "url": "https://open.spotify.com/track/7AHKnQ6XB5l7GL4pTJWLZn"
-    },
-    {
-      "added_at": "2021-11-15 07:19:01",
-      "album": {
         "name": "Soul of Doctor (Theme) [From \"Doctor\"]",
         "url": "https://open.spotify.com/album/2ftkMy4ttkkdjFsFReYdWg"
       },
@@ -1263,30 +1107,6 @@
       "duration_ms": 261946,
       "name": "Bodhai Kaname - From \"Oh Manapenne\"",
       "url": "https://open.spotify.com/track/4qIMmEjV8gaEsfZML9LALx"
-    },
-    {
-      "added_at": "2021-11-15 07:19:01",
-      "album": {
-        "name": "Adipoli (From \"Think Originals\")",
-        "url": "https://open.spotify.com/album/4QHNXgyNYiMewgQYO3rdSy"
-      },
-      "artists": [
-        {
-          "name": "Siddhu Kumar",
-          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
-        },
-        {
-          "name": "Vineeth Sreenivasan",
-          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
-        },
-        {
-          "name": "K. Sivaangi",
-          "url": "https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz"
-        }
-      ],
-      "duration_ms": 172750,
-      "name": "Adipoli (From \"Think Originals\")",
-      "url": "https://open.spotify.com/track/1rvJahl2EPy25dSsBNzTr4"
     }
   ],
   "unique_name": "Hot Hits Tamil",

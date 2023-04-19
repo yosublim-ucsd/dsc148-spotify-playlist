@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Don Joe, Guè, Rondodasosa e tanti altri 🔥
 
-1,592 songs - 3 day 0 hr 42 min
+1,593 songs - 3 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,8 @@
 | [Alleluia \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/1MboxS3hV7Wr8UVO59uRth) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 2:40 | 2022-11-25 | 2022-12-24 |
 | [AllStar Game 73](https://open.spotify.com/track/6WH5T7VIS1k6eYnZbVzqK1) | [MxRxGxA](https://open.spotify.com/artist/0mWyVQ7sv9hxOYcStan62M), [Gionni Grano](https://open.spotify.com/artist/5Lp6pNq4km6sycD2mmgFIb), [RollzRois](https://open.spotify.com/artist/1fTtdB7ppQhdFosmH7nxGR), [Blo/B](https://open.spotify.com/artist/4QYU4MQEacNhS9Oe8PQEBH), [Lil' Pin](https://open.spotify.com/artist/0Yu21jBSZjHWD3COKkxNie) | [AllStar Game 73](https://open.spotify.com/album/5NqrY75oEXoajKJAOqCDRd) | 4:02 | 2023-01-05 | 2023-01-13 |
 | [ALMENO SE SI LITIGA SCOPIAMO](https://open.spotify.com/track/6g2T64XiM4IrQTT3SRVWkS) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Lovesick](https://open.spotify.com/album/4ylJYUPPucN6viDlN3YXHt) | 3:00 | 2022-12-01 | 2022-12-24 |
-| [Alo Alo](https://open.spotify.com/track/0QFSd154oHxKchYcg7jTfE) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [ALPHA](https://open.spotify.com/album/79VfxswlqSCscjT31Hm8iO) | 4:17 | 2023-04-06 |  |
+| [Alo Alo](https://open.spotify.com/track/0QFSd154oHxKchYcg7jTfE) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [ALPHA](https://open.spotify.com/album/79VfxswlqSCscjT31Hm8iO) | 4:17 | 2023-04-06 | 2023-04-19 |
+| [Alo Alo](https://open.spotify.com/track/5BdqjUsHk7XOCU9v1fcbKr) | [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [ALPHA](https://open.spotify.com/album/4PADb3SC8g22XhFLYLKATm) | 4:17 | 2023-04-18 |  |
 | [Alto Mare](https://open.spotify.com/track/7DXE7np4oQtMLat0dbI2o8) | [DAG](https://open.spotify.com/artist/5kvGcUnRgMtGyRIVUW6GN0) | [Alto Mare](https://open.spotify.com/album/5P1jNJlzKGSdDjbiN8I141) | 2:35 | 2022-07-21 | 2022-08-13 |
 | [Always Ready](https://open.spotify.com/track/7Gp8EIlM1HzN6RXdVRIrN8) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4), [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz) | [Always Ready](https://open.spotify.com/album/3wlakbU1BE1CxvkXOraFe3) | 2:50 | 2022-09-08 | 2022-09-16 |
 | [Amare come un thug](https://open.spotify.com/track/2ZiMHcFrDG3ofdQPY7goDm) | [Baby Sosa](https://open.spotify.com/artist/7jg5p3qrEEKY7fqNzgoJ9K) | [Amare come un thug](https://open.spotify.com/album/1yHOvh1RkhrzcQbdlIO6Ar) | 2:55 | 2022-12-15 | 2023-01-06 |

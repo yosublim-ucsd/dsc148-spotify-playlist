@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 
 > Novedades y clásicos del popular género colombiano\. Foto: Diomedes Díaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,903 likes - 65 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,968 likes - 65 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzp8aTdsnVq.md) - [plain]
 | 2 | [Ya Pa Que](https://open.spotify.com/track/3Q7equZktTSZJ3KBytS4cX) | [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Elías Mendoza](https://open.spotify.com/artist/0oniumgsmbuItH1l6O8vER) | [Único](https://open.spotify.com/album/06wq8hSeOt7YNj8LeJX5Nz) | 4:13 |
 | 3 | [Amantes](https://open.spotify.com/track/4HQa0epS8B23YEHqyA2fKr) | [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K), [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ) | [El Disco Que Me Gusta](https://open.spotify.com/album/5ymciF4IdHbVu5yxJlCf1W) | 3:45 |
 | 4 | [La Rompecorazones](https://open.spotify.com/track/2aXgU9biHn0rIrBapROjNI) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB) | [Se Va Formando](https://open.spotify.com/album/36jTX86gCCKfkKpzIPLQ7W) | 3:52 |
-| 5 | [La Historia \- Escalona Nunca Se Había Grabado Así](https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Historia \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/album/2wcgOo4KxX9mWenJ4PeuUu) | 4:30 |
+| 5 | [La Historia \- Escalona Nunca Se Había Grabado Así](https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Historia \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/album/2wcgOo4KxX9mWenJ4PeuUu) | 4:31 |
 | 6 | [Ya No Somos Nada](https://open.spotify.com/track/6kliDqdZj1TKHEpuuI0QhW) | [Los K Morales](https://open.spotify.com/artist/1fGyfOQwyXQgEPePzrFQ63) | [Se Subió la Nota](https://open.spotify.com/album/53Imi3PCN06wdHRijazqsl) | 3:35 |
 | 7 | [Mentiría](https://open.spotify.com/track/1fxz8BazeC8fzshetS6tZv) | [Deiner Bayona](https://open.spotify.com/artist/0Ru3zrEI6ADR5YojDrBqf9) | [Mentiría](https://open.spotify.com/album/3wFFQHT7P0Mtwy8Uxz1vml) | 4:22 |
 | 8 | [Ilusiones](https://open.spotify.com/track/2jHaeV9nx3KARH8srHZFER) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Franco Argüelles](https://open.spotify.com/artist/66pMOS7QsO8moXgL0Zza6q) | [Experiencias Vividas](https://open.spotify.com/album/7jN66YGPSXc7ibUmQHqsWq) | 4:32 |

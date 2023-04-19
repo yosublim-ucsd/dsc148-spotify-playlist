@@ -4,7 +4,7 @@
 
 > Relaxing instrumental piano covers from your favourite movies.
 
-95 songs - 5 hr 12 min
+96 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Once Upon a December \(from Anastasia\)](https://open.spotify.com/track/2PCTrOWob0vs0io6pfGOYS) | [Emile Pandolfi](https://open.spotify.com/artist/5BcEbeQq5n2fz8HbhI9CWU) | [Believe](https://open.spotify.com/album/1cYIgSWWkA7N5Wo0Sg5TTZ) | 4:12 | 2023-03-17 | 2023-03-23 |
 | [Part of Your World](https://open.spotify.com/track/10P1THgSCHhNJHHIyuX4qa) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Part of Your World](https://open.spotify.com/album/6gFqEPL97JNYCdMXlcOfKz) | 3:58 | 2023-03-17 |  |
 | [Reflection \(from "Mulan"\) \[Instrumental\]](https://open.spotify.com/track/09ArKoP4jYctXgnlysn6Ie) | [The Hakumoshee Sound](https://open.spotify.com/artist/2eKX7r3V4Vogrhf0lGCKnI) | [Disney Peaceful Piano: Love Song Instrumentals](https://open.spotify.com/album/7dWDbWUqPLOr3uRbNqluvQ) | 1:46 | 2023-03-17 | 2023-03-23 |
-| [Remember Me](https://open.spotify.com/track/6TWc9jqstUEB6EGTE2i0R5) | [Minnie Wester](https://open.spotify.com/artist/7xRDHTbmmYzPqEsHgjhh22) | [Remember Me](https://open.spotify.com/album/1OuiuiEgVjUUhTUg3xUjZj) | 3:42 | 2023-03-17 |  |
+| [Remember Me](https://open.spotify.com/track/6TWc9jqstUEB6EGTE2i0R5) | [Minnie Wester](https://open.spotify.com/artist/7xRDHTbmmYzPqEsHgjhh22) | [Remember Me](https://open.spotify.com/album/1OuiuiEgVjUUhTUg3xUjZj) | 3:42 | 2023-03-17 | 2023-04-19 |
 | [River Flows in You \- Piano Arrangement](https://open.spotify.com/track/1RkOCWRu3wXBOqZXVKwE1t) | [Toby Jacobs](https://open.spotify.com/artist/55nl5VG12M7EIBuL0wHnWA) | [Covers, Vol\. 1](https://open.spotify.com/album/17HMQlrc1mFmxrRNYuDx7q) | 3:42 | 2023-03-22 |  |
 | [Rocket Man](https://open.spotify.com/track/6ff2TinoXWHCn0JnfUAp2b) | [Fiona Greenly](https://open.spotify.com/artist/1o7MqXOsAEoLkc9YEj7m9c) | [Rocket Man](https://open.spotify.com/album/1AvBbSVmZXYJtEt5GePDMR) | 3:04 | 2023-03-17 |  |
 | [Running Up That Hill](https://open.spotify.com/track/0888bDPARDMEWbEGtVJOhY) | [Ian Nordberg](https://open.spotify.com/artist/3J9JfdTaSIyWIabsqIX6El) | [Running Up That Hill](https://open.spotify.com/album/5Cp0n8oPyxo44D96n3ZKfN) | 2:42 | 2023-03-17 |  |
@@ -92,12 +92,13 @@
 | [We Don't Need Another Hero](https://open.spotify.com/track/73SFXFqWBlrwN8gLWLrqmS) | [Jorelyn Ariza](https://open.spotify.com/artist/6eSynFyqk6TbDwoodngL5w) | [We Don't Need Another Hero](https://open.spotify.com/album/0FzChdtV0Xt18jAAhuB9Jd) | 2:56 | 2023-03-17 |  |
 | [When a Man Loves a Woman \(Arr\. for Piano\)](https://open.spotify.com/track/3LhwkmVSfe2FPTItQ9GoZ3) | [Andrew O'Hara](https://open.spotify.com/artist/29wW9vW9TIUcmNGFqUQ271) | [Instrumental Music from the Movies](https://open.spotify.com/album/5NLxHQc47oFugqZ021DzZP) | 2:25 | 2023-03-22 | 2023-04-06 |
 | [When a man loves a woman \- Piano version](https://open.spotify.com/track/4zvqPeUQytCXTefGkRyc5a) | [Ebony and Ivory](https://open.spotify.com/artist/0i0md3QWNj6WJnMEx5vsj8) | [When a man loves a woman \(Piano Version\)](https://open.spotify.com/album/2cJOeEGCWruhZjYiexj0mC) | 3:26 | 2023-04-05 |  |
-| [When She Loved Me \(From "Toy Story 2"\)](https://open.spotify.com/track/5vxJ5iCwXARI839Gw8C2Vm) | [Benny Martin](https://open.spotify.com/artist/6cIU84TLDcCIFzj4h24wpr) | [Disney & Pixar Piano Classics](https://open.spotify.com/album/5Ipexg2weAi95C0tSEjyyc) | 3:00 | 2023-03-17 |  |
+| [When She Loved Me \(From "Toy Story 2"\)](https://open.spotify.com/track/5vxJ5iCwXARI839Gw8C2Vm) | [Benny Martin](https://open.spotify.com/artist/6cIU84TLDcCIFzj4h24wpr) | [Disney & Pixar Piano Classics](https://open.spotify.com/album/5Ipexg2weAi95C0tSEjyyc) | 3:00 | 2023-03-17 | 2023-04-19 |
 | [When You Say Nothing At All \- Piano Version](https://open.spotify.com/track/3FcI3mILAwzhFPXs01QCQ1) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Famous Songs on Piano 1](https://open.spotify.com/album/2v5hcKlCisxBRszKsSUzOe) | 3:23 | 2023-03-17 |  |
 | [When You Wish Upon a Star](https://open.spotify.com/track/4oC2OjhMIebaOtUXyqw4P8) | [Mounia Abraham](https://open.spotify.com/artist/5vZm6KOKPOk2Pooo9NHt1h) | [When You Wish Upon a Star](https://open.spotify.com/album/7fsSv3ak7BZdLx6L94bc2W) | 2:41 | 2023-03-17 | 2023-03-23 |
 | [Where Is My Mind?](https://open.spotify.com/track/1XfJ4VvulKXjwxIEQURE8R) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Where Is My Mind?](https://open.spotify.com/album/2XeUeewsBg1YDbomOApaqK) | 3:46 | 2023-03-17 |  |
 | [Wicked Game](https://open.spotify.com/track/2xdZFU10kxBAZSyImawWkf) | [Claire Haeving](https://open.spotify.com/artist/1TwEiPFLOc40tfIB7EvaWX) | [Uncovered](https://open.spotify.com/album/0xOfEKGbSpYALqMH3IHahO) | 3:10 | 2023-03-17 |  |
 | [Winnie the Pooh](https://open.spotify.com/track/51MXDjtegOEUPRUsYDd838) | [Tom Ameen](https://open.spotify.com/artist/1FIjhA2qaTqqmbaa1UgVFF) | [Magical Moments 2: The Magic Continues](https://open.spotify.com/album/6c5EL2rAulWGtpIaRu3BDu) | 2:33 | 2023-03-17 | 2023-03-23 |
+| [Wonder Woman](https://open.spotify.com/track/6KO3K2Iu0EHOIbSRibo7M8) | [Man In The Moon](https://open.spotify.com/artist/6BTjmaexyRi0mmlipQ2Dnz) | [Wonder Woman](https://open.spotify.com/album/17q5zFGbh3XNEtEhOjyIpw) | 3:18 | 2023-04-18 |  |
 | [Wonderwall](https://open.spotify.com/track/5YO7hivGzpGctGedUVRmFv) | [Regina Scallí](https://open.spotify.com/artist/6z4uxWlsx9rzh24RYxntWy) | [Wonderwall](https://open.spotify.com/album/5nBdxHBN2bSn9XlqEvtAks) | 2:54 | 2023-03-17 |  |
 | [You Only Live Twice \- From "You Only Live Twice"](https://open.spotify.com/track/62TXy7eoFCbm3Majfqtu0g) | [Patrik Jablonski](https://open.spotify.com/artist/4jt6GmDFrRnnxgs6pQDKMi) | [James Bond Themes: Peaceful Piano](https://open.spotify.com/album/7kucI6ukXGZ5VMW7qEv7XH) | 2:17 | 2023-04-05 |  |
 | [Your Power](https://open.spotify.com/track/3BYzUvWqRbMqgAFJ0RKOit) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Your Power](https://open.spotify.com/album/43jo9EfovSbhORuO73djg6) | 3:04 | 2023-03-17 |  |

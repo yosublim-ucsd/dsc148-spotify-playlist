@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "9 years old",
+        "url": "https://open.spotify.com/album/0NiaZ19b8CG62gtHOKxehs"
+      },
+      "artists": [
+        {
+          "name": "aint lindy",
+          "url": "https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281428,
+      "name": "9 years old",
+      "url": "https://open.spotify.com/track/2GFlgTjfnTg4VBUpRGGTrx"
+    },
+    {
+      "album": {
         "name": "a little question (Sh\u014dtaro Aoyama Remix)",
         "url": "https://open.spotify.com/album/2VEX1IbbXHa3iz1NG5hvZq"
       },
@@ -1366,6 +1384,36 @@
       "duration_ms": 229536,
       "name": "Candle Light",
       "url": "https://open.spotify.com/track/1xsgBj3O1MchwVBa6ckwXx"
+    },
+    {
+      "album": {
+        "name": "Can\u2019t Get Over Myself (feat. Zuma.)",
+        "url": "https://open.spotify.com/album/3R5j05cIiE1DmVu2DwYjai"
+      },
+      "artists": [
+        {
+          "name": "Otomodatchi",
+          "url": "https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj"
+        },
+        {
+          "name": "Amiide",
+          "url": "https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR"
+        },
+        {
+          "name": "Jyodan",
+          "url": "https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6"
+        },
+        {
+          "name": "Zuma.",
+          "url": "https://open.spotify.com/artist/5njJbzFJ6lY7tq7ZiuFZX5"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Can\u2019t Get Over Myself - feat. Zuma.",
+      "url": "https://open.spotify.com/track/2BQhm7S8FL2B1bdq0IlRKo"
     },
     {
       "album": {
@@ -3158,7 +3206,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 232284,
       "name": "Go back",
       "url": "https://open.spotify.com/track/59rg9AKIjMeYBwCR5gKIYi"
@@ -5062,7 +5110,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 211742,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/0TmhYlyTkhaHWNwyAyXSBK"
@@ -5792,7 +5840,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 214133,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/6tF5SVu63mcy3bxzqpTiap"
@@ -5810,7 +5858,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 230499,
       "name": "Mirror Mirror",
       "url": "https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run"
@@ -6050,6 +6098,24 @@
       "duration_ms": 263120,
       "name": "M\u516b\u4e03",
       "url": "https://open.spotify.com/track/3sFdaHo9D3hfiFt2wVi6a5"
+    },
+    {
+      "album": {
+        "name": "N",
+        "url": "https://open.spotify.com/album/63CIY5JWFCwbGBXZzGNf6H"
+      },
+      "artists": [
+        {
+          "name": "the engy",
+          "url": "https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170865,
+      "name": "N",
+      "url": "https://open.spotify.com/track/25S5RcQ5NQTlPuaW4HLP5z"
     },
     {
       "album": {
@@ -6806,7 +6872,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 208750,
       "name": "Pills Chills Shakes - feat. HMLT",
       "url": "https://open.spotify.com/track/6dhJbmnXW1Z5OIezT06y1G"
@@ -7698,6 +7764,24 @@
       "duration_ms": 197995,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ"
+    },
+    {
+      "album": {
+        "name": "Season",
+        "url": "https://open.spotify.com/album/4Bf2U02MHfbI5QwpdID98M"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208133,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg"
     },
     {
       "album": {
@@ -8684,7 +8768,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 349363,
       "name": "summercut",
       "url": "https://open.spotify.com/track/4SDFECUJAYtTEElw4cgZ9e"
@@ -8706,6 +8790,24 @@
       "duration_ms": 309968,
       "name": "Sundaynight",
       "url": "https://open.spotify.com/track/7gPcTsRB1ylvb17OckGa2K"
+    },
+    {
+      "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/0duTQZp3avVEjQELyT0vQd"
+      },
+      "artists": [
+        {
+          "name": "Murakami Keisuke",
+          "url": "https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211327,
+      "name": "SUPERNOVA",
+      "url": "https://open.spotify.com/track/5V7YhNvRSazLfEANYU3peX"
     },
     {
       "album": {
@@ -12866,6 +12968,24 @@
       "duration_ms": 281612,
       "name": "\u672a\u6765\u6642\u4ee3",
       "url": "https://open.spotify.com/track/3rMVgn486bfoyJEvkb6xmX"
+    },
+    {
+      "album": {
+        "name": "TOKYO JUNK BOOGIE",
+        "url": "https://open.spotify.com/album/3LIgXpMVtzTywubYgtUgdM"
+      },
+      "artists": [
+        {
+          "name": "Mari Natsuki",
+          "url": "https://open.spotify.com/artist/2pNYWL608THXN3ExiA5iay"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200751,
+      "name": "\u6771\u4eac\u30d6\u30ae\u30a6\u30ae - JUNK BOOGIE",
+      "url": "https://open.spotify.com/track/78EdyJD8l2uwT3Kw0ppViW"
     },
     {
       "album": {

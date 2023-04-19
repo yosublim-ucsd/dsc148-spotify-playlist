@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kz2RZNrZvN.md) - [plain]
 
 > The biggest Drum 'n' Bass bangers of 2022\. Cover: Nia Archives
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,497 likes - 70 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,510 likes - 70 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kz2RZNrZvN.md) - [plain]
 | 17 | [Censor \(feat\. Popcaan & IRAH\)](https://open.spotify.com/track/18EcR5oRBNKqKqX9qxpcKC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [What Came Before](https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1) | 3:36 |
 | 18 | [Somewhere](https://open.spotify.com/track/7cv6F8ecbEGEggj5LxswRe) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Reiki Ruawai](https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3) | [Half Life](https://open.spotify.com/album/2i3hlAf4hXlgQFF9copmNN) | 3:40 |
 | 19 | [Higher](https://open.spotify.com/track/7gfFqigmPAHrHt6c84b5cm) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK), [Nikki Ambers](https://open.spotify.com/artist/01PAM2LxCLL6tflnv7mbV7) | [Higher](https://open.spotify.com/album/3PsDcHdtiMfXxYcakymN39) | 2:52 |
-| 20 | [Mash up the Dance](https://open.spotify.com/track/12SZ8TqMbjY1zQc2kTGX22) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance](https://open.spotify.com/album/6lmntnCO9G6CK3zdSEb2fv) | 3:09 |
+| 20 | [Mash up the Dance](https://open.spotify.com/track/3HWxmlUkBo3GXRxefWas8m) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance](https://open.spotify.com/album/6FjPHeZxl5hwST6ZF2MC3v) | 3:09 |
 | 21 | [Out Of My Head](https://open.spotify.com/track/6Q2tJt4oYeC6bbytXc5Z0R) | [1991](https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy), [Cherryade](https://open.spotify.com/artist/2Z4zth26FtZ4lK2Yu9nBgV) | [Odyssey](https://open.spotify.com/album/4Jx1PYusjUa6ofuFH945Oi) | 4:00 |
 | 22 | [Spartanz \- Bou Remix](https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Spartanz \(Bou Remix\)](https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI) | 3:42 |
 | 23 | [Night Train](https://open.spotify.com/track/0zGHWnTtESiQrWwnCA1yBM) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Night Train](https://open.spotify.com/album/5LgCU9NNcj2V412ZKn3Sra) | 4:48 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kz2RZNrZvN.md) - [plain]
 | 69 | [Be The Reason](https://open.spotify.com/track/3nZw1QmonyEBhwBWaodKxi) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF) | [Be The Reason](https://open.spotify.com/album/1FFKq9mYzvydKVGzBww03m) | 4:19 |
 | 70 | [Higher](https://open.spotify.com/track/5qDvsmyX6iK5QId4pNePB1) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Higher / Stronger](https://open.spotify.com/album/6nRdxTRexAqkVUajWIWG2k) | 4:30 |
 
-Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMGE3ZTMzMGZkYjRiMzYwMjBiNjQxODcxMjIyNmUyOWM4`
+Snapshot ID: `MTY2OTgxNTk2MCwwMDAwMDAwMDgyNTZiZTU2OGMyYjgzODIxOGIyNDE0M2I1NGY3ZWRh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 
 > Clear your mind with soothing new age guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,673 likes - 126 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,736 likes - 126 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 | 35 | [Sense Of Purpose](https://open.spotify.com/track/1BvhFvVFE0crj3NwwUp1ov) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [Sense Of Purpose](https://open.spotify.com/album/7M8AAxi71Aw8Igk5DoRTwL) | 2:17 |
 | 36 | [Solitary Dream](https://open.spotify.com/track/0j2OXnzJXz64RdW5Cd9YXF) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Solitary Dream](https://open.spotify.com/album/2XPb71dayODjs1YmaFQRnC) | 2:40 |
 | 37 | [Consapevolezza](https://open.spotify.com/track/1FrBUnhD9T673kr9nfbdGP) | [Trinitah](https://open.spotify.com/artist/50MIKfXvxiyqZDE3xFm9iC) | [Consapevolezza](https://open.spotify.com/album/2QMr6qobtdVlPn7Y6UZdf2) | 2:05 |
-| 38 | [Aspettami](https://open.spotify.com/track/59TaH0JXyu19Xt01RTF4DF) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Aspettami](https://open.spotify.com/album/3lZaYQwsHHK9Y4o0hdD80r) | 2:05 |
+| 38 | [Aspettami](https://open.spotify.com/track/06eKIv3GcoevTNVVyldzWw) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Aspettami](https://open.spotify.com/album/0M7H8emADLzJH0cEOJ0zSB) | 2:05 |
 | 39 | [Agape](https://open.spotify.com/track/1RM8shXinDriSL1trnsh9H) | [Voyage Control](https://open.spotify.com/artist/2ZxdgHyc8cnGVXvUgaApbc) | [Agape](https://open.spotify.com/album/4Il0ZsUVa4e3qTivFLbqeV) | 3:23 |
 | 40 | [Exploration Of Nothingness](https://open.spotify.com/track/3BB7bvFdR0uhOKE1RnH4nY) | [Hedda Young](https://open.spotify.com/artist/1MsiVgU8p0gLDLnGroMkIS) | [Exploration Of Nothingness](https://open.spotify.com/album/2EZSjgi3X9HOCvYgjIaMKo) | 2:08 |
 | 41 | [Luci Scure](https://open.spotify.com/track/1En4zVe0RnD9VxyCdDzwim) | [Armand DeLuca](https://open.spotify.com/artist/4O6yyC0Q9B1aWoXGxydFUu) | [Luci Scure](https://open.spotify.com/album/6OIQ9uhkkY8QYKbQqrDvUN) | 2:57 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 | 125 | [Beginners Mind](https://open.spotify.com/track/750EM9eXVnU3XeHW945rJv) | [Delta Lab](https://open.spotify.com/artist/54v62EvD3dmxVaEo3LTVYe) | [Beginners Mind](https://open.spotify.com/album/7wjigSjvD3ERxDtKS9o7f0) | 3:53 |
 | 126 | [Waves](https://open.spotify.com/track/6b0IEewTmxjEoowlloqId2) | [Aliya Coldwell](https://open.spotify.com/artist/0kUap0NamZGz6FwR7tCjUE) | [Waves](https://open.spotify.com/album/45zsAjed9wN1PpVTnkl6n5) | 2:56 |
 
-Snapshot ID: `MTY4MTQzMDQ2MCwwMDAwMDAwMGUwMzhiZmE1NmViNmE4YTk5ZTgzZmZmMzlmOTU0OTU3`
+Snapshot ID: `MTY4MTQzMDQ2MCwwMDAwMDAwMGRmNTQ0MDljYzZiZTg5NmVjOWY1MDIyY2U4MTI0MDU5`

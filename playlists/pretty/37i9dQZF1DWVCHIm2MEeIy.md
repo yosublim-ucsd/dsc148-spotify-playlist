@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > The dancefloor is the place to be 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,956 likes - 70 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,225 likes - 70 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,17 +53,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 43 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 |
 | 44 | [NYWTF feat\. Mikhail Beltran \- Edit](https://open.spotify.com/track/3LNEeKwTs8tcdWVfVclPqG) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Mikhail Beltran](https://open.spotify.com/artist/5vRwQ47fgzQDLkSVeGuAb9) | [NYWTF](https://open.spotify.com/album/6t8XvR8EcG7xJ1IbKI6Cmj) | 3:04 |
 | 45 | [Confusion](https://open.spotify.com/track/4dUIinlaify3Z3DAZmPkc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Confusion](https://open.spotify.com/album/0c4WgnhgDzr5B0SL3mwIDM) | 6:56 |
-| 46 | [NEON RATS](https://open.spotify.com/track/5qhytiPIn0IXQKs9XE98YN) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 7:30 |
-| 47 | [Back In The Taxi \- AMÉMÉ Midnight Remix](https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Back In The Taxi \(AMÉMÉ Remix\)](https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3) | 4:26 |
-| 48 | [She Could!](https://open.spotify.com/track/1twqQpzBuaDtwfAU7CXH9d) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo) | [She Could!](https://open.spotify.com/album/1lrDC0vFrAASm3z1K3iTW5) | 7:04 |
+| 46 | [She Could!](https://open.spotify.com/track/1twqQpzBuaDtwfAU7CXH9d) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo) | [She Could!](https://open.spotify.com/album/1lrDC0vFrAASm3z1K3iTW5) | 7:04 |
+| 47 | [NEON RATS](https://open.spotify.com/track/5qhytiPIn0IXQKs9XE98YN) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 7:30 |
+| 48 | [Back In The Taxi \- AMÉMÉ Midnight Remix](https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Back In The Taxi \(AMÉMÉ Remix\)](https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3) | 4:26 |
 | 49 | [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 |
 | 50 | [Something Was Missing \- PARIS Remix](https://open.spotify.com/track/0B4XSKCFYzkfLXdX5cHE41) | [Tornado Club](https://open.spotify.com/artist/5nLy3XRESMbvo6XguDGES3), [PARIS](https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N) | [Something Was Missing \(PARIS Remix\)](https://open.spotify.com/album/25IgyccLzfoOzT0SwBn43v) | 4:39 |
 | 51 | [El Tiempo](https://open.spotify.com/track/3gqn5ShJpp0VTnPNzpdfJi) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [Combinations EP](https://open.spotify.com/album/7qrdnd3NoxZwClPen84lC9) | 6:11 |
 | 52 | [Vodka & Orange](https://open.spotify.com/track/3xv8dKKfN1WjhGnsFhn9TC) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Vodka & Orange EP](https://open.spotify.com/album/0DzRyBfMWMQZa1AtsF7PY0) | 7:19 |
-| 53 | [Other Side](https://open.spotify.com/track/6pZVmX53ZAFis8ambncbZj) | [Binaryh](https://open.spotify.com/artist/7zw8gWmNncuk2QZHIc70So), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Sensitivity Spirals](https://open.spotify.com/album/0WN8HExI3A6hQCmFEOlXsx) | 6:56 |
-| 54 | [Dance with That Groove](https://open.spotify.com/track/0VVsLXAYnzm3njaefKmOhC) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ), [Deeperlove](https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm) | [Dance with That Groove](https://open.spotify.com/album/5hGq4tS6Kd02aaPykH4cs0) | 2:53 |
-| 55 | [Chaos](https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [혼돈 과 질서](https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7) | 8:48 |
-| 56 | [Give It 2 Me](https://open.spotify.com/track/6dugYhVnZ66nGsVTngBsOx) | [Michael Feel & Aleco](https://open.spotify.com/artist/3pN7a2O9TGJDoqeXVOsRni) | [Give It 2 Me](https://open.spotify.com/album/5DBn0yHAfqjKtIaENF0CJR) | 4:11 |
+| 53 | [Give It 2 Me](https://open.spotify.com/track/6dugYhVnZ66nGsVTngBsOx) | [Michael Feel & Aleco](https://open.spotify.com/artist/3pN7a2O9TGJDoqeXVOsRni) | [Give It 2 Me](https://open.spotify.com/album/5DBn0yHAfqjKtIaENF0CJR) | 4:11 |
+| 54 | [Other Side](https://open.spotify.com/track/6pZVmX53ZAFis8ambncbZj) | [Binaryh](https://open.spotify.com/artist/7zw8gWmNncuk2QZHIc70So), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Sensitivity Spirals](https://open.spotify.com/album/0WN8HExI3A6hQCmFEOlXsx) | 6:56 |
+| 55 | [Dance with That Groove](https://open.spotify.com/track/0VVsLXAYnzm3njaefKmOhC) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ), [Deeperlove](https://open.spotify.com/artist/2NJXWjY61CLRVARkqDJeRm) | [Dance with That Groove](https://open.spotify.com/album/5hGq4tS6Kd02aaPykH4cs0) | 2:53 |
+| 56 | [Chaos](https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [혼돈 과 질서](https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7) | 8:48 |
 | 57 | [Vommuli](https://open.spotify.com/track/0P3Sfu8JGonAXzPyjAf6RU) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Vommuli](https://open.spotify.com/album/4UPeZ2BiTHtX5sQ2XhURQL) | 3:52 |
 | 58 | [Bodycheck](https://open.spotify.com/track/0yuhIiOMzFAPJzb54Ci0sd) | [BOHO](https://open.spotify.com/artist/241pFB691BbwHqZJgBQSr5), [Celic](https://open.spotify.com/artist/0BhjRlNZHbZskFsNNpdNOf), [Bianka Banks](https://open.spotify.com/artist/2fL8FcTGTOjL5CvP153VGN) | [Remote](https://open.spotify.com/album/2qQGlvlNvFuMtHIbFctvVv) | 5:23 |
 | 59 | [Himmelblau](https://open.spotify.com/track/6ZRwn9JqdtRQyrHT0tKIgy) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Never Stop Dancing](https://open.spotify.com/album/6YoPT7n9LXQpOlvTjpQtCC) | 8:13 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 69 | [Revision](https://open.spotify.com/track/6Sx4f9KKwMl2YRguEqiL0A) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Revision](https://open.spotify.com/album/5zfHOeT9bFwQQm8H95crzB) | 7:13 |
 | 70 | [Confide \(Contour 1\)](https://open.spotify.com/track/6GbgqFsJbytKNRlmcZIHqL) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Contour](https://open.spotify.com/album/7MvFbkm0nHFPin4SYkiOIY) | 6:41 |
 
-Snapshot ID: `MTY4MDg4MzIwMCwwMDAwMDAwMDdjODIxMmRmOTcyODhlZmRmMzFjNzQxZDMxOTk3MmU2`
+Snapshot ID: `MTY4MDg4MzIwMCwwMDAwMDAwMGRkYWI2NGYzMWMzYjdhMDAzNzg2Yzk4ZTFhZDM5Yjkw`

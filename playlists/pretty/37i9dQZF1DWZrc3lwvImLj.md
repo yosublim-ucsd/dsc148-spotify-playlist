@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > Beautifully sad and moody piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,275 likes - 210 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,415 likes - 210 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 4 | [Perpendicular](https://open.spotify.com/track/0cd9j88kIE6LIpDwAAtKOO) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Perpendicular](https://open.spotify.com/album/3Jz2nhyhV7ftStCe9d2IFY) | 2:18 |
 | 5 | [Wishes](https://open.spotify.com/track/7L3AZOpZ7LUvUHonOLwxob) | [Benjamin Dobbs](https://open.spotify.com/artist/0Ryn8sGu13BwRC3zDySvOP) | [Wishes](https://open.spotify.com/album/5gaGIa6VJgu090XhGHc6To) | 2:02 |
 | 6 | [Ménuet Belmonte](https://open.spotify.com/track/5TKPsDdOCl2d78wM9TYNoP) | [Flavio Apicella](https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v) | [Ménuet Belmonte](https://open.spotify.com/album/5IzWBmyTiWM5R7CVMlPeY8) | 3:14 |
-| 7 | [For 4](https://open.spotify.com/track/1wqN0d4GvN2xHlnGNPmKDa) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [For](https://open.spotify.com/album/4ghcAKdZyyugvjRyaTABdM) | 2:21 |
-| 8 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 |
+| 7 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 |
+| 8 | [For 4](https://open.spotify.com/track/1wqN0d4GvN2xHlnGNPmKDa) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [For](https://open.spotify.com/album/4ghcAKdZyyugvjRyaTABdM) | 2:21 |
 | 9 | [For Us](https://open.spotify.com/track/1iTeXyjVVi2ERh7AylsoRE) | [Gian Moran](https://open.spotify.com/artist/5toExbFLGir8olBcwFIVs4) | [For Us](https://open.spotify.com/album/0Bug2fYptcIYXMDq7aZ9W3) | 2:08 |
 | 10 | [Welkin](https://open.spotify.com/track/6eEpm85ZhjGfBTTV0dTbKn) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Welkin](https://open.spotify.com/album/1Sg3AUFWHFGb5el1azce0G) | 3:05 |
 | 11 | [Bloem / Λουλούδι / Virág](https://open.spotify.com/track/2OCtvYBrpZkM7J5w02DEVm) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [PACE](https://open.spotify.com/album/1ZWV1cpZ8FXdo15VFPAU1s) | 1:46 |
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 27 | [Take 5 \- Solips \- Klaus Sahm Rework](https://open.spotify.com/track/6pcjJAP1f8RHRvfW5kLmEm) | [Kevin Imbrechts](https://open.spotify.com/artist/4IEPEjmBa0rkMZQhv5gYNu), [Klaus Sahm](https://open.spotify.com/artist/4QXX28RTVLhnQmHTfQNnHK), [Illuminine](https://open.spotify.com/artist/2JgcaYYHEGDqrKKJzuVda5) | [Take 5 \- Solips \(Klaus Sahm Rework\)](https://open.spotify.com/album/5q6uytSRIIvNQdk9crGS96) | 2:55 |
 | 28 | [Mari](https://open.spotify.com/track/5AsYLazJhOnZaAxfQgTwte) | [Dean Caplan](https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q) | [Mari](https://open.spotify.com/album/4U1tuF9PINDX3hGsp0OCRg) | 2:01 |
 | 29 | [När trollmor har lagt sina elva små troll](https://open.spotify.com/track/7KLODMiUhRae6TROVoo9o9) | [Melody Spencer](https://open.spotify.com/artist/0XKEbFGTqHAajz2lusK4dM) | [När trollmor har lagt sina elva små troll](https://open.spotify.com/album/23DnPSEc2t2uvKh2mjLOif) | 1:41 |
-| 30 | [Il lago](https://open.spotify.com/track/05HDcU36t1sVPiOzAAolke) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Il lago](https://open.spotify.com/album/1KoFQ5kYI2wyEjvwdkb582) | 2:30 |
-| 31 | [Oktobervals](https://open.spotify.com/track/4icmGX5PB2GEVBzE6dDdZD) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Oktobervals](https://open.spotify.com/album/40mVqyNnl4FDZyl6Fc1EDS) | 2:28 |
-| 32 | [Idyll](https://open.spotify.com/track/6yueQma3A7eYM4LDyR7JtI) | [DeLange](https://open.spotify.com/artist/7HQO1jUh000BYg1FEeV6Wa) | [Idyll](https://open.spotify.com/album/6wp4tJuDKRoHq9f78RwYK3) | 2:29 |
-| 33 | [Flâneuses](https://open.spotify.com/track/7IPAwOkbjDxQI3cE0c1uvX) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Flâneuses](https://open.spotify.com/album/5uK79ozFUxOb2Lw2D45AQM) | 2:47 |
-| 34 | [La rue de montmartre](https://open.spotify.com/track/4m6OniLUajvVowVSOtyi5J) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [La rue de montmartre](https://open.spotify.com/album/3z86dneZ2m3ZtoUNQBOtCB) | 2:03 |
-| 35 | [Talking Seas](https://open.spotify.com/track/33HoZWD63mWWv0IwfP4lv9) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Paloma](https://open.spotify.com/album/3xRBY4G7wM6zO4tTZapAJ6) | 2:15 |
-| 36 | [Morpho](https://open.spotify.com/track/090GAAwLiSybtUpvq50r6T) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Morpho](https://open.spotify.com/album/73BOlPGDgMu2sw8XvmiO9V) | 2:00 |
-| 37 | [Trumpets Of Datura](https://open.spotify.com/track/0bGyHFMw91fp3ghaw85wxo) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Trumpets Of Datura](https://open.spotify.com/album/3NtT2DyYz6JfTrjznupDap) | 2:23 |
+| 30 | [Trumpets Of Datura](https://open.spotify.com/track/0bGyHFMw91fp3ghaw85wxo) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Trumpets Of Datura](https://open.spotify.com/album/3NtT2DyYz6JfTrjznupDap) | 2:23 |
+| 31 | [Il lago](https://open.spotify.com/track/05HDcU36t1sVPiOzAAolke) | [Lorenzo Fiore](https://open.spotify.com/artist/4gKgtmTsn635GvNGL8EXh8) | [Il lago](https://open.spotify.com/album/1KoFQ5kYI2wyEjvwdkb582) | 2:30 |
+| 32 | [Oktobervals](https://open.spotify.com/track/4icmGX5PB2GEVBzE6dDdZD) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Oktobervals](https://open.spotify.com/album/40mVqyNnl4FDZyl6Fc1EDS) | 2:28 |
+| 33 | [Idyll](https://open.spotify.com/track/6yueQma3A7eYM4LDyR7JtI) | [DeLange](https://open.spotify.com/artist/7HQO1jUh000BYg1FEeV6Wa) | [Idyll](https://open.spotify.com/album/6wp4tJuDKRoHq9f78RwYK3) | 2:29 |
+| 34 | [Flâneuses](https://open.spotify.com/track/7IPAwOkbjDxQI3cE0c1uvX) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Flâneuses](https://open.spotify.com/album/5uK79ozFUxOb2Lw2D45AQM) | 2:47 |
+| 35 | [La rue de montmartre](https://open.spotify.com/track/4m6OniLUajvVowVSOtyi5J) | [Aleron Lapointe](https://open.spotify.com/artist/4hPVbHC8a8qIxDeYH1isFc) | [La rue de montmartre](https://open.spotify.com/album/3z86dneZ2m3ZtoUNQBOtCB) | 2:03 |
+| 36 | [Talking Seas](https://open.spotify.com/track/33HoZWD63mWWv0IwfP4lv9) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Paloma](https://open.spotify.com/album/3xRBY4G7wM6zO4tTZapAJ6) | 2:15 |
+| 37 | [Morpho](https://open.spotify.com/track/090GAAwLiSybtUpvq50r6T) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Morpho](https://open.spotify.com/album/73BOlPGDgMu2sw8XvmiO9V) | 2:00 |
 | 38 | [Con Cupido](https://open.spotify.com/track/54eceUoCcFJUi1YV20rXfY) | [Walter Giulini](https://open.spotify.com/artist/59sSHs1swsdokd6UX7cvYO) | [Con Cupido](https://open.spotify.com/album/09LK6yRnnWz7pm6QIesK95) | 1:56 |
 | 39 | [My](https://open.spotify.com/track/0sTrOSCppal1A15Pv3SmBY) | [Agnieszka Hajduk\-Wiese](https://open.spotify.com/artist/7g7nufHvsNpDFcU3qC3DUI), [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [My](https://open.spotify.com/album/7agm6WUUUVumFV4u7Q7v9u) | 2:24 |
 | 40 | [Into the Dark](https://open.spotify.com/track/1AIlPogcpB2XdSk9DdtPnn) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Into the Dark](https://open.spotify.com/album/3UMEUeoWsQn6DYTDIRCTSj) | 3:28 |
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 209 | [À Cheval](https://open.spotify.com/track/48tmOujKv21Ej498FCYjXI) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [À Cheval](https://open.spotify.com/album/4S05QzDmpuZ5DvZiod7p27) | 2:54 |
 | 210 | [Waltz For Olivia](https://open.spotify.com/track/5OPVL9eRJePaHRxuULUGju) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Silent Prayer](https://open.spotify.com/album/3L0zawGKxZFAsbszZr68wR) | 2:40 |
 
-Snapshot ID: `MTY4MDYwMTU5OSwwMDAwMDAwMDBjNzQ2MjlmYzQ5YTQ3OGZjNWQ2NTU1YmQ4ZTdmZWM3`
+Snapshot ID: `MTY4MTgzMTk2OCwwMDAwMDAwMDk4MGY3NzFmZWFhOGZlNmEyZmQ2NmY4MGJjYmZlZTJi`

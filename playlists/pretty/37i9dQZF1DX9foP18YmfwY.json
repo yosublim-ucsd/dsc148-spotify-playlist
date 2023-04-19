@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Flavio Vitor Jr.",
-  "num_followers": 294295,
+  "num_followers": 294432,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTU4MzE3MCwwMDAwMDAwMGM2MjNiYWNiMTM2NzE4ZDQ2MGM1NDUwOGI4ZTVmMGY3",
+  "snapshot_id": "MTY4MTU4MzE3MCwwMDAwMDAwMGQ4ODQwMGEwNTQ3ZmM5ZGFmM2IzZDVmMWQ4Y2Q5OTkz",
   "tracks": [
     {
       "added_at": "2023-04-15 18:26:10",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
-        "name": "O Fogo N\u00e3o Se Apagou, Vol. 2 (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m"
-      },
-      "artists": [
-        {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
-        }
-      ],
-      "duration_ms": 384059,
-      "name": "M\u00e3e Presente - Ao Vivo em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX"
-    },
-    {
-      "added_at": "2023-04-15 18:26:10",
-      "album": {
         "name": "Gba Stage, Vol. 5",
         "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 173272,
       "name": "Como \u00c9s Lindo",
       "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
+    },
+    {
+      "added_at": "2023-04-15 18:26:10",
+      "album": {
+        "name": "O Fogo N\u00e3o Se Apagou, Vol. 2 (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m"
+      },
+      "artists": [
+        {
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+        }
+      ],
+      "duration_ms": 384059,
+      "name": "M\u00e3e Presente - Ao Vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX"
     },
     {
       "added_at": "2023-04-15 18:26:10",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
-        "name": "Reinflama",
-        "url": "https://open.spotify.com/album/2D8RWVo0qdvwm3zu8Kvt9I"
-      },
-      "artists": [
-        {
-          "name": "Flavinho",
-          "url": "https://open.spotify.com/artist/3H7Mab3ekd2nFkjy9n6co4"
-        }
-      ],
-      "duration_ms": 231796,
-      "name": "Reinflama",
-      "url": "https://open.spotify.com/track/60jwaZ07sq7shi91okXDQL"
-    },
-    {
-      "added_at": "2023-04-15 18:26:10",
-      "album": {
         "name": "Gba Stage, Vol. 5",
         "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 177322,
       "name": "Cora\u00e7\u00e3o de M\u00e3e",
       "url": "https://open.spotify.com/track/5Hr8lDepNg3g3Tx6OwpH5L"
+    },
+    {
+      "added_at": "2023-04-15 18:26:10",
+      "album": {
+        "name": "Reinflama",
+        "url": "https://open.spotify.com/album/2D8RWVo0qdvwm3zu8Kvt9I"
+      },
+      "artists": [
+        {
+          "name": "Flavinho",
+          "url": "https://open.spotify.com/artist/3H7Mab3ekd2nFkjy9n6co4"
+        }
+      ],
+      "duration_ms": 231796,
+      "name": "Reinflama",
+      "url": "https://open.spotify.com/track/60jwaZ07sq7shi91okXDQL"
     },
     {
       "added_at": "2023-04-15 18:26:10",

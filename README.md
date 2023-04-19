@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5945\)
+## Playlists \(5946\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -2004,7 +2004,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [HBO Rap Sh!t's Taste](/playlists/pretty/37i9dQZF1DWYzh3WlsCZMx.md)
 - [HEADPHONES](/playlists/pretty/6ZWbm0tcNxeVmHdssy03yN.md)
 - [HIPHOPPLAYA FESTIVAL 2023](/playlists/pretty/37i9dQZF1DWUAivYWxeKnI.md)
-- [HOT NOW \- d4vd](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
+- [HOT NOW \- Nicki Nicole, Rels B](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md)
 - [Haitian Heat](/playlists/pretty/37i9dQZF1DX3XjJqhm9fqD.md)
 - [Halftime Hits](/playlists/pretty/37i9dQZF1DWWNQEmXRHxVe.md)
 - [Halftime Official Playlist](/playlists/pretty/37i9dQZF1DWTHhW4hDVUUi.md)
@@ -5090,6 +5090,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [This Is: Victor Manuelle](/playlists/pretty/37i9dQZF1DX16jhUDf29DN.md)
 - [This Is: Xavier Omär](/playlists/pretty/37i9dQZF1DX7W9NinHzoYY.md)
 - [This is BAEKHYUN](/playlists/pretty/37i9dQZF1DX82z3m3RyeLu.md)
+- [This is Bluey](/playlists/pretty/37i9dQZF1DX5vto24MLB41.md)
 - [This is Bruce Springsteen](/playlists/pretty/37i9dQZF1DX9qkL85stcHs.md)
 - [This is Deep Purple](/playlists/pretty/37i9dQZF1DX5WtNRbfbuUo.md)
 - [This is Eric Nam](/playlists/pretty/37i9dQZF1DWSvP5HMve5xc.md)

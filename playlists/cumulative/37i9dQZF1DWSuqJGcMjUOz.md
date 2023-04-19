@@ -2,7 +2,7 @@
 
 ### [Francos de Montréal 2023](https://open.spotify.com/playlist/37i9dQZF1DWSuqJGcMjUOz)
 
-> La playlist officielle de l’édition 2023 des Francos de Montréal!
+> La liste de lecture officielle de l’édition 2023 des Francos de Montréal!
 
 214 songs - 12 hr 29 min
 

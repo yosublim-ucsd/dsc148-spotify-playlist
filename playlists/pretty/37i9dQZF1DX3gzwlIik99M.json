@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 211617,
+  "num_followers": 211657,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDg4MTZmMTg3ZDNiM2E0YjAyMTgxZjVlMDRjOTYwZmE2",
+  "snapshot_id": "MTYwMzUxMDczMSwwMDAwMDAwMDIyYjc5ZmM0YjVmZWI5ZDgzMThiZGMwY2QzZDg0NWIx",
   "tracks": [
     {
       "added_at": "2020-10-24 03:38:51",
@@ -383,22 +383,6 @@
     {
       "added_at": "2020-10-24 03:38:51",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/51y1nedHb7b4PTLzpbPCfm"
-      },
-      "artists": [
-        {
-          "name": "S7N",
-          "url": "https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/7fzCMARWJO6W7AlgT9UWrX"
-    },
-    {
-      "added_at": "2020-10-24 03:38:51",
-      "album": {
         "name": "Deceitful Idols",
         "url": "https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 331013,
       "name": "Deceitful Idols",
       "url": "https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz"
+    },
+    {
+      "added_at": "2020-10-24 03:38:51",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/51y1nedHb7b4PTLzpbPCfm"
+      },
+      "artists": [
+        {
+          "name": "S7N",
+          "url": "https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/7fzCMARWJO6W7AlgT9UWrX"
     },
     {
       "added_at": "2020-10-24 03:38:51",

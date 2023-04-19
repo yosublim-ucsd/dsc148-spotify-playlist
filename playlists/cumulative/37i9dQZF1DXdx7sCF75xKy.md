@@ -4,7 +4,7 @@
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: Marian Carmel
 
-687 songs - 1 day 15 hr 45 min
+688 songs - 1 day 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,7 +395,8 @@
 | [Peluang Kedua](https://open.spotify.com/track/4kQWZBveVzSV5FW6iTrX7N) | [Nabila Razali](https://open.spotify.com/artist/2yWleHZF4HaaNjmiU8snKO) | [Peluang Kedua](https://open.spotify.com/album/4d5Ocmqgdp4dtMV6s82jY3) | 4:00 | 2021-12-07 | 2022-01-05 |
 | [Penat](https://open.spotify.com/track/2dXsvQU66ZE90rf8zMTdnq) | [Daiyan Trisha](https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta) | [Penat](https://open.spotify.com/album/1ZP3YEK1wGAao0LeypJX9N) | 3:31 | 2022-06-01 | 2023-02-01 |
 | [Pencarianku](https://open.spotify.com/track/7MajjFbtZq2ZfELVQ4Op3x) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Pencarianku](https://open.spotify.com/album/423zHeEaXrsN5yMQK133ID) | 3:58 | 2022-04-05 | 2022-10-05 |
-| [Pencuri Hati Aidilfitri](https://open.spotify.com/track/0kgzxBnPcBtJa4mhN5rSaN) | [Ayda Jebat](https://open.spotify.com/artist/6Rn72M0IKflDApCt0UMhfR) | [Pencuri Hati Aidilfitri](https://open.spotify.com/album/7bN2rAMZTqdMBrXYNoip44) | 1:06 | 2023-04-04 |  |
+| [Pencuri Hati Aidilfitri](https://open.spotify.com/track/0kgzxBnPcBtJa4mhN5rSaN) | [Ayda Jebat](https://open.spotify.com/artist/6Rn72M0IKflDApCt0UMhfR) | [Pencuri Hati Aidilfitri](https://open.spotify.com/album/7bN2rAMZTqdMBrXYNoip44) | 1:06 | 2023-04-04 | 2023-04-19 |
+| [Pencuri Hati Aidilfitri](https://open.spotify.com/track/1f36oAZaxzFLesUr4erl3l) | [Ayda Jebat](https://open.spotify.com/artist/6Rn72M0IKflDApCt0UMhfR) | [Pencuri Hati Aidilfitri](https://open.spotify.com/album/0Z7Ulv7XqurrrTAzamkUWx) | 1:06 | 2023-04-04 |  |
 | [Perang Atau Cinta](https://open.spotify.com/track/5p94wK3LXXpfGArg5amHv9) | [Nikki Palikat](https://open.spotify.com/artist/6EdlX521xMCxqlD9vUeQKa) | [Maharani](https://open.spotify.com/album/3zh9pWIGJxPLUh5Thf2o89) | 3:19 | 2021-12-07 | 2022-01-05 |
 | [PEREMPUAN](https://open.spotify.com/track/4mNpO8m99gv1p8BgYCf1F3) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [PEREMPUAN](https://open.spotify.com/album/36RXsb86wBFDKuXzl9NcjP) | 4:00 | 2022-08-02 | 2022-12-01 |
 | [Permaisuri](https://open.spotify.com/track/4BxT13J5fQBYOEXPOrbagF) | [LOCA B](https://open.spotify.com/artist/63PZAg9EDmsVpftrqz1uih), [Nina Nadira](https://open.spotify.com/artist/3GBvIrLpmlRtvq0sjyZ4g4) | [Permaisuri](https://open.spotify.com/album/3gxQ4s8ainX93aZgy577jY) | 3:58 | 2023-01-03 | 2023-02-01 |

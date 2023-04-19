@@ -4110,6 +4110,28 @@
     {
       "album": {
         "name": "Better Days",
+        "url": "https://open.spotify.com/album/23YSW0QXPquiPL451HXCR1"
+      },
+      "artists": [
+        {
+          "name": "ellee ven",
+          "url": "https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x"
+        },
+        {
+          "name": "Prod\u00e9je",
+          "url": "https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207220,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/14OYOlqHpT1krZOhS9nVWp"
+    },
+    {
+      "album": {
+        "name": "Better Days",
         "url": "https://open.spotify.com/album/3qsTUk003MZlWQ6zrRI8pO"
       },
       "artists": [
@@ -27778,6 +27800,24 @@
       "duration_ms": 193328,
       "name": "PGT",
       "url": "https://open.spotify.com/track/2o2bLG5JqlwSCZNsx9BvOs"
+    },
+    {
+      "album": {
+        "name": "PHOENIX",
+        "url": "https://open.spotify.com/album/0LXiccMo5zmSnQexL3f2th"
+      },
+      "artists": [
+        {
+          "name": "MADNIK",
+          "url": "https://open.spotify.com/artist/6Z0ZpfsNLeVU7c88gBa62V"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163127,
+      "name": "PHOENIX",
+      "url": "https://open.spotify.com/track/6sGN6tqNCCAgXQ2YHH0SIJ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 309,
+  "num_followers": 338,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ5MDQ2NCwwMDAwMDAwMGYzOTkxYjA1YmQ0YWM1YmY2NGIxNTVjNjI3MDlhZThm",
+  "snapshot_id": "MTY4MTQ5MDQ2NCwwMDAwMDAwMDM4YjRkMWFmNTVlMTVmMGQ5MjkwZGQ3ODkxMTFiMDY0",
   "tracks": [
     {
       "added_at": "2023-04-14 16:41:04",
@@ -267,18 +267,22 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "Joyous Celebration 13: Live At The Mosaeik Theatre JHB",
-        "url": "https://open.spotify.com/album/5dfZbEUBENJSFgzb6krR1F"
+        "name": "The Assignment",
+        "url": "https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK"
       },
       "artists": [
         {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+          "name": "Joepraize",
+          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
+        },
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 281040,
-      "name": "My God Is Good - Live",
-      "url": "https://open.spotify.com/track/6cUiRdvcV8PxSRdkEIlKUS"
+      "duration_ms": 262321,
+      "name": "COME AND SEE",
+      "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -299,22 +303,18 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "The Assignment",
-        "url": "https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK"
+        "name": "Joyous Celebration 13: Live At The Mosaeik Theatre JHB",
+        "url": "https://open.spotify.com/album/5dfZbEUBENJSFgzb6krR1F"
       },
       "artists": [
         {
-          "name": "Joepraize",
-          "url": "https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s"
-        },
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
         }
       ],
-      "duration_ms": 262321,
-      "name": "COME AND SEE",
-      "url": "https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI"
+      "duration_ms": 281040,
+      "name": "My God Is Good - Live",
+      "url": "https://open.spotify.com/track/6cUiRdvcV8PxSRdkEIlKUS"
     },
     {
       "added_at": "2023-04-14 16:41:04",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
+        "name": "Xperience with Love",
+        "url": "https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi"
+      },
+      "artists": [
+        {
+          "name": "MOGmusic",
+          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
+        }
+      ],
+      "duration_ms": 586443,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL"
+    },
+    {
+      "added_at": "2023-04-14 16:41:04",
+      "album": {
         "name": "Omeriwo",
         "url": "https://open.spotify.com/album/76sBUYUu76JYwbMZ8K1dwP"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 218384,
       "name": "Omeriwo",
       "url": "https://open.spotify.com/track/65tGleT9TqETxPXyjLf6Es"
-    },
-    {
-      "added_at": "2023-04-14 16:41:04",
-      "album": {
-        "name": "Xperience with Love",
-        "url": "https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi"
-      },
-      "artists": [
-        {
-          "name": "MOGmusic",
-          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
-        }
-      ],
-      "duration_ms": 586443,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL"
     },
     {
       "added_at": "2023-04-14 16:41:04",

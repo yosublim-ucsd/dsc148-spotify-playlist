@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 893437,
+  "num_followers": 893819,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ1NjQwMCwwMDAwMDAwMDBkZTA4MjAyNTc4MDYxMTkzOGI1MDhhMjY2ZTg3MWY2",
+  "snapshot_id": "MTY3MzQ1NjQwMCwwMDAwMDAwMGI5OTUxMWZmYTFmNzFhNjQ5MWI2YTg4ZjYwZjYyYTA4",
   "tracks": [
     {
       "added_at": "2023-01-11 17:00:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-01-11 17:00:00",
       "album": {
-        "name": "Space (Orchestral Version)",
-        "url": "https://open.spotify.com/album/620D8EVhCCJFc0Qif0uHnd"
+        "name": "Into The Fire (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0k24UhmxDogFwBroGUDymg"
       },
       "artists": [
         {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
         }
       ],
-      "duration_ms": 245426,
-      "name": "Space - Acoustic Version",
-      "url": "https://open.spotify.com/track/63z4jrxNSqlNkYPzGzY3Od"
+      "duration_ms": 208760,
+      "name": "Into The Fire - Acoustic Version",
+      "url": "https://open.spotify.com/track/5XFrgSArUenTn9wbPXDmtA"
     }
   ],
   "unique_name": "Acoustic Rock",

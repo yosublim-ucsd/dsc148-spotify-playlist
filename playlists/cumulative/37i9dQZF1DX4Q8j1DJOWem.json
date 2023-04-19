@@ -731,6 +731,24 @@
     },
     {
       "album": {
+        "name": "\u0e0a\u0e2d\u0e1a\u0e2d\u0e22\u0e39\u0e48 \u0e23\u0e39\u0e49\u0e22\u0e31\u0e07 (FYI)",
+        "url": "https://open.spotify.com/album/5FrFp41GTSuc0q4m63bTPO"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "\u0e0a\u0e2d\u0e1a\u0e2d\u0e22\u0e39\u0e48 \u0e23\u0e39\u0e49\u0e22\u0e31\u0e07 (FYI)",
+      "url": "https://open.spotify.com/track/7tRUgI2s5RRJrUYsqCg4FN"
+    },
+    {
+      "album": {
         "name": "\u0e0b\u0e39\u0e25\u0e39\u0e1b\u0e32\u0e01\u0e49\u0e32 \u0e15\u0e32\u0e1b\u0e32\u0e40\u0e2e\u0e49",
         "url": "https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J"
       },
@@ -908,6 +926,24 @@
       "duration_ms": 200000,
       "name": "\u0e19\u0e31\u0e49\u0e19",
       "url": "https://open.spotify.com/track/5CiAE9nLZkkNkFnMAjUgeD"
+    },
+    {
+      "album": {
+        "name": "\u0e1a\u0e23\u0e23\u0e22\u0e32\u0e01\u0e32\u0e28",
+        "url": "https://open.spotify.com/album/5OtV6koP7TAOKa1x1uxUVT"
+      },
+      "artists": [
+        {
+          "name": "Only Monday",
+          "url": "https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275714,
+      "name": "\u0e1a\u0e23\u0e23\u0e22\u0e32\u0e01\u0e32\u0e28",
+      "url": "https://open.spotify.com/track/56n3cbPJeypX5NyqgsmpnZ"
     },
     {
       "album": {
@@ -1172,7 +1208,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 121799,
       "name": "\u0e25\u0e39\u0e01\u0e40\u0e17\u0e27\u0e14\u0e32",
       "url": "https://open.spotify.com/track/37hVWVtSjHJjSSuEmeXdet"
@@ -1320,7 +1356,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 209302,
       "name": "\u0e40\u0e17\u0e32\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e2d \u0e40\u0e18\u0e2d\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32",
       "url": "https://open.spotify.com/track/5rbRomil1aCyQGxT7RAnpu"

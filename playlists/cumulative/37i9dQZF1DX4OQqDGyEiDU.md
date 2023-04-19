@@ -4,7 +4,7 @@
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-482 songs - 1 day 3 hr 45 min
+483 songs - 1 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Mr.シャーデンフロイデ](https://open.spotify.com/track/1dxIMbG3CBsplAvrwQduOQ) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [Mr.シャーデンフロイデ](https://open.spotify.com/album/2dRacon7WbNwU5Ow94dOrG) | 4:06 | 2022-06-14 | 2022-07-17 |
 | [Nakakapagpabagabag](https://open.spotify.com/track/2wJ0w427Y3TPy4yQQ0igJF) | [Dasu](https://open.spotify.com/artist/6f4PGW1oaG5rWGgDqljLgZ), [Len Kagamine](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [NAKAKAPAGPABAGABAG](https://open.spotify.com/album/3eCABPADaXoUs8BqycIrIU) | 2:58 | 2022-07-19 | 2022-07-29 |
 | [NEXT NEST](https://open.spotify.com/track/4pMpj2VgkKVzMSC9dB46me) | [satuki ga tenkomori](https://open.spotify.com/artist/3sXACuwBSj6GE8XUbYff9J) | [NEXT NEST](https://open.spotify.com/album/3vycT4TPayRb7x3kxkYhB5) | 3:55 | 2022-06-09 | 2022-07-19 |
-| [Non\-breath oblige](https://open.spotify.com/track/0LsKplOVgboKBm5MpJsX0H) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [LOVE](https://open.spotify.com/album/0KxJlPf1XUcJ2KMzjYQ1EE) | 3:28 | 2023-01-03 |  |
+| [Non\-breath oblige](https://open.spotify.com/track/0LsKplOVgboKBm5MpJsX0H) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [LOVE](https://open.spotify.com/album/0KxJlPf1XUcJ2KMzjYQ1EE) | 3:28 | 2023-01-03 | 2023-04-19 |
 | [NORO](https://open.spotify.com/track/7y6cPbIzDIXXdufVVWndB6) | [¿?shimon](https://open.spotify.com/artist/6fZw1VnSLcEhz3hWPL0GMH) | [NORO](https://open.spotify.com/album/6im8p27m4yOZnh2I4uHa5L) | 2:18 | 2022-06-09 | 2022-06-29 |
 | [ochatime](https://open.spotify.com/track/5ytcavGxyxKy8lWujz3d47) | [23.exe](https://open.spotify.com/artist/6ChA8LcoGpOlKZhoOUbRZT) | [WALK](https://open.spotify.com/album/1foqkv0vDFjIxel0x8bYBM) | 3:53 | 2022-07-10 | 2022-07-12 |
 | [ODDS&ENDS \-初音ミク「マジカルミライ 2014」Live\-](https://open.spotify.com/track/2akD22OwmI6NiV4CKNh3tt) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX) | [初音ミク「マジカルミライ 2014」 \[Live\]](https://open.spotify.com/album/7HZ5f4jeJ8X7vJOuCTYReE) | 6:54 | 2022-06-09 | 2022-07-18 |
@@ -113,6 +113,7 @@
 | [Reincarnation Apple](https://open.spotify.com/track/1O8mA7lbLISvEGUiNFwQnV) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [Reincarnation Apple](https://open.spotify.com/album/5gqdC7ZnKbTJqypdYHr1Kt) | 3:39 | 2022-08-23 | 2022-11-25 |
 | [Rhythm](https://open.spotify.com/track/5fRV7LbEAWHhQip59ay9XS) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [リズム](https://open.spotify.com/album/3mU2xxar81peOVlFgaelzk) | 2:51 | 2022-06-14 | 2022-07-27 |
 | [Rollin’ Girl](https://open.spotify.com/track/5VJPBUVqxzLWmzzlJZy4r2) | [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT) | [Exit Tunes Presents Supernova](https://open.spotify.com/album/1iWiHH4pOLxDCDTN2AJ70X) | 3:14 | 2022-07-26 |  |
+| [Samsa](https://open.spotify.com/track/3Su7tjUw5QbSBD5S3QFrWP) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [Samsa](https://open.spotify.com/album/6JvDXCgjEVlPNA34NlT3oH) | 3:32 | 2023-04-18 |  |
 | [Sayonara Hatsukoi](https://open.spotify.com/track/6UxVkptDWjv9ZUl7UTyh9s) | [crafTUNER](https://open.spotify.com/artist/5Xrr9LNcLrp8ZcXg9ubPNd), [Luka Megurine](https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I) | [Azuressence](https://open.spotify.com/album/1AXpY7QNAb6VIHXPk2DzwG) | 3:23 | 2022-06-23 | 2022-07-18 |
 | [Sefirot](https://open.spotify.com/track/0GMcvgLd9ptlIkXefbeeUS) | [sekai](https://open.spotify.com/artist/7fnGQtfTGswQS3T0tMZ0xZ) | [Sefirot](https://open.spotify.com/album/4oLq3QWmapC0eymBzkGxop) | 2:56 | 2022-06-30 | 2022-07-16 |
 | [Shadow Shadow](https://open.spotify.com/track/3kKrLW9Fi7FdPi5oeLER7U) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Shadow Shadow](https://open.spotify.com/album/0czcM9b8vvv9vGIoftmnMq) | 2:21 | 2022-06-09 | 2023-01-13 |
@@ -327,7 +328,7 @@
 | [マシンガンポエムドール](https://open.spotify.com/track/6XshXpv0LPjtTJbKkeilBQ) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [マシンガンポエムドール](https://open.spotify.com/album/2XdBm2tkrw0q2T5J1F0kF9) | 2:20 | 2022-06-09 | 2022-07-23 |
 | [マスカレイド](https://open.spotify.com/track/581bIvNeiUFUF7LrsNBl8w) | [ニト。](https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE) | [マスカレイド](https://open.spotify.com/album/2z5k9OCA1HkGqerlzS4EgO) | 3:04 | 2022-06-14 | 2022-07-15 |
 | [マトリョシカ \- ORIGINAL](https://open.spotify.com/track/74A5fPLR86U9XWYostkXwS) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:18 | 2022-06-28 |  |
-| [マネキン](https://open.spotify.com/track/3BcWb0msot5CtVT8bSTSYJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [マネキン](https://open.spotify.com/album/2GpY4iShppsPlDxsTL2Apz) | 2:45 | 2023-03-21 |  |
+| [マネキン](https://open.spotify.com/track/3BcWb0msot5CtVT8bSTSYJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [マネキン](https://open.spotify.com/album/2GpY4iShppsPlDxsTL2Apz) | 2:45 | 2023-03-21 | 2023-04-19 |
 | [マフィア](https://open.spotify.com/track/1oFiR7h7tjI1hXIEDGsN8m) | [wotaku](https://open.spotify.com/artist/0685luDRQZRkN4JnhnRSKX) | [マフィア](https://open.spotify.com/album/7cDUnK6abvuyt1IMi7fMau) | 3:05 | 2022-06-09 | 2022-07-18 |
 | [マーシャル・マキシマイザー](https://open.spotify.com/track/00ydUpbxn87fyKSK5A6Du8) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [KAF+YOU KAFU COMPILATION ALBUM シンメトリー](https://open.spotify.com/album/7lskLrUOlkfbFpQBzQDPkv) | 2:43 | 2022-06-09 |  |
 | [マーメイド](https://open.spotify.com/track/4DfBPN7Zv23HGvZzBdSrMz) | [monaca:factory](https://open.spotify.com/artist/4kBIGrhwGKdxCORrjYlNqE) | [マーメイド](https://open.spotify.com/album/1Lb1Eha1PSH40d9h3Ji77Y) | 3:19 | 2022-06-30 | 2022-07-03 |
@@ -371,7 +372,7 @@
 | [不埒な喝采](https://open.spotify.com/track/1yALlDzyQ4MbzEtMosEJkk) | [音楽的同位体 可不\(KAFU\)](https://open.spotify.com/artist/4nZ9ZaF0eFDMDQKgrJgsqC) | [KAF+YOU KAFU COMPILATION ALBUM](https://open.spotify.com/album/6ljHb4t09MebY2WYuP8iQ1) | 2:24 | 2022-06-09 | 2022-07-23 |
 | [不完全愛情進行中](https://open.spotify.com/track/1kccUSvGvxEt7tccnrfV4y) | [Misumi](https://open.spotify.com/artist/79WesJjDmCUqObjbE0mNyA) | [不完全愛情進行中](https://open.spotify.com/album/1FIf5JBEDDWxaqwvtCiRAM) | 2:41 | 2022-10-27 | 2023-01-06 |
 | [不純なベンガラ](https://open.spotify.com/track/3xN6bAYDya63j0tuaTIXXJ) | [REISAI](https://open.spotify.com/artist/43y4C3MKdOnurkfODdJE2P) | [不純なベンガラ](https://open.spotify.com/album/43eiB8sDKy4v5spvmTTZdr) | 2:39 | 2022-06-30 | 2022-07-05 |
-| [乙女解剖](https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:43 | 2022-06-09 | 2023-03-22 |
+| [乙女解剖](https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:43 | 2022-06-09 |  |
 | [人が歌う曲じゃない](https://open.spotify.com/track/4dOWyhJA2QK2JHsTuEzPgz) | [SajEst](https://open.spotify.com/artist/4w5OjwRCUqwdyNT1wFGp03) | [人が歌う曲じゃない](https://open.spotify.com/album/1WCpiyvA0OxQQM9awKLLhS) | 3:37 | 2022-06-30 | 2022-07-13 |
 | [仮定した夏](https://open.spotify.com/track/3sZaa7Ia4pGRtDncfD3deL) | [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [幻影EP\-Envy Phantom\-](https://open.spotify.com/album/5fzbipqPBcovgsJTdZHs9K) | 3:06 | 2022-06-23 | 2022-07-19 |
 | [僕にはなにができるかな](https://open.spotify.com/track/0ndD4pjPPzvehbz91ZALYU) | [jijil](https://open.spotify.com/artist/6XPjgI4sxBVWt01zOZDQWg) | [僕にはなにができるかな](https://open.spotify.com/album/4dnj0B9INT5Zq1KHO2MAtB) | 3:36 | 2022-06-14 | 2022-06-18 |

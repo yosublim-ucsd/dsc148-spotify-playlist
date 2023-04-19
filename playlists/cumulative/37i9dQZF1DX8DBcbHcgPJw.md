@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: FMK, Big One & Ke Personajes.
 
-363 songs - 18 hr 9 min
+364 songs - 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [150](https://open.spotify.com/track/1ZXqp0VNLjSOp561q0ibGy) | [VI\-EM](https://open.spotify.com/artist/44hJXrVhoyA1fV1dn4wdHC) | [150](https://open.spotify.com/album/6WtIuVl31By54AycY3tUHa) | 2:41 | 2023-03-10 | 2023-04-04 |
 | [2 Pa' 2](https://open.spotify.com/track/1Vd3YqV8DYS1U3rsJads3H) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [2 Pa' 2](https://open.spotify.com/album/6Mp4YC9YfYpNzKSUgd7BQs) | 3:02 | 2021-12-23 | 2022-07-29 |
 | [30 de Abril](https://open.spotify.com/track/7ktzr4HmARUVlIrCtb80xP) | [Los Bonnitos](https://open.spotify.com/artist/7d1kmnhwauydKmuAvjgQrH) | [30 de Abril](https://open.spotify.com/album/53HVi4vaMEnhHsUuBNrg9F) | 3:02 | 2021-12-23 | 2022-07-08 |
+| [A Chillar a Otra Parte \- Remix](https://open.spotify.com/track/2pcK0a6052l3VE2qs9gTIy) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH), [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Santiago Cañete](https://open.spotify.com/artist/3t9iUHXTw9NmuEvmtUWEl2), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [A Chillar a Otra Parte \(Remix\)](https://open.spotify.com/album/06IlqAtT5PKCvrAAattY50) | 3:38 | 2023-04-18 |  |
 | [A un Milimetro de Ti](https://open.spotify.com/track/3qRPjSJ3hj4m26EpGeKLfs) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [A un Milimetro de Ti](https://open.spotify.com/album/3c5Wa5hlkWQAKWqsdoDOWm) | 2:08 | 2022-06-10 | 2022-06-18 |
 | [Abrazame](https://open.spotify.com/track/6nBjmgwILQDwSolxJgY5iB) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Abrazame](https://open.spotify.com/album/0miOPWdCY9vEcZLWtZiZFQ) | 2:52 | 2022-01-07 | 2022-07-07 |
 | [Acércate](https://open.spotify.com/track/34UY8RBOleI0Kr6UMaLHFr) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Acércate](https://open.spotify.com/album/10wylRcHYxGZGRRfx3QWqw) | 2:35 | 2022-01-03 | 2022-07-23 |
@@ -129,7 +130,7 @@
 | [Fui Yo](https://open.spotify.com/track/69LJPRbyI5jzsjDfWxxSzm) | [KEPÁ](https://open.spotify.com/artist/5a42D6pc8V0pLSEp5IVSLJ), [Mechaloca](https://open.spotify.com/artist/31sjDdCFcHCdcQItqzBVMn) | [Fui Yo](https://open.spotify.com/album/6vNisPvNXfQiqcQ8h6ukjP) | 2:17 | 2022-02-18 | 2022-06-05 |
 | [Fuiste un Amor de Verano \- Cumbia](https://open.spotify.com/track/1jh4rsUx5LuPiVQGzwF1g2) | [VI\-EM](https://open.spotify.com/artist/44hJXrVhoyA1fV1dn4wdHC) | [Fuiste un Amor de Verano \(Cumbia\)](https://open.spotify.com/album/3o0CmJnYZBDOvVHUjjnW35) | 3:16 | 2022-01-03 | 2022-07-15 |
 | [Get Lucky](https://open.spotify.com/track/14jzo7RhjlL9LmfzYDkMUU) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 2:56 | 2022-01-07 | 2023-01-06 |
-| [Gracias a Vos](https://open.spotify.com/track/7JrFcPtiHC0bB5F8LlHTIE) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Gracias a Vos](https://open.spotify.com/album/17JKI0xNdEeTDqJUKqNYUr) | 2:09 | 2022-08-26 |  |
+| [Gracias a Vos](https://open.spotify.com/track/7JrFcPtiHC0bB5F8LlHTIE) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Gracias a Vos](https://open.spotify.com/album/17JKI0xNdEeTDqJUKqNYUr) | 2:09 | 2022-08-26 | 2023-04-19 |
 | [Hasta la luna](https://open.spotify.com/track/1A3yLIqelu1D7MCtw06Cu7) | [\#TocoParaVos](https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES) | [\#Tocoparavos](https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D) | 2:29 | 2021-12-23 |  |
 | [Hawai](https://open.spotify.com/track/3VDUQW8SQ9L6DNjyNsUW71) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Hawai](https://open.spotify.com/album/6mjTIBHjNtyQWwBrwrC6Kw) | 3:12 | 2021-12-23 | 2023-01-21 |
 | [Hdp](https://open.spotify.com/track/5t7asDLp6jJXxLp6I2SBYl) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Hdp](https://open.spotify.com/album/65Nbvf1AHKsEerfNIWbgHp) | 3:05 | 2022-02-04 | 2022-07-14 |

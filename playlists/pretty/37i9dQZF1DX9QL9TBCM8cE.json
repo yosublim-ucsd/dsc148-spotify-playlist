@@ -1,12 +1,12 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 20830,
+  "num_followers": 20845,
   "original_name": "THE IDOLM@STER SHINY COLORS \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIwMTIwMCwwMDAwMDAwMGYyODJjZjc4N2Q2M2M1MzEzOWYzZTBkZDQ3OGIzMzQ2",
+  "snapshot_id": "MTY3ODIwMTIwMCwwMDAwMDAwMGU1Njk2OTg3NDI0YmE5YThhMGViZGU1NDIxYjA3NTYx",
   "tracks": [
     {
       "added_at": "2023-03-07 15:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-03-07 15:00:00",
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Stella-",
+        "url": "https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9"
+      },
+      "artists": [
+        {
+          "name": "\u82b9\u6ca2\u3042\u3055\u3072 (CV.\u7530\u4e2d\u6709\u7d00)",
+          "url": "https://open.spotify.com/artist/1WH3WJeWBh6MaSdrWmQWy4"
+        }
+      ],
+      "duration_ms": 266280,
+      "name": "\u661f\u3092\u3081\u3056\u3057\u3066",
+      "url": "https://open.spotify.com/track/7wsxyqYKYjVYsc1lSgE2X0"
+    },
+    {
+      "added_at": "2023-03-07 15:00:00",
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS Synthe-Side 03",
         "url": "https://open.spotify.com/album/5VWEYE7ttilS4rRwoDk6HS"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 228760,
       "name": "Secret utopIA",
       "url": "https://open.spotify.com/track/3TE8TVyNEPutMardTtgl62"
-    },
-    {
-      "added_at": "2023-03-07 15:00:00",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS -Stella-",
-        "url": "https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9"
-      },
-      "artists": [
-        {
-          "name": "\u82b9\u6ca2\u3042\u3055\u3072 (CV.\u7530\u4e2d\u6709\u7d00)",
-          "url": "https://open.spotify.com/artist/1WH3WJeWBh6MaSdrWmQWy4"
-        }
-      ],
-      "duration_ms": 266280,
-      "name": "\u661f\u3092\u3081\u3056\u3057\u3066",
-      "url": "https://open.spotify.com/track/7wsxyqYKYjVYsc1lSgE2X0"
     },
     {
       "added_at": "2023-03-07 15:00:00",

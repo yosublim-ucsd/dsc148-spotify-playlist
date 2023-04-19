@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-246 songs - 12 hr 27 min
+247 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Samurai](https://open.spotify.com/track/45hr1fXe8raIz3Q851CFa2) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO) | [Samurai](https://open.spotify.com/album/7zbwXAxBnAuoJfmZ7m4duL) | 3:20 | 2022-08-09 |  |
 | [Seasons](https://open.spotify.com/track/2pFL6kVGR4PIuPlL2AuAWk) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Seasons](https://open.spotify.com/album/4zPHSYkV9lKePkTUFRZrMC) | 4:08 | 2022-07-05 |  |
 | [Set Me Free](https://open.spotify.com/track/4iqmbx1CkLGEVozDwxii2w) | [Simbai](https://open.spotify.com/artist/3crJf5p7nUHziLEGTlikzg), [Frizzy The Streetz](https://open.spotify.com/artist/76D7ppv4U20gNYE6iUcYFJ) | [Set Me Free](https://open.spotify.com/album/4CiM00EnVv7QpHTkFaaKab) | 2:49 | 2022-06-23 |  |
+| [Set You Free](https://open.spotify.com/track/2MZJIe78uKE7B7cFC1LNbR) | [Siimi](https://open.spotify.com/artist/1MrdhnQwCwxH52IlEhB657) | [Set You Free](https://open.spotify.com/album/5j8yzZxVXnbVTMz5LzZA8N) | 3:14 | 2023-04-18 |  |
 | [Sharks](https://open.spotify.com/track/2BWAkwnvTjLAyQzQteVUXE) | [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [Sharks](https://open.spotify.com/album/4xN74bBcTEwFpPRHODfncV) | 3:10 | 2023-03-07 |  |
 | [Shiver](https://open.spotify.com/track/5ocjGQzG6yaXnJiZ9wn7dD) | [Sharks](https://open.spotify.com/artist/1C3aEfW34xkicZ5umNYdJM) | [Shiver](https://open.spotify.com/album/2JBjdQlvzhWQ3sbx7hE8rR) | 3:52 | 2022-12-15 |  |
 | [Signs](https://open.spotify.com/track/667tUojxiHmk94zqwGlqpH) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [SOXX](https://open.spotify.com/artist/59CIKqVd0hUE3gZx3pvubw), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Signs](https://open.spotify.com/album/3xdSLud2l9GQIeB0yqbIF8) | 2:50 | 2022-06-16 |  |

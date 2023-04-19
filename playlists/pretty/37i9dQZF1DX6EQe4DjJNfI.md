@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Amanda Magalhães, Dj Nyack
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,483 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,500 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 63 | [LIN9ERIE](https://open.spotify.com/track/31pFOOZmHH4eLlYFXmlkeN) | [N9NE](https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv) | [LIN9ERIE](https://open.spotify.com/album/1kdJQ3yi1SOy33FxWcObAx) | 3:03 |
 | 64 | [Respostas](https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW) | [Rudney Martins](https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL) | [Respostas](https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5) | 3:14 |
 | 65 | [incenso](https://open.spotify.com/track/1zJb71H6zt6EljSfpvI83f) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f) | [incenso](https://open.spotify.com/album/6v5HmpIOk6DhQj2D1B9A5D) | 2:23 |
-| 66 | [Sem Você \(Acústico no Studio F\)](https://open.spotify.com/track/3ShZp3yVmjUFEcNml4MSEt) | [Mariah Nala](https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC) | [Mariah Nala no Studio F \(Acústico\)](https://open.spotify.com/album/4nWfjD2QTrxHt8HOesIj67) | 2:28 |
-| 67 | [1001 Motivos](https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo) | [Jeff Black](https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs) | [1001 Motivos](https://open.spotify.com/album/5WBUhncmkdthBpkab2acDS) | 2:43 |
-| 68 | [Intenção](https://open.spotify.com/track/40rijjvXbyX6alCMtM2r3Z) | [Wallace Lopes](https://open.spotify.com/artist/3SCWQkVBlN3uvNQoXSHCAN), [Damiana Sadili](https://open.spotify.com/artist/3hbg9yKFggp4UmquEPpgd5) | [Intenção](https://open.spotify.com/album/3GtRC63GLxKHEq2o7j95A8) | 3:19 |
+| 66 | [1001 Motivos](https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo) | [Jeff Black](https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs) | [1001 Motivos](https://open.spotify.com/album/5WBUhncmkdthBpkab2acDS) | 2:43 |
+| 67 | [Intenção](https://open.spotify.com/track/40rijjvXbyX6alCMtM2r3Z) | [Wallace Lopes](https://open.spotify.com/artist/3SCWQkVBlN3uvNQoXSHCAN), [Damiana Sadili](https://open.spotify.com/artist/3hbg9yKFggp4UmquEPpgd5) | [Intenção](https://open.spotify.com/album/3GtRC63GLxKHEq2o7j95A8) | 3:19 |
+| 68 | [Sem Você \(Acústico no Studio F\)](https://open.spotify.com/track/3ShZp3yVmjUFEcNml4MSEt) | [Mariah Nala](https://open.spotify.com/artist/3R6G1zji15XrM717bIMqEC) | [Mariah Nala no Studio F \(Acústico\)](https://open.spotify.com/album/4nWfjD2QTrxHt8HOesIj67) | 2:28 |
 | 69 | [Nosso Futuro](https://open.spotify.com/track/3s4ao4kuMbya51WvYQzMn6) | [Isis Orbelli](https://open.spotify.com/artist/4rflqymMDgNe10ldH5lGCY) | [Nosso Futuro](https://open.spotify.com/album/7uqpzYwoY5m2x9lQJVkCvF) | 2:03 |
 | 70 | [Bem Longe](https://open.spotify.com/track/2vshespmRvtcximTIzQvB2) | [Thiene](https://open.spotify.com/artist/2Jh7MhQqgXwm1wagSuBoZS) | [Bem Longe](https://open.spotify.com/album/3B9sABomz6c9CwXBFXhW6a) | 3:09 |
 | 71 | [intuição](https://open.spotify.com/track/6US2Fx8OJoj0AViposgfwo) | [Luiza Nis](https://open.spotify.com/artist/21qRf5gB503sjxsJWyEeBD) | [intuição](https://open.spotify.com/album/2kZeL29Ega4qnw1XeXrlo9) | 3:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [Tanto Querer](https://open.spotify.com/track/4ctAt6FuCTZfXYsO8cReLj) | [ALLIRA](https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS), [Calena](https://open.spotify.com/artist/05b2pxULrPTg4M5LCUzlzc), [Cyclope Beatz](https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [Tanto Querer](https://open.spotify.com/album/4UbZ7isvuoDykLIN9Qb98C) | 3:16 |
 | 75 | [Mergulhei](https://open.spotify.com/track/58H4xYSRZ65vvmZPEAZ91H) | [Izy Castelano](https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq), [Juliah](https://open.spotify.com/artist/5v7IXNOHut7edaocM0XKSg), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB), [kLap](https://open.spotify.com/artist/51Qf68QZaIZsgS8C1XB5Ow), [Tapsounds](https://open.spotify.com/artist/2IOI9UdynLXCcb4whAiJsO) | [Mergulhei](https://open.spotify.com/album/4raO1hapwBztV4pxrNSzps) | 3:31 |
 
-Snapshot ID: `MTY4MTc0NDM2MiwwMDAwMDAwMDBkYmRiZmIyYjI1ZGM1YmE5ODg4ZjM4YjUzMjc4ZWMx`
+Snapshot ID: `MTY4MTc0NDM2MiwwMDAwMDAwMGVmNDE5MjYyNmM0YmEyNTM0NjU2NTM1MzI0NzIyNGQw`

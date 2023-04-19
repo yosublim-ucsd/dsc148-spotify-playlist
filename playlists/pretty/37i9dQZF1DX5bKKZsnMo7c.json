@@ -1,28 +1,28 @@
 {
   "description": "All eyes on you. Cover: Bo Burnham",
-  "num_followers": 307435,
+  "num_followers": 308549,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTc1OTE0MiwwMDAwMDAwMDQ1N2MwMzgyMzA3YmExNjJlZjcxMmEyNGYxMzM0Y2U2",
+  "snapshot_id": "MTY4MTg0MzYwOSwwMDAwMDAwMGRhODRiNWNjMWZhZmY1NDU3OTRkZWY5NmIwMzQxZTA2",
   "tracks": [
     {
-      "added_at": "2023-04-17 19:19:02",
+      "added_at": "2023-04-18 18:46:49",
       "album": {
-        "name": "THE INSIDE OUTTAKES",
-        "url": "https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H"
+        "name": "Ghost of Chicago",
+        "url": "https://open.spotify.com/album/72PNMowKsDq60TGmr8o8sU"
       },
       "artists": [
         {
-          "name": "Bo Burnham",
-          "url": "https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo"
+          "name": "Noah Floersch",
+          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
         }
       ],
-      "duration_ms": 146654,
-      "name": "1985",
-      "url": "https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS"
+      "duration_ms": 187100,
+      "name": "Ghost of Chicago",
+      "url": "https://open.spotify.com/track/4whpHwKr9rH2MTFzXk7mkW"
     },
     {
       "added_at": "2023-04-17 19:19:02",
@@ -71,6 +71,22 @@
       "duration_ms": 136733,
       "name": "Habits",
       "url": "https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz"
+    },
+    {
+      "added_at": "2023-04-17 19:19:02",
+      "album": {
+        "name": "THE INSIDE OUTTAKES",
+        "url": "https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H"
+      },
+      "artists": [
+        {
+          "name": "Bo Burnham",
+          "url": "https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo"
+        }
+      ],
+      "duration_ms": 146654,
+      "name": "1985",
+      "url": "https://open.spotify.com/track/2FdzIRCqzjhdxP5W99FSvS"
     },
     {
       "added_at": "2023-04-17 19:19:02",

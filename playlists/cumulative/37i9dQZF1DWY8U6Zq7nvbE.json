@@ -4730,6 +4730,24 @@
     {
       "album": {
         "name": "Lessons in Love - Acoustic",
+        "url": "https://open.spotify.com/album/7Brn5xksipm26z6uGJ7Dt2"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad Harnett",
+          "url": "https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208489,
+      "name": "Pulling Away (acoustic)",
+      "url": "https://open.spotify.com/track/2Vu3quMGnCUE9UKmtzxYjj"
+    },
+    {
+      "album": {
+        "name": "Lessons in Love - Acoustic",
         "url": "https://open.spotify.com/album/1lV062Z85zZ8Euv2UFjCJR"
       },
       "artists": [
@@ -4740,7 +4758,7 @@
       ],
       "date_added": "2021-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 208489,
       "name": "Pulling Away (acoustic)",
       "url": "https://open.spotify.com/track/5xif8DSxBw2sYROjNbXYVE"

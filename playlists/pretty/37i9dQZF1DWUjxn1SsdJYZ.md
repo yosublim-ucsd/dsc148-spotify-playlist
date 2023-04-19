@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: The 046
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,221 likes - 97 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,252 likes - 97 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4?si=7125ac0f4fdf4097">Cade Thompson</a>
 
-3,276 songs - 9 day 6 hr 25 min
+3,277 songs - 9 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1800,7 +1800,7 @@
 | [Make It Through](https://open.spotify.com/track/1QACLpTCUyBSBxjDK9NQYA) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Make It Through](https://open.spotify.com/album/23hx765YanrKMEPLdNDgHm) | 3:12 | 2023-02-17 | 2023-03-04 |
 | [Make Me Move](https://open.spotify.com/track/4o0ppdHfpxFmVFW5mB4TjL) | [Kerrie Roberts](https://open.spotify.com/artist/5kbsdneQXviYJrP7AU8WwS) | [Make Me Move](https://open.spotify.com/album/2zmLSuB1Sv1fN1gvPtMw17) | 3:43 | 2022-08-12 | 2022-08-27 |
 | [Make Room \(feat\. Cheyenne Mitchell\)](https://open.spotify.com/track/4syNxwzmWvHhZWPKdTNtJl) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX), [Cheyenne Mitchell](https://open.spotify.com/artist/7CnRxe7lbuLfyAv3MM7Zzs) | [Chapel Sessions](https://open.spotify.com/album/4UIWhAlS9PTGHpPeQohVKL) | 3:23 | 2022-09-09 | 2022-09-24 |
-| [Make Us Brave](https://open.spotify.com/track/1BpAgJjJoWai55w1rh9WdH) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW) | [Make Us Brave](https://open.spotify.com/album/0IfiPiWPoTDmiBGOnjvNom) | 4:18 | 2023-04-07 |  |
+| [Make Us Brave \- Live](https://open.spotify.com/track/1BpAgJjJoWai55w1rh9WdH) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Dave Kull](https://open.spotify.com/artist/1oYZ5B6SKUsakDOAjeA1wu) | [Make Us Brave](https://open.spotify.com/album/0IfiPiWPoTDmiBGOnjvNom) | 4:18 | 2023-04-07 |  |
 | [Making A Way \(feat\. Adia\)](https://open.spotify.com/track/4GUsJS1Y63xlv8w1C3Y4wq) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Adia](https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt) | [Making A Way \(feat\. Adia\)](https://open.spotify.com/album/4qx5I6vvqoQgssHapDeMEq) | 5:35 | 2023-02-24 | 2023-03-04 |
 | [Mamas \(with Hillary Scott\)](https://open.spotify.com/track/7xWPmwuOcvFcnFgS3mPRzA) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Hillary Scott](https://open.spotify.com/artist/4rFRV55H2i5ewtgU254dri) | [My Jesus](https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q) | 3:24 | 2022-04-22 | 2022-05-07 |
 | [Man Cub](https://open.spotify.com/track/2Ur9ct9qaMhkrrTuDE1aUl) | [Sansone](https://open.spotify.com/artist/3hAgyK1maarE5o2slH51jU), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [Man Cub](https://open.spotify.com/album/7L1riuqW9sCauZkbfLYsiz) | 2:42 | 2022-04-29 | 2022-05-14 |
@@ -2554,7 +2554,8 @@
 | [Son of Suffering](https://open.spotify.com/track/3mNVXuLY3MHMRc8CMKLGuu) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Son of Suffering](https://open.spotify.com/album/1oVEmVcK4UIQwYSGHAmFRk) | 7:35 | 2022-09-23 | 2022-10-08 |
 | [Song From Home \- Live](https://open.spotify.com/track/3bi5eUGZyVeVoDBBhU3kpV) | [Summit Worship](https://open.spotify.com/artist/0992pHNXQqEmeykvrDsiJR) | [Song From Home \(Live\)](https://open.spotify.com/album/2ghko899UlBkSk0HGoUeJH) | 4:52 | 2023-03-10 | 2023-03-18 |
 | [Song Of Deliverance](https://open.spotify.com/track/6Iz1NAegL28mJXR1R6VhrT) | [JPCC Worship Choir](https://open.spotify.com/artist/1t8a3CoXM0NgrVz4YS9SPq) | [Deliverance](https://open.spotify.com/album/3zhzE17vMjrPrr43TLc5Ta) | 6:06 | 2022-11-25 | 2023-01-06 |
-| [Song Of My Salvation \- Live](https://open.spotify.com/track/2bMGimLuvFdSQ2wTsBjJrI) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [All To Jesus \(Live\)](https://open.spotify.com/album/19UG5zBSrydGOTANXVUhPf) | 4:19 | 2023-04-14 |  |
+| [Song Of My Salvation \- Live](https://open.spotify.com/track/2bMGimLuvFdSQ2wTsBjJrI) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [All To Jesus \(Live\)](https://open.spotify.com/album/19UG5zBSrydGOTANXVUhPf) | 4:19 | 2023-04-14 | 2023-04-19 |
+| [Song Of My Salvation \- Live](https://open.spotify.com/track/2ymy4lR2jAhvlNyzdqqo1a) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [All To Jesus \(Live\)](https://open.spotify.com/album/6nnFeb5sm2y94TYPzM0iPl) | 4:19 | 2023-04-14 |  |
 | [Song of the Summer](https://open.spotify.com/track/3m1hA3gecbWfbEKXYD0V7U) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Song of the Summer](https://open.spotify.com/album/0hhZ9wE0NXs2h6VsH0A764) | 3:00 | 2022-07-15 | 2022-07-30 |
 | [Sonshine](https://open.spotify.com/track/6FR0kObtluy7PHJJbcdoPw) | [DJ Lostnfound](https://open.spotify.com/artist/2IW4rma5Xemtuo2hR2iNpA), [Stevie Rizo](https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL), [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7), [Emcee N.I.C.E.](https://open.spotify.com/artist/3rXjIyIuREQmEh7hurB52u) | [Sonshine](https://open.spotify.com/album/3EJRMNTTDvqMCLxaqWZRM0) | 3:24 | 2023-03-17 | 2023-04-01 |
 | [SOTE](https://open.spotify.com/track/3JzCHzBQQwoAdKY1FGMyLg) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY) | [SOTE](https://open.spotify.com/album/3w7wTyMMFxpeBpHx40K4Z9) | 2:38 | 2022-05-27 | 2022-06-04 |

@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 25957,
+  "num_followers": 25978,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMDRkNDI0MGQzYTYzYzFiYWQ4YTZjOTYyZWZlYTVmMmQ3",
+  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMDgzOThiZDRmMzAxOTVmZThjYmZkZmNkZDI1MjQwZDUx",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -587,38 +587,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Information",
-        "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
-      },
-      "artists": [
-        {
-          "name": "Galcher Lustwerk",
-          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
-        }
-      ],
-      "duration_ms": 246855,
-      "name": "Another Story",
-      "url": "https://open.spotify.com/track/0AW4hkKsAgn8pU7pGPnu9Y"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Laamore",
-        "url": "https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO"
-      },
-      "artists": [
-        {
-          "name": "Hidden Spheres",
-          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
-        }
-      ],
-      "duration_ms": 280895,
-      "name": "Laamore",
-      "url": "https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Sankofa Season",
         "url": "https://open.spotify.com/album/4GsqSUelegSf0jTJyloIqz"
       },
@@ -639,18 +607,34 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "The Jerusalem EP's",
-        "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
+        "name": "Laamore",
+        "url": "https://open.spotify.com/album/3qawW9LV2i8RHgBqmfXYHO"
       },
       "artists": [
         {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+          "name": "Hidden Spheres",
+          "url": "https://open.spotify.com/artist/2ffi5jpoJUZy24fTeNsFMa"
         }
       ],
-      "duration_ms": 407893,
-      "name": "Servants Jaz House",
-      "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
+      "duration_ms": 280895,
+      "name": "Laamore",
+      "url": "https://open.spotify.com/track/4uC2RrHmTfq96i55BTk1ML"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Information",
+        "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
+      },
+      "artists": [
+        {
+          "name": "Galcher Lustwerk",
+          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
+        }
+      ],
+      "duration_ms": 246855,
+      "name": "Another Story",
+      "url": "https://open.spotify.com/track/0AW4hkKsAgn8pU7pGPnu9Y"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -671,6 +655,22 @@
       "duration_ms": 376489,
       "name": "Straight Line - Neil Cowley Remix",
       "url": "https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "The Jerusalem EP's",
+        "url": "https://open.spotify.com/album/4C7ElGvtR8zpI19ixN8Y8G"
+      },
+      "artists": [
+        {
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+        }
+      ],
+      "duration_ms": 407893,
+      "name": "Servants Jaz House",
+      "url": "https://open.spotify.com/track/3fmlNzB27d8Y5GW9lum3aT"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -747,6 +747,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Information",
+        "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
+      },
+      "artists": [
+        {
+          "name": "Galcher Lustwerk",
+          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
+        }
+      ],
+      "duration_ms": 272893,
+      "name": "Been A Long Night",
+      "url": "https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Black Focus",
         "url": "https://open.spotify.com/album/1MioiNBndcGhsQOFk3l6fu"
       },
@@ -759,6 +775,22 @@
       "duration_ms": 508773,
       "name": "Strings of Light",
       "url": "https://open.spotify.com/track/5yPowIqdVPFaBvBmhoLE0Y"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Aletheia",
+        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        }
+      ],
+      "duration_ms": 346361,
+      "name": "Aletheia",
+      "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -787,22 +819,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Aletheia",
-        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        }
-      ],
-      "duration_ms": 346361,
-      "name": "Aletheia",
-      "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Theme from Selva",
         "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 205816,
       "name": "Theme from Selva",
       "url": "https://open.spotify.com/track/7oTPUMeartrRlIDGKpgIa3"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Information",
-        "url": "https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA"
-      },
-      "artists": [
-        {
-          "name": "Galcher Lustwerk",
-          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
-        }
-      ],
-      "duration_ms": 272893,
-      "name": "Been A Long Night",
-      "url": "https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I"
     },
     {
       "added_at": "2021-10-08 17:36:35",

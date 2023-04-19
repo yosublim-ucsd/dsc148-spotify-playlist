@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-151 songs - 12 hr 9 min
+152 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,13 +90,14 @@
 | [Labset Katifa](https://open.spotify.com/track/57V60lq7u17cQVU2IFj0zT) | [Okba Djomati](https://open.spotify.com/artist/2b2xFFEXTFqLRI7sdNpuln), [Cheba Yamina & Fares Chaoui](https://open.spotify.com/artist/1wK0uONYm86jWiHVFDIxuF) | [Labset Katifa](https://open.spotify.com/album/7coxul1zOPL2xIM0tBnShD) | 5:22 | 2022-09-20 | 2022-09-28 |
 | [Lgalb Lgalb](https://open.spotify.com/track/1oBFL6Oi6gfVqpe6ma1SoD) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Lgalb Lgalb](https://open.spotify.com/album/4WfhNfj7kIHN0Y34eMA5nt) | 5:53 | 2023-03-22 |  |
 | [Lokan jiti mra msagma](https://open.spotify.com/track/3bNYR1sMmvQ9X7qAb1o6zi) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Lokan jiti mra msagma](https://open.spotify.com/album/50IvpHMMhTH49ZuAQtOzvW) | 5:39 | 2022-09-20 |  |
+| [M'en Galbi Rani Netaleem Chir Labes Lacoste W L3alem](https://open.spotify.com/track/2AfEg8BrxxYWnTSkCO3WoP) | [Cheba Warda Charlomanté](https://open.spotify.com/artist/26vSgNM4fjX4RkmrI26qCZ), [Manini Sahar](https://open.spotify.com/artist/1YFMNFSAIaFxXUOb8tf78c) | [M'en Galbi Rani Netaleem Chir Labes Lacoste W L3alem](https://open.spotify.com/album/20U5bTrHMj4yJyEY90V7DJ) | 5:38 | 2023-04-18 |  |
 | [M3aya Makmltiche](https://open.spotify.com/track/6vWVRhoVbENz35zv318MYC) | [Bilal Sghir](https://open.spotify.com/artist/22XZtro8Hm67fM2XENt6Yg) | [M3aya Makmltiche](https://open.spotify.com/album/6bLoK8mk3yCBsjGgIR3AKI) | 5:09 | 2022-11-14 | 2022-11-21 |
 | [Ma 3yat Ma Twasi](https://open.spotify.com/track/70Zj9LvRzFwmovJUsWusdg) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Ma 3yat Ma Twasi](https://open.spotify.com/album/3S84fRH5SD40IKJzkMZChH) | 4:44 | 2022-09-20 |  |
 | [Ma Bella](https://open.spotify.com/track/45KQJy7KlhyXCPZzg3ACvW) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m) | [Ma Bella](https://open.spotify.com/album/5GutzL1w4cssmLszj2oFpX) | 4:21 | 2023-02-01 |  |
 | [Ma Khradjch Alik Tahdjal](https://open.spotify.com/track/7oVMXlkx5zpbOg6rTCK6bj) | [Bilal Sghir](https://open.spotify.com/artist/22XZtro8Hm67fM2XENt6Yg) | [Ma Khradjch Alik Tahdjal](https://open.spotify.com/album/06TGOankIkEjT8ofhGjf8A) | 3:54 | 2022-09-20 | 2022-12-27 |
 | [Ma Tzawjet Ma Walet](https://open.spotify.com/track/53srYeUEKA5rplVgSWhnRP) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Ma Tzawjet Ma Walet](https://open.spotify.com/album/3zCuPox0tptwvUu5ePP1HM) | 7:12 | 2021-10-19 | 2022-02-01 |
 | [Ma vie 2 fois](https://open.spotify.com/track/52XknVywsSWwVXwcxl6WAP) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [dellali](https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m) | 4:07 | 2021-10-19 |  |
-| [Ma3lich Ya 9albi](https://open.spotify.com/track/4aNE4thhqRIn9KrHpvHsWe) | [Cheb Adoula](https://open.spotify.com/artist/4r6TXvkBwX89bozdSjF8Ch), [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Ma3lich Ya 9albi](https://open.spotify.com/album/6acBhqAz0HbGkaN9CEKSWn) | 1:34 | 2022-09-20 |  |
+| [Ma3lich Ya 9albi](https://open.spotify.com/track/4aNE4thhqRIn9KrHpvHsWe) | [Cheb Adoula](https://open.spotify.com/artist/4r6TXvkBwX89bozdSjF8Ch), [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Ma3lich Ya 9albi](https://open.spotify.com/album/6acBhqAz0HbGkaN9CEKSWn) | 1:34 | 2022-09-20 | 2023-04-19 |
 | [Mab9at sohba fhad denya](https://open.spotify.com/track/7mxHntjn3YftbjvbKFMDnL) | [Compil Rai jdid](https://open.spotify.com/artist/1sS6MuSv7yhTelVVV74lPU), [Cheb Oussama](https://open.spotify.com/artist/5ecQtTfTp9QyyqyxXaNnCT) | [Mab9at sohba fhad denya](https://open.spotify.com/album/2wNtDNIKQx1oKGfeLYauAN) | 5:01 | 2022-01-11 | 2022-03-26 |
 | [Machafouhach](https://open.spotify.com/track/24jg1DbZgIwIBwascANUo0) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Machafouhach](https://open.spotify.com/album/2hyi1YaEv0A9LEA1HUEJ6S) | 4:54 | 2021-10-19 |  |
 | [Maghadnich Frakek](https://open.spotify.com/track/7a5Kz28C2Np1QF9EuN3Z4A) | [Cheb Kader Wahrani](https://open.spotify.com/artist/5PBWDpbEkgoyiDkh1biGLw), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Maghadnich Frakek](https://open.spotify.com/album/68MaO9IJHg6oC1w2tgl8IA) | 4:45 | 2022-10-30 | 2023-01-26 |

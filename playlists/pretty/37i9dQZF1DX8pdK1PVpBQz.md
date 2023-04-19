@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Hanbee\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,448 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,464 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fade Into The Background](https://open.spotify.com/track/7FNtYLKIyBo9vx8tEpQIsQ) | [WALTA](https://open.spotify.com/artist/1u5Zp5UwzGCydF4HunLqaJ) | [Fade Into The Background](https://open.spotify.com/album/1yWMBraB5nrqDbQrTNq6vw) | 3:03 |
 | 2 | [Select A Button](https://open.spotify.com/track/5oGBWVYJfKCQhX7EymW5FM) | [Oshua](https://open.spotify.com/artist/1S96G0JKFvzJXHd61DLUPV) | [Select A Button](https://open.spotify.com/album/0Xb8GAcUgatF9xAIMWbr5q) | 2:18 |
-| 3 | [Skit](https://open.spotify.com/track/0wkHyMOA3ich6amIw3rs8Y) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Skit](https://open.spotify.com/album/1dmvxkLnbRDI3F3T8LmCN8) | 3:38 |
+| 3 | [Skit](https://open.spotify.com/track/7peClIkcdZ744Srzrjah5b) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Skit](https://open.spotify.com/album/5N6ZyyaFBYdWMW52DbgJrR) | 3:38 |
 | 4 | [Getaway](https://open.spotify.com/track/6YBWt1avq5U0CfkgFCS21t) | [Squid the Kid](https://open.spotify.com/artist/4coyhVK9odGK0xhrCo9gx2), [Infuschia](https://open.spotify.com/artist/6F9VNmh2GE2WdC3K5BbHjW), [nesh](https://open.spotify.com/artist/6uaeR39xp2SWuqIKvBmpFL) | [Getaway](https://open.spotify.com/album/5REt74LUgCBDTGr5bXOdSf) | 2:46 |
 | 5 | [bedrooms](https://open.spotify.com/track/1BwdbkKjJbpl0Abl1pWmkW) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [bye my bed](https://open.spotify.com/album/3HZ3weZFMBLxZoiokjgSlv) | 3:16 |
 | 6 | [Luvsakilla](https://open.spotify.com/track/7iYWOoYPV5b6PWSsQq2hef) | [Abby Bella May](https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8) | [Luvsakilla](https://open.spotify.com/album/4u73I67hxu7Uet0HLmimtA) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Nail Art](https://open.spotify.com/track/2UyR8bqestm4JvcOp4OtPT) | [Aria Wood](https://open.spotify.com/artist/14ttCeIGTAIP1aU9ftwtlK) | [Nail Art](https://open.spotify.com/album/6sEEf3MmIftWCbTAep3uai) | 2:46 |
 | 100 | [Wasted Days](https://open.spotify.com/track/7u8h2CM94zY40tmqsLYhEc) | [Civic Video](https://open.spotify.com/artist/4LqvJqOgRVKAnZVI77gxaY) | [Wasted Days](https://open.spotify.com/album/53XijCiitrtEep8TizMON1) | 4:02 |
 
-Snapshot ID: `MTY4MTI4NzUyMiwwMDAwMDAwMDE4NmZiNjdiMDQyMzMxNjc4ODc2ZmE0NGNlNjU0MDUw`
+Snapshot ID: `MTY4MTI4NzUyMiwwMDAwMDAwMDQ2NjA2NzQ2OGM1MmI2NTgwMzUyZTlhNWQwODE1MDMy`

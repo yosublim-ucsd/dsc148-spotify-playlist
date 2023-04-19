@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Ayn\u0131 G\u00fcn\u00fc Soluyanlar",
+        "url": "https://open.spotify.com/album/7oLpf78pM5XXXCjAkfBomI"
+      },
+      "artists": [
+        {
+          "name": "Serbest Radikal",
+          "url": "https://open.spotify.com/artist/6WZfzPA83dHUpmQr1ecXhZ"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247124,
+      "name": "Ayn\u0131 G\u00fcn\u00fc Soluyanlar",
+      "url": "https://open.spotify.com/track/4tkHwDT2REfravd6ydroWt"
+    },
+    {
+      "album": {
         "name": "A\u00e7 G\u00f6z\u00fcn\u00fc",
         "url": "https://open.spotify.com/album/6qL7zzKyF09cszCJeLfCQp"
       },
@@ -812,7 +830,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 278000,
       "name": "Beyaz",
       "url": "https://open.spotify.com/track/3XDhxv60ycTgr1OLYcrMzV"
@@ -830,7 +848,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 219567,
       "name": "Bi Par\u00e7a",
       "url": "https://open.spotify.com/track/53WCyTd28bjpl0FEn17XmA"
@@ -932,6 +950,32 @@
       "duration_ms": 192794,
       "name": "Bi' Dinlesen",
       "url": "https://open.spotify.com/track/58qQ0CcU9r4hXp8QHCT04i"
+    },
+    {
+      "album": {
+        "name": "bi' r\u00fcyada",
+        "url": "https://open.spotify.com/album/1CfpU1Ev8bwWZTO6coGN4Y"
+      },
+      "artists": [
+        {
+          "name": "RMDN",
+          "url": "https://open.spotify.com/artist/2LZcZtzGIDIO41YAFMQK7i"
+        },
+        {
+          "name": "s\u0131laze",
+          "url": "https://open.spotify.com/artist/7Me9ru8LsfQQ0spSXY2hKG"
+        },
+        {
+          "name": "Yu\u015fa K\u00fcrkc\u00fc",
+          "url": "https://open.spotify.com/artist/69rrO4uBkRRa1gQH0p1OmB"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "bi' r\u00fcyada",
+      "url": "https://open.spotify.com/track/2HWGO9nZBuvElbo4QoCumn"
     },
     {
       "album": {
@@ -1163,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "Canavarlar",
+        "url": "https://open.spotify.com/album/3FCYnOFwHJx8HKKKiTlvLk"
+      },
+      "artists": [
+        {
+          "name": "Kontropop",
+          "url": "https://open.spotify.com/artist/5MrHnQlt0WDTE0mwc48Luh"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248252,
+      "name": "Canavarlar",
+      "url": "https://open.spotify.com/track/2q16tmb6f8Hihpe7eU1Jl8"
+    },
+    {
+      "album": {
         "name": "Cennet",
         "url": "https://open.spotify.com/album/5xTxMR98DKr0xAcHqEeVeu"
       },
@@ -1282,7 +1344,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 133812,
       "name": "Dediler - Live",
       "url": "https://open.spotify.com/track/6uSy6VBCA9S0QwrDoav05g"
@@ -4517,6 +4579,24 @@
     },
     {
       "album": {
+        "name": "RUHUN SU\u00c7LU",
+        "url": "https://open.spotify.com/album/5yD749GZGYI62ZpjeJiJyp"
+      },
+      "artists": [
+        {
+          "name": "CANAVAR",
+          "url": "https://open.spotify.com/artist/6sTUE7pUQrStCR4RSppauf"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266493,
+      "name": "RUHUN SU\u00c7LU",
+      "url": "https://open.spotify.com/track/5FMfhVjapTW6O6SaemqzCE"
+    },
+    {
+      "album": {
         "name": "Rutin Hayatlar",
         "url": "https://open.spotify.com/album/2DPbvhyxZynCfM3C50EDII"
       },
@@ -5692,7 +5772,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 138571,
       "name": "vur beni",
       "url": "https://open.spotify.com/track/0HvBm3T5vX9XnHVju6wrD9"
@@ -6500,10 +6580,28 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 189753,
       "name": "\u00c7ilehane",
       "url": "https://open.spotify.com/track/2dxALETfKISmxQaLeZe8Mc"
+    },
+    {
+      "album": {
+        "name": "\u00c7ok Anlams\u0131z",
+        "url": "https://open.spotify.com/album/5rlUyw8fGM2pyHtyaal7jk"
+      },
+      "artists": [
+        {
+          "name": "Ta\u015f Ka\u011f\u0131t Makas",
+          "url": "https://open.spotify.com/artist/3XmqOy6FTEkvvm0fDz11Oe"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "\u00c7ok Anlams\u0131z",
+      "url": "https://open.spotify.com/track/3Bz93QnhOw06YkllvUokHE"
     },
     {
       "album": {

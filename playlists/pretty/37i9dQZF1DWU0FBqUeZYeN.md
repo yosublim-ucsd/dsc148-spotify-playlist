@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,858 likes - 131 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,019 likes - 131 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 102 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 |
 | 103 | [Final Solution](https://open.spotify.com/track/1qWYoeFX94VUG398y2eTDX) | [Pere Ubu](https://open.spotify.com/artist/3V4FPipSnuYjtHnnAw9cZd) | [The Shape of Things](https://open.spotify.com/album/3nNkWuLky62WON0Pnc8fu9) | 6:41 |
 | 104 | [One Way Spit](https://open.spotify.com/track/2zfS1N80qSv0ft1gXKzZhh) | [Debris'](https://open.spotify.com/artist/3kxrBSK5EAOGz1sFjcR7t8) | [Static Disposal](https://open.spotify.com/album/4yw3ATQE9VGGP7AYoGQtBn) | 2:50 |
-| 105 | [\(I'm\) Stranded](https://open.spotify.com/track/38t6SxbsBRgTGtdSZTtusX) | [The Saints](https://open.spotify.com/artist/6OWPd5ByKaNSFAZ3TCe5AO) | [\(I'm\) Stranded](https://open.spotify.com/album/70Blia4zXTBhuExWQjX2DA) | 3:30 |
+| 105 | [I'm Stranded](https://open.spotify.com/track/6pXcyjABZyf6LKzL4wsj9k) | [The Saints](https://open.spotify.com/artist/6OWPd5ByKaNSFAZ3TCe5AO) | [\(I'm\) Stranded](https://open.spotify.com/album/10hYjKl40Yu64cV3313uhU) | 3:32 |
 | 106 | [Teenage Depression](https://open.spotify.com/track/0VV498qECyqHWwb23RDuhz) | [Eddie & The Hot Rods](https://open.spotify.com/artist/70e4IgnWAQfPPxKnD9jXDr) | [The End Of The Beginning \- \(The Best Of Eddie & The Hot Rods\)](https://open.spotify.com/album/2J8onP9yFveWx7Mn7EwBfC) | 2:55 |
 | 107 | [Roadrunner \(Once\)](https://open.spotify.com/track/63HEBa4dQwNFCjNYpykbXE) | [Jonathan Richman & The Modern Lovers](https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy) | [Jonathan Richman & The Modern Lovers \(Expanded Version\)](https://open.spotify.com/album/5vWDsBdGpZRDdpw1tDwagy) | 4:44 |
 | 108 | [It Always Happens That Way](https://open.spotify.com/track/4fCMCtKSyRR28liwEjyXjE) | [The Shadows Of Knight](https://open.spotify.com/artist/0NRN3tnDVDspHMCfyu2ZwT) | [Gloria](https://open.spotify.com/album/6wXrXe2x2ADL77uOTc74Ai) | 1:55 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 130 | [She's About a Mover](https://open.spotify.com/track/6ZYvCY3zyajhHunwbDrCtx) | [Sir Douglas Quintet](https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW) | [Walking the Streets](https://open.spotify.com/album/17MHW0ENg57rfMGXYtNkvV) | 2:25 |
 | 131 | [I Can't Control Myself \(Rerecorded\)](https://open.spotify.com/track/2ISCW0bzi9Zsv6eKCqXVZq) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [This Is the Troggs \(Rerecorded\)](https://open.spotify.com/album/2Co201A4jYUYrDtrmReNJD) | 3:06 |
 
-Snapshot ID: `MTU3ODM5MTgxNSwwMDAwMDAwMDRlOGQyMmJhMjcyNmMzYWQxYzQzMmUxOTYyZDM0ODI5`
+Snapshot ID: `MTU3ODM5MTgxNSwwMDAwMDAwMGZmYjA4YWE0MzcyODE2NzJlZDE0MWY0MWY5YWJhZGU4`

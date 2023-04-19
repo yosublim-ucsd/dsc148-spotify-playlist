@@ -593,21 +593,13 @@
     },
     {
       "album": {
-        "name": "Ai calica",
+        "name": "Ai Calica",
         "url": "https://open.spotify.com/album/2GwJhgSrxhdleGeLMQ7Cb2"
       },
       "artists": [
         {
           "name": "Boca",
           "url": "https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
           "name": "Kiaz",
@@ -618,6 +610,14 @@
           "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
         },
         {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
           "name": "AJ Wav",
           "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
         }
@@ -626,7 +626,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 210000,
-      "name": "Ai calica",
+      "name": "Ai Calica",
       "url": "https://open.spotify.com/track/0XoZIz7YdOXRyvVTk9U1B5"
     },
     {

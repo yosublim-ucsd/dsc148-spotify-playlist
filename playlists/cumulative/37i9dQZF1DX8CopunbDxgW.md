@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Yaeji
 
-771 songs - 2 day 2 hr 40 min
+772 songs - 2 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Butterfly Wings \- Franc Moody Remix](https://open.spotify.com/track/5iOOpXSpuKOcvrVMi28AIr) | [FELIVAND](https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Butterfly Wings \(Franc Moody Remix\)](https://open.spotify.com/album/6Oo3cX5rOtUITuwQbjz4Wz) | 3:32 | 2022-04-29 | 2022-07-29 |
 | [California, Pt\. I](https://open.spotify.com/track/7jZdaKyarANolzHVosOglg) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [California, Pt\. I](https://open.spotify.com/album/4P5aUcVlhnTvEdp81HYQUc) | 3:05 | 2021-07-23 | 2022-07-29 |
 | [Call On Me \(with Tove Lo\)](https://open.spotify.com/track/6jpOvC9iucgAnJm7vwyXm6) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Call On Me \(with Tove Lo\)](https://open.spotify.com/album/4f2spuorkr4IOoI5AXCzLi) | 3:16 | 2022-10-14 |  |
-| [Calling Out](https://open.spotify.com/track/2dpE7B7usqDVM9By5hnHJW) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Calling Out](https://open.spotify.com/album/3xjBSN9UBdB5E1x7CBXUbg) | 4:41 | 2023-02-24 |  |
+| [Calling Out](https://open.spotify.com/track/2dpE7B7usqDVM9By5hnHJW) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Calling Out](https://open.spotify.com/album/3xjBSN9UBdB5E1x7CBXUbg) | 4:41 | 2023-02-24 | 2023-04-19 |
 | [Cameo](https://open.spotify.com/track/5FazJBNgurMEDrVaUqqliH) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Reborn](https://open.spotify.com/album/2Js9F9O6V6mDZTal95Iner) | 4:19 | 2022-03-25 | 2023-02-10 |
 | [Can't Believe](https://open.spotify.com/track/4DxI01RKuKGPas1SuSmDi7) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Can't Believe \(Original Mix\)](https://open.spotify.com/album/34Ml8acAOMcafM6xLrip7u) | 4:27 | 2022-01-28 | 2022-04-15 |
 | [Can't Do Without \(My Baby\)](https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Can't Do Without \(My Baby\)](https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X) | 3:22 | 2022-02-11 |  |
@@ -589,6 +589,7 @@
 | [See You Again](https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:22 | 2021-11-26 | 2022-08-13 |
 | [Seeing Stars \(feat\. Frost Children\)](https://open.spotify.com/track/4B4Sekpstoom4VdqDLatY1) | [Neggy Gemmy](https://open.spotify.com/artist/3SU7pCbOPCUMboKnxMvHVW), [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Seeing Stars \(feat\. Frost Children\)](https://open.spotify.com/album/1jlCRGJvA9e5VTrOnOKThG) | 3:32 | 2023-03-17 | 2023-03-25 |
 | [Seems Like The Feeling](https://open.spotify.com/track/6trDIo0btFbM3FwObpYlaa) | [James Juke](https://open.spotify.com/artist/6gbPKiUthmk2t7K57AS3mf) | [Seems Like The Feeling](https://open.spotify.com/album/0VW7GS5bSBy6j6AYI9uEPg) | 2:33 | 2023-02-24 | 2023-03-25 |
+| [Selfish Soul \- ODESZA Remix](https://open.spotify.com/track/6N5thJ3UQMpHdf2fYOB3XL) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Selfish Soul \(ODESZA Remix\)](https://open.spotify.com/album/4aJcCRF4B3Tjefsu0aZKu2) | 3:26 | 2023-04-18 |  |
 | [Sensitive Child \- Soulwax Remix](https://open.spotify.com/track/0fER4siVB8s68N3JkFAI4O) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Sensitive Child \(Soulwax Remix\)](https://open.spotify.com/album/1j93UmCt06HQ9XCVqAitcA) | 5:46 | 2022-12-02 | 2023-02-03 |
 | [Serotonin Moonbeams](https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Serotonin Moonbeams](https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO) | 4:49 | 2023-02-24 |  |
 | [Señorita](https://open.spotify.com/track/0mjDJiWmZ548y9EUnogCP1) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KicK iii](https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ) | 2:21 | 2021-12-03 | 2022-01-08 |

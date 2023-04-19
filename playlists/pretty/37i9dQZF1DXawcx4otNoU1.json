@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 479889,
+  "num_followers": 480189,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1Nzg4OSwwMDAwMDAwMDUyZWI5OTQxNWY5NzYzMDNjY2MyOGM0NjZjZTJhNzJj",
+  "snapshot_id": "MTY4MTQ1Nzg4OSwwMDAwMDAwMGJjZDI0ZjA2N2ZiYTIyNTE5YzQxOTlhMzg2ZGU2OTNk",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "These Streets",
-        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 220413,
-      "name": "Last Request",
-      "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "In The Lonely Hour",
         "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 253208,
       "name": "Lay Me Down",
       "url": "https://open.spotify.com/track/74sb4Gib0cL3TQeCjYF8vh"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "These Streets",
+        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "Last Request",
+      "url": "https://open.spotify.com/track/6xM8oBy40nK1rOd8WmoOPx"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -977,22 +977,6 @@
       "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
     },
     {
-      "added_at": "2023-03-17 11:15:09",
-      "album": {
-        "name": "GLU",
-        "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
-      },
-      "artists": [
-        {
-          "name": "Usher",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 262711,
-      "name": "GLU",
-      "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
-    },
-    {
       "added_at": "2023-04-14 07:38:09",
       "album": {
         "name": "3000\u00b0",
@@ -1011,6 +995,22 @@
       "duration_ms": 202755,
       "name": "I'm Baby (ft. Jvck James)",
       "url": "https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI"
+    },
+    {
+      "added_at": "2023-03-17 11:15:09",
+      "album": {
+        "name": "GLU",
+        "url": "https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "duration_ms": 262711,
+      "name": "GLU",
+      "url": "https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1381,22 +1381,6 @@
       "url": "https://open.spotify.com/track/0IF7bHzCXCZoKNog5vBC4g"
     },
     {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "One Call Away (Acoustic + Remixes)",
-        "url": "https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "One Call Away - Acoustic",
-      "url": "https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u"
-    },
-    {
       "added_at": "2023-03-06 12:13:00",
       "album": {
         "name": "Peak (Fed Up)",
@@ -1411,6 +1395,22 @@
       "duration_ms": 188242,
       "name": "Peak (Fed Up)",
       "url": "https://open.spotify.com/track/3KcDfeZ1UAMtun8TuvG1kT"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "One Call Away (Acoustic + Remixes)",
+        "url": "https://open.spotify.com/album/5UMl7dsO7ZoMyH7rKUc53q"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 189052,
+      "name": "One Call Away - Acoustic",
+      "url": "https://open.spotify.com/track/5DtTZfXWnMPzgSsl3GGN8u"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Air: Aquarius' Songs",
+        "url": "https://open.spotify.com/album/4Md8YZmHgLlflGYj9HF5Bk"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 270486,
+      "name": "Ghost in the Wind",
+      "url": "https://open.spotify.com/track/7yyKgVdqUPMAZGIV02Ppip"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Super",
         "url": "https://open.spotify.com/album/1hmpZwKow6UgeZalIw7qq6"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 181812,
       "name": "Super",
       "url": "https://open.spotify.com/track/0uy7gpsoHJvXBU7EI1c80W"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Air: Aquarius' Songs",
-        "url": "https://open.spotify.com/album/4Md8YZmHgLlflGYj9HF5Bk"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 270486,
-      "name": "Ghost in the Wind",
-      "url": "https://open.spotify.com/track/7yyKgVdqUPMAZGIV02Ppip"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "NIGHT FLIGHT",
-        "url": "https://open.spotify.com/album/2CfUVZdfwVHZNzf5WF3BID"
-      },
-      "artists": [
-        {
-          "name": "NIGHT FLIGHT",
-          "url": "https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE"
-        }
-      ],
-      "duration_ms": 229120,
-      "name": "Parade",
-      "url": "https://open.spotify.com/track/1PAH34xJkjVKe51fS0Rv53"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Rebekah - EP",
         "url": "https://open.spotify.com/album/3No7OQimFOoY0koAyPnqfH"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 179783,
       "name": "Change Your Mind - Stripped",
       "url": "https://open.spotify.com/track/7Iv4hZIAi4np1d8VBwoNqA"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "NIGHT FLIGHT",
+        "url": "https://open.spotify.com/album/2CfUVZdfwVHZNzf5WF3BID"
+      },
+      "artists": [
+        {
+          "name": "NIGHT FLIGHT",
+          "url": "https://open.spotify.com/artist/2nMtboATQpmDWebmKRsqpE"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "Parade",
+      "url": "https://open.spotify.com/track/1PAH34xJkjVKe51fS0Rv53"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2495,22 +2495,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Amari' SZN 1",
-        "url": "https://open.spotify.com/album/7xHdTbAn5n1xFyW6afp5m4"
-      },
-      "artists": [
-        {
-          "name": "Amari Noelle",
-          "url": "https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7"
-        }
-      ],
-      "duration_ms": 182248,
-      "name": "Motion",
-      "url": "https://open.spotify.com/track/2S9z9vVqHYMHSDaekOIdtB"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Baby Teeth",
         "url": "https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht"
       },
@@ -2523,6 +2507,22 @@
       "duration_ms": 211826,
       "name": "Joshua",
       "url": "https://open.spotify.com/track/6bgoagsYAQaPn8vTP5uaJ1"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Amari' SZN 1",
+        "url": "https://open.spotify.com/album/7xHdTbAn5n1xFyW6afp5m4"
+      },
+      "artists": [
+        {
+          "name": "Amari Noelle",
+          "url": "https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7"
+        }
+      ],
+      "duration_ms": 182248,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/2S9z9vVqHYMHSDaekOIdtB"
     }
   ],
   "unique_name": "Spooning",

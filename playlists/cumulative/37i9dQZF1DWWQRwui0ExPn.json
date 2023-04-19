@@ -10524,7 +10524,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 189000,
       "name": "Bleeding Heart",
       "url": "https://open.spotify.com/track/0eO4dCEWLEr9aGYJdqqmtx"
@@ -14154,7 +14154,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 137187,
       "name": "b\u0103ng chuy\u1ec1n",
       "url": "https://open.spotify.com/track/7pOER4lDtIjMxeVImNK2P6"
@@ -52057,6 +52057,24 @@
     },
     {
       "album": {
+        "name": "lettura",
+        "url": "https://open.spotify.com/album/2JFh5yrr081ECYmKXgxoyZ"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93658,
+      "name": "lettura",
+      "url": "https://open.spotify.com/track/5yaiadgm5S0vBTVqY8TyEU"
+    },
+    {
+      "album": {
         "name": "Let\u00b4s Do The Dishes",
         "url": "https://open.spotify.com/album/3cQ0VC1acTZkfAxgvtcDdd"
       },
@@ -55114,7 +55132,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 148800,
       "name": "Lover",
       "url": "https://open.spotify.com/track/3e5VJP92F4cPRbOCEqibFd"

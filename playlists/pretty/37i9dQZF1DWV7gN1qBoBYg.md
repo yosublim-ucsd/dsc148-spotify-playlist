@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7gN1qBoBYg.md) - [plain]
 
 > Welcome to RADAR: A space for storytelling going beyond the music featuring Sam Ezeh, LOVA, Mina Okabe, Augustine & IVAN$ITO from the Nordics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,197 likes - 56 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,201 likes - 56 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

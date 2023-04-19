@@ -1888,10 +1888,32 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 256346,
       "name": "Cadbury Penne",
       "url": "https://open.spotify.com/track/5FJbyQDsrfmk3Sm66bCOG0"
+    },
+    {
+      "album": {
+        "name": "Cadbury Penne (From \"Vaazhu Vaazha Vidu\") - Single",
+        "url": "https://open.spotify.com/album/56YtdJhziYWp6xUtj59D10"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Karthik Mano",
+          "url": "https://open.spotify.com/artist/3gJfjBCXbPbWi4Hy40vG4r"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256346,
+      "name": "Cadbury Penne (From \"Vaazhu Vaazha Vidu\")",
+      "url": "https://open.spotify.com/track/5QNoKuttriMfG983YSPaYT"
     },
     {
       "album": {
@@ -4886,7 +4908,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 197052,
       "name": "Kandom Sodhanthiram (From \"August 16 1947\")",
       "url": "https://open.spotify.com/track/0h4jse3qrZ2RJm2ntCKgMg"
@@ -13198,10 +13220,6 @@
         {
           "name": "Sam C.S.",
           "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
-        },
-        {
-          "name": "Vairamuthu",
-          "url": "https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm"
         },
         {
           "name": "Shreya Ghoshal",

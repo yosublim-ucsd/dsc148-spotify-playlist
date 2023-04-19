@@ -4,7 +4,7 @@
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-293 songs - 21 hr 19 min
+294 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Elisian/Inutil Paisagem](https://open.spotify.com/track/4JN9FKnuFmAjFFpDrqqpNX) | [Michel Benita](https://open.spotify.com/artist/6xgxdQWIYTveGaqFINS9iR), [Matthieu Michel](https://open.spotify.com/artist/41FrZElPoQw0plv2d3UL2r), [Jozef Dumoulin](https://open.spotify.com/artist/4d3Ice9t3aFOAMk2VJCOwd), [Philippe Garcia](https://open.spotify.com/artist/6PmHbKUXAKXNubgs1MnNbg) | [Elisian/Inutil Paisagem](https://open.spotify.com/album/1dpIg2OrRWIwk19jYiIDqs) | 4:56 | 2021-12-17 | 2023-01-29 |
 | [Equilibrio](https://open.spotify.com/track/561vqucx8o1kmktdzuScCJ) | [Les trois copines](https://open.spotify.com/artist/7gk8knpaj4PjEEGHZ7UTYx) | [Equilibrio](https://open.spotify.com/album/4IJ2s5qJmU3XBSvxOWOPSF) | 2:31 | 2022-12-01 |  |
 | [Fading Lights](https://open.spotify.com/track/2LNFgWaMkPq59nJEVf2PEP) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Fading Lights](https://open.spotify.com/album/4uocVuFhlnWiWkMAgRh5Qi) | 3:46 | 2022-11-17 |  |
+| [Falling For Love](https://open.spotify.com/track/2qWNjbqDTXBGRdcmZDcUXg) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [New York City Dreamin'](https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U) | 4:13 | 2023-04-14 |  |
 | [Fear Not, Zechariah](https://open.spotify.com/track/7F2LDxjeZkyyJCog1Fwvx0) | [Tomas Raae](https://open.spotify.com/artist/07GteR8pffuqiZEl7D6sxL) | [His Name Is John](https://open.spotify.com/album/3UdnxBLoBqAiaZSqtVv0gN) | 9:07 | 2022-06-29 | 2022-11-27 |
 | [Fear Not, Zechariah](https://open.spotify.com/track/2KXJiwIG1GO9tWrcbtmUbK) | [Tomas Raae](https://open.spotify.com/artist/07GteR8pffuqiZEl7D6sxL), [Emil Goldschmidt](https://open.spotify.com/artist/3y0zcOZw5SlIfKKVVOUZnI), [Carolyn Goodwin](https://open.spotify.com/artist/2QvI4tY5g3f9udmc0Iw2oO) | [Fear Not, Zechariah](https://open.spotify.com/album/64vGhTLHLsKKhSEx8tfwlL) | 9:07 | 2021-12-17 | 2022-07-29 |
 | [February Brings The Rain](https://open.spotify.com/track/5u795XTEp5nJdQOfGJyi1i) | [Fulton Street Players](https://open.spotify.com/artist/3ZOpJEdIEoBxNv0MWG5FB0) | [February Brings The Rain](https://open.spotify.com/album/3HuZSjtGmUndStly4pKiLv) | 3:41 | 2023-02-02 |  |
@@ -223,7 +224,7 @@
 | [Sometimes We Do](https://open.spotify.com/track/4iWhQq5tD1XZVRhhpFdIS4) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Sometimes We Do](https://open.spotify.com/album/7cr2yeKvQHEpvvTPcl29zs) | 3:24 | 2023-02-14 |  |
 | [Song Dust](https://open.spotify.com/track/6xyDGPD0MeceKsXQ0OcZ8y) | [Karl Strømme](https://open.spotify.com/artist/5jw4NHPslG7CRCah8PbK7F) | [Song Dust](https://open.spotify.com/album/3gjZxipq6EELnrScGPc750) | 5:33 | 2022-02-03 | 2023-01-22 |
 | [Song Of Yearning](https://open.spotify.com/track/3d6mWMlHf9hxeolUHh35WR) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Changing Places](https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g) | 8:16 | 2021-12-17 | 2022-11-19 |
-| [Sonne](https://open.spotify.com/track/77rbW6F9WjICIjf518rzhA) | [Vincent Meissner](https://open.spotify.com/artist/7ox1pso1ax4HtLO22VU0YL), [Josef Zeimetz](https://open.spotify.com/artist/1hAUxw9mJUSkRpJuEDrsca), [Henri Reichmann](https://open.spotify.com/artist/6jrUiDeiXgBgUFPjvOQSi7) | [Wille](https://open.spotify.com/album/31NhLTsgSc8U0vWuIv6hFK) | 4:54 | 2023-03-16 |  |
+| [Sonne](https://open.spotify.com/track/77rbW6F9WjICIjf518rzhA) | [Vincent Meissner](https://open.spotify.com/artist/7ox1pso1ax4HtLO22VU0YL), [Josef Zeimetz](https://open.spotify.com/artist/1hAUxw9mJUSkRpJuEDrsca), [Henri Reichmann](https://open.spotify.com/artist/6jrUiDeiXgBgUFPjvOQSi7) | [Wille](https://open.spotify.com/album/31NhLTsgSc8U0vWuIv6hFK) | 4:54 | 2023-03-16 | 2023-04-19 |
 | [Sora](https://open.spotify.com/track/5uJ3moeNy2VtiI2elT6Lf6) | [Masako Ohta](https://open.spotify.com/artist/2pgRPx86AAtD7tiLhDxipZ), [Matthias Lindermayr](https://open.spotify.com/artist/5bfKMWNpRfMCx9TOMYYUyz) | [Sora](https://open.spotify.com/album/33lnTreKJcXGwUwsKAhmxY) | 3:45 | 2022-09-14 | 2022-11-10 |
 | [Sound Flower](https://open.spotify.com/track/6ihL2LDx69EHKQQgtWRvLd) | [Jakob Bro](https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Uma Elmo](https://open.spotify.com/album/2YxlIAhEn3nFJUYaI5R8ts) | 5:55 | 2022-05-26 | 2022-10-08 |
 | [Space Wales](https://open.spotify.com/track/75xI0ZJzkULqWgDlSMOxmG) | [Petter Rylén](https://open.spotify.com/artist/6NEDpDwNHfds11P15WZu7c) | [Space Wales](https://open.spotify.com/album/4DhBbkOPIrXBILOiz9irUB) | 4:24 | 2021-12-17 | 2022-09-09 |

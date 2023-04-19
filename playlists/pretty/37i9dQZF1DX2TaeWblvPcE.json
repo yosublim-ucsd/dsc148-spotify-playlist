@@ -1,12 +1,12 @@
 {
   "description": "Concentrate comfortably with sweet k-pop accompaniments without lyrics. (\uac00\uc0ac \uc5c6\ub294 \uac10\ubbf8\ub85c\uc6b4 \uac00\uc694 \ubc18\uc8fc\uace1\ub4e4\uacfc \ud3b8\uc548\ud558\uac8c \uc9d1\uc911\ud558\uc138\uc694.)",
-  "num_followers": 6359,
+  "num_followers": 6357,
   "original_name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzM5NjQ1MywwMDAwMDAwMDY0NjYyNDRmZmVmOTdhMjBiYTg5YWRhODhiZmI2NDBm",
+  "snapshot_id": "MTY2NzM5NjQ1MywwMDAwMDAwMDI2OTM3MTNiZTlmY2E0NzU0OTBkODBjMzZkNTA2ZDhk",
   "tracks": [
     {
       "added_at": "2022-11-02 13:40:53",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "TALE OF THE NINE TAILED (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/7yHvBfT4IADI9iNN2DGsLQ"
-      },
-      "artists": [
-        {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
-        }
-      ],
-      "duration_ms": 262720,
-      "name": "Moonchild Ballad - Instrumental",
-      "url": "https://open.spotify.com/track/0huNakYFuJW9ovnvdv6nOY"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "The World of the Married, Pt. 6 (Original Television SoundTrack)",
         "url": "https://open.spotify.com/album/3giN7KiHhfRJb2L8LGToHu"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 241040,
       "name": "The Days We Loved - Instrumental",
       "url": "https://open.spotify.com/track/3Yo3Y7z6waKjc6WrpnSPse"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "TALE OF THE NINE TAILED (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/7yHvBfT4IADI9iNN2DGsLQ"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "duration_ms": 262720,
+      "name": "Moonchild Ballad - Instrumental",
+      "url": "https://open.spotify.com/track/0huNakYFuJW9ovnvdv6nOY"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -451,18 +451,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "DINNER MATE (Original Television Soundtrack, Pt. 4)",
-        "url": "https://open.spotify.com/album/7aF3Y9ZTC67P0ISGQeK7JF"
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/7vVkg2DjA247mg2XdEC49T"
       },
       "artists": [
         {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
         }
       ],
-      "duration_ms": 195789,
-      "name": "More Than Words - Instrumental",
-      "url": "https://open.spotify.com/track/78QbLG6ybYftybcqJxniL6"
+      "duration_ms": 207999,
+      "name": "I Just Want To Stay With You - Instrumental",
+      "url": "https://open.spotify.com/track/75af0KkwnezifuJqpQKV8x"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -483,18 +483,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/7vVkg2DjA247mg2XdEC49T"
+        "name": "DINNER MATE (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/7aF3Y9ZTC67P0ISGQeK7JF"
       },
       "artists": [
         {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
         }
       ],
-      "duration_ms": 207999,
-      "name": "I Just Want To Stay With You - Instrumental",
-      "url": "https://open.spotify.com/track/75af0KkwnezifuJqpQKV8x"
+      "duration_ms": 195789,
+      "name": "More Than Words - Instrumental",
+      "url": "https://open.spotify.com/track/78QbLG6ybYftybcqJxniL6"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "The Beauty Inside Pt. 6 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "Goodbye - Instrumental",
-      "url": "https://open.spotify.com/track/2tbYVzWr0YUqFC8AHcbxRx"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.6",
         "url": "https://open.spotify.com/album/7ubRAfqNie3ohAPDwc0tW8"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 266213,
       "name": "Little by little - instrumental",
       "url": "https://open.spotify.com/track/7pLjdigQtmG3Jv0tVc4izP"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "The Beauty Inside Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6w3jg4xGMI5LLr5DEL3zWY"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "Goodbye - Instrumental",
+      "url": "https://open.spotify.com/track/2tbYVzWr0YUqFC8AHcbxRx"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 2",
-        "url": "https://open.spotify.com/album/1t1ECb8EMdEaEPJD8Y0F6O"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "My Eyes - Instrumental",
-      "url": "https://open.spotify.com/track/1Gw0uRu4pDLBJMMVPXrrUb"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Romance is a Bonus Book OST Part.4",
         "url": "https://open.spotify.com/album/0aoTj4YT25IFtiEiyIqrNU"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 227936,
       "name": "I pray (Inst.) (Instrumental)",
       "url": "https://open.spotify.com/track/7yVMUQIeFHjHoEhkZ03Qud"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/1t1ECb8EMdEaEPJD8Y0F6O"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "My Eyes - Instrumental",
+      "url": "https://open.spotify.com/track/1Gw0uRu4pDLBJMMVPXrrUb"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Prison Playbook (Original Television Soundtrack), Pt. 5",
-        "url": "https://open.spotify.com/album/1rpqtEF714fQm37SHwmDIr"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 224366,
-      "name": "Would Be Better - Instrumental",
-      "url": "https://open.spotify.com/track/2rOXWx58B0Lr200p6dbcB9"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Mystic Pop-up Bar, Pt. 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6gozIYILLFdshbzhBedFw7"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 224720,
       "name": "When We Were Together - Instrumental",
       "url": "https://open.spotify.com/track/1ojqMGAzJlzIZ2h8mfVpth"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Prison Playbook (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/1rpqtEF714fQm37SHwmDIr"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 224366,
+      "name": "Would Be Better - Instrumental",
+      "url": "https://open.spotify.com/track/2rOXWx58B0Lr200p6dbcB9"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Off The Record",
-        "url": "https://open.spotify.com/album/4ugwx793BHJrbvkoLMZ0Ks"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "Bad - Instrumental",
-      "url": "https://open.spotify.com/track/55XAUeBmZDTvABug4VjdrC"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Kkondae Intern OST Part 4",
         "url": "https://open.spotify.com/album/4r45yiczwTEjnU6BGHYte6"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 265146,
       "name": "Shine Bright (Inst.)",
       "url": "https://open.spotify.com/track/2zZf9BeSIY4NL1snAg0BkT"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Off The Record",
+        "url": "https://open.spotify.com/album/4ugwx793BHJrbvkoLMZ0Ks"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Bad - Instrumental",
+      "url": "https://open.spotify.com/track/55XAUeBmZDTvABug4VjdrC"
     },
     {
       "added_at": "2022-11-02 13:40:53",

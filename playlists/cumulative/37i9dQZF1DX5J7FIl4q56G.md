@@ -4,7 +4,7 @@
 
 > This week's best new metal tracks\. Cover: Atreyu
 
-3,215 songs - 9 day 2 hr 5 min
+3,216 songs - 9 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2809,7 +2809,8 @@
 | [The Stranger](https://open.spotify.com/track/0At0fCO34xDTtzY97KNRTR) | [Diablo](https://open.spotify.com/artist/52krZkLn1qitIAHIeoji07) | [The Stranger](https://open.spotify.com/album/1ljVNlDuA4642SnEB6xNME) | 3:52 | 2022-01-28 | 2022-02-18 |
 | [The Summoning](https://open.spotify.com/track/761tGJAC4E2weJMJtNnl2B) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [The Summoning](https://open.spotify.com/album/1JEBAsb3H4rmmMtVJW7sEC) | 6:35 | 2023-01-06 | 2023-01-14 |
 | [The Sun Still In Me](https://open.spotify.com/track/1DSZ88T235UOUaPpeYPioH) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [The Sun Still In Me](https://open.spotify.com/album/7gAhddndjiNC2XI0Hit7Av) | 4:24 | 2023-03-10 | 2023-03-18 |
-| [The Surgeon](https://open.spotify.com/track/0ERKfqutINLHO7bxjDNVAK) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [The Surgeon](https://open.spotify.com/album/1DbPIWAYWX3WvyzBOMHn8V) | 5:33 | 2023-01-27 |  |
+| [The Surgeon](https://open.spotify.com/track/0ERKfqutINLHO7bxjDNVAK) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [The Surgeon](https://open.spotify.com/album/1DbPIWAYWX3WvyzBOMHn8V) | 5:33 | 2023-01-27 | 2023-04-19 |
+| [The Surgeon](https://open.spotify.com/track/4eQGDy5Mu2CNnzPZKO6pYh) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [Scorched](https://open.spotify.com/album/2JSQcvezbKguh7AVhvwLwu) | 5:33 | 2023-04-14 |  |
 | [The Swarm](https://open.spotify.com/track/6Y9XIkzMsNC8LLqPSgPuMe) | [HOSTAGE](https://open.spotify.com/artist/653fYxU9prUXhYQFhIrTtD) | [The Swarm](https://open.spotify.com/album/1sHBz3xYZsimJjof7842aN) | 3:06 | 2022-08-26 | 2022-09-03 |
 | [The Sweet Abyss](https://open.spotify.com/track/58bkJBSouJt9mMdZkYj4ND) | [Dream Widow](https://open.spotify.com/artist/3gmJYDVdrlGWWD5uVCUQOe) | [Dream Widow](https://open.spotify.com/album/2FfewmvnA0wctMD64KjOxP) | 4:19 | 2022-03-24 | 2022-04-08 |
 | [The System is Racist and Oppressive](https://open.spotify.com/track/2AVqfyI8gN1KhfNntPg16C) | [Antagonist A.D](https://open.spotify.com/artist/3UCb4Noeh4jIzAGYD9YphK) | [Through Fire All Things Are Renewed](https://open.spotify.com/album/0Ceu09A7mlrt6RSBQt8h7G) | 2:59 | 2022-06-06 | 2022-06-10 |

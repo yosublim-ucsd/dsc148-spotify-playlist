@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Justend\. Artwork by Isu Kim\. Updates every Wednesday.
 
-3,660 songs - 8 day 8 hr 45 min
+3,661 songs - 8 day 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2894,7 +2894,8 @@
 | [SKC.](https://open.spotify.com/track/38yVzUZZPc4zq99YI2dspn) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [KOTO?](https://open.spotify.com/artist/1N7v8ztld41DN69kQvp0We) | [SKC.](https://open.spotify.com/album/0YPsF6EkdKRhuudmkfcR1o) | 4:07 | 2022-08-24 | 2022-09-01 |
 | [Ski Goggles](https://open.spotify.com/track/5zvIkkzyThJniF4xoJhkAJ) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu) | [Ski Goggles](https://open.spotify.com/album/5euW1q7o3akFcGbk3XPU8V) | 2:47 | 2022-07-27 | 2022-08-04 |
 | [Skip Scarlet](https://open.spotify.com/track/3I20V9ZtM6dKyR64hVOWIR) | [Vale\-Smith](https://open.spotify.com/artist/4FYz0h7BBwsnav5Ptdtvj0) | [Um Yo](https://open.spotify.com/album/6Bc6TM6Pc2lrDI2vj5AF0z) | 3:50 | 2023-03-15 | 2023-03-23 |
-| [Skit](https://open.spotify.com/track/0wkHyMOA3ich6amIw3rs8Y) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Skit](https://open.spotify.com/album/1dmvxkLnbRDI3F3T8LmCN8) | 3:38 | 2023-04-12 |  |
+| [Skit](https://open.spotify.com/track/0wkHyMOA3ich6amIw3rs8Y) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Skit](https://open.spotify.com/album/1dmvxkLnbRDI3F3T8LmCN8) | 3:38 | 2023-04-12 | 2023-04-19 |
+| [Skit](https://open.spotify.com/track/7peClIkcdZ744Srzrjah5b) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Skit](https://open.spotify.com/album/5N6ZyyaFBYdWMW52DbgJrR) | 3:38 | 2023-04-12 |  |
 | [Skylands](https://open.spotify.com/track/2BIE2xv3AFNrMubxEtike4) | [Beatrix Weapons](https://open.spotify.com/artist/5j66CcLPA7zzUhfGm8Ifhn) | [Skylands](https://open.spotify.com/album/3grMnyzNydV5L6RXhoEO5p) | 2:54 | 2023-03-01 | 2023-03-09 |
 | [Skylines](https://open.spotify.com/track/1Gn36QzwA9REefc71GPyhu) | [Sorley](https://open.spotify.com/artist/3apneou0OdagGBkXZxmpaj), [GOUX](https://open.spotify.com/artist/1YANF2Clk0VpRNG3HPu5B1) | [Skylines](https://open.spotify.com/album/1EDQu0R5ZhELYi03iwIfe1) | 3:40 | 2022-02-16 | 2022-02-24 |
 | [Skyloft](https://open.spotify.com/track/2tSE8WWj3IjYRIvjmrPAAJ) | [Nue](https://open.spotify.com/artist/5GAWUCmn1C9DsGaabbJUoO) | [Skyloft](https://open.spotify.com/album/7gFzcPiUzCUjTQW44zrRHw) | 2:11 | 2023-04-05 | 2023-04-13 |

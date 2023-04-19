@@ -4,7 +4,7 @@
 
 > musica per quando non sai insomma come
 
-290 songs - 13 hr 37 min
+291 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Say It Right \- Sped Up Remix](https://open.spotify.com/track/3iWOZkQNDekZQqkiJqqeGy) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Say It Right \(Sped Up Remix\)](https://open.spotify.com/album/5Bsu0xoGyVm5sGRxHYH52F) | 3:14 | 2022-05-06 | 2022-07-29 |
 | [Scary Garry](https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Scary Garry](https://open.spotify.com/album/04QDTmdKMoDHqqFaHEoDVP) | 1:39 | 2022-05-06 | 2022-11-09 |
 | [SCOPAMIGO \- Hello Mimmi, Troyamaki, Aegeminus Remix](https://open.spotify.com/track/3GT5oIDNZ6ilSIo3CYps3l) | [Pop X](https://open.spotify.com/artist/4ABwY5eHGrrwcv13gdDe55), [Aegeminus](https://open.spotify.com/artist/2UJLlfZSc3wzkT5PVG8zRN), [Hello Mimmi](https://open.spotify.com/artist/3IifAvWIrEkwQlXr5e97w7), [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG) | [ENTER SANDWICH REMIX](https://open.spotify.com/album/2mPs6bW2veRe52nr7SPPUq) | 2:56 | 2022-05-13 | 2022-07-22 |
+| [sdp interlude](https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 3:11 | 2023-04-07 |  |
 | [Se loro](https://open.spotify.com/track/7iVSc4hYh8pdeYYTdfA6ti) | [Komatsu San](https://open.spotify.com/artist/2sBYIBND4uDW4CQ90ubLqw), [Le Sei](https://open.spotify.com/artist/6lCh0WAozR1HhxRSXntdk5) | [Se loro](https://open.spotify.com/album/7tCTyqzF7LZnzjPW8MMHxd) | 4:04 | 2022-05-06 | 2022-07-17 |
 | [SEMBRA UN RAVE :3](https://open.spotify.com/track/4agU4AR83ZUnk8706pPjMn) | [NXFEIT](https://open.spotify.com/artist/1gU9mTuXPAIAHzudmIXU8k), [Hen848](https://open.spotify.com/artist/7t908TEGKS05D7xMAsyzqo) | [SEMBRA UN RAVE :3](https://open.spotify.com/album/3xmPEvOPi8qithqGucq1p3) | 2:05 | 2022-06-24 | 2022-07-23 |
 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 | 2022-05-06 | 2022-10-13 |
@@ -266,7 +267,7 @@
 | [Tell Em](https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Tell Em](https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ) | 3:00 | 2022-05-06 |  |
 | [Tigini \(Remix\)](https://open.spotify.com/track/6stWVqWxtPPednHy1mzoOz) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Kikimoteleba](https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo) | [Tigini \(Remix\)](https://open.spotify.com/album/0Gb4d09a4fJ9Kndgu8OHKe) | 2:55 | 2022-05-31 | 2022-10-19 |
 | [Todo Va A Cambiar](https://open.spotify.com/track/6HpkUsBtHe3qd8QO0s9XZj) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Karma C](https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh) | [Todo Va A Cambiar](https://open.spotify.com/album/4ppb3HXvxraldZiawREjAg) | 2:27 | 2022-05-06 | 2022-05-26 |
-| [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-05-06 |  |
+| [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-05-06 | 2023-04-19 |
 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 | 2022-05-12 | 2022-05-27 |
 | [TOO EASY](https://open.spotify.com/track/1Q2UkGQukIQeUnG93LD3WM) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3), [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Friman](https://open.spotify.com/artist/1fiZijV9uuS7ZZmxnAbjEQ) | [TOO EASY](https://open.spotify.com/album/0b78aAZFHgjxwXgKGDey1f) | 3:21 | 2022-05-06 | 2022-05-24 |
 | [Toto et Ninetta](https://open.spotify.com/track/4DMSNaJcSirQN31BSf2BeZ) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Inspi d'ailleurs](https://open.spotify.com/album/4YuyQlJ6qQ3yBJgkj4RmvA) | 3:31 | 2022-05-06 | 2022-05-13 |

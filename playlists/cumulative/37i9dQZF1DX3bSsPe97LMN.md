@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Los Aptos & DannyLux en portada.
 
-281 songs - 14 hr 40 min
+282 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Bien Motivados](https://open.spotify.com/track/6DezO5fZUZV6GRj7xV5k0k) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [Bien Motivados](https://open.spotify.com/album/01dP66RlK5xFUhyApHSoWd) | 2:52 | 2022-07-08 | 2022-10-08 |
 | [Billete Grande \(En Vivo\)](https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Billete Grande \(En Vivo\)](https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip) | 2:43 | 2022-08-05 | 2022-10-15 |
 | [Blanca Navidad](https://open.spotify.com/track/5hNHkrt2vJaABjgAHOdyQG) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Blanca Navidad](https://open.spotify.com/album/02ymAzYTxrM3CpxFRN3hSE) | 3:16 | 2022-11-18 | 2022-12-24 |
-| [Bloqueado](https://open.spotify.com/track/31u0xddM70KxFebPyLawpR) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj) | [Bloqueado](https://open.spotify.com/album/6CClgwR7m644jsRJoF69Xb) | 3:01 | 2022-10-07 |  |
+| [Bloqueado](https://open.spotify.com/track/31u0xddM70KxFebPyLawpR) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj) | [Bloqueado](https://open.spotify.com/album/6CClgwR7m644jsRJoF69Xb) | 3:01 | 2022-10-07 | 2023-04-19 |
 | [Brillo Colorado](https://open.spotify.com/track/6gWVeuBFrWSUuS1dI6agtB) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [Brillo Colorado](https://open.spotify.com/album/1rmT4fEiYtcqcwsAKFB3CD) | 3:56 | 2022-05-13 | 2022-08-06 |
 | [Bélico y Cholo](https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Bélico y Cholo](https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2) | 3:22 | 2023-01-27 |  |
 | [Cabron Yo Puedo](https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx) | [Grupo Origen](https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7) | [Cabron Yo Puedo](https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x) | 3:15 | 2022-12-23 |  |
@@ -121,6 +121,7 @@
 | [Ese Fui Yo](https://open.spotify.com/track/5PK6gIPq56QfTF9DIhWEgR) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Ese Fui Yo](https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom) | 2:42 | 2023-02-24 |  |
 | [Estamos Aquí](https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Estamos Aquí](https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu) | 3:02 | 2022-04-29 | 2022-08-06 |
 | [Este Sentimiento](https://open.spotify.com/track/1SOuYXL4ylTwVxitbvQcP6) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Este Sentimiento](https://open.spotify.com/album/0Z89gmH5tuqDWkhjVcZNvc) | 3:16 | 2023-01-13 |  |
+| [Estos Días](https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO) | [Drupys](https://open.spotify.com/artist/51v2O1Wdjz5ESexCePinre) | [Estos Días](https://open.spotify.com/album/28oQLDvOUhSoyyTZSkpwdh) | 3:24 | 2023-04-14 |  |
 | [Ex de Verdad](https://open.spotify.com/track/3L6vgwfaslyqnHEj7z9rJh) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Ex de Verdad](https://open.spotify.com/album/4RfhNQzq6flBALUl03H8Dt) | 2:46 | 2023-01-27 | 2023-02-25 |
 | [Extraño Tus Besos](https://open.spotify.com/track/2BQFbx1kFowixEtPqByScI) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Extraño Tus Besos](https://open.spotify.com/album/6QltojEXZ33ZQ3l1hIg4pl) | 3:47 | 2023-02-24 | 2023-04-15 |
 | [Extraño Tus Besos](https://open.spotify.com/track/7AG9PxwpxXdBKZB2eOP3LL) | [Dazoner](https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B), [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [Extraño Tus Besos](https://open.spotify.com/album/267OlLOrxycHYEOHliK4E8) | 3:47 | 2022-10-14 | 2023-01-15 |

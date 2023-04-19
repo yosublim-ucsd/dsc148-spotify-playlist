@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 47157,
+  "num_followers": 47187,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODkwNDkzOSwwMDAwMDAwMDE4MjM4M2Q2MzYzM2ZhMWMzN2U4MmFhNTAyYmJiN2E0",
+  "snapshot_id": "MTYzODkwNDkzOSwwMDAwMDAwMGZiNTNiMDJkMjg0MzQwMjExN2Y3ZDAzYWJkNWQ1NDE4",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -455,22 +455,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Graham Central Station",
-        "url": "https://open.spotify.com/album/4ZYY6rKxpgH76mdF0u3hvj"
-      },
-      "artists": [
-        {
-          "name": "Graham Central Station",
-          "url": "https://open.spotify.com/artist/1OGcRXAY9iO4egWiIBqX8F"
-        }
-      ],
-      "duration_ms": 295146,
-      "name": "Hair",
-      "url": "https://open.spotify.com/track/4o1yx2u3jBmR360WIXZ3L0"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Superfly: Deluxe 25th Anniversary Edition",
         "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 329466,
       "name": "Freddie's Dead",
       "url": "https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Graham Central Station",
+        "url": "https://open.spotify.com/album/4ZYY6rKxpgH76mdF0u3hvj"
+      },
+      "artists": [
+        {
+          "name": "Graham Central Station",
+          "url": "https://open.spotify.com/artist/1OGcRXAY9iO4egWiIBqX8F"
+        }
+      ],
+      "duration_ms": 295146,
+      "name": "Hair",
+      "url": "https://open.spotify.com/track/4o1yx2u3jBmR360WIXZ3L0"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -663,22 +663,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "If It Ain't Funky Back It Up",
-        "url": "https://open.spotify.com/album/7KAiS75Nn4mCt9BhWdR8W5"
-      },
-      "artists": [
-        {
-          "name": "Soopasoul",
-          "url": "https://open.spotify.com/artist/4qbiMv4o3ZLoZaJlXaE0I0"
-        }
-      ],
-      "duration_ms": 153387,
-      "name": "If It Ain't Funky Back It Up, Pt. 1",
-      "url": "https://open.spotify.com/track/4tbKutO3WSFhNyLaUs3F3s"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Jeannie's Getdown",
         "url": "https://open.spotify.com/album/0cpAnAv6dKdeFDe6aGR8kg"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 186348,
       "name": "A Message from the Meters",
       "url": "https://open.spotify.com/track/0M1tkc80T0So48tBpXjhcq"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "If It Ain't Funky Back It Up",
+        "url": "https://open.spotify.com/album/7KAiS75Nn4mCt9BhWdR8W5"
+      },
+      "artists": [
+        {
+          "name": "Soopasoul",
+          "url": "https://open.spotify.com/artist/4qbiMv4o3ZLoZaJlXaE0I0"
+        }
+      ],
+      "duration_ms": 153387,
+      "name": "If It Ain't Funky Back It Up, Pt. 1",
+      "url": "https://open.spotify.com/track/4tbKutO3WSFhNyLaUs3F3s"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Soul Side of Town",
-        "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
-      },
-      "artists": [
-        {
-          "name": "Tower Of Power",
-          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
-        }
-      ],
-      "duration_ms": 328479,
-      "name": "Hangin' with My Baby",
-      "url": "https://open.spotify.com/track/3ZoLqDFPHCyq4jeIMHBODq"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Dirty Word",
         "url": "https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 249973,
       "name": "Dancin' To The Truth",
       "url": "https://open.spotify.com/track/0Y5QEWwXP3awk97M830OBo"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Soul Side of Town",
+        "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
+      },
+      "artists": [
+        {
+          "name": "Tower Of Power",
+          "url": "https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB"
+        }
+      ],
+      "duration_ms": 328479,
+      "name": "Hangin' with My Baby",
+      "url": "https://open.spotify.com/track/3ZoLqDFPHCyq4jeIMHBODq"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1343,38 +1343,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Dirty Word",
-        "url": "https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF"
-      },
-      "artists": [
-        {
-          "name": "Dumpstaphunk",
-          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
-        },
-        {
-          "name": "Grooveline Horns",
-          "url": "https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743"
-        },
-        {
-          "name": "Reggie Watkins",
-          "url": "https://open.spotify.com/artist/14Ou42tZvSnt2LaFXiMp3z"
-        },
-        {
-          "name": "carlos sosa",
-          "url": "https://open.spotify.com/artist/4FnOfgH6FgYXOLzbhok5eL"
-        },
-        {
-          "name": "Fernanco Castillo",
-          "url": "https://open.spotify.com/artist/6FBJesby0YNelqeM4Y4xSV"
-        }
-      ],
-      "duration_ms": 273880,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5zo7avEFmAXh1Xh0lorTw0"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Shake Your Money",
         "url": "https://open.spotify.com/album/64RZY2yiVERrJRZuW9IO5r"
       },
@@ -1447,6 +1415,38 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Dirty Word",
+        "url": "https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF"
+      },
+      "artists": [
+        {
+          "name": "Dumpstaphunk",
+          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
+        },
+        {
+          "name": "Grooveline Horns",
+          "url": "https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743"
+        },
+        {
+          "name": "Reggie Watkins",
+          "url": "https://open.spotify.com/artist/14Ou42tZvSnt2LaFXiMp3z"
+        },
+        {
+          "name": "carlos sosa",
+          "url": "https://open.spotify.com/artist/4FnOfgH6FgYXOLzbhok5eL"
+        },
+        {
+          "name": "Fernanco Castillo",
+          "url": "https://open.spotify.com/artist/6FBJesby0YNelqeM4Y4xSV"
+        }
+      ],
+      "duration_ms": 273880,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5zo7avEFmAXh1Xh0lorTw0"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Life In The City",
         "url": "https://open.spotify.com/album/1s5qOtWNafsjfEl9NlmWio"
       },
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Funk!",
-        "url": "https://open.spotify.com/album/3dZcuCcy9AfEvmvlUvsUwf"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 225424,
-      "name": "Let's Take a Ride",
-      "url": "https://open.spotify.com/track/7y3UXCIUHfFsnQp8wwuVLj"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "The Deep End",
         "url": "https://open.spotify.com/album/1BRjZuuUCqYjCDAOhMnJ29"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 212026,
       "name": "Got Me Funked Up",
       "url": "https://open.spotify.com/track/6puGnKlOsMcu5SkcEEdHkg"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Funk!",
+        "url": "https://open.spotify.com/album/3dZcuCcy9AfEvmvlUvsUwf"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 225424,
+      "name": "Let's Take a Ride",
+      "url": "https://open.spotify.com/track/7y3UXCIUHfFsnQp8wwuVLj"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Gnomes & Badgers",
+        "url": "https://open.spotify.com/album/56MQoYzvGvaaECXTN9rUFY"
+      },
+      "artists": [
+        {
+          "name": "Karl Denson",
+          "url": "https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "I'm Your Biggest Fan",
+      "url": "https://open.spotify.com/track/4IThPVciaEpF0h8rIs1QnV"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Amplified Experiment",
         "url": "https://open.spotify.com/album/4cS75aWftbOa1nTMdkg27E"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 165450,
       "name": "F.y.g",
       "url": "https://open.spotify.com/track/1yvjg39SUCDlSxOYsu8unL"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Gnomes & Badgers",
-        "url": "https://open.spotify.com/album/56MQoYzvGvaaECXTN9rUFY"
-      },
-      "artists": [
-        {
-          "name": "Karl Denson",
-          "url": "https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "I'm Your Biggest Fan",
-      "url": "https://open.spotify.com/track/4IThPVciaEpF0h8rIs1QnV"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Pocket (Radio Edit)",
-        "url": "https://open.spotify.com/album/7IeXmD7Qhgz7uvrHprmV4q"
-      },
-      "artists": [
-        {
-          "name": "The Lionyls",
-          "url": "https://open.spotify.com/artist/28XiFctnEifvmTgCxFGOJU"
-        }
-      ],
-      "duration_ms": 227348,
-      "name": "Pocket (Radio Edit)",
-      "url": "https://open.spotify.com/track/4QtS7BCHG2jO3ka89o2eed"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Mindblastin'",
         "url": "https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 261184,
       "name": "Mindblastin'",
       "url": "https://open.spotify.com/track/02GrfxYPwe1E0KBc2BdP0o"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Pocket (Radio Edit)",
+        "url": "https://open.spotify.com/album/7IeXmD7Qhgz7uvrHprmV4q"
+      },
+      "artists": [
+        {
+          "name": "The Lionyls",
+          "url": "https://open.spotify.com/artist/28XiFctnEifvmTgCxFGOJU"
+        }
+      ],
+      "duration_ms": 227348,
+      "name": "Pocket (Radio Edit)",
+      "url": "https://open.spotify.com/track/4QtS7BCHG2jO3ka89o2eed"
     },
     {
       "added_at": "2019-08-22 14:26:16",

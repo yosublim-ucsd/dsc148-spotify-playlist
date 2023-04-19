@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Barbi Recanati en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,277 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,301 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 34 | [Narcisista](https://open.spotify.com/track/0uYtEmHHMw8mZJjqgbi0t9) | [Ciudad Nómade](https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA) | [Narcisista](https://open.spotify.com/album/13pUBIET4h3CTAUYqPG5VJ) | 2:58 |
 | 35 | [Coletero](https://open.spotify.com/track/3OMxSO1x7hdRnn2HVZ4Jvy) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Coletero](https://open.spotify.com/album/06NOGI9fA5ghWBGfRSxjXD) | 2:25 |
 | 36 | [Haz Que Mi Cabeza Gire](https://open.spotify.com/track/2JxQBXza3AnGxXxKBDIDmF) | [Chloral](https://open.spotify.com/artist/5MxaJJFZ2Hy9B6SVgHK5i3) | [Haz Que Mi Cabeza Gire](https://open.spotify.com/album/7tUiD86xdqikDoQBL2TEVD) | 4:05 |
-| 37 | [Insecto Adicto](https://open.spotify.com/track/7HXUk7xgrU6TqvH2XVPirC) | [Alvaro Suite](https://open.spotify.com/artist/70yQzusWd5DK0SbZk9z6tN), [Jordi Gil](https://open.spotify.com/artist/7kaeFJ9id7jRoyIr5wgcRS) | [Insecto Adicto](https://open.spotify.com/album/4sm2GRTNdWZScYgxEWeC6z) | 3:46 |
+| 37 | [Insecto adicto](https://open.spotify.com/track/7HXUk7xgrU6TqvH2XVPirC) | [Alvaro Suite](https://open.spotify.com/artist/70yQzusWd5DK0SbZk9z6tN) | [Insecto adicto](https://open.spotify.com/album/4sm2GRTNdWZScYgxEWeC6z) | 3:46 |
 | 38 | [Duro de Roer \(En vivo\)](https://open.spotify.com/track/3mYftXhEH91qMpHp7KG602) | [Selvajes](https://open.spotify.com/artist/41Bkxd38yERewVUTQyOghu) | [Duro de Roer \(En vivo\)](https://open.spotify.com/album/1PJ8mcuzd4mMmZVndDHHvg) | 2:58 |
 | 39 | [Un suspiro](https://open.spotify.com/track/4b46wM6eJC0W7iCnFOqWMl) | [Nana Arguen](https://open.spotify.com/artist/65g0Mj39OLPShrFO0QYZNt) | [El arte de lo eterno](https://open.spotify.com/album/3wjBlp1r8OWyV7ZjGSIczU) | 4:46 |
 | 40 | [Partido Platanista](https://open.spotify.com/track/6PtGrEnNsQYHw74jIZDq6X) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Partido Platanista](https://open.spotify.com/album/1e7tcO1zPJdfuZsbfXHDb0) | 2:32 |

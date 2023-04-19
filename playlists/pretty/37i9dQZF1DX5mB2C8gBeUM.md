@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Artist: Ian Munsick
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,574 likes - 128 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,775 likes - 128 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Cinta",
+        "url": "https://open.spotify.com/album/21BnnBlD0ssE2TzFwS87Pq"
+      },
+      "artists": [
+        {
+          "name": "Dalkhan Panova",
+          "url": "https://open.spotify.com/artist/6KMc22ewdnaUlXvuijYVaV"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179458,
+      "name": "Cinta",
+      "url": "https://open.spotify.com/track/7icjqQq16HoJ00MDrkoeMg"
+    },
+    {
+      "album": {
         "name": "Clear Path",
         "url": "https://open.spotify.com/album/10tajn5McEnxj6z3B5KOqN"
       },
@@ -455,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Erstwhile",
+        "url": "https://open.spotify.com/album/1JijVPErUrR6N4dgJgRV0E"
+      },
+      "artists": [
+        {
+          "name": "Olivier Lupin",
+          "url": "https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133612,
+      "name": "Erstwhile",
+      "url": "https://open.spotify.com/track/2ZIM8OtvpyZlIcJEqG2t0s"
+    },
+    {
+      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/1nPhnAH9DfARfDIw1jwA1N"
       },
@@ -628,7 +664,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 163200,
       "name": "Frame of Mind",
       "url": "https://open.spotify.com/track/2wto1zZvZOt0lKbgwLfhKX"
@@ -740,6 +776,24 @@
       "duration_ms": 167886,
       "name": "Hiemal",
       "url": "https://open.spotify.com/track/7EZKkc9CWvBoB52E2g2rFP"
+    },
+    {
+      "album": {
+        "name": "A New Day Rising",
+        "url": "https://open.spotify.com/album/3YHlkNADUbpe7ccGzpJKNf"
+      },
+      "artists": [
+        {
+          "name": "Soliaga",
+          "url": "https://open.spotify.com/artist/7LIerH0gT1AvTtmxx7xQp8"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157552,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/3FOajHFfKG99RrWco1kuCu"
     },
     {
       "album": {
@@ -1474,7 +1528,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 144146,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/6MPa4Toa2Om1RQat7ebFuA"
@@ -1496,6 +1550,24 @@
       "duration_ms": 152405,
       "name": "The Arrival",
       "url": "https://open.spotify.com/track/3ormOBJT8OGCxhrXntFyQq"
+    },
+    {
+      "album": {
+        "name": "Off Time",
+        "url": "https://open.spotify.com/album/62cNgLRqMR81YQk04NwAIR"
+      },
+      "artists": [
+        {
+          "name": "Emma-Lo Larsson",
+          "url": "https://open.spotify.com/artist/5DoFMnoAqaEr0JNHLVfrWa"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "The Dreamer",
+      "url": "https://open.spotify.com/track/7m1FO52k1xNJDUdiBvItiZ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > un cuore così 💔  \(in cover, solø\)
 
-204 songs - 9 hr 11 min
+205 songs - 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Notti Sbagliate](https://open.spotify.com/track/5Nx5sc8gzP2xHckhw3bWSL) | [Delfa](https://open.spotify.com/artist/4RkRi2pyK00Awctep7AkSc) | [Notti Sbagliate](https://open.spotify.com/album/6FkMcHq9A51wDuUlOQCTpg) | 2:10 | 2022-09-29 | 2022-10-14 |
 | [O Mi Uccidi](https://open.spotify.com/track/0jkBVkeS6L5NtvPn29NeIK) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [REBEL \(Deluxe\)](https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW) | 2:59 | 2022-09-22 |  |
 | [oggi ho pianto](https://open.spotify.com/track/6Sgu1QpY9CPZrIuXHvBZ9C) | [outcast.](https://open.spotify.com/artist/4jOS0OX3X4Yj6CmNtOGJf9) | [oggi ho pianto](https://open.spotify.com/album/1ksdOJC3p3NOgP45uEHJ5M) | 2:12 | 2022-04-21 | 2023-03-25 |
-| [OPPOSTI](https://open.spotify.com/track/1x2Wwdt41BH7aCmMhH8ryv) | [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Cosa Siamo Noi Ora](https://open.spotify.com/album/2FFF7L9KIYb1v5UtSuVhEJ) | 2:29 | 2022-04-21 |  |
+| [OPPOSTI](https://open.spotify.com/track/1x2Wwdt41BH7aCmMhH8ryv) | [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Cosa Siamo Noi Ora](https://open.spotify.com/album/2FFF7L9KIYb1v5UtSuVhEJ) | 2:29 | 2022-04-21 | 2023-04-19 |
 | [Orgia](https://open.spotify.com/track/7bJiGfQ6oH8IPm41BTMtSc) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Acne](https://open.spotify.com/album/4p88bKpzYsdGIVUtkQUsby) | 2:06 | 2022-04-21 | 2022-12-09 |
 | [Pagine](https://open.spotify.com/track/2qfLABUmMubADB6tRridR3) | [Kia](https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT) | [Pagine](https://open.spotify.com/album/0jWndBcFpzkAAhyVfwGBdU) | 2:24 | 2023-02-23 |  |
 | [Pagine](https://open.spotify.com/track/2zc5IR5UZb013SPfZnXezx) | [Kia](https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT) | [Pagine](https://open.spotify.com/album/3klEMkbs4lchGCz3j4LPSB) | 2:24 | 2022-04-21 | 2023-02-25 |
@@ -140,6 +140,7 @@
 | [Paranoie](https://open.spotify.com/track/5dvs1LY4pqUhUsVOQXtx2M) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Yanomi](https://open.spotify.com/artist/6YgYCNwq3DkSXEd6kGxoZW) | [Io Sono](https://open.spotify.com/album/2CNuOGKjlE5KqjcfxMMJPK) | 2:43 | 2022-04-21 |  |
 | [Parole al vento](https://open.spotify.com/track/64xBkN33zcDvijtU7X0pkN) | [Maru](https://open.spotify.com/artist/3L5BWOU9ujyIpycmCweRan) | [Parole al vento](https://open.spotify.com/album/22vc0d22zRLd3rjicn67kJ) | 2:02 | 2022-04-21 | 2023-03-25 |
 | [pensieri brutti](https://open.spotify.com/track/49i5H63uLE5DBU13KDc5eA) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [nostalgia liquida](https://open.spotify.com/album/7KiMMxjH4YYmYk2JuQtfe0) | 2:31 | 2022-04-21 |  |
+| [Penso a te](https://open.spotify.com/track/0SiygWBzCOeItYAjC3ZDVh) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Penso a te](https://open.spotify.com/album/6ajL0vtyiiqofQdvt0u7RO) | 2:03 | 2023-04-18 |  |
 | [Per il mio bene](https://open.spotify.com/track/1j4rTqIygJuZsmfO04UqFT) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [Per il mio bene](https://open.spotify.com/album/1Z8F4vFqjLEYOBqpgHBqto) | 2:35 | 2022-06-02 | 2023-03-25 |
 | [Per starci in due](https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Per starci in due](https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T) | 3:36 | 2023-03-23 |  |
 | [personal](https://open.spotify.com/track/0iBWJzv9EysEh3wahsnPa8) | [trapstarsteezy](https://open.spotify.com/artist/0v0gXgl9lp0rJtACULKSO1), [ernvss](https://open.spotify.com/artist/7gC9tWX4RacI5aIaYQCPza) | [personal](https://open.spotify.com/album/5eXZORuOjZB3yTOf2Oebbd) | 3:30 | 2022-07-14 | 2023-03-25 |

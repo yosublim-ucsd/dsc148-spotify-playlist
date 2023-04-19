@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du kan spelle i kjerra! Cover: Hagle",
-  "num_followers": 96826,
+  "num_followers": 96880,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMDA2NjEzYWMzODQ5ODQwYWY3MWY0NGYyYTExNjY4NGEy",
+  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMGY0M2QzMmIwYzUzODFjZmRjNmE0MTgyMzQ0NjljZmZi",
   "tracks": [
     {
       "added_at": "2023-04-13 22:00:00",
@@ -451,26 +451,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Rom & Cola",
-        "url": "https://open.spotify.com/album/0C3iRNcHRYBZqHgsjIaifU"
-      },
-      "artists": [
-        {
-          "name": "Den BB",
-          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
-        },
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        }
-      ],
-      "duration_ms": 132931,
-      "name": "Rom & Cola",
-      "url": "https://open.spotify.com/track/1GFZP2cT6C7nGmRzfX7VEY"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Fakk Min X",
         "url": "https://open.spotify.com/album/3cuW2BUGrCXLsK1xGLCVSJ"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 111608,
       "name": "Fakk Min X",
       "url": "https://open.spotify.com/track/0lJCvh6IJQ7vedN2zgW9ws"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Rom & Cola",
+        "url": "https://open.spotify.com/album/0C3iRNcHRYBZqHgsjIaifU"
+      },
+      "artists": [
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+        },
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 132931,
+      "name": "Rom & Cola",
+      "url": "https://open.spotify.com/track/1GFZP2cT6C7nGmRzfX7VEY"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "Konge p\u00e5 b\u00f8gda",
+        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 180393,
+      "name": "Konge p\u00e5 b\u00f8gda",
+      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "Block Party",
         "url": "https://open.spotify.com/album/6zkX0G2P3biWJLOCTf0KIj"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 125555,
       "name": "Block Party",
       "url": "https://open.spotify.com/track/26d3s0266f5EwHuRr5CxPi"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Konge p\u00e5 b\u00f8gda",
-        "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 180393,
-      "name": "Konge p\u00e5 b\u00f8gda",
-      "url": "https://open.spotify.com/track/1UJAtQo720sOej8mfEjck3"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "Berre i natt",
+        "url": "https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 229433,
+      "name": "Berre i natt",
+      "url": "https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "H\u00d6RRU BARTENDER",
         "url": "https://open.spotify.com/album/1b9a5LDUt0kdBj6H6o2dOa"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 145925,
       "name": "H\u00d6RRU BARTENDER",
       "url": "https://open.spotify.com/track/1mcr3HuCyabJgAZ9z0zVvx"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Berre i natt",
-        "url": "https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 229433,
-      "name": "Berre i natt",
-      "url": "https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -799,42 +799,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Eventyr",
-        "url": "https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt"
-      },
-      "artists": [
-        {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
-        },
-        {
-          "name": "Daskeladden",
-          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Eventyr",
-      "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "En gammal Amazon",
-        "url": "https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa"
-      },
-      "artists": [
-        {
-          "name": "Str\u00f6g1",
-          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
-        }
-      ],
-      "duration_ms": 166297,
-      "name": "En gammal Amazon",
-      "url": "https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "P\u00e5 vei",
         "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
       },
@@ -851,18 +815,42 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Norge rundt",
-        "url": "https://open.spotify.com/album/1SAhnYv7WLA9wrKlBUQD4J"
+        "name": "En drikkesang",
+        "url": "https://open.spotify.com/album/3BwiO8gXGLlvgI8X3pdGMl"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Daskeladden",
+          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
         }
       ],
-      "duration_ms": 204306,
-      "name": "Norge rundt",
-      "url": "https://open.spotify.com/track/2npSnsWqiOkinzheEcuWh8"
+      "duration_ms": 134973,
+      "name": "En drikkesang",
+      "url": "https://open.spotify.com/track/2z12HXARpuQP9teW2tGyz0"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "En gammal Amazon",
+        "url": "https://open.spotify.com/album/0VQnyab7Lu6lj0z362cHxa"
+      },
+      "artists": [
+        {
+          "name": "Str\u00f6g1",
+          "url": "https://open.spotify.com/artist/4b86UHGZJ59ZjOZWZeT9zF"
+        }
+      ],
+      "duration_ms": 166297,
+      "name": "En gammal Amazon",
+      "url": "https://open.spotify.com/track/7Dw2Wx4UKt2tDxvcfFD4Va"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -887,6 +875,22 @@
       "duration_ms": 168398,
       "name": "FREDAG",
       "url": "https://open.spotify.com/track/7CrzOLGSbr4PFi9F9PNcJ4"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "Norge rundt",
+        "url": "https://open.spotify.com/album/1SAhnYv7WLA9wrKlBUQD4J"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 204306,
+      "name": "Norge rundt",
+      "url": "https://open.spotify.com/track/2npSnsWqiOkinzheEcuWh8"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -947,6 +951,26 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "Eventyr",
+        "url": "https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt"
+      },
+      "artists": [
+        {
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+        },
+        {
+          "name": "Daskeladden",
+          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Eventyr",
+      "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "Kompis",
         "url": "https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE"
       },
@@ -975,30 +999,6 @@
       "duration_ms": 201920,
       "name": "Aldri tilbake",
       "url": "https://open.spotify.com/track/6qBJhWis1EGlcDvC74PTyS"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "En drikkesang",
-        "url": "https://open.spotify.com/album/3BwiO8gXGLlvgI8X3pdGMl"
-      },
-      "artists": [
-        {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Daskeladden",
-          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
-        }
-      ],
-      "duration_ms": 134973,
-      "name": "En drikkesang",
-      "url": "https://open.spotify.com/track/2z12HXARpuQP9teW2tGyz0"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "B\u00f8gdamann",
-        "url": "https://open.spotify.com/album/7gFTlR2Nh47dXpgyw744zG"
-      },
-      "artists": [
-        {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
-        },
-        {
-          "name": "Daskeladden",
-          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
-        }
-      ],
-      "duration_ms": 167160,
-      "name": "B\u00f8gdamann",
-      "url": "https://open.spotify.com/track/58RhRKDcZ7gT2JAlbRWyUc"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "Levva Livet!",
         "url": "https://open.spotify.com/album/00m8339CymX4adXiATrT7e"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 136814,
       "name": "Jag \u00e4r taggad",
       "url": "https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
+        "name": "B\u00f8gdamann",
+        "url": "https://open.spotify.com/album/7gFTlR2Nh47dXpgyw744zG"
+      },
+      "artists": [
+        {
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+        },
+        {
+          "name": "Daskeladden",
+          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
+        }
+      ],
+      "duration_ms": 167160,
+      "name": "B\u00f8gdamann",
+      "url": "https://open.spotify.com/track/58RhRKDcZ7gT2JAlbRWyUc"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

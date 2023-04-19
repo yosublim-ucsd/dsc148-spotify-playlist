@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Joshwa
 
-1,007 songs - 2 day 11 hr 30 min
+1,008 songs - 2 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -690,7 +690,7 @@
 | [Pra Nao Dizer](https://open.spotify.com/track/3FdtdBduxDxNzzHBhB3Pks) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x) | [Pra Nao Dizer](https://open.spotify.com/album/4T90MAy1ApB3LyatLqTqAc) | 3:23 | 2022-04-08 | 2022-04-16 |
 | [Preach](https://open.spotify.com/track/2X6HxhEym4TbK10GF7PL8m) | [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz), [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Preach](https://open.spotify.com/album/3BgQIbVApzmhwc39g05K9q) | 3:05 | 2023-02-17 | 2023-04-05 |
 | [Preach](https://open.spotify.com/track/5cNA7ChSMX8KBQW40hiwGk) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Preach](https://open.spotify.com/album/1GtkuQKYR20yBX3eiarvT6) | 4:11 | 2021-11-26 | 2022-01-06 |
-| [Pressure](https://open.spotify.com/track/5huS8x54n95lI4LLeSTvQE) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [Pressure](https://open.spotify.com/album/7jL72BV0WcPzwO25aPiDTB) | 3:06 | 2023-02-03 |  |
+| [Pressure](https://open.spotify.com/track/5huS8x54n95lI4LLeSTvQE) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC) | [Pressure](https://open.spotify.com/album/7jL72BV0WcPzwO25aPiDTB) | 3:06 | 2023-02-03 | 2023-04-19 |
 | [Program](https://open.spotify.com/track/5RzgHp25FmEO0nYNMynuHE) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Program](https://open.spotify.com/album/6eT6RcSzhljn3kPoD3El1k) | 2:34 | 2023-03-17 | 2023-04-16 |
 | [Puerto Rico](https://open.spotify.com/track/4AOCixIsN5aoszu3dcwalf) | [Landis](https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn) | [Puerto Rico](https://open.spotify.com/album/5uAyqWPXo6H3fpWa9T433G) | 2:24 | 2021-11-26 | 2022-05-07 |
 | [Pump It](https://open.spotify.com/track/7K0bmMQyro8sd5NEpEqq6n) | [Damien N\-Drix](https://open.spotify.com/artist/5728TFNG2bx7GzacEAz3yU) | [Pump It](https://open.spotify.com/album/31nJohTPaHhZcfzthYgbRb) | 2:22 | 2023-02-03 | 2023-04-01 |
@@ -871,6 +871,7 @@
 | [Tequila](https://open.spotify.com/track/5PQXYypgc0syPHLT6dIuvM) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Maahez](https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ) | [Tequila](https://open.spotify.com/album/6obdoKvDd4xA7Ukrw0BiXF) | 3:30 | 2022-09-30 | 2022-11-29 |
 | [Terraza](https://open.spotify.com/track/5fi3bVjGZQACpKP7cy4wYB) | [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Terraza](https://open.spotify.com/album/1mYN1fZaQHl65NwoppAUYw) | 3:59 | 2022-12-16 | 2023-02-04 |
 | [That Feeling](https://open.spotify.com/track/4nTj9uSRpyhHWGaeZRUeqQ) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Without U](https://open.spotify.com/album/4XGZu2GMoCpvUPUyXUodAq) | 2:46 | 2022-10-07 | 2022-12-03 |
+| [That Groove](https://open.spotify.com/track/2XyfRkQOXeseaXBT946SIf) | [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [That Groove](https://open.spotify.com/album/1iJGr9VyTXJKvKNS5eUPHn) | 3:41 | 2023-04-14 |  |
 | [The Awakening](https://open.spotify.com/track/1i3usBZnVIjlYZOfGywtLk) | [Carly Wilford](https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN) | [The Awakening](https://open.spotify.com/album/0JoCYuyE3P9fKagX6ttZWE) | 3:27 | 2023-01-20 | 2023-04-16 |
 | [The Beat Goes](https://open.spotify.com/track/6DW9Z2nMpoiZoPJdZniXnr) | [Croatia Squad](https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC) | [The Beat Goes](https://open.spotify.com/album/7r7lEn8g3uqngwbC3Ichpm) | 3:09 | 2022-03-18 | 2022-05-14 |
 | [The Blur](https://open.spotify.com/track/6v8hT0hPFKUP3qluEpsHXY) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [The Blur](https://open.spotify.com/album/2qXdiuBSCNc5Jamk9lBQqS) | 2:53 | 2023-03-10 |  |

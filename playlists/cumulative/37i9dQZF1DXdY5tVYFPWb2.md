@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-497 songs - 1 day 8 hr 50 min
+499 songs - 1 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [CAT'S EYE 2023](https://open.spotify.com/track/43yvgvumHPrqko99AlK1jX) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [LUPIN THE THIRD VS CAT'S EYE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/12eUMGk9JZKeSHZ2z6UcMa) | 2:49 | 2023-01-26 | 2023-03-15 |
 | [CATCH THE RAINBOW](https://open.spotify.com/track/1Cwlmkh0KR2EmrazPKJScv) | [Junk Fujiyama](https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J) | [CATCH THE RAINBOW](https://open.spotify.com/album/5TfgfGhPhDk9XdyROheBp1) | 4:50 | 2023-01-31 | 2023-02-02 |
 | [CATCH THE RAINBOW](https://open.spotify.com/track/6V0DEhuDfPk5AUfK31TB9J) | [Junk Fujiyama](https://open.spotify.com/artist/53n2ZPbUwV55wVWwAiz64J) | [CATCH THE RAINBOW](https://open.spotify.com/album/5Dvsfy1GgbwHVcKpXK2uER) | 4:50 | 2023-01-31 | 2023-02-08 |
-| [Change My Life](https://open.spotify.com/track/2oqe9h6uLQ1jn48Mz4OQI6) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [Change My Life](https://open.spotify.com/album/0ta9f6bwpnvCMuVbb1RfHG) | 4:03 | 2022-07-27 |  |
+| [Change My Life](https://open.spotify.com/track/2oqe9h6uLQ1jn48Mz4OQI6) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [Change My Life](https://open.spotify.com/album/0ta9f6bwpnvCMuVbb1RfHG) | 4:03 | 2022-07-27 | 2023-04-19 |
 | [CHASE](https://open.spotify.com/track/3phd1kWZKgyizFh63gcHMa) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [CHASE](https://open.spotify.com/album/59rUpax1sOQhOkh8v3R7JU) | 3:10 | 2022-06-30 | 2022-12-26 |
 | [Christmas Is All Yours](https://open.spotify.com/track/199NTXkvmlHtIH08a9k7iJ) | [Keishi Tanaka](https://open.spotify.com/artist/5G0ElMmupqds9jeahi6BSK) | [Christmas Is All Yours](https://open.spotify.com/album/1qFWhrTWFdQaFqwjsHNdl7) | 3:28 | 2022-11-22 | 2023-02-02 |
 | [CITY BOY](https://open.spotify.com/track/1R9TGjQFP6MQYcF8g7zgnv) | [higimidari](https://open.spotify.com/artist/4F8zLr1sh91GGu3bZ3Im1b) | [CITY BOY](https://open.spotify.com/album/1zxr2z8ge9WWFGYWX2rHpE) | 4:03 | 2022-07-05 | 2022-07-29 |
@@ -80,7 +80,7 @@
 | [Day In Day Out](https://open.spotify.com/track/5RTWTDzC0neY2cRljMw0zB) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Day In Day Out](https://open.spotify.com/album/2LUbONUfN9g9zPxL1ukeW5) | 2:58 | 2022-06-14 | 2022-06-29 |
 | [Deep Inside](https://open.spotify.com/track/50i1WB0sZuvrAwr7pTW3MB) | [Nelko](https://open.spotify.com/artist/3Glq3QEL1BjWbCjIokyytB) | [Deep Inside](https://open.spotify.com/album/7BjRZ6At37jn1wLuAxlhn6) | 4:22 | 2023-03-28 | 2023-04-05 |
 | [Do you remember](https://open.spotify.com/track/3CPSBqZ58PQVzKnbwHBzsn) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [Do you remember](https://open.spotify.com/album/69jHyS1wnU0YHFKCD55xQW) | 5:08 | 2022-06-21 | 2022-07-18 |
-| [Document](https://open.spotify.com/track/4LJidzx7SuW2lqDHkbApYh) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Inner Dialog](https://open.spotify.com/album/0klLVAweT1Pxea8gSFxvW2) | 4:35 | 2023-03-28 |  |
+| [Document](https://open.spotify.com/track/4LJidzx7SuW2lqDHkbApYh) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Inner Dialog](https://open.spotify.com/album/0klLVAweT1Pxea8gSFxvW2) | 4:35 | 2023-03-28 | 2023-04-19 |
 | [DOCUMENT \- 2023](https://open.spotify.com/track/2FqaGBqrOpcz2gahQgaeDg) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [DOCUMENT \(2023\)](https://open.spotify.com/album/6VbZ7Sm3BLIRfPeAwr5X69) | 4:38 | 2023-04-05 |  |
 | [Don't Be Someone Else](https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [MUSIC WARDROBE](https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D) | 3:43 | 2022-05-24 |  |
 | [Don't look at me ..\. \(but stare at me\)](https://open.spotify.com/track/4HtQwv2GQxntfh5JscAgrN) | [UNIDOTS](https://open.spotify.com/artist/2uByNuOCgzpdf1JOf1M3LZ) | [Don't look at me ..\. \(but stare at me\)](https://open.spotify.com/album/6PUr351rJFnKmkSGyqEZ3G) | 3:39 | 2022-12-13 | 2023-01-11 |
@@ -380,6 +380,7 @@
 | [エメラルドグリーンの揺らめき](https://open.spotify.com/track/2OkLRX5QF4RGNnCbeFlFwX) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh) | [Yin Yang](https://open.spotify.com/album/5vFiiyKT8keR7XHQB7Ii8i) | 3:42 | 2022-05-28 | 2023-03-01 |
 | [エモめの夏](https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [DAILY BOP](https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU) | 2:25 | 2022-07-27 |  |
 | [オトナの時間](https://open.spotify.com/track/7ySx8EW2buRTE4WWkZbbH2) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [オトナの時間](https://open.spotify.com/album/0geyTyvqhnQeIyBbKeuDo9) | 3:27 | 2023-02-28 | 2023-03-02 |
+| [カウントダウン・ラグ](https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [インナーダイアログ](https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh) | 5:25 | 2023-04-18 |  |
 | [ガールフレンド・オブ・ザ・デッド!](https://open.spotify.com/track/1oYLlpOQv3LrykfZDyizun) | [sooogood!](https://open.spotify.com/artist/72C5vNpdDKj70D3NU1P5fB), [lily wii!](https://open.spotify.com/artist/4S393iGKVn1I0Kro8MD4BP) | [ガールフレンド・オブ・ザ・デッド!](https://open.spotify.com/album/1oDCKrs5Xg8rX1uij43sBK) | 3:35 | 2022-06-28 | 2022-07-06 |
 | [クレイジーボーイ](https://open.spotify.com/track/2ka963rH1ezyei5ZvkgL2g) | [Sayonara Ponytail](https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X) | [クレイジーボーイ](https://open.spotify.com/album/6vhIYKgWgZfpPUFk7e3i5l) | 3:13 | 2022-05-24 | 2022-06-08 |
 | [クロエ](https://open.spotify.com/track/55Tvnmqj49iNka1u3p46nK) | [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb), [THE COYOTE BAND](https://open.spotify.com/artist/432HTPxin2aQmEIHXQMUnh) | [今、何処](https://open.spotify.com/album/5ZTjkUoIxLVyyILhfXAyQM) | 3:15 | 2022-07-05 | 2022-07-13 |
@@ -465,6 +466,7 @@
 | [新天翔](https://open.spotify.com/track/7IfDZEJJFoNBZK8cEzq0eW) | [Chapman](https://open.spotify.com/artist/1aqjLhOgvZBtaI6Sh1PNEi) | [ESCAPE](https://open.spotify.com/album/3rTIONGx0luotULInSH6bE) | 3:57 | 2022-12-13 | 2023-01-11 |
 | [日本ロマンチック街道](https://open.spotify.com/track/1LIQegVNgGEUbOx08pBu1o) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [日本ロマンチック街道](https://open.spotify.com/album/0kZ3rzCgH0skz6SR3CvG5P) | 3:45 | 2022-11-30 | 2022-12-07 |
 | [春](https://open.spotify.com/track/0DIWUR6OVSleuWmPO5Dj2U) | [マダラメスルメ](https://open.spotify.com/artist/0Hv3B7rOi2DQN1lWaEH1JP) | [春](https://open.spotify.com/album/73YxeGPir2kRtW2welidV5) | 4:27 | 2022-06-16 | 2022-06-18 |
+| [春砂漠](https://open.spotify.com/track/1PCwSUdENks9PcoZR9UZS3) | [KOMONO LAKE](https://open.spotify.com/artist/3wWaB9vMXkeUHD6RgH3lpG) | [春砂漠](https://open.spotify.com/album/3qPaEsgm5tPihrm4ko05yi) | 2:40 | 2023-04-18 |  |
 | [月の椀](https://open.spotify.com/track/5GVb3tUNjK3xirJfVi8p6v) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [アダプト](https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG) | 4:10 | 2022-05-28 | 2022-06-29 |
 | [東京cruisin'](https://open.spotify.com/track/1LJEIE8IjHnQuV5mc0w399) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [東京cruisin'](https://open.spotify.com/album/07uk8juzTAwRlLaqYMscne) | 3:08 | 2022-05-24 |  |
 | [東京は夜の七時 \(feat\. Night Tempo\)](https://open.spotify.com/track/6mi2Zdi1QmZZaO5wgc8LMB) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj), [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [東京は夜の七時 \(feat\. Night Tempo\)](https://open.spotify.com/album/2auz7IkxAJbGaN8brJnJU6) | 4:47 | 2022-06-02 | 2022-06-04 |

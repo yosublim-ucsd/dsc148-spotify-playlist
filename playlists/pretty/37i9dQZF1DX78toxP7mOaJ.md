@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Friko \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,303 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,365 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 10 | [Where's My Phone \(feat\. Krist Novoselic\)](https://open.spotify.com/track/0xnusxTSoUIqBQpTz0xXgJ) | [Hector Tellez Jr.](https://open.spotify.com/artist/1IAvmklldPm238fMm3QUwA), [Krist Novoselic](https://open.spotify.com/artist/4BZKfXia2RPZnzCgQ2fG8M) | [Where's My Phone \(feat\. Krist Novoselic\)](https://open.spotify.com/album/68KbggGHmm8gvISpEtwnd5) | 3:41 |
 | 11 | [Troy Creeps](https://open.spotify.com/track/5xTx9eqoJXPf2VQICr7Eye) | [Laveda](https://open.spotify.com/artist/4k9HOB4zrVAEasP7nm31F7) | [Troy Creeps](https://open.spotify.com/album/46AKFwZEZ5Qi4tqKtBVrem) | 4:16 |
 | 12 | [Pisces](https://open.spotify.com/track/0O3CQPuwVdMZdVohfNFBNp) | [gloomy june](https://open.spotify.com/artist/6mEx3BZllandD1ScLebLBW) | [Pisces](https://open.spotify.com/album/3rGjs5nLtKN12JSAnEEm3p) | 2:48 |
-| 13 | [airplane](https://open.spotify.com/track/0ZSrtjk2DQH6xWura7F01v) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [airplane](https://open.spotify.com/album/1DeRZ8RuEzvo7pfTzf5mYm) | 3:15 |
+| 13 | [airplane](https://open.spotify.com/track/6CCi6b23HctIsVkdoIq7Is) | [moony](https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ) | [podunk](https://open.spotify.com/album/24QlHZXQXEPXlszax5IOWW) | 3:15 |
 | 14 | [\(Full Free\) Radical](https://open.spotify.com/track/6zk5XHx4mEtIuNDNvkT7Re) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [\(Full Free\) Radical](https://open.spotify.com/album/6EUJcyqHfR7gmS5ZtuKtE6) | 3:55 |
 | 15 | [Easy](https://open.spotify.com/track/4Cos0Kz9Tx3AtsXrw6hgel) | [Like Roses](https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI) | [Easy](https://open.spotify.com/album/6bPGZUoyoTHgx6vJMj8Om2) | 3:12 |
 | 16 | [BULL IN A CHINA SHOP \(feat\. 93FEETOFSMOKE\)](https://open.spotify.com/track/7tFT48ZinORfsDHaGNpoaV) | [Kanner](https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh), [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79) | [BULL IN A CHINA SHOP \(feat\. 93FEETOFSMOKE\)](https://open.spotify.com/album/3SaTEIACb9nteCfpwxC82a) | 2:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 74 | [Opossum! My Possum!](https://open.spotify.com/track/5yghSwq7jePANBrd72J8Ly) | [Thanks! I Hate It](https://open.spotify.com/artist/2AXYLreE6e33pDQgQNNNyu) | [Lovers Lane](https://open.spotify.com/album/66VJJVlE4sn1PlZVIRKW58) | 3:45 |
 | 75 | [Mona Lisa](https://open.spotify.com/track/1kpbUkXdbld68SQ0oW7ZsR) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Mona Lisa](https://open.spotify.com/album/33UtZ7otPosBmFYjSmDDIz) | 1:58 |
 
-Snapshot ID: `MTY4MTMxNTIwMCwwMDAwMDAwMDE4ZDMzNGVmNDk0MzU3ZGNmZTRjN2VlZTFjN2JlOGY1`
+Snapshot ID: `MTY4MTMxNTIwMCwwMDAwMDAwMGEzMzI1Y2Q3ZTk3MmU4MWZlZjg1MGE4YmQ1MThmZDNh`

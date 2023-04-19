@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,017 likes - 671 songs - 1 day 21 hr 15 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,020 likes - 672 songs - 1 day 21 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -679,5 +679,6 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 669 | [Elegia \- 2022 Digital Master](https://open.spotify.com/track/7JT81f9I7Jh3FcqnNLQ9xJ) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Low\-Life \(Definitive\)](https://open.spotify.com/album/1zw2R2jhDJf7BFJMR0aOSq) | 4:56 |
 | 670 | [How Many Friends](https://open.spotify.com/track/0ri3I02OBYDfXHnVOBSJSy) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Expanded Edition\)](https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK) | 4:06 |
 | 671 | [Le jardin](https://open.spotify.com/track/4eNwgcKvY5ky5jaW8bS3Lu) | [Mcbaise](https://open.spotify.com/artist/1bHp6iVI7Jit4RCKtic0YO) | [Windowsill](https://open.spotify.com/album/0Hg2CiODOdoqJQpDdvwQzP) | 3:27 |
+| 672 | [Our Happiness is Guaranteed](https://open.spotify.com/track/6HGlpF5HiVIjUXtCcwwNsC) | [Quasi](https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO) | [Featuring "Birds"](https://open.spotify.com/album/7tAnCo8qn6xIRkcDs3FEUQ) | 3:15 |
 
-Snapshot ID: `MTY5NCw4NTIxNTQ0ZThhMTdiNjkwY2M5NmQyYWMyN2ZlY2E3MmUzZDk2MWYx`
+Snapshot ID: `MTY5NSw2MDY4NjI3YzRhNzYyNDk1ZjE4OWRlY2RiMzNjOTE0MDliNzQzYjI3`

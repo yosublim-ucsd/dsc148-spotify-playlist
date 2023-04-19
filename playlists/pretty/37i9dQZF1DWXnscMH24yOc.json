@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 431401,
+  "num_followers": 431494,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Nzk2MDAyOSwwMDAwMDAwMDJmYjIwOTQ3YWI0ZmNmNWM3NWRiNTg0NjRjZDM0NzY1",
+  "snapshot_id": "MTY0Nzk2MDAyOSwwMDAwMDAwMDA2ZWU2MjMzZTcxNGEwMjE2YTQ0Mjg3MTk2ODMzNmY1",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Thinking In Textures",
-        "url": "https://open.spotify.com/album/1lqdYmOceSVAulxV7YuD7L"
-      },
-      "artists": [
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
-        }
-      ],
-      "duration_ms": 221533,
-      "name": "No Diggity",
-      "url": "https://open.spotify.com/track/2xD7RvKFJl52xyds3wQFXQ"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "First Impressions",
         "url": "https://open.spotify.com/album/4TOuZm9IHXWmFDPh8ccp1Z"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 196213,
       "name": "Torn - Bonus Track",
       "url": "https://open.spotify.com/track/5511Aj0mYSejKP6fplsoRk"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Thinking In Textures",
+        "url": "https://open.spotify.com/album/1lqdYmOceSVAulxV7YuD7L"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 221533,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/2xD7RvKFJl52xyds3wQFXQ"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
-      },
-      "artists": [
-        {
-          "name": "Ben Abraham",
-          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
-        }
-      ],
-      "duration_ms": 329086,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 234079,
       "name": "Summer's End - Spotify Singles",
       "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA"
+      },
+      "artists": [
+        {
+          "name": "Ben Abraham",
+          "url": "https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI"
+        }
+      ],
+      "duration_ms": 329086,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -483,18 +483,22 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "In My Life",
-        "url": "https://open.spotify.com/album/3xmPSQOtxckv6Gr4IgVzw7"
+        "name": "Giralunas, Un Homenaje a L.E.Aute",
+        "url": "https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd"
       },
       "artists": [
         {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
         }
       ],
-      "duration_ms": 154290,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/3nsMuR3Bax8ZjhDl2xkGfJ"
+      "duration_ms": 336813,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/32DRpZgrvQZddDkKF2DoTr"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -515,22 +519,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Giralunas, Un Homenaje a L.E.Aute",
-        "url": "https://open.spotify.com/album/2xfwea7EUqYb6zas8PLNgd"
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/3xmPSQOtxckv6Gr4IgVzw7"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
         }
       ],
-      "duration_ms": 336813,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/32DRpZgrvQZddDkKF2DoTr"
+      "duration_ms": 154290,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/3nsMuR3Bax8ZjhDl2xkGfJ"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "The Fifth",
-        "url": "https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l"
+        "name": "I'm Gonna Be (500 Miles)",
+        "url": "https://open.spotify.com/album/0b8KcBvQVOYGRQWGaWzyS0"
       },
       "artists": [
         {
-          "name": "Mathew V",
-          "url": "https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS"
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
         }
       ],
-      "duration_ms": 236710,
-      "name": "Always Be My Baby",
-      "url": "https://open.spotify.com/track/5dYs9IhYDPUqlYKILmRXt5"
+      "duration_ms": 212044,
+      "name": "I'm Gonna Be (500 Miles)",
+      "url": "https://open.spotify.com/track/09MdiypXlcb1kohV3cO03p"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "I'm Gonna Be (500 Miles)",
-        "url": "https://open.spotify.com/album/0b8KcBvQVOYGRQWGaWzyS0"
+        "name": "The Fifth",
+        "url": "https://open.spotify.com/album/40h5bhuUo7CJVtySM2tm2l"
       },
       "artists": [
         {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+          "name": "Mathew V",
+          "url": "https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS"
         }
       ],
-      "duration_ms": 212044,
-      "name": "I'm Gonna Be (500 Miles)",
-      "url": "https://open.spotify.com/track/09MdiypXlcb1kohV3cO03p"
+      "duration_ms": 236710,
+      "name": "Always Be My Baby",
+      "url": "https://open.spotify.com/track/5dYs9IhYDPUqlYKILmRXt5"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Henry / I'm On Fire",
-        "url": "https://open.spotify.com/album/6ZAKHuqVkCtP8ZXrI7a54W"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 187241,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/1ZGTTfJcCJ33IfAaExK5Wi"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Sound Of A Woman",
         "url": "https://open.spotify.com/album/2esSZWmdzMPyQsszbsX0rr"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 188346,
       "name": "What Is Love",
       "url": "https://open.spotify.com/track/2jrmSLNOdNPZvMyYaZt9bm"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Henry / I'm On Fire",
+        "url": "https://open.spotify.com/album/6ZAKHuqVkCtP8ZXrI7a54W"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 187241,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/1ZGTTfJcCJ33IfAaExK5Wi"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "...but i'd rather be with you",
-        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 235418,
-      "name": "Sunflower, Vol. 6",
-      "url": "https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "rose ave.",
         "url": "https://open.spotify.com/album/5roeGujs5AMWZHsxu0z1lZ"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 182957,
       "name": "Young & Sad",
       "url": "https://open.spotify.com/track/26BQhYYkG1B8xxbVV423PY"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "...but i'd rather be with you",
+        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 235418,
+      "name": "Sunflower, Vol. 6",
+      "url": "https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/0DGxizS2jb1tTYimUJdQ15"
-      },
-      "artists": [
-        {
-          "name": "Roses & Revolutions",
-          "url": "https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l"
-        }
-      ],
-      "duration_ms": 243209,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/55cFWjs1LPFOeBl4gLuD4M"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Fade into You",
         "url": "https://open.spotify.com/album/1n61ugQ0ZLLoTkcioiKOQl"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 274185,
       "name": "Fade into You",
       "url": "https://open.spotify.com/track/0csSWz0uayWOUHZSoMDLLX"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/0DGxizS2jb1tTYimUJdQ15"
+      },
+      "artists": [
+        {
+          "name": "Roses & Revolutions",
+          "url": "https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l"
+        }
+      ],
+      "duration_ms": 243209,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/55cFWjs1LPFOeBl4gLuD4M"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Latch",
-        "url": "https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi"
-      },
-      "artists": [
-        {
-          "name": "Sorcha Richardson",
-          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
-        }
-      ],
-      "duration_ms": 209819,
-      "name": "Latch",
-      "url": "https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Fifty Shades Of Grey (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7cY6OtWTUsLxuSnl8balDe"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 154360,
       "name": "I'm On Fire - From \"Fifty Shades Of Grey\" Soundtrack",
       "url": "https://open.spotify.com/track/5mOmBubZnYIy9EgMZFlDlZ"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Latch",
+        "url": "https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi"
+      },
+      "artists": [
+        {
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+        }
+      ],
+      "duration_ms": 209819,
+      "name": "Latch",
+      "url": "https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH"
     }
   ],
   "unique_name": "Chill Covers",

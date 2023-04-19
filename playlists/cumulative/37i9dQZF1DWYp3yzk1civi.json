@@ -694,10 +694,28 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 208954,
       "name": "I Don't Wanna Know",
       "url": "https://open.spotify.com/track/65F61kWYZEFbw4LvzZq2nn"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Know",
+        "url": "https://open.spotify.com/album/5By0Rbv4eoDfEgYJYRya19"
+      },
+      "artists": [
+        {
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208954,
+      "name": "I Don't Wanna Know",
+      "url": "https://open.spotify.com/track/6btfY7XPG3EoeAeiuKMydL"
     },
     {
       "album": {

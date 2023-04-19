@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Charlotte Cardin
 
-1,595 songs - 3 day 9 hr 12 min
+1,597 songs - 3 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,7 +447,7 @@
 | [Fake It](https://open.spotify.com/track/0x3jopI5vshBrfiVUjiC2X) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Fake It](https://open.spotify.com/album/13n0zQiVLZ3gAj8VmMWaST) | 3:41 | 2019-05-26\* | 2019-09-14 |
 | [fall apart](https://open.spotify.com/track/3WSsxt8SeWwrMoSRVNYvLM) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D), [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [hold on I still want you](https://open.spotify.com/album/2Qw3h6IV99voV3iKBiNRT8) | 2:35 | 2021-07-16 | 2022-01-08 |
 | [Fall Auf](https://open.spotify.com/track/012iHyRvQQquWQGUTYvDxy) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [Fall Auf](https://open.spotify.com/album/1qdHQo41Vkkgs8HtMk5b96) | 3:11 | 2020-08-20 | 2021-01-15 |
-| [fall in love](https://open.spotify.com/track/3AKkLwxzhWbWjIJ9PblETv) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [fall in love](https://open.spotify.com/album/64zk1KS5iiwGuTmHgRjKrd) | 3:49 | 2023-02-10 |  |
+| [fall in love](https://open.spotify.com/track/3AKkLwxzhWbWjIJ9PblETv) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [fall in love](https://open.spotify.com/album/64zk1KS5iiwGuTmHgRjKrd) | 3:49 | 2023-02-10 | 2023-04-19 |
 | [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2022-11-15 |  |
 | [Fall in Love with You.](https://open.spotify.com/track/31MQR9rOHRXyg4J01hRY1h) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Fall in Love with You.](https://open.spotify.com/album/5nXW8DTden7uHd0eyZengc) | 2:12 | 2021-11-05 | 2022-06-18 |
 | [Fall to Pieces](https://open.spotify.com/track/6GBYnyMRtW43bVnwJQoiDA) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Fall to Pieces](https://open.spotify.com/album/1DrQpvNKmjlNasyNw47xro) | 2:47 | 2021-02-26 | 2021-08-23 |
@@ -833,7 +833,7 @@
 | [Leta](https://open.spotify.com/track/0XdYJ2mMOTRV2s7Y555Hw2) | [Intelligency](https://open.spotify.com/artist/6DdgtZYlUGNzjqkdCqvmfB) | [Leta](https://open.spotify.com/album/4mvdViANsdmhvbvHYmpunp) | 3:58 | 2021-05-03 | 2021-05-28 |
 | [Levitation](https://open.spotify.com/track/6XGIUVbIWpfblrAZDsyTSQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [Levitation](https://open.spotify.com/album/2K9USaxWlJWgPO56LR960V) | 4:00 | 2022-03-25 | 2022-04-20 |
 | [Liar](https://open.spotify.com/track/5ya0gIGrhh1NdFoWPaBAhN) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Liar](https://open.spotify.com/album/40NNI9LICPtbYSNH4n7ArU) | 3:33 | 2022-03-18 | 2022-04-21 |
-| [liar](https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [liar](https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE) | 2:14 | 2022-07-22 |  |
+| [liar](https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [liar](https://open.spotify.com/album/4OUEKQPbkU9XW93yKgcGfE) | 2:14 | 2022-07-22 | 2023-04-19 |
 | [LIBERTY](https://open.spotify.com/track/1dRXsfCfJZ0IF0L2r0IQzm) | [Havelock](https://open.spotify.com/artist/3AIAml2wCQUDhWt0BffVbA) | [LIBERTY](https://open.spotify.com/album/6l6Tfl5CTP04qhhdLfanuD) | 2:45 | 2020-02-19 | 2020-02-20 |
 | [Lie](https://open.spotify.com/track/6QcrReLyoun4xrPVsZ5OJE) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Riah](https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9) | [Lie](https://open.spotify.com/album/4v1f4kZMvCpwCSwkxC82ia) | 3:35 | 2019-05-26\* | 2019-08-13 |
 | [Lie \- Le Youth Remix](https://open.spotify.com/track/5g31YGEVbEI5gKWCey1mDZ) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Riah](https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9) | [Lie \(Le Youth Remix\)](https://open.spotify.com/album/3u1wNplNK7rdYvesrLoirN) | 3:38 | 2019-05-26\* | 2019-08-13 |
@@ -1051,6 +1051,7 @@
 | [Otherside](https://open.spotify.com/track/4YaxGF9ufb7pQrCQgYEW8m) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Otherside](https://open.spotify.com/album/192k8V2WgM8RzBGOiBHBbS) | 3:44 | 2019-05-26\* | 2020-02-19 |
 | [OTT](https://open.spotify.com/track/5vrOwoXILW22WyXkhGLciY) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [OTT](https://open.spotify.com/album/2BqtVNmZ2QjvrM8mfDb3ZG) | 2:37 | 2022-07-08 | 2022-07-16 |
 | [Our Little World](https://open.spotify.com/track/1n8JThYIQZXrCBC5pODu1y) | [NOVACUB](https://open.spotify.com/artist/5AgzqwERKzaLXw6wSL5LcO) | [Our Little World](https://open.spotify.com/album/6zouGkQjC4MMduqamE9j6V) | 3:29 | 2022-01-14 | 2022-03-11 |
+| [Out Of My League](https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Out Of My League](https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9) | 3:01 | 2023-04-14 |  |
 | [Outta This World](https://open.spotify.com/track/58Rt4LpJI0HoYuOX9ILG7L) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Outta This World](https://open.spotify.com/album/5j6iEQQKvgHYIBmusCIU2B) | 2:39 | 2021-11-05 | 2022-01-29 |
 | [Over](https://open.spotify.com/track/1fBmdI8Zwauv2pNxY0Xoc1) | [Spazz Cardigan](https://open.spotify.com/artist/7LLyICcpKkuakrz04zt9D4) | [Over](https://open.spotify.com/album/3x2fwOOygkjBmp5S0E4qGJ) | 2:55 | 2019-05-26\* | 2019-08-13 |
 | [Overdose](https://open.spotify.com/track/2ADsufYzRMSooxLFCGK3qM) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Overdose](https://open.spotify.com/album/4REUtrV4qmf8rDbtX6jqII) | 2:33 | 2022-03-11 | 2022-03-26 |
@@ -1112,6 +1113,7 @@
 | [Poison](https://open.spotify.com/track/5StQDoFQTDElQjMnfk8qIy) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [Messy](https://open.spotify.com/album/5M8iOqYh57aru97YQcqFSD) | 2:04 | 2022-11-11 |  |
 | [POSE](https://open.spotify.com/track/1Mf7qE54NoBp5hrZV2iPrX) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [POSE](https://open.spotify.com/album/2N3NGQjuCC1B7qPiY7saGG) | 3:13 | 2022-03-04 | 2022-10-22 |
 | [Post Party Trauma](https://open.spotify.com/track/1tgAuknhoJhAtNFeXf0AZu) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Post Party Trauma](https://open.spotify.com/album/6vy8LmzdyUO6r0DmqCXutl) | 3:11 | 2022-07-08 | 2022-09-03 |
+| [poster boy](https://open.spotify.com/track/2TaCG1ArsxRsUyZhqy5jei) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [poster boy](https://open.spotify.com/album/2ErL96QPbe4hXnU8K2giJr) | 2:46 | 2023-04-14 |  |
 | [Postmates](https://open.spotify.com/track/1RtPogfTYqi4r4CUP715fA) | [valentina cy](https://open.spotify.com/artist/6VSCooQeDo6An0mx1mhYyx) | [Postmates](https://open.spotify.com/album/5OfvjKaTnPrWanUVC2mjix) | 2:20 | 2021-02-23 | 2021-09-17 |
 | [Pressure Makes Diamonds](https://open.spotify.com/track/7uvbgJNZV2lDa7p9AWmJv1) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Pressure Makes Diamonds](https://open.spotify.com/album/2Er4Xcq9U8ts068V6w1EM6) | 2:41 | 2022-06-10 | 2022-07-16 |
 | [Pretend](https://open.spotify.com/track/77g8iBbVheVvdXggjAZuEa) | [okaywill](https://open.spotify.com/artist/79oW06N8yKp6hKp71ieN7L) | [Pretend](https://open.spotify.com/album/0GpE4hLxKxYFP9nLTix129) | 2:54 | 2019-05-26\* | 2021-05-18 |

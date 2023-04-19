@@ -7351,6 +7351,24 @@
     },
     {
       "album": {
+        "name": "Featuring \"Birds\"",
+        "url": "https://open.spotify.com/album/7tAnCo8qn6xIRkcDs3FEUQ"
+      },
+      "artists": [
+        {
+          "name": "Quasi",
+          "url": "https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195106,
+      "name": "Our Happiness is Guaranteed",
+      "url": "https://open.spotify.com/track/6HGlpF5HiVIjUXtCcwwNsC"
+    },
+    {
+      "album": {
         "name": "Out In The World",
         "url": "https://open.spotify.com/album/2cnAK2QpRIWKXcYR7s6uuO"
       },

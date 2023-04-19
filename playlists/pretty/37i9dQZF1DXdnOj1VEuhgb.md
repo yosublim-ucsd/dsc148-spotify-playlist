@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: BLOK3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,213,224 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,213,956 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,16 +25,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 15 | [İmparator](https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [İmparator](https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre) | 2:04 |
 | 16 | [RANDEVU](https://open.spotify.com/track/4dNXz1K0QBtcIoeoqnJw0m) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [RANDEVU](https://open.spotify.com/album/5fZsRAdCQrnttuVOYyet0b) | 2:32 |
 | 17 | [VUR](https://open.spotify.com/track/2Nt4eocAv9wi1vHshhSdpF) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [VUR](https://open.spotify.com/album/5EdPNG1RhELV1di2tYhklr) | 3:10 |
-| 18 | [Dünya](https://open.spotify.com/track/2yH4M3DAPx5E4zEWK9vE12) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Dünya](https://open.spotify.com/album/1L8vKc7MwocrgtHl0uFgt7) | 2:20 |
+| 18 | [25](https://open.spotify.com/track/4HuB9A0O1XwmwTVtTgODm8) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [25](https://open.spotify.com/album/72eWeMVkF8uTTtiKeTXdqn) | 3:30 |
 | 19 | [Diyardan Diyara](https://open.spotify.com/track/7Ebb2WheOGGauCH2wuQB55) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Diyardan Diyara](https://open.spotify.com/album/5fKySH2Y7Q2LYl0QrGtudP) | 2:29 |
-| 20 | [PHONK \(200mg\)](https://open.spotify.com/track/4cgVi9Xzj8velq5QsqNhra) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [CAFFEINEE](https://open.spotify.com/album/7ASieGwTHZPETx33e34bFV) | 1:44 |
-| 21 | [GNG Freestyle 1](https://open.spotify.com/track/1aJ2WHWbmCagZRRwKKviqB) | [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Vidos](https://open.spotify.com/album/6lsgFRN7VR38dZasW5p7To) | 2:12 |
-| 22 | [Düşüyorum Tekrar](https://open.spotify.com/track/4BK8g9i76nSG0RPe8d2XwR) | [Lia Shine](https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw) | [Düşüyorum Tekrar](https://open.spotify.com/album/5ylJtVajxWXRZB2o5MwowF) | 3:01 |
-| 23 | [Sanrı](https://open.spotify.com/track/76eX8w7u3if9mc7DkTWa6g) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Sanrı](https://open.spotify.com/album/2aw9aPehxFaGsSOF7gvokf) | 2:23 |
+| 20 | [KUM SAATİ](https://open.spotify.com/track/7dC9xFO2FYKmnRwJsa936V) | [Can7](https://open.spotify.com/artist/17AQsa7DW5ANQdRTV83cEJ) | [KUM SAATİ](https://open.spotify.com/album/28ExGabncl1Aa7nC4mrBJ8) | 1:56 |
+| 21 | [PHONK \(200mg\)](https://open.spotify.com/track/4cgVi9Xzj8velq5QsqNhra) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [CAFFEINEE](https://open.spotify.com/album/7ASieGwTHZPETx33e34bFV) | 1:44 |
+| 22 | [VAMPIR](https://open.spotify.com/track/3I1W0Hr5CLesBAmPKbREsU) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [VAMPIR](https://open.spotify.com/album/4QBczRY1FMlmk9KIEhAZJ0) | 3:36 |
+| 23 | [GNG Freestyle 1](https://open.spotify.com/track/1aJ2WHWbmCagZRRwKKviqB) | [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Vidos](https://open.spotify.com/album/6lsgFRN7VR38dZasW5p7To) | 2:12 |
 | 24 | [Randuman / Ring Ring Ring](https://open.spotify.com/track/6Q0tOMIEUSMDkwkxiDYdAu) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Randuman / Ring Ring Ring](https://open.spotify.com/album/2E0ZtQyUtB3Owq2GPTm9xo) | 1:59 |
-| 25 | [25](https://open.spotify.com/track/4HuB9A0O1XwmwTVtTgODm8) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [25](https://open.spotify.com/album/72eWeMVkF8uTTtiKeTXdqn) | 3:30 |
-| 26 | [VAMPIR](https://open.spotify.com/track/3I1W0Hr5CLesBAmPKbREsU) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [VAMPIR](https://open.spotify.com/album/4QBczRY1FMlmk9KIEhAZJ0) | 3:36 |
-| 27 | [KUM SAATİ](https://open.spotify.com/track/7dC9xFO2FYKmnRwJsa936V) | [Can7](https://open.spotify.com/artist/17AQsa7DW5ANQdRTV83cEJ) | [KUM SAATİ](https://open.spotify.com/album/28ExGabncl1Aa7nC4mrBJ8) | 1:56 |
+| 25 | [Düşüyorum Tekrar](https://open.spotify.com/track/4BK8g9i76nSG0RPe8d2XwR) | [Lia Shine](https://open.spotify.com/artist/5G3OUmDl3R4rEn9zSWZTpw) | [Düşüyorum Tekrar](https://open.spotify.com/album/5ylJtVajxWXRZB2o5MwowF) | 3:01 |
+| 26 | [Dünya](https://open.spotify.com/track/2yH4M3DAPx5E4zEWK9vE12) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Dünya](https://open.spotify.com/album/1L8vKc7MwocrgtHl0uFgt7) | 2:20 |
+| 27 | [Sanrı](https://open.spotify.com/track/76eX8w7u3if9mc7DkTWa6g) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Sanrı](https://open.spotify.com/album/2aw9aPehxFaGsSOF7gvokf) | 2:23 |
 | 28 | [ZOR](https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:51 |
 | 29 | [10MG](https://open.spotify.com/track/1MbZ6YY51arGV7mqeAb0y4) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [10MG](https://open.spotify.com/album/09Tg4f9e4j80dkIcwJ5YI4) | 2:21 |
 | 30 | [YALA DEDI YALAMA](https://open.spotify.com/track/3IUfGKVNE3QN1tePTN1bxF) | [yungcihad](https://open.spotify.com/artist/0jH6MFIcFJ9LpvHJ8xws6d), [Qimp](https://open.spotify.com/artist/2WfHd8ywTD4968YzTSmzF9), [SWIRF](https://open.spotify.com/artist/1PDcVWGthnDkYv57hoQSpG) | [YALA DEDI YALAMA](https://open.spotify.com/album/3Vm3nBEbl08PHep0rCmWx7) | 2:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [Gelmelisin](https://open.spotify.com/track/5E8dUYbcE3sAfwKcVOyp0h) | [Bedo](https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si) | [Gelmelisin](https://open.spotify.com/album/27PlkPSPZMyWRCs4hdt0Qc) | 3:08 |
 | 50 | [Kalbe Zarar](https://open.spotify.com/track/5R5k2rMxjpaBoNyh0wAh4i) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [Kalbe Zarar](https://open.spotify.com/album/1JuRmAeLvCfdQSilolTdhy) | 2:07 |
 
-Snapshot ID: `MTY4MTc0MjA0OSwwMDAwMDAwMDU4ZmYwNTg4MWQ4NjM1ZDJkZDdiNTI1YzFlMzRlZDAy`
+Snapshot ID: `MTY4MTgwMjYyMCwwMDAwMDAwMDBiNjEzYTc0MmQyOGU1ODEzY2U3ODA0OWY4NmU5MDdm`

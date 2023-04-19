@@ -2,9 +2,9 @@
 
 ### [v o K a l](https://open.spotify.com/playlist/37i9dQZF1DX8eqay1FtdMm)
 
-> Meet the vocalists representing Korea! \(Cover:Aylah\(아일라\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
+> Meet the vocalists representing Korea! \(Cover:SOLE & Sung Si Kyung\(쏠 & 성시경\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-399 songs - 1 day 2 hr 4 min
+400 songs - 1 day 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [An Old Love Story](https://open.spotify.com/track/3iYFNaPKm3FeG6M8lhpl0i) | [Kriesha Chu](https://open.spotify.com/artist/3zlxVfcuV4nPjcvTvlPWmZ) | [CS NUMBERS VOL.11](https://open.spotify.com/album/0UofOeMBObn4l7lAwU6dHf) | 3:49 | 2022-03-29 | 2022-04-21 |
 | [An Unfamiliar Day](https://open.spotify.com/track/4Q9mTqVTAHmkeJMsKZo2EZ) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [DOCTOR LAWYER \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6vlqa9cpCWCv56aMR0YwHb) | 4:04 | 2022-06-20 | 2023-01-09 |
 | [And The End](https://open.spotify.com/track/5g4Gu5pc7STz901CngD3JC) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [And The End](https://open.spotify.com/album/4Cd5Q17VMgm5OKSqLJvoQJ) | 3:48 | 2022-05-13 | 2022-07-28 |
-| [Anomaly](https://open.spotify.com/track/5DvxeABzpKJ5wrQ9PNYzAN) | [Aylah](https://open.spotify.com/artist/1chOut2a9FJiw0pQFHsCBP) | [Anomaly](https://open.spotify.com/album/1pYNoczdbcFbN7udLlB1t0) | 3:01 | 2023-04-07 |  |
+| [Anomaly](https://open.spotify.com/track/5DvxeABzpKJ5wrQ9PNYzAN) | [Aylah](https://open.spotify.com/artist/1chOut2a9FJiw0pQFHsCBP) | [Anomaly](https://open.spotify.com/album/1pYNoczdbcFbN7udLlB1t0) | 3:01 | 2023-04-07 | 2023-04-19 |
 | [Anymore \(Feat\. Whee In of MAMAMOO\)](https://open.spotify.com/track/72X2j4RIxqhho6A60i3Uk1) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [RETRO](https://open.spotify.com/album/4SeP6ESUtWAfAXNKJPqt8N) | 4:18 | 2021-12-20 | 2022-10-25 |
 | [Around You](https://open.spotify.com/track/1FDmOfHoU1hXFxHjWMPObq) | [Yeon Kyoo Seong](https://open.spotify.com/artist/0HuGdUxGEptCnucoZr32rH) | [Around You](https://open.spotify.com/album/28DDo4pRZosbVFpZxGnJbn) | 3:59 | 2022-07-04 | 2022-07-23 |
 | [Autumn Breeze \(The Forbidden Marriage X Han Dong Geun\)](https://open.spotify.com/track/1o1VpJ8DKeVzbWT0WnSLFK) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Autumn Breeze \(The Forbidden Marriage X Han Dong Geun\)](https://open.spotify.com/album/4cBY8PVf0xqqnWsAiSrIGG) | 3:28 | 2021-12-27 | 2022-07-24 |
@@ -236,6 +236,7 @@
 | [Myo \(Cat\)](https://open.spotify.com/track/2zlU79zIa3abFvGheZjI7Z) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Myo \(Cat\)](https://open.spotify.com/album/5PGc5EzY75rJKfVpQ6s0PT) | 3:37 | 2022-08-04 |  |
 | [Natural](https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:24 | 2021-12-20 |  |
 | [Need You \(Outro\)](https://open.spotify.com/track/1cezqft1vwwPCmHlkydESz) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Need You \(Outro\)](https://open.spotify.com/album/0MrrGoUO9vibHBfeVGD5Aw) | 4:05 | 2022-02-10 | 2022-04-21 |
+| [Need you \(With Sung Si Kyung\)](https://open.spotify.com/track/0WhWueHRzb6ctQ4QySvFeD) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Need you \(With Sung Si Kyung\)](https://open.spotify.com/album/4LsFiCmcvpuz0yD6BoSBpL) | 4:00 | 2023-04-18 |  |
 | [Nights Into Days \(Prod\. by Naul\)](https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Naul <Ballad Pop City>](https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ) | 4:20 | 2023-02-02 |  |
 | [No love](https://open.spotify.com/track/02r3fCsVlcFWgMZG9lGTz6) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [No love](https://open.spotify.com/album/4bgDVPwibaY66Ej45yzkyr) | 3:58 | 2023-03-27 | 2023-04-01 |
 | [No place to hide](https://open.spotify.com/track/60zGjGZpEd4EA5EJ6t1Zui) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [No place to hide](https://open.spotify.com/album/6lmLTu9uqEIE7RdS2bWgSz) | 3:39 | 2021-12-27 | 2022-07-17 |

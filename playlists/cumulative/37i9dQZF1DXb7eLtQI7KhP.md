@@ -4,7 +4,7 @@
 
 > Soft and soothing ambient piano music to help you meditate and find inner peace.
 
-131 songs - 6 hr 6 min
+132 songs - 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Shy Paws](https://open.spotify.com/track/6yYoUYbduiDFv2Ed8U6GOE) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Shy Paws](https://open.spotify.com/album/1ecV4dnLbT8ERHpfWffBE5) | 2:30 | 2022-04-28 |  |
 | [Slow Release](https://open.spotify.com/track/0BhIPUDcsFG5fYr9uOSd35) | [Halcyon Fields](https://open.spotify.com/artist/5iDVGLma1wDxCbA5gtS6cN) | [Slow Release](https://open.spotify.com/album/2069wPcp6sTs8ZgS7xoXgQ) | 3:24 | 2023-03-29 |  |
 | [Snow beats](https://open.spotify.com/track/48jvCEHvpV7oexBYtvqLBR) | [Xiada](https://open.spotify.com/artist/56Cs4LcuNdI6rmMF70QrOc) | [Snow beats](https://open.spotify.com/album/1FZHcB8BTiupHAoKfOMLAj) | 3:25 | 2023-02-06 |  |
+| [Solstice](https://open.spotify.com/track/0ewgB7uNpugFobJDS8uhmg) | [Cristoforo Giordano](https://open.spotify.com/artist/5kCSdIBChGo0GjOEuyjb40) | [Solstice](https://open.spotify.com/album/4by0Ro40YozZSueywaBqyr) | 2:53 | 2023-04-18 |  |
 | [Sonhando](https://open.spotify.com/track/1qexZcBQUxrTM3RGeLU7Nr) | [Nessa Manuel](https://open.spotify.com/artist/3vD11eZMv9wyggR6749dCd) | [Sonhando](https://open.spotify.com/album/5qYW8saFQjour2bahZCw1T) | 3:08 | 2022-04-28 |  |
 | [Sopravvivendo](https://open.spotify.com/track/1RwI9IawkVnalfnHSVJyCy) | [Chiara Ambrosino](https://open.spotify.com/artist/0imVbuMRxysJRiLNiNCsva) | [Sopravvivendo](https://open.spotify.com/album/6UdQ4UWorZwPEcgRKAQ0Ot) | 2:03 | 2022-04-28 |  |
 | [Spirit In Nature](https://open.spotify.com/track/0yESmRQrIBwPooYVwz3vq7) | [Universal Balance](https://open.spotify.com/artist/3RMsxLGaCe4mvHEzJER31q) | [Hope](https://open.spotify.com/album/25RZ4UlU87BazPvvU23qQ5) | 3:04 | 2022-04-28 |  |

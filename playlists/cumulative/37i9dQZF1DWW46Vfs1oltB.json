@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover:\bAgust D))",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover:\bDok2, Blacknut, Jimmy Page, Blase, SMUGGLERS))",
   "name": "KrOWN",
   "tracks": [
     {
@@ -902,7 +902,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 293215,
       "name": "AJUSHI",
       "url": "https://open.spotify.com/track/7mD6UISuxA2uqWAQh7oSjV"
@@ -2235,6 +2235,24 @@
     },
     {
       "album": {
+        "name": "BORA",
+        "url": "https://open.spotify.com/album/6F3E4jtt1wniAurHex5U45"
+      },
+      "artists": [
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "BORA",
+      "url": "https://open.spotify.com/track/2lDsw51m3CdsfOiy0aKYt3"
+    },
+    {
+      "album": {
         "name": "Meantime",
         "url": "https://open.spotify.com/album/73Qw2FLdzCRM6lCIbk9tSQ"
       },
@@ -2374,7 +2392,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 167626,
       "name": "Break It",
       "url": "https://open.spotify.com/track/4Az4kzsnrUNSeolqUKHGJN"
@@ -2544,6 +2562,24 @@
       "duration_ms": 184480,
       "name": "Bubble Gum",
       "url": "https://open.spotify.com/track/3JrvloWdt3aQNvHz9eGTqc"
+    },
+    {
+      "album": {
+        "name": "DIFF",
+        "url": "https://open.spotify.com/album/6mU3As6giMDJU8kV6Hx65B"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124026,
+      "name": "Buck",
+      "url": "https://open.spotify.com/track/1BCONvj86ada7Wbr7v0irk"
     },
     {
       "album": {
@@ -5938,7 +5974,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 177624,
       "name": "Frostbites",
       "url": "https://open.spotify.com/track/3Uz0QlGAwyvm7ifHj3u3Td"
@@ -6913,6 +6949,28 @@
     },
     {
       "album": {
+        "name": "Green",
+        "url": "https://open.spotify.com/album/594V3LHu3YwGnOJsGGKmSW"
+      },
+      "artists": [
+        {
+          "name": "BANG YONGGUK",
+          "url": "https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF"
+        },
+        {
+          "name": "SOOVI",
+          "url": "https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189013,
+      "name": "Green (feat. SOOVI)",
+      "url": "https://open.spotify.com/track/5tFtRGlr5uaqMQmMtXZjXe"
+    },
+    {
+      "album": {
         "name": "FANATIIC",
         "url": "https://open.spotify.com/album/6nDRHmiXqrBOv0Ny6d87kM"
       },
@@ -7022,6 +7080,32 @@
       "duration_ms": 225666,
       "name": "Grim THUG (feat. punchnello)",
       "url": "https://open.spotify.com/track/3XqHDWD2I9xX1hoFcxc98u"
+    },
+    {
+      "album": {
+        "name": "Reaching Out",
+        "url": "https://open.spotify.com/album/2tW831O7dHCrZOBjwDvaub"
+      },
+      "artists": [
+        {
+          "name": "Spray",
+          "url": "https://open.spotify.com/artist/08yoNApAYvtzOK5P3qZKw8"
+        },
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Grindin\u2032 All Day (With DON MALIK & Kid Milli)",
+      "url": "https://open.spotify.com/track/5ObAybjvinwI5QKEL3gKQP"
     },
     {
       "album": {
@@ -7844,10 +7928,36 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 172250,
       "name": "HOW U FEEL? (feat. Woo)",
       "url": "https://open.spotify.com/track/2c3D51aioWeAIjdoj90it3"
+    },
+    {
+      "album": {
+        "name": "FLEEKY SEASON",
+        "url": "https://open.spotify.com/album/2j9zs9bC1zlUylBIVzg2a9"
+      },
+      "artists": [
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        },
+        {
+          "name": "Fleeky Bang",
+          "url": "https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172960,
+      "name": "How We Came (Feat. pH-1)",
+      "url": "https://open.spotify.com/track/5cPqNrv1nXKvpQEjia1eNF"
     },
     {
       "album": {
@@ -8196,7 +8306,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 138591,
       "name": "I Feel It So Close (Feat. VEKOEL)",
       "url": "https://open.spotify.com/track/5ViNfkZnAbHKUv1uD7aCJ2"
@@ -10793,6 +10903,32 @@
     },
     {
       "album": {
+        "name": "Reaching Out",
+        "url": "https://open.spotify.com/album/2tW831O7dHCrZOBjwDvaub"
+      },
+      "artists": [
+        {
+          "name": "Spray",
+          "url": "https://open.spotify.com/artist/08yoNApAYvtzOK5P3qZKw8"
+        },
+        {
+          "name": "Blase",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "Mans Like (With Blase & Coogie)",
+      "url": "https://open.spotify.com/track/230FdOJ8YdjzGk6qiDHMCA"
+    },
+    {
+      "album": {
         "name": "Independence War Song 2022",
         "url": "https://open.spotify.com/album/1IrHAmAHmCR3k4XWNBal5K"
       },
@@ -11086,6 +11222,36 @@
       "duration_ms": 276250,
       "name": "Melting Point (Feat. Samuel Seo)",
       "url": "https://open.spotify.com/track/0RaxRKVWQTnZ31L4LfUGXt"
+    },
+    {
+      "album": {
+        "name": "OFF THE RECORD",
+        "url": "https://open.spotify.com/album/6KG8PASl8IDYYQgNQQHsNR"
+      },
+      "artists": [
+        {
+          "name": "A-chess",
+          "url": "https://open.spotify.com/artist/5LJSZWDkqtPtH3AmtxGduR"
+        },
+        {
+          "name": "Yonge Jaundice",
+          "url": "https://open.spotify.com/artist/0ESfTnqcM5os6xjx05jjYT"
+        },
+        {
+          "name": "DEEPFLOW",
+          "url": "https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z"
+        },
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219529,
+      "name": "Members Only (Feat. Deepflow, Owen)",
+      "url": "https://open.spotify.com/track/6HynuJZz3ZhnaQDdftdqH7"
     },
     {
       "album": {
@@ -11869,6 +12035,24 @@
     },
     {
       "album": {
+        "name": "Fox and the City",
+        "url": "https://open.spotify.com/album/30kFu1nhTCBZuu9Sk0HtVs"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162653,
+      "name": "muse",
+      "url": "https://open.spotify.com/track/2Pc2vLBzVmhHuTMpxYfwZq"
+    },
+    {
+      "album": {
         "name": "Inflection Point",
         "url": "https://open.spotify.com/album/4QB8osrrZHap79ctNcMqRD"
       },
@@ -12182,7 +12366,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 118309,
       "name": "NETFLIX",
       "url": "https://open.spotify.com/track/73La7PR5409uuL2uzQKzDi"
@@ -14572,7 +14756,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 165361,
       "name": "rhythm of the city",
       "url": "https://open.spotify.com/track/76bK4fjOmHUQStlH1n9NVq"
@@ -15160,7 +15344,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 165355,
       "name": "Save me",
       "url": "https://open.spotify.com/track/540dyWKcC3fJPkmOKm98rl"
@@ -17474,7 +17658,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 184421,
       "name": "TikiTaka",
       "url": "https://open.spotify.com/track/2l7LuP74607k2A1m2hazN4"
@@ -19210,7 +19394,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 242500,
       "name": "WITCH (Feat. Jay Park, So!YoON!) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/1v520W6rEa0nB2vvqAxnU3"
@@ -19590,7 +19774,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 263378,
       "name": "Yng & Rich Freestyle",
       "url": "https://open.spotify.com/track/4UWrVolNiuyi5IZd6BahUp"
@@ -19848,7 +20032,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 189574,
       "name": "\uac70\uc6b8 Mirror (feat. SINCE, CHOILB)",
       "url": "https://open.spotify.com/track/346s2Zke1wZJFkqgHVQVpR"

@@ -4,7 +4,7 @@
 
 > Clear your mind with soothing new age guitar.
 
-141 songs - 7 hr 2 min
+142 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Albizia](https://open.spotify.com/track/0d8caG6gxZ9u0TF6XUcz2v) | [Zane Cassidy](https://open.spotify.com/artist/14VSkhVnQy04O8rEQdsyCC) | [Fais de beaux rêves](https://open.spotify.com/album/4LWaeYj3BEJqSOcJ5Blnxo) | 2:22 | 2022-10-21 |  |
 | [Aleph](https://open.spotify.com/track/4YxflJfXcejk4dMsCCjVQ5) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Aleph](https://open.spotify.com/album/3RVeSq0URHjXScaMXDCMJn) | 3:02 | 2022-02-28 |  |
 | [Angelica](https://open.spotify.com/track/33QdFnE3AIsQZaGZZWYMEo) | [Lionheart](https://open.spotify.com/artist/7sHTXnqmYqCECjKKb2iqWS) | [Soil of the Earth](https://open.spotify.com/album/02U4NcvO35hnPWETMhAKSE) | 4:38 | 2022-02-28 | 2022-09-03 |
-| [Aspettami](https://open.spotify.com/track/59TaH0JXyu19Xt01RTF4DF) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Aspettami](https://open.spotify.com/album/3lZaYQwsHHK9Y4o0hdD80r) | 2:05 | 2022-12-20 |  |
+| [Aspettami](https://open.spotify.com/track/06eKIv3GcoevTNVVyldzWw) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Aspettami](https://open.spotify.com/album/0M7H8emADLzJH0cEOJ0zSB) | 2:05 | 2023-04-14 |  |
+| [Aspettami](https://open.spotify.com/track/59TaH0JXyu19Xt01RTF4DF) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Aspettami](https://open.spotify.com/album/3lZaYQwsHHK9Y4o0hdD80r) | 2:05 | 2022-12-20 | 2023-04-19 |
 | [Astral Body](https://open.spotify.com/track/17yuGlOR1mCfOOjdu1XmqH) | [Michel Mondrain](https://open.spotify.com/artist/4UwUTmJanOQvwAGmUKkewh) | [Astral Body](https://open.spotify.com/album/7GwWItskLCrgRjyEwbKzhZ) | 3:07 | 2022-02-28 |  |
 | [Aurora](https://open.spotify.com/track/50FEe1nYGhnjMk4XEkh3HQ) | [Savino Fiorelli](https://open.spotify.com/artist/3UhmIVKpLg4zkoyOTuduU4) | [Aurora](https://open.spotify.com/album/03SWBRDS5HAEMKQCKp1dew) | 2:55 | 2022-02-28 |  |
 | [Autumn](https://open.spotify.com/track/0ansjnBkSFKDqlQ0KaTydJ) | [Kee Marcello](https://open.spotify.com/artist/5yBVDQGDI58X71bTYrle3o), [Freddie Hultana](https://open.spotify.com/artist/2kbBom27w5NJydUVB2SonR) | [The Four Seasons](https://open.spotify.com/album/6ekmiW4L7zlzHgAqWKbImP) | 2:03 | 2022-02-28 |  |

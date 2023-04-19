@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 
 > Poslechněte si ženy z Česka a Slovenska na plnou hlasitost\. Cover: Laura Weng
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,425 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,434 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 26 | [Mamo miri](https://open.spotify.com/track/1SxaR2y94iRFUW6YH97fb5) | [Zea](https://open.spotify.com/artist/2xCPOEeUPG2990Dt2XbHnz) | [Mamo miri](https://open.spotify.com/album/16JA8hC7MZyKre8rx0S63c) | 2:11 |
 | 27 | [Souls in Need](https://open.spotify.com/track/3lHTmRD4msnNo2xECzDqL1) | [&Tilly](https://open.spotify.com/artist/6ywghg7NMnYNOY8HVATu1N) | [Souls in Need](https://open.spotify.com/album/0mZBh764LtiKJUKbgTaQwZ) | 3:21 |
 | 28 | [Blind Tomorrow](https://open.spotify.com/track/7bHzluTgD7IIIewUklaojd) | [Zuzana Mikulcova](https://open.spotify.com/artist/3DuhjH3LQhXz6nV3rNu7pd), [Graeme Mark Donaldson](https://open.spotify.com/artist/6NMXaCGCG0ug4d111cNDhi) | [Blind Tomorrow](https://open.spotify.com/album/5tPoBNWty5adBjeLQIC4B0) | 3:52 |
-| 29 | [Já Tě Mám](https://open.spotify.com/track/57OcPTvlX94sx5HmCXyacw) | [Anna Vaverková](https://open.spotify.com/artist/6g9ensOdCVDvhlP4pjrShZ) | [Já Tě Mám](https://open.spotify.com/album/1t4WJ31sxO05xTsPdtMdNg) | 3:28 |
+| 29 | [Já Tě Mám](https://open.spotify.com/track/77pGE00XXGXGxLdxwktGqx) | [Anna Vaverková](https://open.spotify.com/artist/6g9ensOdCVDvhlP4pjrShZ) | [Já Tě Mám](https://open.spotify.com/album/0fJ5Sp4v9JydU0WoSirK1m) | 3:28 |
 | 30 | [Fialová mood](https://open.spotify.com/track/3jujCYeVeByXGW2rBnEfOn) | [DIANA](https://open.spotify.com/artist/0mtxg8pzPsL6qZ7aoK0yBX) | [Fialová mood](https://open.spotify.com/album/416qkcu3wyMlW4l4QmgWzU) | 2:22 |
 | 31 | [Born Perfect](https://open.spotify.com/track/7KZwZMrLYazdbvr8VX15HC) | [Natálie Grossová](https://open.spotify.com/artist/4vzgXODPnHlhSXNlUChzxa) | [Born Perfect](https://open.spotify.com/album/3PELAUYJLTMUZlrqCk8ITL) | 2:45 |
 | 32 | [Instincts](https://open.spotify.com/track/601ysvmx4INBIwtAtGgS0b) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [Instincts](https://open.spotify.com/album/6iVB9kSoSPQUklb6wJnBcg) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jr2ABRSBbi.md) - [plain]
 | 49 | [Different Kind](https://open.spotify.com/track/6pUQYrkUf9G8MXdEMOW4pr) | [Nikita Kingston](https://open.spotify.com/artist/3AQCll40tEdIjzCdEOQHXQ) | [Different Kind](https://open.spotify.com/album/3eAjTqG1LTOQMsJxQezFmh) | 3:12 |
 | 50 | [Pohoda jazz](https://open.spotify.com/track/76FKtbVayqE0BXUCm2j0rm) | [Naty Hrychová](https://open.spotify.com/artist/3IdBTyWXb31wzm0OYIZVP3) | [Pohoda jazz](https://open.spotify.com/album/3IrYmzYAiUT9C6JkzdDmp3) | 3:04 |
 
-Snapshot ID: `MTY4MDY4MzgwOCwwMDAwMDAwMDMwODE5OWYzNGQ0YTExM2E1ZjAwZTk0ZmJlOGQxMzQ4`
+Snapshot ID: `MTY4MDY4MzgwOCwwMDAwMDAwMDEyZTE2NjJjN2NhZDdmYTM2ZGUxYzFjZWU3ODYyZTMw`

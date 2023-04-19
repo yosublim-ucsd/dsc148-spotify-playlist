@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: Left to Suffer
 
-456 songs - 1 day 5 hr 44 min
+457 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Erotic Depravity](https://open.spotify.com/track/4c0UaGIbiDKUOQ9nPeWvVs) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Erotic Depravity](https://open.spotify.com/album/5MNDKNgVzfkVrcsVzWLLPS) | 2:54 | 2021-12-17 | 2022-07-12 |
 | [Essence](https://open.spotify.com/track/5ycHtWHxS0LJ1hOXEYGu4C) | [Drown in Sulphur](https://open.spotify.com/artist/4FFseinIReANTJHY36gSwI) | [Essence](https://open.spotify.com/album/68UG9A5KTjekGEkMlSB2IN) | 4:01 | 2021-12-17 | 2022-07-29 |
 | [Eternal Kingdoms, Pt\. 1](https://open.spotify.com/track/0ieUAXNchbeeMZMMxM2Slu) | [Ingested](https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m) | [Call of the Void](https://open.spotify.com/album/1wmQtsU7BQxYk9xKSicyFM) | 3:57 | 2021-12-17 | 2022-07-28 |
+| [Eulogy of Ashes](https://open.spotify.com/track/2vC5N2LWZS6tW3bi7NvhS7) | [Vulvodynia](https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J) | [Eulogy of Ashes](https://open.spotify.com/album/6ONX9NbHxKJMPIbflN7Kff) | 4:03 | 2023-04-14 |  |
 | [Everything Has Been Read](https://open.spotify.com/track/6gReyVGau1E5dK06bppV8f) | [Drown in Sulphur](https://open.spotify.com/artist/4FFseinIReANTJHY36gSwI) | [Sulphur Cvlt](https://open.spotify.com/album/2xBOvDwOXI5I3zviRQzb92) | 4:19 | 2021-12-17 | 2022-07-28 |
 | [Exiled](https://open.spotify.com/track/3nf8onNmC1LSOWISZIusa6) | [FRCTRD](https://open.spotify.com/artist/7z9n8Q0icbgvXqx1RWoGrd) | [Exiled](https://open.spotify.com/album/4KPBLz4aGh3g8edhS1gVBq) | 4:22 | 2021-12-31 | 2022-07-24 |
 | [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 | 2021-12-17 | 2023-04-15 |
@@ -401,7 +402,7 @@
 | [The Ocean Breather](https://open.spotify.com/track/7zTWCx4lZeoNkrOwK9moDf) | [Assemble the Chariots](https://open.spotify.com/artist/6MWE8Xn602R4dRfbmJaNRJ) | [The Celestials](https://open.spotify.com/album/19QXSfhvCZ4QxAJBSwSjZm) | 5:08 | 2021-12-31 | 2022-07-13 |
 | [The Offering](https://open.spotify.com/track/7GFn2lantoamiDeQXir7Oy) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0) | [The Offering](https://open.spotify.com/album/10rCu3ngUJo4967zPEepKz) | 3:59 | 2021-12-17 | 2022-07-29 |
 | [The Orphan](https://open.spotify.com/track/33gtSwgOxlxHLqAQftK3IW) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [The Orphan](https://open.spotify.com/album/6Ht4AEKGQHhDst26WlWy62) | 6:23 | 2022-03-11 |  |
-| [The Price of Grace](https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [The Price of Grace](https://open.spotify.com/album/3kolLEZ68kVuXA1gwO0TJd) | 4:07 | 2021-12-17 |  |
+| [The Price of Grace](https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [The Price of Grace](https://open.spotify.com/album/3kolLEZ68kVuXA1gwO0TJd) | 4:07 | 2021-12-17 | 2023-04-19 |
 | [The Rot Within](https://open.spotify.com/track/0XYHZHX4evrMEPNzHnaZHF) | [Bound in Fear](https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL), [Alex Teyen](https://open.spotify.com/artist/6BOFplMWu1WytZSucgGHVf) | [The Rot Within](https://open.spotify.com/album/1Fb70yxP3v8xGugOWiU38A) | 5:08 | 2021-12-17 | 2022-07-29 |
 | [The Sabbath](https://open.spotify.com/track/7HL0huoU88eTvZppMElAD6) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [The Sabbath](https://open.spotify.com/album/1ofDlelW6YGKcFO7A9qSsF) | 4:26 | 2021-12-31 | 2022-07-28 |
 | [The Sea of Tragic Beasts](https://open.spotify.com/track/38CoewUWWrkI3LUnA6IvdY) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [The Sea of Tragic Beasts](https://open.spotify.com/album/7gHcRen2sOUKx2POnezfLT) | 4:24 | 2021-12-17 | 2022-07-29 |

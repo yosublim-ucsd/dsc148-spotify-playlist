@@ -4,13 +4,13 @@
 
 > Timeless Pakistani hits, all in one place\. Cover \- Nusrat Fateh Ali Khan
 
-202 songs - 16 hr 26 min
+204 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aa Jana](https://open.spotify.com/track/07bqsfUgjDqzi67EVsa6r8) | [Najam Sheraz](https://open.spotify.com/artist/66SvSqaZI1DtUpbwxUHNhP) | [Menu Tere Naal](https://open.spotify.com/album/0s20HviKOwDOdPauXzpvrm) | 4:57 | 2021-08-16 | 2022-07-29 |
 | [Aadat](https://open.spotify.com/track/6KUlOsfQ6N72BIu1Yl1q9y) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Kalyug \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3z8LjM95Ft3bWoT9BfEo6G) | 5:33 | 2021-08-16 |  |
-| [Aap Ki Yaad](https://open.spotify.com/track/5fc9Jer5jSPSPBPE4xgnqd) | [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Parastish](https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT) | 5:11 | 2021-08-16 |  |
+| [Aap Ki Yaad](https://open.spotify.com/track/5fc9Jer5jSPSPBPE4xgnqd) | [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Parastish](https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT) | 5:11 | 2021-08-16 | 2023-04-19 |
 | [Adhoora](https://open.spotify.com/track/6J3VpTaMblKPuDNKAudaUE) | [Rushk](https://open.spotify.com/artist/0M12q0sYgM4yYWBAf7rqME) | [Sawal](https://open.spotify.com/album/1maNCNkafMkUNxRVvt5iqW) | 5:32 | 2021-08-16 | 2022-07-27 |
 | [Aicha](https://open.spotify.com/track/1cRuI7DN1z2FO3boRPmagR) | [Outlandish](https://open.spotify.com/artist/5tqMW5dSAlvh0GvgD3XfDy) | [Bread & Barrels Of Water](https://open.spotify.com/album/3cowfTrvTm7ZBJhBO0ZYPU) | 4:35 | 2021-08-16 |  |
 | [Aisi Taisi](https://open.spotify.com/track/0jVdnDCPd7A7WV0Sov8Bxi) | [Azal](https://open.spotify.com/artist/24qQxQIbBgr0QrCCrz3bwv) | [Road To Infinity](https://open.spotify.com/album/61Yt09pmZG2jjkffOKt7kk) | 5:07 | 2021-08-16 | 2022-07-27 |
@@ -79,6 +79,7 @@
 | [Ik Din Aye Ga](https://open.spotify.com/track/3wUreem0PICuBnFN8nfvz7) | [Jal \-The Band](https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8) | [Aadat](https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5) | 4:18 | 2021-08-16 |  |
 | [Insaan](https://open.spotify.com/track/29XITUkEsoV6eyOymJr3Me) | [Mizraab](https://open.spotify.com/artist/0h96R0yP58SpvbS6hMrZJe) | [Maazi Haal Mutaqbil](https://open.spotify.com/album/5ZB9hCtbNx07Che3yQOV4I) | 6:57 | 2021-08-16 | 2022-07-27 |
 | [Intezaar](https://open.spotify.com/track/7HlCsOXMNxrFfoaccPsimt) | [Junaid Jamshed](https://open.spotify.com/artist/2DmMcw1UxHSzAEFrMY3r2D) | [Dil Ki Baat](https://open.spotify.com/album/5amY0cWsD0XmPL5D2xzHE9) | 5:08 | 2021-08-16 | 2022-07-25 |
+| [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 | 2023-04-18 |  |
 | [Iss Baar Milo](https://open.spotify.com/track/2KLSJ69F54GDNtuj6p0jIx) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Rung](https://open.spotify.com/album/6hyh4qo5rt47cea7PXfO7s) | 4:38 | 2021-08-16 | 2022-07-25 |
 | [Izhar](https://open.spotify.com/track/6wDFgRCGUEO4l5hgUc6hmy) | [Mizraab](https://open.spotify.com/artist/0h96R0yP58SpvbS6hMrZJe) | [Maazi Haal Mutaqbil](https://open.spotify.com/album/5ZB9hCtbNx07Che3yQOV4I) | 3:35 | 2021-08-16 | 2022-07-24 |
 | [Jaanay Kyoon](https://open.spotify.com/track/0dLTxckJ1BihKit4jYUxMI) | [Aaroh](https://open.spotify.com/artist/0FkdHz5RBdvLUTBf97WRSo) | [Raag Neela](https://open.spotify.com/album/6jxi9QkkeaykE0tcoATEjk) | 4:22 | 2021-08-16 | 2022-07-28 |
@@ -95,6 +96,7 @@
 | [Kaho Na](https://open.spotify.com/track/4edlM5y2beb3s48XvmbDLU) | [Junaid Jamshed](https://open.spotify.com/artist/2DmMcw1UxHSzAEFrMY3r2D) | [Dil Ki Baat](https://open.spotify.com/album/5amY0cWsD0XmPL5D2xzHE9) | 6:09 | 2021-08-16 | 2022-07-19 |
 | [Kaise Gaoun Mein](https://open.spotify.com/track/3oL80Ad5AcgT27GjiQEEys) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Ishq](https://open.spotify.com/album/1HECWEoUv3vVkst0v6BoWc) | 4:45 | 2021-08-16 | 2022-07-27 |
 | [Kamlee](https://open.spotify.com/track/2KXKkDrEg6EwO5VZKQQYSZ) | [Arif Lohar](https://open.spotify.com/artist/1zs5AOsqD2b0YfmGNfWni4) | [Jugni](https://open.spotify.com/album/7iBuxFdkVH82S9xqwWrYj7) | 4:11 | 2021-08-16 | 2022-07-28 |
+| [Kana Yaari](https://open.spotify.com/track/7MTUN4bpk7Im3Sxz9oCULf) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9), [Eva B](https://open.spotify.com/artist/6uKDXHJSM9VI5H6FhONorO), [Wahab Bugti](https://open.spotify.com/artist/2IBpBrzMIaeeXJnzfJIVLA) | [Kana Yaari](https://open.spotify.com/album/6DRq94aOT9Ml8WhJ4PzNGT) | 3:46 | 2023-04-18 |  |
 | [Khaireyan De Naal](https://open.spotify.com/track/0WxdqHRbdQ1R83ZvZ0qerN) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Tabeer](https://open.spotify.com/album/6zvlSsksjFjshGKJm3lJWD) | 4:36 | 2021-08-16 |  |
 | [Khalla](https://open.spotify.com/track/0yUtVDmbhSmvJmI27SWfMG) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Peeli Patti Aur Raja Jani Ki Gol Dunya](https://open.spotify.com/album/1ulFNPGcDNipaa6e1SbHsj) | 3:19 | 2021-08-16 | 2022-07-28 |
 | [Khamaj](https://open.spotify.com/track/33yJbICPApS1o2lJi2w4Rq) | [Fuzon](https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Fuzon](https://open.spotify.com/album/2Rywbx5yGiaZfvwDilTSZS) | 6:55 | 2021-08-16 |  |
@@ -136,7 +138,7 @@
 | [Nach Punjaban](https://open.spotify.com/track/34c8iU3Td1eY3mkCxOC53t) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [Nach Punjaban](https://open.spotify.com/album/2zOGLZcx5HA7RD1CUpU7E4) | 4:27 | 2021-08-16 |  |
 | [Nach Punjaban](https://open.spotify.com/track/5ay3kGvVn7RkUdaFB3UQB0) | [Ibrar\-Ul\-Haq](https://open.spotify.com/artist/391X9u4uNdXQy9pp0aVVaS), [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [Nach Punjaban](https://open.spotify.com/album/1Ug4Zb8FCtDriacXAnxSmT) | 4:27 | 2021-08-16 | 2022-07-29 |
 | [Nahin Hah Yeh Pyaar](https://open.spotify.com/track/3q9LO3ZkXPVrodLDqqFxPo) | [Haroon](https://open.spotify.com/artist/4S0WPsBEcic5O5Dv2aAPvM) | [Haroon Ka Nasha](https://open.spotify.com/album/2VCx3ekibEp0409xfWrzOK) | 3:38 | 2021-08-16 | 2022-07-29 |
-| [Nahin Hai Yeh Pyar](https://open.spotify.com/track/565wNlsWcWTAYXdtvLys1u) | [Haroon](https://open.spotify.com/artist/4S0WPsBEcic5O5Dv2aAPvM) | [Haroon Ka Nasha](https://open.spotify.com/album/6EaOP1xX92OLK2IzOmNPhC) | 3:38 | 2021-08-16 |  |
+| [Nahin Hai Yeh Pyar](https://open.spotify.com/track/565wNlsWcWTAYXdtvLys1u) | [Haroon](https://open.spotify.com/artist/4S0WPsBEcic5O5Dv2aAPvM) | [Haroon Ka Nasha](https://open.spotify.com/album/6EaOP1xX92OLK2IzOmNPhC) | 3:38 | 2021-08-16 | 2023-04-19 |
 | [Najane Kyun](https://open.spotify.com/track/54i9EEnoUyvgTaKLeqYCU6) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Dhaani](https://open.spotify.com/album/1JV7W8JrdR7j6LRkAAk5cw) | 5:05 | 2021-08-16 | 2022-07-21 |
 | [Neend Ayay Na](https://open.spotify.com/track/3TX1rmOSoZRrKm53lOos1B) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Suno Ke Mein Hun Jawan](https://open.spotify.com/album/4AyNpK9PCLWHbxIX5ezvJG) | 4:22 | 2021-08-16 | 2022-07-29 |
 | [Nishaan](https://open.spotify.com/track/1i3V8S5sIZWFe6xBcJoHDq) | [Call](https://open.spotify.com/artist/5QHScjNJhVCWz5VM3XMYZI) | [Jilawatan](https://open.spotify.com/album/5ZCgLCP9jpoCxsYrqUPiCS) | 5:37 | 2021-08-16 | 2022-07-24 |

@@ -1,12 +1,12 @@
 {
   "description": "Indie, Pop und Rap mit deutschen Texten. Cover: ENNIO",
-  "num_followers": 371038,
+  "num_followers": 371368,
   "original_name": "Wilde Herzen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzYyMCwwMDAwMDAwMDkyMTFjZTI2YmM3MzVkODBlNmFiNjNjYzFmYmI1YTgx",
+  "snapshot_id": "MTY4MTgwODY3MCwwMDAwMDAwMDJlMWY5YzMwYjE2MWJiOTRlZjM0ZTAxZWE0NmFlZGMy",
   "tracks": [
     {
       "added_at": "2023-04-13 22:07:00",
@@ -47,22 +47,6 @@
     {
       "added_at": "2023-04-13 22:07:00",
       "album": {
-        "name": "Shirt & Handtuch",
-        "url": "https://open.spotify.com/album/5E6TabcdFH66gyiurKEmBq"
-      },
-      "artists": [
-        {
-          "name": "Mayberg",
-          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
-        }
-      ],
-      "duration_ms": 214786,
-      "name": "Shirt & Handtuch",
-      "url": "https://open.spotify.com/track/62ZlC6KfLzEBPlE7rBHs3c"
-    },
-    {
-      "added_at": "2023-04-13 22:07:00",
-      "album": {
         "name": "Alles Nur Gelogen",
         "url": "https://open.spotify.com/album/5e3VemHQtqmNtpE6ENk4WF"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 168120,
       "name": "Alles Nur Gelogen",
       "url": "https://open.spotify.com/track/74eR8xSdraMDGsGPI7D5C9"
+    },
+    {
+      "added_at": "2023-04-13 22:07:00",
+      "album": {
+        "name": "Ein Anruf entfernt",
+        "url": "https://open.spotify.com/album/3q1CVNPW0g2AuYT13i11T5"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        }
+      ],
+      "duration_ms": 155773,
+      "name": "Ein Anruf entfernt",
+      "url": "https://open.spotify.com/track/3Xqqsi0zw6p3eYkKzzzag0"
     },
     {
       "added_at": "2023-04-13 22:07:00",
@@ -95,6 +95,22 @@
     {
       "added_at": "2023-04-13 22:07:00",
       "album": {
+        "name": "Shirt & Handtuch",
+        "url": "https://open.spotify.com/album/5E6TabcdFH66gyiurKEmBq"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "duration_ms": 214786,
+      "name": "Shirt & Handtuch",
+      "url": "https://open.spotify.com/track/62ZlC6KfLzEBPlE7rBHs3c"
+    },
+    {
+      "added_at": "2023-04-13 22:07:00",
+      "album": {
         "name": "Raum 37",
         "url": "https://open.spotify.com/album/2k73lgJP18duGEkA7U2YkV"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 141154,
       "name": "Raum 37",
       "url": "https://open.spotify.com/track/2PWaVvsSaOQTciQZM7eoX1"
-    },
-    {
-      "added_at": "2023-04-13 22:07:00",
-      "album": {
-        "name": "Ein Anruf entfernt",
-        "url": "https://open.spotify.com/album/3q1CVNPW0g2AuYT13i11T5"
-      },
-      "artists": [
-        {
-          "name": "Zartmann",
-          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
-        }
-      ],
-      "duration_ms": 155773,
-      "name": "Ein Anruf entfernt",
-      "url": "https://open.spotify.com/track/3Xqqsi0zw6p3eYkKzzzag0"
     },
     {
       "added_at": "2023-04-13 22:07:00",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-04-13 22:07:00",
       "album": {
-        "name": "Risiko",
-        "url": "https://open.spotify.com/album/4jtEfRUv5jjDT43Y2r1clF"
+        "name": "Bialetti",
+        "url": "https://open.spotify.com/album/6KG4ETVdwhu6BfukGthSjE"
       },
       "artists": [
         {
-          "name": "Steiner & Madlaina",
-          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
+          "name": "Resi Reiner",
+          "url": "https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD"
         }
       ],
-      "duration_ms": 178759,
-      "name": "Mama Liebe",
-      "url": "https://open.spotify.com/track/6C9G9dNryJIkluUkp1sJWG"
+      "duration_ms": 212480,
+      "name": "Bialetti",
+      "url": "https://open.spotify.com/track/7DQPKQGA9IEsaF9H3RtnT2"
     },
     {
       "added_at": "2023-04-13 22:07:00",
@@ -311,18 +311,18 @@
     {
       "added_at": "2023-04-13 22:07:00",
       "album": {
-        "name": "Bialetti",
-        "url": "https://open.spotify.com/album/6KG4ETVdwhu6BfukGthSjE"
+        "name": "Risiko",
+        "url": "https://open.spotify.com/album/4jtEfRUv5jjDT43Y2r1clF"
       },
       "artists": [
         {
-          "name": "Resi Reiner",
-          "url": "https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD"
+          "name": "Steiner & Madlaina",
+          "url": "https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg"
         }
       ],
-      "duration_ms": 212480,
-      "name": "Bialetti",
-      "url": "https://open.spotify.com/track/7DQPKQGA9IEsaF9H3RtnT2"
+      "duration_ms": 178759,
+      "name": "Mama Liebe",
+      "url": "https://open.spotify.com/track/6C9G9dNryJIkluUkp1sJWG"
     },
     {
       "added_at": "2023-04-13 22:07:00",

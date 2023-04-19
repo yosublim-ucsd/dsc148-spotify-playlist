@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: BABYMETAL",
-  "num_followers": 611727,
+  "num_followers": 612099,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjAwMCwwMDAwMDAwMDlhMWE1MWI1MTcyMmNlNjQ4NjgwYzlkOWQxZjhjNDQw",
+  "snapshot_id": "MTY3OTYxNjAwMCwwMDAwMDAwMGMyZmE3MDE0NWIyMTcyOGI1NjFlM2YxODhmMGUwOGQ1",
   "tracks": [
     {
       "added_at": "2022-11-18 01:31:53",
@@ -317,22 +317,6 @@
       "url": "https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9"
     },
     {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 210304,
-      "name": "Back From The Dead",
-      "url": "https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C"
-    },
-    {
       "added_at": "2023-03-02 22:02:34",
       "album": {
         "name": "THE OTHER ONE",
@@ -347,6 +331,22 @@
       "duration_ms": 244258,
       "name": "Light and Darkness",
       "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 210304,
+      "name": "Back From The Dead",
+      "url": "https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -413,6 +413,22 @@
       "url": "https://open.spotify.com/track/2rFaJ6NRIRWn335tQr8lWD"
     },
     {
+      "added_at": "2023-01-20 14:00:27",
+      "album": {
+        "name": "METAL KINGDOM",
+        "url": "https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 351354,
+      "name": "METAL KINGDOM",
+      "url": "https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi"
+    },
+    {
       "added_at": "2023-02-03 00:00:00",
       "album": {
         "name": "I Wish A Bitch Would",
@@ -431,22 +447,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "The Phantom Agony (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf"
-      },
-      "artists": [
-        {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
-        }
-      ],
-      "duration_ms": 289306,
-      "name": "Sensorium",
-      "url": "https://open.spotify.com/track/5Souga96S54RLFk30XrEJP"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "The Purge",
         "url": "https://open.spotify.com/album/1rN72pQnsIJo2MqHfqDqYA"
       },
@@ -459,6 +459,22 @@
       "duration_ms": 256466,
       "name": "The Purge",
       "url": "https://open.spotify.com/track/72Cz4BgCt2RZQL3JQVwRwG"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "The Phantom Agony (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "duration_ms": 289306,
+      "name": "Sensorium",
+      "url": "https://open.spotify.com/track/5Souga96S54RLFk30XrEJP"
     },
     {
       "added_at": "2023-02-10 15:44:35",
@@ -491,22 +507,6 @@
       "duration_ms": 180373,
       "name": "We Bring You the Stars",
       "url": "https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU"
-    },
-    {
-      "added_at": "2023-01-20 14:00:27",
-      "album": {
-        "name": "METAL KINGDOM",
-        "url": "https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 351354,
-      "name": "METAL KINGDOM",
-      "url": "https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "FYB",
-        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 106331,
-      "name": "FYB",
-      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "The Cost of Greatness",
         "url": "https://open.spotify.com/album/6aNlzwG41d8rSYJKHDyJja"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 188388,
       "name": "Bring It On",
       "url": "https://open.spotify.com/track/7qzCzgC2uTpmnWwXJXsqwn"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "FYB",
+        "url": "https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 106331,
+      "name": "FYB",
+      "url": "https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu"
     },
     {
       "added_at": "2022-11-18 01:31:53",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-11-18 01:31:53",
       "album": {
-        "name": "I Don't Know You",
-        "url": "https://open.spotify.com/album/4zcddXNXYoju2xzjObq5eT"
-      },
-      "artists": [
-        {
-          "name": "ODC",
-          "url": "https://open.spotify.com/artist/1mnVffOIDOAeCLxjZ1jOQj"
-        }
-      ],
-      "duration_ms": 221987,
-      "name": "I Don't Know You",
-      "url": "https://open.spotify.com/track/1ayc9mNFWGuzcVgL0o3Zd2"
-    },
-    {
-      "added_at": "2022-11-18 01:31:53",
-      "album": {
         "name": "Darkness",
         "url": "https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 189773,
       "name": "My Demon",
       "url": "https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR"
+    },
+    {
+      "added_at": "2022-11-18 01:31:53",
+      "album": {
+        "name": "I Don't Know You",
+        "url": "https://open.spotify.com/album/4zcddXNXYoju2xzjObq5eT"
+      },
+      "artists": [
+        {
+          "name": "ODC",
+          "url": "https://open.spotify.com/artist/1mnVffOIDOAeCLxjZ1jOQj"
+        }
+      ],
+      "duration_ms": 221987,
+      "name": "I Don't Know You",
+      "url": "https://open.spotify.com/track/1ayc9mNFWGuzcVgL0o3Zd2"
     },
     {
       "added_at": "2022-11-18 01:31:53",

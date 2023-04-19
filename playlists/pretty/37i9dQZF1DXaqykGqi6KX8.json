@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Arab metal.  Cover: <a href=\"spotify:artist:63U8atFXZ3sax4eeV212tq\">Coat Of Arms</a>",
-  "num_followers": 35560,
+  "num_followers": 35614,
   "original_name": "Arab Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNDE5OTM2NywwMDAwMDAwMGRhODU1MjU2ODcxMWI5YmJhZmI3ZjdiNzFlNzhmZmQz",
+  "snapshot_id": "MTYzNDE5OTM2NywwMDAwMDAwMDFmNGNhMDAwN2FiNDNhOGExZjQ4YzdmZDk2NzU2YTFm",
   "tracks": [
     {
       "added_at": "2021-10-14 08:16:07",
@@ -395,18 +395,18 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Sofia",
-        "url": "https://open.spotify.com/album/6EuwcKP68HmrN6rUqjpHuN"
+        "name": "Inferno",
+        "url": "https://open.spotify.com/album/2zj4b2QYe8CljpJiAWzvpp"
       },
       "artists": [
         {
-          "name": "Arkan",
-          "url": "https://open.spotify.com/artist/2cr1yLhEpDBjgc7o4dn2vH"
+          "name": "Coat Of Arms",
+          "url": "https://open.spotify.com/artist/63U8atFXZ3sax4eeV212tq"
         }
       ],
-      "duration_ms": 293600,
-      "name": "Hayati",
-      "url": "https://open.spotify.com/track/2IbOp5y95v0VXR32RV98q1"
+      "duration_ms": 196344,
+      "name": "Inferno",
+      "url": "https://open.spotify.com/track/4ff0WAyXQHgij8hgk1HOGU"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -427,34 +427,18 @@
     {
       "added_at": "2021-10-14 08:16:07",
       "album": {
-        "name": "Inferno",
-        "url": "https://open.spotify.com/album/2zj4b2QYe8CljpJiAWzvpp"
+        "name": "Sofia",
+        "url": "https://open.spotify.com/album/6EuwcKP68HmrN6rUqjpHuN"
       },
       "artists": [
         {
-          "name": "Coat Of Arms",
-          "url": "https://open.spotify.com/artist/63U8atFXZ3sax4eeV212tq"
+          "name": "Arkan",
+          "url": "https://open.spotify.com/artist/2cr1yLhEpDBjgc7o4dn2vH"
         }
       ],
-      "duration_ms": 196344,
-      "name": "Inferno",
-      "url": "https://open.spotify.com/track/4ff0WAyXQHgij8hgk1HOGU"
-    },
-    {
-      "added_at": "2021-10-14 08:16:07",
-      "album": {
-        "name": "The Revelations",
-        "url": "https://open.spotify.com/album/1tKEYkjR1fmLJeUHYouPhG"
-      },
-      "artists": [
-        {
-          "name": "Ambrotype",
-          "url": "https://open.spotify.com/artist/2kgkOFR0aUzwtamaD010iD"
-        }
-      ],
-      "duration_ms": 666510,
-      "name": "I Am the Beast",
-      "url": "https://open.spotify.com/track/3esEno7VbHhFQly6SYeBV8"
+      "duration_ms": 293600,
+      "name": "Hayati",
+      "url": "https://open.spotify.com/track/2IbOp5y95v0VXR32RV98q1"
     },
     {
       "added_at": "2021-10-14 08:16:07",
@@ -471,6 +455,22 @@
       "duration_ms": 484600,
       "name": "The Gambit",
       "url": "https://open.spotify.com/track/40MlHg1LIQDNryxwJQUNGH"
+    },
+    {
+      "added_at": "2021-10-14 08:16:07",
+      "album": {
+        "name": "The Revelations",
+        "url": "https://open.spotify.com/album/1tKEYkjR1fmLJeUHYouPhG"
+      },
+      "artists": [
+        {
+          "name": "Ambrotype",
+          "url": "https://open.spotify.com/artist/2kgkOFR0aUzwtamaD010iD"
+        }
+      ],
+      "duration_ms": 666510,
+      "name": "I Am the Beast",
+      "url": "https://open.spotify.com/track/3esEno7VbHhFQly6SYeBV8"
     },
     {
       "added_at": "2021-10-14 08:16:07",

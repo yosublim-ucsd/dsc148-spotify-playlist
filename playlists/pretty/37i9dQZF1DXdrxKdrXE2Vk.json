@@ -1,12 +1,12 @@
 {
   "description": "Experience the best of live worship here. This week we are featuring some of the favorite live worship tracks of our Guest Curator, Sadie Roberston. ",
-  "num_followers": 868744,
+  "num_followers": 868916,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1Mjk3MywwMDAwMDAwMGE2YWNmNTkxNDlhMTZkOWVjNjdlZDk4NWRkYjU4OWUx",
+  "snapshot_id": "MTY4MTQ1Mjk3MywwMDAwMDAwMDc5MDMyZjEwZDRjZmMyODI5OTZjYWJlZTdiMjNkMjc3",
   "tracks": [
     {
       "added_at": "2023-04-14 05:05:00",
@@ -711,6 +711,26 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 147945,
+      "name": "Growing Pains Pt. 2",
+      "url": "https://open.spotify.com/track/3JT72Odgjboph3SnXhDbzk"
+    },
+    {
+      "added_at": "2023-04-14 05:05:00",
+      "album": {
         "name": "Homecoming (Live)",
         "url": "https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 456000,
       "name": "I Believe - Live",
       "url": "https://open.spotify.com/track/6p9Frj8pPOCWol6HMFihSs"
-    },
-    {
-      "added_at": "2023-04-14 05:05:00",
-      "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        },
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 147945,
-      "name": "Growing Pains Pt. 2",
-      "url": "https://open.spotify.com/track/3JT72Odgjboph3SnXhDbzk"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
-        "name": "Who Is This Man (Live)",
-        "url": "https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 599374,
-      "name": "Who Is This Man - Live",
-      "url": "https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv"
-    },
-    {
-      "added_at": "2023-04-14 05:05:00",
-      "album": {
         "name": "Sing! Christ Our Hope In Life And Death (Live At The Getty Music Worship Conference)",
         "url": "https://open.spotify.com/album/6Yc2IDSVhI1i0kxGYBtDTG"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 243800,
       "name": "The Lord Almighty Reigns - Live",
       "url": "https://open.spotify.com/track/01U4uDzyNXcNoLBGiCQeHF"
+    },
+    {
+      "added_at": "2023-04-14 05:05:00",
+      "album": {
+        "name": "Who Is This Man (Live)",
+        "url": "https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 599374,
+      "name": "Who Is This Man - Live",
+      "url": "https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
-        "name": "Take, Eat, Drink (Live)",
-        "url": "https://open.spotify.com/album/3hDc3GQ0j8bGM7IszTfwgF"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        }
-      ],
-      "duration_ms": 287800,
-      "name": "Take, Eat, Drink - Live",
-      "url": "https://open.spotify.com/track/1b5YiRG1yd1KWj0aDWiFiE"
-    },
-    {
-      "added_at": "2023-04-14 05:05:00",
-      "album": {
         "name": "Greater: Live At Chapel",
         "url": "https://open.spotify.com/album/5dmMZLUsmeYGEpL7Q2Fk3K"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 246345,
       "name": "Beauty For Ashes - Live At Chapel",
       "url": "https://open.spotify.com/track/56zhUVLASquK3UZrzUPJlB"
+    },
+    {
+      "added_at": "2023-04-14 05:05:00",
+      "album": {
+        "name": "Take, Eat, Drink (Live)",
+        "url": "https://open.spotify.com/album/3hDc3GQ0j8bGM7IszTfwgF"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "duration_ms": 287800,
+      "name": "Take, Eat, Drink - Live",
+      "url": "https://open.spotify.com/track/1b5YiRG1yd1KWj0aDWiFiE"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
-        "name": "This Is the Day",
-        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
-      },
-      "artists": [
-        {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
-        }
-      ],
-      "duration_ms": 325247,
-      "name": "This Is the Day",
-      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
-    },
-    {
-      "added_at": "2023-04-14 05:05:00",
-      "album": {
         "name": "God, Turn It Around",
         "url": "https://open.spotify.com/album/20AhTaDSeFLbEz38z3rQjv"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 280086,
       "name": "God, Turn It Around (feat. Matt Maher) - Live",
       "url": "https://open.spotify.com/track/2YUrd0PHlus9bE7TFDc1Zc"
+    },
+    {
+      "added_at": "2023-04-14 05:05:00",
+      "album": {
+        "name": "This Is the Day",
+        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 325247,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
-        "name": "Forever & Amen",
-        "url": "https://open.spotify.com/album/1pbtg4PdtxGJbVc1lUSnuB"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 590208,
-      "name": "Forever & Amen (with Kari Jobe) - Live",
-      "url": "https://open.spotify.com/track/7w9cEiNE0z2L3AhqUU4A0O"
-    },
-    {
-      "added_at": "2023-04-14 05:05:00",
-      "album": {
         "name": "Long Live The King (Live At The Grove)",
         "url": "https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn"
       },
@@ -1351,22 +1331,22 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
-        "name": "I've Got Good News (Live)",
-        "url": "https://open.spotify.com/album/3gK8jirdtfOYhoakLeESWd"
+        "name": "Forever & Amen",
+        "url": "https://open.spotify.com/album/1pbtg4PdtxGJbVc1lUSnuB"
       },
       "artists": [
         {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        },
-        {
           "name": "Cody Carnes",
           "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         }
       ],
-      "duration_ms": 384501,
-      "name": "Simple Kingdom (with Cody Carnes) - Live",
-      "url": "https://open.spotify.com/track/6sfjzrnMTvBgogpYy1mHow"
+      "duration_ms": 590208,
+      "name": "Forever & Amen (with Kari Jobe) - Live",
+      "url": "https://open.spotify.com/track/7w9cEiNE0z2L3AhqUU4A0O"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -1383,6 +1363,26 @@
       "duration_ms": 286318,
       "name": "I Believe - Live At Shepherd Church",
       "url": "https://open.spotify.com/track/1NPlveoW4PT55ifwkj8i8y"
+    },
+    {
+      "added_at": "2023-04-14 05:05:00",
+      "album": {
+        "name": "I've Got Good News (Live)",
+        "url": "https://open.spotify.com/album/3gK8jirdtfOYhoakLeESWd"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 384501,
+      "name": "Simple Kingdom (with Cody Carnes) - Live",
+      "url": "https://open.spotify.com/track/6sfjzrnMTvBgogpYy1mHow"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
-        "name": "Belovedness (Live)",
-        "url": "https://open.spotify.com/album/3RX1MoUQaetL6L2ts03m1a"
-      },
-      "artists": [
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        },
-        {
-          "name": "Nathan Jess",
-          "url": "https://open.spotify.com/artist/0toDS0sQ9LKILJv0E2IUR8"
-        }
-      ],
-      "duration_ms": 218493,
-      "name": "Belovedness - Live",
-      "url": "https://open.spotify.com/track/39EvGSon4V1ri8TZ9lrfLi"
-    },
-    {
-      "added_at": "2023-04-14 05:05:00",
-      "album": {
         "name": "Paul & Silas (At Midnight) [Live]",
         "url": "https://open.spotify.com/album/4gnmUbth0pCoIhhWlQuanM"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 378379,
       "name": "Providence",
       "url": "https://open.spotify.com/track/7G8ZEE8HmuPPfy5JE5PE8b"
+    },
+    {
+      "added_at": "2023-04-14 05:05:00",
+      "album": {
+        "name": "Belovedness (Live)",
+        "url": "https://open.spotify.com/album/3RX1MoUQaetL6L2ts03m1a"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        },
+        {
+          "name": "Nathan Jess",
+          "url": "https://open.spotify.com/artist/0toDS0sQ9LKILJv0E2IUR8"
+        }
+      ],
+      "duration_ms": 218493,
+      "name": "Belovedness - Live",
+      "url": "https://open.spotify.com/track/39EvGSon4V1ri8TZ9lrfLi"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -1735,22 +1735,18 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
-        "name": "Worship in The Word (Live)",
-        "url": "https://open.spotify.com/album/2r1bFBFghxJUoSmJe5eTIJ"
+        "name": "Gratitude - LIVE from Miracle Nights",
+        "url": "https://open.spotify.com/album/5lOQm2QnGMxJMchHrn8W0Q"
       },
       "artists": [
         {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        },
-        {
-          "name": "Kingdom Kids",
-          "url": "https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 326273,
-      "name": "Tell the Story (Psalm 8) - Live",
-      "url": "https://open.spotify.com/track/5ujsO21VAHuwmoNIdo3tdV"
+      "duration_ms": 418333,
+      "name": "Gratitude - LIVE from Miracle Nights",
+      "url": "https://open.spotify.com/track/0SnTTASsZDaKXH7ryveq7C"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -1795,6 +1791,42 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
+        "name": "Worship in The Word (Live)",
+        "url": "https://open.spotify.com/album/2r1bFBFghxJUoSmJe5eTIJ"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        },
+        {
+          "name": "Kingdom Kids",
+          "url": "https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ"
+        }
+      ],
+      "duration_ms": 326273,
+      "name": "Tell the Story (Psalm 8) - Live",
+      "url": "https://open.spotify.com/track/5ujsO21VAHuwmoNIdo3tdV"
+    },
+    {
+      "added_at": "2023-04-14 05:05:00",
+      "album": {
+        "name": "The Praise Is Yours (Live)",
+        "url": "https://open.spotify.com/album/0PFT7MRtUwHHW7HdCaPkgD"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 336008,
+      "name": "The Praise Is Yours - Live",
+      "url": "https://open.spotify.com/track/4JdSYHUht9FFdTGOtSOKBY"
+    },
+    {
+      "added_at": "2023-04-14 05:05:00",
+      "album": {
         "name": "Sing! In Christ Alone - Live At The Getty Music Worship Conference",
         "url": "https://open.spotify.com/album/7LieYsVEC7GO1SoImXO4rr"
       },
@@ -1811,6 +1843,22 @@
       "duration_ms": 288303,
       "name": "Is He Worthy? - Live",
       "url": "https://open.spotify.com/track/0QXpQkyuEdNqJLOkzua7vf"
+    },
+    {
+      "added_at": "2023-04-14 05:05:00",
+      "album": {
+        "name": "Oh, What A Friend (Live)",
+        "url": "https://open.spotify.com/album/6eIRbxNgzmfBMgKS7DseJ8"
+      },
+      "artists": [
+        {
+          "name": "7 Hills Worship",
+          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
+        }
+      ],
+      "duration_ms": 316946,
+      "name": "Oh, What A Friend - Live",
+      "url": "https://open.spotify.com/track/6wVLiGYfEOAGUC0GUGX7ic"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -1835,54 +1883,6 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
-        "name": "The Praise Is Yours (Live)",
-        "url": "https://open.spotify.com/album/0PFT7MRtUwHHW7HdCaPkgD"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 336008,
-      "name": "The Praise Is Yours - Live",
-      "url": "https://open.spotify.com/track/4JdSYHUht9FFdTGOtSOKBY"
-    },
-    {
-      "added_at": "2023-04-14 05:05:00",
-      "album": {
-        "name": "Oh, What A Friend (Live)",
-        "url": "https://open.spotify.com/album/6eIRbxNgzmfBMgKS7DseJ8"
-      },
-      "artists": [
-        {
-          "name": "7 Hills Worship",
-          "url": "https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1"
-        }
-      ],
-      "duration_ms": 316946,
-      "name": "Oh, What A Friend - Live",
-      "url": "https://open.spotify.com/track/6wVLiGYfEOAGUC0GUGX7ic"
-    },
-    {
-      "added_at": "2023-04-14 05:05:00",
-      "album": {
-        "name": "Revival Nights (Pt. 2) [Live]",
-        "url": "https://open.spotify.com/album/4ilCyBUGUzbgZ9AZlOJD21"
-      },
-      "artists": [
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 390666,
-      "name": "Hurry - Live",
-      "url": "https://open.spotify.com/track/22E1XhnhvSi1NDbRmb5BDn"
-    },
-    {
-      "added_at": "2023-04-14 05:05:00",
-      "album": {
         "name": "Yes He Lives",
         "url": "https://open.spotify.com/album/03DcLwW9JcAV336p2JFnk0"
       },
@@ -1903,22 +1903,38 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
-        "name": "Things of Heaven",
-        "url": "https://open.spotify.com/album/1Q3qc4ujNahlJkwFAE0hOU"
+        "name": "Revival Nights (Pt. 2) [Live]",
+        "url": "https://open.spotify.com/album/4ilCyBUGUzbgZ9AZlOJD21"
       },
       "artists": [
         {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
         }
       ],
-      "duration_ms": 338448,
-      "name": "Now Here (feat. Kierra Sheard)",
-      "url": "https://open.spotify.com/track/61tGQR8Pv6OyKXYmTFHIPV"
+      "duration_ms": 390666,
+      "name": "Hurry - Live",
+      "url": "https://open.spotify.com/track/22E1XhnhvSi1NDbRmb5BDn"
+    },
+    {
+      "added_at": "2023-04-14 05:05:00",
+      "album": {
+        "name": "Kingdom",
+        "url": "https://open.spotify.com/album/1JJslYNSkyMUSm05DA548D"
+      },
+      "artists": [
+        {
+          "name": "Village Lights",
+          "url": "https://open.spotify.com/artist/63Hnq5ylvVEXWaw07FWrp1"
+        },
+        {
+          "name": "Ike Ndolo",
+          "url": "https://open.spotify.com/artist/7GybhnbNqgYBkIIU7zE90W"
+        }
+      ],
+      "duration_ms": 200733,
+      "name": "The Sweetest Sound",
+      "url": "https://open.spotify.com/track/4TyYqM4EoFG7KtEGmUgH2r"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -1963,50 +1979,22 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
-        "name": "Live At The Manor",
-        "url": "https://open.spotify.com/album/2N1DotQ4xbhStr5YXnOO6W"
+        "name": "Things of Heaven",
+        "url": "https://open.spotify.com/album/1Q3qc4ujNahlJkwFAE0hOU"
       },
       "artists": [
         {
-          "name": "Manor Collective",
-          "url": "https://open.spotify.com/artist/0R1ceXNBGwlvKurOZ8t2oh"
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
         },
         {
-          "name": "Junior Garr",
-          "url": "https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2"
-        },
-        {
-          "name": "Tertia May",
-          "url": "https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown"
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 274666,
-      "name": "Let Go - Live",
-      "url": "https://open.spotify.com/track/18n9g4RuXRgrMQaNtU06iX"
-    },
-    {
-      "added_at": "2023-04-14 05:05:00",
-      "album": {
-        "name": "Thin Place (Live)",
-        "url": "https://open.spotify.com/album/72HsedFQYMQh8O4dQbwH50"
-      },
-      "artists": [
-        {
-          "name": "Gas Street Music",
-          "url": "https://open.spotify.com/artist/5hj103snRZwlRwH2hzhgvG"
-        },
-        {
-          "name": "Michael Shannon",
-          "url": "https://open.spotify.com/artist/72uWvSo9H7FQfhYQKbUEoc"
-        },
-        {
-          "name": "Zo Chilengwe",
-          "url": "https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N"
-        }
-      ],
-      "duration_ms": 376541,
-      "name": "Thin Place - Live",
-      "url": "https://open.spotify.com/track/6Kt5xALwAfnGDGdZWq3XDu"
+      "duration_ms": 338448,
+      "name": "Now Here (feat. Kierra Sheard)",
+      "url": "https://open.spotify.com/track/61tGQR8Pv6OyKXYmTFHIPV"
     }
   ],
   "unique_name": "Best of Live Worship",

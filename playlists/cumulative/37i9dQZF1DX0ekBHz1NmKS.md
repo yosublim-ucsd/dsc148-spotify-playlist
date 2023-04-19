@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-684 songs - 1 day 12 hr 16 min
+685 songs - 1 day 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Döda hjärtan kan slå igen](https://open.spotify.com/track/4CZAKCH7hNagnKhJe60IyU) | [Daniel Adams\-Ray](https://open.spotify.com/artist/4C86wrjOUfXQDlt6A4oJOC) | [Döda hjärtan kan slå igen](https://open.spotify.com/album/0XwIMEBisaLYj4SWj6wjjS) | 3:28 | 2021-12-16 | 2022-03-11 |
 | [Dör För Er Skull](https://open.spotify.com/track/6DLyHZGcyIeGPCzzTnB1o4) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Dör För Er Skull](https://open.spotify.com/album/021aTp0HEvlzTIkGKGvOTY) | 2:44 | 2022-03-10 | 2022-05-13 |
 | [Edelweiss](https://open.spotify.com/track/3lnm0gx9usupGiYbwnxH9o) | [Signe & Hjördis](https://open.spotify.com/artist/4pkf3JUp7fOYK7kumrKuqG) | [Edelweiss](https://open.spotify.com/album/1Tzn1c4m7eM9s69pC3znQh) | 2:47 | 2023-03-25 |  |
+| [Effort](https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Effort](https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl) | 2:31 | 2023-04-13 |  |
 | [Ego](https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Ego](https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf) | 2:52 | 2023-04-13 |  |
 | [En fattig munk från Skara](https://open.spotify.com/track/3PRcVDJ6sb0XNF0ZNUHQfT) | [Gustaf & Viktor Norén](https://open.spotify.com/artist/7wgjhOBlEERCRSA6iloMvt) | [Samlade sånger](https://open.spotify.com/album/53W6Wvkzo0eWW2YcwWX0CL) | 4:29 | 2021-12-16 | 2022-07-22 |
 | [En jättefin dag](https://open.spotify.com/track/3FafZFF96FlznVIYBUEbwG) | [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [Salta diamanter](https://open.spotify.com/album/6phTBfeufGdFLoBksORckf) | 2:20 | 2022-06-30 | 2022-09-26 |
@@ -385,7 +386,7 @@
 | [Mandela](https://open.spotify.com/track/7MiLOZAISUhpe8gQwcgiE2) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [Mapei](https://open.spotify.com/artist/6baWjwY7WiVPCZcW7pqqhz) | [Juju Pt.3 Postum](https://open.spotify.com/album/56TkWM7N012kerAgMwz2Ut) | 2:57 | 2022-06-23 | 2022-07-12 |
 | [MANO](https://open.spotify.com/track/4erg578HXlAcoJRaeI03Jh) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MANO](https://open.spotify.com/album/22b2uytJ3zeJZn4eaFuym1) | 2:48 | 2022-02-05 | 2022-07-21 |
 | [MANO](https://open.spotify.com/track/5SjWXrGT82DWuXxkMcC3DB) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:48 | 2022-07-28 | 2022-09-16 |
-| [maracuya massage](https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 3:35 | 2023-02-09 |  |
+| [maracuya massage](https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco](https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc) | 3:35 | 2023-02-09 | 2023-04-19 |
 | [Medborgare av ingenstans](https://open.spotify.com/track/742ArVhbQ8UXMMccqihUo1) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Medborgare av ingenstans](https://open.spotify.com/album/2EJZJmeMD9kSENd9slzqwg) | 3:33 | 2023-02-02 | 2023-03-16 |
 | [MER](https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [MER](https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi) | 2:33 | 2022-07-21 | 2022-11-17 |
 | [Mercedes](https://open.spotify.com/track/6A8ZgOPEkhlGkyldDJGXtZ) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Mercedes](https://open.spotify.com/album/7KNuwMOtD6dFvliy5Ctv4m) | 2:56 | 2023-04-13 |  |

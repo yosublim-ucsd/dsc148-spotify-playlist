@@ -684,7 +684,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 218880,
       "name": "BLUE GIANT",
       "url": "https://open.spotify.com/track/6cNsewEICKlNmFT8q3i4b9"
@@ -4984,7 +4984,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 197997,
       "name": "River",
       "url": "https://open.spotify.com/track/1kPoNSnxGFq5UZbGyNymsK"
@@ -6596,7 +6596,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 247104,
       "name": "Without Love",
       "url": "https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp"
@@ -7483,6 +7483,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30a4\u30aa\u30e9\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/231sUO0rctK4kQGp4efhFA"
+      },
+      "artists": [
+        {
+          "name": "Inori Minase",
+          "url": "https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225584,
+      "name": "\u30a2\u30a4\u30aa\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/3aEkoZxIUDLgca5DQaZr5r"
+    },
+    {
+      "album": {
         "name": "\u30a2\u30a4\u30bf\u30ea\u30ca\u30a4",
         "url": "https://open.spotify.com/album/1C5VITN2qaLE4PChtSmSrj"
       },
@@ -8308,6 +8326,24 @@
       "duration_ms": 270773,
       "name": "\u30bc\u30ed\u30b9\u30c6\u30c3\u30d7 (feat. \u5c0f\u91ce\u8ce2\u7ae0)",
       "url": "https://open.spotify.com/track/7wqa3SBNDoQ436Feb8x5Zl"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30a6\u30eb\u30fb\u30ae\u30e3\u30e9\u30af\u30b7\u30fc",
+        "url": "https://open.spotify.com/album/73Fcgog02ZmJvx9JBZpm2a"
+      },
+      "artists": [
+        {
+          "name": "BRADIO",
+          "url": "https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216293,
+      "name": "\u30bd\u30a6\u30eb\u30fb\u30ae\u30e3\u30e9\u30af\u30b7\u30fc",
+      "url": "https://open.spotify.com/track/5HxPCVn0Nc0K3brkmDuVsg"
     },
     {
       "album": {
@@ -9146,6 +9182,24 @@
       "duration_ms": 201754,
       "name": "\u30e9\u30ca",
       "url": "https://open.spotify.com/track/1iXN8j1ThITNhNOr2Tez8A"
+    },
+    {
+      "album": {
+        "name": "New Neighbors",
+        "url": "https://open.spotify.com/album/6uBzTBbMEBkLEDtEkklOBy"
+      },
+      "artists": [
+        {
+          "name": "Homecomings",
+          "url": "https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235813,
+      "name": "\u30e9\u30d7\u30b9",
+      "url": "https://open.spotify.com/track/47hW5TPsOjph8hA9kxNdcj"
     },
     {
       "album": {
@@ -10237,6 +10291,24 @@
     },
     {
       "album": {
+        "name": "\u5f53\u4e8b\u8005",
+        "url": "https://open.spotify.com/album/4BdgxEZaVzqaJYwYwJeoJn"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241973,
+      "name": "\u5f53\u4e8b\u8005",
+      "url": "https://open.spotify.com/track/69TMjHuBaLNRtMPopKWbdC"
+    },
+    {
+      "album": {
         "name": "\u5fc3\u81d3",
         "url": "https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm"
       },
@@ -11134,7 +11206,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 287991,
       "name": "\u7b2c\u30bc\u30ed\u611f",
       "url": "https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE"

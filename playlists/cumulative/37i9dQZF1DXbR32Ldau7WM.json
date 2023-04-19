@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "The biggest rock artists in Japan right now! Cover: Ling tosite sigure(\u51db\u3068\u3057\u3066\u6642\u96e8)",
+  "description": "The biggest rock artists in Japan right now! Cover: JUN SKY WALKER(S)",
   "name": "Big in Japan",
   "tracks": [
     {
@@ -2401,6 +2401,28 @@
     },
     {
       "album": {
+        "name": "KANASHIBARI",
+        "url": "https://open.spotify.com/album/6QgXfxc8yzYGEKCXzPVfhH"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "ao",
+          "url": "https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297692,
+      "name": "KANASHIBARI",
+      "url": "https://open.spotify.com/track/34e9BXXUPrLzUYGgw2kyIO"
+    },
+    {
+      "album": {
         "name": "KARMA",
         "url": "https://open.spotify.com/album/01LOAVkFBEV0p1GuH5mc8L"
       },
@@ -4756,7 +4778,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 250333,
       "name": "Sokonashi Beauty",
       "url": "https://open.spotify.com/track/3aEN8WxAZJdgWAr0UY68Qm"
@@ -5496,7 +5518,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 235881,
       "name": "This Song -Planxty Irwin-",
       "url": "https://open.spotify.com/track/0WHrBD9cachtyZRm9MDRER"
@@ -6116,7 +6138,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 232720,
       "name": "WHAT A VIBE",
       "url": "https://open.spotify.com/track/2KX9MYhJIEnMxwk4e7e1nd"
@@ -6856,6 +6878,24 @@
       "duration_ms": 219453,
       "name": "\u3055\u3088\u306a\u3089\u30bb\u30cb\u30e7\u30ea\u30fc\u30bf",
       "url": "https://open.spotify.com/track/7u4jJOelFD7OT3KTN1oGfo"
+    },
+    {
+      "album": {
+        "name": "\u305d\u3070\u306b\u3044\u308b\u304b\u3089",
+        "url": "https://open.spotify.com/album/5KMjcGmHWpQp19SxdlisRf"
+      },
+      "artists": [
+        {
+          "name": "JUN SKY WALKER(S)",
+          "url": "https://open.spotify.com/artist/0dJJhSKpO4ixCTCsCkJxgr"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283111,
+      "name": "\u305d\u3070\u306b\u3044\u308b\u304b\u3089",
+      "url": "https://open.spotify.com/track/1pkbFbojWxiX0ttqpPhMIl"
     },
     {
       "album": {
@@ -8126,6 +8166,24 @@
       "duration_ms": 227649,
       "name": "\u30d5\u30a7\u30a2\u30a6\u30a7\u30eb",
       "url": "https://open.spotify.com/track/29eO1P0Pl8yD6oyrnvUNNw"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30a7\u30ce\u30e1\u30ca\u30eb\u30de\u30f3",
+        "url": "https://open.spotify.com/album/00v55UgAPns2pZv2NV0DZq"
+      },
+      "artists": [
+        {
+          "name": "cinema staff",
+          "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "\u30d5\u30a7\u30ce\u30e1\u30ca\u30eb\u30de\u30f3",
+      "url": "https://open.spotify.com/track/5kgEllLZhQRrQjG90PWH7r"
     },
     {
       "album": {

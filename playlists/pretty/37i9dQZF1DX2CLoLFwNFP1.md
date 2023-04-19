@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 
 > The hustle king and worldwide multi talent of Korean hip\-hop/r&b.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,308 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,398 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 83 | [SOJU \(feat\. 2 Chainz\)](https://open.spotify.com/track/1fRIaQ4nHZF5FybsAsqKZz) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:48 |
 | 84 | [Yacht \(feat\. Vic Mensa\)](https://open.spotify.com/track/4qyXiEXiOfSxqn3YrY0NKW) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:18 |
 | 85 | [ENGINE \(Prod\. by CODE KUNST\)](https://open.spotify.com/track/4xWuQN8WMqLE8LRqkIiVmr) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [ENGINE](https://open.spotify.com/album/40yU5SspOUsFIXuafyq1M1) | 3:40 |
-| 86 | [RUN IT](https://open.spotify.com/track/3sznlAy0sce8la6GVzhnKU) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [RUN IT](https://open.spotify.com/album/7JHRCbkBq50DaM1tBRSa0c) | 3:11 |
-| 87 | [World Domination](https://open.spotify.com/track/20QRiEt3H04E5vHJG4LDlG) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [H1GHR : RED TAPE](https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT) | 3:42 |
+| 86 | [World Domination](https://open.spotify.com/track/20QRiEt3H04E5vHJG4LDlG) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [H1GHR : RED TAPE](https://open.spotify.com/album/3KqpbZ7sjKTV6liKowq2MT) | 3:42 |
+| 87 | [RUN IT](https://open.spotify.com/track/3sznlAy0sce8la6GVzhnKU) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [RUN IT](https://open.spotify.com/album/7JHRCbkBq50DaM1tBRSa0c) | 3:11 |
 | 88 | [Sexy 4 Eva](https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:41 |
 | 89 | [The Truth Is](https://open.spotify.com/track/4EzqNvmGUyGAqiAOivsydr) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYTHING YOU WANTED](https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2) | 3:56 |
 | 90 | [REBORN](https://open.spotify.com/track/3j5P08hfKY8oUSARXvmjjZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5) | [REBORN](https://open.spotify.com/album/5QOZlmEou75NZ0QsFLkfZq) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2CLoLFwNFP1.md) - [plain]
 | 99 | [Ain’t No Party Like an AOMG Party](https://open.spotify.com/track/6T9kR3QShDs0E8HCxxcEpA) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [Scene Stealers](https://open.spotify.com/album/01NUcsaXDsn4JH9RgDeZPe) | 4:37 |
 | 100 | [FSU \(feat\. GASHI & Rich The Kid\)](https://open.spotify.com/track/0nJnzVlIJV3vqckZ06PeaM) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [GASHI](https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:51 |
 
-Snapshot ID: `MTY4MDI1Nzk2OCwwMDAwMDAwMGEwZDQ5YTIyOTFjY2M0YmU3NjE3NGI5ZjU0ZTZhY2Fh`
+Snapshot ID: `MTY4MDI1Nzk2OCwwMDAwMDAwMDFhMWY1Zjg0M2FlMWZjZmU5NTViYzA3Y2ExY2ZjM2Fl`

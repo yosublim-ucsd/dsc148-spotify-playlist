@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 904128,
+  "num_followers": 904583,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgzNjU4MCwwMDAwMDAwMDIwOGQ2MTJiYzA5NWMxY2VlODdhZTNhOWVjZGYyMjM2",
+  "snapshot_id": "MTY4MDgzNjU4MCwwMDAwMDAwMDJiM2VjMDM1NzViMmE5NjJkMjVhMzA1ZWVlNjY5Nzc5",
   "tracks": [
     {
       "added_at": "2023-04-07 03:03:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-04-07 03:03:00",
       "album": {
-        "name": "Terra Sem Cep (ao Vivo)",
-        "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 141934,
-      "name": "Propaganda - Ao Vivo",
-      "url": "https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK"
-    },
-    {
-      "added_at": "2023-04-07 03:03:00",
-      "album": {
         "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 165360,
       "name": "Anti Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/3zlU0V45H1FcjZeGEVt8ih"
+    },
+    {
+      "added_at": "2023-04-07 03:03:00",
+      "album": {
+        "name": "Terra Sem Cep (ao Vivo)",
+        "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 141934,
+      "name": "Propaganda - Ao Vivo",
+      "url": "https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK"
     },
     {
       "added_at": "2023-04-07 03:03:00",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-04-07 03:03:00",
       "album": {
-        "name": "Tudo Em Paz",
-        "url": "https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL"
+        "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
       },
       "artists": [
         {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
         }
       ],
-      "duration_ms": 174081,
-      "name": "Namorando Com Saudade",
-      "url": "https://open.spotify.com/track/6m84TzSTM5nbwZxIxkYHz6"
+      "duration_ms": 191866,
+      "name": "Contram\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5g2HVlqROusgDTtun6Y5Tn"
     },
     {
       "added_at": "2023-04-07 03:03:00",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-04-07 03:03:00",
       "album": {
-        "name": "Gustavo Mioto Ao Vivo Em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/7LTRGI9fTyJjXxYIuGjGQy"
+        "name": "Tudo Em Paz",
+        "url": "https://open.spotify.com/album/57h6WHDjwNGIs5NMeKYEoL"
       },
       "artists": [
         {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 191866,
-      "name": "Contram\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/5g2HVlqROusgDTtun6Y5Tn"
+      "duration_ms": 174081,
+      "name": "Namorando Com Saudade",
+      "url": "https://open.spotify.com/track/6m84TzSTM5nbwZxIxkYHz6"
     },
     {
       "added_at": "2023-04-07 03:03:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-04-07 03:03:00",
       "album": {
-        "name": "Beijo B\u00eabado",
-        "url": "https://open.spotify.com/album/470aKYBGvnxmnTp9ewZQtW"
+        "name": "Por Inteiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/72SOxntkBoOczJaepEqb1O"
       },
       "artists": [
         {
-          "name": "Jonas Esticado",
-          "url": "https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag"
+          "name": "Felipe Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
         }
       ],
-      "duration_ms": 168521,
-      "name": "Beijo B\u00eabado",
-      "url": "https://open.spotify.com/track/3BigzTTQfP3xSLPKATYSop"
+      "duration_ms": 179100,
+      "name": "Espa\u00e7osa Demais - Ao Vivo",
+      "url": "https://open.spotify.com/track/4frNT1Vw4MbKbS1ngKodkv"
     },
     {
       "added_at": "2023-04-07 03:03:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-04-07 03:03:00",
       "album": {
-        "name": "10 Anos (Ao Vivo) - Deluxe",
-        "url": "https://open.spotify.com/album/0wiTSo8xXBIvvkhZNJFWCm"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 228350,
-      "name": "Pergunta Boba - Ao Vivo",
-      "url": "https://open.spotify.com/track/36OBPVuz58hAsKxgLCKer6"
-    },
-    {
-      "added_at": "2023-04-07 03:03:00",
-      "album": {
         "name": "O C\u00e9u Explica Tudo (Ao Vivo)",
         "url": "https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 163089,
       "name": "De Tr\u00e1s Pra Frente - Ao Vivo",
       "url": "https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG"
+    },
+    {
+      "added_at": "2023-04-07 03:03:00",
+      "album": {
+        "name": "10 Anos (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/0wiTSo8xXBIvvkhZNJFWCm"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 228350,
+      "name": "Pergunta Boba - Ao Vivo",
+      "url": "https://open.spotify.com/track/36OBPVuz58hAsKxgLCKer6"
     },
     {
       "added_at": "2023-04-07 03:03:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-04-07 03:03:00",
       "album": {
-        "name": "Por Inteiro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/72SOxntkBoOczJaepEqb1O"
+        "name": "Beijo B\u00eabado",
+        "url": "https://open.spotify.com/album/470aKYBGvnxmnTp9ewZQtW"
       },
       "artists": [
         {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
+          "name": "Jonas Esticado",
+          "url": "https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag"
         }
       ],
-      "duration_ms": 179100,
-      "name": "Espa\u00e7osa Demais - Ao Vivo",
-      "url": "https://open.spotify.com/track/4frNT1Vw4MbKbS1ngKodkv"
+      "duration_ms": 168521,
+      "name": "Beijo B\u00eabado",
+      "url": "https://open.spotify.com/track/3BigzTTQfP3xSLPKATYSop"
     },
     {
       "added_at": "2023-04-07 03:03:00",
@@ -715,6 +715,22 @@
       "duration_ms": 164956,
       "name": "O Alvo (feat. Henrique & Juliano) - Ao Vivo",
       "url": "https://open.spotify.com/track/5Vw6ZLNB6Ko7VZM6vmNIbr"
+    },
+    {
+      "added_at": "2023-04-07 03:03:00",
+      "album": {
+        "name": "Jorge & Mateus El\u00e9trico",
+        "url": "https://open.spotify.com/album/0RkEgK2Ch7H5IURwDYTTnt"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 212560,
+      "name": "Pense Em Mim - Jorge & Mateus El\u00e9trico",
+      "url": "https://open.spotify.com/track/24IMxi4RUakB4bleLn2uBE"
     },
     {
       "added_at": "2023-04-07 03:03:00",
@@ -783,22 +799,6 @@
     {
       "added_at": "2023-04-07 03:03:00",
       "album": {
-        "name": "Jorge & Mateus El\u00e9trico",
-        "url": "https://open.spotify.com/album/0RkEgK2Ch7H5IURwDYTTnt"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 212560,
-      "name": "Pense Em Mim - Jorge & Mateus El\u00e9trico",
-      "url": "https://open.spotify.com/track/24IMxi4RUakB4bleLn2uBE"
-    },
-    {
-      "added_at": "2023-04-07 03:03:00",
-      "album": {
         "name": "Pulei na Piscina (Ao Vivo)",
         "url": "https://open.spotify.com/album/59wHxqp3FE5gfK0l4wAIc8"
       },
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-04-07 03:03:00",
       "album": {
-        "name": "Buteco do Gusttavo Lima, Vol. 2",
-        "url": "https://open.spotify.com/album/1quJKGITMBDF2S4x0Zl2Vn"
+        "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia - EP1",
+        "url": "https://open.spotify.com/album/2lmLfahVMp5C3w9HW5TxbL"
       },
       "artists": [
         {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
         }
       ],
-      "duration_ms": 199701,
-      "name": "Apelido Carinhoso",
-      "url": "https://open.spotify.com/track/5xYsacjSZrSYJQDacIs0tq"
+      "duration_ms": 190244,
+      "name": "\u00c1udio - Ao Vivo em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/2PqPSf3gtTED79rWGwVtYg"
     },
     {
       "added_at": "2023-04-07 03:03:00",

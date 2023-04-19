@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-643 songs - 1 day 8 hr 27 min
+644 songs - 1 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [AMCAS RMX](https://open.spotify.com/track/6w55Qrt9626sXuYs01trjl) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO) | [AMCAS RMX](https://open.spotify.com/album/5z0IefAAQPkTshW861JWCu) | 2:29 | 2021-05-16 | 2021-11-22 |
 | [Andale](https://open.spotify.com/track/2V64fb2d4QiLDJggvQ96oP) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Andale](https://open.spotify.com/album/23Au9Guf2G0eJfYnHLO1Pw) | 2:44 | 2021-05-09 | 2021-05-10 |
 | [Anla](https://open.spotify.com/track/5SFBaOi2ELB2P5tFzmcD73) | [Diyar Pala](https://open.spotify.com/artist/23Q5T7JtqekFJMbC0XKxnh) | [Yeni Bir Flow](https://open.spotify.com/album/04WsTZt99MiX7jqrEeVTI2) | 4:29 | 2022-03-07 | 2022-06-24 |
-| [ANLARSIN](https://open.spotify.com/track/7422iH48oKjQzRNC8khQnK) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [ANLARSIN](https://open.spotify.com/album/1u95gvoiah3kNlf4s2sBjZ) | 2:58 | 2023-04-15 |  |
+| [ANLARSIN](https://open.spotify.com/track/7422iH48oKjQzRNC8khQnK) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [ANLARSIN](https://open.spotify.com/album/1u95gvoiah3kNlf4s2sBjZ) | 2:58 | 2023-04-15 | 2023-04-19 |
 | [Anlayamazsın](https://open.spotify.com/track/39DenhkBkmDsYBpl1rAchr) | [Seksendört](https://open.spotify.com/artist/7IgzsWd4tWIn70uh6dAq8d) | [Anlayamazsın](https://open.spotify.com/album/2wvOjQFpSeiG1nETlPZEHA) | 4:02 | 2022-05-11 | 2022-06-07 |
 | [ANNEM](https://open.spotify.com/track/0sV8aF2nsRakm2p8czHQ2i) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 1:26 | 2022-03-20 | 2022-03-22 |
 | [ANORMAL](https://open.spotify.com/track/1x3Ow6I8AbWQyWHXFm5HzP) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [ANORMAL](https://open.spotify.com/album/4N73K1AtTOM4p5HXN3s8Nh) | 1:54 | 2022-09-14 | 2022-12-01 |
@@ -252,7 +252,7 @@
 | [Gunes X Lvbel C5 \- Nkbi](https://open.spotify.com/track/7tQTx7U6GqVdso7BQDkVqo) | [Lythx](https://open.spotify.com/artist/01ffRQ3o5VegxsABrqos6d), [diegoxrd](https://open.spotify.com/artist/2cKOuKNF2sw9pDsMbT0ObI) | [Gunes X Lvbel C5 \- Nkbi](https://open.spotify.com/album/1TvKetNmtPyfJLSOM59heQ) | 2:58 | 2022-11-30 | 2022-12-02 |
 | [Göklerde Süzülürken](https://open.spotify.com/track/1OGVpaGlCnrjrR9UtlWMeP) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae), [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Göklerde Süzülürken](https://open.spotify.com/album/1SKF2eZTWPF2MamWPbliE9) | 3:10 | 2021-12-12 | 2022-01-08 |
 | [Gökyüzü Limit](https://open.spotify.com/track/0M32M4AGy7cSa9hk0PE6Rc) | [Ceg](https://open.spotify.com/artist/2QDHxmDObOuv9MCeBYiFtq) | [Gökyüzü Limit](https://open.spotify.com/album/391uE8gkkv8IrAAHHhEoV5) | 3:00 | 2022-01-29 | 2022-01-31 |
-| [Gökyüzünü Tutamam](https://open.spotify.com/track/4O9hcXs1ohtbw4xnMU8wfo) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Gökyüzünü Tutamam](https://open.spotify.com/album/37iuuRYc7PaOzwN8pWfE8M) | 3:15 | 2022-03-23 | 2023-04-17 |
+| [Gökyüzünü Tutamam](https://open.spotify.com/track/4O9hcXs1ohtbw4xnMU8wfo) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Gökyüzünü Tutamam](https://open.spotify.com/album/37iuuRYc7PaOzwN8pWfE8M) | 3:15 | 2022-03-23 |  |
 | [Gönder Gelsin](https://open.spotify.com/track/00qZC0FlaCP0BiefyKDqnt) | [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Gönder Gelsin](https://open.spotify.com/album/2sSQdOlLIFPJPxXJPtTJgR) | 2:47 | 2021-06-24 | 2021-07-04 |
 | [GÖNDER GELSİN](https://open.spotify.com/track/6zUeLNZHEzENd8ts4V9yj2) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [C5MODE](https://open.spotify.com/album/7wl0FR75O4TFKi6QaM4gFu) | 2:06 | 2022-03-20 | 2022-08-06 |
 | [Göremediğin](https://open.spotify.com/track/2ZDj6yB2AnATAciTurevZd) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Berk Erdemanar](https://open.spotify.com/artist/6JDTOIram8oMZVaF3GZPyw), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Paradoks](https://open.spotify.com/album/4H5WUnotu7FGuDVhQhophq) | 3:37 | 2022-05-14 | 2022-05-21 |
@@ -479,7 +479,8 @@
 | [Peygamber Sabrı](https://open.spotify.com/track/3GFRJgMAPKeYJ717UeB0zp) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7), [GOKO!](https://open.spotify.com/artist/2XsT1ReJB0oZykMLN0bEun) | [Kara Tiyatro](https://open.spotify.com/album/2XAdcXHwb3SnZLmr0z2eTe) | 3:11 | 2021-05-30 | 2021-06-01 |
 | [Peşimde](https://open.spotify.com/track/5G5CKxNBvl6FRqNdVnmJUC) | [Kerimcan Durmaz](https://open.spotify.com/artist/6SuvCvIgTchPW2bcuXSKzM) | [Peşimde](https://open.spotify.com/album/5FAaYhLsDUf4zlwd2kWcHm) | 2:56 | 2021-03-27\* | 2021-05-05 |
 | [Peşimde Kara Geceler](https://open.spotify.com/track/0kb45bLkER1V0gcu2rnw69) | [Şanışer](https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86) | [Peşimde Kara Geceler](https://open.spotify.com/album/2o7SQ9Prx0iwQy73EZxaPT) | 3:05 | 2021-03-27 | 2021-04-04 |
-| [PHONK \(200mg\)](https://open.spotify.com/track/4cgVi9Xzj8velq5QsqNhra) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [CAFFEINEE](https://open.spotify.com/album/7ASieGwTHZPETx33e34bFV) | 1:44 | 2023-04-08 |  |
+| [PHONK \(200mg\)](https://open.spotify.com/track/1zlGixc7OsDRIo9gRNlkL8) | [alp](https://open.spotify.com/artist/68HmlhLUXj2mdknRxdEyWC) | [CAFFEINEE](https://open.spotify.com/album/7l1UlBbz9wUgMBxSd9jNjv) | 1:44 | 2023-04-18 |  |
+| [PHONK \(200mg\)](https://open.spotify.com/track/4cgVi9Xzj8velq5QsqNhra) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [CAFFEINEE](https://open.spotify.com/album/7ASieGwTHZPETx33e34bFV) | 1:44 | 2023-04-08 | 2023-04-19 |
 | [PHONK \(200mg\)](https://open.spotify.com/track/5L94pS0Z0qHqtVZtHbHXAb) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [CAFFEINEE](https://open.spotify.com/album/6vlN46Kthwc4kvnFSoYudm) | 1:44 | 2023-04-01 | 2023-04-03 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 | 2022-09-03 |
 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-18 | 2022-09-20 |

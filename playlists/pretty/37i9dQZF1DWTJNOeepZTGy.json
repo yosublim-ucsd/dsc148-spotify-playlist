@@ -1,12 +1,12 @@
 {
   "description": "As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.",
-  "num_followers": 252455,
+  "num_followers": 252480,
   "original_name": "Wine & Dine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzU0NTE5OCwwMDAwMDAwMDI2MTQxNjNlNjA0NmQwY2Y1ZDhiM2YwOWE3Y2ZlNzBj",
+  "snapshot_id": "MTY3MzU0NTE5OCwwMDAwMDAwMDg3NWM4YmUxOTNlMGNjMzFmZGNmMjRjZmMwYzg2OTJj",
   "tracks": [
     {
       "added_at": "2022-05-24 13:35:26",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Outrun The Sky",
-        "url": "https://open.spotify.com/album/6owHkIavlncFxnnbUMJwbE"
-      },
-      "artists": [
-        {
-          "name": "Lalah Hathaway",
-          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
-        }
-      ],
-      "duration_ms": 352400,
-      "name": "Forever, For Always, For Love",
-      "url": "https://open.spotify.com/track/6tQX9qDeJ88Vhk7uZfFvNo"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
         "name": "Epiphany",
         "url": "https://open.spotify.com/album/4aIivYvBovLqNbsbBB4UuN"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 220826,
       "name": "All I Ever Think About",
       "url": "https://open.spotify.com/track/4KWRdYADKz1Fo1eLXWuMLi"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "Outrun The Sky",
+        "url": "https://open.spotify.com/album/6owHkIavlncFxnnbUMJwbE"
+      },
+      "artists": [
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        }
+      ],
+      "duration_ms": 352400,
+      "name": "Forever, For Always, For Love",
+      "url": "https://open.spotify.com/track/6tQX9qDeJ88Vhk7uZfFvNo"
     },
     {
       "added_at": "2022-05-24 13:35:26",
@@ -803,26 +803,6 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Back Together (feat. Rick James)",
-        "url": "https://open.spotify.com/album/47m94t0suSEty3IMVmiCKL"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        },
-        {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
-        }
-      ],
-      "duration_ms": 238717,
-      "name": "Back Together (feat. Rick James)",
-      "url": "https://open.spotify.com/track/42CgYmz74tNngUErbZ48x6"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
         "name": "Mahogany Soul",
         "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 236240,
       "name": "The Ingredients Of Love (feat. Musiq Soulchild)",
       "url": "https://open.spotify.com/track/46ojXpU8hKUPFiDhBwUt6J"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
+        "name": "Back Together (feat. Rick James)",
+        "url": "https://open.spotify.com/album/47m94t0suSEty3IMVmiCKL"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        },
+        {
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+        }
+      ],
+      "duration_ms": 238717,
+      "name": "Back Together (feat. Rick James)",
+      "url": "https://open.spotify.com/track/42CgYmz74tNngUErbZ48x6"
     },
     {
       "added_at": "2022-05-24 13:35:26",

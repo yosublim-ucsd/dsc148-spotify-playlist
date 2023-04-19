@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: Nivel Codiciado ",
-  "num_followers": 98405,
+  "num_followers": 98427,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMzE5MywwMDAwMDAwMGRlNWE0NjE3OTM3ODI2YmFjYTRlMmFkYmY4YTBmN2Q1",
+  "snapshot_id": "MTY3OTAzMzE5MywwMDAwMDAwMGMzMGJkNDdiMzg3MjJmNjk1M2QyYTliODcwYzkyMjcw",
   "tracks": [
     {
       "added_at": "2023-03-17 06:06:33",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Me Dejaste en Cero",
-        "url": "https://open.spotify.com/album/2ibH9gTeQQ741EqrYNoaiv"
-      },
-      "artists": [
-        {
-          "name": "Omar Rodriguez",
-          "url": "https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD"
-        }
-      ],
-      "duration_ms": 200733,
-      "name": "Me Dejaste en Cero",
-      "url": "https://open.spotify.com/track/677dhnA2KeTjbTdCLldI7E"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Amor De Lejos",
         "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 188888,
       "name": "3 AM",
       "url": "https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Me Dejaste en Cero",
+        "url": "https://open.spotify.com/album/2ibH9gTeQQ741EqrYNoaiv"
+      },
+      "artists": [
+        {
+          "name": "Omar Rodriguez",
+          "url": "https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD"
+        }
+      ],
+      "duration_ms": 200733,
+      "name": "Me Dejaste en Cero",
+      "url": "https://open.spotify.com/track/677dhnA2KeTjbTdCLldI7E"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "NO SE VA",
-        "url": "https://open.spotify.com/album/5z76Ks0UDPdGBXNwDbd3X4"
-      },
-      "artists": [
-        {
-          "name": "juanitoo2x",
-          "url": "https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf"
-        }
-      ],
-      "duration_ms": 251981,
-      "name": "NO SE VA",
-      "url": "https://open.spotify.com/track/15zTvIhkmoEiCJU1dcagkd"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Modo Avi\u00f3n",
         "url": "https://open.spotify.com/album/2C32pT8EsdDNFRcNBBo9V1"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 211106,
       "name": "Modo Avi\u00f3n",
       "url": "https://open.spotify.com/track/1eqM9yaPSVqyCPBqoHLWvk"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "NO SE VA",
+        "url": "https://open.spotify.com/album/5z76Ks0UDPdGBXNwDbd3X4"
+      },
+      "artists": [
+        {
+          "name": "juanitoo2x",
+          "url": "https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf"
+        }
+      ],
+      "duration_ms": 251981,
+      "name": "NO SE VA",
+      "url": "https://open.spotify.com/track/15zTvIhkmoEiCJU1dcagkd"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Tu",
-        "url": "https://open.spotify.com/album/08XXrFdbOuySISB5Nu7avE"
-      },
-      "artists": [
-        {
-          "name": "Panchito Vega",
-          "url": "https://open.spotify.com/artist/3YJGzBDtf6ekCkxVRcdRjg"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Tu",
-      "url": "https://open.spotify.com/track/6bq5ZnMxiyQESyr8t4hjbl"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Ojos Cerrados",
         "url": "https://open.spotify.com/album/7xjUV7ZXdvrwMoLgq9fZIq"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 156354,
       "name": "Ojos Cerrados",
       "url": "https://open.spotify.com/track/4qTncV5AzPvi7lo3Sb1MiM"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/08XXrFdbOuySISB5Nu7avE"
+      },
+      "artists": [
+        {
+          "name": "Panchito Vega",
+          "url": "https://open.spotify.com/artist/3YJGzBDtf6ekCkxVRcdRjg"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/6bq5ZnMxiyQESyr8t4hjbl"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Adrenalina",
-        "url": "https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc"
-      },
-      "artists": [
-        {
-          "name": "Lluvia Ar\u00e1mbula",
-          "url": "https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92"
-        }
-      ],
-      "duration_ms": 117429,
-      "name": "Soy Mala",
-      "url": "https://open.spotify.com/track/10pyLImhmwLQcl3G4ahJZB"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Ven Conmigo",
         "url": "https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 202197,
       "name": "Ven Conmigo",
       "url": "https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Adrenalina",
+        "url": "https://open.spotify.com/album/4806StxcG6kpJXdGwMH9Tc"
+      },
+      "artists": [
+        {
+          "name": "Lluvia Ar\u00e1mbula",
+          "url": "https://open.spotify.com/artist/1GNHRCTZBHUf8rYfPTjT92"
+        }
+      ],
+      "duration_ms": 117429,
+      "name": "Soy Mala",
+      "url": "https://open.spotify.com/track/10pyLImhmwLQcl3G4ahJZB"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "amorlove",
-        "url": "https://open.spotify.com/album/6rShPRJVTWIv4uvdcQgKmZ"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 149386,
-      "name": "amorlove",
-      "url": "https://open.spotify.com/track/7FwmTxJMAymJsRwR4YVPYF"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Te Voy a Extra\u00f1ar",
         "url": "https://open.spotify.com/album/1eYGKfBjoEEotKjRlqUTkG"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 175285,
       "name": "Te Voy a Extra\u00f1ar",
       "url": "https://open.spotify.com/track/04vBxuAspmsQYLa1KprV8m"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "amorlove",
+        "url": "https://open.spotify.com/album/6rShPRJVTWIv4uvdcQgKmZ"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 149386,
+      "name": "amorlove",
+      "url": "https://open.spotify.com/track/7FwmTxJMAymJsRwR4YVPYF"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "El Jamaico",
-        "url": "https://open.spotify.com/album/4hgCUGj95UEGaoM83P5V33"
-      },
-      "artists": [
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        }
-      ],
-      "duration_ms": 144340,
-      "name": "El Jamaico",
-      "url": "https://open.spotify.com/track/5mfbrsTi4Xln6E3MKVC0yE"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "El Gre\u00f1as (En Vivo)",
         "url": "https://open.spotify.com/album/2ZMkNiFE1guFx7ulP7AlOH"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 143816,
       "name": "El Gre\u00f1as (En Vivo)",
       "url": "https://open.spotify.com/track/498M1LbXbA0ePdNGYtE8di"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "El Jamaico",
+        "url": "https://open.spotify.com/album/4hgCUGj95UEGaoM83P5V33"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "duration_ms": 144340,
+      "name": "El Jamaico",
+      "url": "https://open.spotify.com/track/5mfbrsTi4Xln6E3MKVC0yE"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
+        "name": "El Raulito",
+        "url": "https://open.spotify.com/album/4ZqXlZBnogGgyyX7XdxqsD"
+      },
+      "artists": [
+        {
+          "name": "Pitt Blanco",
+          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "El Raulito",
+      "url": "https://open.spotify.com/track/0T8psfzHptYOA1GHDBqgbx"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
         "name": "Estilo Palazuelos",
         "url": "https://open.spotify.com/album/6HsO8c5hUFWSxr0C4zuCLC"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 155821,
       "name": "Estilo Palazuelos",
       "url": "https://open.spotify.com/track/0XYMZS9FTl0MSPUaZkDqmF"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
-        "name": "El Raulito",
-        "url": "https://open.spotify.com/album/4ZqXlZBnogGgyyX7XdxqsD"
-      },
-      "artists": [
-        {
-          "name": "Pitt Blanco",
-          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "El Raulito",
-      "url": "https://open.spotify.com/track/0T8psfzHptYOA1GHDBqgbx"
     },
     {
       "added_at": "2023-03-17 06:06:33",

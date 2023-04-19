@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Anuel AA.",
-  "num_followers": 142194,
+  "num_followers": 142293,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDAwNWI4NWQ2MWE4NDg2Y2QwZjVmNDRmYjI0MWRmN2Fk",
+  "snapshot_id": "MTY2ODc0MDQwMCwwMDAwMDAwMDM3NzRhMjE2NzBhYmJiMDZjNjIyYjk1MjIwZTU4NTFl",
   "tracks": [
     {
       "added_at": "2022-11-18 03:00:00",
@@ -447,26 +447,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Reloj",
-        "url": "https://open.spotify.com/album/56vYUqyoaBCrokFauIuXIk"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 231594,
-      "name": "Reloj",
-      "url": "https://open.spotify.com/track/7r9ZhitdQBONTFOiJW5mr8"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
         "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 280274,
       "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
       "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Reloj",
+        "url": "https://open.spotify.com/album/56vYUqyoaBCrokFauIuXIk"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 231594,
+      "name": "Reloj",
+      "url": "https://open.spotify.com/track/7r9ZhitdQBONTFOiJW5mr8"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -879,30 +879,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Don Don",
-        "url": "https://open.spotify.com/album/5xBO97P4jYEn69VzV06503"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Kendo Kaponi",
-          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
-        }
-      ],
-      "duration_ms": 275893,
-      "name": "Don Don",
-      "url": "https://open.spotify.com/track/3kml9ZdpT7UYk1ugkjqOzt"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "La Mentira (Remix)",
         "url": "https://open.spotify.com/album/1wFqv2q07zfETMmB1NMDyC"
       },
@@ -935,6 +911,30 @@
       "duration_ms": 388800,
       "name": "La Mentira - Remix",
       "url": "https://open.spotify.com/track/4jBpZsZ9qx3cZhoEfuKElF"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Don Don",
+        "url": "https://open.spotify.com/album/5xBO97P4jYEn69VzV06503"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Kendo Kaponi",
+          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
+        }
+      ],
+      "duration_ms": 275893,
+      "name": "Don Don",
+      "url": "https://open.spotify.com/track/3kml9ZdpT7UYk1ugkjqOzt"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Dimelo Ma",
-        "url": "https://open.spotify.com/album/583gfP3iFB0x498Z8jwVuh"
-      },
-      "artists": [
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        }
-      ],
-      "duration_ms": 173187,
-      "name": "Dimelo Ma",
-      "url": "https://open.spotify.com/track/1j1itFzuIbndSf6lW8L1Kx"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/2cBkMGeCncULhhWSVjzbj8"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 201858,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/31jZbIjJFvIJaWjqmeEl71"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Dimelo Ma",
+        "url": "https://open.spotify.com/album/583gfP3iFB0x498Z8jwVuh"
+      },
+      "artists": [
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "duration_ms": 173187,
+      "name": "Dimelo Ma",
+      "url": "https://open.spotify.com/track/1j1itFzuIbndSf6lW8L1Kx"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1295,6 +1295,42 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/3U73C3VYVAeMjvxOizh5Ad"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
+        "name": "Rata Tan Tan",
+        "url": "https://open.spotify.com/album/0i7LxLqsHbR0lz6MJQyZt1"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        }
+      ],
+      "duration_ms": 152731,
+      "name": "Rata Tan Tan",
+      "url": "https://open.spotify.com/track/7wWqLiOmDfjGTwrz95niTD"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Farandulera",
         "url": "https://open.spotify.com/album/2tHguZJHyNpd3I9ejgDNlp"
       },
@@ -1319,38 +1355,26 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
-        "name": "Rata Tan Tan",
-        "url": "https://open.spotify.com/album/0i7LxLqsHbR0lz6MJQyZt1"
+        "name": "Guayo",
+        "url": "https://open.spotify.com/album/7wGdslyqdVvqMV3nPAL6uN"
       },
       "artists": [
         {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        }
-      ],
-      "duration_ms": 152731,
-      "name": "Rata Tan Tan",
-      "url": "https://open.spotify.com/track/7wWqLiOmDfjGTwrz95niTD"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP"
-      },
-      "artists": [
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
         },
         {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
         }
       ],
-      "duration_ms": 173226,
-      "name": "Taxi",
-      "url": "https://open.spotify.com/track/3U73C3VYVAeMjvxOizh5Ad"
+      "duration_ms": 222301,
+      "name": "Guayo",
+      "url": "https://open.spotify.com/track/4MR1AZhe1p0zTuH2HGhX9L"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1383,30 +1407,6 @@
       "duration_ms": 275241,
       "name": "Pirueta (with Arcangel, Chencho Corleone, feat. Wisin & Yandel, Myke Towers)",
       "url": "https://open.spotify.com/track/5tx7TTJEcrV5642l0Sn2sD"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Guayo",
-        "url": "https://open.spotify.com/album/7wGdslyqdVvqMV3nPAL6uN"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Haze",
-          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
-        }
-      ],
-      "duration_ms": 222301,
-      "name": "Guayo",
-      "url": "https://open.spotify.com/track/4MR1AZhe1p0zTuH2HGhX9L"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "Los Favoritos 2",
+        "url": "https://open.spotify.com/album/2TUgzZ8XOE8jm7tDpU4iME"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 188960,
+      "name": "Payaso",
+      "url": "https://open.spotify.com/track/44r2HY8ZnKa5gJRqnKw7Sq"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Parcera",
         "url": "https://open.spotify.com/album/6GRHOMthTb0HMOZDO26D8j"
       },
@@ -1995,22 +2011,6 @@
       "duration_ms": 213652,
       "name": "Parcera",
       "url": "https://open.spotify.com/track/0oct4TDwzs5eydTdDhCj6M"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "Los Favoritos 2",
-        "url": "https://open.spotify.com/album/2TUgzZ8XOE8jm7tDpU4iME"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 188960,
-      "name": "Payaso",
-      "url": "https://open.spotify.com/track/44r2HY8ZnKa5gJRqnKw7Sq"
     },
     {
       "added_at": "2022-11-18 03:00:00",
@@ -2131,6 +2131,22 @@
     {
       "added_at": "2022-11-18 03:00:00",
       "album": {
+        "name": "GRACIAS X",
+        "url": "https://open.spotify.com/album/6eB9UMscdIqZ24fEUPQr1x"
+      },
+      "artists": [
+        {
+          "name": "Tommy Boysen",
+          "url": "https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO"
+        }
+      ],
+      "duration_ms": 170731,
+      "name": "El Papi",
+      "url": "https://open.spotify.com/track/6NqQDbkgW05BV3GcBFipPs"
+    },
+    {
+      "added_at": "2022-11-18 03:00:00",
+      "album": {
         "name": "Pikete",
         "url": "https://open.spotify.com/album/2cmERLzPC9l87fy9sTzedd"
       },
@@ -2147,22 +2163,6 @@
       "duration_ms": 153191,
       "name": "Pikete",
       "url": "https://open.spotify.com/track/50QqjYyqOapIo9CG7aBvKw"
-    },
-    {
-      "added_at": "2022-11-18 03:00:00",
-      "album": {
-        "name": "GRACIAS X",
-        "url": "https://open.spotify.com/album/6eB9UMscdIqZ24fEUPQr1x"
-      },
-      "artists": [
-        {
-          "name": "Tommy Boysen",
-          "url": "https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO"
-        }
-      ],
-      "duration_ms": 170731,
-      "name": "El Papi",
-      "url": "https://open.spotify.com/track/6NqQDbkgW05BV3GcBFipPs"
     }
   ],
   "unique_name": "Rimas y Perreo",

@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Venna + Knucks",
-  "num_followers": 282256,
+  "num_followers": 282367,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ5MzIyNSwwMDAwMDAwMDY2YzAwMzRlYTBlNDY1MDAzZDczZDQ0ODU1OTlmNjgy",
+  "snapshot_id": "MTY4MTQ5MzIyNSwwMDAwMDAwMDc5MmU1ZGYwNjM2MmM0NmJjODZhMWJhN2MyMTAwOWE1",
   "tracks": [
     {
       "added_at": "2023-04-14 17:27:05",
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-04-14 17:27:05",
       "album": {
+        "name": "Jazz Club After Hours",
+        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 294211,
+      "name": "Jazz Club After Hours",
+      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
+    },
+    {
+      "added_at": "2023-04-14 17:27:05",
+      "album": {
         "name": "Aged Eyes",
         "url": "https://open.spotify.com/album/7A6hBg9U4hIYiCLcthKQzG"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 246400,
       "name": "Aged Eyes",
       "url": "https://open.spotify.com/track/7xtWxotWjZAFB1rw5J3HHz"
-    },
-    {
-      "added_at": "2023-04-14 17:27:05",
-      "album": {
-        "name": "Jazz Club After Hours",
-        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 294211,
-      "name": "Jazz Club After Hours",
-      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
     },
     {
       "added_at": "2023-04-14 17:27:05",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-04-14 17:27:05",
       "album": {
-        "name": "The Spinner",
-        "url": "https://open.spotify.com/album/50a5yWK8jin5JfcZRAHNeK"
-      },
-      "artists": [
-        {
-          "name": "Mammal Hands",
-          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
-        }
-      ],
-      "duration_ms": 319829,
-      "name": "The Spinner",
-      "url": "https://open.spotify.com/track/6xcRnI7LJAONyd2kmk5564"
-    },
-    {
-      "added_at": "2023-04-14 17:27:05",
-      "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/2iJ77SyZvqXvNPdf71QGp3"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 302822,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/4R8UmyApZzuYNSiEoKWYt3"
+    },
+    {
+      "added_at": "2023-04-14 17:27:05",
+      "album": {
+        "name": "The Spinner",
+        "url": "https://open.spotify.com/album/50a5yWK8jin5JfcZRAHNeK"
+      },
+      "artists": [
+        {
+          "name": "Mammal Hands",
+          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
+        }
+      ],
+      "duration_ms": 319829,
+      "name": "The Spinner",
+      "url": "https://open.spotify.com/track/6xcRnI7LJAONyd2kmk5564"
     },
     {
       "added_at": "2023-04-14 17:27:05",
@@ -791,24 +791,8 @@
     {
       "added_at": "2023-04-14 17:27:05",
       "album": {
-        "name": "The Spoon",
-        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        }
-      ],
-      "duration_ms": 389240,
-      "name": "Feet Down South",
-      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
-    },
-    {
-      "added_at": "2023-04-14 17:27:05",
-      "album": {
-        "name": "Just The Same",
-        "url": "https://open.spotify.com/album/7CpVdBoh3WKtZdINeoKS4s"
+        "name": "edbl & friends - JPRK",
+        "url": "https://open.spotify.com/album/61TTiDwK1dT9CDWczbcg8G"
       },
       "artists": [
         {
@@ -816,21 +800,13 @@
           "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
         },
         {
-          "name": "James Berkeley",
-          "url": "https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu"
-        },
-        {
-          "name": "Miller Blue",
-          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
-        },
-        {
-          "name": "Yakul",
-          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
+          "name": "JPRK",
+          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
         }
       ],
-      "duration_ms": 217760,
-      "name": "Just The Same",
-      "url": "https://open.spotify.com/track/3F2Vqu9r6BvGRZBCwQZVGx"
+      "duration_ms": 161771,
+      "name": "5k",
+      "url": "https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp"
     },
     {
       "added_at": "2023-04-14 17:27:05",
@@ -847,6 +823,22 @@
       "duration_ms": 196235,
       "name": "Something I Said",
       "url": "https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY"
+    },
+    {
+      "added_at": "2023-04-14 17:27:05",
+      "album": {
+        "name": "The Spoon",
+        "url": "https://open.spotify.com/album/4Pfga6q08NsQtvmDaRnfnq"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "duration_ms": 389240,
+      "name": "Feet Down South",
+      "url": "https://open.spotify.com/track/2Jgs5MwS9iv3UTH5q6LFvs"
     },
     {
       "added_at": "2023-04-14 17:27:05",
@@ -919,6 +911,70 @@
     {
       "added_at": "2023-04-14 17:27:05",
       "album": {
+        "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
+        "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        },
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
+      "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
+    },
+    {
+      "added_at": "2023-04-14 17:27:05",
+      "album": {
+        "name": "Just The Same",
+        "url": "https://open.spotify.com/album/7CpVdBoh3WKtZdINeoKS4s"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "James Berkeley",
+          "url": "https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu"
+        },
+        {
+          "name": "Miller Blue",
+          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
+        },
+        {
+          "name": "Yakul",
+          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
+        }
+      ],
+      "duration_ms": 217760,
+      "name": "Just The Same",
+      "url": "https://open.spotify.com/track/3F2Vqu9r6BvGRZBCwQZVGx"
+    },
+    {
+      "added_at": "2023-04-14 17:27:05",
+      "album": {
+        "name": "Lady (Ezra Collective Version)",
+        "url": "https://open.spotify.com/album/4yw5JJgvqt2Lv8aT24tqK3"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 347266,
+      "name": "Lady (Ezra Collective Version)",
+      "url": "https://open.spotify.com/track/7qxfxicaAE5DLMxXx0IvoG"
+    },
+    {
+      "added_at": "2023-04-14 17:27:05",
+      "album": {
         "name": "Miles Chases New Voodoo In The Church",
         "url": "https://open.spotify.com/album/6mPJCWZ3pbHquYKno7gPB3"
       },
@@ -983,62 +1039,6 @@
     {
       "added_at": "2023-04-14 17:27:05",
       "album": {
-        "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
-        "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
-      },
-      "artists": [
-        {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
-        },
-        {
-          "name": "Nala Sinephro",
-          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
-      "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
-    },
-    {
-      "added_at": "2023-04-14 17:27:05",
-      "album": {
-        "name": "edbl & friends - JPRK",
-        "url": "https://open.spotify.com/album/61TTiDwK1dT9CDWczbcg8G"
-      },
-      "artists": [
-        {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "JPRK",
-          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
-        }
-      ],
-      "duration_ms": 161771,
-      "name": "5k",
-      "url": "https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp"
-    },
-    {
-      "added_at": "2023-04-14 17:27:05",
-      "album": {
-        "name": "Lady (Ezra Collective Version)",
-        "url": "https://open.spotify.com/album/4yw5JJgvqt2Lv8aT24tqK3"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 347266,
-      "name": "Lady (Ezra Collective Version)",
-      "url": "https://open.spotify.com/track/7qxfxicaAE5DLMxXx0IvoG"
-    },
-    {
-      "added_at": "2023-04-14 17:27:05",
-      "album": {
         "name": "Red and Green (Blue Lab Beats Remix)",
         "url": "https://open.spotify.com/album/1ifUgR4IwQyFNhMI3FZzM6"
       },
@@ -1091,22 +1091,34 @@
     {
       "added_at": "2023-04-14 17:27:05",
       "album": {
-        "name": "Real Good (Kan Sano Remix)",
-        "url": "https://open.spotify.com/album/0EWaHIvuG9d95xvmPTy2rR"
+        "name": "May The Funk Be With You",
+        "url": "https://open.spotify.com/album/5WoBBQEGsj7URsnboRwGVQ"
       },
       "artists": [
         {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
-        },
-        {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
         }
       ],
-      "duration_ms": 188571,
-      "name": "Real Good - Kan Sano Remix",
-      "url": "https://open.spotify.com/track/0i8cpVrAhgU8AVUbbksw8o"
+      "duration_ms": 267213,
+      "name": "May The Funk Be With You",
+      "url": "https://open.spotify.com/track/0nLPiYtwLN82ohURgzmY0j"
+    },
+    {
+      "added_at": "2023-04-14 17:27:05",
+      "album": {
+        "name": "It's All Relative",
+        "url": "https://open.spotify.com/album/5fnXzQ7I4DTOvpqGY5GIKZ"
+      },
+      "artists": [
+        {
+          "name": "J-Fills",
+          "url": "https://open.spotify.com/artist/1IG1876d05DNkNOHIc9wZC"
+        }
+      ],
+      "duration_ms": 198843,
+      "name": "Begotten",
+      "url": "https://open.spotify.com/track/26FJaA3wWRE8MlgbFripAU"
     },
     {
       "added_at": "2023-04-14 17:27:05",
@@ -1123,6 +1135,26 @@
       "duration_ms": 204254,
       "name": "Statue",
       "url": "https://open.spotify.com/track/0ZWD4RbbbfohFrMpVlmv4f"
+    },
+    {
+      "added_at": "2023-04-14 17:27:05",
+      "album": {
+        "name": "Real Good (Kan Sano Remix)",
+        "url": "https://open.spotify.com/album/0EWaHIvuG9d95xvmPTy2rR"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        },
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Real Good - Kan Sano Remix",
+      "url": "https://open.spotify.com/track/0i8cpVrAhgU8AVUbbksw8o"
     },
     {
       "added_at": "2023-04-14 17:27:05",
@@ -1159,38 +1191,6 @@
     {
       "added_at": "2023-04-14 17:27:05",
       "album": {
-        "name": "It's All Relative",
-        "url": "https://open.spotify.com/album/5fnXzQ7I4DTOvpqGY5GIKZ"
-      },
-      "artists": [
-        {
-          "name": "J-Fills",
-          "url": "https://open.spotify.com/artist/1IG1876d05DNkNOHIc9wZC"
-        }
-      ],
-      "duration_ms": 198843,
-      "name": "Begotten",
-      "url": "https://open.spotify.com/track/26FJaA3wWRE8MlgbFripAU"
-    },
-    {
-      "added_at": "2023-04-14 17:27:05",
-      "album": {
-        "name": "May The Funk Be With You",
-        "url": "https://open.spotify.com/album/5WoBBQEGsj7URsnboRwGVQ"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 267213,
-      "name": "May The Funk Be With You",
-      "url": "https://open.spotify.com/track/0nLPiYtwLN82ohURgzmY0j"
-    },
-    {
-      "added_at": "2023-04-14 17:27:05",
-      "album": {
         "name": "So Cold",
         "url": "https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT"
       },
@@ -1207,6 +1207,26 @@
       "duration_ms": 252000,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge"
+    },
+    {
+      "added_at": "2023-04-14 17:27:05",
+      "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "Life Goes On (feat. Sampa the Great)",
+      "url": "https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O"
     },
     {
       "added_at": "2023-04-14 17:27:05",
@@ -1275,22 +1295,22 @@
     {
       "added_at": "2023-04-14 17:27:05",
       "album": {
-        "name": "Reasons",
-        "url": "https://open.spotify.com/album/3krG8OERqEnDXqZec3pU09"
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
       },
       "artists": [
         {
-          "name": "Ishmael Ensemble",
-          "url": "https://open.spotify.com/artist/6LiMIy9kwdQAfMrBInyUvY"
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
         },
         {
-          "name": "Rider Shafique",
-          "url": "https://open.spotify.com/artist/3Q0LSoV64A2FTwAFCzyDyq"
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
         }
       ],
-      "duration_ms": 292495,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/0afUusMZLIOvAJNdAoDRQm"
+      "duration_ms": 194440,
+      "name": "No Confusion (feat. Kojey Radical)",
+      "url": "https://open.spotify.com/track/7qQM4p5Kb8i6xYSkaEDYyR"
     },
     {
       "added_at": "2023-04-14 17:27:05",
@@ -1315,22 +1335,22 @@
     {
       "added_at": "2023-04-14 17:27:05",
       "album": {
-        "name": "Collage 2",
-        "url": "https://open.spotify.com/album/7wmtYbwBMDpk0ie1aSUdm4"
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/3krG8OERqEnDXqZec3pU09"
       },
       "artists": [
         {
-          "name": "Conor Albert",
-          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+          "name": "Ishmael Ensemble",
+          "url": "https://open.spotify.com/artist/6LiMIy9kwdQAfMrBInyUvY"
         },
         {
-          "name": "ELSAS",
-          "url": "https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo"
+          "name": "Rider Shafique",
+          "url": "https://open.spotify.com/artist/3Q0LSoV64A2FTwAFCzyDyq"
         }
       ],
-      "duration_ms": 192859,
-      "name": "Stuck In The Middle",
-      "url": "https://open.spotify.com/track/7zu4F2AtCvns6DINJCJ5AM"
+      "duration_ms": 292495,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/0afUusMZLIOvAJNdAoDRQm"
     },
     {
       "added_at": "2023-04-14 17:27:05",
@@ -1351,22 +1371,22 @@
     {
       "added_at": "2023-04-14 17:27:05",
       "album": {
-        "name": "Where I'm Meant To Be",
-        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
+        "name": "Collage 2",
+        "url": "https://open.spotify.com/album/7wmtYbwBMDpk0ie1aSUdm4"
       },
       "artists": [
         {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
         },
         {
-          "name": "Sampa the Great",
-          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+          "name": "ELSAS",
+          "url": "https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo"
         }
       ],
-      "duration_ms": 203560,
-      "name": "Life Goes On (feat. Sampa the Great)",
-      "url": "https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O"
+      "duration_ms": 192859,
+      "name": "Stuck In The Middle",
+      "url": "https://open.spotify.com/track/7zu4F2AtCvns6DINJCJ5AM"
     },
     {
       "added_at": "2023-04-14 17:27:05",
@@ -1439,42 +1459,6 @@
     {
       "added_at": "2023-04-14 17:27:05",
       "album": {
-        "name": "Yellow (Deluxe)",
-        "url": "https://open.spotify.com/album/43qGIZWwRrL3wQLvNyLxQz"
-      },
-      "artists": [
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        },
-        {
-          "name": "Wiki",
-          "url": "https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0"
-        }
-      ],
-      "duration_ms": 243334,
-      "name": "Golden Green feat Wiki",
-      "url": "https://open.spotify.com/track/1LVt7MokGTxUbIfwsdYoaY"
-    },
-    {
-      "added_at": "2023-04-14 17:27:05",
-      "album": {
-        "name": "piano joint",
-        "url": "https://open.spotify.com/album/6u4j6qb1hdzYthdbgyZWYG"
-      },
-      "artists": [
-        {
-          "name": "Conor Albert",
-          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
-        }
-      ],
-      "duration_ms": 175706,
-      "name": "piano joint",
-      "url": "https://open.spotify.com/track/24UxJRpZ9bhdg49QayFbcP"
-    },
-    {
-      "added_at": "2023-04-14 17:27:05",
-      "album": {
         "name": "Berlin 1 (Rework)",
         "url": "https://open.spotify.com/album/0EEWlwUdioPbc0vDHfKIRj"
       },
@@ -1491,6 +1475,26 @@
       "duration_ms": 185625,
       "name": "Berlin 1 - Rework",
       "url": "https://open.spotify.com/track/4m3dbiaVg1DIUAHlx4X2A1"
+    },
+    {
+      "added_at": "2023-04-14 17:27:05",
+      "album": {
+        "name": "Yellow (Deluxe)",
+        "url": "https://open.spotify.com/album/43qGIZWwRrL3wQLvNyLxQz"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        },
+        {
+          "name": "Wiki",
+          "url": "https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0"
+        }
+      ],
+      "duration_ms": 243334,
+      "name": "Golden Green feat Wiki",
+      "url": "https://open.spotify.com/track/1LVt7MokGTxUbIfwsdYoaY"
     }
   ],
   "unique_name": "Jazz UK",

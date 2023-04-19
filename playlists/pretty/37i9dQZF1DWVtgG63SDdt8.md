@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4?si=7125ac0f4fdf4097">Cade Thompson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,237 likes - 99 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,340 likes - 99 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 15 | [Gratitude \- LIVE from Miracle Nights](https://open.spotify.com/track/0SnTTASsZDaKXH7ryveq7C) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Gratitude \- LIVE from Miracle Nights](https://open.spotify.com/album/5lOQm2QnGMxJMchHrn8W0Q) | 6:58 |
 | 16 | [Hope Builds \- Live](https://open.spotify.com/track/5z29OLLU0EQq2mSVR44TTE) | [Citipointe Worship](https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2), [Jess Steer](https://open.spotify.com/artist/6nQhS19N2Vi3J3xAVgcgu4) | [Hope Builds \(Live\)](https://open.spotify.com/album/7nqbKIBhttgx5EXg8BW5sD) | 5:43 |
 | 17 | [Light of the World \- Live](https://open.spotify.com/track/13uE6BiEdOip8tcvsABZks) | [Christ For The Nations Worship](https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7), [Nicole Steffanoni](https://open.spotify.com/artist/45y4igSMVIqWtvFMp5FOs3) | [River \(Live\)](https://open.spotify.com/album/0RI2r8e7C1yrwGliGLHnF8) | 6:17 |
-| 18 | [Song Of My Salvation \- Live](https://open.spotify.com/track/2bMGimLuvFdSQ2wTsBjJrI) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [All To Jesus \(Live\)](https://open.spotify.com/album/19UG5zBSrydGOTANXVUhPf) | 4:19 |
+| 18 | [Song Of My Salvation \- Live](https://open.spotify.com/track/2ymy4lR2jAhvlNyzdqqo1a) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [All To Jesus \(Live\)](https://open.spotify.com/album/6nnFeb5sm2y94TYPzM0iPl) | 4:19 |
 | 19 | [My Revival \- Live](https://open.spotify.com/track/2GXipaMXl9qMEzDHvBZJWk) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [My Revival \(Live\)](https://open.spotify.com/album/3iTZAEJfgLvkmmR36cWxHv) | 4:44 |
 | 20 | [Psalm 23 \(I Am Not Alone\)](https://open.spotify.com/track/07RMu9rHEYjvjY548b9lt0) | [Phil King](https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz), [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Psalm 23 \(I Am Not Alone\)](https://open.spotify.com/album/5s7UuRVcMhjDskrJp18FGu) | 4:07 |
 | 21 | [No Name Higher \- Live](https://open.spotify.com/track/1Vccfj7wQvyMcXwVK0ssrg) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX), [His House Nashville](https://open.spotify.com/artist/4Ec6QeEARiG1UKHxjPZ3O5) | [More Altars \(Live\)](https://open.spotify.com/album/7HodgxazYveeGPiLiDmRgU) | 6:18 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 74 | [God Alone \(NYE Live\)](https://open.spotify.com/track/1aohEgupGtgViBxFeo4xxF) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH) | [Expect Impossible \(NYE Live\)](https://open.spotify.com/album/4OkeoW2uyBkuRtJdNf2Rsy) | 4:51 |
 | 75 | [Daddy Wey Dey Pamper \- Special Version](https://open.spotify.com/track/21K28NfxP5PJQcCdxtbOpL) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Doris Joseph](https://open.spotify.com/artist/52JrpF7KvjwmFvt4MTV5ho) | [Daddy Wey Dey Pamper \(Special Version\)](https://open.spotify.com/album/7MoXTFv7bTm0g5moOX0Tz2) | 4:47 |
 | 76 | [He Is Risen](https://open.spotify.com/track/2Q3jQ4k8e5aBputb91Ns80) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [He Is Risen](https://open.spotify.com/album/2wLtbU0Nl8jM0pekaFnwb5) | 8:13 |
-| 77 | [Make Us Brave](https://open.spotify.com/track/1BpAgJjJoWai55w1rh9WdH) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW) | [Make Us Brave](https://open.spotify.com/album/0IfiPiWPoTDmiBGOnjvNom) | 4:18 |
+| 77 | [Make Us Brave \- Live](https://open.spotify.com/track/1BpAgJjJoWai55w1rh9WdH) | [ICF Worship](https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW), [Dave Kull](https://open.spotify.com/artist/1oYZ5B6SKUsakDOAjeA1wu) | [Make Us Brave](https://open.spotify.com/album/0IfiPiWPoTDmiBGOnjvNom) | 4:18 |
 | 78 | [Always So Good \- Single Version](https://open.spotify.com/track/3kbtag4mVjtbbHyziEPzex) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [Always So Good](https://open.spotify.com/album/2jEsiYwLx7tdQD50kLObGb) | 3:08 |
 | 79 | [Hidden \- Live](https://open.spotify.com/track/6Au4WyVE7kbDJ8mSYlqfVy) | [VIVE Worship](https://open.spotify.com/artist/6qKHvs6N15YORScDTh84vy) | [Hidden \(Live\)](https://open.spotify.com/album/4NZpS5QKSNxa9B4PgMRLaU) | 8:53 |
 | 80 | [Yahweh](https://open.spotify.com/track/6NiLNdiXM72n4DxKhQMJ9H) | [Impact Worship](https://open.spotify.com/artist/0ayHAggupHmLNoTP6ThfZ4), [Emilia Owens](https://open.spotify.com/artist/3KWzeRK75zkBYGmE4zmc9d), [Daniel Epps\-Benn](https://open.spotify.com/artist/5nrrFdxlJabrPBNuPdPUxs) | [Yahweh](https://open.spotify.com/album/71LUzpzmNDcNzrGAFOUn6P) | 8:42 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 98 | [PRAYING HANDS](https://open.spotify.com/track/2MewyoTq09qb1JD4MgV4GW) | [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [PRAYING HANDS](https://open.spotify.com/album/2OZ5LDsrOeUKLi107juPeW) | 2:32 |
 | 99 | [TEAM \(feat\. Datin\)](https://open.spotify.com/track/2JmbW83ahzLtReJIsA87I5) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX), [Kieran the Light](https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1), [Datin](https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4) | [TEAM \(feat\. Datin\)](https://open.spotify.com/album/6nAaqzadsPPjc7tWfgiaQl) | 3:22 |
 
-Snapshot ID: `MTY4MTQ1NjAxOCwwMDAwMDAwMDRhYTFlNzg5MzlmMTVmZDkzNzY5ZjJkNGNkODlhMjU3`
+Snapshot ID: `MTY4MTQ1NjAxOCwwMDAwMDAwMGQ2YjgzMTc3N2VkNmY1NGNkMmVjNmM0MmQ1NTVlYTUx`

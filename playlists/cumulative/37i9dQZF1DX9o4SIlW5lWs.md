@@ -4,11 +4,12 @@
 
 > Al corazón! Foto: Karina.
 
-308 songs - 17 hr 48 min
+309 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/7xABntVHfPeFk622h4VFqk) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4BRG4eLiI46NzgEFPG8EXb) | 0:00 | 2022-07-22 | 2022-08-12 |
+| [A Chillar a Otra Parte \- Remix](https://open.spotify.com/track/2pcK0a6052l3VE2qs9gTIy) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH), [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Santiago Cañete](https://open.spotify.com/artist/3t9iUHXTw9NmuEvmtUWEl2), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [A Chillar a Otra Parte \(Remix\)](https://open.spotify.com/album/06IlqAtT5PKCvrAAattY50) | 3:38 | 2023-04-18 |  |
 | [A Decirme Que](https://open.spotify.com/track/4jPhSHPch4lho5b7q93JcS) | [El Arrebato](https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg), [El Golpe](https://open.spotify.com/artist/19kojTrPoAUZztbRwVqWqh) | [A Decirme Que](https://open.spotify.com/album/2AVEgTcqjRFVV1Q3SzmN4s) | 2:43 | 2022-05-27 | 2022-06-04 |
 | [A Pesar de Todos](https://open.spotify.com/track/3sruqhzDXhj9jqlgrUWqr6) | [Laura Rous](https://open.spotify.com/artist/7wOkY1qB4dkbIs0fsw12Zg), [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub) | [A Pesar de Todos](https://open.spotify.com/album/2YfEzULYZfvoermyM6U2RO) | 4:14 | 2022-01-21 | 2022-06-27 |
 | [A Pesar del Tiempo](https://open.spotify.com/track/0XdgUC4vGY1veMA7vX9UTU) | [El Judas](https://open.spotify.com/artist/3h49aMKOWPOWA30BOR5gaf), [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [A Pesar del Tiempo](https://open.spotify.com/album/2KafK7USLLFxO0lzqZIefi) | 3:24 | 2022-01-21 | 2022-05-31 |
@@ -288,7 +289,7 @@
 | [Vienes y Te Vas](https://open.spotify.com/track/6O3RT6e1dyN3Bm7Iy7xgj9) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Cumbia Sabrosa](https://open.spotify.com/album/4QPvgf93M6D6Sq16dh9rLm) | 4:15 | 2022-01-14 | 2022-07-29 |
 | [Vienes y Te Vas \- En Vivo](https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Inimitable](https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU) | 4:14 | 2022-07-22 |  |
 | [Volver a Vernos](https://open.spotify.com/track/6FzRjE65s7jGPVnLbx5FSr) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Volver a Vernos](https://open.spotify.com/album/6LLbNMHSiWdZxFSUEkayGn) | 2:51 | 2022-01-21 |  |
-| [Voy a Olvidarme de Mi / Y Tu Te Vas](https://open.spotify.com/track/5ZeRjDwpf9WdXl4X66O3Zd) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Voy a Olvidarme de Mi / Y Tu Te Vas](https://open.spotify.com/album/7cjqZBRTDGGwSzZWtybH87) | 4:03 | 2023-01-27 |  |
+| [Voy a Olvidarme de Mi / Y Tu Te Vas](https://open.spotify.com/track/5ZeRjDwpf9WdXl4X66O3Zd) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Voy a Olvidarme de Mi / Y Tu Te Vas](https://open.spotify.com/album/7cjqZBRTDGGwSzZWtybH87) | 4:03 | 2023-01-27 | 2023-04-19 |
 | [Y Yo Sin Ti](https://open.spotify.com/track/6ZafhodntQlhMfzHOwlmxw) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Y Yo Sin Ti](https://open.spotify.com/album/2hWhnJTo0ollElLB8rPIjR) | 3:04 | 2023-03-10 | 2023-04-12 |
 | [Ya Fue](https://open.spotify.com/track/4ZG6OIlBkKrSGTUgXyp0l7) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Ya Fue](https://open.spotify.com/album/1qg4HdLx0TOOeQjwFGNfwn) | 2:23 | 2022-03-11 | 2022-04-16 |
 | [Ya llegó el sabor](https://open.spotify.com/track/5BG9WgcEpgdC8dLZIA8CTj) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor](https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06) | 3:37 | 2023-03-10 |  |

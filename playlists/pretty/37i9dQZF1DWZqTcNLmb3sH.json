@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kabzaa",
-  "num_followers": 48519,
+  "num_followers": 48529,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTcyMTA1OSwwMDAwMDAwMDU0MzIzM2JhOTMxYzIwYjdmYjU0NmFlNjg3OTYzMGRl",
+  "snapshot_id": "MTY4MTgxMjc2MywwMDAwMDAwMGMwMWIxODBhNGQ4OTc1NTczMTVlN2JhZmE2OTYzMWYy",
   "tracks": [
     {
       "added_at": "2023-02-28 11:36:56",
@@ -235,6 +235,34 @@
       "duration_ms": 302399,
       "name": "Veera Raja Veera",
       "url": "https://open.spotify.com/track/4IYL0ax3QT1TB2YeC4MmJK"
+    },
+    {
+      "added_at": "2023-04-18 10:12:42",
+      "album": {
+        "name": "Anuragada Teru Sagide (From \"Ragavendra The Warrior\")",
+        "url": "https://open.spotify.com/album/0YWnANCc3jXTIzFA3zLnre"
+      },
+      "artists": [
+        {
+          "name": "Ajay Warrier",
+          "url": "https://open.spotify.com/artist/3fm9JRsdbk49ZolYmobgeC"
+        },
+        {
+          "name": "Rashmi Srinivas",
+          "url": "https://open.spotify.com/artist/513IeMeSow094McXe43pHQ"
+        },
+        {
+          "name": "Paulalex P",
+          "url": "https://open.spotify.com/artist/7wlsrXvAgZLs1vS5yI0wXW"
+        },
+        {
+          "name": "Dinesh K",
+          "url": "https://open.spotify.com/artist/5fiYExb3GiqWaCNguTvCaY"
+        }
+      ],
+      "duration_ms": 196884,
+      "name": "Anuragada Teru Sagide (From \"Ragavendra The Warrior\")",
+      "url": "https://open.spotify.com/track/1qLTLzUbUmZZezWpO4gD6m"
     },
     {
       "added_at": "2023-04-13 06:35:39",

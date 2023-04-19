@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 162770,
       "name": "die letzten Schritte",
       "url": "https://open.spotify.com/track/71UMvOQ8RDBtsBi0rj5uB3"
@@ -6178,7 +6178,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 121500,
       "name": "Memoria",
       "url": "https://open.spotify.com/track/1ZWLEXzTlMvJVT80NpsoR4"
@@ -7982,7 +7982,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 123750,
       "name": "P\u00e9cs",
       "url": "https://open.spotify.com/track/5V38Yb2mGq3AgKwh5WA49i"
@@ -8493,6 +8493,24 @@
     },
     {
       "album": {
+        "name": "R\u00e9bus",
+        "url": "https://open.spotify.com/album/4pJZ7dbo8FXYh3NwS7wOvl"
+      },
+      "artists": [
+        {
+          "name": "Christophe Pouget",
+          "url": "https://open.spotify.com/artist/6NMPthFB3FbixffuRKpIGU"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149077,
+      "name": "R\u00e9bus",
+      "url": "https://open.spotify.com/track/1RaP4GkSYdKzKyRJdXxBJ6"
+    },
+    {
+      "album": {
         "name": "s'effondrer",
         "url": "https://open.spotify.com/album/5Rvot5vaWn3LqtT2eHyfPY"
       },
@@ -8990,7 +9008,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 179816,
       "name": "Shinsetsu",
       "url": "https://open.spotify.com/track/7sa4kCV6pezAQOSBASKFLH"
@@ -9700,6 +9718,24 @@
       "duration_ms": 187000,
       "name": "Sweet Cherie",
       "url": "https://open.spotify.com/track/1ElNuIHucvUavBEg4IFtSx"
+    },
+    {
+      "album": {
+        "name": "Sweet Nocturne",
+        "url": "https://open.spotify.com/album/114XalkM0RcLqdHV40Bt4l"
+      },
+      "artists": [
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156506,
+      "name": "Sweet Nocturne",
+      "url": "https://open.spotify.com/track/2o1vbOCVUv4gf4GLg77T7O"
     },
     {
       "album": {
@@ -10506,7 +10542,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 205793,
       "name": "Tree Whisper",
       "url": "https://open.spotify.com/track/5a8V9tjazhBAIbUiFqpu8N"

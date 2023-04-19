@@ -4948,10 +4948,28 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 177700,
       "name": "Peace",
       "url": "https://open.spotify.com/track/1UjqGMNNUBmMtHj0cGeOvs"
+    },
+    {
+      "album": {
+        "name": "Omo Ologo + Peace",
+        "url": "https://open.spotify.com/album/6nYe32WxebOUG7h0GKiq1b"
+      },
+      "artists": [
+        {
+          "name": "Brown Joel",
+          "url": "https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181377,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/10mHj5Bo8All1K2i0TtJT3"
     },
     {
       "album": {

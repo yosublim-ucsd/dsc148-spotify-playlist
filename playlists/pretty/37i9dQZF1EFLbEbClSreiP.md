@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 | 9 | [by the end of the night](https://open.spotify.com/track/0yrGcbCjEwowGuETML0NOT) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [by the end of the night](https://open.spotify.com/album/5N7c9Ii7LTUFs7lwHx8JKT) | 2:58 |
 | 10 | [Get Better](https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Get Better](https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU) | 2:51 |
 
-Snapshot ID: `MjgwMjk2MjgsMDAwMDAwMDBiNjU4OThjYTgxYWQ3OGM2OWU2YTMxMWEzNTQ4NGEwZA==`
+Snapshot ID: `MjgwMzEwNjgsMDAwMDAwMDBmODMyZGFhMzRkOTljNjdkZjAxZjg1MDYwOGJmYjY0Nw==`

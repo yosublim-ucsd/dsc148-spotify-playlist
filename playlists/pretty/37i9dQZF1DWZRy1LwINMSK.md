@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRy1LwINMSK.md) - [plain]
 
 > La casa del trap chileno\. Foto: Julianno Sosa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,919 likes - 96 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,972 likes - 96 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

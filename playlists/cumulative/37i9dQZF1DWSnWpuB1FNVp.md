@@ -4,7 +4,7 @@
 
 > Barack and Michelle Obama's favorite songs from summer 2019!
 
-46 songs - 2 hr 58 min
+47 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Can U Believe](https://open.spotify.com/track/6bTORCskFVRlnHXbVgnKEe) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [The Evolution of Robin Thicke](https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb) | 4:51 | 2019-08-24 |  |
 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 | 2019-08-24 |  |
 | [Dang! \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:05 | 2019-08-24 |  |
-| [Don't You Worry About a Thing](https://open.spotify.com/track/2ppH1UUQzthsvL1rFci6ST) | [Black Sugar](https://open.spotify.com/artist/7yREgs5ewgmYcDPMiInr3A) | [DJ Spinna Presents the Wonder of Stevie \- Volume 3](https://open.spotify.com/album/1A8WJrw53MG92KIX8YO2eF) | 2:48 | 2019-08-24 |  |
+| [Don't You Worry About a Thing](https://open.spotify.com/track/2ppH1UUQzthsvL1rFci6ST) | [Black Sugar](https://open.spotify.com/artist/7yREgs5ewgmYcDPMiInr3A) | [DJ Spinna Presents the Wonder of Stevie \- Volume 3](https://open.spotify.com/album/1A8WJrw53MG92KIX8YO2eF) | 2:48 | 2019-08-24 | 2023-04-19 |
+| [Don't You Worry About a Thing](https://open.spotify.com/track/5d8JZZENf65ftiAnN0qTwm) | [Black Sugar](https://open.spotify.com/artist/7yREgs5ewgmYcDPMiInr3A) | [International Funk](https://open.spotify.com/album/0nDCiyhfCQculdH78lP8x4) | 2:54 | 2022-09-23 |  |
 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 | 2019-08-24 |  |
 | [Drift Away](https://open.spotify.com/track/11YWR8tzDTR2P4KZ3lAySj) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [Throwback Tunes: 70s](https://open.spotify.com/album/5DJHtJpuoj7VidJ447oD8s) | 3:54 | 2019-08-24 |  |
 | [Espera](https://open.spotify.com/track/7qEKZP3nOqWpEQlANPccOx) | [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5) | [Esperanza](https://open.spotify.com/album/7188JsHTl3rladofF7CVvW) | 4:38 | 2019-08-24 |  |

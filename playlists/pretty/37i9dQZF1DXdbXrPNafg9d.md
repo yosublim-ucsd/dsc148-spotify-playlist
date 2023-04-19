@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new indie tracks every Friday\. Cover: King Krule
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,275,990 likes - 175 songs - 10 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,276,130 likes - 175 songs - 10 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 117 | [Polka\-dot](https://open.spotify.com/track/4yHvBNnLubDvzTy5pha08v) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7), [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [Polka\-dot](https://open.spotify.com/album/1pxTFx9BJS6XCRc1FzlFQQ) | 3:42 |
 | 118 | [Tell Me That You Love Me](https://open.spotify.com/track/1a4Tqbgd02QzaWQiK67iWT) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Tell Me That You Love Me](https://open.spotify.com/album/5XHaZd7Av4uQTy6Ih6gZPG) | 3:12 |
 | 119 | [Dry](https://open.spotify.com/track/3B1BzvXzF4Xhre3SLxTDz7) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [Dry](https://open.spotify.com/album/66IrzcJ0xrFyfzeh51DbyS) | 3:59 |
-| 120 | [From the Morning](https://open.spotify.com/track/1tDc5qMvLZRtlxd6bAVjdD) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [From the Morning](https://open.spotify.com/album/7lh06ShmRhf2mMHivGQVkv) | 4:27 |
+| 120 | [From the Morning](https://open.spotify.com/track/3CtEGldIHVq3zMUouz3x6j) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Covers Vol\. 1](https://open.spotify.com/album/3WdpM0kX0UbJs4yGpEtrJQ) | 4:27 |
 | 121 | [Feed The Fire](https://open.spotify.com/track/3Y1t6DTEVCbiAovIAKsiIo) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Feed The Fire](https://open.spotify.com/album/2lY4eTKT2ulUgwOz8lZp5r) | 3:38 |
 | 122 | [A lot to explain](https://open.spotify.com/track/4ELXy9Lkc6SF9L4ZuzX8aU) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [A lot to explain](https://open.spotify.com/album/12N1jOVHxOp7dw5TnwMvbD) | 2:13 |
 | 123 | [TV in the Gas Pump](https://open.spotify.com/track/2C3YgXBZpZx0FoguTk0fbj) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [TV in the Gas Pump](https://open.spotify.com/album/1KCYvFcQ0eLIx9Kpmr4WgX) | 2:22 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 174 | [Shelter](https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3) | 3:17 |
 | 175 | [Don't Fade Away](https://open.spotify.com/track/21lFRFkdf5sgITNZCDMeDq) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Don't Fade Away](https://open.spotify.com/album/0YqMt0AKeSCOfXIPuE3lJO) | 3:22 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDFmZDc1YzBkNDk1ODkyNjZkYTkxOTFjNGM0MTU4OTI4`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDQ0OWEyZTIwZTM4M2VkYmU2OTJlYzJlZmQ5NDQ0Njhh`

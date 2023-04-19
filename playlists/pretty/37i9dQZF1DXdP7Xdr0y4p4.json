@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 7371,
+  "num_followers": 7396,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MzY1OCwwMDAwMDAwMGM5NDdlNWJiODg1NTM3MDk4YjEwNDJkYjY3Y2JiODI5",
+  "snapshot_id": "MTY4MTQ1MzY1OCwwMDAwMDAwMDUxNzExMDlmMjg4Njk3NzIxYWFhNWRkZGM4MTkyYjUw",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Plenty Good Room",
-        "url": "https://open.spotify.com/album/5YRDhVX5npZe6l8s8NcKyA"
-      },
-      "artists": [
-        {
-          "name": "Lynda Randle",
-          "url": "https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI"
-        }
-      ],
-      "duration_ms": 237680,
-      "name": "Plenty Good Room",
-      "url": "https://open.spotify.com/track/06aouHeZQx45YdKPCnxgt6"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/1PcbJ1DL1tFKjAzsBEoEVe"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 219560,
       "name": "Faith Like That",
       "url": "https://open.spotify.com/track/1cxxA1gqowDgJTwCGDZsi9"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Plenty Good Room",
+        "url": "https://open.spotify.com/album/5YRDhVX5npZe6l8s8NcKyA"
+      },
+      "artists": [
+        {
+          "name": "Lynda Randle",
+          "url": "https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "Plenty Good Room",
+      "url": "https://open.spotify.com/track/06aouHeZQx45YdKPCnxgt6"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Time Machine",
-        "url": "https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP"
-      },
-      "artists": [
-        {
-          "name": "The Browders",
-          "url": "https://open.spotify.com/artist/4Ug1lA45bfmGwUx76BWWfW"
-        }
-      ],
-      "duration_ms": 205506,
-      "name": "Lift up His Name",
-      "url": "https://open.spotify.com/track/23a025gnBl8S0b7Cb9Bz0S"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Songs for the Times",
         "url": "https://open.spotify.com/album/37dXrupCMdsgBbOWlOy55U"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 224746,
       "name": "Peace in Trusting",
       "url": "https://open.spotify.com/track/0bRCxiCy7DKlaaa0cfZqc4"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Time Machine",
+        "url": "https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP"
+      },
+      "artists": [
+        {
+          "name": "The Browders",
+          "url": "https://open.spotify.com/artist/4Ug1lA45bfmGwUx76BWWfW"
+        }
+      ],
+      "duration_ms": 205506,
+      "name": "Lift up His Name",
+      "url": "https://open.spotify.com/track/23a025gnBl8S0b7Cb9Bz0S"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Not For Long",
-        "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
-      },
-      "artists": [
-        {
-          "name": "The Guardians",
-          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "Not For Long",
-      "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Pray Now",
         "url": "https://open.spotify.com/album/12uzTrOLpxr3j6zr0PLbC3"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 267493,
       "name": "Pray Now",
       "url": "https://open.spotify.com/track/6BT4eCTe1MiGwAGgf5ezpJ"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Not For Long",
+        "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
+      },
+      "artists": [
+        {
+          "name": "The Guardians",
+          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "Not For Long",
+      "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "2: 22",
+        "url": "https://open.spotify.com/album/1ZNaOaKQont8Mh7nIZlDN7"
+      },
+      "artists": [
+        {
+          "name": "Karen Peck & New River",
+          "url": "https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5"
+        }
+      ],
+      "duration_ms": 194198,
+      "name": "Future Glory",
+      "url": "https://open.spotify.com/track/7GQc1aEfq2S1OLeDKsUPKr"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "How Great Thou Art",
         "url": "https://open.spotify.com/album/6MzRNdhppIWTDn8DvZZLwU"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 241109,
       "name": "Believe For It",
       "url": "https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "2: 22",
-        "url": "https://open.spotify.com/album/1ZNaOaKQont8Mh7nIZlDN7"
-      },
-      "artists": [
-        {
-          "name": "Karen Peck & New River",
-          "url": "https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5"
-        }
-      ],
-      "duration_ms": 194198,
-      "name": "Future Glory",
-      "url": "https://open.spotify.com/track/7GQc1aEfq2S1OLeDKsUPKr"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "The Stories We Tell",
-        "url": "https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI"
-      },
-      "artists": [
-        {
-          "name": "Down East Boys",
-          "url": "https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Good in the Good Times",
-      "url": "https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Shut Him Up",
         "url": "https://open.spotify.com/album/5jGJlGqQP8CNZhzx4ddMqU"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "The Stories We Tell",
+        "url": "https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI"
+      },
+      "artists": [
+        {
+          "name": "Down East Boys",
+          "url": "https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Good in the Good Times",
+      "url": "https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Favorites: On Repeat",
         "url": "https://open.spotify.com/album/7GnVw92Aav72gGVMpG0aXM"
       },
@@ -815,38 +815,6 @@
       "duration_ms": 270840,
       "name": "Favorite Song of All",
       "url": "https://open.spotify.com/track/1jqCZajfj6hAU1RHixoxbd"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Come On In",
-        "url": "https://open.spotify.com/album/6fomyXP5lxMAmm1yKXmIHV"
-      },
-      "artists": [
-        {
-          "name": "The Guardians",
-          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "Cast My Care",
-      "url": "https://open.spotify.com/track/5DFuyhTAYErvppuImjKHvo"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Glorious Appearing",
-        "url": "https://open.spotify.com/album/3kPtp2JB1FsCW7ntRNt99W"
-      },
-      "artists": [
-        {
-          "name": "The Hoppers",
-          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
-        }
-      ],
-      "duration_ms": 228997,
-      "name": "Glorious Appearing",
-      "url": "https://open.spotify.com/track/2CGX7JVKELwjNgs4FppLEU"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -883,6 +851,38 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Glorious Appearing",
+        "url": "https://open.spotify.com/album/3kPtp2JB1FsCW7ntRNt99W"
+      },
+      "artists": [
+        {
+          "name": "The Hoppers",
+          "url": "https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7"
+        }
+      ],
+      "duration_ms": 228997,
+      "name": "Glorious Appearing",
+      "url": "https://open.spotify.com/track/2CGX7JVKELwjNgs4FppLEU"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Come On In",
+        "url": "https://open.spotify.com/album/6fomyXP5lxMAmm1yKXmIHV"
+      },
+      "artists": [
+        {
+          "name": "The Guardians",
+          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "Cast My Care",
+      "url": "https://open.spotify.com/track/5DFuyhTAYErvppuImjKHvo"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Give Me Jesus",
         "url": "https://open.spotify.com/album/2AWZoRFVr5aZTl374dbufg"
       },
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Find My Joy",
-        "url": "https://open.spotify.com/album/0dM55Mul4BUtsZ6zDBEhWN"
-      },
-      "artists": [
-        {
-          "name": "John Berry",
-          "url": "https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6"
-        }
-      ],
-      "duration_ms": 249081,
-      "name": "Something Bigger Than Me",
-      "url": "https://open.spotify.com/track/59G9uFtqPCrqiZ9rfETjM8"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Bring That Giant Down",
         "url": "https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE"
       },
@@ -935,34 +919,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Sings Greatest Country Gospel Hits",
-        "url": "https://open.spotify.com/album/5fEKQptqnEDc4dj9pHH8Db"
+        "name": "Find My Joy",
+        "url": "https://open.spotify.com/album/0dM55Mul4BUtsZ6zDBEhWN"
       },
       "artists": [
         {
-          "name": "Eddie Bond",
-          "url": "https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE"
+          "name": "John Berry",
+          "url": "https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Pass Me Not Oh Gentle Saviour",
-      "url": "https://open.spotify.com/track/6vgQpJaxOKsgLgZLzMI3kq"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "In a Moment",
-        "url": "https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe"
-      },
-      "artists": [
-        {
-          "name": "Hebron Road",
-          "url": "https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51"
-        }
-      ],
-      "duration_ms": 306462,
-      "name": "Every Other Throne",
-      "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
+      "duration_ms": 249081,
+      "name": "Something Bigger Than Me",
+      "url": "https://open.spotify.com/track/59G9uFtqPCrqiZ9rfETjM8"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -999,6 +967,38 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Sings Greatest Country Gospel Hits",
+        "url": "https://open.spotify.com/album/5fEKQptqnEDc4dj9pHH8Db"
+      },
+      "artists": [
+        {
+          "name": "Eddie Bond",
+          "url": "https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Pass Me Not Oh Gentle Saviour",
+      "url": "https://open.spotify.com/track/6vgQpJaxOKsgLgZLzMI3kq"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "In a Moment",
+        "url": "https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe"
+      },
+      "artists": [
+        {
+          "name": "Hebron Road",
+          "url": "https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51"
+        }
+      ],
+      "duration_ms": 306462,
+      "name": "Every Other Throne",
+      "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "He Touched Me",
         "url": "https://open.spotify.com/album/4r9OhwImdx9wOJm2q27XUo"
       },
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "The World Needs a Song",
-        "url": "https://open.spotify.com/album/0GdNxipb3VVA8WDXQ3QMLb"
-      },
-      "artists": [
-        {
-          "name": "The Lore Family",
-          "url": "https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94"
-        }
-      ],
-      "duration_ms": 222064,
-      "name": "I Bring You Jesus",
-      "url": "https://open.spotify.com/track/6hOlJaU7E3SycdVXQN2taI"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Thief In The Night",
         "url": "https://open.spotify.com/album/7AfTSlpi35PwEvxGY0otef"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 247066,
       "name": "Thief in the Night",
       "url": "https://open.spotify.com/track/4oScvPoK3ryJ1uzpt4Giw7"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "The World Needs a Song",
+        "url": "https://open.spotify.com/album/0GdNxipb3VVA8WDXQ3QMLb"
+      },
+      "artists": [
+        {
+          "name": "The Lore Family",
+          "url": "https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94"
+        }
+      ],
+      "duration_ms": 222064,
+      "name": "I Bring You Jesus",
+      "url": "https://open.spotify.com/track/6hOlJaU7E3SycdVXQN2taI"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/4NLFC87jCshYTUAz3hbhP6"
+      },
+      "artists": [
+        {
+          "name": "Kingsmen",
+          "url": "https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX"
+        }
+      ],
+      "duration_ms": 198099,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/5R8RKqIh4EKQKY5U5Q8K8y"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "The Lighthouse (50 Year Celebration)",
         "url": "https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 220760,
       "name": "Give Me Jesus",
       "url": "https://open.spotify.com/track/41fDllXABcR51KZivo6uTx"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/4NLFC87jCshYTUAz3hbhP6"
-      },
-      "artists": [
-        {
-          "name": "Kingsmen",
-          "url": "https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX"
-        }
-      ],
-      "duration_ms": 198099,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/5R8RKqIh4EKQKY5U5Q8K8y"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "McKamey Legacy",
-        "url": "https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS"
-      },
-      "artists": [
-        {
-          "name": "McKamey Legacy",
-          "url": "https://open.spotify.com/artist/4Zq7rp8K2P5ubqBF0mQZPI"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "God is Still Good",
-      "url": "https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "The World Needs a Song",
         "url": "https://open.spotify.com/album/4E9MITR2tZPyaUOPQpmUOJ"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 191056,
       "name": "The World Needs a Song",
       "url": "https://open.spotify.com/track/2m03vLyMsBkWaEYwJOfP5T"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "McKamey Legacy",
+        "url": "https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS"
+      },
+      "artists": [
+        {
+          "name": "McKamey Legacy",
+          "url": "https://open.spotify.com/artist/4Zq7rp8K2P5ubqBF0mQZPI"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "God is Still Good",
+      "url": "https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Lord's Prayer",
-        "url": "https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs"
-      },
-      "artists": [
-        {
-          "name": "Lauren Talley",
-          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
-        }
-      ],
-      "duration_ms": 235328,
-      "name": "Lord's Prayer",
-      "url": "https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Grace Ain't Fair (Acoustic Version)",
         "url": "https://open.spotify.com/album/45ijAsVgyLl4kDnTAUeh17"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 214238,
       "name": "Grace Ain't Fair - Acoustic Version",
       "url": "https://open.spotify.com/track/2CEBwToSll6HnKr0op8WQH"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Lord's Prayer",
+        "url": "https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs"
+      },
+      "artists": [
+        {
+          "name": "Lauren Talley",
+          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
+        }
+      ],
+      "duration_ms": 235328,
+      "name": "Lord's Prayer",
+      "url": "https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v"
     },
     {
       "added_at": "2023-04-14 06:27:38",

@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y?si=hRwyX9JuS92OirIIx6lNnw\" > Prettyboy D-O </a> ",
-  "num_followers": 18125,
+  "num_followers": 18174,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ3NTU4NiwwMDAwMDAwMDJlYTQwMGQ5NjUwOWE2ZGJiMTdlYWY5NGY0NmM5NGFh",
+  "snapshot_id": "MTY4MTQ3NTU4NiwwMDAwMDAwMDNjYjk3MjI3YmRkNjhhNTRkYzBjNWRhM2RiMTkxZWRk",
   "tracks": [
     {
       "added_at": "2023-04-14 12:33:06",
@@ -983,6 +983,38 @@
     {
       "added_at": "2023-04-14 12:33:06",
       "album": {
+        "name": "Pot Of Stew",
+        "url": "https://open.spotify.com/album/7wSOzsCfac5crudnU3ne8O"
+      },
+      "artists": [
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        }
+      ],
+      "duration_ms": 108066,
+      "name": "Pot Of Stew",
+      "url": "https://open.spotify.com/track/5Q1k767YrKyEMiDBjXYEnd"
+    },
+    {
+      "added_at": "2023-04-14 12:33:06",
+      "album": {
+        "name": "MIDLIFE CRISIS / WYDTM",
+        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
+      },
+      "artists": [
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        }
+      ],
+      "duration_ms": 131478,
+      "name": "MIDLIFE CRISIS",
+      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
+    },
+    {
+      "added_at": "2023-04-14 12:33:06",
+      "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
@@ -1007,22 +1039,6 @@
     {
       "added_at": "2023-04-14 12:33:06",
       "album": {
-        "name": "MIDLIFE CRISIS / WYDTM",
-        "url": "https://open.spotify.com/album/4zt5mhHF6V5xnA6kmHiTf0"
-      },
-      "artists": [
-        {
-          "name": "PsychoYP",
-          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
-        }
-      ],
-      "duration_ms": 131478,
-      "name": "MIDLIFE CRISIS",
-      "url": "https://open.spotify.com/track/1pVnCzZpNVODfXz3t4H9ub"
-    },
-    {
-      "added_at": "2023-04-14 12:33:06",
-      "album": {
         "name": "High Tension 2.0",
         "url": "https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 163813,
       "name": "Out There",
       "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
-    },
-    {
-      "added_at": "2023-04-14 12:33:06",
-      "album": {
-        "name": "Pot Of Stew",
-        "url": "https://open.spotify.com/album/7wSOzsCfac5crudnU3ne8O"
-      },
-      "artists": [
-        {
-          "name": "Erigga",
-          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
-        }
-      ],
-      "duration_ms": 108066,
-      "name": "Pot Of Stew",
-      "url": "https://open.spotify.com/track/5Q1k767YrKyEMiDBjXYEnd"
     },
     {
       "added_at": "2023-04-14 12:33:06",

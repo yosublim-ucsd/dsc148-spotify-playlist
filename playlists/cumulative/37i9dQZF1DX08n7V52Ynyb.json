@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 293700,
       "name": "I Wish I Knew",
       "url": "https://open.spotify.com/track/2JlTDtzMu6P1RNT2ARoZb8"
@@ -1372,7 +1372,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-10",
+      "date_removed": null,
       "duration_ms": 430081,
       "name": "If You Could See Me Now",
       "url": "https://open.spotify.com/track/1yDPuRttnvxpTsh402ySUH"
@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 187500,
       "name": "It Might as Well Be Spring",
       "url": "https://open.spotify.com/track/3J0Egyk01LWoJfsdvN4P42"
@@ -2198,6 +2198,32 @@
       "duration_ms": 249453,
       "name": "My Ship - Special Edition",
       "url": "https://open.spotify.com/track/4CAfKmZlIn6TPczUUhv2CM"
+    },
+    {
+      "album": {
+        "name": "Nature Boy",
+        "url": "https://open.spotify.com/album/6kDL3zRoAWWceSwz5ux555"
+      },
+      "artists": [
+        {
+          "name": "Lennart Ricard",
+          "url": "https://open.spotify.com/artist/477Kac69blOYChn7cvOb87"
+        },
+        {
+          "name": "Josephine Philip",
+          "url": "https://open.spotify.com/artist/6uDyBKY3BaQWVB9waWSMEa"
+        },
+        {
+          "name": "Anders Christensen",
+          "url": "https://open.spotify.com/artist/21LcuBnhMZZraq4AB6mgwM"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275857,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/5AJKyrzyp9O2TurdqMh1JT"
     },
     {
       "album": {
@@ -2958,7 +2984,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-21",
+      "date_removed": null,
       "duration_ms": 207745,
       "name": "The Very Thought of You",
       "url": "https://open.spotify.com/track/0cOY54OpNKZC1lLgdqJCaI"
@@ -3100,7 +3126,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 174000,
       "name": "Try Your Wings",
       "url": "https://open.spotify.com/track/0aa0phSxPErvXk0drKFBOM"

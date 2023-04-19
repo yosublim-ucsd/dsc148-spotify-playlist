@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: INNA",
-  "num_followers": 892503,
+  "num_followers": 892453,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ3NDMxNiwwMDAwMDAwMGM5ODVlNDA0N2Q4N2I4MTc2ZGI5ZGRhYjFlOGYyNzNl",
+  "snapshot_id": "MTY4MTQ3NDMxNiwwMDAwMDAwMDhkZTkzZGZmYzA4MjFhMTcyNTJlZTBjMjMxZGRlN2Y1",
   "tracks": [
     {
       "added_at": "2023-04-05 04:00:00",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Heavenbound",
-        "url": "https://open.spotify.com/album/1xC23BpHxzv3aZ6dBWIjef"
-      },
-      "artists": [
-        {
-          "name": "Marina Kaye",
-          "url": "https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid"
-        }
-      ],
-      "duration_ms": 192682,
-      "name": "Heavenbound",
-      "url": "https://open.spotify.com/track/2yY857AZ9Pfd8y0BT6F2Dw"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Dert Olmas\u0131n Diye",
         "url": "https://open.spotify.com/album/6dHUK1wi5RMIGtuHxIUSNy"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 151800,
       "name": "Dert Olmas\u0131n Diye",
       "url": "https://open.spotify.com/track/2w59R5FBFlGbZKWQe4pYIj"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Heavenbound",
+        "url": "https://open.spotify.com/album/1xC23BpHxzv3aZ6dBWIjef"
+      },
+      "artists": [
+        {
+          "name": "Marina Kaye",
+          "url": "https://open.spotify.com/artist/4hHzZPvlU4rRbYnkXddpid"
+        }
+      ],
+      "duration_ms": 192682,
+      "name": "Heavenbound",
+      "url": "https://open.spotify.com/track/2yY857AZ9Pfd8y0BT6F2Dw"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "\u05dc\u05d0 \u05e9\u05d5\u05de\u05e2\u05ea (Prod. by Triangle)",
-        "url": "https://open.spotify.com/album/3nxNC2KSRt306Go8ELMh87"
-      },
-      "artists": [
-        {
-          "name": "Agam Buhbut",
-          "url": "https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i"
-        }
-      ],
-      "duration_ms": 173538,
-      "name": "\u05dc\u05d0 \u05e9\u05d5\u05de\u05e2\u05ea (Prod. by Triangle)",
-      "url": "https://open.spotify.com/track/6CbXdfNyGnHf8hxFR5cAxD"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Tiempo Indefinido",
         "url": "https://open.spotify.com/album/4UBAXB1P4GiQoPXoprX1Xd"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 137167,
       "name": "Tiempo Indefinido",
       "url": "https://open.spotify.com/track/5olfCMs2dCnGsz6ZQPSmYy"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "\u05dc\u05d0 \u05e9\u05d5\u05de\u05e2\u05ea (Prod. by Triangle)",
+        "url": "https://open.spotify.com/album/3nxNC2KSRt306Go8ELMh87"
+      },
+      "artists": [
+        {
+          "name": "Agam Buhbut",
+          "url": "https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i"
+        }
+      ],
+      "duration_ms": 173538,
+      "name": "\u05dc\u05d0 \u05e9\u05d5\u05de\u05e2\u05ea (Prod. by Triangle)",
+      "url": "https://open.spotify.com/track/6CbXdfNyGnHf8hxFR5cAxD"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Can't Control",
-        "url": "https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co"
-      },
-      "artists": [
-        {
-          "name": "LOVRA",
-          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
-        }
-      ],
-      "duration_ms": 177139,
-      "name": "Can't Control",
-      "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Bebe",
         "url": "https://open.spotify.com/album/6VarZmpkqYXFYsO1NcWJX3"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Ma che Hit",
-        "url": "https://open.spotify.com/album/46ei2Xa6C9yAOrnmKDRdOA"
+        "name": "Can't Control",
+        "url": "https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co"
       },
       "artists": [
         {
-          "name": "BigMama",
-          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
+          "name": "LOVRA",
+          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
         }
       ],
-      "duration_ms": 138500,
-      "name": "Ma che Hit",
-      "url": "https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH"
+      "duration_ms": 177139,
+      "name": "Can't Control",
+      "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -791,6 +775,22 @@
       "duration_ms": 265999,
       "name": "Tiba Tiba Hilang",
       "url": "https://open.spotify.com/track/1AvxW0tQF0SEaXNMiLe8aU"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Ma che Hit",
+        "url": "https://open.spotify.com/album/46ei2Xa6C9yAOrnmKDRdOA"
+      },
+      "artists": [
+        {
+          "name": "BigMama",
+          "url": "https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF"
+        }
+      ],
+      "duration_ms": 138500,
+      "name": "Ma che Hit",
+      "url": "https://open.spotify.com/track/0UdDpDeyyidQZISEhEqAMH"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -827,6 +827,30 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
+        "name": "eclips3",
+        "url": "https://open.spotify.com/album/5PTaRgWmvUnOUhOx800hB9"
+      },
+      "artists": [
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        },
+        {
+          "name": "dayvan",
+          "url": "https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y"
+        },
+        {
+          "name": "Evar",
+          "url": "https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la"
+        }
+      ],
+      "duration_ms": 162843,
+      "name": "CHROME",
+      "url": "https://open.spotify.com/track/6sXubAaPRNZD4ls6fsOtRC"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
         "name": "VELOZzzz",
         "url": "https://open.spotify.com/album/2VMx5vYoiUwABFtxhXmqFN"
       },
@@ -859,42 +883,26 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "eclips3",
-        "url": "https://open.spotify.com/album/5PTaRgWmvUnOUhOx800hB9"
+        "name": "Aye Khuda",
+        "url": "https://open.spotify.com/album/6cRFB01oyEXqAQCIH5qFos"
       },
       "artists": [
         {
-          "name": "Saramalacara",
-          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+          "name": "Sanam Marvi",
+          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
         },
         {
-          "name": "dayvan",
-          "url": "https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y"
+          "name": "Waqar Faiz",
+          "url": "https://open.spotify.com/artist/5PQ8zLBUFXDtS67TwbDOlY"
         },
         {
-          "name": "Evar",
-          "url": "https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la"
+          "name": "Rushil",
+          "url": "https://open.spotify.com/artist/1gHxomNGjRJHDAl7INHnxE"
         }
       ],
-      "duration_ms": 162843,
-      "name": "CHROME",
-      "url": "https://open.spotify.com/track/6sXubAaPRNZD4ls6fsOtRC"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
-        "name": "Mis Mejores Poses",
-        "url": "https://open.spotify.com/album/4mqqDapNQ10WynQPGRCkol"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Mis Mejores Poses",
-      "url": "https://open.spotify.com/track/7FZ5Dtc1RbWd0qXgFqZ4zS"
+      "duration_ms": 544565,
+      "name": "Aye Khuda",
+      "url": "https://open.spotify.com/track/7vIEXrKp0MXaGkiqJ8qVhx"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -915,6 +923,22 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
+        "name": "Mis Mejores Poses",
+        "url": "https://open.spotify.com/album/4mqqDapNQ10WynQPGRCkol"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Mis Mejores Poses",
+      "url": "https://open.spotify.com/track/7FZ5Dtc1RbWd0qXgFqZ4zS"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
         "name": "Lotus Glow",
         "url": "https://open.spotify.com/album/0e4dBWmBHPevyfC9Zle4mv"
       },
@@ -927,22 +951,6 @@
       "duration_ms": 217985,
       "name": "Serena",
       "url": "https://open.spotify.com/track/6ZCfxKANLN7q0YoOHQ90hm"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/4PKc2BFgxs3wQmWR85slvD"
-      },
-      "artists": [
-        {
-          "name": "Julie Bergan",
-          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
-        }
-      ],
-      "duration_ms": 163480,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/0bJGCUiWt2jlH3VR3gdeIo"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -967,6 +975,22 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/4PKc2BFgxs3wQmWR85slvD"
+      },
+      "artists": [
+        {
+          "name": "Julie Bergan",
+          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
+        }
+      ],
+      "duration_ms": 163480,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/0bJGCUiWt2jlH3VR3gdeIo"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
         "name": "Done (Let's Get It)",
         "url": "https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO"
       },
@@ -979,30 +1003,6 @@
       "duration_ms": 161946,
       "name": "For Granted",
       "url": "https://open.spotify.com/track/7IF3KlxHiuypG8UAInt0UM"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
-        "name": "Aye Khuda",
-        "url": "https://open.spotify.com/album/6cRFB01oyEXqAQCIH5qFos"
-      },
-      "artists": [
-        {
-          "name": "Sanam Marvi",
-          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
-        },
-        {
-          "name": "Waqar Faiz",
-          "url": "https://open.spotify.com/artist/5PQ8zLBUFXDtS67TwbDOlY"
-        },
-        {
-          "name": "Rushil",
-          "url": "https://open.spotify.com/artist/1gHxomNGjRJHDAl7INHnxE"
-        }
-      ],
-      "duration_ms": 544565,
-      "name": "Aye Khuda",
-      "url": "https://open.spotify.com/track/7vIEXrKp0MXaGkiqJ8qVhx"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Malibu Babie SZN: Vol I",
-        "url": "https://open.spotify.com/album/0baOUkjYE0kLhwWaGwdu78"
-      },
-      "artists": [
-        {
-          "name": "Malibu Babie",
-          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
-        }
-      ],
-      "duration_ms": 143124,
-      "name": "IBTC",
-      "url": "https://open.spotify.com/track/7BokHWSjR5wKAcytz1y6S4"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "VATA",
         "url": "https://open.spotify.com/album/0UVLp3xutGE0aQcAlbnmJ6"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 96969,
       "name": "VATA",
       "url": "https://open.spotify.com/track/6psGi1f5EAL8S7zaF6nEtK"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Malibu Babie SZN: Vol I",
+        "url": "https://open.spotify.com/album/0baOUkjYE0kLhwWaGwdu78"
+      },
+      "artists": [
+        {
+          "name": "Malibu Babie",
+          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
+        }
+      ],
+      "duration_ms": 143124,
+      "name": "IBTC",
+      "url": "https://open.spotify.com/track/7BokHWSjR5wKAcytz1y6S4"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "FORA",
-        "url": "https://open.spotify.com/album/65nSzTeTqWTp5sCdQFxyp9"
-      },
-      "artists": [
-        {
-          "name": "701",
-          "url": "https://open.spotify.com/artist/00ITn8oTHWAJMGySvynsYg"
-        }
-      ],
-      "duration_ms": 218149,
-      "name": "FORA",
-      "url": "https://open.spotify.com/track/1K2QN3HUjNDncM7cCGPvQ1"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "space",
         "url": "https://open.spotify.com/album/7ygO9kMeqjmADYqdy7ZH3k"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 163414,
       "name": "ground zero",
       "url": "https://open.spotify.com/track/4BKGOLRScQzCal1o6A9XAL"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "FORA",
+        "url": "https://open.spotify.com/album/65nSzTeTqWTp5sCdQFxyp9"
+      },
+      "artists": [
+        {
+          "name": "701",
+          "url": "https://open.spotify.com/artist/00ITn8oTHWAJMGySvynsYg"
+        }
+      ],
+      "duration_ms": 218149,
+      "name": "FORA",
+      "url": "https://open.spotify.com/track/1K2QN3HUjNDncM7cCGPvQ1"
     },
     {
       "added_at": "2023-04-05 04:00:00",

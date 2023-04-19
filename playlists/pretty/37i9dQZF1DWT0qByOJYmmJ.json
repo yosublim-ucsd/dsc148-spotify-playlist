@@ -1,12 +1,12 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 609459,
+  "num_followers": 609653,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI2MDQyMiwwMDAwMDAwMGUxMDcxZTIwOGYyYTY1ZjdhYTBmMzhhZWJlYWU4ZjJi",
+  "snapshot_id": "MTY3NzI2MDQyMiwwMDAwMDAwMGNmZTE1NDJmNTQwNTA0ZmZiYTkwOWYyZDk2Y2M1ZmM2",
   "tracks": [
     {
       "added_at": "2023-02-24 17:40:22",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 199936,
+      "name": "Al Norte",
+      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
         "name": "Por Ti Me Quedo en San Luis",
         "url": "https://open.spotify.com/album/0x5bCPWH8u9eQTLByY7LNq"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 157263,
       "name": "Por Ti Me Quedo en San Luis",
       "url": "https://open.spotify.com/track/6kA8g4I3KAqcyIfCFBPNtr"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 199936,
-      "name": "Al Norte",
-      "url": "https://open.spotify.com/track/2dxeshKXUCGzydZQziuN3B"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
-        "url": "https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
-      "url": "https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
         "name": "2 A.M.",
         "url": "https://open.spotify.com/album/5UxKx8bkxhP4TN9upxrQjU"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 182966,
       "name": "Solo Aqu\u00ed",
       "url": "https://open.spotify.com/track/7N3XV7eGhrnJLpghBEA15n"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
+        "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
+        "url": "https://open.spotify.com/album/6957JkC44ERGeUABWH6ssX"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "\u00bfPor Qu\u00e9 Me Dejaste de Querer?",
+      "url": "https://open.spotify.com/track/3A0EC7X2FGSnbFDOCb8ZoT"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
+        "name": "Elefante Rosado",
+        "url": "https://open.spotify.com/album/7zd0rhMzLcO242yOC1niFl"
+      },
+      "artists": [
+        {
+          "name": "Yukun",
+          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Elefante Rosado",
+      "url": "https://open.spotify.com/track/6gAvKn225q8bNOG5HwvNhu"
+    },
+    {
+      "added_at": "2023-02-24 17:40:22",
+      "album": {
         "name": "tdbn",
         "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 202146,
       "name": "lejos",
       "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
-    },
-    {
-      "added_at": "2023-02-24 17:40:22",
-      "album": {
-        "name": "Lo Que Sol\u00edamos Ser",
-        "url": "https://open.spotify.com/album/01SMFYAJJVNSFNZXJj2c9s"
-      },
-      "artists": [
-        {
-          "name": "L\u00daA",
-          "url": "https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM"
-        }
-      ],
-      "duration_ms": 183282,
-      "name": "Lo Que Sol\u00edamos Ser",
-      "url": "https://open.spotify.com/track/7pmyyC7HUNMtEqT3w6QWTn"
     },
     {
       "added_at": "2023-02-24 17:40:22",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2023-02-24 17:40:22",
       "album": {
-        "name": "Elefante Rosado",
-        "url": "https://open.spotify.com/album/7zd0rhMzLcO242yOC1niFl"
+        "name": "Lo Que Sol\u00edamos Ser",
+        "url": "https://open.spotify.com/album/01SMFYAJJVNSFNZXJj2c9s"
       },
       "artists": [
         {
-          "name": "Yukun",
-          "url": "https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB"
+          "name": "L\u00daA",
+          "url": "https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM"
         }
       ],
-      "duration_ms": 133746,
-      "name": "Elefante Rosado",
-      "url": "https://open.spotify.com/track/6gAvKn225q8bNOG5HwvNhu"
+      "duration_ms": 183282,
+      "name": "Lo Que Sol\u00edamos Ser",
+      "url": "https://open.spotify.com/track/7pmyyC7HUNMtEqT3w6QWTn"
     },
     {
       "added_at": "2023-02-24 17:40:22",

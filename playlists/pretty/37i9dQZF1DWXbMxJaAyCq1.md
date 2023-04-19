@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbMxJaAyCq1.md) - [plain]
 
 > This is the remix..\. escúchalos acá\. Foto: Yng Lucas, Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,288 likes - 75 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 380,117 likes - 75 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

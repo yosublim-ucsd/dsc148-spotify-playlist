@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: King Krule
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,752 likes - 120 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,812 likes - 120 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 20 | [DAYS GO BY](https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [DAYS GO BY](https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw) | 4:31 |
 | 21 | [Spider](https://open.spotify.com/track/5K2Pxa2zSpIk2ROgRa9jUc) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Spider](https://open.spotify.com/album/4w42UNeqts8JN3uSW6O2A9) | 4:01 |
 | 22 | [Turbines/Pigs \- Live at Bush Hall](https://open.spotify.com/track/626DiLKaEAoQfJ7YLdjcaF) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Live at Bush Hall](https://open.spotify.com/album/1w7YBHqXz6UfLrVur8JAcW) | 9:46 |
-| 23 | [Your Love](https://open.spotify.com/track/1FHeegARABz3cgW3qgrtbz) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Your Love](https://open.spotify.com/album/68d5CK8mp4yqcc7TfS8uM7) | 3:13 |
+| 23 | [Your Love](https://open.spotify.com/track/1ZvUKEzJM4s4LyPhj70oaP) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Your Love](https://open.spotify.com/album/4tgaAuPBaVEPbUStoUNFSd) | 3:13 |
 | 24 | [Tainted Blue](https://open.spotify.com/track/5Ucxa8mcpbWaq5myPYq06f) | [TTRRUUCES](https://open.spotify.com/artist/4fFSyYQa0jRwFSunVahGw8) | [Tainted Blue](https://open.spotify.com/album/3kM2aOSk2rdVKURj3xfeF8) | 4:49 |
 | 25 | [Portraits](https://open.spotify.com/track/1n2POqjfHTnCt3bxaa1vCX) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Portraits](https://open.spotify.com/album/28cCm9j1feLv2jdqCdLmby) | 3:42 |
 | 26 | [atomic](https://open.spotify.com/track/5kBBVaQUEisiw5AHIGbRn4) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [atomic](https://open.spotify.com/album/7IYojlDZvmGIURf0qTulLd) | 2:49 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 119 | [Past Life](https://open.spotify.com/track/0gnQIXp4YEsk3DgtT616re) | [Sølv](https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe) | [Past Life](https://open.spotify.com/album/3lbxwgkhW39lCa1Cq9Q9mI) | 3:37 |
 | 120 | [Dangling](https://open.spotify.com/track/37dySZZK5SUzZbb2wHQRTb) | [VC Pines](https://open.spotify.com/artist/4LQgArm1pO5Q7GuDu2qXfC) | [Dangling](https://open.spotify.com/album/3CVGCgZ770NSXp52pWvAgi) | 2:48 |
 
-Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMDNmYTQ4MDQ5ZTgwNmEwOTk5ZGUyOTQ5MDNmN2I5MmMz`
+Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMDA4ODkyMDE4MTgzZGY1ZjI2MzRkMzJhYmM2YmEyNTJm`

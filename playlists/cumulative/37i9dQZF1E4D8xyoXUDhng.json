@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-18",
-  "description": "With Le'Andria Johnson, LaShun Pace, Daryl Coley and more",
+  "description": "With Le'Andria Johnson, LaShun Pace, Richard Smallwood and more",
   "name": "Callie Day Radio",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 374600,
       "name": "Adoration Medley - Live",
       "url": "https://open.spotify.com/track/26nSbcWMhPKRC5uKGvlOuJ"
@@ -266,7 +266,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 127941,
       "name": "Alleluia",
       "url": "https://open.spotify.com/track/1EpAhrq0wFCpVfMQptg4kK"
@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 330652,
       "name": "Dont Say Goodbye",
       "url": "https://open.spotify.com/track/2tDTu4pGkRSTlPyFi3usVn"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 192211,
       "name": "Ev'ry Time I Feel the Spirit",
       "url": "https://open.spotify.com/track/4UUhU4pwAW7TMve55d8TZ5"
@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 277573,
       "name": "Falling In Love With Jesus",
       "url": "https://open.spotify.com/track/1iEtiqgM2msOd1aQnWISfD"
@@ -1726,7 +1726,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 379880,
       "name": "God Will Take Care of You",
       "url": "https://open.spotify.com/track/3wa382hrbEurJIXCLj5sxz"
@@ -2120,7 +2120,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 215066,
       "name": "HOLY PLACE - Bonus Track",
       "url": "https://open.spotify.com/track/3nmvckOmesTQpZGetNItCz"
@@ -2160,6 +2160,24 @@
       "duration_ms": 500458,
       "name": "Hymn of Healing",
       "url": "https://open.spotify.com/track/1K5cqvPJyOtYvrrtBdehvl"
+    },
+    {
+      "album": {
+        "name": "All I Need Is You",
+        "url": "https://open.spotify.com/album/30ei3YhleAhqWfOxJIbixB"
+      },
+      "artists": [
+        {
+          "name": "RESTART MASS CHOIR",
+          "url": "https://open.spotify.com/artist/5pYaLoPE53QAoeJqDqpVTh"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345560,
+      "name": "I Almost Let Go",
+      "url": "https://open.spotify.com/track/3VegDnuPzrXW4XhOVVbZ1N"
     },
     {
       "album": {
@@ -2290,6 +2308,24 @@
       "duration_ms": 276773,
       "name": "I Know I've Been Changed",
       "url": "https://open.spotify.com/track/4sfrZS1LHxbiesSpqDBRga"
+    },
+    {
+      "album": {
+        "name": "Audience Of One",
+        "url": "https://open.spotify.com/album/5usAsmk8oIx5hupl5Dipsk"
+      },
+      "artists": [
+        {
+          "name": "Heather Headley",
+          "url": "https://open.spotify.com/artist/2xDc4cU0Rj6YG8SrmAHIy0"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286880,
+      "name": "I Know The Lord Will Make A Way",
+      "url": "https://open.spotify.com/track/6CP6FOT5uRhGojUP0gupM0"
     },
     {
       "album": {
@@ -2798,7 +2834,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 232760,
       "name": "In Return",
       "url": "https://open.spotify.com/track/2KssxEq22uVJzXzu4K393p"
@@ -2892,7 +2928,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 281933,
       "name": "It's in Jesus",
       "url": "https://open.spotify.com/track/3Jx03tVctQUhfCDGwQqR3P"
@@ -3138,7 +3174,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 322866,
       "name": "Just Come / Amen",
       "url": "https://open.spotify.com/track/6sYe3tc7r0tSYrQraXU7Gv"
@@ -3414,7 +3450,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 336586,
       "name": "Lord Prepare Me To Be A Sanctuary",
       "url": "https://open.spotify.com/track/3LDSvaUzc679GPLE1Uwz5c"
@@ -3552,7 +3588,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-18",
+      "date_removed": null,
       "duration_ms": 62000,
       "name": "Loving Father",
       "url": "https://open.spotify.com/track/4LOiSOxdMM7LwENsMbOwRW"
@@ -3986,7 +4022,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 461800,
       "name": "My Help",
       "url": "https://open.spotify.com/track/0W8RhOqOvJdZNPYSgaxhSn"
@@ -4134,7 +4170,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 304373,
       "name": "Oh It Is Jesus",
       "url": "https://open.spotify.com/track/6jrBiDvxmrRecURfqE29fB"
@@ -4174,7 +4210,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 86893,
       "name": "Oh Sweet Wonder",
       "url": "https://open.spotify.com/track/2ppQGZRiNam0Nf2BFlowqa"
@@ -4192,7 +4228,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 100133,
       "name": "On The Lord's Day",
       "url": "https://open.spotify.com/track/03wYhrhIi6qe8M3yn2DgdN"
@@ -4210,7 +4246,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 214893,
       "name": "Only What You Do For Christ",
       "url": "https://open.spotify.com/track/5JnbeyIWWFvnrUPTT4iFyT"
@@ -4322,7 +4358,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-20",
+      "date_removed": null,
       "duration_ms": 225146,
       "name": "Pass Me Not",
       "url": "https://open.spotify.com/track/6geKILHdInlwqJ9tpl0nGT"
@@ -4402,6 +4438,60 @@
       "duration_ms": 99781,
       "name": "Power of One",
       "url": "https://open.spotify.com/track/1lK0Khi4StAU0yiALnotLj"
+    },
+    {
+      "album": {
+        "name": "One Voice",
+        "url": "https://open.spotify.com/album/0l9RdcEyKQOlRk0xHES274"
+      },
+      "artists": [
+        {
+          "name": "OneVoice",
+          "url": "https://open.spotify.com/artist/4N626Ks02vMdfaKlyGVTC6"
+        },
+        {
+          "name": "Mikael Sorensen",
+          "url": "https://open.spotify.com/artist/0KvtPzhIfKiIPKkW5w8vdF"
+        },
+        {
+          "name": "Per Kristensson",
+          "url": "https://open.spotify.com/artist/6ZexrbncqkAKMdEYRjD9GZ"
+        },
+        {
+          "name": "Robert Normark",
+          "url": "https://open.spotify.com/artist/2A7naXOAMa2QReyAUDIby4"
+        },
+        {
+          "name": "G\u00f6ran Flood",
+          "url": "https://open.spotify.com/artist/2W1i5BSXciGm0jZviQTZDQ"
+        },
+        {
+          "name": "Thobias Gabrielson",
+          "url": "https://open.spotify.com/artist/16FWa54WlLLm5YO9EpZkSf"
+        },
+        {
+          "name": "Rodney Alfven",
+          "url": "https://open.spotify.com/artist/4DBmjvtCYnpi3mYrDhPxx3"
+        },
+        {
+          "name": "Mats T\u00e4rnfors",
+          "url": "https://open.spotify.com/artist/5PkNELD0DuzkqW2I7X0ND1"
+        },
+        {
+          "name": "Per Hedtjarn",
+          "url": "https://open.spotify.com/artist/6SMk2Fcfu75a4wcGjuGcAA"
+        },
+        {
+          "name": "Jonas Sjoblom",
+          "url": "https://open.spotify.com/artist/4FlaQZxyWbO6u55KHw1rum"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252040,
+      "name": "Praise Be to God",
+      "url": "https://open.spotify.com/track/0DSfZkykYvttb2zpZs0I0Z"
     },
     {
       "album": {
@@ -4586,6 +4676,24 @@
       "duration_ms": 333075,
       "name": "Revelations 19:1",
       "url": "https://open.spotify.com/track/4pSUxkUKeWFyFNkzl7XoBU"
+    },
+    {
+      "album": {
+        "name": "Sadly",
+        "url": "https://open.spotify.com/album/1aj8W0oZ7Cs8nyWvJ6YTb1"
+      },
+      "artists": [
+        {
+          "name": "Katherine Amanda",
+          "url": "https://open.spotify.com/artist/1DgeG81KCrxuAezPL7uoZa"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Sadly",
+      "url": "https://open.spotify.com/track/2OVLDghLwDLp6kSwxsYoZt"
     },
     {
       "album": {
@@ -5100,7 +5208,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 245179,
       "name": "Steal Away",
       "url": "https://open.spotify.com/track/6CROnOFJoxamFfIWCWFcje"
@@ -5216,7 +5324,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 307960,
       "name": "Sunday Best Medley 1",
       "url": "https://open.spotify.com/track/1AUuZwDpStVoX557mfssY1"
@@ -5328,7 +5436,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 99443,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1pTkbmcMNIaQiGiyOXFuj7"
@@ -6214,7 +6322,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-18",
+      "date_removed": null,
       "duration_ms": 214600,
       "name": "You Amaze Me - I Just Want You Album Version",
       "url": "https://open.spotify.com/track/3LhV1K7c2PtAdmEdANSLxd"

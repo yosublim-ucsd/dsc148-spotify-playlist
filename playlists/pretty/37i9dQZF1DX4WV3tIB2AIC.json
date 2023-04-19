@@ -1,12 +1,12 @@
 {
   "description": "Our editorial picks for the best gaming tracks of the year. Cover: Lil Nas X #SpotifyWrapped ",
-  "num_followers": 6844,
+  "num_followers": 6848,
   "original_name": "Top Gaming Tracks of 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMDMzYWYzYzk5ZDY5YjlmODZjMzQ1M2RiYzgwYzY1NTli",
+  "snapshot_id": "MTY2OTgxNTk2MCwwMDAwMDAwMDhmY2Q3NThhMDllMmY5NGVhOWQ2Y2QxNThmMzM2Mzcy",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "BOW",
+        "url": "https://open.spotify.com/album/1oI8nrecGcBbiuHGBTXfA8"
+      },
+      "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        }
+      ],
+      "duration_ms": 182124,
+      "name": "BOW",
+      "url": "https://open.spotify.com/track/2CrrWAO1SOHP5xw8nACU2o"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Fall Guys (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 298444,
       "name": "The Final Battle",
       "url": "https://open.spotify.com/track/6mIuQuKlOK7l6HkQnHfvpQ"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "BOW",
-        "url": "https://open.spotify.com/album/1oI8nrecGcBbiuHGBTXfA8"
-      },
-      "artists": [
-        {
-          "name": "MFS",
-          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
-        }
-      ],
-      "duration_ms": 182124,
-      "name": "BOW",
-      "url": "https://open.spotify.com/track/2CrrWAO1SOHP5xw8nACU2o"
     }
   ],
   "unique_name": "Top Gaming Tracks of 2022",

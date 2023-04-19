@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Tribo da Periferia, Hungria Hip Hop, MC Ryan SP
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,804 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,820 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 43 | [Festa dos Bacana](https://open.spotify.com/track/12dsq6e9rnf7ZvBlCZH1NK) | [MISAEL](https://open.spotify.com/artist/7rn8MwX4RRLRC4yhQJ6sKR), [Mc Lipi](https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc) | [Festa dos Bacana](https://open.spotify.com/album/5zI5o9Bma58gnXreXFdJgY) | 3:54 |
 | 44 | [Rico Mais Cedo](https://open.spotify.com/track/1GG7hxNPI4AnjqoYhp8PvV) | [D3cker](https://open.spotify.com/artist/5YurNLeTXZ7DdkAuNDDZsx), [PedroWnx](https://open.spotify.com/artist/6xhWbJdf04v6FfSXOQWxP1), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Rico Mais Cedo](https://open.spotify.com/album/3jEdU7rZTAXSI79zClkH1G) | 2:59 |
 | 45 | [Prometazina](https://open.spotify.com/track/5TPGZNFUWThxPkA95SR6fY) | [LP Freestyle](https://open.spotify.com/artist/55MsEWRF4BhHEQqWvtPHjv), [Lil Kid 777](https://open.spotify.com/artist/6BMdcFB9reoqzrsCgvkUGq) | [Prometazina](https://open.spotify.com/album/0aPlwNreucz647rjA6AWPj) | 3:02 |
-| 46 | [Fogo na Party](https://open.spotify.com/track/3hEgWh3WXL9dQFi7kLeCBZ) | [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [Luka G](https://open.spotify.com/artist/7C8aOOowROEiSZ9YfhFAg9) | [Fogo na Party](https://open.spotify.com/album/7j5Uiht0RYMVwhXDiD0GkC) | 2:24 |
+| 46 | [Fogo na Party](https://open.spotify.com/track/3hEgWh3WXL9dQFi7kLeCBZ) | [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1) | [Fogo na Party](https://open.spotify.com/album/7j5Uiht0RYMVwhXDiD0GkC) | 2:24 |
 | 47 | [Vai Ficar Tudo Bem](https://open.spotify.com/track/67GVpPBMMLqXvmTufCNlcu) | [Mazzan](https://open.spotify.com/artist/4Z0ol0b5b8tpxDZpT2BMyL), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Vai Ficar Tudo Bem](https://open.spotify.com/album/1r8JVPiGk7fR69p96xjeBG) | 3:15 |
 | 48 | [Posturado & Trajadão](https://open.spotify.com/track/4fXouQHvZXHl9KN0zazOHI) | [Filipinho da Cr](https://open.spotify.com/artist/0FCsaPkCCSjs1y8XgHWWg6), [2T](https://open.spotify.com/artist/3ls0I42IWbgbZFnFCfi21m) | [Posturado & Trajadão](https://open.spotify.com/album/1ngyuNyKXeA9g45epdlYe7) | 3:02 |
 | 49 | [Multiplica](https://open.spotify.com/track/7ezywxyTeabkjR7ZMNkeYZ) | [Meno Bom](https://open.spotify.com/artist/2becfxwincSfFiB1duhonS), [Lipinho Oficial](https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [Multiplica](https://open.spotify.com/album/34uoXwUOT5k3bG5z0RGFKu) | 3:31 |

@@ -1,12 +1,12 @@
 {
   "description": "A selection of the finest Hip-Hop tracks from the illest Arab Rappers. Cover: Abo El Anwar & Husayn",
-  "num_followers": 117226,
+  "num_followers": 117264,
   "original_name": "Arab Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDM1MDQ5MCwwMDAwMDAwMGM4NmM2YTMzMzY5NzEyM2EwZDQ1ZjYzNmJmZDM3ZTM3",
+  "snapshot_id": "MTY4MDM1MDQ5MCwwMDAwMDAwMGZiNWRmZGIxZTQ1YzAzN2YyYmVlMjMxNTU5YmJkMjFm",
   "tracks": [
     {
       "added_at": "2023-04-01 12:01:30",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-04-01 12:01:30",
       "album": {
-        "name": "CHICHI",
-        "url": "https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu"
-      },
-      "artists": [
-        {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "CHICHI",
-      "url": "https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx"
-    },
-    {
-      "added_at": "2023-04-01 12:01:30",
-      "album": {
         "name": "2 Fr\u00e8res",
         "url": "https://open.spotify.com/album/254QtoJMVKY6Io9CMH2Umu"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 265682,
       "name": "2 Fr\u00e8res",
       "url": "https://open.spotify.com/track/6XuVxP2EypUui0Kji4VcEr"
+    },
+    {
+      "added_at": "2023-04-01 12:01:30",
+      "album": {
+        "name": "CHICHI",
+        "url": "https://open.spotify.com/album/6FvhLrpAIZswxC9YLs0qFu"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "CHICHI",
+      "url": "https://open.spotify.com/track/7MahBaXzhvYCL7w9wXF4Wx"
     },
     {
       "added_at": "2023-04-01 12:01:30",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-04-01 12:01:30",
       "album": {
-        "name": "FORSSA",
-        "url": "https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x"
-      },
-      "artists": [
-        {
-          "name": "Draganov",
-          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
-        }
-      ],
-      "duration_ms": 197785,
-      "name": "FORSSA",
-      "url": "https://open.spotify.com/track/4ERqimtfCADVUI256ishDr"
-    },
-    {
-      "added_at": "2023-04-01 12:01:30",
-      "album": {
         "name": "Iori 5",
         "url": "https://open.spotify.com/album/4Bb3u06qDPeQ5zzj0X3HPb"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 190737,
       "name": "Iori 5",
       "url": "https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a"
+    },
+    {
+      "added_at": "2023-04-01 12:01:30",
+      "album": {
+        "name": "FORSSA",
+        "url": "https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "duration_ms": 197785,
+      "name": "FORSSA",
+      "url": "https://open.spotify.com/track/4ERqimtfCADVUI256ishDr"
     },
     {
       "added_at": "2023-04-01 12:01:30",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5oDtp2FC8VqBjTx1aT4P5j">Shy FX</a>'s favorite tracks\. Updated regularly\. Curated by Shy FX\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-72 songs - 5 hr 11 min
+74 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Keepin It Raw \- Calyx & Teebee Remix](https://open.spotify.com/track/7mOAczJuAKDBSiHNTNW5Q5) | [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM), [Calyx & TeeBee](https://open.spotify.com/artist/5AXHArSOd9lplw0Y5Qt5Eg) | [Keepin It Raw \(Calyx & Teebee Remix\)](https://open.spotify.com/album/4GyIgfQbUF8iYQ0L6ITZgx) | 4:10 | 2022-12-09 |  |
 | [Load Up](https://open.spotify.com/track/6BiTUkRQlhd9Srio14CZcr) | [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b) | [Load Up](https://open.spotify.com/album/2J2ZwPE4wniGEQuWCFK6xu) | 2:57 | 2022-12-09 |  |
 | [Make My Mind Go](https://open.spotify.com/track/6OP9KS4RkWrKOALpCGdn9t) | [DLR](https://open.spotify.com/artist/6kgD8l1FG4hgYgW9kk0dvs) | [Make My Mind Go EP](https://open.spotify.com/album/1t6f8DBEGwgMLh0A5IFQDS) | 4:11 | 2022-12-09 |  |
-| [Mash up the Dance](https://open.spotify.com/track/12SZ8TqMbjY1zQc2kTGX22) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance](https://open.spotify.com/album/6lmntnCO9G6CK3zdSEb2fv) | 3:09 | 2022-12-09 |  |
+| [Mash up the Dance](https://open.spotify.com/track/12SZ8TqMbjY1zQc2kTGX22) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance](https://open.spotify.com/album/6lmntnCO9G6CK3zdSEb2fv) | 3:09 | 2022-12-09 | 2023-04-19 |
+| [Mash up the Dance](https://open.spotify.com/track/3HWxmlUkBo3GXRxefWas8m) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Mash up the Dance](https://open.spotify.com/album/6FjPHeZxl5hwST6ZF2MC3v) | 3:09 | 2022-12-09 |  |
 | [Mix Up](https://open.spotify.com/track/7r7RamKxBVIy0GMhZdV7lV) | [Chimpo](https://open.spotify.com/artist/52daryZMe3vvpHyMyJK6SM), [Inqus](https://open.spotify.com/artist/3phW70eP8wr52b8HaDSdUf) | [Troublesome Bubblers EP](https://open.spotify.com/album/264E73xcKhFFObUadgix4f) | 3:44 | 2022-12-09 |  |
 | [Most High](https://open.spotify.com/track/64jTJkHxynSQO2nBfnjBfP) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [Deadly Rhythms B/W Most High](https://open.spotify.com/album/0Vt2iBFIGeN9imMb2YnAHk) | 3:27 | 2022-12-09 |  |
 | [Music 4 Da Soul \- ISHEN Remix](https://open.spotify.com/track/7Bdd3pNphNm7zYSgGyyPnN) | [Congo Natty](https://open.spotify.com/artist/1NngQUSMHaauD7UjKuaH2W), [Courtney Melody](https://open.spotify.com/artist/2blo9rfxtArgRU5bGeJBiO), [ISHEN](https://open.spotify.com/artist/6HFwgj6rzXMsAVrFVnAgNX) | [Music 4 da Soul \(Ishen Remix\)](https://open.spotify.com/album/7cdpcjNWmVftXgrD6G1NzU) | 4:57 | 2022-12-09 |  |
@@ -73,7 +74,8 @@
 | [Squash \- Break Remix](https://open.spotify.com/track/1QiE6NeP2J2wIzdjItHsWH) | [Total Science](https://open.spotify.com/artist/20X39VOcF5zEpkOx6WrXlY), [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM) | [Squash \(Break Remix\)](https://open.spotify.com/album/5reaqwzkC4iDi47O89XyRW) | 5:44 | 2022-12-09 |  |
 | [Sweating \- Breakage Remix](https://open.spotify.com/track/2W1jXOke4g2eBQtUiuuErQ) | [Alewya](https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm), [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [Sweating \(Breakage Remix\)](https://open.spotify.com/album/43bHc6QPQ8NSx5YipAHQn3) | 3:22 | 2022-12-09 |  |
 | [The Original Certified Bubbler](https://open.spotify.com/track/1n3wnYtGsP9geUSywMFsgZ) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [The Original Certified Bubbler](https://open.spotify.com/album/0xQmzZ346eae8j9bR1OxIg) | 3:06 | 2022-12-09 |  |
-| [Time's Up](https://open.spotify.com/track/24zdyFMs4fJ6EF7Hi0VM84) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Time's Up](https://open.spotify.com/album/78CCHeAwm55bNPt4G6E5XA) | 3:47 | 2022-12-09 |  |
+| [Time's Up](https://open.spotify.com/track/00WzOw6iCExyF11cHPRroj) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Time's Up](https://open.spotify.com/album/4Xc9oJ4w2xCVVuwXMNl17M) | 3:47 | 2022-12-09 |  |
+| [Time's Up](https://open.spotify.com/track/24zdyFMs4fJ6EF7Hi0VM84) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC) | [Time's Up](https://open.spotify.com/album/78CCHeAwm55bNPt4G6E5XA) | 3:47 | 2022-12-09 | 2023-04-19 |
 | [True Romance](https://open.spotify.com/track/7cytZA2D0YE1Avedq1SwHI) | [dBridge](https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y), [Vegas](https://open.spotify.com/artist/78B5Hx7vRH6H50MKFXClUz) | [Bellini / True Romance](https://open.spotify.com/album/2PMkDAMMFsQKXws5jacomk) | 6:31 | 2022-12-09 |  |
 | [Under Pressure](https://open.spotify.com/track/6wdwC58WB6sPW0bpE0KR5f) | [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [T\-Man](https://open.spotify.com/artist/5p0SkCjy1OmhoXPSM5dvW2) | [Under Pressure](https://open.spotify.com/album/4kZKTNifMhOF5u8IE8TP55) | 5:00 | 2022-12-09 |  |
 | [Untitled Dubplate](https://open.spotify.com/track/4yvT9PAz7bBpNnC1OPIKss) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [At the Controls, Vol\. 2](https://open.spotify.com/album/5lGywtvzhpd7t3iN0kRPok) | 3:52 | 2022-12-09 |  |

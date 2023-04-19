@@ -1129,6 +1129,24 @@
     },
     {
       "album": {
+        "name": "Cartographie d'un geste",
+        "url": "https://open.spotify.com/album/1dXzttw7ift4su395CsB98"
+      },
+      "artists": [
+        {
+          "name": "Eu Nice",
+          "url": "https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140823,
+      "name": "Cartographie d'un geste",
+      "url": "https://open.spotify.com/track/089hpDdmNpWLfMT98T82YV"
+    },
+    {
+      "album": {
         "name": "Cavandoli",
         "url": "https://open.spotify.com/album/37BrBYpSTWdUz5j12OqXpy"
       },
@@ -8306,7 +8324,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 185698,
       "name": "Sort Of Sentimental",
       "url": "https://open.spotify.com/track/56Wvp4BvcVgAosMtz1dkuV"

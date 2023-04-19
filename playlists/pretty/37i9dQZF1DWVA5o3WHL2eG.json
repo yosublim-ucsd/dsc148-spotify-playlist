@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Dhurata Dora",
-  "num_followers": 25800,
+  "num_followers": 25806,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY0NTYwMCwwMDAwMDAwMDcxZjg5N2ZjZTAyODU0ZTBiZDA4YzczZmE0MWFmYmRj",
+  "snapshot_id": "MTY4MDY0NTYwMCwwMDAwMDAwMDM3MDQ3NTdlMjJmYmNkNGQ1MDFiOWNkYzBlYmFiYzVk",
   "tracks": [
     {
       "added_at": "2023-04-04 22:00:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-04-04 22:00:00",
       "album": {
-        "name": "Silence Your Mind",
-        "url": "https://open.spotify.com/album/77sRud3gjmLrWPYK2VTCeF"
-      },
-      "artists": [
-        {
-          "name": "Juliet Fox",
-          "url": "https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig"
-        }
-      ],
-      "duration_ms": 240538,
-      "name": "Silence Your Mind",
-      "url": "https://open.spotify.com/track/6NLXYs1h9Dx6sk39E8m4HF"
-    },
-    {
-      "added_at": "2023-04-04 22:00:00",
-      "album": {
         "name": "Bothmer Schloss",
         "url": "https://open.spotify.com/album/5uzWUjRAUuHKiVjl3IUKxc"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 146000,
       "name": "Bothmer Schloss",
       "url": "https://open.spotify.com/track/44kwjttT281ppk7hKBqXvV"
+    },
+    {
+      "added_at": "2023-04-04 22:00:00",
+      "album": {
+        "name": "Silence Your Mind",
+        "url": "https://open.spotify.com/album/77sRud3gjmLrWPYK2VTCeF"
+      },
+      "artists": [
+        {
+          "name": "Juliet Fox",
+          "url": "https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig"
+        }
+      ],
+      "duration_ms": 240538,
+      "name": "Silence Your Mind",
+      "url": "https://open.spotify.com/track/6NLXYs1h9Dx6sk39E8m4HF"
     },
     {
       "added_at": "2023-04-04 22:00:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-04-04 22:00:00",
       "album": {
-        "name": "Can't Control",
-        "url": "https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co"
-      },
-      "artists": [
-        {
-          "name": "LOVRA",
-          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
-        }
-      ],
-      "duration_ms": 177139,
-      "name": "Can't Control",
-      "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
-    },
-    {
-      "added_at": "2023-04-04 22:00:00",
-      "album": {
         "name": "awg",
         "url": "https://open.spotify.com/album/6sm28IYxQCgAs0n3CgMsGS"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 101915,
       "name": "awg",
       "url": "https://open.spotify.com/track/5xiYSLtU88Vom101qBUhep"
+    },
+    {
+      "added_at": "2023-04-04 22:00:00",
+      "album": {
+        "name": "Can't Control",
+        "url": "https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co"
+      },
+      "artists": [
+        {
+          "name": "LOVRA",
+          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
+        }
+      ],
+      "duration_ms": 177139,
+      "name": "Can't Control",
+      "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
     },
     {
       "added_at": "2023-04-04 22:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-04-04 22:00:00",
       "album": {
-        "name": "Whenever You Want",
-        "url": "https://open.spotify.com/album/6X4bM4abuCymcZAFHnRS25"
-      },
-      "artists": [
-        {
-          "name": "BROCKHOFF",
-          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
-        }
-      ],
-      "duration_ms": 239771,
-      "name": "Whenever You Want",
-      "url": "https://open.spotify.com/track/29JgcW00N8IGqzCFi606BC"
-    },
-    {
-      "added_at": "2023-04-04 22:00:00",
-      "album": {
         "name": "ALIEN",
         "url": "https://open.spotify.com/album/4ZtesfuyseB0PeWsO8NwDP"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 186654,
       "name": "ALIEN",
       "url": "https://open.spotify.com/track/0NsU1cd9CJMSyvQjKaUiVi"
+    },
+    {
+      "added_at": "2023-04-04 22:00:00",
+      "album": {
+        "name": "Whenever You Want",
+        "url": "https://open.spotify.com/album/6X4bM4abuCymcZAFHnRS25"
+      },
+      "artists": [
+        {
+          "name": "BROCKHOFF",
+          "url": "https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ"
+        }
+      ],
+      "duration_ms": 239771,
+      "name": "Whenever You Want",
+      "url": "https://open.spotify.com/track/29JgcW00N8IGqzCFi606BC"
     },
     {
       "added_at": "2023-04-04 22:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-04-04 22:00:00",
       "album": {
-        "name": "He Nur Da",
-        "url": "https://open.spotify.com/album/19HhiWUP1wjm3LcDgUylNG"
-      },
-      "artists": [
-        {
-          "name": "RAHEL",
-          "url": "https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv"
-        }
-      ],
-      "duration_ms": 174637,
-      "name": "He Nur Da",
-      "url": "https://open.spotify.com/track/1nLdZdM4RT2wCw2hYxz9uA"
-    },
-    {
-      "added_at": "2023-04-04 22:00:00",
-      "album": {
         "name": "i don\u2019t get stressed",
         "url": "https://open.spotify.com/album/1haLcZLvPgQnP2f9DGcWJf"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 149853,
       "name": "i don\u2019t get stressed",
       "url": "https://open.spotify.com/track/6mNw5l0kXAJCsaQNfOw4qR"
+    },
+    {
+      "added_at": "2023-04-04 22:00:00",
+      "album": {
+        "name": "He Nur Da",
+        "url": "https://open.spotify.com/album/19HhiWUP1wjm3LcDgUylNG"
+      },
+      "artists": [
+        {
+          "name": "RAHEL",
+          "url": "https://open.spotify.com/artist/0WdihSMgLzyjcNcKsdvJCv"
+        }
+      ],
+      "duration_ms": 174637,
+      "name": "He Nur Da",
+      "url": "https://open.spotify.com/track/1nLdZdM4RT2wCw2hYxz9uA"
     },
     {
       "added_at": "2023-04-04 22:00:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-04-04 22:00:00",
       "album": {
-        "name": "Suitable",
-        "url": "https://open.spotify.com/album/1jN5or6nocHJEg2sHYf67n"
-      },
-      "artists": [
-        {
-          "name": "Amilli",
-          "url": "https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D"
-        }
-      ],
-      "duration_ms": 184970,
-      "name": "Suitable",
-      "url": "https://open.spotify.com/track/6SvHJZNQfAZiFcZmuFGa6v"
-    },
-    {
-      "added_at": "2023-04-04 22:00:00",
-      "album": {
         "name": "alchemy",
         "url": "https://open.spotify.com/album/3fuR8WG0xvkhknmAlIumtm"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 138948,
       "name": "alchemy",
       "url": "https://open.spotify.com/track/4gjiMTM8zCkQm7B2rY2xSi"
+    },
+    {
+      "added_at": "2023-04-04 22:00:00",
+      "album": {
+        "name": "Suitable",
+        "url": "https://open.spotify.com/album/1jN5or6nocHJEg2sHYf67n"
+      },
+      "artists": [
+        {
+          "name": "Amilli",
+          "url": "https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D"
+        }
+      ],
+      "duration_ms": 184970,
+      "name": "Suitable",
+      "url": "https://open.spotify.com/track/6SvHJZNQfAZiFcZmuFGa6v"
     },
     {
       "added_at": "2023-04-04 22:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-04-04 22:00:00",
       "album": {
-        "name": "Bangalore Girl",
-        "url": "https://open.spotify.com/album/2caJPIatHrvo22ijTShEHD"
-      },
-      "artists": [
-        {
-          "name": "Joyce Muniz",
-          "url": "https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L"
-        }
-      ],
-      "duration_ms": 182125,
-      "name": "Bangalore Girl",
-      "url": "https://open.spotify.com/track/5SbQwyAnj2NkyPSg5SLn8V"
-    },
-    {
-      "added_at": "2023-04-04 22:00:00",
-      "album": {
         "name": "Signalverlust",
         "url": "https://open.spotify.com/album/0gaR1G5qMxBrWZxhupfQm6"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2023-04-04 22:00:00",
       "album": {
-        "name": "NOBODY",
-        "url": "https://open.spotify.com/album/31QsaG58FOxmthaBgjswqj"
+        "name": "Bangalore Girl",
+        "url": "https://open.spotify.com/album/2caJPIatHrvo22ijTShEHD"
       },
       "artists": [
         {
-          "name": "Dornika",
-          "url": "https://open.spotify.com/artist/5i5vDoGXWD2Q5M9Sji5BNv"
+          "name": "Joyce Muniz",
+          "url": "https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L"
         }
       ],
-      "duration_ms": 157909,
-      "name": "NOBODY",
-      "url": "https://open.spotify.com/track/4ROsbMSagzESG7ZRDaz81I"
+      "duration_ms": 182125,
+      "name": "Bangalore Girl",
+      "url": "https://open.spotify.com/track/5SbQwyAnj2NkyPSg5SLn8V"
     },
     {
       "added_at": "2023-04-04 22:00:00",
@@ -763,6 +747,22 @@
       "duration_ms": 285443,
       "name": "Innig",
       "url": "https://open.spotify.com/track/7jbQIpN7nz84Z7ptY6b2ak"
+    },
+    {
+      "added_at": "2023-04-04 22:00:00",
+      "album": {
+        "name": "NOBODY",
+        "url": "https://open.spotify.com/album/31QsaG58FOxmthaBgjswqj"
+      },
+      "artists": [
+        {
+          "name": "Dornika",
+          "url": "https://open.spotify.com/artist/5i5vDoGXWD2Q5M9Sji5BNv"
+        }
+      ],
+      "duration_ms": 157909,
+      "name": "NOBODY",
+      "url": "https://open.spotify.com/track/4ROsbMSagzESG7ZRDaz81I"
     },
     {
       "added_at": "2023-04-04 22:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Boss music for boss people. Cover: The K's",
+  "description": "Boss music for boss people. Cover: Miles Kane",
   "name": "Proper Belters",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 211451,
       "name": "Big Fish, Small Pond",
       "url": "https://open.spotify.com/track/54x9jwJU7a0xUjT1hbFtDi"
@@ -254,6 +254,24 @@
       "duration_ms": 226077,
       "name": "Call Me What You Like",
       "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
+    },
+    {
+      "album": {
+        "name": "Cavalryman",
+        "url": "https://open.spotify.com/album/1DtKTmCjirkrY5hvcObsGt"
+      },
+      "artists": [
+        {
+          "name": "Seb Lowe",
+          "url": "https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193426,
+      "name": "Cavalryman",
+      "url": "https://open.spotify.com/track/2KUqbwVAwyiajA6wyMdxWH"
     },
     {
       "album": {
@@ -466,7 +484,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 232029,
       "name": "Don't Follow Me Down",
       "url": "https://open.spotify.com/track/4DPtu1dnfsPUN8HH9ppwbM"
@@ -484,7 +502,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 239546,
       "name": "Don't Let It Get You Down",
       "url": "https://open.spotify.com/track/4QF5iy2ayntan3pbOfAGKZ"
@@ -502,7 +520,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 247002,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/1Hx2nUUnTyk5ewgKZt1lSI"
@@ -610,7 +628,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 236889,
       "name": "Forget About Me",
       "url": "https://open.spotify.com/track/3a0EX3qKaVsTsVxBexZQnc"
@@ -668,6 +686,24 @@
       "duration_ms": 193120,
       "name": "Give It Up To Love",
       "url": "https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT"
+    },
+    {
+      "album": {
+        "name": "Good Luck Charm",
+        "url": "https://open.spotify.com/album/19JgrZnZm3m5jEhinTcltf"
+      },
+      "artists": [
+        {
+          "name": "THE GOA EXPRESS",
+          "url": "https://open.spotify.com/artist/0uuWKORLosOJB3L6D7zplX"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187683,
+      "name": "Good Luck Charm",
+      "url": "https://open.spotify.com/track/68eOhyvEU7MFO0xBQr9xCP"
     },
     {
       "album": {
@@ -970,7 +1006,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 212138,
       "name": "Jellyfish",
       "url": "https://open.spotify.com/track/5miXWvZSKWYr4W3MR27z87"
@@ -1193,6 +1229,24 @@
     },
     {
       "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/3uRlTeGvjVcrNYk1mqJTgf"
+      },
+      "artists": [
+        {
+          "name": "Louis Dunford",
+          "url": "https://open.spotify.com/artist/7JQQENqbvCU2R9xeI9G342"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260462,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/3BUjgjs6DCpu0pYT7PWEr8"
+    },
+    {
+      "album": {
         "name": "Money",
         "url": "https://open.spotify.com/album/19F6Ai9NloBmTqrhcz9N0M"
       },
@@ -1204,7 +1258,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 210975,
       "name": "Money",
       "url": "https://open.spotify.com/track/7KllccAHAj97nQPqBlQouV"
@@ -1456,7 +1510,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 189840,
       "name": "Skint Eastwood",
       "url": "https://open.spotify.com/track/7gMCx5OAvXAN6Mtr5nvyiV"
@@ -1600,7 +1654,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 191637,
       "name": "The Dreamer",
       "url": "https://open.spotify.com/track/6gQheeYzRC6CFO6ydya9wx"
@@ -1748,6 +1802,24 @@
       "duration_ms": 195421,
       "name": "Tired Minds",
       "url": "https://open.spotify.com/track/4ltKJxYykFeDCVLTMIaN8f"
+    },
+    {
+      "album": {
+        "name": "Troubled Son",
+        "url": "https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35"
+      },
+      "artists": [
+        {
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200482,
+      "name": "Troubled Son",
+      "url": "https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm"
     },
     {
       "album": {

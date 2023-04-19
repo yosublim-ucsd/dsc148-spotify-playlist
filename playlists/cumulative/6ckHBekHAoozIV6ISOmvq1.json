@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:6idjuynJ3Rgy9RIHaGKDAF\">2022</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:7b3qwPS9RTygJC5H8DPfGl\">Italian Renaissance</a> or <a href=\"spotify:playlist:511MabrP35Zp3tqYh2G4iJ\">Medieval Ensemble</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
+  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:6idjuynJ3Rgy9RIHaGKDAF\">2022</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:7b3qwPS9RTygJC5H8DPfGl\">Italian Renaissance</a> or <a href=\"spotify:playlist:5uQQu2RC80Ku5AjSpCtrJF\">Madrigal</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
   "name": "The Sound of Medieval",
   "tracks": [
     {
@@ -474,7 +474,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 526200,
       "name": "Ab lo cor triste",
       "url": "https://open.spotify.com/track/3FqssRGZAyFRC4HjGNaNnP"
@@ -2304,6 +2304,36 @@
       "duration_ms": 371333,
       "name": "Ben pode Santa Maria",
       "url": "https://open.spotify.com/track/5sp3qve1YFedoehmNm73RX"
+    },
+    {
+      "album": {
+        "name": "Les escholiers de Paris (Motets, chansons et estampies)",
+        "url": "https://open.spotify.com/album/42z32mZF8CPvYENuReV5VN"
+      },
+      "artists": [
+        {
+          "name": "Gace Brul\u00e9",
+          "url": "https://open.spotify.com/artist/0NQ2rO0sTq6CtKewNVZ84x"
+        },
+        {
+          "name": "Brigitte Lesne",
+          "url": "https://open.spotify.com/artist/3IVY33qtUPVAdoprVjn69d"
+        },
+        {
+          "name": "Emmanuel Bonnardot",
+          "url": "https://open.spotify.com/artist/3owNFrCfXAvF6CDZ059eMc"
+        },
+        {
+          "name": "Pierre Hamon",
+          "url": "https://open.spotify.com/artist/363N5eDZLVoiHql89HsG4b"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 643400,
+      "name": "Biaus m'est este quant retentit la bruille",
+      "url": "https://open.spotify.com/track/1cM6mneFjqEPLo43bDVNLL"
     },
     {
       "album": {
@@ -4694,7 +4724,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 369400,
       "name": "Crux triumphans",
       "url": "https://open.spotify.com/track/6N34LW1EiCyHVFrKBQTdXp"
@@ -5508,6 +5538,28 @@
       "duration_ms": 830333,
       "name": "Dinaresade",
       "url": "https://open.spotify.com/track/2K4o30lwlk27UCoUQ2jBSj"
+    },
+    {
+      "album": {
+        "name": "La Bella Mandorla: Madrigals from the Codex Squarcialupi",
+        "url": "https://open.spotify.com/album/6vIbiJdZS0yt2PQq7onvQ6"
+      },
+      "artists": [
+        {
+          "name": "Niccol\u00f2 da Perugia",
+          "url": "https://open.spotify.com/artist/37qFHUvdXV7NOqunkUCgIz"
+        },
+        {
+          "name": "Palatino87",
+          "url": "https://open.spotify.com/artist/4Kh9ZrrJQ24rjHNXRlMvLE"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190680,
+      "name": "Dio mi guardi",
+      "url": "https://open.spotify.com/track/6KnGXngIEHAf9DUEDdBu3C"
     },
     {
       "album": {
@@ -9492,6 +9544,32 @@
       "duration_ms": 251960,
       "name": "La harpe de m\u00e9lodie",
       "url": "https://open.spotify.com/track/71SFErU2OXFhZtUgzPMdXQ"
+    },
+    {
+      "album": {
+        "name": "De Guillaume de Machaut \u00e0 Guillaume Dufay",
+        "url": "https://open.spotify.com/album/1pdIvD116c50SuWnsqo8zt"
+      },
+      "artists": [
+        {
+          "name": "Jacob Senleches",
+          "url": "https://open.spotify.com/artist/5ilJirpdTMV6Ma6jPAq9dk"
+        },
+        {
+          "name": "Emmanuel Bonnardot",
+          "url": "https://open.spotify.com/artist/3owNFrCfXAvF6CDZ059eMc"
+        },
+        {
+          "name": "Camille BONNARDOT",
+          "url": "https://open.spotify.com/artist/4pxGvP7XuySXyKbnu2usMn"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228973,
+      "name": "La Harpe de m\u00e9lodie (Virelai)",
+      "url": "https://open.spotify.com/track/3wO5DGvpIKTlWsG2Ey6Wij"
     },
     {
       "album": {
@@ -17538,7 +17616,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 251346,
       "name": "Vous ne me faites morir",
       "url": "https://open.spotify.com/track/1xNyWHmUD7TevlNrmYNXrk"

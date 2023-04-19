@@ -4,7 +4,7 @@
 
 > Vocal jazz favorites from 2022\. Cover: Samara Joy \#SpotifyWrapped
 
-114 songs - 7 hr 41 min
+116 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Blackbird Sing](https://open.spotify.com/track/0j4eYL0EQAAeUiKqkmQnUG) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Blackbird Sing](https://open.spotify.com/album/1TNnOqAC5n4zLuYSilIcWB) | 3:29 | 2021-12-01 | 2022-12-01 |
 | [Bloodline](https://open.spotify.com/track/0uEkDFrfTS24kzANpkfPLk) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/6w9KqIfC7zIoKmdJgs9yBA) | 3:49 | 2021-12-01 | 2022-12-01 |
 | [Bloodline](https://open.spotify.com/track/6E2xSghivZVmTTy3m0NNHS) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Bloodline](https://open.spotify.com/album/0sw9A3w2cRMHywBMmMUD3h) | 3:49 | 2021-12-01 | 2022-07-29 |
-| [Blossom's Blues](https://open.spotify.com/track/50nxVCNnflGSKECsf4IN6V) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/4dLNU3LLt6BudaiM2MYAwn) | 3:28 | 2022-11-30 |  |
+| [Blossom's Blues](https://open.spotify.com/track/2ZC6teLIAGQHEGIRs2VlUg) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/6VHzJNiSLGXkXw9NzY9GGX) | 3:28 | 2022-11-30 |  |
+| [Blossom's Blues](https://open.spotify.com/track/50nxVCNnflGSKECsf4IN6V) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/4dLNU3LLt6BudaiM2MYAwn) | 3:28 | 2022-11-30 | 2023-04-19 |
 | [Bonita](https://open.spotify.com/track/2jSNZUNgyRArdjjSoqlCPH) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs from Other Places \(Special Edition\)](https://open.spotify.com/album/44iqwz2NY8YScKkO8bNLMW) | 4:12 | 2022-11-30 |  |
 | [Bonita \- Special Edition](https://open.spotify.com/track/2tfYHSW4tSX38ng3GLiv0H) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib) | [Songs From Other Places \(Special Edition\)](https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1) | 4:12 | 2022-11-30 | 2023-01-22 |
 | [Born In The Dark](https://open.spotify.com/track/1BqN5U71j779zCZlPRpWpk) | [Eric Hutchinson](https://open.spotify.com/artist/39x8gyJjTHiBQklFgVJSV4) | [Before & After Life](https://open.spotify.com/album/0gbO5q0USgCkccD7CpCiwE) | 5:17 | 2021-12-01 | 2022-12-01 |
@@ -36,7 +37,8 @@
 | [Did Somebody Make a Fool Out of You](https://open.spotify.com/track/3y5Z7sB8kKEuBI06G2fZcb) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Did Somebody Make a Fool Out of You](https://open.spotify.com/album/5VvEOtmiR7TFEWp62vjPOs) | 4:51 | 2022-11-30 |  |
 | [Everything Happens to Me](https://open.spotify.com/track/44DiSGodp1YooCyJfI2aeQ) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6) | 3:47 | 2021-12-01 | 2022-12-01 |
 | [Everything Happens to Me](https://open.spotify.com/track/7qFaoRVHhqowCFEi3McfkF) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/7odhq8nBHDrTgYXIuV6g23) | 3:47 | 2021-12-01 | 2022-07-29 |
-| [Fine Brown Frame](https://open.spotify.com/track/6pYeOeWKMODk6lpyCfSiFN) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Fine Brown Frame](https://open.spotify.com/album/6nPUg45JLv3xKxAXVfeD6B) | 3:20 | 2022-11-30 |  |
+| [Fine Brown Frame](https://open.spotify.com/track/0kkdbmP7KeI7d9akdryPmU) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/6VHzJNiSLGXkXw9NzY9GGX) | 3:16 | 2022-11-30 |  |
+| [Fine Brown Frame](https://open.spotify.com/track/6pYeOeWKMODk6lpyCfSiFN) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Fine Brown Frame](https://open.spotify.com/album/6nPUg45JLv3xKxAXVfeD6B) | 3:20 | 2022-11-30 | 2023-04-19 |
 | [Finis](https://open.spotify.com/track/6aX8v48UL54ghg6KgCaTvi) | [Amanda Tosoff](https://open.spotify.com/artist/6YqsZpf1iDyUBvvVtiPLaR), [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Earth Voices](https://open.spotify.com/album/6QHyaqpkhH0J0qqtd3AVRW) | 5:51 | 2021-12-01 | 2022-12-01 |
 | [Fly \(For Mike\) feat\. Brittany Howard](https://open.spotify.com/track/0qKdmI20wCPmmjSWY6wO6K) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Fly \(For Mike\) Feat\. Brittany Howard](https://open.spotify.com/album/41YY1uiKkpKySBWEpqzWpj) | 4:01 | 2021-12-01 | 2022-12-01 |
 | [Forget Me](https://open.spotify.com/track/7ooca2m8QsakFrzeLG0M30) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5) | [Musa](https://open.spotify.com/album/5jeSkpB4Ntk9q3mt6eNCY0) | 4:21 | 2021-12-01 | 2022-12-01 |

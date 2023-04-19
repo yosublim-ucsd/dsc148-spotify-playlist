@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 143093,
       "name": "Dog Years - weird inside Remix",
       "url": "https://open.spotify.com/track/15zSGbZomfOYEJJdZ55OAs"
@@ -2418,6 +2418,28 @@
       "duration_ms": 215552,
       "name": "Fluorescent",
       "url": "https://open.spotify.com/track/4bQiPmKSrDHD048lUKr7Fu"
+    },
+    {
+      "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/6TAhNtHs5NGaEViqb1uINw"
+      },
+      "artists": [
+        {
+          "name": "Ekali",
+          "url": "https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd"
+        },
+        {
+          "name": "Bloom",
+          "url": "https://open.spotify.com/artist/3SPZXcOrF8xSvlu8F36l3G"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220869,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/1bDclm0e8PVf7t8D0UEl1i"
     },
     {
       "album": {

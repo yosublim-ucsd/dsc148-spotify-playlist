@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaT0pyUaCzoO.md) - [plain]
 
 > Songs of pride and empowerment to enjoy with little listeners\. Cover: That Girl Lay Lay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,526 likes - 72 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,533 likes - 72 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

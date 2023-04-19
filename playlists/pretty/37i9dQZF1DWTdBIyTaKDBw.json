@@ -1,12 +1,12 @@
 {
   "description": "Enjoy your happy & sweet eating time with Korean theme! (\uc0ac\ub791\uc2a4\ub7ec\uc6b4 \uc74c\uc545\ub4e4\uacfc \ud589\ubcf5\ud55c \uc2dd\uc0ac \uc2dc\uac04\uc744 \uac00\uc838\ubcf4\uc138\uc694!)",
-  "num_followers": 44421,
+  "num_followers": 44483,
   "original_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNDMxNCwwMDAwMDAwMGNlMTllNTEzZmJiMTg2NTQ1MDhiYzhiMWQzOTI0ZDQ1",
+  "snapshot_id": "MTY3OTkwNDMxNCwwMDAwMDAwMDNjODNkYzM4NTdmYmIzMzcyZWU2NmU4NzMzYjkyYWNi",
   "tracks": [
     {
       "added_at": "2023-02-24 10:35:29",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
+        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "Feel Like Falling In Love",
+      "url": "https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
         "name": "Dear My Winter",
         "url": "https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 200933,
       "name": "Dear My Winter",
       "url": "https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "Feel Like Falling In Love",
-      "url": "https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -645,24 +645,20 @@
       "url": "https://open.spotify.com/track/0kIAlFsKhfOmfaSnqFcX5R"
     },
     {
-      "added_at": "2023-04-17 23:58:35",
+      "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "We don\u2019t talk (Feat. CHEEZE)",
-        "url": "https://open.spotify.com/album/0EBLkNbcXmiGBj5fPVtrvK"
+        "name": "Sweeet",
+        "url": "https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl"
       },
       "artists": [
         {
-          "name": "KOREA CRACKER",
-          "url": "https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz"
-        },
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+          "name": "Milena",
+          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
         }
       ],
-      "duration_ms": 194573,
-      "name": "We don\u2019t talk (Feat. CHEEZE)",
-      "url": "https://open.spotify.com/track/3bjwxY6u1MFQheamA1rkcP"
+      "duration_ms": 177999,
+      "name": "Sugardance",
+      "url": "https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -681,20 +677,24 @@
       "url": "https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB"
     },
     {
-      "added_at": "2023-02-24 10:35:29",
+      "added_at": "2023-04-19 00:24:53",
       "album": {
-        "name": "Sweeet",
-        "url": "https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl"
+        "name": "We don\u2019t talk (Feat. CHEEZE)",
+        "url": "https://open.spotify.com/album/0EBLkNbcXmiGBj5fPVtrvK"
       },
       "artists": [
         {
-          "name": "Milena",
-          "url": "https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n"
+          "name": "KOREA CRACKER",
+          "url": "https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz"
+        },
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
         }
       ],
-      "duration_ms": 177999,
-      "name": "Sugardance",
-      "url": "https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B"
+      "duration_ms": 194573,
+      "name": "We don\u2019t talk (Feat. CHEEZE)",
+      "url": "https://open.spotify.com/track/3bjwxY6u1MFQheamA1rkcP"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -973,7 +973,7 @@
       "url": "https://open.spotify.com/track/5dUfJmAbyDN2kbTgbV9dob"
     },
     {
-      "added_at": "2023-04-17 23:58:35",
+      "added_at": "2023-04-19 00:24:53",
       "album": {
         "name": "Candy For You",
         "url": "https://open.spotify.com/album/6D7gUwsJNO2SNjxZVSUrzA"
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Honey jar No.01",
-        "url": "https://open.spotify.com/album/5Zx2HCIxersMYBoulDHh9t"
-      },
-      "artists": [
-        {
-          "name": "HolyBear",
-          "url": "https://open.spotify.com/artist/6RhW0yVl3QJNlL894XSGpn"
-        }
-      ],
-      "duration_ms": 219205,
-      "name": "Butterfly on my mind",
-      "url": "https://open.spotify.com/track/6I6F82g5Lk555dRHWjVR1w"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "Fuzzy peach",
         "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
       },
@@ -1051,22 +1035,6 @@
       "duration_ms": 251653,
       "name": "Fuzzy peach",
       "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "The Fairy Tale",
-        "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 239086,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/3i39O8PS1qEWYefGEhrTBp"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -1087,6 +1055,38 @@
       "duration_ms": 193514,
       "name": "Thinking of you (Feat. Lee Yu Bin)",
       "url": "https://open.spotify.com/track/0HjXWaEloMpHcBUlQOqDhr"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "The Fairy Tale",
+        "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 239086,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/3i39O8PS1qEWYefGEhrTBp"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "Honey jar No.01",
+        "url": "https://open.spotify.com/album/5Zx2HCIxersMYBoulDHh9t"
+      },
+      "artists": [
+        {
+          "name": "HolyBear",
+          "url": "https://open.spotify.com/artist/6RhW0yVl3QJNlL894XSGpn"
+        }
+      ],
+      "duration_ms": 219205,
+      "name": "Butterfly on my mind",
+      "url": "https://open.spotify.com/track/6I6F82g5Lk555dRHWjVR1w"
     },
     {
       "added_at": "2023-02-24 10:35:29",
@@ -1183,6 +1183,38 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
+        "name": "Our Cinema #2 - Dancing",
+        "url": "https://open.spotify.com/album/1NOp8pcedKfCeUj43mmbhC"
+      },
+      "artists": [
+        {
+          "name": "Narae Lee",
+          "url": "https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1"
+        }
+      ],
+      "duration_ms": 210079,
+      "name": "Our Cinema #2 - Dancing",
+      "url": "https://open.spotify.com/track/6D9XN0mRQZRBcte4IZReCE"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
+        "name": "LOVER",
+        "url": "https://open.spotify.com/album/2E1J6sAvJIYboa13mkcilz"
+      },
+      "artists": [
+        {
+          "name": "Yoon Hyun Sang",
+          "url": "https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2"
+        }
+      ],
+      "duration_ms": 265773,
+      "name": "Dancing Universe",
+      "url": "https://open.spotify.com/track/2shW4PIb06f9uYWEcrZ00a"
+    },
+    {
+      "added_at": "2023-02-24 10:35:29",
+      "album": {
         "name": "SEOULVIBES, GROCERY",
         "url": "https://open.spotify.com/album/7H4ODTXkDsCzqraY5DExRX"
       },
@@ -1211,22 +1243,6 @@
     {
       "added_at": "2023-02-24 10:35:29",
       "album": {
-        "name": "Our Cinema #2 - Dancing",
-        "url": "https://open.spotify.com/album/1NOp8pcedKfCeUj43mmbhC"
-      },
-      "artists": [
-        {
-          "name": "Narae Lee",
-          "url": "https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1"
-        }
-      ],
-      "duration_ms": 210079,
-      "name": "Our Cinema #2 - Dancing",
-      "url": "https://open.spotify.com/track/6D9XN0mRQZRBcte4IZReCE"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
         "name": "Rainy Apgujeong",
         "url": "https://open.spotify.com/album/5SeTFxSNmAG5JSi3jReueV"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 274030,
       "name": "Rainy Apgujeong",
       "url": "https://open.spotify.com/track/7KkPuyazzYvmwquvWfGQ6J"
-    },
-    {
-      "added_at": "2023-02-24 10:35:29",
-      "album": {
-        "name": "LOVER",
-        "url": "https://open.spotify.com/album/2E1J6sAvJIYboa13mkcilz"
-      },
-      "artists": [
-        {
-          "name": "Yoon Hyun Sang",
-          "url": "https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2"
-        }
-      ],
-      "duration_ms": 265773,
-      "name": "Dancing Universe",
-      "url": "https://open.spotify.com/track/2shW4PIb06f9uYWEcrZ00a"
     }
   ],
   "unique_name": "Mukbang* (\ub2ec\ucf64\uba39\ubc29*)",

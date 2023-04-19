@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: VICTIN",
-  "num_followers": 112547,
+  "num_followers": 112749,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTU4MzMxNywwMDAwMDAwMGU1ZWI3ODRjMmZjZGE2ZmNjYzBlZTIzOGFkZDUyYWU4",
+  "snapshot_id": "MTY4MTU4MzMxNywwMDAwMDAwMDAwODkxNDdkNGVlNmJhZTkwNWNmNGRjY2NlZGJlNDg0",
   "tracks": [
     {
       "added_at": "2023-04-15 18:28:37",
@@ -219,22 +219,18 @@
     {
       "added_at": "2023-04-15 18:28:37",
       "album": {
-        "name": "Labirinto",
-        "url": "https://open.spotify.com/album/5hiTwmu0UXUPUVs9Si2tzW"
+        "name": "Deixa Falarem",
+        "url": "https://open.spotify.com/album/1h0TZwfa0mNfApgkZbHo4J"
       },
       "artists": [
         {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        },
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+          "name": "Arthur Pompeo",
+          "url": "https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP"
         }
       ],
-      "duration_ms": 217272,
-      "name": "Labirinto",
-      "url": "https://open.spotify.com/track/4YJuSrst66PSW3bdJk1SwN"
+      "duration_ms": 154774,
+      "name": "Deixa Falarem",
+      "url": "https://open.spotify.com/track/2CfJm3k7P31wkuORnFBYak"
     },
     {
       "added_at": "2023-04-15 18:28:37",
@@ -291,38 +287,38 @@
     {
       "added_at": "2023-04-15 18:28:37",
       "album": {
-        "name": "Deixa Falarem",
-        "url": "https://open.spotify.com/album/1h0TZwfa0mNfApgkZbHo4J"
+        "name": "Labirinto",
+        "url": "https://open.spotify.com/album/5hiTwmu0UXUPUVs9Si2tzW"
       },
       "artists": [
         {
-          "name": "Arthur Pompeo",
-          "url": "https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP"
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        },
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
         }
       ],
-      "duration_ms": 154774,
-      "name": "Deixa Falarem",
-      "url": "https://open.spotify.com/track/2CfJm3k7P31wkuORnFBYak"
+      "duration_ms": 217272,
+      "name": "Labirinto",
+      "url": "https://open.spotify.com/track/4YJuSrst66PSW3bdJk1SwN"
     },
     {
       "added_at": "2023-04-15 18:28:37",
       "album": {
-        "name": "Marionete",
-        "url": "https://open.spotify.com/album/3DcgcAD8wTEoJHmw0MzxCR"
+        "name": "Ju\u00edzo Final",
+        "url": "https://open.spotify.com/album/6vn7pXMOSJHxTwUYkfNNOf"
       },
       "artists": [
         {
           "name": "Lookas",
           "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        },
-        {
-          "name": "SAMU\u00c9U",
-          "url": "https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7"
         }
       ],
-      "duration_ms": 186245,
-      "name": "Marionete",
-      "url": "https://open.spotify.com/track/6iLc4yNtzMLvzjTYcykOdg"
+      "duration_ms": 149576,
+      "name": "Ju\u00edzo Final",
+      "url": "https://open.spotify.com/track/7tyML8BrEAJJlYWXCrAr0D"
     },
     {
       "added_at": "2023-04-15 18:28:37",
@@ -387,6 +383,30 @@
     {
       "added_at": "2023-04-15 18:28:37",
       "album": {
+        "name": "Primeiro e U\u0301ltimo",
+        "url": "https://open.spotify.com/album/75fiLD9CFlKt2JOCth6LLW"
+      },
+      "artists": [
+        {
+          "name": "Arthur Pompeo",
+          "url": "https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP"
+        },
+        {
+          "name": "Cefas Music",
+          "url": "https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg"
+        },
+        {
+          "name": "Isadora Pompeu",
+          "url": "https://open.spotify.com/artist/58FEhqSreSEQ4x9CXDk7Im"
+        }
+      ],
+      "duration_ms": 162036,
+      "name": "Primeiro e U\u0301ltimo",
+      "url": "https://open.spotify.com/track/72UhDf5qi1m7KaufxMnL5F"
+    },
+    {
+      "added_at": "2023-04-15 18:28:37",
+      "album": {
         "name": "Jesus Saves Bro",
         "url": "https://open.spotify.com/album/4tP8rcE5RLYaO1ff1FF5j4"
       },
@@ -427,42 +447,22 @@
     {
       "added_at": "2023-04-15 18:28:37",
       "album": {
-        "name": "Primeiro e U\u0301ltimo",
-        "url": "https://open.spotify.com/album/75fiLD9CFlKt2JOCth6LLW"
-      },
-      "artists": [
-        {
-          "name": "Arthur Pompeo",
-          "url": "https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP"
-        },
-        {
-          "name": "Cefas Music",
-          "url": "https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg"
-        },
-        {
-          "name": "Isadora Pompeu",
-          "url": "https://open.spotify.com/artist/58FEhqSreSEQ4x9CXDk7Im"
-        }
-      ],
-      "duration_ms": 162036,
-      "name": "Primeiro e U\u0301ltimo",
-      "url": "https://open.spotify.com/track/72UhDf5qi1m7KaufxMnL5F"
-    },
-    {
-      "added_at": "2023-04-15 18:28:37",
-      "album": {
-        "name": "Ju\u00edzo Final",
-        "url": "https://open.spotify.com/album/6vn7pXMOSJHxTwUYkfNNOf"
+        "name": "Marionete",
+        "url": "https://open.spotify.com/album/3DcgcAD8wTEoJHmw0MzxCR"
       },
       "artists": [
         {
           "name": "Lookas",
           "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        },
+        {
+          "name": "SAMU\u00c9U",
+          "url": "https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7"
         }
       ],
-      "duration_ms": 149576,
-      "name": "Ju\u00edzo Final",
-      "url": "https://open.spotify.com/track/7tyML8BrEAJJlYWXCrAr0D"
+      "duration_ms": 186245,
+      "name": "Marionete",
+      "url": "https://open.spotify.com/track/6iLc4yNtzMLvzjTYcykOdg"
     },
     {
       "added_at": "2023-04-15 18:28:37",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-04-15 18:28:37",
       "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/6U3CFFtuJJtxGjCJbdc1f5"
-      },
-      "artists": [
-        {
-          "name": "SALMAZO",
-          "url": "https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB"
-        }
-      ],
-      "duration_ms": 79459,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/3Nmj5IKVbneuuUGRGHYMzZ"
-    },
-    {
-      "added_at": "2023-04-15 18:28:37",
-      "album": {
         "name": "Alto",
         "url": "https://open.spotify.com/album/2u6pu9HyxZP9gxKXIZgIco"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 165019,
       "name": "Alto",
       "url": "https://open.spotify.com/track/6eFeusECAHuopsDZPeaVte"
+    },
+    {
+      "added_at": "2023-04-15 18:28:37",
+      "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/6U3CFFtuJJtxGjCJbdc1f5"
+      },
+      "artists": [
+        {
+          "name": "SALMAZO",
+          "url": "https://open.spotify.com/artist/21Owhj5Hh83pspM8KQAUtB"
+        }
+      ],
+      "duration_ms": 79459,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/3Nmj5IKVbneuuUGRGHYMzZ"
     },
     {
       "added_at": "2023-04-15 18:28:37",

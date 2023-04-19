@@ -1,12 +1,12 @@
 {
   "description": "Obscure, dreamy and nostalgic synth sounds from all over the world. Molchat Doma on cover.",
-  "num_followers": 130440,
+  "num_followers": 130914,
   "original_name": "Darkwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ5MzAxOSwwMDAwMDAwMGJhMjBiY2FiZDM2MzBhMWY4NjExNWY4YTk3NjgxNTVh",
+  "snapshot_id": "MTY4MTQ5MzAxOSwwMDAwMDAwMDAzMzA0YjdjMTZmMDFiM2QyMGRhMjBmN2YwNTYyZTI2",
   "tracks": [
     {
       "added_at": "2023-01-07 04:19:40",
@@ -489,20 +489,20 @@
       "url": "https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09"
     },
     {
-      "added_at": "2023-02-09 20:06:41",
+      "added_at": "2020-12-21 19:35:50",
       "album": {
-        "name": "Deep",
-        "url": "https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa"
+        "name": "Particles E.P.",
+        "url": "https://open.spotify.com/album/1kvyU0WQNcenwnLRBwyWhB"
       },
       "artists": [
         {
-          "name": "Peter Murphy",
-          "url": "https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY"
+          "name": "M|O|O|N",
+          "url": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
         }
       ],
-      "duration_ms": 327133,
-      "name": "Cuts You Up",
-      "url": "https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF"
+      "duration_ms": 302400,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/2BZYVqGyL1L1adBbq2ClVv"
     },
     {
       "added_at": "2020-12-21 19:35:50",
@@ -521,20 +521,20 @@
       "url": "https://open.spotify.com/track/72OI2uQwj4pHetYlCplkSi"
     },
     {
-      "added_at": "2020-12-21 19:35:50",
+      "added_at": "2023-02-09 20:06:41",
       "album": {
-        "name": "Particles E.P.",
-        "url": "https://open.spotify.com/album/1kvyU0WQNcenwnLRBwyWhB"
+        "name": "Deep",
+        "url": "https://open.spotify.com/album/63VVK15ZBJI5TZu525KTVa"
       },
       "artists": [
         {
-          "name": "M|O|O|N",
-          "url": "https://open.spotify.com/artist/0M2HHtY3OOQzIZxrHkbJLT"
+          "name": "Peter Murphy",
+          "url": "https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY"
         }
       ],
-      "duration_ms": 302400,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/2BZYVqGyL1L1adBbq2ClVv"
+      "duration_ms": 327133,
+      "name": "Cuts You Up",
+      "url": "https://open.spotify.com/track/1rnoM73nG7HsyOqV5X7lPF"
     },
     {
       "added_at": "2020-12-21 19:35:50",
@@ -909,22 +909,6 @@
       "url": "https://open.spotify.com/track/3Mf1kQUFstWEQQPZ9XluE4"
     },
     {
-      "added_at": "2020-12-21 19:35:50",
-      "album": {
-        "name": "RARITIES",
-        "url": "https://open.spotify.com/album/0hk4v5Rn7oMCaMu1gGbw7s"
-      },
-      "artists": [
-        {
-          "name": "Lorn",
-          "url": "https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "SEGA SUNSET",
-      "url": "https://open.spotify.com/track/4wFwlekWkj23Vu900tKPum"
-    },
-    {
       "added_at": "2021-02-04 21:06:00",
       "album": {
         "name": "505",
@@ -943,6 +927,22 @@
       "duration_ms": 218181,
       "name": "\u041c\u0451\u0440\u0442\u0432 \u0432\u043d\u0443\u0442\u0440\u0438",
       "url": "https://open.spotify.com/track/50kqsBYacoTWaNUJ7fNEjK"
+    },
+    {
+      "added_at": "2020-12-21 19:35:50",
+      "album": {
+        "name": "RARITIES",
+        "url": "https://open.spotify.com/album/0hk4v5Rn7oMCaMu1gGbw7s"
+      },
+      "artists": [
+        {
+          "name": "Lorn",
+          "url": "https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "SEGA SUNSET",
+      "url": "https://open.spotify.com/track/4wFwlekWkj23Vu900tKPum"
     },
     {
       "added_at": "2020-12-21 19:35:50",
@@ -993,22 +993,6 @@
       "url": "https://open.spotify.com/track/539y2n1UYiM2gyYJKGNuuQ"
     },
     {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
-        "name": "American Nightmare",
-        "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
-      },
-      "artists": [
-        {
-          "name": "Vestron Vulture",
-          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
-        }
-      ],
-      "duration_ms": 189474,
-      "name": "American Nightmare",
-      "url": "https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk"
-    },
-    {
       "added_at": "2023-02-09 20:06:41",
       "album": {
         "name": "Careful",
@@ -1057,6 +1041,22 @@
       "url": "https://open.spotify.com/track/4nQWhotmcrNRfOuu8EfmjF"
     },
     {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "American Nightmare",
+        "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
+      },
+      "artists": [
+        {
+          "name": "Vestron Vulture",
+          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
+        }
+      ],
+      "duration_ms": 189474,
+      "name": "American Nightmare",
+      "url": "https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk"
+    },
+    {
       "added_at": "2020-12-21 19:35:50",
       "album": {
         "name": "Polar (Music from the Netflix Film)",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2020-12-21 19:35:50",
       "album": {
-        "name": "B-Sides: Vol. 1",
-        "url": "https://open.spotify.com/album/1NhAWLxOl4dD4WMs56VvsI"
-      },
-      "artists": [
-        {
-          "name": "Dance With the Dead",
-          "url": "https://open.spotify.com/artist/2KtnZQwMQJN3uyI8eHZRvm"
-        }
-      ],
-      "duration_ms": 286153,
-      "name": "That House",
-      "url": "https://open.spotify.com/track/6lUyyCRoT2wvtGlQQEpk3U"
-    },
-    {
-      "added_at": "2020-12-21 19:35:50",
-      "album": {
         "name": "505 (Deluxe)",
         "url": "https://open.spotify.com/album/3KY1gWySaFXOmWImcN7vLm"
       },
@@ -1105,20 +1089,20 @@
       "url": "https://open.spotify.com/track/3w9cGIYBC12SoepuHUaV19"
     },
     {
-      "added_at": "2023-02-09 20:06:41",
+      "added_at": "2020-12-21 19:35:50",
       "album": {
-        "name": "Sensation",
-        "url": "https://open.spotify.com/album/3aPHTY2sYQqEvQW4LPswJf"
+        "name": "B-Sides: Vol. 1",
+        "url": "https://open.spotify.com/album/1NhAWLxOl4dD4WMs56VvsI"
       },
       "artists": [
         {
-          "name": "\u271d\u271d\u271d (Crosses)",
-          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
+          "name": "Dance With the Dead",
+          "url": "https://open.spotify.com/artist/2KtnZQwMQJN3uyI8eHZRvm"
         }
       ],
-      "duration_ms": 276480,
-      "name": "Sensation",
-      "url": "https://open.spotify.com/track/1sykjjK9zNsQMof272cHHj"
+      "duration_ms": 286153,
+      "name": "That House",
+      "url": "https://open.spotify.com/track/6lUyyCRoT2wvtGlQQEpk3U"
     },
     {
       "added_at": "2023-02-09 20:06:41",
@@ -1135,6 +1119,22 @@
       "duration_ms": 203413,
       "name": "Into Those Woods",
       "url": "https://open.spotify.com/track/2SzgiyJM5k3MUeSAXPF4Nf"
+    },
+    {
+      "added_at": "2023-02-09 20:06:41",
+      "album": {
+        "name": "Sensation",
+        "url": "https://open.spotify.com/album/3aPHTY2sYQqEvQW4LPswJf"
+      },
+      "artists": [
+        {
+          "name": "\u271d\u271d\u271d (Crosses)",
+          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
+        }
+      ],
+      "duration_ms": 276480,
+      "name": "Sensation",
+      "url": "https://open.spotify.com/track/1sykjjK9zNsQMof272cHHj"
     },
     {
       "added_at": "2023-02-09 20:06:41",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2020-12-21 19:35:50",
       "album": {
-        "name": "Quo vadis?",
-        "url": "https://open.spotify.com/album/12xcdsOGrXrOAxYk9oDaPc"
-      },
-      "artists": [
-        {
-          "name": "Electroforez",
-          "url": "https://open.spotify.com/artist/2xZHADRPl17tm8FPthebhR"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "\u0420\u0443\u0441\u0441\u043a\u0430\u044f \u043f\u0440\u0438\u043d\u0446\u0435\u0441\u0441\u0430",
-      "url": "https://open.spotify.com/track/5bPpzYuIwSXJr1D2vDd6q3"
-    },
-    {
-      "added_at": "2020-12-21 19:35:50",
-      "album": {
         "name": "66 MHz",
         "url": "https://open.spotify.com/album/5n9NdJA0qI9zrfg65zdzwK"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 234066,
       "name": "66 MHz",
       "url": "https://open.spotify.com/track/3r9mYXFYhlA8Z84hdY00MQ"
+    },
+    {
+      "added_at": "2020-12-21 19:35:50",
+      "album": {
+        "name": "Quo vadis?",
+        "url": "https://open.spotify.com/album/12xcdsOGrXrOAxYk9oDaPc"
+      },
+      "artists": [
+        {
+          "name": "Electroforez",
+          "url": "https://open.spotify.com/artist/2xZHADRPl17tm8FPthebhR"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "\u0420\u0443\u0441\u0441\u043a\u0430\u044f \u043f\u0440\u0438\u043d\u0446\u0435\u0441\u0441\u0430",
+      "url": "https://open.spotify.com/track/5bPpzYuIwSXJr1D2vDd6q3"
     },
     {
       "added_at": "2021-09-01 17:59:29",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2020-12-21 19:35:50",
       "album": {
+        "name": "\u041f\u043e \u041a\u0440\u0430\u044e \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
+        "url": "https://open.spotify.com/album/6F1QbOIurgbtsbhKaS3SUr"
+      },
+      "artists": [
+        {
+          "name": "Ploho",
+          "url": "https://open.spotify.com/artist/7yjnZ3eibFQRN65u1syJZg"
+        },
+        {
+          "name": "Molchat Doma",
+          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
+        }
+      ],
+      "duration_ms": 221395,
+      "name": "\u041f\u043e \u043a\u0440\u0430\u044e \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
+      "url": "https://open.spotify.com/track/6wTo0Z5PVnIrvaDAXlixXD"
+    },
+    {
+      "added_at": "2020-12-21 19:35:50",
+      "album": {
         "name": "\u0417\u0432\u0443\u043a \u0438 \u0442\u0435\u043c\u043d\u043e\u0442\u0430",
         "url": "https://open.spotify.com/album/56qzZ00inodGzhGPLT3wXL"
       },
@@ -1441,26 +1461,6 @@
       "url": "https://open.spotify.com/track/68FAxdemTDnum52uSSYUWd"
     },
     {
-      "added_at": "2020-12-21 19:35:50",
-      "album": {
-        "name": "\u041f\u043e \u041a\u0440\u0430\u044e \u041e\u0441\u0442\u0440\u043e\u0432\u0430",
-        "url": "https://open.spotify.com/album/6F1QbOIurgbtsbhKaS3SUr"
-      },
-      "artists": [
-        {
-          "name": "Ploho",
-          "url": "https://open.spotify.com/artist/7yjnZ3eibFQRN65u1syJZg"
-        },
-        {
-          "name": "Molchat Doma",
-          "url": "https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0"
-        }
-      ],
-      "duration_ms": 221395,
-      "name": "\u041f\u043e \u043a\u0440\u0430\u044e \u043e\u0441\u0442\u0440\u043e\u0432\u0430",
-      "url": "https://open.spotify.com/track/6wTo0Z5PVnIrvaDAXlixXD"
-    },
-    {
       "added_at": "2023-02-09 20:06:41",
       "album": {
         "name": "Meta",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2020-12-21 19:35:50",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/3hRA9H6ESgJua9SdHZwe73"
-      },
-      "artists": [
-        {
-          "name": "L.A. Takedown",
-          "url": "https://open.spotify.com/artist/1XB4jI2i8cikuntyOuUi1v"
-        }
-      ],
-      "duration_ms": 170511,
-      "name": "Bad Night at Black's Beach",
-      "url": "https://open.spotify.com/track/462Sv9QLexPjExQE8dZeam"
-    },
-    {
-      "added_at": "2020-12-21 19:35:50",
-      "album": {
         "name": "Rasengan",
         "url": "https://open.spotify.com/album/46rcx1ktEeepldl3FLpIIt"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 307545,
       "name": "Rasengan",
       "url": "https://open.spotify.com/track/05RMPtk5ybYhkuY3qjlaHa"
+    },
+    {
+      "added_at": "2020-12-21 19:35:50",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/3hRA9H6ESgJua9SdHZwe73"
+      },
+      "artists": [
+        {
+          "name": "L.A. Takedown",
+          "url": "https://open.spotify.com/artist/1XB4jI2i8cikuntyOuUi1v"
+        }
+      ],
+      "duration_ms": 170511,
+      "name": "Bad Night at Black's Beach",
+      "url": "https://open.spotify.com/track/462Sv9QLexPjExQE8dZeam"
     },
     {
       "added_at": "2020-12-21 19:35:50",
@@ -1589,22 +1589,6 @@
       "url": "https://open.spotify.com/track/3tpNnUzPHhN6kZfHUnoKfV"
     },
     {
-      "added_at": "2023-04-03 20:35:03",
-      "album": {
-        "name": "Me Porto Bonito (Post-Punk)",
-        "url": "https://open.spotify.com/album/6TFTyQvQ60ixcqoFM0VYqy"
-      },
-      "artists": [
-        {
-          "name": "FrioLento",
-          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
-        }
-      ],
-      "duration_ms": 180326,
-      "name": "Me Porto Bonito - (Post-Punk)",
-      "url": "https://open.spotify.com/track/2xu9l5l3fm8noWonuDf3Cn"
-    },
-    {
       "added_at": "2023-02-09 20:06:41",
       "album": {
         "name": "All Is Fair in Love and War",
@@ -1619,6 +1603,22 @@
       "duration_ms": 169973,
       "name": "If Love Is Just a Word",
       "url": "https://open.spotify.com/track/3QVLxtGbyrzWDPdqlDNIo0"
+    },
+    {
+      "added_at": "2023-04-03 20:35:03",
+      "album": {
+        "name": "Me Porto Bonito (Post-Punk)",
+        "url": "https://open.spotify.com/album/6TFTyQvQ60ixcqoFM0VYqy"
+      },
+      "artists": [
+        {
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
+        }
+      ],
+      "duration_ms": 180326,
+      "name": "Me Porto Bonito - (Post-Punk)",
+      "url": "https://open.spotify.com/track/2xu9l5l3fm8noWonuDf3Cn"
     }
   ],
   "unique_name": "Darkwave",

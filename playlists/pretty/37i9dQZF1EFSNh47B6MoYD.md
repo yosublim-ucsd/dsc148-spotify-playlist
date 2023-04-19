@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7wWrueTstelQP0y8hwigaI">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405 likes - 148 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 404 likes - 148 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 39 | [Dueña De Mis Ojos \(Remix\)](https://open.spotify.com/track/58leE3SqJv2Ol8OYiKiSfS) | [Marcos Llunas](https://open.spotify.com/artist/4Zczh0uPcVMO6o80jJDPz5) | [Me Gusta](https://open.spotify.com/album/4ANRnYE30UumUjxlvIHrzS) | 3:54 |
 | 40 | [Ataúd](https://open.spotify.com/track/6gKoVtvmjjPhoGic0ghCBY) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:55 |
 | 41 | [Así Eres Tú](https://open.spotify.com/track/12FxhcmUSxyyly0TRfivZr) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:32 |
-| 42 | [Bésame](https://open.spotify.com/track/1Hx3JQFvHI4xVviTQRTkCG) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Unicas](https://open.spotify.com/album/3nzHABbA7QQDfUHehHGn0s) | 3:44 |
-| 43 | [Mal Negocio](https://open.spotify.com/track/029npo2kAVAA4wEBqXGUSb) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reunión \(Deluxe\)](https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll) | 3:25 |
+| 42 | [Mal Negocio](https://open.spotify.com/track/029npo2kAVAA4wEBqXGUSb) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reunión \(Deluxe\)](https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll) | 3:25 |
+| 43 | [Bésame](https://open.spotify.com/track/1Hx3JQFvHI4xVviTQRTkCG) | [Azucar Moreno](https://open.spotify.com/artist/2WrKqjMRKr5MitNYaNgvl3) | [Unicas](https://open.spotify.com/album/3nzHABbA7QQDfUHehHGn0s) | 3:44 |
 | 44 | [Conmigo](https://open.spotify.com/track/3iDYBd33V7Gkm0aaIaJMKm) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Abreme la Puerta \(New Edition\)](https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA) | 4:20 |
 | 45 | [Me Acostumbré](https://open.spotify.com/track/5CwUFUPT1tUU8cGCSkOD1j) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Tatuajes \(Deluxe Edition\)](https://open.spotify.com/album/2DZDIKC1Cauj2lXimkbZS4) | 3:24 |
 | 46 | [Mi receta](https://open.spotify.com/track/7iTHVzUDh6eDInMCQhrWvk) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [Sin Fronteras](https://open.spotify.com/album/5h5IodcqfIanu9o3Mt0oHf) | 3:18 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 74 | [Mujeriego](https://open.spotify.com/track/5ECrHUuwT916mtxIQhRihO) | [Ninel Conde](https://open.spotify.com/artist/1MI8FuxN4qF0Hr1qmZZLYK) | [Ayer y Hoy](https://open.spotify.com/album/43dG8W93Ga3P3tAwXKABmb) | 3:24 |
 | 75 | [Vete](https://open.spotify.com/track/7uVUxfSd7xiaURQLTaMONb) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [No Es Brujeria](https://open.spotify.com/album/4nuYRYCbs4fqdzwjtkoiw4) | 3:11 |
 | 76 | [Besando Sapos](https://open.spotify.com/track/7xTF7xQO5j5eSVwcSGO7T0) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 2:35 |
-| 77 | [Desliga A Luz](https://open.spotify.com/track/2nYgS1eh6jp4rs2Q05ybcU) | [Celso Fonseca](https://open.spotify.com/artist/4zanHFwOXpPRKMMk3qUuHu), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Turning Point](https://open.spotify.com/album/5iFeJsiYedyhtcefzuNMyE) | 4:09 |
-| 78 | [Que Tu Piano Hable Por Ti](https://open.spotify.com/track/32uWwAPQEEjhCGABHsphLU) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Piano Sin Fronteras](https://open.spotify.com/album/5feKFwQgUEn3UL56cxdDmq) | 3:52 |
+| 77 | [Que Tu Piano Hable Por Ti](https://open.spotify.com/track/32uWwAPQEEjhCGABHsphLU) | [Arthur Hanlon](https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB), [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Piano Sin Fronteras](https://open.spotify.com/album/5feKFwQgUEn3UL56cxdDmq) | 3:52 |
+| 78 | [Desliga A Luz](https://open.spotify.com/track/2nYgS1eh6jp4rs2Q05ybcU) | [Celso Fonseca](https://open.spotify.com/artist/4zanHFwOXpPRKMMk3qUuHu), [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Turning Point](https://open.spotify.com/album/5iFeJsiYedyhtcefzuNMyE) | 4:09 |
 | 79 | [La Manuela](https://open.spotify.com/track/3T5KzHZ6azcHvwyTabOgCg) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 1:59 |
 | 80 | [Me Corta el Alma](https://open.spotify.com/track/7mFpFambkcEmcWf0X8xCON) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Yo Mismo](https://open.spotify.com/album/3fQsDvySZB7b3zgrgCAUXC) | 4:21 |
 | 81 | [Quien Sale… No Entra](https://open.spotify.com/track/2ajqkkoTqo5YwhxMNmPGBP) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Cueste Lo Que Cueste](https://open.spotify.com/album/1qkOQFoBD0vgokqdeGBmCd) | 4:08 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 147 | [A Donde Vas?](https://open.spotify.com/track/2hynyvo4Yrg7p28zFehp5t) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:18 |
 | 148 | [Se Me Fue](https://open.spotify.com/track/5CVi8yEadTLUL5qmHRjpaS) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:48 |
 
-Snapshot ID: `MjgwMjk2MDQsMDAwMDAwMDBlYjY2ZTAzZDk1YzhlZWVlMGJkZDI1M2FkNzRmNTk3NQ==`
+Snapshot ID: `MjgwMzEwNDQsMDAwMDAwMDA4YzNhNzc0NzQwY2FlZWI5MDI1MmYxNmE2NWNlOTljYQ==`

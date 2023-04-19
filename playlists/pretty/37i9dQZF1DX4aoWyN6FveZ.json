@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ravieb/\">Ravie B</a>",
-  "num_followers": 9116,
+  "num_followers": 9186,
   "original_name": "Ravie B's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1NjA4OCwwMDAwMDAwMGVhMTc2YmMxZGQyZTNjYzc3ZTNiZjgyOTAzMTM3MGQz",
+  "snapshot_id": "MTY2NDY1NjA4OCwwMDAwMDAwMDViMzliMjgzNmI0NGU1ZjAwNWIxMDFiZDEyYmU3NDJl",
   "tracks": [
     {
       "added_at": "2022-10-01 20:09:45",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
-        "name": "Born to Do It",
-        "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 257200,
-      "name": "Fill Me In",
-      "url": "https://open.spotify.com/track/0UzsDmdpw0Q14KU4hieQss"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
         "name": "Huncho Jack, Jack Huncho",
         "url": "https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 191409,
       "name": "Motorcycle Patches",
       "url": "https://open.spotify.com/track/7g7raxdQpiLZT7aOlib4S1"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
+        "name": "Born to Do It",
+        "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 257200,
+      "name": "Fill Me In",
+      "url": "https://open.spotify.com/track/0UzsDmdpw0Q14KU4hieQss"
     },
     {
       "added_at": "2022-10-01 20:09:45",

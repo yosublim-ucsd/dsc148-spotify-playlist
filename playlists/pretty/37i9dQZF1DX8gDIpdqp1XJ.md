@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,822 likes - 99 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 865,314 likes - 99 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 29 | [sAy sOMETHINg](https://open.spotify.com/track/1G7wqLzQQ3tveTYHcO5uVN) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 3:32 |
 | 30 | [Chateau \(Feel Alright\)](https://open.spotify.com/track/3vjs2MDHoF9xhylNg6Y9un) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0) | 4:32 |
 | 31 | [Waile](https://open.spotify.com/track/69V0oOacvu3NKhpuqDhkLk) | [WITCH](https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM) | [Waile](https://open.spotify.com/album/6bB5RHwyIKq5jUzbVuS63Y) | 5:15 |
-| 32 | [Your Love](https://open.spotify.com/track/1FHeegARABz3cgW3qgrtbz) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Your Love](https://open.spotify.com/album/68d5CK8mp4yqcc7TfS8uM7) | 3:13 |
+| 32 | [Your Love](https://open.spotify.com/track/1ZvUKEzJM4s4LyPhj70oaP) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Your Love](https://open.spotify.com/album/4tgaAuPBaVEPbUStoUNFSd) | 3:13 |
 | 33 | [Humans](https://open.spotify.com/track/1e3i4aME99OBynUu74gRJs) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Humans](https://open.spotify.com/album/3UP0hLRPpehFONgpXV2Q9T) | 4:11 |
 | 34 | [Best Disaster](https://open.spotify.com/track/6dmZu0IVmbT1rDIiYiRchg) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Best Disaster](https://open.spotify.com/album/5BMoArQlFykRWUh120Hcdh) | 2:53 |
 | 35 | [Space Song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 5:20 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 98 | [cloud castle](https://open.spotify.com/track/6cSkQRxoJt6FHGrWVIGDTJ) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams EP](https://open.spotify.com/album/0qecSxB8NZ4ga9s9FqkboY) | 1:03 |
 | 99 | [Endless Summer](https://open.spotify.com/track/3RH7Vg6mLvxCYmQa9el2tV) | [Jack River](https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS), [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [Endless Summer](https://open.spotify.com/album/6QZnFtNZshIg5PeKFgwNP8) | 3:02 |
 
-Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMGNkYjJkZjY1MzhjNzk2MWY2MDhkZDJiYzY2OTI1NDI1`
+Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDEyZDE4YmI0NjU5ZDAxZmQ4YjIyZmNlOWIwODIzMjhi`

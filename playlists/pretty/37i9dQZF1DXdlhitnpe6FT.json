@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 152929,
+  "num_followers": 153262,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODE0ODIzOCwwMDAwMDAwMDRmY2QxZDgyMjhjYTY5MGU3MTcwYTBhYjAxOWE3YThi",
+  "snapshot_id": "MTY3ODE0ODIzOCwwMDAwMDAwMDhhZjFkOGFmMWZhOGVmMjU1ODhlYmNjMzczN2I3ZGE5",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -515,18 +515,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Sail Along Silv'ry Moon",
-        "url": "https://open.spotify.com/album/0rkPxOtFWZOiuQ7GzCI3vn"
+        "name": "20 Valses Instrumentales",
+        "url": "https://open.spotify.com/album/2hsUBi8Ua1fykAlfRa2Rd5"
       },
       "artists": [
         {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+          "name": "Bodas y 15 A\u00f1os",
+          "url": "https://open.spotify.com/artist/04sebPl4wYSF8dSZTg35ss"
         }
       ],
-      "duration_ms": 129680,
-      "name": "Sail Along Silv'ry Moon",
-      "url": "https://open.spotify.com/track/6j3N3u0uHDGrfqCrTNc1Uu"
+      "duration_ms": 206653,
+      "name": "Se Busca",
+      "url": "https://open.spotify.com/track/7HL3Q21K6uNqkcvjAyuBGq"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -547,18 +547,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "20 Valses Instrumentales",
-        "url": "https://open.spotify.com/album/2hsUBi8Ua1fykAlfRa2Rd5"
+        "name": "Sail Along Silv'ry Moon",
+        "url": "https://open.spotify.com/album/0rkPxOtFWZOiuQ7GzCI3vn"
       },
       "artists": [
         {
-          "name": "Bodas y 15 A\u00f1os",
-          "url": "https://open.spotify.com/artist/04sebPl4wYSF8dSZTg35ss"
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
         }
       ],
-      "duration_ms": 206653,
-      "name": "Se Busca",
-      "url": "https://open.spotify.com/track/7HL3Q21K6uNqkcvjAyuBGq"
+      "duration_ms": 129680,
+      "name": "Sail Along Silv'ry Moon",
+      "url": "https://open.spotify.com/track/6j3N3u0uHDGrfqCrTNc1Uu"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -627,6 +627,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "La Paloma",
+        "url": "https://open.spotify.com/album/3J96HGOfDoTV6H1Y2gK8Tu"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 153346,
+      "name": "La Paloma",
+      "url": "https://open.spotify.com/track/6aOxKTk3Dh08MGgnLv9862"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Before the Rain",
         "url": "https://open.spotify.com/album/1dCO1DxYlCvbRRfX0zZANI"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 192360,
       "name": "Music Box Dancer",
       "url": "https://open.spotify.com/track/5NdzToomqRRxNSR0F0nUHg"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "La Paloma",
-        "url": "https://open.spotify.com/album/3J96HGOfDoTV6H1Y2gK8Tu"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 153346,
-      "name": "La Paloma",
-      "url": "https://open.spotify.com/track/6aOxKTk3Dh08MGgnLv9862"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Temas Prohibidos del Cine",
-        "url": "https://open.spotify.com/album/06iudXa37Naebj0ZCfZcTt"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Romanticos de La Habana",
-          "url": "https://open.spotify.com/artist/1e7uuQ1F57RpCpJoeeQHYi"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "Amore Grande Amore Libero",
-      "url": "https://open.spotify.com/track/3YRXL1G6Q3XQlAKU5y5yRz"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "101% Cine",
         "url": "https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa"
       },
@@ -1071,18 +1055,34 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Guantanamera",
-        "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
+        "name": "Temas Prohibidos del Cine",
+        "url": "https://open.spotify.com/album/06iudXa37Naebj0ZCfZcTt"
       },
       "artists": [
         {
-          "name": "The Sandpipers",
-          "url": "https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB"
+          "name": "Orquesta Romanticos de La Habana",
+          "url": "https://open.spotify.com/artist/1e7uuQ1F57RpCpJoeeQHYi"
         }
       ],
-      "duration_ms": 193720,
-      "name": "Guantanamera",
-      "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
+      "duration_ms": 216800,
+      "name": "Amore Grande Amore Libero",
+      "url": "https://open.spotify.com/track/3YRXL1G6Q3XQlAKU5y5yRz"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS"
+      },
+      "artists": [
+        {
+          "name": "Raul Di Blasio",
+          "url": "https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Coraz\u00f3n de Ni\u00f1o",
+      "url": "https://open.spotify.com/track/56y7Xna4NmOjX8VNz4dlNk"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS"
+        "name": "Guantanamera",
+        "url": "https://open.spotify.com/album/6GJ2oQ4v90ylX6WQTobmd5"
       },
       "artists": [
         {
-          "name": "Raul Di Blasio",
-          "url": "https://open.spotify.com/artist/1Tx3YSK3DFC4cYHXqOUb2u"
+          "name": "The Sandpipers",
+          "url": "https://open.spotify.com/artist/3iBuBivHItWMpdiVmLT0uB"
         }
       ],
-      "duration_ms": 219720,
-      "name": "Coraz\u00f3n de Ni\u00f1o",
-      "url": "https://open.spotify.com/track/56y7Xna4NmOjX8VNz4dlNk"
+      "duration_ms": 193720,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/6Z6bFqqxhHS53Z5SqT0exe"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Nadia's Theme (Theme from the Young and Restless)",
+        "url": "https://open.spotify.com/album/4U8raZIzz8vWFWV8gOphrM"
+      },
+      "artists": [
+        {
+          "name": "Barry DeVorzon",
+          "url": "https://open.spotify.com/artist/0s8MBYVZMiHb9hYl50fMBB"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Nadia's Theme (Theme from the Young and Restless)",
+      "url": "https://open.spotify.com/track/3gO8JJElqnMvckLjdCgzFc"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Sue\u00f1o azul",
         "url": "https://open.spotify.com/album/2uozm6SnxlgkFxrtlq7WCU"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 205773,
       "name": "Caballo Negro",
       "url": "https://open.spotify.com/track/5ossFJafGKTdM8uc5p3vJ2"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Nadia's Theme (Theme from the Young and Restless)",
-        "url": "https://open.spotify.com/album/4U8raZIzz8vWFWV8gOphrM"
-      },
-      "artists": [
-        {
-          "name": "Barry DeVorzon",
-          "url": "https://open.spotify.com/artist/0s8MBYVZMiHb9hYl50fMBB"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Nadia's Theme (Theme from the Young and Restless)",
-      "url": "https://open.spotify.com/track/3gO8JJElqnMvckLjdCgzFc"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Best of Pop Concerto Orchestra",
-        "url": "https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ"
-      },
-      "artists": [
-        {
-          "name": "Pop Concerto Orchestra",
-          "url": "https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30"
-        }
-      ],
-      "duration_ms": 156773,
-      "name": "Lady Milady",
-      "url": "https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Tony Mottola y Su Orquesta",
         "url": "https://open.spotify.com/album/5XPpYqZJ3zdJv4qAI0NBYl"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 113880,
       "name": "Woodpecker Song",
       "url": "https://open.spotify.com/track/1b39F2Q4sNP8R9PwGK8G5D"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Best of Pop Concerto Orchestra",
+        "url": "https://open.spotify.com/album/6IZbPZFoJUgXtrNJ2LVOcQ"
+      },
+      "artists": [
+        {
+          "name": "Pop Concerto Orchestra",
+          "url": "https://open.spotify.com/artist/5RAZ2L3pXwmPmDx6OxKW30"
+        }
+      ],
+      "duration_ms": 156773,
+      "name": "Lady Milady",
+      "url": "https://open.spotify.com/track/2V98PvQvwRMGsJTyDmbY41"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Rain Forest",
-        "url": "https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv"
+        "name": "Born Losers",
+        "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
       },
       "artists": [
         {
-          "name": "Walter Wanderley",
-          "url": "https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA"
+          "name": "The Sidewalk Sounds",
+          "url": "https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60"
         }
       ],
-      "duration_ms": 145573,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c"
+      "duration_ms": 121333,
+      "name": "Billy Jack's Theme",
+      "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Born Losers",
-        "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
+        "name": "Rain Forest",
+        "url": "https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv"
       },
       "artists": [
         {
-          "name": "The Sidewalk Sounds",
-          "url": "https://open.spotify.com/artist/4CV3N7gi2jJZJDZJP0ib60"
+          "name": "Walter Wanderley",
+          "url": "https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA"
         }
       ],
-      "duration_ms": 121333,
-      "name": "Billy Jack's Theme",
-      "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
+      "duration_ms": 145573,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/0Xr3UeWGMlgHY8jgb5vp9c"
     },
     {
       "added_at": "2021-12-23 15:47:25",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "The Pink Panther - Original Soundtrack",
-        "url": "https://open.spotify.com/album/4fEGGDaDNDLvXPylhbJdBy"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 169413,
-      "name": "Something for Sellers - From the Mirisch-G & E Production \"The Pink Panther\"",
-      "url": "https://open.spotify.com/track/0Y6C8gl6ypXDfRGM1fbbAq"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Wonderland By Night (Remastered)",
         "url": "https://open.spotify.com/album/1CbLm2NzirrgPh2UcoSITF"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 158973,
       "name": "La Vie En Rose",
       "url": "https://open.spotify.com/track/4RRFpTX7hQRYSTo9efZ8yg"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "The Pink Panther - Original Soundtrack",
+        "url": "https://open.spotify.com/album/4fEGGDaDNDLvXPylhbJdBy"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "duration_ms": 169413,
+      "name": "Something for Sellers - From the Mirisch-G & E Production \"The Pink Panther\"",
+      "url": "https://open.spotify.com/track/0Y6C8gl6ypXDfRGM1fbbAq"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "A Regar La Polilla",
-        "url": "https://open.spotify.com/album/6gNdwACc4neaqtFiTtIa5T"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Pimentel",
-          "url": "https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU"
-        }
-      ],
-      "duration_ms": 200411,
-      "name": "Frenesi",
-      "url": "https://open.spotify.com/track/0GfHzUxjLoQnkZEHO2yXAk"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Le Cin\u00e9ma De Francis Lai",
         "url": "https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 206266,
       "name": "Bilitis",
       "url": "https://open.spotify.com/track/5Atv4zsOmzJV3WobHe0Lm2"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "A Regar La Polilla",
+        "url": "https://open.spotify.com/album/6gNdwACc4neaqtFiTtIa5T"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Pimentel",
+          "url": "https://open.spotify.com/artist/2zbC52OSDfkztZ7VSXdVNU"
+        }
+      ],
+      "duration_ms": 200411,
+      "name": "Frenesi",
+      "url": "https://open.spotify.com/track/0GfHzUxjLoQnkZEHO2yXAk"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Collection Francis Lai: Erotique, Vol. 3 (Bandes originales de films)",
-        "url": "https://open.spotify.com/album/2gEUvl54wiFAcZtjdWot7V"
-      },
-      "artists": [
-        {
-          "name": "Francis Lai",
-          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
-        }
-      ],
-      "duration_ms": 279320,
-      "name": "M\u00e9lissa (de \"Bilitis\")",
-      "url": "https://open.spotify.com/track/2k5ScPWzXJuuo4YU5dHKDf"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Celebration: A Musical Journey",
         "url": "https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 213626,
       "name": "Promise Of A Fisherman (Promessa De Pescador)",
       "url": "https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Collection Francis Lai: Erotique, Vol. 3 (Bandes originales de films)",
+        "url": "https://open.spotify.com/album/2gEUvl54wiFAcZtjdWot7V"
+      },
+      "artists": [
+        {
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
+        }
+      ],
+      "duration_ms": 279320,
+      "name": "M\u00e9lissa (de \"Bilitis\")",
+      "url": "https://open.spotify.com/track/2k5ScPWzXJuuo4YU5dHKDf"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Yellow Bird",
-        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Honeymoon in South America",
         "url": "https://open.spotify.com/album/0ws2zLdFiEZNztPGi1Jwem"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 116400,
       "name": "Java",
       "url": "https://open.spotify.com/track/3IQKv4kEw4htOOLysL7Y88"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Yellow Bird",
+        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Colecci\u00f3n de \u00c9xitos",
-        "url": "https://open.spotify.com/album/5iqRFuoGSCN6glQuBUhBHn"
-      },
-      "artists": [
-        {
-          "name": "Los Indios Tabajaras",
-          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
-        }
-      ],
-      "duration_ms": 157022,
-      "name": "Star Dust",
-      "url": "https://open.spotify.com/track/3sseyXc0uWyhngxQxPQA8u"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Happy Time Cha Chas",
         "url": "https://open.spotify.com/album/7LbPRspn8h5NedA4QCkJPb"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 175960,
       "name": "Too Young",
       "url": "https://open.spotify.com/track/4xA82yaxvwY4AbhxSlurst"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Colecci\u00f3n de \u00c9xitos",
+        "url": "https://open.spotify.com/album/5iqRFuoGSCN6glQuBUhBHn"
+      },
+      "artists": [
+        {
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
+        }
+      ],
+      "duration_ms": 157022,
+      "name": "Star Dust",
+      "url": "https://open.spotify.com/track/3sseyXc0uWyhngxQxPQA8u"
     },
     {
       "added_at": "2020-12-08 19:02:01",

@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: Johnny Sky
 
-298 songs - 18 hr 40 min
+299 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Borracho y Loco](https://open.spotify.com/track/4ui5Hqz3BHuPFRDCSe05D7) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Los Mejores Éxitos de Luis Vargas](https://open.spotify.com/album/5CGzqTntYVPmNbYKqsERQk) | 3:17 | 2022-03-04 | 2022-07-29 |
 | [Borracho Y Loco](https://open.spotify.com/track/4KtYHts2AdkhcV9x2MGbWt) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [La Raiz](https://open.spotify.com/album/6X78J9UxEWDy8vhEfAq7aL) | 3:20 | 2022-07-19 | 2022-09-03 |
 | [Brindemos por Ellas](https://open.spotify.com/track/1QBlf7g1RiNr2oGajY0lo6) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Ronny Mercedes](https://open.spotify.com/artist/5EzBKoSqSIvU8uQnBP74T2) | [Brindemos por Ellas](https://open.spotify.com/album/5Yxk0RoPNkJAp4wGWQrFv2) | 3:39 | 2022-03-04 | 2022-09-03 |
+| [Caprichito](https://open.spotify.com/track/1NzUt0zLVo47HzFXymc53v) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Caprichito](https://open.spotify.com/album/0sI8xJ3Um4Bx7YECYOXNpH) | 3:46 | 2023-04-14 |  |
 | [Carita de Inocente](https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ALTER EGO](https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p) | 3:11 | 2022-03-04 | 2022-07-29 |
 | [Carita de Inocente \(feat\. Myke Towers\) \- Remix](https://open.spotify.com/track/5kQre7o8ky5DXeEPcyaCR1) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Carita de Inocente \(feat\. Myke Towers\) \[Remix\]](https://open.spotify.com/album/54m2Pe3Khdiarwv2PCS8DY) | 3:12 | 2022-03-04 | 2022-09-30 |
 | [Carmín \(feat\. Juan Luis Guerra\)](https://open.spotify.com/track/7feNblkR0A56vttsAGTyzK) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:28 | 2022-03-04 | 2022-07-29 |
@@ -207,7 +208,7 @@
 | [Pincesa Mia](https://open.spotify.com/track/3P3KYALsULoYB2D8qIuu2A) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Pincesa Mia](https://open.spotify.com/album/5Cn3fxulYCvMIosx6iYaLn) | 3:40 | 2022-03-25 | 2022-04-24 |
 | [Pobre Diabla](https://open.spotify.com/track/7gxVgMixTYh4NXiNMao4s2) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Musica Tropical Para Bailar](https://open.spotify.com/album/47l8vVWxhdk85fSx65LN2e) | 4:15 | 2022-09-09 | 2023-02-25 |
 | [Por Amor](https://open.spotify.com/track/2J9P7Ve41peMW0fkxiEImK) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Por Amor](https://open.spotify.com/album/3YVhQkKRXxcI9cTuBRWKqT) | 3:40 | 2022-03-04 | 2022-09-03 |
-| [Por Favor](https://open.spotify.com/track/7md4w7QFuWT2mFRcNSJyuA) | [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [Por Favor](https://open.spotify.com/album/33KEBf8NwF0YfSZqcNoVAP) | 3:43 | 2022-09-16 |  |
+| [Por Favor](https://open.spotify.com/track/7md4w7QFuWT2mFRcNSJyuA) | [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [Por Favor](https://open.spotify.com/album/33KEBf8NwF0YfSZqcNoVAP) | 3:43 | 2022-09-16 | 2023-04-19 |
 | [Por Tu Culpa](https://open.spotify.com/track/5yrCbCPTgYS1rPt7GMRCJi) | [24 Horas](https://open.spotify.com/artist/26tM7QuWssfjMPfOUPaHxY) | [Por Tu Culpa](https://open.spotify.com/album/0YDxzNrXmAHkOMR4K23Fe7) | 3:21 | 2022-03-25 | 2023-01-25 |
 | [Por un Segundo](https://open.spotify.com/track/2MioxSroS0g1mi24LLfcnq) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 4:15 | 2022-03-04 | 2022-09-03 |
 | [Princesa Mia](https://open.spotify.com/track/58b7JlzLEEK7nnecVP2OQe) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [Princesa Mia](https://open.spotify.com/album/5MkMetkuLTsUi4ZIrAfSWr) | 3:40 | 2022-07-19 | 2022-08-20 |

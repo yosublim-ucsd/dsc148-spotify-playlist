@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 426165,
+  "num_followers": 426561,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTU4NTkwOSwwMDAwMDAwMDFhMjEyN2YzMzEwZDY1ODUzMmYzODk5YjE5Mzg1NzY1",
+  "snapshot_id": "MTY4MTU4NTkwOSwwMDAwMDAwMDJmOTAzMjczMjRmODkyZDk4ZDQ4NGMzZGNmM2EzNDkz",
   "tracks": [
     {
       "added_at": "2023-04-15 19:11:49",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-04-15 19:11:49",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 86925,
-      "name": "Isn't She Lovely",
-      "url": "https://open.spotify.com/track/7zcRBXvRkTRlQYLDNu1JEN"
-    },
-    {
-      "added_at": "2023-04-15 19:11:49",
-      "album": {
         "name": "J\u00fapiter",
         "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 238384,
       "name": "No Escuro",
       "url": "https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY"
+    },
+    {
+      "added_at": "2023-04-15 19:11:49",
+      "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 86925,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/7zcRBXvRkTRlQYLDNu1JEN"
     },
     {
       "added_at": "2023-04-15 19:11:49",
@@ -899,22 +899,22 @@
     {
       "added_at": "2023-04-15 19:11:49",
       "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "url": "https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg"
+        "name": "Um amor puro",
+        "url": "https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO"
       },
       "artists": [
         {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
         },
         {
-          "name": "Bala Desejo",
-          "url": "https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH"
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
         }
       ],
-      "duration_ms": 186382,
-      "name": "Toda Beleza",
-      "url": "https://open.spotify.com/track/4yPKVW76qe5VWOK4WOUsZa"
+      "duration_ms": 285000,
+      "name": "Um amor puro",
+      "url": "https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss"
     }
   ],
   "unique_name": "Manh\u00e3 Relax",

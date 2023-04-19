@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Whyte Fang.",
-  "num_followers": 959903,
+  "num_followers": 960180,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ4ODAwMCwwMDAwMDAwMGFmOWJmNGJlMDk3YWIwMzhlYjljMGFkNGY1MjU1YWMz",
+  "snapshot_id": "MTY4MTQ4ODAwMCwwMDAwMDAwMGU0ZjE5MDIzN2I3ZjM0NmNjNjA2NDMwZWVlZDg4ZmUz",
   "tracks": [
     {
       "added_at": "2023-04-14 16:00:00",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2023-04-14 16:00:00",
       "album": {
-        "name": "FUNKONAUT",
-        "url": "https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "FUNKONAUT",
-      "url": "https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec"
-    },
-    {
-      "added_at": "2023-04-14 16:00:00",
-      "album": {
         "name": "The Machines",
         "url": "https://open.spotify.com/album/5P3kvsIaj4aX7usKBJAPeQ"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 202666,
       "name": "The Machines",
       "url": "https://open.spotify.com/track/3SH8GHdwJGXnoEmnCbPpJQ"
+    },
+    {
+      "added_at": "2023-04-14 16:00:00",
+      "album": {
+        "name": "FUNKONAUT",
+        "url": "https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "FUNKONAUT",
+      "url": "https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec"
     },
     {
       "added_at": "2023-04-14 16:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-04-14 16:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Rude Boy 22 - Spotify Singles",
+      "url": "https://open.spotify.com/track/5nuyCix3R7RUitKPxkqIac"
+    },
+    {
+      "added_at": "2023-04-14 16:00:00",
+      "album": {
         "name": "Like Before",
         "url": "https://open.spotify.com/album/2yVM47Pm3THWtF7L81Vz88"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 176761,
       "name": "Eden (feat. fussy)",
       "url": "https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP"
-    },
-    {
-      "added_at": "2023-04-14 16:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4SZa061qdVYEZTTqE4DfwS"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Rude Boy 22 - Spotify Singles",
-      "url": "https://open.spotify.com/track/5nuyCix3R7RUitKPxkqIac"
     },
     {
       "added_at": "2023-04-14 16:00:00",
@@ -1275,26 +1275,18 @@
     {
       "added_at": "2023-04-14 16:00:00",
       "album": {
-        "name": "Shut Up",
-        "url": "https://open.spotify.com/album/0ajXcWmw9BnS9UE81Ghodp"
+        "name": "GENESIS",
+        "url": "https://open.spotify.com/album/2y3ZfgrrqOtkexvBjGa49v"
       },
       "artists": [
         {
-          "name": "4B",
-          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
-        },
-        {
-          "name": "Trick Daddy",
-          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
+          "name": "Whyte Fang",
+          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
         }
       ],
-      "duration_ms": 187186,
-      "name": "Shut Up",
-      "url": "https://open.spotify.com/track/6asMDae76R5jPI6vQJkwwp"
+      "duration_ms": 291000,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/6gNxFvK5yLL0uWCNQdP7GB"
     },
     {
       "added_at": "2023-04-14 16:00:00",
@@ -1319,34 +1311,46 @@
     {
       "added_at": "2023-04-14 16:00:00",
       "album": {
-        "name": "GENESIS",
-        "url": "https://open.spotify.com/album/2y3ZfgrrqOtkexvBjGa49v"
+        "name": "Think Of You",
+        "url": "https://open.spotify.com/album/3FJfc6IceAg806JTl2Q7oE"
       },
       "artists": [
         {
-          "name": "Whyte Fang",
-          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Blunts & Blondes",
+          "url": "https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3"
         }
       ],
-      "duration_ms": 291000,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/6gNxFvK5yLL0uWCNQdP7GB"
+      "duration_ms": 185142,
+      "name": "Think Of You",
+      "url": "https://open.spotify.com/track/1zqWDQbUlHWxjsXKe7KAr4"
     },
     {
       "added_at": "2023-04-14 16:00:00",
       "album": {
-        "name": "Nightmare On Rezz Street 2 Mix",
-        "url": "https://open.spotify.com/album/5aRRt9zSKDEQdWghFvkiEi"
+        "name": "Shut Up",
+        "url": "https://open.spotify.com/album/0ajXcWmw9BnS9UE81Ghodp"
       },
       "artists": [
         {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+          "name": "4B",
+          "url": "https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        },
+        {
+          "name": "Trick Daddy",
+          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
         }
       ],
-      "duration_ms": 174906,
-      "name": "ID1",
-      "url": "https://open.spotify.com/track/6B2iGXREq0qb0N5thBN279"
+      "duration_ms": 187186,
+      "name": "Shut Up",
+      "url": "https://open.spotify.com/track/6asMDae76R5jPI6vQJkwwp"
     },
     {
       "added_at": "2023-04-14 16:00:00",
@@ -1371,6 +1375,22 @@
     {
       "added_at": "2023-04-14 16:00:00",
       "album": {
+        "name": "Nightmare On Rezz Street 2 Mix",
+        "url": "https://open.spotify.com/album/5aRRt9zSKDEQdWghFvkiEi"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        }
+      ],
+      "duration_ms": 174906,
+      "name": "ID1",
+      "url": "https://open.spotify.com/track/6B2iGXREq0qb0N5thBN279"
+    },
+    {
+      "added_at": "2023-04-14 16:00:00",
+      "album": {
         "name": "Back To The Top",
         "url": "https://open.spotify.com/album/00lI4kcdbVJyX62fe1HHuw"
       },
@@ -1391,26 +1411,6 @@
       "duration_ms": 198139,
       "name": "Back To The Top",
       "url": "https://open.spotify.com/track/5Jyk55gbmaRXAmcQyPvcFX"
-    },
-    {
-      "added_at": "2023-04-14 16:00:00",
-      "album": {
-        "name": "Think Of You",
-        "url": "https://open.spotify.com/album/3FJfc6IceAg806JTl2Q7oE"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
-        },
-        {
-          "name": "Blunts & Blondes",
-          "url": "https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Think Of You",
-      "url": "https://open.spotify.com/track/1zqWDQbUlHWxjsXKe7KAr4"
     },
     {
       "added_at": "2023-04-14 16:00:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-04-14 16:00:00",
       "album": {
+        "name": "Breath",
+        "url": "https://open.spotify.com/album/4ZjGSYAVcd7TbZfFNUFWM8"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 200339,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/5jA67K9o5mEW5NzjRCdAUg"
+    },
+    {
+      "added_at": "2023-04-14 16:00:00",
+      "album": {
         "name": "Eternity (feat. Dayce Williams)",
         "url": "https://open.spotify.com/album/5X0bqp1XBaGVPQ4DWGaADN"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 182250,
       "name": "Isolation",
       "url": "https://open.spotify.com/track/1VRgvtnfkkjgPw9a48KMiT"
-    },
-    {
-      "added_at": "2023-04-14 16:00:00",
-      "album": {
-        "name": "Breath",
-        "url": "https://open.spotify.com/album/4ZjGSYAVcd7TbZfFNUFWM8"
-      },
-      "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 200339,
-      "name": "Breath",
-      "url": "https://open.spotify.com/track/5jA67K9o5mEW5NzjRCdAUg"
     },
     {
       "added_at": "2023-04-14 16:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-04-14 16:00:00",
       "album": {
-        "name": "FAR OUT",
-        "url": "https://open.spotify.com/album/5RQAm3Nx1cpPzQzb1veOra"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "FAR OUT",
-      "url": "https://open.spotify.com/track/0DT3f2Y9UEwGdJC7f4FOzH"
-    },
-    {
-      "added_at": "2023-04-14 16:00:00",
-      "album": {
         "name": "Start It Over (feat. KC)",
         "url": "https://open.spotify.com/album/4BcDAfQlDRPek8jSKQRw6W"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 195600,
       "name": "Start It Over (feat. KC)",
       "url": "https://open.spotify.com/track/4Y3hmcRgFw88qJnXGzCwkq"
+    },
+    {
+      "added_at": "2023-04-14 16:00:00",
+      "album": {
+        "name": "FAR OUT",
+        "url": "https://open.spotify.com/album/5RQAm3Nx1cpPzQzb1veOra"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "FAR OUT",
+      "url": "https://open.spotify.com/track/0DT3f2Y9UEwGdJC7f4FOzH"
     },
     {
       "added_at": "2023-04-14 16:00:00",
@@ -2043,6 +2043,22 @@
     {
       "added_at": "2023-04-14 16:00:00",
       "album": {
+        "name": "Bang Harder",
+        "url": "https://open.spotify.com/album/6XS7UbDpIqRIWNMxG5I8XV"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        }
+      ],
+      "duration_ms": 164842,
+      "name": "Bang Harder",
+      "url": "https://open.spotify.com/track/3DrLjM8mwvw6YHDIO4cQJT"
+    },
+    {
+      "added_at": "2023-04-14 16:00:00",
+      "album": {
         "name": "Flying (Pegboard Nerds Remix)",
         "url": "https://open.spotify.com/album/2WhrRHs1WCqjgP4JHZM52m"
       },
@@ -2063,22 +2079,6 @@
       "duration_ms": 168275,
       "name": "Flying (Pegboard Nerds Remix)",
       "url": "https://open.spotify.com/track/70TjDtaV2yY4prx0gB35Bx"
-    },
-    {
-      "added_at": "2023-04-14 16:00:00",
-      "album": {
-        "name": "Bang Harder",
-        "url": "https://open.spotify.com/album/6XS7UbDpIqRIWNMxG5I8XV"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        }
-      ],
-      "duration_ms": 164842,
-      "name": "Bang Harder",
-      "url": "https://open.spotify.com/track/3DrLjM8mwvw6YHDIO4cQJT"
     },
     {
       "added_at": "2023-04-14 16:00:00",
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2023-04-14 16:00:00",
       "album": {
-        "name": "MIDHEAVEN: OPUS 03",
-        "url": "https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l"
-      },
-      "artists": [
-        {
-          "name": "Deathpact",
-          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
-        }
-      ],
-      "duration_ms": 147529,
-      "name": "BDASWY",
-      "url": "https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89"
-    },
-    {
-      "added_at": "2023-04-14 16:00:00",
-      "album": {
         "name": "The Uprising",
         "url": "https://open.spotify.com/album/6xpb60RTZpstoFxakOAXZ0"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 197735,
       "name": "The Uprising",
       "url": "https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li"
+    },
+    {
+      "added_at": "2023-04-14 16:00:00",
+      "album": {
+        "name": "MIDHEAVEN: OPUS 03",
+        "url": "https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "duration_ms": 147529,
+      "name": "BDASWY",
+      "url": "https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89"
     },
     {
       "added_at": "2023-04-14 16:00:00",
@@ -2231,6 +2231,22 @@
     {
       "added_at": "2023-04-14 16:00:00",
       "album": {
+        "name": "Amateur",
+        "url": "https://open.spotify.com/album/5Nd5bGBcXkr0hcgu59w3QF"
+      },
+      "artists": [
+        {
+          "name": "Zonderling",
+          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
+        }
+      ],
+      "duration_ms": 371612,
+      "name": "Amateur",
+      "url": "https://open.spotify.com/track/51FT4yWCl91S04PJz8Oxeu"
+    },
+    {
+      "added_at": "2023-04-14 16:00:00",
+      "album": {
         "name": "HEAVENS DOOR",
         "url": "https://open.spotify.com/album/30qHvBEBDiS8QM34QLlKMX"
       },
@@ -2263,22 +2279,6 @@
       "duration_ms": 269623,
       "name": "Forgive You Anyway",
       "url": "https://open.spotify.com/track/5NpVwsN4IvmWUzWdn22ILw"
-    },
-    {
-      "added_at": "2023-04-14 16:00:00",
-      "album": {
-        "name": "Amateur",
-        "url": "https://open.spotify.com/album/5Nd5bGBcXkr0hcgu59w3QF"
-      },
-      "artists": [
-        {
-          "name": "Zonderling",
-          "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
-        }
-      ],
-      "duration_ms": 371612,
-      "name": "Amateur",
-      "url": "https://open.spotify.com/track/51FT4yWCl91S04PJz8Oxeu"
     },
     {
       "added_at": "2023-04-14 16:00:00",
@@ -2363,26 +2363,6 @@
     {
       "added_at": "2023-04-14 16:00:00",
       "album": {
-        "name": "Prismata (Dark)",
-        "url": "https://open.spotify.com/album/31ORya6l0IN8uBN7aIpiht"
-      },
-      "artists": [
-        {
-          "name": "Bear Grillz",
-          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
-        },
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Check",
-      "url": "https://open.spotify.com/track/6YZg6R747lU5gYZhUB4OQg"
-    },
-    {
-      "added_at": "2023-04-14 16:00:00",
-      "album": {
         "name": "OUTCAST",
         "url": "https://open.spotify.com/album/7bzJEJoMYDnwJlZC3h9hBb"
       },
@@ -2399,6 +2379,26 @@
       "duration_ms": 272431,
       "name": "OUTCAST",
       "url": "https://open.spotify.com/track/20eAFFTSJktGui5yaZ9DCr"
+    },
+    {
+      "added_at": "2023-04-14 16:00:00",
+      "album": {
+        "name": "Prismata (Dark)",
+        "url": "https://open.spotify.com/album/31ORya6l0IN8uBN7aIpiht"
+      },
+      "artists": [
+        {
+          "name": "Bear Grillz",
+          "url": "https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Check",
+      "url": "https://open.spotify.com/track/6YZg6R747lU5gYZhUB4OQg"
     },
     {
       "added_at": "2023-04-14 16:00:00",
@@ -2671,6 +2671,22 @@
     {
       "added_at": "2023-04-14 16:00:00",
       "album": {
+        "name": "Purity",
+        "url": "https://open.spotify.com/album/7BuqieOHw8lBxS316dD6qY"
+      },
+      "artists": [
+        {
+          "name": "Ekali",
+          "url": "https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd"
+        }
+      ],
+      "duration_ms": 235813,
+      "name": "Purity",
+      "url": "https://open.spotify.com/track/0AzoovrzyAFTlOf2UaUPIx"
+    },
+    {
+      "added_at": "2023-04-14 16:00:00",
+      "album": {
         "name": "Onzeker Kraft Vol.1",
         "url": "https://open.spotify.com/album/5YjyH1QQ20buSHnLJ3xm65"
       },
@@ -2687,22 +2703,6 @@
       "duration_ms": 223565,
       "name": "Hypnotic",
       "url": "https://open.spotify.com/track/2GVscOY1PbZknTX0lNuxni"
-    },
-    {
-      "added_at": "2023-04-14 16:00:00",
-      "album": {
-        "name": "Purity",
-        "url": "https://open.spotify.com/album/7BuqieOHw8lBxS316dD6qY"
-      },
-      "artists": [
-        {
-          "name": "Ekali",
-          "url": "https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd"
-        }
-      ],
-      "duration_ms": 235813,
-      "name": "Purity",
-      "url": "https://open.spotify.com/track/0AzoovrzyAFTlOf2UaUPIx"
     },
     {
       "added_at": "2023-04-14 16:00:00",

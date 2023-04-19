@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Jesus Piece ",
-  "num_followers": 450705,
+  "num_followers": 450895,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTk0OTA2MCwwMDAwMDAwMDUwZjUwZDNjNzgzNGM2ZWNhY2U0MTNiNGRiNDEwNWY3",
+  "snapshot_id": "MTY3OTk0OTA2MCwwMDAwMDAwMGRiMzdjM2Y5ZDYzMzYzZGJkNzJlNTJkMTg0YmE1YTAw",
   "tracks": [
     {
       "added_at": "2023-03-17 17:52:49",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Order In Decline",
-        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 216571,
-      "name": "Out For Blood",
-      "url": "https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Long Time, No Sea (Expanded Edition)",
         "url": "https://open.spotify.com/album/7LgruFgKT9Vg00mymfEyf7"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 184285,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/60ICDcC995UF0nu85r75qV"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 216571,
+      "name": "Out For Blood",
+      "url": "https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "wet milk",
-        "url": "https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI"
-      },
-      "artists": [
-        {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "myfeelingshavefeelings",
-      "url": "https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
         "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
@@ -899,6 +883,22 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
+        "name": "wet milk",
+        "url": "https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "myfeelingshavefeelings",
+      "url": "https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
         "name": "Nothing is True & Everything is Possible",
         "url": "https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp"
       },
@@ -911,22 +911,6 @@
       "duration_ms": 226900,
       "name": "satellites* *",
       "url": "https://open.spotify.com/track/4MJcimcruJ4GkDsmVaHR3V"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
-        "name": "Skin Suit",
-        "url": "https://open.spotify.com/album/0ZU7yILLKVT81oYLyJsl7c"
-      },
-      "artists": [
-        {
-          "name": "THE BOBBY LEES",
-          "url": "https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI"
-        }
-      ],
-      "duration_ms": 89810,
-      "name": "Guttermilk",
-      "url": "https://open.spotify.com/track/47gVb36hKgHWSJdTbRt1Sq"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -979,6 +963,22 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
+        "name": "Skin Suit",
+        "url": "https://open.spotify.com/album/0ZU7yILLKVT81oYLyJsl7c"
+      },
+      "artists": [
+        {
+          "name": "THE BOBBY LEES",
+          "url": "https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI"
+        }
+      ],
+      "duration_ms": 89810,
+      "name": "Guttermilk",
+      "url": "https://open.spotify.com/track/47gVb36hKgHWSJdTbRt1Sq"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
         "name": "Restless Heart, Keep Running",
         "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
       },
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Anon.",
-        "url": "https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo"
-      },
-      "artists": [
-        {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Overthinking",
-      "url": "https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "To Better Days",
         "url": "https://open.spotify.com/album/0R8nkP9bWyoCi6NuetVq5p"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 196427,
       "name": "Bury a Lie",
       "url": "https://open.spotify.com/track/1RNS0ntWy01bZpPkrjJAyt"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Anon.",
+        "url": "https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "My Descend",
-        "url": "https://open.spotify.com/album/55bPotsZFpNo5Oim20cuh6"
-      },
-      "artists": [
-        {
-          "name": "Glass Tides",
-          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Empty Thoughts",
-      "url": "https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Holding Absence",
         "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 218466,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "My Descend",
+        "url": "https://open.spotify.com/album/55bPotsZFpNo5Oim20cuh6"
+      },
+      "artists": [
+        {
+          "name": "Glass Tides",
+          "url": "https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Empty Thoughts",
+      "url": "https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Sick Day",
-        "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
-      },
-      "artists": [
-        {
-          "name": "Teen Mortgage",
-          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
-        }
-      ],
-      "duration_ms": 123337,
-      "name": "Sick Day",
-      "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
         "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/7uoJBEPZYqrWxD8xsCm6aN"
+        "name": "Sick Day",
+        "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
       },
       "artists": [
         {
-          "name": "Rise Of The Northstar",
-          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+          "name": "Teen Mortgage",
+          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
         }
       ],
-      "duration_ms": 203813,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/5ANRQynbKDA0Y5OWzFPxzg"
+      "duration_ms": 123337,
+      "name": "Sick Day",
+      "url": "https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1411,6 +1395,22 @@
       "duration_ms": 201600,
       "name": "Bankrupt",
       "url": "https://open.spotify.com/track/5yUG0jhJLyYeWlpjG9AcZ1"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/7uoJBEPZYqrWxD8xsCm6aN"
+      },
+      "artists": [
+        {
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+        }
+      ],
+      "duration_ms": 203813,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5ANRQynbKDA0Y5OWzFPxzg"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Gates of Horn",
-        "url": "https://open.spotify.com/album/7LblSAOBS1QY8KQxkwwF6m"
-      },
-      "artists": [
-        {
-          "name": "Jesus Piece",
-          "url": "https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR"
-        }
-      ],
-      "duration_ms": 137796,
-      "name": "Gates of Horn",
-      "url": "https://open.spotify.com/track/46rGizKXwrDLKLI0MdUFly"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Stand Up",
         "url": "https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 158444,
       "name": "Drive Me Home",
       "url": "https://open.spotify.com/track/36dmS2axjtjqO7MIIfx6WU"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Gates of Horn",
+        "url": "https://open.spotify.com/album/7LblSAOBS1QY8KQxkwwF6m"
+      },
+      "artists": [
+        {
+          "name": "Jesus Piece",
+          "url": "https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR"
+        }
+      ],
+      "duration_ms": 137796,
+      "name": "Gates of Horn",
+      "url": "https://open.spotify.com/track/46rGizKXwrDLKLI0MdUFly"
     },
     {
       "added_at": "2023-03-17 17:52:49",

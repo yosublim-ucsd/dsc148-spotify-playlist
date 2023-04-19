@@ -1,12 +1,12 @@
 {
   "description": "Ay ay ay ay... Canta y no llores, porque cantando se alegran, cielito lindo, los corazones. ",
-  "num_followers": 202387,
+  "num_followers": 202422,
   "original_name": "M\u00e9xico Lindo & Querido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzA4MzYzNSwwMDAwMDAwMDE1OGE1ZjJmNTNjMzM2ZjI2MDQzMTY4ZTYzZTcwOWVk",
+  "snapshot_id": "MTY3NzA4MzYzNSwwMDAwMDAwMGZmYWJlZGZhM2E1YmY2N2NiNzc3MGRjMmUzZTk0Yzdl",
   "tracks": [
     {
       "added_at": "2022-11-19 17:26:23",
@@ -347,6 +347,22 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
+      },
+      "artists": [
+        {
+          "name": "Luis Aguilar",
+          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
+        }
+      ],
+      "duration_ms": 105293,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/0bxa8kZpLhhxg9ATooV3yQ"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
         "name": "Polkas Mexicanas",
         "url": "https://open.spotify.com/album/38xZkah2e5R45YCihrw5Wg"
       },
@@ -359,26 +375,6 @@
       "duration_ms": 181560,
       "name": "La Marcha De Zacatecas",
       "url": "https://open.spotify.com/track/2CNm9DuATGZtLcb7R9dxfi"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
-        "name": "Veracruz Son y Huapango",
-        "url": "https://open.spotify.com/album/7nrQ2LRqb5N0fFtW4rrPJD"
-      },
-      "artists": [
-        {
-          "name": "Tlen Huicani",
-          "url": "https://open.spotify.com/artist/47dC2tIVeFjNtRXcCE53O8"
-        },
-        {
-          "name": "Lino Chavez",
-          "url": "https://open.spotify.com/artist/0mE18DYrJBKMJdDBSUc3Jn"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/51EcnaX9uGBFYdBpMThgEs"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -399,18 +395,22 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
+        "name": "Veracruz Son y Huapango",
+        "url": "https://open.spotify.com/album/7nrQ2LRqb5N0fFtW4rrPJD"
       },
       "artists": [
         {
-          "name": "Luis Aguilar",
-          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
+          "name": "Tlen Huicani",
+          "url": "https://open.spotify.com/artist/47dC2tIVeFjNtRXcCE53O8"
+        },
+        {
+          "name": "Lino Chavez",
+          "url": "https://open.spotify.com/artist/0mE18DYrJBKMJdDBSUc3Jn"
         }
       ],
-      "duration_ms": 105293,
-      "name": "El Sinaloense",
-      "url": "https://open.spotify.com/track/0bxa8kZpLhhxg9ATooV3yQ"
+      "duration_ms": 193453,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/51EcnaX9uGBFYdBpMThgEs"
     },
     {
       "added_at": "2022-11-19 17:26:23",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-11-19 17:26:23",
       "album": {
-        "name": "Polkas Norte\u00f1as",
-        "url": "https://open.spotify.com/album/1O5AuiYeEUi1TWQnthPMET"
-      },
-      "artists": [
-        {
-          "name": "Los Gavilanes Del Norte",
-          "url": "https://open.spotify.com/artist/5kqPT6E1RZlzwDYwYOWFfE"
-        }
-      ],
-      "duration_ms": 155800,
-      "name": "La Evangelina",
-      "url": "https://open.spotify.com/track/3WsjRAP92a3CXO3WVXpCHZ"
-    },
-    {
-      "added_at": "2022-11-19 17:26:23",
-      "album": {
         "name": "Antologia Musical 30 Exitos",
         "url": "https://open.spotify.com/album/3go0mP3PiKN06OCMAcryJ7"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 148986,
       "name": "El Barrilito",
       "url": "https://open.spotify.com/track/5iraK9LBoyh99QrC0zAbK4"
+    },
+    {
+      "added_at": "2022-11-19 17:26:23",
+      "album": {
+        "name": "Polkas Norte\u00f1as",
+        "url": "https://open.spotify.com/album/1O5AuiYeEUi1TWQnthPMET"
+      },
+      "artists": [
+        {
+          "name": "Los Gavilanes Del Norte",
+          "url": "https://open.spotify.com/artist/5kqPT6E1RZlzwDYwYOWFfE"
+        }
+      ],
+      "duration_ms": 155800,
+      "name": "La Evangelina",
+      "url": "https://open.spotify.com/track/3WsjRAP92a3CXO3WVXpCHZ"
     },
     {
       "added_at": "2022-11-19 17:26:23",

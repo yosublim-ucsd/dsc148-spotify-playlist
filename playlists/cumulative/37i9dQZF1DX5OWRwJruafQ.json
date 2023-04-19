@@ -1517,6 +1517,32 @@
     },
     {
       "album": {
+        "name": "Pinda Aale",
+        "url": "https://open.spotify.com/album/2TzKRe27dDLz2RdeG7Ikme"
+      },
+      "artists": [
+        {
+          "name": "G. Sidhu",
+          "url": "https://open.spotify.com/artist/1cqZQSRjE8Bl0PABOkVU9c"
+        },
+        {
+          "name": "Byg Byrd",
+          "url": "https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT"
+        },
+        {
+          "name": "NseeB",
+          "url": "https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153043,
+      "name": "Pinda Aale",
+      "url": "https://open.spotify.com/track/34uGihf7olNByEcHPVGbsV"
+    },
+    {
+      "album": {
         "name": "Raakhi (From \"Annhi Dea Mazaak Ae\")",
         "url": "https://open.spotify.com/album/7MNNv8dFXb563dcOpw4P4H"
       },

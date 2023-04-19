@@ -104,7 +104,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 133411,
       "name": "Baat Kaam Ki",
       "url": "https://open.spotify.com/track/2NYxPgTsdLGvB2gX7B4xhc"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 185142,
       "name": "DJ Baajan De",
       "url": "https://open.spotify.com/track/3owDxCaFzjXl3blZQ6EonS"
@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Haryana Hood",
+        "url": "https://open.spotify.com/album/4x2HtG6BCrYlok67vSgxjj"
+      },
+      "artists": [
+        {
+          "name": "Irshad Khan",
+          "url": "https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211480,
+      "name": "Haryana Hood",
+      "url": "https://open.spotify.com/track/1RdrAqXa2fUj2XytsKaUwl"
+    },
+    {
+      "album": {
         "name": "Haryana Roadways",
         "url": "https://open.spotify.com/album/4UoqnEe3bNT8RyULI2Z8iW"
       },
@@ -372,8 +390,8 @@
       },
       "artists": [
         {
-          "name": "Oye Amit",
-          "url": "https://open.spotify.com/artist/7mmiYB1wyaV5OfJkyq4w9X"
+          "name": "Oye Amti",
+          "url": "https://open.spotify.com/artist/1aYZzT07CepkQFWaQDECss"
         }
       ],
       "date_added": "2023-04-14",
@@ -439,6 +457,24 @@
     },
     {
       "album": {
+        "name": "Hurr Hurr",
+        "url": "https://open.spotify.com/album/1T94tZ0ONkKt3e8A7OfN0d"
+      },
+      "artists": [
+        {
+          "name": "RP Singh",
+          "url": "https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220666,
+      "name": "Hurr Hurr",
+      "url": "https://open.spotify.com/track/3TdDp6r78i2pISrgW2QH6c"
+    },
+    {
+      "album": {
         "name": "Hustle",
         "url": "https://open.spotify.com/album/0earK0NiGvRyupxyoXpusg"
       },
@@ -450,7 +486,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 115442,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/1fZ6ZXqgQOgnhVjgud8haG"
@@ -774,6 +810,24 @@
       "duration_ms": 192000,
       "name": "No One Knows",
       "url": "https://open.spotify.com/track/03zEU8s3KD7erkkXN3GWgR"
+    },
+    {
+      "album": {
+        "name": "No Worries",
+        "url": "https://open.spotify.com/album/5McT7ublWKojSCLew2Eh2C"
+      },
+      "artists": [
+        {
+          "name": "Pulkit Arora",
+          "url": "https://open.spotify.com/artist/2z0yNxAp5m9eZDHARjHwhQ"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172666,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/6r1TU60kDywJuu3EPrwHLe"
     },
     {
       "album": {

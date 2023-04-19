@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover <a href="https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL">Christina Shusho</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,782 likes - 60 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,788 likes - 60 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

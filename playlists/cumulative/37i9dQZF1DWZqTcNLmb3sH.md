@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Kabzaa
 
-641 songs - 1 day 15 hr 48 min
+642 songs - 1 day 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Andada Chandada Gombe Naa \(From "Namma Hudugaru"\)](https://open.spotify.com/track/4kipZto8barKZlUTRL0LLi) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Abhimann Roy](https://open.spotify.com/artist/5fyJuumOXQwePtPK9suY88) | [Andada Chandada Gombe Naa \(From "Namma Hudugaru"\)](https://open.spotify.com/album/19jazGVmWF3bbso9R2u6GB) | 3:56 | 2022-07-08 | 2023-01-13 |
 | [Angel Angel \(From "Hare Rama Hare Krishna"\)](https://open.spotify.com/track/33TUH8JbkiOwELVLpvrqsq) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Rita](https://open.spotify.com/artist/5IBFFb0fp0qRYH9Set3ISz) | [Angel Angel \(From "Hare Rama Hare Krishna"\)](https://open.spotify.com/album/5vABbOm69COHdLVMoftKft) | 4:27 | 2021-12-21 | 2022-01-04 |
 | [Annayya Annayya](https://open.spotify.com/track/1BVDfqznqgpVQe2S8IOocC) | [Deepak Blue](https://open.spotify.com/artist/5iFKS1bnBNFWBAmd7mi0vf) | [Nam Annayya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4uv4boWsopVsf1LQyU9g07) | 4:23 | 2021-12-06 | 2022-02-03 |
+| [Anuragada Teru Sagide \(From "Ragavendra The Warrior"\)](https://open.spotify.com/track/1qLTLzUbUmZZezWpO4gD6m) | [Ajay Warrier](https://open.spotify.com/artist/3fm9JRsdbk49ZolYmobgeC), [Rashmi Srinivas](https://open.spotify.com/artist/513IeMeSow094McXe43pHQ), [Paulalex P](https://open.spotify.com/artist/7wlsrXvAgZLs1vS5yI0wXW), [Dinesh K](https://open.spotify.com/artist/5fiYExb3GiqWaCNguTvCaY) | [Anuragada Teru Sagide \(From "Ragavendra The Warrior"\)](https://open.spotify.com/album/0YWnANCc3jXTIzFA3zLnre) | 3:16 | 2023-04-18 |  |
 | [Appa Kodadha Kaiya Thuttha \- From "Shavasamskara"](https://open.spotify.com/track/09pBzssHntQ8a32qg8R1uD) | [Anuradha Bhat](https://open.spotify.com/artist/0vbQ1fTz7Ww24mHlhxgMd8), [Supreeth Gandhara](https://open.spotify.com/artist/3I3MfmxdyvqcbtrZpNzD6W) | [Appa Kodadha Kaiya Thuttha \(From "Shavasamskara"\)](https://open.spotify.com/album/6uMyXU0l58jvIXBwfeP9TD) | 4:37 | 2022-08-05 | 2022-11-19 |
 | [Araloke Munchene \- From " December 24"](https://open.spotify.com/track/5tcg3teXWdv9iGFIkCESJY) | [Ankita Kundu](https://open.spotify.com/artist/0AyBrWlYwDQOsrN1xxOmkG), [Praveen Niketan](https://open.spotify.com/artist/1PTx4X1SAHz1s0djygbx0b), [DR\. V Nagendra Prasad](https://open.spotify.com/artist/0YQkMxPEgpSEn9QX6XtGJ9) | [Araloke Munchene \(From " December 24"\)](https://open.spotify.com/album/3s9fZQzNU9bRRHpz5UIJxP) | 4:36 | 2023-02-01 | 2023-02-21 |
 | [Ararre Ararre Yeno Salige](https://open.spotify.com/track/6SwDqEAOMBDjvE4BUOj7I2) | [Supriyaa Ram](https://open.spotify.com/artist/6ZRC0Bc7Dcx49chE1ppbkp), [Siddarth Belmannu](https://open.spotify.com/artist/60YUdKepbmyJm0Cmrhqs1g) | [Dear Vikram](https://open.spotify.com/album/3p3KH5LQe5RTSAoVtnOyIl) | 3:47 | 2022-06-27 | 2022-07-16 |

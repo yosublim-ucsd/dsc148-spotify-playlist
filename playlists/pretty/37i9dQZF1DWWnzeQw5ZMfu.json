@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there. ",
-  "num_followers": 53491,
+  "num_followers": 53540,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDJkZmY2ZDVkMzM5MTE5MGE0ODU4MmU0ZDUxNWM5OWJl",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDUxOTVkOWY1ZGI4NGQ2ZjFlMWU2NTkzYzQ4MDZiMWI5",
   "tracks": [
     {
       "added_at": "2023-04-14 04:01:00",
@@ -271,26 +271,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Leave The Door Open (Live)",
-        "url": "https://open.spotify.com/album/2gGhczmNc2vRIdqV4Rmhxq"
+        "name": "The Feeling of Falling Upwards (Live from The Royal Albert Hall)",
+        "url": "https://open.spotify.com/album/7u1CQclaB8RUyOfn4gTPlY"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
         }
       ],
-      "duration_ms": 260269,
-      "name": "Leave The Door Open - Live",
-      "url": "https://open.spotify.com/track/3XFY3bKOme4E3QhJqHS1Pi"
+      "duration_ms": 235928,
+      "name": "Youngblood - Live from The Royal Albert Hall",
+      "url": "https://open.spotify.com/track/64IHMtwaJFXLpTPzRJPM30"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -343,6 +335,30 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
+        "name": "Leave The Door Open (Live)",
+        "url": "https://open.spotify.com/album/2gGhczmNc2vRIdqV4Rmhxq"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "duration_ms": 260269,
+      "name": "Leave The Door Open - Live",
+      "url": "https://open.spotify.com/track/3XFY3bKOme4E3QhJqHS1Pi"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
         "name": "ATTENTION: MILEY LIVE",
         "url": "https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 234657,
       "name": "Nothing Breaks Like a Heart - Live",
       "url": "https://open.spotify.com/track/3qbPpK2s3PSw0jPPdZTTTW"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "The Feeling of Falling Upwards (Live from The Royal Albert Hall)",
-        "url": "https://open.spotify.com/album/7u1CQclaB8RUyOfn4gTPlY"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 235928,
-      "name": "Youngblood - Live from The Royal Albert Hall",
-      "url": "https://open.spotify.com/track/64IHMtwaJFXLpTPzRJPM30"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
+        "name": "ATTENTION: MILEY LIVE",
+        "url": "https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 420791,
+      "name": "Party In The USA - Live",
+      "url": "https://open.spotify.com/track/7t5YIq57DS5djsaZJm1iyM"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
         "name": "Jason Mraz's Beautiful Mess: Live on Earth",
         "url": "https://open.spotify.com/album/3ZJCkMzqe5OzSkYMrCcuAs"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 215786,
       "name": "You're Still The One - Live",
       "url": "https://open.spotify.com/track/7iGY3k5bvs2D8yPeF4z1y4"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "ATTENTION: MILEY LIVE",
-        "url": "https://open.spotify.com/album/5G5s00CN4Kmxz340ED2WL2"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 420791,
-      "name": "Party In The USA - Live",
-      "url": "https://open.spotify.com/track/7t5YIq57DS5djsaZJm1iyM"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
+        "name": "k bye for now (swt live)",
+        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 233416,
+      "name": "no tears left to cry - live",
+      "url": "https://open.spotify.com/track/32VSdGCv8wkAjUkVha9YBf"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
         "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
         "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 239733,
       "name": "Emotions - Live at MTV Unplugged, Kaufman Astoria Studios, New York - March 1992",
       "url": "https://open.spotify.com/track/5a7ftvz1gh9lbxGmLCCzz1"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "k bye for now (swt live)",
-        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 233416,
-      "name": "no tears left to cry - live",
-      "url": "https://open.spotify.com/track/32VSdGCv8wkAjUkVha9YBf"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -755,6 +755,26 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 486889,
+      "name": "Latch - Live From Madison Square Garden",
+      "url": "https://open.spotify.com/track/1M6IbIQY2yf9we4LlT2keJ"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
         "name": "AMY (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 245944,
       "name": "Stars - Live at Sydney Opera House",
       "url": "https://open.spotify.com/track/4ngirYzBiLhrWCCYGcOMN5"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 486889,
-      "name": "Latch - Live From Madison Square Garden",
-      "url": "https://open.spotify.com/track/1M6IbIQY2yf9we4LlT2keJ"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "James Morrison \u2013 Live & Unplugged At The Hospital",
-        "url": "https://open.spotify.com/album/5qBIugfdFDlPzYjvVLYvVx"
-      },
-      "artists": [
-        {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
-        }
-      ],
-      "duration_ms": 300953,
-      "name": "You Give Me Something - Live At The Hospital Club",
-      "url": "https://open.spotify.com/track/2ZSZ3DVneZwm825D6FueYS"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
         "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 217173,
       "name": "Everything - Live from Madison Square Garden",
       "url": "https://open.spotify.com/track/3k41YPhcXPVfwSo58DmJly"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "James Morrison \u2013 Live & Unplugged At The Hospital",
+        "url": "https://open.spotify.com/album/5qBIugfdFDlPzYjvVLYvVx"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "duration_ms": 300953,
+      "name": "You Give Me Something - Live At The Hospital Club",
+      "url": "https://open.spotify.com/track/2ZSZ3DVneZwm825D6FueYS"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "7 Years (Later) [Live]",
-        "url": "https://open.spotify.com/album/1p2dYhZNoJb4PikibWUskn"
+        "name": "Best of Live",
+        "url": "https://open.spotify.com/album/3cZzs6mVMXEjGrNIxyNt4H"
       },
       "artists": [
         {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
         }
       ],
-      "duration_ms": 256896,
-      "name": "7 Years - (Later) [Live]",
-      "url": "https://open.spotify.com/track/4Qlrlz9qODmwbCJFQb6iUW"
+      "duration_ms": 376853,
+      "name": "I Want to Know What Love Is - Live",
+      "url": "https://open.spotify.com/track/0eidOawKujRH6fNpqHpCMu"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Best of Live",
-        "url": "https://open.spotify.com/album/3cZzs6mVMXEjGrNIxyNt4H"
+        "name": "7 Years (Later) [Live]",
+        "url": "https://open.spotify.com/album/1p2dYhZNoJb4PikibWUskn"
       },
       "artists": [
         {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
         }
       ],
-      "duration_ms": 376853,
-      "name": "I Want to Know What Love Is - Live",
-      "url": "https://open.spotify.com/track/0eidOawKujRH6fNpqHpCMu"
+      "duration_ms": 256896,
+      "name": "7 Years - (Later) [Live]",
+      "url": "https://open.spotify.com/track/4Qlrlz9qODmwbCJFQb6iUW"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Live and in Session",
-        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
+        "name": "#3 Deluxe Version",
+        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
         }
       ],
-      "duration_ms": 248394,
-      "name": "The A Team - Live and in Session",
-      "url": "https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q"
+      "duration_ms": 295613,
+      "name": "The Man Who Can't Be Moved - Live At The Aviva Stadium, Dublin",
+      "url": "https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "#3 Deluxe Version",
-        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
+        "name": "Live and in Session",
+        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
       },
       "artists": [
         {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 295613,
-      "name": "The Man Who Can't Be Moved - Live At The Aviva Stadium, Dublin",
-      "url": "https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q"
+      "duration_ms": 248394,
+      "name": "The A Team - Live and in Session",
+      "url": "https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "A New Day...Live In Las Vegas",
-        "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
+        "name": "#3 Deluxe Version",
+        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
       },
       "artists": [
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
         }
       ],
-      "duration_ms": 256866,
-      "name": "I'm Alive - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
-      "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
+      "duration_ms": 304973,
+      "name": "For the First Time - Live At The Aviva Stadium, Dublin",
+      "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "#3 Deluxe Version",
-        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
+        "name": "A New Day...Live In Las Vegas",
+        "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
       },
       "artists": [
         {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         }
       ],
-      "duration_ms": 304973,
-      "name": "For the First Time - Live At The Aviva Stadium, Dublin",
-      "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
+      "duration_ms": 256866,
+      "name": "I'm Alive - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
+      "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
     },
     {
       "added_at": "2023-04-14 04:01:00",

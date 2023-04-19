@@ -4,7 +4,7 @@
 
 > A hypnotic journey through melodic techno.
 
-214 songs - 19 hr 27 min
+215 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Afterglow](https://open.spotify.com/track/5o7FfYcoh7dgBsvIu3bM1R) | [Miyagi](https://open.spotify.com/artist/3SYkxKBdwKFCTxWDh9l5f9), [Allies for Everyone](https://open.spotify.com/artist/1wTnRaLkV5Xu0hBULPm3xf) | [Afterglow](https://open.spotify.com/album/1FcT5u2uAOlpCOhJnaTcc9) | 6:18 | 2022-11-23 | 2022-12-01 |
 | [Aldebaran](https://open.spotify.com/track/7xqvXpA65hLxzcowyqcK5X) | [Green Lake Project](https://open.spotify.com/artist/6BOSrPzlp4szI7Ac9k9erz) | [Thrust](https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM) | 6:29 | 2023-01-06 | 2023-03-30 |
 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 | 2022-11-23 |  |
+| [Amateur](https://open.spotify.com/track/51FT4yWCl91S04PJz8Oxeu) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Amateur](https://open.spotify.com/album/5Nd5bGBcXkr0hcgu59w3QF) | 6:11 | 2023-04-07 |  |
 | [Angel 1](https://open.spotify.com/track/32uzMvtg0JKDKZzg6KhHoZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Angel 1](https://open.spotify.com/album/0omfFup8BUBLpflIPlo4gz) | 5:46 | 2022-11-23 | 2023-03-11 |
 | [Anytime](https://open.spotify.com/track/71kWlO1RX3LoRTrIJgbDwA) | [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Anytime](https://open.spotify.com/album/0t27wEKOc7V1RKMRQUemPE) | 6:05 | 2022-11-23 | 2023-01-20 |
 | [Apollo](https://open.spotify.com/track/1LpdgDzDKRbHAGOhD3niGE) | [Local Dialect](https://open.spotify.com/artist/1dFKuU0lKJNg27s2LKLZ2j) | [Apollo](https://open.spotify.com/album/4OgrRzm4w3w6Brborvb1HC) | 4:50 | 2023-04-07 |  |
@@ -214,7 +215,7 @@
 | [Under Pressure](https://open.spotify.com/track/7q887Wj7xbhsSKhHct5xKM) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Ben Samama](https://open.spotify.com/artist/3MICPvsOVZdedC4KnDT0S4) | [Under Pressure](https://open.spotify.com/album/22RgvmuvHeXfiXozVioC2Q) | 3:15 | 2022-12-28 | 2023-01-06 |
 | [Under the Sun](https://open.spotify.com/track/32v7oXsd2S8XcZoPGO488S) | [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Under the Sun EP](https://open.spotify.com/album/18UianFgcKByeelb2c1lWN) | 6:15 | 2022-11-23 | 2022-12-06 |
 | [Urania](https://open.spotify.com/track/7CseRpXoi90Zv4Vyd7JQH4) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA), [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Urania](https://open.spotify.com/album/6HNtAXj6JDQbfQeKPzTcYR) | 7:25 | 2022-11-23 | 2022-11-29 |
-| [VENTURE X](https://open.spotify.com/track/0mQtwNheJ0cYQa0gtHUNjf) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8), [Christian Schottstaedt](https://open.spotify.com/artist/0oGP4H2formfW2tlpVLR5s) | [VENTURE X](https://open.spotify.com/album/0AkfYq4M6Gvq1Bn6h8ZxBN) | 3:46 | 2023-01-27 |  |
+| [VENTURE X](https://open.spotify.com/track/0mQtwNheJ0cYQa0gtHUNjf) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8), [Christian Schottstaedt](https://open.spotify.com/artist/0oGP4H2formfW2tlpVLR5s) | [VENTURE X](https://open.spotify.com/album/0AkfYq4M6Gvq1Bn6h8ZxBN) | 3:46 | 2023-01-27 | 2023-04-19 |
 | [Virgo](https://open.spotify.com/track/1OgmO9reLha6OiQ8PwMCz7) | [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl), [Vomee](https://open.spotify.com/artist/7AoYKqkWmyz20OmuMC8OeS) | [Talisman](https://open.spotify.com/album/0Dnvoqw5glxqd4uVVDA0cy) | 7:54 | 2022-11-23 | 2022-12-13 |
 | [Visions](https://open.spotify.com/track/5VIq3oZVMJHTweE1UWwnH7) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Visions](https://open.spotify.com/album/1D7pNSIEWuXR9hI0kKHWaZ) | 6:04 | 2023-02-04 | 2023-02-13 |
 | [Voices](https://open.spotify.com/track/6o2SK2MyeOBoqvSA6iAY2a) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS) | [Voices](https://open.spotify.com/album/52gQRKXJIoJbQoA49NzSiL) | 3:03 | 2022-12-09 | 2023-02-08 |

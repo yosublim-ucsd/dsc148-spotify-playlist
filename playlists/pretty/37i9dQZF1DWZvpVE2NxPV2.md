@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 
 > Peaceful ambient for mind body connection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,489 likes - 125 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,612 likes - 125 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 | 64 | [Ancient Prayer](https://open.spotify.com/track/23c2OduSVIcipPMd9q00Fi) | [Aura Lynx](https://open.spotify.com/artist/44mPTx3kx8S0Qj5SyliYIK) | [Ancient Prayer](https://open.spotify.com/album/3LE4gWyOF5hlKHKDaVJUTA) | 2:56 |
 | 65 | [Ida](https://open.spotify.com/track/7GkIuSUwvTdG4JoEI7FeJ8) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Earth Child](https://open.spotify.com/album/249FX3lkU1NYoKA43AeA1p) | 4:00 |
 | 66 | [Under The Stars](https://open.spotify.com/track/4Of88D8hTYCzBYt3ristkb) | [Meridiniella](https://open.spotify.com/artist/21Kjl0iOx81jLDXgrXB6JR) | [Under The Stars](https://open.spotify.com/album/10bvzV9BiIos41H2Mv2p30) | 2:35 |
-| 67 | [Aspettami](https://open.spotify.com/track/59TaH0JXyu19Xt01RTF4DF) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Aspettami](https://open.spotify.com/album/3lZaYQwsHHK9Y4o0hdD80r) | 2:05 |
+| 67 | [Aspettami](https://open.spotify.com/track/06eKIv3GcoevTNVVyldzWw) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Aspettami](https://open.spotify.com/album/0M7H8emADLzJH0cEOJ0zSB) | 2:05 |
 | 68 | [Breathe](https://open.spotify.com/track/30iFs745w3sWOU8HSCcvrQ) | [Reiki Akoya](https://open.spotify.com/artist/0VYt8sIrhLaI1J5XBw4Ez5) | [Breathe](https://open.spotify.com/album/2gyvkLTdR9Vo0mFwNJTuNQ) | 3:10 |
 | 69 | [Om 432](https://open.spotify.com/track/4szL2rd05eMqb7vD27m6LK) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Om 432](https://open.spotify.com/album/7eDW71RjIS8WcDN79v4qE1) | 3:04 |
 | 70 | [Shimmering](https://open.spotify.com/track/3Cpr7knrKsxYkHACC74ABs) | [Abril Vann](https://open.spotify.com/artist/0WKB9DQYiXnaZrBL50nWkR) | [Shimmering](https://open.spotify.com/album/6K7IZkZH0CnnEE7WLMlj5d) | 2:26 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 | 124 | [Fragility](https://open.spotify.com/track/76PJSFCBGkVazJvMcE3Uyi) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [Fragility](https://open.spotify.com/album/5xoJiIPUG9kVH5HoQiKRb6) | 2:28 |
 | 125 | [Descendent](https://open.spotify.com/track/1WQU9B3hbamPd5uRsQuDEZ) | [The Thing About Noise](https://open.spotify.com/artist/3YDqHBcfFRqJ136NsrFyYa) | [Texture](https://open.spotify.com/album/5WDvrrJdqAhIRh97925mPe) | 3:06 |
 
-Snapshot ID: `MTY3MzU2MTY0NiwwMDAwMDAwMDNkZGQxZThjMDNhZmJiZjMzZWEyMzZiNTIwM2Q2MmI2`
+Snapshot ID: `MTY3MzU2MTY0NiwwMDAwMDAwMDVhOWM5MjJmZDljYjRjNWQ4ODMyYzYwNDRlMmM0OWU5`

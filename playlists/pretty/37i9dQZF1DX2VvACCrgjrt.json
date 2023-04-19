@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: Habstrakt",
-  "num_followers": 419823,
+  "num_followers": 419935,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg3ODEwMCwwMDAwMDAwMDYwMWNiZTRjZjc0Mzc5MjQzYmU4N2YyNWU4MTE2YjQx",
+  "snapshot_id": "MTY4MDg3ODEwMCwwMDAwMDAwMGEwYmZkOWU1NmZkMTc0YzVkNTFkM2VjYWFmYmU2ODIw",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Bassline Rumble",
-        "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 175969,
-      "name": "Bassline Rumble",
-      "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Set The Tempo (feat. HQA)",
         "url": "https://open.spotify.com/album/5zPcj2i8Xt2JFA5zuK3NiN"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 183434,
       "name": "Set The Tempo (feat. HQA)",
       "url": "https://open.spotify.com/track/4Fw9pEVsvkpwyIHoVKJ6yI"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Bassline Rumble",
+        "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 175969,
+      "name": "Bassline Rumble",
+      "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Rage",
+        "url": "https://open.spotify.com/album/21JEOvsMFfHCEhAq2YKxYq"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/3bTjVR73jjv8ifAYbpohUe"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Left & Right (BYOR Remix)",
         "url": "https://open.spotify.com/album/4hAi4Tlk2KrSplJ37ISIDx"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 142857,
       "name": "Left & Right (BYOR Remix)",
       "url": "https://open.spotify.com/track/0EWcOrTwNENx13HuPuFznq"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Rage",
-        "url": "https://open.spotify.com/album/21JEOvsMFfHCEhAq2YKxYq"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "Rage",
-      "url": "https://open.spotify.com/track/3bTjVR73jjv8ifAYbpohUe"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Direct Me",
-        "url": "https://open.spotify.com/album/7uqYxUvL2HPVg2aFLGFUAy"
-      },
-      "artists": [
-        {
-          "name": "Rony Rex",
-          "url": "https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4"
-        },
-        {
-          "name": "TT The Artist",
-          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
-        }
-      ],
-      "duration_ms": 232610,
-      "name": "Direct Me",
-      "url": "https://open.spotify.com/track/1Phj6A6sGPghCKkHHR7WvC"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "La Guitarra",
         "url": "https://open.spotify.com/album/4KBdjN4l1BQ54gd5m9MM9L"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 169523,
       "name": "La Guitarra",
       "url": "https://open.spotify.com/track/6G6gv3EH3kWjm35x6tcsOF"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Direct Me",
+        "url": "https://open.spotify.com/album/7uqYxUvL2HPVg2aFLGFUAy"
+      },
+      "artists": [
+        {
+          "name": "Rony Rex",
+          "url": "https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4"
+        },
+        {
+          "name": "TT The Artist",
+          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+        }
+      ],
+      "duration_ms": 232610,
+      "name": "Direct Me",
+      "url": "https://open.spotify.com/track/1Phj6A6sGPghCKkHHR7WvC"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1401,7 +1401,7 @@
       "url": "https://open.spotify.com/track/34UqmMwF7IEGAm9qLo0Loc"
     },
     {
-      "added_at": "2023-04-18 00:54:56",
+      "added_at": "2023-04-19 00:52:32",
       "album": {
         "name": "No Drama",
         "url": "https://open.spotify.com/album/1CUAAq1mV9BlDgWJblzksq"
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "4Ever",
-        "url": "https://open.spotify.com/album/7pHLVCS4BQLtKLgMeX57Ib"
-      },
-      "artists": [
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "4Ever",
-      "url": "https://open.spotify.com/track/5ZB6eNIi1eeF3QJ7T69exd"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Funky Sound",
         "url": "https://open.spotify.com/album/49PKyqHw17jBNcTUaLlafR"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 139921,
       "name": "Funky Sound",
       "url": "https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "4Ever",
+        "url": "https://open.spotify.com/album/7pHLVCS4BQLtKLgMeX57Ib"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "4Ever",
+      "url": "https://open.spotify.com/track/5ZB6eNIi1eeF3QJ7T69exd"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Glimpse",
-        "url": "https://open.spotify.com/album/07dEI97wIBVVH9KGpacP0m"
-      },
-      "artists": [
-        {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Glimpse",
-      "url": "https://open.spotify.com/track/5AbJc4S4TOtSKQL6NLzBIm"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Who U With",
         "url": "https://open.spotify.com/album/5Lfgd5wGgdP6jHaYlkWhVY"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 161574,
       "name": "Who U With (feat. Killa Kela)",
       "url": "https://open.spotify.com/track/7HKsIwDpv9CqbXRkkMVkYU"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Glimpse",
+        "url": "https://open.spotify.com/album/07dEI97wIBVVH9KGpacP0m"
+      },
+      "artists": [
+        {
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Glimpse",
+      "url": "https://open.spotify.com/track/5AbJc4S4TOtSKQL6NLzBIm"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1621,7 +1621,7 @@
       "url": "https://open.spotify.com/track/4Gc2dQj8FdnJzB6VZCKKF1"
     },
     {
-      "added_at": "2023-04-18 00:54:56",
+      "added_at": "2023-04-19 00:52:32",
       "album": {
         "name": "Stop Looking (ft. Amy Miyu)",
         "url": "https://open.spotify.com/album/5zE5inTXdQH9yPRYvuiGDV"
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Rumble Slow (StereoKilla Remix)",
-        "url": "https://open.spotify.com/album/5QySCEHPgrnu9BXuH0qama"
-      },
-      "artists": [
-        {
-          "name": "Dada Life",
-          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
-        },
-        {
-          "name": "StereoKilla",
-          "url": "https://open.spotify.com/artist/3IxxRIBaCq3pXjxfS7CODy"
-        }
-      ],
-      "duration_ms": 141120,
-      "name": "Rumble Slow - StereoKilla Remix",
-      "url": "https://open.spotify.com/track/3YF5YQbHoUYzyAxuSz6S6U"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Trinity",
         "url": "https://open.spotify.com/album/0njFQTnCxfqVFWJh14Ptfd"
       },
@@ -1779,6 +1759,26 @@
       "duration_ms": 184285,
       "name": "Burned",
       "url": "https://open.spotify.com/track/1lCSVEqFldH6cTMnm28M8k"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Rumble Slow (StereoKilla Remix)",
+        "url": "https://open.spotify.com/album/5QySCEHPgrnu9BXuH0qama"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        },
+        {
+          "name": "StereoKilla",
+          "url": "https://open.spotify.com/artist/3IxxRIBaCq3pXjxfS7CODy"
+        }
+      ],
+      "duration_ms": 141120,
+      "name": "Rumble Slow - StereoKilla Remix",
+      "url": "https://open.spotify.com/track/3YF5YQbHoUYzyAxuSz6S6U"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Hypnotic",
+        "url": "https://open.spotify.com/album/4CjGRwcpGLP95cEmCkDHFE"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "duration_ms": 253333,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/4P3WY1qYtJ0JcMHHm0bpvB"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Wat U Want",
         "url": "https://open.spotify.com/album/6i0zG01d98dJPcq6EuFNoi"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 144035,
       "name": "Wat U Want",
       "url": "https://open.spotify.com/track/06mJKi1dNqdCOSz89Z8wNv"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "Hypnotic",
-        "url": "https://open.spotify.com/album/4CjGRwcpGLP95cEmCkDHFE"
-      },
-      "artists": [
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        }
-      ],
-      "duration_ms": 253333,
-      "name": "Hypnotic",
-      "url": "https://open.spotify.com/track/4P3WY1qYtJ0JcMHHm0bpvB"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "4 The Love",
+        "url": "https://open.spotify.com/album/1VVeContseVgaxemdjoSDM"
+      },
+      "artists": [
+        {
+          "name": "Neon Steve",
+          "url": "https://open.spotify.com/artist/1CNO980Lk9CaBWBnM1MZXi"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "4 The Love",
+      "url": "https://open.spotify.com/track/3CQmrKyNKHknCGUnEpm7Al"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Blow / Moving",
         "url": "https://open.spotify.com/album/3C6IMkUGDNmTkmgnBzABrV"
       },
@@ -2023,18 +2039,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "4 The Love",
-        "url": "https://open.spotify.com/album/1VVeContseVgaxemdjoSDM"
+        "name": "B.T.H.D (Bring The House Down)",
+        "url": "https://open.spotify.com/album/3G3tu0CoisV0m8QlE1MXu6"
       },
       "artists": [
         {
-          "name": "Neon Steve",
-          "url": "https://open.spotify.com/artist/1CNO980Lk9CaBWBnM1MZXi"
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
         }
       ],
-      "duration_ms": 188571,
-      "name": "4 The Love",
-      "url": "https://open.spotify.com/track/3CQmrKyNKHknCGUnEpm7Al"
+      "duration_ms": 220800,
+      "name": "B.T.H.D (Bring The House Down)",
+      "url": "https://open.spotify.com/track/6d39vg2NYSYH584ioqev75"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -2059,22 +2075,6 @@
       "duration_ms": 170040,
       "name": "Push It",
       "url": "https://open.spotify.com/track/0QUVjsIqKTRkV76T59rCMM"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "B.T.H.D (Bring The House Down)",
-        "url": "https://open.spotify.com/album/3G3tu0CoisV0m8QlE1MXu6"
-      },
-      "artists": [
-        {
-          "name": "Wenzday",
-          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "B.T.H.D (Bring The House Down)",
-      "url": "https://open.spotify.com/track/6d39vg2NYSYH584ioqev75"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "High Status",
-        "url": "https://open.spotify.com/album/0aaZ9Zv1g3bz8kxPHpRY5G"
-      },
-      "artists": [
-        {
-          "name": "ALRT",
-          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
-        }
-      ],
-      "duration_ms": 184560,
-      "name": "High Status",
-      "url": "https://open.spotify.com/track/0bxftpLWSoYLPmx6ydcyWK"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Too Good",
         "url": "https://open.spotify.com/album/2UV3Z1R9RSMYS6IJ4Nnt74"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 218709,
       "name": "Get It",
       "url": "https://open.spotify.com/track/4fF0io7XLVOSx5TD8DDMpc"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "High Status",
+        "url": "https://open.spotify.com/album/0aaZ9Zv1g3bz8kxPHpRY5G"
+      },
+      "artists": [
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        }
+      ],
+      "duration_ms": 184560,
+      "name": "High Status",
+      "url": "https://open.spotify.com/track/0bxftpLWSoYLPmx6ydcyWK"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -2331,34 +2331,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Non Stop",
-        "url": "https://open.spotify.com/album/4fNaGRwWUfJfRoalFeUx9w"
-      },
-      "artists": [
-        {
-          "name": "401 WST",
-          "url": "https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ"
-        },
-        {
-          "name": "Not The Father",
-          "url": "https://open.spotify.com/artist/2RGCVHkfmLPJcZVrPBsvY0"
-        },
-        {
-          "name": "Ashton Adams",
-          "url": "https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X"
-        },
-        {
-          "name": "4Korners",
-          "url": "https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab"
-        }
-      ],
-      "duration_ms": 169820,
-      "name": "Non Stop",
-      "url": "https://open.spotify.com/track/2xy4ECURFO8CRs6mrDft7e"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Feeling under Pressure",
         "url": "https://open.spotify.com/album/1OW3rBusYWKe9oWJ5BRccS"
       },
@@ -2371,6 +2343,26 @@
       "duration_ms": 173208,
       "name": "Feeling Under Pressure",
       "url": "https://open.spotify.com/track/3DX8LKpJpOXEyNsS2NICrO"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Bad Things",
+        "url": "https://open.spotify.com/album/2S6zhG10NHbiK5F5pkoQoz"
+      },
+      "artists": [
+        {
+          "name": "Not The Father",
+          "url": "https://open.spotify.com/artist/2RGCVHkfmLPJcZVrPBsvY0"
+        },
+        {
+          "name": "Fox'd",
+          "url": "https://open.spotify.com/artist/5AyexHM8AroaTVBLFEKiKS"
+        }
+      ],
+      "duration_ms": 168557,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/3DyZ2YzyCsfF5BPocC8bDv"
     }
   ],
   "unique_name": "Nasty Bits",

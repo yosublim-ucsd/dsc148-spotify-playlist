@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-542 songs - 2 day 2 hr 55 min
+543 songs - 2 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Archetype Arcadian](https://open.spotify.com/track/4pmjxHfFxfJeXh2XdkXm8s) | [Link](https://open.spotify.com/artist/0R5oB9foCWAcICIWJBcCS4) | [The Theory of Evolution](https://open.spotify.com/album/7Ackor6DkpwV3p4y7oVtma) | 4:36 | 2022-04-13 | 2022-07-27 |
 | [As Worldly Pleasures Wave Goodbye….](https://open.spotify.com/track/06Wawsa8T4RYApPQ1Hs8kP) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Stay Down](https://open.spotify.com/album/6UUJq06fTAr9H7xLiE1VFS) | 5:37 | 2022-04-13 |  |
 | [As Worldly Pleasures Wave Goodbye….](https://open.spotify.com/track/4zbvzcIA4eay0nmOPbh3Ie) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Stay Down](https://open.spotify.com/album/47MAHFdX4iwu0pYo7VRDWO) | 5:37 | 2022-04-13 | 2023-02-03 |
-| [Ausland](https://open.spotify.com/track/5kvTLh8mq7wvJagpebHWpv) | [Gimmik](https://open.spotify.com/artist/3FJQ5pXR8QMsR9zzzLk09T) | [Rythmus der stadt](https://open.spotify.com/album/0EuEenMR5E3l1XNXjZZEAL) | 4:57 | 2022-04-13 |  |
+| [Ausland](https://open.spotify.com/track/5kvTLh8mq7wvJagpebHWpv) | [Gimmik](https://open.spotify.com/artist/3FJQ5pXR8QMsR9zzzLk09T) | [Rythmus der stadt](https://open.spotify.com/album/0EuEenMR5E3l1XNXjZZEAL) | 4:57 | 2022-04-13 | 2023-04-19 |
 | [Auto Pimp](https://open.spotify.com/track/1skSNwcAgE7R2cLWAHhuSH) | [Amorphous Androgynous](https://open.spotify.com/artist/1edIQYI7l4FMeYwq6fNAZQ) | [Tales Of Ephidrina](https://open.spotify.com/album/4SNliyiumphhCLF7mPnAaJ) | 7:20 | 2022-04-13 | 2023-02-11 |
 | [Back Into Time](https://open.spotify.com/track/5ivAHEDlmAzlf8dpP3ahYx) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [A Word Of Science](https://open.spotify.com/album/1EouHA01DrBfKSqQAIWVA9) | 4:39 | 2022-04-13 | 2022-07-29 |
 | [Bad Means Good](https://open.spotify.com/track/3KTvWdWeYYh9S82FJZA0o2) | [Clatterbox](https://open.spotify.com/artist/03Pkv50pMB8ZendhJtTdgH) | [Debut](https://open.spotify.com/album/4rZMoMR4RA5CFWdwAYbDMo) | 2:24 | 2022-04-13 |  |
@@ -65,6 +65,7 @@
 | [Bike Pump Meets Bucket](https://open.spotify.com/track/0ZM1s0QFLfgTeA3mgFUQyD) | [Polygon Window](https://open.spotify.com/artist/1A6LF8jYHkaRro5x8JRT2w) | [Quoth](https://open.spotify.com/album/5Cc1mICkrUZCB7TdDUKoYw) | 5:59 | 2022-04-13 | 2023-02-03 |
 | [Bike Pump Meets Bucket](https://open.spotify.com/track/2rqDZIpxVFhkriNBKf4EAS) | [Polygon Window](https://open.spotify.com/artist/1A6LF8jYHkaRro5x8JRT2w) | [Quoth](https://open.spotify.com/album/4F83Th71IEwecavhxGFGzN) | 5:59 | 2022-04-13 |  |
 | [Bilal](https://open.spotify.com/track/0yms3lg4ZY0X9LRw2KYR4Q) | [Our Souls Are In The Hands Of The Translator](https://open.spotify.com/artist/1Vd0oMVgE3MnpLNUGrUdE3) | [sɪŋkrɪtɪzəm](https://open.spotify.com/album/0yuIv5IjLABnN9A5AiiMzU) | 10:36 | 2022-04-13 | 2022-07-27 |
+| [Bio Dimension](https://open.spotify.com/track/53tcojVMxLLiIaNSeypJb5) | [B12](https://open.spotify.com/artist/66I0uUVKgpOPlEjTiy87nm) | [Electro\-Soma](https://open.spotify.com/album/0nFZszbiABmJPifD2zKwna) | 5:53 | 2022-04-13 |  |
 | [Bio Dimension](https://open.spotify.com/track/4sClp5hEcHnVutrGwQt1Gi) | [B12](https://open.spotify.com/artist/66I0uUVKgpOPlEjTiy87nm) | [Electro\-Soma](https://open.spotify.com/album/4qDcCVpOsd8V4MsmqZrPr1) | 5:54 | 2022-04-13 | 2023-02-02 |
 | [bladelores](https://open.spotify.com/track/0z5NOndJF0DHq6GizOZjUT) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Exai](https://open.spotify.com/album/0vczEfoTXdjFAERCLMrc0Z) | 12:19 | 2022-04-13 | 2022-07-29 |
 | [Blex](https://open.spotify.com/track/6RSrAhscve7ZspKVGqqGf2) | [Funckarma](https://open.spotify.com/artist/0Q2lYLp53K9LwFyEHWtrIu) | [Solid State](https://open.spotify.com/album/4QjaLiGKavv1vJ4UXv2OMS) | 6:42 | 2022-04-13 | 2022-07-11 |
@@ -104,7 +105,7 @@
 | [Crisps](https://open.spotify.com/track/2svAObqaVuiiAFhkLhK28n) | [Wishmountain](https://open.spotify.com/artist/3OTxAJPE5mwEIB3zRujYcW) | [Wishmountain Is Dead](https://open.spotify.com/album/3ur1k6eVDcfVFPmCRk99Sg) | 3:42 | 2022-04-13 | 2022-07-28 |
 | [Crisps](https://open.spotify.com/track/2gw8zczXVPoJcaod6jtEEH) | [Wishmountain](https://open.spotify.com/artist/3OTxAJPE5mwEIB3zRujYcW), [Matthew Herbert](https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp) | [Wishmountain Is Dead](https://open.spotify.com/album/6hfzDAdNLZ24QE3xDi9FM1) | 3:42 | 2022-04-13 | 2022-11-09 |
 | [Crystel](https://open.spotify.com/track/2rhy8BNOlmZAXtdw0Mmyic) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Artificial Intelligence](https://open.spotify.com/album/34aK04FrYZGC4SMS3WEPIi) | 4:37 | 2022-04-13 | 2023-02-02 |
-| [Currents \(220v Offshore\)](https://open.spotify.com/track/6zLlgYu7XKtDuOpVHRCyUp) | [Phonem](https://open.spotify.com/artist/7pjUq7YNrqJ4uZxHxsC3kR) | [Hydro Electric](https://open.spotify.com/album/1pVSeZjL46FibWZuOSM2XC) | 6:48 | 2022-04-13 | 2023-04-18 |
+| [Currents \(220v Offshore\)](https://open.spotify.com/track/6zLlgYu7XKtDuOpVHRCyUp) | [Phonem](https://open.spotify.com/artist/7pjUq7YNrqJ4uZxHxsC3kR) | [Hydro Electric](https://open.spotify.com/album/1pVSeZjL46FibWZuOSM2XC) | 6:48 | 2022-04-13 |  |
 | [Cyclic Sun](https://open.spotify.com/track/3SuQSBZYRzwzmKJgP3bUK1) | [Africa HiTech](https://open.spotify.com/artist/0NwdePm5jeQAtYt7dyFVEu) | [93 Million Miles](https://open.spotify.com/album/2eU2JKfw6eLmOuClVCpTe5) | 4:42 | 2022-04-13 | 2022-07-29 |
 | [Dancers](https://open.spotify.com/track/258BvHGOVi8YbchiORbR52) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Polymer](https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA) | 5:00 | 2022-04-13 |  |
 | [Dancers](https://open.spotify.com/track/7bK8aDZrDPmvMHjMve0u6B) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Polymer](https://open.spotify.com/album/5QuV9YWaHQVSQZekh3VMe3) | 5:00 | 2022-04-13 | 2023-02-02 |
@@ -231,7 +232,7 @@
 | [In Mind \- Reload Remix \(The 147 Take\)](https://open.spotify.com/track/2UxQ9A2rZBGOBMdzzDm7re) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF), [Tom Middleton](https://open.spotify.com/artist/7KygebVvltzvrQxNnukuFT), [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Souvlaki](https://open.spotify.com/album/4i21O3uVh5palcfFhCjlT7) | 10:27 | 2022-04-13 |  |
 | [Ink Cloud](https://open.spotify.com/track/0TdG93DbHk8rQwZ6b3Zuag) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Stay Down](https://open.spotify.com/album/47MAHFdX4iwu0pYo7VRDWO) | 3:54 | 2022-04-13 | 2023-02-02 |
 | [Ink Cloud](https://open.spotify.com/track/0eWfkZg1S9oFRCTnWBOjOa) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Stay Down](https://open.spotify.com/album/6UUJq06fTAr9H7xLiE1VFS) | 3:54 | 2022-04-13 |  |
-| [Internal Empire](https://open.spotify.com/track/3T56ZKh67ocC581FkIo79h) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Internal Empire](https://open.spotify.com/album/3BAreUFH92qmT2GzZX7AWN) | 3:22 | 2022-04-13 |  |
+| [Internal Empire](https://open.spotify.com/track/3T56ZKh67ocC581FkIo79h) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Internal Empire](https://open.spotify.com/album/3BAreUFH92qmT2GzZX7AWN) | 3:22 | 2022-04-13 | 2023-04-19 |
 | [Internal Empire](https://open.spotify.com/track/3Wpvq2ai5KAjVDSae6y7UP) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Internal Empire](https://open.spotify.com/album/1cxnfaTwhRSEVJaEYIrFJc) | 3:22 | 2022-04-13 | 2022-07-24 |
 | [Into The Paradise](https://open.spotify.com/track/2wz0Gq4o6KrmcnwQsb5EEK) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Strange Cargo III](https://open.spotify.com/album/2tdJzRmoFwJME9skwrPGew) | 5:41 | 2022-04-13 | 2022-07-29 |
 | [Into The Paradise](https://open.spotify.com/track/2H5rJao0GsQydSv3s7ktPI) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl) | [Strange Cargo 3](https://open.spotify.com/album/2jVaMMczB9Yurx55r4FoRw) | 5:41 | 2022-04-13 |  |

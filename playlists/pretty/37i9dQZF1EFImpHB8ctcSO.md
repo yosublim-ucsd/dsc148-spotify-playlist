@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3PDg3S0MIP0ktidASSh27r">Aimee Mann</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289 likes - 170 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 290 likes - 170 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 67 | [4th Of July](https://open.spotify.com/track/3khDK8qYSpNI5ssxhsTlfH) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 3:21 |
 | 68 | [Calling On Mary](https://open.spotify.com/track/7DUU04qtYVzkwhygGPvYOU) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [One More Drifter in the Snow](https://open.spotify.com/album/5HG425mpvfjpIQcbaKkhQl) | 4:02 |
 | 69 | [Real Bad News](https://open.spotify.com/track/2098UfrA6DC6aXZdmWWecs) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Lost In Space](https://open.spotify.com/album/3VZOBiBhvorYqNcyG7NW7L) | 3:53 |
-| 70 | [Dear John](https://open.spotify.com/track/7BpQc9EFY8qj06aKcDOpki) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:07 |
-| 71 | [Susan](https://open.spotify.com/track/4tclDXC0IYjaFz1OB8Euqm) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Bachelor No\. 2 \(Or, The Last Remains of the Dodo\)](https://open.spotify.com/album/2oAh7vprZx8iSqoyNxQASX) | 3:51 |
+| 70 | [Susan](https://open.spotify.com/track/4tclDXC0IYjaFz1OB8Euqm) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Bachelor No\. 2 \(Or, The Last Remains of the Dodo\)](https://open.spotify.com/album/2oAh7vprZx8iSqoyNxQASX) | 3:51 |
+| 71 | [Dear John](https://open.spotify.com/track/7BpQc9EFY8qj06aKcDOpki) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:07 |
 | 72 | [It's Over](https://open.spotify.com/track/7d1E2TWy25iE21IJ2xYBRp) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 3:58 |
 | 73 | [Goodbye Caroline](https://open.spotify.com/track/5aABtI9bsAwnDGMHUntGYJ) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:53 |
 | 74 | [I Could Get Used to This](https://open.spotify.com/track/6qskiiPakXAiR3j0T6YLfv) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 3:04 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 86 | [No More Crying](https://open.spotify.com/track/1wUpTyNv2aA4r8TR3RIviG) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:21 |
 | 87 | [Don't Watch Me Bleed](https://open.spotify.com/track/7aoVLav5YuqmAyd5PnEX5z) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 3:30 |
 | 88 | [Slip and Roll](https://open.spotify.com/track/2EKO7UUCBX6pJ6eJsCB5hq) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 4:12 |
-| 89 | [On Sunday](https://open.spotify.com/track/6dF9Wo5OZCt3XSftms3kly) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Welcome Home](https://open.spotify.com/album/3HiUlOjCrUd9ATG6uHyPI7) | 4:07 |
-| 90 | [Looking Over My Shoulder](https://open.spotify.com/track/6cKVs98HYwa4yNqx8I6lFT) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:17 |
+| 89 | [Looking Over My Shoulder](https://open.spotify.com/track/6cKVs98HYwa4yNqx8I6lFT) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:17 |
+| 90 | [On Sunday](https://open.spotify.com/track/6dF9Wo5OZCt3XSftms3kly) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Welcome Home](https://open.spotify.com/album/3HiUlOjCrUd9ATG6uHyPI7) | 4:07 |
 | 91 | [You Know the Rest](https://open.spotify.com/track/6NYLA2KwGP6vyUqzBsZqzt) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 4:28 |
 | 92 | [Columbus Avenue](https://open.spotify.com/track/3qQ122W9BSN2HOyCal7Mx7) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [@\#%&\*! Smilers](https://open.spotify.com/album/6ZcgBk8cqbcQyZCW7B8sW2) | 4:06 |
 | 93 | [Gumby](https://open.spotify.com/track/1aQiwKYKIoQaCuMgBPfAoU) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Charmer](https://open.spotify.com/album/0FAifNXe3C8AHqTe25ggcg) | 2:53 |
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 118 | [Fifty Years After The Fair](https://open.spotify.com/track/1PtPLZwKIWc3KpNiBQOvJh) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 3:46 |
 | 119 | [Frankenstein](https://open.spotify.com/track/4NTC8Vl47iP11roKNvli1S) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 4:28 |
 | 120 | [I've Had It](https://open.spotify.com/track/2CNOwPFCmJ5HS8BQf1DuRX) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 4:42 |
-| 121 | [Superball](https://open.spotify.com/track/4M8JGLfwnj1yozmi02tdvH) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 3:05 |
-| 122 | [Little Chameleon](https://open.spotify.com/track/3ZKsR5fjkWVXpju8DGROUW) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 1:44 |
+| 121 | [Little Chameleon](https://open.spotify.com/track/3ZKsR5fjkWVXpju8DGROUW) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 1:44 |
+| 122 | [Superball](https://open.spotify.com/track/4M8JGLfwnj1yozmi02tdvH) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 3:05 |
 | 123 | [All Over Now](https://open.spotify.com/track/40dx7WB6BNF47h7YIEmJq2) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 4:02 |
 | 124 | [You Don't Have the Room](https://open.spotify.com/track/5AXqkpZaDcwQYKx32jxkNB) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 4:06 |
 | 125 | [No One Is Watching You Now](https://open.spotify.com/track/1ko1dRz3L0wj0AWqsoCbQ1) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Welcome Home](https://open.spotify.com/album/3HiUlOjCrUd9ATG6uHyPI7) | 3:53 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `MjgwMjk2MDQsMDAwMDAwMDBlZWZlNjM0OTMwNjMxZmMzYTFlMWM5YzFiMWRmMWI4ZQ==`
+Snapshot ID: `MjgwMzEwNDQsMDAwMDAwMDBlMjU5YWM3N2RmODU4N2FiZTY4MmM4ZDg5YzEyNjc3ZQ==`

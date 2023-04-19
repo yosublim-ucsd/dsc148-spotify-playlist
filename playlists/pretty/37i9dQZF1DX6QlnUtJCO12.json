@@ -1,12 +1,12 @@
 {
   "description": "Discover Trinidad & Tobago's rich musical history with these traditional Calypso tunes.",
-  "num_followers": 33473,
+  "num_followers": 33537,
   "original_name": "Caribbean Calypso",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTE5MDM1MCwwMDAwMDAwMGM5MDM3NGIzMzg2YzRhOGNhYjI1NGY4OTVlZWUxYWFm",
+  "snapshot_id": "MTYxOTE5MDM1MCwwMDAwMDAwMGU1ZGI5ZjZkNDFjMzE0NzliMzM4NzQwNWVlZDQ4ZWI0",
   "tracks": [
     {
       "added_at": "2021-04-23 15:05:50",
@@ -327,22 +327,6 @@
     {
       "added_at": "2021-04-23 15:05:50",
       "album": {
-        "name": "Muriel's Treasure, Vol. 3: Vintage Calypso from the 1950s & 1960s",
-        "url": "https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX"
-      },
-      "artists": [
-        {
-          "name": "Black Czar",
-          "url": "https://open.spotify.com/artist/5F5nVgncAcSaCEmtrJQRcn"
-        }
-      ],
-      "duration_ms": 174325,
-      "name": "Bamboo Dance",
-      "url": "https://open.spotify.com/track/2HExVDuofulaTYOEKqBo4c"
-    },
-    {
-      "added_at": "2021-04-23 15:05:50",
-      "album": {
         "name": "Calypso - Best of Trinidad",
         "url": "https://open.spotify.com/album/7IS3bwe2NcqaZBePqAWecb"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 161960,
       "name": "Mathilda",
       "url": "https://open.spotify.com/track/58QM6vTydk6LzncOy6EyVX"
+    },
+    {
+      "added_at": "2021-04-23 15:05:50",
+      "album": {
+        "name": "Muriel's Treasure, Vol. 3: Vintage Calypso from the 1950s & 1960s",
+        "url": "https://open.spotify.com/album/1q2ALrnbfYsMdbNAhKPpPX"
+      },
+      "artists": [
+        {
+          "name": "Black Czar",
+          "url": "https://open.spotify.com/artist/5F5nVgncAcSaCEmtrJQRcn"
+        }
+      ],
+      "duration_ms": 174325,
+      "name": "Bamboo Dance",
+      "url": "https://open.spotify.com/track/2HExVDuofulaTYOEKqBo4c"
     },
     {
       "added_at": "2021-04-23 15:05:50",

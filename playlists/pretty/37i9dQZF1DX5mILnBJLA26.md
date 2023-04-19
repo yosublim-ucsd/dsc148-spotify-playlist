@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV?si=ENdEQvTgSRy\_h1e6MKFsqQ">Felo Le Tee</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,704 likes - 50 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,681 likes - 50 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 44 | [Blue String](https://open.spotify.com/track/3lWrCS93Zib7rCBLZOWAt7) | [Senjay](https://open.spotify.com/artist/1efM4QfrpfuBitDEQg5p26), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Josiah De Disciple](https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte) | [Blue String](https://open.spotify.com/album/3y0EFfPbSpXt9PSU4zqB05) | 7:00 |
 | 45 | [Duck Vibes](https://open.spotify.com/track/1i4YkTmnDNDpXSdDRlsEHz) | [Vibekulture Sa](https://open.spotify.com/artist/1nKBsRsdQ7uG99wRtNDMPd), [Mcdeez Fboy](https://open.spotify.com/artist/2yxRzYUynwWwvAOzeKngNk) | [Duck Vibes](https://open.spotify.com/album/1ys3dwAhb5SkESge0hWiUp) | 6:27 |
 | 46 | [Waga Bietjie](https://open.spotify.com/track/6Zt8YY9f4rr7gMJcCPkxbr) | [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Waga Bietjie](https://open.spotify.com/album/2TyOzlPqEocMb1YFTMxF48) | 4:51 |
-| 47 | [yey](https://open.spotify.com/track/37ISMEYWqhRHcPEitHn8Er) | [uLazi](https://open.spotify.com/artist/4XfSBTIyfJdQLhxDrUDU7l), [Infinity MusiQ](https://open.spotify.com/artist/1WYoK8ZzO0j3lSmnNRY5KW) | [Nobody Can Stop Mguzu](https://open.spotify.com/album/0IDIishGUKZXNo4919Oo9P) | 6:21 |
+| 47 | [yey](https://open.spotify.com/track/37ISMEYWqhRHcPEitHn8Er) | [uLazi](https://open.spotify.com/artist/4XfSBTIyfJdQLhxDrUDU7l), [Infinity MusiQ](https://open.spotify.com/artist/1WYoK8ZzO0j3lSmnNRY5KW) | [Nobody Can Stop Mguzu, Vol\. 1](https://open.spotify.com/album/0IDIishGUKZXNo4919Oo9P) | 6:21 |
 | 48 | [Piki Piki](https://open.spotify.com/track/5LDjBTmD7dAd3XXxV63iMv) | [Yumbs](https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH), [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Uncle Vinny](https://open.spotify.com/artist/2W7nPPpIexiZtYUFruBXBD), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4) | [Piki Piki](https://open.spotify.com/album/3bHYgtqBxImoSNNcYnRhtQ) | 4:39 |
 | 49 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 |
 | 50 | [Tetema](https://open.spotify.com/track/5emv0gRnEk4dVXWETqewAC) | [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4) | [Tetema](https://open.spotify.com/album/0ceNIR1fRMz6vRGvccv3eS) | 6:18 |

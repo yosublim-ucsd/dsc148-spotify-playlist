@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.  ",
-  "num_followers": 42609,
+  "num_followers": 42705,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMDQwZjY2ZDQ2OGY3ZWYyMjdkOTFlZmYwM2UwZGQxZThm",
+  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMDg1YzFkMjgzYjEyODdhNjM3N2Q3ZjQyM2VkOGIzNTg2",
   "tracks": [
     {
       "added_at": "2023-04-13 23:00:00",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Floating",
-        "url": "https://open.spotify.com/album/27a2XTCA5vJ63ooZAUZflW"
+        "name": "Nada a Esconder",
+        "url": "https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3"
       },
       "artists": [
         {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
         }
       ],
-      "duration_ms": 186529,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/6mzUqJRO5UzphWpk1en0sb"
+      "duration_ms": 218258,
+      "name": "Nada a Esconder",
+      "url": "https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Nada a Esconder",
-        "url": "https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3"
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/27a2XTCA5vJ63ooZAUZflW"
       },
       "artists": [
         {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
         }
       ],
-      "duration_ms": 218258,
-      "name": "Nada a Esconder",
-      "url": "https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi"
+      "duration_ms": 186529,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/6mzUqJRO5UzphWpk1en0sb"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1215,18 +1215,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Jony Driver",
-        "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
+        "name": "O Re$To",
+        "url": "https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg"
       },
       "artists": [
         {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        },
+        {
+          "name": "DJ HYPE MYKE",
+          "url": "https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch"
         }
       ],
-      "duration_ms": 416500,
-      "name": ".Y",
-      "url": "https://open.spotify.com/track/0zxdVwyiPVxmBkZFTHe2xl"
+      "duration_ms": 304600,
+      "name": "O Re$To",
+      "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1259,22 +1263,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "O Re$To",
-        "url": "https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg"
+        "name": "Jony Driver",
+        "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
       },
       "artists": [
         {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        },
-        {
-          "name": "DJ HYPE MYKE",
-          "url": "https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch"
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
         }
       ],
-      "duration_ms": 304600,
-      "name": "O Re$To",
-      "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
+      "duration_ms": 416500,
+      "name": ".Y",
+      "url": "https://open.spotify.com/track/0zxdVwyiPVxmBkZFTHe2xl"
     },
     {
       "added_at": "2023-04-13 23:00:00",

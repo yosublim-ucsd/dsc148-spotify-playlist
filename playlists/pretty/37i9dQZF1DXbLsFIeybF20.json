@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 141384,
+  "num_followers": 141385,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMGNiODUyOWI3NmRlNTQzMThhN2Q2ZGVkYTA4NTI4MWFj",
+  "snapshot_id": "MTY0MzM0NjEyMCwwMDAwMDAwMDJjOWI4YjEyNGJjZGJlODU2Y2NkNzQ4ZGVmNmY1OGUy",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -347,6 +347,22 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
+        "name": "Doctor Jazz",
+        "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll Morton",
+          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Doctor Jazz",
+      "url": "https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
         "name": "Night on Frenchmen Street",
         "url": "https://open.spotify.com/album/44p3ndcrFCwxM6la37rd1M"
       },
@@ -375,38 +391,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Doctor Jazz",
-        "url": "https://open.spotify.com/album/14rmyNpoLWlrgLIyF5jtbu"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll Morton",
-          "url": "https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Doctor Jazz",
-      "url": "https://open.spotify.com/track/5LHzQRQpnxXeKMn3pmusSK"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
-        "name": "The Complete Columbia Session 1946",
-        "url": "https://open.spotify.com/album/5mCUAqsJuZuwIN4jTTCEKi"
-      },
-      "artists": [
-        {
-          "name": "Kid Ory",
-          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
-        }
-      ],
-      "duration_ms": 150986,
-      "name": "The Bucket's Got a Hole in It",
-      "url": "https://open.spotify.com/track/6ZRsVuvtvim8tY5H3gWBxG"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Presenting Johnny Dodds",
         "url": "https://open.spotify.com/album/0Xuud74No2OuIuQlGpOGGA"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 179600,
       "name": "I'm Goin' Huntin'",
       "url": "https://open.spotify.com/track/7EM144Ad1LaYuS0hxxl3bQ"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Sounds Of New Orleans Vol. 9",
+        "url": "https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T"
+      },
+      "artists": [
+        {
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
+        }
+      ],
+      "duration_ms": 288653,
+      "name": "Eh, La Bas",
+      "url": "https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Our New Orleans (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
-      },
-      "artists": [
-        {
-          "name": "Dr. Michael White",
-          "url": "https://open.spotify.com/artist/0kLwjA9HRcm5JpGjllF4f8"
-        }
-      ],
-      "duration_ms": 220080,
-      "name": "Canal Street Blues",
-      "url": "https://open.spotify.com/track/4sI6AMoEpP5JH6oRrmDy2Q"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Jazz At Preservation Hall: The George Lewis Band Of New Orleans",
         "url": "https://open.spotify.com/album/41UDq2SYKbcG4RoNbdreuu"
       },
@@ -539,8 +523,8 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Sounds Of New Orleans Vol. 9",
-        "url": "https://open.spotify.com/album/7gXajj8o47ghF8VktDLN1T"
+        "name": "The Complete Columbia Session 1946",
+        "url": "https://open.spotify.com/album/5mCUAqsJuZuwIN4jTTCEKi"
       },
       "artists": [
         {
@@ -548,9 +532,25 @@
           "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
         }
       ],
-      "duration_ms": 288653,
-      "name": "Eh, La Bas",
-      "url": "https://open.spotify.com/track/4QG3OOfalKh8aKIPSeUAoG"
+      "duration_ms": 150986,
+      "name": "The Bucket's Got a Hole in It",
+      "url": "https://open.spotify.com/track/6ZRsVuvtvim8tY5H3gWBxG"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Our New Orleans (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5"
+      },
+      "artists": [
+        {
+          "name": "Dr. Michael White",
+          "url": "https://open.spotify.com/artist/0kLwjA9HRcm5JpGjllF4f8"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "Canal Street Blues",
+      "url": "https://open.spotify.com/track/4sI6AMoEpP5JH6oRrmDy2Q"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -571,22 +571,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
-        "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong & His Hot Five",
-          "url": "https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S"
-        }
-      ],
-      "duration_ms": 182600,
-      "name": "Hotter Than That",
-      "url": "https://open.spotify.com/track/7ui11djxhp7WL4NCHlET8O"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Shake That Thing",
         "url": "https://open.spotify.com/album/7FZO1OPxRXhxkz72LD5x2k"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 372106,
       "name": "His Eye Is On The Sparrow",
       "url": "https://open.spotify.com/track/1CaDni89B5qBXIwdHwqaed"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "The Complete Hot Five And Hot Seven Recordings Volume 3",
+        "url": "https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong & His Hot Five",
+          "url": "https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S"
+        }
+      ],
+      "duration_ms": 182600,
+      "name": "Hotter Than That",
+      "url": "https://open.spotify.com/track/7ui11djxhp7WL4NCHlET8O"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -827,26 +827,18 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "New Orleans Traditional Jazz Legends, Vol. 3",
-        "url": "https://open.spotify.com/album/0E1F15zOti40v8RWZ4fADs"
+        "name": "The Best of Dixieland",
+        "url": "https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd"
       },
       "artists": [
         {
-          "name": "Kid Thomas",
-          "url": "https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe"
-        },
-        {
-          "name": "Thomas Jefferson",
-          "url": "https://open.spotify.com/artist/0cORQgawRwAJfaRkh7nNpR"
-        },
-        {
-          "name": "Percy Humphrey",
-          "url": "https://open.spotify.com/artist/4PMqRbyhDL9yjdb8Qpw6pE"
+          "name": "Original Dixieland Jazz Band",
+          "url": "https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh"
         }
       ],
-      "duration_ms": 267093,
-      "name": "When You're Smiling",
-      "url": "https://open.spotify.com/track/0Kgk900i6WkIjzLH6vYJMR"
+      "duration_ms": 156003,
+      "name": "Tiger Rag 3",
+      "url": "https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf"
     },
     {
       "added_at": "2021-04-26 16:53:52",

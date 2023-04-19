@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 342452,
+  "num_followers": 342542,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc3OTExMSwwMDAwMDAwMDRiYmJkZGFmYmM0NDE0OGUwZTYzYWMyMDQ0MDcwNjBk",
+  "snapshot_id": "MTY4MDc3OTExMSwwMDAwMDAwMDQxNjZhMTY4ZDE4MDcyYmZhMzVmZDZiNDNhZTBiZDVj",
   "tracks": [
     {
       "added_at": "2023-04-06 11:05:11",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-04-06 11:05:11",
       "album": {
-        "name": "Follow The Leader (Expanded Edition)",
-        "url": "https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        }
-      ],
-      "duration_ms": 314600,
-      "name": "Microphone Fiend",
-      "url": "https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1"
-    },
-    {
-      "added_at": "2023-04-06 11:05:11",
-      "album": {
         "name": "Raising Hell",
         "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 167880,
       "name": "My Adidas",
       "url": "https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr"
+    },
+    {
+      "added_at": "2023-04-06 11:05:11",
+      "album": {
+        "name": "Follow The Leader (Expanded Edition)",
+        "url": "https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "duration_ms": 314600,
+      "name": "Microphone Fiend",
+      "url": "https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1"
     },
     {
       "added_at": "2023-04-06 11:05:11",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-04-06 11:05:11",
       "album": {
+        "name": "King Of Rock (Expanded Edition)",
+        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 314146,
+      "name": "King of Rock",
+      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
+    },
+    {
+      "added_at": "2023-04-06 11:05:11",
+      "album": {
         "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 234453,
       "name": "Rapper's Delight",
       "url": "https://open.spotify.com/track/6uvwazq5PsHxftSMFGuQRS"
-    },
-    {
-      "added_at": "2023-04-06 11:05:11",
-      "album": {
-        "name": "King Of Rock (Expanded Edition)",
-        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 314146,
-      "name": "King of Rock",
-      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
     },
     {
       "added_at": "2023-04-06 11:05:11",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-04-06 11:05:11",
       "album": {
-        "name": "Jam On Revenge",
-        "url": "https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe"
-      },
-      "artists": [
-        {
-          "name": "Newcleus",
-          "url": "https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C"
-        }
-      ],
-      "duration_ms": 395626,
-      "name": "Jam On Revenge (The Wikki Wikki Song)",
-      "url": "https://open.spotify.com/track/6nDgVarnxUZrFzI2OlWNhE"
-    },
-    {
-      "added_at": "2023-04-06 11:05:11",
-      "album": {
         "name": "Hip Hop Be Bop",
         "url": "https://open.spotify.com/album/0A9mRheQlMXT1A125XYgpg"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 336173,
       "name": "Hip Hop Be Bop (Original Version)",
       "url": "https://open.spotify.com/track/21NALHsloDI31T781jDMFw"
+    },
+    {
+      "added_at": "2023-04-06 11:05:11",
+      "album": {
+        "name": "Jam On Revenge",
+        "url": "https://open.spotify.com/album/06IJFUuCwW3iokYxgXjCYe"
+      },
+      "artists": [
+        {
+          "name": "Newcleus",
+          "url": "https://open.spotify.com/artist/5X8Tt3rIpdy8VR78KEhZ6C"
+        }
+      ],
+      "duration_ms": 395626,
+      "name": "Jam On Revenge (The Wikki Wikki Song)",
+      "url": "https://open.spotify.com/track/6nDgVarnxUZrFzI2OlWNhE"
     },
     {
       "added_at": "2023-04-06 11:05:11",

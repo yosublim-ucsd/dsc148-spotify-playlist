@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Whyte Fang
 
-588 songs - 1 day 8 hr 17 min
+589 songs - 1 day 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,7 +461,8 @@
 | [Shut Up](https://open.spotify.com/track/1hf9Wu2l0XIgAcTZLSAUJe) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9) | 2:12 | 2022-12-08 | 2023-01-13 |
 | [Sing Your Lullaby](https://open.spotify.com/track/3LGqmgDKefGR9zp3h92VmW) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Sing Your Lullaby](https://open.spotify.com/album/61nC52SUGV19X5i0VJoyoa) | 3:42 | 2022-12-15 | 2023-01-20 |
 | [Six Figures](https://open.spotify.com/track/4I3G3oB4cfOiKN8q4fzXxQ) | [€URO TRA$H](https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9), [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Almondmilkhunni](https://open.spotify.com/artist/778bhPsYwr6sAELsBBX8MC) | [¥€$](https://open.spotify.com/album/2o3gqsfh5Zzl8LA8qKLH6j) | 4:15 | 2023-02-23 | 2023-03-25 |
-| [Skit](https://open.spotify.com/track/0wkHyMOA3ich6amIw3rs8Y) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Skit](https://open.spotify.com/album/1dmvxkLnbRDI3F3T8LmCN8) | 3:38 | 2023-04-06 |  |
+| [Skit](https://open.spotify.com/track/0wkHyMOA3ich6amIw3rs8Y) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Skit](https://open.spotify.com/album/1dmvxkLnbRDI3F3T8LmCN8) | 3:38 | 2023-04-06 | 2023-04-19 |
+| [Skit](https://open.spotify.com/track/7peClIkcdZ744Srzrjah5b) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Skit](https://open.spotify.com/album/5N6ZyyaFBYdWMW52DbgJrR) | 3:38 | 2023-04-14 |  |
 | [Sleep Walk \(feat\. Liz Cass\)](https://open.spotify.com/track/5qZw8Y01dhAluWp6xdk4VV) | [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY), [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Liz Cass](https://open.spotify.com/artist/0erHD7VN4kx2WwPg8w53kp) | [Sleep Walk \(feat\. Liz Cass\)](https://open.spotify.com/album/09crQU0aP4oOt8R5l0FUwv) | 3:38 | 2023-03-03 | 2023-03-31 |
 | [Sleepwalking](https://open.spotify.com/track/1pa7rBVipooMGzVN0Nausx) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Sleepwalking](https://open.spotify.com/album/58I1R2JazZYiVUek5rtvFY) | 2:31 | 2023-02-02 | 2023-02-24 |
 | [Sleepy Eyes](https://open.spotify.com/track/1xtQcZUH8YDKPEAGMgS41P) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Ray Le Fanue](https://open.spotify.com/artist/5KbHk9IwiIF0fdu1AOJx29) | [Sleepy Eyes](https://open.spotify.com/album/2bIJRlNZNfuMacE6ZRIegc) | 2:43 | 2023-02-02 | 2023-02-24 |

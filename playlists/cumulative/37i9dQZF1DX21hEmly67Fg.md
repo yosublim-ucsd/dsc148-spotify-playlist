@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-172 songs - 10 hr 8 min
+173 songs - 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Eastside](https://open.spotify.com/track/37MspE4lVtZzAvvYknWKdp) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs the Hits of 2019](https://open.spotify.com/album/56EI9Mhw87g3NADBYQNQac) | 2:52 | 2022-11-18 | 2022-11-26 |
 | [Easy On Me](https://open.spotify.com/track/2W6AJAQi1lQU8wrZCnaZTy) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Easy On Me](https://open.spotify.com/album/6DgzorRqPflcNX5Gip8ta3) | 3:16 | 2021-11-25 |  |
 | [Easy On Me](https://open.spotify.com/track/53sI71bFwGU3p2RBeRxWcC) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2021, Vol\. 2](https://open.spotify.com/album/0hCaA5SF1Xolv0hBJVUuPa) | 3:40 | 2022-11-18 | 2022-11-26 |
+| [Enjoy the Silence](https://open.spotify.com/track/1BABFMj4wusVDpIkpWjDgB) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Enjoy the Silence](https://open.spotify.com/album/1YLsqNlmQJjhfXTECIUyku) | 2:42 | 2023-04-18 |  |
 | [Every Breath You Take](https://open.spotify.com/track/6Hm6g48FZM25d7LkjmXQfN) | [Felix May](https://open.spotify.com/artist/79Q9buYaRrrm9LkwBnOGEg) | [Famous Piano Covers](https://open.spotify.com/album/6m1HH5v5pJ4bw5sQX2mOt3) | 3:39 | 2023-03-07 |  |
 | [Fade into You](https://open.spotify.com/track/6x3QipqRZrUC2q5bETyyGf) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Alternative Hits of the 80s and 90s Vol\. 2](https://open.spotify.com/album/2yOUlxABRL88pBm9W5RuHL) | 5:15 | 2022-11-18 | 2022-11-26 |
 | [Fast Car](https://open.spotify.com/track/1F91nR4f8LNdVNpWGX4Gy4) | [Andrea Carri](https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U) | [I Play Yours, Vol\. 2](https://open.spotify.com/album/5Mv4Ksk5HM3my8S7jaZIpP) | 3:52 | 2021-11-25 |  |
@@ -81,12 +82,12 @@
 | [Hello, Young Lovers](https://open.spotify.com/track/2E7OvE073ENQi8KzwTKPcz) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [Hello, Young Lovers](https://open.spotify.com/album/1fDKyrhUiwAGfbAGvWRZaW) | 3:28 | 2023-02-28 |  |
 | [Here](https://open.spotify.com/track/2sJqQqodYHAv9gHhSbFVo2) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2015, Vol\. 3](https://open.spotify.com/album/2nrvMKV3Ulz6e1Okjs2HhD) | 3:22 | 2022-11-18 | 2022-11-26 |
 | [Here I Dreamt I Was an Architect](https://open.spotify.com/track/3raq8Hy4VIHlj9k5Chsfmp) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs The Decemberists](https://open.spotify.com/album/6H2zbBBOWSTxiat8AhpO1R) | 4:45 | 2022-11-18 | 2022-11-26 |
-| [Hey Jude](https://open.spotify.com/track/0nxhyi6QjPajz7zPFqe5GD) | [Veronica Howland](https://open.spotify.com/artist/2i3G7ixL6J6qkND65vK8XC) | [A Little Beatle](https://open.spotify.com/album/5d7gIj38XMEsxfS1ZlaUZn) | 3:56 | 2023-02-06 |  |
+| [Hey Jude](https://open.spotify.com/track/0nxhyi6QjPajz7zPFqe5GD) | [Veronica Howland](https://open.spotify.com/artist/2i3G7ixL6J6qkND65vK8XC) | [A Little Beatle](https://open.spotify.com/album/5d7gIj38XMEsxfS1ZlaUZn) | 3:56 | 2023-02-06 | 2023-04-19 |
 | [Hoppípolla](https://open.spotify.com/track/2CuDFSFwIy2pwpXNHPLwZ3) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Vitamin String Quartet Performs Sigur Rós](https://open.spotify.com/album/38e7K18t8g1sSeYbBdG08o) | 4:11 | 2022-11-18 | 2022-11-26 |
 | [How Far Will I Go](https://open.spotify.com/track/5DbaHzbL6yNvDweTMwDsjE) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [How Far Will I Go](https://open.spotify.com/album/01dPukYevifXCAoCg1iLP3) | 4:10 | 2021-11-25 |  |
 | [How Will I Know \(arr\. piano\)](https://open.spotify.com/track/5pT81cp8OK5FuACexrkgC1) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [How Will I Know \(arr\. piano\)](https://open.spotify.com/album/0C9p3l8YDqEC8G5UYilo8F) | 3:38 | 2021-11-25 |  |
 | [Human Nature \(Arr\. R\. Boyd & L\. Metcalf for Cello & Guitar\)](https://open.spotify.com/track/3aMagwbjbBUakRbCCt542s) | [Steve Porcaro](https://open.spotify.com/artist/6uJ8A4c1Z4FbHUTdhHm5dn), [Boyd Meets Girl](https://open.spotify.com/artist/5jRlTeRHOKRs7a9vPwMEPR) | [Boyd Meets Girl](https://open.spotify.com/album/1M2ZlMDGp4yjl9hzPX4Eyk) | 2:42 | 2021-11-25 |  |
-| [Hurt](https://open.spotify.com/track/0WLROcssjMREbas0oDpFkA) | [Holly Bowling](https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r) | [Alone Together, Vol 6 \(The Living Room Sessions\)](https://open.spotify.com/album/3hV5sj8yGvFHtEkdeJ95yH) | 6:12 | 2022-11-25 |  |
+| [Hurt](https://open.spotify.com/track/0WLROcssjMREbas0oDpFkA) | [Holly Bowling](https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r) | [Alone Together, Vol 6 \(The Living Room Sessions\)](https://open.spotify.com/album/3hV5sj8yGvFHtEkdeJ95yH) | 6:12 | 2022-11-25 | 2023-04-19 |
 | [Hurt](https://open.spotify.com/track/5ssa7x1KD6XqPVqhwVgnA0) | [Holly Bowling](https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r) | [Alone Together, Vol 6 \(The Living Room Sessions\)](https://open.spotify.com/album/451tLMhR2ySWscHJiWQXs6) | 6:12 | 2021-11-25 | 2023-01-01 |
 | [I'm Yours \- Piano Version](https://open.spotify.com/track/0MXyCz754IFkMZq1I4BVaO) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [00s Piano Covers](https://open.spotify.com/album/01u4d96EWX1Xk1NLtQhZNC) | 3:02 | 2022-11-25 |  |
 | [I'm Yours \- Piano Version](https://open.spotify.com/track/4NqDMiBF4yLwdfJ6BDDdx2) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [00s Piano Covers](https://open.spotify.com/album/50x1Jf4aVOOvpHQ2fxe71B) | 3:02 | 2022-02-25 | 2022-12-24 |

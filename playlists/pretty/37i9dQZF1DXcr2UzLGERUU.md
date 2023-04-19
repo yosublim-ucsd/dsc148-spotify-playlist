@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,793 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,077 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 47 | [Sweet Child O' Mine](https://open.spotify.com/track/3yOMhAM9ZwBjuKQv4pPWYs) | [Renee & Jeremy](https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5), [Renee Stahl](https://open.spotify.com/artist/2WfQMdILaDJoPYCcWKKqpJ), [Jeremy Toback](https://open.spotify.com/artist/1aH1XTozXuGinGzdNWzyrt) | [Whole Lotta Love](https://open.spotify.com/album/1VbKUzv2wMxhQq1itmdHyR) | 3:20 |
 | 48 | [Just Be](https://open.spotify.com/track/4V7mzEF4UR4cN0UNt8XYGF) | [Kira Willey](https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg) | [Mindful Moments for Kids](https://open.spotify.com/album/7xjZAPE23hL7YzCtw7ST7s) | 4:20 |
 | 49 | [What My Body Needs](https://open.spotify.com/track/7bk9NCsLE8F5LhbaPo5pRD) | [Sara Rogers](https://open.spotify.com/artist/5fEiggZSfUYOhfBqyIC4cw) | [What My Body Needs](https://open.spotify.com/album/1HkRCTZXljbfIXGprYdUPT) | 3:08 |
-| 50 | [Firework](https://open.spotify.com/track/2haZiTgnuhR6zOKqSc3s8N) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [The Living Room Sessions Vol\. 1](https://open.spotify.com/album/1eF6bx49eA7EsTvdZZ4KNj) | 4:01 |
+| 50 | [You've Got a Friend in Me \- Acoustic](https://open.spotify.com/track/05ZcB9Cln3VRHYS7W3bLgo) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Simply Acoustic](https://open.spotify.com/album/5GkuY9Il0OakVEzNyX7mP4) | 2:11 |
 
-Snapshot ID: `MTY4MDg3Njg2MCwwMDAwMDAwMDdmNTNlNDNhY2VlZThhODFiOWRhZDJlYTI4YWQwODc3`
+Snapshot ID: `MTY4MDg3Njg2MCwwMDAwMDAwMDNkYzdjMTU3MjY2NTRlODZiMGYyMTQ3Njg4Y2ZjYjEx`

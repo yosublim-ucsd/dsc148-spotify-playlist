@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Peso Pluma, Aleman. ",
-  "num_followers": 468640,
+  "num_followers": 468785,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0ODAwNSwwMDAwMDAwMDVmMmJmNTBlNjlhZjU5YjIyN2YzNWZjNjgwNjk0YjRm",
+  "snapshot_id": "MTY4MDI0ODAwNSwwMDAwMDAwMGUwZjEzYzYwZTAwOTIxYTQ5NzMzNTBmZDcyZDRiYzdi",
   "tracks": [
     {
       "added_at": "2023-03-31 07:33:25",
@@ -247,42 +247,6 @@
     {
       "added_at": "2023-03-31 07:33:25",
       "album": {
-        "name": "EL NENE",
-        "url": "https://open.spotify.com/album/66dX9XaTPTYeTg3w7mHV5i"
-      },
-      "artists": [
-        {
-          "name": "Foreign Teck",
-          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 179999,
-      "name": "EL NENE",
-      "url": "https://open.spotify.com/track/18onJmAJLKbrQVEt9IiKs1"
-    },
-    {
-      "added_at": "2023-03-31 07:33:25",
-      "album": {
-        "name": "BIEN O MAL",
-        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 165019,
-      "name": "DANCE CRIP",
-      "url": "https://open.spotify.com/track/5NtIprYDaflAuu3Pko0rjR"
-    },
-    {
-      "added_at": "2023-03-31 07:33:25",
-      "album": {
         "name": "Glizzy Walk 2.5",
         "url": "https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK"
       },
@@ -303,6 +267,42 @@
       "duration_ms": 224248,
       "name": "Glizzy Walk 2.5",
       "url": "https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww"
+    },
+    {
+      "added_at": "2023-03-31 07:33:25",
+      "album": {
+        "name": "BIEN O MAL",
+        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 165019,
+      "name": "DANCE CRIP",
+      "url": "https://open.spotify.com/track/5NtIprYDaflAuu3Pko0rjR"
+    },
+    {
+      "added_at": "2023-03-31 07:33:25",
+      "album": {
+        "name": "EL NENE",
+        "url": "https://open.spotify.com/album/66dX9XaTPTYeTg3w7mHV5i"
+      },
+      "artists": [
+        {
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 179999,
+      "name": "EL NENE",
+      "url": "https://open.spotify.com/track/18onJmAJLKbrQVEt9IiKs1"
     },
     {
       "added_at": "2023-03-31 07:33:25",
@@ -971,26 +971,6 @@
     {
       "added_at": "2023-03-31 07:33:25",
       "album": {
-        "name": "Lo Prieto",
-        "url": "https://open.spotify.com/album/6rlbCUJjq5S7Z0wE3hsRqo"
-      },
-      "artists": [
-        {
-          "name": "Luigui Bleand",
-          "url": "https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq"
-        },
-        {
-          "name": "Musicologo The Libro",
-          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
-        }
-      ],
-      "duration_ms": 184625,
-      "name": "Lo Prieto",
-      "url": "https://open.spotify.com/track/5q3b86vdmn3itBhsAPHMfd"
-    },
-    {
-      "added_at": "2023-03-31 07:33:25",
-      "album": {
         "name": "Ilegal",
         "url": "https://open.spotify.com/album/5ZW5SdUAU4ICF6Ch0IBwpG"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 285500,
       "name": "Ilegal",
       "url": "https://open.spotify.com/track/0cTwOl6O8Vp9bcCqiXryum"
+    },
+    {
+      "added_at": "2023-03-31 07:33:25",
+      "album": {
+        "name": "Lo Prieto",
+        "url": "https://open.spotify.com/album/6rlbCUJjq5S7Z0wE3hsRqo"
+      },
+      "artists": [
+        {
+          "name": "Luigui Bleand",
+          "url": "https://open.spotify.com/artist/3s4iTKRp9wGJFYyn5Bo8Pq"
+        },
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        }
+      ],
+      "duration_ms": 184625,
+      "name": "Lo Prieto",
+      "url": "https://open.spotify.com/track/5q3b86vdmn3itBhsAPHMfd"
     },
     {
       "added_at": "2023-03-31 07:33:25",
@@ -1823,6 +1823,26 @@
     {
       "added_at": "2023-03-31 07:33:25",
       "album": {
+        "name": "So\u00f1ando en PR",
+        "url": "https://open.spotify.com/album/0nMHNSuBWxAeUOb9VspGs5"
+      },
+      "artists": [
+        {
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 158896,
+      "name": "Stripper X",
+      "url": "https://open.spotify.com/track/5LytfsJJoCY3WHWDow9Qc7"
+    },
+    {
+      "added_at": "2023-03-31 07:33:25",
+      "album": {
         "name": "Siempre Es Lo Mismo",
         "url": "https://open.spotify.com/album/7mbmPQhpfV0QojDzqf9fTQ"
       },
@@ -1843,26 +1863,6 @@
       "duration_ms": 246605,
       "name": "Siempre Es Lo Mismo",
       "url": "https://open.spotify.com/track/2Sg6GmnyCyoYkvNezFp98e"
-    },
-    {
-      "added_at": "2023-03-31 07:33:25",
-      "album": {
-        "name": "So\u00f1ando en PR",
-        "url": "https://open.spotify.com/album/0nMHNSuBWxAeUOb9VspGs5"
-      },
-      "artists": [
-        {
-          "name": "lil joujou",
-          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 158896,
-      "name": "Stripper X",
-      "url": "https://open.spotify.com/track/5LytfsJJoCY3WHWDow9Qc7"
     },
     {
       "added_at": "2023-03-31 07:33:25",
@@ -2219,6 +2219,22 @@
     {
       "added_at": "2023-03-31 07:33:25",
       "album": {
+        "name": "La Que Hay",
+        "url": "https://open.spotify.com/album/1JEbUd7kAG7lLqen6Jit6p"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        }
+      ],
+      "duration_ms": 188720,
+      "name": "La Que Hay",
+      "url": "https://open.spotify.com/track/5XCIh9cKTUdAMz6jovPVEo"
+    },
+    {
+      "added_at": "2023-03-31 07:33:25",
+      "album": {
         "name": "Freestyle",
         "url": "https://open.spotify.com/album/0vO0LyG1EFkHMlToXSKOu7"
       },
@@ -2239,22 +2255,6 @@
       "duration_ms": 167565,
       "name": "Freestyle",
       "url": "https://open.spotify.com/track/7bDQ2CUdrf6Oyu7VFgWunB"
-    },
-    {
-      "added_at": "2023-03-31 07:33:25",
-      "album": {
-        "name": "La Que Hay",
-        "url": "https://open.spotify.com/album/1JEbUd7kAG7lLqen6Jit6p"
-      },
-      "artists": [
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        }
-      ],
-      "duration_ms": 188720,
-      "name": "La Que Hay",
-      "url": "https://open.spotify.com/track/5XCIh9cKTUdAMz6jovPVEo"
     },
     {
       "added_at": "2023-03-31 07:33:25",

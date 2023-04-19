@@ -1,12 +1,12 @@
 {
   "description": "Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection. ",
-  "num_followers": 11132,
+  "num_followers": 11130,
   "original_name": "Holy Week: Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDQyMzY3NiwwMDAwMDAwMDgwMWNhNTBlNWQ4N2MwNWVmZWQ2NDcxNTMxYzAyNWVl",
+  "snapshot_id": "MTY4MDQyMzY3NiwwMDAwMDAwMGFiMDg2MzU4Y2ZkNzk3NDZmMWI3N2RlNWE0YTEwOTg1",
   "tracks": [
     {
       "added_at": "2023-04-02 08:21:16",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Upon Him",
-        "url": "https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 241901,
-      "name": "Upon Him",
-      "url": "https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "There Is a Cloud",
         "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 376253,
       "name": "Mighty Cross",
       "url": "https://open.spotify.com/track/2qFxitJohZtPd3QIPumFH0"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "Upon Him",
+        "url": "https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 241901,
+      "name": "Upon Him",
+      "url": "https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Because He Lives (Amen)",
-        "url": "https://open.spotify.com/album/3NxtPWkRme5IO95JZyOl6H"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 200121,
-      "name": "Because He Lives (Amen)",
-      "url": "https://open.spotify.com/track/5UVAPfV3T15X23qdYUWp7f"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "Greater Things",
         "url": "https://open.spotify.com/album/4ji5IXQ0QqzxO4uCwB8kke"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 280179,
       "name": "Greater Things",
       "url": "https://open.spotify.com/track/3EHQMl3KrWpwfUMxgAWSqb"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "Because He Lives (Amen)",
+        "url": "https://open.spotify.com/album/3NxtPWkRme5IO95JZyOl6H"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 200121,
+      "name": "Because He Lives (Amen)",
+      "url": "https://open.spotify.com/track/5UVAPfV3T15X23qdYUWp7f"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Your Grace Finds Me (Live)",
-        "url": "https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 334333,
-      "name": "Mercy - Live",
-      "url": "https://open.spotify.com/track/51JInjgtwBlZekJ0oywMOW"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "Raise Up The Crown",
         "url": "https://open.spotify.com/album/1ebHV0sV9fbjhQ9jw2bFsu"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 200773,
       "name": "Beautiful Scandalous Night",
       "url": "https://open.spotify.com/track/6MeRMWAV6GDoZ0nY2vN8fg"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "Your Grace Finds Me (Live)",
+        "url": "https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 334333,
+      "name": "Mercy - Live",
+      "url": "https://open.spotify.com/track/51JInjgtwBlZekJ0oywMOW"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -963,38 +963,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Alive Again",
-        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 315520,
-      "name": "You Were On The Cross",
-      "url": "https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
-        "name": "Everything And Nothing Less (Live)",
-        "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
-      },
-      "artists": [
-        {
-          "name": "Chris McClarney",
-          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Beauty For Ashes - Live",
-      "url": "https://open.spotify.com/track/4JIRYXf8WiXbHTW5xc7oiF"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "Alive In You (Studio Version)",
         "url": "https://open.spotify.com/album/6VEoSGKqDqAPkhu5ctXxHH"
       },
@@ -1011,6 +979,22 @@
       "duration_ms": 239999,
       "name": "Alive In You - Studio Version",
       "url": "https://open.spotify.com/track/09iE9CebgTgFDEluHH1ept"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "Everything And Nothing Less (Live)",
+        "url": "https://open.spotify.com/album/66663xiz1SATmBnF78aEpA"
+      },
+      "artists": [
+        {
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Beauty For Ashes - Live",
+      "url": "https://open.spotify.com/track/4JIRYXf8WiXbHTW5xc7oiF"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -1043,6 +1027,22 @@
       "duration_ms": 264506,
       "name": "Thief",
       "url": "https://open.spotify.com/track/4w7qUNRMg3A3xnqhE37TP3"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "Alive Again",
+        "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 315520,
+      "name": "You Were On The Cross",
+      "url": "https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Echoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 232826,
-      "name": "The Cross Forever Speaks",
-      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "Blameless",
         "url": "https://open.spotify.com/album/1aNaKJuIh4Y5K6WONZuTtj"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 234348,
       "name": "Blameless",
       "url": "https://open.spotify.com/track/3hJf9RCc6jLId4U99rSTa2"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "Echoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 232826,
+      "name": "The Cross Forever Speaks",
+      "url": "https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU"
     },
     {
       "added_at": "2023-04-02 08:21:16",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-04-02 08:21:16",
       "album": {
-        "name": "Death Was Arrested / He's Alive (Live)",
-        "url": "https://open.spotify.com/album/4aFoHGmtxzQtSHarx1k8IE"
-      },
-      "artists": [
-        {
-          "name": "The Talleys",
-          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
-        }
-      ],
-      "duration_ms": 363690,
-      "name": "Death Was Arrested / He's Alive - Live",
-      "url": "https://open.spotify.com/track/63xczPjcOU8Wl5T5YsStAo"
-    },
-    {
-      "added_at": "2023-04-02 08:21:16",
-      "album": {
         "name": "Echoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 211360,
       "name": "Faithfulness (feat. Steffany Gretzinger)",
       "url": "https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL"
+    },
+    {
+      "added_at": "2023-04-02 08:21:16",
+      "album": {
+        "name": "Death Was Arrested / He's Alive (Live)",
+        "url": "https://open.spotify.com/album/4aFoHGmtxzQtSHarx1k8IE"
+      },
+      "artists": [
+        {
+          "name": "The Talleys",
+          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
+        }
+      ],
+      "duration_ms": 363690,
+      "name": "Death Was Arrested / He's Alive - Live",
+      "url": "https://open.spotify.com/track/63xczPjcOU8Wl5T5YsStAo"
     },
     {
       "added_at": "2023-04-02 08:21:16",

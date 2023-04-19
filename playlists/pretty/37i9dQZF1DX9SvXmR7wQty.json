@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Clay Scott",
-  "num_followers": 36364,
+  "num_followers": 36373,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDQ0OWFkOTAxMTdkYmYyNTQ2YWJlZWE1MDBkMDFhMDkz",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGYzYzkzMTZlZWRiNzQ5MTUyNzhkMmQzYTQyZDA5ODVi",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -99,18 +99,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "FAM",
-        "url": "https://open.spotify.com/album/5enVAOPom22lur0oixl3MU"
+        "name": "Chrome",
+        "url": "https://open.spotify.com/album/6lYKIRZYUzf8puOGJ2aEbn"
       },
       "artists": [
         {
-          "name": "Fresh",
-          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
         }
       ],
-      "duration_ms": 173041,
-      "name": "FAM",
-      "url": "https://open.spotify.com/track/0PrBe0j3bFmVjkGAx0nRIW"
+      "duration_ms": 145665,
+      "name": "Pistol & Zamal",
+      "url": "https://open.spotify.com/track/5gEoeTjRPFbRfx6URQIwOG"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -131,18 +131,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Chrome",
-        "url": "https://open.spotify.com/album/6lYKIRZYUzf8puOGJ2aEbn"
+        "name": "FAM",
+        "url": "https://open.spotify.com/album/5enVAOPom22lur0oixl3MU"
       },
       "artists": [
         {
-          "name": "Ziak",
-          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
         }
       ],
-      "duration_ms": 145665,
-      "name": "Pistol & Zamal",
-      "url": "https://open.spotify.com/track/5gEoeTjRPFbRfx6URQIwOG"
+      "duration_ms": 173041,
+      "name": "FAM",
+      "url": "https://open.spotify.com/track/0PrBe0j3bFmVjkGAx0nRIW"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Bootleg",
+        "url": "https://open.spotify.com/album/0HqGg6WYY7iaxWBlP2NY6P"
+      },
+      "artists": [
+        {
+          "name": "Mister V",
+          "url": "https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs"
+        }
+      ],
+      "duration_ms": 115226,
+      "name": "Bootleg",
+      "url": "https://open.spotify.com/track/21bPnt9C4Dw7xj8UUUXZp1"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Si j'avais (feat. La Fouine)",
         "url": "https://open.spotify.com/album/1XtIE8Nq5SIk1S11wuXnfx"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 140368,
       "name": "Je t'haine",
       "url": "https://open.spotify.com/track/1Rn1zphLtXbGF436KG5Ft9"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Bootleg",
-        "url": "https://open.spotify.com/album/0HqGg6WYY7iaxWBlP2NY6P"
-      },
-      "artists": [
-        {
-          "name": "Mister V",
-          "url": "https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs"
-        }
-      ],
-      "duration_ms": 115226,
-      "name": "Bootleg",
-      "url": "https://open.spotify.com/track/21bPnt9C4Dw7xj8UUUXZp1"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "La Masia",
-        "url": "https://open.spotify.com/album/74c7CluPdWcpjVuYcn85XS"
-      },
-      "artists": [
-        {
-          "name": "L'Allemand",
-          "url": "https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On"
-        }
-      ],
-      "duration_ms": 142868,
-      "name": "La Masia",
-      "url": "https://open.spotify.com/track/2jnRmXdb2b9hPMdT1vWS33"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Mauvais r\u00eave",
         "url": "https://open.spotify.com/album/5blMLwINO84ZJntrW0CTNh"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 239546,
       "name": "Mauvais r\u00eave",
       "url": "https://open.spotify.com/track/6IZWTHVNit0ajtXwAWDGO9"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "La Masia",
+        "url": "https://open.spotify.com/album/74c7CluPdWcpjVuYcn85XS"
+      },
+      "artists": [
+        {
+          "name": "L'Allemand",
+          "url": "https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On"
+        }
+      ],
+      "duration_ms": 142868,
+      "name": "La Masia",
+      "url": "https://open.spotify.com/track/2jnRmXdb2b9hPMdT1vWS33"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/64UvjiGQmwEMMDIhJQzqSS"
-      },
-      "artists": [
-        {
-          "name": "Nuit Incolore",
-          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
-        }
-      ],
-      "duration_ms": 202453,
-      "name": "Loin",
-      "url": "https://open.spotify.com/track/5WSlvjDoex3EpSUhR5IKBP"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "O\u00f9 tu voudras (feat. Tayc)",
         "url": "https://open.spotify.com/album/5MJy5brDsbiFiVHzc9eDcf"
       },
@@ -523,6 +507,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/64UvjiGQmwEMMDIhJQzqSS"
+      },
+      "artists": [
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        }
+      ],
+      "duration_ms": 202453,
+      "name": "Loin",
+      "url": "https://open.spotify.com/track/5WSlvjDoex3EpSUhR5IKBP"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Ozoror",
         "url": "https://open.spotify.com/album/6OPqZboiTNSYCKd3fSiSLX"
       },
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "J'ai besoin d'un break",
-        "url": "https://open.spotify.com/album/73PEyPC6tcnPYevHvRitrX"
+        "name": "Prisonnier",
+        "url": "https://open.spotify.com/album/41QFH5g1zEwAyoXLHaDOfu"
       },
       "artists": [
         {
-          "name": "Jay Sc\u00f8tt",
-          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+          "name": "Yanns",
+          "url": "https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR"
         }
       ],
-      "duration_ms": 188840,
-      "name": "J'ai besoin d'un break",
-      "url": "https://open.spotify.com/track/4IEsA1Zp1TGIyKFDW1rIYC"
+      "duration_ms": 158776,
+      "name": "Prisonnier",
+      "url": "https://open.spotify.com/track/5vZHwm3Neb8UHxdo8PXb55"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "J'ai besoin d'un break",
+        "url": "https://open.spotify.com/album/73PEyPC6tcnPYevHvRitrX"
+      },
+      "artists": [
+        {
+          "name": "Jay Sc\u00f8tt",
+          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+        }
+      ],
+      "duration_ms": 188840,
+      "name": "J'ai besoin d'un break",
+      "url": "https://open.spotify.com/track/4IEsA1Zp1TGIyKFDW1rIYC"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Personne",
         "url": "https://open.spotify.com/album/5GE6XXHfGhdthUzEBkGlLr"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 167346,
       "name": "Personne",
       "url": "https://open.spotify.com/track/2KM5FqdL9I7HI1KAXoVsxK"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Prisonnier",
-        "url": "https://open.spotify.com/album/41QFH5g1zEwAyoXLHaDOfu"
-      },
-      "artists": [
-        {
-          "name": "Yanns",
-          "url": "https://open.spotify.com/artist/3mirzmIKVfvqcW0M5OKAzR"
-        }
-      ],
-      "duration_ms": 158776,
-      "name": "Prisonnier",
-      "url": "https://open.spotify.com/track/5vZHwm3Neb8UHxdo8PXb55"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "BOO",
+        "url": "https://open.spotify.com/album/3WgIFOH5NcAONFDaOeaC5V"
+      },
+      "artists": [
+        {
+          "name": "Le Juiice",
+          "url": "https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC"
+        }
+      ],
+      "duration_ms": 140629,
+      "name": "BOO",
+      "url": "https://open.spotify.com/track/12x0etPnK49pq5vhH5bqUY"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Charlie",
         "url": "https://open.spotify.com/album/0LmxzLt0YsLNsUaPUP4BgZ"
       },
@@ -683,34 +699,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "BOO",
-        "url": "https://open.spotify.com/album/3WgIFOH5NcAONFDaOeaC5V"
+        "name": "Photographies",
+        "url": "https://open.spotify.com/album/0BRpAxU0TVRDmidxpZrGpD"
       },
       "artists": [
         {
-          "name": "Le Juiice",
-          "url": "https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC"
+          "name": "Alice et Moi",
+          "url": "https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3"
         }
       ],
-      "duration_ms": 140629,
-      "name": "BOO",
-      "url": "https://open.spotify.com/track/12x0etPnK49pq5vhH5bqUY"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "1994",
-        "url": "https://open.spotify.com/album/495cEXky5fPlnh2EJBm0KB"
-      },
-      "artists": [
-        {
-          "name": "Eli Rose",
-          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
-        }
-      ],
-      "duration_ms": 197744,
-      "name": "1994",
-      "url": "https://open.spotify.com/track/6rTgr7hrdyBVpGXehD8iWQ"
+      "duration_ms": 176821,
+      "name": "Photographies",
+      "url": "https://open.spotify.com/track/3zjeCHlhWyJwQDKppjMG1F"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -735,34 +735,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Photographies",
-        "url": "https://open.spotify.com/album/0BRpAxU0TVRDmidxpZrGpD"
+        "name": "1994",
+        "url": "https://open.spotify.com/album/495cEXky5fPlnh2EJBm0KB"
       },
       "artists": [
         {
-          "name": "Alice et Moi",
-          "url": "https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3"
+          "name": "Eli Rose",
+          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
         }
       ],
-      "duration_ms": 176821,
-      "name": "Photographies",
-      "url": "https://open.spotify.com/track/3zjeCHlhWyJwQDKppjMG1F"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "J'oublie",
-        "url": "https://open.spotify.com/album/5Rs29NhGaTW10y7284ebls"
-      },
-      "artists": [
-        {
-          "name": "Vendou",
-          "url": "https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG"
-        }
-      ],
-      "duration_ms": 167979,
-      "name": "J'oublie",
-      "url": "https://open.spotify.com/track/4zHqp3LEO1JwurpZeQQjfk"
+      "duration_ms": 197744,
+      "name": "1994",
+      "url": "https://open.spotify.com/track/6rTgr7hrdyBVpGXehD8iWQ"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -787,6 +771,22 @@
       "duration_ms": 160845,
       "name": "Gabriel",
       "url": "https://open.spotify.com/track/4kfbDkVE9R35VQyem72ypS"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "J'oublie",
+        "url": "https://open.spotify.com/album/5Rs29NhGaTW10y7284ebls"
+      },
+      "artists": [
+        {
+          "name": "Vendou",
+          "url": "https://open.spotify.com/artist/4Eh9gm2q4XSbk8YXLoEUjG"
+        }
+      ],
+      "duration_ms": 167979,
+      "name": "J'oublie",
+      "url": "https://open.spotify.com/track/4zHqp3LEO1JwurpZeQQjfk"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Il faut partir maintenant",
-        "url": "https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm"
-      },
-      "artists": [
-        {
-          "name": "Maude Audet",
-          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
-        }
-      ],
-      "duration_ms": 178405,
-      "name": "Penses-tu rester encore?",
-      "url": "https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Danser",
         "url": "https://open.spotify.com/album/2U2w4Q9zSKSWdm4ROY0A55"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 176626,
       "name": "Danser",
       "url": "https://open.spotify.com/track/6AT0rc6dhB4f5cjULRyd7Z"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Il faut partir maintenant",
+        "url": "https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm"
+      },
+      "artists": [
+        {
+          "name": "Maude Audet",
+          "url": "https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5"
+        }
+      ],
+      "duration_ms": 178405,
+      "name": "Penses-tu rester encore?",
+      "url": "https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql"
     },
     {
       "added_at": "2023-04-14 04:00:00",

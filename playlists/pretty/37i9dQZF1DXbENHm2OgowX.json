@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 34669,
+  "num_followers": 35682,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQwMjExMiwwMDAwMDAwMGQ0Y2VmZjhlOTNiYjQxZmMyMWIyOTUxOTRiMzBhODYx",
+  "snapshot_id": "MTY4MTQwMjExMiwwMDAwMDAwMDU0YzhjNmU5ZWE5ZmZmYWYzNTdkZjBkNTU5NzJmODJm",
   "tracks": [
     {
       "added_at": "2023-04-13 16:08:32",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-04-13 16:08:32",
       "album": {
-        "name": "For Horror Eats The Light",
-        "url": "https://open.spotify.com/album/0UaJnty4Oy44vdZ0dQCU2o"
-      },
-      "artists": [
-        {
-          "name": "Fvnerals",
-          "url": "https://open.spotify.com/artist/3Z9ijrVnS0SeT22OTcsTqu"
-        }
-      ],
-      "duration_ms": 452869,
-      "name": "For Horror Eats The Light",
-      "url": "https://open.spotify.com/track/4bjIYKqKkqC6gaNbTGBEAY"
-    },
-    {
-      "added_at": "2023-04-13 16:08:32",
-      "album": {
         "name": "Arborescence",
         "url": "https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 315284,
       "name": "As I Came Through the Desert Thus It Was",
       "url": "https://open.spotify.com/track/4CD4XG9zYVs4Ofxz6Dg7Nh"
+    },
+    {
+      "added_at": "2023-04-13 16:08:32",
+      "album": {
+        "name": "For Horror Eats The Light",
+        "url": "https://open.spotify.com/album/0UaJnty4Oy44vdZ0dQCU2o"
+      },
+      "artists": [
+        {
+          "name": "Fvnerals",
+          "url": "https://open.spotify.com/artist/3Z9ijrVnS0SeT22OTcsTqu"
+        }
+      ],
+      "duration_ms": 452869,
+      "name": "For Horror Eats The Light",
+      "url": "https://open.spotify.com/track/4bjIYKqKkqC6gaNbTGBEAY"
     },
     {
       "added_at": "2023-04-13 16:08:32",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-04-13 16:08:32",
       "album": {
-        "name": "Moments.",
-        "url": "https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t"
-      },
-      "artists": [
-        {
-          "name": "Violet A. Foster",
-          "url": "https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi"
-        }
-      ],
-      "duration_ms": 291553,
-      "name": "Animism",
-      "url": "https://open.spotify.com/track/3rXugDRBIPMHUzLqxA0hg4"
-    },
-    {
-      "added_at": "2023-04-13 16:08:32",
-      "album": {
         "name": "Slow Bloom",
         "url": "https://open.spotify.com/album/2Vz8SP9YrEhrCK0seyZw2n"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 285312,
       "name": "Slow Bloom",
       "url": "https://open.spotify.com/track/39W0Sl0GtgiLvr15Lq9vju"
+    },
+    {
+      "added_at": "2023-04-13 16:08:32",
+      "album": {
+        "name": "Moments.",
+        "url": "https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t"
+      },
+      "artists": [
+        {
+          "name": "Violet A. Foster",
+          "url": "https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi"
+        }
+      ],
+      "duration_ms": 291553,
+      "name": "Animism",
+      "url": "https://open.spotify.com/track/3rXugDRBIPMHUzLqxA0hg4"
     }
   ],
   "unique_name": "gloomcore",

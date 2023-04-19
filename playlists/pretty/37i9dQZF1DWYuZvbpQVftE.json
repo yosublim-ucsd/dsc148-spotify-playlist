@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 15842,
+  "num_followers": 15871,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1NTkwMiwwMDAwMDAwMGMyMTY2OWQxNDExMDZhZjIwMDYwMDY1NDk2Y2QwNGI5",
+  "snapshot_id": "MTY4MTQ1NTkwMiwwMDAwMDAwMDkyMGNjYjI4MjE0NTBhMGJmYmFjMzhmNWNmODYxMTZl",
   "tracks": [
     {
       "added_at": "2023-04-14 07:05:02",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-04-14 07:05:02",
       "album": {
-        "name": "The Teddy Charles Tentet",
-        "url": "https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh"
-      },
-      "artists": [
-        {
-          "name": "Teddy Charles",
-          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
-        }
-      ],
-      "duration_ms": 350720,
-      "name": "The Quiet Time",
-      "url": "https://open.spotify.com/track/6WAHaBnRvUFjw6L6Q2mMDh"
-    },
-    {
-      "added_at": "2023-04-14 07:05:02",
-      "album": {
         "name": "Chico Hamilton Quintet In Hi-Fi",
         "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 219760,
       "name": "The Wind",
       "url": "https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2"
+    },
+    {
+      "added_at": "2023-04-14 07:05:02",
+      "album": {
+        "name": "The Teddy Charles Tentet",
+        "url": "https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh"
+      },
+      "artists": [
+        {
+          "name": "Teddy Charles",
+          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
+        }
+      ],
+      "duration_ms": 350720,
+      "name": "The Quiet Time",
+      "url": "https://open.spotify.com/track/6WAHaBnRvUFjw6L6Q2mMDh"
     },
     {
       "added_at": "2023-04-14 07:05:02",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-04-14 07:05:02",
       "album": {
-        "name": "Jazz Loves Paris",
-        "url": "https://open.spotify.com/album/5aXQDmS6CoqSi8MJ3kRdYq"
-      },
-      "artists": [
-        {
-          "name": "Buddy Collette",
-          "url": "https://open.spotify.com/artist/1ZsOY6yOMW2n8M7mzKuTpR"
-        }
-      ],
-      "duration_ms": 146306,
-      "name": "Pigalle",
-      "url": "https://open.spotify.com/track/4vwJminEIogBjD68EE6nLM"
-    },
-    {
-      "added_at": "2023-04-14 07:05:02",
-      "album": {
         "name": "Stan Getz At The Shrine",
         "url": "https://open.spotify.com/album/2fXvQcPb7ZVTr0GqLE1j12"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 410800,
       "name": "Brandenburg Gate",
       "url": "https://open.spotify.com/track/4p71KdIiYX7KQrkXoXE32X"
+    },
+    {
+      "added_at": "2023-04-14 07:05:02",
+      "album": {
+        "name": "Jazz Loves Paris",
+        "url": "https://open.spotify.com/album/5aXQDmS6CoqSi8MJ3kRdYq"
+      },
+      "artists": [
+        {
+          "name": "Buddy Collette",
+          "url": "https://open.spotify.com/artist/1ZsOY6yOMW2n8M7mzKuTpR"
+        }
+      ],
+      "duration_ms": 146306,
+      "name": "Pigalle",
+      "url": "https://open.spotify.com/track/4vwJminEIogBjD68EE6nLM"
     },
     {
       "added_at": "2023-04-14 07:05:02",

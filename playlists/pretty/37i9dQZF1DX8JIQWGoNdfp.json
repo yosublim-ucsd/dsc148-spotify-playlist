@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/cheetah/\">Tyreek Hill</a>",
-  "num_followers": 15887,
+  "num_followers": 15986,
   "original_name": "Tyreek Hill's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY3NTQ4MywwMDAwMDAwMGExMGRhNjE5ZWZmZDYyZTA3NTM1OWM0ZmRkMDU4Yjc2",
+  "snapshot_id": "MTY2NDY3NTQ4MywwMDAwMDAwMGI0ZGI5YjBkODUwM2VmYjhiMTU0YTRmMWRkOWEzMDcy",
   "tracks": [
     {
       "added_at": "2022-10-02 01:51:23",
@@ -119,6 +119,22 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
+        "name": "Heartbreak Anniversary",
+        "url": "https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 196794,
+      "name": "Heartbreak Anniversary",
+      "url": "https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
         "name": "H.E.R.",
         "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 193146,
       "name": "Adorn",
       "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
-        "name": "Heartbreak Anniversary",
-        "url": "https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 196794,
-      "name": "Heartbreak Anniversary",
-      "url": "https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T"
     },
     {
       "added_at": "2022-10-02 01:51:23",

@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 346566,
+  "num_followers": 346828,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTUyMTczNSwwMDAwMDAwMDk2MzU4ZDMwODJhMWU5Mjg2N2EyNzJlZWQzYjY4MWY5",
+  "snapshot_id": "MTY4MTUyMTczNSwwMDAwMDAwMGNiMzZkYzFiZTA5MDFhODkxMWQ5OTBiZDBmOTQzOWRl",
   "tracks": [
     {
       "added_at": "2023-04-15 01:22:15",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-04-15 01:22:15",
       "album": {
-        "name": "Morning Dance",
-        "url": "https://open.spotify.com/album/0p1cZEnGXZvsDbDvKfCevD"
-      },
-      "artists": [
-        {
-          "name": "Amine Ayad",
-          "url": "https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM"
-        }
-      ],
-      "duration_ms": 115124,
-      "name": "Morning Dance",
-      "url": "https://open.spotify.com/track/73uDJDqIcF5QQWXZ19rH8z"
-    },
-    {
-      "added_at": "2023-04-15 01:22:15",
-      "album": {
         "name": "Release from silence",
         "url": "https://open.spotify.com/album/3CFaQNYtGUK5Y669NHFBgQ"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 137642,
       "name": "Release from silence",
       "url": "https://open.spotify.com/track/2t9Fi5LCyFyha1EfaPqVD9"
+    },
+    {
+      "added_at": "2023-04-15 01:22:15",
+      "album": {
+        "name": "Morning Dance",
+        "url": "https://open.spotify.com/album/0p1cZEnGXZvsDbDvKfCevD"
+      },
+      "artists": [
+        {
+          "name": "Amine Ayad",
+          "url": "https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM"
+        }
+      ],
+      "duration_ms": 115124,
+      "name": "Morning Dance",
+      "url": "https://open.spotify.com/track/73uDJDqIcF5QQWXZ19rH8z"
     },
     {
       "added_at": "2023-04-15 01:22:15",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-04-15 01:22:15",
       "album": {
-        "name": "Nowesind",
-        "url": "https://open.spotify.com/album/0nz4s5aDqAOYKdbogoo15X"
-      },
-      "artists": [
-        {
-          "name": "Jacob David",
-          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
-        }
-      ],
-      "duration_ms": 119120,
-      "name": "Nowesind",
-      "url": "https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383"
-    },
-    {
-      "added_at": "2023-04-15 01:22:15",
-      "album": {
         "name": "Benediction",
         "url": "https://open.spotify.com/album/7EeehH5tzO7PSCdG1xbYCE"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 143920,
       "name": "Benediction",
       "url": "https://open.spotify.com/track/0vebajCQqWh9EQ5wAYguqo"
+    },
+    {
+      "added_at": "2023-04-15 01:22:15",
+      "album": {
+        "name": "Nowesind",
+        "url": "https://open.spotify.com/album/0nz4s5aDqAOYKdbogoo15X"
+      },
+      "artists": [
+        {
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+        }
+      ],
+      "duration_ms": 119120,
+      "name": "Nowesind",
+      "url": "https://open.spotify.com/track/2p5THyuNwpJ9c7ex3TN383"
     },
     {
       "added_at": "2023-04-15 01:22:15",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-04-15 01:22:15",
       "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy"
-      },
-      "artists": [
-        {
-          "name": "Nate LaFleur",
-          "url": "https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c"
-        }
-      ],
-      "duration_ms": 154874,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp"
-    },
-    {
-      "added_at": "2023-04-15 01:22:15",
-      "album": {
         "name": "Before We Met",
         "url": "https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 113285,
       "name": "Before We Met",
       "url": "https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl"
+    },
+    {
+      "added_at": "2023-04-15 01:22:15",
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/2KXDHx3NuRF80LGECFVwAy"
+      },
+      "artists": [
+        {
+          "name": "Nate LaFleur",
+          "url": "https://open.spotify.com/artist/7uCSp3FWJEgez6UBDnQb4c"
+        }
+      ],
+      "duration_ms": 154874,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/2QvgJkZmnXdozvMMgfohJp"
     },
     {
       "added_at": "2023-04-15 01:22:15",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-04-15 01:22:15",
       "album": {
+        "name": "Never Let You Go",
+        "url": "https://open.spotify.com/album/1FIwOBM5t5dIuJNXH5VaPT"
+      },
+      "artists": [
+        {
+          "name": "Junie Graziano",
+          "url": "https://open.spotify.com/artist/3X2b9Hkj2Rk6gnPq8Lv9QT"
+        }
+      ],
+      "duration_ms": 114232,
+      "name": "Never Let You Go",
+      "url": "https://open.spotify.com/track/4p1twb8bM9ZmWE2msuH8E8"
+    },
+    {
+      "added_at": "2023-04-15 01:22:15",
+      "album": {
         "name": "Periferi",
         "url": "https://open.spotify.com/album/1hlrScthcnYasjcFUZk5Ca"
       },
@@ -1247,18 +1263,18 @@
     {
       "added_at": "2023-04-15 01:22:15",
       "album": {
-        "name": "Hideaway",
-        "url": "https://open.spotify.com/album/1Vhx6ow2PDJROoX3ND5dEy"
+        "name": "Monte Viso",
+        "url": "https://open.spotify.com/album/3TeppbYQnOGDMo1uloj3Ya"
       },
       "artists": [
         {
-          "name": "Igulfrid",
-          "url": "https://open.spotify.com/artist/5mvjbSc65aNXZZ0G4p6bMQ"
+          "name": "Gente di Toscana",
+          "url": "https://open.spotify.com/artist/3O8REjW84wRHnhTtc2bI4Q"
         }
       ],
-      "duration_ms": 148906,
-      "name": "Hideaway",
-      "url": "https://open.spotify.com/track/2HwCcCi8Up9NECNBRt0yTV"
+      "duration_ms": 95733,
+      "name": "Monte Viso",
+      "url": "https://open.spotify.com/track/2PPYHVE2EqwC8GASDE5Qzi"
     },
     {
       "added_at": "2023-04-15 01:22:15",
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2023-04-15 01:22:15",
       "album": {
-        "name": "Monte Viso",
-        "url": "https://open.spotify.com/album/3TeppbYQnOGDMo1uloj3Ya"
+        "name": "Hideaway",
+        "url": "https://open.spotify.com/album/1Vhx6ow2PDJROoX3ND5dEy"
       },
       "artists": [
         {
-          "name": "Gente di Toscana",
-          "url": "https://open.spotify.com/artist/3O8REjW84wRHnhTtc2bI4Q"
+          "name": "Igulfrid",
+          "url": "https://open.spotify.com/artist/5mvjbSc65aNXZZ0G4p6bMQ"
         }
       ],
-      "duration_ms": 95733,
-      "name": "Monte Viso",
-      "url": "https://open.spotify.com/track/2PPYHVE2EqwC8GASDE5Qzi"
+      "duration_ms": 148906,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/2HwCcCi8Up9NECNBRt0yTV"
     },
     {
       "added_at": "2023-04-15 01:22:15",
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2023-04-15 01:22:15",
       "album": {
-        "name": "Young Ones",
-        "url": "https://open.spotify.com/album/51MGom472Eavc62kUlZq19"
-      },
-      "artists": [
-        {
-          "name": "Charles Weathersby",
-          "url": "https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz"
-        }
-      ],
-      "duration_ms": 205100,
-      "name": "Young Ones",
-      "url": "https://open.spotify.com/track/502QNU8kHHhL4rA9ft0Jcl"
-    },
-    {
-      "added_at": "2023-04-15 01:22:15",
-      "album": {
         "name": "Handmade",
         "url": "https://open.spotify.com/album/5ijcw0HbORqBNtZX354WBu"
       },
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2023-04-15 01:22:15",
       "album": {
-        "name": "Never Let You Go",
-        "url": "https://open.spotify.com/album/1FIwOBM5t5dIuJNXH5VaPT"
+        "name": "Young Ones",
+        "url": "https://open.spotify.com/album/51MGom472Eavc62kUlZq19"
       },
       "artists": [
         {
-          "name": "Junie Graziano",
-          "url": "https://open.spotify.com/artist/3X2b9Hkj2Rk6gnPq8Lv9QT"
+          "name": "Charles Weathersby",
+          "url": "https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz"
         }
       ],
-      "duration_ms": 114232,
-      "name": "Never Let You Go",
-      "url": "https://open.spotify.com/track/4p1twb8bM9ZmWE2msuH8E8"
+      "duration_ms": 205100,
+      "name": "Young Ones",
+      "url": "https://open.spotify.com/track/502QNU8kHHhL4rA9ft0Jcl"
     },
     {
       "added_at": "2023-04-15 01:22:15",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-04-15 01:22:15",
       "album": {
-        "name": "Staden",
-        "url": "https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3"
-      },
-      "artists": [
-        {
-          "name": "Anders Linros",
-          "url": "https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv"
-        }
-      ],
-      "duration_ms": 121946,
-      "name": "Staden",
-      "url": "https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9"
-    },
-    {
-      "added_at": "2023-04-15 01:22:15",
-      "album": {
         "name": "Tr\u00e4umerei",
         "url": "https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 127250,
       "name": "Tr\u00e4umerei",
       "url": "https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb"
+    },
+    {
+      "added_at": "2023-04-15 01:22:15",
+      "album": {
+        "name": "Staden",
+        "url": "https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3"
+      },
+      "artists": [
+        {
+          "name": "Anders Linros",
+          "url": "https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv"
+        }
+      ],
+      "duration_ms": 121946,
+      "name": "Staden",
+      "url": "https://open.spotify.com/track/0ttyQPhxTXajLR9vNCBvV9"
     },
     {
       "added_at": "2023-04-15 01:22:15",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-04-15 01:22:15",
       "album": {
-        "name": "Untold Stories",
-        "url": "https://open.spotify.com/album/59nquXEWI0QEkmcdxz3wD3"
+        "name": "Remembrance",
+        "url": "https://open.spotify.com/album/18AmlmJCgCIBEXpFhKAvce"
       },
       "artists": [
         {
-          "name": "Josh Kramer",
-          "url": "https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG"
+          "name": "Miriam Raye",
+          "url": "https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2"
         }
       ],
-      "duration_ms": 182836,
-      "name": "Untold Stories",
-      "url": "https://open.spotify.com/track/5opvuJQY6nSCwA0Wj42yC9"
+      "duration_ms": 191980,
+      "name": "Remembrance",
+      "url": "https://open.spotify.com/track/6stVkYBRCRAL6Eqomde583"
     }
   ],
   "unique_name": "Coffee and Piano",

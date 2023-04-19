@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest songs from LGBTQIA+ artists. Cover: Joy Oladokun",
+  "description": "The hottest songs from LGBTQIA+ artists. Cover: Rina Sawayama",
   "name": "GLOW",
   "tracks": [
     {
@@ -1197,6 +1197,24 @@
     },
     {
       "album": {
+        "name": "Rah",
+        "url": "https://open.spotify.com/album/4mycV2gcEOnp7q3LWYTMrw"
+      },
+      "artists": [
+        {
+          "name": "Desire Marea",
+          "url": "https://open.spotify.com/artist/7xfBWpNiwO2yteiY68OB6C"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317482,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/2qTtGNOnV1qDCRKpte2ena"
+    },
+    {
+      "album": {
         "name": "Near Life Experience Part One",
         "url": "https://open.spotify.com/album/0Mzy64DaJ2GTdPHStsn1qf"
       },
@@ -1374,7 +1392,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 212160,
       "name": "Bella Don",
       "url": "https://open.spotify.com/track/5mFyLCpEEKACqpmohDNK1M"
@@ -3215,6 +3233,28 @@
     },
     {
       "album": {
+        "name": "Dolce Vita",
+        "url": "https://open.spotify.com/album/1m0XMvYDp5d19yxvs4NblQ"
+      },
+      "artists": [
+        {
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+        },
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234246,
+      "name": "Dolce Vita",
+      "url": "https://open.spotify.com/track/2IfNpjacG5irElu8VbHU9r"
+    },
+    {
+      "album": {
         "name": "DONTLEAVEMYSIDE",
         "url": "https://open.spotify.com/album/45yxAZGb7qbBFG9mxBrYc5"
       },
@@ -3592,6 +3632,24 @@
       "duration_ms": 282520,
       "name": "Eye Candy",
       "url": "https://open.spotify.com/track/4HIXMVQsgysJZGr5WoNLNo"
+    },
+    {
+      "album": {
+        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184281,
+      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
     },
     {
       "album": {
@@ -4116,7 +4174,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 221500,
       "name": "Fuck It!",
       "url": "https://open.spotify.com/track/4GTa4r47RMGgVzESGRmEul"
@@ -6692,7 +6750,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 154626,
       "name": "Kaleidosc\u00f3pica",
       "url": "https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK"
@@ -10532,7 +10590,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 210461,
       "name": "Sou M\u00e1",
       "url": "https://open.spotify.com/track/34H4IXC9nFhmxYQlFm5PzJ"
@@ -11745,6 +11803,28 @@
     },
     {
       "album": {
+        "name": "Turned Heads",
+        "url": "https://open.spotify.com/album/4X1xAPK4ft5jb9MPvUuDDX"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        },
+        {
+          "name": "Janey Jack\u00e9",
+          "url": "https://open.spotify.com/artist/2n7tUIeULpqEweNoyaNJ7v"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Turned Heads",
+      "url": "https://open.spotify.com/track/4GKDapJjK9DOCG3ZQdWxcG"
+    },
+    {
+      "album": {
         "name": "Twin Flame",
         "url": "https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy"
       },
@@ -12408,6 +12488,24 @@
       "duration_ms": 174545,
       "name": "XOXOY2K",
       "url": "https://open.spotify.com/track/48BnZIv8dDo91L13l7IeAt"
+    },
+    {
+      "album": {
+        "name": "XY",
+        "url": "https://open.spotify.com/album/3UipNYaJ8PHiwlsvGRhhE9"
+      },
+      "artists": [
+        {
+          "name": "Zeno \u9867\u5b9a\u8ed2",
+          "url": "https://open.spotify.com/artist/2gYJz5eXlBCxVDKodgl9BK"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209115,
+      "name": "XY",
+      "url": "https://open.spotify.com/track/0SWutMMPzxvXjEOWE4k7hG"
     },
     {
       "album": {

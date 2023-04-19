@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Elohim
 
-386 songs - 21 hr 39 min
+387 songs - 21 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [dive in](https://open.spotify.com/track/5r4Ng8Yg5ekJOQVSqHYkaE) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [dive in](https://open.spotify.com/album/1eL6sP8iKnZGZiEEdzF5d5) | 2:51 | 2022-04-08 | 2022-07-09 |
 | [do you](https://open.spotify.com/track/5d5LfzyA5IqqEr31Wxjw2Y) | [Dot](https://open.spotify.com/artist/1A18QbMmejwewRn5hfEFMT) | [life support](https://open.spotify.com/album/4usDFSWnjxy6p0kGTN6W67) | 2:28 | 2021-08-06 | 2022-07-29 |
 | [Dodgeball](https://open.spotify.com/track/0zhh7NAHesDIGWK5b5DbUm) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Dodgeball](https://open.spotify.com/album/6uwuw4B8fviW9Wu0awFi1N) | 3:07 | 2021-08-06 | 2022-07-28 |
-| [Dog Years \- weird inside Remix](https://open.spotify.com/track/15zSGbZomfOYEJJdZ55OAs) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [weird inside](https://open.spotify.com/artist/4iylWAhvTVtSVhIeAoM7Bl) | [Dog Years \(weird inside Remix\)](https://open.spotify.com/album/4w49KsCkFCr70tlMIm436k) | 2:23 | 2022-03-04 |  |
+| [Dog Years \- weird inside Remix](https://open.spotify.com/track/15zSGbZomfOYEJJdZ55OAs) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [weird inside](https://open.spotify.com/artist/4iylWAhvTVtSVhIeAoM7Bl) | [Dog Years \(weird inside Remix\)](https://open.spotify.com/album/4w49KsCkFCr70tlMIm436k) | 2:23 | 2022-03-04 | 2023-04-19 |
 | [DOJA](https://open.spotify.com/track/2OcgucDdE5RffQXc5bLm1x) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [DOJA](https://open.spotify.com/album/2F0MtotAFhIaMTIk4cLVuL) | 2:37 | 2023-02-10 |  |
 | [Dominate](https://open.spotify.com/track/6zBFQ5dWHEmEx2RDoZ1ZP2) | [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP) | [Dominate](https://open.spotify.com/album/3Ger0zMysHrdm6H15k1n3D) | 3:54 | 2021-08-06 | 2023-02-04 |
 | [Down The Line](https://open.spotify.com/track/23ntTt28Gi43YbexAyAP8K) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Down The Line](https://open.spotify.com/album/2aBppqWbkkARYjUW6VoTxs) | 3:28 | 2023-02-10 |  |
@@ -126,6 +126,7 @@
 | [FLOW IN YOU](https://open.spotify.com/track/4isX1HXrZwPtobTgFAWokB) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [June One](https://open.spotify.com/artist/0aWV0dhiGN7C4U2NnsgAqQ) | [FLOW IN YOU](https://open.spotify.com/album/55BRp7ExsBopCMFVTSmElu) | 3:05 | 2022-03-18 | 2023-02-26 |
 | [Flower of the Wind](https://open.spotify.com/track/2PIo2YBd3uzJcRAjUKRJc4) | [TOFIE](https://open.spotify.com/artist/4pnrk5QCXeKifcD98STB24), [Wisteria Iroha](https://open.spotify.com/artist/4NxpFFEJFmFMRFraOBXX0G) | [Flower of the Wind](https://open.spotify.com/album/2l3V5ojcuK3OVi6x0XB9PB) | 2:44 | 2021-08-06 | 2022-04-20 |
 | [Fluorescent](https://open.spotify.com/track/4bQiPmKSrDHD048lUKr7Fu) | [Fossa Beats](https://open.spotify.com/artist/2J7Bw3q4TQwPwSjNPmASKt), [CLLLAPS](https://open.spotify.com/artist/0jD8XI9pbjScAPdPF7F29Z) | [Fluorescent](https://open.spotify.com/album/4KiRQ2xo0RtzKy6ZOFQ6gz) | 3:35 | 2021-08-06 | 2022-07-28 |
+| [Fool](https://open.spotify.com/track/1bDclm0e8PVf7t8D0UEl1i) | [Ekali](https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd), [Bloom](https://open.spotify.com/artist/3SPZXcOrF8xSvlu8F36l3G) | [Fool](https://open.spotify.com/album/6TAhNtHs5NGaEViqb1uINw) | 3:40 | 2023-04-13 |  |
 | [Forever](https://open.spotify.com/track/0wzFugjnb3aytMSNZdwdyK) | [Aliiias](https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG) | [Forever](https://open.spotify.com/album/3i8qdcmSXTcZDmZYaoq7qN) | 3:04 | 2022-02-18 | 2022-07-01 |
 | [Forever \- Pauline Herr Rework](https://open.spotify.com/track/4461Ozpndhv2AjNqe6d0Ic) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Loner \(Remixes\)](https://open.spotify.com/album/0MOgYRLnYJNdSd8EsqT4dJ) | 2:50 | 2023-03-16 |  |
 | [Forte](https://open.spotify.com/track/2CSneRO5qx2XF7st3k9x0D) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Forte](https://open.spotify.com/album/3DbbEUCzn198WFMjdbIVrz) | 3:50 | 2022-12-21 | 2023-04-04 |

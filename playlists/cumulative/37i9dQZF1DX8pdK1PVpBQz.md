@@ -4,7 +4,7 @@
 
 > Discover something new from local independent artists on the rise\. Cover: Hanbee\. Artwork: Isu Kim
 
-1,954 songs - 4 day 11 hr 58 min
+1,955 songs - 4 day 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1513,7 +1513,8 @@
 | [SKI LIFT 001](https://open.spotify.com/track/5hLvxLHFWmJ3El0vcUKET7) | [Jack Panther](https://open.spotify.com/artist/2uSgBrZHrd1cZDZKZX0PDN) | [SKI LIFT 001](https://open.spotify.com/album/0yNC7mLZ2rHoCsKxR3kJQ4) | 3:13 | 2022-04-27 | 2023-01-13 |
 | [Skin](https://open.spotify.com/track/3pD7ouIW65U6DAXoaIJsYN) | [CRYSTAL](https://open.spotify.com/artist/6erlraTakz7StG0neFXqbg) | [Skin](https://open.spotify.com/album/2AxVopmpBrUglkTcjOWfiB) | 2:50 | 2023-02-01 | 2023-02-23 |
 | [Skin](https://open.spotify.com/track/3EL8qotc4kz3b79mous2Nl) | [PARK RD](https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo) | [Stupid Stories](https://open.spotify.com/album/13zsmumGsAxZ0bL6FjYX1L) | 3:32 | 2022-06-15 | 2022-07-28 |
-| [Skit](https://open.spotify.com/track/0wkHyMOA3ich6amIw3rs8Y) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Skit](https://open.spotify.com/album/1dmvxkLnbRDI3F3T8LmCN8) | 3:38 | 2023-04-12 |  |
+| [Skit](https://open.spotify.com/track/0wkHyMOA3ich6amIw3rs8Y) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Skit](https://open.spotify.com/album/1dmvxkLnbRDI3F3T8LmCN8) | 3:38 | 2023-04-12 | 2023-04-19 |
+| [Skit](https://open.spotify.com/track/7peClIkcdZ744Srzrjah5b) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Skit](https://open.spotify.com/album/5N6ZyyaFBYdWMW52DbgJrR) | 3:38 | 2023-04-12 |  |
 | [skylers song](https://open.spotify.com/track/13DomtHlSSqgLUuBFklwJ4) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj) | [skylers song](https://open.spotify.com/album/3m4RpXbKmLHaiKVqnoLaMi) | 3:40 | 2022-10-26 | 2022-11-24 |
 | [sleep in](https://open.spotify.com/track/6x25b9ZpImUz4pniORsgvA) | [teddie](https://open.spotify.com/artist/413K7knAxLgSwXtGFEGuAP) | [sleep in](https://open.spotify.com/album/5DsgOv6IVWT98bHh3zl7F8) | 2:37 | 2022-07-06 | 2022-08-04 |
 | [Sleeping Head](https://open.spotify.com/track/666e2RA6WaR8nT0P9Og798) | [David West](https://open.spotify.com/artist/2vSYTyCUJghDirhxBQIIJZ) | [Jolly in the Bush](https://open.spotify.com/album/1gRUyHsnec5MK2j2gmguDI) | 5:40 | 2022-03-09 | 2022-03-24 |

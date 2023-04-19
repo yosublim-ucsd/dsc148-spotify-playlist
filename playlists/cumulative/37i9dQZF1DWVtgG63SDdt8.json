@@ -36252,13 +36252,17 @@
         {
           "name": "ICF Worship",
           "url": "https://open.spotify.com/artist/0uw5aNQFG4WgdsqkElEHrW"
+        },
+        {
+          "name": "Dave Kull",
+          "url": "https://open.spotify.com/artist/1oYZ5B6SKUsakDOAjeA1wu"
         }
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 258946,
-      "name": "Make Us Brave",
+      "name": "Make Us Brave - Live",
       "url": "https://open.spotify.com/track/1BpAgJjJoWai55w1rh9WdH"
     },
     {
@@ -51388,10 +51392,28 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 259426,
       "name": "Song Of My Salvation - Live",
       "url": "https://open.spotify.com/track/2bMGimLuvFdSQ2wTsBjJrI"
+    },
+    {
+      "album": {
+        "name": "All To Jesus (Live)",
+        "url": "https://open.spotify.com/album/6nnFeb5sm2y94TYPzM0iPl"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259426,
+      "name": "Song Of My Salvation - Live",
+      "url": "https://open.spotify.com/track/2ymy4lR2jAhvlNyzdqqo1a"
     },
     {
       "album": {

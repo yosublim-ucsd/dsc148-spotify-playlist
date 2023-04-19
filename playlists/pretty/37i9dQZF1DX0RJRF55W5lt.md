@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,800 likes - 75 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,979 likes - 75 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 17 | [Teardrops \(Flava 7" Mix\)](https://open.spotify.com/track/49hFJr1GCLuf0d7zeyyjIJ) | [Lovestation](https://open.spotify.com/artist/3LRRdfXOYGIcwLviuwDIf1) | [Teardrops](https://open.spotify.com/album/6AJuYuamYUyOkn34HJ2kH6) | 3:46 |
 | 18 | [Gabriel \- Live Garage Mix](https://open.spotify.com/track/6fSdR81YvNG8Wo6i2ytLPR) | [Roy Davis Jr.](https://open.spotify.com/artist/3O81ptrvwO8etw6HwABJs8), [Peven Everett](https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY) | [Gabriel](https://open.spotify.com/album/6tpMPtjSNecQgsJlXHXARd) | 7:23 |
 | 19 | [Sorry! \(I Didn't Know\) \- Original Radio Edit](https://open.spotify.com/track/1Hcu2NeyCTqcvk2UByNzIR) | [Monsta Boy](https://open.spotify.com/artist/0YgabnWomkooWIaTM6VOfE) | [Sorry](https://open.spotify.com/album/1bzhoN9vur8qy0l7TCnnid) | 4:10 |
-| 20 | [Imagine \- Asylum Remix](https://open.spotify.com/track/23k9zieWoOTm67FVWkvAFn) | [Shola Ama](https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6) | [You Might Need Somebody](https://open.spotify.com/album/73sppbd5vjMj9FkogKQN6r) | 5:40 |
-| 21 | [Nitelife \- Armand Van Helden Retail Mix](https://open.spotify.com/track/2F5W5f8COoQKpoGqPcZ1EN) | [Kim English](https://open.spotify.com/artist/1Tvhj4mF2pvvAT1InLbRKs) | [Nitelife \- Armand Van Helden Remixes](https://open.spotify.com/album/0ZyL3OOBX6XeFfXMvwrcen) | 6:57 |
+| 20 | [Nitelife \- Armand Van Helden Retail Mix](https://open.spotify.com/track/2F5W5f8COoQKpoGqPcZ1EN) | [Kim English](https://open.spotify.com/artist/1Tvhj4mF2pvvAT1InLbRKs) | [Nitelife \- Armand Van Helden Remixes](https://open.spotify.com/album/0ZyL3OOBX6XeFfXMvwrcen) | 6:57 |
+| 21 | [Imagine \- Asylum Remix](https://open.spotify.com/track/23k9zieWoOTm67FVWkvAFn) | [Shola Ama](https://open.spotify.com/artist/1XCorAp4vtEceWjPgyiiw6) | [You Might Need Somebody](https://open.spotify.com/album/73sppbd5vjMj9FkogKQN6r) | 5:40 |
 | 22 | [All I Want \- Sunship Radio Edit](https://open.spotify.com/track/0tWdRXWDUd1gWLthXgk6Dp) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn), [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Mis\-Teeq](https://open.spotify.com/album/7fw8rAhWi3UWw92jgemhbZ) | 3:27 |
 | 23 | [I Refuse \(What You Want\) \- Industry Standard Radio Mix](https://open.spotify.com/track/6X00moMegr2nwytMZbiD5P) | [Somore](https://open.spotify.com/artist/1erEuKt8YFKmHz3qC4LViw), [Damon Trueitt](https://open.spotify.com/artist/00TSU8ZyeaRjUvvCOwbJey) | [I Refuse: Collected, Vol.1 \(Remixes\)](https://open.spotify.com/album/6AsGgCPli9nNHqsbtgM1v4) | 3:27 |
 | 24 | [Garage Girls \- Sunship Radio Edit](https://open.spotify.com/track/4P5Rntc1SI0IGeqlrWJQCq) | [Lonyo](https://open.spotify.com/artist/7ggOyf2aSSBXOS8RTvy9Mz), [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Garage Girls](https://open.spotify.com/album/1fL1Un5OtmTDzL8jWOfy0M) | 3:20 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 52 | [Try Me Out \- Let Me Lick It](https://open.spotify.com/track/09WSDEUOZeRRtPf7ypQVoo) | [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau), [Anita Kelsey](https://open.spotify.com/artist/5ZH3ADznCGt5IWQ0yi9Vjn) | [Try Me Out](https://open.spotify.com/album/0lawHOxvdFwQVQZNLHSPKm) | 5:43 |
 | 53 | [Let's Groove](https://open.spotify.com/track/2amYO9uSLjsHfLSUZVh5Wq) | [George Morel](https://open.spotify.com/artist/1lFrAhvIUbiWsTEMexSlDy) | [Morel's Grooves \(Pt\. 4\)](https://open.spotify.com/album/4YAQY5sSGCgBG9auquen4A) | 6:57 |
 | 54 | [Joyrider \- Y Tribe's Underground Remix](https://open.spotify.com/track/01GLLCecGsPfuPmFHDqMCu) | [Colour Girl](https://open.spotify.com/artist/3KZJwlDEn12LcMe7y1uPlH), [Y Tribe](https://open.spotify.com/artist/2oJ21FASyQQIfQEcl4G8Nj) | [Raw Talent: 3 Years In The Makin' \(2007\-2010\)](https://open.spotify.com/album/6GvInLag1pb1mhCn11p5iw) | 3:59 |
-| 55 | [138 Trek](https://open.spotify.com/track/41rcTbVxz3b2Rv4RngYKj8) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ) | [Beats by Design](https://open.spotify.com/album/7fa3b5DjCmd7aejFh1l2Zn) | 5:08 |
-| 56 | [Friendly Pressure \- Into The Sunshine Edit](https://open.spotify.com/track/7vfIghWey3FItmcZXZy2fE) | [Jhelisa](https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA), [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Friendly Pressure \(Sunship Remixes\)](https://open.spotify.com/album/4xL1q1T0osu9ecX7OCbf84) | 3:49 |
+| 55 | [Friendly Pressure \- Into The Sunshine Edit](https://open.spotify.com/track/7vfIghWey3FItmcZXZy2fE) | [Jhelisa](https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA), [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Friendly Pressure \(Sunship Remixes\)](https://open.spotify.com/album/4xL1q1T0osu9ecX7OCbf84) | 3:49 |
+| 56 | [138 Trek](https://open.spotify.com/track/41rcTbVxz3b2Rv4RngYKj8) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ) | [Beats by Design](https://open.spotify.com/album/7fa3b5DjCmd7aejFh1l2Zn) | 5:08 |
 | 57 | [Love Shy \- Tuff Jam Vocal Mix](https://open.spotify.com/track/5oZnoalYwu89qmkx3gZORI) | [Kristine Blond](https://open.spotify.com/artist/3cqSnNd8C7qh2cUSh2NnrE), [Tuff Jam](https://open.spotify.com/artist/75HAYbl77Jah0RGasPTXk1) | [Love Shy](https://open.spotify.com/album/3QqOTn1e6K1LV9xwYKgRH1) | 4:09 |
 | 58 | [Deep Inside \- Shadow Child Remix Edit](https://open.spotify.com/track/1jQcOeW5okWigW2CzW6MrM) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside \(Remixes\)](https://open.spotify.com/album/2kVFyllWGoCFiDdpwHaTxs) | 2:25 |
 | 59 | [Poision](https://open.spotify.com/track/03vwrapDLyriXEYpM1GJPj) | [DJ Luck & MC Neat](https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF), [Scott Garcia](https://open.spotify.com/artist/4pmXP4rg8C8WmWtoCWdC9b), [Shy Cookie](https://open.spotify.com/artist/65wWCNrpeb8t3A6707RG5B) | [Poision](https://open.spotify.com/album/5hZRHbGRokvmSvRFsEdLGL) | 5:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 74 | [All I Do \(Bump & Flex Club Mix\)](https://open.spotify.com/track/6d5kAMXULpIYwfM5MgpiiM) | [Cleptomaniacs](https://open.spotify.com/artist/5vsTFEVitPhOSaJy0aQN6L) | [All I do](https://open.spotify.com/album/7fR9oZPJHUDHoIxD1SxdOw) | 6:08 |
 | 75 | [Realise](https://open.spotify.com/track/2cIg9G9VSyYMsHiDSBzqyz) | [Jeremy Sylvester](https://open.spotify.com/artist/7BRot2uprkudBUXhqv9R9l) | [UK Garage Classics \- Jeremy Sylvester in the Mix \(feat\. Tj Lewis\)](https://open.spotify.com/album/47tJaiF83pAwYUFetzOaDM) | 5:20 |
 
-Snapshot ID: `MTY3NDA1MzQ5MywwMDAwMDAwMDU4YWVkZTY2Zjk1YjU3MjE0NTJjY2M3MGZkMzI0NDY0`
+Snapshot ID: `MTY3NDA1MzQ5MywwMDAwMDAwMGJkYTc1NjQ3Y2YzYjBhYWY4NzA1MzI2YWUxNzI4ZjIz`

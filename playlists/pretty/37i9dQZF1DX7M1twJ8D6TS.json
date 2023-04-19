@@ -1,12 +1,12 @@
 {
   "description": "The biggest Texas Country Hits over the last couple of years. Formerly Texas Music Rewind.",
-  "num_followers": 118935,
+  "num_followers": 119088,
   "original_name": "Texas Country Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMGI2MzRjYzg3YzFkNGFjODNlZjk1ODU2Yzg0YzBhNGU4",
+  "snapshot_id": "MTY3NjA0NTU0OCwwMDAwMDAwMGZkZDZjMTNlMzMyNzVlNjJhZGY2OWE5YjQ4NTE0ZTA2",
   "tracks": [
     {
       "added_at": "2022-05-27 04:00:00",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Muchos Sonidos",
-        "url": "https://open.spotify.com/album/4AyYKQ8iCNv5ZiAhEFRPhE"
+        "name": "Borrowed Time",
+        "url": "https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb"
       },
       "artists": [
         {
-          "name": "Carson Jeffrey",
-          "url": "https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l"
+          "name": "Read Southall Band",
+          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
         }
       ],
-      "duration_ms": 223596,
-      "name": "Ranch Girl Dream",
-      "url": "https://open.spotify.com/track/459Tsc8UpweSq3WqZ80OOV"
+      "duration_ms": 220649,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/3lIseaWnhgvIcklKySbCJV"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -431,18 +431,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Borrowed Time",
-        "url": "https://open.spotify.com/album/6JCx6z1S2vChr5L78EbuRb"
+        "name": "Muchos Sonidos",
+        "url": "https://open.spotify.com/album/4AyYKQ8iCNv5ZiAhEFRPhE"
       },
       "artists": [
         {
-          "name": "Read Southall Band",
-          "url": "https://open.spotify.com/artist/5fGjyURfvKXXCTcnCfU9Dl"
+          "name": "Carson Jeffrey",
+          "url": "https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l"
         }
       ],
-      "duration_ms": 220649,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/3lIseaWnhgvIcklKySbCJV"
+      "duration_ms": 223596,
+      "name": "Ranch Girl Dream",
+      "url": "https://open.spotify.com/track/459Tsc8UpweSq3WqZ80OOV"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "How Lucky Am I",
-        "url": "https://open.spotify.com/album/5FvWijatd6SksRLCD0TpER"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 237578,
-      "name": "How Lucky Am I",
-      "url": "https://open.spotify.com/track/65djCR0BY2s8w1mdL270yj"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Hellbent",
         "url": "https://open.spotify.com/album/2OySP5MCjKzroGIQmljuib"
       },
@@ -771,6 +755,22 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
+        "name": "How Lucky Am I",
+        "url": "https://open.spotify.com/album/5FvWijatd6SksRLCD0TpER"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 237578,
+      "name": "How Lucky Am I",
+      "url": "https://open.spotify.com/track/65djCR0BY2s8w1mdL270yj"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
         "name": "Excuses",
         "url": "https://open.spotify.com/album/4LAo9lNxakhW24GiAW0P6t"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 206646,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/2dXZhZ6OgUPAaiwJs8yR79"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Drowning In Dreams",
+        "url": "https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS"
+      },
+      "artists": [
+        {
+          "name": "Kat Hasty",
+          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
+        }
+      ],
+      "duration_ms": 268968,
+      "name": "Pretty Things",
+      "url": "https://open.spotify.com/track/4629TVxMQhshiEV4D5Uwyy"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -849,22 +865,6 @@
       "url": "https://open.spotify.com/track/6ohgxacIDKLyvvfUYcmKcR"
     },
     {
-      "added_at": "2023-04-18 00:47:30",
-      "album": {
-        "name": "blood",
-        "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 298906,
-      "name": "blood",
-      "url": "https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq"
-    },
-    {
       "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Leanna",
@@ -881,20 +881,20 @@
       "url": "https://open.spotify.com/track/5PAuyhBNkrHp7NTHWjvF7V"
     },
     {
-      "added_at": "2022-05-27 04:00:00",
+      "added_at": "2023-04-19 00:59:11",
       "album": {
-        "name": "Drowning In Dreams",
-        "url": "https://open.spotify.com/album/4OgDsTtnYYixZQ7uVMwsAS"
+        "name": "blood",
+        "url": "https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU"
       },
       "artists": [
         {
-          "name": "Kat Hasty",
-          "url": "https://open.spotify.com/artist/2IpAJkXd1bfzyrq5oRVK4d"
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
         }
       ],
-      "duration_ms": 268968,
-      "name": "Pretty Things",
-      "url": "https://open.spotify.com/track/4629TVxMQhshiEV4D5Uwyy"
+      "duration_ms": 298906,
+      "name": "blood",
+      "url": "https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "One Light Town",
-        "url": "https://open.spotify.com/album/6BwvOmmn7IaK2TkzzsJkHa"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "Queen for a Night",
-      "url": "https://open.spotify.com/track/6Go4PLAMT0aSxqzhEFSn3W"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "When Love Comes Around",
         "url": "https://open.spotify.com/album/1P2UKfT58J3L0wSdUs92jc"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 210437,
       "name": "When Love Comes Around",
       "url": "https://open.spotify.com/track/6YlFNWOL2Q1kFOsIvd3Otm"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "One Light Town",
+        "url": "https://open.spotify.com/album/6BwvOmmn7IaK2TkzzsJkHa"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 196066,
+      "name": "Queen for a Night",
+      "url": "https://open.spotify.com/track/6Go4PLAMT0aSxqzhEFSn3W"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "American Soul",
-        "url": "https://open.spotify.com/album/22WbbbmGJNQWCtnxSk9jXe"
-      },
-      "artists": [
-        {
-          "name": "Aaron Watson",
-          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
-        }
-      ],
-      "duration_ms": 189045,
-      "name": "Boots",
-      "url": "https://open.spotify.com/track/3Yn1z4gHFWuhbNP7dopYCD"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Heaven's Jukebox",
         "url": "https://open.spotify.com/album/1S99G84SweuUP30hI31utF"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 211075,
       "name": "Heaven's Jukebox",
       "url": "https://open.spotify.com/track/33QqkzUWbk3G8pijsnK70L"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "American Soul",
+        "url": "https://open.spotify.com/album/22WbbbmGJNQWCtnxSk9jXe"
+      },
+      "artists": [
+        {
+          "name": "Aaron Watson",
+          "url": "https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3"
+        }
+      ],
+      "duration_ms": 189045,
+      "name": "Boots",
+      "url": "https://open.spotify.com/track/3Yn1z4gHFWuhbNP7dopYCD"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1089,6 +1089,22 @@
       "url": "https://open.spotify.com/track/5KOIbBonnacDrt1TUgWmLe"
     },
     {
+      "added_at": "2023-04-19 00:59:11",
+      "album": {
+        "name": "Pretty Ugly",
+        "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"
+      },
+      "artists": [
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "duration_ms": 178469,
+      "name": "Pretty Ugly",
+      "url": "https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG"
+    },
+    {
       "added_at": "2022-05-27 04:00:00",
       "album": {
         "name": "Where Phones Don't Work",
@@ -1103,22 +1119,6 @@
       "duration_ms": 213643,
       "name": "Phones Don't Work",
       "url": "https://open.spotify.com/track/20XMAhJsX2qZtzfaCxn9Ml"
-    },
-    {
-      "added_at": "2023-04-18 00:47:30",
-      "album": {
-        "name": "Pretty Ugly",
-        "url": "https://open.spotify.com/album/3UN2NT53VVKWF331LmVIzb"
-      },
-      "artists": [
-        {
-          "name": "Jenna Paulette",
-          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
-        }
-      ],
-      "duration_ms": 178469,
-      "name": "Pretty Ugly",
-      "url": "https://open.spotify.com/track/6I29jkpQ7k7iIbQqVIgZmG"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Loser Mentality",
-        "url": "https://open.spotify.com/album/3zCXhcu8LJRfSdmQen1eN6"
-      },
-      "artists": [
-        {
-          "name": "Austin Meade",
-          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
-        }
-      ],
-      "duration_ms": 193525,
-      "name": "Loser Mentality",
-      "url": "https://open.spotify.com/track/2gM5ST0SGj3UkaqnvMatyw"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/5zuGfIFJiNPVuEs1d0ifp7"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 235853,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/6o0ckL7uYKb5Lfw6oaWqUG"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Loser Mentality",
+        "url": "https://open.spotify.com/album/3zCXhcu8LJRfSdmQen1eN6"
+      },
+      "artists": [
+        {
+          "name": "Austin Meade",
+          "url": "https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79"
+        }
+      ],
+      "duration_ms": 193525,
+      "name": "Loser Mentality",
+      "url": "https://open.spotify.com/track/2gM5ST0SGj3UkaqnvMatyw"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "Crown and Coke",
-        "url": "https://open.spotify.com/album/2K2f5FubTucs2sY0g2wJmK"
-      },
-      "artists": [
-        {
-          "name": "Kristen Foreman",
-          "url": "https://open.spotify.com/artist/1Vj1bZDumDGeiyAu3GkGsJ"
-        }
-      ],
-      "duration_ms": 167320,
-      "name": "Crown and Coke",
-      "url": "https://open.spotify.com/track/2LdU5dCjpUOqtYz7l3zI4K"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "Keep on Moving",
         "url": "https://open.spotify.com/album/6C7LiEyzxiKQF7fq287qyc"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 196093,
       "name": "Keep on Moving",
       "url": "https://open.spotify.com/track/6IKJrB5EHuoRqSFYIzmIjw"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "Crown and Coke",
+        "url": "https://open.spotify.com/album/2K2f5FubTucs2sY0g2wJmK"
+      },
+      "artists": [
+        {
+          "name": "Kristen Foreman",
+          "url": "https://open.spotify.com/artist/1Vj1bZDumDGeiyAu3GkGsJ"
+        }
+      ],
+      "duration_ms": 167320,
+      "name": "Crown and Coke",
+      "url": "https://open.spotify.com/track/2LdU5dCjpUOqtYz7l3zI4K"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "High on the Bottle",
-        "url": "https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr"
-      },
-      "artists": [
-        {
-          "name": "Creed Fisher",
-          "url": "https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu"
-        }
-      ],
-      "duration_ms": 253952,
-      "name": "High on the Bottle",
-      "url": "https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4"
-    },
-    {
-      "added_at": "2022-05-27 04:00:00",
-      "album": {
         "name": "What It Doesn\u2019t Do",
         "url": "https://open.spotify.com/album/1MHxVPMWkJwBYn7FNHncra"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2022-05-27 04:00:00",
       "album": {
-        "name": "I Didn't Think About Rain",
-        "url": "https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO"
+        "name": "High on the Bottle",
+        "url": "https://open.spotify.com/album/4Mf1pb2hkmWet5MDEYgtkr"
       },
       "artists": [
         {
-          "name": "Jarrod Morris",
-          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
+          "name": "Creed Fisher",
+          "url": "https://open.spotify.com/artist/03UZwtrCiMR9P10LcjQ5Wu"
         }
       ],
-      "duration_ms": 252320,
-      "name": "I Didn't Think About Rain",
-      "url": "https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm"
+      "duration_ms": 253952,
+      "name": "High on the Bottle",
+      "url": "https://open.spotify.com/track/3PvgOx0N7kbRjVQHD7lXx4"
     },
     {
       "added_at": "2022-05-27 04:00:00",
@@ -1483,6 +1467,22 @@
       "duration_ms": 204788,
       "name": "Picture",
       "url": "https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl"
+    },
+    {
+      "added_at": "2022-05-27 04:00:00",
+      "album": {
+        "name": "I Didn't Think About Rain",
+        "url": "https://open.spotify.com/album/7ska9uxJbebyQnitBOUNBO"
+      },
+      "artists": [
+        {
+          "name": "Jarrod Morris",
+          "url": "https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R"
+        }
+      ],
+      "duration_ms": 252320,
+      "name": "I Didn't Think About Rain",
+      "url": "https://open.spotify.com/track/0LcMlJ3j5yVWohYG6ZMsKm"
     },
     {
       "added_at": "2022-05-27 04:00:00",

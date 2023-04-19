@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,156 songs - 5 day 3 hr 56 min
+2,158 songs - 5 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Best Part of Me](https://open.spotify.com/track/7rV8dlbAAj4pLdrfmgb4Jb) | [Madison Olds](https://open.spotify.com/artist/6n1pH8SgKcxx6dILhKqYFb) | [Best Part of Me](https://open.spotify.com/album/6uzupQZcB8MdToJPpkRwyD) | 3:32 | 2021-07-04 | 2021-09-03 |
 | [Better \(feat\. Shana Tucker & Eric Roberson\)](https://open.spotify.com/track/0hihs6rrk3eL2iRS0xzmpX) | [The Foreign Exchange](https://open.spotify.com/artist/60R4M19QBXvs0gO4IL6CpS), [Shana Tucker](https://open.spotify.com/artist/0KNylMopqFPVtgIDUt7xmR), [Eric Roberson](https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn) | [Love In Flying Colors](https://open.spotify.com/album/54oV0CtDdfiAlwGiixJyS5) | 4:58 | 2022-07-26 |  |
 | [Better Day \(feat\. Aloe Blacc\)](https://open.spotify.com/track/5NeFmsnXBy6xVbz8pesM5l) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Better Day \(feat\. Aloe Blacc\)](https://open.spotify.com/album/5f5QrP11Otp3kH67kC9tTa) | 3:11 | 2020-02-27 | 2020-03-11 |
+| [Better Days](https://open.spotify.com/track/14OYOlqHpT1krZOhS9nVWp) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Better Days](https://open.spotify.com/album/23YSW0QXPquiPL451HXCR1) | 3:27 | 2023-04-18 |  |
 | [Better Days](https://open.spotify.com/track/1xA3vbqRFEev7fL71zrpxf) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [Better Days](https://open.spotify.com/album/3qsTUk003MZlWQ6zrRI8pO) | 2:16 | 2022-07-12 | 2022-07-29 |
 | [Better Distractions](https://open.spotify.com/track/4sPh466Pk3l706g10DO1FO) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Better Distractions](https://open.spotify.com/album/1JskWQrQLVLDi6jpT7Nqcd) | 4:09 | 2021-07-12 | 2021-11-19 |
 | [Better for Me](https://open.spotify.com/track/6nBEjwGB9eFeixOssxPej5) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Better for Me](https://open.spotify.com/album/0CtWFpNS16zbK3C1wHDT4v) | 2:56 | 2021-02-26 | 2021-03-14 |
@@ -1458,6 +1459,7 @@
 | [Perreo](https://open.spotify.com/track/3zLQAiTFmfGeuF0PXihwU6) | [Yetsi](https://open.spotify.com/artist/5CqnNRweklgun6mittzUsC) | [Perreo](https://open.spotify.com/album/0BjfsRCahYuD66okcR8luW) | 2:24 | 2022-09-09 | 2022-09-25 |
 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 | 2022-07-26 |  |
 | [PGT](https://open.spotify.com/track/2o2bLG5JqlwSCZNsx9BvOs) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7) | 3:13 | 2020-08-20 | 2023-02-12 |
+| [PHOENIX](https://open.spotify.com/track/6sGN6tqNCCAgXQ2YHH0SIJ) | [MADNIK](https://open.spotify.com/artist/6Z0ZpfsNLeVU7c88gBa62V) | [PHOENIX](https://open.spotify.com/album/0LXiccMo5zmSnQexL3f2th) | 2:43 | 2023-04-18 |  |
 | [Phone Static](https://open.spotify.com/track/5NZP8Sh5HsVVO83uxLfZkA) | [Ebony Loren](https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY) | [Phone Static](https://open.spotify.com/album/411vVjpFLMiyash5GTxUxE) | 3:02 | 2022-03-22 | 2022-04-08 |
 | [Pick Up Your Feelings](https://open.spotify.com/track/2I7CJZLo2nDqGuzZJA1XlZ) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales](https://open.spotify.com/album/1btIckWsQDd7fAx0BBZF0n) | 3:49 | 2021-07-11 |  |
 | [Piero l'alcolista](https://open.spotify.com/track/2lWhNw8IRC1sB2gfAwleMo) | [Rumori Sospetti](https://open.spotify.com/artist/4jUQPw0JvZCKnt3VrNC9rj) | [Piero l'alcolista](https://open.spotify.com/album/5F7bU9PcJjVsnoDI0r5rEA) | 3:01 | 2020-06-01 | 2020-07-02 |

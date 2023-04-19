@@ -1039,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "For the Love of You",
+        "url": "https://open.spotify.com/album/3IOVFUsrtTjyseXEaKNMvr"
+      },
+      "artists": [
+        {
+          "name": "Henriette Fleich",
+          "url": "https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107730,
+      "name": "For the Love of You",
+      "url": "https://open.spotify.com/track/7hJHeX4A3TdI0cDElWu3Zk"
+    },
+    {
+      "album": {
         "name": "Forget To Remember",
         "url": "https://open.spotify.com/album/52ZvMtN75FSakuTF1LCl6O"
       },
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 142750,
       "name": "Green Leaves",
       "url": "https://open.spotify.com/track/6mDFYF6gUf6GbpP7eAPXWW"
@@ -1404,7 +1422,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 126049,
       "name": "In my quiet hour",
       "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
@@ -1710,7 +1728,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 148000,
       "name": "Luminous Sky",
       "url": "https://open.spotify.com/track/3fpMkw955AzfpSKMrbRZ0T"
@@ -2762,7 +2780,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 126841,
       "name": "Softly",
       "url": "https://open.spotify.com/track/6zJ2ZTSniD1AA9haATbYf7"

@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring La Femme D'Argent & FEMI.",
-  "num_followers": 15329,
+  "num_followers": 15341,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMDY1MDAxNDUxYTA2MTg1Njg4NGZmMzljNGE0YTA0NGMz",
+  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMGE2YjZjOGZjODg2YzAwNjRjNmI4YjEyYWYyNTFkMjBh",
   "tracks": [
     {
       "added_at": "2023-04-14 03:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Tu Color",
-        "url": "https://open.spotify.com/album/2Ga9wGIWzo7m9vnPEkxt1m"
-      },
-      "artists": [
-        {
-          "name": "BUDAYA",
-          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Tu Color",
-      "url": "https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "aquiles </3",
         "url": "https://open.spotify.com/album/7dsvbWKSHY2BroTfogx1uK"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 195053,
       "name": "aquiles </3",
       "url": "https://open.spotify.com/track/3JlmPR9gOPy4OC3zQJp71Y"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Tu Color",
+        "url": "https://open.spotify.com/album/2Ga9wGIWzo7m9vnPEkxt1m"
+      },
+      "artists": [
+        {
+          "name": "BUDAYA",
+          "url": "https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Tu Color",
+      "url": "https://open.spotify.com/track/4vaVD9B0RbZ0Puk9ABIGEm"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Luz de perla",
+        "url": "https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY"
+      },
+      "artists": [
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 161173,
+      "name": "Pido 1 deseo",
+      "url": "https://open.spotify.com/track/1vXAdOBHefeLUBABf5R4U9"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Hyperreal",
         "url": "https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 232173,
       "name": "Autorretrato en Blanco - Versi\u00f3n Lofi",
       "url": "https://open.spotify.com/track/2hTLilKnyaOeQ2Ost5uGDS"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Luz de perla",
-        "url": "https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY"
-      },
-      "artists": [
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 161173,
-      "name": "Pido 1 deseo",
-      "url": "https://open.spotify.com/track/1vXAdOBHefeLUBABf5R4U9"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Sombra",
+        "url": "https://open.spotify.com/album/0A0tOMUxutXdCGwfu8Vr7G"
+      },
+      "artists": [
+        {
+          "name": "Gianna Sotera",
+          "url": "https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc"
+        }
+      ],
+      "duration_ms": 179508,
+      "name": "Sombra",
+      "url": "https://open.spotify.com/track/4SqJD9KD4gidxun001VUf2"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "pulso/yotuoro",
         "url": "https://open.spotify.com/album/2aerjq3cnY5w3SxVSptbme"
       },
@@ -839,6 +855,22 @@
       "duration_ms": 165714,
       "name": "pulso",
       "url": "https://open.spotify.com/track/4NBN5CsKePjr1fY8e5gC5U"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Solitario",
+        "url": "https://open.spotify.com/album/1tassNYSKM3abtcpONTpMq"
+      },
+      "artists": [
+        {
+          "name": "Blue Rojo",
+          "url": "https://open.spotify.com/artist/4x9zOt693Z5NGiuxjOgFFJ"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "NO TE KIERO OLVIDAR",
+      "url": "https://open.spotify.com/track/5TN61Kn0bOxKKVYOGH5BuX"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -863,34 +895,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Solitario",
-        "url": "https://open.spotify.com/album/1tassNYSKM3abtcpONTpMq"
+        "name": "BOTON",
+        "url": "https://open.spotify.com/album/3f3dFNqTR47VfyDeGtZ427"
       },
       "artists": [
         {
-          "name": "Blue Rojo",
-          "url": "https://open.spotify.com/artist/4x9zOt693Z5NGiuxjOgFFJ"
-        }
-      ],
-      "duration_ms": 208400,
-      "name": "NO TE KIERO OLVIDAR",
-      "url": "https://open.spotify.com/track/5TN61Kn0bOxKKVYOGH5BuX"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Sombra",
-        "url": "https://open.spotify.com/album/0A0tOMUxutXdCGwfu8Vr7G"
-      },
-      "artists": [
+          "name": "FERMIN",
+          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
+        },
         {
-          "name": "Gianna Sotera",
-          "url": "https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc"
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
         }
       ],
-      "duration_ms": 179508,
-      "name": "Sombra",
-      "url": "https://open.spotify.com/track/4SqJD9KD4gidxun001VUf2"
+      "duration_ms": 138436,
+      "name": "BOTON",
+      "url": "https://open.spotify.com/track/34WKnyo66SajqdBMooAzl1"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -915,26 +935,6 @@
       "duration_ms": 197933,
       "name": "\u00d3rbita",
       "url": "https://open.spotify.com/track/69nb2ILVOmzn6rJUlbfkTo"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "BOTON",
-        "url": "https://open.spotify.com/album/3f3dFNqTR47VfyDeGtZ427"
-      },
-      "artists": [
-        {
-          "name": "FERMIN",
-          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 138436,
-      "name": "BOTON",
-      "url": "https://open.spotify.com/track/34WKnyo66SajqdBMooAzl1"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Victoria y las M\u00e1quinas",
+        "url": "https://open.spotify.com/album/1nmEZbVyUAmRIKLD3Vtiog"
+      },
+      "artists": [
+        {
+          "name": "Vicu Villanueva",
+          "url": "https://open.spotify.com/artist/3wcmeGyEfFVSHpE11CVMUy"
+        }
+      ],
+      "duration_ms": 369300,
+      "name": "MICROFRACTURAS",
+      "url": "https://open.spotify.com/track/3CaF9XLWXOevzZe4uyfsTE"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Sin Prisa No Quiero Morir",
         "url": "https://open.spotify.com/album/7D8yX9HULFDEVTxG4GPM01"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 272384,
       "name": "Todo es Conectividad",
       "url": "https://open.spotify.com/track/5omJg6cDZ3d7Zq5tozrNai"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Victoria y las M\u00e1quinas",
-        "url": "https://open.spotify.com/album/1nmEZbVyUAmRIKLD3Vtiog"
-      },
-      "artists": [
-        {
-          "name": "Vicu Villanueva",
-          "url": "https://open.spotify.com/artist/3wcmeGyEfFVSHpE11CVMUy"
-        }
-      ],
-      "duration_ms": 369300,
-      "name": "MICROFRACTURAS",
-      "url": "https://open.spotify.com/track/3CaF9XLWXOevzZe4uyfsTE"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Pasar\u00e1",
+        "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
+      },
+      "artists": [
+        {
+          "name": "Ino Guridi",
+          "url": "https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7"
+        }
+      ],
+      "duration_ms": 214989,
+      "name": "D\u00edas",
+      "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "mondomamba",
         "url": "https://open.spotify.com/album/6sUFaYvnWtt4mfD5OtUZMS"
       },
@@ -1287,18 +1303,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Pasar\u00e1",
-        "url": "https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC"
+        "name": "Tirita",
+        "url": "https://open.spotify.com/album/1Ad17me7Ft1uDZ38hAmlSH"
       },
       "artists": [
         {
-          "name": "Ino Guridi",
-          "url": "https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7"
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
         }
       ],
-      "duration_ms": 214989,
-      "name": "D\u00edas",
-      "url": "https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm"
+      "duration_ms": 192167,
+      "name": "Tirita",
+      "url": "https://open.spotify.com/track/1kjkorsJWyqEfbSP4ud1My"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1315,22 +1331,6 @@
       "duration_ms": 293386,
       "name": "Recuerdo Infinito",
       "url": "https://open.spotify.com/track/79a6afRQ6sanoByoTyonnj"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Tirita",
-        "url": "https://open.spotify.com/album/1Ad17me7Ft1uDZ38hAmlSH"
-      },
-      "artists": [
-        {
-          "name": "mariagrep",
-          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
-        }
-      ],
-      "duration_ms": 192167,
-      "name": "Tirita",
-      "url": "https://open.spotify.com/track/1kjkorsJWyqEfbSP4ud1My"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Musicaland",
+        "url": "https://open.spotify.com/album/4qD8Iomhwn77qqlhpXlBwD"
+      },
+      "artists": [
+        {
+          "name": "Vera Nois",
+          "url": "https://open.spotify.com/artist/2PfumsJv10WNf48i5L6ncG"
+        }
+      ],
+      "duration_ms": 215876,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3UayvXfu3vC36Kzea4uxhT"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Diabla",
         "url": "https://open.spotify.com/album/6L8kcowzx0Enf5uzbETdVS"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 345716,
       "name": "Diabla",
       "url": "https://open.spotify.com/track/6UIvFuNTdRwxet1ha09tAE"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Musicaland",
-        "url": "https://open.spotify.com/album/4qD8Iomhwn77qqlhpXlBwD"
-      },
-      "artists": [
-        {
-          "name": "Vera Nois",
-          "url": "https://open.spotify.com/artist/2PfumsJv10WNf48i5L6ncG"
-        }
-      ],
-      "duration_ms": 215876,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/3UayvXfu3vC36Kzea4uxhT"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1471,22 +1471,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "New Age",
-        "url": "https://open.spotify.com/album/6MznziDW8N5JMxV9DTerlS"
+        "name": "Amuleto",
+        "url": "https://open.spotify.com/album/2G9HvZkwU1yNSYwgWfb2gl"
       },
       "artists": [
         {
-          "name": "Electrochongo",
-          "url": "https://open.spotify.com/artist/0ASM7GbGMFULTR94GOUXfM"
-        },
-        {
-          "name": "Divina Encarnacion",
-          "url": "https://open.spotify.com/artist/1ACEllXdXoaFfZQ5QfVoqQ"
+          "name": "El Hipnotizador Rom\u00e1ntico",
+          "url": "https://open.spotify.com/artist/6O5QcAwKsWhaFbmuy3SPku"
         }
       ],
-      "duration_ms": 189747,
-      "name": "New Age",
-      "url": "https://open.spotify.com/track/1xjZUL0oSuUlRSpcoMYNU1"
+      "duration_ms": 214600,
+      "name": "Amuleto",
+      "url": "https://open.spotify.com/track/05xl9WoeOHodN07hqvjwYQ"
     }
   ],
   "unique_name": "NE\u00d3N",

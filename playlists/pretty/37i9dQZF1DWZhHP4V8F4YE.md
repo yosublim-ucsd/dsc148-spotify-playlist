@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 
 > Viral hits in Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,434 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,482 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 8 | [Single Again](https://open.spotify.com/track/0h9NbR0ozxlNVnTXOX8xjk) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Single Again](https://open.spotify.com/album/77o4SRMv2fNVXHxwcTO6DI) | 3:44 |
 | 9 | [Bhebha \(feat\. Myztro, Mellow & Sleazy, QuayR Musiq & Matuteboy\)](https://open.spotify.com/track/1SB1UdyYs3DMyzHVxZg0QE) | [Shaunmusiq](https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85), [Ftears](https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [Myztro](https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [QuayR Musiq](https://open.spotify.com/artist/4Swe2JHqCnhe8uQA9oNs08), [Matute Boy](https://open.spotify.com/artist/4riXfqk8ehO6Zq9Jb0Ht0L) | [Bhebha \(feat\. Myztro, Mellow & Sleazy, QuayR Musiq & Matuteboy\)](https://open.spotify.com/album/1KLpiUVZQVXglbMCLI10n7) | 5:43 |
 | 10 | [Maan Meri Jaan \(Afterlife\)](https://open.spotify.com/track/0NapkeC45rszeuSgbvcjx4) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Maan Meri Jaan \(Afterlife\)](https://open.spotify.com/album/02K4LsS2gNvzJzdVsrZ6Wc) | 3:06 |
-| 11 | [Peace](https://open.spotify.com/track/1UjqGMNNUBmMtHj0cGeOvs) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM) | [Omo Ologo + Peace](https://open.spotify.com/album/7KkLL4cmiFtAQPS2RgdcTd) | 2:57 |
+| 11 | [Peace](https://open.spotify.com/track/10mHj5Bo8All1K2i0TtJT3) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM) | [Omo Ologo + Peace](https://open.spotify.com/album/6nYe32WxebOUG7h0GKiq1b) | 3:01 |
 | 12 | [Straight and Narrow](https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav) | 3:19 |
 | 13 | [Oba Ni Jesu \(Live\)](https://open.spotify.com/track/44I8QDtWqhVlmhqXhjJ8JH) | [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz), [The OhEmGee Band](https://open.spotify.com/artist/0IOcTumhI9iYAbFJEerdvx) | [Oba Ni Jesu \(Live\)](https://open.spotify.com/album/2mQ483LxOmlD7ext2P1fg9) | 21:02 |
 | 14 | [Firm Foundation \(He Won't\)](https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao) | 8:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZhHP4V8F4YE.md) - [plain]
 | 49 | [Majina Yote Jehovah](https://open.spotify.com/track/7L5JyeVQzmhpbjpZcoIDWn) | [Dedo Dieumerci](https://open.spotify.com/artist/4t8dpDtvEUucCvmEMLYUuR), [Naomi Mugiraneza](https://open.spotify.com/artist/4awEqX0MSvBqpwBfSMCiMm) | [Hymnos 2](https://open.spotify.com/album/4lQaSOEJAMWQf7ecxmj3RE) | 9:42 |
 | 50 | [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 |
 
-Snapshot ID: `MTY4MTczMzMyNSwwMDAwMDAwMDkzNTBmNGU1Yjg5NmNkYjY1NjNmZmY0YmNlZmYwN2Y3`
+Snapshot ID: `MTY4MTczMzMyNSwwMDAwMDAwMDlhNTAyY2JkYTJkN2FjYjI3OGZlZmE1ODcxMzM2MDQz`

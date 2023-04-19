@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 46515,
+  "num_followers": 46550,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMGFlNDE1M2JmYTQ4MmYyNWNhMjg0Yzg4NzMxNGI4MTFi",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMGMyMzU2OGJkNjM4NTBlNGE5NTE5ZGZjY2I5ZjYxYmMy",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -79,22 +79,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Guitar Pop Covers, Vol. 1",
-        "url": "https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy"
-      },
-      "artists": [
-        {
-          "name": "Edy Hafler",
-          "url": "https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T"
-        }
-      ],
-      "duration_ms": 150101,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/2j1ceA9K8Ugl2xyLwEGGt9"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Blue Bossa",
         "url": "https://open.spotify.com/album/2V0hmdlUjy5stwFM1HrI4g"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 160850,
       "name": "Blue Bossa",
       "url": "https://open.spotify.com/track/1K4zSQ6U1gU9JCHFMKqcAC"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Guitar Pop Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy"
+      },
+      "artists": [
+        {
+          "name": "Edy Hafler",
+          "url": "https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T"
+        }
+      ],
+      "duration_ms": 150101,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/2j1ceA9K8Ugl2xyLwEGGt9"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Re-Foc",
-        "url": "https://open.spotify.com/album/16i22w9V74VL7euoZIjX6G"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo y Gabriela",
-          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
-        }
-      ],
-      "duration_ms": 254933,
-      "name": "30 De Marzo",
-      "url": "https://open.spotify.com/track/23jaacZ4V3mdoMJYWrDI3n"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "The Little Island Bossa",
         "url": "https://open.spotify.com/album/26eAXBY2VjxAroih5J59nW"
       },
@@ -647,22 +631,6 @@
       "duration_ms": 246128,
       "name": "The Little Island Bossa",
       "url": "https://open.spotify.com/track/1mbjGoWhwkv5n14ibOlSTU"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
-        "name": "Cinema Latino Vol. 1",
-        "url": "https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        }
-      ],
-      "duration_ms": 107434,
-      "name": "Mexico 1910",
-      "url": "https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -683,18 +651,34 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Ni\u00f1o Josele",
-        "url": "https://open.spotify.com/album/79653plha39OpqECC3HCln"
+        "name": "Cinema Latino Vol. 1",
+        "url": "https://open.spotify.com/album/7kNKfwn3JRIPCYXpk2VF4B"
       },
       "artists": [
         {
-          "name": "Ni\u00f1o Josele",
-          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
         }
       ],
-      "duration_ms": 245466,
-      "name": "Madera Negra",
-      "url": "https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7"
+      "duration_ms": 107434,
+      "name": "Mexico 1910",
+      "url": "https://open.spotify.com/track/7KPA038sMskcyOYtI6tc7i"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Re-Foc",
+        "url": "https://open.spotify.com/album/16i22w9V74VL7euoZIjX6G"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo y Gabriela",
+          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+        }
+      ],
+      "duration_ms": 254933,
+      "name": "30 De Marzo",
+      "url": "https://open.spotify.com/track/23jaacZ4V3mdoMJYWrDI3n"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -711,6 +695,22 @@
       "duration_ms": 232786,
       "name": "Cinque Terre",
       "url": "https://open.spotify.com/track/4Is86uGhrqWssNzt54uQTn"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Ni\u00f1o Josele",
+        "url": "https://open.spotify.com/album/79653plha39OpqECC3HCln"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1o Josele",
+          "url": "https://open.spotify.com/artist/7KPoRAFSOQXa0jX1Pad5wT"
+        }
+      ],
+      "duration_ms": 245466,
+      "name": "Madera Negra",
+      "url": "https://open.spotify.com/track/4KIDmG6SAq3EQWytkk0gu7"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Senior Emilio",
-        "url": "https://open.spotify.com/album/1RRWqAIb1gPzxnO8Y8BGda"
-      },
-      "artists": [
-        {
-          "name": "Diego Fernandez",
-          "url": "https://open.spotify.com/artist/14kV1ZJprPqD2eTOSG6SCk"
-        }
-      ],
-      "duration_ms": 278675,
-      "name": "Senior Emilio",
-      "url": "https://open.spotify.com/track/6EjZx8S2Hdd4ZoBqJfgNFA"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Asi lo siento",
         "url": "https://open.spotify.com/album/1xKRNJF9jq98hTZiqHVfpD"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 197520,
       "name": "Vivienne - Rumba",
       "url": "https://open.spotify.com/track/5ShW5SmpX42BiE8VCyhkRv"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Senior Emilio",
+        "url": "https://open.spotify.com/album/1RRWqAIb1gPzxnO8Y8BGda"
+      },
+      "artists": [
+        {
+          "name": "Diego Fernandez",
+          "url": "https://open.spotify.com/artist/14kV1ZJprPqD2eTOSG6SCk"
+        }
+      ],
+      "duration_ms": 278675,
+      "name": "Senior Emilio",
+      "url": "https://open.spotify.com/track/6EjZx8S2Hdd4ZoBqJfgNFA"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1135,22 +1135,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Fabulous Flamenco!/La Gitarra Flamenca",
-        "url": "https://open.spotify.com/album/08apameAgGxWqzUoQF1XZK"
+        "name": "El Primero",
+        "url": "https://open.spotify.com/album/3lMYfWqSA5pxBemGlcNcMV"
       },
       "artists": [
         {
-          "name": "Escudero,",
-          "url": "https://open.spotify.com/artist/2bdNnJ2BJ7OccHRvBWVtEO"
-        },
-        {
-          "name": "Paco Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4OYPdvtRCWaLVmUrm1eiTa"
+          "name": "Primer Dia",
+          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
         }
       ],
-      "duration_ms": 205746,
-      "name": "Repiqueteos Flamencos (Zapateado)",
-      "url": "https://open.spotify.com/track/6y9rL8o5OK9IQ7u6OT6LwH"
+      "duration_ms": 144948,
+      "name": "El Primero",
+      "url": "https://open.spotify.com/track/3nlxECdSLJOEPbovpvCJQI"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1171,18 +1167,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "El Primero",
-        "url": "https://open.spotify.com/album/3lMYfWqSA5pxBemGlcNcMV"
+        "name": "Fabulous Flamenco!/La Gitarra Flamenca",
+        "url": "https://open.spotify.com/album/08apameAgGxWqzUoQF1XZK"
       },
       "artists": [
         {
-          "name": "Primer Dia",
-          "url": "https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ"
+          "name": "Escudero,",
+          "url": "https://open.spotify.com/artist/2bdNnJ2BJ7OccHRvBWVtEO"
+        },
+        {
+          "name": "Paco Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4OYPdvtRCWaLVmUrm1eiTa"
         }
       ],
-      "duration_ms": 144948,
-      "name": "El Primero",
-      "url": "https://open.spotify.com/track/3nlxECdSLJOEPbovpvCJQI"
+      "duration_ms": 205746,
+      "name": "Repiqueteos Flamencos (Zapateado)",
+      "url": "https://open.spotify.com/track/6y9rL8o5OK9IQ7u6OT6LwH"
     },
     {
       "added_at": "2022-10-27 22:01:00",

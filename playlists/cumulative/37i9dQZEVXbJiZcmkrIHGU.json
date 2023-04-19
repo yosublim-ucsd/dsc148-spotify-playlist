@@ -180,7 +180,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
@@ -2240,7 +2240,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -3500,7 +3500,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 178453,
       "name": "Beautiful Girl",
       "url": "https://open.spotify.com/track/5xX2LYdXyx0Boa61rZOjq5"
@@ -13028,7 +13028,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 207428,
       "name": "Hallow Kitty",
       "url": "https://open.spotify.com/track/6sizQj16amSoj5iXMDCx5J"
@@ -22433,6 +22433,24 @@
     },
     {
       "album": {
+        "name": "Never Felt So Alone",
+        "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160166,
+      "name": "Never Felt So Alone",
+      "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
+    },
+    {
+      "album": {
         "name": "Never Going Home",
         "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
       },
@@ -27274,6 +27292,24 @@
       "duration_ms": 165206,
       "name": "SCHIESSEN (feat. Kontra K)",
       "url": "https://open.spotify.com/track/4FoyKLZg6CYzWDUCGsukHt"
+    },
+    {
+      "album": {
+        "name": "Schimmel in der Villa",
+        "url": "https://open.spotify.com/album/7GzyqsszmJbWvktH1XR06c"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195107,
+      "name": "Schimmel in der Villa",
+      "url": "https://open.spotify.com/track/5Jb6RjWePh19NzE8vsaa4r"
     },
     {
       "album": {

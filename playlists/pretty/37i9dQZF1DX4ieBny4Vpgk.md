@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 
 > Vocal jazz favorites from 2022\. Cover: Samara Joy \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,158 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,162 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 | 9 | [I Wish You Love](https://open.spotify.com/track/5eg751DjyXstfd7xwdHZ62) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [I Wish You Love](https://open.spotify.com/album/6jmvc0SSvjpUSDwuxsFrSY) | 3:05 |
 | 10 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/0NUb2Cl5fs58ZPuZBYXnj6) | [Nicole Zuraitis](https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A), [Carmen Staaf](https://open.spotify.com/artist/2xr1royHsrxmyorwGs51V7) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/7s5zoUP13Lzz1KT2NLXp6u) | 5:58 |
 | 11 | [This Foolish Heart Could Love You](https://open.spotify.com/track/2WZyoaM70TLZ3k8RbhGC2o) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [Entre eux deux](https://open.spotify.com/album/73n8nSybQyRr7MxUIi82K7) | 3:32 |
-| 12 | [Blossom's Blues](https://open.spotify.com/track/50nxVCNnflGSKECsf4IN6V) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/4dLNU3LLt6BudaiM2MYAwn) | 3:28 |
+| 12 | [Blossom's Blues](https://open.spotify.com/track/2ZC6teLIAGQHEGIRs2VlUg) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/6VHzJNiSLGXkXw9NzY9GGX) | 3:28 |
 | 13 | [Come Fly with Me](https://open.spotify.com/track/6Yzl0fJuDnNsQA3I1VVSCP) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Come Fly with Me](https://open.spotify.com/album/1a9XmKMYpi3XJAc626uqyY) | 3:31 |
 | 14 | [Si tu vois ma mère](https://open.spotify.com/track/6KnkNyo795dy3IgMoC8YMe) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Si tu vois ma mère](https://open.spotify.com/album/3CPy3IZU5eNpduzy8AZoez) | 3:57 |
 | 15 | [Did Somebody Make a Fool Out of You](https://open.spotify.com/track/3y5Z7sB8kKEuBI06G2fZcb) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Did Somebody Make a Fool Out of You](https://open.spotify.com/album/5VvEOtmiR7TFEWp62vjPOs) | 4:51 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 | 22 | [Something Good](https://open.spotify.com/track/13tBNWKIqlZwijZ9rFFS13) | [Sara Gazarek](https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc) | [Vanity](https://open.spotify.com/album/7fYK538rcsifxsFge3ARvr) | 5:47 |
 | 23 | [I'm Old Fashioned](https://open.spotify.com/track/7yrPfSmKX8q8y2DWgmmzOM) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [I'm Old Fashioned](https://open.spotify.com/album/1oCeIsGAXgN86yeEahuezu) | 3:53 |
 | 24 | [Be Still My Heart](https://open.spotify.com/track/1VUNJqbGvsZKQEEx0lVVFH) | [Club des Belugas](https://open.spotify.com/artist/3ea1ZpptTqS5pwYYpQQVCo), [Lene Riebau](https://open.spotify.com/artist/22tKbWCOHQ8QnAD0SxN1Tw) | [Be Still My Heart](https://open.spotify.com/album/6p3iBqJ0owxMFKGsN0ytN4) | 3:26 |
-| 25 | [Fine Brown Frame](https://open.spotify.com/track/6pYeOeWKMODk6lpyCfSiFN) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Fine Brown Frame](https://open.spotify.com/album/6nPUg45JLv3xKxAXVfeD6B) | 3:20 |
+| 25 | [Fine Brown Frame](https://open.spotify.com/track/0kkdbmP7KeI7d9akdryPmU) | [Judith Owen](https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo) | [Come On & Get It](https://open.spotify.com/album/6VHzJNiSLGXkXw9NzY9GGX) | 3:16 |
 | 26 | [You Know](https://open.spotify.com/track/59o8bFVlsoE39rbuaxUY4U) | [Valentina Ranalli](https://open.spotify.com/artist/2ESQP8n7proCRJRgAxzhzK), [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [GIACOMO SERINO](https://open.spotify.com/artist/5P6GASLyZpxTAUHrixh3C3), [Cesare Mangiocavallo](https://open.spotify.com/artist/0bvOqAM4T7bvH2pzfiRx8b), [Giuseppe Romagnoli](https://open.spotify.com/artist/6sF2CAI4RkNd7czhFYRm9L) | [Cantare Pieranunzi](https://open.spotify.com/album/5gZQsyFV01xEKHeRCtEhJQ) | 4:11 |
 | 27 | [No Moon At All](https://open.spotify.com/track/036aHtB4zEPGQu0XmR4B1w) | [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW) | [Blue Skies](https://open.spotify.com/album/0sZ66FzxugWumHwU97CVum) | 2:22 |
 | 28 | [It Could Happen to You](https://open.spotify.com/track/2UxaphhSjpiZTCWXS59ZeM) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [Isn't It Romantic?](https://open.spotify.com/album/3pizrquomee0WmQEuksn08) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ieBny4Vpgk.md) - [plain]
 | 49 | [I Can't Help It](https://open.spotify.com/track/1gVJYBIGO5zEKPa40MA1WK) | [Kari Kirkland](https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU) | [I Can't Help It](https://open.spotify.com/album/334Lx9ZWSuv3zc0YHyQ0db) | 4:26 |
 | 50 | [If I Had You](https://open.spotify.com/track/6htL8eAdOScorA0ooaoL5k) | [Lara Luppi](https://open.spotify.com/artist/0TMpMNYlHlLT6Ey6BjcklA), [Luca Filastro](https://open.spotify.com/artist/7bRZhdSt3rftBwfmQRe5zR), [Aldo Zunino](https://open.spotify.com/artist/2ZQKolsIe5WgidiDRxLsCr), [Emanuele Zappia](https://open.spotify.com/artist/0yx2tQrSKPmyeVV1D82i6D) | [Day Dream](https://open.spotify.com/album/0IGv0S7wFk9QnyvMA0bIK2) | 5:28 |
 
-Snapshot ID: `MTY2OTgxNjAyMCwwMDAwMDAwMGIwMWNkY2RhNGUxYjNlZWZhZDZlOTM1NGRjZGZhZTk1`
+Snapshot ID: `MTY2OTgxNjAyMCwwMDAwMDAwMGJlMDI3NWU3MDdlODQyMmQ0NmRhOTJmZWNkNTgyNDgz`

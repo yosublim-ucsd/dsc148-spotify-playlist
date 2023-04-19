@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres que la rompen feat\. Saramalacara.<br/>Dales play, dales power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,317 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,319 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 8 | [Yandere](https://open.spotify.com/track/64j54c4izWGwfHuONWtqDw) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk) | [UWU](https://open.spotify.com/album/7vkaUsnmcEXuSIkQ58vRGt) | 2:22 |
 | 9 | [CHROME](https://open.spotify.com/track/6sXubAaPRNZD4ls6fsOtRC) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [dayvan](https://open.spotify.com/artist/1eTInlBizrAteaACHeE85y), [Evar](https://open.spotify.com/artist/0YWTSwecJ4cKrEQjrh46la) | [eclips3](https://open.spotify.com/album/5PTaRgWmvUnOUhOx800hB9) | 2:42 |
 | 10 | [SHAMPOO](https://open.spotify.com/track/5nQNuWgtRHzQXTmnrb2Ysn) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [SHAMPOO](https://open.spotify.com/album/0bu5FOI7GA1iL9vvIQFrWy) | 3:01 |
-| 11 | [Bendición](https://open.spotify.com/track/05LC7bVfkMrW6Ojx59DJmI) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [Bendición](https://open.spotify.com/album/73b0Kk4U4s0YEYPLZZrFz9) | 2:01 |
+| 11 | [Whos That B!Tch?](https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Whos That B!Tch?](https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc) | 2:33 |
 | 12 | [Opuesto Complementario](https://open.spotify.com/track/01TWK9iyMcuHajqzkvefPJ) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 2:56 |
-| 13 | [Whos That B!Tch?](https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Whos That B!Tch?](https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc) | 2:33 |
+| 13 | [Bendición](https://open.spotify.com/track/05LC7bVfkMrW6Ojx59DJmI) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [Bendición](https://open.spotify.com/album/73b0Kk4U4s0YEYPLZZrFz9) | 2:01 |
 | 14 | [Fumando Menos](https://open.spotify.com/track/2KTuqLyX4K0on4TovE9u8o) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Fumando Menos](https://open.spotify.com/album/0Wk5E3svT8yYLBt8ApetaP) | 3:07 |
 | 15 | [DÍAS COMO HOY](https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Lonely Fans](https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P) | 3:31 |
 | 16 | [me canse de las canciones de amor](https://open.spotify.com/track/1bAqJhVVywzcbt1keh5m6m) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [ROMANCE MIXTAPE 2](https://open.spotify.com/album/0seBnIfzhEIp9o4sSQA8dk) | 1:31 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 25 | [PLUSH](https://open.spotify.com/track/5xhqoMCMBBuuwnjnTL3p9d) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [PLUSH](https://open.spotify.com/album/10mhRKgJ8ZMUAvnXANmzXN) | 3:01 |
 | 26 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 |
 | 27 | [Cosa Suya](https://open.spotify.com/track/1Z74xogis6AXH1khWQRJ95) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Azul Es Donde Siempre Estoy](https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M) | 2:33 |
-| 28 | [Tu Amante](https://open.spotify.com/track/4AKNYXSaCUwvP8iK2kQYk2) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [Tu Amante](https://open.spotify.com/album/1XAMmnGeJPNG2uKRq1GGZZ) | 2:45 |
-| 29 | [Nollie](https://open.spotify.com/track/6ArokDS7IVFs05T2GfSCHz) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:53 |
+| 28 | [Nollie](https://open.spotify.com/track/6ArokDS7IVFs05T2GfSCHz) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:53 |
+| 29 | [Tu Amante](https://open.spotify.com/track/4AKNYXSaCUwvP8iK2kQYk2) | [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [Tu Amante](https://open.spotify.com/album/1XAMmnGeJPNG2uKRq1GGZZ) | 2:45 |
 | 30 | [Mágica Intuición](https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Mágica Intuición](https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE) | 3:10 |
 | 31 | [Música bailando](https://open.spotify.com/track/7a0UdEUK9b0zcRWMLHDhDA) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Música bailando](https://open.spotify.com/album/4j0GvUmwAlMVfRz9SVfaRq) | 2:18 |
 | 32 | [Miseria](https://open.spotify.com/track/133WrLbDi3hHdqnmivs1yX) | [THE COLORATED](https://open.spotify.com/artist/5TR49gppYqwHy7E6VHFUpK), [Punga](https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk) | [Miseria](https://open.spotify.com/album/6OvaaOohiSRpW9w9iJ0gAM) | 2:20 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 39 | [LA DEALER \- RKT RemiXXX](https://open.spotify.com/track/32EJFbBKxe4F0dsFCV5YyI) | [SASHA SATHYA](https://open.spotify.com/artist/2EyTh5jHaNswRWXuzt0e33) | [LA DEALER \(RKT RemiXXX\)](https://open.spotify.com/album/3XPkqGqbyuAAvLQJs2CSwk) | 2:42 |
 | 40 | [Corta las flores](https://open.spotify.com/track/2wSmZPXb2dvAGD78gFDQub) | [Babeblade](https://open.spotify.com/artist/3m9k1lhn5q1BBLtYGqeFjm) | [Llorar en un baño público](https://open.spotify.com/album/7z1h9TLRvhebaSIwuLIFFA) | 2:53 |
 | 41 | [como hago](https://open.spotify.com/track/4KYePiLGY8oGeMNK1UH7BA) | [Valuki](https://open.spotify.com/artist/2p1E3XmJHxVf0eeR1RReZ5), [Percii](https://open.spotify.com/artist/3Yo0r3OCG4QOTtRl8gThfd) | [Como Hago](https://open.spotify.com/album/2FAxaj4IIILpoyhWVP4Zfm) | 2:03 |
-| 42 | [Dudas](https://open.spotify.com/track/4RQpdHuuTbLsY1ewCuBZJe) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK), [MAJA](https://open.spotify.com/artist/1vt66Aetdj6e4TpfaXpmhx) | [Hex](https://open.spotify.com/album/0VhDbHjdwQkAJFBe8FwLKY) | 2:26 |
-| 43 | [Revelde](https://open.spotify.com/track/7A8PpZCTsUOVZm8vM0wUWy) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [Vladi](https://open.spotify.com/album/7fu4kjCZwX5r2ZheVRSiDQ) | 2:13 |
+| 42 | [Revelde](https://open.spotify.com/track/7A8PpZCTsUOVZm8vM0wUWy) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq) | [Vladi](https://open.spotify.com/album/7fu4kjCZwX5r2ZheVRSiDQ) | 2:13 |
+| 43 | [Dudas](https://open.spotify.com/track/4RQpdHuuTbLsY1ewCuBZJe) | [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK), [MAJA](https://open.spotify.com/artist/1vt66Aetdj6e4TpfaXpmhx) | [Hex](https://open.spotify.com/album/0VhDbHjdwQkAJFBe8FwLKY) | 2:26 |
 | 44 | [Loba](https://open.spotify.com/track/6HtStRqLiQDLNQwTd4VdzI) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST) | [Golpe de \(M\)Suerte](https://open.spotify.com/album/2bJIO1lC4xurC0rrjfb8mk) | 1:47 |
 | 45 | [Escitalopram](https://open.spotify.com/track/3PrtWNWAUYDRCYg9uCg3ac) | [MUÑEKI77A](https://open.spotify.com/artist/4vPj1iAE8l3VAQNenIOGt8) | [Escitalopram](https://open.spotify.com/album/5492cNtC0idD6l36U920Tf) | 3:07 |
 | 46 | [La Nube de Goku](https://open.spotify.com/track/3VxDA01NZ4TZSoYOU8hkRP) | [Marte Lupardo](https://open.spotify.com/artist/1oIAFHDNTaevByZvdcm5AY) | [La Nube de Goku](https://open.spotify.com/album/0Xta8PKyf5bRWwhRWx4Uqg) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [despierta](https://open.spotify.com/track/6RaR0vyZoX5ZIStjqJDAZz) | [Catnapp](https://open.spotify.com/artist/2W47Nby5KFaS1pdUt7qmCU), [O.L.I.V.I.A](https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK) | [TRUST](https://open.spotify.com/album/558F6R7m4TZSKYb4xnANuF) | 5:02 |
 | 50 | [Natación](https://open.spotify.com/track/5IB0PE3Ph0Zki4oYiuBz0a) | [Marte Lupardo](https://open.spotify.com/artist/1oIAFHDNTaevByZvdcm5AY) | [Natación](https://open.spotify.com/album/04MnHHG7mhfi8PNzlC7rt4) | 3:35 |
 
-Snapshot ID: `MTY4MDY2MzYwMCwwMDAwMDAwMDZhYjI0NDExZGQwYzljYWZmYWI2ZGE0YmUyMzYyZGI0`
+Snapshot ID: `MTY4MDY2MzYwMCwwMDAwMDAwMDNmMDY2MGMwMTliZDliNWM3MDhkY2U4ZDdkNWRhZjNi`

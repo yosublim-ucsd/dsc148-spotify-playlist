@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 120458,
+  "num_followers": 120636,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGI0NjkwYmMxMmUzY2ZjN2JjYWYxYWUzZjIwZmVjMjkz",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDY5YjdlN2ViZjQ3YjRiYTZmMGJkZTQ4NWM4NTg5YmRl",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "As You Leave (undone)",
-        "url": "https://open.spotify.com/album/2qbYexAOjAjIg9eySC5jNO"
-      },
-      "artists": [
-        {
-          "name": "Canaan Cox",
-          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "As You Leave (undone)",
-      "url": "https://open.spotify.com/track/68hGkMqxX5AfMuO5Y4NL0A"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Fall In Love (Acoustic)",
         "url": "https://open.spotify.com/album/41wEnrrFayiNyfyi8h0vjD"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 238676,
       "name": "Fall In Love - Acoustic",
       "url": "https://open.spotify.com/track/79aj4SR6l5FKOJqy1TdtSv"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "As You Leave (undone)",
+        "url": "https://open.spotify.com/album/2qbYexAOjAjIg9eySC5jNO"
+      },
+      "artists": [
+        {
+          "name": "Canaan Cox",
+          "url": "https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "As You Leave (undone)",
+      "url": "https://open.spotify.com/track/68hGkMqxX5AfMuO5Y4NL0A"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Best Shot (Acoustic)",
-        "url": "https://open.spotify.com/album/75cVE2IQSMeE4LwiQAfCS4"
+        "name": "Long Haul (Stripped)",
+        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
       },
       "artists": [
         {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+          "name": "Ian Munsick",
+          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
         }
       ],
-      "duration_ms": 193293,
-      "name": "Best Shot - Acoustic",
-      "url": "https://open.spotify.com/track/760faKfgTNKZeuJ9khjV1J"
+      "duration_ms": 242530,
+      "name": "Long Haul - Stripped",
+      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Long Haul (Stripped)",
-        "url": "https://open.spotify.com/album/7cF9NMgiYb5SYY9twO6KXq"
+        "name": "Best Shot (Acoustic)",
+        "url": "https://open.spotify.com/album/75cVE2IQSMeE4LwiQAfCS4"
       },
       "artists": [
         {
-          "name": "Ian Munsick",
-          "url": "https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn"
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
         }
       ],
-      "duration_ms": 242530,
-      "name": "Long Haul - Stripped",
-      "url": "https://open.spotify.com/track/4SvNxGE5IEzBsYD9x3lEhG"
+      "duration_ms": 193293,
+      "name": "Best Shot - Acoustic",
+      "url": "https://open.spotify.com/track/760faKfgTNKZeuJ9khjV1J"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "St. Louis",
-        "url": "https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n"
-      },
-      "artists": [
-        {
-          "name": "David Nail",
-          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
-        }
-      ],
-      "duration_ms": 274964,
-      "name": "St. Louis",
-      "url": "https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Take My Name (Wedding Version)",
         "url": "https://open.spotify.com/album/6JrC6cQOLVPI2HEykKjk9Z"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 174133,
       "name": "Take My Name - Wedding Version",
       "url": "https://open.spotify.com/track/3fWwTqV6vGnXdAFxVoKKZP"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "St. Louis",
+        "url": "https://open.spotify.com/album/5e0JbK04Ky16eiEkULAN7n"
+      },
+      "artists": [
+        {
+          "name": "David Nail",
+          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
+        }
+      ],
+      "duration_ms": 274964,
+      "name": "St. Louis",
+      "url": "https://open.spotify.com/track/1sJ3GTTKEThu9LuQ2gUWku"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Gone Too Soon (Acoustic)",
-        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
+        "name": "Made (Wedding Version)",
+        "url": "https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA"
       },
       "artists": [
         {
-          "name": "Andrew Jannakos",
-          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
+          "name": "Spencer Crandall",
+          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
         }
       ],
-      "duration_ms": 167469,
-      "name": "Gone Too Soon - Acoustic",
-      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
+      "duration_ms": 215227,
+      "name": "Made (Wedding Version)",
+      "url": "https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1123,34 +1123,34 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Made (Wedding Version)",
-        "url": "https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA"
+        "name": "That's Why (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
       },
       "artists": [
         {
-          "name": "Spencer Crandall",
-          "url": "https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG"
+          "name": "Troy Cartwright",
+          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
         }
       ],
-      "duration_ms": 215227,
-      "name": "Made (Wedding Version)",
-      "url": "https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X"
+      "duration_ms": 177772,
+      "name": "That's Why (Acoustic Version)",
+      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
     },
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Another (Wedding Version)",
-        "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
+        "name": "Gone Too Soon (Acoustic)",
+        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
       },
       "artists": [
         {
-          "name": "Adam Doleac",
-          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+          "name": "Andrew Jannakos",
+          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
         }
       ],
-      "duration_ms": 171188,
-      "name": "Another - Wedding Version",
-      "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
+      "duration_ms": 167469,
+      "name": "Gone Too Soon - Acoustic",
+      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1167,6 +1167,22 @@
       "duration_ms": 179680,
       "name": "Girls Like You - Stripped",
       "url": "https://open.spotify.com/track/1tFvw8ZzcxNZS6vkzdwyVU"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Another (Wedding Version)",
+        "url": "https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        }
+      ],
+      "duration_ms": 171188,
+      "name": "Another - Wedding Version",
+      "url": "https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1235,22 +1251,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "End of the Rain",
-        "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
-      },
-      "artists": [
-        {
-          "name": "Jason Blaine",
-          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
-        }
-      ],
-      "duration_ms": 195701,
-      "name": "End of the Rain",
-      "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Acoustic Sessions",
         "url": "https://open.spotify.com/album/3TNHr3nvLUjMTrOkGI4J1V"
       },
@@ -1263,6 +1263,22 @@
       "duration_ms": 204004,
       "name": "Better Off Gone (Acoustic Sessions)",
       "url": "https://open.spotify.com/track/4aadXTV9XyGSNTDEj8BGnw"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "End of the Rain",
+        "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
+      },
+      "artists": [
+        {
+          "name": "Jason Blaine",
+          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
+        }
+      ],
+      "duration_ms": 195701,
+      "name": "End of the Rain",
+      "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1295,22 +1311,6 @@
       "duration_ms": 213963,
       "name": "The Night (Part 2 - Acoustic)",
       "url": "https://open.spotify.com/track/4PJPrTq598dd2HvLxQfh36"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "That's Why (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx"
-      },
-      "artists": [
-        {
-          "name": "Troy Cartwright",
-          "url": "https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr"
-        }
-      ],
-      "duration_ms": 177772,
-      "name": "That's Why (Acoustic Version)",
-      "url": "https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "I Can Tell You're Small Town (The Back Home Version)",
-        "url": "https://open.spotify.com/album/0ZvQTIN5CdKUKcHT3HQqVN"
-      },
-      "artists": [
-        {
-          "name": "Noah Hicks",
-          "url": "https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO"
-        }
-      ],
-      "duration_ms": 181947,
-      "name": "I Can Tell You're Small Town (The Back Home Version)",
-      "url": "https://open.spotify.com/track/4RH6QhrnqTo78EzUEw1wrl"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "I Should Probably Go To Bed (Acoustic)",
         "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 177066,
       "name": "I Should Probably Go To Bed - Acoustic",
       "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "I Can Tell You're Small Town (The Back Home Version)",
+        "url": "https://open.spotify.com/album/0ZvQTIN5CdKUKcHT3HQqVN"
+      },
+      "artists": [
+        {
+          "name": "Noah Hicks",
+          "url": "https://open.spotify.com/artist/32KwPw06eWXhBWBYFE2BvO"
+        }
+      ],
+      "duration_ms": 181947,
+      "name": "I Can Tell You're Small Town (The Back Home Version)",
+      "url": "https://open.spotify.com/track/4RH6QhrnqTo78EzUEw1wrl"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "A Special Place (Acoustic)",
-        "url": "https://open.spotify.com/album/2e6ZHZ1LMzlh0vwpC35NGh"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "A Special Place - Acoustic",
-      "url": "https://open.spotify.com/track/0d8gLQvm05n2DR2FdUdPYU"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "I Wish",
         "url": "https://open.spotify.com/album/5bD9iZ8X5SoXJDZfVy3gXn"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 207272,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/1mG53WSquMx8mz2s6eytXb"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "A Special Place (Acoustic)",
+        "url": "https://open.spotify.com/album/2e6ZHZ1LMzlh0vwpC35NGh"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "A Special Place - Acoustic",
+      "url": "https://open.spotify.com/track/0d8gLQvm05n2DR2FdUdPYU"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "12/12 (Acoustic)",
-        "url": "https://open.spotify.com/album/4bsYqeb7ftisTGzzsLBzfT"
-      },
-      "artists": [
-        {
-          "name": "Josh Kerr",
-          "url": "https://open.spotify.com/artist/7tnICxEQkOML369POsUizq"
-        },
-        {
-          "name": "Lauren Weintraub",
-          "url": "https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq"
-        }
-      ],
-      "duration_ms": 179908,
-      "name": "I Didn't Love You",
-      "url": "https://open.spotify.com/track/2jOPhB8JVVhe70okpKZoA7"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Honestly (Deluxe)",
         "url": "https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 212932,
       "name": "The Ocean - Acoustic Live In Studio (feat. Charlie Worsham)",
       "url": "https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "12/12 (Acoustic)",
+        "url": "https://open.spotify.com/album/4bsYqeb7ftisTGzzsLBzfT"
+      },
+      "artists": [
+        {
+          "name": "Josh Kerr",
+          "url": "https://open.spotify.com/artist/7tnICxEQkOML369POsUizq"
+        },
+        {
+          "name": "Lauren Weintraub",
+          "url": "https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq"
+        }
+      ],
+      "duration_ms": 179908,
+      "name": "I Didn't Love You",
+      "url": "https://open.spotify.com/track/2jOPhB8JVVhe70okpKZoA7"
     },
     {
       "added_at": "2023-04-14 04:00:00",

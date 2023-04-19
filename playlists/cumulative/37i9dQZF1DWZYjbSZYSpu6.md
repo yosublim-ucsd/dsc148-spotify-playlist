@@ -2,9 +2,9 @@
 
 ### [K\-Pop Duets \(러블리 듀엣\)](https://open.spotify.com/playlist/37i9dQZF1DWZYjbSZYSpu6)
 
-> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: LAS, Miyeon\)
+> Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: Joy x Ha Dong Qn\)
 
-212 songs - 12 hr 41 min
+213 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Whole New World \- From "Aladdin"](https://open.spotify.com/track/1HYofu45z4uj9SC0WrlgFv) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB), [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [A Whole New World \(From "Aladdin"\)](https://open.spotify.com/album/1NwPANYPkIAoWBfT9cWkAH) | 2:57 | 2022-03-24 | 2022-05-19 |
 | [After Love](https://open.spotify.com/track/079qcqBT9lV3eWWqdiCFEg) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf), [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [After Love](https://open.spotify.com/album/5hFyCAnNHwyu95TuawSeGy) | 3:58 | 2022-11-01 |  |
 | [After the uphill road](https://open.spotify.com/track/6VqxPUU0GKTHJ0qlvzq89O) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM), [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [track by YOON: After the uphill road](https://open.spotify.com/album/5rDdHRH0w9dNSnbUnaLPXF) | 4:16 | 2022-12-21 |  |
-| [Airport Goodbyes \(Prod\. The Black Skirts\)](https://open.spotify.com/track/6JwLranFvCuvv6PmE2ExyN) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Airport Goodbyes](https://open.spotify.com/album/1QfoitDnFtn4e4UmGYdi4i) | 4:07 | 2022-03-24 |  |
+| [Airport Goodbyes \(Prod\. The Black Skirts\)](https://open.spotify.com/track/6JwLranFvCuvv6PmE2ExyN) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Airport Goodbyes](https://open.spotify.com/album/1QfoitDnFtn4e4UmGYdi4i) | 4:07 | 2022-03-24 | 2023-04-19 |
 | [Anemone](https://open.spotify.com/track/6KJB9aBaZhTLTNH59WCxvg) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ) | [Flower Language](https://open.spotify.com/album/1VPWxLR3k1Oezf9zIoi7qX) | 3:52 | 2022-03-24 | 2023-01-23 |
 | [ANOTHER I](https://open.spotify.com/track/5UK77o7OlzxEfp66YGIP8p) | [소울 스테이지](https://open.spotify.com/artist/6lIcFqetqjxjmkKXECwOjQ) | [ANOTHER I](https://open.spotify.com/album/61P9irs8qiOxt8pNHbDz36) | 3:37 | 2022-03-24 | 2022-04-20 |
 | [As I Wished 뜻대로](https://open.spotify.com/track/53l6zTxcgzRMAgD3eS6zqF) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [05](https://open.spotify.com/album/1cP958luLNOn9sYtH83Xl8) | 4:15 | 2022-03-24 | 2022-07-11 |
@@ -30,6 +30,7 @@
 | [Between You And Me \(feat\. Kang Min Hee\)](https://open.spotify.com/track/0zHLujbDWN1tylCfDoo670) | [Siyoon](https://open.spotify.com/artist/3dLG806ZDpPYdtXXTnCrAU), [Kang Min Hee](https://open.spotify.com/artist/3yvJrrnTj0rlI3DJ8NMnKH) | [Cubism](https://open.spotify.com/album/6mzi5YwqEwSPpMSKL9Eea4) | 3:45 | 2022-03-24 | 2022-04-21 |
 | [Beyond the Stars \(feat\. Ashley Alisha\)](https://open.spotify.com/track/7H1KWuGKdKkOFSIGTtZTr1) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Beyond the Stars](https://open.spotify.com/album/5mhp9NqSX2vksUTTFG2O1o) | 3:17 | 2022-03-24 | 2022-09-06 |
 | [Blanket \(feat\. Wonstein\)](https://open.spotify.com/track/1A03hQduqL0zSx6s90c2kV) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [Blanket](https://open.spotify.com/album/6JJgCrqlob8AaNBNu2vzRF) | 3:32 | 2022-03-24 | 2022-06-22 |
+| [Blue night song](https://open.spotify.com/track/76HyXhCaHpv6O5pmR06s1B) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub), [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [Blue night song](https://open.spotify.com/album/2EIFbTHUp9QwbxJrs5w3pB) | 3:45 | 2023-04-18 |  |
 | [Can Love Be Fair](https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL), [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Can Love Be Fair](https://open.spotify.com/album/6NRwI0v6TP5q8Pm8lCvTiK) | 4:15 | 2022-03-24 | 2022-08-17 |
 | [Cause You \(prod\. KANGTA\)](https://open.spotify.com/track/4tmhfVKwTg8iSbXtQN4Yba) | [Young Jun](https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt), [Lee Ye Joon](https://open.spotify.com/artist/0pi0UqDbdqphea7hTxQyby) | [Cause You \(prod\. KANGTA\) \- SM STATION](https://open.spotify.com/album/4SJpUs4YI7u0M3S2slXuOQ) | 3:55 | 2022-07-04 | 2022-07-26 |
 | [Cave Me In](https://open.spotify.com/track/79ptYtWnpAnsQutzg2xSFk) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Cave Me In](https://open.spotify.com/album/3no6YVGaUUBPQjfeUbajXL) | 3:34 | 2022-03-24 |  |

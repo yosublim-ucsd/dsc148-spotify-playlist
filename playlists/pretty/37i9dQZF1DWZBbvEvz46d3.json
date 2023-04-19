@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 56096,
+  "num_followers": 56137,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDUxNTYzNSwwMDAwMDAwMGMyYjkzNmFlOTFiYzUyMTU1NjFhYmI2YTc1ZjA5Y2Vj",
+  "snapshot_id": "MTY4MDUxNTYzNSwwMDAwMDAwMDdmOWFjNTBiNjUwODc0MjZlZTliNDExOWJhYjZlNGEz",
   "tracks": [
     {
       "added_at": "2023-04-03 09:53:55",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "Z\u0142oto",
-        "url": "https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW"
-      },
-      "artists": [
-        {
-          "name": "Krzysztof Zalewski",
-          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Mi\u0142o\u015b\u0107 mi\u0142o\u015b\u0107",
-      "url": "https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Zakryj (Deluxe)",
         "url": "https://open.spotify.com/album/24dltoKXLEyuYs2XyzWA6T"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 209213,
       "name": "Miales Byc",
       "url": "https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
+        "name": "Z\u0142oto",
+        "url": "https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Mi\u0142o\u015b\u0107 mi\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8"
     },
     {
       "added_at": "2023-04-03 09:53:55",

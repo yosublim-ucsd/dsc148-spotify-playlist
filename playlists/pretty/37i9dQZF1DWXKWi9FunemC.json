@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 202868,
+  "num_followers": 203179,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODg4NzE1OSwwMDAwMDAwMGU3ODQyM2VlNjQyMTFkNTZhM2NmYWFmNzk2MDUzMjYy",
+  "snapshot_id": "MTU5ODg4NzE1OSwwMDAwMDAwMDU0YjMyYmVmYTZjYjdjZTdiN2EzZTI0NWQyZTY4ZjBj",
   "tracks": [
     {
       "added_at": "2020-08-31 15:19:19",
@@ -143,22 +143,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Peace to All Who Enter Here",
-        "url": "https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk"
-      },
-      "artists": [
-        {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
-        }
-      ],
-      "duration_ms": 184152,
-      "name": "Turn Your Eyes Upon Jesus",
-      "url": "https://open.spotify.com/track/34fdABH94cRd7iKoYWLwjS"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Reason",
         "url": "https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 209098,
       "name": "Just Give Me Jesus",
       "url": "https://open.spotify.com/track/16v6WFYCpJXa8XP13hI8Pd"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Peace to All Who Enter Here",
+        "url": "https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 184152,
+      "name": "Turn Your Eyes Upon Jesus",
+      "url": "https://open.spotify.com/track/34fdABH94cRd7iKoYWLwjS"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -363,6 +363,30 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "I Don't Have Much",
+        "url": "https://open.spotify.com/album/13xozrVcJxO5odimOc6UAw"
+      },
+      "artists": [
+        {
+          "name": "Mission House",
+          "url": "https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C"
+        },
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        }
+      ],
+      "duration_ms": 314800,
+      "name": "I Don't Have Much",
+      "url": "https://open.spotify.com/track/5GauSw0ZYcQN9VNl4Bm46a"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Be My Shalom",
         "url": "https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac"
       },
@@ -395,30 +419,6 @@
       "duration_ms": 248299,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "I Don't Have Much",
-        "url": "https://open.spotify.com/album/13xozrVcJxO5odimOc6UAw"
-      },
-      "artists": [
-        {
-          "name": "Mission House",
-          "url": "https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C"
-        },
-        {
-          "name": "Jess Ray",
-          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
-        },
-        {
-          "name": "Taylor Leonhardt",
-          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
-        }
-      ],
-      "duration_ms": 314800,
-      "name": "I Don't Have Much",
-      "url": "https://open.spotify.com/track/5GauSw0ZYcQN9VNl4Bm46a"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -519,22 +519,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Be Still",
-        "url": "https://open.spotify.com/album/6GKeWU2fpTpivcmWB4TR40"
-      },
-      "artists": [
-        {
-          "name": "Aisea Taimani + Minor Islands",
-          "url": "https://open.spotify.com/artist/5NvSQC8nd0lznCwDWgG0Pv"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Be Still",
-      "url": "https://open.spotify.com/track/7pkYkPDwrGW2yCfrrlovCp"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "The Narrow Sea",
         "url": "https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 313489,
       "name": "O Rock Eternal",
       "url": "https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Be Still",
+        "url": "https://open.spotify.com/album/6GKeWU2fpTpivcmWB4TR40"
+      },
+      "artists": [
+        {
+          "name": "Aisea Taimani + Minor Islands",
+          "url": "https://open.spotify.com/artist/5NvSQC8nd0lznCwDWgG0Pv"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Be Still",
+      "url": "https://open.spotify.com/track/7pkYkPDwrGW2yCfrrlovCp"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -679,22 +679,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "The Wait",
-        "url": "https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "duration_ms": 272600,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/2eYm67Yrt9RGuvSXTbPUd2"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Resting Place (To the Cross)",
         "url": "https://open.spotify.com/album/0Dvdd8C1sQ7g9wDsNJ0bWM"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 243346,
       "name": "Resting Place (To the Cross)",
       "url": "https://open.spotify.com/track/016DP00vwMNLR10fT8jQka"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "The Wait",
+        "url": "https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 272600,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/2eYm67Yrt9RGuvSXTbPUd2"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -819,22 +819,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Love Is",
-        "url": "https://open.spotify.com/album/3EHmC2TzK9W3AnDds89CiX"
-      },
-      "artists": [
-        {
-          "name": "Allan McKinlay",
-          "url": "https://open.spotify.com/artist/4zMVfhykoerNdhxVnJauFf"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Love Is",
-      "url": "https://open.spotify.com/track/08XZufZzE2JDLQj9TEwur3"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "When It Comes to You",
         "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 335299,
       "name": "Goodness",
       "url": "https://open.spotify.com/track/3JyI1zIVyM1N7wb7Qylro6"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Love Is",
+        "url": "https://open.spotify.com/album/3EHmC2TzK9W3AnDds89CiX"
+      },
+      "artists": [
+        {
+          "name": "Allan McKinlay",
+          "url": "https://open.spotify.com/artist/4zMVfhykoerNdhxVnJauFf"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/08XZufZzE2JDLQj9TEwur3"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -971,6 +971,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "Keeper of Days",
+        "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "duration_ms": 354223,
+      "name": "Teach Us That One Song",
+      "url": "https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Find My Home",
         "url": "https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy"
       },
@@ -999,38 +1015,6 @@
       "duration_ms": 277565,
       "name": "Refuge",
       "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Keeper of Days",
-        "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 354223,
-      "name": "Teach Us That One Song",
-      "url": "https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "How Can I",
-        "url": "https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM"
-      },
-      "artists": [
-        {
-          "name": "Zan Fiskum",
-          "url": "https://open.spotify.com/artist/783YfYdhHkZ7NzyVbl6054"
-        }
-      ],
-      "duration_ms": 274373,
-      "name": "How Can I",
-      "url": "https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "How Can I",
+        "url": "https://open.spotify.com/album/2tfpzRnVgGRBzbZiydB3jM"
+      },
+      "artists": [
+        {
+          "name": "Zan Fiskum",
+          "url": "https://open.spotify.com/artist/783YfYdhHkZ7NzyVbl6054"
+        }
+      ],
+      "duration_ms": 274373,
+      "name": "How Can I",
+      "url": "https://open.spotify.com/track/3awgBVx3iWd3Y2lxhDzaZv"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Now I See",
         "url": "https://open.spotify.com/album/3ag0IZGy6XuaBQPA4fH3V3"
       },
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6PPK6jGfdlNYfsH9jt4YZh"
-      },
-      "artists": [
-        {
-          "name": "London Gatch",
-          "url": "https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah"
-        }
-      ],
-      "duration_ms": 390497,
-      "name": "Home - Acoustic",
-      "url": "https://open.spotify.com/track/5s5PmLUIIfh2glhkoBF0aS"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "You Are God, Be Glorified",
         "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 267165,
       "name": "You Are God, Be Glorified",
       "url": "https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6PPK6jGfdlNYfsH9jt4YZh"
+      },
+      "artists": [
+        {
+          "name": "London Gatch",
+          "url": "https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah"
+        }
+      ],
+      "duration_ms": 390497,
+      "name": "Home - Acoustic",
+      "url": "https://open.spotify.com/track/5s5PmLUIIfh2glhkoBF0aS"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "YOUR NAME IS POWER (Acoustic)",
+        "url": "https://open.spotify.com/album/5OPnwxMGo48RxfOQS9hzXy"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "duration_ms": 232238,
+      "name": "YOUR NAME IS POWER - Acoustic",
+      "url": "https://open.spotify.com/track/5BBd53oJDxtKuK92jWZryD"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Still I Will Praise [Live at Burgess Barn] [Radio Edit]",
         "url": "https://open.spotify.com/album/5jTcdgdYuicOViLgJMqOUh"
       },
@@ -1207,38 +1223,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "YOUR NAME IS POWER (Acoustic)",
-        "url": "https://open.spotify.com/album/5OPnwxMGo48RxfOQS9hzXy"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 232238,
-      "name": "YOUR NAME IS POWER - Acoustic",
-      "url": "https://open.spotify.com/track/5BBd53oJDxtKuK92jWZryD"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Praise You In This Storm (New York Sessions)",
-        "url": "https://open.spotify.com/album/754X3YgVLT8TIZULobXMIV"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 354407,
-      "name": "Praise You In This Storm - New York Sessions",
-      "url": "https://open.spotify.com/track/3a0C28b0tRrTNxJAI8IvPU"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "If It Wasn\u2019t for the Cross",
         "url": "https://open.spotify.com/album/013ERHFnsYzmZz8BdfyiEN"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 254666,
       "name": "If It Wasn\u2019t for the Cross",
       "url": "https://open.spotify.com/track/07zvagUEBLjgBUGRALm963"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "New York Sessions",
+        "url": "https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 272625,
+      "name": "Who Am I - New York Sessions",
+      "url": "https://open.spotify.com/track/7rDOaZO1vtpJKQ8speQb2A"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1287,22 +1287,18 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Up Again (Acoustic Mix)",
-        "url": "https://open.spotify.com/album/6bxngQfzDAqyDJfjD7ynEq"
+        "name": "Morning Sun, Rising Tide",
+        "url": "https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q"
       },
       "artists": [
         {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        },
-        {
-          "name": "Love & The Outcome",
-          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
+          "name": "Mark & Sarah Tillman",
+          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
         }
       ],
-      "duration_ms": 213360,
-      "name": "Up Again (Acoustic Mix)",
-      "url": "https://open.spotify.com/track/0P7JFcfRbg69vyuVkMIori"
+      "duration_ms": 236466,
+      "name": "Oh What a Father",
+      "url": "https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1319,6 +1315,42 @@
       "duration_ms": 279373,
       "name": "Isn't It Love - 2014 Version",
       "url": "https://open.spotify.com/track/04Lw9ot3N6m7o4Z02JdwCx"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Praise You In This Storm (New York Sessions)",
+        "url": "https://open.spotify.com/album/754X3YgVLT8TIZULobXMIV"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 354407,
+      "name": "Praise You In This Storm - New York Sessions",
+      "url": "https://open.spotify.com/track/3a0C28b0tRrTNxJAI8IvPU"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Up Again (Acoustic Mix)",
+        "url": "https://open.spotify.com/album/6bxngQfzDAqyDJfjD7ynEq"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        },
+        {
+          "name": "Love & The Outcome",
+          "url": "https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "Up Again (Acoustic Mix)",
+      "url": "https://open.spotify.com/track/0P7JFcfRbg69vyuVkMIori"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1343,34 +1375,34 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "New York Sessions",
-        "url": "https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K"
+        "name": "Do It Again - EP",
+        "url": "https://open.spotify.com/album/6EXWsOIhMYWY2kGHbhmERE"
       },
       "artists": [
         {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 272625,
-      "name": "Who Am I - New York Sessions",
-      "url": "https://open.spotify.com/track/7rDOaZO1vtpJKQ8speQb2A"
+      "duration_ms": 272914,
+      "name": "Do it Again (Acoustic)",
+      "url": "https://open.spotify.com/track/7pO0Llg3bXvM4HfOtWcdSZ"
     },
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Morning Sun, Rising Tide",
-        "url": "https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q"
+        "name": "Magnified (Acoustic)",
+        "url": "https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4"
       },
       "artists": [
         {
-          "name": "Mark & Sarah Tillman",
-          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
+          "name": "Ginny Owens",
+          "url": "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
         }
       ],
-      "duration_ms": 236466,
-      "name": "Oh What a Father",
-      "url": "https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1"
+      "duration_ms": 211800,
+      "name": "Magnified (Acoustic)",
+      "url": "https://open.spotify.com/track/4hA4SYhcGs5EuxHYW5VKgT"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1407,38 +1439,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Magnified (Acoustic)",
-        "url": "https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4"
-      },
-      "artists": [
-        {
-          "name": "Ginny Owens",
-          "url": "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "Magnified (Acoustic)",
-      "url": "https://open.spotify.com/track/4hA4SYhcGs5EuxHYW5VKgT"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Do It Again - EP",
-        "url": "https://open.spotify.com/album/6EXWsOIhMYWY2kGHbhmERE"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 272914,
-      "name": "Do it Again (Acoustic)",
-      "url": "https://open.spotify.com/track/7pO0Llg3bXvM4HfOtWcdSZ"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Worth The Wait",
         "url": "https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h"
       },
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Kingdoms",
-        "url": "https://open.spotify.com/album/4yhgyBZOmFGpDOJ9tYIn5R"
-      },
-      "artists": [
-        {
-          "name": "Enterline",
-          "url": "https://open.spotify.com/artist/4a9sjAQKfSapRPJJIZ4wLK"
-        }
-      ],
-      "duration_ms": 207135,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/4fMAalRybyhvf4bVyfpVTp"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "& Side A",
         "url": "https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 268970,
       "name": "Light & Momentary",
       "url": "https://open.spotify.com/track/08DEpqd2B46uUj5MeagoC6"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Kingdoms",
+        "url": "https://open.spotify.com/album/4yhgyBZOmFGpDOJ9tYIn5R"
+      },
+      "artists": [
+        {
+          "name": "Enterline",
+          "url": "https://open.spotify.com/artist/4a9sjAQKfSapRPJJIZ4wLK"
+        }
+      ],
+      "duration_ms": 207135,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/4fMAalRybyhvf4bVyfpVTp"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Stained Glass",
-        "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
-      },
-      "artists": [
-        {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
-        }
-      ],
-      "duration_ms": 317509,
-      "name": "Stained Glass",
-      "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Ashes to Skies",
         "url": "https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 274546,
       "name": "Ashes to Skies",
       "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Stained Glass",
+        "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
+      },
+      "artists": [
+        {
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+        }
+      ],
+      "duration_ms": 317509,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Albertine",
-        "url": "https://open.spotify.com/album/692STu3cT5sFQbvSO8qd2X"
-      },
-      "artists": [
-        {
-          "name": "Brooke Fraser",
-          "url": "https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Shadowfeet",
-      "url": "https://open.spotify.com/track/4nvxOpUIhsI9XCSAOkFqpC"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/2cSJZUOuxI6RaevNsWHtN2"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 289411,
       "name": "Hanging onto Every Word That You Say",
       "url": "https://open.spotify.com/track/58qzGFYaVi2EHSldZryfVw"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Albertine",
+        "url": "https://open.spotify.com/album/692STu3cT5sFQbvSO8qd2X"
+      },
+      "artists": [
+        {
+          "name": "Brooke Fraser",
+          "url": "https://open.spotify.com/artist/1W2FTsCUlviVRhHNjZwWiN"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Shadowfeet",
+      "url": "https://open.spotify.com/track/4nvxOpUIhsI9XCSAOkFqpC"
     },
     {
       "added_at": "2020-08-31 15:19:19",

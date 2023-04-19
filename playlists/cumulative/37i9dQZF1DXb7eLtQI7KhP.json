@@ -1769,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/4by0Ro40YozZSueywaBqyr"
+      },
+      "artists": [
+        {
+          "name": "Cristoforo Giordano",
+          "url": "https://open.spotify.com/artist/5kCSdIBChGo0GjOEuyjb40"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Solstice",
+      "url": "https://open.spotify.com/track/0ewgB7uNpugFobJDS8uhmg"
+    },
+    {
+      "album": {
         "name": "Sonhando",
         "url": "https://open.spotify.com/album/5qYW8saFQjour2bahZCw1T"
       },

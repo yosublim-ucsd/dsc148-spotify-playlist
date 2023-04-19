@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 54959,
+  "num_followers": 55018,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGQ0MDlmMmUwMGFhYWNhOTQ1Y2I1ZmRkMzg1OTVlYjIx",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMDQ4YTljYmJiMjVmMjIxODlhOTg5MDBiY2NiMmY2NDFm",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Epoch (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1aiREFtQHpZTglHRw9r1xg"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 345387,
-      "name": "Epoch",
-      "url": "https://open.spotify.com/track/2NUiXYNB58RqRvETWEjJp7"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Music Has The Right To Children",
         "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 95973,
       "name": "Bocuma",
       "url": "https://open.spotify.com/track/7keJ7uDxNNp2RFx91ZgWpc"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Epoch (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1aiREFtQHpZTglHRw9r1xg"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "duration_ms": 345387,
+      "name": "Epoch",
+      "url": "https://open.spotify.com/track/2NUiXYNB58RqRvETWEjJp7"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -879,6 +879,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Moons",
+        "url": "https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb"
+      },
+      "artists": [
+        {
+          "name": "Embee",
+          "url": "https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF"
+        }
+      ],
+      "duration_ms": 217411,
+      "name": "Moons",
+      "url": "https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "The Haunted House of House",
         "url": "https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n"
       },
@@ -895,18 +911,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Moons",
-        "url": "https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb"
+        "name": "When the Rain",
+        "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
       },
       "artists": [
         {
-          "name": "Embee",
-          "url": "https://open.spotify.com/artist/7ga1hewK4zSX6yl16251DF"
+          "name": "Trudge",
+          "url": "https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG"
         }
       ],
-      "duration_ms": 217411,
-      "name": "Moons",
-      "url": "https://open.spotify.com/track/4t4uk0wS8mvGwuAsGW9TB8"
+      "duration_ms": 400327,
+      "name": "Deep Eyes Blue Skies",
+      "url": "https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -939,22 +955,6 @@
       "duration_ms": 407317,
       "name": "Vanilla",
       "url": "https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "When the Rain",
-        "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
-      },
-      "artists": [
-        {
-          "name": "Trudge",
-          "url": "https://open.spotify.com/artist/52mz9PgySAnFsUn6YoW8YG"
-        }
-      ],
-      "duration_ms": 400327,
-      "name": "Deep Eyes Blue Skies",
-      "url": "https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Sky Float Sun",
-        "url": "https://open.spotify.com/album/2xR9QSV1W0k66tMeJXryVb"
-      },
-      "artists": [
-        {
-          "name": "Rocket Empire",
-          "url": "https://open.spotify.com/artist/4XxZO3UUtjqRXsgdI5xP82"
-        },
-        {
-          "name": "Amber Sparks",
-          "url": "https://open.spotify.com/artist/5mDDR4HRXvdTiUB7fJBqNf"
-        }
-      ],
-      "duration_ms": 331203,
-      "name": "Bonder",
-      "url": "https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Dance Machine",
         "url": "https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 340100,
       "name": "Dance Machine - Original Mix",
       "url": "https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Sky Float Sun",
+        "url": "https://open.spotify.com/album/2xR9QSV1W0k66tMeJXryVb"
+      },
+      "artists": [
+        {
+          "name": "Rocket Empire",
+          "url": "https://open.spotify.com/artist/4XxZO3UUtjqRXsgdI5xP82"
+        },
+        {
+          "name": "Amber Sparks",
+          "url": "https://open.spotify.com/artist/5mDDR4HRXvdTiUB7fJBqNf"
+        }
+      ],
+      "duration_ms": 331203,
+      "name": "Bonder",
+      "url": "https://open.spotify.com/track/6ZON96MRRR798zmyuZHxQR"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Imperal",
-        "url": "https://open.spotify.com/album/1rligguDD9DJxh9UluyQ4p"
+        "name": "Breathing Underwater",
+        "url": "https://open.spotify.com/album/7n7MzOjUGkLO6gIotByQLL"
       },
       "artists": [
         {
-          "name": "Technopeuten",
-          "url": "https://open.spotify.com/artist/6wbH1j8fd9d0OqJWyBfAiY"
+          "name": "Jim Henderson",
+          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
         }
       ],
-      "duration_ms": 390444,
-      "name": "Imperal",
-      "url": "https://open.spotify.com/track/40xiWanqJVhIu4ZF3UMAdq"
+      "duration_ms": 313079,
+      "name": "Breathing Underwater",
+      "url": "https://open.spotify.com/track/2z37gIePyVNcu8cmuvc3JL"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Mellowdramatic",
+        "url": "https://open.spotify.com/album/7p4K6P0lFMFHIYix2axSFN"
+      },
+      "artists": [
+        {
+          "name": "A Forest Mighty Black",
+          "url": "https://open.spotify.com/artist/4zPCP1wMTDpEWsMWtMvPv5"
+        }
+      ],
+      "duration_ms": 478373,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/7hnloYYhI8mr4ZuT4H2ZuS"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Ars Vivendi",
         "url": "https://open.spotify.com/album/5uYfpev9L3tOSEr0OMGI1F"
       },
@@ -1271,18 +1287,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Breathing Underwater",
-        "url": "https://open.spotify.com/album/7n7MzOjUGkLO6gIotByQLL"
+        "name": "Imperal",
+        "url": "https://open.spotify.com/album/1rligguDD9DJxh9UluyQ4p"
       },
       "artists": [
         {
-          "name": "Jim Henderson",
-          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
+          "name": "Technopeuten",
+          "url": "https://open.spotify.com/artist/6wbH1j8fd9d0OqJWyBfAiY"
         }
       ],
-      "duration_ms": 313079,
-      "name": "Breathing Underwater",
-      "url": "https://open.spotify.com/track/2z37gIePyVNcu8cmuvc3JL"
+      "duration_ms": 390444,
+      "name": "Imperal",
+      "url": "https://open.spotify.com/track/40xiWanqJVhIu4ZF3UMAdq"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1331,22 +1347,6 @@
       "duration_ms": 407038,
       "name": "Backstabber",
       "url": "https://open.spotify.com/track/0ZGTzeO2ZmFq0OEVcxMhgk"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Mellowdramatic",
-        "url": "https://open.spotify.com/album/7p4K6P0lFMFHIYix2axSFN"
-      },
-      "artists": [
-        {
-          "name": "A Forest Mighty Black",
-          "url": "https://open.spotify.com/artist/4zPCP1wMTDpEWsMWtMvPv5"
-        }
-      ],
-      "duration_ms": 478373,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/7hnloYYhI8mr4ZuT4H2ZuS"
     },
     {
       "added_at": "2022-07-15 17:34:15",

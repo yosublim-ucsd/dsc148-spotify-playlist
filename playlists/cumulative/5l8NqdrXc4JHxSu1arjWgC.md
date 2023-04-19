@@ -4,7 +4,7 @@
 
 > 
 
-671 songs - 1 day 21 hr 15 min
+672 songs - 1 day 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [Only Child](https://open.spotify.com/track/5sN6T2PtafVYVH5DmEn7ar) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Help Us Stranger](https://open.spotify.com/album/12rfrkN4eZOpmJUmVzE84M) | 3:41 | 2019-06-27 |  |
 | [Open The Floodgates](https://open.spotify.com/track/5xqKA0qQQwprSERzubZk2n) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:29 | 2022-06-21 |  |
 | [Organ Farmer](https://open.spotify.com/track/3iWIDz7QNa8OiMb1XXrF6r) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Organ Farmer](https://open.spotify.com/album/2ayiDrHYNnN4b702ez950O) | 2:39 | 2019-07-02 |  |
+| [Our Happiness is Guaranteed](https://open.spotify.com/track/6HGlpF5HiVIjUXtCcwwNsC) | [Quasi](https://open.spotify.com/artist/0fiUV7n91Qqmgln2vQMVdO) | [Featuring "Birds"](https://open.spotify.com/album/7tAnCo8qn6xIRkcDs3FEUQ) | 3:15 | 2023-04-18 |  |
 | [Out In The World](https://open.spotify.com/track/3QYqOxisrV4roMW0yimlaL) | [GUM](https://open.spotify.com/artist/4Oov8BULUOBiX6UVpP04JW) | [Out In The World](https://open.spotify.com/album/2cnAK2QpRIWKXcYR7s6uuO) | 3:56 | 2020-06-01 |  |
 | [Out of Time](https://open.spotify.com/track/4JMEhtQ4qQ5mwN7eTLpDpG) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Think Tank](https://open.spotify.com/album/0egRXi9lcYlIGJZ01SpYM3) | 3:53 | 2020-02-11 |  |
 | [Outside](https://open.spotify.com/track/4ersUFGvmzjhnXfmhKtFkI) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [1\. Outside \(The Nathan Adler Diaries: A Hyper Cycle\) \[Expanded Edition\]](https://open.spotify.com/album/0pUursvGUAgcDiEqYlnZ0q) | 4:04 | 2019-09-23 |  |

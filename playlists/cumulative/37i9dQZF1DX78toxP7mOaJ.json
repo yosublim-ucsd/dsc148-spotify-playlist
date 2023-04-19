@@ -452,10 +452,28 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 195666,
       "name": "airplane",
       "url": "https://open.spotify.com/track/0ZSrtjk2DQH6xWura7F01v"
+    },
+    {
+      "album": {
+        "name": "podunk",
+        "url": "https://open.spotify.com/album/24QlHZXQXEPXlszax5IOWW"
+      },
+      "artists": [
+        {
+          "name": "moony",
+          "url": "https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195666,
+      "name": "airplane",
+      "url": "https://open.spotify.com/track/6CCi6b23HctIsVkdoIq7Is"
     },
     {
       "album": {

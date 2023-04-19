@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwvKaY7HLh.md) - [plain]
 
 > Esta selección musical se te hará agua la boca.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,819 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,826 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwvKaY7HLh.md) - [plain]
 | 70 | [Febril Remanso](https://open.spotify.com/track/1HEYwf5sBT77R4Gys0GCxV) | [Daniel Drexler](https://open.spotify.com/artist/5G1Mvuz6SvPPLgVv9NaJDk) | [Febril Remanso](https://open.spotify.com/album/7iI3cwNpOIQwgPeNac5hKP) | 3:43 |
 | 71 | [A Veces](https://open.spotify.com/track/2hEGuvAcZGt6kOh5COiBgF) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [A Veces](https://open.spotify.com/album/6miHXeWD9DWJLrUtgNAf5C) | 2:45 |
 | 72 | [Orquestas en el Puerto](https://open.spotify.com/track/3EXFDk3DoJYY1Qj5gC6ZDd) | [Patiño](https://open.spotify.com/artist/4eepaYCA8Byw10I7CuXhgx), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Paquita Linda](https://open.spotify.com/album/63DUsfHdMz3fL0w1hAO1ct) | 4:48 |
-| 73 | [Drume Negrita \- En Vivo Desde Fonobox](https://open.spotify.com/track/2VOi95darUSa1k1p1FwHui) | [Priscila Félix](https://open.spotify.com/artist/4c5q2DE9662sfdf6DNTNbI) | [Drume Negrita \(Desde Fonobox\) \[En Vivo\]](https://open.spotify.com/album/7JpwHuLixoy7VnWipc4Q7r) | 2:44 |
+| 73 | [Drume Negrita \- En Vivo Desde Fonobox](https://open.spotify.com/track/2VOi95darUSa1k1p1FwHui) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Drume Negrita \(Desde Fonobox\) \[En Vivo\]](https://open.spotify.com/album/7JpwHuLixoy7VnWipc4Q7r) | 2:44 |
 | 74 | [A Ciegas](https://open.spotify.com/track/4X6hxDP2F92RZgQxkxcucf) | [Abraham GÜ](https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc) | [A Ciegas](https://open.spotify.com/album/6LVOAFTZf3CG2omI3RFnO4) | 2:56 |
 | 75 | [Como Yo Te Quería](https://open.spotify.com/track/2Fhj0X9NCGKXDItp003eIh) | [Una Canción Bonita](https://open.spotify.com/artist/3hLAnFsw8LnNJ9FDXSCCP7) | [Como Yo Te Quería](https://open.spotify.com/album/1roZkRMNGE2RBfWQ1WqZsY) | 3:18 |
 

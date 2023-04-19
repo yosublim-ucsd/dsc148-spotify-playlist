@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,310 likes - 38 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,323 likes - 38 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2YnrKQ.md) - [plain]
 | 37 | [Season of the Flood](https://open.spotify.com/track/1Loys2CB8Gwa0VKH6ywoNc) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Season of the Flood](https://open.spotify.com/album/0vwBGkJ4skQD7lAq9P7NBm) | 6:54 |
 | 38 | [Old Crows](https://open.spotify.com/track/0cevQODp2daA7IySqHWwhd) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 4:17 |
 
-Snapshot ID: `MjgwMjg4NjMsMDAwMDAwMDBkNjM4NzBiNTdjNWE1MDE2YjI3ODE5ZGU4YjNiNzU4Zg==`
+Snapshot ID: `MjgwMzAzOTAsMDAwMDAwMDA0NjUxY2Q3ZTcxMmU1YjA4MTc3NGM0N2YyZmFlY2NlMA==`

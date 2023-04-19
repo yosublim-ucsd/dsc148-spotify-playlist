@@ -4,7 +4,7 @@
 
 > Your music\. Your faith\. Your life\. This is Pop for life!  Cover artist: Blessing Offor
 
-341 songs - 19 hr 4 min
+342 songs - 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Grave](https://open.spotify.com/track/3rGriClqmR0c8MzSJ1hhhG) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Grave](https://open.spotify.com/album/42nhJXXpTWPfkAw1RvU7ly) | 2:55 | 2021-10-31 | 2022-07-23 |
 | [Hallelujah’s Song \(Psalm 103\) \- FRANKLIN Remix](https://open.spotify.com/track/6CyjgYf2MXZwKdSKkCAmaK) | [JUDAH.](https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW), [Caleb Chapman](https://open.spotify.com/artist/2O7QprwEkB7axelpXQa7Th), [Will Chapman](https://open.spotify.com/artist/5QUtZ4R2ZxWxOSrrvxj4jU) | [Bangerz](https://open.spotify.com/album/4PiXo9M3VrAlP5fG0auMcx) | 4:18 | 2021-10-31 | 2022-07-23 |
 | [HAPPY](https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [EXIT](https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv) | 2:04 | 2021-10-31 | 2023-01-14 |
-| [Happy Day \- Retain Remix](https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc) | [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF) | [Happy Day \- Retain Remix](https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk) | 3:20 | 2023-01-13 |  |
+| [Happy Day \- Retain Remix](https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc) | [Retain](https://open.spotify.com/artist/5SwavZEv1VevR29sNLYTbF) | [Happy Day \- Retain Remix](https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk) | 3:20 | 2023-01-13 | 2023-04-19 |
 | [Happy Sad](https://open.spotify.com/track/4tC5zD76WwY6ibqphFAL9X) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2), [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [Happy Sad](https://open.spotify.com/album/12lfy14lzxVSkgYZE5DkpN) | 2:26 | 2021-10-31 | 2022-07-11 |
 | [Headspace](https://open.spotify.com/track/40eIrKcUvepNmdenanC0Hl) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Godsend](https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2) | 2:57 | 2021-10-31 | 2023-01-14 |
 | [Headspace \- GOLDHOUSE Remix](https://open.spotify.com/track/7HcnT1waFtSq0Ul3kXwflW) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG), [GOLDHOUSE](https://open.spotify.com/artist/670UISOh9XV1zlq5z5IfoY) | [Headspace](https://open.spotify.com/album/7y8Dzogy270AzjyhZU204y) | 3:08 | 2021-10-31 | 2022-07-29 |
@@ -200,6 +200,7 @@
 | [Love Like Thunder](https://open.spotify.com/track/2MoXe7cv3H3J3Z9oSy514F) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb), [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [RICHLIN](https://open.spotify.com/album/5GD8P8i4RfBRKbeUs59P0v) | 3:52 | 2021-10-31 | 2023-01-14 |
 | [Love Like Thunder](https://open.spotify.com/track/2cgVjsFGMRTIFT7eF7GNcJ) | [RICHLIN](https://open.spotify.com/artist/6BgeoVO7Fmnj5Oyzmw4jsb), [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Love Like Thunder](https://open.spotify.com/album/33qzQee0kvzkStGT9ixeni) | 3:52 | 2021-10-31 | 2022-07-29 |
 | [Love Me Back to Life](https://open.spotify.com/track/28ZTokxLv6KCdjjgqI0T5J) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Love Me Back to Life](https://open.spotify.com/album/3HZqRpVyE10Z5PEJ3gXLbM) | 2:47 | 2023-01-13 |  |
+| [Loved By You](https://open.spotify.com/track/08Kl8Vhr889IAfCuj8IZwK) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [God Help Me](https://open.spotify.com/album/5qwfcAITMqoSXLF5sh2yx8) | 3:13 | 2023-01-13 |  |
 | [Loved By You](https://open.spotify.com/track/45HtUmhWSfLEBuFl68t4wl) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Loved By You](https://open.spotify.com/album/6LrvY8QbN1dDfvc68cGFtu) | 3:13 | 2023-01-13 | 2023-04-13 |
 | [Made New](https://open.spotify.com/track/6dmZW09qhO8sC6xdm7rLtv) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Safe Place](https://open.spotify.com/album/6aYo3XMTrfvmMh4mzTG74t) | 3:40 | 2021-10-31 | 2022-07-15 |
 | [Magnified](https://open.spotify.com/track/4Itc4a92d3sevAj04P0YdJ) | [Ginny Owens](https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn) | [Magnified](https://open.spotify.com/album/2YulFRhepGU6AiUO8GHmvY) | 3:34 | 2021-10-31 | 2022-07-04 |

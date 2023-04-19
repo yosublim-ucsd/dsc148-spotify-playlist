@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 89426,
+  "num_followers": 89481,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTI2MCwwMDAwMDAwMGUyMjNiZjFkOTgxY2EwNjYxZDY2OWJiN2YxMTU0Y2Ji",
+  "snapshot_id": "MTY4MTQ0MTI2MCwwMDAwMDAwMDM3ZWQwMTlhZDhjZjZiNzczOGJlZGQxNTI3Yzk5MmZh",
   "tracks": [
     {
       "added_at": "2023-04-14 03:01:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Fatal Attraction",
-        "url": "https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 196933,
-      "name": "Fatal Attraction",
-      "url": "https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
         "name": "Floetic",
         "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 204133,
       "name": "DYING 4 YOUR LOVE",
       "url": "https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
+        "name": "Fatal Attraction",
+        "url": "https://open.spotify.com/album/7jDNiSy9M2tWnvZRl8WsGT"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "Fatal Attraction",
+      "url": "https://open.spotify.com/track/4YZw8g4J3FM98EWoKH8Tfo"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Souled Out",
-        "url": "https://open.spotify.com/album/1dfGhmOGPopEReylj0UUDG"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 237573,
-      "name": "The Pressure",
-      "url": "https://open.spotify.com/track/3Px6rA0efiFjaIImH9pdaR"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
         "name": "N\u00fc Moon",
         "url": "https://open.spotify.com/album/1l9aiypXkyhJx58NTJQz6O"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 185983,
       "name": "Blu Moon",
       "url": "https://open.spotify.com/track/3FajiZIT42FPDBs2xhwhql"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
+        "name": "Souled Out",
+        "url": "https://open.spotify.com/album/1dfGhmOGPopEReylj0UUDG"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 237573,
+      "name": "The Pressure",
+      "url": "https://open.spotify.com/track/3Px6rA0efiFjaIImH9pdaR"
     },
     {
       "added_at": "2023-04-14 03:01:00",

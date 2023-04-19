@@ -4,7 +4,7 @@
 
 > The best new indie tracks every Friday\. Cover: King Krule
 
-5,134 songs - 12 day 12 hr 52 min
+5,135 songs - 12 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1610,7 +1610,8 @@
 | [Frisco](https://open.spotify.com/track/1cU4jWWFTAiclPWyD3X2KP) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Frisco](https://open.spotify.com/album/2ZW8wrrHv95qMif7MaGWb4) | 3:42 | 2022-08-12 | 2022-09-24 |
 | [From The Back of a Cab](https://open.spotify.com/track/240azm4eUSWi4hXU2MLCFM) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [From The Back of a Cab](https://open.spotify.com/album/1VOGrBNajNlZyctv9c9jk8) | 2:47 | 2021-05-08 | 2021-06-26 |
 | [From the Back of a Cab \- Ben Böhmer Remix](https://open.spotify.com/track/6OrLovzoCKCwsiGYydDpKt) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Changephobia Remixes: Part I + II](https://open.spotify.com/album/52hx36jPOBdw8Olunoirf5) | 3:26 | 2021-12-04 | 2021-12-18 |
-| [From the Morning](https://open.spotify.com/track/1tDc5qMvLZRtlxd6bAVjdD) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [From the Morning](https://open.spotify.com/album/7lh06ShmRhf2mMHivGQVkv) | 4:27 | 2023-03-24 |  |
+| [From the Morning](https://open.spotify.com/track/1tDc5qMvLZRtlxd6bAVjdD) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [From the Morning](https://open.spotify.com/album/7lh06ShmRhf2mMHivGQVkv) | 4:27 | 2023-03-24 | 2023-04-19 |
+| [From the Morning](https://open.spotify.com/track/3CtEGldIHVq3zMUouz3x6j) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Covers Vol\. 1](https://open.spotify.com/album/3WdpM0kX0UbJs4yGpEtrJQ) | 4:27 | 2023-03-24 |  |
 | [From These Heights](https://open.spotify.com/track/26tMEDbutzryy8RyHX8HX4) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [From These Heights](https://open.spotify.com/album/1BInJvmyRnVy2ZWjzqKDP8) | 3:26 | 2021-05-15 | 2021-07-17 |
 | [From You](https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [From You](https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ) | 3:30 | 2022-01-07 | 2022-03-26 |
 | [Front Tooth](https://open.spotify.com/track/5qhFfVShRuoquPjjRiGGbe) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Anthony Kiedis / Front Tooth](https://open.spotify.com/album/0kAC2squ6GEVdMwdIWCQFH) | 2:45 | 2021-10-02 | 2021-11-20 |

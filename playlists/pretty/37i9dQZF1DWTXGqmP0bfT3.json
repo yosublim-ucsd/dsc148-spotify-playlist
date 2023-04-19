@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 249450,
+  "num_followers": 250053,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTE0ODAyMCwwMDAwMDAwMGI1OWViMTc4NmU5NTM0YjRmOTY0ZjYxNTA2MjgyNDM2",
+  "snapshot_id": "MTY4MTE0ODAyMCwwMDAwMDAwMGEzMjM4NDdlOTUwNTIyZmE2NDFlMzBiYWMxYWY1YTYz",
   "tracks": [
     {
       "added_at": "2023-03-17 15:31:59",
@@ -617,7 +617,7 @@
       "url": "https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw"
     },
     {
-      "added_at": "2023-04-18 00:26:58",
+      "added_at": "2023-04-19 00:19:40",
       "album": {
         "name": "Foregone",
         "url": "https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3"
@@ -1005,7 +1005,7 @@
       "url": "https://open.spotify.com/track/7rGN3oqzCpG2mLcwoPwDQm"
     },
     {
-      "added_at": "2023-04-18 00:26:58",
+      "added_at": "2023-04-19 00:19:40",
       "album": {
         "name": "Winner Takes All (feat. Alice Cooper)",
         "url": "https://open.spotify.com/album/3h5f0wgybbpyb8wm9xg4oQ"
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
-        "name": "Brotherhood of the Snake",
-        "url": "https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu"
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
       },
       "artists": [
         {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 253988,
-      "name": "Brotherhood of the Snake",
-      "url": "https://open.spotify.com/track/4VcN84ZdC7doe4yoIarJUA"
+      "duration_ms": 209453,
+      "name": "Lightning Strike",
+      "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
     },
     {
       "added_at": "2023-03-17 15:31:59",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
-        "name": "Firepower",
-        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+        "name": "Brotherhood of the Snake",
+        "url": "https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu"
       },
       "artists": [
         {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
         }
       ],
-      "duration_ms": 209453,
-      "name": "Lightning Strike",
-      "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
+      "duration_ms": 253988,
+      "name": "Brotherhood of the Snake",
+      "url": "https://open.spotify.com/track/4VcN84ZdC7doe4yoIarJUA"
     },
     {
       "added_at": "2023-03-17 15:31:59",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
-        "name": "Tales from the Kingdom of Fife",
-        "url": "https://open.spotify.com/album/0jFgXktWjw4NYC7D77YYYE"
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
       },
       "artists": [
         {
-          "name": "Gloryhammer",
-          "url": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 208226,
-      "name": "Angus Mcfife",
-      "url": "https://open.spotify.com/track/1jSQRvpQYPcIKt67fc5Npv"
+      "duration_ms": 242640,
+      "name": "From The Pinnacle To The Pit",
+      "url": "https://open.spotify.com/track/2J5aJp4HQxcMuxZ6HVM4GC"
     },
     {
       "added_at": "2023-03-17 15:31:59",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
-        "name": "Meliora",
-        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
+        "name": "Tales from the Kingdom of Fife",
+        "url": "https://open.spotify.com/album/0jFgXktWjw4NYC7D77YYYE"
       },
       "artists": [
         {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+          "name": "Gloryhammer",
+          "url": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
         }
       ],
-      "duration_ms": 242640,
-      "name": "From The Pinnacle To The Pit",
-      "url": "https://open.spotify.com/track/2J5aJp4HQxcMuxZ6HVM4GC"
+      "duration_ms": 208226,
+      "name": "Angus Mcfife",
+      "url": "https://open.spotify.com/track/1jSQRvpQYPcIKt67fc5Npv"
     },
     {
       "added_at": "2023-03-17 15:31:59",

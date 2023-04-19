@@ -324,7 +324,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 187424,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/794P6LrIcSEL2NCCqNnUmX"
@@ -766,7 +766,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-19",
       "duration_ms": 160879,
       "name": "Confess",
       "url": "https://open.spotify.com/track/0YYvexuLnGWjD8iUwirzoW"
@@ -1722,6 +1722,24 @@
       "duration_ms": 171445,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/0JAzlCL0Btz2z6qWN09AaG"
+    },
+    {
+      "album": {
+        "name": "Many Man",
+        "url": "https://open.spotify.com/album/46cAEUCfM1djPs5ydCww2C"
+      },
+      "artists": [
+        {
+          "name": "Stainless",
+          "url": "https://open.spotify.com/artist/5Y6MOzpao9KN6cjk0tUlmT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156494,
+      "name": "Many Man",
+      "url": "https://open.spotify.com/track/4R2luhzq04pJjSQWNOiY0S"
     },
     {
       "album": {
@@ -2846,6 +2864,32 @@
       "duration_ms": 220264,
       "name": "Test Me",
       "url": "https://open.spotify.com/track/45VPTngfUEF7c5rBI2IOja"
+    },
+    {
+      "album": {
+        "name": "A Night In Cocody",
+        "url": "https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2"
+      },
+      "artists": [
+        {
+          "name": "Jeune Lio",
+          "url": "https://open.spotify.com/artist/1zz3LkV2ojd7rzmYf2QOsF"
+        },
+        {
+          "name": "Chrystel",
+          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
+        },
+        {
+          "name": "Yung D3mz",
+          "url": "https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220264,
+      "name": "Test Me",
+      "url": "https://open.spotify.com/track/7cb8EEwS3csiKjiee33ZP2"
     },
     {
       "album": {

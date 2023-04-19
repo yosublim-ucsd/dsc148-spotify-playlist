@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 
 > Soul meets blues\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,947 likes - 60 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,987 likes - 60 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 | 17 | [Love of Mine](https://open.spotify.com/track/4ulL5jGR1a48LNQRUAQpnY) | [Buddy Ace](https://open.spotify.com/artist/4QP0coGRLggyMr9Pg65HBK) | [Don't Hurt No More](https://open.spotify.com/album/7brSqEwvGV2X2JIQlDtR1F) | 4:07 |
 | 18 | [First You Cry](https://open.spotify.com/track/28hYrUWnji9pKfEZ5RcZQD) | [Little Buster & the Soul Brothers](https://open.spotify.com/artist/6UN2nDyCut9rrFFhfrO1Qs) | [Right On Time!](https://open.spotify.com/album/0fasWjmufll2DjLombteEC) | 4:25 |
 | 19 | [It's Harder Now \- Remix](https://open.spotify.com/track/1VXoeEb0rhalFjoSIde0vo) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [It Ain't Easy: Essential Recordings](https://open.spotify.com/album/3OtKfYKnLZbmqdrBNCbkNU) | 3:42 |
-| 20 | [I'm Com'un Home in the Morn'un](https://open.spotify.com/track/2wB9CDJ3AlpGxau0KF3Xy7) | [Lou Pride](https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ) | [Keep On Believing](https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN) | 5:19 |
-| 21 | [Yes, I've Been Crying](https://open.spotify.com/track/3IVdACtG1mtDxxcpZGORWY) | [Lavelle White](https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz) | [Miss Lavelle](https://open.spotify.com/album/1hJCYmBzQiuTMPoLMUxKDB) | 3:54 |
+| 20 | [Yes, I've Been Crying](https://open.spotify.com/track/3IVdACtG1mtDxxcpZGORWY) | [Lavelle White](https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz) | [Miss Lavelle](https://open.spotify.com/album/1hJCYmBzQiuTMPoLMUxKDB) | 3:54 |
+| 21 | [I'm Com'un Home in the Morn'un](https://open.spotify.com/track/2wB9CDJ3AlpGxau0KF3Xy7) | [Lou Pride](https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ) | [Keep On Believing](https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN) | 5:19 |
 | 22 | [No Regrets](https://open.spotify.com/track/0d6zDOS0Zk0Kkar2Lrp20P) | [Mighty Mo Rodgers](https://open.spotify.com/artist/03iIha4mNgohGeWoOqLrXm) | [Blues Is My Wailin' Wall](https://open.spotify.com/album/0XaRMLkHX5jGdnF6YATIRQ) | 4:57 |
 | 23 | [Guitar Man](https://open.spotify.com/track/1RFyA8YvsZOCNTQ5eVW2ni) | [Little Milton](https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan) | [Guitar Man](https://open.spotify.com/album/5AdvtCXgP6IPuX0xQkaUB2) | 4:17 |
 | 24 | [Love Don't Love Nobody](https://open.spotify.com/track/2fg8StWDjZ6HXAWi3lz0Ix) | [Billy Price](https://open.spotify.com/artist/509o7Fm0youPHjgcq5nCRI), [Otis Clay](https://open.spotify.com/artist/2jV8AcZ8W3TfiqInUGWwlL) | [This Time For Real](https://open.spotify.com/album/749QhTw8T5oHNNZ3MigsLQ) | 6:46 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 | 30 | [Money Is The Name Of The Game](https://open.spotify.com/track/2eXE8IO1M5lyu2H7Qyi7hL) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Old School](https://open.spotify.com/album/36avF49BDsiQjdjMxo3nqF) | 6:48 |
 | 31 | [Bone It Like You Own It](https://open.spotify.com/track/1LhlJisWDjvYhmxtlXDXUT) | [Denise LaSalle](https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15) | [Wanted](https://open.spotify.com/album/16fiGM53IxqzhvGusMmyEJ) | 4:47 |
 | 32 | [Stronger Than You Need To Be](https://open.spotify.com/track/111lEceXGPf5AX8yntrQaK) | [W.C\. Clark](https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi) | [Deep In The Heart](https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba) | 4:05 |
-| 33 | [Someday Baby](https://open.spotify.com/track/2SSqOWVTbKN0pTTKjgy6dg) | [Chick Willis](https://open.spotify.com/artist/0NrO6QCCIuFygHBeEN670A) | [From the Heart and Soul](https://open.spotify.com/album/3uwUrRcmhucNTtlNmaXtNn) | 4:42 |
-| 34 | [Soul Deep](https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P) | [Lavelle White](https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz) | [Into the Mystic](https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y) | 3:04 |
-| 35 | [Thru Chasin' You](https://open.spotify.com/track/0UdgsIuqTM5WNL1SZADszx) | [Trudy Lynn](https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz) | [I'll Sing the Blues for You](https://open.spotify.com/album/71qKNQK5RuvudVIVuWVhq4) | 4:55 |
+| 33 | [Soul Deep](https://open.spotify.com/track/6ffEgX5nzfQTbXXLiaDW1P) | [Lavelle White](https://open.spotify.com/artist/4GJ4yxV0hwx6Y1mfc3Qxwz) | [Into the Mystic](https://open.spotify.com/album/113YdmaOGCEg3wmh1zW92Y) | 3:04 |
+| 34 | [Thru Chasin' You](https://open.spotify.com/track/0UdgsIuqTM5WNL1SZADszx) | [Trudy Lynn](https://open.spotify.com/artist/1fh5pVts7jbJuDSUwWLfAz) | [I'll Sing the Blues for You](https://open.spotify.com/album/71qKNQK5RuvudVIVuWVhq4) | 4:55 |
+| 35 | [Someday Baby](https://open.spotify.com/track/2SSqOWVTbKN0pTTKjgy6dg) | [Chick Willis](https://open.spotify.com/artist/0NrO6QCCIuFygHBeEN670A) | [From the Heart and Soul](https://open.spotify.com/album/3uwUrRcmhucNTtlNmaXtNn) | 4:42 |
 | 36 | [I Can't Stop](https://open.spotify.com/track/4zKzINcISloFWm2mh0yyFG) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Back In The Game](https://open.spotify.com/album/1LJKmJgD6dS77Ud3MgEqsZ) | 4:17 |
 | 37 | [Cold This Winter](https://open.spotify.com/track/2UhYPOsrE0iluqm288o6l9) | [Ernie Johnson](https://open.spotify.com/artist/7rVOargGPV6QSrBZJ3JQLr) | [In The Mood](https://open.spotify.com/album/3GC2tIQGFII8o9Awi5SpUB) | 5:00 |
 | 38 | [I'm So Proud](https://open.spotify.com/track/5t6lSg9siTTeRc5WHOdqkH) | [Tutu Jones](https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L) | [Inside Out](https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb) | 4:48 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 | 51 | [Chockin' Kind](https://open.spotify.com/track/0XhQIBdAhqSEqk7HIfwxtk) | [Buddy Ace](https://open.spotify.com/artist/4QP0coGRLggyMr9Pg65HBK) | [Don't Hurt No More](https://open.spotify.com/album/7brSqEwvGV2X2JIQlDtR1F) | 3:27 |
 | 52 | [All The Way Down](https://open.spotify.com/track/353BumIgA33r4FzY84JCaF) | [Lonnie Shields](https://open.spotify.com/artist/3OLH6X1iYxhTzdEtk2O3jV) | [Blues Is On Fire](https://open.spotify.com/album/5Eg8IqPjqEhZc8AFf4Y1cJ) | 4:02 |
 | 53 | [Black Cat Roun' My Do'](https://open.spotify.com/track/4wQkp4iGbBrE4QbJbqC3CM) | [Jackie Payne Steve Edmonson Band](https://open.spotify.com/artist/0XnUcbdWKZxfPl6bNDTZt3) | [Master of the Game](https://open.spotify.com/album/2EfYz1jjfWM3TNmawkeMKX) | 3:56 |
-| 54 | [Engines And Wings](https://open.spotify.com/track/5DKD8QtRqQbCwIQ7mTXPpl) | [Little Buster & the Soul Brothers](https://open.spotify.com/artist/6UN2nDyCut9rrFFhfrO1Qs) | [Right On Time!](https://open.spotify.com/album/0fasWjmufll2DjLombteEC) | 4:16 |
-| 55 | [Living](https://open.spotify.com/track/1ysdESkyEixB9iUlarjxtu) | [Eugene Bridges](https://open.spotify.com/artist/727soeGZ5CJB5qksGORqNR) | [Jump the Joint](https://open.spotify.com/album/5AEPi7bvMdOMv6n6KFjnsZ) | 6:29 |
+| 54 | [Living](https://open.spotify.com/track/1ysdESkyEixB9iUlarjxtu) | [Eugene Bridges](https://open.spotify.com/artist/727soeGZ5CJB5qksGORqNR) | [Jump the Joint](https://open.spotify.com/album/5AEPi7bvMdOMv6n6KFjnsZ) | 6:29 |
+| 55 | [Engines And Wings](https://open.spotify.com/track/5DKD8QtRqQbCwIQ7mTXPpl) | [Little Buster & the Soul Brothers](https://open.spotify.com/artist/6UN2nDyCut9rrFFhfrO1Qs) | [Right On Time!](https://open.spotify.com/album/0fasWjmufll2DjLombteEC) | 4:16 |
 | 56 | [I Won't Be Lonely](https://open.spotify.com/track/7nRPUUqMMwAt4sDBaoODA2) | [Willie Walker](https://open.spotify.com/artist/4ATDRGpJ9wi6e5FRYb8C2t), [The Butanes](https://open.spotify.com/artist/3zlUDjxwrKGcnAvgPG2c3L) | [Memphisapolis](https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL) | 3:47 |
 | 57 | [Reckless Heart](https://open.spotify.com/track/2P4SDDe2O1sMNETDMK2NXF) | [Johnny Rawls](https://open.spotify.com/artist/7vuXCITiRilCLfuySIgZKM) | [Tiger in a Cage](https://open.spotify.com/album/2y2airR6ysuixHtrYfHpEG) | 4:25 |
-| 58 | [I Can't Hold It](https://open.spotify.com/track/1YIEDMHFSa43AFA3fNtbk6) | [Lou Pride](https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ) | [Keep On Believing](https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN) | 4:25 |
+| 58 | [Giving My Love \(To the Other Women\)](https://open.spotify.com/track/63Jhy5sNIWPepLyM7E0N86) | [Joyce Lawson](https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW) | [Today I Sing The Blues](https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF) | 5:18 |
 | 59 | [The Real Deal](https://open.spotify.com/track/71r6AKMlWO7PdAmywO5zoQ) | [Jackie Payne Steve Edmonson Band](https://open.spotify.com/artist/0XnUcbdWKZxfPl6bNDTZt3) | [Master of the Game](https://open.spotify.com/album/2EfYz1jjfWM3TNmawkeMKX) | 3:28 |
-| 60 | [Stop Doggin Me Around](https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7) | [Joyce Lawson](https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW) | [Today I Sing The Blues](https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF) | 4:35 |
+| 60 | [I Can't Hold It](https://open.spotify.com/track/1YIEDMHFSa43AFA3fNtbk6) | [Lou Pride](https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ) | [Keep On Believing](https://open.spotify.com/album/1Ujf4A1kIy1BW6RqW9CJYN) | 4:25 |
 
-Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMDRkNmExZmM0NzM3NzkzODhlN2U2MTZkMmUyMDhhOGI0`
+Snapshot ID: `MTY3MzU4NjA2MCwwMDAwMDAwMGRlNjIzOTBhNDBlMTU0MzVkZWZlZGEzZTFjYzQzNzZk`

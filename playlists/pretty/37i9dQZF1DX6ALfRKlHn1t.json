@@ -1,12 +1,12 @@
 {
   "description": "the soundtrack for your vitamin d fix. ",
-  "num_followers": 1035378,
+  "num_followers": 1035612,
   "original_name": "Soak Up the Sun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDAzNDc5MywwMDAwMDAwMDVhMjIyMDJmYmI5ZTE5N2IxOTM4ZGE5NjIwMDk3NDRl",
+  "snapshot_id": "MTY4MDAzNDc5MywwMDAwMDAwMGY4ODlkZTM3ZjM4NzBlOGY1OTljMmYyNzVkMjEzYjcx",
   "tracks": [
     {
       "added_at": "2023-03-14 21:21:02",
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
     },
     {
-      "added_at": "2023-04-18 00:25:50",
+      "added_at": "2023-04-19 00:39:07",
       "album": {
         "name": "Hell N Back (Sped Up)",
         "url": "https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8"
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-03-14 21:21:02",
       "album": {
-        "name": "I Can't Help But Feel",
-        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
+        "name": "Kona Town",
+        "url": "https://open.spotify.com/album/37ijUtHcOrsDCIQRsa5sB4"
       },
       "artists": [
         {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
         }
       ],
-      "duration_ms": 178780,
-      "name": "I Can't Help But Feel",
-      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
+      "duration_ms": 254800,
+      "name": "Stone Love",
+      "url": "https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV"
     },
     {
       "added_at": "2023-03-14 21:21:02",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-03-14 21:21:02",
       "album": {
-        "name": "Kona Town",
-        "url": "https://open.spotify.com/album/37ijUtHcOrsDCIQRsa5sB4"
+        "name": "I Can't Help But Feel",
+        "url": "https://open.spotify.com/album/7rzTGJdNOe2W5h7pZaSWOr"
       },
       "artists": [
         {
-          "name": "Pepper",
-          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
         }
       ],
-      "duration_ms": 254800,
-      "name": "Stone Love",
-      "url": "https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV"
+      "duration_ms": 178780,
+      "name": "I Can't Help But Feel",
+      "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
     },
     {
       "added_at": "2023-03-14 21:21:02",
@@ -691,26 +691,6 @@
     {
       "added_at": "2023-03-14 21:21:02",
       "album": {
-        "name": "Nobody (feat. dodie)",
-        "url": "https://open.spotify.com/album/14izII4z3jQPUPx2pmZsMM"
-      },
-      "artists": [
-        {
-          "name": "half\u2022alive",
-          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
-        },
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 206640,
-      "name": "Nobody (feat. dodie)",
-      "url": "https://open.spotify.com/track/3HSIgdZZJGHBV3F3kradtG"
-    },
-    {
-      "added_at": "2023-03-14 21:21:02",
-      "album": {
         "name": "Life Is Yours",
         "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 182658,
       "name": "I Think I Like You",
       "url": "https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU"
+    },
+    {
+      "added_at": "2023-03-14 21:21:02",
+      "album": {
+        "name": "Nobody (feat. dodie)",
+        "url": "https://open.spotify.com/album/14izII4z3jQPUPx2pmZsMM"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+        },
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 206640,
+      "name": "Nobody (feat. dodie)",
+      "url": "https://open.spotify.com/track/3HSIgdZZJGHBV3F3kradtG"
     },
     {
       "added_at": "2023-03-14 21:21:02",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-03-14 21:21:02",
       "album": {
+        "name": "The Tarantino Connection",
+        "url": "https://open.spotify.com/album/1pP3xpjOLQILI99rwfSi9q"
+      },
+      "artists": [
+        {
+          "name": "George Baker Selection",
+          "url": "https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "Little Green Bag",
+      "url": "https://open.spotify.com/track/4DR5MStkWtDYf17jBUOo0V"
+    },
+    {
+      "added_at": "2023-03-14 21:21:02",
+      "album": {
         "name": "Ride or Die (feat. Foster the People)",
         "url": "https://open.spotify.com/album/4NSPREWQ2t8VdRGqK45UkD"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 242034,
       "name": "Ride or Die (feat. Foster the People)",
       "url": "https://open.spotify.com/track/3uJsg8xIH7OpWHxuJaMLJX"
-    },
-    {
-      "added_at": "2023-03-14 21:21:02",
-      "album": {
-        "name": "The Tarantino Connection",
-        "url": "https://open.spotify.com/album/1pP3xpjOLQILI99rwfSi9q"
-      },
-      "artists": [
-        {
-          "name": "George Baker Selection",
-          "url": "https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "Little Green Bag",
-      "url": "https://open.spotify.com/track/4DR5MStkWtDYf17jBUOo0V"
     },
     {
       "added_at": "2023-03-14 21:21:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,106 likes - 110 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,163 likes - 110 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 | 19 | [You'd Be So Nice To Come Home To](https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Julian "Cannonball" Adderley](https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8) | 3:36 |
 | 20 | [Whisper Not \- Live](https://open.spotify.com/track/6KBNObIQGq722j8hchNcmf) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [The Trio Live From Chicago \(Expanded Edition\)](https://open.spotify.com/album/6aVAGkx39QecHlSjGt63sh) | 5:46 |
 | 21 | [S.K.J.](https://open.spotify.com/track/3cGQV0JaTjzB4nMe9h3oru) | [Milt Jackson](https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN), [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Bags Meets Wes \[Keepnews Collection\]](https://open.spotify.com/album/0MRn6bdBb83HGYCssD2Sp3) | 5:17 |
-| 22 | [March On Selma \- Remastered](https://open.spotify.com/track/2J8zEC95MQuuQSSzdVXJg5) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Down With It](https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF) | 6:16 |
+| 22 | [March On Selma \- Remastered 2005/Rudy Van Gelder Edition](https://open.spotify.com/track/2J8zEC95MQuuQSSzdVXJg5) | [The Blue Mitchell Quintet](https://open.spotify.com/artist/4WQ2WF6X178A17JiHI4bWj) | [Down With It! \(Remastered 2005/Rudy Van Gelder Edition\)](https://open.spotify.com/album/4CFxKByN51JAogIYt94jMF) | 6:16 |
 | 23 | [S.N.C.F.](https://open.spotify.com/track/2QjzDjDawaDWHnN7KkJHhc) | [Julian & Roman Wasserfuhr](https://open.spotify.com/artist/3Dj5ObqiSZgnebc0xgZi0O), [Donny McCaslin](https://open.spotify.com/artist/1CS1JV6wZUIf5hbsWoiH1M), [Tim Lefebvre](https://open.spotify.com/artist/0f92BXRSv36fG7o3QxCQ38), [Nate Wood](https://open.spotify.com/artist/7naYSK1hW7hTZJtrhCrLvR) | [Landed in Brooklyn \(with Tim Lefebvre & Nate Wood\)](https://open.spotify.com/album/5JxcyZzPM8oy5FElSKRmj7) | 6:05 |
 | 24 | [Stompin' At The Savoy](https://open.spotify.com/track/6uoJ2NJAwM4ypScoRbGZyR) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Modern Art](https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6) | 5:04 |
 | 25 | [Tenderly](https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 3:34 |
