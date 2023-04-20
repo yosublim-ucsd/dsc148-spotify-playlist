@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,688 likes - 45 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,700 likes - 45 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 | 33 | [Fly Away](https://open.spotify.com/track/6dB3CBDenGlbN82nWYTFIu) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3) | 3:30 |
 | 34 | [Easy Street](https://open.spotify.com/track/6Xrax57hlpq52OARjKFXFo) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 2:17 |
 | 35 | [When God Closes a Door](https://open.spotify.com/track/2wYVL5QawLgPamUCw87TQw) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo) | 3:29 |
-| 36 | [I Shall Be Released \(feat\. Larkin Poe\)](https://open.spotify.com/track/6w6ZTXBkcf4JurAR0ruRU5) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [I Shall Be Released \(feat\. Larkin Poe\)](https://open.spotify.com/album/21WX3fvuUwoP0k7GQo5NAo) | 4:47 |
+| 36 | [Blue & Sentimental](https://open.spotify.com/track/0uAKtjwLUuoRV5HuZCqKbe) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun), [Shawn Pelton](https://open.spotify.com/artist/3JamY45rtaJluNZPgdVSkl) | [Late Night Basie](https://open.spotify.com/album/0UfzjyiMMz6ehDLQEqc7P2) | 3:51 |
 | 37 | [In The Air Tonight](https://open.spotify.com/track/4LuyzoR1ssL2qFnBaJCZDq) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3) | 3:21 |
-| 38 | [Blue & Sentimental](https://open.spotify.com/track/0uAKtjwLUuoRV5HuZCqKbe) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun), [Shawn Pelton](https://open.spotify.com/artist/3JamY45rtaJluNZPgdVSkl) | [Late Night Basie](https://open.spotify.com/album/0UfzjyiMMz6ehDLQEqc7P2) | 3:51 |
+| 38 | [I Shall Be Released \(feat\. Larkin Poe\)](https://open.spotify.com/track/6w6ZTXBkcf4JurAR0ruRU5) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [I Shall Be Released \(feat\. Larkin Poe\)](https://open.spotify.com/album/21WX3fvuUwoP0k7GQo5NAo) | 4:47 |
 | 39 | [We Intertwine](https://open.spotify.com/track/2wY8dr3fDqMEBc20C889bU) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kin](https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92) | 4:04 |
 | 40 | [Baby Blue Eyes \(feat\. Larkin Poe\) \- Rainy Day Sessions](https://open.spotify.com/track/3eB4bheM9cIu5v8lcQ558s) | [A Rocket To The Moon](https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [The Rainy Day Sessions EP](https://open.spotify.com/album/3cNNJvewda8N8nWKThsCRr) | 3:53 |
 | 41 | [Bell Bottom Blues](https://open.spotify.com/track/1bVsREPP540OsZxCMilRY6) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3) | 3:41 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4gv01w.md) - [plain]
 | 44 | [Take What You Want](https://open.spotify.com/track/5SIsbugJ2rnfrHQ0wU0o1Y) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3) | 2:59 |
 | 45 | [Ramblin' Man](https://open.spotify.com/track/1wbeozaNyIwKOUwocSzdLE) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kindred Spirits](https://open.spotify.com/album/5QW6H2R5CFCfBzxstgntK3) | 2:43 |
 
-Snapshot ID: `MjgwMzAzOTAsMDAwMDAwMDBmZGE2OTg5ZTM5OWYxZGU5ZGIxNGY3Yzk4NzBlNjhjMA==`
+Snapshot ID: `MjgwMzE3ODMsMDAwMDAwMDBiMWY4ZDFhM2UwNjI5ODliYjgyNDJmMzc1ZThiMjExOQ==`

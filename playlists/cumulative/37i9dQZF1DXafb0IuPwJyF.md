@@ -4,7 +4,7 @@
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover:  YOASOBI
 
-796 songs - 2 day 1 hr 45 min
+797 songs - 2 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -554,6 +554,7 @@
 | [ダンスホール](https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダンスホール](https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08) | 3:23 | 2022-05-29 | 2022-10-31 |
 | [ダークルーム](https://open.spotify.com/track/7sm1J9BbrNaOaTaF9I5f7B) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [ダークルーム](https://open.spotify.com/album/0enb4QkhRZPSzNsH0immrH) | 2:55 | 2021-12-19 | 2021-12-27 |
 | [ダーリン](https://open.spotify.com/track/3mkRGh8v7AOH31yQ38SVdt) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [ダーリン](https://open.spotify.com/album/3nxQoSo8OVyL1wvdiW9Vva) | 2:28 | 2023-01-29 | 2023-02-27 |
+| [チノカテ](https://open.spotify.com/track/7HIfg6iQgXkVEUMHAAXW2d) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [幻燈](https://open.spotify.com/album/4LBtT0FZ3JMjbklNwnW0Ms) | 4:07 | 2023-04-19 |  |
 | [チノカテ](https://open.spotify.com/track/7w1taFiEu8GGQJkzQaEWpx) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [チノカテ](https://open.spotify.com/album/1ItS3Da6sbCmwwTgkBHttk) | 4:08 | 2022-09-04 | 2022-10-24 |
 | [チーズケーキ・ファクトリー](https://open.spotify.com/track/738jPe2gzSeNay3MouWSqO) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [The End of Yesterday](https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9) | 3:34 | 2023-01-01 | 2023-03-13 |
 | [ティンカーベル](https://open.spotify.com/track/0PZPilEz9GEanxueKFIedv) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [ティンカーベル / 鍋奉行](https://open.spotify.com/album/45hLH4xnbjQH5r1cjknO5j) | 3:23 | 2022-10-23 | 2022-11-07 |
@@ -784,7 +785,7 @@
 | [進め!そっちだ!](https://open.spotify.com/track/1VIXmzlTN3HSIbwCQQaCl8) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [進め!そっちだ!](https://open.spotify.com/album/1KVIhGzMdFp0V2z255vbgG) | 3:14 | 2022-01-16 | 2022-02-21 |
 | [運命、というかUFOに\(ドゥイ、ドゥイ\)](https://open.spotify.com/track/7Ixpgdw4u532wm8DV3iv6B) | [Ozawa Kenji](https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I) | [飛行する君と僕のために/運命、というかUFOに\(ドゥイ、ドゥイ\)](https://open.spotify.com/album/1Y8hbSqsXHLtd8DWBAnSW3) | 3:37 | 2021-12-26 | 2022-01-10 |
 | [邦画](https://open.spotify.com/track/4zfsk7inEPq0PawGyU6oHi) | [Indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [邦画](https://open.spotify.com/album/6GFIx1kaT0aD0qLSWCdtRc) | 3:17 | 2021-12-19 | 2022-01-31 |
-| [都落ち](https://open.spotify.com/track/3PPiVAQnUOQ2w0EcpxJhIK) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [幻燈](https://open.spotify.com/album/4LBtT0FZ3JMjbklNwnW0Ms) | 4:10 | 2023-04-09 |  |
+| [都落ち](https://open.spotify.com/track/3PPiVAQnUOQ2w0EcpxJhIK) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [幻燈](https://open.spotify.com/album/4LBtT0FZ3JMjbklNwnW0Ms) | 4:10 | 2023-04-09 | 2023-04-20 |
 | [酔ひもせす](https://open.spotify.com/track/4uMgC3IQoT8wvupuPWotG1) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [酔ひもせす/グッドラック](https://open.spotify.com/album/55IkehGMr9Saotpbt8h8O2) | 3:42 | 2022-04-03 | 2022-04-11 |
 | [金パンパンのジーンズ](https://open.spotify.com/track/31qVxllzSev7Ap1ASoU0no) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [King Of Everything](https://open.spotify.com/album/6STIGUizJUhGprqXZBJL04) | 3:01 | 2023-01-29 | 2023-02-06 |
 | [銃の部品](https://open.spotify.com/track/0AmXho7WWR4MprccR2pILw) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [銃の部品](https://open.spotify.com/album/3lF7gg3xzznR7gL6IKm4LB) | 2:34 | 2022-04-24 | 2022-06-06 |

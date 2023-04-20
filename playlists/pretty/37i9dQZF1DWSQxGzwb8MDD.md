@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,151 likes - 95 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,179 likes - 95 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 5 | [Coloured City](https://open.spotify.com/track/2ct2YTfKDEn9LZyeeyYimw) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [Coloured City](https://open.spotify.com/album/1kYvbDh903FSdoxxb2FOXr) | 6:10 |
 | 6 | [It's Our Future](https://open.spotify.com/track/3OW6EY8txbD8VazmHS7Ljg) | [AWeX](https://open.spotify.com/artist/4ER5Hmm4cR41UYuyJuPwDP) | [It's Our Future \(Special Edition\)](https://open.spotify.com/album/6JBXwq9E37ZRG1hLf6f0mn) | 5:30 |
 | 7 | [Hydraulix 09 A](https://open.spotify.com/track/2fxNkT1PUocRFT2BwyRolp) | [D.A.V.E\. The Drummer](https://open.spotify.com/artist/4ulxN8QnUlk3bX6IopQO7C) | [Hydraulix 09 \(Remastered\)](https://open.spotify.com/album/3Ny1jdQei5tdwUMEip2oen) | 8:30 |
-| 8 | [The Wire](https://open.spotify.com/track/3iQqrip0OVOo5XfxNlUWsT) | [Nico](https://open.spotify.com/artist/4J8NXee9Hvh8sR7U56dVRf) | [The Wire](https://open.spotify.com/album/0GooWFdPm9J9QqEw4s2EQW) | 8:35 |
+| 8 | [The Wire](https://open.spotify.com/track/3iQqrip0OVOo5XfxNlUWsT) | [Nico \(USA\)](https://open.spotify.com/artist/1dbeeOjPYn1uRhNHv8yPmn) | [The Wire](https://open.spotify.com/album/0GooWFdPm9J9QqEw4s2EQW) | 8:35 |
 | 9 | [Superwoman](https://open.spotify.com/track/0fIPrtVqAd1rHnGSByqnzq) | [MRD](https://open.spotify.com/artist/4bpzygoBaq9IUDs3XAxqpR), [Sticky Icky](https://open.spotify.com/artist/0LCzHtbCkrN9CF0ZzEdMmp) | [Superwoman](https://open.spotify.com/album/4Wtpzh9tlF07zfro2ZARMT) | 6:46 |
 | 10 | [Fashion Chronic](https://open.spotify.com/track/3rQN4WM6E7C7GvWGuc5ReM) | [Schacke](https://open.spotify.com/artist/3bphZJ7NojBKcoCeBOSJ5Z) | [Fashion Chronic](https://open.spotify.com/album/4VcxzxD3lXZkVzBwrQLUnA) | 9:01 |
 | 11 | [Taste the Excess](https://open.spotify.com/track/61RzFhsky1A76rvjlzUxUw) | [Funeral Future](https://open.spotify.com/artist/7gfvkCsWrwrN3o3F6u7oIT) | [Blue Euphoria ‎](https://open.spotify.com/album/5A6Gi7vxpvatJvFbnmUPBa) | 4:54 |

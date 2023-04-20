@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 
 > Relaxing piano to help you find calm and stillness within.
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,197 likes - 300 songs - 12 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,267 likes - 300 songs - 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1s9knjP51Oa.md) - [plain]
 | 32 | [Cygne Noir](https://open.spotify.com/track/5BxHusXv0AvPFlm0wGbYv3) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Cygne Noir](https://open.spotify.com/album/5HHvADWAbDJvs9HJGNCQl1) | 2:58 |
 | 33 | [Green Leaves](https://open.spotify.com/track/1TsMXS2Xy3TSP6LkHEw2WY) | [Klaüs](https://open.spotify.com/artist/3252lQrYqRgAFw2xXuNdVZ) | [Green Leaves](https://open.spotify.com/album/4LHWWyLQNckOJYKgmbevdw) | 2:02 |
 | 34 | [November Birdie](https://open.spotify.com/track/3N79AZhe7FiBgF7leqGhHt) | [El Pianista Manco](https://open.spotify.com/artist/01E7DBTYoklq6FeDxgRk36) | [November Birdie](https://open.spotify.com/album/3Fm1JbS2MGWoABmIZV6KJZ) | 2:42 |
-| 35 | [So Ro Lilleman](https://open.spotify.com/track/27vBoR2y5SuRtV2YgvgtS0) | [Sofia Runmon](https://open.spotify.com/artist/6d1sDvwkZD0AznrXcFgDUu) | [So Ro Lilleman](https://open.spotify.com/album/5a3noPVZow8nIbmZETSgNY) | 1:41 |
+| 35 | [So Ro Lilleman](https://open.spotify.com/track/27vBoR2y5SuRtV2YgvgtS0) | [Sofia Runmon](https://open.spotify.com/artist/6d1sDvwkZD0AznrXcFgDUu) | [So Ro Lilleman](https://open.spotify.com/album/5a3noPVZow8nIbmZETSgNY) | 1:34 |
 | 36 | [Embrace Me](https://open.spotify.com/track/4XcCAB5G21D6BZzobQBZMw) | [Carin Florie](https://open.spotify.com/artist/3C44BudashQHdoz23fsob9) | [Embrace Me](https://open.spotify.com/album/4YXJXGBIA9TZpMBPgoewGt) | 2:36 |
 | 37 | [Dovetail](https://open.spotify.com/track/25UlllA0GGWjKK8ndbBk57) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Dovetail](https://open.spotify.com/album/5Ak0Ffw2LmbrMaKPZsqWKJ) | 2:01 |
 | 38 | [Distance](https://open.spotify.com/track/2kfYhnurfTZzBOei3IxO6K) | [Gian Moran](https://open.spotify.com/artist/5toExbFLGir8olBcwFIVs4) | [For Us](https://open.spotify.com/album/0Bug2fYptcIYXMDq7aZ9W3) | 2:10 |

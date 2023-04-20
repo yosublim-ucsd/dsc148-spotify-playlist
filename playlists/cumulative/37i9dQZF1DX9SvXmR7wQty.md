@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Clay Scott
 
-1,794 songs - 4 day 0 hr 13 min
+1,795 songs - 4 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -653,6 +653,7 @@
 | [Hometown](https://open.spotify.com/track/2FYr6FPlyM0vl8gk562gnj) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Hometown](https://open.spotify.com/album/4lOidpIuRkvmFRDPiCXcMy) | 3:43 | 2022-11-11 | 2022-12-03 |
 | [Homme de pluie](https://open.spotify.com/track/0sUtLK6x9rryNtWy1bwnSb) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Homme de pluie](https://open.spotify.com/album/6viPgfyEaKsVu3QoGiJkiC) | 3:04 | 2022-07-29 | 2022-10-15 |
 | [Hors Piste](https://open.spotify.com/track/7LrVEMD3Qtva05qoBivomr) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Hors Piste](https://open.spotify.com/album/7npKfCu8EwFlXqSvErPZCj) | 2:39 | 2022-07-08 | 2022-07-23 |
+| [Hors\-piste](https://open.spotify.com/track/0OekRsbs1j7jRtJPHb9HP9) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [Mauvais Joueur](https://open.spotify.com/album/4uyewdCj65RZX5mjtabls7) | 2:37 | 2023-04-14 |  |
 | [Hymne](https://open.spotify.com/track/32vjH6rbUEwqkeeXAjVSYA) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Hymne](https://open.spotify.com/album/2zU9m7nid26T3sHNAzzr0K) | 2:48 | 2021-12-31 | 2022-01-15 |
 | [Héritage](https://open.spotify.com/track/60JKKoraJuLxjA0eKKPffp) | [Neimo](https://open.spotify.com/artist/7kVt9OkrP0ow91rfCznrTm) | [Héritage](https://open.spotify.com/album/5PZa10Sd89gIJq7eDQPqQP) | 2:46 | 2022-03-11 | 2022-03-18 |
 | [Hérésie \(Chanson inedite\)](https://open.spotify.com/track/0D0M01DPzexk8LeM8YJIUE) | [Stefie Shock](https://open.spotify.com/artist/1gymZXDnThXSo91g6uT5h8) | [Le décor \(Édition Limitée 20e Anniversaire\)](https://open.spotify.com/album/1bsip4q3j32HhjgLblNppT) | 4:15 | 2023-02-17 | 2023-03-04 |
@@ -1248,7 +1249,7 @@
 | [Passe\-moé un Québec](https://open.spotify.com/track/0hYGhxW6ZuCV1ZIEBaPkIP) | [Barry Paquin Roberge](https://open.spotify.com/artist/2C7WoEy5Fq9vcUt5AOthxn) | [Passe\-moé un Québec](https://open.spotify.com/album/2WkevwcFG8LUvGGlNc4Ztf) | 3:10 | 2022-06-24 | 2022-07-09 |
 | [Patience](https://open.spotify.com/track/0zrcUn1dW3oxjqwCJdMa0L) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI), [Damlif](https://open.spotify.com/artist/0mPfVYJyS10AuDGrS3ira2) | [Patience](https://open.spotify.com/album/3T7wTfrdZEo6FEPcnYB08j) | 3:39 | 2023-03-03 | 2023-03-18 |
 | [Patrick](https://open.spotify.com/track/2Ctw7IQAiEZGee4t83h6zk) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq La Suite](https://open.spotify.com/album/1O6LqsYQ8uIdo3utTawVCl) | 2:53 | 2022-11-18 | 2022-12-10 |
-| [Pauline à la ferme](https://open.spotify.com/track/4toSZdP0xjSUiilPk93dsP) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [Pauline à la ferme](https://open.spotify.com/album/2oZWLCRMIaGP6DlA9iXCVr) | 3:39 | 2023-04-07 |  |
+| [Pauline à la ferme](https://open.spotify.com/track/4toSZdP0xjSUiilPk93dsP) | [Philippe B](https://open.spotify.com/artist/7FvBLeBeCiWR09phkPyyrf) | [Pauline à la ferme](https://open.spotify.com/album/2oZWLCRMIaGP6DlA9iXCVr) | 3:39 | 2023-04-07 | 2023-04-20 |
 | [Pays des merveilles](https://open.spotify.com/track/22njDKdHltO0wuli4lcb94) | [MORDiCUS](https://open.spotify.com/artist/46zoLDd3UP6iO6R7gKz6DO) | [Pays des merveilles](https://open.spotify.com/album/4aMPkWZNmjI0zJDuFS9GRA) | 3:53 | 2022-06-03 | 2022-06-11 |
 | [Paysage \(Radio Edit\)](https://open.spotify.com/track/2v3VGhnuEOZMzTzNAOtjgT) | [Joseph Boonen](https://open.spotify.com/artist/75yQ1VHbMDt2zo4HAuO4GG) | [Paysage \(Radio Edit\)](https://open.spotify.com/album/5wRtJMmrkolt7LJS2T7VTT) | 2:42 | 2023-01-27 | 2023-02-11 |
 | [Peine de mort](https://open.spotify.com/track/2g0osIjutJLlV9BjTvFJXF) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU) | [Peine de mort](https://open.spotify.com/album/7LVUAZKwM11POQT7LkjGTj) | 3:28 | 2022-05-27 | 2022-06-11 |

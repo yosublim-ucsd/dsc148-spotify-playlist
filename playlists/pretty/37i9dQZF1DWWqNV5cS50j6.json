@@ -1,13 +1,29 @@
 {
   "description": "maxime. makes anti pop",
-  "num_followers": 695916,
+  "num_followers": 695963,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTc1OTA0MiwwMDAwMDAwMGU0ZWY3YmU0MjA0YjY0YmJmN2VhNjkzMGIyOWVlODdj",
+  "snapshot_id": "MTY4MTkyOTYzNiwwMDAwMDAwMDgyZWE5ODg5MWQ0ZDNjMTFiYTNmMTdiMDdiZTE0OWNm",
   "tracks": [
+    {
+      "added_at": "2023-04-19 18:40:36",
+      "album": {
+        "name": "Since September",
+        "url": "https://open.spotify.com/album/6lvciV8L3fuHDz2bxPrbHg"
+      },
+      "artists": [
+        {
+          "name": "Walter The Producer",
+          "url": "https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ"
+        }
+      ],
+      "duration_ms": 182307,
+      "name": "Since September",
+      "url": "https://open.spotify.com/track/1bB04geBJPO5dLx51CWj5V"
+    },
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
@@ -173,6 +189,26 @@
       "url": "https://open.spotify.com/track/3aLkvyXeUUq4JAAOTcpoPr"
     },
     {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Be Somebody",
+        "url": "https://open.spotify.com/album/5VWx4yKzDD4daztd1gn9D8"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 141780,
+      "name": "Be Somebody",
+      "url": "https://open.spotify.com/track/1zN4tWrJ4oGSSCichizR6D"
+    },
+    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "SPEED RUN",
@@ -251,26 +287,6 @@
       "duration_ms": 130280,
       "name": "4 LEAF CLOVER (featuring YGTUT)",
       "url": "https://open.spotify.com/track/7ascXt2NiH6FByjAeekHMp"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Be Somebody",
-        "url": "https://open.spotify.com/album/5VWx4yKzDD4daztd1gn9D8"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        },
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 141780,
-      "name": "Be Somebody",
-      "url": "https://open.spotify.com/track/1zN4tWrJ4oGSSCichizR6D"
     },
     {
       "added_at": "2023-03-17 04:00:00",

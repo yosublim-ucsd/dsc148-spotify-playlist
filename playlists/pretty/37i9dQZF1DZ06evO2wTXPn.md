@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 
 > This is KURT\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,148 likes - 43 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,158 likes - 43 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 8 | [No Te Olvido](https://open.spotify.com/track/7HqIAVm70XTRuy61urYpLT) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [No Te Olvido](https://open.spotify.com/album/1veQ29kfzujZr8HSu7BuRX) | 3:05 |
 | 9 | [Vengo Del Futuro](https://open.spotify.com/track/4mvtqRJpySaswY75a9WfVm) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 4:16 |
 | 10 | [Encima De Mil](https://open.spotify.com/track/74wY2RFSQJlz7yznnDWDsj) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Despierto](https://open.spotify.com/album/5zjSZUekfzF97XyDUbWW1T) | 3:09 |
-| 11 | [Con Las Ganas](https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Con Las Ganas](https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9) | 4:01 |
-| 12 | [Contigo](https://open.spotify.com/track/0QvIVwQqVzEkZbo6cO5LES) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:47 |
+| 11 | [Contigo](https://open.spotify.com/track/0QvIVwQqVzEkZbo6cO5LES) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:47 |
+| 12 | [Con Las Ganas](https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Con Las Ganas](https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9) | 4:01 |
 | 13 | [Se Fuerte Corazón](https://open.spotify.com/track/6d9NFWpK97HEqAnE5tsnZw) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 4:12 |
-| 14 | [Luna y Marea \(feat\. KURT\)](https://open.spotify.com/track/5Z2gkSJIibMCdbE7TWceE6) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Luna y Marea \(feat\. KURT\)](https://open.spotify.com/album/3lekI28ahWodrOaaRgmmae) | 3:48 |
-| 15 | [50 Meses Tarde \(Ptm\)](https://open.spotify.com/track/4Op6B7yG5b12Bh9UH1PYJE) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [50 Meses Tarde \(Ptm\)](https://open.spotify.com/album/3paLg9Sbgy1gPf0TjAsAkf) | 3:34 |
+| 14 | [50 Meses Tarde \(Ptm\)](https://open.spotify.com/track/4Op6B7yG5b12Bh9UH1PYJE) | [Ale Zéguer](https://open.spotify.com/artist/1jIeEiC6KkryFux23ekWmQ), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [50 Meses Tarde \(Ptm\)](https://open.spotify.com/album/3paLg9Sbgy1gPf0TjAsAkf) | 3:34 |
+| 15 | [Luna y Marea \(feat\. KURT\)](https://open.spotify.com/track/5Z2gkSJIibMCdbE7TWceE6) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Luna y Marea \(feat\. KURT\)](https://open.spotify.com/album/3lekI28ahWodrOaaRgmmae) | 3:48 |
 | 16 | [Roto](https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Roto](https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf) | 2:45 |
 | 17 | [16](https://open.spotify.com/track/55ftDFrREvV7yzdsoe55Hl) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [En Medio De Este Ruido \(Deluxe\)](https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB) | 3:55 |
 | 18 | [Un Millón Como Tú \- Versión Acústica](https://open.spotify.com/track/1oZ2hDOn8rJFQdFKQ9HXTu) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Un Millón Como Tú \(Versión Acústica\)](https://open.spotify.com/album/6ry4Fp9pZ6hWf5opR2Vj74) | 4:39 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 25 | [10 Veces Mejor](https://open.spotify.com/track/6NjfQuRydh6ckU1Xlf336w) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:22 |
 | 26 | [Amanecí Nublado](https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:54 |
 | 27 | [Atin Ang Gabi](https://open.spotify.com/track/17RgTZudEsdSX1Ngm5h7W8) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Atin Ang Gabi](https://open.spotify.com/album/5nVmxNBrhSyhVVdgPTzYYk) | 3:27 |
-| 28 | [Leyenda](https://open.spotify.com/track/579JzwW1xZKakL7FwFH79r) | [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Leyenda](https://open.spotify.com/album/4Y29vgiupwmAA5uy7xQLBm) | 4:12 |
-| 29 | [Señal](https://open.spotify.com/track/4kYMirYX6XMi850Ecp44Io) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Señal](https://open.spotify.com/album/3wJjZt16p9NP1Y9TXUmHOc) | 4:05 |
+| 28 | [Señal](https://open.spotify.com/track/4kYMirYX6XMi850Ecp44Io) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Señal](https://open.spotify.com/album/3wJjZt16p9NP1Y9TXUmHOc) | 4:05 |
+| 29 | [Leyenda](https://open.spotify.com/track/579JzwW1xZKakL7FwFH79r) | [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Leyenda](https://open.spotify.com/album/4Y29vgiupwmAA5uy7xQLBm) | 4:12 |
 | 30 | [Sobreviviendo](https://open.spotify.com/track/3dOQwWB2ootaunCEIFxLZ3) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 3:16 |
 | 31 | [Byahe](https://open.spotify.com/track/3Fq5zE2NdCoGDtU2QuP8WD) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Byahe](https://open.spotify.com/album/2qznBvIgV9bF6zTIlLkEmO) | 3:17 |
 | 32 | [Te Regalo](https://open.spotify.com/track/4UjEKy8PegjhpL3BC4iuL6) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Te Regalo](https://open.spotify.com/album/2rEFizrsUbYkh5TN1gxfhi) | 2:37 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 42 | [Lolis](https://open.spotify.com/track/03qqmwlMWMa6yQP84Z4fmB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:36 |
 | 43 | [Visionz of Mine](https://open.spotify.com/track/4q9IXqEDky5QzmyKedPg8q) | [Remnant](https://open.spotify.com/artist/0cjUe5MBVQessZ3oTzsXdv), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Surviving the Game](https://open.spotify.com/album/3czXhfXFfJa3I811Rh6bhM) | 4:21 |
 
-Snapshot ID: `MjgwMzAzOTAsMDAwMDAwMDA0OWU4ZWI3MDY3MDFjMTJjOGEzOTdkZDQzMzA5NzYxNA==`
+Snapshot ID: `MjgwMzE3ODMsMDAwMDAwMDA5NDYyOTViNTMyZmYxZmJhY2QyMzE2YTdjOGZkMWI2NA==`

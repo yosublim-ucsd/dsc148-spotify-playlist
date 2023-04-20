@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 
 > The best feel\-good songs of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,118 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,452 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 16 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 |
 | 17 | [You Can Call Me Al](https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Graceland \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky) | 4:40 |
 | 18 | [We Built This City](https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:56 |
-| 19 | [The Power Of Love](https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:54 |
-| 20 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 |
+| 19 | [Flashdance...What a Feeling \- Radio Edit](https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What a Feelin'](https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS) | 3:57 |
+| 20 | [The Power Of Love](https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB) | [Huey Lewis & The News](https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6) | [Greatest Hits: Huey Lewis And The News](https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj) | 3:54 |
 | 21 | [Karma Chameleon \- Remastered 2002](https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Colour By Numbers](https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY) | 4:12 |
 | 22 | [Every Little Thing She Does Is Magic](https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Ghost In The Machine \(Remastered 2003\)](https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h) | 4:20 |
 | 23 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 |
@@ -82,11 +82,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 72 | [Straight Up](https://open.spotify.com/track/5xl5582IihbEZAnfj0xyso) | [Paula Abdul](https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j) | [Forever Your Girl](https://open.spotify.com/album/7zduRJgS6v79QmNUhKGozu) | 4:11 |
 | 73 | [Waiting for a Star to Fall](https://open.spotify.com/track/09huOVRryZNV2deKFZLJDC) | [Boy Meets Girl](https://open.spotify.com/artist/02Xpf8IlAGeelWAQZP33kQ) | [Reel Life \(Expanded Edition\)](https://open.spotify.com/album/239pbWGvEVRkGAmeiZYwtp) | 4:30 |
 | 74 | [We Don't Have To Take Our Clothes Off](https://open.spotify.com/track/7o9KG7iQY8KACz7PZXYpyv) | [Jermaine Stewart](https://open.spotify.com/artist/7FAkzV0YOw0EIXFhmY4RE3) | [Frantic Romantic](https://open.spotify.com/album/3OCmVGmewrfW3eZmLhRAIX) | 4:53 |
-| 75 | [The Loco\-Motion](https://open.spotify.com/track/2pX5qSgxQFwlrkjxph8fxb) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie](https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE) | 3:13 |
-| 76 | [Tarzan Boy](https://open.spotify.com/track/6FwMGM0Dtmf0vz6BdIc8uP) | [Baltimora](https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG) | [Tarzan Boy: The World Of Baltimora](https://open.spotify.com/album/3z0bIoLOQwn7CYOz0vUePj) | 3:50 |
+| 75 | [Tarzan Boy](https://open.spotify.com/track/6FwMGM0Dtmf0vz6BdIc8uP) | [Baltimora](https://open.spotify.com/artist/6czfQ8MjHVmvJKA4LAnviG) | [Tarzan Boy: The World Of Baltimora](https://open.spotify.com/album/3z0bIoLOQwn7CYOz0vUePj) | 3:50 |
+| 76 | [The Loco\-Motion](https://open.spotify.com/track/2pX5qSgxQFwlrkjxph8fxb) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie](https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE) | 3:13 |
 | 77 | [Invisible Touch \- 2007 Remaster](https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG) | 3:28 |
-| 78 | [Loco in Acapulco](https://open.spotify.com/track/7gfAYm7X5HMSuKcO4dy8Wi) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Indestructible](https://open.spotify.com/album/1pbPkhuest1I4RGpz3rWmC) | 4:34 |
-| 79 | [Faith \- Remastered](https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6) | 3:13 |
+| 78 | [Faith \- Remastered](https://open.spotify.com/track/0nd1Vs5BIoIU4TJlzR8KVB) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/5E68z4OgQrR446xVOxZKs6) | 3:13 |
+| 79 | [Loco in Acapulco](https://open.spotify.com/track/7gfAYm7X5HMSuKcO4dy8Wi) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Indestructible](https://open.spotify.com/album/1pbPkhuest1I4RGpz3rWmC) | 4:34 |
 | 80 | [I'm Your Man](https://open.spotify.com/track/2gG7E5OZi5D5QLRIctv63z) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [The Final](https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd) | 4:03 |
 | 81 | [Tell Her About It](https://open.spotify.com/track/6kCJMxv445L2okuTiou1fR) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [An Innocent Man](https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc) | 3:49 |
 | 82 | [The Safety Dance](https://open.spotify.com/track/4t5lrf5rFX6JWAUPKCDlKk) | [Men Without Hats](https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq) | [Rock Of The 80's](https://open.spotify.com/album/2avyCubWluhpGqAbYYbmph) | 2:45 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAcBZSAVhlf.md) - [plain]
 | 91 | [Walk Like an Egyptian](https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Different Light \(Expanded Edition\)](https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN) | 3:23 |
 | 92 | [The Only Way Is Up](https://open.spotify.com/track/5nlwajOutaUfiSayarrZTy) | [Yazz](https://open.spotify.com/artist/5ApKaVHAStk5kAuyBW1wG8) | [Wanted](https://open.spotify.com/album/59RWOTMG259wspCYTvmW9x) | 4:28 |
 | 93 | [You Can Leave Your Hat On](https://open.spotify.com/track/1x9iOd3K1JC6tdjGZJpFgZ) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Cocker](https://open.spotify.com/album/0YnLeYOGgy0vtxQRbgW7s1) | 4:15 |
-| 94 | [You Drive Me Crazy](https://open.spotify.com/track/2j8bXaOBeEeyoY4ZpCcFIW) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Shaky](https://open.spotify.com/album/05rSaDParyh27b5eomSA8P) | 2:51 |
+| 94 | [The Look](https://open.spotify.com/track/79LdvxXi5JYUjhnO7v9Fi3) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 3:57 |
 | 95 | [Hot In The City](https://open.spotify.com/track/5LeDMHIZ5YDZ2b1VOcYVcG) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Billy Idol](https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k) | 3:39 |
-| 96 | [The Look](https://open.spotify.com/track/79LdvxXi5JYUjhnO7v9Fi3) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp!](https://open.spotify.com/album/487Xg1a57O6pDfkyYcbuFx) | 3:57 |
+| 96 | [You Drive Me Crazy](https://open.spotify.com/track/2j8bXaOBeEeyoY4ZpCcFIW) | [Shakin' Stevens](https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib) | [Shaky](https://open.spotify.com/album/05rSaDParyh27b5eomSA8P) | 2:51 |
 | 97 | [Break My Stride](https://open.spotify.com/track/2ZqT3GcisHUBsEaqhLGHwU) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | ['80s Pop Hits](https://open.spotify.com/album/7xY34kpisIxOv8WMnNN8wg) | 3:00 |
 | 98 | [Morning Train \(Nine to Five\) \- Edit](https://open.spotify.com/track/1qvDt6W8oaTO9Q4pFNMFEm) | [Sheena Easton](https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s) | [Take My Time](https://open.spotify.com/album/7bNpYL4bvBMLRyafghBrCs) | 3:20 |
 | 99 | [You Came \- Single Version](https://open.spotify.com/track/2mXvx5UORysNIFVnsuo3kc) | [Kim Wilde](https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo) | [Close \(Expanded Edition\)](https://open.spotify.com/album/6LddMxTnUpoZNUZxtMryJh) | 3:28 |
 | 100 | [Always on My Mind \- 2003 Remaster](https://open.spotify.com/track/2SWn864dJI5RNyrp3F4Kp1) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [PopArt: The Hits](https://open.spotify.com/album/4wcFyCDvWuIAIIfemgtNUv) | 3:57 |
 
-Snapshot ID: `MTY3NzU2NDUxMSwwMDAwMDAwMDcyN2ZkYzYxYTU1ZThmMmMzODQ0YmE4NzdlYmJkOWE3`
+Snapshot ID: `MTY3NzU2NDUxMSwwMDAwMDAwMDBiOThkMTc4MTQ5YTg1MTZiMjM0MTAyZWQ1MTZmY2Ey`

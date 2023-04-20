@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 
 > いろいろあるかも知れないけれど、ちょっと休憩しませんか？チルな楽曲でゆったりまったりなひと時を。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,990 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,002 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 6 | [Lonely](https://open.spotify.com/track/2MSwfMAGN4Tyzg1X6c36YD) | [Asilo](https://open.spotify.com/artist/72lfhTlPxWHRqGnIdr9Jxh) | [Lonely](https://open.spotify.com/album/3qLazZODKoDnE32BF8PvVG) | 3:48 |
 | 7 | [春泥棒](https://open.spotify.com/track/7wTJ0tQcpxBIr9mU9q86nF) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [創作](https://open.spotify.com/album/3BnM7AuvYkREVqNTPIxTRH) | 4:50 |
 | 8 | [Love \(feat\. Skaai\)](https://open.spotify.com/track/33WmukupZpPsnobClDyZzs) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Love \(feat\. Skaai\)](https://open.spotify.com/album/3CTierTEtJQyHX3s6XlEUd) | 4:18 |
-| 9 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
+| 9 | [HENTAI](https://open.spotify.com/track/4kroNlz8BTfswE4M0i3YCh) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:42 |
 | 10 | [Hurt](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:57 |
-| 11 | [HENTAI](https://open.spotify.com/track/4kroNlz8BTfswE4M0i3YCh) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:42 |
+| 11 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
 | 12 | [Wear Dark Blue](https://open.spotify.com/track/6YJUZolcyToJXDJ7ypwoOD) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [Wear Dark Blue](https://open.spotify.com/album/6RtPIk1oeH22Q89C0Zl1Ed) | 3:45 |
 | 13 | [Like No One's Done](https://open.spotify.com/track/1r58xvfAQ4XOZFxazKGn6J) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Like No One's Done](https://open.spotify.com/album/00tVzuX53IxaZ2tk6dGvpZ) | 3:55 |
 | 14 | [アイラブユー](https://open.spotify.com/track/4gbHag1jhjLTDcrbfpFnYQ) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [アイラブユー](https://open.spotify.com/album/6gnt7LdFIjqUsIszpOVIrX) | 3:55 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9rVeQ0kNLOd.md) - [plain]
 | 40 | [Conflict](https://open.spotify.com/track/6riC3JbelswTdXrOyuREzM) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Conflict](https://open.spotify.com/album/2nQEY7KQXip32OrIyOGJc4) | 2:47 |
 | 41 | [The Flame of Love](https://open.spotify.com/track/2oev55FkAarRLdWfxIn3jw) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [The Flame of Love](https://open.spotify.com/album/3JsRRbjskRuX0R91h5baYz) | 3:19 |
 | 42 | [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 |
-| 43 | [snow jam](https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [swipe sheep](https://open.spotify.com/album/3jtrdWKt4Uo5iUU6VCc0do) | 3:05 |
-| 44 | [溜め息](https://open.spotify.com/track/4PKIhZHuWGlELcxyvV8Oxb) | [HENTAI SHINSHI CLUB](https://open.spotify.com/artist/4vN78fN1iEh83Pgaesw2jU) | [舌打](https://open.spotify.com/album/5SxgjWfTuZEd3eqscDMU1v) | 2:57 |
-| 45 | [泣きたい夜](https://open.spotify.com/track/6LjHLHz1boefkLI41mfc5R) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [泣きたい夜](https://open.spotify.com/album/7qBDJmSURz5gb8EhJ3bBD0) | 3:20 |
-| 46 | [花曇り](https://open.spotify.com/track/6v18W0JUT46W2FEAGUoB3k) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [花曇り](https://open.spotify.com/album/1fhcD4mJEnE8JmIzV9hidw) | 4:02 |
-| 47 | [逃避行](https://open.spotify.com/track/0iotyDF6RF5klVLztERO5Z) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [逃避行](https://open.spotify.com/album/2YOs6ODpXdiokR9TACIm6R) | 3:11 |
-| 48 | [紙一重](https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [紙一重](https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN) | 4:09 |
+| 43 | [紙一重](https://open.spotify.com/track/4WqWAyxI9uf6CVxUBwglrb) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [紙一重](https://open.spotify.com/album/6aGEvo2LvTdDOwKxPtpdqN) | 4:09 |
+| 44 | [花曇り](https://open.spotify.com/track/6v18W0JUT46W2FEAGUoB3k) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [花曇り](https://open.spotify.com/album/1fhcD4mJEnE8JmIzV9hidw) | 4:02 |
+| 45 | [snow jam](https://open.spotify.com/track/6uUtmCz8XXep7n1QmC1jJG) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4) | [swipe sheep](https://open.spotify.com/album/3jtrdWKt4Uo5iUU6VCc0do) | 3:05 |
+| 46 | [溜め息](https://open.spotify.com/track/4PKIhZHuWGlELcxyvV8Oxb) | [HENTAI SHINSHI CLUB](https://open.spotify.com/artist/4vN78fN1iEh83Pgaesw2jU) | [舌打](https://open.spotify.com/album/5SxgjWfTuZEd3eqscDMU1v) | 2:57 |
+| 47 | [泣きたい夜](https://open.spotify.com/track/6LjHLHz1boefkLI41mfc5R) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [泣きたい夜](https://open.spotify.com/album/7qBDJmSURz5gb8EhJ3bBD0) | 3:20 |
+| 48 | [逃避行](https://open.spotify.com/track/0iotyDF6RF5klVLztERO5Z) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [逃避行](https://open.spotify.com/album/2YOs6ODpXdiokR9TACIm6R) | 3:11 |
 | 49 | [BUDDY feat\. PUNPEE](https://open.spotify.com/track/6bMSF3fC1jVEhJr5h0riXq) | [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [The Beam](https://open.spotify.com/album/0NT8BKRHuR95nYb8M0Z3Gh) | 3:36 |
 | 50 | [ブラウニー](https://open.spotify.com/track/2R6xQVJCCk1u8rPrxD5SmC) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [ブラウニー](https://open.spotify.com/album/5lDjj72VfeaRqvKJ3UYZGG) | 3:30 |
 
-Snapshot ID: `MTY4MTgzMDAwMCwwMDAwMDAwMDVkNjc0OTNhZGI5NGVhNzBmZGE4ZTUwZmQwNjUwNjYz`
+Snapshot ID: `MTY4MTgzMDAwMCwwMDAwMDAwMGZiYTQ3MTg5N2IwOTVkYWE4NGJhOWEzZGI2YWQ3MGQy`

@@ -4,7 +4,7 @@
 
 > This is Eslabon Armado\. The essential tracks, all in one playlist.
 
-40 songs - 2 hr 27 min
+41 songs - 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/4cNOvC1mAjWEABZTxx2psa) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Corta Venas](https://open.spotify.com/album/7C8Wi2KmO6MqPYZqNuhZ1W) | 6:38 | 2022-06-01 |  |
 | [MODO DEPRE :\(](https://open.spotify.com/track/2U27fF38cgWIPsfoMDuYQD) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:19 | 2022-06-01 | 2022-10-13 |
 | [Mía Un Año](https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mía Un Año](https://open.spotify.com/album/2wBBAPcIsgXx9fsXygNmVT) | 2:54 | 2022-10-12 | 2023-02-16 |
+| [Nada Me Va Mal](https://open.spotify.com/track/1C0OMWgbKnJza9HEyC7s8g) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Navegando y Flotando](https://open.spotify.com/album/5nlr24zHTeIXfuBci42L1Q) | 2:42 | 2023-04-19 |  |
 | [No Dudes de Ti](https://open.spotify.com/track/6q1rr8W0TudmxomRdHxUWP) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:09 | 2022-06-01 |  |
 | [Pa Que Te Duela](https://open.spotify.com/track/4XkSLgoFq8SGNR4XSFXfyc) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:53 | 2022-06-01 |  |
 | [QUE DIABLOS HICE \(INTERLUDE\)](https://open.spotify.com/track/7qHPpmIEa0YRnMf1d0XoWj) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 1:47 | 2022-06-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 179807,
+  "num_followers": 180052,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk2NTUxNCwwMDAwMDAwMDBhYWEzMTkyMDViNTRjMGNkZWJjNTA0OTkyYzc3MDMz",
+  "snapshot_id": "MTY2OTk2NTUxNCwwMDAwMDAwMDEyOTYwYmQyZGFjMTZlYjQxZGJiM2JjYjdiMjY0MmE0",
   "tracks": [
     {
       "added_at": "2022-06-16 22:02:00",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+        "name": "All Summer Long (Mono & Stereo)",
+        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
       },
       "artists": [
         {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
         }
       ],
-      "duration_ms": 158040,
-      "name": "Baby Love",
-      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
+      "duration_ms": 134386,
+      "name": "I Get Around (Mono)",
+      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -591,18 +591,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "All Summer Long (Mono & Stereo)",
-        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
       },
       "artists": [
         {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
         }
       ],
-      "duration_ms": 134386,
-      "name": "I Get Around (Mono)",
-      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
+      "duration_ms": 158040,
+      "name": "Baby Love",
+      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Where Did Our Love Go",
-      "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Best of The Kingsmen",
         "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Down the Road Apiece - the Recordings 1963-1966",
-        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
       },
       "artists": [
         {
-          "name": "Manfred Mann",
-          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
         }
       ],
-      "duration_ms": 144146,
-      "name": "Do Wah Diddy Diddy - 2007 Remaster",
-      "url": "https://open.spotify.com/track/48ZjHLkaHpXIlGGYUlb3bZ"
+      "duration_ms": 153333,
+      "name": "Where Did Our Love Go",
+      "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -747,6 +731,22 @@
       "duration_ms": 169746,
       "name": "Something's Got A Hold On Me",
       "url": "https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Down the Road Apiece - the Recordings 1963-1966",
+        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+        }
+      ],
+      "duration_ms": 144146,
+      "name": "Do Wah Diddy Diddy - 2007 Remaster",
+      "url": "https://open.spotify.com/track/48ZjHLkaHpXIlGGYUlb3bZ"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 128199,
-      "name": "One Fine Day",
-      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "More Hits By The Supremes",
         "url": "https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 172906,
       "name": "Stop! In The Name Of Love",
       "url": "https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 128199,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Seekers",
-        "url": "https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4"
-      },
-      "artists": [
-        {
-          "name": "The Seekers",
-          "url": "https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV"
-        }
-      ],
-      "duration_ms": 140440,
-      "name": "Georgy Girl",
-      "url": "https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "New Gold Hits",
         "url": "https://open.spotify.com/album/4YOXmT7qlIjaDC3muRuEHY"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 170626,
       "name": "Beggin'",
       "url": "https://open.spotify.com/track/2S6XOQqWqUBIySUU00vMru"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Seekers",
+        "url": "https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4"
+      },
+      "artists": [
+        {
+          "name": "The Seekers",
+          "url": "https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV"
+        }
+      ],
+      "duration_ms": 140440,
+      "name": "Georgy Girl",
+      "url": "https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Two Of Us",
-        "url": "https://open.spotify.com/album/5BiQSxjnQuQgTb0FCOQPJe"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        },
-        {
-          "name": "Brook Benton",
-          "url": "https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh"
-        }
-      ],
-      "duration_ms": 165760,
-      "name": "Baby, You\u2019ve Got What It Takes",
-      "url": "https://open.spotify.com/track/0DICNd5XQ1og9UeYzxoNFV"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "My Kind Of Broadway",
         "url": "https://open.spotify.com/album/4pA0MHfxB10F9Q8HhoItIh"
       },
@@ -1367,6 +1347,26 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "The Two Of Us",
+        "url": "https://open.spotify.com/album/5BiQSxjnQuQgTb0FCOQPJe"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        },
+        {
+          "name": "Brook Benton",
+          "url": "https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "Baby, You\u2019ve Got What It Takes",
+      "url": "https://open.spotify.com/track/0DICNd5XQ1og9UeYzxoNFV"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "The Capitol Years",
         "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
       },
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Hot Rocks (1964-1971)",
-        "url": "https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 222746,
-      "name": "(I Can't Get No) Satisfaction - Mono Version",
-      "url": "https://open.spotify.com/track/5FKkbyGm42hw1y08l2knlO"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Star Time",
         "url": "https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 128173,
       "name": "Papa's Got A Brand New Bag",
       "url": "https://open.spotify.com/track/00pGV4EInVd77cnOIwPTCv"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Hot Rocks (1964-1971)",
+        "url": "https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 222746,
+      "name": "(I Can't Get No) Satisfaction - Mono Version",
+      "url": "https://open.spotify.com/track/5FKkbyGm42hw1y08l2knlO"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Tina!",
-        "url": "https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6J4iMx3rWJ0lFmSPdI14Io"
       },
       "artists": [
         {
-          "name": "Ike & Tina Turner",
-          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
+          "name": "Gary Puckett & The Union Gap",
+          "url": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
         }
       ],
-      "duration_ms": 244160,
-      "name": "River Deep - Mountain High",
-      "url": "https://open.spotify.com/track/19jo0UT2vqD4pNVfIqTy4R"
+      "duration_ms": 191266,
+      "name": "Young Girl",
+      "url": "https://open.spotify.com/track/28E3Hw3po6GAA83aB9vHSz"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Tina!",
+        "url": "https://open.spotify.com/album/6FkWiSUX7YAdxOlHPrIzMj"
+      },
+      "artists": [
+        {
+          "name": "Ike & Tina Turner",
+          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
+        }
+      ],
+      "duration_ms": 244160,
+      "name": "River Deep - Mountain High",
+      "url": "https://open.spotify.com/track/19jo0UT2vqD4pNVfIqTy4R"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "My Boy Lollipop: The Best Of Millie Small",
         "url": "https://open.spotify.com/album/18Qjvcq1V56GELsTi4fIdS"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 120466,
       "name": "My Boy Lollipop",
       "url": "https://open.spotify.com/track/5IM6psLoDLytszopZz9ZOm"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6J4iMx3rWJ0lFmSPdI14Io"
-      },
-      "artists": [
-        {
-          "name": "Gary Puckett & The Union Gap",
-          "url": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
-        }
-      ],
-      "duration_ms": 191266,
-      "name": "Young Girl",
-      "url": "https://open.spotify.com/track/28E3Hw3po6GAA83aB9vHSz"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Pat Boone's Greatest Hits (Reissue)",
-        "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
-      },
-      "artists": [
-        {
-          "name": "Pat Boone",
-          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
-        }
-      ],
-      "duration_ms": 153093,
-      "name": "Speedy Gonzales",
-      "url": "https://open.spotify.com/track/3TmnUIbelFiDzrhZqavHU0"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Tell Him",
         "url": "https://open.spotify.com/album/1i2c4K7HnASzLOo6cagJVg"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 156160,
       "name": "Tell Him - Single Version",
       "url": "https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Pat Boone's Greatest Hits (Reissue)",
+        "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "duration_ms": 153093,
+      "name": "Speedy Gonzales",
+      "url": "https://open.spotify.com/track/3TmnUIbelFiDzrhZqavHU0"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Things & Other Things",
-        "url": "https://open.spotify.com/album/7wyMqH6vUeHYT09iaWhtx3"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 151413,
-      "name": "Things",
-      "url": "https://open.spotify.com/track/5hgei65n0pGJ9uUHo8v2en"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Johnny Tillotson's Best",
         "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 154466,
       "name": "Poetry In Motion - 1960 #2 Billboard chart hit",
       "url": "https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Things & Other Things",
+        "url": "https://open.spotify.com/album/7wyMqH6vUeHYT09iaWhtx3"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 151413,
+      "name": "Things",
+      "url": "https://open.spotify.com/track/5hgei65n0pGJ9uUHo8v2en"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7wNWm9v6ZapW2K2yx4HFzz"
-      },
-      "artists": [
-        {
-          "name": "Trini Lopez",
-          "url": "https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "If I Had a Hammer",
-      "url": "https://open.spotify.com/track/4JMl6POnS2IPBpVVwDl06P"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Circulate (Expanded Edition)",
         "url": "https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 157026,
       "name": "Happy Birthday, Sweet Sixteen",
       "url": "https://open.spotify.com/track/5ttys6S3vGWCgOpiuB5axN"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7wNWm9v6ZapW2K2yx4HFzz"
+      },
+      "artists": [
+        {
+          "name": "Trini Lopez",
+          "url": "https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "If I Had a Hammer",
+      "url": "https://open.spotify.com/track/4JMl6POnS2IPBpVVwDl06P"
     },
     {
       "added_at": "2022-06-16 22:02:00",

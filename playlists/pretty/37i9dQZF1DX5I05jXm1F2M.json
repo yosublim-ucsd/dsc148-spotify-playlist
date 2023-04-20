@@ -1,12 +1,12 @@
 {
   "description": "Take that last call karaoke to go.",
-  "num_followers": 96345,
+  "num_followers": 96498,
   "original_name": "Pub Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDEwMTI2NCwwMDAwMDAwMDFiZjk5NmUwOTNiMDE3Y2M5Y2VlNzQ0Nzc5ZGYzN2Iw",
+  "snapshot_id": "MTY4MDEwMTI2NCwwMDAwMDAwMGI1NTY4YjE4MDUxZDU2ZjE3M2U3NTQ0MDRmMDNlOTM5",
   "tracks": [
     {
       "added_at": "2021-12-21 14:52:58",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-12-21 14:52:58",
       "album": {
-        "name": "Departure",
-        "url": "https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 201693,
-      "name": "Any Way You Want It",
-      "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"
-    },
-    {
-      "added_at": "2021-12-21 14:52:58",
-      "album": {
         "name": "Crimes Of Passion",
         "url": "https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ"
       },
@@ -891,18 +875,18 @@
     {
       "added_at": "2021-12-21 14:52:58",
       "album": {
-        "name": "Get The Knack",
-        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
+        "name": "Departure",
+        "url": "https://open.spotify.com/album/2OyVtIEp7O7a6o82DF4Ba5"
       },
       "artists": [
         {
-          "name": "The Knack",
-          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 295400,
-      "name": "My Sharona",
-      "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
+      "duration_ms": 201693,
+      "name": "Any Way You Want It",
+      "url": "https://open.spotify.com/track/71SvEDmsOwIWw1IozsZoMA"
     },
     {
       "added_at": "2021-12-21 14:52:58",
@@ -919,6 +903,22 @@
       "duration_ms": 225626,
       "name": "Just What I Needed",
       "url": "https://open.spotify.com/track/4alHo6RGd0D3OUbTPExTHN"
+    },
+    {
+      "added_at": "2021-12-21 14:52:58",
+      "album": {
+        "name": "Get The Knack",
+        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
+      },
+      "artists": [
+        {
+          "name": "The Knack",
+          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
+        }
+      ],
+      "duration_ms": 295400,
+      "name": "My Sharona",
+      "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
     },
     {
       "added_at": "2021-12-21 14:52:58",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2021-12-21 14:52:58",
       "album": {
-        "name": "Cracked Rear View",
-        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 229586,
-      "name": "Only Wanna Be with You",
-      "url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
-    },
-    {
-      "added_at": "2021-12-21 14:52:58",
-      "album": {
         "name": "The Doors",
         "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 429760,
       "name": "Light My Fire",
       "url": "https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R"
+    },
+    {
+      "added_at": "2021-12-21 14:52:58",
+      "album": {
+        "name": "Cracked Rear View",
+        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 229586,
+      "name": "Only Wanna Be with You",
+      "url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
     },
     {
       "added_at": "2021-12-21 14:52:58",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2021-12-21 14:52:58",
       "album": {
-        "name": "Cruisin'",
-        "url": "https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG"
+        "name": "Highly Evolved",
+        "url": "https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG"
       },
       "artists": [
         {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+          "name": "The Vines",
+          "url": "https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD"
         }
       ],
-      "duration_ms": 286666,
-      "name": "Y.M.C.A.",
-      "url": "https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV"
+      "duration_ms": 126573,
+      "name": "Get Free",
+      "url": "https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx"
     },
     {
       "added_at": "2021-12-21 14:52:58",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2021-12-21 14:52:58",
       "album": {
-        "name": "Highly Evolved",
-        "url": "https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG"
+        "name": "Cruisin'",
+        "url": "https://open.spotify.com/album/3kdp1PnxkKlshMP3qG2CUG"
       },
       "artists": [
         {
-          "name": "The Vines",
-          "url": "https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD"
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
         }
       ],
-      "duration_ms": 126573,
-      "name": "Get Free",
-      "url": "https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx"
+      "duration_ms": 286666,
+      "name": "Y.M.C.A.",
+      "url": "https://open.spotify.com/track/4YOJFyjqh8eAcbKFfv88mV"
     },
     {
       "added_at": "2021-12-21 14:52:58",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-389 songs - 23 hr 31 min
+390 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Alcohol\-Free](https://open.spotify.com/track/3iPbmpKBMflYd7UjdYftoj) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Alcohol\-Free](https://open.spotify.com/album/55KZPPx9Ep8QrYqdBcn8aE) | 3:30 | 2021-06-12 | 2021-07-18 |
 | [All Eyes On Me](https://open.spotify.com/track/2YXswOX5aKv6OHRKUcAMLQ) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:43 | 2023-04-01 | 2023-04-03 |
 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 | 2021-11-14 | 2022-01-08 |
+| [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 | 2023-04-19 |  |
 | [AMAZING](https://open.spotify.com/track/3OM6qQmdFV6uy61GIqpRtf) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:29 | 2022-08-26 | 2022-11-03 |
 | [Andaikan Kau Datang \- From "Miracle in Cell No\. 7"](https://open.spotify.com/track/7mZxM64cMYQdx2vopaGrDf) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Andaikan Kau Datang \(From "Miracle in Cell No\. 7"\)](https://open.spotify.com/album/3iA7DH0b2IUs9tqGSOh3uP) | 4:07 | 2022-09-23 | 2023-03-26 |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2022-03-29 | 2022-12-17 |
@@ -378,7 +379,7 @@
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \(Let's Play Ball\)](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) | 3:51 | 2021-12-16 | 2021-12-18 |
 | [Until I Found You](https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Easy On My Eyes](https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7) | 2:56 | 2022-08-20 | 2022-12-20 |
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-05-08 | 2022-08-21 |
-| [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2022-07-20 |  |
+| [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2022-07-20 | 2023-04-20 |
 | [Usai](https://open.spotify.com/track/3nHxZEe1dT7zs73DG6pNll) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Usai](https://open.spotify.com/album/1lN55vIsNORo3W6QlWbGR8) | 3:37 | 2022-12-27 |  |
 | [W.H.U.T](https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [W.H.U.T](https://open.spotify.com/album/33hKzdCUtE6qkQJrJaDuck) | 2:54 | 2021-12-12 | 2022-04-29 |
 | [Walking in the Wind](https://open.spotify.com/track/1ZycJRpLOazlLcoFGxGROO) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:22 | 2021-06-18 | 2021-07-04 |

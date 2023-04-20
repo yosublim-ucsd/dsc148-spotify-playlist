@@ -124,7 +124,7 @@
     {
       "album": {
         "name": "A Roller Skating Tour",
-        "url": "https://open.spotify.com/album/40nhVsHi8moPhSFUL5rGmo"
+        "url": "https://open.spotify.com/album/6eAjrTTsZ2PY0cQawXNoVs"
       },
       "artists": [
         {
@@ -135,6 +135,24 @@
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 275670,
+      "name": "A Roller Skating Tour",
+      "url": "https://open.spotify.com/track/0Wm2IxOesidzdRhxOZdZHa"
+    },
+    {
+      "album": {
+        "name": "A Roller Skating Tour",
+        "url": "https://open.spotify.com/album/40nhVsHi8moPhSFUL5rGmo"
+      },
+      "artists": [
+        {
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-20",
       "duration_ms": 275670,
       "name": "A Roller Skating Tour",
       "url": "https://open.spotify.com/track/46fnr7t24SMiZ1wOdEblMz"
@@ -987,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "Do What You Do Ably",
+        "url": "https://open.spotify.com/album/61ec3jHFueT9kiHbxe6fWA"
+      },
+      "artists": [
+        {
+          "name": "SOMETIME'S",
+          "url": "https://open.spotify.com/artist/4E3XFAjeq08H7QdEaOtWoc"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254830,
+      "name": "Do What You Do Ably",
+      "url": "https://open.spotify.com/track/4MJjFBcxDn2pbrhPeeFazZ"
+    },
+    {
+      "album": {
         "name": "Do what you do ably",
         "url": "https://open.spotify.com/album/3eoySVHvXdD8Hrj69dZjyI"
       },
@@ -998,7 +1034,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 254830,
       "name": "Do what you do ably",
       "url": "https://open.spotify.com/track/6FCVnPSxthhbvRIThSSMc8"
@@ -3024,10 +3060,28 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 170865,
       "name": "N",
       "url": "https://open.spotify.com/track/25S5RcQ5NQTlPuaW4HLP5z"
+    },
+    {
+      "album": {
+        "name": "N",
+        "url": "https://open.spotify.com/album/62Uf86QDEeOJR3fsOBF1Xr"
+      },
+      "artists": [
+        {
+          "name": "the engy",
+          "url": "https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170865,
+      "name": "N",
+      "url": "https://open.spotify.com/track/3YoXxt7W9LTefFCUx8wSbS"
     },
     {
       "album": {
@@ -3974,10 +4028,28 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 208133,
       "name": "Season",
       "url": "https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg"
+    },
+    {
+      "album": {
+        "name": "Season",
+        "url": "https://open.spotify.com/album/0oNra3mg2Pon6DWljxx8WR"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208133,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/5mIJzqBwYM3SSVuCCCC3gg"
     },
     {
       "album": {
@@ -4110,7 +4182,7 @@
     {
       "album": {
         "name": "Shomonai",
-        "url": "https://open.spotify.com/album/0xSMizlByXiQAX0mzsB1rt"
+        "url": "https://open.spotify.com/album/1fDFdpaemvn2ceYFVK1zpA"
       },
       "artists": [
         {
@@ -4125,6 +4197,28 @@
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 219927,
+      "name": "Shomonai",
+      "url": "https://open.spotify.com/track/0ssnS0WMyo0Km81wVxAHlC"
+    },
+    {
+      "album": {
+        "name": "Shomonai",
+        "url": "https://open.spotify.com/album/0xSMizlByXiQAX0mzsB1rt"
+      },
+      "artists": [
+        {
+          "name": "Blue Vintage",
+          "url": "https://open.spotify.com/artist/106REdDEgMBskjfbOqWOqn"
+        },
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-20",
       "duration_ms": 219927,
       "name": "Shomonai",
       "url": "https://open.spotify.com/track/2VRYGYNkRp1ueu1NzsXNU9"

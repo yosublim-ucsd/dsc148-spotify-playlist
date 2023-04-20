@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "A Grito Abierto",
+        "url": "https://open.spotify.com/album/3gwT7FSwfQ0tB6hEHEIFin"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "Desvelos Mios",
+      "url": "https://open.spotify.com/track/0EvTvBa5lwIjRFjUd09iWi"
+    },
+    {
+      "album": {
         "name": "22 \u00c9xitos de Oro, vol. 4",
         "url": "https://open.spotify.com/album/4eh50zoGTP5IJ84YR0byqc"
       },

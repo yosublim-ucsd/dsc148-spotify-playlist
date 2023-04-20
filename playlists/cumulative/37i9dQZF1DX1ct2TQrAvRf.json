@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 108493,
       "name": "0 to 100",
       "url": "https://open.spotify.com/track/7cVe3mYMIfhOlz1NXFWv70"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 180618,
       "name": "Aaina",
       "url": "https://open.spotify.com/track/5SAgi6ZXqpCWQADP8XyRDY"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 228622,
       "name": "Angaar",
       "url": "https://open.spotify.com/track/6sXibluMzgiLgLBvjySOdd"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 141176,
       "name": "Droptop",
       "url": "https://open.spotify.com/track/7AW4g4I9fPfUIyqtbsuAkM"
@@ -420,7 +420,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 209940,
       "name": "F16",
       "url": "https://open.spotify.com/track/2KFuYtZf6KxzDE6PogFxMK"
@@ -442,7 +442,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 200106,
       "name": "Flex",
       "url": "https://open.spotify.com/track/1BjFMR7Cb8yaQyOsZBszML"
@@ -464,7 +464,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 162206,
       "name": "Free Smoke",
       "url": "https://open.spotify.com/track/3b1Gq1KcPR45uepbK0N8tA"
@@ -486,7 +486,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 190153,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH"
@@ -508,7 +508,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 161739,
       "name": "Gangster",
       "url": "https://open.spotify.com/track/3YnsZKy5T1rXFqXG4qWher"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 231325,
       "name": "Google Pay",
       "url": "https://open.spotify.com/track/4jqdTjX083euOxkKqJu0O2"
@@ -570,6 +570,28 @@
       "duration_ms": 175449,
       "name": "GRIND",
       "url": "https://open.spotify.com/track/16xg7UwH9hbs96vCD8k6bC"
+    },
+    {
+      "album": {
+        "name": "GTA NCR",
+        "url": "https://open.spotify.com/album/5Cji4DtVI1prgnhDMGjxTE"
+      },
+      "artists": [
+        {
+          "name": "Raga",
+          "url": "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO"
+        },
+        {
+          "name": "Wamp",
+          "url": "https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161118,
+      "name": "GTA NCR",
+      "url": "https://open.spotify.com/track/5SVmwl5avNHU3clEo86jE9"
     },
     {
       "album": {
@@ -624,7 +646,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 174897,
       "name": "HELLO",
       "url": "https://open.spotify.com/track/5HTVLbAStMB6MgfGOww6xW"
@@ -642,10 +664,54 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 170847,
       "name": "I'm Done",
       "url": "https://open.spotify.com/track/4uW8CuyO9r7vOXgYf1eqCz"
+    },
+    {
+      "album": {
+        "name": "Hustle 2.0",
+        "url": "https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS"
+      },
+      "artists": [
+        {
+          "name": "Paradox",
+          "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Jaadugar",
+      "url": "https://open.spotify.com/track/3uCmVdJNi3Ci4bidF0mdHb"
+    },
+    {
+      "album": {
+        "name": "Time Will Tell",
+        "url": "https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y"
+      },
+      "artists": [
+        {
+          "name": "KR$NA",
+          "url": "https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t"
+        },
+        {
+          "name": "Jokhay",
+          "url": "https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213809,
+      "name": "Kaha Tak",
+      "url": "https://open.spotify.com/track/1EvFCT12WiFT649pC9wsPV"
     },
     {
       "album": {
@@ -660,7 +726,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 219758,
       "name": "Kahan Par Hai",
       "url": "https://open.spotify.com/track/6YtlaPxgVWZHO7OB1atIEf"
@@ -815,6 +881,28 @@
     },
     {
       "album": {
+        "name": "No Reason",
+        "url": "https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY"
+      },
+      "artists": [
+        {
+          "name": "Parmish Verma",
+          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
+        },
+        {
+          "name": "GD 47",
+          "url": "https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218142,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK"
+    },
+    {
+      "album": {
         "name": "Champagne Talk",
         "url": "https://open.spotify.com/album/15CyNDuGY5fsG0Hn9rjnpG"
       },
@@ -884,10 +972,32 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 214540,
       "name": "Punja Daab",
       "url": "https://open.spotify.com/track/0sal9BreaUYc5ylJBfYufo"
+    },
+    {
+      "album": {
+        "name": "HARD DRIVE Vol. 1",
+        "url": "https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv"
+      },
+      "artists": [
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "RAASHAH",
+      "url": "https://open.spotify.com/track/7sAb2f62IJ28DvEP6x3FRw"
     },
     {
       "album": {
@@ -1057,6 +1167,24 @@
     },
     {
       "album": {
+        "name": "Snake",
+        "url": "https://open.spotify.com/album/6We7h51iTPzUEF03P8RVNd"
+      },
+      "artists": [
+        {
+          "name": "MC STAN",
+          "url": "https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281088,
+      "name": "Snake",
+      "url": "https://open.spotify.com/track/0MYof8K1RPjc1Htnr7CDa6"
+    },
+    {
+      "album": {
         "name": "Soch",
         "url": "https://open.spotify.com/album/0lQ9GvffDL17ufwTEqA7gm"
       },
@@ -1115,6 +1243,28 @@
     },
     {
       "album": {
+        "name": "PRAA",
+        "url": "https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis"
+      },
+      "artists": [
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        },
+        {
+          "name": "Prabh Deep",
+          "url": "https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191901,
+      "name": "TRAP PRAA",
+      "url": "https://open.spotify.com/track/2IodN2cQX9LASXaRu6Ovqd"
+    },
+    {
+      "album": {
         "name": "Tu Hai Kaun",
         "url": "https://open.spotify.com/album/4YrdmA8BUodffcJGjJnks9"
       },
@@ -1130,7 +1280,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 204040,
       "name": "Tu Hai Kaun",
       "url": "https://open.spotify.com/track/4gJwX0QLUXwjwmQG77ihLS"

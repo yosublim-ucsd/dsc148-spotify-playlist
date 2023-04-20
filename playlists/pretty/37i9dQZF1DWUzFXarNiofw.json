@@ -1,12 +1,12 @@
 {
   "description": "The newest r&b drops, every week. Cover: SZA & Doja Cat",
-  "num_followers": 995278,
+  "num_followers": 995572,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDc3NmE4OTZlMDUwMzY0NzU3M2QxOTA5OTYwYTU2NTEw",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDIzMjViZWI5M2E0N2FkMzA1YWNkZDY2Y2Q1NGQ4YmEy",
   "tracks": [
     {
       "added_at": "2023-04-14 04:01:00",
@@ -379,10 +379,14 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "For Granted (feat. Arin Ray & 9th Wonder)",
-        "url": "https://open.spotify.com/album/5l1oWPwn5OqgbbBLyCrU05"
+        "name": "Enigmatic Society",
+        "url": "https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe"
       },
       "artists": [
+        {
+          "name": "Dinner Party",
+          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
+        },
         {
           "name": "Terrace Martin",
           "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
@@ -396,17 +400,17 @@
           "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
         },
         {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        },
-        {
           "name": "9th Wonder",
           "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
         }
       ],
       "duration_ms": 172000,
-      "name": "For Granted (feat. Arin Ray & 9th Wonder)",
-      "url": "https://open.spotify.com/track/0IT1pmbYjQjoU0IUMVZ6XU"
+      "name": "For Granted (feat. Arin Ray)",
+      "url": "https://open.spotify.com/track/39RJfDkli3BkEsW6LN4DrZ"
     },
     {
       "added_at": "2023-04-07 04:01:00",

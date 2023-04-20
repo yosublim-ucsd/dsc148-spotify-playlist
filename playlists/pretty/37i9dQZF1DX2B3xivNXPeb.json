@@ -1,12 +1,12 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 30176,
+  "num_followers": 30186,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY3Mzk5MiwwMDAwMDAwMDEzNTcyMGFjOGNiYWM3M2YyYjUyMTg3MTFkYmI1NGM2",
+  "snapshot_id": "MTY3OTY3Mzk5MiwwMDAwMDAwMDhhMDAzYWM4MTlkNTBkMTQ5MzhlMzVhYTYwMWNhNjMy",
   "tracks": [
     {
       "added_at": "2023-03-24 16:06:32",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Naturally",
-        "url": "https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "How Long Do I Have to Wait for You?",
-      "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "Last Night In The Bittersweet",
         "url": "https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x"
       },
@@ -143,18 +127,18 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
+        "name": "Naturally",
+        "url": "https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
         }
       ],
-      "duration_ms": 191973,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
+      "duration_ms": 243760,
+      "name": "How Long Do I Have to Wait for You?",
+      "url": "https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -171,6 +155,22 @@
       "duration_ms": 165066,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Mr. Big Stuff",
-        "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
-      },
-      "artists": [
-        {
-          "name": "Jean Knight",
-          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
-        }
-      ],
-      "duration_ms": 164560,
-      "name": "Mr. Big Stuff",
-      "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "I Put A Spell On You",
         "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 155026,
       "name": "I Put A Spell On You",
       "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "Mr. Big Stuff",
+        "url": "https://open.spotify.com/album/0p86nom1q9716gzstS4Y5e"
+      },
+      "artists": [
+        {
+          "name": "Jean Knight",
+          "url": "https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr"
+        }
+      ],
+      "duration_ms": 164560,
+      "name": "Mr. Big Stuff",
+      "url": "https://open.spotify.com/track/2Bls0igCm79XQQ95IoUbhq"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Knock On Wood",
-        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
-      },
-      "artists": [
-        {
-          "name": "Eddie Floyd",
-          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "Knock on Wood",
-      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "Silk & Soul (Expanded Edition)",
         "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 188613,
       "name": "I Wish I Knew How It Would Feel to Be Free",
       "url": "https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "Knock On Wood",
+        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
+      },
+      "artists": [
+        {
+          "name": "Eddie Floyd",
+          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "Knock on Wood",
+      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 327706,
+      "name": "Inner City Blues (Make Me Wanna Holler)",
+      "url": "https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
         "name": "New Magic",
         "url": "https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 202492,
       "name": "The World (Is Going Up in Flames)",
       "url": "https://open.spotify.com/track/7a5xvCgoD8qFEQmO8Jjvtf"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 327706,
-      "name": "Inner City Blues (Make Me Wanna Holler)",
-      "url": "https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/7huDejiFEZn3EFHuIvI3Qh"
-      },
-      "artists": [
-        {
-          "name": "Miller Blue",
-          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
-        }
-      ],
-      "duration_ms": 183963,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/5mnh4K9uqRYNpuqd3s1NG0"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "When You Were Mine",
         "url": "https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 203483,
       "name": "When You Were Mine",
       "url": "https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/7huDejiFEZn3EFHuIvI3Qh"
+      },
+      "artists": [
+        {
+          "name": "Miller Blue",
+          "url": "https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA"
+        }
+      ],
+      "duration_ms": 183963,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/5mnh4K9uqRYNpuqd3s1NG0"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -759,18 +759,18 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Still Bill",
-        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+        "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
+        "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 231044,
-      "name": "Kissing My Love",
-      "url": "https://open.spotify.com/track/262qk9k0LTyMXmjH9YT2xU"
+      "duration_ms": 196920,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/6LahUh0U4umx6hDFfVWlGi"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
-        "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         }
       ],
-      "duration_ms": 196920,
-      "name": "You Don't Know Me",
-      "url": "https://open.spotify.com/track/6LahUh0U4umx6hDFfVWlGi"
+      "duration_ms": 231044,
+      "name": "Kissing My Love",
+      "url": "https://open.spotify.com/track/262qk9k0LTyMXmjH9YT2xU"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Tell Mama",
-        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Tell Mama",
-      "url": "https://open.spotify.com/track/6eFgjBTF91pOZTQ8t7xBHv"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "'Justments",
         "url": "https://open.spotify.com/album/10jKkqtTI0cblOQjJfDUpt"
       },
@@ -939,6 +923,22 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
+        "name": "Tell Mama",
+        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Tell Mama",
+      "url": "https://open.spotify.com/track/6eFgjBTF91pOZTQ8t7xBHv"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
         "name": "KIWANUKA",
         "url": "https://open.spotify.com/album/1yIqauTni1V7l7djYAKSsZ"
       },
@@ -951,22 +951,6 @@
       "duration_ms": 249333,
       "name": "You Ain't The Problem",
       "url": "https://open.spotify.com/track/3zJ5RDG0bLQAV2rntFgUtb"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw"
-      },
-      "artists": [
-        {
-          "name": "shiv",
-          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
-        }
-      ],
-      "duration_ms": 189426,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -991,6 +975,22 @@
       "duration_ms": 245200,
       "name": "All I Need (with Mahalia & Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/164VgxTozx99XCinCB9ITR"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/5rRtE3wuqsxxGp5CsujWXw"
+      },
+      "artists": [
+        {
+          "name": "shiv",
+          "url": "https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7"
+        }
+      ],
+      "duration_ms": 189426,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/4Ni5urPYXXrSLJMrs81LXW"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
-        "name": "Angels & Queens - Part I (Track by Track)",
-        "url": "https://open.spotify.com/album/3RWX330xVrZqAQ5JpSyI7h"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 199796,
-      "name": "Angels & Queens",
-      "url": "https://open.spotify.com/track/2jzS9aY0dLR4TI6tlnLMTO"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
         "name": "Please Love Me Again",
         "url": "https://open.spotify.com/album/6DBdEhwchCMmQFJh5mhFXt"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 186582,
       "name": "Please Love Me Again",
       "url": "https://open.spotify.com/track/4b605Ezmi2n7Oyk4vbdhsh"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
+        "name": "Angels & Queens - Part I (Track by Track)",
+        "url": "https://open.spotify.com/album/3RWX330xVrZqAQ5JpSyI7h"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 199796,
+      "name": "Angels & Queens",
+      "url": "https://open.spotify.com/track/2jzS9aY0dLR4TI6tlnLMTO"
     },
     {
       "added_at": "2023-03-24 16:06:32",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-03-24 16:06:32",
       "album": {
+        "name": "Girlhood",
+        "url": "https://open.spotify.com/album/36pD53bU7Igw82ZHD4Herb"
+      },
+      "artists": [
+        {
+          "name": "Girlhood",
+          "url": "https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA"
+        }
+      ],
+      "duration_ms": 203985,
+      "name": "The Love I Need",
+      "url": "https://open.spotify.com/track/7mpvFrRwA6eg1C3Gr22v8q"
+    },
+    {
+      "added_at": "2023-03-24 16:06:32",
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/3afE6m4GD6Wv8sl3EUyFD7"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 223873,
       "name": "Nostalgia (feat. Taura)",
       "url": "https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt"
-    },
-    {
-      "added_at": "2023-03-24 16:06:32",
-      "album": {
-        "name": "Girlhood",
-        "url": "https://open.spotify.com/album/36pD53bU7Igw82ZHD4Herb"
-      },
-      "artists": [
-        {
-          "name": "Girlhood",
-          "url": "https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA"
-        }
-      ],
-      "duration_ms": 203985,
-      "name": "The Love I Need",
-      "url": "https://open.spotify.com/track/7mpvFrRwA6eg1C3Gr22v8q"
     },
     {
       "added_at": "2023-03-24 16:06:32",

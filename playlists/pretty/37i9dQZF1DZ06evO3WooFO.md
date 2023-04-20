@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 
 > This is blink\-182\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,736 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,173 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,15 +35,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 | 25 | [IT'S ALL FADING TO BLACK](https://open.spotify.com/track/0R6dvBlNevqkzioHLoygbI) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Bad Vibes Forever](https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ) | 2:31 |
 | 26 | [After Midnight](https://open.spotify.com/track/29bWDkf8qtCmsvDWOW55CJ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 3:26 |
 | 27 | [Stockholm Syndrome](https://open.spotify.com/track/5TxY7O9lFJJrd22FmboAXe) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:41 |
-| 28 | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/track/75nfWESNoYX9X7c82l9Rtk) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Don't Forget Where You Came From](https://open.spotify.com/album/3kYDYtruq1Vw1INE5UjV3u) | 3:30 |
-| 29 | [Let Me Down \(feat\. blink\-182\)](https://open.spotify.com/track/3qRXuJ58B2wcNNMk5yyAMn) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Let Me Down \(feat\. blink\-182\)](https://open.spotify.com/album/4SK5Gr8NdFobeo1t0MIYOV) | 2:39 |
-| 30 | [Carousel](https://open.spotify.com/track/3gVXAW2pduBl7tzjAGUVRb) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Cheshire Cat](https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83) | 3:14 |
+| 28 | [Let Me Down \(feat\. blink\-182\)](https://open.spotify.com/track/3qRXuJ58B2wcNNMk5yyAMn) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Let Me Down \(feat\. blink\-182\)](https://open.spotify.com/album/4SK5Gr8NdFobeo1t0MIYOV) | 2:39 |
+| 29 | [Carousel](https://open.spotify.com/track/3gVXAW2pduBl7tzjAGUVRb) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Cheshire Cat](https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83) | 3:14 |
+| 30 | [Scumbag \(feat\. blink\-182\)](https://open.spotify.com/track/75nfWESNoYX9X7c82l9Rtk) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Don't Forget Where You Came From](https://open.spotify.com/album/3kYDYtruq1Vw1INE5UjV3u) | 3:30 |
 | 31 | [Not Now](https://open.spotify.com/track/28yCMEplHbodvR19Aipah8) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits](https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ) | 4:23 |
 | 32 | [Obvious](https://open.spotify.com/track/1KcmugpUozu6Llj3p5Qboa) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:43 |
 | 33 | [The First Time](https://open.spotify.com/track/4VwvwlbNZavsDkRdIKFGBi) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 2:26 |
 | 34 | [Wishing Well](https://open.spotify.com/track/4M4taWkQGn3FcbH6tnH6mx) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 3:20 |
-| 35 | [Another Girl Another Planet](https://open.spotify.com/track/6klwvrS59j10a8ZqelwK3q) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits](https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ) | 2:41 |
-| 36 | [Josie](https://open.spotify.com/track/5IKqS0Kmme9uVOVjulysEV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq) | 3:19 |
+| 35 | [Josie](https://open.spotify.com/track/5IKqS0Kmme9uVOVjulysEV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq) | 3:19 |
+| 36 | [Another Girl Another Planet](https://open.spotify.com/track/6klwvrS59j10a8ZqelwK3q) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits](https://open.spotify.com/album/31mnNcl6CzIcX8j9n75vYZ) | 2:41 |
 | 37 | [Happy Days](https://open.spotify.com/track/6GHAAp25FcGdaHgAn8rTif) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 2:59 |
 | 38 | [M+M's](https://open.spotify.com/track/6A82LV89Dc6eMJI4ocqwUS) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Cheshire Cat](https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83) | 2:39 |
 | 39 | [P.S\. I Hope You're Happy](https://open.spotify.com/track/5GemR0Lr9CEUJVH14mAsDO) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:45 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WooFO.md) - [plain]
 | 50 | [Up All Night](https://open.spotify.com/track/1bvbL0HbprbpwmzwaZczr2) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Neighborhoods \(Deluxe Explicit Version\)](https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv) | 3:19 |
 | 51 | [Cynical](https://open.spotify.com/track/0oOOVSZGuPriWBqwbh0uuJ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 1:55 |
 
-Snapshot ID: `MjgwMzAzOTAsMDAwMDAwMDA3Y2IwNzBmNjU5OGE1MzM2MTNlNTY2ZGE5MTRjNGZlOA==`
+Snapshot ID: `MjgwMzE3ODQsMDAwMDAwMDA4NDMxYjc1MDk4YzU0NjMzNGRmMjJlY2MzNDU3NjdmZA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCmQCuAzM4J.md) - [plain]
 
 > se acabó todo 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,172 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,196 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

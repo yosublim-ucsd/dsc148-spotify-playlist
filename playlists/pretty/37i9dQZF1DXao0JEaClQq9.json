@@ -1,12 +1,12 @@
 {
   "description": "eclectic ethereal feeling. cover: Ethel Cain ",
-  "num_followers": 1604229,
+  "num_followers": 1604320,
   "original_name": "Ethereal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NTc2OSwwMDAwMDAwMGM5MTA4ZmI2ODY3YjQ0Y2IxYTYyZGZiMDYzOGFhZTI5",
+  "snapshot_id": "MTY4MTQ0NTc2OSwwMDAwMDAwMGYwZWZjOTE3NzU3YmM0OGUxMjM4N2M2MDBmOTA5NTli",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Absolutely",
-        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
-      },
-      "artists": [
-        {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
-        }
-      ],
-      "duration_ms": 184767,
-      "name": "The Dress",
-      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "El Mal Querer",
         "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 150027,
       "name": "MALAMENTE - Cap.1: Augurio",
       "url": "https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Absolutely",
+        "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
+      },
+      "artists": [
+        {
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+        }
+      ],
+      "duration_ms": 184767,
+      "name": "The Dress",
+      "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
     },
     {
       "added_at": "2023-04-14 04:15:40",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/2iPwsfkSPMu1TL3uGF4iNv"
+      },
+      "artists": [
+        {
+          "name": "Peter Manos",
+          "url": "https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/3bne7Qit5AbHkX6kWDItYP"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Black Panther: Wakanda Forever (Original Score)",
         "url": "https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 160226,
       "name": "Con La Brisa - Film Version",
       "url": "https://open.spotify.com/track/2vthaS3SkgTfe5vrpVgITG"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/2iPwsfkSPMu1TL3uGF4iNv"
-      },
-      "artists": [
-        {
-          "name": "Peter Manos",
-          "url": "https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/3bne7Qit5AbHkX6kWDItYP"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "i'm watching you",
-        "url": "https://open.spotify.com/album/3dixoGi4IeEF6XpT5afxUa"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "HEAVEN",
-      "url": "https://open.spotify.com/track/63xbtAZx1daHJxhFA2eQCM"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Unbothered",
         "url": "https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 124954,
       "name": "Unbothered",
       "url": "https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "i'm watching you",
+        "url": "https://open.spotify.com/album/3dixoGi4IeEF6XpT5afxUa"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "HEAVEN",
+      "url": "https://open.spotify.com/track/63xbtAZx1daHJxhFA2eQCM"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Preacher\u2019s Daughter",
+        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 344344,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5Cc0Pe8p7c2OJxMj07ywvc"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Call For Help",
         "url": "https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 185660,
       "name": "Serenade of Water",
       "url": "https://open.spotify.com/track/5tt7O3V5vwf8ltkr1Wgxrf"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Preacher\u2019s Daughter",
-        "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 344344,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/5Cc0Pe8p7c2OJxMj07ywvc"
     },
     {
       "added_at": "2023-03-24 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > MADE of latin roots, MADE in the U.S\. MADE to shine! Cover: Loyal Lobos
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,485 likes - 78 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,494 likes - 78 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 26 | [No Fuimos Nada](https://open.spotify.com/track/3aWjuV28IwGzKnPddkH5rA) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [No Fuimos Nada](https://open.spotify.com/album/7xEWRe7FeCXP99EcTBatkz) | 3:02 |
 | 27 | [La Receta](https://open.spotify.com/track/5AmZTocG6dh1jN22KgIF2H) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [La Receta](https://open.spotify.com/album/0jdlWpht7OheUR2kvWWPlA) | 3:11 |
 | 28 | [Despierto](https://open.spotify.com/track/03wwC5vZMG8WtCjXwpjClK) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8), [Diàgo](https://open.spotify.com/artist/7c4D4GARDnPEe1arEIKp0s) | [Despierto](https://open.spotify.com/album/3KhASegtqWv7krbI95cGU3) | 3:19 |
-| 29 | [Hostage](https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58) | [Hostage](https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6) | 2:44 |
-| 30 | [Hija de Su](https://open.spotify.com/track/6GhI4zyMx3xa6RvyYCKER6) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [ETC!ETC!](https://open.spotify.com/artist/0iDBD558yJl5IfRXg9Yfwt) | [Hija de Su](https://open.spotify.com/album/5gzoFIcBf6wguzBK1z7wfl) | 2:59 |
+| 29 | [Hija de Su](https://open.spotify.com/track/6GhI4zyMx3xa6RvyYCKER6) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [ETC!ETC!](https://open.spotify.com/artist/0iDBD558yJl5IfRXg9Yfwt) | [Hija de Su](https://open.spotify.com/album/5gzoFIcBf6wguzBK1z7wfl) | 2:59 |
+| 30 | [Hostage](https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58) | [Hostage](https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6) | 2:44 |
 | 31 | [amigos con beneficios](https://open.spotify.com/track/5z7CdPON2afBSONCdIMniG) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [amigos con beneficios](https://open.spotify.com/album/5GIg36pmqOUTW5SlAAqqnh) | 4:01 |
 | 32 | [Tu Labial](https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Tu Labial](https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx) | 3:47 |
 | 33 | [Takin' All My Lovin'](https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7) | [Mikey Jimenez](https://open.spotify.com/artist/0DgdXuxVB3yXP5U54WZvSL), [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7) | [Takin' All My Lovin'](https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC) | 3:27 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 36 | [ALERGICA](https://open.spotify.com/track/11Sakrqqq61WNucb48QGWy) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [ALERGICA](https://open.spotify.com/album/128gRYuCA4HlmI3vCiwl6l) | 3:05 |
 | 37 | [¿Dónde?](https://open.spotify.com/track/0mFdgCl72vf746EW4l6Ztt) | [Lechero](https://open.spotify.com/artist/2x5oi7GC3XkdgXSC8juDIw), [desamor.](https://open.spotify.com/artist/3Bg5zq88wlTgSPgT1x2CFW) | [¿Dónde?](https://open.spotify.com/album/5s2BpnMUEjfrZCR013IGoY) | 2:32 |
 | 38 | [Mírame](https://open.spotify.com/track/4CzrcuupfBN5G7KfRriA26) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9) | [Mírame](https://open.spotify.com/album/3xYHcuI1ir1bTvJpxfYoBN) | 3:06 |
-| 39 | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/track/2WnlyIzUY8S4pCZivwbaem) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Drty Tropix](https://open.spotify.com/artist/6rskWKdI8VMxqWfBxU0my2) | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/album/1f3pPYCKSM5OfKtZ08t2sE) | 2:41 |
-| 40 | [La Canción](https://open.spotify.com/track/2weKT5Gn2nOEKSjtchYGUR) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [La Cancion](https://open.spotify.com/album/64WFuqvj8ABvZHvo9BoV0c) | 3:25 |
+| 39 | [La Canción](https://open.spotify.com/track/2weKT5Gn2nOEKSjtchYGUR) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [La Cancion](https://open.spotify.com/album/64WFuqvj8ABvZHvo9BoV0c) | 3:25 |
+| 40 | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/track/2WnlyIzUY8S4pCZivwbaem) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb), [Drty Tropix](https://open.spotify.com/artist/6rskWKdI8VMxqWfBxU0my2) | [KPASA \(feat\. Drty Tropix\)](https://open.spotify.com/album/1f3pPYCKSM5OfKtZ08t2sE) | 2:41 |
 | 41 | [Sexo Sin Drama](https://open.spotify.com/track/2qQ0RuYvFLsYZarBTCSbJw) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Sexo Sin Drama](https://open.spotify.com/album/2ndDGHFi69bEujXAftA959) | 2:22 |
 | 42 | [lo siento](https://open.spotify.com/track/7oQ0YOekfGFw5TOQwvXrnr) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [lo siento](https://open.spotify.com/album/7tOSMJmUWT0vEvhSxloyZv) | 3:12 |
 | 43 | [Un Poquito Más](https://open.spotify.com/track/5iph5i9bTxD7vJEjXeYMDP) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Un Poquito Más](https://open.spotify.com/album/1Q4rU1AFX6gzbomhgnbxHL) | 2:59 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 55 | [TQD](https://open.spotify.com/track/3nY5WkZfpPbEesL0suAVqq) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [TQD](https://open.spotify.com/album/2oHIws9KI1JMfmbzmNEXoA) | 3:20 |
 | 56 | [ANYWAY](https://open.spotify.com/track/6GY2FCfIwuY0tlmk0HE9t2) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [ANYWAY](https://open.spotify.com/album/2OTJpqiKPctZPSOJcKwmUB) | 3:30 |
 | 57 | [Nadie En Este Mundo](https://open.spotify.com/track/228sACC7y614ro6IKRsOUJ) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Recuerdos Del Pasado, Vol\. 2](https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm) | 3:52 |
-| 58 | [Mirror In My Living Room](https://open.spotify.com/track/6sjd3IipyGU97VimolF0yR) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [Mirror In My Living Room](https://open.spotify.com/album/59KKhEV8ydurxp9XxdQEwg) | 3:00 |
-| 59 | [Ya No Eres Igual](https://open.spotify.com/track/56XRdqcXlIquG1BZuirDel) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [FASES](https://open.spotify.com/album/4cCKSr1kDU2hYecgmMmHBn) | 3:10 |
+| 58 | [Ya No Eres Igual](https://open.spotify.com/track/56XRdqcXlIquG1BZuirDel) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [FASES](https://open.spotify.com/album/4cCKSr1kDU2hYecgmMmHBn) | 3:10 |
+| 59 | [Mirror In My Living Room](https://open.spotify.com/track/6sjd3IipyGU97VimolF0yR) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [Mirror In My Living Room](https://open.spotify.com/album/59KKhEV8ydurxp9XxdQEwg) | 3:00 |
 | 60 | [overflow](https://open.spotify.com/track/54Emsvj9A1qPH6zXOafruV) | [vivi rincon](https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE) | [overflow](https://open.spotify.com/album/4Npxh394iWsnecaWncrvJU) | 2:55 |
 | 61 | [Amor No Correspondido](https://open.spotify.com/track/7DRT78EDLAfW0t6tjpTCHq) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Amor No Correspondido](https://open.spotify.com/album/3Zv87HBjoh4o6CObxB1Mph) | 2:43 |
 | 62 | [P.O.V](https://open.spotify.com/track/0kYMvY7CEGe2Qlt7oYInXI) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [P.O.V](https://open.spotify.com/album/6zk5bTOjSKXykjcAYYx67B) | 1:57 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 77 | [Zarna](https://open.spotify.com/track/2m3x9amJXUtxD12K3ZuaAg) | [Sasha Wrist](https://open.spotify.com/artist/3h4yzDa8Uj4ZplkApbgFAD) | [Zarna](https://open.spotify.com/album/6v9ziOQ7A3R8FzGXmHr5Mv) | 3:06 |
 | 78 | [What's Love](https://open.spotify.com/track/5pzoT4oIMaoGnzH1BYQlFT) | [The Bromigos](https://open.spotify.com/artist/7IstQm3HsOZGoNhX0LJo0C) | [What's Love](https://open.spotify.com/album/4O6GIo4XMXM80d4Ew0CB63) | 3:04 |
 
-Snapshot ID: `MTY4MDI0OTc4NSwwMDAwMDAwMGExNDIwZTJhZDQyZWVhOGE4MzEwNzhjNGE1Mjk2YjA2`
+Snapshot ID: `MTY4MDI0OTc4NSwwMDAwMDAwMDBmZDg4N2JkZTMxOWQyNTAzNTM2ZGIyNzgwZGViNzNm`

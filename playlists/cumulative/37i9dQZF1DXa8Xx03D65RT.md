@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-588 songs - 1 day 0 hr 58 min
+589 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Amitié éternelle](https://open.spotify.com/track/7Kcs72BhrZBttmuwt2g77K) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Amitié éternelle](https://open.spotify.com/album/3WFkYJ4WoNs0SXUz3vcF3R) | 2:15 | 2022-05-27 | 2022-09-24 |
 | [And it Starts to Rain](https://open.spotify.com/track/5DtE1VkhyWxvqUNRbdVZ1y) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [And it Starts to Rain](https://open.spotify.com/album/00ilvHLWNO3SaC4uXl8J3L) | 2:50 | 2022-05-27 | 2023-01-21 |
 | [Anywhere Else](https://open.spotify.com/track/7ijdkXgeiAmxFPXBNbGOtY) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Anywhere Else](https://open.spotify.com/album/2IVTJm85OXU3wOerijun2y) | 2:36 | 2023-03-06 |  |
-| [Arabesque](https://open.spotify.com/track/5g5N4ckpykUenMgllmi4KD) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Arabesque](https://open.spotify.com/album/5dYHa8wLpODekEUeJUNHBJ) | 2:31 | 2022-05-27 |  |
+| [Arabesque](https://open.spotify.com/track/5g5N4ckpykUenMgllmi4KD) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Arabesque](https://open.spotify.com/album/5dYHa8wLpODekEUeJUNHBJ) | 2:31 | 2022-05-27 | 2023-04-20 |
 | [Arrival](https://open.spotify.com/track/2spEwOTf21NJD8nPxpFbsa) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Arrival](https://open.spotify.com/album/4Kz0omQwqDHEZP714wEPUK) | 2:24 | 2023-03-27 |  |
 | [Asilah](https://open.spotify.com/track/01bBzDT79dc34s2Aj9C5Z8) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Asilah](https://open.spotify.com/album/7sbf9VjGSRCE2BOA3GCOgX) | 1:55 | 2023-02-20 |  |
 | [Asilah](https://open.spotify.com/track/00iniRV1mt5IS6ep01e2Ts) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Asilah](https://open.spotify.com/album/5ngz6Awk3fEPDe5GomDmRM) | 2:40 | 2022-05-27 | 2022-09-24 |
@@ -589,6 +589,7 @@
 | [Winter Blossoms](https://open.spotify.com/track/6q6Isz6kUluHROS0mb9T8P) | [Billy Lipnick](https://open.spotify.com/artist/0JTFRJYspkuP9Pwhbc2b0w) | [Winter Blossoms](https://open.spotify.com/album/1KpNlDkB2vzxGHVVYTB5CU) | 3:00 | 2022-05-27 |  |
 | [Winter im Herzen](https://open.spotify.com/track/5mz01kqyV5Q02HRq0ITNQr) | [Sander Berisha](https://open.spotify.com/artist/3ZaOGDVy8OEsLOgdtI0Aay) | [Winter im Herzen](https://open.spotify.com/album/02dj7DzGAXlqxpxm3tIBQx) | 2:56 | 2022-05-27 |  |
 | [Winter Warmth](https://open.spotify.com/track/7i7EzSHTyUnZiSuwkVjnYR) | [Zecil Malka](https://open.spotify.com/artist/4wGDIWQL6UqKjNAoL2kKYp) | [Winter Warmth](https://open.spotify.com/album/5YfDgNzucWkIgaceuAAAmf) | 2:02 | 2023-02-06 |  |
+| [With Ease](https://open.spotify.com/track/66nC6l1EsEIqarOvSwmotT) | [Loumi Des Moines](https://open.spotify.com/artist/5R719xRQhw9JLnHFM3dC1G) | [With Ease](https://open.spotify.com/album/1LCrc34gyc6h3YdC7e7D5c) | 2:39 | 2023-04-18 |  |
 | [Withered](https://open.spotify.com/track/310HxzWeWPw1htCdY9I4oq) | [Etne Skiöld](https://open.spotify.com/artist/2hBTCIkNqbHQYTDIhxDfJD) | [Withered](https://open.spotify.com/album/5YmSYIJSqjLPOcQEZ9AH6e) | 1:52 | 2023-01-31 |  |
 | [Wurzeln](https://open.spotify.com/track/1XxpdpkVxh9B3jYOW3Le14) | [Lekk](https://open.spotify.com/artist/0yicpX5myaa6X2hXtsJ1Oj) | [Glass Stone](https://open.spotify.com/album/0nGGwRQAKy5uAoeoE0bjyF) | 2:32 | 2022-05-27 | 2023-03-28 |
 | [Yearn](https://open.spotify.com/track/6cgdhsPAVKmQRRwbW0PuXT) | [Lillia Nava](https://open.spotify.com/artist/2UTWoxg77Il2GH1iI67BIZ) | [Yearn](https://open.spotify.com/album/62Cxt0A2ySZkUMbus2ibi1) | 2:46 | 2022-05-27 | 2022-09-24 |

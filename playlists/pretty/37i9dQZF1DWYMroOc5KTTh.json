@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 391693,
+  "num_followers": 391792,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTc0NzU0MiwwMDAwMDAwMDFiNmE4ZjcxMDA5NjI5YmE0ODA2MmM5ZTliOWU4NzYx",
+  "snapshot_id": "MTY4MTc0NzU0MiwwMDAwMDAwMDIzODQ2YzYzYjRiNGQ0YTFmMTdjZTk0MzBiNmEyMDg5",
   "tracks": [
     {
       "added_at": "2023-04-17 16:05:42",
@@ -467,6 +467,26 @@
     {
       "added_at": "2023-04-17 16:05:42",
       "album": {
+        "name": "Relax My Eyes",
+        "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "duration_ms": 192150,
+      "name": "Relax My Eyes",
+      "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
+    },
+    {
+      "added_at": "2023-04-17 16:05:42",
+      "album": {
         "name": "Serotonin Moonbeams",
         "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 215386,
       "name": "West Coast Love",
       "url": "https://open.spotify.com/track/4NFD9ea0uH0MtoC30yNYE1"
-    },
-    {
-      "added_at": "2023-04-17 16:05:42",
-      "album": {
-        "name": "Relax My Eyes",
-        "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "Abel Balder",
-          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
-        }
-      ],
-      "duration_ms": 192150,
-      "name": "Relax My Eyes",
-      "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
     },
     {
       "added_at": "2023-04-17 16:05:42",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-04-17 16:05:42",
       "album": {
+        "name": "The Ringmaster",
+        "url": "https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 180842,
+      "name": "Baian\u00e1",
+      "url": "https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE"
+    },
+    {
+      "added_at": "2023-04-17 16:05:42",
+      "album": {
         "name": "Catalogue",
         "url": "https://open.spotify.com/album/5sCp2ukwrtpYj5wGfMx78M"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 278000,
       "name": "Sing It Back - Boris Dlugosch Mix",
       "url": "https://open.spotify.com/track/53qhh1kdcX4gRBShoW4LK8"
-    },
-    {
-      "added_at": "2023-04-17 16:05:42",
-      "album": {
-        "name": "The Ringmaster",
-        "url": "https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 180842,
-      "name": "Baian\u00e1",
-      "url": "https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE"
     },
     {
       "added_at": "2023-04-17 16:05:42",
@@ -751,6 +751,22 @@
       "duration_ms": 234374,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
+    },
+    {
+      "added_at": "2023-04-17 16:05:42",
+      "album": {
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
     },
     {
       "added_at": "2023-04-17 16:05:42",
@@ -859,22 +875,6 @@
       "duration_ms": 214687,
       "name": "Out The Fire (At The Hotel) - Radio Edit",
       "url": "https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT"
-    },
-    {
-      "added_at": "2023-04-17 16:05:42",
-      "album": {
-        "name": "Enjoy Your Life",
-        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 240053,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
     },
     {
       "added_at": "2023-04-17 16:05:42",

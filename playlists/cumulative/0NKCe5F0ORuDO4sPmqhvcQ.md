@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-434 songs - 1 day 0 hr 22 min
+435 songs - 1 day 0 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Over the Sun](https://open.spotify.com/track/6zqcYS3RD9SPG9I6u2n4DD) | [Manic Focus](https://open.spotify.com/artist/2xx0ChFyXa0a4S48GAXFUz) | [Over the Sun](https://open.spotify.com/album/3mS2aEDIWw9Fr15ljWJdQT) | 3:09 | 2023-02-03 | 2023-04-01 |
 | [Parallel Heartbreak](https://open.spotify.com/track/5zGOmNgWKgfzn9YcGsNQFx) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Parallel Heartbreak](https://open.spotify.com/album/26lf8BWfm91Z4fI0NM1uTd) | 3:22 | 2022-01-18 | 2022-02-05 |
 | [PCH \(Pretty Cold Heart\) \- Owen Jackson Remix](https://open.spotify.com/track/6ERM3XDlUMaSH7JpJSOkZI) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP), [Owen Jackson](https://open.spotify.com/artist/3XXJdZeiZdrrzj5oRq9SVD) | [Heartbreak County, Vol\. 2 \(Remix Pack\)](https://open.spotify.com/album/5J5GdWxNopj6y7Sf4iIqDA) | 3:41 | 2022-12-31 |  |
+| [Phoenix](https://open.spotify.com/track/70V8LBQ8v5PlyYf5itw3ye) | [MarMar](https://open.spotify.com/artist/1329gf1qT2Yhh6vh8PJ5Xr) | [Phoenix](https://open.spotify.com/album/1mHvPJ7RAPcIitGgrq31Kc) | 2:05 | 2023-04-19 |  |
 | [Pick Yourself Up](https://open.spotify.com/track/0J8OvXFVL0pWnWlBXci8tv) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Pick Yourself Up](https://open.spotify.com/album/0zS29gsuNofvUXl7rPgB6Y) | 3:24 | 2022-07-01 | 2022-09-19 |
 | [Pick Yourself Up](https://open.spotify.com/track/5WAfhCNc93VIUOCQ2hrVcn) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Like I Used To](https://open.spotify.com/album/7EXcj1UAHyOotIw8GSziCp) | 3:24 | 2022-07-25 | 2022-09-19 |
 | [pieces](https://open.spotify.com/track/5lIOCSamrX9G9BieD9tDl8) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [pieces](https://open.spotify.com/album/052yq9mMuoKXsIQKKk0zzp) | 2:28 | 2022-02-28 | 2022-03-31 |

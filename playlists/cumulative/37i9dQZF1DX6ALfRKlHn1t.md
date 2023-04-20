@@ -4,7 +4,7 @@
 
 > the soundtrack for your vitamin d fix.
 
-229 songs - 13 hr 4 min
+230 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Fly](https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Floored](https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic) | 4:04 | 2021-03-24 | 2023-03-15 |
 | [FUNERAL GREY](https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FUNERAL GREY](https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld) | 2:44 | 2022-06-17 | 2023-02-01 |
 | [FUNERAL GREY](https://open.spotify.com/track/4ORdQW5NLKO3b0RUeBMIrs) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:44 | 2022-10-07 | 2023-04-17 |
+| [FUNERAL GREY](https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:44 | 2023-03-14 |  |
 | [Girlfriend](https://open.spotify.com/track/0xeW4sis1G7eWOVgSVCnOo) | [Mikey Mike](https://open.spotify.com/artist/03TisRLz25RdilInRpqMZj) | [Girlfriend](https://open.spotify.com/album/2uGa7gKhYd9DKrRD1pbnZu) | 4:16 | 2022-02-04 | 2022-07-29 |
 | [Girls Make Me Wanna Die](https://open.spotify.com/track/6rBrGzyNGJt6Z4NMzW1nMA) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Girls Make Me Wanna Die](https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl) | 2:15 | 2022-06-24 | 2023-03-15 |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-03-14 |  |
@@ -152,7 +153,7 @@
 | [OUT OF MY MIND](https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [OUT OF MY MIND](https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G) | 2:40 | 2023-03-14 |  |
 | [Oxygen](https://open.spotify.com/track/3YbtjYddK11NTDdUpC4nGp) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Dirty Heads](https://open.spotify.com/album/2yt8pr76AIWu3ohmnZKNcd) | 3:45 | 2022-06-24 | 2023-03-15 |
 | [Oxygen](https://open.spotify.com/track/12Em8Gzpi3B1n5I8YNLLUD) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Dirty Heads](https://open.spotify.com/album/6vnPDo0quTAZdcIluGcXuZ) | 3:45 | 2021-03-24 | 2022-07-25 |
-| [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK), [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc) | 3:47 | 2021-06-25 |  |
+| [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13) | [The Hip Abduction](https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK), [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Pacific Coast Highway \(with Trevor Hall\)](https://open.spotify.com/album/2KzhabL9zxpSnPL6cq00Nc) | 3:47 | 2021-06-25 | 2023-04-20 |
 | [Painting \(Masterpiece\)](https://open.spotify.com/track/7kmSIKAk4VHP4QUjpBPbGg) | [Lewis Del Mar](https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR) | [Painting \(Masterpiece\)](https://open.spotify.com/album/7jMTaMVtCLUU0jFtASijhC) | 4:03 | 2021-03-24 | 2022-11-13 |
 | [Palm Reader](https://open.spotify.com/track/5LtrJHnBO57EoVHsLR6xR8) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Palm Reader](https://open.spotify.com/album/0QdTN7cbQCSTyzZqLQubCI) | 3:00 | 2021-04-19 | 2023-03-15 |
 | [Peachy](https://open.spotify.com/track/176zLXcj1PiFN7DATpBT1j) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Apocalypse Whenever](https://open.spotify.com/album/0d56QBHMTuBgehoYAZ2s25) | 3:22 | 2022-06-24 | 2023-03-15 |

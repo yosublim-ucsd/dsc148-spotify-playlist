@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-665 songs - 1 day 4 hr 37 min
+665 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,7 +525,7 @@
 | [Slow Sorrow](https://open.spotify.com/track/5rJVqzACUYjXwLqA4sAbib) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Slow Sorrow](https://open.spotify.com/album/1EGFcI9mmUc9KmorkNZyGx) | 2:04 | 2021-12-13 | 2022-10-25 |
 | [Slowly](https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Slowly](https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD) | 3:16 | 2022-03-17 |  |
 | [So No Regrets](https://open.spotify.com/track/4SnS6XcwucVNuXw44juFEY) | [Willow J\. Wilson](https://open.spotify.com/artist/5V2XzGtcdmXM5QZq2wnH0T) | [So No Regrets](https://open.spotify.com/album/1MaXPoxg7JrhcLwHX76Shn) | 2:14 | 2021-12-13 | 2022-07-22 |
-| [So Ro Lilleman](https://open.spotify.com/track/27vBoR2y5SuRtV2YgvgtS0) | [Sofia Runmon](https://open.spotify.com/artist/6d1sDvwkZD0AznrXcFgDUu) | [So Ro Lilleman](https://open.spotify.com/album/5a3noPVZow8nIbmZETSgNY) | 1:41 | 2023-04-17 |  |
+| [So Ro Lilleman](https://open.spotify.com/track/27vBoR2y5SuRtV2YgvgtS0) | [Sofia Runmon](https://open.spotify.com/artist/6d1sDvwkZD0AznrXcFgDUu) | [So Ro Lilleman](https://open.spotify.com/album/5a3noPVZow8nIbmZETSgNY) | 1:34 | 2023-04-17 |  |
 | [Soft Sunrays](https://open.spotify.com/track/0fXkY4lEHbkyWfDmN4KdOp) | [Peter J\. Malmsjö](https://open.spotify.com/artist/3SqescE77B2HKIjgyF9c0x) | [Soft Sunrays](https://open.spotify.com/album/3mdV0E9SbexYG03haMWL4r) | 5:45 | 2022-12-21 | 2023-02-01 |
 | [Softly](https://open.spotify.com/track/1PW5iY60ZqzBqU5OXpiX4N) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Softly](https://open.spotify.com/album/7ojzrIb4RuVzcUJilEbKgr) | 2:24 | 2021-12-13 | 2022-05-27 |
 | [Sol](https://open.spotify.com/track/5Jw3aIOOV0k4xgIELSIz7C) | [June Allen](https://open.spotify.com/artist/6euKOo2L9Z7YcUbw682sfJ) | [Memento Vivere](https://open.spotify.com/album/3hlMxDhwvTsfqw6wMi2VVE) | 2:15 | 2021-12-13 | 2022-10-25 |

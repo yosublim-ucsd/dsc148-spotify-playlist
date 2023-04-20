@@ -731,6 +731,28 @@
     },
     {
       "album": {
+        "name": "Akhro Noor",
+        "url": "https://open.spotify.com/album/7gdZgKqTsgJLaY3DwmJaU7"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Husayn",
+          "url": "https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146571,
+      "name": "Blanco",
+      "url": "https://open.spotify.com/track/6Uig1yLkQkBZoHGDyZrTzm"
+    },
+    {
+      "album": {
         "name": "Btaaref Shuur",
         "url": "https://open.spotify.com/album/1Ztk0OR6YwkmsTTnVubzLc"
       },
@@ -2905,6 +2927,28 @@
     },
     {
       "album": {
+        "name": "Lw",
+        "url": "https://open.spotify.com/album/1zHi1zlyhdrFkM00DoDNVL"
+      },
+      "artists": [
+        {
+          "name": "Samar Tarik",
+          "url": "https://open.spotify.com/artist/4WGpAuX9toAVyVL38o5wA0"
+        },
+        {
+          "name": "El Waili",
+          "url": "https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201951,
+      "name": "Lw",
+      "url": "https://open.spotify.com/track/21pRBYqcpAHzzyrSrX2HCb"
+    },
+    {
+      "album": {
         "name": "MAAK",
         "url": "https://open.spotify.com/album/6WvD9R9JdMBN9elz1qcg9Y"
       },
@@ -3521,6 +3565,24 @@
     },
     {
       "album": {
+        "name": "Rabeh Marra",
+        "url": "https://open.spotify.com/album/27vkEvWoYEgBJr8h1TU6XG"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191952,
+      "name": "Rabeh Marra",
+      "url": "https://open.spotify.com/track/52GPNk23IUBh5AZ8Jo43xm"
+    },
+    {
+      "album": {
         "name": "Rased El Satr",
         "url": "https://open.spotify.com/album/2tkDEznir270fP93uND9k1"
       },
@@ -3818,6 +3880,24 @@
       "duration_ms": 223366,
       "name": "Taalili",
       "url": "https://open.spotify.com/track/1Ghjyo13NTn6yDyQ86bLMV"
+    },
+    {
+      "album": {
+        "name": "Tab Aoulak - Karkouba",
+        "url": "https://open.spotify.com/album/2dNRGgO2tkZiaVLOPcgDjP"
+      },
+      "artists": [
+        {
+          "name": "Muslim",
+          "url": "https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226762,
+      "name": "Tab Aoulak - Karkouba",
+      "url": "https://open.spotify.com/track/10kAWGJi58siX7qOKFt2uY"
     },
     {
       "album": {
@@ -4628,7 +4708,7 @@
       ],
       "date_added": "2021-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 178359,
       "name": "\u0628\u0631\u0627\u06a4\u0648 \u0639\u0644\u064a\u0643",
       "url": "https://open.spotify.com/track/4QtFRUFS7BVi3OHUfmt2dP"

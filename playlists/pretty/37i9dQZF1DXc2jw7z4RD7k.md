@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2jw7z4RD7k.md) - [plain]
 
 > It's giving coastal grandmother, it's giving Diane Keaton, it's giving apple pies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,342 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,537 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2jw7z4RD7k.md) - [plain]
 | 42 | [Sway](https://open.spotify.com/track/2ajUl8lBLAXOXNpG4NEPMz) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Michael Bublé](https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2) | 3:08 |
 | 43 | [Midnight Train to Georgia](https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Imagination \(Expanded Edition\)](https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP) | 4:39 |
 | 44 | [Only Time](https://open.spotify.com/track/6FLwmdmW77N1Pxb1aWsZmO) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [A Day Without Rain](https://open.spotify.com/album/2ioso1tqQ5zABQDVYyiUi5) | 3:38 |
-| 45 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
-| 46 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 |
+| 45 | [Hey Lover!](https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Cyclones and Hey Lover](https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0) | 2:42 |
+| 46 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
 | 47 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 |
 | 48 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 |
 | 49 | [Beyond the Sea](https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [That's All](https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn) | 2:52 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2jw7z4RD7k.md) - [plain]
 | 72 | [Monday, Monday \- Single Version](https://open.spotify.com/track/3EFb1qDgIqf9MegIryKtDj) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 3:28 |
 | 73 | [Quando Quando Quando](https://open.spotify.com/track/03MOcbkkoNLjP0G91iODSB) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [A Man Without Love](https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE) | 3:21 |
 | 74 | [Don't Go Breaking My Heart](https://open.spotify.com/track/5pKJtX4wBeby9qIfFhyOJj) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [To Be Continued...](https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux) | 4:31 |
-| 75 | [Everlasting Love](https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 2:33 |
+| 75 | [Love Is Letting Go \(feat\. Diane Keaton\)](https://open.spotify.com/track/5ZtOg6T7qui1IMSwGh358t) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [Diane Keaton](https://open.spotify.com/artist/1CQjZ5keNBeLYELqHd7vK7) | [Rae](https://open.spotify.com/album/129Aqm83Kqbq7E3xjW4Pww) | 2:34 |
 
-Snapshot ID: `MTY3Mjc2MjA4OCwwMDAwMDAwMDA0YzZmNGZkNDA5YWJlNTMzODhjMjk5ZTk0N2RjZDBh`
+Snapshot ID: `MTY3Mjc2MjA4OCwwMDAwMDAwMGY2YjljNzJmMzU4MzE0NzM5Mzg1YTcxMDJiYmRhYWZm`

@@ -4,7 +4,7 @@
 
 > Mode: Turnt
 
-518 songs - 1 day 1 hr 11 min
+519 songs - 1 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [Love & War](https://open.spotify.com/track/1WGmhglF1ghRiHsx4YUq86) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Love & War](https://open.spotify.com/album/720wVklJFHQgiLQuPpdCla) | 3:59 | 2021-12-17 | 2022-07-23 |
 | [Love Is Blind](https://open.spotify.com/track/0TaoUjbYZUEKK20zgy4bca) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Love Is Blind](https://open.spotify.com/album/2iYwgufcnqYehO9NXMqOdJ) | 2:37 | 2022-08-12 | 2022-09-24 |
 | [Love Myself](https://open.spotify.com/track/5GtcrxuwH0voFtHJEr951Y) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Love Myself](https://open.spotify.com/album/51pDhcH8J9rQ5UY5If9DVX) | 3:17 | 2021-11-19 | 2022-02-26 |
+| [LTW](https://open.spotify.com/track/5Z6THsfkXDJRvcBCEHonHs) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [LTW](https://open.spotify.com/album/7eGd8NyvAe5DUjUjTU20JM) | 3:02 | 2023-04-14 |  |
 | [M&M \(with Future feat\. Lil Baby\)](https://open.spotify.com/track/4rmXVKUSU0PIblRyYFZHHi) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [M&M \(with Future feat\. Lil Baby\)](https://open.spotify.com/album/1qY5LCrtZDIsh6A86N2Yo2) | 3:12 | 2021-12-17 | 2022-04-29 |
 | [M.E.M 2 Jacksonville \(feat\. SpotemGottem\)](https://open.spotify.com/track/6ajBId9czM3gf31Z6zYRaG) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [SpotemGottem](https://open.spotify.com/artist/3Y2MLcrD3ZQXRXmtn4fZQx) | [M.E.M 2 Jacksonville \(feat\. SpotemGottem\)](https://open.spotify.com/album/6yJ70eWRyimhRgIYjslTLO) | 2:01 | 2021-11-19 | 2022-03-26 |
 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 | 2022-12-16 |  |

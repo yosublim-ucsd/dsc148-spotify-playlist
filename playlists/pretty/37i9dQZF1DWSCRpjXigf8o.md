@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,881 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,888 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 55 | [Prizefighter](https://open.spotify.com/track/57ge8V32XiTBS89Hrg7x37) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Prizefighter](https://open.spotify.com/album/4apxsM5k0P357bjJptoiNx) | 2:41 |
 | 56 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
 | 57 | [Burn Down Babylon](https://open.spotify.com/track/6ZvpzgvhPocKMWLB4cNGgs) | [Jared Mattson](https://open.spotify.com/artist/1NjJTKQVaLKMTIia96FKaV) | [Peanut](https://open.spotify.com/album/0M1L4UtFZreB5vKQfQ2WXe) | 4:29 |
-| 58 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 |
+| 58 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 |
 | 59 | [Fashion](https://open.spotify.com/track/4qDHWmO7CiHNtX0Y5gk6O9) | [Bricknasty](https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd), [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Fashion](https://open.spotify.com/album/5k6RHg5QRy9E4erIcJgZiC) | 2:15 |
 | 60 | [Daysleeper](https://open.spotify.com/track/2o9ncYffotRIVOFDpUji8S) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [In Time: The Best Of R.E.M\. 1988\-2003](https://open.spotify.com/album/3UvVHQ31PhSMtI2GIS91Lz) | 3:40 |
-| 61 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 |
+| 61 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 |
 | 62 | [Hot Summer](https://open.spotify.com/track/0JFz7Zs2GwJitL4Ptr8bY5) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/61IFc4d4O5z2AReP8eI3Ay) | 2:22 |
 | 63 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 |
 | 64 | [Parody](https://open.spotify.com/track/69JmafotyJNxvKsbQbQj5v) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Parody](https://open.spotify.com/album/6L8pdjEecAuyqss3nizuOu) | 3:06 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 87 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 |
 | 88 | [ILYSB](https://open.spotify.com/track/2btKtacOXuMtC9WjcNRvAA) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [LANY](https://open.spotify.com/album/0HiwsXForePsWdIZW6EEkK) | 3:31 |
 | 89 | [Love & War in Your Twenties](https://open.spotify.com/track/3m9al81IVXLFCF4vG8Nqjw) | [Jordy Searcy](https://open.spotify.com/artist/0AV5z1x1RoOGeJWeJzziDz) | [Dark in the City](https://open.spotify.com/album/7ls3OeXqL0DtUSxVVfqLdQ) | 4:10 |
-| 90 | [Everglow \- Edit](https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everglow](https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU) | 3:47 |
-| 91 | [reckless driving](https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:09 |
+| 90 | [reckless driving](https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:09 |
+| 91 | [Everglow \- Edit](https://open.spotify.com/track/6aG68QSwv0hgNTq90I2GOE) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everglow](https://open.spotify.com/album/6LRAUvjNMdUieHc8RcpHQU) | 3:47 |
 | 92 | [Beauty and the Beast](https://open.spotify.com/track/7wMPhUSe6CZga1vOMpLTJP) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Beauty and the Beast \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc) | 3:47 |
 | 93 | [Boyhood](https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Boyhood](https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n) | 3:09 |
 | 94 | [Carry Me Away](https://open.spotify.com/track/4Szq4dulKN9bOvLRW6uMdZ) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 2:39 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSCRpjXigf8o.md) - [plain]
 | 97 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 |
 | 98 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 |
 | 99 | [Amelie](https://open.spotify.com/track/6ILk4BRILPT1sx3cVNH9ib) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:19 |
-| 100 | [a little more time](https://open.spotify.com/track/5UhZyWfrSEhGYfIIFNYscF) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [a little more time](https://open.spotify.com/album/7GRsfBAEdhJTdcwoqTXedi) | 3:30 |
+| 100 | [Walked Through Hell](https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Walked Through Hell](https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i) | 3:36 |
 
-Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMDZmOGMwYzNlMDQ3YmM0YzI3NWU1YzE2ZTY2NDVmYjli`
+Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMGNlM2VjMzk5YmQ5MTJmODA1M2EzNzFiNjcwOTBhODQw`

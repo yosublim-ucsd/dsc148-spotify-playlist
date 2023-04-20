@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 64th GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,793 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,790 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 70 | [In His Arms](https://open.spotify.com/track/3UAPebwkTgNpfZ6XUdHmzg) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 2:39 |
 | 71 | [Harmonia's Dream](https://open.spotify.com/track/4Qzx5fRypU4q1wEaYwHpnr) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [I Don’t Live Here Anymore](https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB) | 6:26 |
 | 72 | [When I Pray](https://open.spotify.com/track/6cwhJE7pYWON7vv9kwVvEt) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [When I Pray](https://open.spotify.com/album/1bxHNtHkMIs2P3vGy1QVcl) | 3:41 |
-| 73 | [Live Forever](https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Live Forever](https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf) | 3:00 |
-| 74 | [Crooked Tree](https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:52 |
+| 73 | [Crooked Tree](https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:52 |
+| 74 | [Live Forever](https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Live Forever](https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf) | 3:00 |
 | 75 | [God Really Loves Us \- Radio Version](https://open.spotify.com/track/1MUvduWBFLja3z8Itooyf3) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV) | [God Really Loves Us \(Radio Version\)](https://open.spotify.com/album/3oHa5uSjT3eLuD4eSPclDR) | 4:21 |
 
-Snapshot ID: `MTY3NTczNDQ0MCwwMDAwMDAwMDkzYzNiMjNlNGQ1OTUyYmQzZjg3OTk5Yzg0YzMwOWNi`
+Snapshot ID: `MTY3NTczNDQ0MCwwMDAwMDAwMDVjZGVjNzQ4ZTJlOTQ4YTY1MWYxYzk1MDlhZmRiZjBi`

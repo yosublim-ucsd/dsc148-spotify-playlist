@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-543 songs - 2 day 3 hr 1 min
+544 songs - 2 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Archetype Arcadian](https://open.spotify.com/track/4pmjxHfFxfJeXh2XdkXm8s) | [Link](https://open.spotify.com/artist/0R5oB9foCWAcICIWJBcCS4) | [The Theory of Evolution](https://open.spotify.com/album/7Ackor6DkpwV3p4y7oVtma) | 4:36 | 2022-04-13 | 2022-07-27 |
 | [As Worldly Pleasures Wave Goodbye….](https://open.spotify.com/track/06Wawsa8T4RYApPQ1Hs8kP) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Stay Down](https://open.spotify.com/album/6UUJq06fTAr9H7xLiE1VFS) | 5:37 | 2022-04-13 |  |
 | [As Worldly Pleasures Wave Goodbye….](https://open.spotify.com/track/4zbvzcIA4eay0nmOPbh3Ie) | [Two Lone Swordsmen](https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8) | [Stay Down](https://open.spotify.com/album/47MAHFdX4iwu0pYo7VRDWO) | 5:37 | 2022-04-13 | 2023-02-03 |
-| [Ausland](https://open.spotify.com/track/5kvTLh8mq7wvJagpebHWpv) | [Gimmik](https://open.spotify.com/artist/3FJQ5pXR8QMsR9zzzLk09T) | [Rythmus der stadt](https://open.spotify.com/album/0EuEenMR5E3l1XNXjZZEAL) | 4:57 | 2022-04-13 | 2023-04-19 |
+| [Ausland](https://open.spotify.com/track/5kvTLh8mq7wvJagpebHWpv) | [Gimmik](https://open.spotify.com/artist/3FJQ5pXR8QMsR9zzzLk09T) | [Rythmus der stadt](https://open.spotify.com/album/0EuEenMR5E3l1XNXjZZEAL) | 4:57 | 2022-04-13 |  |
 | [Auto Pimp](https://open.spotify.com/track/1skSNwcAgE7R2cLWAHhuSH) | [Amorphous Androgynous](https://open.spotify.com/artist/1edIQYI7l4FMeYwq6fNAZQ) | [Tales Of Ephidrina](https://open.spotify.com/album/4SNliyiumphhCLF7mPnAaJ) | 7:20 | 2022-04-13 | 2023-02-11 |
 | [Back Into Time](https://open.spotify.com/track/5ivAHEDlmAzlf8dpP3ahYx) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [A Word Of Science](https://open.spotify.com/album/1EouHA01DrBfKSqQAIWVA9) | 4:39 | 2022-04-13 | 2022-07-29 |
 | [Bad Means Good](https://open.spotify.com/track/3KTvWdWeYYh9S82FJZA0o2) | [Clatterbox](https://open.spotify.com/artist/03Pkv50pMB8ZendhJtTdgH) | [Debut](https://open.spotify.com/album/4rZMoMR4RA5CFWdwAYbDMo) | 2:24 | 2022-04-13 |  |
@@ -105,7 +105,7 @@
 | [Crisps](https://open.spotify.com/track/2svAObqaVuiiAFhkLhK28n) | [Wishmountain](https://open.spotify.com/artist/3OTxAJPE5mwEIB3zRujYcW) | [Wishmountain Is Dead](https://open.spotify.com/album/3ur1k6eVDcfVFPmCRk99Sg) | 3:42 | 2022-04-13 | 2022-07-28 |
 | [Crisps](https://open.spotify.com/track/2gw8zczXVPoJcaod6jtEEH) | [Wishmountain](https://open.spotify.com/artist/3OTxAJPE5mwEIB3zRujYcW), [Matthew Herbert](https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp) | [Wishmountain Is Dead](https://open.spotify.com/album/6hfzDAdNLZ24QE3xDi9FM1) | 3:42 | 2022-04-13 | 2022-11-09 |
 | [Crystel](https://open.spotify.com/track/2rhy8BNOlmZAXtdw0Mmyic) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Artificial Intelligence](https://open.spotify.com/album/34aK04FrYZGC4SMS3WEPIi) | 4:37 | 2022-04-13 | 2023-02-02 |
-| [Currents \(220v Offshore\)](https://open.spotify.com/track/6zLlgYu7XKtDuOpVHRCyUp) | [Phonem](https://open.spotify.com/artist/7pjUq7YNrqJ4uZxHxsC3kR) | [Hydro Electric](https://open.spotify.com/album/1pVSeZjL46FibWZuOSM2XC) | 6:48 | 2022-04-13 |  |
+| [Currents \(220v Offshore\)](https://open.spotify.com/track/6zLlgYu7XKtDuOpVHRCyUp) | [Phonem](https://open.spotify.com/artist/7pjUq7YNrqJ4uZxHxsC3kR) | [Hydro Electric](https://open.spotify.com/album/1pVSeZjL46FibWZuOSM2XC) | 6:48 | 2022-04-13 | 2023-04-20 |
 | [Cyclic Sun](https://open.spotify.com/track/3SuQSBZYRzwzmKJgP3bUK1) | [Africa HiTech](https://open.spotify.com/artist/0NwdePm5jeQAtYt7dyFVEu) | [93 Million Miles](https://open.spotify.com/album/2eU2JKfw6eLmOuClVCpTe5) | 4:42 | 2022-04-13 | 2022-07-29 |
 | [Dancers](https://open.spotify.com/track/258BvHGOVi8YbchiORbR52) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Polymer](https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA) | 5:00 | 2022-04-13 |  |
 | [Dancers](https://open.spotify.com/track/7bK8aDZrDPmvMHjMve0u6B) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Polymer](https://open.spotify.com/album/5QuV9YWaHQVSQZekh3VMe3) | 5:00 | 2022-04-13 | 2023-02-02 |
@@ -135,7 +135,7 @@
 | [Don't Sweat the Technics](https://open.spotify.com/track/1xP8JxQnYng93Th2vPVuYR) | [Kid606](https://open.spotify.com/artist/7kDf1ziRxPFtWbbZB1XmrM) | [Kid606 And Friends Vol\. 1](https://open.spotify.com/album/648Jyjny8w5VWce67jjXOn) | 4:22 | 2022-04-13 | 2022-07-17 |
 | [Donkey Kong](https://open.spotify.com/track/0Eo8jiujfOBvAES1coR2DY) | [Cabbageboy](https://open.spotify.com/artist/3MyeAtgxZyE5AhlOizEhTM) | [Genetically Modified](https://open.spotify.com/album/3z313BNL4iNR9aTstW50tg) | 5:15 | 2022-04-13 | 2022-07-21 |
 | [Donkey Rhubarb](https://open.spotify.com/track/0c0PhGTdl4K1SRWu0kYkBh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Donkey Rhubarb](https://open.spotify.com/album/77fmfTc0wlIOPUvmvd6X6i) | 6:08 | 2022-04-13 | 2022-07-29 |
-| [Dreamland](https://open.spotify.com/track/7hUBknXQ5Z9kbIaKmxf59P) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [More Songs About Food and Revolutionary Art](https://open.spotify.com/album/1bGa8EVZerZTbJUo5dMbuU) | 6:05 | 2022-04-13 |  |
+| [Dreamland](https://open.spotify.com/track/7hUBknXQ5Z9kbIaKmxf59P) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [More Songs About Food and Revolutionary Art](https://open.spotify.com/album/1bGa8EVZerZTbJUo5dMbuU) | 6:05 | 2022-04-13 | 2023-04-20 |
 | [Dreamland](https://open.spotify.com/track/6l1LzWzwHjlHV385A0Ihaf) | [Carl Craig](https://open.spotify.com/artist/0e1xN832756AiKLVqLEKns) | [More Songs About Food and Revolutionary Art](https://open.spotify.com/album/4IucsuxCKYYbKFGv4BDRrr) | 6:07 | 2022-04-13 | 2022-07-26 |
 | [Drip](https://open.spotify.com/track/5ZFslOkcftI1FCs88L99qn) | [Lukid](https://open.spotify.com/artist/3a2bPqijV6I1SBKKK9ikMg) | [Drip](https://open.spotify.com/album/45Tt8vVolyhmc1IeLxwmMn) | 6:40 | 2022-04-13 | 2023-02-02 |
 | [Drip](https://open.spotify.com/track/7zTwSgCXNNX3eIKojnKzWF) | [Lukid](https://open.spotify.com/artist/3a2bPqijV6I1SBKKK9ikMg) | [Drip](https://open.spotify.com/album/3LJ2OqIoqveqxgtV4p4iom) | 6:40 | 2022-04-13 |  |
@@ -169,6 +169,7 @@
 | [Foid](https://open.spotify.com/track/68SC3wbUmT18mVXLOu0RIc) | [Cylob](https://open.spotify.com/artist/3rUTj1FI3FvdUHfS1nmRv5) | [Cylobian Sunset](https://open.spotify.com/album/5F9Lilx03s7pwjZzvJhaqa) | 5:30 | 2022-04-13 |  |
 | [Foil](https://open.spotify.com/track/07C2MiIIwVUEqcnwXpHO67) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/7EfhvG3RwdhzXrFlkDVxg4) | 6:04 | 2022-04-13 | 2023-02-03 |
 | [Foil](https://open.spotify.com/track/7uXRhVsCHwKVV8gYeA5CXS) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:04 | 2022-04-13 |  |
+| [Fool In Rain](https://open.spotify.com/track/5mXMmMVk6WEw3NhfQv2fyV) | [PVT](https://open.spotify.com/artist/6wG77Rz1cQYuKSoW7gaZkL) | [O Soundtrack My Heart](https://open.spotify.com/album/6PfYzzMTZIVqeWLyz6Txmm) | 3:08 | 2022-04-13 |  |
 | [Fool In Rain](https://open.spotify.com/track/6WgyKxSCFQYJFlu7ZcPv3Y) | [PVT](https://open.spotify.com/artist/6wG77Rz1cQYuKSoW7gaZkL) | [O Soundtrack My Heart](https://open.spotify.com/album/5sXVrFoNBVUrdR0lbpkbl0) | 3:08 | 2022-04-13 | 2022-07-29 |
 | [For After](https://open.spotify.com/track/3GbpiqEIrDG30tVCy8fzGL) | [Alexandroid](https://open.spotify.com/artist/4bw43S9QJtoSibzezqicmI) | [RU\. Electronic Two](https://open.spotify.com/album/3OupkRORf3783u1D9L1Wlx) | 6:28 | 2022-04-13 | 2022-07-28 |
 | [forasmuch](https://open.spotify.com/track/3YbLzOaIYJSNneevakiSTw) | [Leila](https://open.spotify.com/artist/77uSxZ20fMeBEI804UuGX8) | [U&I](https://open.spotify.com/album/1cas6voUTsc8CoBTZlcQme) | 5:17 | 2022-04-13 | 2022-07-25 |

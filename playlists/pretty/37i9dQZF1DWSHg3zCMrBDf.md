@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: <a href="https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw?si=09\-38yZkRnaCcqXriLOmwA"> Jay Bahd</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,757 likes - 80 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,802 likes - 80 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

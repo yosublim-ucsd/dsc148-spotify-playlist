@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,506 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,700 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 3 | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/track/42TtHTxWk782ZBiqyOi2d1) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Dawns \(feat\. Maggie Rogers\)](https://open.spotify.com/album/2Wpz5Xzsbr7hJg5Wb13p4m) | 4:50 |
 | 4 | [Simply The Best](https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Simply The Best](https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7) | 2:53 |
 | 5 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 |
-| 6 | [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 |
+| 6 | [Drunk On A Flight](https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 3:02 |
 | 7 | [Wicked Game](https://open.spotify.com/track/28sO7MOtRFfrUHrvdBeyfE) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6) | [Boy & Bear at Golden Retriever Studio](https://open.spotify.com/album/6RrsqCPJLgyTX5LG8UBbgr) | 4:12 |
 | 8 | [Thank You](https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Thank You](https://open.spotify.com/album/6bH8EKg9SfXOACeppfdRz4) | 3:36 |
 | 9 | [Big Black Car](https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 3:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1BeMIGX5Du.md) - [plain]
 | 79 | [Soon](https://open.spotify.com/track/18uI37pTOz9tfk3U4jB8ci) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Salt](https://open.spotify.com/album/2ALvcYeRWEyQ5CMh0OtMcY) | 3:43 |
 | 80 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 |
 
-Snapshot ID: `MTY3NDc3OTQ4NiwwMDAwMDAwMGVhZGMyYzQ5OTVlODVlNjQ3MTA0ZTQ2YWE3ODc5M2Q0`
+Snapshot ID: `MTY3NDc3OTQ4NiwwMDAwMDAwMDFiZmE0ZmRlOGM3YjMwZjIxMWNhODFjOGZlOGVhZjRj`

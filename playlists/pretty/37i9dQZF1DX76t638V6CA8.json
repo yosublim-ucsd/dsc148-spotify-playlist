@@ -1,12 +1,12 @@
 {
   "description": "Big rap for big reps. You got this.",
-  "num_followers": 1915472,
+  "num_followers": 1916283,
   "original_name": "Rap Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc5MjM3MywwMDAwMDAwMDFmNjEyZTJjYjcxMWVlZjgwMGQ2MDAzNDA3NDFhNDY3",
+  "snapshot_id": "MTY3Nzc5MjM3MywwMDAwMDAwMDhhNDMyNmY3NWUzMzA1Y2M0YTQzOWM1NDIyM2YxZjA2",
   "tracks": [
     {
       "added_at": "2023-03-02 21:26:13",
@@ -379,6 +379,26 @@
     {
       "added_at": "2023-03-02 21:26:13",
       "album": {
+        "name": "HOTEL LOBBY (Unc & Phew)",
+        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "duration_ms": 142657,
+      "name": "HOTEL LOBBY (Unc & Phew)",
+      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
+    },
+    {
+      "added_at": "2023-03-02 21:26:13",
+      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -403,26 +423,6 @@
     {
       "added_at": "2023-03-02 21:26:13",
       "album": {
-        "name": "HOTEL LOBBY (Unc & Phew)",
-        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        }
-      ],
-      "duration_ms": 142657,
-      "name": "HOTEL LOBBY (Unc & Phew)",
-      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
-    },
-    {
-      "added_at": "2023-03-02 21:26:13",
-      "album": {
         "name": "The Infamous",
         "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
       },
@@ -435,26 +435,6 @@
       "duration_ms": 325506,
       "name": "Shook Ones, Pt. II",
       "url": "https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD"
-    },
-    {
-      "added_at": "2023-03-02 21:26:13",
-      "album": {
-        "name": "Life Is Good (feat. Drake)",
-        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 237735,
-      "name": "Life Is Good (feat. Drake)",
-      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
     },
     {
       "added_at": "2023-03-02 21:26:13",
@@ -479,6 +459,26 @@
       "duration_ms": 236524,
       "name": "EVERY CHANCE I GET (feat. Lil Baby & Lil Durk)",
       "url": "https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz"
+    },
+    {
+      "added_at": "2023-03-02 21:26:13",
+      "album": {
+        "name": "Life Is Good (feat. Drake)",
+        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 237735,
+      "name": "Life Is Good (feat. Drake)",
+      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
     },
     {
       "added_at": "2023-03-02 21:26:13",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-03-02 21:26:13",
       "album": {
-        "name": "Lil Durk Presents: Loyal Bros 2",
-        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Mad Max",
-      "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
-    },
-    {
-      "added_at": "2023-03-02 21:26:13",
-      "album": {
         "name": "Ramen & OJ",
         "url": "https://open.spotify.com/album/48ahZJLcagb8VTgRAuv6WQ"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 218447,
       "name": "Ramen & OJ",
       "url": "https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J"
+    },
+    {
+      "added_at": "2023-03-02 21:26:13",
+      "album": {
+        "name": "Lil Durk Presents: Loyal Bros 2",
+        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Mad Max",
+      "url": "https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c"
     },
     {
       "added_at": "2023-03-02 21:26:13",
@@ -1547,30 +1547,6 @@
     {
       "added_at": "2023-03-02 21:26:13",
       "album": {
-        "name": "Hold That Heat (feat. Travis Scott)",
-        "url": "https://open.spotify.com/album/27rslGtWf5WEDhLlG05r12"
-      },
-      "artists": [
-        {
-          "name": "Southside",
-          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Hold That Heat (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK"
-    },
-    {
-      "added_at": "2023-03-02 21:26:13",
-      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -1591,6 +1567,30 @@
       "duration_ms": 152333,
       "name": "Ski",
       "url": "https://open.spotify.com/track/6755DFiZ7CWe2WMdTGW5C1"
+    },
+    {
+      "added_at": "2023-03-02 21:26:13",
+      "album": {
+        "name": "Hold That Heat (feat. Travis Scott)",
+        "url": "https://open.spotify.com/album/27rslGtWf5WEDhLlG05r12"
+      },
+      "artists": [
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Hold That Heat (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/6OrTKLtcF7EBayOV2QqkSK"
     },
     {
       "added_at": "2023-03-02 21:26:13",
@@ -1839,22 +1839,18 @@
     {
       "added_at": "2023-03-02 21:26:13",
       "album": {
-        "name": "See Wat I\u2019m Sayin",
-        "url": "https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R"
+        "name": "The Off-Season",
+        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
       "artists": [
         {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "CMG The Label",
-          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 146732,
-      "name": "See Wat I\u2019m Sayin",
-      "url": "https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt"
+      "duration_ms": 196946,
+      "name": "9 5 . s o u t h",
+      "url": "https://open.spotify.com/track/5R691ipUYRDYW6ehapjoj6"
     },
     {
       "added_at": "2023-03-02 21:26:13",
@@ -1875,6 +1871,26 @@
     {
       "added_at": "2023-03-02 21:26:13",
       "album": {
+        "name": "See Wat I\u2019m Sayin",
+        "url": "https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "duration_ms": 146732,
+      "name": "See Wat I\u2019m Sayin",
+      "url": "https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt"
+    },
+    {
+      "added_at": "2023-03-02 21:26:13",
+      "album": {
         "name": "Clash (feat. Stormzy)",
         "url": "https://open.spotify.com/album/58GjA2xPMQ8PjNKyddHIqP"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 251733,
       "name": "Clash (feat. Stormzy)",
       "url": "https://open.spotify.com/track/2oUwMN5VfdGX10XeQJLBBi"
-    },
-    {
-      "added_at": "2023-03-02 21:26:13",
-      "album": {
-        "name": "The Off-Season",
-        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 196946,
-      "name": "9 5 . s o u t h",
-      "url": "https://open.spotify.com/track/5R691ipUYRDYW6ehapjoj6"
     },
     {
       "added_at": "2023-03-02 21:26:13",

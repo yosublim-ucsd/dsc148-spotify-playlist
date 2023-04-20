@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 125782,
+  "num_followers": 125815,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMDA4MGI5NjZjMWNjNzY3ZmQ5OGI1N2QyN2QyNzE0ZTlk",
+  "snapshot_id": "MTY3NDE2OTIwMCwwMDAwMDAwMGU2Nzk4ZmZiYmY5NDUwMmQyYjE3NzE2OTNhYTY1MjVh",
   "tracks": [
     {
       "added_at": "2023-01-19 23:00:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Staying In",
+        "url": "https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP"
+      },
+      "artists": [
+        {
+          "name": "Diskjokke",
+          "url": "https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo"
+        }
+      ],
+      "duration_ms": 234213,
+      "name": "Staying In",
+      "url": "https://open.spotify.com/track/6gQIMENC4azncXDUOzD1YE"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "Be A Man You Ant",
         "url": "https://open.spotify.com/album/5PNdVI9kYjjyda8J7fuxig"
       },
@@ -419,34 +435,18 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Staying In",
-        "url": "https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP"
+        "name": "Transit",
+        "url": "https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54"
       },
       "artists": [
         {
-          "name": "Diskjokke",
-          "url": "https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo"
+          "name": "Third Attempt",
+          "url": "https://open.spotify.com/artist/1tsNLehJWv67iMipy0WwQR"
         }
       ],
-      "duration_ms": 234213,
-      "name": "Staying In",
-      "url": "https://open.spotify.com/track/6gQIMENC4azncXDUOzD1YE"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "CDIII",
-        "url": "https://open.spotify.com/album/7dcZZUQV9XhdaWF6fbOLhF"
-      },
-      "artists": [
-        {
-          "name": "Skateb\u00e5rd",
-          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
-        }
-      ],
-      "duration_ms": 493705,
-      "name": "Love in the Night",
-      "url": "https://open.spotify.com/track/1fRkrCgp1BFtTBUXxelmdX"
+      "duration_ms": 150870,
+      "name": "Transit - Radio Edit",
+      "url": "https://open.spotify.com/track/6xX3DLq6CqH54lcNRzCGnu"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -471,18 +471,18 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Transit",
-        "url": "https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54"
+        "name": "CDIII",
+        "url": "https://open.spotify.com/album/7dcZZUQV9XhdaWF6fbOLhF"
       },
       "artists": [
         {
-          "name": "Third Attempt",
-          "url": "https://open.spotify.com/artist/1tsNLehJWv67iMipy0WwQR"
+          "name": "Skateb\u00e5rd",
+          "url": "https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q"
         }
       ],
-      "duration_ms": 150870,
-      "name": "Transit - Radio Edit",
-      "url": "https://open.spotify.com/track/6xX3DLq6CqH54lcNRzCGnu"
+      "duration_ms": 493705,
+      "name": "Love in the Night",
+      "url": "https://open.spotify.com/track/1fRkrCgp1BFtTBUXxelmdX"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
+        "name": "Staying In",
+        "url": "https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP"
+      },
+      "artists": [
+        {
+          "name": "Diskjokke",
+          "url": "https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo"
+        }
+      ],
+      "duration_ms": 401066,
+      "name": "Flott Flyt",
+      "url": "https://open.spotify.com/track/53EEccmWk0f2AVzEn7ontY"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
         "name": "Eurodans",
         "url": "https://open.spotify.com/album/3lc2aq9bjw8sEHepfcQ7U5"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 204821,
       "name": "Like A Petal But Not Really",
       "url": "https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
-        "name": "Staying In",
-        "url": "https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP"
-      },
-      "artists": [
-        {
-          "name": "Diskjokke",
-          "url": "https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo"
-        }
-      ],
-      "duration_ms": 401066,
-      "name": "Flott Flyt",
-      "url": "https://open.spotify.com/track/53EEccmWk0f2AVzEn7ontY"
     },
     {
       "added_at": "2023-01-19 23:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-01-19 23:00:00",
       "album": {
-        "name": "Oppkok",
-        "url": "https://open.spotify.com/album/1Ez5JV6xCESNKfZlyGYLfR"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Torske",
-          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
-        }
-      ],
-      "duration_ms": 303282,
-      "name": "Nitten Nitti - Harvey's Not Normal Mix",
-      "url": "https://open.spotify.com/track/0pQ56PL4N5p5yl6L1vluwr"
-    },
-    {
-      "added_at": "2023-01-19 23:00:00",
-      "album": {
         "name": "Pax Americana",
         "url": "https://open.spotify.com/album/58JeZwpWQCpzZZeNJIlDFF"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 291018,
       "name": "HS",
       "url": "https://open.spotify.com/track/1R5dYnxQDgeceQA6mmdk9Q"
+    },
+    {
+      "added_at": "2023-01-19 23:00:00",
+      "album": {
+        "name": "Oppkok",
+        "url": "https://open.spotify.com/album/1Ez5JV6xCESNKfZlyGYLfR"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Torske",
+          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
+        }
+      ],
+      "duration_ms": 303282,
+      "name": "Nitten Nitti - Harvey's Not Normal Mix",
+      "url": "https://open.spotify.com/track/0pQ56PL4N5p5yl6L1vluwr"
     },
     {
       "added_at": "2023-01-19 23:00:00",

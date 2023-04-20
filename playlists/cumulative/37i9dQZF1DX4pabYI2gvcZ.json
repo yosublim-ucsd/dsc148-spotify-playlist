@@ -222,7 +222,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 194866,
       "name": "Devu\u00e9lveme a mi chica",
       "url": "https://open.spotify.com/track/1Wrzhfa5bNlqvsnCztz190"
@@ -382,6 +382,28 @@
       "duration_ms": 239316,
       "name": "I'm Not The Only One",
       "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
+    },
+    {
+      "album": {
+        "name": "La Bebe (Remix)",
+        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234352,
+      "name": "La Bebe - Remix",
+      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
     },
     {
       "album": {

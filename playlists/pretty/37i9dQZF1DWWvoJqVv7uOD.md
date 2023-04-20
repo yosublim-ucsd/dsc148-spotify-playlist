@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Cat Burns
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,205 likes - 82 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,914 likes - 82 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,17 +25,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 | 15 | [Little Bit More](https://open.spotify.com/track/6rG1DdPCTzGibgHliYJ4ws) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [Little Bit More](https://open.spotify.com/album/0Fb8tXgVncpgZgUeuOiDlF) | 3:00 |
 | 16 | [NO BAD DAYS \(feat\. Collett\)](https://open.spotify.com/track/5C8ySsx3AT121g24uYR823) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Collett](https://open.spotify.com/artist/6u079TgFSFrxtv8iqq0Zn9) | [BEN](https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS) | 2:53 |
 | 17 | [Confetti](https://open.spotify.com/track/0ELnNmc1vQFW3aPEzQ5zOg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti](https://open.spotify.com/album/4IvDhxrStvfyvnUy876AQY) | 3:04 |
-| 18 | [Never Be Mine](https://open.spotify.com/track/40X3bzEwiAyvjo9b9vOS5M) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Never Be Mine](https://open.spotify.com/album/7MigeuNpatBwRQB5n0CWui) | 3:42 |
-| 19 | [Forever and Ever and Always](https://open.spotify.com/track/5keXeMrCGBYXpJYQ0FFqjK) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Forever and Ever and Always](https://open.spotify.com/album/5EykK3QfILVgK3kdUQHWrM) | 2:20 |
-| 20 | [How I'm Feeling Now](https://open.spotify.com/track/5CcfIvFHULvnM0ST4nzRRN) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [How I'm Feeling Now](https://open.spotify.com/album/5Kys3ZEzHMqSbpKnyfSkqj) | 3:46 |
-| 21 | [I Don't Miss You](https://open.spotify.com/track/3q9zwhKPHiUh8zVZ4sI5qs) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [I Don't Miss You](https://open.spotify.com/album/6ozapqxYdXe9uMaMfB6UZp) | 3:37 |
-| 22 | [I Am Free](https://open.spotify.com/track/7DEyedwkIyFO5lypt3fG8T) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Am Free](https://open.spotify.com/album/0XCbwbUBWkYSJ1uqZdFYZC) | 3:50 |
-| 23 | [Gold](https://open.spotify.com/track/54eE5H6F1HhyM5L4fRLq8s) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Gold](https://open.spotify.com/album/6n7xHs8VlA2i9gXFt4DGRC) | 2:50 |
-| 24 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 |
-| 25 | [Thankful](https://open.spotify.com/track/62uRYwQ4UV7UoMpQ6hXqPj) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Thankful](https://open.spotify.com/album/7yOGwFeMaA4ucX5W0JFMKq) | 3:29 |
-| 26 | [Jaded](https://open.spotify.com/track/3AAY8YicetRPlDAkibHLiS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:05 |
-| 27 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 |
-| 28 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
+| 18 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 |
+| 19 | [Never Be Mine](https://open.spotify.com/track/40X3bzEwiAyvjo9b9vOS5M) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Never Be Mine](https://open.spotify.com/album/7MigeuNpatBwRQB5n0CWui) | 3:42 |
+| 20 | [Forever and Ever and Always](https://open.spotify.com/track/5keXeMrCGBYXpJYQ0FFqjK) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Forever and Ever and Always](https://open.spotify.com/album/5EykK3QfILVgK3kdUQHWrM) | 2:20 |
+| 21 | [How I'm Feeling Now](https://open.spotify.com/track/5CcfIvFHULvnM0ST4nzRRN) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [How I'm Feeling Now](https://open.spotify.com/album/5Kys3ZEzHMqSbpKnyfSkqj) | 3:46 |
+| 22 | [I Don't Miss You](https://open.spotify.com/track/3q9zwhKPHiUh8zVZ4sI5qs) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [I Don't Miss You](https://open.spotify.com/album/6ozapqxYdXe9uMaMfB6UZp) | 3:37 |
+| 23 | [I Am Free](https://open.spotify.com/track/7DEyedwkIyFO5lypt3fG8T) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [I Am Free](https://open.spotify.com/album/0XCbwbUBWkYSJ1uqZdFYZC) | 3:50 |
+| 24 | [Gold](https://open.spotify.com/track/54eE5H6F1HhyM5L4fRLq8s) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Gold](https://open.spotify.com/album/6n7xHs8VlA2i9gXFt4DGRC) | 2:50 |
+| 25 | [Heaven](https://open.spotify.com/track/1yHVHoz6Ny29gbbWJYVnFt) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heaven](https://open.spotify.com/album/6IbldUF7xzRJuUDEApUCS3) | 3:06 |
+| 26 | [Thankful](https://open.spotify.com/track/62uRYwQ4UV7UoMpQ6hXqPj) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Thankful](https://open.spotify.com/album/7yOGwFeMaA4ucX5W0JFMKq) | 3:29 |
+| 27 | [Jaded](https://open.spotify.com/track/3AAY8YicetRPlDAkibHLiS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:05 |
+| 28 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 |
 | 29 | [I'll Be Waiting](https://open.spotify.com/track/0JIhRhZPF5j5dx0FGqTWxy) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting \(Sad At Christmas\)](https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM) | 2:52 |
 | 30 | [missin u](https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [missin u](https://open.spotify.com/album/6ZkHlcIqV4N7cNyqNtvpNk) | 2:57 |
 | 31 | [Last Train To London](https://open.spotify.com/track/7djOJmSvxXtq0Q49iC9qsX) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 3:47 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 | 81 | [Midnight](https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Midnight](https://open.spotify.com/album/4JheIQU7B3Fb8pCld4z5iB) | 3:48 |
 | 82 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 |
 
-Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMGVmMDExMjY4ZTVmOWJlNzIzYWNkZjBhOTk2YTliOGY4`
+Snapshot ID: `MTY4MTkxOTU1NiwwMDAwMDAwMDZjZWU3ZWM5MWY2OWU4ODkxY2M3NzQ1Nzk5NGE3OGI4`

@@ -4314,10 +4314,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 157611,
       "name": "I'm So Hot",
       "url": "https://open.spotify.com/track/32jIchLR10sIVFonUcm5Gj"
+    },
+    {
+      "album": {
+        "name": "I'm So Hot",
+        "url": "https://open.spotify.com/album/48llVfPjpftk9cFWwxEtco"
+      },
+      "artists": [
+        {
+          "name": "Chrissy Chlapecka",
+          "url": "https://open.spotify.com/artist/7L5no8Dp7Y2Gk0L1JIWj9S"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157611,
+      "name": "I'm So Hot",
+      "url": "https://open.spotify.com/track/3mArEKefF5c1uEoxqCWWSX"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: BLP KOSHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,346,126 likes - 100 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,345,229 likes - 100 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

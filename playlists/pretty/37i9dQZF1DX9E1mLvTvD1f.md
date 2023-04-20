@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E1mLvTvD1f.md) - [plain]
 
 > 90s rock to fuel your ride\. Cover: The Smashing Pumpkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,777 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,119 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E1mLvTvD1f.md) - [plain]
 | 39 | [Follow You Down](https://open.spotify.com/track/6rqkwoZu5oX5hugeyiJCM8) | [Gin Blossoms](https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj) | [Congratulations I'm Sorry](https://open.spotify.com/album/3PsTJAxjU734jZSuiLHUtE) | 4:30 |
 | 40 | [She Don't Use Jelly](https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Transmissions From the Satellite Heart](https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw) | 3:42 |
 | 41 | [Everything Zen](https://open.spotify.com/track/7waRjsA2ehXv619f47lYOT) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 4:38 |
-| 42 | [Girl From Mars](https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9) | 3:30 |
-| 43 | [Saint Joe On The School Bus](https://open.spotify.com/track/1LC2Hcgf2RgEbxPHNTnzaC) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 3:20 |
+| 42 | [Saint Joe On The School Bus](https://open.spotify.com/track/1LC2Hcgf2RgEbxPHNTnzaC) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 3:20 |
+| 43 | [Girl From Mars](https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH) | [Ash](https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE) | [1977](https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9) | 3:30 |
 | 44 | [Been Caught Stealing](https://open.spotify.com/track/51Gkc1TxvyQ9K8y0pQRmQM) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Ritual De Lo Habitual](https://open.spotify.com/album/7acrrQejzV4ybWWTM8TmPf) | 3:33 |
 | 45 | [Tyler](https://open.spotify.com/track/4ti5I6Wxmj8CNpAxVHKohx) | [Toadies](https://open.spotify.com/artist/2QMMktUMtwMSwUZATX1cRO) | [Rubberneck](https://open.spotify.com/album/7tFTqVGHceSlXOaz8IylBN) | 4:13 |
 | 46 | [Into Your Arms](https://open.spotify.com/track/2Rx10OuH1VsLgvJbfJAt9M) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Come on Feel The Lemonheads](https://open.spotify.com/album/1mA5CUUztAKf53GDuypfAT) | 2:44 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9E1mLvTvD1f.md) - [plain]
 | 59 | [Tahitian Moon](https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Good God's Urge](https://open.spotify.com/album/6Sa5vHSMHnIm1m0LG82xBM) | 3:47 |
 | 60 | [High](https://open.spotify.com/track/2PmYWe7v0hJ6XJjeM2pDQp) | [Jimmie's Chicken Shack](https://open.spotify.com/artist/3jMlAtlOaQc9VDayokUmg8) | [..\. Pushing The Salmanilla Envelope](https://open.spotify.com/album/35ZPbGg3xbn3TquPkhWE5s) | 3:48 |
 
-Snapshot ID: `MTY1NjUyMDA3NSwwMDAwMDAwMDA0ZGVjODRjYzUyZGI4MjJjODE4Mzg2OGY0YTM1MTU1`
+Snapshot ID: `MTY1NjUyMDA3NSwwMDAwMDAwMDkyZGE5ZmI1NWMwODVmZjlhNzRjYjc4NDU5YjI1Mjdk`

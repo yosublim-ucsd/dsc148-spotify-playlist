@@ -2,9 +2,9 @@
 
 ### [Punjabi 101](https://open.spotify.com/playlist/37i9dQZF1DX5cZuAHLNjGz)
 
-> Ultimate 101 Punjabi Hits with Diljit Dosanjh & Gurdas Maan
+> Ultimate 101 Punjabi Hits with Sidhu Moose Wala
 
-196 songs - 10 hr 21 min
+198 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [DESIRES](https://open.spotify.com/track/5pcmtf1lwrMqmAWWm248fY) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:48 | 2022-05-29 |  |
 | [Dil Nu](https://open.spotify.com/track/7AsG1F1eMWd17RYan8M3Wm) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Two Hearts Never Break The Same](https://open.spotify.com/album/0eZKTY3yDMqMTrVvtcEokh) | 3:53 | 2022-10-07 |  |
 | [Distance Love](https://open.spotify.com/track/55nRhkhe7ckZhazYrv6ZOX) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [Distance Love](https://open.spotify.com/album/0FSTdbfd0XFtEjWK8VCjgY) | 3:30 | 2022-05-29 |  |
+| [Do You Know](https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Do You Know](https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA) | 3:31 | 2023-04-19 |  |
 | [Dream](https://open.spotify.com/track/1qbD2xTTBGif2ki4D5Po7P) | [Inder Chahal](https://open.spotify.com/artist/2ZzyxohC32i649slMn9Kgk), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Dream](https://open.spotify.com/album/7FHStROpaJ7y8BkoeGqb2n) | 3:35 | 2022-05-29 | 2022-06-21 |
 | [Drunk Arjan](https://open.spotify.com/track/71rQJuk3u0Hqjsx4Hunnjo) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jalwa](https://open.spotify.com/album/5zOoQe3sBQ6o2EUead1B3h) | 3:16 | 2022-10-17 | 2022-11-16 |
 | [Elevated](https://open.spotify.com/track/2AilvPt1AQ8PixlCKqkjfj) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Elevated](https://open.spotify.com/album/1XNS0VIWnEKteOv1fa0okk) | 3:20 | 2022-08-22 |  |
@@ -88,7 +89,7 @@
 | [Jatt Don’t Care](https://open.spotify.com/track/4xt9T7bqLoLHuHpdVAJdVd) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [BIG Ghuman](https://open.spotify.com/artist/2KQG8iJJ8SYC2wicGUZ2lG) | [Jatt Don’t Care](https://open.spotify.com/album/6mbFOxeExykR6XJLE617mk) | 3:24 | 2023-04-11 | 2023-04-14 |
 | [Jatt Flex](https://open.spotify.com/track/3b9H6i89wdDH2IKNcnXpt2) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj) | [Jatt Flex](https://open.spotify.com/album/2dhnvaPxxR2EUOtZpsWeWG) | 3:15 | 2022-05-29 | 2022-08-20 |
 | [Jatt Te Jawani](https://open.spotify.com/track/5K1qTme8mUcrIj9tEM5L5K) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Jatt Te Jawani](https://open.spotify.com/album/7hliO5qgI5W2KFYzS9JRHc) | 4:00 | 2022-05-29 |  |
-| [Jatt Tere Shehar](https://open.spotify.com/track/5IXig53kmeAlfIf4BzYiWp) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl) | [Gill Skill, Vol\. 1](https://open.spotify.com/album/6A4GxzoyK2x6rm9hGvJMUw) | 2:40 | 2023-03-17 |  |
+| [Jatt Tere Shehar](https://open.spotify.com/track/5IXig53kmeAlfIf4BzYiWp) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl) | [Gill Skill, Vol\. 1](https://open.spotify.com/album/6A4GxzoyK2x6rm9hGvJMUw) | 2:40 | 2023-03-17 | 2023-04-20 |
 | [Jatta](https://open.spotify.com/track/11lHthXPloRp8YMBx69ite) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [8 Chances](https://open.spotify.com/album/29MhBXO988c8iFL7TZK17R) | 3:09 | 2022-05-29 | 2022-07-16 |
 | [Jawani](https://open.spotify.com/track/1WOz8NwADXFxRADQFVftxp) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jawani](https://open.spotify.com/album/2JFhgDiyzo3bM2EEWedu6X) | 2:31 | 2022-05-29 |  |
 | [Jealousy \(feat\. Gurlez Akhtar\)](https://open.spotify.com/track/0GnqC8ZVxrZPULa5EQGWbW) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Way Maker](https://open.spotify.com/album/3LgutfrQ1qA1wt09i9JpB0) | 3:14 | 2022-05-29 |  |
@@ -107,7 +108,7 @@
 | [Lover](https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:10 | 2022-05-29 |  |
 | [Luna](https://open.spotify.com/track/1Hy2ZRkFGC3P47r6lDX2sy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:06 | 2022-05-29 | 2022-12-01 |
 | [Ma Belle](https://open.spotify.com/track/3D0pmiK3zyF9PudyJ8mkor) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Amari](https://open.spotify.com/artist/6833GgqHOy9y9Dqnsxko1u) | [Ma Belle](https://open.spotify.com/album/0q6ZMd3ScXa3Uql600gmcA) | 2:40 | 2022-05-29 |  |
-| [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 | 2023-03-18 |  |
+| [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 | 2023-03-18 | 2023-04-20 |
 | [Majha Block](https://open.spotify.com/track/3CPvL9ehmERejt7b5RvVAY) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Majha Block](https://open.spotify.com/album/284tuekFOZ6066Schm1gE7) | 4:09 | 2022-05-29 | 2022-06-03 |
 | [Majhail](https://open.spotify.com/track/0cpyy8xLYRt1OdlnqPmMnm) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Majhail](https://open.spotify.com/album/3l9zX9nHVRjYLbx5ya77ha) | 2:55 | 2022-05-29 |  |
 | [MAJHE AALE](https://open.spotify.com/track/5eN1nmOe9R29OBL6soTJov) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:50 | 2022-05-29 |  |
@@ -124,6 +125,7 @@
 | [Nakhre](https://open.spotify.com/track/0hqCAsa7naJaaF7F680i5Q) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Nakhre](https://open.spotify.com/album/0HtBqzjXxKaw9RxJYjR9gi) | 3:20 | 2022-07-13 | 2022-08-18 |
 | [Nasha \(Equals Sessions\)](https://open.spotify.com/track/1rDjwexewf4hrdZT7SRNsH) | [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL), [Amar Jalal](https://open.spotify.com/artist/2zZ39d8KJqwu7TkF4dEh03) | [Nasha \(Equals Sessions\) \- Single](https://open.spotify.com/album/0DCY52sgebqixheOPwwasZ) | 4:47 | 2022-11-15 | 2023-02-05 |
 | [Navi Navi Yaari](https://open.spotify.com/track/39pjjDG9o44eDjkM4BPdiG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:35 | 2022-05-29 | 2022-11-26 |
+| [Night Out](https://open.spotify.com/track/5sGk41Let4ruIs6WkyarR7) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Night Out](https://open.spotify.com/album/5e4ruihGyeoAFtNzPA9Y1W) | 3:07 | 2023-04-19 |  |
 | [No Competition](https://open.spotify.com/track/1TRgZ55GFCKSbrTb62rmra) | [Jass Manak](https://open.spotify.com/artist/2P9JaCtpbQSuZOgvtPrUJ8), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [No Competition](https://open.spotify.com/album/68t62rh4vZdIErvhqQG4kq) | 3:25 | 2022-05-29 | 2023-03-19 |
 | [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2022-08-22 |  |
 | [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 | 2022-06-09 | 2022-09-04 |

@@ -4,7 +4,7 @@
 
 > Si la salsa se cruza con la chamba..\. ¡súbele a la bocina!
 
-184 songs - 14 hr 43 min
+185 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,8 @@
 | [Un Sueño Y Nada Mas](https://open.spotify.com/track/2bVisOYbfWI29XxWEdTKSX) | [Grupo Polo Montañes](https://open.spotify.com/artist/3qI8efQwFJlPuiOcBIdbWC) | [Un Sueño Y Nada Más](https://open.spotify.com/album/0Be08NMtq8dwdVqLCHJoZ0) | 4:38 | 2022-08-02 |  |
 | [Ven Devórame Otra Vez](https://open.spotify.com/track/7yM4UpoZQfOHcBSiUNSoIt) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Rumba y Salsa](https://open.spotify.com/album/78WM88T2XCWUKhmeyqIOdF) | 5:14 | 2022-08-02 |  |
 | [Vete Ya](https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 4:53 | 2022-08-02 |  |
-| [Virgen](https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Más Que Nunca](https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk) | 4:31 | 2022-08-02 |  |
+| [Virgen](https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Más Que Nunca](https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk) | 4:31 | 2022-08-02 | 2023-04-20 |
+| [Virgen](https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [La Historia..\. Los Éxitos](https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ) | 4:33 | 2022-08-02 |  |
 | [Y Qué Me Pasa](https://open.spotify.com/track/3h00Mu0HcUdCNaxxNoWB3B) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Y Qué Me Pasa](https://open.spotify.com/album/7y91WmADTOR396FZe5KJGn) | 5:05 | 2022-08-02 | 2022-09-25 |
 | [Y Qué Me Pasa \- Salsa](https://open.spotify.com/track/3OXeVpFbzJVZpOtXItrTyN) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Lucharé](https://open.spotify.com/album/6D1EQ3P1Rma06b68UPZCNe) | 5:03 | 2022-08-02 | 2022-10-04 |
 | [Y Qué Me Pasa \- Salsa](https://open.spotify.com/track/7E6LWDOm7duh7iXF3is22H) | [Mickey Taveras](https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm) | [Lucharé](https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4) | 5:03 | 2022-08-02 |  |

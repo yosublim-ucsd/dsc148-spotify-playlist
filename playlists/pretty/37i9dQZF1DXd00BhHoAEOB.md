@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 
 > Planta de la bugambilia que me cubres y me matas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,671 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,735 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,12 +73,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 63 | [Carta](https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:24 |
 | 64 | [Sabor a Mi](https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sandunga](https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3) | 4:20 |
 | 65 | [Cien Años](https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 3:25 |
-| 66 | [Ni una Gota de Amor](https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Aguerrida](https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6) | 2:31 |
-| 67 | [Ódiame](https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo) | [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb), [Michelle Rodriguez](https://open.spotify.com/artist/2OhJipX1VIY7Dyba4uGvWb) | [Ódiame](https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt) | 3:13 |
+| 66 | [Ódiame](https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo) | [Flor Amargo](https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb), [Michelle Rodriguez](https://open.spotify.com/artist/2OhJipX1VIY7Dyba4uGvWb) | [Ódiame](https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt) | 3:13 |
+| 67 | [Ni una Gota de Amor](https://open.spotify.com/track/0eYmT4lH19Aqi3tnVrsLG0) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Aguerrida](https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6) | 2:31 |
 | 68 | [Tu Amor No Vale un Bolero](https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv) | [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva), [Lorena Jimenez](https://open.spotify.com/artist/4DdnLfUESB3baPYYdT0sNu) | [Tu Amor No Vale un Bolero](https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ) | 3:26 |
 | 69 | [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/2l2J1WVVzKRToOm0R2lhZ9) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Se Me Va A Quemar El Corazón](https://open.spotify.com/album/3GCJk2I7oqa1WTKtaGv9ya) | 3:58 |
-| 70 | [¿Y Cómo?](https://open.spotify.com/track/0VZ2en9UGr6NgVUyOkAUdO) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [¿Y Cómo?](https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT) | 3:32 |
-| 71 | [La Flor De La Canela](https://open.spotify.com/track/1uNBXMLgAC1mx1KH7reIG5) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y), [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Ciudadana del Mundo Volumen 1](https://open.spotify.com/album/2vhg2TUJPxODrZhLwtp8bR) | 3:22 |
+| 70 | [La Flor De La Canela](https://open.spotify.com/track/1uNBXMLgAC1mx1KH7reIG5) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y), [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Ciudadana del Mundo Volumen 1](https://open.spotify.com/album/2vhg2TUJPxODrZhLwtp8bR) | 3:22 |
+| 71 | [¿Y Cómo?](https://open.spotify.com/track/0VZ2en9UGr6NgVUyOkAUdO) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [¿Y Cómo?](https://open.spotify.com/album/4xSBOP3G0xHYGEOCPaUwoT) | 3:32 |
 | 72 | [Colmena](https://open.spotify.com/track/3qE7rUCJAOIpPfIoxb9Iaz) | [Ely Guerra](https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ) | [Hombre Invisible](https://open.spotify.com/album/7tIMzYdVO2381QcZMethuL) | 4:54 |
 | 73 | [El Andariego](https://open.spotify.com/track/5fST6UaXX0HZb6vw2Wkuk5) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Cuatro Copas Bohemia En La Finca Altozano \(Parte 1\)](https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23) | 3:17 |
 | 74 | [Vuelas Tan Lindo](https://open.spotify.com/track/4Bq8JO07RD7i1QxDcfzfXS) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [Vuelas Tan Lindo](https://open.spotify.com/album/7CnNO6AZJLshH040ljxn66) | 2:38 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 82 | [Chéni \(Miedo\)](https://open.spotify.com/track/4spSLPqeKzT5oXPJBTetZt) | [La Bruja de Texcoco](https://open.spotify.com/artist/7gnuQGVeNQv0QTjZ5QLHpu) | [Chéni \(Miedo\)](https://open.spotify.com/album/4flHvkwECB2pulBoyc9DJA) | 3:48 |
 | 83 | [Sauce](https://open.spotify.com/track/0HSJcMdGPoPJ0X8fJ5tEM8) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [Sauce](https://open.spotify.com/album/0J3ZUsihPAvYKEzuOhoVF7) | 2:48 |
 | 84 | [Noche Fría](https://open.spotify.com/track/45Q2gf2HToBlmhX4eeLMNy) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Noche Fría](https://open.spotify.com/album/3izNSTBUp5gbNSU8bFZYGx) | 3:09 |
-| 85 | [La Copa Rota](https://open.spotify.com/track/0OdHeU4ck2ix2R8NeOAe7r) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Cuatro Copas Bohemia En La Finca Altozano \(Parte 1\)](https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23) | 3:08 |
-| 86 | [Caras Lindas](https://open.spotify.com/track/2sh3LZ6VPJSIUUuhbx3P9I) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS) | 4:58 |
+| 85 | [Caras Lindas](https://open.spotify.com/track/2sh3LZ6VPJSIUUuhbx3P9I) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS) | 4:58 |
+| 86 | [La Copa Rota](https://open.spotify.com/track/0OdHeU4ck2ix2R8NeOAe7r) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [Cuatro Copas Bohemia En La Finca Altozano \(Parte 1\)](https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23) | 3:08 |
 | 87 | [Sabor a Mí \- Amuzgo](https://open.spotify.com/track/3Gdua3DERZXgZBaozvc9fb) | [Las Hermanas García](https://open.spotify.com/artist/0zZ15pVG2nScs1mtFZ2wDc), [Mariano García](https://open.spotify.com/artist/0dUOCnp5qXw0yJscm4tldc) | [Sabor a Mar](https://open.spotify.com/album/5WfWuKkIHBJqcCogIQem9v) | 3:17 |
 | 88 | [Polvo](https://open.spotify.com/track/669dmvIOFG2YfUKayX55JA) | [Mon de León](https://open.spotify.com/artist/5NejWF2yqY4C5ZWlfIGOcG) | [Polvo](https://open.spotify.com/album/3mg9Kt07tnjoAV2ZxbByXy) | 3:42 |
 | 89 | [Calathea](https://open.spotify.com/track/0eBoG9AbS66bi87PimGqZE) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Calathea](https://open.spotify.com/album/2lZm5nOEwqiy3na4CZb9kD) | 2:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 99 | [La Corriente](https://open.spotify.com/track/0nw9LTQoeiFoDFpZUkyW43) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:31 |
 | 100 | [Marchita](https://open.spotify.com/track/2ytk2n3eCn8hsM3leSVqhN) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi) | 3:46 |
 
-Snapshot ID: `MTY4MDIxMjYwNSwwMDAwMDAwMDk2MWRkMDMxMThmNTE1MzIxNThiNmVlZDM0ZmU4OThl`
+Snapshot ID: `MTY4MDIxMjYwNSwwMDAwMDAwMDU0MGRlZWMwOGRjZWVhMzJiM2NlZDA4NTM0NDU5M2Y1`

@@ -4,7 +4,7 @@
 
 > Laid back soul music.
 
-314 songs - 22 hr 15 min
+315 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Close Your Eyes](https://open.spotify.com/track/20LWQNq7yaMPDhkZsRCoMk) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Dream Awake](https://open.spotify.com/album/0dwlqqTeFovdI0oMN4dfYQ) | 3:23 | 2022-05-11 | 2022-09-09 |
 | [Come Over](https://open.spotify.com/track/4Jsqi44IrfUjdigUfZiaqr) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Homegrown](https://open.spotify.com/album/6D701PBk88ecP19udi4EJj) | 3:42 | 2022-01-03 | 2022-11-13 |
 | [Come Share My Love](https://open.spotify.com/track/2tEifcUedZAkWUnRB1O4E5) | [Miki Howard](https://open.spotify.com/artist/7GTUAEg2QH41GgTmkIldjh) | [Come Share My Love](https://open.spotify.com/album/0qBTPs9JvnVolUM4zvAoCf) | 4:50 | 2022-01-05 |  |
-| [Come To Me](https://open.spotify.com/track/0YKdx0eEYVJ18peEsgtc2p) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Songs That Made Me Feel](https://open.spotify.com/album/4HxdC77nF9ywR1s1mS4Jk7) | 3:08 | 2022-05-11 |  |
+| [Come To Me](https://open.spotify.com/track/0YKdx0eEYVJ18peEsgtc2p) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Songs That Made Me Feel](https://open.spotify.com/album/4HxdC77nF9ywR1s1mS4Jk7) | 3:08 | 2022-05-11 | 2023-04-20 |
 | [Come To Me \(with Musiq Soulchild\)](https://open.spotify.com/track/1AlkJA8QIBrlpiZtZirkIB) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Songs That Made Me Feel](https://open.spotify.com/album/33gccIRFhCKITqneWpwyVb) | 3:08 | 2022-01-03 | 2022-10-13 |
 | [Complicated \(feat\. Anthony Hamilton\) \- The Remix](https://open.spotify.com/track/4OOhy6f0Mo3XleHjTRBWYi) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Complicated \(feat\. Anthony Hamilton\) \[The Remix\]](https://open.spotify.com/album/3xPI0lL6igDc2HSeczqA9a) | 4:03 | 2022-01-20 | 2022-03-31 |
 | [Could It Be I'm Falling in Love](https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Spinners](https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg) | 4:09 | 2021-12-13 |  |
@@ -80,6 +80,7 @@
 | [Do It To Me](https://open.spotify.com/track/4tzqUn1y5GNrV0dKV9S5vC) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Back To Front](https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz) | 6:04 | 2021-12-20 | 2022-07-29 |
 | [Do Me Baby](https://open.spotify.com/track/77Fs4XIB6489MG4cpNwBms) | [Meli'sa Morgan](https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV) | [Do Me Baby](https://open.spotify.com/album/6opbkbcP5zbRBF6nPDqrFg) | 5:17 | 2022-01-03 |  |
 | [Do You Still Love Me?](https://open.spotify.com/track/05PRCV0UGxpwoopzCtp2zI) | [Meli'sa Morgan](https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV) | [Do Me Baby](https://open.spotify.com/album/6opbkbcP5zbRBF6nPDqrFg) | 5:39 | 2022-02-21 | 2022-11-13 |
+| [Don't Ask My Neighbor](https://open.spotify.com/track/7n4dZXt5wfrS3ulpSszdSp) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [Bobby Caldwell Sings Smooth Jazz Classics](https://open.spotify.com/album/2NeeTMtdKPsugLhlhNotvT) | 4:49 | 2023-02-21 |  |
 | [Don't Ask My Neighbor](https://open.spotify.com/track/55HnSyUENRJAnAGEFjwYb0) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [Soul Survivor](https://open.spotify.com/album/4b48wowrVEK5Wav4xqYUGm) | 4:50 | 2021-12-13 | 2022-07-29 |
 | [Don't Look Any Further \- Single Version](https://open.spotify.com/track/1nrIaUgk4D5gI1yqQcsu3W) | [Dennis Edwards](https://open.spotify.com/artist/15Kzh2fTgAW2AGXcGD32Kp), [Siedah Garrett](https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT) | [Gold \- '80s Soul](https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr) | 4:03 | 2021-12-20 |  |
 | [Dreamin'](https://open.spotify.com/track/3jQCcmUSBL21Z8Csp96Y9Q) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [The Right Stuff](https://open.spotify.com/album/1b5oKQBjHUURlAWHO8EZEz) | 5:26 | 2022-01-20 | 2022-11-13 |

@@ -2,7 +2,7 @@
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Artistas independientes emergentes, cada miércoles\. Foto: Paco Te Quiero.
+> Artistas independientes emergentes, cada miércoles\. Foto: MYUKO.
 
 2,083 songs - 4 day 15 hr 3 min
 
@@ -416,7 +416,7 @@
 | [Cosas](https://open.spotify.com/track/41ZarrjvIOafMNeqE1qVSH) | [Sandré](https://open.spotify.com/artist/5jO693ntO8nc5utL8HpE4H) | [Gestiones Fáciles](https://open.spotify.com/album/4HF3B06HiS1P9vb9PxdGe6) | 3:15 | 2023-01-10 | 2023-01-18 |
 | [Cosas Que No Digo](https://open.spotify.com/track/3AsGBWMifVUz37NtDN6DnH) | [Willy Riba](https://open.spotify.com/artist/1MDcNFrfMoIlCUXNvOWAiT) | [Cosas Que No Digo](https://open.spotify.com/album/0ltcqxz1WegmgPqY7ZOeFn) | 2:56 | 2023-01-24 | 2023-02-08 |
 | [Costa Abaixo](https://open.spotify.com/track/5mV0CR0lYfH1C4FZuqqXym) | [Terbutalina](https://open.spotify.com/artist/3sApRiClbyMfnz5AmwG46A) | [Costa Abaixo](https://open.spotify.com/album/37yUtjxonDDZ1s0UKxrWI1) | 2:33 | 2022-03-02 | 2022-03-09 |
-| [Costa Brava](https://open.spotify.com/track/1RY8EW1F5so5jQf6pGMUji) | [Lord Malvo](https://open.spotify.com/artist/0RpTnyHVl084J1I5V79gos) | [Costa Brava](https://open.spotify.com/album/511D2RkzYOuH1NXiH249uk) | 3:17 | 2023-04-18 |  |
+| [Costa Brava](https://open.spotify.com/track/1RY8EW1F5so5jQf6pGMUji) | [Lord Malvo](https://open.spotify.com/artist/0RpTnyHVl084J1I5V79gos) | [Costa Brava](https://open.spotify.com/album/511D2RkzYOuH1NXiH249uk) | 3:09 | 2023-04-18 |  |
 | [Costumbrismo](https://open.spotify.com/track/5iwYHpx8WdyRzc1Uyk6KKn) | [Viuda](https://open.spotify.com/artist/763tlp8iKt8a4yvH8HMVF0) | [Costumbrismo](https://open.spotify.com/album/14834gIIkRSFwLhW4Q3Dbd) | 3:13 | 2022-10-05 | 2022-10-12 |
 | [COWBOY DE L'ESPAI](https://open.spotify.com/track/7tn4SyIVe2v666qvZSkSaM) | [Joel Carro](https://open.spotify.com/artist/1pco9kBA9hyFxN4cDjtbvU), [Charlie P\. Leus](https://open.spotify.com/artist/1riuFScuVVaFDfXC99YYOY) | [COWBOY DE L'ESPAI](https://open.spotify.com/album/1CBQEOvboFyKTj9Nk8dg30) | 3:21 | 2022-07-12 | 2022-08-03 |
 | [Crece y florece](https://open.spotify.com/track/4nvsfC0OSATtI6qMG0dMeL) | [GUADA](https://open.spotify.com/artist/7DQKTS3zA63QhllsHFT2UN), [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [GUACHA](https://open.spotify.com/album/5BLXqlpjgmJ7XeBB0cQZzT) | 2:54 | 2023-03-28 | 2023-04-12 |

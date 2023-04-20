@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,802 likes - 44 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,801 likes - 44 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 32 | [The Black Rose](https://open.spotify.com/track/65bVC6KYo6AEzSBIuah9BE) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sophia Brown](https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 3:26 |
 | 33 | [Da Vinci's Demons Main Title Theme](https://open.spotify.com/track/0rIcf3rfCGyQYW5YK8udX1) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Da Vinci's Demons \(Original Television Soundtrack\)](https://open.spotify.com/album/4U25uFdBkxGiOKOVOjN95m) | 1:08 |
 | 34 | [Theme from Black Sails](https://open.spotify.com/track/5KXtl8RNG1uFrZinr6hxWh) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Black Sails \(A Starz Original Series Soundtrack\)](https://open.spotify.com/album/504RcsupcUwvcgNdQXoAtU) | 3:17 |
-| 35 | [Clementine \(feat\. Richard Rankin & Sophie Skelton\)](https://open.spotify.com/track/3bngJ81AN1cON3DgrSDcHe) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Richard Rankin](https://open.spotify.com/artist/2Vm0leCYBMDlQItrFKcxQJ), [Sophie Skelton](https://open.spotify.com/artist/3TNQm043dLYpNJSaK6BKob) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 1:45 |
+| 35 | [The New Fraser's Ridge](https://open.spotify.com/track/3LQpHBFyPRjOldl20DFUHe) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 2:57 |
 | 36 | [Valkyries](https://open.spotify.com/track/1DWCfz6WAwoESRO1NYXlqr) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 5:08 |
 | 37 | [A Plea to the Rocks](https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sophia Nomvete](https://open.spotify.com/artist/4psdBvyZ9koExsBkXNWvrW) | [The Lord of the Rings: The Rings of Power \(Season One, Episode Four: The Great Wave \- Amazon Original Series Soundtrack\)](https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno) | 3:47 |
 | 38 | [The Day Will Come](https://open.spotify.com/track/4tjeF7cfcy4q5vN1Yu7IAo) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Walking Dead \(Original Television Soundtrack\)](https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D) | 2:57 |
-| 39 | [The New Fraser's Ridge](https://open.spotify.com/track/3LQpHBFyPRjOldl20DFUHe) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 2:57 |
+| 39 | [Clementine \(feat\. Richard Rankin & Sophie Skelton\)](https://open.spotify.com/track/3bngJ81AN1cON3DgrSDcHe) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Richard Rankin](https://open.spotify.com/artist/2Vm0leCYBMDlQItrFKcxQJ), [Sophie Skelton](https://open.spotify.com/artist/3TNQm043dLYpNJSaK6BKob) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 1:45 |
 | 40 | [Echoes of an Old Life](https://open.spotify.com/track/4GhsCIi3U4SR62l5Mlga2I) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:44 |
 | 41 | [Agents of S.H.I.E.L.D\. Overture](https://open.spotify.com/track/7g5H7rvDNnb6VAaLxjCgW5) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Marvel's Agents of S.H.I.E.L.D.](https://open.spotify.com/album/0QC50e0EZ0MAYLbbbeit0M) | 2:51 |
 | 42 | [Godzilla Main Title](https://open.spotify.com/track/6EscmbDWTIP17ZgNWOqPlf) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Godzilla: King of the Monsters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6VQkLK6fJO8hFJmEF5dJz4) | 2:34 |
 | 43 | [The Summoning \(feat\. Raya Yarbrough\)](https://open.spotify.com/track/1xnNYxFwlKOkZRRrGvc9Xq) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 3:21 |
 | 44 | [The Key to Lallybroch](https://open.spotify.com/track/1zWAmJcTnSmDFdGknjMiNl) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 7:09 |
 
-Snapshot ID: `MjgwMzAzOTAsMDAwMDAwMDBkODcxZTg5ZGIwZWMxMGYxYTU5YTY5ZmRhYzdmMmZkNQ==`
+Snapshot ID: `MjgwMzE3ODMsMDAwMDAwMDAyYjRkYzJmZGNhM2M0MzNmYTZjZTRmYWU4ODY0NDFiYw==`

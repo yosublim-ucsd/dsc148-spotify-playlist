@@ -4,7 +4,7 @@
 
 > Ritmos latinos para encender la llama de la pasión.
 
-152 songs - 10 hr 20 min
+153 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [Ven Devórame Otra Vez](https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Oro Salsero](https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS) | 5:11 | 2023-02-24 | 2023-03-11 |
 | [Ven Devórame Otra Vez](https://open.spotify.com/track/5mg6sU732O35VMfCYk3lmX) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Ven Devórame Otra Vez \(Baile Total\)](https://open.spotify.com/album/59dQPzYAIAs2vdU7tP3wTh) | 5:14 | 2021-05-25 |  |
 | [Virgen](https://open.spotify.com/track/5SIoLK4aqXc2UzNrhVHwtp) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Mas Que Nunca](https://open.spotify.com/album/1r7GpzIQ7EHHsYrTRey2lV) | 4:31 | 2021-05-25 | 2022-01-22 |
-| [Virgen](https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Más Que Nunca](https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk) | 4:31 | 2022-01-21 |  |
+| [Virgen](https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Más Que Nunca](https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk) | 4:31 | 2022-01-21 | 2023-04-20 |
+| [Virgen](https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [La Historia..\. Los Éxitos](https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ) | 4:33 | 2023-03-02 |  |
 | [Volví](https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Volví](https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK) | 3:50 | 2022-06-07 |  |
 | [Vuelvo A Sentir](https://open.spotify.com/track/7mjrsSbmQfubagRLXUTVWR) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Hasta El Cielo Lloro](https://open.spotify.com/album/3G1iT3WpIqCqUOtkbVF1d6) | 5:26 | 2021-05-25 | 2022-07-29 |
 | [Vuelvo A Sentir](https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Hasta El Cielo Lloro](https://open.spotify.com/album/1EUGz53vDq644pH9x97RqT) | 5:27 | 2022-06-07 |  |

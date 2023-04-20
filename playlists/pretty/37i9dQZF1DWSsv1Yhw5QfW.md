@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsv1Yhw5QfW.md) - [plain]
 
 > Agárrense fuerte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,466 likes - 55 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,583 likes - 55 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsv1Yhw5QfW.md) - [plain]
 | 34 | [Carrie](https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 4:32 |
 | 35 | [How Am I Supposed to Live Without You](https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 4:15 |
 | 36 | [Making Love Out of Nothing at All](https://open.spotify.com/track/01MXkFA8sL7at6txavDErt) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [All Out Of Love](https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX) | 5:41 |
-| 37 | [Tears in Heaven](https://open.spotify.com/track/1kgdslQYmeTR4thk9whoRw) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Rush \(Music from the Motion Picture Soundtrack\)](https://open.spotify.com/album/5uKWy85xmgOuRrWuXr98b2) | 4:31 |
-| 38 | [Crazy](https://open.spotify.com/track/3QxKpdTB8ZSFn8MGeCCpsQ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4) | 5:16 |
+| 37 | [Crazy](https://open.spotify.com/track/3QxKpdTB8ZSFn8MGeCCpsQ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4) | 5:16 |
+| 38 | [Tears in Heaven](https://open.spotify.com/track/1kgdslQYmeTR4thk9whoRw) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Rush \(Music from the Motion Picture Soundtrack\)](https://open.spotify.com/album/5uKWy85xmgOuRrWuXr98b2) | 4:31 |
 | 39 | [She's The One](https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [I've Been Expecting You](https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs) | 4:18 |
 | 40 | [All By Myself](https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Falling into You](https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR) | 5:12 |
 | 41 | [I Wish It Would Rain Down \- 2016 Remaster](https://open.spotify.com/track/4F2t297QK40XFcIHqkmLHs) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 5:27 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsv1Yhw5QfW.md) - [plain]
 | 54 | [Say You, Say Me](https://open.spotify.com/track/1Ih6wTuQems9OkYTzcZdhM) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [The Definitive Collection](https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q) | 4:02 |
 | 55 | [Spending My Time](https://open.spotify.com/track/47PQWnMc01EmIH0PD2UuGb) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Joyride \(Deluxe Version\)](https://open.spotify.com/album/5SwZnq5e3u7DkkNnSNHp5R) | 4:35 |
 
-Snapshot ID: `MTU5NjAzODMzOSwwMDAwMDAwMDQyYzk4Nzc5Y2E1ZjhkYTllYmNhYmJjMWI1ZDQyMDRk`
+Snapshot ID: `MTU5NjAzODMzOSwwMDAwMDAwMDgyZGQ0Yjg3ZTg5NzlkMmE1OWU4NzVjNWYzYTI1NDNm`

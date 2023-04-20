@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > Great songs from great people\.  Enjoy music from artists you can believe in!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,104 likes - 65 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,139 likes - 65 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 38 | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2) | 3:42 |
 | 39 | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/track/4vdzAzlQHMp225TA0mT4mq) | [13 Crowns](https://open.spotify.com/artist/1B6G8jtCIld4w3q7KQgIzb), [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX) | [Grateful \(feat\. Poo Bear\)](https://open.spotify.com/album/0ZsYHZvZVDfo6CWE8IgpoH) | 4:06 |
 | 40 | [Go With You](https://open.spotify.com/track/4QVB1ZS4a15oz6md6YiSZV) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [THRESHOLDS](https://open.spotify.com/album/5LBLcdPMnr1mwBRldKb3vs) | 3:31 |
-| 41 | [I Love It](https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx) | [Aalok Bala](https://open.spotify.com/artist/5Uu7rkbI8eNOsGWFCp5sSM) | [Rebirth](https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd) | 3:21 |
-| 42 | [The One Where I Talk To God](https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Tree Giants](https://open.spotify.com/artist/4Cp7yuORQTCa9GUfvb2gss) | [The One Where I Talk To God](https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz) | 3:25 |
+| 41 | [The One Where I Talk To God](https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Tree Giants](https://open.spotify.com/artist/4Cp7yuORQTCa9GUfvb2gss) | [The One Where I Talk To God](https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz) | 3:25 |
+| 42 | [I Love It](https://open.spotify.com/track/5RE1GkL0Zt9Soasbt1R1xx) | [Aalok Bala](https://open.spotify.com/artist/5Uu7rkbI8eNOsGWFCp5sSM) | [Rebirth](https://open.spotify.com/album/3iGGESom06TuNUHu6xIQJd) | 3:21 |
 | 43 | [Ain't No Grave](https://open.spotify.com/track/6z355fOnb6YRjK4WUQK3VF) | [Zach Winters](https://open.spotify.com/artist/163OfTopSs5dr4iVSizkvu) | [Ain't No Grave](https://open.spotify.com/album/6epmqEFmOUFfBLwmMjzRdw) | 4:48 |
 | 44 | [City of Black & White](https://open.spotify.com/track/33dVEqsu2V7zvCIgid8PnF) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [City of Black & White Revisited](https://open.spotify.com/album/2QpByGx95I9XzccW9aNVtM) | 3:45 |
 | 45 | [Unshackled](https://open.spotify.com/track/1ZHOREB6ew670daqMQ75F0) | [Ecclesia](https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC), [Kareen Vargas](https://open.spotify.com/artist/4xpzHbtR7afmdAsz3gxdd8) | [Unshackled](https://open.spotify.com/album/3rvPQDXFMxJqtSlMzD7JSm) | 4:04 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 52 | [Oh Dreamer](https://open.spotify.com/track/2Uu1hqObahlzFDbZqjC6CR) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [Oh Dreamer](https://open.spotify.com/album/4c89AmtrwLAF1H1sNBgHei) | 3:24 |
 | 53 | [The Mountain \(Live from 25in24\)](https://open.spotify.com/track/7ie0VFLajcWxysGPWgDQeB) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [The Mountain \(Live from 25in24\)](https://open.spotify.com/album/3Kns6f8OJy1LkPvHNuppVs) | 3:51 |
 | 54 | [Steady](https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N) | [Daniella Mason](https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi) | [Steady](https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08) | 3:31 |
-| 55 | [Good As Gone](https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Good As Gone](https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ) | 3:59 |
-| 56 | [Glow](https://open.spotify.com/track/2dUteNJxoMXUvnECvjvvAf) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold to the Light](https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST) | 3:03 |
+| 55 | [Glow](https://open.spotify.com/track/2dUteNJxoMXUvnECvjvvAf) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold to the Light](https://open.spotify.com/album/7aihuGqvU3NAInaXVDmvST) | 3:03 |
+| 56 | [Good As Gone](https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Good As Gone](https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ) | 3:59 |
 | 57 | [God Who Sees Me](https://open.spotify.com/track/25NALshm4GZZkXd0gFmCLL) | [The Hedgerow Folk](https://open.spotify.com/artist/3LBXtcf7iF5hyveaDJolc6) | [God Who Sees Me](https://open.spotify.com/album/0kaaq4b14mpk8kl4H0OUFE) | 4:00 |
 | 58 | [Losing the Lonely](https://open.spotify.com/track/1C5AsyCp4hxF7qII4kOtbS) | [Elenowen](https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC) | [Versions](https://open.spotify.com/album/5THuXFOq0TAqmfjpnMxdEa) | 3:51 |
 | 59 | [The Road, The Rocks, and The Weeds](https://open.spotify.com/track/59oEEdqRLNKYBM7nbbaCD7) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [The Road, The Rocks, and The Weeds](https://open.spotify.com/album/4Q7EFIDyCAMqsr0fGD3kle) | 3:35 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 64 | [I Am One](https://open.spotify.com/track/6cuwOV2JrWQSY2wKBCawzJ) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [I Am One](https://open.spotify.com/album/0UBI5alyeqYSys0BUPAnEF) | 4:10 |
 | 65 | [Free Like a Broken Heart \(Acoustic\)](https://open.spotify.com/track/0vb6mwKc6QLvC0jOnrmQEy) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Free Like a Broken Heart \(Acoustic\)](https://open.spotify.com/album/6ehpRVe1W04hujIxUj4EDD) | 3:33 |
 
-Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMGRjYzhjYjljMmU3MWRhNzI0MTAxMWI1NGVjZWI3NWQ0`
+Snapshot ID: `MTU5OTE5MjEyMCwwMDAwMDAwMGJkZTJkNjE5YWZkYjM1MjM4Yzg0NDczYzgyNzgyMzc5`

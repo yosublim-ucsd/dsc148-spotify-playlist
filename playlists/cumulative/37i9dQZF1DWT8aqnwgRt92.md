@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-637 songs - 1 day 16 hr 33 min
+639 songs - 1 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Konotateni Kakuremasu \- TVSize](https://open.spotify.com/track/1VHTcCoAPqHXanvpVrGVYK) | [純情のアフィリア](https://open.spotify.com/artist/1RFi2Nn5fsdUsVcH6V0xC1) | [TV Animation”I Don’t Want to Get Hurt, so I’ll Max Out My Defense.2”theme song](https://open.spotify.com/album/3ukhrSxULp81bKgwvm4D61) | 1:29 | 2023-01-12 | 2023-01-25 |
 | [Kyokansarenakutemoiijanai](https://open.spotify.com/track/0ILqv4nIfyMSHg7WPJBwlw) | [Rie Takahashi](https://open.spotify.com/artist/0ENel7sUUXjVGUsP0xvwEJ) | [Kyokansarenakutemoiijanai](https://open.spotify.com/album/1O0nkN0Qp1rcdwJHsNds6p) | 3:53 | 2022-10-06 | 2022-12-28 |
 | [Ladder](https://open.spotify.com/track/6gZzyh7mytbxOTX0qWxbhx) | [Anonymouz](https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X) | [Ladder](https://open.spotify.com/album/17MpD6N5nkhHHatcIckvNa) | 3:40 | 2022-11-02 | 2023-01-13 |
+| [Lapse](https://open.spotify.com/track/5TeGDq5gS3KBG88UvdAT5E) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6IOnkt2rwHoyPgd8tiBTSD) | 3:55 | 2023-04-18 |  |
 | [LEATHER COVER](https://open.spotify.com/track/33AG9O2QUCfYup79rfz7qi) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [ENGING THEME SONG FROM TV SERIES ”PRINCESS OF THE BIBLIOPHILE”](https://open.spotify.com/album/720ybDM2QcbIIgt5DyVJVg) | 4:23 | 2022-11-02 | 2022-11-25 |
 | [Let it snow, Let it snow, Let it snow](https://open.spotify.com/track/003IincqbYZ9SZEpllxioR) | [アオペラ \-aoppella!?\-](https://open.spotify.com/artist/7d0VsdNnoJIRVnkiVzNjXz), [FYA'M'](https://open.spotify.com/artist/5NPcDFXZyCEtB0JLztECWs) | [Let it snow, Let it snow, Let it snow](https://open.spotify.com/album/6ifpkHqvOBWrRzTke7mNAZ) | 3:25 | 2022-05-28 | 2022-07-06 |
 | [Limitless](https://open.spotify.com/track/3nOhOCmYzbMtLENk6nlCfk) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Limitless](https://open.spotify.com/album/5alpwrzbhKCLaRLX49B6pT) | 3:24 | 2023-03-21 | 2023-04-12 |
@@ -498,7 +499,7 @@
 | [ヨトギバナシ](https://open.spotify.com/track/5QpeqvtbIzy8wCWQLzBEf1) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [ヨトギバナシ](https://open.spotify.com/album/7uoZJ3vla3xRXzn9quVO88) | 3:27 | 2023-01-10 | 2023-04-09 |
 | [ラストシーン](https://open.spotify.com/track/76rwHMqKcw9v9IWBwQWItn) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [ラストシーン](https://open.spotify.com/album/1vPjwkJ6P8GWadlPrlvYY3) | 3:11 | 2023-02-14 | 2023-04-12 |
 | [ラナ](https://open.spotify.com/track/1iXN8j1ThITNhNOr2Tez8A) | [Meychan](https://open.spotify.com/artist/5HQYtQ84Zs3hQD5ZcC7WUX) | [ラナ](https://open.spotify.com/album/3m5ZzghhvDyygAcIaJMrV3) | 3:21 | 2022-05-28 | 2022-07-06 |
-| [ラプス](https://open.spotify.com/track/47hW5TPsOjph8hA9kxNdcj) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6uBzTBbMEBkLEDtEkklOBy) | 3:55 | 2023-04-18 |  |
+| [ラプス](https://open.spotify.com/track/47hW5TPsOjph8hA9kxNdcj) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6uBzTBbMEBkLEDtEkklOBy) | 3:55 | 2023-04-18 | 2023-04-20 |
 | [ラムのラブソング \-ラム\(CV:上坂すみれ\)Short ver.\-](https://open.spotify.com/track/5Y6QHaJ2RljnPsIhoIcJVX) | [ラム\(CV:上坂すみれ\)](https://open.spotify.com/artist/5vlOkm94N3w3XhsqX4WITI) | [ラムのラブソング \-ラム\(CV:上坂すみれ\)Short ver.\-](https://open.spotify.com/album/4caUIm3cOfOZrDyFwylEcs) | 1:35 | 2023-03-23 |  |
 | [リナリア](https://open.spotify.com/track/1EcWKRFhvsDMkBSDjoOUav) | [Nowlu](https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO) | [リナリア](https://open.spotify.com/album/0PSl0xYeFCBe24VyQiOMEQ) | 4:08 | 2023-01-05 | 2023-03-22 |
 | [リライト \- from CrosSing](https://open.spotify.com/track/4K02Qepi2R08uz15q50vos) | [仲村宗悟](https://open.spotify.com/artist/3Vz8LkrUXNRdZmaVtLXOMp) | [リライト \- from CrosSing](https://open.spotify.com/album/011upJam3OIlt6QT8qDRuS) | 3:48 | 2022-11-22 | 2022-11-24 |
@@ -601,7 +602,8 @@
 | [神の領域](https://open.spotify.com/track/3CSf9hqXX1TUhPgPg4xwWr) | [七人のカリスマ](https://open.spotify.com/artist/7x8dSDNiUU6XRwJGRIrZDz), [カリスマ](https://open.spotify.com/artist/68k1h6racwqpRSnc29J4RM) | [カリスマ ワールド](https://open.spotify.com/album/08nfjUVet9k5BnkouwbEmU) | 4:31 | 2022-09-20 | 2022-09-30 |
 | [私と世界](https://open.spotify.com/track/1ozBLIVhjPJSupubyOimQE) | [Yui Makino](https://open.spotify.com/artist/6EtarAFCJoZ2AvMuleZw0G) | [あなたとわたしを繋ぐもの](https://open.spotify.com/album/2xJMVcbDsJ0XJ4tODMmQet) | 4:23 | 2022-10-04 | 2022-10-06 |
 | [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 | 2022-06-21 | 2022-08-31 |
-| [秘密♡Melody](https://open.spotify.com/track/1AFesvFxEKLQdz1D7UdkM6) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [秘密♡Melody](https://open.spotify.com/album/0jLmxBVe6NwDuJ4o2Oxdvt) | 4:11 | 2023-04-06 |  |
+| [秘密♡Melody](https://open.spotify.com/track/1AFesvFxEKLQdz1D7UdkM6) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [秘密♡Melody](https://open.spotify.com/album/0jLmxBVe6NwDuJ4o2Oxdvt) | 4:11 | 2023-04-06 | 2023-04-20 |
+| [秘密♡Melody](https://open.spotify.com/track/3FdxmFAty5QZTihGD7vy9g) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [秘密♡Melody](https://open.spotify.com/album/5jyTwJEmfqqrUM3CtWeXpi) | 4:11 | 2023-04-18 |  |
 | [秘密の庭のふたり](https://open.spotify.com/track/0drkpiibrRIpUc5tSubX2J) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [秘密の庭のふたり](https://open.spotify.com/album/3pVwRnFsKMjOwkpAWddA54) | 4:05 | 2022-08-16 | 2022-10-05 |
 | [空っぽの心](https://open.spotify.com/track/66EyebDoG7vr9AzvRbJ9H0) | [SARD UNDERGROUND](https://open.spotify.com/artist/7awtWS4uPN7SUSxSRilkMa) | [空っぽの心](https://open.spotify.com/album/6sCZgnJFMkZsm0YaEpYTi3) | 3:16 | 2022-05-28 | 2022-07-01 |
 | [空色デイズ \- from CrosSing](https://open.spotify.com/track/2r0obcBXAqmjT25pBewWlc) | [平野綾](https://open.spotify.com/artist/3HsqZmNM3saSQSfiTl8GzD) | [空色デイズ \- from CrosSing](https://open.spotify.com/album/2RqmAvQcK25aIBLUfflMGW) | 4:13 | 2023-02-28 | 2023-03-02 |

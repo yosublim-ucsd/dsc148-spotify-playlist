@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-675 songs - 1 day 8 hr 27 min
+676 songs - 1 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [Feelings](https://open.spotify.com/track/3bunovg8ep6uXccEg5RUAy) | [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [Feelings](https://open.spotify.com/album/2cpblTGZISVH05oyaXcW89) | 2:17 | 2021-09-03 | 2022-04-19 |
 | [Feen](https://open.spotify.com/track/2qTcJF53V5rsJd82CVFadL) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [L.O.V.E\. \(Deluxe\)](https://open.spotify.com/album/7oogc2HscinoahzGe8INuf) | 2:59 | 2021-09-03 | 2022-04-16 |
 | [Fight That Switch \(Walk\) \[with EST Gee\]](https://open.spotify.com/track/28yy6AId4shZVCSjTRdCa9) | [Lil Double 0](https://open.spotify.com/artist/4uKEP0JYfpFtngWlgViewd), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Fight That Switch \(Walk\) \[with EST Gee\]](https://open.spotify.com/album/3oLGzMCN8fnmDXff3hCtMH) | 3:19 | 2022-10-07 | 2023-01-14 |
-| [Finger Food](https://open.spotify.com/track/1gXOwyDr6zzIL6FHk5L9IJ) | [Rolling Loud](https://open.spotify.com/artist/1KV1kUwVWFHdF8J4GGiMkg), [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [Finger Food](https://open.spotify.com/album/5PMB3dVQeDR63EftsRyVd1) | 3:38 | 2022-12-09 |  |
+| [Finger Food](https://open.spotify.com/track/1gXOwyDr6zzIL6FHk5L9IJ) | [Rolling Loud](https://open.spotify.com/artist/1KV1kUwVWFHdF8J4GGiMkg), [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW) | [Finger Food](https://open.spotify.com/album/5PMB3dVQeDR63EftsRyVd1) | 3:38 | 2022-12-09 | 2023-04-20 |
 | [Five Stars](https://open.spotify.com/track/2SNf0cSVFOEBhM4x8MvtB6) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl) | [Heaven Can Wait](https://open.spotify.com/album/3RRFCfxnZbsZHDtfAszc3V) | 3:21 | 2021-09-03 | 2022-01-22 |
 | [Flawlëss \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1a019wP7IdYLexwbmfZPm3) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:56 | 2022-09-16 | 2023-04-09 |
 | [FLEEK](https://open.spotify.com/track/2BQMGNScdPTSB7OdZiwE0U) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [FLEEK](https://open.spotify.com/album/4QDkFgUYaGqqB7m079sRuS) | 2:30 | 2022-12-16 | 2023-01-28 |
@@ -673,6 +673,7 @@
 | [Work](https://open.spotify.com/track/5a72KEfxqoMjzI0sv1By3w) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Work](https://open.spotify.com/album/7mUeXlK3dvFRbkUgzXHSH1) | 2:22 | 2023-02-17 |  |
 | [Wraith](https://open.spotify.com/track/4GSyA0YDBON0qD8fvqmPan) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd) | [Wraith](https://open.spotify.com/album/15of6rNsLNItJSTZZz6TYT) | 2:27 | 2022-05-20 | 2022-10-08 |
 | [WTF \(feat\. Nicki Minaj\)](https://open.spotify.com/track/35NkPKSmtu6lCht95nukpr) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [WTF \(feat\. Nicki Minaj\)](https://open.spotify.com/album/42wum3mrRoMbV9QoZqpIZK) | 2:40 | 2023-04-07 |  |
+| [WTF \(feat\. Polo G\) \- Remix](https://open.spotify.com/track/4Y43nu7MxbFOBJnZNfuruc) | [Hotboii](https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [WTF \(feat\. Polo G\) \[Remix\]](https://open.spotify.com/album/6eb8NRWbiyJrn6chLPQokL) | 2:53 | 2023-04-14 |  |
 | [Y OFC](https://open.spotify.com/track/66D4gGaEenEmVGDoO2XX4i) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [Y OFC](https://open.spotify.com/album/4IeLpOeduM8SodNkluPm06) | 3:23 | 2022-06-03 | 2022-06-11 |
 | [YA YA YA](https://open.spotify.com/track/6WPH7wmoqgAy9b70XiP9mU) | [Black Yungin'](https://open.spotify.com/artist/4QiGp24evQtZMwl7Za2fsl) | [YA YA YA](https://open.spotify.com/album/3gJzcoeQdZhYwjkKpMXEkb) | 2:52 | 2022-10-14 | 2022-10-29 |
 | [YEET \(feat\. Yeat\)](https://open.spotify.com/track/19b1RB0jrScAK1MKe3IRnk) | [Yung Kayo](https://open.spotify.com/artist/7J0hrNYCO5DgAx0XaRJqkh), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [YEET \(feat\. Yeat\)](https://open.spotify.com/album/7eOU7fB1ah7qgyX0LQDEG0) | 2:37 | 2022-01-28 | 2022-04-21 |

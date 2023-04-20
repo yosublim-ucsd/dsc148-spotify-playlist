@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJsnBRS2dpF.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/thealiyajanell/">Aliya Janell Brinson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,002 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,085 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJsnBRS2dpF.md) - [plain]
 | 41 | [Read Your Mind](https://open.spotify.com/track/6cR1U61DMpYbS2TtNTlSvo) | [Avant](https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A) | [Private Room](https://open.spotify.com/album/6M31UyJrV9SQMC0L2rSLCL) | 4:23 |
 | 42 | [Don’t Stop \(feat\. Young Thug\)](https://open.spotify.com/track/3yv7994DWTEk3ihwy75YBQ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Don’t Stop \(feat\. Young Thug\)](https://open.spotify.com/album/6dm2dXeXB37jhsxKjgKAvw) | 3:07 |
 | 43 | [Love Theory](https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [LONG LIVE LOVE](https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt) | 4:11 |
-| 44 | [Still Your Best](https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done](https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q) | 2:57 |
-| 45 | [CYANIDE REMIX \(feat\. Koffee\)](https://open.spotify.com/track/5HGU08aDQkOjwogqE3SwhG) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [CYANIDE REMIX \(feat\. Koffee\)](https://open.spotify.com/album/4kYeULYvGSPb5igBdYlJ5S) | 3:41 |
+| 44 | [CYANIDE REMIX \(feat\. Koffee\)](https://open.spotify.com/track/5HGU08aDQkOjwogqE3SwhG) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [CYANIDE REMIX \(feat\. Koffee\)](https://open.spotify.com/album/4kYeULYvGSPb5igBdYlJ5S) | 3:41 |
+| 45 | [Still Your Best](https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done](https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q) | 2:57 |
 | 46 | [Touch Me Tease Me](https://open.spotify.com/track/4xrBjUq18fvXK68DJEi5XM) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy), [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Case](https://open.spotify.com/album/26zgq8Yop0g9V9We6seQID) | 3:47 |
 | 47 | [Pick Up Your Feelings](https://open.spotify.com/track/2JLVZYEMmqPWbUoAJAMKfm) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Pick Up Your Feelings](https://open.spotify.com/album/1wsPNQ8DFxRYNQnCs0hMu7) | 3:52 |
 | 48 | [Anywhere](https://open.spotify.com/track/0Zze3tFRSNwL6KllmYjLgZ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4), [Lil' Zane](https://open.spotify.com/artist/61mwtI8FCpYa9G2NuThRhI) | [Room 112](https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w) | 4:04 |
 | 49 | [Makin' Good Love](https://open.spotify.com/track/6Q13UWFUuqXLXT7IUVkqM1) | [Avant](https://open.spotify.com/artist/0AunegKKH2ys98aLxq8G1A) | [Ecstasy](https://open.spotify.com/album/1JSJf8Q1uGtUENd9X0I4uG) | 4:31 |
 | 50 | [Butta Love](https://open.spotify.com/track/6fRLVZ4jKzuqyDPlIdbq9q) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Rated Next](https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm) | 4:56 |
 
-Snapshot ID: `MTY2NDY0MTI4NCwwMDAwMDAwMGYxYzVkYzM5YTg3ZjRhZjc1YmQ0YzUzNWE4YmZlMDRh`
+Snapshot ID: `MTY2NDY0MTI4NCwwMDAwMDAwMDZiZDJiYzQ0ZDFiMzExZjZlOTg0MGI1ODQ4ZDA4OTIx`

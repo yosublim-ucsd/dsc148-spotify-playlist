@@ -1,51 +1,31 @@
 {
-  "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Paula Koops",
-  "num_followers": 21476,
+  "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Saiko",
+  "num_followers": 21494,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxMzY2MCwwMDAwMDAwMDBmOTZhZmVjM2RlZjRhZWJjZmIxMGZlODgxZWI2NmU4",
+  "snapshot_id": "MTY4MTk0MTY2MCwwMDAwMDAwMGU5OTAzMTM1MWQ0ZWQyMzIwYjFkNWI2NDRhYzkyN2I1",
   "tracks": [
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
-        "name": "Novia del A\u00f1o",
-        "url": "https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0"
-      },
-      "artists": [
-        {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "hey, goodbye",
-      "url": "https://open.spotify.com/track/2mYuCEPvJw5FdVHhnSQJaL"
-    },
-    {
-      "added_at": "2023-03-30 22:01:00",
-      "album": {
-        "name": "1371 KM",
-        "url": "https://open.spotify.com/album/4wBdC9qb2JWHUf4ZHLNnx2"
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR"
       },
       "artists": [
         {
           "name": "Saiko",
           "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Came Beats",
-          "url": "https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez"
         }
       ],
-      "duration_ms": 192122,
-      "name": "Polaris",
-      "url": "https://open.spotify.com/track/31jtlGwefCdtqNOSpLq82U"
+      "duration_ms": 190909,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "Mil Laberintos",
         "url": "https://open.spotify.com/album/6YKiRmNf2cuIRfuWmaaqMX"
@@ -61,7 +41,23 @@
       "url": "https://open.spotify.com/track/3PeaoxxHW9L5OVVnkWDg6S"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
+      "album": {
+        "name": "novio del a\u00f1o",
+        "url": "https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "duration_ms": 154719,
+      "name": "novio del a\u00f1o",
+      "url": "https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1"
+    },
+    {
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "Coraz\u00f3n de Mel\u00f3n",
         "url": "https://open.spotify.com/album/0dwdILs8Bz5sNP4DxjsuiB"
@@ -77,7 +73,7 @@
       "url": "https://open.spotify.com/track/1AF5JY4zB36i9PhMFMgMaX"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "ME MATA(S)",
         "url": "https://open.spotify.com/album/6uUM0HqOhv288VOY0gPvJR"
@@ -97,7 +93,7 @@
       "url": "https://open.spotify.com/track/6yFacR2XoribBixsZvXxvg"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "De Charco En Charco",
         "url": "https://open.spotify.com/album/3FTwA6nTjoLwzGzVtuJkqN"
@@ -117,7 +113,7 @@
       "url": "https://open.spotify.com/track/72nJMBop58qf4xbNwZD0qO"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "Reventar la Ciudad",
         "url": "https://open.spotify.com/album/6FKa1U17suTGjxEBhY7IW1"
@@ -137,7 +133,7 @@
       "url": "https://open.spotify.com/track/5y6IQMVfYfa9rxfiHKz5hz"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "La Culpa",
         "url": "https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ"
@@ -161,23 +157,27 @@
       "url": "https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
-        "name": "novio del a\u00f1o",
-        "url": "https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn"
+        "name": "1371 KM",
+        "url": "https://open.spotify.com/album/4wBdC9qb2JWHUf4ZHLNnx2"
       },
       "artists": [
         {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Came Beats",
+          "url": "https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez"
         }
       ],
-      "duration_ms": 154719,
-      "name": "novio del a\u00f1o",
-      "url": "https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1"
+      "duration_ms": 192122,
+      "name": "Polaris",
+      "url": "https://open.spotify.com/track/31jtlGwefCdtqNOSpLq82U"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "Leyla",
         "url": "https://open.spotify.com/album/1SmBBlgEby0mxo1DDGrT2J"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/6wBtiIDVUTQzukngZ0dNGq"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "si tiene que ser ser\u00e1.",
         "url": "https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "T\u00c1NGER Y ZAHARA",
         "url": "https://open.spotify.com/album/5DY4F3ttRGWWJoPJBcy4Ys"
@@ -229,63 +229,7 @@
       "url": "https://open.spotify.com/track/2gKbwgaAQQRRYWpcA2psY3"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
-      "album": {
-        "name": "Agua al dolor",
-        "url": "https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh"
-      },
-      "artists": [
-        {
-          "name": "Xavibo",
-          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
-        },
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 208372,
-      "name": "Agua al dolor",
-      "url": "https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h"
-    },
-    {
-      "added_at": "2023-03-30 22:01:00",
-      "album": {
-        "name": "C\u00e1psula Espacial",
-        "url": "https://open.spotify.com/album/3XI5m06sug9h7WlHCaPIgr"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        },
-        {
-          "name": "D3llano",
-          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "C\u00e1psula Espacial",
-      "url": "https://open.spotify.com/track/5R2oLlV8I7iVIVHTtSvLXD"
-    },
-    {
-      "added_at": "2023-03-30 22:01:00",
-      "album": {
-        "name": "Tiro Al Aire",
-        "url": "https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 200145,
-      "name": "Tiro Al Aire",
-      "url": "https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy"
-    },
-    {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "mejores amigos",
         "url": "https://open.spotify.com/album/4CNWr0Icz7j1ngMho7ZjA8"
@@ -309,7 +253,63 @@
       "url": "https://open.spotify.com/track/3UO6Hj6xtowWdanb3hs5QR"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
+      "album": {
+        "name": "Agua al dolor",
+        "url": "https://open.spotify.com/album/6GET4E1rNMJVSENvXiKBBh"
+      },
+      "artists": [
+        {
+          "name": "Xavibo",
+          "url": "https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7"
+        },
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 208372,
+      "name": "Agua al dolor",
+      "url": "https://open.spotify.com/track/4gJob9AR3tWEh1OfGtVj1h"
+    },
+    {
+      "added_at": "2023-04-19 22:01:00",
+      "album": {
+        "name": "Tiro Al Aire",
+        "url": "https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 200145,
+      "name": "Tiro Al Aire",
+      "url": "https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy"
+    },
+    {
+      "added_at": "2023-04-19 22:01:00",
+      "album": {
+        "name": "C\u00e1psula Espacial",
+        "url": "https://open.spotify.com/album/3XI5m06sug9h7WlHCaPIgr"
+      },
+      "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        },
+        {
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "C\u00e1psula Espacial",
+      "url": "https://open.spotify.com/track/5R2oLlV8I7iVIVHTtSvLXD"
+    },
+    {
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "NO ME PASA NADA",
         "url": "https://open.spotify.com/album/0KJSpW77D1DmoN5tBJKeyI"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/1DSifk5tKB93s9rAUJi4kn"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "Porque t\u00fa lo sabr\u00edas",
         "url": "https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/0LfPtLzOOPZDulnDVWn9g3"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "PROGRESO",
         "url": "https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "En Otro Lugar",
         "url": "https://open.spotify.com/album/7yUGYSIUFrE4u335WYpXgx"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/4cbYLSExjhetFfq2WHGYhR"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "favorita",
         "url": "https://open.spotify.com/album/1S7trDsVlwschptph947TY"
@@ -397,7 +397,23 @@
       "url": "https://open.spotify.com/track/1GD7Rao8kRvGAoXBI8Aott"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
+      "album": {
+        "name": "Novia del A\u00f1o",
+        "url": "https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "hey, goodbye",
+      "url": "https://open.spotify.com/track/2mYuCEPvJw5FdVHhnSQJaL"
+    },
+    {
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "Desastre de persona",
         "url": "https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo"
@@ -417,23 +433,7 @@
       "url": "https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
-      "album": {
-        "name": "por qu\u00e9 vuelvo a quererte?",
-        "url": "https://open.spotify.com/album/6ljKyPIVpNWbbfi470zJFL"
-      },
-      "artists": [
-        {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "por qu\u00e9 vuelvo a quererte?",
-      "url": "https://open.spotify.com/track/744UvT12uGyKYegYL3CXbW"
-    },
-    {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "Bloque",
         "url": "https://open.spotify.com/album/7g5WUQbHQ8f3A8FV8hXoJ8"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/0GkTXuoGohIyXLlJXzybet"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "Barcelona",
         "url": "https://open.spotify.com/album/3GWHOQdtWP48tpSTIQf1I3"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/26TGTvAVejH3tZA3Bolunr"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "qu\u00e9 voy a hacer",
         "url": "https://open.spotify.com/album/5AXWainYQGafkbtRpzqz1L"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/0t7Sn2HbOk7inow65D6na5"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "Veo tan Dentro",
         "url": "https://open.spotify.com/album/69MjZjIJ1dmeDF9vjXNtue"
@@ -505,7 +505,23 @@
       "url": "https://open.spotify.com/track/0IG1i3O84chtFIQMsKg6TD"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
+      "album": {
+        "name": "por qu\u00e9 vuelvo a quererte?",
+        "url": "https://open.spotify.com/album/6ljKyPIVpNWbbfi470zJFL"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "por qu\u00e9 vuelvo a quererte?",
+      "url": "https://open.spotify.com/track/744UvT12uGyKYegYL3CXbW"
+    },
+    {
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "\u00bfQui\u00e9n es Billie Max?",
         "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
@@ -521,7 +537,7 @@
       "url": "https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "No Me Salves",
         "url": "https://open.spotify.com/album/3fFodInCmkqeErsA3w551s"
@@ -537,7 +553,7 @@
       "url": "https://open.spotify.com/track/7KeAEsOT6v4EnxupRgLT47"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "Indie esperanzador",
         "url": "https://open.spotify.com/album/1RW1vuElxJa3J9pSvjgWZc"
@@ -553,7 +569,7 @@
       "url": "https://open.spotify.com/track/3Lf9uNTAy4aMlKxSPdTktH"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "Solo me gustas cuando yo te gusto a ti",
         "url": "https://open.spotify.com/album/3V6sBhL8dVx5ZubTyNUeao"
@@ -569,7 +585,7 @@
       "url": "https://open.spotify.com/track/6PdT8A35WPRr4r7JNjyTWO"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "la pesta\u00f1a que sopl\u00e9",
         "url": "https://open.spotify.com/album/6amoBQ1iiJHtrnjvwcKG7r"
@@ -585,7 +601,7 @@
       "url": "https://open.spotify.com/track/6OABmkT3sMp0rDSsbMt9wT"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "Del cielo",
         "url": "https://open.spotify.com/album/7B4fVDbdzPEwrpKxG87iRr"
@@ -601,7 +617,7 @@
       "url": "https://open.spotify.com/track/038sx40baI928rvHqvwlyC"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "Pensando mucho y mal",
         "url": "https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "Cosas Que Dijimos De Hacer",
         "url": "https://open.spotify.com/album/5iINJtcXFVeqb4FuYl2pXH"
@@ -633,39 +649,7 @@
       "url": "https://open.spotify.com/track/4vmRgsol9d9ktaY5aoNFUf"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
-      "album": {
-        "name": "Prom\u00e9teme",
-        "url": "https://open.spotify.com/album/5I61L6ipOkRcN2eIDqUOXQ"
-      },
-      "artists": [
-        {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
-        }
-      ],
-      "duration_ms": 159307,
-      "name": "Prom\u00e9teme",
-      "url": "https://open.spotify.com/track/3cVWMjV0E0yw9DqXD7EsLL"
-    },
-    {
-      "added_at": "2023-03-30 22:01:00",
-      "album": {
-        "name": "CHINO CADA MARTES",
-        "url": "https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 163125,
-      "name": "chino cada martes",
-      "url": "https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ"
-    },
-    {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "Muchas gracias por venir",
         "url": "https://open.spotify.com/album/67bX88BUnSlWpAxgLlAVh5"
@@ -681,7 +665,39 @@
       "url": "https://open.spotify.com/track/7BkPajyl2i5MRQaldvLydQ"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
+      "album": {
+        "name": "Prom\u00e9teme",
+        "url": "https://open.spotify.com/album/5I61L6ipOkRcN2eIDqUOXQ"
+      },
+      "artists": [
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        }
+      ],
+      "duration_ms": 159307,
+      "name": "Prom\u00e9teme",
+      "url": "https://open.spotify.com/track/3cVWMjV0E0yw9DqXD7EsLL"
+    },
+    {
+      "added_at": "2023-04-19 22:01:00",
+      "album": {
+        "name": "CHINO CADA MARTES",
+        "url": "https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 163125,
+      "name": "chino cada martes",
+      "url": "https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ"
+    },
+    {
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "Entre T\u00fa y Yo",
         "url": "https://open.spotify.com/album/4lGHtFxzkgixaplUBUCCva"
@@ -701,7 +717,7 @@
       "url": "https://open.spotify.com/track/2DymeTXhOR1Vyxe1fbLvtv"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "ya se me pasar\u00e1",
         "url": "https://open.spotify.com/album/4UdbepeAR4DDMLWR08MBxr"
@@ -721,39 +737,7 @@
       "url": "https://open.spotify.com/track/3BCAKTSfkvfBeWyK21BD37"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
-      "album": {
-        "name": "La Broma De Mis Sue\u00f1os",
-        "url": "https://open.spotify.com/album/6pFEEEkmx3obnVvUd1MKPt"
-      },
-      "artists": [
-        {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        }
-      ],
-      "duration_ms": 173200,
-      "name": "La Broma De Mis Sue\u00f1os",
-      "url": "https://open.spotify.com/track/23tC5mpmXpIPCyjYYj6Kew"
-    },
-    {
-      "added_at": "2023-03-30 22:01:00",
-      "album": {
-        "name": "Como si nada",
-        "url": "https://open.spotify.com/album/5LlZN35h1NTGBUcOvFZXrN"
-      },
-      "artists": [
-        {
-          "name": "Blackpanda",
-          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
-        }
-      ],
-      "duration_ms": 196470,
-      "name": "Como si nada",
-      "url": "https://open.spotify.com/track/1fesiEYKhK0Dfe8Rs9NoqK"
-    },
-    {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "J*DER",
         "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
@@ -769,7 +753,23 @@
       "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
+      "album": {
+        "name": "Como si nada",
+        "url": "https://open.spotify.com/album/5LlZN35h1NTGBUcOvFZXrN"
+      },
+      "artists": [
+        {
+          "name": "Blackpanda",
+          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
+        }
+      ],
+      "duration_ms": 196470,
+      "name": "Como si nada",
+      "url": "https://open.spotify.com/track/1fesiEYKhK0Dfe8Rs9NoqK"
+    },
+    {
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "quien me quiere (no me quiere contigo)",
         "url": "https://open.spotify.com/album/3pM1o2Lmf6sKyQCFHqKKyp"
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/5wXsiahlfpyEdY152cbimc"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "Roma No Es Amor",
         "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
@@ -805,23 +805,23 @@
       "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
-        "name": "Ego\u00edsta",
-        "url": "https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu"
+        "name": "La Broma De Mis Sue\u00f1os",
+        "url": "https://open.spotify.com/album/6pFEEEkmx3obnVvUd1MKPt"
       },
       "artists": [
         {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
         }
       ],
-      "duration_ms": 199148,
-      "name": "Ego\u00edsta",
-      "url": "https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD"
+      "duration_ms": 173200,
+      "name": "La Broma De Mis Sue\u00f1os",
+      "url": "https://open.spotify.com/track/23tC5mpmXpIPCyjYYj6Kew"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "Cuchillos",
         "url": "https://open.spotify.com/album/2WXVOnXCzcgoCcFQBjTlBX"
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/4vEutziRAYewCT97ziq48J"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "friki",
         "url": "https://open.spotify.com/album/08LrX9cDCw4GOOdzXsOKDK"
@@ -857,23 +857,23 @@
       "url": "https://open.spotify.com/track/7ptUQqbSlz2svIKItNYy4g"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
-        "name": "Soy Un Desastre",
-        "url": "https://open.spotify.com/album/4HDJZRVlFfApsf6QqwOBnp"
+        "name": "Ego\u00edsta",
+        "url": "https://open.spotify.com/album/61lzWKauyC2ZF67goSk5Mu"
       },
       "artists": [
         {
-          "name": "Jara Pol",
-          "url": "https://open.spotify.com/artist/1ZIwEYympp5ztnQYDlIxHg"
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
         }
       ],
-      "duration_ms": 174623,
-      "name": "Soy Un Desastre",
-      "url": "https://open.spotify.com/track/6BT3cBhFz6wNlCAyY2bAnr"
+      "duration_ms": 199148,
+      "name": "Ego\u00edsta",
+      "url": "https://open.spotify.com/track/0xMR5hNDMuCAlpAfHc3iwD"
     },
     {
-      "added_at": "2023-03-30 22:01:00",
+      "added_at": "2023-04-19 22:01:00",
       "album": {
         "name": "La\u00e9ne",
         "url": "https://open.spotify.com/album/5sJ83xFmp0TskXRrnetqI3"

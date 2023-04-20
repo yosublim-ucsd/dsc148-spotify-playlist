@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 151034,
+  "num_followers": 151050,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgwNTgyMCwwMDAwMDAwMDVlZDM2YWIxNzJmN2Q4MDFkODhhODBjZjBlZTRhNjU5",
+  "snapshot_id": "MTY3ODgwNTgyMCwwMDAwMDAwMDE0YWNkZDAyZjdhMzdmMjQ4ZGE3Y2QxOWZlZjJlMzZk",
   "tracks": [
     {
       "added_at": "2023-02-24 11:06:00",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Front Porch",
-        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 231813,
-      "name": "Front Porch",
-      "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Naked (Acoustic Version)",
         "url": "https://open.spotify.com/album/2aOYprwJcCTSVk3ARMlOMO"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 230440,
       "name": "Naked - Acoustic Version",
       "url": "https://open.spotify.com/track/77vv9vprh6SazfOXIJgYpx"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Front Porch",
+        "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Front Porch",
+      "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Around the Well",
-        "url": "https://open.spotify.com/album/5tOzXq44rU4yCCVY94f6m7"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 251280,
-      "name": "Such Great Heights",
-      "url": "https://open.spotify.com/track/6dDxgfvM8pJm7AzmLZB1nN"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Let It Be",
         "url": "https://open.spotify.com/album/3ZPcwX7RlFXDY5DvbuBYhk"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 148900,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/0SL50BWlNr0RThIgL5swJK"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Around the Well",
+        "url": "https://open.spotify.com/album/5tOzXq44rU4yCCVY94f6m7"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 251280,
+      "name": "Such Great Heights",
+      "url": "https://open.spotify.com/track/6dDxgfvM8pJm7AzmLZB1nN"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Three Flights From Alto Nido",
-        "url": "https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH"
-      },
-      "artists": [
-        {
-          "name": "Greg Laswell",
-          "url": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
-        }
-      ],
-      "duration_ms": 67746,
-      "name": "Sweet Dream",
-      "url": "https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Here With Me (Acoustic)",
         "url": "https://open.spotify.com/album/4shs56cPnRvGEpRv4cTAHx"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 164478,
       "name": "Here With Me - Acoustic",
       "url": "https://open.spotify.com/track/0MY3K86lZ9HIat4oBi40dh"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Three Flights From Alto Nido",
+        "url": "https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH"
+      },
+      "artists": [
+        {
+          "name": "Greg Laswell",
+          "url": "https://open.spotify.com/artist/2Mf99N2VcDEcVuocyBLhyC"
+        }
+      ],
+      "duration_ms": 67746,
+      "name": "Sweet Dream",
+      "url": "https://open.spotify.com/track/7JRJOLKHz88pR0YS4pVCao"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "The One I Love",
-        "url": "https://open.spotify.com/album/6Pf7ZUDD3Oup6DQOEhrBol"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 191386,
-      "name": "The One I Love",
-      "url": "https://open.spotify.com/track/4CTkHewevcDjIT3j9qb36e"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Chasing Cars (Acoustic)",
         "url": "https://open.spotify.com/album/5zeqfd26JaUfCQNMAcNXN2"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 236298,
       "name": "Chasing Cars - Acoustic",
       "url": "https://open.spotify.com/track/1abgR6pt8VzZRfiQa0KLlS"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "The One I Love",
+        "url": "https://open.spotify.com/album/6Pf7ZUDD3Oup6DQOEhrBol"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 191386,
+      "name": "The One I Love",
+      "url": "https://open.spotify.com/track/4CTkHewevcDjIT3j9qb36e"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Hold On (From \"Dear Edward\")",
+        "url": "https://open.spotify.com/album/1bknYvQti8ecOKjWl7qEsm"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 156826,
+      "name": "Hold On (From \"Dear Edward\")",
+      "url": "https://open.spotify.com/track/1eAXHyBCQijbrNhePcFXGK"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Hey (Acoustic Version)",
         "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
       },
@@ -995,18 +1011,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Hold On (From \"Dear Edward\")",
-        "url": "https://open.spotify.com/album/1bknYvQti8ecOKjWl7qEsm"
+        "name": "Things I Chose To Remember",
+        "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
         }
       ],
-      "duration_ms": 156826,
-      "name": "Hold On (From \"Dear Edward\")",
-      "url": "https://open.spotify.com/track/1eAXHyBCQijbrNhePcFXGK"
+      "duration_ms": 229960,
+      "name": "No Right To Love You - Acoustic",
+      "url": "https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1023,22 +1039,6 @@
       "duration_ms": 216422,
       "name": "Malibu Nights",
       "url": "https://open.spotify.com/track/59ETcec0EX4fyuq9TlTAmR"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Things I Chose To Remember",
-        "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "No Right To Love You - Acoustic",
-      "url": "https://open.spotify.com/track/58VJmNB8oeoE2PRqCrduEo"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "I'll Buy A House (Acoustic)",
-        "url": "https://open.spotify.com/album/6h7sLh540K9kgPlwc382wO"
-      },
-      "artists": [
-        {
-          "name": "Violet Skies",
-          "url": "https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN"
-        }
-      ],
-      "duration_ms": 186187,
-      "name": "I'll Buy A House - Acoustic",
-      "url": "https://open.spotify.com/track/1dpb7KzEnftZr3yfDqKyqg"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Bizarre Love Triangle (Acoustic)",
         "url": "https://open.spotify.com/album/3a3gzYfRlPhOdTpw8CO4Rb"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 131644,
       "name": "Bizarre Love Triangle - Acoustic",
       "url": "https://open.spotify.com/track/0PGDrKpe6yHPNRP1eSvCFy"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "I'll Buy A House (Acoustic)",
+        "url": "https://open.spotify.com/album/6h7sLh540K9kgPlwc382wO"
+      },
+      "artists": [
+        {
+          "name": "Violet Skies",
+          "url": "https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN"
+        }
+      ],
+      "duration_ms": 186187,
+      "name": "I'll Buy A House - Acoustic",
+      "url": "https://open.spotify.com/track/1dpb7KzEnftZr3yfDqKyqg"
     },
     {
       "added_at": "2023-02-10 06:37:00",

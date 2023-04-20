@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > You had all the charm, I was young and stupid 🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,400 likes - 85 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,417 likes - 85 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 25 | [Garden](https://open.spotify.com/track/0tfdhbTzWw4S7MMG3Euw50) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Garden](https://open.spotify.com/album/5nF0rJdSzwT2V7iJKFKxtO) | 2:48 |
 | 26 | [Other Side of the Moon](https://open.spotify.com/track/0inCk0sUhCu1PBscUmSvez) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl EP \- Part 1](https://open.spotify.com/album/47DfwYDx3pDXoN7lgxWwjj) | 2:51 |
 | 27 | [seeing you with other girls](https://open.spotify.com/track/05EL9Ml4T3MQ2ICIONhbEF) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [seeing you with other girls](https://open.spotify.com/album/61XFhjOmYfEyHgTk35zgpY) | 2:57 |
-| 28 | [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:10 |
+| 28 | [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:07 |
 | 29 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 |
 | 30 | [Lavender Haze \- Acoustic Version](https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lavender Haze \(Acoustic Version\)](https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU) | 2:54 |
 | 31 | [Eyes Closed](https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed](https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0) | 3:14 |

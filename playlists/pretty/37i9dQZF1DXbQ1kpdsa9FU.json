@@ -1,12 +1,12 @@
 {
   "description": "Everyday. Every time.  These are the songs you can count on. Always.",
-  "num_followers": 576134,
+  "num_followers": 576344,
   "original_name": "Everyday Inspiration",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY5MDk1OSwwMDAwMDAwMDRlMWM1NjdlMzZlYjZiMjlmOTU3NTgwNWE3OTk4ZDVm",
+  "snapshot_id": "MTY3NjY5MDk1OSwwMDAwMDAwMDM2NzZmN2QwMzkyY2FhNjJiZDg3YzVmNDQzNjAzNGY2",
   "tracks": [
     {
       "added_at": "2023-02-18 03:29:19",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "How Great Is Our God: The Essential Collection",
-        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 305426,
-      "name": "How Great Is Our God",
-      "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Sing Like Never Before: The Essential Collection",
         "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 256933,
       "name": "10,000 Reasons (Bless The Lord) [Radio Version] - Radio Version/Live",
       "url": "https://open.spotify.com/track/2MobJagQB0dGJoRqI8OT0m"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "How Great Is Our God: The Essential Collection",
+        "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 305426,
+      "name": "How Great Is Our God",
+      "url": "https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Unknown - EP",
-        "url": "https://open.spotify.com/album/5dCMe8uY2xl4aPPPR9Wbod"
-      },
-      "artists": [
-        {
-          "name": "Mosaic MSC",
-          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
-        }
-      ],
-      "duration_ms": 183280,
-      "name": "Tremble - Studio Version",
-      "url": "https://open.spotify.com/track/6RTOAaQeVkm1GUTqIY0hjp"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Out of Body",
         "url": "https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 207066,
       "name": "Who Am I",
       "url": "https://open.spotify.com/track/1KKTKUFmFLZmEhbUyj47jN"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Unknown - EP",
+        "url": "https://open.spotify.com/album/5dCMe8uY2xl4aPPPR9Wbod"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "duration_ms": 183280,
+      "name": "Tremble - Studio Version",
+      "url": "https://open.spotify.com/track/6RTOAaQeVkm1GUTqIY0hjp"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Let the Ground Rest",
-        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 254115,
-      "name": "Springtime",
-      "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "If We're Honest (Deluxe Version)",
         "url": "https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 302577,
       "name": "Holy Spirit",
       "url": "https://open.spotify.com/track/0VqMBJyeeRA4I6mSPO5uqZ"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Let the Ground Rest",
+        "url": "https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 254115,
+      "name": "Springtime",
+      "url": "https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -719,18 +719,22 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Here As In Heaven",
-        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+        "name": "Lead Us Back: Songs of Worship",
+        "url": "https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Third Day",
+          "url": "https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch"
+        },
+        {
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
         }
       ],
-      "duration_ms": 467053,
-      "name": "Resurrecting (Live)",
-      "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
+      "duration_ms": 197706,
+      "name": "Soul On Fire (feat. All Sons & Daughters) (feat. All Sons & Daughters)",
+      "url": "https://open.spotify.com/track/73ZSUS3WLluxgASR1Hp74B"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -751,22 +755,18 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Lead Us Back: Songs of Worship",
-        "url": "https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw"
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
       },
       "artists": [
         {
-          "name": "Third Day",
-          "url": "https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch"
-        },
-        {
-          "name": "All Sons & Daughters",
-          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 197706,
-      "name": "Soul On Fire (feat. All Sons & Daughters) (feat. All Sons & Daughters)",
-      "url": "https://open.spotify.com/track/73ZSUS3WLluxgASR1Hp74B"
+      "duration_ms": 467053,
+      "name": "Resurrecting (Live)",
+      "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Beautiful Offerings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 306253,
-      "name": "The Lion and the Lamb",
-      "url": "https://open.spotify.com/track/2FJYXPlTmFPAjTwPS1bMnw"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Trial & Triumph",
         "url": "https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 217866,
       "name": "No Impossible with You",
       "url": "https://open.spotify.com/track/2XJ73OpbAluRnivJ4UI1C6"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 306253,
+      "name": "The Lion and the Lamb",
+      "url": "https://open.spotify.com/track/2FJYXPlTmFPAjTwPS1bMnw"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Love Come To Life",
-        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 276186,
-      "name": "Redeemed",
-      "url": "https://open.spotify.com/track/7zuwaenG5AF0vG7o7kMduX"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "People (Live)",
         "url": "https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 449253,
       "name": "Whole Heart (Hold Me Now) - Live",
       "url": "https://open.spotify.com/track/3XkNkpfHFB0hoS13DdzJup"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Love Come To Life",
+        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 276186,
+      "name": "Redeemed",
+      "url": "https://open.spotify.com/track/7zuwaenG5AF0vG7o7kMduX"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "The Beginning & Everything After",
-        "url": "https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 202480,
-      "name": "I Will Fear No More",
-      "url": "https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "All In",
         "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 225560,
       "name": "Mercy Is A Song",
       "url": "https://open.spotify.com/track/1yNInj2X42ZqQG6PUE57QV"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "The Beginning & Everything After",
+        "url": "https://open.spotify.com/album/30Cu7H7abvkKw8EuWckmG0"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 202480,
+      "name": "I Will Fear No More",
+      "url": "https://open.spotify.com/track/7IKh3MlTFsgFOaqKc0z7If"
     },
     {
       "added_at": "2023-02-18 03:29:19",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-02-18 03:29:19",
       "album": {
-        "name": "Haven't Seen It Yet",
-        "url": "https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 235760,
-      "name": "Wanted",
-      "url": "https://open.spotify.com/track/3IKsAac2qCd3WRTYUbivqI"
-    },
-    {
-      "added_at": "2023-02-18 03:29:19",
-      "album": {
         "name": "Fear No More",
         "url": "https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 192926,
       "name": "Fear No More",
       "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
+    },
+    {
+      "added_at": "2023-02-18 03:29:19",
+      "album": {
+        "name": "Haven't Seen It Yet",
+        "url": "https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6"
+      },
+      "artists": [
+        {
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
+        }
+      ],
+      "duration_ms": 235760,
+      "name": "Wanted",
+      "url": "https://open.spotify.com/track/3IKsAac2qCd3WRTYUbivqI"
     },
     {
       "added_at": "2023-02-18 03:29:19",

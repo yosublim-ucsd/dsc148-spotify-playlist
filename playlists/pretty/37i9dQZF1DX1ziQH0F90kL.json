@@ -1,15 +1,15 @@
 {
   "description": "Hoy es noche de...",
-  "num_followers": 9376,
+  "num_followers": 9534,
   "original_name": "Reggaeton Sexy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0MDE4NiwwMDAwMDAwMDI3NmI0NjU1N2E4ZWUwM2Y4ZDE1YzQ2ZGUxMGFiN2Zl",
+  "snapshot_id": "MTY4MDI0MDE4NiwwMDAwMDAwMDJmNGEzYmFiZjFjOWM0ODViZTNjNjg3Y2U1YTI5Njcw",
   "tracks": [
     {
-      "added_at": "2023-04-19 01:16:53",
+      "added_at": "2023-04-20 00:54:22",
       "album": {
         "name": "La Bebe (Remix)",
         "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
@@ -881,6 +881,22 @@
       "url": "https://open.spotify.com/track/7DOh0tBGnyMt6C5OO7o8Yq"
     },
     {
+      "added_at": "2023-04-20 00:54:22",
+      "album": {
+        "name": "Xexo",
+        "url": "https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Xexo",
+      "url": "https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu"
+    },
+    {
       "added_at": "2023-03-17 08:01:38",
       "album": {
         "name": "Problem\u00f3n",
@@ -903,22 +919,6 @@
     {
       "added_at": "2023-03-17 08:01:38",
       "album": {
-        "name": "Siempre Blessd",
-        "url": "https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Que Duro",
-      "url": "https://open.spotify.com/track/12RaiccXZ5yIDrHt4c5ngZ"
-    },
-    {
-      "added_at": "2023-03-17 08:01:38",
-      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
@@ -931,6 +931,22 @@
       "duration_ms": 208934,
       "name": "LEJOS DEL CIELO",
       "url": "https://open.spotify.com/track/58EM1w815O5XZGWSF7DUCf"
+    },
+    {
+      "added_at": "2023-03-17 08:01:38",
+      "album": {
+        "name": "Siempre Blessd",
+        "url": "https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Que Duro",
+      "url": "https://open.spotify.com/track/12RaiccXZ5yIDrHt4c5ngZ"
     },
     {
       "added_at": "2023-03-17 08:01:38",
@@ -951,22 +967,6 @@
       "duration_ms": 170760,
       "name": "Una Nota",
       "url": "https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA"
-    },
-    {
-      "added_at": "2023-04-19 01:16:53",
-      "album": {
-        "name": "Xexo",
-        "url": "https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Xexo",
-      "url": "https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu"
     },
     {
       "added_at": "2023-03-17 08:01:38",
@@ -1049,6 +1049,26 @@
       "url": "https://open.spotify.com/track/7hID0StXCgSbBeJ1WdHhYB"
     },
     {
+      "added_at": "2023-04-20 00:54:22",
+      "album": {
+        "name": "D X VIDA",
+        "url": "https://open.spotify.com/album/5kr54C0vWd6aZq3IarPMdk"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 182576,
+      "name": "D X VIDA",
+      "url": "https://open.spotify.com/track/3Eir8UUB1pFuaarEsAWBWS"
+    },
+    {
       "added_at": "2023-03-17 08:01:38",
       "album": {
         "name": "PORFA",
@@ -1067,26 +1087,6 @@
       "duration_ms": 233000,
       "name": "PORFA",
       "url": "https://open.spotify.com/track/3iQOfefMGDVDwo8dZoco8T"
-    },
-    {
-      "added_at": "2023-04-19 01:16:53",
-      "album": {
-        "name": "D X VIDA",
-        "url": "https://open.spotify.com/album/5kr54C0vWd6aZq3IarPMdk"
-      },
-      "artists": [
-        {
-          "name": "Alejo",
-          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
-        },
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 182576,
-      "name": "D X VIDA",
-      "url": "https://open.spotify.com/track/3Eir8UUB1pFuaarEsAWBWS"
     },
     {
       "added_at": "2023-03-17 08:01:38",
@@ -1357,6 +1357,22 @@
       "url": "https://open.spotify.com/track/41BzKiCrKpUQHS3TP0jmdr"
     },
     {
+      "added_at": "2023-04-20 00:54:22",
+      "album": {
+        "name": "L\u00edo",
+        "url": "https://open.spotify.com/album/0kzO37PJ7zVbRBv1Kruee8"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "duration_ms": 166612,
+      "name": "L\u00edo",
+      "url": "https://open.spotify.com/track/3Z0Ljf7at9S7ZRJM63uq4I"
+    },
+    {
       "added_at": "2023-03-17 08:01:38",
       "album": {
         "name": "Un Viaje",
@@ -1399,22 +1415,6 @@
       "duration_ms": 170183,
       "name": "TU SABES DONDE VIVO",
       "url": "https://open.spotify.com/track/5RgSwK9Y13567fta5goKTz"
-    },
-    {
-      "added_at": "2023-04-19 01:16:53",
-      "album": {
-        "name": "L\u00edo",
-        "url": "https://open.spotify.com/album/0kzO37PJ7zVbRBv1Kruee8"
-      },
-      "artists": [
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        }
-      ],
-      "duration_ms": 166612,
-      "name": "L\u00edo",
-      "url": "https://open.spotify.com/track/3Z0Ljf7at9S7ZRJM63uq4I"
     },
     {
       "added_at": "2023-03-17 08:01:38",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2023-03-17 08:01:38",
       "album": {
+        "name": "Nena Trampa",
+        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 183413,
+      "name": "Mal\u00e9fica",
+      "url": "https://open.spotify.com/track/0U9OZFbn82oICL2jNbpNHy"
+    },
+    {
+      "added_at": "2023-03-17 08:01:38",
+      "album": {
         "name": "Bucle",
         "url": "https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55"
       },
@@ -1499,26 +1519,6 @@
       "duration_ms": 330477,
       "name": "Ella - Remix",
       "url": "https://open.spotify.com/track/7cx9L3i88euMfx1oNCqDAD"
-    },
-    {
-      "added_at": "2023-03-17 08:01:38",
-      "album": {
-        "name": "Nena Trampa",
-        "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 183413,
-      "name": "Mal\u00e9fica",
-      "url": "https://open.spotify.com/track/0U9OZFbn82oICL2jNbpNHy"
     },
     {
       "added_at": "2023-03-17 08:01:38",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-03-17 08:01:38",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "DVD",
-      "url": "https://open.spotify.com/track/2Uk2XAamvFG6AecKgayLKU"
-    },
-    {
-      "added_at": "2023-03-17 08:01:38",
-      "album": {
         "name": "Gatita Gangster",
         "url": "https://open.spotify.com/album/6sFIObMoQlkk3lFqt926dB"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 236600,
       "name": "Gatita Gangster",
       "url": "https://open.spotify.com/track/1xbJZcVJjRvlDWG3TFgBIZ"
+    },
+    {
+      "added_at": "2023-03-17 08:01:38",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "DVD",
+      "url": "https://open.spotify.com/track/2Uk2XAamvFG6AecKgayLKU"
     },
     {
       "added_at": "2023-03-17 08:01:38",

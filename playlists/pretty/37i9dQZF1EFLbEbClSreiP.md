@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4PKFKPVOmeaE8aQbr1xK8s">Ines Dunn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60 likes - 10 songs - 28 min 59 sec
+[Spotify](https://open.spotify.com/user/spotify) - 65 likes - 10 songs - 28 min 59 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,4 +19,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 | 9 | [by the end of the night](https://open.spotify.com/track/0yrGcbCjEwowGuETML0NOT) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [by the end of the night](https://open.spotify.com/album/5N7c9Ii7LTUFs7lwHx8JKT) | 2:58 |
 | 10 | [Get Better](https://open.spotify.com/track/6ItblmqN41mj5y3FUC3ooJ) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Get Better](https://open.spotify.com/album/385j5opAYD0SP2UHmeeKFU) | 2:51 |
 
-Snapshot ID: `MjgwMzEwNjgsMDAwMDAwMDBmODMyZGFhMzRkOTljNjdkZjAxZjg1MDYwOGJmYjY0Nw==`
+Snapshot ID: `MjgwMzI1MDgsMDAwMDAwMDBhOTQ4NjI4NmNiY2EzNmYzODg3NTJjNGZmY2EwMGJjYg==`

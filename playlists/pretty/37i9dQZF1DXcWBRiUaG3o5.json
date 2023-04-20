@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1327318,
+  "num_followers": 1327281,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMGY3MjVhZTI5NWFiZTQ0NTc3NGQ0ODA0NWQwOGY1OTYw",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDAwMzYzMGVlMTViODMyZTc1MWUyNjNkNTQwNDAxNWM2",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Doomsday",
-        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "The Head And The Heart",
         "url": "https://open.spotify.com/album/4wM8y2tEaXEfGewxGPFzyu"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 163973,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/5nbzSunBRFGCI4Pb6PoCat"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Doomsday",
+        "url": "https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 351296,
-      "name": "Imagining My Man",
-      "url": "https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Some Kind of Heaven",
         "url": "https://open.spotify.com/album/6XeaMbpgFQXOvE0QtQOIhH"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 310799,
       "name": "Some Kind of Heaven",
       "url": "https://open.spotify.com/track/2lObD7vBRT6ZjyORWDIzLD"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 351296,
+      "name": "Imagining My Man",
+      "url": "https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Witness Trees",
-        "url": "https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 160821,
-      "name": "Witness Trees",
-      "url": "https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Under Dusk",
         "url": "https://open.spotify.com/album/6P2il2hKvAhUel4zPM0Dpp"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 219186,
       "name": "Under Dusk",
       "url": "https://open.spotify.com/track/3TbH823KFCLfwo8elqPtpj"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Witness Trees",
+        "url": "https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 160821,
+      "name": "Witness Trees",
+      "url": "https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "Every Kingdom (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1nJsbWm3Yy2DW1KIc1OKle"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 331173,
+      "name": "I Will Be Blessed",
+      "url": "https://open.spotify.com/track/4PFhGZLzpWQk7CumiCyNH7"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "Joy of Nothing",
         "url": "https://open.spotify.com/album/2NvXp1Yq7mslZYfZiRmGUq"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 352240,
       "name": "Guiding Light",
       "url": "https://open.spotify.com/track/1rwFqSVH8k9ovPHgAxThkN"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Every Kingdom (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1nJsbWm3Yy2DW1KIc1OKle"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 331173,
-      "name": "I Will Be Blessed",
-      "url": "https://open.spotify.com/track/4PFhGZLzpWQk7CumiCyNH7"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 212634,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Dead & Born & Grown",
         "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 246413,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 212634,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "God I Hope This Year Is Better Than the Last",
-        "url": "https://open.spotify.com/album/0uc3cq7SlAfQwTmC26p0zL"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 236849,
-      "name": "God I Hope This Year Is Better Than The Last",
-      "url": "https://open.spotify.com/track/68HuYxpnrwRnXmIo7xcYmY"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Back to Love",
         "url": "https://open.spotify.com/album/7yYWY91DNndW9RueF2vOv5"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 231120,
       "name": "Back to Love",
       "url": "https://open.spotify.com/track/6ijaOh1FGwPCmcpOJWPUtI"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "God I Hope This Year Is Better Than the Last",
+        "url": "https://open.spotify.com/album/0uc3cq7SlAfQwTmC26p0zL"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 236849,
+      "name": "God I Hope This Year Is Better Than The Last",
+      "url": "https://open.spotify.com/track/68HuYxpnrwRnXmIo7xcYmY"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Tragedy Reel",
-        "url": "https://open.spotify.com/album/5YYAGPTggoqXxidTTb7AgM"
-      },
-      "artists": [
-        {
-          "name": "Fog Lake",
-          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
-        }
-      ],
-      "duration_ms": 201028,
-      "name": "Catacombs",
-      "url": "https://open.spotify.com/track/2SE7iLlDGwXFHdIj256n7O"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Not Nearly Dark",
         "url": "https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 226880,
       "name": "Little More Time",
       "url": "https://open.spotify.com/track/44yqXBoQ7KV3jZdvGUiAex"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Tragedy Reel",
+        "url": "https://open.spotify.com/album/5YYAGPTggoqXxidTTb7AgM"
+      },
+      "artists": [
+        {
+          "name": "Fog Lake",
+          "url": "https://open.spotify.com/artist/04GCjO1r1hPelibCUq9S8H"
+        }
+      ],
+      "duration_ms": 201028,
+      "name": "Catacombs",
+      "url": "https://open.spotify.com/track/2SE7iLlDGwXFHdIj256n7O"
     },
     {
       "added_at": "2023-04-07 04:00:00",

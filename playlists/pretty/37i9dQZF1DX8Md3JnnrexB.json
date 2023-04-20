@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 193625,
+  "num_followers": 193668,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDE5ODMyNCwwMDAwMDAwMGY5OTU0MGZkZTVlOWEyN2E1MDM0YWQ2Y2IxM2M3NmM2",
+  "snapshot_id": "MTY4MDE5ODMyNCwwMDAwMDAwMGZmNmMyOWMwZWNmYjlkZTUxYTkwMDI3YTNmYzI0MDFh",
   "tracks": [
     {
       "added_at": "2023-02-21 15:26:09",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-02-21 15:26:09",
       "album": {
-        "name": "Now We May Begin",
-        "url": "https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG"
-      },
-      "artists": [
-        {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
-        }
-      ],
-      "duration_ms": 302653,
-      "name": "One Day I'll Fly Away",
-      "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
-    },
-    {
-      "added_at": "2023-02-21 15:26:09",
-      "album": {
         "name": "What's Going On",
         "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 327706,
       "name": "Inner City Blues (Make Me Wanna Holler)",
       "url": "https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4"
+    },
+    {
+      "added_at": "2023-02-21 15:26:09",
+      "album": {
+        "name": "Now We May Begin",
+        "url": "https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG"
+      },
+      "artists": [
+        {
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+        }
+      ],
+      "duration_ms": 302653,
+      "name": "One Day I'll Fly Away",
+      "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
     },
     {
       "added_at": "2023-02-21 15:26:09",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-02-21 15:26:09",
       "album": {
-        "name": "Young, Gifted and Black",
-        "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "Day Dreaming",
-      "url": "https://open.spotify.com/track/7L4G39PVgMfaeHRyi1ML7y"
-    },
-    {
-      "added_at": "2023-02-21 15:26:09",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 233560,
       "name": "Ain't No Love In The Heart Of The City - Single Version",
       "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
+    },
+    {
+      "added_at": "2023-02-21 15:26:09",
+      "album": {
+        "name": "Young, Gifted and Black",
+        "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "Day Dreaming",
+      "url": "https://open.spotify.com/track/7L4G39PVgMfaeHRyi1ML7y"
     },
     {
       "added_at": "2023-02-21 15:26:09",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-02-21 15:26:09",
       "album": {
-        "name": "Still Groovin (Remastered)",
-        "url": "https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL"
-      },
-      "artists": [
-        {
-          "name": "Paul Carrack",
-          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
-        }
-      ],
-      "duration_ms": 163320,
-      "name": "Groovin' - Remastered",
-      "url": "https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA"
-    },
-    {
-      "added_at": "2023-02-21 15:26:09",
-      "album": {
         "name": "Collected",
         "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 262266,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
+    },
+    {
+      "added_at": "2023-02-21 15:26:09",
+      "album": {
+        "name": "Still Groovin (Remastered)",
+        "url": "https://open.spotify.com/album/0tbD9NloEactUnj0nliNkL"
+      },
+      "artists": [
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        }
+      ],
+      "duration_ms": 163320,
+      "name": "Groovin' - Remastered",
+      "url": "https://open.spotify.com/track/3nqC1N0ySzuSE0bThf6eSA"
     },
     {
       "added_at": "2023-02-21 15:26:09",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-02-21 15:26:09",
       "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 292733,
+      "name": "Always and Forever",
+      "url": "https://open.spotify.com/track/3xvcFlh6hHqxyiAFkqpsjZ"
+    },
+    {
+      "added_at": "2023-02-21 15:26:09",
+      "album": {
         "name": "The Dude",
         "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 259040,
       "name": "One Hundred Ways",
       "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
-    },
-    {
-      "added_at": "2023-02-21 15:26:09",
-      "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 292733,
-      "name": "Always and Forever",
-      "url": "https://open.spotify.com/track/3xvcFlh6hHqxyiAFkqpsjZ"
     },
     {
       "added_at": "2023-02-21 15:26:09",
@@ -1239,54 +1239,6 @@
     {
       "added_at": "2023-02-21 15:26:09",
       "album": {
-        "name": "Soul Organic (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5LSIUNn84sL3UuisPPXxpI"
-      },
-      "artists": [
-        {
-          "name": "Hil St. Soul",
-          "url": "https://open.spotify.com/artist/7bYgUzgUILyzwkf6RHZf9J"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Until You Come Back To Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/35mRESJIDfi2nldzebPTmb"
-    },
-    {
-      "added_at": "2023-02-21 15:26:09",
-      "album": {
-        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
-        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
-      },
-      "artists": [
-        {
-          "name": "The Floaters",
-          "url": "https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS"
-        }
-      ],
-      "duration_ms": 255173,
-      "name": "Float On - Single Version",
-      "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
-    },
-    {
-      "added_at": "2023-02-21 15:26:09",
-      "album": {
-        "name": "After Midnight (Expanded Version)",
-        "url": "https://open.spotify.com/album/2s4V3nu27HX9pp5PglpCVJ"
-      },
-      "artists": [
-        {
-          "name": "The Manhattans",
-          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
-        }
-      ],
-      "duration_ms": 281853,
-      "name": "Shining Star",
-      "url": "https://open.spotify.com/track/0np4arBSp4ZBOfXGZhXQ4I"
-    },
-    {
-      "added_at": "2023-02-21 15:26:09",
-      "album": {
         "name": "Original Musiquarium",
         "url": "https://open.spotify.com/album/2g9Ij40DD7aPaG4hwa8Uab"
       },
@@ -1319,18 +1271,50 @@
     {
       "added_at": "2023-02-21 15:26:09",
       "album": {
-        "name": "High Crime",
-        "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
+        "name": "After Midnight (Expanded Version)",
+        "url": "https://open.spotify.com/album/2s4V3nu27HX9pp5PglpCVJ"
       },
       "artists": [
         {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+          "name": "The Manhattans",
+          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
         }
       ],
-      "duration_ms": 259532,
-      "name": "After All",
-      "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
+      "duration_ms": 281853,
+      "name": "Shining Star",
+      "url": "https://open.spotify.com/track/0np4arBSp4ZBOfXGZhXQ4I"
+    },
+    {
+      "added_at": "2023-02-21 15:26:09",
+      "album": {
+        "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
+        "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
+      },
+      "artists": [
+        {
+          "name": "The Floaters",
+          "url": "https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS"
+        }
+      ],
+      "duration_ms": 255173,
+      "name": "Float On - Single Version",
+      "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
+    },
+    {
+      "added_at": "2023-02-21 15:26:09",
+      "album": {
+        "name": "Soul Organic (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5LSIUNn84sL3UuisPPXxpI"
+      },
+      "artists": [
+        {
+          "name": "Hil St. Soul",
+          "url": "https://open.spotify.com/artist/7bYgUzgUILyzwkf6RHZf9J"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Until You Come Back To Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/35mRESJIDfi2nldzebPTmb"
     },
     {
       "added_at": "2023-02-21 15:26:09",
@@ -1351,6 +1335,22 @@
       "duration_ms": 298066,
       "name": "Everytime I Close My Eyes (with Babyface)",
       "url": "https://open.spotify.com/track/3QAWgoXqVTJ77tmy4ctoyB"
+    },
+    {
+      "added_at": "2023-02-21 15:26:09",
+      "album": {
+        "name": "High Crime",
+        "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 259532,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
     },
     {
       "added_at": "2023-02-21 15:26:09",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-02-21 15:26:09",
       "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
-    },
-    {
-      "added_at": "2023-02-21 15:26:09",
-      "album": {
         "name": "Morning Sun",
         "url": "https://open.spotify.com/album/2l5jrbQaw9la2srKsDt7D6"
       },
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2023-02-21 15:26:09",
       "album": {
+        "name": "Give Me the Night",
+        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 286960,
+      "name": "Love X Love",
+      "url": "https://open.spotify.com/track/1Gnufs5iuI3h5ow29J7tOO"
+    },
+    {
+      "added_at": "2023-02-21 15:26:09",
+      "album": {
         "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
         "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
       },
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2023-02-21 15:26:09",
       "album": {
-        "name": "Give Me the Night",
-        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
       },
       "artists": [
         {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
         }
       ],
-      "duration_ms": 286960,
-      "name": "Love X Love",
-      "url": "https://open.spotify.com/track/1Gnufs5iuI3h5ow29J7tOO"
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2023-02-21 15:26:09",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-02-21 15:26:09",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/10dbzUrxRpxkot3QENMGFV"
-      },
-      "artists": [
-        {
-          "name": "Bebe & Cece Winans",
-          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
-        }
-      ],
-      "duration_ms": 254600,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/6BOJ0nczgHMiklqraMDfMv"
-    },
-    {
-      "added_at": "2023-02-21 15:26:09",
-      "album": {
         "name": "Alone But Not Alone",
         "url": "https://open.spotify.com/album/7MRDIQVnFbhULpA3Blil6t"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 262866,
       "name": "Just Don't Wanna Know",
       "url": "https://open.spotify.com/track/4qawsTQMIjiRZvbJB0vp7i"
+    },
+    {
+      "added_at": "2023-02-21 15:26:09",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/10dbzUrxRpxkot3QENMGFV"
+      },
+      "artists": [
+        {
+          "name": "Bebe & Cece Winans",
+          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
+        }
+      ],
+      "duration_ms": 254600,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/6BOJ0nczgHMiklqraMDfMv"
     },
     {
       "added_at": "2023-02-21 15:26:09",
@@ -1815,42 +1815,6 @@
     {
       "added_at": "2023-02-21 15:26:09",
       "album": {
-        "name": "Songs That Made Me Feel",
-        "url": "https://open.spotify.com/album/4HxdC77nF9ywR1s1mS4Jk7"
-      },
-      "artists": [
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        },
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 188440,
-      "name": "Come To Me",
-      "url": "https://open.spotify.com/track/0YKdx0eEYVJ18peEsgtc2p"
-    },
-    {
-      "added_at": "2023-02-21 15:26:09",
-      "album": {
-        "name": "The Best Of The Stylistics and More 30th Anniversary Edition",
-        "url": "https://open.spotify.com/album/0XCFf2EGPTZuIrDJeu7dPW"
-      },
-      "artists": [
-        {
-          "name": "The Stylistics",
-          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
-        }
-      ],
-      "duration_ms": 211560,
-      "name": "People Make The World Go Round",
-      "url": "https://open.spotify.com/track/0JB6XDnV6U6M9U6j4VotoH"
-    },
-    {
-      "added_at": "2023-02-21 15:26:09",
-      "album": {
         "name": "Golden Time Of Day (Remastered)",
         "url": "https://open.spotify.com/album/3MorhYBBdoEOeBJlkWHXIS"
       },
@@ -1867,6 +1831,22 @@
       "duration_ms": 333666,
       "name": "Golden Time Of Day - Remastered",
       "url": "https://open.spotify.com/track/0epdaOT9HBO8Mm7ykRuFpT"
+    },
+    {
+      "added_at": "2023-02-21 15:26:09",
+      "album": {
+        "name": "The Best Of The Stylistics and More 30th Anniversary Edition",
+        "url": "https://open.spotify.com/album/0XCFf2EGPTZuIrDJeu7dPW"
+      },
+      "artists": [
+        {
+          "name": "The Stylistics",
+          "url": "https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "People Make The World Go Round",
+      "url": "https://open.spotify.com/track/0JB6XDnV6U6M9U6j4VotoH"
     },
     {
       "added_at": "2023-02-21 15:26:09",
@@ -1923,22 +1903,6 @@
     {
       "added_at": "2023-02-21 15:26:09",
       "album": {
-        "name": "Circle Of One",
-        "url": "https://open.spotify.com/album/2U6BLZitsauouOL80Avn7f"
-      },
-      "artists": [
-        {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
-        }
-      ],
-      "duration_ms": 276733,
-      "name": "Get Here",
-      "url": "https://open.spotify.com/track/1KT3ndndHOGXePgC4o0Jq9"
-    },
-    {
-      "added_at": "2023-02-21 15:26:09",
-      "album": {
         "name": "The Ultimate Collection",
         "url": "https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv"
       },
@@ -1951,6 +1915,22 @@
       "duration_ms": 229440,
       "name": "Turn Your Love Around - 2015 GH Version",
       "url": "https://open.spotify.com/track/3jlKeObN7azQvrySwLdvP3"
+    },
+    {
+      "added_at": "2023-02-21 15:26:09",
+      "album": {
+        "name": "Circle Of One",
+        "url": "https://open.spotify.com/album/2U6BLZitsauouOL80Avn7f"
+      },
+      "artists": [
+        {
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
+        }
+      ],
+      "duration_ms": 276733,
+      "name": "Get Here",
+      "url": "https://open.spotify.com/track/1KT3ndndHOGXePgC4o0Jq9"
     },
     {
       "added_at": "2023-02-21 15:26:09",
@@ -2179,6 +2159,22 @@
     {
       "added_at": "2023-02-21 15:26:09",
       "album": {
+        "name": "A Quiet Storm",
+        "url": "https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 468653,
+      "name": "Quiet Storm",
+      "url": "https://open.spotify.com/track/1JhpdM2PtIsKC0lrBTPSAK"
+    },
+    {
+      "added_at": "2023-02-21 15:26:09",
+      "album": {
         "name": "Be Thankful for What You Got",
         "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
       },
@@ -2231,22 +2227,6 @@
     {
       "added_at": "2023-02-21 15:26:09",
       "album": {
-        "name": "A Quiet Storm",
-        "url": "https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 468653,
-      "name": "Quiet Storm",
-      "url": "https://open.spotify.com/track/1JhpdM2PtIsKC0lrBTPSAK"
-    },
-    {
-      "added_at": "2023-02-21 15:26:09",
-      "album": {
         "name": "The Masters Series: Mellow Groove",
         "url": "https://open.spotify.com/album/4T9c1w0NNJ4RC60igvEo1m"
       },
@@ -2267,18 +2247,18 @@
     {
       "added_at": "2023-02-21 15:26:09",
       "album": {
-        "name": "The Manhattans (Expanded Version)",
-        "url": "https://open.spotify.com/album/3FlfDtvO4nTwdfJQRzLgyv"
+        "name": "Beautiful Ballads",
+        "url": "https://open.spotify.com/album/3n1ns559FpWpj2A6tiVMW8"
       },
       "artists": [
         {
-          "name": "The Manhattans",
-          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
         }
       ],
-      "duration_ms": 181306,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/31S04SZjQCMUTEIF9PWIEp"
+      "duration_ms": 300226,
+      "name": "Love, Need and Want You",
+      "url": "https://open.spotify.com/track/2PMW9aVSHvMwUC428yfDqx"
     },
     {
       "added_at": "2023-02-21 15:26:09",
@@ -2319,18 +2299,18 @@
     {
       "added_at": "2023-02-21 15:26:09",
       "album": {
-        "name": "Beautiful Ballads",
-        "url": "https://open.spotify.com/album/3n1ns559FpWpj2A6tiVMW8"
+        "name": "The Manhattans (Expanded Version)",
+        "url": "https://open.spotify.com/album/3FlfDtvO4nTwdfJQRzLgyv"
       },
       "artists": [
         {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+          "name": "The Manhattans",
+          "url": "https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf"
         }
       ],
-      "duration_ms": 300226,
-      "name": "Love, Need and Want You",
-      "url": "https://open.spotify.com/track/2PMW9aVSHvMwUC428yfDqx"
+      "duration_ms": 181306,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/31S04SZjQCMUTEIF9PWIEp"
     },
     {
       "added_at": "2023-02-21 15:26:09",
@@ -2371,22 +2351,6 @@
     {
       "added_at": "2023-02-21 15:26:09",
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 360400,
-      "name": "It Don't Hurt Now",
-      "url": "https://open.spotify.com/track/3hyp18EIQAjAFqVAMcpCQJ"
-    },
-    {
-      "added_at": "2023-02-21 15:26:09",
-      "album": {
         "name": "The Essentials: Ambrosia",
         "url": "https://open.spotify.com/album/1CB0IK8U51Tv4ynJYdKKXW"
       },
@@ -2399,6 +2363,22 @@
       "duration_ms": 326800,
       "name": "Biggest Part of Me - Remastered Version",
       "url": "https://open.spotify.com/track/5APylRvEGGAegrESwuG3A0"
+    },
+    {
+      "added_at": "2023-02-21 15:26:09",
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 360400,
+      "name": "It Don't Hurt Now",
+      "url": "https://open.spotify.com/track/3hyp18EIQAjAFqVAMcpCQJ"
     },
     {
       "added_at": "2023-02-21 15:26:09",
@@ -2419,6 +2399,22 @@
     {
       "added_at": "2023-02-21 15:26:09",
       "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 177706,
+      "name": "Groovin'",
+      "url": "https://open.spotify.com/track/1FjyfUBL7Dj1GpSxL1XLCQ"
+    },
+    {
+      "added_at": "2023-02-21 15:26:09",
+      "album": {
         "name": "Back for More",
         "url": "https://open.spotify.com/album/4QshQgkwrqisn6j9yJZ1qb"
       },
@@ -2435,22 +2431,6 @@
       "duration_ms": 309226,
       "name": "I'm Back for More",
       "url": "https://open.spotify.com/track/2zC0uKFfERvtOYNKendhEs"
-    },
-    {
-      "added_at": "2023-02-21 15:26:09",
-      "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 177706,
-      "name": "Groovin'",
-      "url": "https://open.spotify.com/track/1FjyfUBL7Dj1GpSxL1XLCQ"
     },
     {
       "added_at": "2023-02-21 15:26:09",
@@ -2515,6 +2495,22 @@
       "duration_ms": 278333,
       "name": "'Til You Come Back to Me",
       "url": "https://open.spotify.com/track/7D3rmjinop0EDd9ouwTaT1"
+    },
+    {
+      "added_at": "2023-02-21 15:26:09",
+      "album": {
+        "name": "Bobby Caldwell Sings Smooth Jazz Classics",
+        "url": "https://open.spotify.com/album/2NeeTMtdKPsugLhlhNotvT"
+      },
+      "artists": [
+        {
+          "name": "Bobby Caldwell",
+          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
+        }
+      ],
+      "duration_ms": 289533,
+      "name": "Don't Ask My Neighbor",
+      "url": "https://open.spotify.com/track/7n4dZXt5wfrS3ulpSszdSp"
     }
   ],
   "unique_name": "Soulful Blend",

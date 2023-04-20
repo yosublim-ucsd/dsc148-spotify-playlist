@@ -1,12 +1,12 @@
 {
   "description": "Upbeat dance pop to keep your heart pumping.",
-  "num_followers": 3946485,
+  "num_followers": 3948085,
   "original_name": "Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMGYxNjliNDkwODhiZmQwMGE2MmVlNTI0MzRhZDFiODJj",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDRlOGMyMDc1OWM4YzFkNjVhNDUwZDNmNzhmZDgwMzFi",
   "tracks": [
     {
       "added_at": "2023-03-24 04:00:00",
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
     },
     {
-      "added_at": "2023-04-19 00:03:15",
+      "added_at": "2023-04-20 00:38:12",
       "album": {
         "name": "Lay Me Down",
         "url": "https://open.spotify.com/album/3Z47TukPkoS9uwVqG0qno7"
@@ -821,6 +821,26 @@
       "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
     },
     {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Substitution",
+        "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        }
+      ],
+      "duration_ms": 181477,
+      "name": "Substitution",
+      "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Dive",
@@ -867,26 +887,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Tell It To My Heart",
-        "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 165524,
-      "name": "Tell It To My Heart",
-      "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
       },
@@ -905,24 +905,24 @@
       "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Substitution",
-        "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
+        "name": "Tell It To My Heart",
+        "url": "https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G"
       },
       "artists": [
         {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 181477,
-      "name": "Substitution",
-      "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
+      "duration_ms": 165524,
+      "name": "Tell It To My Heart",
+      "url": "https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 169672,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
         "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
         "url": "https://open.spotify.com/album/7rE2qU0GsiIiNd4VPupV3B"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 157205,
       "name": "I Was Made For Lovin' You (feat. Nile Rodgers & House Gospel Choir)",
       "url": "https://open.spotify.com/track/2LxdNADWier3MKTei8FbOY"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 169672,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Dancing's Done",
-        "url": "https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7"
+        "name": "La Danza",
+        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         }
       ],
-      "duration_ms": 166906,
-      "name": "Dancing\u2019s Done",
-      "url": "https://open.spotify.com/track/06yG42F8p8l621YLki0rp2"
+      "duration_ms": 157619,
+      "name": "La Danza",
+      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1435,42 +1435,18 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "La Danza",
-        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
+        "name": "Dancing's Done",
+        "url": "https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 157619,
-      "name": "La Danza",
-      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Next To You (feat. Kane Brown)",
-        "url": "https://open.spotify.com/album/2lN4M7HJ3xPgPFpVuInEQe"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "DVBBS",
-          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 161344,
-      "name": "Next To You (feat. Kane Brown)",
-      "url": "https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq"
+      "duration_ms": 166906,
+      "name": "Dancing\u2019s Done",
+      "url": "https://open.spotify.com/track/06yG42F8p8l621YLki0rp2"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1499,22 +1475,26 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Rule The World",
-        "url": "https://open.spotify.com/album/4tgL0C4pYRxpNLde755TFr"
+        "name": "Next To You (feat. Kane Brown)",
+        "url": "https://open.spotify.com/album/2lN4M7HJ3xPgPFpVuInEQe"
       },
       "artists": [
         {
-          "name": "GAMPER & DADONI",
-          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
         },
         {
-          "name": "ILIRA",
-          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 170785,
-      "name": "Rule The World",
-      "url": "https://open.spotify.com/track/22sKunNSPMCy2lvSLOY5yX"
+      "duration_ms": 161344,
+      "name": "Next To You (feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1543,6 +1523,26 @@
       "duration_ms": 121987,
       "name": "The Drop",
       "url": "https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Rule The World",
+        "url": "https://open.spotify.com/album/4tgL0C4pYRxpNLde755TFr"
+      },
+      "artists": [
+        {
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        },
+        {
+          "name": "ILIRA",
+          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+        }
+      ],
+      "duration_ms": 170785,
+      "name": "Rule The World",
+      "url": "https://open.spotify.com/track/22sKunNSPMCy2lvSLOY5yX"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1815,6 +1815,26 @@
     {
       "added_at": "2023-03-24 04:00:00",
       "album": {
+        "name": "Walker Racing League",
+        "url": "https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 136563,
+      "name": "Running Out Of Roses",
+      "url": "https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
         "name": "Risk It All",
         "url": "https://open.spotify.com/album/5M3l5zq8jxFRcF2143SbH5"
       },
@@ -1835,26 +1855,6 @@
       "duration_ms": 178064,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/2ntTfXxuIi3jlePOKSz26N"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Walker Racing League",
-        "url": "https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 136563,
-      "name": "Running Out Of Roses",
-      "url": "https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM"
     },
     {
       "added_at": "2023-03-24 04:00:00",

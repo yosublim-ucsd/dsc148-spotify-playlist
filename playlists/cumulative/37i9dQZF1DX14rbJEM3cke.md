@@ -2,7 +2,7 @@
 
 ### [Rock Frequency](https://open.spotify.com/playlist/37i9dQZF1DX14rbJEM3cke)
 
-> New Rock driving the current, every week\. Cover: Connie Constance, artwork by Ian Woods
+> New Rock driving the current, every week.
 
 194 songs - 9 hr 50 min
 

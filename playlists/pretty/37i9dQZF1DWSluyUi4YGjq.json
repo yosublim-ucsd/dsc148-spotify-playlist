@@ -1,12 +1,12 @@
 {
   "description": "A new gen of bands gazing at their pedals, while soaring celestially-high. Winter on cover!",
-  "num_followers": 60065,
+  "num_followers": 60511,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTUxMzc5NSwwMDAwMDAwMDBjZjg1ZjRiNDkzNDM1NzY5NzA4MWFiNDM0M2EwMjBh",
+  "snapshot_id": "MTY4MTUxMzc5NSwwMDAwMDAwMGM5Nzg2ZDYyZTBkYTZlNjRiZWEzNWYyNjUwYTBlNTg0",
   "tracks": [
     {
       "added_at": "2023-03-13 22:23:31",
@@ -541,20 +541,20 @@
       "url": "https://open.spotify.com/track/0gZziRdBUBIeucaKpRiAYO"
     },
     {
-      "added_at": "2022-12-15 18:01:43",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Odes to the Void",
-        "url": "https://open.spotify.com/album/1Ud8ocMaTVL95qa1jN9vJS"
+        "name": "The Big Roar",
+        "url": "https://open.spotify.com/album/2R45MnKwqMVAuqQ6UvNwet"
       },
       "artists": [
         {
-          "name": "Life On Venus",
-          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
+          "name": "The Joy Formidable",
+          "url": "https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3"
         }
       ],
-      "duration_ms": 208450,
-      "name": "For the Kill",
-      "url": "https://open.spotify.com/track/5Q2anZvDOyIc4OY5V47svD"
+      "duration_ms": 407160,
+      "name": "Whirring",
+      "url": "https://open.spotify.com/track/2XbqxKjCnE9YWfPRqwgtPq"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -573,20 +573,20 @@
       "url": "https://open.spotify.com/track/4tLh6ilwgHAWnkui4hAR3p"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2022-12-15 18:01:43",
       "album": {
-        "name": "The Big Roar",
-        "url": "https://open.spotify.com/album/2R45MnKwqMVAuqQ6UvNwet"
+        "name": "Odes to the Void",
+        "url": "https://open.spotify.com/album/1Ud8ocMaTVL95qa1jN9vJS"
       },
       "artists": [
         {
-          "name": "The Joy Formidable",
-          "url": "https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3"
+          "name": "Life On Venus",
+          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
         }
       ],
-      "duration_ms": 407160,
-      "name": "Whirring",
-      "url": "https://open.spotify.com/track/2XbqxKjCnE9YWfPRqwgtPq"
+      "duration_ms": 208450,
+      "name": "For the Kill",
+      "url": "https://open.spotify.com/track/5Q2anZvDOyIc4OY5V47svD"
     },
     {
       "added_at": "2023-02-27 23:19:06",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "The Waves",
-        "url": "https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG"
-      },
-      "artists": [
-        {
-          "name": "Tamaryn",
-          "url": "https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "Love Fade",
-      "url": "https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
         "name": "Winks & Kisses: Melted",
         "url": "https://open.spotify.com/album/3CMsAHPmMOWfmDKL7ZGwfE"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 566466,
       "name": "In Your Room",
       "url": "https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "The Waves",
+        "url": "https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG"
+      },
+      "artists": [
+        {
+          "name": "Tamaryn",
+          "url": "https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "Love Fade",
+      "url": "https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -1101,6 +1101,22 @@
       "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/5PcCgXyYFXsjQvS1Wjv8LU"
+      },
+      "artists": [
+        {
+          "name": "Slow Joy",
+          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
+        }
+      ],
+      "duration_ms": 173453,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/10FlXJUgM6r159dNILdFDt"
+    },
+    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "Dead Kids R.I.P. City",
@@ -1133,20 +1149,20 @@
       "url": "https://open.spotify.com/track/2gF3wvkKkkuAXGFzAPUBSa"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/5PcCgXyYFXsjQvS1Wjv8LU"
+        "name": "Colour Trip",
+        "url": "https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB"
       },
       "artists": [
         {
-          "name": "Slow Joy",
-          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
+          "name": "Ringo Deathstarr",
+          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
         }
       ],
-      "duration_ms": 173453,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/10FlXJUgM6r159dNILdFDt"
+      "duration_ms": 125333,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
     },
     {
       "added_at": "2022-12-15 18:01:43",
@@ -1163,22 +1179,6 @@
       "duration_ms": 230197,
       "name": "Strawberry Cream",
       "url": "https://open.spotify.com/track/0kVQozLQGhKL6FGzCcnCPF"
-    },
-    {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Colour Trip",
-        "url": "https://open.spotify.com/album/4etQkD7AQtkMO1t5nQa1rB"
-      },
-      "artists": [
-        {
-          "name": "Ringo Deathstarr",
-          "url": "https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg"
-        }
-      ],
-      "duration_ms": 125333,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
     },
     {
       "added_at": "2022-12-15 18:01:43",

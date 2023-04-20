@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD?si=yaJau0xDRVyS\-9XTNnbhXg"> Preyé </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,553 likes - 90 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,564 likes - 90 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 11 | [Saints Row](https://open.spotify.com/track/3OGKSo3gKQnQbG7d8GFLJE) | [Oshunda](https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C) | [Saints Row](https://open.spotify.com/album/6kEjvHgwHodZdPhLBpQzxu) | 2:56 |
 | 12 | [Pretty](https://open.spotify.com/track/6WdVWpAVtE7CSKophvVSKa) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Pretty](https://open.spotify.com/album/0XvhZJjWZiuvE8tTcsyjnB) | 2:31 |
 | 13 | [My Baby](https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Baby](https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2) | 3:10 |
-| 14 | [Low eyes](https://open.spotify.com/track/1Yo8mvFfFQswraMF7uuhIn) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Iordan Adrian](https://open.spotify.com/artist/0nJVVyhWFonf5JojJAggHs) | [Low eyes](https://open.spotify.com/album/5BKCapyPTSHptN7k2oAxXX) | 2:11 |
+| 14 | [Low eyes](https://open.spotify.com/track/1Yo8mvFfFQswraMF7uuhIn) | [Zubi](https://open.spotify.com/artist/1u58ZRn45A7jc3QmucALbY), [Iordan](https://open.spotify.com/artist/3pUxEfvD8SmdUQONUmfqZo) | [Low eyes](https://open.spotify.com/album/5BKCapyPTSHptN7k2oAxXX) | 2:11 |
 | 15 | [Selling Dreams](https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Selling Dreams](https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL) | 2:28 |
 | 16 | [See Finish](https://open.spotify.com/track/5ydzXyCRG9AUq9w8pIf0Uc) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [See Finish](https://open.spotify.com/album/2f3gCbx2qefdq823voOXuh) | 3:00 |
 | 17 | [Jejely](https://open.spotify.com/track/5x7NKpGAobN005jS36GnH1) | [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Jejely](https://open.spotify.com/album/3iMfiM40oxLibQGnttPGMO) | 3:01 |

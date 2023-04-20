@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 
 > Lovingly updated every week when possible \.  Make sure to click the heart 💓 to follow the playlist 140, deep bass,  glitch hop,  halftime, dubstep, DnB, Wave
 
-[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 6,107 likes - 34 songs - 2 hr 14 min
+[An\-Ten\-Nae](https://open.spotify.com/user/124011761) - 6,109 likes - 35 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,5 +42,6 @@ pretty - [cumulative](/playlists/cumulative/4ugml2yTfIJzuEpytnzJYP.md) - [plain]
 | 32 | [A+ Mentality](https://open.spotify.com/track/6SUpiUkn6Cithp0ofyoh5g) | [Willdabeast](https://open.spotify.com/artist/4naFHw38cWUbiBKizrxaQx), [Glyph](https://open.spotify.com/artist/6VREHBNeXScftrRNu4RQQ5) | [A+ Mentality](https://open.spotify.com/album/2eVBTqjm5X9Hh0VFKEewge) | 4:34 |
 | 33 | [Labyrinth](https://open.spotify.com/track/7ekiqZJtrPeBxDUhiGxZSg) | [Cartridge](https://open.spotify.com/artist/6Z9jFhogCbjbbzlHlE2MIn) | [Labyrinth](https://open.spotify.com/album/7uCUp9VLCSvqa9gWf07nLa) | 3:18 |
 | 34 | [Shroud](https://open.spotify.com/track/5048sG1m90o3QwBVj7y6T0) | [Nahlith](https://open.spotify.com/artist/0gKRNAatXm1v7V34aoWyFJ) | [Shroud](https://open.spotify.com/album/3oJD0kN86cenW074IGBhYP) | 3:46 |
+| 35 | [You \- Original Mix](https://open.spotify.com/track/4R6Q146obmbOCTcGS7yrqZ) | [David Starfire](https://open.spotify.com/artist/6nhEcP9sIqaoQ6hM5R55IB), [Oriel](https://open.spotify.com/artist/3BSLNWpFU1TCnEC1OcYLSS) | [You](https://open.spotify.com/album/02pWS51vtFYL4yqJa7gDQd) | 3:49 |
 
-Snapshot ID: `MjEyOSwzMGExNGE1NThlZTJjNTZhNzMxM2QxYzU3OGI2ODcwZDlkNzI2MDdj`
+Snapshot ID: `MjEzMCwzODExNTNlMGRhNTM0Yzk0MTYzYmEyZTM0NmY2ZDU4YmY4MTQ3MmJm`

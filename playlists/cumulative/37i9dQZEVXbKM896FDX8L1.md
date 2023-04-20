@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ireland.
 
-1,031 songs - 2 day 12 hr 19 min
+1,032 songs - 2 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Familia](https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX) | 3:26 | 2022-04-09 | 2022-09-13 |
 | [Bat Out of Hell](https://open.spotify.com/track/0VafPclbphrwh36WraHWws) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/0elHWyUbF2KLuHl8GjlzEM) | 9:50 | 2022-01-22 | 2022-01-26 |
 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 | 2021-03-27\* | 2021-10-10 |
-| [Before You Go](https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:35 | 2022-06-26 |  |
+| [Before You Go](https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:35 | 2022-06-26 | 2023-04-20 |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-01-29 | 2022-01-31 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-06-16 | 2021-11-11 |
 | [Begin Again \(Taylor's Version\)](https://open.spotify.com/track/05GsNucq8Bngd9fnd4fRa0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:58 | 2021-11-14 | 2021-11-14 |
@@ -1004,6 +1004,7 @@
 | [Where Have You Been](https://open.spotify.com/track/1uN0f4NqMDcReSwXO6PLuG) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk \(Explicit\)](https://open.spotify.com/album/16ySsalaP2FiKVDlYCWnYh) | 4:02 | 2023-02-14 | 2023-02-19 |
 | [Where Your Road Leads](https://open.spotify.com/track/4Y8EyXnq5CLR8A7EHXxx7L) | [Garth Brooks](https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Where Your Road Leads](https://open.spotify.com/album/6l9KppfaP2OOV7SFDwmKNz) | 3:26 | 2022-09-11 | 2022-09-13 |
 | [Whiskey in the Jar](https://open.spotify.com/track/1rJCuds0vDMAjF5RdZU7bq) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH), [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [Hell's Ditch \(Expanded Edition\)](https://open.spotify.com/album/6vWXyEHqnvo4C5xniFTmR8) | 2:41 | 2023-03-18 | 2023-03-20 |
+| [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 | 2023-04-19 |  |
 | [White Christmas](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq) | 2:57 | 2021-11-28 | 2022-12-29 |
 | [White Horse \(Taylor’s Version\)](https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 3:54 | 2021-04-11 | 2021-04-13 |
 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/48q0vSHcJdhK3IiXH8C5WJ) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/6645HGh7ZOZSUTpqW9iYLR) | 2:41 | 2022-09-02 | 2022-10-09 |

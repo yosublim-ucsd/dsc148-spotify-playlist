@@ -1,12 +1,12 @@
 {
   "description": "Power through your chores with these upbeat tracks.",
-  "num_followers": 215047,
+  "num_followers": 215231,
   "original_name": "Housework Hits!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDMzNTg4MiwwMDAwMDAwMDg2NGI3OTQ0MDNhMjZhZmY3NDIyMGQ3N2JkOTFmNjdh",
+  "snapshot_id": "MTY0MDMzNTg4MiwwMDAwMDAwMDFiMjQ1ZGI2Y2Q5NzcxYzhmNjA2ZDBjNjkxMDdjNDY0",
   "tracks": [
     {
       "added_at": "2021-12-24 08:51:22",
@@ -319,6 +319,22 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
+        "name": "Fanmail",
+        "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "No Scrubs",
+      "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
         "name": "Blowin' Your Mind!",
         "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
       },
@@ -335,18 +351,18 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "Fanmail",
-        "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
+        "name": "21",
+        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
       "artists": [
         {
-          "name": "TLC",
-          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 214400,
-      "name": "No Scrubs",
-      "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
+      "duration_ms": 228093,
+      "name": "Rolling in the Deep",
+      "url": "https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -379,22 +395,6 @@
       "duration_ms": 226653,
       "name": "Everywhere - 2017 Remaster",
       "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Rolling in the Deep",
-      "url": "https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "Sweet Caroline",
-        "url": "https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Sweet Caroline",
-      "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
         "name": "No Protection",
         "url": "https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 270333,
       "name": "Nothing's Gonna Stop Us Now",
       "url": "https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
+        "name": "Sweet Caroline",
+        "url": "https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Sweet Caroline",
+      "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -899,22 +899,6 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "Toulouse Street",
-        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Listen to the Music",
-      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
         "name": "Talking Heads '77 (Deluxe Version)",
         "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 261413,
       "name": "Psycho Killer - 2005 Remaster",
       "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
+        "name": "Toulouse Street",
+        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Listen to the Music",
+      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "More of The Monkees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
-      },
-      "artists": [
-        {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "I'm a Believer - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
       },
@@ -1139,22 +1123,6 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "Storm Front",
-        "url": "https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 287733,
-      "name": "We Didn't Start the Fire",
-      "url": "https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
@@ -1167,6 +1135,38 @@
       "duration_ms": 230192,
       "name": "Marry You",
       "url": "https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
+        "name": "More of The Monkees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "I'm a Believer - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
+        "name": "Storm Front",
+        "url": "https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 287733,
+      "name": "We Didn't Start the Fire",
+      "url": "https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI"
     },
     {
       "added_at": "2021-12-24 08:51:22",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "Four Tops Second Album",
-        "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 160280,
-      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
-      "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
-    },
-    {
-      "added_at": "2021-12-24 08:51:22",
-      "album": {
         "name": "Secret Dreams and Forbidden Fire",
         "url": "https://open.spotify.com/album/4doea7KA9jw7nkm3IOs0PR"
       },
@@ -1283,18 +1267,34 @@
     {
       "added_at": "2021-12-24 08:51:22",
       "album": {
-        "name": "Waterloo",
-        "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
+        "name": "Four Tops Second Album",
+        "url": "https://open.spotify.com/album/2jvkMPydCpLWwRothqJU1O"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
         }
       ],
-      "duration_ms": 168960,
-      "name": "Waterloo",
-      "url": "https://open.spotify.com/track/3Dy4REq8O09IlgiwuHQ3sk"
+      "duration_ms": 160280,
+      "name": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+      "url": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
+    },
+    {
+      "added_at": "2021-12-24 08:51:22",
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Little Lies - 2017 Remaster",
+      "url": "https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl"
     }
   ],
   "unique_name": "Housework Hits!",

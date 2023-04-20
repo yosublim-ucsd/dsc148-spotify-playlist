@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,310 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,340 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 29 | [wandering \(feat\. george\)](https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2) | [basecamp](https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [wandering \(feat\. george\)](https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP) | 3:24 |
 | 30 | [Overthinking](https://open.spotify.com/track/1OJExKEuSvIdtw9NIaszOc) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 6:10 |
 | 31 | [In the Blur of the Rain](https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 3:53 |
-| 32 | [LA VIE](https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Little Women, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6) | 3:49 |
-| 33 | [One Snowy Day \(Feat\. SOLE\)](https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [One Snowy Day](https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo) | 4:00 |
+| 32 | [One Snowy Day \(Feat\. SOLE\)](https://open.spotify.com/track/0JQgYzXuL2wCTAv6z4mESW) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [One Snowy Day](https://open.spotify.com/album/5KgyDwE5ziv44yAMFAghGo) | 4:00 |
+| 33 | [LA VIE](https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Little Women, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6) | 3:49 |
 | 34 | [Please Love Me](https://open.spotify.com/track/4SFNHcxBFUmhAWwVZUpx4n) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Wave](https://open.spotify.com/album/6a1hq6e3NBDmSNQeVm2MbE) | 4:19 |
 | 35 | [BRB](https://open.spotify.com/track/1KTkQFju4e9JnuYuXWRNnM) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 3:28 |
 | 36 | [Rain Drop](https://open.spotify.com/track/4aJxNxnrW5tbL8gay0pCdU) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Dry Flower](https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 49 | [Like a Diamond \(With\. Stella Jang\)](https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG) | [KangHyeWon](https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Like a Diamond](https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH) | 3:16 |
 | 50 | [When The Rain Stops](https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [D\-day](https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt) | 3:01 |
 
-Snapshot ID: `MTY4MDI1ODAxOCwwMDAwMDAwMDE5NDUzZDQ4MWFiZmZiZGFhMzBlZWVlYWNlY2ViZmYy`
+Snapshot ID: `MTY4MDI1ODAxOCwwMDAwMDAwMGMyNTlhMWFmY2ZhYzIxNWVjMjU5Mjk0NmMxNzA0MDVi`

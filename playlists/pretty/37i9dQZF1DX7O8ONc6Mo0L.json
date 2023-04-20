@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Preto no Branco",
-  "num_followers": 242120,
+  "num_followers": 242228,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTU4MjgwMywwMDAwMDAwMDIwMzgxZGJiYWM5OWNjMWZiNjkyYTNhMzNhNWNiM2Nl",
+  "snapshot_id": "MTY4MTU4MjgwMywwMDAwMDAwMGQ1Y2JmNjM3YTY3MjdjOGVjYmQ3MGM2NDhhMjEwMzYx",
   "tracks": [
     {
       "added_at": "2023-04-15 18:20:03",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-04-15 18:20:03",
       "album": {
-        "name": "Espera S\u00f3 Mais um Pouquinho",
-        "url": "https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu"
+        "name": "A Mesa",
+        "url": "https://open.spotify.com/album/2jWE50PLaYhH32FCIPSZvV"
       },
       "artists": [
         {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
         }
       ],
-      "duration_ms": 229759,
-      "name": "Espera S\u00f3 Mais um Pouquinho",
-      "url": "https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf"
+      "duration_ms": 306573,
+      "name": "A Mesa",
+      "url": "https://open.spotify.com/track/6YfTtc4MhkQwMjbQ41MeFE"
     },
     {
       "added_at": "2023-04-15 18:20:03",
@@ -423,18 +423,18 @@
     {
       "added_at": "2023-04-15 18:20:03",
       "album": {
-        "name": "A Mesa",
-        "url": "https://open.spotify.com/album/2jWE50PLaYhH32FCIPSZvV"
+        "name": "Espera S\u00f3 Mais um Pouquinho",
+        "url": "https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu"
       },
       "artists": [
         {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
         }
       ],
-      "duration_ms": 306573,
-      "name": "A Mesa",
-      "url": "https://open.spotify.com/track/6YfTtc4MhkQwMjbQ41MeFE"
+      "duration_ms": 229759,
+      "name": "Espera S\u00f3 Mais um Pouquinho",
+      "url": "https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf"
     },
     {
       "added_at": "2023-04-15 18:20:03",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-04-15 18:20:03",
       "album": {
-        "name": "Preciso de Ti",
-        "url": "https://open.spotify.com/album/34KTvYx7zsEo7boa55RrIc"
-      },
-      "artists": [
-        {
-          "name": "Marcos Almeida",
-          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
-        }
-      ],
-      "duration_ms": 220518,
-      "name": "Preciso de Ti",
-      "url": "https://open.spotify.com/track/2pt4Nhq39eZgDMZspMAIPm"
-    },
-    {
-      "added_at": "2023-04-15 18:20:03",
-      "album": {
         "name": "De Dentro Pra Fora (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3yvcoy8mYfNGb6Q9WdUd70"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 257105,
       "name": "De Dentro Pra Fora - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5SstyI2yTMKPkGHRcLjsmO"
+    },
+    {
+      "added_at": "2023-04-15 18:20:03",
+      "album": {
+        "name": "Preciso de Ti",
+        "url": "https://open.spotify.com/album/34KTvYx7zsEo7boa55RrIc"
+      },
+      "artists": [
+        {
+          "name": "Marcos Almeida",
+          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
+        }
+      ],
+      "duration_ms": 220518,
+      "name": "Preciso de Ti",
+      "url": "https://open.spotify.com/track/2pt4Nhq39eZgDMZspMAIPm"
     },
     {
       "added_at": "2023-04-15 18:20:03",
@@ -743,26 +743,6 @@
     {
       "added_at": "2023-04-15 18:20:03",
       "album": {
-        "name": "Primeira Ess\u00eancia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo"
-      },
-      "artists": [
-        {
-          "name": "Paulo Neto",
-          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
-        },
-        {
-          "name": "Paola Carla",
-          "url": "https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Primeira Ess\u00eancia (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4jTRJm7GsfpgLDMizIwBKE"
-    },
-    {
-      "added_at": "2023-04-15 18:20:03",
-      "album": {
         "name": "Doce Presen\u00e7a",
         "url": "https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E"
       },
@@ -783,38 +763,22 @@
     {
       "added_at": "2023-04-15 18:20:03",
       "album": {
-        "name": "N\u00e1ufrago (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3Oi01tmOONMiFEUQoacQgZ"
+        "name": "Primeira Ess\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo"
       },
       "artists": [
         {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        }
-      ],
-      "duration_ms": 294816,
-      "name": "N\u00e1ufrago - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7tx8VR2eyqTNdWZcS5HsvW"
-    },
-    {
-      "added_at": "2023-04-15 18:20:03",
-      "album": {
-        "name": "Tuas \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+          "name": "Paulo Neto",
+          "url": "https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko"
         },
         {
-          "name": "Fernanda Madaloni",
-          "url": "https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ"
+          "name": "Paola Carla",
+          "url": "https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6"
         }
       ],
-      "duration_ms": 299893,
-      "name": "Tuas \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d"
+      "duration_ms": 296000,
+      "name": "Primeira Ess\u00eancia (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4jTRJm7GsfpgLDMizIwBKE"
     },
     {
       "added_at": "2023-04-15 18:20:03",
@@ -843,6 +807,42 @@
       "duration_ms": 299008,
       "name": "Esp\u00edrito Santo (feat. Weslei Santos & Marcus Salles) - Ao Vivo no Sintonize",
       "url": "https://open.spotify.com/track/4Xhh7S35G90S6qXREJihzi"
+    },
+    {
+      "added_at": "2023-04-15 18:20:03",
+      "album": {
+        "name": "Tuas \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Fernanda Madaloni",
+          "url": "https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ"
+        }
+      ],
+      "duration_ms": 299893,
+      "name": "Tuas \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d"
+    },
+    {
+      "added_at": "2023-04-15 18:20:03",
+      "album": {
+        "name": "N\u00e1ufrago (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3Oi01tmOONMiFEUQoacQgZ"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        }
+      ],
+      "duration_ms": 294816,
+      "name": "N\u00e1ufrago - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7tx8VR2eyqTNdWZcS5HsvW"
     },
     {
       "added_at": "2023-04-15 18:20:03",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-04-15 18:20:03",
       "album": {
-        "name": "Existe uma Sa\u00edda (Acoustic)",
-        "url": "https://open.spotify.com/album/4y5r3YC2DaxZoRNEVtNj09"
-      },
-      "artists": [
-        {
-          "name": "Igor Roque",
-          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Existe uma Sa\u00edda",
-      "url": "https://open.spotify.com/track/2dc7do0kHfamzWqeedGsO8"
-    },
-    {
-      "added_at": "2023-04-15 18:20:03",
-      "album": {
         "name": "Segure Minhas M\u00e3os (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2Ks64dAaTIMAa0AaPoCXhY"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 437014,
       "name": "Segure Minhas M\u00e3os - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0bVh7xl9MWYCmLI2GfmjCx"
+    },
+    {
+      "added_at": "2023-04-15 18:20:03",
+      "album": {
+        "name": "Existe uma Sa\u00edda (Acoustic)",
+        "url": "https://open.spotify.com/album/4y5r3YC2DaxZoRNEVtNj09"
+      },
+      "artists": [
+        {
+          "name": "Igor Roque",
+          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Existe uma Sa\u00edda",
+      "url": "https://open.spotify.com/track/2dc7do0kHfamzWqeedGsO8"
     },
     {
       "added_at": "2023-04-15 18:20:03",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-04-15 18:20:03",
       "album": {
-        "name": "Ao Orar 2",
-        "url": "https://open.spotify.com/album/2HIM1K64rbESXM2BmrJQIl"
-      },
-      "artists": [
-        {
-          "name": "Israel Salazar",
-          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
-        }
-      ],
-      "duration_ms": 221500,
-      "name": "Guarda Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/7qB7nGQGewMFdMhSFLzbCY"
-    },
-    {
-      "added_at": "2023-04-15 18:20:03",
-      "album": {
         "name": "Intimidade (Ao Vivo)",
         "url": "https://open.spotify.com/album/3fWhF5KsfOZxRUvYEVIw3T"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 219625,
       "name": "Intimidade - Ao Vivo",
       "url": "https://open.spotify.com/track/5tqNvoEiuaTxHpN944w0jG"
+    },
+    {
+      "added_at": "2023-04-15 18:20:03",
+      "album": {
+        "name": "Ao Orar 2",
+        "url": "https://open.spotify.com/album/2HIM1K64rbESXM2BmrJQIl"
+      },
+      "artists": [
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        }
+      ],
+      "duration_ms": 221500,
+      "name": "Guarda Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7qB7nGQGewMFdMhSFLzbCY"
     },
     {
       "added_at": "2023-04-15 18:20:03",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-04-15 18:20:03",
       "album": {
-        "name": "Vendavais (Em Casa Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 281142,
-      "name": "Vendavais - Em Casa Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm"
-    },
-    {
-      "added_at": "2023-04-15 18:20:03",
-      "album": {
         "name": "Minha Ess\u00eancia",
         "url": "https://open.spotify.com/album/6GgSb4sIpSOTcXUrz2ONDG"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 269354,
       "name": "Descansa",
       "url": "https://open.spotify.com/track/0gtBAv3MGzlEWGLKPZNiF7"
+    },
+    {
+      "added_at": "2023-04-15 18:20:03",
+      "album": {
+        "name": "Vendavais (Em Casa Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 281142,
+      "name": "Vendavais - Em Casa Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm"
     },
     {
       "added_at": "2023-04-15 18:20:03",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-04-15 18:20:03",
       "album": {
-        "name": "At\u00e9 Te Encontrar (Em Casa Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/019siXdjcZnRaYu461N7US"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 347727,
-      "name": "At\u00e9 Te Encontrar - Em Casa Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc"
-    },
-    {
-      "added_at": "2023-04-15 18:20:03",
-      "album": {
         "name": "Aprender Com a Vida (Piano e Voz)",
         "url": "https://open.spotify.com/album/2731Wld6fTs75wFbXvGKZL"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 258044,
       "name": "Aprender Com a Vida - Piano e Voz",
       "url": "https://open.spotify.com/track/1KYtOTjUSjJH1LHvH4liWw"
+    },
+    {
+      "added_at": "2023-04-15 18:20:03",
+      "album": {
+        "name": "At\u00e9 Te Encontrar (Em Casa Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/019siXdjcZnRaYu461N7US"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 347727,
+      "name": "At\u00e9 Te Encontrar - Em Casa Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc"
     },
     {
       "added_at": "2023-04-15 18:20:03",

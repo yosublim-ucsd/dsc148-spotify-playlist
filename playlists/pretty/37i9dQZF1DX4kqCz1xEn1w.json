@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTAzMDcyNCwwMDAwMDAwMGVlY2E2MjRiODJhZDE0NjFkNTE3YTc1ZDU1MmU1Y2Ey",
+  "snapshot_id": "MTY4MTAzMDcyNCwwMDAwMDAwMGIxYTVlYjk4MmU2MDQyODZkOGI2ZDE5MDVlYWM4NGFi",
   "tracks": [
     {
       "added_at": "2023-04-09 08:58:44",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "Majestic (Live)",
-        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
+        "name": "Greater Things",
+        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
       },
       "artists": [
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
         }
       ],
-      "duration_ms": 333053,
-      "name": "I Am Not Alone - Live",
-      "url": "https://open.spotify.com/track/48LRu8wJeDbUaAlZMg7fBF"
+      "duration_ms": 307026,
+      "name": "Christ Is Risen",
+      "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
+        "name": "Majestic (Live)",
+        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 333053,
+      "name": "I Am Not Alone - Live",
+      "url": "https://open.spotify.com/track/48LRu8wJeDbUaAlZMg7fBF"
+    },
+    {
+      "added_at": "2023-04-09 08:58:44",
+      "album": {
         "name": "Grace (Live/Deluxe)",
         "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 498426,
       "name": "Break Every Chain - Live",
       "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
-    },
-    {
-      "added_at": "2023-04-09 08:58:44",
-      "album": {
-        "name": "Greater Things",
-        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 307026,
-      "name": "Christ Is Risen",
-      "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "Better Word",
-        "url": "https://open.spotify.com/album/6OD68etkY3i5MM4cFeDl67"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 202624,
-      "name": "Better Word - Single Version",
-      "url": "https://open.spotify.com/track/2FGEfXuCyrAmiTvDfjF4QV"
-    },
-    {
-      "added_at": "2023-04-09 08:58:44",
-      "album": {
         "name": "Empires",
         "url": "https://open.spotify.com/album/4twr7zT1cX9NP5mk11FKDD"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
+        "name": "Better Word",
+        "url": "https://open.spotify.com/album/6OD68etkY3i5MM4cFeDl67"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 202624,
+      "name": "Better Word - Single Version",
+      "url": "https://open.spotify.com/track/2FGEfXuCyrAmiTvDfjF4QV"
+    },
+    {
+      "added_at": "2023-04-09 08:58:44",
+      "album": {
         "name": "One Name (Jesus) [Live]",
         "url": "https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK"
       },
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "You Will Be Saved",
-        "url": "https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 374904,
-      "name": "You Will Be Saved",
-      "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
-    },
-    {
-      "added_at": "2023-04-09 08:58:44",
-      "album": {
         "name": "Jesus You Alone",
         "url": "https://open.spotify.com/album/3FQEV5T91MUH6qPDqEluZK"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 372150,
       "name": "Jesus You Alone",
       "url": "https://open.spotify.com/track/4zYvDOveReSl6t86OfBMCU"
+    },
+    {
+      "added_at": "2023-04-09 08:58:44",
+      "album": {
+        "name": "You Will Be Saved",
+        "url": "https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 374904,
+      "name": "You Will Be Saved",
+      "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -863,6 +863,22 @@
       "duration_ms": 485396,
       "name": "Be Enthroned - Live",
       "url": "https://open.spotify.com/track/19uV6FQniZrbWtDPvBisIB"
+    },
+    {
+      "added_at": "2023-04-09 08:58:44",
+      "album": {
+        "name": "Million Lifetimes",
+        "url": "https://open.spotify.com/album/4yYkpJ8KaR4pvZDFFPYdgA"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        }
+      ],
+      "duration_ms": 288986,
+      "name": "Hope Has a Name",
+      "url": "https://open.spotify.com/track/5JkZPokbr84ksAZ6y1mDXn"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -891,22 +907,6 @@
       "duration_ms": 286453,
       "name": "Where Do I Fit In (feat. Tori Kelly, Chandler Moore & Judah Smith)",
       "url": "https://open.spotify.com/track/6e3oGWsdfHSKBCFv548RRm"
-    },
-    {
-      "added_at": "2023-04-09 08:58:44",
-      "album": {
-        "name": "Million Lifetimes",
-        "url": "https://open.spotify.com/album/4yYkpJ8KaR4pvZDFFPYdgA"
-      },
-      "artists": [
-        {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
-        }
-      ],
-      "duration_ms": 288986,
-      "name": "Hope Has a Name",
-      "url": "https://open.spotify.com/track/5JkZPokbr84ksAZ6y1mDXn"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1023,30 +1023,6 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "Look To The Lamb",
-        "url": "https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Lindy Cofer",
-          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
-        },
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 414391,
-      "name": "Look To The Lamb",
-      "url": "https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID"
-    },
-    {
-      "added_at": "2023-04-09 08:58:44",
-      "album": {
         "name": "Cannons",
         "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
       },
@@ -1083,6 +1059,30 @@
       "duration_ms": 371774,
       "name": "Extravagant - Live",
       "url": "https://open.spotify.com/track/5UivJ02lC3RH9MmAysIltU"
+    },
+    {
+      "added_at": "2023-04-09 08:58:44",
+      "album": {
+        "name": "Look To The Lamb",
+        "url": "https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        },
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 414391,
+      "name": "Look To The Lamb",
+      "url": "https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
+        "name": "Already Done",
+        "url": "https://open.spotify.com/album/5fFrCKg2XIKXQNlAmZ8q0z"
+      },
+      "artists": [
+        {
+          "name": "Free Worship",
+          "url": "https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9"
+        }
+      ],
+      "duration_ms": 324280,
+      "name": "Already Done",
+      "url": "https://open.spotify.com/track/59anQv3Oeypyj7vVRZ7S9g"
+    },
+    {
+      "added_at": "2023-04-09 08:58:44",
+      "album": {
         "name": "Let It Echo (Live)",
         "url": "https://open.spotify.com/album/6UUG6SxdjbHC8ALwmKS1HO"
       },
@@ -1419,18 +1435,18 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "Already Done",
-        "url": "https://open.spotify.com/album/5fFrCKg2XIKXQNlAmZ8q0z"
+        "name": "Peace Be Still",
+        "url": "https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt"
       },
       "artists": [
         {
-          "name": "Free Worship",
-          "url": "https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9"
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
         }
       ],
-      "duration_ms": 324280,
-      "name": "Already Done",
-      "url": "https://open.spotify.com/track/59anQv3Oeypyj7vVRZ7S9g"
+      "duration_ms": 300733,
+      "name": "Promise Keeper",
+      "url": "https://open.spotify.com/track/2Cr9jbqKa0fr2ROrHDn8Rb"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1467,22 +1483,6 @@
       "duration_ms": 421616,
       "name": "Long Live The King - Live At The Grove",
       "url": "https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3"
-    },
-    {
-      "added_at": "2023-04-09 08:58:44",
-      "album": {
-        "name": "Peace Be Still",
-        "url": "https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt"
-      },
-      "artists": [
-        {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
-        }
-      ],
-      "duration_ms": 300733,
-      "name": "Promise Keeper",
-      "url": "https://open.spotify.com/track/2Cr9jbqKa0fr2ROrHDn8Rb"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "Good News (Live)",
-        "url": "https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 266632,
-      "name": "Good News - Live",
-      "url": "https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc"
-    },
-    {
-      "added_at": "2023-04-09 08:58:44",
-      "album": {
         "name": "Way Maker (Live)",
         "url": "https://open.spotify.com/album/2lE2XqhO7WNHcRVEfQMKOm"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 262573,
       "name": "Afraid To Say (feat. Lauren Walters)",
       "url": "https://open.spotify.com/track/3cDrWGsgXj6fZd33Iwp4Lh"
+    },
+    {
+      "added_at": "2023-04-09 08:58:44",
+      "album": {
+        "name": "Good News (Live)",
+        "url": "https://open.spotify.com/album/4P3woB9qsP0Ww6L9TwV4Li"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 266632,
+      "name": "Good News - Live",
+      "url": "https://open.spotify.com/track/6oAeuX4aPwjmmsZUA3BWHc"
     },
     {
       "added_at": "2023-04-09 08:58:44",
@@ -1831,22 +1831,18 @@
     {
       "added_at": "2023-04-09 08:58:44",
       "album": {
-        "name": "Yes He Lives",
-        "url": "https://open.spotify.com/album/03DcLwW9JcAV336p2JFnk0"
+        "name": "Love Came Down - Live Acoustic Worship In The Studio",
+        "url": "https://open.spotify.com/album/7vG2Shcrvtlud8HsEopI3h"
       },
       "artists": [
         {
-          "name": "Hannah Hobbs",
-          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
-        },
-        {
-          "name": "Alexander Pappas",
-          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
         }
       ],
-      "duration_ms": 285773,
-      "name": "Yes He Lives - Live",
-      "url": "https://open.spotify.com/track/0PIbTI6cRxRiPl7tFDO1co"
+      "duration_ms": 333626,
+      "name": "Love Came Down (If My Heart Is Overwhelmed) - Live",
+      "url": "https://open.spotify.com/track/27Ao1nh2vh3y82VZ7Yd67R"
     }
   ],
   "unique_name": "Easter Worship",

@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 908604,
+  "num_followers": 908876,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg4NTAwMCwwMDAwMDAwMDc2YWI3OGEzMGYzYzRjN2ZmYzZiYmIxMTZjNzg0NTE1",
+  "snapshot_id": "MTY4MDg4NTAwMCwwMDAwMDAwMDYyZDk0YjdmYzc2MTFkN2ViMGRmZWQyZWZjNWNlZmZm",
   "tracks": [
     {
       "added_at": "2023-04-07 16:30:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
+        "name": "Backseat Tape",
+        "url": "https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 169207,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/1TeG6xwHJG8Y6fiw7PebSl"
+    },
+    {
+      "added_at": "2023-04-07 16:30:00",
+      "album": {
         "name": "For The People",
         "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
       },
@@ -1019,22 +1035,6 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
-        "name": "Backseat Tape",
-        "url": "https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 169207,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/1TeG6xwHJG8Y6fiw7PebSl"
-    },
-    {
-      "added_at": "2023-04-07 16:30:00",
-      "album": {
         "name": "Change Your Mind",
         "url": "https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
-        "name": "Bring Et",
-        "url": "https://open.spotify.com/album/3IHvGKgpzLkRtErVAxD6hk"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "Bring Et",
-      "url": "https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz"
-    },
-    {
-      "added_at": "2023-04-07 16:30:00",
-      "album": {
         "name": "Miami (\u00d6wnboss Remix) [feat. Nile Rodgers]",
         "url": "https://open.spotify.com/album/2HTCGfMaVGgW5MJJaGH3oJ"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
-        "name": "Wish He Knew",
-        "url": "https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl"
+        "name": "Bring Et",
+        "url": "https://open.spotify.com/album/3IHvGKgpzLkRtErVAxD6hk"
       },
       "artists": [
         {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Wish He Knew",
-      "url": "https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO"
+      "duration_ms": 142857,
+      "name": "Bring Et",
+      "url": "https://open.spotify.com/track/1Vh2puNQGk1IpIjZoxoOYz"
     },
     {
       "added_at": "2023-04-07 16:30:00",
@@ -1139,6 +1123,22 @@
       "duration_ms": 149219,
       "name": "Gotta Let U Go",
       "url": "https://open.spotify.com/track/4Vq7Yn4AyMqIll2Xh5waNl"
+    },
+    {
+      "added_at": "2023-04-07 16:30:00",
+      "album": {
+        "name": "Wish He Knew",
+        "url": "https://open.spotify.com/album/6irYxa4daxMivsPXfyp0Pl"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Wish He Knew",
+      "url": "https://open.spotify.com/track/17QC7vLpqQBJ5dcT9kRrHO"
     },
     {
       "added_at": "2023-04-07 16:30:00",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
-        "name": "Welcome to the Club",
-        "url": "https://open.spotify.com/album/6OW0DiGRajH1WvL1wPFlhe"
-      },
-      "artists": [
-        {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
-        },
-        {
-          "name": "Stonebank",
-          "url": "https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377"
-        }
-      ],
-      "duration_ms": 242343,
-      "name": "Welcome to the Club",
-      "url": "https://open.spotify.com/track/1BdQIZ9ruEA8FW1Kw45h0Y"
-    },
-    {
-      "added_at": "2023-04-07 16:30:00",
-      "album": {
         "name": "Losing Sleep",
         "url": "https://open.spotify.com/album/2j4ZGomI868PSst0dIB5qV"
       },
@@ -1247,6 +1227,26 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
+        "name": "Welcome to the Club",
+        "url": "https://open.spotify.com/album/6OW0DiGRajH1WvL1wPFlhe"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        },
+        {
+          "name": "Stonebank",
+          "url": "https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377"
+        }
+      ],
+      "duration_ms": 242343,
+      "name": "Welcome to the Club",
+      "url": "https://open.spotify.com/track/1BdQIZ9ruEA8FW1Kw45h0Y"
+    },
+    {
+      "added_at": "2023-04-07 16:30:00",
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/7erfcSAjDkFRRHo4bTsXit"
       },
@@ -1263,6 +1263,26 @@
       "duration_ms": 220669,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/4QoMRrDVsT1RVFq7Wy6xLM"
+    },
+    {
+      "added_at": "2023-04-07 16:30:00",
+      "album": {
+        "name": "Don't Say You Love Me",
+        "url": "https://open.spotify.com/album/5hGvwPfeqjW2wgOnPRcWn7"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "OBS",
+          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
+        }
+      ],
+      "duration_ms": 184266,
+      "name": "Don't Say You Love Me",
+      "url": "https://open.spotify.com/track/0UaV0TmHdXvihhsbZeeIG4"
     },
     {
       "added_at": "2023-04-07 16:30:00",
@@ -1307,26 +1327,6 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
-        "name": "Don't Say You Love Me",
-        "url": "https://open.spotify.com/album/5hGvwPfeqjW2wgOnPRcWn7"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "OBS",
-          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
-        }
-      ],
-      "duration_ms": 184266,
-      "name": "Don't Say You Love Me",
-      "url": "https://open.spotify.com/track/0UaV0TmHdXvihhsbZeeIG4"
-    },
-    {
-      "added_at": "2023-04-07 16:30:00",
-      "album": {
         "name": "Free My Mind",
         "url": "https://open.spotify.com/album/1W09O51MifKfx4XAl851q9"
       },
@@ -1343,6 +1343,26 @@
       "duration_ms": 171076,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/3FEDVRLhSQbtXKXrUhsEJa"
+    },
+    {
+      "added_at": "2023-04-07 16:30:00",
+      "album": {
+        "name": "Have Me All (feat. Jelita)",
+        "url": "https://open.spotify.com/album/5Cg1VcWn4inAueYXbUcNY6"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        },
+        {
+          "name": "Jelita",
+          "url": "https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr"
+        }
+      ],
+      "duration_ms": 170004,
+      "name": "Have Me All (feat. Jelita)",
+      "url": "https://open.spotify.com/track/5NAeLHGIbxGcmKMwYxuwWS"
     },
     {
       "added_at": "2023-04-07 16:30:00",
@@ -1367,26 +1387,6 @@
       "duration_ms": 165120,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/4UV5qm4XHQETdXrVZjIsSU"
-    },
-    {
-      "added_at": "2023-04-07 16:30:00",
-      "album": {
-        "name": "Have Me All (feat. Jelita)",
-        "url": "https://open.spotify.com/album/5Cg1VcWn4inAueYXbUcNY6"
-      },
-      "artists": [
-        {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
-        },
-        {
-          "name": "Jelita",
-          "url": "https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr"
-        }
-      ],
-      "duration_ms": 170004,
-      "name": "Have Me All (feat. Jelita)",
-      "url": "https://open.spotify.com/track/5NAeLHGIbxGcmKMwYxuwWS"
     },
     {
       "added_at": "2023-04-07 16:30:00",
@@ -1435,26 +1435,18 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/31uJRIZULUZVh9xEz1bgBH"
+        "name": "LEFT TO RIGHT",
+        "url": "https://open.spotify.com/album/4XxU08p7ONrZLDuLy0zx2Q"
       },
       "artists": [
         {
-          "name": "Azteck",
-          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
-        },
-        {
-          "name": "Angemi",
-          "url": "https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx"
-        },
-        {
-          "name": "Laura White",
-          "url": "https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4"
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
         }
       ],
-      "duration_ms": 160047,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/2CwHctWzU9Woi5C5ZC5m38"
+      "duration_ms": 146250,
+      "name": "LEFT TO RIGHT",
+      "url": "https://open.spotify.com/track/34S5HQW5JoLBO9VS9YSSQc"
     },
     {
       "added_at": "2023-04-07 16:30:00",
@@ -1475,18 +1467,26 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
-        "name": "LEFT TO RIGHT",
-        "url": "https://open.spotify.com/album/4XxU08p7ONrZLDuLy0zx2Q"
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/31uJRIZULUZVh9xEz1bgBH"
       },
       "artists": [
         {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+          "name": "Azteck",
+          "url": "https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS"
+        },
+        {
+          "name": "Angemi",
+          "url": "https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx"
+        },
+        {
+          "name": "Laura White",
+          "url": "https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4"
         }
       ],
-      "duration_ms": 146250,
-      "name": "LEFT TO RIGHT",
-      "url": "https://open.spotify.com/track/34S5HQW5JoLBO9VS9YSSQc"
+      "duration_ms": 160047,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/2CwHctWzU9Woi5C5ZC5m38"
     },
     {
       "added_at": "2023-04-07 16:30:00",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
+        "name": "Bumba Bass",
+        "url": "https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn"
+      },
+      "artists": [
+        {
+          "name": "TV Noise",
+          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
+        },
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "duration_ms": 133125,
+      "name": "Bumba Bass",
+      "url": "https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2"
+    },
+    {
+      "added_at": "2023-04-07 16:30:00",
+      "album": {
         "name": "Grimestar",
         "url": "https://open.spotify.com/album/1eLo0jdJfOvE6oOkLvyEmt"
       },
@@ -1567,22 +1587,22 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
-        "name": "Bumba Bass",
-        "url": "https://open.spotify.com/album/5jpu3knFAP2QMFzwa3JBFn"
+        "name": "Kush",
+        "url": "https://open.spotify.com/album/6vfZKcqvCdoao2flVOevNr"
       },
       "artists": [
         {
-          "name": "TV Noise",
-          "url": "https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ"
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
         },
         {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
         }
       ],
-      "duration_ms": 133125,
-      "name": "Bumba Bass",
-      "url": "https://open.spotify.com/track/119lPAmtAB9PhFXE7XBWV2"
+      "duration_ms": 156612,
+      "name": "Kush",
+      "url": "https://open.spotify.com/track/1mcKSOFFc19eci3MVpMLEu"
     },
     {
       "added_at": "2023-04-07 16:30:00",
@@ -1607,26 +1627,6 @@
       "duration_ms": 190800,
       "name": "Late Night Feels (\u00d6wnboss Remix)",
       "url": "https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4"
-    },
-    {
-      "added_at": "2023-04-07 16:30:00",
-      "album": {
-        "name": "Kush",
-        "url": "https://open.spotify.com/album/6vfZKcqvCdoao2flVOevNr"
-      },
-      "artists": [
-        {
-          "name": "Guz",
-          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
-        },
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        }
-      ],
-      "duration_ms": 156612,
-      "name": "Kush",
-      "url": "https://open.spotify.com/track/1mcKSOFFc19eci3MVpMLEu"
     },
     {
       "added_at": "2023-04-07 16:30:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-04-07 16:30:00",
       "album": {
-        "name": "Make Trouble",
-        "url": "https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT"
-      },
-      "artists": [
-        {
-          "name": "Michael Sparks",
-          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "Ballin'",
-      "url": "https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU"
-    },
-    {
-      "added_at": "2023-04-07 16:30:00",
-      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/6ZJkuLfmOtCxXmrFXrbpzN"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 167619,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/36s3JG5whwTnqpgeqeDK7K"
+    },
+    {
+      "added_at": "2023-04-07 16:30:00",
+      "album": {
+        "name": "Make Trouble",
+        "url": "https://open.spotify.com/album/0IjR74eRECSECvRuqaeNlT"
+      },
+      "artists": [
+        {
+          "name": "Michael Sparks",
+          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Ballin'",
+      "url": "https://open.spotify.com/track/2zQrWqYGj80hWmy5wnQOFU"
     },
     {
       "added_at": "2023-04-07 16:30:00",

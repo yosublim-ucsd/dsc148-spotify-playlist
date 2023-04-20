@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,818 likes - 37 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,923 likes - 37 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [red \(feat\. Morgan Wallen\)](https://open.spotify.com/track/2D3JfPyY2LkzXgNOb7qziR) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 3:25 |
-| 2 | [In The Bible \(feat\. HARDY\)](https://open.spotify.com/track/2aw1aEAxMe05MZIS5XiK8U) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:15 |
-| 3 | [wait in the truck \(feat\. Lainey Wilson\)](https://open.spotify.com/track/7trjNYF5ek7zX4GKSHQZbP) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [wait in the truck \(feat\. Lainey Wilson\)](https://open.spotify.com/album/2WEFdKzGuoE8eVWCqeC5SA) | 4:37 |
+| 2 | [wait in the truck \(feat\. Lainey Wilson\)](https://open.spotify.com/track/7trjNYF5ek7zX4GKSHQZbP) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [wait in the truck \(feat\. Lainey Wilson\)](https://open.spotify.com/album/2WEFdKzGuoE8eVWCqeC5SA) | 4:37 |
+| 3 | [In The Bible \(feat\. HARDY\)](https://open.spotify.com/track/2aw1aEAxMe05MZIS5XiK8U) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [One Thing At A Time](https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh) | 3:15 |
 | 4 | [GIVE HEAVEN SOME HELL](https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:37 |
 | 5 | [TRUCK BED](https://open.spotify.com/track/103u49mLoJUge83B1CnLxI) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 2:47 |
 | 6 | [Beers On Me](https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Beers On Me](https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM) | 2:54 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 36 | [BLURRY](https://open.spotify.com/track/7xJAFrioJ68AEKveUMaZbJ) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [BLURRY](https://open.spotify.com/album/5NwepesG5RXiEbQlTiaJo1) | 5:00 |
 | 37 | [The Worst Country Song Of All Time](https://open.spotify.com/track/3dlkeKPc3pCveXvMFVJasK) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [The Worst Country Song Of All Time](https://open.spotify.com/album/6s9wR3rqVwA5Jbyx6K8R8h) | 3:17 |
 
-Snapshot ID: `MjgwMzAzOTAsMDAwMDAwMDAxYWQwZDIzODBiYWViOTA1YjIzZjU3MWJmNmZhY2Q3Yw==`
+Snapshot ID: `MjgwMzE3ODMsMDAwMDAwMDA0YTJhYTA5Zjk1ODY0NmJkZDcwMWE3YmEwNjdlZTUxYw==`

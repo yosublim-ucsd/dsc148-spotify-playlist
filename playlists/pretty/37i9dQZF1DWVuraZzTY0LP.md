@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 
 > Lo más alternativo para una mamá muy mo\-der\-na.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,218 likes - 70 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,290 likes - 70 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 60 | [Cachito De Galaxia](https://open.spotify.com/track/6T0ATRfwd6t1xEuVS2hgGN) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124) | [La Historia Sin Fin](https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3) | 4:57 |
 | 61 | [Theworstthing](https://open.spotify.com/track/0EvZksFiDpboeG4UVaIvJa) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:03 |
 | 62 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/4JvFNFTjEtZyEzh8w0YzHF) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/album/3FkF6yz6p8iM2TR18ODmtV) | 4:06 |
-| 63 | [Dying Breed](https://open.spotify.com/track/0SieiDcGvj8cZ0K4hcT3Zd) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Imploding The Mirage](https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg) | 4:06 |
-| 64 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 |
+| 63 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 |
+| 64 | [Dying Breed](https://open.spotify.com/track/0SieiDcGvj8cZ0K4hcT3Zd) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Imploding The Mirage](https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg) | 4:06 |
 | 65 | [Curious](https://open.spotify.com/track/3v6r9OEOEyzecbwmvSNCmK) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Hits To The Head](https://open.spotify.com/album/1NKpK2wzsNlIf59OvO2RVb) | 2:49 |
 | 66 | [SKR](https://open.spotify.com/track/4UShyGW0d8C8j8npDZ8img) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [SKR](https://open.spotify.com/album/5lat79fNUWI7gyQlx6yFka) | 5:18 |
 | 67 | [Peach](https://open.spotify.com/track/44Y47AT30lSl5iPMZr6o83) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Peach](https://open.spotify.com/album/31HPnd8Ss99acJ0MrHBQvu) | 3:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuraZzTY0LP.md) - [plain]
 | 69 | [Aura](https://open.spotify.com/track/3FcNx0xneevygzqjZaSDIo) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Aura](https://open.spotify.com/album/1i3MA9Eamgjk3SKYFo0zdn) | 3:27 |
 | 70 | [Désolé \(feat\. Fatoumata Diawara\)](https://open.spotify.com/track/1lPjbmk2TylddPKESSIBfm) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Song Machine Episode 2](https://open.spotify.com/album/5xbq27ybQPAC8IiLtbHNxN) | 3:56 |
 
-Snapshot ID: `MTY4MDI5Mzg2MSwwMDAwMDAwMDBjNjM3ZGJjZTVmODMwOTEzNmJlY2NhNjMwNTE3ODJl`
+Snapshot ID: `MTY4MDI5Mzg2MSwwMDAwMDAwMGE4MzFjY2M4YTM3OGJmMzY5N2FkYzdkY2ZlYTJhZjk2`

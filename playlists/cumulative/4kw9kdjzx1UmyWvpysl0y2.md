@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-457 songs - 1 day 2 hr 45 min
+458 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Aurora](https://open.spotify.com/track/0D2DNDEPGRTyCMtY5bS8Fr) | [Liam Thomas](https://open.spotify.com/artist/0CDvUUuendAExit0nkRVpN) | [Aurora](https://open.spotify.com/album/3lURphuvwepjcCT8Dtqwwg) | 3:10 | 2022-06-22 | 2022-09-07 |
 | [Austrumi](https://open.spotify.com/track/5B1gQJ5U3bYC8JWSdpW0xS) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo) | [Austrumi](https://open.spotify.com/album/7H5zEEUwD2PgpnbSFx21Si) | 3:41 | 2022-02-25 | 2022-05-07 |
 | [Autumn Leaves](https://open.spotify.com/track/2WZk9IjjmgThbmlyuu6UFK) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [Autumn Leaves](https://open.spotify.com/album/6AYKIeSkQ1D1IcKTRgynd4) | 2:25 | 2022-02-01 | 2022-04-13 |
-| [Awakening](https://open.spotify.com/track/11WsGWuJHmdiYB0YuQgo3i) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Tarjei Bjermeland](https://open.spotify.com/artist/4U54iUoK1nWa1l5QQLrcTx) | [Awakening](https://open.spotify.com/album/5hoE227UcQ7Rj4ZR3Ed43I) | 3:52 | 2023-02-01 |  |
+| [Awakening](https://open.spotify.com/track/11WsGWuJHmdiYB0YuQgo3i) | [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Tarjei Bjermeland](https://open.spotify.com/artist/4U54iUoK1nWa1l5QQLrcTx) | [Awakening](https://open.spotify.com/album/5hoE227UcQ7Rj4ZR3Ed43I) | 3:52 | 2023-02-01 | 2023-04-20 |
 | [B.T.W\. \(The Whistle\)](https://open.spotify.com/track/2ERXSwA2OOOurhDraYDT39) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Slaughter House](https://open.spotify.com/album/63G2PgaJYMpzrsvQ9G3Uek) | 4:00 | 2023-04-13 |  |
 | [Back to Me](https://open.spotify.com/track/7rOnrDcSOyPRSLq7YcfLPt) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Back to Me](https://open.spotify.com/album/0eOJ5jalpbkCVsWuiH1Rwp) | 4:28 | 2023-01-10 | 2023-03-25 |
 | [back2u](https://open.spotify.com/track/1lLOFlb0pokpPxstN2v7P8) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [back2u](https://open.spotify.com/album/5DnveAme2jwC8QO0NDqtug) | 2:54 | 2022-05-20 | 2022-08-02 |
@@ -151,6 +151,7 @@
 | [feeling](https://open.spotify.com/track/5mdCX1AXoc8EDupVjAn581) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [feeling](https://open.spotify.com/album/1tyMgTVA2zIUjppWaqmf5W) | 3:06 | 2022-02-04 | 2022-04-16 |
 | [Feelings](https://open.spotify.com/track/5Ebn1wXIUM3vfgIZTo4AyL) | [Holen](https://open.spotify.com/artist/5cXpsHnHXFVMvhLzth4SNY) | [Feelings](https://open.spotify.com/album/6hZ4omTnHPCJhcOB9BAf4l) | 3:52 | 2023-02-17 |  |
 | [Feels Like Home](https://open.spotify.com/track/0H8Eh2BgyRTjgCb2PwDylI) | [Eminence](https://open.spotify.com/artist/1hHhlYmo4C03IoCJ7RnpS2), [Weston & Teston](https://open.spotify.com/artist/29Ao31axAkL4n3L5OEbFpA), [Delaney Kai](https://open.spotify.com/artist/4R9LxtRMT4XlrKbbrvEHNl) | [The Return](https://open.spotify.com/album/0HKsE8AP6AjvA9hO0ujw2T) | 3:11 | 2021-12-08 | 2022-03-12 |
+| [Fever](https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt) | [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Fever](https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr) | 2:26 | 2023-04-20 |  |
 | [find u.](https://open.spotify.com/track/2P6GOGbnrVkPBjbyFYyMIx) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [find u.](https://open.spotify.com/album/7oyVNWpF6kzHgmDrkoWZK8) | 3:21 | 2022-01-07 | 2022-03-17 |
 | [Find You](https://open.spotify.com/track/7bl50TyWM1apVF684jNU2e) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Find You](https://open.spotify.com/album/5haJvW7CtOB7823T9ByvCe) | 4:15 | 2021-11-24 | 2022-03-01 |
 | [Fine Lines](https://open.spotify.com/track/5Qasc8YPxKDGyUtYmdlTTW) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL) | [Fine Lines](https://open.spotify.com/album/13YQu9MLG4xy8vBI4OrSnA) | 4:05 | 2022-11-25 | 2023-02-22 |

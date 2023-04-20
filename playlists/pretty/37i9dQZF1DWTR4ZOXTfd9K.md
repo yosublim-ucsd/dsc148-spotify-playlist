@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,789 likes - 100 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,947 likes - 100 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 99 | [Maiden Voyage](https://open.spotify.com/track/7r1EOboFCZVUCPB6Cz42q9) | [Bob Belden Project](https://open.spotify.com/artist/5L086bNiOHKUwE9efaBQ1N), [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh), [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg) | [Shades Of Blue](https://open.spotify.com/album/2Z31ciU8s8Fxiuj5FCRdcS) | 6:58 |
 | 100 | [How Can I Tell You \- Live](https://open.spotify.com/track/4ZUlQw3KS7qiBrgJxSyel0) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Passin' Thru \(Live\)](https://open.spotify.com/album/2qiyL96vDeoFjWhRdJ4vL5) | 9:46 |
 
-Snapshot ID: `MTY4MTE5ODg3NCwwMDAwMDAwMDYyYTc4OTFmYTg5MTE1YmYwN2FkYjVjNmM2MDk3NmJm`
+Snapshot ID: `MTY4MTg4ODI0NiwwMDAwMDAwMDQxOGIyODhmZGJkNWEwZjI0MWM4MGE0N2UzMTFhODY2`

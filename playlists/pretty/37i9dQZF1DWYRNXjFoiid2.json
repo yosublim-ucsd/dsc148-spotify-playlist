@@ -1,12 +1,12 @@
 {
   "description": "Today's best pop to fuel your gaming. Cover: BoyWithUke",
-  "num_followers": 240164,
+  "num_followers": 241290,
   "original_name": "Ultimate Pop Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDQwODFjYjFkNmQ5MmU2ZTM0OGM5OGYwOWNlYTc3Nzlh",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDRkMTg4NTU2ZTgzM2ViMzJlOWExZmQzOTVhYWIyMWU0",
   "tracks": [
     {
       "added_at": "2023-04-14 04:01:00",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 204346,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
         "name": "Miss You",
         "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 204346,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -375,6 +359,22 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
         "name": "The Days / Nights",
         "url": "https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF"
       },
@@ -387,22 +387,6 @@
       "duration_ms": 176658,
       "name": "The Nights",
       "url": "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "MIDDLE OF THE NIGHT",
-        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 184447,
-      "name": "MIDDLE OF THE NIGHT",
-      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -423,6 +407,22 @@
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "MIDDLE OF THE NIGHT",
+        "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 184447,
+      "name": "MIDDLE OF THE NIGHT",
+      "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -451,6 +451,26 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
         "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
         "url": "https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9"
       },
@@ -463,22 +483,6 @@
       "duration_ms": 210575,
       "name": "STAR WALKIN' (League of Legends Worlds Anthem)",
       "url": "https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 146640,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -499,6 +503,22 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/3z53jSP5i9bCPVOu3PARM8"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 146640,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
         "name": "Goodbye & Good Riddance",
         "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 239835,
       "name": "Lucid Dreams",
       "url": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Escapism.",
-      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 173947,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -711,6 +695,42 @@
       "duration_ms": 242965,
       "name": "Knife Talk (with 21 Savage ft. Project Pat)",
       "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "duration_ms": 158040,
+      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+      "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -739,26 +759,6 @@
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        }
-      ],
-      "duration_ms": 158040,
-      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
-      "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 137704,
-      "name": "MONTERO (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "ARDIPITHECUS",
         "url": "https://open.spotify.com/album/0wfne2JijoxJm0qzJd3V5h"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 196520,
       "name": "Wait a Minute!",
       "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 137704,
+      "name": "MONTERO (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "What You Know Bout Love",
-      "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Hold On Tight",
         "url": "https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 149718,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "What You Know Bout Love",
+      "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Die 4 Me",
-        "url": "https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 215021,
-      "name": "Die 4 Me",
-      "url": "https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -1079,6 +1063,26 @@
       "duration_ms": 212352,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Tell Em",
+        "url": "https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        },
+        {
+          "name": "$NOT",
+          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+        }
+      ],
+      "duration_ms": 180379,
+      "name": "Tell Em",
+      "url": "https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1107,22 +1111,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Tell Em",
-        "url": "https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ"
+        "name": "Die 4 Me",
+        "url": "https://open.spotify.com/album/3j2D3GopiCavuGNJdENOmz"
       },
       "artists": [
         {
-          "name": "Cochise",
-          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
-        },
-        {
-          "name": "$NOT",
-          "url": "https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO"
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
         }
       ],
-      "duration_ms": 180379,
-      "name": "Tell Em",
-      "url": "https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"
+      "duration_ms": 215021,
+      "name": "Die 4 Me",
+      "url": "https://open.spotify.com/track/6VYAzAQGFsfEAwdorQaZuU"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1232,7 +1232,7 @@
           "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
         }
       ],
-      "duration_ms": 250350,
+      "duration_ms": 247873,
       "name": "VOID",
       "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"
     },
@@ -1463,6 +1463,26 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
+        "name": "Substitution",
+        "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        }
+      ],
+      "duration_ms": 181477,
+      "name": "Substitution",
+      "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
         "name": "Sharks",
         "url": "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e"
       },
@@ -1507,26 +1527,6 @@
       "duration_ms": 137725,
       "name": "I GUESS IT'S LOVE?",
       "url": "https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Substitution",
-        "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        }
-      ],
-      "duration_ms": 181477,
-      "name": "Substitution",
-      "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "SugarCrash!",
-        "url": "https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx"
-      },
-      "artists": [
-        {
-          "name": "ElyOtto",
-          "url": "https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW"
-        }
-      ],
-      "duration_ms": 80080,
-      "name": "SugarCrash!",
-      "url": "https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
         "url": "https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 152214,
       "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
       "url": "https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "SugarCrash!",
+        "url": "https://open.spotify.com/album/064pDjy5L2sQn0XLJj2wWx"
+      },
+      "artists": [
+        {
+          "name": "ElyOtto",
+          "url": "https://open.spotify.com/artist/4b19vuzlDcNdU4quI7L6sW"
+        }
+      ],
+      "duration_ms": 80080,
+      "name": "SugarCrash!",
+      "url": "https://open.spotify.com/track/2ePtv8MlBO9nuuXABqAfEX"
     },
     {
       "added_at": "2023-04-14 04:01:00",

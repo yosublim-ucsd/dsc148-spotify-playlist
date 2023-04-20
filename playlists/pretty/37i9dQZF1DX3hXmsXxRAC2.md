@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,208 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,244 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 14 | [Inocente Pobre Amiga](https://open.spotify.com/track/4LMjkpzj8r4RLXKc3adcYV) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V) | 3:57 |
 | 15 | [Ya No Insistas Corazón](https://open.spotify.com/track/4npHbgLuZu0afOnJj4gz1j) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Ya No Insistas Corazón](https://open.spotify.com/album/0zB6zjfl9caUE9UIy56I1Y) | 3:24 |
 | 16 | [Amor Eterno](https://open.spotify.com/track/3K3wpXrbZYkXMxiA9QJwV1) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Amor Eterno](https://open.spotify.com/album/0UuQzzrlyxMseEttP9hL3C) | 6:48 |
-| 17 | [Gracias A Dios](https://open.spotify.com/track/3m8qGT5waagsTxTeSYs2Tc) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 4:02 |
-| 18 | [Me Gustas Mucho](https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 2:50 |
-| 19 | [Popurrí Juan Gabriel \- En Vivo](https://open.spotify.com/track/0rrhbg6KmRfAFZ7owKroiv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 8:04 |
-| 20 | [He Venido a Pedirte Perdón \(with HA\-ASH\)](https://open.spotify.com/track/0yNBnX5iuu108NLpxcI2Yw) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:50 |
+| 17 | [Me Gustas Mucho](https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 2:50 |
+| 18 | [Gracias A Dios](https://open.spotify.com/track/3m8qGT5waagsTxTeSYs2Tc) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [En Extasis](https://open.spotify.com/album/48Squ1oYsMrjEGUKnmEHyp) | 4:02 |
+| 19 | [He Venido a Pedirte Perdón \(with HA\-ASH\)](https://open.spotify.com/track/0yNBnX5iuu108NLpxcI2Yw) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:50 |
+| 20 | [Popurrí Juan Gabriel \- En Vivo](https://open.spotify.com/track/0rrhbg6KmRfAFZ7owKroiv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Lo Esencial De Alejandro Fernández](https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi) | 8:04 |
 | 21 | [Así Fue](https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [La Voz de un Ángel](https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw) | 4:40 |
 | 22 | [No Discutamos](https://open.spotify.com/track/4oXBnMgYcvU87uKq30Reyq) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Los Dúo 2](https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19) | 2:19 |
 | 23 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/4NU4aMYuFTv9xTizymCKek) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 3:51 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 75 | [Fue Un Placer Conocerte](https://open.spotify.com/track/3EcuE8L4CBYZUlDgb9GZXU) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Singles](https://open.spotify.com/album/5WunOHdzIYAbG6uu6sFlWL) | 3:08 |
 | 76 | [Juan Ga: Se Me Olvidó Otra Vez / Costumbres / Me Gustas Mucho](https://open.spotify.com/track/0M2uDMzj1fL1qhPposUjYF) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD) | [Las Caras Lindas](https://open.spotify.com/album/5nvczVKzNf2cqvpL2BNNfr) | 4:59 |
 | 77 | [Si Quieres Verme Llorar](https://open.spotify.com/track/54fKo3mRZqO1nriQ8j3sqr) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Juan Gabriel y Lo Mas Romantico De](https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v) | 2:30 |
-| 78 | [Caray](https://open.spotify.com/track/3SfJvKD71vxorr1phTNFAR) | [Agrupación Cariño](https://open.spotify.com/artist/6wRhvAUh6C5QUoK59hc9A1) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 3:43 |
-| 79 | [Querida](https://open.spotify.com/track/5uL9Pog252Kip2o6g0IzJO) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [Querida](https://open.spotify.com/album/1NpCzx1BzOg5dGtKRPdVx7) | 3:13 |
+| 78 | [Querida](https://open.spotify.com/track/5uL9Pog252Kip2o6g0IzJO) | [Donata Antoni](https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4) | [Querida](https://open.spotify.com/album/1NpCzx1BzOg5dGtKRPdVx7) | 3:13 |
+| 79 | [Caray](https://open.spotify.com/track/3SfJvKD71vxorr1phTNFAR) | [Agrupación Cariño](https://open.spotify.com/artist/6wRhvAUh6C5QUoK59hc9A1) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 3:43 |
 | 80 | [Frente a Frente](https://open.spotify.com/track/3yzuISFnUKiHF7hKWpdovR) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Frente a Frente](https://open.spotify.com/album/3cdugu4Mc43gx5wNiFvHyX) | 4:26 |
 | 81 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/3OlThkWM0wZzhnQYIh56p6) | [Yolanda Del Rio](https://open.spotify.com/artist/0QdXxfTxlrbEQSY6FaxqaC) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 2:59 |
 | 82 | [Siempre en Mi Mente](https://open.spotify.com/track/0L1MX6vqPouDij4B8jorN6) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Amor Eterno al Divo / Tributo de Rock](https://open.spotify.com/album/4PQjuDBIuLTMpfPrHnB77z) | 4:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 99 | [No Vale la Pena](https://open.spotify.com/track/61xsekswNv3eCOOwYGY6GH) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta Once Grandes Exitos De Juan Gabriel](https://open.spotify.com/album/61odYv9kH9Zv4rxDOUwlBl) | 2:36 |
 | 100 | [Me Gustas Mucho \- Con Amaia Montero](https://open.spotify.com/track/09WmDckPkEXGRlGH5Kyipy) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Una Estrella En El Cielo](https://open.spotify.com/album/5BKMan1vEF6HtWpj8tNceY) | 3:00 |
 
-Snapshot ID: `MTY0MDgyMTEwNSwwMDAwMDAwMGEyYjAxYjMzMmU5MTExZTgwNjY1NmJlNjQ0NmViNmRl`
+Snapshot ID: `MTY0MDgyMTEwNSwwMDAwMDAwMGQwODAyZGFhODE0OTZlOTRjMjZlYTBlNDMwNjc5Mzdl`

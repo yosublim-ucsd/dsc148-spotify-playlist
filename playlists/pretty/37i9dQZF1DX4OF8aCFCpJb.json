@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 66356,
+  "num_followers": 66367,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMGE5Njg0NWM5NjBmZjg1ZjZlMDE1MWM1NzQ3OTM2N2U4",
+  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMDQ0MjcwYWRlMDllYzdlNGFjNjU4ZGE2MWY0Y2ZiZjY2",
   "tracks": [
     {
       "added_at": "2023-04-13 22:00:00",
@@ -783,6 +783,26 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "Sanna Mina Ord",
+        "url": "https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B"
+      },
+      "artists": [
+        {
+          "name": "Kikko",
+          "url": "https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY"
+        },
+        {
+          "name": "Don Paco",
+          "url": "https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs"
+        }
+      ],
+      "duration_ms": 249423,
+      "name": "Sanna Mina Ord",
+      "url": "https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "Som Salomos S\u00e5ng",
         "url": "https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 245530,
       "name": "No Winners",
       "url": "https://open.spotify.com/track/47rPfUdslLIWWcwv1yrySB"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
-        "name": "Sanna Mina Ord",
-        "url": "https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B"
-      },
-      "artists": [
-        {
-          "name": "Kikko",
-          "url": "https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY"
-        },
-        {
-          "name": "Don Paco",
-          "url": "https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs"
-        }
-      ],
-      "duration_ms": 249423,
-      "name": "Sanna Mina Ord",
-      "url": "https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22"
     },
     {
       "added_at": "2023-04-13 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 
 > ¡Lo mejor de los charros cantores! Vicente Fernández en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,856 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,015 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 | 67 | [Retirada](https://open.spotify.com/track/6kYxWFXzSkvwYBcdrHSFSD) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Sombras](https://open.spotify.com/album/38BNQJvYJ4KPOmAT9dEq9B) | 2:52 |
 | 68 | [La Puerta Negra](https://open.spotify.com/track/2yAbDJYqqZDxM399YpQy8U) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:15 |
 | 69 | [Juan Charrasqueado](https://open.spotify.com/track/6N4N27KYUdgz7Ku1ZRTF4p) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Yo Soy Mexicano](https://open.spotify.com/album/5VZBNCZlegrwEBbmgWryRE) | 3:28 |
-| 70 | [Flor de Azalea](https://open.spotify.com/track/4MfxBliVa1rOaGjWqyDPih) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Fiesta Mexicana](https://open.spotify.com/album/3YGaO3xZe4xrr1defiiv5q) | 3:06 |
+| 70 | [Albur De Amor](https://open.spotify.com/track/2Hi3gHdIpgSqr4jdEtWOJB) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Un Puño de Tierra](https://open.spotify.com/album/65VUOaoJRlzDEwFSIJdWS3) | 2:36 |
 
-Snapshot ID: `MTY0MzE1MzkxMSwwMDAwMDAwMDRlZDVkYTk2ZTU3NGQ3YTBjNzhmZWVmN2Y2NDJmZWIw`
+Snapshot ID: `MTY0MzE1MzkxMSwwMDAwMDAwMDQ3YzI2NzY5NGYyMThlZWY0MWJkODA2MWM5N2YwZmFl`

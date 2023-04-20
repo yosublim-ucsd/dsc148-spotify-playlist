@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The most innovative and forward thinking metal right now\. Cover: Static\-X
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,617 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,872 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 11 | [Pink Rover](https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 1:58 |
 | 12 | [Handshakes With Snakes](https://open.spotify.com/track/4oztf7RcwAIxhd1gBp0pjg) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP) | [Handshakes With Snakes](https://open.spotify.com/album/08DuxbIKQxGyVv35305TrD) | 1:57 |
 | 13 | [VAMPIR \(feat\. Oli Sykes of Bring Me The Horizon\)](https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ) | [IC3PEAK](https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [VAMPIR](https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW) | 2:23 |
-| 14 | [Paranoid \(Crash & Burn\)](https://open.spotify.com/track/0BeWU3xxG2plP1lhphj660) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Paranoid \(Crash & Burn\)](https://open.spotify.com/album/4oLteDk1bawqdQuWd7K1iF) | 3:55 |
+| 14 | [I Wish A Bitch Would](https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Wish A Bitch Would](https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR) | 3:26 |
 | 15 | [Light and Darkness](https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 4:04 |
-| 16 | [I Wish A Bitch Would](https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [I Wish A Bitch Would](https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR) | 3:26 |
+| 16 | [Paranoid \(Crash & Burn\)](https://open.spotify.com/track/0BeWU3xxG2plP1lhphj660) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Paranoid \(Crash & Burn\)](https://open.spotify.com/album/4oLteDk1bawqdQuWd7K1iF) | 3:55 |
 | 17 | [KILL ALL PREDATORS](https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf), [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [FAIRY PHONK](https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj) | 2:05 |
 | 18 | [Crash 'n Learn](https://open.spotify.com/track/7a9LlgnBXO5qOOdrRJALfb) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Fear Network II](https://open.spotify.com/album/79oY2cGYhbXlh537p1hpVS) | 1:27 |
 | 19 | [Diazepam](https://open.spotify.com/track/34QE6KRYpX1GCnbhJ4Hqhx) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Diazepam](https://open.spotify.com/album/6xHOXbrRQUov5zitOkoSfy) | 2:36 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 36 | [Heaviness](https://open.spotify.com/track/2sIkhkfN6uC1d2E06Ke5a8) | [LIONFIGHT](https://open.spotify.com/artist/0Wbm1dUddzRPlUhvz40QPP) | [An Investigation Into Perceived Heaviness](https://open.spotify.com/album/3IG5yvWsoVkcJKpMAQf2Qt) | 3:55 |
 | 37 | [At the Seams](https://open.spotify.com/track/23lu3i2IiQgqR5xBKJhdHR) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Wake of a Nation](https://open.spotify.com/album/5s02KPkBjMkrz9zUJBWXDA) | 3:09 |
 | 38 | [Dopamine](https://open.spotify.com/track/7y9USehMh5BWR0tWXsXJ5K) | [Tides From Nebula](https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf) | [From Voodoo to Zen](https://open.spotify.com/album/3kxzriTUAvJklocJHG7GH8) | 4:49 |
-| 39 | [Moot](https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz), [Morgan Lander](https://open.spotify.com/artist/6UmXnQCZQvayT1eZxAIvz5) | [Moot](https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ) | 4:05 |
-| 40 | [WRAITH](https://open.spotify.com/track/00qBObhlttb7UwYTWpkSPm) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [THE GREAT DEPRESSION](https://open.spotify.com/album/76psVqthi8ZmsWCHBwDJxd) | 3:19 |
+| 39 | [WRAITH](https://open.spotify.com/track/00qBObhlttb7UwYTWpkSPm) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [THE GREAT DEPRESSION](https://open.spotify.com/album/76psVqthi8ZmsWCHBwDJxd) | 3:19 |
+| 40 | [Moot](https://open.spotify.com/track/4uyZcMuMZ53OPEqH41AsUe) | [We Are PIGS](https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz), [Morgan Lander](https://open.spotify.com/artist/6UmXnQCZQvayT1eZxAIvz5) | [Moot](https://open.spotify.com/album/0mla1tVzfxr60Nl3JKqnaQ) | 4:05 |
 | 41 | [Storm](https://open.spotify.com/track/5C4y8xih0UowIf9yPgSAYT) | [Silver Lake by Esa Holopainen](https://open.spotify.com/artist/5snqVyyNcZNQPRkcTnFi4A) | [Silver Lake by Esa Holopainen](https://open.spotify.com/album/2zWSbMftaoejsLk66Rzsj4) | 4:14 |
 | 42 | [Whispers of Your Death](https://open.spotify.com/track/0epZ0WL25qEmScVrKzZhL8) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Whispers of Your Death](https://open.spotify.com/album/4t0YjU738vLtyaBlQvrxp5) | 2:54 |
 | 43 | [LXVE](https://open.spotify.com/track/5RqMRQphaSAQekmaqRGpHH) | [Stain the Canvas](https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4) | [LXVE](https://open.spotify.com/album/4WxYoN03IGMt48MxwQaLhi) | 3:11 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 45 | [Red River](https://open.spotify.com/track/1WVXzE0JtaYmkJjhZzE7aS) | [Show Me A Dinosaur](https://open.spotify.com/artist/1wou9vWv5PgrTn3pu3TydQ) | [Plantgazer](https://open.spotify.com/album/4hE7EGO2njWxhAWS08BWsP) | 9:36 |
 | 46 | [The Future Says Thank You](https://open.spotify.com/track/2TfNBZNReB9L02rmi5tsnA) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [They Fear Us](https://open.spotify.com/album/3derpgU8KpIaQCu8uZyr61) | 3:38 |
 | 47 | [Azure](https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Azure](https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN) | 4:14 |
-| 48 | [Arluck](https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Blood Year](https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb) | 6:33 |
-| 49 | [RedZone](https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [RedZone / Dead or Alive](https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN) | 3:47 |
+| 48 | [RedZone](https://open.spotify.com/track/08IikpGxSbo2oxqxCWy5Ig) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh) | [RedZone / Dead or Alive](https://open.spotify.com/album/104nCXXUMtecWvzQtjFalN) | 3:47 |
+| 49 | [Arluck](https://open.spotify.com/track/0aOsJ0gpHm7cfG2AMaBX1g) | [Russian Circles](https://open.spotify.com/artist/0AZ3VR0YbFcS0Kgei7L2QF) | [Blood Year](https://open.spotify.com/album/1LWWmVyhDxFAxBmQe3ecZb) | 6:33 |
 | 50 | [Touch the Corpse](https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ) | [Irving Force](https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX) | [Touch the Corpse](https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW) | 2:46 |
 | 51 | [saw BONES](https://open.spotify.com/track/0vDGdGQGyvpubJ0dJTg7uk) | [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo) | [saw BONES](https://open.spotify.com/album/5EPgTJ0WWdo5o3MuPBhSAC) | 2:27 |
 | 52 | [Soul Revolution](https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Soul Revolution](https://open.spotify.com/album/4JNGZre3bq4Fgmy0zUkOel) | 3:34 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 77 | [Providencia III \- La Flora Que Crece Alrededor de Nuestras Catedrales](https://open.spotify.com/track/40ka2TBKZf7bPubTAE4xHT) | [Huszar](https://open.spotify.com/artist/1l1A8JuXGHt8QY7W37dU9C) | [Providencia](https://open.spotify.com/album/5hqcP9226vpEkLWr8bzQRL) | 7:24 |
 | 78 | [Frost \(C\)](https://open.spotify.com/track/24jWKZE0j30z3LlnzArFf2) | [sunn O\)\)\)](https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J) | [Pyroclasts](https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f) | 10:56 |
 | 79 | [Demon Supreme](https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Demon Supreme](https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB) | 3:31 |
-| 80 | [Synopsis](https://open.spotify.com/track/1TGEVFUCXVI7GzqAzGFBkX) | [Mountain Eye](https://open.spotify.com/artist/4tAs3G5ZsXLbE1yXpc6apz) | [Synopsis](https://open.spotify.com/album/1csn83LGlgEFpoFjZDjHYG) | 3:22 |
+| 80 | [Love in the Time of Pestilence](https://open.spotify.com/track/61QZFPNZvNKPaY9nnAgKbX) | [The Chronicles of Manimal and Samara](https://open.spotify.com/artist/2V3zzIcq2sbRbaEjbGypc8) | [Full Spectrum](https://open.spotify.com/album/6qXjj4mea3BEEAcwCmXfyJ) | 7:41 |
 
-Snapshot ID: `MTY3Nzg2MTAxNCwwMDAwMDAwMDlmZDVmYjU0ZGY4YTg3MWNlNGMxN2ZmNjg0MzM0MzRi`
+Snapshot ID: `MTY3Nzg2MTAxNCwwMDAwMDAwMGU4Yjk5ZWI2NmI2NmE1MTQ3YmZhOGU1OWU3YzNjNGQ4`

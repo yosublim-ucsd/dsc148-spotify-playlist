@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,381 likes - 75 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,385 likes - 75 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 48 | [Chim sáo ngày xưa](https://open.spotify.com/track/5bWqMXjLukN5Y6Cb3yIrVC) | [Quang Linh](https://open.spotify.com/artist/3JwyehW3Ls8vt8GSons5eA) | [Yêu nhau ghét nhau 1](https://open.spotify.com/album/4z6v1PQ0jpIWQqprhroBYN) | 5:56 |
 | 49 | [Mối Duyên Quê](https://open.spotify.com/track/0M2QYF6tMSl9Nl2T1kUHd5) | [Le Thuy](https://open.spotify.com/artist/6zMihGRYdCoCgBFBgPO7aQ) | [Mối Duyên Quê](https://open.spotify.com/album/67uEDbx30JNBOs5BIsbATT) | 3:46 |
 | 50 | [Về Quê Ngoại](https://open.spotify.com/track/5oMCJAEW84GfIQ7NRk3JY9) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe) | [Nếu Đời Không Có Anh](https://open.spotify.com/album/5OBNE2Vuts89PIIvg7oWHN) | 5:51 |
-| 51 | [Về Quê Thăm Mẹ](https://open.spotify.com/track/5dS9CTGdzW1I3avG0KOtPF) | [Doan Minh](https://open.spotify.com/artist/5LpXGJnM8abKp6sv8GSzj7), [Huỳnh Nguyễn Công Bằng](https://open.spotify.com/artist/0MZdNmWMdt0PQwiyXz93XD) | [Về Quê Thăm Mẹ](https://open.spotify.com/album/7Kr1dZVpV99Cy3pprFOKvQ) | 4:47 |
+| 51 | [Về Quê Thăm Mẹ](https://open.spotify.com/track/5dS9CTGdzW1I3avG0KOtPF) | [Đoàn Minh](https://open.spotify.com/artist/0H8DQXB1lKU8QExRbpOndQ), [Huỳnh Nguyễn Công Bằng](https://open.spotify.com/artist/0MZdNmWMdt0PQwiyXz93XD) | [Về Quê Thăm Mẹ](https://open.spotify.com/album/7Kr1dZVpV99Cy3pprFOKvQ) | 4:47 |
 | 52 | [Chiếc Xuồng](https://open.spotify.com/track/63eOuMVbPmonUiBcUvS4rK) | [Hương Thủy](https://open.spotify.com/artist/62fblWo293n6H96ETSYmxR), [Quang Le](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Chuyện Người Con Gái](https://open.spotify.com/album/4SWMrSAUEIj06uJUyzGHa7) | 5:14 |
 | 53 | [Chuyến Đò Quê Hương](https://open.spotify.com/track/4IuzULUl147TjKo9mvGoVw) | [Cẩm Ly](https://open.spotify.com/artist/5sXudh7NFkU6fjQL6BQOj0) | [Chim Trắng Mồ Côi](https://open.spotify.com/album/3BsmysQHlGhbePd6jk08hA) | 4:51 |
 | 54 | [Khúc hát ân tình](https://open.spotify.com/track/2cBQPygQQosACNMTmQPBJk) | [Hà Thanh Xuân](https://open.spotify.com/artist/5dJC6sFNciDahBR0AeaGvH) | [Mưa](https://open.spotify.com/album/2IyLUlrmGI0IPlzGfkuA6w) | 4:14 |

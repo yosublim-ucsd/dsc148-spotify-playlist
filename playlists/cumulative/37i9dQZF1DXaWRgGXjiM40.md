@@ -4,7 +4,7 @@
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-61 songs - 3 hr 9 min
+62 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Notificação Preferida \- Ao Vivo](https://open.spotify.com/track/3tA0vALUwrzkTgHcm9j6oJ) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 3:02 | 2023-02-10 |  |
 | [O Alvo \(feat\. Henrique & Juliano\) \- Ao Vivo](https://open.spotify.com/track/5Vw6ZLNB6Ko7VZM6vmNIbr) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Alvo \(feat\. Henrique & Juliano\) \[Ao Vivo\]](https://open.spotify.com/album/3yprBTFIy7DnJCHnMDifRv) | 2:44 | 2023-02-10 |  |
 | [O Que É Que Tem](https://open.spotify.com/track/1p6dBmCdP7xh3OMTYJDZPK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Live In London \- At The Royal Albert Hall](https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW) | 3:35 | 2023-02-10 |  |
-| [Pense Em Mim \- Jorge & Mateus Elétrico](https://open.spotify.com/track/24IMxi4RUakB4bleLn2uBE) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Jorge & Mateus Elétrico](https://open.spotify.com/album/0RkEgK2Ch7H5IURwDYTTnt) | 3:32 | 2023-02-10 |  |
+| [Paredes \- Ao Vivo](https://open.spotify.com/track/2GfxgssRHvY1azHtaRqKoK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Como\. Sempre Feito\. Nunca \(ao Vivo\)](https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz) | 3:04 | 2023-04-07 |  |
+| [Pense Em Mim \- Jorge & Mateus Elétrico](https://open.spotify.com/track/24IMxi4RUakB4bleLn2uBE) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Jorge & Mateus Elétrico](https://open.spotify.com/album/0RkEgK2Ch7H5IURwDYTTnt) | 3:32 | 2023-02-10 | 2023-04-20 |
 | [Pergunta Boba \- Ao Vivo](https://open.spotify.com/track/36OBPVuz58hAsKxgLCKer6) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [10 Anos \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wiTSo8xXBIvvkhZNJFWCm) | 3:48 | 2023-02-10 |  |
 | [Pior Experiência](https://open.spotify.com/track/3p79wqNX0ukgkZnZuxvMRs) | [Marcio e Douglas](https://open.spotify.com/artist/6eQ6iaplLP3xemnZ44t043) | [Pior Experiência](https://open.spotify.com/album/7Er2d9CzqiVnTTT4Jhcp5L) | 2:49 | 2023-02-14 | 2023-02-18 |
 | [Propaganda \- Ao Vivo](https://open.spotify.com/track/74n5d5M21JnC4WJ6gdkggK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Terra Sem Cep \(ao Vivo\)](https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp) | 2:21 | 2023-02-10 |  |

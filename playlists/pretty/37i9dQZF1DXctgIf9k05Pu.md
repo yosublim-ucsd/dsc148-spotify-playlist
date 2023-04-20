@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 
 > Aesthetic vibes that just make sense.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,242 likes - 50 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,295 likes - 50 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 29 | [Cut My Hair](https://open.spotify.com/track/3DYZKxjG8SZrWpVcoUilqQ) | [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [How Are You](https://open.spotify.com/album/5CzE7H2HSJCRNj4qNHIoly) | 2:07 |
 | 30 | [lovesick](https://open.spotify.com/track/1aPsdtJUgzeryfKppuYFGA) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [lovesick](https://open.spotify.com/album/6m0DGPzcCmuFwuqguhcAVg) | 2:30 |
 | 31 | [Sorry, I Like You](https://open.spotify.com/track/34MqDD3411uJQvXsqpZv3D) | [Burbank](https://open.spotify.com/artist/4iHB5bp1wwN5qTbVPaBykO) | [Sorry, I Like You](https://open.spotify.com/album/7EZ0zxMKXkJZGZBESFJZGA) | 2:02 |
-| 32 | [Monday Loop](https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v) | 1:31 |
-| 33 | [I Fell in Love with You One Night in September](https://open.spotify.com/track/10hweQwWcUhBcpipYEvCYD) | [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID) | [Dreams for Two](https://open.spotify.com/album/7t35JHjhNRPMZ3eZHuDeba) | 1:36 |
+| 32 | [I Fell in Love with You One Night in September](https://open.spotify.com/track/10hweQwWcUhBcpipYEvCYD) | [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID) | [Dreams for Two](https://open.spotify.com/album/7t35JHjhNRPMZ3eZHuDeba) | 1:36 |
+| 33 | [Monday Loop](https://open.spotify.com/track/7LBG7L5wOwfBgM6W3t7qPJ) | [Tomppabeats](https://open.spotify.com/artist/0Q2Tc5yZFJpumLMc7Yz4e4) | [Harbor](https://open.spotify.com/album/5HpYucXuCE8s379dUfpe3v) | 1:31 |
 | 34 | [Sunday](https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 3:00 |
 | 35 | [Gravity Falls](https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Gravity Falls](https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG) | 1:54 |
 | 36 | [Her](https://open.spotify.com/track/2koESjC2WBc6qmfg0dmTRt) | [eery](https://open.spotify.com/artist/2nu6ZVLgiNcRcWgDKUjplH) | [Her](https://open.spotify.com/album/3fr8eTKmfc0cjaijl4lduW) | 2:03 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXctgIf9k05Pu.md) - [plain]
 | 43 | [Redbone](https://open.spotify.com/track/2hYuPn9UXZCqkA3mMedCXe) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Redbone](https://open.spotify.com/album/7ifFCYOT1n2YGyYhSuU59g) | 1:42 |
 | 44 | [change ur mind](https://open.spotify.com/track/58Mh6zmqSo9IvysPAXnG0h) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [change ur mind](https://open.spotify.com/album/5Sq4GMxxUnYNkcXZEORRQh) | 3:03 |
 | 45 | [fountain](https://open.spotify.com/track/35D1qs5m12ATl5WhkiunHT) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [recreation](https://open.spotify.com/album/7is9hZHWtLUcsfKlOd7TJg) | 1:52 |
-| 46 | [Summer Picnic](https://open.spotify.com/track/5qLIUUbJUlb3aXEiDThZef) | [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Summer Picnic](https://open.spotify.com/album/6U05K7fOYSMkZ7qJuKCVND) | 1:55 |
-| 47 | [Who? \(feat\. Shiloh Dynasty\)](https://open.spotify.com/track/1F0a3Au8NIpoRP7PVdO1YR) | [TSUKI](https://open.spotify.com/artist/5JUQJ7KsNBUfvga48DbmAf), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Who? \(feat\. Shiloh Dynasty\)](https://open.spotify.com/album/6hS1GnERLOTXde2WYhUzCL) | 2:37 |
+| 46 | [Who? \(feat\. Shiloh Dynasty\)](https://open.spotify.com/track/1F0a3Au8NIpoRP7PVdO1YR) | [TSUKI](https://open.spotify.com/artist/5JUQJ7KsNBUfvga48DbmAf), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Who? \(feat\. Shiloh Dynasty\)](https://open.spotify.com/album/6hS1GnERLOTXde2WYhUzCL) | 2:37 |
+| 47 | [Summer Picnic](https://open.spotify.com/track/5qLIUUbJUlb3aXEiDThZef) | [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Summer Picnic](https://open.spotify.com/album/6U05K7fOYSMkZ7qJuKCVND) | 1:55 |
 | 48 | [To the Girl With Red Converse](https://open.spotify.com/track/4rM66iPZNDZlq4V6g3GLz6) | [Jackie Xan](https://open.spotify.com/artist/2ykxC1VJhlsCrfLfuFEcL1) | [To the Girl With Red Converse](https://open.spotify.com/album/3R5ky3UbYYHGQJR1Ah7wfd) | 2:23 |
 | 49 | [Day in Paris](https://open.spotify.com/track/5uuD5CBnuAF6VoC57WLxol) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [Day in Paris](https://open.spotify.com/album/71Xu2aatGYldckWmQHeYSF) | 3:17 |
 | 50 | [Aesthetic](https://open.spotify.com/track/5nQfC1vjISMUlstveJG7Ge) | [Xilo](https://open.spotify.com/artist/63kE1M6nlHBGwRttAc4Q6Z) | [Aesthetic](https://open.spotify.com/album/3OWiPXLWYWCvQ9nIKvTQkk) | 2:38 |
 
-Snapshot ID: `MTY0Mzc2MTMwOCwwMDAwMDAwMGNkN2M2YTJiYjdkYWM4NDg5N2E2MzIzNDQ1ZjZiMWJk`
+Snapshot ID: `MTY0Mzc2MTMwOCwwMDAwMDAwMGZkNTcwZTA3MzYzNWFkNjE3ZGZmZTc5Mjc0OTVlMGZi`

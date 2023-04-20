@@ -1,12 +1,12 @@
 {
   "description": "Indie soul that's highkey fire ",
-  "num_followers": 887417,
+  "num_followers": 887733,
   "original_name": "Lowkey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGY3NDdlZjg3Mzg4ZTVmNDM1OTBkNWJjN2M4NGMxNDQ1",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDQyMzU0MWZmZjBiM2FjZWI4ZWM1NDBiYzRlZWFjYTQ5",
   "tracks": [
     {
       "added_at": "2023-03-31 04:02:35",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "AVAILABLE FOR ME",
-        "url": "https://open.spotify.com/album/6VoIESYZJxUS1cMUL5CuSw"
-      },
-      "artists": [
-        {
-          "name": "Hailey Knox",
-          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
-        }
-      ],
-      "duration_ms": 141732,
-      "name": "AVAILABLE FOR ME",
-      "url": "https://open.spotify.com/track/287fJ5M4YHE9JtVzKrrm5M"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
         "name": "I Wonder Why",
         "url": "https://open.spotify.com/album/1qDCmcKhDPEVHfLYgZUIBD"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 228347,
       "name": "I Wonder Why",
       "url": "https://open.spotify.com/track/5Jwh9paNfKbgeVxVv5cCQp"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "AVAILABLE FOR ME",
+        "url": "https://open.spotify.com/album/6VoIESYZJxUS1cMUL5CuSw"
+      },
+      "artists": [
+        {
+          "name": "Hailey Knox",
+          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
+        }
+      ],
+      "duration_ms": 141732,
+      "name": "AVAILABLE FOR ME",
+      "url": "https://open.spotify.com/track/287fJ5M4YHE9JtVzKrrm5M"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -621,20 +621,20 @@
       "url": "https://open.spotify.com/track/7iEKaA9Kkn9JfqyKb9HEvR"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/2rjXWUlGeNpRWNM7kIP3ia"
+        "name": "Go\u00fbter +",
+        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
       },
       "artists": [
         {
-          "name": "August Charles",
-          "url": "https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S"
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
         }
       ],
-      "duration_ms": 237049,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/21EWgcbSOPGQ9hRvMOlLCi"
+      "duration_ms": 208192,
+      "name": "in ur motion",
+      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -653,20 +653,20 @@
       "url": "https://open.spotify.com/track/1RaO7Jv7R2CmhKR9Ne7YBo"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
+      "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "Go\u00fbter +",
-        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/2rjXWUlGeNpRWNM7kIP3ia"
       },
       "artists": [
         {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
+          "name": "August Charles",
+          "url": "https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S"
         }
       ],
-      "duration_ms": 208192,
-      "name": "in ur motion",
-      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
+      "duration_ms": 237049,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/21EWgcbSOPGQ9hRvMOlLCi"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -701,22 +701,6 @@
       "url": "https://open.spotify.com/track/3c7N2fCFB4JVKGF8cWfteh"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 255401,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK"
-    },
-    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "EL-MEAN",
@@ -731,6 +715,22 @@
       "duration_ms": 251501,
       "name": "Choose You",
       "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 255401,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "why didn't you call???",
-        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 196734,
-      "name": "why didn't you call???",
-      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
         "name": "PATTERNS",
         "url": "https://open.spotify.com/album/0ajIIb5zoGQxKE9Vceq2X4"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 224050,
       "name": "PATTERNS",
       "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "why didn't you call???",
+        "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
+      },
+      "artists": [
+        {
+          "name": "Saint Harison",
+          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
+        }
+      ],
+      "duration_ms": 196734,
+      "name": "why didn't you call???",
+      "url": "https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -985,22 +985,6 @@
       "url": "https://open.spotify.com/track/23DcYVHH5f9yuttqSrZ8YI"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 262651,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/1OFEzFogOuGlrjZt6jdz6l"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Palace",
@@ -1031,6 +1015,22 @@
       "duration_ms": 148085,
       "name": "Santorini",
       "url": "https://open.spotify.com/track/3JSaYIRPbfRgK8LfbDEYsH"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 262651,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/1OFEzFogOuGlrjZt6jdz6l"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1117,22 +1117,6 @@
       "url": "https://open.spotify.com/track/2zk7TQx9Xa4yxYmsjgDCPp"
     },
     {
-      "added_at": "2023-03-04 19:39:48",
-      "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/1cVgkUbzpEwQVcQJvWgYnI"
-      },
-      "artists": [
-        {
-          "name": "Mac Ayres",
-          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
-        }
-      ],
-      "duration_ms": 135653,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/5BsMtgFr6LEL8FqPOaN2oj"
-    },
-    {
       "added_at": "2023-02-16 15:18:53",
       "album": {
         "name": "Verbs (feat. Steve Lacy)",
@@ -1151,6 +1135,22 @@
       "duration_ms": 213800,
       "name": "Verbs (feat. Steve Lacy)",
       "url": "https://open.spotify.com/track/53cvnLRalWWOb42dcHL0yZ"
+    },
+    {
+      "added_at": "2023-03-04 19:39:48",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/1cVgkUbzpEwQVcQJvWgYnI"
+      },
+      "artists": [
+        {
+          "name": "Mac Ayres",
+          "url": "https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL"
+        }
+      ],
+      "duration_ms": 135653,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5BsMtgFr6LEL8FqPOaN2oj"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1225,22 +1225,6 @@
       "url": "https://open.spotify.com/track/6PoD6ZYOAMkCJAbpAgpT1T"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "Good Good",
-        "url": "https://open.spotify.com/album/77zg0WMPMfptvnSR4PeRpI"
-      },
-      "artists": [
-        {
-          "name": "Taner\u00e9lle",
-          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
-        }
-      ],
-      "duration_ms": 225541,
-      "name": "Good Good",
-      "url": "https://open.spotify.com/track/02adJbZO7bHXJjboTwph45"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "WILLOW: Live At Electric Lady",
@@ -1255,6 +1239,22 @@
       "duration_ms": 123733,
       "name": "Bag Lady / Split - Live",
       "url": "https://open.spotify.com/track/6V3J9NK2BK2KbwmkGgTjip"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "Good Good",
+        "url": "https://open.spotify.com/album/77zg0WMPMfptvnSR4PeRpI"
+      },
+      "artists": [
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        }
+      ],
+      "duration_ms": 225541,
+      "name": "Good Good",
+      "url": "https://open.spotify.com/track/02adJbZO7bHXJjboTwph45"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1277,38 +1277,6 @@
       "url": "https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "Archives & Lullabies",
-        "url": "https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 215625,
-      "name": "Leave While I Love You",
-      "url": "https://open.spotify.com/track/7rzto8pMXLVKpL2GVAfpMZ"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "As Days Go By",
-        "url": "https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx"
-      },
-      "artists": [
-        {
-          "name": "Paulade",
-          "url": "https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK"
-        }
-      ],
-      "duration_ms": 222654,
-      "name": "As Days Go By",
-      "url": "https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "I Hope",
@@ -1327,18 +1295,34 @@
     {
       "added_at": "2023-02-16 15:18:53",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
+        "name": "As Days Go By",
+        "url": "https://open.spotify.com/album/0Gt4hzHCAFrLtZX1s9KoXx"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Paulade",
+          "url": "https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK"
         }
       ],
-      "duration_ms": 229341,
-      "name": "You're The One - Spotify Singles",
-      "url": "https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ"
+      "duration_ms": 222654,
+      "name": "As Days Go By",
+      "url": "https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "Archives & Lullabies",
+        "url": "https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 215625,
+      "name": "Leave While I Love You",
+      "url": "https://open.spotify.com/track/7rzto8pMXLVKpL2GVAfpMZ"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1359,6 +1343,22 @@
       "duration_ms": 170217,
       "name": "THIS SH!T",
       "url": "https://open.spotify.com/track/0NfxQ1dLKqwT40AhR6zqAY"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 229341,
+      "name": "You're The One - Spotify Singles",
+      "url": "https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ"
     },
     {
       "added_at": "2023-02-16 15:18:53",
@@ -1469,6 +1469,22 @@
       "url": "https://open.spotify.com/track/2iEkQcLF4Mjm91hTS3XW86"
     },
     {
+      "added_at": "2023-03-31 04:02:35",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/3eBHvRyUhfarjwJH0YK7HK"
+      },
+      "artists": [
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        }
+      ],
+      "duration_ms": 195004,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/1Sr7G1nLlnAFZ8AKT7PuGo"
+    },
+    {
       "added_at": "2023-02-16 15:18:53",
       "album": {
         "name": "Best Feature (feat. Devin Morrison)",
@@ -1525,6 +1541,26 @@
       "url": "https://open.spotify.com/track/74cfwBYBzG8QOvxcBZBeKE"
     },
     {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "b l u r r",
+        "url": "https://open.spotify.com/album/1lKab1olSSCNuFg3f2Jif0"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        },
+        {
+          "name": "pat junior",
+          "url": "https://open.spotify.com/artist/0lOsH3CaZpQIE3QO40SFvx"
+        }
+      ],
+      "duration_ms": 161274,
+      "name": "A Dream",
+      "url": "https://open.spotify.com/track/0Ntl87gyxtztbpfK8hfqQr"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "BY THE WAY",
@@ -1549,42 +1585,6 @@
       "url": "https://open.spotify.com/track/4DvepWnbBJzTb0jZZTqgPG"
     },
     {
-      "added_at": "2023-03-31 04:02:35",
-      "album": {
-        "name": "Hello",
-        "url": "https://open.spotify.com/album/3eBHvRyUhfarjwJH0YK7HK"
-      },
-      "artists": [
-        {
-          "name": "Aqyila",
-          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
-        }
-      ],
-      "duration_ms": 195004,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/1Sr7G1nLlnAFZ8AKT7PuGo"
-    },
-    {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "b l u r r",
-        "url": "https://open.spotify.com/album/1lKab1olSSCNuFg3f2Jif0"
-      },
-      "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        },
-        {
-          "name": "pat junior",
-          "url": "https://open.spotify.com/artist/0lOsH3CaZpQIE3QO40SFvx"
-        }
-      ],
-      "duration_ms": 161274,
-      "name": "A Dream",
-      "url": "https://open.spotify.com/track/0Ntl87gyxtztbpfK8hfqQr"
-    },
-    {
       "added_at": "2023-02-16 15:18:53",
       "album": {
         "name": "Caged Bird",
@@ -1601,22 +1601,6 @@
       "url": "https://open.spotify.com/track/2dzEIMnXj4bRiRMoax1xE4"
     },
     {
-      "added_at": "2023-02-16 15:18:53",
-      "album": {
-        "name": "Girl In The Half Pearl",
-        "url": "https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w"
-      },
-      "artists": [
-        {
-          "name": "Liv.e",
-          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
-        }
-      ],
-      "duration_ms": 148360,
-      "name": "Find Out",
-      "url": "https://open.spotify.com/track/4Rkm2ThV0B7TZLEF9IN7RN"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Kaleidoscope",
@@ -1631,6 +1615,22 @@
       "duration_ms": 199903,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV"
+    },
+    {
+      "added_at": "2023-02-16 15:18:53",
+      "album": {
+        "name": "Girl In The Half Pearl",
+        "url": "https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w"
+      },
+      "artists": [
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        }
+      ],
+      "duration_ms": 148360,
+      "name": "Find Out",
+      "url": "https://open.spotify.com/track/4Rkm2ThV0B7TZLEF9IN7RN"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1733,26 +1733,6 @@
       "url": "https://open.spotify.com/track/5n6pFWEIz6KlcAsZL4J7O3"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Brand New Life",
-        "url": "https://open.spotify.com/album/6Vwe5sledpijPPJGg8HyGE"
-      },
-      "artists": [
-        {
-          "name": "Brandee Younger",
-          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
-        },
-        {
-          "name": "Mumu Fresh",
-          "url": "https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD"
-        }
-      ],
-      "duration_ms": 272323,
-      "name": "Brand New Life (feat. Mumu Fresh)",
-      "url": "https://open.spotify.com/track/6SGBrgYMtDQfjTb1GXfBSK"
-    },
-    {
       "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "Maybe",
@@ -1791,6 +1771,26 @@
       "duration_ms": 200000,
       "name": "Do 2 Me",
       "url": "https://open.spotify.com/track/7mRYc7MBzPiQpW1wlVdz4w"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Brand New Life",
+        "url": "https://open.spotify.com/album/6Vwe5sledpijPPJGg8HyGE"
+      },
+      "artists": [
+        {
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        },
+        {
+          "name": "Mumu Fresh",
+          "url": "https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD"
+        }
+      ],
+      "duration_ms": 272323,
+      "name": "Brand New Life (feat. Mumu Fresh)",
+      "url": "https://open.spotify.com/track/6SGBrgYMtDQfjTb1GXfBSK"
     }
   ],
   "unique_name": "Lowkey",

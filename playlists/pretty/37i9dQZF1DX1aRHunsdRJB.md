@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 
 > A playlist driven from the islands, take the front seat as Soca meets Bashment
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,118 likes - 68 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,120 likes - 68 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRHunsdRJB.md) - [plain]
 | 61 | [Wine](https://open.spotify.com/track/2gWT6JsauOrGYR1jForaRQ) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Toco Loco Riddim](https://open.spotify.com/album/2ob3YAOPzGhkHbj9JjIq7R) | 3:04 |
 | 62 | [Bus a Wine](https://open.spotify.com/track/3mfgJieep1Sp2eB7Ic5Wsp) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54), [Fay\-Ann Lyons](https://open.spotify.com/artist/4nLVEYSAcpANC0BV87P4rd) | [Bus a Wine](https://open.spotify.com/album/6Mdi37IckdFe9fbb2fI7uH) | 3:03 |
 | 63 | [Braff](https://open.spotify.com/track/0u1FgrJMjQ0G39uJUToYXh) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Braff](https://open.spotify.com/album/3KamCpPGnXLDePk5pKXb6E) | 3:08 |
-| 64 | [Work](https://open.spotify.com/track/3D8nJQQJ6JGRDNUl3HeT3T) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2012](https://open.spotify.com/album/5JziDSTQ399rrYnzzphTF0) | 3:02 |
-| 65 | [Toat No Feelings](https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv) | 1:56 |
+| 64 | [Toat No Feelings](https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau) | [Motto](https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O), [Nessa Preppy](https://open.spotify.com/artist/17pN02mO1kZSkaic9K3ipT), [Team Foxx](https://open.spotify.com/artist/0QY1Fzl4cIbO14opQB8AyM) | [Toatin Riddim](https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv) | 1:56 |
+| 65 | [Work](https://open.spotify.com/track/3D8nJQQJ6JGRDNUl3HeT3T) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Soca Gold 2012](https://open.spotify.com/album/5JziDSTQ399rrYnzzphTF0) | 3:02 |
 | 66 | [Tombstone](https://open.spotify.com/track/4s11uuaP6TZewrcNundNY2) | [Mandella Linkz](https://open.spotify.com/artist/6pU2OStuhrBqzG7J1ibOIm) | [Mandrakes Riddim](https://open.spotify.com/album/4DPTFGdYrshK8qfDdmPrY7) | 3:50 |
 | 67 | [The People Man \(T.P.M.\)](https://open.spotify.com/track/2xsCpoyTKtvaejdEQkLo7T) | [Kisha](https://open.spotify.com/artist/6vK1HRsfeYa8m5ejJD4RTc), [Mata](https://open.spotify.com/artist/1jo7mWxIHJtOm0TAoKL1jJ) | [Sick Jab Riddim \(Deluxe Edition\)](https://open.spotify.com/album/1T6GuTqK1HDTYmW8J8d3Nj) | 2:15 |
 | 68 | [Feeling It](https://open.spotify.com/track/62pvKYjeztdIXbOoucJQfZ) | [Swappi](https://open.spotify.com/artist/1FXS9zsrivPmCwagsuhPdJ), [Ultimate Rejects](https://open.spotify.com/artist/5XwdTXM2AN5sMV7Su8dUZA) | [Feeling It](https://open.spotify.com/album/40IyjtthaOItYrK8mcASuu) | 4:07 |
 
-Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMGRhNTNjNWEzMTE3ZTFlMTc1MjExN2UwNzA0NjU1M2Jh`
+Snapshot ID: `MTY0NTcyNTYwMCwwMDAwMDAwMDVhMzlkZTZiNjE5OTE4Mzk3Y2U2OTRiY2NjOTRkNThh`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A dose of high-energy, feel-good rock tunes.",
+  "description": "A dose of high-energy rock & alt songs for your workout.",
   "name": "Rock Me Up",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 224178,
       "name": "2am",
       "url": "https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 235613,
       "name": "Bored To Death",
       "url": "https://open.spotify.com/track/44TuSOP6xIAEeJmZsN3nXO"
@@ -1097,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "Drones",
+        "url": "https://open.spotify.com/album/2ZfElZEiFCJhbXZa1iVEGb"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149881,
+      "name": "Drones",
+      "url": "https://open.spotify.com/track/5QNWATWEQiM9S7rsFUu0Ns"
+    },
+    {
+      "album": {
         "name": "That's The Spirit",
         "url": "https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP"
       },
@@ -1112,6 +1130,24 @@
       "duration_ms": 222093,
       "name": "Drown",
       "url": "https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy"
+    },
+    {
+      "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145093,
+      "name": "Dummy",
+      "url": "https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug"
     },
     {
       "album": {
@@ -2172,7 +2208,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 169655,
       "name": "Life's Coming in Slow - from GRAN TURISMO 7",
       "url": "https://open.spotify.com/track/24SyVpif5eshcNmLKdvOcj"
@@ -2230,6 +2266,24 @@
       "duration_ms": 210685,
       "name": "Like A Villain",
       "url": "https://open.spotify.com/track/40P5d3p4icYCiN4SMUOE2E"
+    },
+    {
+      "album": {
+        "name": "Meteora 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199342,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3RQHAFkEHiFHQ7qmMpKRdv"
     },
     {
       "album": {
@@ -2596,7 +2650,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 196135,
       "name": "Natural Born Killer",
       "url": "https://open.spotify.com/track/4nMUPQeTor23d8RxiiJO9W"
@@ -3022,6 +3076,24 @@
       "duration_ms": 208920,
       "name": "Records",
       "url": "https://open.spotify.com/track/23ZmKlucJRQrdR0QItAafL"
+    },
+    {
+      "album": {
+        "name": "Rescued",
+        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258648,
+      "name": "Rescued",
+      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
     },
     {
       "album": {
@@ -3894,7 +3966,7 @@
       ],
       "date_added": "2022-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 207297,
       "name": "Viva Las Vengeance",
       "url": "https://open.spotify.com/track/5TshTIGten6gMBMf8lgbf0"
@@ -3960,6 +4032,24 @@
       "duration_ms": 224133,
       "name": "Welcome to Paradise",
       "url": "https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt"
+    },
+    {
+      "album": {
+        "name": "Welcome to the DCC",
+        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198798,
+      "name": "Welcome to the DCC",
+      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
     },
     {
       "album": {

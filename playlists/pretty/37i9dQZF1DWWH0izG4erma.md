@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that ROCKS!! Cover: Brothers Osborne
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,041 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,690 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 49 | [Hate My Heart](https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 |
 | 50 | [Good Thing](https://open.spotify.com/track/1pjwRbcx1M0MrUTvSRGCgu) | [Joey Hyde](https://open.spotify.com/artist/6zAROtrmmahss9R8KCCWRo) | [I Made a Record](https://open.spotify.com/album/288iPS5cLnvwOYbtLc22uq) | 3:11 |
 | 51 | [County Roads](https://open.spotify.com/track/6i0VZ0uDSkj669YuEi1oa3) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [Backslider](https://open.spotify.com/album/3ajAv3GaQivcQyU5JuE8eY) | 3:11 |
-| 52 | [All Or Nothing](https://open.spotify.com/track/1CzZ7gS07Hmy7S0267w6VZ) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [All Or Nothing](https://open.spotify.com/album/37mY0fYspcp3GMzYeFwL1s) | 3:13 |
+| 52 | [Trailer Park](https://open.spotify.com/track/5rUC54BQV0Zhj0iIxcNYne) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Greenbroke](https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine) | 3:38 |
 | 53 | [Hit Different](https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Hit Different](https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB) | 3:13 |
-| 54 | [Trailer Park](https://open.spotify.com/track/5rUC54BQV0Zhj0iIxcNYne) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Greenbroke](https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine) | 3:38 |
+| 54 | [All Or Nothing](https://open.spotify.com/track/1CzZ7gS07Hmy7S0267w6VZ) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [All Or Nothing](https://open.spotify.com/album/37mY0fYspcp3GMzYeFwL1s) | 3:13 |
 | 55 | [Come Get Your Memory](https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Come Get Your Memory](https://open.spotify.com/album/3CdL2awpJrZyDlGFnR0M92) | 2:51 |
 | 56 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 |
 | 57 | [Home Team](https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Home Team](https://open.spotify.com/album/4zlBDJa1ZOoiy7R6AVD5Hd) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 99 | [Pull Me Under](https://open.spotify.com/track/3hxE4hDy1kEYt1LBnpvD4e) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Frayed At Both Ends](https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar) | 4:28 |
 | 100 | [There's Always Next Year](https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['21](https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj) | 2:49 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDcyY2I4YzIwMTIzOGE4OThiYTBiNWI5NmIwOWQ3OGFm`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMGJhY2U2MGMxYWJjN2ZkYjQ0ZTM3MTliZjI3MmZjYTg3`

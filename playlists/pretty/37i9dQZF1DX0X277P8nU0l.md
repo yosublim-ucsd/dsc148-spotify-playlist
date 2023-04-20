@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,227 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,265 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Therapist](https://open.spotify.com/track/4vIYNMhW588JXOlBlEQqrq) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Therapist](https://open.spotify.com/album/18R7VI3JvO7576xdNNA4ni) | 2:41 |
+| 1 | [Therapist](https://open.spotify.com/track/75YBkVdPNyqa1gLCK9SZaK) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 2:41 |
 | 2 | [Movie Star](https://open.spotify.com/track/2qKbdyJ0WKLWJv3yBj1RPs) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/5HSUCEmAAFT1yl5GoGUnxa) | 2:54 |
 | 3 | [When We Are Together](https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:36 |
 | 4 | [Place In My Heart](https://open.spotify.com/track/4ClvCYyyljs7oHfvDdcvFX) | [Matt Johnson](https://open.spotify.com/artist/5gFCOJYoKgxTx0KUXISEAS), [Roki](https://open.spotify.com/artist/6lqpbUGAoZyIUBnMa8iWGV) | [Place In My Heart](https://open.spotify.com/album/45HotUb1B7Z2AcUIlQfjJG) | 4:57 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 36 | [Centre of The Universe](https://open.spotify.com/track/2GUhQOTvUulHaiIXUChVVu) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Corner Of The Sky](https://open.spotify.com/album/6uVYHwWQqyR0Y57oyQ7wSH) | 3:10 |
 | 37 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 |
 | 38 | [Forever More](https://open.spotify.com/track/3vQu0bmBILcVjLhKZIQgJk) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 3:14 |
-| 39 | [Giant Feelings](https://open.spotify.com/track/2pSGUdDRQl6k0liOCbUza2) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Giant Feelings](https://open.spotify.com/album/19ICuGAKIU66VOA6MLc1WZ) | 2:19 |
+| 39 | [Giant Feelings](https://open.spotify.com/track/7wCFToKO63HYn4oP6xZMHh) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 2:19 |
 | 40 | [Fighting for Peace](https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Fighting for Peace](https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos) | 3:22 |
 | 41 | [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 |
 | 42 | [The World](https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The World](https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 49 | [Waiting by the Window](https://open.spotify.com/track/3NVDwR7cuCNy30L0DZPQil) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc), [carbeau](https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j) | [Waiting by the Window](https://open.spotify.com/album/1EnZIihjXvcmZW4IW84P6j) | 2:19 |
 | 50 | [Coffee Excess feat\. Orono \(Superorganism\) & Lennon](https://open.spotify.com/track/66lOGYNWhKurI1s4izrkdw) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [Orono](https://open.spotify.com/artist/0CqXZXwwLrqnlXqHrVm8ux), [Lennon](https://open.spotify.com/artist/3nPGCD8cnUmkXAmoQx2DbO) | [Coffee Excess feat\. Orono \(Superorganism\) & Lennon](https://open.spotify.com/album/1sdMAIlIq8yc3pU8eixDI1) | 2:14 |
 
-Snapshot ID: `MTY4MDkwNDgwMCwwMDAwMDAwMGE5NWMwMjk4NGMxODMzYzA2NzljNWFlNmM0MmRjZjk3`
+Snapshot ID: `MTY4MDkwNDgwMCwwMDAwMDAwMDM1ZjIxOTEwYWRkNjIwODFkMTU4OGQzYTdmMThjYTBj`

@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 2000s. Cover: Shakira. ",
-  "num_followers": 736658,
+  "num_followers": 737630,
   "original_name": "Party Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc2MDQ3NCwwMDAwMDAwMDQzMzA3ZTUzMzA2MmY1YThjMmMzYzFlMTgwNzE0ODdl",
+  "snapshot_id": "MTY3Nzc2MDQ3NCwwMDAwMDAwMGMzZDAyNDQ3YmZmYzRkZGViMjhmM2NjOTkxNzMzZGQw",
   "tracks": [
     {
       "added_at": "2022-01-10 11:24:52",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 294573,
-      "name": "Bad Romance",
-      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
         "name": "The Blueprint 3",
         "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 276920,
       "name": "Empire State Of Mind",
       "url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 294573,
+      "name": "Bad Romance",
+      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
+        "name": "Chris Brown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "Run It! (feat. Juelz Santana)",
+      "url": "https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 189693,
       "name": "4 Minutes (feat. Justin Timberlake & Timbaland)",
       "url": "https://open.spotify.com/track/1oHClQEgDmmbcEx12Kc5nZ"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
-        "name": "Chris Brown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Juelz Santana",
-          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
-        }
-      ],
-      "duration_ms": 229866,
-      "name": "Run It! (feat. Juelz Santana)",
-      "url": "https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Sleepy Brown",
-          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "The Way You Move (feat. Sleepy Brown)",
-      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
         "name": "Planet Pop",
         "url": "https://open.spotify.com/album/2kBFECL9a71fNRXbRW5xO3"
       },
@@ -1843,6 +1823,26 @@
       "duration_ms": 214533,
       "name": "Around the World (La La La La La) - Radio Version",
       "url": "https://open.spotify.com/track/7CvOnbFdnIoXMQ4eFCo5lB"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Sleepy Brown",
+          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "The Way You Move (feat. Sleepy Brown)",
+      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
-        "name": "Monkey Business",
-        "url": "https://open.spotify.com/album/2szeSQtOcJgRhDXmTS3SIf"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 326960,
-      "name": "My Humps",
-      "url": "https://open.spotify.com/track/19JdbdEwQI7bCxefMokZO8"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
         "name": "The Best Of Snoop Dogg",
         "url": "https://open.spotify.com/album/0knL5fTAXqq9oq4Yeyibc8"
       },
@@ -2259,6 +2243,22 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
+        "name": "Monkey Business",
+        "url": "https://open.spotify.com/album/2szeSQtOcJgRhDXmTS3SIf"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 326960,
+      "name": "My Humps",
+      "url": "https://open.spotify.com/track/19JdbdEwQI7bCxefMokZO8"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
         "name": "Back To Basics",
         "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
       },
@@ -2271,6 +2271,38 @@
       "duration_ms": 194213,
       "name": "Candyman",
       "url": "https://open.spotify.com/track/5lUTzPuiloBHm1qEaJcJfF"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
+        "name": "Now You're Gone - The Album",
+        "url": "https://open.spotify.com/album/1UjziXy5WUcJkEkmHJKLDZ"
+      },
+      "artists": [
+        {
+          "name": "Basshunter",
+          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "All I Ever Wanted - Radio Edit",
+      "url": "https://open.spotify.com/track/2PTvik6EqPAIYOclAB3SU8"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 294866,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/0aj2QKJvz6CePykmlTApiD"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -2295,34 +2327,18 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
-        "name": "Justified",
-        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
       },
       "artists": [
         {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
         }
       ],
-      "duration_ms": 294866,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/0aj2QKJvz6CePykmlTApiD"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
-        "name": "Now You're Gone - The Album",
-        "url": "https://open.spotify.com/album/1UjziXy5WUcJkEkmHJKLDZ"
-      },
-      "artists": [
-        {
-          "name": "Basshunter",
-          "url": "https://open.spotify.com/artist/37DdwREpvvQHmGLFEZ4h0Q"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "All I Ever Wanted - Radio Edit",
-      "url": "https://open.spotify.com/track/2PTvik6EqPAIYOclAB3SU8"
+      "duration_ms": 221133,
+      "name": "Independent Women, Pt. 1",
+      "url": "https://open.spotify.com/track/69XUpOpjzDKcfdxqZebGiI"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -2343,22 +2359,6 @@
       "duration_ms": 211893,
       "name": "Sexbomb",
       "url": "https://open.spotify.com/track/7GHKA8GIMcND6c5nN1sFnD"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 221133,
-      "name": "Independent Women, Pt. 1",
-      "url": "https://open.spotify.com/track/69XUpOpjzDKcfdxqZebGiI"
     },
     {
       "added_at": "2022-01-10 11:24:52",

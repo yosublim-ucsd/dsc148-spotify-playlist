@@ -1,12 +1,12 @@
 {
   "description": "El icuiricui, el matalacachimba y el ruletero.",
-  "num_followers": 210533,
+  "num_followers": 210733,
   "original_name": "Ruleteando",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk5NDM4OCwwMDAwMDAwMDhjZGExZGJlMjRkZjU0OGNhYmExYTcxYTNkYjEyYjE4",
+  "snapshot_id": "MTY1OTk5NDM4OCwwMDAwMDAwMDcxNjc5MWMzZGIwNjZlZWI0OWQ0OWFlNDI0NzExOWM5",
   "tracks": [
     {
       "added_at": "2022-06-20 21:50:22",
@@ -567,22 +567,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Oye Mujer",
-        "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        }
-      ],
-      "duration_ms": 259239,
-      "name": "Oye Mujer",
-      "url": "https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "Me Gusta Estar Contigo",
         "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 220586,
       "name": "Due\u00f1o de Ti",
       "url": "https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Oye Mujer",
+        "url": "https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "duration_ms": 259239,
+      "name": "Oye Mujer",
+      "url": "https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -679,22 +679,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "No Hay Novedad",
-      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "Compraron Una Cantina",
         "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 159466,
       "name": "Compr\u00e9 Una Cantina",
       "url": "https://open.spotify.com/track/2fKafjPt7Pkl2WXPhOy9gM"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "No Hay Novedad",
+      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -727,22 +727,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Los Yaguaru",
-        "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 234945,
-      "name": "Suavemente Amor",
-      "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "Te Voy A Amar",
         "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
       },
@@ -759,50 +743,18 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Intimidades",
-        "url": "https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39"
+        "name": "Los Yaguaru",
+        "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
       },
       "artists": [
         {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
         }
       ],
-      "duration_ms": 226280,
-      "name": "Como Una Novela",
-      "url": "https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Y Para Siempre ...",
-        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 269760,
-      "name": "Como Fui A Enamorarme De Ti",
-      "url": "https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Entrega De Amor",
-      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+      "duration_ms": 234945,
+      "name": "Suavemente Amor",
+      "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -823,6 +775,54 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
+        "name": "Y Para Siempre ...",
+        "url": "https://open.spotify.com/album/4moS1H6d049CbtVXZwd4rs"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 269760,
+      "name": "Como Fui A Enamorarme De Ti",
+      "url": "https://open.spotify.com/track/6CxvpsqUxUD5xSrYCA8JHr"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Intimidades",
+        "url": "https://open.spotify.com/album/40EJlz5pez7U5J6CwlUu39"
+      },
+      "artists": [
+        {
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+        }
+      ],
+      "duration_ms": 226280,
+      "name": "Como Una Novela",
+      "url": "https://open.spotify.com/track/43Z6YxVTYyr5ewyo2uepdy"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Entrega De Amor",
+      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
         "name": "Por El Amor",
         "url": "https://open.spotify.com/album/5ZQ4AmRiuIGuHPf6MmWmxX"
       },
@@ -835,22 +835,6 @@
       "duration_ms": 229653,
       "name": "Amor Prohibido",
       "url": "https://open.spotify.com/track/4Hmuqk2w1fGqwpMP04aDUu"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Pasi\u00f3n Y Cumbia",
-        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
-      },
-      "artists": [
-        {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Amor Regresa",
-      "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -871,6 +855,22 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
+        "name": "Pasi\u00f3n Y Cumbia",
+        "url": "https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Amor Regresa",
+      "url": "https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
         "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
         "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
       },
@@ -883,22 +883,6 @@
       "duration_ms": 177853,
       "name": "Supe Perder",
       "url": "https://open.spotify.com/track/6NUoNxL3tWnICLhFQ5obEW"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Todo tuyo",
-        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 235906,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -919,18 +903,18 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+        "name": "Todo tuyo",
+        "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
       },
       "artists": [
         {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
         }
       ],
-      "duration_ms": 217521,
-      "name": "Feliz Feliz",
-      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
+      "duration_ms": 235906,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -951,6 +935,22 @@
       "duration_ms": 225213,
       "name": "Las Locuras M\u00edas",
       "url": "https://open.spotify.com/track/78OElpvKKwUnCEoVVtqth5"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 217521,
+      "name": "Feliz Feliz",
+      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "No Me Llames Mas",
-        "url": "https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd"
-      },
-      "artists": [
-        {
-          "name": "Alcalde La Sonora",
-          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
-        }
-      ],
-      "duration_ms": 267415,
-      "name": "No Me Llames Mas",
-      "url": "https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "Directo Al Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6w4hod1ifRryFs208eKPLe"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 236453,
       "name": "Algo De M\u00ed",
       "url": "https://open.spotify.com/track/06WecehO0wgP8jJIoCURKl"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "No Me Llames Mas",
+        "url": "https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd"
+      },
+      "artists": [
+        {
+          "name": "Alcalde La Sonora",
+          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+        }
+      ],
+      "duration_ms": 267415,
+      "name": "No Me Llames Mas",
+      "url": "https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "IV",
-        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 207226,
-      "name": "Eres Mi Droga",
-      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "Hasta La Eternidad (Cl\u00e1sicos Digitalizados)",
         "url": "https://open.spotify.com/album/6f3szSu0uNGBOmcW01a6ZN"
       },
@@ -1259,6 +1243,38 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 207226,
+      "name": "Eres Mi Droga",
+      "url": "https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "Mi Vida En Vida",
+        "url": "https://open.spotify.com/album/6D6J6D5iAAwZq3zx7aTl6t"
+      },
+      "artists": [
+        {
+          "name": "Remmy Valenzuela",
+          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "Nadie",
+      "url": "https://open.spotify.com/track/78Lv54mlazogTRDzzFXk03"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
         "name": "Los Felinos",
         "url": "https://open.spotify.com/album/4PskUSrvXsKUQ6V0YSlVdI"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 226417,
       "name": "Morena",
       "url": "https://open.spotify.com/track/0sfppAuBPAZ76Xxye6evli"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 207516,
-      "name": "Como Decirte Adios",
-      "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 207516,
+      "name": "Como Decirte Adios",
+      "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
         "name": "Antolog\u00eda, Vol. 1",
         "url": "https://open.spotify.com/album/53Twpqi0xB4ZRUACwVtBK2"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 221640,
       "name": "En Realidad",
       "url": "https://open.spotify.com/track/0hicPD6pe5ilVkgMWbRbZS"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
-        "name": "Mi Vida En Vida",
-        "url": "https://open.spotify.com/album/6D6J6D5iAAwZq3zx7aTl6t"
-      },
-      "artists": [
-        {
-          "name": "Remmy Valenzuela",
-          "url": "https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "Nadie",
-      "url": "https://open.spotify.com/track/78Lv54mlazogTRDzzFXk03"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "30 Aniversario (Edici\u00f3n Limitada)",
-        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
-      },
-      "artists": [
-        {
-          "name": "Campeche Show",
-          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "A Donde Iras Ahora",
-      "url": "https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "Te Voy A Amar",
         "url": "https://open.spotify.com/album/64bP2mJ6u20tHxA3EoEbOC"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 187000,
       "name": "Me Encantar\u00eda",
       "url": "https://open.spotify.com/track/2uEqb2TEV29ktnJl8DyObt"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "30 Aniversario (Edici\u00f3n Limitada)",
+        "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
+      },
+      "artists": [
+        {
+          "name": "Campeche Show",
+          "url": "https://open.spotify.com/artist/3ecm0ZCTUOZSNuHX3NcShh"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "A Donde Iras Ahora",
+      "url": "https://open.spotify.com/track/6gM3vv77YVKUP5VgK6GMa3"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "25 Exitos Vol. 1 (USA)",
-        "url": "https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mojado",
-          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
-        }
-      ],
-      "duration_ms": 190173,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
-    },
-    {
-      "added_at": "2021-10-12 19:24:04",
-      "album": {
         "name": "Yo Vendo Unos Ojos Verdes",
         "url": "https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 197400,
       "name": "Prefiero Partir",
       "url": "https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p"
+    },
+    {
+      "added_at": "2021-10-12 19:24:04",
+      "album": {
+        "name": "25 Exitos Vol. 1 (USA)",
+        "url": "https://open.spotify.com/album/0dgNt6D4pz86nn0ZTRYoVQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mojado",
+          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/1A1yn53ZypVPUcV4W54j8A"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "El Original Y Unico",
-        "url": "https://open.spotify.com/album/3NQKRb5mnuZfLZ7VxiKWgU"
+        "name": "T\u00fa Me Quieres Lastimar",
+        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
       },
       "artists": [
         {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+          "name": "Ladron",
+          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
         }
       ],
-      "duration_ms": 376733,
-      "name": "Quiero Morir En Tu Piel",
-      "url": "https://open.spotify.com/track/0nBFB85JVZyd4I9xc4Wldz"
+      "duration_ms": 215266,
+      "name": "T\u00fa Me Quieres Lastimar",
+      "url": "https://open.spotify.com/track/4WZBfo2iiJyrhUdcyOOk0c"
     },
     {
       "added_at": "2021-10-12 19:24:04",
@@ -1855,18 +1855,18 @@
     {
       "added_at": "2021-10-12 19:24:04",
       "album": {
-        "name": "T\u00fa Me Quieres Lastimar",
-        "url": "https://open.spotify.com/album/1iXk5Xg8ZhzfWQdbFxbyVE"
+        "name": "El Original Y Unico",
+        "url": "https://open.spotify.com/album/3NQKRb5mnuZfLZ7VxiKWgU"
       },
       "artists": [
         {
-          "name": "Ladron",
-          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
         }
       ],
-      "duration_ms": 215266,
-      "name": "T\u00fa Me Quieres Lastimar",
-      "url": "https://open.spotify.com/track/4WZBfo2iiJyrhUdcyOOk0c"
+      "duration_ms": 376733,
+      "name": "Quiero Morir En Tu Piel",
+      "url": "https://open.spotify.com/track/0nBFB85JVZyd4I9xc4Wldz"
     },
     {
       "added_at": "2021-10-12 19:24:04",

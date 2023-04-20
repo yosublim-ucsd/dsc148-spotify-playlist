@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa8UmWJHYTU.md) - [plain]
 
 > Crackling and popping sounds of fireplaces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,065 likes - 141 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,137 likes - 141 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Calming Fireplace](https://open.spotify.com/track/2enlGP6mWmEzouGT39UVSI) | [Ogień](https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw) | [Calming Fireplace](https://open.spotify.com/album/6dBub7W143X09uYmZThqNK) | 4:02 |
-| 2 | [Outdoor Fire](https://open.spotify.com/track/2KuL9pDHxd0lEzJVTaipu7) | [Valborg](https://open.spotify.com/artist/1KLDLRgNcttyMqfBIq1MLb) | [Cozy Outdoor Fire](https://open.spotify.com/album/24pD3JQxHt5eXvohGjUt7O) | 3:06 |
+| 2 | [Outdoor Fire](https://open.spotify.com/track/2KuL9pDHxd0lEzJVTaipu7) | [Valborg](https://open.spotify.com/artist/4zPf89I3Z8IXxDbreYEFSm) | [Cozy Outdoor Fire](https://open.spotify.com/album/24pD3JQxHt5eXvohGjUt7O) | 3:06 |
 | 3 | [Heated Room](https://open.spotify.com/track/5tEYaSl3lripQLNVh6al9O) | [Lumière](https://open.spotify.com/artist/7pWH6NDnA9OtjCt3KbfCno) | [Heated Room](https://open.spotify.com/album/71l3QPVfj8gtSteoA1lFPa) | 3:20 |
 | 4 | [Logcabin Crackle \- Seamless](https://open.spotify.com/track/0f3RTuR61j5TvPpiKmYspX) | [Little Log Lady](https://open.spotify.com/artist/7mdGwbaaGnYpOH9DYHORwR) | [Logcabin Crackle](https://open.spotify.com/album/6nqB2xfUzcq71Vd06p2ibn) | 3:12 |
 | 5 | [Fireplace Of Warmth](https://open.spotify.com/track/0tJgdYqPgtZzIcMdfQxyTH) | [Fire Scientist](https://open.spotify.com/artist/1lWVALbH9pIS8Lttts3Bwz) | [Peaceful Flame](https://open.spotify.com/album/5z0FwCGD0bljHVZaj2p3A9) | 2:04 |

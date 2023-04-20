@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3KVUsNUmJc2.md) - [plain]
 
 > Long live the king\. Listen to music from and inspired by Agent Elvis, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,475 likes - 78 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,578 likes - 78 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

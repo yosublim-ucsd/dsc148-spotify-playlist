@@ -1,12 +1,12 @@
 {
   "description": "Giving motivation to your Monday. You got this!",
-  "num_followers": 652294,
+  "num_followers": 652286,
   "original_name": "Monday Motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODU0MzkwMSwwMDAwMDAwMDA1M2IyYzAxOGViMjIyMDA1ZmQ0NmZiMWJiMDI2NmQ0",
+  "snapshot_id": "MTU5ODU0MzkwMSwwMDAwMDAwMGIxNjhlMDBjYzA0N2E4OWJiMjU0NWI3YzBmZWRhZmFk",
   "tracks": [
     {
       "added_at": "2020-08-27 15:58:21",
@@ -455,22 +455,6 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "Out of the Blue",
-        "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 303373,
-      "name": "Mr. Blue Sky",
-      "url": "https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
         "name": "Walking On A Dream (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 198440,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
+        "name": "Out of the Blue",
+        "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 303373,
+      "name": "Mr. Blue Sky",
+      "url": "https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -587,18 +587,18 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "Kala",
-        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
+        "name": "Diana Ross Presents The Jackson 5",
+        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
       },
       "artists": [
         {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
         }
       ],
-      "duration_ms": 205200,
-      "name": "Paper Planes",
-      "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
+      "duration_ms": 176333,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -619,18 +619,18 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "Diana Ross Presents The Jackson 5",
-        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
+        "name": "Kala",
+        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
       },
       "artists": [
         {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
         }
       ],
-      "duration_ms": 176333,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
+      "duration_ms": 205200,
+      "name": "Paper Planes",
+      "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+        "name": "I Don't Speak The Language",
+        "url": "https://open.spotify.com/album/2coqGqbnSCAy740mClWesA"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Matthew Wilder",
+          "url": "https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP"
         }
       ],
-      "duration_ms": 236093,
-      "name": "Run the World (Girls)",
-      "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
+      "duration_ms": 184480,
+      "name": "Break My Stride",
+      "url": "https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -1115,18 +1115,34 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "I Don't Speak The Language",
-        "url": "https://open.spotify.com/album/2coqGqbnSCAy740mClWesA"
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
       "artists": [
         {
-          "name": "Matthew Wilder",
-          "url": "https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 184480,
-      "name": "Break My Stride",
-      "url": "https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT"
+      "duration_ms": 236093,
+      "name": "Run the World (Girls)",
+      "url": "https://open.spotify.com/track/1uXbwHHfgsXcUKfSZw5ZJ0"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 234652,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -1147,22 +1163,6 @@
       "duration_ms": 182200,
       "name": "Rain On Me (with Ariana Grande)",
       "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 234652,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
+        "name": "Hot Fuss",
+        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 301866,
+      "name": "All These Things That I've Done",
+      "url": "https://open.spotify.com/track/5vollujufHY0jMZxx77VWr"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
         "name": "Rover (feat. DTG)",
         "url": "https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd"
       },
@@ -1219,22 +1235,6 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "Hot Fuss",
-        "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
-      },
-      "artists": [
-        {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
-        }
-      ],
-      "duration_ms": 301866,
-      "name": "All These Things That I've Done",
-      "url": "https://open.spotify.com/track/5vollujufHY0jMZxx77VWr"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
         "name": "Whoa, Nelly! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0"
       },
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "Higher And Higher",
-        "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
-      "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
         "name": "The Golden Age",
         "url": "https://open.spotify.com/album/7oRzNo0PkoRJlvI9Eocyf2"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 213266,
       "name": "Run Boy Run",
       "url": "https://open.spotify.com/track/0boS4e6uXwp3zAvz1mLxZS"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
+        "name": "Higher And Higher",
+        "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 231618,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
         "name": "Heavy Is The Head",
         "url": "https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c"
       },
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 231618,
-      "name": "Ye",
-      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
         "name": "Move on Up",
         "url": "https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/3M6zhLhOocle8owKsjJJ5s"
-      },
-      "artists": [
-        {
-          "name": "Jamelia",
-          "url": "https://open.spotify.com/artist/3f5W9NEwkc1SAIPFuumcaf"
-        }
-      ],
-      "duration_ms": 215480,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/5u5MpBnvJejW9dHPrfWEXZ"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
         "name": "Born This Way (Special Edition)",
         "url": "https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 260253,
       "name": "Born This Way",
       "url": "https://open.spotify.com/track/6r2BECwMgEoRb5yLfp0Hca"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/3M6zhLhOocle8owKsjJJ5s"
+      },
+      "artists": [
+        {
+          "name": "Jamelia",
+          "url": "https://open.spotify.com/artist/3f5W9NEwkc1SAIPFuumcaf"
+        }
+      ],
+      "duration_ms": 215480,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/5u5MpBnvJejW9dHPrfWEXZ"
     },
     {
       "added_at": "2020-08-27 15:58:21",

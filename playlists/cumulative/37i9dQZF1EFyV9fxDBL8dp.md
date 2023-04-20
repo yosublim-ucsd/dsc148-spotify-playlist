@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0u9RuqKKPbET4zVEgRTXiZ">Luiz de Assis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-74 songs - 5 hr 0 min
+75 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Min e As Flores](https://open.spotify.com/track/6mFzBsJnhujfsXS8rTVrgF) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:32 | 2022-06-04 |  |
 | [Mundaú Pede Socorro](https://open.spotify.com/track/6l1B31s12kxhkEuova6scN) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:54 | 2022-06-04 |  |
 | [Mãe África](https://open.spotify.com/track/3mVzDuDlDN7J9qogCsC7f5) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 7:12 | 2022-06-04 |  |
-| [Mística](https://open.spotify.com/track/6n8Pek88cYFjOwijJtXGef) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 4:44 | 2022-06-04 |  |
+| [Mística](https://open.spotify.com/track/6n8Pek88cYFjOwijJtXGef) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 4:44 | 2022-06-04 | 2023-04-20 |
+| [Mística](https://open.spotify.com/track/4spDAAIKREnqX20szMXJva) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 4:51 | 2023-04-19 |  |
 | [Música pra Despertar](https://open.spotify.com/track/3yYyhvC7LePFFG6ZCE8eIX) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/752HoiDzWMkvgMJmXx4naG) | 3:11 | 2022-06-04 |  |
 | [Natureza Mãe](https://open.spotify.com/track/3olNqFP6HRyQuuMNk9Hzxo) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 3:49 | 2022-06-04 |  |
 | [O Grito Que Vem da Selva](https://open.spotify.com/track/1nlby1Ihfs5BzpJTLyI98i) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 4:35 | 2022-06-04 |  |

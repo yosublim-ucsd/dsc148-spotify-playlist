@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Baila esta cumbia! Los \u00e9xitos de Latinoam\u00e9rica en un solo lugar. Foto: Los \u00c1ngeles Azules",
-  "num_followers": 998891,
+  "num_followers": 999430,
   "original_name": "100% Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjQ3MTU5MSwwMDAwMDAwMDA4NTdlMGMwYTY0MWRlZjQ2MjI5NGVmYTQ3ZTUxMzIz",
+  "snapshot_id": "MTY3NjQ3MTU5MSwwMDAwMDAwMDU3NjY4NjQzNmQ3ZWQ3Y2ZjMjAxZTE1MDg1Y2M1Mzhm",
   "tracks": [
     {
       "added_at": "2023-02-13 16:43:39",
@@ -27,18 +27,18 @@
     {
       "added_at": "2023-02-13 16:43:39",
       "album": {
-        "name": "Un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
+        "name": "Tu Amor O Tu Desprecio",
+        "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
       },
       "artists": [
         {
-          "name": "Los Angeles De Charly",
-          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 225360,
-      "name": "Un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
+      "duration_ms": 209506,
+      "name": "M\u00e1s Que Tu Amigo",
+      "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
     },
     {
       "added_at": "2023-02-13 16:43:39",
@@ -63,18 +63,18 @@
     {
       "added_at": "2023-02-13 16:43:39",
       "album": {
-        "name": "Tu Amor O Tu Desprecio",
-        "url": "https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW"
+        "name": "Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp"
       },
       "artists": [
         {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR"
         }
       ],
-      "duration_ms": 209506,
-      "name": "M\u00e1s Que Tu Amigo",
-      "url": "https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe"
+      "duration_ms": 225360,
+      "name": "Un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG"
     },
     {
       "added_at": "2023-02-13 16:43:39",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-02-13 16:43:39",
       "album": {
-        "name": "Cicatrices",
-        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
-      },
-      "artists": [
-        {
-          "name": "Rayito Colombiano",
-          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Muchachita Consentida",
-      "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
-    },
-    {
-      "added_at": "2023-02-13 16:43:39",
-      "album": {
         "name": "Te Voy A Enamorar",
         "url": "https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 237093,
       "name": "Me Volv\u00ed A Acordar De Ti",
       "url": "https://open.spotify.com/track/7256yGEwDkqs39TKHTeXik"
+    },
+    {
+      "added_at": "2023-02-13 16:43:39",
+      "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
+      },
+      "artists": [
+        {
+          "name": "Rayito Colombiano",
+          "url": "https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn"
+        }
+      ],
+      "duration_ms": 211813,
+      "name": "Muchachita Consentida",
+      "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
     },
     {
       "added_at": "2023-02-13 16:43:39",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-02-13 16:43:39",
       "album": {
-        "name": "25 A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Jurabas Tu",
-      "url": "https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5"
-    },
-    {
-      "added_at": "2023-02-13 16:43:39",
-      "album": {
         "name": "Caifanes",
         "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 291133,
       "name": "Los Caminos De La Vida",
       "url": "https://open.spotify.com/track/1layZXCAmJ84fi21OmnTt5"
+    },
+    {
+      "added_at": "2023-02-13 16:43:39",
+      "album": {
+        "name": "25 A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Jurabas Tu",
+      "url": "https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5"
     },
     {
       "added_at": "2023-02-13 16:43:39",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-02-13 16:43:39",
       "album": {
-        "name": "De Enero a Enero",
-        "url": "https://open.spotify.com/album/459Jy3R3Jhm4GdpVWKGM0g"
-      },
-      "artists": [
-        {
-          "name": "Tamb\u00f3 Tamb\u00f3",
-          "url": "https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "La Cumbita",
-      "url": "https://open.spotify.com/track/23ADuBlydh01tBQhJgMgIV"
-    },
-    {
-      "added_at": "2023-02-13 16:43:39",
-      "album": {
         "name": "Barrio Bravo",
         "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 202253,
       "name": "Mira oye",
       "url": "https://open.spotify.com/track/4l3SD9S0EOaBAPejqNti6E"
+    },
+    {
+      "added_at": "2023-02-13 16:43:39",
+      "album": {
+        "name": "De Enero a Enero",
+        "url": "https://open.spotify.com/album/459Jy3R3Jhm4GdpVWKGM0g"
+      },
+      "artists": [
+        {
+          "name": "Tamb\u00f3 Tamb\u00f3",
+          "url": "https://open.spotify.com/artist/6wAk3K9nxqR0pTLGLctzQu"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "La Cumbita",
+      "url": "https://open.spotify.com/track/23ADuBlydh01tBQhJgMgIV"
     },
     {
       "added_at": "2023-02-13 16:43:39",
@@ -695,6 +695,22 @@
     {
       "added_at": "2023-02-13 16:43:39",
       "album": {
+        "name": "El Poder de la Cumbia",
+        "url": "https://open.spotify.com/album/79LPQTAIJn9zkZbQxjijae"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual? Dinastia Pedraza",
+          "url": "https://open.spotify.com/artist/5PjsLo3UsW3pdl1z6I4hWq"
+        }
+      ],
+      "duration_ms": 311386,
+      "name": "Rumba Frenesi",
+      "url": "https://open.spotify.com/track/1nASPG3ZiLBi3fJMOZmRsJ"
+    },
+    {
+      "added_at": "2023-02-13 16:43:39",
+      "album": {
         "name": "Oye Mujer (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3CzeG68WKVXRMumlmwoCfl"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 200893,
       "name": "Cari\u00f1o",
       "url": "https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX"
-    },
-    {
-      "added_at": "2023-02-13 16:43:39",
-      "album": {
-        "name": "El Poder de la Cumbia",
-        "url": "https://open.spotify.com/album/79LPQTAIJn9zkZbQxjijae"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual? Dinastia Pedraza",
-          "url": "https://open.spotify.com/artist/5PjsLo3UsW3pdl1z6I4hWq"
-        }
-      ],
-      "duration_ms": 311386,
-      "name": "Rumba Frenesi",
-      "url": "https://open.spotify.com/track/1nASPG3ZiLBi3fJMOZmRsJ"
     },
     {
       "added_at": "2023-02-13 16:43:39",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-02-13 16:43:39",
       "album": {
-        "name": "Amor pirata",
-        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
-      },
-      "artists": [
-        {
-          "name": "Grupo uno",
-          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
-        }
-      ],
-      "duration_ms": 196360,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
-    },
-    {
-      "added_at": "2023-02-13 16:43:39",
-      "album": {
         "name": "Inalcanzable",
         "url": "https://open.spotify.com/album/13UzYROsKbVZF4RZCrMtQF"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 229880,
       "name": "Encadenada A Mi - Cumbia",
       "url": "https://open.spotify.com/track/72dq7syxHMZF44QX3r1yXH"
+    },
+    {
+      "added_at": "2023-02-13 16:43:39",
+      "album": {
+        "name": "Amor pirata",
+        "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
+      },
+      "artists": [
+        {
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+        }
+      ],
+      "duration_ms": 196360,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
     }
   ],
   "unique_name": "100% Cumbia",

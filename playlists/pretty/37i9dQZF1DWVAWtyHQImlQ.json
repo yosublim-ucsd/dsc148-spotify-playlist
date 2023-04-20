@@ -1,12 +1,12 @@
 {
   "description": "All 60s, all ballads. Cover: Etta James",
-  "num_followers": 124302,
+  "num_followers": 124361,
   "original_name": "60s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY4MjA3NiwwMDAwMDAwMDhkODdjZGQ5MjhmNTE2OGM3YTk4ZTBiY2FlNWQwYTUx",
+  "snapshot_id": "MTY3MjY4MjA3NiwwMDAwMDAwMDU5ZjQxYzRmZWQ2ZDRmMmQ0OTU3MDFlZTcwYmQyOTRi",
   "tracks": [
     {
       "added_at": "2023-01-02 17:54:36",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "Oogum Boogum",
-        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
-      },
-      "artists": [
-        {
-          "name": "Brenton Wood",
-          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
-        }
-      ],
-      "duration_ms": 163302,
-      "name": "I Like The Way You Love Me",
-      "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
-    },
-    {
-      "added_at": "2023-01-02 17:54:36",
-      "album": {
         "name": "The Beat Goes On: Best Of",
         "url": "https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 193840,
       "name": "I Got You Babe",
       "url": "https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP"
+    },
+    {
+      "added_at": "2023-01-02 17:54:36",
+      "album": {
+        "name": "Oogum Boogum",
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf"
+      },
+      "artists": [
+        {
+          "name": "Brenton Wood",
+          "url": "https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K"
+        }
+      ],
+      "duration_ms": 163302,
+      "name": "I Like The Way You Love Me",
+      "url": "https://open.spotify.com/track/0nNavzWSD6AUiQK2rLgbBx"
     },
     {
       "added_at": "2023-01-02 17:54:36",
@@ -491,22 +491,6 @@
       "duration_ms": 187693,
       "name": "Never My Love - Remastered Version",
       "url": "https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8"
-    },
-    {
-      "added_at": "2023-01-02 17:54:36",
-      "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/5I9u0kRfmLLzTHneycOwFA"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 175693,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/0GVxSbigOiKlGfI30Uw00X"
     },
     {
       "added_at": "2023-01-02 17:54:36",
@@ -571,6 +555,22 @@
       "duration_ms": 176080,
       "name": "Anyone Who Knows What Love Is (Will Understand)",
       "url": "https://open.spotify.com/track/5GWCndQ8ykzf6rYRvwrFcj"
+    },
+    {
+      "added_at": "2023-01-02 17:54:36",
+      "album": {
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/5I9u0kRfmLLzTHneycOwFA"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/0GVxSbigOiKlGfI30Uw00X"
     },
     {
       "added_at": "2023-01-02 17:54:36",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/47I69OChJY93PaFpCRhS31"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 199706,
-      "name": "La-La Means I Love You",
-      "url": "https://open.spotify.com/track/5jzqOYJmouDjfxlUw2u27f"
-    },
-    {
-      "added_at": "2023-01-02 17:54:36",
-      "album": {
         "name": "...\"Let Me Sing\"",
         "url": "https://open.spotify.com/album/4oC3Mh9wD9vaZIvlxTsdX4"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 154173,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/78HTdAIfx2UBmFWZN4s7A6"
+    },
+    {
+      "added_at": "2023-01-02 17:54:36",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/47I69OChJY93PaFpCRhS31"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 199706,
+      "name": "La-La Means I Love You",
+      "url": "https://open.spotify.com/track/5jzqOYJmouDjfxlUw2u27f"
     },
     {
       "added_at": "2023-01-02 17:54:36",

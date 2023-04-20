@@ -4,7 +4,7 @@
 
 > New music each and every Friday.
 
-2,081 songs - 4 day 7 hr 21 min
+2,082 songs - 4 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -670,7 +670,8 @@
 | [Fool In Love](https://open.spotify.com/track/20WDv1X4tp93CoTYA71eiB) | [Tenelle](https://open.spotify.com/artist/2oJQFkb7sJm7uNNH7HITYs) | [Fool In Love](https://open.spotify.com/album/5NGoaWPpVG2Q2LiAdoFoJN) | 3:20 | 2022-04-08 | 2022-05-21 |
 | [FOOLIE DEE](https://open.spotify.com/track/4LtvMdH3cshOelgvk5Y8zB) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [FOOLIE DEE](https://open.spotify.com/album/59aTMnTgjtjlJXAaQhGtb1) | 2:38 | 2022-12-02 | 2023-03-04 |
 | [Foot Forward](https://open.spotify.com/track/3Dm9mSyalSfqHdUPX5TLyR) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Foot Forward](https://open.spotify.com/album/6e3Yr0Yj7NM3ejYig0CyMK) | 2:34 | 2022-02-25 | 2022-03-26 |
-| [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/track/0IT1pmbYjQjoU0IUMVZ6XU) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/album/5l1oWPwn5OqgbbBLyCrU05) | 2:52 | 2023-04-07 |  |
+| [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/track/0IT1pmbYjQjoU0IUMVZ6XU) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/album/5l1oWPwn5OqgbbBLyCrU05) | 2:52 | 2023-04-07 | 2023-04-20 |
+| [For Granted \(feat\. Arin Ray\)](https://open.spotify.com/track/39RJfDkli3BkEsW6LN4DrZ) | [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Enigmatic Society](https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe) | 2:52 | 2023-04-07 |  |
 | [For Me](https://open.spotify.com/track/4fcWrSIWnXlsU4yNB9lJk4) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [For Me](https://open.spotify.com/album/66M1yxhYoJ0iT7k36rOpid) | 2:14 | 2022-02-25 | 2022-03-18 |
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-07-09 | 2022-08-06 |
 | [For The Best](https://open.spotify.com/track/6TIAj4WLkXKV6afNwXz1dp) | [Ebony Loren](https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY) | [For The Best](https://open.spotify.com/album/3Ycl5WaR5AVYL90ZjECwx4) | 3:01 | 2022-12-02 | 2022-12-17 |

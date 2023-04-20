@@ -1,12 +1,12 @@
 {
   "description": "It\u2019s a swing thing.",
-  "num_followers": 110905,
+  "num_followers": 110943,
   "original_name": "Swing Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NDc5OCwwMDAwMDAwMDliNTNlNmFhNGVjNzdkYmRlNmFiOWZjMDYxN2ZiZGZh",
+  "snapshot_id": "MTY0ODQ5NDc5OCwwMDAwMDAwMDk5NGExMjc1NWNkYTkzZDhjM2NkYjFkNzg1YzE1OTE3",
   "tracks": [
     {
       "added_at": "2022-03-28 19:13:18",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Jump",
-        "url": "https://open.spotify.com/album/4NL6yXTKKyV9da5YPgHAkC"
-      },
-      "artists": [
-        {
-          "name": "Casey MacGill & the Spirits of Rhythm",
-          "url": "https://open.spotify.com/artist/0zn3Ird4h7BfNbZAycXoMj"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "Whadaya Want",
-      "url": "https://open.spotify.com/track/4HhMriMXwEGE1YE34qFyVZ"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "Planet Jive",
         "url": "https://open.spotify.com/album/500HHXaBRyYMmNjRJwvZW7"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 232600,
       "name": "Planet Jive",
       "url": "https://open.spotify.com/track/0P5aqi6J8btRUjZQKnVOst"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/4NL6yXTKKyV9da5YPgHAkC"
+      },
+      "artists": [
+        {
+          "name": "Casey MacGill & the Spirits of Rhythm",
+          "url": "https://open.spotify.com/artist/0zn3Ird4h7BfNbZAycXoMj"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "Whadaya Want",
+      "url": "https://open.spotify.com/track/4HhMriMXwEGE1YE34qFyVZ"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -475,22 +475,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "One Hour Mama",
-        "url": "https://open.spotify.com/album/2xkUpEUdHYEuXk0iZGZRsk"
-      },
-      "artists": [
-        {
-          "name": "Lavay Smith & Her Red Hot Skillet Lickers",
-          "url": "https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "Oo Poppa Do",
-      "url": "https://open.spotify.com/track/6RTsr8eiHVhCYxqbYFs0eX"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "Torch This Place",
         "url": "https://open.spotify.com/album/6oGSFYCtrg0UYAPx7j5x1L"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 189466,
       "name": "Swing Sweet Pussycat",
       "url": "https://open.spotify.com/track/5EK0gbkVLrLtOvwXy7PWEW"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "One Hour Mama",
+        "url": "https://open.spotify.com/album/2xkUpEUdHYEuXk0iZGZRsk"
+      },
+      "artists": [
+        {
+          "name": "Lavay Smith & Her Red Hot Skillet Lickers",
+          "url": "https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "Oo Poppa Do",
+      "url": "https://open.spotify.com/track/6RTsr8eiHVhCYxqbYFs0eX"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -603,18 +603,18 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Everybody's Talkin' 'Bout Miss Thing!",
-        "url": "https://open.spotify.com/album/4ulxD0G9w5g0ejs9WE8pbR"
+        "name": "prozac nation",
+        "url": "https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5"
       },
       "artists": [
         {
-          "name": "Lavay Smith & Her Red Hot Skillet Lickers",
-          "url": "https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2"
+          "name": "Bellevue Cadillac",
+          "url": "https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2"
         }
       ],
-      "duration_ms": 250200,
-      "name": "Honey Pie",
-      "url": "https://open.spotify.com/track/30a5IllTe9dazUViyFtkRh"
+      "duration_ms": 146760,
+      "name": "pull the plug",
+      "url": "https://open.spotify.com/track/1P1KQJ6d5Ri9VI1ljEpkdT"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -635,18 +635,34 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "prozac nation",
-        "url": "https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5"
+        "name": "The Romper Room",
+        "url": "https://open.spotify.com/album/6Q0jPNJiaRW7kcTOpZfsO4"
       },
       "artists": [
         {
-          "name": "Bellevue Cadillac",
-          "url": "https://open.spotify.com/artist/5cuTmUgh0ZeNgiwcPchqs2"
+          "name": "Eight To The Bar",
+          "url": "https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY"
         }
       ],
-      "duration_ms": 146760,
-      "name": "pull the plug",
-      "url": "https://open.spotify.com/track/1P1KQJ6d5Ri9VI1ljEpkdT"
+      "duration_ms": 208493,
+      "name": "Dirty Dog",
+      "url": "https://open.spotify.com/track/1ogzOr1TnDjRcjSSQ5hAli"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Everybody's Talkin' 'Bout Miss Thing!",
+        "url": "https://open.spotify.com/album/4ulxD0G9w5g0ejs9WE8pbR"
+      },
+      "artists": [
+        {
+          "name": "Lavay Smith & Her Red Hot Skillet Lickers",
+          "url": "https://open.spotify.com/artist/4pMt1AgzE3YyjE784QVkr2"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Honey Pie",
+      "url": "https://open.spotify.com/track/30a5IllTe9dazUViyFtkRh"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -663,22 +679,6 @@
       "duration_ms": 217373,
       "name": "Swingin' At The Savoy",
       "url": "https://open.spotify.com/track/4tQxGAafxVZ0Oqt3D6efmb"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
-        "name": "The Romper Room",
-        "url": "https://open.spotify.com/album/6Q0jPNJiaRW7kcTOpZfsO4"
-      },
-      "artists": [
-        {
-          "name": "Eight To The Bar",
-          "url": "https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY"
-        }
-      ],
-      "duration_ms": 208493,
-      "name": "Dirty Dog",
-      "url": "https://open.spotify.com/track/1ogzOr1TnDjRcjSSQ5hAli"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-03-28 19:13:18",
       "album": {
-        "name": "Flatland Boogie",
-        "url": "https://open.spotify.com/album/2PzxIMY0LNu6BLbInjjwhV"
-      },
-      "artists": [
-        {
-          "name": "Four Charms",
-          "url": "https://open.spotify.com/artist/3SQLfVTpkQNXKRueLBRDcs"
-        }
-      ],
-      "duration_ms": 148320,
-      "name": "Sausage Rock",
-      "url": "https://open.spotify.com/track/06v4Mcr5umCoKHSYD5dQ6I"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
         "name": "prozac nation",
         "url": "https://open.spotify.com/album/3jQFs8CCV6r1pHgXadCGh5"
       },
@@ -795,6 +779,38 @@
       "duration_ms": 285173,
       "name": "prozac",
       "url": "https://open.spotify.com/track/43ooplb6G0VkRnVVfGXEF6"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Superhero Swinger Undercover",
+        "url": "https://open.spotify.com/album/5RwSQBIKuqTMs67ruejFgN"
+      },
+      "artists": [
+        {
+          "name": "Eight To The Bar",
+          "url": "https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY"
+        }
+      ],
+      "duration_ms": 238306,
+      "name": "Sugar High",
+      "url": "https://open.spotify.com/track/5z0s59iYOpjSUJMVfdCtEx"
+    },
+    {
+      "added_at": "2022-03-28 19:13:18",
+      "album": {
+        "name": "Flatland Boogie",
+        "url": "https://open.spotify.com/album/2PzxIMY0LNu6BLbInjjwhV"
+      },
+      "artists": [
+        {
+          "name": "Four Charms",
+          "url": "https://open.spotify.com/artist/3SQLfVTpkQNXKRueLBRDcs"
+        }
+      ],
+      "duration_ms": 148320,
+      "name": "Sausage Rock",
+      "url": "https://open.spotify.com/track/06v4Mcr5umCoKHSYD5dQ6I"
     },
     {
       "added_at": "2022-03-28 19:13:18",
@@ -867,22 +883,6 @@
       "duration_ms": 199640,
       "name": "Ladies Man",
       "url": "https://open.spotify.com/track/66RVNE96LjcmaaXkhdK76a"
-    },
-    {
-      "added_at": "2022-03-28 19:13:18",
-      "album": {
-        "name": "Superhero Swinger Undercover",
-        "url": "https://open.spotify.com/album/5RwSQBIKuqTMs67ruejFgN"
-      },
-      "artists": [
-        {
-          "name": "Eight To The Bar",
-          "url": "https://open.spotify.com/artist/4sc52rUX0XMvKa7FK6tofY"
-        }
-      ],
-      "duration_ms": 238306,
-      "name": "Sugar High",
-      "url": "https://open.spotify.com/track/5z0s59iYOpjSUJMVfdCtEx"
     }
   ],
   "unique_name": "Swing Revival",

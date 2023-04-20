@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > Dance and electronic Arabic songs\. Cover: A Loop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,392 likes - 58 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,412 likes - 58 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

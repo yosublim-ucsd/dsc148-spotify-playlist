@@ -1,12 +1,12 @@
 {
   "description": "I woke up this morning\u2026 to the chilled sound of the Blues.",
-  "num_followers": 56520,
+  "num_followers": 56581,
   "original_name": "Morning Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQzMDQ2MCwwMDAwMDAwMDEyZjIyZjcxNjYwYjY3MTM0OWVlZTAzZTgxYTg0ZTBm",
+  "snapshot_id": "MTY4MTQzMDQ2MCwwMDAwMDAwMDM0MWIxMmZiNTJhZjY1NzMwNzBlMjMwNjg4ZDNhOGYx",
   "tracks": [
     {
       "added_at": "2023-04-14 00:01:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Throw That Stone",
-        "url": "https://open.spotify.com/album/408CkVwXz2NDA1au1j5cJV"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 178668,
-      "name": "Throw That Stone",
-      "url": "https://open.spotify.com/track/0BGr6RE0hPLyDjCTlYzfcx"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "First Recordings",
         "url": "https://open.spotify.com/album/5OfjjEzy7ofCj2EZDOKZ87"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 120920,
       "name": "Feels so Good #2",
       "url": "https://open.spotify.com/track/0IlJfv6ACOvNyjd9vvgKzm"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Throw That Stone",
+        "url": "https://open.spotify.com/album/408CkVwXz2NDA1au1j5cJV"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 178668,
+      "name": "Throw That Stone",
+      "url": "https://open.spotify.com/track/0BGr6RE0hPLyDjCTlYzfcx"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
+        "name": "75-71",
+        "url": "https://open.spotify.com/album/7uCEA2hPC30z4FFmbaYPjj"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "duration_ms": 224186,
+      "name": "75-71",
+      "url": "https://open.spotify.com/track/5LqU6Ve7S71ZLD6m4Blhuq"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
         "name": "The Beginning (Remastered)",
         "url": "https://open.spotify.com/album/5CijRmgFDpNamMyRoRGoZf"
       },
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "It Would Be Better for the Bad to Be Good",
-        "url": "https://open.spotify.com/album/6eNCE1II4uKptOSZ3dB02Y"
-      },
-      "artists": [
-        {
-          "name": "Henrik Freischlader",
-          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
-        }
-      ],
-      "duration_ms": 213253,
-      "name": "It Would Be Better for the Bad to Be Good",
-      "url": "https://open.spotify.com/track/2YwGnpyl0H4H7gecQ3NilN"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "The Natch'l Blues",
         "url": "https://open.spotify.com/album/6ySAyGtXqiqF3Vya9bIir2"
       },
@@ -1095,34 +1095,18 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "75-71",
-        "url": "https://open.spotify.com/album/7uCEA2hPC30z4FFmbaYPjj"
+        "name": "It Would Be Better for the Bad to Be Good",
+        "url": "https://open.spotify.com/album/6eNCE1II4uKptOSZ3dB02Y"
       },
       "artists": [
         {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
         }
       ],
-      "duration_ms": 224186,
-      "name": "75-71",
-      "url": "https://open.spotify.com/track/5LqU6Ve7S71ZLD6m4Blhuq"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
-        "name": "High Flying Bird",
-        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
-      },
-      "artists": [
-        {
-          "name": "Judy Henske",
-          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
-        }
-      ],
-      "duration_ms": 187893,
-      "name": "Till the Real Thing Comes Along",
-      "url": "https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf"
+      "duration_ms": 213253,
+      "name": "It Would Be Better for the Bad to Be Good",
+      "url": "https://open.spotify.com/track/2YwGnpyl0H4H7gecQ3NilN"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -1139,6 +1123,22 @@
       "duration_ms": 177106,
       "name": "Assossam",
       "url": "https://open.spotify.com/track/0kkU5wgY8w4l3RSTSSaAgz"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "High Flying Bird",
+        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
+      },
+      "artists": [
+        {
+          "name": "Judy Henske",
+          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
+        }
+      ],
+      "duration_ms": 187893,
+      "name": "Till the Real Thing Comes Along",
+      "url": "https://open.spotify.com/track/63rsq6TwVfTp5NWTmBHhKf"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Rory Gallagher (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6C418YFIg1MVKldv9rpS16"
-      },
-      "artists": [
-        {
-          "name": "Rory Gallagher",
-          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "For The Last Time - Alternate Take 1",
-      "url": "https://open.spotify.com/track/2gdpaGn0NrBoto2xWFH30O"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Lightnin' Strikes",
         "url": "https://open.spotify.com/album/6oDBeR51HgSslV8tUlhPQV"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 240080,
       "name": "Devil Is Watching You",
       "url": "https://open.spotify.com/track/3lYAUsrVWuMvRtsCOBQopO"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Rory Gallagher (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6C418YFIg1MVKldv9rpS16"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "For The Last Time - Alternate Take 1",
+      "url": "https://open.spotify.com/track/2gdpaGn0NrBoto2xWFH30O"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "The Complete Prestige / Bluesville Recordings",
-        "url": "https://open.spotify.com/album/4RHp9uvlyvbRgNgeUWsVmH"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 274266,
-      "name": "Automobile Blues",
-      "url": "https://open.spotify.com/track/5uZoPP9hn8G21vdOdHlKqn"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Skip James Live Vol. 2 Bloomington 1968 Part 1",
         "url": "https://open.spotify.com/album/6IRognnWLde4YVlhYVwTvM"
       },
@@ -1359,6 +1343,38 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
+        "name": "Simple Truths",
+        "url": "https://open.spotify.com/album/59s35wdgpuh3MxDxtK2SbY"
+      },
+      "artists": [
+        {
+          "name": "The Holmes Brothers",
+          "url": "https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW"
+        }
+      ],
+      "duration_ms": 280306,
+      "name": "I'm So Lonely",
+      "url": "https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "The Complete Prestige / Bluesville Recordings",
+        "url": "https://open.spotify.com/album/4RHp9uvlyvbRgNgeUWsVmH"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 274266,
+      "name": "Automobile Blues",
+      "url": "https://open.spotify.com/track/5uZoPP9hn8G21vdOdHlKqn"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
         "name": "The Juice",
         "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 202840,
       "name": "Shine on Moon (feat. Keb' Mo')",
       "url": "https://open.spotify.com/track/7JqE3pDK2ZMUhk5BE5vTT9"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
-        "name": "Simple Truths",
-        "url": "https://open.spotify.com/album/59s35wdgpuh3MxDxtK2SbY"
-      },
-      "artists": [
-        {
-          "name": "The Holmes Brothers",
-          "url": "https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW"
-        }
-      ],
-      "duration_ms": 280306,
-      "name": "I'm So Lonely",
-      "url": "https://open.spotify.com/track/0wy4zVtVXy06xwuCUayup0"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
-      },
-      "artists": [
-        {
-          "name": "Blind Willie Johnson",
-          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "God Moves On the Water",
-      "url": "https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Don't Be Late",
         "url": "https://open.spotify.com/album/6HTXEDZKvK9qvBzYetVR0P"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 174313,
       "name": "Foolin'",
       "url": "https://open.spotify.com/track/2eTN6VZR6vX7CHCTILen1n"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
+      },
+      "artists": [
+        {
+          "name": "Blind Willie Johnson",
+          "url": "https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "God Moves On the Water",
+      "url": "https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Global Griot",
-        "url": "https://open.spotify.com/album/2GraWMDrJYtWr4VbOGKwT3"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 151403,
-      "name": "Brazos River Blues",
-      "url": "https://open.spotify.com/track/0mhROANTkoXNVe3fF5DDPi"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Complete Studio Recordings",
         "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 261000,
       "name": "Pay Day",
       "url": "https://open.spotify.com/track/29Q6NQ4WsPYTsZ8nhdAhfo"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Global Griot",
+        "url": "https://open.spotify.com/album/2GraWMDrJYtWr4VbOGKwT3"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 151403,
+      "name": "Brazos River Blues",
+      "url": "https://open.spotify.com/track/0mhROANTkoXNVe3fF5DDPi"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Next Time You See Me",
-        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
-      },
-      "artists": [
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Fussin' and Fightin' (Blues)",
-      "url": "https://open.spotify.com/track/479M29eunSUcosQ608slSc"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "If These Walls Could Talk",
         "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
       },
@@ -1647,6 +1631,22 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
+        "name": "Next Time You See Me",
+        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Fussin' and Fightin' (Blues)",
+      "url": "https://open.spotify.com/track/479M29eunSUcosQ608slSc"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
         "name": "Last Session",
         "url": "https://open.spotify.com/album/0mlOrznmUepY8FKiHaPhij"
       },
@@ -1659,6 +1659,22 @@
       "duration_ms": 165026,
       "name": "Broke Down Engine Blues",
       "url": "https://open.spotify.com/track/3pv4AWo4JMFi00CrvOfbOo"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "The Road to Liberty, Pt. 1",
+        "url": "https://open.spotify.com/album/2fuHUsqBxtWeSQ810gaggk"
+      },
+      "artists": [
+        {
+          "name": "Mark Harrison",
+          "url": "https://open.spotify.com/artist/14CtALWVNL2IsuvjO27qBd"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Passing Through",
+      "url": "https://open.spotify.com/track/6IHuZvXDvMgk0D15P08FPj"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -1699,22 +1715,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "The Road to Liberty, Pt. 1",
-        "url": "https://open.spotify.com/album/2fuHUsqBxtWeSQ810gaggk"
-      },
-      "artists": [
-        {
-          "name": "Mark Harrison",
-          "url": "https://open.spotify.com/artist/14CtALWVNL2IsuvjO27qBd"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Passing Through",
-      "url": "https://open.spotify.com/track/6IHuZvXDvMgk0D15P08FPj"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Complete Studio Recordings",
         "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
       },
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Between Midnight And Day",
-        "url": "https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED"
-      },
-      "artists": [
-        {
-          "name": "Corey Harris",
-          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
-        }
-      ],
-      "duration_ms": 160213,
-      "name": "Catfish Blues",
-      "url": "https://open.spotify.com/track/4Zw7WWHOGCExXuMcxk0CCy"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Presenting Robert Nighthawk",
         "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 164213,
       "name": "The Moon Is Rising",
       "url": "https://open.spotify.com/track/1tVX38Zaf1rKJOkAuMXef4"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Between Midnight And Day",
+        "url": "https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED"
+      },
+      "artists": [
+        {
+          "name": "Corey Harris",
+          "url": "https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH"
+        }
+      ],
+      "duration_ms": 160213,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/4Zw7WWHOGCExXuMcxk0CCy"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "Acoustic Burnside",
-        "url": "https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr"
-      },
-      "artists": [
-        {
-          "name": "Duwayne Burnside",
-          "url": "https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3"
-        }
-      ],
-      "duration_ms": 197237,
-      "name": "Meet Me In The City",
-      "url": "https://open.spotify.com/track/3Sb7h17Qy7WXTakdLyLacB"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Country Blues",
         "url": "https://open.spotify.com/album/2RhS2sXIMQcErCUZUtcDZ2"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 194346,
       "name": "See See Rider",
       "url": "https://open.spotify.com/track/1kVI9Kp3dLmt7cYezcj5Rf"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "Acoustic Burnside",
+        "url": "https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr"
+      },
+      "artists": [
+        {
+          "name": "Duwayne Burnside",
+          "url": "https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3"
+        }
+      ],
+      "duration_ms": 197237,
+      "name": "Meet Me In The City",
+      "url": "https://open.spotify.com/track/3Sb7h17Qy7WXTakdLyLacB"
     },
     {
       "added_at": "2023-04-14 00:01:00",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2023-04-14 00:01:00",
       "album": {
-        "name": "The Blues Never End",
-        "url": "https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1"
-      },
-      "artists": [
-        {
-          "name": "Elly Wininger",
-          "url": "https://open.spotify.com/artist/3k76bXCZIz5biiGbFrUBMJ"
-        }
-      ],
-      "duration_ms": 181120,
-      "name": "God Moves on the Water",
-      "url": "https://open.spotify.com/track/4lLBd2YSJddTlpx67egIgQ"
-    },
-    {
-      "added_at": "2023-04-14 00:01:00",
-      "album": {
         "name": "Trying to Hold On",
         "url": "https://open.spotify.com/album/4eYqi12IL2UvjNbnrZYP5s"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 249626,
       "name": "Be for Me",
       "url": "https://open.spotify.com/track/5QNR5H81d2G2BZk4uDdaR7"
+    },
+    {
+      "added_at": "2023-04-14 00:01:00",
+      "album": {
+        "name": "The Blues Never End",
+        "url": "https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1"
+      },
+      "artists": [
+        {
+          "name": "Elly Wininger",
+          "url": "https://open.spotify.com/artist/3k76bXCZIz5biiGbFrUBMJ"
+        }
+      ],
+      "duration_ms": 181120,
+      "name": "God Moves on the Water",
+      "url": "https://open.spotify.com/track/4lLBd2YSJddTlpx67egIgQ"
     },
     {
       "added_at": "2023-04-14 00:01:00",

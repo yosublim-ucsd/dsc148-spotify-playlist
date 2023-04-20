@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest local and global tracks in Pakistan\. Cover \- Kaifi Khalil
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,262 likes - 55 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,319 likes - 55 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 54 | [Jo Tu Na Mila](https://open.spotify.com/track/6DefzsWqnwrFrmNVnJxWkS) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Jo Tu Na Mila](https://open.spotify.com/album/4KSvSqPJwTo7qMxP4XyIaH) | 3:54 |
 | 55 | [Happy Hour](https://open.spotify.com/track/5M0pviz4op3uvRnKTnPoce) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ) | [Open Letter](https://open.spotify.com/album/2r3tG1S4XlpHM3z7xUp2lD) | 3:15 |
 
-Snapshot ID: `MTY4MTI5MzA2NSwwMDAwMDAwMGFmNzdiYzU1NTNkN2M2MWRmMWYyMWVkNmI0MGM4ODk1`
+Snapshot ID: `MTY4MTg5OTM0NCwwMDAwMDAwMDlkM2QyMmRjMmQyNjNmN2Y2MTA2NzMyZWU0YmEwNjI3`

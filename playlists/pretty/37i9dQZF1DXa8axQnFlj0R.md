@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 
 > let me hold both your hands in the holes of my sweater
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,606 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,594 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 31 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 |
 | 32 | [Nobody Knows](https://open.spotify.com/track/7A0FGrZsLgOUmeNtMTnt4z) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Pete's Dragon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1YrocR69AHthl982tykNpQ) | 3:08 |
 | 33 | [Amsterdam](https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:33 |
-| 34 | [Re: Stacks](https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 6:41 |
+| 34 | [Rome](https://open.spotify.com/track/2ZwihAP8zB5XX1CmYIOBbF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear](https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG) | 3:22 |
 | 35 | [Warped Window](https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW) | 4:55 |
-| 36 | [Rome](https://open.spotify.com/track/2ZwihAP8zB5XX1CmYIOBbF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Without Fear](https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG) | 3:22 |
+| 36 | [Re: Stacks](https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM) | 6:41 |
 | 37 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 |
 | 38 | [Give Me A Minute](https://open.spotify.com/track/3YyASDEwePUZaPcgCjGOoV) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/63ButSDtUefzCmdE3AXdor) | 2:37 |
 | 39 | [Drive](https://open.spotify.com/track/2kJqNHHGOzLNahukdvlDWN) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:16 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 82 | [Dancing in the Moonlight \(It's Caught Me in Its Spotlight\) \- Live from Spotify Studios, New York City, NY](https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Spotify Singles](https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW) | 2:23 |
 | 83 | [The Wolves and the Ravens](https://open.spotify.com/track/7M7e3u2MjbOVTkQMW6XqL6) | [Rogue Valley](https://open.spotify.com/artist/1EbGAjTV50qpZ53jXTvmV7) | [False Floors](https://open.spotify.com/album/520kCQ9Z5WEWih341YHcmT) | 4:16 |
 | 84 | [Mountaineer](https://open.spotify.com/track/6qgiIu9Up7oDWfQnaajvy3) | [Arliston](https://open.spotify.com/artist/1zdjZcUSe5thcIAIU5NRYh) | [Mountaineer](https://open.spotify.com/album/5AtMxNyGbY4sJnEyFbbig7) | 3:41 |
-| 85 | [Now & Then](https://open.spotify.com/track/1dbaHk2530DwkAe5vwOYez) | [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Arcadia](https://open.spotify.com/album/6PLChyiJHbYkpX9XXtW6Ye) | 3:19 |
-| 86 | [Wild](https://open.spotify.com/track/7GbRC3WWnBGF9Uc9N2BUDh) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P), [Jemima Coulter](https://open.spotify.com/artist/3fACmIrcE5VThQfuYpOJzc) | [Holding](https://open.spotify.com/album/3EsHX6QnZU5XVed717arFh) | 3:17 |
+| 85 | [Wild](https://open.spotify.com/track/7GbRC3WWnBGF9Uc9N2BUDh) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [Lowswimmer](https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P), [Jemima Coulter](https://open.spotify.com/artist/3fACmIrcE5VThQfuYpOJzc) | [Holding](https://open.spotify.com/album/3EsHX6QnZU5XVed717arFh) | 3:17 |
+| 86 | [Now & Then](https://open.spotify.com/track/1dbaHk2530DwkAe5vwOYez) | [Lily Kershaw](https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua) | [Arcadia](https://open.spotify.com/album/6PLChyiJHbYkpX9XXtW6Ye) | 3:19 |
 | 87 | [Glad I Got You](https://open.spotify.com/track/77QHKxBniAzCLen3aKgKgw) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Subject To Change](https://open.spotify.com/album/0r94JScFZwwTDVTo4YXwpx) | 2:40 |
 | 88 | [Forward](https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU) | [Qazi & Qazi](https://open.spotify.com/artist/75skRx68A3gJDsAOZAiVOM) | [Forward](https://open.spotify.com/album/0TBhmTc9ppxvJmGRAQQOoG) | 4:23 |
 | 89 | [Follaton Wood](https://open.spotify.com/track/1bVlFkO4UyfNYWurqCghT7) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [The Old Pine E.P.](https://open.spotify.com/album/0k58WX5uI2CNJ0BlH1cKXA) | 4:49 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8axQnFlj0R.md) - [plain]
 | 91 | [Love You Twice](https://open.spotify.com/track/0p8N7QE1DJtY6IVmLy1YZc) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Love You Twice](https://open.spotify.com/album/6cCcFoDt2Zncbda2vn0Ji5) | 3:24 |
 | 92 | [Seastroke](https://open.spotify.com/track/5D1LlqWG0VUMMvfqRBch2S) | [Wyldest](https://open.spotify.com/artist/1H5bZEYikISQmR2qY2SASI) | [Seastroke](https://open.spotify.com/album/3P6RFTx68WRi9KQmdiTVgt) | 4:35 |
 | 93 | [Peaches](https://open.spotify.com/track/5oM94y5XDIQQOouLu28dFR) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Vanilla Sky](https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ) | 3:56 |
-| 94 | [Delicious Things](https://open.spotify.com/track/0f1bOH82cQvNNZBmmkKv4d) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 5:04 |
-| 95 | [Midnight Sun \- Acoustic Version](https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0) | [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Midnight Sun \(Acoustic Version\)](https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS) | 3:13 |
+| 94 | [Midnight Sun \- Acoustic Version](https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0) | [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc) | [Midnight Sun \(Acoustic Version\)](https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS) | 3:13 |
+| 95 | [Delicious Things](https://open.spotify.com/track/0f1bOH82cQvNNZBmmkKv4d) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 5:04 |
 | 96 | [I Can See New Zealand From Here](https://open.spotify.com/track/3Sj8sORRaM4exIA4oJzdhh) | [Cooza](https://open.spotify.com/artist/1P6s8Y6fBmd7KMcthpxi2V) | [Our Day](https://open.spotify.com/album/2KB5Knafh3nJvxA1aQZ8vp) | 2:03 |
 | 97 | [Northern Towns](https://open.spotify.com/track/6wKeiw7N5DVCX4QvlVZ33j) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Northern Towns](https://open.spotify.com/album/4LvJMCbh5kKJrCkwzyOOQ8) | 2:56 |
 | 98 | [we’ll be fine \- acoustic](https://open.spotify.com/track/7FdvD8jMcvUW5xbxSsQTA8) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [we’ll be fine \(acoustic\)](https://open.spotify.com/album/2lzdWQWTB2ZJkfrXMiPDSC) | 4:56 |
 | 99 | [Party Dress](https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Party Dress](https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv) | 3:14 |
 | 100 | [I Wanna Dance With Somebody \(Who Loves Me\)](https://open.spotify.com/track/0cbBZFEMcIsQujl5dIdcdi) | [Morgan Harper\-Jones](https://open.spotify.com/artist/73s0o3W8ycCcK4hRjuGNrj) | [Breathe](https://open.spotify.com/album/6HDqgrcQJjK2tckVLCDfvp) | 3:02 |
 
-Snapshot ID: `MTY3MDAwNzc1NywwMDAwMDAwMGI4NjdiNjA0ZDFkNjc3ODdjNTkzMjJiOTEyZjYzYTgy`
+Snapshot ID: `MTY3MDAwNzc1NywwMDAwMDAwMGZmMmQ0NmJjZTQ5NjMwYmMzYjQ3MTI5MTM0NDJhODlk`

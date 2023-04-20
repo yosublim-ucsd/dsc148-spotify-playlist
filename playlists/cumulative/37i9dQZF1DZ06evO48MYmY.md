@@ -4,7 +4,7 @@
 
 > This is Simon & Garfunkel\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 31 min
+52 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [My Little Town](https://open.spotify.com/track/3obrfotpr4kLCKiOu2GZ4Q) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:51 | 2022-09-16 |  |
 | [Old Friends](https://open.spotify.com/track/7vJRHZP1PuNwjUcoCsWlul) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 2:35 | 2022-09-16 |  |
 | [Old Friends / Bookends Theme \- Live in Toledo, OH \- November 1969](https://open.spotify.com/track/5dKUMWNp0Y18VHkGGJCJR9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Live 1969](https://open.spotify.com/album/1agP6sAeWsH8Pgm8WrVtdl) | 3:22 | 2022-09-16 |  |
-| [Save the Life of My Child](https://open.spotify.com/track/12LiUnumZMkhKJxhiivVXW) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 2:48 | 2022-09-16 |  |
+| [Punky's Dilemma](https://open.spotify.com/track/5UsyaEfEsenoqvWkbVU0Wp) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 2:12 | 2023-04-19 |  |
+| [Save the Life of My Child](https://open.spotify.com/track/12LiUnumZMkhKJxhiivVXW) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 2:48 | 2022-09-16 | 2023-04-20 |
 | [Scarborough Fair / Canticle](https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 3:10 | 2022-09-16 |  |
 | [Slip Slidin' Away \- Live at Central Park, New York, NY \- September 19, 1981](https://open.spotify.com/track/3sfwzml4pqeGyeK1aTEmAF) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [The Concert in Central Park \(Live\)](https://open.spotify.com/album/3nIU4gxyq0MK4mlWE8ePqb) | 4:42 | 2022-09-16 |  |
 | [Sparrow](https://open.spotify.com/track/7pz0HomuJsxkbrNQUHNYBE) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 2:47 | 2022-09-16 |  |

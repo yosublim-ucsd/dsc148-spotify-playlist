@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,304 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,305 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 30 | [Chawa](https://open.spotify.com/track/5pLhsPqqPdySGA0nOxkHmO) | [Seneta Kilaka](https://open.spotify.com/artist/08cahcqwOPJ75FlSiFaRP8) | [Chawa](https://open.spotify.com/album/3Lh0ZnfFmi3uaGZ4mVjeo7) | 4:14 |
 | 31 | [Singeli Jungles](https://open.spotify.com/track/6H3EHuYWvGB0zYNt5HshDy) | [MC Palakata](https://open.spotify.com/artist/6vcyi3nPfWG7KVc5zBFxq7), [Tom Blip](https://open.spotify.com/artist/1xazZO4qWRZ29dlJfeaR6x) | [Singeli Jungles](https://open.spotify.com/album/3FLTSy9L7qepabWJlluH1n) | 4:40 |
 | 32 | [Jiangalie](https://open.spotify.com/track/70MUSJin8YD1Yt3MY6lh6Q) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Jiangalie](https://open.spotify.com/album/13ANj5VXI99symiSXYggqI) | 3:49 |
-| 33 | [Naijua Iyo](https://open.spotify.com/track/4pQMjjsGtqvLzayIyhValX) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Mchina Mweusi](https://open.spotify.com/artist/6wqKfNDWH5xwAuwOnoGPQe) | [Naijua Iyo](https://open.spotify.com/album/5hFZHndJ4KsuuO8I3BWiuj) | 3:46 |
+| 33 | [Mamu Remix \- Remix](https://open.spotify.com/track/7pzSnR2pGiDsjDjjBYOP7O) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Mr Blue](https://open.spotify.com/artist/6LZKOSFfFwfHgZAYXmbfi9) | [Mamu Remix](https://open.spotify.com/album/0BLcM5UfOvQHCmDTHSfdkK) | 6:11 |
 | 34 | [Status](https://open.spotify.com/track/7qk0HfhXHEYQQzoZ6caYQM) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Status](https://open.spotify.com/album/1mt4GI9A1Msw42jevPqCqk) | 4:08 |
 | 35 | [Sawa Nitaacha](https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Sawa Nitaacha](https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ) | 3:38 |
 | 36 | [Linga Linga \- feat\. Makaveli](https://open.spotify.com/track/0SdkwQbcTyK99k3jExpWre) | [Bamba Pana, Makaveli](https://open.spotify.com/artist/5pNtipGqlJhqyNscXUwaST) | [Poaa](https://open.spotify.com/album/4SkM8MD6ClaCC3e8ePKehm) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 49 | [Uongo](https://open.spotify.com/track/16JJwqUJhPReA1WRryem9G) | [Man Fongo](https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4) | [Uongo](https://open.spotify.com/album/3zJcPM1wtoVJyoFh5L94vi) | 3:26 |
 | 50 | [Niwataje](https://open.spotify.com/track/7qPJAWnwWTDp5jIe7OXbBP) | [Mkojani](https://open.spotify.com/artist/7jZAgLdoUU9mA8lQIGDI9U), [Kai Music](https://open.spotify.com/artist/2q1hVslf2JFLRjiqobuHy6) | [Niwataje](https://open.spotify.com/album/5SKtdBUN7j9rFCtC1cv2ed) | 3:31 |
 
-Snapshot ID: `MTY4MTQ2MDU5OSwwMDAwMDAwMGU5NzRlYzU5MGNmZWIyYThiNGQxZjQ4MDNkNTVjODdj`
+Snapshot ID: `MTY4MTQ2MDU5OSwwMDAwMDAwMDgzZDk2ZDY1MzFkOTUxMjc2NGMxNGNkNjY5OGJjN2I5`

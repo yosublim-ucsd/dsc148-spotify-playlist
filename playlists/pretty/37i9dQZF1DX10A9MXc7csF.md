@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Nivel Codiciado
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,427 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,436 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 28 | [Hey There Delilah](https://open.spotify.com/track/6DcuRMCIu66fLSGiS0MgZ8) | [EZ Band](https://open.spotify.com/artist/2gTWLwanLiNZFR0iNPD847) | [Make it Norteño Vol\. 1](https://open.spotify.com/album/7h2wTuvmqp4qoDfrOh10rs) | 3:52 |
 | 29 | [En La Silverado](https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg) | [En La Silverado](https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi) | 2:50 |
 | 30 | [Roll It](https://open.spotify.com/track/1rmkdRN6cMTLEgVlrl2fVK) | [Jay Sánchez](https://open.spotify.com/artist/3KWXqSfNmUT0fdjBmTisCJ) | [Roll It](https://open.spotify.com/album/3oLDxDpjzpNPOU8KdzUjx4) | 2:56 |
-| 31 | [Cambio De Canción](https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cambio De Canción](https://open.spotify.com/album/669yLYUn6jylypYi5lmge1) | 2:49 |
+| 31 | [3 AM](https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:08 |
 | 32 | [Solo Tu Podras](https://open.spotify.com/track/4n8zQAFzSi3jH3JQGsbI86) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Solo Tu Podras](https://open.spotify.com/album/6xUOmWbItiEJrE2bAU3p9W) | 3:26 |
-| 33 | [3 AM](https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Amor De Lejos](https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7) | 3:08 |
+| 33 | [Cambio De Canción](https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cambio De Canción](https://open.spotify.com/album/669yLYUn6jylypYi5lmge1) | 2:49 |
 | 34 | [Me Dejaste en Cero](https://open.spotify.com/track/677dhnA2KeTjbTdCLldI7E) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Me Dejaste en Cero](https://open.spotify.com/album/2ibH9gTeQQ741EqrYNoaiv) | 3:20 |
 | 35 | [Neverita](https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Neverita](https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF) | 3:11 |
 | 36 | [Blanco Y Negro](https://open.spotify.com/track/3h5BJzVXakNbLvKY3oqNKd) | [Dano Arias](https://open.spotify.com/artist/1AiUJjP4nxM9KIqsFjxMVT), [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Blanco Y Negro](https://open.spotify.com/album/4tjuJwbsp4c8zMFUErJpqR) | 3:04 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 60 | [Quise Ser Bueno](https://open.spotify.com/track/7MAPPJtHY6ufnyhi6OexMu) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0), [Kevin Lopez](https://open.spotify.com/artist/0ZzYMp49RXtrF29cEngFFJ) | [Quise Ser Bueno](https://open.spotify.com/album/19kg4sH9AsYEu3oIuuBkcf) | 3:38 |
 | 61 | [La Canción](https://open.spotify.com/track/2weKT5Gn2nOEKSjtchYGUR) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [La Cancion](https://open.spotify.com/album/64WFuqvj8ABvZHvo9BoV0c) | 3:25 |
 | 62 | [Manzana en el Mapa](https://open.spotify.com/track/2424oIYpF5JMh65bCu1kAI) | [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Manzana en el Mapa](https://open.spotify.com/album/6CbT6DH726p3P8oAtmox7j) | 3:03 |
-| 63 | [Ni Como Ni cuando \(En Vivo\)](https://open.spotify.com/track/2Gs4NvmZXYfVPxizpZ892I) | [Doble Vision](https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa) | [Ni Como Ni Cuando \(En Vivo\)](https://open.spotify.com/album/00LPgUJSYt1X5UQRK6YIu3) | 2:08 |
-| 64 | [El Terminator](https://open.spotify.com/track/1QQeHaqtG8tOU8BbCWVPf6) | [Christian Nava](https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [El Terminator](https://open.spotify.com/album/6k6fcNBK814YrhGv833xc3) | 2:55 |
+| 63 | [El Terminator](https://open.spotify.com/track/1QQeHaqtG8tOU8BbCWVPf6) | [Christian Nava](https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [El Terminator](https://open.spotify.com/album/6k6fcNBK814YrhGv833xc3) | 2:55 |
+| 64 | [Ni Como Ni cuando \(En Vivo\)](https://open.spotify.com/track/2Gs4NvmZXYfVPxizpZ892I) | [Doble Vision](https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa) | [Ni Como Ni Cuando \(En Vivo\)](https://open.spotify.com/album/00LPgUJSYt1X5UQRK6YIu3) | 2:08 |
 | 65 | [SUR 99](https://open.spotify.com/track/0ZNH6BbpqLlxnO9zBUdB9T) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Primera Elegancia](https://open.spotify.com/artist/2wPO2p4ldXKAh5MBrwoA7k) | [SUR 99](https://open.spotify.com/album/0hN9kijAgj9tRr4YXM68w5) | 3:09 |
 | 66 | [AJUA](https://open.spotify.com/track/0BnpQAlGqVxQKLSrQivHCX) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [AJUA](https://open.spotify.com/album/3wbsfxUYx5niEAz1qtzv27) | 2:29 |
 | 67 | [Para El Barrio](https://open.spotify.com/track/2F9M3yMeJCiAzIJpnbSWRE) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Los Chavalos De La Perla](https://open.spotify.com/artist/5w2CwSVYz9o6NUY4RgpCCO) | [Para El Barrio](https://open.spotify.com/album/1KscIu4gQDfRNqPw0CEqMy) | 3:12 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 99 | [Quiero Brindar](https://open.spotify.com/track/68csteODRhwuYbDfkqBiHj) | [Rey\-N\-Raey](https://open.spotify.com/artist/5iIhhT7t5Sp0p7Ilqwbuhu), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [Quiero Brindar](https://open.spotify.com/album/0vdpCLzhjokjtlSZwRlYm4) | 2:48 |
 | 100 | [El Chiste](https://open.spotify.com/track/03AGRk4RHSpOEwU00Smwvm) | [JR NUÑEZ](https://open.spotify.com/artist/7kyrlDk15k86Yt4IkF1D4M) | [El Chiste](https://open.spotify.com/album/1H0nf93rr0nrdT8Z1sAn5B) | 2:58 |
 
-Snapshot ID: `MTY3OTAzMzE5MywwMDAwMDAwMGMzMGJkNDdiMzg3MjJmNjk1M2QyYTliODcwYzkyMjcw`
+Snapshot ID: `MTY3OTAzMzE5MywwMDAwMDAwMDQwY2JiNGQ1YzVmMDY3NzVkN2FkZDM1MDVmYTk5ZDU0`

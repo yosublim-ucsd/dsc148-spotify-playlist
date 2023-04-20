@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 
 > Relive the disco era with these superhits\. Cover \- Bappi Lahiri
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,923 likes - 48 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,937 likes - 48 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "60s rock to fuel your ride. Cover: Jimi Hendrix",
-  "num_followers": 141632,
+  "num_followers": 141914,
   "original_name": "60s Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODk4MjE4NCwwMDAwMDAwMGM4MTc4NGQ5ZDJhZTc1MTRkOGZiOWJiM2Y4NDAxZTUw",
+  "snapshot_id": "MTYzODk4MjE4NCwwMDAwMDAwMDBiOGNhYWY3ZTQxMTc2NTFjNWMzNTIxNWRkZDA3MTE4",
   "tracks": [
     {
       "added_at": "2021-03-22 17:56:31",
@@ -219,22 +219,6 @@
     {
       "added_at": "2021-03-22 17:56:31",
       "album": {
-        "name": "Led Zeppelin",
-        "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Good Times Bad Times - 1993 Remaster",
-      "url": "https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp"
-    },
-    {
-      "added_at": "2021-03-22 17:56:31",
-      "album": {
         "name": "Are You Experienced",
         "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 170813,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
+    },
+    {
+      "added_at": "2021-03-22 17:56:31",
+      "album": {
+        "name": "Led Zeppelin",
+        "url": "https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Good Times Bad Times - 1993 Remaster",
+      "url": "https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp"
     },
     {
       "added_at": "2021-03-22 17:56:31",

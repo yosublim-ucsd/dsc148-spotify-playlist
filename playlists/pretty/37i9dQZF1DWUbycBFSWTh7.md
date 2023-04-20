@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > Deephouse in the mix for your delight.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,077 likes - 110 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,118 likes - 110 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 74 | [Whatever](https://open.spotify.com/track/2UXF6Sz2y6cYk1tF5f1X7U) | [Kreech](https://open.spotify.com/artist/5ZcXIQ6novByvRJGlTebf3) | [Whatever](https://open.spotify.com/album/56tNvvH9GzTsPRhNuriPK0) | 3:46 |
 | 75 | [You \- Edit](https://open.spotify.com/track/6sHAIXsj6mBA9r8u43Xhkk) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [You \(Edit\)](https://open.spotify.com/album/2gdiubN0Dd0Mk9qkjz8oUa) | 3:58 |
 | 76 | [Take Out \- Original Mix](https://open.spotify.com/track/3ZXvEowCBdlYMKmfeZW5rF) | [25 Places](https://open.spotify.com/artist/2HzPIOCKMoZReg1bH2kZLb) | [Take Out](https://open.spotify.com/album/3GDsQeh9yPYrlQsGKYQqat) | 7:31 |
-| 77 | [Paradiso Mediterraneo](https://open.spotify.com/track/6Birlo8g8BUkpvTIAUJdbB) | [Peter LC](https://open.spotify.com/artist/0suFn6dKQlrirLWDJrDRG8) | [Paradiso Mediterraneo](https://open.spotify.com/album/5YvJshaHEDcKSlTosoNk7x) | 6:21 |
+| 77 | [Paradiso Mediterraneo](https://open.spotify.com/track/0RJLVVhJea15CzJTcMZ1ML) | [Peter LC](https://open.spotify.com/artist/0suFn6dKQlrirLWDJrDRG8) | [Paradiso Mediterraneo](https://open.spotify.com/album/5bi8BWda3CBEQJ3E2AYVLv) | 6:21 |
 | 78 | [Stretch Out Like The World \- Timmy Regisford Instrumental Mix](https://open.spotify.com/track/3edzhI4XT2KcwGh41XIrpv) | [Frank & Tony](https://open.spotify.com/artist/45inHjnamn5uQuuRXOnnmN), [Timmy Regisford](https://open.spotify.com/artist/4L8Ca9KjtTXUr9iD0s6asH) | [Stretch Out Like The World \(Timmy Regisford Instrumental Mix\)](https://open.spotify.com/album/1INRl1q8mqtP1R09JGjGDC) | 5:38 |
 | 79 | [Emancipação \- Ron Trent Remix](https://open.spotify.com/track/66XwUl6vlH5XqGwjHI93OD) | [Diogo Strausz](https://open.spotify.com/artist/58HWl0aH0VFAKnxfiZdVzO), [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [Emancipação \(Ron Trent Remix\)](https://open.spotify.com/album/2px1kDZ3heXoSR6AFB8DGS) | 9:11 |
 | 80 | [Pilsplaat](https://open.spotify.com/track/66ydKEoF7uofQdlA9yVsKK) | [Bonkers](https://open.spotify.com/artist/3aJmqZGZ6nTlu7Uoy3vWyz) | [Pilsplaat](https://open.spotify.com/album/6sPPr8BBqg8ZdI27N6ZaHr) | 3:05 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 109 | [Nine O Nine](https://open.spotify.com/track/4crwNn1Wsq9ukwC0k99z7e) | [Dutchican Soul](https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB) | [Nine O Nine](https://open.spotify.com/album/4wM0efpVUJ0P8rGfVhEdxW) | 3:16 |
 | 110 | [333 \- Cut Version](https://open.spotify.com/track/18eNlKPO2mpzRgzJthA2TY) | [Prunk](https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG), [Majoness](https://open.spotify.com/artist/3AUYGVHoXYjXumJ9aAfgYR) | [333 EP](https://open.spotify.com/album/4X9pRIOXjqMJKYjb6ydtqJ) | 4:05 |
 
-Snapshot ID: `MTY4MDg2NDY1MywwMDAwMDAwMDgxNTBlNTc5ZmE1OTUxNTAwMWY2OGY1ZDIxY2E4Yjg5`
+Snapshot ID: `MTY4MDg2NDY1MywwMDAwMDAwMDM3NjgxMzU2YWMwMzc4NDA5M2JkNDI0YjdkYjJhOTA1`

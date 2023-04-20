@@ -4,7 +4,7 @@
 
 > The biggest rock artists in Japan right now! Cover: JUN SKY WALKER\(S\)
 
-583 songs - 1 day 14 hr 49 min
+585 songs - 1 day 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [13月](https://open.spotify.com/track/5blfqjxdPOzx5oV0dkcn3s) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [海辺](https://open.spotify.com/album/1Q0zDssvtxNWP6dm3zUzDX) | 4:09 | 2022-05-24 | 2022-07-29 |
 | [1994](https://open.spotify.com/track/6qezNXHaGMPgZliOqx5Wqq) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht), [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [1994](https://open.spotify.com/album/2JAJGIjBaeM1m5f9yNfWDM) | 3:31 | 2022-08-04 | 2023-04-12 |
 | [30minutes](https://open.spotify.com/track/0h5M1WuZUs7BDAmSWgzzlY) | [Kyoko](https://open.spotify.com/artist/5HRqEGJI62dhk2BuO65mnr) | [30minutes](https://open.spotify.com/album/49UapnkmqyULff9EydUll5) | 3:32 | 2022-08-09 | 2022-08-17 |
+| [A Phenomenal Man](https://open.spotify.com/track/5hxacLnWr2zD9GDKm2oEYy) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [A Phenomenal Man](https://open.spotify.com/album/0cyUc2d1JjBj3g6OkLYb99) | 3:00 | 2023-04-19 |  |
 | [A Spring Breath](https://open.spotify.com/track/4gXIoS4dweag2ZBdk8xaRf) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [A Spring Breath](https://open.spotify.com/album/1XJr7sq0j0c5bccwKMdTVw) | 3:58 | 2022-05-17 | 2022-07-29 |
 | [Ain't That So Awesome](https://open.spotify.com/track/5SttGai4pssVpymhyYZGLC) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Cocoon for the Golden Future](https://open.spotify.com/album/6V1A127GqQOGQOslh0an1k) | 3:39 | 2022-10-29 | 2022-11-02 |
 | [All for RAN](https://open.spotify.com/track/2Exj7jLQ6dWGfynuNu8gj8) | [T.C.R横浜銀蝿R.S.](https://open.spotify.com/artist/0aJenP5NVBmexzvl9zeme1) | [All for RAN](https://open.spotify.com/album/1JxOZW4NUViYk6Svm771w7) | 5:09 | 2022-10-29 | 2022-11-02 |
@@ -119,6 +120,7 @@
 | [I DON'T WANNA](https://open.spotify.com/track/1mOeV8FLM1u2K6FQikcWvM) | [THE BAWDIES](https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F) | [BLAST OFF!](https://open.spotify.com/album/5K6mctmxGbGJUuii7uRt2d) | 3:21 | 2022-05-10 | 2022-06-21 |
 | [I feel free](https://open.spotify.com/track/291g88i6GvDEZjMRGRtaEA) | [Michiya Haruhata](https://open.spotify.com/artist/6B3JbWQ1eamId6N5y09gzg), [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [I feel free](https://open.spotify.com/album/1MwejdU3E2kxJ9BeeHNIvv) | 4:03 | 2022-05-12 | 2022-07-21 |
 | [I Just Threw Out The Love Of My Dreams](https://open.spotify.com/track/3fKJhq2KV5mnxcEBDBlxeO) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [出町柳パラレルユニバース](https://open.spotify.com/album/6BGCOeart36zrZsEN9vOs7) | 2:48 | 2022-09-27 | 2022-11-02 |
+| [I'm A Rat](https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'm A Rat](https://open.spotify.com/album/7E7uf3z4a1ijeLMTX841vE) | 2:04 | 2023-04-19 |  |
 | [Imagine](https://open.spotify.com/track/7oRBCFo22NQjZxzhUCFq78) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [Imagine](https://open.spotify.com/album/1MZJ05fQaeiw1hjoVi8MUW) | 3:48 | 2022-05-10 | 2022-07-17 |
 | [In My Hurts Again](https://open.spotify.com/track/4x5dcwacdIW5aIrKCBAHtp) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 5:09 | 2022-11-22 | 2022-11-30 |
 | [In The Air, In The Error](https://open.spotify.com/track/4JWcLsPrJPaSxBzvX8nNaO) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 4:22 | 2022-11-22 | 2022-12-14 |
@@ -152,7 +154,7 @@
 | [Let's go down the street](https://open.spotify.com/track/2OcKkcc650vUnWBW3WI9jr) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [Let's go down the street](https://open.spotify.com/album/4bJs16gpfnH3jr3S4REn5U) | 4:04 | 2023-03-21 |  |
 | [Let's go down the street](https://open.spotify.com/track/7CrEu0XfkPrhvi9fHRLM70) | [The Birthday](https://open.spotify.com/artist/58zME34zPsQx58YXCyFryH) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Tribute\)](https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN) | 4:04 | 2023-03-21 | 2023-03-23 |
 | [Let's go down the street](https://open.spotify.com/track/4PwtVSYLSDfGLE2kLMOKgq) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [The LEGEND](https://open.spotify.com/album/6tvgmGIg2Px1PAfpIWmMVR) | 4:18 | 2023-03-21 | 2023-03-23 |
-| [Let's go down the street](https://open.spotify.com/track/09AwmUuIDnRtpCMVqRXUM3) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Origin\)](https://open.spotify.com/album/3vzmgpfnvNOmxiO7WYCaOM) | 4:20 | 2023-03-21 |  |
+| [Let's go down the street](https://open.spotify.com/track/09AwmUuIDnRtpCMVqRXUM3) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Origin\)](https://open.spotify.com/album/3vzmgpfnvNOmxiO7WYCaOM) | 4:20 | 2023-03-21 | 2023-04-20 |
 | [Light and Darkness](https://open.spotify.com/track/0olkiWqNuL76Zul02kqS0o) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Light and Darkness](https://open.spotify.com/album/3WDhH38G6iRALKLUjM20VL) | 4:04 | 2023-02-23 | 2023-03-27 |
 | [Light and Darkness](https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 4:04 | 2023-03-28 |  |
 | [Light It Up](https://open.spotify.com/track/27H9AHFWDxMjxbUzIAzqwg) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Light It Up](https://open.spotify.com/album/0uAuIWSSbAmIxK4omHsljd) | 3:10 | 2022-09-08 | 2022-11-02 |
@@ -450,7 +452,7 @@
 | [ビートとベースとスクラッチ](https://open.spotify.com/track/5HcdlZaChx26a85DeBF4PO) | [SBK](https://open.spotify.com/artist/2zHoXYzIEiq5t25A4dqMDD) | [ビートとベースとスクラッチ](https://open.spotify.com/album/5JjZ6SGj9QdpNIqINYryDJ) | 3:21 | 2022-05-24 | 2022-05-28 |
 | [ピグマリオン](https://open.spotify.com/track/0rpOxMN9wo0iYdlT6q5yik) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ピグマリオン](https://open.spotify.com/album/6FxKYNWnLnNquosFco0msC) | 4:38 | 2022-08-16 | 2022-10-12 |
 | [フェアウェル](https://open.spotify.com/track/29eO1P0Pl8yD6oyrnvUNNw) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1) | [ファースト・ディケイド](https://open.spotify.com/album/4afJmYTlxOPCQ7NlOJyZsc) | 3:47 | 2022-10-05 | 2022-10-12 |
-| [フェノメナルマン](https://open.spotify.com/track/5kgEllLZhQRrQjG90PWH7r) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [フェノメナルマン](https://open.spotify.com/album/00v55UgAPns2pZv2NV0DZq) | 3:00 | 2023-04-18 |  |
+| [フェノメナルマン](https://open.spotify.com/track/5kgEllLZhQRrQjG90PWH7r) | [cinema staff](https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx) | [フェノメナルマン](https://open.spotify.com/album/00v55UgAPns2pZv2NV0DZq) | 3:00 | 2023-04-18 | 2023-04-20 |
 | [プログレッシブ](https://open.spotify.com/track/10v3G61N0AiAdSKH9r3h7m) | [Yutaka Furukawa](https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1) | [YF 下](https://open.spotify.com/album/2K5jyDDqgCrrdZgsLps6Pl) | 3:44 | 2022-05-19 | 2022-06-10 |
 | [ペンペン](https://open.spotify.com/track/30AYmvC7pCwHKJZFnPE0Mp) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [ペンペン](https://open.spotify.com/album/4KvWjVts1YRnAB3CrXVOyw) | 4:21 | 2022-07-05 | 2022-07-13 |
 | [ボクだけのもの](https://open.spotify.com/track/1aCb1rBREFcEg2AxohiDT5) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [ボクだけのもの](https://open.spotify.com/album/5CbGQF3FSum5qLoyhzncSX) | 6:28 | 2022-05-12 | 2022-06-17 |

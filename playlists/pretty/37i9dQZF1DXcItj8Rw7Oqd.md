@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcItj8Rw7Oqd.md) - [plain]
 
 > Pop x Rock\. Cover: Busted
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,741 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,749 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

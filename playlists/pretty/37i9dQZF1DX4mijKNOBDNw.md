@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 
 > Si tocan a una respondemos todas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,927 likes - 65 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,941 likes - 65 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 24 | [Despiertas](https://open.spotify.com/track/5WkuSNv40JXr0akquFaiEb) | [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ) | [Despiertas](https://open.spotify.com/album/0RC5h6BHyaYvmDwwi8M8Qu) | 2:51 |
 | 25 | [Alma de Cantaora](https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW) | [Amparo Sánchez](https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg) | [Alma de Cantaora](https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO) | 4:50 |
 | 26 | [Paren de Matarnos](https://open.spotify.com/track/4p048hM5kMxSLLcRiLtE0K) | [Miss Bolivia](https://open.spotify.com/artist/4xx3PjUWxXY0qEXUdDhrwx) | [Pantera](https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL) | 3:22 |
-| 27 | [Paracas Cavernas](https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Paracas Cavernas](https://open.spotify.com/album/0rYpO9guHXOLfNeuNPTqgk) | 4:28 |
-| 28 | [Gitanas](https://open.spotify.com/track/2GyKZ65PKJJ16ACMqnzC1y) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Gitanas](https://open.spotify.com/album/2S6OhCz266448hlUEzIduB) | 3:10 |
+| 27 | [Gitanas](https://open.spotify.com/track/2GyKZ65PKJJ16ACMqnzC1y) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Gitanas](https://open.spotify.com/album/2S6OhCz266448hlUEzIduB) | 3:10 |
+| 28 | [Paracas Cavernas](https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Paracas Cavernas](https://open.spotify.com/album/0rYpO9guHXOLfNeuNPTqgk) | 4:28 |
 | 29 | [Volando en la Nube](https://open.spotify.com/track/4kDO7SsBLzlXXNl1bKozFn) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Volando en la Nube](https://open.spotify.com/album/2dopJK4bzSHttm5bxMd495) | 3:11 |
 | 30 | [Libres](https://open.spotify.com/track/1XZ3fMlt3ajzDAPDkMqh6C) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Libres](https://open.spotify.com/album/1O16JRkcbct2LxYaanL3ye) | 3:41 |
 | 31 | [Se Quemó](https://open.spotify.com/track/4tbirX3tFHgyWmgfO9ZQC2) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [Pa'fuera y Pa'dentro](https://open.spotify.com/album/32MUPpQPG9ZkTXRRHXehUr) | 4:43 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mijKNOBDNw.md) - [plain]
 | 64 | [Tenemos Voz](https://open.spotify.com/track/6f8kxxFWgxesyVsrbHn0Sh) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7), [Soom T](https://open.spotify.com/artist/0Rb6PZXrcxvzixAwZwFmMu) | [SUELTA](https://open.spotify.com/album/4gya2mygWkDnmtzHDaWKlP) | 3:43 |
 | 65 | [Otra Humanidad](https://open.spotify.com/track/3eVZky3RqaMnVXZAXeCvws) | [Marta](https://open.spotify.com/artist/6gqr3AeZrJMU7J2alQlN8Q) | [Marta](https://open.spotify.com/album/0iH9r1Rzfa961VMQx9gFsR) | 3:27 |
 
-Snapshot ID: `MTY4MTQxNDUyOSwwMDAwMDAwMDU0MjI2Y2Q3ZThhNzg1OWNlYzA1MTg5YzMxMzc4MTI1`
+Snapshot ID: `MTY4MTQxNDUyOSwwMDAwMDAwMDAwNDAzODI5MDNlOGE0YjNlNWVmYmM0MzFhOWYxOTdj`

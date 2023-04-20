@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Odumodublvck",
-  "num_followers": 6391,
+  "num_followers": 6440,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ3NzY4NSwwMDAwMDAwMGE4Nzk3MDdiNjQ0NjYzZTkzY2QxYTJmZmY1NWEzMjY3",
+  "snapshot_id": "MTY4MTkxNzIxOCwwMDAwMDAwMDE2ZTVlY2E2MzgxYzI4MjQzN2MwOGYzOWRlMWQ2ODE3",
   "tracks": [
     {
       "added_at": "2023-04-14 13:08:05",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-04-14 13:08:05",
       "album": {
-        "name": "Korokoro",
-        "url": "https://open.spotify.com/album/72ET6Hb9KWaMWgsipSy90H"
-      },
-      "artists": [
-        {
-          "name": "Prettyboy D-O",
-          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Korokoro",
-      "url": "https://open.spotify.com/track/0Zf0e7O4nLaIq15SnhDI10"
-    },
-    {
-      "added_at": "2023-04-14 13:08:05",
-      "album": {
         "name": "It's Only Me",
         "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
       },
@@ -323,26 +307,6 @@
     {
       "added_at": "2023-04-14 13:08:05",
       "album": {
-        "name": "Princess Diana (with Nicki Minaj)",
-        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 172125,
-      "name": "Princess Diana (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
-    },
-    {
-      "added_at": "2023-04-14 13:08:05",
-      "album": {
         "name": "7220",
         "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
       },
@@ -363,22 +327,22 @@
     {
       "added_at": "2023-04-14 13:08:05",
       "album": {
-        "name": "HOTEL LOBBY (Unc & Phew)",
-        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
       },
       "artists": [
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         },
         {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 142657,
-      "name": "HOTEL LOBBY (Unc & Phew)",
-      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
     },
     {
       "added_at": "2023-04-14 13:08:05",
@@ -403,6 +367,26 @@
       "duration_ms": 173379,
       "name": "I Remember (feat. Roddy Ricch & Kodak Black)",
       "url": "https://open.spotify.com/track/7qAwnjc2qPbpK1gB4VRwXW"
+    },
+    {
+      "added_at": "2023-04-14 13:08:05",
+      "album": {
+        "name": "HOTEL LOBBY (Unc & Phew)",
+        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "duration_ms": 142657,
+      "name": "HOTEL LOBBY (Unc & Phew)",
+      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
     },
     {
       "added_at": "2023-04-14 13:08:05",
@@ -663,6 +647,34 @@
     {
       "added_at": "2023-04-14 13:08:05",
       "album": {
+        "name": "This Is What I Mean",
+        "url": "https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        },
+        {
+          "name": "Ms Banks",
+          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
+        }
+      ],
+      "duration_ms": 325333,
+      "name": "This Is What I Mean",
+      "url": "https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3"
+    },
+    {
+      "added_at": "2023-04-14 13:08:05",
+      "album": {
         "name": "Lemons (Lemonade)",
         "url": "https://open.spotify.com/album/0u9KNTzXg6rpDm3AYEBiIQ"
       },
@@ -695,34 +707,6 @@
       "duration_ms": 161699,
       "name": "Konongo Zongo",
       "url": "https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo"
-    },
-    {
-      "added_at": "2023-04-14 13:08:05",
-      "album": {
-        "name": "This Is What I Mean",
-        "url": "https://open.spotify.com/album/5feRs2ejrMcxuM5hcDDSBb"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        },
-        {
-          "name": "Ms Banks",
-          "url": "https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC"
-        }
-      ],
-      "duration_ms": 325333,
-      "name": "This Is What I Mean",
-      "url": "https://open.spotify.com/track/43qgiVrRWrxv0jhYRsJtm3"
     },
     {
       "added_at": "2023-04-14 13:08:05",
@@ -775,34 +759,6 @@
     {
       "added_at": "2023-04-14 13:08:05",
       "album": {
-        "name": "Levels (Explicit)",
-        "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Da Les",
-          "url": "https://open.spotify.com/artist/4on53ORBym2GEnRhIptZwy"
-        },
-        {
-          "name": "JR",
-          "url": "https://open.spotify.com/artist/1a0Wc4pzPAFe5ZFiL1glrr"
-        }
-      ],
-      "duration_ms": 258106,
-      "name": "All Eyes on Me (feat. Burna Boy, Da L.E.S. & JR)",
-      "url": "https://open.spotify.com/track/6oAWlzrEbXFis7Z0kyeX0h"
-    },
-    {
-      "added_at": "2023-04-14 13:08:05",
-      "album": {
         "name": "NO M\u00c1S (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
         "url": "https://open.spotify.com/album/1S9RtU8lIT4oTtaE4GFuNT"
       },
@@ -831,6 +787,34 @@
       "duration_ms": 196562,
       "name": "NO M\u00c1S (feat. Quavo, J. Balvin, Anitta, and Pharrell)",
       "url": "https://open.spotify.com/track/0ZWNQi6wgNjKFcQx6QuLm0"
+    },
+    {
+      "added_at": "2023-04-14 13:08:05",
+      "album": {
+        "name": "Levels (Explicit)",
+        "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Da Les",
+          "url": "https://open.spotify.com/artist/4on53ORBym2GEnRhIptZwy"
+        },
+        {
+          "name": "JR",
+          "url": "https://open.spotify.com/artist/1a0Wc4pzPAFe5ZFiL1glrr"
+        }
+      ],
+      "duration_ms": 258106,
+      "name": "All Eyes on Me (feat. Burna Boy, Da L.E.S. & JR)",
+      "url": "https://open.spotify.com/track/6oAWlzrEbXFis7Z0kyeX0h"
     },
     {
       "added_at": "2023-04-14 13:08:05",
@@ -971,26 +955,6 @@
     {
       "added_at": "2023-04-14 13:08:05",
       "album": {
-        "name": "In Da Car",
-        "url": "https://open.spotify.com/album/1DvFMj5C6pMKt0pebSlWhv"
-      },
-      "artists": [
-        {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
-        },
-        {
-          "name": "MHD",
-          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
-        }
-      ],
-      "duration_ms": 258320,
-      "name": "In Da Car",
-      "url": "https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13"
-    },
-    {
-      "added_at": "2023-04-14 13:08:05",
-      "album": {
         "name": "Oh Ma Linda",
         "url": "https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg"
       },
@@ -1015,6 +979,26 @@
       "duration_ms": 176770,
       "name": "Oh Ma Linda",
       "url": "https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6"
+    },
+    {
+      "added_at": "2023-04-14 13:08:05",
+      "album": {
+        "name": "In Da Car",
+        "url": "https://open.spotify.com/album/1DvFMj5C6pMKt0pebSlWhv"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        }
+      ],
+      "duration_ms": 258320,
+      "name": "In Da Car",
+      "url": "https://open.spotify.com/track/3UOg91DTKgZuWsYsV1Zn13"
     },
     {
       "added_at": "2023-04-14 13:08:05",
@@ -1255,6 +1239,26 @@
       "duration_ms": 161684,
       "name": "Pain Interlude",
       "url": "https://open.spotify.com/track/4X78TxqQ8EQXgEQDrWdSwS"
+    },
+    {
+      "added_at": "2023-04-14 13:08:05",
+      "album": {
+        "name": "Sex Over Love (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29SmW14aVvMvgUamIc8JNl"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Okwaraji (feat. Bella Shmurda) [Remix]",
+      "url": "https://open.spotify.com/track/1ouKW98AJhLvHsT08uvx4R"
     }
   ],
   "unique_name": "Hype List",

@@ -3993,6 +3993,24 @@
     },
     {
       "album": {
+        "name": "Rescued",
+        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258648,
+      "name": "Rescued",
+      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
+    },
+    {
+      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/5pq4qSf7QPmEu7F1IhhVmn"
       },

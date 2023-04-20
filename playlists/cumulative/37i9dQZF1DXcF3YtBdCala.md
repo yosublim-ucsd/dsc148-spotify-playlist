@@ -4,7 +4,7 @@
 
 > Jóvenes y renovadas expresiones de la bella tradición mexicana\. Paola Jara en portada.
 
-130 songs - 6 hr 54 min
+131 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Imborrable](https://open.spotify.com/track/3jNjhaqd0hDPHW8DFoufce) | [Chelo Ramírez](https://open.spotify.com/artist/5CrdWDm3mQfNI5vlPWyw3z) | [Imborrable](https://open.spotify.com/album/3A5prmtlMcT7DlMjAjTkCY) | 3:12 | 2022-10-14 | 2023-01-19 |
 | [La Despedida](https://open.spotify.com/track/2eBECLFWzlAHqJtEJhm5Ya) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [La Despedida](https://open.spotify.com/album/1OWsLICCRxbyWTZuE3xDvk) | 2:21 | 2023-01-20 |  |
 | [La Llorona](https://open.spotify.com/track/5AOEudcsj9BbSfDbRjxkpO) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [La Llorona](https://open.spotify.com/album/0vx6yN3peiZnWGIK3yxgZX) | 3:46 | 2022-10-28 |  |
-| [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 | 2022-10-14 |  |
+| [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 | 2022-10-14 | 2023-04-20 |
 | [La Muerte](https://open.spotify.com/track/57r6aaVaCxnOL9ntFEYySS) | [Miguelón Martínez](https://open.spotify.com/artist/5eTHk7xdW6Jf6RSEennGnz) | [La Muerte](https://open.spotify.com/album/1kXogJjit1w6TYkm7Thclz) | 2:18 | 2022-10-28 | 2022-12-08 |
 | [La Reina](https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [La Fuerza](https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5) | 3:48 | 2022-03-03 |  |
 | [La Siguiente](https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [La Siguiente](https://open.spotify.com/album/2ew2njzdzMchb0J1ocVLPH) | 3:22 | 2022-09-23 |  |
@@ -72,6 +72,7 @@
 | [Magia](https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg) | [Magia](https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB) | 2:37 | 2023-04-14 |  |
 | [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 | 2022-07-08 |  |
 | [Me lo vas a agradecer](https://open.spotify.com/track/0XNpmYRhxlgC8n7QeuwLTq) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Me lo vas a agradecer](https://open.spotify.com/album/4wmK6yBz7s8AyDW2hOcv3a) | 3:10 | 2022-10-28 | 2023-04-18 |
+| [Me Pase de Tragos](https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf) | [Alexis Escobar](https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98) | [Me Pase de Tragos](https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn) | 2:58 | 2023-04-14 |  |
 | [Me Tiré Al Alcohol](https://open.spotify.com/track/2OQfPlCayqoDQHVWJPwBlu) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Me Tiré Al Alcohol](https://open.spotify.com/album/2QcBvOJ8cSTo5EsQarzKTx) | 2:43 | 2023-02-13 |  |
 | [Me Vas A Perdonar](https://open.spotify.com/track/1wuJDqor4jIBEbpsPxp4dh) | [Zornoza](https://open.spotify.com/artist/7duoO1s42va1lka5TikCfu) | [Me Vas A Perdonar](https://open.spotify.com/album/36GNoydedha8CPi0Ncd1gz) | 3:13 | 2022-09-09 | 2022-10-29 |
 | [Mi Ego](https://open.spotify.com/track/07YArNoh8ZeQfnQc4sDXxB) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [México de Mi Corazón, Vol\. 2](https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY) | 3:23 | 2022-03-03 |  |

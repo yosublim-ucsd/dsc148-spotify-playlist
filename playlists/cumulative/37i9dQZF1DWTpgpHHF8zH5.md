@@ -4,7 +4,7 @@
 
 > Musica per sorridere, darti la carica e affrontare la giornata!
 
-278 songs - 14 hr 17 min
+279 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Kiss Me](https://open.spotify.com/track/2hFDO1f9t96wZZdQnn5ejI) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 3:49 | 2022-10-14 | 2022-11-22 |
 | [Kiss Me](https://open.spotify.com/track/7j1ZJAbcm4AMBf82jIrAH3) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:49 | 2022-10-27 |  |
 | [Kiss My \(Uh Oh\)](https://open.spotify.com/track/0MWiSBKm8Avs8iDIxcertp) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 2:56 | 2022-05-06 | 2023-03-14 |
-| [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/track/0LVjBdjZvJykxed42ExTLf) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/album/0MNpgjf367wpgf742ZkHGr) | 2:44 | 2023-04-17 |  |
+| [Ladada \(Mes Derniers Mots\)](https://open.spotify.com/track/0khptCzmJfroaZYnZfEIba) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Ladada \(Mes Derniers Mots\)](https://open.spotify.com/album/5HgNeY2G3BPUjX1CLrMUFe) | 2:45 | 2023-04-19 |  |
+| [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/track/0LVjBdjZvJykxed42ExTLf) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Ladada \(Mon Dernier Mot\)](https://open.spotify.com/album/0MNpgjf367wpgf742ZkHGr) | 2:44 | 2023-04-17 | 2023-04-20 |
 | [Lasting Lover](https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Lasting Lover](https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8) | 3:38 | 2022-05-06 |  |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-07-22 | 2022-08-24 |
 | [Lean On Me](https://open.spotify.com/track/5acSb48zFAcXTdL5Wsk8xx) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [HELLRAISERS, Part 1](https://open.spotify.com/album/5NXJVouKAFjwszJA8FxUY7) | 2:29 | 2022-07-22 | 2022-11-14 |

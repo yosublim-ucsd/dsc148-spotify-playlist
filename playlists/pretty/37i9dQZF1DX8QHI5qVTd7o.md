@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 
 > You know all the tracks, you just can't sing\-along\. Cover: Martin Garrix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,149 likes - 47 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,182 likes - 47 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sandstorm](https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Before the Storm, Special Edition](https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo) | 3:45 |
-| 2 | [Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children \(Dance Vault Mixes\)](https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC) | 4:03 |
-| 3 | [Pjanoo \- Radio Edit](https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Pjanoo](https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x) | 2:37 |
+| 2 | [Pjanoo \- Radio Edit](https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Pjanoo](https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x) | 2:37 |
+| 3 | [Children](https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc) | [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children \(Dance Vault Mixes\)](https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC) | 4:03 |
 | 4 | [Astronomia](https://open.spotify.com/track/3hWfKBt3n7j1xqIy6LA5ve) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia](https://open.spotify.com/album/2GgIFRPmPzyqajQKFABMFL) | 3:18 |
 | 5 | [Animals \- Radio Edit](https://open.spotify.com/track/65G7XDGcybJiGywSCXJiL5) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Animals](https://open.spotify.com/album/2fbj0gGFRAAtpnpDvIKO3V) | 2:56 |
 | 6 | [Tsunami](https://open.spotify.com/track/0vZCG0H9KhtU7K8MEUVAoV) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [Tsunami](https://open.spotify.com/album/7p38vlEZaMNySKQVSSWUm8) | 3:56 |
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8QHI5qVTd7o.md) - [plain]
 | 38 | [Snake](https://open.spotify.com/track/2kFCLPMtn29QkjjoZOXCK5) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Snake](https://open.spotify.com/album/4PQXsVrs27wnKkdF7nswo6) | 5:11 |
 | 39 | [Raise Your Hands](https://open.spotify.com/track/124SKRPqmogaZQ1XR7eomR) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Raise Your Hands](https://open.spotify.com/album/0tJued3NnimzvmRrE9A5Rn) | 4:29 |
 | 40 | [Reckless](https://open.spotify.com/track/45GtpfaI7fg7mSZBQTNJss) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Reckless](https://open.spotify.com/album/6RtNDAbbah1pa4IFdlAiNE) | 2:28 |
-| 41 | [Blow Your Mind](https://open.spotify.com/track/3vqWmOr3fIfBqh02ezS2lV) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Blow Your Mind](https://open.spotify.com/album/23gPWelTvT4xrs38Gc0IUG) | 5:54 |
-| 42 | [Resurrection \- Axwell Recut Radio Version](https://open.spotify.com/track/2DAxxGq7ozovsvgmccwHmC) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [Electronic Music Anthology Vol.4 \(by FG\)](https://open.spotify.com/album/7L2ZHZ0BrbnZu3pe4CuisU) | 2:45 |
+| 41 | [Resurrection \- Axwell Recut Radio Version](https://open.spotify.com/track/2DAxxGq7ozovsvgmccwHmC) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [Electronic Music Anthology Vol.4 \(by FG\)](https://open.spotify.com/album/7L2ZHZ0BrbnZu3pe4CuisU) | 2:45 |
+| 42 | [Blow Your Mind](https://open.spotify.com/track/3vqWmOr3fIfBqh02ezS2lV) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Blow Your Mind](https://open.spotify.com/album/23gPWelTvT4xrs38Gc0IUG) | 5:54 |
 | 43 | [Dead Mans Hand](https://open.spotify.com/track/4FVcGYFGstfGbL4aZZkqIc) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Dead Mans Hand](https://open.spotify.com/album/6Ge0sTvsG2N3QfBCxt4eIM) | 4:15 |
 | 44 | [The Power Of Now](https://open.spotify.com/track/4cDZTA6lEVEmtOxaLDUCWy) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy) | [Neon Future Odyssey](https://open.spotify.com/album/0gVmaYMzy3sehDULjCAMJZ) | 3:21 |
 | 45 | [Don't Give Up](https://open.spotify.com/track/27q6Z9Mo9GeeSHOHfO48gb) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE) | [Don't Give Up](https://open.spotify.com/album/1glRZozlvH9QbasNkSYyfy) | 5:21 |
 | 46 | [G.I.P.S.Y\. \- Radio Edit](https://open.spotify.com/track/4BLHQIfrGZX6VKAmCjJwaZ) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Boostedkids](https://open.spotify.com/artist/2PMTEy2vzCh81UZTpjK7fZ) | [G.I.P.S.Y.](https://open.spotify.com/album/7gMun8L9PaRORbVjsi4Bli) | 3:41 |
 | 47 | [Cake Face](https://open.spotify.com/track/2mhBN7yxNNqD8eODc5Cg73) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Neon Future Odyssey](https://open.spotify.com/album/0gVmaYMzy3sehDULjCAMJZ) | 6:11 |
 
-Snapshot ID: `MTY3Nzg1Mzc0MiwwMDAwMDAwMDJhN2RhMmIyMjNjNDQ2NDZhMzcxOTNkNzBjZDBhN2Zj`
+Snapshot ID: `MTY3Nzg1Mzc0MiwwMDAwMDAwMDUyNmQwYmVhNjAzNjY2N2MyYTZjYzAzMTNjZjY0OTRk`

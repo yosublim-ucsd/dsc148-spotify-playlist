@@ -4,7 +4,7 @@
 
 > Dulce jazz ideal para estudiar o relajarse.
 
-501 songs - 1 day 6 hr 53 min
+502 songs - 1 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,7 +305,7 @@
 | [Morii](https://open.spotify.com/track/25uH0QfCoOQ5Jw2c0rXGWf) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Morii](https://open.spotify.com/album/1ESEXNpgchtK0kal3g1lyo) | 3:48 | 2023-03-23 |  |
 | [Mornin](https://open.spotify.com/track/5lKkgKB4yZ6BW0Aps1CKcL) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Mornin](https://open.spotify.com/album/0A8eqNEbD3NkNb4ki7N2E0) | 2:33 | 2022-08-30 |  |
 | [Muddy Trail](https://open.spotify.com/track/7xi4NE5HjjIU4sjk2OP466) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Muddy Trail](https://open.spotify.com/album/0mQjoCyVFtEqpTbNjahd8J) | 3:40 | 2023-01-10 |  |
-| [My First Choice](https://open.spotify.com/track/5Hd1LiJmHktsqPpoEKhKGv) | [Halcyon Jazz Band](https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n) | [My First Choice](https://open.spotify.com/album/23DX1smryDu58RH0nxWHJx) | 3:44 | 2022-08-30 |  |
+| [My First Choice](https://open.spotify.com/track/5Hd1LiJmHktsqPpoEKhKGv) | [Halcyon Jazz Band](https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n) | [My First Choice](https://open.spotify.com/album/23DX1smryDu58RH0nxWHJx) | 3:44 | 2022-08-30 | 2023-04-20 |
 | [My first kiss](https://open.spotify.com/track/30VQy0OHXjam8lKkpsZF4Z) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [My first kiss](https://open.spotify.com/album/1Qhe73UDyVrdfpi6j3Ymnw) | 3:24 | 2023-03-16 |  |
 | [My Fortune](https://open.spotify.com/track/0jXPKgpfyYXEWNHVBSCJ4P) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [My Fortune](https://open.spotify.com/album/4FEMX7bMR5J0w3cRUXOoKJ) | 4:31 | 2022-10-07 |  |
 | [My Heart Stood Still](https://open.spotify.com/track/1QbgNds5Ye8BovkywTbliF) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [My Heart Stood Still](https://open.spotify.com/album/2gfF3mlpt7aEvSiSyi1CEj) | 4:06 | 2022-12-01 |  |
@@ -325,6 +325,7 @@
 | [New Shoes](https://open.spotify.com/track/1CsB9h88MSlYaQGzDTX9Al) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Lola and Kirby](https://open.spotify.com/album/7fqu9OmxRkQ9Vsmlj2xaKi) | 3:56 | 2022-09-29 | 2023-01-18 |
 | [Next Door Dreaming](https://open.spotify.com/track/7efC0wMGzDX0nsZX1dQodO) | [Rob Kasaki](https://open.spotify.com/artist/41EpNGSsN3YUU0KhLhJ7Uh) | [Next Door Dreaming](https://open.spotify.com/album/27GlvAjgPmmgXpZUBiYWjS) | 2:18 | 2022-06-28 | 2022-10-08 |
 | [Night Swimmer](https://open.spotify.com/track/2TaXpoVerMqrJxoEh1KjgS) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [Swallows](https://open.spotify.com/album/1oY3zKF2arpXsgJolpVemU) | 2:56 | 2022-06-28 |  |
+| [Nightfall](https://open.spotify.com/track/0pUJIrhpnvI1wneFmal7oG) | [David Parks & Silver](https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D) | [Nightfall](https://open.spotify.com/album/1NKqdrY5COQ2fE54U1Mxbh) | 3:12 | 2023-04-14 |  |
 | [Nimble](https://open.spotify.com/track/1zu9xkOabMyxkXvGutY0Tf) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Nimble](https://open.spotify.com/album/3TMKIfoKOKUfjOojRwV32p) | 3:33 | 2022-10-07 | 2023-03-20 |
 | [No Matter What](https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP) | [Bedford and 7th](https://open.spotify.com/artist/3bAXvct52qoTbMdHW4CYkE) | [No Matter What](https://open.spotify.com/album/0pBZHvaNc5YuCxCPsXoEiL) | 3:05 | 2022-06-28 | 2022-11-26 |
 | [Nostalgia](https://open.spotify.com/track/5CX7Ndfp4IJT94jdKSdair) | [Belmont Central](https://open.spotify.com/artist/0A1I0z7snq8RVRDjVA5qzE) | [Nostalgia](https://open.spotify.com/album/40TSaISQjPsgp7y10MtdwD) | 3:41 | 2023-02-23 |  |

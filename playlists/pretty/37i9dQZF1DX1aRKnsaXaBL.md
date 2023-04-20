@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 
 > Catching sunsets con indie rock de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 909 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 931 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 17 | [Llama Gemela](https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Llama Gemela](https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz) | 3:27 |
 | 18 | [Laguna](https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Laguna](https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS) | 3:42 |
 | 19 | [Sin Vos No Puedo](https://open.spotify.com/track/4jqu753tYcQ1MsoH9wXDSW) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 2:55 |
-| 20 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
-| 21 | [Insatisfecho](https://open.spotify.com/track/0QfPd5Z46l1bkDhl9ABV2x) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH) | [Pacific Jam At My Apartment](https://open.spotify.com/album/2U1uNbCDt2jDhZpd6bM4wn) | 3:05 |
+| 20 | [Insatisfecho](https://open.spotify.com/track/0QfPd5Z46l1bkDhl9ABV2x) | [PJAMA](https://open.spotify.com/artist/6rEnCeFGwNGiOuBhjOPMVH) | [Pacific Jam At My Apartment](https://open.spotify.com/album/2U1uNbCDt2jDhZpd6bM4wn) | 3:05 |
+| 21 | [DAMN!](https://open.spotify.com/track/1uGCxUV2OJngJan7DKjGCo) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [DAMN!](https://open.spotify.com/album/6ISGikUMrS710I2NF5Ityr) | 1:57 |
 | 22 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
 | 23 | [Levitando Lento](https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Levitando Lento](https://open.spotify.com/album/35erxSQT8lds419FlnC6WP) | 3:42 |
 | 24 | [Control](https://open.spotify.com/track/5YVwv9bfy4PX1uRhQUk1sO) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Why You?](https://open.spotify.com/album/1g1STbZaWPnAD4rabVe8tg) | 5:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 49 | [mi pobre angelito 2](https://open.spotify.com/track/5smZX3A2NyCZW2Kfmrvv4z) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [LOS FELIZ](https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ) | 2:41 |
 | 50 | [Nos Soltamos](https://open.spotify.com/track/5wiHLVINwcLi2x0G6IoIYL) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:34 |
 
-Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMGQyODY2NzQ1OWQwZTM5OGMwNTNjMzc3MWZhOTY2NjZm`
+Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDlmY2U5MTk1ZTM5NGFjNmM5YjJkNTliMTk4ZjM3NDQ5`

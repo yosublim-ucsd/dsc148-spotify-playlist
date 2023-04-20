@@ -4,7 +4,7 @@
 
 > next gen pop Cover: Lauren Spencer Smith, GAYLE & Em Beihold
 
-1,431 songs - 2 day 21 hr 31 min
+1,432 songs - 2 day 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,7 +433,7 @@
 | [First Time](https://open.spotify.com/track/2eFjKl5cyPPYElDByCh6Tb) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [First Time](https://open.spotify.com/album/6GwqbWxgikcrhZn8M2M7sc) | 2:45 | 2021-03-14 | 2021-05-08 |
 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 | 2021-08-21 | 2021-09-17 |
 | [Float Through The Ceiling](https://open.spotify.com/track/7aYv3jUbXvySVnHgVwXoaJ) | [DWLLRS](https://open.spotify.com/artist/2TviQllPVEQ7E68Yr4uPKR) | [Float Through The Ceiling](https://open.spotify.com/album/4royMykJ55TjzXJhHQhiv6) | 2:45 | 2022-02-18 | 2022-03-12 |
-| [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2023-03-31 |  |
+| [FLOWER](https://open.spotify.com/track/69CrOS7vEHIrhC2ILyEi0s) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:53 | 2023-03-31 | 2023-04-20 |
 | [Flowers](https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Flowers](https://open.spotify.com/album/0RPeItB8kHKwmYhKAJ8ceq) | 2:34 | 2021-08-25 | 2021-09-17 |
 | [Flowers](https://open.spotify.com/track/6Z165JvPnS8PYvGW8oLGLc) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Flowers](https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV) | 2:37 | 2022-04-15 | 2022-06-25 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-13 |  |
@@ -625,7 +625,7 @@
 | [I know it won't work](https://open.spotify.com/track/5FGDtm3MXJe8LikBkOJnOQ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:05 | 2023-02-24 |  |
 | [I Like That](https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I Like That](https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI) | 2:38 | 2021-07-24 | 2021-09-28 |
 | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/track/6CpeA8nhcJO9zdRsrJwLE8) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A), [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [I Love You But I Love Me More \(feat\. Beach Bunny\)](https://open.spotify.com/album/1ipdV8VnA9dM2F0ay2zd8R) | 3:42 | 2021-10-23 | 2022-01-08 |
-| [i loved a boy](https://open.spotify.com/track/7fDBvYEvsInjsVWsnlWC0d) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [i loved a boy](https://open.spotify.com/album/6YwhtYV8vYjaJzA7Df4mHi) | 2:25 | 2023-03-31 | 2023-04-15 |
+| [i loved a boy](https://open.spotify.com/track/7fDBvYEvsInjsVWsnlWC0d) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [i loved a boy](https://open.spotify.com/album/6YwhtYV8vYjaJzA7Df4mHi) | 2:25 | 2023-03-31 |  |
 | [I LUV MY BRAIN!](https://open.spotify.com/track/4a4vsF2INcqVGJrZFJjKzT) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [I LUV MY BRAIN!](https://open.spotify.com/album/5YYOpMinate3dcRa8OrChw) | 2:59 | 2022-05-06 | 2022-05-20 |
 | [I LUV U](https://open.spotify.com/track/1f4hiNCEGip1N4B6QjCAJm) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [I LUV U](https://open.spotify.com/album/1u14LWDFohYHEqptZhDo8i) | 2:20 | 2022-08-12 | 2022-09-24 |
 | [I Might Die \(feat\. Chloe Lilac\)](https://open.spotify.com/track/4GTqvaOC6rlnjHOPqqZ5jm) | [Ricky Himself](https://open.spotify.com/artist/5vz4AsHBUwAQ7qrhG5yyBS), [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [I Might Die](https://open.spotify.com/album/23eTF19CMMNNFCrkWxX6k9) | 3:09 | 2021-10-02 | 2021-10-16 |
@@ -967,7 +967,7 @@
 | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/0YpaoMOUSP3jwZ4RgqNESG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [OPEN A WINDOW \(feat\. Tyler, The Creator\)](https://open.spotify.com/album/48jLx1BQeDpojpNweMzlMf) | 3:38 | 2022-03-11 | 2022-04-02 |
 | [Open Your Mouth](https://open.spotify.com/track/0XTwdAwoJdlIdxrl6PHiqr) | [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [Open Your Mouth](https://open.spotify.com/album/5ccNwRNfspClWtjcNNvxCP) | 3:39 | 2021-07-12 | 2021-07-28 |
 | [Out Of My League](https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Out Of My League](https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9) | 3:01 | 2023-04-14 |  |
-| [Out Of Reach](https://open.spotify.com/track/5nXCKYd6lt9gO7AhZPv6Wh) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Out Of Reach](https://open.spotify.com/album/3qEUVlXwc4OZyyRolK3zOG) | 2:44 | 2023-04-07 |  |
+| [Out Of Reach](https://open.spotify.com/track/5nXCKYd6lt9gO7AhZPv6Wh) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Out Of Reach](https://open.spotify.com/album/3qEUVlXwc4OZyyRolK3zOG) | 2:44 | 2023-04-07 | 2023-04-20 |
 | [Over](https://open.spotify.com/track/7nsbjMmpZ25xKoezhsfF6c) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Over](https://open.spotify.com/album/5fumJzv60RdUfCety5IHe5) | 2:33 | 2021-03-26 | 2021-05-29 |
 | [Over Tonight](https://open.spotify.com/track/5tvVcsc5voPglTZi7gLtX4) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Over Tonight](https://open.spotify.com/album/5hKlB85QrOwDKbgHGzKVFk) | 3:20 | 2023-01-13 | 2023-02-11 |
 | [Overdrive](https://open.spotify.com/track/3QyoC6OvQUmpQwQZ18iaTs) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Overdrive](https://open.spotify.com/album/0DvIDMUOMaaVbXfDVt8jZS) | 3:03 | 2021-02-19 | 2021-05-22 |
@@ -1086,6 +1086,7 @@
 | [Self Sabotage](https://open.spotify.com/track/60YeZiwow3kKAPvfyolXn6) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Self Sabotage](https://open.spotify.com/album/1lGuRcwJrSPtneek0Vz7W1) | 3:03 | 2022-05-06 | 2022-07-13 |
 | [self sabotage](https://open.spotify.com/track/7A2TOQVHBgIiqmhtP0yC0L) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [self sabotage](https://open.spotify.com/album/4xKRxemLXX5dxv5dRlZu85) | 3:40 | 2022-04-29 | 2022-07-23 |
 | [Self Sabotage](https://open.spotify.com/track/7e0OGRhftSRlGcMW73PFId) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Self Sabotage](https://open.spotify.com/album/2kX5lTEVdTYanDpsutTZSE) | 2:32 | 2021-08-28 | 2021-09-25 |
+| [Self\-Portrait](https://open.spotify.com/track/0vcCSUW0GskE8uN2xdj60f) | [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Self\-Portrait](https://open.spotify.com/album/6knL6sodlU2l6vZKbD33e0) | 2:21 | 2023-04-19 |  |
 | [Sensitive Subject](https://open.spotify.com/track/2ZtEW8JaHmUmu85Rqd5lWi) | [Grey Zeigler](https://open.spotify.com/artist/7KPQ1gyjGeNrDCySwrXAhI) | [Sensitive Subject](https://open.spotify.com/album/3yIVjEUIZMCieIcJywAkfT) | 2:22 | 2022-02-28 | 2022-07-23 |
 | [Serial Heartbreaker](https://open.spotify.com/track/1UmFLqmTmgHoSyvss6Q7gw) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:13 | 2022-09-16 | 2022-12-10 |
 | [Serotonin](https://open.spotify.com/track/1q2Zb0v5ZGxKDktEz7wSPb) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Serotonin](https://open.spotify.com/album/7Dv5bbo8oZ0KTrXG6CkeUO) | 3:02 | 2021-03-06 | 2021-06-05 |
@@ -1348,7 +1349,7 @@
 | [Violent](https://open.spotify.com/track/7CFfqRW50ffULvBv7lfIIg) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Violent](https://open.spotify.com/album/5wf6uZP8SBgXlNkbIFNQJ1) | 2:15 | 2021-02-16\* | 2021-04-10 |
 | [virtual reality](https://open.spotify.com/track/7wWqAGY1k2cr1ntffgBBH1) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [virtual reality](https://open.spotify.com/album/3I8QGm5k3zW9MU5alzXI2c) | 2:41 | 2021-02-26 | 2021-04-10 |
 | [Vitamins](https://open.spotify.com/track/1b4bVlE2c1Sef4IXDrTiEf) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Vitamins](https://open.spotify.com/album/5OmRWEVKq80g4fPdsARTS5) | 2:28 | 2022-04-01 | 2022-04-29 |
-| [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:10 | 2023-03-29 |  |
+| [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:07 | 2023-03-29 |  |
 | [W.I.T.C.H.](https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [W.I.T.C.H.](https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b) | 2:12 | 2022-07-07 | 2023-03-11 |
 | [Waiting Game](https://open.spotify.com/track/6AGmPgPDllC5CWzKFR2xLt) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [Waiting Game](https://open.spotify.com/album/7ALXdmY9yM6JvPZgyM7YxT) | 3:37 | 2021-09-04 | 2021-09-17 |
 | [Walk Backwards](https://open.spotify.com/track/4HtwantcVnMCOzGmiyeGmT) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Walk Backwards](https://open.spotify.com/album/0ti1WWYsz8tMMYupwHag7b) | 2:33 | 2021-02-16\* | 2021-03-06 |

@@ -1,20 +1,24 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 745619,
+  "num_followers": 745688,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGNiOTdhMmMwNTExYzc2NDExMzg1NGY4MDU5NDNhYWNk",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGRlZGRhYzZlMzg2ZmI5NDVkYTFkMTc2MzYzZWUxNjdm",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "For Granted (feat. Arin Ray & 9th Wonder)",
-        "url": "https://open.spotify.com/album/5l1oWPwn5OqgbbBLyCrU05"
+        "name": "Enigmatic Society",
+        "url": "https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe"
       },
       "artists": [
+        {
+          "name": "Dinner Party",
+          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
+        },
         {
           "name": "Terrace Martin",
           "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
@@ -28,17 +32,17 @@
           "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
         },
         {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        },
-        {
           "name": "9th Wonder",
           "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
         }
       ],
       "duration_ms": 172000,
-      "name": "For Granted (feat. Arin Ray & 9th Wonder)",
-      "url": "https://open.spotify.com/track/0IT1pmbYjQjoU0IUMVZ6XU"
+      "name": "For Granted (feat. Arin Ray)",
+      "url": "https://open.spotify.com/track/39RJfDkli3BkEsW6LN4DrZ"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -659,22 +663,6 @@
     {
       "added_at": "2022-03-11 05:00:00",
       "album": {
-        "name": "Good Morning Gorgeous",
-        "url": "https://open.spotify.com/album/0mDZswykT2LDXe3YGWZgbc"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 174728,
-      "name": "Good Morning Gorgeous",
-      "url": "https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
         "name": "Collide (From \"Queen & Slim: The Soundtrack\")",
         "url": "https://open.spotify.com/album/0Y9i5YM95iEHAQpppUN76A"
       },
@@ -691,6 +679,22 @@
       "duration_ms": 205453,
       "name": "Collide - From \"Queen & Slim: The Soundtrack\"",
       "url": "https://open.spotify.com/track/1mEO3xiJqEWXYIdZalDzHR"
+    },
+    {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Good Morning Gorgeous",
+        "url": "https://open.spotify.com/album/0mDZswykT2LDXe3YGWZgbc"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 174728,
+      "name": "Good Morning Gorgeous",
+      "url": "https://open.spotify.com/track/77z6mJeFcHlRWVfbOdBCtc"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -837,22 +841,6 @@
       "url": "https://open.spotify.com/track/31YudjfCQCpRYDeDMskWGh"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Closer (Deluxe)",
-        "url": "https://open.spotify.com/album/6rByiyStzXd3JzGaVL8KTj"
-      },
-      "artists": [
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        }
-      ],
-      "duration_ms": 234144,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/10JP2PrHstD8gQHeui3teP"
-    },
-    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "What It Is",
@@ -867,6 +855,22 @@
       "duration_ms": 325105,
       "name": "What It Is",
       "url": "https://open.spotify.com/track/2CJfHjywgcczXQi6Dosw8Q"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Closer (Deluxe)",
+        "url": "https://open.spotify.com/album/6rByiyStzXd3JzGaVL8KTj"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "duration_ms": 234144,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/10JP2PrHstD8gQHeui3teP"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -957,20 +961,40 @@
       "url": "https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk"
     },
     {
-      "added_at": "2022-11-04 04:00:00",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Why (Spare Me Tears)",
-        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
+        "name": "Enigmatic Society",
+        "url": "https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe"
       },
       "artists": [
         {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+          "name": "Dinner Party",
+          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
+        },
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        },
+        {
+          "name": "Phoelix",
+          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
         }
       ],
-      "duration_ms": 205229,
-      "name": "Why (Spare Me Tears)",
-      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
+      "duration_ms": 164693,
+      "name": "Can't Go (feat. Phoelix)",
+      "url": "https://open.spotify.com/track/0TuuzZDwssPfVQvgubXsYV"
     },
     {
       "added_at": "2022-10-03 05:27:10",
@@ -987,6 +1011,22 @@
       "duration_ms": 253527,
       "name": "Sweet Blue",
       "url": "https://open.spotify.com/track/6UOruoEj8UAA9iEtjbjJra"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Why (Spare Me Tears)",
+        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 205229,
+      "name": "Why (Spare Me Tears)",
+      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1039,42 +1079,6 @@
       "duration_ms": 195082,
       "name": "Changed",
       "url": "https://open.spotify.com/track/3DU1AMXRg8IkrvAMg6odMt"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Enigmatic Society",
-        "url": "https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe"
-      },
-      "artists": [
-        {
-          "name": "Dinner Party",
-          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
-        },
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Kamasi Washington",
-          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
-        },
-        {
-          "name": "9th Wonder",
-          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
-        },
-        {
-          "name": "Phoelix",
-          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
-        }
-      ],
-      "duration_ms": 164693,
-      "name": "Can't Go (feat. Phoelix)",
-      "url": "https://open.spotify.com/track/0TuuzZDwssPfVQvgubXsYV"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1261,6 +1265,22 @@
       "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
     },
     {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH"
+      },
+      "artists": [
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        }
+      ],
+      "duration_ms": 270031,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "The Piano Album",
@@ -1279,22 +1299,6 @@
       "duration_ms": 244620,
       "name": "How Deep Is Your Love - Acoustic Version",
       "url": "https://open.spotify.com/track/1iovqTYo2kvTWRGhRQPDPV"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH"
-      },
-      "artists": [
-        {
-          "name": "NNAVY",
-          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
-        }
-      ],
-      "duration_ms": 270031,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -1333,6 +1337,22 @@
       "url": "https://open.spotify.com/track/2pQb0GnMbJHdUJu5dIQ3hw"
     },
     {
+      "added_at": "2022-10-03 05:27:10",
+      "album": {
+        "name": "Pineapple Cognac",
+        "url": "https://open.spotify.com/album/29R9YV27YP2ZZI7P8x58mM"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 134166,
+      "name": "Pineapple Cognac",
+      "url": "https://open.spotify.com/track/6WWBltBaOkJ7qpcNVO4jeV"
+    },
+    {
       "added_at": "2022-09-23 04:06:59",
       "album": {
         "name": "Wanderlust",
@@ -1351,22 +1371,6 @@
       "duration_ms": 239815,
       "name": "H.I.",
       "url": "https://open.spotify.com/track/0mGuqhdpKtKv6KajTmCLFI"
-    },
-    {
-      "added_at": "2022-10-03 05:27:10",
-      "album": {
-        "name": "Pineapple Cognac",
-        "url": "https://open.spotify.com/album/29R9YV27YP2ZZI7P8x58mM"
-      },
-      "artists": [
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 134166,
-      "name": "Pineapple Cognac",
-      "url": "https://open.spotify.com/track/6WWBltBaOkJ7qpcNVO4jeV"
     },
     {
       "added_at": "2022-08-26 04:46:22",
@@ -1421,6 +1425,22 @@
       "url": "https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K"
     },
     {
+      "added_at": "2022-10-03 05:27:10",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 370213,
+      "name": "Music",
+      "url": "https://open.spotify.com/track/6Watx1YhBZeISowqXK3YGq"
+    },
+    {
       "added_at": "2023-03-03 05:39:26",
       "album": {
         "name": "Aged Eyes",
@@ -1439,22 +1459,6 @@
       "duration_ms": 246400,
       "name": "Aged Eyes",
       "url": "https://open.spotify.com/track/7xtWxotWjZAFB1rw5J3HHz"
-    },
-    {
-      "added_at": "2022-10-03 05:27:10",
-      "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 370213,
-      "name": "Music",
-      "url": "https://open.spotify.com/track/6Watx1YhBZeISowqXK3YGq"
     },
     {
       "added_at": "2023-02-10 05:00:00",
@@ -1509,22 +1513,6 @@
       "url": "https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "God Herself",
-        "url": "https://open.spotify.com/album/4gD5t8iVHYQSNLPd43u58H"
-      },
-      "artists": [
-        {
-          "name": "Madison McFerrin",
-          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
-        }
-      ],
-      "duration_ms": 152405,
-      "name": "God Herself",
-      "url": "https://open.spotify.com/track/10bH3xbZFCRWpOLecfKpLe"
-    },
-    {
       "added_at": "2023-04-07 04:00:00",
       "album": {
         "name": "Kaleidoscope",
@@ -1539,6 +1527,22 @@
       "duration_ms": 199903,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "God Herself",
+        "url": "https://open.spotify.com/album/4gD5t8iVHYQSNLPd43u58H"
+      },
+      "artists": [
+        {
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
+        }
+      ],
+      "duration_ms": 152405,
+      "name": "God Herself",
+      "url": "https://open.spotify.com/track/10bH3xbZFCRWpOLecfKpLe"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1613,22 +1617,6 @@
       "url": "https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT"
     },
     {
-      "added_at": "2022-08-26 04:46:22",
-      "album": {
-        "name": "Thee Sacred Souls",
-        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Love Comes Easy",
-      "url": "https://open.spotify.com/track/4hj7jCslc9kgnOhl9fqOsN"
-    },
-    {
       "added_at": "2022-11-18 18:12:42",
       "album": {
         "name": "I'll Wait",
@@ -1645,6 +1633,22 @@
       "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
     },
     {
+      "added_at": "2022-08-26 04:46:22",
+      "album": {
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Love Comes Easy",
+      "url": "https://open.spotify.com/track/4hj7jCslc9kgnOhl9fqOsN"
+    },
+    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Go b/w Fight Club",
@@ -1659,6 +1663,22 @@
       "duration_ms": 206396,
       "name": "Go",
       "url": "https://open.spotify.com/track/7ht3l8ueUXW2SmD4o2lOV1"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/2GZLxm0djV5NUNdes4kYv0"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 156622,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/4UZxlB4kClh746mupKTDer"
     },
     {
       "added_at": "2022-10-28 07:50:50",
@@ -1713,20 +1733,20 @@
       "url": "https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5"
     },
     {
-      "added_at": "2022-09-30 04:06:57",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "without you",
-        "url": "https://open.spotify.com/album/003wacHGqIo43x8Qsetg7z"
+        "name": "AM/FM",
+        "url": "https://open.spotify.com/album/5C7wsbtvtoVg24iVKGqSD1"
       },
       "artists": [
         {
-          "name": "Secily",
-          "url": "https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2"
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
         }
       ],
-      "duration_ms": 176065,
-      "name": "without you",
-      "url": "https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV"
+      "duration_ms": 165752,
+      "name": "AM/FM",
+      "url": "https://open.spotify.com/track/5PCW8qWmZfqBhs5UmuG5wU"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -1753,24 +1773,20 @@
       "url": "https://open.spotify.com/track/7jLsZNfZHaUfWtdQw5tmvK"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
+      "added_at": "2022-09-30 04:06:57",
       "album": {
-        "name": "Brand New Life",
-        "url": "https://open.spotify.com/album/6Vwe5sledpijPPJGg8HyGE"
+        "name": "without you",
+        "url": "https://open.spotify.com/album/003wacHGqIo43x8Qsetg7z"
       },
       "artists": [
         {
-          "name": "Brandee Younger",
-          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
-        },
-        {
-          "name": "Mumu Fresh",
-          "url": "https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD"
+          "name": "Secily",
+          "url": "https://open.spotify.com/artist/32eZd7DKXr4eQTWqWRHGe2"
         }
       ],
-      "duration_ms": 272323,
-      "name": "Brand New Life (feat. Mumu Fresh)",
-      "url": "https://open.spotify.com/track/6SGBrgYMtDQfjTb1GXfBSK"
+      "duration_ms": 176065,
+      "name": "without you",
+      "url": "https://open.spotify.com/track/25mOPkAn5kz8vqi6Oh6rLV"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1789,36 +1805,24 @@
       "url": "https://open.spotify.com/track/3fMDMQEcEFW4LV7P6oay3b"
     },
     {
-      "added_at": "2022-11-18 18:12:42",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "FOREVER",
-        "url": "https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1"
+        "name": "Brand New Life",
+        "url": "https://open.spotify.com/album/6Vwe5sledpijPPJGg8HyGE"
       },
       "artists": [
         {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 240048,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk"
-    },
-    {
-      "added_at": "2022-09-09 04:08:19",
-      "album": {
-        "name": "Angels & Queens",
-        "url": "https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK"
-      },
-      "artists": [
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        },
         {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+          "name": "Mumu Fresh",
+          "url": "https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD"
         }
       ],
-      "duration_ms": 199796,
-      "name": "Angels & Queens",
-      "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
+      "duration_ms": 272323,
+      "name": "Brand New Life (feat. Mumu Fresh)",
+      "url": "https://open.spotify.com/track/6SGBrgYMtDQfjTb1GXfBSK"
     }
   ],
   "unique_name": "Soul Coffee",

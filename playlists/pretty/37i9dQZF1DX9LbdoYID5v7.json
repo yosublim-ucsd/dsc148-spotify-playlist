@@ -1,12 +1,12 @@
 {
   "description": "Music that created modern indie as we know it. Cover: MGMT ",
-  "num_followers": 402530,
+  "num_followers": 401988,
   "original_name": "The 2000s Indie Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzkwODEwOSwwMDAwMDAwMDdhMTFiMzFhMDRlMWFhZDI0NjFkOTVmNjUxMzZkMTlk",
+  "snapshot_id": "MTY3NzkwODEwOSwwMDAwMDAwMDk4YTE2YmI4MDhjNDZkZTQ4NTk4ZmJjOTE4ZTY1ZTg0",
   "tracks": [
     {
       "added_at": "2023-01-18 01:04:44",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "The Satanic Satanist",
-        "url": "https://open.spotify.com/album/72uoxpSaDs7keunx3LbvrX"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 179360,
-      "name": "People Say",
-      "url": "https://open.spotify.com/track/0WTq8iUzSlGDAbowEdRKKD"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
         "name": "Santigold",
         "url": "https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 204906,
       "name": "L.E.S. Artistes",
       "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
+        "name": "The Satanic Satanist",
+        "url": "https://open.spotify.com/album/72uoxpSaDs7keunx3LbvrX"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 179360,
+      "name": "People Say",
+      "url": "https://open.spotify.com/track/0WTq8iUzSlGDAbowEdRKKD"
     },
     {
       "added_at": "2023-01-18 01:04:44",

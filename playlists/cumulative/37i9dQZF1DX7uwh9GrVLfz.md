@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: ニーハオ!!!! \(ni\-hao!!!!\)
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: Hi\-STANDARD
 
-537 songs - 1 day 5 hr 12 min
+540 songs - 1 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [I Want to Be Wrong](https://open.spotify.com/track/55kk1gFvPshLGQi9rW3si6) | [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP) | [A Tribute To NO USE FOR A NAME](https://open.spotify.com/album/3RHnxCI12A7417md6Fsc5l) | 2:41 | 2022-06-21 | 2022-07-18 |
 | [I want to go out](https://open.spotify.com/track/0lrSr2OCVLI3JTs20Eytod) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [I want to go out](https://open.spotify.com/album/5RzoB8xXx2PZ6D7ZEXLjlW) | 3:23 | 2023-03-21 | 2023-03-29 |
 | [I Won't Turn Off My Radio](https://open.spotify.com/track/3S5wLtvGJJlPMaMHuYxWiu) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Sentimental Trash](https://open.spotify.com/album/0MkMu4in0oa1AYsGX10O3C) | 3:33 | 2022-05-12 | 2022-07-28 |
+| [I'm A Rat](https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'm A Rat](https://open.spotify.com/album/7E7uf3z4a1ijeLMTX841vE) | 2:04 | 2023-04-19 |  |
 | [I'm Outstripped](https://open.spotify.com/track/6B5iD68uJ9y5GeT9e1owAI) | [OLD SCHOOL](https://open.spotify.com/artist/568OoWJTmExiW0OWpDEZqo) | [I Keep The Fire Alive](https://open.spotify.com/album/1TjcNKyJslwy1g9Z3MWdAr) | 3:11 | 2022-05-12 | 2022-06-25 |
 | [IF I Could](https://open.spotify.com/track/39dIa1CWSiVQme195v0mdO) | [OWEAK](https://open.spotify.com/artist/6upXl7zerJtB7IDMcPrl21) | [At Nightfall](https://open.spotify.com/album/6friLA3zsuTIwhUAFl6OWI) | 2:16 | 2022-05-31 | 2022-07-26 |
 | [INDIE MANNERS COLLECTIVE](https://open.spotify.com/track/58SMHxrvd06350OdteKmQ0) | [Someday's Gone](https://open.spotify.com/artist/79SvxaP9S35Y7A5R9IPYgx) | [INDIE MANNERS COLLECTIVE](https://open.spotify.com/album/0k3w60tGFB6KrTgE4J2Ywt) | 3:43 | 2022-07-19 | 2022-08-10 |
@@ -182,7 +183,8 @@
 | [LIGHT AND SHADOW](https://open.spotify.com/track/1s082mgoEEsahrOBoPQSFu) | [Hawaiian6](https://open.spotify.com/artist/5uZU1Q2bJFoFAqq1FcF1pw) | [SOULS](https://open.spotify.com/album/3uxRIkRdH2sKNoEMqEYK7t) | 2:09 | 2022-05-17 | 2022-07-29 |
 | [Look Back in Anger](https://open.spotify.com/track/7wMDLzxtaAcshebbQsacFn) | [TsuShiMaMiRe](https://open.spotify.com/artist/2sfE9wBQnqpFNgWZnL06fd) | [Look Back in Anger](https://open.spotify.com/album/1PcdkMR2ta8lbLnelAl4WB) | 4:33 | 2022-11-01 | 2022-12-14 |
 | [LOSERS WIN LAST](https://open.spotify.com/track/6ZYpueou9LMzTm2qAy0T8G) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [SMILE](https://open.spotify.com/album/5MpZ339ChGKMvQ8umDo1n6) | 2:14 | 2022-06-28 | 2022-07-17 |
-| [Love song](https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1) | 2:33 | 2023-04-18 |  |
+| [Love song](https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1) | 2:33 | 2023-04-18 | 2023-04-20 |
+| [Love song](https://open.spotify.com/track/4gtuaF2M5Lpl5EYSdAA3Th) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [Yours](https://open.spotify.com/album/2tHhRVVI82FOCr0nEujtsY) | 2:33 | 2023-04-19 |  |
 | [Lyin' Ass Bitch](https://open.spotify.com/track/5kgoZGkBpXfmOWdfjUA4Tx) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS) | [Lyin' Ass Bitch](https://open.spotify.com/album/6gGMooIW9FGPLa5c5XOxmK) | 4:14 | 2022-07-19 | 2022-09-15 |
 | [Lyin' Ass Bitch](https://open.spotify.com/track/2OaRpaOjDXXrExzWADia0L) | [SCAFULL KING](https://open.spotify.com/artist/2tIt3Fx2TGWQqdz6uyDHmS), [Kaela Kimura](https://open.spotify.com/artist/56Eer6ASRcE4aJHJwejTuN) | [doubt!](https://open.spotify.com/album/2cGhirXNELjlW5NhPBxdSp) | 4:15 | 2022-05-12 | 2022-07-29 |
 | [MAGIC](https://open.spotify.com/track/0xzMBFXtfeE7JnFZ6YTj0P) | [Hawaiian6](https://open.spotify.com/artist/5uZU1Q2bJFoFAqq1FcF1pw) | [ACROSS THE ENDING](https://open.spotify.com/album/51YAgLPtd8otx1GU4GbP2Z) | 2:52 | 2022-07-21 |  |
@@ -339,7 +341,7 @@
 | [Tenshi no Rock](https://open.spotify.com/track/39Fk6WLmjFBjXx6D6pIg2f) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/6EjpgYYtbyZbtLzXQmfBm9) | 3:18 | 2023-02-21 | 2023-03-08 |
 | [Thanks](https://open.spotify.com/track/5NVZ8qhpvBM2ni14PcL6Gs) | [OVER ARM THROW](https://open.spotify.com/artist/6NXGRhQFf3sfHqKnIDHrGL) | [Oath and Night War](https://open.spotify.com/album/7dVt1eGWmxrAL3pg0IcdfC) | 2:48 | 2022-05-12 | 2022-07-29 |
 | [Thanks](https://open.spotify.com/track/6AAJi0tGZxjbLKK2fIuZkU) | [Over Arm Throw](https://open.spotify.com/artist/0ULdhIbhpUx97klXlmINML) | [Oath and Night War](https://open.spotify.com/album/3DpriibTdXfiioI41LKUxS) | 2:48 | 2022-07-21 | 2022-12-08 |
-| [The Dream Is Not Dead](https://open.spotify.com/track/45YAIPPE3My3zoqOJJnLc8) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [DREAMS NEVER END](https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD) | 3:23 | 2022-05-12 |  |
+| [The Dream Is Not Dead](https://open.spotify.com/track/45YAIPPE3My3zoqOJJnLc8) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [DREAMS NEVER END](https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD) | 3:23 | 2022-05-12 | 2023-04-20 |
 | [The Fighter](https://open.spotify.com/track/6xb0Dr4ACMuLH2jX8N3CKk) | [AIRFLIP](https://open.spotify.com/artist/5YrGfYzRpGFloZHiS0366z) | [RED](https://open.spotify.com/album/6U5uCCIxTZ1sJjJu2oBMoX) | 2:35 | 2022-05-19 | 2022-07-26 |
 | [The Gift](https://open.spotify.com/track/3fvPawYrM5Mz5lacbZI2US) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/6tSVeeeeJkdMN6mIV4UqsD) | 2:22 | 2022-07-21 |  |
 | [The Gift](https://open.spotify.com/track/7DTQOBUV8zMErJfPkf4zVr) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/0X8NMXBEiGQIRSehZzsXJd) | 2:22 | 2022-05-19 | 2022-07-26 |
@@ -389,6 +391,7 @@
 | [YELLOW](https://open.spotify.com/track/17uHwqgjol5Yszx6PrdE6z) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [YELLOW](https://open.spotify.com/album/3rU1y1VZundBvMRyLd2n47) | 2:48 | 2022-06-02 | 2022-07-23 |
 | [YES](https://open.spotify.com/track/7t4aDuE9jG3HIdnFL6pjkP) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [YES](https://open.spotify.com/album/638FZbjRqSA9uC5Axw9Zyz) | 1:21 | 2022-05-24 | 2022-07-27 |
 | [YOU'RE MY FRIEND](https://open.spotify.com/track/6z0ur2QkD9cLh96x4mH5R2) | [NAMBA69](https://open.spotify.com/artist/3ZHCgdbzqHYDjPTVZG87gs) | [YOU'RE MY FRIEND](https://open.spotify.com/album/1oF4xfSko2D8aI5EvBodi5) | 3:08 | 2022-05-12 | 2022-07-24 |
+| [Yumedeaetara](https://open.spotify.com/track/36oQKxZaP6anMsvhfgm6jT) | [MINAMI NiNE](https://open.spotify.com/artist/362QHsvg6mSewP1yybMD15) | [INITY](https://open.spotify.com/album/1RxHeQLVvcHE7uQ01kR7MO) | 3:19 | 2023-04-19 |  |
 | [Yuri no Saku Basho de](https://open.spotify.com/track/1LSTFX8pTDfApxMsuaHTok) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [25 \-A Tribute To Dragon Ash\-\(Another Edition\)](https://open.spotify.com/album/6EjpgYYtbyZbtLzXQmfBm9) | 3:16 | 2023-02-21 | 2023-03-08 |
 | [Yuriah](https://open.spotify.com/track/36wTuS95ghkdbMrEKNakE5) | [HOTSQUALL](https://open.spotify.com/artist/6DkswbIQ8sHITQC6KqBFMP) | [LAUGH AT LIFE](https://open.spotify.com/album/3Z3pABiK1AJkaVtaAV37P7) | 3:07 | 2022-05-12 | 2022-06-22 |
 | [Yusho \(ALBUM Mix\)](https://open.spotify.com/track/6YLg2Q6dHcHYNLeu4ZSObj) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [Watashi Akinu Watashi](https://open.spotify.com/album/4ZXu5KofuIygNs2SBwo9zR) | 3:36 | 2023-03-28 |  |
@@ -481,7 +484,7 @@
 | [夏の日の午後](https://open.spotify.com/track/0EjdWwzbKRIb3xoyVyzLXP) | [Eastern Youth](https://open.spotify.com/artist/5Y2k6C2UgQVRd3zzsx1CcH) | [旅路ニ季節ガ燃エ落チル](https://open.spotify.com/album/3c2QAlEKyYSei9beAMgOnB) | 5:46 | 2022-05-17 | 2022-12-27 |
 | [夜明け待つ](https://open.spotify.com/track/0ttCzije2FUanrpB43DZfB) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [夜明け待つ](https://open.spotify.com/album/2PZtXYPmJ1IsLwyHh7lPI7) | 3:45 | 2022-05-12 | 2022-07-25 |
 | [夢で逢えたら](https://open.spotify.com/track/5rvaDukztuWN4S82JoGd7R) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [DOOR](https://open.spotify.com/album/01i1QV1gvVcfirJNFLQa3a) | 5:01 | 2022-05-12 |  |
-| [夢で逢えたら](https://open.spotify.com/track/12bNJLlfhc9bO0K6mzp9JB) | [MINAMI NiNE](https://open.spotify.com/artist/362QHsvg6mSewP1yybMD15) | [INITY](https://open.spotify.com/album/2Ca9zs1HJnOmz6KcOhoTVc) | 3:19 | 2023-04-18 |  |
+| [夢で逢えたら](https://open.spotify.com/track/12bNJLlfhc9bO0K6mzp9JB) | [MINAMI NiNE](https://open.spotify.com/artist/362QHsvg6mSewP1yybMD15) | [INITY](https://open.spotify.com/album/2Ca9zs1HJnOmz6KcOhoTVc) | 3:19 | 2023-04-18 | 2023-04-20 |
 | [夢にさえ消えない君よ](https://open.spotify.com/track/4JbjSGnMQkYHkOzVm7kqQ8) | [GaGaGa SP](https://open.spotify.com/artist/1i2ol7SBMNLazfzSZKRGwM) | [ストレンジピッチャー](https://open.spotify.com/album/0O20LKIXAIrYPOpBATP7kG) | 4:08 | 2022-05-17 | 2022-07-25 |
 | [夢に出てくんな](https://open.spotify.com/track/5yKew0ax73VRSXXaYTVRfg) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [夢に出てくんな](https://open.spotify.com/album/3dsFd5x09lDH8LzqNzf0ie) | 2:16 | 2022-05-12 | 2022-07-28 |
 | [大切なもの](https://open.spotify.com/track/4QMLig3qhuUz4KYqsGE4Ov) | [Road Of Major](https://open.spotify.com/artist/5m0p1hLwjTBVYdgUyQaNaQ) | [REPLAY 〜Limited Collection〜](https://open.spotify.com/album/331VhS2XHgfSVYBWYdd2Va) | 3:10 | 2022-07-21 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 25252,
+  "num_followers": 25288,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1NTA0NCwwMDAwMDAwMDkyOTgyNmU1OTgwNmVkYzgzMDI5NGNmMTAzMmY3YWI0",
+  "snapshot_id": "MTY4MTQ1NTA0NCwwMDAwMDAwMGE3YjllMzQxZGE2NmNhZWQxNThkZGU0NmIwNDY2M2Uz",
   "tracks": [
     {
       "added_at": "2023-04-14 06:50:44",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-04-14 06:50:44",
       "album": {
-        "name": "Solid Ether",
-        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 299640,
-      "name": "Kakonita",
-      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
-    },
-    {
-      "added_at": "2023-04-14 06:50:44",
-      "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/4Ua984QTWTd5HzdiR9mHZd"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 267358,
       "name": "Popkoral",
       "url": "https://open.spotify.com/track/79XuzOga3pizrLG9XVfbwP"
+    },
+    {
+      "added_at": "2023-04-14 06:50:44",
+      "album": {
+        "name": "Solid Ether",
+        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 299640,
+      "name": "Kakonita",
+      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
     },
     {
       "added_at": "2023-04-14 06:50:44",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-04-14 06:50:44",
       "album": {
-        "name": "Maridalen",
-        "url": "https://open.spotify.com/album/3Enn6CF41yQeXk0OWMNDti"
-      },
-      "artists": [
-        {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
-        }
-      ],
-      "duration_ms": 263600,
-      "name": "Maridalen",
-      "url": "https://open.spotify.com/track/1U4qTswiFt7oHJUtsnuxkW"
-    },
-    {
-      "added_at": "2023-04-14 06:50:44",
-      "album": {
         "name": "The Door",
         "url": "https://open.spotify.com/album/2dySoKZJaOsXcAZPwngDrB"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 472053,
       "name": "The Door",
       "url": "https://open.spotify.com/track/7xlHjxJbGQjHA40E7pFnZB"
+    },
+    {
+      "added_at": "2023-04-14 06:50:44",
+      "album": {
+        "name": "Maridalen",
+        "url": "https://open.spotify.com/album/3Enn6CF41yQeXk0OWMNDti"
+      },
+      "artists": [
+        {
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
+        }
+      ],
+      "duration_ms": 263600,
+      "name": "Maridalen",
+      "url": "https://open.spotify.com/track/1U4qTswiFt7oHJUtsnuxkW"
     },
     {
       "added_at": "2023-04-14 06:50:44",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-04-14 06:50:44",
       "album": {
-        "name": "Caring",
-        "url": "https://open.spotify.com/album/1ZchiiOZho0JAngKiT60Cd"
-      },
-      "artists": [
-        {
-          "name": "Mathias Eick",
-          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
-        }
-      ],
-      "duration_ms": 369826,
-      "name": "Caring",
-      "url": "https://open.spotify.com/track/3NCrt4D9TmN9QhVAJvEO9u"
-    },
-    {
-      "added_at": "2023-04-14 06:50:44",
-      "album": {
         "name": "Fisherman's Wharf",
         "url": "https://open.spotify.com/album/006qOp9pbbpXgnzhwLB5Bx"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 229946,
       "name": "Fisherman's Wharf",
       "url": "https://open.spotify.com/track/6i1Byt1hOVnZaZYDCvVoqq"
+    },
+    {
+      "added_at": "2023-04-14 06:50:44",
+      "album": {
+        "name": "Caring",
+        "url": "https://open.spotify.com/album/1ZchiiOZho0JAngKiT60Cd"
+      },
+      "artists": [
+        {
+          "name": "Mathias Eick",
+          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
+        }
+      ],
+      "duration_ms": 369826,
+      "name": "Caring",
+      "url": "https://open.spotify.com/track/3NCrt4D9TmN9QhVAJvEO9u"
     },
     {
       "added_at": "2023-04-14 06:50:44",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-04-14 06:50:44",
       "album": {
+        "name": "When We Leave",
+        "url": "https://open.spotify.com/album/7MZXhA40qEoGogH9YtURmG"
+      },
+      "artists": [
+        {
+          "name": "Mathias Eick",
+          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
+        }
+      ],
+      "duration_ms": 330120,
+      "name": "Arvo",
+      "url": "https://open.spotify.com/track/3UC4pnwk6pGGnj8AAXkXX3"
+    },
+    {
+      "added_at": "2023-04-14 06:50:44",
+      "album": {
         "name": "Painting Music",
         "url": "https://open.spotify.com/album/0fmB8ha3cuP05cuk6nU6tZ"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 311450,
       "name": "V\u00e5g",
       "url": "https://open.spotify.com/track/2IxkVTHlGwA5AqHahdfrzV"
-    },
-    {
-      "added_at": "2023-04-14 06:50:44",
-      "album": {
-        "name": "When We Leave",
-        "url": "https://open.spotify.com/album/7MZXhA40qEoGogH9YtURmG"
-      },
-      "artists": [
-        {
-          "name": "Mathias Eick",
-          "url": "https://open.spotify.com/artist/6emZIO62oAXpIGiplDApwJ"
-        }
-      ],
-      "duration_ms": 330120,
-      "name": "Arvo",
-      "url": "https://open.spotify.com/track/3UC4pnwk6pGGnj8AAXkXX3"
     },
     {
       "added_at": "2023-04-14 06:50:44",
@@ -983,30 +983,6 @@
     {
       "added_at": "2023-04-14 06:50:44",
       "album": {
-        "name": "Gefion",
-        "url": "https://open.spotify.com/album/7oBGBUeoPT402ls5ANCQdT"
-      },
-      "artists": [
-        {
-          "name": "Jakob Bro",
-          "url": "https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES"
-        },
-        {
-          "name": "Thomas Morgan",
-          "url": "https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L"
-        },
-        {
-          "name": "Jon Christensen",
-          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
-        }
-      ],
-      "duration_ms": 270586,
-      "name": "And They All Came Marching Out Of The Woods",
-      "url": "https://open.spotify.com/track/6jBw9vdYnh6iO1ufKaBkYw"
-    },
-    {
-      "added_at": "2023-04-14 06:50:44",
-      "album": {
         "name": "Last Spring",
         "url": "https://open.spotify.com/album/2o24AbDEYPoyFNSXxDZp36"
       },
@@ -1047,6 +1023,30 @@
     {
       "added_at": "2023-04-14 06:50:44",
       "album": {
+        "name": "Gefion",
+        "url": "https://open.spotify.com/album/7oBGBUeoPT402ls5ANCQdT"
+      },
+      "artists": [
+        {
+          "name": "Jakob Bro",
+          "url": "https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES"
+        },
+        {
+          "name": "Thomas Morgan",
+          "url": "https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L"
+        },
+        {
+          "name": "Jon Christensen",
+          "url": "https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr"
+        }
+      ],
+      "duration_ms": 270586,
+      "name": "And They All Came Marching Out Of The Woods",
+      "url": "https://open.spotify.com/track/6jBw9vdYnh6iO1ufKaBkYw"
+    },
+    {
+      "added_at": "2023-04-14 06:50:44",
+      "album": {
         "name": "Meles Meles Revisited",
         "url": "https://open.spotify.com/album/5K68yQzCAapwHyrJjue21r"
       },
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-04-14 06:50:44",
       "album": {
-        "name": "Nearly Invisible Stitches",
-        "url": "https://open.spotify.com/album/08t9wyfbjYgTdzF51O9N9D"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 403513,
-      "name": "Nearly Invisible Stitches",
-      "url": "https://open.spotify.com/track/0YaFEVMblJyAkHYzGXTQck"
-    },
-    {
-      "added_at": "2023-04-14 06:50:44",
-      "album": {
         "name": "As If The Ghost \u2026 Was Me!?",
         "url": "https://open.spotify.com/album/3GSjLfaQEcqMrLF5X10hsg"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 343213,
       "name": "As If The Ghost \u2026 Was Me!?",
       "url": "https://open.spotify.com/track/3Nshgt5vLmFUa9csMU1qYw"
+    },
+    {
+      "added_at": "2023-04-14 06:50:44",
+      "album": {
+        "name": "Nearly Invisible Stitches",
+        "url": "https://open.spotify.com/album/08t9wyfbjYgTdzF51O9N9D"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 403513,
+      "name": "Nearly Invisible Stitches",
+      "url": "https://open.spotify.com/track/0YaFEVMblJyAkHYzGXTQck"
     },
     {
       "added_at": "2023-04-14 06:50:44",
@@ -1243,30 +1243,6 @@
     {
       "added_at": "2023-04-14 06:50:44",
       "album": {
-        "name": "Bayou",
-        "url": "https://open.spotify.com/album/2tsGHiONyukWb8rYSG6TGb"
-      },
-      "artists": [
-        {
-          "name": "Thomas Str\u00f8nen",
-          "url": "https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY"
-        },
-        {
-          "name": "Ayumi Tanaka",
-          "url": "https://open.spotify.com/artist/7Lkj4GebsCvqOlSFQKfGRZ"
-        },
-        {
-          "name": "Marthe Lea",
-          "url": "https://open.spotify.com/artist/24OahpiaTPyjN3zwfUH7Pt"
-        }
-      ],
-      "duration_ms": 183493,
-      "name": "Como",
-      "url": "https://open.spotify.com/track/28UMbNE9pbq0kJpsd9mIZM"
-    },
-    {
-      "added_at": "2023-04-14 06:50:44",
-      "album": {
         "name": "And Then Comes The Night",
         "url": "https://open.spotify.com/album/6aBM4FG8C0Rmg4VWFMLL0V"
       },
@@ -1287,6 +1263,30 @@
       "duration_ms": 392653,
       "name": "The Void",
       "url": "https://open.spotify.com/track/2He1XU9akKD3NHbkv1T39O"
+    },
+    {
+      "added_at": "2023-04-14 06:50:44",
+      "album": {
+        "name": "Bayou",
+        "url": "https://open.spotify.com/album/2tsGHiONyukWb8rYSG6TGb"
+      },
+      "artists": [
+        {
+          "name": "Thomas Str\u00f8nen",
+          "url": "https://open.spotify.com/artist/6DeUn0VfASGtKU3XmeotoY"
+        },
+        {
+          "name": "Ayumi Tanaka",
+          "url": "https://open.spotify.com/artist/7Lkj4GebsCvqOlSFQKfGRZ"
+        },
+        {
+          "name": "Marthe Lea",
+          "url": "https://open.spotify.com/artist/24OahpiaTPyjN3zwfUH7Pt"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "Como",
+      "url": "https://open.spotify.com/track/28UMbNE9pbq0kJpsd9mIZM"
     },
     {
       "added_at": "2023-04-14 06:50:44",
@@ -1451,30 +1451,6 @@
     {
       "added_at": "2023-04-14 06:50:44",
       "album": {
-        "name": "Mira",
-        "url": "https://open.spotify.com/album/7tjHDePOLgWEjAMzUZKMAM"
-      },
-      "artists": [
-        {
-          "name": "Arild Andersen",
-          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
-        },
-        {
-          "name": "Tommy Smith",
-          "url": "https://open.spotify.com/artist/2LbRiVusjtrdBlE4lkXxfO"
-        },
-        {
-          "name": "Paolo Vinaccia",
-          "url": "https://open.spotify.com/artist/6KRqpgcx3IlzqHGiyrBHbJ"
-        }
-      ],
-      "duration_ms": 335320,
-      "name": "Rossetti",
-      "url": "https://open.spotify.com/track/4ilwrLj110VpFtHbv3SrIP"
-    },
-    {
-      "added_at": "2023-04-14 06:50:44",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/409wPdjUmGHqQcfV8rD2Ms"
       },
@@ -1495,6 +1471,30 @@
       "duration_ms": 301253,
       "name": "Mirages",
       "url": "https://open.spotify.com/track/0s8YGmoWPKtb1GynGbHAWK"
+    },
+    {
+      "added_at": "2023-04-14 06:50:44",
+      "album": {
+        "name": "Mira",
+        "url": "https://open.spotify.com/album/7tjHDePOLgWEjAMzUZKMAM"
+      },
+      "artists": [
+        {
+          "name": "Arild Andersen",
+          "url": "https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m"
+        },
+        {
+          "name": "Tommy Smith",
+          "url": "https://open.spotify.com/artist/2LbRiVusjtrdBlE4lkXxfO"
+        },
+        {
+          "name": "Paolo Vinaccia",
+          "url": "https://open.spotify.com/artist/6KRqpgcx3IlzqHGiyrBHbJ"
+        }
+      ],
+      "duration_ms": 335320,
+      "name": "Rossetti",
+      "url": "https://open.spotify.com/track/4ilwrLj110VpFtHbv3SrIP"
     },
     {
       "added_at": "2023-04-14 06:50:44",
@@ -1575,34 +1575,6 @@
     {
       "added_at": "2023-04-14 06:50:44",
       "album": {
-        "name": "Sharing",
-        "url": "https://open.spotify.com/album/0QkNdXxtPmsaKGKrn0B5fb"
-      },
-      "artists": [
-        {
-          "name": "Thomas Fonnesb\u00e6k Trio",
-          "url": "https://open.spotify.com/artist/36UwgzVKus1vsMYse3SJVk"
-        },
-        {
-          "name": "Thomas Fonnesb\u00e6k",
-          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
-        },
-        {
-          "name": "Justin Kauflin",
-          "url": "https://open.spotify.com/artist/4sqzADf5mxSxx3IV9GICBU"
-        },
-        {
-          "name": "Billy Williams",
-          "url": "https://open.spotify.com/artist/7ceeHyhYS3BEfprSJX9WwT"
-        }
-      ],
-      "duration_ms": 528100,
-      "name": "Point of no return",
-      "url": "https://open.spotify.com/track/13FM6MFlLvMqhNVYCgRHZ6"
-    },
-    {
-      "added_at": "2023-04-14 06:50:44",
-      "album": {
         "name": "The Height of the Reeds",
         "url": "https://open.spotify.com/album/04B7mvuoqmjkOxGcAJazAe"
       },
@@ -1631,6 +1603,34 @@
     {
       "added_at": "2023-04-14 06:50:44",
       "album": {
+        "name": "Sharing",
+        "url": "https://open.spotify.com/album/0QkNdXxtPmsaKGKrn0B5fb"
+      },
+      "artists": [
+        {
+          "name": "Thomas Fonnesb\u00e6k Trio",
+          "url": "https://open.spotify.com/artist/36UwgzVKus1vsMYse3SJVk"
+        },
+        {
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+        },
+        {
+          "name": "Justin Kauflin",
+          "url": "https://open.spotify.com/artist/4sqzADf5mxSxx3IV9GICBU"
+        },
+        {
+          "name": "Billy Williams",
+          "url": "https://open.spotify.com/artist/7ceeHyhYS3BEfprSJX9WwT"
+        }
+      ],
+      "duration_ms": 528100,
+      "name": "Point of no return",
+      "url": "https://open.spotify.com/track/13FM6MFlLvMqhNVYCgRHZ6"
+    },
+    {
+      "added_at": "2023-04-14 06:50:44",
+      "album": {
         "name": "Hjorten i skogen",
         "url": "https://open.spotify.com/album/1msMWUc2k6bMgdUlzXjyFW"
       },
@@ -1643,22 +1643,6 @@
       "duration_ms": 425642,
       "name": "Hjorten i skogen",
       "url": "https://open.spotify.com/track/2yJIwvrRF8OnwFJ8GV81oZ"
-    },
-    {
-      "added_at": "2023-04-14 06:50:44",
-      "album": {
-        "name": "Scandinavian Standards",
-        "url": "https://open.spotify.com/album/3VODRpK2OCjnnBhNnqcQQt"
-      },
-      "artists": [
-        {
-          "name": "Niels Lan Doky",
-          "url": "https://open.spotify.com/artist/4aRjcECzLWpoxbzYFaevhV"
-        }
-      ],
-      "duration_ms": 306826,
-      "name": "The Lilly Flower - Liljankukka",
-      "url": "https://open.spotify.com/track/0GPpNpnx62fCmifnzd3gVL"
     },
     {
       "added_at": "2023-04-14 06:50:44",
@@ -1679,6 +1663,22 @@
     {
       "added_at": "2023-04-14 06:50:44",
       "album": {
+        "name": "Scandinavian Standards",
+        "url": "https://open.spotify.com/album/3VODRpK2OCjnnBhNnqcQQt"
+      },
+      "artists": [
+        {
+          "name": "Niels Lan Doky",
+          "url": "https://open.spotify.com/artist/4aRjcECzLWpoxbzYFaevhV"
+        }
+      ],
+      "duration_ms": 306826,
+      "name": "The Lilly Flower - Liljankukka",
+      "url": "https://open.spotify.com/track/0GPpNpnx62fCmifnzd3gVL"
+    },
+    {
+      "added_at": "2023-04-14 06:50:44",
+      "album": {
         "name": "The Land That Is Not",
         "url": "https://open.spotify.com/album/2cuu8fnvSnQdXHS0JmY1Yo"
       },
@@ -1691,6 +1691,26 @@
       "duration_ms": 375653,
       "name": "Triumph Of Being",
       "url": "https://open.spotify.com/track/7EgFTTaVEO304Bdqrh65Vb"
+    },
+    {
+      "added_at": "2023-04-14 06:50:44",
+      "album": {
+        "name": "Tree House",
+        "url": "https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG"
+      },
+      "artists": [
+        {
+          "name": "Trondheim Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw"
+        },
+        {
+          "name": "Albatrosh",
+          "url": "https://open.spotify.com/artist/3tKMUGzQEHu1e301XqOmHR"
+        }
+      ],
+      "duration_ms": 449893,
+      "name": "Seaweed",
+      "url": "https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe"
     },
     {
       "added_at": "2023-04-14 06:50:44",
@@ -1719,26 +1739,6 @@
       "duration_ms": 314253,
       "name": "Melancholia",
       "url": "https://open.spotify.com/track/2CK1rKO7y9oKhQRGR48tKG"
-    },
-    {
-      "added_at": "2023-04-14 06:50:44",
-      "album": {
-        "name": "Tree House",
-        "url": "https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG"
-      },
-      "artists": [
-        {
-          "name": "Trondheim Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw"
-        },
-        {
-          "name": "Albatrosh",
-          "url": "https://open.spotify.com/artist/3tKMUGzQEHu1e301XqOmHR"
-        }
-      ],
-      "duration_ms": 449893,
-      "name": "Seaweed",
-      "url": "https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe"
     },
     {
       "added_at": "2023-04-14 06:50:44",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2023-04-14 06:50:44",
       "album": {
-        "name": "Both Only",
-        "url": "https://open.spotify.com/album/2e06pqph69m1CCBkKNiBQQ"
-      },
-      "artists": [
-        {
-          "name": "Joona Toivanen Trio",
-          "url": "https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl"
-        }
-      ],
-      "duration_ms": 341248,
-      "name": "Faculties",
-      "url": "https://open.spotify.com/track/4CBUcDTtG0TGKOJ9lir2fl"
-    },
-    {
-      "added_at": "2023-04-14 06:50:44",
-      "album": {
         "name": "Kurzsam and Fulger",
         "url": "https://open.spotify.com/album/02v7KZwhzrycECwi8OOB15"
       },
@@ -1815,30 +1799,6 @@
       "duration_ms": 373899,
       "name": "Langsam",
       "url": "https://open.spotify.com/track/0NKRiAOYSRLh93LkStI71j"
-    },
-    {
-      "added_at": "2023-04-14 06:50:44",
-      "album": {
-        "name": "Woodland Walk",
-        "url": "https://open.spotify.com/album/4JVdhRW1q0fDqCqfpQnFuB"
-      },
-      "artists": [
-        {
-          "name": "Eyolf Dale",
-          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
-        },
-        {
-          "name": "Audun Kleive",
-          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
-        },
-        {
-          "name": "Per Zanussi",
-          "url": "https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi"
-        }
-      ],
-      "duration_ms": 319280,
-      "name": "Woodland Walk",
-      "url": "https://open.spotify.com/track/74JHnbsnMhSPFC2G6VrJL7"
     },
     {
       "added_at": "2023-04-14 06:50:44",
@@ -1863,6 +1823,46 @@
       "duration_ms": 416240,
       "name": "Pols etter Marta-Johannes",
       "url": "https://open.spotify.com/track/1ChqMXKvspLW7I0WZlG32b"
+    },
+    {
+      "added_at": "2023-04-14 06:50:44",
+      "album": {
+        "name": "Both Only",
+        "url": "https://open.spotify.com/album/2e06pqph69m1CCBkKNiBQQ"
+      },
+      "artists": [
+        {
+          "name": "Joona Toivanen Trio",
+          "url": "https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl"
+        }
+      ],
+      "duration_ms": 341248,
+      "name": "Faculties",
+      "url": "https://open.spotify.com/track/4CBUcDTtG0TGKOJ9lir2fl"
+    },
+    {
+      "added_at": "2023-04-14 06:50:44",
+      "album": {
+        "name": "Woodland Walk",
+        "url": "https://open.spotify.com/album/4JVdhRW1q0fDqCqfpQnFuB"
+      },
+      "artists": [
+        {
+          "name": "Eyolf Dale",
+          "url": "https://open.spotify.com/artist/60mPtMudgea65qERR3OxFS"
+        },
+        {
+          "name": "Audun Kleive",
+          "url": "https://open.spotify.com/artist/7vLSlwyxgwz4SCqkkTtMaq"
+        },
+        {
+          "name": "Per Zanussi",
+          "url": "https://open.spotify.com/artist/45tHFAUA5Que6cqkpHxUqi"
+        }
+      ],
+      "duration_ms": 319280,
+      "name": "Woodland Walk",
+      "url": "https://open.spotify.com/track/74JHnbsnMhSPFC2G6VrJL7"
     },
     {
       "added_at": "2023-04-14 06:50:44",

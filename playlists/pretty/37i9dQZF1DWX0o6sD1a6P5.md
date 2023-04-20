@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: SenSey' & Joé Dwèt Filé
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,650 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,104 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

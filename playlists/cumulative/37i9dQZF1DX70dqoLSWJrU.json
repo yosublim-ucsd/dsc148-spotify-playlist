@@ -2286,10 +2286,28 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 197253,
       "name": "Wasting My Love On You",
       "url": "https://open.spotify.com/track/1kKF0fbIAzKwbgdOedTWyg"
+    },
+    {
+      "album": {
+        "name": "She's Got It",
+        "url": "https://open.spotify.com/album/5UKPWnmzf6F2UlBhp1dIRi"
+      },
+      "artists": [
+        {
+          "name": "Annette Hanshaw",
+          "url": "https://open.spotify.com/artist/2NH5zRbA36q4uznwcJ8yDk"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197253,
+      "name": "Wasting My Love on You",
+      "url": "https://open.spotify.com/track/5Dp0YfR5ygkhdoB0rmLlFZ"
     },
     {
       "album": {

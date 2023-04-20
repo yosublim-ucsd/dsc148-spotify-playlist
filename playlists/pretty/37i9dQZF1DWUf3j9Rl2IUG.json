@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg?si=KLI_k7C7RbKu67zS9IOi_A\"> Asake</a> ",
-  "num_followers": 52137,
+  "num_followers": 52317,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ4OTkyNiwwMDAwMDAwMGZlMmJmZDgyYzg2YzMyMjc1ZjFiMjg1MjkwOGEyOGE4",
+  "snapshot_id": "MTY4MTQ4OTkyNiwwMDAwMDAwMDM3NGZjYzk2ZGJlMWRlYzVkMmY4YmJkYTk2ODEyYWRl",
   "tracks": [
     {
       "added_at": "2023-04-14 16:32:06",
@@ -663,26 +663,6 @@
     {
       "added_at": "2023-04-14 16:32:06",
       "album": {
-        "name": "Dada (feat. Davido) [Remix]",
-        "url": "https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 177692,
-      "name": "Dada (feat. Davido) [Remix]",
-      "url": "https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M"
-    },
-    {
-      "added_at": "2023-04-14 16:32:06",
-      "album": {
         "name": "Who Is Your Guy? (Remix)",
         "url": "https://open.spotify.com/album/3PAkBEUTDOVbETaV0tnR4R"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 211875,
       "name": "Who Is Your Guy? - Remix",
       "url": "https://open.spotify.com/track/3aGroTtXwkWJ7wOwKEI8Px"
+    },
+    {
+      "added_at": "2023-04-14 16:32:06",
+      "album": {
+        "name": "Dada (feat. Davido) [Remix]",
+        "url": "https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 177692,
+      "name": "Dada (feat. Davido) [Remix]",
+      "url": "https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M"
     },
     {
       "added_at": "2023-04-14 16:32:06",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-04-14 16:32:06",
       "album": {
+        "name": "Certified Loner (No Competition)",
+        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Certified Loner (No Competition)",
+      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
+    },
+    {
+      "added_at": "2023-04-14 16:32:06",
+      "album": {
         "name": "Won Da Mo",
         "url": "https://open.spotify.com/album/6QwF6NbMHG9BWKNctTw2pC"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 247680,
       "name": "Won Da Mo",
       "url": "https://open.spotify.com/track/0xPz8qjfchKRCAmABJH65Z"
-    },
-    {
-      "added_at": "2023-04-14 16:32:06",
-      "album": {
-        "name": "Certified Loner (No Competition)",
-        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Certified Loner (No Competition)",
-      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
     },
     {
       "added_at": "2023-04-14 16:32:06",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-04-14 16:32:06",
       "album": {
+        "name": "You Go Know",
+        "url": "https://open.spotify.com/album/7HvwJxPnRDe6DeSGUE1CHG"
+      },
+      "artists": [
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 142135,
+      "name": "You Go Know",
+      "url": "https://open.spotify.com/track/6sTPT0d9cJtFI3F3b2IA1q"
+    },
+    {
+      "added_at": "2023-04-14 16:32:06",
+      "album": {
         "name": "Philo",
         "url": "https://open.spotify.com/album/4z0qErs8qvQsNIDVQyaWjl"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 165309,
       "name": "Philo",
       "url": "https://open.spotify.com/track/5OTKO93FLT25URfam2hZgP"
-    },
-    {
-      "added_at": "2023-04-14 16:32:06",
-      "album": {
-        "name": "You Go Know",
-        "url": "https://open.spotify.com/album/7HvwJxPnRDe6DeSGUE1CHG"
-      },
-      "artists": [
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 142135,
-      "name": "You Go Know",
-      "url": "https://open.spotify.com/track/6sTPT0d9cJtFI3F3b2IA1q"
     },
     {
       "added_at": "2023-04-14 16:32:06",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-04-14 16:32:06",
       "album": {
-        "name": "Stand By You",
-        "url": "https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        }
-      ],
-      "duration_ms": 175792,
-      "name": "Stand By You",
-      "url": "https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96"
-    },
-    {
-      "added_at": "2023-04-14 16:32:06",
-      "album": {
         "name": "Loving You",
         "url": "https://open.spotify.com/album/4w6eohs63XTqvHZ9iMZB5Z"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 125030,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/6othjWxN6khdhiLu9GdOtj"
+    },
+    {
+      "added_at": "2023-04-14 16:32:06",
+      "album": {
+        "name": "Stand By You",
+        "url": "https://open.spotify.com/album/4xyk3drYz00n2co5h3h2Kc"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        }
+      ],
+      "duration_ms": 175792,
+      "name": "Stand By You",
+      "url": "https://open.spotify.com/track/4uSn4uo2QYTJcENcvVri96"
     },
     {
       "added_at": "2023-04-14 16:32:06",
@@ -1319,6 +1319,22 @@
       "duration_ms": 193758,
       "name": "High",
       "url": "https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt"
+    },
+    {
+      "added_at": "2023-04-14 16:32:06",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 143452,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff"
     },
     {
       "added_at": "2023-04-14 16:32:06",
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2023-04-14 16:32:06",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 143452,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff"
-    },
-    {
-      "added_at": "2023-04-14 16:32:06",
-      "album": {
         "name": "B A H D",
         "url": "https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8"
       },
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-04-14 16:32:06",
       "album": {
-        "name": "Hypertension / Things I Need",
-        "url": "https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q"
-      },
-      "artists": [
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 197894,
-      "name": "Hypertension",
-      "url": "https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9"
-    },
-    {
-      "added_at": "2023-04-14 16:32:06",
-      "album": {
         "name": "Zaza",
         "url": "https://open.spotify.com/album/1NKJU8S17PA7KpNrkP8OtT"
       },
@@ -1499,6 +1483,38 @@
       "duration_ms": 136855,
       "name": "Zaza",
       "url": "https://open.spotify.com/track/40wQLcBCqPVIHj6Hk8D3QP"
+    },
+    {
+      "added_at": "2023-04-14 16:32:06",
+      "album": {
+        "name": "Ask About Me",
+        "url": "https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 175820,
+      "name": "Ask About Me",
+      "url": "https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O"
+    },
+    {
+      "added_at": "2023-04-14 16:32:06",
+      "album": {
+        "name": "Hypertension / Things I Need",
+        "url": "https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q"
+      },
+      "artists": [
+        {
+          "name": "Peruzzi",
+          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
+        }
+      ],
+      "duration_ms": 197894,
+      "name": "Hypertension",
+      "url": "https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9"
     },
     {
       "added_at": "2023-04-14 16:32:06",
@@ -1527,22 +1543,6 @@
       "duration_ms": 206315,
       "name": "Maitama (Going)",
       "url": "https://open.spotify.com/track/6u333HFOmt5OTEqNg5qkEJ"
-    },
-    {
-      "added_at": "2023-04-14 16:32:06",
-      "album": {
-        "name": "Ask About Me",
-        "url": "https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 175820,
-      "name": "Ask About Me",
-      "url": "https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O"
     }
   ],
   "unique_name": "Gbedu",

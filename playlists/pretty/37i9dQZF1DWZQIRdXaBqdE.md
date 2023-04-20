@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 
 > Get on down the road with these classic country tunes\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,040 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,246 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Gambler](https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [The Gambler](https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ) | 3:34 |
 | 2 | [Stand By Your Man](https://open.spotify.com/track/6xatfNMI8NkY5XxRHAeiS4) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Tears Of Fire: The 25th Anniversary Collection](https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg) | 2:39 |
 | 3 | [Jolene](https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Jolene](https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj) | 2:41 |
-| 4 | [Fishing In The Dark](https://open.spotify.com/track/3i5QyEUyXa9Y7lIklr5sWk) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Anthology](https://open.spotify.com/album/3eI6PUZit1cF2ty6l7sXjI) | 3:21 |
+| 4 | [Forever and Ever, Amen](https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Always & Forever](https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv) | 3:32 |
 | 5 | [One Piece at a Time](https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tennessee Three](https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp) | [One Piece At A Time](https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67) | 4:01 |
-| 6 | [Forever and Ever, Amen](https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Always & Forever](https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv) | 3:32 |
+| 6 | [Fishing In The Dark](https://open.spotify.com/track/3i5QyEUyXa9Y7lIklr5sWk) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Anthology](https://open.spotify.com/album/3eI6PUZit1cF2ty6l7sXjI) | 3:21 |
 | 7 | [Rose Garden](https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey) | [Lynn Anderson](https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2) | [Rose Garden](https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af) | 2:55 |
 | 8 | [Southern Nights](https://open.spotify.com/track/7kv7zBjMtVf0eIJle2VZxn) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Southern Nights](https://open.spotify.com/album/0R7Uw1tUUbWlV53BGKfjQ4) | 3:00 |
 | 9 | [Amarillo By Morning](https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait From The Heart](https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t) | 2:53 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 | 29 | [Coal Miner's Daughter \- Single Version](https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Coal Miner's Daughter](https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr) | 3:00 |
 | 30 | [Don't Close Your Eyes](https://open.spotify.com/track/7J9ARWRkMtXMYeF8RxJEjn) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Don't Close Your Eyes](https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ) | 4:12 |
 | 31 | [Kiss an Angel Good Mornin'](https://open.spotify.com/track/37GWhu8R61gTStMvVQfDuE) | [Charley Pride](https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE) | [Sings Heart Songs](https://open.spotify.com/album/0426RVFAsCAeiUcCOq0J1V) | 2:03 |
-| 32 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
-| 33 | [Guitar Town](https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Guitar Town](https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy) | 2:35 |
+| 32 | [Guitar Town](https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Guitar Town](https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy) | 2:35 |
+| 33 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
 | 34 | [Act Naturally](https://open.spotify.com/track/3JWEMzwpcWCvu4Qw1BIbYi) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits](https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt) | 2:23 |
 | 35 | [If I Didn't Have You](https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [On the Other Hand \- All the Number Ones](https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3) | 3:06 |
 | 36 | [Slow Hand](https://open.spotify.com/track/2h1Xj6D76ygKS3tu9DgIY5) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Southern Comfort](https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9) | 2:54 |
@@ -99,9 +99,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 | 89 | [The Auctioneer](https://open.spotify.com/track/29NrnDqljNf1C2JqXo4HN4) | [Leroy Van Dyke](https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3) | [At Your Request…](https://open.spotify.com/album/6B6fsYtcD8oJSmMEl4rJ85) | 2:48 |
 | 90 | [I Can Help](https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE) | [Billy Swan](https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV) | [The Best Of Billy Swan](https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi) | 3:58 |
 | 91 | [500 Miles Away from Home](https://open.spotify.com/track/44AauRai27QWKEx4dKn0oU) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [500 Miles Away From Home](https://open.spotify.com/album/06zl9w7hWWtjxFt76bMZEE) | 2:42 |
-| 92 | [Old Hippie](https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Best Of The Bellamy Brothers](https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf) | 4:07 |
-| 93 | [The Ride](https://open.spotify.com/track/6tRSJPPrWs1hqOkllIJK9M) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [David Allan Coe \- 16 Biggest Hits](https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l) | 3:06 |
-| 94 | [Skip a Rope](https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L) | [Henson Cargill](https://open.spotify.com/artist/6OUTtVUjAvUF0uZ3wudxtv) | [All\-American Cowboy](https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0) | 2:40 |
+| 92 | [Skip a Rope](https://open.spotify.com/track/2kzVFcp3kSU1Qld4dYBM7L) | [Henson Cargill](https://open.spotify.com/artist/6OUTtVUjAvUF0uZ3wudxtv) | [All\-American Cowboy](https://open.spotify.com/album/5tSfvArzn1TQdXx2UKJlv0) | 2:40 |
+| 93 | [Old Hippie](https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Best Of The Bellamy Brothers](https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf) | 4:07 |
+| 94 | [The Ride](https://open.spotify.com/track/6tRSJPPrWs1hqOkllIJK9M) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [David Allan Coe \- 16 Biggest Hits](https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l) | 3:06 |
 | 95 | [Just Good Ol' Boys](https://open.spotify.com/track/3rvNZziNdig7Z0ePbB365e) | [Moe Bandy](https://open.spotify.com/artist/7s7Q0xacR6ShONfklPYcPz), [Joe Stampley](https://open.spotify.com/artist/0bRY1ri3TKSfD5BRU8CvaJ) | [Just Good Ol' Boys](https://open.spotify.com/album/4Dimc7g8uaqY3EMKwMgDbx) | 2:38 |
 | 96 | [D\-I\-V\-O\-R\-C\-E](https://open.spotify.com/track/4JPEuPsDG3nNJMAvvQ2Rr3) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential Tammy Wynette](https://open.spotify.com/album/0q0llpTYCmEoe5bBQ367Eu) | 2:55 |
 | 97 | [Could I Have This Dance](https://open.spotify.com/track/7BCgPuJDZgPwOv1E4p6Cvq) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Anne Murray The Best Of...So Far \- 20 Greatest Hits](https://open.spotify.com/album/7wKiJQImtpNT3kBy5QVPSX) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 | 99 | [I Walk The Line \- Single Version](https://open.spotify.com/track/0e1mMD6Pkn7zd9mhCQnrsY) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Get Rhythm / I Walk the Line](https://open.spotify.com/album/1ybcnccmuEwjwx9Y8NzvRH) | 2:43 |
 | 100 | [Once a Day](https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu) | [Connie Smith](https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo) | [Connie Smith](https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb) | 2:20 |
 
-Snapshot ID: `MTY1MTg2NTg3OCwwMDAwMDAwMDk2YTYyYWM1YjY5MmVlNThjYzU0MTE2MTQyMGMwMjQ0`
+Snapshot ID: `MTY1MTg2NTg3OCwwMDAwMDAwMDVmMTcyODIyNjZjNDM0NDIzOTU3ODM2NTU2NDg4ZTYy`

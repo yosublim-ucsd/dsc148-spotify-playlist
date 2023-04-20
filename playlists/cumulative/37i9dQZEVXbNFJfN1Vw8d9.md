@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-666 songs - 1 day 12 hr 17 min
+667 songs - 1 day 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Antes de Perderte](https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Perderte](https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7) | 2:56 | 2022-06-04 | 2022-06-26 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-22 | 2022-11-06 |
 | [Anuel AA: Bzrp Music Sessions, Vol\. 46](https://open.spotify.com/track/1mrGEef8GuaEnDdw8J5BQp) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Anuel AA: Bzrp Music Sessions, Vol\. 46](https://open.spotify.com/album/7fO4j6lmWPZAbAgi7ukz8c) | 3:21 | 2021-11-06 | 2022-01-01 |
-| [APA](https://open.spotify.com/track/3vKYvbzB7801a5qd47pxkm) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:19 | 2022-11-05 |  |
+| [APA](https://open.spotify.com/track/3vKYvbzB7801a5qd47pxkm) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:19 | 2022-11-05 | 2023-04-20 |
 | [Aquel Nap ZzZz](https://open.spotify.com/track/5bQLsyTrUaMQRfr6whwGe5) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 4:55 | 2021-12-25 | 2022-01-01 |
 | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63) | 3:43 | 2023-03-24 |  |
 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 | 2023-03-29 |  |
@@ -622,6 +622,7 @@
 | [Un Coco](https://open.spotify.com/track/6VrQTLzzuyGIYjUDe4kAZk) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:16 | 2022-05-07 | 2022-05-27 |
 | [Un Ratito](https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:56 | 2022-05-07 | 2022-07-07 |
 | [Un Verano Sin Ti](https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:28 | 2022-05-07 | 2022-06-08 |
+| [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-04-19 |  |
 | [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 | 2022-02-28 | 2022-09-21 |
 | [Una Nota](https://open.spotify.com/track/7iqOIHHEmu6Vhw25GgQ2eA) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 2:50 | 2021-09-12 | 2021-10-31 |
 | [Una Vaina Loca](https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Una Vaina Loca](https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM) | 3:46 | 2021-10-23 | 2022-03-21 |

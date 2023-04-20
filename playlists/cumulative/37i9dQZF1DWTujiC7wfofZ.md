@@ -4,7 +4,7 @@
 
 > All the indie disco platters that matter.
 
-261 songs - 16 hr 46 min
+262 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Budapest](https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:20 | 2022-11-27 |  |
 | [Bulletproof](https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 3:25 | 2022-11-27 |  |
 | [Burning Down the House](https://open.spotify.com/track/2VNfJpwdEQBLyXajaa6LWT) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Burning Down the House / I Get Wild / Wild Gravity](https://open.spotify.com/album/1invpprZoPxP2H3CfGgSfJ) | 4:01 | 2022-11-27 |  |
+| [Busy Earnin'](https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:01 | 2022-11-27 |  |
 | [By the Way](https://open.spotify.com/track/2t0ZYmVXMR36fchq1Egs2d) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [By the Way](https://open.spotify.com/album/1jWKVgnHX8nwR551hQNx5K) | 3:36 | 2022-11-27 |  |
 | [Call Me](https://open.spotify.com/track/0vLwL4xuJ3s7SeaCdvMqkY) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 3:32 | 2022-11-27 |  |
 | [Calm Like You](https://open.spotify.com/track/0b70nZ5kdm09VlyfHLNjlL) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [The Age Of The Understatement](https://open.spotify.com/album/2y3Rm0cT1xbf2NoTQwKv99) | 2:28 | 2022-11-27 |  |
@@ -70,7 +71,7 @@
 | [Electric Love \- Oliver Remix](https://open.spotify.com/track/00Ci0EXS4fNPnkTbS6wkOh) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Electric Love \(Oliver Remix\)](https://open.spotify.com/album/2Y81I8p6wKD13rSgp9aujA) | 4:13 | 2022-11-27 |  |
 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 | 2022-11-27 |  |
 | [Ever Fallen in Love \(With Someone You Shouldn't've?\) \- 1996 Remastered Version](https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Love Bites](https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg) | 2:43 | 2022-11-27 |  |
-| [Everything Is Embarrassing](https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Ghost](https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf) | 4:09 | 2022-11-27 |  |
+| [Everything Is Embarrassing](https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Ghost](https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf) | 4:09 | 2022-11-27 | 2023-04-20 |
 | [Evil](https://open.spotify.com/track/4absiGHMelB8eH976ytjBj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Antics](https://open.spotify.com/album/2OFkUKYNNFQ74kJOSc9gzz) | 3:35 | 2022-11-27 |  |
 | [Farewell To The Fairground](https://open.spotify.com/track/09v3dFgd3YwrD0U5gkNaTg) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [To Lose My Life ...](https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE) | 4:16 | 2022-11-27 |  |
 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 | 2022-11-27 |  |

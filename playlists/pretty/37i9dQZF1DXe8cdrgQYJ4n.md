@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 
 > 솔로여도 괜찮은 나를 위한 노래들
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,191 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,209 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 2 | [Good Parts \(when the quality is bad but I am\)](https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 2:36 |
 | 3 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 |
 | 4 | [Naked](https://open.spotify.com/track/2dFIqSB5r0IrqJFJS367Kx) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Naked](https://open.spotify.com/album/2zpxFjdb5JINyMyvTpyGOc) | 2:54 |
-| 5 | [Love or Hate](https://open.spotify.com/track/0vSoQCBMCWBiLwrD2is0cP) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Love or Hate](https://open.spotify.com/album/2Xff5qFOIixfs1RyPlM43V) | 3:29 |
+| 5 | [Love or Hate](https://open.spotify.com/track/1dMzdjNYpSy1ji3dWa9AaH) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Love or Hate](https://open.spotify.com/album/73lmR1Fx6yF8KdtCRfr6a0) | 3:29 |
 | 6 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 |
 | 7 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 |
 | 8 | [How You Like That](https://open.spotify.com/track/4SFknyjLcyTLJFPKD2m96o) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:02 |
 | 9 | [IDOL](https://open.spotify.com/track/1e8J3XClxZbFmvIHLI8CE4) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:42 |
-| 10 | [SHOUT OUT](https://open.spotify.com/track/5Z2DNRAhs6r4VdINVkRhYY) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:48 |
-| 11 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 |
+| 10 | [Kitsch](https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:15 |
+| 11 | [SHOUT OUT](https://open.spotify.com/track/5Z2DNRAhs6r4VdINVkRhYY) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:48 |
 | 12 | [Maria](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 3:19 |
 | 13 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 |
 | 14 | [Cold Blooded](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Cold Blooded](https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ) | 2:30 |
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 40 | [Freaky \(Prod\. GroovyRoom\)](https://open.spotify.com/track/4dDRXGfTI5mWBnDuVRxTLe) | [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [Freaky](https://open.spotify.com/album/1Z55bFaYwBmghHzXTpqWYp) | 2:53 |
 | 41 | [Sexy 4 Eva](https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Ask Bout Me](https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM) | 3:41 |
 | 42 | [HAPPY](https://open.spotify.com/track/5UteR9bUlDg8I70brft1Vh) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [CRUSH](https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL) | 3:36 |
-| 43 | [Sorry](https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:37 |
-| 44 | [SOLO DAY](https://open.spotify.com/track/58wbNn4eEsvAqTz4JJxn9L) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [SOLO DAY](https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix) | 3:19 |
+| 43 | [SOLO DAY](https://open.spotify.com/track/58wbNn4eEsvAqTz4JJxn9L) | [B1A4](https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG) | [SOLO DAY](https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix) | 3:19 |
+| 44 | [Sorry](https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:37 |
 | 45 | [Drink it, Girls!](https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Work Later Drink Now S2, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/0eYBfC57JfL2mZgcBTEZnh) | 2:56 |
 | 46 | [HeartBROKEN PlaYBoY](https://open.spotify.com/track/4zcoVOaN97y4WPUUAtDu0j) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LUCKY MAN](https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e) | 3:36 |
 | 47 | [Fuxk off](https://open.spotify.com/track/50ThLixmp3d9GGtyZtqZmu) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [In My Room](https://open.spotify.com/album/6kEpx1z9uVAWuTkHY1bdKG) | 3:02 |
 | 48 | [Cheers!](https://open.spotify.com/track/2VFKbSBzOeLq3FFMcrkpXl) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Work Later Drink Now S2, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/0Z5UmfvsfNUMVedakree1B) | 3:03 |
-| 49 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
-| 50 | [NO BREAK \(Prod\. GooseBumps & Simon Dominic\)](https://open.spotify.com/track/7p5iFapJ56W9Swmu9NT00L) | [HolyBang](https://open.spotify.com/artist/55hCEdYVgnzW3ymnsIPd7T), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:19 |
+| 49 | [NO BREAK \(Prod\. GooseBumps & Simon Dominic\)](https://open.spotify.com/track/7p5iFapJ56W9Swmu9NT00L) | [HolyBang](https://open.spotify.com/artist/55hCEdYVgnzW3ymnsIPd7T), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 2:19 |
+| 50 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
 | 51 | [20MIN](https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 2:56 |
 | 52 | [Break](https://open.spotify.com/track/6ZY5lLjDmK6Bzon5vseYLn) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [12](https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE) | 3:04 |
 | 53 | [Missing You \(feat\. Dvwn\)](https://open.spotify.com/track/7j7p9sU2Obtf3daiEDMF8e) | [SOOVI](https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [a tempo](https://open.spotify.com/album/1XJ7xgz0ryXkAWVwmSEpno) | 3:13 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe8cdrgQYJ4n.md) - [plain]
 | 59 | [FREAK](https://open.spotify.com/track/2oldaTAUfGvTXxPZVwvsyu) | [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [TURNED](https://open.spotify.com/album/2HDaGdvnCgxiyUuOIUtm4u) | 3:19 |
 | 60 | [Miss Korea](https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [MONOCHROME](https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK) | 3:55 |
 
-Snapshot ID: `MTY4MDc1Mzg2NSwwMDAwMDAwMGVhYTc0MWRmODgwZTdiNTRjMGU5Zjk3MGM3NDdjZGIx`
+Snapshot ID: `MTY4MDc1Mzg2NSwwMDAwMDAwMGVmNDNhNWZlYWExZGI1OGFjYjk1N2MwMDEwOTYyYTk1`

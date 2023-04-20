@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Argentina.
 
-533 songs - 1 day 5 hr 9 min
+534 songs - 1 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [La Loto](https://open.spotify.com/track/3AbNNvo2OmyeDMvRBgf9vk) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [La Loto](https://open.spotify.com/album/3kNJsC47065Ucjk6AuCb8y) | 3:10 | 2022-07-08 | 2022-10-30 |
 | [La Melodía de Dios](https://open.spotify.com/track/31xVuaxFElzKPIp6Z9HT5N) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Destinologia](https://open.spotify.com/album/19TeDDWnbWJqtd4NyPI3jk) | 4:45 | 2021-11-06 | 2021-11-08 |
 | [La Melodía de Dios](https://open.spotify.com/track/7ESKEiE8LRLrDwdS2ZgUiR) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Destinologia](https://open.spotify.com/album/64R3tRaDrsBL3DvBrHSx8C) | 4:45 | 2022-11-05 | 2022-11-08 |
-| [LA NENA DE ARGENTINA](https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:31 | 2022-12-10 |  |
+| [LA NENA DE ARGENTINA](https://open.spotify.com/track/0Dl34Kegtc0y0m0oPhQfiI) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:31 | 2022-12-10 | 2023-04-20 |
 | [La Niña de la Escuela](https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:24 | 2021-08-14 | 2021-09-21 |
 | [LA NOCHE DE ANOCHE](https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [EL ÚLTIMO TOUR DEL MUNDO](https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW) | 3:23 | 2021-03-27\* | 2021-07-18 |
 | [La Nota](https://open.spotify.com/track/5VzNsUnLmYcRfRfxpQsusa) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Dopamina](https://open.spotify.com/album/2yYl7Q3GOoBjznGy0Rsc2f) | 3:36 | 2021-04-11 | 2021-05-15 |
@@ -498,6 +498,7 @@
 | [UN PISO MÁS](https://open.spotify.com/track/6Rsryyrp2tB4t0f8c60bGm) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [KOKI](https://open.spotify.com/artist/5LUkjuvgqMcroPUghvtqSX) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 2:55 | 2022-11-12 | 2022-11-27 |
 | [Un Ratito](https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:56 | 2022-05-07 | 2022-07-09 |
 | [Un Verano Sin Ti](https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:28 | 2022-05-07 | 2022-05-15 |
+| [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-04-19 |  |
 | [Una Cerveza](https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 4:00 | 2021-12-26 | 2023-01-04 |
 | [Una Locura](https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Enoc](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:50 | 2021-03-27\* | 2021-05-03 |
 | [Una Noche en Medellín](https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Una Noche en Medellín](https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46) | 2:33 | 2022-03-05 | 2022-10-30 |

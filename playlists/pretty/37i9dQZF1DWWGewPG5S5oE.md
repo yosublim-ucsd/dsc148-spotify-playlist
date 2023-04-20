@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 木村紘
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,720 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,747 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 43 | [最後の夜汽車](https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 4:54 |
 | 44 | [Squall](https://open.spotify.com/track/68jH0QV84eVWbqLP2AjAni) | [Hidefumi Ino](https://open.spotify.com/artist/0StJhTOwSFMrgRwDGnnE2S) | [Squall](https://open.spotify.com/album/5MEucUHOxsXdbhzB2Szdyj) | 3:56 |
 | 45 | [One More Time](https://open.spotify.com/track/5zDaw3oBx3e5dCnpyt7NEW) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [One More Time](https://open.spotify.com/album/31dVWeU7ZyIezMhWU1dNWc) | 4:55 |
-| 46 | [Caught Up \- grooveman Spot Remix](https://open.spotify.com/track/4E31kWZbuig1EQozBK4j5b) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [多和田えみ](https://open.spotify.com/artist/75lvsN9jSpGRWcQhERynWS), [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa) | [Caught Up \(grooveman Spot Remix\)](https://open.spotify.com/album/3KqRiPSde1pa2WVEtBSu3b) | 4:06 |
-| 47 | [Be Like Snow](https://open.spotify.com/track/2qDXwIRRJcHoLZHZTr4gkw) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [Be Like Snow](https://open.spotify.com/album/3urXm5EQ1m6R8sSOtmnyKr) | 4:48 |
+| 46 | [Be Like Snow](https://open.spotify.com/track/2qDXwIRRJcHoLZHZTr4gkw) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [Be Like Snow](https://open.spotify.com/album/3urXm5EQ1m6R8sSOtmnyKr) | 4:48 |
+| 47 | [Caught Up \- grooveman Spot Remix](https://open.spotify.com/track/4E31kWZbuig1EQozBK4j5b) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [多和田えみ](https://open.spotify.com/artist/75lvsN9jSpGRWcQhERynWS), [grooveman Spot](https://open.spotify.com/artist/2WH7zT823EKmIXKIcM1kYa) | [Caught Up \(grooveman Spot Remix\)](https://open.spotify.com/album/3KqRiPSde1pa2WVEtBSu3b) | 4:06 |
 | 48 | [Ain't No Sunshine](https://open.spotify.com/track/6lAiWBSXcW4vO25LckdYlN) | [Nautilus](https://open.spotify.com/artist/2jl9g1q4H325ckCuUkiuxq) | [Ain't No Sunshine](https://open.spotify.com/album/2w7eEW2NKU96lWMGqbgsNy) | 5:22 |
-| 49 | [SAMURAI \- 2022 version](https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [SAMURAI](https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e) | 11:56 |
-| 50 | [Extra Freedom](https://open.spotify.com/track/0ViSJTe0YkVRP5FXcNo91V) | [Kyoto Jazz Sextet](https://open.spotify.com/artist/6HJLP8BxT0IJtEtZRba2Xd) | [UNITY](https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV) | 6:19 |
+| 49 | [Extra Freedom](https://open.spotify.com/track/0ViSJTe0YkVRP5FXcNo91V) | [Kyoto Jazz Sextet](https://open.spotify.com/artist/6HJLP8BxT0IJtEtZRba2Xd) | [UNITY](https://open.spotify.com/album/3sR1fIm8LCnPukPiLghLgV) | 6:19 |
+| 50 | [SAMURAI \- 2022 version](https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [SAMURAI](https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e) | 11:56 |
 
-Snapshot ID: `MTY4MTgzMDAwMCwwMDAwMDAwMDNhNWRiMDJhMGYzOGYwODNkODRkYzEzZjQ4NDE2NTUz`
+Snapshot ID: `MTY4MTgzMDAwMCwwMDAwMDAwMGVjNDllNDY4NjQxMTk3NzEyODU5OWFjMmYyNmJlMWU3`

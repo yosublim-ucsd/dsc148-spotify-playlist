@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/12uAjdmOrs4u60afEwz5zk">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 472 likes - 147 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 474 likes - 147 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 71 | [How Do Ya Feel](https://open.spotify.com/track/6EACVe4VmEJHosKTiVLojg) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA) | 3:31 |
 | 72 | [Suddenly Monday](https://open.spotify.com/track/4bmPHxWGCkrCLVJw8KVUt2) | [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Northern Star](https://open.spotify.com/album/6TjfhQSmmBOEwIXkoT3fdZ) | 2:37 |
 | 73 | [Places](https://open.spotify.com/track/0VoW5QMambzEXSxrIapO7K) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say](https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q) | 2:59 |
-| 74 | [Nobody Does It Better](https://open.spotify.com/track/1hljujHgHsnJD9FR46YQ9k) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:33 |
-| 75 | [Don't Let Me Down](https://open.spotify.com/track/22ZpKYkR6pgBpNvAJAVtja) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [The Essential](https://open.spotify.com/album/5Wg92LM7Y8ITdVpT72qQ1k) | 4:46 |
+| 74 | [Don't Let Me Down](https://open.spotify.com/track/22ZpKYkR6pgBpNvAJAVtja) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [The Essential](https://open.spotify.com/album/5Wg92LM7Y8ITdVpT72qQ1k) | 4:46 |
+| 75 | [Nobody Does It Better](https://open.spotify.com/track/1hljujHgHsnJD9FR46YQ9k) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:33 |
 | 76 | [Everyday](https://open.spotify.com/track/1lIj3mSKGJfmQkC8vMEdj0) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA) | 4:19 |
 | 77 | [It's Alright](https://open.spotify.com/track/0IAjW3QM4PwqJS0ckvulXA) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/3gnDAi2njt1vvEyC9qoNJA) | 4:17 |
 | 78 | [New York City Lights](https://open.spotify.com/track/43BdxxkR8UP1pJFcwJp1hG) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Trip The Light Fantastic \(International Version\)](https://open.spotify.com/album/5OVV3C55OWKmHHP9eY3s74) | 3:52 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 146 | [Cry](https://open.spotify.com/track/5lrF6CM7EclW9KFIkGVycm) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Friday's Child \(Bonus Tracks\)](https://open.spotify.com/album/7EatTXBEeO444ceZAAH7pw) | 4:22 |
 | 147 | [Gonna Get It This Time](https://open.spotify.com/track/4GhrAsUbo4HmTZvXYlxSke) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Let It Go \(Bonus Tracks\)](https://open.spotify.com/album/2ubU9zi8NfQ1qXRNGkLIoi) | 4:03 |
 
-Snapshot ID: `MjgwMzEwNTAsMDAwMDAwMDA0NTUyNjUwMDk5ODUxZGExMTVjMGFiNjNkMmQ2ZjllNQ==`
+Snapshot ID: `MjgwMzI0OTAsMDAwMDAwMDA4NWI3OGU2NTRhNDI2NWFiYjljNTY5NTkwMjE2Mzc4Yg==`

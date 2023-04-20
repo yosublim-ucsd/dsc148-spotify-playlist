@@ -1,12 +1,12 @@
 {
   "description": "Press play and enjoy a relaxing meal. Easy!",
-  "num_followers": 249448,
+  "num_followers": 249471,
   "original_name": "Chill Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NzQ0NSwwMDAwMDAwMDMyN2Q2OWZiZjg4NDQ4ZTRmYjM0YzM4ZjVjODM0NzIw",
+  "snapshot_id": "MTY4MTQ0NzQ0NSwwMDAwMDAwMDhhZWM2Y2IzYmI4YmM5ZWUyYzk1MDFjZjUwZGRkNzY3",
   "tracks": [
     {
       "added_at": "2023-04-14 04:44:05",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-04-14 04:44:05",
       "album": {
-        "name": "Persuasion (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 234156,
-      "name": "Quietly Yours",
-      "url": "https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1"
-    },
-    {
-      "added_at": "2023-04-14 04:44:05",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf"
       },
@@ -871,22 +855,18 @@
     {
       "added_at": "2023-04-14 04:44:05",
       "album": {
-        "name": "Bad For Me (feat. Teddy Swims)",
-        "url": "https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu"
+        "name": "Persuasion (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv"
       },
       "artists": [
         {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 213283,
-      "name": "Bad For Me (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
+      "duration_ms": 234156,
+      "name": "Quietly Yours",
+      "url": "https://open.spotify.com/track/7wRijQK8vRmGLK0RYW7Vr1"
     },
     {
       "added_at": "2023-04-14 04:44:05",
@@ -911,18 +891,22 @@
     {
       "added_at": "2023-04-14 04:44:05",
       "album": {
-        "name": "Apart",
-        "url": "https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj"
+        "name": "Bad For Me (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu"
       },
       "artists": [
         {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 201391,
-      "name": "In a Stranger's Arms",
-      "url": "https://open.spotify.com/track/7s6jUeM4ENpUrHCSzQZV0v"
+      "duration_ms": 213283,
+      "name": "Bad For Me (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
     },
     {
       "added_at": "2023-04-14 04:44:05",
@@ -943,6 +927,22 @@
       "duration_ms": 220839,
       "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/4CHpVfAhuxNJ3ibExe6kxO"
+    },
+    {
+      "added_at": "2023-04-14 04:44:05",
+      "album": {
+        "name": "Apart",
+        "url": "https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 201391,
+      "name": "In a Stranger's Arms",
+      "url": "https://open.spotify.com/track/7s6jUeM4ENpUrHCSzQZV0v"
     },
     {
       "added_at": "2023-04-14 04:44:05",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-04-14 04:44:05",
       "album": {
-        "name": "New Ways",
-        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Hot Tears",
-      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
-    },
-    {
-      "added_at": "2023-04-14 04:44:05",
-      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 242000,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN"
+    },
+    {
+      "added_at": "2023-04-14 04:44:05",
+      "album": {
+        "name": "New Ways",
+        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Hot Tears",
+      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
     },
     {
       "added_at": "2023-04-14 04:44:05",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-04-14 04:44:05",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 201541,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
-    },
-    {
-      "added_at": "2023-04-14 04:44:05",
-      "album": {
         "name": "When I'm Alone: The Piano Retrospective",
         "url": "https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 274992,
       "name": "Dreams - Piano Version",
       "url": "https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31"
+    },
+    {
+      "added_at": "2023-04-14 04:44:05",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 201541,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN"
     },
     {
       "added_at": "2023-04-14 04:44:05",
@@ -1339,6 +1339,26 @@
       "duration_ms": 178949,
       "name": "Crying Over You",
       "url": "https://open.spotify.com/track/53bCcVMGv0S2aIYvfju2Tt"
+    },
+    {
+      "added_at": "2023-04-14 04:44:05",
+      "album": {
+        "name": "Heading for Home (feat. John Legend)",
+        "url": "https://open.spotify.com/album/7hQrKIVnV7JTDXP88O5VZF"
+      },
+      "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 262333,
+      "name": "Heading for Home (feat. John Legend)",
+      "url": "https://open.spotify.com/track/0LfxVKa6cf6HN5htCm9V89"
     },
     {
       "added_at": "2023-04-14 04:44:05",
@@ -1439,22 +1459,6 @@
     {
       "added_at": "2023-04-14 04:44:05",
       "album": {
-        "name": "Chosen Last",
-        "url": "https://open.spotify.com/album/5k8vOLs3DDYQtprdAoeMIX"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 226847,
-      "name": "Chosen Last",
-      "url": "https://open.spotify.com/track/5X4tAxxNC5XaSgcIW3xhj7"
-    },
-    {
-      "added_at": "2023-04-14 04:44:05",
-      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -1471,22 +1475,18 @@
     {
       "added_at": "2023-04-14 04:44:05",
       "album": {
-        "name": "Heading for Home (feat. John Legend)",
-        "url": "https://open.spotify.com/album/7hQrKIVnV7JTDXP88O5VZF"
+        "name": "Chosen Last",
+        "url": "https://open.spotify.com/album/5k8vOLs3DDYQtprdAoeMIX"
       },
       "artists": [
         {
-          "name": "Rufus Wainwright",
-          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
-        },
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
         }
       ],
-      "duration_ms": 262333,
-      "name": "Heading for Home (feat. John Legend)",
-      "url": "https://open.spotify.com/track/0LfxVKa6cf6HN5htCm9V89"
+      "duration_ms": 226847,
+      "name": "Chosen Last",
+      "url": "https://open.spotify.com/track/5X4tAxxNC5XaSgcIW3xhj7"
     },
     {
       "added_at": "2023-04-14 04:44:05",

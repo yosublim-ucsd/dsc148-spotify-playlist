@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,184 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,266 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 32 | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm) | 2:54 |
 | 33 | [Can I Jump?](https://open.spotify.com/track/4xo2cd0kmp3GO1jZzAst1D) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Can I Jump?](https://open.spotify.com/album/2oRM1rJALdQfceK3i7SxG3) | 3:43 |
 | 34 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 |
-| 35 | [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:10 |
+| 35 | [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:07 |
 | 36 | [Take It Slow](https://open.spotify.com/track/7aSTt5lOkSBxBvllByKINK) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [We Go Again](https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq) | 3:41 |
 | 37 | [Eat Your Young](https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 4:02 |
 | 38 | [mine](https://open.spotify.com/track/5WVwFPBm6bI9KPRV2AUR2T) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [mine / me](https://open.spotify.com/album/0Y4UzVqYI5o4GBxkQimdL8) | 3:11 |

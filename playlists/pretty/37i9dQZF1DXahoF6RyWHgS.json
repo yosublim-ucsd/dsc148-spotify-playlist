@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 30759,
+  "num_followers": 30812,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM0Mzg4MSwwMDAwMDAwMGVhNDY4YmM1OGJlMDBmMWVkOGQxYjA3Y2YxNmYzYzdl",
+  "snapshot_id": "MTY4MTM0Mzg4MSwwMDAwMDAwMDU3ZDQwODRjNzM3YzZlNzk1OTVlZDg3ZDMxYjcyODgx",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -847,6 +847,38 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "duration_ms": 159800,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/2lRpK2iqZ86zuqrygcWy8p"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "No Tiene Fin",
+        "url": "https://open.spotify.com/album/5TAAs1zOW4ZOywhXYWD5Ox"
+      },
+      "artists": [
+        {
+          "name": "Los Cojolites",
+          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
+        }
+      ],
+      "duration_ms": 167453,
+      "name": "Se\u00f1or Presidente",
+      "url": "https://open.spotify.com/track/0TkBSy6fOFWe0whp6b37qC"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
         "name": "Canto",
         "url": "https://open.spotify.com/album/4CVtGsFWsxDZQHgyQQsAY3"
       },
@@ -875,38 +907,6 @@
       "duration_ms": 160679,
       "name": "Oracion caribe",
       "url": "https://open.spotify.com/track/3yEOU4LhTW2DGEPfXiN1u0"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "No Tiene Fin",
-        "url": "https://open.spotify.com/album/5TAAs1zOW4ZOywhXYWD5Ox"
-      },
-      "artists": [
-        {
-          "name": "Los Cojolites",
-          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
-        }
-      ],
-      "duration_ms": 167453,
-      "name": "Se\u00f1or Presidente",
-      "url": "https://open.spotify.com/track/0TkBSy6fOFWe0whp6b37qC"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP"
-      },
-      "artists": [
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        }
-      ],
-      "duration_ms": 159800,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/2lRpK2iqZ86zuqrygcWy8p"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1057,22 +1057,6 @@
       "url": "https://open.spotify.com/track/6IFbs21O6l5wkvdqeWfagJ"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
-      },
-      "artists": [
-        {
-          "name": "Las Cafeteras",
-          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
-        }
-      ],
-      "duration_ms": 300226,
-      "name": "Mujer Soy",
-      "url": "https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Las 50 Mejores Grabaciones De Antonio Mach\u00edn En Discophon (1903-1977)",
@@ -1087,6 +1071,22 @@
       "duration_ms": 157266,
       "name": "Tengo una debilidad",
       "url": "https://open.spotify.com/track/52ZaEmQXC9AtnZb4xUNNoC"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
+      },
+      "artists": [
+        {
+          "name": "Las Cafeteras",
+          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
+        }
+      ],
+      "duration_ms": 300226,
+      "name": "Mujer Soy",
+      "url": "https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
-      },
-      "artists": [
-        {
-          "name": "Las Cafeteras",
-          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
-        }
-      ],
-      "duration_ms": 265373,
-      "name": "Caf\u00e9 Con Pan",
-      "url": "https://open.spotify.com/track/0kjoUiBRIa3TDMmFXS1fFv"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "This Time",
         "url": "https://open.spotify.com/album/4aF8NocABna0fkGr6kSBZ9"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 245266,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
+      },
+      "artists": [
+        {
+          "name": "Las Cafeteras",
+          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
+        }
+      ],
+      "duration_ms": 265373,
+      "name": "Caf\u00e9 Con Pan",
+      "url": "https://open.spotify.com/track/0kjoUiBRIa3TDMmFXS1fFv"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "La Reina de Veracruz",
-        "url": "https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        }
-      ],
-      "duration_ms": 165982,
-      "name": "Vereda Tropical",
-      "url": "https://open.spotify.com/track/49iGo9gTn4rTtj504zQbHr"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "15 Super Exitos De Lobo Y Melon - Versiones Originales",
         "url": "https://open.spotify.com/album/0xzsqNsEpcTJtcFl5xqakO"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 176733,
       "name": "La Sitiera",
       "url": "https://open.spotify.com/track/0B0xMZtJkAgGlYhayJhYcK"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "La Reina de Veracruz",
+        "url": "https://open.spotify.com/album/6iObzhLiuOraH0mEabqrdo"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "duration_ms": 165982,
+      "name": "Vereda Tropical",
+      "url": "https://open.spotify.com/track/49iGo9gTn4rTtj504zQbHr"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1361,22 +1361,6 @@
       "url": "https://open.spotify.com/track/2xirjKVetY5wxvw3hAuELH"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Tastes Like L.A.",
-        "url": "https://open.spotify.com/album/1PbmMKMsXwEC9S0I6YrMG6"
-      },
-      "artists": [
-        {
-          "name": "Las Cafeteras",
-          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
-        }
-      ],
-      "duration_ms": 235934,
-      "name": "Paletero",
-      "url": "https://open.spotify.com/track/7g0zc1QNXmrg44wpki6C6n"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Mujeres con Cajones",
@@ -1391,6 +1375,22 @@
       "duration_ms": 171813,
       "name": "Fina Estampa",
       "url": "https://open.spotify.com/track/108bZCxgGxeHFQb14rJC1H"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Tastes Like L.A.",
+        "url": "https://open.spotify.com/album/1PbmMKMsXwEC9S0I6YrMG6"
+      },
+      "artists": [
+        {
+          "name": "Las Cafeteras",
+          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
+        }
+      ],
+      "duration_ms": 235934,
+      "name": "Paletero",
+      "url": "https://open.spotify.com/track/7g0zc1QNXmrg44wpki6C6n"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
+        "name": "Presentando a \u00d1ico Saquito",
+        "url": "https://open.spotify.com/album/78R0uTkfDNPDKVypJ3zI4S"
+      },
+      "artists": [
+        {
+          "name": "\u00d1ico Saquito",
+          "url": "https://open.spotify.com/artist/0OThc8JLqTb1ThkLfsIGUi"
+        }
+      ],
+      "duration_ms": 158453,
+      "name": "Maria Cristina",
+      "url": "https://open.spotify.com/track/3hqjYthxFa5f21ISWn9xdN"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
         "name": "15 \u00c9xitos de los Zafiros",
         "url": "https://open.spotify.com/album/2h6wPeAK8c5vr6nCHxHtFj"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 259013,
       "name": "Los Sabores Del Porro",
       "url": "https://open.spotify.com/track/7mJ2WDNjByJ1Ncqa8NjRJH"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Presentando a \u00d1ico Saquito",
-        "url": "https://open.spotify.com/album/78R0uTkfDNPDKVypJ3zI4S"
-      },
-      "artists": [
-        {
-          "name": "\u00d1ico Saquito",
-          "url": "https://open.spotify.com/artist/0OThc8JLqTb1ThkLfsIGUi"
-        }
-      ],
-      "duration_ms": 158453,
-      "name": "Maria Cristina",
-      "url": "https://open.spotify.com/track/3hqjYthxFa5f21ISWn9xdN"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1605,22 +1605,6 @@
       "url": "https://open.spotify.com/track/48msusnRNPnqKeD9nFA1mB"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Guajira Guantanamera (Remastered)",
-        "url": "https://open.spotify.com/album/53nYU70GFZo0FvmWPjOoID"
-      },
-      "artists": [
-        {
-          "name": "Abelardo Barroso",
-          "url": "https://open.spotify.com/artist/54Cvt1RK4llutqZIBDZAVk"
-        }
-      ],
-      "duration_ms": 137530,
-      "name": "Los tamalitos de Olga - Remastered",
-      "url": "https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Songs for Moonlight Swim and Otros Tipos de Ocupaciones",
@@ -1635,6 +1619,22 @@
       "duration_ms": 165800,
       "name": "Allo Mambo",
       "url": "https://open.spotify.com/track/2ZGtVz8et8UW3pdP8Hg4Qx"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Guajira Guantanamera (Remastered)",
+        "url": "https://open.spotify.com/album/53nYU70GFZo0FvmWPjOoID"
+      },
+      "artists": [
+        {
+          "name": "Abelardo Barroso",
+          "url": "https://open.spotify.com/artist/54Cvt1RK4llutqZIBDZAVk"
+        }
+      ],
+      "duration_ms": 137530,
+      "name": "Los tamalitos de Olga - Remastered",
+      "url": "https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2"
     },
     {
       "added_at": "2022-01-11 03:10:29",

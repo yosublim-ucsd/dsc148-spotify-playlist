@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 103685,
+  "num_followers": 103693,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY3OTAyOCwwMDAwMDAwMDQ5MjdjZWQwNGJhZDk3M2MwNTZlMTdlMTRhYjdkMjhm",
+  "snapshot_id": "MTY4MDY3OTAyOCwwMDAwMDAwMDkzNmIyMmQwNmY5M2NkMGQ4OWZiMTY4NWI5NTQ2MGQx",
   "tracks": [
     {
       "added_at": "2023-04-05 07:17:08",
@@ -47,22 +47,6 @@
     {
       "added_at": "2023-04-05 07:17:08",
       "album": {
-        "name": "Interior",
-        "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
-      },
-      "artists": [
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 228734,
-      "name": "Interior - Edit",
-      "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
-    },
-    {
-      "added_at": "2023-04-05 07:17:08",
-      "album": {
         "name": "Continua",
         "url": "https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 211845,
       "name": "Blue Hour",
       "url": "https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW"
+    },
+    {
+      "added_at": "2023-04-05 07:17:08",
+      "album": {
+        "name": "Interior",
+        "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
+      },
+      "artists": [
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "duration_ms": 228734,
+      "name": "Interior - Edit",
+      "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
     },
     {
       "added_at": "2023-04-05 07:17:08",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-04-05 07:17:08",
       "album": {
-        "name": "Eat Your Own Ears Recordings EP 1",
-        "url": "https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 480253,
-      "name": "Scythe Master",
-      "url": "https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx"
-    },
-    {
-      "added_at": "2023-04-05 07:17:08",
-      "album": {
         "name": "TIOLI",
         "url": "https://open.spotify.com/album/6hXL6AoUVJIhIIY67nOD9B"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 278561,
       "name": "TIOLI",
       "url": "https://open.spotify.com/track/62Ho56ziilGANhRbJY2UvA"
+    },
+    {
+      "added_at": "2023-04-05 07:17:08",
+      "album": {
+        "name": "Eat Your Own Ears Recordings EP 1",
+        "url": "https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 480253,
+      "name": "Scythe Master",
+      "url": "https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx"
     },
     {
       "added_at": "2023-04-05 07:17:08",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-04-05 07:17:08",
       "album": {
-        "name": "meserole",
-        "url": "https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD"
-      },
-      "artists": [
-        {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "meserole",
-      "url": "https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE"
-    },
-    {
-      "added_at": "2023-04-05 07:17:08",
-      "album": {
         "name": "Caring EP",
         "url": "https://open.spotify.com/album/3pIUvgrnnoHYdTv0pts9wX"
       },
@@ -647,54 +631,18 @@
     {
       "added_at": "2023-04-05 07:17:08",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B"
+        "name": "meserole",
+        "url": "https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD"
       },
       "artists": [
         {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Oumou Sangar\u00e9",
-          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
         }
       ],
-      "duration_ms": 298713,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV"
-    },
-    {
-      "added_at": "2023-04-05 07:17:08",
-      "album": {
-        "name": "Setting Sun",
-        "url": "https://open.spotify.com/album/2ExANkuoKaZn7qOGvf014G"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 373166,
-      "name": "Setting Sun",
-      "url": "https://open.spotify.com/track/4BG4Smwt9cu1RzAKurrIN6"
-    },
-    {
-      "added_at": "2023-04-05 07:17:08",
-      "album": {
-        "name": "Go On",
-        "url": "https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1"
-      },
-      "artists": [
-        {
-          "name": "a.s.o.",
-          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Go On",
-      "url": "https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw"
+      "duration_ms": 213760,
+      "name": "meserole",
+      "url": "https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE"
     },
     {
       "added_at": "2023-04-05 07:17:08",
@@ -715,6 +663,58 @@
       "duration_ms": 256000,
       "name": "Is It Me",
       "url": "https://open.spotify.com/track/16mtgdA4xzXkDewenuZ45D"
+    },
+    {
+      "added_at": "2023-04-05 07:17:08",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
+        }
+      ],
+      "duration_ms": 298713,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV"
+    },
+    {
+      "added_at": "2023-04-05 07:17:08",
+      "album": {
+        "name": "Go On",
+        "url": "https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1"
+      },
+      "artists": [
+        {
+          "name": "a.s.o.",
+          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Go On",
+      "url": "https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw"
+    },
+    {
+      "added_at": "2023-04-05 07:17:08",
+      "album": {
+        "name": "Setting Sun",
+        "url": "https://open.spotify.com/album/2ExANkuoKaZn7qOGvf014G"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 373166,
+      "name": "Setting Sun",
+      "url": "https://open.spotify.com/track/4BG4Smwt9cu1RzAKurrIN6"
     },
     {
       "added_at": "2023-04-05 07:17:08",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-04-05 07:17:08",
       "album": {
-        "name": "The Work",
-        "url": "https://open.spotify.com/album/6WgLRmwO5Kljv9GjDiRHnV"
-      },
-      "artists": [
-        {
-          "name": "Gold Panda",
-          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
-        }
-      ],
-      "duration_ms": 337266,
-      "name": "Plastic Future",
-      "url": "https://open.spotify.com/track/3r0MPlszKS3iIYcZOAJDME"
-    },
-    {
-      "added_at": "2023-04-05 07:17:08",
-      "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/5ZDfdoj6YtnOhPGwPKTTr8"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 349000,
       "name": "Floating",
       "url": "https://open.spotify.com/track/0sfY8uUKQxPqnK8sqvvKO2"
+    },
+    {
+      "added_at": "2023-04-05 07:17:08",
+      "album": {
+        "name": "The Work",
+        "url": "https://open.spotify.com/album/6WgLRmwO5Kljv9GjDiRHnV"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "duration_ms": 337266,
+      "name": "Plastic Future",
+      "url": "https://open.spotify.com/track/3r0MPlszKS3iIYcZOAJDME"
     },
     {
       "added_at": "2023-04-05 07:17:08",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-04-05 07:17:08",
       "album": {
-        "name": "ENCLOSURE",
-        "url": "https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0"
-      },
-      "artists": [
-        {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
-        }
-      ],
-      "duration_ms": 259805,
-      "name": "ENCLOSURE",
-      "url": "https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3"
-    },
-    {
-      "added_at": "2023-04-05 07:17:08",
-      "album": {
         "name": "Basic Instinct",
         "url": "https://open.spotify.com/album/22xLqkwE6w0lHo7wERFM8q"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 284477,
       "name": "SFC - Hommage Mix",
       "url": "https://open.spotify.com/track/7tKPryPVYvvkFFG1T88XXt"
+    },
+    {
+      "added_at": "2023-04-05 07:17:08",
+      "album": {
+        "name": "ENCLOSURE",
+        "url": "https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 259805,
+      "name": "ENCLOSURE",
+      "url": "https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3"
     },
     {
       "added_at": "2023-04-05 07:17:08",
@@ -1207,26 +1207,18 @@
     {
       "added_at": "2023-04-05 07:17:08",
       "album": {
-        "name": "CROOK",
-        "url": "https://open.spotify.com/album/4I1K9n6EPW7AwwXtrrCDTC"
+        "name": "Holding on to You",
+        "url": "https://open.spotify.com/album/5FJQTiYHMOL01mewrJk7i4"
       },
       "artists": [
         {
-          "name": "Slackin Beats",
-          "url": "https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw"
-        },
-        {
-          "name": "Kamohelo",
-          "url": "https://open.spotify.com/artist/4MQQ7JhKhqSqJpWGgwUSvu"
-        },
-        {
-          "name": "Joshua Idehen",
-          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
+          "name": "Self Tape",
+          "url": "https://open.spotify.com/artist/2OqNVgWhbgGiCO4an8N5eI"
         }
       ],
-      "duration_ms": 254268,
-      "name": "TIME",
-      "url": "https://open.spotify.com/track/0xwx7706qyfnugQQk7yTpN"
+      "duration_ms": 252409,
+      "name": "Holding on to You",
+      "url": "https://open.spotify.com/track/3NOx5rHwKupINajmxRRnL1"
     }
   ],
   "unique_name": "Night Shift",

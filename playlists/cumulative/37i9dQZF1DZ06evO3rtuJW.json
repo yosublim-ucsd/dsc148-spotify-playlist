@@ -1223,6 +1223,28 @@
     },
     {
       "album": {
+        "name": "Quagen",
+        "url": "https://open.spotify.com/album/1WEZlyqmg306dk6Ot8dd3L"
+      },
+      "artists": [
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160465,
+      "name": "Quagen",
+      "url": "https://open.spotify.com/track/4XzYDjSECJx8zxVwVPbn9t"
+    },
+    {
+      "album": {
         "name": "Raining",
         "url": "https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo"
       },
@@ -1604,7 +1626,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 155773,
       "name": "Up Next 3",
       "url": "https://open.spotify.com/track/2uCncSbMLOMF6rlA2ThdGO"

@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. Foto: Cartel de Santa",
-  "num_followers": 138991,
+  "num_followers": 139224,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNzA5NDA5NywwMDAwMDAwMGZkOWRiZjA5OTlhMGRjNTQzZjVmOWNkNTNjY2ViODQ0",
+  "snapshot_id": "MTYzNzA5NDA5NywwMDAwMDAwMGJiZGQwZmM2NmZmMzhhNWJiMjNlN2E3ZTE0YmY2NzNk",
   "tracks": [
     {
       "added_at": "2021-11-16 20:18:05",
@@ -119,30 +119,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Activados y Prendidos",
-        "url": "https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj"
-      },
-      "artists": [
-        {
-          "name": "Santa Estilo",
-          "url": "https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG"
-        },
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        },
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        }
-      ],
-      "duration_ms": 208026,
-      "name": "Pesao",
-      "url": "https://open.spotify.com/track/6yZbbWkQ0cIjNXhOaBAfWP"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Loca",
         "url": "https://open.spotify.com/album/43C5SssUVrK56hbM6afOYQ"
       },
@@ -171,6 +147,30 @@
       "duration_ms": 246382,
       "name": "Loca",
       "url": "https://open.spotify.com/track/0vnrhysrKKRdNYFKLAGzRc"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Activados y Prendidos",
+        "url": "https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj"
+      },
+      "artists": [
+        {
+          "name": "Santa Estilo",
+          "url": "https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG"
+        },
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "Pesao",
+      "url": "https://open.spotify.com/track/6yZbbWkQ0cIjNXhOaBAfWP"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -295,6 +295,26 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4SJhZBuuLYlwUJGxWf8Pj0"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "duration_ms": 305280,
+      "name": "Bandoleros",
+      "url": "https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "Loca Remix",
         "url": "https://open.spotify.com/album/5EuK2rW0iPINmt21KPbIUQ"
       },
@@ -319,26 +339,6 @@
       "duration_ms": 346460,
       "name": "Loca - Remix",
       "url": "https://open.spotify.com/track/2ECIwi1a7mfokdDkkJ08Ne"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4SJhZBuuLYlwUJGxWf8Pj0"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-        }
-      ],
-      "duration_ms": 305280,
-      "name": "Bandoleros",
-      "url": "https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Apaga el celular",
-        "url": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 225942,
-      "name": "Apaga el celular",
-      "url": "https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
         "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 237760,
       "name": "Siempre Peligroso (feat. Fermin IV Caballero)",
       "url": "https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Apaga el celular",
+        "url": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 225942,
+      "name": "Apaga el celular",
+      "url": "https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "Unidad 9",
+        "url": "https://open.spotify.com/album/4h2vgnpajpNUUnilwMjxjQ"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        }
+      ],
+      "duration_ms": 160470,
+      "name": "Unidad 9",
+      "url": "https://open.spotify.com/track/4e4zBLxCHWwOyfT1qkXcFb"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "Atrevido",
         "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
       },
@@ -1667,18 +1683,18 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Unidad 9",
-        "url": "https://open.spotify.com/album/4h2vgnpajpNUUnilwMjxjQ"
+        "name": "24/Siempre Vol.1",
+        "url": "https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr"
       },
       "artists": [
         {
-          "name": "Bardero$",
-          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+          "name": "El Triangulo Estudio",
+          "url": "https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm"
         }
       ],
-      "duration_ms": 160470,
-      "name": "Unidad 9",
-      "url": "https://open.spotify.com/track/4e4zBLxCHWwOyfT1qkXcFb"
+      "duration_ms": 152298,
+      "name": "Homer el Mero Mero",
+      "url": "https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1695,22 +1711,6 @@
       "duration_ms": 201986,
       "name": "1977",
       "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "24/Siempre Vol.1",
-        "url": "https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr"
-      },
-      "artists": [
-        {
-          "name": "El Triangulo Estudio",
-          "url": "https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm"
-        }
-      ],
-      "duration_ms": 152298,
-      "name": "Homer el Mero Mero",
-      "url": "https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Aquel Que Habia Muerto",
-        "url": "https://open.spotify.com/album/4bs7KOBJGZnfSpP4QBP15G"
-      },
-      "artists": [
-        {
-          "name": "Vico C",
-          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
-        }
-      ],
-      "duration_ms": 371000,
-      "name": "Tony Presidio",
-      "url": "https://open.spotify.com/track/059R1Qzi5TyYqVKNT1xlaL"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Un D\u00eda En Suburbia",
         "url": "https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 276120,
       "name": "Efectos Vocales",
       "url": "https://open.spotify.com/track/5CTkt6WZHrzG7i060niTmV"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Aquel Que Habia Muerto",
+        "url": "https://open.spotify.com/album/4bs7KOBJGZnfSpP4QBP15G"
+      },
+      "artists": [
+        {
+          "name": "Vico C",
+          "url": "https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6"
+        }
+      ],
+      "duration_ms": 371000,
+      "name": "Tony Presidio",
+      "url": "https://open.spotify.com/track/059R1Qzi5TyYqVKNT1xlaL"
     },
     {
       "added_at": "2021-11-16 20:18:05",

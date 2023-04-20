@@ -1506,10 +1506,32 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 213850,
       "name": "NADA QUE DECIR",
       "url": "https://open.spotify.com/track/2Qnjj1OqW9NDTzBeanuXIP"
+    },
+    {
+      "album": {
+        "name": "S\u00daBEME EL VOLUMEN",
+        "url": "https://open.spotify.com/album/24zX07CzVp04RN4qNgsFn9"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        },
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213850,
+      "name": "NADA QUE DECIR",
+      "url": "https://open.spotify.com/track/6G1MDQDDID2UqYOJKmv8WU"
     },
     {
       "album": {

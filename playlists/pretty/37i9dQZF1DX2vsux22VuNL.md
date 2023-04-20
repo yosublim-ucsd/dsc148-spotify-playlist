@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Cynthia Luz, ZAAC
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,693 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,785 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 53 | [Não Mente pra Ela](https://open.spotify.com/track/0HQV32PeVc2tSDb5tEa5Pe) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [Ainda É Verão](https://open.spotify.com/album/6dqhvYU1aPHIXf0lHCOnVC) | 2:55 |
 | 54 | [Acústico Altamira \#20 \- Mulher Carioca](https://open.spotify.com/track/1dPYH7lKhUZHoaZMMeQHN3) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [John Bxd](https://open.spotify.com/artist/5PvvzrZ16XGd0VoU2FvUR8), [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Thebosh](https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI), [Hila Campelo](https://open.spotify.com/artist/5ekmhzyylAHmiQrzCS58vf), [Guetta FInelly](https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX) | [Acústico Altamira \#20 \- Mulher Carioca](https://open.spotify.com/album/7IaErXiyLBdaxKDqzd892m) | 6:04 |
 | 55 | [Refém](https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Refém](https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0) | 3:00 |
-| 56 | [Um Pouco Mais](https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb) | [João Zoli](https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Um Pouco Mais](https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga) | 3:02 |
-| 57 | [CULPADO](https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [CULPADO](https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie) | 3:02 |
+| 56 | [CULPADO](https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [CULPADO](https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie) | 3:02 |
+| 57 | [Um Pouco Mais](https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb) | [João Zoli](https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Um Pouco Mais](https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga) | 3:02 |
 | 58 | [Queria Te Ver](https://open.spotify.com/track/5FLHmx1hk4KpuiuXMz4KJo) | [Taylan](https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Queria Te Ver](https://open.spotify.com/album/7cCWhB0Bl8mVYC89BYyWJ8) | 3:09 |
 | 59 | [Copacabana](https://open.spotify.com/track/2dDz08vDQyOJ7tX4oE0xnW) | [Kalli](https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I), [NaBuscaDoOuro](https://open.spotify.com/artist/5MsYZJftF2EukeaOmEpI9S) | [Copacabana](https://open.spotify.com/album/0tNl0J8LP33Y8BIBqfq7c5) | 2:49 |
 | 60 | [Linda](https://open.spotify.com/track/3knUp342DsZsUmcY62m1vU) | [MC Lemos](https://open.spotify.com/artist/4c4seBofkiiONBxLBd4CUa), [MC Liro](https://open.spotify.com/artist/3i7YFHRKEJmsz4cVqeF2eG), [MC Torugo](https://open.spotify.com/artist/30qXkHd2Thmw1wqJvgRa7o), [Mc Digo STC](https://open.spotify.com/artist/3qyS5M2cuAZ6a2t43qlrpn) | [Linda](https://open.spotify.com/album/2xecTy7S2ZldxcMSDiYkb3) | 3:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 79 | [Baby](https://open.spotify.com/track/1R1Og3MKiYJGUFUpudLklx) | [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3), [Maipo Beats](https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx) | [Baby](https://open.spotify.com/album/2aohzSz5kigRkQZ5lagVaM) | 2:58 |
 | 80 | [O Que Você Quiser](https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN) | [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ) | [O Que Você Quiser](https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk) | 2:56 |
 
-Snapshot ID: `MTY4MTc0MjE0NiwwMDAwMDAwMDE5OTI3NDc5ZDIyMDYxZjg0MGQ3ZDViMTZhYzUwN2Fm`
+Snapshot ID: `MTY4MTc0MjE0NiwwMDAwMDAwMGUzZWI2OWRkODVkODUyY2Y0ODkwNGJkOWUxZTk4ZjU0`

@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these instrumental masterpieces.",
-  "num_followers": 165270,
+  "num_followers": 165392,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTkzMzUzMiwwMDAwMDAwMDNhMDc5OGFhYzBlYTk0M2IzNGY2MjlmN2I0NTZhODc4",
+  "snapshot_id": "MTY3NTkzMzUzMiwwMDAwMDAwMDQzM2U4YzVmYTQ2NjgyZmIzZjA2OTZlMjdjZGMwZDAz",
   "tracks": [
     {
       "added_at": "2022-07-29 13:33:43",
@@ -383,30 +383,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Flute and Harp",
-        "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
-      },
-      "artists": [
-        {
-          "name": "Nora Mercz",
-          "url": "https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb"
-        },
-        {
-          "name": "Nikolai Rimsky-Korsakov",
-          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
-        },
-        {
-          "name": "Janos Balint",
-          "url": "https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
-      "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Mussorgsky: Pictures at an Exhibition - Expanded Edition",
         "url": "https://open.spotify.com/album/5kxCGK9XhXVD9AX9wje6om"
       },
@@ -431,26 +407,6 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Liszt - My Piano Hero",
-        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "duration_ms": 259573,
-      "name": "Consolation No. 3 in D-Flat Major, S. 172",
-      "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
         "name": "Mozart: Piano Sonatas, Vol. 2 (Piano Sonatas Nos. 9, 12, 16 and 17)",
         "url": "https://open.spotify.com/album/4HcdQvJCxT9LdkOcvDaeYB"
       },
@@ -471,22 +427,46 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Brahms: Symphonies 1-4",
-        "url": "https://open.spotify.com/album/1kG0o56c2BBq0dKMOih9gs"
+        "name": "Liszt - My Piano Hero",
+        "url": "https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu"
       },
       "artists": [
         {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
         },
         {
-          "name": "David Zinman",
-          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
         }
       ],
-      "duration_ms": 374733,
-      "name": "Symphony No. 3 in F Major, Op. 90: III. Poco allegretto",
-      "url": "https://open.spotify.com/track/4Weo3vMehKR84QR3gEgwm8"
+      "duration_ms": 259573,
+      "name": "Consolation No. 3 in D-Flat Major, S. 172",
+      "url": "https://open.spotify.com/track/0Jp7n6FKqGVxtXPMVYtMQr"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Flute and Harp",
+        "url": "https://open.spotify.com/album/33MNfDsswl60MN5B526hI2"
+      },
+      "artists": [
+        {
+          "name": "Nora Mercz",
+          "url": "https://open.spotify.com/artist/4VmX4klHDDn0mIyG7pQ8tb"
+        },
+        {
+          "name": "Nikolai Rimsky-Korsakov",
+          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
+        },
+        {
+          "name": "Janos Balint",
+          "url": "https://open.spotify.com/artist/7BLZsD2sdXgqkg7K3Natw6"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
+      "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -507,6 +487,26 @@
       "duration_ms": 80280,
       "name": "Lyric Pieces Book I, Op. 12: No. 7 Album Leaf",
       "url": "https://open.spotify.com/track/12kRWIoumTRhk6jTIqjm3z"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
+        "name": "Brahms: Symphonies 1-4",
+        "url": "https://open.spotify.com/album/1kG0o56c2BBq0dKMOih9gs"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "duration_ms": 374733,
+      "name": "Symphony No. 3 in F Major, Op. 90: III. Poco allegretto",
+      "url": "https://open.spotify.com/track/4Weo3vMehKR84QR3gEgwm8"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -967,6 +967,30 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Piano Recital: Raekallio, Matti - Mozart, W.A. / Gluck, C.W. / Wagner, R. / Liszt, F. / Busoni, F. (Transcriptions - A Night at the Opera)",
+        "url": "https://open.spotify.com/album/6XpiHz1VSNQOR18Nj4pH0J"
+      },
+      "artists": [
+        {
+          "name": "Christoph Willibald Gluck",
+          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
+        },
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Matti Raekallio",
+          "url": "https://open.spotify.com/artist/0BP5X6U7xuiSDl0zpr9JQg"
+        }
+      ],
+      "duration_ms": 244333,
+      "name": "Iphigenie en Aulide, Act II: Gavotte (arr. J. Brahms)",
+      "url": "https://open.spotify.com/track/5a6LNnUyLmQ0kPo93qpKJk"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Haydn: Cello Concertos (Remastered)",
         "url": "https://open.spotify.com/album/7M3Q7tG8qbEjk91laYhHIA"
       },
@@ -991,30 +1015,6 @@
       "duration_ms": 493800,
       "name": "Cello Concerto No. 1 in C Major, Hob. VIIb:1: II. Adagio",
       "url": "https://open.spotify.com/track/3cc1BpGtocKOEnROApTv8M"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Piano Recital: Raekallio, Matti - Mozart, W.A. / Gluck, C.W. / Wagner, R. / Liszt, F. / Busoni, F. (Transcriptions - A Night at the Opera)",
-        "url": "https://open.spotify.com/album/6XpiHz1VSNQOR18Nj4pH0J"
-      },
-      "artists": [
-        {
-          "name": "Christoph Willibald Gluck",
-          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
-        },
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Matti Raekallio",
-          "url": "https://open.spotify.com/artist/0BP5X6U7xuiSDl0zpr9JQg"
-        }
-      ],
-      "duration_ms": 244333,
-      "name": "Iphigenie en Aulide, Act II: Gavotte (arr. J. Brahms)",
-      "url": "https://open.spotify.com/track/5a6LNnUyLmQ0kPo93qpKJk"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Are You Still Somewhere?",
+        "url": "https://open.spotify.com/album/36xU7Hq8G8QbsRrl59TyxD"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "duration_ms": 146360,
+      "name": "Saman",
+      "url": "https://open.spotify.com/track/0ZZR7yshyNORje3HH1yxUX"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Grieg: Peer Gynt, Suite No. 1, Op. 46 / Suite No. 2, Op. 55 / Holberg Suite, Op. 40",
         "url": "https://open.spotify.com/album/77MuBVRR2QtTckEV4EluCQ"
       },
@@ -1079,26 +1099,6 @@
       "duration_ms": 202240,
       "name": "Peer Gynt-Suite Nr. 1, Op. 46: III. Anitra's Dance",
       "url": "https://open.spotify.com/track/5ebC5YZw56vrVIkIbkbNvP"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Are You Still Somewhere?",
-        "url": "https://open.spotify.com/album/36xU7Hq8G8QbsRrl59TyxD"
-      },
-      "artists": [
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        },
-        {
-          "name": "Lavinia Meijer",
-          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
-        }
-      ],
-      "duration_ms": 146360,
-      "name": "Saman",
-      "url": "https://open.spotify.com/track/0ZZR7yshyNORje3HH1yxUX"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1171,6 +1171,26 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
+        "name": "Mendelssohn",
+        "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Philippe Cassard",
+          "url": "https://open.spotify.com/artist/5uYFQGCwvdTgxXz9IgZ64h"
+        }
+      ],
+      "duration_ms": 169653,
+      "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
+      "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
+    },
+    {
+      "added_at": "2022-07-29 13:33:43",
+      "album": {
         "name": "Couperin: Les Ombres Errantes",
         "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 376440,
       "name": "Nocturnes, Op. 27: No. 2 in D-Flat Major",
       "url": "https://open.spotify.com/track/1nGDsTkP1npeWj4hJ9s9pw"
-    },
-    {
-      "added_at": "2022-07-29 13:33:43",
-      "album": {
-        "name": "Mendelssohn",
-        "url": "https://open.spotify.com/album/06wVu1cPM1WzE5V2uyK8cj"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Philippe Cassard",
-          "url": "https://open.spotify.com/artist/5uYFQGCwvdTgxXz9IgZ64h"
-        }
-      ],
-      "duration_ms": 169653,
-      "name": "Songs without Words, Op. 67, No. 3 in B-Flat Major: Andante tranquillo",
-      "url": "https://open.spotify.com/track/0QgKSCaOjfBkMLxNlI2VpB"
     },
     {
       "added_at": "2022-07-29 13:33:43",
@@ -1275,22 +1275,22 @@
     {
       "added_at": "2022-07-29 13:33:43",
       "album": {
-        "name": "Bach, J.S.: French Suites Nos. 1-6/Italian Concerto etc.",
-        "url": "https://open.spotify.com/album/4L2s1hLPrtrpYFeJ9Kws6R"
+        "name": "Mendelssohn: Piano Works",
+        "url": "https://open.spotify.com/album/1cmJVWdLSHChbvNcuMtl55"
       },
       "artists": [
         {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
         },
         {
-          "name": "Andr\u00e1s Schiff",
-          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
+          "name": "Doomin Kim",
+          "url": "https://open.spotify.com/artist/4d6PL0pPLjCgHV0n0vjwUN"
         }
       ],
-      "duration_ms": 83960,
-      "name": "French Suite No. 2 in C minor, BWV 813: 5a. Menuet I",
-      "url": "https://open.spotify.com/track/5hVQBGGwTzB6ePIF8RZ0FG"
+      "duration_ms": 253920,
+      "name": "Mendelssohn: 3 Fantaisies, Op. 16: III. Andante",
+      "url": "https://open.spotify.com/track/2bWjWJyHKMgUmmFGgW75NP"
     },
     {
       "added_at": "2022-07-29 13:33:43",

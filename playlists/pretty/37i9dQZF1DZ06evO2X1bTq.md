@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 
 > This is U2\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136,113 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,136,346 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2X1bTq.md) - [plain]
 | 49 | [Hold Me, Thrill Me, Kiss Me, Kill Me \- From 'Batman Forever'](https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1990\-2000](https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv) | 4:44 |
 | 50 | [Your Song Saved My Life \- From Sing 2](https://open.spotify.com/track/3d3n9XvxajBXWP1h6adV6a) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Sing 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WCLzYOlSmLD2cy1RXdwUd) | 3:31 |
 
-Snapshot ID: `MjgwMzAzOTAsMDAwMDAwMDBjYWVjM2Y1MTg4YmI1YjFjYjA3MWEwZmY3NDBhOTUzMQ==`
+Snapshot ID: `MjgwMzE3ODMsMDAwMDAwMDA3N2I0M2UzNTU1MTE3Zjk3NjAxMjVkMGU3YjEyNjkzYQ==`

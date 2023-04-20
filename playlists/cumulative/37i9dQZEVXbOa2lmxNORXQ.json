@@ -4275,6 +4275,24 @@
     },
     {
       "album": {
+        "name": "Fantasmeo",
+        "url": "https://open.spotify.com/album/0i9ro1VRhL7rHyCbHmFDVL"
+      },
+      "artists": [
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134840,
+      "name": "Fantasmeo",
+      "url": "https://open.spotify.com/track/0feQXsZeNjkKtpFCF4Lgs9"
+    },
+    {
+      "album": {
         "name": "De Pel\u00edcula",
         "url": "https://open.spotify.com/album/5zrHyuF84953CZ1PLwTQeb"
       },
@@ -4884,7 +4902,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 208013,
       "name": "GAT\u00daBELA",
       "url": "https://open.spotify.com/track/6Vn1vje8yMw2OY6IOk9dkH"
@@ -8551,6 +8569,24 @@
     },
     {
       "album": {
+        "name": "No Se Va (En Vivo)",
+        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194019,
+      "name": "No Se Va - En Vivo",
+      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
+    },
+    {
+      "album": {
         "name": "No Te Enamores (Remix)",
         "url": "https://open.spotify.com/album/77aeZo4yYPoMsnnRtPPpuk"
       },
@@ -10016,7 +10052,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 151324,
       "name": "PUNTO G",
       "url": "https://open.spotify.com/track/4WiQA1AGWHFvaxBU6bHghs"

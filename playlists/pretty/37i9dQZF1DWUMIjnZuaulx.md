@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  <a href="https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6?si=f65c81015eac42c2">Gene Moore</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,168 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,322 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

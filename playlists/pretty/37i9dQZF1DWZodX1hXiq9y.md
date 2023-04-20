@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 
 > The greatest saxophonists in Jazz\. Cover: John Coltrane
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,464 likes - 100 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,573 likes - 100 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 45 | [Moment's Notice](https://open.spotify.com/track/3GXYGbyvprPqiH9do6ewY3) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Blue Train](https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga) | 9:10 |
 | 46 | [Confirmation](https://open.spotify.com/track/29erJjtgdbh1KbG7MuPJCj) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Now’s The Time: The Genius Of Charlie Parker \#3](https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3) | 2:58 |
 | 47 | [Darn That Dream \- Remastered 2015](https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [One Flight Up \(Remastered 2015\)](https://open.spotify.com/album/6VwDnT2q9r7HbxNsyGr0r8) | 7:31 |
-| 48 | [Wrapped Tight](https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Wrapped Tight](https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e) | 3:28 |
+| 48 | [Recorda Me](https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Page One](https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi) | 6:01 |
 | 49 | [Yes Or No \- Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster](https://open.spotify.com/track/2PGjqrXgOBqP8G4R6EKmpR) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [JuJu](https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq) | 6:39 |
-| 50 | [Recorda Me](https://open.spotify.com/track/3KUSSxjujFcEGhnsm0qeDo) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Page One](https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi) | 6:01 |
-| 51 | [Opus De Funk](https://open.spotify.com/track/3tj4JjIIW5gaQ6yi6Qmr9j) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper + Eleven: Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 3:12 |
+| 50 | [Opus De Funk](https://open.spotify.com/track/3tj4JjIIW5gaQ6yi6Qmr9j) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper + Eleven: Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 3:12 |
+| 51 | [Wrapped Tight](https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Wrapped Tight](https://open.spotify.com/album/1UZ00S0S5XACLjQn2caq8e) | 3:28 |
 | 52 | [Everything Happens To Me](https://open.spotify.com/track/2m8vNmDGz5GCGLxJfWIsJI) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Presenting The Gerry Mulligan Sextet](https://open.spotify.com/album/52A8U2TeGb5u9NeXNSTs4Y) | 5:23 |
 | 53 | [Sophisticated Lady](https://open.spotify.com/track/0VfMAOS8d2Tbaxuozgy8qJ) | [Cliff Jordan](https://open.spotify.com/artist/6nJj8JTUBrIp9BtIwbdvij) | [Cliff Craft](https://open.spotify.com/album/4F2H4MjAaM0QQ1G8iBs63a) | 6:46 |
 | 54 | [If I Should Lose You \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/5Li88NjZlTMl8v68GIJJ5v) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Soul Station](https://open.spotify.com/album/731OW49heGHCMrMOREHYlY) | 5:10 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 76 | [Imagination](https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper Meets The Rhythm Section \(OJC Remaster\)](https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX) | 5:55 |
 | 77 | [Refuge](https://open.spotify.com/track/0pH6I6QkzMteLP5hN4jBNW) | [Bruce Barth](https://open.spotify.com/artist/5gncn8f4S1TH6B25s2Scq7), [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ), [Mark Hodgson](https://open.spotify.com/artist/4ToDmqGzmiL8Jh4sNyBGjt), [Stephen Keogh](https://open.spotify.com/artist/4QKgrUdq1rBVXYojWp7qAR) | [Sunday](https://open.spotify.com/album/0KFZ6Ao2cF2fAoOdD0hEsf) | 6:41 |
 | 78 | [Song For Bilbao](https://open.spotify.com/track/0WMG5EgKUdK73cLMEPoRMX) | [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Tales From The Hudson](https://open.spotify.com/album/0ETqvY4pIhY46IXMTUpXMc) | 5:44 |
-| 79 | [Don't Cry, Just Sigh](https://open.spotify.com/track/0Q9ueLELd8chcwhOT1moRp) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Third Season](https://open.spotify.com/album/5I0pKphkhgnP2wG4eRyMIu) | 6:54 |
-| 80 | [Yearnin'](https://open.spotify.com/track/4L102q3UPh5dyJDUeuPVjY) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues And The Abstract Truth](https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY) | 6:23 |
+| 79 | [Yearnin'](https://open.spotify.com/track/4L102q3UPh5dyJDUeuPVjY) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues And The Abstract Truth](https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY) | 6:23 |
+| 80 | [Don't Cry, Just Sigh](https://open.spotify.com/track/0Q9ueLELd8chcwhOT1moRp) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Third Season](https://open.spotify.com/album/5I0pKphkhgnP2wG4eRyMIu) | 6:54 |
 | 81 | [Lover Come Back To Me](https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ) | [The Ben Webster Quintet](https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU) | [Soulville](https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc) | 8:28 |
 | 82 | [Peace](https://open.spotify.com/track/4TrzjMsOnd1KWkWrsDRB3u) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [The Shape Of Jazz To Come](https://open.spotify.com/album/2iPH3iUmpa9ufIpwY76keF) | 9:04 |
 | 83 | [In Your Own Sweet Way](https://open.spotify.com/track/0gD78Kq5CLlc1j9e9G8Ejv) | [Phil Woods Quartet](https://open.spotify.com/artist/26wNMXNMK8k7TlGqIlTe6C) | [Warm Woods](https://open.spotify.com/album/4Wfr4INnLiPK2AV443vbvH) | 8:05 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZodX1hXiq9y.md) - [plain]
 | 97 | [All For You](https://open.spotify.com/track/2BxwSCpTP3nIQGHN1fsNsP) | [L\. Shankar](https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr), [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Palle Mikkelborg](https://open.spotify.com/artist/1BanDVpS18UOTBMdv5VgEy) | [Vision](https://open.spotify.com/album/630ljtZzbwOEQbk4BTw3Lq) | 6:36 |
 | 98 | [Alone Together](https://open.spotify.com/track/1iGtxVoabfF86qjcyfNsNy) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 7:34 |
 | 99 | [Almost Like Being In Love](https://open.spotify.com/track/5T7Yd8dDaNLeFhv4dRfrkA) | [Jutta Hipp](https://open.spotify.com/artist/1nUb2VIRkIq9Qwmg1XdI1T), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Jutta Hipp With Zoot Sims \(Expanded Edition\)](https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2) | 6:16 |
-| 100 | [That Old Feeling](https://open.spotify.com/track/3IMc9STtRwcCwT7Nfk9rDa) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Cool Imagination](https://open.spotify.com/album/4HRKjc0n2Vo2WxRvTbe6UY) | 5:45 |
+| 100 | [Dukes Place](https://open.spotify.com/track/5CPy7jJup06T0xfzYK7xwr) | [Paul Gonsalves](https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4) | [Tell It The Way It Is](https://open.spotify.com/album/22Nw7i0lxcEYho6G5kWPLi) | 5:28 |
 
-Snapshot ID: `MTY4MTM5MzI5MCwwMDAwMDAwMDJiNDZhMmUzNzhjOTVmMmE3MzkwMjEzMTJhOGZhOTM1`
+Snapshot ID: `MTY4MTM5MzI5MCwwMDAwMDAwMGMzODBiMmU0ZTczMDg5MzIyYWM0MGFmNjNiMzYyMzYz`

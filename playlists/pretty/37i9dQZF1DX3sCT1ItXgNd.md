@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor y lo último del pop en español\. Foto: Lola Indigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 973,486 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 973,648 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 27 | [Himno \(para los que están jodidos\)](https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Himno \(para los que están jodidos\)](https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c) | 3:05 |
 | 28 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 |
 | 29 | [Bailando por Ahi](https://open.spotify.com/track/6sHBvzRsuGunQTfCk18KXi) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [The King Of Dance](https://open.spotify.com/album/67hCGmMfz8cg2YLO0xZWnx) | 3:00 |
-| 30 | [NADA QUE DECIR](https://open.spotify.com/track/2Qnjj1OqW9NDTzBeanuXIP) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [NADA QUE DECIR](https://open.spotify.com/album/4CIjghQcVgXkYJscGKEQKF) | 3:33 |
+| 30 | [NADA QUE DECIR](https://open.spotify.com/track/6G1MDQDDID2UqYOJKmv8WU) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [SÚBEME EL VOLUMEN](https://open.spotify.com/album/24zX07CzVp04RN4qNgsFn9) | 3:33 |
 | 31 | [Beber x Beber](https://open.spotify.com/track/0cUIUxrjsw8PtfBk1SJ8jE) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Gemeliers](https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw) | [Beber x Beber](https://open.spotify.com/album/3gpvzrGqLxk788DWga2Mhi) | 2:24 |
 | 32 | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/track/35HgzqAoEZ28Ovq7kb9nDz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/album/4IhIx79me6iItoaJzR0Xqb) | 3:09 |
 | 33 | [Tu Nombre](https://open.spotify.com/track/0Mb1fm62mIKntgbZFFYpRF) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Tu Nombre](https://open.spotify.com/album/6pKnIlwJfXJxqHjDmpvABs) | 3:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 69 | [SI ELLA SUPIERA](https://open.spotify.com/track/2GXCmc3A6ahTNnBsrkrRuh) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [SI ELLA SUPIERA](https://open.spotify.com/album/4MTPsE7cVMXfxZAjsTopE3) | 3:53 |
 | 70 | [hey, goodbye](https://open.spotify.com/track/2mYuCEPvJw5FdVHhnSQJaL) | [Paula Koops](https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0) | [Novia del Año](https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0) | 2:56 |
 
-Snapshot ID: `MTY4MTc1OTE4NCwwMDAwMDAwMDdhMTUwYzI3YTE3ZjEzYzRkOWEwZmQwNTRiYmQ4MDU3`
+Snapshot ID: `MTY4MTc1OTE4NCwwMDAwMDAwMDFiYWRiZDBiMTAxNGU4YzI3YzJjNjA4N2EzZjU0YTg4`

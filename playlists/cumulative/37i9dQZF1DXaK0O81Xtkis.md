@@ -4,14 +4,15 @@
 
 > make it pop! cover: LAUREL
 
-611 songs - 1 day 6 hr 45 min
+612 songs - 1 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Tears](https://open.spotify.com/track/33Nc5TE2bPHa6wtUUFLVSz) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [1000 Tears](https://open.spotify.com/album/1GeOaXdpEL6mksQ0ELEnCT) | 2:41 | 2022-02-04 | 2022-02-26 |
 | [1234](https://open.spotify.com/track/4UQPvROrUn90skWOg9TURi) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [1234](https://open.spotify.com/album/3bcd3bKiWvgLgVk8lGux27) | 2:49 | 2022-08-12 | 2022-09-24 |
 | [1990something](https://open.spotify.com/track/1bC1bEPZSKxgZgBgEVn2yj) | [Sub\-Radio](https://open.spotify.com/artist/2lCUVconWp5YjxdYssfZ8J) | [1990something](https://open.spotify.com/album/7cCB1WAPcvnpnT0BRHDfSE) | 3:03 | 2022-07-08 | 2022-09-17 |
-| [2 BEST FRIENDS](https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:18 | 2023-04-14 |  |
+| [2 BEST FRIENDS](https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:18 | 2023-04-14 | 2023-04-20 |
+| [2 BEST FRIENDS](https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4) | 2:18 | 2023-04-14 |  |
 | [2 Tickets](https://open.spotify.com/track/6YjaHh4wHcODkm1dcwlCj7) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [2 Tickets](https://open.spotify.com/album/3WbCUUnQCxiWDCkAKpMIpF) | 2:28 | 2022-07-15 | 2022-08-27 |
 | [26](https://open.spotify.com/track/0du67LyuJeUjQChxl8rTa8) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [26](https://open.spotify.com/album/2pPSHoIampOxsEPMsah6RG) | 2:38 | 2022-01-28 | 2022-03-18 |
 | [30/90 \(from "tick, tick..\. BOOM!" Soundtrack from the Netflix Film\)](https://open.spotify.com/track/55MIRLbZzpYSmMlRt9ZDWM) | [Andrew Garfield](https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72), [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE), [Robin de Jesus](https://open.spotify.com/artist/6mXcTwoata1hkaDMbkzw32), [Alexandra Shipp](https://open.spotify.com/artist/6RKS67sIPOW16NcGWkgdzF), [MJ Rodriguez](https://open.spotify.com/artist/1fNy49puWuYTyLiKNHAcig) | [tick, tick..\. BOOM! \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ) | 4:22 | 2021-12-10 | 2022-01-15 |

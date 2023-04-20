@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 
 > This is Vilma Palma e Vampiros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,722 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,746 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 | 30 | [Agarrate Fuerte](https://open.spotify.com/track/3lUBSiPCNkJGVmd9jG6T39) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7) | 3:15 |
 | 31 | [La Noche Que Yo Te Vi](https://open.spotify.com/track/6UwLuzW1kxFiBniDJbv3R9) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Histeria](https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G) | 4:17 |
 | 32 | [Estúpida](https://open.spotify.com/track/6IiCJye3u6X8C83pR1WWLy) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Hecatombe Disco](https://open.spotify.com/album/2ZGCpjlSEH00JNwAPjY1o0) | 3:31 |
-| 33 | [Vamos Linda](https://open.spotify.com/track/6Ik6K1CUVXRSYHeWLveSbA) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD) | 3:15 |
+| 33 | [Carcaman](https://open.spotify.com/track/6T8pTk5m8wdoilKIIyDAyU) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD) | 3:12 |
 | 34 | [Reina del Club](https://open.spotify.com/track/0MlWFjOxbBAHg9JuQNHZoH) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7) | 4:38 |
 | 35 | [Psicótico](https://open.spotify.com/track/6PuU2HHnLqiaUf1bKUMuHT) | [ELÍAS](https://open.spotify.com/artist/1OO4dbmG9Fvz897JRIWiys), [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Psicótico](https://open.spotify.com/album/5Nb3kbLr4Y6I7SX25Xwzkc) | 3:21 |
 | 36 | [Si Eso Te Pone Mejor](https://open.spotify.com/track/1qVTpnGqccuRquqfGyvvBo) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Fondo Profundo](https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT) | 4:17 |
-| 37 | [Carcaman](https://open.spotify.com/track/6T8pTk5m8wdoilKIIyDAyU) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD) | 3:12 |
+| 37 | [Vamos Linda](https://open.spotify.com/track/6Ik6K1CUVXRSYHeWLveSbA) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Boomerang](https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD) | 3:15 |
 | 38 | [Ella lo Hace Mejor](https://open.spotify.com/track/4BcslhiC50eygxnmF5Dq2d) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Agarrate Fuerte](https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7) | 3:56 |
 | 39 | [Demasiado Tarde](https://open.spotify.com/track/5Oa1k1gOxhP018PPRw1Sys) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [La Pachanga](https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr) | 5:50 |
 | 40 | [Toque de Queda](https://open.spotify.com/track/2k3SYulMPRrbKIMy1RQAZW) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Fondo Profundo](https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT) | 6:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3uRjKu.md) - [plain]
 | 49 | [Te Puedo Enamorar](https://open.spotify.com/track/4rUAnvTxSGwqDuj9SYBQIZ) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [7](https://open.spotify.com/album/6lJ7uJF8ILH5zqMx3NuPFA) | 4:30 |
 | 50 | [Cambio Mi Dolor](https://open.spotify.com/track/1bfAH3Bt7u1YlRNCUirYwD) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Vuelve a Comenzar](https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad) | 3:55 |
 
-Snapshot ID: `MjgwMzAzOTAsMDAwMDAwMDAwYjljNDNhNDA0MmViZTU2ZDFkNmUwYWU0MWNlOWI0MA==`
+Snapshot ID: `MjgwMzE3ODMsMDAwMDAwMDA1NGMwN2NhZTA4ZTliNjAzZDc0MjExOWE3OWNmOGFjOA==`

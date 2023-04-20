@@ -1,12 +1,12 @@
 {
   "description": "Relax to the the rhythm of these smooth Latin tunes of the 2010s.\n\n",
-  "num_followers": 63071,
+  "num_followers": 63202,
   "original_name": "Latin Chillout 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY2MTYwMCwwMDAwMDAwMGMzMDEwMTBmMzIxMWQwMTU0MzEzM2ZkYjgwNjBiMjMy",
+  "snapshot_id": "MTY3NjY2MTYwMCwwMDAwMDAwMDYwZGYxNzIxYjJhYmY2YjFiZWEyY2UyYzlkNTFlOTVh",
   "tracks": [
     {
       "added_at": "2022-08-31 07:23:02",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-08-31 07:23:02",
       "album": {
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 237093,
+      "name": "Cancioncitas de Amor",
+      "url": "https://open.spotify.com/track/6bcdiJvYNX115yvbh3wASz"
+    },
+    {
+      "added_at": "2022-08-31 07:23:02",
+      "album": {
         "name": "11:11",
         "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 233895,
       "name": "D\u00f3nde est\u00e1 el amor (feat. Jesse & Joy)",
       "url": "https://open.spotify.com/track/0CjaLvAqN97KPVWgOJ1vbD"
-    },
-    {
-      "added_at": "2022-08-31 07:23:02",
-      "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 237093,
-      "name": "Cancioncitas de Amor",
-      "url": "https://open.spotify.com/track/6bcdiJvYNX115yvbh3wASz"
     },
     {
       "added_at": "2022-08-31 07:23:02",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-08-31 07:23:02",
       "album": {
-        "name": "Pretty Boy, Dirty Boy",
-        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/1iEwyiSLAunPR6uouANE0O"
-    },
-    {
-      "added_at": "2022-08-31 07:23:02",
-      "album": {
         "name": "Odisea",
         "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2022-08-31 07:23:02",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+        "name": "Pretty Boy, Dirty Boy",
+        "url": "https://open.spotify.com/album/3PomvFR694SrCSZzDWMWV7"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 279213,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
+      "duration_ms": 206693,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/1iEwyiSLAunPR6uouANE0O"
     },
     {
       "added_at": "2022-08-31 07:23:02",
@@ -775,6 +759,22 @@
       "duration_ms": 227480,
       "name": "Amigos Con Derechos",
       "url": "https://open.spotify.com/track/4yVO0wOhXsZC1RuPgHP524"
+    },
+    {
+      "added_at": "2022-08-31 07:23:02",
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 279213,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
     },
     {
       "added_at": "2022-08-31 07:23:02",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-08-31 07:23:02",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
-    },
-    {
-      "added_at": "2022-08-31 07:23:02",
-      "album": {
         "name": "Pablo Alboran (Deluxe)",
         "url": "https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 247186,
       "name": "Solamente t\u00fa",
       "url": "https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES"
+    },
+    {
+      "added_at": "2022-08-31 07:23:02",
+      "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
     },
     {
       "added_at": "2022-08-31 07:23:02",
@@ -967,18 +967,42 @@
     {
       "added_at": "2022-08-31 07:23:02",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+        "name": "Sue\u00f1os",
+        "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
       },
       "artists": [
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
         }
       ],
-      "duration_ms": 235306,
-      "name": "D\u00e9jenme Llorar",
-      "url": "https://open.spotify.com/track/4oBSrpZNE2K79sMuS0jCyx"
+      "duration_ms": 305962,
+      "name": "Que Mas Pues - Remix",
+      "url": "https://open.spotify.com/track/7fODjB7BrQTGqh0hogW6XD"
     }
   ],
   "unique_name": "Latin Chillout 10s",

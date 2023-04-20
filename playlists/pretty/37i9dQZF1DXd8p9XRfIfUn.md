@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Akrilla, SOULFIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,604 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,614 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 12 | [No Me Conocen \(Remix\) \[con DUKI, Rei & Tiago PZK\]](https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [No Me Conocen \(Remix\) \(Con Duki, Rei & Tiago Pzk\)](https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe) | 4:40 |
 | 13 | [Tus Besos \- Remix](https://open.spotify.com/track/4SieMb6AQmQgbjv9TfC5Qm) | [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Tus Besos \(Remix\)](https://open.spotify.com/album/4M0AZNWr6KbYVxtcsXjCNH) | 3:49 |
 | 14 | [Salimo de Noche](https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Salimo de Noche](https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8) | 2:57 |
-| 15 | [Un Poquito](https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Un Poquito](https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO) | 2:46 |
-| 16 | [Wasa Wasa](https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Wasa Wasa](https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M) | 2:25 |
+| 15 | [Wasa Wasa](https://open.spotify.com/track/17jcYtUYRhpPL19fDedfTD) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Wasa Wasa](https://open.spotify.com/album/04KOORtEOsoXtSZV96uG1M) | 2:25 |
+| 16 | [Un Poquito](https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Un Poquito](https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO) | 2:46 |
 | 17 | [Tak Tiki Tak](https://open.spotify.com/track/7gwwt1IaAWwmB7af0AcuBM) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [Tak Tiki Tak](https://open.spotify.com/album/4wIHjb7IGSIwqvZbkZ8Fl8) | 3:32 |
 | 18 | [Mi Gata](https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP) | [Mi Gata](https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO) | 3:22 |
 | 19 | [Vete Pal Carajo](https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Vete Pal Carajo](https://open.spotify.com/album/6h1BJzZHeHkAg5jknF3fwD) | 2:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 59 | [IMPOSIBLE](https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [IMPOSIBLE](https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6) | 3:07 |
 | 60 | [La más Famosa](https://open.spotify.com/track/2kY3foijfdehX02ktsZ6E7) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [GATA PISTOLA](https://open.spotify.com/album/61WaPbQFOC0svswIVNQpUn) | 2:22 |
 
-Snapshot ID: `MTY3ODQ2NTU1NywwMDAwMDAwMGU4NDQ3M2Q2MGFjOGUzMWFjMDFjZWI4MDJhYTQ0YzVm`
+Snapshot ID: `MTY3ODQ2NTU1NywwMDAwMDAwMDcyZDIwMWEzNWU2ZDMzN2JhZGU5N2Q5MzZiZmY3YWU2`

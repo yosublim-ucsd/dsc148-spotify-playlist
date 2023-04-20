@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 
 > This is Iggy Pop\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,539 likes - 51 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,582 likes - 51 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 25 | [Comments](https://open.spotify.com/track/59QajhlzAmlJ1wIRwzLxv8) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:53 |
 | 26 | [Michelle](https://open.spotify.com/track/3L2CN09jZcXtet8kEVeLPz) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:43 |
 | 27 | [Fall In Love With Me](https://open.spotify.com/track/6YQjQdymVA9tvE0Ygnpsdd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 6:32 |
-| 28 | [King Of The Dogs](https://open.spotify.com/track/1QFEq5VoRobiMhe47yKWOM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 2:01 |
+| 28 | [I Want To Go To The Beach](https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 2:52 |
 | 29 | [New Atlantis](https://open.spotify.com/track/6XMvpM1luxKj9gCwvifL2D) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 4:08 |
 | 30 | [La Javanaise](https://open.spotify.com/track/2nBJvYYw33mF3gFm4Fkjdt) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:30 |
 | 31 | [Sahara](https://open.spotify.com/track/0CDVMkVWF85UFILUYItRX5) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Résistance](https://open.spotify.com/album/05OQHOuoCVgx0h8MA6tT9C) | 3:03 |
-| 32 | [I Want To Go To The Beach](https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 2:52 |
+| 32 | [King Of The Dogs](https://open.spotify.com/track/1QFEq5VoRobiMhe47yKWOM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 2:01 |
 | 33 | [Loves Missing](https://open.spotify.com/track/4ZxEF6c6dHYiRkGQjsZEY5) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:19 |
 | 34 | [Et Si Tu n'existais Pas](https://open.spotify.com/track/0hiwKOnFAJoCXYsniNg5MH) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 3:33 |
 | 35 | [Cry For Love](https://open.spotify.com/track/7Fb9KsEzGFKqRABQJMr2ot) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Blah\-Blah\-Blah](https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c) | 4:28 |
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LDSLK.md) - [plain]
 | 48 | [Sister Midnight](https://open.spotify.com/track/4pU9OwAXdwghkgUhaZQQ3Q) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 4:20 |
 | 49 | [I'm Bored](https://open.spotify.com/track/6GVfe1CSI7n6G8818mPArW) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Arista Heritage Series: Iggy Pop](https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo) | 2:47 |
 | 50 | [L’appartement \- en duo avec Iggy Pop](https://open.spotify.com/track/0lpF25LpCVWZevST9ZLYDh) | [Clio](https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [L'amour hélas](https://open.spotify.com/album/1tW64D92Fbvas6G28g75Jf) | 3:10 |
-| 51 | [I'll Be Seeing You](https://open.spotify.com/track/4LnKrdv2q8UFdRWyoevN3A) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Clair Obscur](https://open.spotify.com/album/0ccMLn7DlKbdGZWY6ItEmK) | 4:05 |
+| 51 | [Free](https://open.spotify.com/track/4QHHnMIBZlwgWhPy1dind0) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 1:48 |
 
-Snapshot ID: `MjgwMzAzOTAsMDAwMDAwMDBlMzY2ZDFhZDRmYzk0MWUxMTU3N2YzNjRkNThkOGYxNw==`
+Snapshot ID: `MjgwMzE3ODMsMDAwMDAwMDBjNjAzMWY3ZjgyMzkxMjgxZTc2YzQ0MGUwMGE5YTJhZg==`

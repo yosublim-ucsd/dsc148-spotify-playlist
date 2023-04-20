@@ -1,12 +1,12 @@
 {
   "description": "I rapper pi\u00f9 forti del mondo in una sola playlist. Cover: Drake",
-  "num_followers": 202834,
+  "num_followers": 202838,
   "original_name": "Rap Internazionale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzI2MCwwMDAwMDAwMGIyZjhiNDIyNTVmMmMzZDI1NzEwZmQxZTc5YWQ3YjQy",
+  "snapshot_id": "MTY4MTQyMzI2MCwwMDAwMDAwMDMyYWI3NDQ2NTM0ZDFlOTZkMDNjNDMwOTIzZTY3OWFh",
   "tracks": [
     {
       "added_at": "2023-04-13 22:01:00",
@@ -599,6 +599,26 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
       },
@@ -619,6 +639,22 @@
       "duration_ms": 190476,
       "name": "For The Night (feat. Lil Baby & DaBaby)",
       "url": "https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Ni\u00f1os Peque\u00f1os",
+        "url": "https://open.spotify.com/album/58KEzwxGgV6XxpO0Rt1bXV"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 257560,
+      "name": "Ni\u00f1os Peque\u00f1os",
+      "url": "https://open.spotify.com/track/3W2JCHBZtLkJs2BtMPBz7g"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -647,42 +683,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Ni\u00f1os Peque\u00f1os",
-        "url": "https://open.spotify.com/album/58KEzwxGgV6XxpO0Rt1bXV"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 257560,
-      "name": "Ni\u00f1os Peque\u00f1os",
-      "url": "https://open.spotify.com/track/3W2JCHBZtLkJs2BtMPBz7g"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Princess Diana (with Nicki Minaj)",
-        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 172125,
-      "name": "Princess Diana (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "MOTTO",
-        "url": "https://open.spotify.com/album/1zt9jr9SYbHe90e2Q6DPLE"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 217271,
-      "name": "MOTTO",
-      "url": "https://open.spotify.com/track/3q9PVufz68TRvOao25IMNk"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "Die Young (feat. 347aidan)",
         "url": "https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 148816,
       "name": "Die Young (feat. 347aidan)",
       "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "MOTTO",
+        "url": "https://open.spotify.com/album/1zt9jr9SYbHe90e2Q6DPLE"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 217271,
+      "name": "MOTTO",
+      "url": "https://open.spotify.com/track/3q9PVufz68TRvOao25IMNk"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -783,6 +783,26 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "HOTEL LOBBY (Unc & Phew)",
+        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "duration_ms": 142657,
+      "name": "HOTEL LOBBY (Unc & Phew)",
+      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 232048,
       "name": "Run It Up (feat. Offset & Moneybagg Yo)",
       "url": "https://open.spotify.com/track/1dg3qy5DjoJodawfOCgrTP"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "HOTEL LOBBY (Unc & Phew)",
-        "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        }
-      ],
-      "duration_ms": 142657,
-      "name": "HOTEL LOBBY (Unc & Phew)",
-      "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -975,6 +975,30 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "06 Gucci (feat. DaBaby & 21 Savage)",
+        "url": "https://open.spotify.com/album/6K67robZZpglKEFuNQWtsr"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 178950,
+      "name": "06 Gucci (feat. DaBaby & 21 Savage)",
+      "url": "https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
       },
@@ -999,26 +1023,30 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "06 Gucci (feat. DaBaby & 21 Savage)",
-        "url": "https://open.spotify.com/album/6K67robZZpglKEFuNQWtsr"
+        "name": "4EVA (feat. Pharrell Williams)",
+        "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
       },
       "artists": [
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
         },
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
         },
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 178950,
-      "name": "06 Gucci (feat. DaBaby & 21 Savage)",
-      "url": "https://open.spotify.com/track/4mWbFYZ9P14Ulf1LIFZGhH"
+      "duration_ms": 190373,
+      "name": "4EVA (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1091,34 +1119,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "4EVA (feat. Pharrell Williams)",
-        "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
-      },
-      "artists": [
-        {
-          "name": "KAYTRAMIN\u00c9",
-          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 190373,
-      "name": "4EVA (feat. Pharrell Williams)",
-      "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "DIAMANT DU BLED",
         "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 184213,
       "name": "Motley Crew",
       "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Strike (Holster)",
+        "url": "https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 148115,
+      "name": "Strike (Holster)",
+      "url": "https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1203,22 +1219,6 @@
       "duration_ms": 179533,
       "name": "No Time Wasted (feat. Future)",
       "url": "https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Strike (Holster)",
-        "url": "https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 148115,
-      "name": "Strike (Holster)",
-      "url": "https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1315,6 +1315,42 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "Poland",
+        "url": "https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 83200,
+      "name": "Poland",
+      "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/55ZLjifyJc6wpZ07D2DcLV"
+      },
+      "artists": [
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 189450,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/0B0Xu2ih8fWpcwyxAt1c7m"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "NO L\u00c8CHE \ud83d\udeab\ud83d\udc45 (feat. Fav\u00e9, Kerchak & Leto)",
         "url": "https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn"
       },
@@ -1339,22 +1375,6 @@
       "duration_ms": 194201,
       "name": "NO L\u00c8CHE",
       "url": "https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Poland",
-        "url": "https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 83200,
-      "name": "Poland",
-      "url": "https://open.spotify.com/track/74loibzxXRL875X20kenvk"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1415,26 +1435,6 @@
       "duration_ms": 151776,
       "name": "Dah Dah DahDah",
       "url": "https://open.spotify.com/track/2TSfStvlAMLw89u3tali79"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/55ZLjifyJc6wpZ07D2DcLV"
-      },
-      "artists": [
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 189450,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/0B0Xu2ih8fWpcwyxAt1c7m"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1799,6 +1799,34 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "MIRAGE (feat. Ozuna, Sfera Ebbasta & GIMS)",
+        "url": "https://open.spotify.com/album/5WbgkuQehIgUQn9s5gpbZH"
+      },
+      "artists": [
+        {
+          "name": "AriBeatz",
+          "url": "https://open.spotify.com/artist/6cNWiizYLCClZdnIvqU968"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 206054,
+      "name": "MIRAGE (feat. Ozuna, GIMS & Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/4e1U6KRJGed8gh3uRbAv3P"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "My All",
         "url": "https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg"
       },
@@ -1895,38 +1923,22 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Night Away (Dance) (feat. Tion Wayne)",
-        "url": "https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0"
+        "name": "I'M THAT BITCH",
+        "url": "https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp"
       },
       "artists": [
         {
-          "name": "A1 x J1",
-          "url": "https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy"
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         },
         {
-          "name": "Tion Wayne",
-          "url": "https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt"
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
         }
       ],
-      "duration_ms": 175774,
-      "name": "Night Away (Dance) (feat. Tion Wayne)",
-      "url": "https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Distraction",
-        "url": "https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 171319,
-      "name": "Distraction",
-      "url": "https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM"
+      "duration_ms": 152043,
+      "name": "I'M THAT BITCH",
+      "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
     }
   ],
   "unique_name": "Rap Internazionale",

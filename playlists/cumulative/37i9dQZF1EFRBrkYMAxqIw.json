@@ -765,6 +765,24 @@
     },
     {
       "album": {
+        "name": "Kilimanjaro",
+        "url": "https://open.spotify.com/album/5HvTQ7QabtScNHn8jAJCZk"
+      },
+      "artists": [
+        {
+          "name": "Dolores Forever",
+          "url": "https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207956,
+      "name": "Kilimanjaro",
+      "url": "https://open.spotify.com/track/2sEZK5zMHECzHqd0TwpusQ"
+    },
+    {
+      "album": {
         "name": "Late Nights (feat. Saint Wilder)",
         "url": "https://open.spotify.com/album/57LaPoPp9JEyf01lA3dj3M"
       },

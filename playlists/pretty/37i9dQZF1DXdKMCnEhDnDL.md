@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De grootste Nederlandse hits van vroeger en nu\. Cover: Acda en de Munnik
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,858 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,943 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

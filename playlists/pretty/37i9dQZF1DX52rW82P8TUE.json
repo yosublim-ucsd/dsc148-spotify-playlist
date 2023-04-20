@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 50967,
+  "num_followers": 51021,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ5ODA2NywwMDAwMDAwMGFlN2U2NDQxZGRjYjFhMjRlZGZiN2JmYmMxOGExMzc0",
+  "snapshot_id": "MTY3ODQ5ODA2NywwMDAwMDAwMDBmMjQwNWUwOGVlMTQ4NDY4NWY0MzVhN2UzOGJlOTFl",
   "tracks": [
     {
       "added_at": "2023-03-11 01:27:47",
@@ -383,18 +383,18 @@
     {
       "added_at": "2023-03-11 01:27:47",
       "album": {
-        "name": "Quem Ama os Animais: Yasminzinha",
-        "url": "https://open.spotify.com/album/7zDczluqFBHATzo2eXUWZC"
+        "name": "Fam\u00edlia Perfeita",
+        "url": "https://open.spotify.com/album/2BOtSzS45MKiRwNHHoPD6V"
       },
       "artists": [
         {
-          "name": "Yasmin Verissimo",
-          "url": "https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE"
+          "name": "\u00c1quila",
+          "url": "https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ"
         }
       ],
-      "duration_ms": 138240,
-      "name": "Quem Ama os Animais: Yasminzinha",
-      "url": "https://open.spotify.com/track/3QeEhShhm4xarUOUmHS4tn"
+      "duration_ms": 196270,
+      "name": "Fam\u00edlia Perfeita",
+      "url": "https://open.spotify.com/track/25UWTOQyH5eOcvMyWb0VKR"
     },
     {
       "added_at": "2023-03-11 01:27:47",
@@ -415,6 +415,22 @@
     {
       "added_at": "2023-03-11 01:27:47",
       "album": {
+        "name": "Quem Ama os Animais: Yasminzinha",
+        "url": "https://open.spotify.com/album/7zDczluqFBHATzo2eXUWZC"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Verissimo",
+          "url": "https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Quem Ama os Animais: Yasminzinha",
+      "url": "https://open.spotify.com/track/3QeEhShhm4xarUOUmHS4tn"
+    },
+    {
+      "added_at": "2023-03-11 01:27:47",
+      "album": {
         "name": "Crian\u00e7a Nota 10",
         "url": "https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 164165,
       "name": "Crian\u00e7a Nota 10",
       "url": "https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn"
-    },
-    {
-      "added_at": "2023-03-11 01:27:47",
-      "album": {
-        "name": "Fam\u00edlia Perfeita",
-        "url": "https://open.spotify.com/album/2BOtSzS45MKiRwNHHoPD6V"
-      },
-      "artists": [
-        {
-          "name": "\u00c1quila",
-          "url": "https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ"
-        }
-      ],
-      "duration_ms": 196270,
-      "name": "Fam\u00edlia Perfeita",
-      "url": "https://open.spotify.com/track/25UWTOQyH5eOcvMyWb0VKR"
     },
     {
       "added_at": "2023-03-11 01:27:47",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-03-11 01:27:47",
       "album": {
-        "name": "Festa das Cores",
-        "url": "https://open.spotify.com/album/7y3if5oFUBEKP94vf2mCQW"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 206767,
-      "name": "Festa das Cores",
-      "url": "https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw"
-    },
-    {
-      "added_at": "2023-03-11 01:27:47",
-      "album": {
         "name": "A Tua Gra\u00e7a",
         "url": "https://open.spotify.com/album/2gcCOA0Zi0ntszohuIbxVj"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 145466,
       "name": "A Tua Gra\u00e7a",
       "url": "https://open.spotify.com/track/58PgmYUic0mM7Qwi297ZG3"
+    },
+    {
+      "added_at": "2023-03-11 01:27:47",
+      "album": {
+        "name": "Festa das Cores",
+        "url": "https://open.spotify.com/album/7y3if5oFUBEKP94vf2mCQW"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 206767,
+      "name": "Festa das Cores",
+      "url": "https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw"
     },
     {
       "added_at": "2023-03-11 01:27:47",

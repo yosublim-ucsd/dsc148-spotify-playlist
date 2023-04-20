@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-274 songs - 17 hr 18 min
+275 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,11 +123,12 @@
 | [W / X / Y](https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) | 4:38 | 2022-02-07 |  |
 | [WA DA DA](https://open.spotify.com/track/0hQNbQKW2dDATH1ngj4TI6) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/52HBqGcl4FIRwJ3iNYcliA) | 3:03 | 2022-01-11 | 2022-06-28 |
 | [Walking with you](https://open.spotify.com/track/7tGDXCPLpAScEwmqab9YZd) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [SKYWALK](https://open.spotify.com/album/34T4K8s8PzTNOZ1vuBILYr) | 3:43 | 2021-03-27\* | 2021-09-15 |
+| [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-04-19 |  |
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-11 | 2022-08-21 |
 | [YOKAZE](https://open.spotify.com/track/6tkSMR8bEIfEcJn7ybJtSP) | [HENTAI SHINSHI CLUB](https://open.spotify.com/artist/4vN78fN1iEh83Pgaesw2jU) | [ZURUMUKE](https://open.spotify.com/album/0BZl0i4DnH6TMpkdK5aqNV) | 4:29 | 2021-09-15 | 2022-10-05 |
 | [あいつら全員同窓会](https://open.spotify.com/track/2VIK6jaaKghS4QPHr6sAkv) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [あいつら全員同窓会](https://open.spotify.com/album/3JV0AKw3HatCzJgSEDq450) | 4:14 | 2021-06-22 | 2021-11-06 |
 | [うっせぇわ](https://open.spotify.com/track/6EzZn96uOc9JsVGNRpx06n) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [うっせぇわ](https://open.spotify.com/album/5msh7Lspyh1jGbDM2BxwAy) | 3:24 | 2021-03-27\* | 2021-11-26 |
-| [おもかげ \(produced by Vaundy\)](https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE) | 3:08 | 2021-12-28 |  |
+| [おもかげ \(produced by Vaundy\)](https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE) | 3:08 | 2021-12-28 | 2023-04-20 |
 | [かくれんぼ](https://open.spotify.com/track/0JTjZnuciQH4M3620aMDtZ) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [かくれんぼ](https://open.spotify.com/album/6cpzSon38ekIuocueyQTCe) | 4:31 | 2021-03-27\* | 2022-01-14 |
 | [かくれんぼ](https://open.spotify.com/track/0tMqllhrXe8CWOosrCD1fE) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 4:31 | 2022-01-13 | 2022-04-07 |
 | [きらり](https://open.spotify.com/track/3ciqhcLmXP4hVGBD98QlEj) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [きらり](https://open.spotify.com/album/1fokTD5rDI2bHnFH1QSbPy) | 3:51 | 2021-05-05 | 2022-01-15 |

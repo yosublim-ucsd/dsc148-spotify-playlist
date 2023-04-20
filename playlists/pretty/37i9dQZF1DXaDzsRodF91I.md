@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,891 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,986 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 49 | [Heathens](https://open.spotify.com/track/189ho2EWK86V7I7X0Ecwma) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/3vpUxVKjm32bKN7c3LkNxU) | 3:46 |
 | 50 | [Wonderwall](https://open.spotify.com/track/3SN6V2ZELXrTjna8TRXJ1l) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [Punk Goes 90's](https://open.spotify.com/album/17SxJEn7Ons4pifxtYY9Wu) | 4:53 |
 | 51 | [The Middle](https://open.spotify.com/track/0wAXhNsFszWcxhgpMxB4ng) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [The Middle](https://open.spotify.com/album/5MsK2snazTXQyaNDUGVxOs) | 3:02 |
-| 52 | [MakeDamnSure](https://open.spotify.com/track/30rLZAMsDqDdXxULLUBbWh) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [MakeDamnSure](https://open.spotify.com/album/31LfOtc3yWzCofORcAHWYq) | 3:22 |
-| 53 | [Erase Me \(feat\. 10K.Caash\)](https://open.spotify.com/track/6MKlUSv0Magp6Cg901vZMH) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb), [10k.Caash](https://open.spotify.com/artist/4uyIwcaJgV9ShErevnVlNp) | [Don't Mind If We Do](https://open.spotify.com/album/1mqX6R90bvjvgOTlA3yoIQ) | 3:27 |
+| 52 | [Erase Me \(feat\. 10K.Caash\)](https://open.spotify.com/track/6MKlUSv0Magp6Cg901vZMH) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb), [10k.Caash](https://open.spotify.com/artist/4uyIwcaJgV9ShErevnVlNp) | [Don't Mind If We Do](https://open.spotify.com/album/1mqX6R90bvjvgOTlA3yoIQ) | 3:27 |
+| 53 | [MakeDamnSure](https://open.spotify.com/track/30rLZAMsDqDdXxULLUBbWh) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [MakeDamnSure](https://open.spotify.com/album/31LfOtc3yWzCofORcAHWYq) | 3:22 |
 | 54 | [Blueberry Faygo](https://open.spotify.com/track/75WqqdgbeP5WK8lDPLBrcu) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu) | [Blueberry Faygo](https://open.spotify.com/album/6J9cz9LexI9GcKp555j8PQ) | 3:01 |
 | 55 | [Let It Be](https://open.spotify.com/track/0eZ4bLUnh0NkGwCEmPvRYI) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Let It Be](https://open.spotify.com/album/27njwfI83O3b2ho4MgCKEG) | 3:52 |
 | 56 | [Everywhere](https://open.spotify.com/track/6CoviEJTThZGD6YjbA3q4c) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [Everywhere](https://open.spotify.com/album/5xMneXss8T6BWf9ppkZc3P) | 3:15 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 93 | [How's It Gonna Be](https://open.spotify.com/track/7bVTH2yQqGAkFNsyVvo533) | [I Call Fives](https://open.spotify.com/artist/3vsi8vM5Xs8p1NEQuZWP70) | [Someone That's Not You](https://open.spotify.com/album/1dMfFikNXq1cjw1nSv0JQj) | 3:13 |
 | 94 | [Surrender](https://open.spotify.com/track/1yHvODNeWfw7yKdlyEzNOu) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Surrender](https://open.spotify.com/album/6fvyhhViksucPFXiYHs1DG) | 3:32 |
 | 95 | [I Won't Back Down](https://open.spotify.com/track/1r72N7UrcmJIVsib0F7vsV) | [Alone I Walk](https://open.spotify.com/artist/15KhAhIzQCzIDNDq1QXAGc) | [I Won't Back Down](https://open.spotify.com/album/2PnX4AnA5v2WyzUHmJ7ZpR) | 2:38 |
-| 96 | [Thatcher Fucked the Kids](https://open.spotify.com/track/4bQm41HanVPO4wh6pNpB9L) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [West Coast vs\. Wessex](https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7) | 3:07 |
-| 97 | [Teenage Dream](https://open.spotify.com/track/0kpDTCeGWOfGor1kcJUFwu) | [The Plugs](https://open.spotify.com/artist/4ER2AgS7VMGpUcTXcbBddj) | [Judging Books by Their Covers](https://open.spotify.com/album/3easwftCM6KOgEo0FzYZ1E) | 3:27 |
+| 96 | [Teenage Dream](https://open.spotify.com/track/0kpDTCeGWOfGor1kcJUFwu) | [The Plugs](https://open.spotify.com/artist/4ER2AgS7VMGpUcTXcbBddj) | [Judging Books by Their Covers](https://open.spotify.com/album/3easwftCM6KOgEo0FzYZ1E) | 3:27 |
+| 97 | [Thatcher Fucked the Kids](https://open.spotify.com/track/4bQm41HanVPO4wh6pNpB9L) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [West Coast vs\. Wessex](https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7) | 3:07 |
 | 98 | [Fake Friends \(feat\. Joan Jett\)](https://open.spotify.com/track/7l24L0JxuMCU14BJk5rTPS) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h), [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Fake Friends](https://open.spotify.com/album/6mEhhqIxasWb9MAc2thrPR) | 3:08 |
 | 99 | [Give Yourself A Try](https://open.spotify.com/track/6PtjoQQDYygkbN13dg4OIv) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Give Yourself A Hell](https://open.spotify.com/album/2r9VWcYFQft2V6PBQkRIA7) | 3:19 |
 | 100 | [You're Dead / Vampire Ska](https://open.spotify.com/track/65k4rC8pAWcKq6xkGPhtbt) | [We Are The Union](https://open.spotify.com/artist/4AAXAVOZ3fw7M8ILLrKLvs) | [You're Dead / Vampire Ska](https://open.spotify.com/album/7L9mILJxtPj59Mwj0YT0Sh) | 2:29 |
 
-Snapshot ID: `MTYzMDYwMjgyMSwwMDAwMDAwMDg1M2RhZjA3ZDhlNzQ4YTk3NzcyZjZiNDk3NDc5MmMx`
+Snapshot ID: `MTYzMDYwMjgyMSwwMDAwMDAwMDEyNTE4NTI0OWJmNjM1NTQzNmU3N2IzYTZhODg4MWE2`

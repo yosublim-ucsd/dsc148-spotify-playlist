@@ -578,10 +578,28 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 139508,
       "name": "Giant Feelings",
       "url": "https://open.spotify.com/track/2pSGUdDRQl6k0liOCbUza2"
+    },
+    {
+      "album": {
+        "name": "Drunk On A Flight",
+        "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139508,
+      "name": "Giant Feelings",
+      "url": "https://open.spotify.com/track/7wCFToKO63HYn4oP6xZMHh"
     },
     {
       "album": {
@@ -1696,10 +1714,28 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 161091,
       "name": "Therapist",
       "url": "https://open.spotify.com/track/4vIYNMhW588JXOlBlEQqrq"
+    },
+    {
+      "album": {
+        "name": "Drunk On A Flight",
+        "url": "https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq"
+      },
+      "artists": [
+        {
+          "name": "Eloise",
+          "url": "https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161091,
+      "name": "Therapist",
+      "url": "https://open.spotify.com/track/75YBkVdPNyqa1gLCK9SZaK"
     },
     {
       "album": {

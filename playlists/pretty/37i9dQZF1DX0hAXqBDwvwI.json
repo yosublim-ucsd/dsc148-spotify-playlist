@@ -1,12 +1,12 @@
 {
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a> ",
-  "num_followers": 434242,
+  "num_followers": 434667,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTI4NTMxMywwMDAwMDAwMGQ2ZjBmNDY0YmMyOTI4YjliYTdmMzhhZDMzMmEzMjky",
+  "snapshot_id": "MTY4MTI4NTMxMywwMDAwMDAwMDdkZDA2NzU4MzQ0ODJkYWM4OTkzZTg1MzQ0YzZlMjVm",
   "tracks": [
     {
       "added_at": "2023-04-12 07:41:53",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-04-12 07:41:53",
       "album": {
+        "name": "Your Name.",
+        "url": "https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "duration_ms": 285880,
+      "name": "Zenzenzense - movie ver.",
+      "url": "https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR"
+    },
+    {
+      "added_at": "2023-04-12 07:41:53",
+      "album": {
         "name": "HOLIDAYS IN THE SUN",
         "url": "https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2023-04-12 07:41:53",
       "album": {
-        "name": "Your Name.",
-        "url": "https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP"
+        "name": "MUKANJYO",
+        "url": "https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh"
       },
       "artists": [
         {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+          "name": "Survive Said The Prophet",
+          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
         }
       ],
-      "duration_ms": 285880,
-      "name": "Zenzenzense - movie ver.",
-      "url": "https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR"
+      "duration_ms": 192400,
+      "name": "MUKANJYO",
+      "url": "https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb"
     },
     {
       "added_at": "2023-04-12 07:41:53",
@@ -795,22 +811,6 @@
       "duration_ms": 254838,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk"
-    },
-    {
-      "added_at": "2023-04-12 07:41:53",
-      "album": {
-        "name": "MUKANJYO",
-        "url": "https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh"
-      },
-      "artists": [
-        {
-          "name": "Survive Said The Prophet",
-          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "MUKANJYO",
-      "url": "https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb"
     },
     {
       "added_at": "2023-04-12 07:41:53",

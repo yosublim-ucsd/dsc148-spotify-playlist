@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXFLaJaASt2D.md) - [plain]
 
 > A collection of tracks for punks big and small.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,814 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,946 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXFLaJaASt2D.md) - [plain]
 | 15 | [Train in Vain \(Stand by Me\) \- Remastered](https://open.spotify.com/track/6ITuEsxEy2qPhqMowdDAeI) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:14 |
 | 16 | [Violet](https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Live Through This](https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7) | 3:24 |
 | 17 | [No Cigar](https://open.spotify.com/track/3KLkRy9l3us98SIp6mmxkk) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [Pennybridge Pioneers](https://open.spotify.com/album/5VWyJbfC4DUsnC1NLSjuWC) | 2:43 |
-| 18 | [American Jesus](https://open.spotify.com/track/5TZn3LQSWwVPnBlPgFKb54) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Recipe For Hate](https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l) | 3:17 |
-| 19 | [Gotta Get Away](https://open.spotify.com/track/0vQPY1VCcvZa2Mm6QM63Le) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:52 |
+| 18 | [Gotta Get Away](https://open.spotify.com/track/0vQPY1VCcvZa2Mm6QM63Le) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:52 |
+| 19 | [American Jesus](https://open.spotify.com/track/5TZn3LQSWwVPnBlPgFKb54) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Recipe For Hate](https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l) | 3:17 |
 | 20 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 |
 | 21 | [Sheena Is a Punk Rocker \- 2017 Remaster](https://open.spotify.com/track/61MZN0yyMWSEwrLPUUGfgJ) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 2:49 |
 | 22 | [Pump It Up \- 2021 Remaster](https://open.spotify.com/track/3oyc1mIdCBGaU55wX7otqM) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [This Year's Model \(2021 Remaster\)](https://open.spotify.com/album/4RLIesiAVONV4fOUlOSmr4) | 3:16 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXFLaJaASt2D.md) - [plain]
 | 30 | [Rock 'n' Roll High School \- 2002 Remaster](https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 2:17 |
 | 31 | [This Is the End \(For You My Friend\)](https://open.spotify.com/track/1jvqZQtbBGK5GJCGT615ao) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [For Blood And Empire](https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2) | 3:12 |
 | 32 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 |
-| 33 | [True Believers](https://open.spotify.com/track/4fRmFVMd0c1SGfzazBJIM8) | [The Bouncing Souls](https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV) | [How I Spent My Summer Vacation](https://open.spotify.com/album/64zbLX1ze8N3kcAMX0qq7G) | 2:30 |
-| 34 | [I Was a Teenage Anarchist](https://open.spotify.com/track/5UwGMbEKlvXFj7DXI1d0P1) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [White Crosses](https://open.spotify.com/album/5VLEp4UIDkIowATwaveKUQ) | 3:15 |
+| 33 | [I Was a Teenage Anarchist](https://open.spotify.com/track/5UwGMbEKlvXFj7DXI1d0P1) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [White Crosses](https://open.spotify.com/album/5VLEp4UIDkIowATwaveKUQ) | 3:15 |
+| 34 | [True Believers](https://open.spotify.com/track/4fRmFVMd0c1SGfzazBJIM8) | [The Bouncing Souls](https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV) | [How I Spent My Summer Vacation](https://open.spotify.com/album/64zbLX1ze8N3kcAMX0qq7G) | 2:30 |
 | 35 | [Rockaway Beach \- 2017 Remaster](https://open.spotify.com/track/2HZGsnMByx3V8KmNW6LqWF) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 2:06 |
 | 36 | [Alternative Ulster](https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn) | [Stiff Little Fingers](https://open.spotify.com/artist/2bt3I0VkmYuPvP57sxokab) | [Inflammable Material](https://open.spotify.com/album/2uXYm7SqdQlOgrx2FEWlkD) | 2:43 |
 | 37 | [Superman](https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:05 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXFLaJaASt2D.md) - [plain]
 | 59 | [New Rose](https://open.spotify.com/track/5eKQ424akKiDjpSveU7I2Y) | [The Damned](https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h) | [Damned Damned Damned](https://open.spotify.com/album/5tW8vnOGZKVe6pZD5YZa1E) | 2:42 |
 | 60 | [Woo Hoo](https://open.spotify.com/track/6GA8fbPKP6KZ3fP75AIjRI) | [The 5.6.7.8's](https://open.spotify.com/artist/5MZqcO35TJh5QXaFmvXmUy) | [Bomb the Twist](https://open.spotify.com/album/61IsFgLDnUXc9buDJyi3Eo) | 2:02 |
 
-Snapshot ID: `MTY0OTc5NjQwNiwwMDAwMDAwMGZkYzhhNDIyMGI5YTIyZGNjYjMxOTFlMmUzYTE2Mjg3`
+Snapshot ID: `MTY0OTc5NjQwNiwwMDAwMDAwMGI2NmM5OGM1Y2VlMGZjNjk2OGFhNzA4ZjZmM2E0MmEy`

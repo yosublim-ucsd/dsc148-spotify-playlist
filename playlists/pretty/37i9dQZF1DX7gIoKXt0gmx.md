@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels\. 🫠
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,577,369 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,578,151 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 39 | [Sober](https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE) | 4:12 |
 | 40 | [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 |
 | 41 | [Jungle](https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 5:20 |
-| 42 | [PERSIAN RUGS](https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 2:54 |
-| 43 | [Wicked Games \- Original](https://open.spotify.com/track/00aqkszH1FdUiJJWvX6iEl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 5:25 |
+| 42 | [Wicked Games \- Original](https://open.spotify.com/track/00aqkszH1FdUiJJWvX6iEl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 5:25 |
+| 43 | [PERSIAN RUGS](https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 2:54 |
 | 44 | [Missin You Crazy](https://open.spotify.com/track/4ve2uzqdwnHr20G5YgMMqr) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [ZOO](https://open.spotify.com/album/48Kac3ieDtt9OSp9Fm4g9e) | 3:46 |
 | 45 | [Honesty](https://open.spotify.com/track/19gCnDoMbugHhF7eMpLpe1) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 3:09 |
 | 46 | [The Worst](https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 4:14 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 61 | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Back to the Streets \(feat\. Jhené Aiko\)](https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N) | 3:09 |
 | 62 | [Inhale](https://open.spotify.com/track/0ycIrEpkyb4lrqE7M1emju) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y](https://open.spotify.com/album/5KpXxX7OUDXRs25qLyN8NA) | 2:51 |
 | 63 | [Unloyal \(with Ari Lennox\)](https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:27 |
-| 64 | [Pray It Away](https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Pray It Away](https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC) | 2:36 |
-| 65 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/6N3qHjcwly8ZuhE4bPYJAX) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Get You \- Single](https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6) | 4:37 |
+| 64 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/6N3qHjcwly8ZuhE4bPYJAX) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Get You \- Single](https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6) | 4:37 |
+| 65 | [Pray It Away](https://open.spotify.com/track/06dQ2rcBkq7z3AEZ4jhvc2) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Pray It Away](https://open.spotify.com/album/2PcSkzIHOrVDhnsmVbfKOC) | 2:36 |
 | 66 | [Good & Plenty](https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty](https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl) | 3:24 |
 | 67 | [You Can't Save Me](https://open.spotify.com/track/5LKzqs734Xs528hqK8bGS1) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ) | 2:54 |
 | 68 | [Juke Jam \(feat\. Justin Bieber & Towkio\)](https://open.spotify.com/track/3eze1OsZ1rqeXkKStNfTmi) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 3:39 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 78 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 |
 | 79 | [Her](https://open.spotify.com/track/4Wfe2jloKo95eFVnJEr5N1) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [A Place Like This](https://open.spotify.com/album/1iMD6TkaGBK3tYuD7hi16A) | 5:00 |
 | 80 | [MUTUAL FRIEND](https://open.spotify.com/track/6PFyd6Gmp2LZHI1IpkZGgy) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:26 |
-| 81 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 |
-| 82 | [Think About Me](https://open.spotify.com/track/2WUGnxLyK24CbGCcTIjEBY) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Morning After](https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd) | 4:06 |
+| 81 | [Think About Me](https://open.spotify.com/track/2WUGnxLyK24CbGCcTIjEBY) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Morning After](https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd) | 4:06 |
+| 82 | [Give Me Time](https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Give Me Time](https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J) | 2:34 |
 | 83 | [Pain](https://open.spotify.com/track/72kPNXZLozQAg0jfviWd0K) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 2:33 |
 | 84 | [Do I Ever \(feat\. Chris Brown\)](https://open.spotify.com/track/4rvzmiYWfzfQ3tnXEt1KQv) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Still FWM](https://open.spotify.com/album/5S4ajU7zbtGShTIECSpqRO) | 3:10 |
 | 85 | [This Way \- From SUPERFLY \- Original Soundtrack](https://open.spotify.com/track/6fbYL76UWbHdYq4B91TPQi) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [This Way \(From SUPERFLY \- Original Soundtrack\)](https://open.spotify.com/album/3bfmiUsXdErmCz71FjZqnW) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 99 | [Summer 2020](https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:16 |
 | 100 | [Hate](https://open.spotify.com/track/3wY2Adin3oA1aIF9VgZ0Kr) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Hate](https://open.spotify.com/album/0bJkUgiHqCttxGKKaJ90kv) | 4:03 |
 
-Snapshot ID: `MTY4MTQzNjYyMSwwMDAwMDAwMGVmMGNjNmY5Mzc2ZjNhMzMzOWUwOWFmYjZiM2FmZGJm`
+Snapshot ID: `MTY4MTQzNjYyMSwwMDAwMDAwMDE4ZGY1N2M4OGIzYjJlNDg4ZDE4NGY1MmEyYTZmMGE1`

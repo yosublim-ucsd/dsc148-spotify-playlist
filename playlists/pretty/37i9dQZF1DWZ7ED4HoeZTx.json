@@ -1,12 +1,12 @@
 {
   "description": "Your chill anime soundtrack. ",
-  "num_followers": 66985,
+  "num_followers": 67238,
   "original_name": "Slice of Life ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTgzMDAwMCwwMDAwMDAwMDBlNjc2OTA5OTNkYzZmYmQ1ZDA4MWNiZTVlODUyZDJl",
+  "snapshot_id": "MTY4MTgzMDAwMCwwMDAwMDAwMDRkMmRhMmU4NmY0ZTBlM2NiMWU3Nzk3YzQxYzY0ZmU4",
   "tracks": [
     {
       "added_at": "2023-04-18 15:00:00",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-04-18 15:00:00",
       "album": {
+        "name": "Your Name.",
+        "url": "https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "duration_ms": 537653,
+      "name": "Sparkle - movie ver.",
+      "url": "https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO"
+    },
+    {
+      "added_at": "2023-04-18 15:00:00",
+      "album": {
         "name": "Debussy: Clair De Lune and Other Piano Favourites",
         "url": "https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 268000,
       "name": "Clair de Lune, L. 32",
       "url": "https://open.spotify.com/track/5u5aVJKjSMJr4zesMPz7bL"
-    },
-    {
-      "added_at": "2023-04-18 15:00:00",
-      "album": {
-        "name": "Your Name.",
-        "url": "https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP"
-      },
-      "artists": [
-        {
-          "name": "RADWIMPS",
-          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-        }
-      ],
-      "duration_ms": 537653,
-      "name": "Sparkle - movie ver.",
-      "url": "https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO"
     },
     {
       "added_at": "2023-04-18 15:00:00",

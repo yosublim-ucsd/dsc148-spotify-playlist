@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,320 likes - 43 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,345 likes - 43 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 30 | [Mass Nerder](https://open.spotify.com/track/7u972MeFIdqkmQodkqbBcx) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 2:47 |
 | 31 | [Pervert](https://open.spotify.com/track/0xifpRiUNzQzIsFKVyhtRn) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 1:47 |
 | 32 | [Smile](https://open.spotify.com/track/5bgrq2ys7hfJXEdP6ZlrDR) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 3:10 |
-| 33 | [Crepe Suzette](https://open.spotify.com/track/0ylpeLmX7i15s6IpMpBB8M) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:05 |
+| 33 | [Lullaby](https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:01 |
 | 34 | [Here with Me](https://open.spotify.com/track/3J0S1JeugumK6iujuCdotl) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | ['Merican](https://open.spotify.com/album/60eDnZNML7mTE2UadzotYD) | 3:43 |
 | 35 | [Can't Go Back](https://open.spotify.com/track/3vCE0zXuuwLkhBFCZdtsbR) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 1:44 |
 | 36 | [Who We Are](https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Who We Are](https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB) | 3:57 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 38 | [Sour Grapes](https://open.spotify.com/track/2aiuhCouDKhPW8Oj6JYbq6) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Somery](https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe) | 3:49 |
 | 39 | [In Love This Way](https://open.spotify.com/track/1wvQFyYkXrEAqkR22UugcJ) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 2:32 |
 | 40 | [On You](https://open.spotify.com/track/1Gha0zNTNKm25CQJaiCyHN) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Suffrage](https://open.spotify.com/album/3SMJ9cTpoekr5svjB0AcK9) | 2:22 |
-| 41 | [Lullaby](https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:01 |
+| 41 | [Crepe Suzette](https://open.spotify.com/track/0ylpeLmX7i15s6IpMpBB8M) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:05 |
 | 42 | [Get The Time](https://open.spotify.com/track/1R6D0Njkrf530VBgCKY9Lj) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Somery](https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe) | 3:13 |
 | 43 | [Like the Way I Know](https://open.spotify.com/track/7sAvo8h2WuM87WeVrQxMLA) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 0:56 |
 
-Snapshot ID: `MjgwMzAzOTAsMDAwMDAwMDBmMjc1YzQ3ZDQzN2ZjYzM1NWZhYWM1NjAwMzkwNDNlNw==`
+Snapshot ID: `MjgwMzE3ODMsMDAwMDAwMDA3ZWFjOGUxNTZiMzYxYTFiMWM4M2Y4MDhkZGFiZTMyMg==`

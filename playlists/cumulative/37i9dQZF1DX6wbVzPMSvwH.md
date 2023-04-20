@@ -4,7 +4,7 @@
 
 > Feel good songs for morning activities.
 
-87 songs - 5 hr 30 min
+88 songs - 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Just For You](https://open.spotify.com/track/4pNSeZ3zFtBH0vmlCuhGyd) | [Stefaldo](https://open.spotify.com/artist/3Tc2unuhdKex8NKaXdFrni), [Gess Gerald](https://open.spotify.com/artist/63UF0ZF1mHyyRINKgFPRCF) | [Just For You](https://open.spotify.com/album/1ae8gFk03PTdu3HQsGHITe) | 3:27 | 2022-12-13 | 2023-03-31 |
 | [Kala Cinta Menggoda](https://open.spotify.com/track/4bYc6nyol1jKnCTUYtcr2E) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [My Love](https://open.spotify.com/album/1JGRzUgWJcj0mlgqsfiPGt) | 5:19 | 2023-03-22 | 2023-04-01 |
 | [Kala Cinta Menggoda](https://open.spotify.com/track/1NmxBjg8ybFwQkiKVnRxws) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [By Request\-Seperti Yang Kau Minta](https://open.spotify.com/album/1n3e2JeVY2SUPD6LIYV16S) | 5:24 | 2022-12-13 | 2023-03-30 |
-| [Kala Cinta Menggoda](https://open.spotify.com/track/2Lrl5kEt5tuD1s5NZxMoC0) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Kidung Abadi](https://open.spotify.com/album/4Mw0OMk9TKpUHCkFQ9Tej5) | 5:25 | 2023-03-30 |  |
+| [Kala Cinta Menggoda](https://open.spotify.com/track/2Lrl5kEt5tuD1s5NZxMoC0) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Kidung Abadi](https://open.spotify.com/album/4Mw0OMk9TKpUHCkFQ9Tej5) | 5:25 | 2023-03-30 | 2023-04-20 |
+| [Kala Cinta Menggoda \- When Love Seduces](https://open.spotify.com/track/06appkVEXqR9RY21CUWX7U) | [Chrisye](https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279) | [Best Cinta \(Best Love\)](https://open.spotify.com/album/28ixVAc7oL2MC29F4Zpial) | 5:17 | 2023-04-17 |  |
 | [Kamulah Satu\-Satunya](https://open.spotify.com/track/7qd2gICEYvgNJvYFWmDzA1) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs), [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [Kamulah Satu\-Satunya](https://open.spotify.com/album/5yG5winkGz0uJNUofbpaiH) | 4:01 | 2022-12-13 |  |
 | [Keeping Tabs](https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 2:57 | 2022-12-13 |  |
 | [Kita usahakan rumah itu](https://open.spotify.com/track/1x9jnpPOAMSrr7DuIG5jMl) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH](https://open.spotify.com/album/6pEUguV7EoReCpbQQE6QrE) | 3:31 | 2022-12-13 |  |

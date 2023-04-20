@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Majur
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,380 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,404 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 34 | [Emoji de Fogo \(Danny Bond & Cyberkills Remix\)](https://open.spotify.com/track/2Xr1tVdvdGBTKuGfGQMIsw) | [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [Emoji de Fogo \(Danny Bond & Cyberkills Remix\)](https://open.spotify.com/album/4OcBz7AFm3PVFIB6aLIrXU) | 2:48 |
 | 35 | [VRAU](https://open.spotify.com/track/3oNteV2lmIV0R19Jalc7Pd) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY) | [LIA \(pt.1\)](https://open.spotify.com/album/65MKPvNVH77wWCFayg1TTX) | 2:17 |
 | 36 | [Balinha de Coração](https://open.spotify.com/track/265PFGoMLp50HHmtbKjvNW) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:16 |
-| 37 | [Arrasany 3.0](https://open.spotify.com/track/1T1EV8CFAbuJujBS94K245) | [YOHAN](https://open.spotify.com/artist/22WhhViQG6gOeAJYCCTThw), [Dan Murata](https://open.spotify.com/artist/2yD5jiDrMfXNdoq1TPw1oI), [Sanvtto](https://open.spotify.com/artist/0RtFUjl3gt0TesRfDCJkNw) | [Arrasany 3.0](https://open.spotify.com/album/6enVt4Niq4wKdkuMwEr8iR) | 2:33 |
-| 38 | [Macetada](https://open.spotify.com/track/51v7dQ3f2vGBOdYxIemOyY) | [PITAYAS](https://open.spotify.com/artist/6KXzBlb5GgUeAnmqNKut6R) | [PITAYAS](https://open.spotify.com/album/0YsItDdtGBBHzROpoKYajk) | 2:49 |
+| 37 | [Macetada](https://open.spotify.com/track/51v7dQ3f2vGBOdYxIemOyY) | [PITAYAS](https://open.spotify.com/artist/6KXzBlb5GgUeAnmqNKut6R) | [PITAYAS](https://open.spotify.com/album/0YsItDdtGBBHzROpoKYajk) | 2:49 |
+| 38 | [Arrasany 3.0](https://open.spotify.com/track/1T1EV8CFAbuJujBS94K245) | [YOHAN](https://open.spotify.com/artist/22WhhViQG6gOeAJYCCTThw), [Dan Murata](https://open.spotify.com/artist/2yD5jiDrMfXNdoq1TPw1oI), [Sanvtto](https://open.spotify.com/artist/0RtFUjl3gt0TesRfDCJkNw) | [Arrasany 3.0](https://open.spotify.com/album/6enVt4Niq4wKdkuMwEr8iR) | 2:33 |
 | 39 | [Libélula](https://open.spotify.com/track/33IQ1mcWwKe7lyLm5oUrCv) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Libélula](https://open.spotify.com/album/4a5LkqjxtJOAgpyvjogAxe) | 2:36 |
 | 40 | [Sócia](https://open.spotify.com/track/6BsAf92aj9qKt2SdN8972M) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [BOROGODÓ pt.1](https://open.spotify.com/album/0KOlWmzLOTtPnmM8WAA5t2) | 2:49 |
 | 41 | [PODE DALE](https://open.spotify.com/track/0M7NT1s4Ne6wRjPzSfPxsC) | [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe), [Batooke Native](https://open.spotify.com/artist/4ndInxAXKQ9fT571SOPkJt) | [PODE DALE](https://open.spotify.com/album/1hvyiV92xrJUiJHiJmmqTf) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 49 | [Trago Seu Amor de Volta \- Ao Vivo](https://open.spotify.com/track/21AFVwyji9hdtWqlekS4Xx) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [I AM PABLLO \(Ao Vivo\)](https://open.spotify.com/album/4nRBYJ5BaPMk66wyQdeq9O) | 2:34 |
 | 50 | [Bang Bang](https://open.spotify.com/track/165HsSYegdOoZO7jKMt9xb) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:54 |
 
-Snapshot ID: `MTY4MTU4NjUwMSwwMDAwMDAwMDc2OWZmNmE0MjU5ZGY0YjgzODM1ZWVjMDI2YTFhNDlj`
+Snapshot ID: `MTY4MTU4NjUwMSwwMDAwMDAwMGUwNDRlN2ZkYzU4MDVjMWVkNGUyMzAyMzE4YzUyNzIz`

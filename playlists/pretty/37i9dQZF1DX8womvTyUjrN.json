@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Mariangela",
-  "num_followers": 275674,
+  "num_followers": 275729,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTc1MTMxMCwwMDAwMDAwMGExMzQxMTA3MzBhNDQzOGE1ZTJhMmJmNDlmZmI0N2M3",
+  "snapshot_id": "MTY4MTc1MTMxMCwwMDAwMDAwMGE5MmZiNzFlYTA1NzFkYzZjOWNkZTNmZjgxMzQzYTBj",
   "tracks": [
     {
       "added_at": "2023-04-17 17:08:30",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-04-17 17:08:30",
       "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 184511,
+      "name": "Que Se Parezca A Ti",
+      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
+    },
+    {
+      "added_at": "2023-04-17 17:08:30",
+      "album": {
         "name": "No Se Acaba Hasta Que Acabe",
         "url": "https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88"
       },
@@ -375,22 +391,6 @@
     {
       "added_at": "2023-04-17 17:08:30",
       "album": {
-        "name": "Portales (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 184511,
-      "name": "Que Se Parezca A Ti",
-      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
-    },
-    {
-      "added_at": "2023-04-17 17:08:30",
-      "album": {
         "name": "Dije Que No Me Iba a Enamorar",
         "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
       },
@@ -403,6 +403,26 @@
       "duration_ms": 136951,
       "name": "De Nada",
       "url": "https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC"
+    },
+    {
+      "added_at": "2023-04-17 17:08:30",
+      "album": {
+        "name": "Rumores",
+        "url": "https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 202594,
+      "name": "Rumores",
+      "url": "https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A"
     },
     {
       "added_at": "2023-04-17 17:08:30",
@@ -463,22 +483,18 @@
     {
       "added_at": "2023-04-17 17:08:30",
       "album": {
-        "name": "Rumores",
-        "url": "https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid"
+        "name": "Bemaste",
+        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
       },
       "artists": [
         {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 202594,
-      "name": "Rumores",
-      "url": "https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A"
+      "duration_ms": 144428,
+      "name": "Bemaste",
+      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
     },
     {
       "added_at": "2023-04-17 17:08:30",
@@ -499,18 +515,18 @@
     {
       "added_at": "2023-04-17 17:08:30",
       "album": {
-        "name": "Bemaste",
-        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
+        "name": "K23",
+        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 144428,
-      "name": "Bemaste",
-      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
+      "duration_ms": 136505,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/6aNgqSTPML2B5XsohIiL7D"
     },
     {
       "added_at": "2023-04-17 17:08:30",
@@ -567,22 +583,6 @@
       "duration_ms": 207632,
       "name": "Yo Te Dir\u00e9",
       "url": "https://open.spotify.com/track/2K6QTldAHBRFk3c6BHWYr5"
-    },
-    {
-      "added_at": "2023-04-17 17:08:30",
-      "album": {
-        "name": "K23",
-        "url": "https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 136505,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/6aNgqSTPML2B5XsohIiL7D"
     },
     {
       "added_at": "2023-04-17 17:08:30",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-04-17 17:08:30",
       "album": {
+        "name": "Bayam\u00f3n",
+        "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 180949,
+      "name": "Bayam\u00f3n",
+      "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
+    },
+    {
+      "added_at": "2023-04-17 17:08:30",
+      "album": {
         "name": "Bora Bora",
         "url": "https://open.spotify.com/album/2PnRPLXqb7SHg141358iah"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 168159,
       "name": "Bora Bora",
       "url": "https://open.spotify.com/track/0w49NuhCUPdJpzE3ClojSa"
-    },
-    {
-      "added_at": "2023-04-17 17:08:30",
-      "album": {
-        "name": "Bayam\u00f3n",
-        "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 180949,
-      "name": "Bayam\u00f3n",
-      "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
     },
     {
       "added_at": "2023-04-17 17:08:30",

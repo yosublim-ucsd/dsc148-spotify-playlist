@@ -1,12 +1,12 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 350864,
+  "num_followers": 351179,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5ODUwMiwwMDAwMDAwMGFmMjJlMzhlNmU0ZDYwYjgzZjM0MmYyYjBiN2JjZjU0",
+  "snapshot_id": "MTY2NDg5ODUwMiwwMDAwMDAwMDg1YWY2MDEzOTAyZTUwNzI4NTVkZDU3OWM5MTEwZjJj",
   "tracks": [
     {
       "added_at": "2022-04-15 03:00:00",
@@ -75,6 +75,22 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
+        "name": "De Dentro Pra Fora",
+        "url": "https://open.spotify.com/album/6zHmlmkq4W4DFuyXitpgLI"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 307213,
+      "name": "De Dentro Pra Fora",
+      "url": "https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
         "name": "Pode Morar Aqui",
         "url": "https://open.spotify.com/album/4DZvXBLQeG6YTNggyOQGDI"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 333902,
       "name": "Ousado Amor",
       "url": "https://open.spotify.com/track/5qyFts6geTWeNbMeYQcPai"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
-        "name": "De Dentro Pra Fora",
-        "url": "https://open.spotify.com/album/6zHmlmkq4W4DFuyXitpgLI"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 307213,
-      "name": "De Dentro Pra Fora",
-      "url": "https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 311936,
-      "name": "J\u00f3",
-      "url": "https://open.spotify.com/track/50rAuUPCO4xCW4cYGY6gRE"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
         "name": "Ecoar",
         "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 224725,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/22rcaYTa2UgcLCbeO0NoNj"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 311936,
+      "name": "J\u00f3",
+      "url": "https://open.spotify.com/track/50rAuUPCO4xCW4cYGY6gRE"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -407,18 +407,18 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Leandro Borges ao Vivo: Parte 2",
-        "url": "https://open.spotify.com/album/4ULGr8T3tW0EowY8zjwFHQ"
+        "name": "Que Amor \u00c9 Esse",
+        "url": "https://open.spotify.com/album/3XVKSVKOrCaoeQRED1yVpd"
       },
       "artists": [
         {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
         }
       ],
-      "duration_ms": 243840,
-      "name": "Deus e Eu - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ia3xk0HqOkLrUE2JJSbxP"
+      "duration_ms": 420977,
+      "name": "Que Amor \u00c9 Esse",
+      "url": "https://open.spotify.com/track/4s4u2eH7wfzvxWV4CwKzsS"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -447,18 +447,18 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Que Amor \u00c9 Esse",
-        "url": "https://open.spotify.com/album/3XVKSVKOrCaoeQRED1yVpd"
+        "name": "Leandro Borges ao Vivo: Parte 2",
+        "url": "https://open.spotify.com/album/4ULGr8T3tW0EowY8zjwFHQ"
       },
       "artists": [
         {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
         }
       ],
-      "duration_ms": 420977,
-      "name": "Que Amor \u00c9 Esse",
-      "url": "https://open.spotify.com/track/4s4u2eH7wfzvxWV4CwKzsS"
+      "duration_ms": 243840,
+      "name": "Deus e Eu - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ia3xk0HqOkLrUE2JJSbxP"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "H\u00e1 Um Vinho Novo",
-        "url": "https://open.spotify.com/album/0W1v4pLLRqIU5SOMrcqK80"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Zoe",
-          "url": "https://open.spotify.com/artist/6bxqwbU9pD8GXcuSmNSSHU"
-        }
-      ],
-      "duration_ms": 315586,
-      "name": "Voc\u00ea Me Leva ao Deserto",
-      "url": "https://open.spotify.com/track/6WtZILxWzvODyrra2QnLLv"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
         "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
       },
@@ -955,6 +939,22 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
+        "name": "H\u00e1 Um Vinho Novo",
+        "url": "https://open.spotify.com/album/0W1v4pLLRqIU5SOMrcqK80"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Zoe",
+          "url": "https://open.spotify.com/artist/6bxqwbU9pD8GXcuSmNSSHU"
+        }
+      ],
+      "duration_ms": 315586,
+      "name": "Voc\u00ea Me Leva ao Deserto",
+      "url": "https://open.spotify.com/track/6WtZILxWzvODyrra2QnLLv"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
         "name": "Como \u00c1guia.",
         "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
       },
@@ -967,6 +967,22 @@
       "duration_ms": 260620,
       "name": "Cicatrizes",
       "url": "https://open.spotify.com/track/4aeZL7WVsbBDgA8wr5Xj9r"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
+        "name": "Liberta-Me de Mim",
+        "url": "https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y"
+      },
+      "artists": [
+        {
+          "name": "Luma Elpidio",
+          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
+        }
+      ],
+      "duration_ms": 429332,
+      "name": "Liberta-Me de Mim",
+      "url": "https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Liberta-Me de Mim",
-        "url": "https://open.spotify.com/album/4Tio9qsjCxsL5HLysLfa3y"
-      },
-      "artists": [
-        {
-          "name": "Luma Elpidio",
-          "url": "https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR"
-        }
-      ],
-      "duration_ms": 429332,
-      "name": "Liberta-Me de Mim",
-      "url": "https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
         "name": "Pra que outros possam viver",
         "url": "https://open.spotify.com/album/0hPCxbrJbUeArwhQpBbq2h"
       },
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
+        "name": "Andando na Luz",
+        "url": "https://open.spotify.com/album/6nzW5O4iFkESVLPE5WVlmK"
+      },
+      "artists": [
+        {
+          "name": "Heloisa Rosa",
+          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
+        }
+      ],
+      "duration_ms": 348499,
+      "name": "H\u00e1 um Lugar",
+      "url": "https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
         "name": "Kemuel (Sony Music Live)",
         "url": "https://open.spotify.com/album/5ewCRapBYzfnGeXTQq1fE1"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 314289,
       "name": "Oh Qu\u00e3o Lindo Esse Nome \u00c9 (What a Beautiful Name) [Sony Music Live]",
       "url": "https://open.spotify.com/track/58EmHn2c6ArCeIsSWBx60n"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
-        "name": "\u00c1guas Purificadoras",
-        "url": "https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 342667,
-      "name": "\u00c1guas Purificadoras",
-      "url": "https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Andando na Luz",
-        "url": "https://open.spotify.com/album/6nzW5O4iFkESVLPE5WVlmK"
+        "name": "\u00c1guas Purificadoras",
+        "url": "https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX"
       },
       "artists": [
         {
-          "name": "Heloisa Rosa",
-          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 348499,
-      "name": "H\u00e1 um Lugar",
-      "url": "https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II"
+      "duration_ms": 342667,
+      "name": "\u00c1guas Purificadoras",
+      "url": "https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -1127,26 +1127,6 @@
       "duration_ms": 385063,
       "name": "Tudo a Ver Com Ele",
       "url": "https://open.spotify.com/track/726jL4DA03vptKr05so4Zu"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
-        "name": "Aba (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7HVM6QUSNxfbnnxYoS0Xey"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        },
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 348364,
-      "name": "Aba - Ao Vivo",
-      "url": "https://open.spotify.com/track/5zfFRWu8IjmH6g84pBOHbO"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -1199,6 +1179,22 @@
       "duration_ms": 275110,
       "name": "Sou Casa (Ao Vivo)",
       "url": "https://open.spotify.com/track/5TRRTSIsEzdxjG56pKBXvi"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 284862,
+      "name": "Casa do Pai",
+      "url": "https://open.spotify.com/track/5Phlatr2avk8DRTA1ahxb6"
     }
   ],
   "unique_name": "Louvando e Lou\u00e7a",

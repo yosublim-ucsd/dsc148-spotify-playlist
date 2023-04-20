@@ -4,7 +4,7 @@
 
 > Solo hit da cantare \(anche fuori dalla doccia\).
 
-306 songs - 17 hr 51 min
+307 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Hola \(I Say\) \(feat\. Tom Walker\)](https://open.spotify.com/track/42LrSpEHmXHfjEH8NeiQQi) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Atlantico](https://open.spotify.com/album/0evzDJW1g4vJvq6hc027HI) | 3:47 | 2022-05-05 | 2022-07-29 |
 | [Houseparty](https://open.spotify.com/track/7BjTQAiP25ySvf7fFJ04Xa) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [Houseparty](https://open.spotify.com/album/30yXdVrgJXzEkYkscWk1Tx) | 3:26 | 2022-05-05 | 2022-07-29 |
 | [Hypnotized](https://open.spotify.com/track/0vWUhCPxpJOJR5urYbZypB) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Hypnotized](https://open.spotify.com/album/3i75dx8ORmKhhdwKLyZHqM) | 3:15 | 2022-05-05 | 2022-07-29 |
-| [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 | 2022-05-05 |  |
+| [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [I Don't Care \(with Justin Bieber\)](https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR) | 3:39 | 2022-05-05 | 2023-04-20 |
 | [I Don’t Wanna Live Forever \(Fifty Shades Darker\)](https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation Stadium Tour Surprise Song Playlist](https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8) | 4:07 | 2022-05-05 |  |
 | [I Feel It Coming](https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:29 | 2022-05-05 | 2022-09-22 |
 | [I Like Me Better](https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:17 | 2022-09-21 |  |
@@ -188,6 +188,7 @@
 | [Meant to Be \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [All Your Fault: Pt\. 2](https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb) | 2:43 | 2022-09-21 | 2022-11-13 |
 | [Mediterranea](https://open.spotify.com/track/2Up8QSKRV7WnZxZAQasEUq) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Crepe](https://open.spotify.com/album/5yoIA4Z5w1bYOKzQE0MStC) | 2:57 | 2022-05-05 | 2022-07-29 |
 | [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2022-05-05 | 2023-03-23 |
+| [Memories Remix \(feat\. Nipsey Hussle & YG\)](https://open.spotify.com/track/3p4WMekidOIiyf8SFvfrIC) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2023-04-17 |  |
 | [MI FAI IMPAZZIRE](https://open.spotify.com/track/1x3Qb8np6S1UvpSLthwEJN) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MI FAI IMPAZZIRE](https://open.spotify.com/album/59L5yJfDpvDFynmhe2QbYS) | 3:40 | 2022-05-05 | 2022-07-29 |
 | [MILLE – feat\. Orietta Berti](https://open.spotify.com/track/6qdMhG7pRFi0csRlFGvLE4) | [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv), [Orietta Berti](https://open.spotify.com/artist/6W7O7oseXcbYLoiarQrpOw) | [MILLE – feat\. Orietta Berti](https://open.spotify.com/album/4hxHffYYs32MfS9C1H5l6q) | 2:55 | 2022-05-05 | 2022-07-29 |
 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 | 2022-05-05 | 2022-09-22 |

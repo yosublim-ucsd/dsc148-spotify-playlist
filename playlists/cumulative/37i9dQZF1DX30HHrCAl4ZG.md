@@ -4,7 +4,7 @@
 
 > All new indie rock\. Featuring new music from Vacations.
 
-931 songs - 2 day 2 hr 40 min
+932 songs - 2 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [A.P.C.'s](https://open.spotify.com/track/3ioSmKkBscDzLiQ8HFRyYL) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [A.P.C.'s](https://open.spotify.com/album/0CKzLhTqCYXlTXkErHCeNl) | 3:38 | 2022-06-10 | 2022-07-16 |
 | [Action Figures Fighting](https://open.spotify.com/track/30hwT0deSgqiaBMxijn35R) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Action Figures Fighting](https://open.spotify.com/album/2Q5fUG18Rtq9gT8F1Nahdv) | 2:43 | 2023-02-03 | 2023-03-04 |
 | [Ada](https://open.spotify.com/track/2vDQzwgwucNg6Iyts3okJ8) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Ada](https://open.spotify.com/album/6ZnjyMbIWQmCiQMVMRf4tF) | 2:39 | 2021-08-27 | 2022-06-09 |
-| [Adderall \(End of the Line\)](https://open.spotify.com/track/2zJDq0UXhz3mUvmncn4GA1) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Adderall \(End of the Line\)](https://open.spotify.com/album/2RzQZs8tIVQEBEfAwagNm3) | 4:25 | 2023-03-03 |  |
+| [Adderall \(End of the Line\)](https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:25 | 2023-03-03 |  |
+| [Adderall \(End of the Line\)](https://open.spotify.com/track/2zJDq0UXhz3mUvmncn4GA1) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Adderall \(End of the Line\)](https://open.spotify.com/album/2RzQZs8tIVQEBEfAwagNm3) | 4:25 | 2023-03-03 | 2023-04-20 |
 | [Addicted](https://open.spotify.com/track/2dlnnHHv1ntw2M4uM1ShK1) | [KALI](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [Addicted](https://open.spotify.com/album/6mPTYS6E9dHHiIskWTfLgi) | 4:22 | 2022-04-08 | 2022-10-01 |
 | [adrenaline](https://open.spotify.com/track/66ZGRN4rgdoGlFgHm7Qsbo) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [WTF is even going on?](https://open.spotify.com/album/6zIhi4GkAn9OAZ1BCAZh2H) | 2:23 | 2022-11-18 | 2022-12-08 |
 | [Advice](https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:37 | 2021-10-05 | 2022-04-19 |

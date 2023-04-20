@@ -4,7 +4,7 @@
 
 > The home for heavy rockers\. Cover: Metallica
 
-129 songs - 8 hr 17 min
+130 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Darker Still](https://open.spotify.com/track/37O5phPvMfJZBIscgXlw4a) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 6:50 | 2022-11-10 |  |
 | [Dead Inside](https://open.spotify.com/track/3nFrKCdaILOHeBs8c8culM) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1) | [Dead Inside](https://open.spotify.com/album/72oUFiAsXttWcMqcg7hslo) | 4:00 | 2022-11-10 |  |
 | [Delusions of Grandeur](https://open.spotify.com/track/1PhnLoIh8emLvQ7mUM1CyJ) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Delusions of Grandeur](https://open.spotify.com/album/0ehJqGshc3gcqVjJeo6hy1) | 2:58 | 2023-02-10 | 2023-03-18 |
-| [Devil](https://open.spotify.com/track/6REIaFxddyAZI2MjmlSHOW) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [The Mourning](https://open.spotify.com/album/4xAVywnk3mapIPdtXEefro) | 3:23 | 2022-11-10 |  |
+| [Devil](https://open.spotify.com/track/6REIaFxddyAZI2MjmlSHOW) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [The Mourning](https://open.spotify.com/album/4xAVywnk3mapIPdtXEefro) | 3:23 | 2022-11-10 | 2023-04-20 |
 | [DiE4u](https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DiE4u](https://open.spotify.com/album/4L4TlrXB94790rqWBprweP) | 3:27 | 2022-11-10 |  |
 | [Dirty Rotten Bizkit](https://open.spotify.com/track/0S6rmCEGfJhAf2vL6FE5pD) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 3:01 | 2022-11-10 |  |
 | [Divine Attack \- Shingeki \-](https://open.spotify.com/track/0uOtodY9htazL9wojWhKhQ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Divine Attack \- Shingeki \-](https://open.spotify.com/album/6QZX14rv2DloXGEXcYMmSR) | 3:38 | 2022-11-10 | 2023-04-05 |
@@ -91,6 +91,7 @@
 | [Poison Pill](https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Poison Pill](https://open.spotify.com/album/3BGvaxQ6xxWxTM9sJYTvca) | 3:17 | 2023-03-23 |  |
 | [Pump It](https://open.spotify.com/track/3iXNlPQNYPrtimAEM49PsG) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Pump It](https://open.spotify.com/album/2sHDtHAX8luZbP4Uugvtds) | 2:52 | 2022-11-10 |  |
 | [Rainy Day](https://open.spotify.com/track/3AkCkuC8LuRFEnvyKBQUOg) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Welcome To Horrorwood: The Silver Scream 2](https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx) | 3:01 | 2022-11-10 |  |
+| [REAL SUPER DARK](https://open.spotify.com/track/2YGfjeZvYJyy1BQrbsLmGr) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:29 | 2023-03-23 |  |
 | [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 | 2023-02-03 | 2023-04-17 |
 | [Rotoscope](https://open.spotify.com/track/3TV6XEPjXQhbSneiEXRNEr) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Rotoscope](https://open.spotify.com/album/0twOWaleSiQaUUSTFegpds) | 3:35 | 2022-11-10 |  |
 | [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 | 2022-11-10 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De la tarima a tus bocinas! Lo mejor del mariachi en vivo. Juan Gabriel en portada.",
-  "num_followers": 60801,
+  "num_followers": 60851,
   "original_name": "Mariachi en Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgxOTcxOSwwMDAwMDAwMDBkYTRhYWE1ZWUxYTIwNzMzMGY0NGQwMDhkODE4YWRm",
+  "snapshot_id": "MTY0MDgxOTcxOSwwMDAwMDAwMDJjYmIxNzcwYjhiZWFhYWJlMjI1MzgyYWExY2RlMGUz",
   "tracks": [
     {
       "added_at": "2021-12-29 23:15:19",
@@ -379,18 +379,22 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Lagrimas De Mi Barrio",
-        "url": "https://open.spotify.com/album/0PBvPrRurEqazN5SRhnZUT"
+        "name": "Mariachi, Voces y Cuerdas (Concierto En Vivo)",
+        "url": "https://open.spotify.com/album/4uMlrzJ7CVJIRtHEzPK5sb"
       },
       "artists": [
         {
-          "name": "Lupillo Rivera",
-          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
         }
       ],
-      "duration_ms": 195613,
-      "name": "Lagrimas De Mi Barrio",
-      "url": "https://open.spotify.com/track/1truaQTkNL4lYhvftIdAHC"
+      "duration_ms": 225840,
+      "name": "Perfume de Gardenias (feat. Mariachi Vargas de Tecatitl\u00e1n) - En Vivo",
+      "url": "https://open.spotify.com/track/7xVYUYqCGbsEoxfVHrZQqU"
     },
     {
       "added_at": "2021-12-29 23:15:19",
@@ -427,22 +431,18 @@
     {
       "added_at": "2021-12-29 23:15:19",
       "album": {
-        "name": "Mariachi, Voces y Cuerdas (Concierto En Vivo)",
-        "url": "https://open.spotify.com/album/4uMlrzJ7CVJIRtHEzPK5sb"
+        "name": "Lagrimas De Mi Barrio",
+        "url": "https://open.spotify.com/album/0PBvPrRurEqazN5SRhnZUT"
       },
       "artists": [
         {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+          "name": "Lupillo Rivera",
+          "url": "https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW"
         }
       ],
-      "duration_ms": 225840,
-      "name": "Perfume de Gardenias (feat. Mariachi Vargas de Tecatitl\u00e1n) - En Vivo",
-      "url": "https://open.spotify.com/track/7xVYUYqCGbsEoxfVHrZQqU"
+      "duration_ms": 195613,
+      "name": "Lagrimas De Mi Barrio",
+      "url": "https://open.spotify.com/track/1truaQTkNL4lYhvftIdAHC"
     },
     {
       "added_at": "2021-12-29 23:15:19",

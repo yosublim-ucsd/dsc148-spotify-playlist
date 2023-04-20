@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Goldband
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,221 likes - 101 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,228 likes - 101 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

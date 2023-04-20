@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Pathu Thala
 
-607 songs - 1 day 13 hr 44 min
+608 songs - 1 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Araro Ariraaro](https://open.spotify.com/track/2r8V08QsE3q5uPpAH1MsNV) | [N.R\. Raghunanthan](https://open.spotify.com/artist/6jRzzp1nD0wZFy6Uap8Aeh), [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS) | [Ayothi](https://open.spotify.com/album/54LUQHad6ZjD1LLT8Teg7z) | 2:12 | 2023-03-10 | 2023-03-12 |
 | [Araro Ariraaro](https://open.spotify.com/track/7sfGr6Rr7qumPuFEnKEM0i) | [Sai Vignesh](https://open.spotify.com/artist/3cGZqGPKhq8ChGYotV0mlS), [Sarathi](https://open.spotify.com/artist/2EFX35KEBAhgi3lwgvKdSA) | [Ayothi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/31ZWPOn7HHih5iGePKblPl) | 2:12 | 2023-03-10 | 2023-04-14 |
 | [Arutperunjodhi](https://open.spotify.com/track/4urVhgx7BLgwBB4Q9fl5T2) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7) | [Viduthalai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6B4QVNX6NKy1EkU3a8bGe4) | 3:32 | 2023-03-10 | 2023-04-04 |
+| [Asakuna Pusakuna \- From "Ithu Kathaiyalla Nijam"](https://open.spotify.com/track/2cpkcH0RyhTYTm45LbcRE6) | [Anitha](https://open.spotify.com/artist/5JgCurOfOkAAo2bL3idyyv), [Inba Kalil](https://open.spotify.com/artist/5NnvEAO2PfYSGDqfVbHStK), [Taj Noor](https://open.spotify.com/artist/4ahGy0sC6aP7ZTqb4kIFie) | [Asakuna Pusakuna \(From "Ithu Kathaiyalla Nijam"\)](https://open.spotify.com/album/0nXOFvgO3fPz3RiSgyjUNM) | 3:46 | 2023-04-19 |  |
 | [Asuranda](https://open.spotify.com/track/4QXWwsNL5cJo0sT7VUM93o) | [Nikhil Partha Sarathy](https://open.spotify.com/artist/4bCdiEIGa6cicC41UQEZpG), [Chethan Naik](https://open.spotify.com/artist/3DaORH0Tws7WPuMKnQQj3Y), [PR](https://open.spotify.com/artist/38h9c8lEpPakLNluGXohSB), [Nobin Paul](https://open.spotify.com/artist/1IePb1XERqYnAqO9dWi2pf) | [Dr.56 Tamil](https://open.spotify.com/album/41wyEdtHx9d7f43SI9TTei) | 3:30 | 2022-11-28 | 2022-12-05 |
 | [Attack \(From "Liger \(Tamil\)"\)](https://open.spotify.com/track/7cYusGLIcLmJiU8Jrcb47k) | [Vikram Montrose](https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5) | [Attack \[From "Liger \(Tamil\)"\]](https://open.spotify.com/album/5oJrJAxF8dDwFQje2dZE1r) | 3:09 | 2022-08-23 | 2022-09-10 |
 | [Avan Avan \(From "Prithviraj"\) \- Tamil Version](https://open.spotify.com/track/66JZl8HzZzur1PqxUIWoIt) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Diwakar](https://open.spotify.com/artist/5BdXSKDC9KQQpdQ7V3cZxD), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Avan Avan \(From "Prithviraj"\) \- Tamil Version](https://open.spotify.com/album/33V7jXc4BuwQga5HMs8tyB) | 4:14 | 2022-05-12 | 2022-05-31 |

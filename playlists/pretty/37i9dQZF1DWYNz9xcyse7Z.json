@@ -1,12 +1,12 @@
 {
   "description": "Recordando el legado campirano y rancher\u00f3n con las cl\u00e1sicas del sierre\u00f1o. Ariel Camacho en portada.",
-  "num_followers": 44871,
+  "num_followers": 44923,
   "original_name": "Sierre\u00f1as Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM4MzQwOSwwMDAwMDAwMDU2MjA0NWE2MWY3NTk1NjJhNmU4NDExMGFmOGUzODMx",
+  "snapshot_id": "MTY3NTM4MzQwOSwwMDAwMDAwMDVjN2M2ZjFlZGY2NTNmMDE1MDJkY2YzOTg3NWNlYzVl",
   "tracks": [
     {
       "added_at": "2023-02-03 00:16:49",
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 183547,
-      "name": "No Lo Hice Bien",
-      "url": "https://open.spotify.com/track/211mktDmIq7g2Q4gBTXphj"
+      "duration_ms": 155882,
+      "name": "Qu\u00e9 Caro Estoy Pagando",
+      "url": "https://open.spotify.com/track/1JU9KfQidaLyx80ixZr66t"
     },
     {
       "added_at": "2023-02-03 00:16:49",
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 155882,
-      "name": "Qu\u00e9 Caro Estoy Pagando",
-      "url": "https://open.spotify.com/track/1JU9KfQidaLyx80ixZr66t"
+      "duration_ms": 183547,
+      "name": "No Lo Hice Bien",
+      "url": "https://open.spotify.com/track/211mktDmIq7g2Q4gBTXphj"
     },
     {
       "added_at": "2023-02-03 00:16:49",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-02-03 00:16:49",
       "album": {
-        "name": "Ven",
-        "url": "https://open.spotify.com/album/2R1mIUBimCzH70f7yD2OW1"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes De Sinaloa",
-          "url": "https://open.spotify.com/artist/00dw07ifKzcH0KYN6DWBmQ"
-        }
-      ],
-      "duration_ms": 630053,
-      "name": "Las Rancheras de los Reyes",
-      "url": "https://open.spotify.com/track/5bkmKDY3FsMvzp6qh2L16s"
-    },
-    {
-      "added_at": "2023-02-03 00:16:49",
-      "album": {
         "name": "Piel de Az\u00facar",
         "url": "https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 161626,
       "name": "Piel de Az\u00facar",
       "url": "https://open.spotify.com/track/1y8ZcMQhBEySjQxmxnyurt"
+    },
+    {
+      "added_at": "2023-02-03 00:16:49",
+      "album": {
+        "name": "Ven",
+        "url": "https://open.spotify.com/album/2R1mIUBimCzH70f7yD2OW1"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes De Sinaloa",
+          "url": "https://open.spotify.com/artist/00dw07ifKzcH0KYN6DWBmQ"
+        }
+      ],
+      "duration_ms": 630053,
+      "name": "Las Rancheras de los Reyes",
+      "url": "https://open.spotify.com/track/5bkmKDY3FsMvzp6qh2L16s"
     },
     {
       "added_at": "2023-02-03 00:16:49",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-02-03 00:16:49",
       "album": {
-        "name": "Para Morir Nac\u00ed",
-        "url": "https://open.spotify.com/album/6xO9JouFVYKw9lD9YejQJD"
-      },
-      "artists": [
-        {
-          "name": "Los Dukes De Sonora",
-          "url": "https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Para Morir Naci",
-      "url": "https://open.spotify.com/track/58VjK7wICoMm0M2zftvsll"
-    },
-    {
-      "added_at": "2023-02-03 00:16:49",
-      "album": {
         "name": "De La Sierra A La Playa",
         "url": "https://open.spotify.com/album/3T0EMRduGzvEHZgvftYTxc"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 215301,
       "name": "Fue Tu Culpa",
       "url": "https://open.spotify.com/track/1aCOsi8TtpL7Mo8Lx0qT0f"
+    },
+    {
+      "added_at": "2023-02-03 00:16:49",
+      "album": {
+        "name": "Para Morir Nac\u00ed",
+        "url": "https://open.spotify.com/album/6xO9JouFVYKw9lD9YejQJD"
+      },
+      "artists": [
+        {
+          "name": "Los Dukes De Sonora",
+          "url": "https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Para Morir Naci",
+      "url": "https://open.spotify.com/track/58VjK7wICoMm0M2zftvsll"
     },
     {
       "added_at": "2023-02-03 00:16:49",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-02-03 00:16:49",
       "album": {
-        "name": "Tres Suspiros",
-        "url": "https://open.spotify.com/album/1uBsBFgV33cAfgSkIfD9bB"
-      },
-      "artists": [
-        {
-          "name": "Los Dos De La Sierra",
-          "url": "https://open.spotify.com/artist/3VCLVWGByXwgEpCQW1jmBc"
-        }
-      ],
-      "duration_ms": 162013,
-      "name": "Dos Seres Que Se Aman",
-      "url": "https://open.spotify.com/track/6EvHYa6KUiXAl9rqt7E7Z5"
-    },
-    {
-      "added_at": "2023-02-03 00:16:49",
-      "album": {
         "name": "Los Cuen's De Sinaloa",
         "url": "https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 168666,
       "name": "Amores Fingidos",
       "url": "https://open.spotify.com/track/7dHPgzcHDFq8s6B50H9bfn"
+    },
+    {
+      "added_at": "2023-02-03 00:16:49",
+      "album": {
+        "name": "Tres Suspiros",
+        "url": "https://open.spotify.com/album/1uBsBFgV33cAfgSkIfD9bB"
+      },
+      "artists": [
+        {
+          "name": "Los Dos De La Sierra",
+          "url": "https://open.spotify.com/artist/3VCLVWGByXwgEpCQW1jmBc"
+        }
+      ],
+      "duration_ms": 162013,
+      "name": "Dos Seres Que Se Aman",
+      "url": "https://open.spotify.com/track/6EvHYa6KUiXAl9rqt7E7Z5"
     },
     {
       "added_at": "2023-02-03 00:16:49",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-02-03 00:16:49",
       "album": {
+        "name": "Los Cuen's De Sinaloa",
+        "url": "https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0"
+      },
+      "artists": [
+        {
+          "name": "Los Cuen's De Sinaloa",
+          "url": "https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2"
+        }
+      ],
+      "duration_ms": 197466,
+      "name": "Los Plebes Atrevidos",
+      "url": "https://open.spotify.com/track/59hQ9CzM8Mrril2tKdXFj0"
+    },
+    {
+      "added_at": "2023-02-03 00:16:49",
+      "album": {
         "name": "Piel de Az\u00facar",
         "url": "https://open.spotify.com/album/6LRYnSGOYJZufNSd5IscGV"
       },
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2023-02-03 00:16:49",
       "album": {
-        "name": "Siguen los Exitos",
-        "url": "https://open.spotify.com/album/3x6EZXwwRU7kDo9DKzVWKa"
-      },
-      "artists": [
-        {
-          "name": "Sierre\u00f1os de Sinaloa",
-          "url": "https://open.spotify.com/artist/49XtLcagl18fnpRxiW7QW8"
-        }
-      ],
-      "duration_ms": 178706,
-      "name": "Que Casualidad",
-      "url": "https://open.spotify.com/track/1ARNcGlXQKky7zX4TZkCtx"
-    },
-    {
-      "added_at": "2023-02-03 00:16:49",
-      "album": {
         "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 2",
         "url": "https://open.spotify.com/album/1fW1WW9YONI4LS3WRajavt"
       },
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-02-03 00:16:49",
       "album": {
-        "name": "Los Cuen's De Sinaloa",
-        "url": "https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0"
+        "name": "Siguen los Exitos",
+        "url": "https://open.spotify.com/album/3x6EZXwwRU7kDo9DKzVWKa"
       },
       "artists": [
         {
-          "name": "Los Cuen's De Sinaloa",
-          "url": "https://open.spotify.com/artist/4QLyaPcH64FhlBxA8FAeN2"
+          "name": "Sierre\u00f1os de Sinaloa",
+          "url": "https://open.spotify.com/artist/49XtLcagl18fnpRxiW7QW8"
         }
       ],
-      "duration_ms": 197466,
-      "name": "Los Plebes Atrevidos",
-      "url": "https://open.spotify.com/track/59hQ9CzM8Mrril2tKdXFj0"
+      "duration_ms": 178706,
+      "name": "Que Casualidad",
+      "url": "https://open.spotify.com/track/1ARNcGlXQKky7zX4TZkCtx"
     },
     {
       "added_at": "2023-02-03 00:16:49",

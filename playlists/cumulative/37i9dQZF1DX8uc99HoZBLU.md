@@ -4,7 +4,7 @@
 
 > for those who appreciate a curated mood 🪩
 
-297 songs - 15 hr 4 min
+298 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,8 @@
 | [unless you leave](https://open.spotify.com/track/5q0HdkRYhJlVI8Ep3Bfv2i) | [Chase Elliott](https://open.spotify.com/artist/7CmLWWnzB2PQoGLpJ4zDHR) | [unless you leave](https://open.spotify.com/album/0lPd9kfr60CDR9OS50Eefe) | 3:24 | 2022-12-09 |  |
 | [Valentine](https://open.spotify.com/track/2EjuEHTRZRgE9pvaBm5Hh3) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Valentine](https://open.spotify.com/album/2BI2mJAuuoQ10WFRz6cqb6) | 2:48 | 2022-07-19 | 2022-09-09 |
 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2022-09-09 |  |
-| [Vanilla Tobacco](https://open.spotify.com/track/36XMwwDfgKyl3nIksXbZ4G) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Vanilla Tobacco](https://open.spotify.com/album/6HJjCkU7RNvqiYB0iZVIgR) | 2:48 | 2022-11-11 |  |
+| [Vanilla Tobacco](https://open.spotify.com/track/17wRNRiO8LZLP79mf8Fri7) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 2:48 | 2023-02-15 |  |
+| [Vanilla Tobacco](https://open.spotify.com/track/36XMwwDfgKyl3nIksXbZ4G) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Vanilla Tobacco](https://open.spotify.com/album/6HJjCkU7RNvqiYB0iZVIgR) | 2:48 | 2022-11-11 | 2023-04-20 |
 | [Vas](https://open.spotify.com/track/6S7o12almFeL57rbRvdY5l) | [jagger finn](https://open.spotify.com/artist/4b1cEwAKl1Wdg6x8kkraJa) | [Triplbt Theme](https://open.spotify.com/album/0Nq3r1NoSh6bq6SXxuKnlM) | 1:30 | 2022-08-19 |  |
 | [Vince Vaughn](https://open.spotify.com/track/19FtkEWP32JaJhN79GjBaa) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Vince Vaughn](https://open.spotify.com/album/3K7rzPoSfKjl4ZdfdSl5Es) | 2:54 | 2021-08-27 | 2022-07-22 |
 | [virgo](https://open.spotify.com/track/6DG3LXLQjz8Z9QvWGkf6gS) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc) | [virgo](https://open.spotify.com/album/76y9hFJoA7pgX2upWuwcE5) | 1:01 | 2021-06-08 | 2022-04-17 |

@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "A Certain Smile",
+        "url": "https://open.spotify.com/album/40ynWeqMktudTHSlnMBmsS"
+      },
+      "artists": [
+        {
+          "name": "Neo Fourths Trio",
+          "url": "https://open.spotify.com/artist/5lWDE7rJapJvf0NUUHc6xe"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230930,
+      "name": "A Certain Smile",
+      "url": "https://open.spotify.com/track/4ln4s0kVCZyH0lK6MioPYk"
+    },
+    {
+      "album": {
         "name": "A Clean Record",
         "url": "https://open.spotify.com/album/1ayvuzsFIo0Momz5T2OGpA"
       },
@@ -265,6 +283,24 @@
     },
     {
       "album": {
+        "name": "A place I knew",
+        "url": "https://open.spotify.com/album/6LVKVtWLCpQ8LU0sf5miQZ"
+      },
+      "artists": [
+        {
+          "name": "The Sweetgreens",
+          "url": "https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160866,
+      "name": "A place I knew",
+      "url": "https://open.spotify.com/track/08Y2U1Z3FuXOYNRZgUHXHk"
+    },
+    {
+      "album": {
         "name": "Triple Play",
         "url": "https://open.spotify.com/album/5yMWBKYnLrYHMJeA9j9nwr"
       },
@@ -306,6 +342,24 @@
       "duration_ms": 148901,
       "name": "A Quiet Place",
       "url": "https://open.spotify.com/track/2sOncurUkrw3CYWliyxYSU"
+    },
+    {
+      "album": {
+        "name": "A Real Show",
+        "url": "https://open.spotify.com/album/0NyYKacgfxr3CgJcVX484z"
+      },
+      "artists": [
+        {
+          "name": "Motor City Trio",
+          "url": "https://open.spotify.com/artist/3hu0bCz2XTFEEL3WYjo0fs"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174091,
+      "name": "A Real Show",
+      "url": "https://open.spotify.com/track/7F8Hn4PBfwWPr6eK6ow1lp"
     },
     {
       "album": {
@@ -5497,6 +5551,24 @@
     },
     {
       "album": {
+        "name": "Lake Arrowhead",
+        "url": "https://open.spotify.com/album/2PER2MGdknFkZG5AAXDA9v"
+      },
+      "artists": [
+        {
+          "name": "George Kuntz Four",
+          "url": "https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218254,
+      "name": "Lake Arrowhead",
+      "url": "https://open.spotify.com/track/1iceRErjDazYdrZoB8eo48"
+    },
+    {
+      "album": {
         "name": "Landmarks",
         "url": "https://open.spotify.com/album/5InHDZVvNbDDvq917BmMgT"
       },
@@ -5616,7 +5688,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 244194,
       "name": "Laura",
       "url": "https://open.spotify.com/track/5c6uQOFSUzRGOiEVdDB6Zx"
@@ -5808,7 +5880,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 234500,
       "name": "Life At Point Nemo",
       "url": "https://open.spotify.com/track/31SW7BwZNGQau7Tmydxzfl"
@@ -5916,7 +5988,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 227166,
       "name": "Limerence",
       "url": "https://open.spotify.com/track/7C3UrJfqTmzpUtKG6XIgAV"
@@ -6114,7 +6186,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 242905,
       "name": "Lost In Your Eyes",
       "url": "https://open.spotify.com/track/6LbXoojfOKm6iW4VIztDAT"
@@ -9331,6 +9403,24 @@
     },
     {
       "album": {
+        "name": "Softly, Tenderly",
+        "url": "https://open.spotify.com/album/4UjQcQQbyYPZnNbY4gWsPM"
+      },
+      "artists": [
+        {
+          "name": "The Smooth Sounds",
+          "url": "https://open.spotify.com/artist/4Z8nV1Gr7Lv05JRKvsNhW8"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221360,
+      "name": "Softly, Tenderly",
+      "url": "https://open.spotify.com/track/5byMA13b3vZFCMVAgJNsCo"
+    },
+    {
+      "album": {
         "name": "Some Other Time",
         "url": "https://open.spotify.com/album/3bOEB4OePOI9EUYeKI1Qbu"
       },
@@ -9342,7 +9432,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 263150,
       "name": "Some Other Time",
       "url": "https://open.spotify.com/track/284ow3724GLZLY9g2ITnDn"

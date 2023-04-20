@@ -4,7 +4,7 @@
 
 > Pura música fresca para vibrar en cualquier momento de la semana.
 
-282 songs - 14 hr 59 min
+283 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Kaprichosa](https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Kaprichosa](https://open.spotify.com/album/398f6bMojV8IIh3FXd3q0o) | 3:20 | 2022-01-14 | 2022-07-29 |
 | [Kiss Me](https://open.spotify.com/track/1qLSApVLyExIAgUHEM6DV1) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [WEEDtape](https://open.spotify.com/album/33HjMrrvDkP3BHdj5G1xel) | 2:49 | 2022-11-25 | 2022-12-08 |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-11-09 |  |
+| [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-04-19 |  |
 | [La Copa](https://open.spotify.com/track/2gdBsRfuWGwJwe3X5XwZuI) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Copa](https://open.spotify.com/album/2PC6PCA91NxKDtuV63i0rF) | 2:34 | 2022-09-20 | 2023-02-22 |
 | [La Esquina del Mall](https://open.spotify.com/track/3WtymOJb6mGqTzU9wlRzck) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Esquina del Mall](https://open.spotify.com/album/6TJiIMlNiG56NiToULGmF8) | 3:27 | 2022-10-07 |  |
 | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/track/6dmXZ9B5HdFAyzHeTneYBK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/album/39LyZrNGkbc2IUeVOhwmGU) | 3:08 | 2022-01-14 | 2022-03-21 |
@@ -208,7 +209,7 @@
 | [plan](https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [ser humano](https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx) | 3:19 | 2023-04-05 |  |
 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 | 2022-03-25 | 2022-11-09 |
 | [PLAYA DEL INGLÉS](https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [PLAYA DEL INGLÉS](https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9) | 3:57 | 2023-01-13 |  |
-| [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 | 2022-07-23 |  |
+| [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 | 2022-07-23 | 2023-04-20 |
 | [Podemos Intentar](https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 4:11 | 2022-05-06 | 2022-05-20 |
 | [Prendía](https://open.spotify.com/track/3FkIUK4YmiPmuQeiI2JBdm) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Prendía](https://open.spotify.com/album/1OyqhJhYzKHNa9su83b4DR) | 4:28 | 2022-07-19 | 2022-07-23 |
 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 | 2022-04-22 |  |

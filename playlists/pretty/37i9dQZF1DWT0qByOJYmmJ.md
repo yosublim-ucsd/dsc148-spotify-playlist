@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 
 > Tristeza independiente para aquellos días de bajón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 609,653 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 609,913 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0qByOJYmmJ.md) - [plain]
 | 73 | [Vete a la Chingada](https://open.spotify.com/track/2Eyhp0Y1c27MJPJNEVLs9n) | [Marcos Menchaca](https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj) | [Cada Vez Más > :\-\(](https://open.spotify.com/album/5wfGJBe1sQ4XbuL2fs0tkz) | 3:07 |
 | 74 | [Despedida](https://open.spotify.com/track/0f2n03VQWtlXKQmeIKazYF) | [Champ Jr.](https://open.spotify.com/artist/4VQ1gn6ljyT8pVQKjZbgRr) | [Despedida](https://open.spotify.com/album/3SDScjJ7O8Vt3lXEf4JwSS) | 2:38 |
 | 75 | [pero qué cosa](https://open.spotify.com/track/3lIPnDNKdk3NJzRa6EJRlc) | [Fer](https://open.spotify.com/artist/4Y3nku1hJZADNFyHeS3A6J) | [pero qué cosa](https://open.spotify.com/album/38T7QRU3ArAPJnlkKE9cNr) | 2:45 |
-| 76 | [Elefante Rosado](https://open.spotify.com/track/6gAvKn225q8bNOG5HwvNhu) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [Elefante Rosado](https://open.spotify.com/album/7zd0rhMzLcO242yOC1niFl) | 2:13 |
-| 77 | [lejos](https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:22 |
+| 76 | [lejos](https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:22 |
+| 77 | [Elefante Rosado](https://open.spotify.com/track/6gAvKn225q8bNOG5HwvNhu) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [Elefante Rosado](https://open.spotify.com/album/7zd0rhMzLcO242yOC1niFl) | 2:13 |
 | 78 | [Si Nos Dejan](https://open.spotify.com/track/4zFPUEMucYleIIUnYVoeZf) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Si Nos Dejan](https://open.spotify.com/album/1DYPBdwetHACQR9Pr5uMDJ) | 2:32 |
 | 79 | [Lo Que Solíamos Ser](https://open.spotify.com/track/7pmyyC7HUNMtEqT3w6QWTn) | [LÚA](https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM) | [Lo Que Solíamos Ser](https://open.spotify.com/album/01SMFYAJJVNSFNZXJj2c9s) | 3:03 |
 | 80 | [Roto](https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Roto](https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf) | 2:45 |
 
-Snapshot ID: `MTY3NzI2MDQyMiwwMDAwMDAwMGNmZTE1NDJmNTQwNTA0ZmZiYTkwOWYyZDk2Y2M1ZmM2`
+Snapshot ID: `MTY3NzI2MDQyMiwwMDAwMDAwMGJkOTY2ZTg5OGU2M2ZjMmY1ODAwYjQ0MTVkMWI4N2Nm`

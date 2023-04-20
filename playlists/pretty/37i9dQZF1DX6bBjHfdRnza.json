@@ -1,13 +1,265 @@
 {
   "description": "The best new dance & electronic by independent artists and labels. Cover: BKAYE. Artwork by Rewina Beshue. Updates every Wednesday.",
-  "num_followers": 146611,
+  "num_followers": 146733,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTUwNDMzMywwMDAwMDAwMDc2YWU2YmUyNDc4MzAwNzNmOGE1YzNhOTQyNjUyYzg4",
+  "snapshot_id": "MTY4MTkxMzEzMiwwMDAwMDAwMGVkODcxZTE0MWVhMzk2YzAzZWIxMGUyMTM4YmYwYjdk",
   "tracks": [
+    {
+      "added_at": "2023-04-19 14:05:32",
+      "album": {
+        "name": "sedatives",
+        "url": "https://open.spotify.com/album/4GGM10hPG0dbjmbFbHfWaf"
+      },
+      "artists": [
+        {
+          "name": "demotapes",
+          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
+        },
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        }
+      ],
+      "duration_ms": 165217,
+      "name": "sedatives",
+      "url": "https://open.spotify.com/track/6XMBQ2Dk9oQoXBfoI53Sqt"
+    },
+    {
+      "added_at": "2023-04-19 14:05:32",
+      "album": {
+        "name": "Closer to the Edge",
+        "url": "https://open.spotify.com/album/36Pyo7y3IncfFvjx8gBbeV"
+      },
+      "artists": [
+        {
+          "name": "PANDIT",
+          "url": "https://open.spotify.com/artist/2pECYypNfjVElMZlL7rTVn"
+        }
+      ],
+      "duration_ms": 158976,
+      "name": "Closer to the Edge",
+      "url": "https://open.spotify.com/track/0Jb0nrnmXWH1rSd9NJS6XU"
+    },
+    {
+      "added_at": "2023-04-19 14:05:32",
+      "album": {
+        "name": "LOST",
+        "url": "https://open.spotify.com/album/0aF64r7K5jWIRbf31gdg2e"
+      },
+      "artists": [
+        {
+          "name": "heartaake",
+          "url": "https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa"
+        }
+      ],
+      "duration_ms": 151111,
+      "name": "LOST",
+      "url": "https://open.spotify.com/track/0nVN2fhcZYX4cbIeYhx3St"
+    },
+    {
+      "added_at": "2023-04-19 14:05:32",
+      "album": {
+        "name": "Floor (Marius Remix)",
+        "url": "https://open.spotify.com/album/0y7nBWyRyKEibqGeCmjS0M"
+      },
+      "artists": [
+        {
+          "name": "Whose Rules",
+          "url": "https://open.spotify.com/artist/3GAycRSOI4PRxEe6e1Ci8j"
+        },
+        {
+          "name": "Marius",
+          "url": "https://open.spotify.com/artist/0dXCvd6lpLfZBKTFjUF1R3"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "Floor (Marius Remix)",
+      "url": "https://open.spotify.com/track/4YnI2Wr7tSxrlIVyLJJUmy"
+    },
+    {
+      "added_at": "2023-04-19 14:05:32",
+      "album": {
+        "name": "Feels Bad",
+        "url": "https://open.spotify.com/album/23rwCtNkALElgFulTfNRpv"
+      },
+      "artists": [
+        {
+          "name": "IN2STELLAR",
+          "url": "https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq"
+        }
+      ],
+      "duration_ms": 434452,
+      "name": "Feels Bad",
+      "url": "https://open.spotify.com/track/1wr53taHWvkEfp9nG0vAIM"
+    },
+    {
+      "added_at": "2023-04-19 14:05:32",
+      "album": {
+        "name": "Man Eater",
+        "url": "https://open.spotify.com/album/20TpoQ1kam53Adupaagwgk"
+      },
+      "artists": [
+        {
+          "name": "Paluma",
+          "url": "https://open.spotify.com/artist/7vIAu0l7icbujUGaOK8HT4"
+        },
+        {
+          "name": "Tyson O'brien",
+          "url": "https://open.spotify.com/artist/0ipSB6Z9hk2SLLh07tLYNL"
+        }
+      ],
+      "duration_ms": 183984,
+      "name": "Man Eater",
+      "url": "https://open.spotify.com/track/4wPOB6Knwc9fYJFPXkf0Zh"
+    },
+    {
+      "added_at": "2023-04-19 14:05:32",
+      "album": {
+        "name": "Sleazy (Nenor Remix) - Single Edit",
+        "url": "https://open.spotify.com/album/3UlLariGwYgBQnvSlSTGY0"
+      },
+      "artists": [
+        {
+          "name": "Underground System",
+          "url": "https://open.spotify.com/artist/4Ytr2oBFsaJFTScQiP4QjG"
+        },
+        {
+          "name": "Nenor",
+          "url": "https://open.spotify.com/artist/1HMwAssufObyNKkyHyCB3V"
+        },
+        {
+          "name": "Obas Nenor",
+          "url": "https://open.spotify.com/artist/3NI0j0KO6NdKddsYJyGFRA"
+        }
+      ],
+      "duration_ms": 190112,
+      "name": "Sleazy - Nenor Remix",
+      "url": "https://open.spotify.com/track/48mq9gAcn9m1SGgwBNBXXe"
+    },
+    {
+      "added_at": "2023-04-19 14:05:32",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/1BgdH2kT6EkNaWOdjAkqxq"
+      },
+      "artists": [
+        {
+          "name": "Liam V",
+          "url": "https://open.spotify.com/artist/2DuajJNZQCX3mkLW6IDPzt"
+        },
+        {
+          "name": "TANISHA",
+          "url": "https://open.spotify.com/artist/5ZrJiyoPJ1n2pkTTb3YyBv"
+        }
+      ],
+      "duration_ms": 180119,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3sBM5KyycsB7VRzcLLL90V"
+    },
+    {
+      "added_at": "2023-04-19 14:05:32",
+      "album": {
+        "name": "Hideaway (feat. Dominique)",
+        "url": "https://open.spotify.com/album/37VPSyKKW5PgbBk3d9YKfw"
+      },
+      "artists": [
+        {
+          "name": "Maison Ware",
+          "url": "https://open.spotify.com/artist/0A85Mz9YHumTq1HgNtt6aA"
+        },
+        {
+          "name": "Dominique",
+          "url": "https://open.spotify.com/artist/7fjxC1mJmxy7IQgtAFHMAc"
+        }
+      ],
+      "duration_ms": 267810,
+      "name": "Hideaway (feat. Dominique)",
+      "url": "https://open.spotify.com/track/5N9b7r6gMdyTF6bT0xcftS"
+    },
+    {
+      "added_at": "2023-04-19 14:05:32",
+      "album": {
+        "name": "Serpentine",
+        "url": "https://open.spotify.com/album/0xG0hCNW26zEnhzih1tcub"
+      },
+      "artists": [
+        {
+          "name": "Pugilist",
+          "url": "https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S"
+        }
+      ],
+      "duration_ms": 351360,
+      "name": "Serpentine",
+      "url": "https://open.spotify.com/track/09LbuAtr1nQhx1hPdMS8Xd"
+    },
+    {
+      "added_at": "2023-04-19 14:05:32",
+      "album": {
+        "name": "Don't Really Care",
+        "url": "https://open.spotify.com/album/3809RidvYF5fZH1rFEFDFt"
+      },
+      "artists": [
+        {
+          "name": "Djanaba",
+          "url": "https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr"
+        }
+      ],
+      "duration_ms": 178405,
+      "name": "Don't Really Care",
+      "url": "https://open.spotify.com/track/6Sse51km3PDp5kHMgcVFXf"
+    },
+    {
+      "added_at": "2023-04-19 14:05:32",
+      "album": {
+        "name": "T Minus",
+        "url": "https://open.spotify.com/album/0RSh5kgB4s3tRpQEcIkx0f"
+      },
+      "artists": [
+        {
+          "name": "suki",
+          "url": "https://open.spotify.com/artist/1vIOPkrhJl84CvBcT6LPyq"
+        }
+      ],
+      "duration_ms": 338327,
+      "name": "T Minus",
+      "url": "https://open.spotify.com/track/6VH91gjItq7rKiYnIPApQ2"
+    },
+    {
+      "added_at": "2023-04-19 14:05:32",
+      "album": {
+        "name": "Lazybones",
+        "url": "https://open.spotify.com/album/0irCXpj4fTA1ZcsFvOjS4M"
+      },
+      "artists": [
+        {
+          "name": "Gene On Earth",
+          "url": "https://open.spotify.com/artist/0nFTxvt33kxliqqvTXT2Hj"
+        }
+      ],
+      "duration_ms": 347408,
+      "name": "Pulse Mode",
+      "url": "https://open.spotify.com/track/6vCrvEmvRIDVwed2tAto5i"
+    },
+    {
+      "added_at": "2023-04-19 14:05:32",
+      "album": {
+        "name": "Where Did the Day Go",
+        "url": "https://open.spotify.com/album/2ZKPQlqeCXnfft05lF8IG9"
+      },
+      "artists": [
+        {
+          "name": "Bertolt Meyer",
+          "url": "https://open.spotify.com/artist/6Q1qf7OgYILqbNNSzJFctv"
+        }
+      ],
+      "duration_ms": 411042,
+      "name": "Where Did the Day Go",
+      "url": "https://open.spotify.com/track/6KXToRY3JOYDV5WHNnbO4S"
+    },
     {
       "added_at": "2023-04-12 14:26:39",
       "album": {

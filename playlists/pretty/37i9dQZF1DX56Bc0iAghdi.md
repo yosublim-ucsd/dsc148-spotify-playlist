@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Hannah Kerr
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,090 likes - 65 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,134 likes - 65 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 29 | [Delight in You](https://open.spotify.com/track/37YF8RDQ7u7JLQOnxcCH9b) | [Allie Paige](https://open.spotify.com/artist/7qNEZ5VvIV5TPMmNaSZjDl) | [Always Faithful](https://open.spotify.com/album/5HOJ3iRYUkUfGiNzet72EQ) | 3:58 |
 | 30 | [Fanatic](https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Twenty Four Seven](https://open.spotify.com/album/78W0lU34coKODcz3Ln3Vfn) | 3:06 |
 | 31 | [Sweet Water](https://open.spotify.com/track/4hKM2qMuzJksWGyJcOyiAK) | [Beach Chapel](https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5) | [Sweet Water](https://open.spotify.com/album/05T3jbSK1BqRRvSU5q0P9Q) | 4:09 |
-| 32 | [Never Far](https://open.spotify.com/track/2fWrlXD3n603bKrL0UPXZj) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Never Far](https://open.spotify.com/album/7kRDQkDk7tBtv8hpoSdWrX) | 3:44 |
-| 33 | [Eyes on You](https://open.spotify.com/track/2q0UHOP7ePGLcqjwF9wBSV) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Heaven](https://open.spotify.com/album/5Q11hlTmOZedl8pEKT4Cbg) | 3:56 |
+| 32 | [Eyes on You](https://open.spotify.com/track/2q0UHOP7ePGLcqjwF9wBSV) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Heaven](https://open.spotify.com/album/5Q11hlTmOZedl8pEKT4Cbg) | 3:56 |
+| 33 | [Never Far](https://open.spotify.com/track/2fWrlXD3n603bKrL0UPXZj) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Never Far](https://open.spotify.com/album/7kRDQkDk7tBtv8hpoSdWrX) | 3:44 |
 | 34 | [You Say \(Acoustic\)](https://open.spotify.com/track/4edscO0eug8wJGZ5RkqqdW) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [You Say \(Acoustic\)](https://open.spotify.com/album/50JmQ36DRkjO60LXMOowYp) | 4:24 |
 | 35 | [Pieces](https://open.spotify.com/track/6PZh8MRQB5Hxj2PIKG8XY5) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Bloom](https://open.spotify.com/album/36LOiWPolyaiePKZwj4A5w) | 5:29 |
 | 36 | [Teach Me](https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Teach Me](https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl) | 3:33 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 64 | [You Are Good](https://open.spotify.com/track/4n5opjW4KMNUr3NhOgCgwp) | [Shanny Jeann](https://open.spotify.com/artist/3QFEQDqiDb6FQhA5XA4fnI) | [You Are Good](https://open.spotify.com/album/1j9s8mN2uXbo9RGYLFrmT8) | 2:53 |
 | 65 | [From the Roof \(feat\. YB\)](https://open.spotify.com/track/01RdXpTlzMDLakg6lDaC8j) | [Quinten Coblentz](https://open.spotify.com/artist/7w28aj6tyhuIdcOIA7Ex2Z), [YB](https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k) | [From the Roof \(feat\. YB\)](https://open.spotify.com/album/7MxN9VOPa5nVdX7eHQYMe0) | 3:00 |
 
-Snapshot ID: `MTY3NjcwMTMyMiwwMDAwMDAwMGY4MGQyYTFiODE0OGJiZjlhMTY1M2NiNTRjN2EwMTEz`
+Snapshot ID: `MTY3NjcwMTMyMiwwMDAwMDAwMDAwNmFlNDQ4ZmQ2NzE3ZTIwNDY3N2Q4YjgwYjFiYTIx`

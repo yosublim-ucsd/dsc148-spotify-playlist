@@ -4,7 +4,7 @@
 
 > La música que prende la fiesta!
 
-371 songs - 21 hr 34 min
+372 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [L\-GANTE \| DJ TAO Turreo Session \#10](https://open.spotify.com/track/1t2EmLRM4pYcZv3CBZiyKR) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-GANTE \| DJ TAO Turreo Session \#10](https://open.spotify.com/album/2KIJV8cxypRy4eHFUZaisv) | 2:46 | 2022-06-07 | 2022-07-27 |
 | [L\-Gante: Bzrp Music Sessions, Vol.38](https://open.spotify.com/track/1Crj1zkRMpsEjb9NOR6Zof) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante: Bzrp Music Sessions, Vol\. 38](https://open.spotify.com/album/6ScNKLKYY6rpgCIJThLnMH) | 3:12 | 2022-05-13 |  |
 | [L\-Gante: RKT SESSIONS \#1](https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi) | [Papu DJ](https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante: RKT SESSIONS \#1](https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG) | 3:01 | 2023-02-10 |  |
-| [La Bebe](https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76) | 3:43 | 2023-02-03 |  |
+| [La Bebe](https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76) | 3:43 | 2023-02-03 | 2023-04-20 |
+| [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-04-19 |  |
 | [LA CANCIÓN](https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:02 | 2022-07-22 |  |
 | [La Cola](https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Tiempo De Bailar](https://open.spotify.com/album/07DvHBaC1nFRiVtwW9vaCM) | 2:49 | 2022-05-13 | 2022-07-29 |
 | [La Curiosidad](https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Platonicos](https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw) | 3:39 | 2022-05-13 | 2023-02-11 |

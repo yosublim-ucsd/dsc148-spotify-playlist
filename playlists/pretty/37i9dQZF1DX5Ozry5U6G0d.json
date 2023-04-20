@@ -1,12 +1,12 @@
 {
   "description": "That summer sound.",
-  "num_followers": 1696681,
+  "num_followers": 1696650,
   "original_name": "Summer Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDY0Nzc0NWM4ZWEzOTY2MWFmNjAyMzc1MzVlYzZhMDVh",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDYzNzAwN2Q5OGEwZWJlOGIwMmUyMzE0ZTMxMWFlZTQw",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -163,6 +163,38 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
       },
@@ -183,22 +215,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 234093,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "24K Magic",
         "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 206693,
       "name": "That's What I Like",
       "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Afraid To Feel",
-        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 177524,
-      "name": "Afraid To Feel",
-      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 184732,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 177524,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -907,26 +907,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Tom's Diner",
-        "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
-      },
-      "artists": [
-        {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        },
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "Tom's Diner",
-      "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Layers",
         "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 195546,
       "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
       "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Tom's Diner",
+        "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        },
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "Tom's Diner",
+      "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1011,6 +1011,34 @@
       "duration_ms": 220293,
       "name": "Mambo No. 5 (a Little Bit of...)",
       "url": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "4EVA (feat. Pharrell Williams)",
+        "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
+      },
+      "artists": [
+        {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "4EVA (feat. Pharrell Williams)",
+      "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1087,34 +1115,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "4EVA (feat. Pharrell Williams)",
-        "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
-      },
-      "artists": [
-        {
-          "name": "KAYTRAMIN\u00c9",
-          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 190373,
-      "name": "4EVA (feat. Pharrell Williams)",
-      "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Higher Love",
         "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
       },
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Cuz I Love You (Super Deluxe)",
-        "url": "https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 173325,
-      "name": "Truth Hurts",
-      "url": "https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Nevermind",
         "url": "https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 156600,
       "name": "Nevermind",
       "url": "https://open.spotify.com/track/63SevszngYpZOwf63o61K4"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 173325,
+      "name": "Truth Hurts",
+      "url": "https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Cuz I Love You",
-        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 195144,
-      "name": "Juice",
-      "url": "https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "For Abby",
         "url": "https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 163804,
       "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
       "url": "https://open.spotify.com/track/7Feaw9WAEREY0DUOSXJLOM"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Cuz I Love You",
+        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 195144,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1883,6 +1883,34 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Use Me (Brutal Hearts) (feat. Sturgill Simpson, Dove Cameron & Johnny Blue Skies)",
+        "url": "https://open.spotify.com/album/1Wp9ImrDqyqMGfZVohAfw1"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        },
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Johnny Blue Skies",
+          "url": "https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc"
+        }
+      ],
+      "duration_ms": 202391,
+      "name": "Use Me (Brutal Hearts) (feat. Sturgill Simpson, Dove Cameron & Johnny Blue Skies)",
+      "url": "https://open.spotify.com/track/0poKbTUdYz7lXFd15XuHiC"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "UP",
         "url": "https://open.spotify.com/album/2jA1exLaHCcpHtDrGLKTmy"
       },
@@ -1939,34 +1967,6 @@
       "duration_ms": 170578,
       "name": "On & On",
       "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Use Me (Brutal Hearts) (feat. Sturgill Simpson, Dove Cameron & Johnny Blue Skies)",
-        "url": "https://open.spotify.com/album/1Wp9ImrDqyqMGfZVohAfw1"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        },
-        {
-          "name": "Dove Cameron",
-          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
-        },
-        {
-          "name": "Johnny Blue Skies",
-          "url": "https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc"
-        }
-      ],
-      "duration_ms": 202391,
-      "name": "Use Me (Brutal Hearts) (feat. Sturgill Simpson, Dove Cameron & Johnny Blue Skies)",
-      "url": "https://open.spotify.com/track/0poKbTUdYz7lXFd15XuHiC"
     }
   ],
   "unique_name": "Summer Party",

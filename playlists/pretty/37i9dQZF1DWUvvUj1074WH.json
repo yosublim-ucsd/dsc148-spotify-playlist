@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Qu\u00e9 traigan m\u00e1s cheve que nos sobran copas!",
-  "num_followers": 85604,
+  "num_followers": 86075,
   "original_name": "La Cervecer\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTY0Njg2MywwMDAwMDAwMDIwYjk2MzIwYWJlNWU2ODQ4MTJmN2U4YjhkNjdjMTdk",
+  "snapshot_id": "MTY3MTY0Njg2MywwMDAwMDAwMDcyNGE4YzRkM2EwNzZlNzYzNTRkOTAxMjI5ODQxOWQ0",
   "tracks": [
     {
       "added_at": "2022-12-21 18:21:03",
@@ -43,22 +43,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "The Colour And The Shape",
-        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 250546,
-      "name": "Everlong",
-      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 356066,
       "name": "Sweet Child O' Mine",
       "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 250546,
+      "name": "Everlong",
+      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Only By The Night",
-        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 203346,
-      "name": "Sex on Fire",
-      "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 273480,
       "name": "Welcome To The Jungle",
       "url": "https://open.spotify.com/track/0G21yYKMZoHa30cYVi1iA8"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Only By The Night",
+        "url": "https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 203346,
+      "name": "Sex on Fire",
+      "url": "https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -235,8 +235,8 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+        "name": "In Utero - 20th Anniversary - Deluxe Edition",
+        "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 301920,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
+      "duration_ms": 281160,
+      "name": "Heart-Shaped Box",
+      "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -283,6 +283,22 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 405600,
+      "name": "Paradise City",
+      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
         "name": "Hombres G (Edici\u00f3n 30 Aniversario)",
         "url": "https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y"
       },
@@ -299,24 +315,8 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Audioslave",
-        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
-      },
-      "artists": [
-        {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
-        }
-      ],
-      "duration_ms": 293960,
-      "name": "Like a Stone",
-      "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
-        "name": "In Utero - 20th Anniversary - Deluxe Edition",
-        "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
         }
       ],
-      "duration_ms": 281160,
-      "name": "Heart-Shaped Box",
-      "url": "https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa"
+      "duration_ms": 301920,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -347,18 +347,18 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
         }
       ],
-      "duration_ms": 405600,
-      "name": "Paradise City",
-      "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
+      "duration_ms": 293960,
+      "name": "Like a Stone",
+      "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
+        "name": "The Resistance",
+        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 304840,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
         "name": "Vivi En Do",
         "url": "https://open.spotify.com/album/1nqhr6N5KbIaUbsTXq5WCa"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 191560,
       "name": "Para No Verte M\u00e1s",
       "url": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
-        "name": "The Resistance",
-        "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 304840,
-      "name": "Uprising",
-      "url": "https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
+        "name": "El Diablito",
+        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "La C\u00e9lula Que Explota",
+      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
         "name": "Hot Space (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/11IzgLRXV7Cgek3tEgGgjw"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
-        "name": "El Diablito",
-        "url": "https://open.spotify.com/album/2cGrlR3OJwtQXUa4aQJRCV"
-      },
-      "artists": [
-        {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "La C\u00e9lula Que Explota",
-      "url": "https://open.spotify.com/track/5mB0MGsRfKZALHrXjnktCK"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -915,6 +915,22 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
+        "name": "Caifanes",
+        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+      },
+      "artists": [
+        {
+          "name": "Caifanes",
+          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
         "name": "A la Izquierda de la Tierra",
         "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 255506,
       "name": "La Dosis Perfecta",
       "url": "https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
-        "name": "News Of The World (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 122066,
-      "name": "We Will Rock You - Remastered 2011",
-      "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -963,18 +963,18 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Caifanes",
-        "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
+        "name": "News Of The World (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
       },
       "artists": [
         {
-          "name": "Caifanes",
-          "url": "https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 236333,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/6QJCZyJv1fhkCyZA3lRoAD"
+      "duration_ms": 122066,
+      "name": "We Will Rock You - Remastered 2011",
+      "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
@@ -1159,22 +1175,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Mucho Barato",
-        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "Comprendes, Mendes?",
-      "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Giros",
         "url": "https://open.spotify.com/album/2bUpIi2WqqXxrLjwxqmURm"
       },
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+        "name": "Mucho Barato",
+        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
       },
       "artists": [
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
         }
       ],
-      "duration_ms": 241626,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
+      "duration_ms": 215266,
+      "name": "Comprendes, Mendes?",
+      "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Locura",
-        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 316426,
-      "name": "Luna de Miel en la Mano",
-      "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Caifanes",
         "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 213360,
       "name": "M\u00e1tenme Porque Me Muero",
       "url": "https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 316426,
+      "name": "Luna de Miel en la Mano",
+      "url": "https://open.spotify.com/track/1qWLCuCnNcQVVzJm4pu7Zv"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1431,38 +1431,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Los Rayos",
-        "url": "https://open.spotify.com/album/3V1lU1Jy0eKU2wMCsmJ0TF"
-      },
-      "artists": [
-        {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
-        }
-      ],
-      "duration_ms": 239040,
-      "name": "Los Caminos de la Vida",
-      "url": "https://open.spotify.com/track/1crk0MXXyFQ1zVow6YTJOo"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
-        "name": "Defecto Perfecto",
-        "url": "https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx"
-      },
-      "artists": [
-        {
-          "name": "Divisi\u00f3n Min\u00fascula",
-          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
-        }
-      ],
-      "duration_ms": 313933,
-      "name": "Sognare",
-      "url": "https://open.spotify.com/track/3EYPZf5gtyU9suVqTWChzk"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "Caifanes",
         "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
@@ -1479,18 +1447,18 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Honestidad Brutal",
-        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
+        "name": "Los Rayos",
+        "url": "https://open.spotify.com/album/3V1lU1Jy0eKU2wMCsmJ0TF"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
         }
       ],
-      "duration_ms": 261626,
-      "name": "La parte de adelante",
-      "url": "https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp"
+      "duration_ms": 239040,
+      "name": "Los Caminos de la Vida",
+      "url": "https://open.spotify.com/track/1crk0MXXyFQ1zVow6YTJOo"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1511,6 +1479,38 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
+        "name": "Defecto Perfecto",
+        "url": "https://open.spotify.com/album/2nbI0uW9IoyZg23xNL08Bx"
+      },
+      "artists": [
+        {
+          "name": "Divisi\u00f3n Min\u00fascula",
+          "url": "https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p"
+        }
+      ],
+      "duration_ms": 313933,
+      "name": "Sognare",
+      "url": "https://open.spotify.com/track/3EYPZf5gtyU9suVqTWChzk"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Honestidad Brutal",
+        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 261626,
+      "name": "La parte de adelante",
+      "url": "https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/0fflnp0SMGlehNqu07AczV"
       },
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Machine Head",
-        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 342173,
-      "name": "Smoke on the Water",
-      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
-    },
-    {
-      "added_at": "2022-12-21 18:21:03",
-      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 194200,
       "name": "Pachuco",
       "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
+    },
+    {
+      "added_at": "2022-12-21 18:21:03",
+      "album": {
+        "name": "Machine Head",
+        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 342173,
+      "name": "Smoke on the Water",
+      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -1999,22 +1999,18 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Cumbia Del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0ZgIMgZMTpyNRZNCYoHhYm"
+        "name": "Mil Siluetas",
+        "url": "https://open.spotify.com/album/5HI7WlqeosN86R0o1TOfCI"
       },
       "artists": [
         {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "La Uni\u00f3n",
+          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
         }
       ],
-      "duration_ms": 199266,
-      "name": "Otra Noche",
-      "url": "https://open.spotify.com/track/6YUYwOLhR01HusDZkttH7k"
+      "duration_ms": 232160,
+      "name": "Lobo-hombre en Par\u00eds",
+      "url": "https://open.spotify.com/track/4akYOw6ZJu7WIbZViLrJqc"
     },
     {
       "added_at": "2022-12-21 18:21:03",
@@ -2035,18 +2031,22 @@
     {
       "added_at": "2022-12-21 18:21:03",
       "album": {
-        "name": "Mil Siluetas",
-        "url": "https://open.spotify.com/album/5HI7WlqeosN86R0o1TOfCI"
+        "name": "Cumbia Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0ZgIMgZMTpyNRZNCYoHhYm"
       },
       "artists": [
         {
-          "name": "La Uni\u00f3n",
-          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 232160,
-      "name": "Lobo-hombre en Par\u00eds",
-      "url": "https://open.spotify.com/track/4akYOw6ZJu7WIbZViLrJqc"
+      "duration_ms": 199266,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/6YUYwOLhR01HusDZkttH7k"
     },
     {
       "added_at": "2022-12-21 18:21:03",

@@ -1401,6 +1401,24 @@
     },
     {
       "album": {
+        "name": "INTELLECTUAL PROPERTY",
+        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164138,
+      "name": "FUNERAL GREY",
+      "url": "https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2"
+    },
+    {
+      "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/2uGa7gKhYd9DKrRD1pbnZu"
       },
@@ -2676,7 +2694,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 227440,
       "name": "Pacific Coast Highway (with Trevor Hall)",
       "url": "https://open.spotify.com/track/6hazTlTm7MKamJWriYDa13"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUY9O5yRihK.md) - [plain]
 
 > bossa vibes and a romantic daydream
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,024 likes - 59 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,139 likes - 59 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUY9O5yRihK.md) - [plain]
 | 5 | [Falling Behind](https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:53 |
 | 6 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 |
 | 7 | [do u really? \(with Ruth B.\)](https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [do u really?](https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6) | 2:41 |
-| 8 | [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 |
+| 8 | [Drunk On A Flight](https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 3:02 |
 | 9 | [Embrasse Moi](https://open.spotify.com/track/4TVGPGXdzaVUMSucKxOMQu) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Clementine](https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx) | [Embrasse Moi](https://open.spotify.com/album/4YZ6qaWOYDkgtRnWJlkrhW) | 2:57 |
 | 10 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 |
 | 11 | [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:42 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUY9O5yRihK.md) - [plain]
 | 35 | [Preoccupied](https://open.spotify.com/track/0VlcUve93jmMl228sKSPyU) | [Melanie Rosé](https://open.spotify.com/artist/2sP3zSZZxlXmicvYJis340) | [Preoccupied](https://open.spotify.com/album/78WiVQqJzmfEy00tXpMMFt) | 2:08 |
 | 36 | [Party Sickness](https://open.spotify.com/track/06DcUBxCvBAqvWgpExtbLE) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Party Sickness](https://open.spotify.com/album/0fwHTsZvukaWOUHCbSQhJf) | 3:49 |
 | 37 | [Uno Dos](https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden Smith](https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 2:50 |
-| 38 | [Vanilla Tobacco](https://open.spotify.com/track/36XMwwDfgKyl3nIksXbZ4G) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Vanilla Tobacco](https://open.spotify.com/album/6HJjCkU7RNvqiYB0iZVIgR) | 2:48 |
+| 38 | [Vanilla Tobacco](https://open.spotify.com/track/17wRNRiO8LZLP79mf8Fri7) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 2:48 |
 | 39 | [I Can't Get Over You](https://open.spotify.com/track/7tdFmz7aTM0MTssyzOSXta) | [Leo Sun](https://open.spotify.com/artist/40F0oisdGBuAC0i1vh2cxW) | [I Can't Get Over You](https://open.spotify.com/album/3OCO1ebyxBC6CXsF99Xara) | 4:21 |
 | 40 | [tuff girl](https://open.spotify.com/track/7AlhwcNS6GL3d0MQ1eRm6O) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [tuff girl](https://open.spotify.com/album/4UD7JRoWzJsVijTkEhnaev) | 4:49 |
 | 41 | [MESS U MADE](https://open.spotify.com/track/1jZrlerU1ZWEI7oDPtHPGx) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS](https://open.spotify.com/album/0DNz0XsG6B1Vz1CcbuIsov) | 2:48 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUY9O5yRihK.md) - [plain]
 | 58 | [When I Look Into Your Eyes](https://open.spotify.com/track/6h0zYPs9wEj3ydlgwpibSL) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c), [Lanie](https://open.spotify.com/artist/1qUDBm1ALFrHogBczA8KIF) | [When I Look Into Your Eyes](https://open.spotify.com/album/6wT9XMbBpXNZTkXGatvKiV) | 2:30 |
 | 59 | [Cozy](https://open.spotify.com/track/0XzcZKCGW2eCVNGMS03GYt) | [Peter Kuli](https://open.spotify.com/artist/5lVUEGHUyXz8X6h58fuEwV), [Still Haze](https://open.spotify.com/artist/0TMFdsLTJQn5JHRix6e46Z) | [Cozy](https://open.spotify.com/album/1gU8z2DBmS5Ic39RLx1jry) | 1:49 |
 
-Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMDc4OGY2NzVlNjBiYmVkNDM4ZTUyZTFkMDc2YjU0NTM1`
+Snapshot ID: `MTY4MDIzNTI2MCwwMDAwMDAwMDcyNGQ2NzUxYjg4NjVlODZlNmZmODg3ODQxMzliODYx`

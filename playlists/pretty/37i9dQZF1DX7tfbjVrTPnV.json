@@ -1,12 +1,12 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Bonnie Raitt",
-  "num_followers": 184227,
+  "num_followers": 184291,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDY2ZTdkZjFiZWI2NTg2MGQ3MzA4NTUyMjZhZTc1OTcy",
+  "snapshot_id": "MTY3NzIxNDgwMCwwMDAwMDAwMDE3MmY3ZGE2NTYyODM0YzEwOGU3MTQ2ZGMyODVmNzVj",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "The Tree",
+        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
+      },
+      "artists": [
+        {
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+        }
+      ],
+      "duration_ms": 222279,
+      "name": "People Get Old",
+      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Trio (2016 Remaster)",
         "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 239800,
       "name": "Memphis In The Meantime",
       "url": "https://open.spotify.com/track/6ayQVhvuy6yRx19572hPMT"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "The Tree",
-        "url": "https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm"
-      },
-      "artists": [
-        {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
-        }
-      ],
-      "duration_ms": 222279,
-      "name": "People Get Old",
-      "url": "https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Night Surfer",
+        "url": "https://open.spotify.com/album/1QsicTW28qZkphxnImFYtv"
+      },
+      "artists": [
+        {
+          "name": "Chuck Prophet",
+          "url": "https://open.spotify.com/artist/3vidJsiALgVC5ZuweJgeDT"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Ford Econoline",
+      "url": "https://open.spotify.com/track/4YBWRHOXfB3T9B1TKRT1ki"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Picture In a Frame (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 286069,
       "name": "Love & Happiness",
       "url": "https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Night Surfer",
-        "url": "https://open.spotify.com/album/1QsicTW28qZkphxnImFYtv"
-      },
-      "artists": [
-        {
-          "name": "Chuck Prophet",
-          "url": "https://open.spotify.com/artist/3vidJsiALgVC5ZuweJgeDT"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "Ford Econoline",
-      "url": "https://open.spotify.com/track/4YBWRHOXfB3T9B1TKRT1ki"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Live At Budokan",
-        "url": "https://open.spotify.com/album/1rXXez3sVB1qPY8sOoR9yk"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "Angel Flying Too Close to the Ground - Live at Budokan, Tokyo, Japan - Feb. 23, 1984",
-      "url": "https://open.spotify.com/track/4jyPhUEzdA1P9oIUOsWJ1z"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Wynonna & The Big Noise",
         "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 198200,
       "name": "A Feather's Not A Bird",
       "url": "https://open.spotify.com/track/2Sh2hbPAdqTftRmn6MItCx"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Live At Budokan",
+        "url": "https://open.spotify.com/album/1rXXez3sVB1qPY8sOoR9yk"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Angel Flying Too Close to the Ground - Live at Budokan, Tokyo, Japan - Feb. 23, 1984",
+      "url": "https://open.spotify.com/track/4jyPhUEzdA1P9oIUOsWJ1z"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
+        "url": "https://open.spotify.com/album/19AaEKSxOSfjfqjWi3UDQU"
+      },
+      "artists": [
+        {
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+        }
+      ],
+      "duration_ms": 347769,
+      "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
+      "url": "https://open.spotify.com/track/0CzXjHD4dpnjzkMceBT1Kh"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Triage",
         "url": "https://open.spotify.com/album/0DiHlymiDZO7XeIFCC7iMY"
       },
@@ -1563,18 +1579,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
-        "url": "https://open.spotify.com/album/19AaEKSxOSfjfqjWi3UDQU"
+        "name": "Folk Singer Vol. 1",
+        "url": "https://open.spotify.com/album/6OjyU4DWN0AIgLeSSV1rrq"
       },
       "artists": [
         {
-          "name": "Ray Wylie Hubbard",
-          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
+          "name": "Willie Watson",
+          "url": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
         }
       ],
-      "duration_ms": 347769,
-      "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
-      "url": "https://open.spotify.com/track/0CzXjHD4dpnjzkMceBT1Kh"
+      "duration_ms": 215406,
+      "name": "Keep It Clean",
+      "url": "https://open.spotify.com/track/60M98E0CkJgJUApaHdgEaO"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1599,22 +1615,6 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Folk Singer Vol. 1",
-        "url": "https://open.spotify.com/album/6OjyU4DWN0AIgLeSSV1rrq"
-      },
-      "artists": [
-        {
-          "name": "Willie Watson",
-          "url": "https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq"
-        }
-      ],
-      "duration_ms": 215406,
-      "name": "Keep It Clean",
-      "url": "https://open.spotify.com/track/60M98E0CkJgJUApaHdgEaO"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Most Messed Up",
-        "url": "https://open.spotify.com/album/3Q2bmJIVStexUZ6mQUyItq"
-      },
-      "artists": [
-        {
-          "name": "Old 97's",
-          "url": "https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF"
-        }
-      ],
-      "duration_ms": 352546,
-      "name": "Longer Than You've Been Alive",
-      "url": "https://open.spotify.com/track/072fkWOIzYbLLNMRwW7RTI"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/5UeWaLSzyg0dpeCdQyx9u0"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 230106,
       "name": "Brushy Mountain Conjugal Trailer",
       "url": "https://open.spotify.com/track/1qHro6dwCdlg9XPhNvWrLe"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Most Messed Up",
+        "url": "https://open.spotify.com/album/3Q2bmJIVStexUZ6mQUyItq"
+      },
+      "artists": [
+        {
+          "name": "Old 97's",
+          "url": "https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF"
+        }
+      ],
+      "duration_ms": 352546,
+      "name": "Longer Than You've Been Alive",
+      "url": "https://open.spotify.com/track/072fkWOIzYbLLNMRwW7RTI"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2339,26 +2339,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "They're Calling Me Home (with Francesco Turrisi)",
-        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        },
-        {
-          "name": "Francesco Turrisi",
-          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
-        }
-      ],
-      "duration_ms": 298520,
-      "name": "I Shall Not Be Moved (with Francesco Turrisi)",
-      "url": "https://open.spotify.com/track/03HGmuDW5iVxZwbUfXagbr"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Trouble and Love",
         "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
       },
@@ -2391,34 +2371,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/1LEg5ypjv2gjCWXa7trzbb"
+        "name": "They're Calling Me Home (with Francesco Turrisi)",
+        "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
       "artists": [
         {
-          "name": "Martin Sexton",
-          "url": "https://open.spotify.com/artist/16HLVuiCN8iGYhBca7lsqE"
-        }
-      ],
-      "duration_ms": 221183,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/3IHMlWNnTqtVP32p46ZzJT"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Night Surfer",
-        "url": "https://open.spotify.com/album/1QsicTW28qZkphxnImFYtv"
-      },
-      "artists": [
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
         {
-          "name": "Chuck Prophet",
-          "url": "https://open.spotify.com/artist/3vidJsiALgVC5ZuweJgeDT"
+          "name": "Francesco Turrisi",
+          "url": "https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC"
         }
       ],
-      "duration_ms": 202541,
-      "name": "Tell Me Anything (Turn to Gold)",
-      "url": "https://open.spotify.com/track/3CdBO4uFWqz7orhaM8bn9Z"
+      "duration_ms": 298520,
+      "name": "I Shall Not Be Moved (with Francesco Turrisi)",
+      "url": "https://open.spotify.com/track/03HGmuDW5iVxZwbUfXagbr"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2451,6 +2419,38 @@
       "duration_ms": 167340,
       "name": "You Give it All Away",
       "url": "https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/1LEg5ypjv2gjCWXa7trzbb"
+      },
+      "artists": [
+        {
+          "name": "Martin Sexton",
+          "url": "https://open.spotify.com/artist/16HLVuiCN8iGYhBca7lsqE"
+        }
+      ],
+      "duration_ms": 221183,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/3IHMlWNnTqtVP32p46ZzJT"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Night Surfer",
+        "url": "https://open.spotify.com/album/1QsicTW28qZkphxnImFYtv"
+      },
+      "artists": [
+        {
+          "name": "Chuck Prophet",
+          "url": "https://open.spotify.com/artist/3vidJsiALgVC5ZuweJgeDT"
+        }
+      ],
+      "duration_ms": 202541,
+      "name": "Tell Me Anything (Turn to Gold)",
+      "url": "https://open.spotify.com/track/3CdBO4uFWqz7orhaM8bn9Z"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2503,6 +2503,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Easy Gone",
+        "url": "https://open.spotify.com/album/2RbzfkQVmXTeWF4L3GdqGl"
+      },
+      "artists": [
+        {
+          "name": "Ray Bonneville",
+          "url": "https://open.spotify.com/artist/68WRQYQZC7SO79PC8eXvfd"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Who Do Call the Shots",
+      "url": "https://open.spotify.com/track/3bSeVNB5IgXBo0KyjsQ88O"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "The Killing Fields",
         "url": "https://open.spotify.com/album/5cEX0d8qgLfNjNT7yyOkxS"
       },
@@ -2539,22 +2555,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Pure & Simple",
-        "url": "https://open.spotify.com/album/09xuqHRVpQp8AI5Pz9Oq9M"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 163040,
-      "name": "Pure and Simple",
-      "url": "https://open.spotify.com/track/7szyzZ3J9ortisMHATOXCp"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Wouldn't It Be Great",
         "url": "https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr"
       },
@@ -2571,34 +2571,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Easy Gone",
-        "url": "https://open.spotify.com/album/2RbzfkQVmXTeWF4L3GdqGl"
+        "name": "Pure & Simple",
+        "url": "https://open.spotify.com/album/09xuqHRVpQp8AI5Pz9Oq9M"
       },
       "artists": [
         {
-          "name": "Ray Bonneville",
-          "url": "https://open.spotify.com/artist/68WRQYQZC7SO79PC8eXvfd"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 236800,
-      "name": "Who Do Call the Shots",
-      "url": "https://open.spotify.com/track/3bSeVNB5IgXBo0KyjsQ88O"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
-        "url": "https://open.spotify.com/album/19AaEKSxOSfjfqjWi3UDQU"
-      },
-      "artists": [
-        {
-          "name": "Ray Wylie Hubbard",
-          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
-        }
-      ],
-      "duration_ms": 203843,
-      "name": "House of the White Rose Boquet",
-      "url": "https://open.spotify.com/track/6fGqZu6bhVb9aPqJ2r3eZ5"
+      "duration_ms": 163040,
+      "name": "Pure and Simple",
+      "url": "https://open.spotify.com/track/7szyzZ3J9ortisMHATOXCp"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2619,18 +2603,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "The Party Never Ends",
-        "url": "https://open.spotify.com/album/4lhMWQupmo7IWJX0cJt1gc"
+        "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
+        "url": "https://open.spotify.com/album/19AaEKSxOSfjfqjWi3UDQU"
       },
       "artists": [
         {
-          "name": "Robert Earl Keen",
-          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+          "name": "Ray Wylie Hubbard",
+          "url": "https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0"
         }
       ],
-      "duration_ms": 282133,
-      "name": "Barbeque",
-      "url": "https://open.spotify.com/track/0nD3fm9ipkRVKeAmFbLMYl"
+      "duration_ms": 203843,
+      "name": "House of the White Rose Boquet",
+      "url": "https://open.spotify.com/track/6fGqZu6bhVb9aPqJ2r3eZ5"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2651,6 +2635,22 @@
       "duration_ms": 251826,
       "name": "Keeps Me Alive",
       "url": "https://open.spotify.com/track/3Zw3tkUMENvM9uMCKZVxWv"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "The Party Never Ends",
+        "url": "https://open.spotify.com/album/4lhMWQupmo7IWJX0cJt1gc"
+      },
+      "artists": [
+        {
+          "name": "Robert Earl Keen",
+          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+        }
+      ],
+      "duration_ms": 282133,
+      "name": "Barbeque",
+      "url": "https://open.spotify.com/track/0nD3fm9ipkRVKeAmFbLMYl"
     },
     {
       "added_at": "2023-02-24 05:00:00",

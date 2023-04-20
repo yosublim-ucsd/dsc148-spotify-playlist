@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it. Cover: GAYLE",
-  "num_followers": 98533,
+  "num_followers": 98622,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDg2NjFjODFlMTQxYWIyNjA4ZDdlMjIzNjJiZjg0YjJh",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDEzYTZiNDJiNzMzOTU3YWVhMDZmNjQ5OGExMWY0ZWQ3",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -280,7 +280,7 @@
           "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
         }
       ],
-      "duration_ms": 250350,
+      "duration_ms": 247873,
       "name": "VOID",
       "url": "https://open.spotify.com/track/6KqOVYU3af2wsqxh1iO1lx"
     },
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Still Alive (From the Original Motion Picture Scream VI)",
-        "url": "https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 185310,
-      "name": "Still Alive - From the Original Motion Picture Scream VI",
-      "url": "https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
       },
@@ -547,6 +531,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "Still Alive (From the Original Motion Picture Scream VI)",
+        "url": "https://open.spotify.com/album/50Zsh8ekKxgClUUKoVQe9q"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 185310,
+      "name": "Still Alive - From the Original Motion Picture Scream VI",
+      "url": "https://open.spotify.com/track/4Gnbk3CFlF1Qt0nTiz693B"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "Punching Bag",
         "url": "https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS"
       },
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "BANG BANG!",
-        "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
+        "name": "Seventeen Going Under",
+        "url": "https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4"
       },
       "artists": [
         {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 136387,
-      "name": "BANG BANG!",
-      "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
+      "duration_ms": 302360,
+      "name": "Seventeen Going Under",
+      "url": "https://open.spotify.com/track/1Dp7ASSZVVOPJ85VdLpjOX"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Seventeen Going Under",
-        "url": "https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4"
+        "name": "BANG BANG!",
+        "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
         }
       ],
-      "duration_ms": 302360,
-      "name": "Seventeen Going Under",
-      "url": "https://open.spotify.com/track/1Dp7ASSZVVOPJ85VdLpjOX"
+      "duration_ms": 136387,
+      "name": "BANG BANG!",
+      "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -647,26 +647,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Insanity",
-        "url": "https://open.spotify.com/album/5uaMyd4eWrWSXVPX6hPgBm"
-      },
-      "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "American Teeth",
-          "url": "https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO"
-        }
-      ],
-      "duration_ms": 183132,
-      "name": "Insanity",
-      "url": "https://open.spotify.com/track/01Cbf3nijsIYjKcqdDGvqa"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "Love and Other Lies",
         "url": "https://open.spotify.com/album/5l7whBWhClQiC0pFLpPcRi"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 180065,
       "name": "How Do You Love Somebody",
       "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Insanity",
+        "url": "https://open.spotify.com/album/5uaMyd4eWrWSXVPX6hPgBm"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "American Teeth",
+          "url": "https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO"
+        }
+      ],
+      "duration_ms": 183132,
+      "name": "Insanity",
+      "url": "https://open.spotify.com/track/01Cbf3nijsIYjKcqdDGvqa"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Morning Blue",
-        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 217136,
-      "name": "Morning Blue",
-      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "only wanna dance",
         "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 144391,
       "name": "only wanna dance",
       "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Morning Blue",
+        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 217136,
+      "name": "Morning Blue",
+      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
+        "name": "eighteen",
+        "url": "https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY"
+      },
+      "artists": [
+        {
+          "name": "Henry Moodie",
+          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
+        }
+      ],
+      "duration_ms": 189179,
+      "name": "eighteen",
+      "url": "https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 163321,
       "name": "Bois Lie (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "eighteen",
-        "url": "https://open.spotify.com/album/5X37ePjevJgwrKDzk9S3mY"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 189179,
-      "name": "eighteen",
-      "url": "https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Only Wanna Be With You",
-        "url": "https://open.spotify.com/album/3NrrgM6KcTN5J8dyamGleZ"
-      },
-      "artists": [
-        {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
-        }
-      ],
-      "duration_ms": 190651,
-      "name": "Only Wanna Be With You",
-      "url": "https://open.spotify.com/track/5i8v4dQ9Lfo0CmG7PU64Z2"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
         "name": "One of the Guys",
         "url": "https://open.spotify.com/album/3PMqsg6TJ2AaTCA00Y7Sjb"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 118759,
       "name": "One of the Guys",
       "url": "https://open.spotify.com/track/4jXEvctpjLM9moyDwG8SGp"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "Only Wanna Be With You",
+        "url": "https://open.spotify.com/album/3NrrgM6KcTN5J8dyamGleZ"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "duration_ms": 190651,
+      "name": "Only Wanna Be With You",
+      "url": "https://open.spotify.com/track/5i8v4dQ9Lfo0CmG7PU64Z2"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "saddest soundtrack",
-        "url": "https://open.spotify.com/album/6Myer4x6rVXRo1Pjead4b7"
+        "name": "PainHub",
+        "url": "https://open.spotify.com/album/0SamMMaFRb5EgaQadXP2Yx"
       },
       "artists": [
         {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
         }
       ],
-      "duration_ms": 169789,
-      "name": "saddest soundtrack",
-      "url": "https://open.spotify.com/track/1HMwQR2U8VBEow0JzOAmA4"
+      "duration_ms": 136545,
+      "name": "PainHub",
+      "url": "https://open.spotify.com/track/4GB5cFlNjLMHWUtr0H0nf3"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1427,6 +1427,22 @@
       "duration_ms": 182792,
       "name": "dead inside",
       "url": "https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "saddest soundtrack",
+        "url": "https://open.spotify.com/album/6Myer4x6rVXRo1Pjead4b7"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 169789,
+      "name": "saddest soundtrack",
+      "url": "https://open.spotify.com/track/1HMwQR2U8VBEow0JzOAmA4"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1463,22 +1479,6 @@
       "duration_ms": 395785,
       "name": "Nothing Else Matters",
       "url": "https://open.spotify.com/track/43YC4iYmSsYueViJR4dBGA"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "PainHub",
-        "url": "https://open.spotify.com/album/0SamMMaFRb5EgaQadXP2Yx"
-      },
-      "artists": [
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        }
-      ],
-      "duration_ms": 136545,
-      "name": "PainHub",
-      "url": "https://open.spotify.com/track/4GB5cFlNjLMHWUtr0H0nf3"
     },
     {
       "added_at": "2023-04-07 04:00:00",

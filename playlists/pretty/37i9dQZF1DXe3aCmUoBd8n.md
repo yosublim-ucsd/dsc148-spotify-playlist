@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe3aCmUoBd8n.md) - [plain]
 
 > Top Sharqi hits right now\. Cover: Mohanad Zaiter & Al Shami .
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,444 likes - 47 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,461 likes - 47 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

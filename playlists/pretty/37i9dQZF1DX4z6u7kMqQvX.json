@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 99087,
+  "num_followers": 99133,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMDc0YjNmOWFmOTI0OTQwZTFkZTNmMDAxNjU0MzQyYzU1",
+  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMGU3Y2U3ZTM4N2ExMDMyNDZiOTQxOWViM2I1ZDMyYjI1",
   "tracks": [
     {
       "added_at": "2023-04-14 03:00:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Ciencia Exacta",
-        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+        "name": "Indios",
+        "url": "https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW"
       },
       "artists": [
         {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+          "name": "Indios",
+          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
         }
       ],
-      "duration_ms": 158121,
-      "name": "Las Flores",
-      "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
+      "duration_ms": 214213,
+      "name": "Jullie",
+      "url": "https://open.spotify.com/track/44W7bta54sWjSkuj1NyT0c"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -471,34 +471,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Indios",
-        "url": "https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW"
+        "name": "Ciencia Exacta",
+        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
       },
       "artists": [
         {
-          "name": "Indios",
-          "url": "https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp"
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
         }
       ],
-      "duration_ms": 214213,
-      "name": "Jullie",
-      "url": "https://open.spotify.com/track/44W7bta54sWjSkuj1NyT0c"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Feroza",
-        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 178756,
-      "name": "Susurrito",
-      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
+      "duration_ms": 158121,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -519,6 +503,22 @@
       "duration_ms": 178392,
       "name": "El Encuentro",
       "url": "https://open.spotify.com/track/0PbDj1Lh8uZJ2ZcTRSBvQf"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Feroza",
+        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 178756,
+      "name": "Susurrito",
+      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Los D\u00edas en la Sala",
+        "url": "https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 163411,
+      "name": "Siempre Te Voy a Querer",
+      "url": "https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Bailemos en la Sala",
         "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 231682,
       "name": "Escondidos",
       "url": "https://open.spotify.com/track/0Dqqdhn0ktI7pz8qNhT3AO"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Los D\u00edas en la Sala",
-        "url": "https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45"
-      },
-      "artists": [
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 163411,
-      "name": "Siempre Te Voy a Querer",
-      "url": "https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Ni\u00f1o Eterno",
-        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 161617,
-      "name": "Nin\u0303o Eterno",
-      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Ganas",
         "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 254135,
       "name": "Ganas",
       "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Ni\u00f1o Eterno",
+        "url": "https://open.spotify.com/album/5DmMhffyPry4XTTZ8pqLLU"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 161617,
+      "name": "Nin\u0303o Eterno",
+      "url": "https://open.spotify.com/track/5k9BQy4WkF51faNL3UD71I"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -751,22 +751,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Tiempo Compartido",
-        "url": "https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a"
+        "name": "SMS",
+        "url": "https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh"
       },
       "artists": [
         {
-          "name": "Vacaci\u00f3n",
-          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
+          "name": "Salvapantallas",
+          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
         },
         {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 186386,
-      "name": "Amor De Verano",
-      "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
+      "duration_ms": 188660,
+      "name": "Me Conecto (feat. Jorge Drexler)",
+      "url": "https://open.spotify.com/track/6X99UPXCpHWCih4OcZN9pg"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -803,22 +803,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "SMS",
-        "url": "https://open.spotify.com/album/2D2JNUc0IzRwyiDR8X2sHh"
+        "name": "Tiempo Compartido",
+        "url": "https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a"
       },
       "artists": [
         {
-          "name": "Salvapantallas",
-          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
+          "name": "Vacaci\u00f3n",
+          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
         },
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
         }
       ],
-      "duration_ms": 188660,
-      "name": "Me Conecto (feat. Jorge Drexler)",
-      "url": "https://open.spotify.com/track/6X99UPXCpHWCih4OcZN9pg"
+      "duration_ms": 186386,
+      "name": "Amor De Verano",
+      "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Aparato",
-        "url": "https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 212574,
-      "name": "Aparato",
-      "url": "https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/1cCRSSDJY4LUhn5goRDHO5"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 207809,
       "name": "Duele",
       "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Aparato",
+        "url": "https://open.spotify.com/album/1zg2V4L2zBkzcHniquB0FP"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 212574,
+      "name": "Aparato",
+      "url": "https://open.spotify.com/track/0n35rbkfEiQMKHHOgUcvdV"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Admirador",
-        "url": "https://open.spotify.com/album/19h3hwEv0Soo77O7j0JoSy"
-      },
-      "artists": [
-        {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Admirador",
-      "url": "https://open.spotify.com/track/1jaQ4o6VRWRPxzf560sMWZ"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd"
       },
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Admirador",
+        "url": "https://open.spotify.com/album/19h3hwEv0Soo77O7j0JoSy"
+      },
+      "artists": [
+        {
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+        }
+      ],
+      "duration_ms": 212133,
+      "name": "Admirador",
+      "url": "https://open.spotify.com/track/1jaQ4o6VRWRPxzf560sMWZ"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Louvre",
         "url": "https://open.spotify.com/album/6ePyM0mN9mHStVZIVOUjOP"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 169002,
       "name": "Louvre",
       "url": "https://open.spotify.com/track/6aw79PLeX1Q2sMUYqOuz0A"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1235,22 +1219,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Bailemos en la Sala",
-        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
       },
       "artists": [
         {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        },
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
         }
       ],
-      "duration_ms": 216771,
-      "name": "Inteligencia Emocional",
-      "url": "https://open.spotify.com/track/2xCkOU6IDhwkOIcHO8wNNa"
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1267,6 +1247,26 @@
       "duration_ms": 255750,
       "name": "Amor Amor",
       "url": "https://open.spotify.com/track/5ateXRsQ82PGxSBDndHD88"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Bailemos en la Sala",
+        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
+      },
+      "artists": [
+        {
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        },
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 216771,
+      "name": "Inteligencia Emocional",
+      "url": "https://open.spotify.com/track/2xCkOU6IDhwkOIcHO8wNNa"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1335,6 +1335,22 @@
       "duration_ms": 261668,
       "name": "Blues de Mar",
       "url": "https://open.spotify.com/track/4AbfMpbRr5AfTspeJvXSqn"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Radar",
+        "url": "https://open.spotify.com/album/3CiE56hBxIZtHpAWZHScv5"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 162288,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/4nW9jVbdboPpVCFJ8UWeKX"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Radar",
-        "url": "https://open.spotify.com/album/3CiE56hBxIZtHpAWZHScv5"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 162288,
-      "name": "Radar",
-      "url": "https://open.spotify.com/track/4nW9jVbdboPpVCFJ8UWeKX"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Martes 13",
         "url": "https://open.spotify.com/album/1cc2UPfqcPeai7bqU8v0hq"
       },
@@ -1459,6 +1459,22 @@
       "duration_ms": 212586,
       "name": "Desde Que Te Vi",
       "url": "https://open.spotify.com/track/5H3mXg5URgTVwHxbx0MX35"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "AYER",
+        "url": "https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 235909,
+      "name": "AYER",
+      "url": "https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1495,22 +1511,6 @@
       "duration_ms": 187690,
       "name": "Buen viaje",
       "url": "https://open.spotify.com/track/2Gb1ym9oVBPzkZA2BAJz3L"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "AYER",
-        "url": "https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 235909,
-      "name": "AYER",
-      "url": "https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1619,6 +1619,26 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Luz de perla",
+        "url": "https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY"
+      },
+      "artists": [
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        },
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 169363,
+      "name": "Soy un volc\u00e1n",
+      "url": "https://open.spotify.com/track/0dGwAktrgm2gwLCcU3NLfG"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Los N\u00e1ufragos",
         "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
       },
@@ -1703,34 +1723,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "MILLONES",
-        "url": "https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA"
+        "name": "Estamos Bajo el Agua",
+        "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
       },
       "artists": [
         {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 138653,
-      "name": "Im\u00e1n",
-      "url": "https://open.spotify.com/track/0l4CmNAlJ4r2uIgJMK8yLD"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Ciclo Lunar",
-        "url": "https://open.spotify.com/album/3raEoOmR4aimfqCMK1hvUl"
-      },
-      "artists": [
+          "name": "Agus Vivo",
+          "url": "https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW"
+        },
         {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
         }
       ],
-      "duration_ms": 213310,
-      "name": "Ciclo Lunar",
-      "url": "https://open.spotify.com/track/1r7FUVqC9DUSeBmaXAJR3O"
+      "duration_ms": 151619,
+      "name": "Estamos Bajo el Agua",
+      "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
     }
   ],
   "unique_name": "Amor Indie",

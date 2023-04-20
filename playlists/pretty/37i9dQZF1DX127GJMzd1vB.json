@@ -1,12 +1,12 @@
 {
   "description": "\u00a1De amor y desamor! Las canciones que no pueden faltar a la hora de llevar gallo.",
-  "num_followers": 52842,
+  "num_followers": 52898,
   "original_name": "La Serenata",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjg3MjA3NSwwMDAwMDAwMDViY2ZkNWZhMDI1MWQ3ZTAzMGRmOWZlMzk0Y2IxZTE0",
+  "snapshot_id": "MTY3Mjg3MjA3NSwwMDAwMDAwMDg3YTExOTk2ODdjMDg4MmY3M2E3NmEzYzVmODBiNWE4",
   "tracks": [
     {
       "added_at": "2023-01-04 22:41:14",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
     },
     {
+      "added_at": "2021-12-29 23:46:57",
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 173080,
+      "name": "Un Mill\u00f3n de Primaveras",
+      "url": "https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ"
+    },
+    {
       "added_at": "2023-01-04 22:41:14",
       "album": {
         "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
@@ -107,18 +123,18 @@
     {
       "added_at": "2021-12-29 23:46:57",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
       },
       "artists": [
         {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
         }
       ],
-      "duration_ms": 173080,
-      "name": "Un Mill\u00f3n de Primaveras",
-      "url": "https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ"
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
     },
     {
       "added_at": "2023-01-04 22:41:14",
@@ -139,22 +155,6 @@
       "duration_ms": 226000,
       "name": "Loco Enamorado",
       "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
-    },
-    {
-      "added_at": "2021-12-29 23:46:57",
-      "album": {
-        "name": "En Vivo desde El Foro Lizos Music",
-        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "Es Que Me Gustas - En Vivo",
-      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
     },
     {
       "added_at": "2021-12-29 23:46:57",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-01-04 22:41:14",
       "album": {
+        "name": "Sue\u00f1o Guajiro",
+        "url": "https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr"
+      },
+      "artists": [
+        {
+          "name": "Colmillo Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "Sue\u00f1o Guajiro",
+      "url": "https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ"
+    },
+    {
+      "added_at": "2023-01-04 22:41:14",
+      "album": {
         "name": "Pa' Luego Es Tarde",
         "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 231304,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr"
-    },
-    {
-      "added_at": "2023-01-04 22:41:14",
-      "album": {
-        "name": "Sue\u00f1o Guajiro",
-        "url": "https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr"
-      },
-      "artists": [
-        {
-          "name": "Colmillo Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "Sue\u00f1o Guajiro",
-      "url": "https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ"
     },
     {
       "added_at": "2021-12-29 23:46:57",

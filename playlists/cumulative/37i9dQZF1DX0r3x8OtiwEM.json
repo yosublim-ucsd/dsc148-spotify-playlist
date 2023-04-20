@@ -3072,7 +3072,7 @@
     {
       "album": {
         "name": "Born Digital",
-        "url": "https://open.spotify.com/album/2j3cS6gipRVSWiLKzcKHyz"
+        "url": "https://open.spotify.com/album/4xADuwIS5TSQzoYTaPA5VH"
       },
       "artists": [
         {
@@ -3083,6 +3083,24 @@
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 201120,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6iUgr1j5sN0LU7ljhiUwYi"
+    },
+    {
+      "album": {
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/2j3cS6gipRVSWiLKzcKHyz"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-20",
       "duration_ms": 201120,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/6tDzxYw5unq4XtGxxD1Nvz"

@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Roe Kapara
 
-1,341 songs - 2 day 22 hr 24 min
+1,342 songs - 2 day 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1208,7 +1208,8 @@
 | [Thunder](https://open.spotify.com/track/3Ox1FeECWvX8BmwXLLEJKY) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Thunder](https://open.spotify.com/album/5jSQOUFKYWTsnAKpLsesib) | 4:23 | 2022-07-15 | 2022-08-20 |
 | [Thursday](https://open.spotify.com/track/6vb55aYjtf4DirjVFPJpKz) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [She Said](https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk) | 2:22 | 2022-09-16 | 2022-11-12 |
 | [Tidal River](https://open.spotify.com/track/1B6nqx7K8pvhyZMiGusS9J) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [Tidal River](https://open.spotify.com/album/7CXBgilBzgYsjuv5VINrjv) | 4:26 | 2022-03-11 | 2022-05-14 |
-| [till the day i \_\_\_ \(feat\. LØLØ\)](https://open.spotify.com/track/75kHO3nwCToe6HKMKyBC8R) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd), [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [scared to go to sleep \(deluxe\)](https://open.spotify.com/album/59i3drfYd0zO4OLECmFCPB) | 2:51 | 2023-03-10 |  |
+| [till the day i \_\_\_ \(feat\. LØLØ\)](https://open.spotify.com/track/16yizisxGyUGtnbzXx3zIY) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd), [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [stab my back \(acoustic\)](https://open.spotify.com/album/7eHk2YdoABTG4hOiTnF6CS) | 2:51 | 2023-04-14 |  |
+| [till the day i \_\_\_ \(feat\. LØLØ\)](https://open.spotify.com/track/75kHO3nwCToe6HKMKyBC8R) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd), [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [scared to go to sleep \(deluxe\)](https://open.spotify.com/album/59i3drfYd0zO4OLECmFCPB) | 2:51 | 2023-03-10 | 2023-04-20 |
 | [Time](https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Time](https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd) | 4:22 | 2022-08-12 | 2022-09-04 |
 | [Time](https://open.spotify.com/track/36d2zV9oeEiDlkZmiZaZE1) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Good Old](https://open.spotify.com/album/73cqG0sJJq82DL93j5qU34) | 4:22 | 2022-09-16 | 2022-10-01 |
 | [Time](https://open.spotify.com/track/5OSMmIX3QvBW5wrChEujmZ) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Shadow Boxing](https://open.spotify.com/album/2ClkPaYrHeaHGxiiSaMoyA) | 4:22 | 2022-09-02 | 2022-09-20 |

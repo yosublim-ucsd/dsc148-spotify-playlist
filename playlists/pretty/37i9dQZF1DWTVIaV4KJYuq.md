@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,870 likes - 110 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,976 likes - 110 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 32 | [Go Your Own Way](https://open.spotify.com/track/0VuhdSYkAOmhASbt5vnkdO) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed \(The Complete Sessions 1996\-1997\)](https://open.spotify.com/album/6re8Qh8GMzxH92LO1xj2jU) | 4:01 |
 | 33 | [Wild World \- Acoustic Version](https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g) | [Joanna Wang](https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C) | [为爱做的一切](https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K) | 3:45 |
 | 34 | [In My Life](https://open.spotify.com/track/7Dprt8s1FohodJYtCNcM4a) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 2:57 |
-| 35 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 |
-| 36 | [Time After Time \- Live At Abbey Road Studios](https://open.spotify.com/track/2EI5lZg5rjvmlpQG45L0lU) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes: Live at Abbey Road Studios](https://open.spotify.com/album/77jibxIYj4UGL2QAaN4j37) | 3:52 |
+| 35 | [Time After Time \- Live At Abbey Road Studios](https://open.spotify.com/track/2EI5lZg5rjvmlpQG45L0lU) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes: Live at Abbey Road Studios](https://open.spotify.com/album/77jibxIYj4UGL2QAaN4j37) | 3:52 |
+| 36 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 |
 | 37 | [Miss You](https://open.spotify.com/track/5PrOgvXZU7RzhJQknS6hEu) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 3:31 |
 | 38 | [The Best](https://open.spotify.com/track/7zLqJdc0e37PpGKADGnOUt) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [The Best](https://open.spotify.com/album/5Le6JV0WccI6oxLzlA7it7) | 2:56 |
 | 39 | [America](https://open.spotify.com/track/228IDYsx1EAHiuh9xLktmj) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [America](https://open.spotify.com/album/1LbsN7ZwjjnafolKPbnDZK) | 3:38 |
@@ -107,8 +107,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 97 | [Unchained Melody \(feat\. The Chapin Sisters\)](https://open.spotify.com/track/6FRePTC2w57kLtE4rg20N1) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4), [The Chapin Sisters](https://open.spotify.com/artist/6t28TiXfX7V14H4hAxBarM) | [Classics](https://open.spotify.com/album/5TAVRgiAR2E79dQ1HrljqX) | 3:50 |
 | 98 | [What a Wonderful World](https://open.spotify.com/track/0bb1B382NhX0cxMMnheGNC) | [Sawyer Fredericks](https://open.spotify.com/artist/3GaRKzVcjJv5cIL8CmRAHn) | [What a Wonderful World](https://open.spotify.com/album/4G3BqD95dtfO19wUNwi0M7) | 2:42 |
 | 99 | [Strangers \- From "Life In A Day"](https://open.spotify.com/track/1y8fNzfN7UiL02gUzvuTVw) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Black Pumas \(Expanded Deluxe Edition\)](https://open.spotify.com/album/3dgyglN3wrQu131OIjkdh7) | 3:12 |
-| 100 | [Slip Slidin' Away](https://open.spotify.com/track/6AR6KJkyuFJT4dgPEd7VMo) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Rita Wilson Now & Forever: Duets](https://open.spotify.com/album/3HjYQdV5p5j8SoXIaAr6C0) | 4:53 |
-| 101 | [More Than a Woman](https://open.spotify.com/track/7rYyYKW8QxGzkRnqa165JC) | [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [More Than a Woman](https://open.spotify.com/album/5Nw0TgZQGMB9QwBsaUlQBM) | 3:44 |
+| 100 | [More Than a Woman](https://open.spotify.com/track/7rYyYKW8QxGzkRnqa165JC) | [The Shadowboxers](https://open.spotify.com/artist/3gq3IRuBKSmyBbGXwfagj4) | [More Than a Woman](https://open.spotify.com/album/5Nw0TgZQGMB9QwBsaUlQBM) | 3:44 |
+| 101 | [Slip Slidin' Away](https://open.spotify.com/track/6AR6KJkyuFJT4dgPEd7VMo) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Rita Wilson Now & Forever: Duets](https://open.spotify.com/album/3HjYQdV5p5j8SoXIaAr6C0) | 4:53 |
 | 102 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/0rwicAYj73I9yhDUB40E1e) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/album/23R9tHU6mYMP4vLItECWfl) | 3:10 |
 | 103 | [Brass in Pocket](https://open.spotify.com/track/1WWjk9bvVsFDcMgpG3hG7t) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Spotify Singles](https://open.spotify.com/album/1q9zrdj7DWcEjLbnHNbc3M) | 4:01 |
 | 104 | [Please, Please, Please, Let Me Get What I Want](https://open.spotify.com/track/3XcYPyuk0BwiB4w6tgKpOC) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [\(500\) Days of Summer \(Music from the Motion Picture\)](https://open.spotify.com/album/2n5AOB0lGse7qp38HvVROB) | 2:12 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVIaV4KJYuq.md) - [plain]
 | 109 | [Bell Bottom Blues](https://open.spotify.com/track/5KxLj4W0bQhMZd7SqfTkHE) | [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Vignettes](https://open.spotify.com/album/3q2dNzIenzJnFyDmV7cY3M) | 3:38 |
 | 110 | [Have A Little Faith In Me](https://open.spotify.com/track/3quCjFNuNRh2UR7D9CYWgU) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Have A Little Faith In Me](https://open.spotify.com/album/1PtoVjKtDnOq817SFuQtY3) | 3:42 |
 
-Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMDNmM2Q1YTFkMTg5OWMxNzMyZjFmYzk3MGU2NzZjNzI0`
+Snapshot ID: `MTY2ODE0MjgwMCwwMDAwMDAwMGRkMjMyZTBmMzhlOGI2NzczN2ZhZjE2ZjVjY2E0NzU3`

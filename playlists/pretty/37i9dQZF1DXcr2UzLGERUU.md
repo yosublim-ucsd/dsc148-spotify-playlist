@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,077 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,329 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 21 | [Colors](https://open.spotify.com/track/72SPsHheqN6J3sI520jT9E) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Amos Lee](https://open.spotify.com/album/0hPXaSKyujqCej452raazD) | 2:40 |
 | 22 | [I Won't Give Up](https://open.spotify.com/track/05pKAafT85jeeNhZ6kq7HT) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [I Won't Give Up](https://open.spotify.com/album/3WeU5jvi9QBSbwV0hYG66P) | 4:00 |
 | 23 | [Sea of Love](https://open.spotify.com/track/33kKcOJoyNduHwXhEnga8X) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [The Covers Record](https://open.spotify.com/album/4dZBOO1PjjmtPA974xHMND) | 2:19 |
-| 24 | [No One \- Acoustic](https://open.spotify.com/track/73E08jF1urQQSO0oTzCPpP) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Volume 1](https://open.spotify.com/album/0dICqPiSgbmRRRqWAT0XKk) | 4:19 |
-| 25 | [My Little Girl](https://open.spotify.com/track/4KZ9wj0K87t0Gdm7km9Yam) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [To The Sea](https://open.spotify.com/album/0IsTL8lnrHuNvpMPawAFRs) | 2:20 |
+| 24 | [My Little Girl](https://open.spotify.com/track/4KZ9wj0K87t0Gdm7km9Yam) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [To The Sea](https://open.spotify.com/album/0IsTL8lnrHuNvpMPawAFRs) | 2:20 |
+| 25 | [No One \- Acoustic](https://open.spotify.com/track/73E08jF1urQQSO0oTzCPpP) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Volume 1](https://open.spotify.com/album/0dICqPiSgbmRRRqWAT0XKk) | 4:19 |
 | 26 | [You Are My Sunshine \(Version 1\)](https://open.spotify.com/track/10CsMKlayFJOj4Lai9tAvm) | [Elizabeth Mitchell](https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM) | [You Are My Sunshine](https://open.spotify.com/album/7jxHX5gjHedHa2vTAZSPfY) | 2:48 |
 | 27 | [Twinkle, Twinkle Little Star](https://open.spotify.com/track/5oIbsxShzRtKyjFZV778Nz) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Lullaby](https://open.spotify.com/album/6aDRCnCbuqY7NkerfUcyp7) | 3:04 |
 | 28 | [Here Comes the Sun](https://open.spotify.com/track/4h9DsTf9n0cizUc0x3ljHP) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Here Comes the Sun](https://open.spotify.com/album/42TfoBfETVrKwCXZ9nBkTc) | 2:21 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 40 | [Beautiful Boy](https://open.spotify.com/track/5cUbs8a3T4f9xdTeBqrQCy) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Instant Karma: The Amnesty International Campaign To Save Darfur \[The Complete Recordings\] \(Audio Only\)](https://open.spotify.com/album/5A5XFtOnsqgw9QzghVq5Lf) | 3:48 |
 | 41 | [XO](https://open.spotify.com/track/0oa6d6Nz5BmP7jquxEoyMm) | [Anna Elizabeth Laube](https://open.spotify.com/artist/6O0rWDT0LuZk9Cpe45kbcx) | [Tree](https://open.spotify.com/album/3pALJvtTxIm5i1aYlaZDnA) | 3:55 |
 | 42 | [Kindness Mantra](https://open.spotify.com/track/6BB7WGnYYH690VSE8EYxke) | [Kira Willey](https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg) | [Every Voice](https://open.spotify.com/album/6O2hzAFNinpSa2dlcx7DOz) | 2:49 |
-| 43 | [Catch the Moon](https://open.spotify.com/track/4VwFWEJKkpOOWkhOwy3STM) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Catch the Moon](https://open.spotify.com/album/1o79r8Ky7KJ0fRnyx6MOR9) | 3:06 |
-| 44 | [Lego House](https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lego House \- Single](https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR) | 3:31 |
+| 43 | [Lego House](https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lego House \- Single](https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR) | 3:31 |
+| 44 | [Catch the Moon](https://open.spotify.com/track/4VwFWEJKkpOOWkhOwy3STM) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Catch the Moon](https://open.spotify.com/album/1o79r8Ky7KJ0fRnyx6MOR9) | 3:06 |
 | 45 | [momma told me imma be](https://open.spotify.com/track/5oFhakk58OBApacdBhYDkW) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:13 |
 | 46 | [Beautiful Dreamer](https://open.spotify.com/track/04hLjjWhpgE5ir5793nmOY) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc) | 1:51 |
 | 47 | [Sweet Child O' Mine](https://open.spotify.com/track/3yOMhAM9ZwBjuKQv4pPWYs) | [Renee & Jeremy](https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5), [Renee Stahl](https://open.spotify.com/artist/2WfQMdILaDJoPYCcWKKqpJ), [Jeremy Toback](https://open.spotify.com/artist/1aH1XTozXuGinGzdNWzyrt) | [Whole Lotta Love](https://open.spotify.com/album/1VbKUzv2wMxhQq1itmdHyR) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 49 | [What My Body Needs](https://open.spotify.com/track/7bk9NCsLE8F5LhbaPo5pRD) | [Sara Rogers](https://open.spotify.com/artist/5fEiggZSfUYOhfBqyIC4cw) | [What My Body Needs](https://open.spotify.com/album/1HkRCTZXljbfIXGprYdUPT) | 3:08 |
 | 50 | [You've Got a Friend in Me \- Acoustic](https://open.spotify.com/track/05ZcB9Cln3VRHYS7W3bLgo) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Simply Acoustic](https://open.spotify.com/album/5GkuY9Il0OakVEzNyX7mP4) | 2:11 |
 
-Snapshot ID: `MTY4MDg3Njg2MCwwMDAwMDAwMDNkYzdjMTU3MjY2NTRlODZiMGYyMTQ3Njg4Y2ZjYjEx`
+Snapshot ID: `MTY4MTg5NjQ3OCwwMDAwMDAwMGQ5NDYwYjY1YjM1NzUzYWRjOGFlODI1ZTVhYzExZWM1`

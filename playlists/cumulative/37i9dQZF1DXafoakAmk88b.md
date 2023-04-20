@@ -2,7 +2,7 @@
 
 ### [Indie Frequency](https://open.spotify.com/playlist/37i9dQZF1DXafoakAmk88b)
 
-> New Indie driving the current, every week\. Cover: Chiiild, by Ian Woods.
+> New Indie driving the current, every week.
 
 274 songs - 14 hr 25 min
 

@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-720 songs - 1 day 23 hr 44 min
+721 songs - 1 day 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [KAMIGAMI\-神噛\- \- TV edit](https://open.spotify.com/track/4SNhHffgdvKYyyGcbxqPZ1) | [MAXIMUM THE HORMONE](https://open.spotify.com/artist/3AMut7lAb1JjINkn8Fmkhu) | [KAMIGAMI\-神噛\- \(TV edit\)](https://open.spotify.com/album/6Met7PlW4vHDLB8lNqBvVf) | 1:33 | 2023-01-07 | 2023-02-21 |
 | [KANATA HALUKA](https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 5:55 | 2022-11-22 |  |
 | [KANNA](https://open.spotify.com/track/7e075JlKGuMFroDv7xev13) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [KANNA](https://open.spotify.com/album/7mZi1uvCLFg03MFhxoJO90) | 4:48 | 2022-06-07 | 2022-07-20 |
-| [katharsis \(TV edit\)](https://open.spotify.com/track/4IaZWtk88n1RD2IHJGUrxW) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [katharsis \(TV edit\)](https://open.spotify.com/album/6rG9k3EIRpWlhqPL9poKh8) | 1:29 | 2022-08-11 |  |
+| [katharsis \(TV edit\)](https://open.spotify.com/track/4IaZWtk88n1RD2IHJGUrxW) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [katharsis \(TV edit\)](https://open.spotify.com/album/6rG9k3EIRpWlhqPL9poKh8) | 1:29 | 2022-08-11 | 2023-04-20 |
 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 | 2022-10-05 | 2022-11-23 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-11-22 |  |
 | [Kiss Me](https://open.spotify.com/track/3oWLxV0LKV4z2gWUOsX5zJ) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [2ND GALAXY](https://open.spotify.com/album/7aVhOAh7ezTKkV62YaS7w6) | 3:38 | 2022-06-07 | 2022-07-29 |
@@ -552,6 +552,7 @@
 | [リセット](https://open.spotify.com/track/5DfC0daqjnz1iQlOmpv2ib) | [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH) | [PURE](https://open.spotify.com/album/2TGEJxj260gHLitdF8es0E) | 4:09 | 2022-06-07 | 2022-07-29 |
 | [リセット](https://open.spotify.com/track/7gm59KVXfG8wEAfN3Lv2Xu) | [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH) | [PURE](https://open.spotify.com/album/71TimGdYvnolc8o298RVxs) | 4:09 | 2022-06-07 |  |
 | [リナリア](https://open.spotify.com/track/6CDwwQF6WjyiYf2YRwjtFk) | [まるりとりゅうが](https://open.spotify.com/artist/6dcd2CUUMnZjue8tgSE68n) | [リナリア](https://open.spotify.com/album/6nHcxKC13BVATxDD5IGkRi) | 3:51 | 2022-06-07 | 2022-07-22 |
+| [リンネ](https://open.spotify.com/track/4Ps9apbyXwAzD99EfQdKdy) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [リンネ](https://open.spotify.com/album/6HAAgNaMddnBwL6u9HOCpX) | 4:15 | 2023-04-13 |  |
 | [ルードルーズダンス](https://open.spotify.com/track/0sHbdxyepJ11nCCUEOin35) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [ルードルーズダンス](https://open.spotify.com/album/78MM2z00YPJadoqTqmhDbi) | 4:42 | 2023-02-20 |  |
 | [レイメイ](https://open.spotify.com/track/7EZRxYT7qkgNcMIW59POuA) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [酸欠少女](https://open.spotify.com/album/7wULgwMQk3K8FdcYqCKVlO) | 5:14 | 2022-08-11 |  |
 | [レイメイ](https://open.spotify.com/track/1s0QbmRVJ6AK4ICc44tJtB) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Dawn](https://open.spotify.com/album/7hdGjytOu9ziptlaNwbtwK) | 5:15 | 2022-06-07 | 2022-07-28 |

@@ -2,7 +2,7 @@
 
 ### [Dale Flow](https://open.spotify.com/playlist/37i9dQZF1DX6sLKL3qdVO1)
 
-> Nosotros tenemo' la calle prendida\. Dale Flow con Rosalía toda la noche y todo el día
+> ¡Las más bichotas están en Dale Flow! LIT Killah y Kim Loaiza en Portada.
 
 381 songs - 21 hr 1 min
 
@@ -188,7 +188,7 @@
 | [La Single](https://open.spotify.com/track/7dAwKpgHeKrxPJ2aygL97o) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [La Single](https://open.spotify.com/album/3tRChQRAml4AQlJjRmK3dc) | 4:36 | 2023-03-31 |  |
 | [La Tarea](https://open.spotify.com/track/3NiwbZe39hFvUCdBjuOEPr) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [La Tarea](https://open.spotify.com/album/31A5oihohOkYIos5lWB0pp) | 3:41 | 2022-03-18 | 2022-03-26 |
 | [La Tarea](https://open.spotify.com/track/4oBIA6sGjOm60I9lmkHv45) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [5](https://open.spotify.com/album/158sVr4HeR7ukWJMDGmdFw) | 3:41 | 2022-03-04 | 2022-03-18 |
-| [Lalo Ebratt Hotline: Cobuz & Bustta](https://open.spotify.com/track/3UDZISwcvGJhqWX6wSdwRc) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Lalo Ebratt Hotline: Cobuz & Bustta](https://open.spotify.com/album/5Qp2bS9cDOnJaK5jjGXotq) | 2:29 | 2023-02-24 |  |
+| [Lalo Ebratt Hotline: Cobuz & Bustta](https://open.spotify.com/track/3UDZISwcvGJhqWX6wSdwRc) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Lalo Ebratt Hotline: Cobuz & Bustta](https://open.spotify.com/album/5Qp2bS9cDOnJaK5jjGXotq) | 2:29 | 2023-02-24 | 2023-04-20 |
 | [Las de Octubre](https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [Las de Octubre](https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td) | 2:45 | 2021-12-17 | 2022-02-05 |
 | [LAS OLAS](https://open.spotify.com/track/0ERKM0ev4j3MHoc2PBn0Qo) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [LAS OLAS](https://open.spotify.com/album/15QGnc6XqRoMXZJKikT75p) | 3:42 | 2021-12-17 | 2022-04-16 |
 | [Ley de Atracción](https://open.spotify.com/track/1ftOFW7Nl8nV73hv6RmwLm) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [SÉ TÚ MISMO](https://open.spotify.com/album/2wp0LYoPXrDjxbZZyfJcOw) | 1:37 | 2023-04-14 |  |

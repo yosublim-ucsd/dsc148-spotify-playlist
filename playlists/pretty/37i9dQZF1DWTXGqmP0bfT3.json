@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 250053,
+  "num_followers": 250486,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTE0ODAyMCwwMDAwMDAwMGEzMjM4NDdlOTUwNTIyZmE2NDFlMzBiYWMxYWY1YTYz",
+  "snapshot_id": "MTY4MTE0ODAyMCwwMDAwMDAwMDkyNjc3ZGVjMmU5N2I0NzY1ZDdiYmU2MTQyODA1Yjk1",
   "tracks": [
     {
       "added_at": "2023-03-17 15:31:59",
@@ -617,22 +617,6 @@
       "url": "https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw"
     },
     {
-      "added_at": "2023-04-19 00:19:40",
-      "album": {
-        "name": "Foregone",
-        "url": "https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 237300,
-      "name": "Meet Your Maker",
-      "url": "https://open.spotify.com/track/5qZMqZspIglsy4SJxtJt0S"
-    },
-    {
       "added_at": "2023-03-17 15:31:59",
       "album": {
         "name": "From Hell With Love",
@@ -663,6 +647,22 @@
       "duration_ms": 188600,
       "name": "Feuer frei!",
       "url": "https://open.spotify.com/track/73JZKk0nb1WOUmh1Eo3Unc"
+    },
+    {
+      "added_at": "2023-04-20 00:43:39",
+      "album": {
+        "name": "Foregone",
+        "url": "https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 237300,
+      "name": "Meet Your Maker",
+      "url": "https://open.spotify.com/track/5qZMqZspIglsy4SJxtJt0S"
     },
     {
       "added_at": "2023-03-17 15:31:59",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
+        "name": "Berserker",
+        "url": "https://open.spotify.com/album/499iZ0iesrciB5jO9jSOWx"
+      },
+      "artists": [
+        {
+          "name": "Beast In Black",
+          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
+        }
+      ],
+      "duration_ms": 304596,
+      "name": "Blind And Frozen",
+      "url": "https://open.spotify.com/track/7iOSeHfKU2EhSKcX7TbjKG"
+    },
+    {
+      "added_at": "2023-03-17 15:31:59",
+      "album": {
         "name": "Repentless",
         "url": "https://open.spotify.com/album/5QTGKCuJbyViaQQXjHOvjL"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 275205,
       "name": "Doomswitch",
       "url": "https://open.spotify.com/track/6pUUtKVRmODliJWTyY2pet"
-    },
-    {
-      "added_at": "2023-03-17 15:31:59",
-      "album": {
-        "name": "Berserker",
-        "url": "https://open.spotify.com/album/499iZ0iesrciB5jO9jSOWx"
-      },
-      "artists": [
-        {
-          "name": "Beast In Black",
-          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
-        }
-      ],
-      "duration_ms": 304596,
-      "name": "Blind And Frozen",
-      "url": "https://open.spotify.com/track/7iOSeHfKU2EhSKcX7TbjKG"
     },
     {
       "added_at": "2023-03-17 15:31:59",
@@ -1005,7 +1005,23 @@
       "url": "https://open.spotify.com/track/7rGN3oqzCpG2mLcwoPwDQm"
     },
     {
-      "added_at": "2023-04-19 00:19:40",
+      "added_at": "2023-03-17 15:31:59",
+      "album": {
+        "name": "Disarm the Descent (Special Edition)",
+        "url": "https://open.spotify.com/album/5I6bH0UaVR4LnKmVUWDZoD"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "In Due Time",
+      "url": "https://open.spotify.com/track/1HlOGL1p6wlpOZatJ2NwFk"
+    },
+    {
+      "added_at": "2023-04-20 00:43:39",
       "album": {
         "name": "Winner Takes All (feat. Alice Cooper)",
         "url": "https://open.spotify.com/album/3h5f0wgybbpyb8wm9xg4oQ"
@@ -1023,22 +1039,6 @@
       "duration_ms": 205570,
       "name": "Winner Takes All (feat. Alice Cooper)",
       "url": "https://open.spotify.com/track/0zfjIcTc40MVFSGmGjHI9V"
-    },
-    {
-      "added_at": "2023-03-17 15:31:59",
-      "album": {
-        "name": "Disarm the Descent (Special Edition)",
-        "url": "https://open.spotify.com/album/5I6bH0UaVR4LnKmVUWDZoD"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "In Due Time",
-      "url": "https://open.spotify.com/track/1HlOGL1p6wlpOZatJ2NwFk"
     },
     {
       "added_at": "2023-03-17 15:31:59",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
-        "name": "Lamb of God",
-        "url": "https://open.spotify.com/album/7FEBQOq6SXl4CsqR6wTTGy"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 348099,
-      "name": "Memento Mori",
-      "url": "https://open.spotify.com/track/1flcnqrtVKsluQXLEPfGJW"
-    },
-    {
-      "added_at": "2023-03-17 15:31:59",
-      "album": {
         "name": "Resilience (Deluxe)",
         "url": "https://open.spotify.com/album/46NkCKf9l9TVHryLpDSkr2"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 186526,
       "name": "One Finger and a Fist",
       "url": "https://open.spotify.com/track/6PdEKf8CyyZfrFAGFi37gb"
+    },
+    {
+      "added_at": "2023-03-17 15:31:59",
+      "album": {
+        "name": "Lamb of God",
+        "url": "https://open.spotify.com/album/7FEBQOq6SXl4CsqR6wTTGy"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 348099,
+      "name": "Memento Mori",
+      "url": "https://open.spotify.com/track/1flcnqrtVKsluQXLEPfGJW"
     },
     {
       "added_at": "2023-03-17 15:31:59",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
-        "name": "I Don't Wanna Be Me",
-        "url": "https://open.spotify.com/album/6vupYQiT3uyxz2a25HUNX9"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 228712,
-      "name": "I Don't Wanna Be Me",
-      "url": "https://open.spotify.com/track/2tNx0sauNCGfpniMNu9hEh"
-    },
-    {
-      "added_at": "2023-03-17 15:31:59",
-      "album": {
         "name": "Nonpoint",
         "url": "https://open.spotify.com/album/7HYkuJ62NjUnGwMRm7wwUN"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 210826,
       "name": "That Day",
       "url": "https://open.spotify.com/track/7nobjDCjkn6Y8UDQFt2mga"
+    },
+    {
+      "added_at": "2023-03-17 15:31:59",
+      "album": {
+        "name": "I Don't Wanna Be Me",
+        "url": "https://open.spotify.com/album/6vupYQiT3uyxz2a25HUNX9"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 228712,
+      "name": "I Don't Wanna Be Me",
+      "url": "https://open.spotify.com/track/2tNx0sauNCGfpniMNu9hEh"
     },
     {
       "added_at": "2023-03-17 15:31:59",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
+        "name": "Hardwired\u2026To Self-Destruct",
+        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 350644,
+      "name": "Moth Into Flame",
+      "url": "https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E"
+    },
+    {
+      "added_at": "2023-03-17 15:31:59",
+      "album": {
         "name": "Jomsviking",
         "url": "https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG"
       },
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
-        "name": "Hardwired\u2026To Self-Destruct",
-        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
+        "name": "The Sin and the Sentence",
+        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 350644,
-      "name": "Moth Into Flame",
-      "url": "https://open.spotify.com/track/5sEcwMeC3QDnSOWlyQyQ3E"
+      "duration_ms": 349869,
+      "name": "The Sin and the Sentence",
+      "url": "https://open.spotify.com/track/6156ZPGcezId0Bmw7x7c7K"
     },
     {
       "added_at": "2023-03-17 15:31:59",
@@ -1467,38 +1483,6 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
-        "name": "Meliora",
-        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 242640,
-      "name": "From The Pinnacle To The Pit",
-      "url": "https://open.spotify.com/track/2J5aJp4HQxcMuxZ6HVM4GC"
-    },
-    {
-      "added_at": "2023-03-17 15:31:59",
-      "album": {
-        "name": "The Sin and the Sentence",
-        "url": "https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 349869,
-      "name": "The Sin and the Sentence",
-      "url": "https://open.spotify.com/track/6156ZPGcezId0Bmw7x7c7K"
-    },
-    {
-      "added_at": "2023-03-17 15:31:59",
-      "album": {
         "name": "Tales from the Kingdom of Fife",
         "url": "https://open.spotify.com/album/0jFgXktWjw4NYC7D77YYYE"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 208226,
       "name": "Angus Mcfife",
       "url": "https://open.spotify.com/track/1jSQRvpQYPcIKt67fc5Npv"
+    },
+    {
+      "added_at": "2023-03-17 15:31:59",
+      "album": {
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 242640,
+      "name": "From The Pinnacle To The Pit",
+      "url": "https://open.spotify.com/track/2J5aJp4HQxcMuxZ6HVM4GC"
     },
     {
       "added_at": "2023-03-17 15:31:59",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-03-17 15:31:59",
       "album": {
-        "name": "Outlaw Gentlemen & Shady Ladies",
-        "url": "https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv"
-      },
-      "artists": [
-        {
-          "name": "Volbeat",
-          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
-        }
-      ],
-      "duration_ms": 214560,
-      "name": "Dead But Rising",
-      "url": "https://open.spotify.com/track/3siZ8Gr2G9zelmm1NZOmP3"
-    },
-    {
-      "added_at": "2023-03-17 15:31:59",
-      "album": {
         "name": "Hollowed Heart",
         "url": "https://open.spotify.com/album/0Dw5ryGjm2rcsJOtmtVj1e"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 231959,
       "name": "Hollowed Heart",
       "url": "https://open.spotify.com/track/3qSO9glfDKlL7mFzUJbz2V"
+    },
+    {
+      "added_at": "2023-03-17 15:31:59",
+      "album": {
+        "name": "Outlaw Gentlemen & Shady Ladies",
+        "url": "https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv"
+      },
+      "artists": [
+        {
+          "name": "Volbeat",
+          "url": "https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Dead But Rising",
+      "url": "https://open.spotify.com/track/3siZ8Gr2G9zelmm1NZOmP3"
     }
   ],
   "unique_name": "Energy Booster: Metal",

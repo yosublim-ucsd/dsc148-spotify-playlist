@@ -2622,7 +2622,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 146213,
       "name": "Luis Pulido",
       "url": "https://open.spotify.com/track/2jUiJuZFnTtG0xohTfGU4e"
@@ -3748,6 +3748,24 @@
       "duration_ms": 287080,
       "name": "Valente Quintero",
       "url": "https://open.spotify.com/track/4de4ivYcmGbVwkyi8nPdZ8"
+    },
+    {
+      "album": {
+        "name": "Amor Y L\u00e1grimas",
+        "url": "https://open.spotify.com/album/1ofYSIU9pfhZy22WEL165p"
+      },
+      "artists": [
+        {
+          "name": "Adan Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171665,
+      "name": "Ya Me Voy",
+      "url": "https://open.spotify.com/track/0JIvmxgwraNFHksIj81CFG"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX7OMFcrBEcP3"

@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Cartel de Santa y La Kelly en portada.",
-  "num_followers": 547329,
+  "num_followers": 548288,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTc1ODg0MywwMDAwMDAwMDY0NDQwOGQ4NzAxMDY1NGQ5YjM3ZWZkZWMyYmFkZmMw",
+  "snapshot_id": "MTY4MTc1ODg0MywwMDAwMDAwMGJmZGFkMTQ1MTM3OWI0YmYzOTFiZmY2Mjk3NTM5ZDgw",
   "tracks": [
     {
       "added_at": "2023-04-17 16:02:01",
@@ -347,6 +347,30 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "El Tsurito",
+        "url": "https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 194518,
+      "name": "El Tsurito",
+      "url": "https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Ando Enfocado",
         "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
       },
@@ -371,22 +395,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Al Derecho Y Al Reverso",
-        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Eres Ese Algo",
-      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "No Es Por Ac\u00e1",
         "url": "https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k"
       },
@@ -399,6 +407,22 @@
       "duration_ms": 167692,
       "name": "No Es Por Ac\u00e1",
       "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Al Derecho Y Al Reverso",
+        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Eres Ese Algo",
+      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -423,22 +447,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Gatita",
-        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        }
-      ],
-      "duration_ms": 153062,
-      "name": "Gatita",
-      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "El Rescate",
         "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
       },
@@ -455,6 +463,22 @@
       "duration_ms": 160897,
       "name": "El Rescate",
       "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Gatita",
+        "url": "https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "duration_ms": 153062,
+      "name": "Gatita",
+      "url": "https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -495,30 +519,6 @@
       "duration_ms": 177666,
       "name": "Ya Coraz\u00f3n",
       "url": "https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "El Tsurito",
-        "url": "https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 194518,
-      "name": "El Tsurito",
-      "url": "https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Qu\u00e9 Onda Perdida",
+        "url": "https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "duration_ms": 223695,
+      "name": "Qu\u00e9 Onda Perdida",
+      "url": "https://open.spotify.com/track/3TjLFavKPwuvXk5xnxPlEk"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "La Bolsa Gucci",
         "url": "https://open.spotify.com/album/1LMGPTkDnylJGOiojhF11C"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 136120,
       "name": "La Bolsa Gucci",
       "url": "https://open.spotify.com/track/7KBTLsYW2sI42vdlVP079C"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Qu\u00e9 Onda Perdida",
-        "url": "https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 223695,
-      "name": "Qu\u00e9 Onda Perdida",
-      "url": "https://open.spotify.com/track/3TjLFavKPwuvXk5xnxPlEk"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "1Trago",
+        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "1Trago",
+      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Sin Rencores",
         "url": "https://open.spotify.com/album/3t9mSoc9znrVKsUBUyMCW5"
       },
@@ -939,18 +955,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "1Trago",
-        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
+        "name": "Rumores",
+        "url": "https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid"
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
-      "duration_ms": 201106,
-      "name": "1Trago",
-      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
+      "duration_ms": 202594,
+      "name": "Rumores",
+      "url": "https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -991,26 +1011,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Rumores",
-        "url": "https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 202594,
-      "name": "Rumores",
-      "url": "https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "A M\u00ed Me Gustas T\u00fa",
         "url": "https://open.spotify.com/album/3E8pEagTMZOFpfTppkRIHy"
       },
@@ -1031,6 +1031,26 @@
       "duration_ms": 186400,
       "name": "A M\u00ed Me Gustas T\u00fa",
       "url": "https://open.spotify.com/track/3yLPsviVDfHgXFo6VAcq6z"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "M.L.P",
+        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clasificado",
+          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
+        },
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "duration_ms": 211961,
+      "name": "M.L.P",
+      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1095,26 +1115,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "M.L.P",
-        "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
-      },
-      "artists": [
-        {
-          "name": "Grupo Clasificado",
-          "url": "https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9"
-        },
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
-        }
-      ],
-      "duration_ms": 211961,
-      "name": "M.L.P",
-      "url": "https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "LUNA",
         "url": "https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 225640,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 232178,
-      "name": "Mientes Tan Bien",
-      "url": "https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1183,6 +1167,22 @@
       "duration_ms": 200141,
       "name": "Chorumbo",
       "url": "https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 232178,
+      "name": "Mientes Tan Bien",
+      "url": "https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Las Ag\u00fcitas",
+        "url": "https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD"
+      },
+      "artists": [
+        {
+          "name": "Los Vendavales de Adan Melendez",
+          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "El Colesterol",
+      "url": "https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Seguimos En El Ruedo",
         "url": "https://open.spotify.com/album/6u0RwU7hzru3SbnbuyH3mA"
       },
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Se Me Solt\u00f3 El Hocico",
-        "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 175319,
-      "name": "Se Me Solt\u00f3 El Hocico",
-      "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Te Invito a Ser Feliz",
         "url": "https://open.spotify.com/album/7ukaZijb4JKauWNUYv8ddm"
       },
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Las Ag\u00fcitas",
-        "url": "https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD"
+        "name": "Se Me Solt\u00f3 El Hocico",
+        "url": "https://open.spotify.com/album/0aPf2P7gK0p0hOmsLMwPzc"
       },
       "artists": [
         {
-          "name": "Los Vendavales de Adan Melendez",
-          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 176333,
-      "name": "El Colesterol",
-      "url": "https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F"
+      "duration_ms": 175319,
+      "name": "Se Me Solt\u00f3 El Hocico",
+      "url": "https://open.spotify.com/track/2DRt6GO4cpDrchof7iCJvU"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Infieles",
-        "url": "https://open.spotify.com/album/4DARi06HF0mOTbnibgzXWd"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 211764,
-      "name": "Infieles",
-      "url": "https://open.spotify.com/track/2bta5uOxojY072yAOSniu3"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "No Se Vuelve A Repetir",
         "url": "https://open.spotify.com/album/1LwEYfRvKkCQY1KojHlRYE"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 194317,
       "name": "No Se Vuelve A Repetir",
       "url": "https://open.spotify.com/track/5S8bGN62F8XQfZo26caGjv"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Infieles",
+        "url": "https://open.spotify.com/album/4DARi06HF0mOTbnibgzXWd"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 211764,
+      "name": "Infieles",
+      "url": "https://open.spotify.com/track/2bta5uOxojY072yAOSniu3"
     }
   ],
   "unique_name": "Top M\u00e9xico",

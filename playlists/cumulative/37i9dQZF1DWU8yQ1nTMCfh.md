@@ -4,7 +4,7 @@
 
 > Las nuevas vibras del rock en español\. Cover: ROBI
 
-195 songs - 10 hr 53 min
+196 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Lo Que Nadie Supo Dar](https://open.spotify.com/track/2vjbQMwQNPqkqqtjFRRiVA) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Instinto Felino](https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV) | 3:08 | 2022-12-23 |  |
 | [Los Cobardes Viven Siempre](https://open.spotify.com/track/3rwcoBT2HRRoCWYVpcAZOW) | [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP) | [Los Cobardes Viven Siempre](https://open.spotify.com/album/0Icc3ELm9tbfwoCoYeSHLx) | 3:34 | 2023-01-20 |  |
 | [Los Mejores \- Si Pudiera](https://open.spotify.com/track/1YZfiHarcCJGBPDk6PW96w) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Los Mejores \(Si Pudiera\)](https://open.spotify.com/album/6dmAMEznxIvcHBaUtZdslh) | 3:23 | 2022-04-15 | 2022-12-10 |
-| [Los Ángeles, California](https://open.spotify.com/track/5VYaHqFTsRjvqgaox7Iu6C) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:45 | 2023-01-13 |  |
+| [Los Ángeles, California](https://open.spotify.com/track/5VYaHqFTsRjvqgaox7Iu6C) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:45 | 2023-01-13 | 2023-04-20 |
 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 | 2023-03-10 |  |
 | [Mala Jugada](https://open.spotify.com/track/2e3vpJ5jXxzA4hS8RiqCUD) | [De Nalgas](https://open.spotify.com/artist/4VZR1CBFS8AR4zqrtn7Dlh) | [Cascajo](https://open.spotify.com/album/0mcOBPszOAIOVyjZSgsnJr) | 4:07 | 2022-04-15 | 2022-12-10 |
 | [Mala Vibra](https://open.spotify.com/track/66GS7AyNo0bcLes3q6R0My) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Mala Vibra](https://open.spotify.com/album/5e5AeTW1NoinQ2iB0asP3O) | 3:21 | 2022-04-15 | 2022-12-10 |
@@ -140,6 +140,7 @@
 | [Nublado \(feat\. Travis Barker\)](https://open.spotify.com/track/5p5CzJAFaStkaqrQhkYpBT) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 2:57 | 2022-12-09 |  |
 | [Ojalá](https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Ojalá](https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb) | 3:13 | 2023-04-14 |  |
 | [Otra Vez \(Otra Vez\)](https://open.spotify.com/track/17yD1QTXS8nlfKOForUgzC) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Otra Vez \(Otra Vez\)](https://open.spotify.com/album/20ZRFgY2obZ2rvZtxL0Ceg) | 3:12 | 2022-04-15 | 2022-12-24 |
+| [Para Siempre](https://open.spotify.com/track/2VqVScPVFQLtg6bDtnhQW3) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Para Siempre](https://open.spotify.com/album/1SCkHpyMe6KZK5ScMcrp9a) | 3:36 | 2023-04-14 |  |
 | [Perdido](https://open.spotify.com/track/5S7k88yKKQe2sPPvpZnH3R) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Al Parecer Todo Ha Sido una Trampa](https://open.spotify.com/album/25wv6eU2tDQDPLAYTyuj2Q) | 4:07 | 2023-02-11 |  |
 | [Perdidos en Pantitlán](https://open.spotify.com/track/0Timp3zrA5PZg9qPoUCVfR) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Perdidos en Pantitlán](https://open.spotify.com/album/7aIjw8NNEqqUiSnwiEMncd) | 2:32 | 2022-04-15 | 2022-12-10 |
 | [Phantom Tide](https://open.spotify.com/track/1WMUG4qM8koBr8Libld4VP) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Phantom Tide](https://open.spotify.com/album/4ZM3DGuoQYtGmaDaYECAQ1) | 2:52 | 2022-04-15 | 2022-12-10 |

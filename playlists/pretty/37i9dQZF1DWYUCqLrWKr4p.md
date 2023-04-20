@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 
 > Unforgettable love songs from the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,548 likes - 73 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,730 likes - 73 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 | 15 | [All I Have to Do Is Dream](https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:23 |
 | 16 | [Bring It On Home to Me](https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 |
 | 17 | [My Cherie Amour](https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [My Cherie Amour](https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG) | 2:53 |
-| 18 | [Will You Love Me Tomorrow](https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Remember When](https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8) | 2:40 |
-| 19 | [Sugar, Sugar](https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF) | [The Archies](https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh) | [The Very Best Of "The Archies"](https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi) | 2:47 |
+| 18 | [Sugar, Sugar](https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF) | [The Archies](https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh) | [The Very Best Of "The Archies"](https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi) | 2:47 |
+| 19 | [Will You Love Me Tomorrow](https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Remember When](https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8) | 2:40 |
 | 20 | [Something's Got A Hold On Me](https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:49 |
 | 21 | [Baby I Need Your Loving](https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Four Tops](https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm) | 2:46 |
 | 22 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [The Ultimate Jackie Wilson](https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl) | 3:01 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 | 28 | [Dedicated To The One I Love](https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [Deliver](https://open.spotify.com/album/0zR6CIh3f8DFFzIee5AWwp) | 2:58 |
 | 29 | [One Fine Day](https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 2:08 |
 | 30 | [You've Lost That Lovin' Feelin' \- Single Version](https://open.spotify.com/track/6AeyHqzNHJthYJbn0tvJ4b) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [You've Lost That Lovin' Feelin'](https://open.spotify.com/album/28FEznublcKslK88ehRrfy) | 3:46 |
-| 31 | [Fly Me To The Moon \(In Other Words\)](https://open.spotify.com/track/1iZgzgmsFsi0deffe0rleB) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [It Might As Well Be Swing](https://open.spotify.com/album/5lXF6AFeXG8UsIUfBJNsNH) | 2:29 |
-| 32 | [Words](https://open.spotify.com/track/07PIhdmyYIw8dMeDMsx9FU) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Horizontal \(Deluxe Version\)](https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05) | 3:18 |
+| 31 | [Words](https://open.spotify.com/track/07PIhdmyYIw8dMeDMsx9FU) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Horizontal \(Deluxe Version\)](https://open.spotify.com/album/2oeuTgRudy4dVoFa15gf05) | 3:18 |
+| 32 | [Fly Me To The Moon \(In Other Words\)](https://open.spotify.com/track/1iZgzgmsFsi0deffe0rleB) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [It Might As Well Be Swing](https://open.spotify.com/album/5lXF6AFeXG8UsIUfBJNsNH) | 2:29 |
 | 33 | [Nothing Can Change This Love](https://open.spotify.com/track/6e6Kxot9nHyZ4I8GgmGKII) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Mr\. Soul](https://open.spotify.com/album/1rEYwOdpVc2W39d0uxf0va) | 2:38 |
 | 34 | [You're All I Need To Get By](https://open.spotify.com/track/6Ndauo9gCxNjTfklsFYS7b) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [You're All I Need](https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd) | 2:53 |
 | 35 | [Stay \- Rerecorded](https://open.spotify.com/track/4jtxk24eyUY3F9y3ucjxe0) | [Maurice Williams & The Zodiacs](https://open.spotify.com/artist/43BgumF6B7s0W2mhVkmVO4) | [Maurice Williams and The Zodiacs](https://open.spotify.com/album/2TGFqDERcMklYUZiURnvll) | 1:39 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 | 59 | [I'm Gonna Make You Love Me](https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq), [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Diana Ross & The Supremes Join The Temptations](https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT) | 3:07 |
 | 60 | [Angel Baby](https://open.spotify.com/track/1HzfcOcxJeGmxgf5a6MK0W) | [Rosie & The Originals](https://open.spotify.com/artist/422gtj7D6L6pvr0GE08lwf) | [Presenting Rosie & the Originals](https://open.spotify.com/album/76X16nVTLk9S8FrLrAP8ff) | 3:47 |
 | 61 | [Poetry In Motion \- 1960 \#2 Billboard chart hit](https://open.spotify.com/track/2HKafPuzWaKsCzcE3zFOIX) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR) | 2:34 |
-| 62 | [I Love How You Love Me](https://open.spotify.com/track/6wceQSqQDvdcw0cMNKdp7s) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [I Love How You Love Me](https://open.spotify.com/album/4gurJ6L9p3piSJutIH2E3z) | 2:30 |
-| 63 | [Forever](https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Playboy](https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic) | 2:21 |
+| 62 | [Forever](https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Playboy](https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic) | 2:21 |
+| 63 | [I Love How You Love Me](https://open.spotify.com/track/6wceQSqQDvdcw0cMNKdp7s) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [I Love How You Love Me](https://open.spotify.com/album/4gurJ6L9p3piSJutIH2E3z) | 2:30 |
 | 64 | [The Look Of Love](https://open.spotify.com/track/1Kx5LdJPpqRXKUUHBu9CTe) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [The Look Of Love](https://open.spotify.com/album/3clrlTlu2wENPvdXz88YPh) | 3:36 |
 | 65 | [\('Til\) I Kissed You](https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:26 |
 | 66 | [Lady Willpower](https://open.spotify.com/track/1wXUeV5w6MkRFwMZu060U9) | [Gary Puckett & The Union Gap](https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ) | [Super Hits](https://open.spotify.com/album/6J4iMx3rWJ0lFmSPdI14Io) | 2:45 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 | 72 | [Come Closer to Me](https://open.spotify.com/track/4vH7AAArSCrfS9HwM7t6yb) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Spanish Harlem](https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp) | 2:35 |
 | 73 | [When You're Young And In Love](https://open.spotify.com/track/3URfKi5DOvUaJMuTuT8osm) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [The Marvelettes](https://open.spotify.com/album/10PshaiGlvqUfdADKJXbTV) | 2:39 |
 
-Snapshot ID: `MTY1MzkxNTc0NCwwMDAwMDAwMDk2NTZjMzg3Y2FjNDk1Y2EwY2EzNTQxZTVlY2Q0NTFj`
+Snapshot ID: `MTY1MzkxNTc0NCwwMDAwMDAwMGQ2NWMzZDA4ZTFkYTFmMjY2YTg1ZWY5MzBiNzY5NjQz`

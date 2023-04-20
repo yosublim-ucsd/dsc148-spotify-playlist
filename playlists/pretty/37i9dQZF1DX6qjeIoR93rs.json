@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 43502,
+  "num_followers": 43556,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTI2NzYzMCwwMDAwMDAwMGUwYzAzYzMzYjAwNDZhN2EwNzg5OGEwMDgzNjY0Y2Mz",
+  "snapshot_id": "MTY3MTI2NzYzMCwwMDAwMDAwMDhmMGQ3Y2UzNmUxNjY5ZWRhMDhjYmQ1NWUzNGU3YmM0",
   "tracks": [
     {
       "added_at": "2022-12-17 09:00:30",
@@ -167,22 +167,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Weino",
-        "url": "https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj"
-      },
-      "artists": [
-        {
-          "name": "Dana Salah",
-          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
-        }
-      ],
-      "duration_ms": 145871,
-      "name": "Weino",
-      "url": "https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "Jdeed, Vol. 3",
         "url": "https://open.spotify.com/album/5q7PLIOBptDq7YRbOuSs4C"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 312032,
       "name": "Hada el 7aki 3eh",
       "url": "https://open.spotify.com/track/6qBEVHOHFVE425OBeOluXN"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Weino",
+        "url": "https://open.spotify.com/album/4Aq2uHcgC4Sk13QlrzKicj"
+      },
+      "artists": [
+        {
+          "name": "Dana Salah",
+          "url": "https://open.spotify.com/artist/7nQVHZnQGjMyc1HSOQW7GZ"
+        }
+      ],
+      "duration_ms": 145871,
+      "name": "Weino",
+      "url": "https://open.spotify.com/track/1feYc8vSa3y6EodevhkzYB"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -451,26 +451,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "The Long March",
-        "url": "https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5"
-      },
-      "artists": [
-        {
-          "name": "Le Trio Joubran",
-          "url": "https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI"
-        },
-        {
-          "name": "Roger Waters",
-          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
-        }
-      ],
-      "duration_ms": 376586,
-      "name": "Carry the Earth",
-      "url": "https://open.spotify.com/track/73XTg0Yt03seww60tQcBSL"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "Bala Reash",
         "url": "https://open.spotify.com/album/79ANdz7erU4Bcn8WrzduuI"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 226690,
       "name": "Bala Reash",
       "url": "https://open.spotify.com/track/0Rz6oGfKbhYHCXFWDbYhLh"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "The Long March",
+        "url": "https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5"
+      },
+      "artists": [
+        {
+          "name": "Le Trio Joubran",
+          "url": "https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI"
+        },
+        {
+          "name": "Roger Waters",
+          "url": "https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r"
+        }
+      ],
+      "duration_ms": 376586,
+      "name": "Carry the Earth",
+      "url": "https://open.spotify.com/track/73XTg0Yt03seww60tQcBSL"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -683,18 +683,18 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Maskhara",
-        "url": "https://open.spotify.com/album/3js4Eghi2JL8ngc07sXBQ9"
+        "name": "\u0628\u0637\u0644\u062a\u064a \u0627\u0644\u064a",
+        "url": "https://open.spotify.com/album/2lMxE2fPExV9BSb4JEGsqZ"
       },
       "artists": [
         {
-          "name": "Bashar Murad",
-          "url": "https://open.spotify.com/artist/2egtqAaRFGmPkiMpmSHTql"
+          "name": "\u0641\u0631\u0642\u0629 \u0632\u0645\u0646",
+          "url": "https://open.spotify.com/artist/7KxBiElyZGfgRKL0cqHUdn"
         }
       ],
-      "duration_ms": 186411,
-      "name": "Maskhara",
-      "url": "https://open.spotify.com/track/4lV2xMJsbfsva6Ldqlf0pf"
+      "duration_ms": 228813,
+      "name": "\u0645\u064a\u062f\u0644\u064a \u0641\u0644\u0633\u0637\u064a\u0646\u064a",
+      "url": "https://open.spotify.com/track/5hwLq1B81lk9vV1wpu7Orw"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -711,22 +711,6 @@
       "duration_ms": 136759,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5j3nMZTymRJR0XcqCjDZu6"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
-        "name": "\u0628\u0637\u0644\u062a\u064a \u0627\u0644\u064a",
-        "url": "https://open.spotify.com/album/2lMxE2fPExV9BSb4JEGsqZ"
-      },
-      "artists": [
-        {
-          "name": "\u0641\u0631\u0642\u0629 \u0632\u0645\u0646",
-          "url": "https://open.spotify.com/artist/7KxBiElyZGfgRKL0cqHUdn"
-        }
-      ],
-      "duration_ms": 228813,
-      "name": "\u0645\u064a\u062f\u0644\u064a \u0641\u0644\u0633\u0637\u064a\u0646\u064a",
-      "url": "https://open.spotify.com/track/5hwLq1B81lk9vV1wpu7Orw"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -759,6 +743,22 @@
       "duration_ms": 226716,
       "name": "\u0639\u0643\u0627 \u0639\u0644\u0649 \u0631\u0627\u0633\u064a",
       "url": "https://open.spotify.com/track/6Qe3wZo9bG3ZaWV8v3wLx3"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "A Tareeq",
+        "url": "https://open.spotify.com/album/5sy5gs8QvcIyLKiK0Ikzu2"
+      },
+      "artists": [
+        {
+          "name": "Ghazall",
+          "url": "https://open.spotify.com/artist/52ithxL8nGscRP6ocUO1SG"
+        }
+      ],
+      "duration_ms": 238813,
+      "name": "Ma Mali Shi",
+      "url": "https://open.spotify.com/track/5iHLim2PneDfm9B2kL2z02"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "A Tareeq",
-        "url": "https://open.spotify.com/album/5sy5gs8QvcIyLKiK0Ikzu2"
-      },
-      "artists": [
-        {
-          "name": "Ghazall",
-          "url": "https://open.spotify.com/artist/52ithxL8nGscRP6ocUO1SG"
-        }
-      ],
-      "duration_ms": 238813,
-      "name": "Ma Mali Shi",
-      "url": "https://open.spotify.com/track/5iHLim2PneDfm9B2kL2z02"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "Nai 1",
         "url": "https://open.spotify.com/album/6FM6CAZnjQkvS8lnsaYba6"
       },
@@ -875,22 +859,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Fattah Al Ward",
-        "url": "https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g"
-      },
-      "artists": [
-        {
-          "name": "Amal Murkus",
-          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Che Guevara",
-      "url": "https://open.spotify.com/track/7itWreJjHK6oDM66FaG7Vb"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "\u0628\u0639\u062f\u0647 \u0641\u064a\u064a \u0631\u0648\u062d",
         "url": "https://open.spotify.com/album/6vTqJnEkKVQCKDfegzJHFx"
       },
@@ -903,6 +871,22 @@
       "duration_ms": 188814,
       "name": "\u0628\u0639\u062f\u0647 \u0641\u064a\u064a \u0631\u0648\u062d",
       "url": "https://open.spotify.com/track/72CB0MAagJAXpqS6bRVUxu"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Fattah Al Ward",
+        "url": "https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g"
+      },
+      "artists": [
+        {
+          "name": "Amal Murkus",
+          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Che Guevara",
+      "url": "https://open.spotify.com/track/7itWreJjHK6oDM66FaG7Vb"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -991,6 +975,22 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
+        "name": "Ya Samti",
+        "url": "https://open.spotify.com/album/6Bcyb3titJoo0xFB3zea2f"
+      },
+      "artists": [
+        {
+          "name": "Zuhair Francis",
+          "url": "https://open.spotify.com/artist/0njHK2K2VDRrfM0L3bklXp"
+        }
+      ],
+      "duration_ms": 232166,
+      "name": "Ya Samti",
+      "url": "https://open.spotify.com/track/02sG3ndWTK9PHBxPlaZwAH"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
         "name": "Na'na' Ya Na'na'",
         "url": "https://open.spotify.com/album/4QMcZUOEFAaFKH1XSjDkQI"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "Ya Samti",
-        "url": "https://open.spotify.com/album/6Bcyb3titJoo0xFB3zea2f"
-      },
-      "artists": [
-        {
-          "name": "Zuhair Francis",
-          "url": "https://open.spotify.com/artist/0njHK2K2VDRrfM0L3bklXp"
-        }
-      ],
-      "duration_ms": 232166,
-      "name": "Ya Samti",
-      "url": "https://open.spotify.com/track/02sG3ndWTK9PHBxPlaZwAH"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "Le meilleur, vol.1",
         "url": "https://open.spotify.com/album/7s3nuAyok865QigeowkopM"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 383333,
       "name": "\u0641\u0644\u0633\u0637\u064a\u0646",
       "url": "https://open.spotify.com/track/7GAIec8M8V8ftwtj2lSMPI"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "From Here",
+        "url": "https://open.spotify.com/album/5D4XlS9tDo1ZdYvas3kqXX"
+      },
+      "artists": [
+        {
+          "name": "Akram Abdulfattah",
+          "url": "https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "From Here",
+      "url": "https://open.spotify.com/track/2gU3bW5VlHffe9V3VD89EM"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1099,22 +1099,6 @@
       "duration_ms": 326387,
       "name": "NAS",
       "url": "https://open.spotify.com/track/6iplzAdeuc5x1TQBph25PZ"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
-        "name": "From Here",
-        "url": "https://open.spotify.com/album/5D4XlS9tDo1ZdYvas3kqXX"
-      },
-      "artists": [
-        {
-          "name": "Akram Abdulfattah",
-          "url": "https://open.spotify.com/artist/6u6VplNDL8uiSHGhRysJRG"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "From Here",
-      "url": "https://open.spotify.com/track/2gU3bW5VlHffe9V3VD89EM"
     },
     {
       "added_at": "2022-12-17 09:00:30",
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
+        "name": "\u064a\u0627 \u0645\u0646\u062c\u0646\u064a\u0642",
+        "url": "https://open.spotify.com/album/0iqbK8EUWqZueNYEJmtVgC"
+      },
+      "artists": [
+        {
+          "name": "Mahmood Jrere",
+          "url": "https://open.spotify.com/artist/21CJ2LhyyR1R3jGx8zfwPv"
+        }
+      ],
+      "duration_ms": 185375,
+      "name": "\u064a\u0627 \u0645\u0646\u062c\u0646\u064a\u0642",
+      "url": "https://open.spotify.com/track/1THJTqG9l2Rc1MVNWYvYIy"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
         "name": "Telephone",
         "url": "https://open.spotify.com/album/06yTr9V77gQArdYMsmzX2i"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-12-17 09:00:30",
       "album": {
-        "name": "\u064a\u0627 \u0645\u0646\u062c\u0646\u064a\u0642",
-        "url": "https://open.spotify.com/album/0iqbK8EUWqZueNYEJmtVgC"
-      },
-      "artists": [
-        {
-          "name": "Mahmood Jrere",
-          "url": "https://open.spotify.com/artist/21CJ2LhyyR1R3jGx8zfwPv"
-        }
-      ],
-      "duration_ms": 185375,
-      "name": "\u064a\u0627 \u0645\u0646\u062c\u0646\u064a\u0642",
-      "url": "https://open.spotify.com/track/1THJTqG9l2Rc1MVNWYvYIy"
-    },
-    {
-      "added_at": "2022-12-17 09:00:30",
-      "album": {
         "name": "Room",
         "url": "https://open.spotify.com/album/6lAmjHAwltL9jRp1GAGCEX"
       },
@@ -1215,6 +1199,26 @@
       "duration_ms": 157800,
       "name": "Room",
       "url": "https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7"
+    },
+    {
+      "added_at": "2022-12-17 09:00:30",
+      "album": {
+        "name": "Sobo El Gahwa",
+        "url": "https://open.spotify.com/album/5vK57QEuynqaQYHuiGuNoM"
+      },
+      "artists": [
+        {
+          "name": "Zenobia",
+          "url": "https://open.spotify.com/artist/1111ivBPyEwa1mdOB2SA0X"
+        },
+        {
+          "name": "Faten Shafeq Kabaha",
+          "url": "https://open.spotify.com/artist/7uDoPvAaYD2RUrr35aH1bK"
+        }
+      ],
+      "duration_ms": 260555,
+      "name": "Sobo El Gahwa",
+      "url": "https://open.spotify.com/track/2uegTlle9p16rqdeYroYET"
     }
   ],
   "unique_name": "Palestine Sounds",

@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.  ",
-  "num_followers": 42705,
+  "num_followers": 42779,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMDg1YzFkMjgzYjEyODdhNjM3N2Q3ZjQyM2VkOGIzNTg2",
+  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMDliMWMxN2NjMzEzMjU0MTE3Nzc5ZDUzMzRhOGY1NDM1",
   "tracks": [
     {
       "added_at": "2023-04-13 23:00:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Floating",
-        "url": "https://open.spotify.com/album/27a2XTCA5vJ63ooZAUZflW"
+        "name": "M.a.D.H.P.",
+        "url": "https://open.spotify.com/album/751BmPCOKTPola0Y7VSktl"
       },
       "artists": [
         {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+          "name": "Phoenix Rdc",
+          "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
         }
       ],
-      "duration_ms": 186529,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/6mzUqJRO5UzphWpk1en0sb"
+      "duration_ms": 260800,
+      "name": "Vencedor",
+      "url": "https://open.spotify.com/track/4a0H1kKez7UVLveRL5cEgy"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "M.a.D.H.P.",
-        "url": "https://open.spotify.com/album/751BmPCOKTPola0Y7VSktl"
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/27a2XTCA5vJ63ooZAUZflW"
       },
       "artists": [
         {
-          "name": "Phoenix Rdc",
-          "url": "https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna"
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
         }
       ],
-      "duration_ms": 260800,
-      "name": "Vencedor",
-      "url": "https://open.spotify.com/track/4a0H1kKez7UVLveRL5cEgy"
+      "duration_ms": 186529,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/6mzUqJRO5UzphWpk1en0sb"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Fendi",
-        "url": "https://open.spotify.com/album/1k012nV79sC7rugcjuWXmb"
-      },
-      "artists": [
-        {
-          "name": "DreNaz",
-          "url": "https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O"
-        }
-      ],
-      "duration_ms": 197360,
-      "name": "Fendi",
-      "url": "https://open.spotify.com/track/29pZGynpAvASlWqVIinmGP"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Malandro",
         "url": "https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 210675,
       "name": "Malandro",
       "url": "https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Fendi",
+        "url": "https://open.spotify.com/album/1k012nV79sC7rugcjuWXmb"
+      },
+      "artists": [
+        {
+          "name": "DreNaz",
+          "url": "https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O"
+        }
+      ],
+      "duration_ms": 197360,
+      "name": "Fendi",
+      "url": "https://open.spotify.com/track/29pZGynpAvASlWqVIinmGP"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Beber Para Esquecer",
+        "url": "https://open.spotify.com/album/3kHspN9UQgOo4q8f3y7N3K"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 183046,
+      "name": "Beber Para Esquecer",
+      "url": "https://open.spotify.com/track/76kNdRaqzgvYGB9tBIxUSf"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6"
       },
@@ -1215,26 +1231,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "O Re$To",
-        "url": "https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        },
-        {
-          "name": "DJ HYPE MYKE",
-          "url": "https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch"
-        }
-      ],
-      "duration_ms": 304600,
-      "name": "O Re$To",
-      "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "SAFE (feat. Lhast, LON3R JOHNY & 9 Miller)",
         "url": "https://open.spotify.com/album/4c327lXMvrvL8c5ChWcwq2"
       },
@@ -1263,34 +1259,38 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Jony Driver",
-        "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
+        "name": "O Re$To",
+        "url": "https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg"
       },
       "artists": [
         {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        },
+        {
+          "name": "DJ HYPE MYKE",
+          "url": "https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch"
         }
       ],
-      "duration_ms": 416500,
-      "name": ".Y",
-      "url": "https://open.spotify.com/track/0zxdVwyiPVxmBkZFTHe2xl"
+      "duration_ms": 304600,
+      "name": "O Re$To",
+      "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
     },
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Beber Para Esquecer",
-        "url": "https://open.spotify.com/album/3kHspN9UQgOo4q8f3y7N3K"
+        "name": "\u00c9 ASSIM",
+        "url": "https://open.spotify.com/album/6wZWOmhGZq8IWu1OwXIxtu"
       },
       "artists": [
         {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
         }
       ],
-      "duration_ms": 183046,
-      "name": "Beber Para Esquecer",
-      "url": "https://open.spotify.com/track/76kNdRaqzgvYGB9tBIxUSf"
+      "duration_ms": 249078,
+      "name": "\u00c9 ASSIM",
+      "url": "https://open.spotify.com/track/20EeqYWivW9x7F9ij2GC71"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1319,18 +1319,34 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "\u00c9 ASSIM",
-        "url": "https://open.spotify.com/album/6wZWOmhGZq8IWu1OwXIxtu"
+        "name": "Jony Driver",
+        "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
       },
       "artists": [
         {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
         }
       ],
-      "duration_ms": 249078,
-      "name": "\u00c9 ASSIM",
-      "url": "https://open.spotify.com/track/20EeqYWivW9x7F9ij2GC71"
+      "duration_ms": 416500,
+      "name": ".Y",
+      "url": "https://open.spotify.com/track/0zxdVwyiPVxmBkZFTHe2xl"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Louco",
+        "url": "https://open.spotify.com/album/7CjbtK4vbyv8yS78DXMtQF"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Louco",
+      "url": "https://open.spotify.com/track/6kJKJrVzOYhqnfeO9NDqIi"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1351,26 +1367,6 @@
       "duration_ms": 223634,
       "name": "Rubi",
       "url": "https://open.spotify.com/track/4aStXzYiJWQvdspHEn6GJN"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "2020 (feat. Slow J)",
-        "url": "https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ"
-      },
-      "artists": [
-        {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
-        },
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 203812,
-      "name": "2020 (feat. Slow J)",
-      "url": "https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS"
     }
   ],
   "unique_name": "Rap Tuga Hits",

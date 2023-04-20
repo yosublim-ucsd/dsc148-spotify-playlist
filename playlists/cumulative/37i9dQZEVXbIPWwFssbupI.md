@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,298 songs - 2 day 20 hr 40 min
+1,299 songs - 2 day 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [B22](https://open.spotify.com/track/19f3WsiGZq0nG0bboLa7th) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [OMERTA](https://open.spotify.com/album/6GBLnzPmNPkumYGkHBEzDQ) | 3:16 | 2023-03-11 | 2023-03-19 |
 | [Baby](https://open.spotify.com/track/3xrZCGMyXIDqesVz4QwJOL) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 2:42 | 2023-01-28 |  |
 | [Baby](https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Baby](https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA) | 2:42 | 2023-01-13 | 2023-01-29 |
+| [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 | 2023-04-19 |  |
 | [Baby, It's Cold Outside \(feat\. Meghan Trainor\)](https://open.spotify.com/track/5Q2P43CJra0uRAogjHyJDK) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Glow](https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv) | 2:53 | 2021-12-25 | 2022-12-28 |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2021-10-31 | 2022-01-12 |
 | [Bad Habits](https://open.spotify.com/track/6PQ88X9TkUIAUIZJHW2upE) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits](https://open.spotify.com/album/01NhUvviMytvV12pmJiDZH) | 3:51 | 2021-07-01 | 2021-10-31 |
@@ -148,7 +149,7 @@
 | [BELLE](https://open.spotify.com/track/41xAUseykaaSdmry5hVOkV) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [LE FLÉAU](https://open.spotify.com/album/60Lzu25iIgDBuLDETdzjIh) | 4:26 | 2021-05-30 | 2021-06-03 |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-04-29 | 2022-09-18 |
 | [Berline noire](https://open.spotify.com/track/7qROyJQ41KImPuBsJ7d8cU) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 3:15 | 2021-11-28 | 2021-12-02 |
-| [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-03-25 | 2023-04-14 |
+| [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-03-25 |  |
 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 | 2022-01-08 | 2022-01-10 |
 | [Best life](https://open.spotify.com/track/6RHASGYHC9DAftdMWGbZJC) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [HHHH](https://open.spotify.com/album/3IIykrRD1Kqw521QJC0USe) | 2:48 | 2021-06-23 | 2021-06-24 |
 | [Best life](https://open.spotify.com/track/2kUKeN9ZpYHqfBjB8Gphb2) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Best life](https://open.spotify.com/album/1IpPktwZNSSm7Bmd8j3Lbx) | 3:09 | 2021-10-02 | 2021-10-10 |
@@ -504,7 +505,7 @@
 | [Hasarder](https://open.spotify.com/track/6V40xLcDlYwZpz3oKIVNhL) | [Lomepal](https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm) | [Mauvais Ordre](https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq) | 2:58 | 2022-09-17 | 2022-10-16 |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/6r2QqSbil8Din17Y51Scen) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef), [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Noël ! Noël !! Noël !!!](https://open.spotify.com/album/2rbYdy6TGghrdNWbCkqAIK) | 3:47 | 2022-12-25 | 2022-12-27 |
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-09-10 | 2022-05-21 |
-| [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-04-17 |  |
+| [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-04-17 | 2023-04-20 |
 | [Heaven and Hell](https://open.spotify.com/track/2ZUJsR8HEktit58X6FuPQM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:25 | 2021-09-01 | 2021-09-02 |
 | [HELP !!!](https://open.spotify.com/track/1jZOcCrw6nyHnNcqYKrr6C) | [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [L'Étrange Histoire de Mr.Anderson](https://open.spotify.com/album/1LtG5P8cNErCsn1DZMVbrz) | 1:59 | 2021-07-18 | 2021-07-20 |
 | [HENNESSY](https://open.spotify.com/track/6fKYXAnTD96mFM9nAGaC7V) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 3:37 | 2022-07-02 | 2022-07-09 |
@@ -656,7 +657,7 @@
 | [La solassitude](https://open.spotify.com/track/09IE6tsb0tL0VLGH4GxCOO) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Multitude](https://open.spotify.com/album/5JY3b9cELQsoG7D5TJMOgw) | 3:02 | 2022-03-05 | 2022-03-14 |
 | [La street](https://open.spotify.com/track/29n9av2AJlYDHtqfuv0X04) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Indépendance](https://open.spotify.com/album/0waAfKYTW2g5VAsmbPDbjP) | 3:20 | 2021-12-12 | 2022-05-22 |
 | [La vie d’après](https://open.spotify.com/track/0VVUKYAmACrTR3vYwc9tqz) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Les autres c’est nous](https://open.spotify.com/album/07WjNDav7akW13k90qeqGw) | 6:48 | 2022-06-25 | 2022-06-27 |
-| [La vie qu'on mène](https://open.spotify.com/track/0Jh6iWjna1wk5le0Ahn7No) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Destin](https://open.spotify.com/album/14p5CVdJCMRcgvICDAGS7k) | 3:13 | 2021-10-16 |  |
+| [La vie qu'on mène](https://open.spotify.com/track/0Jh6iWjna1wk5le0Ahn7No) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Destin](https://open.spotify.com/album/14p5CVdJCMRcgvICDAGS7k) | 3:13 | 2021-10-16 | 2023-04-20 |
 | [La zalousie \(Interlude\)](https://open.spotify.com/track/59bW1eaRMxhMQlGvDhCTPW) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 0:47 | 2021-11-14 | 2021-11-14 |
 | [Laboratoire](https://open.spotify.com/track/2GMXeFK2Zz6DqUP5LT9NHz) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 2:42 | 2023-03-11 |  |
 | [Laisse tomber](https://open.spotify.com/track/258QqB2zhweDE2ZLEtT1GU) | [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [V](https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU) | 2:53 | 2022-02-05 | 2022-02-13 |

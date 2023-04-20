@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Sevendust
 
-737 songs - 1 day 20 hr 14 min
+739 songs - 1 day 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,7 +323,8 @@
 | [I Still Burn](https://open.spotify.com/track/6aXpsIVZDN1lfdt88T8fX1) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [I Still Burn](https://open.spotify.com/album/7di6xQ4AQEGp9lxmCgOH45) | 3:55 | 2022-03-18 | 2022-07-29 |
 | [I Still Burn](https://open.spotify.com/track/7LYlvig8Sjclil4xO7ZKjk) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Boombox](https://open.spotify.com/album/2IZGL8m1sfmD1f0mi2iMPY) | 3:55 | 2022-07-22 | 2023-04-09 |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-10-15 | 2022-05-14 |
-| [I'll Be Waiting](https://open.spotify.com/track/0qLNIVGcEf7iq0fPMCJDCP) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [I'll Be Waiting](https://open.spotify.com/album/3nfQ8FZKErsCD4pfQIdUAB) | 4:22 | 2023-03-17 |  |
+| [I'll Be Waiting](https://open.spotify.com/track/0qLNIVGcEf7iq0fPMCJDCP) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [I'll Be Waiting](https://open.spotify.com/album/3nfQ8FZKErsCD4pfQIdUAB) | 4:22 | 2023-03-17 | 2023-04-20 |
+| [I'll Be Waiting](https://open.spotify.com/track/5vgm295Dbcs3iL2dAMWmWl) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Bitter End](https://open.spotify.com/album/4YK3WiVwu6Ya40erAVlC1V) | 4:22 | 2023-04-14 |  |
 | [I'm Not](https://open.spotify.com/track/5bmxbmDia6hJvshHkzRYcb) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [I'm Not](https://open.spotify.com/album/5iybC75h5fhEF9jL7DDlov) | 2:43 | 2021-12-03 | 2022-06-04 |
 | [Ice Cold](https://open.spotify.com/track/5VwNXyLRoIDJ2E2XW1pLVW) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Midnight Demon Club](https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr) | 3:27 | 2023-03-10 |  |
 | [If Darkness Had a Son](https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 6:36 | 2023-04-14 |  |
@@ -512,6 +513,7 @@
 | [RECOVER](https://open.spotify.com/track/2k7lPTbMXcVLDoHqTE2Yzt) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [RECOVER](https://open.spotify.com/album/2ClSrGoU8x1kY3wL6cgl6r) | 3:22 | 2022-08-12 | 2023-03-04 |
 | [Red Fur](https://open.spotify.com/track/1jj922BgyJexH19yoHd23L) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Red Fur](https://open.spotify.com/album/0QouGNBQ8cnRBNBkKXrXgc) | 3:31 | 2023-03-10 |  |
 | [Repent](https://open.spotify.com/track/2QkGCfsLjFmOyTXqraOoZN) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL) | [Repent](https://open.spotify.com/album/4zln7Tl4bTG5BqD4FdhQq9) | 3:43 | 2022-06-24 | 2022-10-08 |
+| [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 | 2023-04-19 |  |
 | [Rest In Peace](https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Rest In Peace](https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE) | 3:37 | 2022-02-18 | 2022-12-17 |
 | [Revelation](https://open.spotify.com/track/4fCpWnOoknyMRZQaGL3tWt) | [Stone Broken](https://open.spotify.com/artist/1QEH7baR1m6qrr3atI0w1l) | [Revelation](https://open.spotify.com/album/5Z1UhmhiCVlbtou41VXwP8) | 3:10 | 2022-01-14 | 2022-07-16 |
 | [Revelation Man](https://open.spotify.com/track/6k3qU84lNZwaxD5XshnT6b) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [Revelation Man](https://open.spotify.com/album/5Tv6HmlDN9bMDKOM1UG8PK) | 3:11 | 2022-04-01 | 2022-06-11 |

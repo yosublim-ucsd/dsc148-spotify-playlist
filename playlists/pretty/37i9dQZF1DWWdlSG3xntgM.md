@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những nhạc phẩm đi vào lòng người từ nhiều thế hệ\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,966 likes - 50 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,974 likes - 50 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 38 | [Phút cuối](https://open.spotify.com/track/7cW56TRgleFy24m00m5fHc) | [Che Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi), [Thanh Tuyền](https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED) | [Mưa đêm nỉnh nhỏ](https://open.spotify.com/album/6TZAiMlGuGXcNY6Y0DIZca) | 5:28 |
 | 39 | [Hoa Trinh Nữ](https://open.spotify.com/track/1e3XVECaKioH2FdzNM83Fk) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 5:59 |
 | 40 | [Người Phụ Tình Tôi](https://open.spotify.com/track/76n21hc8bFprmvEa2MTA3I) | [Nhu Quynh](https://open.spotify.com/artist/2MMHHBwHK7jwIns4hcKIBe), [Truong Vu](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Người Phụ Tình Tôi](https://open.spotify.com/album/30NR2qhdstcERTNSbfH8P7) | 6:58 |
-| 41 | [Hoa Sứ Nhà Nàng](https://open.spotify.com/track/43APdgwOeZpEpcYTfF72PI) | [Phương Ý](https://open.spotify.com/artist/39rzQretQQ5JFkeigPdhcg) | [Hoa Sứ Nhà Nàng](https://open.spotify.com/album/0dPjehd82d078PcsNzsUpr) | 4:14 |
+| 41 | [Hoa Sứ Nhà Nàng](https://open.spotify.com/track/43APdgwOeZpEpcYTfF72PI) | [Phương Ý](https://open.spotify.com/artist/3oYU9mlmOGW7NYGwRsgFaG) | [Hoa Sứ Nhà Nàng](https://open.spotify.com/album/0dPjehd82d078PcsNzsUpr) | 4:14 |
 | 42 | [Người Thương Kẻ Nhớ](https://open.spotify.com/track/7uRH7YpXzcK9yfRJSyrP7w) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk) | [Lan Và Điệp 4](https://open.spotify.com/album/2VhxESlFWGQJ2qDsZSajZB) | 4:32 |
 | 43 | [Mãi Là Niềm Đau](https://open.spotify.com/track/0HwirubE0A00VYVLGOM5wp) | [Ngoc Han](https://open.spotify.com/artist/3Wdyn05ATQMon3kvCQiyER) | [Mãi Là Niềm Đau](https://open.spotify.com/album/5OOBWwpjpjoZg9UuT8LyD3) | 4:53 |
 | 44 | [Đừng nói xa nhau](https://open.spotify.com/track/1REpQma5LaPQrWAStGy1Hk) | [Mạnh Quỳnh](https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W), [Phi Nhung](https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF) | [Đam mê \- Tuyệt Phẩm song ca \- Phi Nhung Mạnh Quỳnh](https://open.spotify.com/album/4t5fjzVYhATmyirOztHScw) | 5:10 |

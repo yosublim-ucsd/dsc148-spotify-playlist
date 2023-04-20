@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 
 > Knees go down and the prayers go up
 
-[Spotify](https://open.spotify.com/user/spotify) - 614 likes - 50 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 696 likes - 50 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 28 | [Incredible God](https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:45 |
 | 29 | [Covenant Keeping God](https://open.spotify.com/track/3S37qaCmNR0ejVOFVBcZCo) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Lost in His Glory](https://open.spotify.com/album/5OcrjI1YzaqXYwLe3Eo9T5) | 3:10 |
 | 30 | [Mma Mma](https://open.spotify.com/track/7mqy6OedwJcCY3LFvRziFW) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Unlimited Verse 2](https://open.spotify.com/album/20YMmzwkCTcSgbk4hB3Jj4) | 4:41 |
-| 31 | [Yes You Are the Lord](https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p), [Danny Nettey](https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK), [Emmit Jim Konadu](https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx), [Negar Wujanji](https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi) | [A Sound from Heaven](https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo) | 6:42 |
-| 32 | [So Good](https://open.spotify.com/track/0SHtiTJHKedzCfu32dIFQ7) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Fearless Wrshp](https://open.spotify.com/album/0qUGI3RkYQIKuIXhrPE9Fd) | 6:13 |
+| 31 | [Reason](https://open.spotify.com/track/4Z9DZqnQJy68WIBft5pNQD) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Reason](https://open.spotify.com/album/7qRh53LMZ3GQTTaNWVPq2o) | 3:07 |
+| 32 | [Yes You Are the Lord](https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p), [Danny Nettey](https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK), [Emmit Jim Konadu](https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx), [Negar Wujanji](https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi) | [A Sound from Heaven](https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo) | 6:42 |
 | 33 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 |
-| 34 | [Reason](https://open.spotify.com/track/4Z9DZqnQJy68WIBft5pNQD) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Reason](https://open.spotify.com/album/7qRh53LMZ3GQTTaNWVPq2o) | 3:07 |
+| 34 | [So Good](https://open.spotify.com/track/0SHtiTJHKedzCfu32dIFQ7) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Fearless Wrshp](https://open.spotify.com/album/0qUGI3RkYQIKuIXhrPE9Fd) | 6:13 |
 | 35 | [I Stand Amazed \(Live\)](https://open.spotify.com/track/0544EK1JJF4rBb2DREyn26) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [The Name of Jesus: Sinach Live in Concert](https://open.spotify.com/album/2KU9F20rbyLkgVM1LS7PvQ) | 7:24 |
 | 36 | [Ko Ma Si/ Nobody Like You](https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Lara George](https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8) | 4:29 |
 | 37 | [Metease yi](https://open.spotify.com/track/3sqXQoSb19w97o2mTkeYJ3) | [Noble Nketsiah](https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd) | [My Vision](https://open.spotify.com/album/3M2KpSQEs5CGmnAx4X5lcK) | 5:31 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 46 | [IBUKA](https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [IBUKA](https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ) | 5:02 |
 | 47 | [Jesus](https://open.spotify.com/track/3UUd3dSg0TmimHXT2eDvMd) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [Jesus](https://open.spotify.com/album/21HPnA3qQwwttWJm5vhQOB) | 8:50 |
 | 48 | [All I Have Is You](https://open.spotify.com/track/6SSydoQ1h6OPTJ4JxoSRAS) | [Mr Mekoyo](https://open.spotify.com/artist/5atQbVe5DeUlSlDCamrC3n) | [All I Have Is You](https://open.spotify.com/album/6Rhao26zetb6OYBlMM7hqf) | 5:40 |
-| 49 | [Holy Holy](https://open.spotify.com/track/3c59MimChLvVDK5cVccW2p) | [Uwana Etuk](https://open.spotify.com/artist/1vUtm6BcZuvgWqlhCUF2M3) | [Yahwey](https://open.spotify.com/album/65h9sRcIJ4yJNNtG99CQ3x) | 8:00 |
-| 50 | [Wonders \- Live](https://open.spotify.com/track/01i4L10PCxMSqxEZnLpkue) | [Jedidiaah](https://open.spotify.com/artist/38PprjtWjRZWei6vEZHTC7) | [Wonders \(Live\)](https://open.spotify.com/album/42imw6HApqycDjSpAhXpGQ) | 9:41 |
+| 49 | [Eyes of The Spirit Chant \(Prayer Chant\)](https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Journey To The Deep \(Prayer Chants\)](https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag) | 2:11 |
+| 50 | [Holy Holy](https://open.spotify.com/track/3c59MimChLvVDK5cVccW2p) | [Uwana Etuk](https://open.spotify.com/artist/1vUtm6BcZuvgWqlhCUF2M3) | [Yahwey](https://open.spotify.com/album/65h9sRcIJ4yJNNtG99CQ3x) | 8:00 |
 
-Snapshot ID: `MTY4MTQ5MDQxMywwMDAwMDAwMDhkY2Y2ZmI1ZTdhMjJkZWVhMDE2Mzk0OGI3YWMyZWNm`
+Snapshot ID: `MTY4MTQ5MDQxMywwMDAwMDAwMGMwYmYyNDJmZGQwM2YwNDI5OTYzNWEyZjYwMmJiMWJm`

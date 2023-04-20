@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fDcF6S4tuJ.md) - [plain]
 
 > Listen to all your favorite Disney Princess and Frozen songs during Disney’s Ultimate Princess Celebration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,725 likes - 55 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 784,394 likes - 55 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

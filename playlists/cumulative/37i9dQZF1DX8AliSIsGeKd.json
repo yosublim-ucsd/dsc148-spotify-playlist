@@ -3100,7 +3100,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 368651,
       "name": "Be Real! - Extended",
       "url": "https://open.spotify.com/track/3nogl1x0xoi93Rc6TsrI8k"
@@ -11900,10 +11900,32 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 365217,
       "name": "Gino Is Alive",
       "url": "https://open.spotify.com/track/0dzBSjQIeOiMmzYxQRW5ZN"
+    },
+    {
+      "album": {
+        "name": "Gino Is Alive EP",
+        "url": "https://open.spotify.com/album/2N5jzjpKcS2hLQypojjj2Z"
+      },
+      "artists": [
+        {
+          "name": "Marco Faraone",
+          "url": "https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3"
+        },
+        {
+          "name": "Flug",
+          "url": "https://open.spotify.com/artist/3sMtPWvoIoTE1IR3Ehdf5m"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365217,
+      "name": "Gino Is Alive",
+      "url": "https://open.spotify.com/track/7LetQoaD3iaXRMZOwNA4jQ"
     },
     {
       "album": {
@@ -25862,6 +25884,32 @@
       "duration_ms": 474093,
       "name": "Silence & Secrets - Black Coffee Remix",
       "url": "https://open.spotify.com/track/3ZZDwhwD6ZsFQW0IGfiKrG"
+    },
+    {
+      "album": {
+        "name": "Silence feat. Sarah McLachlan (Stereo Express Remix)",
+        "url": "https://open.spotify.com/album/4LmJHygyotO36sss5BtRYe"
+      },
+      "artists": [
+        {
+          "name": "Delerium",
+          "url": "https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN"
+        },
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        },
+        {
+          "name": "Stereo Express",
+          "url": "https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436189,
+      "name": "Silence feat. Sarah McLachlan - Stereo Express Remix",
+      "url": "https://open.spotify.com/track/1hbChDNHgkTollxDkMR9VK"
     },
     {
       "album": {

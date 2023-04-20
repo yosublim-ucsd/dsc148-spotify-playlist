@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 
 > The best Ambient tracks from 2010 to 2019.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,804 likes - 105 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,832 likes - 105 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Reflection \- Excerpt](https://open.spotify.com/track/03CZYhKdRRSVurRPD3GWbT) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Reflection \(Excerpt\)](https://open.spotify.com/album/03BnBPo40oPD9AvYIkURet) | 4:20 |
-| 2 | [A Field of Night](https://open.spotify.com/track/0YeA95qfyzG5jhm8M5XTpp) | [Chequerboard](https://open.spotify.com/artist/4xjrTN2tw4VsS7mlBdSCmr) | [The Unfolding](https://open.spotify.com/album/6fePA0wognv8fQ9mPed4YQ) | 7:33 |
+| 2 | [A Field of Night](https://open.spotify.com/track/0XhNhTydcNnkbwYguBsPt3) | [Chequerboard](https://open.spotify.com/artist/4xjrTN2tw4VsS7mlBdSCmr) | [The Unfolding](https://open.spotify.com/album/0gflF9tUooliM9pyoUx7BO) | 7:33 |
 | 3 | [Distant](https://open.spotify.com/track/4ORqFshD5gbl8GtOo8GMTI) | [Hilyard](https://open.spotify.com/artist/6Eys8fI3z5ifobsUtZqbo0) | [Distant and Spirals](https://open.spotify.com/album/6SpGVAZE5ANPlGF4Nqme5R) | 6:44 |
 | 4 | [Simon & Anna](https://open.spotify.com/track/0TQjK1RWoPmtRQDaUUBywl) | [Sean Curtis Patrick](https://open.spotify.com/artist/1d7Y6KjeDRTq1XydihNsf4) | [The Best Driving Music in the World Ever](https://open.spotify.com/album/2E4QO6JYQJmaFrgyfHp5Xj) | 3:08 |
 | 5 | [The Last of Our Time Together](https://open.spotify.com/track/5HF71OzFDpRC7hNzZdyIhB) | [Hakobune](https://open.spotify.com/artist/5tbEjgs7Twqh89pq5Ef161) | [The Last of Our Time Together](https://open.spotify.com/album/3AyLgph2cuxoHXY2WndeQc) | 16:02 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 104 | [Analog Paralysis, 1978](https://open.spotify.com/track/3guEVTjNJHoR5D7GJRZMs5) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Ravedeath, 1972](https://open.spotify.com/album/6Iu8toVsvCc3I4INxYiVIy) | 3:51 |
 | 105 | [Weightless Part 6](https://open.spotify.com/track/1Mua0g96hUldJWj00GDsel) | [Marconi Union](https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H) | [Weightless \(Ambient Transmission Vol\. 2\)](https://open.spotify.com/album/3d8apQ32ZVRDPFtllVTKGR) | 5:10 |
 
-Snapshot ID: `MTY3NDgzNjY4MSwwMDAwMDAwMGE1NTg2NTJmNmY4MDUyMzg1ZGM4MjI4NDAyM2E0YTU0`
+Snapshot ID: `MTY3NDgzNjY4MSwwMDAwMDAwMDBiY2JjZWZkY2JmYmM5MjZkNDhkMzYwZjk2ODc4NDQ1`

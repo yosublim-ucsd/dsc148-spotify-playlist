@@ -1,12 +1,12 @@
 {
   "description": "Happy National Pet Day! \ud83e\udef6\ud83c\udffc (Cover: JOY(\uc870\uc774))",
-  "num_followers": 508730,
+  "num_followers": 509139,
   "original_name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTE5ODcwMCwwMDAwMDAwMGExYTk4NzNlNDk3ZjQzY2M1YjI2MTIzNDE2YzlkZThj",
+  "snapshot_id": "MTY4MTE5ODcwMCwwMDAwMDAwMGMxYWZhMDNkZmI4NmVjMjE0NTAwMmVlNzA4NGI2YjFk",
   "tracks": [
     {
       "added_at": "2023-04-11 07:38:20",
@@ -315,18 +315,22 @@
     {
       "added_at": "2023-04-11 07:38:20",
       "album": {
-        "name": "Boys Like You",
-        "url": "https://open.spotify.com/album/1KYgerdWcEqB7KbppYtdXU"
+        "name": "\u02e3\u203f\u02e3 (SMiLEY)",
+        "url": "https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw"
       },
       "artists": [
         {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+          "name": "YENA",
+          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         }
       ],
-      "duration_ms": 223373,
-      "name": "Boys Like You",
-      "url": "https://open.spotify.com/track/34y2pV3RGFiCHSP12bNHVk"
+      "duration_ms": 173413,
+      "name": "SMILEY(Feat. BIBI)",
+      "url": "https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF"
     },
     {
       "added_at": "2023-04-11 07:38:20",
@@ -379,22 +383,18 @@
     {
       "added_at": "2023-04-11 07:38:20",
       "album": {
-        "name": "\u02e3\u203f\u02e3 (SMiLEY)",
-        "url": "https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw"
+        "name": "Boys Like You",
+        "url": "https://open.spotify.com/album/1KYgerdWcEqB7KbppYtdXU"
       },
       "artists": [
         {
-          "name": "YENA",
-          "url": "https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
         }
       ],
-      "duration_ms": 173413,
-      "name": "SMILEY(Feat. BIBI)",
-      "url": "https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF"
+      "duration_ms": 223373,
+      "name": "Boys Like You",
+      "url": "https://open.spotify.com/track/34y2pV3RGFiCHSP12bNHVk"
     },
     {
       "added_at": "2023-04-11 07:38:20",
@@ -739,8 +739,8 @@
     {
       "added_at": "2023-04-11 07:38:20",
       "album": {
-        "name": "From.9",
-        "url": "https://open.spotify.com/album/6M4WrayhANSknC8e4cOFue"
+        "name": "9 WAY TICKET",
+        "url": "https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
         }
       ],
-      "duration_ms": 199965,
-      "name": "LOVE BOMB",
-      "url": "https://open.spotify.com/track/3RtapbUtHJgnVlZWahStUS"
+      "duration_ms": 175946,
+      "name": "WE GO",
+      "url": "https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS"
     },
     {
       "added_at": "2023-04-11 07:38:20",
@@ -851,8 +851,8 @@
     {
       "added_at": "2023-04-11 07:38:20",
       "album": {
-        "name": "9 WAY TICKET",
-        "url": "https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW"
+        "name": "From.9",
+        "url": "https://open.spotify.com/album/6M4WrayhANSknC8e4cOFue"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
         }
       ],
-      "duration_ms": 175946,
-      "name": "WE GO",
-      "url": "https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS"
+      "duration_ms": 199965,
+      "name": "LOVE BOMB",
+      "url": "https://open.spotify.com/track/3RtapbUtHJgnVlZWahStUS"
     },
     {
       "added_at": "2023-04-11 07:38:20",

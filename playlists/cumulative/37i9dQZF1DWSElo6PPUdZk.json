@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/3HhzqHPEN33a5UCKSfZpgi"
@@ -346,10 +346,32 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 271058,
       "name": "Ghori",
       "url": "https://open.spotify.com/track/2NNBsoC80svL6FU8mIhn82"
+    },
+    {
+      "album": {
+        "name": "Good Luck",
+        "url": "https://open.spotify.com/album/3zaGOSPJY6ADqytyWIM81N"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Pari Pandher",
+          "url": "https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211964,
+      "name": "Good Luck",
+      "url": "https://open.spotify.com/track/7o3py15E6jl10blnwEj4cP"
     },
     {
       "album": {
@@ -364,7 +386,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 188684,
       "name": "Haaniya",
       "url": "https://open.spotify.com/track/01rsvFmtiW3Cr5oMW1RA9m"
@@ -440,7 +462,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 164848,
       "name": "jhalle aa",
       "url": "https://open.spotify.com/track/6udf2AxEj8ivTwOt5sFrQd"
@@ -484,7 +506,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 340183,
       "name": "Jodaa",
       "url": "https://open.spotify.com/track/7t8oWuQ4zBK4Sq5tO2HQCq"
@@ -656,7 +678,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 158447,
       "name": "Laare",
       "url": "https://open.spotify.com/track/4L6h1muuapCakyu81caEVN"
@@ -856,7 +878,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 143828,
       "name": "Raanjha - Spotify Singles",
       "url": "https://open.spotify.com/track/2Xi2rN0Awghch9seTfDmge"
@@ -908,6 +930,28 @@
       "duration_ms": 208124,
       "name": "Rooh",
       "url": "https://open.spotify.com/track/2HuoVplD1lLM8WYUVDd3gE"
+    },
+    {
+      "album": {
+        "name": "Routine",
+        "url": "https://open.spotify.com/album/1HjNtwpnWn3Jy85DJBn2qn"
+      },
+      "artists": [
+        {
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
+        },
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203361,
+      "name": "Routine",
+      "url": "https://open.spotify.com/track/2QTCe4GzV85PZlu0t1ybGU"
     },
     {
       "album": {
@@ -980,6 +1024,24 @@
       "duration_ms": 212000,
       "name": "Supna Laavan Da",
       "url": "https://open.spotify.com/track/3tXRp4vdz8lFQNI3r2RAFM"
+    },
+    {
+      "album": {
+        "name": "Tere Na Viahi",
+        "url": "https://open.spotify.com/album/4YL1opCeVh4laO5NTAYKu4"
+      },
+      "artists": [
+        {
+          "name": "PRIYA",
+          "url": "https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Tere Na Viahi",
+      "url": "https://open.spotify.com/track/0mHLk3UHmPjzHENMrhLoFq"
     },
     {
       "album": {
@@ -1134,6 +1196,24 @@
       "duration_ms": 258071,
       "name": "XL",
       "url": "https://open.spotify.com/track/4yZzVCseQLtDE22MKGUWM2"
+    },
+    {
+      "album": {
+        "name": "Tini - EP",
+        "url": "https://open.spotify.com/album/2ieFpeF1ll67TuqGjmOJP3"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292181,
+      "name": "Yakeen",
+      "url": "https://open.spotify.com/track/0LLmJi2lkz03Eridu6kzBQ"
     },
     {
       "album": {

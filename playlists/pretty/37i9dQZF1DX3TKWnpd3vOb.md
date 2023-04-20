@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Los Bunkers
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,136 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,132 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 4 | [Simetría](https://open.spotify.com/track/3M5dIqhYOkHLhvsjxLn05b) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Conducción](https://open.spotify.com/album/2FlMmTEO3k9TAHZiVEIgdr) | 4:01 |
 | 5 | [Refugio](https://open.spotify.com/track/76t17pz5Pr6JrHUZltrr3z) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Refugio](https://open.spotify.com/album/2DSR4CdpDvpKaV9WE2Jmik) | 4:09 |
 | 6 | [Te van a olvidar](https://open.spotify.com/track/2cZjl4wIclVjzFzCZYVQRP) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg), [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Te van a olvidar](https://open.spotify.com/album/458faUpDTootevU4wWRBY9) | 4:01 |
-| 7 | [Caballo sin dueño](https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X) | [Pettinellis](https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD) | [Caballo sin dueño](https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz) | 3:37 |
-| 8 | [Amor Violento](https://open.spotify.com/track/2QBLfZKOgGhjjhtsAtStHI) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres Unplugged 20 Años](https://open.spotify.com/album/5qwIg1kBzo0HabN4VwaX0P) | 4:45 |
+| 7 | [Amor Violento](https://open.spotify.com/track/2QBLfZKOgGhjjhtsAtStHI) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres Unplugged 20 Años](https://open.spotify.com/album/5qwIg1kBzo0HabN4VwaX0P) | 4:45 |
+| 8 | [Caballo sin dueño](https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X) | [Pettinellis](https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD) | [Caballo sin dueño](https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz) | 3:37 |
 | 9 | [Rescatame](https://open.spotify.com/track/0GjoTJLgbBerEXztomm2WU) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [Rescatame](https://open.spotify.com/album/3bOkkudjnp66n6MYzhMshl) | 4:11 |
 | 10 | [Esta Tarde Vi Llover](https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F) | [Los Ex](https://open.spotify.com/artist/4sWPy7Kj9RwdpAxe5onUhP) | [Esta Tarde Vi Llover](https://open.spotify.com/album/68EfOoUKQD6O5ZvCvtDzOp) | 2:33 |
 | 11 | [No Me Esperes Más](https://open.spotify.com/track/1y9EiwTaAhZgZ6pPneVNKH) | [Los Insolentes](https://open.spotify.com/artist/5PSALJaFvns883BaOLR6Vc) | [No Me Esperes Más](https://open.spotify.com/album/4hlgFJaB91vmosuy65XQDV) | 3:11 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 40 | [Un Día por Concepción](https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2) | [Billy Norton](https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb) | [Un Día por Concepción](https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw) | 3:03 |
 | 41 | [Volver](https://open.spotify.com/track/69IG0p2mNwmnh6EtbwrUa5) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Reversiones, Vol\. 1](https://open.spotify.com/album/25Fry1roXU1jvvQOsOUgof) | 5:15 |
 | 42 | [Tu mundo al revés](https://open.spotify.com/track/2xIa96oIh8soVkhCHGWvug) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [Tu mundo al revés](https://open.spotify.com/album/6RbRANaLEgi48pHVCECIuI) | 3:44 |
-| 43 | [Hollywood](https://open.spotify.com/track/71qDE7UIjXoFFuMQix4aGE) | [Cigarbox Man](https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV) | [Hollywood](https://open.spotify.com/album/3VzbW4VDd8N5d0UwCMsVZC) | 3:35 |
-| 44 | [Lo Que Dicen](https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio) | [Los Necesarios](https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb) | [Lo Que Dicen](https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U) | 4:03 |
+| 43 | [Lo Que Dicen](https://open.spotify.com/track/79m8b7VCjH56yHG4ZdpPio) | [Los Necesarios](https://open.spotify.com/artist/6JpCRswJbJNJ9qwxlxuBVb) | [Lo Que Dicen](https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U) | 4:03 |
+| 44 | [Hollywood](https://open.spotify.com/track/71qDE7UIjXoFFuMQix4aGE) | [Cigarbox Man](https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV) | [Hollywood](https://open.spotify.com/album/3VzbW4VDd8N5d0UwCMsVZC) | 3:35 |
 | 45 | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX) | [Massonico](https://open.spotify.com/artist/1ztINaqHzkQnwJJR75cKfB) | [Despertar \(Cuando Todo Quema\)](https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk) | 3:21 |
-| 46 | [Dignidad](https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J) | [La Mórbida](https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K) | [Dignidad](https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt) | 4:08 |
-| 47 | [Revelando, Develando](https://open.spotify.com/track/7vjVFkNHk3nq6OiuzaoQck) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Baladas del Fin del Mundo](https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw) | 4:08 |
-| 48 | [Shawarma Love](https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Shawarma Love](https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx) | 3:51 |
+| 46 | [Shawarma Love](https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn) | [Pez Plátano](https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT) | [Shawarma Love](https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx) | 3:51 |
+| 47 | [Dignidad](https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J) | [La Mórbida](https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K) | [Dignidad](https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt) | 4:08 |
+| 48 | [Revelando, Develando](https://open.spotify.com/track/7vjVFkNHk3nq6OiuzaoQck) | [Los Makana](https://open.spotify.com/artist/0mtBfe3vziCV83NXGXWgD5) | [Baladas del Fin del Mundo](https://open.spotify.com/album/0WPzYjeKd2clBUAgdZv6yw) | 4:08 |
 | 49 | [Autodaño](https://open.spotify.com/track/7tAxQz9Hc53CTna3613OcY) | [Señal Natural](https://open.spotify.com/artist/0DNVxcvQXOnhBxl9FIaQm5) | [Autodaño](https://open.spotify.com/album/3EdL27rSXJqNKQHtnSU5SR) | 3:15 |
-| 50 | [Destino Final](https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR) | [Autóctonos de Ninguna Parte](https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN) | [Destino Final](https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY) | 5:29 |
+| 50 | [Soldados](https://open.spotify.com/track/3TCj56rGlJRCmX7L8Kgwgk) | [Kapitol](https://open.spotify.com/artist/5FuX1pfwNKtfSvimMmLSbt) | [Santos](https://open.spotify.com/album/3h8muVhOvlsw6Olfn5XrHG) | 3:45 |
 
-Snapshot ID: `MTY4MTQ0MTIwMCwwMDAwMDAwMGZlZGI3ZjZjZWJjNWE3NDZkZDE1OGJmOWYyODY3MTM1`
+Snapshot ID: `MTY4MTQ0MTIwMCwwMDAwMDAwMGUzMzQ1ZTNkMGZmYzdmYTJkNjFkMDI4M2JkZjI5NTc3`

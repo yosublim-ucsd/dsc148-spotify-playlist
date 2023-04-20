@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Jorja Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,304 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,319 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 5 | [What It Is \(Block Boy\) \(with Kodak Black\)](https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [What It Is \(Block Boy\) \(with Kodak Black\)](https://open.spotify.com/album/1O9xrX782LqLx4Z60528Ih) | 3:43 |
 | 6 | [This Is](https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:26 |
 | 7 | [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 |
-| 8 | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/track/0IT1pmbYjQjoU0IUMVZ6XU) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/album/5l1oWPwn5OqgbbBLyCrU05) | 2:52 |
+| 8 | [For Granted \(feat\. Arin Ray\)](https://open.spotify.com/track/39RJfDkli3BkEsW6LN4DrZ) | [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Enigmatic Society](https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe) | 2:52 |
 | 9 | [Cheatback](https://open.spotify.com/track/157HuQLoRKG4r3zqQU2bwN) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 3:45 |
 | 10 | [Distant Lover](https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Love Scars II](https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs) | 2:56 |
 | 11 | [Make It Up To You](https://open.spotify.com/track/6zZU70goOWBGPWTThgP4IW) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Make It Up To You](https://open.spotify.com/album/3enz29y0ybkTEdS322Jejt) | 3:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 79 | [What's Up \(feat\. Jagged Edge\)](https://open.spotify.com/track/3draIIDdWX6FpZCc5D9WXA) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [Working On My Karma](https://open.spotify.com/album/0P1t3XYFUtdfz7tzYGRD59) | 3:39 |
 | 80 | [Need You \- feat\. Zion Foster](https://open.spotify.com/track/4xBgDcn4YbojVTPRbr8I4H) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd), [Zion Foster](https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6) | [Älskar Nights \(Deluxe Version\)](https://open.spotify.com/album/7nihXiQT5BVrsOe0SUgwtq) | 3:09 |
 
-Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMGVjYmE3YWRhMDViNzRlNWVkYTQwYTQ5OTMwNDZjMmYx`
+Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMGJmYTY2ZTIwMzQ0ZTYyNWMzNWI3MTljMTM2OWQ5NTIz`

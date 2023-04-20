@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 
 > Add some sweet soul music to your dinner\. Cover: Ben L'Oncle Soul
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,242 likes - 70 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,243 likes - 70 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 9 | [Alibi](https://open.spotify.com/track/7gdMJKZDKsDzGPfvbOFyjy) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4cZaBbl9MF60k5194gGbiR) | 3:48 |
 | 10 | [Yes I Do](https://open.spotify.com/track/1Cda2BAeOs8r6X7ptFPkW2) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/15CViSIGJXmn2dn0Tt1wm1) | 5:10 |
 | 11 | [In\-between](https://open.spotify.com/track/1KVSfVRzSi7gTp7NFvoDZZ) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [More Moore Mixtape](https://open.spotify.com/album/5VxtlaenHlQoRl4tQDq7Av) | 2:39 |
-| 12 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 |
-| 13 | [Bad News](https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Introducing...](https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ) | 3:48 |
+| 12 | [Bad News](https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Introducing...](https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ) | 3:48 |
+| 13 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 |
 | 14 | [Talk About It](https://open.spotify.com/track/5MfushVJBf8tzERIBZ9jMv) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Honesty](https://open.spotify.com/album/32c2P1RVcAem05oQYT7Wiw) | 3:45 |
 | 15 | [Grow](https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:00 |
 | 16 | [Molly](https://open.spotify.com/track/3x3b6gLfASQ3oKMC5tM6Wf) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Belly](https://open.spotify.com/album/3mPwQso7Zs9CKNatbpPISq) | 2:03 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 24 | [OCT 33](https://open.spotify.com/track/4YKSJHezbvr4e0026rz8Zo) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:49 |
 | 25 | [Good Man](https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:30 |
 | 26 | [Flesh and Blood](https://open.spotify.com/track/6lZ4wuGYV4S1qgeiqgsxCo) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dream in Colour](https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e) | 3:58 |
-| 27 | [STILL HAVE YOU](https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [STILL HAVE YOU](https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX) | 2:22 |
-| 28 | [Seasons](https://open.spotify.com/track/6bpJeNwIqNb22xu8km0Ok9) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Seasons](https://open.spotify.com/album/31sPNFRpgyvcJ4sDX5qoqI) | 5:06 |
+| 27 | [Seasons](https://open.spotify.com/track/6bpJeNwIqNb22xu8km0Ok9) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Seasons](https://open.spotify.com/album/31sPNFRpgyvcJ4sDX5qoqI) | 5:06 |
+| 28 | [STILL HAVE YOU](https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [STILL HAVE YOU](https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX) | 2:22 |
 | 29 | [Sleeptalking](https://open.spotify.com/track/0FoNYKT8CgtG0VfXoq0M5U) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Nona](https://open.spotify.com/album/2U5a0Ayv1HAjUiR866Z5tB) | 2:47 |
 | 30 | [Hard Life](https://open.spotify.com/track/2taVZUaiDcWhbQILRhwPA3) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Hard Life](https://open.spotify.com/album/1IAIUlBnxOP6FcxEDdW4kL) | 3:48 |
 | 31 | [Same Girl](https://open.spotify.com/track/1h4fEhUO3HP3Bo2ma2JmcE) | [Tess Henley](https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv) | [Same Girl](https://open.spotify.com/album/35qaDseSphp0qxOH1CMoOU) | 3:02 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 57 | [Sanctuary](https://open.spotify.com/track/3I8IVGwQSv055Ue5OrI6Qf) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Genesis](https://open.spotify.com/album/4Pc3nWPVnnOQcMKRE53qYT) | 3:04 |
 | 58 | [Stay](https://open.spotify.com/track/6v0IFEV2M37sXSCuQMEBnj) | [Kartell](https://open.spotify.com/artist/3E4UsjXgFv2GdwshMkkJze), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Stay](https://open.spotify.com/album/3LrU1Dgrr3aVsT7GWOGPGW) | 3:14 |
 | 59 | [9](https://open.spotify.com/track/2Lel4FPH7lwvWZv24c9Gj6) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Adi Oasis](https://open.spotify.com/album/06VfMuXIFM7QLs5ZIW0KYZ) | 4:31 |
-| 60 | [I Want You](https://open.spotify.com/track/6yDZ0JtlNLqA9xV7dVkgt0) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [See Me](https://open.spotify.com/album/3AbP9rjHW5cejxH4INUuLE) | 4:08 |
-| 61 | [Can't Stop Loving \(What Your Heart Still Loves\)](https://open.spotify.com/track/6BRmMYY82M8kOcwgjvpiu9) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8) | 3:23 |
+| 60 | [Can't Stop Loving \(What Your Heart Still Loves\)](https://open.spotify.com/track/6BRmMYY82M8kOcwgjvpiu9) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Soul Revolution](https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8) | 3:23 |
+| 61 | [I Want You](https://open.spotify.com/track/6yDZ0JtlNLqA9xV7dVkgt0) | [Leela James](https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2) | [See Me](https://open.spotify.com/album/3AbP9rjHW5cejxH4INUuLE) | 4:08 |
 | 62 | [Is it you ?](https://open.spotify.com/track/01U0RoOjtVZGFRobHmnWKt) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [IS IT YOU ?](https://open.spotify.com/album/0wRqGMoyq5WUUNu0ijOy7a) | 3:45 |
 | 63 | [Ain't Gonna Let You Drown](https://open.spotify.com/track/44qiPcV2qOWxlIYpD0Xnha) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Rearview Paradise](https://open.spotify.com/album/0Q6UU1umlBC8FRK91jJVkg) | 4:17 |
 | 64 | [Yes I Am](https://open.spotify.com/track/4mAzDXo7ZVSAhk0iaoqa1b) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [The Gospel Sessions, Vol\. 4](https://open.spotify.com/album/449DTVTvTCdQgAdmPqgsi8) | 3:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9dy0tcoQft.md) - [plain]
 | 69 | [New Tree](https://open.spotify.com/track/5fZkN8x1aEwugCkyRh4TH2) | [Midnight Colors](https://open.spotify.com/artist/1UpfSkwgcTmct1trqoCUGk) | [Midnight Colors](https://open.spotify.com/album/3Evem3kHZzf736bCREcOL8) | 4:52 |
 | 70 | [You Live In My Phone](https://open.spotify.com/track/1eNf04Rj2ongsgK8ErzZv7) | [Someone](https://open.spotify.com/artist/28pJPOOQTi0RQiZbkmLvfE) | [You Live In My Phone](https://open.spotify.com/album/6i13Syc3mQBIl0A7xd3hjX) | 4:33 |
 
-Snapshot ID: `MTY4MTc0Mzg3MCwwMDAwMDAwMDU0NTdjZTlhNTg1OTdjYTNkMGEzZDZmOTI0MWZlMDI1`
+Snapshot ID: `MTY4MTc0Mzg3MCwwMDAwMDAwMDg2ZmM4YmU2NmQ1MDEwNjhhY2UxMWViOTZmODRmMDAy`

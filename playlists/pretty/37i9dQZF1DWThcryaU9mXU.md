@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 
 > When you want to be alone and the Blues is your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,714 likes - 70 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,784 likes - 70 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 12 | [Broken & Blue \(feat\. Joe Bonamassa\)](https://open.spotify.com/track/6YhIOU8jVa14jqcyc6bCKf) | [Ally Venable](https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Real Gone](https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe) | 4:22 |
 | 13 | [Lonely World](https://open.spotify.com/track/1Y90U5DmBkF6QAlxGySKse) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [The Blues](https://open.spotify.com/album/4s4kPtglWZbhLhVQfl9b2x) | 8:22 |
 | 14 | [Reconsider Baby](https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Had to Cry Today](https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV) | 6:51 |
-| 15 | [Ooh Baby](https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [His Best](https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU) | 3:49 |
-| 16 | [Mean Blues](https://open.spotify.com/track/3BnnWKoUg5BKIflQJ7dyAz) | [Floyd Lee & His Mean Blues Band](https://open.spotify.com/artist/1NyY8eTT2Djl9p3LfBW8zg) | [The Amogla Sessions, Vol\. 1](https://open.spotify.com/album/4yCM5denwMIxfmTlNXBDzJ) | 4:59 |
+| 15 | [Mean Blues](https://open.spotify.com/track/3BnnWKoUg5BKIflQJ7dyAz) | [Floyd Lee & His Mean Blues Band](https://open.spotify.com/artist/1NyY8eTT2Djl9p3LfBW8zg) | [The Amogla Sessions, Vol\. 1](https://open.spotify.com/album/4yCM5denwMIxfmTlNXBDzJ) | 4:59 |
+| 16 | [Ooh Baby](https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq) | [His Best](https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU) | 3:49 |
 | 17 | [How Unlucky Can One Man Be](https://open.spotify.com/track/5MULjaj5Xzjd2pyvUK8rRM) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x), [Nick Holt](https://open.spotify.com/artist/33vrw08zWB0fcGP8sGFWCo), [The Teardrops](https://open.spotify.com/artist/4sCjplymm6JRWbieiNWhto) | [You Can't Lose What You Ain't Never Had](https://open.spotify.com/album/3Jqjl8E2mtMf0IlrxuriRQ) | 7:13 |
 | 18 | [Blues On The Bay](https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [A Savage Life](https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B) | 2:47 |
 | 19 | [Bonnie](https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 4:37 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 43 | [When Will You Tell Him About Me?](https://open.spotify.com/track/3HG6C5B8ISRVDk8VumBo4m) | [Toronzo Cannon](https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6) | [The Chicago Way](https://open.spotify.com/album/4v5H921Ld53iepB3Ut49tS) | 4:29 |
 | 44 | [Help The Poor](https://open.spotify.com/track/5qcrexsUJ4AYyxw7zn3YKi) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Live At The Regal](https://open.spotify.com/album/7njGz7ZeDXL6cH3VnflcQ2) | 2:38 |
 | 45 | [Waiting For The Dawn](https://open.spotify.com/track/2lCf21uJsB7RsUVDXnq2lN) | [Walter Trout](https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq) | [Waiting For The Dawn](https://open.spotify.com/album/626cTYK4x3ljzZQ26ltoZV) | 5:50 |
-| 46 | [Juice Head Baby](https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6) | [Eddie "Cleanhead" Vinson](https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58) | [Kidney Stew \(The Definitive Black & Blue Sessions\)](https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G) | 4:35 |
-| 47 | [Lonesome Road Blues](https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 3:03 |
+| 46 | [Lonesome Road Blues](https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters Sings Big Bill Broonzy](https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU) | 3:03 |
+| 47 | [Juice Head Baby](https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6) | [Eddie "Cleanhead" Vinson](https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58) | [Kidney Stew \(The Definitive Black & Blue Sessions\)](https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G) | 4:35 |
 | 48 | [Lonely](https://open.spotify.com/track/4O1p9ZHYbYHtwx09Yng8nA) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ) | [Lonely](https://open.spotify.com/album/3DTOTOCJq9teFX4rdNx7EZ) | 3:00 |
 | 49 | [Sufferin' With The Blues](https://open.spotify.com/track/780aR01ClCSK7X6DQlyT60) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Wish Someone Would Care](https://open.spotify.com/album/2nnXcAt9Yke9sHwKtfcJlY) | 2:20 |
 | 50 | [I Got News For You](https://open.spotify.com/track/4wnZn5PQ708PUgTJufylmp) | [Andrew Brown](https://open.spotify.com/artist/3PJ8OSq1gHjL4CIyn1S2bR) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 5:01 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 69 | [Slow Burning Love](https://open.spotify.com/track/2JkHY8iEaClOCBneUNuD0a) | [Oscar LaDell](https://open.spotify.com/artist/08WZ8sVJKWdmh8VXtZEoOB), [Chris Armour](https://open.spotify.com/artist/7k8iEjzcT7rKcOBA5MPE7r) | [Slow Burning Love](https://open.spotify.com/album/2Zwtl70eaowopCHRsvuEa0) | 3:11 |
 | 70 | [Hard Living Alone](https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Marshall Texas Is My Home](https://open.spotify.com/album/0vKVTf2y0iDogf68a6ItHb) | 3:04 |
 
-Snapshot ID: `MTY3OTYxNjA2MCwwMDAwMDAwMGNkYTRmMzE4NjlhNzc2OWI2NzFkOTJhNjg1NjA1YThm`
+Snapshot ID: `MTY3OTYxNjA2MCwwMDAwMDAwMDAxOTc1YzU0Nzc5NGFmNzNlMWNlZDZhYTEyZmFiNzdj`

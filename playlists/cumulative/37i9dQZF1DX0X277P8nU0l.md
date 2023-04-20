@@ -4,7 +4,7 @@
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-96 songs - 5 hr 35 min
+98 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [For A While](https://open.spotify.com/track/7JM4b9VZVDD83l7f2F1ykf) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [For A While](https://open.spotify.com/album/1UJ8kecGU2PQlYDCicEyUk) | 4:13 | 2023-02-03 |  |
 | [Forever More](https://open.spotify.com/track/3vQu0bmBILcVjLhKZIQgJk) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [If Words Were Flowers](https://open.spotify.com/album/0msliOKoJh1aYmcpuEoBn2) | 3:14 | 2022-12-21 |  |
 | [frog](https://open.spotify.com/track/0nSw4I1cTMMBZBIk9ChgBn) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [frog](https://open.spotify.com/album/4kejzAQudxr4R5CNfvbwmz) | 3:26 | 2022-12-21 | 2023-04-01 |
-| [Giant Feelings](https://open.spotify.com/track/2pSGUdDRQl6k0liOCbUza2) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Giant Feelings](https://open.spotify.com/album/19ICuGAKIU66VOA6MLc1WZ) | 2:19 | 2023-02-27 |  |
+| [Giant Feelings](https://open.spotify.com/track/2pSGUdDRQl6k0liOCbUza2) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Giant Feelings](https://open.spotify.com/album/19ICuGAKIU66VOA6MLc1WZ) | 2:19 | 2023-02-27 | 2023-04-20 |
+| [Giant Feelings](https://open.spotify.com/track/7wCFToKO63HYn4oP6xZMHh) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 2:19 | 2023-04-07 |  |
 | [Giving It In](https://open.spotify.com/track/1yoAw5lhSJZ3FutPzCm6EC) | [Faye Meana](https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP) | [Giving It In](https://open.spotify.com/album/0qqvcHcINrNFwkFfaqpRO1) | 3:20 | 2022-12-21 | 2023-01-07 |
 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 | 2023-02-17 |  |
 | [Good Enough](https://open.spotify.com/track/5ubhHVO4Zk3Z5rEc067YBB) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Good Enough](https://open.spotify.com/album/5a79iYbVq5Gpor4febLhQP) | 3:08 | 2022-12-28 | 2023-03-25 |
@@ -94,7 +95,8 @@
 | [The Fool on the Hill](https://open.spotify.com/track/7IN0LLAhDgpqNz1cFNbYQl) | [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z), [Flore Benguigui](https://open.spotify.com/artist/4taAxKHZ4ODt4MwWVPDmbw) | [The Fool on the Hill](https://open.spotify.com/album/3fAfSROJJ3Ndvs1fZwkdyC) | 3:40 | 2022-12-21 |  |
 | [The Otherside](https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG) | [Bobby Oroza](https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [Get On The Otherside](https://open.spotify.com/album/2S16kNpGs1zn39HYwcLaJ3) | 3:49 | 2022-12-21 |  |
 | [The World](https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The World](https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t) | 3:06 | 2022-12-21 |  |
-| [Therapist](https://open.spotify.com/track/4vIYNMhW588JXOlBlEQqrq) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Therapist](https://open.spotify.com/album/18R7VI3JvO7576xdNNA4ni) | 2:41 | 2023-03-23 |  |
+| [Therapist](https://open.spotify.com/track/4vIYNMhW588JXOlBlEQqrq) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Therapist](https://open.spotify.com/album/18R7VI3JvO7576xdNNA4ni) | 2:41 | 2023-03-23 | 2023-04-20 |
+| [Therapist](https://open.spotify.com/track/75YBkVdPNyqa1gLCK9SZaK) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 2:41 | 2023-04-07 |  |
 | [These Days](https://open.spotify.com/track/6ghyebyKTLw7ITymWy5y3g) | [Neo Arc](https://open.spotify.com/artist/3HA56QnsISHLd4eqHsgyH5), [Eliana Veinberga](https://open.spotify.com/artist/2T0Mc26hJQq4Ax6NQCWWwO) | [These Days](https://open.spotify.com/album/5sMzsRvJjnJCJp53H4VFO3) | 3:37 | 2022-12-21 | 2023-02-04 |
 | [Tramp Like You](https://open.spotify.com/track/2wWlrpVleWOYkOqhpkV2EJ) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Tramp Like You](https://open.spotify.com/album/21uaZE9JBRZDNHNouEO8Df) | 5:24 | 2023-01-19 |  |
 | [Us Without Me](https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Us Without Me](https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt) | 3:20 | 2023-03-23 |  |

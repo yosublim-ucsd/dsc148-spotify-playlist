@@ -1,12 +1,12 @@
 {
   "description": "Pa' cantar, bailar y pistear. \u00a1Qu\u00e9 suene el mariachi! En portada: Javier Sol\u00eds",
-  "num_followers": 225688,
+  "num_followers": 225965,
   "original_name": "Cl\u00e1sicas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MTk2MTU3MywwMDAwMDAwMGQ5ZjAzYTY0MDlkYzE0YjJkNWE5YWYzOWNhYmU3YmU2",
+  "snapshot_id": "MTY2MTk2MTU3MywwMDAwMDAwMDgyM2E4MGJmMzE3NzcxODdiMWNlM2Q5M2E2MDkwMWZh",
   "tracks": [
     {
       "added_at": "2022-08-31 15:59:33",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Antonio Aguilar con Mariachi",
-        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 233116,
-      "name": "Triste Recuerdo",
-      "url": "https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
         "name": "Mexico en la Piel (edicion diamante)",
         "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 189800,
       "name": "\u00c9chame a Mi La Culpa",
       "url": "https://open.spotify.com/track/2TOBMDqbtPP6sAQtWc2Br9"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
+        "name": "Antonio Aguilar con Mariachi",
+        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 233116,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
+        "name": "Rancher\u00edsimo, Vol. 2",
+        "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 195117,
+      "name": "El Hijo Desobediente",
+      "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
         "name": "Todo",
         "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 177194,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/6mLX6uVPp6uLlBVim1rR82"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
-        "name": "La Gran Se\u00f1ora",
-        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Ya Lo S\u00e9",
-      "url": "https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -519,18 +519,18 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Rancher\u00edsimo, Vol. 2",
-        "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 195117,
-      "name": "El Hijo Desobediente",
-      "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
+      "duration_ms": 203520,
+      "name": "Ya Lo S\u00e9",
+      "url": "https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "So\u00f1ador Eterno",
-      "url": "https://open.spotify.com/track/3mPcFoFfDb5r6WkbIFQKqa"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
         "name": "Mi Mexico",
         "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 288160,
       "name": "Mi Talism\u00e1n",
       "url": "https://open.spotify.com/track/6CYf0PlFE36q772z8qrZrT"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "So\u00f1ador Eterno",
+      "url": "https://open.spotify.com/track/3mPcFoFfDb5r6WkbIFQKqa"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 229200,
-      "name": "T\u00fa Lo Decidiste",
-      "url": "https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
         "name": "\u00a1M\u00c9XICO Por Siempre!",
         "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
       },
@@ -727,6 +711,22 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 229200,
+      "name": "T\u00fa Lo Decidiste",
+      "url": "https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
         "name": "Gracias (with Mariachi Vargas de Tecalitl\u00e1n)",
         "url": "https://open.spotify.com/album/6nhkBmPqfBjoJwLMVClgxH"
       },
@@ -759,18 +759,18 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Mi Mexico",
-        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
+        "name": "\u00a1M\u00c9XICO Por Siempre!",
+        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 223826,
-      "name": "No Entiendo",
-      "url": "https://open.spotify.com/track/3bEjAIA1UHtRLX2gq8cO6B"
+      "duration_ms": 204533,
+      "name": "Llamarada",
+      "url": "https://open.spotify.com/track/6JEgMLyMEqFTaoQyMg4vhQ"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
+        "name": "Mi Mexico",
+        "url": "https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 223826,
+      "name": "No Entiendo",
+      "url": "https://open.spotify.com/track/3bEjAIA1UHtRLX2gq8cO6B"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
         "name": "60 Rancheras Inmortales",
         "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
       },
@@ -823,38 +839,6 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/3Jtuf52P0Xo8JaE7oCMAdA"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 179266,
-      "name": "Yo...El Aventurero",
-      "url": "https://open.spotify.com/track/5k4oS18NesIeSpnZEDnh6p"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 204533,
-      "name": "Llamarada",
-      "url": "https://open.spotify.com/track/6JEgMLyMEqFTaoQyMg4vhQ"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
         "name": "El Cantinero",
         "url": "https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 129400,
       "name": "El Rey",
       "url": "https://open.spotify.com/track/4ihZFukyNotzCUtxI4qpu8"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/3Jtuf52P0Xo8JaE7oCMAdA"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 179266,
+      "name": "Yo...El Aventurero",
+      "url": "https://open.spotify.com/track/5k4oS18NesIeSpnZEDnh6p"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -919,18 +919,18 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
-        "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
+        "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
+        "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
       },
       "artists": [
         {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+          "name": "Gerardo Reyes",
+          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
         }
       ],
-      "duration_ms": 226324,
-      "name": "Fallaste Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO"
+      "duration_ms": 176520,
+      "name": "Sin Fortuna",
+      "url": "https://open.spotify.com/track/4JBHcA19SAq5EzNgZZOy9O"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Pedro Infante",
+        "url": "https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 226324,
+      "name": "Fallaste Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
         "name": "Las 100 Clasicas Vol. 2",
         "url": "https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 144706,
       "name": "Si Nos Dejan",
       "url": "https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
-        "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
-        "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Reyes",
-          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
-        }
-      ],
-      "duration_ms": 176520,
-      "name": "Sin Fortuna",
-      "url": "https://open.spotify.com/track/4JBHcA19SAq5EzNgZZOy9O"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
+        "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
+        "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Reyes",
+          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
+        }
+      ],
+      "duration_ms": 128400,
+      "name": "Libro Abierto",
+      "url": "https://open.spotify.com/track/6squwxmGYNEgrk3Ai0piCi"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
         "name": "Yo No Fui",
         "url": "https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 233000,
       "name": "La Malague\u00f1a",
       "url": "https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
-        "name": "Serie De Colecc. 15 Aut\u00e9nticos Exitos",
-        "url": "https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Reyes",
-          "url": "https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e"
-        }
-      ],
-      "duration_ms": 128400,
-      "name": "Libro Abierto",
-      "url": "https://open.spotify.com/track/6squwxmGYNEgrk3Ai0piCi"
     },
     {
       "added_at": "2022-08-31 15:59:33",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-08-31 15:59:33",
       "album": {
-        "name": "Un Hombre Derecho",
-        "url": "https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 188604,
-      "name": "Nadie Es Eterno",
-      "url": "https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY"
-    },
-    {
-      "added_at": "2022-08-31 15:59:33",
-      "album": {
         "name": "Tradicional",
         "url": "https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 171733,
       "name": "Que Te Vaya Bonito",
       "url": "https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi"
+    },
+    {
+      "added_at": "2022-08-31 15:59:33",
+      "album": {
+        "name": "Un Hombre Derecho",
+        "url": "https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 188604,
+      "name": "Nadie Es Eterno",
+      "url": "https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY"
     },
     {
       "added_at": "2022-08-31 15:59:33",

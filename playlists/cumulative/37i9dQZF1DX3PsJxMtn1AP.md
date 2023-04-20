@@ -4,7 +4,7 @@
 
 > A sonic wonderland of eclectic, mesmerizing, and beautiful tunes...
 
-107 songs - 6 hr 58 min
+109 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Hasta La Raíz](https://open.spotify.com/track/5OYKJlZTMQvAX8kEJ1R60y) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Maestra Vida](https://open.spotify.com/album/08wJCaKI1iUCFObnucLK25) | 6:20 | 2023-01-07 | 2023-03-25 |
 | [Head On \- Miss Grit Remix](https://open.spotify.com/track/2etTUUZRsSJn4oNuZXvAJn) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Head On EP](https://open.spotify.com/album/1kmN7lxLayS5azCGXn7e0n) | 4:04 | 2023-03-31 | 2023-04-14 |
 | [Hiding In My Room](https://open.spotify.com/track/3si20hOppfHPDiFCyEDkSM) | [Kraków Loves Adana](https://open.spotify.com/artist/2LgLvxq44FkRvstBiPFjsN) | [Hiding In My Room](https://open.spotify.com/album/5FB4hmcRa9sqImroII1pKX) | 4:16 | 2023-01-13 | 2023-03-30 |
+| [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 | 2023-04-20 |  |
 | [Hold Onto My Fur](https://open.spotify.com/track/6ioQB5fLHg5McsIDRHotNA) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG) | [Hold Onto My Fur](https://open.spotify.com/album/01heFmsK0GkmzvNZVpUPVm) | 3:05 | 2023-04-15 |  |
 | [Honey](https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Honey](https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv) | 3:23 | 2023-02-01 | 2023-04-01 |
 | [I Play My Bass Loud](https://open.spotify.com/track/2tdLhnzLh9zknYf8bjIN93) | [Gina Birch](https://open.spotify.com/artist/6Uf8GS97rZbMv6vUFKhWft) | [I Play My Bass Loud](https://open.spotify.com/album/7DQY6bwfrs58VTGKQh4MGg) | 4:27 | 2023-01-20 | 2023-04-01 |
@@ -67,6 +68,7 @@
 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 | 2023-04-01 |  |
 | [Me Estoy Poniendo Viejo](https://open.spotify.com/track/4AhZ2PyD5xny2A8hltSuVr) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Me Estoy Poniendo Viejo](https://open.spotify.com/album/0FyBzQotrJGBsTwj2Vk7hv) | 3:54 | 2023-02-28 | 2023-04-16 |
 | [Moody Cumbia](https://open.spotify.com/track/1Mfr0JkEfXR7rN8NUGjCr9) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Strange Salsa](https://open.spotify.com/album/4VELiDWXsabtbzSRxDr7DC) | 3:36 | 2023-03-28 | 2023-04-13 |
+| [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-04-19 |  |
 | [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 | 2023-03-29 |  |
 | [Mousetrap](https://open.spotify.com/track/2YHUd3ru7TjevD6BNRu2mD) | [Jackie Mendoza](https://open.spotify.com/artist/2ZIEeX505EvIuA10fNgnHa) | [Mousetrap](https://open.spotify.com/album/6rmfh4B7AAhwK3X076zPex) | 4:03 | 2023-02-17 | 2023-04-09 |
 | [Máscara de Niña](https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Máscara de Niña](https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw) | 3:14 | 2023-03-23 | 2023-04-14 |
@@ -102,7 +104,7 @@
 | [Su Sızıyor](https://open.spotify.com/track/5Yw2orljyPxOQe9s1JfPqU) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 4:04 | 2023-03-29 |  |
 | [Sunflower](https://open.spotify.com/track/5Iv0imXfXBd7URaPqlF3Te) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Sunflower](https://open.spotify.com/album/59jNWoQlsY5cudwYzu44Bl) | 4:00 | 2023-03-29 |  |
 | [tens morada em mim](https://open.spotify.com/track/3Cw2TWb0LgtY9vegjf0o9m) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/5X7JFiLKCde11k7ERBSIRS) | 3:21 | 2023-03-31 | 2023-04-13 |
-| [tens morada em mim](https://open.spotify.com/track/746XVpySvzCD8me5t9XdG4) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 3:21 | 2023-03-31 |  |
+| [tens morada em mim](https://open.spotify.com/track/746XVpySvzCD8me5t9XdG4) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 3:21 | 2023-03-31 | 2023-04-20 |
 | [The Smell of Your Hair](https://open.spotify.com/track/6jD1IiSNuKkTL6EGEhFQk7) | [Laure Briard](https://open.spotify.com/artist/01kBbtD0A37qtJ9EdA3Fm1) | [The Smell of Your Hair](https://open.spotify.com/album/5ShXw6uLiiBezqx1ODEABH) | 2:50 | 2023-01-25 | 2023-04-01 |
 | [This House Is...](https://open.spotify.com/track/1Kk4Ux0pZoPIiNyYdy1tbc) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w) | [The House \(Soundtrack From The Netflix Special\)](https://open.spotify.com/album/3HjTcz4IvJiwHJZMlNfifs) | 4:07 | 2023-01-12 | 2023-03-29 |
 | [This World Couldn’t See Us](https://open.spotify.com/track/13cQU9GKHqSDInv3s7h9fm) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [This World Couldn’t See Us](https://open.spotify.com/album/0z0wehtsAygzzJsdtgzNoz) | 3:39 | 2023-03-03 | 2023-03-30 |
@@ -110,7 +112,7 @@
 | [una pistola](https://open.spotify.com/track/3W84tomeyoKmsMcQpRCoAb) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [0792](https://open.spotify.com/album/29FBrqYK936MhgT10dfCPb) | 3:22 | 2023-03-17 |  |
 | [una pistola](https://open.spotify.com/track/6xbrXgN5mCSzpCbEbH8O5m) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [0792](https://open.spotify.com/album/71DiIrIpNnWV6So3CDIlGJ) | 3:22 | 2023-03-17 | 2023-03-19 |
 | [vampiro](https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08) | [Kiddie Gang](https://open.spotify.com/artist/1BIPunmLho7BYxe9gD4bFg) | [vampiro](https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4) | 2:58 | 2023-03-31 |  |
-| [Vurgunum Ama Acelesi Yok](https://open.spotify.com/track/1yiWGEADkJPYlMalqk1VfC) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Anadolu Ejderi](https://open.spotify.com/album/6lADF6NT8H5p3KCdHE3CfZ) | 4:45 | 2023-03-31 |  |
+| [Vurgunum Ama Acelesi Yok](https://open.spotify.com/track/1yiWGEADkJPYlMalqk1VfC) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Anadolu Ejderi](https://open.spotify.com/album/6lADF6NT8H5p3KCdHE3CfZ) | 4:45 | 2023-03-31 | 2023-04-20 |
 | [Windows Open](https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T) | [Maps](https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2) | [Counter Melodies](https://open.spotify.com/album/4LWyrJebQ4M0oL9OVDH1ot) | 5:18 | 2023-03-31 |  |
 | [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 | 2023-04-12 |  |
 | [wondering dub](https://open.spotify.com/track/6zadbcR4B6WgdOYydQK1bv) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [wondering dub](https://open.spotify.com/album/335nWdnySpRgISVX7hEb4f) | 2:07 | 2023-04-13 |  |

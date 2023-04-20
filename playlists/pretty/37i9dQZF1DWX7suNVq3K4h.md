@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7suNVq3K4h.md) - [plain]
 
 > Whether it's playtime, bath time..\. or you just need a little me\-time, this selection of soothing Mozart favourites is guaranteed to help the whole family relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,276 likes - 44 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,387 likes - 44 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

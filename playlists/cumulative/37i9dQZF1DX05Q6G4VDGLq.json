@@ -5374,7 +5374,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 224463,
       "name": "My First Choice",
       "url": "https://open.spotify.com/track/5Hd1LiJmHktsqPpoEKhKGv"
@@ -5720,6 +5720,24 @@
       "duration_ms": 176000,
       "name": "Night Swimmer",
       "url": "https://open.spotify.com/track/2TaXpoVerMqrJxoEh1KjgS"
+    },
+    {
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/1NKqdrY5COQ2fE54U1Mxbh"
+      },
+      "artists": [
+        {
+          "name": "David Parks & Silver",
+          "url": "https://open.spotify.com/artist/5lh0cmklkqiNcuFsXOyl1D"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192269,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/0pUJIrhpnvI1wneFmal7oG"
     },
     {
       "album": {

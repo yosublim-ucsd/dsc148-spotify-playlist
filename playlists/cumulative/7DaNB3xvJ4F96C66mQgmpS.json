@@ -912,7 +912,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 146880,
       "name": "Mr. Glock",
       "url": "https://open.spotify.com/track/1ipSpQfzBbhPFhYm6tfVIz"
@@ -1612,6 +1612,28 @@
       "duration_ms": 142677,
       "name": "Words (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
+    },
+    {
+      "album": {
+        "name": "You Got Me",
+        "url": "https://open.spotify.com/album/17NmpNUsnsBlRgYUImCEBi"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/7KJkPTJ74wOyLoa8iVjHY9"
     }
   ],
   "url": "https://open.spotify.com/playlist/7DaNB3xvJ4F96C66mQgmpS"

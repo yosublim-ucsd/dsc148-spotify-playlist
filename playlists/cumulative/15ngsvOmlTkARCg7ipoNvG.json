@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Beautiful Breath",
+        "url": "https://open.spotify.com/album/1kowmDOIElLCmb8dRjgYGX"
+      },
+      "artists": [
+        {
+          "name": "Melody Lake",
+          "url": "https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61500,
+      "name": "A Beautiful Breath Arr. For Cello",
+      "url": "https://open.spotify.com/track/3FFCmiCJuQ2uvli1Lue7wQ"
+    },
+    {
+      "album": {
         "name": "Piano Echoes",
         "url": "https://open.spotify.com/album/10VMBZPmdJ9Q6otUSugzTp"
       },
@@ -203,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Adrift Again Arr. For Cello And Harp",
+        "url": "https://open.spotify.com/album/76NDq2bsTsasCeWl7B0F9j"
+      },
+      "artists": [
+        {
+          "name": "Harp Flow",
+          "url": "https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61088,
+      "name": "Adrift Again Arr. For Cello And Harp",
+      "url": "https://open.spotify.com/track/41a0CU0Mx2ueFmuyEc2EFb"
+    },
+    {
+      "album": {
         "name": "Afar",
         "url": "https://open.spotify.com/album/5mZ50YAXHwaroFOYYFHf0y"
       },
@@ -347,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Two Cello Preludes",
+        "url": "https://open.spotify.com/album/3H8S5mlfUZPgVzUoRbNhYw"
+      },
+      "artists": [
+        {
+          "name": "Cello Soul",
+          "url": "https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60821,
+      "name": "Afternoon Mist Arr. For Cello And Piano",
+      "url": "https://open.spotify.com/track/2p5Q9rgq3EYlqN7wlM60qC"
+    },
+    {
+      "album": {
         "name": "Echoes In Time (Cello Version)",
         "url": "https://open.spotify.com/album/2sELlm2BckpPszTqN2H4BY"
       },
@@ -362,6 +416,24 @@
       "duration_ms": 63892,
       "name": "Afternoon Reflections - Cello Version",
       "url": "https://open.spotify.com/track/3nqTUSmf1YXPy5KQ9QTpLR"
+    },
+    {
+      "album": {
+        "name": "Afternoon Solace",
+        "url": "https://open.spotify.com/album/1LjSV89WsvTWwoaHg2Jfm9"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61058,
+      "name": "Afternoon Solace Arr. For Cello",
+      "url": "https://open.spotify.com/track/52AbiUdhORKfAEgyhp1ZO0"
     },
     {
       "album": {
@@ -801,6 +873,24 @@
     },
     {
       "album": {
+        "name": "April Evenings",
+        "url": "https://open.spotify.com/album/4Vo0W4YdKqAVb9aC4mJIkk"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61184,
+      "name": "April Evenings Arr. For Cello",
+      "url": "https://open.spotify.com/track/7COwWeW4djcR9crkgXA0xk"
+    },
+    {
+      "album": {
         "name": "Warmth",
         "url": "https://open.spotify.com/album/7kifavgLRswEIoUyTH8anB"
       },
@@ -891,6 +981,24 @@
     },
     {
       "album": {
+        "name": "As We Wait For Midnight Arr. For Cello And Felt Piano",
+        "url": "https://open.spotify.com/album/4Wvl6m2c7HZgUcOjjPxbzn"
+      },
+      "artists": [
+        {
+          "name": "Poella",
+          "url": "https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61893,
+      "name": "As We Wait For Midnight Arr. For Cello And Felt Piano",
+      "url": "https://open.spotify.com/track/7rwJ8C1SbrULOu4HppoJi7"
+    },
+    {
+      "album": {
         "name": "Memoir Collections I - Beginnings",
         "url": "https://open.spotify.com/album/538wzM7bIQT5TAuv79sHRU"
       },
@@ -949,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Assurance",
+        "url": "https://open.spotify.com/album/5FsIdM8MWm6s8Yc3wuLRfd"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61293,
+      "name": "Assurance Arr. For Cello",
+      "url": "https://open.spotify.com/track/5Iwqc6RjY6cWmayLgunqdk"
+    },
+    {
+      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c"
       },
@@ -964,6 +1090,24 @@
       "duration_ms": 99173,
       "name": "At Last",
       "url": "https://open.spotify.com/track/1yTj91vUbgHPKQW0c0WthZ"
+    },
+    {
+      "album": {
+        "name": "August Rain Arr. For Cello And Piano",
+        "url": "https://open.spotify.com/album/7d0BbKXgeKBhI4EMoPVaZ3"
+      },
+      "artists": [
+        {
+          "name": "Poella",
+          "url": "https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61500,
+      "name": "August Rain Arr. For Cello And Piano",
+      "url": "https://open.spotify.com/track/2P4bxTEd6S2c9jvg9NoTft"
     },
     {
       "album": {
@@ -1331,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Times Arr. For Cello And Piano",
+        "url": "https://open.spotify.com/album/1RBhISVub6zNb8y3orja4Y"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Echoes",
+          "url": "https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61200,
+      "name": "Beautiful Times Arr. For Cello And Piano",
+      "url": "https://open.spotify.com/track/7qGhPMAdeDQNlmFBqIRzuD"
+    },
+    {
+      "album": {
         "name": "Waves Of Love",
         "url": "https://open.spotify.com/album/5ChteC7FRIuqgnbgb1NbxM"
       },
@@ -1580,6 +1742,42 @@
       "duration_ms": 73172,
       "name": "Beginning",
       "url": "https://open.spotify.com/track/57r2sm1717nN2koq2mC44I"
+    },
+    {
+      "album": {
+        "name": "Beige Sky",
+        "url": "https://open.spotify.com/album/6zs9E97Dmdvw5puC94Ijsq"
+      },
+      "artists": [
+        {
+          "name": "Wandering River",
+          "url": "https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61944,
+      "name": "Beige Sky",
+      "url": "https://open.spotify.com/track/6yEVMozAUmPDWNzZVOl5Be"
+    },
+    {
+      "album": {
+        "name": "Beige Sky Arr. For Cello And Felt Piano",
+        "url": "https://open.spotify.com/album/4uquIClJ9D5fxjIOp4SL7x"
+      },
+      "artists": [
+        {
+          "name": "Nature Dreams",
+          "url": "https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60270,
+      "name": "Beige Sky Arr. For Cello And Felt Piano",
+      "url": "https://open.spotify.com/track/33UDvFEg5ulqlodZgc1yvB"
     },
     {
       "album": {
@@ -1907,6 +2105,42 @@
     },
     {
       "album": {
+        "name": "Bittersweet Night",
+        "url": "https://open.spotify.com/album/3NdDNZs4Sd4DbxLsVC1cjh"
+      },
+      "artists": [
+        {
+          "name": "Beyond Stillness",
+          "url": "https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61263,
+      "name": "Bittersweet Night",
+      "url": "https://open.spotify.com/track/4eZPnO73GWdY8NJuJvmOTG"
+    },
+    {
+      "album": {
+        "name": "Evening Cello Preludes",
+        "url": "https://open.spotify.com/album/3wgd7Qtc89NsHPujTsMrAH"
+      },
+      "artists": [
+        {
+          "name": "Limelight Glow",
+          "url": "https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62032,
+      "name": "Bittersweet Night Arr. For Cello And Felt Piano",
+      "url": "https://open.spotify.com/track/621loBrjZetVrbBTgD1Fq5"
+    },
+    {
+      "album": {
         "name": "Relaxing Cello",
         "url": "https://open.spotify.com/album/10FYDKljITHunEsUCAHFUe"
       },
@@ -2141,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "Brave Moments",
+        "url": "https://open.spotify.com/album/2VYGrNinsJpNG6XZt5VQm2"
+      },
+      "artists": [
+        {
+          "name": "Limelight Glow",
+          "url": "https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60759,
+      "name": "Brave Moments - Cello Version",
+      "url": "https://open.spotify.com/track/2uXD3tjOvN5AAI8Eh2WpoU"
+    },
+    {
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/0RD0WAfWAMO72XqBMEjs9K"
       },
@@ -2354,6 +2606,24 @@
       "duration_ms": 61791,
       "name": "Calm Flow By The River",
       "url": "https://open.spotify.com/track/0eJ6oMn3Uu83hmYzbdRd9Y"
+    },
+    {
+      "album": {
+        "name": "Calm Solitude",
+        "url": "https://open.spotify.com/album/4tBAUa5sn2DudxSygRiEYN"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61119,
+      "name": "Calm Solitude Arr. For Cello",
+      "url": "https://open.spotify.com/track/0GpfLHzQs54VBsD9oYutkl"
     },
     {
       "album": {
@@ -2642,6 +2912,24 @@
       "duration_ms": 62500,
       "name": "Chapel On The Green Hill",
       "url": "https://open.spotify.com/track/4DLFJpdMWZQ2NoJT5aeP9K"
+    },
+    {
+      "album": {
+        "name": "Winter Shadows",
+        "url": "https://open.spotify.com/album/2YYMwsK9i3Qz90Kb0jmbF0"
+      },
+      "artists": [
+        {
+          "name": "Beyond Stillness",
+          "url": "https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61109,
+      "name": "Charcoal Sky Arr. For Cello And Piano",
+      "url": "https://open.spotify.com/track/432n66YZHXIJLrCkAYeSOZ"
     },
     {
       "album": {
@@ -3185,6 +3473,24 @@
     },
     {
       "album": {
+        "name": "Dark Blue Arr. For Cello And Piano",
+        "url": "https://open.spotify.com/album/3gHW3rQKdvlkQQ1PcRbUp7"
+      },
+      "artists": [
+        {
+          "name": "July Sunrise",
+          "url": "https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61041,
+      "name": "Dark Blue Arr. For Cello And Piano",
+      "url": "https://open.spotify.com/track/7Gwy1zSfiS5ziQuyXzdKFX"
+    },
+    {
+      "album": {
         "name": "Dark Mornings",
         "url": "https://open.spotify.com/album/633MF5WEebTP4154gbTUWP"
       },
@@ -3218,6 +3524,24 @@
       "duration_ms": 60661,
       "name": "Dark Sunset Arr. For Cello And Piano",
       "url": "https://open.spotify.com/track/4d126bJ6EjgBB0WYzFHjv0"
+    },
+    {
+      "album": {
+        "name": "Darkness Fell Arr. For Cello And Felt Piano",
+        "url": "https://open.spotify.com/album/4zZbSNjwl3POiHmEtvnlIO"
+      },
+      "artists": [
+        {
+          "name": "Melody Lake",
+          "url": "https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61673,
+      "name": "Darkness Fell Arr. For Cello And Felt Piano",
+      "url": "https://open.spotify.com/track/38ZVHDuaNUZKNHeNL7sJVR"
     },
     {
       "album": {
@@ -4209,6 +4533,24 @@
     },
     {
       "album": {
+        "name": "Early Evening Lullaby Arr. For Cello And Piano",
+        "url": "https://open.spotify.com/album/3n2VfVdrxTrLW0KmxK2NgQ"
+      },
+      "artists": [
+        {
+          "name": "Willow Valley",
+          "url": "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60980,
+      "name": "Early Evening Lullaby Arr. For Cello And Piano",
+      "url": "https://open.spotify.com/track/3i2pXnyjx4wOMgoEykVrtj"
+    },
+    {
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/5Eh7lUr6T3rJo5C8naqOC2"
       },
@@ -5117,6 +5459,24 @@
     },
     {
       "album": {
+        "name": "February At Midnight Arr. For Cello And Felt Piano",
+        "url": "https://open.spotify.com/album/5xNVVJjHkJlFoQZFPW6v0z"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61470,
+      "name": "February At Midnight Arr. For Cello And Felt Piano",
+      "url": "https://open.spotify.com/track/5ICKPrpKZ1v4GZBMpObfek"
+    },
+    {
+      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c"
       },
@@ -5766,6 +6126,24 @@
       "duration_ms": 66782,
       "name": "Forgiving Time",
       "url": "https://open.spotify.com/track/3iPkJtUr8qDIhTljuiJtEM"
+    },
+    {
+      "album": {
+        "name": "Forgiving Times",
+        "url": "https://open.spotify.com/album/2n0vBsVAWzmbwuM4YsYBK4"
+      },
+      "artists": [
+        {
+          "name": "Melody Lake",
+          "url": "https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60620,
+      "name": "Forgiving Times - Cello Version",
+      "url": "https://open.spotify.com/track/7uHyHMpe7bx11leH8f0PPc"
     },
     {
       "album": {
@@ -6579,6 +6957,24 @@
     },
     {
       "album": {
+        "name": "Going North",
+        "url": "https://open.spotify.com/album/0QdsSUZTUScziIFasuagEg"
+      },
+      "artists": [
+        {
+          "name": "Nature Dreams",
+          "url": "https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61395,
+      "name": "Going North",
+      "url": "https://open.spotify.com/track/08XFH7UTaVpmhK38MguwUM"
+    },
+    {
+      "album": {
         "name": "Goodness",
         "url": "https://open.spotify.com/album/3FPdizOPFtG7h2zmIO6rFz"
       },
@@ -6702,6 +7098,24 @@
       "duration_ms": 160509,
       "name": "Gratitude Revisited",
       "url": "https://open.spotify.com/track/0vhjlzfshrkzl2syNfI82q"
+    },
+    {
+      "album": {
+        "name": "Gray Reimagined",
+        "url": "https://open.spotify.com/album/14NUtNkSpj80jXQ8LVIaKl"
+      },
+      "artists": [
+        {
+          "name": "Willow Valley",
+          "url": "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61467,
+      "name": "Gray Reimagined",
+      "url": "https://open.spotify.com/track/1tiTBWOFUVM4kjNbAVhkgg"
     },
     {
       "album": {
@@ -7717,6 +8131,24 @@
     },
     {
       "album": {
+        "name": "La Tristesse Arr. For Cello And Grand Piano",
+        "url": "https://open.spotify.com/album/1L4bQzka3uzRIyjnQiVoRr"
+      },
+      "artists": [
+        {
+          "name": "July Sunrise",
+          "url": "https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61149,
+      "name": "La Tristesse Arr. For Cello And Grand Piano",
+      "url": "https://open.spotify.com/track/1t962fbBLINcGNhvMS5YHW"
+    },
+    {
+      "album": {
         "name": "Lakeside Glow",
         "url": "https://open.spotify.com/album/1TtRW8NpfHl3xBAXVwlcpC"
       },
@@ -8059,6 +8491,24 @@
     },
     {
       "album": {
+        "name": "Light Sky",
+        "url": "https://open.spotify.com/album/2iWP1dlviywXYMZbFkc8DC"
+      },
+      "artists": [
+        {
+          "name": "Cello Soul",
+          "url": "https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Light Sky - Cello Version",
+      "url": "https://open.spotify.com/track/1Yyzuz7J4m9ZXdQIekxATg"
+    },
+    {
+      "album": {
         "name": "Soft Cello",
         "url": "https://open.spotify.com/album/2e8LTImP3X4WN7mQBAIRCO"
       },
@@ -8128,6 +8578,24 @@
       "duration_ms": 62000,
       "name": "Lightness Appears",
       "url": "https://open.spotify.com/track/5NloHLffvoZluBiGgy6xiq"
+    },
+    {
+      "album": {
+        "name": "Little Adventures Arr. For Cello And Piano",
+        "url": "https://open.spotify.com/album/7CpmYNfe9eEmOf7m18a9ft"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Echoes",
+          "url": "https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60851,
+      "name": "Little Adventures Arr. For Cello And Piano",
+      "url": "https://open.spotify.com/track/6F3MRLVJ0XNSPIIVshThOd"
     },
     {
       "album": {
@@ -8473,6 +8941,24 @@
     },
     {
       "album": {
+        "name": "Lullaby At Midnight",
+        "url": "https://open.spotify.com/album/3howiaVOHUe3DJAGsDZSJq"
+      },
+      "artists": [
+        {
+          "name": "July Sunrise",
+          "url": "https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61600,
+      "name": "Lullaby At Midnight - Cello Version",
+      "url": "https://open.spotify.com/track/2mleqxhDjX4bsNhlyTFUp6"
+    },
+    {
+      "album": {
         "name": "Magical",
         "url": "https://open.spotify.com/album/2ortyFgkiyTydcY0pvitre"
       },
@@ -8693,6 +9179,24 @@
     },
     {
       "album": {
+        "name": "Two Cello Preludes",
+        "url": "https://open.spotify.com/album/3H8S5mlfUZPgVzUoRbNhYw"
+      },
+      "artists": [
+        {
+          "name": "Cello Soul",
+          "url": "https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62162,
+      "name": "Midnight In March Arr. For Cello And Piano",
+      "url": "https://open.spotify.com/track/44XllVUtJ0uC7q2rbdNmxU"
+    },
+    {
+      "album": {
         "name": "Midnight Solitude",
         "url": "https://open.spotify.com/album/0eZqlqjFa9hsnCYKdTYriQ"
       },
@@ -8909,6 +9413,24 @@
     },
     {
       "album": {
+        "name": "Winter Shadows",
+        "url": "https://open.spotify.com/album/2YYMwsK9i3Qz90Kb0jmbF0"
+      },
+      "artists": [
+        {
+          "name": "Beyond Stillness",
+          "url": "https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61178,
+      "name": "Moonshine Arr. For Cello And Piano",
+      "url": "https://open.spotify.com/track/0Eg7oFTySCgBzJ35Kis4vD"
+    },
+    {
+      "album": {
         "name": "Morning Calm",
         "url": "https://open.spotify.com/album/1Pcrf4XQXZIKjTRn6HdcAN"
       },
@@ -8960,6 +9482,24 @@
       "duration_ms": 204000,
       "name": "Morning Prayer",
       "url": "https://open.spotify.com/track/4imKugn0XXrrp7D04eJqpy"
+    },
+    {
+      "album": {
+        "name": "Mountain Dreaming",
+        "url": "https://open.spotify.com/album/4MHw4NrRyNQVlFIUgN6PKU"
+      },
+      "artists": [
+        {
+          "name": "Nature Dreams",
+          "url": "https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61263,
+      "name": "Mountain Dreaming Arr. For Cello",
+      "url": "https://open.spotify.com/track/5ICw6zequAvVp3wiEu1APj"
     },
     {
       "album": {
@@ -9122,6 +9662,24 @@
       "duration_ms": 62400,
       "name": "Mysterious Hope",
       "url": "https://open.spotify.com/track/5TIdwYmfkKXkiXB2K4Wlkl"
+    },
+    {
+      "album": {
+        "name": "Mystery Within Arr. For Cello And Felt Piano",
+        "url": "https://open.spotify.com/album/1GyDL5FgPWUKWMXjNV5R8b"
+      },
+      "artists": [
+        {
+          "name": "Cello Soul",
+          "url": "https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60797,
+      "name": "Mystery Within Arr. For Cello And Felt Piano",
+      "url": "https://open.spotify.com/track/4Q3b9GTYQgvwv9c3UIrPaE"
     },
     {
       "album": {
@@ -9359,6 +9917,24 @@
     },
     {
       "album": {
+        "name": "Night Arr. For Cello And Felt Piano",
+        "url": "https://open.spotify.com/album/1AG0XSja4iLG0JRDaesFt1"
+      },
+      "artists": [
+        {
+          "name": "Limelight Glow",
+          "url": "https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61468,
+      "name": "Night Arr. For Cello And Felt Piano",
+      "url": "https://open.spotify.com/track/4rrPxD6u2Zxn8B5fyb4qdr"
+    },
+    {
+      "album": {
         "name": "Eternal Sky",
         "url": "https://open.spotify.com/album/1gkgnmM8Sb6C5pSjR9MYfX"
       },
@@ -9467,6 +10043,24 @@
     },
     {
       "album": {
+        "name": "Cello In The Night",
+        "url": "https://open.spotify.com/album/5u9baQ1xJG6ATmeGrXmeF1"
+      },
+      "artists": [
+        {
+          "name": "Harmony Night",
+          "url": "https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60774,
+      "name": "Nostalgic Drops Arr. For Cello And Felt Piano",
+      "url": "https://open.spotify.com/track/5UHgvCZZQ1p3TWkbZ7GeMJ"
+    },
+    {
+      "album": {
         "name": "Nostalgic Sentiment",
         "url": "https://open.spotify.com/album/0NIObh3asX3qpX7tV2iVtO"
       },
@@ -9558,6 +10152,24 @@
       "duration_ms": 171064,
       "name": "Nothing But You And I",
       "url": "https://open.spotify.com/track/0qy0m8Qx0GqJih9QVaGLUG"
+    },
+    {
+      "album": {
+        "name": "November",
+        "url": "https://open.spotify.com/album/2BqWlWVTsXtdbv992fVhHQ"
+      },
+      "artists": [
+        {
+          "name": "Eternal Spring",
+          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61484,
+      "name": "November Arr. For Cello",
+      "url": "https://open.spotify.com/track/6xSzfVLucapWBYz6MwQwOF"
     },
     {
       "album": {
@@ -9810,6 +10422,42 @@
       "duration_ms": 145758,
       "name": "Orlando's Bloom",
       "url": "https://open.spotify.com/track/2tf0u3pAmrKiJdjiDAtiDm"
+    },
+    {
+      "album": {
+        "name": "Our Contemplations",
+        "url": "https://open.spotify.com/album/7f9GIwRqpFSzMpAUOAMwi8"
+      },
+      "artists": [
+        {
+          "name": "Beyond Stillness",
+          "url": "https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62423,
+      "name": "Our Contemplations",
+      "url": "https://open.spotify.com/track/1R1L07hGUn0wBedRsLs4Qh"
+    },
+    {
+      "album": {
+        "name": "Evening Cello Preludes",
+        "url": "https://open.spotify.com/album/3wgd7Qtc89NsHPujTsMrAH"
+      },
+      "artists": [
+        {
+          "name": "Limelight Glow",
+          "url": "https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62906,
+      "name": "Our Contemplations Arr. For Cello And Felt Piano",
+      "url": "https://open.spotify.com/track/55iTFgV44G8RPYwOeCloDh"
     },
     {
       "album": {
@@ -10649,6 +11297,24 @@
     },
     {
       "album": {
+        "name": "Purple Mist Arr. For Cello And Harp",
+        "url": "https://open.spotify.com/album/1c2HdpBRvAylpQisT15kJ6"
+      },
+      "artists": [
+        {
+          "name": "Harp Flow",
+          "url": "https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61814,
+      "name": "Purple Mist Arr. For Cello And Harp",
+      "url": "https://open.spotify.com/track/7h8CWI91r9i5ifK4NJ5IeQ"
+    },
+    {
+      "album": {
         "name": "Nostalgic, Vol. 1",
         "url": "https://open.spotify.com/album/1Dk8ujbZK0JWtk1h3A9sd1"
       },
@@ -11395,6 +12061,24 @@
     },
     {
       "album": {
+        "name": "Returning Back Home Again",
+        "url": "https://open.spotify.com/album/7mEU5NFdq5cdyBDGfON1Pe"
+      },
+      "artists": [
+        {
+          "name": "Willow Valley",
+          "url": "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61028,
+      "name": "Returning Back Home Again",
+      "url": "https://open.spotify.com/track/2Zl5D0Wb05Xrf9dPVShjKQ"
+    },
+    {
+      "album": {
         "name": "Returning to You Reimagined",
         "url": "https://open.spotify.com/album/2qEDYnvjIfIONBbuu5aBAm"
       },
@@ -11777,6 +12461,24 @@
     },
     {
       "album": {
+        "name": "Sacred Space Lullaby Arr. For Cello And Piano",
+        "url": "https://open.spotify.com/album/48F4E8KioglUDbGjRUh5yN"
+      },
+      "artists": [
+        {
+          "name": "Willow Valley",
+          "url": "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61100,
+      "name": "Sacred Space Lullaby Arr. For Cello And Piano",
+      "url": "https://open.spotify.com/track/6iTl2zoNsfaTmY5CQqg57b"
+    },
+    {
+      "album": {
         "name": "Sadness Appears",
         "url": "https://open.spotify.com/album/35N17nElBBi47YLVmI2cOX"
       },
@@ -11828,6 +12530,24 @@
       "duration_ms": 135272,
       "name": "Saman",
       "url": "https://open.spotify.com/track/2ljwAMOpgxhX0961LmvIm7"
+    },
+    {
+      "album": {
+        "name": "Sand Arr. For Cello And Felt Piano",
+        "url": "https://open.spotify.com/album/3CVFHbJXPmIXtvQd5BvQCn"
+      },
+      "artists": [
+        {
+          "name": "Eternal Spring",
+          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61355,
+      "name": "Sand Arr. For Cello And Felt Piano",
+      "url": "https://open.spotify.com/track/14ii5C03mrEyYoOFlVsOcL"
     },
     {
       "album": {
@@ -12098,6 +12818,24 @@
       "duration_ms": 60491,
       "name": "Serenity In Spring",
       "url": "https://open.spotify.com/track/0a00KnbzsE9kGcgzvmtRsP"
+    },
+    {
+      "album": {
+        "name": "Shaded Arr. For Cello And Grand Piano",
+        "url": "https://open.spotify.com/album/2DnUagol1DWlhG3JUGqgGI"
+      },
+      "artists": [
+        {
+          "name": "Melody Lake",
+          "url": "https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61759,
+      "name": "Shaded Arr. For Cello And Grand Piano",
+      "url": "https://open.spotify.com/track/3hVqMfLAdYnA9TUd9ypq4F"
     },
     {
       "album": {
@@ -12533,6 +13271,24 @@
     },
     {
       "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/4WLwsjuSi5qAgk9anYKGd1"
+      },
+      "artists": [
+        {
+          "name": "Willow Valley",
+          "url": "https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60504,
+      "name": "Slow Motion Arr. For Cello",
+      "url": "https://open.spotify.com/track/2FPMVNd9Ib7U9iwTiBThF4"
+    },
+    {
+      "album": {
         "name": "Seasons Of Love",
         "url": "https://open.spotify.com/album/5kEODQtm9tt4eDxkV6MXvr"
       },
@@ -12584,6 +13340,24 @@
       "duration_ms": 87000,
       "name": "Slowly Emerging",
       "url": "https://open.spotify.com/track/2OdSMZgPc75kuWPevZ8Bi5"
+    },
+    {
+      "album": {
+        "name": "Winter Shadows",
+        "url": "https://open.spotify.com/album/2YYMwsK9i3Qz90Kb0jmbF0"
+      },
+      "artists": [
+        {
+          "name": "Beyond Stillness",
+          "url": "https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61057,
+      "name": "Slowly Fading Away Arr. For Cello And Piano",
+      "url": "https://open.spotify.com/track/3QLJVgUkvxIInpmHrpu0A6"
     },
     {
       "album": {
@@ -12897,6 +13671,24 @@
     },
     {
       "album": {
+        "name": "Cello In The Night",
+        "url": "https://open.spotify.com/album/5u9baQ1xJG6ATmeGrXmeF1"
+      },
+      "artists": [
+        {
+          "name": "Harmony Night",
+          "url": "https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60895,
+      "name": "Solemn Dream Arr. For Cello And Felt Piano",
+      "url": "https://open.spotify.com/track/0RO8k3TrQRSXXxgkGt2gOl"
+    },
+    {
+      "album": {
         "name": "Ambient Season",
         "url": "https://open.spotify.com/album/2ynfEYLK6MAKvRUutpCSpF"
       },
@@ -13056,6 +13848,24 @@
       "duration_ms": 61542,
       "name": "Soulful Wandering",
       "url": "https://open.spotify.com/track/071OP8chsJQWGLhi3kHoVy"
+    },
+    {
+      "album": {
+        "name": "Soulful Wandering",
+        "url": "https://open.spotify.com/album/3p20sCYovM0ttVnpsv94OJ"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60682,
+      "name": "Soulful Wandering Arr. For Cello",
+      "url": "https://open.spotify.com/track/2gWjtXdQUd4DcVqpIX50PL"
     },
     {
       "album": {
@@ -13689,6 +14499,24 @@
     },
     {
       "album": {
+        "name": "Sunday Evening Lullaby Arr. For Piano",
+        "url": "https://open.spotify.com/album/5khB6erbDksVm5rqscH2nb"
+      },
+      "artists": [
+        {
+          "name": "Harmony Night",
+          "url": "https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61951,
+      "name": "Sunday Evening Lullaby Arr. For Piano",
+      "url": "https://open.spotify.com/track/77hSDP9cLsu45qYRDl1IKQ"
+    },
+    {
+      "album": {
         "name": "Sunlight In My Heart",
         "url": "https://open.spotify.com/album/1PzU1ay4YOvVLbPPvAkWLn"
       },
@@ -14031,6 +14859,24 @@
     },
     {
       "album": {
+        "name": "The End Of The Day Arr. For Cello",
+        "url": "https://open.spotify.com/album/3QAM6VpqVaTGeYGMf6o1qJ"
+      },
+      "artists": [
+        {
+          "name": "Slow Rising Hope",
+          "url": "https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60789,
+      "name": "The End Of The Day Arr. For Cello",
+      "url": "https://open.spotify.com/track/4qulcNFzSoUfIeZExTajJ6"
+    },
+    {
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/0FVU6l8yPL1RaowRNaGux0"
       },
@@ -14370,6 +15216,24 @@
       "duration_ms": 62566,
       "name": "Time And Light",
       "url": "https://open.spotify.com/track/0cpsAC1TOA0H9gTEjbUBzS"
+    },
+    {
+      "album": {
+        "name": "Time Stands Still",
+        "url": "https://open.spotify.com/album/2fLpTJi1r9ujgNMlPsEYi0"
+      },
+      "artists": [
+        {
+          "name": "Eternal Spring",
+          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60231,
+      "name": "Time Stands Still Arr. For Cello",
+      "url": "https://open.spotify.com/track/5LKnH2PMgivmY1DaU0KInM"
     },
     {
       "album": {
@@ -14874,6 +15738,24 @@
       "duration_ms": 84900,
       "name": "Unfolding",
       "url": "https://open.spotify.com/track/68hKzP7iYe0x46c3XlO9my"
+    },
+    {
+      "album": {
+        "name": "Unforgiven (Cello Version)",
+        "url": "https://open.spotify.com/album/0TTGS9OhuIYndOwW4ZFTof"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61363,
+      "name": "Unforgiven - Cello Version",
+      "url": "https://open.spotify.com/track/4eMRnZoY0hKsNoMXfBhFc7"
     },
     {
       "album": {
@@ -15493,6 +16375,24 @@
     },
     {
       "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/5YIoCRadyw0WqLB0MM9l2E"
+      },
+      "artists": [
+        {
+          "name": "July Sunrise",
+          "url": "https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61250,
+      "name": "Water Arr. For Cello",
+      "url": "https://open.spotify.com/track/1qNQ9g8t5zoxbkRyPFgX3O"
+    },
+    {
+      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/22TBoyrFvpJ9idJPCr1jD1"
       },
@@ -15839,6 +16739,24 @@
     },
     {
       "album": {
+        "name": "When We Fade Arr. For Cello And Piano",
+        "url": "https://open.spotify.com/album/1pF9m2qqYZ03ufQRo5jctY"
+      },
+      "artists": [
+        {
+          "name": "Wandering River",
+          "url": "https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60980,
+      "name": "When We Fade Arr. For Cello And Piano",
+      "url": "https://open.spotify.com/track/6KhOJGYinFwDvI2idw2ExO"
+    },
+    {
+      "album": {
         "name": "Acceptance",
         "url": "https://open.spotify.com/album/61QvkPs87o3DpYT2oanzqz"
       },
@@ -16106,6 +17024,24 @@
       "duration_ms": 103208,
       "name": "Winter Sunshine",
       "url": "https://open.spotify.com/track/3jK42lBL023nhRIzsFqIX2"
+    },
+    {
+      "album": {
+        "name": "Wish Me Well",
+        "url": "https://open.spotify.com/album/4bwfmpW4HymYcdeqeSnGy4"
+      },
+      "artists": [
+        {
+          "name": "Beyond Stillness",
+          "url": "https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61057,
+      "name": "Wish Me Well Arr. For Cello",
+      "url": "https://open.spotify.com/track/6QLM2awcrALis6qalmZcWk"
     },
     {
       "album": {

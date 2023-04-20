@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > Chill tracks to vibe or dance to in 2023\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-[Selected.](https://open.spotify.com/user/selectedbase) - 1,072,010 likes - 110 songs - 5 hr 52 min
+[Selected.](https://open.spotify.com/user/selectedbase) - 1,072,350 likes - 110 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 | 29 | [Tainted Love](https://open.spotify.com/track/3ponDZeMH4ONWpPCyfrJ5L) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Queen D](https://open.spotify.com/artist/6DP0yD9AqeiK3V57URKt4W) | [Tainted Love](https://open.spotify.com/album/65CUZnzGEGixgBPSP4GTnQ) | 3:04 |
 | 30 | [Clouds](https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR) | 2:38 |
 | 31 | [Closer To You](https://open.spotify.com/track/09CanZmO6paS3VIPtoVJsh) | [Lucas Nord](https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd) | [Closer To You](https://open.spotify.com/album/7406FZf3JxgLG19sskEfsG) | 2:46 |
-| 32 | [Fade \(feat\. Shells\)](https://open.spotify.com/track/0wbqBeCFHHDWaaUtZCmdDN) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Fade \(feat\. SHELLS\)](https://open.spotify.com/album/3kXaZDvNkarO4hu03IuX1y) | 3:43 |
+| 32 | [Fade \(feat\. SHELLS\)](https://open.spotify.com/track/0wbqBeCFHHDWaaUtZCmdDN) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Fade \(feat\. SHELLS\)](https://open.spotify.com/album/3kXaZDvNkarO4hu03IuX1y) | 3:43 |
 | 33 | [Times Are Changing](https://open.spotify.com/track/2ekvSQupVG7X88fjjdYScf) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Times Are Changing](https://open.spotify.com/album/4YGTju8vgSfd7unczk8PsE) | 2:38 |
 | 34 | [What You Say](https://open.spotify.com/track/2mkwcQDjwb9ZYdLECzjWYt) | [Frankie Polari](https://open.spotify.com/artist/1lYdcy4gTW1btf3rYLARN9), [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO) | [What You Say](https://open.spotify.com/album/7vIsH2fkaKrUaAvc1wZruE) | 2:38 |
 | 35 | [Harder We Fall](https://open.spotify.com/track/675ENLQoyLkIzEGHm5FAqe) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [Austin Tate](https://open.spotify.com/artist/3Y0jgmHMAPgxpjuiEloPEJ) | [Harder We Fall](https://open.spotify.com/album/2mfGad0YRMJpNhi79pERvn) | 2:30 |

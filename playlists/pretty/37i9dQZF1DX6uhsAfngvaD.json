@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 279803,
+  "num_followers": 279896,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjAwMCwwMDAwMDAwMDA1ZDNlM2YzZWY3ZjEzMTU0YTdjMDc4NzU5MGZlZTFl",
+  "snapshot_id": "MTY3OTYxNjAwMCwwMDAwMDAwMDJiYjE2YjY1NGM1OGJjMDcyMmE3ZWUzMzczYTA4Zjhl",
   "tracks": [
     {
       "added_at": "2023-03-24 00:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Shadam",
-        "url": "https://open.spotify.com/album/3VjokSh7ZReeBII2o5ORAS"
-      },
-      "artists": [
-        {
-          "name": "Camp Claude",
-          "url": "https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB"
-        }
-      ],
-      "duration_ms": 234760,
-      "name": "Shadam",
-      "url": "https://open.spotify.com/track/69Fn2if8AVxUGC3khEJHDM"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
       },
@@ -675,34 +659,18 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Notice Me",
-        "url": "https://open.spotify.com/album/1kOhuN7E5bWjkfUUu1BDID"
+        "name": "Shadam",
+        "url": "https://open.spotify.com/album/3VjokSh7ZReeBII2o5ORAS"
       },
       "artists": [
         {
-          "name": "Peach Luffe",
-          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+          "name": "Camp Claude",
+          "url": "https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB"
         }
       ],
-      "duration_ms": 152307,
-      "name": "Notice Me",
-      "url": "https://open.spotify.com/track/0QvmhbIf4rbeRx4DzAbIce"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
-        "name": "number own",
-        "url": "https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c"
-      },
-      "artists": [
-        {
-          "name": "hanbee",
-          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
-        }
-      ],
-      "duration_ms": 159032,
-      "name": "number own",
-      "url": "https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF"
+      "duration_ms": 234760,
+      "name": "Shadam",
+      "url": "https://open.spotify.com/track/69Fn2if8AVxUGC3khEJHDM"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -723,6 +691,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "Notice Me",
+        "url": "https://open.spotify.com/album/1kOhuN7E5bWjkfUUu1BDID"
+      },
+      "artists": [
+        {
+          "name": "Peach Luffe",
+          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+        }
+      ],
+      "duration_ms": 152307,
+      "name": "Notice Me",
+      "url": "https://open.spotify.com/track/0QvmhbIf4rbeRx4DzAbIce"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "The world within our bedrooms",
         "url": "https://open.spotify.com/album/1b9X8S1gflcRRRfhTHcxs3"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 154533,
       "name": "Vibrate",
       "url": "https://open.spotify.com/track/5amx35Lnc2tzpCAhNjSg5c"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "number own",
+        "url": "https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c"
+      },
+      "artists": [
+        {
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+        }
+      ],
+      "duration_ms": 159032,
+      "name": "number own",
+      "url": "https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Music for the Future",
-        "url": "https://open.spotify.com/album/2ZujbhV7NkcCbJoDXgREJm"
-      },
-      "artists": [
-        {
-          "name": "LANNDS",
-          "url": "https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy"
-        }
-      ],
-      "duration_ms": 279423,
-      "name": "Overseas/BACK 2 U",
-      "url": "https://open.spotify.com/track/0lb6PK0emykiClk9cB1Gw2"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "Morningside",
         "url": "https://open.spotify.com/album/21Ld2tSHSxYFkj7QHTHFQB"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 240736,
       "name": "Jennifer",
       "url": "https://open.spotify.com/track/2ngc5mFakdLVt3xFcNHqQW"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "Music for the Future",
+        "url": "https://open.spotify.com/album/2ZujbhV7NkcCbJoDXgREJm"
+      },
+      "artists": [
+        {
+          "name": "LANNDS",
+          "url": "https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy"
+        }
+      ],
+      "duration_ms": 279423,
+      "name": "Overseas/BACK 2 U",
+      "url": "https://open.spotify.com/track/0lb6PK0emykiClk9cB1Gw2"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "If I Come Home",
+        "url": "https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45"
+      },
+      "artists": [
+        {
+          "name": "lil rozey",
+          "url": "https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u"
+        }
+      ],
+      "duration_ms": 216145,
+      "name": "If I Come Home",
+      "url": "https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "Liquid",
         "url": "https://open.spotify.com/album/4dsMSKFHn0ICTkyhdslZps"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 213480,
       "name": "Opportunity",
       "url": "https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
-        "name": "If I Come Home",
-        "url": "https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45"
-      },
-      "artists": [
-        {
-          "name": "lil rozey",
-          "url": "https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u"
-        }
-      ],
-      "duration_ms": 216145,
-      "name": "If I Come Home",
-      "url": "https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "summer bruises",
+        "url": "https://open.spotify.com/album/7lVNLphRN8jo69BM5UmjQI"
+      },
+      "artists": [
+        {
+          "name": "april june",
+          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
+        }
+      ],
+      "duration_ms": 174387,
+      "name": "summer bruises",
+      "url": "https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "George Clanton and Nick Hexum",
         "url": "https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 217939,
       "name": "Driving in My Car",
       "url": "https://open.spotify.com/track/4NcWigh0uMXPKxCdesQWxG"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
-        "name": "summer bruises",
-        "url": "https://open.spotify.com/album/7lVNLphRN8jo69BM5UmjQI"
-      },
-      "artists": [
-        {
-          "name": "april june",
-          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
-        }
-      ],
-      "duration_ms": 174387,
-      "name": "summer bruises",
-      "url": "https://open.spotify.com/track/2fjE9A6haImVXETd1B4PDs"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "Heavy Days",
+        "url": "https://open.spotify.com/album/5B2eSjpDpzAmIxfpGndPHe"
+      },
+      "artists": [
+        {
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+        }
+      ],
+      "duration_ms": 227683,
+      "name": "Heavy Days",
+      "url": "https://open.spotify.com/track/0nGmz6gDOZdRh0rYd623P9"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "Memoria",
         "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 195225,
       "name": "Picnic In The Rain",
       "url": "https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
-        "name": "Heavy Days",
-        "url": "https://open.spotify.com/album/5B2eSjpDpzAmIxfpGndPHe"
-      },
-      "artists": [
-        {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
-        }
-      ],
-      "duration_ms": 227683,
-      "name": "Heavy Days",
-      "url": "https://open.spotify.com/track/0nGmz6gDOZdRh0rYd623P9"
     },
     {
       "added_at": "2023-03-24 00:00:00",

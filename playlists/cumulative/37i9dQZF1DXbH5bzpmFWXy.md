@@ -4,7 +4,7 @@
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. Luis R Conriquez & Beto Sierra en portada.
 
-267 songs - 14 hr 56 min
+268 songs - 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,8 @@
 | [Kódigos](https://open.spotify.com/track/4UmrVmSgfJPsYPqUdVxeYJ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Kódigos](https://open.spotify.com/album/3UPYvtNRePhVMLVrxR5a8i) | 3:47 | 2022-06-01 | 2022-09-01 |
 | [L\-Gante: RKT SESSIONS \#1](https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi) | [Papu DJ](https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante: RKT SESSIONS \#1](https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG) | 3:01 | 2022-06-01 | 2022-09-01 |
 | [La Barda](https://open.spotify.com/track/0pi1spZ3Upm2gXb1OVDq5y) | [Grupo 360](https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC) | [La Barda](https://open.spotify.com/album/1nJyjfqugNuIxK5e1b4svo) | 4:28 | 2022-06-01 | 2022-11-08 |
-| [La Bebe](https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76) | 3:43 | 2023-01-27 |  |
+| [La Bebe](https://open.spotify.com/track/6odrHMSLjP3aOXC4ipKUC6) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [LPM](https://open.spotify.com/album/0CPD6yP11H86RohYYNBD76) | 3:43 | 2023-01-27 | 2023-04-20 |
+| [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-04-19 |  |
 | [La Cruz Del Recuerdo](https://open.spotify.com/track/7ngb9kR0CDFSOXBW1Z8WJx) | [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4), [Abril Mancilla](https://open.spotify.com/artist/5BavlViN948RmxrVtJtOMC), [Jr López](https://open.spotify.com/artist/1oXMq3RQFNAuWRmDZJZjRO) | [La Cruz Del Recuerdo](https://open.spotify.com/album/31vyRCl4A8iLwyiEUaJ5z2) | 2:56 | 2022-12-05 | 2023-02-04 |
 | [La Durango](https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:10 | 2022-06-01 | 2022-11-08 |
 | [La Jumpa](https://open.spotify.com/track/2mnXxnrX5vCGolNkaFvVeM) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 4:15 | 2022-12-05 | 2023-02-04 |

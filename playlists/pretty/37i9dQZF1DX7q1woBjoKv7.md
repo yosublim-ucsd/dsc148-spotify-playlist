@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: Hit Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,172 likes - 66 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,201 likes - 66 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

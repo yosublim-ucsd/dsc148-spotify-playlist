@@ -1,12 +1,12 @@
 {
   "description": "Concentrate comfortably with sweet k-pop accompaniments without lyrics. (\uac00\uc0ac \uc5c6\ub294 \uac10\ubbf8\ub85c\uc6b4 \uac00\uc694 \ubc18\uc8fc\uace1\ub4e4\uacfc \ud3b8\uc548\ud558\uac8c \uc9d1\uc911\ud558\uc138\uc694.)",
-  "num_followers": 6357,
+  "num_followers": 6365,
   "original_name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzM5NjQ1MywwMDAwMDAwMDI2OTM3MTNiZTlmY2E0NzU0OTBkODBjMzZkNTA2ZDhk",
+  "snapshot_id": "MTY2NzM5NjQ1MywwMDAwMDAwMDZlMzE3ZTg4NGVjZWE3ZjBkYmQ5Y2M3OTAyMDZkYTFk",
   "tracks": [
     {
       "added_at": "2022-11-02 13:40:53",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Chicago Typewriter (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/7wScVzTeRnlBcqlSq96ghT"
-      },
-      "artists": [
-        {
-          "name": "Kevin Oh",
-          "url": "https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "Be My Light (Inst.)",
-      "url": "https://open.spotify.com/track/3MnViwjwY7UHy70Vre4lIU"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Prison Playbook (Original Television Soundtrack), Pt. 4",
         "url": "https://open.spotify.com/album/61keMFoOYVGIAJmDUtilZB"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 245367,
       "name": "Bravo, My Life! - Instrumental",
       "url": "https://open.spotify.com/track/7mPhNWuAeE4HNScrXCdPj1"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Chicago Typewriter (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/7wScVzTeRnlBcqlSq96ghT"
+      },
+      "artists": [
+        {
+          "name": "Kevin Oh",
+          "url": "https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy"
+        }
+      ],
+      "duration_ms": 228413,
+      "name": "Be My Light (Inst.)",
+      "url": "https://open.spotify.com/track/3MnViwjwY7UHy70Vre4lIU"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Mystic Pop-up Bar, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6XwT8iVf1vomZd0BeZEjJL"
-      },
-      "artists": [
-        {
-          "name": "YOOK SUNG JAE",
-          "url": "https://open.spotify.com/artist/2CTby8c4ravq3bTYDqB0yN"
-        }
-      ],
-      "duration_ms": 227413,
-      "name": "Love Resembles Memories - Instrumental",
-      "url": "https://open.spotify.com/track/4TSaLllN793GqbJ3tk7Lju"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.3",
         "url": "https://open.spotify.com/album/3P3uCfolgmfnepYcbg8HmU"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 226040,
       "name": "My Tale - inst.",
       "url": "https://open.spotify.com/track/0ztk0XIgjQxvdyN0AIW18g"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Mystic Pop-up Bar, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6XwT8iVf1vomZd0BeZEjJL"
+      },
+      "artists": [
+        {
+          "name": "YOOK SUNG JAE",
+          "url": "https://open.spotify.com/artist/2CTby8c4ravq3bTYDqB0yN"
+        }
+      ],
+      "duration_ms": 227413,
+      "name": "Love Resembles Memories - Instrumental",
+      "url": "https://open.spotify.com/track/4TSaLllN793GqbJ3tk7Lju"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1231,22 +1231,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Between Us (Feat. OVCOCO)",
-        "url": "https://open.spotify.com/album/3XGjYjce5dOqS0vWknvUzs"
+        "name": "Kkondae Intern OST Part 3",
+        "url": "https://open.spotify.com/album/6xrBdBOABBLTWdtWPH1ITO"
       },
       "artists": [
         {
-          "name": "WEN",
-          "url": "https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE"
-        },
-        {
-          "name": "OVCOCO",
-          "url": "https://open.spotify.com/artist/5z1P1AsCpcqWjw3XUeQght"
+          "name": "Kim Heejae",
+          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
         }
       ],
-      "duration_ms": 199304,
-      "name": "Between Us (Feat. OVCOCO) - Instrumental",
-      "url": "https://open.spotify.com/track/6TEorNgHxGO14PUvTXEd9F"
+      "duration_ms": 307426,
+      "name": "Uphill (Inst.)",
+      "url": "https://open.spotify.com/track/7fgm9KiYfZs1Aj0VhjHSoc"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1267,18 +1263,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Kkondae Intern OST Part 3",
-        "url": "https://open.spotify.com/album/6xrBdBOABBLTWdtWPH1ITO"
+        "name": "Between Us (Feat. OVCOCO)",
+        "url": "https://open.spotify.com/album/3XGjYjce5dOqS0vWknvUzs"
       },
       "artists": [
         {
-          "name": "Kim Heejae",
-          "url": "https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5"
+          "name": "WEN",
+          "url": "https://open.spotify.com/artist/0FXbobEfUaIn6Z95FSJBIE"
+        },
+        {
+          "name": "OVCOCO",
+          "url": "https://open.spotify.com/artist/5z1P1AsCpcqWjw3XUeQght"
         }
       ],
-      "duration_ms": 307426,
-      "name": "Uphill (Inst.)",
-      "url": "https://open.spotify.com/track/7fgm9KiYfZs1Aj0VhjHSoc"
+      "duration_ms": 199304,
+      "name": "Between Us (Feat. OVCOCO) - Instrumental",
+      "url": "https://open.spotify.com/track/6TEorNgHxGO14PUvTXEd9F"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1308,9 +1308,9 @@
           "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
         }
       ],
-      "duration_ms": 274917,
-      "name": "If You",
-      "url": "https://open.spotify.com/track/66gspCxMuMxcocmXH626Q1"
+      "duration_ms": 249042,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/0LdxomJ9KOpvgcnYWOUdbl"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1340,9 +1340,9 @@
           "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
         }
       ],
-      "duration_ms": 249042,
-      "name": "Epiphany",
-      "url": "https://open.spotify.com/track/0LdxomJ9KOpvgcnYWOUdbl"
+      "duration_ms": 274917,
+      "name": "If You",
+      "url": "https://open.spotify.com/track/66gspCxMuMxcocmXH626Q1"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1500,9 +1500,9 @@
           "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
         }
       ],
-      "duration_ms": 300840,
-      "name": "Into The New World",
-      "url": "https://open.spotify.com/track/5ECj49QATlIZ13JP58SVW8"
+      "duration_ms": 229415,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/79UofKF9hZbHO0znW7JARC"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1516,9 +1516,9 @@
           "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
         }
       ],
-      "duration_ms": 229415,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/79UofKF9hZbHO0znW7JARC"
+      "duration_ms": 300840,
+      "name": "Into The New World",
+      "url": "https://open.spotify.com/track/5ECj49QATlIZ13JP58SVW8"
     },
     {
       "added_at": "2022-11-02 13:40:53",

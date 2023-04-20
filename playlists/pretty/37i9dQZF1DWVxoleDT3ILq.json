@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Vicenta",
-  "num_followers": 127818,
+  "num_followers": 127824,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQxNjU5OSwwMDAwMDAwMGYxNWVhYzcxMGZmZWU4NmU0YzFhNGY1OWM0Y2EyMWMy",
+  "snapshot_id": "MTY4MTQxNjU5OSwwMDAwMDAwMGRmZjliMWJjMWVhOGUzZjBjNTgzMWE1MWVlN2RmNWM4",
   "tracks": [
     {
       "added_at": "2023-04-13 20:09:59",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-04-13 20:09:59",
       "album": {
-        "name": "\u00cdndigo",
-        "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 229740,
-      "name": "Pasos de Gigantes",
-      "url": "https://open.spotify.com/track/1DJQMFVIMbECJ4ElDoSYth"
-    },
-    {
-      "added_at": "2023-04-13 20:09:59",
-      "album": {
         "name": "<3",
         "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 142106,
       "name": "<3",
       "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
+    },
+    {
+      "added_at": "2023-04-13 20:09:59",
+      "album": {
+        "name": "\u00cdndigo",
+        "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 229740,
+      "name": "Pasos de Gigantes",
+      "url": "https://open.spotify.com/track/1DJQMFVIMbECJ4ElDoSYth"
     },
     {
       "added_at": "2023-04-13 20:09:59",
@@ -1175,22 +1175,22 @@
     {
       "added_at": "2023-04-13 20:09:59",
       "album": {
-        "name": "TAMAGOTCHI",
-        "url": "https://open.spotify.com/album/4gFpQGuz0jukWbZo8O2BTn"
+        "name": "Duelo (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/4YqBjRGdZbeckP6kLeKu9P"
       },
       "artists": [
         {
-          "name": "Heartgaze",
-          "url": "https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH"
+          "name": "Landabur",
+          "url": "https://open.spotify.com/artist/1wjCCLQxYABcvDbSOoF2NF"
         },
         {
-          "name": "Mart\u00edn Berr\u00edos",
-          "url": "https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2"
+          "name": "Leiden",
+          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
         }
       ],
-      "duration_ms": 199453,
-      "name": "TAMAGOTCHI",
-      "url": "https://open.spotify.com/track/61aTMnVnI5nFbxkTiQGL1p"
+      "duration_ms": 206700,
+      "name": "Sincron\u00eda Universal - Edici\u00f3n Deluxe",
+      "url": "https://open.spotify.com/track/4xoIhnj6ti8ctgrKFkwG8j"
     },
     {
       "added_at": "2023-04-13 20:09:59",
@@ -1215,18 +1215,22 @@
     {
       "added_at": "2023-04-13 20:09:59",
       "album": {
-        "name": "SIN TI",
-        "url": "https://open.spotify.com/album/0EEz8Lb6T9XwErW4WK9tlX"
+        "name": "TAMAGOTCHI",
+        "url": "https://open.spotify.com/album/4gFpQGuz0jukWbZo8O2BTn"
       },
       "artists": [
         {
-          "name": "Benji B",
-          "url": "https://open.spotify.com/artist/7tyItYjVg0hlom0MlMT02R"
+          "name": "Heartgaze",
+          "url": "https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH"
+        },
+        {
+          "name": "Mart\u00edn Berr\u00edos",
+          "url": "https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2"
         }
       ],
-      "duration_ms": 174654,
-      "name": "SIN TI",
-      "url": "https://open.spotify.com/track/0klrnBy7T4o0ntUninslcM"
+      "duration_ms": 199453,
+      "name": "TAMAGOTCHI",
+      "url": "https://open.spotify.com/track/61aTMnVnI5nFbxkTiQGL1p"
     },
     {
       "added_at": "2023-04-13 20:09:59",
@@ -1243,6 +1247,22 @@
       "duration_ms": 242240,
       "name": "Mirandonos",
       "url": "https://open.spotify.com/track/4lZKP62LTSaJld949qz9ho"
+    },
+    {
+      "added_at": "2023-04-13 20:09:59",
+      "album": {
+        "name": "SIN TI",
+        "url": "https://open.spotify.com/album/0EEz8Lb6T9XwErW4WK9tlX"
+      },
+      "artists": [
+        {
+          "name": "Benji B",
+          "url": "https://open.spotify.com/artist/7tyItYjVg0hlom0MlMT02R"
+        }
+      ],
+      "duration_ms": 174654,
+      "name": "SIN TI",
+      "url": "https://open.spotify.com/track/0klrnBy7T4o0ntUninslcM"
     },
     {
       "added_at": "2023-04-13 20:09:59",
@@ -1279,26 +1299,6 @@
       "duration_ms": 180284,
       "name": "La Madre Ni\u00f1a",
       "url": "https://open.spotify.com/track/4efJsMzQ85dmQEBQGWtwcs"
-    },
-    {
-      "added_at": "2023-04-13 20:09:59",
-      "album": {
-        "name": "Duelo (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/4YqBjRGdZbeckP6kLeKu9P"
-      },
-      "artists": [
-        {
-          "name": "Landabur",
-          "url": "https://open.spotify.com/artist/1wjCCLQxYABcvDbSOoF2NF"
-        },
-        {
-          "name": "Leiden",
-          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
-        }
-      ],
-      "duration_ms": 206700,
-      "name": "Sincron\u00eda Universal - Edici\u00f3n Deluxe",
-      "url": "https://open.spotify.com/track/4xoIhnj6ti8ctgrKFkwG8j"
     },
     {
       "added_at": "2023-04-13 20:09:59",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-04-13 20:09:59",
       "album": {
+        "name": "Casinaranja",
+        "url": "https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK"
+      },
+      "artists": [
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "duration_ms": 219031,
+      "name": "Tenemos que cocinar",
+      "url": "https://open.spotify.com/track/1YbGVGstbsBL4rYrtHREEv"
+    },
+    {
+      "added_at": "2023-04-13 20:09:59",
+      "album": {
         "name": "Altar",
         "url": "https://open.spotify.com/album/5Of6u6hOh4T6cSfvPss2A1"
       },
@@ -1391,18 +1407,18 @@
     {
       "added_at": "2023-04-13 20:09:59",
       "album": {
-        "name": "Casinaranja",
-        "url": "https://open.spotify.com/album/3oS6bRaKUrgQ71Z65qp6uK"
+        "name": "Independencia",
+        "url": "https://open.spotify.com/album/78gMQLycOOZR9p8VpG7Z0p"
       },
       "artists": [
         {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+          "name": "Los Valentina",
+          "url": "https://open.spotify.com/artist/7cIyh6k1zccDIbM7Qyn5AY"
         }
       ],
-      "duration_ms": 219031,
-      "name": "Tenemos que cocinar",
-      "url": "https://open.spotify.com/track/1YbGVGstbsBL4rYrtHREEv"
+      "duration_ms": 260790,
+      "name": "El drag\u00f3n asciende",
+      "url": "https://open.spotify.com/track/6lzg89OnOzG0ak5BteM6G0"
     },
     {
       "added_at": "2023-04-13 20:09:59",
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2023-04-13 20:09:59",
       "album": {
-        "name": "Corazonada",
-        "url": "https://open.spotify.com/album/7ucBWLTjxQcWmZ6nTxHDPI"
-      },
-      "artists": [
-        {
-          "name": "ZEBRA 93",
-          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
-        }
-      ],
-      "duration_ms": 204617,
-      "name": "Corazonada",
-      "url": "https://open.spotify.com/track/36h0uW75FKh8LraW4r9E2X"
-    },
-    {
-      "added_at": "2023-04-13 20:09:59",
-      "album": {
         "name": "es caprichoso el azar",
         "url": "https://open.spotify.com/album/7FwXaotHIpUepMYI2SzqPr"
       },
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2023-04-13 20:09:59",
       "album": {
-        "name": "Independencia",
-        "url": "https://open.spotify.com/album/78gMQLycOOZR9p8VpG7Z0p"
+        "name": "Corazonada",
+        "url": "https://open.spotify.com/album/7ucBWLTjxQcWmZ6nTxHDPI"
       },
       "artists": [
         {
-          "name": "Los Valentina",
-          "url": "https://open.spotify.com/artist/7cIyh6k1zccDIbM7Qyn5AY"
+          "name": "ZEBRA 93",
+          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
         }
       ],
-      "duration_ms": 260790,
-      "name": "El drag\u00f3n asciende",
-      "url": "https://open.spotify.com/track/6lzg89OnOzG0ak5BteM6G0"
+      "duration_ms": 204617,
+      "name": "Corazonada",
+      "url": "https://open.spotify.com/track/36h0uW75FKh8LraW4r9E2X"
     },
     {
       "added_at": "2023-04-13 20:09:59",

@@ -1,12 +1,12 @@
 {
   "description": "El lado fluorescente del indie latino featuring La Femme D'Argent & FEMI.",
-  "num_followers": 15341,
+  "num_followers": 15347,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMGE2YjZjOGZjODg2YzAwNjRjNmI4YjEyYWYyNTFkMjBh",
+  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMDljN2FmZDZkZThlMmUwYzU5MDNjMTUyM2Q3OTNmODJh",
   "tracks": [
     {
       "added_at": "2023-04-14 03:00:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Luz de perla",
+        "url": "https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY"
+      },
+      "artists": [
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 161173,
+      "name": "Pido 1 deseo",
+      "url": "https://open.spotify.com/track/1vXAdOBHefeLUBABf5R4U9"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Aviones De Papel",
         "url": "https://open.spotify.com/album/25iEhOx8cWc5pUMcFU4krF"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 196020,
       "name": "Viernes",
       "url": "https://open.spotify.com/track/1qZ9xDBnQ8vORJoN7kGv1f"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Luz de perla",
-        "url": "https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY"
-      },
-      "artists": [
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 161173,
-      "name": "Pido 1 deseo",
-      "url": "https://open.spotify.com/track/1vXAdOBHefeLUBABf5R4U9"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Verano",
-        "url": "https://open.spotify.com/album/5XYp05CrQS8vzJeyjvrEUI"
-      },
-      "artists": [
-        {
-          "name": "Abril Alconada",
-          "url": "https://open.spotify.com/artist/6AiyCX8zKYigmhbxVxXXf0"
-        },
-        {
-          "name": "Clara Bares",
-          "url": "https://open.spotify.com/artist/6jtaP0NhMvxjmRmsrJHmWg"
-        }
-      ],
-      "duration_ms": 215338,
-      "name": "Verano",
-      "url": "https://open.spotify.com/track/2LfYgvxQ0CVTeUG4NU183h"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Ilegal",
         "url": "https://open.spotify.com/album/4fhFKvABD36PgGAlegN3Kd"
       },
@@ -795,18 +775,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Vital",
-        "url": "https://open.spotify.com/album/13AKZvPWr2rQkIJfqWQkIK"
+        "name": "Verano",
+        "url": "https://open.spotify.com/album/5XYp05CrQS8vzJeyjvrEUI"
       },
       "artists": [
         {
-          "name": "Ana Sanz",
-          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+          "name": "Abril Alconada",
+          "url": "https://open.spotify.com/artist/6AiyCX8zKYigmhbxVxXXf0"
+        },
+        {
+          "name": "Clara Bares",
+          "url": "https://open.spotify.com/artist/6jtaP0NhMvxjmRmsrJHmWg"
         }
       ],
-      "duration_ms": 182062,
-      "name": "Vital",
-      "url": "https://open.spotify.com/track/7dolxvJOVCujSEkNwXFXhW"
+      "duration_ms": 215338,
+      "name": "Verano",
+      "url": "https://open.spotify.com/track/2LfYgvxQ0CVTeUG4NU183h"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -823,6 +807,22 @@
       "duration_ms": 193957,
       "name": "San Menace",
       "url": "https://open.spotify.com/track/6eQynheCQHeiJb7UyIQrdX"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Vital",
+        "url": "https://open.spotify.com/album/13AKZvPWr2rQkIJfqWQkIK"
+      },
+      "artists": [
+        {
+          "name": "Ana Sanz",
+          "url": "https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD"
+        }
+      ],
+      "duration_ms": 182062,
+      "name": "Vital",
+      "url": "https://open.spotify.com/track/7dolxvJOVCujSEkNwXFXhW"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -915,6 +915,26 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Corazon en Asteroides",
+        "url": "https://open.spotify.com/album/5uIyYenH0O4ThqgBRGshvw"
+      },
+      "artists": [
+        {
+          "name": "Aliage",
+          "url": "https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt"
+        },
+        {
+          "name": "Victoria Reed",
+          "url": "https://open.spotify.com/artist/12EI0H1J7nojLvFdkwzjRG"
+        }
+      ],
+      "duration_ms": 238421,
+      "name": "Corazon en Asteroides",
+      "url": "https://open.spotify.com/track/4YtoojKbqHDTrZSq2BDdJn"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "\u00d3rbita",
         "url": "https://open.spotify.com/album/6NNNGHpNY68oVq0QhtJBUT"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 197933,
       "name": "\u00d3rbita",
       "url": "https://open.spotify.com/track/69nb2ILVOmzn6rJUlbfkTo"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Corazon en Asteroides",
-        "url": "https://open.spotify.com/album/5uIyYenH0O4ThqgBRGshvw"
-      },
-      "artists": [
-        {
-          "name": "Aliage",
-          "url": "https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt"
-        },
-        {
-          "name": "Victoria Reed",
-          "url": "https://open.spotify.com/artist/12EI0H1J7nojLvFdkwzjRG"
-        }
-      ],
-      "duration_ms": 238421,
-      "name": "Corazon en Asteroides",
-      "url": "https://open.spotify.com/track/4YtoojKbqHDTrZSq2BDdJn"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Cu\u00e1nto Falta",
-        "url": "https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD"
-      },
-      "artists": [
-        {
-          "name": "Ziberia",
-          "url": "https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH"
-        }
-      ],
-      "duration_ms": 240050,
-      "name": "Cu\u00e1nto Falta",
-      "url": "https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Aburrido",
         "url": "https://open.spotify.com/album/6JhBiY6sjJ60AcY9sapS5B"
       },
@@ -1059,6 +1043,38 @@
       "duration_ms": 178800,
       "name": "Aburrido ;(",
       "url": "https://open.spotify.com/track/4pJ4Ts3yrQypjpMx6xxNEB"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Cu\u00e1nto Falta",
+        "url": "https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD"
+      },
+      "artists": [
+        {
+          "name": "Ziberia",
+          "url": "https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH"
+        }
+      ],
+      "duration_ms": 240050,
+      "name": "Cu\u00e1nto Falta",
+      "url": "https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Victoria y las M\u00e1quinas",
+        "url": "https://open.spotify.com/album/1nmEZbVyUAmRIKLD3Vtiog"
+      },
+      "artists": [
+        {
+          "name": "Vicu Villanueva",
+          "url": "https://open.spotify.com/artist/3wcmeGyEfFVSHpE11CVMUy"
+        }
+      ],
+      "duration_ms": 369300,
+      "name": "MICROFRACTURAS",
+      "url": "https://open.spotify.com/track/3CaF9XLWXOevzZe4uyfsTE"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1091,22 +1107,6 @@
       "duration_ms": 180000,
       "name": "Ojal\u00e1 Fu\u00e9ramos Amigos",
       "url": "https://open.spotify.com/track/4421HKhsD2YqQ6GVz4HPmG"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Victoria y las M\u00e1quinas",
-        "url": "https://open.spotify.com/album/1nmEZbVyUAmRIKLD3Vtiog"
-      },
-      "artists": [
-        {
-          "name": "Vicu Villanueva",
-          "url": "https://open.spotify.com/artist/3wcmeGyEfFVSHpE11CVMUy"
-        }
-      ],
-      "duration_ms": 369300,
-      "name": "MICROFRACTURAS",
-      "url": "https://open.spotify.com/track/3CaF9XLWXOevzZe4uyfsTE"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Tirita",
-        "url": "https://open.spotify.com/album/1Ad17me7Ft1uDZ38hAmlSH"
-      },
-      "artists": [
-        {
-          "name": "mariagrep",
-          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
-        }
-      ],
-      "duration_ms": 192167,
-      "name": "Tirita",
-      "url": "https://open.spotify.com/track/1kjkorsJWyqEfbSP4ud1My"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Recuerdo Infinito",
         "url": "https://open.spotify.com/album/2GZVbuaafLfHwTPalStIfP"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 293386,
       "name": "Recuerdo Infinito",
       "url": "https://open.spotify.com/track/79a6afRQ6sanoByoTyonnj"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Tirita",
+        "url": "https://open.spotify.com/album/1Ad17me7Ft1uDZ38hAmlSH"
+      },
+      "artists": [
+        {
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+        }
+      ],
+      "duration_ms": 192167,
+      "name": "Tirita",
+      "url": "https://open.spotify.com/track/1kjkorsJWyqEfbSP4ud1My"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Random No",
+        "url": "https://open.spotify.com/album/320ZKz7o0fTv8uMyBaIs7k"
+      },
+      "artists": [
+        {
+          "name": "Tani",
+          "url": "https://open.spotify.com/artist/2L37ilKeNfoAADHEwH2Gf0"
+        }
+      ],
+      "duration_ms": 205500,
+      "name": "Random No",
+      "url": "https://open.spotify.com/track/37ldNgdC4zuG8Ibd5y00rA"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Diabla",
         "url": "https://open.spotify.com/album/6L8kcowzx0Enf5uzbETdVS"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 345716,
       "name": "Diabla",
       "url": "https://open.spotify.com/track/6UIvFuNTdRwxet1ha09tAE"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Random No",
-        "url": "https://open.spotify.com/album/320ZKz7o0fTv8uMyBaIs7k"
-      },
-      "artists": [
-        {
-          "name": "Tani",
-          "url": "https://open.spotify.com/artist/2L37ilKeNfoAADHEwH2Gf0"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "Random No",
-      "url": "https://open.spotify.com/track/37ldNgdC4zuG8Ibd5y00rA"
     },
     {
       "added_at": "2023-04-14 03:00:00",

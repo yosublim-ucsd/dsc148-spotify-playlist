@@ -4,7 +4,7 @@
 
 > Soy parte de tí, tu parte de mí.
 
-50 songs - 2 hr 35 min
+51 songs - 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Plegarias](https://open.spotify.com/track/4DfhsWuqZonO5URxvwkBSK) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Recuerdos](https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu) | 3:18 | 2023-03-29 |  |
 | [Plegarias \- Acústico Premios Gardel 2020](https://open.spotify.com/track/7L9iiGbLG2zyjS8KR74MoC) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Plegarias \(Acústico Premios Gardel 2020\)](https://open.spotify.com/album/63FCLdOda9dZy1SzHVYwAS) | 2:59 | 2023-03-29 |  |
 | [Por las Noches \- Remix](https://open.spotify.com/track/5HiA7W5wYDWi06UZFUluRu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Por las Noches \(Remix\)](https://open.spotify.com/album/0AC1pv2TucEtDsI6pK2EmG) | 3:42 | 2023-03-29 |  |
+| [qué le pasa conmigo?](https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [qué le pasa conmigo?](https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc) | 2:47 | 2023-04-20 |  |
 | [Recuerdos](https://open.spotify.com/track/6BMfjQWq48IlYlQVS5BFRK) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Recuerdos](https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu) | 2:50 | 2023-03-29 |  |
 | [Sabe](https://open.spotify.com/track/0lQk4UhEVDnOH5vYH0vgHM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Sabe](https://open.spotify.com/album/75W09sjskb2PLWWMZtsGT0) | 2:57 | 2023-03-29 |  |
 | [Shorty](https://open.spotify.com/track/3Fekr3gkWmX25J2m4aVNaC) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Recuerdos](https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu) | 3:25 | 2023-03-29 |  |

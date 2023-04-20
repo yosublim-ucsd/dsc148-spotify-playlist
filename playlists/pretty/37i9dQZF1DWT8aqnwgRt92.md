@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 706,723 likes - 85 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 707,674 likes - 85 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 14 | [Under the Tree](https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Under the Tree](https://open.spotify.com/album/7wQyvP7maIKn0uTGr66eI3) | 2:01 |
 | 15 | [誰も彼も何処も何も知らない](https://open.spotify.com/track/4HXLOgMIVNTfiuWiMBoRa4) | [ASOBI同盟](https://open.spotify.com/artist/4J0zXugKZIlVBUxoM2DrRE) | [TVアニメ「天国大魔境」エンディングテーマ「誰も彼も何処も何も知らない」](https://open.spotify.com/album/5PHNBwNEV5PhEpMyDbtMeg) | 3:40 |
 | 16 | [Numbness like a ginger](https://open.spotify.com/track/6WmH150zngZw8mNenyWY5o) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [Ninth Peel](https://open.spotify.com/album/7LJTvMEZzwp3MgG78n8eZR) | 3:34 |
-| 17 | [ラプス](https://open.spotify.com/track/47hW5TPsOjph8hA9kxNdcj) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6uBzTBbMEBkLEDtEkklOBy) | 3:55 |
+| 17 | [Lapse](https://open.spotify.com/track/5TeGDq5gS3KBG88UvdAT5E) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6IOnkt2rwHoyPgd8tiBTSD) | 3:55 |
 | 18 | [Knock Out](https://open.spotify.com/track/5ktgImJ7uP5gR2Pv85R9Qy) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Knock Out](https://open.spotify.com/album/3pHuTLk66QGfAd4KRq4ErX) | 3:45 |
 | 19 | [シュークリーム・ファンク](https://open.spotify.com/track/275ULfjS2XcfhP7u4XXyft) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [シュークリーム・ファンク](https://open.spotify.com/album/7CyrqVpM8tZFbhOJyHuI2o) | 3:35 |
 | 20 | [Cantabile](https://open.spotify.com/track/4Y5avL0StifbsLNUtzWH58) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [Cantabile](https://open.spotify.com/album/4nCi6OEl9dW978qgBL6X8F) | 3:46 |
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 70 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 |
 | 71 | [Preview](https://open.spotify.com/track/5WsbwswBs3C0vheCVFFy1Z) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Preview](https://open.spotify.com/album/1KZJgrEJoKlHtA2sH3OAUk) | 4:06 |
 | 72 | [Always and Forever](https://open.spotify.com/track/3K0cFv7cqIId26HwEkDHgp) | [SERRA](https://open.spotify.com/artist/2I3vpxuhRNZU69R2kGbBOk) | [Always and Forever](https://open.spotify.com/album/5vUK0yiI60vWqkp53ZvlLn) | 4:52 |
-| 73 | [秘密♡Melody](https://open.spotify.com/track/1AFesvFxEKLQdz1D7UdkM6) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [秘密♡Melody](https://open.spotify.com/album/0jLmxBVe6NwDuJ4o2Oxdvt) | 4:11 |
+| 73 | [秘密♡Melody](https://open.spotify.com/track/3FdxmFAty5QZTihGD7vy9g) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [秘密♡Melody](https://open.spotify.com/album/5jyTwJEmfqqrUM3CtWeXpi) | 4:11 |
 | 74 | [Mubansou](https://open.spotify.com/track/7jYU29WcxlYDJENKNH6ss0) | [edda](https://open.spotify.com/artist/05fBrcz8TP0pSUMIE5fOIW) | [Mubansou](https://open.spotify.com/album/6F4lwZsxEP6ZOoAoh2ykkH) | 5:00 |
 | 75 | [Setsunano Chikai](https://open.spotify.com/track/1YKBiydKeMfqHXwDECHLU6) | [Neko Hacker](https://open.spotify.com/artist/2aQ9IoRPwXEhhBVj4wbS46), [由崎司](https://open.spotify.com/artist/57nGnwFiNGNY5t77bVWWw2) | [Setsunano Chikai](https://open.spotify.com/album/5RxLQesE8xz3LsCwyrLIDn) | 3:40 |
 | 76 | [ずっと](https://open.spotify.com/track/2ptB8OVzQtJsYKPJZ95fTe) | [ユナ \(CV: 河瀬茉希\)](https://open.spotify.com/artist/2FOfj9c49IYJQUTagvRmTj) | [TVアニメ「くまクマ熊ベアーぱーんち!」エンディングテーマ「ずっと」](https://open.spotify.com/album/1raMirIf7YgE7svorQNwum) | 4:47 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [ゼロステップ \(feat\. 小野賢章\)](https://open.spotify.com/track/7wqa3SBNDoQ436Feb8x5Zl) | [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc), [小野賢章](https://open.spotify.com/artist/6yg8XM7BirJ6GnfBUt7BUU) | [ゼロステップ \(feat\. 小野賢章\)](https://open.spotify.com/album/4GCmrKpfubJATaKMZ43RUT) | 4:30 |
 | 85 | [close to moon](https://open.spotify.com/track/3rlHUMwbAzrkQlNS3qZaM5) | [Cryz Syndrome](https://open.spotify.com/artist/7mksIM9ZzvRazOJsZqIzgQ) | [close to moon](https://open.spotify.com/album/08mBD6daiwvRjSPMiWRlZo) | 4:06 |
 
-Snapshot ID: `MTY4MTgzMDAwMCwwMDAwMDAwMDAyZjFhMDdlYWE3MDk1MTQyZDcxMmE4NTAxMTcxYWQx`
+Snapshot ID: `MTY4MTgzMDAwMCwwMDAwMDAwMGYwMDEwNTM0YThkYzY2MWE2YTYxN2E5MTI2OGE3NmRh`

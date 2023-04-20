@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTe5ECpTKzMo.md) - [plain]
 
 > Solo éxitos locales pasados, chapados en oro\. Eme MalaFe en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 429,134 likes - 65 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 429,440 likes - 65 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

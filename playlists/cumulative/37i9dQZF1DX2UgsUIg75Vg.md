@@ -4,7 +4,7 @@
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Dinner Party
 
-608 songs - 1 day 10 hr 41 min
+609 songs - 1 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,8 @@
 | [Flowers](https://open.spotify.com/track/0moOYkWq8za1xk0abOjReo) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [The Right Side Of Wrong](https://open.spotify.com/album/3lFc4rFgFOJfSg2YfePfId) | 2:46 | 2022-11-25 |  |
 | [Foolish](https://open.spotify.com/track/3FmHd3XrPO1zIkPq5QvPj5) | [Natanya Popoola](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Foolish](https://open.spotify.com/album/2HRhfhmcfGOTefEgQgXTdH) | 3:48 | 2022-09-30 | 2022-12-03 |
 | [Footsteps \(feat\. Musiq Soulchild\)](https://open.spotify.com/track/4k6hX9RKD096K1NCjjJZLc) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 4:33 | 2019-07-10\* | 2019-08-13 |
-| [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/track/0IT1pmbYjQjoU0IUMVZ6XU) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/album/5l1oWPwn5OqgbbBLyCrU05) | 2:52 | 2023-04-07 |  |
+| [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/track/0IT1pmbYjQjoU0IUMVZ6XU) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/album/5l1oWPwn5OqgbbBLyCrU05) | 2:52 | 2023-04-07 | 2023-04-20 |
+| [For Granted \(feat\. Arin Ray\)](https://open.spotify.com/track/39RJfDkli3BkEsW6LN4DrZ) | [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Enigmatic Society](https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe) | 2:52 | 2023-04-07 |  |
 | [For Mine](https://open.spotify.com/track/0DJsKqkRjxuNpOLmq7LbXm) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Worth The Wait](https://open.spotify.com/album/5CPJJR7LxhhMpmbxxjlbsJ) | 4:12 | 2020-06-13 | 2021-02-25 |
 | [For You](https://open.spotify.com/track/51utzcuw1SxGYh92nmbFrm) | [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1) | [For You](https://open.spotify.com/album/2r8d6hcoFSRW0bgsV9Uipw) | 3:06 | 2019-08-13 | 2020-02-19 |
 | [FOREVER](https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [FOREVER](https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1) | 4:00 | 2022-11-18 | 2023-03-18 |

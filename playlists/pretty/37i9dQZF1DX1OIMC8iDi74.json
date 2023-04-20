@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 893213,
+  "num_followers": 893662,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGY4NWUwYmJkNGRmNmI2YTQzYjVmZGU0MjY1ZDc0MGMy",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDg4ZTRhMGVmOWYwZDM0MmMzYTdmYjA5ODM0ODlhNGMy",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -583,22 +583,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Reaper (feat. JID)",
-        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
+        "name": "Lone Wolf",
+        "url": "https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY"
       },
       "artists": [
         {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
         }
       ],
-      "duration_ms": 164800,
-      "name": "Reaper (feat. JID)",
-      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
+      "duration_ms": 256500,
+      "name": "Lone Wolf",
+      "url": "https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -623,38 +619,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Lone Wolf",
-        "url": "https://open.spotify.com/album/0ZOHOmSoA2F394OWEqvAIY"
+        "name": "Reaper (feat. JID)",
+        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
       },
       "artists": [
         {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 256500,
-      "name": "Lone Wolf",
-      "url": "https://open.spotify.com/track/76I3PmbGZazzNlEwlp1y85"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "We Are Deadbeats (Vol. 4)",
-        "url": "https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ"
-      },
-      "artists": [
-        {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
         },
         {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         }
       ],
-      "duration_ms": 173413,
-      "name": "Stars Tonight",
-      "url": "https://open.spotify.com/track/0ZKOjWGqV7vHl9WKOtDb5V"
+      "duration_ms": 164800,
+      "name": "Reaper (feat. JID)",
+      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -675,6 +655,26 @@
       "duration_ms": 220839,
       "name": "DAMN",
       "url": "https://open.spotify.com/track/3sI0ekqQTE7NxdZhNFqF93"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "We Are Deadbeats (Vol. 4)",
+        "url": "https://open.spotify.com/album/0M5oUKrfgJtfZUKdFsC4VZ"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "duration_ms": 173413,
+      "name": "Stars Tonight",
+      "url": "https://open.spotify.com/track/0ZKOjWGqV7vHl9WKOtDb5V"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Me and You",
-        "url": "https://open.spotify.com/album/4don6p3pHlj7Pp01Js7dUb"
-      },
-      "artists": [
-        {
-          "name": "Champagne Drip",
-          "url": "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
-        },
-        {
-          "name": "Luci",
-          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
-        }
-      ],
-      "duration_ms": 226285,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/707qqokrSYnzJO5FoGIvFL"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "6 FEET UNDER",
         "url": "https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 154616,
       "name": "WARDOGZ",
       "url": "https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Me and You",
+        "url": "https://open.spotify.com/album/4don6p3pHlj7Pp01Js7dUb"
+      },
+      "artists": [
+        {
+          "name": "Champagne Drip",
+          "url": "https://open.spotify.com/artist/3mVwDyQRNVMy3ZNuTabf6f"
+        },
+        {
+          "name": "Luci",
+          "url": "https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/707qqokrSYnzJO5FoGIvFL"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Eden (feat. fussy)",
+        "url": "https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        },
+        {
+          "name": "fussy",
+          "url": "https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk"
+        }
+      ],
+      "duration_ms": 176761,
+      "name": "Eden (feat. fussy)",
+      "url": "https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "OCCULT CLASSIC",
         "url": "https://open.spotify.com/album/2xCNIURBZpbjPLoaxSRujw"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 152000,
       "name": "Yalla",
       "url": "https://open.spotify.com/track/2rBKfA9WpLBQxRFPcJXiXf"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Eden (feat. fussy)",
-        "url": "https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        },
-        {
-          "name": "fussy",
-          "url": "https://open.spotify.com/artist/789btpHpNQjZGwJIplXJuk"
-        }
-      ],
-      "duration_ms": 176761,
-      "name": "Eden (feat. fussy)",
-      "url": "https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Leisure Season Vol. 1",
-        "url": "https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg"
+        "name": "V!BEZ, Vol. 4",
+        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
       },
       "artists": [
         {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
         }
       ],
-      "duration_ms": 171891,
-      "name": "Got Me Like",
-      "url": "https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU"
+      "duration_ms": 160000,
+      "name": "Bellz",
+      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1251,6 +1251,22 @@
       "duration_ms": 197260,
       "name": "Redo",
       "url": "https://open.spotify.com/track/6NZunfz5wbY8pYeDDlJUas"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Leisure Season Vol. 1",
+        "url": "https://open.spotify.com/album/0hUxMTFyT6xRfWfsBaCIYg"
+      },
+      "artists": [
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "duration_ms": 171891,
+      "name": "Got Me Like",
+      "url": "https://open.spotify.com/track/4JPG8zY4MKIrchfyFGOEPU"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1295,22 +1311,6 @@
       "duration_ms": 233600,
       "name": "Go My Way",
       "url": "https://open.spotify.com/track/5y0X2gA8jlovyL5YmFamIv"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "V!BEZ, Vol. 4",
-        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Bellz",
-      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Apocalyptic",
+        "url": "https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar"
+      },
+      "artists": [
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        }
+      ],
+      "duration_ms": 204480,
+      "name": "Apocalyptic",
+      "url": "https://open.spotify.com/track/3E5Go2swucT0A6NmqOEChM"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "Rumor",
         "url": "https://open.spotify.com/album/2vEarBohKW4xTClQB24GHh"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 278808,
       "name": "Rumor",
       "url": "https://open.spotify.com/track/2QC2PTvF3yONXlvih301aR"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Apocalyptic",
-        "url": "https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar"
-      },
-      "artists": [
-        {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        }
-      ],
-      "duration_ms": 204480,
-      "name": "Apocalyptic",
-      "url": "https://open.spotify.com/track/3E5Go2swucT0A6NmqOEChM"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Kindred",
-        "url": "https://open.spotify.com/album/18utaWOKDrEGnQBsj1PWTE"
-      },
-      "artists": [
-        {
-          "name": "Ekali",
-          "url": "https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Kindred",
-      "url": "https://open.spotify.com/track/7a9XJvHtk48KWlbXoFST5e"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "SABER TOOTH",
         "url": "https://open.spotify.com/album/6vFjfQyWHawj5cplov6tR9"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 165346,
       "name": "SABER TOOTH",
       "url": "https://open.spotify.com/track/4bKqAcgrla5I0xYiAuYSBC"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Kindred",
+        "url": "https://open.spotify.com/album/18utaWOKDrEGnQBsj1PWTE"
+      },
+      "artists": [
+        {
+          "name": "Ekali",
+          "url": "https://open.spotify.com/artist/0Y0QSi6lz1bPik5Ffjr8sd"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Kindred",
+      "url": "https://open.spotify.com/track/7a9XJvHtk48KWlbXoFST5e"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1951,26 +1951,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Buck",
-        "url": "https://open.spotify.com/album/2TtKVJdubkLQ7OrxU5GuHE"
+        "name": "STAY STRONG",
+        "url": "https://open.spotify.com/album/7vJgxUNPVdsN2dRSkJNhbD"
       },
       "artists": [
         {
-          "name": "GRAVEDGR",
-          "url": "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
+          "name": "bear bear & friends",
+          "url": "https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK"
         },
         {
-          "name": "Hekler",
-          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
-        },
-        {
-          "name": "Lit Lords",
-          "url": "https://open.spotify.com/artist/3epW3XPRivDLEECq50MXCi"
+          "name": "Gill Chang",
+          "url": "https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx"
         }
       ],
-      "duration_ms": 161147,
-      "name": "Buck",
-      "url": "https://open.spotify.com/track/4eydbGI5QpRXs0Tua5m2c1"
+      "duration_ms": 183816,
+      "name": "STAY STRONG",
+      "url": "https://open.spotify.com/track/0zQEGtey6NFC8f8rKUAAf9"
     }
   ],
   "unique_name": "Trap Mojito",

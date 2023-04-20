@@ -1,12 +1,12 @@
 {
   "description": "\u30d5\u30a7\u30b9\u95a2\u4fc2\u8005\u306e\u7686\u69d8\u3001Let's book them! \u3044\u307e\u8074\u304d\u305f\u3044\u3001\u6ce8\u76ee\u306e\u6d0b\u697d\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\uff01 cover: FLO",
-  "num_followers": 1374,
+  "num_followers": 1387,
   "original_name": "The WISHLIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTgzMDAwMCwwMDAwMDAwMGZlMGNjNzNmNzYyZjkxODQ1MWUyMjRmZjIzYWIyNTI4",
+  "snapshot_id": "MTY4MTgzMDAwMCwwMDAwMDAwMDdlZmNiM2I4OTBiYWI4YTc0MzJhZDQyMTI1ZTIzZjgw",
   "tracks": [
     {
       "added_at": "2023-04-18 15:00:00",
@@ -407,18 +407,18 @@
     {
       "added_at": "2023-04-18 15:00:00",
       "album": {
-        "name": "LLYLM",
-        "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
+        "name": "Never Felt So Alone",
+        "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 174044,
-      "name": "LLYLM",
-      "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
+      "duration_ms": 160166,
+      "name": "Never Felt So Alone",
+      "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
     },
     {
       "added_at": "2023-04-18 15:00:00",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-04-18 15:00:00",
       "album": {
-        "name": "Never Felt So Alone",
-        "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
+        "name": "LLYLM",
+        "url": "https://open.spotify.com/album/44mKxp7RB6x5O19VWqEXEm"
       },
       "artists": [
         {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 160166,
-      "name": "Never Felt So Alone",
-      "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
+      "duration_ms": 174044,
+      "name": "LLYLM",
+      "url": "https://open.spotify.com/track/2SiAcexM2p1yX6joESbehd"
     },
     {
       "added_at": "2023-04-18 15:00:00",
@@ -631,18 +631,22 @@
     {
       "added_at": "2023-04-18 15:00:00",
       "album": {
-        "name": "DEATH",
-        "url": "https://open.spotify.com/album/5mMLgQvV17UcyM5yY3MrAv"
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
       },
       "artists": [
         {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 306655,
-      "name": "DEATH",
-      "url": "https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J"
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
     },
     {
       "added_at": "2023-04-18 15:00:00",
@@ -663,22 +667,18 @@
     {
       "added_at": "2023-04-18 15:00:00",
       "album": {
-        "name": "Princess Diana (with Nicki Minaj)",
-        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
+        "name": "DEATH",
+        "url": "https://open.spotify.com/album/5mMLgQvV17UcyM5yY3MrAv"
       },
       "artists": [
         {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
         }
       ],
-      "duration_ms": 172125,
-      "name": "Princess Diana (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
+      "duration_ms": 306655,
+      "name": "DEATH",
+      "url": "https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J"
     },
     {
       "added_at": "2023-04-18 15:00:00",
@@ -855,18 +855,30 @@
     {
       "added_at": "2023-04-18 15:00:00",
       "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D"
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
       "artists": [
         {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 176989,
-      "name": "Freezing",
-      "url": "https://open.spotify.com/track/7reh67rES37v1n9grDX6HO"
+      "duration_ms": 234933,
+      "name": "Not Strong Enough",
+      "url": "https://open.spotify.com/track/09DR0sHnQUhHOiSNttc1mv"
     }
   ],
   "unique_name": "The WISHLIST",

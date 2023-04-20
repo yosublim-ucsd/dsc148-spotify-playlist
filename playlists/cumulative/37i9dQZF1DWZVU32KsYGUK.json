@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 151426,
       "name": "Esp\u00e9rance",
       "url": "https://open.spotify.com/track/6t5EDQ1oQ65TBPNIm05f7a"
@@ -4091,6 +4091,24 @@
     },
     {
       "album": {
+        "name": "R\u00e9bus",
+        "url": "https://open.spotify.com/album/4pJZ7dbo8FXYh3NwS7wOvl"
+      },
+      "artists": [
+        {
+          "name": "Christophe Pouget",
+          "url": "https://open.spotify.com/artist/6NMPthFB3FbixffuRKpIGU"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149077,
+      "name": "R\u00e9bus",
+      "url": "https://open.spotify.com/track/1RaP4GkSYdKzKyRJdXxBJ6"
+    },
+    {
+      "album": {
         "name": "Monologues",
         "url": "https://open.spotify.com/album/7hjDYNJBebXPyQO7VwCTEQ"
       },
@@ -5050,6 +5068,24 @@
       "duration_ms": 279325,
       "name": "Vals a 2",
       "url": "https://open.spotify.com/track/3izkAvP68zr2SYvgWSzLN9"
+    },
+    {
+      "album": {
+        "name": "Valzer Elegiaco",
+        "url": "https://open.spotify.com/album/2UmSWNjxiiBv8XDp3g8fT0"
+      },
+      "artists": [
+        {
+          "name": "Gioia Pisano",
+          "url": "https://open.spotify.com/artist/5WMvjE5qJNLR5FMPdQfic8"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182250,
+      "name": "Valzer Elegiaco",
+      "url": "https://open.spotify.com/track/58x6lHX5gqgTP0JtLrKgki"
     },
     {
       "album": {

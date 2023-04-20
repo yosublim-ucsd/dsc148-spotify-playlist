@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 
 > Rock Legends from Ireland\. Cover: Phil Lynott
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,770 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,816 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 10 | [Take Me to Church](https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:01 |
 | 11 | [Dreams](https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:31 |
 | 12 | [Don't Go](https://open.spotify.com/track/33LfsAZ4kCfD90A3Zwp4sk) | [Hothouse Flowers](https://open.spotify.com/artist/2szQRWh2F0RUs9bkbepwok) | [People](https://open.spotify.com/album/3CmvEkZvuwobL2plDscowF) | 3:49 |
-| 13 | [The Whole of the Moon \- 2004 Remaster](https://open.spotify.com/track/1LzFh1VZ0FLeUesOFEuhyl) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [This Is the Sea \(Deluxe Version\)](https://open.spotify.com/album/0LoiHiWrQr7b0a4wlYVqSh) | 5:02 |
+| 13 | [High Hopes](https://open.spotify.com/track/6KkyuDhrEhR5nJVKtv9mCf) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 3:50 |
 | 14 | [Celebrate](https://open.spotify.com/track/7dBMNIdNLvF7cMJO1XaJe3) | [An Emotional Fish](https://open.spotify.com/artist/755vA87M6hpXKka7LbPJL8) | [Celebrate](https://open.spotify.com/album/1I5O3eLqZo3kRECx4YKlnH) | 3:35 |
 | 15 | [Old Town](https://open.spotify.com/track/6TJZBDP3ZVAAoNpS8OzRyr) | [Phil Lynott](https://open.spotify.com/artist/7yVrX2XZQ8eaRiD1ykz0H7) | [Philip Lynott Album](https://open.spotify.com/album/0lQcK9sk4xJET9NVNPfgFX) | 3:27 |
 | 16 | [Rat Trap](https://open.spotify.com/track/4R8P78kaHXgaEKabSaioLv) | [The Boomtown Rats](https://open.spotify.com/artist/40oYPr305MsT2lsiXr9fX9) | [Classic Album Selection: Six Albums 1977\-1984](https://open.spotify.com/album/1M0U3K2D8pQp4dHQLZOaoV) | 5:10 |
 | 17 | [Jackie and Wilson](https://open.spotify.com/track/4JpazKcfOhbwqZrsYhzHee) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:43 |
-| 18 | [High Hopes](https://open.spotify.com/track/6KkyuDhrEhR5nJVKtv9mCf) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 3:50 |
+| 18 | [The Whole of the Moon \- 2004 Remaster](https://open.spotify.com/track/1LzFh1VZ0FLeUesOFEuhyl) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [This Is the Sea \(Deluxe Version\)](https://open.spotify.com/album/0LoiHiWrQr7b0a4wlYVqSh) | 5:02 |
 | 19 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
 | 20 | [Run](https://open.spotify.com/track/6kesIBNAY17BoAz28pnWMC) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Final Straw](https://open.spotify.com/album/6rnHGj9PUHcEQCp4xdjbeJ) | 5:54 |
 | 21 | [Gloria \(feat\. Van Morrison\) \- Stereo Version](https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [The Essential Van Morrison](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX697hr2C9QhQ.md) - [plain]
 | 49 | [This Is](https://open.spotify.com/track/01LRmW8mraxDsUdQAihs4P) | [Aslan](https://open.spotify.com/artist/02pGsYqIR3RxXOflYYc4V7) | [Shame About Lucy Moonhead](https://open.spotify.com/album/0Y3Fv3Cumn9g1GNFwUEMOY) | 3:51 |
 | 50 | [Mary](https://open.spotify.com/track/29U5hgoEjrssTYJ9KeaFub) | [The 4 Of Us](https://open.spotify.com/artist/1Yr9lXq2m3KO4otqQKcllY), [Michael H\. Brauer](https://open.spotify.com/artist/2YUPBZYVy2KFNGeNILURg6) | [Songs For The Tempted](https://open.spotify.com/album/4GFXKDjclL9PwTnjrJiFpo) | 3:33 |
 
-Snapshot ID: `MTY0NzU0NjM4NywwMDAwMDAwMDA4ZTdjZjEzZDdlNmNlN2QzNDFlZjhkYTI0ZTRmZDY0`
+Snapshot ID: `MTY0NzU0NjM4NywwMDAwMDAwMDY2ZjliZjhlZjVlOGViZDk5MTNkYjhkY2M4MTI0MDZi`

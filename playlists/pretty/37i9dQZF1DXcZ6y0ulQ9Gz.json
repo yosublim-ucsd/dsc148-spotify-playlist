@@ -1,12 +1,12 @@
 {
   "description": "A eclectic mix of past & current Indie favourites. Cover: Caroline Polachek",
-  "num_followers": 27880,
+  "num_followers": 27893,
   "original_name": "Indie Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDdiNGYwODMwOGE1ZDMwZWZhYzQ3ZjlkODUxNTg1NDU3",
+  "snapshot_id": "MTY3NzgxOTYwMCwwMDAwMDAwMDAyNDZmNzNhNzJiNGY4YzUwYmU3MmFkMTYzYmExMjI3",
   "tracks": [
     {
       "added_at": "2023-03-03 05:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 307151,
+      "name": "Nights",
+      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 177533,
       "name": "the perfect pair",
       "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 307151,
-      "name": "Nights",
-      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 140080,
-      "name": "Wet Dream",
-      "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Punisher",
         "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 184524,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 140080,
+      "name": "Wet Dream",
+      "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Cari\u00f1o",
-        "url": "https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 258713,
-      "name": "Cari\u00f1o",
-      "url": "https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Intimidated",
         "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 207840,
       "name": "Intimidated (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/0dFdGPVLs3k0z9ezYWZzUa"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Cari\u00f1o",
+        "url": "https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 258713,
+      "name": "Cari\u00f1o",
+      "url": "https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
+        "name": "ZABA",
+        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 289306,
+      "name": "Gooey",
+      "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
         "name": "Cracker Island (feat. Thundercat)",
         "url": "https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 213750,
       "name": "Cracker Island (feat. Thundercat)",
       "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "ZABA",
-        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 289306,
-      "name": "Gooey",
-      "url": "https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "seaside_demo",
-        "url": "https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT"
-      },
-      "artists": [
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "seaside_demo",
-      "url": "https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "My Type EP",
         "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 204811,
       "name": "My Type",
       "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "seaside_demo",
+        "url": "https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "seaside_demo",
+      "url": "https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Flight Risk EP",
-        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 59026,
-      "name": "Flight Risk",
-      "url": "https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 261881,
       "name": "It Runs Through Me",
       "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Flight Risk EP",
+        "url": "https://open.spotify.com/album/3WTRqQ60G0J3UEQPU57k1g"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 59026,
+      "name": "Flight Risk",
+      "url": "https://open.spotify.com/track/0kAsY8KaG5sM6uwAEt3qyg"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Just for me",
-        "url": "https://open.spotify.com/album/00fcDjvEq4elj756TESO0c"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 115800,
-      "name": "Just for me",
-      "url": "https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "MUNA",
         "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 206586,
       "name": "Silk Chiffon",
       "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Just for me",
+        "url": "https://open.spotify.com/album/00fcDjvEq4elj756TESO0c"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 115800,
+      "name": "Just for me",
+      "url": "https://open.spotify.com/track/6OTKVgVpVaVjhRLYizPJKA"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1427,18 +1427,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Odyss\u00e9e - EP",
-        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
+        "name": "Negro Swan",
+        "url": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
         }
       ],
-      "duration_ms": 248892,
-      "name": "Agitations tropicales",
-      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
+      "duration_ms": 242341,
+      "name": "Charcoal Baby",
+      "url": "https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Negro Swan",
-        "url": "https://open.spotify.com/album/7bvmGyFDwpHNRRRZJ0AHvn"
+        "name": "Odyss\u00e9e - EP",
+        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
       },
       "artists": [
         {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         }
       ],
-      "duration_ms": 242341,
-      "name": "Charcoal Baby",
-      "url": "https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS"
+      "duration_ms": 248892,
+      "name": "Agitations tropicales",
+      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Born a Loser",
-        "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 207373,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
         "name": "Art Angels",
         "url": "https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 246006,
       "name": "Kill V. Maim",
       "url": "https://open.spotify.com/track/3WXhshrs1fzwF3rQE399Gq"
+    },
+    {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Born a Loser",
+        "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 207373,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Landmark",
-        "url": "https://open.spotify.com/album/0vb1g018puu47StlIi9wxC"
+        "name": "Untourable Album",
+        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
       },
       "artists": [
         {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 226610,
-      "name": "Buttercup",
-      "url": "https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI"
+      "duration_ms": 176315,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m"
     }
   ],
   "unique_name": "Indie Favourites",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Stacey Ryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,759 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,802 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 59 | [Juicy](https://open.spotify.com/track/4UsP9smALtJoaaZp5dPlbL) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Juicy](https://open.spotify.com/album/746aWMCud3Vqi40M8WEqwG) | 3:14 |
 | 60 | [Homebody](https://open.spotify.com/track/1mJnwJFcJ1cafchDZawVLf) | [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Homebody](https://open.spotify.com/album/5jWexOFu2dK8zT46xMp5t7) | 2:35 |
 | 61 | [Steady Love](https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN) | 3:44 |
-| 62 | [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 |
+| 62 | [Drunk On A Flight](https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 3:02 |
 | 63 | [Don't Lose Sight \(Acoustic\)](https://open.spotify.com/track/5DGgATX8r6d53OU6eT0Dzt) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Don't Lose Sight](https://open.spotify.com/album/5sOUgNit0kekytKG4bRDZo) | 6:46 |
 | 64 | [Lovesick](https://open.spotify.com/track/5op34xwSJ2jKWq2nbDPFVn) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Off The Ground](https://open.spotify.com/album/6JVabF7u0lubMct7BDUCRT) | 4:35 |
 | 65 | [Making it Right](https://open.spotify.com/track/6Hjy33Aku74bDdbLWhe6U6) | [Harrison Finks](https://open.spotify.com/artist/0eARUhJrHJ8EljWe3WG2fv), [Mikey Jose](https://open.spotify.com/artist/3rJEy2vNlsmWO5JHxKEaP8), [Augie Bello](https://open.spotify.com/artist/2z3k87BRV59rw56PwnOQsg) | [Making it Right](https://open.spotify.com/album/2LRTQrA17SE7V0SbupU00f) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Pretty Face](https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Pretty Face](https://open.spotify.com/album/4ex498BshH176bBZTm0FBx) | 3:24 |
 | 100 | [hurt](https://open.spotify.com/track/2ULMkcWFhgiyuTQgdALlqC) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:46 |
 
-Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDViNmVkZTg2NjEyYjlhZGFhNDMyZDQ5YmQxMTQxZTNk`
+Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDc1NjRkNWI4MWUyNzZjMzI0MTZmYzQ5YTkzNGQwZjgx`

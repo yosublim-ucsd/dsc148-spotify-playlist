@@ -1767,6 +1767,28 @@
     },
     {
       "album": {
+        "name": "RR",
+        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194543,
+      "name": "BESO",
+      "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
+    },
+    {
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/30wyb8A71RQP00BfRHLHf2"
       },
@@ -4084,6 +4106,24 @@
       "duration_ms": 210857,
       "name": "Do r\u00fak",
       "url": "https://open.spotify.com/track/60RptTeNF3x1cTthRdZDfH"
+    },
+    {
+      "album": {
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161041,
+      "name": "DOGTOOTH",
+      "url": "https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw"
     },
     {
       "album": {
@@ -8643,6 +8683,24 @@
     },
     {
       "album": {
+        "name": "LET IT OFF",
+        "url": "https://open.spotify.com/album/4zSl8MlGYgRqfmhmnuzJBi"
+      },
+      "artists": [
+        {
+          "name": "Kuma the Third",
+          "url": "https://open.spotify.com/artist/3x3F6t4cBw52hT89l1e4R1"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177769,
+      "name": "LET IT OFF",
+      "url": "https://open.spotify.com/track/4kGYXB2BPmkfdwDbNjUYl6"
+    },
+    {
+      "album": {
         "name": "Let U Go",
         "url": "https://open.spotify.com/album/4WzPhDgw6vO5Jq0m9VmN72"
       },
@@ -10072,7 +10130,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 145833,
       "name": "missin something",
       "url": "https://open.spotify.com/track/1oOamzG57yPWa5PTxXguDt"
@@ -10352,7 +10410,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 187723,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
@@ -10428,7 +10486,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 187293,
       "name": "Mr. Forgettable",
       "url": "https://open.spotify.com/track/0c8K5IUrmVlieC0Fc0d8tV"
@@ -12003,6 +12061,28 @@
     },
     {
       "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206722,
+      "name": "Paris, Texas (feat. SYML)",
+      "url": "https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO"
+    },
+    {
+      "album": {
         "name": "Paro (Speed Up)",
         "url": "https://open.spotify.com/album/0BmdP9lVjRCVYqhGg3pGTL"
       },
@@ -12232,7 +12312,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 248928,
       "name": "Peppers (feat. Tommy Genesis)",
       "url": "https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx"
@@ -15234,7 +15314,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 97800,
       "name": "SugarCrash! 2 (Notice Me Senpai)",
       "url": "https://open.spotify.com/track/64wsC9qC6oFtnHYbDJfsgQ"
@@ -18714,7 +18794,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 171251,
       "name": "\u041f\u043e\u043c\u043d\u044e \u0442\u0432\u043e\u0451 \u0442\u0435\u043b\u043e",
       "url": "https://open.spotify.com/track/5fjvFWBdu0DDNwTKd8bkys"

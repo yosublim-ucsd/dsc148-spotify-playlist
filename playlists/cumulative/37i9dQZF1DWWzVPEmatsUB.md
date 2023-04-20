@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-341 songs - 20 hr 42 min
+342 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Dreamer](https://open.spotify.com/track/2k28LZ2gQAwpNn3c4i5XQb) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:01 | 2022-07-01 |  |
 | [Dreamer](https://open.spotify.com/track/5MS9UnAqC3ObXUN6dIV1rr) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/3meoZUwEJiy7nyrDsv2HHJ) | 3:01 | 2022-07-01 | 2022-10-10 |
 | [Dreamer](https://open.spotify.com/track/7JRvk5bk0yJIrqVwLtZDst) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/5KYqiTq9ChwEVhd26dcFM8) | 3:01 | 2022-07-01 | 2022-11-21 |
-| [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 | 2023-01-20 |  |
+| [Drunk On A Flight](https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 3:02 | 2023-02-03 |  |
+| [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 | 2023-01-20 | 2023-04-20 |
 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-09-30 |  |
 | [epilogue](https://open.spotify.com/track/3LOolvy8SIuFenyCHjaMDW) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [how i remember](https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS) | 3:59 | 2022-10-14 | 2022-11-19 |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-09 |  |

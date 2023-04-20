@@ -441,6 +441,28 @@
     },
     {
       "album": {
+        "name": "El Dios Que Cambia Nombre",
+        "url": "https://open.spotify.com/album/5NUIrHDIDuMr6Xsob6L5UO"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Delgado",
+          "url": "https://open.spotify.com/artist/1cH1z49SP3Ul0DxaRLWYVy"
+        },
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219208,
+      "name": "El Dios Que Cambia Nombre",
+      "url": "https://open.spotify.com/track/6jxF4JXJ2hK8GEkRHqcj8b"
+    },
+    {
+      "album": {
         "name": "Hasta Poder Ver",
         "url": "https://open.spotify.com/album/38LDYEEGCyqAGzdrw8oqBz"
       },
@@ -756,7 +778,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 222600,
       "name": "Has Sido T\u00fa",
       "url": "https://open.spotify.com/track/2wP9egvhmu7gRDekP36iEn"

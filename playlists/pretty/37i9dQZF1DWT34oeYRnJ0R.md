@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Papi Sousa, Alvaro Diaz, paopao & Lyanno
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,510 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,490 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 60 | [B\-Day](https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [B\-Day](https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2) | 4:08 |
 | 61 | [algo así](https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:33 |
 | 62 | [Honey](https://open.spotify.com/track/2FuQp5l27bC1sHWnZr8uA3) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 3:06 |
-| 63 | [atrapada en el cielo](https://open.spotify.com/track/0xa6hDuygUskYwHD4hNXUR) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Stuck in the Sky](https://open.spotify.com/album/30vPoPfOku0lYgfTE903vA) | 2:14 |
-| 64 | [Adelantah](https://open.spotify.com/track/686vC4Xj5wFjFE0S8dW2mK) | [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [Insomnia](https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy) | 3:24 |
+| 63 | [Adelantah](https://open.spotify.com/track/686vC4Xj5wFjFE0S8dW2mK) | [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [Insomnia](https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy) | 3:24 |
+| 64 | [atrapada en el cielo](https://open.spotify.com/track/0xa6hDuygUskYwHD4hNXUR) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Stuck in the Sky](https://open.spotify.com/album/30vPoPfOku0lYgfTE903vA) | 2:14 |
 | 65 | [mE RecHaZasTe :\(](https://open.spotify.com/track/3aWhOkrsuXseE7xccF7Upa) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [mE RecHaZasTe :\(](https://open.spotify.com/album/0ErJQoX4JIcco90eTBGLHf) | 2:56 |
 | 66 | [Somebody That You Don't Know \(feat\. Rauw Alejandro\)](https://open.spotify.com/track/0lljBJMLGcTLm5Zn4KxQBH) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cheers to the Best Memories](https://open.spotify.com/album/15D9ut0TGWReBDq4YRQoZA) | 2:56 |
 | 67 | [lyu2 \(with marcos g\)](https://open.spotify.com/track/1eKhGmIxCVwXHjxrh3aqT5) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A), [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN) | [lyu2 \(with marcos g\)](https://open.spotify.com/album/3pwWV4Y1XnsZpcpqtjyax3) | 3:02 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 94 | [Conoce](https://open.spotify.com/track/4B1LWPQeIOTVHsMNa3KBBg) | [Nohemy](https://open.spotify.com/artist/4EinPz5K01c3pu8ufwvD3P), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Conoce](https://open.spotify.com/album/7ecm1r41OIi5VDEwcVhs50) | 3:39 |
 | 95 | [Tu Castigo](https://open.spotify.com/track/5ZhNFzInNjdqmdIglUpidB) | [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Normal](https://open.spotify.com/album/5Qkxw86wtQYlK2dEjTJcSP) | 3:47 |
 | 96 | [Jungla de locos](https://open.spotify.com/track/6z6SO9VO4pt6hKObRc23Hp) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 4:17 |
-| 97 | [coisa linda](https://open.spotify.com/track/763GYv3anuAaSSA6kQ2bEa) | [Sophie Marks](https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk) | [coisa linda](https://open.spotify.com/album/0YowymrHvtYwqHyWcvvfkW) | 2:53 |
-| 98 | [escápate](https://open.spotify.com/track/6hru9IGYTVbMXeyjjlxW2m) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [escápate](https://open.spotify.com/album/5y17V9rse9zMvAqh848H8f) | 2:51 |
+| 97 | [escápate](https://open.spotify.com/track/6hru9IGYTVbMXeyjjlxW2m) | [Yarge](https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4) | [escápate](https://open.spotify.com/album/5y17V9rse9zMvAqh848H8f) | 2:51 |
+| 98 | [coisa linda](https://open.spotify.com/track/763GYv3anuAaSSA6kQ2bEa) | [Sophie Marks](https://open.spotify.com/artist/6spwry8r7pCSX6cY2Y7bSk) | [coisa linda](https://open.spotify.com/album/0YowymrHvtYwqHyWcvvfkW) | 2:53 |
 | 99 | [caos](https://open.spotify.com/track/666gQThvRTs3OfeJURkKLh) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [3AM](https://open.spotify.com/album/6kq7kwgdD6Iq1naBCJRn2j) | 4:13 |
 | 100 | [Cenizas](https://open.spotify.com/track/54szHYyqK2XSdfsefoiGjj) | [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [BeatBoy](https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X) | [Cenizas](https://open.spotify.com/album/0blTDBEGqFOeEUOAy0G4kV) | 3:29 |
 
-Snapshot ID: `MTY4MDg5NjA4NCwwMDAwMDAwMDIxMDZkMjAxNTI2YjdkMWI3Zjc5ODVkODVkNDNkN2Ew`
+Snapshot ID: `MTY4MDg5NjA4NCwwMDAwMDAwMDQ3OTUwNWM0ZWEwNWJlOTlhYTFhZjVlYmU2YTZkNDBl`

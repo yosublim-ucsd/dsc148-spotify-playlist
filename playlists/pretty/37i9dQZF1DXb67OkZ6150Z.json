@@ -1,12 +1,12 @@
 {
   "description": "The best indie covers. Cover: Remi Wolf",
-  "num_followers": 278564,
+  "num_followers": 278597,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIyNTA3NCwwMDAwMDAwMGQ4NDk2ZTEwYjlmMjllZDZkZWM1ZDlhMGY2N2NmZTRk",
+  "snapshot_id": "MTY4MTIyNTA3NCwwMDAwMDAwMDFkZDBhNGQ4YmJkMDY3M2M3N2ZjN2VkMzJjOWM0NjZj",
   "tracks": [
     {
       "added_at": "2022-11-11 05:00:00",
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i"
     },
     {
-      "added_at": "2023-04-19 01:36:21",
+      "added_at": "2023-04-20 00:50:49",
       "album": {
         "name": "The Moon Song",
         "url": "https://open.spotify.com/album/2cWXWYA0G1iCMYPue0unqm"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/3s9eWdn8IymCPvVLcKpjww"
     },
     {
-      "added_at": "2023-04-19 01:36:21",
+      "added_at": "2023-04-20 00:50:49",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1"
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Bette Davis Eyes",
-        "url": "https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV"
-      },
-      "artists": [
-        {
-          "name": "BOY",
-          "url": "https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Bette Davis Eyes",
-      "url": "https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Godspeed",
         "url": "https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 173840,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Bette Davis Eyes",
+        "url": "https://open.spotify.com/album/4rncEmVTlpMJjPexBINlBV"
+      },
+      "artists": [
+        {
+          "name": "BOY",
+          "url": "https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Bette Davis Eyes",
+      "url": "https://open.spotify.com/track/5S5Txc2IPoky9tiMafDXuB"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -619,18 +619,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Seeking Thrills (The Ultimate Thrills Edition)",
-        "url": "https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ"
+        "name": "God's Plan",
+        "url": "https://open.spotify.com/album/2YP2BYZ4kgJ7W5vlOUs6B5"
       },
       "artists": [
         {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+          "name": "George Moir",
+          "url": "https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu"
         }
       ],
-      "duration_ms": 188694,
-      "name": "Running Up That Hill",
-      "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
+      "duration_ms": 166021,
+      "name": "God's Plan",
+      "url": "https://open.spotify.com/track/5HfUsHA6HCvIDDvtXJlUKb"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "God's Plan",
-        "url": "https://open.spotify.com/album/2YP2BYZ4kgJ7W5vlOUs6B5"
+        "name": "Seeking Thrills (The Ultimate Thrills Edition)",
+        "url": "https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ"
       },
       "artists": [
         {
-          "name": "George Moir",
-          "url": "https://open.spotify.com/artist/6eNGoUHSDYfXSy5SvnN1Uu"
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
         }
       ],
-      "duration_ms": 166021,
-      "name": "God's Plan",
-      "url": "https://open.spotify.com/track/5HfUsHA6HCvIDDvtXJlUKb"
+      "duration_ms": 188694,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
     },
     {
-      "added_at": "2023-04-19 01:36:21",
+      "added_at": "2023-04-20 00:50:49",
       "album": {
         "name": "Dancing on My Own",
         "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/0voD3AU9IVGAyCXeV8GeSz"
     },
     {
-      "added_at": "2023-04-19 01:36:21",
+      "added_at": "2023-04-20 00:50:49",
       "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2"
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Home Again / It's Too Late",
-        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Paul",
         "url": "https://open.spotify.com/album/1OlusNXiorsSM7tYlIG9Cy"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 187121,
       "name": "Paul",
       "url": "https://open.spotify.com/track/2MjzsLWwEBqnJAdXtDlaz1"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Home Again / It's Too Late",
+        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -949,7 +949,7 @@
       "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
     },
     {
-      "added_at": "2023-04-19 01:36:21",
+      "added_at": "2023-04-20 00:50:49",
       "album": {
         "name": "Under The Milky Way",
         "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
+        "name": "Never Tear Us Apart",
+        "url": "https://open.spotify.com/album/3aM9iFr4aGdb9S275yWRZk"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 198653,
+      "name": "Never Tear Us Apart",
+      "url": "https://open.spotify.com/track/6ApsMLGIa9zw446CrqxcEi"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
         "name": "Thirteen",
         "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Never Tear Us Apart",
-        "url": "https://open.spotify.com/album/3aM9iFr4aGdb9S275yWRZk"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 198653,
-      "name": "Never Tear Us Apart",
-      "url": "https://open.spotify.com/track/6ApsMLGIa9zw446CrqxcEi"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Sweater Weather (Acoustic)",
         "url": "https://open.spotify.com/album/0BdJo2A39iIZxoJXZLLTkG"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 150517,
       "name": "Sweater Weather (Acoustic)",
       "url": "https://open.spotify.com/track/0BbV0fKqY3jxlXYbtzN2bO"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
+      },
+      "artists": [
+        {
+          "name": "b\u00fclow",
+          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+        }
+      ],
+      "duration_ms": 237876,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
     },
     {
       "added_at": "2023-03-17 05:00:00",
@@ -1087,22 +1103,6 @@
       "duration_ms": 175500,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/0ZqTolRYHEfdsM5d3lNv0Q"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
-      },
-      "artists": [
-        {
-          "name": "b\u00fclow",
-          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
-        }
-      ],
-      "duration_ms": 237876,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-11-11 05:00:00",
       "album": {
-        "name": "Fake Plastic Trees",
-        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Fake Plastic Trees",
-      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 191875,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
+    },
+    {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Fake Plastic Trees",
+        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1225,7 +1225,7 @@
       "url": "https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN"
     },
     {
-      "added_at": "2023-04-19 01:36:21",
+      "added_at": "2023-04-20 00:50:49",
       "album": {
         "name": "Candid",
         "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"

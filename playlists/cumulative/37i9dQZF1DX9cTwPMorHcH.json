@@ -627,6 +627,24 @@
     },
     {
       "album": {
+        "name": "Kingfish",
+        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "date_added": "2021-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228019,
+      "name": "Fresh Out",
+      "url": "https://open.spotify.com/track/0hLEks6H1dPXioRyyHWCBz"
+    },
+    {
+      "album": {
         "name": "Getting Ready... (World)",
         "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
       },
@@ -1204,7 +1222,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 208546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"

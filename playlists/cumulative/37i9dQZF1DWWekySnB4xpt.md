@@ -4,7 +4,7 @@
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Mau y Ricky
 
-134 songs - 8 hr 7 min
+136 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,10 +54,11 @@
 | [El Farolito \- Live](https://open.spotify.com/track/7mSjzMyIzwP1EowBGHFDcf) | [Voz Veis](https://open.spotify.com/artist/10qDQKbmh8qV5LDCFtHLIw) | [Vas](https://open.spotify.com/album/6QgBIdJpw0eP7xwN6D3TKx) | 3:19 | 2022-09-30 |  |
 | [El Peor](https://open.spotify.com/track/6ClrUcM3YpKlJhihx94Oel) | [Chyno Miranda](https://open.spotify.com/artist/1VrWc8r4AjrR8YfT0vlsc7), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [El Peor](https://open.spotify.com/album/6Mvh9jth820sgXAxpzrUFT) | 3:12 | 2021-12-17 |  |
 | [EL TREN](https://open.spotify.com/track/2E5AxSvxrnRsaExLe1aaXI) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [EL TREN](https://open.spotify.com/album/4awGSTShdK0MrxjbuFHnEY) | 3:35 | 2021-12-17 | 2022-05-20 |
-| [El Vestido Rojo](https://open.spotify.com/track/1v6q6j9tCZYrg4slscHO8t) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [Una Vez Más](https://open.spotify.com/album/7sb67M38RH5TgKbVRI4aAF) | 3:55 | 2023-03-03 |  |
+| [El Vestido Rojo](https://open.spotify.com/track/1v6q6j9tCZYrg4slscHO8t) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [Una Vez Más](https://open.spotify.com/album/7sb67M38RH5TgKbVRI4aAF) | 3:55 | 2023-03-03 | 2023-04-20 |
 | [El Vestido Rojo](https://open.spotify.com/track/74PhyV4HkK7U8b0PA7EltH) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [Una Vez Mas](https://open.spotify.com/album/5MY9kJKE0htceIs1dmu0ax) | 3:55 | 2021-12-17 | 2022-07-29 |
 | [El Vestido Rojo](https://open.spotify.com/track/7c9xKmYxpAoOMd2IrRTKrr) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [Solo Éxitos](https://open.spotify.com/album/4lO58l6N3w48Wvhe13VkTK) | 3:55 | 2022-09-30 | 2022-11-13 |
 | [El Vestido Rojo](https://open.spotify.com/track/7kHWGndhOzJt8z7mPMGWj8) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [Una Vez Más](https://open.spotify.com/album/5xWEx3TdvlQTdZlmahuRp2) | 3:55 | 2022-07-01 | 2023-04-04 |
+| [El Vestido Rojo \- New Recording](https://open.spotify.com/track/554VZYxYPhSL9iAElfIWxM) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [Mas Caliente](https://open.spotify.com/album/6Dv824OWfPevaG37N39Q3P) | 3:54 | 2023-03-03 |  |
 | [Emeycé](https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Emeycé](https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal) | 2:56 | 2023-03-03 |  |
 | [EN SOLEDAD \(feat\. ADSO, Akapellah\)](https://open.spotify.com/track/7cSJCBT0AOLMAmgXaauUE0) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 4:22 | 2022-05-19 |  |
 | [Es Épico](https://open.spotify.com/track/2kd0T6zgABT8P0s2h9QU5O) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Muerte](https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12) | 6:01 | 2021-12-17 |  |
@@ -133,7 +134,8 @@
 | [Veronica](https://open.spotify.com/track/6r7Fr0fHtsUjfQFSbQeGeF) | [Caramelos De Cianuro](https://open.spotify.com/artist/34OLInsXImlQpjzmQw9Wd3) | [Miss Mujerzuela](https://open.spotify.com/album/3LU1q4hdfHd60WS6yjEZZP) | 4:13 | 2022-07-01 |  |
 | [Veronica](https://open.spotify.com/track/7FUC7LjVt9vJHCOxBMMgkv) | [Caramelos De Cianuro](https://open.spotify.com/artist/34OLInsXImlQpjzmQw9Wd3) | [Miss Mujerzuela](https://open.spotify.com/album/4F2vs4bs1hsNJqRBFPFNJ2) | 4:13 | 2022-09-30 | 2022-11-14 |
 | [Veronica](https://open.spotify.com/track/2qqASN7cEog305AqjU7Bmf) | [Caramelos De Cianuro](https://open.spotify.com/artist/34OLInsXImlQpjzmQw9Wd3) | [Miss Mujerzuela](https://open.spotify.com/album/0s8HORRvzAOMHXtWQMAsPK) | 4:17 | 2021-12-17 | 2022-07-29 |
-| [Virgen](https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Más Que Nunca](https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk) | 4:31 | 2021-12-17 |  |
+| [Virgen](https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Más Que Nunca](https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk) | 4:31 | 2021-12-17 | 2023-04-20 |
+| [Virgen](https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [La Historia..\. Los Éxitos](https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ) | 4:33 | 2023-03-03 |  |
 | [Vivo Pensando En Ti \(feat\. Maluma\)](https://open.spotify.com/track/0H7cz1bR7w9PulJL7Na774) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Vivo Pensando En Ti \(feat\. Maluma\)](https://open.spotify.com/album/22GyzVcUc0jsXtnH6TqAyu) | 3:52 | 2021-12-17 |  |
 | [Volare](https://open.spotify.com/track/6TCnhziFkBPhOTqvh8zVDU) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Volare](https://open.spotify.com/album/56qdykzNrRw4ls93MBNKZc) | 2:27 | 2022-09-30 |  |
 | [Y Voy a Amarte](https://open.spotify.com/track/1IZocCcHoBAcDutHXPEkKT) | [Tecupae](https://open.spotify.com/artist/4FNbNj9mlDLitaic9vXlwZ) | [Tiempo](https://open.spotify.com/album/7g7pH8sG8UFdV7hxaWJMAy) | 3:47 | 2022-07-01 |  |

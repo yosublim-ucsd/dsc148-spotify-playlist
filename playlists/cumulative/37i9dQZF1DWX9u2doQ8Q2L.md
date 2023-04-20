@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-689 songs - 1 day 18 hr 46 min
+692 songs - 1 day 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,7 +308,8 @@
 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 | 2023-01-17 |  |
 | [Mystery Train \- feat\. Wez Atlas](https://open.spotify.com/track/0v2zPLhc7ZROOxz1uOQjps) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [Mystery Train \(feat\. Wez Atlas\)](https://open.spotify.com/album/19pg8oyWhvQ9ILkHML1Uo4) | 3:41 | 2022-06-21 | 2022-08-03 |
 | [M八七](https://open.spotify.com/track/3sFdaHo9D3hfiFt2wVi6a5) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [M八七](https://open.spotify.com/album/0QY96kqY4P5tJQaEmaE0CK) | 4:23 | 2022-05-26 | 2022-07-01 |
-| [N](https://open.spotify.com/track/25S5RcQ5NQTlPuaW4HLP5z) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [N](https://open.spotify.com/album/63CIY5JWFCwbGBXZzGNf6H) | 2:50 | 2023-04-18 |  |
+| [N](https://open.spotify.com/track/25S5RcQ5NQTlPuaW4HLP5z) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [N](https://open.spotify.com/album/63CIY5JWFCwbGBXZzGNf6H) | 2:50 | 2023-04-18 | 2023-04-20 |
+| [N](https://open.spotify.com/track/3YoXxt7W9LTefFCUx8wSbS) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [N](https://open.spotify.com/album/62Uf86QDEeOJR3fsOBF1Xr) | 2:50 | 2023-04-18 |  |
 | [Nectar\. \- uin Remix](https://open.spotify.com/track/0lOKFVFJDrueXNPWcXAXI5) | [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [Nectar\. \(uin Remix\)](https://open.spotify.com/album/1HEmSU08rWCzt867p5uOYo) | 3:06 | 2022-06-21 | 2022-07-20 |
 | [Nemuranaideyo feat\. Ikuko Harada](https://open.spotify.com/track/0BWxTiFYuAoJSxDnHUs4UZ) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR), [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [Nemuranaideyo feat\. Ikuko Harada](https://open.spotify.com/album/21wUhU2axAMTJWEaREHo1g) | 4:17 | 2023-04-05 | 2023-04-12 |
 | [Neo Tokio Stranger](https://open.spotify.com/track/0Zkl7Lp2XjVd3UgHYilqXb) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX), [Pecori](https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t), [Tondenhey](https://open.spotify.com/artist/2qgqhlT5r0VIUwCCycLlAq), [Kyoichi Mikuriya](https://open.spotify.com/artist/32trGIrg8yijKuRYolLtNK) | [Neo Tokio Stranger](https://open.spotify.com/album/5Th0vWDtszKUyQDULhhnhR) | 3:50 | 2022-11-22 | 2023-01-04 |
@@ -391,7 +392,8 @@
 | [Save Me Tonight](https://open.spotify.com/track/0bIgcfjpIsjFIpEXKd2BiM) | [Def Tech](https://open.spotify.com/artist/7CifQjntMwkU4kfV85zTnS) | [Save Me Tonight](https://open.spotify.com/album/3obgU7GXmEVH1YzAdHIToZ) | 3:15 | 2022-11-24 | 2022-11-26 |
 | [Save Me Tonight](https://open.spotify.com/track/6BbiAm2kP8ZSVuba0oMvBl) | [Def Tech](https://open.spotify.com/artist/7CifQjntMwkU4kfV85zTnS) | [Save Me Tonight](https://open.spotify.com/album/384puu2XE2cjWNL66vcOhm) | 3:15 | 2022-11-24 | 2022-12-07 |
 | [Save Yourself](https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw) | 3:17 | 2022-06-23 | 2022-07-01 |
-| [Season](https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Season](https://open.spotify.com/album/4Bf2U02MHfbI5QwpdID98M) | 3:28 | 2023-04-18 |  |
+| [Season](https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Season](https://open.spotify.com/album/4Bf2U02MHfbI5QwpdID98M) | 3:28 | 2023-04-18 | 2023-04-20 |
+| [Season](https://open.spotify.com/track/5mIJzqBwYM3SSVuCCCC3gg) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Season](https://open.spotify.com/album/0oNra3mg2Pon6DWljxx8WR) | 3:28 | 2023-04-18 |  |
 | [Secret Ceremony](https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [Secret Ceremony](https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ) | 3:40 | 2022-05-26 | 2022-06-29 |
 | [Secret Path](https://open.spotify.com/track/0sYJyR15HTyCOPay0uVjng) | [BESPER](https://open.spotify.com/artist/5789BJLcwL0l01iK4OPlyX) | [Orbit](https://open.spotify.com/album/4fpqwqvKAKxOA8OtGFohTm) | 4:01 | 2022-12-06 | 2022-12-28 |
 | [September \- Daydream Remix \-](https://open.spotify.com/track/3UVNNLapPN64OWvWk3nwD6) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [September \- Daydream Remix \-](https://open.spotify.com/album/4K5Ab56fYvafThohRSJ8gS) | 3:18 | 2022-10-27 | 2022-11-02 |
@@ -444,7 +446,8 @@
 | [Summer Breezin’](https://open.spotify.com/track/7l0gkhracl0YHt0T5nivl2) | [Purple Drip](https://open.spotify.com/artist/57AcMFAHVRDjh4jQ192fQf) | [Summer Breezin’](https://open.spotify.com/album/4difJVvfZwNIaOEOC7jU7w) | 5:12 | 2022-06-28 | 2022-07-29 |
 | [summercut](https://open.spotify.com/track/4SDFECUJAYtTEElw4cgZ9e) | [Cruyff](https://open.spotify.com/artist/7lSyPTZ8neNa8NSrRYyx8A) | [lovefullstudentnerdthings](https://open.spotify.com/album/6lqDNJ9mpw2n9LLTtLJFmQ) | 5:49 | 2023-04-11 | 2023-04-19 |
 | [Sundaynight](https://open.spotify.com/track/7gPcTsRB1ylvb17OckGa2K) | [三浦康嗣](https://open.spotify.com/artist/6B8BKABBOAyNQnCdrRXtXH) | [Sundaynight](https://open.spotify.com/album/5ZAQlhUTPNNchqfZXS8g98) | 5:09 | 2023-01-20 | 2023-01-25 |
-| [SUPERNOVA](https://open.spotify.com/track/5V7YhNvRSazLfEANYU3peX) | [Murakami Keisuke](https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu) | [SUPERNOVA](https://open.spotify.com/album/0duTQZp3avVEjQELyT0vQd) | 3:31 | 2023-04-18 |  |
+| [SUPERNOVA](https://open.spotify.com/track/1sjPeakADwAfjZHis1svgO) | [Murakami Keisuke](https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu) | [SUPERNOVA](https://open.spotify.com/album/46wHXcoKdMG9VGPh7ogf1l) | 3:31 | 2023-04-18 |  |
+| [SUPERNOVA](https://open.spotify.com/track/5V7YhNvRSazLfEANYU3peX) | [Murakami Keisuke](https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu) | [SUPERNOVA](https://open.spotify.com/album/0duTQZp3avVEjQELyT0vQd) | 3:31 | 2023-04-18 | 2023-04-20 |
 | [Superpower \(KM Remix\)](https://open.spotify.com/track/7srrFIxUG3AqUwVf5GQS5K) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Superpower \(KM Remix\)](https://open.spotify.com/album/2MinXn5C1XQ9NN75AOTU1X) | 4:33 | 2022-07-19 | 2022-10-05 |
 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-09-30 | 2022-11-14 |
 | [Suzume](https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume \(Motion Picture Soundtrack\)](https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq) | 3:58 | 2022-11-10 | 2022-12-07 |

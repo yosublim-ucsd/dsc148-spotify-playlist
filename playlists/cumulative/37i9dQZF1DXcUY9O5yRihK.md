@@ -4,7 +4,7 @@
 
 > bossa vibes and a romantic daydream
 
-59 songs - 2 hr 58 min
+61 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 | 2023-01-06 |  |
 | [Desafinado \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Desafinado \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv) | 2:10 | 2023-01-06 |  |
 | [do u really? \(with Ruth B.\)](https://open.spotify.com/track/0y6M5yh5WYBZXBTrAAp3cy) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [do u really?](https://open.spotify.com/album/0GF4XbJWS3wXBssOfKFbb6) | 2:41 | 2023-02-03 |  |
-| [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 | 2023-01-20 |  |
+| [Drunk On A Flight](https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 3:02 | 2023-03-31 |  |
+| [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 | 2023-01-20 | 2023-04-20 |
 | [Embrasse Moi](https://open.spotify.com/track/4TVGPGXdzaVUMSucKxOMQu) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Clementine](https://open.spotify.com/artist/5TjiHAfGCJuUsTyAg9Z5fx) | [Embrasse Moi](https://open.spotify.com/album/4YZ6qaWOYDkgtRnWJlkrhW) | 2:57 | 2023-01-06 |  |
 | [Entre nous](https://open.spotify.com/track/6O3ksAhy0XOhf48pmz23bR) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Entre nous](https://open.spotify.com/album/6NT4HEyfM1QmvoUguE0EHf) | 2:59 | 2023-01-06 |  |
 | [espresso](https://open.spotify.com/track/0VNcFGQjN7huUyEPwBtksC) | [wüsh](https://open.spotify.com/artist/4UpdjtYWiLUuaFT18TefcK), [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt), [Lucy Weld](https://open.spotify.com/artist/0YnLefkesxcihbTtIG0iyZ) | [Mountain Tops](https://open.spotify.com/album/5A1axIYldvItf7MvKe5mGl) | 1:32 | 2023-01-06 |  |
@@ -59,7 +60,8 @@
 | [tuff girl](https://open.spotify.com/track/7AlhwcNS6GL3d0MQ1eRm6O) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [tuff girl](https://open.spotify.com/album/4UD7JRoWzJsVijTkEhnaev) | 4:49 | 2023-01-06 |  |
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2023-01-06 |  |
 | [Uno Dos](https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden Smith](https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 2:50 | 2023-01-06 |  |
-| [Vanilla Tobacco](https://open.spotify.com/track/36XMwwDfgKyl3nIksXbZ4G) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Vanilla Tobacco](https://open.spotify.com/album/6HJjCkU7RNvqiYB0iZVIgR) | 2:48 | 2023-01-06 |  |
+| [Vanilla Tobacco](https://open.spotify.com/track/17wRNRiO8LZLP79mf8Fri7) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 2:48 | 2023-03-31 |  |
+| [Vanilla Tobacco](https://open.spotify.com/track/36XMwwDfgKyl3nIksXbZ4G) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Vanilla Tobacco](https://open.spotify.com/album/6HJjCkU7RNvqiYB0iZVIgR) | 2:48 | 2023-01-06 | 2023-04-20 |
 | [Waiting by the Window](https://open.spotify.com/track/3NVDwR7cuCNy30L0DZPQil) | [mokina](https://open.spotify.com/artist/6TnOtn1qYytprdSpG4kYCc), [carbeau](https://open.spotify.com/artist/5MOkquoZnhyJEcXBpVHR2j) | [Waiting by the Window](https://open.spotify.com/album/1EnZIihjXvcmZW4IW84P6j) | 2:19 | 2023-01-06 |  |
 | [walk but in a garden \(with mxmtoon\)](https://open.spotify.com/track/4Kpt4pk9xgOlIgu9qvUrxC) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [walk but in a garden](https://open.spotify.com/album/73B3H18jWD1TVDWId6CifF) | 1:52 | 2023-01-06 |  |
 | [When I Look Into Your Eyes](https://open.spotify.com/track/6h0zYPs9wEj3ydlgwpibSL) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c), [Lanie](https://open.spotify.com/artist/1qUDBm1ALFrHogBczA8KIF) | [When I Look Into Your Eyes](https://open.spotify.com/album/6wT9XMbBpXNZTkXGatvKiV) | 2:30 | 2023-01-06 |  |

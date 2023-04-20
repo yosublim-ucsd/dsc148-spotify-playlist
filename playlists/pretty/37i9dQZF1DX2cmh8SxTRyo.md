@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cmh8SxTRyo.md) - [plain]
 
 > A gaming playlist for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,485 likes - 79 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,490 likes - 79 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cmh8SxTRyo.md) - [plain]
 | 53 | [Don't Stop The Music](https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 4:27 |
 | 54 | [Mi Gente](https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [Mi Gente](https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k) | 3:09 |
 | 55 | [On Top Of The World](https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Deluxe\)](https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r) | 3:09 |
-| 56 | [Make It Right \(feat\. Lauv\)](https://open.spotify.com/track/2WH4oy1SYppZrcdgKwSA0j) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Make It Right \(feat\. Lauv\)](https://open.spotify.com/album/7EBPKgQ3ITnvdppu5DEcqF) | 3:46 |
-| 57 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:57 |
+| 56 | [Ice Cream \(with Selena Gomez\)](https://open.spotify.com/track/4JUPEh2DVSXFGExu4Uxevz) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:57 |
+| 57 | [Make It Right \(feat\. Lauv\)](https://open.spotify.com/track/2WH4oy1SYppZrcdgKwSA0j) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Make It Right \(feat\. Lauv\)](https://open.spotify.com/album/7EBPKgQ3ITnvdppu5DEcqF) | 3:46 |
 | 58 | [Raining Tacos](https://open.spotify.com/track/01apQz7E72krU1k1b4VWs7) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [Parry Gripp Mega\-Party \(2008 \- 2012\)](https://open.spotify.com/album/0xbbsauKysPCTQDd38P2CW) | 1:32 |
 | 59 | [Let's Love](https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Let's Love](https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr) | 3:20 |
 | 60 | [Let's Go \(feat\. Ne\-Yo\)](https://open.spotify.com/track/4wkQmYpAaMe41Rc3sYZ7Vz) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:52 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cmh8SxTRyo.md) - [plain]
 | 78 | [Tortoise Playing Minecraft](https://open.spotify.com/track/2je07NBiHQZNoZRvTNB0AO) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [Tortoise Playing Minecraft](https://open.spotify.com/album/7KhfdyxlNNX1rZ7xS6dx5k) | 2:12 |
 | 79 | [Don't Stop the Party \(feat\. TJR\)](https://open.spotify.com/track/7ahuMdaf5gdVi35BzyU9Qu) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq) | [Greatest Hits](https://open.spotify.com/album/1webHYaeCy8j9smqS23sgE) | 3:25 |
 
-Snapshot ID: `MTY3NjY1NzQyMiwwMDAwMDAwMDA2YTQ3M2U3ZDhiMDRlYWVlMzc1MDJhM2MyODQ1Y2Iy`
+Snapshot ID: `MTY3NjY1NzQyMiwwMDAwMDAwMGRiNzZjOWE1MmJlNDVjMDI2Mzc2OGZmYmMzZDVjOGQ5`

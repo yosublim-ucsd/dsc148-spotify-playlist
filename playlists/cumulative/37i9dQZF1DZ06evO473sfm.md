@@ -4,7 +4,7 @@
 
 > This is Grupo Frontera\. The essential tracks, all in one playlist.
 
-21 songs - 1 hr 7 min
+22 songs - 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Que Vuelvas](https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Que Vuelvas](https://open.spotify.com/album/3dLJKctfTGFr731SvtnS3j) | 2:49 | 2023-03-10 |  |
 | [Si Yo Fuera Ladrón](https://open.spotify.com/track/17PlPQ6pWfjvA77V0UHfhV) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Profugos de Nuevo Leon](https://open.spotify.com/artist/1rWt5Y6NivOcqlZ9bgdAw5) | [Si Yo Fuera Ladrón](https://open.spotify.com/album/0uzre43qEP2l9n0QkxF2OV) | 2:59 | 2023-03-10 |  |
 | [Super Poderes](https://open.spotify.com/track/5rAOIlEChbdFyrFEEcDqAX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Secretto](https://open.spotify.com/artist/6SHAWeSDnokcCA2XhPNgHh) | [Super Poderes](https://open.spotify.com/album/47Kif0U9Uen1422h9tSkAM) | 2:53 | 2023-03-10 |  |
+| [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-04-19 |  |
 | [Vete](https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Vete](https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW) | 2:55 | 2023-03-10 |  |
 | [Ya Me Entere \- En Vivo](https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ya Me Entere \(En Vivo\)](https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe) | 3:42 | 2023-03-10 |  |
 

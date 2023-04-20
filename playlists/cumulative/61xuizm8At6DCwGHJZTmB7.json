@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 360690,
       "name": "Abide - Live",
       "url": "https://open.spotify.com/track/4Bo1QB23vxppx9TklFsmKw"
@@ -1078,6 +1078,24 @@
       "duration_ms": 256491,
       "name": "Every Season",
       "url": "https://open.spotify.com/track/02t03Wh4GNnBnrHRssVnrN"
+    },
+    {
+      "album": {
+        "name": "All To Jesus (Live)",
+        "url": "https://open.spotify.com/album/6nnFeb5sm2y94TYPzM0iPl"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256491,
+      "name": "Every Season",
+      "url": "https://open.spotify.com/track/7ufiyvwjHrub0fzrreI6uF"
     },
     {
       "album": {
@@ -4370,7 +4388,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 253639,
       "name": "Set Me On Fire",
       "url": "https://open.spotify.com/track/7AwsTDt4RKJcPK7b6ptY54"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > Con licuachela en mano y perreando hasta el piso\. El Alfa en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,333 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,338 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 13 | [Tiempos de Plan B](https://open.spotify.com/track/3ncDEAUzMdf291D27RJQdM) | [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [Tiempos de Plan B](https://open.spotify.com/album/7ciezkBiqpR8MOPveRhHLb) | 2:41 |
 | 14 | [Azote](https://open.spotify.com/track/7IJZyhrttBYZAIwQxmPxuj) | [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv) | [Azote](https://open.spotify.com/album/2IvC3pPmUw7QDAamPXP0i8) | 1:57 |
 | 15 | [Tiki Tiki](https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Tiki Tiki](https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ) | 2:11 |
-| 16 | [Tra Tra Tra Remix \- Remix](https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Mad Fuentes](https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW) | [Tra Tra Tra Remix](https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc) | 2:51 |
+| 16 | [Helicoptero](https://open.spotify.com/track/4xGuA6Amh6K4MVoxXgYrKU) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Helicoptero](https://open.spotify.com/album/6OOgmb8FF0GxEH0FzttnLD) | 2:17 |
 | 17 | [Perreo Chakalon](https://open.spotify.com/track/3Mwty5hFEbRARdiMsS6Kyr) | [DJ ETER](https://open.spotify.com/artist/74d5JvA21aJKseU1ISn9CW), [Alexito Mix](https://open.spotify.com/artist/1EJlMs9YAmWYkkZrQ01DK4) | [Perreo Chakalon](https://open.spotify.com/album/6yiD7DcSWqTeh4s7M9cMo1) | 2:16 |
-| 18 | [Helicoptero](https://open.spotify.com/track/4xGuA6Amh6K4MVoxXgYrKU) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Helicoptero](https://open.spotify.com/album/6OOgmb8FF0GxEH0FzttnLD) | 2:17 |
+| 18 | [Tra Tra Tra Remix \- Remix](https://open.spotify.com/track/4YqCBC4FwzGXuhixt5cgmm) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Mad Fuentes](https://open.spotify.com/artist/6fzh7nbhTUmqHUlx7a6DFW) | [Tra Tra Tra Remix](https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc) | 2:51 |
 | 19 | [L\-Gante: RKT SESSIONS \#1](https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi) | [Papu DJ](https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante: RKT SESSIONS \#1](https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG) | 3:01 |
 | 20 | [Discotequera](https://open.spotify.com/track/5nUbVeL78iikt7qEnNSij5) | [Fran Lorenz](https://open.spotify.com/artist/1ZwW6tG1kVnq1XBGfu3tOB), [Ale Mix](https://open.spotify.com/artist/2uxoElzOZDIX9L5Dc7Oa2F), [Riko Mix](https://open.spotify.com/artist/4tLNdBKmqrgKBjgcnKCdeP) | [Discotequera](https://open.spotify.com/album/4cpDqJY2bMij4QTCylkjTI) | 2:53 |
 | 21 | [Rebota](https://open.spotify.com/track/4THusowxdHxwt0HBh5pyRx) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Rebota](https://open.spotify.com/album/4k7X71ESLjW13vV6XYI0MM) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 49 | [Le Encanta](https://open.spotify.com/track/58WWCAi0pGb9Kw49BnGTXI) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF) | [Le Encanta](https://open.spotify.com/album/1TV7WOBMrutnBWvDfkZA8G) | 4:13 |
 | 50 | [El Goloso](https://open.spotify.com/track/68QtlyBrzD98s4phcL1fx2) | [RD Maravilla](https://open.spotify.com/artist/0nQKjof7jr673bYRKIHqe4) | [Flow Pesao](https://open.spotify.com/album/6DL7KLWzBh9VSX0Zaf4LM3) | 2:57 |
 
-Snapshot ID: `MTY4MTQ1MjAwMCwwMDAwMDAwMDEzZGFlOGMzMjIxNjlhM2RjZmMwMWI3ZTVjOTExNDll`
+Snapshot ID: `MTY4MTQ1MjAwMCwwMDAwMDAwMDRiNTZhZGQ0YTY1Yzg1ZjU5OTAxM2VkNTY1OTM5NjBj`

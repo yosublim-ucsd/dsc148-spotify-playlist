@@ -4,7 +4,7 @@
 
 > Alleen maar motion en good vibes\. Cover: Mello & Architrackz
 
-476 songs - 21 hr 27 min
+477 songs - 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [2 Kanten](https://open.spotify.com/track/4AVIjhILX1rtfHoAE2BlHe) | [Bella](https://open.spotify.com/artist/4ny2jX3s8drdHQJv2UMrzi) | [2 Kanten](https://open.spotify.com/album/5XKTGqakgMXTPBY9oIJFFb) | 2:47 | 2022-11-10 | 2022-12-09 |
 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 | 2022-11-10 | 2022-12-09 |
 | [2:30](https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [2:30](https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L) | 2:18 | 2023-04-06 | 2023-04-14 |
-| [3/4 Dingen](https://open.spotify.com/track/5Fh809xDN3K5u4N2Q31R2O) | [Equalz](https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS) | [3/4 Dingen](https://open.spotify.com/album/2bYn8s51z0MRydOjxHe65d) | 2:27 | 2023-01-26 |  |
+| [3/4 Dingen](https://open.spotify.com/track/5Fh809xDN3K5u4N2Q31R2O) | [Equalz](https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS) | [3/4 Dingen](https://open.spotify.com/album/2bYn8s51z0MRydOjxHe65d) | 2:27 | 2023-01-26 | 2023-04-20 |
 | [5 Shots](https://open.spotify.com/track/44umGFDnbnwLD7Eovr4jYE) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [Strandje Aan De Maas](https://open.spotify.com/album/6p6fROC9FzKXHBY7RyVjuA) | 3:02 | 2022-10-31 | 2023-02-10 |
 | [5 Shots](https://open.spotify.com/track/6ayHgGpGR1GL8DYYcQZ0T4) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [5 Shots](https://open.spotify.com/album/3cD8xzylIG2Y8a4jRp8Ftd) | 3:02 | 2022-10-26 | 2022-11-01 |
 | [7 Dagen](https://open.spotify.com/track/5nU27RM0y7b9nh0mY1yjbF) | [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [7 Dagen](https://open.spotify.com/album/2u99gWVgDQ7nBWoTeo5s5y) | 2:50 | 2022-12-08 | 2023-03-25 |
@@ -70,6 +70,7 @@
 | [Believe](https://open.spotify.com/track/3x8vHQ7puLfFcifPHlnf5I) | [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7), [Vlado](https://open.spotify.com/artist/3OcPdn7YP6TgPT4wqoDOfi) | [Believe](https://open.spotify.com/album/7r7JMmXSL78LgTwpCb0RA9) | 2:13 | 2022-09-29 | 2022-11-18 |
 | [Bella](https://open.spotify.com/track/1cWhEVeod9vNnt99IWQOtp) | [ND](https://open.spotify.com/artist/6hXVcZyUR2WLIXDkXrw1eQ), [Giordan Chase](https://open.spotify.com/artist/70UN6NJ61w4Ugtjgmlu0HT) | [Bella](https://open.spotify.com/album/0m06zefSt575K7uCdShGxr) | 3:20 | 2022-12-08 | 2023-04-07 |
 | [Beslama](https://open.spotify.com/track/0uPYFty43hvhwdeFrIbVGq) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [Blacka](https://open.spotify.com/artist/05p1rE5MjBgEblb7wgaUZ7) | [Beslama](https://open.spotify.com/album/6s9dmp1dGErzwfrmYlrQpB) | 2:44 | 2022-11-17 | 2022-12-16 |
+| [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-04-19 |  |
 | [Bestie](https://open.spotify.com/track/18VGPLvONm381ScPGhBXNb) | [Tjatjie](https://open.spotify.com/artist/2xLO5iLr601OrcfLKlMIPQ), [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS) | [Bestie](https://open.spotify.com/album/2TNRp017CdbAr8KksHBtkD) | 2:08 | 2022-08-25 | 2022-09-09 |
 | [Beter Af Alleen](https://open.spotify.com/track/7dDbJduMeUOHoU2SATXn7k) | [Lirical](https://open.spotify.com/artist/2H0j2bWQRjJWzcGIjnl7nX) | [Beter Af Alleen](https://open.spotify.com/album/5EtgGMGFw9y0xy0xUDwFRw) | 2:13 | 2023-01-26 | 2023-02-10 |
 | [Big Man Ting](https://open.spotify.com/track/5ulIfOLr3pg4EDuVmF96RD) | [RBDjan](https://open.spotify.com/artist/1W4O1UxWetSz00CiAu01zf), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [Kleine Jongens Worden Groot](https://open.spotify.com/album/24z2HWc8t4yya3nP4yEBaC) | 2:32 | 2022-11-10 | 2022-11-26 |

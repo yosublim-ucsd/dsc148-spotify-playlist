@@ -1,12 +1,12 @@
 {
   "description": "New music each and every Friday.",
-  "num_followers": 1002098,
+  "num_followers": 1002162,
   "original_name": "This is Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0Njg5OCwwMDAwMDAwMDViNGRmM2QyMTRmZDY0Y2ZjMzVkYjQ2MjI4NmYzZmY0",
+  "snapshot_id": "MTY4MTQ0Njg5OCwwMDAwMDAwMDU3OWVmYjZlMzMwMWQ1NjkyNzY0YzdhNmRjMjY4NmEz",
   "tracks": [
     {
       "added_at": "2023-04-14 04:01:11",
@@ -1203,10 +1203,14 @@
     {
       "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "For Granted (feat. Arin Ray & 9th Wonder)",
-        "url": "https://open.spotify.com/album/5l1oWPwn5OqgbbBLyCrU05"
+        "name": "Enigmatic Society",
+        "url": "https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe"
       },
       "artists": [
+        {
+          "name": "Dinner Party",
+          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
+        },
         {
           "name": "Terrace Martin",
           "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
@@ -1220,17 +1224,17 @@
           "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
         },
         {
-          "name": "Arin Ray",
-          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
-        },
-        {
           "name": "9th Wonder",
           "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        },
+        {
+          "name": "Arin Ray",
+          "url": "https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc"
         }
       ],
       "duration_ms": 172000,
-      "name": "For Granted (feat. Arin Ray & 9th Wonder)",
-      "url": "https://open.spotify.com/track/0IT1pmbYjQjoU0IUMVZ6XU"
+      "name": "For Granted (feat. Arin Ray)",
+      "url": "https://open.spotify.com/track/39RJfDkli3BkEsW6LN4DrZ"
     },
     {
       "added_at": "2023-04-07 04:00:00",

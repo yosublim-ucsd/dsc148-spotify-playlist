@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 338 likes - 50 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 370 likes - 50 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 20 | [Wonder](https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Elevated](https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg) | 3:54 |
 | 21 | [When I See You](https://open.spotify.com/track/2s4m4TSn6vl0y2fdJZyUkG) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Birth of Revival](https://open.spotify.com/album/2Cglyux6VJ6U1fcLaDGtHH) | 13:32 |
 | 22 | [I Know Who I Am](https://open.spotify.com/track/6ATZruJOCm9ORqzLK27rwG) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Shout It Loud](https://open.spotify.com/album/4g8iTahsd8a7fVTSCSxHBq) | 6:10 |
-| 23 | [Na God I Dey Praise \(Craze\)](https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4) | [Na God I Dey Praise \(Craze\)](https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz) | 3:38 |
+| 23 | [We Praise You Lord](https://open.spotify.com/track/5PIWHAMG8q65e3N3R5sO6Q) | [Kayode Akojenu](https://open.spotify.com/artist/4O48ObVF6aHUEOgTVaNcwj) | [African Praise](https://open.spotify.com/album/5XNTJwz4mGTJAVjNE9gpFn) | 1:31 |
 | 24 | [Taking Care \- Remix](https://open.spotify.com/track/28BKMZMQzetbKzNPkSdIBe) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Taking Care](https://open.spotify.com/album/2nnyWDOWOobVUC6xx1XBqd) | 3:42 |
-| 25 | [We Praise You Lord](https://open.spotify.com/track/5PIWHAMG8q65e3N3R5sO6Q) | [Kayode Akojenu](https://open.spotify.com/artist/4O48ObVF6aHUEOgTVaNcwj) | [African Praise](https://open.spotify.com/album/5XNTJwz4mGTJAVjNE9gpFn) | 1:31 |
+| 25 | [Na God I Dey Praise \(Craze\)](https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4) | [Na God I Dey Praise \(Craze\)](https://open.spotify.com/album/6iKC3S8qyMEiX2S0jKS6uz) | 3:38 |
 | 26 | [Oluwa E Tobi](https://open.spotify.com/track/0oaKmxWcHhhs4G382nd2Dh) | [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ), [Kike Mudiaga](https://open.spotify.com/artist/5Xg68cQyFO6Cui07HB4oKF) | [S\. W\. A\. G \(Saved with Amazing Grace\)](https://open.spotify.com/album/4e7jM4Ly4okAfuzhYmqasg) | 4:02 |
 | 27 | [Hosanna](https://open.spotify.com/track/0H1Jd2NNq80u7xF7FzyJtn) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Hosanna](https://open.spotify.com/album/64p2ahUYDuum6CrFPSlmnV) | 5:21 |
 | 28 | [Worthy Is the Lamb \(Hallelujah Challenge Praise Medley 2\)](https://open.spotify.com/track/5kZvQyDPB33N9yb99rdc3V) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 10:28 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 38 | [Hallelujah](https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Xperience with Love](https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi) | 9:46 |
 | 39 | [Omeriwo](https://open.spotify.com/track/65tGleT9TqETxPXyjLf6Es) | [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Omeriwo](https://open.spotify.com/album/76sBUYUu76JYwbMZ8K1dwP) | 3:38 |
 | 40 | [Amen](https://open.spotify.com/track/0xzJ4tttj4yidyKPgnXdYY) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Amen](https://open.spotify.com/album/5RTLtWTO9qyUzwn0Eps3cY) | 4:14 |
-| 41 | [Praise Medley](https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f) | [Ronke Adesokan](https://open.spotify.com/artist/6RDJ0S6zPBDwxTMOawmhR2) | [Celebrating Jesus](https://open.spotify.com/album/02Yl0lBAqxEcUTrIircQbU) | 22:58 |
-| 42 | [This Far by Grace](https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD) | [Pastor Edwin Dadson](https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH) | [This Far by Grace](https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR) | 4:53 |
+| 41 | [This Far by Grace](https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD) | [Pastor Edwin Dadson](https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH) | [This Far by Grace](https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR) | 4:53 |
+| 42 | [Praise Medley](https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f) | [Ronke Adesokan](https://open.spotify.com/artist/6RDJ0S6zPBDwxTMOawmhR2) | [Celebrating Jesus](https://open.spotify.com/album/02Yl0lBAqxEcUTrIircQbU) | 22:58 |
 | 43 | [Afro Praise 1](https://open.spotify.com/track/7LzzKW44Q6I1wFN1JHei7c) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 4:39 |
 | 44 | [Bianule](https://open.spotify.com/track/1DMuaLKEiRKcGDiNhvIhOm) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [Bianule](https://open.spotify.com/album/6l7RCe4ohTuPzAdPBuvtdl) | 4:44 |
 | 45 | [Green Land](https://open.spotify.com/track/40A974aVBeF7avQm8rvk3D) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Joseph Company](https://open.spotify.com/artist/5E43CXxhV0XWcnzNZEmKj3) | [Greenland](https://open.spotify.com/album/6i0kFsZupElRoGuECviIaK) | 4:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 49 | [African Praise Medley: Everybody Looko Looko / Ojasope / Baba Mimo Mowasope / Wamilele / Awesome Mighty God / Odiaga / Hallelujah / Jehovah Jireh](https://open.spotify.com/track/4RW6Po4zZi5TiHX6yXvnha) | [Dayo Bello](https://open.spotify.com/artist/2rsakqcHwgb4tSOP6UFaMA) | [Resurrection Praise Project \(Live\)](https://open.spotify.com/album/7zW9ri7brioqtdyJvgcbqT) | 16:08 |
 | 50 | [Afro Praise 3](https://open.spotify.com/track/319HK6tHJu3zAzUGS7nxAK) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Colours of Africa: Live in London](https://open.spotify.com/album/4UIwyWDtiJ6l9Cgvcdp3Jd) | 5:42 |
 
-Snapshot ID: `MTY4MTQ5MDQ2NCwwMDAwMDAwMDM4YjRkMWFmNTVlMTVmMGQ5MjkwZGQ3ODkxMTFiMDY0`
+Snapshot ID: `MTY4MTQ5MDQ2NCwwMDAwMDAwMGQwYTNkMTU2OGMyYWM0MDQ2NzZkZDM5NjBmMmNjYTFh`

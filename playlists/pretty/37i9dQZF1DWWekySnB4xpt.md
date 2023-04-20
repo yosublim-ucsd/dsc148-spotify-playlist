@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 
 > Representando la cultura con orgullo\. Representing with pride! Cover: Mau y Ricky
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,619 likes - 85 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,688 likes - 85 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Miami](https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Miami](https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2) | 2:10 |
 | 2 | [Emeycé](https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Emeycé](https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal) | 2:56 |
 | 3 | [Es Épico](https://open.spotify.com/track/2kd0T6zgABT8P0s2h9QU5O) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Muerte](https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12) | 6:01 |
-| 4 | [Virgen](https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Más Que Nunca](https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk) | 4:31 |
+| 4 | [Virgen](https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [La Historia..\. Los Éxitos](https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ) | 4:33 |
 | 5 | [Permanente](https://open.spotify.com/track/3lDXncCCsimJ17cHYodtRl) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Permanente](https://open.spotify.com/album/5CCwwqcE6HCHSBYgRNS4zz) | 3:55 |
 | 6 | [Me Rehúso](https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Me Rehúso](https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d) | 3:25 |
 | 7 | [Te Vi](https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Vi](https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5) | 3:51 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 | 43 | [Andas En Mi Cabeza](https://open.spotify.com/track/23WI5V2eD4EyGKxSl7Pyeq) | [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Andas En Mi Cabeza](https://open.spotify.com/album/0MaeGZFHJa76NUjYux7ygZ) | 4:07 |
 | 44 | [Espero Que Seas Feliz](https://open.spotify.com/track/5RQbH0k816MmniwnAFIg7p) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [The Good Trip](https://open.spotify.com/album/0xlPK1D3VcRtgT29aZX2VY) | 3:35 |
 | 45 | [Hennessy](https://open.spotify.com/track/2Cz3yDcBoePfcJCYdpYZCC) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Apokalypsis](https://open.spotify.com/album/396w1nHvgP7SQvdPq4SZya) | 3:49 |
-| 46 | [El Vestido Rojo](https://open.spotify.com/track/1v6q6j9tCZYrg4slscHO8t) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [Una Vez Más](https://open.spotify.com/album/7sb67M38RH5TgKbVRI4aAF) | 3:55 |
+| 46 | [El Vestido Rojo \- New Recording](https://open.spotify.com/track/554VZYxYPhSL9iAElfIWxM) | [Calle Ciega](https://open.spotify.com/artist/1itKPdyPUzkxqK58bw1Q8M) | [Mas Caliente](https://open.spotify.com/album/6Dv824OWfPevaG37N39Q3P) | 3:54 |
 | 47 | [Veronica](https://open.spotify.com/track/6r7Fr0fHtsUjfQFSbQeGeF) | [Caramelos De Cianuro](https://open.spotify.com/artist/34OLInsXImlQpjzmQw9Wd3) | [Miss Mujerzuela](https://open.spotify.com/album/3LU1q4hdfHd60WS6yjEZZP) | 4:13 |
 | 48 | [Allá Cayó](https://open.spotify.com/track/6F7uqfzvcdl5Y42mJBVc9V) | [Desorden Público](https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB) | [Plomo Revienta](https://open.spotify.com/album/5LIVxzLRdrJowxmLayI3uc) | 4:12 |
 | 49 | [EN SOLEDAD \(feat\. ADSO, Akapellah\)](https://open.spotify.com/track/7cSJCBT0AOLMAmgXaauUE0) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 4:22 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWekySnB4xpt.md) - [plain]
 | 84 | [Dos](https://open.spotify.com/track/1lDTr8oIKdRPcLsZtlyHXb) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Dos](https://open.spotify.com/album/4vsGohmLvbzTjQYfht3bmJ) | 2:57 |
 | 85 | [Manantial de Corazón](https://open.spotify.com/track/24ri1EFlBW3eYOuidgmBxu) | [Yordano](https://open.spotify.com/artist/207wrLMuGP7znQqdIaMCaJ), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [El Tren de los Regresos \(Parada Especial\)](https://open.spotify.com/album/2KYw8Iq21R9qXBBREdkEq3) | 4:12 |
 
-Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMDhhZGIwZWQ4ZmI1ZTg4OGI2ZGU2YTViNDJkNGU3MDQ0`
+Snapshot ID: `MTY3NzgxOTY2MCwwMDAwMDAwMDBjNWM5NzQwODFjYTU3YzY0YzIzZWJkZWQ1ZmNmMTAy`

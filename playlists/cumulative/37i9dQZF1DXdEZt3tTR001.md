@@ -4,7 +4,7 @@
 
 > lay back\. chill out.
 
-132 songs - 9 hr 19 min
+134 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Communication](https://open.spotify.com/track/4qZvLsmG7skj2mk7YRH5WG) | [Léonie Barbot](https://open.spotify.com/artist/3FtbcwEbxflXP8nItuw2rA), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK) | [Communication](https://open.spotify.com/album/6ttLLA2T9nDaqDyTAaxudU) | 3:36 | 2022-02-01 | 2022-12-09 |
 | [Compassion \(feat\. Chiiild\)](https://open.spotify.com/track/41h9PjfBH6mVDPMkLc6zsg) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Candydrip](https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ) | 4:22 | 2022-04-29 |  |
 | [Cranes in the Sky](https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 4:10 | 2021-08-18 |  |
+| [Cruel Intentions \(Remix\) \[feat\. Snoh Aalegra\]](https://open.spotify.com/track/54NPbWDqKcSGnP1FEkk7iC) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Cruel Intentions \(Remix\) \[feat\. Snoh Aalegra\]](https://open.spotify.com/album/3VpPE17j7Zja4iLdHnP1Ps) | 4:40 | 2023-04-20 |  |
 | [Dangerously In Love](https://open.spotify.com/track/5KlcGBXtj2TptXLe83OXcP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 5:06 | 2022-04-22 |  |
 | [DAYDREAM](https://open.spotify.com/track/2dsbZwFPMYhchakMgL72DD) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 3:01 | 2023-02-08 |  |
 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 | 2021-08-18 |  |
@@ -41,13 +42,14 @@
 | [elephant in the room](https://open.spotify.com/track/1N3br7Nh0Dz80SjntIRDIG) | [untradition](https://open.spotify.com/artist/14iZPa9FB6NBz4t5mR0oFe) | [elephant in the room](https://open.spotify.com/album/1PK3LYFEFFBEq7SiqqF39y) | 3:19 | 2022-04-22 | 2022-11-08 |
 | [Emotion](https://open.spotify.com/track/01Aj44KIjCrPmZeXq4UOky) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/480AZOo2VQ1kf3GedAiKV9) | 3:56 | 2022-04-19 | 2022-04-23 |
 | [Fallen](https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring](https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H) | 3:34 | 2022-04-22 |  |
-| [Falling Higher](https://open.spotify.com/track/5PGop05az1aIQsb10YW5Ex) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:18 | 2021-08-18 | 2023-04-14 |
+| [Falling Higher](https://open.spotify.com/track/5PGop05az1aIQsb10YW5Ex) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [Overture](https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L) | 3:18 | 2021-08-18 |  |
 | [Find A Way](https://open.spotify.com/track/3TkNsftUBh8dwwLUHpmYNC) | [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Subject](https://open.spotify.com/album/44knvMChf7CE5Jkg636gXy) | 4:09 | 2021-08-18 | 2022-12-03 |
-| [Fool of Me](https://open.spotify.com/track/3Fw7pl6UpksTfmYcXLbvx3) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Bitter](https://open.spotify.com/album/3acZy0MqbDAet78jYKYOyR) | 3:32 | 2021-08-18 | 2023-03-02 |
+| [Fool of Me](https://open.spotify.com/track/3Fw7pl6UpksTfmYcXLbvx3) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Bitter](https://open.spotify.com/album/3acZy0MqbDAet78jYKYOyR) | 3:32 | 2021-08-18 |  |
 | [For Real](https://open.spotify.com/track/0sxEHZ8WEPPTWGFXYBdB3O) | [Amel Larrieux](https://open.spotify.com/artist/4hVcxmC7igpot32EzQf7IR) | [Bravebird](https://open.spotify.com/album/4ifJLmQAJIUsAPmm6pnxJw) | 3:46 | 2021-08-18 |  |
 | [Fortunate](https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Fortunate](https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H) | 5:01 | 2022-05-06 |  |
 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/6nuNgD841boUffjDiI8et4) | 3:29 | 2022-04-22 |  |
 | [Free](https://open.spotify.com/track/5aPVQqYEEZKREbFRxLiAp5) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Love Songs](https://open.spotify.com/album/5yRdzDUGp5EK8hoBvdUNNg) | 5:56 | 2023-04-14 |  |
+| [Friendly Skies \(feat\. Ginuwine\)](https://open.spotify.com/track/580qfiaOR7n9PuKbRUi7qx) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:59 | 2023-04-20 |  |
 | [Get Away](https://open.spotify.com/track/0PNOOnX3WbYNeUj5o0P4PQ) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [The Interlude](https://open.spotify.com/album/6bZ7XNBJFwmpOdAp9xZkoX) | 2:36 | 2021-08-18 | 2022-07-29 |
 | [Get to You Again](https://open.spotify.com/track/5pNiAcguRrBdYf5V0QXdir) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Something to Feel](https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8) | 4:27 | 2021-08-18 |  |
 | [Getting Late](https://open.spotify.com/track/0khnsS3vcqT6qngEhZCk4c) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floetic](https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi) | 6:46 | 2022-05-06 | 2023-01-06 |
@@ -116,7 +118,7 @@
 | [Stay Up](https://open.spotify.com/track/6ia0rnYi7DEJGxDUbHtfiL) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Intérimes](https://open.spotify.com/album/1nmpHf4NsFpH4N1rscRD2e) | 3:29 | 2021-08-18 | 2022-07-29 |
 | [Stay Where You Are](https://open.spotify.com/track/1hCss2zjMPOdWFbr5Ryf3F) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Stay Where You Are](https://open.spotify.com/album/4gHiYSPUmmPoTT8h4AHHaS) | 3:29 | 2021-08-18 | 2022-06-08 |
 | [Still Wonder](https://open.spotify.com/track/48Ni2LTyeTjTzWBD69q9Dm) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Still Wonder](https://open.spotify.com/album/2UUBiQAfkxgPcMGBbfy5zi) | 3:58 | 2021-11-19 | 2023-02-08 |
-| [SULA \(Paperback\)](https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s) | 4:15 | 2022-07-28 | 2023-04-14 |
+| [SULA \(Paperback\)](https://open.spotify.com/track/1RwK5al4DKxgHQ234mKbwB) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/54gPc2awVOFQyZjJi6dB3s) | 4:15 | 2022-07-28 |  |
 | [SULA \(Paperback\)](https://open.spotify.com/track/1vTfSWBXwH0Aih8vpTu0xi) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA \(Paperback\)](https://open.spotify.com/album/01JhAnnK43SleFCNaVeJXK) | 4:15 | 2021-08-18 | 2022-07-29 |
 | [SULA \(Paperback\)](https://open.spotify.com/track/26kFP6TwarrLpmXO86PH5k) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [SULA](https://open.spotify.com/album/1u6YYtjNLMP87kjDH33V3K) | 4:15 | 2022-11-04 | 2022-11-13 |
 | [Summer Madness](https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Summer Madness](https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp) | 3:21 | 2022-08-12 |  |

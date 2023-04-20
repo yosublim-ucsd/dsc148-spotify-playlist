@@ -1,12 +1,12 @@
 {
   "description": "Everything in Texas is best! Lo que suena in the Lone Star state. Cover: Grupo Frontera & Luis R Conriquez",
-  "num_followers": 4957,
+  "num_followers": 5128,
   "original_name": "Rompiendo: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0Nzc1MCwwMDAwMDAwMDJiMzA0ZmNkZjM0ODE2MmY1YzJjNjQ2ZTEzZmU2MDE0",
+  "snapshot_id": "MTY4MDI0Nzc1MCwwMDAwMDAwMDc0ZThmZDJiNTkwZWY3NDU3ODk4NzkyYjBkMzExNDVi",
   "tracks": [
     {
       "added_at": "2023-03-31 07:29:10",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-03-31 07:29:10",
       "album": {
+        "name": "El Gordo Trae El Mando",
+        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        }
+      ],
+      "duration_ms": 112087,
+      "name": "El Gordo Trae El Mando",
+      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
+    },
+    {
+      "added_at": "2023-03-31 07:29:10",
+      "album": {
         "name": "Shorty Party",
         "url": "https://open.spotify.com/album/4eoF8b15EaosNzpn2N3Rt9"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 265000,
       "name": "Shorty Party",
       "url": "https://open.spotify.com/track/55ZATsjPlTeSTNJOuW90pW"
-    },
-    {
-      "added_at": "2023-03-31 07:29:10",
-      "album": {
-        "name": "El Gordo Trae El Mando",
-        "url": "https://open.spotify.com/album/0DqHNI5QhosQmpQ5Ojzqe6"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        }
-      ],
-      "duration_ms": 112087,
-      "name": "El Gordo Trae El Mando",
-      "url": "https://open.spotify.com/track/3kf0WdFOalKWBkCCLJo4mA"
     },
     {
       "added_at": "2023-03-31 07:29:10",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-03-31 07:29:10",
       "album": {
+        "name": "No Se Va (En Vivo)",
+        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "No Se Va - En Vivo",
+      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
+    },
+    {
+      "added_at": "2023-03-31 07:29:10",
+      "album": {
         "name": "En Paris",
         "url": "https://open.spotify.com/album/02t065wNWRCc7Yz9jG0ahR"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 162795,
       "name": "En Paris",
       "url": "https://open.spotify.com/track/1Fuc3pBiPFxAeSJoO8tDh5"
-    },
-    {
-      "added_at": "2023-03-31 07:29:10",
-      "album": {
-        "name": "No Se Va (En Vivo)",
-        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 194019,
-      "name": "No Se Va - En Vivo",
-      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
     },
     {
       "added_at": "2023-03-31 07:29:10",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-03-31 07:29:10",
       "album": {
-        "name": "Da\u00f1ado (Deluxe)",
-        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 252166,
-      "name": "La \u00daltima Vez - Deluxe",
-      "url": "https://open.spotify.com/track/1XX3sKKZN3DfWeFpMAc2WX"
-    },
-    {
-      "added_at": "2023-03-31 07:29:10",
-      "album": {
         "name": "Ya Me Entere (En Vivo)",
         "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 222680,
       "name": "Ya Me Entere - En Vivo",
       "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
+    },
+    {
+      "added_at": "2023-03-31 07:29:10",
+      "album": {
+        "name": "Da\u00f1ado (Deluxe)",
+        "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 252166,
+      "name": "La \u00daltima Vez - Deluxe",
+      "url": "https://open.spotify.com/track/1XX3sKKZN3DfWeFpMAc2WX"
     },
     {
       "added_at": "2023-03-31 07:29:10",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-03-31 07:29:10",
       "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 212915,
-      "name": "Enloquecido",
-      "url": "https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT"
-    },
-    {
-      "added_at": "2023-03-31 07:29:10",
-      "album": {
         "name": "Inseparables",
         "url": "https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 171724,
       "name": "Inseparables",
       "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
+    },
+    {
+      "added_at": "2023-03-31 07:29:10",
+      "album": {
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 212915,
+      "name": "Enloquecido",
+      "url": "https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT"
     },
     {
       "added_at": "2023-03-31 07:29:10",

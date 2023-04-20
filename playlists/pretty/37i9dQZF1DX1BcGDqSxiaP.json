@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 17897,
+  "num_followers": 17913,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTY5MTIzMiwwMDAwMDAwMDhkN2MyNTk1ODQwMGZkODY0NjZlOWQ5NjE3MDE4OGI4",
+  "snapshot_id": "MTYxOTY5MTIzMiwwMDAwMDAwMGQ0MTU1YTM3NmFkYzM2ZmM2ZDkwZmVmNzM2NmU2MGEx",
   "tracks": [
     {
       "added_at": "2020-09-21 10:42:33",
@@ -475,18 +475,18 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "Wander This World",
-        "url": "https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG"
+        "name": "The Son Seals Blues Band",
+        "url": "https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke"
       },
       "artists": [
         {
-          "name": "Jonny Lang",
-          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
         }
       ],
-      "duration_ms": 210973,
-      "name": "Cherry Red Wine",
-      "url": "https://open.spotify.com/track/0WXi2cJGxMUhIXE0KXhC5k"
+      "duration_ms": 276000,
+      "name": "Your Love Is Like A Cancer",
+      "url": "https://open.spotify.com/track/6zl81YN27QExitw4AZUDy1"
     },
     {
       "added_at": "2020-09-21 10:42:33",
@@ -507,18 +507,18 @@
     {
       "added_at": "2020-09-21 10:42:33",
       "album": {
-        "name": "The Son Seals Blues Band",
-        "url": "https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke"
+        "name": "Wander This World",
+        "url": "https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG"
       },
       "artists": [
         {
-          "name": "Son Seals",
-          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
         }
       ],
-      "duration_ms": 276000,
-      "name": "Your Love Is Like A Cancer",
-      "url": "https://open.spotify.com/track/6zl81YN27QExitw4AZUDy1"
+      "duration_ms": 210973,
+      "name": "Cherry Red Wine",
+      "url": "https://open.spotify.com/track/0WXi2cJGxMUhIXE0KXhC5k"
     },
     {
       "added_at": "2020-09-21 10:42:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 
 > Revive la época de los pantalones acampanados en compañía de mamá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,255 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,283 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 | 36 | [Hot Stuff](https://open.spotify.com/track/2zMJN9JvDlvGP4jB03l1Bz) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls](https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg) | 5:14 |
 | 37 | [Águas De Março](https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 3:34 |
 | 38 | [Do That To Me One More Time](https://open.spotify.com/track/0m4jVVZrsv0bLkAr1uM6UG) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Make Your Move](https://open.spotify.com/album/6J8P3xCsQr5BPoEoukStSk) | 4:16 |
-| 39 | [Y Volveré](https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 4:03 |
-| 40 | [Me llamas](https://open.spotify.com/track/0WFatRyMXS4JVP9jSfO1Fe) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Tiempo de otoño](https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua) | 4:35 |
+| 39 | [Me llamas](https://open.spotify.com/track/0WFatRyMXS4JVP9jSfO1Fe) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Tiempo de otoño](https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua) | 4:35 |
+| 40 | [Y Volveré](https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 4:03 |
 | 41 | [Sunny](https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 4:02 |
 | 42 | [Jealous Guy \- Remastered 2010](https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 4:17 |
 | 43 | [You've Got a Friend](https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 5:08 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jXLyZM9dhV.md) - [plain]
 | 67 | [Despues De Tanto](https://open.spotify.com/track/3nWYPT891FrWJTpdxLG4Xj) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p) | [Vive](https://open.spotify.com/album/5bGjmZEW8yxGggKMDulFPN) | 3:25 |
 | 68 | [Tómame o Déjame \- Remasterizado](https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Mocedades 5](https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx) | 3:07 |
 | 69 | [Llorarás](https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Llorarás](https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7) | 3:37 |
-| 70 | [Esta Cobardía \- Remasterizado](https://open.spotify.com/track/2qlmlFRhYMgaekmCuxxK0o) | [Chiquetete](https://open.spotify.com/artist/3ELZjZr6LsTejHFIhpoB6z) | [Eres Mía \(Remasterizado\)](https://open.spotify.com/album/5pW6xVlhMN3vnzroxGO5xj) | 3:39 |
-| 71 | [Morir de Amor](https://open.spotify.com/track/6RWXqBgjdLyAVFnJbyPCR8) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | ["Miguel"](https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb) | 4:11 |
+| 70 | [Morir de Amor](https://open.spotify.com/track/6RWXqBgjdLyAVFnJbyPCR8) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | ["Miguel"](https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb) | 4:11 |
+| 71 | [Esta Cobardía \- Remasterizado](https://open.spotify.com/track/2qlmlFRhYMgaekmCuxxK0o) | [Chiquetete](https://open.spotify.com/artist/3ELZjZr6LsTejHFIhpoB6z) | [Eres Mía \(Remasterizado\)](https://open.spotify.com/album/5pW6xVlhMN3vnzroxGO5xj) | 3:39 |
 | 72 | [Cuando quieras, donde quieras \(Così era e così sia\)](https://open.spotify.com/track/3akNntAza319MgjivWphIH) | [Dyango](https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb) | [Alma, Corazón Y Vida](https://open.spotify.com/album/7AyiKOqr5X1l1qRXQlUMAP) | 3:26 |
 | 73 | [Te Quiero Te Quiero](https://open.spotify.com/track/5ltBmvHslf7tplG5QfLmTt) | [Nino Bravo](https://open.spotify.com/artist/03zz3zpyV15ZGw1cgjZ7tj) | [Super 20](https://open.spotify.com/album/6IXbg5QxJ4hGkrnTZo3n1B) | 2:51 |
 | 74 | [Por El Amor De Una Mujer](https://open.spotify.com/track/7010oiDHpfwrZoYNxqgfoI) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [A Flor De Piel](https://open.spotify.com/album/3YAtD5obf0a1E2NHjZ8A8K) | 3:49 |
 | 75 | [Never Can Say Goodbye \- Single Version](https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Never Can Say Goodbye \(Deluxe Edition\)](https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u) | 2:59 |
 
-Snapshot ID: `MTYxOTU4NjE3NSwwMDAwMDAwMGEwYzA5N2RhYmZhZjAzODBlMGI2OWI4ZTk5MWM5YmIz`
+Snapshot ID: `MTYxOTU4NjE3NSwwMDAwMDAwMGZiMWU2MWQ0ZTI5YTEwYTM4NjRjODBhNzVkYjBjZmFj`

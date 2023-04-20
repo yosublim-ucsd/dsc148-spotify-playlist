@@ -1,12 +1,12 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 66707,
+  "num_followers": 66749,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMDFhOTlkYzdhNTU1NTM3MGQ5OGFhZGMyNjc4YjQ4NGUz",
+  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMDk5NTFjYjJkZTU5OTQ2NWVmNWY0Y2Q0NjMzNzRjODg2",
   "tracks": [
     {
       "added_at": "2022-06-27 14:42:44",
@@ -759,8 +759,8 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Aida",
-        "url": "https://open.spotify.com/album/4I9AG93MXl0ZWJX4B4Lt4Z"
+        "name": "Verdi: Rigoletto",
+        "url": "https://open.spotify.com/album/36GWY5pcnu2ubklWR8vlSV"
       },
       "artists": [
         {
@@ -768,37 +768,21 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+          "name": "Vladimir Chernov",
+          "url": "https://open.spotify.com/artist/1EnMAAkADpo2vWaLbtj3Ct"
         },
         {
           "name": "Metropolitan Opera Orchestra",
           "url": "https://open.spotify.com/artist/5wn7ofJrDNHlKovbljawzS"
         },
         {
-          "name": "Samuel Ramey",
-          "url": "https://open.spotify.com/artist/4z6dlDfmoZstfKLVC60nM0"
-        },
-        {
-          "name": "Aprile Millo",
-          "url": "https://open.spotify.com/artist/6S3PdC8vRGu1xIFKjhExMy"
-        },
-        {
           "name": "James Levine",
           "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
-        },
-        {
-          "name": "Dolora Zajick",
-          "url": "https://open.spotify.com/artist/1DmqAu6u4VD8SB2bCfAqpG"
-        },
-        {
-          "name": "James Morris",
-          "url": "https://open.spotify.com/artist/3LfFjEpR0faktlCgr2LPc2"
         }
       ],
-      "duration_ms": 222933,
-      "name": "Aida: Preludio",
-      "url": "https://open.spotify.com/track/2gYfLYgEXoxbjcS79M2j55"
+      "duration_ms": 267973,
+      "name": "Rigoletto / Act 2: Cortigiani, vil razza dannata (Rigoletto)",
+      "url": "https://open.spotify.com/track/21XoVzLRNlhbeU7yDRxkZx"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -843,8 +827,8 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Rigoletto",
-        "url": "https://open.spotify.com/album/36GWY5pcnu2ubklWR8vlSV"
+        "name": "Aida",
+        "url": "https://open.spotify.com/album/4I9AG93MXl0ZWJX4B4Lt4Z"
       },
       "artists": [
         {
@@ -852,21 +836,37 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
-          "name": "Vladimir Chernov",
-          "url": "https://open.spotify.com/artist/1EnMAAkADpo2vWaLbtj3Ct"
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
         },
         {
           "name": "Metropolitan Opera Orchestra",
           "url": "https://open.spotify.com/artist/5wn7ofJrDNHlKovbljawzS"
         },
         {
+          "name": "Samuel Ramey",
+          "url": "https://open.spotify.com/artist/4z6dlDfmoZstfKLVC60nM0"
+        },
+        {
+          "name": "Aprile Millo",
+          "url": "https://open.spotify.com/artist/6S3PdC8vRGu1xIFKjhExMy"
+        },
+        {
           "name": "James Levine",
           "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        },
+        {
+          "name": "Dolora Zajick",
+          "url": "https://open.spotify.com/artist/1DmqAu6u4VD8SB2bCfAqpG"
+        },
+        {
+          "name": "James Morris",
+          "url": "https://open.spotify.com/artist/3LfFjEpR0faktlCgr2LPc2"
         }
       ],
-      "duration_ms": 267973,
-      "name": "Rigoletto / Act 2: Cortigiani, vil razza dannata (Rigoletto)",
-      "url": "https://open.spotify.com/track/21XoVzLRNlhbeU7yDRxkZx"
+      "duration_ms": 222933,
+      "name": "Aida: Preludio",
+      "url": "https://open.spotify.com/track/2gYfLYgEXoxbjcS79M2j55"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1715,6 +1715,30 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "Verdi: La Traviata",
+        "url": "https://open.spotify.com/album/2SlDrNnAloO1uL0cUOf8bg"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "duration_ms": 247120,
+      "name": "La traviata / Act 1: Prelude",
+      "url": "https://open.spotify.com/track/1bZowokgq7BcTe15ofDTVW"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "Verdi: Falstaff",
         "url": "https://open.spotify.com/album/4K5lWjsxpWXDc4hJxKq99W"
       },
@@ -1783,30 +1807,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: La Traviata",
-        "url": "https://open.spotify.com/album/2SlDrNnAloO1uL0cUOf8bg"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "National Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
-        },
-        {
-          "name": "Richard Bonynge",
-          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
-        }
-      ],
-      "duration_ms": 247120,
-      "name": "La traviata / Act 1: Prelude",
-      "url": "https://open.spotify.com/track/1bZowokgq7BcTe15ofDTVW"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi: Nabucco",
         "url": "https://open.spotify.com/album/6dLhLAMPKpxpyhKjphx62U"
       },
@@ -1827,30 +1827,6 @@
       "duration_ms": 667640,
       "name": "Verdi: Nabucco, Act 3: \"Donna, chi sei?\" (Nabucco, Abigaille) / Chi \u00e8 costei?... Oh, di qual'onta aggravisi\" (Nabucco, Abigaille)",
       "url": "https://open.spotify.com/track/74hbxXrq3TYPK5JzDgHkeL"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi : Rigoletto",
-        "url": "https://open.spotify.com/album/1kYU5ZZNBHYafn2ssSEboY"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Carlo Rizzi",
-          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
-        },
-        {
-          "name": "Orchestra of Welsh National Opera",
-          "url": "https://open.spotify.com/artist/7tKNcrC1eSbJnMem8B4cpa"
-        }
-      ],
-      "duration_ms": 110800,
-      "name": "Verdi : Rigoletto : Act 3 \"Chi mai, chi \u00e8 qui\" [Rigoletto, Gilda]",
-      "url": "https://open.spotify.com/track/0VawWZRChM7zLs77jMzANd"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1895,6 +1871,30 @@
       "duration_ms": 160333,
       "name": "Aida: Act IV, Scene 2: La fatal pietra sovra me si chiuse",
       "url": "https://open.spotify.com/track/0l4JdUkWKjK00NcKEx1dWZ"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi : Rigoletto",
+        "url": "https://open.spotify.com/album/1kYU5ZZNBHYafn2ssSEboY"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Carlo Rizzi",
+          "url": "https://open.spotify.com/artist/2H1dGTBfjYrqkXN2WxsiZf"
+        },
+        {
+          "name": "Orchestra of Welsh National Opera",
+          "url": "https://open.spotify.com/artist/7tKNcrC1eSbJnMem8B4cpa"
+        }
+      ],
+      "duration_ms": 110800,
+      "name": "Verdi : Rigoletto : Act 3 \"Chi mai, chi \u00e8 qui\" [Rigoletto, Gilda]",
+      "url": "https://open.spotify.com/track/0VawWZRChM7zLs77jMzANd"
     },
     {
       "added_at": "2022-06-27 14:42:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,288 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,383 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 5 | [Hard Times](https://open.spotify.com/track/2o3v9646q5cqBv5mdYXAYR) | [Cro\-Mags](https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg) | [Before The Quarrel](https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i) | 1:36 |
 | 6 | [Step Down](https://open.spotify.com/track/0S3YlKnOR7F6T8t20gLhf0) | [Sick Of It All](https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU) | [Scratch the Surface](https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc) | 3:09 |
 | 7 | [Fazer](https://open.spotify.com/track/0Bv2ixOjn8jKiVTQXE9mF8) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:13 |
-| 8 | [Caboose](https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw) | [Snapcase](https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W) | [Progression Through Unlearning](https://open.spotify.com/album/0EXE2JkwLwhSPaOuMBAxxu) | 2:33 |
+| 8 | [The Disconnect](https://open.spotify.com/track/5KX5fs2yfRPZ2E2SYYA4lD) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [The Current Will Carry Us](https://open.spotify.com/album/3bJtSVsqSsqmVtfvtnisbU) | 3:56 |
 | 9 | [New Direction](https://open.spotify.com/track/7CdGO6KJg20UAAXl7CW8q6) | [Gorilla Biscuits](https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N) | [Start Today](https://open.spotify.com/album/1AAn8Qve9N7NET9v1dKceh) | 2:29 |
-| 10 | [The Disconnect](https://open.spotify.com/track/5KX5fs2yfRPZ2E2SYYA4lD) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [The Current Will Carry Us](https://open.spotify.com/album/3bJtSVsqSsqmVtfvtnisbU) | 3:56 |
+| 10 | [Caboose](https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw) | [Snapcase](https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W) | [Progression Through Unlearning](https://open.spotify.com/album/0EXE2JkwLwhSPaOuMBAxxu) | 2:33 |
 | 11 | [For My Family](https://open.spotify.com/track/4Y4fGklrIKERF6TixxvLQi) | [Agnostic Front](https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT) | [Warriors \(Tour Edition\)](https://open.spotify.com/album/5WmhGmiqWgPRmuuAVP7cCP) | 2:22 |
 | 12 | [Living to Die](https://open.spotify.com/track/3w8lbCMKWBMu40MoNyV0Il) | [Vision Of Disorder](https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil) | [From Bliss To Devestation](https://open.spotify.com/album/6HUbHHOrjEUmttu2eVrACC) | 4:06 |
 | 13 | [Set It Off](https://open.spotify.com/track/165wS8DOyhHPiNgB8vlfsE) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [Set It Off](https://open.spotify.com/album/13DHqlzDQfKsvJc69fkElW) | 3:26 |
@@ -37,14 +37,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 27 | [World Peace](https://open.spotify.com/track/54P30qdoSqp3MgngBMZOW3) | [Cro\-Mags](https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg) | [Before The Quarrel](https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i) | 2:15 |
 | 28 | [Can't Take It Away](https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C) | [Kill Your Idols](https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT) | [This Is Just the Beginning](https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1) | 1:36 |
 | 29 | [I Know Why](https://open.spotify.com/track/1caybCua72nNZzvFYQ3Yzy) | [H2O](https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo) | [H2O](https://open.spotify.com/album/6SIXL2tKLkV6FBZSzf9agC) | 2:50 |
-| 30 | [Mailer, Meet Jim](https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a) | [Western Addiction](https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA) | [Cognicide](https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH) | 1:37 |
-| 31 | [Never Alone](https://open.spotify.com/track/4Z4W0zIwGr9eJ40opS0t2C) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg) | [The Damned, the Shamed](https://open.spotify.com/album/08ujsql7ywpo2VBmLgMNsW) | 2:50 |
-| 32 | [Somebody's Gonna Get Their Head Kicked In](https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL) | [Murphy's Law](https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G) | [Punk Rock Jukebox](https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS) | 2:04 |
-| 33 | [Hail Destroyer](https://open.spotify.com/track/0XNm4jXda363NhHBoOp5II) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Hail Destroyer](https://open.spotify.com/album/4zR3343ue909iFnr6odhK3) | 3:16 |
+| 30 | [Never Alone](https://open.spotify.com/track/4Z4W0zIwGr9eJ40opS0t2C) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg) | [The Damned, the Shamed](https://open.spotify.com/album/08ujsql7ywpo2VBmLgMNsW) | 2:50 |
+| 31 | [Mailer, Meet Jim](https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a) | [Western Addiction](https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA) | [Cognicide](https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH) | 1:37 |
+| 32 | [Hail Destroyer](https://open.spotify.com/track/0XNm4jXda363NhHBoOp5II) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Hail Destroyer](https://open.spotify.com/album/4zR3343ue909iFnr6odhK3) | 3:16 |
+| 33 | [Somebody's Gonna Get Their Head Kicked In](https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL) | [Murphy's Law](https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G) | [Punk Rock Jukebox](https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS) | 2:04 |
 | 34 | [Animal Farm](https://open.spotify.com/track/1QfjU50ABFOfNhoQVREWXa) | [The Hope Conspiracy](https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d) | [Death Knows Your Name](https://open.spotify.com/album/6U0Bmn36FE4pISKv5fluBK) | 3:40 |
 | 35 | [Just Can't Hate Enough](https://open.spotify.com/track/1qrzQuZ0CegX3PQtrsek7R) | [Sheer Terror](https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU) | [Bulldog Edition](https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy) | 1:44 |
-| 36 | [Shark Ethic](https://open.spotify.com/track/7lWpl0id3QSafkh4rCBCJR) | [Most Precious Blood](https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu) | [Merciless](https://open.spotify.com/album/6JmRIhTDgoZG1fy8UahchU) | 3:40 |
-| 37 | [Break Down the Walls](https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Break Down The Walls](https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX) | 2:04 |
+| 36 | [Break Down the Walls](https://open.spotify.com/track/32dTnE7cWjEHCUAjSEvpiM) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Break Down The Walls](https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX) | 2:04 |
+| 37 | [Shark Ethic](https://open.spotify.com/track/7lWpl0id3QSafkh4rCBCJR) | [Most Precious Blood](https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu) | [Merciless](https://open.spotify.com/album/6JmRIhTDgoZG1fy8UahchU) | 3:40 |
 | 38 | [You Ignore Them All](https://open.spotify.com/track/35MYAs5EQtZ9c5NLlZammA) | [Raised Fist](https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm) | [Sound Of The Republic](https://open.spotify.com/album/42NliwV96RRrJCD0yS0SCm) | 3:32 |
 | 39 | [Silence](https://open.spotify.com/track/2rf23PCJH09ZAc8eq4yL1B) | [First Blood](https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0) | [Silence Is Betrayal](https://open.spotify.com/album/7tIMZsN8CNgmkgA5zFulUv) | 0:53 |
 | 40 | [Break Through It All](https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB) | [Death Before Dishonor](https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5) | [Count Me In](https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv) | 3:01 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 47 | [Get This Right!](https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv) | [Raised Fist](https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm) | [Dedication](https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G) | 3:30 |
 | 48 | [Save Us](https://open.spotify.com/track/2GCFX4cNARwJkNEG6NqnoM) | [Stigmata](https://open.spotify.com/artist/2a3HNMLb9HvUx0IlFwn9Fz) | [The Wounds That Never Heal](https://open.spotify.com/album/1ThgJjKDqz4c91Ete5sZKf) | 4:23 |
 | 49 | [Blindfold](https://open.spotify.com/track/18TI6Ag39ySlbjvaugo1Xq) | [Indecision](https://open.spotify.com/artist/3WdlM6O8p5wxmx3p7hrPHM) | [Unorthodox](https://open.spotify.com/album/43x6i9LnpamFuzgOguORon) | 1:48 |
-| 50 | [Choices Made](https://open.spotify.com/track/0r4jDnFTGZCwXiUiiPx7WL) | [CIV](https://open.spotify.com/artist/1PyldAvwu9cUk9wn2wBWh9) | [Set Your Goals](https://open.spotify.com/album/5iQwtthhrBr9UIPD717vda) | 2:28 |
+| 50 | [Over the Years](https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ) | [25 Ta Life](https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew) | [Friendship Loyalty Commitment](https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I) | 2:05 |
 
-Snapshot ID: `MTYwNzQ0MDMzMSwwMDAwMDAwMDcxOGFmNzA4OGE4NzBkNjI2YjU0ODEwMjQ5MDM0M2Nm`
+Snapshot ID: `MTYwNzQ0MDMzMSwwMDAwMDAwMDdiZjVjMTRlOWI4ODQ0NWY5M2ZkMGUyNmYyNTdiMDFi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 
 > This is Banda Pequeños Musical\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,706 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,761 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 | 23 | [Maldita Suerte](https://open.spotify.com/track/3hlmOQjz6QMpG914K4SHT8) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1Qps9OOxeSjzjOl3fJ3ddW) | 2:56 |
 | 24 | [Ahora que no estás aquí](https://open.spotify.com/track/6gexgfw9UpdELEd77ztIWu) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/1jFG7df4bI6ip2SsdyjPaz) | 3:15 |
 | 25 | [Me equivoqué](https://open.spotify.com/track/2yHKjT0dQOZJQlyIATUXit) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 3:25 |
-| 26 | [Tengo que regresar](https://open.spotify.com/track/17RGBYLFlyJzVPpgvgFW6j) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 3:24 |
+| 26 | [Desnudos](https://open.spotify.com/track/0nZz6tnshGTSRWYh8In6Hj) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Reencuentro](https://open.spotify.com/album/1XS85OpAMmlBomTh9cxE3e) | 3:17 |
 | 27 | [Tu Castigo](https://open.spotify.com/track/2qgcvWIkezO74IpIOUHIJs) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1Qps9OOxeSjzjOl3fJ3ddW) | 2:52 |
-| 28 | [Desnudos](https://open.spotify.com/track/0nZz6tnshGTSRWYh8In6Hj) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Reencuentro](https://open.spotify.com/album/1XS85OpAMmlBomTh9cxE3e) | 3:17 |
+| 28 | [Tengo que regresar](https://open.spotify.com/track/17RGBYLFlyJzVPpgvgFW6j) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 3:24 |
 | 29 | [Regálame](https://open.spotify.com/track/2SEwhWIcGazGlCwNLKrfHQ) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 3:08 |
 | 30 | [Quién](https://open.spotify.com/track/0RD4ucWis1jf1HmmvLSCv5) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Recuerdos y algo más](https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg) | 2:54 |
 | 31 | [No necesitas a Carlo](https://open.spotify.com/track/7iHKGbJSzClb7Q8IK9OH18) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hoy y Siempre](https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL) | 3:08 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 | 33 | [Y No Soy Tu Dueño](https://open.spotify.com/track/7JXE1oSJkgnX1F4uYoyEcJ) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Daría Todo por Ti](https://open.spotify.com/album/7LalMyh8jS4b3AbrohmP2L) | 2:57 |
 | 34 | [Eso no, no, no](https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 2:55 |
 | 35 | [Hasta el Final](https://open.spotify.com/track/4n8svElL8bv2ho96dTj0TU) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1Qps9OOxeSjzjOl3fJ3ddW) | 3:17 |
-| 36 | [Obra Maestra](https://open.spotify.com/track/1l1nG6NS9S89SBdpanadQF) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Una Poesía](https://open.spotify.com/album/5X4ge35zs3SC798wQzyb6x) | 3:31 |
-| 37 | [Con Pensar En Ti](https://open.spotify.com/track/6VrmX4vLI0iQLcogIfMZIn) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [15 Éxitos 2004\-2005](https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo) | 2:53 |
+| 36 | [Con Pensar En Ti](https://open.spotify.com/track/6VrmX4vLI0iQLcogIfMZIn) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [15 Éxitos 2004\-2005](https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo) | 2:53 |
+| 37 | [Obra Maestra](https://open.spotify.com/track/1l1nG6NS9S89SBdpanadQF) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Una Poesía](https://open.spotify.com/album/5X4ge35zs3SC798wQzyb6x) | 3:31 |
 | 38 | [Me tocó perder](https://open.spotify.com/track/1VSCn6pepqpFo3ZReTkpWQ) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hoy y Siempre](https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL) | 2:54 |
 | 39 | [Luna llena](https://open.spotify.com/track/1SHsgQdBllRc2q46WwpHQh) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 3:00 |
 | 40 | [Cobarde](https://open.spotify.com/track/6IWmc0xEesUHiuOvKGNEYX) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/1jFG7df4bI6ip2SsdyjPaz) | 2:47 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 | 45 | [Mis Emociones](https://open.spotify.com/track/6NBzqrEgfJHQ9KDyA683tl) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Mentira](https://open.spotify.com/album/3f22Qlxv4l7CpdAPZt1eYE) | 3:33 |
 | 46 | [El retrato de mamá](https://open.spotify.com/track/2L8uzQnGf2UUWeKHPbsv8F) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Con paso sensual](https://open.spotify.com/album/7GQTANMGR0SlhvqbP1yw4A) | 3:45 |
 | 47 | [Mi fracaso](https://open.spotify.com/track/1w11SiJRAxlFNNmTWs2Cue) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Romantico incurable](https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO) | 3:07 |
-| 48 | [Ven tú](https://open.spotify.com/track/5uv8cC9SHR5gtEwBscOr4d) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Aniversario](https://open.spotify.com/album/58sbO4leQqMEydqYOHE1Xq) | 3:30 |
-| 49 | [Llora el amor](https://open.spotify.com/track/45jCw67lE7lPtt9Q26HZA9) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Recuerdos y algo más](https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg) | 3:13 |
+| 48 | [Llora el amor](https://open.spotify.com/track/45jCw67lE7lPtt9Q26HZA9) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Recuerdos y algo más](https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg) | 3:13 |
+| 49 | [Ven tú](https://open.spotify.com/track/5uv8cC9SHR5gtEwBscOr4d) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Aniversario](https://open.spotify.com/album/58sbO4leQqMEydqYOHE1Xq) | 3:30 |
 | 50 | [Chiquilina](https://open.spotify.com/track/3DiBjgOxP26LVm9BcosS7P) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [En grande](https://open.spotify.com/album/5J6wDtwCGok12ta08ixCsA) | 2:22 |
 
-Snapshot ID: `MjgwMzAzOTAsMDAwMDAwMDA1MzFhNzJmYzdlNDdiMDM3ODFhMjc5OTdhYjM3NTE0Zg==`
+Snapshot ID: `MjgwMzE3ODQsMDAwMDAwMDA2OGM1NWQ1Y2EzNGQzNTY2ZDIyMjkyYzFmMzA0ODEzMg==`

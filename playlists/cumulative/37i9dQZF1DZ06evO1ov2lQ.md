@@ -4,7 +4,7 @@
 
 > This is Biosphere\. The essential tracks, all in one playlist.
 
-134 songs - 11 hr 11 min
+136 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,8 +92,9 @@
 | [Night Shift](https://open.spotify.com/track/1EAIJtAj5PC5V7VdEdsks8) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 6:03 | 2022-05-29 | 2023-03-18 |
 | [Nook and Cranny](https://open.spotify.com/track/37BaFZjeEpRRUou7u6HufG) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 4:02 | 2022-05-29 |  |
 | [Novelty Waves](https://open.spotify.com/track/2L6nlXElncXTL8aasIEoiQ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 6:27 | 2022-05-29 |  |
-| [Oi \- 1](https://open.spotify.com/track/3spr2O3HhYohFOEVxqp2OJ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI) | 5:10 | 2023-01-31 |  |
+| [Oi \- 1](https://open.spotify.com/track/3spr2O3HhYohFOEVxqp2OJ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI) | 5:10 | 2023-01-31 | 2023-04-20 |
 | [Oi\-1](https://open.spotify.com/track/32mArz1WHM1MwRVOnHcge3) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/3pLDeqeie523ruDyHahav3) | 5:09 | 2022-05-29 |  |
+| [Out Of The Cradle](https://open.spotify.com/track/5CfC7qaDyjaYE03txNXtPy) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Departed Glories](https://open.spotify.com/album/78KLYq0YJ5vgbPy9BYlpz9) | 2:13 | 2023-04-19 |  |
 | [Path Leading to the High Grass](https://open.spotify.com/track/2FwjeglcsXySDw4vem1Er0) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 3:51 | 2022-06-25 | 2022-09-17 |
 | [People Are Friends](https://open.spotify.com/track/7CYNZgGuWr2lhkeQh1yurD) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 10:39 | 2022-05-29 | 2022-10-21 |
 | [Phantasm](https://open.spotify.com/track/0GitudTQiCx24Yq8GopYuG) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 4:50 | 2022-07-10 | 2022-10-12 |
@@ -119,7 +120,7 @@
 | [Startoucher](https://open.spotify.com/track/0MSEhfQE0256xTKHtaNkXB) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 5:02 | 2022-05-29 | 2022-10-13 |
 | [Straumen](https://open.spotify.com/track/7xhwz2xa3wDXXkbZJhIDnK) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Senja Recordings](https://open.spotify.com/album/5FwxcdIt5HKvuFIUaopKp9) | 1:00 | 2022-10-17 | 2023-04-03 |
 | [Strigiformes](https://open.spotify.com/track/7a3CqfeqPJwP6GJWyAMncI) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Hilvarenbeek Recordings](https://open.spotify.com/album/28VBLIMroxoxDWx84oegfx) | 3:12 | 2022-10-06 | 2022-10-08 |
-| [Talking to Some Imaginary Person](https://open.spotify.com/track/1xcpQJjF2TLxzCmQIIZPyY) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 3:25 | 2022-07-07 |  |
+| [Talking to Some Imaginary Person](https://open.spotify.com/track/1xcpQJjF2TLxzCmQIIZPyY) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 3:25 | 2022-07-07 | 2023-04-20 |
 | [Tanß](https://open.spotify.com/track/4pycEDAeyKSWyumBrtnn3S) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 5:40 | 2022-05-30 |  |
 | [Than Is The Mater](https://open.spotify.com/track/4wq5a2xNT37uka9mc3aKo9) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Departed Glories](https://open.spotify.com/album/78KLYq0YJ5vgbPy9BYlpz9) | 4:14 | 2022-08-09 | 2022-08-11 |
 | [The Petrified Forest](https://open.spotify.com/track/6DgNfS4wYq7UUwuctdHNKY) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Petrified Forest](https://open.spotify.com/album/2eTsX0BF5V0seyKkBgG8vc) | 5:08 | 2022-05-29 | 2022-11-12 |
@@ -129,6 +130,7 @@
 | [The Things I Tell You](https://open.spotify.com/track/36BGk42n6upPWiMCWpBQKL) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 6:28 | 2022-05-29 | 2023-04-06 |
 | [The Third Planet](https://open.spotify.com/track/13TUfTLlhSNXFtqtcYiJCY) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Compilation 1991\-2004](https://open.spotify.com/album/3O1xREyGJreUViSlNijDsZ) | 8:31 | 2022-05-29 | 2022-10-13 |
 | [Times When I Know You'll Be Sad](https://open.spotify.com/track/1WgRcGb2uxmRvCcbPsz4kw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 3:44 | 2022-10-24 |  |
+| [Tokai](https://open.spotify.com/track/6s6lInlOoW9bDpuG0j1tMf) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI) | 5:00 | 2023-04-19 |  |
 | [Too Fragile to Walk On](https://open.spotify.com/track/7K7DeIN0qZvNVrc2Skyoks) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Cirque](https://open.spotify.com/album/4bSDMXRfW6GpHkzqcB1Wcl) | 4:51 | 2022-05-30 | 2022-10-13 |
 | [Tranquillizer](https://open.spotify.com/track/6AD9CfUxQscQJFA6cWIBfZ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Microgravity](https://open.spotify.com/album/1eAieJhXAdvfDc3T2bikrY) | 8:18 | 2022-05-29 | 2022-10-13 |
 | [Turned to Stone](https://open.spotify.com/track/4CbTLWfGY3bxBaEylVfxLJ) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr), [Joan Lorring](https://open.spotify.com/artist/5SJyvsQqcxNC5QHAFrAj6b) | [Black Mesa \(feat\. Joan Lorring\)](https://open.spotify.com/album/4ukHNc9dfGDEPds0zkXfG0) | 3:38 | 2022-05-29 | 2023-04-18 |

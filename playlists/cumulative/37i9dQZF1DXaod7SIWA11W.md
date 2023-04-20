@@ -2,7 +2,7 @@
 
 ### [Lifted Frequency](https://open.spotify.com/playlist/37i9dQZF1DXaod7SIWA11W)
 
-> Get lifted by the waves of faith\-infused music\.  Cover: Foggieraw, artwork by Ian Woods
+> Get lifted by the waves of faith\-infused music.
 
 198 songs - 12 hr 14 min
 

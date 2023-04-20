@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 
 > eclectic ethereal feeling\. cover: Ethel Cain
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,604,229 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,604,320 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 30 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 |
 | 31 | [Time Machine](https://open.spotify.com/track/1jVjOcs7QeQZJXScbqvofI) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:23 |
 | 32 | [Destroy Myself Just For You](https://open.spotify.com/track/40Fmr4mXhz4PtrMAPTnoXB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:26 |
-| 33 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 |
-| 34 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 |
+| 33 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 |
+| 34 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 |
 | 35 | [So Clear](https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [So Clear](https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI) | 3:32 |
 | 36 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 |
 | 37 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 |
@@ -59,19 +59,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 49 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
 | 50 | [Guilty Conscience](https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:33 |
 | 51 | [Hide and Seek](https://open.spotify.com/track/7mMlbJlXXo2mRtQ4R9sIzD) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 4:28 |
-| 52 | [Con La Brisa \- Film Version](https://open.spotify.com/track/2vthaS3SkgTfe5vrpVgITG) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther: Wakanda Forever \(Original Score\)](https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p) | 2:40 |
-| 53 | [In My Head](https://open.spotify.com/track/3bne7Qit5AbHkX6kWDItYP) | [Peter Manos](https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal) | [In My Head](https://open.spotify.com/album/2iPwsfkSPMu1TL3uGF4iNv) | 3:34 |
+| 52 | [In My Head](https://open.spotify.com/track/3bne7Qit5AbHkX6kWDItYP) | [Peter Manos](https://open.spotify.com/artist/4K9aclpXgCPNFGEqRlFPal) | [In My Head](https://open.spotify.com/album/2iPwsfkSPMu1TL3uGF4iNv) | 3:34 |
+| 53 | [Con La Brisa \- Film Version](https://open.spotify.com/track/2vthaS3SkgTfe5vrpVgITG) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Black Panther: Wakanda Forever \(Original Score\)](https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p) | 2:40 |
 | 54 | [Skin Tight \(feat\. Steve Lacy\)](https://open.spotify.com/track/4KVSdwwJ67JHu5s9vIA0zi) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 3:47 |
-| 55 | [HEAVEN](https://open.spotify.com/track/63xbtAZx1daHJxhFA2eQCM) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm watching you](https://open.spotify.com/album/3dixoGi4IeEF6XpT5afxUa) | 2:19 |
-| 56 | [Unbothered](https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Unbothered](https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU) | 2:04 |
+| 55 | [Unbothered](https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Unbothered](https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU) | 2:04 |
+| 56 | [HEAVEN](https://open.spotify.com/track/63xbtAZx1daHJxhFA2eQCM) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm watching you](https://open.spotify.com/album/3dixoGi4IeEF6XpT5afxUa) | 2:19 |
 | 57 | [Frozen \(feat\. 070 Shake\)](https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Frozen \(feat\. 070 Shake\)](https://open.spotify.com/album/78zdwUAgBJyjPjwYAMSUDD) | 2:19 |
 | 58 | [Angel](https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 5:52 |
 | 59 | [Killshot \- Slowed + Reverb](https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Killshot \(Slowed + Reverb\)](https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA) | 4:38 |
 | 60 | [Love Is Complicated \(The Angels Sing\)](https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 3:19 |
 | 61 | [i want war \(BUT I NEED PEACE\)](https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [TO FEEL ALIVE EP](https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E) | 2:39 |
-| 62 | [Bloom For Me](https://open.spotify.com/track/5C25UbDGoB9pgvqFlGfS9A) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 2:27 |
-| 63 | [Serenade of Water](https://open.spotify.com/track/5tt7O3V5vwf8ltkr1Wgxrf) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 3:05 |
-| 64 | [Strangers](https://open.spotify.com/track/5Cc0Pe8p7c2OJxMj07ywvc) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 5:44 |
+| 62 | [Strangers](https://open.spotify.com/track/5Cc0Pe8p7c2OJxMj07ywvc) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 5:44 |
+| 63 | [Bloom For Me](https://open.spotify.com/track/5C25UbDGoB9pgvqFlGfS9A) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 2:27 |
+| 64 | [Serenade of Water](https://open.spotify.com/track/5tt7O3V5vwf8ltkr1Wgxrf) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 3:05 |
 | 65 | [Ungodly Hour](https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS) | 4:15 |
 | 66 | [Somebody Else](https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [Somebody Else](https://open.spotify.com/album/4OOJrpUCeIRXhahlOGjVqB) | 3:07 |
 | 67 | [The Smoke](https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 3:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXao0JEaClQq9.md) - [plain]
 | 74 | [Butterfly Net](https://open.spotify.com/track/3JYayrgDyMYVrpMdcn5HxF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:36 |
 | 75 | [FORWARD](https://open.spotify.com/track/0lFotZWVqwgQOh779DKet5) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [FORWARD](https://open.spotify.com/album/7DtNIDD8b1fN9YO8abZgtT) | 2:16 |
 
-Snapshot ID: `MTY4MTQ0NTc2OSwwMDAwMDAwMGM5MTA4ZmI2ODY3YjQ0Y2IxYTYyZGZiMDYzOGFhZTI5`
+Snapshot ID: `MTY4MTQ0NTc2OSwwMDAwMDAwMGYwZWZjOTE3NzU3YmM0OGUxMjM4N2M2MDBmOTA5NTli`

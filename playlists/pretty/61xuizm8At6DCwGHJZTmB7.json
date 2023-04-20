@@ -1,12 +1,12 @@
 {
   "description": "Listen to the top Christian and worship hits of 2023 featuring Hillsong Worship, Maverick City, Kari Jobe, Chris Tomlin and more.  Cover: Brooke Ligertwood",
-  "num_followers": 115517,
+  "num_followers": 115524,
   "original_name": "Worship 2023",
   "owner": {
     "name": "SOZO Playlists ",
     "url": "https://open.spotify.com/user/sozoofficial"
   },
-  "snapshot_id": "Njk3MCw4N2UyNWVmNzc2NDkyNTZkZDRkNTc5MjFkOTBjMDQxYjYyMjJjNzVi",
+  "snapshot_id": "Njk3NSwzZWZmMWEwN2M2NjIxNzZhZjFiNDg4NzEyOWZkMTY0NTNjZDI2YmYy",
   "tracks": [
     {
       "added_at": "2023-01-04 20:22:53",
@@ -505,6 +505,22 @@
       "url": "https://open.spotify.com/track/0b8hSEwhZKE59lSaT4ZqsA"
     },
     {
+      "added_at": "2023-04-19 18:44:48",
+      "album": {
+        "name": "All To Jesus (Live)",
+        "url": "https://open.spotify.com/album/6nnFeb5sm2y94TYPzM0iPl"
+      },
+      "artists": [
+        {
+          "name": "Canyon Hills Worship",
+          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
+        }
+      ],
+      "duration_ms": 256491,
+      "name": "Every Season",
+      "url": "https://open.spotify.com/track/7ufiyvwjHrub0fzrreI6uF"
+    },
+    {
       "added_at": "2023-04-14 19:19:21",
       "album": {
         "name": "I Stand in Awe (Live)",
@@ -735,22 +751,6 @@
       "duration_ms": 421616,
       "name": "Long Live The King - Live At The Grove",
       "url": "https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3"
-    },
-    {
-      "added_at": "2023-03-24 21:26:44",
-      "album": {
-        "name": "All To Jesus (Live)",
-        "url": "https://open.spotify.com/album/5u3wyUEBom81pTF57qjwZW"
-      },
-      "artists": [
-        {
-          "name": "Canyon Hills Worship",
-          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
-        }
-      ],
-      "duration_ms": 360690,
-      "name": "Abide - Live",
-      "url": "https://open.spotify.com/track/4Bo1QB23vxppx9TklFsmKw"
     },
     {
       "added_at": "2023-01-04 20:22:53",
@@ -1591,22 +1591,6 @@
       "duration_ms": 269026,
       "name": "Dancing On The Waves",
       "url": "https://open.spotify.com/track/3KR9nNpWIb2JiNYeqD6Tun"
-    },
-    {
-      "added_at": "2023-01-04 20:22:53",
-      "album": {
-        "name": "Set Me On Fire",
-        "url": "https://open.spotify.com/album/7ogzgwf2864N656S654Oqo"
-      },
-      "artists": [
-        {
-          "name": "Canyon Hills Worship",
-          "url": "https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK"
-        }
-      ],
-      "duration_ms": 253639,
-      "name": "Set Me On Fire",
-      "url": "https://open.spotify.com/track/7AwsTDt4RKJcPK7b6ptY54"
     },
     {
       "added_at": "2023-01-04 20:22:53",

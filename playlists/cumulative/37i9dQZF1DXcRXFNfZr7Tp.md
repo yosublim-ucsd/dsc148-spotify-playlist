@@ -4,7 +4,7 @@
 
 > Current favorites and exciting new music\. Cover: David Guetta, Anne\-Marie & Coi Leray
 
-839 songs - 1 day 19 hr 29 min
+840 songs - 1 day 19 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -776,6 +776,7 @@
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2022-12-28 |  |
 | [UP](https://open.spotify.com/track/2ykXJ9QVwx9Li8nsW0h6b2) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [UP](https://open.spotify.com/album/2jA1exLaHCcpHtDrGLKTmy) | 2:28 | 2022-01-14 | 2022-11-05 |
 | [up at night \(feat\. justin bieber\)](https://open.spotify.com/track/4WghJOMjDpGdlk3b8aJIgy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [up at night \(feat\. justin bieber\)](https://open.spotify.com/album/3vnJxSrVldmInhRwtcUG89) | 3:02 | 2022-04-06 | 2022-05-12 |
+| [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm) | 2:54 | 2023-04-19 |  |
 | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/track/0poKbTUdYz7lXFd15XuHiC) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc) | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/album/1Wp9ImrDqyqMGfZVohAfw1) | 3:22 | 2023-04-14 |  |
 | [Use Your Love \(feat\. Goldford\)](https://open.spotify.com/track/5W05N4aETUauCVzddI8L66) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7), [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Use Your Love \(feat\. Goldford\)](https://open.spotify.com/album/3uvtlLCF4HKbxG8jxxqfYr) | 2:54 | 2020-10-13\* | 2020-11-20 |
 | [Vibez](https://open.spotify.com/track/709F3MwiVvLD0LQXeKs5Cz) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Vibez](https://open.spotify.com/album/18VcdfV5jJVjn10mh0vOYt) | 2:43 | 2021-01-08 | 2021-03-06 |

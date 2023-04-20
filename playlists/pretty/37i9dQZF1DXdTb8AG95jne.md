@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: OhYoon\(오윤\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,887 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,019 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,18 +19,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 9 | [Baby I Need You](https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Baby I Need You](https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf) | 3:35 |
 | 10 | [Dear My All](https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Dear My All](https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf) | 2:41 |
 | 11 | [Wonder](https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO) | 3:55 |
-| 12 | [fool](https://open.spotify.com/track/6lXGf0irWo1XWl8acAlzso) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [Hayne](https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [fool](https://open.spotify.com/album/7dUPtlVTD9sepa5fcaWB44) | 2:10 |
-| 13 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 |
+| 12 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 |
+| 13 | [fool](https://open.spotify.com/track/6lXGf0irWo1XWl8acAlzso) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [Hayne](https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [fool](https://open.spotify.com/album/7dUPtlVTD9sepa5fcaWB44) | 2:10 |
 | 14 | [MIMI](https://open.spotify.com/track/2c51tgfKYA5CLBzKZjqGA5) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [GAUSSIAN](https://open.spotify.com/album/3z5HAU2kKo9TJFCxnj7Vw4) | 3:27 |
 | 15 | [DREAM LIKE ME](https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD), [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [DREAM LIKE ME](https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo) | 4:41 |
 | 16 | [Winter 눈](https://open.spotify.com/track/4YVA21Db1AbASkjpXRhykz) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Nonadaptation 비적응](https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX) | 3:52 |
 | 17 | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/track/0kvtiq8qll4OTfDXvrkXEF) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:08 |
 | 18 | [나무](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [나무](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
-| 19 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
-| 20 | [Today's Mood](https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 3:45 |
-| 21 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
+| 19 | [Sleepless in Seoul \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(Feat\. LEE SUHYUN\)](https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0) | 4:17 |
+| 20 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
+| 21 | [Today's Mood](https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 3:45 |
 | 22 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 |
-| 23 | [Sleepless in Seoul \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [5.2 \(Feat\. LEE SUHYUN\)](https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0) | 4:17 |
+| 23 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
 | 24 | [3108](https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [3108](https://open.spotify.com/album/4km6abn4iGxsbDnxuvFMrw) | 2:58 |
 | 25 | [When It Snows](https://open.spotify.com/track/7xLlRiRccn2fWHibTO2Ta1) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA) | [FROM : X](https://open.spotify.com/album/0Mv40wXJXK7tSXbDdxgorn) | 2:51 |
 | 26 | [Hey kid, Close your eyes \(with Lee Sun Hee\)](https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:53 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 37 | [Lustre](https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt) | 3:34 |
 | 38 | [A Call from My Dream](https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 4:15 |
 | 39 | [RAL 9002](https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [RAL 9002](https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY) | 3:09 |
-| 40 | [tokki](https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [tokki](https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0) | 3:30 |
-| 41 | [in the bed](https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [in the bed](https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj) | 4:25 |
+| 40 | [in the bed](https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [in the bed](https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj) | 4:25 |
+| 41 | [tokki](https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [tokki](https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0) | 3:30 |
 | 42 | [Don't be sad](https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Don't be sad](https://open.spotify.com/album/0U6NOQI9uIsK68H84Kvomc) | 3:30 |
 | 43 | [Do You Think Of Me?](https://open.spotify.com/track/3rE5YYh8azn8WwtRToLYuh) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Do You Think Of Me? \(4.4\)](https://open.spotify.com/album/3w43kNVamjK9eqQ2BJdB7V) | 3:16 |
 | 44 | [Hug](https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 |
 | 50 | [GRIPPIN’THEGREEN](https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:24 |
 
-Snapshot ID: `MTY4MTgwMjIyNywwMDAwMDAwMDM2NjQxZWZlM2ZhZjc3MzBhZTAxNDYyY2UzNjdlYzA1`
+Snapshot ID: `MTY4MTgwMjIyNywwMDAwMDAwMDRhZGFhMWRhNWI3MDk1NmE1NWZiMThhMjFiYTM4Zjc1`

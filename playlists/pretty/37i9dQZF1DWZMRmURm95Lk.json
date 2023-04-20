@@ -1,12 +1,12 @@
 {
   "description": "Beat e rime, oggi come una volta. Kiave, Gheesa e Macro Marco in cover.",
-  "num_followers": 31715,
+  "num_followers": 31742,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzI2MCwwMDAwMDAwMDdjMzRhMDU2ZWIwMmQ0NTUzNWRmMTBlNjdiMjY4NDBj",
+  "snapshot_id": "MTY4MTQyMzI2MCwwMDAwMDAwMDg0ODkyZmJlZTIwZWMzZGIwNmE2ZDY5NDJkMTUwNmNl",
   "tracks": [
     {
       "added_at": "2023-04-13 22:01:00",
@@ -787,42 +787,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "60 Hz",
-        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
-      },
-      "artists": [
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Frank Siciliano",
-          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Notte Blu",
-      "url": "https://open.spotify.com/track/3onqRjPDjMpOaE9le8pMfN"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Caos",
-        "url": "https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB"
-      },
-      "artists": [
-        {
-          "name": "Fabri Fibra",
-          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
-        }
-      ],
-      "duration_ms": 158786,
-      "name": "Brutto Figlio Di",
-      "url": "https://open.spotify.com/track/0ljdS84N7do08kchJRm8uN"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "Classe 73",
         "url": "https://open.spotify.com/album/423Tq90iFAYsE639sLEuHH"
       },
@@ -843,6 +807,42 @@
       "duration_ms": 222000,
       "name": "Giorni matti",
       "url": "https://open.spotify.com/track/1m0PHHaJ6RDMrkSMRZ1UjN"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Caos",
+        "url": "https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB"
+      },
+      "artists": [
+        {
+          "name": "Fabri Fibra",
+          "url": "https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC"
+        }
+      ],
+      "duration_ms": 158786,
+      "name": "Brutto Figlio Di",
+      "url": "https://open.spotify.com/track/0ljdS84N7do08kchJRm8uN"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "60 Hz",
+        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
+      },
+      "artists": [
+        {
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Frank Siciliano",
+          "url": "https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Notte Blu",
+      "url": "https://open.spotify.com/track/3onqRjPDjMpOaE9le8pMfN"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "Riproduzione Vietata",
+        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
+      },
+      "artists": [
+        {
+          "name": "Mattak",
+          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+        }
+      ],
+      "duration_ms": 253683,
+      "name": "L'Anima Giusta",
+      "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "Innocente",
         "url": "https://open.spotify.com/album/2DOOcX6j2vj5ocfRYq7JTR"
       },
@@ -915,18 +931,26 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Riproduzione Vietata",
-        "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
+        "name": "60 Hz",
+        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
       },
       "artists": [
         {
-          "name": "Mattak",
-          "url": "https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK"
+          "name": "DJ Shocca",
+          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
+        },
+        {
+          "name": "Inoki",
+          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
+        },
+        {
+          "name": "Royal Mehdi",
+          "url": "https://open.spotify.com/artist/0NbsRt4NSMynY7oHrywafZ"
         }
       ],
-      "duration_ms": 253683,
-      "name": "L'Anima Giusta",
-      "url": "https://open.spotify.com/track/66LvacHJCJWy11UemxShz7"
+      "duration_ms": 233786,
+      "name": "Bolo By Night",
+      "url": "https://open.spotify.com/track/44HlIYtlj3BL5IH5zbNA6t"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -999,30 +1023,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "60 Hz",
-        "url": "https://open.spotify.com/album/7wLbLRZ53GbV4FUysp4wdO"
-      },
-      "artists": [
-        {
-          "name": "DJ Shocca",
-          "url": "https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz"
-        },
-        {
-          "name": "Inoki",
-          "url": "https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF"
-        },
-        {
-          "name": "Royal Mehdi",
-          "url": "https://open.spotify.com/artist/0NbsRt4NSMynY7oHrywafZ"
-        }
-      ],
-      "duration_ms": 233786,
-      "name": "Bolo By Night",
-      "url": "https://open.spotify.com/track/44HlIYtlj3BL5IH5zbNA6t"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "My Bad",
         "url": "https://open.spotify.com/album/2lbw1UhnNbogs7OGGvhCjK"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Questo non \u00e8 un cane",
-        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
-      },
-      "artists": [
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
-        }
-      ],
-      "duration_ms": 181346,
-      "name": "Quelli come noi",
-      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "Curre curre guagli\u00f2",
         "url": "https://open.spotify.com/album/70lSpUqs8nPGcBflIls3DC"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "Questo non \u00e8 un cane",
+        "url": "https://open.spotify.com/album/5EsYTsMhIoAIMHj850DUeY"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "duration_ms": 181346,
+      "name": "Quelli come noi",
+      "url": "https://open.spotify.com/track/64SKVsNLsbDR5e7lmYzWK8"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "SXM",
         "url": "https://open.spotify.com/album/0VpYT5ALiNjrPCjVI9GG3E"
       },
@@ -1111,22 +1111,6 @@
       "duration_ms": 295293,
       "name": "Cani sciolti",
       "url": "https://open.spotify.com/track/1gq9ZEr1v4Z9M169qDOUS0"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Rebus",
-        "url": "https://open.spotify.com/album/2w8DyIVdzfGyoKxWzNTgYz"
-      },
-      "artists": [
-        {
-          "name": "En?gma",
-          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
-        }
-      ],
-      "duration_ms": 193706,
-      "name": "Bugie Bianche",
-      "url": "https://open.spotify.com/track/5YG4c1oIu9vOr8Wqoa05iH"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1155,6 +1139,22 @@
       "duration_ms": 311000,
       "name": "Ghettoblaster",
       "url": "https://open.spotify.com/track/5JpWfVGafokOb3PBGlp98g"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Rebus",
+        "url": "https://open.spotify.com/album/2w8DyIVdzfGyoKxWzNTgYz"
+      },
+      "artists": [
+        {
+          "name": "En?gma",
+          "url": "https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Bugie Bianche",
+      "url": "https://open.spotify.com/track/5YG4c1oIu9vOr8Wqoa05iH"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Volare",
-        "url": "https://open.spotify.com/album/49NVOF8cRsKJtl38a9AGo0"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        },
-        {
-          "name": "Brokenspeakers",
-          "url": "https://open.spotify.com/artist/4Ttq7tTGmx28IM7sN0nEMa"
-        }
-      ],
-      "duration_ms": 242378,
-      "name": "Casse rotte (feat. Brokenspeakers)",
-      "url": "https://open.spotify.com/track/27dNFX3mCkv6H1nFP9GiRY"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "Riproduzione Vietata",
         "url": "https://open.spotify.com/album/1OXdDBqTdWwRRNDucLzYD0"
       },
@@ -1251,6 +1231,26 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "Volare",
+        "url": "https://open.spotify.com/album/49NVOF8cRsKJtl38a9AGo0"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        },
+        {
+          "name": "Brokenspeakers",
+          "url": "https://open.spotify.com/artist/4Ttq7tTGmx28IM7sN0nEMa"
+        }
+      ],
+      "duration_ms": 242378,
+      "name": "Casse rotte (feat. Brokenspeakers)",
+      "url": "https://open.spotify.com/track/27dNFX3mCkv6H1nFP9GiRY"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "Schiena Contro Schiena",
         "url": "https://open.spotify.com/album/5IwGNmcikVfFtiVtDmw5ff"
       },
@@ -1267,22 +1267,6 @@
       "duration_ms": 259557,
       "name": "21 Grammi",
       "url": "https://open.spotify.com/track/3mALxpNkY2W4EzLldNCo9s"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali (Deluxe)",
-        "url": "https://open.spotify.com/album/36zvwA99FYXPvrY2281Msa"
-      },
-      "artists": [
-        {
-          "name": "Murubutu",
-          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
-        }
-      ],
-      "duration_ms": 225755,
-      "name": "L'attimo esatto",
-      "url": "https://open.spotify.com/track/0bfSBIgvqgfJDuU7d6J7oP"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1315,6 +1299,22 @@
       "duration_ms": 291757,
       "name": "Poeti estinti",
       "url": "https://open.spotify.com/track/5tz7hOlCqP7hYeLfLaT9pk"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Storie d'amore con pioggia e altri racconti di rovesci e temporali (Deluxe)",
+        "url": "https://open.spotify.com/album/36zvwA99FYXPvrY2281Msa"
+      },
+      "artists": [
+        {
+          "name": "Murubutu",
+          "url": "https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri"
+        }
+      ],
+      "duration_ms": 225755,
+      "name": "L'attimo esatto",
+      "url": "https://open.spotify.com/track/0bfSBIgvqgfJDuU7d6J7oP"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Ferro del mestiere",
-        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
-      },
-      "artists": [
-        {
-          "name": "Jake La Furia",
-          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
-        }
-      ],
-      "duration_ms": 143892,
-      "name": "Caramelle da uno sconosciuto",
-      "url": "https://open.spotify.com/track/6OHeFnEBuMlCMC7duHmblF"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "Machete Mixtape, Vol. 3",
         "url": "https://open.spotify.com/album/0Ln6r2NSr89blemDAZK0KM"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 202666,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/4o7olxYueLIX4Kzy4tfg4a"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Ferro del mestiere",
+        "url": "https://open.spotify.com/album/3MmCBPYzRAiMZc5tFMu0NL"
+      },
+      "artists": [
+        {
+          "name": "Jake La Furia",
+          "url": "https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH"
+        }
+      ],
+      "duration_ms": 143892,
+      "name": "Caramelle da uno sconosciuto",
+      "url": "https://open.spotify.com/track/6OHeFnEBuMlCMC7duHmblF"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1479,6 +1479,30 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "Leggero",
+        "url": "https://open.spotify.com/album/3zHXGM2q0Oelab0ZE1Q3Z5"
+      },
+      "artists": [
+        {
+          "name": "Kenzie",
+          "url": "https://open.spotify.com/artist/2YTh9GeCwRbHyyduUmG35R"
+        },
+        {
+          "name": "Bleach",
+          "url": "https://open.spotify.com/artist/5wg8XOdkxZdHEQ1IadC4RO"
+        },
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Leggero",
+      "url": "https://open.spotify.com/track/4T5neV0qhXzkfOVSf7Fizt"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "Luigi XVI",
         "url": "https://open.spotify.com/album/6JmnCNmmC7HGsIAdWxptvs"
       },
@@ -1507,26 +1531,18 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Leggero",
-        "url": "https://open.spotify.com/album/3zHXGM2q0Oelab0ZE1Q3Z5"
+        "name": "XENOVERSO",
+        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
       },
       "artists": [
         {
-          "name": "Kenzie",
-          "url": "https://open.spotify.com/artist/2YTh9GeCwRbHyyduUmG35R"
-        },
-        {
-          "name": "Bleach",
-          "url": "https://open.spotify.com/artist/5wg8XOdkxZdHEQ1IadC4RO"
-        },
-        {
-          "name": "Claver Gold",
-          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+          "name": "Rancore",
+          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Leggero",
-      "url": "https://open.spotify.com/track/4T5neV0qhXzkfOVSf7Fizt"
+      "duration_ms": 183265,
+      "name": "Lontano 2036",
+      "url": "https://open.spotify.com/track/6nnr14haLuRyJEWdT6bEtC"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1547,22 +1563,6 @@
       "duration_ms": 191213,
       "name": "SPUNTABLU",
       "url": "https://open.spotify.com/track/7MZcg5pmEXvJSNeOEVZ13s"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "XENOVERSO",
-        "url": "https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW"
-      },
-      "artists": [
-        {
-          "name": "Rancore",
-          "url": "https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Lontano 2036",
-      "url": "https://open.spotify.com/track/6nnr14haLuRyJEWdT6bEtC"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "kARMA",
+        "url": "https://open.spotify.com/album/3VmRhUOBG3IMpXpcNndZ5Z"
+      },
+      "artists": [
+        {
+          "name": "Kaos",
+          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
+        }
+      ],
+      "duration_ms": 238773,
+      "name": "Il 6\u00b0 Senso",
+      "url": "https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "Mercato nero",
         "url": "https://open.spotify.com/album/3WRF5zh8b6OlHVIUdYbIyJ"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 119891,
       "name": "SETE",
       "url": "https://open.spotify.com/track/3EovIrHKaYuj7BE42FCpZ5"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "kARMA",
-        "url": "https://open.spotify.com/album/3VmRhUOBG3IMpXpcNndZ5Z"
-      },
-      "artists": [
-        {
-          "name": "Kaos",
-          "url": "https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r"
-        }
-      ],
-      "duration_ms": 238773,
-      "name": "Il 6\u00b0 Senso",
-      "url": "https://open.spotify.com/track/3pb4y6KOWr1wHsg2GOp78O"
     },
     {
       "added_at": "2023-04-13 22:01:00",

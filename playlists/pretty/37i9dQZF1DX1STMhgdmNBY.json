@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 48632,
+  "num_followers": 48770,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQwMTc0MywwMDAwMDAwMGY3MDhlZTU2YWM5ZTU1ZDc5MDI0YzA2OWEzNTFlMmE5",
+  "snapshot_id": "MTY4MTQwMTc0MywwMDAwMDAwMDBlYTIyNjVkNGI5ZjA1MWNkMTcyN2QyNDVlYzBiNWY5",
   "tracks": [
     {
       "added_at": "2023-03-03 18:12:19",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-03-03 18:12:19",
       "album": {
-        "name": "Singin' The Blues",
-        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 183293,
-      "name": "Three O'clock Blues",
-      "url": "https://open.spotify.com/track/1WeX8wcU8FDEZxWurJLU0r"
-    },
-    {
-      "added_at": "2023-03-03 18:12:19",
-      "album": {
         "name": "Had to Cry Today",
         "url": "https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 411960,
       "name": "Reconsider Baby",
       "url": "https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC"
+    },
+    {
+      "added_at": "2023-03-03 18:12:19",
+      "album": {
+        "name": "Singin' The Blues",
+        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 183293,
+      "name": "Three O'clock Blues",
+      "url": "https://open.spotify.com/track/1WeX8wcU8FDEZxWurJLU0r"
     },
     {
       "added_at": "2023-03-03 18:12:19",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-03-03 18:12:19",
       "album": {
-        "name": "The Last Of The Blue Devils",
-        "url": "https://open.spotify.com/album/6uVMAymadbYSAusGSUnNqw"
-      },
-      "artists": [
-        {
-          "name": "Jay McShann",
-          "url": "https://open.spotify.com/artist/1qZnWtvzKVV0lJQZBapchU"
-        }
-      ],
-      "duration_ms": 421666,
-      "name": "'Tain't Nobody's Biz'ness If I Do",
-      "url": "https://open.spotify.com/track/6SVMrke6GfTo8VFWaDH8Yu"
-    },
-    {
-      "added_at": "2023-03-03 18:12:19",
-      "album": {
         "name": "Rancho Texicano: The Very Best of ZZ Top",
         "url": "https://open.spotify.com/album/6ti1HC6R2Op1enYiuCDf6k"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 279173,
       "name": "Blue Jean Blues",
       "url": "https://open.spotify.com/track/2YRF157SH4KOtDlaVjHoaB"
+    },
+    {
+      "added_at": "2023-03-03 18:12:19",
+      "album": {
+        "name": "The Last Of The Blue Devils",
+        "url": "https://open.spotify.com/album/6uVMAymadbYSAusGSUnNqw"
+      },
+      "artists": [
+        {
+          "name": "Jay McShann",
+          "url": "https://open.spotify.com/artist/1qZnWtvzKVV0lJQZBapchU"
+        }
+      ],
+      "duration_ms": 421666,
+      "name": "'Tain't Nobody's Biz'ness If I Do",
+      "url": "https://open.spotify.com/track/6SVMrke6GfTo8VFWaDH8Yu"
     },
     {
       "added_at": "2023-03-03 18:12:19",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-03-03 18:12:19",
       "album": {
-        "name": "Riding Out The Storm",
-        "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 278873,
-      "name": "Riding Out The Storm",
-      "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
-    },
-    {
-      "added_at": "2023-03-03 18:12:19",
-      "album": {
         "name": "I Am The Blues",
         "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 216373,
       "name": "The Little Red Rooster",
       "url": "https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF"
+    },
+    {
+      "added_at": "2023-03-03 18:12:19",
+      "album": {
+        "name": "Riding Out The Storm",
+        "url": "https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 278873,
+      "name": "Riding Out The Storm",
+      "url": "https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu"
     },
     {
       "added_at": "2023-03-03 18:12:19",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-03-03 18:12:19",
       "album": {
-        "name": "No Foolin'!",
-        "url": "https://open.spotify.com/album/5YxmBxdk0V7Mx2XS3ExyB6"
-      },
-      "artists": [
-        {
-          "name": "Katie Webster",
-          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
-        }
-      ],
-      "duration_ms": 390666,
-      "name": "It's Mighty Hard",
-      "url": "https://open.spotify.com/track/4OvJmdA6sHxhKsyD6bXnHN"
-    },
-    {
-      "added_at": "2023-03-03 18:12:19",
-      "album": {
         "name": "Porch Sessions, Vol. 2",
         "url": "https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 170893,
       "name": "Change is Inevitable (feat. AJ Fullerton)",
       "url": "https://open.spotify.com/track/1ch8BB3SZgCvJN1qWft4Et"
+    },
+    {
+      "added_at": "2023-03-03 18:12:19",
+      "album": {
+        "name": "No Foolin'!",
+        "url": "https://open.spotify.com/album/5YxmBxdk0V7Mx2XS3ExyB6"
+      },
+      "artists": [
+        {
+          "name": "Katie Webster",
+          "url": "https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe"
+        }
+      ],
+      "duration_ms": 390666,
+      "name": "It's Mighty Hard",
+      "url": "https://open.spotify.com/track/4OvJmdA6sHxhKsyD6bXnHN"
     },
     {
       "added_at": "2023-03-03 18:12:19",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-03-03 18:12:19",
       "album": {
-        "name": "Last of the Blues Shouters",
-        "url": "https://open.spotify.com/album/3r0loF6keIGuDG7n6YQ1t0"
+        "name": "South Side Of Soul Street: The SSS Sessions (Remastered 2022)",
+        "url": "https://open.spotify.com/album/3u1omgR0jZ23t1KdAmsaef"
       },
       "artists": [
         {
-          "name": "Big Miller",
-          "url": "https://open.spotify.com/artist/4c8m7LzbeEJdqVMfNAW2xn"
+          "name": "Johnny Adams",
+          "url": "https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk"
         }
       ],
-      "duration_ms": 515933,
-      "name": "Ain't It A Shame",
-      "url": "https://open.spotify.com/track/58dG6XIMGNhFdH8GKSPCmL"
+      "duration_ms": 189000,
+      "name": "I Have No One - Remastered 2022",
+      "url": "https://open.spotify.com/track/308gSPfGJpzLK9rnYCZZtB"
     }
   ],
   "unique_name": "Healin' Blues",

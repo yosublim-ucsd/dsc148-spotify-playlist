@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Dinner Party
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,322,635 likes - 130 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,322,806 likes - 130 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 5 | [Scorpio Moon](https://open.spotify.com/track/3IGuwQrpudC28e2gMgNjWj) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Scorpio Moon](https://open.spotify.com/album/2NpMbftxDxTwKI2CAVz6gv) | 2:57 |
 | 6 | [Demon Time \(with Ari Lennox\) \- Remix](https://open.spotify.com/track/4It2tsHgHW7gdEDCh0Jfo8) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [The Hurtbook \(Homegirl Pack\)](https://open.spotify.com/album/5kljTEylYVvyu90Qnw6JIB) | 3:40 |
 | 7 | [ICU](https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 4:01 |
-| 8 | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/track/0IT1pmbYjQjoU0IUMVZ6XU) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/album/5l1oWPwn5OqgbbBLyCrU05) | 2:52 |
+| 8 | [For Granted \(feat\. Arin Ray\)](https://open.spotify.com/track/39RJfDkli3BkEsW6LN4DrZ) | [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Enigmatic Society](https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe) | 2:52 |
 | 9 | [311 \(with Gwen Bunn\)](https://open.spotify.com/track/2K4R3bKsoJV8Rm9I67ddm7) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [FORWARD](https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc) | 2:31 |
 | 10 | [Secrets](https://open.spotify.com/track/23DcYVHH5f9yuttqSrZ8YI) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Secrets](https://open.spotify.com/album/5hUNtJVGbyh8eJfulPr7Sx) | 3:26 |
 | 11 | [Right My Wrongs](https://open.spotify.com/track/2a6dtqGypYvr9h1s6RDSNo) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Right My Wrongs](https://open.spotify.com/album/0MUdV84DUtrrIfUlr1QNL2) | 2:20 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 129 | [TALK TO ME \- TOO LATE](https://open.spotify.com/track/5dBbcUqd5nh5kPKzMotgjr) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 2:52 |
 | 130 | [Open Up](https://open.spotify.com/track/0MPUFzx6mhOD8CSDLMISna) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO), [ESTA.](https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO) | [Intersections](https://open.spotify.com/album/1mhJA30itw9ItQOGXb9s4N) | 3:38 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDIxMTcxNzhmMTA1YzExOGY3ZDkxNjQzNDJhNWZhMmU0`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMGRkYmY4YTUwYTI1OGFlNWIzODVkNDFhYzQyZTA4Mzc4`

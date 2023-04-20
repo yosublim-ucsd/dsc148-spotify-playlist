@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > You better duck, when I show you up, the goo goo muck! The Cramps on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 594,660 likes - 80 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,172 likes - 80 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 45 | [Monitor](https://open.spotify.com/track/1gnZ2VCdVUHSgiBKrzdeK8) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Juju](https://open.spotify.com/album/5OEum65e1HMGX51Ifu51Wb) | 5:34 |
 | 46 | [Reptile](https://open.spotify.com/track/29Znt9AbEH9FSsw86zPAYT) | [The Church](https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt) | [Starfish](https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x) | 4:55 |
 | 47 | [Love Like Blood](https://open.spotify.com/track/14z3RzUHeZQgtpOlSYvmZD) | [Killing Joke](https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD) | [Night Time](https://open.spotify.com/album/2qcwXvluk9iFwNNg4eDBXm) | 6:48 |
-| 48 | [Falling](https://open.spotify.com/track/31CYUJj5f9lbQ0Qqm9PzK5) | [Julee Cruise](https://open.spotify.com/artist/4Pt1HZtuJwrQB8l0ES5iTX) | [Floating Into The Night](https://open.spotify.com/album/3N6VPyK0YsRTccqoRQjkVx) | 5:21 |
-| 49 | [30 Century Man](https://open.spotify.com/track/6u0EHlRPgUIfER7ZAE4x6Q) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [Scott 3](https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI) | 1:26 |
+| 48 | [30 Century Man](https://open.spotify.com/track/6u0EHlRPgUIfER7ZAE4x6Q) | [Scott Walker](https://open.spotify.com/artist/04tBaW21jyUfeP5iqiKBVq) | [Scott 3](https://open.spotify.com/album/5ofQcOqaopFUp7VO5UYzpI) | 1:26 |
+| 49 | [Falling](https://open.spotify.com/track/31CYUJj5f9lbQ0Qqm9PzK5) | [Julee Cruise](https://open.spotify.com/artist/4Pt1HZtuJwrQB8l0ES5iTX) | [Floating Into The Night](https://open.spotify.com/album/3N6VPyK0YsRTccqoRQjkVx) | 5:21 |
 | 50 | [Wax And Wane](https://open.spotify.com/track/1pCaxskZpChEzo3ZTeUFwH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Garlands](https://open.spotify.com/album/3yT1f4nGSy3BBw4ghtRF29) | 4:04 |
 | 51 | [Kick in the Eye](https://open.spotify.com/track/1WmDtKY1clNiRdc5xY8Bms) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Mask](https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV) | 3:40 |
 | 52 | [Kangaroo \- Remastered](https://open.spotify.com/track/2HsOICaAi5bwnqyG7uO1Fo) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [It'll End In Tears \(Remastered\)](https://open.spotify.com/album/5gMiiXVgUFVUIHKXC57a0j) | 3:29 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 57 | [Red Drop](https://open.spotify.com/track/0jyOu6GTwQ3c0hVXYwGZpL) | [Motorama](https://open.spotify.com/artist/3j0kMFxXTTYsuw1twLClw3) | [Poverty](https://open.spotify.com/album/18y3DE8cX1ptDjRVwgnmfb) | 3:31 |
 | 58 | [Ivo](https://open.spotify.com/track/7anJBerQqBKIbbKvLf9eAq) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:53 |
 | 59 | [Spiritual Cramp](https://open.spotify.com/track/3jSTCf4oCzZ2yhKNbmfl5k) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:55 |
-| 60 | [Strung Out Johnny](https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Strung Out Johnny](https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm) | 4:13 |
-| 61 | [Snake Dance](https://open.spotify.com/track/20CMNatKGvGsH9H1WjSYYZ) | [The March Violets](https://open.spotify.com/artist/03FKngvcynr4H8PuTP8n19) | [The Botanic Verses](https://open.spotify.com/album/5ZgrlWIPhODOEV0kTpiuYh) | 4:06 |
+| 60 | [Snake Dance](https://open.spotify.com/track/20CMNatKGvGsH9H1WjSYYZ) | [The March Violets](https://open.spotify.com/artist/03FKngvcynr4H8PuTP8n19) | [The Botanic Verses](https://open.spotify.com/album/5ZgrlWIPhODOEV0kTpiuYh) | 4:06 |
+| 61 | [Strung Out Johnny](https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Strung Out Johnny](https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm) | 4:13 |
 | 62 | [Lose My Breath](https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn't Anything](https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo) | 3:37 |
 | 63 | [Blasphemous Rumours](https://open.spotify.com/track/7JRWBhgl6KeAuDdoUxkSw4) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Catching Up with Depeche Mode](https://open.spotify.com/album/1fuXkfdOh71JbMvOLIXpX9) | 5:06 |
 | 64 | [Twenty Four Hours \- 2007 Remaster](https://open.spotify.com/track/36HznXQNGoen7dwq4Vv6nP) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Closer \(Collector's Edition\)](https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko) | 4:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 79 | [Beat And The Pulse](https://open.spotify.com/track/5hyEQ6BNYKYrsRNiUxrXT4) | [Austra](https://open.spotify.com/artist/1o43SzzuLoyOxqThmp7s0g) | [Feel It Break](https://open.spotify.com/album/7kZDvUzWaeZrvkEc3Jr1e8) | 4:55 |
 | 80 | [Dance With Me](https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV) | [Lords Of The New Church](https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk) | [Is Nothing Sacred?](https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8) | 3:25 |
 
-Snapshot ID: `MTY3OTAxMzgyMCwwMDAwMDAwMGI5NGNkZjVhZWE0ZjA1OTc3NGUxZmQwYTE3NjRkOWU5`
+Snapshot ID: `MTY3OTAxMzgyMCwwMDAwMDAwMGU3ZWRiMmI5YTQwYWI1MTc4NjM2YTk4MTZjOTY1OTQz`

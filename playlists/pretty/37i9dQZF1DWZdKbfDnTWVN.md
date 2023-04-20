@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover Wakadinali
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,686 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,701 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 14 | [Nyo](https://open.spotify.com/track/55xiKBMDGv7Bs3X1lF8rAj) | [Iphoolish](https://open.spotify.com/artist/4vgL7NjTcEXAmObSdo5nmp), [Katapilla](https://open.spotify.com/artist/2sV5D5jVpZCszKEyvSbuET), [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c) | [Yinga](https://open.spotify.com/album/2zkSoisn7kPVhKHEBos1sY) | 3:18 |
 | 15 | [Tunnel Vision](https://open.spotify.com/track/1eJKESAX6QRZcgS2zXKzSF) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Tunnel Vision](https://open.spotify.com/album/7aMt0BMvV655dFtP3yyP9X) | 2:51 |
 | 16 | [On My Own](https://open.spotify.com/track/66namJgY7uCzejV0yixkzy) | [Jonathan May](https://open.spotify.com/artist/3T4VUy3b6j4k7Xuvu5t6mk), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [On My Own](https://open.spotify.com/album/2QHZSAvZP2BrdSihBNXMLu) | 3:44 |
-| 17 | [Lose](https://open.spotify.com/track/7ojMJpBewMnczrWKsIlKMC) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY) | [Lose](https://open.spotify.com/album/77GsYDaqzWi5uTDxBYVy3x) | 3:22 |
+| 17 | [Lose](https://open.spotify.com/track/4nWq6NkvzFuxqbd1cyVk4A) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY) | [Lose](https://open.spotify.com/album/7LxnVwde82SZ0GCfFNGfJR) | 3:22 |
 | 18 | [MOTOWN](https://open.spotify.com/track/1Eo01Bnj04mLVrBpwpCWaQ) | [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [MOTOWN \(feat\. BabyTron\)](https://open.spotify.com/album/5xcoC6VNSy4dfNIYGPMJQm) | 2:44 |
 | 19 | [Mc Mca](https://open.spotify.com/track/0wAgvKKxVwqJghZtNOa4GY) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [Mc Mca](https://open.spotify.com/album/22YRItlDL5DWrGBWRwfiq4) | 3:58 |
 | 20 | [All of That](https://open.spotify.com/track/2LRw8JPGlBgNSpI6EtF27p) | [Alma Ras](https://open.spotify.com/artist/6Pxg2gGOy1rDZJIeiEmsLp), [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX) | [All of That](https://open.spotify.com/album/7nfbXw2EV9Cm6z4qHTVZSi) | 3:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 | 59 | [Mukta](https://open.spotify.com/track/0oN4a2IN6iaUT3onIIuBYI) | [£g0](https://open.spotify.com/artist/3VfGT695sBZZvATskxjdr0), [LB \(EL PRESIDENTE\)](https://open.spotify.com/artist/19tmkCNT4ZOGkI4cLgSxO3) | [Mukta](https://open.spotify.com/album/71d0dEnWw8vBQ2Ka3MQtKG) | 2:14 |
 | 60 | [Feelin' It](https://open.spotify.com/track/1KqtoMNOZbvsiB0K7ZWiHp) | [Groovy Jo](https://open.spotify.com/artist/1IwUZ6iKBJmi7YdDRqAHr6) | [Feelin' It](https://open.spotify.com/album/1tYGnwCO1uFu49hkYKK2nc) | 2:54 |
 
-Snapshot ID: `MTY4MTQxOTU0MCwwMDAwMDAwMGUwZmUxZjQyYzhmNDA1NTU4MmJkYzBhOGY1ZjQ0MDk4`
+Snapshot ID: `MTY4MTQxOTU0MCwwMDAwMDAwMDljNTdjZWE4ZmYwNjgyMTc3ODg0ZmMwMTgwMTdiOTk2`

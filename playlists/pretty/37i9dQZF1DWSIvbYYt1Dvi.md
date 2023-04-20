@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > l7 é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,241,377 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,241,452 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

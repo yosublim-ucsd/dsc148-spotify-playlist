@@ -1,12 +1,12 @@
 {
   "description": "Get the party going with these classics from across the decades.",
-  "num_followers": 868361,
+  "num_followers": 868442,
   "original_name": "Ultimate Party Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUwODc3OCwwMDAwMDAwMGZjMWY2ODQ1ZGVkYjdmZDU4NTc5YTNjM2VkOGI4MGE1",
+  "snapshot_id": "MTY0MjUwODc3OCwwMDAwMDAwMGNlM2NhY2FlZmE0ZDVlN2E1ZTVlYTQ1MTBlNjEwMmMw",
   "tracks": [
     {
       "added_at": "2021-12-16 10:56:08",
@@ -379,6 +379,22 @@
     {
       "added_at": "2021-12-16 10:56:08",
       "album": {
+        "name": "The Rokstarr Hits Collection",
+        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 202613,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV"
+    },
+    {
+      "added_at": "2021-12-16 10:56:08",
+      "album": {
         "name": "Thriller 25 Super Deluxe Edition",
         "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
       },
@@ -415,22 +431,6 @@
     {
       "added_at": "2021-12-16 10:56:08",
       "album": {
-        "name": "The Rokstarr Hits Collection",
-        "url": "https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 202613,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/2CEgGE6aESpnmtfiZwYlbV"
-    },
-    {
-      "added_at": "2021-12-16 10:56:08",
-      "album": {
         "name": "Barrio Fino (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
       },
@@ -443,22 +443,6 @@
       "duration_ms": 192600,
       "name": "Gasolina",
       "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
-    },
-    {
-      "added_at": "2021-12-16 10:56:08",
-      "album": {
-        "name": "G I R L",
-        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 232720,
-      "name": "Happy - From \"Despicable Me 2\"",
-      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
     },
     {
       "added_at": "2021-12-16 10:56:08",
@@ -479,6 +463,22 @@
     {
       "added_at": "2021-12-16 10:56:08",
       "album": {
+        "name": "G I R L",
+        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 232720,
+      "name": "Happy - From \"Despicable Me 2\"",
+      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
+    },
+    {
+      "added_at": "2021-12-16 10:56:08",
+      "album": {
         "name": "Spice",
         "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
@@ -495,22 +495,6 @@
     {
       "added_at": "2021-12-16 10:56:08",
       "album": {
-        "name": "Tango In the Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 226653,
-      "name": "Everywhere - 2017 Remaster",
-      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
-    },
-    {
-      "added_at": "2021-12-16 10:56:08",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 228093,
       "name": "Rolling in the Deep",
       "url": "https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk"
+    },
+    {
+      "added_at": "2021-12-16 10:56:08",
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 226653,
+      "name": "Everywhere - 2017 Remaster",
+      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
     },
     {
       "added_at": "2021-12-16 10:56:08",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2021-12-16 10:56:08",
       "album": {
-        "name": "Who Loves You",
-        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
+        "name": "Too Rye Ay",
+        "url": "https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6"
       },
       "artists": [
         {
-          "name": "Frankie Valli & The Four Seasons",
-          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
+          "name": "Dexys Midnight Runners",
+          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
         }
       ],
-      "duration_ms": 197146,
-      "name": "December, 1963 (Oh What a Night!)",
-      "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
+      "duration_ms": 287306,
+      "name": "Come On Eileen",
+      "url": "https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"
     },
     {
       "added_at": "2021-12-16 10:56:08",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2021-12-16 10:56:08",
       "album": {
-        "name": "Too Rye Ay",
-        "url": "https://open.spotify.com/album/7nCWzcMZanUBPZgZaKpzM6"
+        "name": "Who Loves You",
+        "url": "https://open.spotify.com/album/7fbHVufa1ZvEWWpDppEXHU"
       },
       "artists": [
         {
-          "name": "Dexys Midnight Runners",
-          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+          "name": "Frankie Valli & The Four Seasons",
+          "url": "https://open.spotify.com/artist/6mcrZQmgzFGRWf7C0SObou"
         }
       ],
-      "duration_ms": 287306,
-      "name": "Come On Eileen",
-      "url": "https://open.spotify.com/track/3MrWxJaD2AT0W9DjWF64Vm"
+      "duration_ms": 197146,
+      "name": "December, 1963 (Oh What a Night!)",
+      "url": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN"
     },
     {
       "added_at": "2021-12-16 10:56:08",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2021-12-16 10:56:08",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 243933,
-      "name": "Take A Chance On Me",
-      "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
-    },
-    {
-      "added_at": "2021-12-16 10:56:08",
-      "album": {
         "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
         "url": "https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
+    },
+    {
+      "added_at": "2021-12-16 10:56:08",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 243933,
+      "name": "Take A Chance On Me",
+      "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
     },
     {
       "added_at": "2021-12-16 10:56:08",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2021-12-16 10:56:08",
       "album": {
-        "name": "More of The Monkees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
-      },
-      "artists": [
-        {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "I'm a Believer - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
-    },
-    {
-      "added_at": "2021-12-16 10:56:08",
-      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 211213,
       "name": "All That She Wants",
       "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
+    },
+    {
+      "added_at": "2021-12-16 10:56:08",
+      "album": {
+        "name": "More of The Monkees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "I'm a Believer - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
     },
     {
       "added_at": "2021-12-16 10:56:08",

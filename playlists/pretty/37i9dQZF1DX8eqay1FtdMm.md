@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet the vocalists representing Korea! \(Cover:SOLE & Sung Si Kyung\(쏠 & 성시경\)\) \(대한민국을 대표하는 보컬들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,195 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,246 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,11 +83,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 73 | [To You](https://open.spotify.com/track/4s7luL81oRUzvnpTN3XFEJ) | [WSG WANNBE \(Gaya\-G\)](https://open.spotify.com/artist/75IVzR4O5AZ0Zd8HWoNWO2) | [To You](https://open.spotify.com/album/25eApxLg3RfcpJ4xLsz53f) | 3:27 |
 | 74 | [Amazing You](https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 3rd Digital Single \`Amazing You'](https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy) | 4:56 |
 | 75 | [내가 저지른 사랑](https://open.spotify.com/track/72UARrP1LDMUMuZ7tRAxku) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [I'M](https://open.spotify.com/album/3OnWObhf5pDIx4NLTAqYZa) | 3:58 |
-| 76 | [Deeply](https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG) | [HEN](https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC) | [My Liberation Notes OST Part 1](https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ) | 3:38 |
-| 77 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 |
-| 78 | [Lie to me](https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Unlock My Boss, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9) | 3:22 |
-| 79 | [Far away](https://open.spotify.com/track/43iomf0oLrC9449yN58E4c) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Divorce Attorney Shin \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6) | 3:25 |
-| 80 | [Because of You](https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [Rookie Cops \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn) | 3:32 |
+| 76 | [Because of You](https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [Rookie Cops \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn) | 3:32 |
+| 77 | [Deeply](https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG) | [HEN](https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC) | [My Liberation Notes OST Part 1](https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ) | 3:38 |
+| 78 | [Far away](https://open.spotify.com/track/43iomf0oLrC9449yN58E4c) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Divorce Attorney Shin \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/3AhxpeM0oqlgkdio5NVmp6) | 3:25 |
+| 79 | [Sweet Lullaby](https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sweet Lullaby](https://open.spotify.com/album/65RzyhETVL6M4MmdMRcM5X) | 3:15 |
+| 80 | [Lie to me](https://open.spotify.com/track/49kvzhrGeGe4drWi8NNj1A) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Unlock My Boss, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5BJ9IiO5MevsSlzjHoOPK9) | 3:22 |
 | 81 | [\#tb](https://open.spotify.com/track/3OboGw2I8oYsEHeCrZ7NLT) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Hongbi](https://open.spotify.com/artist/3dsCeMQUrHkfkcqhMCuhqN) | [\#tb](https://open.spotify.com/album/5NRXAUx3xt2YS4U07mAgEp) | 4:35 |
 | 82 | [Drunken confession at night \(Prod\. 2soo\)](https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Drunken confession at night](https://open.spotify.com/album/6ckoOynVQtEj04mbOAyGAh) | 4:06 |
 | 83 | [My Dream](https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Rookie Historian GooHaeRyung \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 99 | [Tale](https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [The Fairy Tale](https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1) | 3:47 |
 | 100 | [Burn Like A Star](https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs), [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Burn Like A Star](https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ) | 3:08 |
 
-Snapshot ID: `MTY4MTc4NTI5MCwwMDAwMDAwMDQwM2Y2NjZiNTZhNzI4YmYyOWJiOTJiZDNlMTI1OWZh`
+Snapshot ID: `MTY4MTc4NTI5MCwwMDAwMDAwMDdkMmI2MzRhZTAxZjBmMjAxNTBlOTc3OGMzYzU2MzE3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVOrABrZKBq.md) - [plain]
 
 > Le rap francophone est en forme\. Photo: Zola
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,938 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,957 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,169 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,222 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 50 | [Órdenes Directas](https://open.spotify.com/track/7w9libenk5qFo5LUoHGO7j) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Órdenes Directas \(Deltas\)](https://open.spotify.com/album/6spcpkPGLE5ERczqKcjwUU) | 2:27 |
 | 51 | [Los Versos De Muel](https://open.spotify.com/track/3YWOZ51Fvvz96VrrZfomJ2) | [Darey de la Sierra](https://open.spotify.com/artist/6ip6Hhqm3kIcVAMzbkT3YU), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Los Versos De Muel](https://open.spotify.com/album/5xM2wgz9pBT3E9ohuJOY8a) | 3:25 |
 
-Snapshot ID: `MjgwMzAzOTAsMDAwMDAwMDAzYTdlMzQ2OGNhODczODY2ZGE5NzljMjNlNzdlYjc4NA==`
+Snapshot ID: `MjgwMzE3ODMsMDAwMDAwMDA0M2E0NTNkY2IwMDgwZmZkOTAxMDJiODdhN2QwMDJlMw==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,315 likes - 147 songs - 14 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,355 likes - 147 songs - 14 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

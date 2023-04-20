@@ -4,7 +4,7 @@
 
 > Seré la gata bajo la lluvia..\. 😿
 
-101 songs - 6 hr 44 min
+102 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,12 +78,13 @@
 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 | 2023-02-24 |  |
 | [OTRAS MUJERES](https://open.spotify.com/track/3TPyzaMVYGZq6PV1J4kXBV) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OTRAS MUJERES](https://open.spotify.com/album/7kjsiTEu2hzDx0ioEPhWkF) | 3:00 | 2023-02-24 | 2023-04-14 |
 | [Perdida En El Fuego](https://open.spotify.com/track/6btPkqEOYxT79nR5f8g0dU) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Agua Ardiente](https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL) | 4:33 | 2023-02-24 |  |
-| [Perra Soledad](https://open.spotify.com/track/6wYF5EU5fLmemMGDGaIaVF) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9) | [Perra Soledad](https://open.spotify.com/album/3doJ5jjjid4alv36j9yssG) | 3:30 | 2023-04-13 |  |
+| [Perra Soledad](https://open.spotify.com/track/6wYF5EU5fLmemMGDGaIaVF) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9) | [Perra Soledad](https://open.spotify.com/album/3doJ5jjjid4alv36j9yssG) | 3:30 | 2023-04-13 | 2023-04-20 |
 | [Pervert Pop Song \(Castigame\)](https://open.spotify.com/track/1ZzXHQ5ZAq46qZl5ifvMnn) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [All U Need Is Mosh](https://open.spotify.com/album/4rVRjklAbBsRF2rOJEL8nA) | 4:04 | 2023-02-24 |  |
 | [Piel Canela](https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Piel Canela](https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t) | 1:42 | 2023-02-24 |  |
 | [Por Tu Olor](https://open.spotify.com/track/69gBnFLDtc2lub6xL0sfi9) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [El Arte de Saltar](https://open.spotify.com/album/6ZCnNpmcsTnDbQ8FcXqVGj) | 3:41 | 2023-02-24 |  |
 | [Párteme La Cara](https://open.spotify.com/track/5gEUDNQvoQjdjklrwPdGwD) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:47 | 2023-02-24 |  |
 | [Querer](https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Efecto Dominó](https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb) | 3:37 | 2023-02-24 |  |
+| [Quien Tengo Que Ser](https://open.spotify.com/track/6wL2yRom12q8ZhPDPnKB0t) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Quien Tengo Que Ser](https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8) | 4:27 | 2023-04-20 |  |
 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 | 2023-02-24 |  |
 | [Rosas](https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:57 | 2023-02-24 |  |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:58 | 2023-02-24 |  |

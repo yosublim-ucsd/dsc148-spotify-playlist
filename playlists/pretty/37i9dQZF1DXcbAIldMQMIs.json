@@ -1,12 +1,12 @@
 {
   "description": "Indie pop when ur crushing",
-  "num_followers": 487034,
+  "num_followers": 487169,
   "original_name": "text me back",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzAxOTY4MSwwMDAwMDAwMDNkYTk0MTdlOWRhODNlYmY4MGU0ZDg3YmU1ZGU3YTE3",
+  "snapshot_id": "MTY3NzAxOTY4MSwwMDAwMDAwMDI0YTUwMjQ5NDAyYjQ3ZWE5OGU1ZWFiYzNkZGRmYTQz",
   "tracks": [
     {
       "added_at": "2023-02-21 22:48:01",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
       "artists": [
         {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
         }
       ],
-      "duration_ms": 190845,
-      "name": "My Kind of Woman",
-      "url": "https://open.spotify.com/track/6jgkEbmQ2F2onEqsEhiliL"
+      "duration_ms": 249191,
+      "name": "Ivy",
+      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
     },
     {
       "added_at": "2023-02-21 22:48:01",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 190845,
+      "name": "My Kind of Woman",
+      "url": "https://open.spotify.com/track/6jgkEbmQ2F2onEqsEhiliL"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
         "name": "Ivory",
         "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 216680,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
       "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 249191,
-      "name": "Ivy",
-      "url": "https://open.spotify.com/track/2ZWlPOoWh0626oTaHrnl2a"
     },
     {
       "added_at": "2023-02-21 22:48:01",
@@ -251,6 +251,22 @@
       "duration_ms": 129697,
       "name": "C U Girl",
       "url": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
+        "name": "Chanel",
+        "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 210285,
+      "name": "Chanel",
+      "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
     },
     {
       "added_at": "2023-02-21 22:48:01",
@@ -315,22 +331,6 @@
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
-        "name": "Chanel",
-        "url": "https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 210285,
-      "name": "Chanel",
-      "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
     },
     {
       "added_at": "2023-02-21 22:48:01",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-02-21 22:48:01",
       "album": {
-        "name": "Next Thing",
-        "url": "https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1"
-      },
-      "artists": [
-        {
-          "name": "Frankie Cosmos",
-          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
-        }
-      ],
-      "duration_ms": 124021,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/5Yx9t9RgATAtYoHN8gbRM0"
-    },
-    {
-      "added_at": "2023-02-21 22:48:01",
-      "album": {
         "name": "striptease",
         "url": "https://open.spotify.com/album/7f00XGE0JdyekiSS14v9QR"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 160659,
       "name": "striptease",
       "url": "https://open.spotify.com/track/62C8Bd6EgEOofLZ1COjF3n"
+    },
+    {
+      "added_at": "2023-02-21 22:48:01",
+      "album": {
+        "name": "Next Thing",
+        "url": "https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "duration_ms": 124021,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/5Yx9t9RgATAtYoHN8gbRM0"
     },
     {
       "added_at": "2023-02-21 22:48:01",

@@ -1385,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "Cherry Blossom",
+        "url": "https://open.spotify.com/album/6aslcHlAWXZbMcdgkxQbrf"
+      },
+      "artists": [
+        {
+          "name": "The Grace Smith Gang",
+          "url": "https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188680,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/1AMYy0LjeIQ5jVs7J0ym9P"
+    },
+    {
+      "album": {
         "name": "Cherry Stone",
         "url": "https://open.spotify.com/album/1tHbVA6rLJnO4db208ZLSA"
       },
@@ -1440,7 +1458,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 401533,
       "name": "Christmas in Bilbao",
       "url": "https://open.spotify.com/track/4yEV9RgUepXeLCdSFG3ohP"
@@ -3266,7 +3284,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 549093,
       "name": "How Long Has This Been Going On",
       "url": "https://open.spotify.com/track/4SVw0yf2lf4JwtXAoTkbmB"
@@ -4076,7 +4094,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 207660,
       "name": "In A Valley By A Creek",
       "url": "https://open.spotify.com/track/3iKEjLnz4fnhSppjCC2eG0"
@@ -4727,6 +4745,24 @@
     },
     {
       "album": {
+        "name": "Late Night Serenade",
+        "url": "https://open.spotify.com/album/0vgWnvmrW0MKhqM0x47EoG"
+      },
+      "artists": [
+        {
+          "name": "Devon Crouch",
+          "url": "https://open.spotify.com/artist/02zs7OtXn8UAl8HAc6hfYZ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "Late Night Serenade",
+      "url": "https://open.spotify.com/track/335m1wcXqBuTOnGkHvQLKE"
+    },
+    {
+      "album": {
         "name": "Late Reflections",
         "url": "https://open.spotify.com/album/2iJH0ujIwbtlQ41b3CBcaO"
       },
@@ -5286,6 +5322,24 @@
       "duration_ms": 348760,
       "name": "Manha De Carnaval",
       "url": "https://open.spotify.com/track/5dn2ogDHiTDFMwW597ip2T"
+    },
+    {
+      "album": {
+        "name": "Maywood In My Heart",
+        "url": "https://open.spotify.com/album/6tROLpe9FmmzMgVdOIhocn"
+      },
+      "artists": [
+        {
+          "name": "Andy Goodman",
+          "url": "https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224052,
+      "name": "Maywood In My Heart",
+      "url": "https://open.spotify.com/track/4nmm4RBqwy3rOwMELRrl5p"
     },
     {
       "album": {
@@ -6080,6 +6134,24 @@
       "duration_ms": 185346,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/23ftImdUHey1ZDYVL1t0VP"
+    },
+    {
+      "album": {
+        "name": "North again",
+        "url": "https://open.spotify.com/album/54cLqLRb50nAibPwJWBjyV"
+      },
+      "artists": [
+        {
+          "name": "Keanan Field Group",
+          "url": "https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157142,
+      "name": "North again",
+      "url": "https://open.spotify.com/track/1KsztYFy4WJZ7ZbuTIfrMH"
     },
     {
       "album": {
@@ -7336,7 +7408,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 224197,
       "name": "Soft Rain",
       "url": "https://open.spotify.com/track/5X7GoPJvTxS5TcjF21oskS"

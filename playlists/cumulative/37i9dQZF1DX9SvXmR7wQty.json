@@ -12663,6 +12663,24 @@
     },
     {
       "album": {
+        "name": "Mauvais Joueur",
+        "url": "https://open.spotify.com/album/4uyewdCj65RZX5mjtabls7"
+      },
+      "artists": [
+        {
+          "name": "The Doug",
+          "url": "https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157826,
+      "name": "Hors-piste",
+      "url": "https://open.spotify.com/track/0OekRsbs1j7jRtJPHb9HP9"
+    },
+    {
+      "album": {
         "name": "Hymne",
         "url": "https://open.spotify.com/album/2zU9m7nid26T3sHNAzzr0K"
       },
@@ -24188,7 +24206,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 219937,
       "name": "Pauline \u00e0 la ferme",
       "url": "https://open.spotify.com/track/4toSZdP0xjSUiilPk93dsP"

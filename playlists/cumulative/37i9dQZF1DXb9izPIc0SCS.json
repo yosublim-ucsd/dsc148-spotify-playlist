@@ -856,7 +856,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 301960,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/7qCZgvV98j6RjUULW1s1it"
@@ -1530,6 +1530,24 @@
       "duration_ms": 252230,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB"
+    },
+    {
+      "album": {
+        "name": "I'm Sure",
+        "url": "https://open.spotify.com/album/6KXHP4v4hYN887RGeQwc8b"
+      },
+      "artists": [
+        {
+          "name": "Harmless",
+          "url": "https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321438,
+      "name": "Swing Lynn",
+      "url": "https://open.spotify.com/track/3VCXx37jNGNOMns6z2OnvJ"
     },
     {
       "album": {

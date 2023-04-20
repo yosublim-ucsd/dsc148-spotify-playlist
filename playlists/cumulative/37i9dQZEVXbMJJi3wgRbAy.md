@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-514 songs - 1 day 3 hr 53 min
+515 songs - 1 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Labyrinth](https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:07 | 2022-10-22 | 2022-10-24 |
 | [Las Jordans](https://open.spotify.com/track/4eOGoAtYWRPQZ6mUwwgmuW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:24 | 2023-02-18 | 2023-03-21 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2022-05-21 | 2022-05-29 |
-| [Latidos](https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Latidos](https://open.spotify.com/album/0t02JBE4R9bXj3VRXqxrLx) | 2:09 | 2021-11-22 |  |
+| [Latidos](https://open.spotify.com/track/7exaYYNN99DHkbZuHOZWO3) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID) | [Latidos](https://open.spotify.com/album/0t02JBE4R9bXj3VRXqxrLx) | 2:09 | 2021-11-22 | 2023-04-20 |
 | [Lavender Haze](https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:22 | 2022-10-22 | 2022-10-29 |
 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 3:23 | 2021-04-22 | 2021-05-23 |
 | [Ley de Atracción](https://open.spotify.com/track/52PVGjg5sUhfs9PHiSl02c) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Ley de Atracción](https://open.spotify.com/album/3bCHpjpghyFjPfl0l108mF) | 3:00 | 2021-09-05 | 2021-10-08 |
@@ -480,6 +480,7 @@
 | [UN PISO MÁS](https://open.spotify.com/track/6Rsryyrp2tB4t0f8c60bGm) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [SPONSOR DIOS](https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf), [CLUB HATS](https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G), [KOKI](https://open.spotify.com/artist/5LUkjuvgqMcroPUghvtqSX) | [YSYSMO](https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3) | 2:55 | 2022-11-12 | 2022-11-20 |
 | [Un Ratito](https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:56 | 2022-05-07 | 2022-06-04 |
 | [Un Verano Sin Ti](https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:28 | 2022-05-07 | 2022-05-13 |
+| [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-04-19 |  |
 | [Una Calle Nos Separa](https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:32 | 2021-08-27 | 2021-08-28 |
 | [Una Cerveza](https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 4:00 | 2023-01-02 | 2023-01-04 |
 | [Una Locura](https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Enoc](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:50 | 2021-03-27\* | 2021-06-20 |

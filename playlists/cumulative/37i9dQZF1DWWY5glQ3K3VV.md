@@ -4,7 +4,7 @@
 
 > Canzoni rap per party fino al mattino! Cover: Tony Effe
 
-198 songs - 10 hr 1 min
+199 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Mollami Pt.2](https://open.spotify.com/track/3uQLQ73joqyMYDhI2UaBOq) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 2:35 | 2023-02-21 |  |
 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 | 2022-07-28 |  |
 | [Motorino \(feat\. Jake La Furia\)](https://open.spotify.com/track/1oK4yVKDKxObUzgiTaZXQ7) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH) | [FIGLIO MASCHIO](https://open.spotify.com/album/3Mht2eyDGe8ZaIrqFPe1rm) | 2:46 | 2022-05-11 | 2022-05-13 |
+| [Moulaga](https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Moulaga](https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J) | 2:59 | 2023-04-19 |  |
 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 | 2022-12-30 | 2023-01-11 |
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2022-07-28 |  |
 | [Nena \(feat\. Geolier & Andry The Hitmaker\)](https://open.spotify.com/track/6TEPwGCSq4XGWu3hnZkC5m) | [Boro Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Nena \(feat\. Geolier & Andry The Hitmaker\)](https://open.spotify.com/album/5CWg7WHLM21pfgYbkm4jEu) | 2:29 | 2022-05-01 | 2022-07-28 |
@@ -174,7 +175,7 @@
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/2oNxPr6vDSqBYWWvvqqgMU) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Fedez](https://open.spotify.com/artist/3pgCLfNbw5ozIfoNsvDU7i), [Dargen D'Amico](https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \(Imanbek Remix\)](https://open.spotify.com/album/5WmrSiwVZXIkCm8V5L8FWm) | 3:17 | 2022-05-12 | 2022-05-24 |
 | [s!r! \(feat\. Lazza & Sfera Ebbasta\)](https://open.spotify.com/track/50DsGEqRiQr6KdEYi0NuSP) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 3:57 | 2022-12-30 | 2023-01-11 |
 | [SENZA RUMORE](https://open.spotify.com/track/2Z7sJKCxTH94KCRxJTd4O7) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 3:49 | 2022-05-01 |  |
-| [Serio \(feat\. Capo Plaza\)](https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Serio](https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3) | 3:38 | 2022-05-01 |  |
+| [Serio \(feat\. Capo Plaza\)](https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Serio](https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3) | 3:38 | 2022-05-01 | 2023-04-20 |
 | [Sex & Love](https://open.spotify.com/track/3ylhgzhvSICQcyv0U3Ozwv) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:25 | 2022-12-30 | 2023-01-11 |
 | [Shakerando](https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Shakerando](https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ) | 3:15 | 2022-05-01 |  |
 | [SHAWTY \(feat\. Sacky\)](https://open.spotify.com/track/6yX3lSkO4F3FKx5wDJi4J0) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS) | [SHAWTY \(feat\. Sacky\)](https://open.spotify.com/album/6FtMPLKEmsz2BsnJuCYrKQ) | 2:33 | 2022-05-01 |  |

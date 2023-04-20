@@ -1,12 +1,12 @@
 {
   "description": "Country music to accompany you on the open road. Cover: Maren Morris",
-  "num_followers": 336512,
+  "num_followers": 336525,
   "original_name": "Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzc5MTA0MywwMDAwMDAwMDFhZjI2M2NkZThiZjFhMGViNWM4YzdiY2EyYjcyYWM3",
+  "snapshot_id": "MTY3Nzc5MTA0MywwMDAwMDAwMDIxOTZjYmY4Yjk3NTQzNTczMmI3NmZmMmJhZGU5ZGNi",
   "tracks": [
     {
       "added_at": "2023-02-01 05:03:15",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-02-01 05:03:15",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
-      },
-      "artists": [
-        {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "Somethin' 'Bout A Truck",
-      "url": "https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8"
-    },
-    {
-      "added_at": "2023-02-01 05:03:15",
-      "album": {
         "name": "Country Again (Side A)",
         "url": "https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 171333,
       "name": "What\u2019s Your Country Song",
       "url": "https://open.spotify.com/track/4oR2cCQGs0Yt0Mgr2diV6V"
+    },
+    {
+      "added_at": "2023-02-01 05:03:15",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "Somethin' 'Bout A Truck",
+      "url": "https://open.spotify.com/track/6Ymvlzom4TQeoKqAWsZRD8"
     },
     {
       "added_at": "2023-02-01 05:03:15",
@@ -1483,6 +1483,22 @@
       "duration_ms": 174680,
       "name": "Beers On Me",
       "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
+    },
+    {
+      "added_at": "2023-02-01 05:03:15",
+      "album": {
+        "name": "Different 'Round Here",
+        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "There Was This Girl",
+      "url": "https://open.spotify.com/track/7grWGhX8SHNmyGOkMNVMCt"
     },
     {
       "added_at": "2023-02-01 05:03:15",
@@ -1515,22 +1531,6 @@
       "duration_ms": 179720,
       "name": "23",
       "url": "https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF"
-    },
-    {
-      "added_at": "2023-02-01 05:03:15",
-      "album": {
-        "name": "Different 'Round Here",
-        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "There Was This Girl",
-      "url": "https://open.spotify.com/track/7grWGhX8SHNmyGOkMNVMCt"
     },
     {
       "added_at": "2023-02-01 05:03:15",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2023-02-01 05:03:15",
       "album": {
-        "name": "Thompson Square",
-        "url": "https://open.spotify.com/album/0kXrl96iUzWkRvxnfrC2YF"
-      },
-      "artists": [
-        {
-          "name": "Thompson Square",
-          "url": "https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp"
-        }
-      ],
-      "duration_ms": 184920,
-      "name": "Are You Gonna Kiss Me Or Not",
-      "url": "https://open.spotify.com/track/2TAcwD5KcV9uY3O1tLGV15"
-    },
-    {
-      "added_at": "2023-02-01 05:03:15",
-      "album": {
         "name": "Time, Tequila & Therapy",
         "url": "https://open.spotify.com/album/1yjrtwm2ru1qPGBPBUDE0x"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 191360,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/3YaycOQk7PoQpl7YdvmWdX"
+    },
+    {
+      "added_at": "2023-02-01 05:03:15",
+      "album": {
+        "name": "Thompson Square",
+        "url": "https://open.spotify.com/album/0kXrl96iUzWkRvxnfrC2YF"
+      },
+      "artists": [
+        {
+          "name": "Thompson Square",
+          "url": "https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp"
+        }
+      ],
+      "duration_ms": 184920,
+      "name": "Are You Gonna Kiss Me Or Not",
+      "url": "https://open.spotify.com/track/2TAcwD5KcV9uY3O1tLGV15"
     },
     {
       "added_at": "2023-02-01 05:03:15",
@@ -2143,18 +2143,18 @@
     {
       "added_at": "2023-02-01 05:03:15",
       "album": {
-        "name": "Knockin' Boots",
-        "url": "https://open.spotify.com/album/4Q9RAjO1YjXgn5ErqvoNnS"
+        "name": "Beers And Sunshine",
+        "url": "https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
         }
       ],
-      "duration_ms": 199382,
-      "name": "Knockin' Boots",
-      "url": "https://open.spotify.com/track/6ERR6e7h6wCqGoz1TjiUJb"
+      "duration_ms": 178278,
+      "name": "Beers And Sunshine",
+      "url": "https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb"
     },
     {
       "added_at": "2023-02-01 05:03:15",
@@ -2175,44 +2175,24 @@
     {
       "added_at": "2023-02-01 05:03:15",
       "album": {
-        "name": "Already Drank That Beer",
-        "url": "https://open.spotify.com/album/38kLDWmm1uaKAtvYTT3ZAI"
+        "name": "Knockin' Boots",
+        "url": "https://open.spotify.com/album/4Q9RAjO1YjXgn5ErqvoNnS"
       },
       "artists": [
         {
-          "name": "Ashley Cooke",
-          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
-        },
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 173533,
-      "name": "Never Til Now (feat. Brett Young)",
-      "url": "https://open.spotify.com/track/4232gJU5ljjFmKaPh0cKds"
+      "duration_ms": 199382,
+      "name": "Knockin' Boots",
+      "url": "https://open.spotify.com/track/6ERR6e7h6wCqGoz1TjiUJb"
     },
     {
       "added_at": "2023-02-01 05:03:15",
       "album": {
-        "name": "Beers And Sunshine",
-        "url": "https://open.spotify.com/album/1GZyb1fAcVAdxeZK16ozLR"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 178278,
-      "name": "Beers And Sunshine",
-      "url": "https://open.spotify.com/track/36ISlLb12gKuCCVTYXC0gb"
-    },
-    {
-      "added_at": "2023-02-01 05:03:15",
-      "album": {
-        "name": "With A Woman You Love",
-        "url": "https://open.spotify.com/album/1b6svBmo0eVcAIfhOSmf71"
+        "name": "Straight Outta The Country",
+        "url": "https://open.spotify.com/album/1rW4SdSGRziYMzyteohUwP"
       },
       "artists": [
         {
@@ -2220,9 +2200,25 @@
           "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
         }
       ],
-      "duration_ms": 167375,
-      "name": "With A Woman You Love",
-      "url": "https://open.spotify.com/track/20WKHeDTmtU0Zj4sNB8aoA"
+      "duration_ms": 174837,
+      "name": "We Didn't Have Much",
+      "url": "https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX"
+    },
+    {
+      "added_at": "2023-02-01 05:03:15",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 206597,
+      "name": "What If I Never Get Over You",
+      "url": "https://open.spotify.com/track/0qkdE1C0ufnUISKwhg8Wh6"
     },
     {
       "added_at": "2023-02-01 05:03:15",
@@ -2247,18 +2243,22 @@
     {
       "added_at": "2023-02-01 05:03:15",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/2Ni5tXmyXPTG4jeQxvSqjv"
+        "name": "Already Drank That Beer",
+        "url": "https://open.spotify.com/album/38kLDWmm1uaKAtvYTT3ZAI"
       },
       "artists": [
         {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        },
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
         }
       ],
-      "duration_ms": 206597,
-      "name": "What If I Never Get Over You",
-      "url": "https://open.spotify.com/track/0qkdE1C0ufnUISKwhg8Wh6"
+      "duration_ms": 173533,
+      "name": "Never Til Now (feat. Brett Young)",
+      "url": "https://open.spotify.com/track/4232gJU5ljjFmKaPh0cKds"
     },
     {
       "added_at": "2023-02-01 05:03:15",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2023-02-01 05:03:15",
       "album": {
-        "name": "Mercury Lane",
-        "url": "https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Allen",
-          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
-        }
-      ],
-      "duration_ms": 195053,
-      "name": "Best Shot",
-      "url": "https://open.spotify.com/track/3VamXAvVMczcS2PTYtPfBQ"
-    },
-    {
-      "added_at": "2023-02-01 05:03:15",
-      "album": {
         "name": "What Makes You Country",
         "url": "https://open.spotify.com/album/6NUEU1vyIctdAg8IHot8Wy"
       },
@@ -2311,6 +2295,22 @@
     {
       "added_at": "2023-02-01 05:03:15",
       "album": {
+        "name": "Mercury Lane",
+        "url": "https://open.spotify.com/album/7EpN0TPMSMqGKVjIEzc0Ts"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Allen",
+          "url": "https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c"
+        }
+      ],
+      "duration_ms": 195053,
+      "name": "Best Shot",
+      "url": "https://open.spotify.com/track/3VamXAvVMczcS2PTYtPfBQ"
+    },
+    {
+      "added_at": "2023-02-01 05:03:15",
+      "album": {
         "name": "Pretty Heart",
         "url": "https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u"
       },
@@ -2323,6 +2323,22 @@
       "duration_ms": 244797,
       "name": "Pretty Heart",
       "url": "https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm"
+    },
+    {
+      "added_at": "2023-02-01 05:03:15",
+      "album": {
+        "name": "With A Woman You Love",
+        "url": "https://open.spotify.com/album/1b6svBmo0eVcAIfhOSmf71"
+      },
+      "artists": [
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        }
+      ],
+      "duration_ms": 167375,
+      "name": "With A Woman You Love",
+      "url": "https://open.spotify.com/track/20WKHeDTmtU0Zj4sNB8aoA"
     },
     {
       "added_at": "2023-02-01 05:03:15",
@@ -2379,22 +2395,6 @@
     {
       "added_at": "2023-02-01 05:03:15",
       "album": {
-        "name": "Straight Outta The Country",
-        "url": "https://open.spotify.com/album/1rW4SdSGRziYMzyteohUwP"
-      },
-      "artists": [
-        {
-          "name": "Justin Moore",
-          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
-        }
-      ],
-      "duration_ms": 174837,
-      "name": "We Didn't Have Much",
-      "url": "https://open.spotify.com/track/0Iuw6WPws324i7G7sCejTX"
-    },
-    {
-      "added_at": "2023-02-01 05:03:15",
-      "album": {
         "name": "Ticket To L.A.",
         "url": "https://open.spotify.com/album/3TJSHb2z7Zo2K8ff8bMSik"
       },
@@ -2407,6 +2407,22 @@
       "duration_ms": 196440,
       "name": "Catch",
       "url": "https://open.spotify.com/track/53cGGBxGPaRjP0HVUESyW5"
+    },
+    {
+      "added_at": "2023-02-01 05:03:15",
+      "album": {
+        "name": "Late Nights And Longnecks",
+        "url": "https://open.spotify.com/album/6k7PNoooJpFHVVd2ZE9t2K"
+      },
+      "artists": [
+        {
+          "name": "Justin Moore",
+          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
+        }
+      ],
+      "duration_ms": 211430,
+      "name": "Why We Drink",
+      "url": "https://open.spotify.com/track/4lSfhHd5Knwl8yQw2cVjAD"
     },
     {
       "added_at": "2023-02-01 05:03:15",
@@ -2503,22 +2519,6 @@
       "duration_ms": 212720,
       "name": "Freedom Was A Highway",
       "url": "https://open.spotify.com/track/3J5jotqUAjU479WhAiNkpU"
-    },
-    {
-      "added_at": "2023-02-01 05:03:15",
-      "album": {
-        "name": "Late Nights And Longnecks",
-        "url": "https://open.spotify.com/album/6k7PNoooJpFHVVd2ZE9t2K"
-      },
-      "artists": [
-        {
-          "name": "Justin Moore",
-          "url": "https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk"
-        }
-      ],
-      "duration_ms": 211430,
-      "name": "Why We Drink",
-      "url": "https://open.spotify.com/track/4lSfhHd5Knwl8yQw2cVjAD"
     },
     {
       "added_at": "2023-02-01 05:03:15",

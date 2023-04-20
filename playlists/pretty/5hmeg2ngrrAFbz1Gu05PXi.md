@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain]
 
 > Get into the flow and stay focused while writing code, with music curated by the JetBrains team\. www.jetbrains.com
 
-[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 3,452 likes - 112 songs - 10 hr 23 min
+[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 3,452 likes - 113 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,5 +120,6 @@ pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain]
 | 110 | [Happy Pills](https://open.spotify.com/track/6eJy88W9HCYzw3NJHRNToU) | [Younger Brother](https://open.spotify.com/artist/4ypPM5MAlxN4nbsiiHtBpu) | [The Last Days Of Gravity](https://open.spotify.com/album/2YdDlyrL6SrT6t2k3rwPrd) | 8:48 |
 | 111 | [Know You Don't](https://open.spotify.com/track/1IimA48MOmziyhRZpxDzD5) | [Jel](https://open.spotify.com/artist/1UlLSnpsaY8RdH6W5BRObN) | [Soft Money](https://open.spotify.com/album/0fzOf2tjmaYCptKw3tecMC) | 3:34 |
 | 112 | [Coral Reef](https://open.spotify.com/track/68UOubR6MwuhCFCabUzFaA) | [Mindseye](https://open.spotify.com/artist/0KnSPZGucOmyk3AnKaUGel) | [Coral Reef](https://open.spotify.com/album/41G14bbn83RzdgkkefN41u) | 4:19 |
+| 113 | [Llwe](https://open.spotify.com/track/29EtlAhaZWwjOziBs3HooV) | [KONDOR](https://open.spotify.com/artist/38v0MI7xPOGq3cet9d5pLg) | [Cyf](https://open.spotify.com/album/6ZuzmGIJxSslpsMOJG640C) | 2:48 |
 
-Snapshot ID: `MTg5LDc0ZGRmZGYyNTMxNzhhOWM4YjViZmYxNWZhODM2NGM0ZTM3ZjI2YmE=`
+Snapshot ID: `MTkwLDFmMzQ2YTIyOTY1YWE3NjdlODc4YmRmNzkyYTgyMGE5YjVlZmY3Yjg=`

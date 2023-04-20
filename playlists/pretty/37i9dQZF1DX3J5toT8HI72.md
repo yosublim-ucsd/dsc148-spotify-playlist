@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > Grandes músicas para você curtir com seu amor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 766,723 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 766,840 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 3 | [Meu Abrigo](https://open.spotify.com/track/5U28PY9MekLyCBYtLHGQpe) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:51 |
 | 4 | [Velha Infância \- 2004 Digital Remaster](https://open.spotify.com/track/1mSxbLW7fKABfeY4lGpg0E) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1) | 4:10 |
 | 5 | [Equalize](https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Admirável Chip Novo](https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK) | 3:52 |
-| 6 | [Vamos Fugir](https://open.spotify.com/track/7dxK6RSoCWZcb5gobxs1h9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Radiola](https://open.spotify.com/album/6Gl3phBwyHvRtRAMQddCpe) | 4:00 |
-| 7 | [Fica](https://open.spotify.com/track/3KK3nLgrRdycpnYxPDVfMV) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Fica](https://open.spotify.com/album/73LZa11pSpEYhaCCcIXAiZ) | 3:04 |
+| 6 | [Fica](https://open.spotify.com/track/3KK3nLgrRdycpnYxPDVfMV) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Fica](https://open.spotify.com/album/73LZa11pSpEYhaCCcIXAiZ) | 3:04 |
+| 7 | [Vamos Fugir](https://open.spotify.com/track/7dxK6RSoCWZcb5gobxs1h9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Radiola](https://open.spotify.com/album/6Gl3phBwyHvRtRAMQddCpe) | 4:00 |
 | 8 | [Coisa Linda](https://open.spotify.com/track/6o0rGxp5tdtX8cmqXwVIwE) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Troco Likes](https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH) | 2:58 |
 | 9 | [De Janeiro a Janeiro](https://open.spotify.com/track/27Es7REkNYsWCMBoIbmwCW) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Varrendo a Lua \(Deluxe Edition\)](https://open.spotify.com/album/0cUBCO5cOvR80fKEDJ18TJ) | 3:10 |
 | 10 | [Ouvi Dizer](https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:30 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 24 | [Linda](https://open.spotify.com/track/6wnCBT8ip4i9HRhM3HVk6d) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [A Milenar Arte De Meter O Louco](https://open.spotify.com/album/2TsL9NFMTknpXO7P962oyj) | 2:55 |
 | 25 | [Voce E Linda \- Remixed Original Album](https://open.spotify.com/track/0hQbovQO5Cui5Imze8Q3oo) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Uns](https://open.spotify.com/album/4UOAwKUc79FtTSK6NmRFB3) | 4:52 |
 | 26 | [Beija Eu](https://open.spotify.com/track/4LBupHhBSFZCXhPteUWWY3) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Silva Canta Marisa](https://open.spotify.com/album/0Us3ZgxlQGMYZLwiLmjoHz) | 3:15 |
-| 27 | [Nossa Conversa](https://open.spotify.com/track/5LMD7LjRhnBrDiTUVja4nG) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Girassol](https://open.spotify.com/album/4TBlkvzwaXXMidx4Y24Lda) | 4:04 |
-| 28 | [Eu Me Lembro](https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Monomania](https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA) | 3:37 |
+| 27 | [Eu Me Lembro](https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Monomania](https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA) | 3:37 |
+| 28 | [Nossa Conversa](https://open.spotify.com/track/5LMD7LjRhnBrDiTUVja4nG) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Girassol](https://open.spotify.com/album/4TBlkvzwaXXMidx4Y24Lda) | 4:04 |
 | 29 | [Só Sei Dançar Com Você](https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Zé Pi](https://open.spotify.com/artist/1ZLHH9MsBSa70q6KcGzWNM) | [Efêmera](https://open.spotify.com/album/1SYkXi1CqOnutbLombhkrs) | 3:41 |
 | 30 | [Totalmente Seu](https://open.spotify.com/track/2WxFuSpORAwJ1XNDeBMSg9) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Portas](https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A) | 2:12 |
 | 31 | [Dançando](https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx) | [Agridoce](https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI) | [Agridoce](https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x) | 5:49 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 59 | [Ouro](https://open.spotify.com/track/6QcHZSh7EV7EvhUnovI1Bw) | [Jhama](https://open.spotify.com/artist/5mXYWM38dlAs01e3XQEtma) | [Ouro](https://open.spotify.com/album/3crtjM7DJVNSvXfn2v65Lq) | 2:58 |
 | 60 | [Anel de Coco \- Acústico \| Ao Vivo](https://open.spotify.com/track/7LuLv35fgBvI0FkzxT9r3l) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Anel de Coco Acústico \(Ao Vivo\)](https://open.spotify.com/album/1F3sVbUnq8vA3IR4154jI8) | 3:02 |
 
-Snapshot ID: `MTYzMDYzODAwMCwwMDAwMDAwMDA0OWIwYzliZDdmZGIzOGNkYWI5YWM3MTAwMmJiZjNk`
+Snapshot ID: `MTYzMDYzODAwMCwwMDAwMDAwMDRkNThiMDczNzJkMmQ1ZDhiYmIyMGQ1YTU1M2Q4MjY2`

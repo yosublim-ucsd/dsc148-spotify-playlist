@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 > Happy National Pet Day! 🫶🏼 \(Cover: JOY\(조이\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,730 likes - 57 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,139 likes - 57 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 17 | [Panorama](https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [One\-reeler / Act IV](https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK) | 3:42 |
 | 18 | [BBoom BBoom](https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [GREAT!](https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4) | 3:28 |
 | 19 | [STEREOTYPE](https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STEREOTYPE](https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj) | 3:11 |
-| 20 | [Boys Like You](https://open.spotify.com/track/34y2pV3RGFiCHSP12bNHVk) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Boys Like You](https://open.spotify.com/album/1KYgerdWcEqB7KbppYtdXU) | 3:43 |
+| 20 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 |
 | 21 | [FANCY](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 3:33 |
 | 22 | [Queendom](https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:01 |
 | 23 | [La Vie en Rose](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) | 3:38 |
-| 24 | [SMILEY\(Feat\. BIBI\)](https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [ˣ‿ˣ \(SMiLEY\)](https://open.spotify.com/album/7qldKtsOWklzmwgll5NjCw) | 2:53 |
+| 24 | [Boys Like You](https://open.spotify.com/track/34y2pV3RGFiCHSP12bNHVk) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Boys Like You](https://open.spotify.com/album/1KYgerdWcEqB7KbppYtdXU) | 3:43 |
 | 25 | [NO PROBLEM \(Feat\. Felix of Stray Kids\)](https://open.spotify.com/track/4zHvWi4iFAG45lgiN7smLC) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Felix of Stray Kids](https://open.spotify.com/artist/40zyx4iztMjRbIIoI802r4) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:16 |
 | 26 | [DM](https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Midnight Guest](https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR) | 3:24 |
 | 27 | [Red Flavor](https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:11 |
@@ -53,17 +53,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 43 | [Weekend](https://open.spotify.com/track/6cqH1q7g5GeRVQVMK1Vc7f) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Weekend](https://open.spotify.com/album/4tJsXd2onpa4P9lFmkJIKy) | 3:53 |
 | 44 | [Dun Dun Dance](https://open.spotify.com/track/54HsCR7lJJdwxmEnTY1JfF) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Dear OHMYGIRL](https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN) | 3:40 |
 | 45 | [Anymore](https://open.spotify.com/track/6GwtJzM3yffZ4FJ39QuUcE) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:17 |
-| 46 | [LOVE BOMB](https://open.spotify.com/track/3RtapbUtHJgnVlZWahStUS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From.9](https://open.spotify.com/album/6M4WrayhANSknC8e4cOFue) | 3:19 |
+| 46 | [WE GO](https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [9 WAY TICKET](https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW) | 2:55 |
 | 47 | [Dumhdurum](https://open.spotify.com/track/55kuHkT2CWhWKF6CoRDnJq) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [LOOK](https://open.spotify.com/album/49NKBZDb92AQlMFypkZRTF) | 3:28 |
 | 48 | [NAVILLERA](https://open.spotify.com/track/2Oi0IO8K4BEbhPUdWcjNmv) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 1st Album 'LOL'](https://open.spotify.com/album/0PlSM2Hml1cFANnzYu6RCg) | 3:13 |
 | 49 | [Catallena](https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [THE THIRD SINGLE CATALLENA](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) | 3:13 |
 | 50 | [UNNATURAL](https://open.spotify.com/track/1eykKBqxHgasGHwjOQIvbt) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [UNNATURAL](https://open.spotify.com/album/0uD1Chx5ZsnZM4kS8yK0S8) | 3:01 |
 | 51 | [Copycat](https://open.spotify.com/track/3eRXnVROQcJxwzovKyLTnd) | [Apink CHOBOM](https://open.spotify.com/artist/1eDD6vNEyVQXGev7af156d) | [Copycat](https://open.spotify.com/album/0NYssBVyeMwUSRzsIKATIE) | 3:24 |
 | 52 | [SMARTPHONE](https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [SMARTPHONE](https://open.spotify.com/album/0lbUf1aVf8xmveSuspuNW0) | 3:18 |
-| 53 | [WE GO](https://open.spotify.com/track/7oQqeRSV38YqkRv2UGvmbS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [9 WAY TICKET](https://open.spotify.com/album/5DPggk2zBmJYqtaUyLOlVW) | 2:55 |
+| 53 | [LOVE BOMB](https://open.spotify.com/track/3RtapbUtHJgnVlZWahStUS) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [From.9](https://open.spotify.com/album/6M4WrayhANSknC8e4cOFue) | 3:19 |
 | 54 | [Sunrise](https://open.spotify.com/track/1e7eOq89QU6vGYCJp9yW2L) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 2nd Album 'Time for us'](https://open.spotify.com/album/7jxp9UaF0Hmtmr6zuacjoO) | 3:36 |
 | 55 | [WE ARE YOUNG](https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [W.A.Y](https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo) | 2:57 |
 | 56 | [Loveable](https://open.spotify.com/track/087TC6IfJ8z7fBItvglRRs) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Op.22 Y\-Waltz : in Minor](https://open.spotify.com/album/2CMx2ufebKtglecf9Q1F90) | 2:56 |
 | 57 | [O.O.O \(Over&Over&Over\)](https://open.spotify.com/track/6k3U1g0Tu11V1AcVzSt6re) | [Girls Planet 999](https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W) | [Girls Planet 999 \- O.O.O \(Over&Over&Over\)](https://open.spotify.com/album/2IZkygDdvEokN7CCSjrck6) | 4:07 |
 
-Snapshot ID: `MTY4MTE5ODcwMCwwMDAwMDAwMGExYTk4NzNlNDk3ZjQzY2M1YjI2MTIzNDE2YzlkZThj`
+Snapshot ID: `MTY4MTE5ODcwMCwwMDAwMDAwMGMxYWZhMDNkZmI4NmVjMjE0NTAwMmVlNzA4NGI2YjFk`

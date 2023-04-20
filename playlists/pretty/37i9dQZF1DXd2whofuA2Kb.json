@@ -1,12 +1,12 @@
 {
   "description": "Because once you were a hipster, and now you are an indie parent.",
-  "num_followers": 39852,
+  "num_followers": 39979,
   "original_name": "Raised on Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0OTc5NjE2NiwwMDAwMDAwMDkzNGQ2N2FkZWJmMTg1ZTEwNzE5ZjMxYzAxY2FkZWJm",
+  "snapshot_id": "MTY0OTc5NjE2NiwwMDAwMDAwMDYwNjdhZTY3MTlkNTFkYWI2YjU1NzhiY2Q1MTc2ZWYx",
   "tracks": [
     {
       "added_at": "2022-01-10 20:54:40",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 302840,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 212439,
       "name": "Supermassive Black Hole",
       "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 302840,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -355,6 +355,22 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
         "name": "Demon Days",
         "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 276693,
       "name": "Young Folks",
       "url": "https://open.spotify.com/track/4dyx5SzxPPaD8xQIid5Wjj"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Lungs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 251840,
-      "name": "Dog Days Are Over",
-      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 227080,
       "name": "Breezeblocks",
       "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 251840,
+      "name": "Dog Days Are Over",
+      "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -567,18 +567,18 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
         }
       ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+      "duration_ms": 201080,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -599,18 +599,18 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
       "artists": [
         {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         }
       ],
-      "duration_ms": 201080,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
     },
     {
       "added_at": "2022-01-10 20:54:40",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-01-10 20:54:40",
       "album": {
-        "name": "Passive Me, Aggressive You",
-        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
-      },
-      "artists": [
-        {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
-        }
-      ],
-      "duration_ms": 246600,
-      "name": "Young Blood",
-      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
-    },
-    {
-      "added_at": "2022-01-10 20:54:40",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/3kN131kyymtaEFQo14tfLr"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 287634,
       "name": "Welcome Home, Son",
       "url": "https://open.spotify.com/track/6HTVZeVQ9J6Uiq6tHESxU9"
+    },
+    {
+      "added_at": "2022-01-10 20:54:40",
+      "album": {
+        "name": "Passive Me, Aggressive You",
+        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
+      },
+      "artists": [
+        {
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+        }
+      ],
+      "duration_ms": 246600,
+      "name": "Young Blood",
+      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
     },
     {
       "added_at": "2022-01-10 20:54:40",

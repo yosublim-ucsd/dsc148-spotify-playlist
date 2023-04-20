@@ -1,12 +1,12 @@
 {
   "description": "Svensk punk fr\u00e5n f\u00f6rr och nu. \n",
-  "num_followers": 28117,
+  "num_followers": 28122,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMGYyN2RmYmRmZTFlOTMwNWVjMzdmNjJhM2Y3NzczZDA3",
+  "snapshot_id": "MTY4MTQyMzIwMCwwMDAwMDAwMGVhN2QxZDU4ODE1NjlhOWFkNzM3YmNiYjVhY2VlNDU2",
   "tracks": [
     {
       "added_at": "2023-04-13 22:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
+        "name": "V\u00e4rdel\u00f6s",
+        "url": "https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp"
+      },
+      "artists": [
+        {
+          "name": "Sten & Stalin",
+          "url": "https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9"
+        }
+      ],
+      "duration_ms": 123560,
+      "name": "Feta Gubbar",
+      "url": "https://open.spotify.com/track/0XwpJFzmXViS6TImtpv9lM"
+    },
+    {
+      "added_at": "2023-04-13 22:00:00",
+      "album": {
         "name": "Ebba Gr\u00f6n 1978 - 1982",
         "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "[emo]",
-        "url": "https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP"
-      },
-      "artists": [
-        {
-          "name": "Kardinal Synd",
-          "url": "https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O"
-        }
-      ],
-      "duration_ms": 192362,
-      "name": "Simpel Matematik",
-      "url": "https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ"
-    },
-    {
-      "added_at": "2023-04-13 22:00:00",
-      "album": {
         "name": "N\u00e5gra J\u00e4vla Sp\u00e4nn",
         "url": "https://open.spotify.com/album/21LbuPxwosjUCIK7QSKgHD"
       },
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "V\u00e4rdel\u00f6s",
-        "url": "https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp"
+        "name": "[emo]",
+        "url": "https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP"
       },
       "artists": [
         {
-          "name": "Sten & Stalin",
-          "url": "https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9"
+          "name": "Kardinal Synd",
+          "url": "https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O"
         }
       ],
-      "duration_ms": 123560,
-      "name": "Feta Gubbar",
-      "url": "https://open.spotify.com/track/0XwpJFzmXViS6TImtpv9lM"
+      "duration_ms": 192362,
+      "name": "Simpel Matematik",
+      "url": "https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "Sex Politik & F\u00e5glar",
-        "url": "https://open.spotify.com/album/2M63nUb95NAqYou8reFFwo"
+        "name": "V\u00e4lkommen till fabriken",
+        "url": "https://open.spotify.com/album/3TzvCcOrrzkWZm6unnpa9S"
       },
       "artists": [
         {
-          "name": "K\u00f6ttgrottorna",
-          "url": "https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY"
+          "name": "Kardborrebandet",
+          "url": "https://open.spotify.com/artist/6CaozjJFhs3wLYvch7B0At"
         }
       ],
-      "duration_ms": 186800,
-      "name": "Grav\u00f6l",
-      "url": "https://open.spotify.com/track/01AKl5g1N4xZvJ23NSxCuZ"
+      "duration_ms": 146000,
+      "name": "Fabriken",
+      "url": "https://open.spotify.com/track/5EUmW6SjzUmexP82gl93jd"
     },
     {
       "added_at": "2023-04-13 22:00:00",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {
-        "name": "V\u00e4lkommen till fabriken",
-        "url": "https://open.spotify.com/album/3TzvCcOrrzkWZm6unnpa9S"
+        "name": "Sex Politik & F\u00e5glar",
+        "url": "https://open.spotify.com/album/2M63nUb95NAqYou8reFFwo"
       },
       "artists": [
         {
-          "name": "Kardborrebandet",
-          "url": "https://open.spotify.com/artist/6CaozjJFhs3wLYvch7B0At"
+          "name": "K\u00f6ttgrottorna",
+          "url": "https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Fabriken",
-      "url": "https://open.spotify.com/track/5EUmW6SjzUmexP82gl93jd"
+      "duration_ms": 186800,
+      "name": "Grav\u00f6l",
+      "url": "https://open.spotify.com/track/01AKl5g1N4xZvJ23NSxCuZ"
     },
     {
       "added_at": "2023-04-13 22:00:00",

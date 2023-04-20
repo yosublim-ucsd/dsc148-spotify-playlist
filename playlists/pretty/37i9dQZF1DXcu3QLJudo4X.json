@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 48575,
+  "num_followers": 48631,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc4NjQ1OCwwMDAwMDAwMDI2ZTJjNDM0OTY1MWE1ZmNlMDQ0MGQ4MDc2NzBhZDhl",
+  "snapshot_id": "MTY4MDc4NjQ1OCwwMDAwMDAwMDYzNGQxY2ViZmNkYzkwMTA4YmMwNDdlNjZmY2E3OTlm",
   "tracks": [
     {
       "added_at": "2023-03-03 18:12:25",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-03-03 18:12:25",
       "album": {
-        "name": "Texas Sensation",
-        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 157400,
-      "name": "Hide Away",
-      "url": "https://open.spotify.com/track/2bV2rAslNR4CjjG8CuEQhZ"
-    },
-    {
-      "added_at": "2023-03-03 18:12:25",
-      "album": {
         "name": "Canned Heat",
         "url": "https://open.spotify.com/album/1IW70uqFMjoCwHjHQLcid8"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 191093,
       "name": "Rollin' And Tumblin'",
       "url": "https://open.spotify.com/track/2Ihc193y6t3DNixXjQWTZD"
+    },
+    {
+      "added_at": "2023-03-03 18:12:25",
+      "album": {
+        "name": "Texas Sensation",
+        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 157400,
+      "name": "Hide Away",
+      "url": "https://open.spotify.com/track/2bV2rAslNR4CjjG8CuEQhZ"
     },
     {
       "added_at": "2023-03-03 18:12:25",
@@ -579,6 +579,30 @@
     {
       "added_at": "2023-03-03 18:12:25",
       "album": {
+        "name": "Jamming With Edward",
+        "url": "https://open.spotify.com/album/4flw1L8widdDehQ4BYHQvO"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Nicky Hopkins",
+          "url": "https://open.spotify.com/artist/4oFSDUi4VgAWAn7t5RNaan"
+        },
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 314373,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/5lgfWxatYUKXvQEE1oTGDE"
+    },
+    {
+      "added_at": "2023-03-03 18:12:25",
+      "album": {
         "name": "West Side Soul (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX"
       },
@@ -607,30 +631,6 @@
       "duration_ms": 256533,
       "name": "Sweet Home Chicago",
       "url": "https://open.spotify.com/track/31NrEjRvAP4ot9Mj3DWIqa"
-    },
-    {
-      "added_at": "2023-03-03 18:12:25",
-      "album": {
-        "name": "Jamming With Edward",
-        "url": "https://open.spotify.com/album/4flw1L8widdDehQ4BYHQvO"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        },
-        {
-          "name": "Nicky Hopkins",
-          "url": "https://open.spotify.com/artist/4oFSDUi4VgAWAn7t5RNaan"
-        },
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 314373,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/5lgfWxatYUKXvQEE1oTGDE"
     },
     {
       "added_at": "2023-03-03 18:12:25",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-03-03 18:12:25",
       "album": {
-        "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
-        "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
+        "name": "Hate To See You Go",
+        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
       },
       "artists": [
         {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 112600,
-      "name": "I Hear You Knocking - Remastered 2002",
-      "url": "https://open.spotify.com/track/2k4k2Qytu2ZnYoqDOagNBV"
+      "duration_ms": 163813,
+      "name": "Key To The Highway",
+      "url": "https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL"
     },
     {
       "added_at": "2023-03-03 18:12:25",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-03-03 18:12:25",
       "album": {
+        "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
+        "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 112600,
+      "name": "I Hear You Knocking - Remastered 2002",
+      "url": "https://open.spotify.com/track/2k4k2Qytu2ZnYoqDOagNBV"
+    },
+    {
+      "added_at": "2023-03-03 18:12:25",
+      "album": {
         "name": "Moanin' In The Moonlight",
         "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 170000,
       "name": "Forty Four",
       "url": "https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq"
-    },
-    {
-      "added_at": "2023-03-03 18:12:25",
-      "album": {
-        "name": "Hate To See You Go",
-        "url": "https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 163813,
-      "name": "Key To The Highway",
-      "url": "https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL"
     },
     {
       "added_at": "2023-03-03 18:12:25",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-03-03 18:12:25",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
-    },
-    {
-      "added_at": "2023-03-03 18:12:25",
-      "album": {
         "name": "The Best In Blues",
         "url": "https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 173160,
       "name": "Trouble In Mind",
       "url": "https://open.spotify.com/track/5PQAAHui3NDnxW1wm7blIz"
+    },
+    {
+      "added_at": "2023-03-03 18:12:25",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
     },
     {
       "added_at": "2023-03-03 18:12:25",
@@ -933,7 +933,7 @@
       "url": "https://open.spotify.com/track/6NjhuVXxEjSsJRqKhVEdFv"
     },
     {
-      "added_at": "2023-04-19 01:38:02",
+      "added_at": "2023-04-20 01:18:58",
       "album": {
         "name": "Poet Of The Blues",
         "url": "https://open.spotify.com/album/7oD8K0s2rvJ53vjLurRLNf"

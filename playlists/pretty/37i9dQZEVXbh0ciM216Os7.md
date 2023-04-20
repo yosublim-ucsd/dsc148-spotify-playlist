@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 | 12 | [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 |
 | 13 | [Me Pone Mal](https://open.spotify.com/track/1i7WoaZrt8jGH9vM0GKYdn) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Me Pone Mal](https://open.spotify.com/album/7aJJYJalxCJx6kNLINcR9y) | 2:57 |
 | 14 | [Miracle \(with Ellie Goulding\) \- Hardwell Remix](https://open.spotify.com/track/4LwbGXpHNvKkwiyLFBsBBQ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Miracle \(with Ellie Goulding\) \[Hardwell Remix\]](https://open.spotify.com/album/3LswMGIQwIQpJztiYx37xs) | 3:04 |
-| 15 | [Blood Ocean](https://open.spotify.com/track/0mTMA4DszJEuviUhbUxfKf) | [Metalocalypse: Dethklok](https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8) | [The Dethalbum \(Expanded Edition\) \[Bonus Tracks\]](https://open.spotify.com/album/4c6UA2PK8mHXRpOSDmReQK) | 2:49 |
-| 16 | [New Millennium \(Basic Tracks\)](https://open.spotify.com/track/4KTFtsadHOMKnxX5fCcucu) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Lost Not Forgotten Archives: The Making of Falling Into Infinity \(1997\)](https://open.spotify.com/album/6PSF6V0b6eMbuBI8lBMahX) | 1:48 |
-| 17 | [SPIDER WEB](https://open.spotify.com/track/54lDUmLUNp653H12lF6NnA) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/3XxoKjcWSl4uGplV1kiKAp) | 3:03 |
-| 18 | [Bicycle Rider](https://open.spotify.com/track/3Bdh4UCIwbRZoDLZ5UFvXI) | [Dan Horne](https://open.spotify.com/artist/32GWtrYOojtYr0DVybdhev) | [Count The Clouds](https://open.spotify.com/album/0hYFW952nfZWyN5y1vxjdb) | 4:23 |
+| 15 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/1s71aSAX5H5Bi0bnJkXe5F) | [Floraleda Sacchi](https://open.spotify.com/artist/5j48oGQ0CfaOdcPHubZ9it), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/album/6L2f6qkdeluqFppYgcOKbG) | 5:42 |
+| 16 | [Blood Ocean](https://open.spotify.com/track/0mTMA4DszJEuviUhbUxfKf) | [Metalocalypse: Dethklok](https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8) | [The Dethalbum \(Expanded Edition\) \[Bonus Tracks\]](https://open.spotify.com/album/4c6UA2PK8mHXRpOSDmReQK) | 2:49 |
+| 17 | [New Millennium \(Basic Tracks\)](https://open.spotify.com/track/4KTFtsadHOMKnxX5fCcucu) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Lost Not Forgotten Archives: The Making of Falling Into Infinity \(1997\)](https://open.spotify.com/album/6PSF6V0b6eMbuBI8lBMahX) | 1:48 |
+| 18 | [SPIDER WEB](https://open.spotify.com/track/54lDUmLUNp653H12lF6NnA) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [PORTALS](https://open.spotify.com/album/3XxoKjcWSl4uGplV1kiKAp) | 3:03 |
 | 19 | [STUNTMAN \(feat\. Vince Staples\)](https://open.spotify.com/track/6S4WM9LW6oGkAtBFePffh2) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:19 |
 | 20 | [Continue as a Guest](https://open.spotify.com/track/5PbPvcgxCZF677hZEVbxWM) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Continue as a Guest](https://open.spotify.com/album/4W7yoLgWewZv3rdhGjLB3B) | 4:24 |
 | 21 | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT) | 2:45 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbh0ciM216Os7.md) - [plain]
 | 29 | [Deadbolt](https://open.spotify.com/track/0LFIpvc8Fj1QyS6ZnFC4Yx) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Death Below](https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U) | 4:20 |
 | 30 | [Hold Me Like a Grudge](https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:35 |
 
-Snapshot ID: `MjgwMjQwODAsMDAwMDAwMDBhM2Q4OGNjNjkxYzc4OTE1NTcwMzI5OTRiZWQxMTRlMw==`
+Snapshot ID: `MjgwMjQwODAsMDAwMDAwMDBhNWMyYjhkNWUwMzliMWJjN2I5ZDY2YTJiZjhmZWYxYw==`

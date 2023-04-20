@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 
 > The sweet sounds of Syria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,987 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,012 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 33 | [Ba'd Elly Saar](https://open.spotify.com/track/2pzOyjen1j1KRzhbeSljyK) | [Shahd Barmada](https://open.spotify.com/artist/6wwlkaIcFu0b2L2w6xtVRr) | [Ba'd Elly Saar](https://open.spotify.com/album/3smQLsJJVePTMMMcWrMFMG) | 4:44 |
 | 34 | [Mafi Shi Byijmana](https://open.spotify.com/track/60XhpaaRTAJEgRqMmu2OG8) | [Yousef Kekhia](https://open.spotify.com/artist/7EhcVdfydM4Hdfv5usdCRw) | [Monologue](https://open.spotify.com/album/1tZH9Nv3aLL1AxJTQNwDHr) | 5:28 |
 | 35 | [Kellon Annek Sa'alouni](https://open.spotify.com/track/0BLeRQzUbGk1j1dddtWHSy) | [Elias Karam](https://open.spotify.com/artist/4b9nglUgMKz4Lydbis6IdR) | [Bass Elak](https://open.spotify.com/album/7cqXpOXV2vUj2CxrYUrZX1) | 6:01 |
-| 36 | [Hada Omri](https://open.spotify.com/track/39IQHrieaatLwKvZ6iq2aA) | [Mahfoud AlMaher](https://open.spotify.com/artist/4VYdwh1l1CyIp0T4LhOHNI) | [Hada Omri](https://open.spotify.com/album/73W27KjR3AcoPivsmoPGY7) | 3:30 |
-| 37 | [Laysh](https://open.spotify.com/track/6cOEsSZeuzPX3V2GgvB4CF) | [Assasi](https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz) | [Third World Wide Vol\. 1](https://open.spotify.com/album/0hFSce1HiBRXsZaii7qAZh) | 2:58 |
+| 36 | [Sallemi](https://open.spotify.com/track/2RTIyzG5nwK06Qwyg75gtW) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Kezbi Wara Kezbi](https://open.spotify.com/album/5IDD7PswwV5qS3u17fIIEG) | 3:12 |
+| 37 | [Hada Omri](https://open.spotify.com/track/39IQHrieaatLwKvZ6iq2aA) | [Mahfoud AlMaher](https://open.spotify.com/artist/4VYdwh1l1CyIp0T4LhOHNI) | [Hada Omri](https://open.spotify.com/album/73W27KjR3AcoPivsmoPGY7) | 3:30 |
 | 38 | [Aal Hob Rooh w Sallimli](https://open.spotify.com/track/0RUDIa4tOnST24USIXuyyV) | [Nesreen Tafesh](https://open.spotify.com/artist/4e4G7w1BJQ3qpfpsKf6wg2) | [Aal Hob Rooh w Sallimli](https://open.spotify.com/album/0M5qhGTUrD1KSN7cHIRGUt) | 3:26 |
-| 39 | [Sallemi](https://open.spotify.com/track/2RTIyzG5nwK06Qwyg75gtW) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Kezbi Wara Kezbi](https://open.spotify.com/album/5IDD7PswwV5qS3u17fIIEG) | 3:12 |
+| 39 | [Laysh](https://open.spotify.com/track/6cOEsSZeuzPX3V2GgvB4CF) | [Assasi](https://open.spotify.com/artist/1TuHc6zFa31PJpMpvyKZoz) | [Third World Wide Vol\. 1](https://open.spotify.com/album/0hFSce1HiBRXsZaii7qAZh) | 2:58 |
 | 40 | [Mktifi Bhali](https://open.spotify.com/track/1AtrStBh3KmG1Uy5tPqXpq) | [Taim Saleh](https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2) | [Mktifi Bhali](https://open.spotify.com/album/1FeVZ4GMogl4q7NUvZZOVQ) | 4:17 |
 | 41 | [Masa Shamy](https://open.spotify.com/track/1eUoFO2RVoWogedFcU9xIT) | [Nurulez](https://open.spotify.com/artist/3Tpt01jawwzcAPkrjNLR7g) | [Apachi](https://open.spotify.com/album/5O905UHULciUjek70N7dmW) | 3:08 |
 | 42 | [Ghanni](https://open.spotify.com/track/2GgGGHgNNIIbCOFHxwPjDs) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Ghanni](https://open.spotify.com/album/2cqyFEoZX7M6TDtRFlfMSF) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyqO4fBh3ob.md) - [plain]
 | 49 | [Alshaela](https://open.spotify.com/track/6tazOzAb4Z0ocUhOhNrNIy) | [Amer Wakka](https://open.spotify.com/artist/3RTvvsSrGsLIpShyrjGrZb) | [Alshaela](https://open.spotify.com/album/7kP3ciU1cgbPbIup4KIqk0) | 3:02 |
 | 50 | [Shi Tridin](https://open.spotify.com/track/1ZNPX01Q2RMjwoAZymgVpx) | [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Shi Tridin](https://open.spotify.com/album/6gNgy5YfIF4xqxAigQY8KS) | 6:48 |
 
-Snapshot ID: `MTY4MTI4NzIzNCwwMDAwMDAwMGQ5MWRlMmE1NGRhYjQxZjU2NzlmZWFkODUwZTdmM2Uw`
+Snapshot ID: `MTY4MTI4NzIzNCwwMDAwMDAwMGJlZmRlOTc5ZWQwMjgyNjRhMDk5OGZjOWIzYTMzZWFm`

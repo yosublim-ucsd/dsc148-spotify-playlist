@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 55018,
+  "num_followers": 55077,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMDQ4YTljYmJiMjVmMjIxODlhOTg5MDBiY2NiMmY2NDFm",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGEzY2U0NmU1NDdiZWQ2MDViNzI5N2ViMDEyM2IzYjM3",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Luscious Rain",
-        "url": "https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "Luscious Rain",
-      "url": "https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Pacer",
         "url": "https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 459081,
       "name": "Pacer",
       "url": "https://open.spotify.com/track/7edXzWL0NdmKOpGe6NKHyO"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Luscious Rain",
+        "url": "https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "Luscious Rain",
+      "url": "https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "See You When You Get There",
+        "url": "https://open.spotify.com/album/1SDUF56j6m0F8g1Nq8VMMr"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 364795,
+      "name": "Never Forget",
+      "url": "https://open.spotify.com/track/2XdHM7xIoz9R94JeB3Cwrd"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "A Magic World (Remixes)",
         "url": "https://open.spotify.com/album/39rJ5ozCZCmmeC7N0e2JOS"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 365971,
       "name": "Letters - NTO Remix",
       "url": "https://open.spotify.com/track/5eoWUn76XK5blDGfJMecTY"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "See You When You Get There",
-        "url": "https://open.spotify.com/album/1SDUF56j6m0F8g1Nq8VMMr"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 364795,
-      "name": "Never Forget",
-      "url": "https://open.spotify.com/track/2XdHM7xIoz9R94JeB3Cwrd"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Where Will You Be Spending Eternity?",
+        "url": "https://open.spotify.com/album/13iR44I1vESNGv6QTn4Wwi"
+      },
+      "artists": [
+        {
+          "name": "Francis Inferno Orchestra",
+          "url": "https://open.spotify.com/artist/3OOEKzLNBzkeQWCKun4UXe"
+        }
+      ],
+      "duration_ms": 314445,
+      "name": "Harmony - Original Mix",
+      "url": "https://open.spotify.com/track/1sWLKYeMhFOUd7QjVbxbK3"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "What I Saw That Night",
         "url": "https://open.spotify.com/album/2aivF6gzeacxE64m0jvfGU"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 420465,
       "name": "What I Saw That Night",
       "url": "https://open.spotify.com/track/4ApOByOlG6mFtAtn7TjEs1"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Where Will You Be Spending Eternity?",
-        "url": "https://open.spotify.com/album/13iR44I1vESNGv6QTn4Wwi"
-      },
-      "artists": [
-        {
-          "name": "Francis Inferno Orchestra",
-          "url": "https://open.spotify.com/artist/3OOEKzLNBzkeQWCKun4UXe"
-        }
-      ],
-      "duration_ms": 314445,
-      "name": "Harmony - Original Mix",
-      "url": "https://open.spotify.com/track/1sWLKYeMhFOUd7QjVbxbK3"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -847,38 +847,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Find Myself EP",
-        "url": "https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b"
-      },
-      "artists": [
-        {
-          "name": "Danny B",
-          "url": "https://open.spotify.com/artist/1tTPp6zfAgJuXzLG7okW3B"
-        }
-      ],
-      "duration_ms": 364579,
-      "name": "Raw Charmer",
-      "url": "https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "A Minor Thought",
-        "url": "https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA"
-      },
-      "artists": [
-        {
-          "name": "Moomin",
-          "url": "https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s"
-        }
-      ],
-      "duration_ms": 372041,
-      "name": "Loop No 1",
-      "url": "https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Moons",
         "url": "https://open.spotify.com/album/3tIgTO7IeJfRd4rUDyxAUb"
       },
@@ -911,6 +879,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "A Minor Thought",
+        "url": "https://open.spotify.com/album/0bxwH4IfXTXYmpiC2rIfFA"
+      },
+      "artists": [
+        {
+          "name": "Moomin",
+          "url": "https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s"
+        }
+      ],
+      "duration_ms": 372041,
+      "name": "Loop No 1",
+      "url": "https://open.spotify.com/track/02G42teKnMwPwDFEKUfdct"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "When the Rain",
         "url": "https://open.spotify.com/album/2dwUpYD9rU1rVMBst4Dy66"
       },
@@ -923,6 +907,38 @@
       "duration_ms": 400327,
       "name": "Deep Eyes Blue Skies",
       "url": "https://open.spotify.com/track/6suIXGZs9DIIxcUzl4Ilot"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Find Myself EP",
+        "url": "https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b"
+      },
+      "artists": [
+        {
+          "name": "Danny B",
+          "url": "https://open.spotify.com/artist/1tTPp6zfAgJuXzLG7okW3B"
+        }
+      ],
+      "duration_ms": 364579,
+      "name": "Raw Charmer",
+      "url": "https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Dazed & Confused",
+        "url": "https://open.spotify.com/album/5ELUDL08pgSVM1FmpWlJP2"
+      },
+      "artists": [
+        {
+          "name": "Supernaive",
+          "url": "https://open.spotify.com/artist/0LIQJHtaj1P8K7CFMxqonq"
+        }
+      ],
+      "duration_ms": 223060,
+      "name": "Opal Waltz",
+      "url": "https://open.spotify.com/track/5rHTvJCwN2D4sLrqwAVorG"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -955,22 +971,6 @@
       "duration_ms": 407317,
       "name": "Vanilla",
       "url": "https://open.spotify.com/track/050gkqbA6Rl0SRZpzQKrAr"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Dazed & Confused",
-        "url": "https://open.spotify.com/album/5ELUDL08pgSVM1FmpWlJP2"
-      },
-      "artists": [
-        {
-          "name": "Supernaive",
-          "url": "https://open.spotify.com/artist/0LIQJHtaj1P8K7CFMxqonq"
-        }
-      ],
-      "duration_ms": 223060,
-      "name": "Opal Waltz",
-      "url": "https://open.spotify.com/track/5rHTvJCwN2D4sLrqwAVorG"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Vasudeva",
-        "url": "https://open.spotify.com/album/0MonXllNzp5GeLEGopQE5G"
-      },
-      "artists": [
-        {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
-        }
-      ],
-      "duration_ms": 376720,
-      "name": "Vasudeva",
-      "url": "https://open.spotify.com/track/7j3zDLa2WRzvNdaYfriFMy"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Kill Frenzy",
         "url": "https://open.spotify.com/album/5K9V9bm1Bn9xVviaCP5f0w"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "The Scientific Method, Vol 2",
-        "url": "https://open.spotify.com/album/7gf1BNF4YoliT6y24RSUhb"
+        "name": "Vasudeva",
+        "url": "https://open.spotify.com/album/0MonXllNzp5GeLEGopQE5G"
       },
       "artists": [
         {
-          "name": "Professor Kliq",
-          "url": "https://open.spotify.com/artist/6hEcaHTpPQm6jLrbkUKREW"
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
         }
       ],
-      "duration_ms": 315733,
-      "name": "Overhead",
-      "url": "https://open.spotify.com/track/1QuON1epjuRDg6PbGGLKCb"
+      "duration_ms": 376720,
+      "name": "Vasudeva",
+      "url": "https://open.spotify.com/track/7j3zDLa2WRzvNdaYfriFMy"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1183,6 +1167,22 @@
       "duration_ms": 311186,
       "name": "like me",
       "url": "https://open.spotify.com/track/6CJwIcJNQStg1cgRBMLM76"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "The Scientific Method, Vol 2",
+        "url": "https://open.spotify.com/album/7gf1BNF4YoliT6y24RSUhb"
+      },
+      "artists": [
+        {
+          "name": "Professor Kliq",
+          "url": "https://open.spotify.com/artist/6hEcaHTpPQm6jLrbkUKREW"
+        }
+      ],
+      "duration_ms": 315733,
+      "name": "Overhead",
+      "url": "https://open.spotify.com/track/1QuON1epjuRDg6PbGGLKCb"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Mellowdramatic",
+        "url": "https://open.spotify.com/album/7p4K6P0lFMFHIYix2axSFN"
+      },
+      "artists": [
+        {
+          "name": "A Forest Mighty Black",
+          "url": "https://open.spotify.com/artist/4zPCP1wMTDpEWsMWtMvPv5"
+        }
+      ],
+      "duration_ms": 478373,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/7hnloYYhI8mr4ZuT4H2ZuS"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Breathing Underwater",
         "url": "https://open.spotify.com/album/7n7MzOjUGkLO6gIotByQLL"
       },
@@ -1255,18 +1271,50 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Mellowdramatic",
-        "url": "https://open.spotify.com/album/7p4K6P0lFMFHIYix2axSFN"
+        "name": "Frekk EP",
+        "url": "https://open.spotify.com/album/1OEm5cnudsYGee21Ic1nYE"
       },
       "artists": [
         {
-          "name": "A Forest Mighty Black",
-          "url": "https://open.spotify.com/artist/4zPCP1wMTDpEWsMWtMvPv5"
+          "name": "Async",
+          "url": "https://open.spotify.com/artist/5PZlBEt3wsD3kAw6i7Mz0t"
         }
       ],
-      "duration_ms": 478373,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/7hnloYYhI8mr4ZuT4H2ZuS"
+      "duration_ms": 474009,
+      "name": "Deepart 8.0",
+      "url": "https://open.spotify.com/track/1TmgIqBZJsMvs4p96tEWrI"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Backstabber EP",
+        "url": "https://open.spotify.com/album/4wJgGNqo2pQtzSs4f0ZTmu"
+      },
+      "artists": [
+        {
+          "name": "Nachtbraker",
+          "url": "https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw"
+        }
+      ],
+      "duration_ms": 407038,
+      "name": "Backstabber",
+      "url": "https://open.spotify.com/track/0ZGTzeO2ZmFq0OEVcxMhgk"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "LO-FI IS THE UNWANTED BASTARD CHILD OF JAZZ",
+        "url": "https://open.spotify.com/album/5CPLb3j8NMxwplclu4xMEc"
+      },
+      "artists": [
+        {
+          "name": "Da Vosk Docta",
+          "url": "https://open.spotify.com/artist/0eVFGwSvttHQvGrdcKXbW2"
+        }
+      ],
+      "duration_ms": 308576,
+      "name": "VIEW FROM MY BALCONY AT NIGHT",
+      "url": "https://open.spotify.com/track/5wOcV21lFPwIL8XbpWy6WF"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1299,54 +1347,6 @@
       "duration_ms": 390444,
       "name": "Imperal",
       "url": "https://open.spotify.com/track/40xiWanqJVhIu4ZF3UMAdq"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Frekk EP",
-        "url": "https://open.spotify.com/album/1OEm5cnudsYGee21Ic1nYE"
-      },
-      "artists": [
-        {
-          "name": "Async",
-          "url": "https://open.spotify.com/artist/5PZlBEt3wsD3kAw6i7Mz0t"
-        }
-      ],
-      "duration_ms": 474009,
-      "name": "Deepart 8.0",
-      "url": "https://open.spotify.com/track/1TmgIqBZJsMvs4p96tEWrI"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "LO-FI IS THE UNWANTED BASTARD CHILD OF JAZZ",
-        "url": "https://open.spotify.com/album/5CPLb3j8NMxwplclu4xMEc"
-      },
-      "artists": [
-        {
-          "name": "Da Vosk Docta",
-          "url": "https://open.spotify.com/artist/0eVFGwSvttHQvGrdcKXbW2"
-        }
-      ],
-      "duration_ms": 308576,
-      "name": "VIEW FROM MY BALCONY AT NIGHT",
-      "url": "https://open.spotify.com/track/5wOcV21lFPwIL8XbpWy6WF"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Backstabber EP",
-        "url": "https://open.spotify.com/album/4wJgGNqo2pQtzSs4f0ZTmu"
-      },
-      "artists": [
-        {
-          "name": "Nachtbraker",
-          "url": "https://open.spotify.com/artist/4mS8v6OGLE0fegaoJL1IVw"
-        }
-      ],
-      "duration_ms": 407038,
-      "name": "Backstabber",
-      "url": "https://open.spotify.com/track/0ZGTzeO2ZmFq0OEVcxMhgk"
     },
     {
       "added_at": "2022-07-15 17:34:15",

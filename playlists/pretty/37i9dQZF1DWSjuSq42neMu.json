@@ -1,12 +1,12 @@
 {
   "description": "todo un mood. ",
-  "num_followers": 619858,
+  "num_followers": 620257,
   "original_name": "suave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTc1OTkwNSwwMDAwMDAwMDgyYjVkN2ViZDQ0YmEwOGNkYWZmMDY3NWRlMTdkNWQ2",
+  "snapshot_id": "MTY4MTc1OTkwNSwwMDAwMDAwMDkxY2RhMjk4MzdhYzIzNzRmYTMxYjZhN2E2NDc2NmQ1",
   "tracks": [
     {
       "added_at": "2023-04-17 19:31:45",
@@ -491,22 +491,18 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "Mojando Asientos (feat. Feid)",
-        "url": "https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB"
+        "name": "PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
         }
       ],
-      "duration_ms": 252162,
-      "name": "Mojando Asientos (feat. Feid)",
-      "url": "https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc"
+      "duration_ms": 127333,
+      "name": "COMO HAS ESTAU?",
+      "url": "https://open.spotify.com/track/5S7FewmYYyLNdMOfeEcB6P"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -527,18 +523,22 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
+        "name": "Mojando Asientos (feat. Feid)",
+        "url": "https://open.spotify.com/album/7d2q5cmU01iy4lToXvQ1qB"
       },
       "artists": [
         {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 127333,
-      "name": "COMO HAS ESTAU?",
-      "url": "https://open.spotify.com/track/5S7FewmYYyLNdMOfeEcB6P"
+      "duration_ms": 252162,
+      "name": "Mojando Asientos (feat. Feid)",
+      "url": "https://open.spotify.com/track/0LKu09Iq053CEUZ5ktQEWc"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 162093,
-      "name": "CAROLINA",
-      "url": "https://open.spotify.com/track/3goYw6YHoCjA1sfBzpdgzH"
-    },
-    {
-      "added_at": "2023-04-17 19:31:45",
-      "album": {
         "name": "Easy Money Baby",
         "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 186426,
       "name": "Girl",
       "url": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
+    },
+    {
+      "added_at": "2023-04-17 19:31:45",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 162093,
+      "name": "CAROLINA",
+      "url": "https://open.spotify.com/track/3goYw6YHoCjA1sfBzpdgzH"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -723,30 +723,6 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "AM Remix",
-        "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 261334,
-      "name": "AM Remix",
-      "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
-    },
-    {
-      "added_at": "2023-04-17 19:31:45",
-      "album": {
         "name": "NASTU",
         "url": "https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk"
       },
@@ -783,6 +759,30 @@
       "duration_ms": 199711,
       "name": "Fantasias",
       "url": "https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy"
+    },
+    {
+      "added_at": "2023-04-17 19:31:45",
+      "album": {
+        "name": "AM Remix",
+        "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 261334,
+      "name": "AM Remix",
+      "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -967,34 +967,18 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "No Fue (feat. Brray, Feid) [Remix]",
-        "url": "https://open.spotify.com/album/41KfceWx13z7stHEFrgPxt"
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
       "artists": [
         {
-          "name": "Leebrian",
-          "url": "https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4"
-        },
-        {
-          "name": "Cauty",
-          "url": "https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas"
-        },
-        {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 317789,
-      "name": "No Fue - Remix",
-      "url": "https://open.spotify.com/track/3b2STpVG1wHiZJ7u6hvmoR"
+      "duration_ms": 295038,
+      "name": "Aquel Nap ZzZz",
+      "url": "https://open.spotify.com/track/5bQLsyTrUaMQRfr6whwGe5"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -1047,18 +1031,34 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+        "name": "No Fue (feat. Brray, Feid) [Remix]",
+        "url": "https://open.spotify.com/album/41KfceWx13z7stHEFrgPxt"
       },
       "artists": [
         {
+          "name": "Leebrian",
+          "url": "https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4"
+        },
+        {
+          "name": "Cauty",
+          "url": "https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas"
+        },
+        {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 295038,
-      "name": "Aquel Nap ZzZz",
-      "url": "https://open.spotify.com/track/5bQLsyTrUaMQRfr6whwGe5"
+      "duration_ms": 317789,
+      "name": "No Fue - Remix",
+      "url": "https://open.spotify.com/track/3b2STpVG1wHiZJ7u6hvmoR"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
+        "name": "TRAP CAKE VOL. 2",
+        "url": "https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 255412,
+      "name": "MUSEO",
+      "url": "https://open.spotify.com/track/6WfxIJKmYRSpsBJv0tEAKX"
+    },
+    {
+      "added_at": "2023-04-17 19:31:45",
+      "album": {
         "name": "NASTU",
         "url": "https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk"
       },
@@ -1195,58 +1211,6 @@
       "duration_ms": 168367,
       "name": "Mami",
       "url": "https://open.spotify.com/track/4FjkjrvfbB3C4eUqWlw3vB"
-    },
-    {
-      "added_at": "2023-04-17 19:31:45",
-      "album": {
-        "name": "Conexi\u00f3n",
-        "url": "https://open.spotify.com/album/34PIyfPDn9rSsFZmEGEvWe"
-      },
-      "artists": [
-        {
-          "name": "Foreign Teck",
-          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        }
-      ],
-      "duration_ms": 288282,
-      "name": "Conexi\u00f3n",
-      "url": "https://open.spotify.com/track/2fpKvUg9hxiKAOLuwfEdlJ"
-    },
-    {
-      "added_at": "2023-04-17 19:31:45",
-      "album": {
-        "name": "TRAP CAKE VOL. 2",
-        "url": "https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 255412,
-      "name": "MUSEO",
-      "url": "https://open.spotify.com/track/6WfxIJKmYRSpsBJv0tEAKX"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -1287,6 +1251,42 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
+        "name": "Conexi\u00f3n",
+        "url": "https://open.spotify.com/album/34PIyfPDn9rSsFZmEGEvWe"
+      },
+      "artists": [
+        {
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 288282,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/2fpKvUg9hxiKAOLuwfEdlJ"
+    },
+    {
+      "added_at": "2023-04-17 19:31:45",
+      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/3YLXKSgU5SrzzkBbwzBQC2"
       },
@@ -1323,22 +1323,18 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "Problem\u00f3n",
-        "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
+        "name": "Xexo",
+        "url": "https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 193013,
-      "name": "Problem\u00f3n",
-      "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
+      "duration_ms": 180588,
+      "name": "Xexo",
+      "url": "https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -1363,6 +1359,26 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
+        "name": "Problem\u00f3n",
+        "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 193013,
+      "name": "Problem\u00f3n",
+      "url": "https://open.spotify.com/track/2Q4MRMnSAMckugCtR5jgXT"
+    },
+    {
+      "added_at": "2023-04-17 19:31:45",
+      "album": {
         "name": "Famouz",
         "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 198613,
       "name": "Imaginaste",
       "url": "https://open.spotify.com/track/6MvqgVj98rzMGuxdpIyzeh"
-    },
-    {
-      "added_at": "2023-04-17 19:31:45",
-      "album": {
-        "name": "Xexo",
-        "url": "https://open.spotify.com/album/3fN5xRTyR9ZPR6ETIHKQ6T"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Xexo",
-      "url": "https://open.spotify.com/track/3Dbvk3sQUwtjj8oCCF0QGu"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -1463,22 +1463,6 @@
       "duration_ms": 176146,
       "name": "Vete Pal Carajo",
       "url": "https://open.spotify.com/track/1mrQYY0NATPCe7WOYcCKf1"
-    },
-    {
-      "added_at": "2023-04-17 19:31:45",
-      "album": {
-        "name": "Timelezz",
-        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 202160,
-      "name": "Tokyo",
-      "url": "https://open.spotify.com/track/1gYipuSzUpI6BENbGrgeid"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
+        "name": "Timelezz",
+        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
-      "duration_ms": 150853,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
+      "duration_ms": 202160,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/1gYipuSzUpI6BENbGrgeid"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -1611,38 +1595,18 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "Air Drop",
-        "url": "https://open.spotify.com/album/3KxXkPVVFrxP8V11o3cgLf"
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C"
       },
       "artists": [
         {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 205565,
-      "name": "Air Drop",
-      "url": "https://open.spotify.com/track/1WUUjDzH1ZMIPz3194CLid"
-    },
-    {
-      "added_at": "2023-04-17 19:31:45",
-      "album": {
-        "name": "PARA\u00cdSO",
-        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 195769,
-      "name": "COSITAS",
-      "url": "https://open.spotify.com/track/6eP29HuqLSONvO7xTb5dSH"
+      "duration_ms": 150853,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -1683,6 +1647,42 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
+        "name": "Air Drop",
+        "url": "https://open.spotify.com/album/3KxXkPVVFrxP8V11o3cgLf"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 205565,
+      "name": "Air Drop",
+      "url": "https://open.spotify.com/track/1WUUjDzH1ZMIPz3194CLid"
+    },
+    {
+      "added_at": "2023-04-17 19:31:45",
+      "album": {
+        "name": "PARA\u00cdSO",
+        "url": "https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 195769,
+      "name": "COSITAS",
+      "url": "https://open.spotify.com/track/6eP29HuqLSONvO7xTb5dSH"
+    },
+    {
+      "added_at": "2023-04-17 19:31:45",
+      "album": {
         "name": "Metamorfosis",
         "url": "https://open.spotify.com/album/6OWLWa5E6O0GaQ3flVPioL"
       },
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "M\u00e1s de Ti",
-        "url": "https://open.spotify.com/album/3ctAvZOveQs5Vvn952hDyv"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Randy",
-          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
-        }
-      ],
-      "duration_ms": 266835,
-      "name": "M\u00e1s de Ti",
-      "url": "https://open.spotify.com/track/0DrpPAfbRHtPkBgfTZhTM9"
-    },
-    {
-      "added_at": "2023-04-17 19:31:45",
-      "album": {
         "name": "Me Fije",
         "url": "https://open.spotify.com/album/14FrKuNUxsU8eEooOVW1DC"
       },
@@ -1743,6 +1723,26 @@
       "duration_ms": 202320,
       "name": "Me Fije",
       "url": "https://open.spotify.com/track/6Et5KimMg3IXwD6lJPGmQw"
+    },
+    {
+      "added_at": "2023-04-17 19:31:45",
+      "album": {
+        "name": "M\u00e1s de Ti",
+        "url": "https://open.spotify.com/album/3ctAvZOveQs5Vvn952hDyv"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "duration_ms": 266835,
+      "name": "M\u00e1s de Ti",
+      "url": "https://open.spotify.com/track/0DrpPAfbRHtPkBgfTZhTM9"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -1779,6 +1779,30 @@
       "duration_ms": 199881,
       "name": "Amor en Coma",
       "url": "https://open.spotify.com/track/3RasiWohReHWYM1FJ9d1ZD"
+    },
+    {
+      "added_at": "2023-04-17 19:31:45",
+      "album": {
+        "name": "Llori Pari",
+        "url": "https://open.spotify.com/album/4jG7eBaWlLUjRRS1ajTCJ3"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 215440,
+      "name": "Llori Pari",
+      "url": "https://open.spotify.com/track/0D3hXbWvf69dmMmYUZpOk7"
     },
     {
       "added_at": "2023-04-17 19:31:45",
@@ -1823,50 +1847,6 @@
     {
       "added_at": "2023-04-17 19:31:45",
       "album": {
-        "name": "Llori Pari",
-        "url": "https://open.spotify.com/album/4jG7eBaWlLUjRRS1ajTCJ3"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 215440,
-      "name": "Llori Pari",
-      "url": "https://open.spotify.com/track/0D3hXbWvf69dmMmYUZpOk7"
-    },
-    {
-      "added_at": "2023-04-17 19:31:45",
-      "album": {
-        "name": "The Sensation",
-        "url": "https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Qu\u00e9 M\u00e1s Pues",
-      "url": "https://open.spotify.com/track/5O3cRP4ZHC9vvVIHtET1f0"
-    },
-    {
-      "added_at": "2023-04-17 19:31:45",
-      "album": {
         "name": "Club Diecis\u00e9is",
         "url": "https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU"
       },
@@ -1887,6 +1867,26 @@
       "duration_ms": 171832,
       "name": "A Mi Tambi\u00e9n ft. Alvaro Diaz, Feid",
       "url": "https://open.spotify.com/track/5Bc130ZswADfOY9bxk1y98"
+    },
+    {
+      "added_at": "2023-04-17 19:31:45",
+      "album": {
+        "name": "The Sensation",
+        "url": "https://open.spotify.com/album/7sxSaAYrq3kXLmTuGkIBFU"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Qu\u00e9 M\u00e1s Pues",
+      "url": "https://open.spotify.com/track/5O3cRP4ZHC9vvVIHtET1f0"
     },
     {
       "added_at": "2023-04-17 19:31:45",

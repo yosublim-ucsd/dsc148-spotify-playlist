@@ -1,12 +1,12 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Depeche Mode. ",
-  "num_followers": 78731,
+  "num_followers": 78944,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTM3MTI3MCwwMDAwMDAwMGExOGY4OGNhZDYyMTI1YmRmZmU4ZjY4N2MwNzIwYzkz",
+  "snapshot_id": "MTY3NTM3MTI3MCwwMDAwMDAwMDYwZjE5OTRjNjgxNWNhYWVjYmVhMGI3Mjg3NjMzNDBm",
   "tracks": [
     {
       "added_at": "2023-01-25 15:11:28",
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/3KuAa8Y79xlfJgYtBKbynY"
     },
     {
-      "added_at": "2023-04-19 00:46:35",
+      "added_at": "2023-04-20 00:33:26",
       "album": {
         "name": "Mistaken Identity",
         "url": "https://open.spotify.com/album/3iMwQk5yE0UDDKbLCdcxZA"
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-01-25 15:11:28",
       "album": {
-        "name": "Fran\u00e7ois",
-        "url": "https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q"
-      },
-      "artists": [
-        {
-          "name": "Desireless",
-          "url": "https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2"
-        }
-      ],
-      "duration_ms": 266600,
-      "name": "Voyage voyage",
-      "url": "https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c"
-    },
-    {
-      "added_at": "2023-01-25 15:11:28",
-      "album": {
         "name": "Please: Further Listening 1984 - 1986 (2018 Remaster)",
         "url": "https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 285906,
       "name": "West End Girls - 2018 Remaster",
       "url": "https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7"
+    },
+    {
+      "added_at": "2023-01-25 15:11:28",
+      "album": {
+        "name": "Fran\u00e7ois",
+        "url": "https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q"
+      },
+      "artists": [
+        {
+          "name": "Desireless",
+          "url": "https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2"
+        }
+      ],
+      "duration_ms": 266600,
+      "name": "Voyage voyage",
+      "url": "https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c"
     },
     {
       "added_at": "2023-01-25 15:11:28",
@@ -713,7 +713,7 @@
       "url": "https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY"
     },
     {
-      "added_at": "2023-04-19 00:46:35",
+      "added_at": "2023-04-20 00:33:26",
       "album": {
         "name": "Substance",
         "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"

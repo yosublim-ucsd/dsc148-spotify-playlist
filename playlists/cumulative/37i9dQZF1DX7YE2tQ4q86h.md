@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: Bebe Rexha
 
-494 songs - 1 day 1 hr 25 min
+495 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,7 +233,8 @@
 | [I'd Rather Have Sex](https://open.spotify.com/track/5JKvoSM8KY9Cski1UvGcpa) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:53 | 2022-04-15 | 2022-08-20 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-08-26 |  |
 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 | 2023-01-27 | 2023-03-18 |
-| [I'm So Hot](https://open.spotify.com/track/32jIchLR10sIVFonUcm5Gj) | [Chrissy Chlapecka](https://open.spotify.com/artist/7L5no8Dp7Y2Gk0L1JIWj9S) | [I'm So Hot](https://open.spotify.com/album/1vs0HWIjDux5AvDtp89dIi) | 2:37 | 2023-02-10 |  |
+| [I'm So Hot](https://open.spotify.com/track/32jIchLR10sIVFonUcm5Gj) | [Chrissy Chlapecka](https://open.spotify.com/artist/7L5no8Dp7Y2Gk0L1JIWj9S) | [I'm So Hot](https://open.spotify.com/album/1vs0HWIjDux5AvDtp89dIi) | 2:37 | 2023-02-10 | 2023-04-20 |
+| [I'm So Hot](https://open.spotify.com/track/3mArEKefF5c1uEoxqCWWSX) | [Chrissy Chlapecka](https://open.spotify.com/artist/7L5no8Dp7Y2Gk0L1JIWj9S) | [I'm So Hot](https://open.spotify.com/album/48llVfPjpftk9cFWwxEtco) | 2:37 | 2023-03-17 |  |
 | [I'm Too Much](https://open.spotify.com/track/3maIQrrrYfP5QxU9cgm0YZ) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [I'm Too Much](https://open.spotify.com/album/2UO9evsFwViITYI0zm6CrW) | 2:43 | 2022-09-16 | 2022-12-03 |
 | [IBTC](https://open.spotify.com/track/4HAonty9m9FAvorRkSAiof) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [IBTC](https://open.spotify.com/album/7JG6V3mLxuQX0mPJlI6Kie) | 2:23 | 2022-09-30 | 2022-12-03 |
 | [Iconic](https://open.spotify.com/track/4oVWH6Jo0vpDY3qusXMj5w) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Iconic](https://open.spotify.com/album/2odTVHhrNcmaKYnoiQ46yP) | 2:28 | 2022-10-28 | 2023-01-21 |

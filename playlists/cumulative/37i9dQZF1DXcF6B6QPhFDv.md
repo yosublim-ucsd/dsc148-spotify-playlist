@@ -4,7 +4,7 @@
 
 > Metallica along with today's Rock songs you need to hear.
 
-309 songs - 17 hr 29 min
+310 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Re\-Entry \(feat\. Mark Hoppus\)](https://open.spotify.com/track/2f2WCKwB1r2SH7AvJc0P8W) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Re\-Entry \(feat\. Mark Hoppus\)](https://open.spotify.com/album/1HVOuAKPRBI8oBT76slmdv) | 2:52 | 2022-01-21 | 2022-06-04 |
 | [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 | 2023-02-10 | 2023-03-11 |
 | [Records](https://open.spotify.com/track/23ZmKlucJRQrdR0QItAafL) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Summer](https://open.spotify.com/album/1DvBf2E2OgU8HAjgInLT6H) | 3:28 | 2022-06-24 | 2022-09-24 |
+| [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 | 2023-04-19 |  |
 | [Riptide](https://open.spotify.com/track/6FqBQIRLJMluO10YtDbETv) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Riptide](https://open.spotify.com/album/5pq4qSf7QPmEu7F1IhhVmn) | 3:31 | 2022-08-05 | 2022-12-10 |
 | [Roadkill](https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Roadkill](https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ) | 2:22 | 2022-05-20 | 2022-09-10 |
 | [Roman Candles](https://open.spotify.com/track/6jIrbJ5w2KfkLsk3LiGTOW) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Roman Candles](https://open.spotify.com/album/08RMceLc7dOM9mmdoFpPBM) | 2:10 | 2022-05-27 | 2022-06-25 |

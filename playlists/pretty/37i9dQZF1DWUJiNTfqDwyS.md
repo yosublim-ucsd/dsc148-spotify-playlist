@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,167 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,631 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 24 | [Small Town Boy](https://open.spotify.com/track/0jfNgP8sP2tnOloYDw0HoM) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Symbol Of Life](https://open.spotify.com/album/1lvVqodR4aT3R8WemeIgDN) | 5:17 |
 | 25 | [Someone Like You](https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Predator](https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj) | 4:35 |
 | 26 | [Gangsters Paradise](https://open.spotify.com/track/6xPD22JavtFYbyHl2AMVsn) | [Like A Storm](https://open.spotify.com/artist/5gFZo6Oh5WehnbEj0XtxiF) | [Awaken the Fire](https://open.spotify.com/album/0Si0TtlRSqqwWRe4DnVVmk) | 3:27 |
-| 27 | [Heroes](https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 4:20 |
-| 28 | [Maniac](https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [The Premonition](https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj) | 4:55 |
+| 27 | [Maniac](https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [The Premonition](https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj) | 4:55 |
+| 28 | [Heroes](https://open.spotify.com/track/1WE1WsxSqVofH8ugxJkc0c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Under Cöver](https://open.spotify.com/album/2k92YJRQpz64koEILL4DUs) | 4:20 |
 | 29 | [Shape of You](https://open.spotify.com/track/54SMw8TnDcuieolVRXBmni) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Shape of You](https://open.spotify.com/album/4eYjV7ET5e8iOtyxg5CLNq) | 3:56 |
 | 30 | [Dirty Diana](https://open.spotify.com/track/2fKkgRY3RtqsTg2TB33qeW) | [Shaman's Harvest](https://open.spotify.com/artist/3pigXV2QUatr3szcb3MacR) | [Smokin' Hearts & Broken Guns \(Deluxe Edition\)](https://open.spotify.com/album/1xZ0Fd1RXbeXrHGsBKd8oH) | 4:01 |
 | 31 | [When Doves Cry \- Radio Edit](https://open.spotify.com/track/6I0tw70v94hTCPjg1iZjrX) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Ruthless](https://open.spotify.com/album/5cfpgi0vLEmw2w5BZwSdtt) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 49 | [Hey Joe](https://open.spotify.com/track/6MmosOlhXxBwlWKXR04jAe) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Born Dead](https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz) | 4:28 |
 | 50 | [Somebody's Watching Me](https://open.spotify.com/track/7FZUfolwtcio2RGu12QAOp) | [Dymytry](https://open.spotify.com/artist/74jZjGsZ4aBEZbtrvytbIZ), [Victor Smolski](https://open.spotify.com/artist/3X8kczKnLx0wolHb0JyIGl) | [Revolt](https://open.spotify.com/album/1yUEhkajK0pPG7PN2x2utF) | 2:48 |
 
-Snapshot ID: `MTY3NjgyODA0NiwwMDAwMDAwMGEzNDZlZDhjODEyN2M2NjI4YzYzMmIwNmNlYTE2OTMw`
+Snapshot ID: `MTY3NjgyODA0NiwwMDAwMDAwMDExN2E3ZDhjODMwOWRlMDdiOWI0NWU4NmFjMGY5YzM5`

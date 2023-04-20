@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 
 > 𝄢Because bass\. Cover: Victor Wooten𝄢
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,383 likes - 81 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,460 likes - 81 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 10 | [The Sinister Minister](https://open.spotify.com/track/2jWuNKBlgkfb3M0WDKexY8) | [Béla Fleck and the Flecktones](https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe) | [Bela Fleck and the Flecktones](https://open.spotify.com/album/58VJzBF0hLb6ylVHdn1XB0) | 4:36 |
 | 11 | [What You Won't Do for Love](https://open.spotify.com/track/0vPIxkes0dlATamjuRJdcb) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [What Did He Say? \(Remastered\)](https://open.spotify.com/album/5WbTfCHnFWp2pKiRkUU78D) | 4:42 |
 | 12 | [Funktionality](https://open.spotify.com/track/2CCzZYCwAJ8l147yQRNMC6) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Dr Hypenstein](https://open.spotify.com/album/1YVisujm1TssXD7TZCTT0P) | 3:07 |
-| 13 | [Power](https://open.spotify.com/track/2wd1sOeNdzBeRGsL6mPogQ) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [M2](https://open.spotify.com/album/1xyfptnTlG1u1fzVxYJm6d) | 4:35 |
+| 13 | [Power](https://open.spotify.com/track/2TjhxE2g7tacYHR2egp8wt) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [M²](https://open.spotify.com/album/4cJcbnFhiWWZmrqdlsRV5W) | 4:35 |
 | 14 | [P.A.C\. Man](https://open.spotify.com/track/3zvq4tHlCZCNor1HpUtKnU) | [Alain Caron](https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj) | [Play](https://open.spotify.com/album/1ghnYOpMZeus1gJCSGdQl3) | 4:21 |
 | 15 | [Is That the Best You Can Do?](https://open.spotify.com/track/3WQdJiq9896W9Zw7jjIBI7) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [Thicker Than Water](https://open.spotify.com/album/7GTWVyB9UwiibcbA6Ykpfx) | 5:35 |
 | 16 | [7\-T's](https://open.spotify.com/track/008BspjuJpmAPCRi7fWbOY) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Laid Black](https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc) | 5:55 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 20 | [A Dark Light](https://open.spotify.com/track/770BeHuLlFqz5Tdm4tSmib) | [Aram Bedrosian](https://open.spotify.com/artist/1QX9Z8FnNxYuUk4bAur1Ut) | [A Dark Light](https://open.spotify.com/album/4Awbl4MQAZnfdfKf98lpbn) | 2:39 |
 | 21 | [F.U.NKWHY](https://open.spotify.com/track/08Xt9rwQXMqW2QF8ngLM8J) | [Ida Nielsen](https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3) | [Time 2 Stop Worrying \(Bout the Weird Stuff\)](https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ) | 3:43 |
 | 22 | [Hear Now!](https://open.spotify.com/track/55LlEq0OSbtAIo7R8b9M7R) | [Gerald Veasley](https://open.spotify.com/artist/3YCLJVZoYJ2sgtAaNt9HPE) | [Your Move](https://open.spotify.com/album/49e2mbwoStTzui5hZAEHO6) | 5:04 |
-| 23 | [Just Letting Go](https://open.spotify.com/track/0Y4SEMAHZpGp9UyTrMcVTW) | [Tony Saunders](https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q) | [Romancing the Bass](https://open.spotify.com/album/1hbDdA4rK8dIj05pefvCGJ) | 5:09 |
+| 23 | [Just Letting Go](https://open.spotify.com/track/6mPr7c7Xy1IMTqiPzXRJL2) | [Tony Saunders](https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q) | [Romancing the Bass](https://open.spotify.com/album/6uxGXngRgxFovVmMsm9iY8) | 5:09 |
 | 24 | [BC](https://open.spotify.com/track/5z9YuyOeX4RPKk0dIAJWle) | [Tal Wilkenfeld](https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu) | [Transformation](https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS) | 6:21 |
 | 25 | [Cosmic Joke](https://open.spotify.com/track/0BYFyT7cyrW02iepYptA2L) | [Tal Wilkenfeld](https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu) | [Transformation](https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS) | 6:25 |
 | 26 | [Cosmic Underground](https://open.spotify.com/track/35vrAaOvThXxvHwpbwrmng) | [Adam Nitti](https://open.spotify.com/artist/5yecObE3qSrDT0Tz6JBQxR) | [Not of This World](https://open.spotify.com/album/4C87JqBspjnIVCAFqq5JoY) | 6:37 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 80 | [The Bridge](https://open.spotify.com/track/4MeTCgjEEXhmcl04NHQY8L) | [Fernando Petry](https://open.spotify.com/artist/4caKiGVGFoxstzqzZixP0G) | [The Bridge](https://open.spotify.com/album/4HwqcDTXtZSK9GzyKvihdI) | 2:58 |
 | 81 | [Twilight \- Radio Edit](https://open.spotify.com/track/5cKoSv9uuKyRYb1rWa665T) | [Mitchell Coleman Jr](https://open.spotify.com/artist/0LDxl2T9yhlXFXVq4DAS6b) | [Twilight](https://open.spotify.com/album/5o1AgueoytBvJOnvd62Gi3) | 4:24 |
 
-Snapshot ID: `MTY4MTEzOTM4NSwwMDAwMDAwMDIwNTQzYTQyNTQzYTdmN2JmZGU1NzQxOTlmZTRiNTRi`
+Snapshot ID: `MTY4MTEzOTM4NSwwMDAwMDAwMDIzOTczZGIxMzg1MWU4MDdlODg0MjRlMjQ3ZTlmY2Ey`

@@ -5922,10 +5922,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 262957,
       "name": "I'll Be Waiting",
       "url": "https://open.spotify.com/track/0qLNIVGcEf7iq0fPMCJDCP"
+    },
+    {
+      "album": {
+        "name": "Bitter End",
+        "url": "https://open.spotify.com/album/4YK3WiVwu6Ya40erAVlC1V"
+      },
+      "artists": [
+        {
+          "name": "The Violent",
+          "url": "https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262957,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/5vgm295Dbcs3iL2dAMWmWl"
     },
     {
       "album": {
@@ -9482,6 +9500,24 @@
       "duration_ms": 223875,
       "name": "Repent",
       "url": "https://open.spotify.com/track/2QkGCfsLjFmOyTXqraOoZN"
+    },
+    {
+      "album": {
+        "name": "Rescued",
+        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258648,
+      "name": "Rescued",
+      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Brett Young, Megan Moroney, Parker McCollum and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,116 likes - 64 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,274 likes - 64 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

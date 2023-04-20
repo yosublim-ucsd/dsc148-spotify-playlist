@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Caramelo Haze en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,310 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,332 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 58 | [Futurista](https://open.spotify.com/track/5LTW5ofKF8dds0J4zMw6ZW) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Tamburo Infinito](https://open.spotify.com/album/2BOs7EIE8UdyDdv1MFPvmv) | 2:59 |
 | 59 | [Glorieta](https://open.spotify.com/track/0dARdGOhNNCNf8y4fubUwV) | [Dos Santos](https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP) | [City of Mirrors](https://open.spotify.com/album/3W9U1PYHL85h599ZUMBBQR) | 2:28 |
 | 60 | [Todo el Día en la Cama](https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Sorpresa](https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2) | 4:16 |
-| 61 | [Hoy Como Siempre](https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Camino al Mar](https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G) | 4:12 |
-| 62 | [Alma Seca](https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:51 |
+| 61 | [Alma Seca](https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:51 |
+| 62 | [Hoy Como Siempre](https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0) | [Acid Coco](https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW) | [Camino al Mar](https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G) | 4:12 |
 | 63 | [Diablo](https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Diablo](https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI) | 2:52 |
 | 64 | [Contra la Corriente](https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Madremonte](https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl) | 4:23 |
 | 65 | [Dilo Como Yo \(Te Están Llamando\)](https://open.spotify.com/track/3tz4X9gO0l6lOoh4ZvK7xg) | [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Manifest Tone EP](https://open.spotify.com/album/71r1Tt7DmwZejC8ONXC1k5) | 4:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 74 | [Cucu](https://open.spotify.com/track/3yEKNpbidJe62qYAmR6YvJ) | [Gotopo](https://open.spotify.com/artist/0rmwkyTOL6DJ3GISXikmUF), [Don Elektron](https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2) | [Cucu](https://open.spotify.com/album/4FcpN9Cb9g8RWeQFY1LcZc) | 1:52 |
 | 75 | [Towards The Mountain](https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5) | 3:20 |
 
-Snapshot ID: `MTY4MTQzNTM3NywwMDAwMDAwMDg2NDM5NWJkOWQ1ZWZmN2E1NzZhMDEwMjlmYzIyZDQx`
+Snapshot ID: `MTY4MTQzNTM3NywwMDAwMDAwMDNhYTI2ZmQ4MDNkOTQxNjI3MzQ5YTBkOGU3MmY1MmE2`

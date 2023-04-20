@@ -1,12 +1,12 @@
 {
   "description": "Keep your run going with these upbeat rock tracks.",
-  "num_followers": 559783,
+  "num_followers": 560106,
   "original_name": "Rock 'n' Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTUwMTI1MywwMDAwMDAwMDJkZjQ2OGUyNTAzOTViMjk1NjQxNWM0OGE0ZmFmZGZh",
+  "snapshot_id": "MTY3OTUwMTI1MywwMDAwMDAwMDU0ZThhNWJmM2M1NjY4NjA2NGEwMTEzOTYyMGE1MTVk",
   "tracks": [
     {
       "added_at": "2023-03-07 16:54:09",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-03-07 16:54:09",
       "album": {
-        "name": "Get Behind Me Satan",
-        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 157560,
-      "name": "Blue Orchid",
-      "url": "https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"
-    },
-    {
-      "added_at": "2023-03-07 16:54:09",
-      "album": {
         "name": "What Separates Me From You",
         "url": "https://open.spotify.com/album/6I2SUr0MolRUiDEcZAbSWm"
       },
@@ -281,7 +265,23 @@
       "url": "https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r"
     },
     {
-      "added_at": "2023-04-19 00:45:09",
+      "added_at": "2023-03-07 16:54:09",
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 157560,
+      "name": "Blue Orchid",
+      "url": "https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"
+    },
+    {
+      "added_at": "2023-04-20 00:46:46",
       "album": {
         "name": "Billy Talent II",
         "url": "https://open.spotify.com/album/0cTOvcvrbNiaiv4WXEUHzT"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/717oSBYrcR8awQgUsmyE32"
     },
     {
-      "added_at": "2023-04-19 00:45:09",
+      "added_at": "2023-04-20 00:46:46",
       "album": {
         "name": "Heartbreak Feels So Good",
         "url": "https://open.spotify.com/album/5GwtecGz0FCy9onGWtrVRS"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/454I78HEySdcHE8fcVabTb"
     },
     {
-      "added_at": "2023-04-19 00:45:09",
+      "added_at": "2023-04-20 00:46:46",
       "album": {
         "name": "Left Behind",
         "url": "https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM"
@@ -409,22 +409,6 @@
       "url": "https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF"
     },
     {
-      "added_at": "2023-04-19 00:45:09",
-      "album": {
-        "name": "Told You So",
-        "url": "https://open.spotify.com/album/3nHIAlyLTzvncWhTwE5TcY"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 171322,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/0xfMFT9G8Ekk7CEYtVabIm"
-    },
-    {
       "added_at": "2023-03-07 16:54:09",
       "album": {
         "name": "Commit This To Memory",
@@ -439,6 +423,22 @@
       "duration_ms": 207633,
       "name": "Everything Is Alright",
       "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
+    },
+    {
+      "added_at": "2023-04-20 00:46:46",
+      "album": {
+        "name": "Told You So",
+        "url": "https://open.spotify.com/album/3nHIAlyLTzvncWhTwE5TcY"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 171322,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/0xfMFT9G8Ekk7CEYtVabIm"
     },
     {
       "added_at": "2023-03-07 16:54:09",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-03-07 16:54:09",
       "album": {
-        "name": "WALLS",
-        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 245573,
-      "name": "Find Me",
-      "url": "https://open.spotify.com/track/2mwnYvlLVP465u9V9wjUGj"
-    },
-    {
-      "added_at": "2023-03-07 16:54:09",
-      "album": {
         "name": "only wanna dance",
         "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 144391,
       "name": "only wanna dance",
       "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "added_at": "2023-03-07 16:54:09",
+      "album": {
+        "name": "WALLS",
+        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 245573,
+      "name": "Find Me",
+      "url": "https://open.spotify.com/track/2mwnYvlLVP465u9V9wjUGj"
     },
     {
       "added_at": "2023-03-07 16:54:09",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-03-07 16:54:09",
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 198493,
-      "name": "The Hell Song",
-      "url": "https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D"
-    },
-    {
-      "added_at": "2023-03-07 16:54:09",
-      "album": {
         "name": "Hypersonic Missiles",
         "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 332413,
       "name": "The Borders",
       "url": "https://open.spotify.com/track/4hui0bX1Bv89yg1BTsz4NU"
+    },
+    {
+      "added_at": "2023-03-07 16:54:09",
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2kLmv0O8blKeM5HKxLtQrC"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 198493,
+      "name": "The Hell Song",
+      "url": "https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D"
     },
     {
       "added_at": "2023-03-07 16:54:09",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-03-07 16:54:09",
       "album": {
-        "name": "Tyrannosaurus Hives",
-        "url": "https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 120506,
-      "name": "Two-Timing Touch and Broken Bones",
-      "url": "https://open.spotify.com/track/5F7AoCwgftgUdGUgd57RVE"
-    },
-    {
-      "added_at": "2023-03-07 16:54:09",
-      "album": {
         "name": "YOUNG&DANGEROUS",
         "url": "https://open.spotify.com/album/1mFRTnYk72zZfVk7l25G3g"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 178115,
       "name": "Body Talks",
       "url": "https://open.spotify.com/track/6spaGIZEfeDYlgAupMI34k"
+    },
+    {
+      "added_at": "2023-03-07 16:54:09",
+      "album": {
+        "name": "Tyrannosaurus Hives",
+        "url": "https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 120506,
+      "name": "Two-Timing Touch and Broken Bones",
+      "url": "https://open.spotify.com/track/5F7AoCwgftgUdGUgd57RVE"
     },
     {
       "added_at": "2023-03-07 16:54:09",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-03-07 16:54:09",
       "album": {
-        "name": "Figure Eight",
-        "url": "https://open.spotify.com/album/6f6A2AiUD0r3HVygTAFgez"
-      },
-      "artists": [
-        {
-          "name": "Trophy Eyes",
-          "url": "https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI"
-        }
-      ],
-      "duration_ms": 201556,
-      "name": "Figure Eight",
-      "url": "https://open.spotify.com/track/70nKt5OKAbXwlRrKsrf1oq"
-    },
-    {
-      "added_at": "2023-03-07 16:54:09",
-      "album": {
         "name": "SUCKAPUNCH",
         "url": "https://open.spotify.com/album/0S9IWlmYkM6ULSB1BExd5t"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 225786,
       "name": "Beautiful Way",
       "url": "https://open.spotify.com/track/3SevJWsbqUOpfPOpRZGrP9"
+    },
+    {
+      "added_at": "2023-03-07 16:54:09",
+      "album": {
+        "name": "Figure Eight",
+        "url": "https://open.spotify.com/album/6f6A2AiUD0r3HVygTAFgez"
+      },
+      "artists": [
+        {
+          "name": "Trophy Eyes",
+          "url": "https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI"
+        }
+      ],
+      "duration_ms": 201556,
+      "name": "Figure Eight",
+      "url": "https://open.spotify.com/track/70nKt5OKAbXwlRrKsrf1oq"
     },
     {
       "added_at": "2023-03-07 16:54:09",

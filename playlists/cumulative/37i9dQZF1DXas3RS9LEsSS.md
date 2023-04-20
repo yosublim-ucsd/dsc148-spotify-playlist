@@ -4,7 +4,7 @@
 
 > The best of Latin blues\. Cover: Carlos Santana
 
-76 songs - 5 hr 11 min
+77 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,8 @@
 | [The King of The Latin Blues \(feat\. Steve Hunter & Bobby Alexander\)](https://open.spotify.com/track/29ovCP4ChViCwSYWYO9TuD) | [Vargas Blues Band](https://open.spotify.com/artist/3K6ueahyMBq96ZtDjo9LSn), [Steve Hunter](https://open.spotify.com/artist/3wueKF9YNupBFRjQfWoyAc), [Bobby Alexander](https://open.spotify.com/artist/4ZmSudkqArrYnDIrQmWi4l) | [King of Latin Blues](https://open.spotify.com/album/5KHZUTEVbbXX4TJtlROycP) | 4:31 | 2020-12-01 |  |
 | [Titi](https://open.spotify.com/track/2392zYNyihl8NVJfCcqT09) | [La Banda del Capitan Corneta](https://open.spotify.com/artist/77AlmICl9sl7wXBJmC4V08) | [Historias de un Hijo del Blues](https://open.spotify.com/album/4TfcvHpBXCh6jZJsq0SuTO) | 2:24 | 2020-12-01 |  |
 | [Todo Mal](https://open.spotify.com/track/2X1zXfkUGFHq3D7Fl9T37E) | [Don Vilanova Botafogo](https://open.spotify.com/artist/74iLgy7TMiwthOGMfGob53), [La Rata Bluesera](https://open.spotify.com/artist/2lbnuoTiUF2WUqQ4YAQsyn), [Gonzalo Araya](https://open.spotify.com/artist/00ua8zSEXT7dVLjI1P4o2G) | [Patas Negras](https://open.spotify.com/album/7Jz4V8qexPjZbT3TvQ4fai) | 4:20 | 2020-12-01 |  |
-| [Todo Va a Arder \(En vivo en Sesiones de Bar\)](https://open.spotify.com/track/5kZxky7iciP3kEKn8nPlm9) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Todo Va a Arder \(En vivo en Sesiones de Bar\)](https://open.spotify.com/album/2UZFC1cuAbXrc4HO8OKkY1) | 4:15 | 2021-07-02 |  |
+| [Todo Va a Arder \(En vivo en Sesiones de Bar\)](https://open.spotify.com/track/5kZxky7iciP3kEKn8nPlm9) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Todo Va a Arder \(En vivo en Sesiones de Bar\)](https://open.spotify.com/album/2UZFC1cuAbXrc4HO8OKkY1) | 4:15 | 2021-07-02 | 2023-04-20 |
+| [Todo Va a Arder \- \(en Vivo En Sesiones De Bar\)](https://open.spotify.com/track/1agDiStocrfsSya5Jgw4lx) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Sesiones de Bar \(En Vivo\) \[en Vivo En Sesiones De Bar\]](https://open.spotify.com/album/162BkJqCubZjEZGe8bwHZM) | 4:15 | 2021-07-02 |  |
 | [Trato de hacer blues](https://open.spotify.com/track/1XEANKLQHjtulQRj28X60i) | [El Cruce](https://open.spotify.com/artist/7qaHFNFCjcXpsHQM5NQhaK) | [10 años de Blues Criollo \(Vol\. 1\)](https://open.spotify.com/album/7gqryZPanv9wQMNrIxBAYU) | 5:49 | 2020-12-01 |  |
 | [Two Dogs And A Bone](https://open.spotify.com/track/2VMbwC4YyE9Y58bE5gg3pV) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [The Town and The City](https://open.spotify.com/album/5gYSTafJAtxEqWXJPzylpH) | 2:25 | 2020-12-01 |  |
 | [Témpano de Hielo](https://open.spotify.com/track/101jHksIr05Ir0cKcpyKpw) | [Magnolia Blues Rock](https://open.spotify.com/artist/5jLFKI49IUfPb9fT7rrc5j) | [Magnolia](https://open.spotify.com/album/165s9omOoI3IYG7SX7osuq) | 3:13 | 2020-12-01 |  |

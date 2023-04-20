@@ -1,12 +1,12 @@
 {
   "description": "It's like rock, but softer. Cover: Fleetwood Mac",
-  "num_followers": 3582218,
+  "num_followers": 3582351,
   "original_name": "Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTUxMTQzNiwwMDAwMDAwMGFmMGM0OTk3ZTFkZTcyOGRjNDNmNWFhZWNlNWE1Njdi",
+  "snapshot_id": "MTY3OTUxMTQzNiwwMDAwMDAwMGZkZjYyZTMxZDkyYzE0NDljZWEzZTg4MjIzN2Y1MDQw",
   "tracks": [
     {
       "added_at": "2023-03-20 17:07:41",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Nicolette",
-        "url": "https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu"
-      },
-      "artists": [
-        {
-          "name": "Nicolette Larson",
-          "url": "https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw"
-        }
-      ],
-      "duration_ms": 191773,
-      "name": "Lotta Love",
-      "url": "https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "French Kiss",
         "url": "https://open.spotify.com/album/5YQsoNZvxTZKqsJ2Y7fQjJ"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 178693,
       "name": "Sentimental Lady",
       "url": "https://open.spotify.com/track/478thMMvYGris8eJPcDRoq"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Nicolette",
+        "url": "https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu"
+      },
+      "artists": [
+        {
+          "name": "Nicolette Larson",
+          "url": "https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw"
+        }
+      ],
+      "duration_ms": 191773,
+      "name": "Lotta Love",
+      "url": "https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "CSN",
-        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 285706,
-      "name": "Dark Star",
-      "url": "https://open.spotify.com/track/40lm5PFVQopOYaIXmyWNS9"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Time Passages",
         "url": "https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 403040,
       "name": "Time Passages",
       "url": "https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 285706,
+      "name": "Dark Star",
+      "url": "https://open.spotify.com/track/40lm5PFVQopOYaIXmyWNS9"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Night Owl",
-        "url": "https://open.spotify.com/album/6Xs4APmiDQ4IpqOqzKv0Yh"
-      },
-      "artists": [
-        {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
-        }
-      ],
-      "duration_ms": 282040,
-      "name": "Get It Right Next Time",
-      "url": "https://open.spotify.com/track/0o3HJmXnQPRX4jymsmk3sS"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/7ghZpirxJtjGt4QzPtnkqT"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 193866,
       "name": "Sweet Seasons",
       "url": "https://open.spotify.com/track/2CQhvHR4xM8uyAKwZYCaJx"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Night Owl",
+        "url": "https://open.spotify.com/album/6Xs4APmiDQ4IpqOqzKv0Yh"
+      },
+      "artists": [
+        {
+          "name": "Gerry Rafferty",
+          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
+        }
+      ],
+      "duration_ms": 282040,
+      "name": "Get It Right Next Time",
+      "url": "https://open.spotify.com/track/0o3HJmXnQPRX4jymsmk3sS"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "This Night Won't Last Forever",
-        "url": "https://open.spotify.com/album/25h67pU7Dl8JlUYuvtVoue"
-      },
-      "artists": [
-        {
-          "name": "Bill LaBounty",
-          "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
-        }
-      ],
-      "duration_ms": 265640,
-      "name": "This Night Won't Last Forever",
-      "url": "https://open.spotify.com/track/3KH39R9cO3ZWN6hqRbTKM3"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Andrew Gold",
         "url": "https://open.spotify.com/album/3sZTuB8dgXYcVPeLvwWfcJ"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 190760,
       "name": "That's Why I Love You",
       "url": "https://open.spotify.com/track/5SY02PzNZUfrWUF4ujG4Mz"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "This Night Won't Last Forever",
+        "url": "https://open.spotify.com/album/25h67pU7Dl8JlUYuvtVoue"
+      },
+      "artists": [
+        {
+          "name": "Bill LaBounty",
+          "url": "https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO"
+        }
+      ],
+      "duration_ms": 265640,
+      "name": "This Night Won't Last Forever",
+      "url": "https://open.spotify.com/track/3KH39R9cO3ZWN6hqRbTKM3"
     },
     {
       "added_at": "2023-03-20 17:07:41",

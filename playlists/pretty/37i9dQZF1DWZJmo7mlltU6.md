@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: d4vd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,197 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,246 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 68 | [reveal yourself](https://open.spotify.com/track/2l0Z6SnVuMcxsdLbmYhp6q) | [NOIA](https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA) | [reveal yourself](https://open.spotify.com/album/27kCLaEltnQOsrMD3QR4aq) | 3:10 |
 | 69 | [Feelin' Blue](https://open.spotify.com/track/1znjrRlUdy0gX9QHaKxl4s) | [BALTHVS](https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG) | [Feelin' Blue](https://open.spotify.com/album/4oxe0AOtP6xJCqOStvzD4v) | 3:54 |
 | 70 | [All Night Long](https://open.spotify.com/track/6veDfkluTetAypC3SffZwr) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO) | [Volume 2](https://open.spotify.com/album/0Nmzcz93BpG0Guc9mAd0qi) | 3:43 |
-| 71 | [Outplayed](https://open.spotify.com/track/6LijFAnGX1XF93ufTgVgIE) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Christine Cuare](https://open.spotify.com/artist/3F8V2hgLg4jVkRlZ3BRsnt) | [Outplayed](https://open.spotify.com/album/2pyWphlMKiZA7GMRkfiitk) | 3:12 |
+| 71 | [Outplayed](https://open.spotify.com/track/5ri8WSEiMS8zQR4YBpHXqu) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Christine Cuare](https://open.spotify.com/artist/3F8V2hgLg4jVkRlZ3BRsnt) | [Outplayed](https://open.spotify.com/album/660Pj8Kvn7QPrP19JFhUzk) | 3:12 |
 | 72 | [Demasiada velocidad](https://open.spotify.com/track/3DvtwdsEPyu2Cqz4IPbKxP) | [Maīa](https://open.spotify.com/artist/3DcBIxPLJt5OOCsATJe4qB) | [Demasiada velocidad](https://open.spotify.com/album/7EItaNyfMy1wLgFxCVghbZ) | 3:19 |
 | 73 | [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 |
 | 74 | [Go](https://open.spotify.com/track/7KsJL2oqJWXJ8pbnVc5yND) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Go](https://open.spotify.com/album/63ivUbYvqKIaYh8OQJ7EaN) | 3:50 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 98 | [Galatea](https://open.spotify.com/track/6DpzJLvpEoQ8JHYBT7UFqO) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/5knaY5eUPXeY51TN6lyUIG) | 3:46 |
 | 99 | [Al Cien](https://open.spotify.com/track/1vxa13KTCbsGFavA6WFywz) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Al Cien](https://open.spotify.com/album/0APusMWyvY7kRnM3ROoOBm) | 2:57 |
 
-Snapshot ID: `MTY4MTQ1MjAwMCwwMDAwMDAwMDQ0NjE0N2U1ZDJiOTUwMzE2NzY3NGFlYmNhMmRkNmI5`
+Snapshot ID: `MTY4MTQ1MjAwMCwwMDAwMDAwMDlkZjBlNzcyNDFjOTc5MDBhZDExNDZkMWQwNzZjZTgx`

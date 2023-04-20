@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 
 > Music that created modern indie as we know it\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,530 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,988 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9LbdoYID5v7.md) - [plain]
 | 69 | [Wraith Pinned to the Mist and Other Games](https://open.spotify.com/track/0Ensfv1iBDcsOF6xNok14N) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [The Sunlandic Twins](https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE) | 4:15 |
 | 70 | [Crystalised](https://open.spotify.com/track/33R3swWziWYmnDYvZqcZVS) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 3:21 |
 | 71 | [We Used To Be Friends](https://open.spotify.com/track/7hpFYWL3cw5m4y70cce7Zb) | [The Dandy Warhols](https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod) | [Welcome To The Monkey House](https://open.spotify.com/album/2SS8nVmmgJqJhRuYGboIOx) | 3:19 |
-| 72 | [People Say](https://open.spotify.com/track/0WTq8iUzSlGDAbowEdRKKD) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [The Satanic Satanist](https://open.spotify.com/album/72uoxpSaDs7keunx3LbvrX) | 2:59 |
-| 73 | [L.E.S\. Artistes](https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:24 |
+| 72 | [L.E.S\. Artistes](https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb) | [Santigold](https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p) | [Santigold](https://open.spotify.com/album/4yATru0hY3VgRHSreswbGj) | 3:24 |
+| 73 | [People Say](https://open.spotify.com/track/0WTq8iUzSlGDAbowEdRKKD) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [The Satanic Satanist](https://open.spotify.com/album/72uoxpSaDs7keunx3LbvrX) | 2:59 |
 | 74 | [The Sound of Settling](https://open.spotify.com/track/0PTYTZvNNtlvdOwWRYrbfC) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf) | 2:12 |
 | 75 | [Ready For The Floor](https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Made In The Dark](https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ) | 3:54 |
 
-Snapshot ID: `MTY3NzkwODEwOSwwMDAwMDAwMDdhMTFiMzFhMDRlMWFhZDI0NjFkOTVmNjUxMzZkMTlk`
+Snapshot ID: `MTY3NzkwODEwOSwwMDAwMDAwMDk4YTE2YmI4MDhjNDZkZTQ4NTk4ZmJjOTE4ZTY1ZTg0`

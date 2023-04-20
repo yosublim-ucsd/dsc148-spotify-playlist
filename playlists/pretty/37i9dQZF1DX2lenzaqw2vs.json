@@ -1,12 +1,12 @@
 {
   "description": "LGBTQIA+ artists que brillan e inspiran.\nCover: Ptazeta",
-  "num_followers": 127084,
+  "num_followers": 127115,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDFjYzUxYmMzNmU4MDgzZTk4ODEyNmIyYjU1ZWQ2N2Fh",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGM3N2VmNGU4MmYzYzZkNzdjZWFlYTg5NjJiMjM4ZjM3",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Bellakosa",
+        "url": "https://open.spotify.com/album/5tUZWuzaD4vnLJRnH5zxPc"
+      },
+      "artists": [
+        {
+          "name": "Sailorfag",
+          "url": "https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Bellakosa",
+      "url": "https://open.spotify.com/track/3zmjT7DVb5s01CC8Iy8BlN"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Voy en Auto",
         "url": "https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 178686,
       "name": "Voy en Auto",
       "url": "https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Bellakosa",
-        "url": "https://open.spotify.com/album/5tUZWuzaD4vnLJRnH5zxPc"
-      },
-      "artists": [
-        {
-          "name": "Sailorfag",
-          "url": "https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Bellakosa",
-      "url": "https://open.spotify.com/track/3zmjT7DVb5s01CC8Iy8BlN"
     },
     {
       "added_at": "2023-04-14 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Bonitas, orgullosas y empoderadas, as\u00ed somos las se\u00f1oras.",
-  "num_followers": 226452,
+  "num_followers": 226620,
   "original_name": "Modo Se\u00f1ora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Mjk4NjM1MCwwMDAwMDAwMGM1ZTlmOWE3ZWE3NjBjNjM4YjQ0ODBlZDgxZDVhNjYy",
+  "snapshot_id": "MTY3Mjk4NjM1MCwwMDAwMDAwMDczOTk4ZDM5OWIyM2JlOWUzNDQ5NGYyYzY0Mzc3MmJh",
   "tracks": [
     {
       "added_at": "2021-05-21 05:04:59",
@@ -137,22 +137,6 @@
       "url": "https://open.spotify.com/track/4Ofg5uuH7qqDIXpAJMpXZV"
     },
     {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
-        "name": "Stop",
-        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 238160,
-      "name": "T\u00fa de Qu\u00e9 Vas",
-      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
-    },
-    {
       "added_at": "2022-05-10 02:03:57",
       "album": {
         "name": "Prometo",
@@ -167,6 +151,22 @@
       "duration_ms": 253760,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 238160,
+      "name": "T\u00fa de Qu\u00e9 Vas",
+      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-05-10 02:03:57",
       "album": {
-        "name": "La Historia Contin\u00faa...Parte IV",
-        "url": "https://open.spotify.com/album/6ziRoYI3rWu4TOAUeIJuNO"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 286973,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/3l1ZanpJ3jFQZMqATizqfE"
-    },
-    {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
         "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
         "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 288893,
       "name": "\u00a1Corre!",
       "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
+    },
+    {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "La Historia Contin\u00faa...Parte IV",
+        "url": "https://open.spotify.com/album/6ziRoYI3rWu4TOAUeIJuNO"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 286973,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/3l1ZanpJ3jFQZMqATizqfE"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -441,20 +441,20 @@
       "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
     },
     {
-      "added_at": "2021-05-21 05:04:59",
+      "added_at": "2022-05-10 02:03:57",
       "album": {
-        "name": "Canta Trovador",
-        "url": "https://open.spotify.com/album/5N2NkUNtknVxG1BtWy45U8"
+        "name": "Escucha",
+        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
       },
       "artists": [
         {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 187173,
-      "name": "Te He Prometido",
-      "url": "https://open.spotify.com/track/7Et3UkjbCjRhRaACPBXRQg"
+      "duration_ms": 236613,
+      "name": "V\u00edveme",
+      "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -473,20 +473,20 @@
       "url": "https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei"
     },
     {
-      "added_at": "2022-05-10 02:03:57",
+      "added_at": "2021-05-21 05:04:59",
       "album": {
-        "name": "Escucha",
-        "url": "https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL"
+        "name": "Canta Trovador",
+        "url": "https://open.spotify.com/album/5N2NkUNtknVxG1BtWy45U8"
       },
       "artists": [
         {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
         }
       ],
-      "duration_ms": 236613,
-      "name": "V\u00edveme",
-      "url": "https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE"
+      "duration_ms": 187173,
+      "name": "Te He Prometido",
+      "url": "https://open.spotify.com/track/7Et3UkjbCjRhRaACPBXRQg"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -759,22 +759,6 @@
     {
       "added_at": "2021-05-21 05:04:59",
       "album": {
-        "name": "Cosas De Enamorados",
-        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 222946,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
-    },
-    {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
         "name": "Coleccion Suprema",
         "url": "https://open.spotify.com/album/3CxDiBxX6u10UpaRnYeKSx"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 234320,
       "name": "Maldita Primavera",
       "url": "https://open.spotify.com/track/3GUyiFEglEm9rSToOf5YZW"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Cosas De Enamorados",
+        "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 222946,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/5KSwwf96ITyukZpWfazLzS"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -823,22 +823,6 @@
     {
       "added_at": "2021-05-21 05:04:59",
       "album": {
-        "name": "Pimpinela",
-        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
-      },
-      "artists": [
-        {
-          "name": "Pimpinela",
-          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Olv\u00eddame y Pega la Vuelta",
-      "url": "https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu"
-    },
-    {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
         "name": "Flor De Piel",
         "url": "https://open.spotify.com/album/4jVhCAGCEhQUyXrMD4owlU"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 283133,
       "name": "Hacer El Amor Con Otro",
       "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Pimpinela",
+        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
+      },
+      "artists": [
+        {
+          "name": "Pimpinela",
+          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Olv\u00eddame y Pega la Vuelta",
+      "url": "https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -941,22 +941,6 @@
       "url": "https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38"
     },
     {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
-        "name": "Bajo El Signo De Ca\u00edn",
-        "url": "https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 278293,
-      "name": "Si t\u00fa no vuelves",
-      "url": "https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG"
-    },
-    {
       "added_at": "2021-05-21 05:04:59",
       "album": {
         "name": "Chayanne",
@@ -971,6 +955,22 @@
       "duration_ms": 285066,
       "name": "Y T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
+    },
+    {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "Bajo El Signo De Ca\u00edn",
+        "url": "https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Si t\u00fa no vuelves",
+      "url": "https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -1021,22 +1021,6 @@
       "url": "https://open.spotify.com/track/65e7BhKBuKYl6UfCzYVRGT"
     },
     {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
-        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
-        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "Amores extra\u00f1os - Versi\u00f3n 2001",
-      "url": "https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK"
-    },
-    {
       "added_at": "2021-05-21 05:04:59",
       "album": {
         "name": "Libre",
@@ -1051,6 +1035,22 @@
       "duration_ms": 240933,
       "name": "Mirala Miralo",
       "url": "https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg"
+    },
+    {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
+        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "Amores extra\u00f1os - Versi\u00f3n 2001",
+      "url": "https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -1071,22 +1071,6 @@
       "duration_ms": 244262,
       "name": "La mujer que bota fuego (feat. Natalia Jim\u00e9nez)",
       "url": "https://open.spotify.com/track/6w6EINTodc8j0TWtrWHdm2"
-    },
-    {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        }
-      ],
-      "duration_ms": 261360,
-      "name": "Amante Bandido",
-      "url": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -1123,6 +1107,38 @@
     {
       "added_at": "2021-05-21 05:04:59",
       "album": {
+        "name": "Frente a ti",
+        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "Mi error, mi fantas\u00eda",
+      "url": "https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE"
+    },
+    {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/29QmPdVjXD0c5DpS4U51di"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        }
+      ],
+      "duration_ms": 261360,
+      "name": "Amante Bandido",
+      "url": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
         "name": "Canto Por Ti",
         "url": "https://open.spotify.com/album/0FhBt22SV28wg41ecDy1RO"
       },
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2021-05-21 05:04:59",
       "album": {
-        "name": "Frente a ti",
-        "url": "https://open.spotify.com/album/56NsyR1PkXMsHRhkENdODk"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 228146,
-      "name": "Mi error, mi fantas\u00eda",
-      "url": "https://open.spotify.com/track/4fQgdmcUMqmlhhSjQdMHTE"
-    },
-    {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
         "name": "Volcan",
         "url": "https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry"
       },
@@ -1167,6 +1167,22 @@
       "duration_ms": 285360,
       "name": "Volc\u00e1n",
       "url": "https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Solo Exitos",
+        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 312560,
+      "name": "Todo Se Derrumb\u00f3 Dentro de M\u00ed",
+      "url": "https://open.spotify.com/track/4hWUYwFwJKpu4o49Gon76Z"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -1187,50 +1203,34 @@
     {
       "added_at": "2021-05-21 05:04:59",
       "album": {
-        "name": "15 \u00c9xitos de Marisela Vol. 2",
-        "url": "https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn"
+        "name": "Personalidad",
+        "url": "https://open.spotify.com/album/7KvMyEYFd70S7ywbxhzleY"
       },
       "artists": [
         {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+          "name": "Pimpinela",
+          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
         }
       ],
-      "duration_ms": 215733,
-      "name": "A Cambio de Que",
-      "url": "https://open.spotify.com/track/1iJZqqaAWseXEzCkSW1UI2"
+      "duration_ms": 188106,
+      "name": "A Esa",
+      "url": "https://open.spotify.com/track/42QWOsW1f9uDu9zsoUAE73"
     },
     {
-      "added_at": "2021-05-21 05:04:59",
+      "added_at": "2022-05-10 02:03:57",
       "album": {
-        "name": "Solo Exitos",
-        "url": "https://open.spotify.com/album/5b01rzpRKnF0NZXgdcgcA1"
+        "name": "Vida Loca",
+        "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
       },
       "artists": [
         {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+          "name": "Francisco C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8"
         }
       ],
-      "duration_ms": 312560,
-      "name": "Todo Se Derrumb\u00f3 Dentro de M\u00ed",
-      "url": "https://open.spotify.com/track/4hWUYwFwJKpu4o49Gon76Z"
-    },
-    {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Aunque Sea En Otra Vida",
-      "url": "https://open.spotify.com/track/6Uw2O0FMnJhllxedN4bWSn"
+      "duration_ms": 250146,
+      "name": "Remolino",
+      "url": "https://open.spotify.com/track/0ACbLwjYUehkGVVFYKPYNQ"
     }
   ],
   "unique_name": "Modo Se\u00f1ora",

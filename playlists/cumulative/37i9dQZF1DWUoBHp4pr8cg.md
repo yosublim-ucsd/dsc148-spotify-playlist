@@ -4,7 +4,7 @@
 
 > Only the hottest Hip Hop from Don Toliver, AKA, Drake, K.O and more...
 
-191 songs - 10 hr 24 min
+192 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 | 2022-04-08 | 2022-11-04 |
 | [Look Ma I Did It](https://open.spotify.com/track/0JvnmNjMnTQMRizhrKzMSO) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Baby Racks](https://open.spotify.com/artist/768KV6PLzzcqy1CRCMFUNW) | [Look Ma I Did It](https://open.spotify.com/album/6anFwVV3gBuCNINmz4Vnvz) | 3:27 | 2022-09-01 | 2022-10-28 |
 | [Love In The Way](https://open.spotify.com/track/3fWchdm3NfLb4licNeIhV7) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Love In The Way](https://open.spotify.com/album/4sc3Nc9o5sCni7SCPsKE4t) | 3:41 | 2022-09-19 | 2022-11-04 |
-| [Love Scars](https://open.spotify.com/track/6nO5HmTkUcYKg0pjDjkk2P) | [rancvh](https://open.spotify.com/artist/1LKc7p6gXDSI5pG4kpNq10), [vicodin](https://open.spotify.com/artist/2GVjcFYlgAO6OCfZwL2H3b) | [Love Scars](https://open.spotify.com/album/7FoyXq34g4TgIpL7E5kqa2) | 2:22 | 2023-03-22 |  |
+| [Love Scars](https://open.spotify.com/track/6nO5HmTkUcYKg0pjDjkk2P) | [rancvh](https://open.spotify.com/artist/1LKc7p6gXDSI5pG4kpNq10), [vicodin](https://open.spotify.com/artist/2GVjcFYlgAO6OCfZwL2H3b) | [Love Scars](https://open.spotify.com/album/7FoyXq34g4TgIpL7E5kqa2) | 2:22 | 2023-03-22 | 2023-04-20 |
+| [Love Scars](https://open.spotify.com/track/2zQUzM4ZpUXpqp6CjWJuP4) | [Saint Bandz](https://open.spotify.com/artist/72UY8MsiTbxAnwK5qhhIA5) | [Love Scars](https://open.spotify.com/album/0X6fLLlCijtfRjx98Vr7uf) | 2:22 | 2023-04-11 |  |
 | [Love Scars](https://open.spotify.com/track/5WoBXa945fS87d083cSkrs) | [Saint Bandz](https://open.spotify.com/artist/72UY8MsiTbxAnwK5qhhIA5) | [Love Scars](https://open.spotify.com/album/6stEDqUbk8tmzltAYHqGeO) | 2:22 | 2023-03-06 | 2023-04-07 |
 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 | 2023-02-23 | 2023-03-07 |
 | [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 | 2022-11-04 | 2022-12-13 |

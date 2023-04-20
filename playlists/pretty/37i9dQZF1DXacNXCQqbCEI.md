@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,763 likes - 60 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,876 likes - 60 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 16 | [Jardines](https://open.spotify.com/track/4ayZ9j0dnWDHAND8gndD6X) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/2XJlMNLjYOr31TTFd21GED) | 4:46 |
 | 17 | [Ahora](https://open.spotify.com/track/6W19LhykJsHs6R93DtCP4F) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Aire](https://open.spotify.com/album/3ubY132O5YHYoxn65Vh72T) | 4:33 |
 | 18 | [Sonic Forest \(Déjame Respirar\)](https://open.spotify.com/track/6hreQzJujmQLr88N0fTLO3) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8) | [Sonic Forest](https://open.spotify.com/album/0ImFvq53ujOAdclMey4dd6) | 2:49 |
-| 19 | [Pájaro Cenzontle](https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:40 |
-| 20 | [Sakoneta](https://open.spotify.com/track/3rTdacXE78kylGPegwCc3B) | [Yeahman](https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA) | [Ostriconi](https://open.spotify.com/album/3SMp3cqUcv5x0GtKVyMAxd) | 4:45 |
+| 19 | [Sakoneta](https://open.spotify.com/track/3rTdacXE78kylGPegwCc3B) | [Yeahman](https://open.spotify.com/artist/2IB9PgY9PMJklQlRQHDntA) | [Ostriconi](https://open.spotify.com/album/3SMp3cqUcv5x0GtKVyMAxd) | 4:45 |
+| 20 | [Pájaro Cenzontle](https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:40 |
 | 21 | [Chapinero](https://open.spotify.com/track/004JVePzMr05q3vP462QPa) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP) | [Bennu](https://open.spotify.com/album/7HK4h1JygKYGRCYcdfOMlo) | 3:42 |
 | 22 | [Quema](https://open.spotify.com/track/451jovfIdTRSHwdcRXfmDr) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Orígenes](https://open.spotify.com/album/6gRNWVhhibYkhLxpIemENH) | 3:26 |
 | 23 | [Serpiente Dorada](https://open.spotify.com/track/1lAwqRBdQOnGltiX0oNm9I) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Serpiente Dorada](https://open.spotify.com/album/4gmnDvOxEJDjGmGlILKZst) | 3:09 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 31 | [Pura Flor \(El Búho Remix\)](https://open.spotify.com/track/3R5PROPl0zd9GsmCNYtZNv) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Aurora Remixed](https://open.spotify.com/album/7rEvRh1tkLQSNDA4PvHDRb) | 4:14 |
 | 32 | [Maajo](https://open.spotify.com/track/4P4dZe0rLvLIHZOCvRr67b) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Tropic of Tulli](https://open.spotify.com/album/7CAafJQeHEftsjYQmTkxS9) | 9:06 |
 | 33 | [Búho](https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM) | [Mr\. Bleat](https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb) | [Búho](https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX) | 5:00 |
-| 34 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 |
-| 35 | [Canario](https://open.spotify.com/track/12KVTzqgU558xqkpsywKex) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/6tFwiVNeI7Pdut9sWkgCXW) | 4:09 |
+| 34 | [Canario](https://open.spotify.com/track/12KVTzqgU558xqkpsywKex) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/6tFwiVNeI7Pdut9sWkgCXW) | 4:09 |
+| 35 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 |
 | 36 | [Bogotá](https://open.spotify.com/track/0OUM4ALGSMsPcQB56RFpd9) | [La Payara](https://open.spotify.com/artist/4AIoRABXF7oeowVHCspvo8) | [Conciencia](https://open.spotify.com/album/3kEZQaZLXKbs0nljnRMRnc) | 3:30 |
 | 37 | [Astral](https://open.spotify.com/track/1H6ul0f4lJyhON3QXzoWf4) | [Landikhan](https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp), [Niña indigo](https://open.spotify.com/artist/1EdZzDjs8Eur5LonUz59s9) | [Astral](https://open.spotify.com/album/11nP1vIstTbouhN9NoaTmh) | 5:48 |
 | 38 | [Siete](https://open.spotify.com/track/6H76nYgiuQ1BotX9hUKW6i) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Siku](https://open.spotify.com/album/3Ebykp28PuMSSQfqzkt8DO) | 5:47 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 59 | [Resiliencia](https://open.spotify.com/track/590gL4Fk4eHhLazuvVefLn) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Ramas](https://open.spotify.com/album/2s61LZqkxTwh3PNMxO6mYX) | 4:49 |
 | 60 | [Mano de Fatima](https://open.spotify.com/track/45bZeDQK1sPbSu8xgSvs8R) | [Lagartijeando](https://open.spotify.com/artist/30tn7aO5EFnlClql7gPpGw), [Khalil Mounji](https://open.spotify.com/artist/6jAB1WpJuTMPx7RH0ssZbK) | [La Tercera Vision](https://open.spotify.com/album/2U4iGHChiMfFxlOtePA1Yt) | 3:55 |
 
-Snapshot ID: `MTY3NjQ3MTQyNiwwMDAwMDAwMDU2M2QzZTczMmMwYTMwMGI2YzQzODQzMzU1MzE5NjA0`
+Snapshot ID: `MTY3NjQ3MTQyNiwwMDAwMDAwMGQxYzRlMjAyY2UzNTUyMDNlZTQzZTc2NTRlZjJjYzQz`

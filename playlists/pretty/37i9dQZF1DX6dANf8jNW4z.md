@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha a mujeres como Sílvia Pérez Cruz en esta lista llena de talento femenino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,461 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,463 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-143 songs - 8 hr 46 min
+144 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Down](https://open.spotify.com/track/0ivLrWbRZRioeJ4JqlbH40) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Photograph \- Sad Songs](https://open.spotify.com/album/1CHLh27IMUa9RpBtan8eGi) | 3:04 | 2022-10-10 | 2022-11-13 |
 | [Down](https://open.spotify.com/track/3uHWdehoLyQZJECjiTI4a6) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Tomorrow EP](https://open.spotify.com/album/4uVBOgsiFX3qsvAvtgoW4X) | 3:04 | 2022-06-17 |  |
 | [Down](https://open.spotify.com/track/6wpdCYRRzFtBT7HzdEqgK9) | [Jack Curley](https://open.spotify.com/artist/1Unwe9Xco0JDlTTwpDVrcK) | [Tomorrow EP](https://open.spotify.com/album/3sUfbClZ6oRx9KtOLdzqTf) | 3:04 | 2022-03-25 | 2022-07-29 |
-| [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 | 2023-01-27 |  |
+| [Drunk On A Flight](https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 3:02 | 2023-01-27 |  |
+| [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 | 2023-01-27 | 2023-04-20 |
 | [Easy Tiger](https://open.spotify.com/track/2IbzYGcve6P1QV94UFxtik) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Easy Tiger](https://open.spotify.com/album/21rJkp3ysXGOSL7320EFTL) | 3:16 | 2022-03-25 | 2022-07-29 |
 | [Easy Tiger](https://open.spotify.com/track/4pHbu3jiGGhJn5shkFPp5Y) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:16 | 2022-06-17 |  |
 | [End of the Line](https://open.spotify.com/track/4FQVyRqhQrI6QtwSpwE9bX) | [This New Light](https://open.spotify.com/artist/6A6Iy2NAlSomrHjx13YumR) | [you, all along](https://open.spotify.com/album/2JbSkrtowXyfnR89YMx3Wh) | 4:20 | 2022-03-25 |  |

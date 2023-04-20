@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,604 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,613 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 39 | [I'LL BE YOUR SPRING](https://open.spotify.com/track/4C1gPXWkowF036ec0eeyMn) | [Olivia Hye](https://open.spotify.com/artist/0xK6mUZIqDGnxW10RnpycG) | [I'LL BE YOUR SPRING](https://open.spotify.com/album/6AyLZAoKDzbNTRdlGfD8zf) | 3:09 |
 | 40 | [Is you](https://open.spotify.com/track/3psUv10FonfFanuBDiM4lb) | [Jay Chang](https://open.spotify.com/artist/7H2xroGGrPmbmHtwBOZyLT) | [Is you](https://open.spotify.com/album/6KAKOjRxl9jV0mwLaNEYpk) | 3:51 |
 | 41 | [Love Encore \(with Lee Sora\)](https://open.spotify.com/track/25oNK6Qd3Sw9dy521cTFFA) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [with HER](https://open.spotify.com/album/2NBgvn1II3DilIlJIEL5tW) | 3:30 |
-| 42 | [My Destiny](https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Love Catcher in Bali, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4) | 3:14 |
-| 43 | [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 |
+| 42 | [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 |
+| 43 | [My Destiny](https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Love Catcher in Bali, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4) | 3:14 |
 | 44 | [헤어지기 싫어](https://open.spotify.com/track/7pKxsAxBtRJU19Qqij0P6y) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [re:](https://open.spotify.com/album/5iTH1fWDgfxSPkwJRBZiRE) | 3:46 |
 | 45 | [Check\-In](https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Seoul Check\-in OST Part 6](https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy) | 3:11 |
 | 46 | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Ten Reasons I Love You\(2021\)](https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH) | 4:10 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 68 | [AFTER THE LIGHT](https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh) | [Kang Butter](https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7) | [AFTER THE LIGHT](https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv) | 3:14 |
 | 69 | [Coffee](https://open.spotify.com/track/0rn5XDtcm3WKYzeKMsXuwi) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 3:42 |
 | 70 | [Marry ME](https://open.spotify.com/track/5wtQZVyNFyhdseXonjb7Zp) | [HAN SEUNG YUN](https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI) | [Marry ME \(Welcome To Wedding Hell OST Part.1\)](https://open.spotify.com/album/5qVymXLVFc2aJq3sUyhUO3) | 3:29 |
-| 71 | [Where the Wind Rises](https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [A daily adventurer](https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP) | 3:24 |
-| 72 | [Happy Ending](https://open.spotify.com/track/3HLFIlahbxScNvZhq14qOJ) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [Happy Ending](https://open.spotify.com/album/4jus9HaNnfiyXpP8ci0TAp) | 4:01 |
-| 73 | [Mini Stewardess](https://open.spotify.com/track/2kG9KpdmG8hKdJI6UOQZiN) | [Harryan Yoonsoan](https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ) | [Mini Stewardess](https://open.spotify.com/album/0uU0wcGNAp8ODhVCosMWab) | 3:22 |
+| 71 | [Mini Stewardess](https://open.spotify.com/track/2kG9KpdmG8hKdJI6UOQZiN) | [Harryan Yoonsoan](https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ) | [Mini Stewardess](https://open.spotify.com/album/0uU0wcGNAp8ODhVCosMWab) | 3:22 |
+| 72 | [Where the Wind Rises](https://open.spotify.com/track/6s6n1Rc2zy9LtSAPsvaEPM) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [A daily adventurer](https://open.spotify.com/album/4RbiWNvhyQFKjiC6d0bTRP) | 3:24 |
+| 73 | [Happy Ending](https://open.spotify.com/track/3HLFIlahbxScNvZhq14qOJ) | [Hong Dae Kwang](https://open.spotify.com/artist/6uzSh44SrjshRLiZ3qt8hp) | [Happy Ending](https://open.spotify.com/album/4jus9HaNnfiyXpP8ci0TAp) | 4:01 |
 | 74 | [SOME](https://open.spotify.com/track/3SFoX1aJtEOt3b0GH5lRdc) | [KIM DONG HYUN](https://open.spotify.com/artist/6NuAIYZptWXWUCAInxX6PU) | [Fling at Convenience Store \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/0ftFFfhQ3SUJ2Hrj6gkbnU) | 3:43 |
 | 75 | [Green Tea](https://open.spotify.com/track/2Y7cOqDqsA2MpQ4HX4B8MD) | [The Green Tea](https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB) | [Heart in Motion](https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15) | 4:07 |
 
-Snapshot ID: `MTY4MDU3MzAzNiwwMDAwMDAwMGNhYWQ0YWQzMDZkMWE0MDc1MWZhZmFiYjdmYmNiOTgz`
+Snapshot ID: `MTY4MDU3MzAzNiwwMDAwMDAwMGU4NmJiYWQ0MjFmNjViZTc1MjI2YzY3MWM4OGZiN2E5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 
 > Listen to women at full volume\. Cover: Jessie Ware
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,345 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,389 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ptRQF1dOxS.md) - [plain]
 | 34 | [gutter](https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt) | [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [gutter](https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2) | 2:07 |
 | 35 | [Should've Been Us](https://open.spotify.com/track/24tP5Wt70OYMNAdiOTwnVf) | [NEVE](https://open.spotify.com/artist/2sZ1bsMMDGUvXBvihXLZn2) | [Should've Been Us](https://open.spotify.com/album/3T3MqnM3KyI9TugytlkrtA) | 2:55 |
 | 36 | [Can I Jump?](https://open.spotify.com/track/4xo2cd0kmp3GO1jZzAst1D) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Can I Jump?](https://open.spotify.com/album/2oRM1rJALdQfceK3i7SxG3) | 3:43 |
-| 37 | [Giant Feelings](https://open.spotify.com/track/2pSGUdDRQl6k0liOCbUza2) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Giant Feelings](https://open.spotify.com/album/19ICuGAKIU66VOA6MLc1WZ) | 2:19 |
+| 37 | [Giant Feelings](https://open.spotify.com/track/7wCFToKO63HYn4oP6xZMHh) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 2:19 |
 | 38 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 |
 | 39 | [Don't Go Through It Alone](https://open.spotify.com/track/6uLgsQ8k4mB7VIZlGvix5K) | [Áine Deane](https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU) | [Don't Go Through It Alone](https://open.spotify.com/album/0pltnX0PXyDEj54Tapijff) | 3:12 |
 | 40 | [Hard To Be](https://open.spotify.com/track/325NzsIToV1028QGvUXBa1) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Hard To Be](https://open.spotify.com/album/66VsC4E6NmpkcMC03kraZz) | 3:24 |
 
-Snapshot ID: `MTY4MDY0OTIwMCwwMDAwMDAwMDU2ZTQwYTg5MGQwODIxODBlOWY5OWEyMWNhZGZmZjQx`
+Snapshot ID: `MTY4MDY0OTIwMCwwMDAwMDAwMDE3NjYxM2ZiOTY2ODNhZGUxMGE1NTE2ZmY5MGJiNmE0`

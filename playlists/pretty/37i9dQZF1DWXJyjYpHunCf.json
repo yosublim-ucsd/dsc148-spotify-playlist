@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Aly & AJ",
-  "num_followers": 814556,
+  "num_followers": 814701,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGE4MzEwZTBhYjE3YTk3Y2I3MzYzNDVlZjRhOGE5NDQ3",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDJjNWVkNTIwOWNmODExMmI5MzdjNTkxZTNlYzljZTgw",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -591,22 +591,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/4zrWlaReyL0EypP5ZeCoHc"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
         }
       ],
-      "duration_ms": 230098,
-      "name": "You and Me On The Rock (feat. Lucius)",
-      "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
+      "duration_ms": 272733,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/58uBXXmWLDeezlYx2uGeC0"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -627,18 +623,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Runaway",
-        "url": "https://open.spotify.com/album/4zrWlaReyL0EypP5ZeCoHc"
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
         }
       ],
-      "duration_ms": 272733,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/58uBXXmWLDeezlYx2uGeC0"
+      "duration_ms": 230098,
+      "name": "You and Me On The Rock (feat. Lucius)",
+      "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Call You in the Morning",
-        "url": "https://open.spotify.com/album/3IO0Epg4XkvOaES3dfTCXB"
-      },
-      "artists": [
-        {
-          "name": "Tom Rosenthal",
-          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
-        }
-      ],
-      "duration_ms": 132309,
-      "name": "Call You in the Morning",
-      "url": "https://open.spotify.com/track/6pmtIWAw69AvKnajOPGVtz"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Songs for the Drunk and Broken Hearted",
         "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Austin Plaine",
-        "url": "https://open.spotify.com/album/78yPA5hNyDnuTF42jJyblN"
+        "name": "Call You in the Morning",
+        "url": "https://open.spotify.com/album/3IO0Epg4XkvOaES3dfTCXB"
       },
       "artists": [
         {
-          "name": "Austin Plaine",
-          "url": "https://open.spotify.com/artist/6AMV5iw09ZrX1h3o4x7uVN"
+          "name": "Tom Rosenthal",
+          "url": "https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB"
         }
       ],
-      "duration_ms": 196240,
-      "name": "Never Come Back Again",
-      "url": "https://open.spotify.com/track/4yRlTvPVfEyhXfp6GZurq9"
+      "duration_ms": 132309,
+      "name": "Call You in the Morning",
+      "url": "https://open.spotify.com/track/6pmtIWAw69AvKnajOPGVtz"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -991,6 +975,22 @@
       "duration_ms": 203309,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Austin Plaine",
+        "url": "https://open.spotify.com/album/78yPA5hNyDnuTF42jJyblN"
+      },
+      "artists": [
+        {
+          "name": "Austin Plaine",
+          "url": "https://open.spotify.com/artist/6AMV5iw09ZrX1h3o4x7uVN"
+        }
+      ],
+      "duration_ms": 196240,
+      "name": "Never Come Back Again",
+      "url": "https://open.spotify.com/track/4yRlTvPVfEyhXfp6GZurq9"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Yours to Break",
-        "url": "https://open.spotify.com/album/2zXp7huP6HGVldywEC6arL"
-      },
-      "artists": [
-        {
-          "name": "The East Pointers",
-          "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Wintergreen",
-      "url": "https://open.spotify.com/track/7EL9YtzL4qYOcxYlf4mbVi"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "I've Got a Song",
         "url": "https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 180533,
       "name": "This Could Be Good",
       "url": "https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Yours to Break",
+        "url": "https://open.spotify.com/album/2zXp7huP6HGVldywEC6arL"
+      },
+      "artists": [
+        {
+          "name": "The East Pointers",
+          "url": "https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Wintergreen",
+      "url": "https://open.spotify.com/track/7EL9YtzL4qYOcxYlf4mbVi"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Making Do",
-        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 214150,
-      "name": "Making Do",
-      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Faking My Own Death",
         "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 238829,
       "name": "Faking My Own Death",
       "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Making Do",
+        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 214150,
+      "name": "Making Do",
+      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Misnomer",
-        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 222815,
-      "name": "Misnomer",
-      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Half Moon Light",
         "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
       },
@@ -1467,18 +1451,34 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Backstage in Glasgow",
-        "url": "https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S"
+        "name": "Misnomer",
+        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
       },
       "artists": [
         {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
         }
       ],
-      "duration_ms": 136107,
-      "name": "Backstage in Glasgow",
-      "url": "https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP"
+      "duration_ms": 222815,
+      "name": "Misnomer",
+      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Powerlines",
+        "url": "https://open.spotify.com/album/3fA793BjWaUIqwknayn2OX"
+      },
+      "artists": [
+        {
+          "name": "Sam MacPherson",
+          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+        }
+      ],
+      "duration_ms": 196026,
+      "name": "First Place",
+      "url": "https://open.spotify.com/track/2nVmUsEIdqVYQG0BTzPdk4"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1503,18 +1503,34 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Powerlines",
-        "url": "https://open.spotify.com/album/3fA793BjWaUIqwknayn2OX"
+        "name": "Backstage in Glasgow",
+        "url": "https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S"
       },
       "artists": [
         {
-          "name": "Sam MacPherson",
-          "url": "https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh"
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
         }
       ],
-      "duration_ms": 196026,
-      "name": "First Place",
-      "url": "https://open.spotify.com/track/2nVmUsEIdqVYQG0BTzPdk4"
+      "duration_ms": 136107,
+      "name": "Backstage in Glasgow",
+      "url": "https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Friends With Benefits",
+        "url": "https://open.spotify.com/album/68f7El7waXgxTTn6zlFsNV"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "duration_ms": 170224,
+      "name": "Friends With Benefits",
+      "url": "https://open.spotify.com/track/2WbwjvE4L7WTsPhDwET5Ui"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1567,6 +1583,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "I Know the Way Home",
+        "url": "https://open.spotify.com/album/028PxoVXaGF8zlD3wxfraR"
+      },
+      "artists": [
+        {
+          "name": "Andrew Galucki",
+          "url": "https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP"
+        }
+      ],
+      "duration_ms": 201875,
+      "name": "I Know the Way Home",
+      "url": "https://open.spotify.com/track/7mZedsGVcUJOl6hSy17ykh"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
       },
@@ -1599,38 +1631,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Friends With Benefits",
-        "url": "https://open.spotify.com/album/68f7El7waXgxTTn6zlFsNV"
-      },
-      "artists": [
-        {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
-        }
-      ],
-      "duration_ms": 170224,
-      "name": "Friends With Benefits",
-      "url": "https://open.spotify.com/track/2WbwjvE4L7WTsPhDwET5Ui"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "I Know the Way Home",
-        "url": "https://open.spotify.com/album/028PxoVXaGF8zlD3wxfraR"
-      },
-      "artists": [
-        {
-          "name": "Andrew Galucki",
-          "url": "https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP"
-        }
-      ],
-      "duration_ms": 201875,
-      "name": "I Know the Way Home",
-      "url": "https://open.spotify.com/track/7mZedsGVcUJOl6hSy17ykh"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "What Happiness Is",
         "url": "https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD"
       },
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Jade Bird",
-        "url": "https://open.spotify.com/album/0uM13moSmPXlIV41oSA6U8"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 153151,
-      "name": "Lottery",
-      "url": "https://open.spotify.com/track/2P7SSaE99q5MNjVm0Lz7bS"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "The Art of Letting Go",
         "url": "https://open.spotify.com/album/449CV10TloVGhBv9NfwFTD"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 180763,
       "name": "Be Here Now",
       "url": "https://open.spotify.com/track/1ZEEd0xgeZIW82fuzmJfJ2"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/3tXjujDP2dEsfKSnVSlnB8"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 211579,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/7tvdONFIPzFajuWX0TrlIQ"
     }
   ],
   "unique_name": "Folk Pop",

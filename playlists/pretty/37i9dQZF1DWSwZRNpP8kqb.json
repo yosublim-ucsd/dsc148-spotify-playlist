@@ -1,12 +1,12 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.",
-  "num_followers": 16825,
+  "num_followers": 16843,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDFhZTBkMjAxMGE4ZDg3ZmIxNTBlOTIxZjU1NWVhOTE1",
+  "snapshot_id": "MTY3OTAyMjAwMCwwMDAwMDAwMDY5OTEwMjYwYWRhODVkOWE5NGVhNGVhNDM0ZGMzNjQ4",
   "tracks": [
     {
       "added_at": "2023-03-17 03:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Herencia",
-        "url": "https://open.spotify.com/album/3QwtXOhqGoUfc9HeyU2mWJ"
-      },
-      "artists": [
-        {
-          "name": "Yamila Cafrune",
-          "url": "https://open.spotify.com/artist/21tGjsSQbt1AoCzi6OwHoV"
-        }
-      ],
-      "duration_ms": 237520,
-      "name": "Cuando Llegue el Alba",
-      "url": "https://open.spotify.com/track/0j3s0IOyGq7IzBrIBgLPKI"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Abrazo",
         "url": "https://open.spotify.com/album/2GFYRQAusIqUFGFjBHRMhJ"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 166500,
       "name": "La Flor del Jazm\u00edn",
       "url": "https://open.spotify.com/track/3jGzfSl14fBNsFm0xtv1w6"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Herencia",
+        "url": "https://open.spotify.com/album/3QwtXOhqGoUfc9HeyU2mWJ"
+      },
+      "artists": [
+        {
+          "name": "Yamila Cafrune",
+          "url": "https://open.spotify.com/artist/21tGjsSQbt1AoCzi6OwHoV"
+        }
+      ],
+      "duration_ms": 237520,
+      "name": "Cuando Llegue el Alba",
+      "url": "https://open.spotify.com/track/0j3s0IOyGq7IzBrIBgLPKI"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
+        "name": "La Madrugada",
+        "url": "https://open.spotify.com/album/5Ah1mYWD7R55TOsngPDQ1B"
+      },
+      "artists": [
+        {
+          "name": "Luciana Jury",
+          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
+        }
+      ],
+      "duration_ms": 245804,
+      "name": "En Tu Pelo",
+      "url": "https://open.spotify.com/track/3eHZ0F4oPs7INnhPnqbLQV"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
         "name": "Remedio Pal Alma",
         "url": "https://open.spotify.com/album/7qSASpxrhn4SARBSSprDQi"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Entre Algarroba y Durazno",
-        "url": "https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC"
-      },
-      "artists": [
-        {
-          "name": "Clara Cantore",
-          "url": "https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe"
-        }
-      ],
-      "duration_ms": 250329,
-      "name": "Entre Algarroba y Durazno",
-      "url": "https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Lorena Canta al Cuchi",
         "url": "https://open.spotify.com/album/0h61QvK5npqN6hf9XG1rX0"
       },
@@ -815,6 +815,22 @@
       "duration_ms": 260623,
       "name": "Lavanderas de Rio Chico",
       "url": "https://open.spotify.com/track/6PqlcAD1TCO4peWsXif4UF"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Entre Algarroba y Durazno",
+        "url": "https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC"
+      },
+      "artists": [
+        {
+          "name": "Clara Cantore",
+          "url": "https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe"
+        }
+      ],
+      "duration_ms": 250329,
+      "name": "Entre Algarroba y Durazno",
+      "url": "https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -855,22 +871,6 @@
       "duration_ms": 184064,
       "name": "El Surco",
       "url": "https://open.spotify.com/track/791kBOIjiqzy3lFaAba0j1"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
-        "name": "La Madrugada",
-        "url": "https://open.spotify.com/album/5Ah1mYWD7R55TOsngPDQ1B"
-      },
-      "artists": [
-        {
-          "name": "Luciana Jury",
-          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
-        }
-      ],
-      "duration_ms": 245804,
-      "name": "En Tu Pelo",
-      "url": "https://open.spotify.com/track/3eHZ0F4oPs7INnhPnqbLQV"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Canciones Brotadas de Mi Ra\u00edz",
-        "url": "https://open.spotify.com/album/7d7gZJrvoRDHsatfypRPTL"
-      },
-      "artists": [
-        {
-          "name": "Luciana Jury",
-          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
-        }
-      ],
-      "duration_ms": 171413,
-      "name": "Quisiera Que Salga un Tigre",
-      "url": "https://open.spotify.com/track/6msi20ktX6ssNFaipj64rD"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Mi Fortuna",
         "url": "https://open.spotify.com/album/5S5fXBVVgU0E56OKh5dowP"
       },
@@ -983,6 +967,38 @@
       "duration_ms": 217035,
       "name": "La Luminosa",
       "url": "https://open.spotify.com/track/4LaPXJhWXZeFphemEgp6M0"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Canciones Brotadas de Mi Ra\u00edz",
+        "url": "https://open.spotify.com/album/7d7gZJrvoRDHsatfypRPTL"
+      },
+      "artists": [
+        {
+          "name": "Luciana Jury",
+          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
+        }
+      ],
+      "duration_ms": 171413,
+      "name": "Quisiera Que Salga un Tigre",
+      "url": "https://open.spotify.com/track/6msi20ktX6ssNFaipj64rD"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "La Noche Sin Ti",
+        "url": "https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU"
+      },
+      "artists": [
+        {
+          "name": "Mariel Trimaglio",
+          "url": "https://open.spotify.com/artist/2S6kkn26CPRWCsBoY6L1Bu"
+        }
+      ],
+      "duration_ms": 284605,
+      "name": "La Noche Sin Ti",
+      "url": "https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "La Noche Sin Ti",
-        "url": "https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU"
-      },
-      "artists": [
-        {
-          "name": "Mariel Trimaglio",
-          "url": "https://open.spotify.com/artist/2S6kkn26CPRWCsBoY6L1Bu"
-        }
-      ],
-      "duration_ms": 284605,
-      "name": "La Noche Sin Ti",
-      "url": "https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Humanas Voces",
         "url": "https://open.spotify.com/album/57Ag2rbnSe4GWfLwoBELac"
       },
@@ -1059,18 +1059,22 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Sigo So\u00f1ando",
-        "url": "https://open.spotify.com/album/55OtrniFRuCVB1rh7rxDnA"
+        "name": "Coraz\u00f3n de Agua",
+        "url": "https://open.spotify.com/album/5RkElYnP2R01LHMGlNtnu6"
       },
       "artists": [
         {
-          "name": "Marit\u00e9 Berbel",
-          "url": "https://open.spotify.com/artist/36qkmiSQko9dzUPJXFKueU"
+          "name": "Tremor",
+          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
+        },
+        {
+          "name": "Micaela Chauque",
+          "url": "https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX"
         }
       ],
-      "duration_ms": 170293,
-      "name": "Mate Con Cedr\u00f3n",
-      "url": "https://open.spotify.com/track/1leD3TsB3nNofcOwqHQHnG"
+      "duration_ms": 263428,
+      "name": "Coraz\u00f3n de Agua",
+      "url": "https://open.spotify.com/track/0C7ZtlspnaFd4FVBjlygr6"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1103,22 +1107,18 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Coraz\u00f3n de Agua",
-        "url": "https://open.spotify.com/album/5RkElYnP2R01LHMGlNtnu6"
+        "name": "Sigo So\u00f1ando",
+        "url": "https://open.spotify.com/album/55OtrniFRuCVB1rh7rxDnA"
       },
       "artists": [
         {
-          "name": "Tremor",
-          "url": "https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD"
-        },
-        {
-          "name": "Micaela Chauque",
-          "url": "https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX"
+          "name": "Marit\u00e9 Berbel",
+          "url": "https://open.spotify.com/artist/36qkmiSQko9dzUPJXFKueU"
         }
       ],
-      "duration_ms": 263428,
-      "name": "Coraz\u00f3n de Agua",
-      "url": "https://open.spotify.com/track/0C7ZtlspnaFd4FVBjlygr6"
+      "duration_ms": 170293,
+      "name": "Mate Con Cedr\u00f3n",
+      "url": "https://open.spotify.com/track/1leD3TsB3nNofcOwqHQHnG"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1155,8 +1155,8 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Vuelve a Sonar",
-        "url": "https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL"
+        "name": "Soy Semilla",
+        "url": "https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD"
       },
       "artists": [
         {
@@ -1164,9 +1164,9 @@
           "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
         }
       ],
-      "duration_ms": 164394,
-      "name": "Vuelve a Sonar",
-      "url": "https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld"
+      "duration_ms": 214077,
+      "name": "Morenito",
+      "url": "https://open.spotify.com/track/4JeNZ4z648L1D1c2Gdlt8h"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Sarav\u00e1",
-        "url": "https://open.spotify.com/album/67RXMS6LdgDRTQpjCSjjGi"
-      },
-      "artists": [
-        {
-          "name": "La Bruja Salguero",
-          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
-        }
-      ],
-      "duration_ms": 243058,
-      "name": "Sarav\u00e1",
-      "url": "https://open.spotify.com/track/5Cd4EkEdeDppjU3DpGduWV"
-    },
-    {
-      "added_at": "2023-03-17 03:00:00",
-      "album": {
         "name": "Cuando Vuelva a encontrarte",
         "url": "https://open.spotify.com/album/6QOXVaBClkF46LEXMIaGnW"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 151613,
       "name": "Cuando vuelva a encontrarte",
       "url": "https://open.spotify.com/track/3rCX9nWMuNlpILaIo8otaL"
+    },
+    {
+      "added_at": "2023-03-17 03:00:00",
+      "album": {
+        "name": "Sarav\u00e1",
+        "url": "https://open.spotify.com/album/67RXMS6LdgDRTQpjCSjjGi"
+      },
+      "artists": [
+        {
+          "name": "La Bruja Salguero",
+          "url": "https://open.spotify.com/artist/1PvGlWWeeIvW3xeTjAZxda"
+        }
+      ],
+      "duration_ms": 243058,
+      "name": "Sarav\u00e1",
+      "url": "https://open.spotify.com/track/5Cd4EkEdeDppjU3DpGduWV"
     },
     {
       "added_at": "2023-03-17 03:00:00",
@@ -1267,8 +1267,8 @@
     {
       "added_at": "2023-03-17 03:00:00",
       "album": {
-        "name": "Soy Semilla",
-        "url": "https://open.spotify.com/album/5OM1ghjw8slI1C0dX9OmOD"
+        "name": "Vuelve a Sonar",
+        "url": "https://open.spotify.com/album/6SYkiuBxUQbfprH4tnCNpL"
       },
       "artists": [
         {
@@ -1276,9 +1276,9 @@
           "url": "https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26"
         }
       ],
-      "duration_ms": 214077,
-      "name": "Morenito",
-      "url": "https://open.spotify.com/track/4JeNZ4z648L1D1c2Gdlt8h"
+      "duration_ms": 164394,
+      "name": "Vuelve a Sonar",
+      "url": "https://open.spotify.com/track/1SCkDngAVBaPlFpINOlpld"
     },
     {
       "added_at": "2023-03-17 03:00:00",

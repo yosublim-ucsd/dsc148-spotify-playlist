@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/1VsjBsi7QxD87w4dRoBc8h"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/54DstnlyeCz0Zb2HDtBJaq"
+    },
+    {
+      "album": {
         "name": "All In A Dream",
         "url": "https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6"
       },
@@ -970,7 +988,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 461538,
       "name": "Grammar",
       "url": "https://open.spotify.com/track/4wgE9XKaHBl9E42jK7AgVu"

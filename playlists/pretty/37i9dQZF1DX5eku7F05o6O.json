@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 3352,
+  "num_followers": 3354,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMjU4MTE2MCwwMDAwMDAwMDFiMWFlMDY0NDhhZGZlNWU1OWJmMDBkNjMzM2U5MmM3",
+  "snapshot_id": "MTYxMjU4MTE2MCwwMDAwMDAwMGUwN2M1MWNmNDlkNmM5M2NmY2ZlNjhhMzFlY2M5NjQ5",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Habit",
-        "url": "https://open.spotify.com/album/47BeET8hEy09koztGMjD70"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Shonk",
-          "url": "https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ"
-        }
-      ],
-      "duration_ms": 196613,
-      "name": "Trop tard",
-      "url": "https://open.spotify.com/track/0kGlndxcDA7drOZwgt4eOd"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Les Ombres Longues",
         "url": "https://open.spotify.com/album/1VWw0MtGZlUXZMcANHMzCX"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 188520,
       "name": "Le nouveau vocabulaire",
       "url": "https://open.spotify.com/track/5dhWyASbSFyAarXtYfovgH"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Habit",
+        "url": "https://open.spotify.com/album/47BeET8hEy09koztGMjD70"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Shonk",
+          "url": "https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "Trop tard",
+      "url": "https://open.spotify.com/track/0kGlndxcDA7drOZwgt4eOd"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Dis-moi",
-        "url": "https://open.spotify.com/album/2lCu0zzJtPiDSjQWMK3uBt"
-      },
-      "artists": [
-        {
-          "name": "Eli Rose",
-          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
-        }
-      ],
-      "duration_ms": 306813,
-      "name": "Dis-moi",
-      "url": "https://open.spotify.com/track/5nyQsFzJv3R7EcuWjwuDCi"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Marie-Pierre Arthur",
         "url": "https://open.spotify.com/album/24zKTvO9WBhCj9meQWEqnJ"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 253145,
       "name": "Le vent m\u2019appelle par mon pr\u00e9nom",
       "url": "https://open.spotify.com/track/68ImzFuf1GPwyhy4VrFi2k"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Dis-moi",
+        "url": "https://open.spotify.com/album/2lCu0zzJtPiDSjQWMK3uBt"
+      },
+      "artists": [
+        {
+          "name": "Eli Rose",
+          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
+        }
+      ],
+      "duration_ms": 306813,
+      "name": "Dis-moi",
+      "url": "https://open.spotify.com/track/5nyQsFzJv3R7EcuWjwuDCi"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/73oXR17DzYPHanskHxY0Tj"
-      },
-      "artists": [
-        {
-          "name": "Jason Bajada",
-          "url": "https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p"
-        }
-      ],
-      "duration_ms": 285026,
-      "name": "Pour Le Reste De Ma Vie",
-      "url": "https://open.spotify.com/track/1PcEPxGGLAVS1kAmt548Zi"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
         "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 186215,
       "name": "Rien ne se perd, rien ne se cr\u00e9e",
       "url": "https://open.spotify.com/track/18uxjumWJUkZqYYisV2smH"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/73oXR17DzYPHanskHxY0Tj"
+      },
+      "artists": [
+        {
+          "name": "Jason Bajada",
+          "url": "https://open.spotify.com/artist/6yzmiHzZ0TIQTGyxqga04p"
+        }
+      ],
+      "duration_ms": 285026,
+      "name": "Pour Le Reste De Ma Vie",
+      "url": "https://open.spotify.com/track/1PcEPxGGLAVS1kAmt548Zi"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "T\u00f6lt",
-        "url": "https://open.spotify.com/album/59i042u1vXAmvrBJplD8pX"
-      },
-      "artists": [
-        {
-          "name": "Flying H\u00f3rses",
-          "url": "https://open.spotify.com/artist/1T7bvedeLNoiYBANGErlUq"
-        }
-      ],
-      "duration_ms": 344346,
-      "name": "Oubliette",
-      "url": "https://open.spotify.com/track/4HZmL7TId2VQ2SD4cgLnsU"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Les filles sages vont au paradis les autres vont o\u00f9 elles veulent",
         "url": "https://open.spotify.com/album/60gk5lYerWSscx4ec7iNnn"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 256361,
       "name": "Dactylo",
       "url": "https://open.spotify.com/track/4XX69muE4DKyvFKZ6I6K7m"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "T\u00f6lt",
+        "url": "https://open.spotify.com/album/59i042u1vXAmvrBJplD8pX"
+      },
+      "artists": [
+        {
+          "name": "Flying H\u00f3rses",
+          "url": "https://open.spotify.com/artist/1T7bvedeLNoiYBANGErlUq"
+        }
+      ],
+      "duration_ms": 344346,
+      "name": "Oubliette",
+      "url": "https://open.spotify.com/track/4HZmL7TId2VQ2SD4cgLnsU"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "\u00c0 pr\u00e9sent le pass\u00e9",
-        "url": "https://open.spotify.com/album/0bOhCZxJxzmagub38daJi4"
-      },
-      "artists": [
-        {
-          "name": "Laurence H\u00e9lie",
-          "url": "https://open.spotify.com/artist/1TazAmJyAWviNg6dPC6JcE"
-        }
-      ],
-      "duration_ms": 269773,
-      "name": "Trente ans",
-      "url": "https://open.spotify.com/track/6r3cIFIGFvyPSfUr5Zo3TH"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Vall\u00e9e d'argent",
         "url": "https://open.spotify.com/album/09OUJmGawnX1zGiqZJFlLr"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 284000,
       "name": "Samara",
       "url": "https://open.spotify.com/track/2vCQXuLry4rrlGUS3tp3z5"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "\u00c0 pr\u00e9sent le pass\u00e9",
+        "url": "https://open.spotify.com/album/0bOhCZxJxzmagub38daJi4"
+      },
+      "artists": [
+        {
+          "name": "Laurence H\u00e9lie",
+          "url": "https://open.spotify.com/artist/1TazAmJyAWviNg6dPC6JcE"
+        }
+      ],
+      "duration_ms": 269773,
+      "name": "Trente ans",
+      "url": "https://open.spotify.com/track/6r3cIFIGFvyPSfUr5Zo3TH"
     },
     {
       "added_at": "2021-02-06 03:12:40",

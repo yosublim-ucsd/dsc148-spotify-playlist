@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 7680095,
+  "num_followers": 7683563,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc3OTAxOSwwMDAwMDAwMDk0YzNmZTNmNjJkODI4YTMxZDNiYmFhYmU3NWQxMTli",
+  "snapshot_id": "MTY4MDc3OTAxOSwwMDAwMDAwMDQ0N2UyNWU5YzQ0MWI5NDJlNDU0MDhiNTE0M2JmZmQ1",
   "tracks": [
     {
       "added_at": "2023-04-06 11:03:39",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-04-06 11:03:39",
       "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 246200,
+      "name": "Who Am I (What\u2019s My Name)?",
+      "url": "https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF"
+    },
+    {
+      "added_at": "2023-04-06 11:03:39",
+      "album": {
         "name": "93 'til Infinity",
         "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 197560,
       "name": "Miami",
       "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
-    },
-    {
-      "added_at": "2023-04-06 11:03:39",
-      "album": {
-        "name": "Doggystyle",
-        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 246200,
-      "name": "Who Am I (What\u2019s My Name)?",
-      "url": "https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF"
     },
     {
       "added_at": "2023-04-06 11:03:39",
@@ -603,26 +603,6 @@
     {
       "added_at": "2023-04-06 11:03:39",
       "album": {
-        "name": "Capital Punishment (Explicit Version)",
-        "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
-      },
-      "artists": [
-        {
-          "name": "Big Pun",
-          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
-        },
-        {
-          "name": "Joe",
-          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Still Not a Player (feat. Joe) - Radio Version",
-      "url": "https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR"
-    },
-    {
-      "added_at": "2023-04-06 11:03:39",
-      "album": {
         "name": "Bootlegs And B-Sides",
         "url": "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 273106,
       "name": "Check Yo Self - Remix",
       "url": "https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma"
+    },
+    {
+      "added_at": "2023-04-06 11:03:39",
+      "album": {
+        "name": "Capital Punishment (Explicit Version)",
+        "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
+      },
+      "artists": [
+        {
+          "name": "Big Pun",
+          "url": "https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs"
+        },
+        {
+          "name": "Joe",
+          "url": "https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Still Not a Player (feat. Joe) - Radio Version",
+      "url": "https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR"
     },
     {
       "added_at": "2023-04-06 11:03:39",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-04-06 11:03:39",
       "album": {
-        "name": "Liquid Swords",
-        "url": "https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P"
-      },
-      "artists": [
-        {
-          "name": "GZA",
-          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 209973,
-      "name": "Shadowboxin'",
-      "url": "https://open.spotify.com/track/7bp5DfkdK1OAvNJ1U4HfDA"
-    },
-    {
-      "added_at": "2023-04-06 11:03:39",
-      "album": {
         "name": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3tQd5mwBtVyxCoEo4htGAV"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 216133,
       "name": "Wu-Tang Clan Ain't Nuthing ta F' Wit (feat. RZA, Inspectah Deck & Method Man)",
       "url": "https://open.spotify.com/track/24vNw0Z0srb4zYXwrakw8E"
+    },
+    {
+      "added_at": "2023-04-06 11:03:39",
+      "album": {
+        "name": "Liquid Swords",
+        "url": "https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P"
+      },
+      "artists": [
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "Shadowboxin'",
+      "url": "https://open.spotify.com/track/7bp5DfkdK1OAvNJ1U4HfDA"
     },
     {
       "added_at": "2023-04-06 11:03:39",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-04-06 11:03:39",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA"
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
       },
       "artists": [
         {
-          "name": "Skee-Lo",
-          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
         }
       ],
-      "duration_ms": 249293,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
+      "duration_ms": 319360,
+      "name": "Who Shot Ya? - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2KFg8kjYy0rYjWsXGhEQHN"
     },
     {
       "added_at": "2023-04-06 11:03:39",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-04-06 11:03:39",
       "album": {
-        "name": "Ready to Die (The Remaster)",
-        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA"
       },
       "artists": [
         {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+          "name": "Skee-Lo",
+          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
         }
       ],
-      "duration_ms": 319360,
-      "name": "Who Shot Ya? - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2KFg8kjYy0rYjWsXGhEQHN"
+      "duration_ms": 249293,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
     },
     {
       "added_at": "2023-04-06 11:03:39",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-04-06 11:03:39",
       "album": {
+        "name": "When Disaster Strikes...",
+        "url": "https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 194293,
+      "name": "Put Your Hands Where My Eyes Could See",
+      "url": "https://open.spotify.com/track/1NHwvBmrUje4L1dxfWnXCH"
+    },
+    {
+      "added_at": "2023-04-06 11:03:39",
+      "album": {
         "name": "The Velvet Rope",
         "url": "https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 241760,
       "name": "Got 'Til It's Gone",
       "url": "https://open.spotify.com/track/1EhvYd5e7vkoN3udEN1Vyl"
-    },
-    {
-      "added_at": "2023-04-06 11:03:39",
-      "album": {
-        "name": "When Disaster Strikes...",
-        "url": "https://open.spotify.com/album/6nPdlsKWGOFepgMMXTZReP"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 194293,
-      "name": "Put Your Hands Where My Eyes Could See",
-      "url": "https://open.spotify.com/track/1NHwvBmrUje4L1dxfWnXCH"
     },
     {
       "added_at": "2023-04-06 11:03:39",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-04-06 11:03:39",
       "album": {
-        "name": "Whut? Thee Album",
-        "url": "https://open.spotify.com/album/3FsCGJY0JqSxvgezoMWYzF"
-      },
-      "artists": [
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        }
-      ],
-      "duration_ms": 201373,
-      "name": "Tonight's Da Night",
-      "url": "https://open.spotify.com/track/67mtN6BlsJR0LVyzvNZnGt"
-    },
-    {
-      "added_at": "2023-04-06 11:03:39",
-      "album": {
         "name": "Gettin' It (Album Number Ten)",
         "url": "https://open.spotify.com/album/27q3JlNTwpv5Zvf7yDReHH"
       },
@@ -1855,18 +1839,34 @@
     {
       "added_at": "2023-04-06 11:03:39",
       "album": {
-        "name": "Mr. Smith (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA"
+        "name": "Whut? Thee Album",
+        "url": "https://open.spotify.com/album/3FsCGJY0JqSxvgezoMWYzF"
       },
       "artists": [
         {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
         }
       ],
-      "duration_ms": 293933,
-      "name": "Doin' It",
-      "url": "https://open.spotify.com/track/4WMBl2wiGUSGa5C7tfQEAo"
+      "duration_ms": 201373,
+      "name": "Tonight's Da Night",
+      "url": "https://open.spotify.com/track/67mtN6BlsJR0LVyzvNZnGt"
+    },
+    {
+      "added_at": "2023-04-06 11:03:39",
+      "album": {
+        "name": "Illmatic",
+        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 260799,
+      "name": "Halftime",
+      "url": "https://open.spotify.com/track/2PRsh2LNPxoxC9OnErnelg"
     }
   ],
   "unique_name": "I Love My '90s Hip-Hop",

@@ -1,12 +1,12 @@
 {
   "description": "we didn't have CharBrina on our 2023 bingo card tbh",
-  "num_followers": 2040687,
+  "num_followers": 2040707,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ4ODc1NCwwMDAwMDAwMDc0NjRjYTQxZmNiMWUyMTA4ZWQ1MTZiY2VkOGMwZWVk",
+  "snapshot_id": "MTY4MTk0Mzc2NSwwMDAwMDAwMGMwYjg5OTUxOTI2YmUwMGJmNzZhZTIwMGZjOGVjNGQz",
   "tracks": [
     {
       "added_at": "2023-04-07 04:00:00",
@@ -23,38 +23,6 @@
       "duration_ms": 160166,
       "name": "Never Felt So Alone",
       "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
-    },
-    {
-      "added_at": "2023-03-29 16:08:28",
-      "album": {
-        "name": "VOID",
-        "url": "https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 250350,
-      "name": "VOID",
-      "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
       "added_at": "2023-04-14 16:12:34",
@@ -81,36 +49,20 @@
       "url": "https://open.spotify.com/track/2WNHUp4s806SJrsj698ZX3"
     },
     {
-      "added_at": "2023-03-14 14:50:14",
+      "added_at": "2023-04-19 22:36:05",
       "album": {
-        "name": "The Beginning: Cupid",
-        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
       "artists": [
         {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 174253,
-      "name": "Cupid - Twin Ver.",
-      "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+      "duration_ms": 187723,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -131,6 +83,70 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "added_at": "2023-04-19 22:36:05",
+      "album": {
+        "name": "Speak Now",
+        "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 237733,
+      "name": "Mean",
+      "url": "https://open.spotify.com/track/5yEPktRqvIhko5QFF3aBhQ"
+    },
+    {
+      "added_at": "2023-03-29 16:08:28",
+      "album": {
+        "name": "VOID",
+        "url": "https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 247873,
+      "name": "VOID",
+      "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"
+    },
+    {
+      "added_at": "2023-03-14 14:50:14",
+      "album": {
+        "name": "The Beginning: Cupid",
+        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Cupid - Twin Ver.",
+      "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Princess Diana (with Nicki Minaj)",
         "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
       },
@@ -147,6 +163,22 @@
       "duration_ms": 172125,
       "name": "Princess Diana (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
+    },
+    {
+      "added_at": "2023-03-31 04:20:03",
+      "album": {
+        "name": "PORTALS",
+        "url": "https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 200696,
+      "name": "THE CONTORTIONIST",
+      "url": "https://open.spotify.com/track/19SwuhO0bMiAcg2kyJydmj"
     },
     {
       "added_at": "2023-02-06 15:02:14",
@@ -181,22 +213,6 @@
       "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
     },
     {
-      "added_at": "2023-03-31 04:20:03",
-      "album": {
-        "name": "PORTALS",
-        "url": "https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 200696,
-      "name": "THE CONTORTIONIST",
-      "url": "https://open.spotify.com/track/19SwuhO0bMiAcg2kyJydmj"
-    },
-    {
       "added_at": "2023-04-14 04:00:00",
       "album": {
         "name": "Fantasy (with GAYLE & Em Beihold)",
@@ -221,20 +237,20 @@
       "url": "https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD"
     },
     {
-      "added_at": "2023-04-10 02:49:34",
+      "added_at": "2023-04-19 22:36:05",
       "album": {
-        "name": "The Super Mario Bros. Movie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd"
+        "name": "BORN PINK",
+        "url": "https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P"
       },
       "artists": [
         {
-          "name": "Jack Black",
-          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 95440,
-      "name": "Peaches",
-      "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
+      "duration_ms": 184248,
+      "name": "Tally",
+      "url": "https://open.spotify.com/track/0bYVPJvXr8ACmw313cVvhB"
     },
     {
       "added_at": "2023-03-31 15:22:06",
@@ -251,54 +267,6 @@
       "duration_ms": 149718,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7"
-    },
-    {
-      "added_at": "2023-03-24 04:20:39",
-      "album": {
-        "name": "Heart Attack (Rock Version)",
-        "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 239011,
-      "name": "Heart Attack - Rock Version",
-      "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
-    },
-    {
-      "added_at": "2023-04-05 04:01:30",
-      "album": {
-        "name": "PORTALS (Deluxe)",
-        "url": "https://open.spotify.com/album/6lbrHERXve89hrxuCpsJOg"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 265463,
-      "name": "MILK OF THE SIREN",
-      "url": "https://open.spotify.com/track/1AUyzuh7CIr1yDYPTOgQQL"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Sleep Well",
-        "url": "https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 175875,
-      "name": "Sleep Well",
-      "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
     },
     {
       "added_at": "2023-02-06 15:02:14",
@@ -319,6 +287,102 @@
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
+    },
+    {
+      "added_at": "2023-03-24 04:20:39",
+      "album": {
+        "name": "Heart Attack (Rock Version)",
+        "url": "https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 239011,
+      "name": "Heart Attack - Rock Version",
+      "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2023-04-05 04:01:30",
+      "album": {
+        "name": "PORTALS (Deluxe)",
+        "url": "https://open.spotify.com/album/6lbrHERXve89hrxuCpsJOg"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 265463,
+      "name": "MILK OF THE SIREN",
+      "url": "https://open.spotify.com/track/1AUyzuh7CIr1yDYPTOgQQL"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "GABRIEL",
+        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 150519,
+      "name": "UNDERSTAND",
+      "url": "https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Sleep Well",
+        "url": "https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 175875,
+      "name": "Sleep Well",
+      "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
+    },
+    {
+      "added_at": "2023-04-10 02:49:34",
+      "album": {
+        "name": "The Super Mario Bros. Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd"
+      },
+      "artists": [
+        {
+          "name": "Jack Black",
+          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
+        }
+      ],
+      "duration_ms": 95440,
+      "name": "Peaches",
+      "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
     },
     {
       "added_at": "2023-04-03 02:47:34",
@@ -351,6 +415,22 @@
       "duration_ms": 163648,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
+    },
+    {
+      "added_at": "2023-04-19 22:36:05",
+      "album": {
+        "name": "Perfume - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3sVBVr420an61GAwib9AYk"
+      },
+      "artists": [
+        {
+          "name": "NCT DOJAEJUNG",
+          "url": "https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw"
+        }
+      ],
+      "duration_ms": 167626,
+      "name": "Perfume",
+      "url": "https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -433,22 +513,6 @@
       "url": "https://open.spotify.com/track/20UpxV1Z8hdMny8abxHPL9"
     },
     {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "All Of The Girls You Loved Before",
-        "url": "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 221407,
-      "name": "All Of The Girls You Loved Before",
-      "url": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy"
-    },
-    {
       "added_at": "2023-02-03 05:00:00",
       "album": {
         "name": "Players",
@@ -463,6 +527,22 @@
       "duration_ms": 139560,
       "name": "Players",
       "url": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
+    },
+    {
+      "added_at": "2023-04-19 22:36:05",
+      "album": {
+        "name": "Midnights (3am Edition)",
+        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 204852,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/5oqDgw5VGBln5dSIOPWyBq"
     },
     {
       "added_at": "2023-03-29 04:07:00",
@@ -533,22 +613,6 @@
       "url": "https://open.spotify.com/track/13SfKfixPEDQBOYYtaY3Wh"
     },
     {
-      "added_at": "2023-04-09 00:21:37",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 210251,
-      "name": "the 1",
-      "url": "https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8"
-    },
-    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "ME",
@@ -563,22 +627,6 @@
       "duration_ms": 163522,
       "name": "All Eyes On Me",
       "url": "https://open.spotify.com/track/2YXswOX5aKv6OHRKUcAMLQ"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "...Ready For It?",
-      "url": "https://open.spotify.com/track/2yLa0QULdQr0qAIvVwN6B5"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -611,6 +659,22 @@
       "duration_ms": 189179,
       "name": "eighteen",
       "url": "https://open.spotify.com/track/37ZOqyxz7B7bmIa2sq5odC"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "All Of The Girls You Loved Before",
+        "url": "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 221407,
+      "name": "All Of The Girls You Loved Before",
+      "url": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -675,22 +739,6 @@
       "duration_ms": 236066,
       "name": "The Climb",
       "url": "https://open.spotify.com/track/0V8FYVlBFuXXTIvRnMbZyS"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "WW3",
-        "url": "https://open.spotify.com/album/1mXJyuOU2nGhBzvOxW8RH2"
-      },
-      "artists": [
-        {
-          "name": "Addison Grace",
-          "url": "https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap"
-        }
-      ],
-      "duration_ms": 192279,
-      "name": "WW3",
-      "url": "https://open.spotify.com/track/11TpsX9rehEgUapDZ9UvrY"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -779,38 +827,6 @@
       "duration_ms": 206722,
       "name": "Paris, Texas (feat. SYML)",
       "url": "https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "GABRIEL",
-        "url": "https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 150519,
-      "name": "UNDERSTAND",
-      "url": "https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ"
-    },
-    {
-      "added_at": "2023-03-29 04:07:00",
-      "album": {
-        "name": "Joker & Rainbow",
-        "url": "https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk"
-      },
-      "artists": [
-        {
-          "name": "Jesse\u00ae",
-          "url": "https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo"
-        }
-      ],
-      "duration_ms": 116466,
-      "name": "Joker",
-      "url": "https://open.spotify.com/track/0PU4uOzbHVnGsRHyGhiDCr"
     },
     {
       "added_at": "2023-03-16 04:48:14",
@@ -1743,22 +1759,6 @@
       "duration_ms": 165686,
       "name": "Only Love Can Hurt Like This - Sped Up Version",
       "url": "https://open.spotify.com/track/6SCJiS8fAWC5VzRpMEiHxV"
-    },
-    {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Queen Of The Clouds",
-        "url": "https://open.spotify.com/album/47C7w4o1resDhr7jvYEpxE"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "Habits (Stay High)",
-      "url": "https://open.spotify.com/track/14OxJlLdcHNpgsm4DRwDOB"
     }
   ],
   "unique_name": "teen beats",

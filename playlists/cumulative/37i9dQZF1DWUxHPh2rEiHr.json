@@ -1457,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga"
+    },
+    {
+      "album": {
         "name": "Dale Pa' Ya (feat. Gente De Zona)",
         "url": "https://open.spotify.com/album/14JiS3KmsTYfDD1gPMXkUA"
       },
@@ -2198,7 +2216,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 178274,
       "name": "Fantasy (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
@@ -2798,6 +2816,32 @@
       "duration_ms": 159100,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7"
+    },
+    {
+      "album": {
+        "name": "How Many Times",
+        "url": "https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm"
+      },
+      "artists": [
+        {
+          "name": "DJ Big N",
+          "url": "https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "How Many Times",
+      "url": "https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8"
     },
     {
       "album": {
@@ -3748,7 +3792,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 191827,
       "name": "Love",
       "url": "https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY"
@@ -4514,6 +4558,24 @@
       "duration_ms": 140533,
       "name": "Mood (feat. iann dior)",
       "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187557,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
     },
     {
       "album": {
@@ -5356,7 +5418,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 171692,
       "name": "Parado no Bail\u00e3o",
       "url": "https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT"
@@ -7156,7 +7218,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-18",
+      "date_removed": null,
       "duration_ms": 184104,
       "name": "Summer of Love (Shawn Mendes & Tainy)",
       "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
@@ -7612,7 +7674,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 199604,
       "name": "Todo De Ti",
       "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"

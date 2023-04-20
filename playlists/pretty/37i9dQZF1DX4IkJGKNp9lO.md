@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > Svensk punk från förr och nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,117 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,122 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 45 | [Solglasögon](https://open.spotify.com/track/3zpIlRP7EV4m8Urdm8w46N) | [Docent Död](https://open.spotify.com/artist/6L6NYBOQGOwaajr9yJ0muM) | [Docent Död \(Mini\-LP\)](https://open.spotify.com/album/2S9DWuSoChp6oI1eWiequT) | 2:27 |
 | 46 | [Balladen Om Lilla Elsa](https://open.spotify.com/track/1K0fEr5SmhneWgbnP8HmzM) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kallt Stål, Varmt Blod + I Fädrens Spår](https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t) | 2:23 |
 | 47 | [Amelia](https://open.spotify.com/track/4u3SRmpI2DEbuOZuejog83) | [Barbaras Grannar](https://open.spotify.com/artist/35ySzAXjdrvkFBPKNUBu1u) | [Amelia](https://open.spotify.com/album/4WR5DkdrAaD5okww70B1xY) | 4:11 |
-| 48 | [Mamma pappa barn](https://open.spotify.com/track/3SDQawERiP8UyxFE88A9hj) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:57 |
-| 49 | [Brinner](https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Alla sover](https://open.spotify.com/album/6Ey1sBXBiOW7Y3QCyenE0v) | 2:47 |
-| 50 | [Simpel Matematik](https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [\[emo\]](https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP) | 3:12 |
+| 48 | [Feta Gubbar](https://open.spotify.com/track/0XwpJFzmXViS6TImtpv9lM) | [Sten & Stalin](https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9) | [Värdelös](https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp) | 2:03 |
+| 49 | [Mamma pappa barn](https://open.spotify.com/track/3SDQawERiP8UyxFE88A9hj) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:57 |
+| 50 | [Brinner](https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Alla sover](https://open.spotify.com/album/6Ey1sBXBiOW7Y3QCyenE0v) | 2:47 |
 | 51 | [Några Jävla Spänn](https://open.spotify.com/track/02cd00xSj7jM688uxVg6qU) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Några Jävla Spänn](https://open.spotify.com/album/21LbuPxwosjUCIK7QSKgHD) | 3:16 |
-| 52 | [Feta Gubbar](https://open.spotify.com/track/0XwpJFzmXViS6TImtpv9lM) | [Sten & Stalin](https://open.spotify.com/artist/7xS4Uw7T0pNePx7S238bM9) | [Värdelös](https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp) | 2:03 |
+| 52 | [Simpel Matematik](https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [\[emo\]](https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP) | 3:12 |
 | 53 | [Leva loppan](https://open.spotify.com/track/3a5FtkugQkAfqH1A8Psuwd) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Pengarna eller livet](https://open.spotify.com/album/5AkRYj8nWPwjcZVoP5MKdD) | 3:01 |
 | 54 | [Sibylla](https://open.spotify.com/track/3OhmF7xJuoNr5EQNWcw03q) | [Hans & Greta](https://open.spotify.com/artist/1MiHrCnLxMQT9PHFYWN4ie) | [Snabbmat För Folk I Farten](https://open.spotify.com/album/2zyjwH3dY4mqHEykHoKzTh) | 3:30 |
 | 55 | [Jag vill bli som far](https://open.spotify.com/track/1Ne8gSf8gEUMSSNZ8vnFsq) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Aktion](https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6) | 1:18 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 59 | [Som En Doft Av Napalm](https://open.spotify.com/track/68dRAj0qJy7KQe4FxjUqrc) | [Slutstation Tjernobyl](https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC) | [Vi Är Alla Stjärnor](https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn) | 2:25 |
 | 60 | [Vägra](https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl) | [Borgerlig Begravning](https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q) | [Borgerlig begravning](https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH) | 2:01 |
 | 61 | [Hela hatet stormar](https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI), [Loke Nyberg](https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA) | [För Sverige](https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS) | 3:25 |
-| 62 | [Gravöl](https://open.spotify.com/track/01AKl5g1N4xZvJ23NSxCuZ) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sex Politik & Fåglar](https://open.spotify.com/album/2M63nUb95NAqYou8reFFwo) | 3:06 |
+| 62 | [Fabriken](https://open.spotify.com/track/5EUmW6SjzUmexP82gl93jd) | [Kardborrebandet](https://open.spotify.com/artist/6CaozjJFhs3wLYvch7B0At) | [Välkommen till fabriken](https://open.spotify.com/album/3TzvCcOrrzkWZm6unnpa9S) | 2:26 |
 | 63 | [Tidens tempo](https://open.spotify.com/track/01URoRZKSsMbExgdmiuiwy) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Aktion](https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6) | 2:12 |
-| 64 | [Fabriken](https://open.spotify.com/track/5EUmW6SjzUmexP82gl93jd) | [Kardborrebandet](https://open.spotify.com/artist/6CaozjJFhs3wLYvch7B0At) | [Välkommen till fabriken](https://open.spotify.com/album/3TzvCcOrrzkWZm6unnpa9S) | 2:26 |
+| 64 | [Gravöl](https://open.spotify.com/track/01AKl5g1N4xZvJ23NSxCuZ) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sex Politik & Fåglar](https://open.spotify.com/album/2M63nUb95NAqYou8reFFwo) | 3:06 |
 | 65 | [Jag Vill Ha En Slav](https://open.spotify.com/track/6kviUfqwA8C6rbwP3fod1b) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ) | [Krymplings](https://open.spotify.com/album/6GvLNIV56ZJgbxU1E5THiH) | 2:32 |
 
-Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMGYyN2RmYmRmZTFlOTMwNWVjMzdmNjJhM2Y3NzczZDA3`
+Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMGVhN2QxZDU4ODE1NjlhOWFkNzM3YmNiYjVhY2VlNDU2`

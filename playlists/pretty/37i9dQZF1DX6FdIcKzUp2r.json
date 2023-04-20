@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 198099,
+  "num_followers": 198167,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMGU5ZGE1ZGY3MWJkY2YxMjhhNmY1ODE4YzE1MzI0YTAz",
+  "snapshot_id": "MTU0NzY0NjM5NiwwMDAwMDAwMGMxZGVjMDkxODIzNWUzYzE4Mzc2MWI0MzE2ZTFiZjBm",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -107,6 +107,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "Heartbeat City",
+        "url": "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
+      },
+      "artists": [
+        {
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "The Seeds Of Love",
         "url": "https://open.spotify.com/album/4oel5wcfKxpWxJuC4VbtuO"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 391000,
       "name": "Woman In Chains",
       "url": "https://open.spotify.com/track/5jmwL2MniQj9ldptIm1h1B"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "Heartbeat City",
-        "url": "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
-      },
-      "artists": [
-        {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -335,22 +335,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "No Fun Aloud",
-        "url": "https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ"
-      },
-      "artists": [
-        {
-          "name": "Glenn Frey",
-          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
-        }
-      ],
-      "duration_ms": 274560,
-      "name": "The One You Love",
-      "url": "https://open.spotify.com/track/4uvARnZIajUDXWXPifhK3B"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "The Sensual World (2018 Remaster)",
         "url": "https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 216306,
       "name": "This Woman's Work - 2018 Remaster",
       "url": "https://open.spotify.com/track/7ijKen7rccf56qOMGkS22e"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "No Fun Aloud",
+        "url": "https://open.spotify.com/album/1vgK8Yq0G3E3MO4MzI4BJJ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Frey",
+          "url": "https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ"
+        }
+      ],
+      "duration_ms": 274560,
+      "name": "The One You Love",
+      "url": "https://open.spotify.com/track/4uvARnZIajUDXWXPifhK3B"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -463,6 +463,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "Into the Gap (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6tcBa4XORQYZBuFCILU3tX"
+      },
+      "artists": [
+        {
+          "name": "Thompson Twins",
+          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
+        }
+      ],
+      "duration_ms": 286360,
+      "name": "Hold Me Now",
+      "url": "https://open.spotify.com/track/0ELzxemxnjAasucn8Sww3m"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "Frontiers",
         "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 103773,
       "name": "Tara",
       "url": "https://open.spotify.com/track/5oMNDwCx1Lr9BSL4WkkazM"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "Into the Gap (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6tcBa4XORQYZBuFCILU3tX"
-      },
-      "artists": [
-        {
-          "name": "Thompson Twins",
-          "url": "https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn"
-        }
-      ],
-      "duration_ms": 286360,
-      "name": "Hold Me Now",
-      "url": "https://open.spotify.com/track/0ELzxemxnjAasucn8Sww3m"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -691,22 +691,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Music for the Masses (2006 Remaster)",
-        "url": "https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 239720,
-      "name": "The Things You Said - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3i1Th1jZXXO0ZpGKhpTKWK"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Tango In the Night (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 189760,
       "name": "Mystified - 2017 Remaster",
       "url": "https://open.spotify.com/track/524nCOIQg9fi0pETVnbpv8"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Music for the Masses (2006 Remaster)",
+        "url": "https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 239720,
+      "name": "The Things You Said - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3i1Th1jZXXO0ZpGKhpTKWK"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -787,22 +787,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Chariots Of Fire (Original Motion Picture Soundtrack / Remastered)",
-        "url": "https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Abraham's Theme",
-      "url": "https://open.spotify.com/track/463b8SF7KXrU5oqHgZKSOc"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Hounds Of Love",
         "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 165773,
       "name": "And Dream Of Sheep",
       "url": "https://open.spotify.com/track/12p03gHqut5vzucZt4uzJk"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Chariots Of Fire (Original Motion Picture Soundtrack / Remastered)",
+        "url": "https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Abraham's Theme",
+      "url": "https://open.spotify.com/track/463b8SF7KXrU5oqHgZKSOc"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Pretenders II (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6eTHa4zNxrrykO2J3jFxpB"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 176501,
-      "name": "I Go to Sleep - 2018 Remaster",
-      "url": "https://open.spotify.com/track/6nIJU23VH8pHw8xPEqFHX7"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Never for Ever (2018 Remaster)",
         "url": "https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 179160,
       "name": "Army Dreamers - 2018 Remaster",
       "url": "https://open.spotify.com/track/5QYUNHT2dQwoNHorXznygN"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Pretenders II (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6eTHa4zNxrrykO2J3jFxpB"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 176501,
+      "name": "I Go to Sleep - 2018 Remaster",
+      "url": "https://open.spotify.com/track/6nIJU23VH8pHw8xPEqFHX7"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Kolors (Bonus Track Edition)",
-        "url": "https://open.spotify.com/album/4i4FQZa3AtMk7J7KPRFLWH"
-      },
-      "artists": [
-        {
-          "name": "Peter Green",
-          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
-        }
-      ],
-      "duration_ms": 232093,
-      "name": "Apostle - Single Version;2005 Remastered Version",
-      "url": "https://open.spotify.com/track/45hID6chbEjbNkXalKSx0B"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Treasure",
         "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 244066,
       "name": "Otterley",
       "url": "https://open.spotify.com/track/5GO0qzKdvndy7g9r0iKEDz"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Kolors (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/4i4FQZa3AtMk7J7KPRFLWH"
+      },
+      "artists": [
+        {
+          "name": "Peter Green",
+          "url": "https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "Apostle - Single Version;2005 Remastered Version",
+      "url": "https://open.spotify.com/track/45hID6chbEjbNkXalKSx0B"
     },
     {
       "added_at": "2018-12-12 11:36:39",

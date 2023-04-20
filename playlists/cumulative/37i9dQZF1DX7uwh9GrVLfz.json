@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: \u30cb\u30fc\u30cf\u30aa!!!! (ni-hao!!!!)",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: Hi-STANDARD",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -2673,6 +2673,24 @@
     },
     {
       "album": {
+        "name": "I'm A Rat",
+        "url": "https://open.spotify.com/album/7E7uf3z4a1ijeLMTX841vE"
+      },
+      "artists": [
+        {
+          "name": "Hi-STANDARD",
+          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124719,
+      "name": "I'm A Rat",
+      "url": "https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa"
+    },
+    {
+      "album": {
         "name": "I Keep The Fire Alive",
         "url": "https://open.spotify.com/album/1TjcNKyJslwy1g9Z3MWdAr"
       },
@@ -3188,10 +3206,28 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 153866,
       "name": "Love song",
       "url": "https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4"
+    },
+    {
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/2tHhRVVI82FOCr0nEujtsY"
+      },
+      "artists": [
+        {
+          "name": "The BONEZ",
+          "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153866,
+      "name": "Love song",
+      "url": "https://open.spotify.com/track/4gtuaF2M5Lpl5EYSdAA3Th"
     },
     {
       "album": {
@@ -6042,7 +6078,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 203453,
       "name": "The Dream Is Not Dead",
       "url": "https://open.spotify.com/track/45YAIPPE3My3zoqOJJnLc8"
@@ -6940,6 +6976,24 @@
       "duration_ms": 188419,
       "name": "YOU'RE MY FRIEND",
       "url": "https://open.spotify.com/track/6z0ur2QkD9cLh96x4mH5R2"
+    },
+    {
+      "album": {
+        "name": "INITY",
+        "url": "https://open.spotify.com/album/1RxHeQLVvcHE7uQ01kR7MO"
+      },
+      "artists": [
+        {
+          "name": "MINAMI NiNE",
+          "url": "https://open.spotify.com/artist/362QHsvg6mSewP1yybMD15"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199853,
+      "name": "Yumedeaetara",
+      "url": "https://open.spotify.com/track/36oQKxZaP6anMsvhfgm6jT"
     },
     {
       "album": {
@@ -8622,7 +8676,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 199853,
       "name": "\u5922\u3067\u9022\u3048\u305f\u3089",
       "url": "https://open.spotify.com/track/12bNJLlfhc9bO0K6mzp9JB"

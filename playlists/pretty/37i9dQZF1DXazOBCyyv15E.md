@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: King Krule
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,812 likes - 120 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,853 likes - 120 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Formas musicales de decir \"Te quiero\".",
-  "num_followers": 312118,
+  "num_followers": 312175,
   "original_name": "Te quiero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk4NTQzNSwwMDAwMDAwMDQ2ODEwYmQ0YWNjNzNiYTY2OGFlNDVjNDNiZjRkMDli",
+  "snapshot_id": "MTY1OTk4NTQzNSwwMDAwMDAwMDc4MzdkMWJiYzQ0NWJmNDE3ZTEyODI3NzNiNWY1YzRl",
   "tracks": [
     {
       "added_at": "2021-02-12 18:11:45",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "Let's Stay Together",
-        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 199396,
-      "name": "Let's Stay Together",
-      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
         "name": "Prometo",
         "url": "https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 253760,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
+        "name": "Let's Stay Together",
+        "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 199396,
+      "name": "Let's Stay Together",
+      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
         "name": "MANTRA",
         "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
       },
@@ -587,18 +571,18 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "More of The Monkees (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
       },
       "artists": [
         {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 167373,
-      "name": "I'm a Believer - 2006 Remaster",
-      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -615,6 +599,22 @@
       "duration_ms": 230192,
       "name": "Marry You",
       "url": "https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
+        "name": "More of The Monkees (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
+      },
+      "artists": [
+        {
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "I'm a Believer - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3G7tRC24Uh09Hmp1KZ7LQ2"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -851,22 +851,6 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "New Beginning",
-        "url": "https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB"
-      },
-      "artists": [
-        {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
-        }
-      ],
-      "duration_ms": 268333,
-      "name": "Give Me One Reason",
-      "url": "https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
         "name": "Dancing On The Ceiling (Expanded Edition)",
         "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 241066,
       "name": "Say You, Say Me",
       "url": "https://open.spotify.com/track/17CPezzLWzvGfpZW6X8XT0"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 268333,
+      "name": "Give Me One Reason",
+      "url": "https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY"
     },
     {
       "added_at": "2021-02-12 18:11:45",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "Songs In A Minor (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Fallin'",
-      "url": "https://open.spotify.com/track/3unsLiH5FXmaDWtT5Imolu"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
         "name": "Por Primera Vez",
         "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 179339,
       "name": "Tutu",
       "url": "https://open.spotify.com/track/1Ol5LmdNDNpFu1oNwfgkux"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
+        "name": "Songs In A Minor (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/3unsLiH5FXmaDWtT5Imolu"
     },
     {
       "added_at": "2021-02-12 18:11:45",

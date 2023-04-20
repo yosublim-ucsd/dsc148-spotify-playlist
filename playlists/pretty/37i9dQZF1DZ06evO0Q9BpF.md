@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,291 likes - 48 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,345 likes - 48 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,21 +40,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 30 | [Tu Gracia](https://open.spotify.com/track/4pnVqsh2SpbKBKVR0wOVJd) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lorena Castellanos](https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ), [Daniel Berrios](https://open.spotify.com/artist/3fODCvQm2gOnXydNhVdFDt), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Sana Nuestra Nación](https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y) | 8:11 |
 | 31 | [Dios De Avivamiento](https://open.spotify.com/track/2oK5Vp8bA0vaRJhQmhdC7B) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Essential Worship](https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw) | [Dios De Avivamiento](https://open.spotify.com/album/0nwOb0NwaqHCH2BO5sKxFp) | 4:02 |
 | 32 | [Gracias](https://open.spotify.com/track/33dFdcaqLv97oVBHCo6Wcz) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 5:42 |
-| 33 | [Encuentro Glorioso](https://open.spotify.com/track/5QWVPkQkHwYYSJJiFaUt6V) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM) | 5:49 |
-| 34 | [Yo Te Seguiré](https://open.spotify.com/track/6N0A7FP2GwYgTb8Db9o66n) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Yo Te Seguiré](https://open.spotify.com/album/2RS2t8yes056MiafG5dGQE) | 4:32 |
+| 33 | [Yo Te Seguiré](https://open.spotify.com/track/6N0A7FP2GwYgTb8Db9o66n) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Yo Te Seguiré](https://open.spotify.com/album/2RS2t8yes056MiafG5dGQE) | 4:32 |
+| 34 | [Encuentro Glorioso](https://open.spotify.com/track/5QWVPkQkHwYYSJJiFaUt6V) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM) | 5:49 |
 | 35 | [Eres Tú](https://open.spotify.com/track/0l5Q4QKITYaO1w7nrM75kd) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Músiko](https://open.spotify.com/artist/468bq1o2WymC4iUN9cCXly) | [Eres Tú](https://open.spotify.com/album/7qC6N9vB5cPCzUgRLbhMVw) | 3:42 |
 | 36 | [Hasta el Final](https://open.spotify.com/track/1fW7mEEXN4UrG6ZbQXsbjT) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 4:47 |
 | 37 | [Una Nueva Historia](https://open.spotify.com/track/6sxc2kDoRsWDRUeyGKmoTg) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Tu Nos Salvarás](https://open.spotify.com/album/6Y9XV3wB6uILdjHfHy6Aat) | 6:06 |
-| 38 | [Milagros](https://open.spotify.com/track/2kiERVFwmFf2XblqWAaBPG) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS) | 6:28 |
-| 39 | [Mientras Viva](https://open.spotify.com/track/503ZWabGr3NrnDk8WYIma0) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM) | 3:28 |
+| 38 | [Salmo 34](https://open.spotify.com/track/7nfcmZI192eavVdBy7AW6l) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75), [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Salmo 34](https://open.spotify.com/album/0q5MfpJjfoGG03bPfQvIyS) | 4:12 |
+| 39 | [Milagros](https://open.spotify.com/track/2kiERVFwmFf2XblqWAaBPG) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS) | 6:28 |
 | 40 | [Bienvenido](https://open.spotify.com/track/3nM1YF8bnbkS8HzZL9BfWd) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 4:16 |
 | 41 | [Corro a Ti](https://open.spotify.com/track/1TWzVI03Z8DIReVDszddt8) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Tu Nos Salvarás](https://open.spotify.com/album/6Y9XV3wB6uILdjHfHy6Aat) | 5:17 |
-| 42 | [Eres Santo](https://open.spotify.com/track/3y4FxHuewno26pHuJvFrkx) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Somos Uno](https://open.spotify.com/album/5M755OeM0Ad61FrB1ZixHS) | 6:51 |
-| 43 | [Despierta Mi Corazón](https://open.spotify.com/track/3exjY1UuuSPVgdFMFNrxAb) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Despierta Mi Corazón](https://open.spotify.com/album/1wMM1rm4hFDy7LopjY4610) | 7:44 |
-| 44 | [Salmo 34](https://open.spotify.com/track/7nfcmZI192eavVdBy7AW6l) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75), [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Salmo 34](https://open.spotify.com/album/0q5MfpJjfoGG03bPfQvIyS) | 4:12 |
+| 42 | [Mientras Viva](https://open.spotify.com/track/503ZWabGr3NrnDk8WYIma0) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM) | 3:28 |
+| 43 | [Eres Santo](https://open.spotify.com/track/3y4FxHuewno26pHuJvFrkx) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Somos Uno](https://open.spotify.com/album/5M755OeM0Ad61FrB1ZixHS) | 6:51 |
+| 44 | [Despierta Mi Corazón](https://open.spotify.com/track/3exjY1UuuSPVgdFMFNrxAb) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Despierta Mi Corazón](https://open.spotify.com/album/1wMM1rm4hFDy7LopjY4610) | 7:44 |
 | 45 | [La Nube De Tu Gloria \(feat\. Grupo Barak\)](https://open.spotify.com/track/6XtLAdCKyP5BmXnjcDxjkD) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Grupo Barak](https://open.spotify.com/artist/5743Ce6Ev0jeNfXBxpiyQU) | [Seamos Luz](https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS) | 6:29 |
-| 46 | [Me Vuelvo a Ti](https://open.spotify.com/track/7IhUvHVUMPpPqnt6wSSbGf) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Somos Uno](https://open.spotify.com/album/5M755OeM0Ad61FrB1ZixHS) | 4:34 |
-| 47 | [Quién Como Tú](https://open.spotify.com/track/1IJVdbTQCoFJfJFLRlrs8E) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 5:14 |
+| 46 | [Quién Como Tú](https://open.spotify.com/track/1IJVdbTQCoFJfJFLRlrs8E) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 5:14 |
+| 47 | [Me Vuelvo a Ti](https://open.spotify.com/track/7IhUvHVUMPpPqnt6wSSbGf) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Somos Uno](https://open.spotify.com/album/5M755OeM0Ad61FrB1ZixHS) | 4:34 |
 | 48 | [Amanecer](https://open.spotify.com/track/5c9oAzlvPVPpxKCrhRccYm) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Emanuel](https://open.spotify.com/album/27dOnvXZkbLhiGusdxPkWY) | 4:37 |
 
-Snapshot ID: `MjgwMzAzOTAsMDAwMDAwMDA5NzliZjI1NTU1YjI2N2I2NTA2YmFmZWMyY2JkZDc5MA==`
+Snapshot ID: `MjgwMzE3ODMsMDAwMDAwMDAyYTcwODM2Y2QxYTlkYzJmODQ5NDE2MjM2OWJiZDllNA==`

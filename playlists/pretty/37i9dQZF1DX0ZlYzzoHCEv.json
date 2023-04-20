@@ -1,12 +1,12 @@
 {
   "description": "musica per quando non sai insomma come",
-  "num_followers": 31142,
+  "num_followers": 31206,
   "original_name": "la mia testa:",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMGFmYjkxYTQ1NzlhNjY3ZDkwMDM1MTVkODQyMDNjZTc4",
+  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMDE4OTkyZTczOGZjOWRjZTJlMzIyZDlmY2QzZjU2NmY2",
   "tracks": [
     {
       "added_at": "2023-04-07 04:01:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "5LBS OF PRESSURE",
-        "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
-      },
-      "artists": [
-        {
-          "name": "Superstar Pride",
-          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
-        }
-      ],
-      "duration_ms": 122070,
-      "name": "PAINTING PICTURES",
-      "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 185573,
       "name": "Shinunoga E-Wa",
       "url": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "5LBS OF PRESSURE",
+        "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
+      },
+      "artists": [
+        {
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+        }
+      ],
+      "duration_ms": 122070,
+      "name": "PAINTING PICTURES",
+      "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Freddie's Inferno",
-        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 169946,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Hounds Of Love",
         "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 169946,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "RAVE",
-        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
+        "name": "IGOR",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
       },
       "artists": [
         {
-          "name": "Dxrk \u30c0\u30fc\u30af",
-          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 169245,
-      "name": "RAVE",
-      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
+      "duration_ms": 195320,
+      "name": "NEW MAGIC WAND",
+      "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -519,18 +519,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "IGOR",
-        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+        "name": "RAVE",
+        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Dxrk \u30c0\u30fc\u30af",
+          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
         }
       ],
-      "duration_ms": 195320,
-      "name": "NEW MAGIC WAND",
-      "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
+      "duration_ms": 169245,
+      "name": "RAVE",
+      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "moment",
-        "url": "https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m"
-      },
-      "artists": [
-        {
-          "name": "Vierre Cloud",
-          "url": "https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl"
-        }
-      ],
-      "duration_ms": 129543,
-      "name": "moment",
-      "url": "https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Tell Em",
         "url": "https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 180379,
       "name": "Tell Em",
       "url": "https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "moment",
+        "url": "https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m"
+      },
+      "artists": [
+        {
+          "name": "Vierre Cloud",
+          "url": "https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl"
+        }
+      ],
+      "duration_ms": 129543,
+      "name": "moment",
+      "url": "https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1087,26 +1087,6 @@
       "duration_ms": 153758,
       "name": "ORIGAMI ALL'ALBA - CLARA",
       "url": "https://open.spotify.com/track/3X6QTmtaKukOu5lISJYi4g"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Parado no Bail\u00e3o",
-        "url": "https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa"
-      },
-      "artists": [
-        {
-          "name": "MC L da Vinte",
-          "url": "https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo"
-        },
-        {
-          "name": "MC Gury",
-          "url": "https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "Parado no Bail\u00e3o",
-      "url": "https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1139,6 +1119,26 @@
       "duration_ms": 153294,
       "name": "Still Don't Know My Name",
       "url": "https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Parado no Bail\u00e3o",
+        "url": "https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa"
+      },
+      "artists": [
+        {
+          "name": "MC L da Vinte",
+          "url": "https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo"
+        },
+        {
+          "name": "MC Gury",
+          "url": "https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "Parado no Bail\u00e3o",
+      "url": "https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1207,6 +1207,22 @@
       "duration_ms": 182757,
       "name": "MANIAC",
       "url": "https://open.spotify.com/track/63irPUP3xB74fHdw1Aw9zR"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 191622,
+      "name": "sdp interlude",
+      "url": "https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1283,22 +1299,6 @@
       "duration_ms": 195605,
       "name": "novocaine",
       "url": "https://open.spotify.com/track/2OrucC3HEPmZpkaQ05Nx0V"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 191622,
-      "name": "sdp interlude",
-      "url": "https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N"
     }
   ],
   "unique_name": "la mia testa:",

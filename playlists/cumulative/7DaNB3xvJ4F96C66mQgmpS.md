@@ -4,7 +4,7 @@
 
 > Workout songs to get your mental right and blood pumping.
 
-73 songs - 3 hr 51 min
+74 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Machika \- Dillon Francis Remix](https://open.spotify.com/track/3psphMjNlZ6AH8WZSthmvO) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Machika \(Dillon Francis Remix\)](https://open.spotify.com/album/4metRe5Z7olj7AIzTg4guy) | 3:38 | 2022-06-09 | 2022-08-02 |
 | [Mi Gente \- Alesso Remix](https://open.spotify.com/track/4ohMD1wzaaOC2I6jSGFMeP) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Mi Gente \(Alesso Remix\)](https://open.spotify.com/album/5kAmI4hEbce6ncnHbAbX6g) | 3:33 | 2022-06-09 |  |
 | [Moth To A Flame \(with The Weeknd\)](https://open.spotify.com/track/2gpWyfu7eZ01zzncHpxOtA) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Moth To A Flame](https://open.spotify.com/album/3udIvIqyBG1RrHxXrUZDoK) | 3:54 | 2022-06-09 |  |
-| [Mr\. Glock](https://open.spotify.com/track/1ipSpQfzBbhPFhYm6tfVIz) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape](https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9) | 2:26 | 2022-06-09 |  |
+| [Mr\. Glock](https://open.spotify.com/track/1ipSpQfzBbhPFhYm6tfVIz) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape](https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9) | 2:26 | 2022-06-09 | 2023-04-20 |
 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-06-09 |  |
 | [Narco](https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Narco](https://open.spotify.com/album/1lINYBzMLR4DYFverdCmPK) | 3:28 | 2022-09-08 |  |
 | [Never Sleep \(with Lil Baby feat\. Travis Scott\)](https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Never Sleep](https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN) | 3:05 | 2022-08-01 |  |
@@ -81,5 +81,6 @@
 | [What’s Next](https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 2:58 | 2022-06-09 | 2022-06-27 |
 | [Where Did You Go?](https://open.spotify.com/track/26KOUSe9W0ZsTxMgNfbmq1) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Where Did You Go?](https://open.spotify.com/album/27ilYTtTrqVRdHSSfm94jA) | 2:57 | 2022-06-09 |  |
 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 | 2022-06-09 |  |
+| [You Got Me](https://open.spotify.com/track/7KJkPTJ74wOyLoa8iVjHY9) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [You Got Me](https://open.spotify.com/album/17NmpNUsnsBlRgYUImCEBi) | 2:46 | 2023-04-20 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

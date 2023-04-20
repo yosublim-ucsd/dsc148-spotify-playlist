@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 674382,
+  "num_followers": 674495,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDYyODczNSwwMDAwMDAwMDUwY2U4NjMwZmVhNjBmZmNkNTM0MzM2NGY3OWQ4NTBm",
+  "snapshot_id": "MTY4MDYyODczNSwwMDAwMDAwMGZkMzIxYjc3MWM2ZjQ1OGQ4ZmUyNjJhMDU4YjJlN2Zh",
   "tracks": [
     {
       "added_at": "2023-04-04 17:18:55",
@@ -471,38 +471,6 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
-        "name": "Bad Self Portraits",
-        "url": "https://open.spotify.com/album/1Ie34DR7t2RGL8bWBPNWVF"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 215880,
-      "name": "Better Than",
-      "url": "https://open.spotify.com/track/0MH2fBfdoOl17OSbmrwClC"
-    },
-    {
-      "added_at": "2023-04-04 17:18:55",
-      "album": {
-        "name": "Guard Dog",
-        "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 335503,
-      "name": "Used To Be Friends",
-      "url": "https://open.spotify.com/track/1KhSRq5A95Pj3yseW6uK7P"
-    },
-    {
-      "added_at": "2023-04-04 17:18:55",
-      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -527,6 +495,38 @@
       "duration_ms": 206465,
       "name": "Me & My Dog",
       "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
+    },
+    {
+      "added_at": "2023-04-04 17:18:55",
+      "album": {
+        "name": "Guard Dog",
+        "url": "https://open.spotify.com/album/4Y7xxhWtydlfjYiaGolr58"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 335503,
+      "name": "Used To Be Friends",
+      "url": "https://open.spotify.com/track/1KhSRq5A95Pj3yseW6uK7P"
+    },
+    {
+      "added_at": "2023-04-04 17:18:55",
+      "album": {
+        "name": "Bad Self Portraits",
+        "url": "https://open.spotify.com/album/1Ie34DR7t2RGL8bWBPNWVF"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 215880,
+      "name": "Better Than",
+      "url": "https://open.spotify.com/track/0MH2fBfdoOl17OSbmrwClC"
     },
     {
       "added_at": "2023-04-04 17:18:55",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        },
-        {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
-        }
-      ],
-      "duration_ms": 246573,
-      "name": "Honey Dove",
-      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
-    },
-    {
-      "added_at": "2023-04-04 17:18:55",
-      "album": {
         "name": "Cool Dry Place",
         "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
@@ -1283,18 +1263,22 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
-        "name": "Linger Awhile",
-        "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
+        "name": "My World",
+        "url": "https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc"
       },
       "artists": [
         {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        },
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
         }
       ],
-      "duration_ms": 294287,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng"
+      "duration_ms": 246573,
+      "name": "Honey Dove",
+      "url": "https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH"
     },
     {
       "added_at": "2023-04-04 17:18:55",
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
-        "name": "Son Little (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ"
+        "name": "Linger Awhile",
+        "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
       },
       "artists": [
         {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Lay Down",
-      "url": "https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1"
+      "duration_ms": 294287,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng"
     },
     {
       "added_at": "2023-04-04 17:18:55",
@@ -1359,6 +1343,22 @@
       "duration_ms": 167213,
       "name": "either side",
       "url": "https://open.spotify.com/track/5zsbL78TMgXh1vzt77h5pl"
+    },
+    {
+      "added_at": "2023-04-04 17:18:55",
+      "album": {
+        "name": "Son Little (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Lay Down",
+      "url": "https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1"
     },
     {
       "added_at": "2023-04-04 17:18:55",
@@ -1399,38 +1399,6 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
-        "name": "Hannah",
-        "url": "https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ"
-      },
-      "artists": [
-        {
-          "name": "Lomelda",
-          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
-        }
-      ],
-      "duration_ms": 208382,
-      "name": "Hannah Sun",
-      "url": "https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig"
-    },
-    {
-      "added_at": "2023-04-04 17:18:55",
-      "album": {
-        "name": "Lightning Of July",
-        "url": "https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG"
-      },
-      "artists": [
-        {
-          "name": "Baird",
-          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
-        }
-      ],
-      "duration_ms": 176666,
-      "name": "Lightning Of July",
-      "url": "https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ"
-    },
-    {
-      "added_at": "2023-04-04 17:18:55",
-      "album": {
         "name": "All Things Must Pass (2014 Remaster)",
         "url": "https://open.spotify.com/album/4RzYS74QxvpqTDVwKbhuSg"
       },
@@ -1447,6 +1415,22 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
+        "name": "Hannah",
+        "url": "https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ"
+      },
+      "artists": [
+        {
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+        }
+      ],
+      "duration_ms": 208382,
+      "name": "Hannah Sun",
+      "url": "https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig"
+    },
+    {
+      "added_at": "2023-04-04 17:18:55",
+      "album": {
         "name": "Shanti",
         "url": "https://open.spotify.com/album/0u5GdeMzPuGFMbkJgt2RHz"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 163072,
       "name": "Love Child",
       "url": "https://open.spotify.com/track/7xlhCrF1qme2kFUmynnaQq"
+    },
+    {
+      "added_at": "2023-04-04 17:18:55",
+      "album": {
+        "name": "Lightning Of July",
+        "url": "https://open.spotify.com/album/7tCSAe5FtwRJmQZgLE24EG"
+      },
+      "artists": [
+        {
+          "name": "Baird",
+          "url": "https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO"
+        }
+      ],
+      "duration_ms": 176666,
+      "name": "Lightning Of July",
+      "url": "https://open.spotify.com/track/3Q4WTzhqY25Y7aVCmYt4TJ"
     },
     {
       "added_at": "2023-04-04 17:18:55",
@@ -1527,18 +1527,22 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
-        "name": "Misnomer",
-        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
+        "name": "((( 2 )))",
+        "url": "https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ"
       },
       "artists": [
         {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+          "name": "((( O )))",
+          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
+        },
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
         }
       ],
-      "duration_ms": 222815,
-      "name": "Misnomer",
-      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
+      "duration_ms": 269638,
+      "name": "iFeel",
+      "url": "https://open.spotify.com/track/5sOft06wJLNSza2YwnE2MO"
     },
     {
       "added_at": "2023-04-04 17:18:55",
@@ -1563,22 +1567,18 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
-        "name": "((( 2 )))",
-        "url": "https://open.spotify.com/album/3Oek1SjcuXDich2rfbRipZ"
+        "name": "Misnomer",
+        "url": "https://open.spotify.com/album/0aNMzqcyM7xXdSiPGgix7m"
       },
       "artists": [
         {
-          "name": "((( O )))",
-          "url": "https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8"
-        },
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
         }
       ],
-      "duration_ms": 269638,
-      "name": "iFeel",
-      "url": "https://open.spotify.com/track/5sOft06wJLNSza2YwnE2MO"
+      "duration_ms": 222815,
+      "name": "Misnomer",
+      "url": "https://open.spotify.com/track/7wy7FXfzZFAbsrpcM924nw"
     },
     {
       "added_at": "2023-04-04 17:18:55",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2023-04-04 17:18:55",
       "album": {
-        "name": "Lotta Love",
-        "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
-      },
-      "artists": [
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        },
-        {
-          "name": "Flock of Dimes",
-          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
-        }
-      ],
-      "duration_ms": 197624,
-      "name": "Lotta Love",
-      "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
-    },
-    {
-      "added_at": "2023-04-04 17:18:55",
-      "album": {
         "name": "Forever & A Few",
         "url": "https://open.spotify.com/album/1NHlnn47gB3IrP9fwahcjF"
       },
@@ -1663,6 +1643,22 @@
       "duration_ms": 251034,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB"
+    },
+    {
+      "added_at": "2023-04-04 17:18:55",
+      "album": {
+        "name": "Sticky Thumb",
+        "url": "https://open.spotify.com/album/5fRFL33mS6f2EtH9RjOz68"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 194398,
+      "name": "Twinkle",
+      "url": "https://open.spotify.com/track/0HYx2H2vKfC3CqwdsmDWcf"
     }
   ],
   "unique_name": "Stay in Bed",

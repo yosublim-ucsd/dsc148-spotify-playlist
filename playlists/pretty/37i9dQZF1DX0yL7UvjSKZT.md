@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Nickel Creek
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,557 likes - 145 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,570 likes - 145 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 81 | [Ohio](https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu) | [Haunted Like Human](https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI) | [Tall Tales & Fables](https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr) | 2:57 |
 | 82 | [Blue Sky Moon](https://open.spotify.com/track/3111xRtNBbWexzWjCYZQp2) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Blue Sky Moon](https://open.spotify.com/album/1Un7VebKIR6iEcFnvS2Rky) | 4:20 |
 | 83 | [Meeting Is Over](https://open.spotify.com/track/0Jyru2R52NaBR6wiEGMQUp) | [Moira Smiley](https://open.spotify.com/artist/035KHOtaTMMoN7YASM6mwk), [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd), [Seamus Egan](https://open.spotify.com/artist/5dWAsW7cMbMCswqTwN2jQm) | [Meeting Is Over](https://open.spotify.com/album/4YgPIWCcfPIfpkgmewgoYx) | 4:24 |
-| 84 | [The Middle](https://open.spotify.com/track/46X5yC3riaLqYzh8xwf6qm) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [The Middle](https://open.spotify.com/album/1oRVBQBpyqw1nrDROwOmct) | 4:28 |
+| 84 | [The Middle](https://open.spotify.com/track/2aku9CbppMvVCbuDe4scTB) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Life Is Good on the Open Road](https://open.spotify.com/album/2U6ejoIDreiVA6Tt0ITxRh) | 4:28 |
 | 85 | [Little Sadie](https://open.spotify.com/track/5oZVRtVqTDawr47jOda6AH) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound \(Deluxe\)](https://open.spotify.com/album/45cjYhMQZBlltDVr6sLXrG) | 2:32 |
 | 86 | [The Sea \- Alternative Version](https://open.spotify.com/track/6FftizetgbURg5ung5zcLP) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [The Sea \(Alternative Version\)](https://open.spotify.com/album/5m6kuUHx1i8V17bAz7cTTo) | 2:26 |
 | 87 | [Leo Queen](https://open.spotify.com/track/66fh0xReKq99RZN2zxzzk8) | [Haliday](https://open.spotify.com/artist/4bHGlETbjIGNNVOwLSRXKr) | [Leo Queen](https://open.spotify.com/album/7dR45u0DXONhiDuclryEoO) | 2:08 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 144 | [The Horn](https://open.spotify.com/track/5mJ54mjLUJ7OSexRIVRmR4) | [Mark Grundhoefer](https://open.spotify.com/artist/2oyvJcvWPCBKVW9tnvAC5w) | [Lose Me In The Swamp](https://open.spotify.com/album/4WjMjQ7ojwSEaniI6rwMop) | 2:24 |
 | 145 | [Don't Cry](https://open.spotify.com/track/2LciJyqCfI8mHGy1moiHZv) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 3:21 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDUxMDk5YmQzOTIzZWYwOGI4MDlhMjg2ZjgzNzI2MTU5`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDU1M2Q2N2U4M2FkNjA0NjY5ZWQ3NmI0NWFiMDRhMDFm`

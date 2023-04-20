@@ -4,7 +4,7 @@
 
 > Happy tunes from the 50s, 60s & 70s\. Cover: The Beach Boys.
 
-321 songs - 17 hr 53 min
+322 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Down By The Lazy River](https://open.spotify.com/track/49ZAeWd40u4py51DpjEY8p) | [The Osmonds](https://open.spotify.com/artist/5fU6lODhpw3GEGGJuaDprR) | [Phase III](https://open.spotify.com/album/3VwNz7AtkuvdOkX6cXVO7a) | 2:43 | 2021-04-29 | 2022-07-28 |
 | [Down on the Street](https://open.spotify.com/track/0dhYNcWtbUVJwGEuP4e0yN) | [Shakatak](https://open.spotify.com/artist/5FFtX4eFjh2vZQEl31d2XJ) | [The Best Of](https://open.spotify.com/album/2sYY6PIDZ3QiiLbXj0jacx) | 3:16 | 2021-04-29 | 2022-04-21 |
 | [Downtown](https://open.spotify.com/track/0hgWgToJgb7O1tT12YWRCz) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Les Plus Grands Succès De Petula Clark](https://open.spotify.com/album/4Z05J0oWrBhYR89jcDsju9) | 3:03 | 2021-04-29 | 2022-07-29 |
+| [Downtown](https://open.spotify.com/track/0mVTT4eqN3TbcieL6ShnDH) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Les Annees Petula](https://open.spotify.com/album/5JG1zi4jVUPJqYx5jkv1cR) | 3:05 | 2023-01-03 |  |
 | [Downtown](https://open.spotify.com/track/0ZQ6ckgerHYM5mOUxTl99Q) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [The Ultimate Petula Clark](https://open.spotify.com/album/4pvPAWiVRHdnVXkOt49sKk) | 3:07 | 2022-05-11 | 2023-04-05 |
 | [Dream Lover \- 2006 Remaster](https://open.spotify.com/track/4GqMYg91LJXiLjvQBFc3s0) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Definitive Pop: Bobby Darin](https://open.spotify.com/album/23LtBxKUYBWCNQxcM2Iefo) | 2:31 | 2021-04-29 | 2022-07-29 |
 | [Everlasting Love](https://open.spotify.com/track/40XXjm2pU6LGZkLq5VmkaQ) | [Love Affair](https://open.spotify.com/artist/7aXDGr3cUBmH2Kx1yBC7Ux) | [The Everlasting Love Affair](https://open.spotify.com/album/2BX02XIupm6Sw7cdaT7gVX) | 3:02 | 2021-04-29 | 2023-04-04 |
@@ -113,7 +114,7 @@
 | [Happy Together](https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:56 | 2021-04-29 |  |
 | [He's So Fine \- Remastered 2000](https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 1:52 | 2021-04-29 |  |
 | [He's the Greatest Dancer \- 1995 Remaster](https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [We Are Family \(1995 Remaster\)](https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT) | 6:15 | 2021-04-29 |  |
-| [Heaven Must Be Missing An Angel \- Pt\. 1](https://open.spotify.com/track/7qQzkUWsbvoTDbNpW3FHQu) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [It Only Takes a Minute: A Lifetime with Tavares](https://open.spotify.com/album/1Qe9DoLXWCIwguQieoTcQh) | 6:29 | 2021-04-29 |  |
+| [Heaven Must Be Missing An Angel \- Pt\. 1](https://open.spotify.com/track/7qQzkUWsbvoTDbNpW3FHQu) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [It Only Takes a Minute: A Lifetime with Tavares](https://open.spotify.com/album/1Qe9DoLXWCIwguQieoTcQh) | 6:29 | 2021-04-29 | 2023-04-20 |
 | [Heaven Must Be Missing An Angel \- Pt\. 1](https://open.spotify.com/track/7BDW57CKVzbjvwRT2xuv01) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [Sky High](https://open.spotify.com/album/0Iytoyo5RIovN9CL5Ii8nW) | 6:33 | 2022-05-11 | 2022-09-19 |
 | [Heaven Must Have Sent You \- Mono Single](https://open.spotify.com/track/2j24h8ZvzouJRg2HzHvRH4) | [The Elgins](https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK) | [The Motown Anthology](https://open.spotify.com/album/5VPaWphXyRUpqdXtgQqegP) | 2:30 | 2021-05-11 | 2022-07-29 |
 | [Hello Mary Lou, Goodbye Heart \- Remastered](https://open.spotify.com/track/6ImmlZj8ysK2jDnqqbKp60) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Rick Is 21](https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe) | 2:18 | 2021-04-29 |  |

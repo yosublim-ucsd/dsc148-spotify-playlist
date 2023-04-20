@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 125403,
+  "num_followers": 125550,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODA5MDg2MCwwMDAwMDAwMGNlMzAwOTkwOGJjZDg5ZDk0ZDRlZDhkYjQzMjdjMWRk",
+  "snapshot_id": "MTY3ODA5MDg2MCwwMDAwMDAwMDA3MDk5MzA4ODYxNjUzMmU0ZTFhNmUyMTNhYWI5NTVj",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Es ist Abend und wir sitzen bei mir",
-        "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
-      },
-      "artists": [
-        {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "Katharina",
-      "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Eigentlich",
         "url": "https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 158895,
       "name": "Eigentlich",
       "url": "https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Es ist Abend und wir sitzen bei mir",
+        "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "Katharina",
+      "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Von Anfang An",
-        "url": "https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c"
-      },
-      "artists": [
-        {
-          "name": "M\u00fcnchener Freiheit",
-          "url": "https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
-      "url": "https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Von Hier An Blind",
         "url": "https://open.spotify.com/album/4JG9iU4O51GLseXEWAkZkw"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 161882,
       "name": "Vermissen (feat. Henning May)",
       "url": "https://open.spotify.com/track/1SSzM044DUbVpYNNHWIhYJ"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Von Anfang An",
+        "url": "https://open.spotify.com/album/5ukgNJrp4K2uflZKVTzG1c"
+      },
+      "artists": [
+        {
+          "name": "M\u00fcnchener Freiheit",
+          "url": "https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
+      "url": "https://open.spotify.com/track/7JM1dFLOa1kI5MqGnDufiY"
     },
     {
       "added_at": "2023-03-06 08:21:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Vom selben Stern (Exklusive Version)",
-        "url": "https://open.spotify.com/album/5jwLOKmgtK8X5PV0iwG0wn"
-      },
-      "artists": [
-        {
-          "name": "Ich + Ich",
-          "url": "https://open.spotify.com/artist/3oCrmkKTKBi7DUgmtyGkId"
-        }
-      ],
-      "duration_ms": 228373,
-      "name": "Vom selben Stern - Radio Edit",
-      "url": "https://open.spotify.com/track/4kCYJigsNQJqs6kpMSlsmL"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "2012",
         "url": "https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 170200,
       "name": "2012",
       "url": "https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Vom selben Stern (Exklusive Version)",
+        "url": "https://open.spotify.com/album/5jwLOKmgtK8X5PV0iwG0wn"
+      },
+      "artists": [
+        {
+          "name": "Ich + Ich",
+          "url": "https://open.spotify.com/artist/3oCrmkKTKBi7DUgmtyGkId"
+        }
+      ],
+      "duration_ms": 228373,
+      "name": "Vom selben Stern - Radio Edit",
+      "url": "https://open.spotify.com/track/4kCYJigsNQJqs6kpMSlsmL"
     },
     {
       "added_at": "2023-03-06 08:21:00",

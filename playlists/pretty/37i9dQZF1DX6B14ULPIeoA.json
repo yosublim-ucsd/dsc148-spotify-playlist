@@ -1,12 +1,12 @@
 {
   "description": "Con mucha dulzura y sabor para un momento de relax. ",
-  "num_followers": 39887,
+  "num_followers": 39937,
   "original_name": "Caf\u00e9 de Olla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjMwMjY4MCwwMDAwMDAwMDBkMjhiMTY0NzFkMWVkMTg2NWVhMGJjN2QxNTViM2Q1",
+  "snapshot_id": "MTY3NjMwMjY4MCwwMDAwMDAwMDE1OTU4NzdhYmNhYjAzMzJhYmNlZWQ1OWZmNWQ2MWE5",
   "tracks": [
     {
       "added_at": "2022-09-23 18:17:22",
@@ -315,22 +315,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Llevatela",
-        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
-      },
-      "artists": [
-        {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Llevatela",
-      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Adoro",
         "url": "https://open.spotify.com/album/4RXbe2z6RIpyCEluLk9nd4"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 145750,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/7fQ8mPzBybAaVRoM4cZ0T5"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Llevatela",
+        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
+      },
+      "artists": [
+        {
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Llevatela",
+      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
+        "name": "Me Vuelves Loco",
+        "url": "https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX"
+      },
+      "artists": [
+        {
+          "name": "Los Suculentos",
+          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Me Vuelves Loco",
+      "url": "https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
         "name": "Presentimiento",
         "url": "https://open.spotify.com/album/0nWb8ZW4xynOxjNR0L3yEr"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 180400,
       "name": "Presentimiento",
       "url": "https://open.spotify.com/track/4i5oTNy1YUFjKDPyeRgSPQ"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
-        "name": "Me Vuelves Loco",
-        "url": "https://open.spotify.com/album/5CiVVzX1ivSwc5eoBoaukX"
-      },
-      "artists": [
-        {
-          "name": "Los Suculentos",
-          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Me Vuelves Loco",
-      "url": "https://open.spotify.com/track/1SPQNLWfqc062pcoDatLxw"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "El Viaje",
-        "url": "https://open.spotify.com/album/44HzmqeXrVMkV4XCAb4Muv"
-      },
-      "artists": [
-        {
-          "name": "Juan Jose Moreno",
-          "url": "https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P"
-        }
-      ],
-      "duration_ms": 168196,
-      "name": "El Viaje",
-      "url": "https://open.spotify.com/track/2YFGFwuUBprxAXQjVHS4Q3"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Flor de Terciopelo",
         "url": "https://open.spotify.com/album/5MhACAv7eEF8vSZurky3t6"
       },
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
+        "name": "El Viaje",
+        "url": "https://open.spotify.com/album/44HzmqeXrVMkV4XCAb4Muv"
+      },
+      "artists": [
+        {
+          "name": "Juan Jose Moreno",
+          "url": "https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P"
+        }
+      ],
+      "duration_ms": 168196,
+      "name": "El Viaje",
+      "url": "https://open.spotify.com/track/2YFGFwuUBprxAXQjVHS4Q3"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
         "name": "El Banco De La Plaza",
         "url": "https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 277258,
       "name": "El Banco De La Plaza",
       "url": "https://open.spotify.com/track/4dvP23JMvMggnNx9SWSL1d"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI"
+      },
+      "artists": [
+        {
+          "name": "Byron Brizz",
+          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
+        }
+      ],
+      "duration_ms": 177142,
+      "name": "Europa - Mariachi Bolero Cover",
+      "url": "https://open.spotify.com/track/1NZCXBfmaaLbRllblMJZwG"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI"
-      },
-      "artists": [
-        {
-          "name": "Byron Brizz",
-          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
-        }
-      ],
-      "duration_ms": 153142,
-      "name": "En Mi Viejo San Juan - Mariachi Bolero Cover",
-      "url": "https://open.spotify.com/track/2II53s4BPSJNK2ibonPL7L"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Si Me Faltas Tu",
         "url": "https://open.spotify.com/album/2TUNJosqZo997I9rAyS4aT"
       },
@@ -1083,22 +1083,6 @@
       "duration_ms": 217588,
       "name": "Si Me Faltas Tu",
       "url": "https://open.spotify.com/track/0ei3cuKOiBVDlbznVMrCbi"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
-        "name": "Barracas Bird",
-        "url": "https://open.spotify.com/album/6CItD5vZzN9KcMCitNZXX8"
-      },
-      "artists": [
-        {
-          "name": "Los Suculentos",
-          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Barracas Bird",
-      "url": "https://open.spotify.com/track/79Ny2c8UogZ0We79hPRnMk"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
+        "name": "Barracas Bird",
+        "url": "https://open.spotify.com/album/6CItD5vZzN9KcMCitNZXX8"
+      },
+      "artists": [
+        {
+          "name": "Los Suculentos",
+          "url": "https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN"
+        }
+      ],
+      "duration_ms": 163500,
+      "name": "Barracas Bird",
+      "url": "https://open.spotify.com/track/79Ny2c8UogZ0We79hPRnMk"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
         "name": "Bolero Mientras Tanto",
         "url": "https://open.spotify.com/album/4L055vgTYvevOpwOXPTR6Z"
       },
@@ -1131,22 +1131,6 @@
       "duration_ms": 179000,
       "name": "Bolero Mientras Tanto",
       "url": "https://open.spotify.com/track/0iKHZPDNJBn9o4tPawbjQU"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
-        "name": "Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI"
-      },
-      "artists": [
-        {
-          "name": "Byron Brizz",
-          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
-        }
-      ],
-      "duration_ms": 177142,
-      "name": "Europa - Mariachi Bolero Cover",
-      "url": "https://open.spotify.com/track/1NZCXBfmaaLbRllblMJZwG"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1211,6 +1195,22 @@
       "duration_ms": 216064,
       "name": "Desvelado",
       "url": "https://open.spotify.com/track/36eepHhoFbb1arI7eXzjGl"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI"
+      },
+      "artists": [
+        {
+          "name": "Byron Brizz",
+          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
+        }
+      ],
+      "duration_ms": 153142,
+      "name": "En Mi Viejo San Juan - Mariachi Bolero Cover",
+      "url": "https://open.spotify.com/track/2II53s4BPSJNK2ibonPL7L"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Alma Mexicana",
-        "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
-      },
-      "artists": [
-        {
-          "name": "Byron Brizz",
-          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
-        },
-        {
-          "name": "David Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i"
-        }
-      ],
-      "duration_ms": 124613,
-      "name": "No Te Ment\u00ed",
-      "url": "https://open.spotify.com/track/1YsobFyJPJXt0B1EGizzNv"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Me Vas A Extran\u0303ar",
         "url": "https://open.spotify.com/album/3cS4nEdOhg1OKLucxA7Uh4"
       },
@@ -1383,6 +1363,26 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
+        "name": "Alma Mexicana",
+        "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
+      },
+      "artists": [
+        {
+          "name": "Byron Brizz",
+          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
+        },
+        {
+          "name": "David Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i"
+        }
+      ],
+      "duration_ms": 124613,
+      "name": "No Te Ment\u00ed",
+      "url": "https://open.spotify.com/track/1YsobFyJPJXt0B1EGizzNv"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
         "name": "Tragos Amargos",
         "url": "https://open.spotify.com/album/4rTSPDvuo9XFaNn0SioHJl"
       },
@@ -1411,6 +1411,22 @@
       "duration_ms": 147250,
       "name": "La Puerta Negra",
       "url": "https://open.spotify.com/track/4gw8Ug5ZPHrquojcWPtDP7"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Trio Azteca: Folk Songs and Ballads",
+        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 183400,
+      "name": "La barca",
+      "url": "https://open.spotify.com/track/2bKWGYLXfunIGqkSbVartz"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1447,42 +1463,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Alma Mexicana",
-        "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
-      },
-      "artists": [
-        {
-          "name": "Byron Brizz",
-          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
-        },
-        {
-          "name": "David Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i"
-        }
-      ],
-      "duration_ms": 129199,
-      "name": "Rancho Abandonado",
-      "url": "https://open.spotify.com/track/3NeUoyAmPF1IYZ6ISGTq69"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
-        "name": "Trio Azteca: Folk Songs and Ballads",
-        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
-      },
-      "artists": [
-        {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
-        }
-      ],
-      "duration_ms": 183400,
-      "name": "La barca",
-      "url": "https://open.spotify.com/track/2bKWGYLXfunIGqkSbVartz"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Exitos de Juan Zaizar",
         "url": "https://open.spotify.com/album/5L5AW3heSexIq7mmccsi65"
       },
@@ -1515,22 +1495,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Me La Avente",
-        "url": "https://open.spotify.com/album/64ACb5cSpTJU9Kzq3CDDiQ"
-      },
-      "artists": [
-        {
-          "name": "Nicole Morenno",
-          "url": "https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T"
-        }
-      ],
-      "duration_ms": 156750,
-      "name": "Me La Avente",
-      "url": "https://open.spotify.com/track/4BVtzn6TkSJ9lTmh1eK2fg"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/5bl2leCLhSGFwpjEndig0D"
       },
@@ -1547,18 +1511,38 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Mexico: 20 Best Mariachi and Folk Songs",
-        "url": "https://open.spotify.com/album/056QcfXOgyiTK2LKaeJ5Y9"
+        "name": "Me La Avente",
+        "url": "https://open.spotify.com/album/64ACb5cSpTJU9Kzq3CDDiQ"
       },
       "artists": [
         {
-          "name": "Trio Azteca",
-          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+          "name": "Nicole Morenno",
+          "url": "https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T"
         }
       ],
-      "duration_ms": 138426,
-      "name": "La media vuelta",
-      "url": "https://open.spotify.com/track/03fXI8pVGMV7XnkTMTbmrW"
+      "duration_ms": 156750,
+      "name": "Me La Avente",
+      "url": "https://open.spotify.com/track/4BVtzn6TkSJ9lTmh1eK2fg"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Alma Mexicana",
+        "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
+      },
+      "artists": [
+        {
+          "name": "Byron Brizz",
+          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
+        },
+        {
+          "name": "David Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i"
+        }
+      ],
+      "duration_ms": 129199,
+      "name": "Rancho Abandonado",
+      "url": "https://open.spotify.com/track/3NeUoyAmPF1IYZ6ISGTq69"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1579,6 +1563,22 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
+        "name": "Mexico: 20 Best Mariachi and Folk Songs",
+        "url": "https://open.spotify.com/album/056QcfXOgyiTK2LKaeJ5Y9"
+      },
+      "artists": [
+        {
+          "name": "Trio Azteca",
+          "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
+        }
+      ],
+      "duration_ms": 138426,
+      "name": "La media vuelta",
+      "url": "https://open.spotify.com/track/03fXI8pVGMV7XnkTMTbmrW"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
         "name": "Pero Te Vas A Arrepentir",
         "url": "https://open.spotify.com/album/3n9BU9XWfMvoFoEjLD63Jp"
       },
@@ -1591,26 +1591,6 @@
       "duration_ms": 266582,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/4YCBA1jE6wEbZNttfHHeTS"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
-        "name": "Alma Mexicana",
-        "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
-      },
-      "artists": [
-        {
-          "name": "Byron Brizz",
-          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
-        },
-        {
-          "name": "David Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i"
-        }
-      ],
-      "duration_ms": 145125,
-      "name": "Me Muero Sin Tus Besos",
-      "url": "https://open.spotify.com/track/5A1XB9lNEvGHWNu1hkOpKT"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1663,6 +1643,22 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
+        "name": "No Llega El Olvido",
+        "url": "https://open.spotify.com/album/7bagxAevbVdVOcRs3MMw7q"
+      },
+      "artists": [
+        {
+          "name": "Son De Durango",
+          "url": "https://open.spotify.com/artist/0ISEAJsaLxPWWkKJ9JLmd6"
+        }
+      ],
+      "duration_ms": 180504,
+      "name": "No Llega El Olvido",
+      "url": "https://open.spotify.com/track/10bmWgJ6muXStXBclouwPV"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
         "name": "Mariachi: Mi Nombre Es M\u00e9xico",
         "url": "https://open.spotify.com/album/6kdd6Z3nAvWbxPZVpZlBgV"
       },
@@ -1711,18 +1707,22 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "No Llega El Olvido",
-        "url": "https://open.spotify.com/album/7bagxAevbVdVOcRs3MMw7q"
+        "name": "Alma Mexicana",
+        "url": "https://open.spotify.com/album/5q23NA34MBehDCwbbhfDBJ"
       },
       "artists": [
         {
-          "name": "Son De Durango",
-          "url": "https://open.spotify.com/artist/0ISEAJsaLxPWWkKJ9JLmd6"
+          "name": "Byron Brizz",
+          "url": "https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ"
+        },
+        {
+          "name": "David Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4NMM9OaHOyncdIvuDks37i"
         }
       ],
-      "duration_ms": 180504,
-      "name": "No Llega El Olvido",
-      "url": "https://open.spotify.com/track/10bmWgJ6muXStXBclouwPV"
+      "duration_ms": 145125,
+      "name": "Me Muero Sin Tus Besos",
+      "url": "https://open.spotify.com/track/5A1XB9lNEvGHWNu1hkOpKT"
     },
     {
       "added_at": "2022-09-23 18:17:22",

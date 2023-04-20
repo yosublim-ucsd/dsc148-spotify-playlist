@@ -2578,7 +2578,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
@@ -2846,7 +2846,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-28",
+      "date_removed": null,
       "duration_ms": 183956,
       "name": "I Wanna Be Yours",
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
@@ -6588,7 +6588,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 181760,
       "name": "\u05d0\u05d7\u05d5\u05ea\u05d9 \u05db\u05d1\u05e8 \u05dc\u05d0 \u05e1\u05d5\u05d1\u05dc\u05ea \u05d0\u05d5\u05ea\u05da",
       "url": "https://open.spotify.com/track/6clAq1cGO4PYimAmzelTmL"
@@ -7200,6 +7200,24 @@
       "duration_ms": 200142,
       "name": "\u05d0\u05e4\u05e1 \u05de\u05d0\u05de\u05e5",
       "url": "https://open.spotify.com/track/3scEZ2JrbtrqfUvgHrPnSt"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05e4\u05e8 \u05d5\u05d0\u05d1\u05e7",
+        "url": "https://open.spotify.com/album/2px1DDWf7a8xfM55qoMAXB"
+      },
+      "artists": [
+        {
+          "name": "Yehuda Poliker",
+          "url": "https://open.spotify.com/artist/4rQnQQusV2VVuGmDTLlybe"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272960,
+      "name": "\u05d0\u05e4\u05e8 \u05d5\u05d0\u05d1\u05e7",
+      "url": "https://open.spotify.com/track/1e5SBUMJfQ9Mx3Zk0OXZmg"
     },
     {
       "album": {
@@ -8248,7 +8266,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 138805,
       "name": "\u05d4\u05e4\u05e9\u05e2 \u05d4\u05de\u05d5\u05e9\u05dc\u05dd",
       "url": "https://open.spotify.com/track/6kVmhOoBlMEH3WdxrLhjFB"
@@ -9590,7 +9608,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 150874,
       "name": "\u05dc\u05d4\u05d9\u05d8 \u05e9\u05dc \u05e9\u05d9\u05e8 \u05d0\u05d7\u05d3",
       "url": "https://open.spotify.com/track/52Do4VrXDPuXZ1KH2TZcqw"
@@ -9868,7 +9886,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-07",
+      "date_removed": null,
       "duration_ms": 186880,
       "name": "\u05dc\u05e8\u05d0\u05d5\u05ea \u05d0\u05ea \u05d4\u05d0\u05d5\u05e8",
       "url": "https://open.spotify.com/track/5vcjj1PnF81hHkf6tkHZWh"
@@ -9886,7 +9904,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 197481,
       "name": "\u05dc\u05e9\u05d5\u05d1 \u05d4\u05d1\u05d9\u05ea\u05d4",
       "url": "https://open.spotify.com/track/52n4gF126eIllrGuc9Zus6"
@@ -9952,7 +9970,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 120000,
       "name": "\u05de\u05d0\u05de\u05d9",
       "url": "https://open.spotify.com/track/2gpNRdJs3Sy5GI1G7pTgbZ"
@@ -11314,7 +11332,7 @@
       ],
       "date_added": "2022-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 216809,
       "name": "\u05e1\u05ea\u05dc\u05d1\u05d8 \u05d1\u05e7\u05d9\u05d1\u05d5\u05e5",
       "url": "https://open.spotify.com/track/2G1o9Mq8KpamOwJPZLuJc7"

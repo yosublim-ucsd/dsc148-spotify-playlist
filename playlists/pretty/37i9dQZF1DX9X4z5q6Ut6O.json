@@ -1,12 +1,12 @@
 {
   "description": "Caminando de la mano... eres mi raz\u00f3n de ser.",
-  "num_followers": 101413,
+  "num_followers": 101461,
   "original_name": "Mi Raz\u00f3n de Ser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjQzMjcyNiwwMDAwMDAwMGFlNzdhYjQ4MzY5MDMxODRiODU2OTBhNjc0YjFiMGNj",
+  "snapshot_id": "MTY3MjQzMjcyNiwwMDAwMDAwMDVlZThmNDJjZWVmMzY3ZTVjZGQwNGQxNGVkYmM4MDQz",
   "tracks": [
     {
       "added_at": "2022-12-30 20:38:46",
@@ -107,22 +107,18 @@
     {
       "added_at": "2022-12-30 20:38:46",
       "album": {
-        "name": "Loco Enamorado",
-        "url": "https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N"
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
       },
       "artists": [
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Loco Enamorado",
-      "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
     },
     {
       "added_at": "2022-12-30 20:38:46",
@@ -147,18 +143,22 @@
     {
       "added_at": "2022-12-30 20:38:46",
       "album": {
-        "name": "En Vivo desde El Foro Lizos Music",
-        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
+        "name": "Loco Enamorado",
+        "url": "https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N"
       },
       "artists": [
         {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 152186,
-      "name": "Es Que Me Gustas - En Vivo",
-      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
+      "duration_ms": 226000,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
     },
     {
       "added_at": "2022-12-30 20:38:46",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-12-30 20:38:46",
       "album": {
-        "name": "El Mundo a Tus Pies",
-        "url": "https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 176226,
-      "name": "El Mundo a Tus Pies",
-      "url": "https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp"
-    },
-    {
-      "added_at": "2022-12-30 20:38:46",
-      "album": {
         "name": "El Primer Ministro",
         "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 145560,
       "name": "Ma\u00f1ana Voy A Conquistarla",
       "url": "https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd"
+    },
+    {
+      "added_at": "2022-12-30 20:38:46",
+      "album": {
+        "name": "El Mundo a Tus Pies",
+        "url": "https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 176226,
+      "name": "El Mundo a Tus Pies",
+      "url": "https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp"
     },
     {
       "added_at": "2022-12-30 20:38:46",
@@ -611,22 +611,6 @@
     {
       "added_at": "2022-12-30 20:38:46",
       "album": {
-        "name": "Mi Mayor Anhelo",
-        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 209786,
-      "name": "Mi Mayor Anhelo",
-      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
-    },
-    {
-      "added_at": "2022-12-30 20:38:46",
-      "album": {
         "name": "Eres Mi Crush",
         "url": "https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 161194,
       "name": "Eres Mi Crush",
       "url": "https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi"
+    },
+    {
+      "added_at": "2022-12-30 20:38:46",
+      "album": {
+        "name": "Mi Mayor Anhelo",
+        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 209786,
+      "name": "Mi Mayor Anhelo",
+      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
     },
     {
       "added_at": "2022-12-30 20:38:46",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-12-30 20:38:46",
       "album": {
-        "name": "El Amor So\u00f1ado",
-        "url": "https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 182680,
-      "name": "El Amor So\u00f1ado",
-      "url": "https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC"
-    },
-    {
-      "added_at": "2022-12-30 20:38:46",
-      "album": {
         "name": "Desde El Rancho",
         "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 234360,
       "name": "Siempre Te Voy A Querer",
       "url": "https://open.spotify.com/track/3VK8copXwqvAueMPhnBe6K"
+    },
+    {
+      "added_at": "2022-12-30 20:38:46",
+      "album": {
+        "name": "El Amor So\u00f1ado",
+        "url": "https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 182680,
+      "name": "El Amor So\u00f1ado",
+      "url": "https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC"
     },
     {
       "added_at": "2022-12-30 20:38:46",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-12-30 20:38:46",
       "album": {
-        "name": "Mi Complemento",
-        "url": "https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 201691,
-      "name": "Mi Complemento",
-      "url": "https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730"
-    },
-    {
-      "added_at": "2022-12-30 20:38:46",
-      "album": {
         "name": "Detras Del Miedo",
         "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 189282,
       "name": "A Mi Me Interesa",
       "url": "https://open.spotify.com/track/1YZkwuliEh6c0rv7gmumCG"
+    },
+    {
+      "added_at": "2022-12-30 20:38:46",
+      "album": {
+        "name": "Mi Complemento",
+        "url": "https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 201691,
+      "name": "Mi Complemento",
+      "url": "https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730"
     },
     {
       "added_at": "2022-12-30 20:38:46",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-12-30 20:38:46",
       "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/6IQ9Tk73kwPmKbdnMQ7nlo"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 184173,
-      "name": "Me Gusta Todo De Ti",
-      "url": "https://open.spotify.com/track/0lQw1AoV5ZUAatpZN0Lrl5"
-    },
-    {
-      "added_at": "2022-12-30 20:38:46",
-      "album": {
         "name": "Te Volver\u00eda A Elegir",
         "url": "https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4"
       },
@@ -1203,22 +1187,18 @@
     {
       "added_at": "2022-12-30 20:38:46",
       "album": {
-        "name": "Ojitos Caf\u00e9s",
-        "url": "https://open.spotify.com/album/6SRWhE60fWiqYa4BkYF4xT"
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/6IQ9Tk73kwPmKbdnMQ7nlo"
       },
       "artists": [
         {
-          "name": "Omar Robles",
-          "url": "https://open.spotify.com/artist/3UQ81bCwqbKmqtsZXPxSLL"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 190981,
-      "name": "Ojitos Caf\u00e9s",
-      "url": "https://open.spotify.com/track/1nXSQbUEIutffxscuSE33T"
+      "duration_ms": 184173,
+      "name": "Me Gusta Todo De Ti",
+      "url": "https://open.spotify.com/track/0lQw1AoV5ZUAatpZN0Lrl5"
     },
     {
       "added_at": "2022-12-30 20:38:46",
@@ -1251,6 +1231,26 @@
       "duration_ms": 176403,
       "name": "El Lujo de Tenerte",
       "url": "https://open.spotify.com/track/3RS7iIReKd9yd2j7lfID5z"
+    },
+    {
+      "added_at": "2022-12-30 20:38:46",
+      "album": {
+        "name": "Ojitos Caf\u00e9s",
+        "url": "https://open.spotify.com/album/6SRWhE60fWiqYa4BkYF4xT"
+      },
+      "artists": [
+        {
+          "name": "Omar Robles",
+          "url": "https://open.spotify.com/artist/3UQ81bCwqbKmqtsZXPxSLL"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 190981,
+      "name": "Ojitos Caf\u00e9s",
+      "url": "https://open.spotify.com/track/1nXSQbUEIutffxscuSE33T"
     }
   ],
   "unique_name": "Mi Raz\u00f3n de Ser",

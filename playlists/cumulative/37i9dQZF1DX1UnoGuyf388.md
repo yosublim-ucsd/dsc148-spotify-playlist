@@ -2,7 +2,7 @@
 
 ### [Pop Frequency](https://open.spotify.com/playlist/37i9dQZF1DX1UnoGuyf388)
 
-> Pop music driving the current, every week\.  Cover: Bree Runway, artwork by Ian Woods
+> Pop music driving the current, every week\.  Cover: Bree Runway
 
 192 songs - 9 hr 41 min
 

@@ -1,12 +1,12 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 91543,
+  "num_followers": 91715,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzIyOSwwMDAwMDAwMDllNzNlNzBiZmNiOTIzNWQ4MzZhMGU2MjQwYTcxZDk4",
+  "snapshot_id": "MTY3Nzg2NzIyOSwwMDAwMDAwMDZhMDFkOWQwZGM0ZTU1MDdkOTRjMmI4ZTJhYmNmZWNk",
   "tracks": [
     {
       "added_at": "2023-03-03 18:13:49",
@@ -515,26 +515,6 @@
     {
       "added_at": "2023-03-03 18:13:49",
       "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "Snatch It Back And Hold It",
-      "url": "https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326"
-    },
-    {
-      "added_at": "2023-03-03 18:13:49",
-      "album": {
         "name": "In Session (Remaster w/ eBooklet)",
         "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 540573,
       "name": "Call It Stormy Monday",
       "url": "https://open.spotify.com/track/0v6tG0HoAHiluZAeany7oU"
+    },
+    {
+      "added_at": "2023-03-03 18:13:49",
+      "album": {
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "Snatch It Back And Hold It",
+      "url": "https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326"
     },
     {
       "added_at": "2023-03-03 18:13:49",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 > The biggest Progressive House anthems of 2023\. \| Energetic and emotional festival music\. \| best progressive house \- progressive house music \- best festival music \- best rave music \- best EDM music \- best progressive house playlist
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 84,669 likes - 80 songs - 4 hr 9 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 84,731 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Black & Blue](https://open.spotify.com/track/7bHXtJzt0TNV0S4TLqG5G6) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Simon Ward](https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP) | [Black & Blue](https://open.spotify.com/album/3c1ygMztEEDmu5rtiyrh9T) | 3:00 |
-| 2 | [Lost Souls](https://open.spotify.com/track/5Vxu6H5I0j0R5HQrODozRq) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Lost Souls](https://open.spotify.com/album/3bND9QfvmMqYSi2j3Y8p5y) | 3:04 |
-| 3 | [Don't You Worry Child](https://open.spotify.com/track/043bfUkTydw0xJ5JjOT91w) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Until Now](https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L) | 6:43 |
+| 1 | [Lost Souls](https://open.spotify.com/track/5Vxu6H5I0j0R5HQrODozRq) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Lost Souls](https://open.spotify.com/album/3bND9QfvmMqYSi2j3Y8p5y) | 3:04 |
+| 2 | [Don't You Worry Child](https://open.spotify.com/track/043bfUkTydw0xJ5JjOT91w) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Until Now](https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L) | 6:43 |
+| 3 | [Black & Blue](https://open.spotify.com/track/7bHXtJzt0TNV0S4TLqG5G6) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Simon Ward](https://open.spotify.com/artist/2yi9c8OXkt7PrwbBFOMgjP) | [Black & Blue](https://open.spotify.com/album/3c1ygMztEEDmu5rtiyrh9T) | 3:00 |
 | 4 | [River](https://open.spotify.com/track/7xLEInPjy6oUic0jKhf8ZZ) | [ATSY x Taner](https://open.spotify.com/artist/5AaJLPsvIhcIx2ZlgGTlvB), [Burnhaze](https://open.spotify.com/artist/4KDjEzDZjkIOcXre0EQo9J), [Amin Salmee](https://open.spotify.com/artist/4cddDQHcyoPKIqJhJCVETy) | [River](https://open.spotify.com/album/2FWb2rv6WfzJZAQdqshbqK) | 3:35 |
 | 5 | [Starlight \(Keep Me Afloat\)](https://open.spotify.com/track/0qgTXonHDCfh8QdqbTclRM) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Sentio](https://open.spotify.com/album/4xPCqIczFFq8QuwLRbvmrG) | 3:22 |
 | 6 | [Dangerous](https://open.spotify.com/track/55bETs6cTbpHQEg3YJwwKm) | [HAVOQ](https://open.spotify.com/artist/71ujKAKr4j1X7n4Hio2u7C) | [Dangerous](https://open.spotify.com/album/0Ke0yaYh8cvhWgG8CkJALQ) | 2:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 | 79 | [This Time \(Never Be Alone Again\)](https://open.spotify.com/track/4NfNmtFPQwR7IYoKeBErOp) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [This Time \(Never Be Alone Again\)](https://open.spotify.com/album/0ytdECFIEtdImFLONcZA8N) | 2:46 |
 | 80 | [I Want You](https://open.spotify.com/track/0oZDidA985NcUVE2GhnHI1) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [I Want You](https://open.spotify.com/album/0pdMhSoq6vLUhnSFoM1PnE) | 3:06 |
 
-Snapshot ID: `MjE3NCxlN2IwNDE2MTQyYTY2NDAzMjQ3OWFiNmNjMmJlYjA2ZmM5NTFmMzEy`
+Snapshot ID: `MjE3NiwxMzUxMTk4YmZjN2I0MjQ3Nzk5OGQxYjhjOWYzNGQ0YzFkNzhlYzY5`

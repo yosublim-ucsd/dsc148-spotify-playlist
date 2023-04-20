@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1970s. Cover: The Jacksons.",
-  "num_followers": 229073,
+  "num_followers": 229651,
   "original_name": "70s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2OTk2NTUzOSwwMDAwMDAwMDgyOGY5NmUxNzQ3ODA4ODZkNzEzOGFjNmRhOWRmZjMy",
+  "snapshot_id": "MTY2OTk2NTUzOSwwMDAwMDAwMDRmZDMyYzZhYWUxNTU2YTk2MTk5YTQ2MjkxMDI0Mjcy",
   "tracks": [
     {
       "added_at": "2021-03-22 14:18:04",
@@ -937,22 +937,6 @@
       "url": "https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Move on Up",
-        "url": "https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 165789,
-      "name": "Move on Up - Single Edit",
-      "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "School's Out",
@@ -967,6 +951,22 @@
       "duration_ms": 210106,
       "name": "School's Out",
       "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Move on Up",
+        "url": "https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 165789,
+      "name": "Move on Up - Single Edit",
+      "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1537,22 +1537,6 @@
       "url": "https://open.spotify.com/track/5F40csF5DtKOGfEg8vuz1d"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "Wild And Peaceful",
-        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Jungle Boogie",
-      "url": "https://open.spotify.com/track/3K0SJUQNbOkUprTFcwwAKN"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "War And Peace",
@@ -1567,6 +1551,22 @@
       "duration_ms": 200266,
       "name": "War",
       "url": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Wild And Peaceful",
+        "url": "https://open.spotify.com/album/3MRgojA0LfPka4RG7aRjsI"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 186533,
+      "name": "Jungle Boogie",
+      "url": "https://open.spotify.com/track/3K0SJUQNbOkUprTFcwwAKN"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1601,22 +1601,6 @@
       "url": "https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 375400,
-      "name": "He's the Greatest Dancer - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Cosmo's Factory (Expanded Edition)",
@@ -1649,6 +1633,22 @@
       "url": "https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW"
     },
     {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 375400,
+      "name": "He's the Greatest Dancer - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU"
+    },
+    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "4 Hits: Eruption",
@@ -1663,22 +1663,6 @@
       "duration_ms": 213200,
       "name": "One Way Ticket",
       "url": "https://open.spotify.com/track/68MSCSP7Y6PnzXcW1IlN7G"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Billy Ocean (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz"
-      },
-      "artists": [
-        {
-          "name": "Billy Ocean",
-          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "Red Light Spells Danger",
-      "url": "https://open.spotify.com/track/557cxXIeiwh03kI2F2jKdh"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1699,6 +1683,22 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
+        "name": "Billy Ocean (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz"
+      },
+      "artists": [
+        {
+          "name": "Billy Ocean",
+          "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "Red Light Spells Danger",
+      "url": "https://open.spotify.com/track/557cxXIeiwh03kI2F2jKdh"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
         "name": "Raspberries",
         "url": "https://open.spotify.com/album/03iBvX63qBQrMazNWU2iKv"
       },
@@ -1711,6 +1711,22 @@
       "duration_ms": 205346,
       "name": "Go All The Way",
       "url": "https://open.spotify.com/track/75GQIYnRaBg7ndHxhfYuQy"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Main Course",
+        "url": "https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 222266,
+      "name": "Jive Talkin'",
+      "url": "https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1731,18 +1747,18 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Main Course",
-        "url": "https://open.spotify.com/album/2blsPE3sO5SnroFjfEAlfj"
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "Frankie Valli",
+          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
         }
       ],
-      "duration_ms": 222266,
-      "name": "Jive Talkin'",
-      "url": "https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG"
+      "duration_ms": 205733,
+      "name": "Grease - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/6X1D6qbVmK48uoOD9nIvVV"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1763,18 +1779,18 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+        "name": "2 Hot!",
+        "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
       },
       "artists": [
         {
-          "name": "Frankie Valli",
-          "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
+          "name": "Peaches & Herb",
+          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
         }
       ],
-      "duration_ms": 205733,
-      "name": "Grease - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/6X1D6qbVmK48uoOD9nIvVV"
+      "duration_ms": 346133,
+      "name": "Shake Your Groove Thing",
+      "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1793,20 +1809,20 @@
       "url": "https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
+      "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "2 Hot!",
-        "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
+        "name": "There Goes Rhymin' Simon",
+        "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
       },
       "artists": [
         {
-          "name": "Peaches & Herb",
-          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 346133,
-      "name": "Shake Your Groove Thing",
-      "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
+      "duration_ms": 213453,
+      "name": "Loves Me Like a Rock",
+      "url": "https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -1843,22 +1859,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "There Goes Rhymin' Simon",
-        "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 213453,
-      "name": "Loves Me Like a Rock",
-      "url": "https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Mothership Connection",
         "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
       },
@@ -1871,6 +1871,22 @@
       "duration_ms": 348066,
       "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
       "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 186093,
+      "name": "Back Stabbers",
+      "url": "https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -1927,22 +1943,6 @@
       "duration_ms": 192266,
       "name": "Right Back Where We Started From",
       "url": "https://open.spotify.com/track/6208B8Utmd2fTqgGMjeNr6"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Back Stabbers",
-        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 186093,
-      "name": "Back Stabbers",
-      "url": "https://open.spotify.com/track/0KpMY3D2G8253VTZbDBUmA"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Young, Gifted and Black",
-        "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 193573,
-      "name": "Rock Steady",
-      "url": "https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
         "name": "Caribou",
         "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
       },
@@ -2091,18 +2075,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Armed Forces (Remastered 2020)",
-        "url": "https://open.spotify.com/album/5w3q6GZbw0gsAtvl1c0rmu"
+        "name": "Young, Gifted and Black",
+        "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
       },
       "artists": [
         {
-          "name": "Elvis Costello & The Attractions",
-          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 180840,
-      "name": "Oliver's Army",
-      "url": "https://open.spotify.com/track/4Zz1ctRTK04dytKiFuavBX"
+      "duration_ms": 193573,
+      "name": "Rock Steady",
+      "url": "https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2119,6 +2103,22 @@
       "duration_ms": 169533,
       "name": "Clean up Woman",
       "url": "https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Armed Forces (Remastered 2020)",
+        "url": "https://open.spotify.com/album/5w3q6GZbw0gsAtvl1c0rmu"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello & The Attractions",
+          "url": "https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH"
+        }
+      ],
+      "duration_ms": 180840,
+      "name": "Oliver's Army",
+      "url": "https://open.spotify.com/track/4Zz1ctRTK04dytKiFuavBX"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2021-03-22 14:18:04",
       "album": {
-        "name": "Never Can Say Goodbye (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u"
-      },
-      "artists": [
-        {
-          "name": "Gloria Gaynor",
-          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
-        }
-      ],
-      "duration_ms": 179466,
-      "name": "Never Can Say Goodbye - Single Version",
-      "url": "https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO"
-    },
-    {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
         "name": "Book Of Dreams",
         "url": "https://open.spotify.com/album/36G9sqbDXXbE7Mv9GTDMXd"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 265840,
       "name": "Jet Airliner",
       "url": "https://open.spotify.com/track/4PMx9RSiKlgry322H27rrZ"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "Never Can Say Goodbye (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u"
+      },
+      "artists": [
+        {
+          "name": "Gloria Gaynor",
+          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
+        }
+      ],
+      "duration_ms": 179466,
+      "name": "Never Can Say Goodbye - Single Version",
+      "url": "https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO"
     },
     {
       "added_at": "2021-09-08 13:31:49",
@@ -2247,22 +2247,6 @@
       "duration_ms": 239908,
       "name": "Pick Up the Pieces",
       "url": "https://open.spotify.com/track/2x1LQq8lsUzAA2wNj8yjC9"
-    },
-    {
-      "added_at": "2021-09-08 13:31:49",
-      "album": {
-        "name": "Prince",
-        "url": "https://open.spotify.com/album/0j711DtV8bOSMZRCbphtPC"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 347666,
-      "name": "I Wanna Be Your Lover",
-      "url": "https://open.spotify.com/track/2XLAzm8bMDSI7MhbRW8nVj"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2299,6 +2283,22 @@
       "duration_ms": 200653,
       "name": "Instant Karma! (We All Shine On) - Remastered 2010",
       "url": "https://open.spotify.com/track/2BkXpZSvPoUDMLI2Xw9kAL"
+    },
+    {
+      "added_at": "2021-09-08 13:31:49",
+      "album": {
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/0j711DtV8bOSMZRCbphtPC"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 347666,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/2XLAzm8bMDSI7MhbRW8nVj"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2365,22 +2365,6 @@
       "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq"
     },
     {
-      "added_at": "2021-03-22 14:18:04",
-      "album": {
-        "name": "I Remember Yesterday",
-        "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 355173,
-      "name": "I Feel Love",
-      "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
-    },
-    {
       "added_at": "2021-09-08 13:31:49",
       "album": {
         "name": "Ship Ahoy (Expanded Edition)",
@@ -2395,6 +2379,22 @@
       "duration_ms": 439866,
       "name": "For the Love of Money",
       "url": "https://open.spotify.com/track/3p1JoOEhVkEnTaa4JzTMSk"
+    },
+    {
+      "added_at": "2021-03-22 14:18:04",
+      "album": {
+        "name": "I Remember Yesterday",
+        "url": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 355173,
+      "name": "I Feel Love",
+      "url": "https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk"
     },
     {
       "added_at": "2021-03-22 14:18:04",
@@ -2431,18 +2431,18 @@
     {
       "added_at": "2021-09-08 13:31:49",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/0NQ5vEtFfn6MDbFtNk3gUQ"
+        "name": "Venus And Mars (Archive Collection)",
+        "url": "https://open.spotify.com/album/5B1c0VlK24gvkbJx2g9Ft9"
       },
       "artists": [
         {
-          "name": "Brick",
-          "url": "https://open.spotify.com/artist/4Uv0Jg45Oq7vBXXwQNhXyf"
+          "name": "Wings",
+          "url": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Dazz - Single Version",
-      "url": "https://open.spotify.com/track/5gQCUf4lfy6GpuhdPzxQ6B"
+      "duration_ms": 240986,
+      "name": "Listen To What The Man Said - 2014 Remaster",
+      "url": "https://open.spotify.com/track/0SkpjIqhANcC2QQu8DIuwG"
     }
   ],
   "unique_name": "70s Party",

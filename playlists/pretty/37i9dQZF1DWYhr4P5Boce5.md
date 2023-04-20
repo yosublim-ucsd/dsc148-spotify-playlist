@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,841 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,896 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 39 | [Hold Me Close](https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Hold Me Close](https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj) | 2:28 |
 | 40 | [Love Song](https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Love Song](https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9) | 3:34 |
 | 41 | [This Is Love](https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [This Is Love](https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY) | 3:11 |
-| 42 | [Amor De Telenovela](https://open.spotify.com/track/0LzGLoA82RIcGUEfbGQe47) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Dosis](https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR) | 4:10 |
-| 43 | [Love Me Like I Am](https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Love Me Like I Am](https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR) | 3:04 |
+| 42 | [Love Me Like I Am](https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Love Me Like I Am](https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR) | 3:04 |
+| 43 | [Amor De Telenovela](https://open.spotify.com/track/0LzGLoA82RIcGUEfbGQe47) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Dosis](https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR) | 4:10 |
 | 44 | [This Kind Of Love](https://open.spotify.com/track/2Z47f6DeKm1xIDmPPn2sGS) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [This Kind Of Love](https://open.spotify.com/album/3dgbGR5rtJVxAiZy0U4rQI) | 3:04 |
 | 45 | [Safe](https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Safe](https://open.spotify.com/album/3PD9s1GRpT7ahstwgF6AlX) | 4:30 |
 | 46 | [Faith Hope Love Repeat](https://open.spotify.com/track/67OCXWC93GcixTk3wYvX9c) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Faith Hope Love Repeat](https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb) | 4:01 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 85 | [Lemonade](https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [What A Heart Is Beating For](https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs) | 3:03 |
 | 86 | [Fallin In Love](https://open.spotify.com/track/6lSKrLc95qy97lCE6CXSZb) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK) | [Britt Nicole \(Deluxe Edition\)](https://open.spotify.com/album/3fKx9rru6A6SLwit7SOoOM) | 4:11 |
 | 87 | [Can't Help Falling In Love \- LIGHT](https://open.spotify.com/track/07vX2XhvGzxkHTaQ141AbB) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [brooke](https://open.spotify.com/artist/7FUnhnuowTICdtK0KzH7Ng) | [Can't Help Falling In Love](https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y) | 2:51 |
-| 88 | [Band of Gold // Summer Sessions](https://open.spotify.com/track/3LOJIVOfwVfbeflndxQx3j) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Band of Gold // Summer Sessions](https://open.spotify.com/album/5has36k6H1PClwTsdEhSKU) | 3:28 |
-| 89 | [Praying For You](https://open.spotify.com/track/0A5aXD5e3bYFn9oAWv9iCT) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Overcomer](https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4) | 3:34 |
+| 88 | [Praying For You](https://open.spotify.com/track/0A5aXD5e3bYFn9oAWv9iCT) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Overcomer](https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4) | 3:34 |
+| 89 | [Band of Gold // Summer Sessions](https://open.spotify.com/track/3LOJIVOfwVfbeflndxQx3j) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Band of Gold // Summer Sessions](https://open.spotify.com/album/5has36k6H1PClwTsdEhSKU) | 3:28 |
 | 90 | [Midwest Magic](https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Heartland](https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d) | 3:43 |
 | 91 | [I'm in Love With You](https://open.spotify.com/track/1X40brgUhO1VaZ8CHtKBnt) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Genesis](https://open.spotify.com/album/56H4CnTe0xS1VpZLgC9wAf) | 4:06 |
 | 92 | [What Will She Say](https://open.spotify.com/track/6umFCRLAaJPdJgRHUIyZZV) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Here's to Second Chances](https://open.spotify.com/album/0Pko8NSnBtYKA8azsgODxB) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 99 | [Big Ole Love](https://open.spotify.com/track/2i2ifLGv9NBaMLhCSRF6eM) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Who Knew It Would Be So Hard to Be Myself](https://open.spotify.com/album/6eBJuL3GwpgThGG4PIyqnh) | 3:50 |
 | 100 | [Junto a Ti](https://open.spotify.com/track/309976H25vNibcds9nAH5A) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Junto a Ti](https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH) | 3:07 |
 
-Snapshot ID: `MTY3NTE1OTI3MiwwMDAwMDAwMDM1NzMzOTRjZmFhZDk1NjZmODAxMDdhNWVjZmJmMTE0`
+Snapshot ID: `MTY3NTE1OTI3MiwwMDAwMDAwMDQ0MDhhMjlkNWJmNGY2YjQ1MmI4YjlhZTBmNjMzMzI0`

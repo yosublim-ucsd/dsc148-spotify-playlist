@@ -4,7 +4,7 @@
 
 > let's get it on
 
-61 songs - 3 hr 21 min
+62 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 | 2023-02-06 | 2023-02-27 |
 | [Besame Sin Sentir](https://open.spotify.com/track/0ssrK9S67e9ZGmL9joKWLn) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Besame Sin Sentir](https://open.spotify.com/album/4y58SAZa6a4LmuqF6APaE3) | 4:08 | 2023-02-06 |  |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-03-24 |  |
-| [Bye](https://open.spotify.com/track/0hucTc8Bg42b3Ihwz3WS7o) | [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [Bye](https://open.spotify.com/album/6MnlRXoedn0gZHwVh9mOjI) | 2:37 | 2023-02-06 |  |
+| [Bye](https://open.spotify.com/track/0hucTc8Bg42b3Ihwz3WS7o) | [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [Bye](https://open.spotify.com/album/6MnlRXoedn0gZHwVh9mOjI) | 2:37 | 2023-02-06 | 2023-04-20 |
 | [CAMA KING \(feat\. Chita\)](https://open.spotify.com/track/1EOyHhh5uOwNrDhiUNnH2u) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:43 | 2023-03-24 |  |
 | [CAROLINA](https://open.spotify.com/track/3goYw6YHoCjA1sfBzpdgzH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:42 | 2023-03-15 |  |
 | [COLTRANE](https://open.spotify.com/track/4hM63GBOU82xdvxDa0RxJm) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Carlota Urdiales](https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:43 | 2023-02-06 | 2023-03-25 |
@@ -63,6 +63,7 @@
 | [Someone To Spend Time With](https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m) | 2:53 | 2023-02-06 |  |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2023-02-06 |  |
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2023-02-06 |  |
+| [Vamos Pal Espacio](https://open.spotify.com/track/6VwH4mDDsCaiqVPPm9t0sy) | [LA FIRMA](https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q), [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [LA BÚSQUEDA](https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE) | 1:33 | 2023-04-20 |  |
 | [Versos de Placer](https://open.spotify.com/track/4z11brnmIkePDnP3L1siz5) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Versos de Placer](https://open.spotify.com/album/3rJcFj3XgniFRAUpgEbcX0) | 2:48 | 2023-02-06 |  |
 | [Volví](https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Volví](https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK) | 3:50 | 2023-02-06 |  |
 | [Vuelve](https://open.spotify.com/track/4KM3EegQxVIvcihTEjPdRf) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Vuelve](https://open.spotify.com/album/3tHGFcXeL55wqNQl2vh2GX) | 3:14 | 2023-02-06 |  |

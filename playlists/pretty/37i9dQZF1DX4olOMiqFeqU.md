@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists! Cover: Yeng Constantino
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,388,676 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,389,182 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,14 +33,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 23 | [Beer](https://open.spotify.com/track/20gchtRYM7bFiOjYKQB8zZ) | [The Itchyworms](https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO) | [Noon Time Show](https://open.spotify.com/album/7jEJsX7LeqOxDF9oIcqE5H) | 6:04 |
 | 24 | [Leaves](https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Leaves](https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y) | 5:10 |
 | 25 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 |
-| 26 | [Tell Me Where It Hurts](https://open.spotify.com/track/4sYpTI5RPkhX2OWfrmjNl3) | [MYMP](https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY) | [Versions & Beyond](https://open.spotify.com/album/5ak2XNLAZyBKcUuvtZImhZ) | 4:13 |
-| 27 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 |
+| 26 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 |
+| 27 | [Tell Me Where It Hurts](https://open.spotify.com/track/4sYpTI5RPkhX2OWfrmjNl3) | [MYMP](https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY) | [Versions & Beyond](https://open.spotify.com/album/5ak2XNLAZyBKcUuvtZImhZ) | 4:13 |
 | 28 | [I Need You More Today](https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej) | [Caleb Santos](https://open.spotify.com/artist/3XEHRbR9NMWfNzQ6TQMS9M), [Viva Music Publishing Inc.](https://open.spotify.com/artist/1d1BeULLUX4HWNVypEUMfy) | [I Need You More Today](https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj) | 3:53 |
 | 29 | [Mahika](https://open.spotify.com/track/0Pafr67ogSuAur2L3DxB4b) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Mahika](https://open.spotify.com/album/65PZ3P2MKJuSAVCMM9WWkA) | 3:30 |
 | 30 | [Di Na Muli](https://open.spotify.com/track/6JYIB3AEh1VtcqVcDDLC7p) | [The Itchyworms](https://open.spotify.com/artist/5cYJYBMg1n71v7cvthr1SO) | [Sid & Aya \(Not a Love Story\) \[Original Movie Soundtrack\]](https://open.spotify.com/album/3ZHDOgwnd6f26MyLuXCS3U) | 4:20 |
-| 31 | [Before I Let You Go](https://open.spotify.com/track/220IyLzKO1Y0Gxt4pTU5eZ) | [Freestyle](https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE) | [Freestyle](https://open.spotify.com/album/23urE9jm4wugYqmxANnDut) | 4:49 |
+| 31 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 |
 | 32 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 |
-| 33 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 |
+| 33 | [Before I Let You Go](https://open.spotify.com/track/220IyLzKO1Y0Gxt4pTU5eZ) | [Freestyle](https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE) | [Freestyle](https://open.spotify.com/album/23urE9jm4wugYqmxANnDut) | 4:49 |
 | 34 | [Harana](https://open.spotify.com/track/6UGrgPcISfwGeDikA4YpEv) | [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [Buruguduystunstugudunstuy](https://open.spotify.com/album/6BGIBrSqYRLcOEOwz0x19B) | 3:02 |
 | 35 | [214](https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB) | [Rivermaya](https://open.spotify.com/artist/1ZTdxfZTeztyAgKUJVLxAI) | [Greatest Hits](https://open.spotify.com/album/65GkUxR6lYlCiYP4mqyZl1) | 4:33 |
 | 36 | [Teka Lang](https://open.spotify.com/track/3CP6W4N2CnsZgejmUprD6v) | [Emman](https://open.spotify.com/artist/3FwNjtXQCdxpDOXmgJQGnG) | [Teka Lang](https://open.spotify.com/album/0QK7IkS5mne9e95ef0BjAE) | 3:16 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 39 | [Ngayong Gabi](https://open.spotify.com/track/5sLGYJOhLP197nmkaRMMEH) | [Al James](https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm) | [Ngayong Gabi](https://open.spotify.com/album/51UmoT2xdda5pAZcRFMiot) | 4:27 |
 | 40 | [12:51](https://open.spotify.com/track/1FHCU1rDAeaPsBW9byjJ0Q) | [krissy & ericka](https://open.spotify.com/artist/09DdQEMQaaq0f99vqqub3V) | [Twelve: Fifty One \(International Version\)](https://open.spotify.com/album/5M4GVkxOl3joHIkvNrAlbJ) | 4:06 |
 | 41 | [Sa Ngalan Ng Pag\-Ibig](https://open.spotify.com/track/00mBzIWv5gHOYxwuEJXjOG) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Sa Ngalan Ng Pag\-Ibig](https://open.spotify.com/album/7xconhHQKj7Be4P2KvUmFz) | 4:45 |
-| 42 | [KLWKN](https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN) | [Music Hero](https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq) | [KLWKN](https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV) | 4:16 |
-| 43 | [Buwan](https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Buwan](https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1) | 5:43 |
+| 42 | [Buwan](https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Buwan](https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1) | 5:43 |
+| 43 | [KLWKN](https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN) | [Music Hero](https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq) | [KLWKN](https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV) | 4:16 |
 | 44 | [Nadarang](https://open.spotify.com/track/0GV5o55wGdk8rt0q8cVGVZ) | [Shanti Dope](https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT) | [Materyal](https://open.spotify.com/album/5PPETYQBNZUJgUzHAVx6gx) | 3:54 |
 | 45 | [Pasensya Ka Na](https://open.spotify.com/track/5VPxHpJcJEJx9CMMiO7pBE) | [Silent Sanctuary](https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C) | [Langit\. Luha.](https://open.spotify.com/album/1rBuCNm7bhrcDVMAETBXVA) | 4:01 |
 | 46 | [Simpleng Tao](https://open.spotify.com/track/6bMSUhAmaAGTb5RTTuzWE3) | [Gloc 9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD) | [G9](https://open.spotify.com/album/4OS6H3C1zimI6QPXA9MXvG) | 4:04 |
-| 47 | [Maybe This Time \- From "Maybe This Time"](https://open.spotify.com/track/0Dljpp52vCmtXi0E94qjfo) | [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48) | [Maybe This Time \(From "Maybe This Time"\)](https://open.spotify.com/album/0BGReR0ClYIme8zAabt53h) | 4:15 |
-| 48 | [Titig](https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci) | [MC Einstein](https://open.spotify.com/artist/7dxr6AabRWhsfYRyVJlErK), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh), [Jekkpot](https://open.spotify.com/artist/7ypt5Qvb2h6rIahhfls05p), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Titig](https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W) | 4:19 |
+| 47 | [Titig](https://open.spotify.com/track/1x8pFCRfBnDqckyB6mlZci) | [MC Einstein](https://open.spotify.com/artist/7dxr6AabRWhsfYRyVJlErK), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh), [Jekkpot](https://open.spotify.com/artist/7ypt5Qvb2h6rIahhfls05p), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Titig](https://open.spotify.com/album/4tk561oaKN5jhKhu8XuP1W) | 4:19 |
+| 48 | [Maybe This Time \- From "Maybe This Time"](https://open.spotify.com/track/0Dljpp52vCmtXi0E94qjfo) | [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48) | [Maybe This Time \(From "Maybe This Time"\)](https://open.spotify.com/album/0BGReR0ClYIme8zAabt53h) | 4:15 |
 | 49 | [Hindi Tayo Pwede](https://open.spotify.com/track/47DgfSmVQVwHkJJct5c3sV) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Umaga](https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N) | 5:03 |
 | 50 | [Pauwi Nako](https://open.spotify.com/track/2tzAN1L07SNwnOdgOEeuQr) | [PDL](https://open.spotify.com/artist/0iqkVK6sTXi7DZWWOeKy8Q), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Jnske](https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU), [Bullet D](https://open.spotify.com/artist/5MfvrLwRcs98YwS3C9Uf1u), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Pauwi Nako](https://open.spotify.com/album/33qqYIFSFSVYO3wCkc1Ksh) | 5:41 |
 
-Snapshot ID: `MTY4MDUwNjkzMCwwMDAwMDAwMGQzOGQxYTgwZWYyYTM0Y2ZlNWQwOGE3ODAzOTdhZGUz`
+Snapshot ID: `MTY4MDUwNjkzMCwwMDAwMDAwMGIzYmM0MzlkMmRmNmNhNTE4NzA4YmRjNDNlZGYyMDM0`

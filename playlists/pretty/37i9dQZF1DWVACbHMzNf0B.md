@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 
 > Somos una fusión que nunca termina..\. MEXCLA somos\. Grupo Frontera & Bad Bunny en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,641 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,016 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 |
 | 2 | [Ella Baila Sola](https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Ella Baila Sola](https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU) | 2:45 |
-| 3 | [Amor Tumbado](https://open.spotify.com/track/5aJ1M43pinROpwaPnO8KRj) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Mi Nuevo Yo](https://open.spotify.com/album/6HvpgqHcpyXzAdNIioqIoq) | 3:41 |
-| 4 | [Las Morras](https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Morras](https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE) | 2:35 |
-| 5 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 |
+| 3 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 |
+| 4 | [Amor Tumbado](https://open.spotify.com/track/5aJ1M43pinROpwaPnO8KRj) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Mi Nuevo Yo](https://open.spotify.com/album/6HvpgqHcpyXzAdNIioqIoq) | 3:41 |
+| 5 | [Las Morras](https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Morras](https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE) | 2:35 |
 | 6 | [EL HECHIZO](https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [EL HECHIZO](https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE) | 2:47 |
 | 7 | [Con Tus Besos](https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:46 |
 | 8 | [Delivery](https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Delivery](https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9) | 3:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVACbHMzNf0B.md) - [plain]
 | 74 | [Ni soy santo...](https://open.spotify.com/track/7v40JoYNsYFVL0zbDf1AFX) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV), [vatocholo](https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8) | [Ni soy santo...](https://open.spotify.com/album/445DkXgLCjFSKoYFaZcJZR) | 3:07 |
 | 75 | [Te Mereces Un Amor](https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te Mereces Un Amor](https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl) | 3:46 |
 
-Snapshot ID: `MTY4MTc0NzMwMSwwMDAwMDAwMDk1N2UzNzkyODYyZmNlNGRmODc2MDQwZWY5YjQ2OWUx`
+Snapshot ID: `MTY4MTkxOTcwNywwMDAwMDAwMDllOTNmNzFhNTI4MjNiNjljMzFjODRmYjk4MzFlM2Vl`

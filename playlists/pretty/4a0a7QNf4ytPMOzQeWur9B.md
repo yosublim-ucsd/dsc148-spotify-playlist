@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4a0a7QNf4ytPMOzQeWur9B.md) - [plain]
 
 > The music that fans of Glitchbreak are listening to now\. See also <a href="spotify:playlist:5aPKPDrqsxBQSST33NOsFw">The Sound of Glitchbreak</a> or <a href="spotify:playlist:6Jq6C2lFtIPE54N91HL9aM">The Edge of Glitchbreak</a>.
 
-[Particle Detector](https://open.spotify.com/user/particledetector) - 142 likes - 200 songs - 10 hr 3 min
+[Particle Detector](https://open.spotify.com/user/particledetector) - 141 likes - 200 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/4a0a7QNf4ytPMOzQeWur9B.md) - [plain]
 | 2 | [Lane Guard](https://open.spotify.com/track/3mrTIx1EY8QpVjFHKE9iqp) | [Heatace](https://open.spotify.com/artist/5MJREYwNVcTl1ohELWlciR) | [Lane Guard](https://open.spotify.com/album/42ejPcQd7d0LwMz604EloX) | 3:36 |
 | 3 | [One Last Things](https://open.spotify.com/track/1hWz9kypNCznSRgkvRoiEG) | [Yung Lain](https://open.spotify.com/artist/6hij65GZ1ENmV4C8YeiYwP) | [One Last Things](https://open.spotify.com/album/7A5CHqw76x08NDnz76pTy8) | 2:59 |
 | 4 | [try again!](https://open.spotify.com/track/4rzClGyOwGcDvkDOByqgXi) | [TURQUOISEDEATH](https://open.spotify.com/artist/3TEsU8VzLEGC52THfNvh9B), [Dazegxd](https://open.spotify.com/artist/59e7YxjDTqYuyxi0kTt4fL) | [try again!](https://open.spotify.com/album/1klH8mfnfTY5WtQYsnFMft) | 2:45 |
-| 5 | [Was It Weird I Listened To Im God By Clams Casino's When I Lost My Virginity // Sewerslvt](https://open.spotify.com/track/2DZGs97ibWcEFHZQ3imUpM) | [INTERWEB 成长](https://open.spotify.com/artist/7ft3XjUIVrpNX1DNY0Etez) | [Was It Weird I Listened To Im God By Clams Casino's When I Lost My Virginity // Sewerslvt](https://open.spotify.com/album/4t2vOXQq9s6PNQZBjE08j6) | 6:11 |
+| 5 | [Was It Weird I Listened To Im God By Clams Casino's When I Lost My Virginity // Sewerslvt \- Remix](https://open.spotify.com/track/2DZGs97ibWcEFHZQ3imUpM) | [INTERWEB 成长](https://open.spotify.com/artist/7ft3XjUIVrpNX1DNY0Etez) | [Was It Weird I Listened To Im God By Clams Casino's When I Lost My Virginity // Sewerslvt \(Remix\)](https://open.spotify.com/album/4t2vOXQq9s6PNQZBjE08j6) | 6:11 |
 | 6 | [METAL TEETH](https://open.spotify.com/track/14TyEpRmz5IY2HAhbDE5yt) | [Trashiii](https://open.spotify.com/artist/6txVXvr3AUo8DwygF77cah) | [DIGITAL SICKNESS](https://open.spotify.com/album/6ZiCM9fcaPwSTBpaM8gb0G) | 3:30 |
 | 7 | [Desolate Headspace](https://open.spotify.com/track/0fPkaJ0dUPw455ubEgQFZG) | [FlowerBoyDeMii](https://open.spotify.com/artist/7HcU7yCOfyw3hqrj1ZSORc), [IX Fall$](https://open.spotify.com/artist/2dSovjwYl3QCrqyppFIovD) | [Elysium](https://open.spotify.com/album/0shjEKaScRqMNq92suOrhH) | 2:59 |
 | 8 | [microwaves](https://open.spotify.com/track/5JlPej9OPUixCuYUoijncG) | [In Explosions](https://open.spotify.com/artist/1KmwUUV5of4VqBf445WWNb) | [microwaves](https://open.spotify.com/album/10dQxm2kgBaVTcWJq3QZaY) | 2:13 |

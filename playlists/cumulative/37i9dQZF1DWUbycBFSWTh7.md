@@ -4,7 +4,7 @@
 
 > Deephouse in the mix for your delight.
 
-177 songs - 16 hr 48 min
+178 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [One More Love](https://open.spotify.com/track/6DdGPbxUhVUQLd3iTHbesX) | [Riigs](https://open.spotify.com/artist/6PCar1mreA7PgSjgwNncXe), [Skenna](https://open.spotify.com/artist/6WEGFGTaD1HrAbVu9Roshb) | [One More Love](https://open.spotify.com/album/1l6nkIkQMwxWFpEC8gsrMA) | 6:58 | 2022-09-15 | 2023-01-13 |
 | [Ooo La La \- bad tuner Remix](https://open.spotify.com/track/1NA4I9qk0YywCxRRnTEf7V) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Ooo La La \(bad tuner Remix\)](https://open.spotify.com/album/7C000SUMimZzQOu9zELBXy) | 4:01 | 2023-04-07 |  |
 | [Palace Of Time](https://open.spotify.com/track/7xkOtOMV1cJmIE7OXJIdYo) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [Palace Of Time](https://open.spotify.com/album/68lR3oUhPa9PEG1dnPEIHr) | 4:26 | 2022-09-15 |  |
-| [Paradiso Mediterraneo](https://open.spotify.com/track/6Birlo8g8BUkpvTIAUJdbB) | [Peter LC](https://open.spotify.com/artist/0suFn6dKQlrirLWDJrDRG8) | [Paradiso Mediterraneo](https://open.spotify.com/album/5YvJshaHEDcKSlTosoNk7x) | 6:21 | 2022-09-15 |  |
+| [Paradiso Mediterraneo](https://open.spotify.com/track/0RJLVVhJea15CzJTcMZ1ML) | [Peter LC](https://open.spotify.com/artist/0suFn6dKQlrirLWDJrDRG8) | [Paradiso Mediterraneo](https://open.spotify.com/album/5bi8BWda3CBEQJ3E2AYVLv) | 6:21 | 2023-04-07 |  |
+| [Paradiso Mediterraneo](https://open.spotify.com/track/6Birlo8g8BUkpvTIAUJdbB) | [Peter LC](https://open.spotify.com/artist/0suFn6dKQlrirLWDJrDRG8) | [Paradiso Mediterraneo](https://open.spotify.com/album/5YvJshaHEDcKSlTosoNk7x) | 6:21 | 2022-09-15 | 2023-04-20 |
 | [Petal Dance](https://open.spotify.com/track/62O40xq82udtEfBYeWdAN8) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Petal Dance](https://open.spotify.com/album/62WzNA7gboQydhAvDadrxg) | 3:49 | 2022-09-15 |  |
 | [Pilsplaat](https://open.spotify.com/track/66ydKEoF7uofQdlA9yVsKK) | [Bonkers](https://open.spotify.com/artist/3aJmqZGZ6nTlu7Uoy3vWyz) | [Pilsplaat](https://open.spotify.com/album/6sPPr8BBqg8ZdI27N6ZaHr) | 3:05 | 2022-09-15 |  |
 | [Power of Today](https://open.spotify.com/track/0XXV6O17QrAZKm5mtg9ZMC) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Power of Today](https://open.spotify.com/album/7yIK0Y0jH33BaFWcuQJnEI) | 6:19 | 2023-01-13 |  |

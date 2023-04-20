@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwMjQwODAsMDAwMDAwMDBhM2Q4OGNjNjkxYzc4OTE1NTcwMzI5OTRiZWQxMTRlMw==",
+  "snapshot_id": "MjgwMjQwODAsMDAwMDAwMDBhNWMyYjhkNWUwMzliMWJjN2I5ZDY2YTJiZjhmZWYxYw==",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -295,6 +295,26 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Merry Christmas Mr. Lawrence",
+        "url": "https://open.spotify.com/album/6L2f6qkdeluqFppYgcOKbG"
+      },
+      "artists": [
+        {
+          "name": "Floraleda Sacchi",
+          "url": "https://open.spotify.com/artist/5j48oGQ0CfaOdcPHubZ9it"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "duration_ms": 342363,
+      "name": "Merry Christmas Mr. Lawrence",
+      "url": "https://open.spotify.com/track/1s71aSAX5H5Bi0bnJkXe5F"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "The Dethalbum (Expanded Edition) [Bonus Tracks]",
         "url": "https://open.spotify.com/album/4c6UA2PK8mHXRpOSDmReQK"
       },
@@ -339,22 +359,6 @@
       "duration_ms": 183974,
       "name": "SPIDER WEB",
       "url": "https://open.spotify.com/track/54lDUmLUNp653H12lF6NnA"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Count The Clouds",
-        "url": "https://open.spotify.com/album/0hYFW952nfZWyN5y1vxjdb"
-      },
-      "artists": [
-        {
-          "name": "Dan Horne",
-          "url": "https://open.spotify.com/artist/32GWtrYOojtYr0DVybdhev"
-        }
-      ],
-      "duration_ms": 263893,
-      "name": "Bicycle Rider",
-      "url": "https://open.spotify.com/track/3Bdh4UCIwbRZoDLZ5UFvXI"
     },
     {
       "added_at": "2023-04-14 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 
 > Happy National Pet Day from Shye, Chestnut and Tigreal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,736 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,754 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 41 | [Old Love \(Stripped\)](https://open.spotify.com/track/6WMbbSonBub9Rlv64hG6aH) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Old Love \(Stripped\)](https://open.spotify.com/album/3PZ2XdG3dVMamV6E7Dr1KU) | 4:20 |
 | 42 | [Bedroom \(feat\. Anne\-Marie\)](https://open.spotify.com/track/2TkAUHBaCReXruGnMVPGNL) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Bedroom \(feat\. Anne\-Marie\)](https://open.spotify.com/album/2oF2nQnJr8Fg43g2oo68uX) | 3:23 |
 | 43 | [do me right](https://open.spotify.com/track/2GcypFJcULDmhmbqFdm9qi) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [relationshit](https://open.spotify.com/album/2VeUxfOnzVKks0UEX681m2) | 2:58 |
-| 44 | [Shouldn't Have To Run](https://open.spotify.com/track/1sD6rUEzcFqEYsZlwcxIBk) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Joie Tan](https://open.spotify.com/artist/1kjkddXmDG9vdt7P8lwYUd) | [Shouldn't Have To Run](https://open.spotify.com/album/5B7i5oZI5Ztda9IxBGANAV) | 2:45 |
-| 45 | [Vicious](https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Vicious](https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS) | 2:29 |
+| 44 | [Vicious](https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Vicious](https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS) | 2:29 |
+| 45 | [Shouldn't Have To Run](https://open.spotify.com/track/1sD6rUEzcFqEYsZlwcxIBk) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Joie Tan](https://open.spotify.com/artist/1kjkddXmDG9vdt7P8lwYUd) | [Shouldn't Have To Run](https://open.spotify.com/album/5B7i5oZI5Ztda9IxBGANAV) | 2:45 |
 | 46 | [comeoutside](https://open.spotify.com/track/5GgUvrnmNeJFQifGe5Ywpu) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY), [Yewy](https://open.spotify.com/artist/2nvJsAEdxvSquFlHdYrhTq) | [hi, i like you.](https://open.spotify.com/album/23f0TBnJwXesNGBYlzyLL8) | 3:07 |
 | 47 | [solo](https://open.spotify.com/track/28WoBIA4EDVvxiraTv2KZ2) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:03 |
 | 48 | [Make Me Wanna](https://open.spotify.com/track/3spheePAIR3lvJ5ljJ1BV0) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Make Me Wanna](https://open.spotify.com/album/1uciD7NduLXz1LG5IMn3mG) | 2:19 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QWdoTGeQgx.md) - [plain]
 | 64 | [Better With You](https://open.spotify.com/track/0XyHpJN5Unt4IT4Bf2Gezn) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS), [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [Better With You](https://open.spotify.com/album/1EJeyxh3t7ZlkmFi5ttQoC) | 2:46 |
 | 65 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 |
 | 66 | [Pulang](https://open.spotify.com/track/4XIs2mOTfd5pzTw5zlCbJc) | [K\-Clique](https://open.spotify.com/artist/06RrXcTszCm5il0HKCD3Dh), [Aj](https://open.spotify.com/artist/22d6nqxq33gYU50eC0YV37) | [Pulang](https://open.spotify.com/album/0dFuagEe4bOXBkIIs9mNW3) | 4:20 |
-| 67 | [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 |
-| 68 | [I.L.S.M](https://open.spotify.com/track/6aiLq4d0ePpfjy2hbuyoee) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [I.L.S.M \(I Love Sadness More\)](https://open.spotify.com/album/1yOU9gLssu44JoIstpba0f) | 3:05 |
-| 69 | [Hopelessly Devoted To You](https://open.spotify.com/track/1FNvwHvFCJoFzt80H8L6QR) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Hopelessly Devoted To You](https://open.spotify.com/album/2MK7qxuZhopOH2KzdnHds2) | 3:38 |
+| 67 | [I.L.S.M](https://open.spotify.com/track/6aiLq4d0ePpfjy2hbuyoee) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [I.L.S.M \(I Love Sadness More\)](https://open.spotify.com/album/1yOU9gLssu44JoIstpba0f) | 3:05 |
+| 68 | [Go Higher](https://open.spotify.com/track/350MlI4iDtv6fYwM4PKSA4) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Go Higher](https://open.spotify.com/album/1e1tDPUR08v96ZT7RPV7eb) | 3:28 |
+| 69 | [Moonlight](https://open.spotify.com/track/54EWwXt6RCv5Err39SHUxK) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [Moonlight](https://open.spotify.com/album/1GoPGMUac5hoSm6A7UF819) | 3:06 |
 | 70 | [bad together](https://open.spotify.com/track/6hUH9vmhbKRzTBsQhaBqjw) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P), [TY:DEL](https://open.spotify.com/artist/2hPhnwoTrcoFeuP9pwdClH), [Irwinandfire](https://open.spotify.com/artist/05OqdicfTgKQVfyEOXfKRa) | [bad together](https://open.spotify.com/album/4boCQFMHPbjwGqIf4hHpa5) | 2:50 |
 
-Snapshot ID: `MTY4MTE5NjU1NSwwMDAwMDAwMDM3NDBjOTNlMzliOThmMjU4YTQzYzdjOGVhNzdiNTE5`
+Snapshot ID: `MTY4MTE5NjU1NSwwMDAwMDAwMDc5NTVhYTViODA0NWM2OWM1ODE4MjY5ZDRhODY0NDBl`

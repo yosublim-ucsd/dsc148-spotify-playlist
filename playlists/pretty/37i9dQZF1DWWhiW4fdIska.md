@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhiW4fdIska.md) - [plain]
 
 > Legendary blues guitarists\. Cover: Buddy Guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,087 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,094 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhiW4fdIska.md) - [plain]
 | 22 | [A Fool No More](https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ) | 7:44 |
 | 23 | [Catfish Blues](https://open.spotify.com/track/3lnavfgHUTrxdRqcPmhqUA) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:47 |
 | 24 | [Statesboro Blues](https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The 1971 Fillmore East Recordings](https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz) | 4:44 |
-| 25 | [I Ain't Superstitious](https://open.spotify.com/track/14RtX37onWzSyGDxrVEjnH) | [Howlin' Wolf with Steve Winwood: Piano & Organ, Bill Wyman: Bass Guitar, Shaker & Cowbell, Charlie Watts: Drums, Conga & Assorted Percussion](https://open.spotify.com/artist/33yY8KynjFTutORPp8Q8ln), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte), [Bill Wyman](https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC), [Charlie Watts](https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k) | [The London Howlin’ Wolf Sessions \(Deluxe Edition\)](https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l) | 3:30 |
-| 26 | [Now That I'm Down](https://open.spotify.com/track/5KZrHPwscBkXturVJCJlM4) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [The Son Seals Blues Band](https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke) | 6:02 |
+| 25 | [Now That I'm Down](https://open.spotify.com/track/5KZrHPwscBkXturVJCJlM4) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [The Son Seals Blues Band](https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke) | 6:02 |
+| 26 | [I Ain't Superstitious](https://open.spotify.com/track/14RtX37onWzSyGDxrVEjnH) | [Howlin' Wolf with Steve Winwood: Piano & Organ, Bill Wyman: Bass Guitar, Shaker & Cowbell, Charlie Watts: Drums, Conga & Assorted Percussion](https://open.spotify.com/artist/33yY8KynjFTutORPp8Q8ln), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte), [Bill Wyman](https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC), [Charlie Watts](https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k) | [The London Howlin’ Wolf Sessions \(Deluxe Edition\)](https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l) | 3:30 |
 | 27 | [Reconsider Baby](https://open.spotify.com/track/6KSa2Y1HnG0XlPQfEN4Xgi) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [The Complete Chess Masters](https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl) | 3:09 |
 | 28 | [It Hurts Me Too](https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Street Talkin'](https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L) | 3:20 |
 | 29 | [Freeway Jam](https://open.spotify.com/track/55u4NSV62uOjfTySS4Fi6i) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Blow By Blow](https://open.spotify.com/album/6fhTDVBs7qeoP3254hMu6u) | 4:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhiW4fdIska.md) - [plain]
 | 49 | [Don't Drive Me Baby](https://open.spotify.com/track/0YwiXJVTCIqIuqqexiDOym) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [The Complete Chess Masters](https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl) | 2:39 |
 | 50 | [It's My Own Fault](https://open.spotify.com/track/35bFBYboT095ukNp4lUYiU) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Ain't Enough Comin' In](https://open.spotify.com/album/4aEPDrXRjEqkI6FTO7UNIA) | 5:16 |
 
-Snapshot ID: `MTYzODkwNTIwOSwwMDAwMDAwMDBhZGViOGVlYTk5ZmNkNjBhNDBjMjg3NTUwYjZkNmM2`
+Snapshot ID: `MTYzODkwNTIwOSwwMDAwMDAwMGFhMTQ2MmJhMDkyMzhmMWVhYTJlYjUwMTg0OGU1ZWJh`

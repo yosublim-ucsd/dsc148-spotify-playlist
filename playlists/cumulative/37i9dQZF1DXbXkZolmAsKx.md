@@ -4,11 +4,12 @@
 
 > The best Ambient tracks from 2010 to 2019.
 
-112 songs - 9 hr 47 min
+113 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Field of Night](https://open.spotify.com/track/0YeA95qfyzG5jhm8M5XTpp) | [Chequerboard](https://open.spotify.com/artist/4xjrTN2tw4VsS7mlBdSCmr) | [The Unfolding](https://open.spotify.com/album/6fePA0wognv8fQ9mPed4YQ) | 7:33 | 2022-09-20 |  |
+| [A Field of Night](https://open.spotify.com/track/0XhNhTydcNnkbwYguBsPt3) | [Chequerboard](https://open.spotify.com/artist/4xjrTN2tw4VsS7mlBdSCmr) | [The Unfolding](https://open.spotify.com/album/0gflF9tUooliM9pyoUx7BO) | 7:33 | 2023-01-27 |  |
+| [A Field of Night](https://open.spotify.com/track/0YeA95qfyzG5jhm8M5XTpp) | [Chequerboard](https://open.spotify.com/artist/4xjrTN2tw4VsS7mlBdSCmr) | [The Unfolding](https://open.spotify.com/album/6fePA0wognv8fQ9mPed4YQ) | 7:33 | 2022-09-20 | 2023-04-20 |
 | [A Sea Of Love](https://open.spotify.com/track/7feFMZxaNV6km5QZAXYyv0) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [For Those Of You Who Have Never \(And Also Those Who Have\)](https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9) | 7:17 | 2022-08-11 |  |
 | [AAE\-KZT](https://open.spotify.com/track/6kHS5vk5QLUlxy2qbCMlop) | [Pendant](https://open.spotify.com/artist/3Dwfw1WTW4TyJJim9hblas) | [Make Me Know You Sweet](https://open.spotify.com/album/4cq8lOA5PvprvOw8xpLEFI) | 7:25 | 2022-08-11 |  |
 | [Amethyst Deceiver](https://open.spotify.com/track/5sNqlkPf0m5Fa0Kum9JyAP) | [David Lord](https://open.spotify.com/artist/7FS3zyzxKRE3CBKHS3Bp42), [Chad Taylor](https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt), [Devin Hoff](https://open.spotify.com/artist/5N4xtDKoiC1Px300ozCTcp), [Chris Schlarb](https://open.spotify.com/artist/3kZAEwPEGGOaHMYRbNK7m1) | [Forest Standards, Vol\. 1](https://open.spotify.com/album/4tZvAREA7W7SpGnQ49cr0I) | 3:15 | 2022-08-11 |  |

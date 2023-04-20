@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,379 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,417 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 42 | [Exhale](https://open.spotify.com/track/7xonaZK7T4Z18vpx8LMNV2) | [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Exhale](https://open.spotify.com/album/3FGBDhlwrAPNv486sGmYSS) | 2:50 |
 | 43 | [Crush](https://open.spotify.com/track/1SZU8VVD6rpnvbcVZBDPJb) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Crush](https://open.spotify.com/album/6ZJLgBGDiuxT9t4CCS76ML) | 3:11 |
 | 44 | [nobody but u](https://open.spotify.com/track/0Mq7DQeSqhxaw8l4H42Wfw) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [nobody but u](https://open.spotify.com/album/6bECVAhAp8eX6fsRjQLNpe) | 3:56 |
-| 45 | [Body Pump \- Sammy Virji Remix](https://open.spotify.com/track/1R0EiJvOzjo9yrju6I9KGd) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Renaissance \(Kiwi Remixes\)](https://open.spotify.com/album/2E98VQYa7nlKyPufEmHENP) | 4:23 |
-| 46 | [Spend The Night](https://open.spotify.com/track/5qnO8c1bY6jNGT7sR8kkYB) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Spend The Night](https://open.spotify.com/album/10DbHQSNuMpzOkhT3pv2sL) | 3:30 |
+| 45 | [Spend The Night](https://open.spotify.com/track/5qnO8c1bY6jNGT7sR8kkYB) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Spend The Night](https://open.spotify.com/album/10DbHQSNuMpzOkhT3pv2sL) | 3:30 |
+| 46 | [Body Pump \- Sammy Virji Remix](https://open.spotify.com/track/1R0EiJvOzjo9yrju6I9KGd) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Renaissance \(Kiwi Remixes\)](https://open.spotify.com/album/2E98VQYa7nlKyPufEmHENP) | 4:23 |
 | 47 | [Crush](https://open.spotify.com/track/5NUCLEAAQKkP3OoCt19jrK) | [Hutcher](https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys), [Naike](https://open.spotify.com/artist/4eWMajurKslYrmKKz4MTRu) | [Crush](https://open.spotify.com/album/7v8DgbrDOeGHlDEgKnd2UP) | 3:00 |
 | 48 | [No Name Groove](https://open.spotify.com/track/44m3n7H0Fn7FrxFi8rfQAf) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT), [Kasia](https://open.spotify.com/artist/5tPOVi066GG3dVIuLGOYrX) | [No Name Groove](https://open.spotify.com/album/0rknB5AlY9eUwBFXgRrNWY) | 4:23 |
 | 49 | [care 4](https://open.spotify.com/track/2LNzaAAzQMSp6TGpFi3oIB) | [Banditt](https://open.spotify.com/artist/4uoxnYSZK48iKLjfbjRi6A), [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [care 4](https://open.spotify.com/album/14UGM6sZZnYrvtpgEE30kU) | 3:52 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 59 | [B With Me \- Bump & Flex Radio Edit](https://open.spotify.com/track/3r7xbYVEMRXiP9PZ8bh1xj) | [Mis\-Teeq](https://open.spotify.com/artist/6csA2rxNLkQJXeEa7lyGXn), [Bump & Flex](https://open.spotify.com/artist/6NuELb3JJmU6DkmorHd587) | [B With Me \(Bump & Flex Mix Radio Edit\)](https://open.spotify.com/album/66W3MW1IhxWpa1g5tZccgC) | 3:38 |
 | 60 | [How It Goes](https://open.spotify.com/track/0G8WDiAyLXfmL4cfDGZ3SF) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Redders](https://open.spotify.com/artist/6vUJChpc4tvTMNhoqSZ8Mk), [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [How It Goes](https://open.spotify.com/album/5CCDmc3BqXYVmO0LVD4Wmd) | 2:55 |
 
-Snapshot ID: `MTY4MTQ3MzczNSwwMDAwMDAwMDBjY2RjMzllNTE1OTY3YjA1YTBhMDFiNTU1OGRhZWU2`
+Snapshot ID: `MTY4MTQ3MzczNSwwMDAwMDAwMDA3Y2U3MTJkYjJkOGE5M2YzYzM5ZWQ3N2I1NDU5NmE4`

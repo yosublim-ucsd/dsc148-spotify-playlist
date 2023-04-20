@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-581 songs - 2 day 10 hr 48 min
+582 songs - 2 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,8 @@
 | [Equilibrium \- Boris Brejcha Remix](https://open.spotify.com/track/3ojT1sBQzT0nQhaVvj8vTW) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v), [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Equilibrium Remixes](https://open.spotify.com/album/4aI6KGvJ7S3ztEAzQIPNfA) | 8:44 | 2020-12-05 | 2021-01-15 |
 | [Equinox](https://open.spotify.com/track/1ChrKo4kd2LjRjANKZmzVQ) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Equinox](https://open.spotify.com/album/4bxnrXXhn0fIZF27fTGgs7) | 6:21 | 2020-09-19 | 2020-11-28 |
 | [Escape](https://open.spotify.com/track/6WQcjT6uoPf1zUQRYNo3fZ) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Escape](https://open.spotify.com/album/3K0oeE9JISZIsZRclm2RCy) | 7:17 | 2022-11-26 | 2022-12-13 |
-| [Euphoria](https://open.spotify.com/track/6tDzxYw5unq4XtGxxD1Nvz) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/2j3cS6gipRVSWiLKzcKHyz) | 3:21 | 2023-04-05 |  |
+| [Euphoria](https://open.spotify.com/track/6iUgr1j5sN0LU7ljhiUwYi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4xADuwIS5TSQzoYTaPA5VH) | 3:21 | 2023-04-05 |  |
+| [Euphoria](https://open.spotify.com/track/6tDzxYw5unq4XtGxxD1Nvz) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/2j3cS6gipRVSWiLKzcKHyz) | 3:21 | 2023-04-05 | 2023-04-20 |
 | [Exhilaration](https://open.spotify.com/track/5JGCS3oySt8hnSQeMOqDGc) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Sternstunde \| Exhilaration](https://open.spotify.com/album/0h4VYJsprkcQDvBp53bagl) | 6:54 | 2021-12-17 | 2022-07-28 |
 | [Expander](https://open.spotify.com/track/6hZZ6ZPpkAauDA3Al6za5T) | [EarthLife](https://open.spotify.com/artist/5xaGKkAq8iQ3R3FfIL3DMG) | [Expander](https://open.spotify.com/album/7B2lPcnbOvIUpCwFRvPtRZ) | 7:24 | 2022-09-30 | 2022-10-08 |
 | [Explore](https://open.spotify.com/track/3faKCIsCxysoBZpUBiLJT8) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Explore](https://open.spotify.com/album/2LkepPSBrgwEiLavKjk49L) | 4:59 | 2022-09-30 | 2022-10-08 |

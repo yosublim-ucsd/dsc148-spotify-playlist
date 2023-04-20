@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 
 > The best easy rock from the 2010s\. Cover: Keane
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,995 likes - 70 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,181 likes - 70 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 | 11 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 |
 | 12 | [Sugar](https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:55 |
 | 13 | [Sit Next to Me](https://open.spotify.com/track/4BdGO1CaObRD4La9l5Zanz) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Sacred Hearts Club](https://open.spotify.com/album/5lFvZh6pCTJzr9UStebyCF) | 4:03 |
-| 14 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 |
+| 14 | [Let It Go](https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:20 |
 | 15 | [Next To Me](https://open.spotify.com/track/31VOknKjFrEX47bZXzqcoF) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:50 |
-| 16 | [Let It Go](https://open.spotify.com/track/13HVjjWUZFaWilh2QUJKsP) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:20 |
+| 16 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 |
 | 17 | [Heathens](https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Heathens](https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT) | 3:15 |
 | 18 | [Everglow](https://open.spotify.com/track/5qfZRNjt2TkHEL12r3sDEU) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:42 |
 | 19 | [All the Pretty Girls](https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:29 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 | 21 | [Be My Mistake](https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:16 |
 | 22 | [Moves Like Jagger \- Studio Recording From "The Voice" Performance](https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Hands All Over](https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv) | 3:21 |
 | 23 | [Not Today](https://open.spotify.com/track/4kDTvLhGF29gFsqceuxBSC) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Me Before You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq) | 4:21 |
-| 24 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 |
-| 25 | [Under Your Scars](https://open.spotify.com/track/60SjEdocmsrAk4hQUu7qZi) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV) | 3:51 |
+| 24 | [Under Your Scars](https://open.spotify.com/track/60SjEdocmsrAk4hQUu7qZi) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV) | 3:51 |
+| 25 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 |
 | 26 | [Hourglass](https://open.spotify.com/track/4hEhOvEz9tulJQXZ7hiqkz) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 2:18 |
 | 27 | [Robbers](https://open.spotify.com/track/06cCziAHtDg6pcsidZHu03) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:14 |
 | 28 | [Champion Of The World](https://open.spotify.com/track/6mf7BNgXs8JipPr2QILnyN) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) | 4:17 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 | 33 | [Broken](https://open.spotify.com/track/1Bph2KY0MA2JUiX5uADWjZ) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 4:07 |
 | 34 | [Fallingforyou](https://open.spotify.com/track/2TgxCUZdHFkPEVmFge1OSd) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:00 |
 | 35 | [A Reason to Fight](https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution \(Deluxe Edition\)](https://open.spotify.com/album/1IpufqmucrxYUJQxf1AP0n) | 4:44 |
-| 36 | [Be Still](https://open.spotify.com/track/1B5tiGNcOHERcXcBHiL6Xs) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Battle Born](https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx) | 4:33 |
-| 37 | [Zombie \(Acoustic\)](https://open.spotify.com/track/4Y2bR875LdPq9JILrY2FSw) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Zombie EP](https://open.spotify.com/album/6bE4sIZ6patKzzy8qV5lOV) | 4:19 |
+| 36 | [Zombie \(Acoustic\)](https://open.spotify.com/track/4Y2bR875LdPq9JILrY2FSw) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Zombie EP](https://open.spotify.com/album/6bE4sIZ6patKzzy8qV5lOV) | 4:19 |
+| 37 | [Be Still](https://open.spotify.com/track/1B5tiGNcOHERcXcBHiL6Xs) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Battle Born](https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx) | 4:33 |
 | 38 | [Hallelujah](https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Hallelujah](https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4) | 4:43 |
 | 39 | [Girls Like You](https://open.spotify.com/track/6OEHjJJvdkk1Ln0p0AZdyz) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:35 |
 | 40 | [Something to Remind You](https://open.spotify.com/track/4wOQ8upbW1GzHCWjPlISKP) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Staind](https://open.spotify.com/album/1lOE9VtdaX00Mp3Df6pgs3) | 4:07 |
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 | 55 | [She Lays Down](https://open.spotify.com/track/7Esd9ROfkgPgBtWN72U5P5) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 3:58 |
 | 56 | [Heathrow](https://open.spotify.com/track/2X6aiq2KyWsyhh7c3vzeyp) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 2:51 |
 | 57 | [The Only One](https://open.spotify.com/track/3QHA3SBpz2SDEpI1HuMT0e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 5:00 |
-| 58 | [Song For Someone](https://open.spotify.com/track/6PmvNS601Mcd2H0UcqMWb0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Innocence](https://open.spotify.com/album/45Ec0wYJ7npo6lXH4GWmxz) | 3:46 |
-| 59 | [Love Someone](https://open.spotify.com/track/1qvToOLpOdxoxmEyebs0Wi) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [YES! \(Commentary\)](https://open.spotify.com/album/2pkE09f0DykOk472XemaTs) | 4:17 |
-| 60 | [Move Together](https://open.spotify.com/track/0GDQXt7qRJIDDUmcufomrU) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:35 |
-| 61 | [Over You](https://open.spotify.com/track/2rF2dht1UkYFPpJ73w0AU6) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Miracle Pill](https://open.spotify.com/album/79gY3R2V5HcDbnrMp6wuVP) | 2:54 |
+| 58 | [Move Together](https://open.spotify.com/track/0GDQXt7qRJIDDUmcufomrU) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Chaos And The Calm](https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO) | 4:35 |
+| 59 | [Over You](https://open.spotify.com/track/2rF2dht1UkYFPpJ73w0AU6) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Miracle Pill](https://open.spotify.com/album/79gY3R2V5HcDbnrMp6wuVP) | 2:54 |
+| 60 | [Song For Someone](https://open.spotify.com/track/6PmvNS601Mcd2H0UcqMWb0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Innocence](https://open.spotify.com/album/45Ec0wYJ7npo6lXH4GWmxz) | 3:46 |
+| 61 | [Love Someone](https://open.spotify.com/track/1qvToOLpOdxoxmEyebs0Wi) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [YES! \(Commentary\)](https://open.spotify.com/album/2pkE09f0DykOk472XemaTs) | 4:17 |
 | 62 | [See Me Now](https://open.spotify.com/track/5iRNKJoGqjD8RG7RNwOWYb) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Listen](https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy) | 3:01 |
 | 63 | [Cold Arms](https://open.spotify.com/track/3dBwNOUqqdCYPmiUMXxZMy) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind \(Deluxe\)](https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi) | 2:49 |
 | 64 | [The Mortician's Daughter](https://open.spotify.com/track/64otP8HsLlvIgsidSOh2xH) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [We Stitch These Wounds](https://open.spotify.com/album/79rUMyGQNnAhZkEeB3Rd7B) | 4:11 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 | 69 | [Slide](https://open.spotify.com/track/0t1WPoT5kNNIyNyUbOBOsV) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 3:08 |
 | 70 | [Wild Sun](https://open.spotify.com/track/5MfLVNkxZJ7VZPnNp9vHdl) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/3hR8a4KfoKuRvMDmZB3Di4) | 4:29 |
 
-Snapshot ID: `MTY4MTIyNTE5NCwwMDAwMDAwMDZlN2M1MzE3Yjc5ODQ1MjNlNGJjM2MwZGY1NWRkNjhj`
+Snapshot ID: `MTY4MTIyNTE5NCwwMDAwMDAwMDQ2ZTM0MjFlZTNmOTgwYmVmMzQ1NzY2OTI0OTY5MTc1`

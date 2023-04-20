@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 47187,
+  "num_followers": 47209,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODkwNDkzOSwwMDAwMDAwMGZiNTNiMDJkMjg0MzQwMjExN2Y3ZDAzYWJkNWQ1NDE4",
+  "snapshot_id": "MTYzODkwNDkzOSwwMDAwMDAwMDJiOWU1ZDJiZWE1ZWViZDkwYjA5OGJhOWI4YzEzNDBk",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -519,22 +519,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Bustin' Loose",
-        "url": "https://open.spotify.com/album/4nphFPujtiSkWJhL0zXzub"
-      },
-      "artists": [
-        {
-          "name": "Chuck Brown and the Soul Searchers",
-          "url": "https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu"
-        }
-      ],
-      "duration_ms": 462466,
-      "name": "Bustin' Loose",
-      "url": "https://open.spotify.com/track/3SJkwOKNpMz1z9nEICH6xa"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/2AI6n3Nzxts19gax5K23bm"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 251066,
       "name": "Ffun",
       "url": "https://open.spotify.com/track/2H0nOH0pgs3DBoPoR852cC"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Bustin' Loose",
+        "url": "https://open.spotify.com/album/4nphFPujtiSkWJhL0zXzub"
+      },
+      "artists": [
+        {
+          "name": "Chuck Brown and the Soul Searchers",
+          "url": "https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu"
+        }
+      ],
+      "duration_ms": 462466,
+      "name": "Bustin' Loose",
+      "url": "https://open.spotify.com/track/3SJkwOKNpMz1z9nEICH6xa"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -921,6 +921,22 @@
       "url": "https://open.spotify.com/track/7FpGAivMuzzBcnOlHZnouD"
     },
     {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Everybody Want Sum",
+        "url": "https://open.spotify.com/album/14D2GvYb7WNfUuVA0nXjUD"
+      },
+      "artists": [
+        {
+          "name": "Dumpstaphunk",
+          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
+        }
+      ],
+      "duration_ms": 288253,
+      "name": "Sheez Music",
+      "url": "https://open.spotify.com/track/6LKRuyVDn74fN6TemK7lyK"
+    },
+    {
       "added_at": "2019-09-20 18:17:51",
       "album": {
         "name": "Shake It",
@@ -939,22 +955,6 @@
       "duration_ms": 177080,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/1apfl27W9ell44IcK6Wb1t"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Everybody Want Sum",
-        "url": "https://open.spotify.com/album/14D2GvYb7WNfUuVA0nXjUD"
-      },
-      "artists": [
-        {
-          "name": "Dumpstaphunk",
-          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
-        }
-      ],
-      "duration_ms": 288253,
-      "name": "Sheez Music",
-      "url": "https://open.spotify.com/track/6LKRuyVDn74fN6TemK7lyK"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Breaks from the Border",
-        "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
-      },
-      "artists": [
-        {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "Take What You Need",
-      "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Third Wall Chronicles",
         "url": "https://open.spotify.com/album/34YrKUuESihhNFM1HzXInQ"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 238400,
       "name": "Funky President (People It's Bad)",
       "url": "https://open.spotify.com/track/01xhntcYe1f5EqHc2T7pep"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Breaks from the Border",
+        "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "Take What You Need",
+      "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Dirty Word",
-        "url": "https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF"
-      },
-      "artists": [
-        {
-          "name": "Dumpstaphunk",
-          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
-        }
-      ],
-      "duration_ms": 249973,
-      "name": "Dancin' To The Truth",
-      "url": "https://open.spotify.com/track/0Y5QEWwXP3awk97M830OBo"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Soul Side of Town",
         "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 328479,
       "name": "Hangin' with My Baby",
       "url": "https://open.spotify.com/track/3ZoLqDFPHCyq4jeIMHBODq"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Dirty Word",
+        "url": "https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF"
+      },
+      "artists": [
+        {
+          "name": "Dumpstaphunk",
+          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
+        }
+      ],
+      "duration_ms": 249973,
+      "name": "Dancin' To The Truth",
+      "url": "https://open.spotify.com/track/0Y5QEWwXP3awk97M830OBo"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1343,6 +1343,38 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Dirty Word",
+        "url": "https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF"
+      },
+      "artists": [
+        {
+          "name": "Dumpstaphunk",
+          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
+        },
+        {
+          "name": "Grooveline Horns",
+          "url": "https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743"
+        },
+        {
+          "name": "Reggie Watkins",
+          "url": "https://open.spotify.com/artist/14Ou42tZvSnt2LaFXiMp3z"
+        },
+        {
+          "name": "carlos sosa",
+          "url": "https://open.spotify.com/artist/4FnOfgH6FgYXOLzbhok5eL"
+        },
+        {
+          "name": "Fernanco Castillo",
+          "url": "https://open.spotify.com/artist/6FBJesby0YNelqeM4Y4xSV"
+        }
+      ],
+      "duration_ms": 273880,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5zo7avEFmAXh1Xh0lorTw0"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Shake Your Money",
         "url": "https://open.spotify.com/album/64RZY2yiVERrJRZuW9IO5r"
       },
@@ -1399,70 +1431,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Back to the Funkture",
-        "url": "https://open.spotify.com/album/6Zcd7o14QCOx32RbouEuHz"
-      },
-      "artists": [
-        {
-          "name": "Alissia",
-          "url": "https://open.spotify.com/artist/0yq0ZW3g1vX4Vsfz9wH7rO"
-        }
-      ],
-      "duration_ms": 241410,
-      "name": "Back to the Funkture",
-      "url": "https://open.spotify.com/track/1nPjlM25TcwClEvSkG712O"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Dirty Word",
-        "url": "https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF"
-      },
-      "artists": [
-        {
-          "name": "Dumpstaphunk",
-          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
-        },
-        {
-          "name": "Grooveline Horns",
-          "url": "https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743"
-        },
-        {
-          "name": "Reggie Watkins",
-          "url": "https://open.spotify.com/artist/14Ou42tZvSnt2LaFXiMp3z"
-        },
-        {
-          "name": "carlos sosa",
-          "url": "https://open.spotify.com/artist/4FnOfgH6FgYXOLzbhok5eL"
-        },
-        {
-          "name": "Fernanco Castillo",
-          "url": "https://open.spotify.com/artist/6FBJesby0YNelqeM4Y4xSV"
-        }
-      ],
-      "duration_ms": 273880,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5zo7avEFmAXh1Xh0lorTw0"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Life In The City",
-        "url": "https://open.spotify.com/album/1s5qOtWNafsjfEl9NlmWio"
-      },
-      "artists": [
-        {
-          "name": "Turkuaz",
-          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
-        }
-      ],
-      "duration_ms": 245413,
-      "name": "Superstatic",
-      "url": "https://open.spotify.com/track/7DmAKZ07s3e2IYrqUVtUWF"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Vs.",
         "url": "https://open.spotify.com/album/7fROjXzlwT8v6VTSWhIKBY"
       },
@@ -1483,6 +1451,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Life In The City",
+        "url": "https://open.spotify.com/album/1s5qOtWNafsjfEl9NlmWio"
+      },
+      "artists": [
+        {
+          "name": "Turkuaz",
+          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
+        }
+      ],
+      "duration_ms": 245413,
+      "name": "Superstatic",
+      "url": "https://open.spotify.com/track/7DmAKZ07s3e2IYrqUVtUWF"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Circle",
         "url": "https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 271054,
       "name": "Liar",
       "url": "https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Back to the Funkture",
+        "url": "https://open.spotify.com/album/6Zcd7o14QCOx32RbouEuHz"
+      },
+      "artists": [
+        {
+          "name": "Alissia",
+          "url": "https://open.spotify.com/artist/0yq0ZW3g1vX4Vsfz9wH7rO"
+        }
+      ],
+      "duration_ms": 241410,
+      "name": "Back to the Funkture",
+      "url": "https://open.spotify.com/track/1nPjlM25TcwClEvSkG712O"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1559,6 +1559,26 @@
       "duration_ms": 216800,
       "name": "I'm Your Biggest Fan",
       "url": "https://open.spotify.com/track/4IThPVciaEpF0h8rIs1QnV"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Lab Experiments, Vol. 2",
+        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        },
+        {
+          "name": "Kaiit",
+          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
+        }
+      ],
+      "duration_ms": 211615,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1639,22 +1659,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Lab Experiments, Vol. 2",
-        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
+        "name": "Pocket (Radio Edit)",
+        "url": "https://open.spotify.com/album/7IeXmD7Qhgz7uvrHprmV4q"
       },
       "artists": [
         {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        },
-        {
-          "name": "Kaiit",
-          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
+          "name": "The Lionyls",
+          "url": "https://open.spotify.com/artist/28XiFctnEifvmTgCxFGOJU"
         }
       ],
-      "duration_ms": 211615,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
+      "duration_ms": 227348,
+      "name": "Pocket (Radio Edit)",
+      "url": "https://open.spotify.com/track/4QtS7BCHG2jO3ka89o2eed"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1671,22 +1687,6 @@
       "duration_ms": 261184,
       "name": "Mindblastin'",
       "url": "https://open.spotify.com/track/02GrfxYPwe1E0KBc2BdP0o"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Pocket (Radio Edit)",
-        "url": "https://open.spotify.com/album/7IeXmD7Qhgz7uvrHprmV4q"
-      },
-      "artists": [
-        {
-          "name": "The Lionyls",
-          "url": "https://open.spotify.com/artist/28XiFctnEifvmTgCxFGOJU"
-        }
-      ],
-      "duration_ms": 227348,
-      "name": "Pocket (Radio Edit)",
-      "url": "https://open.spotify.com/track/4QtS7BCHG2jO3ka89o2eed"
     },
     {
       "added_at": "2019-08-22 14:26:16",

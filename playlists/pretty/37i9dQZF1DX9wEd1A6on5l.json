@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 26740,
+  "num_followers": 26780,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ5MDI5NCwwMDAwMDAwMGE0OGE5ZGJmNzZhNjM2YjU0ZGQ1OTQxNzE2NTU5NzMz",
+  "snapshot_id": "MTY4MTQ5MDI5NCwwMDAwMDAwMDFkZmFlYWY5YjIzMmE4MWIzNjcxNWUyMzcwNjc5NDAw",
   "tracks": [
     {
       "added_at": "2023-04-14 16:38:14",
@@ -915,6 +915,38 @@
     {
       "added_at": "2023-04-14 16:38:14",
       "album": {
+        "name": "Ijo (Laba Laba)",
+        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Ijo (Laba Laba)",
+      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
+    },
+    {
+      "added_at": "2023-04-14 16:38:14",
+      "album": {
+        "name": "Certified Loner (No Competition)",
+        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Certified Loner (No Competition)",
+      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
+    },
+    {
+      "added_at": "2023-04-14 16:38:14",
+      "album": {
         "name": "Won Da Mo",
         "url": "https://open.spotify.com/album/6QwF6NbMHG9BWKNctTw2pC"
       },
@@ -959,38 +991,6 @@
       "duration_ms": 247680,
       "name": "Won Da Mo",
       "url": "https://open.spotify.com/track/0xPz8qjfchKRCAmABJH65Z"
-    },
-    {
-      "added_at": "2023-04-14 16:38:14",
-      "album": {
-        "name": "Ijo (Laba Laba)",
-        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Ijo (Laba Laba)",
-      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
-    },
-    {
-      "added_at": "2023-04-14 16:38:14",
-      "album": {
-        "name": "Certified Loner (No Competition)",
-        "url": "https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Certified Loner (No Competition)",
-      "url": "https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi"
     },
     {
       "added_at": "2023-04-14 16:38:14",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-04-14 16:38:14",
       "album": {
+        "name": "Peace Be Unto You (PBUY)",
+        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Peace Be Unto You (PBUY)",
+      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
+    },
+    {
+      "added_at": "2023-04-14 16:38:14",
+      "album": {
         "name": "PALAZZO",
         "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 186002,
       "name": "PALAZZO",
       "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
-    },
-    {
-      "added_at": "2023-04-14 16:38:14",
-      "album": {
-        "name": "Peace Be Unto You (PBUY)",
-        "url": "https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Peace Be Unto You (PBUY)",
-      "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
     },
     {
       "added_at": "2023-04-14 16:38:14",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2023-04-14 16:38:14",
       "album": {
+        "name": "Grit & Lust",
+        "url": "https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 153523,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO"
+    },
+    {
+      "added_at": "2023-04-14 16:38:14",
+      "album": {
         "name": "Great Is He",
         "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
       },
@@ -1163,22 +1183,18 @@
     {
       "added_at": "2023-04-14 16:38:14",
       "album": {
-        "name": "Grit & Lust",
-        "url": "https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ"
+        "name": "Colors (My Baby) / Loyal",
+        "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
       },
       "artists": [
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
         }
       ],
-      "duration_ms": 153523,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO"
+      "duration_ms": 164240,
+      "name": "Colors (My Baby)",
+      "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
     },
     {
       "added_at": "2023-04-14 16:38:14",
@@ -1215,22 +1231,6 @@
       "duration_ms": 169822,
       "name": "Let There Be Light",
       "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
-    },
-    {
-      "added_at": "2023-04-14 16:38:14",
-      "album": {
-        "name": "Colors (My Baby) / Loyal",
-        "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 164240,
-      "name": "Colors (My Baby)",
-      "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
     },
     {
       "added_at": "2023-04-14 16:38:14",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2023-04-14 16:38:14",
       "album": {
-        "name": "Great Is He (Deluxe)",
-        "url": "https://open.spotify.com/album/32vNuIiZ5Q4wh6FDsq1y0o"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 227313,
-      "name": "Celebrate (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/1HEEnDxmxHvrAddczaWS48"
-    },
-    {
-      "added_at": "2023-04-14 16:38:14",
-      "album": {
         "name": "Bloody Samaritan (with Kelly Rowland) [Remix]",
         "url": "https://open.spotify.com/album/7DT4lrXkDrsd4yP2z3D8NX"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 189000,
       "name": "Bloody Samaritan (with Kelly Rowland) - Remix",
       "url": "https://open.spotify.com/track/0RGGAP5gpvToJyUZbiEcXO"
+    },
+    {
+      "added_at": "2023-04-14 16:38:14",
+      "album": {
+        "name": "Great Is He (Deluxe)",
+        "url": "https://open.spotify.com/album/32vNuIiZ5Q4wh6FDsq1y0o"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 227313,
+      "name": "Celebrate (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/1HEEnDxmxHvrAddczaWS48"
     },
     {
       "added_at": "2023-04-14 16:38:14",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-04-14 16:38:14",
       "album": {
-        "name": "Werser",
-        "url": "https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 248697,
-      "name": "Werser",
-      "url": "https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16"
-    },
-    {
-      "added_at": "2023-04-14 16:38:14",
-      "album": {
         "name": "Continental Playlist",
         "url": "https://open.spotify.com/album/1dwyrQj4JyTf4uUr1Y1nuQ"
       },
@@ -1431,6 +1415,22 @@
     {
       "added_at": "2023-04-14 16:38:14",
       "album": {
+        "name": "Werser",
+        "url": "https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 248697,
+      "name": "Werser",
+      "url": "https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16"
+    },
+    {
+      "added_at": "2023-04-14 16:38:14",
+      "album": {
         "name": "Loving You",
         "url": "https://open.spotify.com/album/4w6eohs63XTqvHZ9iMZB5Z"
       },
@@ -1443,42 +1443,6 @@
       "duration_ms": 125030,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/6othjWxN6khdhiLu9GdOtj"
-    },
-    {
-      "added_at": "2023-04-14 16:38:14",
-      "album": {
-        "name": "Lock Up",
-        "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 223005,
-      "name": "Lock Up",
-      "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
-    },
-    {
-      "added_at": "2023-04-14 16:38:14",
-      "album": {
-        "name": "GANGSTER ROMANTIC",
-        "url": "https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 175264,
-      "name": "AVAILABU",
-      "url": "https://open.spotify.com/track/6hVwoGjU2l2tHk9Cm1kEiZ"
     },
     {
       "added_at": "2023-04-14 16:38:14",
@@ -1499,46 +1463,38 @@
     {
       "added_at": "2023-04-14 16:38:14",
       "album": {
-        "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-        "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
+        "name": "GANGSTER ROMANTIC",
+        "url": "https://open.spotify.com/album/0qogcdzZgkdwcVGrtHho6G"
       },
       "artists": [
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Abidoza",
-          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
         }
       ],
-      "duration_ms": 305941,
-      "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-      "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
+      "duration_ms": 175264,
+      "name": "AVAILABU",
+      "url": "https://open.spotify.com/track/6hVwoGjU2l2tHk9Cm1kEiZ"
     },
     {
       "added_at": "2023-04-14 16:38:14",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx"
+        "name": "Lock Up",
+        "url": "https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz"
       },
       "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        },
         {
           "name": "Zinoleesky",
           "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         }
       ],
-      "duration_ms": 143452,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff"
+      "duration_ms": 223005,
+      "name": "Lock Up",
+      "url": "https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ"
     },
     {
       "added_at": "2023-04-14 16:38:14",
@@ -1579,6 +1535,50 @@
       "duration_ms": 218230,
       "name": "Patek",
       "url": "https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8"
+    },
+    {
+      "added_at": "2023-04-14 16:38:14",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 143452,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff"
+    },
+    {
+      "added_at": "2023-04-14 16:38:14",
+      "album": {
+        "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
+        "url": "https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Abidoza",
+          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
+        }
+      ],
+      "duration_ms": 305941,
+      "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
+      "url": "https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu"
     }
   ],
   "unique_name": "Party Dey!",

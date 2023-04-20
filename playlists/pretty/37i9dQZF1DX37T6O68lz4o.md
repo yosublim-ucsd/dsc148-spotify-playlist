@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 
 > New England music breaking waves\. Cover, Latrell James
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,195 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,205 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

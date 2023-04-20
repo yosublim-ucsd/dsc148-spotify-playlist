@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Xlck7.md) - [plain]
 
 > This is Finch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,289 likes - 26 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,290 likes - 26 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Xlck7.md) - [plain]
 | 25 | [Nothing In The Sun](https://open.spotify.com/track/45SlvOkZXPoJBimxJIaHX8) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Brown Acid \- The Fifth Trip](https://open.spotify.com/album/6IvPFgrPyhVO6b14WYsJ3K) | 4:10 |
 | 26 | [Spanish Fly \- Bonus Track](https://open.spotify.com/track/45OlksQZ1y4JmFmnIIZJI9) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Drive Thru Records Greatest Hits \(Deluxe Edition\)](https://open.spotify.com/album/2ay5rabzbG767VisgmqY1w) | 2:37 |
 
-Snapshot ID: `MjgwMzAzOTAsMDAwMDAwMDA2YTUzYzc0NGFiZDQ3YWVjMjZhNTcwYmMyYTQ1Nzg1NQ==`
+Snapshot ID: `MjgwMzE3ODMsMDAwMDAwMDA4MTk4NGVmMzNiZWVlMThmNDIwYmRkNDEzNWFjYWVhOA==`

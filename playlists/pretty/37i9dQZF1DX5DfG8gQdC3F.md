@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Charlotte Cardin, Post Malone, Lauren Spencer Smith, and Feist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,516 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,520 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 79 | [Almost Killed Me](https://open.spotify.com/track/6B0e2V1iqzhhEihJWtZIev) | [ShaqIsDope](https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4) | [Almost Killed Me](https://open.spotify.com/album/1xrsHFd0en43PnV0vzE6Y1) | 4:13 |
 | 80 | [Bad Actor](https://open.spotify.com/track/5SM5gBWs6VCChdtDUR8Prr) | [Winona Forever](https://open.spotify.com/artist/3ZwhWiGw3XTJThOjEmuFAT) | [Acrobat](https://open.spotify.com/album/5HFe1H0Zd8Rw9eRw3b0qZQ) | 3:02 |
 | 81 | [Fill Isself](https://open.spotify.com/track/4YxChTJ3007bI6NAzIB0aP) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Fill Isself](https://open.spotify.com/album/0PXE8Jsvdz8kYnvC2g9mS5) | 2:45 |
-| 82 | [2 BEST FRIENDS](https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:18 |
+| 82 | [2 BEST FRIENDS](https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4) | 2:18 |
 | 83 | [Carole'en](https://open.spotify.com/track/7pEVaUBM0jQKRUDN7BN4Bx) | [Gord Sinclair](https://open.spotify.com/artist/4AD76XYQxGZm4Rn7t6I2Ec) | [In Continental Drift](https://open.spotify.com/album/4pLoGfFnBEvfXYgsaKoDGW) | 3:14 |
 | 84 | [Let's Go!](https://open.spotify.com/track/4IQTBYqOiAf5u7AvsrmJ5x) | [Kid Koala](https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN) | [Creatures of the Late Afternoon](https://open.spotify.com/album/1KsEcHA0CT8fLcQiT4qaMw) | 1:53 |
 | 85 | [Girl in the Mirror](https://open.spotify.com/track/0qwSPLH0QyaMZlmJtsxNZ5) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Girl in the Mirror](https://open.spotify.com/album/3pvp1aMU2i1lF6sFlsXV5J) | 2:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [So Mad](https://open.spotify.com/track/2uONMGtExRr5Sqln4X0LTY) | [Miesha and the Spanks](https://open.spotify.com/artist/1pByG4lN7gH4mkcCThBj6j) | [Unconditional Love in Hi\-Fi](https://open.spotify.com/album/2D0HrukRJ7GrOuORD14Y3A) | 3:00 |
 | 100 | [could've been](https://open.spotify.com/track/4ark9QtHieU5f50vDeQCFb) | [Tino Sutra](https://open.spotify.com/artist/0UdWLioRqdeSw8NtyGlaZV), [Seago](https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s), [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [could've been](https://open.spotify.com/album/5jbWku8SrgJi4mmPlIQkUO) | 3:23 |
 
-Snapshot ID: `MTY4MTQ4ODY5NCwwMDAwMDAwMGVmOGU1MDZjOWU3M2Q1ZWQzMDU0MWRlZTMwMTBmM2Zk`
+Snapshot ID: `MTY4MTQ4ODY5NCwwMDAwMDAwMDQ3NmViY2ZjNDFhMWI5ZjIxMzhlZmQ2NjU0YzQxMjUy`

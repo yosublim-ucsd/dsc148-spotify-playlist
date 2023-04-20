@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "One That Got Away",
+        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232266,
+      "name": "One That Got Away",
+      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
+    },
+    {
+      "album": {
         "name": "Saves The World",
         "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
       },

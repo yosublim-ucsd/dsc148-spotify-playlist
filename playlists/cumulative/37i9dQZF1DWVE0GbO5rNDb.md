@@ -4,7 +4,7 @@
 
 > Musica dance per le tue giornate di sole ☀️
 
-261 songs - 13 hr 0 min
+262 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Lights On](https://open.spotify.com/track/1dMbhY5hzVJVQGIJY6r5FC) | [Saxity](https://open.spotify.com/artist/1jG8sNQCiRuv1Nz1GiFlax), [BoyBoyBoy](https://open.spotify.com/artist/10V0YVsp2S6F0mGSpD2t0E), [Bonny Lauren](https://open.spotify.com/artist/14C0HynGq0YJsXrQAEclN3) | [Lights On](https://open.spotify.com/album/7dRL1T9Yw89hG6lEc5ZuGJ) | 2:36 | 2022-05-17 | 2022-07-14 |
 | [Like No One Does](https://open.spotify.com/track/2HnfqILzgKt1CepTlU4oqq) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Like No One Does](https://open.spotify.com/album/7dXSckW6VGuZlmCiK14Go2) | 2:38 | 2022-07-22 |  |
 | [Little Bit Of Love](https://open.spotify.com/track/0VrgIjDkmDwlgZk54Try2u) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Little Bit Of Love](https://open.spotify.com/album/1n46dubYWsiqfO1agUTVyz) | 3:15 | 2022-05-06 |  |
-| [Live For](https://open.spotify.com/track/0F9fZwEu2cWSgqoRWzAtAS) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Live For](https://open.spotify.com/album/075Aglr1S2AQZRNKv13Ho7) | 2:51 | 2022-05-06 |  |
+| [Live For](https://open.spotify.com/track/0F9fZwEu2cWSgqoRWzAtAS) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Live For](https://open.spotify.com/album/075Aglr1S2AQZRNKv13Ho7) | 2:51 | 2022-05-06 | 2023-04-20 |
 | [Lonely \(with Jonas Brothers\)](https://open.spotify.com/track/6eXFl418w8hsxKcLgv1jwJ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:19 | 2022-07-22 |  |
 | [Looking For Me](https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Do You Dance?](https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0) | 3:31 | 2022-07-22 |  |
 | [Love No More](https://open.spotify.com/track/0E8WJOFs2eWD67USh7C6Qd) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [anders](https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2) | [Love No More](https://open.spotify.com/album/1hgbAIyPDZYa8Bqf7b2nx5) | 2:48 | 2022-07-22 | 2022-12-21 |
@@ -259,6 +259,7 @@
 | [With You](https://open.spotify.com/track/3xbMNOS8K9CNbI4G7idaMx) | [Pekka](https://open.spotify.com/artist/2NvhTV15q4C30KMgyo7LDm) | [With You](https://open.spotify.com/album/6Nz55aKMohw3EYlIbzhgB5) | 3:08 | 2022-06-17 |  |
 | [Won't Forget You \(Edit\)](https://open.spotify.com/track/3I10tZ5MgEMo4WryCNJkZQ) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Won't Forget You](https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J) | 3:50 | 2023-03-21 |  |
 | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Words \(feat\. Zara Larsson\)](https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6) | 2:22 | 2022-05-06 |  |
+| [World, Hold On \- FISHER Rework](https://open.spotify.com/track/6quGF3Kvzd5WYEEuCmvCe1) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC), [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [World, Hold On \(FISHER Rework\)](https://open.spotify.com/album/5a5yqCyb7xF3Hklvlwc3t3) | 2:58 | 2023-04-07 |  |
 | [Worlds On Fire \(with R3HAB & Au/Ra\)](https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Worlds On Fire \(with R3HAB & Au/Ra\)](https://open.spotify.com/album/6rf8izsIwMcZKfXcBMbcL5) | 2:54 | 2022-07-15 |  |
 | [Worst Thing](https://open.spotify.com/track/1gfDK5vVyqja5EI6O3MJO9) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [NOTED...EP](https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm) | 2:38 | 2022-10-07 |  |
 | [Worst Thing](https://open.spotify.com/track/1hETByUz0ynel44jvTOkdt) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [Worst Thing](https://open.spotify.com/album/3CVVkF4c5r0Cz9rVb02FoT) | 2:38 | 2022-05-17 | 2022-09-13 |

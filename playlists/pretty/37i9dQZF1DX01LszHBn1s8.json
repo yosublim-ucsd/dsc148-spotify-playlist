@@ -1,12 +1,12 @@
 {
   "description": "OH I LOVE IT AND I HATE IT AT THE SAME TIME ",
-  "num_followers": 178993,
+  "num_followers": 179193,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTg1MDYxMSwwMDAwMDAwMGRmYTI3MjJkMmQ1MWE2MWRiOWY2MjQwYWZiN2UxYmUz",
+  "snapshot_id": "MTY4MTkwNDQzNSwwMDAwMDAwMDU1ZDc4NmNiMTQ5N2ZkYzEzZTZmNDdjMmFhMGEyYTdk",
   "tracks": [
     {
       "added_at": "2023-04-13 22:00:00",
@@ -255,6 +255,26 @@
       "duration_ms": 137727,
       "name": "Ikv\u00e4ll Igen",
       "url": "https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf"
+    },
+    {
+      "added_at": "2023-04-19 11:40:34",
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "See You Again (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
     },
     {
       "added_at": "2023-03-23 23:00:00",
@@ -3269,7 +3289,7 @@
         }
       ],
       "duration_ms": 100383,
-      "name": "just wanna rock (Lil Uzi Vert) - Sped Up Version",
+      "name": "just wanna rock - Sped Up Version",
       "url": "https://open.spotify.com/track/5BDZ8atcxq0QHGn66YwTwh"
     },
     {

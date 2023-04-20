@@ -4,7 +4,7 @@
 
 > Celebrating the powerful voices of Latin music\. Cover: Emilia
 
-261 songs - 14 hr 23 min
+262 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,11 +45,12 @@
 | [Boys Don't Cry](https://open.spotify.com/track/35COLcFjvONwVv6jkG23gI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Boys Don't Cry](https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV) | 2:16 | 2022-03-14 | 2023-02-16 |
 | [C14TORCE III](https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [C14TORCE III](https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e) | 2:23 | 2022-03-14 | 2023-02-16 |
 | [Celoso](https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Celoso](https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm) | 2:59 | 2022-03-14 | 2023-02-16 |
+| [Chapón](https://open.spotify.com/track/1cGV0rlZNYereLO600ldK2) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Chapón](https://open.spotify.com/album/54NAVfZaIPHieSe2UHeonK) | 2:33 | 2023-04-14 |  |
 | [CHILL](https://open.spotify.com/track/4nj7NcgKbJk4yLfQvWwVhG) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [CHILL](https://open.spotify.com/album/27NpFm9IMURWBKYNChlELH) | 2:50 | 2022-03-14 | 2023-02-16 |
 | [Cobarde](https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:34 | 2022-03-14 | 2023-02-16 |
 | [Como Así \(feat\. CNCO\)](https://open.spotify.com/track/5hoIOyMDt2cQx6DU0UyiBj) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Como Así \(feat\. CNCO\)](https://open.spotify.com/album/6LYy00ZQOKwxjCDGQY442J) | 3:04 | 2022-03-14 | 2023-02-16 |
 | [Como La Flor \- Remastered](https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:06 | 2023-02-16 |  |
-| [Como Me Duele Perderte](https://open.spotify.com/track/2NvsxLwEnF3FtJJsdhkdmq) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Alma Caribeña](https://open.spotify.com/album/5JE7TvLrx9uwR1rHLPEyo9) | 4:27 | 2023-02-16 |  |
+| [Como Me Duele Perderte](https://open.spotify.com/track/2NvsxLwEnF3FtJJsdhkdmq) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Alma Caribeña](https://open.spotify.com/album/5JE7TvLrx9uwR1rHLPEyo9) | 4:27 | 2023-02-16 | 2023-04-20 |
 | [Como Tu Mujer](https://open.spotify.com/track/6ljWmeDCoqgIFOVKVmKEmu) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Como Tu Mujer](https://open.spotify.com/album/6OPaypwDjCUgTROopd4OYt) | 4:22 | 2022-03-14 |  |
 | [Con los Años Que Me Quedan](https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Mi Tierra](https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ) | 4:36 | 2022-03-14 | 2023-02-16 |
 | [Confieso](https://open.spotify.com/track/44kI7aJvJAYJkREVk0Rmei) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Soy Yo](https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki) | 3:44 | 2023-02-16 |  |

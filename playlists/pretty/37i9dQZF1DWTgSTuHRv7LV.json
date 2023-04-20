@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Peso Pluma, Aleman. ",
-  "num_followers": 468785,
+  "num_followers": 468902,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0ODAwNSwwMDAwMDAwMGUwZjEzYzYwZTAwOTIxYTQ5NzMzNTBmZDcyZDRiYzdi",
+  "snapshot_id": "MTY4MDI0ODAwNSwwMDAwMDAwMGI1ZGE0MmI5ZDM1ZWNiMDljN2Q4ZjNjMjJhZDI1YWUz",
   "tracks": [
     {
       "added_at": "2023-03-31 07:33:25",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-03-31 07:33:25",
       "album": {
+        "name": "LLNM2",
+        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 216754,
+      "name": "BRRR",
+      "url": "https://open.spotify.com/track/029cuB69yYCgVHND32hjcT"
+    },
+    {
+      "added_at": "2023-03-31 07:33:25",
+      "album": {
         "name": "Ghetto Star",
         "url": "https://open.spotify.com/album/2SjlYKPeAVcfvz7ChGCix4"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 197142,
       "name": "Ghetto Star",
       "url": "https://open.spotify.com/track/3t6SsMiA1b1Ju0HzKHIDSl"
-    },
-    {
-      "added_at": "2023-03-31 07:33:25",
-      "album": {
-        "name": "LLNM2",
-        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 216754,
-      "name": "BRRR",
-      "url": "https://open.spotify.com/track/029cuB69yYCgVHND32hjcT"
     },
     {
       "added_at": "2023-03-31 07:33:25",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-03-31 07:33:25",
       "album": {
-        "name": "SnipeZ",
-        "url": "https://open.spotify.com/album/1O0VHFd6xTl1CfLausE0kN"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 160408,
-      "name": "MAN$ION",
-      "url": "https://open.spotify.com/track/6zsvDXNgIPcnfXsAceGkLH"
-    },
-    {
-      "added_at": "2023-03-31 07:33:25",
-      "album": {
         "name": "BIEN O MAL",
         "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 237658,
       "name": "TIERRA ZANTA",
       "url": "https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ"
+    },
+    {
+      "added_at": "2023-03-31 07:33:25",
+      "album": {
+        "name": "SnipeZ",
+        "url": "https://open.spotify.com/album/1O0VHFd6xTl1CfLausE0kN"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 160408,
+      "name": "MAN$ION",
+      "url": "https://open.spotify.com/track/6zsvDXNgIPcnfXsAceGkLH"
     },
     {
       "added_at": "2023-03-31 07:33:25",
@@ -711,6 +711,26 @@
     {
       "added_at": "2023-03-31 07:33:25",
       "album": {
+        "name": "Lo Tengo",
+        "url": "https://open.spotify.com/album/5HZh2hBhcjb55tiTWqOmdU"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 167442,
+      "name": "LO TENGO",
+      "url": "https://open.spotify.com/track/5ynDRNBqzffgtqSSxuIovs"
+    },
+    {
+      "added_at": "2023-03-31 07:33:25",
+      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 231332,
       "name": "This is Not America (feat. Ibeyi)",
       "url": "https://open.spotify.com/track/7d8LusdMBU3yWUSWBpETjG"
-    },
-    {
-      "added_at": "2023-03-31 07:33:25",
-      "album": {
-        "name": "Lo Tengo",
-        "url": "https://open.spotify.com/album/5HZh2hBhcjb55tiTWqOmdU"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 167442,
-      "name": "LO TENGO",
-      "url": "https://open.spotify.com/track/5ynDRNBqzffgtqSSxuIovs"
     },
     {
       "added_at": "2023-03-31 07:33:25",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-03-31 07:33:25",
       "album": {
-        "name": "Se Fue la Luz",
-        "url": "https://open.spotify.com/album/5OJeUsenPzsO2TYTZ18kKK"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 225542,
-      "name": "Se Fue la Luz",
-      "url": "https://open.spotify.com/track/3GnCAwwqk86N0zNP0FMOUU"
-    },
-    {
-      "added_at": "2023-03-31 07:33:25",
-      "album": {
         "name": "Nena Trampa",
         "url": "https://open.spotify.com/album/6hPsRT5cjxpBOgMfIupL48"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 147370,
       "name": "Nena Trampa",
       "url": "https://open.spotify.com/track/2wjA6V7u0rLcFehcty11aN"
+    },
+    {
+      "added_at": "2023-03-31 07:33:25",
+      "album": {
+        "name": "Se Fue la Luz",
+        "url": "https://open.spotify.com/album/5OJeUsenPzsO2TYTZ18kKK"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 225542,
+      "name": "Se Fue la Luz",
+      "url": "https://open.spotify.com/track/3GnCAwwqk86N0zNP0FMOUU"
     },
     {
       "added_at": "2023-03-31 07:33:25",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-03-31 07:33:25",
       "album": {
-        "name": "La Sustancia X",
-        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 157880,
-      "name": "Yo Tengo un Novio",
-      "url": "https://open.spotify.com/track/2G4v9zseCOfdTvIs90qi6D"
-    },
-    {
-      "added_at": "2023-03-31 07:33:25",
-      "album": {
         "name": "Bape (Remix)",
         "url": "https://open.spotify.com/album/5bKfN6UHIlW3RMEmP10YZP"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 362571,
       "name": "Bape (Remix)",
       "url": "https://open.spotify.com/track/3bfb530Lxa1CSKK1VTksBA"
+    },
+    {
+      "added_at": "2023-03-31 07:33:25",
+      "album": {
+        "name": "La Sustancia X",
+        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 157880,
+      "name": "Yo Tengo un Novio",
+      "url": "https://open.spotify.com/track/2G4v9zseCOfdTvIs90qi6D"
     },
     {
       "added_at": "2023-03-31 07:33:25",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2023-03-31 07:33:25",
       "album": {
-        "name": "So\u00f1ando en PR",
-        "url": "https://open.spotify.com/album/0nMHNSuBWxAeUOb9VspGs5"
-      },
-      "artists": [
-        {
-          "name": "lil joujou",
-          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 158896,
-      "name": "Stripper X",
-      "url": "https://open.spotify.com/track/5LytfsJJoCY3WHWDow9Qc7"
-    },
-    {
-      "added_at": "2023-03-31 07:33:25",
-      "album": {
         "name": "Siempre Es Lo Mismo",
         "url": "https://open.spotify.com/album/7mbmPQhpfV0QojDzqf9fTQ"
       },
@@ -1863,6 +1843,26 @@
       "duration_ms": 246605,
       "name": "Siempre Es Lo Mismo",
       "url": "https://open.spotify.com/track/2Sg6GmnyCyoYkvNezFp98e"
+    },
+    {
+      "added_at": "2023-03-31 07:33:25",
+      "album": {
+        "name": "So\u00f1ando en PR",
+        "url": "https://open.spotify.com/album/0nMHNSuBWxAeUOb9VspGs5"
+      },
+      "artists": [
+        {
+          "name": "lil joujou",
+          "url": "https://open.spotify.com/artist/6UhGN5pVzgbBYjpqkxKM5F"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 158896,
+      "name": "Stripper X",
+      "url": "https://open.spotify.com/track/5LytfsJJoCY3WHWDow9Qc7"
     },
     {
       "added_at": "2023-03-31 07:33:25",
@@ -1947,26 +1947,6 @@
     {
       "added_at": "2023-03-31 07:33:25",
       "album": {
-        "name": "To Anywhere",
-        "url": "https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        },
-        {
-          "name": "vf7",
-          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
-        }
-      ],
-      "duration_ms": 218526,
-      "name": "Cash Cash",
-      "url": "https://open.spotify.com/track/7qr3etn8d1pzbHcL8MewPy"
-    },
-    {
-      "added_at": "2023-03-31 07:33:25",
-      "album": {
         "name": "Maldad",
         "url": "https://open.spotify.com/album/3W4doy1Nh9TLVojSVVhzyf"
       },
@@ -1983,6 +1963,26 @@
       "duration_ms": 140285,
       "name": "Maldad",
       "url": "https://open.spotify.com/track/5zNBzzGYHiPX6KTfoQX7e2"
+    },
+    {
+      "added_at": "2023-03-31 07:33:25",
+      "album": {
+        "name": "To Anywhere",
+        "url": "https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "vf7",
+          "url": "https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ"
+        }
+      ],
+      "duration_ms": 218526,
+      "name": "Cash Cash",
+      "url": "https://open.spotify.com/track/7qr3etn8d1pzbHcL8MewPy"
     },
     {
       "added_at": "2023-03-31 07:33:25",

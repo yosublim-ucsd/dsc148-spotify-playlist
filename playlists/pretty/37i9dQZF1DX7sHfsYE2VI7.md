@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 
 > Chilled out dance classics to set the mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,174 likes - 70 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,219 likes - 70 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 14 | [Avril 14th](https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Drukqs](https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2) | 2:05 |
 | 15 | [You Give Me Something](https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [A funk odyssey](https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs) | 3:19 |
 | 16 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 |
-| 17 | [Sing It Back \- Boris Dlugosch Mix](https://open.spotify.com/track/53qhh1kdcX4gRBShoW4LK8) | [Moloko](https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO), [Boris Dlugosch](https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru), [Michael Lange](https://open.spotify.com/artist/0r3oYkStfoV3sVeoQ1vmtw) | [Catalogue](https://open.spotify.com/album/5sCp2ukwrtpYj5wGfMx78M) | 4:38 |
-| 18 | [Daydream In Blue](https://open.spotify.com/track/5cjaDxaXyRlxGgGjRlte7m) | [I Monster](https://open.spotify.com/artist/1CcPlAmcnJjC4FnaPVzv2v) | [Neveroddoreven](https://open.spotify.com/album/0MNY21WYhxGWfT9WQzrZe5) | 3:43 |
+| 17 | [Daydream In Blue](https://open.spotify.com/track/5cjaDxaXyRlxGgGjRlte7m) | [I Monster](https://open.spotify.com/artist/1CcPlAmcnJjC4FnaPVzv2v) | [Neveroddoreven](https://open.spotify.com/album/0MNY21WYhxGWfT9WQzrZe5) | 3:43 |
+| 18 | [Sing It Back \- Boris Dlugosch Mix](https://open.spotify.com/track/53qhh1kdcX4gRBShoW4LK8) | [Moloko](https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO), [Boris Dlugosch](https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru), [Michael Lange](https://open.spotify.com/artist/0r3oYkStfoV3sVeoQ1vmtw) | [Catalogue](https://open.spotify.com/album/5sCp2ukwrtpYj5wGfMx78M) | 4:38 |
 | 19 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 |
 | 20 | [Golden Light](https://open.spotify.com/track/1rPYEWQfIRo5A4fvLgFbBe) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Miracle Mile](https://open.spotify.com/album/1bvGSdxElbk5CTTPIrWO2L) | 4:43 |
 | 21 | [All I Need \(feat\. Beth Hirsch\)](https://open.spotify.com/track/6T10XPeC9X5xEaD6tMcK6M) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:28 |
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 36 | [Rapture \(feat.Nadia Ali\)](https://open.spotify.com/track/0OSAJEA0ekX6pr2nuiPzX7) | [iio](https://open.spotify.com/artist/5WVf5DCSYmK4JYD6vIcttw), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Poetica \(feat\. Nadia Ali\)](https://open.spotify.com/album/64cR11AqqLidCg6VGjUzxD) | 4:13 |
 | 37 | [Halcyon and On and On](https://open.spotify.com/track/5xcunlfaZvD9BDQsLONI7A) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Orbital 2](https://open.spotify.com/album/1JYyYFJSYrXMHLe7Dz1B3W) | 9:27 |
 | 38 | [Ordinary Pleasure](https://open.spotify.com/track/1r1BFALfShEfyv1aEs7MRW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj) | 3:03 |
-| 39 | [Islands](https://open.spotify.com/track/6i5tYaGlOFDLILEB6HfJAa) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:40 |
-| 40 | [Jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 |
+| 39 | [Jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 |
+| 40 | [Islands](https://open.spotify.com/track/6i5tYaGlOFDLILEB6HfJAa) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8) | 2:40 |
 | 41 | [Since I Left You](https://open.spotify.com/track/1AAYbsAIgEJMbxgLgpjE9y) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Since I Left You \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/0YtYaaO0aipyeQl0xhAWTO) | 4:22 |
-| 42 | [Drop the Pressure](https://open.spotify.com/track/2VtxdAH96cGcj1QzjpbHjA) | [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Destroy Rock & Roll \(2005 Remaster\)](https://open.spotify.com/album/2wdHHEDHe9dw71xVl1EgJZ) | 4:15 |
-| 43 | [What's a Girl to Do](https://open.spotify.com/track/5N720bYInxSsiUDvBOLM3C) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP) | [A Girl Between Two Worlds](https://open.spotify.com/album/4MGNcuX4Vvhv2hhn1FwtDW) | 7:26 |
+| 42 | [What's a Girl to Do](https://open.spotify.com/track/5N720bYInxSsiUDvBOLM3C) | [Fatima Yamaha](https://open.spotify.com/artist/7eZRt08LoDy0nfIS6OwyMP) | [A Girl Between Two Worlds](https://open.spotify.com/album/4MGNcuX4Vvhv2hhn1FwtDW) | 7:26 |
+| 43 | [Drop the Pressure](https://open.spotify.com/track/2VtxdAH96cGcj1QzjpbHjA) | [Mylo](https://open.spotify.com/artist/5YjEVrNMrIRw2xGbjTN6Ti) | [Destroy Rock & Roll \(2005 Remaster\)](https://open.spotify.com/album/2wdHHEDHe9dw71xVl1EgJZ) | 4:15 |
 | 44 | [Standing On The Shore](https://open.spotify.com/track/5g7Qylrck8rh2lUgEWPQVS) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 4:24 |
 | 45 | [One Too Many Mornings](https://open.spotify.com/track/0lOzGDHcPlUB1ZvXMWQ0Oh) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Exit Planet Dust](https://open.spotify.com/album/1Bmuyq89rXZJNK1w8pauEg) | 4:13 |
 | 46 | [Jubel \- Radio Edit](https://open.spotify.com/track/6INwti4FZM31l0lJDKbpxn) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel](https://open.spotify.com/album/2QKdLS1J4yQ20q8ivavV6S) | 3:21 |
@@ -59,11 +59,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 49 | [So Com Voce](https://open.spotify.com/track/4720QgLxfScGStvX9YcGkA) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Mirror Conspiracy](https://open.spotify.com/album/7eH0DZ6Y9bInoU0breGFFe) | 2:47 |
 | 50 | [Pizza Guy](https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z) | [Pizza Guy / Show Me](https://open.spotify.com/album/41wUvXg0GwaIv8qsUii790) | 5:49 |
 | 51 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 |
-| 52 | [Kelly Watch the Stars](https://open.spotify.com/track/5tR13oIwi5J3elcTZPTTIU) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 3:46 |
-| 53 | [Pick Up](https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 6:38 |
+| 52 | [Pick Up](https://open.spotify.com/track/5YzBL3vkQnp3JbeDRRSbSQ) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 6:38 |
+| 53 | [Kelly Watch the Stars](https://open.spotify.com/track/5tR13oIwi5J3elcTZPTTIU) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 3:46 |
 | 54 | [Lush](https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [New Energy](https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ) | 5:11 |
-| 55 | [Movements \(Chapter III\)](https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Nothing Is Still](https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr) | 3:51 |
-| 56 | [Feather](https://open.spotify.com/track/6WDAtzaXY7d31CkuoxYFcb) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Machine Dreams](https://open.spotify.com/album/1223HNo18fRbvEKxMgiSa7) | 4:53 |
+| 55 | [Feather](https://open.spotify.com/track/6WDAtzaXY7d31CkuoxYFcb) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Machine Dreams](https://open.spotify.com/album/1223HNo18fRbvEKxMgiSa7) | 4:53 |
+| 56 | [Movements \(Chapter III\)](https://open.spotify.com/track/1OD2YXIOmfYmBAYfV1maRV) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Nothing Is Still](https://open.spotify.com/album/6WeIO0CpDMiMXTglv0KuLr) | 3:51 |
 | 57 | [Lights & Music](https://open.spotify.com/track/2dngx6srtqsxvyh7oGV8FM) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/6k3dwEFYKsGrhS40jtiAGt) | 4:37 |
 | 58 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 |
 | 59 | [Les Nuits](https://open.spotify.com/track/64EfSAF5nxhIfUw1GbPPCC) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Carboot Soul](https://open.spotify.com/album/5c3DKyqo1I7vMqozsrEImO) | 6:19 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sHfsYE2VI7.md) - [plain]
 | 69 | [The Wilhelm Scream](https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:33 |
 | 70 | [In The Bath](https://open.spotify.com/track/5FccwnVjJbLIF2azQjCwyP) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [LemonJelly.ky](https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk) | 6:41 |
 
-Snapshot ID: `MTY0NjAxMzk1OCwwMDAwMDAwMDUzNjhhNWFjNDhhODM2NjE5MDNjZWNhOTliZjQ0OTAw`
+Snapshot ID: `MTY0NjAxMzk1OCwwMDAwMDAwMDAxZDQyOGFhZjMzODkzZWJiYzE3ZjE4NDQxZjAxZjU3`

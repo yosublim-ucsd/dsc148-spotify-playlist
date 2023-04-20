@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Luis \u00c1ngel El Flaco & Josi Cuen en portada.",
-  "num_followers": 1107262,
+  "num_followers": 1107613,
   "original_name": "Banda 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg5OTg3NiwwMDAwMDAwMDI2OThhNmE3MzhkMmVjN2NiNzc2MmQ2MGIwMTM4Yjdi",
+  "snapshot_id": "MTY4MDg5OTg3NiwwMDAwMDAwMDljYWI0NWFmNDkzZjJmOTMyMGE4MmQ0MTdiYmYwYjA5",
   "tracks": [
     {
       "added_at": "2023-04-07 20:37:55",
@@ -219,8 +219,8 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
-        "name": "Te Felicito",
-        "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
+        "name": "Qu\u00e9 Onda Perdida",
+        "url": "https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 224523,
-      "name": "Te Felicito",
-      "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
+      "duration_ms": 223695,
+      "name": "Qu\u00e9 Onda Perdida",
+      "url": "https://open.spotify.com/track/3TjLFavKPwuvXk5xnxPlEk"
     },
     {
       "added_at": "2023-04-07 20:37:55",
@@ -359,8 +359,8 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
-        "name": "Qu\u00e9 Onda Perdida",
-        "url": "https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN"
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
       },
       "artists": [
         {
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 223695,
-      "name": "Qu\u00e9 Onda Perdida",
-      "url": "https://open.spotify.com/track/3TjLFavKPwuvXk5xnxPlEk"
+      "duration_ms": 224523,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
     },
     {
       "added_at": "2023-04-07 20:37:55",
@@ -611,22 +611,18 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
-        "name": "M\u00fasica Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
+        "name": "Aqu\u00ed Casual",
+        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
       },
       "artists": [
         {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
         }
       ],
-      "duration_ms": 232573,
-      "name": "M\u00fasica Rom\u00e1ntica",
-      "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
+      "duration_ms": 156521,
+      "name": "Bonito y Bello",
+      "url": "https://open.spotify.com/track/3EsSkOSotuZIznFtjZhUOR"
     },
     {
       "added_at": "2023-04-07 20:37:55",
@@ -663,18 +659,22 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
-        "name": "Aqu\u00ed Casual",
-        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
+        "name": "M\u00fasica Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
       },
       "artists": [
         {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         }
       ],
-      "duration_ms": 156521,
-      "name": "Bonito y Bello",
-      "url": "https://open.spotify.com/track/3EsSkOSotuZIznFtjZhUOR"
+      "duration_ms": 232573,
+      "name": "M\u00fasica Rom\u00e1ntica",
+      "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
     },
     {
       "added_at": "2023-04-07 20:37:55",
@@ -759,6 +759,42 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
+        "name": "Es Amor",
+        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "Es Amor",
+      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
+    },
+    {
+      "added_at": "2023-04-07 20:37:55",
+      "album": {
+        "name": "La Barda Me Vol\u00e9",
+        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 280093,
+      "name": "Somos Los Que Somos - En Vivo",
+      "url": "https://open.spotify.com/track/1Z04XN4pH2b8JfdiaIEkl5"
+    },
+    {
+      "added_at": "2023-04-07 20:37:55",
+      "album": {
         "name": "Aqui Ando En El Caloron (En Vivo)",
         "url": "https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn"
       },
@@ -775,22 +811,6 @@
       "duration_ms": 232820,
       "name": "Aqui Ando En El Caloron - En Vivo",
       "url": "https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl"
-    },
-    {
-      "added_at": "2023-04-07 20:37:55",
-      "album": {
-        "name": "Es Amor",
-        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "Es Amor",
-      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
     },
     {
       "added_at": "2023-04-07 20:37:55",
@@ -815,26 +835,6 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
-        "name": "Fuera de Servicio (En Vivo)",
-        "url": "https://open.spotify.com/album/0FTqYpjo7FxglsdqWNoO0q"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Fuera de Servicio - En Vivo",
-      "url": "https://open.spotify.com/track/03XQEYWR7q7aQUGp43Pwah"
-    },
-    {
-      "added_at": "2023-04-07 20:37:55",
-      "album": {
         "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
       },
@@ -851,22 +851,22 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
-        "name": "La Barda Me Vol\u00e9",
-        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
+        "name": "Fuera de Servicio (En Vivo)",
+        "url": "https://open.spotify.com/album/0FTqYpjo7FxglsdqWNoO0q"
       },
       "artists": [
         {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 280093,
-      "name": "Somos Los Que Somos - En Vivo",
-      "url": "https://open.spotify.com/track/1Z04XN4pH2b8JfdiaIEkl5"
+      "duration_ms": 206506,
+      "name": "Fuera de Servicio - En Vivo",
+      "url": "https://open.spotify.com/track/03XQEYWR7q7aQUGp43Pwah"
     },
     {
       "added_at": "2023-04-07 20:37:55",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
-        "name": "Que Te Trague La Tierra",
-        "url": "https://open.spotify.com/album/0K58rVn5sbwOxIvEBECmIv"
+        "name": "Porque As\u00ed Ten\u00eda Que Ser",
+        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
       },
       "artists": [
         {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 188266,
-      "name": "Que Te Trague La Tierra",
-      "url": "https://open.spotify.com/track/1NW4Mnhvl5NX7yxEgylV1x"
+      "duration_ms": 230440,
+      "name": "Olvidarte, \u00bfC\u00f3mo?",
+      "url": "https://open.spotify.com/track/483UWv27S4xr8fWZlQ5bnN"
     },
     {
       "added_at": "2023-04-07 20:37:55",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
-        "name": "Porque As\u00ed Ten\u00eda Que Ser",
-        "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
+        "name": "Que Te Trague La Tierra",
+        "url": "https://open.spotify.com/album/0K58rVn5sbwOxIvEBECmIv"
       },
       "artists": [
         {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         }
       ],
-      "duration_ms": 230440,
-      "name": "Olvidarte, \u00bfC\u00f3mo?",
-      "url": "https://open.spotify.com/track/483UWv27S4xr8fWZlQ5bnN"
+      "duration_ms": 188266,
+      "name": "Que Te Trague La Tierra",
+      "url": "https://open.spotify.com/track/1NW4Mnhvl5NX7yxEgylV1x"
     },
     {
       "added_at": "2023-04-07 20:37:55",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
-        "name": "Fin de Semana",
-        "url": "https://open.spotify.com/album/7HgBS5lPsiU4bswb741ABB"
+        "name": "El 30 de Febrero",
+        "url": "https://open.spotify.com/album/0x2OATUtYiydLtsW3eOg4p"
       },
       "artists": [
         {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Fin de Semana",
-      "url": "https://open.spotify.com/track/1vAoGye89UrMmGr2MreFES"
+      "duration_ms": 181204,
+      "name": "El 30 de Febrero",
+      "url": "https://open.spotify.com/track/4ZbDbGo6hubDCXsVMEx1jv"
     },
     {
       "added_at": "2023-04-07 20:37:55",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
+        "name": "Fin de Semana",
+        "url": "https://open.spotify.com/album/7HgBS5lPsiU4bswb741ABB"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Fin de Semana",
+      "url": "https://open.spotify.com/track/1vAoGye89UrMmGr2MreFES"
+    },
+    {
+      "added_at": "2023-04-07 20:37:55",
+      "album": {
         "name": "Me Rindo",
         "url": "https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 220653,
       "name": "Me Rindo",
       "url": "https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ"
-    },
-    {
-      "added_at": "2023-04-07 20:37:55",
-      "album": {
-        "name": "El 30 de Febrero",
-        "url": "https://open.spotify.com/album/0x2OATUtYiydLtsW3eOg4p"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 181204,
-      "name": "El 30 de Febrero",
-      "url": "https://open.spotify.com/track/4ZbDbGo6hubDCXsVMEx1jv"
     },
     {
       "added_at": "2023-04-07 20:37:55",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
-        "name": "Porque Soy Abeja Reina",
-        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 158146,
-      "name": "Porque Soy Abeja Reina",
-      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
-    },
-    {
-      "added_at": "2023-04-07 20:37:55",
-      "album": {
         "name": "Para Ti Exclusivo (En Vivo Desde Arandas Jalisco)",
         "url": "https://open.spotify.com/album/4xZFqokyvpfFKHkHlSeePO"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 196360,
       "name": "De Ti Exclusivo",
       "url": "https://open.spotify.com/track/404MXA5pRTh93BrxPeGrQp"
+    },
+    {
+      "added_at": "2023-04-07 20:37:55",
+      "album": {
+        "name": "Porque Soy Abeja Reina",
+        "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 158146,
+      "name": "Porque Soy Abeja Reina",
+      "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
     },
     {
       "added_at": "2023-04-07 20:37:55",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-04-07 20:37:55",
       "album": {
-        "name": "Lo Que No Es Pa' Uno",
-        "url": "https://open.spotify.com/album/6JNExZulEns34TTlX8jxrz"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 174760,
-      "name": "Lo Que No Es Pa' Uno",
-      "url": "https://open.spotify.com/track/4WbJt5AUFbFNGL17gkQR74"
-    },
-    {
-      "added_at": "2023-04-07 20:37:55",
-      "album": {
         "name": "Fuerte No Soy",
         "url": "https://open.spotify.com/album/0xeqSKK5P5DbDASkUmiYeU"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 201213,
       "name": "Fuerte No Soy",
       "url": "https://open.spotify.com/track/4673knHBZjafW3zfT4nBvc"
+    },
+    {
+      "added_at": "2023-04-07 20:37:55",
+      "album": {
+        "name": "Lo Que No Es Pa' Uno",
+        "url": "https://open.spotify.com/album/6JNExZulEns34TTlX8jxrz"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 174760,
+      "name": "Lo Que No Es Pa' Uno",
+      "url": "https://open.spotify.com/track/4WbJt5AUFbFNGL17gkQR74"
     },
     {
       "added_at": "2023-04-07 20:37:55",

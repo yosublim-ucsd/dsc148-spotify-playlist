@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,424,802 likes - 151 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,425,026 likes - 151 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 71 | [Toroka](https://open.spotify.com/track/6RMltEudPPFoJuUoshxRBB) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Toroka](https://open.spotify.com/album/4ygUCm61U3CV3xnJepGieC) | 3:22 |
 | 72 | [Silent Dream](https://open.spotify.com/track/7iXvlrUHFsLAH3neUpxIfM) | [Daniele Luppi](https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [Charm of Pleasure](https://open.spotify.com/album/6YrdjgvM2rx0BQ3yQFAJuH) | 3:33 |
 | 73 | [Every Beginning Ends](https://open.spotify.com/track/4iAjjXGCKNQCtFklN48w7n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [The Hardest Part](https://open.spotify.com/album/4frBxYchAwQD5z8Z6VTrF3) | 2:30 |
-| 74 | [Never Learned To Dance](https://open.spotify.com/track/3u6qjHq0y3rmXRQa4iz9OD) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Never Learned To Dance](https://open.spotify.com/album/5ms3VD6BeAQjId7vGPPznI) | 3:44 |
+| 74 | [Never Learned To Dance](https://open.spotify.com/track/6LNHrPKYu1kZXhIiOWzHea) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Health](https://open.spotify.com/album/45Se7nUO9QHVJumwXIejpd) | 3:44 |
 | 75 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 |
 | 76 | [God Turn Me Into a Flower](https://open.spotify.com/track/5gJw9DpcnYywIIVGYSb4Y5) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 6:25 |
 | 77 | [What About Me?](https://open.spotify.com/track/5CZhpmlLKUYZdq7pX5cVHS) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [What About Me?](https://open.spotify.com/album/51D87o8rHccQRtjNK4ybgJ) | 3:25 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 150 | [Love and Hate in a Different Time \- Original](https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Love and Hate in a Different Time](https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e) | 4:42 |
 | 151 | [Larabar](https://open.spotify.com/track/3YFbjJtmJPk71vK9tDohrY) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Letter Blue](https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF) | 2:55 |
 
-Snapshot ID: `MTY4MTgzNzUxMiwwMDAwMDAwMGQ5OTU2ODFlOGFlYmExMzg0ZDIyNTJjODNlZDlhYmM4`
+Snapshot ID: `MTY4MTgzNzUxMiwwMDAwMDAwMDc1OGY3NDMwZTliYTU0NmMxNjRiMDJlMzc2YmZiMjJi`

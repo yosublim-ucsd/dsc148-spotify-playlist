@@ -2,7 +2,7 @@
 
 ### [Chaos Anthems](https://open.spotify.com/playlist/37i9dQZF1DX8sGALGjOrTu)
 
-> Back to the golden age of the scene\. Cover: Alexisonfire
+> Back to the golden age of the scene\. Cover: Underoath
 
 210 songs - 13 hr 21 min
 
@@ -58,7 +58,7 @@
 | [Decoration \- Rock Version](https://open.spotify.com/track/6b9zC4tbdV3jmRtpErsKP1) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [The Mother, The Mechanic, And The Path](https://open.spotify.com/album/6ArZlxEdAfMNjsGt64hnsw) | 3:17 | 2021-12-07 | 2022-07-29 |
 | [Decoration \- Rock Version](https://open.spotify.com/track/6pqDYLoQnjDqnPEEWHHL4Q) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [The Mother, The Mechanic, And The Path](https://open.spotify.com/album/4bCgcuGVc07xSfFJb0wXf3) | 3:17 | 2022-12-11 | 2022-12-18 |
 | [Demolition Lovers](https://open.spotify.com/track/16Fp67kTFhH0XK5Cl6Oz7r) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 6:06 | 2023-03-07 |  |
-| [Devil In Jersey City](https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Second Stage Turbine Blade \(Re\-Issue\)](https://open.spotify.com/album/0puQN87m8wxSu8lcDkwV2k) | 4:47 | 2021-12-07 | 2023-04-05 |
+| [Devil In Jersey City](https://open.spotify.com/track/14fcbToPrshMsN1IY8CKvE) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Second Stage Turbine Blade \(Re\-Issue\)](https://open.spotify.com/album/0puQN87m8wxSu8lcDkwV2k) | 4:47 | 2021-12-07 |  |
 | [Die Romantic](https://open.spotify.com/track/3t9OWuyMpQclTWD6ABjqXj) | [Aiden](https://open.spotify.com/artist/1FNjzdmDeHeZjU5qUJlQ1G) | [Nightmare Anatomy](https://open.spotify.com/album/2D1VW1OkgB4t2x8vLWu2Az) | 3:40 | 2021-12-07 | 2022-07-28 |
 | [Die Romantic](https://open.spotify.com/track/6X6hTTh32bJM24wYY26MTc) | [Aiden](https://open.spotify.com/artist/1FNjzdmDeHeZjU5qUJlQ1G) | [Nightmare Anatomy](https://open.spotify.com/album/2K3Ga1V2OzVtBLemgMDcIB) | 3:40 | 2021-12-07 | 2022-10-01 |
 | [Do It Now Remember It Later](https://open.spotify.com/track/3ikf8zLuO1MACbNFfDvJ12) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Let's Cheers To This](https://open.spotify.com/album/4TuNgoALZ10zEOHgfkxs8T) | 3:23 | 2021-12-07 |  |
@@ -163,7 +163,7 @@
 | [Stare At The Sun](https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 3:23 | 2021-12-07 |  |
 | [Studying Politics](https://open.spotify.com/track/69YAlTHsJSww392VeNOa7Z) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [The Question](https://open.spotify.com/album/4hqjE4M2FKwKeObRmoTEet) | 3:30 | 2021-12-07 | 2023-03-08 |
 | [Such Small Hands](https://open.spotify.com/track/0tksWgMFUovmWxDAnkebtO) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Somewhere at the Bottom of the River Between Vega and Altair \(10th Anniversary\)](https://open.spotify.com/album/0pTuxkUN7yTGwoU00KRCan) | 1:35 | 2021-12-07 | 2023-03-23 |
-| [Such Small Hands](https://open.spotify.com/track/31Hx0pInhn2tSq5gdhWv0d) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Somewhere at the Bottom of the River Between Vega and Altair \(10th Anniversary\)](https://open.spotify.com/album/5fzDxefGUH8jM7T9HCLSNr) | 1:35 | 2023-03-20 |  |
+| [Such Small Hands](https://open.spotify.com/track/31Hx0pInhn2tSq5gdhWv0d) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Somewhere at the Bottom of the River Between Vega and Altair \(10th Anniversary\)](https://open.spotify.com/album/5fzDxefGUH8jM7T9HCLSNr) | 1:35 | 2023-03-20 | 2023-04-20 |
 | [Tears Don't Fall](https://open.spotify.com/track/1kdiiFGX1Htx0aVZYaDwEJ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/7zU9hmH9CKQ9Yf5SruqOLM) | 5:48 | 2021-12-07 | 2022-12-12 |
 | [Tears Don't Fall](https://open.spotify.com/track/5pKCDm2fw4k6D6C5Rk646C) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27) | 5:48 | 2021-12-07 | 2022-07-29 |
 | [Thank You for the Venom](https://open.spotify.com/track/0BpKPyXhWsTaWkgXeOd1Sn) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:41 | 2023-03-14 |  |

@@ -4,7 +4,7 @@
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-325 songs - 18 hr 59 min
+326 songs - 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Hold You](https://open.spotify.com/track/7CrIYL4F8zpXm7bwhXUkxM) | [TOME](https://open.spotify.com/artist/2aRiWRO2A7xUI2sqZyJJmX), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi) | [LÖV](https://open.spotify.com/album/0xATpwMQQqS5Gb7gS16MIa) | 5:37 | 2022-02-24 | 2022-07-10 |
 | [Holiday](https://open.spotify.com/track/0GfCR4T6WOErZOw1557ln7) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 2:39 | 2023-02-16 |  |
 | [Holy Father](https://open.spotify.com/track/3yCYQ0uzJyX0GwJoF3QvAe) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Holy Father](https://open.spotify.com/album/0lvjVJuOT5mWABhnvpxBHn) | 3:04 | 2021-10-28 | 2023-03-11 |
+| [How Many Times](https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8) | [DJ Big N](https://open.spotify.com/artist/2mGQZqxcJJOHMYhU8c7l4B), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [How Many Times](https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm) | 3:12 | 2023-04-14 |  |
 | [Hypertension](https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Hypertension / Things I Need](https://open.spotify.com/album/0m1x1G5kxXmN4cvqF75A7q) | 3:17 | 2022-08-12 | 2023-03-04 |
 | [I Feel Nice](https://open.spotify.com/track/7a8JvM5yHxu3ED2SBQYBJB) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [Group Chat](https://open.spotify.com/artist/2bUFkuoX9s0HaQwNLhRCqA), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [I Feel Nice](https://open.spotify.com/album/4tKPkjN78B0HmlmQLXnGqk) | 2:40 | 2022-11-19 | 2022-11-26 |
 | [I Like Girls](https://open.spotify.com/track/4AJoojPC3el2UWboIKnDDk) | [Chinko Ekun](https://open.spotify.com/artist/5jfQBS0O6dR6axaz0BGMgs) | [I Like Girls](https://open.spotify.com/album/2UzLjMX7iff7P6KcbL9Ez3) | 2:37 | 2023-03-18 | 2023-03-25 |
@@ -237,7 +238,7 @@
 | [Party](https://open.spotify.com/track/0RdO7NC6LgugflNKRmNeAn) | [A\-swxg](https://open.spotify.com/artist/4WLrRRtBJv9WV3A5KVClPg), [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Party](https://open.spotify.com/album/2nUeJg5EVfIFZBqZkGYjhB) | 2:25 | 2022-06-30 | 2022-07-06 |
 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 | 2023-03-17 |  |
 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 | 2022-06-16 |  |
-| [Pele Pele](https://open.spotify.com/track/3r4sc1n8kNL2FpebHwaAQE) | [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Pele Pele](https://open.spotify.com/album/3HnFaSlDoeqqmPoVWYAETZ) | 5:17 | 2022-11-14 |  |
+| [Pele Pele](https://open.spotify.com/track/3r4sc1n8kNL2FpebHwaAQE) | [Ch'cco](https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [Pele Pele](https://open.spotify.com/album/3HnFaSlDoeqqmPoVWYAETZ) | 5:17 | 2022-11-14 | 2023-04-20 |
 | [Personal](https://open.spotify.com/track/1Lg2Agsu9XTZ6M4wfRMpff) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Personal](https://open.spotify.com/album/3A2ta8zCeJjbZkmx0yTxtx) | 2:23 | 2022-12-18 | 2023-04-15 |
 | [Peru](https://open.spotify.com/track/0lk5tzmaJWVAv5GBvpm3xu) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Peru](https://open.spotify.com/album/79O3iaxnmfBDwqueQJiNBe) | 2:31 | 2021-09-10 | 2022-10-08 |
 | [Peru \- Remix](https://open.spotify.com/track/7voSun33hCNkIrjxaj3g47) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Peru \(Remix\)](https://open.spotify.com/album/4Kg4K6I165RgFvAnWy14Md) | 3:06 | 2022-02-11 | 2022-06-17 |

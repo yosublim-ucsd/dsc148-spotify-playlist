@@ -601,6 +601,24 @@
     },
     {
       "album": {
+        "name": "ASANINATTARA",
+        "url": "https://open.spotify.com/album/07YeKVqGvknr3fh6o94g2w"
+      },
+      "artists": [
+        {
+          "name": "umitachi",
+          "url": "https://open.spotify.com/artist/6M3JzDIG1BTMQ7eDTrIJTI"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169140,
+      "name": "ASANINATTARA",
+      "url": "https://open.spotify.com/track/3KjbxzHS3lcHfnhimI9I3g"
+    },
+    {
+      "album": {
         "name": "Awesome Day",
         "url": "https://open.spotify.com/album/6gcG7112FkoCEeCN6ljP6T"
       },
@@ -1566,6 +1584,24 @@
       "duration_ms": 217741,
       "name": "Control",
       "url": "https://open.spotify.com/track/6dtdMzhCicbyXYsR9oEXwm"
+    },
+    {
+      "album": {
+        "name": "Inner Dialog",
+        "url": "https://open.spotify.com/album/48AHaxshOHD3ktB9Ea5RDN"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325898,
+      "name": "Countdown Rag",
+      "url": "https://open.spotify.com/track/4I3f7odzNXdhDrxX4W4aT3"
     },
     {
       "album": {
@@ -9982,7 +10018,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 325898,
       "name": "\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30fb\u30e9\u30b0",
       "url": "https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU"
@@ -13092,7 +13128,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 169140,
       "name": "\u671d\u306b\u306a\u3063\u305f\u3089",
       "url": "https://open.spotify.com/track/5xIbExjqn7BDKHA5vEUnId"

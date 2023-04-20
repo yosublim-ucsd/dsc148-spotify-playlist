@@ -4,7 +4,7 @@
 
 > Knees go down and the prayers go up
 
-52 songs - 5 hr 52 min
+53 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Daddy wey dey Pamper](https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Daddy wey dey Pamper](https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI) | 12:40 | 2023-04-06 |  |
 | [Dependable God](https://open.spotify.com/track/0nFJXe8v5S5J6Jihb33RkN) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Dependable God](https://open.spotify.com/album/7CzRW6l3bcarSQ8w1wAoKj) | 3:52 | 2023-04-06 |  |
 | [Excess Love \(feat\. JJ Hairston & Youthful Praise\) \- Remix](https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 8:27 | 2023-04-06 |  |
+| [Eyes of The Spirit Chant \(Prayer Chant\)](https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Journey To The Deep \(Prayer Chants\)](https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag) | 2:11 | 2023-04-14 |  |
 | [Fragrance to Fire](https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 10:57 | 2023-04-06 |  |
 | [Hallelujah](https://open.spotify.com/track/1ZRSxZVgRM5Xv7edLmp7nL) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Xperience with Love](https://open.spotify.com/album/7JRYRjbrM7mNZ2SUtYWXVi) | 9:46 | 2023-04-06 |  |
 | [Holy Holy](https://open.spotify.com/track/3c59MimChLvVDK5cVccW2p) | [Uwana Etuk](https://open.spotify.com/artist/1vUtm6BcZuvgWqlhCUF2M3) | [Yahwey](https://open.spotify.com/album/65h9sRcIJ4yJNNtG99CQ3x) | 8:00 | 2023-04-06 |  |
@@ -55,7 +56,7 @@
 | [There's an Overflow](https://open.spotify.com/track/5pccP1TA1WGNrYXAHF8xNU) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [There's an Overflow](https://open.spotify.com/album/7bCb9oOr3rwnZ5YHJbwTBm) | 8:10 | 2023-04-06 |  |
 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 | 2023-04-06 |  |
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2023-04-06 |  |
-| [Wonders \- Live](https://open.spotify.com/track/01i4L10PCxMSqxEZnLpkue) | [Jedidiaah](https://open.spotify.com/artist/38PprjtWjRZWei6vEZHTC7) | [Wonders \(Live\)](https://open.spotify.com/album/42imw6HApqycDjSpAhXpGQ) | 9:41 | 2023-04-06 |  |
+| [Wonders \- Live](https://open.spotify.com/track/01i4L10PCxMSqxEZnLpkue) | [Jedidiaah](https://open.spotify.com/artist/38PprjtWjRZWei6vEZHTC7) | [Wonders \(Live\)](https://open.spotify.com/album/42imw6HApqycDjSpAhXpGQ) | 9:41 | 2023-04-06 | 2023-04-20 |
 | [Yahweh](https://open.spotify.com/track/1F0CrOa4vEtp7r5KfzqDhJ) | [David G](https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri) | [Yahweh](https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy) | 5:24 | 2023-04-06 |  |
 | [Yes You Are the Lord](https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p), [Danny Nettey](https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK), [Emmit Jim Konadu](https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx), [Negar Wujanji](https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi) | [A Sound from Heaven](https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo) | 6:42 | 2023-04-06 |  |
 | [You are Yahweh](https://open.spotify.com/track/1FubXlwFRsFyyeqH5KodDG) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Faith is Rising](https://open.spotify.com/album/18nzvmXhBvp2i4Rj5kgkQs) | 4:39 | 2023-04-06 |  |

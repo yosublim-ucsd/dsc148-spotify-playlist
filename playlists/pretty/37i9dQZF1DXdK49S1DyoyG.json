@@ -1,12 +1,12 @@
 {
   "description": "Take the afternoon off.",
-  "num_followers": 32115,
+  "num_followers": 32248,
   "original_name": "Ros\u00e9 on Tap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTE1MjIxMCwwMDAwMDAwMDdjNGJlYWZkZmNiMDBlM2E0NTI5OTAxNTJjZGRhMWQ3",
+  "snapshot_id": "MTY3MTE1MjIxMCwwMDAwMDAwMDZiMWU3MGU0NzlhYzgzMWM1NDAyZmQyYTU4YTk1MjFl",
   "tracks": [
     {
       "added_at": "2022-12-16 00:56:50",
@@ -431,6 +431,22 @@
     {
       "added_at": "2022-12-16 00:56:50",
       "album": {
+        "name": "Raise Your Glass",
+        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "Raise Your Glass",
+      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
+    },
+    {
+      "added_at": "2022-12-16 00:56:50",
+      "album": {
         "name": "Better Days (NEIKED x Mae Muller x Polo G)",
         "url": "https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 160656,
       "name": "Better Days (NEIKED x Mae Muller x Polo G)",
       "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
-    },
-    {
-      "added_at": "2022-12-16 00:56:50",
-      "album": {
-        "name": "Raise Your Glass",
-        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "Raise Your Glass",
-      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
     },
     {
       "added_at": "2022-12-16 00:56:50",
@@ -903,22 +903,6 @@
     {
       "added_at": "2022-12-16 00:56:50",
       "album": {
-        "name": "Stars Dance (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 231986,
-      "name": "Come & Get It",
-      "url": "https://open.spotify.com/track/6LoQHIo74tOzQ8EsLEkhgF"
-    },
-    {
-      "added_at": "2022-12-16 00:56:50",
-      "album": {
         "name": "Sick Boy",
         "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 197946,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl"
+    },
+    {
+      "added_at": "2022-12-16 00:56:50",
+      "album": {
+        "name": "Stars Dance (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 231986,
+      "name": "Come & Get It",
+      "url": "https://open.spotify.com/track/6LoQHIo74tOzQ8EsLEkhgF"
     },
     {
       "added_at": "2022-12-16 00:56:50",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-12-16 00:56:50",
       "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "My Love Is Your Love",
-      "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
-    },
-    {
-      "added_at": "2022-12-16 00:56:50",
-      "album": {
         "name": "The Heat",
         "url": "https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 261933,
       "name": "He Wasn't Man Enough",
       "url": "https://open.spotify.com/track/7f1Dmr246cJ9uQYdbplTbh"
+    },
+    {
+      "added_at": "2022-12-16 00:56:50",
+      "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "My Love Is Your Love",
+      "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
     },
     {
       "added_at": "2022-12-16 00:56:50",

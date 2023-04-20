@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Conexión Divina
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,213 likes - 65 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,209 likes - 65 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 52 | [En Carne Viva](https://open.spotify.com/track/0576T1N3lsfD2ImwFrW1tO) | [Paola Preciado](https://open.spotify.com/artist/1zG5D5npyMFrKi3TQRXaNP), [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [En Carne Viva](https://open.spotify.com/album/2MOtc63fVOckXi8FrW19Di) | 3:23 |
 | 53 | [Le Cale A Quien Le Cale](https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Le Cale A Quien Le Cale](https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn) | 2:32 |
 | 54 | [G\. Blanco](https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8) | [GiGi](https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8) | [G\. Blanco](https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ) | 2:58 |
-| 55 | [Por Confiar En El Amor](https://open.spotify.com/track/3tQbxSWtiQH65UIKrvScfn) | [Alessa](https://open.spotify.com/artist/61HwcQ9XsPkPsixuKneV5T) | [Por Confiar En El Amor](https://open.spotify.com/album/0cuBvItc5BUgQWh0WJ7pW6) | 2:46 |
-| 56 | [Fayer](https://open.spotify.com/track/3vnA3XGgCmYuDJBJ5GyTPn) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Fayer](https://open.spotify.com/album/2YCkZ9WQZ8Ctz0tI4L7MIB) | 3:04 |
+| 55 | [Fayer](https://open.spotify.com/track/3vnA3XGgCmYuDJBJ5GyTPn) | [Estilo Sin Limite](https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd) | [Fayer](https://open.spotify.com/album/2YCkZ9WQZ8Ctz0tI4L7MIB) | 3:04 |
+| 56 | [Por Confiar En El Amor](https://open.spotify.com/track/3tQbxSWtiQH65UIKrvScfn) | [Alessa](https://open.spotify.com/artist/61HwcQ9XsPkPsixuKneV5T) | [Por Confiar En El Amor](https://open.spotify.com/album/0cuBvItc5BUgQWh0WJ7pW6) | 2:46 |
 | 57 | [Me Siento Libre \- En Vivo](https://open.spotify.com/track/227vbjK2tlAOl76wNwLzl9) | [Gaby Romero](https://open.spotify.com/artist/1LWE6vCfCcdzmBLJ8aTkKy) | [Me Siento Libre \(En Vivo\)](https://open.spotify.com/album/0Z3D0zDT21or5NFSFNBFBm) | 2:27 |
 | 58 | [Sexo Débil \(TNMDQH\)](https://open.spotify.com/track/0qMENPFhmwopv8R8JaYQxr) | [Victoria La Mala](https://open.spotify.com/artist/67Ve4PFfgeDZuowPNJ42fc), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Soy Mala](https://open.spotify.com/album/2TyCJUAgD4OkU6zSrPWFpe) | 2:46 |
 | 59 | [La Mesa Del Rincón](https://open.spotify.com/track/6mHI2pjKDzYKawO8U0L9Bs) | [Dueto Eleval](https://open.spotify.com/artist/33gpRuqgapD4OaV9kcODrK) | [La Mesa Del Rincón](https://open.spotify.com/album/2NUqSexHJyP9WOX1Gy7DT4) | 3:11 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 64 | [En Peligro De Extinción \- En Vivo](https://open.spotify.com/track/1jnccQsTSqFpNFriKasQi2) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [En Peligro De Extinción \(En Vivo\)](https://open.spotify.com/album/4V9YaFkLZlJHOkyhsVeHTD) | 3:32 |
 | 65 | [Piénsalo](https://open.spotify.com/track/2tVvId1E6EEz4F9VPQVlpY) | [Tania Mondragon](https://open.spotify.com/artist/1mHfQxhZrANBQkHBbD58mL) | [Piénsalo](https://open.spotify.com/album/2K2CxnJMFq7GArkg29Iksl) | 2:03 |
 
-Snapshot ID: `MTY4MTQ2MDg2NCwwMDAwMDAwMDVjZThiYzQ1MzI5YmI5YjVhYTE4OWQ3NjMxZTRlZjU2`
+Snapshot ID: `MTY4MTQ2MDg2NCwwMDAwMDAwMDVlYTQwOWZiZTRjNmUyNWZhOTMyMDg4YzYxMDgyMGI3`

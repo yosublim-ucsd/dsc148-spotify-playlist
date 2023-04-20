@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Lauana Prado e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,563 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,892 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 27 | [Nem Aqui, Nem em Marte](https://open.spotify.com/track/5Ah3nQCQMqidZjGihie916) | [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Nem Aqui, Nem em Marte](https://open.spotify.com/album/2wbFxDFyR1ctXoBEtrdx3R) | 2:52 |
 | 28 | [Negócio na Cama \- Ao Vivo](https://open.spotify.com/track/1ZIrnCHZhVOeFjedBBVtp2) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Priscila Em Cena \(Ao Vivo no Classic Hall\)](https://open.spotify.com/album/2of2wBTolajrVJ5fEWYdFR) | 2:44 |
 | 29 | [Nossa História](https://open.spotify.com/track/6odXGr4z2bxReXvM8c2wwI) | [Brisa Star](https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk) | [Nossa História](https://open.spotify.com/album/5IHyYAPoSOstBvMdP24ia8) | 2:35 |
-| 30 | [Tem Dia Que Não É Dia \- Ao Vivo](https://open.spotify.com/track/4erQSt6veh3RzhKcsVdWM1) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Respeita As Braba \(Ao Vivo / Vol\. 3\)](https://open.spotify.com/album/0754acWXo8RvYk2rlqnh2c) | 2:47 |
-| 31 | [Tá Faltando Tu](https://open.spotify.com/track/0p0PpBHqsNOUhoMTW079Tf) | [Danieze Santiago](https://open.spotify.com/artist/166XjvNMa051GH0GR18P2g) | [Tá Faltando Tu](https://open.spotify.com/album/7FZQM3o3MjUHfgrCiHNb81) | 3:22 |
+| 30 | [Tá Faltando Tu](https://open.spotify.com/track/0p0PpBHqsNOUhoMTW079Tf) | [Danieze Santiago](https://open.spotify.com/artist/166XjvNMa051GH0GR18P2g) | [Tá Faltando Tu](https://open.spotify.com/album/7FZQM3o3MjUHfgrCiHNb81) | 3:22 |
+| 31 | [Tem Dia Que Não É Dia \- Ao Vivo](https://open.spotify.com/track/4erQSt6veh3RzhKcsVdWM1) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Respeita As Braba \(Ao Vivo / Vol\. 3\)](https://open.spotify.com/album/0754acWXo8RvYk2rlqnh2c) | 2:47 |
 | 32 | [Põe na Balança](https://open.spotify.com/track/2Q1Ls2Hh0MBeLttiubm24n) | [Walkyria Santos](https://open.spotify.com/artist/1Ilt2BMVmqKiNCpfthrAMC) | [Põe na Balança](https://open.spotify.com/album/1SEgsWznRliYojKBGush1m) | 2:42 |
 | 33 | [Correndo Do Tchau \- Ao Vivo](https://open.spotify.com/track/4k0QGeZFgaLwB2m3GpJNA9) | [Naessa](https://open.spotify.com/artist/4yeGmRY9a2vswZ47DGqKJH) | [Correndo Do Tchau](https://open.spotify.com/album/6Ov3FfZ06rE22owgghD925) | 4:17 |
 | 34 | [Morfina](https://open.spotify.com/track/7JMoUku5izAjJIzW8v7y5L) | [Bizay](https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX) | [Sentimentos](https://open.spotify.com/album/2WZ00uchMe97wUgfxjugok) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Segue Invicto \- Ao Vivo](https://open.spotify.com/track/22BxPqZRPSzYtbCXPHaVTN) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia A Fenomenal \[\(Ao Vivo\) \[Deluxe\]\]](https://open.spotify.com/album/5DYEhmHPZ4AwU1dLowty2M) | 2:42 |
 | 50 | [Foda Me Esquecer \- Ao Vivo](https://open.spotify.com/track/2lW3PosUws0xAS5UcybOuo) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/0NJBo8eIqMh78Ba5HWTWAD) | 2:16 |
 
-Snapshot ID: `MTY4MDY2MzYwMCwwMDAwMDAwMDNjOTAzZmQ3OTc4NTk5ODU3YTQ4YWEwZTU5ZDA5ODFm`
+Snapshot ID: `MTY4MDY2MzYwMCwwMDAwMDAwMDA5N2IwOWJiYzkwYzA5OTc5MzU5Njc3OWRkNDM0MDBi`

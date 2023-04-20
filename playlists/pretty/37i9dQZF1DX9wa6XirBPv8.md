@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 
 > feel it all\. Cover: My Chemical Romance
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,495,001 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,495,923 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 61 | [My Heroine](https://open.spotify.com/track/6NDoBIaqTHdcudaR8RDJNw) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Discovering The Waterfront](https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ) | 3:27 |
 | 62 | [All That I've Got](https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:50 |
 | 63 | [F.C.P.R.E.M.I.X.](https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8) | [The Fall of Troy](https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P) | [Doppelganger](https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE) | 3:57 |
-| 64 | [Monsters](https://open.spotify.com/track/1UVffD20CfHJ2wD0x0as8L) | [Matchbook Romance](https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG) | [Voices](https://open.spotify.com/album/79IVbDVMkef8jqxosbKcL2) | 4:03 |
-| 65 | [Sic Transit Gloria ..\. Glory Fades](https://open.spotify.com/track/42A4dSYBf0g9OHreccqU5o) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [Deja Entendu](https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX) | 3:06 |
+| 64 | [Sic Transit Gloria ..\. Glory Fades](https://open.spotify.com/track/42A4dSYBf0g9OHreccqU5o) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [Deja Entendu](https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX) | 3:06 |
+| 65 | [Monsters](https://open.spotify.com/track/1UVffD20CfHJ2wD0x0as8L) | [Matchbook Romance](https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG) | [Voices](https://open.spotify.com/album/79IVbDVMkef8jqxosbKcL2) | 4:03 |
 | 66 | [Baby, You Wouldn't Last A Minute On The Creek](https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [All's Well That Ends Well](https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS) | 4:40 |
 | 67 | [You And I](https://open.spotify.com/track/2iIxheqTYiaRm1Xn2hJlY8) | [Anarbor](https://open.spotify.com/artist/09J4zbHHwNNlN2tfgJIg21) | [Free Your Mind](https://open.spotify.com/album/58Jc2HiAkRzpBQlbknJbtP) | 2:57 |
 | 68 | [Seven Years](https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 3:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 74 | [Devotion And Desire](https://open.spotify.com/track/27O9FuS1UIm6ZyLplgLQAH) | [Bayside](https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk) | [Bayside](https://open.spotify.com/album/2QtIreQj0XrhypG6U5H4o5) | 3:29 |
 | 75 | [About a Girl](https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr) | [The Academy Is...](https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu) | [Fast Times At Barrington High](https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ) | 3:30 |
 
-Snapshot ID: `MTY3NzEwOTAzMSwwMDAwMDAwMGU4Yzg1N2RjM2ExZWE2YTg4MWE2MzBlODZjMWRiZWMz`
+Snapshot ID: `MTY3NzEwOTAzMSwwMDAwMDAwMGQwODE3YThiYmZjZGNkZTczZTVkMjBlMWVjOTYzNGZh`

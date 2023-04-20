@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Nickel Creek
 
-266 songs - 16 hr 46 min
+267 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,8 @@
 | [The Hunt](https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [The Hunt](https://open.spotify.com/album/0yVQpUiw9Zwc8magSmNf7h) | 3:22 | 2021-10-01 |  |
 | [The Last Song](https://open.spotify.com/track/60YBCdChTNANPCInBE7nr1) | [The Foreign Landers](https://open.spotify.com/artist/2sVahQ0cbVn83ccFg0klQv) | [The Last Song](https://open.spotify.com/album/051f2CtHH6ZUdj2R4PZ8qF) | 3:05 | 2022-07-29 |  |
 | [The Lonesome Season](https://open.spotify.com/track/3By1O4YkSJyMfBdRc9owtI) | [Andrew Crawford](https://open.spotify.com/artist/3E6LMXGg2UtOW7LaC4OHgN) | [The Lonesome Season](https://open.spotify.com/album/5efbJOZ97cdkB8bsHiRftB) | 3:48 | 2021-12-03 | 2022-07-16 |
-| [The Middle](https://open.spotify.com/track/46X5yC3riaLqYzh8xwf6qm) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [The Middle](https://open.spotify.com/album/1oRVBQBpyqw1nrDROwOmct) | 4:28 | 2021-10-01 |  |
+| [The Middle](https://open.spotify.com/track/2aku9CbppMvVCbuDe4scTB) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Life Is Good on the Open Road](https://open.spotify.com/album/2U6ejoIDreiVA6Tt0ITxRh) | 4:28 | 2023-04-14 |  |
+| [The Middle](https://open.spotify.com/track/46X5yC3riaLqYzh8xwf6qm) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [The Middle](https://open.spotify.com/album/1oRVBQBpyqw1nrDROwOmct) | 4:28 | 2021-10-01 | 2023-04-20 |
 | [The New Ground](https://open.spotify.com/track/6yljyecBkeP42NOhPzuJpH) | [Kristin Andreassen](https://open.spotify.com/artist/4ZmoZRx6S8AvKtFuRGIVSX) | [Gondolier](https://open.spotify.com/album/7FqccxROWYb0YQ3rg97ggN) | 3:26 | 2021-10-01 |  |
 | [The Sea \- Alternative Version](https://open.spotify.com/track/6FftizetgbURg5ung5zcLP) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [The Sea \(Alternative Version\)](https://open.spotify.com/album/5m6kuUHx1i8V17bAz7cTTo) | 2:26 | 2023-04-14 |  |
 | [The Tide](https://open.spotify.com/track/0XZelTejXEzaztup9j4xnO) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [The Tide](https://open.spotify.com/album/6Tn1yJmveMLAmATKi3m5cc) | 4:18 | 2021-10-01 | 2022-07-29 |

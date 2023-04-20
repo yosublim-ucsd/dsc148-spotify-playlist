@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-723 songs - 1 day 15 hr 33 min
+724 songs - 1 day 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,6 +518,7 @@
 | [Real Life \- Hekler Remix](https://open.spotify.com/track/3tAXaWjqeqRF5kSkDrFvh2) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Annie Schindel](https://open.spotify.com/artist/4wSUq2vI7L0BzOQ9pTgozP), [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh) | [Pieces \(Remixes\)](https://open.spotify.com/album/1Ic9G6GEpSFcopAVI4Cbw9) | 4:33 | 2022-07-01 | 2022-09-15 |
 | [Reckless](https://open.spotify.com/track/4WbnbAM4ov4GWdTPNQR15z) | [Mel Ody](https://open.spotify.com/artist/0GgEXglm1E4YoSaIkI5wW7), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b), [Lauren Light](https://open.spotify.com/artist/1TY0aNdsTftlB8jD9I1cFV) | [Reckless](https://open.spotify.com/album/2h6XddEWBJSjRskklf0WZd) | 2:38 | 2023-01-20 | 2023-02-22 |
 | [RECONNECT](https://open.spotify.com/track/3exkPkqy7fngaKlM34tVZj) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [1093](https://open.spotify.com/album/7tX0LuJuHqNFx9ucD9889K) | 4:03 | 2022-01-14 | 2022-09-15 |
+| [Red Or Blue](https://open.spotify.com/track/5ItAI99ySNjoS5rfzo1f6T) | [Frizzy The Streetz](https://open.spotify.com/artist/76D7ppv4U20gNYE6iUcYFJ), [Simbai](https://open.spotify.com/artist/3crJf5p7nUHziLEGTlikzg) | [Red Or Blue](https://open.spotify.com/album/0ncdVBLP1oBz0H19aNcmMu) | 2:17 | 2023-04-19 |  |
 | [Regret It](https://open.spotify.com/track/4B0jh5LyfWZQLvtEzFDQyr) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Krysta Youngs](https://open.spotify.com/artist/6R44YeR0cv8sCeCi2GUWAf), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 3:36 | 2022-06-16 | 2023-02-22 |
 | [Reign \- Deadcrow Remix](https://open.spotify.com/track/2drSLcDJfhIX1AIjTG62CP) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Anna Graceman](https://open.spotify.com/artist/2B69uGl0nh5LMFUAZxVw5y), [Deadcrow](https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE) | [The Remixes \(Vol\. 4\)](https://open.spotify.com/album/1S5sTO8yYiIvDF6v8J6F2K) | 2:59 | 2022-02-02 | 2022-03-05 |
 | [Reload](https://open.spotify.com/track/3k9YyN18G8QW4S2OSs8Iuj) | [VADDS](https://open.spotify.com/artist/0AwrO5huZJNWko331k0vNp), [SVSTN](https://open.spotify.com/artist/0BaYoanpAb4oTALg2pFGVB), [Benlon](https://open.spotify.com/artist/2VD7hi5KkmTgalaFZ8dnls) | [Reload](https://open.spotify.com/album/3GccJ7CiZ0XQ8rjTybOgdY) | 2:21 | 2022-02-21 | 2022-03-26 |

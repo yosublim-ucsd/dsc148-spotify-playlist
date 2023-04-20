@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-499 songs - 1 day 8 hr 58 min
+501 songs - 1 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Colorful Raindrop](https://open.spotify.com/track/3mdEo8YTPXlcZlvpVhFEgY) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh) | [Colorful Raindrop](https://open.spotify.com/album/52eAKerLBLJvoP6eXtKhNB) | 3:08 | 2022-11-01 | 2022-11-09 |
 | [Cosmic Love \(2021 Remix\)](https://open.spotify.com/track/0aXtD6yVzjYAdHcHVo16hU) | [1986 Omega Tribe](https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ) | [The Reverb 2022 OMEGA TRIBE \-VAP Edition\-](https://open.spotify.com/album/0YmD6k6pMLxnb9E3R1DdsY) | 4:12 | 2022-06-14 | 2022-08-31 |
 | [countdown \- prod\. Shin Sakiura & ZIN](https://open.spotify.com/track/7kg73PDeip6tT32vZHJ2hh) | [GaRDeN](https://open.spotify.com/artist/6blpRxldFfjqsSOm3s5DZi) | [countdown \(prod\. Shin Sakiura & ZIN\)](https://open.spotify.com/album/39cmHGqTMKDUo0tyUSKu7T) | 4:18 | 2022-10-06 | 2022-10-12 |
+| [Countdown Rag](https://open.spotify.com/track/4I3f7odzNXdhDrxX4W4aT3) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Inner Dialog](https://open.spotify.com/album/48AHaxshOHD3ktB9Ea5RDN) | 5:25 | 2023-04-18 |  |
 | [Cry Now feat\. Chiaki Sato](https://open.spotify.com/track/4c1wyYgYhN8ckz4eOccw7r) | [Ryohu](https://open.spotify.com/artist/0qQOHfWvRf8O1wXYXMmV6U), [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [Cry Now feat\. Chiaki Sato](https://open.spotify.com/album/0eaGXqRgtmSVu2Dxvj6Ob4) | 4:12 | 2022-06-07 | 2022-07-10 |
 | [cycle](https://open.spotify.com/track/0gpSNOdoWHlRCaGp4iIjC5) | [Som](https://open.spotify.com/artist/25e7VNBZs2slmntthPkwZH) | [cycle](https://open.spotify.com/album/0XfYpMjkFoyexPrP41X0l9) | 3:16 | 2022-10-04 | 2022-10-12 |
 | [dance](https://open.spotify.com/track/4vURlCR65nymieanZFI26k) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [dance](https://open.spotify.com/album/1uhRpzbQSPY7uqyBkYXpt5) | 3:19 | 2022-08-28 | 2022-11-17 |
@@ -275,6 +276,7 @@
 | [SPARKLE](https://open.spotify.com/track/14Z9RrWIwkULvaOpppqAxb) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hiro\-a\-key](https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe) | [CITY POP LOVERS](https://open.spotify.com/album/3Npp8Wobd8XRztK3xVVu48) | 5:39 | 2022-11-30 |  |
 | [Spell of Love](https://open.spotify.com/track/6g7G47NvL7fM1DugJgFDrX) | [Yuko Imai](https://open.spotify.com/artist/4YMuXk2Q6sKh3ZBorVDwA6) | [Spell of Love](https://open.spotify.com/album/4nsef5iJhBX00Il9xQabWm) | 5:09 | 2022-09-27 | 2022-10-05 |
 | [Splendid Silent Sun](https://open.spotify.com/track/5G3bOHGiDmNijrpafLBDMh) | [Naive Super](https://open.spotify.com/artist/7K0bB9EYroWULvFkVVMWFS) | [Splendid Silent Sun](https://open.spotify.com/album/3KOMMTYKtp0qvof3Op7tcm) | 3:59 | 2023-04-04 |  |
+| [Spring Desert](https://open.spotify.com/track/62Mi6nfXmBQ44g5rNbdO8q) | [KOMONO LAKE](https://open.spotify.com/artist/3wWaB9vMXkeUHD6RgH3lpG) | [Spring Desert](https://open.spotify.com/album/6HsmGdDNA4YtA7gMi9Vv9M) | 2:40 | 2023-04-18 |  |
 | [spring sleep](https://open.spotify.com/track/1gYCEJQFBEGTT9IIe7JYAb) | [toketadenkyu](https://open.spotify.com/artist/2GgcdKh8581r5VoVT7guML) | [piece of film](https://open.spotify.com/album/5zUm3q3vy3nikDcMgHJ4gx) | 3:35 | 2022-10-04 | 2022-10-26 |
 | [SQUALL](https://open.spotify.com/track/6GDLmddnNU6v6AoyqnlvXD) | [LUA](https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut) | [SQUALL](https://open.spotify.com/album/665nMWjjVtin2BIuiy61SW) | 4:06 | 2022-08-02 | 2022-08-17 |
 | [Stardust](https://open.spotify.com/track/0BvOFRB4G7QCwChRG8skCq) | [Orland](https://open.spotify.com/artist/36aO6QRP6K44OdvTkDDs27) | [Stardust](https://open.spotify.com/album/0lNpnhKSPpNL5PLtV24J28) | 4:26 | 2022-11-22 | 2022-11-30 |
@@ -380,7 +382,7 @@
 | [エメラルドグリーンの揺らめき](https://open.spotify.com/track/2OkLRX5QF4RGNnCbeFlFwX) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh) | [Yin Yang](https://open.spotify.com/album/5vFiiyKT8keR7XHQB7Ii8i) | 3:42 | 2022-05-28 | 2023-03-01 |
 | [エモめの夏](https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [DAILY BOP](https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU) | 2:25 | 2022-07-27 |  |
 | [オトナの時間](https://open.spotify.com/track/7ySx8EW2buRTE4WWkZbbH2) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [オトナの時間](https://open.spotify.com/album/0geyTyvqhnQeIyBbKeuDo9) | 3:27 | 2023-02-28 | 2023-03-02 |
-| [カウントダウン・ラグ](https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [インナーダイアログ](https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh) | 5:25 | 2023-04-18 |  |
+| [カウントダウン・ラグ](https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [インナーダイアログ](https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh) | 5:25 | 2023-04-18 | 2023-04-20 |
 | [ガールフレンド・オブ・ザ・デッド!](https://open.spotify.com/track/1oYLlpOQv3LrykfZDyizun) | [sooogood!](https://open.spotify.com/artist/72C5vNpdDKj70D3NU1P5fB), [lily wii!](https://open.spotify.com/artist/4S393iGKVn1I0Kro8MD4BP) | [ガールフレンド・オブ・ザ・デッド!](https://open.spotify.com/album/1oDCKrs5Xg8rX1uij43sBK) | 3:35 | 2022-06-28 | 2022-07-06 |
 | [クレイジーボーイ](https://open.spotify.com/track/2ka963rH1ezyei5ZvkgL2g) | [Sayonara Ponytail](https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X) | [クレイジーボーイ](https://open.spotify.com/album/6vhIYKgWgZfpPUFk7e3i5l) | 3:13 | 2022-05-24 | 2022-06-08 |
 | [クロエ](https://open.spotify.com/track/55Tvnmqj49iNka1u3p46nK) | [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb), [THE COYOTE BAND](https://open.spotify.com/artist/432HTPxin2aQmEIHXQMUnh) | [今、何処](https://open.spotify.com/album/5ZTjkUoIxLVyyILhfXAyQM) | 3:15 | 2022-07-05 | 2022-07-13 |
@@ -466,7 +468,7 @@
 | [新天翔](https://open.spotify.com/track/7IfDZEJJFoNBZK8cEzq0eW) | [Chapman](https://open.spotify.com/artist/1aqjLhOgvZBtaI6Sh1PNEi) | [ESCAPE](https://open.spotify.com/album/3rTIONGx0luotULInSH6bE) | 3:57 | 2022-12-13 | 2023-01-11 |
 | [日本ロマンチック街道](https://open.spotify.com/track/1LIQegVNgGEUbOx08pBu1o) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ) | [日本ロマンチック街道](https://open.spotify.com/album/0kZ3rzCgH0skz6SR3CvG5P) | 3:45 | 2022-11-30 | 2022-12-07 |
 | [春](https://open.spotify.com/track/0DIWUR6OVSleuWmPO5Dj2U) | [マダラメスルメ](https://open.spotify.com/artist/0Hv3B7rOi2DQN1lWaEH1JP) | [春](https://open.spotify.com/album/73YxeGPir2kRtW2welidV5) | 4:27 | 2022-06-16 | 2022-06-18 |
-| [春砂漠](https://open.spotify.com/track/1PCwSUdENks9PcoZR9UZS3) | [KOMONO LAKE](https://open.spotify.com/artist/3wWaB9vMXkeUHD6RgH3lpG) | [春砂漠](https://open.spotify.com/album/3qPaEsgm5tPihrm4ko05yi) | 2:40 | 2023-04-18 |  |
+| [春砂漠](https://open.spotify.com/track/1PCwSUdENks9PcoZR9UZS3) | [KOMONO LAKE](https://open.spotify.com/artist/3wWaB9vMXkeUHD6RgH3lpG) | [春砂漠](https://open.spotify.com/album/3qPaEsgm5tPihrm4ko05yi) | 2:40 | 2023-04-18 | 2023-04-20 |
 | [月の椀](https://open.spotify.com/track/5GVb3tUNjK3xirJfVi8p6v) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [アダプト](https://open.spotify.com/album/05jKqltxctVFbdEw4xvFbG) | 4:10 | 2022-05-28 | 2022-06-29 |
 | [東京cruisin'](https://open.spotify.com/track/1LJEIE8IjHnQuV5mc0w399) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [東京cruisin'](https://open.spotify.com/album/07uk8juzTAwRlLaqYMscne) | 3:08 | 2022-05-24 |  |
 | [東京は夜の七時 \(feat\. Night Tempo\)](https://open.spotify.com/track/6mi2Zdi1QmZZaO5wgc8LMB) | [Maki Nomiya](https://open.spotify.com/artist/0PoKzYeBX3Lgg35BipPlAj), [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF) | [東京は夜の七時 \(feat\. Night Tempo\)](https://open.spotify.com/album/2auz7IkxAJbGaN8brJnJU6) | 4:47 | 2022-06-02 | 2022-06-04 |

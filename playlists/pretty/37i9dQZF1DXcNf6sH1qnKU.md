@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,351 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,900 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 27 | [Days](https://open.spotify.com/track/716OZGLBg3vkNfMTpfbYm6) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Days](https://open.spotify.com/album/1iKJd6McKWLpeWNotqfZDz) | 5:20 |
 | 28 | [Some Time Alone, Alone](https://open.spotify.com/track/6G7rDUqMhnmXFVwRRQ7azu) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Melody's Echo Chamber](https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb) | 3:46 |
 | 29 | [Majorette](https://open.spotify.com/track/1xHrTucRP7hVViMekBfu7S) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Thank Your Lucky Stars](https://open.spotify.com/album/4WbFCzKALujxRNeoeLS5zO) | 4:00 |
-| 30 | [Love Fade](https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [The Waves](https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG) | 3:40 |
+| 30 | [In Your Room](https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Melted](https://open.spotify.com/album/3CMsAHPmMOWfmDKL7ZGwfE) | 9:26 |
 | 31 | [Echo's Answer](https://open.spotify.com/track/0mpKGswMW2MypC6kryHQmL) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [The Noise Made By People](https://open.spotify.com/album/10nM1bEq6nBmY5CvK9gDVI) | 3:11 |
-| 32 | [In Your Room](https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Winks & Kisses: Melted](https://open.spotify.com/album/3CMsAHPmMOWfmDKL7ZGwfE) | 9:26 |
+| 32 | [Love Fade](https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN) | [Tamaryn](https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2) | [The Waves](https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG) | 3:40 |
 | 33 | [Lose My Breath](https://open.spotify.com/track/1Ma06PrhbT07YFTlM48rAK) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn't Anything](https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo) | 3:37 |
 | 34 | [Desire Lines](https://open.spotify.com/track/7Bv26qd7JX525wGCmhrPtj) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Split](https://open.spotify.com/album/6cgDNdc8SN9PJ12tqse69N) | 7:39 |
 | 35 | [Misery Is a Butterfly](https://open.spotify.com/track/0tm9m5pv01Toj3nt3LESdZ) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Misery Is a Butterfly](https://open.spotify.com/album/2IOkphZwsrRk1nWRkikEgK) | 5:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 49 | [Dive](https://open.spotify.com/track/0RBfGcrONMLwLysUhbtxJM) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:25 |
 | 50 | [Nothing Natural](https://open.spotify.com/track/252uwichmLXhrtDY5GTLNi) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Spooky](https://open.spotify.com/album/5NSgxemDL3eSm79jFkqxuw) | 5:54 |
 
-Snapshot ID: `MTY2MDAwNDkyMiwwMDAwMDAwMGE4NmNlOTgzYWE0MDNlZjJkNzliOGMwNjE4Y2ZmNDY5`
+Snapshot ID: `MTY2MDAwNDkyMiwwMDAwMDAwMDFjZGIyOWI2ZjI1ZTFmYWY3YTlkM2JhMzkzOTA4MDZi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 
 > The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,621 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,709 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 65 | [Revive Us](https://open.spotify.com/track/3C6jSw9wdYUEdgtSMjLsZn) | [Anointed](https://open.spotify.com/artist/6GrYT1CB2T0IxumY1MQpZJ) | [Anointed](https://open.spotify.com/album/2E9vqclDxqceNEMbYn6IxB) | 4:08 |
 | 66 | [Gravity](https://open.spotify.com/track/6z5hemlFOgSeqGgArca8sS) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Mezzamorphis](https://open.spotify.com/album/5GpaRJfeglVrlsClIlhPtn) | 3:20 |
 | 67 | [Into You](https://open.spotify.com/track/7HMBPVrRkwGuABMvMVTiys) | [Jennifer Knapp](https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi) | [Lay It Down](https://open.spotify.com/album/5cxJJ5gekgM7WSbTtvO9H4) | 3:04 |
-| 68 | [Revolve](https://open.spotify.com/track/3wsYeIOXrGuSnG3kRGbrwm) | [Poor Old Lu](https://open.spotify.com/artist/4kKX2Dc7HBE6fozhXYzPw8) | [The Waiting Room](https://open.spotify.com/album/2CZhEQJRXhfOxWMYnYKpE5) | 3:47 |
-| 69 | [Butterfly \- Seven Day Jesus Album Version](https://open.spotify.com/track/1sVqSNUvZptRiFlTWuVdHD) | [Seven Day Jesus](https://open.spotify.com/artist/0htazPOROVwMTPPLeergGa) | [Seven Day Jesus](https://open.spotify.com/album/5MZIKL0jN7ZavShCCxW2vP) | 3:30 |
+| 68 | [Butterfly \- Seven Day Jesus Album Version](https://open.spotify.com/track/1sVqSNUvZptRiFlTWuVdHD) | [Seven Day Jesus](https://open.spotify.com/artist/0htazPOROVwMTPPLeergGa) | [Seven Day Jesus](https://open.spotify.com/album/5MZIKL0jN7ZavShCCxW2vP) | 3:30 |
+| 69 | [Revolve](https://open.spotify.com/track/3wsYeIOXrGuSnG3kRGbrwm) | [Poor Old Lu](https://open.spotify.com/artist/4kKX2Dc7HBE6fozhXYzPw8) | [The Waiting Room](https://open.spotify.com/album/2CZhEQJRXhfOxWMYnYKpE5) | 3:47 |
 | 70 | [Here With Me](https://open.spotify.com/track/2utyoc5plxv0zVFLpoZh7l) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [The Best Of Plumb](https://open.spotify.com/album/1WJ781r3XS7MiddzxuzbG8) | 4:06 |
 | 71 | [Lift My Eyes Up](https://open.spotify.com/track/08CSlrBEs0qAaNm4dxLPf6) | [Miss Angie](https://open.spotify.com/artist/5rnoA4GlPQE4s15Si3oi6m) | [100 Million Eyeballs](https://open.spotify.com/album/2RRtryPMMJCXllcbpms0k5) | 3:00 |
 | 72 | [Waiting Room](https://open.spotify.com/track/61NbXozQGixs8eC5ACTqc2) | [LaRue](https://open.spotify.com/artist/5MGUVsXrxgF9p3i3uko4MF) | [Larue](https://open.spotify.com/album/2lXKV7Rs6akfjT4bfugIly) | 3:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 74 | [Rain](https://open.spotify.com/track/1SvlSnI123v00sH5Ro9NZ7) | [dryve](https://open.spotify.com/artist/0hr4err987upnrCLPvCPA4) | [Thrifty Mr\. Kickstar](https://open.spotify.com/album/11bRlMEbcjxbrHnkNZcOuJ) | 6:46 |
 | 75 | [The Devil Is Bad](https://open.spotify.com/track/7HU4ubA9Ml4ztErtnHdOMW) | [The W's](https://open.spotify.com/artist/6hbwBTYR4mLag3kkI6wXSV) | [Fourth From The Last](https://open.spotify.com/album/5ZyJ4WdmnQEGI6vWOKs7Ab) | 3:33 |
 
-Snapshot ID: `MTY3NTIyNzIwMCwwMDAwMDAwMGVlNjQ4NjVkZGZkMjM5MTc3YzI2MzY2YmY3NzlhYjUy`
+Snapshot ID: `MTY3NTIyNzIwMCwwMDAwMDAwMDJmOWNhZTY3ZTc0MWZmZjM3OGM4ZTUwYTVmN2NmYmU0`

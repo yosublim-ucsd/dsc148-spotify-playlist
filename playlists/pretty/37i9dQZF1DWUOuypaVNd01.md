@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Btrem, Derxan, Major RD, LEALL, $amuka
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,764 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,811 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

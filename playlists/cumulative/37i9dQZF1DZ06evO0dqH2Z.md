@@ -4,7 +4,7 @@
 
 > This is Tigers Jaw\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 7 min
+61 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,12 +30,13 @@
 | [Frame You](https://open.spotify.com/track/0pIOxvTWGHz6noPi8AJE9w) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Charmer](https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI) | 2:11 | 2022-09-19 |  |
 | [Guardian](https://open.spotify.com/track/02GBtzxf70cvt8wxxhKnyG) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [spin](https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY) | 4:12 | 2022-10-12 |  |
 | [Gypsy](https://open.spotify.com/track/7oNAnWMtdoByjSUdNDRo5J) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Run For Cover Subscription Singles Series \#3](https://open.spotify.com/album/1MZF46ju6QM79B8YwGfP0Q) | 4:25 | 2022-09-16 |  |
+| [Heat](https://open.spotify.com/track/7257V9Op6BXdKbuQDCR6yW) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Tigers Jaw](https://open.spotify.com/album/431AISQsFUi33lirU9vNI5) | 1:27 | 2023-04-19 |  |
 | [Heaven Apart](https://open.spotify.com/track/0OGuJTsdY9B0C2fwPHvxbE) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [I Won't Care How You Remember Me](https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7) | 3:42 | 2022-09-16 | 2022-10-13 |
 | [Hesitation](https://open.spotify.com/track/4TZj7XGPf7dG3NmKaNwPY4) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [I Won't Care How You Remember Me](https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7) | 2:43 | 2022-09-16 |  |
 | [Hum](https://open.spotify.com/track/1efmAix0BIp3o9tmd4437z) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Charmer](https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI) | 3:27 | 2022-09-16 |  |
 | [I Saw The Wolf](https://open.spotify.com/track/507E5wYg75ncbcrYJXkH2t) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Two Worlds](https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP) | 3:50 | 2022-09-16 | 2022-11-10 |
 | [I Saw Water](https://open.spotify.com/track/6gJql3ABMd6iHVnr2ptWJg) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Tigers Jaw](https://open.spotify.com/album/431AISQsFUi33lirU9vNI5) | 4:16 | 2022-09-16 |  |
-| [I Was Never Your Boyfriend](https://open.spotify.com/track/2g5WRDweHvGA5DPrO99bek) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Tigers Jaw](https://open.spotify.com/album/431AISQsFUi33lirU9vNI5) | 2:48 | 2022-09-16 |  |
+| [I Was Never Your Boyfriend](https://open.spotify.com/track/2g5WRDweHvGA5DPrO99bek) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Tigers Jaw](https://open.spotify.com/album/431AISQsFUi33lirU9vNI5) | 2:48 | 2022-09-16 | 2023-04-20 |
 | [I Won't Care How You Remember Me](https://open.spotify.com/track/2EHKNBWZ83jRPW0iwnywME) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8), [Andy Hull](https://open.spotify.com/artist/1Rule8VpCyWvoSwUQQqGDV) | [I Won't Care How You Remember Me](https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7) | 3:36 | 2022-09-16 |  |
 | [Its About Killing People](https://open.spotify.com/track/7rtvbytMpnY8mMosSEpjLL) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Belongs To The Dead](https://open.spotify.com/album/2YGAcsQ6kEMiT3mpnjiPJr) | 1:43 | 2022-09-16 | 2022-10-13 |
 | [Jet Alone](https://open.spotify.com/track/5oUl5qMNWrZlbA2LvqVUYF) | [Tigers Jaw](https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8) | [Balance and Composure & Tigers Jaw Split](https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3) | 2:38 | 2022-09-16 | 2022-10-31 |

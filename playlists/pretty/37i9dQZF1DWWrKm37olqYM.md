@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrKm37olqYM.md) - [plain]
 
 > The raw, bass\-trembling energy of Baltimore Club\. A selection of classic and new tracks\. Cover: Don3ydon
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,222 likes - 68 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,230 likes - 68 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

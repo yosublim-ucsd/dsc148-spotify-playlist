@@ -1125,6 +1125,24 @@
     },
     {
       "album": {
+        "name": "Inner Dialog",
+        "url": "https://open.spotify.com/album/48AHaxshOHD3ktB9Ea5RDN"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325898,
+      "name": "Countdown Rag",
+      "url": "https://open.spotify.com/track/4I3f7odzNXdhDrxX4W4aT3"
+    },
+    {
+      "album": {
         "name": "Cry Now feat. Chiaki Sato",
         "url": "https://open.spotify.com/album/0eaGXqRgtmSVu2Dxvj6Ob4"
       },
@@ -5127,6 +5145,24 @@
     },
     {
       "album": {
+        "name": "Spring Desert",
+        "url": "https://open.spotify.com/album/6HsmGdDNA4YtA7gMi9Vv9M"
+      },
+      "artists": [
+        {
+          "name": "KOMONO LAKE",
+          "url": "https://open.spotify.com/artist/3wWaB9vMXkeUHD6RgH3lpG"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Spring Desert",
+      "url": "https://open.spotify.com/track/62Mi6nfXmBQ44g5rNbdO8q"
+    },
+    {
+      "album": {
         "name": "piece of film",
         "url": "https://open.spotify.com/album/5zUm3q3vy3nikDcMgHJ4gx"
       },
@@ -7176,7 +7212,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 325898,
       "name": "\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30fb\u30e9\u30b0",
       "url": "https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU"
@@ -8836,7 +8872,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 160000,
       "name": "\u6625\u7802\u6f20",
       "url": "https://open.spotify.com/track/1PCwSUdENks9PcoZR9UZS3"

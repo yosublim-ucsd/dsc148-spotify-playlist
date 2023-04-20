@@ -625,6 +625,28 @@
     },
     {
       "album": {
+        "name": "RR",
+        "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194543,
+      "name": "BESO",
+      "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
+    },
+    {
+      "album": {
         "name": "La \u00daltima Misi\u00f3n",
         "url": "https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL"
       },
@@ -688,7 +710,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 191052,
       "name": "Big Booty",
       "url": "https://open.spotify.com/track/5nBHB9JZjBS087RSDgIEon"
@@ -1616,7 +1638,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 165854,
       "name": "En La Intimidad | CROSSOVER #1",
       "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
@@ -2746,7 +2768,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 155031,
       "name": "lo que hay x aqu\u00ed",
       "url": "https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC"
@@ -3784,6 +3806,24 @@
       "duration_ms": 180960,
       "name": "Pineapple",
       "url": "https://open.spotify.com/track/24SkzbH7hGhUvqIaKlJ1TY"
+    },
+    {
+      "album": {
+        "name": "ser humano",
+        "url": "https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "plan",
+      "url": "https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx"
     },
     {
       "album": {
@@ -5054,6 +5094,28 @@
       "duration_ms": 177397,
       "name": "Un Minuto",
       "url": "https://open.spotify.com/track/2do7yGKJDjZhN4Zo8WgpQc"
+    },
+    {
+      "album": {
+        "name": "un x100to",
+        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194563,
+      "name": "un x100to",
+      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
     },
     {
       "album": {

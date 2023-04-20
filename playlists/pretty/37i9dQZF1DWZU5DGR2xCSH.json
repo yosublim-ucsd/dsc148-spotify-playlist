@@ -1,12 +1,12 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1118878,
+  "num_followers": 1119061,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3MzIwMCwwMDAwMDAwMGQ2ZmU1NDlmOThmMjI3OGZhZmYzZmM0ZWEzMjk0NzYx",
+  "snapshot_id": "MTY2MDI3MzIwMCwwMDAwMDAwMDE4NjQ0OWRjZDMwNjUzZDVlMzM0YmU2MDJlNDZiMGY4",
   "tracks": [
     {
       "added_at": "2022-08-12 03:00:00",
@@ -443,18 +443,18 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Esperando el Milagro",
-        "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
+        "name": "Honestidad Brutal",
+        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
       },
       "artists": [
         {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 181826,
-      "name": "Ser\u00e1",
-      "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
+      "duration_ms": 235560,
+      "name": "Te quiero igual",
+      "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Honestidad Brutal",
-        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
+        "name": "Esperando el Milagro",
+        "url": "https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
         }
       ],
-      "duration_ms": 235560,
-      "name": "Te quiero igual",
-      "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
+      "duration_ms": 181826,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Despierta",
-        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
+        "name": "Honestidad Brutal",
+        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
       },
       "artists": [
         {
-          "name": "Las Pelotas",
-          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 250357,
-      "name": "Personalmente",
-      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
+      "duration_ms": 261626,
+      "name": "La parte de adelante",
+      "url": "https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -651,8 +651,24 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Honestidad Brutal",
-        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "duration_ms": 250357,
+      "name": "Personalmente",
+      "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
+    },
+    {
+      "added_at": "2022-08-12 03:00:00",
+      "album": {
+        "name": "Alta Suciedad",
+        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
       "artists": [
         {
@@ -660,9 +676,9 @@
           "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 261626,
-      "name": "La parte de adelante",
-      "url": "https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp"
+      "duration_ms": 217373,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0jePqZlutXGa8xz6NNyKAy"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -699,22 +715,6 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Artaud",
-        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
-      },
-      "artists": [
-        {
-          "name": "Pescado Rabioso",
-          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
-        }
-      ],
-      "duration_ms": 204466,
-      "name": "Bajan",
-      "url": "https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C"
-    },
-    {
-      "added_at": "2022-08-12 03:00:00",
-      "album": {
         "name": "Civilizaci\u00f3n",
         "url": "https://open.spotify.com/album/2UWwSvdLSntNblYm32f6aN"
       },
@@ -731,18 +731,18 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Alta Suciedad",
-        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
+        "name": "Artaud",
+        "url": "https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Pescado Rabioso",
+          "url": "https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9"
         }
       ],
-      "duration_ms": 217373,
-      "name": "Loco",
-      "url": "https://open.spotify.com/track/0jePqZlutXGa8xz6NNyKAy"
+      "duration_ms": 204466,
+      "name": "Bajan",
+      "url": "https://open.spotify.com/track/6hmYi0E6EBEmDeztQHaH0C"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -763,22 +763,6 @@
       "duration_ms": 186466,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd"
-    },
-    {
-      "added_at": "2022-08-12 03:00:00",
-      "album": {
-        "name": "La Mosca y la Sopa",
-        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "El Pibe de los Astilleros",
-      "url": "https://open.spotify.com/track/02ZtIbjdZKpvdeUNmY0LWp"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -815,18 +799,34 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "After Chabon",
-        "url": "https://open.spotify.com/album/721cIV4PIWZSK5nZaYPvFy"
+        "name": "GIT, El Album",
+        "url": "https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN"
       },
       "artists": [
         {
-          "name": "Sumo",
-          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
+          "name": "GIT",
+          "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
         }
       ],
-      "duration_ms": 160040,
-      "name": "No Tan Distintos",
-      "url": "https://open.spotify.com/track/05j96TmQibUyoaUAlxMW81"
+      "duration_ms": 313840,
+      "name": "Es Por Amor",
+      "url": "https://open.spotify.com/track/7cwtDwkH0PHHQmfbkZM8Ox"
+    },
+    {
+      "added_at": "2022-08-12 03:00:00",
+      "album": {
+        "name": "La Mosca y la Sopa",
+        "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "El Pibe de los Astilleros",
+      "url": "https://open.spotify.com/track/02ZtIbjdZKpvdeUNmY0LWp"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "GIT, El Album",
-        "url": "https://open.spotify.com/album/7Hg6EdwBShAdwAfUy4fFDN"
+        "name": "After Chabon",
+        "url": "https://open.spotify.com/album/721cIV4PIWZSK5nZaYPvFy"
       },
       "artists": [
         {
-          "name": "GIT",
-          "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
+          "name": "Sumo",
+          "url": "https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W"
         }
       ],
-      "duration_ms": 313840,
-      "name": "Es Por Amor",
-      "url": "https://open.spotify.com/track/7cwtDwkH0PHHQmfbkZM8Ox"
+      "duration_ms": 160040,
+      "name": "No Tan Distintos",
+      "url": "https://open.spotify.com/track/05j96TmQibUyoaUAlxMW81"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Libertinaje",
-        "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
+        "name": "Vol I",
+        "url": "https://open.spotify.com/album/3MMn99oMe2maysD6Vq441s"
       },
       "artists": [
         {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+          "name": "GIT",
+          "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
         }
       ],
-      "duration_ms": 259813,
-      "name": "Sr. Cobranza",
-      "url": "https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ"
+      "duration_ms": 266786,
+      "name": "La Calle Es Su Lugar",
+      "url": "https://open.spotify.com/track/0u5w3ehyNtTgSPvKVMU2xv"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Vol I",
-        "url": "https://open.spotify.com/album/3MMn99oMe2maysD6Vq441s"
+        "name": "Libertinaje",
+        "url": "https://open.spotify.com/album/4jvy4EtQG6BrW2FZewSZri"
       },
       "artists": [
         {
-          "name": "GIT",
-          "url": "https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM"
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
         }
       ],
-      "duration_ms": 266786,
-      "name": "La Calle Es Su Lugar",
-      "url": "https://open.spotify.com/track/0u5w3ehyNtTgSPvKVMU2xv"
+      "duration_ms": 259813,
+      "name": "Sr. Cobranza",
+      "url": "https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Inconsciente Colectivo",
-        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
-      },
-      "artists": [
-        {
-          "name": "Fabiana Cantilo",
-          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Amanece En La Ruta",
-      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
-    },
-    {
-      "added_at": "2022-08-12 03:00:00",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 245266,
       "name": "Te V\u00ed en un Tren",
       "url": "https://open.spotify.com/track/2vR0SW93BdIciNlqeJVSch"
+    },
+    {
+      "added_at": "2022-08-12 03:00:00",
+      "album": {
+        "name": "Inconsciente Colectivo",
+        "url": "https://open.spotify.com/album/3AzpHdFjpWrGE4cCwyXAoE"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Cantilo",
+          "url": "https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Amanece En La Ruta",
+      "url": "https://open.spotify.com/track/5pKVGrmItsCubKWTrYpxSZ"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -1055,26 +1055,18 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Tren de Fugitivos",
-        "url": "https://open.spotify.com/album/0BnkbEjDMgBCVaWJYnj68f"
+        "name": "Furtivos",
+        "url": "https://open.spotify.com/album/7ICXWFt2A3KeYgKLbvOmsl"
       },
       "artists": [
         {
-          "name": "El Soldado",
-          "url": "https://open.spotify.com/artist/0CFMR3ZXAZ591sp0z2Hwjp"
-        },
-        {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
-        },
-        {
-          "name": "Sergio Dawi",
-          "url": "https://open.spotify.com/artist/17RXWSHeHAjnFQP9GRwHAs"
+          "name": "Ratones Paranoicos",
+          "url": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
         }
       ],
-      "duration_ms": 316626,
-      "name": "Angel de los Perdedores",
-      "url": "https://open.spotify.com/track/2WE7vQVhCBf8E9COHIK7uP"
+      "duration_ms": 182013,
+      "name": "Rock del Gato",
+      "url": "https://open.spotify.com/track/3QyB8F5ZhYoai6qjC3evt4"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -1095,18 +1087,26 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Furtivos",
-        "url": "https://open.spotify.com/album/7ICXWFt2A3KeYgKLbvOmsl"
+        "name": "Tren de Fugitivos",
+        "url": "https://open.spotify.com/album/0BnkbEjDMgBCVaWJYnj68f"
       },
       "artists": [
         {
-          "name": "Ratones Paranoicos",
-          "url": "https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c"
+          "name": "El Soldado",
+          "url": "https://open.spotify.com/artist/0CFMR3ZXAZ591sp0z2Hwjp"
+        },
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Sergio Dawi",
+          "url": "https://open.spotify.com/artist/17RXWSHeHAjnFQP9GRwHAs"
         }
       ],
-      "duration_ms": 182013,
-      "name": "Rock del Gato",
-      "url": "https://open.spotify.com/track/3QyB8F5ZhYoai6qjC3evt4"
+      "duration_ms": 316626,
+      "name": "Angel de los Perdedores",
+      "url": "https://open.spotify.com/track/2WE7vQVhCBf8E9COHIK7uP"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
+        "name": "Devorador De Corazones",
+        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
+      },
+      "artists": [
+        {
+          "name": "La Portuaria",
+          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
+        }
+      ],
+      "duration_ms": 248706,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X"
+    },
+    {
+      "added_at": "2022-08-12 03:00:00",
+      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 238506,
       "name": "Sigue Girando",
       "url": "https://open.spotify.com/track/4wjbUTC312rQO7rziAONDa"
-    },
-    {
-      "added_at": "2022-08-12 03:00:00",
-      "album": {
-        "name": "Devorador De Corazones",
-        "url": "https://open.spotify.com/album/7nJFHb7cLQNlv710wRjbvH"
-      },
-      "artists": [
-        {
-          "name": "La Portuaria",
-          "url": "https://open.spotify.com/artist/0Q7HmY08qjZ6SrCb9DYji7"
-        }
-      ],
-      "duration_ms": 248706,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/2En6fFzzlzPLcV8sXwrx7X"
     },
     {
       "added_at": "2022-08-12 03:00:00",

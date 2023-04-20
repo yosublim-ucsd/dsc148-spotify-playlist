@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Stacey Ryan
 
-304 songs - 17 hr 49 min
+305 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Downsize](https://open.spotify.com/track/3SvYs68Wn1Z4U845Cdi0jg) | [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Final Thoughts](https://open.spotify.com/album/0PHkrjK9UIgFRM186LuR1q) | 3:01 | 2021-12-03 | 2022-07-28 |
 | [Drifting Apart](https://open.spotify.com/track/5Pr6R1aGN7tk18HslPUrSW) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Chapter 2](https://open.spotify.com/album/3N5XKeovbZHLKdeORgHEJ1) | 3:29 | 2021-12-03 | 2022-12-24 |
 | [Drippin' In Love](https://open.spotify.com/track/2qCl9fSe6lVJFVA18nCZ5Z) | [Frankie Zulferino](https://open.spotify.com/artist/1e2qCgABcOAaTeqLHHFkvC) | [Drippin' In Love](https://open.spotify.com/album/7a2boCHqvpmp7S2jNOgp7K) | 4:05 | 2022-08-26 | 2023-02-18 |
-| [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 | 2023-01-20 |  |
+| [Drunk On A Flight](https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 3:02 | 2023-01-27 |  |
+| [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 | 2023-01-20 | 2023-04-20 |
 | [Dry Bones](https://open.spotify.com/track/6XbYqxCWmzo5stjfaKgXEi) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Troy Miller](https://open.spotify.com/artist/5JM4WCkJO9f1jZK3ZdxovQ) | [Dry Bones](https://open.spotify.com/album/4fbOSnKV77GDqa54vORMym) | 3:09 | 2021-12-03 | 2023-01-28 |
 | [Eat Your Young](https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 4:02 | 2023-03-17 |  |
 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-09-30 |  |

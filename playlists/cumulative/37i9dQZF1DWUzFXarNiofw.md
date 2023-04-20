@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: SZA & Doja Cat
 
-951 songs - 2 day 2 hr 55 min
+952 songs - 2 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,8 @@
 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 | 2022-09-02 | 2022-10-01 |
 | [Fool’s Gold](https://open.spotify.com/track/2u8QEY57mJrD1EWBGCyKKC) | [Rosemarie](https://open.spotify.com/artist/3Lz0JugHcf9nqKF1Khkhmu) | [Fool's Gold](https://open.spotify.com/album/6mJvoMLOdDeaw9OX5SiFs0) | 3:01 | 2023-02-03 | 2023-03-25 |
 | [For Days](https://open.spotify.com/track/1pA0LgbtDzHRWCwuAWqw3z) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Constellations](https://open.spotify.com/album/0TlyEfOkm86OhT6NQcnWIt) | 3:43 | 2021-12-17 | 2022-01-22 |
-| [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/track/0IT1pmbYjQjoU0IUMVZ6XU) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/album/5l1oWPwn5OqgbbBLyCrU05) | 2:52 | 2023-04-07 |  |
+| [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/track/0IT1pmbYjQjoU0IUMVZ6XU) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/album/5l1oWPwn5OqgbbBLyCrU05) | 2:52 | 2023-04-07 | 2023-04-20 |
+| [For Granted \(feat\. Arin Ray\)](https://open.spotify.com/track/39RJfDkli3BkEsW6LN4DrZ) | [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Enigmatic Society](https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe) | 2:52 | 2023-04-07 |  |
 | [For the Night](https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [For the Night](https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q) | 3:25 | 2022-10-28 | 2022-12-03 |
 | [Forbidden Fruit](https://open.spotify.com/track/7iaCPgRVRsp2gjBlLhG91s) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Forbidden Fruit](https://open.spotify.com/album/7lmHWiL2lAGtJ5z2KDfazD) | 3:27 | 2022-04-01 | 2022-04-23 |
 | [FOREVER](https://open.spotify.com/track/0HMKx5SWL0TZHBBCGegbYk) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [FOREVER](https://open.spotify.com/album/0UcnP1RTcOdSTccn4slny1) | 4:00 | 2022-11-18 | 2023-01-14 |

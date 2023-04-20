@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドと共に、爽やかな1日を迎えませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,821 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,837 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 30 | [If I Was A Painter](https://open.spotify.com/track/6HNRHvqwjiQc0deescr4x6) | [Lisa O'Neill](https://open.spotify.com/artist/3fZ2IQpHixtBtUtDo7MWpV) | [All Of This Is Chance](https://open.spotify.com/album/0efxzMu8bCNeWP2MGltdRE) | 4:07 |
 | 31 | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/track/1EHUQesfVKwbthtNcpBi9g) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [WITHOUT YOU \(with Miley Cyrus\)](https://open.spotify.com/album/6Aqt69riJ3JPLxIEI8EkzT) | 2:41 |
 | 32 | [Purple Rain \- Acoustic](https://open.spotify.com/track/1fjkAaYIIIn7dOxeln1NO1) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [Purple Rain \(Acoustic\)](https://open.spotify.com/album/0PQzIMtIL8scwxiOXXap00) | 2:34 |
-| 33 | [Free Fallin' \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 4:23 |
+| 33 | [Say Something](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 3:49 |
 | 34 | [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 |
-| 35 | [Say Something](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 3:49 |
+| 35 | [Free Fallin' \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 4:23 |
 | 36 | [emptyhouse](https://open.spotify.com/track/7wzxbP9Z9CEIYmEuMXjcHr) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [emptyhouse](https://open.spotify.com/album/1Am4nLFfQAR58w2c6GxGFh) | 3:21 |
 | 37 | [Lucky](https://open.spotify.com/track/0IktbUcnAGrvD03AWnz3Q8) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 3:09 |
 | 38 | [Unload the Gun](https://open.spotify.com/track/3P6c5Xx54qDFw8xniwrUMX) | [Mimi Gilbert](https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P) | [Unload the Gun](https://open.spotify.com/album/46M9ISurJraSAaxTobY1ev) | 4:28 |
 | 39 | [Karadano shinmade kimigasuki](https://open.spotify.com/track/06fGJXHIjgidZWDQrBRm1O) | [Sou Yamasaki](https://open.spotify.com/artist/0ZVL58XQLY5kUCSKRIVhOs) | [Karadano shinmade kimigasuki](https://open.spotify.com/album/6avvCvAB0scEEPe1J0SgOA) | 4:20 |
-| 40 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 |
+| 40 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
 | 41 | [Lemon Cake](https://open.spotify.com/track/3V2ox5LEU3dB1n5z39P6MS) | [Ålborg](https://open.spotify.com/artist/5RG6CMtljJC7BbVIfx0j7V) | [Lemon Cake](https://open.spotify.com/album/353xKZreMjkmqKAHg4f9aX) | 5:23 |
-| 42 | [Liability](https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 2:51 |
+| 42 | [River](https://open.spotify.com/track/3hhbDnFUb2bicI2df6VurK) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 4:00 |
 | 43 | [My Stupid Heart \- Acoustic Version](https://open.spotify.com/track/3WQz7iXHJZ9x5ASGfp45r7) | [Walk Off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX), [Luminati Suns](https://open.spotify.com/artist/3L3LFvtOjqaNkOvZDIFnW0) | [My Stupid Heart \(Acoustic Version\)](https://open.spotify.com/album/5WFL3TMZVnWb69W7w4zlKt) | 2:42 |
 | 44 | [Coastline](https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 3:53 |
 | 45 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 99 | [Wild Love \- Acoustic](https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Wild Love \(Acoustic\)](https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk) | 3:09 |
 | 100 | [We Can't Stop](https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4) | 3:42 |
 
-Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMGIwMjhkOTMwZmU0YjQzNWNjMWFlNzU2NjY2YWE3YTdi`
+Snapshot ID: `MTY4MTM5ODAwMCwwMDAwMDAwMGU4YzcwNWEyMGFlZThhNTI5NWY2NzU2OGQzMTBmZWY5`

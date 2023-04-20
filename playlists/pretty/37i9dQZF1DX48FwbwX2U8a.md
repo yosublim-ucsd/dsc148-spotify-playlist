@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48FwbwX2U8a.md) - [plain]
 
 > ¡A almorzar con sabrosura pop y tropical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,782 likes - 50 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,817 likes - 50 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,24 +39,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48FwbwX2U8a.md) - [plain]
 | 29 | [Volver](https://open.spotify.com/track/76k5BZctXgW2IyrYjKGNP6) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 4:54 |
 | 30 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 |
 | 31 | [La Dueña del Swing](https://open.spotify.com/track/4ZF74uJy2XGgVx8TUeYjZ8) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Los Dueños del Swing](https://open.spotify.com/album/6ZQf6jgUi4K33aCD04SAYw) | 4:20 |
-| 32 | [Una Hoja en Blanco](https://open.spotify.com/track/3G5OfJVzos5wI0L09oyTOW) | [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR), [Esmeralda](https://open.spotify.com/artist/58yU6MSNwlAbu5NRnLOzFu) | [Nace Del Alma](https://open.spotify.com/album/7CL4FmomsC1pPNHNs1mXjW) | 4:44 |
-| 33 | [25 Horas](https://open.spotify.com/track/5fq4jxlqyjAVFLOB0lZIdT) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [25 Horas](https://open.spotify.com/album/0zBYmCiHOfrng2FYSeWPUr) | 4:07 |
+| 32 | [25 Horas](https://open.spotify.com/track/5fq4jxlqyjAVFLOB0lZIdT) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [25 Horas](https://open.spotify.com/album/0zBYmCiHOfrng2FYSeWPUr) | 4:07 |
+| 33 | [Una Hoja en Blanco](https://open.spotify.com/track/3G5OfJVzos5wI0L09oyTOW) | [Omar Geles](https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR), [Esmeralda](https://open.spotify.com/artist/58yU6MSNwlAbu5NRnLOzFu) | [Nace Del Alma](https://open.spotify.com/album/7CL4FmomsC1pPNHNs1mXjW) | 4:44 |
 | 34 | [Guallando](https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [El Hombre Mas Famoso De La Tierra](https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98) | 3:25 |
 | 35 | [Abusadora](https://open.spotify.com/track/0Pr05tDGNCf4f8Fe8ubSJ4) | [Oro Solido](https://open.spotify.com/artist/7wLYNBd1fXGEKSLJMNnlt4) | [El Poder de New York](https://open.spotify.com/album/4pqxqBDUI1WnJXItH0SFji) | 4:39 |
 | 36 | [La Ventanita](https://open.spotify.com/track/5CmVYFZinikaqh9Mf2J1Xl) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 4:46 |
 | 37 | [Es Mentiroso](https://open.spotify.com/track/2AR6gN4QVBdJ8iw2KSG7fQ) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Siente El Amor](https://open.spotify.com/album/4IlAVoLQ0uqWQaY4DaAL6R) | 4:02 |
 | 38 | [Vivo en el limbo](https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz) | [Kaleth Morales](https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH), [Andres Herrera](https://open.spotify.com/artist/2b7FVYTLTkP4YTT0VokeJU) | [La Hora de la Verdad](https://open.spotify.com/album/3Go9Lvj1m9UOzidlfDOFVA) | 6:16 |
-| 39 | [Cuando el Amor se Daña](https://open.spotify.com/track/4uq7AHJBZbXE6jqIVqQD5A) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Con Arena Nueva](https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5) | 4:21 |
-| 40 | [Quién Como Tú](https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quien Como Tú](https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5) | 3:31 |
+| 39 | [Quién Como Tú](https://open.spotify.com/track/0ElaCi1Qf86iEWhsxCw5h5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Quien Como Tú](https://open.spotify.com/album/4r2m65IXlmzhi06V5V9Cs5) | 3:31 |
+| 40 | [Cuando el Amor se Daña](https://open.spotify.com/track/4uq7AHJBZbXE6jqIVqQD5A) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Con Arena Nueva](https://open.spotify.com/album/3s4SgRWrFjQYwpEki8HZI5) | 4:21 |
 | 41 | [Y No Hago Mas Na'](https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [La Universidad de La Salsa](https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf) | 5:01 |
 | 42 | [Nadie Se Muere](https://open.spotify.com/track/2BnphYbwrZvdrGnc1A9kUe) | [La Makina](https://open.spotify.com/artist/4SlusIRNswGYkTjhflokfX) | [Los Reyes Del Ritmo](https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o) | 3:52 |
 | 43 | [La Ciguapa](https://open.spotify.com/track/6Fu5E5nuKfVOecwBmWLi7O) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou), [Jandy Feliz](https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6) | [Pa' Otro La 'O](https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX) | 4:35 |
-| 44 | [La creciente](https://open.spotify.com/track/3r7LYQ2EhCw0CwaF5SeF9M) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh) | 3:02 |
-| 45 | [El Amor Más Grande del Planeta](https://open.spotify.com/track/1NUCgLFBPg0R4B6IPUcieM) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Zabaleta](https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU) | [Felipe Peláez 30 Grandes Éxitos](https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw) | 4:35 |
+| 44 | [El Amor Más Grande del Planeta](https://open.spotify.com/track/1NUCgLFBPg0R4B6IPUcieM) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Zabaleta](https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU) | [Felipe Peláez 30 Grandes Éxitos](https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw) | 4:35 |
+| 45 | [La creciente](https://open.spotify.com/track/3r7LYQ2EhCw0CwaF5SeF9M) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh) | 3:02 |
 | 46 | [Cuatro Rosas](https://open.spotify.com/track/39pCrC5AA7xhJb98tqWDgb) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 4:36 |
 | 47 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |
 | 48 | [Lo Mejor Para Los Dos \(Todo de Cabeza\) \- Version Guitarra \- En Vivo](https://open.spotify.com/track/4tVCHHdULzG5acuwFmsRPw) | [Kaleth Morales](https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH) | [Kaleth Morales En Guitarras](https://open.spotify.com/album/6WEgrW9kNfKtQQQWqefD7Y) | 4:11 |
 | 49 | [Pégame Tu Vicio](https://open.spotify.com/track/0DLaQPP83EMpgmbiEuzwM4) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Vida](https://open.spotify.com/album/29eoBGwO0kyHR7Vu5NiyO9) | 5:01 |
 | 50 | [Era Mentira](https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Sin Medir Distancia](https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq) | 4:39 |
 
-Snapshot ID: `MTY3NjMyOTEwMiwwMDAwMDAwMDgyZmFjMmU2ZDBjYjFiYTc2ZWU3MWJkZmU5YzQ4Yzdk`
+Snapshot ID: `MTY3NjMyOTEwMiwwMDAwMDAwMDdjMDI2N2E5OWZmZWQ5M2E3NTZiMTdhODY2NWMwNWM2`

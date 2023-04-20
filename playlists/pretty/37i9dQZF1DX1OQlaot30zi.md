@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Don Joe, Guè, Rondodasosa e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,066 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,078 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 7 | [Inshallah](https://open.spotify.com/track/7cbZFOT8eJ2cZly97gjWzq) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Inshallah](https://open.spotify.com/album/37CLRhs5jpWYqegh7pKkkQ) | 2:44 |
 | 8 | [EYES OF THE TIGER](https://open.spotify.com/track/1OWN1K4Yb1Sd8g4xDnQg7R) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [EYES OF THE TIGER](https://open.spotify.com/album/5R6eqKWeUb9Suxt6CP6yR1) | 2:46 |
 | 9 | [Trendsetter](https://open.spotify.com/track/2SektBPshBcB4rLKQUxDQY) | [Vaz Tè](https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY) | [Trendsetter](https://open.spotify.com/album/7BnUlh1mAu8h3t9tSvuFJz) | 2:02 |
-| 10 | [CHIAMA](https://open.spotify.com/track/0aY1osZnr4zro1o5gzetdA) | [Xhovana](https://open.spotify.com/artist/1qvJn4A1Y6gej2kJU0DWxX) | [CHIAMA](https://open.spotify.com/album/3u0DNXDUCxRzyuuKFGpFuP) | 2:53 |
+| 10 | [CHIAMA](https://open.spotify.com/track/0aY1osZnr4zro1o5gzetdA) | [Xhovana](https://open.spotify.com/artist/1qvJn4A1Y6gej2kJU0DWxX), [VXXO](https://open.spotify.com/artist/3YtQrwxvFkTMpH0F6e4r9H) | [CHIAMA](https://open.spotify.com/album/3u0DNXDUCxRzyuuKFGpFuP) | 2:53 |
 | 11 | [Orange](https://open.spotify.com/track/7jvwORp293fGCP6KfmE8aQ) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Orange](https://open.spotify.com/album/356cpEJ1ccLK6aAx99hWJK) | 3:20 |
 | 12 | [LAURYN HILL \(feat\. Nicola Siciliano, Guè & Joan Thiele\)](https://open.spotify.com/track/0HA5tqAz8YkAGtYuNMISCG) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [DON DADA](https://open.spotify.com/album/1aElHPJaZyQZkJ2OIwXWAu) | 3:04 |
 | 13 | [RIGOR MORTIS](https://open.spotify.com/track/3xvTpSh27JsIfN4Og2gxgG) | [Dylan](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg) | [RASOI / RIGOR MORTIS](https://open.spotify.com/album/7wcWK3KQdvoZmAbdZKGYhW) | 2:26 |

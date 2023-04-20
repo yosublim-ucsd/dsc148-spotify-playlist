@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 
 > BESKRES' favorite tracks\. Updated regularly\. Curated by BESKRES\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,011 likes - 89 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,043 likes - 89 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 | 7 | [Liquid Fantasy \- Club Remix](https://open.spotify.com/track/3Lr9Km1gicHy1EjjfY5WUG) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Vicky Who?](https://open.spotify.com/artist/0fj8NKbvzFH5LxS1h7Yr5I) | [Liquid Fantasy](https://open.spotify.com/album/1qkpQWUWtHprhuiVsGDz9p) | 7:42 |
 | 8 | [Aftermath](https://open.spotify.com/track/4h5lIgv0ieD33nIC48OJU1) | [Matthias Tanzmann](https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Aftermath](https://open.spotify.com/album/4vBDB1R3CDSHNprEFtICCU) | 5:40 |
 | 9 | [Mind Escape \- Extended Mix](https://open.spotify.com/track/6YFgRRX47jN0c3VvhOfhS5) | [Hollt](https://open.spotify.com/artist/7G5LXo0b0pFlVzgWNGOngl) | [Philosophy of Time](https://open.spotify.com/album/65Z1ZhNi3gvGMitnw5lI1D) | 7:07 |
-| 10 | [Euphoria](https://open.spotify.com/track/6tDzxYw5unq4XtGxxD1Nvz) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/2j3cS6gipRVSWiLKzcKHyz) | 3:21 |
+| 10 | [Euphoria](https://open.spotify.com/track/6iUgr1j5sN0LU7ljhiUwYi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4xADuwIS5TSQzoYTaPA5VH) | 3:21 |
 | 11 | [Junglist](https://open.spotify.com/track/40E2w7AGNUFx4roieo6ekh) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH) | [Junglist](https://open.spotify.com/album/7bk9B0wJbhPD3eCrPclPxB) | 3:30 |
 | 12 | [XX](https://open.spotify.com/track/60LXnlFE4YaX7BsLcfGx2b) | [19:26](https://open.spotify.com/artist/2IelDQgKvM3U4P7HVVmaOX), [Animal Picnic](https://open.spotify.com/artist/7eMjH8sGNTqZycmrO1P9WD) | [Siamese Anthology V \(Part 1/4\)](https://open.spotify.com/album/0Cw9XUYmI4pBLi1MNOwd2O) | 5:44 |
 | 13 | [Flying High](https://open.spotify.com/track/2Py5mwVwgCHMXXUnPhj0QL) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS) | [Flying High](https://open.spotify.com/album/6kh10pfqwMB1FNmFNvOa9n) | 7:00 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbhRaecw5So.md) - [plain]
 | 88 | [nCTRL](https://open.spotify.com/track/5XfojfN07IcOskzRjQgCrT) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [nCTRL](https://open.spotify.com/album/4y97dGnwLXUHyPtSPJPCfz) | 4:10 |
 | 89 | [Faisal \(envelops me\)](https://open.spotify.com/track/1uyQNwG1sFl7etjFTEHlQp) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 4:10 |
 
-Snapshot ID: `MTY3OTkxMTI1MiwwMDAwMDAwMDhlMWJkOTdmNzVjMmEzOTQ4OTA3NDM0ODI1YWEyMjBi`
+Snapshot ID: `MTY3OTkxMTI1MiwwMDAwMDAwMGM3OTkyMGJmOTYyNTgzZjkyZDc1NjA1NzEwODE0MDIx`

@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-927 songs - 2 day 8 hr 41 min
+928 songs - 2 day 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Dilemma](https://open.spotify.com/track/5MZYOtR8fcaZoWzweBNdMm) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK), [Taylor Manns](https://open.spotify.com/artist/008yUYD9avjHlXXmT47dz9) | [Dilemma](https://open.spotify.com/album/5Jj8Jcob18UYy4GhRNrSMq) | 4:07 | 2022-04-01 | 2022-04-04 |
 | [Dime](https://open.spotify.com/track/2BNzCdbnUoJw9ZnvmLZQrs) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Dime](https://open.spotify.com/album/46CqfZvFn60Dv5qggaQ1G0) | 3:14 | 2022-04-01 | 2022-04-18 |
 | [Dime Quién Me Lo Robó](https://open.spotify.com/track/2Iu1PNxGImKU2zP9e4QYeV) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Rock Nacional](https://open.spotify.com/album/2TSunTI1bHCQgmPIfw1mTK) | 6:40 | 2022-03-24 | 2022-04-20 |
+| [Disfruto, La Quiero a Ella](https://open.spotify.com/track/6Yu0lPp8iWZEIPYw8YzePn) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Disfruto, La Quiero a Ella](https://open.spotify.com/album/1EviGLb1bEqdomEAiuxnA4) | 6:03 | 2023-04-14 |  |
 | [Domador de Sombras \(En Directo\)](https://open.spotify.com/track/0QCVY0jGbjElFXcNGPXu8w) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Enlace en Estado Vivo, Vol\. 1 \(En Directo\)](https://open.spotify.com/album/3t8KmV5ReT7gZpnhUZwp5M) | 3:25 | 2022-04-08 | 2022-04-14 |
 | [Domingo Con las Pibas](https://open.spotify.com/track/4uZsgoYI7ekFxQCcZ9QGkE) | [Negra Chavez](https://open.spotify.com/artist/0I5kEgYYTLupe5XJk3q0t7) | [Domingo Con las Pibas](https://open.spotify.com/album/6XSzfAGzzVI5soaBCD7Aix) | 3:11 | 2022-03-24 | 2022-03-28 |
 | [Don](https://open.spotify.com/track/1SSQb10Z0XcP8pln4GkjQj) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [Don](https://open.spotify.com/album/2XgZX9qMIQzYuXrXrbZLql) | 3:09 | 2022-11-25 |  |
@@ -847,7 +848,7 @@
 | [TUNA](https://open.spotify.com/track/06kZbAkPevdwrQDa1Y41UM) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [AMORA](https://open.spotify.com/album/67w5GTUP0xRtseWy6MDILI) | 3:41 | 2023-02-02 | 2023-04-15 |
 | [Tus Ojos](https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:14 | 2021-12-24 |  |
 | [Tú](https://open.spotify.com/track/1m7i1H4AeNZ4OLUKgSzqRy) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB), [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Tú](https://open.spotify.com/album/1VWUNv00kcEVsdD5CGGfCZ) | 3:07 | 2022-07-07 | 2022-07-16 |
-| [Tú Me Dejaste De Querer](https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [La Húngara](https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU) | [Tú Me Dejaste De Querer](https://open.spotify.com/album/7lRNtV18ZVeTYY2w5RhVf2) | 3:18 | 2022-03-24 |  |
+| [Tú Me Dejaste De Querer](https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [La Húngara](https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU) | [Tú Me Dejaste De Querer](https://open.spotify.com/album/7lRNtV18ZVeTYY2w5RhVf2) | 3:18 | 2022-03-24 | 2023-04-20 |
 | [Tú Sí Sabes Quererme](https://open.spotify.com/track/4Y4LIwW0Wu2ofbnaz9qZVN) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Tú Sí Sabes Quererme](https://open.spotify.com/album/3l1VLXgsVJQ2iBLeIkByZn) | 4:28 | 2022-03-11 | 2022-05-17 |
 | [Tú Y Tú](https://open.spotify.com/track/6gnbz54mNEfB82Tl9pv5Z1) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tú Y Tú](https://open.spotify.com/album/4kWBOGoMzrHdXf4dGzBPXp) | 3:36 | 2023-03-17 |  |
 | [Umbrella \- Acoustic Version](https://open.spotify.com/track/1hrDzrt4YgZdD67MOu5U0Q) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Umbrella \(Acoustic Version\)](https://open.spotify.com/album/1T16ylIh3VPIFFi65OutI6) | 2:58 | 2022-04-01 | 2022-04-07 |

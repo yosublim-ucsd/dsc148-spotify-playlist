@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1980s.",
-  "num_followers": 10178752,
+  "num_followers": 10181129,
   "original_name": "All Out 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQ4MTkwMCwwMDAwMDAwMDQ0ZjMwZDA3MjYzYWJiODRiMTQ5ZWYzNGU3ODU1ODg1",
+  "snapshot_id": "MTY3OTQ4MTkwMCwwMDAwMDAwMDI5NmY0M2FmMjE2ZmEwNDUzY2JiMDgxODYyMzdhODZm",
   "tracks": [
     {
       "added_at": "2023-02-02 20:37:09",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Ladies And Gentlemen... The Best Of George Michael",
-        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 300106,
-      "name": "Careless Whisper",
-      "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
         "name": "Appetite For Destruction",
         "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 405600,
       "name": "Paradise City",
       "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 300106,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
       },
       "artists": [
         {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+      "duration_ms": 310333,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "The Final Countdown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
       "artists": [
         {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 310333,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
+      "duration_ms": 256000,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Building The Perfect Beast",
-        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 288733,
-      "name": "The Boys Of Summer",
-      "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 240280,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
+        "name": "Building The Perfect Beast",
+        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 288733,
+      "name": "The Boys Of Summer",
+      "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Into The Light",
-        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
-      },
-      "artists": [
-        {
-          "name": "Chris de Burgh",
-          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "The Lady In Red",
-      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 155880,
       "name": "I'm On Fire",
       "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5"
+      },
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "The Lady In Red",
+      "url": "https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Eliminator",
-        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 258026,
-      "name": "Sharp Dressed Man - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
         "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 220310,
       "name": "Walk This Way",
       "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "Sharp Dressed Man - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Greatest Hits: Huey Lewis And The News",
-        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
-      },
-      "artists": [
-        {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
-        }
-      ],
-      "duration_ms": 234333,
-      "name": "The Power Of Love",
-      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
         "name": "What a Feelin'",
         "url": "https://open.spotify.com/album/0BK4XIgJ3AublHWN48vNzS"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 237053,
       "name": "Flashdance...What a Feeling - Radio Edit",
       "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
+        "name": "Greatest Hits: Huey Lewis And The News",
+        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 234333,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Let's Talk About Love",
-        "url": "https://open.spotify.com/album/1JDlLoZugxdneiaTnGyaKr"
-      },
-      "artists": [
-        {
-          "name": "Modern Talking",
-          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Cheri Cheri Lady",
-      "url": "https://open.spotify.com/track/2aEuA8PSqLa17Y4hKPj5rr"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 246440,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
+        "name": "Let's Talk About Love",
+        "url": "https://open.spotify.com/album/1JDlLoZugxdneiaTnGyaKr"
+      },
+      "artists": [
+        {
+          "name": "Modern Talking",
+          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Cheri Cheri Lady",
+      "url": "https://open.spotify.com/track/2aEuA8PSqLa17Y4hKPj5rr"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 278680,
-      "name": "Born in the U.S.A.",
-      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 251066,
       "name": "Hungry Eyes - From \"Dirty Dancing\" Soundtrack",
       "url": "https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 278680,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
-      },
-      "artists": [
-        {
-          "name": "UB40",
-          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Red Red Wine",
-      "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
         "name": "The Game (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 214653,
       "name": "Another One Bites The Dust - Remastered 2011",
       "url": "https://open.spotify.com/track/57JVGBtBLCfHw2muk5416J"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
+      },
+      "artists": [
+        {
+          "name": "UB40",
+          "url": "https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Red Red Wine",
+      "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Jack & Diane",
-      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 219666,
       "name": "We're Not Gonna Take It",
       "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Jack & Diane",
+      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "'80s Pop #1's",
-        "url": "https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY"
-      },
-      "artists": [
-        {
-          "name": "Lipps Inc.",
-          "url": "https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ"
-        }
-      ],
-      "duration_ms": 245413,
-      "name": "Funkytown - Single Version",
-      "url": "https://open.spotify.com/track/0B5kY9i9bmP7554oU4jRoO"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
         "name": "So Excited! (Expanded Edition)",
         "url": "https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 230640,
       "name": "I'm So Excited",
       "url": "https://open.spotify.com/track/1ot6jEe4w4hYnsOPjd3xKQ"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
+        "name": "'80s Pop #1's",
+        "url": "https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY"
+      },
+      "artists": [
+        {
+          "name": "Lipps Inc.",
+          "url": "https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ"
+        }
+      ],
+      "duration_ms": 245413,
+      "name": "Funkytown - Single Version",
+      "url": "https://open.spotify.com/track/0B5kY9i9bmP7554oU4jRoO"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "I Wanna Rock",
+      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
         "name": "Bon Jovi",
         "url": "https://open.spotify.com/album/1UUOBzIHw0noiRGRpbt3sz"
       },
@@ -1891,22 +1907,6 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "I Wanna Rock",
-      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
         "name": "Like a Virgin",
         "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
@@ -1939,18 +1939,18 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "The Very Best Of The Beach Boys: Sounds Of Summer",
-        "url": "https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw"
+        "name": "Toto IV",
+        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
       },
       "artists": [
         {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
         }
       ],
-      "duration_ms": 217692,
-      "name": "Kokomo",
-      "url": "https://open.spotify.com/track/5qHYXcVvc9xsFB2uH7GpMN"
+      "duration_ms": 331200,
+      "name": "Rosanna",
+      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -1971,18 +1971,18 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Toto IV",
-        "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
+        "name": "The Very Best Of The Beach Boys: Sounds Of Summer",
+        "url": "https://open.spotify.com/album/47VjIh8rgyMJJHNR98w0Kw"
       },
       "artists": [
         {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
         }
       ],
-      "duration_ms": 331200,
-      "name": "Rosanna",
-      "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
+      "duration_ms": 217692,
+      "name": "Kokomo",
+      "url": "https://open.spotify.com/track/5qHYXcVvc9xsFB2uH7GpMN"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -1999,6 +1999,22 @@
       "duration_ms": 221840,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/5dRQUolXAVX3BbCiIxmSsf"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
+        "name": "...Nothing Like The Sun",
+        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Englishman In New York",
+      "url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -2031,22 +2047,6 @@
       "duration_ms": 279440,
       "name": "Sunday Bloody Sunday - Remastered 2008",
       "url": "https://open.spotify.com/track/6C4LXC9UFH1IKiHYOp0BiJ"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
-        "name": "...Nothing Like The Sun",
-        "url": "https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Englishman In New York",
-      "url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Celebrate!",
-        "url": "https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 298866,
-      "name": "Celebration",
-      "url": "https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
         "name": "The Essential Journey",
         "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 248906,
       "name": "Don't Stop Believin'",
       "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
+        "name": "Celebrate!",
+        "url": "https://open.spotify.com/album/2kc4mhFRsoIRVD0XEYnwhI"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 298866,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/3K7Q9PHUWPTaknlbFPThn2"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -2211,18 +2211,18 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 242733,
-      "name": "La Isla Bonita",
-      "url": "https://open.spotify.com/track/6r8k1vznHrzlEKYxL4dZEe"
+      "duration_ms": 275533,
+      "name": "How Will I Know",
+      "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -2243,18 +2243,18 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 275533,
-      "name": "How Will I Know",
-      "url": "https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal"
+      "duration_ms": 242733,
+      "name": "La Isla Bonita",
+      "url": "https://open.spotify.com/track/6r8k1vznHrzlEKYxL4dZEe"
     },
     {
       "added_at": "2023-02-02 20:37:09",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2023-02-02 20:37:09",
       "album": {
-        "name": "Eliminator",
-        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 241080,
-      "name": "Gimme All Your Lovin'",
-      "url": "https://open.spotify.com/track/0OBwxFLu6Yj61s2OagYbgY"
-    },
-    {
-      "added_at": "2023-02-02 20:37:09",
-      "album": {
         "name": "Diana",
         "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 323346,
       "name": "I'm Coming Out",
       "url": "https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q"
+    },
+    {
+      "added_at": "2023-02-02 20:37:09",
+      "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 241080,
+      "name": "Gimme All Your Lovin'",
+      "url": "https://open.spotify.com/track/0OBwxFLu6Yj61s2OagYbgY"
     },
     {
       "added_at": "2023-02-02 20:37:09",

@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 23464,
+  "num_followers": 23497,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMDA5YjMyNjg0OTM4OGVhYzUyZTc1OGU2ODlmNmY2N2I3",
+  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMDc1ZTc2ODk3Y2U5YjI1ODYwNzgwZTQwZWNkZTQyYjM2",
   "tracks": [
     {
       "added_at": "2022-05-13 10:49:08",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Johnnie B. Bad",
-        "url": "https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Johnson",
-          "url": "https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY"
-        }
-      ],
-      "duration_ms": 294133,
-      "name": "Tanqueray",
-      "url": "https://open.spotify.com/track/7eGAVjUPCA6sQ0vR3xenwf"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Sweet Giant of the Blues",
         "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 366826,
       "name": "Bird in a Cage",
       "url": "https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Johnnie B. Bad",
+        "url": "https://open.spotify.com/album/6kCsbrIJOMSRdZI0T3wsRD"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Johnson",
+          "url": "https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY"
+        }
+      ],
+      "duration_ms": 294133,
+      "name": "Tanqueray",
+      "url": "https://open.spotify.com/track/7eGAVjUPCA6sQ0vR3xenwf"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Junco Partner",
-        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
-      },
-      "artists": [
-        {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
-        }
-      ],
-      "duration_ms": 310040,
-      "name": "Junco Partner",
-      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Eye to Eye",
         "url": "https://open.spotify.com/album/4qeeoJt7NRA6hPXYrIMguD"
       },
@@ -279,6 +263,22 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "Junco Partner",
+        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
+      },
+      "artists": [
+        {
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+        }
+      ],
+      "duration_ms": 310040,
+      "name": "Junco Partner",
+      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "Shake Rattle & Rock",
         "url": "https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI"
       },
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Her New Orleans Music",
-        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
-      },
-      "artists": [
-        {
-          "name": "Sweet Emma Barrett",
-          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
-        }
-      ],
-      "duration_ms": 225928,
-      "name": "None of My Jelly Roll",
-      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Sweet Giant of the Blues",
         "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 266253,
       "name": "Moon Blues",
       "url": "https://open.spotify.com/track/5WZhJc7JFZFxflEjxitzwy"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Her New Orleans Music",
+        "url": "https://open.spotify.com/album/6KrB8Sf5g2WpCcWUOE9CpE"
+      },
+      "artists": [
+        {
+          "name": "Sweet Emma Barrett",
+          "url": "https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk"
+        }
+      ],
+      "duration_ms": 225928,
+      "name": "None of My Jelly Roll",
+      "url": "https://open.spotify.com/track/2fFhD3A1gSpm0liAvtvSdk"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "The Essential Leroy Carr",
-        "url": "https://open.spotify.com/album/02k5tV3zpF2khwjxro1oUT"
-      },
-      "artists": [
-        {
-          "name": "Leroy Carr",
-          "url": "https://open.spotify.com/artist/2FtoVJBkfbE89zyZJ0E9eR"
-        }
-      ],
-      "duration_ms": 175400,
-      "name": "Papa's on the House Top",
-      "url": "https://open.spotify.com/track/2O36OWzPpO7qg7CxdmPtN3"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Classified (Remixed & Expanded Edition)",
         "url": "https://open.spotify.com/album/6VgQnvMaa5x8GEWaqUXSvo"
       },
@@ -431,18 +415,18 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Blues On The Prowl",
-        "url": "https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N"
+        "name": "The Essential Leroy Carr",
+        "url": "https://open.spotify.com/album/02k5tV3zpF2khwjxro1oUT"
       },
       "artists": [
         {
-          "name": "Booker T. Laury",
-          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
+          "name": "Leroy Carr",
+          "url": "https://open.spotify.com/artist/2FtoVJBkfbE89zyZJ0E9eR"
         }
       ],
-      "duration_ms": 217720,
-      "name": "Booker's Boogie",
-      "url": "https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV"
+      "duration_ms": 175400,
+      "name": "Papa's on the House Top",
+      "url": "https://open.spotify.com/track/2O36OWzPpO7qg7CxdmPtN3"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -459,6 +443,22 @@
       "duration_ms": 315373,
       "name": "Ain't Nobody's Business",
       "url": "https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Blues On The Prowl",
+        "url": "https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N"
+      },
+      "artists": [
+        {
+          "name": "Booker T. Laury",
+          "url": "https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH"
+        }
+      ],
+      "duration_ms": 217720,
+      "name": "Booker's Boogie",
+      "url": "https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Solo Ride",
-        "url": "https://open.spotify.com/album/7jeC6jeaPD5DlVjYkekS29"
-      },
-      "artists": [
-        {
-          "name": "Bruce Katz",
-          "url": "https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57"
-        }
-      ],
-      "duration_ms": 225693,
-      "name": "It Hurts Me Too",
-      "url": "https://open.spotify.com/track/59OhaqAccfavOAymsUSk4W"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "I've Got News For You",
         "url": "https://open.spotify.com/album/4LrFiga7TeKlnDhCngvSUl"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 189146,
       "name": "Anytime, Anyplace, Anywhere",
       "url": "https://open.spotify.com/track/1MqeY8vtJ435Oaj2suvtbW"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Solo Ride",
+        "url": "https://open.spotify.com/album/7jeC6jeaPD5DlVjYkekS29"
+      },
+      "artists": [
+        {
+          "name": "Bruce Katz",
+          "url": "https://open.spotify.com/artist/3Nzai6Pe5noXPC8JsYtO57"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "It Hurts Me Too",
+      "url": "https://open.spotify.com/track/59OhaqAccfavOAymsUSk4W"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Jumpin' With Joe",
-        "url": "https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Roll 'Em Pete",
-      "url": "https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/6AWwvurjj21QEBbOucDWUQ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 240426,
       "name": "New York City Blues",
       "url": "https://open.spotify.com/track/5dI7AFyk5idEj94ra4F5Y8"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Jumpin' With Joe",
+        "url": "https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Roll 'Em Pete",
+      "url": "https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Fess at Home",
-        "url": "https://open.spotify.com/album/1r6jk6qVIYqPlTzvOXMPUE"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 231632,
-      "name": "Tipitina",
-      "url": "https://open.spotify.com/track/7acA74x4jbKVKBljh5Qt3L"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "New Shade of Blue",
         "url": "https://open.spotify.com/album/7LCPGWetHUe8llQPpRacoh"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 262920,
       "name": "Long Way Home",
       "url": "https://open.spotify.com/track/2psY6edqjF6QMnC8v1Aitj"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Fess at Home",
+        "url": "https://open.spotify.com/album/1r6jk6qVIYqPlTzvOXMPUE"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 231632,
+      "name": "Tipitina",
+      "url": "https://open.spotify.com/track/7acA74x4jbKVKBljh5Qt3L"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "The Blue Horizon Story (1965-1970)",
-        "url": "https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM"
-      },
-      "artists": [
-        {
-          "name": "Eddie Boyd",
-          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
-        }
-      ],
-      "duration_ms": 170106,
-      "name": "Empty Arms",
-      "url": "https://open.spotify.com/track/4vuAINkUeHcx9JApp7fZKx"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Good Candy",
         "url": "https://open.spotify.com/album/2QYfgujx2IpnAuTm0zgHea"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 392600,
       "name": "West Side Woman",
       "url": "https://open.spotify.com/track/1GW9zg3nvC65TTkOcDhZYm"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "The Blue Horizon Story (1965-1970)",
+        "url": "https://open.spotify.com/album/6LAgwOR5Rh9VmCIosaSxkM"
+      },
+      "artists": [
+        {
+          "name": "Eddie Boyd",
+          "url": "https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB"
+        }
+      ],
+      "duration_ms": 170106,
+      "name": "Empty Arms",
+      "url": "https://open.spotify.com/track/4vuAINkUeHcx9JApp7fZKx"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -975,18 +975,18 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "The Honeydripper",
-        "url": "https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm"
+        "name": "Best of Blues Vol. 6: Postwar Chicago Blues III (Collection Gerard Herzhaft - Remastered)",
+        "url": "https://open.spotify.com/album/3wIt6N0fd9c6ittIk8BpcZ"
       },
       "artists": [
         {
-          "name": "Roosevelt Sykes",
-          "url": "https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5"
+          "name": "Lazy Bill Lucas",
+          "url": "https://open.spotify.com/artist/4v9Nt1CRGlHHdDX1sIXuAq"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Pocketful Of Money",
-      "url": "https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY"
+      "duration_ms": 166253,
+      "name": "My Baby's Gone",
+      "url": "https://open.spotify.com/track/1ORs7J8remmKEDvAMotH29"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Best of Blues Vol. 6: Postwar Chicago Blues III (Collection Gerard Herzhaft - Remastered)",
-        "url": "https://open.spotify.com/album/3wIt6N0fd9c6ittIk8BpcZ"
+        "name": "The Honeydripper",
+        "url": "https://open.spotify.com/album/6ItEdGX4FUD7O1MFPeUoLm"
       },
       "artists": [
         {
-          "name": "Lazy Bill Lucas",
-          "url": "https://open.spotify.com/artist/4v9Nt1CRGlHHdDX1sIXuAq"
+          "name": "Roosevelt Sykes",
+          "url": "https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5"
         }
       ],
-      "duration_ms": 166253,
-      "name": "My Baby's Gone",
-      "url": "https://open.spotify.com/track/1ORs7J8remmKEDvAMotH29"
+      "duration_ms": 152000,
+      "name": "Pocketful Of Money",
+      "url": "https://open.spotify.com/track/0Y43UwP73ZgegwdVQh4oGY"
     },
     {
       "added_at": "2022-05-13 10:49:08",

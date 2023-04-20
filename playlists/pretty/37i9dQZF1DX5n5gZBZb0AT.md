@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,998 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,852 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 29 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 |
 | 30 | [Yes Indeed](https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:22 |
 | 31 | [Drowning \(feat\. Kodak Black\)](https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [The Bigger Artist](https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV) | 3:29 |
-| 32 | [Why Not](https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [Why Not](https://open.spotify.com/album/0Qj2wwdBRq690kG8hShuaR) | 2:45 |
-| 33 | [GHOST!](https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3) | 3:51 |
+| 32 | [GHOST!](https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [KIIXSHI](https://open.spotify.com/artist/3nLZDVpDU6RrQ9k98yHTKh) | [GHOST!](https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3) | 3:51 |
+| 33 | [Why Not](https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [Why Not](https://open.spotify.com/album/0Qj2wwdBRq690kG8hShuaR) | 2:45 |
 | 34 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy) | 2:22 |
 | 35 | [The Search](https://open.spotify.com/track/3oLe5ZILASG8vU5dxIMfLY) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv) | 4:08 |
 | 36 | [HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Rotten](https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf) | 2:19 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 39 | [GATTI](https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 3:01 |
 | 40 | [Trophies](https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk) | [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Rise Of An Empire \(Deluxe Edition\)](https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF) | 3:08 |
 
-Snapshot ID: `MTY3OTk1NDQ5NCwwMDAwMDAwMDIwZWE3M2JkYjE0OWJmODU2NzNlNzFhZmI5NmQyYmQx`
+Snapshot ID: `MTY3OTk1NDQ5NCwwMDAwMDAwMDljNjdiZGMxMzQ0MTgyYzM3NzVmOGEwMjhjOTJhMjQ5`

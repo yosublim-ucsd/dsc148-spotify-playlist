@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Jorja Smith \(pictured\), Lewis Capaldi, Aitch and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,455 likes - 133 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,489 likes - 133 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 92 | [love again?](https://open.spotify.com/track/3X9EeGP1dLvpKCENRD4QQv) | [SAPPHIRE](https://open.spotify.com/artist/3lszNiPaTVlTlfsGuLgX9J) | [love again?](https://open.spotify.com/album/6NaKU9TTqwuoMco6opT5SM) | 3:15 |
 | 93 | [Looking For Love](https://open.spotify.com/track/02URvOPqbVEmLOCXvLH5Op) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Looking For Love](https://open.spotify.com/album/2VPn8eCJ3fm4A77GNa3ZbW) | 3:35 |
 | 94 | [Want U Back](https://open.spotify.com/track/2BMhTcquomJgCq3MfNkY1P) | [NEVE](https://open.spotify.com/artist/2sZ1bsMMDGUvXBvihXLZn2) | [Want U Back](https://open.spotify.com/album/37YWIL8h1u1TZIzbKTETRA) | 2:30 |
-| 95 | [2 BEST FRIENDS](https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:18 |
+| 95 | [2 BEST FRIENDS](https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4) | 2:18 |
 | 96 | [Hot Sauce](https://open.spotify.com/track/0Mtk1CAT9lAISJjvBY8CbT) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Hot Sauce](https://open.spotify.com/album/6jeeHsOvUDczcJ17R7ozlc) | 2:57 |
 | 97 | [Poison](https://open.spotify.com/track/6z0CXrqJuDc4clCY0TYELG) | [Crate Classics](https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx), [Pesolife](https://open.spotify.com/artist/7f9jDhglsest0HQ921acyT) | [Poison](https://open.spotify.com/album/6YUNtKx2oQF5CFoutUbkSG) | 2:54 |
 | 98 | [Oval Stones](https://open.spotify.com/track/5jumXLjj8yhQ0j1Af8XZS1) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ) | 3:33 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 132 | [RACECAR](https://open.spotify.com/track/4tSigY11JntXg1REBQOcv6) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [RACECAR](https://open.spotify.com/album/2rQ9wGWiXNYpr2zNzGm7d4) | 2:53 |
 | 133 | [Easy To Learn](https://open.spotify.com/track/09IkwbEsp24Wb3YEUB2GJl) | [Zoe Konez](https://open.spotify.com/artist/56zdMqayB3Ja8iwUmdKumu) | [Easy To Learn](https://open.spotify.com/album/6r0cyoVgZWJzTPLVS2bR0V) | 3:58 |
 
-Snapshot ID: `MTY4MTQ2MzUxMCwwMDAwMDAwMDI5ZTQyNDc4ZmY4YzBjZjQ3YTJlYWE1NjVmM2Q3M2Y3`
+Snapshot ID: `MTY4MTQ2MzUxMCwwMDAwMDAwMDI5OGE4NzY0ZTllYmE1MzI5MDM1ZWE0MzMzOTE0NWYw`

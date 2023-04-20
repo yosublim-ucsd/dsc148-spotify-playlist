@@ -1,12 +1,12 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 142641,
+  "num_followers": 143059,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjY5NjIzMiwwMDAwMDAwMDdkZjY2YzgzZmYwYzhlZTc4ZmJhODAzMzFlYTQ5N2Vh",
+  "snapshot_id": "MTY3MjY5NjIzMiwwMDAwMDAwMDU5ZjA0M2NhZDVmMjc0NDdiNDkyZDY2YWJkY2E5Yzll",
   "tracks": [
     {
       "added_at": "2023-01-02 21:50:32",
@@ -215,18 +215,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Can The Circle Be Unbroken: Country Music's First Family",
-        "url": "https://open.spotify.com/album/3ZA3cI7M6Z5rsy7kIFGeMd"
+        "name": "Cool Water (With Bonus Tracks)",
+        "url": "https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7"
       },
       "artists": [
         {
-          "name": "The Carter Family",
-          "url": "https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL"
+          "name": "Sons of the Pioneers",
+          "url": "https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68"
         }
       ],
-      "duration_ms": 195040,
-      "name": "Wildwood Flower",
-      "url": "https://open.spotify.com/track/6LXh42hEpcVLKtUgVkiKZi"
+      "duration_ms": 141946,
+      "name": "Riders In The Sky",
+      "url": "https://open.spotify.com/track/5kI7vpum3qPDB8ZT6rSPNV"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -247,18 +247,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Cool Water (With Bonus Tracks)",
-        "url": "https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7"
+        "name": "Can The Circle Be Unbroken: Country Music's First Family",
+        "url": "https://open.spotify.com/album/3ZA3cI7M6Z5rsy7kIFGeMd"
       },
       "artists": [
         {
-          "name": "Sons of the Pioneers",
-          "url": "https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68"
+          "name": "The Carter Family",
+          "url": "https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL"
         }
       ],
-      "duration_ms": 141946,
-      "name": "Riders In The Sky",
-      "url": "https://open.spotify.com/track/5kI7vpum3qPDB8ZT6rSPNV"
+      "duration_ms": 195040,
+      "name": "Wildwood Flower",
+      "url": "https://open.spotify.com/track/6LXh42hEpcVLKtUgVkiKZi"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
+        "name": "The Essential Gene Autry",
+        "url": "https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8"
+      },
+      "artists": [
+        {
+          "name": "Gene Autry",
+          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "Deep In the Heart of Texas",
+      "url": "https://open.spotify.com/track/6QZp4bkCotnIA1ZHayOvXt"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
         "name": "The Merle Travis Story",
         "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 172013,
       "name": "Don't Fence Me In",
       "url": "https://open.spotify.com/track/5UsCMdER0Vrh4uFuef4kHA"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "The Essential Gene Autry",
-        "url": "https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8"
-      },
-      "artists": [
-        {
-          "name": "Gene Autry",
-          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "Deep In the Heart of Texas",
-      "url": "https://open.spotify.com/track/6QZp4bkCotnIA1ZHayOvXt"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Folk Songs Of The Hills",
-        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
-      },
-      "artists": [
-        {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
-        }
-      ],
-      "duration_ms": 167600,
-      "name": "Dark As A Dungeon",
-      "url": "https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Rockabilly Gold Masters",
         "url": "https://open.spotify.com/album/7LjSqkcGkDyvjoswiPeKlZ"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 168160,
       "name": "One Has My Name (The Other Has My Heart) - 1948 Single",
       "url": "https://open.spotify.com/track/30S4lAJWRdFtgZJys5VoNW"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Folk Songs Of The Hills",
+        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
+      },
+      "artists": [
+        {
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+        }
+      ],
+      "duration_ms": 167600,
+      "name": "Dark As A Dungeon",
+      "url": "https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Folk Songs Of The Hills",
-        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
-      },
-      "artists": [
-        {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
-        }
-      ],
-      "duration_ms": 159760,
-      "name": "Nine Pound Hammer",
-      "url": "https://open.spotify.com/track/3rSrn37bkEtbWRk19d2OiH"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
         "name": "Classic Western Swing",
         "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 140866,
       "name": "Stay a Little Longer",
       "url": "https://open.spotify.com/track/3T9kdYeXp2E242GvF1ZB9m"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Complete Original #1 Hits",
+        "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
+      },
+      "artists": [
+        {
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+        }
+      ],
+      "duration_ms": 152733,
+      "name": "Bouquet of Roses",
+      "url": "https://open.spotify.com/track/2iM66C4ttfO2kMc2eLYzHq"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Complete Original #1 Hits",
-        "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
+        "name": "Folk Songs Of The Hills",
+        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
       },
       "artists": [
         {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
         }
       ],
-      "duration_ms": 152733,
-      "name": "Bouquet of Roses",
-      "url": "https://open.spotify.com/track/2iM66C4ttfO2kMc2eLYzHq"
+      "duration_ms": 159760,
+      "name": "Nine Pound Hammer",
+      "url": "https://open.spotify.com/track/3rSrn37bkEtbWRk19d2OiH"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -795,8 +795,8 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Columbia Singles Collection (1949-1964)",
-        "url": "https://open.spotify.com/album/482S22hQgNU0XOkZNODICb"
+        "name": "The Late Great - 14 Greatest Hits",
+        "url": "https://open.spotify.com/album/4H07VHStgecHswvKvQHFqo"
       },
       "artists": [
         {
@@ -804,9 +804,25 @@
           "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
         }
       ],
-      "duration_ms": 172733,
-      "name": "Candy Kisses - 78 rpm Version",
-      "url": "https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO"
+      "duration_ms": 153373,
+      "name": "Room Full of Roses",
+      "url": "https://open.spotify.com/track/3D9ZLNU7YPW6ijEnsF3hRA"
+    },
+    {
+      "added_at": "2023-01-02 21:50:32",
+      "album": {
+        "name": "Complete Original #1 Hits",
+        "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
+      },
+      "artists": [
+        {
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+        }
+      ],
+      "duration_ms": 172586,
+      "name": "Anytime - Remastered",
+      "url": "https://open.spotify.com/track/4CX5dAUwc8zUVpExxXtFLZ"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -839,22 +855,6 @@
       "duration_ms": 164506,
       "name": "Beer Drinking Blues",
       "url": "https://open.spotify.com/track/0Zndnuf6y3bpIozh1A7otm"
-    },
-    {
-      "added_at": "2023-01-02 21:50:32",
-      "album": {
-        "name": "Complete Original #1 Hits",
-        "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
-      },
-      "artists": [
-        {
-          "name": "Eddy Arnold",
-          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "Anytime - Remastered",
-      "url": "https://open.spotify.com/track/4CX5dAUwc8zUVpExxXtFLZ"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -907,8 +907,8 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "The Late Great - 14 Greatest Hits",
-        "url": "https://open.spotify.com/album/4H07VHStgecHswvKvQHFqo"
+        "name": "The Columbia Singles Collection (1949-1964)",
+        "url": "https://open.spotify.com/album/482S22hQgNU0XOkZNODICb"
       },
       "artists": [
         {
@@ -916,25 +916,25 @@
           "url": "https://open.spotify.com/artist/5qdAW04hszBSzncQhJyjXZ"
         }
       ],
-      "duration_ms": 153373,
-      "name": "Room Full of Roses",
-      "url": "https://open.spotify.com/track/3D9ZLNU7YPW6ijEnsF3hRA"
+      "duration_ms": 172733,
+      "name": "Candy Kisses - 78 rpm Version",
+      "url": "https://open.spotify.com/track/4JJ1gdFvZVlnLW9QTKOaeO"
     },
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Psycho - The K-Ark and Allstar Recordings 1962-1969",
-        "url": "https://open.spotify.com/album/462l1oFisu47gbsvGv0tH6"
+        "name": "Columbia Country Classics Volume 1: The Golden Age",
+        "url": "https://open.spotify.com/album/5KjgZmF5dhZ2RwW9sJfB2V"
       },
       "artists": [
         {
-          "name": "Eddie Noack",
-          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
+          "name": "Ted Daffan's Texans",
+          "url": "https://open.spotify.com/artist/2YnfSATOB2uSfoyltK0uyq"
         }
       ],
-      "duration_ms": 140426,
-      "name": "Invisible Stripes",
-      "url": "https://open.spotify.com/track/5m2aHtyWdsUMFPtpv6I6IQ"
+      "duration_ms": 159800,
+      "name": "Born to Lose",
+      "url": "https://open.spotify.com/track/6Z6bycK4qORoW6VGp8YrUY"
     },
     {
       "added_at": "2023-01-02 21:50:32",
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-01-02 21:50:32",
       "album": {
-        "name": "Columbia Country Classics Volume 1: The Golden Age",
-        "url": "https://open.spotify.com/album/5KjgZmF5dhZ2RwW9sJfB2V"
+        "name": "Psycho - The K-Ark and Allstar Recordings 1962-1969",
+        "url": "https://open.spotify.com/album/462l1oFisu47gbsvGv0tH6"
       },
       "artists": [
         {
-          "name": "Ted Daffan's Texans",
-          "url": "https://open.spotify.com/artist/2YnfSATOB2uSfoyltK0uyq"
+          "name": "Eddie Noack",
+          "url": "https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp"
         }
       ],
-      "duration_ms": 159800,
-      "name": "Born to Lose",
-      "url": "https://open.spotify.com/track/6Z6bycK4qORoW6VGp8YrUY"
+      "duration_ms": 140426,
+      "name": "Invisible Stripes",
+      "url": "https://open.spotify.com/track/5m2aHtyWdsUMFPtpv6I6IQ"
     },
     {
       "added_at": "2023-01-02 21:50:32",

@@ -4,7 +4,7 @@
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-60 songs - 3 hr 28 min
+61 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Sed](https://open.spotify.com/track/5qwBGh8rMY4jEdszbxXA0Z) | [Xavier Martinex](https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY), [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Sed](https://open.spotify.com/album/6taEnbo5tcuo1hY11NeZEK) | 3:08 | 2023-04-10 |  |
 | [Señorita Revolución](https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Señorita Revolución](https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm) | 2:38 | 2023-03-19 |  |
 | [Shorty 2](https://open.spotify.com/track/4PxNkl09m4T65wW7qqPh6J) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki), [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws) | [Shorty 2](https://open.spotify.com/album/1YVcXIfifU15sAd7fIr7Dt) | 3:23 | 2023-03-19 | 2023-04-13 |
-| [Sol](https://open.spotify.com/track/3ZCnCDJchAUdH922mJty6O) | [Mar Marzo](https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc) | [Sol](https://open.spotify.com/album/7rWwNHGxgwWsPdhxoBIty5) | 2:51 | 2023-03-19 |  |
+| [Sol](https://open.spotify.com/track/3ZCnCDJchAUdH922mJty6O) | [Mar Marzo](https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc) | [Sol](https://open.spotify.com/album/7rWwNHGxgwWsPdhxoBIty5) | 2:51 | 2023-03-19 | 2023-04-20 |
+| [Soy un volcán](https://open.spotify.com/track/0dGwAktrgm2gwLCcU3NLfG) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [Luz de perla](https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY) | 2:49 | 2023-04-19 |  |
 | [Tu Apodo](https://open.spotify.com/track/6LDdT2ajmQwa2X8KgjAOSq) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Tu Apodo](https://open.spotify.com/album/1VOfSXkm9fGGhIbZ0GzP5q) | 2:35 | 2023-03-19 | 2023-04-15 |
 | [Órbita](https://open.spotify.com/track/69nb2ILVOmzn6rJUlbfkTo) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs), [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Órbita](https://open.spotify.com/album/6NNNGHpNY68oVq0QhtJBUT) | 3:17 | 2023-03-19 |  |
 

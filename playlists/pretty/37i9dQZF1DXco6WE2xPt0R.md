@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 
 > Aquela playlist pra ficar no quentin, gostosin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,481 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,497 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 10 | [What’s Yo Phone Number / Telephone \- Medley / Ghost Of Screw Mix](https://open.spotify.com/track/2H8ux8QVRgerQltl8Hr5oM) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 5:10 |
 | 11 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 |
 | 12 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 |
-| 13 | [Valentina](https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Valentina](https://open.spotify.com/album/3Fqjb0gzWbJglEdf4HX5uw) | 2:34 |
-| 14 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA) | 3:06 |
+| 13 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA) | 3:06 |
+| 14 | [Valentina](https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Valentina](https://open.spotify.com/album/3Fqjb0gzWbJglEdf4HX5uw) | 2:34 |
 | 15 | [Very Few Friends](https://open.spotify.com/track/4rjcVZDZ74xqv49D8kFh5l) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Very Few Friends](https://open.spotify.com/album/7EOZH0eKMdOdohywyWeo21) | 2:12 |
 | 16 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 |
 | 17 | [Deserve Me \(with Summer Walker\)](https://open.spotify.com/track/0vQffWKfl0JyRqtdoZINEM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 4:25 |
 | 18 | [Cheatback](https://open.spotify.com/track/157HuQLoRKG4r3zqQU2bwN) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [In Pieces](https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI) | 3:45 |
-| 19 | [GLU](https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [GLU](https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe) | 4:22 |
-| 20 | [Jealous \(with Ella Mai\)](https://open.spotify.com/track/2HXzOhKhZ46k5cLBPTlfuJ) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Jealous](https://open.spotify.com/album/3H6JHY6lWD4zKIbIjmXLh9) | 3:45 |
+| 19 | [Jealous \(with Ella Mai\)](https://open.spotify.com/track/2HXzOhKhZ46k5cLBPTlfuJ) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Jealous](https://open.spotify.com/album/3H6JHY6lWD4zKIbIjmXLh9) | 3:45 |
+| 20 | [GLU](https://open.spotify.com/track/2G5zNimfDzfcAtbHtEKzTu) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [GLU](https://open.spotify.com/album/0G3B62hABGracMFA8yIGQe) | 4:22 |
 | 21 | [Tread Carefully](https://open.spotify.com/track/7newfXclX39UwWTw2gDswM) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 3:02 |
 | 22 | [Nothing Even Matters \(feat\. D'Angelo\)](https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:50 |
 | 23 | [Satisfaction](https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Satisfaction](https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q) | 2:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco6WE2xPt0R.md) - [plain]
 | 99 | [Mr\. Midnight \- Winter Time Remix](https://open.spotify.com/track/7Abompe9RyQ6qIng5kkgPP) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL), [Bee Boy$oul](https://open.spotify.com/artist/2leVNDYvVvNjWr0aGMWXQc) | [Mr\. Midnight \(Winter Time Remix\)](https://open.spotify.com/album/3ZEfnijyXzxMa6JR1xBa6i) | 4:00 |
 | 100 | [You Got One](https://open.spotify.com/track/1aHOxnrpKtdNonDJKI73qb) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [You Got One](https://open.spotify.com/album/4wK80fjjoENNScObJowugB) | 3:25 |
 
-Snapshot ID: `MTY4MTQ0MTI2MCwwMDAwMDAwMDM3ZWQwMTlhZDhjZjZiNzczOGJlZGQxNTI3Yzk5MmZh`
+Snapshot ID: `MTY4MTQ0MTI2MCwwMDAwMDAwMGEyMjgyNDBjNDM3YjU1M2Q3MGZhMDRhY2I1NTU2YTY0`

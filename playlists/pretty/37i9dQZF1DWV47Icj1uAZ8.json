@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://twitter.com/kofi\">Kofi Siriboe</a>",
-  "num_followers": 17141,
+  "num_followers": 17222,
   "original_name": "Kofi Siriboe's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1ODUxOSwwMDAwMDAwMGJmZWQ5YjhjMDNkZGU5ZGI2YWRlNzNlZWNiNmJjZDc1",
+  "snapshot_id": "MTY2NDY1ODUxOSwwMDAwMDAwMGNkMjZlMzJhOTQ0MjkwNjA1MmRlN2QzYzkxNzg1YTZh",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 386626,
+      "name": "Next Lifetime",
+      "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "love nwantiti (ah ah ah) [feat. Joeboy & Kuami Eugene] [Remix]",
         "url": "https://open.spotify.com/album/4mI7w8746bh2UPt2LGeeEl"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 188093,
       "name": "love nwantiti (ah ah ah) [feat. Joeboy & Kuami Eugene] [Remix]",
       "url": "https://open.spotify.com/track/140dx97IbJbQhIMd7AaHeb"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 386626,
-      "name": "Next Lifetime",
-      "url": "https://open.spotify.com/track/6sIMSl1n3KDPr03Fw8mujd"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -887,18 +887,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Tower of Silence",
-        "url": "https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S"
+        "name": "Process (Bonus Edition)",
+        "url": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
       },
       "artists": [
         {
-          "name": "Roberto Musci",
-          "url": "https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw"
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
         }
       ],
-      "duration_ms": 177255,
-      "name": "Claudia, Wilhelm R And Me",
-      "url": "https://open.spotify.com/track/4jR8SmpJ76qsD1TlaD6TIY"
+      "duration_ms": 263923,
+      "name": "Timmy's Prayer",
+      "url": "https://open.spotify.com/track/16bQdxSVtmvL2hc4h3OJE3"
     }
   ],
   "unique_name": "Kofi Siriboe's Taste",

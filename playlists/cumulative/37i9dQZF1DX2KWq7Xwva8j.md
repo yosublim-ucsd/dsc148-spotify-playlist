@@ -2,9 +2,9 @@
 
 ### [Radar España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> Descubre hoy a los artistas de mañana\. Foto: Paula Koops
+> Descubre hoy a los artistas de mañana\. Foto: Saiko
 
-181 songs - 8 hr 51 min
+182 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,8 +164,9 @@
 | [Solo](https://open.spotify.com/track/2JYAvxXyyubnbY4H7rrqiS) | [Mario Summers](https://open.spotify.com/artist/6pZjGGAy8faU8zEw4b3wfH) | [Solo](https://open.spotify.com/album/37tpMp9kscG5f1xTnGaN7D) | 3:53 | 2021-12-31 | 2022-02-18 |
 | [Solo me gustas cuando yo te gusto a ti](https://open.spotify.com/track/6PdT8A35WPRr4r7JNjyTWO) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Solo me gustas cuando yo te gusto a ti](https://open.spotify.com/album/3V6sBhL8dVx5ZubTyNUeao) | 3:12 | 2023-02-07 |  |
 | [Son Ganas](https://open.spotify.com/track/0dxUEzSnXQZiJ61rIdtzt2) | [La Cebolla](https://open.spotify.com/artist/0UkT6v5uBVrNrDr5TdETq9) | [Son Ganas](https://open.spotify.com/album/5C8jNxCKQrHSWhwhHWIoby) | 3:30 | 2022-01-06 | 2022-06-07 |
-| [Soy Un Desastre](https://open.spotify.com/track/6BT3cBhFz6wNlCAyY2bAnr) | [Jara Pol](https://open.spotify.com/artist/1ZIwEYympp5ztnQYDlIxHg) | [Soy Un Desastre](https://open.spotify.com/album/4HDJZRVlFfApsf6QqwOBnp) | 2:54 | 2022-06-06 |  |
+| [Soy Un Desastre](https://open.spotify.com/track/6BT3cBhFz6wNlCAyY2bAnr) | [Jara Pol](https://open.spotify.com/artist/1ZIwEYympp5ztnQYDlIxHg) | [Soy Un Desastre](https://open.spotify.com/album/4HDJZRVlFfApsf6QqwOBnp) | 2:54 | 2022-06-06 | 2023-04-20 |
 | [Starsky & Hutch](https://open.spotify.com/track/531HWzHDU2HRRmYuS0Mnvw) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b) | [Starsky & Hutch](https://open.spotify.com/album/22JFWlUVaMumJRanIIps3o) | 3:00 | 2021-12-31 | 2022-04-01 |
+| [Supernova](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Supernova](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 | 2023-04-19 |  |
 | [Tan vacío \(feat\. Hens\)](https://open.spotify.com/track/7l61FJ2XoYVzJ7ybmwJ0fg) | [Walls](https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR), [Hens](https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK) | [Tan vacío \(feat\. Hens\)](https://open.spotify.com/album/4Jsv9saADsu5ASaAfItVSv) | 2:38 | 2021-12-31 | 2022-04-01 |
 | [Tiro Al Aire](https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tiro Al Aire](https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk) | 3:20 | 2023-03-01 |  |
 | [Tremenda suerte](https://open.spotify.com/track/5Xt7uirmf3G3yI7XSvd1NV) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Tremenda suerte](https://open.spotify.com/album/5WHCioEAtmcXk4CqSTpFc6) | 2:38 | 2021-12-31 | 2022-01-07 |

@@ -1,12 +1,12 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 913800,
+  "num_followers": 914623,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDgzM2ZiNjFiMWQ3MWFkODY5ZGY1ZGY3NDM4YjQ0YTlh",
+  "snapshot_id": "MTY4MDg0MDAwMCwwMDAwMDAwMDU0YzNkZTcwMWIwYjk2NmRmOTRlYTdjZDVlNzA3NmM1",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Do You Like Me?",
-        "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 227663,
-      "name": "Do You Like Me?",
-      "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 168906,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Do You Like Me?",
+        "url": "https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 227663,
+      "name": "Do You Like Me?",
+      "url": "https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Music Has The Right To Children",
-        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 91706,
-      "name": "Olson",
-      "url": "https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Amo XO",
         "url": "https://open.spotify.com/album/04Yi3MVgftQcAqIqVdy9Wu"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 130961,
       "name": "Lovefool",
       "url": "https://open.spotify.com/track/3dmsgudsfeGdQ9NsZFOm0C"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU"
+      },
+      "artists": [
+        {
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+        }
+      ],
+      "duration_ms": 91706,
+      "name": "Olson",
+      "url": "https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "And The War Came",
-        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 319840,
-      "name": "Family and Genus",
-      "url": "https://open.spotify.com/track/5lJ1NMNz6ymwdaL9aejm8e"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "SBTRKT (Deluxe Version)",
         "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 206600,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/47GsUibP7RiUL7SQ7YFfhu"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "And The War Came",
+        "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 319840,
+      "name": "Family and Genus",
+      "url": "https://open.spotify.com/track/5lJ1NMNz6ymwdaL9aejm8e"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Hope For Sale",
-        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        },
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 226733,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
@@ -1175,6 +1155,26 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
+        "name": "Hope For Sale",
+        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 226733,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
         "name": "Light Upon the Lake",
         "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Kof\u016b",
-        "url": "https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s"
-      },
-      "artists": [
-        {
-          "name": "Meitei",
-          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
-        }
-      ],
-      "duration_ms": 66061,
-      "name": "Kintsugi",
-      "url": "https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Business Solutions",
         "url": "https://open.spotify.com/album/5EoBpPFpD4y4GCc4CFaLhE"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 220146,
       "name": "Business Solutions",
       "url": "https://open.spotify.com/track/7AQF2AOa43bMg08srt9PO3"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Kof\u016b",
+        "url": "https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s"
+      },
+      "artists": [
+        {
+          "name": "Meitei",
+          "url": "https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii"
+        }
+      ],
+      "duration_ms": 66061,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Why (Spare Me Tears)",
-        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 205229,
-      "name": "Why (Spare Me Tears)",
-      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Black Dog",
         "url": "https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 225454,
       "name": "Black Dog",
       "url": "https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Why (Spare Me Tears)",
+        "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 205229,
+      "name": "Why (Spare Me Tears)",
+      "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
     },
     {
       "added_at": "2023-03-31 04:00:00",

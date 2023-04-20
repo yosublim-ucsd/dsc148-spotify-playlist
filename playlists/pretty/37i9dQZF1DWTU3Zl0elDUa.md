@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,254 likes - 60 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,628 likes - 60 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 29 | [Follow Me \- Club Mix](https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU) | [Aly\-Us](https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r) | [Follow Me](https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O) | 6:24 |
 | 30 | [I Can't Kick This Feeling When It Hits](https://open.spotify.com/track/2PmT3D5xmvVzZCf11L2ifX) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Silentintroduction](https://open.spotify.com/album/1WuyO8qwthV94n8A4crVss) | 8:05 |
 | 31 | [French Kiss \- The Original Underground Mix](https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG) | [Lil' Louis](https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs), [The World](https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 9:51 |
-| 32 | [Feels Like Heaven](https://open.spotify.com/track/7HlxqDDzdWE3gK0i6fS6Bt) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:30 |
-| 33 | [The Whistle Song](https://open.spotify.com/track/0DwAc0Z8Td3jv5frUznqu1) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Beyond The Mix](https://open.spotify.com/album/0DdX2VkXM0LmUU2S7S3QeD) | 6:57 |
+| 32 | [The Whistle Song](https://open.spotify.com/track/0DwAc0Z8Td3jv5frUznqu1) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Beyond The Mix](https://open.spotify.com/album/0DdX2VkXM0LmUU2S7S3QeD) | 6:57 |
+| 33 | [Feels Like Heaven](https://open.spotify.com/track/7HlxqDDzdWE3gK0i6fS6Bt) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:30 |
 | 34 | [Deep Inside](https://open.spotify.com/track/6iNncT0HlEZNVoBQbFrdLs) | [Hardrive](https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1) | [Deep Inside](https://open.spotify.com/album/5ZOD5pFIYtgkqzbRegxxHY) | 6:30 |
 | 35 | [Playing With Knives \[Quadrant Mix}](https://open.spotify.com/track/3ToxQ1h56CW3lA2zcGtODh) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU) | [Playing With Knives \[Quadrant Mix\]](https://open.spotify.com/album/1q4NYQT20Fb9kN16yZ3OHM) | 6:47 |
 | 36 | [Move Your Body](https://open.spotify.com/track/5eAymAmVU6CyejjFJxvcMI) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz) | [Frankie Knuckles Presents: His Greatest Hits from Trax Records](https://open.spotify.com/album/0FV16C1tWVlaSSYUYofPwT) | 6:45 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 55 | [Ebeneezar Goode \- Beatmasters Mix](https://open.spotify.com/track/2w6c7A9bfstvqCVOCF6UmV) | [The Shamen](https://open.spotify.com/artist/5E704N5StxMVKpalhaJ5L3) | [Boss Drum](https://open.spotify.com/album/0F9CFeVQEAcmbYNqZzWt9W) | 6:15 |
 | 56 | [Sweet Sticky](https://open.spotify.com/track/7wAPKByejF2gAMm9PoWkXN) | [Theo Parrish](https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz) | [First Floor](https://open.spotify.com/album/5iVsUH1RQbojywBR2SoVua) | 7:15 |
 | 57 | [Trouble](https://open.spotify.com/track/3kdJEtRfy0SMVMyuwU8KJs) | [Joi Cardwell](https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ) | [The World is Full of Trouble](https://open.spotify.com/album/09soF2h5LvSOvHQKrJgHSn) | 7:26 |
-| 58 | [I'll Be Your Friend \- Original Mix \(2011 Remastered Version\)](https://open.spotify.com/track/5SMnHUNB2iBm3rkuoHpIZO) | [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [I'll Be Your Friend](https://open.spotify.com/album/5GMblrMHV0VJsgig37YazI) | 7:36 |
+| 58 | [Nothing Better \- Tmvs Club Mix](https://open.spotify.com/track/5lAb1UQMTC9ANal1QrFCx2) | [Colourblind](https://open.spotify.com/artist/7IiGgQFgfCPx3U34PlS4nC), [Dina Roache](https://open.spotify.com/artist/5lPgWCOAaBImIvLXXZkEnO) | [Underground Gems, Vol\. 2](https://open.spotify.com/album/4RIvMqg9amqYXRaVxhSLOa) | 6:35 |
 | 59 | [Everybody \(All over the World\) \- Dance Version](https://open.spotify.com/track/4XbAHiP83NvAj1rW2vIrys) | [FPI Project](https://open.spotify.com/artist/6HNYPrYPF6UzZhVFu2sLeh) | [Everybody \(All Over The World\)](https://open.spotify.com/album/29vo83aZt4XUt2gUSAxzwg) | 5:13 |
-| 60 | [Nothing Better \- Tmvs Club Mix](https://open.spotify.com/track/5lAb1UQMTC9ANal1QrFCx2) | [Colourblind](https://open.spotify.com/artist/7IiGgQFgfCPx3U34PlS4nC), [Dina Roache](https://open.spotify.com/artist/5lPgWCOAaBImIvLXXZkEnO) | [Underground Gems, Vol\. 2](https://open.spotify.com/album/4RIvMqg9amqYXRaVxhSLOa) | 6:35 |
+| 60 | [I'll Be Your Friend \- Original Mix \(2011 Remastered Version\)](https://open.spotify.com/track/5SMnHUNB2iBm3rkuoHpIZO) | [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [I'll Be Your Friend](https://open.spotify.com/album/5GMblrMHV0VJsgig37YazI) | 7:36 |
 
-Snapshot ID: `MTYzMTg2NzY5MCwwMDAwMDAwMDYwYjU2MDEwZWY4ZTE2NTNlMTdmNGU3ODFmMTU2YmFl`
+Snapshot ID: `MTYzMTg2NzY5MCwwMDAwMDAwMGJmZmM4YzQ2MjkxNThhMTFkY2RmYWIyNGIzYzFhODM4`

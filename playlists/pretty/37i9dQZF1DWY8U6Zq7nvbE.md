@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 
 > The best from the world of acoustic songs and pop covers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,130,475 likes - 179 songs - 9 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130,516 likes - 179 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8U6Zq7nvbE.md) - [plain]
 | 52 | [All That I Need](https://open.spotify.com/track/2htuDl6TWC2cxia8ZTdBSU) | [Hugo Helmig](https://open.spotify.com/artist/27eEve8Mu7Zv8DGDIz4peE) | [LULU, Vol\. 1](https://open.spotify.com/album/4WNPWn19iZOFvDwVbjEcZG) | 3:45 |
 | 53 | [IDGAF \- Acoustic](https://open.spotify.com/track/5ZMb1d14RLl5NHAgZIwVHc) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [IDGAF \(Remixes II\)](https://open.spotify.com/album/4M7slCAvVUFZLYICsgY3xq) | 3:37 |
 | 54 | [Think Before I Talk \- Acoustic](https://open.spotify.com/track/0xr4LgYImMBZL3lnniYzHv) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Think Before I Talk \(Acoustic\)](https://open.spotify.com/album/4xBuuPBwFuPxv8sZNMqeVT) | 3:37 |
-| 55 | [7 Years](https://open.spotify.com/track/3CztMDwiifDlxsKRkyCwPK) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g), [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [7 Years](https://open.spotify.com/album/7jt23XlIkhW60dDre0mpYr) | 3:42 |
+| 55 | [7 Years](https://open.spotify.com/track/3CztMDwiifDlxsKRkyCwPK) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g) | [7 Years](https://open.spotify.com/album/7jt23XlIkhW60dDre0mpYr) | 3:42 |
 | 56 | [Visiting Hours \(Acoustic\)](https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK) | [Fox & Hart](https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH) | [Visiting Hours \(Acoustic\)](https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW) | 3:17 |
 | 57 | [As It Was](https://open.spotify.com/track/3lC9XokJGOOH41srH9kg2x) | [Killian Turner](https://open.spotify.com/artist/5P5rNoaQffJDfUUTPNWKH5) | [As It Was](https://open.spotify.com/album/0mU1KA0IX9tn2lR1gSyNUB) | 3:46 |
 | 58 | [If I Wasn't Me](https://open.spotify.com/track/3Xb3Ryh1vF9i4CKtMNphoD) | [Laur Elle](https://open.spotify.com/artist/5DQPhXyByXuh4DxLjHm7UH) | [If I Wasn't Me](https://open.spotify.com/album/6rg7brnp2fmvI9mi1V7Uyz) | 2:53 |

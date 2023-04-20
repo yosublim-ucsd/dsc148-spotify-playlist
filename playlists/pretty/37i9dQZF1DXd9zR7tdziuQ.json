@@ -1,12 +1,12 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 846685,
+  "num_followers": 847076,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MzY4NDQwOCwwMDAwMDAwMDAwM2UzZWZjYTg3MjAzNGUxZjBmZGU2NzkzYWFjMTJh",
+  "snapshot_id": "MTY2MzY4NDQwOCwwMDAwMDAwMDA3NGZlM2IwYzFlOTkxN2EwMWFiYzFjYjg4NjQzY2Vj",
   "tracks": [
     {
       "added_at": "2022-08-25 19:21:22",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "James Bay Spotify Session 2015",
-        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 285866,
-      "name": "Let It Go - James Bay Spotify Session 2015",
-      "url": "https://open.spotify.com/track/4tYokojnBEp5pBWO7wTRPA"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Issues (Acoustic)",
         "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 175280,
       "name": "Issues - Acoustic",
       "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "James Bay Spotify Session 2015",
+        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 285866,
+      "name": "Let It Go - James Bay Spotify Session 2015",
+      "url": "https://open.spotify.com/track/4tYokojnBEp5pBWO7wTRPA"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
+        "name": "The Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/5U6Wjpe4mJO3TofaM9CzFz"
+      },
+      "artists": [
+        {
+          "name": "Noah Guthrie",
+          "url": "https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3"
+        }
+      ],
+      "duration_ms": 233377,
+      "name": "Set Fire to the Rain - Cover",
+      "url": "https://open.spotify.com/track/4wnhMXDfs64pcg0jxHscwI"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
         "name": "Save Tonight",
         "url": "https://open.spotify.com/album/2jHuPMC1tJvcyqvWMrlvQI"
       },
@@ -671,18 +687,18 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "The Covers, Vol. 4",
-        "url": "https://open.spotify.com/album/5U6Wjpe4mJO3TofaM9CzFz"
+        "name": "No One (Remixes)",
+        "url": "https://open.spotify.com/album/7cfKCPxLeKxSxePtCxckv6"
       },
       "artists": [
         {
-          "name": "Noah Guthrie",
-          "url": "https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 233377,
-      "name": "Set Fire to the Rain - Cover",
-      "url": "https://open.spotify.com/track/4wnhMXDfs64pcg0jxHscwI"
+      "duration_ms": 259569,
+      "name": "No One - Acoustic",
+      "url": "https://open.spotify.com/track/0DeNwzmYKxmAe7XtfXRsB6"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -699,22 +715,6 @@
       "duration_ms": 178355,
       "name": "Ain't Nobody (Loves Me Better) - Acoustic",
       "url": "https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
-        "name": "No One (Remixes)",
-        "url": "https://open.spotify.com/album/7cfKCPxLeKxSxePtCxckv6"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 259569,
-      "name": "No One - Acoustic",
-      "url": "https://open.spotify.com/track/0DeNwzmYKxmAe7XtfXRsB6"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Superstition",
-        "url": "https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo"
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
       },
       "artists": [
         {
-          "name": "Run River North",
-          "url": "https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk"
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
         }
       ],
-      "duration_ms": 272000,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf"
+      "duration_ms": 247816,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Another Bundle of Tantrums",
-        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 247816,
-      "name": "Rather Be",
-      "url": "https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "#Acoustic",
         "url": "https://open.spotify.com/album/6NIj5YBKDtfqUJ5qDy9PbI"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 157466,
       "name": "Rockabye - Acoustic Version",
       "url": "https://open.spotify.com/track/5nMRpGfqQ0tb1TMbqBVK2J"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Superstition",
+        "url": "https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo"
+      },
+      "artists": [
+        {
+          "name": "Run River North",
+          "url": "https://open.spotify.com/artist/0INDB6Snts5NDbzh8jC3lk"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
+        "name": "Get Lucky (Acoustic)",
+        "url": "https://open.spotify.com/album/7kqflmHaXiCRFSF6gd7wwW"
+      },
+      "artists": [
+        {
+          "name": "Linn Brikell",
+          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+        }
+      ],
+      "duration_ms": 188605,
+      "name": "Get Lucky - Acoustic",
+      "url": "https://open.spotify.com/track/2aXBORgLuv2czaJVyeLOl7"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
         "name": "The Village Sessions",
         "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
       },
@@ -935,18 +951,34 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Get Lucky (Acoustic)",
-        "url": "https://open.spotify.com/album/7kqflmHaXiCRFSF6gd7wwW"
+        "name": "IDGAF (Remixes II)",
+        "url": "https://open.spotify.com/album/4M7slCAvVUFZLYICsgY3xq"
       },
       "artists": [
         {
-          "name": "Linn Brikell",
-          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 188605,
-      "name": "Get Lucky - Acoustic",
-      "url": "https://open.spotify.com/track/2aXBORgLuv2czaJVyeLOl7"
+      "duration_ms": 217785,
+      "name": "IDGAF - Acoustic",
+      "url": "https://open.spotify.com/track/5ZMb1d14RLl5NHAgZIwVHc"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Girls Just Wanna Have Fun",
+        "url": "https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 172992,
+      "name": "Girls Just Wanna Have Fun - Acoustic",
+      "url": "https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -971,22 +1003,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "IDGAF (Remixes II)",
-        "url": "https://open.spotify.com/album/4M7slCAvVUFZLYICsgY3xq"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 217785,
-      "name": "IDGAF - Acoustic",
-      "url": "https://open.spotify.com/track/5ZMb1d14RLl5NHAgZIwVHc"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Dancing On My Own (Acoustic)",
         "url": "https://open.spotify.com/album/7hsrklBsKFmOtlNkdNEe2o"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 253482,
       "name": "Dancing On My Own - Acoustic",
       "url": "https://open.spotify.com/track/7tOAtB2F50KXEkw86frba6"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
-        "name": "Girls Just Wanna Have Fun",
-        "url": "https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 172992,
-      "name": "Girls Just Wanna Have Fun - Acoustic",
-      "url": "https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Sweet Child o' Mine",
-        "url": "https://open.spotify.com/album/2N9b6fhLQvwocdZ3XpQB90"
-      },
-      "artists": [
-        {
-          "name": "Taken By Trees",
-          "url": "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
-        }
-      ],
-      "duration_ms": 302880,
-      "name": "Sweet Child o' Mine",
-      "url": "https://open.spotify.com/track/0uZqwjV40JTQ7KxU8a5GZR"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Chasing Cars",
         "url": "https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 268893,
       "name": "Chasing Cars",
       "url": "https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Sweet Child o' Mine",
+        "url": "https://open.spotify.com/album/2N9b6fhLQvwocdZ3XpQB90"
+      },
+      "artists": [
+        {
+          "name": "Taken By Trees",
+          "url": "https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN"
+        }
+      ],
+      "duration_ms": 302880,
+      "name": "Sweet Child o' Mine",
+      "url": "https://open.spotify.com/track/0uZqwjV40JTQ7KxU8a5GZR"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Covers, Vol. 1",
-        "url": "https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE"
-      },
-      "artists": [
-        {
-          "name": "Gardiner Sisters",
-          "url": "https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I"
-        }
-      ],
-      "duration_ms": 173508,
-      "name": "Home / Dirty Paws",
-      "url": "https://open.spotify.com/track/0Fqee2fFR57uDmrHQ5389d"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/0ZRoNXFBWk10Rj0PO5PSPG"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Jimmy Gets High",
-        "url": "https://open.spotify.com/album/0ZxjGRDBS5xJaYk7NyN1wC"
+        "name": "Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE"
       },
       "artists": [
         {
-          "name": "Daniel Powter",
-          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
+          "name": "Gardiner Sisters",
+          "url": "https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I"
         }
       ],
-      "duration_ms": 216586,
-      "name": "Bad Day - Acoustic",
-      "url": "https://open.spotify.com/track/5DEdP7MrcgdjXWGHWAeK5I"
+      "duration_ms": 173508,
+      "name": "Home / Dirty Paws",
+      "url": "https://open.spotify.com/track/0Fqee2fFR57uDmrHQ5389d"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1259,6 +1243,22 @@
       "duration_ms": 221598,
       "name": "Too Much To Ask - Acoustic",
       "url": "https://open.spotify.com/track/6HTDbFiF3c6QFRKkB6DcR4"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Jimmy Gets High",
+        "url": "https://open.spotify.com/album/0ZxjGRDBS5xJaYk7NyN1wC"
+      },
+      "artists": [
+        {
+          "name": "Daniel Powter",
+          "url": "https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk"
+        }
+      ],
+      "duration_ms": 216586,
+      "name": "Bad Day - Acoustic",
+      "url": "https://open.spotify.com/track/5DEdP7MrcgdjXWGHWAeK5I"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
         }
       ],
-      "duration_ms": 154764,
-      "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/1iZdFYJujH9VZtj7c0Xw2y"
+      "duration_ms": 165697,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6zsyF9yFf1KzJIt4mJJNzj"
       },
       "artists": [
         {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 165697,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx"
+      "duration_ms": 154764,
+      "name": "Have You Ever Seen The Rain - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/1iZdFYJujH9VZtj7c0Xw2y"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1395,6 +1395,26 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
+        "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
+        "url": "https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66"
+      },
+      "artists": [
+        {
+          "name": "Megan Davies",
+          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
+        },
+        {
+          "name": "Keelan Donovan",
+          "url": "https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7"
+        }
+      ],
+      "duration_ms": 231013,
+      "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
+      "url": "https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
         "name": "2U (Acoustic Version)",
         "url": "https://open.spotify.com/album/1ZeL89nYpDqgnRxzgmSBcU"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 225053,
       "name": "Wild World - Acoustic Version",
       "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
-        "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
-        "url": "https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66"
-      },
-      "artists": [
-        {
-          "name": "Megan Davies",
-          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
-        },
-        {
-          "name": "Keelan Donovan",
-          "url": "https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
-      "url": "https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Moon River",
-        "url": "https://open.spotify.com/album/7oEH9W5vXYrgeFM9h3SEx5"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 157674,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/6MbITmnWbLYhQzcLBVFAs3"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "New Rules (Acoustic)",
         "url": "https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 213436,
       "name": "New Rules - Acoustic",
       "url": "https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/7oEH9W5vXYrgeFM9h3SEx5"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 157674,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/6MbITmnWbLYhQzcLBVFAs3"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Acoustic In Nashville - Bootleg No. 2",
-        "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 269946,
-      "name": "How to Save a Life - Live in Nashville, TN - December 2006",
-      "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/51FVeMKotCRXxe2BKfTVTT"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 314343,
       "name": "Ordinary World",
       "url": "https://open.spotify.com/track/1Rzv9hwuNO1H7N947tD1e8"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Acoustic In Nashville - Bootleg No. 2",
+        "url": "https://open.spotify.com/album/7JnRIaA7a4XHmZBCAhPvqp"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 269946,
+      "name": "How to Save a Life - Live in Nashville, TN - December 2006",
+      "url": "https://open.spotify.com/track/32N3bQcpqADdTGKTHBq5px"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "In My Life",
-        "url": "https://open.spotify.com/album/3xmPSQOtxckv6Gr4IgVzw7"
-      },
-      "artists": [
-        {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
-        }
-      ],
-      "duration_ms": 154290,
-      "name": "In My Life",
-      "url": "https://open.spotify.com/track/3nsMuR3Bax8ZjhDl2xkGfJ"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/3AkgNcAjPBlz6PGzgHpDYU"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 245780,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4JrV4NJ4ChSoxBTEIb0D7F"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "In My Life",
+        "url": "https://open.spotify.com/album/3xmPSQOtxckv6Gr4IgVzw7"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "duration_ms": 154290,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/3nsMuR3Bax8ZjhDl2xkGfJ"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "Maps",
-        "url": "https://open.spotify.com/album/7bwd4cmXcxV1tcv391C1IX"
-      },
-      "artists": [
-        {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
-        }
-      ],
-      "duration_ms": 201683,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/7ED8yT6oWUoq5WVIfaka4e"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Derivatives",
         "url": "https://open.spotify.com/album/4Dd7OQGnbrlcNFHD9rf9W4"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 192639,
       "name": "I Kissed a Girl",
       "url": "https://open.spotify.com/track/4TBZ0i75gIWHedxf6N4Qwc"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/7bwd4cmXcxV1tcv391C1IX"
+      },
+      "artists": [
+        {
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+        }
+      ],
+      "duration_ms": 201683,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/7ED8yT6oWUoq5WVIfaka4e"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
-        "name": "What A Wonderful World",
-        "url": "https://open.spotify.com/album/7HgbXbnUrEjp4KIAW1Xoxe"
-      },
-      "artists": [
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        }
-      ],
-      "duration_ms": 128669,
-      "name": "What A Wonderful World",
-      "url": "https://open.spotify.com/track/12UdH0FWimJb2mM0CXT2QQ"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
         "name": "Slide (Acoustic Version)",
         "url": "https://open.spotify.com/album/71psLPZdo5Y1yqdd5pQ37W"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 171611,
       "name": "Slide - Acoustic Version",
       "url": "https://open.spotify.com/track/0QSpX88FigdeGYsrAQZj9C"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/7HgbXbnUrEjp4KIAW1Xoxe"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "duration_ms": 128669,
+      "name": "What A Wonderful World",
+      "url": "https://open.spotify.com/track/12UdH0FWimJb2mM0CXT2QQ"
     },
     {
       "added_at": "2022-08-25 19:21:22",
@@ -2447,6 +2447,22 @@
     {
       "added_at": "2022-08-25 19:21:22",
       "album": {
+        "name": "Chained To The Rhythm",
+        "url": "https://open.spotify.com/album/0bpEFgySwiqBSeqoxoujy9"
+      },
+      "artists": [
+        {
+          "name": "Lola Rhodes",
+          "url": "https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O"
+        }
+      ],
+      "duration_ms": 203070,
+      "name": "Chained To The Rhythm",
+      "url": "https://open.spotify.com/track/6WYZpPWeHcAXd0KVSfjbwI"
+    },
+    {
+      "added_at": "2022-08-25 19:21:22",
+      "album": {
         "name": "On the Road Again",
         "url": "https://open.spotify.com/album/07QIJ8zAWHMOKVAutNHsww"
       },
@@ -2463,22 +2479,6 @@
       "duration_ms": 139306,
       "name": "On the Road Again",
       "url": "https://open.spotify.com/track/034SnPlw5DF1Eg0hOcMNXl"
-    },
-    {
-      "added_at": "2022-08-25 19:21:22",
-      "album": {
-        "name": "Chained To The Rhythm",
-        "url": "https://open.spotify.com/album/0bpEFgySwiqBSeqoxoujy9"
-      },
-      "artists": [
-        {
-          "name": "Lola Rhodes",
-          "url": "https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O"
-        }
-      ],
-      "duration_ms": 203070,
-      "name": "Chained To The Rhythm",
-      "url": "https://open.spotify.com/track/6WYZpPWeHcAXd0KVSfjbwI"
     },
     {
       "added_at": "2022-08-25 19:21:22",

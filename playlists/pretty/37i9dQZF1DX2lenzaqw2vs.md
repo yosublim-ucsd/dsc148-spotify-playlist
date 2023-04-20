@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > LGBTQIA+ artists que brillan e inspiran.<br/>Cover: Ptazeta
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,084 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,115 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 34 | [no cambies tu andar](https://open.spotify.com/track/4mhJ93BE0N4bpwsK2CO95J) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK) | [no cambies tu andar](https://open.spotify.com/album/69fEXzbm2cy7w4thRgsfj1) | 3:16 |
 | 35 | [444](https://open.spotify.com/track/4IsGVklAFcRYhQwY3CtsgB) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [444/Ms\. Moon](https://open.spotify.com/album/4XQ2sccEi11cw5EZZMA97Z) | 2:50 |
 | 36 | [Querer Querer](https://open.spotify.com/track/2iR2CH29Oya76P3cg99Ns2) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg), [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Querer Querer](https://open.spotify.com/album/17sfERphTZkMfRkIzKFVHh) | 3:27 |
-| 37 | [Voy en Auto](https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Voy en Auto](https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu) | 2:58 |
-| 38 | [Bellakosa](https://open.spotify.com/track/3zmjT7DVb5s01CC8Iy8BlN) | [Sailorfag](https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE) | [Bellakosa](https://open.spotify.com/album/5tUZWuzaD4vnLJRnH5zxPc) | 2:53 |
+| 37 | [Bellakosa](https://open.spotify.com/track/3zmjT7DVb5s01CC8Iy8BlN) | [Sailorfag](https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE) | [Bellakosa](https://open.spotify.com/album/5tUZWuzaD4vnLJRnH5zxPc) | 2:53 |
+| 38 | [Voy en Auto](https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Voy en Auto](https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu) | 2:58 |
 | 39 | [Maricoteca](https://open.spotify.com/track/0QbsT7G5OJqieCARLwPZ2q) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02) | [Maricoteca](https://open.spotify.com/album/1iwN2HQCNED5Vm7mAbzVvu) | 3:42 |
 | 40 | [Y Qué?](https://open.spotify.com/track/7IimbpNYdLU9pG366Td4Tm) | [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE) | [José José, Un Tributo 1 & 2](https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl) | 3:06 |
 | 41 | [Amuleto](https://open.spotify.com/track/0mHrAGsrbfmQEBxmstxS21) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 3:45 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 69 | [Mucho Más](https://open.spotify.com/track/4JOhfm15uy5ETZzfYJfrxS) | [Jackie Mendoza](https://open.spotify.com/artist/2ZIEeX505EvIuA10fNgnHa) | [LuvHz](https://open.spotify.com/album/6yBOev00UB9ZZVaspj00Wb) | 3:05 |
 | 70 | [Buena Suerte Muchacha](https://open.spotify.com/track/2YY77lkRQXm4B4fdTHkrbO) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Índigo](https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz) | 3:13 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDFjYzUxYmMzNmU4MDgzZTk4ODEyNmIyYjU1ZWQ2N2Fh`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMGM3N2VmNGU4MmYzYzZkNzdjZWFlYTg5NjJiMjM4ZjM3`

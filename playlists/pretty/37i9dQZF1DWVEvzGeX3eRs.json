@@ -1,12 +1,12 @@
 {
   "description": "that Darius and Nina type love.",
-  "num_followers": 2612372,
+  "num_followers": 2612655,
   "original_name": "Love Deluxe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjU2NTU1NiwwMDAwMDAwMGU4NTYwNWJlMDQ4MGYxNDFmMWZkNzQwNjJlZWE5NmJi",
+  "snapshot_id": "MTY3NjU2NTU1NiwwMDAwMDAwMDcyYWQzMmMyMzFkMzU2Y2UzMmJlNWMxMDIzYzA2ZTFk",
   "tracks": [
     {
       "added_at": "2023-02-02 23:04:07",
@@ -327,22 +327,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "A Jagged Era",
-        "url": "https://open.spotify.com/album/71V8liHaRbtSZ2ZGkjcqZB"
-      },
-      "artists": [
-        {
-          "name": "Jagged Edge",
-          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "I Gotta Be",
-      "url": "https://open.spotify.com/track/5nS5mDWAyce9gjD8crHcZX"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "Janet",
         "url": "https://open.spotify.com/album/7qIuZgsMkRuh7rzi4qVcpg"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 428200,
       "name": "Any Time, Any Place",
       "url": "https://open.spotify.com/track/2yOm4lN7aTygtXanJFNFWU"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "A Jagged Era",
+        "url": "https://open.spotify.com/album/71V8liHaRbtSZ2ZGkjcqZB"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "I Gotta Be",
+      "url": "https://open.spotify.com/track/5nS5mDWAyce9gjD8crHcZX"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -455,22 +455,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "One Wish",
-        "url": "https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD"
-      },
-      "artists": [
-        {
-          "name": "Deborah Cox",
-          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
-        }
-      ],
-      "duration_ms": 262333,
-      "name": "Nobody's Supposed to Be Here",
-      "url": "https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "Total",
         "url": "https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 282333,
       "name": "Kissin' You",
       "url": "https://open.spotify.com/track/1e5DTpM1WeggytDXbphivX"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "One Wish",
+        "url": "https://open.spotify.com/album/16FPcGpqQfcvqpCLvZsWWD"
+      },
+      "artists": [
+        {
+          "name": "Deborah Cox",
+          "url": "https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG"
+        }
+      ],
+      "duration_ms": 262333,
+      "name": "Nobody's Supposed to Be Here",
+      "url": "https://open.spotify.com/track/51QxenFmXlJXUN9mpvxlaL"
     },
     {
       "added_at": "2021-03-05 00:03:16",
@@ -581,22 +581,6 @@
       "url": "https://open.spotify.com/track/12soRJf1RZRsCd0QUnJUYL"
     },
     {
-      "added_at": "2023-02-02 23:04:07",
-      "album": {
-        "name": "Three for Love",
-        "url": "https://open.spotify.com/album/62jHAFPLTBs0u6McU9DV4X"
-      },
-      "artists": [
-        {
-          "name": "Shalamar",
-          "url": "https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "This Is for the Lover in You",
-      "url": "https://open.spotify.com/track/78zalqlTeKYmNiQBXANKDl"
-    },
-    {
       "added_at": "2023-02-02 23:22:15",
       "album": {
         "name": "Forever My Lady",
@@ -611,6 +595,22 @@
       "duration_ms": 320360,
       "name": "Forever My Lady",
       "url": "https://open.spotify.com/track/2pY99npaZKTVAyw2DhV9Bo"
+    },
+    {
+      "added_at": "2023-02-02 23:04:07",
+      "album": {
+        "name": "Three for Love",
+        "url": "https://open.spotify.com/album/62jHAFPLTBs0u6McU9DV4X"
+      },
+      "artists": [
+        {
+          "name": "Shalamar",
+          "url": "https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "This Is for the Lover in You",
+      "url": "https://open.spotify.com/track/78zalqlTeKYmNiQBXANKDl"
     },
     {
       "added_at": "2023-02-02 23:04:07",
@@ -711,22 +711,6 @@
     {
       "added_at": "2021-03-05 00:03:16",
       "album": {
-        "name": "The Show, The After Party, The Hotel",
-        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
-      },
-      "artists": [
-        {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
-        }
-      ],
-      "duration_ms": 290066,
-      "name": "Love U 4 Life",
-      "url": "https://open.spotify.com/track/02D9uD9WQb834Lb54xCvDS"
-    },
-    {
-      "added_at": "2021-03-05 00:03:16",
-      "album": {
         "name": "If I Ever Fall In Love",
         "url": "https://open.spotify.com/album/1BSzAkEW5ZE2QsBScQgoAb"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 289693,
       "name": "If I Ever Fall In Love",
       "url": "https://open.spotify.com/track/0uOPGU4CbYxzFxn6T7sblW"
+    },
+    {
+      "added_at": "2021-03-05 00:03:16",
+      "album": {
+        "name": "The Show, The After Party, The Hotel",
+        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
+      },
+      "artists": [
+        {
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+        }
+      ],
+      "duration_ms": 290066,
+      "name": "Love U 4 Life",
+      "url": "https://open.spotify.com/track/02D9uD9WQb834Lb54xCvDS"
     },
     {
       "added_at": "2023-02-02 23:04:07",

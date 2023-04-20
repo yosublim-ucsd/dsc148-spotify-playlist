@@ -4,7 +4,7 @@
 
 > Experience the best live performances.
 
-188 songs - 15 hr 49 min
+189 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,13 +139,14 @@
 | [Save The Children \- Live From The Montreux Jazz Festival,Switzerland/1973](https://open.spotify.com/track/2rQQqhyMjZ3rIMriZXsGlR) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [Live At Montreux](https://open.spotify.com/album/1ZBGw6F1EdH5U6PfPpLaJj) | 4:40 | 2022-02-10 | 2022-07-29 |
 | [Say Yes \- Live At The House Of Blues, New Orleans / 2003](https://open.spotify.com/track/54tuUilU05mObbh1Xhqu44) | [Floetry](https://open.spotify.com/artist/0un6YenPxWZ2VW4aFGMupM) | [Floacism "Live"](https://open.spotify.com/album/09dDtTXan9iHABpbgea1oa) | 5:56 | 2022-02-10 |  |
 | [Send It On](https://open.spotify.com/track/65sYHQJ9QJTgG5RHZY4gRN) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Live In Stockholm](https://open.spotify.com/album/0VgPK1zGg0JIe5fXAbfkVT) | 5:41 | 2022-02-10 |  |
+| [She's Always In My Hair \- Live at ESNS 2023](https://open.spotify.com/track/2pUS5JQBZDuvGBRuYFAwG6) | [Kymara](https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7) | [She's Always In My Hair \(Live at ESNS 2023\)](https://open.spotify.com/album/6bHo1AKBDhXx2auV7z3kFi) | 2:47 | 2023-04-06 |  |
 | [St\. James Infirmary \- Live/Remastered](https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Live](https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC) | 4:34 | 2022-02-10 |  |
 | [Stand by Me / Chain Gang / Don't Know Much About History / The Happy Song \- Live](https://open.spotify.com/track/4bnDjFR0UZ4QECCGBqj0LI) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Live: 1989 Memphis Music & Heritage Festival](https://open.spotify.com/album/6YQxgANveFPoKUd4gPt6DH) | 11:36 | 2022-02-10 | 2022-07-12 |
 | [State of Mind \(feat\. Raúl Midón\) \- Live](https://open.spotify.com/track/3wxagevxnWNHxwWLKNyr50) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9), [Raul Midón](https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE) | [A Night in Monte\-Carlo \(Live\)](https://open.spotify.com/album/705bq5sKnKPefFvVhobQTG) | 6:23 | 2022-02-10 | 2022-07-29 |
 | [Still Such a Thing \- Live](https://open.spotify.com/track/67Iiw6pwTtWRLFIxJMfO60) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [The Way We Were: The Best Of Gladys Knight & The Pips](https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE) | 4:06 | 2022-02-10 | 2022-07-29 |
 | [Strange Fruit](https://open.spotify.com/track/1MgAB0kFSYYCZQ89WSdRWm) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Compact Jazz \- Nina Simone](https://open.spotify.com/album/6uBiIVYMgbrhcgXu7Epm4o) | 3:33 | 2022-02-10 | 2022-07-28 |
 | [Street Life \- Live](https://open.spotify.com/track/0SkV3827yvx2i40J2dhYYv) | [Randy Crawford](https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Live](https://open.spotify.com/album/6IC9CHTyoU1JYkNBScsyAr) | 6:06 | 2022-02-10 |  |
-| [Sunshine "I Can Fly" \(Live\)](https://open.spotify.com/track/7rhNmrsrxR5Li3WVxpJjhu) | [Raul Midón](https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE) | [Invisible Chains Live from Nyc](https://open.spotify.com/album/4tEFQeMCUIyHNzOWCZi5k9) | 9:32 | 2022-02-10 |  |
+| [Sunshine "I Can Fly" \(Live\)](https://open.spotify.com/track/7rhNmrsrxR5Li3WVxpJjhu) | [Raul Midón](https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE) | [Invisible Chains Live from Nyc](https://open.spotify.com/album/4tEFQeMCUIyHNzOWCZi5k9) | 9:32 | 2022-02-10 | 2023-04-20 |
 | [Superfly \- Live in Chicago](https://open.spotify.com/track/2DGW153VNRhZyaPjKFeSmS) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Curtis in Chicago \- Recorded Live!](https://open.spotify.com/album/2hPtmUGxCFZEyoaCCLAUNt) | 3:54 | 2022-02-10 | 2022-07-29 |
 | [Teenage Fantasy \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/3gL9y6dT7xKRPL91gKGM9Y) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Spotify Singles](https://open.spotify.com/album/7jrYTY6bfhAVzmHfNiQ9ko) | 4:23 | 2022-02-10 | 2022-07-29 |
 | [Teenage Fantasy \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4dSCmsx1GjA7te9KJ6Jm8R) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Spotify Singles](https://open.spotify.com/album/2kQ1EcVFOp70CML1HYjRzn) | 4:23 | 2022-02-10 |  |

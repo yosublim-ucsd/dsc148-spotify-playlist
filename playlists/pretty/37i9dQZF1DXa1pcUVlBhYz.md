@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 ### [Electronic + Dance Frequency](https://open.spotify.com/playlist/37i9dQZF1DXa1pcUVlBhYz)
 
-> Electronic + Dance making waves, every month\. Cover: Austin Millz, artwork by Ian Woods
+> Electronic + Dance making waves, every month.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,784 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,838 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 99 | [Party All Night Long](https://open.spotify.com/track/5qnwoviJNQzB7VepePEGdI) | [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [P.J\. Classics ep](https://open.spotify.com/album/7J9OztpoSi0hYJAH6qzPeV) | 6:15 |
 | 100 | [Work That Body](https://open.spotify.com/track/1h3LHD3iDbP4MGYNeQG4N5) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [Sounds](https://open.spotify.com/album/6639iZ8oPeMPXZqgh8Vd0V) | 6:42 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDY1MzI2NzhkNWY3ZTY1OTk5NzVhZWM4MGNkYTdmM2Y3`
+Snapshot ID: `MTY4MTkyNjA4NiwwMDAwMDAwMDFhYTE4NTY3YjY1OTA1NTg4NmI4MzY4N2Y1OTM3OTJi`

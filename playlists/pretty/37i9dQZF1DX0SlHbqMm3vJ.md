@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Johnny Drille
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,717 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,857 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 11 | [2 Bad](https://open.spotify.com/track/43b1Jo8h0yrl1PtBU6eb8R) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [2 Bad](https://open.spotify.com/album/67MMNKNZHyB86skPewtMoZ) | 2:36 |
 | 12 | [Damages](https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:49 |
 | 13 | [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 |
-| 14 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 |
-| 15 | [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(Remixes\)](https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G) | 3:04 |
+| 14 | [People \(feat\. Ayra Starr & Omah Lay\)](https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [People \(Remixes\)](https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G) | 3:04 |
+| 15 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 |
 | 16 | [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 |
 | 17 | [Wetin](https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo) | [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Wetin](https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb) | 1:18 |
 | 18 | [bo card \(things i need\)](https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY) | [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [bo card \(things i need\)](https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY) | 2:59 |
@@ -70,11 +70,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 60 | [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 |
 | 61 | [you](https://open.spotify.com/track/5Wdl4yFoXOX1xmA53udLyZ) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:55 |
 | 62 | [Sinner](https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Sinner](https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ) | 2:54 |
-| 63 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 |
-| 64 | [Lie](https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Lie](https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH) | 2:36 |
+| 63 | [Lie](https://open.spotify.com/track/5jVpi3fFf5OGAZ5bpe4Bhy) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Lie](https://open.spotify.com/album/5R3HMJSiNPlGeNSfLFsgOH) | 2:36 |
+| 64 | [Many Man \- A COLORS SHOW](https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Many Man \- A COLORS SHOW](https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI) | 3:10 |
 | 65 | [Forever](https://open.spotify.com/track/6huU6cSsMC2ragy2ohSo3l) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Seed \- EP](https://open.spotify.com/album/3E4G6wybYqXVpxipFZmLGK) | 3:16 |
-| 66 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 |
-| 67 | [Attention](https://open.spotify.com/track/1VxjsBmtDT2Vmhr6YpW9G2) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [In The Rough](https://open.spotify.com/album/7kUONXoXGQCZg93xSJph4x) | 2:45 |
+| 66 | [Attention](https://open.spotify.com/track/1VxjsBmtDT2Vmhr6YpW9G2) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [In The Rough](https://open.spotify.com/album/7kUONXoXGQCZg93xSJph4x) | 2:45 |
+| 67 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 |
 | 68 | [Try Me](https://open.spotify.com/track/2DYp6Gfu2JguZra6xL8IAV) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Try Me](https://open.spotify.com/album/6aitMhXvJwSRR6xD23Gqmk) | 3:33 |
 | 69 | [Away](https://open.spotify.com/track/47eAURQmsBK5e5cliaObFm) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Ayra Starr](https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc) | 2:49 |
 | 70 | [Right Here](https://open.spotify.com/track/1pNiF9HF0G6IvvieIVplAF) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Right Here](https://open.spotify.com/album/1DQOERqHos96P7hL1a2sCx) | 3:32 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 74 | [come close \(feat\. Ayra Starr\)](https://open.spotify.com/track/2u5dBIBam2FTwYsgsptJyj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 3:24 |
 | 75 | [Wine](https://open.spotify.com/track/2qpCxK7imR1qbH4fbdgWLg) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:50 |
 | 76 | [NEED ME](https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [NEED ME](https://open.spotify.com/album/0TTExlXyOA6Du5EF6T4T2e) | 3:12 |
-| 77 | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q) | 2:28 |
-| 78 | [Tekkers](https://open.spotify.com/track/34xP9J8ofSuYzsAPM7LjCE) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [For Good Reasons](https://open.spotify.com/album/7zDDdXCpkiw7NjP8yh5TNt) | 2:21 |
+| 77 | [Tekkers](https://open.spotify.com/track/34xP9J8ofSuYzsAPM7LjCE) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [For Good Reasons](https://open.spotify.com/album/7zDDdXCpkiw7NjP8yh5TNt) | 2:21 |
+| 78 | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [TROUBLE \- A COLORS SHOW](https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q) | 2:28 |
 | 79 | [ASE \- A COLORS SHOW](https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [ASE \- A COLORS SHOW](https://open.spotify.com/album/2fr1fy0P8A1Cjt1NjaPN3E) | 2:44 |
 | 80 | [Culture](https://open.spotify.com/track/5jfkErsgpDgdMQzO563tNL) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 3:28 |
 
-Snapshot ID: `MTY4MTQ2NjYwMSwwMDAwMDAwMDEyZjk5MTIwYzM0ZGZhMjM0NzJiZTg3MzNmNWRmZGY4`
+Snapshot ID: `MTY4MTQ2NjYwMSwwMDAwMDAwMDA2NGNkZTczM2ExODI1MWY3ODVhYzBhY2QzYTAxMzA3`

@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 90. \n\n",
-  "num_followers": 200189,
+  "num_followers": 200606,
   "original_name": "Rock en Espa\u00f1ol: Los 90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzEzNjk2NSwwMDAwMDAwMGNhYzhjMzVmYTY0NWQ0YWExYzk4OTYwODVlMDA3NzBm",
+  "snapshot_id": "MTY1NzEzNjk2NSwwMDAwMDAwMDc4YmM2MGJiMDY4YjcxZjQ5MzU3YTgyYjJkYmNmZGQx",
   "tracks": [
     {
       "added_at": "2022-07-06 19:49:25",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
-        "name": "Alta Suciedad",
-        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "Flaca",
-      "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
-    },
-    {
-      "added_at": "2022-07-06 19:49:25",
-      "album": {
         "name": "Canci\u00f3n Animal (Remastered)",
         "url": "https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 212746,
       "name": "De M\u00fasica Ligera - Remasterizado 2007",
       "url": "https://open.spotify.com/track/2lpIh6Gr6HYjg1CFBaucS5"
+    },
+    {
+      "added_at": "2022-07-06 19:49:25",
+      "album": {
+        "name": "Alta Suciedad",
+        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "Flaca",
+      "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
     },
     {
       "added_at": "2022-07-06 19:49:25",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
-        "name": "La Leyenda De La Mancha",
-        "url": "https://open.spotify.com/album/1Da87nj7hlkdRAh9Zf5jp7"
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
       },
       "artists": [
         {
-          "name": "M\u00e4go de Oz",
-          "url": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 251681,
-      "name": "Molinos De Viento",
-      "url": "https://open.spotify.com/track/19vhfSUgVJO2enJ6XidUGO"
+      "duration_ms": 349506,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/2FSYfKAApea3U42phhBOIc"
     },
     {
       "added_at": "2022-07-06 19:49:25",
@@ -267,18 +267,18 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
-        "name": "La Pachanga",
-        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+        "name": "La Leyenda De La Mancha",
+        "url": "https://open.spotify.com/album/1Da87nj7hlkdRAh9Zf5jp7"
       },
       "artists": [
         {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+          "name": "M\u00e4go de Oz",
+          "url": "https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu"
         }
       ],
-      "duration_ms": 349506,
-      "name": "Bye Bye",
-      "url": "https://open.spotify.com/track/2FSYfKAApea3U42phhBOIc"
+      "duration_ms": 251681,
+      "name": "Molinos De Viento",
+      "url": "https://open.spotify.com/track/19vhfSUgVJO2enJ6XidUGO"
     },
     {
       "added_at": "2022-07-06 19:49:25",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
-        "name": "El Amor Despu\u00e9s del Amor",
-        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 311893,
-      "name": "El amor despu\u00e9s del amor",
-      "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
-    },
-    {
-      "added_at": "2022-07-06 19:49:25",
-      "album": {
         "name": "Comfort Y Musica Para Volar",
         "url": "https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 247000,
       "name": "Te Para 3 - MTV Unplugged",
       "url": "https://open.spotify.com/track/2kMVxFh1y5gow2hBtqGO4m"
+    },
+    {
+      "added_at": "2022-07-06 19:49:25",
+      "album": {
+        "name": "El Amor Despu\u00e9s del Amor",
+        "url": "https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 311893,
+      "name": "El amor despu\u00e9s del amor",
+      "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
     },
     {
       "added_at": "2022-07-06 19:49:25",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "Para no olvidar",
-      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
-    },
-    {
-      "added_at": "2022-07-06 19:49:25",
-      "album": {
         "name": "La Danza De La Ciudad",
         "url": "https://open.spotify.com/album/44adPKDzweqAm43dx0zyIf"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 270933,
       "name": "Es por Ti",
       "url": "https://open.spotify.com/track/3NP8zp1RvnblXNsYiZrjd9"
+    },
+    {
+      "added_at": "2022-07-06 19:49:25",
+      "album": {
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "Para no olvidar",
+      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
     },
     {
       "added_at": "2022-07-06 19:49:25",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
-        "name": "Honestidad Brutal",
-        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Te quiero igual",
-      "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
-    },
-    {
-      "added_at": "2022-07-06 19:49:25",
-      "album": {
         "name": "Avalancha",
         "url": "https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 327426,
       "name": "La chispa adecuada (Bendecida 3)",
       "url": "https://open.spotify.com/track/4vkSJSyPddHwL7v3l1cuRf"
+    },
+    {
+      "added_at": "2022-07-06 19:49:25",
+      "album": {
+        "name": "Honestidad Brutal",
+        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Te quiero igual",
+      "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
     }
   ],
   "unique_name": "Rock en Espa\u00f1ol: Los 90",

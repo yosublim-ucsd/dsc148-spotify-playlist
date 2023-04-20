@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 192211,
       "name": "Ev'ry Time I Feel the Spirit",
       "url": "https://open.spotify.com/track/4UUhU4pwAW7TMve55d8TZ5"
@@ -1402,6 +1402,24 @@
       "duration_ms": 245453,
       "name": "Family First",
       "url": "https://open.spotify.com/track/2NChfZivH8n3vXH1EZjyLU"
+    },
+    {
+      "album": {
+        "name": "Say The Name",
+        "url": "https://open.spotify.com/album/1qWjCov4hNE6vWcKPFVx2r"
+      },
+      "artists": [
+        {
+          "name": "Martha Munizzi",
+          "url": "https://open.spotify.com/artist/0wiD0pcfAS8545DNHBcriR"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339266,
+      "name": "Filled With Praise",
+      "url": "https://open.spotify.com/track/1di3R7IYg5Ygxh8KTSCN0f"
     },
     {
       "album": {
@@ -1618,7 +1636,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 257293,
       "name": "Give Me A Clean Heart",
       "url": "https://open.spotify.com/track/4JqqDnj1bxS9anq6m6IPy0"
@@ -1726,7 +1744,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 379880,
       "name": "God Will Take Care of You",
       "url": "https://open.spotify.com/track/3wa382hrbEurJIXCLj5sxz"
@@ -1914,7 +1932,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 364066,
       "name": "Hallelujah, Salvation and Glory",
       "url": "https://open.spotify.com/track/3wtEG3QWtLk7nO8WjSrokl"
@@ -2030,7 +2048,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 329166,
       "name": "Highlight God (Poem)",
       "url": "https://open.spotify.com/track/7w7KI5de1BEQVmeq3nhLSR"
@@ -2048,7 +2066,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-18",
+      "date_removed": null,
       "duration_ms": 212173,
       "name": "His Eye Is On The Sparrow",
       "url": "https://open.spotify.com/track/65QGMwTh15KhXgqjSCIWSr"
@@ -2120,7 +2138,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 215066,
       "name": "HOLY PLACE - Bonus Track",
       "url": "https://open.spotify.com/track/3nmvckOmesTQpZGetNItCz"
@@ -2174,7 +2192,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 345560,
       "name": "I Almost Let Go",
       "url": "https://open.spotify.com/track/3VegDnuPzrXW4XhOVVbZ1N"
@@ -2322,7 +2340,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 286880,
       "name": "I Know The Lord Will Make A Way",
       "url": "https://open.spotify.com/track/6CP6FOT5uRhGojUP0gupM0"
@@ -2462,7 +2480,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 286486,
       "name": "I Stand All Amazed - Live",
       "url": "https://open.spotify.com/track/5G74ieDqpEJZJe3V7yLxBH"
@@ -2534,7 +2552,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 213733,
       "name": "I Wish I Knew How It Feels to be Free",
       "url": "https://open.spotify.com/track/2mZ9Iw0rl6JmBkzrI3B979"
@@ -2744,7 +2762,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 253080,
       "name": "I've Got My Mind Made Up",
       "url": "https://open.spotify.com/track/17oXlnuKTi3Jqd8OBs4hfk"
@@ -2928,7 +2946,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 281933,
       "name": "It's in Jesus",
       "url": "https://open.spotify.com/track/3Jx03tVctQUhfCDGwQqR3P"
@@ -3588,7 +3606,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 62000,
       "name": "Loving Father",
       "url": "https://open.spotify.com/track/4LOiSOxdMM7LwENsMbOwRW"
@@ -4022,7 +4040,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 461800,
       "name": "My Help",
       "url": "https://open.spotify.com/track/0W8RhOqOvJdZNPYSgaxhSn"
@@ -4130,7 +4148,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 183968,
       "name": "O Come O Come Emmanuel",
       "url": "https://open.spotify.com/track/7hicYsdPGS2EQUlqXalwti"
@@ -4148,7 +4166,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 288170,
       "name": "O Come, O Come, Emmanuel",
       "url": "https://open.spotify.com/track/0H8q5GTEcBiRWhUNqflHS4"
@@ -4170,7 +4188,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 304373,
       "name": "Oh It Is Jesus",
       "url": "https://open.spotify.com/track/6jrBiDvxmrRecURfqE29fB"
@@ -4228,7 +4246,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 100133,
       "name": "On The Lord's Day",
       "url": "https://open.spotify.com/track/03wYhrhIi6qe8M3yn2DgdN"
@@ -4488,7 +4506,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 252040,
       "name": "Praise Be to God",
       "url": "https://open.spotify.com/track/0DSfZkykYvttb2zpZs0I0Z"
@@ -4860,7 +4878,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 418847,
       "name": "Settle Here - Full Version",
       "url": "https://open.spotify.com/track/5hQe5wNiuyTrSHmr30axSY"
@@ -5208,7 +5226,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 245179,
       "name": "Steal Away",
       "url": "https://open.spotify.com/track/6CROnOFJoxamFfIWCWFcje"
@@ -5324,7 +5342,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 307960,
       "name": "Sunday Best Medley 1",
       "url": "https://open.spotify.com/track/1AUuZwDpStVoX557mfssY1"
@@ -5342,7 +5360,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-18",
+      "date_removed": null,
       "duration_ms": 208400,
       "name": "Swing Low Street Chariot",
       "url": "https://open.spotify.com/track/39dKSYYC02JQdxnPHblfE7"
@@ -5837,6 +5855,28 @@
     },
     {
       "album": {
+        "name": "Play (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/50ke6e7oCuoIAxcHFjuDXz"
+      },
+      "artists": [
+        {
+          "name": "Mikael Karlsson",
+          "url": "https://open.spotify.com/artist/1XNtgBboL5YQGHqM8zFFDx"
+        },
+        {
+          "name": "Callie Day",
+          "url": "https://open.spotify.com/artist/7rq2boa3cUriEls0PJedCH"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401500,
+      "name": "This Is How I'm Telling It Now",
+      "url": "https://open.spotify.com/track/2V657fsNLpR0Fg6jafgJPA"
+    },
+    {
+      "album": {
         "name": "Brand New",
         "url": "https://open.spotify.com/album/5YALaUtpVJLkSs1oga600L"
       },
@@ -5852,6 +5892,28 @@
       "duration_ms": 178330,
       "name": "This Is The Day",
       "url": "https://open.spotify.com/track/27GLPV8dXnq3o0iiSX0okd"
+    },
+    {
+      "album": {
+        "name": "Play (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/50ke6e7oCuoIAxcHFjuDXz"
+      },
+      "artists": [
+        {
+          "name": "Mikael Karlsson",
+          "url": "https://open.spotify.com/artist/1XNtgBboL5YQGHqM8zFFDx"
+        },
+        {
+          "name": "Callie Day",
+          "url": "https://open.spotify.com/artist/7rq2boa3cUriEls0PJedCH"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436874,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/3qrQELneT3DYFHorpigLwI"
     },
     {
       "album": {
@@ -6021,6 +6083,24 @@
     },
     {
       "album": {
+        "name": "Falling In Love With Jesus",
+        "url": "https://open.spotify.com/album/4kBNDatwfUrALoLHIiZ21m"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Butler",
+          "url": "https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299426,
+      "name": "We Need You Lord - Falling In Love With Jesus Album Version",
+      "url": "https://open.spotify.com/track/2CeQtTJ95InlUHfQVqSdvK"
+    },
+    {
+      "album": {
         "name": "We Speak Of The Realms",
         "url": "https://open.spotify.com/album/5zZqAeZgQJNtIbdbrb3IDp"
       },
@@ -6102,7 +6182,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-12",
+      "date_removed": null,
       "duration_ms": 151573,
       "name": "What A Beautiful Name - A Cappella Version",
       "url": "https://open.spotify.com/track/2J2pgeCxen6pU1Zm7bXjWb"
@@ -6293,6 +6373,28 @@
     },
     {
       "album": {
+        "name": "Play (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/50ke6e7oCuoIAxcHFjuDXz"
+      },
+      "artists": [
+        {
+          "name": "Mikael Karlsson",
+          "url": "https://open.spotify.com/artist/1XNtgBboL5YQGHqM8zFFDx"
+        },
+        {
+          "name": "Callie Day",
+          "url": "https://open.spotify.com/artist/7rq2boa3cUriEls0PJedCH"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305000,
+      "name": "Years and Years",
+      "url": "https://open.spotify.com/track/3znZxD0rkQIb2XyTD92JzD"
+    },
+    {
+      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/0uRRKhw2Y7ulIWbSqSUuW2"
       },
@@ -6322,7 +6424,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 214600,
       "name": "You Amaze Me - I Just Want You Album Version",
       "url": "https://open.spotify.com/track/3LhV1K7c2PtAdmEdANSLxd"
@@ -6416,7 +6518,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 276250,
       "name": "Your Glory (Have Your Way)",
       "url": "https://open.spotify.com/track/55kMx9E9g05z6cBzNl4Wdv"

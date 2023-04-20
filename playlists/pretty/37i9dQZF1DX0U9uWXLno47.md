@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 
 > Clásicos que no sabías que eran covers para disfrutar con papá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,229 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,256 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 64 | [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 |
 | 65 | [Dancing with Myself \- Single Version](https://open.spotify.com/track/5ABwsrPHOZJTwYzOdd7huO) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Dancing with Myself](https://open.spotify.com/album/2YAvjBR8meBp1k5CpaTINc) | 3:27 |
 | 66 | [Jolene \- Live](https://open.spotify.com/track/1rn3RdftgRiJOsJEpOyn0Q) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Under Great White Northern Lights \(Live\)](https://open.spotify.com/album/5LUyvB9pUPm4Lrgt1Go53W) | 3:54 |
-| 67 | [Can't Help Falling in Love](https://open.spotify.com/track/5bLWWo2SeuRzwnfVOms336) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Resistance Radio: The Man in the High Castle Album](https://open.spotify.com/album/3Dn3xwT7mCdnG81G6iMMEJ) | 3:13 |
+| 67 | [Let's Spend the Night Together \- 2013 Remaster](https://open.spotify.com/track/0Mxo6w8hWMwDN2C0eygceO) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Aladdin Sane \(2013 Remaster\)](https://open.spotify.com/album/3HZKOk1knxrUU3y5ZIOdbz) | 3:10 |
 | 68 | [Les Cactus](https://open.spotify.com/track/4Wg7fFccdDBL1sJGiu14w7) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:20 |
-| 69 | [Let's Spend the Night Together \- 2013 Remaster](https://open.spotify.com/track/0Mxo6w8hWMwDN2C0eygceO) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Aladdin Sane \(2013 Remaster\)](https://open.spotify.com/album/3HZKOk1knxrUU3y5ZIOdbz) | 3:10 |
+| 69 | [Can't Help Falling in Love](https://open.spotify.com/track/5bLWWo2SeuRzwnfVOms336) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Resistance Radio: The Man in the High Castle Album](https://open.spotify.com/album/3Dn3xwT7mCdnG81G6iMMEJ) | 3:13 |
 | 70 | [Perfect Day](https://open.spotify.com/track/0sRzDwpSHxPDhpB9yKlTaq) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Thank You](https://open.spotify.com/album/2XIlp6UgHAQYNg3OTtoD54) | 3:50 |
 | 71 | [Grease](https://open.spotify.com/track/0fJleeHFEPJaPQLQYw5DT5) | [Flo Morrissey](https://open.spotify.com/artist/3qM2kgxt87sXgP2ytxZZv2), [Matthew E\. White](https://open.spotify.com/artist/58mMrwemoGIcDpvfHe46u4) | [Gentlewoman, Ruby Man](https://open.spotify.com/album/6CNgs4YV5rxsOjADfpUCg3) | 4:21 |
 | 72 | [Zombie](https://open.spotify.com/track/1oPMTvVb57KNBV354DxsX9) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [The City Holds My Heart](https://open.spotify.com/album/0YCSQTk2QkPkHVHeGo1Pbu) | 3:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 74 | [Killing Me Softly](https://open.spotify.com/track/33JtNLiczBlcVTAzxRqXEv) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [India Carney](https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy) | [Nu Funk](https://open.spotify.com/album/4m0tTmOODI4Is44HefPOYk) | 3:20 |
 | 75 | [Mercy Mercy Me \(The Ecology\)](https://open.spotify.com/track/49jMdoagrgo0PUc6DkVaZV) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [You Only Live Once/Mercy Mercy Me](https://open.spotify.com/album/7jbQIpfQZTVBn8J7FzMyaF) | 2:37 |
 
-Snapshot ID: `MTYzNTUyNTA3NiwwMDAwMDAwMGVkZTllMzAzMmMzMjM4NDY1YTZiZWZmNjY2ZGY0OGZi`
+Snapshot ID: `MTYzNTUyNTA3NiwwMDAwMDAwMDgxOGEyMmYxMGFhMWE0YWUwMjJmMjEwYmIwNGJkMzlj`

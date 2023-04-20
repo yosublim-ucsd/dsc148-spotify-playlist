@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 7396,
+  "num_followers": 7421,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MzY1OCwwMDAwMDAwMDUxNzExMDlmMjg4Njk3NzIxYWFhNWRkZGM4MTkyYjUw",
+  "snapshot_id": "MTY4MTQ1MzY1OCwwMDAwMDAwMGJiZDBhMTE4OGFmMmFhZjQzMWJkNTFhYTRhMzA3ZTIx",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "When God Ran",
+        "url": "https://open.spotify.com/album/49A6zoKKgvWWT8HGHPzXR9"
+      },
+      "artists": [
+        {
+          "name": "Kingsmen",
+          "url": "https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX"
+        }
+      ],
+      "duration_ms": 312746,
+      "name": "When God Ran",
+      "url": "https://open.spotify.com/track/78bkWzaZ616DTt9HdkM0MN"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Songs for the Times",
         "url": "https://open.spotify.com/album/37dXrupCMdsgBbOWlOy55U"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 205506,
       "name": "Lift up His Name",
       "url": "https://open.spotify.com/track/23a025gnBl8S0b7Cb9Bz0S"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "When God Ran",
-        "url": "https://open.spotify.com/album/49A6zoKKgvWWT8HGHPzXR9"
-      },
-      "artists": [
-        {
-          "name": "Kingsmen",
-          "url": "https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX"
-        }
-      ],
-      "duration_ms": 312746,
-      "name": "When God Ran",
-      "url": "https://open.spotify.com/track/78bkWzaZ616DTt9HdkM0MN"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -591,18 +591,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Not For Long",
-        "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
+        "name": "Scars In Heaven",
+        "url": "https://open.spotify.com/album/1mbbSaw8XRvdqO4o8T8ZNg"
       },
       "artists": [
         {
-          "name": "The Guardians",
-          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
+          "name": "The Nelons",
+          "url": "https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn"
         }
       ],
-      "duration_ms": 230013,
-      "name": "Not For Long",
-      "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
+      "duration_ms": 269840,
+      "name": "Scars In Heaven",
+      "url": "https://open.spotify.com/track/0FjQGUbhPf6xxHEHnPians"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Scars In Heaven",
-        "url": "https://open.spotify.com/album/1mbbSaw8XRvdqO4o8T8ZNg"
+        "name": "Not For Long",
+        "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
       },
       "artists": [
         {
-          "name": "The Nelons",
-          "url": "https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn"
+          "name": "The Guardians",
+          "url": "https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo"
         }
       ],
-      "duration_ms": 269840,
-      "name": "Scars In Heaven",
-      "url": "https://open.spotify.com/track/0FjQGUbhPf6xxHEHnPians"
+      "duration_ms": 230013,
+      "name": "Not For Long",
+      "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Front Porch Singin'",
-        "url": "https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY"
-      },
-      "artists": [
-        {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
-        }
-      ],
-      "duration_ms": 108145,
-      "name": "Rock My Soul",
-      "url": "https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Shut Him Up",
         "url": "https://open.spotify.com/album/5jGJlGqQP8CNZhzx4ddMqU"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Front Porch Singin'",
+        "url": "https://open.spotify.com/album/41ueL4w9hoGodvfWHjLfCY"
+      },
+      "artists": [
+        {
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+        }
+      ],
+      "duration_ms": 108145,
+      "name": "Rock My Soul",
+      "url": "https://open.spotify.com/track/6bb7yezS8C4RwLbWKDtiAN"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Favorites: On Repeat",
         "url": "https://open.spotify.com/album/7GnVw92Aav72gGVMpG0aXM"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/2YUHflr83aTEzmqzpAWH57"
-      },
-      "artists": [
-        {
-          "name": "Ernie Haase & Signature Sound",
-          "url": "https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0"
-        }
-      ],
-      "duration_ms": 218655,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1psN7GabVAeaBo0lTaDNUM"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Love Is the Voice",
         "url": "https://open.spotify.com/album/2CHhug02gOUxNAlahCkdMR"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 165613,
       "name": "God, Do it Again",
       "url": "https://open.spotify.com/track/2S5MGYMortUR7BQO133k6o"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/2YUHflr83aTEzmqzpAWH57"
+      },
+      "artists": [
+        {
+          "name": "Ernie Haase & Signature Sound",
+          "url": "https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0"
+        }
+      ],
+      "duration_ms": 218655,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1psN7GabVAeaBo0lTaDNUM"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Brighten The Corner Where You Are (Radio Edit)",
+        "url": "https://open.spotify.com/album/7tpVNdsEnSWj30uRodyS4y"
+      },
+      "artists": [
+        {
+          "name": "The Browns",
+          "url": "https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb"
+        }
+      ],
+      "duration_ms": 149545,
+      "name": "Brighten The Corner Where You Are - Radio Edit",
+      "url": "https://open.spotify.com/track/0rnHhaqD3Rpu7P7sIktSji"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Find My Joy",
         "url": "https://open.spotify.com/album/0dM55Mul4BUtsZ6zDBEhWN"
       },
@@ -951,18 +967,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Brighten The Corner Where You Are (Radio Edit)",
-        "url": "https://open.spotify.com/album/7tpVNdsEnSWj30uRodyS4y"
+        "name": "In a Moment",
+        "url": "https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe"
       },
       "artists": [
         {
-          "name": "The Browns",
-          "url": "https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb"
+          "name": "Hebron Road",
+          "url": "https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51"
         }
       ],
-      "duration_ms": 149545,
-      "name": "Brighten The Corner Where You Are - Radio Edit",
-      "url": "https://open.spotify.com/track/0rnHhaqD3Rpu7P7sIktSji"
+      "duration_ms": 306462,
+      "name": "Every Other Throne",
+      "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -979,22 +995,6 @@
       "duration_ms": 157500,
       "name": "Pass Me Not Oh Gentle Saviour",
       "url": "https://open.spotify.com/track/6vgQpJaxOKsgLgZLzMI3kq"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "In a Moment",
-        "url": "https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe"
-      },
-      "artists": [
-        {
-          "name": "Hebron Road",
-          "url": "https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51"
-        }
-      ],
-      "duration_ms": 306462,
-      "name": "Every Other Throne",
-      "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Music To Your Ears",
-        "url": "https://open.spotify.com/album/562jKxonJvoxeSRUj8AQfh"
-      },
-      "artists": [
-        {
-          "name": "The Old Paths",
-          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Let the Rain Wash Your Troubles Away",
-      "url": "https://open.spotify.com/track/3RWZ0NduK2C8Mn8EpyE8YR"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "These Are The Days",
         "url": "https://open.spotify.com/album/4NLFC87jCshYTUAz3hbhP6"
       },
@@ -1115,6 +1099,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Music To Your Ears",
+        "url": "https://open.spotify.com/album/562jKxonJvoxeSRUj8AQfh"
+      },
+      "artists": [
+        {
+          "name": "The Old Paths",
+          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Let the Rain Wash Your Troubles Away",
+      "url": "https://open.spotify.com/track/3RWZ0NduK2C8Mn8EpyE8YR"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "The Lighthouse (50 Year Celebration)",
         "url": "https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE"
       },
@@ -1127,6 +1127,22 @@
       "duration_ms": 262212,
       "name": "The Lighthouse - 50 Year Celebration",
       "url": "https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "The World Needs a Song",
+        "url": "https://open.spotify.com/album/4E9MITR2tZPyaUOPQpmUOJ"
+      },
+      "artists": [
+        {
+          "name": "The Lore Family",
+          "url": "https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94"
+        }
+      ],
+      "duration_ms": 191056,
+      "name": "The World Needs a Song",
+      "url": "https://open.spotify.com/track/2m03vLyMsBkWaEYwJOfP5T"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1195,18 +1211,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "The World Needs a Song",
-        "url": "https://open.spotify.com/album/4E9MITR2tZPyaUOPQpmUOJ"
+        "name": "How Good The Good News Feels",
+        "url": "https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq"
       },
       "artists": [
         {
-          "name": "The Lore Family",
-          "url": "https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94"
+          "name": "The Old Paths",
+          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
         }
       ],
-      "duration_ms": 191056,
-      "name": "The World Needs a Song",
-      "url": "https://open.spotify.com/track/2m03vLyMsBkWaEYwJOfP5T"
+      "duration_ms": 202000,
+      "name": "How Good The Good News Feels",
+      "url": "https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1227,34 +1243,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "How Good The Good News Feels",
-        "url": "https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq"
+        "name": "Lord's Prayer",
+        "url": "https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs"
       },
       "artists": [
         {
-          "name": "The Old Paths",
-          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
+          "name": "Lauren Talley",
+          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
         }
       ],
-      "duration_ms": 202000,
-      "name": "How Good The Good News Feels",
-      "url": "https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "I Don't Belong",
-        "url": "https://open.spotify.com/album/2HNsusLhbziwmwMfBMI6tC"
-      },
-      "artists": [
-        {
-          "name": "The Talleys",
-          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
-        }
-      ],
-      "duration_ms": 291693,
-      "name": "I Don't Belong",
-      "url": "https://open.spotify.com/track/2b83n18SCOfBVHSAXUdFr7"
+      "duration_ms": 235328,
+      "name": "Lord's Prayer",
+      "url": "https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Lord's Prayer",
-        "url": "https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs"
+        "name": "I Don't Belong",
+        "url": "https://open.spotify.com/album/2HNsusLhbziwmwMfBMI6tC"
       },
       "artists": [
         {
-          "name": "Lauren Talley",
-          "url": "https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg"
+          "name": "The Talleys",
+          "url": "https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC"
         }
       ],
-      "duration_ms": 235328,
-      "name": "Lord's Prayer",
-      "url": "https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v"
+      "duration_ms": 291693,
+      "name": "I Don't Belong",
+      "url": "https://open.spotify.com/track/2b83n18SCOfBVHSAXUdFr7"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Heritage, Vol. 3",
-        "url": "https://open.spotify.com/album/0wIeWAZrhLbGPCluMkqHwh"
+        "name": "Every Story Whispers His Name",
+        "url": "https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl"
       },
       "artists": [
         {
-          "name": "Legacy Five",
-          "url": "https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk"
+          "name": "The Old Paths",
+          "url": "https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG"
         }
       ],
-      "duration_ms": 154932,
-      "name": "Praise Medley",
-      "url": "https://open.spotify.com/track/0Cnh0PW9Et6wJ1hXtZz0Pm"
+      "duration_ms": 235000,
+      "name": "Every Story Whispers His Name",
+      "url": "https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m"
     }
   ],
   "unique_name": "Streets Of Gold",

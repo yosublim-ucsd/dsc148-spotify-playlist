@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Lo mejor del mariachi en vivo\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,801 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,851 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 21 | [El Rey \- En Vivo](https://open.spotify.com/track/7KQJyqHkmOk6LTf9OtooYc) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:21 |
 | 22 | [Tu A Mi No Me Hundes \- En Vivo Desde Bellas Artes, México/ 2013](https://open.spotify.com/track/6fl2z7exv5Y8NybcTtYpkJ) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mis 40 En Bellas Artes \(En Vivo Desde Bellas Artes, México/ 2013\)](https://open.spotify.com/album/7AP8musNODGGdC8MSGa7or) | 3:38 |
 | 23 | [Estos Celos \- En Vivo](https://open.spotify.com/track/1bHfUhyFqo6toBM3YMvG8I) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Primera Fila](https://open.spotify.com/album/4eW3alaXA3prOOUAAusU2B) | 4:52 |
-| 24 | [Lagrimas De Mi Barrio](https://open.spotify.com/track/1truaQTkNL4lYhvftIdAHC) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Lagrimas De Mi Barrio](https://open.spotify.com/album/0PBvPrRurEqazN5SRhnZUT) | 3:15 |
+| 24 | [Perfume de Gardenias \(feat\. Mariachi Vargas de Tecatitlán\) \- En Vivo](https://open.spotify.com/track/7xVYUYqCGbsEoxfVHrZQqU) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Mariachi, Voces y Cuerdas \(Concierto En Vivo\)](https://open.spotify.com/album/4uMlrzJ7CVJIRtHEzPK5sb) | 3:45 |
 | 25 | [Popurrí Bravío](https://open.spotify.com/track/2zCjnGQFGWDEmiGPqcbYZC) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Un Canto de México: Alejandro Fernández en Vivo desde Bellas Artes](https://open.spotify.com/album/7b0VncFO0NxyndB5MMa9mo) | 9:03 |
 | 26 | [Propuesta \- En Vivo](https://open.spotify.com/track/4Zl5AKUay474fVyY9Rop7y) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [La Reina Canta A Mexico](https://open.spotify.com/album/1IRYnt0nIw8IEf7bDiJOVj) | 3:29 |
-| 27 | [Perfume de Gardenias \(feat\. Mariachi Vargas de Tecatitlán\) \- En Vivo](https://open.spotify.com/track/7xVYUYqCGbsEoxfVHrZQqU) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Mariachi, Voces y Cuerdas \(Concierto En Vivo\)](https://open.spotify.com/album/4uMlrzJ7CVJIRtHEzPK5sb) | 3:45 |
+| 27 | [Lagrimas De Mi Barrio](https://open.spotify.com/track/1truaQTkNL4lYhvftIdAHC) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Lagrimas De Mi Barrio](https://open.spotify.com/album/0PBvPrRurEqazN5SRhnZUT) | 3:15 |
 | 28 | [El Rey](https://open.spotify.com/track/4ttexpvsnPqqnPxSTH3roN) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida \(Vol\. 3\)](https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc) | 2:09 |
 | 29 | [Eso Y Más \- En Vivo](https://open.spotify.com/track/5pyDbFYIStAPuJ94QSliVc) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Último Jaripeo \(En Vivo\)](https://open.spotify.com/album/3j2h6UwTZiyj2QQe3Vrvzc) | 2:37 |
 | 30 | [La Diferencia \- En Vivo Desde Bellas Artes, México/ 2013](https://open.spotify.com/track/5qjWsZ8kudvaVKG2g0cRvz) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mis 40 En Bellas Artes \(En Vivo Desde Bellas Artes, México/ 2013\)](https://open.spotify.com/album/7AP8musNODGGdC8MSGa7or) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6kTuqlKpqS9.md) - [plain]
 | 74 | [Viva México / Guadalajara \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/1dGhp7hbHWFhYSzJDITEl8) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI) | 2:58 |
 | 75 | [Tristes Recuerdos \- En Vivo](https://open.spotify.com/track/4pILiOmw8YQpcxH7XCVJO9) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Enamorada En Vivo](https://open.spotify.com/album/0KwekhZvggPoJpp7a8Y6GJ) | 4:50 |
 
-Snapshot ID: `MTY0MDgxOTcxOSwwMDAwMDAwMDBkYTRhYWE1ZWUxYTIwNzMzMGY0NGQwMDhkODE4YWRm`
+Snapshot ID: `MTY0MDgxOTcxOSwwMDAwMDAwMDJjYmIxNzcwYjhiZWFhYWJlMjI1MzgyYWExY2RlMGUz`

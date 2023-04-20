@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 
 > Estas damas sí que tienen carácter\. Yuridia en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,912 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,021 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 24 | [Me Gustas Mucho](https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:04 |
 | 25 | [Mi Destino Fue Quererte](https://open.spotify.com/track/2kBbwQgrKtdMLxcU5smeki) | [Flor Silvestre](https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO) | [15 Éxitos](https://open.spotify.com/album/79F61mmAS90ugXB0J1vQMg) | 3:30 |
 | 26 | [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 |
-| 27 | [Una Llamada Perdida](https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Alquimia](https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq) | 3:21 |
+| 27 | [Me Gustas Mucho](https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 2:50 |
 | 28 | [Esta situación](https://open.spotify.com/track/1iR35eXxKgIxk1NFM83oZo) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 2:27 |
-| 29 | [Me Gustas Mucho](https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 2:50 |
+| 29 | [Una Llamada Perdida](https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF) | [María León](https://open.spotify.com/artist/132xFnGXTZoDfZWuMDE4tc), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Alquimia](https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq) | 3:21 |
 | 30 | [Tres Veces Te Engañe](https://open.spotify.com/track/6M2koULBQ62nB9I3Jn65pT) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7) | [Tres Veces Te Engañe](https://open.spotify.com/album/44iozSokPrk5ZiyYuRGsTz) | 3:19 |
 | 31 | [Las Cuentas Claras](https://open.spotify.com/track/1mL8fjDIE2TrtAlrZKRtK8) | [Chelo](https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne) | [Éxitos Rancheros](https://open.spotify.com/album/4vQAJUbKWHZHQJq6ip1sdG) | 3:32 |
 | 32 | [Quiero Un Amor](https://open.spotify.com/track/1WMXbzmkyrKPHFQlhtJjoM) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Se Canta Con El Corazón](https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd) | 3:13 |
@@ -72,15 +72,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 62 | [No Te Apartes De Mí](https://open.spotify.com/track/7s2vND0qEFZBWr7Z7VAhFI) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Te Apartes De Mí](https://open.spotify.com/album/4vZEQj9Y4lmnz7Vq8fk9QJ) | 3:59 |
 | 63 | [Tú a Mí No Me Hundes](https://open.spotify.com/track/6aNDj2s5dWkVaQzL8Lelhy) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 3:03 |
 | 64 | [Potpourrí ranchero \(Copitas de mezcal, La tequilera, La charreada\)](https://open.spotify.com/track/3pTc8iglU79rMrTkI2fS22) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 3:44 |
-| 65 | [Llamarada](https://open.spotify.com/track/6qYWKAPbT2HLYEZ4UQDy3r) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:17 |
+| 65 | [Con Mis Propias Manos](https://open.spotify.com/track/0TMapOJ7zkHYuZax2ZuKnB) | [Flor Silvestre](https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO) | [Tú Sigues Siendo El Mismo](https://open.spotify.com/album/5Jhz8VVmhpVNi7uPuJBNXp) | 2:42 |
 | 66 | [Cuando Caiga la Noche](https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuando Caiga la Noche](https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU) | 3:21 |
-| 67 | [Con Mis Propias Manos](https://open.spotify.com/track/0TMapOJ7zkHYuZax2ZuKnB) | [Flor Silvestre](https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO) | [Tú Sigues Siendo El Mismo](https://open.spotify.com/album/5Jhz8VVmhpVNi7uPuJBNXp) | 2:42 |
+| 67 | [Llamarada](https://open.spotify.com/track/6qYWKAPbT2HLYEZ4UQDy3r) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:17 |
 | 68 | [Antes De Que Te Vayas](https://open.spotify.com/track/498fdwkzeRwPdel1x4MIxS) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Antes De Que Te Vayas](https://open.spotify.com/album/1EKiL2kPdSJ511TaHy7IDD) | 4:31 |
-| 69 | [Fallaste Corazón](https://open.spotify.com/track/3HYf9vCyDkA3JkVWp9RwxH) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O) | 4:44 |
-| 70 | [Cielo Rojo \- Duet Version](https://open.spotify.com/track/5p6n8kvFV22SN20xwawZB5) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY), [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Por Amor A México](https://open.spotify.com/album/6EHM8eB3PTm9hVHAJtJlPj) | 3:35 |
+| 69 | [Cielo Rojo \- Duet Version](https://open.spotify.com/track/5p6n8kvFV22SN20xwawZB5) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY), [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Por Amor A México](https://open.spotify.com/album/6EHM8eB3PTm9hVHAJtJlPj) | 3:35 |
+| 70 | [Fallaste Corazón](https://open.spotify.com/track/3HYf9vCyDkA3JkVWp9RwxH) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O) | 4:44 |
 | 71 | [Te Solté La Rienda](https://open.spotify.com/track/6x6IUdWGMh5N3Is2WjmLcE) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Interpreta a José Alfredo Jimenez](https://open.spotify.com/album/1Weu2CZyvIIvuSZ9RAPJHF) | 2:53 |
-| 72 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
-| 73 | [Entiende Que Ya](https://open.spotify.com/track/6LaHhcm92gEEO2CYxUJ340) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Entiende Que Ya](https://open.spotify.com/album/2Djw2FPXQABcAuF56np2CJ) | 2:47 |
+| 72 | [Entiende Que Ya](https://open.spotify.com/track/6LaHhcm92gEEO2CYxUJ340) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Entiende Que Ya](https://open.spotify.com/album/2Djw2FPXQABcAuF56np2CJ) | 2:47 |
+| 73 | [Desaires](https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto) | [Laraim](https://open.spotify.com/artist/4r5HNge7RwUJq7U9B6xDFt), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Pa' Los Dolidos](https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi) | 2:41 |
 | 74 | [El Herradero](https://open.spotify.com/track/0eruhuXt2G3Vp539IAL0KA) | [Angeles Ochoa](https://open.spotify.com/artist/2prMnWB5tOQxIU1tUlqAnu) | [Divas Rancheras](https://open.spotify.com/album/4jNImotbdAKoAebE11pAaM) | 3:26 |
 | 75 | [Ve Y Dile](https://open.spotify.com/track/62ti3cFKZggfuTMbwLyWON) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Sin Ti](https://open.spotify.com/album/74VXUYRzYUPpeEhYhVvqsn) | 3:00 |
 | 76 | [Échame a Mí la Culpa](https://open.spotify.com/track/4QJsxMItrRbvn05gGuf0CZ) | [Amalia Mendoza](https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC) | [Los Exitos De Amalia Mendoza](https://open.spotify.com/album/6nryFiduM55GeJxDc7dzNl) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdC7eRcOJUCw.md) - [plain]
 | 99 | [Un Mundo Raro](https://open.spotify.com/track/3zVKulPXU2MxM6UPItu1Ri) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Un Mundo Raro](https://open.spotify.com/album/56LrNumPVbrJ5Vqnuor0mb) | 2:41 |
 | 100 | [Amor de un Rato](https://open.spotify.com/track/6VenhGZLU1sw7I4qkh30ln) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/4You1BWzCuVqMqDuxW7Bkl) | 4:32 |
 
-Snapshot ID: `MTY3Nzg2MzI4NSwwMDAwMDAwMDE2YWM3NjIwZjE5OGU1ODRiZjUzNDNhYTQ2Nzc0NTdm`
+Snapshot ID: `MTY3Nzg2MzI4NSwwMDAwMDAwMDBlNjgwMTI1Nzg0Y2E2MDFiNmY1MTFjNzNiNTUwZDAz`

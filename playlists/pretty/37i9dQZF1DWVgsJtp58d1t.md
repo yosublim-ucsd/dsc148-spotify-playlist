@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,098 likes - 101 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,162 likes - 101 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 64 | [Kissing On Your Tattoos](https://open.spotify.com/track/0WdifxR7rIz3kI2Qhv0C7H) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [Kissing On Your Tattoos](https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN) | 2:33 |
 | 65 | [WE ACTIVE \(feat\. YFN Lucci\)](https://open.spotify.com/track/1TzAC0hcnCp8aauuDt8fKN) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP) | [Kollect Kall](https://open.spotify.com/album/1l93oDZaNAsTF0GqsRa3m0) | 2:38 |
 | 66 | [This Summer](https://open.spotify.com/track/2PoV6mOIsOq6grbC4a0ZNz) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [This Summer](https://open.spotify.com/album/6EGh6ELzd8b0gM9V3KH8XC) | 2:21 |
-| 67 | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/track/0IT1pmbYjQjoU0IUMVZ6XU) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/album/5l1oWPwn5OqgbbBLyCrU05) | 2:52 |
+| 67 | [For Granted \(feat\. Arin Ray\)](https://open.spotify.com/track/39RJfDkli3BkEsW6LN4DrZ) | [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Enigmatic Society](https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe) | 2:52 |
 | 68 | [One Touch](https://open.spotify.com/track/6DURQC9m8Rt8SjL4ZKp0Eq) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/4VCCLsmrSghXSM8dxyhVWo) | 3:00 |
 | 69 | [Big Money](https://open.spotify.com/track/4TVhyPsVcbNP2xZcmnSZrN) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Meyhem Lauren](https://open.spotify.com/artist/4lph4e07jjlKkioG1bQx95), [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS) | [Champagne For Breakfast](https://open.spotify.com/album/5pA2URj3rPHWDoSnInQpjD) | 3:25 |
 | 70 | [Aint Got Time](https://open.spotify.com/track/3l7tZsu3paLDT1iVy1XiSl) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Aint Got Time](https://open.spotify.com/album/1ao8jKjlX1V1nsWgnW7eJg) | 2:49 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 100 | [ascendent \(mother fxcker\)](https://open.spotify.com/track/6uAWmu9PkZ7l7OAVeQljus) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [Exaktly](https://open.spotify.com/artist/1MRB7UrVK6DvvefA7pAqS8) | [Exodus the North Star](https://open.spotify.com/album/6ygmB4X6ejHZQcpNfxC8um) | 2:38 |
 | 101 | [Standards](https://open.spotify.com/track/5m0X50W9ga5qghnXzeKNSe) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [Standards](https://open.spotify.com/album/4LKUDSVzFa5P0CiOXtJNEJ) | 3:06 |
 
-Snapshot ID: `MTY4MTQ0Njg5OCwwMDAwMDAwMDViNGRmM2QyMTRmZDY0Y2ZjMzVkYjQ2MjI4NmYzZmY0`
+Snapshot ID: `MTY4MTQ0Njg5OCwwMDAwMDAwMDU3OWVmYjZlMzMwMWQ1NjkyNzY0YzdhNmRjMjY4NmEz`

@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 25978,
+  "num_followers": 26001,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMDgzOThiZDRmMzAxOTVmZThjYmZkZmNkZDI1MjQwZDUx",
+  "snapshot_id": "MTYzMzcxNDU5NSwwMDAwMDAwMDg2N2E3NzEwNGJjNGE3MzdjYmY4ZmQ3NGJlYTQyOTIy",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -427,6 +427,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Equinox",
+        "url": "https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h"
+      },
+      "artists": [
+        {
+          "name": "Jane Maximova",
+          "url": "https://open.spotify.com/artist/1rV8eRHOV685BeNEa59lyt"
+        }
+      ],
+      "duration_ms": 298208,
+      "name": "Puppets",
+      "url": "https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "To the Disco '77 (Live Rework)",
         "url": "https://open.spotify.com/album/6a5zxWkfXH3jcXrjmdGSn2"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 594714,
       "name": "Leaves",
       "url": "https://open.spotify.com/track/4lGXye7yRWuhEb8jyaAYc2"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Equinox",
-        "url": "https://open.spotify.com/album/3GnAPmVrTXfY0Fr5Hqxr2h"
-      },
-      "artists": [
-        {
-          "name": "Jane Maximova",
-          "url": "https://open.spotify.com/artist/1rV8eRHOV685BeNEa59lyt"
-        }
-      ],
-      "duration_ms": 298208,
-      "name": "Puppets",
-      "url": "https://open.spotify.com/track/3xMALoXxfRhXggfUQGuStD"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -487,22 +487,6 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Fate",
-        "url": "https://open.spotify.com/album/5Q7sdzeTeHALXAD82aPs0G"
-      },
-      "artists": [
-        {
-          "name": "Mark Hawkins",
-          "url": "https://open.spotify.com/artist/6BDLwOIauGwERNYxaOciyq"
-        }
-      ],
-      "duration_ms": 331409,
-      "name": "Fate",
-      "url": "https://open.spotify.com/track/41FTrubQViaFrV6wNgf7M9"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
         "name": "Small Moments",
         "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 327231,
       "name": "Rainbow Road",
       "url": "https://open.spotify.com/track/2R9lqoximtsPHmnuvj3ptd"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Fate",
+        "url": "https://open.spotify.com/album/5Q7sdzeTeHALXAD82aPs0G"
+      },
+      "artists": [
+        {
+          "name": "Mark Hawkins",
+          "url": "https://open.spotify.com/artist/6BDLwOIauGwERNYxaOciyq"
+        }
+      ],
+      "duration_ms": 331409,
+      "name": "Fate",
+      "url": "https://open.spotify.com/track/41FTrubQViaFrV6wNgf7M9"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -731,18 +731,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Houses",
-        "url": "https://open.spotify.com/album/23X1T8RFr7C8sHbaVeNLDw"
+        "name": "Aletheia",
+        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
       },
       "artists": [
         {
-          "name": "Steve Spacek",
-          "url": "https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX"
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
         }
       ],
-      "duration_ms": 450950,
-      "name": "Waiting 4 You",
-      "url": "https://open.spotify.com/track/0dKpH9fPOWbH2q58WaluKI"
+      "duration_ms": 346361,
+      "name": "Aletheia",
+      "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -779,18 +779,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Aletheia",
-        "url": "https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b"
+        "name": "Houses",
+        "url": "https://open.spotify.com/album/23X1T8RFr7C8sHbaVeNLDw"
       },
       "artists": [
         {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+          "name": "Steve Spacek",
+          "url": "https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX"
         }
       ],
-      "duration_ms": 346361,
-      "name": "Aletheia",
-      "url": "https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ"
+      "duration_ms": 450950,
+      "name": "Waiting 4 You",
+      "url": "https://open.spotify.com/track/0dKpH9fPOWbH2q58WaluKI"
     },
     {
       "added_at": "2021-10-08 17:36:35",

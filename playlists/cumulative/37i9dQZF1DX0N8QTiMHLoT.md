@@ -4,7 +4,7 @@
 
 > 𝄢Because bass\. Cover: Victor Wooten𝄢
 
-90 songs - 6 hr 35 min
+92 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [International Blvd.](https://open.spotify.com/track/3EKFRRTFaw191vTDxBi4MG) | [Ric Alexander & Levi Seacer Jr.](https://open.spotify.com/artist/2P1i3luSaCYroQwo26RESW) | [2wo 4our 1ne](https://open.spotify.com/album/5UmqG7z7kEysPfoKeWAtDP) | 6:22 | 2021-05-06 |  |
 | [Is That the Best You Can Do?](https://open.spotify.com/track/3WQdJiq9896W9Zw7jjIBI7) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [Thicker Than Water](https://open.spotify.com/album/7GTWVyB9UwiibcbA6Ykpfx) | 5:35 | 2021-05-06 |  |
 | [Jazz vs\. Hip Hop](https://open.spotify.com/track/6c8lSWY9dNeq1k4pLsMtEk) | [Anthony Crawford](https://open.spotify.com/artist/61EADOFt531MHdvb1LLFZU) | [Urban Jazz \- My Story](https://open.spotify.com/album/5cCq7DKk5NBRsatWa1IFun) | 4:46 | 2021-05-06 |  |
-| [Just Letting Go](https://open.spotify.com/track/0Y4SEMAHZpGp9UyTrMcVTW) | [Tony Saunders](https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q) | [Romancing the Bass](https://open.spotify.com/album/1hbDdA4rK8dIj05pefvCGJ) | 5:09 | 2021-05-06 |  |
+| [Just Letting Go](https://open.spotify.com/track/0Y4SEMAHZpGp9UyTrMcVTW) | [Tony Saunders](https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q) | [Romancing the Bass](https://open.spotify.com/album/1hbDdA4rK8dIj05pefvCGJ) | 5:09 | 2021-05-06 | 2023-04-20 |
+| [Just Letting Go](https://open.spotify.com/track/6mPr7c7Xy1IMTqiPzXRJL2) | [Tony Saunders](https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q) | [Romancing the Bass](https://open.spotify.com/album/6uxGXngRgxFovVmMsm9iY8) | 5:09 | 2021-05-06 |  |
 | [Just Play](https://open.spotify.com/track/4rYhksNrzm7mjsP0IqAvAw) | [Doug Johns](https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk) | [Doug's Party Mix](https://open.spotify.com/album/525qzct3ZHrfnWMsGyJmT3) | 1:29 | 2021-05-06 |  |
 | [Let's Play Some Funky Groove](https://open.spotify.com/track/1TPRQvysDFeNWTd65KPnxS) | [Kinga Glyk](https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk) | [Feelings](https://open.spotify.com/album/2EY3Ryehg5MxkFJ59xkgLO) | 2:51 | 2021-05-06 |  |
 | [Letter for Paul \(feat\. Chris Potter, Jon Cowherd, Marcus Gilmore & Rogerio Boccato\)](https://open.spotify.com/track/3stEH9HPia2bpfoZ6LhOaR) | [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [Jon Cowherd](https://open.spotify.com/artist/1CfUXWkyKLaI4IyJ6ul9NE), [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo), [Rogério Boccato](https://open.spotify.com/artist/4yknTJEHIckjyEZPZLTKeJ) | [Letter for Paul \(feat\. Chris Potter, Jon Cowherd, Marcus Gilmore & Rogerio Boccato\)](https://open.spotify.com/album/4oz7MSG5MJrIlxDLW7fF75) | 5:30 | 2021-05-06 |  |
@@ -63,7 +64,8 @@
 | [P.A.C\. Man](https://open.spotify.com/track/3zvq4tHlCZCNor1HpUtKnU) | [Alain Caron](https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj) | [Play](https://open.spotify.com/album/1ghnYOpMZeus1gJCSGdQl3) | 4:21 | 2021-05-06 |  |
 | [Pop Virgil](https://open.spotify.com/track/1rryMCRc1FhuUeKRHQnvSO) | [The Stanley Clarke Band](https://open.spotify.com/artist/6M9ohMNccb79LCYSCfzdOH) | [Up](https://open.spotify.com/album/30YCt5MD1H4uGULaP3ZsFB) | 3:17 | 2021-05-06 |  |
 | [Porky & Beans](https://open.spotify.com/track/6LcZLOWOzQGFQzRDtqefSq) | [Jeff Berlin](https://open.spotify.com/artist/4S6LWQMlfbLPNrXLY7RxI1) | [Aneurythms](https://open.spotify.com/album/6u8f8EVidJ6TJ3lRIZ4dMR) | 6:24 | 2021-05-06 |  |
-| [Power](https://open.spotify.com/track/2wd1sOeNdzBeRGsL6mPogQ) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [M2](https://open.spotify.com/album/1xyfptnTlG1u1fzVxYJm6d) | 4:35 | 2021-05-06 |  |
+| [Power](https://open.spotify.com/track/2TjhxE2g7tacYHR2egp8wt) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [M²](https://open.spotify.com/album/4cJcbnFhiWWZmrqdlsRV5W) | 4:35 | 2021-05-06 |  |
+| [Power](https://open.spotify.com/track/2wd1sOeNdzBeRGsL6mPogQ) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [M2](https://open.spotify.com/album/1xyfptnTlG1u1fzVxYJm6d) | 4:35 | 2021-05-06 | 2023-04-20 |
 | [Power UP!](https://open.spotify.com/track/13rfYcNKMn16ZErNcMYx9J) | [Blair Bryant](https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq) | [Power UP!](https://open.spotify.com/album/7iVkvqUAS3GLsLTSqrmI3i) | 3:59 | 2021-05-06 |  |
 | [Pra Chanel](https://open.spotify.com/track/4Yr0b24l0NiM3jeUaBx4SG) | [Nicole Badila](https://open.spotify.com/artist/0h3dZr6r7ZmlRFul23aymw) | [Fragrancia do Brasil](https://open.spotify.com/album/1NeVyM5Qlg3B4bLbcAQIdK) | 2:59 | 2021-05-06 |  |
 | [Purple Interlude](https://open.spotify.com/track/4ew37vOupTtCRE7oag9QoW) | [Ida Nielsen](https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3) | [Time 2 Stop Worrying \(Bout the Weird Stuff\)](https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ) | 1:36 | 2021-05-06 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Kenia OS y Gera MX.",
+  "description": "Latinoam\u00e9rica baila al ritmo de Nicki Nicole & Rels B.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -1088,7 +1088,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 127658,
       "name": "Bad Bitch",
       "url": "https://open.spotify.com/track/7ee38maLm32TKcmcWQglD5"
@@ -3333,6 +3333,28 @@
     },
     {
       "album": {
+        "name": "AQUA",
+        "url": "https://open.spotify.com/album/1GNzrbGnSOWd5HsbSgsMtq"
+      },
+      "artists": [
+        {
+          "name": "Vlntna B",
+          "url": "https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193313,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/07K6fgUdBPCL5ZzhRdu8H0"
+    },
+    {
+      "album": {
         "name": "El Sistema",
         "url": "https://open.spotify.com/album/0kDg1ceIubRuJHXyIRGrBM"
       },
@@ -3642,6 +3664,28 @@
       "duration_ms": 197474,
       "name": "El que pierde",
       "url": "https://open.spotify.com/track/0ZY0tbGFaWvjJ33IJRRcOl"
+    },
+    {
+      "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187986,
+      "name": "EL TONTO",
+      "url": "https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E"
     },
     {
       "album": {
@@ -4104,7 +4148,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 209684,
       "name": "Estrella",
       "url": "https://open.spotify.com/track/1qemIcMb4YrHfxtSmnQ4y9"
@@ -4262,7 +4306,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 268115,
       "name": "Falsas Promesas",
       "url": "https://open.spotify.com/track/22CiUJfxqy351cndvSdpSE"
@@ -4764,6 +4808,32 @@
       "duration_ms": 125985,
       "name": "Hag\u00e1moslo de Nuevo",
       "url": "https://open.spotify.com/track/5nqd99eG78DHIFLTKlEW8C"
+    },
+    {
+      "album": {
+        "name": "Halls de Menta",
+        "url": "https://open.spotify.com/album/0dUimFfYkFEWcgzsqc3Oaf"
+      },
+      "artists": [
+        {
+          "name": "ADSO",
+          "url": "https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf"
+        },
+        {
+          "name": "Papi Sousa",
+          "url": "https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7"
+        },
+        {
+          "name": "Lui5",
+          "url": "https://open.spotify.com/artist/0gfBmg53uxgAVNEDB23X5n"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230770,
+      "name": "Halls de Menta",
+      "url": "https://open.spotify.com/track/6irAgzFb8mbG8UlKITIMRA"
     },
     {
       "album": {
@@ -5450,7 +5520,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 255693,
       "name": "La Jumpa",
       "url": "https://open.spotify.com/track/5MxFWjuqQIsbNWbMdMdbli"
@@ -5494,7 +5564,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 228640,
       "name": "La Pasamos CXBRXN",
       "url": "https://open.spotify.com/track/672zDo2nzWSoIIQ7zD5kuj"
@@ -6772,10 +6842,32 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 130653,
       "name": "Miami",
       "url": "https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW"
+    },
+    {
+      "album": {
+        "name": "Micro TDH | Mission 14",
+        "url": "https://open.spotify.com/album/4UW05TcoOWP70UxbU2BJMg"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148620,
+      "name": "Micro TDH | Mission 14",
+      "url": "https://open.spotify.com/track/4luCj8YMb6kTGqYvxGEkC3"
     },
     {
       "album": {
@@ -6824,6 +6916,36 @@
       "duration_ms": 261545,
       "name": "Millonario",
       "url": "https://open.spotify.com/track/0jan1veQflcow49yox9c5l"
+    },
+    {
+      "album": {
+        "name": "MIRAGE (feat. Ozuna, Sfera Ebbasta & GIMS)",
+        "url": "https://open.spotify.com/album/5WbgkuQehIgUQn9s5gpbZH"
+      },
+      "artists": [
+        {
+          "name": "AriBeatz",
+          "url": "https://open.spotify.com/artist/6cNWiizYLCClZdnIvqU968"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206054,
+      "name": "MIRAGE (feat. Ozuna, GIMS & Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/4e1U6KRJGed8gh3uRbAv3P"
     },
     {
       "album": {
@@ -7112,6 +7234,28 @@
       "duration_ms": 171661,
       "name": "NEGRO MATE",
       "url": "https://open.spotify.com/track/2OsclrHyXnqYmKm6ji1vij"
+    },
+    {
+      "album": {
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/5Ymw3x5pQric87TAWRTnva"
+      },
+      "artists": [
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        },
+        {
+          "name": "EKKI",
+          "url": "https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201724,
+      "name": "Nena",
+      "url": "https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo"
     },
     {
       "album": {
@@ -8456,7 +8600,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 214736,
       "name": "Que Te Perdone",
       "url": "https://open.spotify.com/track/5FxhGtbB5kopGvNETRpcLx"
@@ -8504,6 +8648,28 @@
       "duration_ms": 198937,
       "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
+    },
+    {
+      "album": {
+        "name": "qu\u00e9 le pasa conmigo?",
+        "url": "https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167251,
+      "name": "qu\u00e9 le pasa conmigo?",
+      "url": "https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa"
     },
     {
       "album": {
@@ -10171,6 +10337,32 @@
     },
     {
       "album": {
+        "name": "COLABORACIONES",
+        "url": "https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU"
+      },
+      "artists": [
+        {
+          "name": "LA FIRMA",
+          "url": "https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q"
+        },
+        {
+          "name": "Diego Smith",
+          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
+        },
+        {
+          "name": "WANDA ORIGINAL",
+          "url": "https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125026,
+      "name": "TNT",
+      "url": "https://open.spotify.com/track/419xono1KqiWbVCu5bzSd8"
+    },
+    {
+      "album": {
         "name": "TO' ESTO ES TUYO",
         "url": "https://open.spotify.com/album/0tYGtxW8nnYORSaUtWzPFn"
       },
@@ -10434,7 +10626,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 148363,
       "name": "Toy a Mil",
       "url": "https://open.spotify.com/track/5DwnwR8Kd7LM2CMyRPloqH"
@@ -10460,6 +10652,28 @@
       "duration_ms": 222857,
       "name": "Traductor",
       "url": "https://open.spotify.com/track/77l75UICfUZK5k0G7WRGqg"
+    },
+    {
+      "album": {
+        "name": "Triste Verano",
+        "url": "https://open.spotify.com/album/3tQugDvLsNa3RDu7bfRu6Y"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212375,
+      "name": "Triste Verano",
+      "url": "https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp"
     },
     {
       "album": {
@@ -10640,7 +10854,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 188009,
       "name": "ULALA (OOH LA LA)",
       "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
@@ -11054,7 +11268,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 210535,
       "name": "Wakanda",
       "url": "https://open.spotify.com/track/14uatjtUxCp76wlN5qtWEj"

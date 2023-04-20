@@ -4,7 +4,7 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-116 songs - 5 hr 20 min
+117 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Harvest Time](https://open.spotify.com/track/3ykIHaFm72d2vQJx5PW89z) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Golden Age](https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9) | 3:00 | 2023-01-12 |  |
 | [Heatwave](https://open.spotify.com/track/03gunYpOFHu4swpyry4QKX) | [Danny James](https://open.spotify.com/artist/2v04CAaxpr6sSELBPMOkoQ), [Es\-K](https://open.spotify.com/artist/0Ece4RFAFNTEpYaTHZWuhe), [John Culbreth](https://open.spotify.com/artist/1KfQchWVE79W6evo9dDBUN) | [Heatwave](https://open.spotify.com/album/5ifo18NW9f8DwVhvpTNJLg) | 3:11 | 2023-01-12 |  |
 | [Hidden Paradise](https://open.spotify.com/track/3d3Jq8vwoJOrELUtlUhVjp) | [Rudy Raw](https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton) | [Hidden Paradise](https://open.spotify.com/album/0GZnU5oouUt1kK02dzWrwt) | 2:27 | 2023-01-12 |  |
+| [High Expectations](https://open.spotify.com/track/4rn17OCKU2IAPEPVOi8kPy) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g) | [High Expectations](https://open.spotify.com/album/6Or8HJNSBISRJNgukN5tyd) | 2:16 | 2023-04-13 |  |
 | [Howling At The Moon](https://open.spotify.com/track/5IyU0HxuVZzOE21069VnO4) | [Josie Stalilao](https://open.spotify.com/artist/6aqE8FL1Y1WG54YIVoPlXL) | [Howling At The Moon](https://open.spotify.com/album/6LofXWI8NGoRAyIiam9G9y) | 3:35 | 2023-03-02 |  |
 | [I Remember](https://open.spotify.com/track/0uhAmpy7XNbshBNnRXDXAS) | [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [I Remember](https://open.spotify.com/album/20SUhlhJJXqMfNB44TMbgi) | 2:21 | 2023-01-12 |  |
 | [Imani](https://open.spotify.com/track/7gmBN587F9l6jUfcXnqGuq) | [E\-SWERVE](https://open.spotify.com/artist/5DArPsrLBhrvX1qviIBftG), [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [Imani](https://open.spotify.com/album/02qRkE8eImCiExxf2r2bJB) | 1:57 | 2023-01-12 |  |
@@ -99,7 +100,7 @@
 | [Scho Guet](https://open.spotify.com/track/6ottSGnUxB1xuyLR9Pd4Vd) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Scho Guet](https://open.spotify.com/album/0RW29wYWBcPejIxG1ANPKM) | 3:53 | 2023-01-13 | 2023-03-10 |
 | [Seasons](https://open.spotify.com/track/3ic2O47katD7m5S4YDvbCt) | [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q), [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY) | [Seasons](https://open.spotify.com/album/3pHtNw9KkN3KzNPP4PyU0c) | 2:24 | 2023-01-12 |  |
 | [Silver Lining](https://open.spotify.com/track/13u3ooUx4eEn7vXJ9TFkBf) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS) | 3:42 | 2023-01-12 |  |
-| [Stills](https://open.spotify.com/track/6AoJ6JUXWEm9NIU7HZqqzJ) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h), [Moose Dawa](https://open.spotify.com/artist/4iLyC66mfowfMoMtmbsDUb) | [Stills](https://open.spotify.com/album/08NfamTiYO1DVxNLX6tq6X) | 2:24 | 2023-01-12 |  |
+| [Stills](https://open.spotify.com/track/6AoJ6JUXWEm9NIU7HZqqzJ) | [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h), [Moose Dawa](https://open.spotify.com/artist/4iLyC66mfowfMoMtmbsDUb) | [Stills](https://open.spotify.com/album/08NfamTiYO1DVxNLX6tq6X) | 2:24 | 2023-01-12 | 2023-04-20 |
 | [Stuck Inside](https://open.spotify.com/track/40WnxbuSovGpDcJrZqO0lP) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [SPRING](https://open.spotify.com/album/4KEaYd9DK7qom7TIHvdM3Z) | 3:33 | 2023-01-13 |  |
 | [Sunflowers](https://open.spotify.com/track/1b8asb7HTke3rKDKt0GNdR) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [A Bouquet of Flowers](https://open.spotify.com/album/4HDswsyVIvlz7TKSP9gwPa) | 2:45 | 2023-01-12 |  |
 | [Sunrays](https://open.spotify.com/track/6ia5xYHJJdSwgCPVMFnDEV) | [khoa](https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj), [elmo](https://open.spotify.com/artist/6O7h27p4Oaa1kZ8Q04IO3f) | [Sunrays](https://open.spotify.com/album/1F5kwD5PUxQCnpwT5EBNBz) | 2:12 | 2023-01-12 |  |

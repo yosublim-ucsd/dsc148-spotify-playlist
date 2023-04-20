@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,583 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,983 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 36 | [De Trás Pra Frente \- Ao Vivo](https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Céu Explica Tudo \(Ao Vivo\)](https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy) | 2:43 |
 | 37 | [Pergunta Boba \- Ao Vivo](https://open.spotify.com/track/36OBPVuz58hAsKxgLCKer6) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [10 Anos \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wiTSo8xXBIvvkhZNJFWCm) | 3:48 |
 | 38 | [Mágica \- Live](https://open.spotify.com/track/5cN5ZOVcYBl4Lnq50Zeqsx) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 2:41 |
-| 39 | [Beijo Bêbado](https://open.spotify.com/track/3BigzTTQfP3xSLPKATYSop) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Beijo Bêbado](https://open.spotify.com/album/470aKYBGvnxmnTp9ewZQtW) | 2:48 |
-| 40 | [S de Saudade](https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL) | [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [S de Saudade](https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL) | 2:54 |
+| 39 | [S de Saudade](https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL) | [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [S de Saudade](https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL) | 2:54 |
+| 40 | [Na Conta Da Loucura \- Ao Vivo](https://open.spotify.com/track/2EVaHMfXlWw4ANf6Mb8c5P) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:45 |
 | 41 | [O Alvo \(feat\. Henrique & Juliano\) \- Ao Vivo](https://open.spotify.com/track/5Vw6ZLNB6Ko7VZM6vmNIbr) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Alvo \(feat\. Henrique & Juliano\) \[Ao Vivo\]](https://open.spotify.com/album/3yprBTFIy7DnJCHnMDifRv) | 2:44 |
-| 42 | [Pense Em Mim \- Jorge & Mateus Elétrico](https://open.spotify.com/track/24IMxi4RUakB4bleLn2uBE) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Jorge & Mateus Elétrico](https://open.spotify.com/album/0RkEgK2Ch7H5IURwDYTTnt) | 3:32 |
-| 43 | [Na Conta Da Loucura \- Ao Vivo](https://open.spotify.com/track/2EVaHMfXlWw4ANf6Mb8c5P) | [Bruno & Marrone](https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV) | [Ensaio \(Ao Vivo\)](https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T) | 2:45 |
+| 42 | [Paredes \- Ao Vivo](https://open.spotify.com/track/2GfxgssRHvY1azHtaRqKoK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Como\. Sempre Feito\. Nunca \(ao Vivo\)](https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz) | 3:04 |
+| 43 | [Beijo Bêbado](https://open.spotify.com/track/3BigzTTQfP3xSLPKATYSop) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Beijo Bêbado](https://open.spotify.com/album/470aKYBGvnxmnTp9ewZQtW) | 2:48 |
 | 44 | [Coração Na Cama \- Ao Vivo](https://open.spotify.com/track/2nZj5YymF54qhAu7RneVP6) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [No Pelo 3, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3IfMlmwvbnO0yPVTNCnwAb) | 2:53 |
 | 45 | [Lembranças de Amor \- Ao Vivo](https://open.spotify.com/track/7MPMOW27HjtsLpeUFcihY8) | [Victor & Leo](https://open.spotify.com/artist/2HtEBtekn0bXogyogD3PTr) | [Victor & Leo Ao Vivo Em Uberlândia](https://open.spotify.com/album/1po4TPOuh3zVj5fMqePCdC) | 3:31 |
 | 46 | [Ferida Curada](https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ferida Curada](https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 49 | [Áudio \- Ao Vivo em Brasília](https://open.spotify.com/track/2PqPSf3gtTED79rWGwVtYg) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Diego & Victor Hugo Ao Vivo em Brasília \- EP1](https://open.spotify.com/album/2lmLfahVMp5C3w9HW5TxbL) | 3:10 |
 | 50 | [Amor Da Sua Cama](https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Amor Da Sua Cama](https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv) | 3:08 |
 
-Snapshot ID: `MTY4MDgzNjU4MCwwMDAwMDAwMDJiM2VjMDM1NzViMmE5NjJkMjVhMzA1ZWVlNjY5Nzc5`
+Snapshot ID: `MTY4MDgzNjU4MCwwMDAwMDAwMGNiNTI1NmMwYjY3MTNiZjBmMGVhNzY5N2Y1Mjk1ZDkw`

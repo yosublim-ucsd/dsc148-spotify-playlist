@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 
 > The most essential R&B songs from the 90s\. Cover: SWV
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,196,010 likes - 75 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,197,288 likes - 75 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 59 | [Freak Like Me](https://open.spotify.com/track/6Vas6h9lB5mmeVDXdFqlQA) | [Adina Howard](https://open.spotify.com/artist/266SmBZTt4zRzaKEANWbfQ) | [Do You Wanna Ride?](https://open.spotify.com/album/0Tcn0XVUiS6eXoD8vZdQSk) | 4:13 |
 | 60 | [If Your Girl Only Knew](https://open.spotify.com/track/1WKz2dJbsK0S56zvpnhFWU) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [One In A Million](https://open.spotify.com/album/79EIRdmpPSIWfRlxaZdJbG) | 4:50 |
 | 61 | [Can't You See](https://open.spotify.com/track/0coGyBNQcxxqkOOT2UhT4v) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [BAD BOY CELEBRATES DIDDY: The Executive](https://open.spotify.com/album/7yTl88MTPG3O9MSgkro9UR) | 4:41 |
-| 62 | [If You Love Me](https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r) | [Brownstone](https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr) | [From The Bottom Up](https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz) | 5:04 |
-| 63 | [I'm So Into You](https://open.spotify.com/track/5A0aUvnfAEcmUx3hoXjI8R) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 4:38 |
+| 62 | [I'm So Into You](https://open.spotify.com/track/5A0aUvnfAEcmUx3hoXjI8R) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 4:38 |
+| 63 | [If You Love Me](https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r) | [Brownstone](https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr) | [From The Bottom Up](https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz) | 5:04 |
 | 64 | [Cherish the Day](https://open.spotify.com/track/22QiTJqDn1BIRSh4mkNJ5w) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 5:32 |
 | 65 | [Fortunate](https://open.spotify.com/track/2RtvkLz5tmOXlzz918It6E) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Fortunate](https://open.spotify.com/album/59f5YlSvsyT1Wa5Df1277H) | 5:01 |
 | 66 | [How Deep Is Your Love](https://open.spotify.com/track/60NvAO9lx0KmBNAVHIlWN6) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Enter The Dru](https://open.spotify.com/album/6L5uROBQ5wy3MOPI334RHE) | 4:03 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VDO8a6cQME.md) - [plain]
 | 71 | [I'm Your Baby Tonight](https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I'm Your Baby Tonight](https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw) | 4:59 |
 | 72 | [Knockin' da Boots](https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ) | [H\-Town](https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ) | [Fever for da Flavor](https://open.spotify.com/album/1XXRMULRjSHEmWNxk9G1Cd) | 5:30 |
 | 73 | [I Couldn't Love You More](https://open.spotify.com/track/104gvc1JDyW1PXCW9GCP17) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 3:48 |
-| 74 | [He's Mine](https://open.spotify.com/track/20VRVHMwAspwLA207PdKOn) | [MoKenStef](https://open.spotify.com/artist/3uklrkyCGBBg5PoFTbEoim) | [Love Soul](https://open.spotify.com/album/3czBW4vnFXUkXs2wGLp02m) | 4:13 |
-| 75 | [Soon as I Get Home](https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 5:24 |
+| 74 | [Back & Forth](https://open.spotify.com/track/45wneA2j0Z0WMnYNDO6Ad0) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 3:51 |
+| 75 | [He's Mine](https://open.spotify.com/track/20VRVHMwAspwLA207PdKOn) | [MoKenStef](https://open.spotify.com/artist/3uklrkyCGBBg5PoFTbEoim) | [Love Soul](https://open.spotify.com/album/3czBW4vnFXUkXs2wGLp02m) | 4:13 |
 
-Snapshot ID: `MTY4MTM5NjM0MCwwMDAwMDAwMGNiYTBkMzljZjQ1MDM3NjM2YTdlYTBhNzEzOGQ4MDE5`
+Snapshot ID: `MTY4MTM5NjM0MCwwMDAwMDAwMDVjMzg4NjhmN2I2ZDRjYTkxMGJjNmJiZWM4MGNkMDJk`

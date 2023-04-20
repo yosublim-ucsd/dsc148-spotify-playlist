@@ -1,12 +1,12 @@
 {
   "description": "Xam\u00e3, KayBlack, MC Maneirinho, Kiaz e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 195299,
+  "num_followers": 195604,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTgyOTEzOCwwMDAwMDAwMGVlYTZlZjFlZGYwYzUzMTZiM2RjYzMzOGFmZmM2OTI3",
+  "snapshot_id": "MTY4MTgyOTEzOCwwMDAwMDAwMGYxYTY1ODFjMmIzNjkyMTBjMmQ1NmRmODhlOTUyYTQy",
   "tracks": [
     {
       "added_at": "2023-04-18 14:45:38",
@@ -24,16 +24,16 @@
           "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
         },
         {
-          "name": "MC Maneirinho",
-          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
-        },
-        {
           "name": "Xam\u00e3",
           "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         },
         {
           "name": "KayBlack",
           "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "MC Maneirinho",
+          "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
         },
         {
           "name": "AJ Wav",
@@ -543,22 +543,30 @@
     {
       "added_at": "2023-04-18 14:45:38",
       "album": {
-        "name": "Balmain",
-        "url": "https://open.spotify.com/album/22VDWlNkuINTSubxz4lolA"
+        "name": "INEF\u00c1VEL",
+        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
       },
       "artists": [
         {
-          "name": "Mc Daniel",
-          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
         },
         {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
         }
       ],
-      "duration_ms": 197500,
-      "name": "Balmain",
-      "url": "https://open.spotify.com/track/44U6wTQDkos958gqTbilSw"
+      "duration_ms": 245987,
+      "name": "INEF\u00c1VEL (feat. Leviano)",
+      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
     },
     {
       "added_at": "2023-04-18 14:45:38",
@@ -599,30 +607,22 @@
     {
       "added_at": "2023-04-18 14:45:38",
       "album": {
-        "name": "INEF\u00c1VEL",
-        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
+        "name": "Balmain",
+        "url": "https://open.spotify.com/album/22VDWlNkuINTSubxz4lolA"
       },
       "artists": [
         {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
         },
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
         }
       ],
-      "duration_ms": 245987,
-      "name": "INEF\u00c1VEL (feat. Leviano)",
-      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
+      "duration_ms": 197500,
+      "name": "Balmain",
+      "url": "https://open.spotify.com/track/44U6wTQDkos958gqTbilSw"
     },
     {
       "added_at": "2023-04-18 14:45:38",
@@ -795,46 +795,6 @@
     {
       "added_at": "2023-04-18 14:45:38",
       "album": {
-        "name": "Pagode Do Peric\u00e3o II, Pt. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/65vNfWkaQhnrT7ndLZQ0Z0"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 168165,
-      "name": "Graveto - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AZPao1jegnylQcnDfNBxl"
-    },
-    {
-      "added_at": "2023-04-18 14:45:38",
-      "album": {
-        "name": "Licor 43",
-        "url": "https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 142470,
-      "name": "Licor 43",
-      "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
-    },
-    {
-      "added_at": "2023-04-18 14:45:38",
-      "album": {
         "name": "Assault (Joias no Pulso)",
         "url": "https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs"
       },
@@ -863,6 +823,46 @@
       "duration_ms": 274015,
       "name": "Assault (Joias no Pulso)",
       "url": "https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s"
+    },
+    {
+      "added_at": "2023-04-18 14:45:38",
+      "album": {
+        "name": "Licor 43",
+        "url": "https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 142470,
+      "name": "Licor 43",
+      "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
+    },
+    {
+      "added_at": "2023-04-18 14:45:38",
+      "album": {
+        "name": "Pagode Do Peric\u00e3o II, Pt. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/65vNfWkaQhnrT7ndLZQ0Z0"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 168165,
+      "name": "Graveto - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AZPao1jegnylQcnDfNBxl"
     },
     {
       "added_at": "2023-04-18 14:45:38",
@@ -972,12 +972,12 @@
           "url": "https://open.spotify.com/artist/5A0IVCW22IfgXkU9TLNxr3"
         },
         {
-          "name": "King You All Need",
-          "url": "https://open.spotify.com/artist/2ME99w2DDwKbMF869A6h3a"
-        },
-        {
           "name": "Supernova Ent",
           "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
         }
       ],
       "duration_ms": 146938,
@@ -1007,34 +1007,6 @@
       "duration_ms": 248000,
       "name": "Assunto Particular",
       "url": "https://open.spotify.com/track/44v9eNGRuwFDXzPWu2GkHP"
-    },
-    {
-      "added_at": "2023-04-18 14:45:38",
-      "album": {
-        "name": "Vida Cara",
-        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        },
-        {
-          "name": "TkN",
-          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
-        },
-        {
-          "name": "Luchinha",
-          "url": "https://open.spotify.com/artist/0nwvLZTpWaZMATKuwSuicL"
-        }
-      ],
-      "duration_ms": 252173,
-      "name": "Bal\u00e3o 2",
-      "url": "https://open.spotify.com/track/4y956Vqc68NtoH6Xpy91X2"
     },
     {
       "added_at": "2023-04-18 14:45:38",
@@ -1079,6 +1051,34 @@
       "duration_ms": 172000,
       "name": "Envolvido",
       "url": "https://open.spotify.com/track/48h4dsva3ihxdZ5rkB3IVX"
+    },
+    {
+      "added_at": "2023-04-18 14:45:38",
+      "album": {
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        },
+        {
+          "name": "TkN",
+          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
+        },
+        {
+          "name": "Luchinha Jr",
+          "url": "https://open.spotify.com/artist/5v2bQ2dsdQmr2ARUYwnDHX"
+        }
+      ],
+      "duration_ms": 252173,
+      "name": "Bal\u00e3o 2",
+      "url": "https://open.spotify.com/track/4y956Vqc68NtoH6Xpy91X2"
     },
     {
       "added_at": "2023-04-18 14:45:38",
@@ -1207,34 +1207,6 @@
     {
       "added_at": "2023-04-18 14:45:38",
       "album": {
-        "name": "Vida Cara",
-        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "DomLaike",
-          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
-        },
-        {
-          "name": "Kizzy",
-          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
-        }
-      ],
-      "duration_ms": 307692,
-      "name": "Vida Cara",
-      "url": "https://open.spotify.com/track/0XHJ2LfnrETLopLCt6xBY6"
-    },
-    {
-      "added_at": "2023-04-18 14:45:38",
-      "album": {
         "name": "8KG",
         "url": "https://open.spotify.com/album/3TNzyF3UlLqVAK3EHRwL5J"
       },
@@ -1311,6 +1283,34 @@
     {
       "added_at": "2023-04-18 14:45:38",
       "album": {
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "DomLaike",
+          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
+        },
+        {
+          "name": "Kizzy",
+          "url": "https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic"
+        }
+      ],
+      "duration_ms": 307692,
+      "name": "Vida Cara",
+      "url": "https://open.spotify.com/track/0XHJ2LfnrETLopLCt6xBY6"
+    },
+    {
+      "added_at": "2023-04-18 14:45:38",
+      "album": {
         "name": "Moda de Favela",
         "url": "https://open.spotify.com/album/5gHa9wnNiEo2kZzY0HvFFj"
       },
@@ -1331,6 +1331,22 @@
       "duration_ms": 113777,
       "name": "Moda de Favela",
       "url": "https://open.spotify.com/track/4y3MAr4Q3dhGHuZt8X6RxG"
+    },
+    {
+      "added_at": "2023-04-18 14:45:38",
+      "album": {
+        "name": "PATY",
+        "url": "https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO"
+      },
+      "artists": [
+        {
+          "name": "Welisson",
+          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
+        }
+      ],
+      "duration_ms": 109714,
+      "name": "PATY",
+      "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
     },
     {
       "added_at": "2023-04-18 14:45:38",
@@ -1363,22 +1379,6 @@
       "duration_ms": 293009,
       "name": "X6",
       "url": "https://open.spotify.com/track/7qE3yPi9s1SdhSVEuOfFw4"
-    },
-    {
-      "added_at": "2023-04-18 14:45:38",
-      "album": {
-        "name": "PATY",
-        "url": "https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO"
-      },
-      "artists": [
-        {
-          "name": "Welisson",
-          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
-        }
-      ],
-      "duration_ms": 109714,
-      "name": "PATY",
-      "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
     },
     {
       "added_at": "2023-04-18 14:45:38",

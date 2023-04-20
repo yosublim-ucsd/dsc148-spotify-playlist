@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 
 > Ponte a guayar con este playlist de Merengue Tipico\. Cover: El Prodigio
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,053 likes - 51 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,073 likes - 51 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 38 | [Mi Tia](https://open.spotify.com/track/2uQulIXKszC5YbqIVabPO5) | [El Prodigio & Su Banda Tipica](https://open.spotify.com/artist/20f0aBVhhWPudN6pWBcfb6) | [Que Se Vaya](https://open.spotify.com/album/1zPVnHTB7zHAcfENR2zDIo) | 4:28 |
 | 39 | [Canto de Hacha](https://open.spotify.com/track/2qkjPibPywEEAkNVuEZvpi) | [Francisco Ulloa](https://open.spotify.com/artist/1gvcnolIBj2EDKRk6nirCw) | [!Ultramerengue!](https://open.spotify.com/album/3CO7yIFZtsmGy24VvuMNXg) | 3:42 |
 | 40 | [Comiendo Gallina](https://open.spotify.com/track/45B4Uym3KHBziu4olVZHNe) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [Ídolo Del Pueblo](https://open.spotify.com/album/1b8lRfNkfmqV1BRsyAaNgK) | 2:47 |
-| 41 | [Diente de Oro](https://open.spotify.com/track/6c1zmxybUPc2l9YMekf68P) | [El Ciego De Nagua](https://open.spotify.com/artist/43nkUThLVCzg7IObZEk1XY) | [Merengues Tipicos Que Hicieron Historia, Vol\. 1](https://open.spotify.com/album/1L0MlXDMU2SiPb91mNjq0Z) | 4:36 |
+| 41 | [Ya No Creo en Ti](https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt) | [A Otro Nivel](https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h) | 4:39 |
 | 42 | [Marapica](https://open.spotify.com/track/0BfIwYo2uuLX8ZdyPacuOx) | [El Prodigio](https://open.spotify.com/artist/0mXFUCl68VMz2BhKzq1zCO) | [Only Mambo Vol\. 3](https://open.spotify.com/album/2D7sxPoukdCOjQsw9YDiei) | 4:18 |
-| 43 | [Ya No Creo en Ti](https://open.spotify.com/track/1ZE5wyZzjE25sEZ6nDXKbl) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt) | [A Otro Nivel](https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h) | 4:39 |
+| 43 | [Diente de Oro](https://open.spotify.com/track/6c1zmxybUPc2l9YMekf68P) | [El Ciego De Nagua](https://open.spotify.com/artist/43nkUThLVCzg7IObZEk1XY) | [Merengues Tipicos Que Hicieron Historia, Vol\. 1](https://open.spotify.com/album/1L0MlXDMU2SiPb91mNjq0Z) | 4:36 |
 | 44 | [Se Fue La Bola](https://open.spotify.com/track/1wC3DYbyjUdYWe3D6hs9UA) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Corazón Bonito](https://open.spotify.com/album/6doczKOn9Ol9Yjum4U3kqK) | 6:25 |
 | 45 | [Por Esa Mujer](https://open.spotify.com/track/2YflEzGAkdbFQ87hevZ7Gy) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | ["El Cacique" \- Todo Exitos](https://open.spotify.com/album/55mfcO5DhWjPj2RxqPGyDB) | 4:28 |
 | 46 | [La Correa](https://open.spotify.com/track/7KFwD8joQhDszOXDAddttv) | [Tatico Henriquez](https://open.spotify.com/artist/3Ut6HQlDNxriysExMqRCYm) | [60 Éxitos](https://open.spotify.com/album/6pGQLQMeYtj3MU4H90z2DX) | 2:49 |
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7rqPov2ZRCB.md) - [plain]
 | 48 | [Las Viejas De Ahora](https://open.spotify.com/track/10Qtbtv3Qf2eB5BmmuVEP9) | [Toribio De La Cruz](https://open.spotify.com/artist/0bCUZmoy78zl0pSuHiiDPe) | [El Contentoso!](https://open.spotify.com/album/3SJ3WJYdRWLt5vrumrxRBC) | 3:57 |
 | 49 | [El Trafico](https://open.spotify.com/track/4ecoSAaeXWE2C1KfSX5hFU) | [Chiqui Rodriguez](https://open.spotify.com/artist/0uf9GZiXpX0zAv9RGSNVgl) | [Merengues Tipicos los Numero 1](https://open.spotify.com/album/7ddzfJF2k9P2rbg2oiaP3c) | 5:43 |
 | 50 | [La Culebra](https://open.spotify.com/track/6sjj7jg37ccG6jTjlqvJG3) | [Fefita La Grande](https://open.spotify.com/artist/4IYHkkHuBFwfBrqQ4XJiPA), [Rafaelito](https://open.spotify.com/artist/4Za8U5V26PcVIat4ROTGVu) | [En Vivo Vol\. 2](https://open.spotify.com/album/0LgHV66s4e9hVJSiZNFxF8) | 6:11 |
-| 51 | [El Diente de Oro](https://open.spotify.com/track/6n71ZzBawqtp584Fg2NAcO) | [El Cieguito De Nagua](https://open.spotify.com/artist/6FGEiODYfWqyS4rTtRaFgU) | [Los Numero 1](https://open.spotify.com/album/3uMEJcu34DYo8TfZO1sEvI) | 4:38 |
+| 51 | [El Doctorado](https://open.spotify.com/track/3pQvlDMVLB8MsQMFq8P1qW) | [Rikar2nes](https://open.spotify.com/artist/0ZOHKurmSl9Nj3cpp5juyt) | [A Otro Nivel](https://open.spotify.com/album/6xLvSMjRybGGIeAu83sj1h) | 4:16 |
 
-Snapshot ID: `MTU2ODA1MTM2NCwwMDAwMDAwMDk1ZTQ4Y2Y4ZjI2YTQyNGUwMmM5YTM5ZTAzNWU4YjBh`
+Snapshot ID: `MTU2ODA1MTM2NCwwMDAwMDAwMGJiYjg2N2VkMDE0NTdhMjliN2IwMDUzNDMwNGI0ODMy`

@@ -3339,6 +3339,24 @@
     },
     {
       "album": {
+        "name": "Quien Tengo Que Ser",
+        "url": "https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267640,
+      "name": "Quien Tengo Que Ser",
+      "url": "https://open.spotify.com/track/6wL2yRom12q8ZhPDPnKB0t"
+    },
+    {
+      "album": {
         "name": "Ransom",
         "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
       },
@@ -3796,7 +3814,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 154026,
       "name": "Spanish On The Beach",
       "url": "https://open.spotify.com/track/3GTqzTpAxsqbXiiL3OBZQu"

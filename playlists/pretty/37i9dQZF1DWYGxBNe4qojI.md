@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 
 > Where it all started\. Cover: 50 Cent
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,284 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,774 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 33 | [Notorious Thugs \- 2014 Remaster](https://open.spotify.com/track/19FsxX4RthRMZGfXkImdCb) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 6:06 |
 | 34 | [Ice Cream \(feat\. Ghostface Killah, Method Man & Cappadonna\)](https://open.spotify.com/track/6SI4JD7iyQ0rrudhCNtMv0) | [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Cappadonna](https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR) | [Only Built 4 Cuban Linx...](https://open.spotify.com/album/7btiyhWzUfzxN3ijSiBpC8) | 4:13 |
 | 35 | [Whoa!](https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi) | [Black Rob](https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49) | [Life Story](https://open.spotify.com/album/1MSBtKtGF1VLBtSLgwcwKR) | 3:58 |
-| 36 | [Brooklyn Zoo](https://open.spotify.com/track/2FWmKZ3kNbVsKGhuNHsltW) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 3:37 |
+| 36 | [What They Do](https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Illadelph Halflife](https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL) | 5:57 |
 | 37 | [I'll Be There For You/You're All I Need To Get By \- Puff Daddy Mix](https://open.spotify.com/track/6C3yPXYG2NJYlIYVe5J7hv) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Tical \(Deluxe Edition\)](https://open.spotify.com/album/7DyAbrlPQTi2v6DAmgC8Qa) | 5:09 |
-| 38 | [What They Do](https://open.spotify.com/track/1B53Y95tPd4ah4FExO0egE) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Illadelph Halflife](https://open.spotify.com/album/4hkERQVrmM9JQ9g2eie2tL) | 5:57 |
+| 38 | [Brooklyn Zoo](https://open.spotify.com/track/2FWmKZ3kNbVsKGhuNHsltW) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 3:37 |
 | 39 | [Loungin \(Who Do Ya Luv\) \- Remix](https://open.spotify.com/track/0UN5OvKlbg06LnZyVk48ll) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mr\. Smith \(Deluxe Edition\)](https://open.spotify.com/album/6b7NVGKHlwKyQzFKoVTaMA) | 3:49 |
 | 40 | [N.Y\. State of Mind](https://open.spotify.com/track/5zwz05jkQVT68CjUpPwFZe) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic XX](https://open.spotify.com/album/6oSHgr3TZJPCFshYUfBDqE) | 4:53 |
 | 41 | [Liquid Swords](https://open.spotify.com/track/4dmh3OPtAhbEybhGoOG9TE) | [GZA](https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO) | [Liquid Swords](https://open.spotify.com/album/3k8xoyOXkGgZxUKgpmxz4P) | 4:30 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGxBNe4qojI.md) - [plain]
 | 43 | [Flava in Ya Ear Remix \(feat\. Notorious B.I.G., L.L\. Cool J, Busta Rhymes, Rampage\)](https://open.spotify.com/track/4JYUDRtPZuVNi7FAnbHyux) | [Craig Mack](https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf) | [Flava In Ya Ear Remix](https://open.spotify.com/album/7mYcq3B0faiA5IvhDCdypL) | 5:02 |
 | 44 | [Dipset Anthem](https://open.spotify.com/track/3rvM0obwHthpskrZKQxYLa) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi) | [Diplomatic Immunity](https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk) | 4:09 |
 | 45 | [Crush on You \(feat\. Lil' Cease\) \- Remix](https://open.spotify.com/track/2LP2uDQQ7eLMcUVE4aOpAV) | [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Lil' Cease](https://open.spotify.com/artist/6V4zyNV40Zyu5MGlhD0i8g) | [Not Tonight EP](https://open.spotify.com/album/6ziNUlW26RQhiHOdJpSyVD) | 4:35 |
-| 46 | [U.N.I.T.Y.](https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:10 |
-| 47 | [MC's Act Like They Don't Know](https://open.spotify.com/track/0snDRsjNRMJhm7SVja8l6J) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [KRS\-One](https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x) | 4:55 |
+| 46 | [MC's Act Like They Don't Know](https://open.spotify.com/track/0snDRsjNRMJhm7SVja8l6J) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [KRS\-One](https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x) | 4:55 |
+| 47 | [U.N.I.T.Y.](https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:10 |
 | 48 | [Who Got Da Props](https://open.spotify.com/track/5CRM9TgBcwRbK3LyHUJhrQ) | [Black Moon](https://open.spotify.com/artist/2yN6bq26wynQcRuPkBYTDb) | [Enta Da Stage](https://open.spotify.com/album/5Di7sTCL8zU5rHMl98qliQ) | 4:30 |
 | 49 | [Renee](https://open.spotify.com/track/71mNLAZsr1frFhpCa3JI8G) | [Lost Boyz](https://open.spotify.com/artist/0OtigLoCgLYvXnMxbE5qH5) | [Legal Drug Money](https://open.spotify.com/album/6DciMZgZkLpqsjJUd5XgpF) | 4:53 |
 | 50 | [Bucktown](https://open.spotify.com/track/5fyRqeycMofUoGmDis5Gu6) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Dah Shinin'](https://open.spotify.com/album/0TaYPOKCUDyvZU2APQ7kPM) | 3:57 |
 
-Snapshot ID: `MTY3NTIxMjkwMSwwMDAwMDAwMGQ2N2IyMTYzNTFlZDhmYmY1OTg5MmI4MmUwNWYxZWM1`
+Snapshot ID: `MTY3NTIxMjkwMSwwMDAwMDAwMDAyYmIwYmY1ZjRlN2FkZTZjMDU2YzkyMmM1ODMxNTM4`

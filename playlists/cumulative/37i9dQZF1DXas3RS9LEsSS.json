@@ -1300,10 +1300,28 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 255700,
       "name": "Todo Va a Arder (En vivo en Sesiones de Bar)",
       "url": "https://open.spotify.com/track/5kZxky7iciP3kEKn8nPlm9"
+    },
+    {
+      "album": {
+        "name": "Sesiones de Bar (En Vivo) [en Vivo En Sesiones De Bar]",
+        "url": "https://open.spotify.com/album/162BkJqCubZjEZGe8bwHZM"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255700,
+      "name": "Todo Va a Arder - (en Vivo En Sesiones De Bar)",
+      "url": "https://open.spotify.com/track/1agDiStocrfsSya5Jgw4lx"
     },
     {
       "album": {

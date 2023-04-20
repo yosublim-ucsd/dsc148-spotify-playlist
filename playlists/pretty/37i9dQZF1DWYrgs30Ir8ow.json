@@ -1,15 +1,15 @@
 {
   "description": "Altijd fris in Fresh Hits. Cover: Claude",
-  "num_followers": 15004,
+  "num_followers": 15018,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTU2NzkyMiwwMDAwMDAwMGNlMWU4YzY0YmZjN2ZiYTg2ZjU0MWIzMTc1NThiZjdk",
+  "snapshot_id": "MTY4MTg5OTg3NiwwMDAwMDAwMGQ3MGM3OTI3MDYxYzZkNDI5Nzg2MjMzYTNlYWMzZDAz",
   "tracks": [
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "Layla",
         "url": "https://open.spotify.com/album/1ba0iVHm6wU4hfVfb8fKhl"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/18tV3JqwwB5Acsa8vP12lp"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "Padellen",
         "url": "https://open.spotify.com/album/3q35BTO8rRIOxSPFJgGvh1"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/7vjvSnuolvOBNgJDSodY2B"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "Doe Me Dansje",
         "url": "https://open.spotify.com/album/2WsN1f9lwKcmJHO9VupsZa"
@@ -85,43 +85,7 @@
       "url": "https://open.spotify.com/track/79LE0asiuQOsZoe2Uwp898"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
-      "album": {
-        "name": "Kill Bill (feat. Doja Cat)",
-        "url": "https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 175836,
-      "name": "Kill Bill (feat. Doja Cat)",
-      "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
-    },
-    {
-      "added_at": "2023-04-15 14:12:02",
-      "album": {
-        "name": "Never Felt So Alone",
-        "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 160166,
-      "name": "Never Felt So Alone",
-      "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
-    },
-    {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
@@ -145,7 +109,43 @@
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
+      "album": {
+        "name": "Kill Bill (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 175836,
+      "name": "Kill Bill (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ"
+    },
+    {
+      "added_at": "2023-04-19 10:23:45",
+      "album": {
+        "name": "Never Felt So Alone",
+        "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 160166,
+      "name": "Never Felt So Alone",
+      "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
+    },
+    {
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "Rommel",
         "url": "https://open.spotify.com/album/6iyEGMk28j3ZuiQxz5lvU5"
@@ -161,7 +161,7 @@
       "url": "https://open.spotify.com/track/0pw06mcIzuAeLPOHZT7W4Z"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "Witte Duiven",
         "url": "https://open.spotify.com/album/2CAsrEQhyk7i7T1ouGbhU0"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/2Kc3Zqu8hzWJBsJgnBtbGa"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "Chemical",
         "url": "https://open.spotify.com/album/6NoH5RUtjoh6ae2lJ9gWfq"
@@ -193,95 +193,7 @@
       "url": "https://open.spotify.com/track/4qzEjmuz380jeiBJp31oDY"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
-      "album": {
-        "name": "HOPE",
-        "url": "https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 242691,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R"
-    },
-    {
-      "added_at": "2023-04-15 14:12:02",
-      "album": {
-        "name": "Verleden Tijd",
-        "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 167244,
-      "name": "Verleden Tijd",
-      "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
-    },
-    {
-      "added_at": "2023-04-15 14:12:02",
-      "album": {
-        "name": "Good Feeling (feat. Rhys Lewis)",
-        "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 214942,
-      "name": "Good Feeling (feat. Rhys Lewis)",
-      "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
-    },
-    {
-      "added_at": "2023-04-15 14:12:02",
-      "album": {
-        "name": "Wish You The Best",
-        "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "Wish You The Best",
-      "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
-    },
-    {
-      "added_at": "2023-04-15 14:12:02",
-      "album": {
-        "name": "Cap",
-        "url": "https://open.spotify.com/album/3ZqC7VFrPrFboWxBRXxkPK"
-      },
-      "artists": [
-        {
-          "name": "Mello",
-          "url": "https://open.spotify.com/artist/7y5VBLWk09ToCfM9HVv6Fn"
-        },
-        {
-          "name": "Architrackz",
-          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
-        }
-      ],
-      "duration_ms": 135445,
-      "name": "Cap",
-      "url": "https://open.spotify.com/track/5bTfALoLZyAh8ChIDbyP06"
-    },
-    {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
@@ -301,7 +213,115 @@
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
+      "album": {
+        "name": "HOPE",
+        "url": "https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 242691,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R"
+    },
+    {
+      "added_at": "2023-04-19 10:23:45",
+      "album": {
+        "name": "Verleden Tijd",
+        "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 167244,
+      "name": "Verleden Tijd",
+      "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
+    },
+    {
+      "added_at": "2023-04-19 10:23:45",
+      "album": {
+        "name": "Good Feeling (feat. Rhys Lewis)",
+        "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 214942,
+      "name": "Good Feeling (feat. Rhys Lewis)",
+      "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
+    },
+    {
+      "added_at": "2023-04-19 10:23:45",
+      "album": {
+        "name": "THIS YEAR (Blessings)",
+        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+        }
+      ],
+      "duration_ms": 126206,
+      "name": "THIS YEAR (Blessings)",
+      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
+    },
+    {
+      "added_at": "2023-04-19 10:23:45",
+      "album": {
+        "name": "Wish You The Best",
+        "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
+    },
+    {
+      "added_at": "2023-04-19 10:23:45",
+      "album": {
+        "name": "Cap",
+        "url": "https://open.spotify.com/album/3ZqC7VFrPrFboWxBRXxkPK"
+      },
+      "artists": [
+        {
+          "name": "Mello",
+          "url": "https://open.spotify.com/artist/7y5VBLWk09ToCfM9HVv6Fn"
+        },
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        }
+      ],
+      "duration_ms": 135445,
+      "name": "Cap",
+      "url": "https://open.spotify.com/track/5bTfALoLZyAh8ChIDbyP06"
+    },
+    {
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "Er Was Eens Een Meid",
         "url": "https://open.spotify.com/album/3fO8TSTjkapJpQU4xKgahE"
@@ -317,7 +337,7 @@
       "url": "https://open.spotify.com/track/128TSKhbp925wwRpJksRXH"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "Engelbewaarder",
         "url": "https://open.spotify.com/album/3c6Hst9lqpnnRRpEbP1RxH"
@@ -333,7 +353,7 @@
       "url": "https://open.spotify.com/track/2C2vSufLm1wLq2GjDH3iMh"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
@@ -349,7 +369,7 @@
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "Leidseplein",
         "url": "https://open.spotify.com/album/3qrxL8lc4PrftAnuTvxpgC"
@@ -369,7 +389,7 @@
       "url": "https://open.spotify.com/track/0Hi3vw8XJ14gs9zE721zmN"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "Push Up (Original Mix)",
         "url": "https://open.spotify.com/album/4OPl8QJEF698sMfW76g5mK"
@@ -385,7 +405,7 @@
       "url": "https://open.spotify.com/track/43OMUa5jouGCZEz9k9vooo"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "Crying On The Dancefloor",
         "url": "https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7"
@@ -413,7 +433,7 @@
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "VOID",
         "url": "https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2"
@@ -424,12 +444,12 @@
           "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
         }
       ],
-      "duration_ms": 250350,
+      "duration_ms": 247873,
       "name": "VOID",
       "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "Roddels",
         "url": "https://open.spotify.com/album/0AKNcOmJM09yEmaPDh0zrB"
@@ -449,7 +469,7 @@
       "url": "https://open.spotify.com/track/4LgdcClmqjGVmtPi6Sbfr7"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "All Nighter",
         "url": "https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV"
@@ -465,7 +485,7 @@
       "url": "https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "Search & Rescue",
         "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
@@ -481,7 +501,7 @@
       "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
@@ -505,7 +525,7 @@
       "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "FACE",
         "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
@@ -521,7 +541,7 @@
       "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "Zij Heeft Alles",
         "url": "https://open.spotify.com/album/69jSlMa042sypmsAS7rORE"
@@ -537,7 +557,7 @@
       "url": "https://open.spotify.com/track/5dX4ciRfkCnVV37T4CFuBa"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "MON LOVE OHO",
         "url": "https://open.spotify.com/album/3Kw0SPNrjAZ9fL1TtfsnL9"
@@ -553,7 +573,7 @@
       "url": "https://open.spotify.com/track/6PkKOTfky37pdi6e0nJcm4"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "All Of The Girls You Loved Before",
         "url": "https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD"
@@ -569,7 +589,7 @@
       "url": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "De Nacht",
         "url": "https://open.spotify.com/album/7BwQcp2ElEdta4qGT0HUII"
@@ -585,7 +605,7 @@
       "url": "https://open.spotify.com/track/5S3KPuHQxUFsBQgcW4WLgi"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "Heart Wants What It Wants",
         "url": "https://open.spotify.com/album/2UaBO1EDivXwUZengjvRBG"
@@ -601,27 +621,7 @@
       "url": "https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
-      "album": {
-        "name": "Alleen (Weer)",
-        "url": "https://open.spotify.com/album/4ygSGZsHpGfCkTcRVjiAco"
-      },
-      "artists": [
-        {
-          "name": "Lil Kleine",
-          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        }
-      ],
-      "duration_ms": 217785,
-      "name": "Alleen (Weer)",
-      "url": "https://open.spotify.com/track/2KhW9wzxsOjcHhRqIq1dfn"
-    },
-    {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "Us Against the World (Remix)",
         "url": "https://open.spotify.com/album/5SZXD6IbW91jQKMTJmwlvv"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/0pGecxPm2EOIQgc241d38t"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "seeing you with other girls",
         "url": "https://open.spotify.com/album/61XFhjOmYfEyHgTk35zgpY"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/05EL9Ml4T3MQ2ICIONhbEF"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "Wat Is Er Gebeurd",
         "url": "https://open.spotify.com/album/5QXDJtS4EHkcVK2mYYwCr7"
@@ -677,7 +677,7 @@
       "url": "https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "Relax My Eyes",
         "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "Weekends",
         "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
     },
     {
-      "added_at": "2023-04-15 14:12:02",
+      "added_at": "2023-04-19 10:23:45",
       "album": {
         "name": "Doe Wat Je Doet",
         "url": "https://open.spotify.com/album/5vn20sanTK8TRN2JyQrymL"

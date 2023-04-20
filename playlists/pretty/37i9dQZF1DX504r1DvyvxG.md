@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,576,370 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,576,813 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 32 | [50 Ways to Leave Your Lover](https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:37 |
 | 33 | [The Boxer](https://open.spotify.com/track/76TZCvJ8GitQ2FA1q5dKu0) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 5:08 |
 | 34 | [The Wind \- Remastered 2021](https://open.spotify.com/track/0wEo4mwfs6tXYgCem9m9wP) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser And The Firecat \(Remastered 2021\)](https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg) | 1:42 |
-| 35 | [Pink Moon](https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:04 |
-| 36 | [Tears in Heaven \- Acoustic Live](https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 4:40 |
+| 35 | [Tears in Heaven \- Acoustic Live](https://open.spotify.com/track/3UqHlIBI771FNCiLY5MKrp) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Deluxe Edition\) \(Live\)](https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa) | 4:40 |
+| 36 | [Pink Moon](https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:04 |
 | 37 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 |
 | 38 | [Bad, Bad Leroy Brown](https://open.spotify.com/track/1O0xeZrBDbq7HPREdmYUYK) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [Life & Times](https://open.spotify.com/album/3q7L4mosMmOcmQNE1d0H4s) | 3:02 |
 | 39 | [You've Got To Hide Your Love Away \- Remastered 2009](https://open.spotify.com/track/4F1AgKpuFRMLEgtPETVwZk) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Help! \(Remastered\)](https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX) | 2:09 |
@@ -93,20 +93,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 83 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/4Vn7TykT27PIygBiZjTR2s) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 6:31 |
 | 84 | [Angeles](https://open.spotify.com/track/2uwN3PDudlRkAKE3wA0OqJ) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:56 |
 | 85 | [May You Never](https://open.spotify.com/track/6ofam9RHTG7UBUa6uO2MjP) | [John Martyn](https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks) | [Solid Air](https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp) | 3:40 |
-| 86 | [Boulder to Birmingham \- 2003 Remaster](https://open.spotify.com/track/05XNDab0Lhitzqk7tRpOnY) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Pieces of the Sky \(Expanded & Remastered\)](https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex) | 3:33 |
-| 87 | [Long Time Comin'](https://open.spotify.com/track/4OfCkjpcpqKgr9igYyOSHm) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Terms of My Surrender](https://open.spotify.com/album/5Kl06Gn6TlYxhRr7Qmrr8m) | 4:12 |
-| 88 | [Home Again](https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:32 |
+| 86 | [Home Again](https://open.spotify.com/track/46EuzanXhKwIc7755wLAvS) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 3:32 |
+| 87 | [Boulder to Birmingham \- 2003 Remaster](https://open.spotify.com/track/05XNDab0Lhitzqk7tRpOnY) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Pieces of the Sky \(Expanded & Remastered\)](https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex) | 3:33 |
+| 88 | [Long Time Comin'](https://open.spotify.com/track/4OfCkjpcpqKgr9igYyOSHm) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Terms of My Surrender](https://open.spotify.com/album/5Kl06Gn6TlYxhRr7Qmrr8m) | 4:12 |
 | 89 | [Hit Or Miss](https://open.spotify.com/track/4YJ1KDI6tUSapyD6XTAg8i) | [Odetta](https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H) | [Odetta Sings](https://open.spotify.com/album/1dG9AMcbsyxRCJO6aXL5jp) | 3:54 |
 | 90 | [Where Do You Go To \(My Lovely\) \- Re\-Recorded](https://open.spotify.com/track/6M665tf7ZKQzUFA5yOrUE4) | [Peter Sarstedt](https://open.spotify.com/artist/3ExGDjEKejMhyciAgxPe0B) | [The Lost Album](https://open.spotify.com/album/68it2FTN3u7cMWuHR4yYpu) | 4:47 |
 | 91 | [Your Song](https://open.spotify.com/track/7gCeodIXjhCLDWC5H1LOmT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm) | 4:04 |
 | 92 | [All Things Must Pass \- 2020 Mix](https://open.spotify.com/track/3R02p0Xtd3azbP3HPYgMuy) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(50th Anniversary;Super Deluxe\)](https://open.spotify.com/album/1HOUPV73m7qwWoYw7m9Y56) | 3:46 |
 | 93 | [Wuthering Heights \- 2018 Remaster](https://open.spotify.com/track/4Q3vc39QZjLpGG7cS33kiC) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside \(2018 Remaster\)](https://open.spotify.com/album/0ld04FI3tfuxefSbNwCJSc) | 4:28 |
-| 94 | [Angie \- 2015 Remaster](https://open.spotify.com/track/4QTV3dLUyYu5vFPEFvA1jg) | [Bert Jansch](https://open.spotify.com/artist/1FqG6mhiJbhbMg43ohCT6D) | [Bert Jansch](https://open.spotify.com/album/2Fqo2YzPayuwaiUJEqUMGy) | 3:09 |
-| 95 | [Mercy Now](https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Mercy Now](https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW) | 5:50 |
+| 94 | [Mercy Now](https://open.spotify.com/track/6684GUHy1jpyhJVzpz5OFr) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Mercy Now](https://open.spotify.com/album/1FGmBGkpEjtrtqbW85d9TW) | 5:50 |
+| 95 | [Angie \- 2015 Remaster](https://open.spotify.com/track/4QTV3dLUyYu5vFPEFvA1jg) | [Bert Jansch](https://open.spotify.com/artist/1FqG6mhiJbhbMg43ohCT6D) | [Bert Jansch](https://open.spotify.com/album/2Fqo2YzPayuwaiUJEqUMGy) | 3:09 |
 | 96 | [San Francisco Days](https://open.spotify.com/track/5Trbt34yBAzpM59c6G8pqO) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [San Francisco Days](https://open.spotify.com/album/75BiePy3TDKg9or1NKm0ov) | 2:58 |
 | 97 | [Let Him Fly](https://open.spotify.com/track/15GiOLRhRZGM07xhEorDZ4) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Living With Ghosts](https://open.spotify.com/album/4wKotVRbGtfTtDCCAShOTF) | 3:11 |
 | 98 | [Just Like a Woman](https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 4:50 |
 | 99 | [900 Miles](https://open.spotify.com/track/0zVduthKvT1FEsUGFWT9Xo) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [The New Folk Sound Of Terry Callier \(Deluxe Edition\)](https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7) | 5:07 |
 | 100 | [Little Bit Of Rain](https://open.spotify.com/track/09g4TuWLxMmrOTt1kzS47Z) | [Karen Dalton](https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy) | [It's So Hard To Tell Who's Going To Love You The Best](https://open.spotify.com/album/1O330PE8lc1dDXduHBwLXe) | 2:36 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDgwN2Y0YjUzNTk4ZTg4YjMyYmZjN2UwYjY1OTlhMjUz`
+Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMDcwNzhjNTg5ZDI0YzQzNjE4Yzk5NDhjN2VjMTQzN2Yy`

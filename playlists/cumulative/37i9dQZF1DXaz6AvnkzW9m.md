@@ -4,7 +4,7 @@
 
 > El cholo se hizo buchón 😎🤠 Dan García, Sebastián Esquivel & Eugenio Esquivel en portada.
 
-162 songs - 8 hr 22 min
+163 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Miren](https://open.spotify.com/track/26QCwwosXJCs9k9XxhVvHv) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [Ahora Tengo Todo Menos A Ti](https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL) | 3:34 | 2022-09-07 | 2022-11-08 |
 | [Modo Vuelo](https://open.spotify.com/track/0uqNJ3WdaFNHt4KOsK5o5k) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj) | [Modo Vuelo](https://open.spotify.com/album/7CVOUsa2OugJkofhEFQUw6) | 3:11 | 2022-09-09 | 2022-12-03 |
 | [Moreno 80](https://open.spotify.com/track/1MGJxKsoJ88nwrEMnueAE5) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Moreno 80 \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/5StKBBdChEqEpYAJlsl5lO) | 3:02 | 2021-12-17 |  |
+| [México Bélico](https://open.spotify.com/track/5mjis1dx7DwjvpiBZOXSqN) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [México Bélico](https://open.spotify.com/album/6gCNEc8cMwuTzba9Fz6fiq) | 4:06 | 2023-04-14 |  |
 | [Negro Como La Pantera](https://open.spotify.com/track/1QpM1kB7sggMOBuWUNUnfg) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Negro Como La Pantera](https://open.spotify.com/album/1V2a8dVFLfV4lju73nnIXr) | 2:09 | 2023-02-24 |  |
 | [Ni Mis Padres Saben Que Rollo](https://open.spotify.com/track/5LbyrPgyNvJJCsNYeklVor) | [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Miro Lo Que Otros No Miran](https://open.spotify.com/album/2f0ZAy2JyvNIJGLEVHAp4t) | 3:14 | 2021-12-17 | 2022-11-08 |
 | [Niño De Oro](https://open.spotify.com/track/14kvemCUeClwApvM2xl4eb) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q) | [Niño De Oro \(Deluxe Version\)](https://open.spotify.com/album/7e47cka7yBWYWNhcFjixcz) | 2:56 | 2023-01-13 |  |
@@ -157,7 +158,7 @@
 | [That’s It](https://open.spotify.com/track/0JnFnLPBAPbhgAS8r2lUx7) | [Los de 954](https://open.spotify.com/artist/61VyNp2TuHcKpOGmtVTRP7) | [That’s It](https://open.spotify.com/album/1kIzdEL0aaDg1GAHG8Lnfa) | 3:02 | 2022-12-31 | 2023-01-14 |
 | [Tiempos de Guerra](https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1), [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [Tiempos de Guerra](https://open.spotify.com/album/5S5kavEVkjHzXEANJ8bNqt) | 2:52 | 2021-12-17 |  |
 | [Tirando Flow Sesh \#9](https://open.spotify.com/track/1eIr2ASXWFEgjhQQflPZTe) | [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [Tirando Flow Sesh \#9](https://open.spotify.com/album/2zB3LXzrfi3FoNI4kPLgtO) | 3:07 | 2023-04-14 |  |
-| [Tumbate El Rollo](https://open.spotify.com/track/2nCFQaUCvrcPiMkhT7Wb6D) | [Los De La Zona](https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg), [ForyFive](https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq) | [Tumbate El Rollo](https://open.spotify.com/album/5GE54IpPFRPlNJUczVw7X1) | 3:01 | 2023-02-03 |  |
+| [Tumbate El Rollo](https://open.spotify.com/track/2nCFQaUCvrcPiMkhT7Wb6D) | [Los De La Zona](https://open.spotify.com/artist/52vdciS5WkduRWjZ2dCGxg), [ForyFive](https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq) | [Tumbate El Rollo](https://open.spotify.com/album/5GE54IpPFRPlNJUczVw7X1) | 3:01 | 2023-02-03 | 2023-04-20 |
 | [Tú También Eres De Barrio](https://open.spotify.com/track/24BbCLyggRqfIKpLbnPgAT) | [La Fase 3](https://open.spotify.com/artist/29Cl7Hr5OrIZOKOZAkCEDj) | [Tú También Eres De Barrio](https://open.spotify.com/album/5Kkb8hbbFca8hKh0NnwQtM) | 2:49 | 2022-07-08 | 2022-10-25 |
 | [Un Gallito](https://open.spotify.com/track/05zSBtOKH2ROvTGq1cQs6s) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [Nico Orozco](https://open.spotify.com/artist/6FK625Yp4c5CpB2h5A7Qhe) | [Un Gallito](https://open.spotify.com/album/5YmoiDDH7cL9R1DA1W1iGZ) | 3:02 | 2023-02-24 | 2023-03-11 |
 | [Una Raya Más Al Tigre](https://open.spotify.com/track/7LEx6UUC2xzYGz8D8eCU36) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 3:10 | 2022-12-30 | 2023-02-04 |

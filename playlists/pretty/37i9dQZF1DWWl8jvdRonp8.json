@@ -1,12 +1,12 @@
 {
   "description": "Las grandes canciones escritas por El Buki.",
-  "num_followers": 159521,
+  "num_followers": 159646,
   "original_name": "Cancionero Marco Antonio Solis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzI1NjIzNiwwMDAwMDAwMDNhNzBmMTJlNmQ1NjY1MWVmOTA4OTQ1ZWNjMjY0YzEz",
+  "snapshot_id": "MTY3NzI1NjIzNiwwMDAwMDAwMDJmODQ2NzQ0MGE5ODE4ZjY0YWQ1N2RiYWY3N2NmMzNj",
   "tracks": [
     {
       "added_at": "2023-02-24 16:30:36",
@@ -671,18 +671,22 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "En Vivo Guadalajara - Monterrey (Live)",
-        "url": "https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6"
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
       "artists": [
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Se Va Muriendo Mi Alma - En Vivo",
-      "url": "https://open.spotify.com/track/4VinpEidS9wmMuqmljyd21"
+      "duration_ms": 237400,
+      "name": "Recuerdos, Tristeza Y Soledad",
+      "url": "https://open.spotify.com/track/4FjZvGHJpFLJIZxCpsoRnP"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -719,22 +723,18 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+        "name": "En Vivo Guadalajara - Monterrey (Live)",
+        "url": "https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6"
       },
       "artists": [
         {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        },
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 237400,
-      "name": "Recuerdos, Tristeza Y Soledad",
-      "url": "https://open.spotify.com/track/4FjZvGHJpFLJIZxCpsoRnP"
+      "duration_ms": 231800,
+      "name": "Se Va Muriendo Mi Alma - En Vivo",
+      "url": "https://open.spotify.com/track/4VinpEidS9wmMuqmljyd21"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -795,8 +795,8 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "La Mejor Interprete de Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/2KNFsV9QcoYYSZKIfCMTK7"
+        "name": "15 \u00c9xitos de Marisela Vol. 1",
+        "url": "https://open.spotify.com/album/6YLiyX7kvfDkKu1AGhQj6z"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
         }
       ],
-      "duration_ms": 234813,
-      "name": "Vete Con Ella",
-      "url": "https://open.spotify.com/track/0qyvsjsNuMWQVAm2JK8n2W"
+      "duration_ms": 295200,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/3crvH7jcVEdeZdE594WDgq"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 205373,
-      "name": "Inv\u00e9ntame",
-      "url": "https://open.spotify.com/track/1yTl2UvjZFPUVE8ugKQdOY"
-    },
-    {
-      "added_at": "2023-02-24 16:30:36",
-      "album": {
         "name": "Lo M\u00e1s Rom\u00e1ntico De",
         "url": "https://open.spotify.com/album/5dQIGbAkUGuLtNdhb8ttAx"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 196946,
       "name": "Mira Nomas",
       "url": "https://open.spotify.com/track/0bewBWJTe68j6138OW4nc0"
+    },
+    {
+      "added_at": "2023-02-24 16:30:36",
+      "album": {
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "Inv\u00e9ntame",
+      "url": "https://open.spotify.com/track/1yTl2UvjZFPUVE8ugKQdOY"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
-        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 299786,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/1e2eAz8e7DvfCqCSTbzuVb"
-    },
-    {
-      "added_at": "2023-02-24 16:30:36",
-      "album": {
         "name": "De Corazon Bohemio",
         "url": "https://open.spotify.com/album/05jXRbAmwH2b3XTRfKC0j5"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 175570,
       "name": "Tu\u0301 Carcel",
       "url": "https://open.spotify.com/track/60SAF5Xc5c04HzCNpP4rfO"
+    },
+    {
+      "added_at": "2023-02-24 16:30:36",
+      "album": {
+        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
+        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 299786,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/1e2eAz8e7DvfCqCSTbzuVb"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1519,22 +1519,18 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Todos Somos MAS",
-        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
+        "name": "Pa' La Pista y Pa'l Pisto, Vol. 2",
+        "url": "https://open.spotify.com/album/5TEuiPGD4Gpmy7mE3nfHPI"
       },
       "artists": [
         {
-          "name": "Alison Sol\u00eds",
-          "url": "https://open.spotify.com/artist/5LspS8XQ6f8xUaNNOqvpls"
-        },
-        {
-          "name": "Marla Sol\u00eds",
-          "url": "https://open.spotify.com/artist/4WGhCycVJ6vlJtwiMwQ0UM"
+          "name": "El Plan",
+          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
         }
       ],
-      "duration_ms": 234920,
-      "name": "Extra\u00f1\u00e1ndote",
-      "url": "https://open.spotify.com/track/3r0FRf0nVEpKA3OcMVjZiO"
+      "duration_ms": 230986,
+      "name": "Encadenada a Mi",
+      "url": "https://open.spotify.com/track/5ixMsTxqRLxMQm9E7d4Glf"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1555,34 +1551,22 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
-        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
-        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
+        "name": "Todos Somos MAS",
+        "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
       "artists": [
         {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 284293,
-      "name": "Tu C\u00e1rcel",
-      "url": "https://open.spotify.com/track/550U627v5DqbPJnwb7bYMh"
-    },
-    {
-      "added_at": "2023-02-24 16:30:36",
-      "album": {
-        "name": "Pa' La Pista y Pa'l Pisto, Vol. 2",
-        "url": "https://open.spotify.com/album/5TEuiPGD4Gpmy7mE3nfHPI"
-      },
-      "artists": [
+          "name": "Alison Sol\u00eds",
+          "url": "https://open.spotify.com/artist/5LspS8XQ6f8xUaNNOqvpls"
+        },
         {
-          "name": "El Plan",
-          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
+          "name": "Marla Sol\u00eds",
+          "url": "https://open.spotify.com/artist/4WGhCycVJ6vlJtwiMwQ0UM"
         }
       ],
-      "duration_ms": 230986,
-      "name": "Encadenada a Mi",
-      "url": "https://open.spotify.com/track/5ixMsTxqRLxMQm9E7d4Glf"
+      "duration_ms": 234920,
+      "name": "Extra\u00f1\u00e1ndote",
+      "url": "https://open.spotify.com/track/3r0FRf0nVEpKA3OcMVjZiO"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1639,6 +1623,22 @@
     {
       "added_at": "2023-02-24 16:30:36",
       "album": {
+        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
+        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 284293,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/550U627v5DqbPJnwb7bYMh"
+    },
+    {
+      "added_at": "2023-02-24 16:30:36",
+      "album": {
         "name": "Todos Somos MAS",
         "url": "https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20"
       },
@@ -1651,22 +1651,6 @@
       "duration_ms": 191013,
       "name": "La Venia Bendita",
       "url": "https://open.spotify.com/track/5KDiyuE8bI27VdLCi2EAA7"
-    },
-    {
-      "added_at": "2023-02-24 16:30:36",
-      "album": {
-        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
-        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 291640,
-      "name": "O Me Voy O Te Vas",
-      "url": "https://open.spotify.com/track/5ZAhWa5A8cr5Ph0BR8dyQl"
     },
     {
       "added_at": "2023-02-24 16:30:36",
@@ -1747,6 +1731,22 @@
       "duration_ms": 228346,
       "name": "Necesito una Compa\u00f1era",
       "url": "https://open.spotify.com/track/0g4K2MIS85uIwUsGxKDIig"
+    },
+    {
+      "added_at": "2023-02-24 16:30:36",
+      "album": {
+        "name": "Canciones Cl\u00e1sicas De Marco Antonio Sol\u00eds",
+        "url": "https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 291640,
+      "name": "O Me Voy O Te Vas",
+      "url": "https://open.spotify.com/track/5ZAhWa5A8cr5Ph0BR8dyQl"
     },
     {
       "added_at": "2023-02-24 16:30:36",

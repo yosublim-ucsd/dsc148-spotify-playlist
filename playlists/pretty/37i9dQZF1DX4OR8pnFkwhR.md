@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 春ねむり
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,147 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,166 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 12 | [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 |
 | 13 | [Gominingen,Ore](https://open.spotify.com/track/3X3MJOy234znJI7iOLBaL9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:49 |
 | 14 | [FINE LINE \(feat\. Skaai\) \(Prod\. uin\)](https://open.spotify.com/track/2y449AvZEi4dbGoSjnsgSY) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [uin](https://open.spotify.com/artist/4QeHs1eoKjxJLPFOkgsNjw), [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [FINE LINE \(feat\. Skaai\) \(Prod\. uin\)](https://open.spotify.com/album/6YJVSyedYS0JQhntp53G4P) | 2:59 |
-| 15 | [カウントダウン・ラグ](https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [インナーダイアログ](https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh) | 5:25 |
+| 15 | [Countdown Rag](https://open.spotify.com/track/4I3f7odzNXdhDrxX4W4aT3) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Inner Dialog](https://open.spotify.com/album/48AHaxshOHD3ktB9Ea5RDN) | 5:25 |
 | 16 | [夢にならないように](https://open.spotify.com/track/3akniqbPdq5nhh19QtxAq2) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [陽気な休日](https://open.spotify.com/album/6j9nxtP0BmchrWc9JkBT2G) | 4:28 |
 | 17 | [Who are you ?](https://open.spotify.com/track/5BbgSQt406V1N0G3S7sYWs) | [Liza](https://open.spotify.com/artist/2lt6QQR32fKGBooeTvd2wd), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Who are you ?](https://open.spotify.com/album/1itmOBTEkREB9z5WCRRfJX) | 2:56 |
 | 18 | [Hozue](https://open.spotify.com/track/7p3plksuVPhzw06KskgFFr) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Hozue](https://open.spotify.com/album/0HC1HrnxGZyvss2drq6Ff0) | 3:40 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 54 | [Mocktails](https://open.spotify.com/track/41tnwHfjUpV63e0S797H7N) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3) | [Beige](https://open.spotify.com/album/4T0Va4f8kimg1wqdpEIFaR) | 2:44 |
 | 55 | [Love Letter](https://open.spotify.com/track/0p771me5mgbzHgZekj3iXD) | [中島雄士](https://open.spotify.com/artist/2FRIJWTtnozd9tZ0jH8CmN) | [Junction Pop](https://open.spotify.com/album/6Fm1I5GiQwoxjYTXPZS4f9) | 3:44 |
 | 56 | [Good luck ga kikoenai](https://open.spotify.com/track/55glgkUrI4v10ThfniBh0B) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [Good luck ga kikoenai](https://open.spotify.com/album/73C2HGiOsmEmgnYeZLQwAT) | 2:31 |
-| 57 | [朝になったら](https://open.spotify.com/track/5xIbExjqn7BDKHA5vEUnId) | [umitachi](https://open.spotify.com/artist/6M3JzDIG1BTMQ7eDTrIJTI) | [朝になったら](https://open.spotify.com/album/71P5mCzaBUZyXEclIjgiar) | 2:49 |
+| 57 | [ASANINATTARA](https://open.spotify.com/track/3KjbxzHS3lcHfnhimI9I3g) | [umitachi](https://open.spotify.com/artist/6M3JzDIG1BTMQ7eDTrIJTI) | [ASANINATTARA](https://open.spotify.com/album/07YeKVqGvknr3fh6o94g2w) | 2:49 |
 | 58 | [Still do](https://open.spotify.com/track/3J5diQCLgPeatxiFMq5XXX) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Still do](https://open.spotify.com/album/3GZ5Im54ZCIZc8rYZwxRTk) | 3:44 |
 | 59 | [Gensou](https://open.spotify.com/track/1CXHyiojJVoZFDBtrhqWvz) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Gensou](https://open.spotify.com/album/6cn5LTnUmif9ro3cgI3Va6) | 3:03 |
 | 60 | [祈り](https://open.spotify.com/track/7HPycbZx8VSAwN1tOdy4Ty) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [祈り](https://open.spotify.com/album/7HytM9B1Hbl3MDAMKdE5c6) | 3:37 |
 
-Snapshot ID: `MTY4MTgzMDAwMCwwMDAwMDAwMDM4NTZkNmZiOTJhZjg3YTMxMWViMTEzZTg1MWY3NjNi`
+Snapshot ID: `MTY4MTgzMDAwMCwwMDAwMDAwMDM3ZWRhMGY0MDU1ZmFkOWM3ZDYzM2E2NzQ1ZmI0Nzli`

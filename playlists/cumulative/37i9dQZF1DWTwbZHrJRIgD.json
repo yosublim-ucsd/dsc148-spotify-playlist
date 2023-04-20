@@ -198,7 +198,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 193413,
       "name": "Buzz (feat. Badshah)",
       "url": "https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd"
@@ -220,7 +220,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 261479,
       "name": "Cham Cham",
       "url": "https://open.spotify.com/track/6GVv6Zn0zfN36sKDJY1axO"
@@ -737,6 +737,28 @@
     },
     {
       "album": {
+        "name": "Haaye Oye (feat. Ash King)",
+        "url": "https://open.spotify.com/album/5vQyWyFVzojsUsBGSzmZSe"
+      },
+      "artists": [
+        {
+          "name": "QARAN",
+          "url": "https://open.spotify.com/artist/0KDEADL3DeTLtENG3DliCd"
+        },
+        {
+          "name": "Ash King",
+          "url": "https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200029,
+      "name": "Haaye Oye (feat. Ash King)",
+      "url": "https://open.spotify.com/track/0oukMLKedsqQ3ltnI2daRO"
+    },
+    {
+      "album": {
         "name": "Halka Halka (From \"Fanney Khan\")",
         "url": "https://open.spotify.com/album/58sXAhNuvqeQK02UiIh7de"
       },
@@ -800,6 +822,28 @@
       "duration_ms": 299119,
       "name": "Ik Junoon (Paint It Red)",
       "url": "https://open.spotify.com/track/7e6qTHVfRdaYsio90s1fHC"
+    },
+    {
+      "album": {
+        "name": "Raabta",
+        "url": "https://open.spotify.com/album/05U9YwErzcnF0PmyPalDo5"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274687,
+      "name": "Ik Vaari Aa",
+      "url": "https://open.spotify.com/track/7fyiYhn7STpHvT5g0lbncC"
     },
     {
       "album": {
@@ -892,7 +936,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 139699,
       "name": "Jaane Kyun",
       "url": "https://open.spotify.com/track/2XecqQiPVkouS73OYRzDC6"
@@ -1506,6 +1550,24 @@
       "duration_ms": 328052,
       "name": "Matargashti",
       "url": "https://open.spotify.com/track/5GeBgck1MU2tlIkMpsn8uT"
+    },
+    {
+      "album": {
+        "name": "Shubh Mangal Zyada Saavdhan",
+        "url": "https://open.spotify.com/album/1qvic7ic93zptwsWs2nvhU"
+      },
+      "artists": [
+        {
+          "name": "Ayushmann Khurrana",
+          "url": "https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132158,
+      "name": "Mere Liye Tum Kaafi Ho",
+      "url": "https://open.spotify.com/track/73whmTgxzRFLhPbRMkDnjj"
     },
     {
       "album": {

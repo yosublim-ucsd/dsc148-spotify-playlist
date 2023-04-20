@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-582 songs - 1 day 11 hr 0 min
+583 songs - 1 day 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Loser](https://open.spotify.com/track/5MGYY2USzSzFFrJe2Nul7Q) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [Loser](https://open.spotify.com/album/6hxA2XnQbjGb6dt4F28CPA) | 4:13 | 2021-08-29 | 2022-02-20 |
 | [Lost Cause](https://open.spotify.com/track/2xdwCJLfKCkat14mlgR26M) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Lost Cause](https://open.spotify.com/album/0hPbP7ckqqFVftdTPatlED) | 3:32 | 2021-06-05 | 2021-06-21 |
 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 | 2022-04-06 | 2023-04-19 |
-| [LOVERSE](https://open.spotify.com/track/1Bnmeza32UZ1frQTxGexnt) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [LOVERSE](https://open.spotify.com/album/1UWeqFUIIwYr17QIcO1gjB) | 4:25 | 2023-01-02 |  |
+| [LOVERSE](https://open.spotify.com/track/1Bnmeza32UZ1frQTxGexnt) | [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [LOVERSE](https://open.spotify.com/album/1UWeqFUIIwYr17QIcO1gjB) | 4:25 | 2023-01-02 | 2023-04-20 |
 | [LUNCH](https://open.spotify.com/track/23tnYfiqkTWhhb0q89SAqm) | [my little airport](https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0) | [LUNCH](https://open.spotify.com/album/5Ym5RtpuJff5IAw6iQy38k) | 2:55 | 2022-04-16 | 2022-10-20 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-12-13 | 2022-12-21 |
 | [Maroon](https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:38 | 2022-10-22 | 2022-11-10 |
@@ -501,7 +501,7 @@
 | [沒明日的恐懼](https://open.spotify.com/track/7sQwncmcjPQTKqEPXSot1v) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [沒明日的恐懼](https://open.spotify.com/album/1HxO1UY2Otzf4sLikQ3MMk) | 3:48 | 2021-07-09 | 2021-08-13 |
 | [沒有人可以為你的幸福負責](https://open.spotify.com/track/2lkYHFcSUywPfVhXEkFM4p) | [Alfred Hui](https://open.spotify.com/artist/0GCtLaB5rBjoUpQdXogZzj) | [沒有人可以為你的幸福負責](https://open.spotify.com/album/2YBZzO6Y9cogGy6H662L1r) | 3:33 | 2022-03-12 | 2022-03-16 |
 | [沒有無緣無故的恨](https://open.spotify.com/track/6YI4OXOVtZ29Rc7GxOI4sY) | [Jace Chan](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [沒有無緣無故的恨](https://open.spotify.com/album/3UugGjG8QfPiwvBDbRuhL8) | 3:45 | 2021-08-27 | 2021-12-24 |
-| [烏梅子醬](https://open.spotify.com/track/4p9jbhD6N7HpuECGusu6iT) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [縱橫四海](https://open.spotify.com/album/2FbkaXZl2bM5YU7sZYkL6Q) | 4:17 | 2023-03-07 |  |
+| [烏梅子醬](https://open.spotify.com/track/4p9jbhD6N7HpuECGusu6iT) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [縱橫四海](https://open.spotify.com/album/2FbkaXZl2bM5YU7sZYkL6Q) | 4:17 | 2023-03-07 | 2023-04-20 |
 | [無人不知的戰果 \(ViuTV劇集: 季前賽主題曲\)](https://open.spotify.com/track/6rLZknU66zYG9Q2NI4fCYl) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [無人不知的戰果 \(ViuTV劇集: 季前賽主題曲\)](https://open.spotify.com/album/6wYuPp9Bt8JVDtxImuGng0) | 4:07 | 2022-11-18 | 2023-03-19 |
 | [無糖可口可樂 X 姜濤 • 無可取代](https://open.spotify.com/track/5DuzFa95k6It0RXVTUwMYH) | [Coca\-Cola Hong Kong](https://open.spotify.com/artist/0wTxCGuTsFbWO9ePajJ8Y6) | [無糖可口可樂 X 姜濤 • 無可取代](https://open.spotify.com/album/6Z4AfMmvAOMxnx69HbGzxD) | 1:07 | 2023-03-17 |  |
 | [特倫斯夢遊仙境](https://open.spotify.com/track/366oH8GrZKjj3hnaJn9a8P) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 3:44 | 2021-12-05 | 2021-12-09 |
@@ -544,6 +544,7 @@
 | [膠 on! \(膠戰S2 主題曲\)](https://open.spotify.com/track/3Hw5UuPArZWxOQUu6tYdf1) | [6膠](https://open.spotify.com/artist/1LVOxgnKHc1CWaiNoMuQ8s) | [膠 on! \(膠戰S2 主題曲\)](https://open.spotify.com/album/1UZHXtZuKCJKRBi6mtc0DX) | 3:46 | 2022-01-13 | 2022-02-19 |
 | [自我安慰](https://open.spotify.com/track/40NvsEFexANIROSnKIMYXB) | [Leo Ku](https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ), [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [自我安慰](https://open.spotify.com/album/6dbUX5p1H2lH9CWtBoL92m) | 5:08 | 2022-09-08 | 2023-03-12 |
 | [自毀的程序](https://open.spotify.com/track/5cGipBquhoVjNn5U6XX61k) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [自毀的程序](https://open.spotify.com/album/3aCajItUBZrwQZtdNTady7) | 3:58 | 2022-07-12 | 2022-10-03 |
+| [花海](https://open.spotify.com/track/4EtIyBLHlEJoNPsb3Kv3CQ) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [花海](https://open.spotify.com/album/3jHdrD9gXC0XL1ZuD4NmMS) | 2:57 | 2023-04-19 |  |
 | [蒙著嘴說愛你](https://open.spotify.com/track/2w9A7fvq6ka5CB9l7wDZXG) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [蒙著嘴說愛你](https://open.spotify.com/album/6OPGexvajf1yf21kT1X0v9) | 4:00 | 2021-03-27\* | 2023-03-19 |
 | [虎道門](https://open.spotify.com/track/7MwGjIfcuWQUbbv8LHnxbm) | [Anson Kong 江𤒹生](https://open.spotify.com/artist/7bkvIZ8KT4kxelaAmobX8D), [Lokman Yeung 楊樂文](https://open.spotify.com/artist/5ucyj0fSEfb4e6kchrXfxp) | [虎道門](https://open.spotify.com/album/35n4Z6jQ7H4cQh56Yeltzp) | 3:52 | 2021-08-22 | 2021-09-24 |
 | [蝸牛](https://open.spotify.com/track/4zYVhAyiJySa41foU2F645) | [Anson Kong 江𤒹生](https://open.spotify.com/artist/7bkvIZ8KT4kxelaAmobX8D), [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [蝸牛](https://open.spotify.com/album/2wXZTqMw8rjDyOFuc7h0aQ) | 4:17 | 2021-05-11 | 2021-10-19 |
@@ -586,7 +587,7 @@
 | [風繼續吹](https://open.spotify.com/track/5RLv04XXxe0Nc4W7DTBJGT) | [Leslie Cheung](https://open.spotify.com/artist/2g0QLUYku8AuPVK2udRV7i) | [風繼續吹](https://open.spotify.com/album/5wqxExrvXYQquHfwD9UtWu) | 5:08 | 2021-04-03 | 2023-04-05 |
 | [風雨不改 \(電影《阿媽有咗第二個》主題曲\)](https://open.spotify.com/track/172oAbLGpgeCsukno7oBRe) | [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [風雨不改 \(電影《阿媽有咗第二個》主題曲\)](https://open.spotify.com/album/7CfGrYOJFzKlLn9yj1Ed9d) | 5:08 | 2022-08-18 |  |
 | [風靈物語](https://open.spotify.com/track/1SqvBGCkvXVFDAQf2ZJa02) | [Jer 柳應廷](https://open.spotify.com/artist/6FH5vFm7hqDm3UzEAYuizY) | [風靈物語](https://open.spotify.com/album/6TYkKQdnTNnw5E1OQWZZ1m) | 4:09 | 2021-07-23 | 2021-07-24 |
-| [飄流教室](https://open.spotify.com/track/5AnD1Tmu5hKPeHGyxGq6LJ) | [Leo Ku](https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ), [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [飄流教室](https://open.spotify.com/album/7lMwgXZvrG5rhwHTA4tlbJ) | 4:34 | 2022-06-23 | 2023-04-03 |
+| [飄流教室](https://open.spotify.com/track/5AnD1Tmu5hKPeHGyxGq6LJ) | [Leo Ku](https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ), [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [飄流教室](https://open.spotify.com/album/7lMwgXZvrG5rhwHTA4tlbJ) | 4:34 | 2022-06-23 |  |
 | [飞鸟和蝉](https://open.spotify.com/track/0O7O4sssbFxoNoB4QRGra1) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [飞鸟和蝉](https://open.spotify.com/album/4LGp83hqpcHOAk50c7IQeK) | 4:56 | 2021-03-27\* | 2021-04-26 |
 | [騷靈情歌](https://open.spotify.com/track/5MH9JHCKH1Hm3ih9m9ljy8) | [Hins Cheung](https://open.spotify.com/artist/2MVfNjocvNrE03cQuxpsWK) | [笑忘書](https://open.spotify.com/album/1p7eFSD6iJI0RqtpYXjKbT) | 4:09 | 2022-05-31 | 2022-06-05 |
 | [鯨落](https://open.spotify.com/track/1rTnGbIahUmq6fK8RWAXfd) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [鯨落](https://open.spotify.com/album/6TNTfqsjHvxcrzjaO3fvWC) | 4:02 | 2021-03-27\* | 2023-03-19 |

@@ -1685,6 +1685,24 @@
     },
     {
       "album": {
+        "name": "Fluent Stutter",
+        "url": "https://open.spotify.com/album/23Moldp9m4ZHPUHokhwg3z"
+      },
+      "artists": [
+        {
+          "name": "Deki Alem",
+          "url": "https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146626,
+      "name": "Fluent Stutter",
+      "url": "https://open.spotify.com/track/3FnEbhsdwIbe9gPR0O1okt"
+    },
+    {
+      "album": {
         "name": "Luv Is Rage 2",
         "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
       },

@@ -1,12 +1,12 @@
 {
   "description": "The world series of Ska. Cover: The Interrupters",
-  "num_followers": 30251,
+  "num_followers": 30335,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMGZmMWRjY2IwMzQ1YTM4ZjMwYTNhZjQzN2EzNGExOWVh",
+  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDFmNjM4ZWQyODc2ZDIxNmVlNTk0NTA0YWVlY2I5Yzcx",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "The Specials (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "A Message to You Rudy - 2015 Remaster",
-      "url": "https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "No Es Lo Que Parece",
         "url": "https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 191460,
       "name": "Kil\u00f3metros",
       "url": "https://open.spotify.com/track/4Jr2cHZaIe1rmdVlc5efIy"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "The Specials (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "A Message to You Rudy - 2015 Remaster",
+      "url": "https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Sue\u00f1os de Anoche",
-        "url": "https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff"
-      },
-      "artists": [
-        {
-          "name": "Los Estramboticos",
-          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
-        }
-      ],
-      "duration_ms": 237666,
-      "name": "La Herida",
-      "url": "https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Fight the Good Fight",
         "url": "https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 170453,
       "name": "She's Kerosene",
       "url": "https://open.spotify.com/track/60FJeNTK5edr72G2xtCWuP"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Sue\u00f1os de Anoche",
+        "url": "https://open.spotify.com/album/5B2tIZLviuK1wYbrxA9cff"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        }
+      ],
+      "duration_ms": 237666,
+      "name": "La Herida",
+      "url": "https://open.spotify.com/track/0vQfzyjQFHQ208JCNjcE5H"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "99%",
+        "url": "https://open.spotify.com/album/4XqbCTI7eyQUZ4pnya9hOo"
+      },
+      "artists": [
+        {
+          "name": "Ska-P",
+          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
+        }
+      ],
+      "duration_ms": 278234,
+      "name": "Canto a la Rebeli\u00f3n",
+      "url": "https://open.spotify.com/track/3Omx1tugYI03ULA1zcLCj6"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/3iYqZjOvHf05btkIaihOUi"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 210986,
       "name": "Oro",
       "url": "https://open.spotify.com/track/29c0OXo0x1xYt6MMBXFmTn"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "99%",
-        "url": "https://open.spotify.com/album/4XqbCTI7eyQUZ4pnya9hOo"
-      },
-      "artists": [
-        {
-          "name": "Ska-P",
-          "url": "https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl"
-        }
-      ],
-      "duration_ms": 278234,
-      "name": "Canto a la Rebeli\u00f3n",
-      "url": "https://open.spotify.com/track/3Omx1tugYI03ULA1zcLCj6"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl"
-      },
-      "artists": [
-        {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Tu Alma M\u00eda / Adelita",
-      "url": "https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Salon Victoria",
         "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 183480,
       "name": "Mi Vida es un Tango",
       "url": "https://open.spotify.com/track/7dCOvIWIepwEn9Vxa2dpR6"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Tu Alma M\u00eda / Adelita",
+      "url": "https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Klub Ska",
-        "url": "https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 206039,
-      "name": "S\u00f3lo Vivir",
-      "url": "https://open.spotify.com/track/5MOx0l5aTGHFTJSTYpkDxz"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "A Frontline Compilation",
         "url": "https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 166040,
       "name": "Mr. Smiley",
       "url": "https://open.spotify.com/track/12GEszobr92vUXs4LCdwjK"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Klub Ska",
+        "url": "https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 206039,
+      "name": "S\u00f3lo Vivir",
+      "url": "https://open.spotify.com/track/5MOx0l5aTGHFTJSTYpkDxz"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "The Very Best of The Selecter",
-        "url": "https://open.spotify.com/album/1Sk2mljWUTXFEtZpoT0fPg"
-      },
-      "artists": [
-        {
-          "name": "The Selecter",
-          "url": "https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF"
-        }
-      ],
-      "duration_ms": 185199,
-      "name": "On my Radio",
-      "url": "https://open.spotify.com/track/5X7Sbugnqqm3ffA9y7b7wD"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Morbo's Club",
         "url": "https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 237346,
       "name": "Fantasma de la Rana",
       "url": "https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "The Very Best of The Selecter",
+        "url": "https://open.spotify.com/album/1Sk2mljWUTXFEtZpoT0fPg"
+      },
+      "artists": [
+        {
+          "name": "The Selecter",
+          "url": "https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF"
+        }
+      ],
+      "duration_ms": 185199,
+      "name": "On my Radio",
+      "url": "https://open.spotify.com/track/5X7Sbugnqqm3ffA9y7b7wD"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Willis",
-        "url": "https://open.spotify.com/album/2p6CFGaXrhWuV7RbpL7xXY"
-      },
-      "artists": [
-        {
-          "name": "The Pietasters",
-          "url": "https://open.spotify.com/artist/7tleIwvDsYTM0MAXBTOeKn"
-        }
-      ],
-      "duration_ms": 196733,
-      "name": "Out All Night",
-      "url": "https://open.spotify.com/track/5GG2T4nFuS1L5xb9U3iJ8G"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Salon Victoria",
         "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
       },
@@ -1663,18 +1647,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Radio Ghetto",
-        "url": "https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ"
+        "name": "Willis",
+        "url": "https://open.spotify.com/album/2p6CFGaXrhWuV7RbpL7xXY"
       },
       "artists": [
         {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+          "name": "The Pietasters",
+          "url": "https://open.spotify.com/artist/7tleIwvDsYTM0MAXBTOeKn"
         }
       ],
-      "duration_ms": 198053,
-      "name": "Despideme",
-      "url": "https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv"
+      "duration_ms": 196733,
+      "name": "Out All Night",
+      "url": "https://open.spotify.com/track/5GG2T4nFuS1L5xb9U3iJ8G"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1695,6 +1679,22 @@
       "duration_ms": 238013,
       "name": "Mi Coraz\u00f3n Encantado",
       "url": "https://open.spotify.com/track/11BRj7ewITunxgcHnujXQH"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Radio Ghetto",
+        "url": "https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "Despideme",
+      "url": "https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "All The Moon Stompers",
+        "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "I Wanna Riot",
+      "url": "https://open.spotify.com/track/3prgCqodybVT758HNY2SXW"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Reggae Hit L.A.",
         "url": "https://open.spotify.com/album/7IQmFed8UWBDt7MiTZR6Ob"
       },
@@ -1751,18 +1767,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "All The Moon Stompers",
-        "url": "https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot"
+        "name": "15 A\u00f1os de Fuerza, Coraz\u00f3n y Resistencia",
+        "url": "https://open.spotify.com/album/3HJqnp5b9tcTOYGcYkX4nu"
       },
       "artists": [
         {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+          "name": "Royal Club",
+          "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
         }
       ],
-      "duration_ms": 191666,
-      "name": "I Wanna Riot",
-      "url": "https://open.spotify.com/track/3prgCqodybVT758HNY2SXW"
+      "duration_ms": 237586,
+      "name": "Suda Mi Cuerpo",
+      "url": "https://open.spotify.com/track/3UAN9TI0GfhBtPnZYd9Llk"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1783,22 +1799,6 @@
       "duration_ms": 168096,
       "name": "Luna de Miel en la Mano",
       "url": "https://open.spotify.com/track/7hlgmoLuoZReMqVOBoUycx"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "15 A\u00f1os de Fuerza, Coraz\u00f3n y Resistencia",
-        "url": "https://open.spotify.com/album/3HJqnp5b9tcTOYGcYkX4nu"
-      },
-      "artists": [
-        {
-          "name": "Royal Club",
-          "url": "https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu"
-        }
-      ],
-      "duration_ms": 237586,
-      "name": "Suda Mi Cuerpo",
-      "url": "https://open.spotify.com/track/3UAN9TI0GfhBtPnZYd9Llk"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "King Chang\u00f3",
-        "url": "https://open.spotify.com/album/3fINfP9orKcEtgwLTOdVyJ"
-      },
-      "artists": [
-        {
-          "name": "King Chango",
-          "url": "https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us"
-        }
-      ],
-      "duration_ms": 340746,
-      "name": "Confesi\u00f3n",
-      "url": "https://open.spotify.com/track/4QR9arBY2SJRdetyPRDzhw"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "The Maskatonians All Stars And Friends",
         "url": "https://open.spotify.com/album/369qblMdVKisn6er3exhcw"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 299253,
       "name": "Solo un Minuto",
       "url": "https://open.spotify.com/track/6rk1UifNJO2oKMajBOdETB"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "King Chang\u00f3",
+        "url": "https://open.spotify.com/album/3fINfP9orKcEtgwLTOdVyJ"
+      },
+      "artists": [
+        {
+          "name": "King Chango",
+          "url": "https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us"
+        }
+      ],
+      "duration_ms": 340746,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/4QR9arBY2SJRdetyPRDzhw"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -2151,18 +2151,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Turn Off",
-        "url": "https://open.spotify.com/album/2niwNjYl5YuwTZMsBADmQx"
+        "name": "Reggae Anthology: Joe Gibbs - Scorchers From The Mighty Two",
+        "url": "https://open.spotify.com/album/5x9vcngxMjklHd0DOhvml9"
       },
       "artists": [
         {
-          "name": "Two Tone Club",
-          "url": "https://open.spotify.com/artist/71So40fMdgI3uFPbyaThbY"
+          "name": "Althea And Donna",
+          "url": "https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2"
         }
       ],
-      "duration_ms": 139333,
-      "name": "Turn Off The Television",
-      "url": "https://open.spotify.com/track/07qP6kMKE2w7FGSkgHZ5yz"
+      "duration_ms": 229880,
+      "name": "Uptown Top Ranking",
+      "url": "https://open.spotify.com/track/1k1Esg0K4Yinvhkk86s7YM"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -2183,18 +2183,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Reggae Anthology: Joe Gibbs - Scorchers From The Mighty Two",
-        "url": "https://open.spotify.com/album/5x9vcngxMjklHd0DOhvml9"
+        "name": "Turn Off",
+        "url": "https://open.spotify.com/album/2niwNjYl5YuwTZMsBADmQx"
       },
       "artists": [
         {
-          "name": "Althea And Donna",
-          "url": "https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2"
+          "name": "Two Tone Club",
+          "url": "https://open.spotify.com/artist/71So40fMdgI3uFPbyaThbY"
         }
       ],
-      "duration_ms": 229880,
-      "name": "Uptown Top Ranking",
-      "url": "https://open.spotify.com/track/1k1Esg0K4Yinvhkk86s7YM"
+      "duration_ms": 139333,
+      "name": "Turn Off The Television",
+      "url": "https://open.spotify.com/track/07qP6kMKE2w7FGSkgHZ5yz"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -2211,6 +2211,22 @@
       "duration_ms": 248413,
       "name": "Wasted Days",
       "url": "https://open.spotify.com/track/5z8lvQDJPOl8A7RkTOdJWQ"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Armada Hasta los Dientes V 1.5",
+        "url": "https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9"
+      },
+      "artists": [
+        {
+          "name": "Nana Pancha",
+          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
+        }
+      ],
+      "duration_ms": 132146,
+      "name": "Nana Punk",
+      "url": "https://open.spotify.com/track/5z4NEn8aaE25kxcE3LORdQ"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -2243,22 +2259,6 @@
       "duration_ms": 191824,
       "name": "Marchez",
       "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Armada Hasta los Dientes V 1.5",
-        "url": "https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9"
-      },
-      "artists": [
-        {
-          "name": "Nana Pancha",
-          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
-        }
-      ],
-      "duration_ms": 132146,
-      "name": "Nana Punk",
-      "url": "https://open.spotify.com/track/5z4NEn8aaE25kxcE3LORdQ"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Los Rabanes",
-        "url": "https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU"
-      },
-      "artists": [
-        {
-          "name": "Los Rabanes",
-          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "Se\u00f1orita a Mi Me Gusta Su Style",
-      "url": "https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Reggae Greats - Toots & The Maytals",
         "url": "https://open.spotify.com/album/5KcovfuEj1xrN4CHvWpcuM"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 208493,
       "name": "Funky Kingston",
       "url": "https://open.spotify.com/track/296nf1GZola50p9fWwsaQw"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Los Rabanes",
+        "url": "https://open.spotify.com/album/0Zu3dRK5p8pqvCrNTo6AuU"
+      },
+      "artists": [
+        {
+          "name": "Los Rabanes",
+          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
+        }
+      ],
+      "duration_ms": 205120,
+      "name": "Se\u00f1orita a Mi Me Gusta Su Style",
+      "url": "https://open.spotify.com/track/3L7jB4xMYqApabyWPGlz0g"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -2503,18 +2503,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Latin Ska",
-        "url": "https://open.spotify.com/album/6zI1ohCa3KiSQFD5WlTIkX"
+        "name": "One Step Beyond...",
+        "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
       },
       "artists": [
         {
-          "name": "Los Rabanes",
-          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
         }
       ],
-      "duration_ms": 194413,
-      "name": "Latin Ska",
-      "url": "https://open.spotify.com/track/3yhSzk3RVZ1BqIYAW8IFGf"
+      "duration_ms": 211226,
+      "name": "Night Boat to Cairo",
+      "url": "https://open.spotify.com/track/2bspsdHJfZf4URZsTUMW8B"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -2535,18 +2535,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "One Step Beyond...",
-        "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
+        "name": "Latin Ska",
+        "url": "https://open.spotify.com/album/6zI1ohCa3KiSQFD5WlTIkX"
       },
       "artists": [
         {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+          "name": "Los Rabanes",
+          "url": "https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO"
         }
       ],
-      "duration_ms": 211226,
-      "name": "Night Boat to Cairo",
-      "url": "https://open.spotify.com/track/2bspsdHJfZf4URZsTUMW8B"
+      "duration_ms": 194413,
+      "name": "Latin Ska",
+      "url": "https://open.spotify.com/track/3yhSzk3RVZ1BqIYAW8IFGf"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -2567,22 +2567,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "En Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/5X12ISobYmsCaaRtN3GZKI"
-      },
-      "artists": [
-        {
-          "name": "Laurel Aitken",
-          "url": "https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "Mi Vida Sin Tu Amor",
-      "url": "https://open.spotify.com/track/3AYRsEOgjz2AdYGypQ30Gy"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Amor Enfermo",
         "url": "https://open.spotify.com/album/3CF7yIyzFIW9Z3S0yjRuP9"
       },
@@ -2599,6 +2583,22 @@
       "duration_ms": 213405,
       "name": "Amor Enfermo",
       "url": "https://open.spotify.com/track/0ka4JDj506HNhszdG7C2QR"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/5X12ISobYmsCaaRtN3GZKI"
+      },
+      "artists": [
+        {
+          "name": "Laurel Aitken",
+          "url": "https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "Mi Vida Sin Tu Amor",
+      "url": "https://open.spotify.com/track/3AYRsEOgjz2AdYGypQ30Gy"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -2743,22 +2743,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Motiv Loco",
-        "url": "https://open.spotify.com/album/0L1RqcDjhCoQBBK3UhlMdK"
-      },
-      "artists": [
-        {
-          "name": "Rotterdam Ska-Jazz Foundation",
-          "url": "https://open.spotify.com/artist/4702lx6KuOKmumm9tH0uCp"
-        }
-      ],
-      "duration_ms": 162786,
-      "name": "No More Sorrow",
-      "url": "https://open.spotify.com/track/5EmDJCyGAHu5DpijFXAu6r"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Made In Barna",
         "url": "https://open.spotify.com/album/62j8EctPF6KpEtcnOXQASE"
       },
@@ -2787,6 +2771,22 @@
       "duration_ms": 151026,
       "name": "Satan's Swing",
       "url": "https://open.spotify.com/track/2t4BMouccDQHDnUQuy8tqp"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Motiv Loco",
+        "url": "https://open.spotify.com/album/0L1RqcDjhCoQBBK3UhlMdK"
+      },
+      "artists": [
+        {
+          "name": "Rotterdam Ska-Jazz Foundation",
+          "url": "https://open.spotify.com/artist/4702lx6KuOKmumm9tH0uCp"
+        }
+      ],
+      "duration_ms": 162786,
+      "name": "No More Sorrow",
+      "url": "https://open.spotify.com/track/5EmDJCyGAHu5DpijFXAu6r"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -2823,7 +2823,7 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Puerto Hurraco",
+        "name": "Puerto hurraco",
         "url": "https://open.spotify.com/album/7wXHGLSCYy566j7revG6R0"
       },
       "artists": [
@@ -2887,22 +2887,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Essential Byron Lee - 50th Anniversary Celebration",
-        "url": "https://open.spotify.com/album/3QIwg0lQWdwIVlkI1F2ZX0"
-      },
-      "artists": [
-        {
-          "name": "Byron Lee & The Dragonaires",
-          "url": "https://open.spotify.com/artist/1akUOJhf77cbKJveLHgxpy"
-        }
-      ],
-      "duration_ms": 145666,
-      "name": "Jamaica Ska",
-      "url": "https://open.spotify.com/track/17kzvb7upyMIlKMDVgRz1R"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Flamingo",
         "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
       },
@@ -2919,18 +2903,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Ska 'N' B",
-        "url": "https://open.spotify.com/album/36Jbhd2RfuDnhqup2PgBzx"
+        "name": "Essential Byron Lee - 50th Anniversary Celebration",
+        "url": "https://open.spotify.com/album/3QIwg0lQWdwIVlkI1F2ZX0"
       },
       "artists": [
         {
-          "name": "Bad Manners",
-          "url": "https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx"
+          "name": "Byron Lee & The Dragonaires",
+          "url": "https://open.spotify.com/artist/1akUOJhf77cbKJveLHgxpy"
         }
       ],
-      "duration_ms": 157320,
-      "name": "Ne-Ne, Na-Na, Na-Na, Nu-Nu",
-      "url": "https://open.spotify.com/track/5JOHYsXWSkVqmPc3EsSPRt"
+      "duration_ms": 145666,
+      "name": "Jamaica Ska",
+      "url": "https://open.spotify.com/track/17kzvb7upyMIlKMDVgRz1R"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -2951,18 +2935,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Right On Time",
-        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
+        "name": "Ska 'N' B",
+        "url": "https://open.spotify.com/album/36Jbhd2RfuDnhqup2PgBzx"
       },
       "artists": [
         {
-          "name": "Hepcat",
-          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
+          "name": "Bad Manners",
+          "url": "https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx"
         }
       ],
-      "duration_ms": 219706,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp"
+      "duration_ms": 157320,
+      "name": "Ne-Ne, Na-Na, Na-Na, Nu-Nu",
+      "url": "https://open.spotify.com/track/5JOHYsXWSkVqmPc3EsSPRt"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -2999,6 +2983,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu"
+      },
+      "artists": [
+        {
+          "name": "Hepcat",
+          "url": "https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp"
+        }
+      ],
+      "duration_ms": 219706,
+      "name": "No Worries",
+      "url": "https://open.spotify.com/track/6jTEMEb03yyQAqnGepk5Kp"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Ac\u00ed Estem",
         "url": "https://open.spotify.com/album/3gBBuswdlFKPtSj3FITA79"
       },
@@ -3031,22 +3031,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "De Ke Manera te Olvido... Chimol!!",
-        "url": "https://open.spotify.com/album/5E85sgTBqIgUZLyFrLdbmS"
-      },
-      "artists": [
-        {
-          "name": "Los Korucos",
-          "url": "https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx"
-        }
-      ],
-      "duration_ms": 215320,
-      "name": "Te Aprovechas",
-      "url": "https://open.spotify.com/track/0BVfdk9zeaUh0yh7PyXmMK"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Suzanne Beware of the Devil - The Best of Dandy Livingstone",
         "url": "https://open.spotify.com/album/3U6KCS5Upe8m98q7guV1Lf"
       },
@@ -3063,38 +3047,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Paz y Baile",
-        "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
+        "name": "De Ke Manera te Olvido... Chimol!!",
+        "url": "https://open.spotify.com/album/5E85sgTBqIgUZLyFrLdbmS"
       },
       "artists": [
         {
-          "name": "Roco Pachukote",
-          "url": "https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA"
-        },
-        {
-          "name": "Flavio Cianciarulo",
-          "url": "https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3"
+          "name": "Los Korucos",
+          "url": "https://open.spotify.com/artist/1Akvcd38yi7M2q6Z0HWlgx"
         }
       ],
-      "duration_ms": 218750,
-      "name": "Paz y Baile",
-      "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "El Enemigo",
-        "url": "https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy"
-      },
-      "artists": [
-        {
-          "name": "Sat\u00e9lite Kingston",
-          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "La \u00daltimo Carta",
-      "url": "https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO"
+      "duration_ms": 215320,
+      "name": "Te Aprovechas",
+      "url": "https://open.spotify.com/track/0BVfdk9zeaUh0yh7PyXmMK"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -3115,38 +3079,38 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "El Ska No Est\u00e1 en Extinci\u00f3n",
-        "url": "https://open.spotify.com/album/2Gu2UiJbj83jMYCuoEu6xT"
+        "name": "El Enemigo",
+        "url": "https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy"
       },
       "artists": [
         {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "Dr.Shenka",
-          "url": "https://open.spotify.com/artist/0SIPopELCLWFhd0v52B7S1"
+          "name": "Sat\u00e9lite Kingston",
+          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
         }
       ],
-      "duration_ms": 170013,
-      "name": "Al Fondo del Mar",
-      "url": "https://open.spotify.com/track/46KrPzw2hZPICMO5zoqtyz"
+      "duration_ms": 212280,
+      "name": "La \u00daltimo Carta",
+      "url": "https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO"
     },
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "God Bless Satan",
-        "url": "https://open.spotify.com/album/7J35hQd4DMsmKMMHoz8Lgu"
+        "name": "Paz y Baile",
+        "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
       },
       "artists": [
         {
-          "name": "Mephiskapheles",
-          "url": "https://open.spotify.com/artist/0HS3ITvEZoYY3klH9xqxpl"
+          "name": "Roco Pachukote",
+          "url": "https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA"
+        },
+        {
+          "name": "Flavio Cianciarulo",
+          "url": "https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3"
         }
       ],
-      "duration_ms": 195527,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq"
+      "duration_ms": 218750,
+      "name": "Paz y Baile",
+      "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -3183,6 +3147,26 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "El Ska No Est\u00e1 en Extinci\u00f3n",
+        "url": "https://open.spotify.com/album/2Gu2UiJbj83jMYCuoEu6xT"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Dr.Shenka",
+          "url": "https://open.spotify.com/artist/0SIPopELCLWFhd0v52B7S1"
+        }
+      ],
+      "duration_ms": 170013,
+      "name": "Al Fondo del Mar",
+      "url": "https://open.spotify.com/track/46KrPzw2hZPICMO5zoqtyz"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Kein Schulterklopfen (Gegen Den Trend)",
         "url": "https://open.spotify.com/album/0KAFjPzZAF72t5uKeBoC0Z"
       },
@@ -3195,6 +3179,22 @@
       "duration_ms": 167173,
       "name": "Hamburg, 8 Grad, Regen",
       "url": "https://open.spotify.com/track/58RHI0kERkxeuST40cZK6j"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "God Bless Satan",
+        "url": "https://open.spotify.com/album/7J35hQd4DMsmKMMHoz8Lgu"
+      },
+      "artists": [
+        {
+          "name": "Mephiskapheles",
+          "url": "https://open.spotify.com/artist/0HS3ITvEZoYY3klH9xqxpl"
+        }
+      ],
+      "duration_ms": 195527,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/7xfNTf6y3KYpDPEvBmornq"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -3263,22 +3263,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "You Dance With Me",
-        "url": "https://open.spotify.com/album/6zOFEgdYn5qdZ5f9WyRapu"
-      },
-      "artists": [
-        {
-          "name": "ScimmiaSka",
-          "url": "https://open.spotify.com/artist/4KTPgixuIEKd0kvsAHRQFg"
-        }
-      ],
-      "duration_ms": 216372,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/5Nyb7h0LAxXqkqqhbCsaz0"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Cielo mio marito (10 anni con gli Ska-J)",
         "url": "https://open.spotify.com/album/5JTPNv42BWxJszgoOjCWpm"
       },
@@ -3291,6 +3275,22 @@
       "duration_ms": 174360,
       "name": "Quisaz, quisaz, quisaz",
       "url": "https://open.spotify.com/track/5PYgo5oem5HjVTvNkDcxwW"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "You Dance With Me",
+        "url": "https://open.spotify.com/album/6zOFEgdYn5qdZ5f9WyRapu"
+      },
+      "artists": [
+        {
+          "name": "ScimmiaSka",
+          "url": "https://open.spotify.com/artist/4KTPgixuIEKd0kvsAHRQFg"
+        }
+      ],
+      "duration_ms": 216372,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/5Nyb7h0LAxXqkqqhbCsaz0"
     },
     {
       "added_at": "2023-04-14 06:00:00",

@@ -4,14 +4,14 @@
 
 > Lying flat on the sofa scrolling but with a nice soundtrack.
 
-162 songs - 9 hr 53 min
+163 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Good Love, Pt\. 2](https://open.spotify.com/track/7I2PEItnKfXLY4JTDYlSGY) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [A Good Love, Pt\. 2](https://open.spotify.com/album/76CfuswZ7S6qJJSNQY5BPt) | 3:33 | 2022-07-08 | 2022-07-29 |
 | [A Lack of Color](https://open.spotify.com/track/6LNwTodkmxsc2dKRJWQr6y) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf) | 3:35 | 2022-09-09 | 2022-11-23 |
 | [A Little Bit Yours](https://open.spotify.com/track/1vjQHBoJWpQ3rAPRDVjrxA) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 3:48 | 2022-05-25 |  |
-| [A Long Time](https://open.spotify.com/track/5fJRHZyjnb6891ny5IOkL6) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [How Do You Do](https://open.spotify.com/album/2AsTehQMH82xr6phI9c42V) | 3:41 | 2022-10-21 |  |
+| [A Long Time](https://open.spotify.com/track/5fJRHZyjnb6891ny5IOkL6) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [How Do You Do](https://open.spotify.com/album/2AsTehQMH82xr6phI9c42V) | 3:41 | 2022-10-21 | 2023-04-20 |
 | [A Love That Will Last](https://open.spotify.com/track/4bJbSERtCqK9D6DRUPMmMh) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Renee Olstead](https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42) | 3:32 | 2022-05-25 |  |
 | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/track/32pVUCXOGXGaRey5i03owa) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/album/1t12ZzaOf2r1v47MlqzOEM) | 3:25 | 2022-05-26 | 2022-07-29 |
 | [a song from yesterday](https://open.spotify.com/track/1rIvV3vogPZDoEz4Ra0bei) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [a song from yesterday](https://open.spotify.com/album/6t3KlKXyY2FBWz3gKwcOx8) | 3:18 | 2022-11-18 | 2022-12-03 |
@@ -75,6 +75,7 @@
 | [Hardly Breathing](https://open.spotify.com/track/0TVDje51jl4Ty6hnXUDmjd) | [Beau](https://open.spotify.com/artist/2Mm2NXLhda25RQLyaZyUJU) | [Hardly Breathing](https://open.spotify.com/album/5J7VkA9IvKb19YRjWq43Q1) | 3:34 | 2022-05-25 | 2022-07-29 |
 | [Harvest Moon](https://open.spotify.com/track/0vd9oVF2YwYMm6uD4VoKcm) | [Sophia Alexa](https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ) | [Harvest Moon](https://open.spotify.com/album/5AhUi3hCsj7fUfkonM9KlV) | 3:05 | 2022-05-25 | 2022-06-14 |
 | [Harvest Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:46 | 2022-05-27 |  |
+| [Heading for Home \(feat\. John Legend\)](https://open.spotify.com/track/0LfxVKa6cf6HN5htCm9V89) | [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Heading for Home \(feat\. John Legend\)](https://open.spotify.com/album/7hQrKIVnV7JTDXP88O5VZF) | 4:22 | 2023-04-14 |  |
 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2022-12-16 |  |
 | [High On You](https://open.spotify.com/track/6y3u6i5claLRiZImccMbyY) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [High On You](https://open.spotify.com/album/0bi6Wqcd2SWl3cWXz80YIL) | 3:14 | 2023-02-24 |  |
 | [hill that i'll die on](https://open.spotify.com/track/7sQffRumg8cOOnEZ0LSPMo) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [hill that i'll die on](https://open.spotify.com/album/7GvvjRTMJ3ODSDqR6YiwrM) | 2:24 | 2022-10-21 | 2022-12-08 |

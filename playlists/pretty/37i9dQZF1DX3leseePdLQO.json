@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring Alex Ponce. ",
-  "num_followers": 1140,
+  "num_followers": 1172,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTc1MTQwMywwMDAwMDAwMGE3MTVhMTIzNzI5NjA0ZmQ3YzE1OWIxYWU0MDM3MzUw",
+  "snapshot_id": "MTY4MTc1MTQwMywwMDAwMDAwMGFlYTY3ZDJmODE0YjIzZGNlMzA3NzA4ZmFlOWMzZmRi",
   "tracks": [
     {
       "added_at": "2023-04-17 17:10:03",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-04-17 17:10:03",
       "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 184511,
+      "name": "Que Se Parezca A Ti",
+      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
+    },
+    {
+      "added_at": "2023-04-17 17:10:03",
+      "album": {
         "name": "No Se Acaba Hasta Que Acabe",
         "url": "https://open.spotify.com/album/2vWjKK6Sk5jFV5uWb9Vm88"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 186832,
       "name": "No Se Acaba Hasta Que Acabe",
       "url": "https://open.spotify.com/track/2cyFoye18xtRTd13CEzH9D"
-    },
-    {
-      "added_at": "2023-04-17 17:10:03",
-      "album": {
-        "name": "Portales (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 184511,
-      "name": "Que Se Parezca A Ti",
-      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
     },
     {
       "added_at": "2023-04-17 17:10:03",
@@ -335,26 +335,6 @@
     {
       "added_at": "2023-04-17 17:10:03",
       "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "Marte",
-      "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
-    },
-    {
-      "added_at": "2023-04-17 17:10:03",
-      "album": {
         "name": "Correcaminos",
         "url": "https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 182106,
       "name": "Correcaminos",
       "url": "https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC"
+    },
+    {
+      "added_at": "2023-04-17 17:10:03",
+      "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 218800,
+      "name": "Marte",
+      "url": "https://open.spotify.com/track/1uK5rDY3BnikyG0sl3tPpc"
     },
     {
       "added_at": "2023-04-17 17:10:03",
@@ -431,6 +431,22 @@
     {
       "added_at": "2023-04-17 17:10:03",
       "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 191863,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
+    },
+    {
+      "added_at": "2023-04-17 17:10:03",
+      "album": {
         "name": "Ajedrez",
         "url": "https://open.spotify.com/album/0KrZrlCpxZQgw11uvAp3n4"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 165533,
       "name": "Plut\u00f3n",
       "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
-    },
-    {
-      "added_at": "2023-04-17 17:10:03",
-      "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 191863,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
     },
     {
       "added_at": "2023-04-17 17:10:03",
@@ -695,26 +695,6 @@
     {
       "added_at": "2023-04-17 17:10:03",
       "album": {
-        "name": "No siempre quedar\u00e1 Par\u00eds (Remix)",
-        "url": "https://open.spotify.com/album/2tfshGlaDqIHUovmOcFL4q"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 186045,
-      "name": "No siempre quedar\u00e1 Par\u00eds - Remix",
-      "url": "https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw"
-    },
-    {
-      "added_at": "2023-04-17 17:10:03",
-      "album": {
         "name": "Moderaci\u00f3n (Con Camilo)",
         "url": "https://open.spotify.com/album/6MOmPtc8mFnVFjN8zDh6rD"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 199626,
       "name": "Moderaci\u00f3n (Con Camilo)",
       "url": "https://open.spotify.com/track/66eBZFnheqpOM16CCyA1HV"
+    },
+    {
+      "added_at": "2023-04-17 17:10:03",
+      "album": {
+        "name": "No siempre quedar\u00e1 Par\u00eds (Remix)",
+        "url": "https://open.spotify.com/album/2tfshGlaDqIHUovmOcFL4q"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 186045,
+      "name": "No siempre quedar\u00e1 Par\u00eds - Remix",
+      "url": "https://open.spotify.com/track/4TPugCH4s6bRqhWhGkb2qw"
     },
     {
       "added_at": "2023-04-17 17:10:03",

@@ -2,7 +2,7 @@
 
 ### [Electronic + Dance Frequency](https://open.spotify.com/playlist/37i9dQZF1DXa1pcUVlBhYz)
 
-> Electronic + Dance making waves, every month\. Cover: Austin Millz, artwork by Ian Woods
+> Electronic + Dance making waves, every month.
 
 238 songs - 13 hr 58 min
 

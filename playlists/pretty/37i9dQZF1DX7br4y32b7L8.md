@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > Viraal gaan is ook gaan! Cover: Carlos Santana
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,941 likes - 59 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,976 likes - 59 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

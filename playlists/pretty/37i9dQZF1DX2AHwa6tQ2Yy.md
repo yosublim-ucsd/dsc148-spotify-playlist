@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,286 likes - 70 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,306 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 40 | [Just Fine](https://open.spotify.com/track/5OEha6DVSo75Cvg0qNFHaP) | [Dallas Tamaira](https://open.spotify.com/artist/7kA1tgOWHU6o4KedxlOStt) | [Just Fine](https://open.spotify.com/album/2KnEJL8yLVFBzS8ZneL1kC) | 2:54 |
 | 41 | [Reelin'](https://open.spotify.com/track/0pZrbb5wNwxRA3mqsl1SWN) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Everything's Fine](https://open.spotify.com/album/2OOTl13Kx9KxMF1ESG2u58) | 3:28 |
 | 42 | [Stay High \- Childish Gambino Version](https://open.spotify.com/track/6LmNmPxViPRou1YAvyg1OS) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Jaime \(Reimagined\)](https://open.spotify.com/album/5FwiNeZyBHQXH1ppbXqxe0) | 3:38 |
-| 43 | [Tell You Not To Worry](https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [It's A Long Road](https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa) | 4:42 |
-| 44 | [First Time](https://open.spotify.com/track/69WrRBXGKP70NqXNOf8NIw) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph) | 5:09 |
+| 43 | [First Time](https://open.spotify.com/track/69WrRBXGKP70NqXNOf8NIw) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph) | 5:09 |
+| 44 | [Tell You Not To Worry](https://open.spotify.com/track/4Iq3jFY8xrsnE3MvFIAP33) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [It's A Long Road](https://open.spotify.com/album/6apSXr9z4mOLNrFYkeT6Sa) | 4:42 |
 | 45 | [Thinking Too Much](https://open.spotify.com/track/7ES4KuLdHnkBRFqWsQua8r) | [TOI](https://open.spotify.com/artist/6AdX4TgEt0fYWoRqvHi81A) | [Thinking Too Much](https://open.spotify.com/album/5gQlfc5Uk8txY9bAH0TIaQ) | 3:28 |
 | 46 | [I Won't Let You Down](https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [I Won't Let You Down](https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp) | 4:04 |
 | 47 | [Deja Vu](https://open.spotify.com/track/3oPE1YX2dgGqU7e0eJTqnG) | [COTERIE](https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY) | [Deja Vu](https://open.spotify.com/album/6y305wH4wMtb2t1kJt6894) | 3:06 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 63 | [Find You](https://open.spotify.com/track/0xj5upFN9assCNNS01X3PR) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 5:03 |
 | 64 | [Oil & Water](https://open.spotify.com/track/62lq6SYb2Q0BP1nYpFXlby) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/39MCSCwQlqT6xm28UpGz39) | 3:12 |
 | 65 | [First Thing Smokin'](https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/1atZaEjKOw9rJGD37Rosxt) | 3:43 |
-| 66 | ['Round Midnight](https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | ['Round Midnight](https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM) | 4:12 |
-| 67 | [Better Things](https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [Better Things](https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C) | 3:42 |
-| 68 | [Side By Side](https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [Side By Side](https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg) | 4:16 |
-| 69 | [High Off You](https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [High Off You](https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu) | 3:53 |
-| 70 | [Pieces](https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Pieces](https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA) | 5:52 |
+| 66 | [Unconditionally](https://open.spotify.com/track/566cpgeAsU9eyAgedWbwyk) | [JKING](https://open.spotify.com/artist/305wwkdz2V7qZtTIvwPfMp) | [Unconditionally](https://open.spotify.com/album/1X4HVedRMhLlr8qMaEGtKO) | 2:32 |
+| 67 | ['Round Midnight](https://open.spotify.com/track/6rlqNxNTuK3elWsYjc4psh) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | ['Round Midnight](https://open.spotify.com/album/0AP435mSKEb4jF8D34nfkM) | 4:12 |
+| 68 | [Better Things](https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [Better Things](https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C) | 3:42 |
+| 69 | [Side By Side](https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts) | [The Meltdown](https://open.spotify.com/artist/6O0WkZMlHi7yqizwsA8uVf) | [Side By Side](https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg) | 4:16 |
+| 70 | [High Off You](https://open.spotify.com/track/0Tac3CLKtrgDgoNipYyZaw) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [High Off You](https://open.spotify.com/album/0okhOL15AUDSqpKFi9CHcu) | 3:53 |
 
-Snapshot ID: `MTY4MDE4MzYzNSwwMDAwMDAwMDZlYjU0YjFlNzYxZmMxMTc2YTgwM2I5OTE3NzUwYzVi`
+Snapshot ID: `MTY4MDE4MzYzNSwwMDAwMDAwMDgzNTQxNTNiYWNkMjhjYzk3NzY2YzM2ZjJjNDUyZDgx`

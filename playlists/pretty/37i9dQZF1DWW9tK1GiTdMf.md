@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ Vipra in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,100 likes - 88 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,117 likes - 88 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 21 | [N.D.X.S.](https://open.spotify.com/track/7i4AeLPeTTP6GxgVmwV5XL) | [xDiemondx](https://open.spotify.com/artist/2NAdP1sDABAGeAT7TGHenN), [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE), [yuks](https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd) | [N.D.X.S.](https://open.spotify.com/album/19W9Uy9g4Tt1IVYehMjBkF) | 2:43 |
 | 22 | [Lunedì \(feat\. Drast\)](https://open.spotify.com/track/0T64e7lVwIVavM829e0PPZ) | [Lil Kvneki](https://open.spotify.com/artist/5NT6SamVXGrIp1Z1lE2Eyn), [The American Boyfriends](https://open.spotify.com/artist/3jmCi2B1XY7vTC1fRtbEzS), [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm) | [CRESCENDO](https://open.spotify.com/album/3C0SlEBi0H4vRB9Ed5nbr8) | 3:04 |
 | 23 | [CHE BELLA MUSICA](https://open.spotify.com/track/7plviClrIRPnd3W2EDfUgh) | [Aiza e Mati](https://open.spotify.com/artist/55gLQek3jQJDfijp4Qi2m7) | [E Tutto Il Mondo Fuori](https://open.spotify.com/album/3irgspYOMXoYxSBWyihb5R) | 2:22 |
-| 24 | [PICCOLI](https://open.spotify.com/track/3F86TXXBuXxQWLF3Gl0Zqr) | [Frasca](https://open.spotify.com/artist/3Ej5rdXiSC43dUi85PXYAZ), [HUGO\_Trz](https://open.spotify.com/artist/1qiA9HJbDudHZINvmCSO3Q) | [EMOTIVO](https://open.spotify.com/album/6sc3bvULuxvoUTMQon9GxG) | 2:31 |
+| 24 | [PICCOLI](https://open.spotify.com/track/3F86TXXBuXxQWLF3Gl0Zqr) | [Frasca](https://open.spotify.com/artist/3Ej5rdXiSC43dUi85PXYAZ), [HUGO\_TRz](https://open.spotify.com/artist/4K5OlFpHTBw1VShfFpTlLp) | [EMOTIVO](https://open.spotify.com/album/6sc3bvULuxvoUTMQon9GxG) | 2:31 |
 | 25 | [Crisi d'astinenza](https://open.spotify.com/track/2wbT0lPg1cIoBPzW4mGqiH) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd), [Sbale](https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU) | [Crisi d'astinenza](https://open.spotify.com/album/6c6r7mcgix2cyeFxs6HxPB) | 2:08 |
 | 26 | [Cause Perse](https://open.spotify.com/track/7zbLHH0prN66iIognD95F6) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Cause Perse](https://open.spotify.com/album/3aJU4Ey5gJcUOIWwwG40ix) | 2:21 |
 | 27 | [Country Boy](https://open.spotify.com/track/109jo1FSq5QZ23vu5HdEgk) | [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI) | [Country Boy](https://open.spotify.com/album/1c29wEXEaINXbL7kyWwUUx) | 2:38 |

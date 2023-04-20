@@ -2341,6 +2341,28 @@
     },
     {
       "album": {
+        "name": "Di Que Si",
+        "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190553,
+      "name": "Di Que Si",
+      "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
+    },
+    {
+      "album": {
         "name": "Las Leyendas Nunca Mueren",
         "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
       },
@@ -3636,7 +3658,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 167760,
       "name": "Ferxxo 100",
       "url": "https://open.spotify.com/track/1sbNEFiURUYfy024cJX8JG"
@@ -6760,7 +6782,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-18",
+      "date_removed": null,
       "duration_ms": 164386,
       "name": "MIENTRAS ME CURO DEL CORA",
       "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
@@ -10352,7 +10374,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 212375,
       "name": "Triste Verano",
       "url": "https://open.spotify.com/track/1AOPHC5whvr8K359BZu4kp"

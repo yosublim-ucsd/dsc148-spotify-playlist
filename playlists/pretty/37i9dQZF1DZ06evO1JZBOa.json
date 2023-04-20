@@ -1,15 +1,31 @@
 {
   "description": "This is Manu Dibango. The essential tracks, all in one playlist.",
-  "num_followers": 7947,
+  "num_followers": 7951,
   "original_name": "This Is Manu Dibango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwMzAzOTAsMDAwMDAwMDBjYTA4NmQ3Njg3N2EzN2M5ODQwY2QxNjA5YjgxNDVkMg==",
+  "snapshot_id": "MjgwMzE3ODMsMDAwMDAwMDAzOTk4NzkxZDNjNGRiMGZmODU1M2Y1NWU4ZThiYmUwYw==",
   "tracks": [
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
+      "album": {
+        "name": "African Voodoo",
+        "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 131045,
+      "name": "Coconut",
+      "url": "https://open.spotify.com/track/5rJSFuBV3QBGTrywHJt5sA"
+    },
+    {
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Sost",
         "url": "https://open.spotify.com/album/1ihecQme2FVkhoSGh5BpMI"
@@ -29,23 +45,7 @@
       "url": "https://open.spotify.com/track/4Ic3yQiH5UmyyevTsp08tY"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
-      "album": {
-        "name": "African Voodoo",
-        "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 131045,
-      "name": "Coconut",
-      "url": "https://open.spotify.com/track/5rJSFuBV3QBGTrywHJt5sA"
-    },
-    {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Manu Dibango Anthology",
         "url": "https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/21s0bjVrP7RtQskeUKZxOu"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Afro-Soul Machine",
         "url": "https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4"
@@ -77,7 +77,23 @@
       "url": "https://open.spotify.com/track/0vl2pa6k6kBZa0LNRC9ufl"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
+      "album": {
+        "name": "African Voodoo",
+        "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 153097,
+      "name": "Groovy Flute",
+      "url": "https://open.spotify.com/track/672sXt55h2Ol2MTcbKR5Sw"
+    },
+    {
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Quinta",
         "url": "https://open.spotify.com/album/32S67vRw57J7ogWOXrbsEt"
@@ -97,23 +113,7 @@
       "url": "https://open.spotify.com/track/1rAiQdbWr2TQYZpzxihLgy"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
-      "album": {
-        "name": "African Voodoo",
-        "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 153097,
-      "name": "Groovy Flute",
-      "url": "https://open.spotify.com/track/672sXt55h2Ol2MTcbKR5Sw"
-    },
-    {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Manu Dibango Anthology",
         "url": "https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/0WepWqVggMJ7OiVl4PBE8g"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Wakafrika",
         "url": "https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC"
@@ -161,23 +161,7 @@
       "url": "https://open.spotify.com/track/5PlwfYLmedp2BPxf0oGy8x"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
-      "album": {
-        "name": "Manu 76",
-        "url": "https://open.spotify.com/album/0Dw4vJzTx70RTxa8d7NXiJ"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 457066,
-      "name": "Besoka on Salsa",
-      "url": "https://open.spotify.com/track/1R7OaZSi8gazDJnjBWUXK5"
-    },
-    {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "African Voodoo",
         "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
@@ -193,7 +177,23 @@
       "url": "https://open.spotify.com/track/4jQdcGiKQhSzwUeocjo0A1"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
+      "album": {
+        "name": "Manu 76",
+        "url": "https://open.spotify.com/album/0Dw4vJzTx70RTxa8d7NXiJ"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 457066,
+      "name": "Besoka on Salsa",
+      "url": "https://open.spotify.com/track/1R7OaZSi8gazDJnjBWUXK5"
+    },
+    {
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "NYXIA. Tome III",
         "url": "https://open.spotify.com/album/2INTNqaYSOSAwmNLV925Ca"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/2wnX3u67dAAXZ2N2IU26VK"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Cubafrica",
         "url": "https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/1pt8kpkzmQ9O3xn4qCxL4Y"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Anbessa",
         "url": "https://open.spotify.com/album/5ff8xqsSumGyofa9LEY8r4"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/52TgFDmez9q5YCmV4EHGOK"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Africadelic",
         "url": "https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/3oViSE4pEzB9UT6Lo5XJyF"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Cubafrica",
         "url": "https://open.spotify.com/album/2LKgfPJtRIuHTh5wgi7N8Q"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/2FYV3YZ6ikL7NTFBnBXRqX"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Seventie's",
         "url": "https://open.spotify.com/album/4bFS2cSFPn02EBXo5yu9fP"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/4DbnSZZzv5DvvqOC4hG14q"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Manu 76",
         "url": "https://open.spotify.com/album/0Dw4vJzTx70RTxa8d7NXiJ"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/24yVlN5kOcPLzAe0nuZ9p5"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Africadelic",
         "url": "https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/28G0EJfxMf0pp72ZPxAM9R"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Afro",
         "url": "https://open.spotify.com/album/2S5svej55Av0CGFxcy3573"
@@ -357,7 +357,7 @@
       "url": "https://open.spotify.com/track/1ZYuJnAIKw6tAM2F4XEwoe"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "African Voodoo",
         "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
@@ -373,7 +373,7 @@
       "url": "https://open.spotify.com/track/3VxngfqlyODulPhX80UuzG"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Seventie's",
         "url": "https://open.spotify.com/album/4bFS2cSFPn02EBXo5yu9fP"
@@ -389,7 +389,7 @@
       "url": "https://open.spotify.com/track/7McyuC2aBOHuISZDaV5vNK"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/32CdxI1J7RuzQSE4A9AnbV"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Afro-Soul Machine",
         "url": "https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4"
@@ -416,12 +416,12 @@
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 397573,
-      "name": "Reggae Makossa",
-      "url": "https://open.spotify.com/track/6XR29umHoZKLmQRoJgUC2o"
+      "duration_ms": 423653,
+      "name": "Tek Time",
+      "url": "https://open.spotify.com/track/3QzRmXp2ANZFcf8Fa3sQ0x"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Simm' Tutt'Uno (feat. Jovanotti, Manu Dibango & Bottari Di Portico)",
         "url": "https://open.spotify.com/album/1M4apnNZGhzyfTTrDADfIV"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/57fT5UTogxchiaQvjubZnh"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Wakafrika",
         "url": "https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/3cTOcVSED8x5psHFY5xGcg"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Taciturne",
         "url": "https://open.spotify.com/album/2WCnXqrZUmN7mdioYMbyMC"
@@ -493,7 +493,39 @@
       "url": "https://open.spotify.com/track/3p6yYoGeqGQZnaBLopd0HY"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
+      "album": {
+        "name": "Afro-Soul Machine",
+        "url": "https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 397573,
+      "name": "Reggae Makossa",
+      "url": "https://open.spotify.com/track/6XR29umHoZKLmQRoJgUC2o"
+    },
+    {
+      "added_at": "2023-04-19 12:23:52",
+      "album": {
+        "name": "African Voodoo",
+        "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 179394,
+      "name": "Jungle Riders",
+      "url": "https://open.spotify.com/track/1j8XUIPtQI1DIC8dMALW2F"
+    },
+    {
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Salvamm 'o munno",
         "url": "https://open.spotify.com/album/4ND2SQRQDgP7J1UzD350Jn"
@@ -517,87 +549,7 @@
       "url": "https://open.spotify.com/track/48Kndus44tCfMKa7JoV2FE"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
-      "album": {
-        "name": "African Voodoo",
-        "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 167922,
-      "name": "Out of Score",
-      "url": "https://open.spotify.com/track/1xdAIBzX2nDUkDHfMOdNSE"
-    },
-    {
-      "added_at": "2023-04-18 13:10:12",
-      "album": {
-        "name": "Africadelic",
-        "url": "https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 128985,
-      "name": "Soul Fiesta",
-      "url": "https://open.spotify.com/track/3MhErr2oHiTPfbxG8Ya9s1"
-    },
-    {
-      "added_at": "2023-04-18 13:10:12",
-      "album": {
-        "name": "\u00c0 La Jama\u00efque",
-        "url": "https://open.spotify.com/album/4KyEPH6oDu0v4Poz1mfpRT"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 514000,
-      "name": "Goro City",
-      "url": "https://open.spotify.com/track/2MduGlWbGQfy1RaYe0L2tZ"
-    },
-    {
-      "added_at": "2023-04-18 13:10:12",
-      "album": {
-        "name": "The Very Best of Manu Dibango: Afro Soul Jazz from the Original Makossa Man",
-        "url": "https://open.spotify.com/album/02v98oaLbJQweqTYB3tAgv"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Ekedi",
-      "url": "https://open.spotify.com/track/0XSpOxozClQO2pKs2fLNX4"
-    },
-    {
-      "added_at": "2023-04-18 13:10:12",
-      "album": {
-        "name": "African Voodoo",
-        "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 179394,
-      "name": "Jungle Riders",
-      "url": "https://open.spotify.com/track/1j8XUIPtQI1DIC8dMALW2F"
-    },
-    {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Africadelic",
         "url": "https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg"
@@ -613,7 +565,71 @@
       "url": "https://open.spotify.com/track/5eLgxGM0GjdeFIRmkvCZi6"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
+      "album": {
+        "name": "\u00c0 La Jama\u00efque",
+        "url": "https://open.spotify.com/album/4KyEPH6oDu0v4Poz1mfpRT"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 514000,
+      "name": "Goro City",
+      "url": "https://open.spotify.com/track/2MduGlWbGQfy1RaYe0L2tZ"
+    },
+    {
+      "added_at": "2023-04-19 12:23:52",
+      "album": {
+        "name": "African Voodoo",
+        "url": "https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 167922,
+      "name": "Out of Score",
+      "url": "https://open.spotify.com/track/1xdAIBzX2nDUkDHfMOdNSE"
+    },
+    {
+      "added_at": "2023-04-19 12:23:52",
+      "album": {
+        "name": "The Very Best of Manu Dibango: Afro Soul Jazz from the Original Makossa Man",
+        "url": "https://open.spotify.com/album/02v98oaLbJQweqTYB3tAgv"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Ekedi",
+      "url": "https://open.spotify.com/track/0XSpOxozClQO2pKs2fLNX4"
+    },
+    {
+      "added_at": "2023-04-19 12:23:52",
+      "album": {
+        "name": "Africadelic",
+        "url": "https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 128985,
+      "name": "Soul Fiesta",
+      "url": "https://open.spotify.com/track/3MhErr2oHiTPfbxG8Ya9s1"
+    },
+    {
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Wakafrika",
         "url": "https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC"
@@ -637,7 +653,7 @@
       "url": "https://open.spotify.com/track/2UMCl2uPMWVoylBBOAjkqG"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Cubafrica",
         "url": "https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z"
@@ -657,7 +673,7 @@
       "url": "https://open.spotify.com/track/4djQmaWEGTHjRpoLJJQSVt"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/7IIE6yfcPrc2ln8qi3PczV"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/6KBQ2SXkZeMRb72ch5XXJ3"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Africadelic",
         "url": "https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg"
@@ -689,27 +705,23 @@
       "url": "https://open.spotify.com/track/3rmkciW9XNLfeGmAmso4fm"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
-        "name": "Lambi golo",
-        "url": "https://open.spotify.com/album/4ApIXEgwb3XSlYPWZZjlvN"
+        "name": "LOUNGE",
+        "url": "https://open.spotify.com/album/6k3gNZBHBjwPeVlyeW85eB"
       },
       "artists": [
-        {
-          "name": "Tour\u00e9 Kunda",
-          "url": "https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f"
-        },
         {
           "name": "Manu Dibango",
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 238054,
-      "name": "Demaro",
-      "url": "https://open.spotify.com/track/5bC9bkQtFbphrRo8LbRvbn"
+      "duration_ms": 163013,
+      "name": "I Got You (I Feel Good)",
+      "url": "https://open.spotify.com/track/6d8lg3RO1m0ea3yx32zJOB"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Cubafrica",
         "url": "https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z"
@@ -729,23 +741,7 @@
       "url": "https://open.spotify.com/track/6vG5U3Oi7RBLTD7sUf6olT"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
-      "album": {
-        "name": "Afro-Soul Machine",
-        "url": "https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 228666,
-      "name": "Lagos Go Slow",
-      "url": "https://open.spotify.com/track/73f0f9KKZsBfmtogRcnBLp"
-    },
-    {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Wakafrika",
         "url": "https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC"
@@ -761,7 +757,27 @@
       "url": "https://open.spotify.com/track/6Dr4Tat4uPaYBRIJ71WgQe"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
+      "album": {
+        "name": "Lambi golo",
+        "url": "https://open.spotify.com/album/4ApIXEgwb3XSlYPWZZjlvN"
+      },
+      "artists": [
+        {
+          "name": "Tour\u00e9 Kunda",
+          "url": "https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 238054,
+      "name": "Demaro",
+      "url": "https://open.spotify.com/track/5bC9bkQtFbphrRo8LbRvbn"
+    },
+    {
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Ballad Emotion",
         "url": "https://open.spotify.com/album/5skkHyAMGBCKyfwZGcSVRX"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/26sSX8lDuic48lLOpu0g49"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Cubafrica",
         "url": "https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z"
@@ -797,7 +813,83 @@
       "url": "https://open.spotify.com/track/4k3YTY6Oyaux2UdaZM9NUU"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
+      "album": {
+        "name": "Wakafrika",
+        "url": "https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        },
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 354000,
+      "name": "Emma (feat. Salif Keita)",
+      "url": "https://open.spotify.com/track/1ltlkrZ2qV3JlCbdXNUa3N"
+    },
+    {
+      "added_at": "2023-04-19 12:23:52",
+      "album": {
+        "name": "Anbessa",
+        "url": "https://open.spotify.com/album/5ff8xqsSumGyofa9LEY8r4"
+      },
+      "artists": [
+        {
+          "name": "Akal\u00e9 Wub\u00e9",
+          "url": "https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 252447,
+      "name": "African Pop Session",
+      "url": "https://open.spotify.com/track/3vgr28nj9y5KgpDoscc9eD"
+    },
+    {
+      "added_at": "2023-04-19 12:23:52",
+      "album": {
+        "name": "Ballad Emotion",
+        "url": "https://open.spotify.com/album/5skkHyAMGBCKyfwZGcSVRX"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 231132,
+      "name": "Over the rainbow",
+      "url": "https://open.spotify.com/track/3TWknpjYfEiYxnI0Ki8bAU"
+    },
+    {
+      "added_at": "2023-04-19 12:23:52",
+      "album": {
+        "name": "Cubafrica",
+        "url": "https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        },
+        {
+          "name": "Cuarteto Patria",
+          "url": "https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG"
+        }
+      ],
+      "duration_ms": 259160,
+      "name": "Son de la Loma",
+      "url": "https://open.spotify.com/track/6tLJ6F2PNFmQfZlaJQqblS"
+    },
+    {
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "Plus jamais Ebola",
         "url": "https://open.spotify.com/album/4EOZrn6mRdDd4ZHeIKdKhN"
@@ -905,63 +997,7 @@
       "url": "https://open.spotify.com/track/3ORUz3wZyPcBX0h1qMCDIO"
     },
     {
-      "added_at": "2023-04-18 13:10:12",
-      "album": {
-        "name": "Wakafrika",
-        "url": "https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        },
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 354000,
-      "name": "Emma (feat. Salif Keita)",
-      "url": "https://open.spotify.com/track/1ltlkrZ2qV3JlCbdXNUa3N"
-    },
-    {
-      "added_at": "2023-04-18 13:10:12",
-      "album": {
-        "name": "Ballad Emotion",
-        "url": "https://open.spotify.com/album/5skkHyAMGBCKyfwZGcSVRX"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 231132,
-      "name": "Over the rainbow",
-      "url": "https://open.spotify.com/track/3TWknpjYfEiYxnI0Ki8bAU"
-    },
-    {
-      "added_at": "2023-04-18 13:10:12",
-      "album": {
-        "name": "Cubafrica",
-        "url": "https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        },
-        {
-          "name": "Cuarteto Patria",
-          "url": "https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG"
-        }
-      ],
-      "duration_ms": 259160,
-      "name": "Son de la Loma",
-      "url": "https://open.spotify.com/track/6tLJ6F2PNFmQfZlaJQqblS"
-    },
-    {
-      "added_at": "2023-04-18 13:10:12",
+      "added_at": "2023-04-19 12:23:52",
       "album": {
         "name": "\u00c9ternel insatisfait",
         "url": "https://open.spotify.com/album/0fBcGOxa5aFx5MAOYaQ4XU"
@@ -983,46 +1019,6 @@
       "duration_ms": 208160,
       "name": "Je suis chez moi (feat. Amadou & Mariam & Manu Dibango) - African Remix",
       "url": "https://open.spotify.com/track/1gEiLNgV0aVwCk1I3EIXcf"
-    },
-    {
-      "added_at": "2023-04-18 13:10:12",
-      "album": {
-        "name": "Anbessa",
-        "url": "https://open.spotify.com/album/5ff8xqsSumGyofa9LEY8r4"
-      },
-      "artists": [
-        {
-          "name": "Akal\u00e9 Wub\u00e9",
-          "url": "https://open.spotify.com/artist/2jjVw1rNPydSwqfJc5uSdn"
-        },
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 252447,
-      "name": "African Pop Session",
-      "url": "https://open.spotify.com/track/3vgr28nj9y5KgpDoscc9eD"
-    },
-    {
-      "added_at": "2023-04-18 13:10:12",
-      "album": {
-        "name": "Lubamba",
-        "url": "https://open.spotify.com/album/2gGtpY3immTLCzAYR2kter"
-      },
-      "artists": [
-        {
-          "name": "Sam Mangwana",
-          "url": "https://open.spotify.com/artist/2p7l0MAzxkEwRHgtCcLVFB"
-        },
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 232813,
-      "name": "Juventude Actual",
-      "url": "https://open.spotify.com/track/4IaQs3UZ9M7xIx4qIVVDQB"
     }
   ],
   "unique_name": "This Is Manu Dibango",

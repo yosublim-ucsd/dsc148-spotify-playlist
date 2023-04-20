@@ -124,10 +124,28 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 251334,
       "name": "Caught",
       "url": "https://open.spotify.com/track/7A9NDbXc5OKPVwaVCdHee1"
+    },
+    {
+      "album": {
+        "name": "Very Proud of Ya",
+        "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117960,
+      "name": "Cult Status",
+      "url": "https://open.spotify.com/track/3ugwlbdItAHh49CJrIUZXY"
     },
     {
       "album": {

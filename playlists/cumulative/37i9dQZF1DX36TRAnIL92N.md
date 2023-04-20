@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-155 songs - 14 hr 35 min
+156 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Endless](https://open.spotify.com/track/1P7gXbnZAqtAfRmW0R4Ovw) | [GNTN](https://open.spotify.com/artist/6guwuHIjpVnmvaBjzertzu) | [Endless](https://open.spotify.com/album/3c31jZDrixWGeAypQK3tS0) | 6:42 | 2022-07-05 | 2022-07-29 |
 | [Epoche](https://open.spotify.com/track/5Gxh6WPQVqsfESePvpHsDf) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Epoche](https://open.spotify.com/album/2Md53Ho2kXNMATFL8pK3go) | 6:26 | 2022-07-05 | 2022-07-22 |
 | [Essence](https://open.spotify.com/track/5KgOlepu6lod2ORXYfkqKg) | [Uto Karem](https://open.spotify.com/artist/6KBbbE4QVlVQwFNIXrD8hF) | [Essence](https://open.spotify.com/album/1fO195lO8fjRkNBMObdIWa) | 6:44 | 2022-07-05 | 2022-07-26 |
+| [Experience](https://open.spotify.com/track/6ewzsniysRplwdDRA7eNdn) | [Luna Lucci](https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp) | [Experience](https://open.spotify.com/album/2mHKmSPCtMud5SwgzMNEQ1) | 5:48 | 2023-04-13 |  |
 | [Ferment](https://open.spotify.com/track/5BsHWam3TG9dTkLPv7Da0L) | [Ramsey Neville](https://open.spotify.com/artist/1Y8pFAVjIzar47RDW7dBew) | [Motherboard](https://open.spotify.com/album/5FjRqSIXI8DgHWn4FJE5cx) | 6:16 | 2022-07-05 | 2022-07-09 |
 | [Flash \- Marco Faraone Remix](https://open.spotify.com/track/49xmmvP2Meu4Da3867lA0v) | [Sam Paganini](https://open.spotify.com/artist/50ZyjIaVHOy5Xt7FLJ7RZl), [Zøe](https://open.spotify.com/artist/35GfziDKCTh1aPNFDPuSft), [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Light + Shadow Remixes, Vol\. 1](https://open.spotify.com/album/7aBnqZdnNzK0xvQ53vKpkO) | 6:10 | 2022-07-11 | 2022-11-27 |
 | [Flying Octopus](https://open.spotify.com/track/2XWBbVold8LNroIDyeockI) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Flying Octopus](https://open.spotify.com/album/1QlX9KsPeTDvPdozDwJn1F) | 3:31 | 2022-07-05 |  |
@@ -144,7 +145,7 @@
 | [Time's Running Out](https://open.spotify.com/track/2oEmCUB7oJk18BIXphcK7J) | [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig), [Thomas Hoffknecht](https://open.spotify.com/artist/5NZNUuAd9Z92Q4wAVRq3Cf) | [Time's Running Out](https://open.spotify.com/album/09MjP8SWdgVxYnY6kuxI2A) | 5:53 | 2022-07-11 | 2022-07-29 |
 | [Timeless \- Original Mix](https://open.spotify.com/track/76P1a7VfRpxXqBUqcIi3Ub) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Timeless EP](https://open.spotify.com/album/6iutev2dbJ6dSkLunk50cG) | 6:43 | 2022-07-05 | 2022-09-10 |
 | [Tisatek](https://open.spotify.com/track/6S0LWbeU6x67M4QXNUH4q4) | [Tom Wax](https://open.spotify.com/artist/1b0WGyps7QC5KqSSq57wXX), [Rico Puestel](https://open.spotify.com/artist/6onCOduLbP6KH26LqSRV69) | [Tisatek](https://open.spotify.com/album/2e7LQoH4FxzVWjMzEC1M6s) | 6:38 | 2022-07-05 | 2022-07-24 |
-| [Together One Time](https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [Together One Time](https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM) | 4:48 | 2022-07-05 |  |
+| [Together One Time](https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [Together One Time](https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM) | 4:48 | 2022-07-05 | 2023-04-20 |
 | [Tribal Space](https://open.spotify.com/track/4VfF4RBRiKKV969cXUX8or) | [Sabura](https://open.spotify.com/artist/7qciaYUulPvR4k8KMc4OTX) | [Tribal Space](https://open.spotify.com/album/4UeZWgfQSO0fsHpCDudHzs) | 5:59 | 2022-07-05 | 2022-09-02 |
 | [Tunnel](https://open.spotify.com/track/6J8CNMeXUBKpoTxGNxvHG1) | [Daniel Levak](https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh) | [Tunnel](https://open.spotify.com/album/5uDI9IsrUmEBWXT9hFRZpN) | 6:01 | 2022-07-05 | 2022-07-29 |
 | [Twisted](https://open.spotify.com/track/2hVKyTO50HPKfVmFas7Fcm) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Twisted](https://open.spotify.com/album/41n9tQvEH5vhv5ZcG7ckQp) | 3:04 | 2023-03-29 |  |

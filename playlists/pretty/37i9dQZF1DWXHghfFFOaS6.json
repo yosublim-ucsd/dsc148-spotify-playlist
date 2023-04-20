@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 277909,
+  "num_followers": 278116,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzODM1MywwMDAwMDAwMDZjM2JiODRhMGI2Y2ZjYTgyZjcwNzkyOTc4ZjZlZjk0",
+  "snapshot_id": "MTY2MDIzODM1MywwMDAwMDAwMDMwNzg5NTNjNDE4YWUwNDY2ZTgxOGM1YmZiY2YxYmQz",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Vibrations",
-        "url": "https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z"
-      },
-      "artists": [
-        {
-          "name": "Roy Ayers",
-          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
-        }
-      ],
-      "duration_ms": 240920,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Do You Want More?!!!??!",
         "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 281866,
       "name": "Mellow My Man",
       "url": "https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Vibrations",
+        "url": "https://open.spotify.com/album/44FVaRWkEXn4DaDv9fD23z"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers",
+          "url": "https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj"
+        }
+      ],
+      "duration_ms": 240920,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/45muf22QzSyKwsF4l3IcwJ"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Cookie Dough",
-        "url": "https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM"
-      },
-      "artists": [
-        {
-          "name": "Wildcookie",
-          "url": "https://open.spotify.com/artist/2nkfPQ3HP5UyDHqy1hSbgG"
-        }
-      ],
-      "duration_ms": 175586,
-      "name": "Serious Drug",
-      "url": "https://open.spotify.com/track/3EKzH4moV9wWTkVEdgz91A"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Yellow",
         "url": "https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 186521,
       "name": "Sun",
       "url": "https://open.spotify.com/track/1t0YQkR6LoRrzALweX2OL8"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Cookie Dough",
+        "url": "https://open.spotify.com/album/416RB6m6lOsWBb1KMBwimM"
+      },
+      "artists": [
+        {
+          "name": "Wildcookie",
+          "url": "https://open.spotify.com/artist/2nkfPQ3HP5UyDHqy1hSbgG"
+        }
+      ],
+      "duration_ms": 175586,
+      "name": "Serious Drug",
+      "url": "https://open.spotify.com/track/3EKzH4moV9wWTkVEdgz91A"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "The People Tree",
-        "url": "https://open.spotify.com/album/3OPuEGeKNwmxTfvOQJUh0Y"
-      },
-      "artists": [
-        {
-          "name": "Mother Earth",
-          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
-        }
-      ],
-      "duration_ms": 265760,
-      "name": "Apple Green",
-      "url": "https://open.spotify.com/track/09athuEe5kQfC7bV63jmGa"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Culture Of Fear",
         "url": "https://open.spotify.com/album/06CDsx2HDFn57Y66uNI7Iz"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 272800,
       "name": "Web of Deception",
       "url": "https://open.spotify.com/track/3n6SFPAFoF0YyBcMEk1zYc"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "The People Tree",
+        "url": "https://open.spotify.com/album/3OPuEGeKNwmxTfvOQJUh0Y"
+      },
+      "artists": [
+        {
+          "name": "Mother Earth",
+          "url": "https://open.spotify.com/artist/1v98YOkqO8vCNF8t2xUWiw"
+        }
+      ],
+      "duration_ms": 265760,
+      "name": "Apple Green",
+      "url": "https://open.spotify.com/track/09athuEe5kQfC7bV63jmGa"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
-        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
-      },
-      "artists": [
-        {
-          "name": "Buckshot LeFonque",
-          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
-        }
-      ],
-      "duration_ms": 354640,
-      "name": "Breakfast At Denny's",
-      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Friends & Strangers",
         "url": "https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 289013,
       "name": "Friends And Strangers",
       "url": "https://open.spotify.com/track/6vkvSBJIrpdbwwrmBrER8V"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Once In The Life (Original Motion Picture Soundtrack) [Digitally Remastered]",
+        "url": "https://open.spotify.com/album/1OZ06WuBDhR2fS4r5huztx"
+      },
+      "artists": [
+        {
+          "name": "Buckshot LeFonque",
+          "url": "https://open.spotify.com/artist/1wbW8PchZM0iSKq1V8HsRF"
+        }
+      ],
+      "duration_ms": 354640,
+      "name": "Breakfast At Denny's",
+      "url": "https://open.spotify.com/track/7uLrf2TyeptKCxsAVRIsXi"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -963,6 +963,26 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Leaves of Memories",
+        "url": "https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul"
+      },
+      "artists": [
+        {
+          "name": "Kwaj",
+          "url": "https://open.spotify.com/artist/07qmux75ZCIGFmkjC5K5lX"
+        },
+        {
+          "name": "V. Soul",
+          "url": "https://open.spotify.com/artist/0CFik6GQgNMDHY34nJ9OpH"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Clouds in the Sky",
+      "url": "https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "And Now The Legacy Begins",
         "url": "https://open.spotify.com/album/6AelbV20VsSWwnYhalKjdd"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 310214,
       "name": "Dark Clouds Rain Soul - Dub",
       "url": "https://open.spotify.com/track/7DSKKjkdXccZpbhz0AhWZM"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Leaves of Memories",
-        "url": "https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul"
-      },
-      "artists": [
-        {
-          "name": "Kwaj",
-          "url": "https://open.spotify.com/artist/07qmux75ZCIGFmkjC5K5lX"
-        },
-        {
-          "name": "V. Soul",
-          "url": "https://open.spotify.com/artist/0CFik6GQgNMDHY34nJ9OpH"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Clouds in the Sky",
-      "url": "https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "True Spirit",
+        "url": "https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp"
+      },
+      "artists": [
+        {
+          "name": "Carleen Anderson",
+          "url": "https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Girl Overboard",
         "url": "https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan"
       },
@@ -1199,6 +1215,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "Galactica Rush",
+        "url": "https://open.spotify.com/album/3920PXKQtjKRmHxhdrCusF"
+      },
+      "artists": [
+        {
+          "name": "Jhelisa",
+          "url": "https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA"
+        }
+      ],
+      "duration_ms": 320693,
+      "name": "Whirl Keeps Turning",
+      "url": "https://open.spotify.com/track/4hAQ0We3JHe2G3BELaLPpX"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Rubberband EP",
         "url": "https://open.spotify.com/album/4iHtBFo4si4ke896dw2yHJ"
       },
@@ -1215,38 +1247,6 @@
       "duration_ms": 344986,
       "name": "Rubberband of Life (feat. Ledisi)",
       "url": "https://open.spotify.com/track/7IYV3GN411W65phaX3XP6Q"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "True Spirit",
-        "url": "https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp"
-      },
-      "artists": [
-        {
-          "name": "Carleen Anderson",
-          "url": "https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Galactica Rush",
-        "url": "https://open.spotify.com/album/3920PXKQtjKRmHxhdrCusF"
-      },
-      "artists": [
-        {
-          "name": "Jhelisa",
-          "url": "https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA"
-        }
-      ],
-      "duration_ms": 320693,
-      "name": "Whirl Keeps Turning",
-      "url": "https://open.spotify.com/track/4hAQ0We3JHe2G3BELaLPpX"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Dad Man Cat",
-        "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR"
-      },
-      "artists": [
-        {
-          "name": "Corduroy",
-          "url": "https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH"
-        }
-      ],
-      "duration_ms": 265266,
-      "name": "Long Cool & Bubbly",
-      "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Funkhaus Studio Sessions",
         "url": "https://open.spotify.com/album/5LOoEv25jD7VHMcoaEcnbg"
       },
@@ -1445,20 +1429,20 @@
       "url": "https://open.spotify.com/track/6QwMs7pvzxGhriqoy3ofHc"
     },
     {
-      "added_at": "2022-07-18 17:17:22",
+      "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "C'\u00e9tait un rendez-vous",
-        "url": "https://open.spotify.com/album/0PP9XAAa3yjLiMQ9gM2E7W"
+        "name": "Dad Man Cat",
+        "url": "https://open.spotify.com/album/3jKJyvl0TGB6uLPlCoUClR"
       },
       "artists": [
         {
-          "name": "Arms and Sleepers",
-          "url": "https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP"
+          "name": "Corduroy",
+          "url": "https://open.spotify.com/artist/4ABvs5lSQ25f8fIJ1EHgyH"
         }
       ],
-      "duration_ms": 320737,
-      "name": "C'\u00e9tait un rendez-vous",
-      "url": "https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j"
+      "duration_ms": 265266,
+      "name": "Long Cool & Bubbly",
+      "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1517,6 +1501,22 @@
       "url": "https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp"
     },
     {
+      "added_at": "2022-07-18 17:17:22",
+      "album": {
+        "name": "C'\u00e9tait un rendez-vous",
+        "url": "https://open.spotify.com/album/0PP9XAAa3yjLiMQ9gM2E7W"
+      },
+      "artists": [
+        {
+          "name": "Arms and Sleepers",
+          "url": "https://open.spotify.com/artist/0KjF9pkI2bO9EMuB7LnHqP"
+        }
+      ],
+      "duration_ms": 320737,
+      "name": "C'\u00e9tait un rendez-vous",
+      "url": "https://open.spotify.com/track/7r3KxXhRx6sznqDL05497j"
+    },
+    {
       "added_at": "2022-07-14 19:24:43",
       "album": {
         "name": "Stoned Woman",
@@ -1555,18 +1555,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Friends & Strangers",
-        "url": "https://open.spotify.com/album/6kTEtsawfwnyzPhaEGVu4a"
+        "name": "Strata Records - the Sound of Detroit - Reimagined by Jazzanova",
+        "url": "https://open.spotify.com/album/4YLG5PwYbMJQeQe3NyVUP3"
       },
       "artists": [
         {
-          "name": "Ronnie Laws",
-          "url": "https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC"
+          "name": "Jazzanova",
+          "url": "https://open.spotify.com/artist/0nTErwSOllrcUWt3knOG2T"
+        },
+        {
+          "name": "Sean Haefeli",
+          "url": "https://open.spotify.com/artist/5RyaBwFlrXhvhDGZNSb8Vw"
         }
       ],
-      "duration_ms": 420493,
-      "name": "Life In Paradise",
-      "url": "https://open.spotify.com/track/4QIs6dRSU2niujupDHv6oK"
+      "duration_ms": 218986,
+      "name": "Creative Musicians",
+      "url": "https://open.spotify.com/track/0SIP4prU3XhsWFo36S3eLI"
     }
   ],
   "unique_name": "Acid Jazz",

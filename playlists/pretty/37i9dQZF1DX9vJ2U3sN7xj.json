@@ -1,12 +1,12 @@
 {
   "description": "nos fuimos de fiesta \ud83c\udf89 \nCover: Becky G & Omega",
-  "num_followers": 947096,
+  "num_followers": 947147,
   "original_name": "Fiesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM5ODc0NywwMDAwMDAwMDdkYjI0MjhiMGU5MGU2NTI3NjA5Y2NhNDc5NjFhNGFk",
+  "snapshot_id": "MTY4MTM5ODc0NywwMDAwMDAwMGE3ZjZiZGVmOGUwYmQwZjI2M2E4YTVkNWIwZGNjMjdk",
   "tracks": [
     {
       "added_at": "2023-04-03 18:28:00",
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
     },
     {
-      "added_at": "2023-04-19 01:26:15",
+      "added_at": "2023-04-20 01:31:37",
       "album": {
         "name": "La Bebe (Remix)",
         "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
     },
     {
-      "added_at": "2023-04-19 01:26:15",
+      "added_at": "2023-04-20 01:31:37",
       "album": {
         "name": "Los \u00c1ngeles",
         "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
-      "added_at": "2023-04-19 01:26:15",
+      "added_at": "2023-04-20 01:31:37",
       "album": {
         "name": "Cuerpecito",
         "url": "https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/6Rpbzk2LC8xWZI93RyodAq"
     },
     {
-      "added_at": "2023-04-19 01:26:15",
+      "added_at": "2023-04-20 01:31:37",
       "album": {
         "name": "L\u00edo",
         "url": "https://open.spotify.com/album/0kzO37PJ7zVbRBv1Kruee8"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
     },
     {
-      "added_at": "2023-04-19 01:26:15",
+      "added_at": "2023-04-20 01:31:37",
       "album": {
         "name": "Mas Rica Que Ayer",
         "url": "https://open.spotify.com/album/7goOJ9hkBfNyuESHKmtGWu"
@@ -479,26 +479,6 @@
     {
       "added_at": "2023-04-03 18:28:00",
       "album": {
-        "name": "ULALA (OOH LA LA)",
-        "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 188009,
-      "name": "ULALA (OOH LA LA)",
-      "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
-    },
-    {
-      "added_at": "2023-04-03 18:28:00",
-      "album": {
         "name": "Platonicos",
         "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
+    },
+    {
+      "added_at": "2023-04-03 18:28:00",
+      "album": {
+        "name": "ULALA (OOH LA LA)",
+        "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 188009,
+      "name": "ULALA (OOH LA LA)",
+      "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
     },
     {
       "added_at": "2023-04-03 18:28:00",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2023-04-03 18:28:00",
       "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 232549,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C"
-    },
-    {
-      "added_at": "2023-04-03 18:28:00",
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 230693,
       "name": "Una Locura",
       "url": "https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU"
+    },
+    {
+      "added_at": "2023-04-03 18:28:00",
+      "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 232549,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C"
     },
     {
       "added_at": "2023-04-03 18:28:00",
@@ -1259,6 +1259,26 @@
     {
       "added_at": "2023-04-03 18:28:00",
       "album": {
+        "name": "Fantasias",
+        "url": "https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 199711,
+      "name": "Fantasias",
+      "url": "https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy"
+    },
+    {
+      "added_at": "2023-04-03 18:28:00",
+      "album": {
         "name": "TRANSLATION",
         "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
       },
@@ -1315,26 +1335,6 @@
       "duration_ms": 172854,
       "name": "X",
       "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
-    },
-    {
-      "added_at": "2023-04-03 18:28:00",
-      "album": {
-        "name": "Fantasias",
-        "url": "https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 199711,
-      "name": "Fantasias",
-      "url": "https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy"
     },
     {
       "added_at": "2023-04-03 18:28:00",
@@ -2027,30 +2027,6 @@
     {
       "added_at": "2023-04-03 18:28:00",
       "album": {
-        "name": "Baila Conmigo (feat. Kelly Ruiz)",
-        "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
-      },
-      "artists": [
-        {
-          "name": "Dayvi",
-          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
-        },
-        {
-          "name": "Victor Cardenas",
-          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
-        },
-        {
-          "name": "Kelly Ru\u00edz",
-          "url": "https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw"
-        }
-      ],
-      "duration_ms": 189817,
-      "name": "Baila Conmigo (feat. Kelly Ruiz)",
-      "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
-    },
-    {
-      "added_at": "2023-04-03 18:28:00",
-      "album": {
         "name": "Aloha (feat. Darell, Mambo Kingz & Dj Luian)",
         "url": "https://open.spotify.com/album/7F8Usvm4Vj3XlRztSBRfEH"
       },
@@ -2083,6 +2059,30 @@
       "duration_ms": 241659,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/5RAIMjdrCEjpjaR5tBATXU"
+    },
+    {
+      "added_at": "2023-04-03 18:28:00",
+      "album": {
+        "name": "Baila Conmigo (feat. Kelly Ruiz)",
+        "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
+      },
+      "artists": [
+        {
+          "name": "Dayvi",
+          "url": "https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf"
+        },
+        {
+          "name": "Victor Cardenas",
+          "url": "https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR"
+        },
+        {
+          "name": "Kelly Ru\u00edz",
+          "url": "https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw"
+        }
+      ],
+      "duration_ms": 189817,
+      "name": "Baila Conmigo (feat. Kelly Ruiz)",
+      "url": "https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG"
     },
     {
       "added_at": "2023-04-03 18:28:00",
@@ -2295,26 +2295,6 @@
     {
       "added_at": "2023-04-03 18:28:00",
       "album": {
-        "name": "Contra La Pared",
-        "url": "https://open.spotify.com/album/1bd0v6EhJjlU1UXuHQrxWQ"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 224680,
-      "name": "Contra La Pared",
-      "url": "https://open.spotify.com/track/37eGbhE1xVFSvcKkqGb6i1"
-    },
-    {
-      "added_at": "2023-04-03 18:28:00",
-      "album": {
         "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
         "url": "https://open.spotify.com/album/6TRoxZTx8HtZ2B3U7c1jVC"
       },
@@ -2335,6 +2315,26 @@
       "duration_ms": 209905,
       "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
       "url": "https://open.spotify.com/track/7MoZgM6AsQaZw14WnKopuy"
+    },
+    {
+      "added_at": "2023-04-03 18:28:00",
+      "album": {
+        "name": "Contra La Pared",
+        "url": "https://open.spotify.com/album/1bd0v6EhJjlU1UXuHQrxWQ"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 224680,
+      "name": "Contra La Pared",
+      "url": "https://open.spotify.com/track/37eGbhE1xVFSvcKkqGb6i1"
     },
     {
       "added_at": "2023-04-03 18:28:00",
@@ -2979,26 +2979,6 @@
     {
       "added_at": "2023-04-03 18:28:00",
       "album": {
-        "name": "Intimo",
-        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 198320,
-      "name": "Atr\u00e9vete",
-      "url": "https://open.spotify.com/track/26Qhn2T88XqVinXQpmSarj"
-    },
-    {
-      "added_at": "2023-04-03 18:28:00",
-      "album": {
         "name": "DOLLAR",
         "url": "https://open.spotify.com/album/2gUAsCAmGaSwtqcCM25LCU"
       },
@@ -3015,6 +2995,26 @@
       "duration_ms": 203486,
       "name": "DOLLAR",
       "url": "https://open.spotify.com/track/4ziiAuFyXiY1HNSLGM1xv8"
+    },
+    {
+      "added_at": "2023-04-03 18:28:00",
+      "album": {
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "Atr\u00e9vete",
+      "url": "https://open.spotify.com/track/26Qhn2T88XqVinXQpmSarj"
     },
     {
       "added_at": "2023-04-03 18:28:00",

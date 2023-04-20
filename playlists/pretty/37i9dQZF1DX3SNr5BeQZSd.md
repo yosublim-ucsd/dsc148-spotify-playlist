@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > Trending lofi beats from across the World Wide Web.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,045 likes - 115 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,257 likes - 115 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 92 | [Lisergia](https://open.spotify.com/track/3bQUlCT5sDqM2pSeKWETJk) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Ócio](https://open.spotify.com/album/4Qpy6jTrqsNcOzFfuJwGxn) | 2:46 |
 | 93 | [Insomnia Dream](https://open.spotify.com/track/1wkD1pgESRrQysLpioCew3) | [colours in the dark](https://open.spotify.com/artist/4lRRwA3JsWrOD8f47gI2iI) | [Insomnia Dream](https://open.spotify.com/album/6gjd1kVza1OQREmtvcGUC7) | 2:42 |
 | 94 | [french inhale](https://open.spotify.com/track/0zNEiQuUejW9MZTY5bSDvx) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [Lighter](https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ) | 1:48 |
-| 95 | [Kya Mujhe Pyaar Hai](https://open.spotify.com/track/1JBWN68JZOrEexpXQgwgNy) | [Hani Yadav](https://open.spotify.com/artist/5iyABbvYD8iPKjNRCYG3z3), [Mk Mehra](https://open.spotify.com/artist/3mNRVByc2ZFXpBdQm2wPDa) | [Kya Mujhe Pyaar Hai](https://open.spotify.com/album/4yJrdqmbhE0PFRIJqpSK4O) | 2:33 |
+| 95 | [Kya Mujhe Pyaar Hai \(slowed & reverb\)](https://open.spotify.com/track/3vsqsVdbxVc0vZAPZgQei8) | [Rabiul Rhmn](https://open.spotify.com/artist/6VX140YNrqkmdceBjUOIAo) | [Kya Mujhe Pyaar Hai \(slowed & reverb\)](https://open.spotify.com/album/2HwIqakh0IBeXNYYPvoTrj) | 2:33 |
 | 96 | [Long Walks](https://open.spotify.com/track/6zm5ll3wpuqlA262hmJc4T) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:49 |
 | 97 | [lovesick](https://open.spotify.com/track/1aPsdtJUgzeryfKppuYFGA) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [lovesick](https://open.spotify.com/album/6m0DGPzcCmuFwuqguhcAVg) | 2:30 |
 | 98 | [i'm tired of feeling this way](https://open.spotify.com/track/4LfPwBXBQq2Ub9Lrrrzct8) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [i'm tired of feeling this way / lychee juice](https://open.spotify.com/album/7p1XH7nShcvdMc5NFetb0s) | 2:28 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 114 | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/track/3wtqgOJaW0l7bQ2ksSRcNH) | [Akshit Ravat](https://open.spotify.com/artist/47aFMArtTqGAFZifNLuBSy) | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/album/3QcxJXrQK4b6cUDNtjm2Z9) | 2:51 |
 | 115 | [Drifting Off](https://open.spotify.com/track/2QwNQx4UWhwDb5kVKWJ8jD) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:33 |
 
-Snapshot ID: `MTY3ODQ1MjA5NCwwMDAwMDAwMGMwODE2MTY0MGMxM2U4YjY3ZjU3NDc4MjIyMjZjZjFl`
+Snapshot ID: `MTY3ODQ1MjA5NCwwMDAwMDAwMGJlZmU0YjlkYzdmNWRhNWUyZTc4NTc5NzZjYTYxNDA2`

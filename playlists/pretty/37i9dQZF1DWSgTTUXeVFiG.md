@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,845 likes - 50 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,880 likes - 50 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 45 | [El Cantante \- Live](https://open.spotify.com/track/1xKIjS9jwPmMBCa40RvoS1) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Live](https://open.spotify.com/album/2kIKvvOkkLqfGUyAaiU3rQ) | 2:57 |
 | 46 | [Señor Sereno \- En Vivo](https://open.spotify.com/track/5sGbO1yZxuXVGT6B7c7XP4) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Ismael Miranda \(En Vivo\)](https://open.spotify.com/album/40DjMiB2wSxUTCuXiX1Egk) | 5:30 |
 | 47 | [Medias Negras \- Live Version](https://open.spotify.com/track/51QsdN4xBmkLhtqNi0J40l) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:52 |
-| 48 | [Tu Loco, Loco, Y Yo Tranquilo](https://open.spotify.com/track/5ZnS39e15qQqAFS7lgCPE1) | [Roberto Roena](https://open.spotify.com/artist/4i5rDrP2IqCdMgde0vIpyB) | [En Vivo Desde Bellas Artes](https://open.spotify.com/album/7GjrbV5AIgz240w67gmVCs) | 4:38 |
+| 48 | [Quiéreme Tal Como Soy \- Live](https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [30 Años de Power](https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI) | 5:30 |
 | 49 | [Desnudate Mujer](https://open.spotify.com/track/2aiTdsCbRlcDmSPzToIRIA) | [José Alberto "El Canario"](https://open.spotify.com/artist/6TRzinjf5dzE8zA8baPbYz) | [Va por Ti, Frankie \(Concierto Homenaje a Frankie Ruiz\)](https://open.spotify.com/album/3NpPEaMbkXan11KO2FB43Q) | 8:20 |
 | 50 | [Me Gusta El Son \- Live](https://open.spotify.com/track/7xdo44K01QFyEWKVeeOn5Z) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Live At The Red Garter, Vol\. 1](https://open.spotify.com/album/5Qz2Pe94CCMTG7QmfCFYxM) | 8:17 |
 
-Snapshot ID: `MTY0NzU3OTYwMCwwMDAwMDAwMDI3MWUwMTk4MDI5M2QxMmI2NTA2OTZhYTFhNmRhNmVi`
+Snapshot ID: `MTY0NzU3OTYwMCwwMDAwMDAwMDM2Y2M1N2Q3YjYxM2VmNGI0ZDVhMGQ4ZjA5MzllNTIw`

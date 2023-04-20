@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1950",
+        "url": "https://open.spotify.com/album/5p0UaZsYWMn4L1dSpc6AhN"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225133,
+      "name": "1950",
+      "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
+    },
+    {
+      "album": {
         "name": "Favourite Worst Nightmare (Standard Version)",
         "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
       },
@@ -580,7 +598,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-01",
+      "date_removed": null,
       "duration_ms": 189624,
       "name": "Boyhood",
       "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
@@ -634,7 +652,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 372866,
       "name": "Breathe Deeper",
       "url": "https://open.spotify.com/track/3LbZIhU0smEU5SUnxod4j4"
@@ -786,7 +804,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 192466,
       "name": "Cherry-coloured Funk",
       "url": "https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ"
@@ -974,7 +992,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 247079,
       "name": "Dead Man Walking",
       "url": "https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk"
@@ -1896,7 +1914,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 214692,
       "name": "Gravity (feat. Tyler, The Creator)",
       "url": "https://open.spotify.com/track/6u3CPnFMKANYgfdiifFOiJ"
@@ -2660,9 +2678,9 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-23",
+      "date_removed": null,
       "duration_ms": 196071,
-      "name": "Kyle (I Found You)",
+      "name": "Kyle (i found you)",
       "url": "https://open.spotify.com/track/6Ao5d7TMQ92h87jQqSHGyw"
     },
     {
@@ -2736,6 +2754,28 @@
       "duration_ms": 176531,
       "name": "Let Go",
       "url": "https://open.spotify.com/track/1NCWXbUyF88ee30OMAe7dO"
+    },
+    {
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze"
+      },
+      "artists": [
+        {
+          "name": "Ark Patrol",
+          "url": "https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9"
+        },
+        {
+          "name": "Veronika Redd",
+          "url": "https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248056,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI"
     },
     {
       "album": {
@@ -2862,7 +2902,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 141081,
       "name": "love you more than me",
       "url": "https://open.spotify.com/track/3jc0jdopFsv3dYz5uo8OCr"
@@ -3043,6 +3083,24 @@
     },
     {
       "album": {
+        "name": "Miss Summer",
+        "url": "https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco"
+      },
+      "artists": [
+        {
+          "name": "ODIE",
+          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162376,
+      "name": "Miss Summer",
+      "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
+    },
+    {
+      "album": {
         "name": "Jassbusters",
         "url": "https://open.spotify.com/album/5J3hSygoerXrNBpEFWcGIJ"
       },
@@ -3112,6 +3170,24 @@
       "duration_ms": 187723,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
+    },
+    {
+      "album": {
+        "name": "YOU FEAR THE GOD THAT LOVES YOU",
+        "url": "https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147568,
+      "name": "more than friends",
+      "url": "https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6"
     },
     {
       "album": {
@@ -3364,7 +3440,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-03",
+      "date_removed": null,
       "duration_ms": 230141,
       "name": "Oil (feat. Stevie Nicks)",
       "url": "https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ"
@@ -3418,7 +3494,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 170893,
       "name": "Only in My Dreams",
       "url": "https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz"
@@ -3700,7 +3776,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-12",
+      "date_removed": null,
       "duration_ms": 329295,
       "name": "Purple Hearts",
       "url": "https://open.spotify.com/track/1REVvAphiSTJyKQ1fDpHa4"
@@ -4225,6 +4301,24 @@
     },
     {
       "album": {
+        "name": "Sleep Well",
+        "url": "https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175875,
+      "name": "Sleep Well",
+      "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
+    },
+    {
+      "album": {
         "name": "Highspeeds",
         "url": "https://open.spotify.com/album/5Ae9tQRJDX86FnozLpyY1k"
       },
@@ -4380,7 +4474,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-18",
+      "date_removed": null,
       "duration_ms": 318026,
       "name": "Space Oddity - 2015 Remaster",
       "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
@@ -4776,7 +4870,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-11",
+      "date_removed": null,
       "duration_ms": 139662,
       "name": "The Difference",
       "url": "https://open.spotify.com/track/4nlvKIIetOWGIMyhjQXgOZ"
@@ -4794,7 +4888,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 184767,
       "name": "The Dress",
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
@@ -4816,10 +4910,28 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 358983,
       "name": "The Last Goodbye (feat. Bettye LaVette)",
       "url": "https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC"
+    },
+    {
+      "album": {
+        "name": "The Loser",
+        "url": "https://open.spotify.com/album/77bm4AHldCf4STieStlVJg"
+      },
+      "artists": [
+        {
+          "name": "Verzache",
+          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131586,
+      "name": "The Loser",
+      "url": "https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58"
     },
     {
       "album": {
@@ -4965,6 +5077,24 @@
     },
     {
       "album": {
+        "name": "Veckatimest",
+        "url": "https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246213,
+      "name": "Two Weeks",
+      "url": "https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m"
+    },
+    {
+      "album": {
         "name": "The Life Of Pablo",
         "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
       },
@@ -5034,7 +5164,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 154531,
       "name": "Valentina",
       "url": "https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD"
@@ -5290,7 +5420,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-16",
+      "date_removed": null,
       "duration_ms": 231964,
       "name": "Who Hurt You?",
       "url": "https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym"
@@ -5308,7 +5438,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 169319,
       "name": "Wild Irish Roses",
       "url": "https://open.spotify.com/track/6efkcs2aUBMFKxl0cl2JWQ"
@@ -5424,7 +5554,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 150699,
       "name": "Worth the Wait (feat. Omar Apollo)",
       "url": "https://open.spotify.com/track/6V91Cctseyb8yz67YQMDw3"

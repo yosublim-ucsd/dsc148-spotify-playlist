@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,672 likes - 118 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,671 likes - 118 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 64 | [At the End of the Day](https://open.spotify.com/track/7xdKRHvX5OXoRyfPQ8w2mU) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Tell Me That It’s Over](https://open.spotify.com/album/5L6fAzbz2x5oF8l0qluSKm) | 3:53 |
 | 65 | [Wishful Thinking](https://open.spotify.com/track/1vJKO2Phq0XB5MoZ6iMx8x) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:40 |
 | 66 | [Upside Down \(feat\. Grouplove\)](https://open.spotify.com/track/64BbMZRSlJsWRMZAHKnf1u) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Fantasy](https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX) | 3:36 |
-| 67 | [Due West](https://open.spotify.com/track/1EvFahLuLZ0vSVZo8YR3G9) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 4:11 |
-| 68 | [Better](https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:50 |
+| 67 | [Better](https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:50 |
+| 68 | [Due West](https://open.spotify.com/track/1EvFahLuLZ0vSVZo8YR3G9) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5) | [Blood](https://open.spotify.com/album/6NLWgp3R9U9v8KMueE6i9C) | 4:11 |
 | 69 | [Hurts \(feat\. Louis The Child & Whethan\)](https://open.spotify.com/track/30Z12rJpW0M0u8HMFpigTB) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [Hurts \(feat\. Louis The Child & Whethan\)](https://open.spotify.com/album/3xte1n53BcjUBxr8BBHdHq) | 3:20 |
 | 70 | [I Want You](https://open.spotify.com/track/5mpibPxO6AWUhl2RiHpOGe) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Forever Neverland](https://open.spotify.com/album/52c2O1mvqnfAVjX9QNC5yd) | 3:16 |
 | 71 | [courage](https://open.spotify.com/track/72sQjWR565TtF4yIKnoZZe) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 3:29 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 92 | [Like I Do](https://open.spotify.com/track/1roF7kFDaf9dE1TWBpSzAD) | [Tracee Ellis Ross](https://open.spotify.com/artist/3e317QrU8NZcH2yKSckopt), [Kelvin Harrison Jr.](https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK) | [The High Note \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XdtJ70FW02NVQzCCDYeoB) | 2:54 |
 | 93 | [Pretty](https://open.spotify.com/track/4xkD4QOho9fKvCiIH5dUyu) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Stranger Songs](https://open.spotify.com/album/60cFgoDpP3PXeMDjWCGwz6) | 2:55 |
 | 94 | [Blame \- Tisoki Remix](https://open.spotify.com/track/7cVaF9J51UOzVIKzIdLqNn) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Blame \(Remixes\)](https://open.spotify.com/album/7kFXvC0W4AYlU0nWAKBCvM) | 3:12 |
-| 95 | [All The Way Up Here \- From “Star" Season 2](https://open.spotify.com/track/3yyIa8JkuWk42RIo6UE2qw) | [Star Cast](https://open.spotify.com/artist/6UKDgKJpv0MCwiQHbllkfR) | [All The Way Up Here \(From “Star" Season 2\)](https://open.spotify.com/album/0Y0Nev0MVEdA3ZajH7KjJf) | 2:46 |
-| 96 | [Therapy](https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Therapy](https://open.spotify.com/album/58SF72zVryflAg0WvepRzb) | 3:12 |
+| 95 | [Therapy](https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Therapy](https://open.spotify.com/album/58SF72zVryflAg0WvepRzb) | 3:12 |
+| 96 | [All The Way Up Here \- From “Star" Season 2](https://open.spotify.com/track/3yyIa8JkuWk42RIo6UE2qw) | [Star Cast](https://open.spotify.com/artist/6UKDgKJpv0MCwiQHbllkfR) | [All The Way Up Here \(From “Star" Season 2\)](https://open.spotify.com/album/0Y0Nev0MVEdA3ZajH7KjJf) | 2:46 |
 | 97 | [Personally](https://open.spotify.com/track/4OnSrRXUfzhD6jkaB9NWYF) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend \(Deluxe\)](https://open.spotify.com/album/3sG8tSb0NOMsn2nmf8v9KA) | 3:41 |
 | 98 | [My Kind Of Woman](https://open.spotify.com/track/4QKEdRuZXSSOIFslnWs0Zt) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [The Playlist EP](https://open.spotify.com/album/6t9XXMUjsFc5yuzbA8JfyK) | 3:49 |
 | 99 | [Takes Two](https://open.spotify.com/track/1qYasLtXkp2bXcxyGIxb53) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:33 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 117 | [Broken Home \- From "Empire: Season 6"](https://open.spotify.com/track/4dkn6avuOxa9hwnk9507KQ) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Alexandra Grey](https://open.spotify.com/artist/6VW8RmPy2TkeibNTFafG6n) | [Broken Home \(From "Empire: Season 6"\)](https://open.spotify.com/album/1pQ8f3ulVNTU3WZytYxMb6) | 3:20 |
 | 118 | [Trust Issues](https://open.spotify.com/track/1pF2jde5bhVXkDlWyl7N03) | [Aaron](https://open.spotify.com/artist/556QXf5aTw46XDZ9swLCYE) | [Trust Issues](https://open.spotify.com/album/0NU1WYWYXzGtC4SwkOsxD4) | 3:21 |
 
-Snapshot ID: `MjgwMzEwNDksMDAwMDAwMDBhOGM0MjM1MDYzZGI0NWFmYjMxY2UzYTM4NmFhYzJiNA==`
+Snapshot ID: `MjgwMzI0ODksMDAwMDAwMDBmODA5OWZmZDExZjljZmVjMzk0NTIwYjRjNGViMDUyNQ==`

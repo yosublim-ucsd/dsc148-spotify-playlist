@@ -436,7 +436,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 192000,
       "name": "Call On Me (feat. Georgia Ku)",
       "url": "https://open.spotify.com/track/3pBv3LfvfPft2TqHleqKHo"
@@ -876,6 +876,28 @@
       "duration_ms": 193543,
       "name": "Electric - Pokemon 25 Version",
       "url": "https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj"
+    },
+    {
+      "album": {
+        "name": "Esta Vida",
+        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209135,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
     },
     {
       "album": {

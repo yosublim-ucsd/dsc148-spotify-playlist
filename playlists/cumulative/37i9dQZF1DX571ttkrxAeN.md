@@ -4,7 +4,7 @@
 
 > Sit and sip a cup as you soak up some acoustic vibes from across the world\. Cover: Souad Massi.
 
-124 songs - 7 hr 20 min
+125 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,8 +72,9 @@
 | [La solitude](https://open.spotify.com/track/6ppIPH15vgdYSHnkLNZXZD) | [Caroline Savoie](https://open.spotify.com/artist/0XTtTfY9lTNs1wPgpICfBb) | [Pourchasser l'aube](https://open.spotify.com/album/33cGuxUBIJ3UA5zbDwEIFp) | 1:35 | 2020-05-03 | 2022-07-29 |
 | [Lei, Lui, Firenze](https://open.spotify.com/track/7CW5af6NMMuPVuNcWY1a9v) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Vol\. 2 \- Poveri Cristi](https://open.spotify.com/album/6o0SQJf2diRJ02V4Vx1lyh) | 4:20 | 2020-05-03 |  |
 | [Lei, lui, Firenze](https://open.spotify.com/track/0kzJFJECfl9zssMYCocW8X) | [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Brunori Sas Poveri Cristi, Vol\. 2](https://open.spotify.com/album/7J3rsjT9C4mU0A1A77AmEN) | 4:20 | 2020-05-03 | 2022-07-29 |
+| [Les ombres](https://open.spotify.com/track/0BV1LNlFvLmFD8xxUe6wny) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Innocent](https://open.spotify.com/album/6MlgqgEqC4tnexxyuGcmRK) | 3:49 | 2022-09-26 |  |
 | [Les ombres](https://open.spotify.com/track/2OpcFQiaSGYZN0Mov85T56) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Innocent \- Musique Originale du film](https://open.spotify.com/album/6PiK2uOiaeIiTFHXZywdCd) | 3:49 | 2020-05-03 | 2022-07-29 |
-| [Les ombres](https://open.spotify.com/track/7Dpg3EFj6JmLK0zym1n3ox) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Innocent](https://open.spotify.com/album/2pr0ED2cGHRLw4SuGemHt1) | 3:49 | 2020-05-03 |  |
+| [Les ombres](https://open.spotify.com/track/7Dpg3EFj6JmLK0zym1n3ox) | [Ian Kelly](https://open.spotify.com/artist/7ojsy2hVaM5udoJQEVVLow) | [Innocent](https://open.spotify.com/album/2pr0ED2cGHRLw4SuGemHt1) | 3:49 | 2020-05-03 | 2023-04-20 |
 | [Les épousailles](https://open.spotify.com/track/3YBtUOXgW8FwxkAzphFAzx) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Petite plage](https://open.spotify.com/album/2YH5Fvzzf55VORIDHcTqmc) | 2:38 | 2020-05-03 | 2022-07-29 |
 | [Les épousailles](https://open.spotify.com/track/6t5R6YTK8d6n7wxjZI3JLp) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Petite plage](https://open.spotify.com/album/6GjRQbVrTgjbdNlSs7Plor) | 2:38 | 2020-05-03 |  |
 | [Luna Llena](https://open.spotify.com/track/0TWly1kFjXtCFSy85IICRO) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Ciclo](https://open.spotify.com/album/0PdHrBTszQMv7M2nqhMy6z) | 3:07 | 2020-05-03 | 2022-07-29 |

@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: DIDIxDADA
+> เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PiXXiE
 
-322 songs - 19 hr 27 min
+323 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [งอนละ \- Boo](https://open.spotify.com/track/5zFjMw9tOpbhlZWVCDalJA) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:41 | 2022-11-17 |  |
 | [จะถ่ายรูปเธอให้ถึงสัก 1000 ใบ](https://open.spotify.com/track/1iO8Gwn33kImgOeDpFXTD5) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [จะถ่ายรูปเธอให้ถึงสัก 1000 ใบ](https://open.spotify.com/album/7qbW3ywq8vR5IhhsNMJ09F) | 3:17 | 2022-06-16 | 2022-07-02 |
 | [จังหวะตกหลุมรัก \- Magic Moment](https://open.spotify.com/track/7KmY6wBpheP60rFEJPJBqN) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [จังหวะตกหลุมรัก \(Magic Moment\)](https://open.spotify.com/album/3HQlEa7YeAL1idA9iFHEYx) | 3:08 | 2023-04-10 |  |
-| [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I) | 3:02 | 2022-05-26 |  |
+| [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I) | 3:02 | 2022-05-26 | 2023-04-20 |
 | [จาดาดา \(JADADA\)](https://open.spotify.com/track/0KnqCih8gZebEwtXfAxu4A) | [BIZCUITBEER](https://open.spotify.com/artist/6LbLXtLErcsT15O3dEqPyM) | [จาดาดา \(JADADA\)](https://open.spotify.com/album/3a28ry6dCtibdepifhAodi) | 2:48 | 2022-08-11 | 2022-08-19 |
 | [จำเก่ง \(Slipped Your Mind\)](https://open.spotify.com/track/1iK2nyld8wTLJv2dRIowSY) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH) | [จำเก่ง \(Slipped Your Mind\)](https://open.spotify.com/album/2BKeUulZXv8hntkksz0V0w) | 3:40 | 2022-05-26 | 2022-08-26 |
 | [จำเลยรัก \- Defendant Of Love](https://open.spotify.com/track/0AGhwXsWpVOwjHY5yf4dtD) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Txrbo](https://open.spotify.com/artist/45pQix6T07syL9LwzOoRNg) | [จำเลยรัก \(Defendant Of Love\)](https://open.spotify.com/album/2p0R4ghsLELqioczIewTFH) | 4:24 | 2022-05-26 | 2022-07-24 |
@@ -117,6 +117,7 @@
 | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j) | 3:42 | 2022-07-22 |  |
 | [ชอบป่ะเนี่ย \(Can I Call You Mine\)](https://open.spotify.com/track/742XEz0qAabkTmEVdMzqKb) | [Mai Davika](https://open.spotify.com/artist/0XZFmjFo1arDluB0KncejC) | [ชอบป่ะเนี่ย \(Can I Call You Mine\)](https://open.spotify.com/album/2LrGMUuGqI7ceHkBsDs0GF) | 3:12 | 2022-10-26 | 2023-02-14 |
 | [ชอบป้ะ \(U like it?\)](https://open.spotify.com/track/7yXuMQovK5W52TiPFEKWqy) | [Bean Napason](https://open.spotify.com/artist/3JP38d8r7r0trtBel5H7nu) | [ชอบป้ะ \(U like it?\)](https://open.spotify.com/album/0JUFTGeAGPVoEFzNIzs04Z) | 3:16 | 2022-12-01 | 2023-01-10 |
+| [ชอบอยู่ รู้ยัง \(FYI\)](https://open.spotify.com/track/7tRUgI2s5RRJrUYsqCg4FN) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [ชอบอยู่ รู้ยัง \(FYI\)](https://open.spotify.com/album/5FrFp41GTSuc0q4m63bTPO) | 3:05 | 2023-04-19 |  |
 | [ชอบอยู่คนเดียว](https://open.spotify.com/track/3LzQ0QF4Ud7CyAIWdFxUHl) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [ชอบอยู่คนเดียว](https://open.spotify.com/album/1PXCXG0vrdGwIbykWKt9eB) | 2:59 | 2022-09-29 |  |
 | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/track/4vfWaUic7KKrOUR7kWy6RO) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/album/38OWVUcsVAJjPXUdgGUpNd) | 3:25 | 2023-02-23 |  |
 | [ช็อตฟีลแรงไปไหม \(Buzzkill\) Feat\. F.HERO](https://open.spotify.com/track/7AeeKbEm1ghtkccxQKyWzR) | [PentorJrp](https://open.spotify.com/artist/0bHXI9cKfwXRzk9acBffsh) | [ช็อตฟีลแรงไปไหม \(Buzzkill\) Feat\. F.HERO](https://open.spotify.com/album/74nX4wALX9YI5du7NJPP5t) | 3:29 | 2023-03-31 | 2023-04-13 |

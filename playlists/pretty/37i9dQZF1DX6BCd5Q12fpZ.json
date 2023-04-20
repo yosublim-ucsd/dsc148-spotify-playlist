@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 60775,
+  "num_followers": 60792,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMGM4ZDVhMDMyZjMwZWE3MWIzZDNjOThmZTFlNDY5ODE1",
+  "snapshot_id": "MTY1MjcwNzI2OCwwMDAwMDAwMDJjYTZiYWUyNDQyZjY3MDE4MDI0MzVjOTRmZDc2NWI0",
   "tracks": [
     {
       "added_at": "2022-05-16 13:21:08",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "The New Seekers",
-        "url": "https://open.spotify.com/album/0439cWYJRibTFks4Re28ES"
-      },
-      "artists": [
-        {
-          "name": "The New Seekers",
-          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "Beg, Steal Or Borrow",
-      "url": "https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
         "name": "A Million Voices",
         "url": "https://open.spotify.com/album/43rQvK1t3lUDzNhXRLE6bQ"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 192992,
       "name": "Rockefeller Street",
       "url": "https://open.spotify.com/track/4rvFyA7h88s8DehCOjqW9K"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "The New Seekers",
+        "url": "https://open.spotify.com/album/0439cWYJRibTFks4Re28ES"
+      },
+      "artists": [
+        {
+          "name": "The New Seekers",
+          "url": "https://open.spotify.com/artist/4jrTNltJtTMUfXybDdsHDn"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "Beg, Steal Or Borrow",
+      "url": "https://open.spotify.com/track/5qyE3nSkh3KRfLzISfXYDc"
     },
     {
       "added_at": "2022-05-16 13:21:08",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-05-16 13:21:08",
       "album": {
-        "name": "Sahara Euro Edition",
-        "url": "https://open.spotify.com/album/6UcCRtBatKSwIjPX9Xqcqk"
-      },
-      "artists": [
-        {
-          "name": "Sarbel",
-          "url": "https://open.spotify.com/artist/50NpTshkrtjVH2ukLXMbjI"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "Yassou Maria",
-      "url": "https://open.spotify.com/track/1t2zJs2ukKjrVNGQgot9bk"
-    },
-    {
-      "added_at": "2022-05-16 13:21:08",
-      "album": {
         "name": "This Gig Almost Got Me Killed",
         "url": "https://open.spotify.com/album/2iOWFL3Nvw6HEhXfSxFe2K"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 182950,
       "name": "Playing with Fire",
       "url": "https://open.spotify.com/track/0m3mkj4WTHkfrmHB6toUIK"
+    },
+    {
+      "added_at": "2022-05-16 13:21:08",
+      "album": {
+        "name": "Sahara Euro Edition",
+        "url": "https://open.spotify.com/album/6UcCRtBatKSwIjPX9Xqcqk"
+      },
+      "artists": [
+        {
+          "name": "Sarbel",
+          "url": "https://open.spotify.com/artist/50NpTshkrtjVH2ukLXMbjI"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "Yassou Maria",
+      "url": "https://open.spotify.com/track/1t2zJs2ukKjrVNGQgot9bk"
     },
     {
       "added_at": "2022-05-16 13:21:08",

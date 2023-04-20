@@ -1,12 +1,12 @@
 {
   "description": "Soul for the blues. Cover: Otis Redding.",
-  "num_followers": 122433,
+  "num_followers": 122705,
   "original_name": "Sad Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MjY0OTA4NCwwMDAwMDAwMGE4ZjdiMGJhY2YyNWNmZjNiYTAwYjQxOTk5MzNlOTNj",
+  "snapshot_id": "MTY2MjY0OTA4NCwwMDAwMDAwMGEwYWJjMDVjNWI2MjcwMTNhOTU3ZTRkYTMwODgxMmI3",
   "tracks": [
     {
       "added_at": "2021-11-11 14:02:18",
@@ -233,22 +233,6 @@
       "url": "https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ"
     },
     {
-      "added_at": "2022-09-08 14:58:04",
-      "album": {
-        "name": "Make Way for Dionne Warwick",
-        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 178333,
-      "name": "Walk on By",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
-    },
-    {
       "added_at": "2021-11-11 14:02:18",
       "album": {
         "name": "Pain in My Heart",
@@ -263,6 +247,22 @@
       "duration_ms": 154533,
       "name": "These Arms of Mine",
       "url": "https://open.spotify.com/track/4skknrc3sJqaPTtUr2cwFq"
+    },
+    {
+      "added_at": "2022-09-08 14:58:04",
+      "album": {
+        "name": "Make Way for Dionne Warwick",
+        "url": "https://open.spotify.com/album/6edKvdyBPyTPPWCOcTdrhr"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 178333,
+      "name": "Walk on By",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm"
     },
     {
       "added_at": "2021-11-11 14:02:18",

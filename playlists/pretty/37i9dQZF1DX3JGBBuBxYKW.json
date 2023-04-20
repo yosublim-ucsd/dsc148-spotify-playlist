@@ -1,12 +1,12 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 81022,
+  "num_followers": 81057,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc0MjMwNiwwMDAwMDAwMDBkZGY3M2Y3NDRiNzNjNDQzZWEyZTBkMWU5YmJiNWZl",
+  "snapshot_id": "MTY4MDc0MjMwNiwwMDAwMDAwMDc2OThlYWY4NTQzYjRjNWRjYTk2NGJlYzhmYzlhZGUw",
   "tracks": [
     {
       "added_at": "2023-04-06 00:51:46",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
+        "name": "Amandititita",
+        "url": "https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7"
+      },
+      "artists": [
+        {
+          "name": "Amandititita",
+          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "Metrosexual",
+      "url": "https://open.spotify.com/track/2e8qbKV6pRQ9MYrXDMkjIb"
+    },
+    {
+      "added_at": "2023-04-06 00:51:46",
+      "album": {
         "name": "Miau",
         "url": "https://open.spotify.com/album/5cYwo4qHagCDmawKmY12PY"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 222013,
       "name": "Bien Warrior (feat. DJ Krass)",
       "url": "https://open.spotify.com/track/5n1NGn7RHU30QxQHk0onlZ"
-    },
-    {
-      "added_at": "2023-04-06 00:51:46",
-      "album": {
-        "name": "Amandititita",
-        "url": "https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7"
-      },
-      "artists": [
-        {
-          "name": "Amandititita",
-          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "Metrosexual",
-      "url": "https://open.spotify.com/track/2e8qbKV6pRQ9MYrXDMkjIb"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
+        "name": "Amandititita",
+        "url": "https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7"
+      },
+      "artists": [
+        {
+          "name": "Amandititita",
+          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
+        }
+      ],
+      "duration_ms": 198413,
+      "name": "La Muy Muy - (Album Version)",
+      "url": "https://open.spotify.com/track/02wZwpZW6ADtmLAMQomvkc"
+    },
+    {
+      "added_at": "2023-04-06 00:51:46",
+      "album": {
         "name": "Pirata",
         "url": "https://open.spotify.com/album/5kj35KucMb9m2IENpIWA9c"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 170192,
       "name": "Pirata",
       "url": "https://open.spotify.com/track/3fSpafFrh7GM2x7X8MjfGb"
-    },
-    {
-      "added_at": "2023-04-06 00:51:46",
-      "album": {
-        "name": "La Chismeadera",
-        "url": "https://open.spotify.com/album/5FdBKEn8oKz2ujvM7xmAZ2"
-      },
-      "artists": [
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
-        }
-      ],
-      "duration_ms": 219282,
-      "name": "La Chismeadera",
-      "url": "https://open.spotify.com/track/7EVWdNSgdItB2rvXAf1kHU"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
-        "name": "Amandititita",
-        "url": "https://open.spotify.com/album/4Mbw7O6bCUvcdBrBSd2vy7"
+        "name": "La Chismeadera",
+        "url": "https://open.spotify.com/album/5FdBKEn8oKz2ujvM7xmAZ2"
       },
       "artists": [
         {
-          "name": "Amandititita",
-          "url": "https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv"
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
         }
       ],
-      "duration_ms": 198413,
-      "name": "La Muy Muy - (Album Version)",
-      "url": "https://open.spotify.com/track/02wZwpZW6ADtmLAMQomvkc"
+      "duration_ms": 219282,
+      "name": "La Chismeadera",
+      "url": "https://open.spotify.com/track/7EVWdNSgdItB2rvXAf1kHU"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -863,22 +863,6 @@
       "duration_ms": 181333,
       "name": "Poco Asado, Mucho Humo",
       "url": "https://open.spotify.com/track/4KzcvEv1UFjbXDK9XADoN4"
-    },
-    {
-      "added_at": "2023-04-06 00:51:46",
-      "album": {
-        "name": "Noche Fant\u00e1stica",
-        "url": "https://open.spotify.com/album/46aiwDetBeomB5cBmuC0Qj"
-      },
-      "artists": [
-        {
-          "name": "Lia Crucet",
-          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "En tu pelo",
-      "url": "https://open.spotify.com/track/5LhnavryqjYomWrEzfjB8G"
     },
     {
       "added_at": "2023-04-06 00:51:46",
@@ -903,6 +887,22 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
+        "name": "Noche Fant\u00e1stica",
+        "url": "https://open.spotify.com/album/46aiwDetBeomB5cBmuC0Qj"
+      },
+      "artists": [
+        {
+          "name": "Lia Crucet",
+          "url": "https://open.spotify.com/artist/1wsio1S9CIIbEuGSYkSAyQ"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "En tu pelo",
+      "url": "https://open.spotify.com/track/5LhnavryqjYomWrEzfjB8G"
+    },
+    {
+      "added_at": "2023-04-06 00:51:46",
+      "album": {
         "name": "Si hay alguien en tu vida",
         "url": "https://open.spotify.com/album/4UUIaLkoQJhxvpWuSH9tGs"
       },
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-04-06 00:51:46",
       "album": {
-        "name": "Ya No Cabes en Mi Vida",
-        "url": "https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf"
-      },
-      "artists": [
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
-        }
-      ],
-      "duration_ms": 211489,
-      "name": "Ya No Cabes en Mi Vida",
-      "url": "https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf"
-    },
-    {
-      "added_at": "2023-04-06 00:51:46",
-      "album": {
         "name": "Amor de Cuarentena (Urbano)",
         "url": "https://open.spotify.com/album/7oiQXn5G0q5kapu7i62Sn5"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 194374,
       "name": "Amor de Cuarentena - Urbano",
       "url": "https://open.spotify.com/track/7N3XvjdeJ9cz9frgQA0gQ4"
+    },
+    {
+      "added_at": "2023-04-06 00:51:46",
+      "album": {
+        "name": "Ya No Cabes en Mi Vida",
+        "url": "https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf"
+      },
+      "artists": [
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        }
+      ],
+      "duration_ms": 211489,
+      "name": "Ya No Cabes en Mi Vida",
+      "url": "https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf"
     },
     {
       "added_at": "2023-04-06 00:51:46",

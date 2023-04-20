@@ -4,7 +4,7 @@
 
 > Groovy, dancy, funky stuff.
 
-401 songs - 23 hr 54 min
+402 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Dopamine](https://open.spotify.com/track/4sFyLyuJOUVMDcaSg1oHEa) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Dance Moves](https://open.spotify.com/album/5478vb7E5nJWOXs9JcAxRt) | 4:03 | 2022-05-31 | 2022-07-29 |
 | [Doses & Mimosas](https://open.spotify.com/track/152ANCuCtaK7mkhyFubrRG) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Year of the Caprese](https://open.spotify.com/album/36ypuZEeHzKt3jm4gh6J4Q) | 5:23 | 2020-12-31 | 2022-07-29 |
 | [Doses & Mimosas](https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN) | [Cherub](https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz) | [Year of the Caprese](https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas) | 5:23 | 2021-06-17 | 2022-08-12 |
+| [Down The Road](https://open.spotify.com/track/1x5MjCffpcdHLf65eR9r3T) | [C2C](https://open.spotify.com/artist/28INUgyzTTRbvSphrJbgZ2) | [Tetra](https://open.spotify.com/album/61XR1JvHsYvYxEj595VeLt) | 3:27 | 2023-04-19 |  |
 | [Dragonball Durag](https://open.spotify.com/track/7eWGnKg4B44sbBPpQp4y2c) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:01 | 2020-12-31 |  |
 | [Drive and Disconnect](https://open.spotify.com/track/6pEAd0UjznaKABT7WLLvmC) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Saturn](https://open.spotify.com/album/5rojZ5uUIKKkfNsFT92Vld) | 3:30 | 2022-05-31 |  |
 | [Dumb Love](https://open.spotify.com/track/2Al2n6ziP5XjIMZEL4laQj) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Dumb Love](https://open.spotify.com/album/6cJ55YHXdJ5RHeRQNjXFLO) | 4:42 | 2023-03-17 |  |
@@ -406,7 +407,7 @@
 | [Yellow Hearts](https://open.spotify.com/track/2W4yABdLc4Jnds67Poi5Nl) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [Yellow Hearts](https://open.spotify.com/album/7L5mva8yC5ctamvs4XzgpR) | 3:43 | 2022-07-22 | 2022-08-12 |
 | [Yo Perreo Sola](https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:52 | 2020-12-31 | 2022-04-19 |
 | [Yonkers](https://open.spotify.com/track/1zsAAnB6dMpGOvXjoYP9Um) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Goblin](https://open.spotify.com/album/40ucxnGO51wcTGNI6xge6z) | 4:09 | 2020-12-31 | 2022-04-21 |
-| [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Hermanu](https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl) | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE) | 3:57 | 2021-11-12 |  |
+| [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/track/5T3yTmOJ1hJxnH8boXgm3l) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Hermanu](https://open.spotify.com/artist/5PfUOQmXofIbEMDTFg1FVl) | [YoSoyMatt \(feat\. Hermanu\)](https://open.spotify.com/album/6hLIAEBdWIqUcERETkJZHE) | 3:57 | 2021-11-12 | 2023-04-20 |
 | [YOU'RE THE ONE](https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:47 | 2022-05-31 |  |
 | [Young Hearts](https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk) | 2:39 | 2023-01-12 | 2023-03-31 |
 

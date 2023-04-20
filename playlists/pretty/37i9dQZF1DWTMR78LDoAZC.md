@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Left of center indie/alternative LGBTQIA+ artists\. Cover: Miya Folick
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,365 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,551 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 27 | [Walking with a Ghost](https://open.spotify.com/track/7ImkjvM1OKWhJ5HIPOHcHE) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 2:30 |
 | 28 | [Savage Good Boy](https://open.spotify.com/track/0EredcGoVUJTRiBLmwI0AO) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 2:26 |
 | 29 | [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 |
-| 30 | [Got Weird](https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Got Weird](https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om) | 3:22 |
-| 31 | [Vacation](https://open.spotify.com/track/7fQmffdxTktq0sJFvRUcwE) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Holdly](https://open.spotify.com/album/6F4S4TL7KECkwJkMD9ziCW) | 3:47 |
+| 30 | [Vacation](https://open.spotify.com/track/7fQmffdxTktq0sJFvRUcwE) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Holdly](https://open.spotify.com/album/6F4S4TL7KECkwJkMD9ziCW) | 3:47 |
+| 31 | [Got Weird](https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Got Weird](https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om) | 3:22 |
 | 32 | [Maybe You're the Reason](https://open.spotify.com/track/5Po5YmT4RhawSeqNXx5m0o) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 3:38 |
 | 33 | [Tilted](https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine and the Queens](https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO) | 3:53 |
 | 34 | [Lifetime](https://open.spotify.com/track/023GoM1byudLGkMZDLweRJ) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Lifetime](https://open.spotify.com/album/3hD7HAJtGLF5BYDriRwbkZ) | 3:17 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 61 | [Cinnamon](https://open.spotify.com/track/1W9lPqClDs0J5ZCCUFjy5K) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Dry Food](https://open.spotify.com/album/4rWLFXifUm2KAo2vDHSG2v) | 3:34 |
 | 62 | [Madonna](https://open.spotify.com/track/0ocqOdnVSxojdhFEodwjl0) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Valentine](https://open.spotify.com/album/0zNWhYDalgisc4uweLIGZJ) | 2:53 |
 | 63 | [The Melting Of The Sun](https://open.spotify.com/track/3WD3w5uSzAGJWrNFnHhi1a) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Daddy's Home](https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM) | 4:17 |
-| 64 | [Self Love](https://open.spotify.com/track/2MBVnShnrBNvjdtMBCWkbp) | [Emily Vu](https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS) | [Found](https://open.spotify.com/album/5CMCYw32tcYsqrPZnCypHx) | 2:24 |
-| 65 | [Mad](https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Mad](https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa) | 3:48 |
+| 64 | [Mad](https://open.spotify.com/track/49U0v3W8dVb48l1Dd2DtyG) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Mad](https://open.spotify.com/album/268yQJnYEw2Zdu8ZPwyifa) | 3:48 |
+| 65 | [Self Love](https://open.spotify.com/track/2MBVnShnrBNvjdtMBCWkbp) | [Emily Vu](https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS) | [Found](https://open.spotify.com/album/5CMCYw32tcYsqrPZnCypHx) | 2:24 |
 | 66 | [Jason](https://open.spotify.com/track/34B5INdEjbTXvNkCC5GtYz) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Set My Heart On Fire Immediately](https://open.spotify.com/album/5qWrp5RcqjxB8ak7dtK6Iv) | 3:05 |
 | 67 | [Chosen Family \(with Elton John\)](https://open.spotify.com/track/02XbzKFSMItMn60v2MmChs) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Chosen Family \(with Elton John\)](https://open.spotify.com/album/7iV4NiIjNFK2QvamKHGU8i) | 4:39 |
 | 68 | [Fellowship](https://open.spotify.com/track/1gVB71qZLk0eGwZGaVIUcM) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 74 | [Ophelia](https://open.spotify.com/track/3v87pWnjTC90f3yj9OKqYP) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [We Slept at Last](https://open.spotify.com/album/7bGKJT7GMChX7lM3txM9Iz) | 3:33 |
 | 75 | [California Girl](https://open.spotify.com/track/0nQih7s8hEqAeQQZb44M24) | [Lo Knowles](https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ) | [California Girl](https://open.spotify.com/album/6JI9ahGVM3OofcDbQjhkSl) | 3:57 |
 
-Snapshot ID: `MTY3ODIxNzM4MSwwMDAwMDAwMDkyNjVmNGY0YjM5NTk2MzgzNjY4NWJjNjhlYjJhMjJi`
+Snapshot ID: `MTY3ODIxNzM4MSwwMDAwMDAwMDVjZTg1OWRhYmZmMjE1NWUzZGExN2Q4ZDgwMDdkNGQy`

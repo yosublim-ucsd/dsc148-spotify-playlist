@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Ultimate 101 Punjabi Hits with Diljit Dosanjh & Gurdas Maan ",
+  "description": "Ultimate 101 Punjabi Hits with Sidhu Moose Wala",
   "name": "Punjabi 101",
   "tracks": [
     {
@@ -905,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Do You Know",
+        "url": "https://open.spotify.com/album/0VL0XINwpFeZZZthg65ASA"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211764,
+      "name": "Do You Know",
+      "url": "https://open.spotify.com/track/1aHRhPwlNTNdMsDcYicxb6"
+    },
+    {
+      "album": {
         "name": "Dream",
         "url": "https://open.spotify.com/album/7FHStROpaJ7y8BkoeGqb2n"
       },
@@ -1720,7 +1738,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 160000,
       "name": "Jatt Tere Shehar",
       "url": "https://open.spotify.com/track/5IXig53kmeAlfIf4BzYiWp"
@@ -2094,7 +2112,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 153944,
       "name": "Maan Punjabi - Spotify Singles",
       "url": "https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C"
@@ -2442,6 +2460,24 @@
       "duration_ms": 215723,
       "name": "Navi Navi Yaari",
       "url": "https://open.spotify.com/track/39pjjDG9o44eDjkM4BPdiG"
+    },
+    {
+      "album": {
+        "name": "Night Out",
+        "url": "https://open.spotify.com/album/5e4ruihGyeoAFtNzPA9Y1W"
+      },
+      "artists": [
+        {
+          "name": "Arjan Dhillon",
+          "url": "https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187563,
+      "name": "Night Out",
+      "url": "https://open.spotify.com/track/5sGk41Let4ruIs6WkyarR7"
     },
     {
       "album": {

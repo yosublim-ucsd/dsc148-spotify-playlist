@@ -1,12 +1,12 @@
 {
   "description": "Mejor seguimos cantando, como cantaba el abuelo. \u00a1Garganta pa' que te quiero, si no pa' cantarle al pueblo!",
-  "num_followers": 76318,
+  "num_followers": 76324,
   "original_name": "La Dinast\u00eda de... Los Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ5MjIyOSwwMDAwMDAwMDdlMDYyNmU4MWY3YTZiZmFiMWUxNTUwYjk1YWIxNWYw",
+  "snapshot_id": "MTY1ODQ5MjIyOSwwMDAwMDAwMGJmZDI1YmEwODFjMjFlOGZlNDMwZDJlNDJjYTZiNWFm",
   "tracks": [
     {
       "added_at": "2021-12-14 16:21:13",
@@ -679,22 +679,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "De Noche - Clasicos A Mi Manera",
-        "url": "https://open.spotify.com/album/7A8jjPIYtiY0ZXhzmd9Oms"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 198480,
-      "name": "No",
-      "url": "https://open.spotify.com/track/5EIGTiQSk0WCwwBvvbciJT"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "Un Mexicano en la M\u00e9xico",
         "url": "https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 154733,
       "name": "Ella",
       "url": "https://open.spotify.com/track/4pZBAD4pdv4A5WqjsYGiJk"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "De Noche - Clasicos A Mi Manera",
+        "url": "https://open.spotify.com/album/7A8jjPIYtiY0ZXhzmd9Oms"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 198480,
+      "name": "No",
+      "url": "https://open.spotify.com/track/5EIGTiQSk0WCwwBvvbciJT"
     },
     {
       "added_at": "2021-12-14 16:21:13",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2021-12-14 16:21:13",
       "album": {
-        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Que Seas Muy Feliz",
-      "url": "https://open.spotify.com/track/0Zyy54PmcZ2wUUhtDLaKkJ"
-    },
-    {
-      "added_at": "2021-12-14 16:21:13",
-      "album": {
         "name": "Hecho En M\u00e9xico",
         "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 228106,
       "name": "Mudanza A La Luna",
       "url": "https://open.spotify.com/track/5QtzrMvhtEUQzCkehNQqdh"
+    },
+    {
+      "added_at": "2021-12-14 16:21:13",
+      "album": {
+        "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/03RyWnTLH0JFemkDOp0nGi"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Que Seas Muy Feliz",
+      "url": "https://open.spotify.com/track/0Zyy54PmcZ2wUUhtDLaKkJ"
     },
     {
       "added_at": "2021-12-14 16:21:13",

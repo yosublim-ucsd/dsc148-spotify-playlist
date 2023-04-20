@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,118 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,103 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 55 | [We Wish You A Merry Christmas](https://open.spotify.com/track/24qIDUtuHes8hTXrs13HR6) | [Little Tree Trio](https://open.spotify.com/artist/307akv5BTJh4p9auz0sc0F) | [Merry Christmas](https://open.spotify.com/album/3mhiSS0lSViQWiEpV3rsuY) | 2:33 |
 | 56 | [Christmas Island](https://open.spotify.com/track/4cy0jYlAbtgBmOq05AzDt3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Wishes You A Swinging Christmas \(Expanded Edition\)](https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb) | 2:17 |
 | 57 | [It's Christmas in New York](https://open.spotify.com/track/4kfVEaZGZL3AcrcAvsyYNf) | [Roddy Doyle Trio](https://open.spotify.com/artist/2NpfQuA1kHiGx9LHgDx4p3) | [It's Christmas in New York](https://open.spotify.com/album/2DmDhBWAZQXULbEPjCtUKI) | 4:43 |
-| 58 | [Oh Christmas Tree](https://open.spotify.com/track/4RWrGsl1Thdb3dMFxu69ZT) | [Tiny Stills Quartet](https://open.spotify.com/artist/5YxesetSDEooEMdNHKKDFk) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/05PvwbGSgcL5vwB7vOkYVd) | 1:49 |
-| 59 | [Snow](https://open.spotify.com/track/3XTSSKo4x9g2Q3K3UyUOui) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc), [Danny Kaye](https://open.spotify.com/artist/4r6DXcqtllstKwEx3ndKMj), [Trudy Stevens](https://open.spotify.com/artist/6Z83RqW2D8bbsxvzhiIcUX) | [Selections From Irving Berlin's White Christmas](https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl) | 2:43 |
+| 58 | [Snow](https://open.spotify.com/track/3XTSSKo4x9g2Q3K3UyUOui) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc), [Danny Kaye](https://open.spotify.com/artist/4r6DXcqtllstKwEx3ndKMj), [Trudy Stevens](https://open.spotify.com/artist/6Z83RqW2D8bbsxvzhiIcUX) | [Selections From Irving Berlin's White Christmas](https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl) | 2:43 |
+| 59 | [Oh Christmas Tree](https://open.spotify.com/track/4RWrGsl1Thdb3dMFxu69ZT) | [Tiny Stills Quartet](https://open.spotify.com/artist/5YxesetSDEooEMdNHKKDFk) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/05PvwbGSgcL5vwB7vOkYVd) | 1:49 |
 | 60 | [Christmas Don't Be Late](https://open.spotify.com/track/2SzvA3lgJYR7JUOkjAnX6y) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [I Dream Of Christmas](https://open.spotify.com/album/60SJnVimx7BPaZz2nec9vO) | 2:40 |
 | 61 | [O Come, O Come Emmanuel](https://open.spotify.com/track/0GlynfYCzLa4rjZqbJcVyS) | [N.B.H\-Trio](https://open.spotify.com/artist/5oooIIdGmAuNyfQiWehfmX) | [O Come, O Come Emmanuel](https://open.spotify.com/album/3JnBzkJI52l6jJkAX84pVV) | 4:10 |
 | 62 | [Up on the Housetop](https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Christmas Time](https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt) | 1:13 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 82 | [Sleigh Ride](https://open.spotify.com/track/3DnYHzeul8cWJDEuTFd79H) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When My Heart Finds Christmas](https://open.spotify.com/album/1It3aEvCmT8UvUMmBm5DIV) | 3:40 |
 | 83 | [Let It Snow](https://open.spotify.com/track/6pctt0uFOGc7NxJvzwIv1x) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk) | 3:40 |
 | 84 | [Dear Mister Santa Claus](https://open.spotify.com/track/4DKezb77R3VcocSnYNmkHV) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Here's Love](https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ) | 3:55 |
-| 85 | [Ding Dong Merrily on High](https://open.spotify.com/track/6VDBfaCHIhpfimcbddmXW9) | [Meadowpoint](https://open.spotify.com/artist/6Gp872kCfOLVTHHGbqyl21) | [White Nights](https://open.spotify.com/album/6ppP6BcZKYQxaU9GKIqYst) | 2:25 |
-| 86 | [I'd Like To Hitch A Ride With Santa Claus](https://open.spotify.com/track/4vWGn9T8UorlRuj2wtchId) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Christmas With The Andrews Sisters](https://open.spotify.com/album/2IeWzBugeoy6fQRPHAJGqo) | 3:00 |
+| 85 | [I'd Like To Hitch A Ride With Santa Claus](https://open.spotify.com/track/4vWGn9T8UorlRuj2wtchId) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Christmas With The Andrews Sisters](https://open.spotify.com/album/2IeWzBugeoy6fQRPHAJGqo) | 3:00 |
+| 86 | [Ding Dong Merrily on High](https://open.spotify.com/track/6VDBfaCHIhpfimcbddmXW9) | [Meadowpoint](https://open.spotify.com/artist/6Gp872kCfOLVTHHGbqyl21) | [White Nights](https://open.spotify.com/album/6ppP6BcZKYQxaU9GKIqYst) | 2:25 |
 | 87 | [The Little Drummer Boy](https://open.spotify.com/track/7vZXx451PBO88CM7e3oSOL) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Fred Waring & The Pennsylvanians](https://open.spotify.com/artist/6kgYj0BHuAkQkZVkxYFCVC) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 3:05 |
 | 88 | [Christmas Children](https://open.spotify.com/track/04StngW1Y0GV26sKl59WiW) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [The Beautiful Day](https://open.spotify.com/album/3kGxAL9kbsUAkqY9S9mRzI) | 4:32 |
 | 89 | [That's What I Want For Christmas \- Remastered 1992](https://open.spotify.com/track/2SGWl7dI4dFSpHad6o95pm) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [Christmas Jazz](https://open.spotify.com/album/6Kwbqxv0h4YLHhLcU34GFC) | 2:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 99 | [Christmas Time Is Here](https://open.spotify.com/track/1f9WJ3jehvcxTK5OTTYiOO) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:34 |
 | 100 | [Baby It's Cold Outside](https://open.spotify.com/track/7m7tdsmeN4M0rZXJR4PHN7) | [Matt Belsante](https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz) | [White Christmas](https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30) | 4:26 |
 
-Snapshot ID: `MTY3MjczMjI0NiwwMDAwMDAwMDg4OWEzYzBmZjQ2ZjdmNGU1NzIwMzJmZjY2MzU4MTIw`
+Snapshot ID: `MTY3MjczMjI0NiwwMDAwMDAwMDM4NWMzMzdiZjA0MGU1OWRhZWE2MmY1ZDRhMzMyZmI5`

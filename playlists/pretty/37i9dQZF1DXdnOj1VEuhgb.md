@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: BLOK3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,213,956 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,214,649 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 2 | [YAKALARSAN](https://open.spotify.com/track/7gJqhu7UvkJvpEGBntRmJx) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [YAKALARSAN](https://open.spotify.com/album/5dDBLvXR3Rw6IvOMOIYKmP) | 1:56 |
 | 3 | [GANG](https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [GANG](https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR) | 3:10 |
 | 4 | [MERVE \- Masada Chivas](https://open.spotify.com/track/3x8hqraew3LLsZENdhGv3P) | [B4TU INC.](https://open.spotify.com/artist/0JVl2O7TNYlEc6Lc2jHW3o) | [MERVE \(Masada Chivas\)](https://open.spotify.com/album/7Jo5ql6vYAeGbWtPphIk2U) | 2:39 |
-| 5 | [GAZ PEDAL](https://open.spotify.com/track/0TbeXCwQz1oSK5eZVLnEIn) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [GAZ PEDAL](https://open.spotify.com/album/71HKIz40EJPU0BKrCtO0rg) | 2:25 |
-| 6 | [TALIBANA](https://open.spotify.com/track/3HoHBzUrwYNbzXGKfHIRAT) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [TALIBANA](https://open.spotify.com/album/7ERpHQRQcxP7UU6S5edJAX) | 2:38 |
-| 7 | [ANLARSIN](https://open.spotify.com/track/7422iH48oKjQzRNC8khQnK) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [ANLARSIN](https://open.spotify.com/album/1u95gvoiah3kNlf4s2sBjZ) | 2:58 |
-| 8 | [Montana](https://open.spotify.com/track/0cytdXOPml6Qn0Auyqf6sE) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Montana](https://open.spotify.com/album/2ZEVATZIJP58cLqAGsDaBy) | 2:30 |
-| 9 | [İntikam](https://open.spotify.com/track/3bzRdp5Q2GpwCqTSZsouqP) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [İntikam](https://open.spotify.com/album/2ha9lxn6XE1KFrp8jSuC1p) | 2:36 |
+| 5 | [TALIBANA](https://open.spotify.com/track/3HoHBzUrwYNbzXGKfHIRAT) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [TALIBANA](https://open.spotify.com/album/7ERpHQRQcxP7UU6S5edJAX) | 2:38 |
+| 6 | [ANLARSIN](https://open.spotify.com/track/7422iH48oKjQzRNC8khQnK) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [ANLARSIN](https://open.spotify.com/album/1u95gvoiah3kNlf4s2sBjZ) | 2:58 |
+| 7 | [Montana](https://open.spotify.com/track/0cytdXOPml6Qn0Auyqf6sE) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Montana](https://open.spotify.com/album/2ZEVATZIJP58cLqAGsDaBy) | 2:30 |
+| 8 | [İntikam](https://open.spotify.com/track/3bzRdp5Q2GpwCqTSZsouqP) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [İntikam](https://open.spotify.com/album/2ha9lxn6XE1KFrp8jSuC1p) | 2:36 |
+| 9 | [GAZ PEDAL](https://open.spotify.com/track/0TbeXCwQz1oSK5eZVLnEIn) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [GAZ PEDAL](https://open.spotify.com/album/71HKIz40EJPU0BKrCtO0rg) | 2:25 |
 | 10 | [O Yeterdi Aslında](https://open.spotify.com/track/2ddm1l43JvlkXoFGkUKBF7) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [O Yeterdi Aslında](https://open.spotify.com/album/1fKCFoIEr7Scgocusf7jyF) | 3:07 |
 | 11 | [AFFETMEM](https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [AFFETMEM](https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg) | 3:02 |
 | 12 | [Özür](https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [Özür](https://open.spotify.com/album/2qxO3eFHhuGDuFltNeXKjg) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [Gelmelisin](https://open.spotify.com/track/5E8dUYbcE3sAfwKcVOyp0h) | [Bedo](https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si) | [Gelmelisin](https://open.spotify.com/album/27PlkPSPZMyWRCs4hdt0Qc) | 3:08 |
 | 50 | [Kalbe Zarar](https://open.spotify.com/track/5R5k2rMxjpaBoNyh0wAh4i) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Fatma Turgut](https://open.spotify.com/artist/1dsKaRPU3HFSdlNyMmH5QI) | [Kalbe Zarar](https://open.spotify.com/album/1JuRmAeLvCfdQSilolTdhy) | 2:07 |
 
-Snapshot ID: `MTY4MTgwMjYyMCwwMDAwMDAwMDBiNjEzYTc0MmQyOGU1ODEzY2U3ODA0OWY4NmU5MDdm`
+Snapshot ID: `MTY4MTk0MTM2NCwwMDAwMDAwMGViNTU0ZDE4MGRlNDBkODFkZjc3Y2Q2MTc2ZDQ0ZTQy`

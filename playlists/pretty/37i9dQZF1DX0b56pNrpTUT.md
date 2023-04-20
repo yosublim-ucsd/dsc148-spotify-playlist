@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Eve Fairley\-Chickwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,741 likes - 48 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,783 likes - 48 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 | 11 | [LEAVE ME ALONE](https://open.spotify.com/track/0kbnm3YwSygTFeWZlCGfCw) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 2:36 |
 | 12 | [Bussdown \(feat\. Shaybo\)](https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:21 |
 | 13 | [Touch Me \(feat\. Kehlani\) \- Remix](https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch Me \(feat\. Kehlani\) \[Remix\]](https://open.spotify.com/album/4ICez0IybCtHZbAXl5ENWJ) | 3:07 |
-| 14 | [Wickedest](https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest](https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr) | 3:12 |
-| 15 | [Try Me](https://open.spotify.com/track/2DYp6Gfu2JguZra6xL8IAV) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Try Me](https://open.spotify.com/album/6aitMhXvJwSRR6xD23Gqmk) | 3:33 |
+| 14 | [Try Me](https://open.spotify.com/track/2DYp6Gfu2JguZra6xL8IAV) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Try Me](https://open.spotify.com/album/6aitMhXvJwSRR6xD23Gqmk) | 3:33 |
+| 15 | [Wickedest](https://open.spotify.com/track/2nAOiwTa3qvuzawrwN7gaA) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest](https://open.spotify.com/album/6ksJ2GuWsid065x77nx6Cr) | 3:12 |
 | 16 | [Cherries](https://open.spotify.com/track/13z7RLPmgupzRwQY9NiTZU) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Girl Eats Sun](https://open.spotify.com/album/6Go01eX2LbvalYrTF8r8Ps) | 3:03 |
 | 17 | [Collide \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/6mDz3yFi4hJeL2mP4lmg51) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Back At Sixes And Sevens](https://open.spotify.com/album/3QX0G9KLHXd84busDSiJxq) | 3:24 |
 | 18 | [Insecure](https://open.spotify.com/track/360NCp4XoQ0sFi5jgu5Ww7) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Insecure](https://open.spotify.com/album/7hhWPFOdpmA1R9pUM5iUwe) | 3:38 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 | 21 | [Out The Way](https://open.spotify.com/track/1F90ozGQw5nVHCT5o8yXK3) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [Out The Way](https://open.spotify.com/album/3ZqHjjh7jnUEGPf4b5xbwO) | 2:35 |
 | 22 | [Running \(feat\. Ghetts\)](https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Running \(feat\. Ghetts\)](https://open.spotify.com/album/5ixpxqTNl3NslcF9WzmXr5) | 4:02 |
 | 23 | [Pick Up Your Feelings](https://open.spotify.com/track/4k2cAUUPp3VZdK4gwG9pxy) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:49 |
-| 24 | [Flipside](https://open.spotify.com/track/3h1ivCOHhZXtR77nCaJLSl) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Flipside](https://open.spotify.com/album/5wlLGEGHLCR6IGwPa5T8Jg) | 3:11 |
-| 25 | [Call Your Name](https://open.spotify.com/track/2hwf6IE0V4MVqw9tbWY9FQ) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Call Your Name](https://open.spotify.com/album/6YefvGO0wSkfRa2DqWiF5K) | 3:16 |
+| 24 | [Call Your Name](https://open.spotify.com/track/2hwf6IE0V4MVqw9tbWY9FQ) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Call Your Name](https://open.spotify.com/album/6YefvGO0wSkfRa2DqWiF5K) | 3:16 |
+| 25 | [Flipside](https://open.spotify.com/track/3h1ivCOHhZXtR77nCaJLSl) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Flipside](https://open.spotify.com/album/5wlLGEGHLCR6IGwPa5T8Jg) | 3:11 |
 | 26 | [Whenever You're Ready](https://open.spotify.com/track/16Km3GR6GYMrIyVPk31DAe) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Whenever You're Ready](https://open.spotify.com/album/5oU1HkdGTZ9aKz9FFdiawe) | 3:25 |
 | 27 | [Often Enough \- A COLORS SHOW](https://open.spotify.com/track/7bpBqvHwczID6y7itqQ7V2) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [Often Enough \- A COLORS SHOW](https://open.spotify.com/album/6Or2VkTQisIFoo3qCGQGk7) | 2:37 |
 | 28 | [Evil Eye \- A COLORS SHOW](https://open.spotify.com/track/0X4OaqRlKPYdIFL2LZECHv) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Evil Eye \- A COLORS SHOW](https://open.spotify.com/album/3uc0BBMDWAkDwxunNXZtJx) | 2:55 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 | 32 | [Serial](https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Serial](https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2) | 3:47 |
 | 33 | [November \(feat\. Hak Baker\)](https://open.spotify.com/track/6QKFXwI5cQ8D4xl6os8T1J) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [November \(feat\. Hak Baker\)](https://open.spotify.com/album/2EaIOXi8ylfZoJXti1EN8v) | 3:15 |
 | 34 | [Peng Black Girls](https://open.spotify.com/track/3Xhj7ZZAfQwPUxKZHQdw3y) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Amia Brave](https://open.spotify.com/artist/3Sjv0t3F7FMsQrkWVZcOuW) | [Under Twenty Five](https://open.spotify.com/album/0lEt5TY0krIxIBW61pCMcb) | 3:30 |
-| 35 | [Nah It Ain't The Same](https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Nah It Ain't The Same](https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP) | 4:11 |
-| 36 | [In My Mind](https://open.spotify.com/track/4B1aimZXPZL7PoU6KN33wP) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Undertones](https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL) | 3:34 |
+| 35 | [In My Mind](https://open.spotify.com/track/4B1aimZXPZL7PoU6KN33wP) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Undertones](https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL) | 3:34 |
+| 36 | [Nah It Ain't The Same](https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Nah It Ain't The Same](https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP) | 4:11 |
 | 37 | [Anymore \(feat\. Lucky Daye\)](https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Ready is Always Too Late](https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g) | 3:16 |
 | 38 | [MIA \(feat\. Kaash Paige\)](https://open.spotify.com/track/2RgDaFvkIcDygqHTAmgSwk) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [MIA](https://open.spotify.com/album/1SAmnF7LfHgIhNI5oPrv7s) | 2:57 |
 | 39 | [Syrup](https://open.spotify.com/track/5nzX0GtmuW03QGb2l9Hw0C) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Syrup](https://open.spotify.com/album/2nNBzYIjt0Y9wnmXsRmIu4) | 2:25 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 | 47 | [Anger](https://open.spotify.com/track/5UJ0nJKwbBfYbnPyCfRlaD) | [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 2:18 |
 | 48 | [Buss A 9](https://open.spotify.com/track/0bXiuDO0JuiIV8eWsiC9JX) | [Sharna Bass](https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 3:20 |
 
-Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMGNhNWJjYzNjMDE4NzIwM2Q0Y2M5M2E0YTVlMTcxZjVl`
+Snapshot ID: `MTY2NDY0MDAwMCwwMDAwMDAwMGE3ODk5OGI1NTljNzA0MTVlMmVhY2ExNGMzMDdhMjVl`

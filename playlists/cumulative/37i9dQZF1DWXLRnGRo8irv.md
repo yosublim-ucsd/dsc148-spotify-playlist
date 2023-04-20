@@ -4,7 +4,7 @@
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: NMIXX\)
 
-740 songs - 1 day 18 hr 48 min
+741 songs - 1 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,7 +370,8 @@
 | [Love Me or Hate Me](https://open.spotify.com/track/2Qv01mVwY3815XuoXm6Upc) | [Song Soo Woo](https://open.spotify.com/artist/4X7gkJU9fcWMHeUS5BLWsr) | [Love Me or Hate Me](https://open.spotify.com/album/1yNeoN1SL2MCc1fef56l5y) | 2:39 | 2022-03-07 | 2022-04-06 |
 | [Love Note!](https://open.spotify.com/track/0NfXZxnw1e6HdEJzcoWVzF) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [Love Note!](https://open.spotify.com/album/01moeo0CfiDeWL7irbhlEq) | 3:14 | 2022-09-06 | 2023-03-01 |
 | [Love or Die \- SOLE Version](https://open.spotify.com/track/3UkoqvqMvtg1Dv33wJ6Pst) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Love or Die \(SOLE Version\)](https://open.spotify.com/album/2fdKElCiX82wx9n6HbQyCk) | 3:57 | 2023-04-04 |  |
-| [Love or Hate](https://open.spotify.com/track/0vSoQCBMCWBiLwrD2is0cP) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Love or Hate](https://open.spotify.com/album/2Xff5qFOIixfs1RyPlM43V) | 3:29 | 2023-04-04 |  |
+| [Love or Hate](https://open.spotify.com/track/0vSoQCBMCWBiLwrD2is0cP) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Love or Hate](https://open.spotify.com/album/2Xff5qFOIixfs1RyPlM43V) | 3:29 | 2023-04-04 | 2023-04-20 |
+| [Love or Hate](https://open.spotify.com/track/1dMzdjNYpSy1ji3dWa9AaH) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Love or Hate](https://open.spotify.com/album/73lmR1Fx6yF8KdtCRfr6a0) | 3:29 | 2023-04-04 |  |
 | [love you](https://open.spotify.com/track/5XSWqVZ64qqUOjCbgGwDrq) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp) | [love you](https://open.spotify.com/album/63inW6sSNMYngsKlIBZmMk) | 4:10 | 2022-05-04 | 2022-06-01 |
 | [LovE yOuRSelF \(feat.Kimboa\)](https://open.spotify.com/track/1rcoqFIze1IHig3UoTGqsM) | [Truedy](https://open.spotify.com/artist/38G7epclTfu3wgkiVVLjCV), [김보아](https://open.spotify.com/artist/6NJTdlLzuPZJg22hL0ku1p) | [LovE yOuRSelF](https://open.spotify.com/album/6OxlfNHrh0b0xCa1imuuc8) | 2:14 | 2021-12-08 | 2022-01-05 |
 | [Loveable](https://open.spotify.com/track/087TC6IfJ8z7fBItvglRRs) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [Op.22 Y\-Waltz : in Minor](https://open.spotify.com/album/2CMx2ufebKtglecf9Q1F90) | 2:56 | 2023-01-03 | 2023-02-01 |

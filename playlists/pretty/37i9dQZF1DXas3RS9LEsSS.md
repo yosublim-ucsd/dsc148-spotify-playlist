@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas3RS9LEsSS.md) - [plain]
 
 > The best of Latin blues\. Cover: Carlos Santana
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,761 likes - 60 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,773 likes - 60 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas3RS9LEsSS.md) - [plain]
 | 7 | [La Balada del Diablo y la Muerte](https://open.spotify.com/track/46hGh2ZdORn4We1nsbkPK8) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [La Balada del Diablo y la Muerte](https://open.spotify.com/album/1MMzu2HjRm27tsrBKFMvOx) | 5:33 |
 | 8 | [Foxtrot](https://open.spotify.com/track/0mUm43Yjv9vPqR8YycWyJs) | [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I), [Pappo](https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2) | [Juanito y el Carposaurio](https://open.spotify.com/album/63AaZ5VTi5wATmRN3nifP7) | 3:22 |
 | 9 | [Blues para Mi Guitarra](https://open.spotify.com/track/42JynzhyR1fbyEvSuJHqEE) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5) | 7:09 |
-| 10 | [Todo Va a Arder \(En vivo en Sesiones de Bar\)](https://open.spotify.com/track/5kZxky7iciP3kEKn8nPlm9) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Todo Va a Arder \(En vivo en Sesiones de Bar\)](https://open.spotify.com/album/2UZFC1cuAbXrc4HO8OKkY1) | 4:15 |
+| 10 | [Todo Va a Arder \- \(en Vivo En Sesiones De Bar\)](https://open.spotify.com/track/1agDiStocrfsSya5Jgw4lx) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Sesiones de Bar \(En Vivo\) \[en Vivo En Sesiones De Bar\]](https://open.spotify.com/album/162BkJqCubZjEZGe8bwHZM) | 4:15 |
 | 11 | [Un Beso Grande](https://open.spotify.com/track/3WqIBVb0k5VQ3kNkZSvBQi) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Un Beso Grande](https://open.spotify.com/album/1fYosbYikwwEOWOyCWqZjR) | 3:46 |
 | 12 | [Preocupado y Aburrido](https://open.spotify.com/track/4u34ORMzURyViyUF2OIks4) | [Alambre Gonzalez](https://open.spotify.com/artist/3oLANiNTf5qyrciZmnPyYU) | [Alambre González & Amigos](https://open.spotify.com/album/6Uyq3DIYiEi3eRVX1m2CHO) | 3:57 |
 | 13 | [Don't Let Fear](https://open.spotify.com/track/3Z2pjyXFZRClZ6VzNHB1CI) | [Vikings of Blues](https://open.spotify.com/artist/37Y8IZI30LNBrm4QF9mt7x), [Vargas Blues Band](https://open.spotify.com/artist/3K6ueahyMBq96ZtDjo9LSn), [Jessy Howe](https://open.spotify.com/artist/4qdw2RTYky5FRJAq1znp2v) | [Soul Food](https://open.spotify.com/album/1lfVzJ28tTgXnz4hS5SdoD) | 4:20 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas3RS9LEsSS.md) - [plain]
 | 59 | [Témpano de Hielo](https://open.spotify.com/track/101jHksIr05Ir0cKcpyKpw) | [Magnolia Blues Rock](https://open.spotify.com/artist/5jLFKI49IUfPb9fT7rrc5j) | [Magnolia](https://open.spotify.com/album/165s9omOoI3IYG7SX7osuq) | 3:13 |
 | 60 | [Avellaneda Blues](https://open.spotify.com/track/15YA2WKbpA7Jd7y7X74naF) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Obras Cumbres](https://open.spotify.com/album/0n3NEHj4PMTmlM6hXXapbm) | 5:33 |
 
-Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMGQxYWI4ZDYwMWUxMGI5YTdlZDliNTZhMzQ1NzFjYTUw`
+Snapshot ID: `MTY3NjYxMDA2MCwwMDAwMDAwMDIzYTYyNmI2ZDJjOGU1ZmNkYWQzNTkyYThkNjllNzgw`

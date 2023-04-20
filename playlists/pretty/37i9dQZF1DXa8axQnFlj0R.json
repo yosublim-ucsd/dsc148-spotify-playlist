@@ -1,12 +1,12 @@
 {
   "description": "let me hold both your hands in the holes of my sweater",
-  "num_followers": 70606,
+  "num_followers": 70594,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAwNzc1NywwMDAwMDAwMGI4NjdiNjA0ZDFkNjc3ODdjNTkzMjJiOTEyZjYzYTgy",
+  "snapshot_id": "MTY3MDAwNzc1NywwMDAwMDAwMGZmMmQ0NmJjZTQ5NjMwYmMzYjQ3MTI5MTM0NDJhODlk",
   "tracks": [
     {
       "added_at": "2022-12-02 19:02:37",
@@ -555,18 +555,18 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+        "name": "Without Fear",
+        "url": "https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG"
       },
       "artists": [
         {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 401413,
-      "name": "Re: Stacks",
-      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
+      "duration_ms": 202346,
+      "name": "Rome",
+      "url": "https://open.spotify.com/track/2ZwihAP8zB5XX1CmYIOBbF"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -587,18 +587,18 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Without Fear",
-        "url": "https://open.spotify.com/album/7jGNAMzrW5HMXdxl9XyBMG"
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 202346,
-      "name": "Rome",
-      "url": "https://open.spotify.com/track/2ZwihAP8zB5XX1CmYIOBbF"
+      "duration_ms": 401413,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Arcadia",
-        "url": "https://open.spotify.com/album/6PLChyiJHbYkpX9XXtW6Ye"
-      },
-      "artists": [
-        {
-          "name": "Lily Kershaw",
-          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
-        }
-      ],
-      "duration_ms": 199172,
-      "name": "Now & Then",
-      "url": "https://open.spotify.com/track/1dbaHk2530DwkAe5vwOYez"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
         "name": "Holding",
         "url": "https://open.spotify.com/album/3EsHX6QnZU5XVed717arFh"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 197460,
       "name": "Wild",
       "url": "https://open.spotify.com/track/7GbRC3WWnBGF9Uc9N2BUDh"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/6PLChyiJHbYkpX9XXtW6Ye"
+      },
+      "artists": [
+        {
+          "name": "Lily Kershaw",
+          "url": "https://open.spotify.com/artist/0p0ksmwMDQlAM24TWKu4Ua"
+        }
+      ],
+      "duration_ms": 199172,
+      "name": "Now & Then",
+      "url": "https://open.spotify.com/track/1dbaHk2530DwkAe5vwOYez"
     },
     {
       "added_at": "2022-12-02 19:02:37",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-12-02 19:02:37",
       "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 304280,
-      "name": "Delicious Things",
-      "url": "https://open.spotify.com/track/0f1bOH82cQvNNZBmmkKv4d"
-    },
-    {
-      "added_at": "2022-12-02 19:02:37",
-      "album": {
         "name": "Midnight Sun (Acoustic Version)",
         "url": "https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 193905,
       "name": "Midnight Sun - Acoustic Version",
       "url": "https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0"
+    },
+    {
+      "added_at": "2022-12-02 19:02:37",
+      "album": {
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 304280,
+      "name": "Delicious Things",
+      "url": "https://open.spotify.com/track/0f1bOH82cQvNNZBmmkKv4d"
     },
     {
       "added_at": "2022-12-02 19:02:37",

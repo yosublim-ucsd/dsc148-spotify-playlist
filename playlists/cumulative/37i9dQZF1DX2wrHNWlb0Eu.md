@@ -4,7 +4,7 @@
 
 > ตอนนี้หน้าร้อน แต่ทำไมมองเธอแล้วเจอแต่น่ารัก \#คลั่งรัก
 
-105 songs - 6 hr 34 min
+106 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/track/0cCf8UpRfjOB7yp1yqzMHM) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ชอบตัวเองตอนอยู่กับเธอ](https://open.spotify.com/album/1AFBFoCnnS7KkhbwT80V2j) | 3:42 | 2023-02-10 |  |
 | [ชอบป่ะเนี่ย \(Can I Call You Mine\)](https://open.spotify.com/track/742XEz0qAabkTmEVdMzqKb) | [Mai Davika](https://open.spotify.com/artist/0XZFmjFo1arDluB0KncejC) | [ชอบป่ะเนี่ย \(Can I Call You Mine\)](https://open.spotify.com/album/2LrGMUuGqI7ceHkBsDs0GF) | 3:12 | 2023-02-10 |  |
 | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/track/3Ry2KPewzbt43hiQPTnDTK) | [THEMOONWILLALWAYSBEWITHME](https://open.spotify.com/artist/0yVywi4NwefY85n4BxZMaz) | [ซูลูปาก้า ตาปาเฮ้](https://open.spotify.com/album/31CyxkIPcTXFvzzARTGr9J) | 3:45 | 2023-02-10 |  |
+| [ดี๊ดี \(UNEXPECTED\)](https://open.spotify.com/track/0qMQZhDD8hjV7KvZ19Jm4n) | [JAYLERR](https://open.spotify.com/artist/72eVco16BxQJe5nE1vY72F), [Ice Paris](https://open.spotify.com/artist/6Ul5SIYwfYqiTgvSDqOe2n) | [ดี๊ดี \(UNEXPECTED\)](https://open.spotify.com/album/1rXb5s1tafG6YOlii5cGKS) | 3:13 | 2023-02-21 |  |
 | [ดึกแล้วอย่าเพิ่งกลับ](https://open.spotify.com/track/6d5a3i4bA9uGrmgZt1WR0d) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [ดึกแล้วอย่าเพิ่งกลับ](https://open.spotify.com/album/6NzUzhfx9gpoPXhrABoWml) | 3:06 | 2023-02-10 |  |
 | [ดูดฝุ่น \(home.\)](https://open.spotify.com/track/74H9bBeNa5SMITV645EYJs) | [Morvasu](https://open.spotify.com/artist/4S7sdsjS2srUTDPXAuOYw8), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ดูดฝุ่น \(home.\)](https://open.spotify.com/album/1qbmY8Bpi6BStFmenXfGum) | 2:55 | 2023-02-10 |  |
 | [ตกหลุมรักรอบที่ล้าน](https://open.spotify.com/track/0h5J891lpMTlU4o6oPg3VJ) | [Kinkaworn](https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg), [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [ตกหลุมรักรอบที่ล้าน](https://open.spotify.com/album/1J4dG82e0Pln7i5PxodQuV) | 3:18 | 2023-02-10 |  |
@@ -65,7 +66,7 @@
 | [ฝนตกไหม](https://open.spotify.com/track/1ccwCCS7YSclzYibpK0DS4) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ฝนตกไหม](https://open.spotify.com/album/2HZzSeqvOspfSfnzZU5bOj) | 4:21 | 2023-02-10 |  |
 | [ฝันหวานอายจูบ](https://open.spotify.com/track/10DSYghyBjAYJa8iCvdRDv) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [SKY](https://open.spotify.com/album/0IJBIXei1Tk5B2LAJG88uM) | 3:24 | 2023-02-10 | 2023-04-07 |
 | [พรหมลิขิต](https://open.spotify.com/track/4I8jKhU6WcvqlE4IlC4EcI) | [Big Ass](https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv) | [begins](https://open.spotify.com/album/4esxRZK9lkQEjCt6lkerNR) | 4:13 | 2023-02-10 |  |
-| [พะจัน](https://open.spotify.com/track/63b22ti1AAmGyAR1OpqUmi) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [พะจัน](https://open.spotify.com/album/634ttKDuMq3fzM2WzeEuc4) | 3:03 | 2023-02-10 |  |
+| [พะจัน](https://open.spotify.com/track/63b22ti1AAmGyAR1OpqUmi) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [พะจัน](https://open.spotify.com/album/634ttKDuMq3fzM2WzeEuc4) | 3:03 | 2023-02-10 | 2023-04-20 |
 | [พิง \- เพลงประกอบละคร กระเช้าสีดา](https://open.spotify.com/track/6MjLHdROTcaU22k7B6gxR6) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [เพลงประกอบละคร กระเช้าสีดา](https://open.spotify.com/album/1Sj8XTK9qjQzMS5deUO3LV) | 4:02 | 2023-02-10 |  |
 | [พี่ๆ ตัดแว่นให้หน่อย](https://open.spotify.com/track/7J2AM0bPIKlaBotMTzl5zx) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [Are You Serious?](https://open.spotify.com/album/7G2HL8Yihb7XPEXrm3TzDR) | 3:39 | 2023-02-10 |  |
 | [มาดูแมวดำน้ำทำกับข้าวบ้านเรามั้ย \(Saturday Night\)](https://open.spotify.com/track/13p7WgSfNUXKmWUjskWtSW) | [BRIGHT](https://open.spotify.com/artist/6foXh1rnSNszTx2gIVOGTt) | [มาดูแมวดำน้ำทำกับข้าวบ้านเรามั้ย \(Saturday Night\)](https://open.spotify.com/album/6OLZ8YxFlH5RF0j0ZCRd9y) | 3:19 | 2023-04-03 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Remember these summer tunes?",
-  "num_followers": 413308,
+  "num_followers": 413578,
   "original_name": "Summer Throwback",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDMyMTg5NCwwMDAwMDAwMDhlZDc5ZWY2NDc3MmZjNzMwNzc5MjgyMzgyMjdiNTdm",
+  "snapshot_id": "MTY1MDMyMTg5NCwwMDAwMDAwMDUxOWIyNDllZDIxNTkxZGJhYTVhZGI4N2QxNDc4ZTdi",
   "tracks": [
     {
       "added_at": "2022-04-18 22:44:54",
@@ -175,6 +175,22 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
+        "name": "Blurryface",
+        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 250373,
       "name": "Yeah! (feat. Lil Jon & Ludacris)",
       "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "Blurryface",
-        "url": "https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Green River (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "Bad Moon Rising",
-      "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
         "name": "Barrio Fino (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 192600,
       "name": "Gasolina",
       "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Green River (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Bad Moon Rising",
+      "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Three Little Birds",
-      "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 200306,
       "name": "Island In The Sun",
       "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Staying at Tamara's",
-        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 201287,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
         "name": "Waves (Robin Schulz Radio Edit)",
         "url": "https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620"
       },
@@ -931,6 +915,22 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
+        "name": "Staying at Tamara's",
+        "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 201287,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
         "name": "Layers",
         "url": "https://open.spotify.com/album/66KCBRiOFSs9bki2A15WlB"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 195546,
       "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
       "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "The Fame",
-        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "Poker Face",
-      "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -995,6 +979,22 @@
       "duration_ms": 231906,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/1UZOjK1BwmwWU14Erba9CZ"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "Poker Face",
+      "url": "https://open.spotify.com/track/5R8dQOPq8haW94K7mgERlO"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
+        "name": "I Never Loved a Man the Way I Love You",
+        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Respect",
+      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
         "name": "Europop",
         "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 283747,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
       "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
-        "name": "I Never Loved a Man the Way I Love You",
-        "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 147600,
-      "name": "Respect",
-      "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "American Pie",
-        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
-      },
-      "artists": [
-        {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        }
-      ],
-      "duration_ms": 516893,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
-    },
-    {
-      "added_at": "2022-04-18 22:44:54",
-      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Greatest Hits: Huey Lewis And The News",
-        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
+        "name": "American Pie",
+        "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
       },
       "artists": [
         {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
         }
       ],
-      "duration_ms": 234333,
-      "name": "The Power Of Love",
-      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
+      "duration_ms": 516893,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2022-04-18 22:44:54",
       "album": {
-        "name": "Colour By Numbers",
-        "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
+        "name": "Greatest Hits: Huey Lewis And The News",
+        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
       },
       "artists": [
         {
-          "name": "Culture Club",
-          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
         }
       ],
-      "duration_ms": 252773,
-      "name": "Karma Chameleon - Remastered 2002",
-      "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
+      "duration_ms": 234333,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
     },
     {
       "added_at": "2022-04-18 22:44:54",
@@ -1391,6 +1375,22 @@
       "duration_ms": 171360,
       "name": "Call on Me - Radio Mix",
       "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
+    },
+    {
+      "added_at": "2022-04-18 22:44:54",
+      "album": {
+        "name": "Colour By Numbers",
+        "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
+      },
+      "artists": [
+        {
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Karma Chameleon - Remastered 2002",
+      "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
     },
     {
       "added_at": "2022-04-18 22:44:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: David Kushner
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,715 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,796 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 35 | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/track/28a0aMV1OKoyNiCJuNsWrY) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [That’s Not How This Works \(feat\. Dan + Shay\)](https://open.spotify.com/album/67IEDkeGYxOvS2RvcarzrT) | 2:45 |
 | 36 | [Friends](https://open.spotify.com/track/0BwDF0PRX9skmZ0BUWmLOF) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Friends](https://open.spotify.com/album/7merJnzS4bvQD6Nv7PaA39) | 3:06 |
 | 37 | [First Place](https://open.spotify.com/track/2nVmUsEIdqVYQG0BTzPdk4) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Powerlines](https://open.spotify.com/album/3fA793BjWaUIqwknayn2OX) | 3:16 |
-| 38 | [why me?](https://open.spotify.com/track/0ZpJQsYQaZVoZCspPc7zru) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [why me?](https://open.spotify.com/album/1I0WTrZlybhWAsK4PwMyK5) | 2:42 |
+| 38 | [why me](https://open.spotify.com/track/0ZpJQsYQaZVoZCspPc7zru) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [why me](https://open.spotify.com/album/1I0WTrZlybhWAsK4PwMyK5) | 2:42 |
 | 39 | [Just Don't Know It Yet](https://open.spotify.com/track/3gATMpdrZqQIws1Bks8n0O) | [New Hope Club](https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez) | [Just Don't Know It Yet](https://open.spotify.com/album/3XLyVpNKVG7alNAIZ1jVXE) | 2:57 |
 | 40 | [Call on Me](https://open.spotify.com/track/6NAeCHRuzqURCsUpYTQbjK) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Call on Me](https://open.spotify.com/album/32cDkCyVQFR8M4QtatNhGU) | 2:50 |
 | 41 | [Boundaries](https://open.spotify.com/track/2XL4IMXC0WnT07LkrnVulK) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [Boundaries](https://open.spotify.com/album/6nHVtu2eSs7X4A5O5X2cAp) | 2:49 |

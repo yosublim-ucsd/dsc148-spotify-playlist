@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > Sometimes a cover can be even better than the original\. You decide\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 638,127 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 638,284 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 26 | [Zombie](https://open.spotify.com/track/1vNoA9F5ASnlBISFekDmg3) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Zombie](https://open.spotify.com/album/768Mgdrb3yUmNJ4HW4IJOL) | 4:14 |
 | 27 | [Higher Ground \- Remastered 2003](https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Mother's Milk](https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z) | 3:22 |
 | 28 | [Word Up!](https://open.spotify.com/track/1pHPpLVH2XEN0xYRoQs4wq) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Word Up! \(The Remixes\)](https://open.spotify.com/album/1L9iPuSu8FZFaFzzqHQarF) | 2:52 |
-| 29 | [Just A Girl \- From The Original Series “Yellowjackets”](https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Just A Girl \(From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk) | 4:34 |
-| 30 | [Faith](https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 2:26 |
-| 31 | [The Boys of Summer](https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy) | [The Ataris](https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi) | [So Long, Astoria](https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg) | 4:18 |
+| 29 | [Faith](https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Three Dollar Bill, Y'all $](https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t) | 2:26 |
+| 30 | [The Boys of Summer](https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy) | [The Ataris](https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi) | [So Long, Astoria](https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg) | 4:18 |
+| 31 | [Just A Girl \- From The Original Series “Yellowjackets”](https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Just A Girl \(From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk) | 4:34 |
 | 32 | [Love Buzz](https://open.spotify.com/track/5muVpPu8Fj9fXfDbbqDdrZ) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 3:35 |
 | 33 | [Careless Whisper](https://open.spotify.com/track/46eHxWRKmtYhUHPDRgclt6) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Finding Beauty In Negative Spaces \(Bonus Track Version\)](https://open.spotify.com/album/59Tni3gA1OczshFWTMxmbo) | 4:56 |
 | 34 | [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/track/0olaaJrCBTMJJvqPdvNpsx) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 4:50 |
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 64 | [\(I Just\) Died in Your Arms](https://open.spotify.com/track/4G9ZGwsT2OMkQTfoly4oYe) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [What Doesn't Kill Us](https://open.spotify.com/album/0GcvmP7OqiGImCbGEXv7aI) | 3:26 |
 | 65 | [Take on Me](https://open.spotify.com/track/1ZB2qWsheGabSEYvBYxjKn) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 3:43 |
 | 66 | [Ring of Fire](https://open.spotify.com/track/3hKScGxI28Zor6zJ7JL7aS) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Social Distortion](https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS) | 3:50 |
-| 67 | [Hurt](https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Unearthed](https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e) | 3:36 |
-| 68 | [Separate Ways](https://open.spotify.com/track/62eNYg3cHHfr1ThVxe2vaM) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Blow EP](https://open.spotify.com/album/3AyOgySZDKrBWEwCVy2Ohv) | 5:00 |
+| 67 | [Separate Ways](https://open.spotify.com/track/62eNYg3cHHfr1ThVxe2vaM) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Blow EP](https://open.spotify.com/album/3AyOgySZDKrBWEwCVy2Ohv) | 5:00 |
+| 68 | [Hurt](https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Unearthed](https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e) | 3:36 |
 | 69 | [Iris](https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW), [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Iris](https://open.spotify.com/album/1BLQgpr4ttkVWGVQcWaBl7) | 3:44 |
 | 70 | [Simple Man](https://open.spotify.com/track/7gmfoXsjwQYn6HeHUYRpY2) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Simple Man](https://open.spotify.com/album/2mVgb4nAUhBflyHrIXgr0r) | 4:28 |
-| 71 | [Fade Into You](https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Falling In](https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU) | 5:15 |
-| 72 | [Someone Like You](https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Predator](https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj) | 4:35 |
+| 71 | [Someone Like You](https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Predator](https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj) | 4:35 |
+| 72 | [Fade Into You](https://open.spotify.com/track/0v55XuHDYNj4ELPzpRnNo0) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Falling In](https://open.spotify.com/album/59ZFxwkLZ1vUJJVqHTdXEU) | 5:15 |
 | 73 | [Torn](https://open.spotify.com/track/4mBJUbN4VLcpT36O4uf8t3) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [Punk Goes 90's, Vol\. 2](https://open.spotify.com/album/4OEnCG1PkPtwNwuIcb0Whv) | 3:45 |
 | 74 | [Feeling Good](https://open.spotify.com/track/5Yj4AP0JGQWierBFKdKVyS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1AP6uGYHdakRgwuWQsP5pK) | 3:18 |
 | 75 | [Someone You Loved](https://open.spotify.com/track/6TeB7j56k4AbELOl3G4zfj) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5), [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe), [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [Ashland](https://open.spotify.com/artist/5A8b2V7uCPZgPIwQoKf9Qw) | [Someone You Loved](https://open.spotify.com/album/64z1smw6o7hV7OJTzD3Rj7) | 3:01 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 | 96 | [For What It's Worth](https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [For What It's Worth](https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9) | 4:52 |
 | 97 | [Stairway to Heaven](https://open.spotify.com/track/0il7xIzXf94gNmYw2tnsUI) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Stairway to Nick John](https://open.spotify.com/album/1fifpfPsjplmA61cZcxN1e) | 8:05 |
 | 98 | [Beat It \- Studio Version Featuring John Mayer](https://open.spotify.com/track/0BrgzTEWfI0QZLRJqzJbPa) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Live In Phoenix](https://open.spotify.com/album/5QFioUfHFxQFKULZli3BTF) | 3:50 |
-| 99 | [I Can't Give Everything Away](https://open.spotify.com/track/5uLtfWEqn5ngoWySZkI9ii) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [I Can't Give Everything Away](https://open.spotify.com/album/58NC5JxuV17ealBQ1lZ0tj) | 3:55 |
+| 99 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
 | 100 | [Listen To Your Heart](https://open.spotify.com/track/6NxTKEfNa5DyhOIin6VWYP) | [Through Fire](https://open.spotify.com/artist/1SPVRGHIGb9TJxBKQ9O9XT) | [All Animal](https://open.spotify.com/album/5hDU20tlpRjeN2PJnmfiv6) | 3:35 |
 
-Snapshot ID: `MTY4MTEzNjExMSwwMDAwMDAwMDVkN2U0ZGFlZTVlNzQwYTc0M2IwY2ExYmQzNmUyN2Jl`
+Snapshot ID: `MTY4MTEzNjExMSwwMDAwMDAwMDA2NDZkN2FkOTAwYTljZjZiYjdlYjUyMzI1ZjkwYTdm`

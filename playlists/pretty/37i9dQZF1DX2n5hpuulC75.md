@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 
 > Chill tunes for mellow moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,719 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,764 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,10 +15,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 5 | [Every High](https://open.spotify.com/track/7kzz52nsw2wy0LPQ84ynHE) | [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Every High](https://open.spotify.com/album/31uk6I84Dt62kKgEOhIDfl) | 3:33 |
 | 6 | [You](https://open.spotify.com/track/4gRuC34ZpRcpVXxMXM1csQ) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [You](https://open.spotify.com/album/4Fzw1NdiDb9pGJPRAVlKXv) | 3:51 |
 | 7 | [What You Want](https://open.spotify.com/track/2AQzUTNoARvzd42LrWFddf) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [What You Want](https://open.spotify.com/album/2qi1aSTCj6nzyVgXr5KZKB) | 3:11 |
-| 8 | [Young](https://open.spotify.com/track/0ad87RTfHWmC2Syh1nOxEd) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/5mLmU1wyeAM453ysZZozm2) | 5:24 |
+| 8 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 |
 | 9 | [We've Never Met but Can We Have a Cup of Coffee or Something](https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O) | [Let's Go](https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R) | 3:19 |
-| 10 | [By](https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Hosoi](https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn) | 2:46 |
-| 11 | [I'm Sorry](https://open.spotify.com/track/1XWLdjLUzNDxW7ggw8uQnM) | [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [Theres Still Us](https://open.spotify.com/album/6weHAeERW1hoGdgXtEP1QZ) | 2:37 |
+| 10 | [Young](https://open.spotify.com/track/0ad87RTfHWmC2Syh1nOxEd) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/5mLmU1wyeAM453ysZZozm2) | 5:24 |
+| 11 | [By](https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Hosoi](https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn) | 2:46 |
 | 12 | [Besidju](https://open.spotify.com/track/3nUyfV0XhG8sysUfgEDmdI) | [shamana](https://open.spotify.com/artist/79idWEjZLtkCkJ37uHo7Av), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Besidju](https://open.spotify.com/album/07vja1cbDBcvT9CpJAnf0c) | 1:47 |
 | 13 | [Waiting for You](https://open.spotify.com/track/1olz3HctPa2yXmSniaCNLN) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T), [Swell](https://open.spotify.com/artist/78xSB1R1x8T6o0QuRaodez) | [D97](https://open.spotify.com/album/1mE4mVb9LnzCHVBXKrVTD3) | 3:50 |
 | 14 | [Feel It Still \- Medasin Remix](https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Woodstock \(Deluxe Edition\)](https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX) | 3:14 |
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 49 | [Yellow Dust](https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM) | [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg) | [Small Clan](https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J) | 3:52 |
 | 50 | [Antasma](https://open.spotify.com/track/5RxZ8rFeQPBqefaWqEk3Ex) | [Sal Dulu](https://open.spotify.com/artist/6vZPwPZBhP2RCPcijCfRAV) | [Antasma](https://open.spotify.com/album/2shJEUIURDIlMslYeCl0zl) | 3:25 |
 | 51 | [I've Always Been](https://open.spotify.com/track/0Uxmhbm1sUiyh6geMnwzG4) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE), [Zach Berro](https://open.spotify.com/artist/6t13QrSLbiVtlvksmoBgfH) | [I've Always Been](https://open.spotify.com/album/1p0q7Jmjsqwkt8xXmE9OcV) | 1:54 |
-| 52 | [Zender](https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5) | [Vesce](https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn) | [Self Edit](https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv) | 3:56 |
-| 53 | [Canyon](https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX) | [Glded](https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH) | [Canyon](https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT) | 3:09 |
+| 52 | [Canyon](https://open.spotify.com/track/6aVohiCJIKSl1KRprTMOHX) | [Glded](https://open.spotify.com/artist/6LQHbUxsIOTU2vkzbUaXCH) | [Canyon](https://open.spotify.com/album/3wuICxTDIz3Mvg9qZ24WJT) | 3:09 |
+| 53 | [Zender](https://open.spotify.com/track/4QcDn3z7Nx8Zo6Fod2Tdk5) | [Vesce](https://open.spotify.com/artist/2LOAyFzBD2LyAQby6Z6DKn) | [Self Edit](https://open.spotify.com/album/0ojHYXw3AszP9ReHSqrtVv) | 3:56 |
 | 54 | [Get Light](https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B) | [Zola Blood](https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ) | [Infinite Games](https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI) | 3:28 |
 | 55 | [Home \(feat\. LEES\)](https://open.spotify.com/track/6OgN82jpQlTgVEBMbKzBpF) | [Gaspar Narby](https://open.spotify.com/artist/2j4vLZ1ZNKpYCPhk98FR2s), [LEES](https://open.spotify.com/artist/7GS5zVk2C5Bt4Gnzl87py5) | [Home \(feat\. LEES\)](https://open.spotify.com/album/6HHTFLG0HLCh7a9q7hInxt) | 3:18 |
 | 56 | [Our Story](https://open.spotify.com/track/0FG5AlzaIGKwVcZq9vWvv1) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR) | [Goodbye](https://open.spotify.com/album/1t9EqFblAr0i6DDqZKDgx1) | 2:25 |
 | 57 | [Brother](https://open.spotify.com/track/6gtZgL7jUHYUQa3JvFJT90) | [mAsis](https://open.spotify.com/artist/1DTI5o8qbqWDGjftQlS4dw) | [Brother](https://open.spotify.com/album/2EY8U8KLgvUn5f7eUNxVN5) | 3:38 |
-| 58 | [Glow](https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave001](https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk) | 3:02 |
-| 59 | [Echo Park](https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0) | [Reptaliens](https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1) | [VALIS](https://open.spotify.com/album/5JhPxcOnJBO2tnypyuellA) | 3:18 |
+| 58 | [Echo Park](https://open.spotify.com/track/79nZqX37kRq35LKbiJxUW0) | [Reptaliens](https://open.spotify.com/artist/0CbJ7vhSBVagdeLhNcf9v1) | [VALIS](https://open.spotify.com/album/5JhPxcOnJBO2tnypyuellA) | 3:18 |
+| 59 | [Glow](https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave001](https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk) | 3:02 |
 | 60 | [Nylon](https://open.spotify.com/track/5rXnugeW097ItJ6axhE9Rm) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Backwater](https://open.spotify.com/album/1NP6e7CKUe0xofWmmBMcfA) | 4:14 |
 
-Snapshot ID: `MTU2ODY0ODY2NSwwMDAwMDAwMDNiZjM1ODBlNTc0N2MwODc5NGY0YzQ4OWQ4MGEyZTYy`
+Snapshot ID: `MTU2ODY0ODY2NSwwMDAwMDAwMDBhZTE1NDA0YTQ2NzAwZGY5NDRjOTRjZWU2YzllNGU5`

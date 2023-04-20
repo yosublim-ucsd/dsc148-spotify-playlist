@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 4314,
+  "num_followers": 4322,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzA1NiwwMDAwMDAwMGRiZTJmN2NlMGM3YTJmM2U0YjEzZmEwZjJlNzE0ZGZl",
+  "snapshot_id": "MTY3Nzg2NzA1NiwwMDAwMDAwMDY5YTVmZDk5Yjk0ZDVjMjdmYTJiMTVlZWM1N2UyNmRj",
   "tracks": [
     {
       "added_at": "2022-12-02 14:28:08",
@@ -27,22 +27,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Leaving Trunk",
-      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Howlin' Wolf",
         "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 170000,
       "name": "Spoonful",
       "url": "https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Leaving Trunk",
+      "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -629,7 +629,7 @@
       "url": "https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1"
     },
     {
-      "added_at": "2023-04-19 00:52:00",
+      "added_at": "2023-04-20 01:15:28",
       "album": {
         "name": "Ridin'",
         "url": "https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq"
@@ -643,6 +643,22 @@
       "duration_ms": 323280,
       "name": "Ridin'",
       "url": "https://open.spotify.com/track/5ADvR8iDQb0h1EIRLvqR1U"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Groove Juice: The Norman Granz Recordings + More",
+        "url": "https://open.spotify.com/album/2Ub4bz8I5jMPQ4HuH9uhBc"
+      },
+      "artists": [
+        {
+          "name": "Slim Gaillard",
+          "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
+        }
+      ],
+      "duration_ms": 149893,
+      "name": "Chicken Rhythm",
+      "url": "https://open.spotify.com/track/2bUb0zfTVwB6kMwarTan34"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -667,22 +683,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Groove Juice: The Norman Granz Recordings + More",
-        "url": "https://open.spotify.com/album/2Ub4bz8I5jMPQ4HuH9uhBc"
-      },
-      "artists": [
-        {
-          "name": "Slim Gaillard",
-          "url": "https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1"
-        }
-      ],
-      "duration_ms": 149893,
-      "name": "Chicken Rhythm",
-      "url": "https://open.spotify.com/track/2bUb0zfTVwB6kMwarTan34"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Barbecue Bob Vol. 1 (1927 - 1928)",
         "url": "https://open.spotify.com/album/4qi0icQEhM64kJQwYZtx31"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 192914,
       "name": "Barbecue Blues",
       "url": "https://open.spotify.com/track/2u79q6tWAomR9FccXbHD2m"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
-        "name": "Farmer's Market Barbecue",
-        "url": "https://open.spotify.com/album/3Y2knKkX83CKkc4LtyOH9B"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 627893,
-      "name": "Blues For The Barbecue",
-      "url": "https://open.spotify.com/track/1OkKAb7CzQ8NcjIyMbD5sm"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -731,18 +715,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Lead Belly: The Smithsonian Folkways Collection",
-        "url": "https://open.spotify.com/album/6X1f7MHfF9JIk33D0xhPmK"
+        "name": "Farmer's Market Barbecue",
+        "url": "https://open.spotify.com/album/3Y2knKkX83CKkc4LtyOH9B"
       },
       "artists": [
         {
-          "name": "Lead Belly",
-          "url": "https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC"
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
         }
       ],
-      "duration_ms": 152700,
-      "name": "Pigmeat",
-      "url": "https://open.spotify.com/track/6855kD5Pfhw6QkZhQEWB5S"
+      "duration_ms": 627893,
+      "name": "Blues For The Barbecue",
+      "url": "https://open.spotify.com/track/1OkKAb7CzQ8NcjIyMbD5sm"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -759,6 +743,22 @@
       "duration_ms": 161440,
       "name": "The Fish",
       "url": "https://open.spotify.com/track/2KyZPxIKzw4skONqNfKEzB"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Lead Belly: The Smithsonian Folkways Collection",
+        "url": "https://open.spotify.com/album/6X1f7MHfF9JIk33D0xhPmK"
+      },
+      "artists": [
+        {
+          "name": "Lead Belly",
+          "url": "https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC"
+        }
+      ],
+      "duration_ms": 152700,
+      "name": "Pigmeat",
+      "url": "https://open.spotify.com/track/6855kD5Pfhw6QkZhQEWB5S"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "The Complete Recordings, Vol. 5: The Final Chapter",
-        "url": "https://open.spotify.com/album/7eQ9VnRlRUSdmMjQM13Rl3"
-      },
-      "artists": [
-        {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Gimme a Pigfoot and a Bottle of Beer",
-      "url": "https://open.spotify.com/track/4eCps1RgnG8Oua8JzxbweS"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "In London",
         "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 148093,
       "name": "Wet Hayshark",
       "url": "https://open.spotify.com/track/6kQHH7KLnEQqzK1gULf0Wd"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "The Complete Recordings, Vol. 5: The Final Chapter",
+        "url": "https://open.spotify.com/album/7eQ9VnRlRUSdmMjQM13Rl3"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Gimme a Pigfoot and a Bottle of Beer",
+      "url": "https://open.spotify.com/track/4eCps1RgnG8Oua8JzxbweS"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
-        "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
-      },
-      "artists": [
-        {
-          "name": "J.B. Lenoir",
-          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
-        }
-      ],
-      "duration_ms": 171533,
-      "name": "Eisenhower Blues - Single Version",
-      "url": "https://open.spotify.com/track/25f2wqT4RFhvGaHh5jxxmH"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "No Border Blues",
         "url": "https://open.spotify.com/album/1kN8Wo5psUgDh4srZEDHB4"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 228826,
       "name": "Old School Player",
       "url": "https://open.spotify.com/track/5WPhSl7le114iqttOLZsiV"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Martin Scorsese Presents The Blues: J.B. Lenoir",
+        "url": "https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt"
+      },
+      "artists": [
+        {
+          "name": "J.B. Lenoir",
+          "url": "https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Eisenhower Blues - Single Version",
+      "url": "https://open.spotify.com/track/25f2wqT4RFhvGaHh5jxxmH"
     },
     {
       "added_at": "2022-12-02 14:28:08",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0pMfpd.md) - [plain]
 
 > This is Mi Banda El Mexicano\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,130 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,146 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0pMfpd.md) - [plain]
 | 15 | [Pelón Pelonete](https://open.spotify.com/track/1WAvL4sqqRDHRMbp96hFaG) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar..\. De Caballito!!](https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5) | 2:47 |
 | 16 | [El Tiki Ta](https://open.spotify.com/track/2Ogr9pqWfrEKh7PGGvC56I) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Pa'que Lo Bailes](https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb) | 3:44 |
 | 17 | [Bailando De Caballito](https://open.spotify.com/track/4wypWBS82iSSvRROk87oNQ) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 4:02 |
-| 18 | [Ven A Bailar](https://open.spotify.com/track/1asf9bx1OzvE8NaTXijT6V) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Ven A Bailar](https://open.spotify.com/album/4KHIwbQeJNifJj64VaVNso) | 3:39 |
-| 19 | [Paloma Blanca](https://open.spotify.com/track/6Kmb4Ev2Zf2xBKvNW9KzWk) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Banda el Mexicano](https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI) | 3:43 |
+| 18 | [Paloma Blanca](https://open.spotify.com/track/6Kmb4Ev2Zf2xBKvNW9KzWk) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Banda el Mexicano](https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI) | 3:43 |
+| 19 | [Ven A Bailar](https://open.spotify.com/track/1asf9bx1OzvE8NaTXijT6V) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Ven A Bailar](https://open.spotify.com/album/4KHIwbQeJNifJj64VaVNso) | 3:39 |
 | 20 | [La Negrita](https://open.spotify.com/track/2siuIOyoD8BPb3UB754kJP) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Pa'que Lo Bailes](https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb) | 3:21 |
 | 21 | [La Flaca](https://open.spotify.com/track/1ch4u7n3GCyUYuLfRi8NAd) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar..\. De Caballito!!](https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5) | 2:51 |
 | 22 | [La Chinita](https://open.spotify.com/track/5W1vsroY1xtc0HdoyGTwnb) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Otra Vez](https://open.spotify.com/album/3sxDYIn1KAZZdDNGHiQGbd) | 3:40 |
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0pMfpd.md) - [plain]
 | 27 | [Burbujas De Amor](https://open.spotify.com/track/5B3DTCOYLv4zgEnAsGpT7d) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Pa'que Lo Bailes](https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb) | 4:53 |
 | 28 | [El Niño Travieso](https://open.spotify.com/track/0tzfM9kn40qyAYKmufLwOV) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Banda el Mexicano](https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI) | 3:24 |
 | 29 | [E, O, E.](https://open.spotify.com/track/1Ac2ySphUSkoVXlBH7JYNd) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [100% Mexicano](https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh) | 3:20 |
-| 30 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/5pTGrOYhX31Ilyr0LMZidJ) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar..\. De Caballito!!](https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5) | 3:15 |
+| 30 | [Me Canso Ganso](https://open.spotify.com/track/0Tj9bh3K60iyNtsiNQIedb) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Me Canso Ganso](https://open.spotify.com/album/00SE74SXNQKz0ldYyM39i3) | 3:15 |
 | 31 | [Botas De Botín](https://open.spotify.com/track/2ckaGhvbzGZ3xRfqvkeIsA) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Pa'que Lo Bailes](https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb) | 2:45 |
-| 32 | [Me Canso Ganso](https://open.spotify.com/track/0Tj9bh3K60iyNtsiNQIedb) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Me Canso Ganso](https://open.spotify.com/album/00SE74SXNQKz0ldYyM39i3) | 3:15 |
+| 32 | [Cómo Te Extraño Mi Amor](https://open.spotify.com/track/5pTGrOYhX31Ilyr0LMZidJ) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [A Bailar..\. De Caballito!!](https://open.spotify.com/album/5gsxJpgVURs0VKVoJbULL5) | 3:15 |
 | 33 | [Lupe](https://open.spotify.com/track/14bNHkved5kkoPebKfoU9j) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Banda el Mexicano](https://open.spotify.com/album/6XS5KBlreLUQlz9OU8ZzaI) | 3:08 |
 | 34 | [Mambo Acelerado \(Merengue Acelera'o\)](https://open.spotify.com/track/3szGgpDpvcxXYYP70GA9OP) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [100% Mexicano](https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh) | 3:59 |
 | 35 | [Las Nachas](https://open.spotify.com/track/2LQ4m8ippuDqoUp1xBNEhh) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Pa'que Lo Bailes](https://open.spotify.com/album/6tOeNZ4Apb6RI68KTisQIb) | 2:40 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0pMfpd.md) - [plain]
 | 48 | [Tu Y Las Nubes](https://open.spotify.com/track/4PG9xHq6APPuMPcqREe9ql) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [El Hijo Desobediente](https://open.spotify.com/album/7bjdR83yDkSaQXBcqkMI6J) | 2:54 |
 | 49 | [Florecilla Del Campo](https://open.spotify.com/track/6IfR3khaeLoBiZZKYuBTL0) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [100% Mexicano](https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh) | 3:17 |
 
-Snapshot ID: `MjgwMzAzOTAsMDAwMDAwMDAyOWM3OTE1M2ZiM2NmMDY4Y2MxNjkyYjc4MzJmNzkyZA==`
+Snapshot ID: `MjgwMzE3ODQsMDAwMDAwMDBhZjA0NWE0YjhmMjcxODE4M2RjYTU2YzE0YTA1MTNlMQ==`

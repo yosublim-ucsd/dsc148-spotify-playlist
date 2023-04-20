@@ -4,7 +4,7 @@
 
 > Inizia la giornata con la tua dose di caffè e carica musicale!
 
-160 songs - 8 hr 29 min
+161 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Brividi](https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Brividi](https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7) | 3:19 | 2022-05-06 | 2022-05-20 |
 | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB) | 3:09 | 2022-05-06 |  |
 | [bye bye](https://open.spotify.com/track/02q60trEKaNAa9oZbGFBW0) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [September Pack](https://open.spotify.com/album/7J1PKPKHqSQKuT3Q0NIgK5) | 3:18 | 2022-05-06 | 2022-07-29 |
-| [Call On Me \(feat\. Georgia Ku\)](https://open.spotify.com/track/3pBv3LfvfPft2TqHleqKHo) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Call On Me \(feat\. Georgia Ku\)](https://open.spotify.com/album/5QMT9mIOJDWUfoDZwUKYvc) | 3:12 | 2022-05-19 |  |
+| [Call On Me \(feat\. Georgia Ku\)](https://open.spotify.com/track/3pBv3LfvfPft2TqHleqKHo) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Call On Me \(feat\. Georgia Ku\)](https://open.spotify.com/album/5QMT9mIOJDWUfoDZwUKYvc) | 3:12 | 2022-05-19 | 2023-04-20 |
 | [Cambia Un Uomo](https://open.spotify.com/track/1fGD6ViCXYsTjS8GSx1tF4) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Cambia Un Uomo](https://open.spotify.com/album/3sYUVurBI4UIMHa80FWTnD) | 3:55 | 2022-05-06 | 2022-05-20 |
 | [Camera 209](https://open.spotify.com/track/4kzEjMwnQE5CWQWHGoNs9t) | [Alessandra Amoroso](https://open.spotify.com/artist/2pjb5ffSoVTr5lRYQXlnPu), [DB Boulevard](https://open.spotify.com/artist/17jVKTope5TIJoBQBTzaxj) | [Camera 209](https://open.spotify.com/album/1nJd7G90gLgYnjKIy4mgDq) | 2:58 | 2022-05-19 | 2022-07-29 |
 | [Can't Get Over You \(feat\. Aloe Blacc\)](https://open.spotify.com/track/46BIpPudYCyNxUTz4f2E8k) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Can't Get Over You \(feat\. Aloe Blacc\)](https://open.spotify.com/album/1dlQZWMYBgvrP0azHKfah3) | 2:39 | 2022-05-06 | 2022-07-29 |
@@ -51,6 +51,7 @@
 | [Dynamite](https://open.spotify.com/track/72wqLtMtkrB0qUw6jSqM0Z) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(NightTime Version\)](https://open.spotify.com/album/7cvsViO3Tg4w5ixs5Aq7mS) | 3:19 | 2022-10-05 | 2022-11-13 |
 | [Dynamite](https://open.spotify.com/track/0fQfJFfngYfG26560HLMLN) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Dynamite](https://open.spotify.com/album/50olq3HtK70p3MOSB9hNj8) | 3:32 | 2022-05-06 | 2022-11-13 |
 | [Electric \- Pokemon 25 Version](https://open.spotify.com/track/63eV5hreY9feQP2CmYavpj) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Electric](https://open.spotify.com/album/2kjyPzcMPYUZlB9CJzu10f) | 3:13 | 2022-05-19 | 2022-05-21 |
+| [Esta Vida](https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Esta Vida](https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL) | 3:29 | 2023-04-19 |  |
 | [farfalle](https://open.spotify.com/track/5HujDMiRNqZwEzVAh3oFD3) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [farfalle](https://open.spotify.com/album/1WCDSnckeIERycPR36vEiZ) | 2:44 | 2022-05-06 | 2022-09-21 |
 | [Fever](https://open.spotify.com/track/3wJVBz7gvGTwTWVAxFa6ny) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Fever](https://open.spotify.com/album/35c9iadFgrCWLY0tuJH23H) | 2:36 | 2022-05-06 |  |
 | [Fireworks](https://open.spotify.com/track/3JhTqa080FiJORsvJ2elUy) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Fireworks](https://open.spotify.com/album/5uWGd67YMRUeSMhGkRb2rT) | 3:20 | 2022-05-06 | 2022-07-29 |

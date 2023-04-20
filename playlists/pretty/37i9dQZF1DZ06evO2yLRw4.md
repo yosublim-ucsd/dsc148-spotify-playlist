@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 
 > This is AWOLNATION\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,980 likes - 48 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,990 likes - 48 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 24 | [Jump on My Shoulders](https://open.spotify.com/track/6H8AKz5NlriFAJ2soLDfSa) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 4:08 |
 | 25 | [flagpole sitta](https://open.spotify.com/track/2IIeiY0ZtqrJLnKZxuLGf1) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [BRAINDEAD](https://open.spotify.com/album/0ljZRCAuKCLVEhqfnw6Ygv) | 3:35 |
 | 26 | [Mayday!!! Fiesta Fever](https://open.spotify.com/track/4Uu7xa2OnZsCRu5RN911na) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Alex Ebert](https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/4lO7GONtjBvEqVDc5UQurZ) | 3:42 |
-| 27 | [Freaking Me Out](https://open.spotify.com/track/3I8U8BMugXc4ZGzAl5IkCc) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Freaking Me Out](https://open.spotify.com/album/4zfYtnA9PxMK3daDkQrqpN) | 3:28 |
-| 28 | [Windows](https://open.spotify.com/track/6eXfVpYZW6v0VhUaNAh3K9) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 3:37 |
+| 27 | [Windows](https://open.spotify.com/track/6eXfVpYZW6v0VhUaNAh3K9) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 3:37 |
+| 28 | [Freaking Me Out](https://open.spotify.com/track/3I8U8BMugXc4ZGzAl5IkCc) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Freaking Me Out](https://open.spotify.com/album/4zfYtnA9PxMK3daDkQrqpN) | 3:28 |
 | 29 | [Maniac \(feat\. Conor Mason of Nothing But Thieves\)](https://open.spotify.com/track/2Qc4hOAjwrmqCtsZRhjzU3) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:01 |
 | 30 | [Slam \(Angel Miners\)](https://open.spotify.com/track/7qVsMCptRS8tf4eIsQVHYR) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/4lO7GONtjBvEqVDc5UQurZ) | 4:48 |
-| 31 | [Radical \(feat\. Grouplove\)](https://open.spotify.com/track/6x6tlwQoLddsOSdbaKDyx6) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Radical \(feat\. Grouplove\)](https://open.spotify.com/album/0oo9h3hC2wlz2JJAgbVST5) | 3:35 |
-| 32 | [MF](https://open.spotify.com/track/6LvMKoA7E62Z2DHJI65koP) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 3:17 |
+| 31 | [MF](https://open.spotify.com/track/6LvMKoA7E62Z2DHJI65koP) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 3:17 |
+| 32 | [Radical \(feat\. Grouplove\)](https://open.spotify.com/track/6x6tlwQoLddsOSdbaKDyx6) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Radical \(feat\. Grouplove\)](https://open.spotify.com/album/0oo9h3hC2wlz2JJAgbVST5) | 3:35 |
 | 33 | [Take A Chance On Me \(feat\. Jewel\)](https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:01 |
 | 34 | [California Halo Blue](https://open.spotify.com/track/6YA5dsZtMM68VkEpbSSpcD) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/4lO7GONtjBvEqVDc5UQurZ) | 3:53 |
 | 35 | [Material Girl \(feat\. Taylor Hanson of Hanson\)](https://open.spotify.com/track/7IyRPhyQIRoCSBnLNLbM36) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Material Girl \(feat\. Taylor Hanson of Hanson\)](https://open.spotify.com/album/5nfPvmgxIqQnGR8J9n8WUh) | 4:09 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2yLRw4.md) - [plain]
 | 47 | [Some Kind of Joke](https://open.spotify.com/track/2VlHWRniOo0XzzXOfovzIA) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 4:52 |
 | 48 | [Swinging from the Castles](https://open.spotify.com/track/6Vr85PSTw31QO9lplFapFL) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 3:02 |
 
-Snapshot ID: `MjgwMzAzOTAsMDAwMDAwMDBlM2I1NTM2MTA4YTJhZTg0MTUxYWYyMWFlMTM1MTdhYw==`
+Snapshot ID: `MjgwMzE3ODMsMDAwMDAwMDA3Mjk2NzAxNTgzZjRlODYzYjEzNGVlMjA0YjU2YTc3MA==`

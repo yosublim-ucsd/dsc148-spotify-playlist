@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVV27DiNWxkR.md) - [plain]
 
 > The premier alternative melancholia playlist, featuring Billie Eillish
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,467,928 likes - 95 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,468,924 likes - 95 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

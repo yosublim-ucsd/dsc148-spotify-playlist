@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 
 > 2010년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,580 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,620 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 28 | [Gotta Go](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Gotta Go](https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx) | 3:41 |
 | 29 | [If It Is You](https://open.spotify.com/track/5i6gHFXg4aLK5xvc2jJJC5) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Another Miss Oh \(Original Television Soundtrack\), Pt 5](https://open.spotify.com/album/02A9jQnxsbsumaRTj3nxQr) | 4:32 |
 | 30 | [BREATHE](https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [SEOULITE](https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf) | 4:48 |
-| 31 | [Perhaps Love \(사랑인가요\) \(Prod.By 박근태\)](https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5) | [에릭남 \(Eric Nam\), CHEEZE \(치즈\)](https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX) | [Your BGM Vol.1](https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4) | 3:59 |
-| 32 | [HANN \(Alone\)](https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HANN \(Alone\)](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) | 3:25 |
+| 31 | [HANN \(Alone\)](https://open.spotify.com/track/7gr57cYekMWriyJYbT7oZ4) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HANN \(Alone\)](https://open.spotify.com/album/4VLR1cDqRIeS86GYSJvlmZ) | 3:25 |
+| 32 | [Perhaps Love \(사랑인가요\) \(Prod.By 박근태\)](https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5) | [에릭남 \(Eric Nam\), CHEEZE \(치즈\)](https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX) | [Your BGM Vol.1](https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4) | 3:59 |
 | 33 | [Good day](https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [REAL](https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh) | 3:53 |
 | 34 | [Energetic](https://open.spotify.com/track/3NkkcnnKrNHv4AiGaPdD76) | [Wanna One](https://open.spotify.com/artist/2CvaqAMMsX576VBehaJ0Wx) | [1\-1=0 \(NOTHING WITHOUT YOU\)](https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8) | 3:09 |
 | 35 | [ALWAYS](https://open.spotify.com/track/4LsMjCB4qt4RnWcJBiHrA6) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Descendants Of The Sun Pt.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/1jLD6zV1si5YCQ7y1oI2hu) | 3:25 |
@@ -69,23 +69,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 59 | [Wi Ing Wi Ing](https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [20](https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO) | 3:14 |
 | 60 | [MAMA](https://open.spotify.com/track/1EvB6tE5CHluLZaWm3r0bT) | [EXO\-K](https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I) | [Mama \- The 1st Mini Album](https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc) | 4:30 |
 | 61 | [Blue](https://open.spotify.com/track/4LOLvDtzykDC7y9WehFoOi) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:53 |
-| 62 | [Hold my hand](https://open.spotify.com/track/0KVClXxsZEKkyWRNXeRFrE) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [My Last Love OST Part.4](https://open.spotify.com/album/58CBwM98Y356zD5AVGZkZG) | 3:15 |
-| 63 | [Catallena](https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [THE THIRD SINGLE CATALLENA](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) | 3:13 |
+| 62 | [Catallena](https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [THE THIRD SINGLE CATALLENA](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) | 3:13 |
+| 63 | [Hold my hand](https://open.spotify.com/track/0KVClXxsZEKkyWRNXeRFrE) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [My Last Love OST Part.4](https://open.spotify.com/album/58CBwM98Y356zD5AVGZkZG) | 3:15 |
 | 64 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 |
 | 65 | [보여줄게](https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Invitation](https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd) | 3:53 |
 | 66 | [Peter Pan](https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:54 |
 | 67 | [Give it to me](https://open.spotify.com/track/1t88m8JUlqn9kf0FLmVta5) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [Give It To Me \(2\)](https://open.spotify.com/album/1nErNFyYvHnuCYvfwrMyoz) | 3:21 |
-| 68 | [Bye bye my blue](https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Bye bye my blue](https://open.spotify.com/album/22qM69DGAvUsSyQfVh8Lgm) | 3:23 |
+| 68 | [Bad Girl Good Girl](https://open.spotify.com/track/7kTKAdVVlDxve6Qr7Hm7Qc) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [A Class](https://open.spotify.com/album/6Ii2g2GfqTzkqtSCpsuA2X) | 3:37 |
 | 69 | [Sherlock \(Clue + Note\)](https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Sherlock \- The 4th Mini Album](https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ) | 3:59 |
 | 70 | [LAST DANCE](https://open.spotify.com/track/7ijWcf4FsoxoyPK4B9WGp6) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 4:39 |
-| 71 | [Bad Girl Good Girl](https://open.spotify.com/track/7kTKAdVVlDxve6Qr7Hm7Qc) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [A Class](https://open.spotify.com/album/6Ii2g2GfqTzkqtSCpsuA2X) | 3:37 |
+| 71 | [Bye bye my blue](https://open.spotify.com/track/1XslqSASDWaMZdjhWa7Jb7) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Bye bye my blue](https://open.spotify.com/album/22qM69DGAvUsSyQfVh8Lgm) | 3:23 |
 | 72 | [STEP](https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [KARA 3rd Album STEP](https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9) | 3:23 |
 | 73 | [200%](https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [PLAY](https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy) | 3:13 |
 | 74 | [Wolf](https://open.spotify.com/track/7n0D1iLva5zp4JcnlIMeVa) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:50 |
 | 75 | [HER](https://open.spotify.com/track/4jQDaI7FRGaDB0llURpnNf) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [HER](https://open.spotify.com/album/5wHs7NGuapCYtY4wWsYMi3) | 2:59 |
 | 76 | [The Boys](https://open.spotify.com/track/4sRQg2aoec0VIvQ7GZPGMy) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [The Boys \- The 3rd Album](https://open.spotify.com/album/4vGkZl9P0sKxupLdJE7ndS) | 3:48 |
-| 77 | [NoNoNo](https://open.spotify.com/track/5SusX17QvBBkH7WfMbTU0j) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Secret Garden](https://open.spotify.com/album/03GKVqpdr6Fi24DeAbgDRs) | 3:40 |
-| 78 | [Hush](https://open.spotify.com/track/0K2UTvyyBPSmr0IccCWNZm) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [HUSH](https://open.spotify.com/album/27FDExxvG3h3XCUcJVlVSY) | 3:06 |
+| 77 | [Hush](https://open.spotify.com/track/0K2UTvyyBPSmr0IccCWNZm) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [HUSH](https://open.spotify.com/album/27FDExxvG3h3XCUcJVlVSY) | 3:06 |
+| 78 | [NoNoNo](https://open.spotify.com/track/5SusX17QvBBkH7WfMbTU0j) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Secret Garden](https://open.spotify.com/album/03GKVqpdr6Fi24DeAbgDRs) | 3:40 |
 | 79 | [LUCIFER](https://open.spotify.com/track/7xAACq6jlGqXw4bNCTYcm6) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Lucifer \- The 2nd Album](https://open.spotify.com/album/4jNPKKJ0NL349RXPx7y9f4) | 3:53 |
 | 80 | [Bubble Pop!](https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Bubble Pop!](https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp) | 3:32 |
 | 81 | [Roly\-Poly](https://open.spotify.com/track/1p9damTV6h7u7THZKZB2tW) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [John Travolta Wanna Be](https://open.spotify.com/album/3phQgRvQwZ0OPzmzoNKaYq) | 3:34 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 96 | [Loner](https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Bluetory](https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O) | 3:37 |
 | 97 | [첫 사랑니 \(Rum Pum Pum Pum\)](https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Pink Tape \- The 2nd Album](https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z) | 3:17 |
 | 98 | [광화문에서 \(At Gwanghwamun\)](https://open.spotify.com/track/1YqGY2dW0a9ocyxaB5PtrR) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [광화문에서 At Gwanghwamun \- The 1st Mini Album](https://open.spotify.com/album/0hfvOkRJnV2eVhdy41bbvv) | 4:42 |
-| 99 | [미인아 Bonamana](https://open.spotify.com/track/2cRTwcRq1idIR9NrcYKb63) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [미인아 \(Bonamana\) \- The 4th Album](https://open.spotify.com/album/7pPLMINIGSzIEczVTCnIxp) | 3:59 |
-| 100 | [Don't Know You](https://open.spotify.com/track/1Zv6zo71iDXH07Lin7hxMg) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [/// \(You, Clouds, Rain\)](https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs) | 3:09 |
+| 99 | [Don't Know You](https://open.spotify.com/track/1Zv6zo71iDXH07Lin7hxMg) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [/// \(You, Clouds, Rain\)](https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs) | 3:09 |
+| 100 | [미인아 Bonamana](https://open.spotify.com/track/2cRTwcRq1idIR9NrcYKb63) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [미인아 \(Bonamana\) \- The 4th Album](https://open.spotify.com/album/7pPLMINIGSzIEczVTCnIxp) | 3:59 |
 
-Snapshot ID: `MTYxNDU2ODA0MiwwMDAwMDAwMDlmMWNlYzdmMjE3ODZhNzM4MjNlZmY1YTA5OWU1M2Q3`
+Snapshot ID: `MTYxNDU2ODA0MiwwMDAwMDAwMDU0YWQ0YThmOTFlNzk2YTUzYzg1NDBkODkxNmI1MmVk`

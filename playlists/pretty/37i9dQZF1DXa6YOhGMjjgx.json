@@ -1,12 +1,12 @@
 {
   "description": "The best of today's true alternative rock scene. Cover: The Luka State",
-  "num_followers": 471492,
+  "num_followers": 471512,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGNhYTE3OWM0NjkxYzdlMTViMzExY2MxOWJiYzQyMjM5",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDVlMzNlMjJmY2U2MTc1MTE5NDlkZDgxMTJjYWI4MzEx",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Amazing Things",
-        "url": "https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH"
-      },
-      "artists": [
-        {
-          "name": "DON BROCO",
-          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
-        }
-      ],
-      "duration_ms": 238783,
-      "name": "One True Prince",
-      "url": "https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Do It Faster",
         "url": "https://open.spotify.com/album/6jyBZs0lDqpuoeyFJ5LWhs"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 107665,
       "name": "Do It Faster",
       "url": "https://open.spotify.com/track/3ZTvrQhqEqHvYThM5CV6WE"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Amazing Things",
+        "url": "https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH"
+      },
+      "artists": [
+        {
+          "name": "DON BROCO",
+          "url": "https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia"
+        }
+      ],
+      "duration_ms": 238783,
+      "name": "One True Prince",
+      "url": "https://open.spotify.com/track/2hKLUK0YursR0laSpeJDun"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Leader of the Pack",
-        "url": "https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 183466,
-      "name": "Leader of the Pack",
-      "url": "https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "-!-",
         "url": "https://open.spotify.com/album/00NKrA90xCjPCMvR0CdvVl"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 261680,
       "name": "I Never Loved Myself Like I Loved You",
       "url": "https://open.spotify.com/track/1ue6hDpQnActsuH661uCYR"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Leader of the Pack",
+        "url": "https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 183466,
+      "name": "Leader of the Pack",
+      "url": "https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Applause",
-        "url": "https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4"
-      },
-      "artists": [
-        {
-          "name": "Liily",
-          "url": "https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "Applause",
-      "url": "https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Earth Is A Black Hole",
         "url": "https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 175577,
       "name": "Earth Is A Black Hole",
       "url": "https://open.spotify.com/track/13a2v5JNOROuvh2MBMWxqb"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Applause",
+        "url": "https://open.spotify.com/album/6QOI3b1Lj3eaSzBwVir0s4"
+      },
+      "artists": [
+        {
+          "name": "Liily",
+          "url": "https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Applause",
+      "url": "https://open.spotify.com/track/3vTehy2tTrXyEeOieYFEAd"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Need You No More",
-        "url": "https://open.spotify.com/album/6R32sE46xgopHel6O69Hhm"
-      },
-      "artists": [
-        {
-          "name": "Chappaqua Wrestling",
-          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
-        }
-      ],
-      "duration_ms": 198133,
-      "name": "Need You No More",
-      "url": "https://open.spotify.com/track/52wTxB7XWwR0Ix6zT57PM0"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Flood Into",
         "url": "https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 181593,
       "name": "Flood Into",
       "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Need You No More",
+        "url": "https://open.spotify.com/album/6R32sE46xgopHel6O69Hhm"
+      },
+      "artists": [
+        {
+          "name": "Chappaqua Wrestling",
+          "url": "https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "Need You No More",
+      "url": "https://open.spotify.com/track/52wTxB7XWwR0Ix6zT57PM0"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "She Said",
-        "url": "https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk"
-      },
-      "artists": [
-        {
-          "name": "Starcrawler",
-          "url": "https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i"
-        }
-      ],
-      "duration_ms": 241334,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/02VlDdPkrqytJL6s130GSu"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/4gjHlfP5ER93yV0OlPXTty"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 197777,
       "name": "These Days",
       "url": "https://open.spotify.com/track/6MykakiRHTZLF9zmCEtWBD"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "She Said",
+        "url": "https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk"
+      },
+      "artists": [
+        {
+          "name": "Starcrawler",
+          "url": "https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i"
+        }
+      ],
+      "duration_ms": 241334,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/02VlDdPkrqytJL6s130GSu"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Eye For An Eye",
-        "url": "https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY"
+        "name": "STATUES (v2)",
+        "url": "https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH"
       },
       "artists": [
         {
-          "name": "Loose Lips",
-          "url": "https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND"
+          "name": "George Barnett",
+          "url": "https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN"
         }
       ],
-      "duration_ms": 184931,
-      "name": "Eye For An Eye",
-      "url": "https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt"
+      "duration_ms": 293354,
+      "name": "STATUES (v2)",
+      "url": "https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "STATUES (v2)",
-        "url": "https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH"
+        "name": "Eye For An Eye",
+        "url": "https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY"
       },
       "artists": [
         {
-          "name": "George Barnett",
-          "url": "https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN"
+          "name": "Loose Lips",
+          "url": "https://open.spotify.com/artist/0n5RkUf3LWm4kBn5i1OeND"
         }
       ],
-      "duration_ms": 293354,
-      "name": "STATUES (v2)",
-      "url": "https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk"
+      "duration_ms": 184931,
+      "name": "Eye For An Eye",
+      "url": "https://open.spotify.com/track/7HWbp4lGZ3vsG4n0BRWiUt"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Magical Touch",
-        "url": "https://open.spotify.com/album/7mjpdXg6otVZ4MRLniB1YU"
-      },
-      "artists": [
-        {
-          "name": "The Wans",
-          "url": "https://open.spotify.com/artist/4uH9k7FTheXWBKwuML8kjn"
-        }
-      ],
-      "duration_ms": 188746,
-      "name": "Magical Touch",
-      "url": "https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Pay the Price",
         "url": "https://open.spotify.com/album/3Fm8Xv3BLPJ9OgCTwX3kT4"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 216108,
       "name": "Pay the Price",
       "url": "https://open.spotify.com/track/2nHMLYKRSpRlVPR75PNZUc"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Magical Touch",
+        "url": "https://open.spotify.com/album/7mjpdXg6otVZ4MRLniB1YU"
+      },
+      "artists": [
+        {
+          "name": "The Wans",
+          "url": "https://open.spotify.com/artist/4uH9k7FTheXWBKwuML8kjn"
+        }
+      ],
+      "duration_ms": 188746,
+      "name": "Magical Touch",
+      "url": "https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Double Down",
-        "url": "https://open.spotify.com/album/1oUmvbtZKZZDWruIy5DdZ8"
-      },
-      "artists": [
-        {
-          "name": "Slothrust",
-          "url": "https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "Double Down - 2019 Mix",
-      "url": "https://open.spotify.com/track/6sxtXvoNeOnavXqlIceWch"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Fallout",
         "url": "https://open.spotify.com/album/4aJg7v8OFeEidai6W5yUJ4"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 166834,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/0J4mhjqMTQjtdDDp92lZl5"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Double Down",
+        "url": "https://open.spotify.com/album/1oUmvbtZKZZDWruIy5DdZ8"
+      },
+      "artists": [
+        {
+          "name": "Slothrust",
+          "url": "https://open.spotify.com/artist/6Nwhmo3adbTqPMCsgBgkf4"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "Double Down - 2019 Mix",
+      "url": "https://open.spotify.com/track/6sxtXvoNeOnavXqlIceWch"
     },
     {
       "added_at": "2023-03-17 04:00:00",

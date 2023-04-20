@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 
 > Folk punk, anti\-folk, acoustic punk & more\. Cover: The Moldy Peaches
 
-[Spotify](https://open.spotify.com/user/spotify) - 682 likes - 54 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 688 likes - 54 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,17 +21,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 11 | [Nights Like These](https://open.spotify.com/track/7s7KOxwTHHnVBmtphJKWRk) | [Pigeon Pit](https://open.spotify.com/artist/4Bmvzoo0CzEGV4EczcG9rv) | [Shut In](https://open.spotify.com/album/2vvB2Q0Hyekckd7ic6wOrf) | 2:01 |
 | 12 | [Runs in the Family](https://open.spotify.com/track/0GdiWLQt5VYtMEcero6AOW) | [Amanda Palmer](https://open.spotify.com/artist/726Dh6A5VyDfAAQxilT6A0) | [Who Killed Amanda Palmer \(Deluxe Version\)](https://open.spotify.com/album/55MoQXHYxkNlD5lxZOjoeG) | 2:44 |
 | 13 | [The Voice In My Head](https://open.spotify.com/track/2pLBgqBQxTqrUN1jCn8M8B) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [The Voice In My Head](https://open.spotify.com/album/4M3uXTjbtdPBBiMGtNGCa1) | 1:58 |
-| 14 | [Tire Swing](https://open.spotify.com/track/0vbhRDi46TDNHkhKbZa81B) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Remember That I Love You](https://open.spotify.com/album/7bc415JbeoQAJAPsc8fGyn) | 3:08 |
-| 15 | [Don't Carry It All](https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [The King Is Dead](https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F) | 4:16 |
-| 16 | [The Mask And The Mirror](https://open.spotify.com/track/07FWyhzw3hxJb8uFBmfMP1) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [The Great Big Lie](https://open.spotify.com/album/5dRcZuEijcy8xMfSaRjtk8) | 3:09 |
+| 14 | [The Mask And The Mirror](https://open.spotify.com/track/07FWyhzw3hxJb8uFBmfMP1) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [The Great Big Lie](https://open.spotify.com/album/5dRcZuEijcy8xMfSaRjtk8) | 3:09 |
+| 15 | [Tire Swing](https://open.spotify.com/track/0vbhRDi46TDNHkhKbZa81B) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Remember That I Love You](https://open.spotify.com/album/7bc415JbeoQAJAPsc8fGyn) | 3:08 |
+| 16 | [Don't Carry It All](https://open.spotify.com/track/2UODQhPzz51lssoMPOlfy5) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2) | [The King Is Dead](https://open.spotify.com/album/3hd8GiXOy4KUTxVDVUDT5F) | 4:16 |
 | 17 | [Gotta Get To Peekskill \(feat\. Violent Femmes\)](https://open.spotify.com/track/17hb9Umsj8gB9dsRnyRX9J) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Gotta Get To Peekskill \(feat\. Violent Femmes\)](https://open.spotify.com/album/3LKeCdJ9O8Y9aW6UADSE26) | 2:46 |
 | 18 | [It's Ok I Wouldn't Remember Me Either](https://open.spotify.com/track/4qvHA882fJyA5XhMF8sDhy) | [Crywank](https://open.spotify.com/artist/7gzXeFUDWz0aqhikdkOJxQ) | [Narcissist on the Verge of a Nervous Breakdown](https://open.spotify.com/album/0rU30JMeAM6tFaSfsN6345) | 3:04 |
 | 19 | [Body Terror Song](https://open.spotify.com/track/3D1PuFi2U8lmtdWRZcCz1f) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Good Luck Everybody](https://open.spotify.com/album/2SvkUGRbWkrnsytUsINzf6) | 2:37 |
 | 20 | [Life Time Warranty](https://open.spotify.com/track/4vxsJyTGsAxnXWDuYseeQP) | [Cyberbully Mom Club](https://open.spotify.com/artist/5IZVaIBkyx1ivCXLfpeJXT) | [Amy Locust Whatever](https://open.spotify.com/album/16IBrGQxR5nAVvMVPpP2NE) | 3:23 |
 | 21 | [I'm not a good person](https://open.spotify.com/track/27wOKBP8KERkFP2sqqHloH) | [Pat The Bunny](https://open.spotify.com/artist/3aMGHrEKTeVquvDzpvVcct) | [Probably Nothing, Possibly Everything](https://open.spotify.com/album/1mdup5fgvCJcq2eZzuSUzA) | 2:54 |
-| 22 | [Soup Song](https://open.spotify.com/track/3kfqthibmWsfYyCApilYPm) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Soup Song](https://open.spotify.com/album/2l3QigfQrALpDyAkvN6Hl8) | 2:30 |
-| 23 | [Neutral Spirit Hotel](https://open.spotify.com/track/7fedx2UvrXO8ncNOi3c4Fv) | [Local News Legend](https://open.spotify.com/artist/1EmAfvxlLwPpJRJ3hc6zr1) | [Split Peas](https://open.spotify.com/album/60r12R9DFHvufd5Nwhj3v5) | 1:28 |
-| 24 | [Loose Lips](https://open.spotify.com/track/3v9YeMpkmyHhtdazNUEvNq) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Remember That I Love You](https://open.spotify.com/album/7bc415JbeoQAJAPsc8fGyn) | 2:27 |
+| 22 | [Loose Lips](https://open.spotify.com/track/3v9YeMpkmyHhtdazNUEvNq) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Remember That I Love You](https://open.spotify.com/album/7bc415JbeoQAJAPsc8fGyn) | 2:27 |
+| 23 | [Soup Song](https://open.spotify.com/track/3kfqthibmWsfYyCApilYPm) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Soup Song](https://open.spotify.com/album/2l3QigfQrALpDyAkvN6Hl8) | 2:30 |
+| 24 | [Neutral Spirit Hotel](https://open.spotify.com/track/7fedx2UvrXO8ncNOi3c4Fv) | [Local News Legend](https://open.spotify.com/artist/1EmAfvxlLwPpJRJ3hc6zr1) | [Split Peas](https://open.spotify.com/album/60r12R9DFHvufd5Nwhj3v5) | 1:28 |
 | 25 | [I Know How It Feels](https://open.spotify.com/track/3gd0PGrjI49TL1keClyFBh) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [I Know How It Feels](https://open.spotify.com/album/5yWpmbHjwTVx2sVTkrr8KI) | 2:46 |
 | 26 | [Coffee, God, And Cigarettes](https://open.spotify.com/track/0SQmgir2AkvVKa3snPcn2z) | [Mischief Brew](https://open.spotify.com/artist/73U1Zb71I5JwgC1qVqZ8NO) | [Songs From Under The Sink](https://open.spotify.com/album/1Adkukn6Z9MjyI1bw53nh9) | 2:20 |
 | 27 | [Obligatory Folk Punk Song](https://open.spotify.com/track/79AVLbzsAOiOllE7qjA5kD) | [Panucci's Pizza](https://open.spotify.com/artist/5GLpYMkUSUNq5kLLeBovSi) | [All The Toppings](https://open.spotify.com/album/0kWAem2AsVbx5FSkfWX4GC) | 1:51 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 53 | [Be Happy](https://open.spotify.com/track/6fzlvBtOkL1LNKyrToxVwi) | [A Day Without Love](https://open.spotify.com/artist/09JoYdZo9cekYMqyN1bsGD) | [Be Happy, Today](https://open.spotify.com/album/1dsdPI01rcf6eRHYJTsu1H) | 3:00 |
 | 54 | [Cup of Water](https://open.spotify.com/track/2WxO2FZlWAMz5joaAry6CU) | [Billy Mack Collector](https://open.spotify.com/artist/1e7Ac48NUTW8s93OMz7FWE) | [Songs About Water and Trying to Feel Okay](https://open.spotify.com/album/5JZfn7wYHxgbEbJRs2vb79) | 4:00 |
 
-Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMGY4ZGU5NDVhMDJkZGIzYjIwYzUxODZlMTFmMjg1NGJm`
+Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDU5MTZlNmE0MjA0NzUyZjAyYTJiM2QxZTVlYTU0NmNk`

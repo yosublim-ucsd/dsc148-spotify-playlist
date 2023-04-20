@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 
 > This is The Offspring\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,926 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,067 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ou9Mc.md) - [plain]
 | 49 | [Takes Me Nowhere](https://open.spotify.com/track/0IsjJJXTH3DzoQ13M3kK2A) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 2:59 |
 | 50 | [I Choose](https://open.spotify.com/track/19cjuo0y4w2my2GcybUunG) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 3:54 |
 
-Snapshot ID: `MjgwMzAzOTAsMDAwMDAwMDA5NGQzNjcwNzc3NmRjNjE4ZTIxODQ5OWY3ZGFjOGZjMg==`
+Snapshot ID: `MjgwMzE3ODMsMDAwMDAwMDAxMmZhODhjMzBhMTg0NzdhYjczYTE1NTFiOTZkYmQzNw==`

@@ -1,12 +1,12 @@
 {
   "description": "If you're going to be sad, at least let it be with Bad Bunny\ud83d\udc94",
-  "num_followers": 218284,
+  "num_followers": 218527,
   "original_name": "Sad Bunny :(",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg4MDUwNiwwMDAwMDAwMDYyYWJjZjIwZmFkNTFjY2IwYjE5ODRjN2EzMTU1ZmFh",
+  "snapshot_id": "MTY3Nzg4MDUwNiwwMDAwMDAwMDUzNTIyMzFhYmM1ZTY0MGY3OWRkYTZjYmIwYzI0NzM3",
   "tracks": [
     {
       "added_at": "2023-03-03 21:55:06",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-03-03 21:55:06",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 159282,
-      "name": "Soli\u00e1",
-      "url": "https://open.spotify.com/track/7sOfmPd18RWp3FoCzpa7Kw"
-    },
-    {
-      "added_at": "2023-03-03 21:55:06",
-      "album": {
         "name": "EL \u00daLTIMO TOUR DEL MUNDO",
         "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 217768,
       "name": "HACIENDO QUE ME AMAS",
       "url": "https://open.spotify.com/track/26QApq0cuO9brJigr0C0W4"
+    },
+    {
+      "added_at": "2023-03-03 21:55:06",
+      "album": {
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 159282,
+      "name": "Soli\u00e1",
+      "url": "https://open.spotify.com/track/7sOfmPd18RWp3FoCzpa7Kw"
     },
     {
       "added_at": "2023-03-03 21:55:06",

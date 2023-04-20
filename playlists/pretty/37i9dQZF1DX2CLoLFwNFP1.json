@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 19398,
+  "num_followers": 19484,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI1Nzk2OCwwMDAwMDAwMDFhMWY1Zjg0M2FlMWZjZmU5NTViYzA3Y2ExY2ZjM2Fl",
+  "snapshot_id": "MTY4MDI1Nzk2OCwwMDAwMDAwMGZiZmMwZjUwNGRiNmI5ZjkwZmQ0NWQzMDRjYjQxZjA2",
   "tracks": [
     {
       "added_at": "2023-02-22 06:37:37",
@@ -1120,9 +1120,9 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 178442,
-      "name": "Deep Sea DRIP",
-      "url": "https://open.spotify.com/track/1EayMTMyCtRRwZN1KAUPmW"
+      "duration_ms": 169325,
+      "name": "Wegun Is My DJ",
+      "url": "https://open.spotify.com/track/51UySSlGzD8HLk99x60pdq"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -1140,9 +1140,9 @@
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 169325,
-      "name": "Wegun Is My DJ",
-      "url": "https://open.spotify.com/track/51UySSlGzD8HLk99x60pdq"
+      "duration_ms": 178442,
+      "name": "Deep Sea DRIP",
+      "url": "https://open.spotify.com/track/1EayMTMyCtRRwZN1KAUPmW"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -1209,7 +1209,7 @@
       "url": "https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1"
     },
     {
-      "added_at": "2023-04-19 00:26:56",
+      "added_at": "2023-04-20 00:34:49",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
@@ -1883,26 +1883,6 @@
     {
       "added_at": "2023-02-22 06:37:37",
       "album": {
-        "name": "Ask Bout Me",
-        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "Yacht (feat. Vic Mensa)",
-      "url": "https://open.spotify.com/track/4qyXiEXiOfSxqn3YrY0NKW"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
         "name": "ENGINE",
         "url": "https://open.spotify.com/album/40yU5SspOUsFIXuafyq1M1"
       },
@@ -1919,6 +1899,26 @@
       "duration_ms": 220717,
       "name": "ENGINE (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/4xWuQN8WMqLE8LRqkIiVmr"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
+        "name": "Ask Bout Me",
+        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "Yacht (feat. Vic Mensa)",
+      "url": "https://open.spotify.com/track/4qyXiEXiOfSxqn3YrY0NKW"
     },
     {
       "added_at": "2023-02-22 06:37:37",
@@ -2170,6 +2170,26 @@
         {
           "name": "Ugly Duck",
           "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
+        }
+      ],
+      "duration_ms": 277509,
+      "name": "Ain\u2019t No Party Like an AOMG Party",
+      "url": "https://open.spotify.com/track/6T9kR3QShDs0E8HCxxcEpA"
+    },
+    {
+      "added_at": "2023-02-22 06:37:37",
+      "album": {
+        "name": "Scene Stealers",
+        "url": "https://open.spotify.com/album/01NUcsaXDsn4JH9RgDeZPe"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Ugly Duck",
+          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
         },
         {
           "name": "Loco",
@@ -2187,26 +2207,6 @@
       "duration_ms": 322806,
       "name": "Who You - Remix",
       "url": "https://open.spotify.com/track/2ByIPJqORZEkOGrNbTgnCj"
-    },
-    {
-      "added_at": "2023-02-22 06:37:37",
-      "album": {
-        "name": "Scene Stealers",
-        "url": "https://open.spotify.com/album/01NUcsaXDsn4JH9RgDeZPe"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Ugly Duck",
-          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
-        }
-      ],
-      "duration_ms": 277509,
-      "name": "Ain\u2019t No Party Like an AOMG Party",
-      "url": "https://open.spotify.com/track/6T9kR3QShDs0E8HCxxcEpA"
     },
     {
       "added_at": "2023-02-22 06:37:37",

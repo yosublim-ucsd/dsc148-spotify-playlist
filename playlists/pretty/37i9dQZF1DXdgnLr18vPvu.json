@@ -1,12 +1,12 @@
 {
   "description": "The right music can make a good tailgate great.",
-  "num_followers": 811432,
+  "num_followers": 811440,
   "original_name": "Tailgate Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTMwMDY1NSwwMDAwMDAwMDQyNzQ1N2E1YzdlNDhlZDdlMzc1MTkxZTk3NjU2Njdh",
+  "snapshot_id": "MTY3NTMwMDY1NSwwMDAwMDAwMDA4NjBmN2RhZGMxMTFlMWFjOGMxNDY4ZGIwNDE2ZDMy",
   "tracks": [
     {
       "added_at": "2023-02-02 01:17:35",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "A Lot About Livin' (And A Little 'Bout Love)",
-        "url": "https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 148160,
-      "name": "Chattahoochee",
-      "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
-    },
-    {
-      "added_at": "2023-02-02 01:17:35",
-      "album": {
         "name": "Chief",
         "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
@@ -455,18 +439,18 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/3eI6PUZit1cF2ty6l7sXjI"
+        "name": "A Lot About Livin' (And A Little 'Bout Love)",
+        "url": "https://open.spotify.com/album/79yCfWigSGt94zi1CIkkJZ"
       },
       "artists": [
         {
-          "name": "Nitty Gritty Dirt Band",
-          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 201986,
-      "name": "Fishing In The Dark",
-      "url": "https://open.spotify.com/track/3i5QyEUyXa9Y7lIklr5sWk"
+      "duration_ms": 148160,
+      "name": "Chattahoochee",
+      "url": "https://open.spotify.com/track/59kHPbwyyCApYA8RQQEuXm"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -483,6 +467,22 @@
       "duration_ms": 182960,
       "name": "American Kids",
       "url": "https://open.spotify.com/track/1dgWTMoHwTUnQhOQ8SR5fV"
+    },
+    {
+      "added_at": "2023-02-02 01:17:35",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/3eI6PUZit1cF2ty6l7sXjI"
+      },
+      "artists": [
+        {
+          "name": "Nitty Gritty Dirt Band",
+          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+        }
+      ],
+      "duration_ms": 201986,
+      "name": "Fishing In The Dark",
+      "url": "https://open.spotify.com/track/3i5QyEUyXa9Y7lIklr5sWk"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "JoDee Messina",
-        "url": "https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn"
-      },
-      "artists": [
-        {
-          "name": "Jo Dee Messina",
-          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "Heads Carolina, Tails California",
-      "url": "https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa"
-    },
-    {
-      "added_at": "2023-02-02 01:17:35",
-      "album": {
         "name": "On The Rocks",
         "url": "https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 220800,
       "name": "Drinkin' Problem",
       "url": "https://open.spotify.com/track/1vBpwxsLVwaR4evBIaFmqD"
+    },
+    {
+      "added_at": "2023-02-02 01:17:35",
+      "album": {
+        "name": "JoDee Messina",
+        "url": "https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn"
+      },
+      "artists": [
+        {
+          "name": "Jo Dee Messina",
+          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "Heads Carolina, Tails California",
+      "url": "https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -795,18 +795,18 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "Honkytonk University",
-        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 227840,
-      "name": "As Good As I Once Was",
-      "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
+      "duration_ms": 174254,
+      "name": "Take It From Me",
+      "url": "https://open.spotify.com/track/3dCZm5HrG0jIXAHfNkg2H0"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
+        "name": "Honkytonk University",
+        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
       },
       "artists": [
         {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 174254,
-      "name": "Take It From Me",
-      "url": "https://open.spotify.com/track/3dCZm5HrG0jIXAHfNkg2H0"
+      "duration_ms": 227840,
+      "name": "As Good As I Once Was",
+      "url": "https://open.spotify.com/track/7G6l2FtQyRhQgYgut2I6i8"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8"
+        "name": "Home State",
+        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
         }
       ],
-      "duration_ms": 205706,
-      "name": "I Like It, I Love It",
-      "url": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R"
+      "duration_ms": 182666,
+      "name": "Singles You Up",
+      "url": "https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -959,6 +959,22 @@
       "duration_ms": 185906,
       "name": "How Country Feels",
       "url": "https://open.spotify.com/track/6aUhfNWYnMThF3TGtuYUUu"
+    },
+    {
+      "added_at": "2023-02-02 01:17:35",
+      "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/6l9E1hjtJqivhVIageAWM8"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 205706,
+      "name": "I Like It, I Love It",
+      "url": "https://open.spotify.com/track/3IvcWWehbBcBR4YZxlGM9R"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -1003,22 +1019,6 @@
       "duration_ms": 174680,
       "name": "Beers On Me",
       "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
-    },
-    {
-      "added_at": "2023-02-02 01:17:35",
-      "album": {
-        "name": "Home State",
-        "url": "https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Singles You Up",
-      "url": "https://open.spotify.com/track/4LiMQ6G9n84rDUBs9wtwz6"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 211306,
-      "name": "Should've Been A Cowboy",
-      "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
-    },
-    {
-      "added_at": "2023-02-02 01:17:35",
-      "album": {
         "name": "Happy Endings",
         "url": "https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V"
       },
@@ -1203,6 +1187,38 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 211306,
+      "name": "Should've Been A Cowboy",
+      "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
+    },
+    {
+      "added_at": "2023-02-02 01:17:35",
+      "album": {
+        "name": "Cole Swindell",
+        "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 196746,
+      "name": "Chillin' It",
+      "url": "https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ"
+    },
+    {
+      "added_at": "2023-02-02 01:17:35",
+      "album": {
         "name": "Did I Shave My Legs For This?",
         "url": "https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 291533,
       "name": "Strawberry Wine",
       "url": "https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH"
-    },
-    {
-      "added_at": "2023-02-02 01:17:35",
-      "album": {
-        "name": "Like I Love Country Music",
-        "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 234340,
-      "name": "Like I Love Country Music",
-      "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -1255,22 +1255,18 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "One Too Many",
-        "url": "https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9"
+        "name": "Like I Love Country Music",
+        "url": "https://open.spotify.com/album/6IXSaIsyP9LbtccncAs2Gg"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
-        },
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
         }
       ],
-      "duration_ms": 203893,
-      "name": "One Too Many",
-      "url": "https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw"
+      "duration_ms": 234340,
+      "name": "Like I Love Country Music",
+      "url": "https://open.spotify.com/track/3j1xkzTW8owIphkWV51V9s"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -1295,18 +1291,22 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "Cole Swindell",
-        "url": "https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH"
+        "name": "One Too Many",
+        "url": "https://open.spotify.com/album/5j5ngp5GBH7zW3RhHljRK9"
       },
       "artists": [
         {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 196746,
-      "name": "Chillin' It",
-      "url": "https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ"
+      "duration_ms": 203893,
+      "name": "One Too Many",
+      "url": "https://open.spotify.com/track/5NUXE8W12lWcUXgJRCjeEw"
     },
     {
       "added_at": "2023-02-02 01:17:35",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-02-02 01:17:35",
       "album": {
-        "name": "Old Dominion",
-        "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Make It Sweet",
-      "url": "https://open.spotify.com/track/3Mnr3yyQk1aUPYgbpOQE31"
-    },
-    {
-      "added_at": "2023-02-02 01:17:35",
-      "album": {
         "name": "Real Friends",
         "url": "https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 165586,
       "name": "Good Vibes",
       "url": "https://open.spotify.com/track/1XVqh0dC0PIl72f2mQhsVt"
+    },
+    {
+      "added_at": "2023-02-02 01:17:35",
+      "album": {
+        "name": "Old Dominion",
+        "url": "https://open.spotify.com/album/0eu2mZjF6JQTuLCu9ils6m"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Make It Sweet",
+      "url": "https://open.spotify.com/track/3Mnr3yyQk1aUPYgbpOQE31"
     },
     {
       "added_at": "2023-02-02 01:17:35",

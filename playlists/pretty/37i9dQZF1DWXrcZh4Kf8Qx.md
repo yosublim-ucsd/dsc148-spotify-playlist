@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrcZh4Kf8Qx.md) - [plain]
 
 > All 70s, all ballads\. Cover: Barbra Streisand
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,496 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,674 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrcZh4Kf8Qx.md) - [plain]
 | 43 | [You've Got a Friend](https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 5:08 |
 | 44 | [We're All Alone](https://open.spotify.com/track/2QDnRMFfnes9DUWc6HgixI) | [Rita Coolidge](https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW) | [Anytime..\. Anywhere](https://open.spotify.com/album/3IcnPxM10hCMb6W2gCapAY) | 3:40 |
 | 45 | [You Needed Me](https://open.spotify.com/track/5d4E1hgkLyb7sXr5J3InnM) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Let's Keep It That Way](https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR) | 3:40 |
-| 46 | [Don't It Make My Brown Eyes Blue](https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [We Must Believe In Magic](https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8) | 2:37 |
-| 47 | [Take It to the Limit \- 2013 Remaster](https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 4:47 |
+| 46 | [Take It to the Limit \- 2013 Remaster](https://open.spotify.com/track/2cWHN0WK52RGAWHgaDamUA) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 4:47 |
+| 47 | [Don't It Make My Brown Eyes Blue](https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [We Must Believe In Magic](https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8) | 2:37 |
 | 48 | [Honesty](https://open.spotify.com/track/34E0Higz6fFVXlbVsn6TIW) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [52nd Street](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) | 3:53 |
 | 49 | [Just When I Needed You Most](https://open.spotify.com/track/55wl56WlKI85UBNZoFxe9P) | [Randy VanWarmer](https://open.spotify.com/artist/6IRQiyNmNGjGlrmEl0iArm) | [Warmer](https://open.spotify.com/album/4SpkNYHb0pnT9n6gEqkSvM) | 4:01 |
 | 50 | [Sorry Seems To Be The Hardest Word](https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Blue Moves](https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2) | 3:48 |
 
-Snapshot ID: `MTY3MjY4MTQ5NiwwMDAwMDAwMDk2ZDdmZjE1MDU2NWJlMTM1ZGIyNGI3N2M5MWUyNmQ5`
+Snapshot ID: `MTY3MjY4MTQ5NiwwMDAwMDAwMGI5ODA5YWU1MDYyMmNlZjJlMzUyMjMwM2FlYzU2NzQz`

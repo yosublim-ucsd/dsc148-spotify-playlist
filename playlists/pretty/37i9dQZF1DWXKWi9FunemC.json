@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 203179,
+  "num_followers": 203385,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODg4NzE1OSwwMDAwMDAwMDU0YjMyYmVmYTZjYjdjZTdiN2EzZTI0NWQyZTY4ZjBj",
+  "snapshot_id": "MTU5ODg4NzE1OSwwMDAwMDAwMGJlZjk5ZjcxMDRmZGJiZjU3Njk4MjA1YzIzNDg2N2Ew",
   "tracks": [
     {
       "added_at": "2020-08-31 15:19:19",
@@ -407,22 +407,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn"
-      },
-      "artists": [
-        {
-          "name": "Tori Harper",
-          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
-        }
-      ],
-      "duration_ms": 248299,
-      "name": "After Dark",
-      "url": "https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "There Is More (Live)",
         "url": "https://open.spotify.com/album/69o0gRM65PIT2vgZ72XTZm"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 191920,
       "name": "Who You Say I Am - Live/Acoustic",
       "url": "https://open.spotify.com/track/51Q6EroQAuMerQf0Nvfrdh"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn"
+      },
+      "artists": [
+        {
+          "name": "Tori Harper",
+          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
+        }
+      ],
+      "duration_ms": 248299,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -803,22 +803,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Raise a Hallelujah (Acoustic)",
-        "url": "https://open.spotify.com/album/1PYuHatpVpavaTCBi6tidn"
-      },
-      "artists": [
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        }
-      ],
-      "duration_ms": 303176,
-      "name": "Raise a Hallelujah (Acoustic)",
-      "url": "https://open.spotify.com/track/6PJpu9oZI9OXKTx2sBH2CL"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "When It Comes to You",
         "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 335299,
       "name": "Goodness",
       "url": "https://open.spotify.com/track/3JyI1zIVyM1N7wb7Qylro6"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Raise a Hallelujah (Acoustic)",
+        "url": "https://open.spotify.com/album/1PYuHatpVpavaTCBi6tidn"
+      },
+      "artists": [
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        }
+      ],
+      "duration_ms": 303176,
+      "name": "Raise a Hallelujah (Acoustic)",
+      "url": "https://open.spotify.com/track/6PJpu9oZI9OXKTx2sBH2CL"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -883,22 +883,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Soul's on Fire",
-        "url": "https://open.spotify.com/album/6DcpeOj7clMeg7hD4ZPt33"
-      },
-      "artists": [
-        {
-          "name": "Sam Wilson",
-          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
-        }
-      ],
-      "duration_ms": 209545,
-      "name": "Soul's on Fire",
-      "url": "https://open.spotify.com/track/3Lj0mxiDfTDxr5ADKKlxJQ"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "All In",
         "url": "https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 188563,
       "name": "Broken Things - Acoustic",
       "url": "https://open.spotify.com/track/3WNw8qXIN8PnOqoVgYXCEl"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Soul's on Fire",
+        "url": "https://open.spotify.com/album/6DcpeOj7clMeg7hD4ZPt33"
+      },
+      "artists": [
+        {
+          "name": "Sam Wilson",
+          "url": "https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5"
+        }
+      ],
+      "duration_ms": 209545,
+      "name": "Soul's on Fire",
+      "url": "https://open.spotify.com/track/3Lj0mxiDfTDxr5ADKKlxJQ"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -987,38 +987,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Find My Home",
-        "url": "https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy"
-      },
-      "artists": [
-        {
-          "name": "Shiny Penny",
-          "url": "https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy"
-        }
-      ],
-      "duration_ms": 260173,
-      "name": "Find My Home",
-      "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
-      },
-      "artists": [
-        {
-          "name": "Grant Leslie",
-          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
-        }
-      ],
-      "duration_ms": 277565,
-      "name": "Refuge",
-      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Wide Place",
         "url": "https://open.spotify.com/album/7crZBLTSSyZruPHligC2sp"
       },
@@ -1067,6 +1035,54 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
+      },
+      "artists": [
+        {
+          "name": "Grant Leslie",
+          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
+        }
+      ],
+      "duration_ms": 277565,
+      "name": "Refuge",
+      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Find My Home",
+        "url": "https://open.spotify.com/album/64CTIXrru4VpjjUQi2MWLy"
+      },
+      "artists": [
+        {
+          "name": "Shiny Penny",
+          "url": "https://open.spotify.com/artist/7IL4gxLGehk1CQJFkzKBUy"
+        }
+      ],
+      "duration_ms": 260173,
+      "name": "Find My Home",
+      "url": "https://open.spotify.com/track/2UXLovstwsvXw01s3GIOqK"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "You Are God, Be Glorified",
+        "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
+      },
+      "artists": [
+        {
+          "name": "Danny O'Callaghan",
+          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
+        }
+      ],
+      "duration_ms": 267165,
+      "name": "You Are God, Be Glorified",
+      "url": "https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Now I See",
         "url": "https://open.spotify.com/album/3ag0IZGy6XuaBQPA4fH3V3"
       },
@@ -1091,18 +1107,34 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "You Are God, Be Glorified",
-        "url": "https://open.spotify.com/album/1i5UY1ovmrkZlNyhrxMgkb"
+        "name": "\u2020 (just the cross)",
+        "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
       },
       "artists": [
         {
-          "name": "Danny O'Callaghan",
-          "url": "https://open.spotify.com/artist/0jSoCYPN9A69XCLdF0USBj"
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
         }
       ],
-      "duration_ms": 267165,
-      "name": "You Are God, Be Glorified",
-      "url": "https://open.spotify.com/track/6uRtk4FE3HQ9MMSCzGBcsr"
+      "duration_ms": 398333,
+      "name": "\u2020 (just the cross) - Live",
+      "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Well Done (Acoustic)",
+        "url": "https://open.spotify.com/album/3UsMcfnqpfoaIpMWSEKjwW"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 278906,
+      "name": "Well Done - Acoustic",
+      "url": "https://open.spotify.com/track/13CVyJCDZ5BluOGixDboyI"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1123,22 +1155,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "\u2020 (just the cross)",
-        "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
-      },
-      "artists": [
-        {
-          "name": "Futures",
-          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
-        }
-      ],
-      "duration_ms": 398333,
-      "name": "\u2020 (just the cross) - Live",
-      "url": "https://open.spotify.com/track/4tkSvznuiITP4O9zDooIBn"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Closer Than a Brother",
         "url": "https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 309354,
       "name": "Closer Than a Brother",
       "url": "https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Well Done (Acoustic)",
-        "url": "https://open.spotify.com/album/3UsMcfnqpfoaIpMWSEKjwW"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 278906,
-      "name": "Well Done - Acoustic",
-      "url": "https://open.spotify.com/track/13CVyJCDZ5BluOGixDboyI"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "Morning Sun, Rising Tide",
+        "url": "https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q"
+      },
+      "artists": [
+        {
+          "name": "Mark & Sarah Tillman",
+          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
+        }
+      ],
+      "duration_ms": 236466,
+      "name": "Oh What a Father",
+      "url": "https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "I Will Sing",
         "url": "https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 277853,
       "name": "Get Your Hopes Up",
       "url": "https://open.spotify.com/track/6QTEK7q7GPQQDqZLqhx2n7"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Morning Sun, Rising Tide",
-        "url": "https://open.spotify.com/album/37U27IBkwWHn9hHZXUZJ5Q"
-      },
-      "artists": [
-        {
-          "name": "Mark & Sarah Tillman",
-          "url": "https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX"
-        }
-      ],
-      "duration_ms": 236466,
-      "name": "Oh What a Father",
-      "url": "https://open.spotify.com/track/3o7URX1AsYvYSbNPxfUbD1"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
+        "name": "Do It Again - EP",
+        "url": "https://open.spotify.com/album/6EXWsOIhMYWY2kGHbhmERE"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 272914,
+      "name": "Do it Again (Acoustic)",
+      "url": "https://open.spotify.com/track/7pO0Llg3bXvM4HfOtWcdSZ"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
         "name": "Worth Mine",
         "url": "https://open.spotify.com/album/4Xq0fqEZGhns3H5MwIMeHk"
       },
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Do It Again - EP",
-        "url": "https://open.spotify.com/album/6EXWsOIhMYWY2kGHbhmERE"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 272914,
-      "name": "Do it Again (Acoustic)",
-      "url": "https://open.spotify.com/track/7pO0Llg3bXvM4HfOtWcdSZ"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Magnified (Acoustic)",
         "url": "https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4"
       },
@@ -1403,6 +1403,38 @@
       "duration_ms": 211800,
       "name": "Magnified (Acoustic)",
       "url": "https://open.spotify.com/track/4hA4SYhcGs5EuxHYW5VKgT"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "& Side A",
+        "url": "https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i"
+      },
+      "artists": [
+        {
+          "name": "For All Seasons",
+          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
+        }
+      ],
+      "duration_ms": 268970,
+      "name": "Light & Momentary",
+      "url": "https://open.spotify.com/track/08DEpqd2B46uUj5MeagoC6"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Worth The Wait",
+        "url": "https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h"
+      },
+      "artists": [
+        {
+          "name": "Bryan McCleery",
+          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
+        }
+      ],
+      "duration_ms": 235056,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1435,38 +1467,6 @@
       "duration_ms": 240946,
       "name": "This Wild Earth",
       "url": "https://open.spotify.com/track/7MWncHKfdAqbLaQgJ9jKnx"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "Worth The Wait",
-        "url": "https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h"
-      },
-      "artists": [
-        {
-          "name": "Bryan McCleery",
-          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
-        }
-      ],
-      "duration_ms": 235056,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
-        "name": "& Side A",
-        "url": "https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i"
-      },
-      "artists": [
-        {
-          "name": "For All Seasons",
-          "url": "https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf"
-        }
-      ],
-      "duration_ms": 268970,
-      "name": "Light & Momentary",
-      "url": "https://open.spotify.com/track/08DEpqd2B46uUj5MeagoC6"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Stained Glass",
-        "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
-      },
-      "artists": [
-        {
-          "name": "John Lucas",
-          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
-        }
-      ],
-      "duration_ms": 317509,
-      "name": "Stained Glass",
-      "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "The Antidote",
         "url": "https://open.spotify.com/album/1t8xLME4vn0Ev7PtLJ4bL3"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 231773,
       "name": "Open My Eyes",
       "url": "https://open.spotify.com/track/6OtT5Foz3yt1uipoxLYuHo"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Stained Glass",
+        "url": "https://open.spotify.com/album/3Noi0cW0w1cMaWP0VCZxJN"
+      },
+      "artists": [
+        {
+          "name": "John Lucas",
+          "url": "https://open.spotify.com/artist/7iEy8zKFtlYIINaxxLIyBk"
+        }
+      ],
+      "duration_ms": 317509,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/7nOYaLkMVOOyzk2k1TrObJ"
     },
     {
       "added_at": "2020-08-31 15:19:19",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2020-08-31 15:19:19",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/2IeNCiNUv60xjYPqYVqBFB"
-      },
-      "artists": [
-        {
-          "name": "Andrea Marie",
-          "url": "https://open.spotify.com/artist/5J59mmHP5QFfepuvMgL2gS"
-        }
-      ],
-      "duration_ms": 219640,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/6QItZ6weEG0JXFb0Lm714q"
-    },
-    {
-      "added_at": "2020-08-31 15:19:19",
-      "album": {
         "name": "Eternal Gospel",
         "url": "https://open.spotify.com/album/6aQlH2u5lUVu4uJpRWYZiX"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 247533,
       "name": "For The Joy Set Before Him",
       "url": "https://open.spotify.com/track/5BtD8FDmGP1XOS7OkPceW1"
+    },
+    {
+      "added_at": "2020-08-31 15:19:19",
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/2IeNCiNUv60xjYPqYVqBFB"
+      },
+      "artists": [
+        {
+          "name": "Andrea Marie",
+          "url": "https://open.spotify.com/artist/5J59mmHP5QFfepuvMgL2gS"
+        }
+      ],
+      "duration_ms": 219640,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/6QItZ6weEG0JXFb0Lm714q"
     },
     {
       "added_at": "2020-08-31 15:19:19",

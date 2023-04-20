@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Los Pericos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,483 likes - 89 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,501 likes - 89 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 67 | [Como la Flor](https://open.spotify.com/track/6D2h8yrGGpYeA79XeMw97k) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Como la Flor](https://open.spotify.com/album/7fmlBdqJxGTHRfbdIUktVW) | 3:29 |
 | 68 | [7 Vidas](https://open.spotify.com/track/7k5Z2Svtz3P1TKoAWJ7iYS) | [La Zimbabwe](https://open.spotify.com/artist/2fJMTjBspUhQcZYEtZoyVc), [Son del Arroyo](https://open.spotify.com/artist/2uSFcJXSLMdPWXnOWRp1Se) | [7 Vidas](https://open.spotify.com/album/0AIaSrtMFPreSjZZUYvM8B) | 3:21 |
 | 69 | [Naufrago](https://open.spotify.com/track/66S8xPH84rlZx8TmXps28o) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 3:57 |
-| 70 | [La Naturaleza](https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY) | [Planta & Canta](https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [La Naturaleza](https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE) | 4:14 |
+| 70 | [Más Libre](https://open.spotify.com/track/5v69zCbt88Xy2Td6i2m1vw) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [C4 Reggae Combativo](https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0), [Luis Alfa](https://open.spotify.com/artist/5eBjZZzNvOtwyiVUKVJoux) | [Alta Lucha](https://open.spotify.com/album/45hcHSFFSVgAZ0s9noV87v) | 3:22 |
 | 71 | [Nadie Sabe](https://open.spotify.com/track/1OD9E9AtG0bgRgRxNNDeox) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Guillermo Bonetto](https://open.spotify.com/artist/1rijasyRtILod4s1wmI78L) | [Que Bonita Vecindad](https://open.spotify.com/album/2K10aRTR266ouMt2UiGaJh) | 3:43 |
-| 72 | [Más Libre](https://open.spotify.com/track/5v69zCbt88Xy2Td6i2m1vw) | [Gaspar OM](https://open.spotify.com/artist/1Tvrm9z0xfdxJ5Xg5NODEj), [C4 Reggae Combativo](https://open.spotify.com/artist/2HnAud57JxR0WvtR2XviA0), [Luis Alfa](https://open.spotify.com/artist/5eBjZZzNvOtwyiVUKVJoux) | [Alta Lucha](https://open.spotify.com/album/45hcHSFFSVgAZ0s9noV87v) | 3:22 |
+| 72 | [La Naturaleza](https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY) | [Planta & Canta](https://open.spotify.com/artist/2yW6FW6bMFIEtPJgYK4UQ0), [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [La Naturaleza](https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE) | 4:14 |
 | 73 | [Este Mundo](https://open.spotify.com/track/6WK2LH6KzIN9guZDQgoFxo) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Negro](https://open.spotify.com/album/0yw1Sq70Su7ZCEJV8jv9HY) | 4:25 |
 | 74 | [Culpable O No](https://open.spotify.com/track/6YkcpvwqXdo8TJCX0ku6Pq) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Cover Me](https://open.spotify.com/album/7pWasGxWxY1oVOA852CSM0) | 4:10 |
 | 75 | [Groove Me](https://open.spotify.com/track/3aHb9pMoRafxcyeQ1W0Ev1) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Groove Me](https://open.spotify.com/album/3ZmQSjGIMCZAjbVWBmMfFw) | 3:04 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 88 | [Torito](https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Torito](https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4) | 3:16 |
 | 89 | [On the Good Road \- En Vivo En Sala Siranush](https://open.spotify.com/track/42X9GlneXJkyRShuDLPvNc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [On the Good Road \(En Vivo En Sala Siranush\)](https://open.spotify.com/album/2eVwZkKc0oWJa9r85EsrAt) | 3:48 |
 
-Snapshot ID: `MTY3ODQwOTMyMCwwMDAwMDAwMDBlOTU1MmQ3MDg3YWY4OGFmYjU1M2IxMWUzZjEzNzE1`
+Snapshot ID: `MTY3ODQwOTMyMCwwMDAwMDAwMDYzZjk3MDVhYzJkZDJiMGU0ZjMwZTYyYjBmNmFjYThj`

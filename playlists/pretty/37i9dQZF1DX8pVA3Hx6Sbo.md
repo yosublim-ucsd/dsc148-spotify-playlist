@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pVA3Hx6Sbo.md) - [plain]
 
 > Mientras la gente no deje de aplaudir, Chente no deja de cantar\. Por siempre, Vicente Fernández.
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,021 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,482 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pVA3Hx6Sbo.md) - [plain]
 | 34 | [El Hijo del Pueblo](https://open.spotify.com/track/6ElbF1uBCYlazCH6jAoF5s) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 2:40 |
 | 35 | [Urge](https://open.spotify.com/track/3xrowzZGezyuEBl9UzAN4W) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mientras Ustedes No Dejen De Aplaudir...](https://open.spotify.com/album/302OzIxo56uSLp0ZY1MuTY) | 2:57 |
 | 36 | [Mi Viejo](https://open.spotify.com/track/5jmuiCbNU1SEvFKqMadOZR) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mi Viejo](https://open.spotify.com/album/6H1Ru58NKY7aNmHNEic44G) | 3:10 |
-| 37 | [Tu Camino y el Mío](https://open.spotify.com/track/3CCOZJRk10XwhS75UjtFso) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Palabra De Rey](https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW) | 2:57 |
-| 38 | [Si Acaso Vuelves](https://open.spotify.com/track/6ECHNv4bPnAiaquIPGt8es) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 3:03 |
+| 37 | [Si Acaso Vuelves](https://open.spotify.com/track/6ECHNv4bPnAiaquIPGt8es) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 3:03 |
+| 38 | [Tu Camino y el Mío](https://open.spotify.com/track/3CCOZJRk10XwhS75UjtFso) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Palabra De Rey](https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW) | 2:57 |
 | 39 | [Por Tu Maldito Amor](https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1) | 3:56 |
 | 40 | [Nos Estorbo la Ropa](https://open.spotify.com/track/50WauvH7qWK3TeatWSrq2S) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Estatua De Marfil](https://open.spotify.com/album/6dujkPGtA0MrnvMZ0MEZmu) | 3:04 |
 | 41 | [Escuché las Golondrinas](https://open.spotify.com/track/6kRaonmi8YMTCy8LpGfhOy) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pVA3Hx6Sbo.md) - [plain]
 | 49 | [Cuando Me Digas](https://open.spotify.com/track/2Ry1ma0GI7iRVe2je575HS) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [A Mis 80's](https://open.spotify.com/album/4vuUKI0vh73BF4F85R6dFh) | 3:00 |
 | 50 | [Hasta la Tumba](https://open.spotify.com/track/0dAGcv2yzTzLG06CLcnXiy) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 2:32 |
 
-Snapshot ID: `MTY3ODEyOTQzNywwMDAwMDAwMDA2NjVkOWNiYzE4MmZiYzUxZDU3Yjc4YmQ5NGFmNTY5`
+Snapshot ID: `MTY3ODEyOTQzNywwMDAwMDAwMGJmZGYwMGEwNjhhOWY2YzZjMWRlYzNiM2M3NWM2ZjBm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: LAUREL
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,525 likes - 61 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,547 likes - 61 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 2 | [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 |
 | 3 | [Out Of My League](https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Out Of My League](https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9) | 3:01 |
 | 4 | [DIGGIN U](https://open.spotify.com/track/0Ni50H8KZDx9WVaKHId38j) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DIGGIN U](https://open.spotify.com/album/5YjrtoRuM55a22wfsY7UVn) | 2:27 |
-| 5 | [2 BEST FRIENDS](https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:18 |
+| 5 | [2 BEST FRIENDS](https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4) | 2:18 |
 | 6 | [Hyperfixations](https://open.spotify.com/track/538Ouxq5iceDnEX9k87hQR) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [Hyperfixations](https://open.spotify.com/album/6JmO57rWensoCLLngSqju1) | 3:15 |
 | 7 | [Other Side of the Moon](https://open.spotify.com/track/0inCk0sUhCu1PBscUmSvez) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl EP \- Part 1](https://open.spotify.com/album/47DfwYDx3pDXoN7lgxWwjj) | 2:51 |
 | 8 | [Hell N Back](https://open.spotify.com/track/6xxG3HbexOhJKyiLmtUPhT) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Will You Be My Yellow?](https://open.spotify.com/album/12nH1R4NqEtaOQ5M7RA63p) | 3:33 |
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 60 | [Gummy \(feat\. Tessa Violet\) \- Jean Tonique Remix](https://open.spotify.com/track/4BBJGxUNJaioA9JrG0Fe5a) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe), [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Gummy \(feat\. Tessa Violet\) \[Jean Tonique Remix\]](https://open.spotify.com/album/05xguEfwYKFANRuFJoRVFW) | 3:18 |
 | 61 | [Nervous System](https://open.spotify.com/track/1F4bLAgSwZkU5VEVSGyhzB) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Nervous System](https://open.spotify.com/album/2tqcwbNuovDs9h1wuQ5vTr) | 2:37 |
 
-Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDVmMjkzYTQ1YTEzNGY4YWM1Yjc5MTRkMDc5MzA3YTAw`
+Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDEyMzMwNTMyNTk1MDhkYTllMzE3ODc5NDQwMWU4NGNj`

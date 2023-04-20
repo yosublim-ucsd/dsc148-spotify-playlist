@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 75855,
+  "num_followers": 75878,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTMyODI3MiwwMDAwMDAwMDk5NTk0MzVhMDBkMmY2NDc3MDlmMTkzYTIwNGVhY2Fk",
+  "snapshot_id": "MTY3OTMyODI3MiwwMDAwMDAwMDA4MDMyZjZhODZjNGVhODVmNWNiNWJhYjgwNDRlOTcz",
   "tracks": [
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
+        "name": "I'm a Moth!!",
+        "url": "https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a"
+      },
+      "artists": [
+        {
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+        }
+      ],
+      "duration_ms": 126545,
+      "name": "I'm a Moth!!",
+      "url": "https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/0Qf2zbgqkcBQ6FHiOaRLzV"
       },
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "I'm a Moth!!",
-        "url": "https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a"
+        "name": "Space",
+        "url": "https://open.spotify.com/album/2wlUiuYslbNLsbsRHy08U9"
       },
       "artists": [
         {
-          "name": "LIA LIA",
-          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
         }
       ],
-      "duration_ms": 126545,
-      "name": "I'm a Moth!!",
-      "url": "https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad"
+      "duration_ms": 193396,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/0CtFIDCGTfn34IBYKkApU3"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1347,22 +1363,6 @@
       "duration_ms": 225267,
       "name": "Dance Like Nobody's Watching",
       "url": "https://open.spotify.com/track/18UGB6MfGfIQ4XevCMq4cK"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/2wlUiuYslbNLsbsRHy08U9"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        }
-      ],
-      "duration_ms": 193396,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/0CtFIDCGTfn34IBYKkApU3"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Stomachache",
-        "url": "https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP"
-      },
-      "artists": [
-        {
-          "name": "TRACE",
-          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Stomachache",
-      "url": "https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Off the Rails",
         "url": "https://open.spotify.com/album/1sgx3kIgK6i6MdxgK39ubi"
       },
@@ -1475,6 +1459,42 @@
       "duration_ms": 175123,
       "name": "Dramamine",
       "url": "https://open.spotify.com/track/4tDM34i7tiUU4ztUdsAE5s"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "chump change",
+        "url": "https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 132826,
+      "name": "sardines",
+      "url": "https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Stomachache",
+        "url": "https://open.spotify.com/album/5gfg13bKSnz2HEzH06zxuP"
+      },
+      "artists": [
+        {
+          "name": "TRACE",
+          "url": "https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Stomachache",
+      "url": "https://open.spotify.com/track/3qqvz7eIF53we5LWZRHskL"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1499,38 +1519,18 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Chatter",
-        "url": "https://open.spotify.com/album/0ke6IZ0jAiFuZuOT7Jwr8u"
+        "name": "Want U 2 Love Me",
+        "url": "https://open.spotify.com/album/3vyvUCu3QyxfxMYTCyhKUv"
       },
       "artists": [
         {
-          "name": "Jess Connelly",
-          "url": "https://open.spotify.com/artist/1XC87A3NVlw6xDW1kIB5FN"
+          "name": "SOHMI",
+          "url": "https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK"
         }
       ],
-      "duration_ms": 173686,
-      "name": "Chatter",
-      "url": "https://open.spotify.com/track/6S3B1l2CIGvEo3vLpVfBRQ"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "chump change",
-        "url": "https://open.spotify.com/album/4k2Hqh0Df6b788PGH6KAUE"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        },
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        }
-      ],
-      "duration_ms": 132826,
-      "name": "sardines",
-      "url": "https://open.spotify.com/track/2sFXzS9LnbQe5BigrfsVRP"
+      "duration_ms": 197777,
+      "name": "Want U 2 Love Me",
+      "url": "https://open.spotify.com/track/10HcnRxq2OmMoFhkZ5Tuza"
     }
   ],
   "unique_name": "Dope AF",

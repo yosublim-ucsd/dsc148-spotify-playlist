@@ -1,12 +1,12 @@
 {
   "description": "Sad songs just 4 you para uno de esos d\u00edas.",
-  "num_followers": 104862,
+  "num_followers": 104885,
   "original_name": "gris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTgzNTk0OSwwMDAwMDAwMGVjODBkNWZkNzA1ZjUxOTQyYTUxYTQxNWVlY2RiYTUx",
+  "snapshot_id": "MTY4MTgzNTk0OSwwMDAwMDAwMGNmNzI2Njc0MjUzY2JkZDk0M2M1OTRjNzNiNzc4ZGZl",
   "tracks": [
     {
       "added_at": "2023-04-18 16:39:09",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-04-18 16:39:09",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 279213,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
-    },
-    {
-      "added_at": "2023-04-18 16:39:09",
-      "album": {
         "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
         "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 188213,
       "name": "El Mismo Aire - con Pablo Albor\u00e1n",
       "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
+    },
+    {
+      "added_at": "2023-04-18 16:39:09",
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 279213,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
     },
     {
       "added_at": "2023-04-18 16:39:09",
@@ -411,18 +411,22 @@
     {
       "added_at": "2023-04-18 16:39:09",
       "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
+        "name": "Otras Alas",
+        "url": "https://open.spotify.com/album/0FIpAJ1ypjj4nzIHq6XLF4"
       },
       "artists": [
         {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        },
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
         }
       ],
-      "duration_ms": 207333,
-      "name": "Honey, No Est\u00e1s",
-      "url": "https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs"
+      "duration_ms": 187016,
+      "name": "nana triste",
+      "url": "https://open.spotify.com/track/721Lxh9pNJJhNERON4Zjmw"
     },
     {
       "added_at": "2023-04-18 16:39:09",
@@ -459,22 +463,18 @@
     {
       "added_at": "2023-04-18 16:39:09",
       "album": {
-        "name": "Otras Alas",
-        "url": "https://open.spotify.com/album/0FIpAJ1ypjj4nzIHq6XLF4"
+        "name": "Delusi\u00f3n",
+        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
       },
       "artists": [
         {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        },
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 187016,
-      "name": "nana triste",
-      "url": "https://open.spotify.com/track/721Lxh9pNJJhNERON4Zjmw"
+      "duration_ms": 207333,
+      "name": "Honey, No Est\u00e1s",
+      "url": "https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs"
     },
     {
       "added_at": "2023-04-18 16:39:09",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-04-18 16:39:09",
       "album": {
+        "name": "no estabas cerca",
+        "url": "https://open.spotify.com/album/1zGsHBTBDiV6x7fygtLjto"
+      },
+      "artists": [
+        {
+          "name": "Alba Mbengue",
+          "url": "https://open.spotify.com/artist/3qgzGkZtMWhw3seBssVWWW"
+        }
+      ],
+      "duration_ms": 70465,
+      "name": "no estabas cerca",
+      "url": "https://open.spotify.com/track/0CaAkdZcfgo0KRyPoU2vc7"
+    },
+    {
+      "added_at": "2023-04-18 16:39:09",
+      "album": {
         "name": "La Pared",
         "url": "https://open.spotify.com/album/01IGc70ZlPLU5ot3oG7fUa"
       },
@@ -895,18 +911,18 @@
     {
       "added_at": "2023-04-18 16:39:09",
       "album": {
-        "name": "no estabas cerca",
-        "url": "https://open.spotify.com/album/1zGsHBTBDiV6x7fygtLjto"
+        "name": "Los D\u00edas en la Sala",
+        "url": "https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45"
       },
       "artists": [
         {
-          "name": "Alba Mbengue",
-          "url": "https://open.spotify.com/artist/3qgzGkZtMWhw3seBssVWWW"
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
         }
       ],
-      "duration_ms": 70465,
-      "name": "no estabas cerca",
-      "url": "https://open.spotify.com/track/0CaAkdZcfgo0KRyPoU2vc7"
+      "duration_ms": 163411,
+      "name": "Siempre Te Voy a Querer",
+      "url": "https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV"
     },
     {
       "added_at": "2023-04-18 16:39:09",
@@ -943,18 +959,18 @@
     {
       "added_at": "2023-04-18 16:39:09",
       "album": {
-        "name": "Los D\u00edas en la Sala",
-        "url": "https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45"
+        "name": "Tal Vez",
+        "url": "https://open.spotify.com/album/3kE68K2LF8KdxJr2B2IoDw"
       },
       "artists": [
         {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
         }
       ],
-      "duration_ms": 163411,
-      "name": "Siempre Te Voy a Querer",
-      "url": "https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV"
+      "duration_ms": 159480,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/6nm1A7TSAYLkCTmrdYAWp5"
     },
     {
       "added_at": "2023-04-18 16:39:09",
@@ -971,22 +987,6 @@
       "duration_ms": 270093,
       "name": "guerrera",
       "url": "https://open.spotify.com/track/1op8GBKx3U5BrDDvOAKYbO"
-    },
-    {
-      "added_at": "2023-04-18 16:39:09",
-      "album": {
-        "name": "Tal Vez",
-        "url": "https://open.spotify.com/album/3kE68K2LF8KdxJr2B2IoDw"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 159480,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/6nm1A7TSAYLkCTmrdYAWp5"
     },
     {
       "added_at": "2023-04-18 16:39:09",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-04-18 16:39:09",
       "album": {
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
+      },
+      "artists": [
+        {
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
+        }
+      ],
+      "duration_ms": 192070,
+      "name": "Sad Balada",
+      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
+    },
+    {
+      "added_at": "2023-04-18 16:39:09",
+      "album": {
         "name": "Venecia (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3EBFHB0poFL63o1DrIMSkl"
       },
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2023-04-18 16:39:09",
       "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 192070,
-      "name": "Sad Balada",
-      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
-    },
-    {
-      "added_at": "2023-04-18 16:39:09",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv"
       },
@@ -1443,22 +1443,6 @@
       "duration_ms": 239123,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/6pULE9MZf21WIsVi3fKlOq"
-    },
-    {
-      "added_at": "2023-04-18 16:39:09",
-      "album": {
-        "name": "No Te Voy a Ver",
-        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
-      },
-      "artists": [
-        {
-          "name": "Claire Deli\u0107",
-          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
-        }
-      ],
-      "duration_ms": 217399,
-      "name": "No Te Voy a Ver",
-      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
     },
     {
       "added_at": "2023-04-18 16:39:09",
@@ -1479,6 +1463,22 @@
       "duration_ms": 211986,
       "name": "en la ciudad",
       "url": "https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7"
+    },
+    {
+      "added_at": "2023-04-18 16:39:09",
+      "album": {
+        "name": "No Te Voy a Ver",
+        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
+      },
+      "artists": [
+        {
+          "name": "Claire Deli\u0107",
+          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
+        }
+      ],
+      "duration_ms": 217399,
+      "name": "No Te Voy a Ver",
+      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
     },
     {
       "added_at": "2023-04-18 16:39:09",

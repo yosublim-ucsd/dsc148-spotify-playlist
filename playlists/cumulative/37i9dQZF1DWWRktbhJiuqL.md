@@ -2,9 +2,9 @@
 
 ### [Pure Rock & Roll](https://open.spotify.com/playlist/37i9dQZF1DWWRktbhJiuqL)
 
-> Various sounds, various decades, but with 1 thing in common: it's pure rock & roll.
+> Various sounds, various decades, but with one thing in common: pure rock & roll.
 
-302 songs - 19 hr 53 min
+303 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Born to Run](https://open.spotify.com/track/0fsU1tPSgA3bWGKMr3RP3j) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Greatest Hits](https://open.spotify.com/album/1c72XklDkH9TmbPMxy11a9) | 4:29 | 2021-12-09 | 2022-07-29 |
 | [Born to Run](https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:29 | 2022-06-17 |  |
 | [Break on Through \(To the Other Side\)](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:25 | 2021-12-09 |  |
-| [Breakdown](https://open.spotify.com/track/5x53pbGk6sbl1BGom19QQ5) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 2:43 | 2022-04-08 |  |
+| [Breakdown](https://open.spotify.com/track/5x53pbGk6sbl1BGom19QQ5) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 2:43 | 2022-04-08 | 2023-04-20 |
 | [Breakin' Outta Hell](https://open.spotify.com/track/3HFqO1Khvk1pdmhjz3tXsk) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Breakin' Outta Hell](https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP) | 3:52 | 2022-03-11 | 2022-07-02 |
 | [Burden In My Hand](https://open.spotify.com/track/1iArQTuOzxvrtniGmkyy92) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Down On The Upside](https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B) | 4:50 | 2022-03-11 | 2022-11-13 |
 | [Burner](https://open.spotify.com/track/0p0JqtSES75aVuKsa7BmEo) | [Them Evils](https://open.spotify.com/artist/3ASZko2LtiqddApAlKF7Cf) | [Burner](https://open.spotify.com/album/4xw4yL3DaUi5cUebr6ji2k) | 3:48 | 2022-04-08 | 2022-04-21 |
@@ -206,6 +206,7 @@
 | [Rebel Yell \- Remastered](https://open.spotify.com/track/2ZTIw0fZhFp3nnvF41nvVc) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Greatest Hits](https://open.spotify.com/album/1gTvJG5YnrTiwr0uDuzaoA) | 4:46 | 2021-12-09 | 2022-11-13 |
 | [Reckless Tongue](https://open.spotify.com/track/5Md4gGCtM6HV8eR2lQv8F2) | [Airways](https://open.spotify.com/artist/5fRpvt0RU5UL6YwQekpofE) | [Reckless Tongue](https://open.spotify.com/album/0YaQ5OQPnogOXT4wMX5aaM) | 2:58 | 2022-04-08 | 2022-04-21 |
 | [Refugee](https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 3:21 | 2021-12-09 |  |
+| [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 | 2023-04-19 |  |
 | [Rest In Peace](https://open.spotify.com/track/2PZ5teF9vepeL2Qq7dkd59) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [Gifts From The Holy Ghost](https://open.spotify.com/album/258YZ2TUzI1SJBU626eYFc) | 3:37 | 2022-08-18 | 2022-10-15 |
 | [Roadhouse Blues](https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Morrison Hotel](https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX) | 4:03 | 2021-12-09 |  |
 | [Rock & Roll Queen](https://open.spotify.com/track/75lw5aYrDq0TJsbkqCPRIJ) | [The Subways](https://open.spotify.com/artist/4BntNFyiN3VGG4hhRRZt9d) | [Young For Eternity](https://open.spotify.com/album/3BHVEMienVRnrpWJJCJSgN) | 2:49 | 2022-04-08 | 2022-04-20 |

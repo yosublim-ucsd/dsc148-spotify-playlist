@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 41606,
+  "num_followers": 41650,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQwNjQ2MCwwMDAwMDAwMDljNzEyZDdjMTU4Y2YxOTdkNWNkYjEyYzhhMDNkOGY4",
+  "snapshot_id": "MTY3ODQwNjQ2MCwwMDAwMDAwMDAyNTAxMjhhMzdlMmExZGE5OTYxMTc0ZDRkMzRkMzJi",
   "tracks": [
     {
       "added_at": "2023-03-10 00:01:00",
@@ -447,6 +447,26 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "I Could Be Your Dog / I Could Be Your Moon",
+        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "duration_ms": 166001,
+      "name": "Glendora",
+      "url": "https://open.spotify.com/track/5jKHOuBAsM9jZnE9f0WEUv"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "Sollbruchstelle 1-3",
         "url": "https://open.spotify.com/album/2Y0rzl9PGZQ8JYPDCkBFmo"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 363120,
       "name": "Your Pond",
       "url": "https://open.spotify.com/track/2vCUiUB2Qu636OWPvR4Tlh"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "I Could Be Your Dog / I Could Be Your Moon",
-        "url": "https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        },
-        {
-          "name": "Emile Mosseri",
-          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
-        }
-      ],
-      "duration_ms": 166001,
-      "name": "Glendora",
-      "url": "https://open.spotify.com/track/5jKHOuBAsM9jZnE9f0WEUv"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Cascade Symmetry",
-        "url": "https://open.spotify.com/album/0EmUM5rTciCKU8fVl5Kt92"
-      },
-      "artists": [
-        {
-          "name": "r beny",
-          "url": "https://open.spotify.com/artist/1J8H4wufuy6qxfdRbJr5xG"
-        }
-      ],
-      "duration_ms": 204353,
-      "name": "Cascade Symmetry",
-      "url": "https://open.spotify.com/track/385Oid3inOxoC8Jpgax6Au"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Where Do You Get Your Dreams From?",
         "url": "https://open.spotify.com/album/5iRXJPVZYkftgKcg5XwMVm"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 405333,
       "name": "Where Do You Get Your Dreams From?",
       "url": "https://open.spotify.com/track/6eLF3s5IIfgSWGQXOgQxzB"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Cascade Symmetry",
+        "url": "https://open.spotify.com/album/0EmUM5rTciCKU8fVl5Kt92"
+      },
+      "artists": [
+        {
+          "name": "r beny",
+          "url": "https://open.spotify.com/artist/1J8H4wufuy6qxfdRbJr5xG"
+        }
+      ],
+      "duration_ms": 204353,
+      "name": "Cascade Symmetry",
+      "url": "https://open.spotify.com/track/385Oid3inOxoC8Jpgax6Au"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "CHU / \u8655",
+        "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "duration_ms": 143815,
+      "name": "CHU / \u8655",
+      "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "Comma",
         "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "CHU / \u8655",
-        "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
-      },
-      "artists": [
-        {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
-        }
-      ],
-      "duration_ms": 143815,
-      "name": "CHU / \u8655",
-      "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Tide Pools",
         "url": "https://open.spotify.com/album/3xT2c2VcLlawCPbdBMJOxH"
       },
@@ -791,6 +791,22 @@
       "duration_ms": 268043,
       "name": "Tide Pools",
       "url": "https://open.spotify.com/track/1xc9Cc2F9A2kfLnjmrBsIw"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Breathing Instruments",
+        "url": "https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe"
+      },
+      "artists": [
+        {
+          "name": "Sunmoonstar",
+          "url": "https://open.spotify.com/artist/6zcATN69DMHPpO0Jeo8iuu"
+        }
+      ],
+      "duration_ms": 120280,
+      "name": "Sleepy Dragon",
+      "url": "https://open.spotify.com/track/1e1lahTMxcmcSVSpYaU88Y"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -823,22 +839,6 @@
       "duration_ms": 261333,
       "name": "Vu Hijera",
       "url": "https://open.spotify.com/track/2IAGuKZ9hvXySsCxPyatvv"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Breathing Instruments",
-        "url": "https://open.spotify.com/album/6eLJW3hB8GMFBmGGw3dvBe"
-      },
-      "artists": [
-        {
-          "name": "Sunmoonstar",
-          "url": "https://open.spotify.com/artist/6zcATN69DMHPpO0Jeo8iuu"
-        }
-      ],
-      "duration_ms": 120280,
-      "name": "Sleepy Dragon",
-      "url": "https://open.spotify.com/track/1e1lahTMxcmcSVSpYaU88Y"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Raum (Single Edit)",
-        "url": "https://open.spotify.com/album/2rGsYgcXb3M5lb98WXtwOA"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 442500,
-      "name": "Raum - Single Edit",
-      "url": "https://open.spotify.com/track/16yJsnydEA8kANiL0zEqUO"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Chilltronica EP 3",
         "url": "https://open.spotify.com/album/559MlrkzOGY8esDa84TdWC"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "Raum (Single Edit)",
+        "url": "https://open.spotify.com/album/2rGsYgcXb3M5lb98WXtwOA"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 442500,
+      "name": "Raum - Single Edit",
+      "url": "https://open.spotify.com/track/16yJsnydEA8kANiL0zEqUO"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "Good Sound",
         "url": "https://open.spotify.com/album/7gnK0GCEbW06yYVeaoAkOF"
       },
@@ -1111,6 +1111,22 @@
       "duration_ms": 251009,
       "name": "Particulator",
       "url": "https://open.spotify.com/track/39tJ0zgXAG5PEpXCafPrI1"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Plant Music Vol 2: Fruits and Flowers of Hawai'i",
+        "url": "https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb"
+      },
+      "artists": [
+        {
+          "name": "Modern Biology",
+          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Rambutan",
+      "url": "https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1163,22 +1179,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Plant Music Vol 2: Fruits and Flowers of Hawai'i",
-        "url": "https://open.spotify.com/album/203hWYS6NNyT9pmNq2OZRb"
-      },
-      "artists": [
-        {
-          "name": "Modern Biology",
-          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Rambutan",
-      "url": "https://open.spotify.com/track/2sLj11G5sla85xLNjWVUbw"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "The Sparrow",
         "url": "https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt"
       },
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Aerious EP",
-        "url": "https://open.spotify.com/album/6CSRlgX420AoIGGeWjsG0D"
+        "name": "Kosmic Headroom",
+        "url": "https://open.spotify.com/album/6i2yC85nR4HqDkgwOgmnIj"
       },
       "artists": [
         {
-          "name": "Tryst (UK)",
-          "url": "https://open.spotify.com/artist/7cFuB1Iqx6aq5hDmU4m8C4"
+          "name": "Poulson Sq.",
+          "url": "https://open.spotify.com/artist/4Bhzq0RnVTwXbJCnBfuCWp"
         }
       ],
-      "duration_ms": 277753,
-      "name": "Reflections On The Waterfront",
-      "url": "https://open.spotify.com/track/5wavDaYcx6gdSBMagQtWCY"
+      "duration_ms": 253047,
+      "name": "Kosmic Headroom",
+      "url": "https://open.spotify.com/track/1hk6pw8B55XmbL8MkeNmva"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Kosmic Headroom",
-        "url": "https://open.spotify.com/album/6i2yC85nR4HqDkgwOgmnIj"
+        "name": "Aerious EP",
+        "url": "https://open.spotify.com/album/6CSRlgX420AoIGGeWjsG0D"
       },
       "artists": [
         {
-          "name": "Poulson Sq.",
-          "url": "https://open.spotify.com/artist/4Bhzq0RnVTwXbJCnBfuCWp"
+          "name": "Tryst (UK)",
+          "url": "https://open.spotify.com/artist/7cFuB1Iqx6aq5hDmU4m8C4"
         }
       ],
-      "duration_ms": 253047,
-      "name": "Kosmic Headroom",
-      "url": "https://open.spotify.com/track/1hk6pw8B55XmbL8MkeNmva"
+      "duration_ms": 277753,
+      "name": "Reflections On The Waterfront",
+      "url": "https://open.spotify.com/track/5wavDaYcx6gdSBMagQtWCY"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Rose Water",
-        "url": "https://open.spotify.com/album/0P8tEtuujscXps1tLs3c6C"
+        "name": "Sounds From Phantom Islands",
+        "url": "https://open.spotify.com/album/4Oa4FMxiEfKLDK1dzhmraI"
       },
       "artists": [
         {
-          "name": "Brett Naucke",
-          "url": "https://open.spotify.com/artist/2MFjLlkCkf3kmSqBT0q5vs"
+          "name": "Andrew Pekler",
+          "url": "https://open.spotify.com/artist/4nDIRB3WZRZ40uSmZG0q6J"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Rose Water",
-      "url": "https://open.spotify.com/track/0wMnoX0TqfHJxsuXwSRFwC"
+      "duration_ms": 189000,
+      "name": "Approximate Bermeja",
+      "url": "https://open.spotify.com/track/6NLAH3uaOwEwNEBZIcaEnk"
     }
   ],
   "unique_name": "Modular Synths",

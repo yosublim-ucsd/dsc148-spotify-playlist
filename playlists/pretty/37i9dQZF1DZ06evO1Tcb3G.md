@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 
 > This is Mumford & Sons\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,553 likes - 39 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,653 likes - 39 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 | 14 | [Tompkins Square Park](https://open.spotify.com/track/7rQ3Gz0M6eMUCOQf4fs0qq) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Wilder Mind](https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ) | 5:12 |
 | 15 | [White Blank Page](https://open.spotify.com/track/6oxnUh5HybZDk6VNGzvw2j) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 4:14 |
 | 16 | [Reminder](https://open.spotify.com/track/6LPjdmMvIKGxuzVFsTKF6Z) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/0jcOOqw8oVjs2ngnrndbsO) | 2:04 |
-| 17 | [There Will Be Time](https://open.spotify.com/track/3BqDKQg8onwppXlPw4SYnZ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [Johannesburg](https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066) | 4:27 |
-| 18 | [Learn Me Right](https://open.spotify.com/track/7JWIKtAToWqvAl1qlpsjlC) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Indomable](https://open.spotify.com/album/3ywdCjvMj2iL372ajvu3Xx) | 3:45 |
+| 17 | [Learn Me Right](https://open.spotify.com/track/7JWIKtAToWqvAl1qlpsjlC) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Indomable](https://open.spotify.com/album/3ywdCjvMj2iL372ajvu3Xx) | 3:45 |
+| 18 | [There Will Be Time](https://open.spotify.com/track/3BqDKQg8onwppXlPw4SYnZ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [Johannesburg](https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066) | 4:27 |
 | 19 | [Timshel](https://open.spotify.com/track/5KYtnw4qIYaCxNRXVEOdSJ) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/4828DYqqXoOl1bMPyh5c3S) | 2:53 |
 | 20 | [Hopeless Wanderer](https://open.spotify.com/track/1FNGW0JOSp7Rbomh80XVYm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 5:07 |
 | 21 | [Beloved](https://open.spotify.com/track/1l1TLPILxVipEsTsSho4u3) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta](https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH) | 4:25 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tcb3G.md) - [plain]
 | 38 | [Hold on to What You Believe \- Live from Shepherd's Bush Empire, 2010](https://open.spotify.com/track/13UaKj7X8zno0QHa0sQ4lR) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Live from Shepherd's Bush Empire](https://open.spotify.com/album/2BSWogsmKbWv9zmTAjjgpH) | 4:04 |
 | 39 | [Hurt \(Live from Werchter\)](https://open.spotify.com/track/7owiVG8UaTtTkcErdgyHet) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Delta Tour EP](https://open.spotify.com/album/0Mdbs380PEaE81bScwSlBB) | 4:59 |
 
-Snapshot ID: `MjgwMzAzOTAsMDAwMDAwMDA1OGU1ZGZkMmQ4YmY1M2IxNDRjNzA5ZGRjYWQ3YzBkNg==`
+Snapshot ID: `MjgwMzE3ODMsMDAwMDAwMDA0Y2Q4YmU4MWVjZDNmMDNjNWNkNTNlYjFlMzZiNDdiMw==`

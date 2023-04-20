@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 
 > This is Ángela Aguilar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,299 likes - 51 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,328 likes - 51 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 | 28 | [La Tequilera](https://open.spotify.com/track/7A7pOBwLnrghUtt8ZrRZ2g) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 3:03 |
 | 29 | [Como la Flor](https://open.spotify.com/track/7bZ50bzuhzhOoNomJPq5xr) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3) | 2:56 |
 | 30 | [Tu Sangre en Mi Cuerpo](https://open.spotify.com/track/4nj0ZUzTStluIlGD80mCoa) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Desde la Azotea \- Fase II](https://open.spotify.com/album/11Nxl65MBcH7MQuANJKHNI) | 4:02 |
-| 31 | [Cuando Dos Almas](https://open.spotify.com/track/5Fp3A1Ciwa7z1FOhZx0e4a) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Cuando Dos Almas](https://open.spotify.com/album/7JXIq8P1uvpr02mjwpTuU1) | 3:06 |
-| 32 | [Brillante Sobre el Mic](https://open.spotify.com/track/3gnbXX0Fv5iiUvxZVX2O2x) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Brillante Sobre el Mic](https://open.spotify.com/album/1qZYz4prjJ6jqO99G9G7Vh) | 4:06 |
+| 31 | [Brillante Sobre el Mic](https://open.spotify.com/track/3gnbXX0Fv5iiUvxZVX2O2x) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Brillante Sobre el Mic](https://open.spotify.com/album/1qZYz4prjJ6jqO99G9G7Vh) | 4:06 |
+| 32 | [Cuando Dos Almas](https://open.spotify.com/track/5Fp3A1Ciwa7z1FOhZx0e4a) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Cuando Dos Almas](https://open.spotify.com/album/7JXIq8P1uvpr02mjwpTuU1) | 3:06 |
 | 33 | [Baila Esta Cumbia](https://open.spotify.com/track/7AGYMb1fvYZig4AYTOOUSl) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3) | 2:55 |
 | 34 | [¡Corre!](https://open.spotify.com/track/6JxsALFSnXJBCQ0h154aJX) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 4:39 |
 | 35 | [El Jinete](https://open.spotify.com/track/5acj32X9Vsq0EubIbo1TdE) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicano Hasta los Huesos](https://open.spotify.com/album/6IlYrSFtmY9o6Gdi49rTkm) | 3:12 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 | 50 | [Magic](https://open.spotify.com/track/7AXlu0Y9GxPHQkSXa9dcWn) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Desde la Azotea \- Fase II](https://open.spotify.com/album/11Nxl65MBcH7MQuANJKHNI) | 4:20 |
 | 51 | [Palomita Aventurera](https://open.spotify.com/track/621Xyct7TLnubWJmBfGSyx) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Nueva Tradición](https://open.spotify.com/album/2vdSOHJ3ruarPaifT2LXjF) | 2:54 |
 
-Snapshot ID: `MjgwMzAzOTAsMDAwMDAwMDBkMmFjODRjMjllODg2ZWNjMjFlYTZiZWYzZjA4Y2Q1MQ==`
+Snapshot ID: `MjgwMzE3ODMsMDAwMDAwMDAyNDc2NmY3ZGNhYjNkYzU5YmI0Y2EwNWY0YTI2MzkzNQ==`

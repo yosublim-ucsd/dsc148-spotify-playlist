@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. El Mat\u00f3 a un Polic\u00eda Motorizado en portada.",
-  "num_followers": 143764,
+  "num_followers": 143802,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMGU2ZmI4OTc4ZjY0ZjFmOTQxM2U3NTA4YmZjMjU4NGQy",
+  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDk5NzRkZjY5NWI1YWQ0MmZlMDJiNDRiZDIxMmE2OTNh",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Amantes - Su Majestad La Eternidad",
-        "url": "https://open.spotify.com/album/7HvthDR7lGp5JNua540inw"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 230933,
-      "name": "Su Majestad La Eternidad",
-      "url": "https://open.spotify.com/track/1nHE5HxALJUAPaFPn9CSpU"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Generaci\u00f3n Inmediata",
         "url": "https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 224614,
       "name": "Nube Fantasma",
       "url": "https://open.spotify.com/track/0n3GD03oX8uFTknufKX8SZ"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Amantes - Su Majestad La Eternidad",
+        "url": "https://open.spotify.com/album/7HvthDR7lGp5JNua540inw"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 230933,
+      "name": "Su Majestad La Eternidad",
+      "url": "https://open.spotify.com/track/1nHE5HxALJUAPaFPn9CSpU"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Llama Gemela",
-        "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
+        "name": "El Duelo",
+        "url": "https://open.spotify.com/album/3gRWgjHNPIxtZmRLBYOQTu"
       },
       "artists": [
         {
-          "name": "Odisseo",
-          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
         }
       ],
-      "duration_ms": 207089,
-      "name": "Llama Gemela",
-      "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
+      "duration_ms": 257466,
+      "name": "El Duelo",
+      "url": "https://open.spotify.com/track/1QYBZjQIHuWRRdKQ5An6jP"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -803,50 +803,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "El Duelo",
-        "url": "https://open.spotify.com/album/3gRWgjHNPIxtZmRLBYOQTu"
+        "name": "Llama Gemela",
+        "url": "https://open.spotify.com/album/43Qy4AahGmqtaH3166U8lz"
       },
       "artists": [
         {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+          "name": "Odisseo",
+          "url": "https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd"
         }
       ],
-      "duration_ms": 257466,
-      "name": "El Duelo",
-      "url": "https://open.spotify.com/track/1QYBZjQIHuWRRdKQ5An6jP"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Se\u00f1orita Revoluci\u00f3n",
-        "url": "https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 158478,
-      "name": "Se\u00f1orita Revoluci\u00f3n",
-      "url": "https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "La Izquierda de la Noche",
-        "url": "https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 219414,
-      "name": "La Izquierda de la Noche",
-      "url": "https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl"
+      "duration_ms": 207089,
+      "name": "Llama Gemela",
+      "url": "https://open.spotify.com/track/7e2WTOAzufu1MSIkWd0NAH"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -867,6 +835,22 @@
       "duration_ms": 207000,
       "name": "Gal\u00e1ctica",
       "url": "https://open.spotify.com/track/3lARK85Nl9QAjH9uqY1XdL"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "La Izquierda de la Noche",
+        "url": "https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 219414,
+      "name": "La Izquierda de la Noche",
+      "url": "https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -899,6 +883,22 @@
       "duration_ms": 311720,
       "name": "SKR",
       "url": "https://open.spotify.com/track/02jY4Umvqc6JdcjdsYxEEQ"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Se\u00f1orita Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 158478,
+      "name": "Se\u00f1orita Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/7EDmXSg0xZZT3NkcBjijCn"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Inevitable",
+        "url": "https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 204963,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Mi Psic\u00f3loga Me Dijo Que Hiciera Este Disco",
         "url": "https://open.spotify.com/album/3zLu80ETtlESfO9Lrldbux"
       },
@@ -995,22 +1011,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Inevitable",
-        "url": "https://open.spotify.com/album/2v0nWKYp3INzkGDRTQBqQa"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 204963,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/1gptFG7KprUHogyVXLZytK"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "De la Orqu\u00eddea y la Avispa",
         "url": "https://open.spotify.com/album/7L50tSXXmpzbpIDpNDyv5d"
       },
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "En Tu Orilla",
-        "url": "https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0"
+        "name": "Trebol",
+        "url": "https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn"
         }
       ],
-      "duration_ms": 205175,
-      "name": "En Tu Orilla",
-      "url": "https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2"
+      "duration_ms": 162758,
+      "name": "Trebol",
+      "url": "https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1059,22 +1059,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Ser\u00e1 Lo Que T\u00fa Quieras",
-        "url": "https://open.spotify.com/album/31inI2Td1fiXzkwjXcTr8Y"
+        "name": "En Tu Orilla",
+        "url": "https://open.spotify.com/album/0IAV1Yp5XReaM8Kp7VoqQ0"
       },
       "artists": [
         {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
-        },
-        {
-          "name": "Ramona",
-          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 182967,
-      "name": "Ser\u00e1 Lo Que T\u00fa Quieras",
-      "url": "https://open.spotify.com/track/24knCOVLEJZ25gLRmCRqYI"
+      "duration_ms": 205175,
+      "name": "En Tu Orilla",
+      "url": "https://open.spotify.com/track/6QWUefSwwQIkb1HPhnMIe2"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1099,18 +1095,42 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Trebol",
-        "url": "https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7"
+        "name": "Ser\u00e1 Lo Que T\u00fa Quieras",
+        "url": "https://open.spotify.com/album/31inI2Td1fiXzkwjXcTr8Y"
       },
       "artists": [
         {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn"
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        },
+        {
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
         }
       ],
-      "duration_ms": 162758,
-      "name": "Trebol",
-      "url": "https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi"
+      "duration_ms": 182967,
+      "name": "Ser\u00e1 Lo Que T\u00fa Quieras",
+      "url": "https://open.spotify.com/track/24knCOVLEJZ25gLRmCRqYI"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Contracorriente",
+        "url": "https://open.spotify.com/album/4ZuzyEmpRBxC35VT3if8wg"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Contracorriente",
+      "url": "https://open.spotify.com/track/1axnVawuhNUMKKfW7Q2mSP"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1159,26 +1179,6 @@
       "duration_ms": 209480,
       "name": "Descending To Nowhere",
       "url": "https://open.spotify.com/track/2VekSimbB6RVkb1Der7qXG"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Contracorriente",
-        "url": "https://open.spotify.com/album/4ZuzyEmpRBxC35VT3if8wg"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Contracorriente",
-      "url": "https://open.spotify.com/track/1axnVawuhNUMKKfW7Q2mSP"
     },
     {
       "added_at": "2023-04-14 06:00:00",

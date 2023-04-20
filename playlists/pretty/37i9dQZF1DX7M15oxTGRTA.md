@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 
 > Soul Music daqui e de fora, um toque de sensibilidade\. Foto: Cassiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,347 likes - 100 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,440 likes - 100 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 23 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 |
 | 24 | [Lovin' You](https://open.spotify.com/track/3ebYtLVuV4HzEZUDcpZB9p) | [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Perfect Angel](https://open.spotify.com/album/3TFzRE2Mm1uZcJeu91UNs9) | 3:43 |
 | 25 | [Sweet Thing](https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Rufus Featuring Chaka Khan](https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX) | 3:20 |
-| 26 | [You Are Everything](https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Diana & Marvin](https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC) | 3:10 |
-| 27 | [Reasons](https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [That's The Way Of The World](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) | 4:59 |
+| 26 | [Reasons](https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [That's The Way Of The World](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) | 4:59 |
+| 27 | [You Are Everything](https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Diana & Marvin](https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC) | 3:10 |
 | 28 | [Sweet Love](https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Sweet Love](https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD) | 4:22 |
 | 29 | [I Can't Help It](https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:29 |
 | 30 | [Superwoman](https://open.spotify.com/track/3bceL3NJmM8sKwr5dyrKAz) | [Karyn White](https://open.spotify.com/artist/5lJBrQQ88JjskJmJeVKX4F) | [Karyn White](https://open.spotify.com/album/2Ck4KnfNbVPQqcRkmsDt6F) | 5:47 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 43 | [Ben \- Single Version](https://open.spotify.com/track/0ZFqB9g2FujbmMSrjqsL3j) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Ben](https://open.spotify.com/album/3xo2soey9XEBI5DlmT4KlQ) | 2:47 |
 | 44 | [You Are Everything](https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Stylistics \- The Original Debut Album](https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ) | 2:55 |
 | 45 | [Who Can I Run To](https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:24 |
-| 46 | [We're in This Love Together](https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Breakin' Away](https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X) | 3:46 |
+| 46 | [Never Can Say Goodbye](https://open.spotify.com/track/5RHf8SmHRWbF3oywpXaQ2i) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Maybe Tomorrow](https://open.spotify.com/album/30gDRAWUg1hC8TYAtzr0i9) | 2:59 |
 | 47 | [Summer In The City](https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [You've Got It Bad Girl](https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB) | 4:04 |
-| 48 | [Never Can Say Goodbye](https://open.spotify.com/track/5RHf8SmHRWbF3oywpXaQ2i) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Maybe Tomorrow](https://open.spotify.com/album/30gDRAWUg1hC8TYAtzr0i9) | 2:59 |
+| 48 | [We're in This Love Together](https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Breakin' Away](https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X) | 3:46 |
 | 49 | [Stop, Look, Listen \(To Your Heart\)](https://open.spotify.com/track/0kKpGcvoXroKo1iNO5cDhi) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Diana & Marvin](https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC) | 2:57 |
 | 50 | [Always](https://open.spotify.com/track/5ecomU85GzPgOJZ315oZ88) | [Atlantic Starr](https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm) | [All In The Name Of Love](https://open.spotify.com/album/1ciLacI1DyPsAWFW4fCE15) | 4:46 |
 | 51 | [Summer Breeze, Pts\. 1 & 2](https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [3+3](https://open.spotify.com/album/27eI33obJuyKebMTxAJJam) | 6:11 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 86 | [You Are My Heaven \(feat\. Donny Hathaway\)](https://open.spotify.com/track/36Lo6DYzqyGLVFoPQSspmF) | [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA), [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [A Donny Hathaway Collection](https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB) | 4:14 |
 | 87 | [It's Time for Love](https://open.spotify.com/track/37X9uwEeWnlSOlrMyjXOi7) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [It's Time For Love](https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV) | 5:57 |
 | 88 | [Is This the End](https://open.spotify.com/track/3aUvAn5WkN1s1nWTbdQp3S) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Vows Of Love](https://open.spotify.com/album/5CxM6SVKWudQD9C2LEkJkD) | 4:14 |
-| 89 | [For the Good Times](https://open.spotify.com/track/1lRcKtjXlqcemLvShWPK8C) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [The Love Songs Collection](https://open.spotify.com/album/2Q8dU9GQEeuZRfJ6gpietG) | 6:13 |
-| 90 | [Dream Lover](https://open.spotify.com/track/6h637gCeeBs6cXYbJKoQZg) | [Liz Hogue](https://open.spotify.com/artist/6easnQDujkGyX9coigNSjm) | [Vicious & Fresh](https://open.spotify.com/album/7HtRGLzPo0eC2wwPwXoYft) | 5:57 |
+| 89 | [Dream Lover](https://open.spotify.com/track/6h637gCeeBs6cXYbJKoQZg) | [Liz Hogue](https://open.spotify.com/artist/6easnQDujkGyX9coigNSjm) | [Vicious & Fresh](https://open.spotify.com/album/7HtRGLzPo0eC2wwPwXoYft) | 5:57 |
+| 90 | [For the Good Times](https://open.spotify.com/track/1lRcKtjXlqcemLvShWPK8C) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [The Love Songs Collection](https://open.spotify.com/album/2Q8dU9GQEeuZRfJ6gpietG) | 6:13 |
 | 91 | [Pensando Nela](https://open.spotify.com/track/4FFDhzWVlhcg0Y6ujrYsm0) | [Don Beto](https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa) | [Nossa Imaginação](https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9) | 3:36 |
 | 92 | [Anticipation](https://open.spotify.com/track/46ABOH3c3OmH5waNodL3FZ) | [The Bar\-Kays](https://open.spotify.com/artist/0Z4CzYz9ieK8q9XiVMPkW5) | [Propositions](https://open.spotify.com/album/79OFHrcTLjudoKPtFs29tn) | 5:46 |
 | 93 | [Insatiable Woman \- 12" Version](https://open.spotify.com/track/005dZEnx7On15zBKACxlG7) | [Isley, Jasper, Isley](https://open.spotify.com/artist/3QpJtjdcw4jiQpic9R4Mr0) | [Caravan of Love \(Expanded Version\)](https://open.spotify.com/album/523bPeVpOAl1NmtiDqQAQ7) | 6:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 99 | [Um dia de domingo](https://open.spotify.com/track/41UtrfZQMk8598NmRIbZlt) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [iCollection](https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn) | 5:00 |
 | 100 | [Me dê motivos](https://open.spotify.com/track/30DmZoDNZaaLTWtur7cI66) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [iCollection](https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn) | 4:51 |
 
-Snapshot ID: `MTY3OTkzMTc0NSwwMDAwMDAwMDcxMzU5MGE4M2Y5ODFkNDY3Mzg5ZWZiZDVkY2RmNWUw`
+Snapshot ID: `MTY3OTkzMTc0NSwwMDAwMDAwMDg5Y2M4N2NiZGViZTNkMDNlNDBjZjAxYTc5YzlhYjhj`

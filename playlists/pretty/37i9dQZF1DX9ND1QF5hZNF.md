@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,339 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,445 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 5 | [Fast Car](https://open.spotify.com/track/7nAeN4bX0kzrvftoG4jag6) | [BLANDOS](https://open.spotify.com/artist/46n6pHUwgeUM9CujleOzuh), [Lenji](https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR) | [Fast Car](https://open.spotify.com/album/74T6J0W8EAM9LZRmpZNHN5) | 2:33 |
 | 6 | [Pink Soldiers](https://open.spotify.com/track/2JOTbHmj0jwBM9bHgcVEOq) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [Pink Soldiers](https://open.spotify.com/album/6hg6LPeCo8KtSJLxXfSKf4) | 2:15 |
 | 7 | [Sunset Memories](https://open.spotify.com/track/29hvDT8LFAr0wMG8j3LJUr) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Sunset Memories](https://open.spotify.com/album/5unPukcKP0JqN4CU8SwOuj) | 3:04 |
-| 8 | [Matter of Time](https://open.spotify.com/track/1TW9J0imyVBMihuwHqJ5sf) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time](https://open.spotify.com/album/621O6kH4iJa75aFZQTQPPI) | 4:00 |
+| 8 | [Matter of Time](https://open.spotify.com/track/3IuxYZUQ6J9yfqcVtk5h6b) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time](https://open.spotify.com/album/0RgsG1zTZxKqOTsRrHWqDh) | 4:00 |
 | 9 | [Cool Kids](https://open.spotify.com/track/1nOrmN6H9MmEzSTU024eAX) | [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B) | [Cool Kids](https://open.spotify.com/album/7BeNCwqOUFyfWN4392UWEK) | 2:33 |
 | 10 | [Take Me Home](https://open.spotify.com/track/4N07uEml4JYUiWxjwOV8Ww) | [Lieutenant 71](https://open.spotify.com/artist/3V0O5QILU07M67Y2S3l0cy), [LU2VYK](https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L) | [Take Me Home](https://open.spotify.com/album/55rV8BxbZiE5cGoJPrDsWo) | 2:38 |
 | 11 | [Grass Is Greener \(feat\. SEM\)](https://open.spotify.com/track/1lvwGOKo5nT6W4wajlVCVu) | [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD) | [Grass Is Greener \(feat\. SEM\)](https://open.spotify.com/album/1T5wlktsoLB93xm6TobPk1) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 49 | [Lied To Me](https://open.spotify.com/track/5dO6eoFYVSkqtIcwIIAWr5) | [Lonely Night](https://open.spotify.com/artist/5z7pjN7SUEN8nZFOO4MWhx), [Ari](https://open.spotify.com/artist/0V1Q4k9X1xSKiF9JVzRof1), [Lost Dreamers](https://open.spotify.com/artist/19jOvlXvoXs2Crt2RJ0R9B) | [Lied To Me](https://open.spotify.com/album/4AXoL7a5TPU6rktqwBeBgU) | 2:31 |
 | 50 | [Passage](https://open.spotify.com/track/3Q8CwfdyDIjHdlItATIxLt) | [Prigida](https://open.spotify.com/artist/4Ab2SjCDNyDAgkLfzzucWY) | [Passage](https://open.spotify.com/album/1UqfHtwpJsgz8FtEzPmpoR) | 2:10 |
 
-Snapshot ID: `MTY4MTcxNjYwMCwwMDAwMDAwMDI2NjhjMmFiMWY3NjQ5NDJlZmZiY2FjYzJhMzc0OWIw`
+Snapshot ID: `MTY4MTcxNjYwMCwwMDAwMDAwMGEwNTM3NjhmODY3Zjc0Y2Q5MzE1NDBhMzJhNzZlZmVh`

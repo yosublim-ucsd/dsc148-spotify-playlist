@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 
 > Music from "Love Live! Nijigasaki High School Idol Club" 「ラブライブ！虹ヶ咲学園スクールアイドル同好会」の楽曲を1つのプレイリストで。<br/>©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,451 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,472 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ele4FwgUgz.md) - [plain]
 | 45 | [I'm Still...](https://open.spotify.com/track/6hoWEK3oAZGV66U5z1UVbP) | [ミア・テイラー \(CV.内田 秀\)](https://open.spotify.com/artist/54hnRUYsDChS7pkIRHiz5P) | [MONSTER GIRLS](https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar) | 4:06 |
 | 46 | [あなたの理想のヒロイン](https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 5:26 |
 | 47 | [恋するMagic!!](https://open.spotify.com/track/6XhJEnIFAqMQxoiLSlelgn) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Eternal Light](https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm) | 3:48 |
-| 48 | [開花宣言](https://open.spotify.com/track/2I2gxRtOhtaghM4kmQbFYH) | [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 4:18 |
-| 49 | [サイコーハート](https://open.spotify.com/track/7fR786eNI8rp2sKxQM5jK0) | [宮下 愛 \(CV.村上奈津実\)](https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01) | [サイコーハート / La Bella Patria / ツナガルコネクト \(宮下 愛盤\)](https://open.spotify.com/album/1qvo8Ajhwj2DRa3slc7rkn) | 4:12 |
+| 48 | [サイコーハート](https://open.spotify.com/track/7fR786eNI8rp2sKxQM5jK0) | [宮下 愛 \(CV.村上奈津実\)](https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01) | [サイコーハート / La Bella Patria / ツナガルコネクト \(宮下 愛盤\)](https://open.spotify.com/album/1qvo8Ajhwj2DRa3slc7rkn) | 4:12 |
+| 49 | [開花宣言](https://open.spotify.com/track/2I2gxRtOhtaghM4kmQbFYH) | [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 4:18 |
 | 50 | [ダイアモンド](https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 3:53 |
 
-Snapshot ID: `MTY2OTEyOTIwMCwwMDAwMDAwMGI1YzRkZWI5ODkwOTY4ZjIxNTA2YWFmZGNjMWY0M2Vl`
+Snapshot ID: `MTY2OTEyOTIwMCwwMDAwMDAwMGIwZDJiNzY1OTc1ZWY2ZmZjNzg2ZDRjMzJmZWY0YTk0`

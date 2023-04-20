@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,632 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,639 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,17 +15,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 | 5 | [She lives in Paris](https://open.spotify.com/track/5PvMK77XUHP4EwdttBNX3o) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [She lives in Paris](https://open.spotify.com/album/0tms1uJhwMYwt7e8Zy41j2) | 3:17 |
 | 6 | [Brand New](https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [Brand New \- The 1st Mini Album](https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R) | 3:04 |
 | 7 | [Empty Cup](https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 2:19 |
-| 8 | [Akita \(Feat\. hartts\) \(Prod\. OBSN\)](https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [hartts](https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv) | [Akita](https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS) | 3:44 |
+| 8 | [Syndrome](https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [Syndrome](https://open.spotify.com/album/4YDtoADrhBQr4Epq57JRKX) | 3:41 |
 | 9 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 |
-| 10 | [Syndrome](https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [Syndrome](https://open.spotify.com/album/4YDtoADrhBQr4Epq57JRKX) | 3:41 |
+| 10 | [Akita \(Feat\. hartts\) \(Prod\. OBSN\)](https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [hartts](https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv) | [Akita](https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS) | 3:44 |
 | 11 | [Upside Down](https://open.spotify.com/track/41KiFWhvIgjdVura4h93Zh) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:15 |
 | 12 | [Vancouver](https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 3:36 |
 | 13 | [Childhood](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:15 |
 | 14 | [That's Why I Can't Talk About Love \(Feat\. Woo\)](https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [That's Why I Can't Talk About Love](https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG) | 3:22 |
 | 15 | [Hurt](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:57 |
-| 16 | [Tictoc Tictoc Tictoc \(with Beenzino\)](https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:56 |
-| 17 | [Pearl](https://open.spotify.com/track/6rReQcuVfH8P2r1ALCqe6q) | [YURA](https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6) | [Pearl](https://open.spotify.com/album/5zDgFrJOh9qfhBKhwuxpX3) | 3:53 |
-| 18 | [BOKE](https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [BOKE](https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD) | 3:04 |
+| 16 | [BOKE](https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [BOKE](https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD) | 3:04 |
+| 17 | [Tictoc Tictoc Tictoc \(with Beenzino\)](https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:56 |
+| 18 | [Pearl](https://open.spotify.com/track/6rReQcuVfH8P2r1ALCqe6q) | [YURA](https://open.spotify.com/artist/0INwsKBI2kE1LiPHx9ZIg6) | [Pearl](https://open.spotify.com/album/5zDgFrJOh9qfhBKhwuxpX3) | 3:53 |
 | 19 | [Distance \(Feat\. I.M of MONSTA X\)](https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 3:11 |
 | 20 | [because I'm stupid?](https://open.spotify.com/track/0SsFfnxcn6fLOVAQ65yYTy) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS) | [because I'm stupid?](https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk) | 2:31 |
 | 21 | [California Love \(feat\. JENO of NCT\)](https://open.spotify.com/track/4nXCajkpZro4iPbfD7Oj4F) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY), [JENO](https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V) | [California Love](https://open.spotify.com/album/1p8UR9GqDhao1x8msg29gL) | 3:48 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a7mln8z0Su.md) - [plain]
 | 47 | [Nemo](https://open.spotify.com/track/2JZiDl32xEwkm7TjMOPUVB) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:55 |
 | 48 | [Smile, Wait For The Flash](https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Like A Film : 4 Songs](https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp) | 3:46 |
 | 49 | [Hold tight](https://open.spotify.com/track/7oCyRPCxIT75x7nmEy3spP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd), [Jaw](https://open.spotify.com/artist/3G71Qx8OKLTUCaPibXyNbn) | [Hold tight](https://open.spotify.com/album/2pjhKRc0AbbPEGZL2DzWpQ) | 2:54 |
-| 50 | [Bad words](https://open.spotify.com/track/2yVgwIQvVXlHi22YzHBRFX) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Housekeepers](https://open.spotify.com/artist/59l0058l1cWuL7g6TYxgy1) | [Bad words with KozyPop](https://open.spotify.com/album/6QOhAtSYIIp3VnZnakUvxa) | 3:17 |
+| 50 | [Thread\(1.11\)](https://open.spotify.com/track/1SivewZiFgZXl9wfW5eS3H) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM) | [3 STEPS FORWARD, 2 STEPS BACK](https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY) | 4:53 |
 
-Snapshot ID: `MTY3OTkwNTU5NywwMDAwMDAwMDRhZjNiOWFiNjJjNTE3MzhmMzExOTdjMDUzODcwOGQx`
+Snapshot ID: `MTY3OTkwNTU5NywwMDAwMDAwMGM1NWVlOTJjYjZjZjhjODYwOWZlZGVjNGVhZDM2YzAy`

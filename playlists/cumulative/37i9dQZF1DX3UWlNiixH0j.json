@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Kisetsu no Tsukamaekata",
+        "url": "https://open.spotify.com/album/0embyCrpQVh3CnXeKMIaFb"
+      },
+      "artists": [
+        {
+          "name": "Seikatsu no Sekkei",
+          "url": "https://open.spotify.com/artist/6xM4LUYF3ZCeNOU3sgfrCT"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Ame no Nioi wa Message",
+      "url": "https://open.spotify.com/track/7npdHuWN0SFOFGohsWjnef"
+    },
+    {
+      "album": {
         "name": "ANGRY ANGRY",
         "url": "https://open.spotify.com/album/6dYD95mcfILqgnohKRixuA"
       },
@@ -360,7 +378,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 223469,
       "name": "Baby So in Love",
       "url": "https://open.spotify.com/track/4Pvxx8Df8cAgKZSMgTZ2RK"
@@ -767,6 +785,24 @@
     },
     {
       "album": {
+        "name": "Inner Dialog",
+        "url": "https://open.spotify.com/album/48AHaxshOHD3ktB9Ea5RDN"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325898,
+      "name": "Countdown Rag",
+      "url": "https://open.spotify.com/track/4I3f7odzNXdhDrxX4W4aT3"
+    },
+    {
+      "album": {
         "name": "Crying Dancer",
         "url": "https://open.spotify.com/album/57Hy9sa2xYdcElkTaQbjaR"
       },
@@ -1114,7 +1150,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 251773,
       "name": "Endless Blue",
       "url": "https://open.spotify.com/track/65N6CHBeC10wQeP4bS3Nlq"
@@ -1259,6 +1295,28 @@
     },
     {
       "album": {
+        "name": "MOTTO! BABBI FES",
+        "url": "https://open.spotify.com/album/03qTvyZV4183Z211h4WJgz"
+      },
+      "artists": [
+        {
+          "name": "Bailefunk Kakeko",
+          "url": "https://open.spotify.com/artist/1HwLXF2eM4TFgUwric8Ivg"
+        },
+        {
+          "name": "valknee",
+          "url": "https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146849,
+      "name": "FAKE SUMMER",
+      "url": "https://open.spotify.com/track/4XturgJyq6UTHciwCYIBEe"
+    },
+    {
+      "album": {
         "name": "\u3082\u3063\u3068!\u30d0\u30d3\u30d5\u30a7\u30b9",
         "url": "https://open.spotify.com/album/2xCW3KFRS2BGZ62ABv9ZyG"
       },
@@ -1274,7 +1332,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 146849,
       "name": "FAKE SUMMER",
       "url": "https://open.spotify.com/track/0a55KCTEZYY5Ru9u2yCMyl"
@@ -2526,6 +2584,24 @@
       "duration_ms": 221666,
       "name": "Landscapes",
       "url": "https://open.spotify.com/track/1kR9fUrtW3ivzHiNKftnkP"
+    },
+    {
+      "album": {
+        "name": "New Neighbors",
+        "url": "https://open.spotify.com/album/6IOnkt2rwHoyPgd8tiBTSD"
+      },
+      "artists": [
+        {
+          "name": "Homecomings",
+          "url": "https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235813,
+      "name": "Lapse",
+      "url": "https://open.spotify.com/track/5TeGDq5gS3KBG88UvdAT5E"
     },
     {
       "album": {
@@ -5560,7 +5636,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 325898,
       "name": "\u30ab\u30a6\u30f3\u30c8\u30c0\u30a6\u30f3\u30fb\u30e9\u30b0",
       "url": "https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU"
@@ -5614,7 +5690,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 218804,
       "name": "\u30b7\u30e3\u30ab\u30f3\u30fb\u30ca\u30fb\u30bd\u30f3\u30fb\u30b0\u30fc",
       "url": "https://open.spotify.com/track/6VBCobSYJlE0GOzhiubTrI"
@@ -6072,7 +6148,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 235813,
       "name": "\u30e9\u30d7\u30b9",
       "url": "https://open.spotify.com/track/47hW5TPsOjph8hA9kxNdcj"
@@ -7052,7 +7128,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 286710,
       "name": "\u706f\u308a",
       "url": "https://open.spotify.com/track/6KFq8QrhFWxquhE4Kz0SjS"
@@ -7428,7 +7504,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 250000,
       "name": "\u96e8\u306e\u5302\u3044\u306f\u30e1\u30c3\u30bb\u30fc\u30b8",
       "url": "https://open.spotify.com/track/15e0xl1rIssFH5fenqD3Vo"

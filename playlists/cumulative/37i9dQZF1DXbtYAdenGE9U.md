@@ -4,7 +4,7 @@
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-133 songs - 10 hr 29 min
+134 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/1zsDbmrf4ZkjW5hsSsaDjO) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/43baGAToTn6j7MMy7YU0yT) | 7:36 | 2022-04-13 | 2022-07-29 |
 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 | 2022-04-13 |  |
 | [Breaking Ties \- Above & Beyond Analogue Haven Mix Radio Edit](https://open.spotify.com/track/3i7ZYpOe6KJBthp6NqPuFi) | [Oceanlab](https://open.spotify.com/artist/0aTdKgInKeMlNnwWSa1YPT), [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Breaking Ties](https://open.spotify.com/album/3JDhCixj2Lr0JGp8Htyz1d) | 4:01 | 2022-12-28 | 2023-03-11 |
-| [C'est Musique \- Armin van Buuren Mix](https://open.spotify.com/track/5kB1gEMaiHS78xIDT4JbJC) | [Shane](https://open.spotify.com/artist/1z72nMFtolqEV4KXotyigR), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [C'est Musique \(Armin van Buuren Mix\)](https://open.spotify.com/album/2f587WiMGu3vcpkbNfXOSX) | 11:09 | 2022-04-13 |  |
+| [C'est Musique \- Armin van Buuren Mix](https://open.spotify.com/track/5kB1gEMaiHS78xIDT4JbJC) | [Shane](https://open.spotify.com/artist/1z72nMFtolqEV4KXotyigR), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [C'est Musique \(Armin van Buuren Mix\)](https://open.spotify.com/album/2f587WiMGu3vcpkbNfXOSX) | 11:09 | 2022-04-13 | 2023-04-20 |
 | [Café Del Mar \- Marco V Remix Radio Edit](https://open.spotify.com/track/6z91SyGlPsllxhnG2Aw0Fb) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 3:06 | 2022-04-13 |  |
 | [Café Del Mar \- Three 'n One Radio Edit](https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 3:49 | 2023-03-10 |  |
 | [Carte Blanche \- FM Edit](https://open.spotify.com/track/5yTN79Mgt4licL40oassM3) | [Veracocha](https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd) | [Carte Blanche \(Ilan Bluestone Remix\)](https://open.spotify.com/album/295n2liNroUB9gpP6tsNAE) | 3:24 | 2022-12-28 |  |
@@ -116,6 +116,7 @@
 | [Sun 2011 \- Radio Edit](https://open.spotify.com/track/65VZqlV7p6H6D6icBq6Yg3) | [Slusnik Luna](https://open.spotify.com/artist/0oEuMd3OoMuGOIUt1wiMbA) | [Sun 2011](https://open.spotify.com/album/39KmC4qAz5Mg7Bp6Nt7bCk) | 3:43 | 2022-12-28 | 2023-03-11 |
 | [Superstring \- RANK 1's Radio Edit](https://open.spotify.com/track/39TCsy3tu2xSPYEo6excU7) | [Cygnus X](https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG), [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Superstring](https://open.spotify.com/album/1wM9cCJ9JxT4RarsN6V0G3) | 3:07 | 2022-04-13 |  |
 | [Surrender \- Original Mix](https://open.spotify.com/track/544RqpJzs54nrlCU5NzvvS) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Surrender](https://open.spotify.com/album/2nGxjNIvgkaMT6BVUr7b1H) | 7:34 | 2022-12-28 | 2023-03-11 |
+| [Take Me Away \(Into The Night\) \- Radio Edit](https://open.spotify.com/track/7AdWFGv4pv1o9YSPWACdOl) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Take Me Away \(Into The Night\)](https://open.spotify.com/album/3BIWgt1SQ3YISooGrl0LQr) | 3:09 | 2023-03-10 |  |
 | [The Launch \- Radio Edit](https://open.spotify.com/track/6FP4peicCGnib7asns71fs) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [The Launch](https://open.spotify.com/album/2mf2kFapmGUkmAVWvjjzr0) | 3:40 | 2022-04-13 | 2022-12-28 |
 | [The Legacy \- Club Mix](https://open.spotify.com/track/2RpGTuM5XINRHqRiXMLOn5) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR) | [A Decade of Trance \- 2001 \(Part 1\)](https://open.spotify.com/album/3ALvbvXMmXn1t1IGLonWb1) | 8:56 | 2022-04-13 | 2022-07-29 |
 | [The Silmarillia \- 4 Strings Radio Edit](https://open.spotify.com/track/0MS2xQnpsUZtY2PuYYzuNj) | [Carlos](https://open.spotify.com/artist/5YYbSUNzTPWjvBoKWxLfKc), [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [The Silmarillia Remixes](https://open.spotify.com/album/2YBYrISVU6Zw19oIjpO2PK) | 3:21 | 2022-04-13 | 2022-07-29 |

@@ -3458,7 +3458,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 370680,
       "name": "Rubicon",
       "url": "https://open.spotify.com/track/2ZkAAVVr0wuSN0pYdXBGmI"
@@ -4794,6 +4794,24 @@
       "duration_ms": 572546,
       "name": "Where Can I Go Without You",
       "url": "https://open.spotify.com/track/6WTaPOmjmElVLG7HD8nHkb"
+    },
+    {
+      "album": {
+        "name": "Whiplashed",
+        "url": "https://open.spotify.com/album/48K8veuVqjwlO3SMUguVHw"
+      },
+      "artists": [
+        {
+          "name": "Garry Cooper Trio",
+          "url": "https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197902,
+      "name": "Whiplashed",
+      "url": "https://open.spotify.com/track/6qJ26rva0vDec7YDB2olDD"
     },
     {
       "album": {

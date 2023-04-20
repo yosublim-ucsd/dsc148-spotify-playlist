@@ -4,7 +4,7 @@
 
 > This is Los Relampagos Del Norte\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 20 min
+65 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Cobardemente](https://open.spotify.com/track/4RZIcM350ojxE1p2FgFVmt) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Súper Éxitos](https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk) | 3:04 | 2022-06-01 | 2022-10-28 |
 | [Con La Tinta De Mi Sangre](https://open.spotify.com/track/0a8yGyvn2l0Tl80LJ8e6Y7) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Súper Éxitos](https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk) | 3:54 | 2022-06-01 | 2023-03-31 |
 | [Cruel Dolor](https://open.spotify.com/track/0hp1snRX19rfz4fAfqvcDa) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Puras Cantineras, Vol\. 1](https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX) | 2:47 | 2022-06-01 |  |
+| [Desvelos Mios](https://open.spotify.com/track/0EvTvBa5lwIjRFjUd09iWi) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [A Grito Abierto](https://open.spotify.com/album/3gwT7FSwfQ0tB6hEHEIFin) | 2:49 | 2023-04-19 |  |
 | [Devolución](https://open.spotify.com/track/02ygYqJG1w7guDHVATBd0F) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [22 Éxitos de Oro, vol\. 4](https://open.spotify.com/album/4eh50zoGTP5IJ84YR0byqc) | 2:12 | 2022-06-01 |  |
 | [Dónde Está el Corazón](https://open.spotify.com/track/1UKo5oFQi92VPqesz2KKwA) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [El Disco de Oro](https://open.spotify.com/album/4L5987PRJ0lgS1J2BmwMB7) | 2:22 | 2022-07-27 | 2022-09-21 |
 | [El Coyote \- Live](https://open.spotify.com/track/086prN6onXRaD0TDMZnVjz) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos Del Norte En Vivo \(Live\)](https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj) | 3:45 | 2022-06-01 |  |

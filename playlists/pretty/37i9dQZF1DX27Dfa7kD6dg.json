@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 18002,
+  "num_followers": 18039,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAxNDM3NiwwMDAwMDAwMDAxODMyNjMxOTdkNzlhMzAzNzcxMjI1ZGYzMGYzZjUz",
+  "snapshot_id": "MTY3OTAxNDM3NiwwMDAwMDAwMGZiMTJiZmRmZmI4NzJhZmMwNDViYzUzNzY1Y2ZhODAx",
   "tracks": [
     {
       "added_at": "2023-03-17 00:52:56",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
+        "name": "La Historia... Los \u00c9xitos",
+        "url": "https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "duration_ms": 273763,
+      "name": "Virgen",
+      "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
         "name": "Pacheco Y Su Charanga Vol. 3: Que Suene La Flauta",
         "url": "https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 153608,
       "name": "Acuyuye",
       "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
-        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
-      },
-      "artists": [
-        {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        }
-      ],
-      "duration_ms": 259578,
-      "name": "Ay Amor, Cuando Hablan las Miradas",
-      "url": "https://open.spotify.com/track/2ocrrzqQCZc2cSnXDRw57E"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -731,6 +731,22 @@
       "duration_ms": 299960,
       "name": "Tu Me Quemas",
       "url": "https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
+        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 259578,
+      "name": "Ay Amor, Cuando Hablan las Miradas",
+      "url": "https://open.spotify.com/track/2ocrrzqQCZc2cSnXDRw57E"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -855,22 +871,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Hoy y Ayer",
-        "url": "https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 168986,
-      "name": "Mambo Gozon",
-      "url": "https://open.spotify.com/track/0hk1gSyn3wKgdxqF6qaKUZ"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Serie Millennium",
         "url": "https://open.spotify.com/album/7FCjuXUkL6AgssIVl57z7C"
       },
@@ -899,6 +899,22 @@
       "duration_ms": 274586,
       "name": "Puerto Rico",
       "url": "https://open.spotify.com/track/4doloJKKvqdQTlId3BWMWk"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Hoy y Ayer",
+        "url": "https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 168986,
+      "name": "Mambo Gozon",
+      "url": "https://open.spotify.com/track/0hk1gSyn3wKgdxqF6qaKUZ"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -991,22 +1007,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "35th Anniversary- 35 Years Around the World",
-        "url": "https://open.spotify.com/album/3JE1c20sJcRS0h4j7LChmn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 301600,
-      "name": "Carbonerito",
-      "url": "https://open.spotify.com/track/2UNd4AvmnEYaXIsZTOTJHQ"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "El Gigante del Teclado",
         "url": "https://open.spotify.com/album/6PjtSTcRAyMZ1k9xhvXEFp"
       },
@@ -1055,22 +1055,34 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Guaguamambo",
-        "url": "https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9"
+        "name": "Descargando",
+        "url": "https://open.spotify.com/album/4EuoJF1Bd372NCI5C2fH4z"
       },
       "artists": [
         {
           "name": "El Timba",
           "url": "https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi"
-        },
-        {
-          "name": "Fabio Gianni",
-          "url": "https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu"
         }
       ],
-      "duration_ms": 278091,
-      "name": "Esta Pegao",
-      "url": "https://open.spotify.com/track/0SQJvvvcSjlUgQjfk1i204"
+      "duration_ms": 294013,
+      "name": "Hermano",
+      "url": "https://open.spotify.com/track/0odZdAJaLd4NEyYXb3t1Wc"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "35th Anniversary- 35 Years Around the World",
+        "url": "https://open.spotify.com/album/3JE1c20sJcRS0h4j7LChmn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 301600,
+      "name": "Carbonerito",
+      "url": "https://open.spotify.com/track/2UNd4AvmnEYaXIsZTOTJHQ"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1127,6 +1139,26 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
+        "name": "Guaguamambo",
+        "url": "https://open.spotify.com/album/0LVF4qB04lxxLeUlXhqZS9"
+      },
+      "artists": [
+        {
+          "name": "El Timba",
+          "url": "https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi"
+        },
+        {
+          "name": "Fabio Gianni",
+          "url": "https://open.spotify.com/artist/0l8NVW6mW9GPWR43ueCYPu"
+        }
+      ],
+      "duration_ms": 278091,
+      "name": "Esta Pegao",
+      "url": "https://open.spotify.com/track/0SQJvvvcSjlUgQjfk1i204"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
         "name": "Lo Que Pas\u00f3... La Historia Del Pr\u00edncipe De La Salsa",
         "url": "https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW"
       },
@@ -1139,22 +1171,6 @@
       "duration_ms": 283013,
       "name": "Mi Mundo",
       "url": "https://open.spotify.com/track/6dvRYk3hch6cxh81jhKwFD"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "Descargando",
-        "url": "https://open.spotify.com/album/4EuoJF1Bd372NCI5C2fH4z"
-      },
-      "artists": [
-        {
-          "name": "El Timba",
-          "url": "https://open.spotify.com/artist/0O0OynmaAvfmXAsBwNHBwi"
-        }
-      ],
-      "duration_ms": 294013,
-      "name": "Hermano",
-      "url": "https://open.spotify.com/track/0odZdAJaLd4NEyYXb3t1Wc"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1247,18 +1263,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Esenciales Vol\u00famen I",
-        "url": "https://open.spotify.com/album/7yibFAEIfUXMMumIixZJsp"
+        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
+        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
       },
       "artists": [
         {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        },
+        {
+          "name": "Gustavo Rodriguez",
+          "url": "https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2"
         }
       ],
-      "duration_ms": 224493,
-      "name": "A El",
-      "url": "https://open.spotify.com/track/3U5EvqgBklihqlnlIuWcUR"
+      "duration_ms": 293067,
+      "name": "Mujer de Carne y Hueso",
+      "url": "https://open.spotify.com/track/4lrtVnIYs1JX00H9FwzJh1"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1279,18 +1299,18 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Lo Que Pas\u00f3... La Historia Del Pr\u00edncipe De La Salsa",
-        "url": "https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW"
+        "name": "Esenciales Vol\u00famen I",
+        "url": "https://open.spotify.com/album/7yibFAEIfUXMMumIixZJsp"
       },
       "artists": [
         {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
         }
       ],
-      "duration_ms": 279333,
-      "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
-      "url": "https://open.spotify.com/track/54YMfDYvcG24NQU1Jxcu8V"
+      "duration_ms": 224493,
+      "name": "A El",
+      "url": "https://open.spotify.com/track/3U5EvqgBklihqlnlIuWcUR"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1315,22 +1335,18 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "25 A\u00f1os, 25 \u00c9xitos, 25 Artistas",
-        "url": "https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB"
+        "name": "Lo Que Pas\u00f3... La Historia Del Pr\u00edncipe De La Salsa",
+        "url": "https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW"
       },
       "artists": [
         {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
-        },
-        {
-          "name": "Gustavo Rodriguez",
-          "url": "https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2"
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
         }
       ],
-      "duration_ms": 293067,
-      "name": "Mujer de Carne y Hueso",
-      "url": "https://open.spotify.com/track/4lrtVnIYs1JX00H9FwzJh1"
+      "duration_ms": 279333,
+      "name": "Lo Que Pas\u00f3 Entre T\u00fa y Yo Pas\u00f3",
+      "url": "https://open.spotify.com/track/54YMfDYvcG24NQU1Jxcu8V"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1387,34 +1403,18 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Con Bajo Y Todo",
-        "url": "https://open.spotify.com/album/6ftic7itzGAW7BDdvi2PMx"
+        "name": "Here comes... Tito Puente!",
+        "url": "https://open.spotify.com/album/4MOl4SznY1dtfg7MZYfROw"
       },
       "artists": [
         {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 215214,
-      "name": "Para Chango",
-      "url": "https://open.spotify.com/track/7nabjegyfwRCiFX11anzb1"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "La Historia... Los \u00c9xitos",
-        "url": "https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ"
-      },
-      "artists": [
-        {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
-        }
-      ],
-      "duration_ms": 273763,
-      "name": "Virgen",
-      "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"
+      "duration_ms": 167133,
+      "name": "Mambo Goz\u00f3n",
+      "url": "https://open.spotify.com/track/2P12SmID74922J8JwQd90j"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Here comes... Tito Puente!",
-        "url": "https://open.spotify.com/album/4MOl4SznY1dtfg7MZYfROw"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Mambo Goz\u00f3n",
-      "url": "https://open.spotify.com/track/2P12SmID74922J8JwQd90j"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Cuando Parar\u00e1 La Lluvia",
         "url": "https://open.spotify.com/album/0sHhkFC7qkLjTufP56kGlA"
       },
@@ -1471,18 +1455,18 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Hecho Y Derecho",
-        "url": "https://open.spotify.com/album/6CqvcH88Hmn0VyD8KWCaDy"
+        "name": "Con Bajo Y Todo",
+        "url": "https://open.spotify.com/album/6ftic7itzGAW7BDdvi2PMx"
       },
       "artists": [
         {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
         }
       ],
-      "duration_ms": 167331,
-      "name": "Hecho Y Derecho",
-      "url": "https://open.spotify.com/track/0wbgGX25FfDH0dpXeKwLRP"
+      "duration_ms": 215214,
+      "name": "Para Chango",
+      "url": "https://open.spotify.com/track/7nabjegyfwRCiFX11anzb1"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1499,6 +1483,22 @@
       "duration_ms": 185773,
       "name": "Mambo La Libertad",
       "url": "https://open.spotify.com/track/70HyvVQ5kdYxVQgqSAOtnz"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Hecho Y Derecho",
+        "url": "https://open.spotify.com/album/6CqvcH88Hmn0VyD8KWCaDy"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+        }
+      ],
+      "duration_ms": 167331,
+      "name": "Hecho Y Derecho",
+      "url": "https://open.spotify.com/track/0wbgGX25FfDH0dpXeKwLRP"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Pura Salsa",
-        "url": "https://open.spotify.com/album/7riHCrKoLv3Y0Vg9tnDWg1"
-      },
-      "artists": [
-        {
-          "name": "Azuquita Y Su Orquesta Melao",
-          "url": "https://open.spotify.com/artist/4DRX9H3y8WLxqYspsWHpFR"
-        }
-      ],
-      "duration_ms": 275040,
-      "name": "Salsa Na' Ma'",
-      "url": "https://open.spotify.com/track/2ltnuPephnEI9MTjcRfvto"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Perdido",
         "url": "https://open.spotify.com/album/5LYY9AkRt5DewwnfQt63Dz"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 489000,
       "name": "Y Yo Ganga",
       "url": "https://open.spotify.com/track/5s9rrpkjzcRVo04hzzz8fw"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Pura Salsa",
+        "url": "https://open.spotify.com/album/7riHCrKoLv3Y0Vg9tnDWg1"
+      },
+      "artists": [
+        {
+          "name": "Azuquita Y Su Orquesta Melao",
+          "url": "https://open.spotify.com/artist/4DRX9H3y8WLxqYspsWHpFR"
+        }
+      ],
+      "duration_ms": 275040,
+      "name": "Salsa Na' Ma'",
+      "url": "https://open.spotify.com/track/2ltnuPephnEI9MTjcRfvto"
     },
     {
       "added_at": "2023-03-17 00:52:56",

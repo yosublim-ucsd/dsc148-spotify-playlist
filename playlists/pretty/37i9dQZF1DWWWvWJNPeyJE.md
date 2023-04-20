@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 
 > Let’s get it on....
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,934 likes - 80 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,124 likes - 80 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 9 | [Fantasy \(feat\. Don Toliver\)](https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:58 |
 | 10 | [Often](https://open.spotify.com/track/4PhsKqMdgMEUSstTDAmMpg) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 4:09 |
 | 11 | [Love Language](https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:03 |
-| 12 | [Sativa](https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:36 |
-| 13 | [Me & U](https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Cassie \(U.S\. Version\)](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) | 3:12 |
+| 12 | [Me & U](https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT) | [Cassie](https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH) | [Cassie \(U.S\. Version\)](https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu) | 3:12 |
+| 13 | [Sativa](https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Trip](https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k) | 4:36 |
 | 14 | [oui](https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 3:58 |
 | 15 | [Say It](https://open.spotify.com/track/2Gyc6e2cLxA5hoX1NOvYnU) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [I Told You](https://open.spotify.com/album/5tBOCi2TekXZ1IbrmlBZO4) | 3:57 |
 | 16 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/5kY2DRIom6dcVZbQb1SAX8) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Dark Side](https://open.spotify.com/album/0FvZIwN0AHWYQVyuS3KR7H) | 4:20 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 28 | [Planez](https://open.spotify.com/track/08zJpaUQVi9FrKv2e32Bah) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 4:00 |
 | 29 | [Come Thru \(with Usher\)](https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:01 |
 | 30 | [Yo \(Excuse Me Miss\)](https://open.spotify.com/track/7DFnq8FYhHMCylykf6ZCxA) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Chris Brown \(Expanded Edition\)](https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v) | 3:49 |
-| 31 | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE) | 3:01 |
-| 32 | [Slow Motion](https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga Reloaded](https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW) | 3:17 |
+| 31 | [Slow Motion](https://open.spotify.com/track/4NYwy0R3NdvORX2B6OZXBT) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Trigga Reloaded](https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW) | 3:17 |
+| 32 | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE) | 3:01 |
 | 33 | [It Won't Stop \(feat\. Chris Brown\) \- EP Version](https://open.spotify.com/track/2xRYnHQdLD9ketvC01UYYT) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Call Me Crazy, But...](https://open.spotify.com/album/3QpNG7nH0VRIeKmMz7lEi7) | 4:41 |
 | 34 | [Birthday Sex](https://open.spotify.com/track/4NpDZPwSXmL0cCTaJuVrCw) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Jeremih](https://open.spotify.com/album/5CKAAsmFCdmKq4fTtNdmHc) | 3:46 |
 | 35 | [So Anxious](https://open.spotify.com/track/2zbjlcLi1VQWqDNYdhyx1l) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [100% Ginuwine](https://open.spotify.com/album/0yfC7hiO3iAaVvNCVcwjVY) | 4:36 |
@@ -71,14 +71,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 61 | [Music For Love](https://open.spotify.com/track/5gikplVdSoYfG0YKCRuicp) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Go](https://open.spotify.com/album/23heJEeNSmPytB3UpSJ3iD) | 3:49 |
 | 62 | [Calling On You](https://open.spotify.com/track/7wYhcfgPUyML3FKfLwvBwk) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [Pleasures U Like](https://open.spotify.com/album/1uVZharbta7UF0rqb1AU1F) | 4:40 |
 | 63 | [Morning](https://open.spotify.com/track/2E6S3NgbSG9NYwbdi6rWYB) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Morning](https://open.spotify.com/album/65Jg9mmsgao1JJizzRt7em) | 4:13 |
-| 64 | [Ocean \(feat\. Jacquees\)](https://open.spotify.com/track/2yI8omCrTAyrTcK7NRppu7) | [TK Kravitz](https://open.spotify.com/artist/65rDIPdQD7ijLSOq32cMXo), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [2.0](https://open.spotify.com/album/3zTN3hhVzNr1xr6bulWF97) | 3:39 |
-| 65 | [Fire](https://open.spotify.com/track/6lfYEDqBMdeqNEszf5tQ9Q) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ) | 2:33 |
+| 64 | [Fire](https://open.spotify.com/track/6lfYEDqBMdeqNEszf5tQ9Q) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/5zUDvKAyEKkrhYLWJJWGPQ) | 2:33 |
+| 65 | [Ocean \(feat\. Jacquees\)](https://open.spotify.com/track/2yI8omCrTAyrTcK7NRppu7) | [TK Kravitz](https://open.spotify.com/artist/65rDIPdQD7ijLSOq32cMXo), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [2.0](https://open.spotify.com/album/3zTN3hhVzNr1xr6bulWF97) | 3:39 |
 | 66 | [Dance Like We're Making Love](https://open.spotify.com/track/3biFdxByHgUhTbp2dG89zK) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 4:16 |
 | 67 | [Don't](https://open.spotify.com/track/7lxWzjZCSkXndL8eYKfFWU) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Don't](https://open.spotify.com/album/33QmlmdmJnFBkKgRKXh0SJ) | 3:20 |
 | 68 | [I Like](https://open.spotify.com/track/2KqyIbbCPKhNfqqzUVq9H9) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [All About You](https://open.spotify.com/album/3sGj0fBj5EJbewKgCWA1uD) | 3:38 |
 | 69 | [Skin](https://open.spotify.com/track/62YAKv9ak7mxrNRdhe7Pe9) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) | 5:03 |
-| 70 | [First](https://open.spotify.com/track/64ZUFfGyxeHvfQ1EHJf3Pp) | [SoMo](https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs) | [The Answers](https://open.spotify.com/album/0xU39IVVOseJrIHwSGJvBI) | 3:26 |
-| 71 | [Lights On](https://open.spotify.com/track/01ZqsXtHhRtO2Z2JrvkG1w) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:39 |
+| 70 | [Lights On](https://open.spotify.com/track/01ZqsXtHhRtO2Z2JrvkG1w) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:39 |
+| 71 | [First](https://open.spotify.com/track/64ZUFfGyxeHvfQ1EHJf3Pp) | [SoMo](https://open.spotify.com/artist/5AtWO8IEnjhRLzaVVQxFUs) | [The Answers](https://open.spotify.com/album/0xU39IVVOseJrIHwSGJvBI) | 3:26 |
 | 72 | [Run My Mouth](https://open.spotify.com/track/3gfIiIN9ZrFgfI9eZDI831) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Ella Mai](https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0) | 2:35 |
 | 73 | [Dangerous \(feat\. Jeremih and PnB Rock\)](https://open.spotify.com/track/1lL7Sj9AitQT7YWXs6obEq) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Legends of the Summer](https://open.spotify.com/album/10VeHPWU3210DSCq0uQ9uN) | 3:54 |
 | 74 | [F With U \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6mLfR7fHVDcCKpLwGLWCWw) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [7 Series](https://open.spotify.com/album/5TeAtFCYpc0WELiph7eiAg) | 2:59 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 79 | [Fantasy](https://open.spotify.com/track/3UVVNiFBnYuORmpaYifi6q) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [Pain & Pleasure](https://open.spotify.com/album/3OEWHfyh0pbFuTJp144pXJ) | 4:06 |
 | 80 | [Late Night Drive](https://open.spotify.com/track/0K83VVfg5Y4bPoZ4kmytKH) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Late Night Drive](https://open.spotify.com/album/1ZpjavjzxvWjPYDnpDR8nX) | 4:12 |
 
-Snapshot ID: `MTY3Nzg1MDY3NCwwMDAwMDAwMGE1OGEzMTdlNTc5OWEyYmFlNDgyNGFkMzFjYTA0Y2Ew`
+Snapshot ID: `MTY3Nzg1MDY3NCwwMDAwMDAwMGYxN2M5NzgwY2VkYWFhOTk1NzRiYTY0MzJmN2NiOWQ4`

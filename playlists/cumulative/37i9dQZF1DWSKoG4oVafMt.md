@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Diljit Dosanjh & Nimrat Khaira
 
-731 songs - 1 day 15 hr 40 min
+734 songs - 1 day 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Akh Boldi](https://open.spotify.com/track/5PJZD2eFRf2bTZ6Vg4MQMe) | [Surjit Bhullar](https://open.spotify.com/artist/5NA7O4JSNzYDkpMyneLWiD) | [Akh Boldi](https://open.spotify.com/album/5aVmLH2IJ11dXZEQ3S0L8N) | 2:41 | 2022-10-25 | 2023-02-02 |
 | [Akh Da Taara](https://open.spotify.com/track/737HezI1JaYiBNKGnPiVas) | [Kaash](https://open.spotify.com/artist/1yfbFvnTbmTbLOkw8sMUKv), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Akh Da Taara](https://open.spotify.com/album/40mp2aMcrURy4hrsE3w6LE) | 4:03 | 2022-07-18 | 2022-08-18 |
 | [Akh Kashni](https://open.spotify.com/track/6XGSNHEcQyz9sBYT0Fo532) | [Ashu](https://open.spotify.com/artist/2d597pUuGdL3bcn0jhZuww), [Spade](https://open.spotify.com/artist/3LHmBcvmWp7KyQnJuoDxA9) | [Akh Kashni](https://open.spotify.com/album/7IOT37dqjUmqiCqcoxCgPf) | 2:58 | 2022-09-05 | 2022-09-23 |
+| [Akhian Nimanian \(From "Annhi Dea Mazaak Ae"\)](https://open.spotify.com/track/5zQ5FjF4FYWx6hBGQnhhSv) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA) | [Akhian Nimanian \(From "Annhi Dea Mazaak Ae"\)](https://open.spotify.com/album/3bg4t9VQgDSdxdzFNdkV3i) | 3:48 | 2023-04-19 |  |
 | [All Day Sunday](https://open.spotify.com/track/1bBNGadbSt0cWzPlxFfmgm) | [Sucha Yaar](https://open.spotify.com/artist/3796Al8KerYiCPaOK1vHZJ) | [All Day Sunday](https://open.spotify.com/album/6aB9nSsIosjBxUIgln10vy) | 2:50 | 2022-09-15 | 2023-02-04 |
 | [All Of Me](https://open.spotify.com/track/0A2zRkxaVs0pBEphesliW9) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [All Of Me](https://open.spotify.com/album/7HWwodmqi6yfhLjwCrwAl3) | 3:13 | 2022-08-16 | 2022-08-18 |
 | [Allah Maaf Kre](https://open.spotify.com/track/21bFBk0oi19JQzHJoifZSn) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Tehjeeb Hafi](https://open.spotify.com/artist/4pOA7Ulb1xGrjUwCZr0AF0) | [Allah Maaf Kre](https://open.spotify.com/album/1XBqxac22yxBRUelC8SoMa) | 3:30 | 2022-07-25 | 2023-02-04 |
@@ -252,6 +253,7 @@
 | [Is It Love](https://open.spotify.com/track/27PrzcuYKRQbrEzn1U4bSp) | [Jind](https://open.spotify.com/artist/7apgUg8yCqpPXZqSLRlw1h), [Shera Dhaliwal](https://open.spotify.com/artist/6hUN0spqkOvBajJ8J2nUc5) | [Is It Love](https://open.spotify.com/album/5YlwUzRHhNEk7cyhKpKIM4) | 3:20 | 2022-07-08 | 2022-07-12 |
 | [Ishq Da Rog](https://open.spotify.com/track/6tmztso7Y5DZAuLAyGvPzG) | [Kulbir Jhinjer](https://open.spotify.com/artist/5xeLNyuZaJBjLpyjopm22n), [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Neeru Bajwa](https://open.spotify.com/artist/67lOlAWKOMcfsiqzBSSVUB) | [Ishq Da Rog \(From "Maa Da Ladla"\) \- Single](https://open.spotify.com/album/2XluoMXM4Pc9on2cSmWiUa) | 3:20 | 2022-09-26 | 2022-12-16 |
 | [ISHQ E PREET](https://open.spotify.com/track/7LHDuxNAVFt7bzxFV5DsUN) | [Muskaan](https://open.spotify.com/artist/26we5UYR3hTABksEFyPg3D), [PARAKH JEET](https://open.spotify.com/artist/3kpI1PU37q14n0ZV7Zhxmq) | [ISHQ E PREET](https://open.spotify.com/album/1eHzzukafLjkNmeQbTyrMp) | 4:07 | 2022-04-15 | 2022-05-11 |
+| [Ittar](https://open.spotify.com/track/3VwIFCFQ6HQNzlQPfJBrt7) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j) | [Ittar](https://open.spotify.com/album/1SXRKGIPXXWHlFH5FIh8iS) | 3:20 | 2023-04-19 |  |
 | [Jaan Jaan \- 1MinMusic](https://open.spotify.com/track/2KFXNEN7blIIIdxK3zOnmx) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a) | [Jaan Jaan \- 1MinMusic](https://open.spotify.com/album/2g0KwnXjVtxGs92xhKeZar) | 1:06 | 2022-05-27 | 2022-07-06 |
 | [Jaan Ke Bhuleke](https://open.spotify.com/track/2gkE9EEgIII1jNPMV6lqHz) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Jaan Ke Bhuleke](https://open.spotify.com/album/53Pfuz9zVNwkNabvZWMYU4) | 4:55 | 2022-12-08 | 2022-12-10 |
 | [Jaan Ke Bhulekhe](https://open.spotify.com/track/3iB4cghiQu56GfqpW8ZSdM) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Jaan Ke Bhulekhe \- Single](https://open.spotify.com/album/4RdL06Z9pMJN6ghGlNDLxr) | 4:55 | 2022-12-09 |  |
@@ -737,6 +739,7 @@
 | [Zaruri Nai](https://open.spotify.com/track/0LYi767EQ0pN0Kps9PRa8l) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W) | [Zaruri Nai](https://open.spotify.com/album/2ohc2qpaaUPHlLLhxj1q7V) | 2:30 | 2022-06-24 | 2022-06-29 |
 | [Zindagi](https://open.spotify.com/track/1IsbvmZLFPfe0P8XCNBtOX) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE) | [Zindagi](https://open.spotify.com/album/6FTS94l96Gerr6Yfk9Yqpz) | 2:35 | 2022-03-18 | 2022-04-06 |
 | [Zindagi](https://open.spotify.com/track/1JXVletUD9V2oXmsTty7uU) | [Sucha Yaar](https://open.spotify.com/artist/3796Al8KerYiCPaOK1vHZJ) | [Zindagi](https://open.spotify.com/album/2I1WtJkNisBQFcWWNrGRLN) | 2:35 | 2022-05-31 | 2023-02-04 |
+| [Zor Na Koi \- From "Yaar Chale Bahar 2"](https://open.spotify.com/track/3kwalHIm5Wo2RKFp9mEcet) | [Arsh Randhawa](https://open.spotify.com/artist/28tDK1f7CGg1pjshmxZp96), [Kritika Sharma](https://open.spotify.com/artist/5LuCLhIFVokARCsKgrbI58), [Blaze](https://open.spotify.com/artist/4CBUXK6IUn3TqFUFgQw859) | [Zor Na Koi \(From "Yaar Chale Bahar 2"\)](https://open.spotify.com/album/21G3HAjw75ikEQRC2olHzB) | 3:03 | 2023-04-19 |  |
 | [Zulf](https://open.spotify.com/track/6wZPqrmbzTuoRijqeo56Xf) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [CLICK](https://open.spotify.com/album/2SzjjrJmR20Muo3sN6uxkg) | 2:56 | 2022-08-01 | 2023-02-04 |
 | [Zulfaan](https://open.spotify.com/track/2nUs7DZ4tV0NOtTTRxyfFj) | [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Zulfaan](https://open.spotify.com/album/0yDumgrNgxMzjFE9cUJEzf) | 3:09 | 2022-11-22 | 2023-02-02 |
 

@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Food for Worms",
+        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265183,
+      "name": "Adderall (End of the Line)",
+      "url": "https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE"
+    },
+    {
+      "album": {
         "name": "Adderall (End of the Line)",
         "url": "https://open.spotify.com/album/2RzQZs8tIVQEBEfAwagNm3"
       },
@@ -124,7 +142,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 265183,
       "name": "Adderall (End of the Line)",
       "url": "https://open.spotify.com/track/2zJDq0UXhz3mUvmncn4GA1"
@@ -1612,7 +1630,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 331693,
       "name": "Feel Nothing",
       "url": "https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn"
@@ -1637,6 +1655,24 @@
     },
     {
       "album": {
+        "name": "Food for Worms",
+        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261384,
+      "name": "Fingers of Steel",
+      "url": "https://open.spotify.com/track/0aanNVtIr5u9qy0MFlzUFz"
+    },
+    {
+      "album": {
         "name": "Fingers of Steel",
         "url": "https://open.spotify.com/album/0T2Qic0OPQrVJmyMAxhH4y"
       },
@@ -1648,7 +1684,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 261384,
       "name": "Fingers of Steel",
       "url": "https://open.spotify.com/track/1v1jlj1qT3oDjozh5rOlC6"
@@ -4425,6 +4461,24 @@
     },
     {
       "album": {
+        "name": "Food for Worms",
+        "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
+      },
+      "artists": [
+        {
+          "name": "shame",
+          "url": "https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231968,
+      "name": "Six-Pack",
+      "url": "https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi"
+    },
+    {
+      "album": {
         "name": "Six-Pack",
         "url": "https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI"
       },
@@ -4526,7 +4580,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 222544,
       "name": "Song About Love",
       "url": "https://open.spotify.com/track/0qeupsSDLPTk2j8aU8prNI"
@@ -5612,7 +5666,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 187626,
       "name": "Water in the Well",
       "url": "https://open.spotify.com/track/0gaecBSDgVDjHs3JrWgr5e"

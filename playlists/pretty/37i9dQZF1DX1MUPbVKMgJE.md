@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MUPbVKMgJE.md) - [plain]
 
 > All your Disco favorites\. Cover: Donna Summer
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,473,958 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,474,303 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MUPbVKMgJE.md) - [plain]
 | 34 | [Last Dance \- Single Version](https://open.spotify.com/track/29RcVe2M9l8rHyWHffBmjf) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Walk Away \- Collector's Edition The Best Of 1977\-1980](https://open.spotify.com/album/1XDoNCowirNlo2oGzCVVh7) | 3:19 |
 | 35 | [Love Rollercoaster](https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75) | [Ohio Players](https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U) | [Honey](https://open.spotify.com/album/6cdbsUYFysGXOh5fqWpIuR) | 4:50 |
 | 36 | [Never Can Say Goodbye \- Single Version](https://open.spotify.com/track/3b9Cpi8jW9jNoyx72QbfRO) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Never Can Say Goodbye \(Deluxe Edition\)](https://open.spotify.com/album/2Cye7gVcEraUhXVnLEYh5u) | 2:59 |
-| 37 | [Funkytown](https://open.spotify.com/track/0KQh7AuuZvpTKWhcJa8Pbr) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Casablanca Records Greatest Hits](https://open.spotify.com/album/2a9NqNKkXva9vZanCUmOjc) | 3:59 |
-| 38 | [Lady Marmalade](https://open.spotify.com/track/17VWTx7LD7liGlpnlGhUbn) | [LaBelle](https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5) | [Nightbirds](https://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo) | 3:57 |
+| 37 | [Lady Marmalade](https://open.spotify.com/track/17VWTx7LD7liGlpnlGhUbn) | [LaBelle](https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5) | [Nightbirds](https://open.spotify.com/album/5Zx4eUC5dTg6aufiSLQ6uo) | 3:57 |
+| 38 | [Funkytown](https://open.spotify.com/track/0KQh7AuuZvpTKWhcJa8Pbr) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Casablanca Records Greatest Hits](https://open.spotify.com/album/2a9NqNKkXva9vZanCUmOjc) | 3:59 |
 | 39 | [Ladies Night](https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Ladies' Night](https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK) | 6:25 |
 | 40 | [Don't Leave Me This Way](https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4) | 3:37 |
 | 41 | [I Feel Love](https://open.spotify.com/track/1vCBk33l9HaWp5FOnhSGxk) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [I Remember Yesterday](https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe) | 5:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MUPbVKMgJE.md) - [plain]
 | 49 | [Boogie Oogie Oogie](https://open.spotify.com/track/1Rl9GHgsflyIVqBRyO45Zo) | [ATaste Of Honey](https://open.spotify.com/artist/36QtaDX43dspq1RBpANmTD) | [A Taste Of Honey](https://open.spotify.com/album/4QJA3YXQdpLhuIztkSgrpo) | 4:05 |
 | 50 | [The Second Time Around](https://open.spotify.com/track/6yh8yf1jpPrTMA5cezYpbi) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Big Fun](https://open.spotify.com/album/0wPapw2OnSgmpg8G1DpZtI) | 3:43 |
 
-Snapshot ID: `MTY2MTk1OTkzNSwwMDAwMDAwMDMzODAyNDc1NThiM2M3MjE0N2U4MDgwM2E5YjRhMjY1`
+Snapshot ID: `MTY2MTk1OTkzNSwwMDAwMDAwMDIzMTYwMjYxMmI1MzAwM2NhYWI1ZWNhMjJkYzg0OGU1`

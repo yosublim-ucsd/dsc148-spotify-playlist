@@ -1,12 +1,12 @@
 {
   "description": "Add some sweet soul music to your dinner. Cover: Ben L'Oncle Soul",
-  "num_followers": 12242,
+  "num_followers": 12243,
   "original_name": "Soul Food",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTc0Mzg3MCwwMDAwMDAwMDU0NTdjZTlhNTg1OTdjYTNkMGEzZDZmOTI0MWZlMDI1",
+  "snapshot_id": "MTY4MTc0Mzg3MCwwMDAwMDAwMDg2ZmM4YmU2NmQ1MDEwNjhhY2UxMWViOTZmODRmMDAy",
   "tracks": [
     {
       "added_at": "2023-04-17 15:04:30",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-04-17 15:04:30",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 151913,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L"
-    },
-    {
-      "added_at": "2023-04-17 15:04:30",
-      "album": {
         "name": "Introducing...",
         "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 228613,
       "name": "Bad News",
       "url": "https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw"
+    },
+    {
+      "added_at": "2023-04-17 15:04:30",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 151913,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L"
     },
     {
       "added_at": "2023-04-17 15:04:30",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-04-17 15:04:30",
       "album": {
-        "name": "STILL HAVE YOU",
-        "url": "https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX"
-      },
-      "artists": [
-        {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        }
-      ],
-      "duration_ms": 142306,
-      "name": "STILL HAVE YOU",
-      "url": "https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z"
-    },
-    {
-      "added_at": "2023-04-17 15:04:30",
-      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/31sPNFRpgyvcJ4sDX5qoqI"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 306597,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/6bpJeNwIqNb22xu8km0Ok9"
+    },
+    {
+      "added_at": "2023-04-17 15:04:30",
+      "album": {
+        "name": "STILL HAVE YOU",
+        "url": "https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        }
+      ],
+      "duration_ms": 142306,
+      "name": "STILL HAVE YOU",
+      "url": "https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z"
     },
     {
       "added_at": "2023-04-17 15:04:30",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-04-17 15:04:30",
       "album": {
-        "name": "See Me",
-        "url": "https://open.spotify.com/album/3AbP9rjHW5cejxH4INUuLE"
-      },
-      "artists": [
-        {
-          "name": "Leela James",
-          "url": "https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2"
-        }
-      ],
-      "duration_ms": 248878,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/6yDZ0JtlNLqA9xV7dVkgt0"
-    },
-    {
-      "added_at": "2023-04-17 15:04:30",
-      "album": {
         "name": "Soul Revolution",
         "url": "https://open.spotify.com/album/4qF4sSfF0dHMUdTkqF5yn8"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 203880,
       "name": "Can't Stop Loving (What Your Heart Still Loves)",
       "url": "https://open.spotify.com/track/6BRmMYY82M8kOcwgjvpiu9"
+    },
+    {
+      "added_at": "2023-04-17 15:04:30",
+      "album": {
+        "name": "See Me",
+        "url": "https://open.spotify.com/album/3AbP9rjHW5cejxH4INUuLE"
+      },
+      "artists": [
+        {
+          "name": "Leela James",
+          "url": "https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2"
+        }
+      ],
+      "duration_ms": 248878,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/6yDZ0JtlNLqA9xV7dVkgt0"
     },
     {
       "added_at": "2023-04-17 15:04:30",

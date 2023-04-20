@@ -1,12 +1,12 @@
 {
   "description": "putting someone first only works when you're in their top five\n- Taylor Swift\ntwemoji graphics: Twitter licensed under CC-BY 4.0",
-  "num_followers": 360563,
+  "num_followers": 361072,
   "original_name": "*hits different*",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTY4OTc5NCwwMDAwMDAwMGQxYWQ5N2QwNDU1ZTQwMTNlZjVmM2I2ZDcyNDcwZjJi",
+  "snapshot_id": "MTY4MTY4OTc5NCwwMDAwMDAwMDg4YTk4YWQ5MGVhOWIyZWNjYTBmYmEyN2FkZWVmOGZi",
   "tracks": [
     {
       "added_at": "2023-04-17 00:03:14",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-04-17 00:03:14",
       "album": {
-        "name": "Endless Summer Vacation",
-        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
         }
       ],
-      "duration_ms": 162973,
-      "name": "River",
-      "url": "https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT"
+      "duration_ms": 198040,
+      "name": "Heather",
+      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
     },
     {
       "added_at": "2023-04-17 00:03:14",
@@ -603,34 +603,18 @@
     {
       "added_at": "2023-04-17 00:03:14",
       "album": {
-        "name": "Kid Krow",
-        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
       },
       "artists": [
         {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
         }
       ],
-      "duration_ms": 198040,
-      "name": "Heather",
-      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
-    },
-    {
-      "added_at": "2023-04-17 00:03:14",
-      "album": {
-        "name": "Viva La Vida or Death and All His Friends",
-        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "Viva La Vida",
-      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+      "duration_ms": 162973,
+      "name": "River",
+      "url": "https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT"
     },
     {
       "added_at": "2023-04-17 00:03:14",
@@ -647,6 +631,38 @@
       "duration_ms": 184516,
       "name": "Pink + White",
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
+    },
+    {
+      "added_at": "2023-04-17 00:03:14",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+    },
+    {
+      "added_at": "2023-04-17 00:03:14",
+      "album": {
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
     },
     {
       "added_at": "2023-04-17 00:03:14",
@@ -747,6 +763,26 @@
     {
       "added_at": "2023-04-17 00:03:14",
       "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
+    },
+    {
+      "added_at": "2023-04-17 00:03:14",
+      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -795,22 +831,18 @@
     {
       "added_at": "2023-04-17 00:03:14",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+        "name": "Never Felt So Alone",
+        "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
       },
       "artists": [
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 272373,
-      "name": "Escapism.",
-      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
+      "duration_ms": 160166,
+      "name": "Never Felt So Alone",
+      "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
     },
     {
       "added_at": "2023-04-17 00:03:14",
@@ -895,22 +927,6 @@
     {
       "added_at": "2023-04-17 00:03:14",
       "album": {
-        "name": "Never Felt So Alone",
-        "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 160166,
-      "name": "Never Felt So Alone",
-      "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
-    },
-    {
-      "added_at": "2023-04-17 00:03:14",
-      "album": {
         "name": "Dizzy up the Girl",
         "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 152666,
       "name": "favorite crime",
       "url": "https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8"
-    },
-    {
-      "added_at": "2023-04-17 00:03:14",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
       "added_at": "2023-04-17 00:03:14",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-04-17 00:03:14",
       "album": {
-        "name": "SMITHEREENS",
-        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
-    },
-    {
-      "added_at": "2023-04-17 00:03:14",
-      "album": {
         "name": "Young And Beautiful",
         "url": "https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL"
       },
@@ -1039,6 +1023,38 @@
     {
       "added_at": "2023-04-17 00:03:14",
       "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
+    },
+    {
+      "added_at": "2023-04-17 00:03:14",
+      "album": {
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
+    },
+    {
+      "added_at": "2023-04-17 00:03:14",
+      "album": {
         "name": "Fall In Love Alone",
         "url": "https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4"
       },
@@ -1051,6 +1067,22 @@
       "duration_ms": 205427,
       "name": "Fall In Love Alone",
       "url": "https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe"
+    },
+    {
+      "added_at": "2023-04-17 00:03:14",
+      "album": {
+        "name": "The Beginning: Cupid",
+        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV"
     },
     {
       "added_at": "2023-04-17 00:03:14",
@@ -1083,6 +1115,22 @@
       "duration_ms": 171743,
       "name": "double take",
       "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
+    },
+    {
+      "added_at": "2023-04-17 00:03:14",
+      "album": {
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 209273,
+      "name": "SLOW DANCING IN THE DARK",
+      "url": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d"
     },
     {
       "added_at": "2023-04-17 00:03:14",
@@ -1151,22 +1199,6 @@
     {
       "added_at": "2023-04-17 00:03:14",
       "album": {
-        "name": "BALLADS 1",
-        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 209273,
-      "name": "SLOW DANCING IN THE DARK",
-      "url": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d"
-    },
-    {
-      "added_at": "2023-04-17 00:03:14",
-      "album": {
         "name": "Chase Atlantic",
         "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
       },
@@ -1179,22 +1211,6 @@
       "duration_ms": 228786,
       "name": "Swim",
       "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
-    },
-    {
-      "added_at": "2023-04-17 00:03:14",
-      "album": {
-        "name": "The Beginning: Cupid",
-        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Cupid",
-      "url": "https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV"
     },
     {
       "added_at": "2023-04-17 00:03:14",
@@ -1243,22 +1259,6 @@
       "duration_ms": 135066,
       "name": "Glue Song",
       "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
-    },
-    {
-      "added_at": "2023-04-17 00:03:14",
-      "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
     },
     {
       "added_at": "2023-04-17 00:03:14",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-04-17 00:03:14",
       "album": {
-        "name": "Happier Than Ever (Edit)",
-        "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 151444,
-      "name": "Happier Than Ever - Edit",
-      "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
-    },
-    {
-      "added_at": "2023-04-17 00:03:14",
-      "album": {
         "name": "labour",
         "url": "https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn"
       },
@@ -1459,18 +1443,34 @@
     {
       "added_at": "2023-04-17 00:03:14",
       "album": {
-        "name": "i'm yours",
-        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
+        "name": "Happier Than Ever (Edit)",
+        "url": "https://open.spotify.com/album/2kzPJWrTjVKEYWWhowXLnz"
       },
       "artists": [
         {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 127780,
-      "name": "i'm yours sped up",
-      "url": "https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE"
+      "duration_ms": 151444,
+      "name": "Happier Than Ever - Edit",
+      "url": "https://open.spotify.com/track/32BeYxKPrig1LefHsC0Xuo"
+    },
+    {
+      "added_at": "2023-04-17 00:03:14",
+      "album": {
+        "name": "What Do You Think About the Car?",
+        "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 252306,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
     }
   ],
   "unique_name": "*hits different*",

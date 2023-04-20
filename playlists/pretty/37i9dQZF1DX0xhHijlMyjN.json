@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica que necesita cualquier verbena veraniega.",
-  "num_followers": 340617,
+  "num_followers": 340638,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIyOTc2NSwwMDAwMDAwMGZhYzExNmIwMjA1Njk2NmFhMzcwZTc5MzAyYTQ1YzFi",
+  "snapshot_id": "MTY2MDIyOTc2NSwwMDAwMDAwMDBjOTM2NTI2MmVjOWFlYzdkY2VkOThmYmYwOTE2MzVm",
   "tracks": [
     {
       "added_at": "2022-08-11 14:56:05",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-08-11 14:56:05",
       "album": {
-        "name": "Green River (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "Bad Moon Rising",
-      "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
-    },
-    {
-      "added_at": "2022-08-11 14:56:05",
-      "album": {
         "name": "Barrio Fino (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 192600,
       "name": "Gasolina",
       "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
+    },
+    {
+      "added_at": "2022-08-11 14:56:05",
+      "album": {
+        "name": "Green River (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 141600,
+      "name": "Bad Moon Rising",
+      "url": "https://open.spotify.com/track/20OFwXhEXf12DzwXmaV7fj"
     },
     {
       "added_at": "2022-08-11 14:56:05",
@@ -411,6 +411,26 @@
     {
       "added_at": "2022-08-11 14:56:05",
       "album": {
+        "name": "Con Calma",
+        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "Con Calma",
+      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
+    },
+    {
+      "added_at": "2022-08-11 14:56:05",
+      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
-    },
-    {
-      "added_at": "2022-08-11 14:56:05",
-      "album": {
-        "name": "Con Calma",
-        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Snow",
-          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Con Calma",
-      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
     },
     {
       "added_at": "2022-08-11 14:56:05",
@@ -523,6 +523,22 @@
       "duration_ms": 195840,
       "name": "Chantaje (feat. Maluma)",
       "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
+    },
+    {
+      "added_at": "2022-08-11 14:56:05",
+      "album": {
+        "name": "El Cartel: The Big Boss",
+        "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Ella Me Levanto",
+      "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
     },
     {
       "added_at": "2022-08-11 14:56:05",
@@ -611,22 +627,6 @@
       "duration_ms": 176133,
       "name": "Vaina Loca",
       "url": "https://open.spotify.com/track/48zFZh27QU5qsrBjn4C2FA"
-    },
-    {
-      "added_at": "2022-08-11 14:56:05",
-      "album": {
-        "name": "El Cartel: The Big Boss",
-        "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Ella Me Levanto",
-      "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
     },
     {
       "added_at": "2022-08-11 14:56:05",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-08-11 14:56:05",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "La Camisa Negra",
-      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
-    },
-    {
-      "added_at": "2022-08-11 14:56:05",
-      "album": {
         "name": "Peace Is The Mission (Extended)",
         "url": "https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 176561,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG"
+    },
+    {
+      "added_at": "2022-08-11 14:56:05",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "La Camisa Negra",
+      "url": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
     },
     {
       "added_at": "2022-08-11 14:56:05",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-08-11 14:56:05",
       "album": {
-        "name": "'80s Pop #1's",
-        "url": "https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY"
-      },
-      "artists": [
-        {
-          "name": "Lipps Inc.",
-          "url": "https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ"
-        }
-      ],
-      "duration_ms": 245413,
-      "name": "Funkytown - Single Version",
-      "url": "https://open.spotify.com/track/0B5kY9i9bmP7554oU4jRoO"
-    },
-    {
-      "added_at": "2022-08-11 14:56:05",
-      "album": {
         "name": "La Player (Bandolera)",
         "url": "https://open.spotify.com/album/57BGq6lpz8RK1cqr2fPVIi"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 249608,
       "name": "La player (Bandolera)",
       "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
+    },
+    {
+      "added_at": "2022-08-11 14:56:05",
+      "album": {
+        "name": "'80s Pop #1's",
+        "url": "https://open.spotify.com/album/4Z1n0xes29RVzPttal9QOY"
+      },
+      "artists": [
+        {
+          "name": "Lipps Inc.",
+          "url": "https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ"
+        }
+      ],
+      "duration_ms": 245413,
+      "name": "Funkytown - Single Version",
+      "url": "https://open.spotify.com/track/0B5kY9i9bmP7554oU4jRoO"
     },
     {
       "added_at": "2022-08-11 14:56:05",

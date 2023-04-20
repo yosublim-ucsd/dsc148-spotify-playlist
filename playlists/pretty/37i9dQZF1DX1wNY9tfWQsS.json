@@ -1,12 +1,12 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Whitney Houston",
-  "num_followers": 507243,
+  "num_followers": 507362,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTIxMjQwOSwwMDAwMDAwMDMyZTZiODJiZjI0ZWJlNTEyY2E4MDM1MmVhODhlNzVm",
+  "snapshot_id": "MTY3MTIxMjQwOSwwMDAwMDAwMGIxOTQ4NmI3YTgzODUyYjUwYTk2NjRlZWRiZjFmNTU3",
   "tracks": [
     {
       "added_at": "2022-12-16 17:40:09",
@@ -835,18 +835,18 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
-        "name": "From The Bottom Up",
-        "url": "https://open.spotify.com/album/4AqJY8SxoiR6MWWfawrxVz"
+        "name": "It's About Time",
+        "url": "https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK"
       },
       "artists": [
         {
-          "name": "Brownstone",
-          "url": "https://open.spotify.com/artist/6dQgkiJm1fRkcqKOvPzysr"
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
         }
       ],
-      "duration_ms": 304160,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/0BTGqPIW9acmhhUmENkq5r"
+      "duration_ms": 278333,
+      "name": "I'm So Into You",
+      "url": "https://open.spotify.com/track/5A0aUvnfAEcmUx3hoXjI8R"
     }
   ],
   "unique_name": "Women of R&B",

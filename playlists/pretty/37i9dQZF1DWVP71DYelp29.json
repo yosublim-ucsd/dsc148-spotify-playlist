@@ -1,12 +1,12 @@
 {
   "description": "The hits you know like you\u2019ve never heard before.  Cover: Taylor Swift. ",
-  "num_followers": 737052,
+  "num_followers": 737134,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MzQ2Njg4OCwwMDAwMDAwMGY4MzQ1NDQ0YWQ3ZDgwMTFhODA2MDViMmEwZGQyYTk1",
+  "snapshot_id": "MTY3MzQ2Njg4OCwwMDAwMDAwMDlhNTk3YTUyMWNmODc2ZWQ4MThlMjgwNDJhZjAzYzll",
   "tracks": [
     {
       "added_at": "2023-01-11 19:54:48",
@@ -220,6 +220,22 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 188166,
+      "name": "All Night Long (All Night) - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0aqv2HD8GPGDDM0CokS0Fk"
       },
       "artists": [
@@ -235,22 +251,6 @@
       "duration_ms": 221665,
       "name": "Spooky - Recorded at RAK Studios, London",
       "url": "https://open.spotify.com/track/2y0odeTeYsxWvYQ5rYANu0"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 188166,
-      "name": "All Night Long (All Night) - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -372,22 +372,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 175003,
-      "name": "Stay - Spotify Singles",
-      "url": "https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
       },
       "artists": [
@@ -399,6 +383,22 @@
       "duration_ms": 225790,
       "name": "Castle on the Hill - Recorded at Spotify Studios New York City",
       "url": "https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 175003,
+      "name": "Stay - Spotify Singles",
+      "url": "https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -544,22 +544,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 149062,
-      "name": "Big Yellow Taxi - Live from Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2"
       },
       "artists": [
@@ -575,6 +559,22 @@
       "duration_ms": 291447,
       "name": "Wicked Game - Recorded at Electric Lady Studios, NYC (feat. Chris Isaak)",
       "url": "https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 149062,
+      "name": "Big Yellow Taxi - Live from Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-01-11 19:54:48",
       "album": {
-        "name": "spotify singles",
-        "url": "https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC"
-      },
-      "artists": [
-        {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        }
-      ],
-      "duration_ms": 208710,
-      "name": "feel good inc (bbno$ re-finessed) - spotify single",
-      "url": "https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4dEgr3LeNOQIsT8MGgeBTz"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 225005,
       "name": "Rockabye (feat. Anne-Marie) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2pGC8RQhmhFbZ6Fl5olWHZ"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "spotify singles",
+        "url": "https://open.spotify.com/album/4TXQYn8IgpqEsCsvSXiHTC"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        }
+      ],
+      "duration_ms": 208710,
+      "name": "feel good inc (bbno$ re-finessed) - spotify single",
+      "url": "https://open.spotify.com/track/4NRCIrvUCK8KBn4RXOB0Fa"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -912,22 +912,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 199914,
-      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS"
       },
       "artists": [
@@ -944,17 +928,17 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
+        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
       },
       "artists": [
         {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Bad At Love - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q"
+      "duration_ms": 199914,
+      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -971,6 +955,22 @@
       "duration_ms": 255126,
       "name": "Castle On The Hill - Recorded at Sound Stage Nashville",
       "url": "https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Bad At Love - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-01-11 19:54:48",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 191992,
-      "name": "Like A Virgin - Spotify Singles",
-      "url": "https://open.spotify.com/track/0CbtHNmNuPXSYbH4Uz3roM"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
         "name": "Smalltown Boy (Spotify Singles)",
         "url": "https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 317729,
       "name": "Smalltown Boy - Spotify Singles",
       "url": "https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 191992,
+      "name": "Like A Virgin - Spotify Singles",
+      "url": "https://open.spotify.com/track/0CbtHNmNuPXSYbH4Uz3roM"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1208,17 +1208,17 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2GRYkXH7qkg1X0hOkrZdXZ"
+        "url": "https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7"
       },
       "artists": [
         {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 177161,
-      "name": "There She Goes - Spotify Singles",
-      "url": "https://open.spotify.com/track/0bq8ODkNZMTm2B5WGpYjo4"
+      "duration_ms": 230306,
+      "name": "Better Now - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1240,17 +1240,17 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0ycBRDotCpCVKO6ZHrsIR7"
+        "url": "https://open.spotify.com/album/2GRYkXH7qkg1X0hOkrZdXZ"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
         }
       ],
-      "duration_ms": 230306,
-      "name": "Better Now - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4rf444Z5dWQd6Jg5okkpZl"
+      "duration_ms": 177161,
+      "name": "There She Goes - Spotify Singles",
+      "url": "https://open.spotify.com/track/0bq8ODkNZMTm2B5WGpYjo4"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-01-11 19:54:48",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 157692,
+      "name": "July - Spotify Singles",
+      "url": "https://open.spotify.com/track/36uC47GQL8VXghXY6d6afM"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
         "name": "Wannabe - Spotify Singles",
         "url": "https://open.spotify.com/album/0NMh7TwL9UkwMowqDLRYMW"
       },
@@ -1336,17 +1352,17 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
+        "url": "https://open.spotify.com/album/4uLh8clxnbNrZw9f2vz6mx"
       },
       "artists": [
         {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
         }
       ],
-      "duration_ms": 157692,
-      "name": "July - Spotify Singles",
-      "url": "https://open.spotify.com/track/36uC47GQL8VXghXY6d6afM"
+      "duration_ms": 259373,
+      "name": "Man in the Mirror",
+      "url": "https://open.spotify.com/track/18qNiKxBiNzmrdjwqZh7tm"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1363,22 +1379,6 @@
       "duration_ms": 174094,
       "name": "Don't Let Me Down - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1RMwLHYjOOlf2EqiCwl6gI"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4uLh8clxnbNrZw9f2vz6mx"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 259373,
-      "name": "Man in the Mirror",
-      "url": "https://open.spotify.com/track/18qNiKxBiNzmrdjwqZh7tm"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1660,22 +1660,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 195578,
-      "name": "You Need To Calm Down - Recorded At Abbey Road Studios, London",
-      "url": "https://open.spotify.com/track/636fGHC8LlkdwUoNhYDPjR"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S"
       },
       "artists": [
@@ -1687,6 +1671,22 @@
       "duration_ms": 211173,
       "name": "Starboy - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/7FxWJX9m6V4d9lYZ5vogqW"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 195578,
+      "name": "You Need To Calm Down - Recorded At Abbey Road Studios, London",
+      "url": "https://open.spotify.com/track/636fGHC8LlkdwUoNhYDPjR"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1708,22 +1708,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 337837,
-      "name": "Everything Now - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4pwnweaF5EFhy5Lfvg67f4"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh"
       },
       "artists": [
@@ -1735,6 +1719,22 @@
       "duration_ms": 167050,
       "name": "High Hopes - Live Session from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/73Hs5c2DJAavtKFZ28v1FM"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1KX4ZoGCzeRAkgHDXv0Wdz"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 337837,
+      "name": "Everything Now - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4pwnweaF5EFhy5Lfvg67f4"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1820,22 +1820,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3D2gqS23LPeDSxof0n1ibZ"
-      },
-      "artists": [
-        {
-          "name": "Tune-Yards",
-          "url": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
-        }
-      ],
-      "duration_ms": 257588,
-      "name": "Sweet Dreams (Are Made of This) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4GcyCCxIIV7Ed5pGK4S36G"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0WzPaJFRUSZXW9RdYsgr8v"
       },
       "artists": [
@@ -1847,6 +1831,22 @@
       "duration_ms": 190588,
       "name": "Waterfalls - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0L8A9wUfx9fQF8kmpAFFXk"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3D2gqS23LPeDSxof0n1ibZ"
+      },
+      "artists": [
+        {
+          "name": "Tune-Yards",
+          "url": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
+        }
+      ],
+      "duration_ms": 257588,
+      "name": "Sweet Dreams (Are Made of This) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4GcyCCxIIV7Ed5pGK4S36G"
     },
     {
       "added_at": "2023-01-11 19:54:48",

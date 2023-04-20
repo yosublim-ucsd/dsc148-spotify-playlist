@@ -1,12 +1,12 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 946001,
+  "num_followers": 946445,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDQ4OTc1NywwMDAwMDAwMDU4Yjg0OGQ0MDMxNjkxOTMxMzU5MDZkMzc3NTBhYzk3",
+  "snapshot_id": "MTY4MDQ4OTc1NywwMDAwMDAwMGI5ZTQ1MTNlN2MzNmI4YjYwNjRjZDhhMGRjNDY0M2Vi",
   "tracks": [
     {
       "added_at": "2023-03-04 17:30:31",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Be My Baby: The Very Best of The Ronettes",
-        "url": "https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV"
-      },
-      "artists": [
-        {
-          "name": "The Ronettes",
-          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
-        }
-      ],
-      "duration_ms": 160906,
-      "name": "Be My Baby",
-      "url": "https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "Hold On, I'm Comin'",
         "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 155706,
       "name": "Hold On, I'm Comin'",
       "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Be My Baby: The Very Best of The Ronettes",
+        "url": "https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV"
+      },
+      "artists": [
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "duration_ms": 160906,
+      "name": "Be My Baby",
+      "url": "https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Soul Men",
-        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Soul Man",
-      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "Ain't That Good News",
         "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 191160,
       "name": "A Change Is Gonna Come",
       "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Soul Men",
+        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Soul Man",
+      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Gettin' Ready (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 156173,
-      "name": "Ain't Too Proud To Beg",
-      "url": "https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "Do You Love Me (Now That I Can Dance)",
         "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
       },
@@ -1091,34 +1075,18 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Aerial Ballet",
-        "url": "https://open.spotify.com/album/0H3v4snD6xhworsjXndsai"
+        "name": "Gettin' Ready (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb"
       },
       "artists": [
         {
-          "name": "Harry Nilsson",
-          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
         }
       ],
-      "duration_ms": 163586,
-      "name": "Everybody's Talkin' - From \"Midnight Cowboy\"",
-      "url": "https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 126960,
-      "name": "La Bamba - Single Version",
-      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
+      "duration_ms": 156173,
+      "name": "Ain't Too Proud To Beg",
+      "url": "https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1151,6 +1119,38 @@
       "duration_ms": 166133,
       "name": "These Boots Are Made for Walkin'",
       "url": "https://open.spotify.com/track/2HEgBBls7l0smWTxPx0MtZ"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Aerial Ballet",
+        "url": "https://open.spotify.com/album/0H3v4snD6xhworsjXndsai"
+      },
+      "artists": [
+        {
+          "name": "Harry Nilsson",
+          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
+        }
+      ],
+      "duration_ms": 163586,
+      "name": "Everybody's Talkin' - From \"Midnight Cowboy\"",
+      "url": "https://open.spotify.com/track/1jcPcDu2YawPfLhwjYnqK2"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 126960,
+      "name": "La Bamba - Single Version",
+      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
+        "name": "How Does That Grab You?",
+        "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "duration_ms": 162446,
+      "name": "Bang Bang (My Baby Shot Me Down)",
+      "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
         "name": "Here's Little Richard (Deluxe Edition)",
         "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "How Does That Grab You?",
-        "url": "https://open.spotify.com/album/7dC9EutCtygeEpefdcjWTL"
-      },
-      "artists": [
-        {
-          "name": "Nancy Sinatra",
-          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
-        }
-      ],
-      "duration_ms": 162446,
-      "name": "Bang Bang (My Baby Shot Me Down)",
-      "url": "https://open.spotify.com/track/4JLcAU2xY90qTkTSNM1lUa"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "This Is Dean Martin",
         "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
       },
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "The Best of The Kingsmen",
-        "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
-      },
-      "artists": [
-        {
-          "name": "The Kingsmen",
-          "url": "https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo"
-        }
-      ],
-      "duration_ms": 165381,
-      "name": "Louie Louie",
-      "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "Remember When",
         "url": "https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 160864,
       "name": "Will You Love Me Tomorrow",
       "url": "https://open.spotify.com/track/25IiJu0DjOqsnQXgNHWp5i"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "The Best of The Kingsmen",
+        "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
+      },
+      "artists": [
+        {
+          "name": "The Kingsmen",
+          "url": "https://open.spotify.com/artist/2iIn8H3l2NNBNHFpYKWbfo"
+        }
+      ],
+      "duration_ms": 165381,
+      "name": "Louie Louie",
+      "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Stay Awhile / I Only Want To Be With You",
-        "url": "https://open.spotify.com/album/2coXvs2zYk60U9Dd2hm6St"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 158200,
-      "name": "I Only Want To Be With You",
-      "url": "https://open.spotify.com/track/31A3oqQxDLdG9HRx45z62d"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
         "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 201733,
       "name": "Try a Little Tenderness",
       "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Stay Awhile / I Only Want To Be With You",
+        "url": "https://open.spotify.com/album/2coXvs2zYk60U9Dd2hm6St"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 158200,
+      "name": "I Only Want To Be With You",
+      "url": "https://open.spotify.com/track/31A3oqQxDLdG9HRx45z62d"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 128199,
-      "name": "One Fine Day",
-      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "More Hits By The Supremes",
         "url": "https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 172906,
       "name": "Stop! In The Name Of Love",
       "url": "https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 128199,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Rockin' Robin",
-        "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
-      },
-      "artists": [
-        {
-          "name": "Bobby Day",
-          "url": "https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj"
-        }
-      ],
-      "duration_ms": 160080,
-      "name": "Rockin' Robin",
-      "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
         "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 180253,
       "name": "Girl, You'll Be A Woman Soon",
       "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Rockin' Robin",
+        "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
+      },
+      "artists": [
+        {
+          "name": "Bobby Day",
+          "url": "https://open.spotify.com/artist/4SLfKHcufUqU46DiTAHIsj"
+        }
+      ],
+      "duration_ms": 160080,
+      "name": "Rockin' Robin",
+      "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Meet The Temptations",
-        "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        }
-      ],
-      "duration_ms": 165744,
-      "name": "The Way You Do The Things You Do",
-      "url": "https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "Sherry and 11 Other Hits",
         "url": "https://open.spotify.com/album/18rFAAWrT2wzvWckYmoLnE"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 152160,
       "name": "Sherry",
       "url": "https://open.spotify.com/track/7sqK6f8dHVx3Q1GjFrVyGl"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Meet The Temptations",
+        "url": "https://open.spotify.com/album/199rfdL0k6q5ReLA7V4KMt"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 165744,
+      "name": "The Way You Do The Things You Do",
+      "url": "https://open.spotify.com/track/3496rr5XSGD6n1Z1OKXovb"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "Da Doo Ron Ron: The Very Best of The Crystals",
-        "url": "https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm"
-      },
-      "artists": [
-        {
-          "name": "The Crystals",
-          "url": "https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf"
-        }
-      ],
-      "duration_ms": 140120,
-      "name": "Da Doo Ron Ron (When He Walked Me Home)",
-      "url": "https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "The Ultimate Bobby Darin",
         "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 150706,
       "name": "Dream Lover",
       "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "Da Doo Ron Ron: The Very Best of The Crystals",
+        "url": "https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm"
+      },
+      "artists": [
+        {
+          "name": "The Crystals",
+          "url": "https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf"
+        }
+      ],
+      "duration_ms": 140120,
+      "name": "Da Doo Ron Ron (When He Walked Me Home)",
+      "url": "https://open.spotify.com/track/0fonScmHUzC0MglSLn9saA"
     },
     {
       "added_at": "2023-03-04 17:30:31",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2023-03-04 17:30:31",
       "album": {
-        "name": "R&B: From Doo-Wop To Hip-Hop",
-        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 139506,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/7lL2lMWNtzOcf5HnEudNgn"
-    },
-    {
-      "added_at": "2023-03-04 17:30:31",
-      "album": {
         "name": "Rick Is 21",
         "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 143200,
       "name": "Travelin' Man - Remastered",
       "url": "https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l"
+    },
+    {
+      "added_at": "2023-03-04 17:30:31",
+      "album": {
+        "name": "R&B: From Doo-Wop To Hip-Hop",
+        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 139506,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/7lL2lMWNtzOcf5HnEudNgn"
     }
   ],
   "unique_name": "Classic Oldies",

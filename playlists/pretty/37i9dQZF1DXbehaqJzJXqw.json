@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 274925,
+  "num_followers": 275386,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTgxODE0MCwwMDAwMDAwMDIyNWNhN2I2ODQ0ZTEzMjMzZTA1N2RiN2ZiYjFhZTBh",
+  "snapshot_id": "MTY4MTgxODE0MCwwMDAwMDAwMDM5ZjEwMDkxYjQ5YTZjNDgyMjFkMDIyZTNkMmFjOWQ5",
   "tracks": [
     {
       "added_at": "2023-04-18 11:42:20",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-04-18 11:42:20",
       "album": {
-        "name": "Haven't We Met?",
-        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+        "name": "Amourettes",
+        "url": "https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co"
       },
       "artists": [
         {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+          "name": "Les Chauds Lapins",
+          "url": "https://open.spotify.com/artist/59bbK26UZulXXlScPLSerQ"
         }
       ],
-      "duration_ms": 173436,
-      "name": "Chez moi",
-      "url": "https://open.spotify.com/track/0oPbNzAAmWaKIcf5WQE6A0"
+      "duration_ms": 150973,
+      "name": "Cette Nuit l\u00e0",
+      "url": "https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5"
     },
     {
       "added_at": "2023-04-18 11:42:20",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-04-18 11:42:20",
       "album": {
+        "name": "Haven't We Met?",
+        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 173436,
+      "name": "Chez moi",
+      "url": "https://open.spotify.com/track/0oPbNzAAmWaKIcf5WQE6A0"
+    },
+    {
+      "added_at": "2023-04-18 11:42:20",
+      "album": {
         "name": "Chante Prevert",
         "url": "https://open.spotify.com/album/3auAyV9fhCAoqkmcZfl8cT"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 201066,
       "name": "Les feuilles mortes",
       "url": "https://open.spotify.com/track/4yKTDPH6iRBHmA44AipmIk"
-    },
-    {
-      "added_at": "2023-04-18 11:42:20",
-      "album": {
-        "name": "Amourettes",
-        "url": "https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co"
-      },
-      "artists": [
-        {
-          "name": "Les Chauds Lapins",
-          "url": "https://open.spotify.com/artist/59bbK26UZulXXlScPLSerQ"
-        }
-      ],
-      "duration_ms": 150973,
-      "name": "Cette Nuit l\u00e0",
-      "url": "https://open.spotify.com/track/1VbQ1nbKIEbiR7JL7htId5"
     },
     {
       "added_at": "2023-04-18 11:42:20",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-04-18 11:42:20",
       "album": {
+        "name": "Tous mes r\u00eaves",
+        "url": "https://open.spotify.com/album/1zDcTxR4u2YE80bUsjaQpw"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 155664,
+      "name": "Tous mes r\u00eaves",
+      "url": "https://open.spotify.com/track/6lCv1OYP94cH0yni2WDDmD"
+    },
+    {
+      "added_at": "2023-04-18 11:42:20",
+      "album": {
         "name": "Just The Two Of Us",
         "url": "https://open.spotify.com/album/4BsQtp94ehsK4YPTLx6SO3"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 137960,
       "name": "Je Suis Seule Ce Soir",
       "url": "https://open.spotify.com/track/0l5rSE550QrVceVHcBCiDM"
-    },
-    {
-      "added_at": "2023-04-18 11:42:20",
-      "album": {
-        "name": "Tous mes r\u00eaves",
-        "url": "https://open.spotify.com/album/1zDcTxR4u2YE80bUsjaQpw"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 155664,
-      "name": "Tous mes r\u00eaves",
-      "url": "https://open.spotify.com/track/6lCv1OYP94cH0yni2WDDmD"
     },
     {
       "added_at": "2023-04-18 11:42:20",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-04-18 11:42:20",
       "album": {
-        "name": "chambre avec vue",
-        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
+        "name": "Chansons",
+        "url": "https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp"
       },
       "artists": [
         {
-          "name": "Henri Salvador",
-          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
         }
       ],
-      "duration_ms": 203066,
-      "name": "Jazz M\u00e9diterran\u00e9e",
-      "url": "https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV"
+      "duration_ms": 167199,
+      "name": "Je cherche un homme",
+      "url": "https://open.spotify.com/track/6VKXPG2C2PSuseVx21iYua"
     },
     {
       "added_at": "2023-04-18 11:42:20",
@@ -779,6 +779,22 @@
       "duration_ms": 222666,
       "name": "Lettre A P",
       "url": "https://open.spotify.com/track/56j3S6jECUqwOExBifwy4B"
+    },
+    {
+      "added_at": "2023-04-18 11:42:20",
+      "album": {
+        "name": "chambre avec vue",
+        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Jazz M\u00e9diterran\u00e9e",
+      "url": "https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV"
     },
     {
       "added_at": "2023-04-18 11:42:20",
@@ -839,22 +855,6 @@
       "duration_ms": 194186,
       "name": "J\u2019ai ta main",
       "url": "https://open.spotify.com/track/3xWxjeErA8FvMcF0Gq7yUO"
-    },
-    {
-      "added_at": "2023-04-18 11:42:20",
-      "album": {
-        "name": "Chansons",
-        "url": "https://open.spotify.com/album/6sW97lRLjtpPDaUBiC0lMp"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 167199,
-      "name": "Je cherche un homme",
-      "url": "https://open.spotify.com/track/6VKXPG2C2PSuseVx21iYua"
     },
     {
       "added_at": "2023-04-18 11:42:20",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-04-18 11:42:20",
       "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+        "name": "Careless Love",
+        "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
       },
       "artists": [
         {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
         }
       ],
-      "duration_ms": 172293,
-      "name": "Salle des pas perdus",
-      "url": "https://open.spotify.com/track/1yi77TrGsSLuR0rKY6TXsq"
+      "duration_ms": 176133,
+      "name": "J'ai Deux Amours",
+      "url": "https://open.spotify.com/track/4HcY6ds4TeEo9j4Aj3soFp"
     },
     {
       "added_at": "2023-04-18 11:42:20",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-04-18 11:42:20",
       "album": {
-        "name": "Careless Love",
-        "url": "https://open.spotify.com/album/4Kev9VMY5Ypfo19jRqK6bW"
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
       "artists": [
         {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
         }
       ],
-      "duration_ms": 176133,
-      "name": "J'ai Deux Amours",
-      "url": "https://open.spotify.com/track/4HcY6ds4TeEo9j4Aj3soFp"
+      "duration_ms": 172293,
+      "name": "Salle des pas perdus",
+      "url": "https://open.spotify.com/track/1yi77TrGsSLuR0rKY6TXsq"
     },
     {
       "added_at": "2023-04-18 11:42:20",
@@ -1171,38 +1171,6 @@
     {
       "added_at": "2023-04-18 11:42:20",
       "album": {
-        "name": "Merle Noir",
-        "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
-      },
-      "artists": [
-        {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA"
-        }
-      ],
-      "duration_ms": 289413,
-      "name": "Menilmontant",
-      "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
-    },
-    {
-      "added_at": "2023-04-18 11:42:20",
-      "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
-      },
-      "artists": [
-        {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
-        }
-      ],
-      "duration_ms": 111626,
-      "name": "\u00c7a valait la peine",
-      "url": "https://open.spotify.com/track/4jKicslpJyPfeJRSxbUPQV"
-    },
-    {
-      "added_at": "2023-04-18 11:42:20",
-      "album": {
         "name": "Faites vous des amis",
         "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
       },
@@ -1219,6 +1187,22 @@
     {
       "added_at": "2023-04-18 11:42:20",
       "album": {
+        "name": "Merle Noir",
+        "url": "https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod"
+      },
+      "artists": [
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA"
+        }
+      ],
+      "duration_ms": 289413,
+      "name": "Menilmontant",
+      "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
+    },
+    {
+      "added_at": "2023-04-18 11:42:20",
+      "album": {
         "name": "Seule ce soir",
         "url": "https://open.spotify.com/album/2dVf3FNLJqsMCA4ePrTuH5"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 323060,
       "name": "Ces bottes sont faites pour marcher",
       "url": "https://open.spotify.com/track/2UI4CNjKxIkCZ0g14ckmM9"
+    },
+    {
+      "added_at": "2023-04-18 11:42:20",
+      "album": {
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+      },
+      "artists": [
+        {
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+        }
+      ],
+      "duration_ms": 111626,
+      "name": "\u00c7a valait la peine",
+      "url": "https://open.spotify.com/track/4jKicslpJyPfeJRSxbUPQV"
     },
     {
       "added_at": "2023-04-18 11:42:20",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-04-18 11:42:20",
       "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
-      },
-      "artists": [
-        {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
-        }
-      ],
-      "duration_ms": 167266,
-      "name": "La mer opale",
-      "url": "https://open.spotify.com/track/6ihbTijFhhzflZaLiBr3rA"
-    },
-    {
-      "added_at": "2023-04-18 11:42:20",
-      "album": {
         "name": "Black Ivory Soul",
         "url": "https://open.spotify.com/album/0emSHfQ64wlmh1ziOAw11K"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 187280,
       "name": "Aim\u00e9",
       "url": "https://open.spotify.com/track/7unsDj1BtTJMsRvkXMCktQ"
+    },
+    {
+      "added_at": "2023-04-18 11:42:20",
+      "album": {
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+      },
+      "artists": [
+        {
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+        }
+      ],
+      "duration_ms": 167266,
+      "name": "La mer opale",
+      "url": "https://open.spotify.com/track/6ihbTijFhhzflZaLiBr3rA"
     },
     {
       "added_at": "2023-04-18 11:42:20",

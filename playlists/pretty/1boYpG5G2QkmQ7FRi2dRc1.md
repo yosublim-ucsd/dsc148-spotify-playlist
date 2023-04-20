@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 306,578 likes - 41 songs - 2 hr 43 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 306,565 likes - 41 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I Got To Let It Go](https://open.spotify.com/track/2AqWKdWzJiwJr3ckBELdvO) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011) | [I Got To Let It Go](https://open.spotify.com/album/2Uz8ZxpF0SBT3fH7aQSpmN) | 3:37 |
-| 2 | [Mind CNTRL](https://open.spotify.com/track/578dUTMvjofUwSk2aAzluJ) | [jaakob](https://open.spotify.com/artist/3UzlexNjM9XmG3Fb3O6Enb) | [Mind CNTRL](https://open.spotify.com/album/2clk8de4WQtd8YkVLAsRgC) | 2:55 |
+| 2 | [Mind CNTRL](https://open.spotify.com/track/578dUTMvjofUwSk2aAzluJ) | [jaakob](https://open.spotify.com/artist/3UzlexNjM9XmG3Fb3O6Enb) | [Mind CNTRL](https://open.spotify.com/album/2clk8de4WQtd8YkVLAsRgC) | 2:54 |
 | 3 | [Panorama](https://open.spotify.com/track/6GWdR96BUJt7g1Y9kJcGfd) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Panorama](https://open.spotify.com/album/2dYtwG890hbROBNO9IDl3T) | 3:35 |
 | 4 | [Fading Out](https://open.spotify.com/track/6VXYRviQYO8bKS0dv3Krlt) | [Citadelle](https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8), [Aramis](https://open.spotify.com/artist/4Ivm8Z4QKrxqKNsf1DHQJB) | [Fading Out](https://open.spotify.com/album/4St5zVkU2Rg6w71XTFAFzw) | 2:40 |
 | 5 | [Before The Dawn \- jeonghyeon Remix](https://open.spotify.com/track/16cs0KYyPdGJ5kAeRQcDuZ) | [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr), [Money For Nothing](https://open.spotify.com/artist/3t2mi62L2FO64CmplSZddY), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [Before The Dawn \(Remixes\)](https://open.spotify.com/album/2RVu0XSLDxKjDeyCWTkhRu) | 2:41 |

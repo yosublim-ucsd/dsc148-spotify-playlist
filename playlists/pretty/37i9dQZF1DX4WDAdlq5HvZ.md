@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 
 > Happy Mother's Day!  Send love to all the mothers and remind them what a blessing they are with these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,341 likes - 80 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,416 likes - 80 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 28 | [Drops in the Ocean](https://open.spotify.com/track/6CeoTeUhMFHKoKeQkRrhaU) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Diamonds](https://open.spotify.com/album/6H9N73NXBNugcz4FevMxlC) | 3:21 |
 | 29 | [Fight On, Fighter](https://open.spotify.com/track/7lPM8uXuIO5MDWv6L0TPaZ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 3:38 |
 | 30 | [Fighting For Me](https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Fighting For Me](https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba) | 3:49 |
-| 31 | [I Will Be Here](https://open.spotify.com/track/7w0CEIlW8kcomXPgxQ55Hj) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [More To This Life](https://open.spotify.com/album/2RCszuL9awvBddKkB7Iknm) | 4:28 |
-| 32 | [Your Love Defends Me](https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:46 |
+| 31 | [Your Love Defends Me](https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:46 |
+| 32 | [I Will Be Here](https://open.spotify.com/track/7w0CEIlW8kcomXPgxQ55Hj) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [More To This Life](https://open.spotify.com/album/2RCszuL9awvBddKkB7Iknm) | 4:28 |
 | 33 | [Love Lifting Me](https://open.spotify.com/track/4O8TOAWNMGrvpY3bn0SO3y) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Love Running Wild](https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7) | 3:19 |
 | 34 | [What Faith Can Do](https://open.spotify.com/track/58nLgrkgVsVA4w5dWsFgR2) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [It Is Well \(Expanded Edition\)](https://open.spotify.com/album/23nxQxj7M00ktsNdLE2e1D) | 3:53 |
-| 35 | [The Mother](https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 3:16 |
-| 36 | [Better](https://open.spotify.com/track/6f2YcFaM5NaDoKbKyMwiCm) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:57 |
+| 35 | [Better](https://open.spotify.com/track/6f2YcFaM5NaDoKbKyMwiCm) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:57 |
+| 36 | [The Mother](https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By The Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 3:16 |
 | 37 | [A Song For Mama](https://open.spotify.com/track/6FuJokk9FHx0E00SZ8ib8X) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Evolution](https://open.spotify.com/album/4zLchzG29ngh0MJgiy5GQx) | 5:03 |
 | 38 | [Nobody Loves Me Like You](https://open.spotify.com/track/2UNSjAMTbEYRVgj0VscPEA) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Holy Roar](https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq) | 4:26 |
 | 39 | [Love Me Like I Am](https://open.spotify.com/track/60GTOisUSdUksjMzq17XvO) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [What Are We Waiting For?](https://open.spotify.com/album/6h95CVsuRQt0SHA0MtjpWW) | 3:04 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 41 | [When God Made You](https://open.spotify.com/track/3QUQhiADLGdEWnoXKPCKaE) | [Newsong](https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX) | [More Life](https://open.spotify.com/album/1LpBNvtnwj7uMshdz8Sqsq) | 4:41 |
 | 42 | [Write Your Story](https://open.spotify.com/track/0wWDNsLRUuXFGRd4NcrdrR) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [If We're Honest \(Deluxe Version\)](https://open.spotify.com/album/5ZEGGjJdlQdDNhLKYucTJw) | 3:23 |
 | 43 | [Jesus & You](https://open.spotify.com/track/3zCBJdGlTNTASR6VXo9HUQ) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [All In](https://open.spotify.com/album/4Qb7av34wG5v22LIV5IN9g) | 3:22 |
-| 44 | [Don't Forget to Remember Me](https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 4:00 |
-| 45 | [Fighter](https://open.spotify.com/track/6xcaBP6eJajda8AgSNsYun) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 3:21 |
+| 44 | [Fighter](https://open.spotify.com/track/6xcaBP6eJajda8AgSNsYun) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 3:21 |
+| 45 | [Don't Forget to Remember Me](https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 4:00 |
 | 46 | [Watch You Be a Mother](https://open.spotify.com/track/3rnXcaQ10ZQ4e0aVbsufmV) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Watch You Be a Mother](https://open.spotify.com/album/2lyjklRTRuWMeRiL16XOf9) | 3:15 |
 | 47 | [A Mother Like You](https://open.spotify.com/track/4Vnbh54MMkRf2uZXcON3Av) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [A Mother Like You](https://open.spotify.com/album/7DrWjwgmmTZPGdQxfP8qi6) | 3:54 |
 | 48 | [Whole Heart \(Hold Me Now\) \- Acoustic](https://open.spotify.com/track/2ZUlzVNFZz359SJ3tfHhL7) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 5:40 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 76 | [Mamma's Kitchen](https://open.spotify.com/track/17toD0xlCUdWdn4B47uvr5) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Purified](https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8) | 3:05 |
 | 77 | [One Heartbeat At A Time](https://open.spotify.com/track/26nITVQTFc1HtJZt5B1DMe) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [This Moment](https://open.spotify.com/album/0D5Xb7LlTG0qQjdtKv92LM) | 4:04 |
 | 78 | [After The Fire](https://open.spotify.com/track/4Gqx9729vziD22mSmqAewG) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Simple Things](https://open.spotify.com/album/0hx7o90RXZZtJ6MS5nvxjF) | 3:21 |
-| 79 | [O God Our Mother](https://open.spotify.com/track/1CFsZ1rppH7wb9tJ6BW3Wm) | [Samantha McCabe](https://open.spotify.com/artist/7jEdW0KbQk4baXIdRNHArL) | [O God Our Mother](https://open.spotify.com/album/0QRDfO8uH9FiyoETaU4Vda) | 3:41 |
-| 80 | [Momma Kinda Lovin](https://open.spotify.com/track/4k3N2Sh67ov5t0qJLudDp1) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Momma Kinda Lovin](https://open.spotify.com/album/5O8hVjPeB8q8yMAFWDwal2) | 3:40 |
+| 79 | [Momma Kinda Lovin](https://open.spotify.com/track/4k3N2Sh67ov5t0qJLudDp1) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Momma Kinda Lovin](https://open.spotify.com/album/5O8hVjPeB8q8yMAFWDwal2) | 3:40 |
+| 80 | [O God Our Mother](https://open.spotify.com/track/1CFsZ1rppH7wb9tJ6BW3Wm) | [Samantha McCabe](https://open.spotify.com/artist/7jEdW0KbQk4baXIdRNHArL) | [O God Our Mother](https://open.spotify.com/album/0QRDfO8uH9FiyoETaU4Vda) | 3:41 |
 
-Snapshot ID: `MTY1MTgwOTcyMCwwMDAwMDAwMDQwYTcyNTY1YzlmNDRiMjJmNmMzMTc5YjE4ODdlOTg3`
+Snapshot ID: `MTY1MTgwOTcyMCwwMDAwMDAwMGZjNDE5OWRjYzRmNDEzZTdhZDAwYTY5YmQ4MDViODQ3`

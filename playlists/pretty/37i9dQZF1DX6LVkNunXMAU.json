@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Luz Pinos",
-  "num_followers": 53902,
+  "num_followers": 53906,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMDMyODllOTg4ZmMxYjcxMjcxOGNjYTMyYjI3NjRmNjVi",
+  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMGQ4NjE0NzEyMzdlYjljNzM4MmVhNzc0YTNkZDEzMzM0",
   "tracks": [
     {
       "added_at": "2023-04-14 03:00:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Terca",
+        "url": "https://open.spotify.com/album/49rKzzyFSqNVEj160n6iPS"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 132316,
+      "name": "Terca",
+      "url": "https://open.spotify.com/track/705iDVYgG2BrtlD8hfDVHH"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Mis Amantes",
         "url": "https://open.spotify.com/album/1clEtt82cNNqkh6YWU2fBc"
       },
@@ -323,22 +339,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Terca",
-        "url": "https://open.spotify.com/album/49rKzzyFSqNVEj160n6iPS"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 132316,
-      "name": "Terca",
-      "url": "https://open.spotify.com/track/705iDVYgG2BrtlD8hfDVHH"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Ciencia Ficci\u00f3n",
         "url": "https://open.spotify.com/album/6gwnAgOqe7R194PnajM8Hi"
       },
@@ -351,6 +351,26 @@
       "duration_ms": 165572,
       "name": "Y T\u00fa No",
       "url": "https://open.spotify.com/track/56FAtkjYkS2DqyuyKAo4d1"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Dame",
+        "url": "https://open.spotify.com/album/3QSi2Fj1FUjE3Uu2K5Gfh4"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 244500,
+      "name": "Dame",
+      "url": "https://open.spotify.com/track/297Vr1chPCF0607I0g80IJ"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -435,26 +455,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Dame",
-        "url": "https://open.spotify.com/album/3QSi2Fj1FUjE3Uu2K5Gfh4"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        },
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 244500,
-      "name": "Dame",
-      "url": "https://open.spotify.com/track/297Vr1chPCF0607I0g80IJ"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Lesbiandrama",
         "url": "https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR"
       },
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Track",
-        "url": "https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL"
-      },
-      "artists": [
-        {
-          "name": "Rosario Ortega",
-          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
-        }
-      ],
-      "duration_ms": 204241,
-      "name": "Track Track",
-      "url": "https://open.spotify.com/track/3iYRLqDPD52FsVEKPE5Ro8"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "UY!",
         "url": "https://open.spotify.com/album/26eLXyKicJJrQDxqg4RB25"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 161302,
       "name": "A la Primera",
       "url": "https://open.spotify.com/track/3MsD0RrlQb1OoPFInlQoJy"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Track",
+        "url": "https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL"
+      },
+      "artists": [
+        {
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+        }
+      ],
+      "duration_ms": 204241,
+      "name": "Track Track",
+      "url": "https://open.spotify.com/track/3iYRLqDPD52FsVEKPE5Ro8"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -631,6 +631,26 @@
       "duration_ms": 219647,
       "name": "En una",
       "url": "https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Tur Blues",
+        "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
+      },
+      "artists": [
+        {
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+        },
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 213112,
+      "name": "Tur Blues",
+      "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -691,22 +711,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Tur Blues",
-        "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
+        "name": "<3",
+        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
       },
       "artists": [
         {
-          "name": "pau",
-          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
-        },
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
         }
       ],
-      "duration_ms": 213112,
-      "name": "Tur Blues",
-      "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
+      "duration_ms": 142106,
+      "name": "<3",
+      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -723,22 +739,6 @@
       "duration_ms": 213159,
       "name": "Locos",
       "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "<3",
-        "url": "https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6"
-      },
-      "artists": [
-        {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
-        }
-      ],
-      "duration_ms": 142106,
-      "name": "<3",
-      "url": "https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Locomotora",
-        "url": "https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf"
-      },
-      "artists": [
-        {
-          "name": "La Gente del Bien",
-          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
-        }
-      ],
-      "duration_ms": 185296,
-      "name": "Que Placer",
-      "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Particular",
         "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 246133,
       "name": "Nosotros Dos",
       "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Locomotora",
+        "url": "https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf"
+      },
+      "artists": [
+        {
+          "name": "La Gente del Bien",
+          "url": "https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw"
+        }
+      ],
+      "duration_ms": 185296,
+      "name": "Que Placer",
+      "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Mi lugar en el mundo",
-        "url": "https://open.spotify.com/album/2himgHYphRMFHgrzRKkYDC"
-      },
-      "artists": [
-        {
-          "name": "Agustina Pampin",
-          "url": "https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "Mi lugar en el mundo",
-      "url": "https://open.spotify.com/track/7JM0yDtd6hu6jKg1adX3hU"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "El Vals",
         "url": "https://open.spotify.com/album/1I0GlSP3diYHVYtDaXFyrN"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 200956,
       "name": "El Vals",
       "url": "https://open.spotify.com/track/6zx183cKNh2ws2k9ikLK1Q"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Mi lugar en el mundo",
+        "url": "https://open.spotify.com/album/2himgHYphRMFHgrzRKkYDC"
+      },
+      "artists": [
+        {
+          "name": "Agustina Pampin",
+          "url": "https://open.spotify.com/artist/1SzhQpRiCh3rCfkjTmPcfv"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Mi lugar en el mundo",
+      "url": "https://open.spotify.com/track/7JM0yDtd6hu6jKg1adX3hU"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "A Medio Paso de Tu Amor",
-        "url": "https://open.spotify.com/album/1To4WsAqHV6ULE3Ax9fxtl"
-      },
-      "artists": [
-        {
-          "name": "Ine Maguire",
-          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
-        }
-      ],
-      "duration_ms": 225500,
-      "name": "A Medio Paso de Tu Amor",
-      "url": "https://open.spotify.com/track/4XoEfF1PhCxCU5D8QG3cU7"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Un Caf\u00e9",
         "url": "https://open.spotify.com/album/0WkFkZMYw79SJMLPzoL3AG"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 215690,
       "name": "Un Caf\u00e9",
       "url": "https://open.spotify.com/track/3b1Hvw1zcIKPMtO8hw2Cpc"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "A Medio Paso de Tu Amor",
+        "url": "https://open.spotify.com/album/1To4WsAqHV6ULE3Ax9fxtl"
+      },
+      "artists": [
+        {
+          "name": "Ine Maguire",
+          "url": "https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz"
+        }
+      ],
+      "duration_ms": 225500,
+      "name": "A Medio Paso de Tu Amor",
+      "url": "https://open.spotify.com/track/4XoEfF1PhCxCU5D8QG3cU7"
     },
     {
       "added_at": "2023-04-14 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Caramelo Haze en portada.",
-  "num_followers": 30310,
+  "num_followers": 30332,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQzNTM3NywwMDAwMDAwMDg2NDM5NWJkOWQ1ZWZmN2E1NzZhMDEwMjlmYzIyZDQx",
+  "snapshot_id": "MTY4MTQzNTM3NywwMDAwMDAwMDNhYTI2ZmQ4MDNkOTQxNjI3MzQ5YTBkOGU3MmY1MmE2",
   "tracks": [
     {
       "added_at": "2023-03-31 17:57:12",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo"
     },
     {
-      "added_at": "2023-03-31 20:16:58",
-      "album": {
-        "name": "Camino al Mar",
-        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
-      },
-      "artists": [
-        {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
-        }
-      ],
-      "duration_ms": 252040,
-      "name": "Hoy Como Siempre",
-      "url": "https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0"
-    },
-    {
       "added_at": "2022-04-09 05:10:17",
       "album": {
         "name": "Mabanzo",
@@ -1135,6 +1119,22 @@
       "duration_ms": 291786,
       "name": "Alma Seca",
       "url": "https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9"
+    },
+    {
+      "added_at": "2023-03-31 20:16:58",
+      "album": {
+        "name": "Camino al Mar",
+        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
+      },
+      "artists": [
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        }
+      ],
+      "duration_ms": 252040,
+      "name": "Hoy Como Siempre",
+      "url": "https://open.spotify.com/track/61Rc95MbrSSCaXqLcRRBu0"
     },
     {
       "added_at": "2022-04-09 05:01:42",

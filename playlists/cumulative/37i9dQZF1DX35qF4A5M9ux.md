@@ -4,7 +4,7 @@
 
 > ¡Éxitos salseros para prenderle fuego a la pista de baile!
 
-240 songs - 19 hr 50 min
+241 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,8 +237,9 @@
 | [Ven Devórame Otra Vez](https://open.spotify.com/track/5mg6sU732O35VMfCYk3lmX) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Ven Devórame Otra Vez \(Baile Total\)](https://open.spotify.com/album/59dQPzYAIAs2vdU7tP3wTh) | 5:14 | 2021-12-20 | 2022-03-08 |
 | [Vestida De Blanco](https://open.spotify.com/track/1EwOtt45TzDHOHC2pho6t2) | [German Carreño Y Su Orquesta](https://open.spotify.com/artist/6Jd6ScenyoH7n1kvMeLmUY) | [Exitos Bailables](https://open.spotify.com/album/1n1QP3u4JAI4XkxMDd51Fo) | 4:42 | 2022-03-08 | 2023-04-02 |
 | [Vete Ya](https://open.spotify.com/track/0eYLUCx6MYnuc1DcmKT2kB) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 4:53 | 2022-03-08 |  |
-| [Virgen](https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Más Que Nunca](https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk) | 4:31 | 2022-03-08 |  |
+| [Virgen](https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Ahora Más Que Nunca](https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk) | 4:31 | 2022-03-08 | 2023-04-20 |
 | [Virgen](https://open.spotify.com/track/4ae223xfO5QUzbDWqLJMag) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [La Historia..\. Los Éxitos](https://open.spotify.com/album/2qGqJrcsR1oXU5vPQbCCU8) | 4:33 | 2021-12-20 | 2022-03-06 |
+| [Virgen](https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [La Historia..\. Los Éxitos](https://open.spotify.com/album/5hVmKtEt52RcmAk6LYB2vJ) | 4:33 | 2022-08-04 |  |
 | [Vivir Mi Vida](https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [3.0](https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R) | 4:12 | 2022-03-08 |  |
 | [Vivir Sin Ella](https://open.spotify.com/track/5ugemlM6AII73sb0k6yqux) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [El Caballero De La Salsa \- La Historia Tropical](https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA) | 5:12 | 2021-12-20 |  |
 | [Y Hubo Alguien](https://open.spotify.com/track/4lmOvO7Nc0Ppdz2hk8jpHj) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Contra La Corriente](https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe) | 6:28 | 2021-12-20 |  |

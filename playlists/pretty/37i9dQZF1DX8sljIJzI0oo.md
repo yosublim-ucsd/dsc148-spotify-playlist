@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Mixtape \#047 featuring hand picked gems from Myke Towers 🔥\. Find a new mixtape every Thursday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,854,649 likes - 25 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,854,736 likes - 25 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZrryBktb0e.md) - [plain]
 
 > Featuring Feid, Kali Uchis, Rauw Alejandro & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 492 likes - 25 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 493 likes - 25 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,6 +32,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZrryBktb0e.md) - [plain]
 | 22 | [California](https://open.spotify.com/track/19iUrnYyBAG5LaxT72ajsM) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:31 |
 | 23 | [JETSKI \- Remix](https://open.spotify.com/track/0ncCaYom8GIvfCjuecL2eP) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [JETSKI \(Remix\)](https://open.spotify.com/album/13W7b2LEH1MpoWPQzNpsHI) | 4:16 |
 | 24 | [Cáscara de Coco](https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:56 |
-| 25 | [Intocable \- Remix](https://open.spotify.com/track/12wrn8c4kzJR9pqTsQIVPN) | [Vgomez](https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Amalfitan](https://open.spotify.com/artist/2BnLHLbvzwOsSVFLnfpxKh) | [Intocable \(Remix\)](https://open.spotify.com/album/6ounTjjFKJEvu2HV6UAMFr) | 2:49 |
+| 25 | [Intocable \- Remix](https://open.spotify.com/track/3uYloeZOfzOjx3h7IQqD9N) | [Vgomez](https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Amalfitan](https://open.spotify.com/artist/2BnLHLbvzwOsSVFLnfpxKh) | [Intocable \(Remix\)](https://open.spotify.com/album/4ZAxnfKnod9PFvcXcX7ICq) | 2:49 |
 
-Snapshot ID: `MTY3NDg1MzQ3MCwwMDAwMDAwMGMwYjBiM2U3ZmMxZGZiMzFiMjVlOGQ2Y2UxYTIyMDg1`
+Snapshot ID: `MTY3NDg1MzQ3MCwwMDAwMDAwMGUzYzMzY2Q0N2RlOWJkZjQ2MjExM2I5M2YzYWQ3NTlm`

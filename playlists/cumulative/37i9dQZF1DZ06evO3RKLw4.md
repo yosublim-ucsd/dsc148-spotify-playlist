@@ -4,7 +4,7 @@
 
 > This is Rancid\. The essential tracks, all in one playlist.
 
-59 songs - 2 hr 23 min
+60 songs - 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Telegraph Avenue](https://open.spotify.com/track/3TtDUP3ijbAmWLmDAyrBe1) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 3:19 | 2022-09-16 |  |
 | [The Wolf](https://open.spotify.com/track/0rwQS0EU9Gg5EuA5d9Q5mm) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Life Won't Wait](https://open.spotify.com/album/410JU10vru3pFk7f7vA94E) | 2:38 | 2022-09-16 |  |
 | [Time Bomb](https://open.spotify.com/track/41kg2RvdwBuIv0OPpvBS4v) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 2:24 | 2022-09-16 |  |
+| [Tomorrow Never Comes](https://open.spotify.com/track/1c985Seh2T4z0pUh2XZTgs) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/0CLKz1aW13bGfrNhqOmA7r) | 2:25 | 2023-04-19 |  |
 | [Track Fast](https://open.spotify.com/track/7yFYeo1l8wU6LEolRPS6wg) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 0:58 | 2022-09-24 |  |
 | [Up To No Good](https://open.spotify.com/track/1Ple8GjeW9SQDao6azBsHi) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Let The Dominoes Fall \(Expanded Version\)](https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93) | 2:40 | 2022-09-16 |  |
 | [Where I'm Going](https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 2:23 | 2022-09-16 |  |

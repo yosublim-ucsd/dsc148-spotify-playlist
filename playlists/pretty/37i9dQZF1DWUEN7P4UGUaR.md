@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Joe Mettle
 
-[Spotify](https://open.spotify.com/user/spotify) - 191 likes - 50 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 210 likes - 50 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 8 | [Ote Me Mu](https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s), [MOG](https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf) | [Ote Me Mu](https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N) | 4:35 |
 | 9 | [This Far by Grace](https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD) | [Pastor Edwin Dadson](https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH) | [This Far by Grace](https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR) | 4:53 |
 | 10 | [Turning Around\(Live\)](https://open.spotify.com/track/6qrj9hYFtEEPJTHRv2tew0) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Encounter](https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x) | 4:48 |
-| 11 | [Blessed](https://open.spotify.com/track/2ldQgqEsS4yhMWaxhmu3cE) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Blessed](https://open.spotify.com/album/79NSowDwIZktvvE09CjnrP) | 3:38 |
-| 12 | [Aseda](https://open.spotify.com/track/5r8OPDPYNHojAhVsLnXuE1) | [Nacee](https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK) | [Aseda](https://open.spotify.com/album/7M7BxTDWlHdM85VKItKein) | 4:16 |
+| 11 | [Aseda](https://open.spotify.com/track/5r8OPDPYNHojAhVsLnXuE1) | [Nacee](https://open.spotify.com/artist/78yZ1ji9uBJVuMp8pXKoBK) | [Aseda](https://open.spotify.com/album/7M7BxTDWlHdM85VKItKein) | 4:16 |
+| 12 | [Blessed](https://open.spotify.com/track/2ldQgqEsS4yhMWaxhmu3cE) | [Akesse Brempong](https://open.spotify.com/artist/62l5OctR7XHGZo7H8iVSXb), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Blessed](https://open.spotify.com/album/79NSowDwIZktvvE09CjnrP) | 3:38 |
 | 13 | [Adom Grace](https://open.spotify.com/track/0VFbhDGfxAeAuc8YRyVpas) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Adom Grace](https://open.spotify.com/album/02xD7F3MCsh7ELRQHpd1eJ) | 4:50 |
 | 14 | [Guide Me](https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Guide Me](https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y) | 3:47 |
 | 15 | [Matwen 20](https://open.spotify.com/track/0LLmzvPjpUp7t45uscjVdK) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Matwen 20](https://open.spotify.com/album/2YDGwWUKsGcxbTZKclcIn6) | 6:05 |
@@ -43,15 +43,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 33 | [Nyansabuakwa Nyame](https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nyansabuakwa Nyame](https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq) | 5:56 |
 | 34 | [Glory Chants](https://open.spotify.com/track/29zRC9vQVtAfCJuiBgtsUb) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [MOVE VOL 1](https://open.spotify.com/album/3DFFAcSAftKfh8EqfBVTck) | 7:13 |
 | 35 | [Lord Have Your Way](https://open.spotify.com/track/53sEAgeh4Pb2hJETL6IkcE) | [Efe Grace Official](https://open.spotify.com/artist/4sUJ8WsQFdYNsOVuXTZLgS) | [Lord Have Your Way](https://open.spotify.com/album/309FhXt3gyQzKeQ9sQ0DiD) | 6:08 |
-| 36 | [Mehyia Yesu](https://open.spotify.com/track/65T99WARm5ZKGigiN4cLZC) | [Omari Kissi Jnr](https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd) | [Mehyia Yesu](https://open.spotify.com/album/0q5QYDFWMtsriypN3zIgKp) | 8:38 |
-| 37 | [Ghana Local Praise Medley](https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV) | [DOXA WAVE GH](https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6), [Shadrach Mensah Kwesi](https://open.spotify.com/artist/6WRzw7R2P5DfMPXZAulY7e) | [Ghana Local Praise Medley](https://open.spotify.com/album/6JMeaFneyim4EC2BxMYMGw) | 9:26 |
+| 36 | [Ghana Local Praise Medley](https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV) | [DOXA WAVE GH](https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6), [Shadrach Mensah Kwesi](https://open.spotify.com/artist/6WRzw7R2P5DfMPXZAulY7e) | [Ghana Local Praise Medley](https://open.spotify.com/album/6JMeaFneyim4EC2BxMYMGw) | 9:26 |
+| 37 | [Mehyia Yesu](https://open.spotify.com/track/65T99WARm5ZKGigiN4cLZC) | [Omari Kissi Jnr](https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd) | [Mehyia Yesu](https://open.spotify.com/album/0q5QYDFWMtsriypN3zIgKp) | 8:38 |
 | 38 | [Amenuveve \(Grace\) \- Live](https://open.spotify.com/track/2mumNKA39z1o0nJ4HhCZgK) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Final Say \(Live\)](https://open.spotify.com/album/5eHLuC2Ey4ToQkC2dCeVFY) | 6:48 |
 | 39 | [Gyae Su](https://open.spotify.com/track/5tTbNxe0QDMHM78vdY4Nqj) | [Solomon King](https://open.spotify.com/artist/2iuZufX5th90MKHNrJI6jT) | [Gyae Su](https://open.spotify.com/album/4dmKQIOUlnx3kLkM2I7loB) | 4:18 |
 | 40 | [More](https://open.spotify.com/track/3YzVHJmmQAuGFdrX6yPHyn) | [Irene Logan](https://open.spotify.com/artist/5E0zjnKqKIVeXOPSiIhnUz) | [More](https://open.spotify.com/album/7xfrnuQPFXGHNLfKBi54fk) | 5:21 |
 | 41 | [Aseda](https://open.spotify.com/track/2SvJR52RLovnc4XRkpa5rn) | [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB), [PO Godson](https://open.spotify.com/artist/1TbwnRRabR2ZOYj4u3C6Vl), [Joe Kay](https://open.spotify.com/artist/53ZQc2LGjVFkhzbC6zBggA), [Belac 360](https://open.spotify.com/artist/68McF3BHKgTCfkHlUpy7Ah) | [This Is Us](https://open.spotify.com/album/06C51VglvEDVHgbI25OCty) | 3:27 |
 | 42 | [Dear God](https://open.spotify.com/track/17m5N07GGlrUrqz1XwL40w) | [Jacquelyn Oforiwaa\-Amanfo](https://open.spotify.com/artist/2noxRpCkkwCk7iYYPr151p), [Nana Amoah](https://open.spotify.com/artist/3EQe9YDfiBp4ZERkmjp6Fu) | [Dear God](https://open.spotify.com/album/4uW2MlugHUxK2JgW2tIjS6) | 7:08 |
-| 43 | [ONYE NWERE](https://open.spotify.com/track/46FjDse0BOSh8BgO4IhIMl) | [GEMS](https://open.spotify.com/artist/5VwQwtATk6Op8e9NcdSHPF) | [ONYE NWERE](https://open.spotify.com/album/3oWcoM13WK313nUCGdNHnI) | 3:38 |
-| 44 | [A Letter to the Wise](https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7) | [Israel Chemphe](https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z) | [A Letter to the Wise](https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh) | 3:32 |
+| 43 | [A Letter to the Wise](https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7) | [Israel Chemphe](https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z) | [A Letter to the Wise](https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh) | 3:32 |
+| 44 | [ONYE NWERE](https://open.spotify.com/track/46FjDse0BOSh8BgO4IhIMl) | [GEMS](https://open.spotify.com/artist/5VwQwtATk6Op8e9NcdSHPF) | [ONYE NWERE](https://open.spotify.com/album/3oWcoM13WK313nUCGdNHnI) | 3:38 |
 | 45 | [Gye Wayeyi](https://open.spotify.com/track/0vRMKxie6xpXzByMbTlqHD) | [Ceccy Twum](https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz) | [Gye Wayeyi](https://open.spotify.com/album/3pEaPAtG5ZW4izhcaGGRDy) | 8:05 |
 | 46 | [Adom Bi](https://open.spotify.com/track/78qtI2HtGEAmSGyKNMLdiU) | [Prophet Dominion](https://open.spotify.com/artist/3oZ9HnpUIgWhWcSFO1ocsc), [Brother Sammy](https://open.spotify.com/artist/462css63bI6oOmHwsofdDM) | [Adom Bi](https://open.spotify.com/album/79jWpJZrG5I7T3tCtu6EWO) | 5:19 |
 | 47 | [Mensuro](https://open.spotify.com/track/6geMEaOz4kZReH6wgfh2IO) | [Miriam Afari](https://open.spotify.com/artist/0L2izWZGS4EwYXZgOqu3eR) | [Mensuro](https://open.spotify.com/album/2j9sRrruqPzeRUhnnIf5TK) | 6:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 49 | [My Alabaster](https://open.spotify.com/track/3Q6SskhzdXnnwVUQ9a4F7y) | [DenniS](https://open.spotify.com/artist/5KAy8GO8DyyokO4vqP7TJZ) | [My Alabaster](https://open.spotify.com/album/3cBCmxXML7UVczDD3tWywl) | 8:34 |
 | 50 | [CYB](https://open.spotify.com/track/4RROgBvii00NTvk2ga3xZk) | [Regardless Da YungKing](https://open.spotify.com/artist/7dkbG2UVvht2XS9FzRXBcy), [Morphat](https://open.spotify.com/artist/6aOcPv0XzxXzDWpEQer0rw) | [CYB](https://open.spotify.com/album/0KqMiA8MVuuBsK8KXlCAmy) | 2:59 |
 
-Snapshot ID: `MTY4MTQ5MDUwMywwMDAwMDAwMDRmZmRjYmQxN2M1ZTA0YjdmNTk1NDQ3MjU3ZTUxMDlk`
+Snapshot ID: `MTY4MTQ5MDUwMywwMDAwMDAwMDAxZmI3YjNhNzRjYzI5NGM5ZDBjNjNlODNhNzg5MTI3`

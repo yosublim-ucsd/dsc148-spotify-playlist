@@ -1,18 +1,18 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002cover: iri",
-  "num_followers": 94651,
+  "num_followers": 94734,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTgzMDAwMCwwMDAwMDAwMDU5OTk0MzIzNDQ3NzdmNDc2Zjc3M2IyNmJhOTE1MTVh",
+  "snapshot_id": "MTY4MTgzMDAwMCwwMDAwMDAwMDdkM2VhOTE5NjdkM2M4NzZlNmVkYWViYmNkMWFjNTMx",
   "tracks": [
     {
       "added_at": "2023-04-18 15:00:00",
       "album": {
         "name": "Season",
-        "url": "https://open.spotify.com/album/4Bf2U02MHfbI5QwpdID98M"
+        "url": "https://open.spotify.com/album/0oNra3mg2Pon6DWljxx8WR"
       },
       "artists": [
         {
@@ -22,7 +22,7 @@
       ],
       "duration_ms": 208133,
       "name": "Season",
-      "url": "https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg"
+      "url": "https://open.spotify.com/track/5mIJzqBwYM3SSVuCCCC3gg"
     },
     {
       "added_at": "2023-04-18 15:00:00",
@@ -79,18 +79,18 @@
     {
       "added_at": "2023-04-18 15:00:00",
       "album": {
-        "name": "\u7948\u308a",
-        "url": "https://open.spotify.com/album/7LB8h6Mw2WbT9KHVSq7lGJ"
+        "name": "Inori",
+        "url": "https://open.spotify.com/album/4owR8s4kYTyqTM995UaXOf"
       },
       "artists": [
         {
-          "name": "Higuchi Ai",
-          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+          "name": "Ai Higuchi",
+          "url": "https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu"
         }
       ],
       "duration_ms": 215333,
-      "name": "\u7948\u308a",
-      "url": "https://open.spotify.com/track/6VDyK4vjlz1Cb6OcCSeoP3"
+      "name": "Inori",
+      "url": "https://open.spotify.com/track/45RVt1QEw92zIv7pFwYJ7j"
     },
     {
       "added_at": "2023-04-18 15:00:00",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-04-18 15:00:00",
       "album": {
-        "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
-        "url": "https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4"
+        "name": "\u30bb\u30d6\u30f3\u30c6\u30a3\u30fc\u30f3",
+        "url": "https://open.spotify.com/album/2XGJwl5zpqPTmtLAPy2rr6"
       },
       "artists": [
         {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
         }
       ],
-      "duration_ms": 254138,
-      "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
-      "url": "https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ"
+      "duration_ms": 199585,
+      "name": "\u30bb\u30d6\u30f3\u30c6\u30a3\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/1TXhBe3DnaOFc7onTbEoiB"
     },
     {
       "added_at": "2023-04-18 15:00:00",
@@ -447,24 +447,24 @@
     {
       "added_at": "2023-04-18 15:00:00",
       "album": {
-        "name": "\u30bb\u30d6\u30f3\u30c6\u30a3\u30fc\u30f3",
-        "url": "https://open.spotify.com/album/2XGJwl5zpqPTmtLAPy2rr6"
+        "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
+        "url": "https://open.spotify.com/album/38aExI5zPQwJBbcLX200A4"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 199585,
-      "name": "\u30bb\u30d6\u30f3\u30c6\u30a3\u30fc\u30f3",
-      "url": "https://open.spotify.com/track/1TXhBe3DnaOFc7onTbEoiB"
+      "duration_ms": 254138,
+      "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
+      "url": "https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ"
     },
     {
       "added_at": "2023-04-18 15:00:00",
       "album": {
-        "name": "\u3044\u3064\u304b\u898b\u305f\u6620\u753b\u307f\u305f\u3044\u306b",
-        "url": "https://open.spotify.com/album/7JNRGOQnDZNXAUbEPhYepK"
+        "name": "Movie",
+        "url": "https://open.spotify.com/album/7wWjvs8fquu0ghGZZNdYi2"
       },
       "artists": [
         {
@@ -473,8 +473,8 @@
         }
       ],
       "duration_ms": 197333,
-      "name": "\u3044\u3064\u304b\u898b\u305f\u6620\u753b\u307f\u305f\u3044\u306b",
-      "url": "https://open.spotify.com/track/06LDLrnLqpKWHedusZKnTe"
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/2FpJP26vKDilHH9AsNlbwO"
     },
     {
       "added_at": "2023-04-18 15:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-04-18 15:00:00",
       "album": {
-        "name": "First Love (2022 Mix)",
-        "url": "https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 261122,
-      "name": "First Love - 2022 Mix",
-      "url": "https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70"
-    },
-    {
-      "added_at": "2023-04-18 15:00:00",
-      "album": {
         "name": "L7 Blues",
         "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 141974,
       "name": "L7 Blues",
       "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
+    },
+    {
+      "added_at": "2023-04-18 15:00:00",
+      "album": {
+        "name": "First Love (2022 Mix)",
+        "url": "https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 261122,
+      "name": "First Love - 2022 Mix",
+      "url": "https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70"
     },
     {
       "added_at": "2023-04-18 15:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-04-18 15:00:00",
       "album": {
-        "name": "HUMAN",
-        "url": "https://open.spotify.com/album/0n5KYys0tXqkV1v83KZ5lJ"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 322120,
-      "name": "HUMAN",
-      "url": "https://open.spotify.com/track/3ElWd9b7Cy4UvX7NqA25h7"
-    },
-    {
-      "added_at": "2023-04-18 15:00:00",
-      "album": {
         "name": "\u9b54\u6cd5",
         "url": "https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 258974,
       "name": "\u9b54\u6cd5",
       "url": "https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM"
+    },
+    {
+      "added_at": "2023-04-18 15:00:00",
+      "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/0n5KYys0tXqkV1v83KZ5lJ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 322120,
+      "name": "HUMAN",
+      "url": "https://open.spotify.com/track/3ElWd9b7Cy4UvX7NqA25h7"
     },
     {
       "added_at": "2023-04-18 15:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-04-18 15:00:00",
       "album": {
-        "name": "\u30d2\u30c8\u30c4\u30dc\u30b7 ~\u30ac\u30ea\u30ec\u30aa Collection 2007-2022~",
-        "url": "https://open.spotify.com/album/296UpZk8DkmZ1LDtUwtgP1"
-      },
-      "artists": [
-        {
-          "name": "KOH+",
-          "url": "https://open.spotify.com/artist/74iC908yY2tkjyHMOl0Fyr"
-        }
-      ],
-      "duration_ms": 260440,
-      "name": "\u30d2\u30c8\u30c4\u30dc\u30b7",
-      "url": "https://open.spotify.com/track/1mucJa0A819ikDw6qesrTR"
-    },
-    {
-      "added_at": "2023-04-18 15:00:00",
-      "album": {
         "name": "Pre-Romance",
         "url": "https://open.spotify.com/album/27K1okvCknZXHbEwTU0qL2"
       },
@@ -1435,6 +1419,22 @@
     {
       "added_at": "2023-04-18 15:00:00",
       "album": {
+        "name": "\u30d2\u30c8\u30c4\u30dc\u30b7 ~\u30ac\u30ea\u30ec\u30aa Collection 2007-2022~",
+        "url": "https://open.spotify.com/album/296UpZk8DkmZ1LDtUwtgP1"
+      },
+      "artists": [
+        {
+          "name": "KOH+",
+          "url": "https://open.spotify.com/artist/74iC908yY2tkjyHMOl0Fyr"
+        }
+      ],
+      "duration_ms": 260440,
+      "name": "\u30d2\u30c8\u30c4\u30dc\u30b7",
+      "url": "https://open.spotify.com/track/1mucJa0A819ikDw6qesrTR"
+    },
+    {
+      "added_at": "2023-04-18 15:00:00",
+      "album": {
         "name": "\u5148\u99c6\u8005",
         "url": "https://open.spotify.com/album/5sgYGpQmcNXGVhpX8oP82I"
       },
@@ -1447,6 +1447,26 @@
       "duration_ms": 274000,
       "name": "\u5148\u99c6\u8005",
       "url": "https://open.spotify.com/track/2z39kvnOiBa0DBbtsCRNA0"
+    },
+    {
+      "added_at": "2023-04-18 15:00:00",
+      "album": {
+        "name": "\u30c9\u30ad\u30e1\u30ad\u30c0\u30a4\u30a2\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/3wrzViTziNyAqM2on7hM8q"
+      },
+      "artists": [
+        {
+          "name": "asmi",
+          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
+        },
+        {
+          "name": "Chinozo",
+          "url": "https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "\u30c9\u30ad\u30e1\u30ad\u30c0\u30a4\u30a2\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/5WZ6lxBhcncHgc2qkTBih2"
     },
     {
       "added_at": "2023-04-18 15:00:00",
@@ -1467,22 +1487,6 @@
     {
       "added_at": "2023-04-18 15:00:00",
       "album": {
-        "name": "Not Unusual",
-        "url": "https://open.spotify.com/album/3gx3krICQA5Q62l56pEHcB"
-      },
-      "artists": [
-        {
-          "name": "Mao Abe",
-          "url": "https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My"
-        }
-      ],
-      "duration_ms": 229920,
-      "name": "Never Fear",
-      "url": "https://open.spotify.com/track/5jG4OWaAkMo4JATFSkCrpc"
-    },
-    {
-      "added_at": "2023-04-18 15:00:00",
-      "album": {
         "name": "Presence",
         "url": "https://open.spotify.com/album/0du1IQkJ1TSUoc0fqxSknn"
       },
@@ -1495,6 +1499,22 @@
       "duration_ms": 249227,
       "name": "Presence",
       "url": "https://open.spotify.com/track/5Nv8sEUqdqrrNET339wP1X"
+    },
+    {
+      "added_at": "2023-04-18 15:00:00",
+      "album": {
+        "name": "Not Unusual",
+        "url": "https://open.spotify.com/album/3gx3krICQA5Q62l56pEHcB"
+      },
+      "artists": [
+        {
+          "name": "Mao Abe",
+          "url": "https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My"
+        }
+      ],
+      "duration_ms": 229920,
+      "name": "Never Fear",
+      "url": "https://open.spotify.com/track/5jG4OWaAkMo4JATFSkCrpc"
     },
     {
       "added_at": "2023-04-18 15:00:00",
@@ -1563,22 +1583,6 @@
     {
       "added_at": "2023-04-18 15:00:00",
       "album": {
-        "name": "Little Red Riding Hood",
-        "url": "https://open.spotify.com/album/01IOJtpI12E42QyUjjLSL3"
-      },
-      "artists": [
-        {
-          "name": "WEDNESDAY CAMPANELLA",
-          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
-        }
-      ],
-      "duration_ms": 195059,
-      "name": "Little Red Riding Hood",
-      "url": "https://open.spotify.com/track/1kXSvdQw5GByk7Ut432360"
-    },
-    {
-      "added_at": "2023-04-18 15:00:00",
-      "album": {
         "name": "39 Minutes",
         "url": "https://open.spotify.com/album/1bwGXlt6FsF40k0LzSTJbf"
       },
@@ -1595,18 +1599,18 @@
     {
       "added_at": "2023-04-18 15:00:00",
       "album": {
-        "name": "lullaby",
-        "url": "https://open.spotify.com/album/124KAJ6yPCPMVOYQy60qzZ"
+        "name": "Little Red Riding Hood",
+        "url": "https://open.spotify.com/album/01IOJtpI12E42QyUjjLSL3"
       },
       "artists": [
         {
-          "name": "YU-KA",
-          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
         }
       ],
-      "duration_ms": 212233,
-      "name": "lullaby",
-      "url": "https://open.spotify.com/track/2zg2jjRWX3zKG6GW4zaPqX"
+      "duration_ms": 195059,
+      "name": "Little Red Riding Hood",
+      "url": "https://open.spotify.com/track/1kXSvdQw5GByk7Ut432360"
     },
     {
       "added_at": "2023-04-18 15:00:00",
@@ -1627,6 +1631,22 @@
     {
       "added_at": "2023-04-18 15:00:00",
       "album": {
+        "name": "lullaby",
+        "url": "https://open.spotify.com/album/124KAJ6yPCPMVOYQy60qzZ"
+      },
+      "artists": [
+        {
+          "name": "YU-KA",
+          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
+        }
+      ],
+      "duration_ms": 212233,
+      "name": "lullaby",
+      "url": "https://open.spotify.com/track/2zg2jjRWX3zKG6GW4zaPqX"
+    },
+    {
+      "added_at": "2023-04-18 15:00:00",
+      "album": {
         "name": "NIGHT TAPE",
         "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
       },
@@ -1639,22 +1659,6 @@
       "duration_ms": 266900,
       "name": "\u591c\u3092\u30eb\u30fc\u30d7",
       "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
-    },
-    {
-      "added_at": "2023-04-18 15:00:00",
-      "album": {
-        "name": "BLACK COFFEE",
-        "url": "https://open.spotify.com/album/7nlneqSLyMw8mNmqZTAbFm"
-      },
-      "artists": [
-        {
-          "name": "asmi",
-          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "BLACK COFFEE",
-      "url": "https://open.spotify.com/track/7nVJUCN42beJPJbEbn1lwr"
     }
   ],
   "unique_name": "Women's Voice",

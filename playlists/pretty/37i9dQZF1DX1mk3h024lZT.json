@@ -1,12 +1,12 @@
 {
   "description": "set your intentions at the highest of vibrations. ",
-  "num_followers": 48197,
+  "num_followers": 48355,
   "original_name": "supermoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MTA1MDgxMSwwMDAwMDAwMGYzNjhiZTE3MTVlMDFjOGJlZDZmODdjNmZlNmRjMGMx",
+  "snapshot_id": "MTY3MTA1MDgxMSwwMDAwMDAwMDYyMjM3MDAxNTlmMjI4NjNlZjdkYjZjMDA4MzljNDI3",
   "tracks": [
     {
       "added_at": "2022-12-14 20:46:51",
@@ -699,38 +699,6 @@
     {
       "added_at": "2022-08-09 22:19:15",
       "album": {
-        "name": "Betty (Get Money)",
-        "url": "https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF"
-      },
-      "artists": [
-        {
-          "name": "Yung Gravy",
-          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
-        }
-      ],
-      "duration_ms": 146470,
-      "name": "Betty (Get Money)",
-      "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
-    },
-    {
-      "added_at": "2022-08-09 22:19:15",
-      "album": {
-        "name": "Human (Deluxe)",
-        "url": "https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 168259,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd"
-    },
-    {
-      "added_at": "2022-08-09 22:19:15",
-      "album": {
         "name": "Take Care (Deluxe)",
         "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
       },
@@ -751,22 +719,34 @@
     {
       "added_at": "2022-08-09 22:19:15",
       "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 207000,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L"
+      "duration_ms": 168259,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd"
+    },
+    {
+      "added_at": "2022-08-09 22:19:15",
+      "album": {
+        "name": "Betty (Get Money)",
+        "url": "https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF"
+      },
+      "artists": [
+        {
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+        }
+      ],
+      "duration_ms": 146470,
+      "name": "Betty (Get Money)",
+      "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
     },
     {
       "added_at": "2022-08-09 22:19:15",
@@ -787,6 +767,26 @@
       "duration_ms": 304760,
       "name": "Super Rich Kids",
       "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb"
+    },
+    {
+      "added_at": "2022-08-09 22:19:15",
+      "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L"
     },
     {
       "added_at": "2022-08-09 22:19:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,959 likes - 70 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,083 likes - 70 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

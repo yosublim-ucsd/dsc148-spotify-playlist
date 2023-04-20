@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 
 > This is El Chapo De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,226 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,254 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 13 | [Al Diablo Con Tu Amistad](https://open.spotify.com/track/59TFy9HsGcmkqnaHnEiTYl) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Para Siempre](https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd) | 2:40 |
 | 14 | [Tú, Yo Y La Luna](https://open.spotify.com/track/37Pq9KiFf4jMkIXXra7Jbt) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 2:32 |
 | 15 | [Embrujado](https://open.spotify.com/track/1E3xwQsPnBdDe2XBn6hQha) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Embrujado \- Single](https://open.spotify.com/album/18ncEHNMcIJd4tBScFZrYo) | 2:53 |
-| 16 | [Hola Mi Amor \(Mariachi\)](https://open.spotify.com/track/5BaDvD4VYk48bVskuzQjwI) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mi México Para El Mundo](https://open.spotify.com/album/23r76axU3JSU045PYMWqIq) | 3:10 |
+| 16 | [Cuando Era Niño](https://open.spotify.com/track/4NddcjnH1xdec9o8Y88IIE) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Serie 33](https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV) | 3:21 |
 | 17 | [Maldito Licor](https://open.spotify.com/track/5UZxsxodMAfhXQk2nE0oEy) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Para Siempre](https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd) | 2:56 |
-| 18 | [Cuando Era Niño](https://open.spotify.com/track/4NddcjnH1xdec9o8Y88IIE) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Serie 33](https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV) | 3:21 |
+| 18 | [Hola Mi Amor \(Mariachi\)](https://open.spotify.com/track/5BaDvD4VYk48bVskuzQjwI) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mi México Para El Mundo](https://open.spotify.com/album/23r76axU3JSU045PYMWqIq) | 3:10 |
 | 19 | [Ladrona](https://open.spotify.com/track/5owfn8hOqJpbMkQxTJTYWw) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 2:54 |
 | 20 | [Amarla Es Un Placer](https://open.spotify.com/track/5FhuwTRiT8JF2bO8B8wXK9) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Las Bandas Románticas](https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr) | 2:47 |
 | 21 | [Nadie Es De Nadie](https://open.spotify.com/track/4p73HjvhhgaaWDZB6TW66V) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31TGEC.md) - [plain]
 | 49 | [El Dolido](https://open.spotify.com/track/3QUVQh9YRliiLmBShel2DO) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Serie 33](https://open.spotify.com/album/1y6TyvJYOv3725PqA2LPSV) | 3:09 |
 | 50 | [Loco \(Version Mariachi\)](https://open.spotify.com/track/1n2PoW1W7t6u2OtHPfYHYq) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Loco \(Version Mariachi\)](https://open.spotify.com/album/0tG5uSGSrroWvjjfHljhas) | 3:01 |
 
-Snapshot ID: `MjgwMzAzOTAsMDAwMDAwMDA3YjAzYzRiMmU1MzhhODIyNDJmMjUzY2EzM2MwZDc4ZA==`
+Snapshot ID: `MjgwMzE3ODMsMDAwMDAwMDBjNTEyMDM0ZjBmYThjNWIwNmNjYjRmMzg2M2ZmNDIxNw==`

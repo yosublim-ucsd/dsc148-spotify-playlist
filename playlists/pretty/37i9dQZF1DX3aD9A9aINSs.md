@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Simge
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,633 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,632 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

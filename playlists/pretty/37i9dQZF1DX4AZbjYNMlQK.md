@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AZbjYNMlQK.md) - [plain]
 
 > ¡Feliz Navidad! Celebra los días festivos con estas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,537 likes - 61 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,518 likes - 61 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

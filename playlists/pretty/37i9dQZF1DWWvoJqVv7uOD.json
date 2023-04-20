@@ -1,12 +1,12 @@
 {
   "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Cat Burns",
-  "num_followers": 368205,
+  "num_followers": 368914,
   "original_name": "Everyday Favorites ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMGVmMDExMjY4ZTVmOWJlNzIzYWNkZjBhOTk2YTliOGY4",
+  "snapshot_id": "MTY4MTkxOTU1NiwwMDAwMDAwMDZjZWU3ZWM5MWY2OWU4ODkxY2M3NzQ1Nzk5NGE3OGI4",
   "tracks": [
     {
       "added_at": "2023-04-14 04:01:00",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 265493,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
         "name": "Never Be Mine",
         "url": "https://open.spotify.com/album/7MigeuNpatBwRQB5n0CWui"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 164282,
       "name": "Softest Touch",
       "url": "https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 265493,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
       "added_at": "2023-04-14 04:01:00",

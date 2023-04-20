@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 
 > Unforgettable songs from Iconic Arab women\. Cover: Umm Kulthum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,307 likes - 50 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,312 likes - 50 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 | 13 | [Fakarouny](https://open.spotify.com/track/4ejiWxKQCKiv184LTpA6ym) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 3](https://open.spotify.com/album/015VImtXnHnaJ06FjJcxfy) | 59:37 |
 | 14 | [Ana Baashaak](https://open.spotify.com/track/4meyL6OvN5WhJ9JNEsZSeN) | [Mayada El Hennawy](https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz) | [Ana Baashaak](https://open.spotify.com/album/3TBiRcV5BVsFTaqot77WpG) | 37:02 |
 | 15 | [Yana Yana](https://open.spotify.com/track/5hUQKHs3lnt0dU5UO5ozZV) | [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Sabah](https://open.spotify.com/album/5ewdGO8RViJxkGMVGx4KdP) | 5:05 |
-| 16 | [Ya habibi taala \(Mon amour, viens vite\)](https://open.spotify.com/track/0tOQdr6q6NZFHrywSQSVJP) | [Asmahan](https://open.spotify.com/artist/2vFXOKUQ2uhI9D8vKozoK6) | [Le cœur a ses raisons \(The Voices of Maghreb 1935\-1944\)](https://open.spotify.com/album/3M7Ns6HMsPgSh71r9S6NJj) | 5:33 |
-| 17 | [Ala Baly](https://open.spotify.com/track/4ITlOYD10CGbp5bf79OA0E) | [Aida el Ayoubi](https://open.spotify.com/artist/1SWcCkT5tDP5cNIfl3S7Yt) | [Ala Baly](https://open.spotify.com/album/3poHhpjVKN7zrzpF5TkE55) | 5:14 |
+| 16 | [Ala Baly](https://open.spotify.com/track/4ITlOYD10CGbp5bf79OA0E) | [Aida el Ayoubi](https://open.spotify.com/artist/1SWcCkT5tDP5cNIfl3S7Yt) | [Ala Baly](https://open.spotify.com/album/3poHhpjVKN7zrzpF5TkE55) | 5:14 |
+| 17 | [Ya habibi taala \(Mon amour, viens vite\)](https://open.spotify.com/track/0tOQdr6q6NZFHrywSQSVJP) | [Asmahan](https://open.spotify.com/artist/2vFXOKUQ2uhI9D8vKozoK6) | [Le cœur a ses raisons \(The Voices of Maghreb 1935\-1944\)](https://open.spotify.com/album/3M7Ns6HMsPgSh71r9S6NJj) | 5:33 |
 | 18 | [Le Beirut](https://open.spotify.com/track/3JO3CNuCxwuwlpEjjCnDZN) | [Fairuz](https://open.spotify.com/artist/0dwFxqYkvZLSA6U6XfQcDV) | [Maarifti Feek](https://open.spotify.com/album/3MgbAO1v05g0eanxlyz922) | 4:13 |
 | 19 | [Ya Ossas](https://open.spotify.com/track/4ZF5lJA94xkfZ5FbrHnQRv) | [Julia Boutros](https://open.spotify.com/artist/1MBqKgaBet9mU8vI0hqj6c) | [Ya Kossas](https://open.spotify.com/album/1xK30JYBaMc2S395jjxebS) | 4:25 |
 | 20 | [Akdeb Alek Live Record](https://open.spotify.com/track/5n47Gu3lJ2zcrQtsstaiJF) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Akdeb Alek Live Record](https://open.spotify.com/album/66I8kjtmZekcPC82EDzBNE) | 55:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 | 49 | [Hawa Ya Hawa](https://open.spotify.com/track/7JQkMHDQNxSmNXOFLkPQyV) | [Afaf Rady](https://open.spotify.com/artist/1mznZiCltI3qJI8JFLwKCy) | [Rodo El Salam](https://open.spotify.com/album/1GbYwlKnbclesWPam5sy64) | 7:00 |
 | 50 | [El Hob Ban Aliah](https://open.spotify.com/track/7lM7ZtFpxoPy0qUwyBQRdX) | [Rabab](https://open.spotify.com/artist/4KaSkNUbgoD4Ei3brZKP4z) | [El Hob Ban Aliah](https://open.spotify.com/album/3jHwxxyPfSmvoaxh1BnG9S) | 6:09 |
 
-Snapshot ID: `MTY3MTQwMzIxMSwwMDAwMDAwMDEyZGIxNzI5MDQxZDA3OTEzY2QxNDJjNTE4M2JiZmRm`
+Snapshot ID: `MTY3MTQwMzIxMSwwMDAwMDAwMGY0NDk4YzI3MzYwNzY4MTcyNTg5MTliNDg1ZDIyMDY4`

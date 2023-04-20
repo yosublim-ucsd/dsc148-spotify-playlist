@@ -4,12 +4,13 @@
 
 > Funk\-inspired beats by latinos.
 
-78 songs - 4 hr 57 min
+79 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Acércame a Tu Piel](https://open.spotify.com/track/5scR0u1qUQbGHXLYUYOnPM) | [Santiago Soul](https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9) | [Santiago Soul](https://open.spotify.com/album/5zqpTQJPeyShwHYWAUTpmE) | 4:08 | 2022-11-22 | 2023-02-01 |
 | [Amanece \(feat\. Gil Cerezo\)](https://open.spotify.com/track/5xnq09bL61Y11b2rutlyF9) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1), [Gil Cerezo](https://open.spotify.com/artist/0IriYFJ4bOlHotHiwweJdG) | [Amanece](https://open.spotify.com/album/17P39aFRw00nZ5bLqxmFKN) | 4:52 | 2023-01-27 | 2023-02-19 |
+| [Amor x Hoy \(Vuelvo a Caer\)](https://open.spotify.com/track/37dUvhndBywHGLNhu7xiEH) | [Azul de Viena](https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ), [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4) | [Amor x Hoy \(Vuelvo a Caer\)](https://open.spotify.com/album/7cmFebFSNe3iMhOb5ErZsB) | 3:25 | 2023-04-13 |  |
 | [Asturión](https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ) | [Cocofunka](https://open.spotify.com/artist/2fZnIGcmeZuhplsTcCBmvD) | [CAMALOVE](https://open.spotify.com/album/7jJijowxod92mie0y9XAj7) | 4:14 | 2022-11-22 |  |
 | [Atómico](https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw) | [Jungle Fire](https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby) | [Jungle Fire](https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7) | 3:49 | 2022-11-22 |  |
 | [Añejo](https://open.spotify.com/track/6EgQxoBO6WYniNglNbMEHr) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Trippy Caribbean](https://open.spotify.com/album/31sc4BgFQxSnnYtzjZMCmG) | 4:35 | 2022-11-22 |  |
@@ -21,7 +22,7 @@
 | [Comida](https://open.spotify.com/track/5uJC0Bx0EO5Mrk9n2NDKJa) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [Comida](https://open.spotify.com/album/5rLbX2cgrwy8c7ZpDnTBIJ) | 3:39 | 2023-04-13 |  |
 | [Cortes Modernos](https://open.spotify.com/track/1haYL3OvJA7OCHnzMx5JlX) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Cortes Modernos](https://open.spotify.com/album/0gyrTCJOamPi13piB2i0KJ) | 3:43 | 2023-03-24 |  |
 | [Cuando Regreses a Mí](https://open.spotify.com/track/1OCzLsi1LaulQs5hSiwzjZ) | [Molinette Cinema](https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7), [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Cuando Regreses a Mí](https://open.spotify.com/album/1pXcDXRqCokOFcBWXesloE) | 3:12 | 2022-11-22 |  |
-| [Da Funk](https://open.spotify.com/track/3y5hMwMAne5VD8635DBpj0) | [Caliope Family](https://open.spotify.com/artist/3yF4Lj2Sl3QkKQNQwtYya6) | [Da Funk](https://open.spotify.com/album/1RkDdrEwwERzb4bvTAYalH) | 2:36 | 2023-01-06 | 2023-03-11 |
+| [Da Funk](https://open.spotify.com/track/3y5hMwMAne5VD8635DBpj0) | [Caliope Family](https://open.spotify.com/artist/3yF4Lj2Sl3QkKQNQwtYya6) | [Da Funk](https://open.spotify.com/album/1RkDdrEwwERzb4bvTAYalH) | 2:36 | 2023-01-06 |  |
 | [Dejarte Ir](https://open.spotify.com/track/2gU83Bo7wPreMf48YWXEiu) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Dejarte Ir](https://open.spotify.com/album/2nsGHpWphvhNQudVYAc1Qc) | 3:12 | 2022-11-22 | 2023-03-10 |
 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 | 2023-02-02 |  |
 | [Despacio](https://open.spotify.com/track/2LWqH7TB7GY9Bvme8FF7Ac) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Chango](https://open.spotify.com/album/7AzXtthlLZjuqonhrl0Wwa) | 3:05 | 2022-11-22 |  |
@@ -67,11 +68,11 @@
 | [Qué Rico](https://open.spotify.com/track/75NBuHx7ad04FAXKsoEbrg) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN) | [Arepa 3000](https://open.spotify.com/album/4VRNs3TfQWZjRXiv378FNN) | 3:59 | 2022-11-22 |  |
 | [Ritmo Natural](https://open.spotify.com/track/13h03rdDvweAVeunMnw8si) | [Plastical People](https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6) | [Ritmo Natural](https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu) | 3:22 | 2023-04-13 |  |
 | [Rompecabezas](https://open.spotify.com/track/5KPVawlzPpOuQ3qqvny35p) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/2czVuP4m56SE64ctzcXclC) | 5:32 | 2023-02-02 | 2023-04-15 |
-| [Rotos](https://open.spotify.com/track/5lnj71eABvEXkCcslEgZ90) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Buitres & Co.](https://open.spotify.com/album/0vWBiSLqLV03kUnvrGhi1q) | 3:45 | 2022-11-22 |  |
+| [Rotos](https://open.spotify.com/track/5lnj71eABvEXkCcslEgZ90) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Buitres & Co.](https://open.spotify.com/album/0vWBiSLqLV03kUnvrGhi1q) | 3:45 | 2022-11-22 | 2023-04-20 |
 | [Santiago](https://open.spotify.com/track/58r843NDpyDVVvd6In95g3) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Santiago](https://open.spotify.com/album/5CqEEjDulphHq8zgJcko21) | 2:22 | 2022-12-02 |  |
 | [Si Fui Yo](https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Fui Yo](https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs) | 2:26 | 2023-03-31 |  |
 | [Sonido Animal](https://open.spotify.com/track/09WZ24iCLjkLHn2LMs64KN) | [ACHKIRIK](https://open.spotify.com/artist/1d2rmEbX9CJjWWSyUUKoVB), [Pablo Saldarriaga](https://open.spotify.com/artist/2OVPfWsOv51fPYcKm80BDc) | [Sonido Animal](https://open.spotify.com/album/4jAdtIAmjQNgzSPmJhiCO8) | 4:15 | 2022-11-22 | 2023-01-09 |
-| [Suéltame, Bogotá](https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer](https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe) | 3:48 | 2022-11-22 |  |
+| [Suéltame, Bogotá](https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer](https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe) | 3:48 | 2022-11-22 | 2023-04-20 |
 | [Te Miro Para Ver Si Me Ves Mirarte](https://open.spotify.com/track/6QyduPrJh0VrXpQAZ1lxOt) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [SOS](https://open.spotify.com/album/6cJrlF56yG7nnFzfdrnQ6P) | 4:35 | 2022-11-22 |  |
 | [Te Vas](https://open.spotify.com/track/3gyGxfzR3OK2PcjfGELyvI) | [AMC Funk](https://open.spotify.com/artist/6ZYGRZZ5H6yq9EsCRiBrUj) | [Te Vas \- Single](https://open.spotify.com/album/0su2ILpysKqx37lnLHgCDM) | 4:06 | 2022-11-22 | 2022-12-03 |
 | [Templos](https://open.spotify.com/track/08nCggIJ1q30XYxkktE2uT) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Templos](https://open.spotify.com/album/2l1mbUPYql0jTcByqFrqnu) | 4:43 | 2022-11-22 | 2023-02-02 |

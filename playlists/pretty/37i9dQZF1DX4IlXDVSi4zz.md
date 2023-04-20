@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 
 > Dance the night away and just blame it on Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,236 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,639 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 28 | [Heartbeat](https://open.spotify.com/track/68Q6c22JNyLUlZYX4dE2tn) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Charmer](https://open.spotify.com/album/0OOjsSNzKmfzo1j6Z82PNG) | 5:29 |
 | 29 | [Baianá](https://open.spotify.com/track/3q9oTSo64CrjOiPwI4DbWE) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/6gVyolnWeV2RyvzxxFIvro) | 3:00 |
 | 30 | [Cocaine Model](https://open.spotify.com/track/5Z3trOR982mBrJcPfrLUsq) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [THE NIGHTDAY](https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc) | 4:15 |
-| 31 | [El Sueno](https://open.spotify.com/track/4DndSKZKWXbbBxi5lO4QUP) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [El Sueno](https://open.spotify.com/album/67oNtjg4DE8CMeOtqcEwV7) | 2:51 |
-| 32 | [Who Loves The Sun feat\. Jo.Ke \- Edit](https://open.spotify.com/track/5ObMLQkrprMky3fuOCnFmW) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7) | [We Love The Sun \(Edit\)](https://open.spotify.com/album/06gDDBE93L3Wrbm4ALVVCt) | 4:16 |
+| 31 | [Who Loves The Sun feat\. Jo.Ke \- Edit](https://open.spotify.com/track/5ObMLQkrprMky3fuOCnFmW) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7) | [We Love The Sun \(Edit\)](https://open.spotify.com/album/06gDDBE93L3Wrbm4ALVVCt) | 4:16 |
+| 32 | [El Sueno](https://open.spotify.com/track/4DndSKZKWXbbBxi5lO4QUP) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [El Sueno](https://open.spotify.com/album/67oNtjg4DE8CMeOtqcEwV7) | 2:51 |
 | 33 | [Don't Forget My Love](https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Don't Forget My Love](https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv) | 3:19 |
 | 34 | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [It Don’t Matter \- Spotify Singles](https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc) | 2:53 |
 | 35 | [Nieve](https://open.spotify.com/track/66uR26h9WTxwKhJCWnz5J9) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Nieve](https://open.spotify.com/album/4axBgdQOZogTmpgKNQQr1C) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 49 | [In The Dark](https://open.spotify.com/track/0k5RQGviUoEt78mfqI3wDV) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Exotica \(Deluxe\)](https://open.spotify.com/album/24SuLVhTS9iDvnH3fh0gms) | 3:05 |
 | 50 | [Muyè](https://open.spotify.com/track/5WgW9bG91h4zRUnBr97d6c) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [You Are Safe](https://open.spotify.com/album/7lg5i5BW3Fhmay7kEpyORQ) | 7:49 |
 
-Snapshot ID: `MTY3OTYwNzM0MCwwMDAwMDAwMGM4MWI0YzdlNDMxM2FmYTI2NmI0YzU2YTEwYjE2ZDM0`
+Snapshot ID: `MTY3OTYwNzM0MCwwMDAwMDAwMGYzY2ZkZDVlOWUwYTJjMGY4NTY0ZmI0OTk4ODY2OWJi`

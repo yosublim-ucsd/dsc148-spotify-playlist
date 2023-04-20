@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 151413,
+  "num_followers": 151564,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgxMTMxMCwwMDAwMDAwMDUwNzk4YTNkYjFmZDkxNmE1NGU0MGMxYTJmZTRkYmE4",
+  "snapshot_id": "MTY4MDgxMTMxMCwwMDAwMDAwMGJmZjMzZDcyZjhiMWU2YjhlYTgwYTQ3N2Y0NDY2NzAy",
   "tracks": [
     {
       "added_at": "2023-02-08 23:13:43",
@@ -359,18 +359,22 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Viaje Por Lo Eterno",
-        "url": "https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c"
+        "name": "Assume Form",
+        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
       },
       "artists": [
         {
-          "name": "Reyno",
-          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Nunca Me Dejes",
-      "url": "https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB"
+      "duration_ms": 211200,
+      "name": "Barefoot In The Park (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -427,22 +431,18 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Assume Form",
-        "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
+        "name": "Viaje Por Lo Eterno",
+        "url": "https://open.spotify.com/album/7e0cQ2zBmwrqjsObmwkh5c"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Reyno",
+          "url": "https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Barefoot In The Park (feat. ROSAL\u00cdA)",
-      "url": "https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF"
+      "duration_ms": 205000,
+      "name": "Nunca Me Dejes",
+      "url": "https://open.spotify.com/track/3G9SwzJFPgFY7aDrD6KIPB"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Mira Lo Que Me Hiciste Hacer",
-        "url": "https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe"
-      },
-      "artists": [
-        {
-          "name": "Diamante El\u00e9ctrico",
-          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
-        }
-      ],
-      "duration_ms": 228543,
-      "name": "Su\u00e9ltame, Bogot\u00e1",
-      "url": "https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "Tornaluna",
         "url": "https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8"
       },
@@ -1023,22 +1007,6 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
-        "name": "Pop Negro",
-        "url": "https://open.spotify.com/album/5GDOwdJ0okcBaqmyPlNSsC"
-      },
-      "artists": [
-        {
-          "name": "El Guincho",
-          "url": "https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI"
-        }
-      ],
-      "duration_ms": 219280,
-      "name": "Bombay",
-      "url": "https://open.spotify.com/track/60aWOhenofxdFViDXn3lfp"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
         "name": "Gran Santiago",
         "url": "https://open.spotify.com/album/5s2GRs98fAVUwyu2vru7dF"
       },
@@ -1071,6 +1039,22 @@
       "duration_ms": 212957,
       "name": "En Cantos",
       "url": "https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "Pop Negro",
+        "url": "https://open.spotify.com/album/5GDOwdJ0okcBaqmyPlNSsC"
+      },
+      "artists": [
+        {
+          "name": "El Guincho",
+          "url": "https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI"
+        }
+      ],
+      "duration_ms": 219280,
+      "name": "Bombay",
+      "url": "https://open.spotify.com/track/60aWOhenofxdFViDXn3lfp"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2023-02-08 23:13:43",
       "album": {
+        "name": "Garden of Lucid",
+        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 190462,
+      "name": "Cuando",
+      "url": "https://open.spotify.com/track/7aVoNDapJRl60fW84l2vxH"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
         "name": "Ag\u00fcita",
         "url": "https://open.spotify.com/album/51kUBshxb3ZJGICNNwJUcH"
       },
@@ -1559,22 +1559,6 @@
       "duration_ms": 252889,
       "name": "Toca Madera",
       "url": "https://open.spotify.com/track/3uuFWFeuJR3srECmr6BdfK"
-    },
-    {
-      "added_at": "2023-02-08 23:13:43",
-      "album": {
-        "name": "Garden of Lucid",
-        "url": "https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 190462,
-      "name": "Cuando",
-      "url": "https://open.spotify.com/track/7aVoNDapJRl60fW84l2vxH"
     },
     {
       "added_at": "2023-02-08 23:13:43",
@@ -1659,6 +1643,22 @@
       "duration_ms": 255597,
       "name": "Dung Ding Dang",
       "url": "https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3"
+    },
+    {
+      "added_at": "2023-02-08 23:13:43",
+      "album": {
+        "name": "Oom Velt",
+        "url": "https://open.spotify.com/album/0SfbuytTzmQDEsN3mj2sM1"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 201223,
+      "name": "Holy Soul",
+      "url": "https://open.spotify.com/track/3iRIduYS85sZeCE66yPODE"
     }
   ],
   "unique_name": "Latin Indie Classics",

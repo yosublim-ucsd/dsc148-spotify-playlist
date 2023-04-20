@@ -4,7 +4,7 @@
 
 > Restaurant style background music for chill dinner ambiance.
 
-312 songs - 13 hr 28 min
+314 songs - 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Emeralds](https://open.spotify.com/track/4cWtWIuQgQF5Tvn7PfqHzA) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Emeralds](https://open.spotify.com/album/6PHgykEEHPYKP67jLJaFWg) | 2:45 | 2022-04-27 |  |
 | [En Lille Drøm](https://open.spotify.com/track/4kKFkTHhUgNz1pAUCmtF7l) | [Auguste Blanc](https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe) | [En Lille Drøm](https://open.spotify.com/album/1qC1Mg1LyYKQVs7cpcniHb) | 2:18 | 2022-10-24 |  |
 | [Espuma de lava](https://open.spotify.com/track/5dKz9zOYjVQ0tVfrUfBIfO) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [Espuma de lava](https://open.spotify.com/album/1wimT4It49FQbJkxDzFiHN) | 2:27 | 2023-01-26 |  |
-| [Espérance](https://open.spotify.com/track/6t5EDQ1oQ65TBPNIm05f7a) | [Jeremy Hababou](https://open.spotify.com/artist/3S7Lr7NOUxWimVwXrW8xT4) | [Espérance](https://open.spotify.com/album/1joc3R1staAkFn5mMqwc3K) | 2:31 | 2022-12-05 |  |
+| [Espérance](https://open.spotify.com/track/6t5EDQ1oQ65TBPNIm05f7a) | [Jeremy Hababou](https://open.spotify.com/artist/3S7Lr7NOUxWimVwXrW8xT4) | [Espérance](https://open.spotify.com/album/1joc3R1staAkFn5mMqwc3K) | 2:31 | 2022-12-05 | 2023-04-20 |
 | [Evangeline](https://open.spotify.com/track/3rfsel8gqoDpNVx7DgTyOf) | [Domitila James](https://open.spotify.com/artist/6crMzt5zC2uq4hxCLhWNd1) | [Evangeline](https://open.spotify.com/album/2GxIEfBPiuGksXQwRQO1Lm) | 2:01 | 2022-04-27 |  |
 | [Evenfall](https://open.spotify.com/track/5EwC7LIoLBhLJjlAgz2pXR) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [Evenfall](https://open.spotify.com/album/5nSQeRUNCJrPoy412qtL6i) | 2:26 | 2022-04-27 |  |
 | [Eyes wide open](https://open.spotify.com/track/1DeqedzpBEzb1A9PbrZ601) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [Eyes wide open](https://open.spotify.com/album/3IMsQyfEDLaZfzcaJgq7bQ) | 2:02 | 2022-12-05 |  |
@@ -233,6 +233,7 @@
 | [Rouen Les Essarts](https://open.spotify.com/track/6OX9snpHRUGnlkSJVGXlR7) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Rouen Les Essarts](https://open.spotify.com/album/3RasxYrFEVVaksJttCTXMf) | 3:31 | 2022-04-27 | 2023-04-06 |
 | [Route To Peace](https://open.spotify.com/track/7BXUSLKKirrMhg1gH80cnT) | [Enrico Giaretta](https://open.spotify.com/artist/4sUR1rcNQemMzHyAtW1lyS) | [Route To Peace](https://open.spotify.com/album/1FyOg03sU6C3dmZdPXsfwn) | 4:27 | 2022-05-20 |  |
 | [Rue Au Pain](https://open.spotify.com/track/43pVgyjB9yACAHeoJzsVpg) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Rue Au Pain](https://open.spotify.com/album/2aASt56NiEervWgl35oO23) | 3:11 | 2022-04-27 | 2022-06-07 |
+| [Rébus](https://open.spotify.com/track/1RaP4GkSYdKzKyRJdXxBJ6) | [Christophe Pouget](https://open.spotify.com/artist/6NMPthFB3FbixffuRKpIGU) | [Rébus](https://open.spotify.com/album/4pJZ7dbo8FXYh3NwS7wOvl) | 2:29 | 2023-04-19 |  |
 | [Safe Haven](https://open.spotify.com/track/0cESP2TXfbZTHQAqX1vI3g) | [Kjøpmann](https://open.spotify.com/artist/00kdoUy8DSeeIy1GEmb9S2) | [Monologues](https://open.spotify.com/album/7hjDYNJBebXPyQO7VwCTEQ) | 2:17 | 2022-11-24 |  |
 | [Sagittabondo](https://open.spotify.com/track/6L73Pb4dv5p9OOlY1ja32c) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Sagittabondo](https://open.spotify.com/album/5xA0kiXHUSL1wFWY52fu5O) | 2:13 | 2022-04-27 |  |
 | [Salamander](https://open.spotify.com/track/1BshZyebub5iJgEBY26zKl) | [Ennis Elder](https://open.spotify.com/artist/1qhYG8GCWDkVJ0M4botQcd) | [Salamander](https://open.spotify.com/album/2GfvzDnOw4QdnlgRcQzaLn) | 3:05 | 2022-08-09 |  |
@@ -286,6 +287,7 @@
 | [Une nuit au Caire](https://open.spotify.com/track/0DtUZnKTG13V5TPTVKRCha) | [Léa Corbelin](https://open.spotify.com/artist/3KgeRFcUTiziAZMG1uedIE) | [Une nuit au Caire](https://open.spotify.com/album/0v4peduIpKPfgILKaD24M2) | 2:28 | 2022-08-03 |  |
 | [Unsere Reise](https://open.spotify.com/track/4jRsuq7knnW7zrooiI7UaC) | [Sabine Reiniger](https://open.spotify.com/artist/3Y3Uh170gXrWMDqx5w47RI) | [Unsere Reise](https://open.spotify.com/album/0zaxkAJPvoLq8OhHquRvxg) | 3:00 | 2022-04-27 | 2022-12-06 |
 | [Vals a 2](https://open.spotify.com/track/3izkAvP68zr2SYvgWSzLN9) | [Laura Andrés](https://open.spotify.com/artist/5BQCjjcSasCCtCCJVC0ABa) | [Vals a 2](https://open.spotify.com/album/2tCK0N8lEIDdRgAdEDqDzn) | 4:39 | 2022-04-27 |  |
+| [Valzer Elegiaco](https://open.spotify.com/track/58x6lHX5gqgTP0JtLrKgki) | [Gioia Pisano](https://open.spotify.com/artist/5WMvjE5qJNLR5FMPdQfic8) | [Valzer Elegiaco](https://open.spotify.com/album/2UmSWNjxiiBv8XDp3g8fT0) | 3:02 | 2023-04-19 |  |
 | [Variante Alta](https://open.spotify.com/track/3sq3gjQNigyTGlkwkFrZ3S) | [Flavio Apicella](https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v) | [Variante Alta](https://open.spotify.com/album/5qUvWqRfwxFdyKN5B0iS0K) | 3:52 | 2022-04-27 | 2022-06-07 |
 | [Veleta](https://open.spotify.com/track/6S7OE2VPyGAEMVotv5jEz1) | [Torsten Hugo](https://open.spotify.com/artist/0tbvvo4GnJ1klnn3H4Mk9g) | [Veleta](https://open.spotify.com/album/5D0Nm6ZKoiVphuMUyuzyiA) | 3:51 | 2022-04-27 |  |
 | [Verses](https://open.spotify.com/track/6t1T3fMWfv5svT4ZTsBnBY) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Verses](https://open.spotify.com/album/0oEfniLgEookbXSSQSpIqE) | 3:15 | 2022-04-27 |  |

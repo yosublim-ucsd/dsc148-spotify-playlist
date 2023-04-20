@@ -1,12 +1,12 @@
 {
   "description": "Black, death and beyond. Recent tracks and classics from the world of extreme metal. Cover: Darkthrone",
-  "num_followers": 428280,
+  "num_followers": 428463,
   "original_name": "Extreme Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMGE3NmIwMzY5ZGNlOTQ0NzcwMTExOTY3ZGM1MDljMjFl",
+  "snapshot_id": "MTY4MDg0MDA2MCwwMDAwMDAwMGIzYjBhNGJmZmQ5MTViMmY4MTg4MDhiOTNiYjViNjA5",
   "tracks": [
     {
       "added_at": "2023-04-07 04:01:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Drifting in a Dream",
-        "url": "https://open.spotify.com/album/0hdLPkixmOIX2a4Rblj3nu"
-      },
-      "artists": [
-        {
-          "name": "Kalmah",
-          "url": "https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF"
-        }
-      ],
-      "duration_ms": 325000,
-      "name": "Drifting in a Dream",
-      "url": "https://open.spotify.com/track/2AJ7yy7ulIXoDgLNMzjfbv"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "93696",
         "url": "https://open.spotify.com/album/28gL6vjKVFaO7UG0ImRzkY"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 500411,
       "name": "Djennaration",
       "url": "https://open.spotify.com/track/2yF0Gpl0t5aUvnlL2cm9Hg"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Drifting in a Dream",
+        "url": "https://open.spotify.com/album/0hdLPkixmOIX2a4Rblj3nu"
+      },
+      "artists": [
+        {
+          "name": "Kalmah",
+          "url": "https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF"
+        }
+      ],
+      "duration_ms": 325000,
+      "name": "Drifting in a Dream",
+      "url": "https://open.spotify.com/track/2AJ7yy7ulIXoDgLNMzjfbv"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Haunted by Guilt",
-        "url": "https://open.spotify.com/album/7KTsCcLQtB09OhpulYMTmB"
+        "name": "Moonflowers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5RuHZCFV4cYtFIrj4NIXek"
       },
       "artists": [
         {
-          "name": "Kalmah",
-          "url": "https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF"
+          "name": "Swallow The Sun",
+          "url": "https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ"
         }
       ],
-      "duration_ms": 225635,
-      "name": "Haunted by Guilt",
-      "url": "https://open.spotify.com/track/6vt2sAnAVzN0fPAa9hvFYU"
+      "duration_ms": 379493,
+      "name": "Moonflowers Bloom in Misery",
+      "url": "https://open.spotify.com/track/1aE3j2yUjvfeUexBdMDKHA"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Moonflowers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5RuHZCFV4cYtFIrj4NIXek"
+        "name": "Haunted by Guilt",
+        "url": "https://open.spotify.com/album/7KTsCcLQtB09OhpulYMTmB"
       },
       "artists": [
         {
-          "name": "Swallow The Sun",
-          "url": "https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ"
+          "name": "Kalmah",
+          "url": "https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF"
         }
       ],
-      "duration_ms": 379493,
-      "name": "Moonflowers Bloom in Misery",
-      "url": "https://open.spotify.com/track/1aE3j2yUjvfeUexBdMDKHA"
+      "duration_ms": 225635,
+      "name": "Haunted by Guilt",
+      "url": "https://open.spotify.com/track/6vt2sAnAVzN0fPAa9hvFYU"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Heimdal",
-        "url": "https://open.spotify.com/album/1gf4tdMN4aMMYEkXeUJTKG"
-      },
-      "artists": [
-        {
-          "name": "Enslaved",
-          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
-        }
-      ],
-      "duration_ms": 445106,
-      "name": "The Eternal Sea",
-      "url": "https://open.spotify.com/track/7G06HILoIIRiDDRXFo77f0"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Bergtatt",
         "url": "https://open.spotify.com/album/5OEz7YwAQyYvaSl1pmkPCI"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 509640,
       "name": "Withstand The Fall Of Time",
       "url": "https://open.spotify.com/track/5nCnSnLtotQ8eB4E189U91"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Heimdal",
+        "url": "https://open.spotify.com/album/1gf4tdMN4aMMYEkXeUJTKG"
+      },
+      "artists": [
+        {
+          "name": "Enslaved",
+          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
+        }
+      ],
+      "duration_ms": 445106,
+      "name": "The Eternal Sea",
+      "url": "https://open.spotify.com/track/7G06HILoIIRiDDRXFo77f0"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "The Agony & Ecstasy of Watain",
-        "url": "https://open.spotify.com/album/7qmZz6yfRiXAoW4lgOPi4W"
-      },
-      "artists": [
-        {
-          "name": "Watain",
-          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
-        }
-      ],
-      "duration_ms": 240880,
-      "name": "Ecstasies in night infinite",
-      "url": "https://open.spotify.com/track/57LQHgaWbaB02gDFth9in4"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Below The Lights",
         "url": "https://open.spotify.com/album/3uei5LFX4boIwVER1zdLD8"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 335333,
       "name": "Havenless",
       "url": "https://open.spotify.com/track/5XsxbIQeESqlp2BwHyZ8x7"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "The Agony & Ecstasy of Watain",
+        "url": "https://open.spotify.com/album/7qmZz6yfRiXAoW4lgOPi4W"
+      },
+      "artists": [
+        {
+          "name": "Watain",
+          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
+        }
+      ],
+      "duration_ms": 240880,
+      "name": "Ecstasies in night infinite",
+      "url": "https://open.spotify.com/track/57LQHgaWbaB02gDFth9in4"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1383,50 +1383,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Mysterium Tremendum",
-        "url": "https://open.spotify.com/album/2VZzXVWzgS2wFhkJWgPzS4"
+        "name": "Thrice Woven",
+        "url": "https://open.spotify.com/album/1Uw3L9tXHZFuTS1lepKNVk"
       },
       "artists": [
         {
-          "name": "Hideous Divinity",
-          "url": "https://open.spotify.com/artist/4XOpU6j3NQ37JfIaWA4ySH"
+          "name": "Wolves In The Throne Room",
+          "url": "https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet"
         }
       ],
-      "duration_ms": 278833,
-      "name": "Mysterium Tremendum",
-      "url": "https://open.spotify.com/track/6xBa9tqwNgEzq3ToJQ8SJX"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Annihilation Phenomena",
-        "url": "https://open.spotify.com/album/1t9RT00yngfvrWGzigp2IO"
-      },
-      "artists": [
-        {
-          "name": "The Last Ten Seconds of Life",
-          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
-        }
-      ],
-      "duration_ms": 231318,
-      "name": "Annihilation Phenomena",
-      "url": "https://open.spotify.com/track/7bDH0CcnVcHo7qZ7d8Rux5"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Reinkaos",
-        "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
-      },
-      "artists": [
-        {
-          "name": "Dissection",
-          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
-        }
-      ],
-      "duration_ms": 288173,
-      "name": "Black Dragon",
-      "url": "https://open.spotify.com/track/2ECiOFk2i28TFEZUDQXefc"
+      "duration_ms": 576555,
+      "name": "Born from the Serpent's Eye",
+      "url": "https://open.spotify.com/track/7p0amXrQgyM53s3z9NfDty"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1447,6 +1415,38 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
+        "name": "Reinkaos",
+        "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
+      },
+      "artists": [
+        {
+          "name": "Dissection",
+          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
+        }
+      ],
+      "duration_ms": 288173,
+      "name": "Black Dragon",
+      "url": "https://open.spotify.com/track/2ECiOFk2i28TFEZUDQXefc"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Annihilation Phenomena",
+        "url": "https://open.spotify.com/album/1t9RT00yngfvrWGzigp2IO"
+      },
+      "artists": [
+        {
+          "name": "The Last Ten Seconds of Life",
+          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
+        }
+      ],
+      "duration_ms": 231318,
+      "name": "Annihilation Phenomena",
+      "url": "https://open.spotify.com/track/7bDH0CcnVcHo7qZ7d8Rux5"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
         "name": "Triade III : Nyx",
         "url": "https://open.spotify.com/album/4XuMfuiIXtS6yPc9nE6Zp0"
       },
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Thrice Woven",
-        "url": "https://open.spotify.com/album/1Uw3L9tXHZFuTS1lepKNVk"
+        "name": "Mysterium Tremendum",
+        "url": "https://open.spotify.com/album/2VZzXVWzgS2wFhkJWgPzS4"
       },
       "artists": [
         {
-          "name": "Wolves In The Throne Room",
-          "url": "https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet"
+          "name": "Hideous Divinity",
+          "url": "https://open.spotify.com/artist/4XOpU6j3NQ37JfIaWA4ySH"
         }
       ],
-      "duration_ms": 576555,
-      "name": "Born from the Serpent's Eye",
-      "url": "https://open.spotify.com/track/7p0amXrQgyM53s3z9NfDty"
+      "duration_ms": 278833,
+      "name": "Mysterium Tremendum",
+      "url": "https://open.spotify.com/track/6xBa9tqwNgEzq3ToJQ8SJX"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Zos Kia Cultus",
-        "url": "https://open.spotify.com/album/5eOUM8SuILYbLzNrclBrJN"
-      },
-      "artists": [
-        {
-          "name": "Behemoth",
-          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
-        }
-      ],
-      "duration_ms": 299226,
-      "name": "As Above So Below",
-      "url": "https://open.spotify.com/track/6RxzW1gYB5qCWGl2fV6bdb"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Outstrider",
         "url": "https://open.spotify.com/album/2hisOnLbwHGc0D6v14w1pQ"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 252066,
       "name": "Harvest Pyre",
       "url": "https://open.spotify.com/track/4oLr6JYoDzWT1KsQRKIIFl"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Zos Kia Cultus",
+        "url": "https://open.spotify.com/album/5eOUM8SuILYbLzNrclBrJN"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "duration_ms": 299226,
+      "name": "As Above So Below",
+      "url": "https://open.spotify.com/track/6RxzW1gYB5qCWGl2fV6bdb"
     },
     {
       "added_at": "2023-04-07 04:01:00",

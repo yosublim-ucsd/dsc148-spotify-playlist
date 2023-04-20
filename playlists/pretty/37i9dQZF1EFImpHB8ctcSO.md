@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 108 | [\(Believed You Were\) Lucky](https://open.spotify.com/track/3Lm7hSTabr01oav0WdSsuD) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Everything's Different Now](https://open.spotify.com/album/67OxSfZotEq8cCa5SCeX5r) | 3:36 |
 | 109 | [Beautiful](https://open.spotify.com/track/5oYOwmoEN8urUrRK6TGlGI) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [The Forgotten Arm](https://open.spotify.com/album/6kVuVl5qFCnZf6RquYQtks) | 3:48 |
 | 110 | [David Denies](https://open.spotify.com/track/0lrEeTgkmLZUuAGZTkYiqP) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Welcome Home](https://open.spotify.com/album/3HiUlOjCrUd9ATG6uHyPI7) | 4:49 |
-| 111 | [Are You Serious?](https://open.spotify.com/track/0eEm9MOTDPedLnCq42y3jR) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 3:15 |
-| 112 | [Home by Now](https://open.spotify.com/track/4x2NOPsxy7PZn080V9eBip) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 1:35 |
+| 111 | [Home by Now](https://open.spotify.com/track/4x2NOPsxy7PZn080V9eBip) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 1:35 |
+| 112 | [Are You Serious?](https://open.spotify.com/track/0eEm9MOTDPedLnCq42y3jR) | ['Til Tuesday](https://open.spotify.com/artist/1L0y9srZMyh9XUnYGv37IP) | [Voices Carry \(Expanded Edition\)](https://open.spotify.com/album/1y4s0JN8CQMRwPTJ64jCUp) | 3:15 |
 | 113 | [Could've Been Anyone](https://open.spotify.com/track/6Fx1WScVq5wcDFkq514k1t) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Whatever](https://open.spotify.com/album/6c1xyQiasQXWYtKy70Vm8q) | 4:23 |
 | 114 | [At the Frick Museum](https://open.spotify.com/track/7ig4rqo1tXp9nkdE8R3RlN) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Queens of the Summer Hotel](https://open.spotify.com/album/7b9VCvOsMz0N4oFD9YUgHo) | 3:03 |
 | 115 | [Sugarcoated](https://open.spotify.com/track/1egjoO2XeAd9opUjmroymx) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [I'm With Stupid](https://open.spotify.com/album/0N3PbNuwko4aAMnJ19W3iM) | 3:40 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFImpHB8ctcSO.md) - [plain]
 | 169 | [Not Where I'm At](https://open.spotify.com/track/5ZhKJSPbtJkzrUABCrEynI) | [Kimon Kirk](https://open.spotify.com/artist/3uLu0SowS5e7Kxnxxywm78) | [Songs for Society](https://open.spotify.com/album/7wrwwoZXGmJMcMZsZeXHTJ) | 4:54 |
 | 170 | [Get Down To It](https://open.spotify.com/track/4m5Xqf5HfehoYM3IEzAEJB) | [Sierra Swan](https://open.spotify.com/artist/6zIxx9IiDjDczUVAkjVGMr) | [Ladyland](https://open.spotify.com/album/0SFkAyG2qQbv9ksSZGQWvE) | 4:23 |
 
-Snapshot ID: `MjgwMzEwNDQsMDAwMDAwMDBlMjU5YWM3N2RmODU4N2FiZTY4MmM4ZDg5YzEyNjc3ZQ==`
+Snapshot ID: `MjgwMzI0ODQsMDAwMDAwMDBjODQ5YmZlNTFiOTlhZDc4YjUyODEzZGQwMGQ1MjdkYg==`

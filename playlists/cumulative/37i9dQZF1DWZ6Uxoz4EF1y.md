@@ -4,7 +4,7 @@
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-101 songs - 9 hr 22 min
+102 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Cristo Yo Creo en Ti](https://open.spotify.com/track/5Z2l6WlbgKLAdZBMDQTwNc) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [ORO](https://open.spotify.com/album/7m7fDq7zg6DuHnGXSwJwSx) | 5:20 | 2023-04-09 |  |
 | [Digno](https://open.spotify.com/track/0UqzSQKlgsGXxhsZK00SfL) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Amanece \(Deluxe Edition\)](https://open.spotify.com/album/5iI8Rm9RDdCBRAKD8Lyk8J) | 7:24 | 2020-09-18 |  |
 | [Digno Y Santo](https://open.spotify.com/track/1vsA02g4fNXwTAy9BooYbX) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN) | 8:48 | 2023-04-09 |  |
+| [El Dios Que Cambia Nombre](https://open.spotify.com/track/6jxF4JXJ2hK8GEkRHqcj8b) | [Héctor Delgado](https://open.spotify.com/artist/1cH1z49SP3Ul0DxaRLWYVy), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [El Dios Que Cambia Nombre](https://open.spotify.com/album/5NUIrHDIDuMr6Xsob6L5UO) | 3:39 | 2023-04-09 |  |
 | [El Gran Nombre del Señor](https://open.spotify.com/track/0KkApnj1iYzDEzloLovVOX) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta Poder Ver](https://open.spotify.com/album/38LDYEEGCyqAGzdrw8oqBz) | 4:29 | 2023-04-09 |  |
 | [El Justo Vivirá Por Fe](https://open.spotify.com/track/3sLzXACmqioXU47UjfL5c2) | [Adoración La IBI](https://open.spotify.com/artist/6qValgleME8pv861DLzupQ) | [El Justo Vivirá Por Fe](https://open.spotify.com/album/434bFVfYutpT3PknlXQudX) | 5:09 | 2023-04-09 |  |
 | [El No Pereció](https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi) | [Julissa](https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu) | [En Las Alas Del Amor](https://open.spotify.com/album/3zHypYyLfjX3Ikil2H9bOI) | 4:20 | 2023-04-09 |  |
@@ -46,7 +47,7 @@
 | [Gracia Sublime Es feat\. Omar Rodríguez Music](https://open.spotify.com/track/5fx0pSrRtDq2u7qlaly8fC) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb), [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Piedras Vivas](https://open.spotify.com/album/2Z3y8daO4p0u99UfYxeGzG) | 5:15 | 2020-09-18 |  |
 | [Gracias](https://open.spotify.com/track/3DegJt9Nl9iqk9Z8hwt1Eq) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Gracias](https://open.spotify.com/album/6fo1XymhMMxx90DkdF5uYd) | 6:33 | 2023-04-09 |  |
 | [Gracias](https://open.spotify.com/track/6UdpT2mTtU24VKgTPQATRM) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [25 Concierto Conmemorativo](https://open.spotify.com/album/5O2UfFue2c9yfcbMPHHVSe) | 5:05 | 2020-09-18 |  |
-| [Has Sido Tú](https://open.spotify.com/track/2wP9egvhmu7gRDekP36iEn) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [Has Sido Tú](https://open.spotify.com/album/3IXyx01jJZz7iB49yI0bq2) | 3:42 | 2023-04-09 |  |
+| [Has Sido Tú](https://open.spotify.com/track/2wP9egvhmu7gRDekP36iEn) | [Jose "Papo" Rivera](https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY) | [Has Sido Tú](https://open.spotify.com/album/3IXyx01jJZz7iB49yI0bq2) | 3:42 | 2023-04-09 | 2023-04-20 |
 | [Hasta Que Ya No Respire Más](https://open.spotify.com/track/1tDXPLJQKcLYfhnTpseB2U) | [Rojo](https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6) | [Rojo 24.7](https://open.spotify.com/album/0QZLXtvwIdSulLNEAXWuYR) | 7:54 | 2023-04-09 |  |
 | [Hay Libertad](https://open.spotify.com/track/4nxxZtSpkS3tEmuYxNMPmr) | [Art Aguilera](https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn) | [El Cielo Está Aquí](https://open.spotify.com/album/3lsNrx40kpa8vxMGK6jAik) | 4:26 | 2023-04-09 |  |
 | [Hay Poder](https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS) | 7:04 | 2020-09-18 |  |

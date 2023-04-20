@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Zeeba",
-  "num_followers": 419984,
+  "num_followers": 420063,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTc2MDM5OSwwMDAwMDAwMDVlMjZmN2MzZjgxYzRlYTVlMDg4MGRlNmZmM2E1ZWVj",
+  "snapshot_id": "MTY4MTc2MDM5OSwwMDAwMDAwMDRmOWE0MGQ1NWFiNjIyYjM1Y2U5NWFhNzg3Y2JiOGI0",
   "tracks": [
     {
       "added_at": "2023-04-17 19:39:59",
@@ -439,22 +439,18 @@
     {
       "added_at": "2023-04-17 19:39:59",
       "album": {
-        "name": "Quintal",
-        "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
+        "name": "Live Sessions",
+        "url": "https://open.spotify.com/album/10vWV3vu3aAY0kthCLVQHS"
       },
       "artists": [
         {
-          "name": "Melim",
-          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
-        },
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
         }
       ],
-      "duration_ms": 177014,
-      "name": "Mais Que Ontem",
-      "url": "https://open.spotify.com/track/1KshLJaAFxRowOEKgdgk9D"
+      "duration_ms": 188620,
+      "name": "Intui\u00e7\u00e3o (Envolvid\u00e3o) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3WmCgLfple2ny5iHO3t2Nv"
     },
     {
       "added_at": "2023-04-17 19:39:59",
@@ -475,18 +471,22 @@
     {
       "added_at": "2023-04-17 19:39:59",
       "album": {
-        "name": "Live Sessions",
-        "url": "https://open.spotify.com/album/10vWV3vu3aAY0kthCLVQHS"
+        "name": "Quintal",
+        "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
       },
       "artists": [
         {
-          "name": "Tritom",
-          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
         }
       ],
-      "duration_ms": 188620,
-      "name": "Intui\u00e7\u00e3o (Envolvid\u00e3o) - Ao Vivo",
-      "url": "https://open.spotify.com/track/3WmCgLfple2ny5iHO3t2Nv"
+      "duration_ms": 177014,
+      "name": "Mais Que Ontem",
+      "url": "https://open.spotify.com/track/1KshLJaAFxRowOEKgdgk9D"
     },
     {
       "added_at": "2023-04-17 19:39:59",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-04-17 19:39:59",
       "album": {
+        "name": "Folha",
+        "url": "https://open.spotify.com/album/7MoNbxYmqfZQxi2CKAw6m2"
+      },
+      "artists": [
+        {
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+        }
+      ],
+      "duration_ms": 197336,
+      "name": "Folha",
+      "url": "https://open.spotify.com/track/0AvsPHbkzsw9ppulfb3l2E"
+    },
+    {
+      "added_at": "2023-04-17 19:39:59",
+      "album": {
         "name": "Terezinha",
         "url": "https://open.spotify.com/album/6tk8iJGsL0xKCJ8zXbm20Z"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 142000,
       "name": "Terezinha",
       "url": "https://open.spotify.com/track/6jZq2kwbo4pLsoREwTveq3"
-    },
-    {
-      "added_at": "2023-04-17 19:39:59",
-      "album": {
-        "name": "Folha",
-        "url": "https://open.spotify.com/album/7MoNbxYmqfZQxi2CKAw6m2"
-      },
-      "artists": [
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
-        }
-      ],
-      "duration_ms": 197336,
-      "name": "Folha",
-      "url": "https://open.spotify.com/track/0AvsPHbkzsw9ppulfb3l2E"
     },
     {
       "added_at": "2023-04-17 19:39:59",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-04-17 19:39:59",
       "album": {
+        "name": "cedo pra dizer",
+        "url": "https://open.spotify.com/album/3U71wc8wa5Mo7ZQS8xZmtR"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 186809,
+      "name": "cedo pra dizer",
+      "url": "https://open.spotify.com/track/3gLoJCDfq2kipxsbnXPquA"
+    },
+    {
+      "added_at": "2023-04-17 19:39:59",
+      "album": {
         "name": "L\u00e1 Vem A Noite",
         "url": "https://open.spotify.com/album/7jC67OLg5vFyeHfQgbSAQd"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 228693,
       "name": "L\u00e1 Vem A Noite",
       "url": "https://open.spotify.com/track/1Yg5rkFc2XVM6h950xtmsN"
-    },
-    {
-      "added_at": "2023-04-17 19:39:59",
-      "album": {
-        "name": "cedo pra dizer",
-        "url": "https://open.spotify.com/album/3U71wc8wa5Mo7ZQS8xZmtR"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 186809,
-      "name": "cedo pra dizer",
-      "url": "https://open.spotify.com/track/3gLoJCDfq2kipxsbnXPquA"
     },
     {
       "added_at": "2023-04-17 19:39:59",

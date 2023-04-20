@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 243571,
+  "num_followers": 243785,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTM1Mjk3NiwwMDAwMDAwMGVmZWRjOWU3NjBjNDM1MDVhZDg4MDUxMjNmYTFlZDVh",
+  "snapshot_id": "MTY4MTM1Mjk3NiwwMDAwMDAwMGM0OTQxMGI3ZmE1MWQzNzYyODllZDhjMDYyOTg5OWU1",
   "tracks": [
     {
       "added_at": "2023-04-11 02:56:45",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
         "name": "Enta Omry Remix 2022",
         "url": "https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 278546,
       "name": "Enta Omry Remix 2022",
       "url": "https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -767,22 +767,26 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "Il Mattino",
-        "url": "https://open.spotify.com/album/5ApVBQ8xCqiVF2NwRqNsSM"
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2"
       },
       "artists": [
         {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+          "name": "Furkan Sert",
+          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
         },
         {
-          "name": "Anis Karek",
-          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
+          "name": "Dj Iljano",
+          "url": "https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd"
+        },
+        {
+          "name": "Kristian Gusho",
+          "url": "https://open.spotify.com/artist/1hRo9TcIsOlGXKZ7O9pAJL"
         }
       ],
-      "duration_ms": 331206,
-      "name": "Il Mattino",
-      "url": "https://open.spotify.com/track/0Bdi3cLtju5gRmwZJ54jUy"
+      "duration_ms": 200000,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -807,26 +811,22 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/4diPOadiw13OpOGZ1InJk2"
+        "name": "Il Mattino",
+        "url": "https://open.spotify.com/album/5ApVBQ8xCqiVF2NwRqNsSM"
       },
       "artists": [
         {
-          "name": "Furkan Sert",
-          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
         },
         {
-          "name": "Dj Iljano",
-          "url": "https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd"
-        },
-        {
-          "name": "Kristian Gusho",
-          "url": "https://open.spotify.com/artist/1hRo9TcIsOlGXKZ7O9pAJL"
+          "name": "Anis Karek",
+          "url": "https://open.spotify.com/artist/63K9PNJ0dItZGILLpeWTS8"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b"
+      "duration_ms": 331206,
+      "name": "Il Mattino",
+      "url": "https://open.spotify.com/track/0Bdi3cLtju5gRmwZJ54jUy"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -935,6 +935,26 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
+        "name": "Sophonisbe",
+        "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
+      },
+      "artists": [
+        {
+          "name": "Jugurtha",
+          "url": "https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME"
+        },
+        {
+          "name": "Sahal\u00e9",
+          "url": "https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ"
+        }
+      ],
+      "duration_ms": 396428,
+      "name": "Sophonisbe - Sahale Remix",
+      "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
         "name": "Sireli",
         "url": "https://open.spotify.com/album/3Pi3XDOXZLo1ZPUEiMceTk"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 197052,
       "name": "Dahlia Girl",
       "url": "https://open.spotify.com/track/1ibXekJRK6oIiQTJyujkts"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
-        "name": "Sophonisbe",
-        "url": "https://open.spotify.com/album/0v9XsFBlAt1lyDuFhO1ZhM"
-      },
-      "artists": [
-        {
-          "name": "Jugurtha",
-          "url": "https://open.spotify.com/artist/72vSlNssmiyjzCAt4Z61ME"
-        },
-        {
-          "name": "Sahal\u00e9",
-          "url": "https://open.spotify.com/artist/4M7kyBSGHK0aYYjObYeRXZ"
-        }
-      ],
-      "duration_ms": 396428,
-      "name": "Sophonisbe - Sahale Remix",
-      "url": "https://open.spotify.com/track/44288Pd23qyQs0FyCqti8L"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "Ahwak (Deeper Remix)",
-        "url": "https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        }
-      ],
-      "duration_ms": 300582,
-      "name": "Ahwak (Deeper Remix)",
-      "url": "https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
         "name": "Che Danestam (Seventh Soul Remix)",
         "url": "https://open.spotify.com/album/0To3grEONUEhU3NhuZwKkS"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 506666,
       "name": "Che Danestam - Seventh Soul Remix",
       "url": "https://open.spotify.com/track/5TteGvnDqhsp5aJhbASQ1S"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
+        "name": "Ahwak (Deeper Remix)",
+        "url": "https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        }
+      ],
+      "duration_ms": 300582,
+      "name": "Ahwak (Deeper Remix)",
+      "url": "https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "Eternal Roots",
-        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
-      },
-      "artists": [
-        {
-          "name": "Safar (FR)",
-          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
-        }
-      ],
-      "duration_ms": 305005,
-      "name": "Eternal Roots",
-      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
         "name": "Roots LP",
         "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 221217,
       "name": "Oud Love",
       "url": "https://open.spotify.com/track/6yo4vfCNw1VD1JKCbJhPEO"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
+        "name": "Eternal Roots",
+        "url": "https://open.spotify.com/album/6k8dJjNShTIPhwU9vA5sCL"
+      },
+      "artists": [
+        {
+          "name": "Safar (FR)",
+          "url": "https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm"
+        }
+      ],
+      "duration_ms": 305005,
+      "name": "Eternal Roots",
+      "url": "https://open.spotify.com/track/6FhUtyw0Y8q1xR22XlFNXg"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
-        "name": "Hebele Hubulu & Belantash",
-        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
-      },
-      "artists": [
-        {
-          "name": "Omerar Nanda",
-          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
-        }
-      ],
-      "duration_ms": 484644,
-      "name": "Hebele Hubulu",
-      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
         "name": "Salat Ala Nabina",
         "url": "https://open.spotify.com/album/2kGHqtp9WEhUeYrCQjjzDq"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 218709,
       "name": "Salat Ala Nabina - Radio Edit",
       "url": "https://open.spotify.com/track/34v65aJB2ELQx3vpegUxb1"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
+        "name": "Hebele Hubulu & Belantash",
+        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
+      },
+      "artists": [
+        {
+          "name": "Omerar Nanda",
+          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
+        }
+      ],
+      "duration_ms": 484644,
+      "name": "Hebele Hubulu",
+      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
     },
     {
       "added_at": "2023-04-11 02:56:45",
@@ -1771,6 +1771,26 @@
     {
       "added_at": "2023-04-11 02:56:45",
       "album": {
+        "name": "Beirut",
+        "url": "https://open.spotify.com/album/61uVxj8RLLQfkF584hWAqb"
+      },
+      "artists": [
+        {
+          "name": "Rodge",
+          "url": "https://open.spotify.com/artist/3F9PS1VPIjbbkQyYZCZDDG"
+        },
+        {
+          "name": "Nina Abdel Malak",
+          "url": "https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Beirut",
+      "url": "https://open.spotify.com/track/0XnojCdBGCLuoeOTZUfaM7"
+    },
+    {
+      "added_at": "2023-04-11 02:56:45",
+      "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/0VvFnzjhJdWsi5GhSd1gye"
       },
@@ -1795,26 +1815,6 @@
       "duration_ms": 452950,
       "name": "Mosaic - Yohan & David Remix",
       "url": "https://open.spotify.com/track/6hVVL28igjw28VRFzB4HLK"
-    },
-    {
-      "added_at": "2023-04-11 02:56:45",
-      "album": {
-        "name": "Beirut",
-        "url": "https://open.spotify.com/album/61uVxj8RLLQfkF584hWAqb"
-      },
-      "artists": [
-        {
-          "name": "Rodge",
-          "url": "https://open.spotify.com/artist/3F9PS1VPIjbbkQyYZCZDDG"
-        },
-        {
-          "name": "Nina Abdel Malak",
-          "url": "https://open.spotify.com/artist/4XfkQ6qBTSdds4GqBAlt0E"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Beirut",
-      "url": "https://open.spotify.com/track/0XnojCdBGCLuoeOTZUfaM7"
     },
     {
       "added_at": "2023-04-11 02:56:45",

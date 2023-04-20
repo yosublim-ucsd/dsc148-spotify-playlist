@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Benson Boone
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,329,242 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,504 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 32 | [DANCING ALL ALONE](https://open.spotify.com/track/3vHKqg3WDgtWA5unl5layh) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [DANCING ALL ALONE](https://open.spotify.com/album/6E1rMJkFB1eJwgyMQhN1mg) | 2:51 |
 | 33 | [First Place](https://open.spotify.com/track/2nVmUsEIdqVYQG0BTzPdk4) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Powerlines](https://open.spotify.com/album/3fA793BjWaUIqwknayn2OX) | 3:16 |
 | 34 | [live more & love more](https://open.spotify.com/track/1Oj4FgVngNgBTvd0a9nI2k) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [live more & love more](https://open.spotify.com/album/5sgznu5iMVavhZy04BsUb4) | 2:38 |
-| 35 | [why me?](https://open.spotify.com/track/0ZpJQsYQaZVoZCspPc7zru) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [why me?](https://open.spotify.com/album/1I0WTrZlybhWAsK4PwMyK5) | 2:42 |
+| 35 | [why me](https://open.spotify.com/track/0ZpJQsYQaZVoZCspPc7zru) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [why me](https://open.spotify.com/album/1I0WTrZlybhWAsK4PwMyK5) | 2:42 |
 | 36 | [your clothes](https://open.spotify.com/track/5yRnm8Kfu6l20QyIdSyfrv) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [your clothes](https://open.spotify.com/album/0VDEPoASuTiBaYMjvZwmm0) | 1:55 |
 | 37 | [Loving You](https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Loving You](https://open.spotify.com/album/3SiKtT1GsVNunfic2eXkzx) | 3:14 |
 | 38 | [homies](https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [homies](https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X) | 3:45 |

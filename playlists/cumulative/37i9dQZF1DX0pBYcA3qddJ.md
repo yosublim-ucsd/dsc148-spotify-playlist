@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-376 songs - 1 day 1 hr 11 min
+377 songs - 1 day 1 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [5つの歌曲 作品105より第1曲「調べのように私を通り抜ける」](https://open.spotify.com/track/4vEIAx1HbcJynNpOlhpueH) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [吉田 誠](https://open.spotify.com/artist/5wev3nAlYNDtbSDAZyqnVD), [Yu Kosuge](https://open.spotify.com/artist/5tcUjfUAZwX2NMjWU0fqON) | [ブラームス:クラリネット・ソナタ\(全曲\)、シューマン:幻想小曲集ほか](https://open.spotify.com/album/34gl2k0zSTO3Vp5Ckkd0LH) | 2:12 | 2022-10-20 | 2022-12-02 |
 | [7 O'clock Clap](https://open.spotify.com/track/2XcFTsrCoFarJErjxaaYm9) | [Arthur Moon](https://open.spotify.com/artist/5iDcZ7vN17Cq55AbEqy0aC) | [7 O'clock Clap](https://open.spotify.com/album/4QqtF1Jw2lyD2JzKDGL0d4) | 2:34 | 2023-04-04 |  |
 | [9 Preludes, Op\. 1: No\. 1 in B Minor\. Andante ma non troppo](https://open.spotify.com/track/73cFlYu63RLX1qn9qzMXiJ) | [Karol Szymanowski](https://open.spotify.com/artist/3WLh1Qe8WgEBbb2QJWYYal), [Krystian Zimerman](https://open.spotify.com/artist/43wuPaPcZVMJQWLRaPR4Yz) | [Szymanowski: 9 Preludes, Op\. 1: No\. 1 in B Minor\. Andante ma non troppo](https://open.spotify.com/album/2a4mPDnGKkY1ZnxhsHIrK0) | 2:56 | 2022-10-20 | 2022-12-02 |
+| [A Dream of Hanakonzyo Color](https://open.spotify.com/track/2PklJbGfHNaFPo5HidKimK) | [青木慶則](https://open.spotify.com/artist/0rb8Q1ctJ25z9P64TgKXWy) | [Scene Tonight Only](https://open.spotify.com/album/4SmjguZEfuwXUbLErOu4aH) | 2:34 | 2023-04-18 |  |
 | [A Man Main Theme](https://open.spotify.com/track/31hV0jmhlMYzcp6CUvsFSZ) | [Cicada](https://open.spotify.com/artist/5Od6qTN5QeUH6CyXaaZusC) | [A Man Main Theme](https://open.spotify.com/album/75grRnp9GaEhzRlsQqVVNL) | 3:01 | 2022-11-10 | 2022-12-02 |
 | [A Mother's Touch \- 『桜色の風が咲く』オリジナル・サウンドトラックより](https://open.spotify.com/track/2QjvLUy2wF9LU34eJ9Fhvq) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [A Mother's Touch \(『桜色の風が咲く』オリジナル・サウンドトラックより\)](https://open.spotify.com/album/6o1V8mKoQPUBRuALEciKWK) | 5:45 | 2022-10-27 | 2022-11-11 |
 | [A New Base for an Unknown Friend](https://open.spotify.com/track/4tAvSeSV6AnhliDhJR9FoZ) | [JunIzawa](https://open.spotify.com/artist/7784zrMh7ieZT0RZJgxV9I) | [A New Base EP](https://open.spotify.com/album/7rWa5b30jHvUxS7HmkaSC5) | 5:13 | 2022-11-22 | 2022-12-02 |
@@ -375,7 +376,7 @@
 | [石の教会 \- 雨音の二重奏](https://open.spotify.com/track/65SWWSNv8prKy3UCF4oJLX) | [Iori Kimura](https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO), [木村仁星](https://open.spotify.com/artist/6ok0SyTEykPHk0V41lBBj8) | [石の教会 \-雨音の二重奏\-](https://open.spotify.com/album/3EGtWWXcd5jJWM6qTjxnDa) | 5:29 | 2023-02-02 | 2023-03-01 |
 | [美しき夕暮れ\(チェロとハープ編\)](https://open.spotify.com/track/6jNeHhrtL9lPcsQSNWU8so) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Haruma Sato](https://open.spotify.com/artist/3H65pWTCUa1pcpNVq8HNuk), [Naoko Yoshino](https://open.spotify.com/artist/1zfl6prcMarqvXpCksIK99) | [SOUVENIR\~ドビュッシー&フランク作品集](https://open.spotify.com/album/43bKpNPSG2JMQTHqeDpxmH) | 2:23 | 2023-02-28 |  |
 | [花水木の咲く頃 \- 辻井伸行](https://open.spotify.com/track/7Hn9C68R48KK9pj07ys2ak) | [Nobuyuki Tsujii](https://open.spotify.com/artist/5JvADyrajwcXaAeqxyDg5j) | [debut](https://open.spotify.com/album/7l7gvZUvLdohGVIs4KjYZ8) | 3:29 | 2022-10-20 | 2022-11-23 |
-| [花紺青色の夢](https://open.spotify.com/track/0iZQqdnE6Stdc8VdcJ03eW) | [青木慶則](https://open.spotify.com/artist/0rb8Q1ctJ25z9P64TgKXWy) | [今宵きりの光景](https://open.spotify.com/album/4AxbX3NnR2xyYCw236UctB) | 2:34 | 2023-04-18 |  |
+| [花紺青色の夢](https://open.spotify.com/track/0iZQqdnE6Stdc8VdcJ03eW) | [青木慶則](https://open.spotify.com/artist/0rb8Q1ctJ25z9P64TgKXWy) | [今宵きりの光景](https://open.spotify.com/album/4AxbX3NnR2xyYCw236UctB) | 2:34 | 2023-04-18 | 2023-04-20 |
 | [花降る時の彼方](https://open.spotify.com/track/3B5gmn2BdUzNFzzw2aAoPs) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [花降る時の彼方](https://open.spotify.com/album/7amC6JkIzmrsCfFec2w6gx) | 6:04 | 2023-03-14 |  |
 | [虹色の夢へ](https://open.spotify.com/track/5crXKoOBPqKX7NDQdok9Ua) | [Michiru Oshima](https://open.spotify.com/artist/6zqZlqpjrq3op255dF32Fr), [Emiri Miyamoto](https://open.spotify.com/artist/29aWsI0zQQ53hKuM2V19ti) | [amour](https://open.spotify.com/album/5OvNJNNJrzmyJmRmcJgdPf) | 3:54 | 2022-10-20 | 2022-12-02 |
 | [赤と青](https://open.spotify.com/track/6AsQ1wqbmYSRmc3S9mxbaj) | [ROTH BART BARON](https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2) | [赤と青](https://open.spotify.com/album/46J15A4lTJm1BtYxgA9ZoQ) | 3:13 | 2022-10-20 | 2022-11-09 |

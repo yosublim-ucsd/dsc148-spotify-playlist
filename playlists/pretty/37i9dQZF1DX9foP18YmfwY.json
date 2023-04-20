@@ -1,12 +1,12 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Flavio Vitor Jr.",
-  "num_followers": 294432,
+  "num_followers": 294542,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTU4MzE3MCwwMDAwMDAwMGQ4ODQwMGEwNTQ3ZmM5ZGFmM2IzZDVmMWQ4Y2Q5OTkz",
+  "snapshot_id": "MTY4MTU4MzE3MCwwMDAwMDAwMGMwYzdlMjQ5N2JiYzE4MjFiM2I1NTZkYzA4YmE2YTEw",
   "tracks": [
     {
       "added_at": "2023-04-15 18:26:10",
@@ -635,42 +635,6 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
-        "name": "Vocacional Shalom 2023",
-        "url": "https://open.spotify.com/album/7HwdocC4w9sMdtdRffLCaJ"
-      },
-      "artists": [
-        {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
-        },
-        {
-          "name": "Entretons",
-          "url": "https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa"
-        }
-      ],
-      "duration_ms": 238430,
-      "name": "Com Tua M\u00e3o",
-      "url": "https://open.spotify.com/track/7wXke7G8pXKpPPKNluM3DA"
-    },
-    {
-      "added_at": "2023-04-15 18:26:10",
-      "album": {
-        "name": "Ressonhar",
-        "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
-      },
-      "artists": [
-        {
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
-        }
-      ],
-      "duration_ms": 290125,
-      "name": "Oceano de Miseric\u00f3rdia",
-      "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
-    },
-    {
-      "added_at": "2023-04-15 18:26:10",
-      "album": {
         "name": "Inflama-Me",
         "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
       },
@@ -687,6 +651,22 @@
       "duration_ms": 401500,
       "name": "Inflama-Me",
       "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
+    },
+    {
+      "added_at": "2023-04-15 18:26:10",
+      "album": {
+        "name": "Ressonhar",
+        "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
+      },
+      "artists": [
+        {
+          "name": "Anjos de Resgate",
+          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
+        }
+      ],
+      "duration_ms": 290125,
+      "name": "Oceano de Miseric\u00f3rdia",
+      "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
     },
     {
       "added_at": "2023-04-15 18:26:10",
@@ -711,18 +691,42 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
-        "name": "Kyrios (Shalom Bras\u00edlia 20 Anos)",
-        "url": "https://open.spotify.com/album/6xnhBYPpmu2rOAD0wpteTU"
+        "name": "Vocacional Shalom 2023",
+        "url": "https://open.spotify.com/album/7HwdocC4w9sMdtdRffLCaJ"
       },
       "artists": [
         {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        },
+        {
+          "name": "Entretons",
+          "url": "https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa"
         }
       ],
-      "duration_ms": 290552,
-      "name": "Todo Amor do Mundo",
-      "url": "https://open.spotify.com/track/1lW5kpBZDeEnfLT12NGlVM"
+      "duration_ms": 238430,
+      "name": "Com Tua M\u00e3o",
+      "url": "https://open.spotify.com/track/7wXke7G8pXKpPPKNluM3DA"
+    },
+    {
+      "added_at": "2023-04-15 18:26:10",
+      "album": {
+        "name": "J\u00e1 Deu Certo",
+        "url": "https://open.spotify.com/album/3XI0e2tIRvuxbMbHWvC7Ns"
+      },
+      "artists": [
+        {
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+        },
+        {
+          "name": "Canthares",
+          "url": "https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr"
+        }
+      ],
+      "duration_ms": 276885,
+      "name": "J\u00e1 Deu Certo",
+      "url": "https://open.spotify.com/track/1pZJJiJC4CR9fMOhXP3Xm3"
     },
     {
       "added_at": "2023-04-15 18:26:10",
@@ -767,22 +771,18 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
-        "name": "J\u00e1 Deu Certo",
-        "url": "https://open.spotify.com/album/3XI0e2tIRvuxbMbHWvC7Ns"
+        "name": "Kyrios (Shalom Bras\u00edlia 20 Anos)",
+        "url": "https://open.spotify.com/album/6xnhBYPpmu2rOAD0wpteTU"
       },
       "artists": [
         {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
-        },
-        {
-          "name": "Canthares",
-          "url": "https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr"
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
         }
       ],
-      "duration_ms": 276885,
-      "name": "J\u00e1 Deu Certo",
-      "url": "https://open.spotify.com/track/1pZJJiJC4CR9fMOhXP3Xm3"
+      "duration_ms": 290552,
+      "name": "Todo Amor do Mundo",
+      "url": "https://open.spotify.com/track/1lW5kpBZDeEnfLT12NGlVM"
     },
     {
       "added_at": "2023-04-15 18:26:10",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
-        "name": "Cantai a Deus Com Alegria 2022",
-        "url": "https://open.spotify.com/album/5NfNDPV81OPmGHg0i3U5xv"
+        "name": "Deus Anda Comigo",
+        "url": "https://open.spotify.com/album/7jGddnQXi1xKn1RsXTuk1e"
       },
       "artists": [
         {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+          "name": "Cleiton Saraiva",
+          "url": "https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO"
         }
       ],
-      "duration_ms": 349859,
-      "name": "Irresistivelmente",
-      "url": "https://open.spotify.com/track/1mlClp0nXxSXV4iEOz5gPU"
+      "duration_ms": 223285,
+      "name": "Longe de Deus, Tudo \u00c9 Ilus\u00e3o",
+      "url": "https://open.spotify.com/track/6tFow5ytjJCSOIVngI2uNc"
     },
     {
       "added_at": "2023-04-15 18:26:10",
@@ -859,18 +859,22 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
-        "name": "Deus Anda Comigo",
-        "url": "https://open.spotify.com/album/7jGddnQXi1xKn1RsXTuk1e"
+        "name": "Gba Stage, Vol. 5",
+        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
       },
       "artists": [
         {
-          "name": "Cleiton Saraiva",
-          "url": "https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO"
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Gil Monteiro",
+          "url": "https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy"
         }
       ],
-      "duration_ms": 223285,
-      "name": "Longe de Deus, Tudo \u00c9 Ilus\u00e3o",
-      "url": "https://open.spotify.com/track/6tFow5ytjJCSOIVngI2uNc"
+      "duration_ms": 173272,
+      "name": "Como \u00c9s Lindo",
+      "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
     },
     {
       "added_at": "2023-04-15 18:26:10",
@@ -907,6 +911,22 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
+        "name": "Cantai a Deus Com Alegria 2022",
+        "url": "https://open.spotify.com/album/5NfNDPV81OPmGHg0i3U5xv"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        }
+      ],
+      "duration_ms": 349859,
+      "name": "Irresistivelmente",
+      "url": "https://open.spotify.com/track/1mlClp0nXxSXV4iEOz5gPU"
+    },
+    {
+      "added_at": "2023-04-15 18:26:10",
+      "album": {
         "name": "Nada Te Perturbe",
         "url": "https://open.spotify.com/album/51XkQlDg5BCuXSOadU5j25"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 225326,
       "name": "Nada Te Perturbe",
       "url": "https://open.spotify.com/track/1h2NgvYE3TIS48weBk1Qr1"
-    },
-    {
-      "added_at": "2023-04-15 18:26:10",
-      "album": {
-        "name": "Gba Stage, Vol. 5",
-        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Gil Monteiro",
-          "url": "https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy"
-        }
-      ],
-      "duration_ms": 173272,
-      "name": "Como \u00c9s Lindo",
-      "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
     },
     {
       "added_at": "2023-04-15 18:26:10",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
-        "name": "Ana e Maria",
-        "url": "https://open.spotify.com/album/6jjVrZBuB3fRQmqiV9C2Jp"
-      },
-      "artists": [
-        {
-          "name": "Ziza Fernandes",
-          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
-        }
-      ],
-      "duration_ms": 229320,
-      "name": "Ana e Maria",
-      "url": "https://open.spotify.com/track/6Z5u1AKPvXMtIJaKah0KeM"
-    },
-    {
-      "added_at": "2023-04-15 18:26:10",
-      "album": {
         "name": "Acalma Minha Tempestade",
         "url": "https://open.spotify.com/album/5HdMqXQBzHL0MaLhb1ybHU"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 322512,
       "name": "Acalma Minha Tempestade",
       "url": "https://open.spotify.com/track/2PhnQYOU7iDcvTym7tzXwb"
+    },
+    {
+      "added_at": "2023-04-15 18:26:10",
+      "album": {
+        "name": "Ana e Maria",
+        "url": "https://open.spotify.com/album/6jjVrZBuB3fRQmqiV9C2Jp"
+      },
+      "artists": [
+        {
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+        }
+      ],
+      "duration_ms": 229320,
+      "name": "Ana e Maria",
+      "url": "https://open.spotify.com/track/6Z5u1AKPvXMtIJaKah0KeM"
     },
     {
       "added_at": "2023-04-15 18:26:10",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-04-15 18:26:10",
       "album": {
+        "name": "Fa\u00e7a Um Milagre (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2wLjQBv56JdmwIojvlc7D6"
+      },
+      "artists": [
+        {
+          "name": "Padre Reginaldo Manzotti",
+          "url": "https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV"
+        }
+      ],
+      "duration_ms": 262232,
+      "name": "Fa\u00e7a Um Milagre - Ao Vivo",
+      "url": "https://open.spotify.com/track/2ToXwQGR8W74QBzhNLpFoV"
+    },
+    {
+      "added_at": "2023-04-15 18:26:10",
+      "album": {
         "name": "Em Tua Presen\u00e7a",
         "url": "https://open.spotify.com/album/0bCz6dSqYOM6yNEV9DhQvK"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 256000,
       "name": "D\u00e1-Me de Beber",
       "url": "https://open.spotify.com/track/0a4uOkydQSvaL4jp3fS5qZ"
-    },
-    {
-      "added_at": "2023-04-15 18:26:10",
-      "album": {
-        "name": "Fa\u00e7a Um Milagre (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2wLjQBv56JdmwIojvlc7D6"
-      },
-      "artists": [
-        {
-          "name": "Padre Reginaldo Manzotti",
-          "url": "https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV"
-        }
-      ],
-      "duration_ms": 262232,
-      "name": "Fa\u00e7a Um Milagre - Ao Vivo",
-      "url": "https://open.spotify.com/track/2ToXwQGR8W74QBzhNLpFoV"
     },
     {
       "added_at": "2023-04-15 18:26:10",

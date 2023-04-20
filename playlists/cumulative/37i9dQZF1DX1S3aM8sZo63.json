@@ -186,7 +186,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 173226,
       "name": "Amantes Escondidos",
       "url": "https://open.spotify.com/track/4PbrxFKJg5rLkZ77vKhhY9"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 182680,
       "name": "El Amor So\u00f1ado",
       "url": "https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC"
@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 180406,
       "name": "M\u00fasica para Dos",
       "url": "https://open.spotify.com/track/3PQHeie5Fk8ADsEsG8H5aH"
@@ -2063,6 +2063,28 @@
     },
     {
       "album": {
+        "name": "Secuestro De Amor",
+        "url": "https://open.spotify.com/album/5tlAgf8YtdhvwcJihsF1dV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222820,
+      "name": "Secuestro De Amor",
+      "url": "https://open.spotify.com/track/1bjFNKtbXmavvcAIMnSJFi"
+    },
+    {
+      "album": {
         "name": "Tucanes De Oro ... Secuestro De Amor",
         "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
       },
@@ -2288,7 +2310,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-01",
+      "date_removed": null,
       "duration_ms": 197107,
       "name": "Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/7l75lYs5TM7BsGS17ojWQe"
@@ -2324,7 +2346,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 226400,
       "name": "Te Mereces Un Amor",
       "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"

@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 120828,
+  "num_followers": 120954,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMGRlMDQ4ZjYyZjQxMjI4MDhlMmJiMDQ1ZTZhMWQwYmY2",
+  "snapshot_id": "MTY4MTQyNjgwMCwwMDAwMDAwMGEwZjljZDc1ZTFlMGEyYjk2M2M2ZDNlY2RhMmQ0MDNk",
   "tracks": [
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Find My Way Home",
+        "url": "https://open.spotify.com/album/6v9a58ojj3EBjHg4gfDNZY"
+      },
+      "artists": [
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 258858,
+      "name": "Find My Way Home",
+      "url": "https://open.spotify.com/track/1yIi7qRdybE4yY1V0YdOKG"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Heartbroken 2022",
         "url": "https://open.spotify.com/album/1YnYdZrfgtie2NvTsNUAIQ"
       },
@@ -1071,22 +1087,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Find My Way Home",
-        "url": "https://open.spotify.com/album/6v9a58ojj3EBjHg4gfDNZY"
-      },
-      "artists": [
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 258858,
-      "name": "Find My Way Home",
-      "url": "https://open.spotify.com/track/1yIi7qRdybE4yY1V0YdOKG"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Renegade",
         "url": "https://open.spotify.com/album/0HlsaMsBjldN8ilQkkF4G8"
       },
@@ -1099,6 +1099,26 @@
       "duration_ms": 154650,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/2QWXmgMXYp1UM3LyHVaAFe"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Shut It Down",
+        "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
+      },
+      "artists": [
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        },
+        {
+          "name": "Elipsa",
+          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
+        }
+      ],
+      "duration_ms": 178604,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1163,26 +1183,6 @@
       "duration_ms": 232215,
       "name": "Playground",
       "url": "https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Shut It Down",
-        "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
-      },
-      "artists": [
-        {
-          "name": "Mollie Collins",
-          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
-        },
-        {
-          "name": "Elipsa",
-          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
-        }
-      ],
-      "duration_ms": 178604,
-      "name": "Shut It Down",
-      "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
     },
     {
       "added_at": "2023-04-13 23:00:00",

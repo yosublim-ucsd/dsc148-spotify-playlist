@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables del Regional Mexicano. Chiquis en portada.",
-  "num_followers": 85936,
+  "num_followers": 85979,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDk1ZjBhOWRjYzhhZjQ1NjUzMGM3ZmEyZjg4NmYyNDM5",
+  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMGQwNTZhZDlkYTlhNzg0MjVkYmNlZWI0NmFmMjQzNjdm",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Se Disfraz\u00f3",
-        "url": "https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 206383,
-      "name": "Se Disfraz\u00f3",
-      "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Cuando Caiga la Noche",
         "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 201802,
       "name": "Cuando Caiga la Noche",
       "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Se Disfraz\u00f3",
+        "url": "https://open.spotify.com/album/0e90dEopSeHMvkBdWB2nX8"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 206383,
+      "name": "Se Disfraz\u00f3",
+      "url": "https://open.spotify.com/track/3Z33YVoP5VK4lLjwDR8Yb7"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -807,22 +807,6 @@
       "duration_ms": 191028,
       "name": "As\u00ed Nom\u00e1s",
       "url": "https://open.spotify.com/track/56J7bkvuNDfs2e9YGbI01E"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 226618,
-      "name": "El Barco",
-      "url": "https://open.spotify.com/track/0O195ut6Wlnv0ppzxmEpU4"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -899,6 +883,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 226618,
+      "name": "El Barco",
+      "url": "https://open.spotify.com/track/0O195ut6Wlnv0ppzxmEpU4"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Tambien Las Mujeres Pueden (En Vivo)",
         "url": "https://open.spotify.com/album/0A9jc2mNfi0CeYveDasqI3"
       },
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Promesas No",
+        "url": "https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3"
+      },
+      "artists": [
+        {
+          "name": "Graciela Beltran",
+          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "Es Cosa De El",
+      "url": "https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Te Lo Dije",
         "url": "https://open.spotify.com/album/6L4FZy4urqYOoXG7QCJvGt"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 153946,
       "name": "Te Lo Dije",
       "url": "https://open.spotify.com/track/1qIzFCCra5oghKuOwygbxm"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Promesas No",
-        "url": "https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3"
-      },
-      "artists": [
-        {
-          "name": "Graciela Beltran",
-          "url": "https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl"
-        }
-      ],
-      "duration_ms": 206213,
-      "name": "Es Cosa De El",
-      "url": "https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1215,6 +1215,26 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/1Zc6hqIINyRhDkyvLNV1e8"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Pati\u00f1o",
+          "url": "https://open.spotify.com/artist/0QRuYvK5g5MBK4r27OyRmh"
+        },
+        {
+          "name": "Lady Yuliana",
+          "url": "https://open.spotify.com/artist/3WLVEbpQIsYvDslZadgxO2"
+        }
+      ],
+      "duration_ms": 205840,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/5fB1anQrnZBMnSjilCnAZ8"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "En Carne Viva",
         "url": "https://open.spotify.com/album/2MOtc63fVOckXi8FrW19Di"
       },
@@ -1235,22 +1255,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Volumen 2",
-        "url": "https://open.spotify.com/album/0qKcVvwYT8omzgJOV5XODe"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
-        }
-      ],
-      "duration_ms": 240648,
-      "name": "Hasta El D\u00eda De Hoy - En Vivo",
-      "url": "https://open.spotify.com/track/6NwYyRMf0y0g6hOsitO1Ex"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Cinco Razones",
         "url": "https://open.spotify.com/album/5lFmabGSRMh7o8GHntGeqZ"
       },
@@ -1267,18 +1271,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Le Cale A Quien Le Cale",
-        "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
+        "name": "Volumen 2",
+        "url": "https://open.spotify.com/album/0qKcVvwYT8omzgJOV5XODe"
       },
       "artists": [
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
         }
       ],
-      "duration_ms": 152768,
-      "name": "Le Cale A Quien Le Cale",
-      "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
+      "duration_ms": 240648,
+      "name": "Hasta El D\u00eda De Hoy - En Vivo",
+      "url": "https://open.spotify.com/track/6NwYyRMf0y0g6hOsitO1Ex"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1315,22 +1319,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/1Zc6hqIINyRhDkyvLNV1e8"
+        "name": "Le Cale A Quien Le Cale",
+        "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
       },
       "artists": [
         {
-          "name": "Marilyn Pati\u00f1o",
-          "url": "https://open.spotify.com/artist/0QRuYvK5g5MBK4r27OyRmh"
-        },
-        {
-          "name": "Lady Yuliana",
-          "url": "https://open.spotify.com/artist/3WLVEbpQIsYvDslZadgxO2"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 205840,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/5fB1anQrnZBMnSjilCnAZ8"
+      "duration_ms": 152768,
+      "name": "Le Cale A Quien Le Cale",
+      "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Hoy Dame el Gusto",
-        "url": "https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF"
+        "name": "Se Te Olvid\u00f3",
+        "url": "https://open.spotify.com/album/4Oe4ORLwZV7y4OtjRjsCOA"
       },
       "artists": [
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
         }
       ],
-      "duration_ms": 192827,
-      "name": "Hoy Dame el Gusto",
-      "url": "https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI"
+      "duration_ms": 186475,
+      "name": "Se Te Olvid\u00f3",
+      "url": "https://open.spotify.com/track/6kviIjZXocJZlfMM7Hy13x"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1467,18 +1467,34 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Se Te Olvid\u00f3",
-        "url": "https://open.spotify.com/album/4Oe4ORLwZV7y4OtjRjsCOA"
+        "name": "Ni Diabla Ni Santa",
+        "url": "https://open.spotify.com/album/43RfcDptMd2B5QoC5uhHIr"
       },
       "artists": [
         {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z"
         }
       ],
-      "duration_ms": 186475,
-      "name": "Se Te Olvid\u00f3",
-      "url": "https://open.spotify.com/track/6kviIjZXocJZlfMM7Hy13x"
+      "duration_ms": 168154,
+      "name": "Ni Diabla Ni Santa",
+      "url": "https://open.spotify.com/track/1NncWv7T19isafndpzddUd"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Hoy Dame el Gusto",
+        "url": "https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 192827,
+      "name": "Hoy Dame el Gusto",
+      "url": "https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1495,22 +1511,6 @@
       "duration_ms": 286153,
       "name": "Ven a M\u00ed",
       "url": "https://open.spotify.com/track/3GfABcgtxdYZyNwtiFNfhY"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Ni Diabla Ni Santa",
-        "url": "https://open.spotify.com/album/43RfcDptMd2B5QoC5uhHIr"
-      },
-      "artists": [
-        {
-          "name": "Janine",
-          "url": "https://open.spotify.com/artist/0lu4CrVNwnwEblIqvD5A5z"
-        }
-      ],
-      "duration_ms": 168154,
-      "name": "Ni Diabla Ni Santa",
-      "url": "https://open.spotify.com/track/1NncWv7T19isafndpzddUd"
     },
     {
       "added_at": "2023-04-14 06:00:00",

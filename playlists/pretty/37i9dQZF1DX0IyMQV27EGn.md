@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 
 > A collection of powerful voices and alluring siren songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,090 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,160 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 17 | [Just for Fun](https://open.spotify.com/track/282p28Iff7PicfKaCpbl7F) | [Jillette Johnson](https://open.spotify.com/artist/6k5S1Uz5IvsZDlhiONoBnH) | [Bon Adventure](https://open.spotify.com/album/7EGoVr8xneoTGBwPZTX1Ia) | 3:36 |
 | 18 | [Devil’s Backbone](https://open.spotify.com/track/1XTp9AoHDoCQMmMWH0ch8M) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy) | 2:29 |
 | 19 | [Water Witch](https://open.spotify.com/track/7MW0vSCN9g2T5eConVGEsO) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Saturn Return](https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA) | 3:27 |
-| 20 | [If The World Falls To Pieces](https://open.spotify.com/track/6ocTXpzLe3OaPwuYSq8XgY) | [Young Summer](https://open.spotify.com/artist/2SlMPjZm02pC12ODpApdhB) | [If The World Falls To Pieces](https://open.spotify.com/album/2uw7LYkAs8Flntkk6AnF0v) | 2:46 |
-| 21 | [Ladies](https://open.spotify.com/track/0jH0IsCBGackT3RmHBbSUI) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Fetch The Bolt Cutters](https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj) | 5:25 |
+| 20 | [Ladies](https://open.spotify.com/track/0jH0IsCBGackT3RmHBbSUI) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Fetch The Bolt Cutters](https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj) | 5:25 |
+| 21 | [If The World Falls To Pieces](https://open.spotify.com/track/6ocTXpzLe3OaPwuYSq8XgY) | [Young Summer](https://open.spotify.com/artist/2SlMPjZm02pC12ODpApdhB) | [If The World Falls To Pieces](https://open.spotify.com/album/2uw7LYkAs8Flntkk6AnF0v) | 2:46 |
 | 22 | [Keep Lying \(Demo\)](https://open.spotify.com/track/6jCuYSwolhXm9umvZvv6ko) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Keep Lying \(Demo\)](https://open.spotify.com/album/5KmFgc0v96LnHNmUdTs5WJ) | 4:14 |
 | 23 | [Queen of Disaster](https://open.spotify.com/track/0PyopHInX2qJzsRUKgNnxI) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Queen of Disaster](https://open.spotify.com/album/6hsSgsifs7mkMqLNLf5CpI) | 3:41 |
 | 24 | [Roses/Lotus/Violet/Iris](https://open.spotify.com/track/7DCKlgZuZcljJSlvt8vsZa) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Petals For Armor](https://open.spotify.com/album/4HXpQ5KQBVWN25ltjnX7xa) | 5:21 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 28 | [Over You](https://open.spotify.com/track/49YzZ6c0PalgJNqZSnfJrn) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [POWER](https://open.spotify.com/album/3wZL5NTW9eLvDuYhWhvEPj) | 2:41 |
 | 29 | [How Come You Never Go There](https://open.spotify.com/track/1f4YlPYTV3H3Namp0NvVMp) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Metals](https://open.spotify.com/album/16EdRx2P4PVgZFK53UF3JD) | 3:24 |
 | 30 | [Distrust](https://open.spotify.com/track/4oxBuMPLQxQYVPYOdCOG77) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Hollowed out Sea](https://open.spotify.com/album/6eiWuJTeAfTTlD6jpd766A) | 3:33 |
-| 31 | [Woman Go Wild](https://open.spotify.com/track/020YsiW7gnBiqTAmEg7eTc) | [Pixie Geldof](https://open.spotify.com/artist/2t0wLTcIYFtfsQU0erDjpZ) | [I'm Yours](https://open.spotify.com/album/1W9c669YOTvdVNkp2I5uCr) | 3:58 |
-| 32 | [Habit](https://open.spotify.com/track/2C6VccxGHyESHZMDeTYRRD) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Gabrielle Shonk](https://open.spotify.com/album/0pNGsGr8OQu7ohqCv6KLco) | 4:09 |
+| 31 | [Habit](https://open.spotify.com/track/2C6VccxGHyESHZMDeTYRRD) | [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Gabrielle Shonk](https://open.spotify.com/album/0pNGsGr8OQu7ohqCv6KLco) | 4:09 |
+| 32 | [Woman Go Wild](https://open.spotify.com/track/020YsiW7gnBiqTAmEg7eTc) | [Pixie Geldof](https://open.spotify.com/artist/2t0wLTcIYFtfsQU0erDjpZ) | [I'm Yours](https://open.spotify.com/album/1W9c669YOTvdVNkp2I5uCr) | 3:58 |
 | 33 | [Highway Vagabond](https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:53 |
 | 34 | [Never Want to Be In Love](https://open.spotify.com/track/0KPNkGhDgIpS9wVFi7AiUP) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Never Want to Be In Love](https://open.spotify.com/album/6UJegFNaAiOqZBaTSBtEaQ) | 3:33 |
 | 35 | [Stompa](https://open.spotify.com/track/3zIEvMYvCM0jiszho8jaFH) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Harmony \(Deluxe\)](https://open.spotify.com/album/41GCX8kXBOD5gJbv9d2BD7) | 3:41 |
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IyMQV27EGn.md) - [plain]
 | 58 | [The High Road](https://open.spotify.com/track/4pzFGh9NGkmnaZnFiTAoFb) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [The Soul Sessions, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/5zkhFfJEVeDAIZUMt5evAd) | 4:39 |
 | 59 | [Cannonball \- Acoustic](https://open.spotify.com/track/21TxR8B11XQRg3PTOLZ7PH) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi), [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Cannonball \(Acoustic\)](https://open.spotify.com/album/1EhkXNK9Y9WFGb1s77NFmn) | 4:38 |
 | 60 | [Carry On](https://open.spotify.com/track/3y9NrDzc6IfDQabE38Xw0D) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Roses \(Deluxe Edition\)](https://open.spotify.com/album/4rb0ToWRx0JUKakgtc8VOy) | 3:35 |
-| 61 | [Why’d Ya Do It](https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:37 |
-| 62 | [How Much Does Your Love Cost?](https://open.spotify.com/track/4N68T3KMkvtVIW3F7zsyRQ) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Monsters](https://open.spotify.com/album/6XT1DBUeegngZSSIyErAzm) | 3:52 |
-| 63 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 |
-| 64 | [It's All Okay](https://open.spotify.com/track/6S7kSzXe4dtiQSqqmkM0dD) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [By The Horns](https://open.spotify.com/album/3ZeDSF0GVS6jGFIrxsyjHE) | 3:54 |
-| 65 | [Occasionally](https://open.spotify.com/track/1FSCRLJPXEbBCyxLNkKBdP) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/0YsriZcAj8N6y89yav2GXl) | 3:14 |
+| 61 | [awakening](https://open.spotify.com/track/2acGjBavIqga2mgzoEdhBi) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [awakening](https://open.spotify.com/album/60DamUC9xhmbNm7P0qa0Dz) | 4:14 |
+| 62 | [Why’d Ya Do It](https://open.spotify.com/track/0PWl6yqk7yuEooaJvrpFsY) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Jeremiah / Why’d Ya Do It](https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ) | 3:37 |
+| 63 | [How Much Does Your Love Cost?](https://open.spotify.com/track/4N68T3KMkvtVIW3F7zsyRQ) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Monsters](https://open.spotify.com/album/6XT1DBUeegngZSSIyErAzm) | 3:52 |
+| 64 | [Occasionally](https://open.spotify.com/track/1FSCRLJPXEbBCyxLNkKBdP) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/0YsriZcAj8N6y89yav2GXl) | 3:14 |
+| 65 | [It's All Okay](https://open.spotify.com/track/6S7kSzXe4dtiQSqqmkM0dD) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [By The Horns](https://open.spotify.com/album/3ZeDSF0GVS6jGFIrxsyjHE) | 3:54 |
 | 66 | [Help Yourself](https://open.spotify.com/track/3TfYdDsjNsd6tbzDq79c4Y) | [Bryde](https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU) | [EP1](https://open.spotify.com/album/4c43DIc2ggr7z7zq6nDaju) | 2:58 |
 | 67 | [Hurricane](https://open.spotify.com/track/7GaoWajJQTbulUBl9c9qWF) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Park](https://open.spotify.com/album/4wxLZEYvqJypW5YPky0J3C) | 2:38 |
 | 68 | [Don't Let Me Be Misunderstood](https://open.spotify.com/track/215q7Y9u8n0dqzeQYGjki7) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Don't Let Me Be Misunderstood](https://open.spotify.com/album/1IuiGzv0eSL11hUcqytCdP) | 3:02 |
 | 69 | [Moonlit and Devious](https://open.spotify.com/track/01hcQ2RByLTyvoJ0EuejFA) | [Allie Crow Buckley](https://open.spotify.com/artist/4zWJqtFs82kB6LSMY20ggp) | [Moonlit and Devious](https://open.spotify.com/album/5S9XXlP7dHIcK9mZNnzqAr) | 5:03 |
 | 70 | [Ghost](https://open.spotify.com/track/6UGhHbDZ76PqGR2C9pdWbb) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Human Again](https://open.spotify.com/album/3oFP50clZCAQy3bpI4vyNM) | 4:01 |
 
-Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMDkzMmJiNWFlZTdmMDkxMjM2Njg3NzViNDUyNDA2ZDIw`
+Snapshot ID: `MTY3OTYzMDQwMCwwMDAwMDAwMDdhODY0YmZlODA2NGJlMWU4NjcwNWVkMmUyZTRkMDZh`

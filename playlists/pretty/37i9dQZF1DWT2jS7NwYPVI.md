@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Roe Kapara
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,198 likes - 104 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,324 likes - 104 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 73 | [Beg For The Torture](https://open.spotify.com/track/0DOiFrVWt9hfhF1JWgzKiN) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Beg For The Torture](https://open.spotify.com/album/3xyCcmV6rCwlkn25PSFudQ) | 1:25 |
 | 74 | [what are you waiting for](https://open.spotify.com/track/7ABuh0D0N64p3k9ngs1Ka8) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [WHEN IT'S ALL OVER](https://open.spotify.com/album/77ae55sz3o6xw9kiLBH8Yb) | 3:26 |
 | 75 | [bLeSs uR hEaRt](https://open.spotify.com/track/4bjn7QMGA72zxqEfrm6fpE) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [bLeSs uR hEaRt](https://open.spotify.com/album/16ybJSJV5vWOH4PjmnvWgO) | 3:11 |
-| 76 | [till the day i \_\_\_ \(feat\. LØLØ\)](https://open.spotify.com/track/75kHO3nwCToe6HKMKyBC8R) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd), [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [scared to go to sleep \(deluxe\)](https://open.spotify.com/album/59i3drfYd0zO4OLECmFCPB) | 2:51 |
+| 76 | [till the day i \_\_\_ \(feat\. LØLØ\)](https://open.spotify.com/track/16yizisxGyUGtnbzXx3zIY) | [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd), [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [stab my back \(acoustic\)](https://open.spotify.com/album/7eHk2YdoABTG4hOiTnF6CS) | 2:51 |
 | 77 | [L\-Trip](https://open.spotify.com/track/3wQj6B79bhlBVLzkMLN2im) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [L\-Trip](https://open.spotify.com/album/6PPjJNSpggzj6xyB5ebU5i) | 3:31 |
 | 78 | [im fine, thx 4 asking](https://open.spotify.com/track/4wIz4Lx7BFfGi8E7PzVipV) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [scales](https://open.spotify.com/album/1u6rGG6BDo8bvpcXfhkS8W) | 3:01 |
 | 79 | [don't leave me behind](https://open.spotify.com/track/6tqxGn7fhzxNN2VWtwkYrB) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [don't leave me behind](https://open.spotify.com/album/4rwhEsCVR9FbY9yxXfjEA8) | 3:08 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 103 | [Flood Into](https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Flood Into](https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE) | 3:01 |
 | 104 | [my apartment](https://open.spotify.com/track/5xM66YoPHW9XQTEFrpQlK4) | [James Droll](https://open.spotify.com/artist/3lPtB78D5puSWQ7ltAafQw), [carobae](https://open.spotify.com/artist/2HysMkOtaumKooHYAlE7wd) | [my apartment](https://open.spotify.com/album/5hPKVtotgBGsoK6eTWvl8w) | 2:40 |
 
-Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMGQ3ZGY2ZTNjN2UyZGNkNzlkZDk5MzgzMjdkZGY1YTE2`
+Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMGJiNTU3MDVlZThiZWNmZDU3M2JiODA0NjAzOTFlMjg2`

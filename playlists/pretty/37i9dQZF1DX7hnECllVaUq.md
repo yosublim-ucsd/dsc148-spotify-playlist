@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 
 > The biggest hits from country artists around the globe\. Cover: Luke Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,872 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,187 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 51 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 |
 | 52 | [In Case You Didn't Know](https://open.spotify.com/track/10M2Ex445zw585Ducldzkw) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:44 |
 | 53 | [Lady May](https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:03 |
-| 54 | [Heart Like A Truck](https://open.spotify.com/track/5ZCjp56T8J6d7amJyFSzrI) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Heart Like A Truck](https://open.spotify.com/album/5NRfYTHlDOZ9poFHN2pVQo) | 3:19 |
-| 55 | [Play It Again](https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Crash My Party](https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB) | 3:46 |
+| 54 | [Play It Again](https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Crash My Party](https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB) | 3:46 |
+| 55 | [Heart Like A Truck](https://open.spotify.com/track/5ZCjp56T8J6d7amJyFSzrI) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Heart Like A Truck](https://open.spotify.com/album/5NRfYTHlDOZ9poFHN2pVQo) | 3:19 |
 | 56 | [Rodeo Queen](https://open.spotify.com/track/7zLmOXHzhuYlDpez5bAWmm) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Rodeo Queen](https://open.spotify.com/album/16s1YAqpcHWpPurb7T2Wli) | 3:02 |
 | 57 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Blue In The Sky](https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi) | 2:50 |
 | 58 | [23](https://open.spotify.com/track/2ixkIrn45mNfdLDLHuyfRt) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [23](https://open.spotify.com/album/2iooIm9txIXCow2rvSg7Aa) | 3:48 |
@@ -94,14 +94,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 84 | [SAME SONGS](https://open.spotify.com/track/0nEWAK1WHWThcDJJOxwwWb) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1), [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [SAME SONGS](https://open.spotify.com/album/0ZSrpmlrCc6n8MHRpTlx1r) | 2:47 |
 | 85 | [Got Your Name On It](https://open.spotify.com/track/5hRyy1AIJMc5wyizJcSIEa) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Jade Eagleson](https://open.spotify.com/album/5RKUuRB0ardN0FfTxNil1w) | 3:09 |
 | 86 | [Last Time Last](https://open.spotify.com/track/09pr49bPWb2OKkDSvxKn2s) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu), [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Last Time Last](https://open.spotify.com/album/0N4b2e4iIY4uIKUI7kikks) | 3:03 |
-| 87 | [Make You Mine](https://open.spotify.com/track/5o9LteJdhkA3ndUDz4JVfV) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Dear Life](https://open.spotify.com/album/0OYe3l0I2Crach4c9dOr4N) | 3:31 |
-| 88 | [Sweet Spot](https://open.spotify.com/track/1HlR2cBtUy2euEdltt7Cdz) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Sweet Spot](https://open.spotify.com/album/0jGTPi4YLdLW42KjT9IDKY) | 2:54 |
+| 87 | [Sweet Spot](https://open.spotify.com/track/1HlR2cBtUy2euEdltt7Cdz) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [Sweet Spot](https://open.spotify.com/album/0jGTPi4YLdLW42KjT9IDKY) | 2:54 |
+| 88 | [Make You Mine](https://open.spotify.com/track/5o9LteJdhkA3ndUDz4JVfV) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Dear Life](https://open.spotify.com/album/0OYe3l0I2Crach4c9dOr4N) | 3:31 |
 | 89 | [High Time](https://open.spotify.com/track/31fVD0q2ooBFCa2DT3PjBr) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [High Time](https://open.spotify.com/album/00neLJxSSvcyqcy97jviyn) | 3:54 |
 | 90 | [Whiskey To My Soul](https://open.spotify.com/track/7pSr5TCyEHPPRTXJNAtkNz) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Whiskey To My Soul](https://open.spotify.com/album/7pMY78paFqxpkhTAUanWWb) | 3:45 |
 | 91 | [GOT IT GOOD](https://open.spotify.com/track/4oB0UYdwmvEzwAtJa8D3pF) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [GOT IT GOOD](https://open.spotify.com/album/6YTjgeiAZe31mPENUnSsqF) | 2:53 |
 | 92 | [What The Truck](https://open.spotify.com/track/2W49YPwZNSwtbTzIqO5dMt) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u), [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [What The Truck](https://open.spotify.com/album/41lFKChrp5p5NKxsW6exdG) | 2:24 |
-| 93 | [Good Beer](https://open.spotify.com/track/78S1U4SYfjUKhJ2CbCsixJ) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What I Get for Loving You](https://open.spotify.com/album/3uYGwz0SDYcgE6NkHojO8Q) | 2:54 |
-| 94 | [She's with Me](https://open.spotify.com/track/2p2cCrOaNrIOLk5ArtlHy6) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Dear Life](https://open.spotify.com/album/0OYe3l0I2Crach4c9dOr4N) | 3:00 |
+| 93 | [She's with Me](https://open.spotify.com/track/2p2cCrOaNrIOLk5ArtlHy6) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [Dear Life](https://open.spotify.com/album/0OYe3l0I2Crach4c9dOr4N) | 3:00 |
+| 94 | [Good Beer](https://open.spotify.com/track/78S1U4SYfjUKhJ2CbCsixJ) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG), [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What I Get for Loving You](https://open.spotify.com/album/3uYGwz0SDYcgE6NkHojO8Q) | 2:54 |
 | 95 | [Small Town Friday Nights](https://open.spotify.com/track/4NkGmYoyhZ8qsJILRd5QSV) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Small Town Friday Nights](https://open.spotify.com/album/1q499514mNBWntSo9j1n5i) | 3:03 |
 | 96 | [You Got The Wrong Guy](https://open.spotify.com/track/3FUDLDCQE8mWmCcqfbNAxs) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [You Got The Wrong Guy](https://open.spotify.com/album/67TFoSRLeIglLfpPAza68B) | 3:00 |
 | 97 | [Bar Stool](https://open.spotify.com/track/3BXXeeDb5cRoU8ltoBSwZL) | [Zac & George](https://open.spotify.com/artist/7iRcNlPUgLcb7ypcVzSOCh) | [Bar Stool](https://open.spotify.com/album/0SjN1060n5MWfmGaveIxx0) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 99 | [Note To Self](https://open.spotify.com/track/5X9XUK9LZTAUO9wuqYLp4N) | [Abby Christo](https://open.spotify.com/artist/0aE69mf1NjsaqZzXsoo4qH) | [Note To Self](https://open.spotify.com/album/6KDINvcBPKMM9irLEM1nV2) | 3:13 |
 | 100 | [Trust Issues](https://open.spotify.com/track/7FkaQnc8Gyd2hMpiDQrSsO) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Trust Issues](https://open.spotify.com/album/3tzlw58Anr8ZfQHqMn5lAt) | 3:23 |
 
-Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDBiYTY4MDQ2OTNkYzNhN2Y3NDBiZmIxNTVkNjBmMTNj`
+Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDhkNDBhMGNkZTAyOGNlOWEwYTdiMzA2Mzg3ODRkMWQ4`

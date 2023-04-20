@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 
 > Bluesy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,134 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,141 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,16 +26,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 16 | [Wolves](https://open.spotify.com/track/2oLo4vGUIP3eJ9T001keTu) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 2:55 |
 | 17 | [That's Alright](https://open.spotify.com/track/1jRIILpPBwSVssnrXGV5hS) | [Fab Samperi](https://open.spotify.com/artist/2ZX9eBv3ycTNpZrWMRtWte), [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [Moonshine Crossroads](https://open.spotify.com/album/3XRHSUCqQBeIncHpIecSQG) | 2:41 |
 | 18 | [A Blues Malfunktion](https://open.spotify.com/track/5Ce88giAKr6fK4wj5wztGw) | [Beat Fatigue](https://open.spotify.com/artist/02m3zUZ22DsQCXQsjjSCwQ) | [Malfunktionality Part One](https://open.spotify.com/album/0kwv8HIDkVZ5yXaUhtiMh2) | 4:18 |
-| 19 | [I'm Back With Trouble](https://open.spotify.com/track/61VHo7IoMJhIMgaYPvG6gk) | [Thomas Vent](https://open.spotify.com/artist/7qh7VUg1GOWzb1DklOkwBd) | [I'm Back With Trouble](https://open.spotify.com/album/5YufvnETZxSN5wb3Q9sEqn) | 3:18 |
-| 20 | [Black Blood](https://open.spotify.com/track/3xQSVngL4OJu5RXAchFQPm) | [R3YAN](https://open.spotify.com/artist/6oRmvag0pQojcoSnLNsZel), [Lukasoprom](https://open.spotify.com/artist/3d8NwLM2U7JYt2H97W5ls1), [Like Lions](https://open.spotify.com/artist/5E8xNHdbVoxGqLd4SAMgKo) | [Black Blood](https://open.spotify.com/album/1455tyjIuvboNbV6mAYSiZ) | 2:26 |
+| 19 | [Black Blood](https://open.spotify.com/track/3xQSVngL4OJu5RXAchFQPm) | [R3YAN](https://open.spotify.com/artist/6oRmvag0pQojcoSnLNsZel), [Lukasoprom](https://open.spotify.com/artist/3d8NwLM2U7JYt2H97W5ls1), [Like Lions](https://open.spotify.com/artist/5E8xNHdbVoxGqLd4SAMgKo) | [Black Blood](https://open.spotify.com/album/1455tyjIuvboNbV6mAYSiZ) | 2:26 |
+| 20 | [I'm Back With Trouble](https://open.spotify.com/track/61VHo7IoMJhIMgaYPvG6gk) | [Thomas Vent](https://open.spotify.com/artist/7qh7VUg1GOWzb1DklOkwBd) | [I'm Back With Trouble](https://open.spotify.com/album/5YufvnETZxSN5wb3Q9sEqn) | 3:18 |
 | 21 | [Shake 'Em on Down](https://open.spotify.com/track/1yxCax1l0O8p3lik3WvamC) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [A Bothered Mind](https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm) | 3:29 |
 | 22 | [Tale of A.G\. Smith](https://open.spotify.com/track/5aurQvInAVl4pdWzCXvlWM) | [Charlie Beale](https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o) | [Deja Booze](https://open.spotify.com/album/7Lt0wInlc4Axf66ch2WyD2) | 3:37 |
 | 23 | [Stand Together \- Original Mix](https://open.spotify.com/track/2C2G0ZtrQhBa9X6XcbWRH4) | [Jamie Berry](https://open.spotify.com/artist/5sM4cZ9MHihs0tbmkiE9n8), [Paul Naylor](https://open.spotify.com/artist/5oIDnYdFJFobh1AMGFdfm5) | [This Is For Everyone](https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7) | 4:15 |
-| 24 | [Grave](https://open.spotify.com/track/1wBICiJNPP9gj6o5nEPHfT) | [Thomas Vent](https://open.spotify.com/artist/7qh7VUg1GOWzb1DklOkwBd) | [Grave](https://open.spotify.com/album/7mJKH7MLlY9AlGaIMUf8Bl) | 4:03 |
+| 24 | [Levee & Brick \(Down to This\)](https://open.spotify.com/track/6WxajU4Opat66UtnzNB4Tw) | [Graffiti Ghosts](https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu) | [Levee & Brick \(Down to This\)](https://open.spotify.com/album/7o206PovXPtuMfN1TZZ6R4) | 2:46 |
 | 25 | [The Fire](https://open.spotify.com/track/5Opv3rAPRL93wJ9yXGJPiM) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human \(Deluxe\)](https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng) | 3:42 |
 | 26 | [Code Name Loppsi \- My Lowd demo](https://open.spotify.com/track/2oyCx8VFX4bVV7IeLKz1wh) | [Scarecrow](https://open.spotify.com/artist/4c4n12jAnviXAyqzsyRCLT) | [The Well](https://open.spotify.com/album/7mOXwktqE2HJ8EjBnfnBhQ) | 4:13 |
-| 27 | [Levee & Brick \(Down to This\)](https://open.spotify.com/track/6WxajU4Opat66UtnzNB4Tw) | [Graffiti Ghosts](https://open.spotify.com/artist/5pXlwkidD4qQEiaE8MaDOu) | [Levee & Brick \(Down to This\)](https://open.spotify.com/album/7o206PovXPtuMfN1TZZ6R4) | 2:46 |
-| 28 | [The Edge](https://open.spotify.com/track/3LeZw3OUMipFN0x2jR6MjQ) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg), [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [The Edge](https://open.spotify.com/album/2ZSbjxZO8hHDiJoz54E6Ix) | 3:45 |
+| 27 | [The Edge](https://open.spotify.com/track/3LeZw3OUMipFN0x2jR6MjQ) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg), [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [The Edge](https://open.spotify.com/album/2ZSbjxZO8hHDiJoz54E6Ix) | 3:45 |
+| 28 | [Grave](https://open.spotify.com/track/1wBICiJNPP9gj6o5nEPHfT) | [Thomas Vent](https://open.spotify.com/artist/7qh7VUg1GOWzb1DklOkwBd) | [Grave](https://open.spotify.com/album/7mJKH7MLlY9AlGaIMUf8Bl) | 4:03 |
 | 29 | [Stick Em Up](https://open.spotify.com/track/2s9BHqNHVkbhYCbE5tAMre) | [Charlie Beale](https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o), [Grid Division](https://open.spotify.com/artist/31FlFpZXSwN205IxaKG6nt) | [Stick Em Up](https://open.spotify.com/album/04MfaVUENsXSnNaY99YYCk) | 3:56 |
 | 30 | [Shuck Dub](https://open.spotify.com/track/7lNr4eqSP7MCUCbDUGHWRo) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [Come on In](https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ) | 4:28 |
 | 31 | [Sunroof Diesel Blues](https://open.spotify.com/track/2dymAGQ2kTrnNDbL2xcvDr) | [MY BABY](https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm) | [Prehistoric Rhythm](https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZprlljz35Gr.md) - [plain]
 | 49 | [Hurricane](https://open.spotify.com/track/3NcNF2tvTqGgnHkhqNK8cX) | [Mississippi Big Beat](https://open.spotify.com/artist/430DMjWZpbtg2tt64FynYH) | [Delta Disco](https://open.spotify.com/album/3SDDZMhIy357UN63KjpJP8) | 4:15 |
 | 50 | [Can't Help Myself \- E\-Z Rollers Remix](https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j), [E\-Z Rollers](https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl) | [A Different Beat](https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx) | 12:18 |
 
-Snapshot ID: `MTY3OTAyNTY2MCwwMDAwMDAwMGQ3Zjc2ZWNjNTUzOWNhNTA2NjQzYzUyODA1OWY5ZWY3`
+Snapshot ID: `MTY3OTAyNTY2MCwwMDAwMDAwMGQ0YzAzNzhhZTlmM2Q4MDZjODI1MzM4Mjk3NTdjMDk0`

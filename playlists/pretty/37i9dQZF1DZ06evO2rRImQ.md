@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 
 > This is Banda Los Recoditos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,050 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,090 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 23 | [Quisiera Saber](https://open.spotify.com/track/3K4HDf1v1l3g0QvMbBPyWW) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Quisiera Saber](https://open.spotify.com/album/1YLA1QkbnzgXWkD5TkCDs7) | 3:19 |
 | 24 | [Esta Va Por Ti](https://open.spotify.com/track/1bkcIokOXvuIoKK9YNIx0m) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 3:20 |
 | 25 | [Al Rescate](https://open.spotify.com/track/6RYkjZLxo7xZSR9LNr57K9) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 2:33 |
-| 26 | [Sin Autorización](https://open.spotify.com/track/5Seo17jmxBLqd0Hl1MidjC) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Para Ti Solita](https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe) | 3:17 |
-| 27 | [Eres Difícil](https://open.spotify.com/track/2ocArDj3UeIwT12lHlZd7D) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [A Toda Madre](https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy) | 2:30 |
+| 26 | [Eres Difícil](https://open.spotify.com/track/2ocArDj3UeIwT12lHlZd7D) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [A Toda Madre](https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy) | 2:30 |
+| 27 | [Sin Autorización](https://open.spotify.com/track/5Seo17jmxBLqd0Hl1MidjC) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Para Ti Solita](https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe) | 3:17 |
 | 28 | [Elegiste Un Error](https://open.spotify.com/track/7kmrbuDn7yI4t0VoHIV9PR) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 2:56 |
 | 29 | [Tacones Rojos \- Versión Banda](https://open.spotify.com/track/2FQU2RwRs9dBzp27a8zaSL) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Tacones Rojos \(Versión Banda\)](https://open.spotify.com/album/6oDVmxBdleet63McEWxnRh) | 3:11 |
 | 30 | [La Baraja](https://open.spotify.com/track/1iq9EbjK0nWVdGmbCvXFV3) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [La Baraja](https://open.spotify.com/album/0WeABPJfCiAM9DSAetL8CR) | 2:55 |
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 35 | [Tiempo](https://open.spotify.com/track/37XW5aASeeNbt0OyIJfMIk) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 2:54 |
 | 36 | [El Cigarrito](https://open.spotify.com/track/4jxhkcdt00M3Iy5dH9fQfw) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 2:58 |
 | 37 | [Es Bonito](https://open.spotify.com/track/37yaX9Lb6lelIodevWgR9T) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Vengo A Decirte](https://open.spotify.com/album/0CnvKmPlj5MYRyWySTAODw) | 2:58 |
-| 38 | [Que A Toda Madre \(Que A Todo Dar\)](https://open.spotify.com/track/2Av3o4sAszUWUS6WAEsXij) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [A Toda Madre](https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy) | 2:12 |
+| 38 | [Voy A Pistear](https://open.spotify.com/track/3htX61NfCT8CGg6m0VFoUJ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [A Toda Madre](https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy) | 2:21 |
 | 39 | [Morras De Acción](https://open.spotify.com/track/6Kbf0AabdaT73J54MwKswQ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Sueño XXX](https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR) | 2:27 |
 | 40 | [Cuando Me Importabas](https://open.spotify.com/track/2SbrBJ7ueAZ4iGYHTf21HU) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Vivir La Vida](https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF) | 3:22 |
 | 41 | [Ya No Tiene Caso](https://open.spotify.com/track/4NSisaKfhQhg14T4T088oW) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 3:07 |
-| 42 | [Voy A Pistear](https://open.spotify.com/track/3htX61NfCT8CGg6m0VFoUJ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [A Toda Madre](https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy) | 2:21 |
+| 42 | [Que A Toda Madre \(Que A Todo Dar\)](https://open.spotify.com/track/2Av3o4sAszUWUS6WAEsXij) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [A Toda Madre](https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy) | 2:12 |
 | 43 | [Me Siento A Todo Dar](https://open.spotify.com/track/4UkEbKZ1YbtDnrLGWXp0LJ) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Siento A Todo Dar](https://open.spotify.com/album/54uGnanbGdJIINnc3U3Clx) | 2:13 |
 | 44 | [Llorando En Un Carro Del Año](https://open.spotify.com/track/4OfIidHHKBPT32ZJpN8m6T) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Llorando En Un Carro Del Año](https://open.spotify.com/album/18XHmgKEQKh4EwxqHDAJNM) | 2:28 |
 | 45 | [Una Peda Con El Viejo](https://open.spotify.com/track/21hGjxRr4AKTmHsh84ayOw) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Una Peda Con El Viejo](https://open.spotify.com/album/06veMmIctzxEgh8oubKTUX) | 2:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 49 | [Para Qué Me Las Diste](https://open.spotify.com/track/7AyxD2OecOyvIlByUY0Kvz) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Para Qué Me Las Diste](https://open.spotify.com/album/5wgOVJ9KTVFbhau9ppTj80) | 3:34 |
 | 50 | [Di](https://open.spotify.com/track/3oS01WFEINphPVTxcala2x) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Di](https://open.spotify.com/album/6VuPsmLx3cksABLrjHrjY5) | 2:58 |
 
-Snapshot ID: `MjgwMzAzOTAsMDAwMDAwMDBhODY0NzJmZDUwMzk1YWZjZWU4N2E4ZDFhYTcwYjRmNA==`
+Snapshot ID: `MjgwMzE3ODQsMDAwMDAwMDAxZjZkOWRiZDhhZWZhNDAxMDBiNmE3MDU1NTY3MGIyMg==`

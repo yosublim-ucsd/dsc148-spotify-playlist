@@ -1,12 +1,12 @@
 {
   "description": "remember when we were dark and brooding. Cover: V\u00c9RIT\u00c9\n",
-  "num_followers": 8141,
+  "num_followers": 8231,
   "original_name": "bitter/sweet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDViMTExMDc3ODY5NDgzNGE4YzhhMDhlMzViNmY3Zjcz",
+  "snapshot_id": "MTY3ODQyNDQwMCwwMDAwMDAwMDE0N2U0MjhiOWE3MDViYTZiNTdlOWE0OTc1NjczM2Qz",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-01-05 16:59:25",
       "album": {
-        "name": "Salvation",
-        "url": "https://open.spotify.com/album/751bmMkkdlXg6wRtVnAKyn"
-      },
-      "artists": [
-        {
-          "name": "Evalyn",
-          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
-        }
-      ],
-      "duration_ms": 221052,
-      "name": "A Pill to Crush",
-      "url": "https://open.spotify.com/track/7auPqljdHNJQdfGmoIJv8T"
-    },
-    {
-      "added_at": "2023-01-05 16:59:25",
-      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/6rHYThgzzhcHFMTLCdKIp7"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 233076,
       "name": "Somebody Else",
       "url": "https://open.spotify.com/track/4sQAUIV88jrWg3I2cjBckE"
+    },
+    {
+      "added_at": "2023-01-05 16:59:25",
+      "album": {
+        "name": "Salvation",
+        "url": "https://open.spotify.com/album/751bmMkkdlXg6wRtVnAKyn"
+      },
+      "artists": [
+        {
+          "name": "Evalyn",
+          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
+        }
+      ],
+      "duration_ms": 221052,
+      "name": "A Pill to Crush",
+      "url": "https://open.spotify.com/track/7auPqljdHNJQdfGmoIJv8T"
     },
     {
       "added_at": "2023-01-05 16:59:25",

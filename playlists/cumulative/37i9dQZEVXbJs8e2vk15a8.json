@@ -5214,7 +5214,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 225319,
       "name": "Fall in luv",
       "url": "https://open.spotify.com/track/6EiVtwnD7dpfXkgkw5XPIQ"
@@ -8984,7 +8984,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 213920,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
@@ -13103,6 +13103,24 @@
     },
     {
       "album": {
+        "name": "Pobre Coraz\u00f3n (En vivo)",
+        "url": "https://open.spotify.com/album/76vyJ5BEey5rKrDglOfkpV"
+      },
+      "artists": [
+        {
+          "name": "Music Factory",
+          "url": "https://open.spotify.com/artist/7xj1YIDzHU6vkUwP76NEyx"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198468,
+      "name": "Pobre Coraz\u00f3n - En vivo",
+      "url": "https://open.spotify.com/track/6UsuNAY6rB2LMD4NPMK9lF"
+    },
+    {
+      "album": {
         "name": "IM NAYEON",
         "url": "https://open.spotify.com/album/7yePounUspaQfanDsw6nI0"
       },
@@ -16648,7 +16666,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 167786,
       "name": "TOUT LA NOCHE",
       "url": "https://open.spotify.com/track/5heSBtfl8BQoOarSrxs3Ln"

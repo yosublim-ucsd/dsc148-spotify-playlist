@@ -1,12 +1,12 @@
 {
   "description": "Some of the worlds most beautiful love songs.",
-  "num_followers": 2008731,
+  "num_followers": 2009553,
   "original_name": "Love Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzU3ODgyNiwwMDAwMDAwMDgyZDBhMDUxMGRmZDkxZjNkNzAwNzY1ZWY5NmYwZDNk",
+  "snapshot_id": "MTY3NzU3ODgyNiwwMDAwMDAwMDQ1OTYxNDkyZDFlMDI3NTdjOTYxZGNiOGJhMTdjZDRk",
   "tracks": [
     {
       "added_at": "2022-12-02 12:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "The Singles (Expanded)",
-        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
-      "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Cross Road",
         "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 353026,
       "name": "Always",
       "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "The Singles (Expanded)",
+        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 206360,
+      "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
+      "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "As I Am (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
-      },
-      "artists": [
-        {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        }
-      ],
-      "duration_ms": 253813,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "How Can You Mend A Broken Heart",
-        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
+        "name": "As I Am (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 241093,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/3ZP18us6p6LHOZMG1LLUjF"
+      "duration_ms": 253813,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/6IwKcFdiRQZOWeYNhUiWIv"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -871,6 +855,22 @@
       "duration_ms": 334106,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "How Can You Mend A Broken Heart",
+        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 241093,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/3ZP18us6p6LHOZMG1LLUjF"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Solitude / Solitaire",
-        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
-      },
-      "artists": [
-        {
-          "name": "Peter Cetera",
-          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Glory of Love",
-      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Before You",
         "url": "https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 187940,
       "name": "Before You",
       "url": "https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Solitude / Solitaire",
+        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
+      },
+      "artists": [
+        {
+          "name": "Peter Cetera",
+          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Glory of Love",
+      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1329,22 +1329,6 @@
       "url": "https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ"
     },
     {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 290573,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
-    },
-    {
       "added_at": "2023-02-28 10:07:06",
       "album": {
         "name": "Dan + Shay",
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Last of the Independents",
-        "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
       },
       "artists": [
         {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 240760,
-      "name": "I'll Stand by You",
-      "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
+      "duration_ms": 290573,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1391,6 +1375,22 @@
       "duration_ms": 242266,
       "name": "Back for Good - Radio Mix",
       "url": "https://open.spotify.com/track/6vcdzohhBSbNdsZBh5IRpQ"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Last of the Independents",
+        "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 240760,
+      "name": "I'll Stand by You",
+      "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
     },
     {
       "added_at": "2022-12-13 13:28:08",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Lovers Rock",
-        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 274933,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "The Colour Of My Love",
         "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 342400,
       "name": "The Power of Love",
       "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Lovers Rock",
+        "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 274933,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Lonely Grill",
-        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
-      },
-      "artists": [
-        {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
-        }
-      ],
-      "duration_ms": 240866,
-      "name": "Amazed",
-      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Love Always",
         "url": "https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 331240,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Lonely Grill",
+        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
+      },
+      "artists": [
+        {
+          "name": "Lonestar",
+          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+        }
+      ],
+      "duration_ms": 240866,
+      "name": "Amazed",
+      "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
         "name": "3 (The Purple Album)",
         "url": "https://open.spotify.com/album/02gV87QEIFp2T9q7OqVBjj"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 278746,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/5AnCLGg35ziFOloEnXK4uu"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/6fQ1xPtYMzoBiqvSO2LcpT"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/7krbSH3rd8lhIZvuzTV3Bl"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 291400,
-      "name": "Greatest Love of All",
-      "url": "https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 219493,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/3f3omU8n47Mqyab5nCaGyT"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 291400,
+      "name": "Greatest Love of All",
+      "url": "https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu"
     },
     {
       "added_at": "2022-12-02 12:00:00",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2022-12-02 12:00:00",
       "album": {
-        "name": "Paid Vacation",
-        "url": "https://open.spotify.com/album/4Rrm9Du0htwyux1jNjsYCx"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "Now And Forever",
-      "url": "https://open.spotify.com/track/2V2pxcEfn5zs79sE7qcewA"
-    },
-    {
-      "added_at": "2022-12-02 12:00:00",
-      "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 284760,
       "name": "This I Promise You",
       "url": "https://open.spotify.com/track/46n2EGFnPC3tzWCN1Aqe26"
+    },
+    {
+      "added_at": "2022-12-02 12:00:00",
+      "album": {
+        "name": "Paid Vacation",
+        "url": "https://open.spotify.com/album/4Rrm9Du0htwyux1jNjsYCx"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 214826,
+      "name": "Now And Forever",
+      "url": "https://open.spotify.com/track/2V2pxcEfn5zs79sE7qcewA"
     },
     {
       "added_at": "2022-12-02 12:00:00",

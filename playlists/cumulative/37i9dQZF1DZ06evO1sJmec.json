@@ -268,10 +268,28 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 240333,
       "name": "Don't Tread On Me",
       "url": "https://open.spotify.com/track/2b7r6fN91KiHnp00aqHZ7x"
+    },
+    {
+      "album": {
+        "name": "Metallica (Remastered)",
+        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240160,
+      "name": "Don't Tread on Me (Remastered)",
+      "url": "https://open.spotify.com/track/0u9ORuO4xOQY5SHxNcvCnV"
     },
     {
       "album": {
@@ -816,7 +834,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 333706,
       "name": "Room of Mirrors",
       "url": "https://open.spotify.com/track/3L82LuRzu60EPSK1yf5Pxr"
@@ -852,10 +870,28 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 330453,
       "name": "Screaming Suicide",
       "url": "https://open.spotify.com/track/0dwoX2gsjlRNa3rS40KFhQ"
+    },
+    {
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330453,
+      "name": "Screaming Suicide",
+      "url": "https://open.spotify.com/track/2hBn08QphNtdnhwDNtnZMg"
     },
     {
       "album": {
@@ -1144,7 +1180,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 244066,
       "name": "Trapped Under Ice - Remastered",
       "url": "https://open.spotify.com/track/3J8jTThxk8GtxyoupHtyrb"

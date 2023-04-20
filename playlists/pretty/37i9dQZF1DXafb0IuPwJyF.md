@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover:  YOASOBI
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,300 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 770,037 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 12 | [boy \- feat\. asmi & imase](https://open.spotify.com/track/5ZpYanxEoJRJjfWJORq2Jf) | [KERENMI](https://open.spotify.com/artist/2vieV6ozoaMtYS6QsuScfn), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [boy \(feat\. asmi & imase\)](https://open.spotify.com/album/3hAkBmRP4YFi2wappHJ4ps) | 3:14 |
 | 13 | [窓の中から](https://open.spotify.com/track/0R96nqU10shRzLcbpPiNA7) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [窓の中から](https://open.spotify.com/album/76Mm0RzfJr1jYsI1W33SHd) | 6:39 |
 | 14 | [名前は片想い](https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [名前は片想い](https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9) | 3:33 |
-| 15 | [都落ち](https://open.spotify.com/track/3PPiVAQnUOQ2w0EcpxJhIK) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [幻燈](https://open.spotify.com/album/4LBtT0FZ3JMjbklNwnW0Ms) | 4:10 |
+| 15 | [チノカテ](https://open.spotify.com/track/7HIfg6iQgXkVEUMHAAXW2d) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [幻燈](https://open.spotify.com/album/4LBtT0FZ3JMjbklNwnW0Ms) | 4:07 |
 | 16 | [そんなbitterな話](https://open.spotify.com/track/4QlSFkbRxZWkHDF1MqBaEY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [そんなbitterな話](https://open.spotify.com/album/0ssYbSrcAHMWk2EijQAKTP) | 4:36 |
 | 17 | [モンスター \(feat\. yama\)](https://open.spotify.com/track/09gBx310Z7KnMI5LdB3fDl) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [モンスター \(feat\. yama\)](https://open.spotify.com/album/4EQUcmmhgMy6Aolbr4UdPL) | 4:23 |
 | 18 | [ビリミリオン](https://open.spotify.com/track/7M0dIdZWN1FDcveRdoOzbZ) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [弐](https://open.spotify.com/album/6ClMd4vNeZ6cmrRNmOqAoY) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [DOCUMENT \- 2023](https://open.spotify.com/track/2FqaGBqrOpcz2gahQgaeDg) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [DOCUMENT \(2023\)](https://open.spotify.com/album/6VbZ7Sm3BLIRfPeAwr5X69) | 4:38 |
 | 50 | [Nemuranaideyo feat\. Ikuko Harada](https://open.spotify.com/track/0BWxTiFYuAoJSxDnHUs4UZ) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR), [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [Nemuranaideyo feat\. Ikuko Harada](https://open.spotify.com/album/21wUhU2axAMTJWEaREHo1g) | 4:17 |
 
-Snapshot ID: `MTY4MTY1NzIwMCwwMDAwMDAwMDg1NzIxMDc5NjYyOGRhYmZkZTNlNjgxY2M4OGFlMjdm`
+Snapshot ID: `MTY4MTkxNjYxNywwMDAwMDAwMDkwNjllZmZiZTE4YmY2OGFhYzk2OTBkZTg3YmQwOWZm`

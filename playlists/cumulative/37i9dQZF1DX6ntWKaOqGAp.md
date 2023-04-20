@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: RADWIMPS
 
-349 songs - 22 hr 10 min
+352 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [GOLD](https://open.spotify.com/track/1ZsZk1y1FF25JXT0ojTz2X) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [GOLD](https://open.spotify.com/album/7v69KT4HpLt7PGURrj1kOI) | 3:36 | 2023-04-13 |  |
 | [golden drop](https://open.spotify.com/track/4skcyviAmJy1Ipf9kDcWxK) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [golden drop](https://open.spotify.com/album/6J7appOuXxe42HB9KhAl4k) | 1:24 | 2023-02-28 | 2023-04-05 |
 | [Gominingen,Ore](https://open.spotify.com/track/3X3MJOy234znJI7iOLBaL9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:49 | 2023-03-14 |  |
+| [Goodbye](https://open.spotify.com/track/3ZZAlk3bOrKA1KcXPJjSWW) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Goodbye / Tumbler](https://open.spotify.com/album/4VI6wFz5KdUsuaU3f5cCZl) | 1:53 | 2023-04-19 |  |
 | [Hard Pool](https://open.spotify.com/track/4WVOYJcZi5QhrBVp7sSelj) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hard Pool](https://open.spotify.com/album/6iTuwCBoK9AHf5EaOAVDoo) | 4:36 | 2023-01-13 | 2023-02-22 |
 | [HATTRICK](https://open.spotify.com/track/6tgLnBslUVX2apmvldgeWA) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [HATTRICK](https://open.spotify.com/album/5dONNIptEMeCibDxVp7qly) | 1:49 | 2023-04-04 | 2023-04-19 |
 | [hellsong\. \(let it in\)](https://open.spotify.com/track/44c8cYVjTFqJ5Yj6WyjMSQ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [hellsong\. \(let it in\)](https://open.spotify.com/album/25BaXSn7LKFdhareEiMpjb) | 3:05 | 2023-03-28 |  |
@@ -82,9 +83,10 @@
 | [I Don't Wanna Be You](https://open.spotify.com/track/1W2JZ582u23ihurEPQPjqB) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [FLOWERS](https://open.spotify.com/album/5nSKf0TUKnosCEBuLJPcVC) | 2:45 | 2023-01-13 | 2023-02-15 |
 | [I said](https://open.spotify.com/track/33SCGoTFEjkI5AQHPuZJRh) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [I said](https://open.spotify.com/album/0y7mtkJtXVcLQYBZKPf1Sp) | 4:22 | 2023-02-28 | 2023-04-05 |
 | [I was...](https://open.spotify.com/track/6UCGqwTZ85Fm7wlgMjn6Er) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [I was...](https://open.spotify.com/album/3n1foH2tPnogPeYPafLeCY) | 3:03 | 2023-03-16 | 2023-04-12 |
+| [I'm A Rat](https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'm A Rat](https://open.spotify.com/album/7E7uf3z4a1ijeLMTX841vE) | 2:04 | 2023-04-19 |  |
 | [Ima Wo Ikirunoda.](https://open.spotify.com/track/2TfgEnBBdBvQl7fdMX1Nqy) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Ima Wo Ikirunoda.](https://open.spotify.com/album/27P7OClUEHrPiybgPxdA7y) | 4:34 | 2023-01-13 | 2023-02-01 |
 | [innocent arrogance](https://open.spotify.com/track/7JgBlEV4AbeHVhaTczGdTg) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [innocent arrogance](https://open.spotify.com/album/1VoA8bMAIB5BRjSMqaFQkP) | 3:31 | 2023-04-06 |  |
-| [Journey](https://open.spotify.com/track/1k7idRCVXSQCDoE9de5ixM) | [Czecho No Republic](https://open.spotify.com/artist/1FdojLtbHge9K5DlOsHrkd) | [Journey](https://open.spotify.com/album/6XiWEl4R6EDfOuug8Pc5GU) | 4:12 | 2023-03-23 |  |
+| [Journey](https://open.spotify.com/track/1k7idRCVXSQCDoE9de5ixM) | [Czecho No Republic](https://open.spotify.com/artist/1FdojLtbHge9K5DlOsHrkd) | [Journey](https://open.spotify.com/album/6XiWEl4R6EDfOuug8Pc5GU) | 4:12 | 2023-03-23 | 2023-04-20 |
 | [Just Be Alive](https://open.spotify.com/track/4OpfbKpEcLBFDFR5084S8q) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Not Unusual](https://open.spotify.com/album/3gx3krICQA5Q62l56pEHcB) | 2:53 | 2023-02-14 | 2023-03-29 |
 | [Kamogawa, Yugure to Boku](https://open.spotify.com/track/5lsP5U4q5BkSuYDZg6ivcY) | [Hello Hello](https://open.spotify.com/artist/0VHtkjMrNXTTDNE9Ej96og) | [Kamogawa, Yugure to Boku](https://open.spotify.com/album/50nRTKQ6JiP7MxxnJr4aWB) | 2:55 | 2023-02-07 | 2023-02-15 |
 | [KANASHIBARI](https://open.spotify.com/track/34e9BXXUPrLzUYGgw2kyIO) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [KANASHIBARI](https://open.spotify.com/album/6QgXfxc8yzYGEKCXzPVfhH) | 4:57 | 2023-04-18 |  |
@@ -94,6 +96,7 @@
 | [Kid](https://open.spotify.com/track/7zKieV1uXBhucwmYM4sCzW) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Kid](https://open.spotify.com/album/2yoIDnfb9b819VS5hsh9MZ) | 3:30 | 2023-02-07 |  |
 | [Kimochy](https://open.spotify.com/track/7CkReQlOUnEHp9LP6tVfCF) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [Kimochy Season](https://open.spotify.com/album/2jg0b7paauECp2dSraJqul) | 3:18 | 2023-04-04 |  |
 | [LADY](https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LADY](https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW) | 3:27 | 2023-03-21 |  |
+| [Lapse](https://open.spotify.com/track/5TeGDq5gS3KBG88UvdAT5E) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6IOnkt2rwHoyPgd8tiBTSD) | 3:55 | 2023-04-19 |  |
 | [Leap](https://open.spotify.com/track/3hrZ10jvm7019DdwZLxmCU) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Leap](https://open.spotify.com/album/2RPT4dc1XDtfpyALnf0yq7) | 4:06 | 2023-03-14 | 2023-03-16 |
 | [Leap](https://open.spotify.com/track/5UvLomZ74b75rzQmYVkhG7) | [Uniolla](https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU) | [Leap](https://open.spotify.com/album/7HYIajVHlesffzuOM67G6Q) | 4:06 | 2023-03-14 | 2023-04-05 |
 | [Life Is Good](https://open.spotify.com/track/1EfPleE2AT7pvxpvFYIlIO) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [ugly beauty](https://open.spotify.com/album/28sDeJjrMZ6TmwiZQCJ0wY) | 4:24 | 2023-01-17 | 2023-02-15 |
@@ -226,7 +229,7 @@
 | [オールドルーキー](https://open.spotify.com/track/0umqlfEgW9657chmk74mCq) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [僕の唄で君に永遠を](https://open.spotify.com/album/3fYag5ejBnBb2VYZsAcvqg) | 4:17 | 2023-01-24 | 2023-01-26 |
 | [カスミソウ](https://open.spotify.com/track/5ZcXYs8O3q6melv9GF5VEd) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [カスミソウ](https://open.spotify.com/album/7aEiuGRM1CVprvce4RkQ15) | 3:42 | 2023-01-13 | 2023-03-01 |
 | [クエスチョン](https://open.spotify.com/track/0KeSj8mWXvtC7XfUgian5b) | [ワンダフル放送局](https://open.spotify.com/artist/06HH8z9WkqtGgLpCMqDkaT) | [クエスチョン](https://open.spotify.com/album/7iUsgV2Sr93tmNaWKzzfwx) | 3:03 | 2023-03-28 | 2023-04-19 |
-| [グッドバイ](https://open.spotify.com/track/0j2A8IbikBlkAENvtAYTbB) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [グッドバイ / タンブラー](https://open.spotify.com/album/0mEwRg2Q4dvq4bAMHt39e3) | 1:53 | 2023-04-18 |  |
+| [グッドバイ](https://open.spotify.com/track/0j2A8IbikBlkAENvtAYTbB) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [グッドバイ / タンブラー](https://open.spotify.com/album/0mEwRg2Q4dvq4bAMHt39e3) | 1:53 | 2023-04-18 | 2023-04-20 |
 | [グラデーション](https://open.spotify.com/track/5jWH9i9C8haNGbyEm9vFHg) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [グラデーション](https://open.spotify.com/album/37TBI4DrZdU5Ne3wxRiSrJ) | 4:00 | 2023-04-03 |  |
 | [ゴミ人間、俺](https://open.spotify.com/track/2VU59VkXEBNX4ZZf7SmGAy) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:49 | 2023-03-14 | 2023-03-16 |
 | [ゴールデン・ドロップ](https://open.spotify.com/track/6dCSP1euHcwNrmGuxKAEXW) | [bungeitengoku](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [ゴールデン・ドロップ](https://open.spotify.com/album/7Mf5V55mBkz67HsUMZ9hwf) | 1:24 | 2023-02-28 | 2023-03-02 |
@@ -272,7 +275,7 @@
 | [ラブじゃん](https://open.spotify.com/track/2vnWduAon47Ra9Th9dCAuY) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [ラブじゃん](https://open.spotify.com/album/6pTeKfeTsyxknsyH4YrpSF) | 3:20 | 2023-01-17 | 2023-02-08 |
 | [ラブソング](https://open.spotify.com/track/1OOpz8FwsB7h1YrFEHfwha) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [あいについて](https://open.spotify.com/album/4yhCBM3SysopK5WedJDCgw) | 3:02 | 2023-01-31 | 2023-02-22 |
 | [ラブソング](https://open.spotify.com/track/1XPblQZCt1NdhEk2eEjMLI) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [ラブソング](https://open.spotify.com/album/7CRfHNh19Lz5IOlYuCh58F) | 3:50 | 2023-02-07 | 2023-02-09 |
-| [ラプス](https://open.spotify.com/track/47hW5TPsOjph8hA9kxNdcj) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6uBzTBbMEBkLEDtEkklOBy) | 3:55 | 2023-04-18 |  |
+| [ラプス](https://open.spotify.com/track/47hW5TPsOjph8hA9kxNdcj) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/6uBzTBbMEBkLEDtEkklOBy) | 3:55 | 2023-04-18 | 2023-04-20 |
 | [リバイブレーション](https://open.spotify.com/track/16mw2JWm6u8Cc5ZMMamrGI) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [リバイブレーション / うざ。 / STRAWBERRY](https://open.spotify.com/album/3gMSby01PQLlG684fSYNkT) | 2:20 | 2023-02-14 | 2023-03-01 |
 | [リビド](https://open.spotify.com/track/2DPqDCOLt5u9vgPsBeeZHu) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [感情](https://open.spotify.com/album/5wVKcfeOtX715KlsMQkw8C) | 2:41 | 2023-01-13 | 2023-03-22 |
 | [リンジュー・ラヴ](https://open.spotify.com/track/0NUJhYxwcAAB4UQULseQyX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [リンジュー・ラヴ](https://open.spotify.com/album/0jH2GxrReBs2SqeVSaM5vU) | 3:05 | 2023-01-13 |  |

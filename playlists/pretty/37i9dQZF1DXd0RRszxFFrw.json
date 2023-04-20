@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 46550,
+  "num_followers": 46572,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMGMyMzU2OGJkNjM4NTBlNGE5NTE5ZGZjY2I5ZjYxYmMy",
+  "snapshot_id": "MTY2NjkwODA2MCwwMDAwMDAwMGU4NTcyOTM1MmNiOTRkNzg1YWJlZTA3MGMzY2M5NDNh",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -47,22 +47,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Tristeza on Guitar",
-        "url": "https://open.spotify.com/album/4wfmncWQNUgblCu0XV4xKp"
-      },
-      "artists": [
-        {
-          "name": "Baden Powell",
-          "url": "https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr"
-        }
-      ],
-      "duration_ms": 202302,
-      "name": "Tristeza",
-      "url": "https://open.spotify.com/track/70TVybeswXr3k78pxpKDZW"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Vibrante",
         "url": "https://open.spotify.com/album/4fY4gJd79MfpOGKgFLRNWc"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 196111,
       "name": "Vibrante",
       "url": "https://open.spotify.com/track/3hzl8wmLDAMg1KCGz93bo9"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Tristeza on Guitar",
+        "url": "https://open.spotify.com/album/4wfmncWQNUgblCu0XV4xKp"
+      },
+      "artists": [
+        {
+          "name": "Baden Powell",
+          "url": "https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr"
+        }
+      ],
+      "duration_ms": 202302,
+      "name": "Tristeza",
+      "url": "https://open.spotify.com/track/70TVybeswXr3k78pxpKDZW"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Serenidad",
-        "url": "https://open.spotify.com/album/7aVycit4E2ZeTlVXU9J2xz"
-      },
-      "artists": [
-        {
-          "name": "Emma dos Santos",
-          "url": "https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp"
-        }
-      ],
-      "duration_ms": 171482,
-      "name": "Serenidad",
-      "url": "https://open.spotify.com/track/1AFomBCec7hQLhPhgouIpQ"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Bella Donna",
         "url": "https://open.spotify.com/album/2TMmjsWz9oQ0WMcNOsZAd4"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 139760,
       "name": "Bella Donna",
       "url": "https://open.spotify.com/track/27eMQ8uYoK3trTKkSqqNh3"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Serenidad",
+        "url": "https://open.spotify.com/album/7aVycit4E2ZeTlVXU9J2xz"
+      },
+      "artists": [
+        {
+          "name": "Emma dos Santos",
+          "url": "https://open.spotify.com/artist/5BCrXE0QF0mUKYmQTk43gp"
+        }
+      ],
+      "duration_ms": 171482,
+      "name": "Serenidad",
+      "url": "https://open.spotify.com/track/1AFomBCec7hQLhPhgouIpQ"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Ilha Do Amor",
-        "url": "https://open.spotify.com/album/3ulttIgCTm7Pcm9Soypv43"
-      },
-      "artists": [
-        {
-          "name": "Ailani Akoni",
-          "url": "https://open.spotify.com/artist/266csn0Mn42WuJ1j8rGB5k"
-        }
-      ],
-      "duration_ms": 147179,
-      "name": "Ilha Do Amor",
-      "url": "https://open.spotify.com/track/0UXh0DcW5J0QSzeq2oORbi"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Parque De Mar\u00eda Luisa",
         "url": "https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 134578,
       "name": "Tiempos Pasados",
       "url": "https://open.spotify.com/track/52Y2oYV8SXt292vc4I7NFO"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Ilha Do Amor",
+        "url": "https://open.spotify.com/album/3ulttIgCTm7Pcm9Soypv43"
+      },
+      "artists": [
+        {
+          "name": "Ailani Akoni",
+          "url": "https://open.spotify.com/artist/266csn0Mn42WuJ1j8rGB5k"
+        }
+      ],
+      "duration_ms": 147179,
+      "name": "Ilha Do Amor",
+      "url": "https://open.spotify.com/track/0UXh0DcW5J0QSzeq2oORbi"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Bossa Nova Sounds EP",
-        "url": "https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI"
-      },
-      "artists": [
-        {
-          "name": "Rio Mendes",
-          "url": "https://open.spotify.com/artist/0g5AouvHCjswMZiQheyRNK"
-        }
-      ],
-      "duration_ms": 167161,
-      "name": "Brigas, Nunca Mais",
-      "url": "https://open.spotify.com/track/0a0aIKG6sw9bt8iRy3iGh5"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "The Beatles for Classical Guitar",
         "url": "https://open.spotify.com/album/0rcyFsJ0wcEo7rxntomDiD"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Herencia de Valencia",
-        "url": "https://open.spotify.com/album/1eHEvjtgHgOkzX7i5jqAQN"
+        "name": "Bossa Nova Sounds EP",
+        "url": "https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI"
       },
       "artists": [
         {
-          "name": "Nylonwings",
-          "url": "https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN"
+          "name": "Rio Mendes",
+          "url": "https://open.spotify.com/artist/0g5AouvHCjswMZiQheyRNK"
         }
       ],
-      "duration_ms": 198813,
-      "name": "Herencia de Valencia",
-      "url": "https://open.spotify.com/track/3DALc0j8IOpKpKAuiHU5zu"
+      "duration_ms": 167161,
+      "name": "Brigas, Nunca Mais",
+      "url": "https://open.spotify.com/track/0a0aIKG6sw9bt8iRy3iGh5"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1131,6 +1115,22 @@
       "duration_ms": 173800,
       "name": "Tango en Skai - Instrumental",
       "url": "https://open.spotify.com/track/1eGdw1BbGAYaXbgPcVIkGm"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Herencia de Valencia",
+        "url": "https://open.spotify.com/album/1eHEvjtgHgOkzX7i5jqAQN"
+      },
+      "artists": [
+        {
+          "name": "Nylonwings",
+          "url": "https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN"
+        }
+      ],
+      "duration_ms": 198813,
+      "name": "Herencia de Valencia",
+      "url": "https://open.spotify.com/track/3DALc0j8IOpKpKAuiHU5zu"
     },
     {
       "added_at": "2022-10-27 22:01:00",

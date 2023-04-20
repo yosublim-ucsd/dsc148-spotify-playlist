@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 
 > This is what folk sounds like en español\. Cover: selines
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,671 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,753 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 8 | [Qué bonito fue](https://open.spotify.com/track/3ppzEzYnSKIBZ2tndbmOLp) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Sin Final Feliz](https://open.spotify.com/album/2AoNm9wXhQQPQrbS963xJH) | 2:24 |
 | 9 | [Soñar Contigo](https://open.spotify.com/track/0GYS14rwcsMXhYMP57W164) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/2prBuM9hprQROvEI5MDZ5C) | 2:48 |
 | 10 | [El Conticinio](https://open.spotify.com/track/6dDhaHqJ3wUD3jbjGUBwzh) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [El Conticinio](https://open.spotify.com/album/1NcBeKgj4oQaecQiTr7F39) | 3:33 |
-| 11 | [Café Con Leche](https://open.spotify.com/track/6SfkPzqzG62lkvkyKJGUKY) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Mujer Eléctrica](https://open.spotify.com/album/3sgIcq7sXDaw1patJDSd59) | 1:53 |
-| 12 | [Flaco](https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 4:16 |
+| 11 | [Flaco](https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 4:16 |
+| 12 | [Café Con Leche](https://open.spotify.com/track/6SfkPzqzG62lkvkyKJGUKY) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Mujer Eléctrica](https://open.spotify.com/album/3sgIcq7sXDaw1patJDSd59) | 1:53 |
 | 13 | [las consecuencias](https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [las consecuencias](https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9) | 3:11 |
 | 14 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 |
 | 15 | [Otras Se Pierden](https://open.spotify.com/track/3SvbcJH2seu1zs0PMjPS6F) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:54 |
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 26 | [Te Guardo](https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Primeras Canciones](https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3) | 3:21 |
 | 27 | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/track/2vsr2L14RGZ8dxLSJMQxSZ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Prenda del Alma \- Spotify Singles](https://open.spotify.com/album/1q6UbLqRpyUkZUtRBvOqAn) | 4:18 |
 | 28 | [El Baile](https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Vulnerables](https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl) | 3:30 |
-| 29 | [Lotta Love](https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE) | 3:17 |
-| 30 | [Siempre Te Voy a Querer](https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Los Días en la Sala](https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45) | 2:43 |
+| 29 | [Siempre Te Voy a Querer](https://open.spotify.com/track/2f0LLHCip3EIflKwKlSAJV) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [Los Días en la Sala](https://open.spotify.com/album/3n8yXa8oKTRbja348a3V45) | 2:43 |
+| 30 | [Lotta Love](https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE) | 3:17 |
 | 31 | [Love Song \- Helado Negro Remix](https://open.spotify.com/track/2PKJ88Ap4ebLFxJ4lwAGRF) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Love Song \(Helado Negro Remix\)](https://open.spotify.com/album/2p5v0LukKFqgNeLsNPVqYF) | 4:19 |
 | 32 | [Dos Soledades](https://open.spotify.com/track/378lux3KIGNYTyFnB1cEXy) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Algo Sucede](https://open.spotify.com/album/5Z6YX9a3A3quKgM0naXEaL) | 3:10 |
-| 33 | [Qué Tal](https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Qué Tal](https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7) | 2:44 |
-| 34 | [Perdí](https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Perdí](https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme) | 2:24 |
+| 33 | [Perdí](https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Perdí](https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme) | 2:24 |
+| 34 | [Qué Tal](https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Qué Tal](https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7) | 2:44 |
 | 35 | [Las Vacas](https://open.spotify.com/track/28OcOTibh6MFjwIrdS4eZh) | [Paulino Monroy](https://open.spotify.com/artist/2a15NvJ0ASGPEuWgGCCIJC) | [Larga Duración](https://open.spotify.com/album/4ih5clBRBMTQSMkRgpKf1a) | 3:18 |
 | 36 | [Ojos Del Sol](https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Ojos Del Sol](https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc) | 4:05 |
 | 37 | [La Ola](https://open.spotify.com/track/0bg3L5f70z9iEaJki8Cgfa) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18t8d8JUxUC.md) - [plain]
 | 49 | [Te Lo Debo Contar](https://open.spotify.com/track/3qF89WKp5gQSabVlH1gpXj) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Byebye Sayonara, Nunca Sabrás Que Esto Fue para Ti](https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56) | 3:56 |
 | 50 | [Aguaceros](https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:38 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDI1ZTQxNDBkMTY4MTU0OTYyNDNkMTJiODBlOTIxMTVi`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDc0YTI1ZGY0OTRlM2U4ODVlMGVkMWJiMjUxMmVjYjgy`

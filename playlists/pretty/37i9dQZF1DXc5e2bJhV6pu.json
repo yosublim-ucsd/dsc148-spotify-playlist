@@ -1,12 +1,12 @@
 {
   "description": "Get your day off to a cracking start!",
-  "num_followers": 1200513,
+  "num_followers": 1200805,
   "original_name": "Morning Motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDE4MTIwMCwwMDAwMDAwMDZiMjdmNzc5ODk5NGY1ODE2ZDFlMGYxZTg4NTdhNDNl",
+  "snapshot_id": "MTY4MDE4MTIwMCwwMDAwMDAwMGE1ZGQwOWU4MWMyZGUxNTAwMTg0NzNlYThlNDJjMTEx",
   "tracks": [
     {
       "added_at": "2023-03-30 13:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-03-30 13:00:00",
       "album": {
-        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
-    },
-    {
-      "added_at": "2023-03-30 13:00:00",
-      "album": {
         "name": "Save Your Tears (Remix)",
         "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "added_at": "2023-03-30 13:00:00",
+      "album": {
+        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
     },
     {
       "added_at": "2023-03-30 13:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-03-30 13:00:00",
       "album": {
-        "name": "TRUSTFALL",
-        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 237200,
-      "name": "TRUSTFALL",
-      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
-    },
-    {
-      "added_at": "2023-03-30 13:00:00",
-      "album": {
         "name": "Pray for the Wicked",
         "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 190946,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+    },
+    {
+      "added_at": "2023-03-30 13:00:00",
+      "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 237200,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
     },
     {
       "added_at": "2023-03-30 13:00:00",
@@ -995,30 +995,6 @@
     {
       "added_at": "2023-03-30 13:00:00",
       "album": {
-        "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit]",
-        "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 248413,
-      "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit",
-      "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
-    },
-    {
-      "added_at": "2023-03-30 13:00:00",
-      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8"
       },
@@ -1043,6 +1019,30 @@
       "duration_ms": 258342,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
+    },
+    {
+      "added_at": "2023-03-30 13:00:00",
+      "album": {
+        "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit]",
+        "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 248413,
+      "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit",
+      "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
     },
     {
       "added_at": "2023-03-30 13:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-03-30 13:00:00",
       "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 311866,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
+    },
+    {
+      "added_at": "2023-03-30 13:00:00",
+      "album": {
         "name": "Stuck with U",
         "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi"
       },
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2023-03-30 13:00:00",
       "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 311866,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
+      "duration_ms": 162398,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
     },
     {
       "added_at": "2023-03-30 13:00:00",
@@ -1167,22 +1183,6 @@
       "duration_ms": 193813,
       "name": "Music For a Sushi Restaurant",
       "url": "https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV"
-    },
-    {
-      "added_at": "2023-03-30 13:00:00",
-      "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 162398,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
     },
     {
       "added_at": "2023-03-30 13:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-03-30 13:00:00",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 225148,
-      "name": "Oh My God",
-      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
-    },
-    {
-      "added_at": "2023-03-30 13:00:00",
-      "album": {
         "name": "Urban Hymns (Remastered 2016)",
         "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 171360,
       "name": "You Need To Calm Down",
       "url": "https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5"
+    },
+    {
+      "added_at": "2023-03-30 13:00:00",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 225148,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
     }
   ],
   "unique_name": "Morning Motivation",

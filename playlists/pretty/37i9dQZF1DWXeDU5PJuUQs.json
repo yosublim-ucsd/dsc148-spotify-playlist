@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes.",
-  "num_followers": 115576,
+  "num_followers": 115657,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTc1MTIwNCwwMDAwMDAwMDZjNzkyODAxMDc2Njc5YmRiMGEwNDU0NmFlYTQ3ZWJk",
+  "snapshot_id": "MTY4MTc1MTIwNCwwMDAwMDAwMDI3ZWQ2YTEyMzdhNWY2MTIyYmIxNDYzOWRlYzhmNzk0",
   "tracks": [
     {
       "added_at": "2023-04-17 17:06:44",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-04-17 17:06:44",
       "album": {
-        "name": "La Gira y La Serenata",
-        "url": "https://open.spotify.com/album/4aL7XH9coMCuXOSwdjVI1n"
-      },
-      "artists": [
-        {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        }
-      ],
-      "duration_ms": 291054,
-      "name": "Pedazo De Papel - En Vivo En El Luna Park",
-      "url": "https://open.spotify.com/track/5YvQDYGtXIbyWu6hH1FFXY"
-    },
-    {
-      "added_at": "2023-04-17 17:06:44",
-      "album": {
         "name": "Bonita / Madre Soltera (En Vivo)",
         "url": "https://open.spotify.com/album/42RKKUdWT9eVM1OhLvFXfT"
       },
@@ -547,6 +531,22 @@
     {
       "added_at": "2023-04-17 17:06:44",
       "album": {
+        "name": "La Gira y La Serenata",
+        "url": "https://open.spotify.com/album/4aL7XH9coMCuXOSwdjVI1n"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "duration_ms": 291054,
+      "name": "Pedazo De Papel - En Vivo En El Luna Park",
+      "url": "https://open.spotify.com/track/5YvQDYGtXIbyWu6hH1FFXY"
+    },
+    {
+      "added_at": "2023-04-17 17:06:44",
+      "album": {
         "name": "Ella Dijo / Mil Horas",
         "url": "https://open.spotify.com/album/2IrMRFzb3Om0a07Dn8pk5f"
       },
@@ -559,6 +559,22 @@
       "duration_ms": 199435,
       "name": "Ella Dijo / Mil Horas - En Vivo",
       "url": "https://open.spotify.com/track/3bb6w80Nhj6SeFyWoDCmtl"
+    },
+    {
+      "added_at": "2023-04-17 17:06:44",
+      "album": {
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Quiero Yo Saber (Donde Esta El Amor)",
+      "url": "https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc"
     },
     {
       "added_at": "2023-04-17 17:06:44",
@@ -583,18 +599,22 @@
     {
       "added_at": "2023-04-17 17:06:44",
       "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
+        "name": "Una Copa de M\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/7LlRV4bIsP2akGc5deG4sL"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Sonido Caracol",
+          "url": "https://open.spotify.com/artist/2QoRWNLJ6A9M8f9F0ovGcM"
+        },
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Quiero Yo Saber (Donde Esta El Amor)",
-      "url": "https://open.spotify.com/track/7iwRxlSdAWVvpQGlx1yYmc"
+      "duration_ms": 316182,
+      "name": "Una Copa de M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/0SwkOOtQpkKDTUFOSIijpr"
     },
     {
       "added_at": "2023-04-17 17:06:44",
@@ -663,22 +683,18 @@
     {
       "added_at": "2023-04-17 17:06:44",
       "album": {
-        "name": "Una Copa de M\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/7LlRV4bIsP2akGc5deG4sL"
+        "name": "Ay, Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
       "artists": [
         {
-          "name": "Sonido Caracol",
-          "url": "https://open.spotify.com/artist/2QoRWNLJ6A9M8f9F0ovGcM"
-        },
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 316182,
-      "name": "Una Copa de M\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/0SwkOOtQpkKDTUFOSIijpr"
+      "duration_ms": 81813,
+      "name": "Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd"
     },
     {
       "added_at": "2023-04-17 17:06:44",
@@ -715,22 +731,6 @@
     {
       "added_at": "2023-04-17 17:06:44",
       "album": {
-        "name": "Ay, Amor (En Vivo)",
-        "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 81813,
-      "name": "Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/0cdCBqWbgvtRu7e5IMkoNd"
-    },
-    {
-      "added_at": "2023-04-17 17:06:44",
-      "album": {
         "name": "Mi Vida (En Vivo)",
         "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
       },
@@ -743,6 +743,22 @@
       "duration_ms": 483693,
       "name": "La Ventanita / Beso a Beso",
       "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
+    },
+    {
+      "added_at": "2023-04-17 17:06:44",
+      "album": {
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        }
+      ],
+      "duration_ms": 175992,
+      "name": "Adios Amor Adios - En Vivo",
+      "url": "https://open.spotify.com/track/4u3XmK9ece4j7HYcdegsdh"
     },
     {
       "added_at": "2023-04-17 17:06:44",
@@ -791,22 +807,6 @@
       "duration_ms": 198245,
       "name": "Soy Mala Fama - En Vivo",
       "url": "https://open.spotify.com/track/6OgfQgwYmhqvmTPKPebPv4"
-    },
-    {
-      "added_at": "2023-04-17 17:06:44",
-      "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 175992,
-      "name": "Adios Amor Adios - En Vivo",
-      "url": "https://open.spotify.com/track/4u3XmK9ece4j7HYcdegsdh"
     },
     {
       "added_at": "2023-04-17 17:06:44",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-04-17 17:06:44",
       "album": {
-        "name": "Show En Parque Recondo",
-        "url": "https://open.spotify.com/album/5olJyfS4YAdQJk6wiNmLDG"
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
       "artists": [
         {
-          "name": "Sebastian Mendoza",
-          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
         }
       ],
-      "duration_ms": 131287,
-      "name": "Decir Adi\u00f3s - En Vivo",
-      "url": "https://open.spotify.com/track/3CBdi6o9Egg357jbpxBi60"
+      "duration_ms": 158958,
+      "name": "Te So\u00f1\u00e9 una Vez Mas - En Vivo",
+      "url": "https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o"
     },
     {
       "added_at": "2023-04-17 17:06:44",
@@ -911,8 +911,8 @@
     {
       "added_at": "2023-04-17 17:06:44",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
+        "name": "En Vivo 2019",
+        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
       },
       "artists": [
         {
@@ -920,25 +920,25 @@
           "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 64017,
+      "duration_ms": 147113,
       "name": "Jurabas Tu - En Vivo",
-      "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
+      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
     },
     {
       "added_at": "2023-04-17 17:06:44",
       "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+        "name": "Show En Parque Recondo",
+        "url": "https://open.spotify.com/album/5olJyfS4YAdQJk6wiNmLDG"
       },
       "artists": [
         {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+          "name": "Sebastian Mendoza",
+          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
         }
       ],
-      "duration_ms": 158958,
-      "name": "Te So\u00f1\u00e9 una Vez Mas - En Vivo",
-      "url": "https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o"
+      "duration_ms": 131287,
+      "name": "Decir Adi\u00f3s - En Vivo",
+      "url": "https://open.spotify.com/track/3CBdi6o9Egg357jbpxBi60"
     },
     {
       "added_at": "2023-04-17 17:06:44",
@@ -975,18 +975,22 @@
     {
       "added_at": "2023-04-17 17:06:44",
       "album": {
-        "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor (En Vivo)",
-        "url": "https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2"
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
       "artists": [
         {
-          "name": "La Piedra Urbana",
-          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        },
+        {
+          "name": "Cartucho",
+          "url": "https://open.spotify.com/artist/7d2PwZelcQLuNIiVcWTSGN"
         }
       ],
-      "duration_ms": 328000,
-      "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
-      "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
+      "duration_ms": 195973,
+      "name": "Estoy Buscando un Amor - En Vivo",
+      "url": "https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH"
     },
     {
       "added_at": "2023-04-17 17:06:44",
@@ -1007,6 +1011,22 @@
     {
       "added_at": "2023-04-17 17:06:44",
       "album": {
+        "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor (En Vivo)",
+        "url": "https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2"
+      },
+      "artists": [
+        {
+          "name": "La Piedra Urbana",
+          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
+        }
+      ],
+      "duration_ms": 328000,
+      "name": "Ahora Que Te Vas / El Mismo Aire / a Puro Dolor - En Vivo",
+      "url": "https://open.spotify.com/track/5q17HklaySch2Jg73dYgto"
+    },
+    {
+      "added_at": "2023-04-17 17:06:44",
+      "album": {
         "name": "En Vivo Desde el Teatro Opera",
         "url": "https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy"
       },
@@ -1023,24 +1043,8 @@
     {
       "added_at": "2023-04-17 17:06:44",
       "album": {
-        "name": "En Vivo en el Teatro",
-        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 1189088,
-      "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
-      "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"
-    },
-    {
-      "added_at": "2023-04-17 17:06:44",
-      "album": {
-        "name": "En Vivo 2019",
-        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
       },
       "artists": [
         {
@@ -1048,9 +1052,9 @@
           "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 147113,
+      "duration_ms": 64017,
       "name": "Jurabas Tu - En Vivo",
-      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
+      "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
     },
     {
       "added_at": "2023-04-17 17:06:44",
@@ -1071,6 +1075,22 @@
     {
       "added_at": "2023-04-17 17:06:44",
       "album": {
+        "name": "En Vivo en el Teatro",
+        "url": "https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 1189088,
+      "name": "Poco a Poco / La Chica Indicada / Un Sue\u00f1o / Separemonos / Fui Feliz / Amor, Amor / Ahora Regresas / En Este Mundo / La Pollera de Jimmy - En Vivo",
+      "url": "https://open.spotify.com/track/5biJmTVSy8a0rxgj0LbmF4"
+    },
+    {
+      "added_at": "2023-04-17 17:06:44",
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/4PhhgpQ5bkLyCRVDL0hVpI"
       },
@@ -1083,26 +1103,6 @@
       "duration_ms": 255973,
       "name": "Pibe Cantina",
       "url": "https://open.spotify.com/track/1mgOFzzOQkGIE7wWrsFSBL"
-    },
-    {
-      "added_at": "2023-04-17 17:06:44",
-      "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        },
-        {
-          "name": "Cartucho",
-          "url": "https://open.spotify.com/artist/7d2PwZelcQLuNIiVcWTSGN"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Estoy Buscando un Amor - En Vivo",
-      "url": "https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH"
     }
   ],
   "unique_name": "Vivo de Cumbia",

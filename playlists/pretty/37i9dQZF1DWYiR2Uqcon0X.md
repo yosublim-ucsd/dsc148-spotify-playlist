@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,049 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,485 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 10 | [Leave Me Again](https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:58 |
 | 11 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 |
 | 12 | [You and Tequila \(feat\. Grace Potter\)](https://open.spotify.com/track/1t2hJFgJyUPD2crOafMUEk) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 4:02 |
-| 13 | [Whiskey And You](https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 3:56 |
-| 14 | [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 |
+| 13 | [Mountain Song](https://open.spotify.com/track/2mDdkeVuUsyIepwzLCxuu6) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Mountain Song](https://open.spotify.com/album/2LSEZyWtzulIr0vS1mD4Xy) | 4:09 |
+| 14 | [Whiskey And You](https://open.spotify.com/track/5aDK0TurEtiedVdT0a6k9a) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 3:56 |
 | 15 | [People Change](https://open.spotify.com/track/5VYOUBkObeGOnCt30YDTJ3) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:32 |
 | 16 | [Never in My Wildest Dreams](https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq) | [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [Waiting on a Song](https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F) | 2:56 |
 | 17 | [Front Porch](https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:51 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 21 | [Where You Are \- Acoustic](https://open.spotify.com/track/4OrDWRw53W0rp1Lps64OFb) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Living Room Worktapes](https://open.spotify.com/album/4tqIQcOp7So49ZKF4Mzvp3) | 4:03 |
 | 22 | [2016](https://open.spotify.com/track/5ehN5A3B3lDwmFCYO63Wk6) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 3:55 |
 | 23 | [I Forget Myself \(feat\. Darlingside\)](https://open.spotify.com/track/1Exrzr80BmEOw2rMcRnjwh) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [I Forget Myself \(feat\. Darlingside\)](https://open.spotify.com/album/7zEq9IRpk2AjPdQt4t816M) | 3:32 |
-| 24 | [I Ain't Ever Loved No One \- Acoustic](https://open.spotify.com/track/2z3HKlpENvfz1Am2MNF2pL) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Other Way](https://open.spotify.com/album/1BjtuA4CufCsT4myvX3WpQ) | 3:19 |
-| 25 | [Girl Goin' Nowhere](https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:27 |
+| 24 | [Girl Goin' Nowhere](https://open.spotify.com/track/2lyEpuvVOnNGzV5c89Vnpf) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Girl Going Nowhere](https://open.spotify.com/album/2FeaUU9jFydTIsVO5F8rNU) | 3:27 |
+| 25 | [I Ain't Ever Loved No One \- Acoustic](https://open.spotify.com/track/2z3HKlpENvfz1Am2MNF2pL) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Other Way](https://open.spotify.com/album/1BjtuA4CufCsT4myvX3WpQ) | 3:19 |
 | 26 | [Lost in Your Love](https://open.spotify.com/track/6rNQl7PtVwGEEF0PuauOAr) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Originals](https://open.spotify.com/album/2bskuDoaEKsMP5lLvE6U7C) | 2:45 |
 | 27 | [WHAT I HAVE](https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [WHAT I HAVE](https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC) | 2:58 |
 | 28 | [Louise](https://open.spotify.com/track/6iAu1ZHWQT8VmSQWZM40m7) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Dark Holler Pop](https://open.spotify.com/album/5f7goe6S1zLnEdSuIisROm) | 4:24 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 36 | [Eyes Fall](https://open.spotify.com/track/1i7xvrUa72MKMhnQcYSZxx) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [A Place](https://open.spotify.com/album/2hPqFV54abYxY8dcaF4Xmu) | 3:20 |
 | 37 | [Sunday Drive](https://open.spotify.com/track/2TIdEu4aruzo33MTEUDGcf) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:53 |
 | 38 | [hookup scene](https://open.spotify.com/track/59hAttZ1StpkVPD8u2i1MM) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:21 |
-| 39 | [MARILYN](https://open.spotify.com/track/6XKJyrLsAJh65mQCWttTtg) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:26 |
-| 40 | [It'll Work Itself Out](https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [They Are Going Away](https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1) | 3:02 |
+| 39 | [It'll Work Itself Out](https://open.spotify.com/track/1S0VsP2UnnOudyXtzwkVNE) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [They Are Going Away](https://open.spotify.com/album/1vbxpnA4F0erRt8OYPFIE1) | 3:02 |
+| 40 | [MARILYN](https://open.spotify.com/track/6XKJyrLsAJh65mQCWttTtg) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:26 |
 | 41 | [Far From Home](https://open.spotify.com/track/54tkmrvf1ejo3ejAHuVgq1) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Far from Home](https://open.spotify.com/album/6EgZXWhzIYtXFo1vhKg5Ch) | 3:07 |
 | 42 | [Asking For A Friend](https://open.spotify.com/track/5mXOdtyPOL6GEuZdCyHSsb) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Dark Horse](https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM) | 3:59 |
 | 43 | [Dreams \- The Campfire Sessions](https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Dreams \(The Campfire Sessions\)](https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb) | 3:46 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 48 | [Breakups \- Acoustic](https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Breakups \(Acoustic\)](https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i) | 3:47 |
 | 49 | [The Captain's Daughter](https://open.spotify.com/track/7tAmmKQz5aR8B7aFuhRkab) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Johnny Cash: Forever Words Expanded](https://open.spotify.com/album/5QkKD6xmHdaoxCRL5NHvIp) | 4:57 |
 | 50 | [Coming Down the Mountain](https://open.spotify.com/track/3ogA3HTz2gSGTX8f135LJ5) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Coming Down the Mountain](https://open.spotify.com/album/6OfyzpeBx3DGxRxPTPHc5g) | 4:33 |
-| 51 | [Wild Honey](https://open.spotify.com/track/2ekYJOliaYZ2zUb3XlLs5V) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Wild Honey](https://open.spotify.com/album/26BCtlHD1X80TZqJ5O2Mrc) | 3:33 |
-| 52 | [Dancing Shoes](https://open.spotify.com/track/3Y6BuzQCg9p4yH347Nn8OW) | [Green River Ordinance](https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7) | [Under Fire](https://open.spotify.com/album/5M8KlKcuRbCgIE7Yx7u99m) | 3:52 |
+| 51 | [Dancing Shoes](https://open.spotify.com/track/3Y6BuzQCg9p4yH347Nn8OW) | [Green River Ordinance](https://open.spotify.com/artist/6Yuow6YoiBaVPFNjZ5BQi7) | [Under Fire](https://open.spotify.com/album/5M8KlKcuRbCgIE7Yx7u99m) | 3:52 |
+| 52 | [Wild Honey](https://open.spotify.com/track/2ekYJOliaYZ2zUb3XlLs5V) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Wild Honey](https://open.spotify.com/album/26BCtlHD1X80TZqJ5O2Mrc) | 3:33 |
 | 53 | [Nothing Like You](https://open.spotify.com/track/52GgfKWo0tdSbq8trVhgUj) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Carry on, San Vicente](https://open.spotify.com/album/5gcKaSiUo4sMkDwD8yO71Z) | 4:22 |
 | 54 | [Where the Heart Is](https://open.spotify.com/track/4qaBHFw6eN6Oxa7gBXOvxv) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:07 |
 | 55 | [Find Me Here \- Broke Down](https://open.spotify.com/track/5gMiQ72iAqzzqWqrKvTWbO) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [KING](https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj) | 3:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 74 | [End of the Rain](https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [End of the Rain](https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb) | 3:15 |
 | 75 | [Better Than That](https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [Better Than That](https://open.spotify.com/album/2KsHuCJUVL0VtCqSLKxhRi) | 3:13 |
 
-Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDhkNjBjZGRlODVlZDAzNTA5MzQyODhjYWNhZGZiZGM4`
+Snapshot ID: `MTY3NjYxMDAwMCwwMDAwMDAwMDBjMzJhNDgxMTRjYWIyYjljZjRmOTc5ZWYzMDVlOTk2`

@@ -4,7 +4,7 @@
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-117 songs - 8 hr 28 min
+118 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [3 O'Clock Blues \- 1999 RemasterStereo](https://open.spotify.com/track/41849X1PrqMv0elH2prPWp) | [Love Sculpture](https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq) | [Blues Helping](https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB) | 5:10 | 2021-04-22 |  |
 | [A Fool No More](https://open.spotify.com/track/2Qm98Rw4rdfvo14ZOUiZTN) | [Peter Green](https://open.spotify.com/artist/3y1DgnVXqckGJrbwOKchdU) | [In the Skies](https://open.spotify.com/album/2lN1smqF0snKbzvR6ZY7FJ) | 7:44 | 2021-04-22 |  |
 | [A Hard Road](https://open.spotify.com/track/0WJGPcD139Pga5SgNV4Pj1) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [A Hard Road \(Deluxe Edition\)](https://open.spotify.com/album/0DMfmALbvN3V0GAkzpeRw1) | 3:09 | 2021-04-22 |  |
+| [All Your Love](https://open.spotify.com/track/1tPZlhOHo1GOZRrJR3hGOx) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [Blues Breakers](https://open.spotify.com/album/3W45Tazulh4zb48uL1RV8H) | 3:36 | 2021-04-22 |  |
 | [All Your Love \- Mono](https://open.spotify.com/track/4y1BaNOX6s8zFMjNrWSht3) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/0VBTLXsbmeGmYdYMUjmnRI) | 3:35 | 2021-04-22 | 2022-07-29 |
 | [All Your Love \- Stereo](https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0) | [Sam Maghett](https://open.spotify.com/artist/1xSXnf7mFuxNF0CMyQmpX2), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Bluesbreakers](https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o) | 3:32 | 2021-04-22 | 2023-04-19 |
 | [Back Street Crawler \(Don't Need You No More\) \- Single Guitar Track Number 14](https://open.spotify.com/track/5n8EWlQ0z0yQ2ZSpy38dXe) | [Paul Kossoff](https://open.spotify.com/artist/3RWZcKPLfAHGMwQ6prAnXP) | [Back Street Crawler](https://open.spotify.com/album/3pkH2bhYueXjSIp61EXo4J) | 4:31 | 2021-04-22 | 2022-07-28 |
@@ -45,7 +46,7 @@
 | [Harmonica](https://open.spotify.com/track/1RzvCKDGLcPaz9jEpsADWZ) | [The Graham Bond Organisation](https://open.spotify.com/artist/2YHcSCb5tMbCoovS962pff), [Jack Bruce](https://open.spotify.com/artist/73ndLgs6jSrpZzjyzU9TJV), [Ginger Baker](https://open.spotify.com/artist/5xTbqEbkihxdjj2jyYSthw) | [Gonks Go Beat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6F7KmbT7Do6tetnKzE5C3i) | 2:49 | 2021-04-22 |  |
 | [Hear Me Calling \- Mono](https://open.spotify.com/track/4e2QAsNsK4k2L3AmfkCs3w) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Stonedhenge \(Re\-Presents\)](https://open.spotify.com/album/6Y4yzjEE03x6pPQbyoWi8l) | 5:48 | 2021-04-22 |  |
 | [Hey Baby, Everything's Gonna Be Alright, Yeh Yeh Yeh](https://open.spotify.com/track/0IDPpYCPWQfcMJABUxqoGc) | [Climax Blues Band](https://open.spotify.com/artist/4eeRviM714mXXeILmKHxh2) | [The Climax Blues Band Plays On](https://open.spotify.com/album/7Dyfx1BcJMbajqziS2ppka) | 4:26 | 2021-04-22 |  |
-| [Highway \(Killing Me\) \- 2016 Remaster](https://open.spotify.com/track/26lMoZvdVmBdAribSN7RLL) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 3:50 | 2021-04-22 |  |
+| [Highway \(Killing Me\) \- 2016 Remaster](https://open.spotify.com/track/26lMoZvdVmBdAribSN7RLL) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 3:50 | 2021-04-22 | 2023-04-20 |
 | [Home](https://open.spotify.com/track/2EEvpwNJQGN0nokOv0CxCO) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Home](https://open.spotify.com/album/46jRgQN63M7lI9PphL7R3T) | 6:31 | 2022-03-25 |  |
 | [House of Cards](https://open.spotify.com/track/4SmzfBuJQIkwbPQLJnheGk) | [Mick Clarke](https://open.spotify.com/artist/67mAkA5iBh0bWPJojt1AHt) | [House of Cards](https://open.spotify.com/album/4xrTZYotwuGzeFHaHbDY9i) | 3:30 | 2022-03-25 | 2022-07-29 |
 | [House Of The Rising Sun](https://open.spotify.com/track/61Q9oJNd9hJQFhSDh6Qlap) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Best Of The Animals](https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y) | 4:29 | 2021-04-22 |  |

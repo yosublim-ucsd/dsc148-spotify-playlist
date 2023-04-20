@@ -2758,7 +2758,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-18",
+      "date_removed": null,
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
@@ -3520,7 +3520,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
@@ -8380,7 +8380,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
@@ -11226,7 +11226,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 141038,
       "name": "Klukkan seint",
       "url": "https://open.spotify.com/track/1P8kgSulKqAPfpKGi6ZmXA"
@@ -18041,6 +18041,28 @@
     },
     {
       "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180386,
+      "name": "See You Again (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "album": {
         "name": "Seg\u00f0u m\u00e9r",
         "url": "https://open.spotify.com/album/3rHzlepNKBzG1EGUaSnvyr"
       },
@@ -21434,7 +21456,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 194786,
       "name": "Trance (with Travis Scott & Young Thug)",
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"

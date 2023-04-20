@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Kenia OS y Gera MX en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,263 likes - 91 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,322 likes - 91 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 | 75 | [LA MEMORIA](https://open.spotify.com/track/3JntXMPlPPrr9mEeIcwsWO) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US+](https://open.spotify.com/album/6TtJmwgLMiPLePBuso4vay) | 3:17 |
 | 76 | [RIP](https://open.spotify.com/track/1iSLhqv5Lf9N9Rp9bqQQWD) | [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J), [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS), [Omizs](https://open.spotify.com/artist/5O1s8Zfh5BbsXjtIXjVS9y) | [RIP](https://open.spotify.com/album/55b2KZglwORMKbL2bW8EhC) | 3:12 |
 | 77 | [No Estaría Tan Mal](https://open.spotify.com/track/4ttROL4K76305wGVsTczfU) | [KALIFRN](https://open.spotify.com/artist/5Kj0ySkgBEbDp0Xk3Qwl5n) | [No Estaría Tan Mal](https://open.spotify.com/album/51MAQT42Q0O9Gpel3LaRcj) | 2:54 |
-| 78 | [Brillo en Soledad](https://open.spotify.com/track/5VJX4IshKU7hSk6ov8jlGn) | [Fer Altuzar](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Brillo en Soledad](https://open.spotify.com/album/1KGLc0Xue5u404KOGpEkFr) | 4:22 |
+| 78 | [Brillo en Soledad](https://open.spotify.com/track/5VJX4IshKU7hSk6ov8jlGn) | [Lunastasia](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Brillo en Soledad](https://open.spotify.com/album/1KGLc0Xue5u404KOGpEkFr) | 4:22 |
 | 79 | [No Fui Capaz](https://open.spotify.com/track/6BPh0b1180nZsN3C9LJ8PN) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 3:33 |
 | 80 | [Volando a Ti](https://open.spotify.com/track/1O65SV67NMFiQDzM33tyGk) | [Jezreel](https://open.spotify.com/artist/7iGFvtUk5Aq6Tb5GVisMvx) | [Volando a Ti](https://open.spotify.com/album/3BPKMfndun4bLRrRRo3NBl) | 4:18 |
 | 81 | [antídoto](https://open.spotify.com/track/76WhhOuq2FLhzA9g90tKEG) | [D\. Krugga](https://open.spotify.com/artist/4x65cIPX0RvYoK1zmQgQXH) | [antídoto](https://open.spotify.com/album/7LTfZVq7KYAesuz68KxhNs) | 2:54 |

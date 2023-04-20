@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: SZA & Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 995,278 likes - 128 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 995,572 likes - 128 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 19 | [Unstoppable](https://open.spotify.com/track/57OHEGx7h74VFZw1jx37cg) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Unstoppable](https://open.spotify.com/album/52zyV45viU6MxjRZe3Xr1T) | 4:07 |
 | 20 | [Terms and Conditions](https://open.spotify.com/track/3vv2KJC3vaWPXXF5Ba7biE) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Terms and Conditions](https://open.spotify.com/album/7CJe1NJRPmK5et3uevNQw5) | 3:29 |
 | 21 | [Jealous \(with Ella Mai\)](https://open.spotify.com/track/2HXzOhKhZ46k5cLBPTlfuJ) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Jealous](https://open.spotify.com/album/3H6JHY6lWD4zKIbIjmXLh9) | 3:45 |
-| 22 | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/track/0IT1pmbYjQjoU0IUMVZ6XU) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU) | [For Granted \(feat\. Arin Ray & 9th Wonder\)](https://open.spotify.com/album/5l1oWPwn5OqgbbBLyCrU05) | 2:52 |
+| 22 | [For Granted \(feat\. Arin Ray\)](https://open.spotify.com/track/39RJfDkli3BkEsW6LN4DrZ) | [Dinner Party](https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS), [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [9th Wonder](https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Enigmatic Society](https://open.spotify.com/album/57O5Ll1mLkLQgSeOCayVCe) | 2:52 |
 | 23 | [Wait On Me](https://open.spotify.com/track/1p1wnXfPEaVrMqk2tEZ2BH) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Nü Moon](https://open.spotify.com/album/1l9aiypXkyhJx58NTJQz6O) | 3:20 |
 | 24 | [Go Boy](https://open.spotify.com/track/5J8ojwDIVnf6ZPwT8f32sQ) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Go Boy](https://open.spotify.com/album/5MGppdhOf6M7mBsIWrg55E) | 2:56 |
 | 25 | [sink or swim](https://open.spotify.com/track/7cSzfId9hyN4CjdFKKKojm) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [sink or swim](https://open.spotify.com/album/5dk6DPvWnVfKNBhJQBXcsx) | 3:12 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 127 | [SUPAHAWT](https://open.spotify.com/track/4ir8C4oqZRrLHlC6VQ3mTF) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [From Uganda With Love](https://open.spotify.com/album/11kGKF5IyOqwrg9Dpp7NzL) | 1:50 |
 | 128 | [S\(EX\)](https://open.spotify.com/track/3UlUWPeAP2SBSKzgdKBcFd) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [S\(EX\)](https://open.spotify.com/album/6QdrzKSQYYdgWBTzPkzE6b) | 3:45 |
 
-Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDc3NmE4OTZlMDUwMzY0NzU3M2QxOTA5OTYwYTU2NTEw`
+Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDIzMjViZWI5M2E0N2FkMzA1YWNkZDY2Y2Q1NGQ4YmEy`

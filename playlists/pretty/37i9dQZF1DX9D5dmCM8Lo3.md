@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 
 > would you like to save before closing?
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,079 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,313 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,16 +50,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 40 | [tadpoles lullaby](https://open.spotify.com/track/2LFD3JPc6STJxrOR9Ne1PT) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [carepackage](https://open.spotify.com/album/3YE0VIMshf4A4pa507f7eN) | 1:32 |
 | 41 | [morrigan](https://open.spotify.com/track/2zWzQh571g7vTJh2ODmdh1) | [slaywitme](https://open.spotify.com/artist/6iuyjc5Y2UTDG9htNrLAcw) | [morrigan](https://open.spotify.com/album/2Xd2awJcKvh1HKpIKJqVm3) | 2:22 |
 | 42 | [The descent](https://open.spotify.com/track/1kFU28jcVv35zbTWkzFtjV) | [Infinity Frequencies](https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp) | [Between Two Worlds](https://open.spotify.com/album/03nyYzVw4m1cM2EG0vk6hP) | 1:29 |
-| 43 | [WIGGLECORE](https://open.spotify.com/track/0OSkkfKiaPnmlL9ocLVgs9) | [FLOOR BABA](https://open.spotify.com/artist/3J4heSMiOqE9MpbyGTtNHA) | [DIRT BIRD](https://open.spotify.com/album/3S64ZdqDFMAq4KoltiR1Sc) | 1:50 |
+| 43 | [Hi](https://open.spotify.com/track/7gkS9SJbH6oMNAhcqsAYXZ) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G) | 1:07 |
 | 44 | [Laptop !!](https://open.spotify.com/track/0eCmMzl0p3QkP1KiwjXYyA) | [dreamcache](https://open.spotify.com/artist/0lg1OxkQBe6Jb8HmdtLZYN) | [Laptop !!](https://open.spotify.com/album/4sbn5EHU8f7dpAU7C2WkYx) | 1:51 |
-| 45 | [Hi](https://open.spotify.com/track/7gkS9SJbH6oMNAhcqsAYXZ) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Care](https://open.spotify.com/album/2oMgmFgwsFMrWJFL4WJ14G) | 1:07 |
+| 45 | [WIGGLECORE](https://open.spotify.com/track/0OSkkfKiaPnmlL9ocLVgs9) | [FLOOR BABA](https://open.spotify.com/artist/3J4heSMiOqE9MpbyGTtNHA) | [DIRT BIRD](https://open.spotify.com/album/3S64ZdqDFMAq4KoltiR1Sc) | 1:50 |
 | 46 | [Missed Kiss](https://open.spotify.com/track/6FkJImUqOt3DfH0MuCp4Gr) | [Digigurl](https://open.spotify.com/artist/0gVS8zVAMZ6KJd6LHUsv2Z) | [Missed Kiss](https://open.spotify.com/album/4iNQn6nR8GzzA32YFGJwx8) | 3:22 |
 | 47 | [ƪ\. ◖ƪ❍⊁◞.\|◗щ \(\*ᄋ△+⁎❝᷀ົཽ\*ೃ:\(꒡͡ ❝᷀ົཽ ꉺ ̈.·\*:・✧⃛\(ཽ๑](https://open.spotify.com/track/5S0yiOErSgkU4yRsz6amKN) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [\)✧⃛\*](https://open.spotify.com/album/2sH6A5CeThHXMZ8ZX6iROz) | 3:10 |
 | 48 | [Chiltonwalk.Temp](https://open.spotify.com/track/3TT7noqVKf7mwYs9nuQ3Ei) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [.Temp](https://open.spotify.com/album/1xisAx14ZyCGa24ivnuvq3) | 1:56 |
 | 49 | [VOCALOID UTOPIA](https://open.spotify.com/track/2zMfxTNwPbkI7IYmhBqWFa) | [dennokop](https://open.spotify.com/artist/3rOrXW6Tv20yUlonxXgSPP) | [VOCALOID DYSTOPIA](https://open.spotify.com/album/3NpInFPUzlghneOmTDSxsx) | 2:24 |
 | 50 | [NEKOMATA'97](https://open.spotify.com/track/0RoEXhqNvT3uxrM7opZp2I) | [NANORAY](https://open.spotify.com/artist/62JS3xgd6kKS7OjzHNSFv1) | [Zapper](https://open.spotify.com/album/2kowSCEZhZnup8Qd57WJQ7) | 4:01 |
-| 51 | [missing home](https://open.spotify.com/track/1JfnrTZYpne8zr3C9alx5q) | [nineishuman](https://open.spotify.com/artist/4hjeFoILTSzoAt6p1VJJsm) | [missing home](https://open.spotify.com/album/6L2RIyM2TCXiBEGcRVhz8N) | 2:04 |
-| 52 | [About You Now](https://open.spotify.com/track/4Fpgcj55igVn9pOJeZKFZ8) | [OTTO](https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046) | [About You Now](https://open.spotify.com/album/02zc2IIraWCKNpizpKdvKD) | 3:38 |
+| 51 | [About You Now](https://open.spotify.com/track/4Fpgcj55igVn9pOJeZKFZ8) | [OTTO](https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046) | [About You Now](https://open.spotify.com/album/02zc2IIraWCKNpizpKdvKD) | 3:38 |
+| 52 | [missing home](https://open.spotify.com/track/1JfnrTZYpne8zr3C9alx5q) | [nineishuman](https://open.spotify.com/artist/4hjeFoILTSzoAt6p1VJJsm) | [missing home](https://open.spotify.com/album/6L2RIyM2TCXiBEGcRVhz8N) | 2:04 |
 | 53 | [espial](https://open.spotify.com/track/1c9gFTn6ymqs3kF2KUnvdV) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [espial](https://open.spotify.com/album/1xnJeMdd96RDhYRprSYrkx) | 4:11 |
 | 54 | [Pink Origins](https://open.spotify.com/track/1q61syO9gqIiHhO2rsnLq7) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Pink Origins](https://open.spotify.com/album/5h2SFt5UpNmeAx8ZV0cX7H) | 2:17 |
 | 55 | [A World That's Ending](https://open.spotify.com/track/4HIYZdQHMFfSxEKtukG5AY) | [datfootdive](https://open.spotify.com/artist/18vetuyfF5U3hdFX1TA0nI) | [Do you love me?](https://open.spotify.com/album/4Ub4G9wTMXothEPm3oAHsW) | 2:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9D5dmCM8Lo3.md) - [plain]
 | 74 | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/track/2KjezXmSbeXFNBkulpTPTa) | [△▃△▓](https://open.spotify.com/artist/1RtQ5z4H1VISmdg0odatF8) | [░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓](https://open.spotify.com/album/7BRNzMepDKUV2Crung0tYp) | 3:05 |
 | 75 | [Aokinaoi](https://open.spotify.com/track/6e5KhFVmU715GslNu11U6g) | [Scandisk7](https://open.spotify.com/artist/0ZBUxmJJpYRRsaPnsWZzHr) | [Aokinaoi](https://open.spotify.com/album/6gu1vqCxlCcXUFbDsRRjbY) | 4:52 |
 
-Snapshot ID: `MTY3NTgwMjE3MiwwMDAwMDAwMDI5NjhhNmFmYmZhYzE5ZjAxN2ZmNGMwZGY1NGY4NTRm`
+Snapshot ID: `MTY3NTgwMjE3MiwwMDAwMDAwMDg5Y2QzZjk1NjRjZjhkNzIzYjJlYzI3YTUxMjZkMDll`

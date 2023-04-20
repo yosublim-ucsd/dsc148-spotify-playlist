@@ -4,7 +4,7 @@
 
 > Lo mejor y lo último del pop en español\. Foto: Lola Indigo
 
-118 songs - 5 hr 54 min
+119 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Mil Laberintos](https://open.spotify.com/track/3PeaoxxHW9L5OVVnkWDg6S) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Mil Laberintos](https://open.spotify.com/album/6YKiRmNf2cuIRfuWmaaqMX) | 2:38 | 2023-03-13 |  |
 | [miprimeravez](https://open.spotify.com/track/6Dd4ZCRgGZAYioA2wv7HuS) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [miprimeravez](https://open.spotify.com/album/31JvVqtQB081E6WIhsfCz9) | 2:30 | 2023-04-17 |  |
 | [Nada ha cambiado](https://open.spotify.com/track/1DSifk5tKB93s9rAUJi4kn) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [NO ME PASA NADA](https://open.spotify.com/album/0KJSpW77D1DmoN5tBJKeyI) | 2:40 | 2023-03-21 | 2023-04-18 |
-| [NADA QUE DECIR](https://open.spotify.com/track/2Qnjj1OqW9NDTzBeanuXIP) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [NADA QUE DECIR](https://open.spotify.com/album/4CIjghQcVgXkYJscGKEQKF) | 3:33 | 2023-03-13 |  |
+| [NADA QUE DECIR](https://open.spotify.com/track/2Qnjj1OqW9NDTzBeanuXIP) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [NADA QUE DECIR](https://open.spotify.com/album/4CIjghQcVgXkYJscGKEQKF) | 3:33 | 2023-03-13 | 2023-04-20 |
+| [NADA QUE DECIR](https://open.spotify.com/track/6G1MDQDDID2UqYOJKmv8WU) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [SÚBEME EL VOLUMEN](https://open.spotify.com/album/24zX07CzVp04RN4qNgsFn9) | 3:33 | 2023-04-17 |  |
 | [Necesito silencio](https://open.spotify.com/track/1731Kg4nGnLl1Rtwo5q5GF) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7) | [Necesito silencio](https://open.spotify.com/album/6Aq2rxyoCmE86tHnMpVroj) | 3:04 | 2023-03-13 | 2023-03-22 |
 | [No me preguntes por qué](https://open.spotify.com/track/57uYrFRzFwbgH04QLA6TuB) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs) | [No me preguntes por qué](https://open.spotify.com/album/3TCx6YZbU2caIAw2ETPhbu) | 2:53 | 2023-03-13 | 2023-04-18 |
 | [No me ves](https://open.spotify.com/track/3KeZmRdDk7QtxDz3ldUuaD) | [Marina Reche](https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw) | [No me ves](https://open.spotify.com/album/2x45IbGkx4zYbuK8j3D1Bh) | 2:54 | 2023-03-13 | 2023-03-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > La liste de lecture officielle de l’édition 2023 des Francos de Montréal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,191 likes - 35 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,218 likes - 35 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 15 | [Poupée Russe](https://open.spotify.com/track/08Wp4lUKmtyAgX6w9KhTeM) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt) | [Montagnes Russes](https://open.spotify.com/album/01FvUhPKSiGylm8coBbWZN) | 2:39 |
 | 16 | [Montagne](https://open.spotify.com/track/08BYSPtCPlCxvx4jJaDqPF) | [Biga\*Ranx](https://open.spotify.com/artist/5rgdw8NVhnxWL8Poo6HsiX) | [Eh Yo!](https://open.spotify.com/album/0zYw19TVITYM3d6FC5ZrZM) | 2:23 |
 | 17 | [Icare](https://open.spotify.com/track/67OcVGdHgzLykVUbaXwVYv) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Bertrand Burgalat](https://open.spotify.com/artist/2JzpIUoj6kZ8r11iE46yq7) | [Icare](https://open.spotify.com/album/3xQhF7EoL5DS0DceUsG8Fv) | 3:42 |
-| 18 | [Pour louper l'école](https://open.spotify.com/track/0XW5XY9LcCw6hpS7EuORkj) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Kids United Nouvelle Generation](https://open.spotify.com/artist/3GjGdUg7HGaoqwMzFBbdqt) | [10 ans d'Enfantillages !](https://open.spotify.com/album/20yuAjZhTVhDHcYx6dep1w) | 3:14 |
-| 19 | [chanson triste](https://open.spotify.com/track/5WFiYXOtO5u45X5mLv6ckW) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [chanson triste](https://open.spotify.com/album/1QurzPgalUkcteDy3b6DUm) | 3:22 |
+| 18 | [chanson triste](https://open.spotify.com/track/5WFiYXOtO5u45X5mLv6ckW) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [chanson triste](https://open.spotify.com/album/1QurzPgalUkcteDy3b6DUm) | 3:22 |
+| 19 | [Pour louper l'école](https://open.spotify.com/track/0XW5XY9LcCw6hpS7EuORkj) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Kids United Nouvelle Generation](https://open.spotify.com/artist/3GjGdUg7HGaoqwMzFBbdqt) | [10 ans d'Enfantillages !](https://open.spotify.com/album/20yuAjZhTVhDHcYx6dep1w) | 3:14 |
 | 20 | [L'hiver](https://open.spotify.com/track/3gUgoLt5p69lJCfCJ7bhLd) | [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [Les Royaumes Minuscules](https://open.spotify.com/album/3VGubAeKi1fg002fAta5rz) | 4:12 |
 | 21 | [Provocante](https://open.spotify.com/track/5LdCzn92GXvMOJ2wHMHKJh) | [Marjo](https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk) | [Tant qu'il y aura des enfants](https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur) | 4:42 |
 | 22 | [La vie](https://open.spotify.com/track/3Qolx4UFKqkAK865XSTFG5) | [Arthur H](https://open.spotify.com/artist/2nYkI1rHgPRp95pTmO9GZR) | [LA VIE](https://open.spotify.com/album/10jDF7CGfczyhmy8zcfLvy) | 4:29 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 34 | [Inconfortable](https://open.spotify.com/track/2iwJgJ8lSuu2B0xnQMhwOT) | [Les Hôtesses D' Hilaire](https://open.spotify.com/artist/3pRRuE5iLd6Itecb1GbAUx) | [Pas l'temps d'niaiser](https://open.spotify.com/album/2IpF1t9C07C8QwdUpWLxqz) | 3:09 |
 | 35 | [Chou](https://open.spotify.com/track/7cXmpcXi9DW0ZgFxd1xbiB) | [Chou](https://open.spotify.com/artist/1Cqb7NVdvCVvToNwW8Tgb2) | [Chou](https://open.spotify.com/album/7H8J8kjgxD3VwA9EZEgIL1) | 2:03 |
 
-Snapshot ID: `MTY4MTgzMTMzMiwwMDAwMDAwMGExZDVjZmExZjBmMTRmZDJkMzk5YWI3YjZlZDQzMDVm`
+Snapshot ID: `MTY4MTgzMTMzMiwwMDAwMDAwMDE3MzJjNjUxYTIzOGRhMGU4MGI0NDg3MjJmMTZjNGE3`

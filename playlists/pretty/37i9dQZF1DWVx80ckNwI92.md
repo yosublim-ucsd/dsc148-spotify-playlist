@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVx80ckNwI92.md) - [plain]
 
 > The future of African Indie and Alternative
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,274 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,279 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

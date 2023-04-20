@@ -487,6 +487,24 @@
     },
     {
       "album": {
+        "name": "Navegando y Flotando",
+        "url": "https://open.spotify.com/album/5nlr24zHTeIXfuBci42L1Q"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162507,
+      "name": "Nada Me Va Mal",
+      "url": "https://open.spotify.com/track/1C0OMWgbKnJza9HEyC7s8g"
+    },
+    {
+      "album": {
         "name": "Tu Veneno Mortal, Vol. 2",
         "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
       },

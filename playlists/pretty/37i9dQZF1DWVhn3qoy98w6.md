@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 ### [Fresh Finds España](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Artistas independientes emergentes, cada miércoles\. Foto: Paco Te Quiero.
+> Artistas independientes emergentes, cada miércoles\. Foto: MYUKO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,124 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,145 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Para ya](https://open.spotify.com/track/2GENooaETQTSvwqvPZMkfd) | [Aranguren](https://open.spotify.com/artist/1mCayOxLt9RTQdH1OCHiY1) | [Para ya](https://open.spotify.com/album/6lxOtvXnoHWoVNLisIeSlZ) | 2:59 |
+| 1 | [Lo Que He Robao'](https://open.spotify.com/track/3ZYptOS1OVmQMR49Ai4yBh) | [MYUKO](https://open.spotify.com/artist/3hOScRnbfQX1CcPtA0wJgG), [Juana](https://open.spotify.com/artist/59rrpl4VEJ34sIXu4JFp8W) | [Lo Que He Robao'](https://open.spotify.com/album/5qKiB2A0CAOGE58FG7KuHV) | 3:56 |
 | 2 | [Un corazón que dice](https://open.spotify.com/track/1jKSW1pKnS35X3zyJ2utfk) | [Adriano Galante](https://open.spotify.com/artist/41Z5pGw3fHpaZicVCWNOxx), [b1n0](https://open.spotify.com/artist/18UQ4ex95zIah1bPDQctL9) | [Un corazón que dice](https://open.spotify.com/album/3dZQO3iv0WPtEpGxJ0CoTp) | 2:58 |
-| 3 | [Te perdí](https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI) | [Víctor Martín](https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN) | [Te perdí](https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG) | 3:20 |
-| 4 | [Lo Que He Robao'](https://open.spotify.com/track/3ZYptOS1OVmQMR49Ai4yBh) | [MYUKO](https://open.spotify.com/artist/3hOScRnbfQX1CcPtA0wJgG), [Juana](https://open.spotify.com/artist/59rrpl4VEJ34sIXu4JFp8W) | [Lo Que He Robao'](https://open.spotify.com/album/5qKiB2A0CAOGE58FG7KuHV) | 3:56 |
-| 5 | [Cumplo Condena](https://open.spotify.com/track/4OTJDVLzfp8awm8vpLhAv6) | [Gabriel Parpusa](https://open.spotify.com/artist/5Fw4TlJzoemKV0izeZJfp8) | [Cumplo Condena](https://open.spotify.com/album/688RdoXlFc3gJeKIbb5VTS) | 3:22 |
-| 6 | [Territorio](https://open.spotify.com/track/1S8hKJNNV0XQTZdJoYaMI2) | [Niños Luchando](https://open.spotify.com/artist/32ssrEXNswpY4dF56WYYZl) | [Territorio](https://open.spotify.com/album/6h28pVOS5NO6ZgbagcT8o1) | 3:55 |
-| 7 | [Costa Brava](https://open.spotify.com/track/1RY8EW1F5so5jQf6pGMUji) | [Lord Malvo](https://open.spotify.com/artist/0RpTnyHVl084J1I5V79gos) | [Costa Brava](https://open.spotify.com/album/511D2RkzYOuH1NXiH249uk) | 3:17 |
+| 3 | [Cumplo Condena](https://open.spotify.com/track/4OTJDVLzfp8awm8vpLhAv6) | [Gabriel Parpusa](https://open.spotify.com/artist/5Fw4TlJzoemKV0izeZJfp8) | [Cumplo Condena](https://open.spotify.com/album/688RdoXlFc3gJeKIbb5VTS) | 3:22 |
+| 4 | [Te perdí](https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI) | [Víctor Martín](https://open.spotify.com/artist/61Yep7VEr8FU4XEY2aUIMN) | [Te perdí](https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG) | 3:20 |
+| 5 | [Territorio](https://open.spotify.com/track/1S8hKJNNV0XQTZdJoYaMI2) | [Niños Luchando](https://open.spotify.com/artist/32ssrEXNswpY4dF56WYYZl) | [Territorio](https://open.spotify.com/album/6h28pVOS5NO6ZgbagcT8o1) | 3:55 |
+| 6 | [Costa Brava](https://open.spotify.com/track/1RY8EW1F5so5jQf6pGMUji) | [Lord Malvo](https://open.spotify.com/artist/0RpTnyHVl084J1I5V79gos) | [Costa Brava](https://open.spotify.com/album/511D2RkzYOuH1NXiH249uk) | 3:09 |
+| 7 | [Para ya](https://open.spotify.com/track/2GENooaETQTSvwqvPZMkfd) | [Aranguren](https://open.spotify.com/artist/1mCayOxLt9RTQdH1OCHiY1) | [Para ya](https://open.spotify.com/album/6lxOtvXnoHWoVNLisIeSlZ) | 2:59 |
 | 8 | [Entre un Somni i la Realitat](https://open.spotify.com/track/2haEscBdlubIuUXSIQCRuj) | [Iglú](https://open.spotify.com/artist/4Wfi7bsHCX2jfKgYvwl4gO) | [ENTRE UN SOMNI I LA REALITAT](https://open.spotify.com/album/2j8tP7DBahP9uPQqABjNC3) | 2:59 |
 | 9 | [7 de novembre de 2022](https://open.spotify.com/track/0MLoQlIZnsEAbaKQBd3r0M) | [Marialluïsa](https://open.spotify.com/artist/57vnEmo3jRkWAigCYgNRaD) | [7 de novembre de 2022](https://open.spotify.com/album/3hj3RZN2KQ8KWHZbYmwFbK) | 3:34 |
 | 10 | [depre](https://open.spotify.com/track/5VKr9ogZgGYH50vOkrXC1f) | [HOLOGRAMMA](https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm) | [depre](https://open.spotify.com/album/1dww9M7oFGiLTrYG3QypWb) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [me dejaste de llamar](https://open.spotify.com/track/2Gy6AtPhe1JLBgdKyhwBqO) | [Claudia Allmang](https://open.spotify.com/artist/4yhXgyV9rONKb4ywoq6UTh), [Claudia Bain](https://open.spotify.com/artist/0HpMnoBW5aeXNr9tWZyPWt), [Karma C](https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh) | [me dejaste de llamar](https://open.spotify.com/album/5nUO65ZbITVhGij1nJ8Ayi) | 3:09 |
 | 50 | [ROTA X TI](https://open.spotify.com/track/2oDHpyHglOzUdK0uYOFzzo) | [CARMON](https://open.spotify.com/artist/5528FPYYEJhHliZjO3DxrE) | [ROTA X TI](https://open.spotify.com/album/6P4O4uLRNdoxzLAqhy24JC) | 2:44 |
 
-Snapshot ID: `MTY4MTg1NTIwMCwwMDAwMDAwMDMwOTkwODIwODgzYmU1MGYxY2MyZTc2N2M5ZjIxODEx`
+Snapshot ID: `MTY4MTg5MzMzOCwwMDAwMDAwMDViYjY0MzM1ZDQ3NTU1NTViNzRiZGM4OGQ0ZTVmNzI2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  Showtek
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,440 likes - 39 songs - 1 hr 50 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,447 likes - 39 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

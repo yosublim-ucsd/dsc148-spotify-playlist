@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! LAGOS y Reik en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,107 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,192 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 8 | [Quédate](https://open.spotify.com/track/65gTApZvCndEZnnEGHayN1) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Quédate](https://open.spotify.com/album/3ibZ6PyJY3pJYIpJcmw6MP) | 3:18 |
 | 9 | [En El Alma](https://open.spotify.com/track/68EoXsE22L4KIq6hYqsOOb) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [En el Alma](https://open.spotify.com/album/1DgBKSa074CmHpAxJ8XLJu) | 3:46 |
 | 10 | [De Nada](https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 2:16 |
-| 11 | [Será](https://open.spotify.com/track/274DxFl65yG2axEybZ8JwO) | [Adri Torron](https://open.spotify.com/artist/3T0oriPM85tk87rTIIX6pL) | [Será](https://open.spotify.com/album/2WPh7yMafVdo7iQdzyI34C) | 2:16 |
+| 11 | [Será](https://open.spotify.com/track/274DxFl65yG2axEybZ8JwO) | [Adri Torron](https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E) | [Será](https://open.spotify.com/album/2WPh7yMafVdo7iQdzyI34C) | 2:16 |
 | 12 | [Tan Viva](https://open.spotify.com/track/3q9urLw4ksYMKJHBqIu4kb) | [JNS](https://open.spotify.com/artist/36VEEgbtrb7tx601gvlzli) | [Tan Viva](https://open.spotify.com/album/6odmoJINNoQa4pRrfcRwEs) | 3:25 |
 | 13 | [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 |
 | 14 | [sin ti </3](https://open.spotify.com/track/11PYImjBVaZ2pDE1ERIdHM) | [D\. Krugga](https://open.spotify.com/artist/4x65cIPX0RvYoK1zmQgQXH) | [sin ti </3](https://open.spotify.com/album/7z0agt22EaaxvqDyLxZVsq) | 3:03 |
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 22 | [Amapolas \- Remix](https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Amapolas \(Remix\)](https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U) | 4:27 |
 | 23 | [A Un Paso De La Luna \- Remix](https://open.spotify.com/track/6EQR7Y5vVZFiPD0RUECIDv) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [A Un Paso De La Luna \(Remix\)](https://open.spotify.com/album/7uqAed3H0PhUrLDoyVATh8) | 3:14 |
 | 24 | [sanvalentín:\(](https://open.spotify.com/track/4ETb1UPd2OAem6KVOpz0WM) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [sanvalentín:\(](https://open.spotify.com/album/3zaBvAmrb7tyHt0kvVWGt9) | 4:02 |
-| 25 | [Luna](https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Luna](https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf) | 2:28 |
+| 25 | [Modo Melancólico](https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Modo Melancólico](https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1) | 2:46 |
 | 26 | [Enséñame](https://open.spotify.com/track/3eo3Dw5OGSWCzJDVHLKE3v) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Rebelde](https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj) | 3:41 |
-| 27 | [Modo Melancólico](https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Modo Melancólico](https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1) | 2:46 |
+| 27 | [Luna](https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Luna](https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf) | 2:28 |
 | 28 | [SOS](https://open.spotify.com/track/0xK4UKF4xr21C6pzI7msG3) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [SOS](https://open.spotify.com/album/4Hlh3k8RaJFxb9W3xbLlTH) | 3:02 |
 | 29 | [Tengamos Pasado](https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Tengamos Pasado](https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF) | 3:00 |
 | 30 | [Bien Por Ti](https://open.spotify.com/track/7LWhpOibaXbJNSgQaTPmgG) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Bien Por Ti](https://open.spotify.com/album/7E0TeYo5ebKzkUzxP1NhX5) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 49 | [Cruda](https://open.spotify.com/track/1ZhNiBiRdBZgOWVzm6aC9F) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr) | [Cruda](https://open.spotify.com/album/6CgVWHze89cEGl44tN6XeH) | 2:45 |
 | 50 | [Morena Mujer](https://open.spotify.com/track/3nqD2zEi8WQlI2gUzsGDtm) | [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Morena Mujer](https://open.spotify.com/album/52Enkie6zGmASAECzepRp1) | 2:54 |
 
-Snapshot ID: `MTY4MDg4MjcyNywwMDAwMDAwMDNmZmNiYzUwNWFjYmRhNWVkZTVhYmQ3NjBlYTE3YjAw`
+Snapshot ID: `MTY4MDg4MjcyNywwMDAwMDAwMDY4NzQzNjkwMjcxNzE5MjY3ZGRmYTYwZGEzNTRjMTY5`

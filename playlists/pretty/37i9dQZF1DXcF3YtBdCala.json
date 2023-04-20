@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Paola Jara en portada. ",
-  "num_followers": 125850,
+  "num_followers": 125876,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDE0NzllMzU4ZTRiNzJiZDAyZDM0NzcxMWE2YmFiZmVh",
+  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDg5M2RkYzRkZWU2ZjkyZjljMmZhZWQ4YjIyZTQ5ZmQ1",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "No Quer\u00eda Enga\u00f1arte",
+        "url": "https://open.spotify.com/album/7iOHpFiXyBtlIvkCMInHpN"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 241728,
+      "name": "No Quer\u00eda Enga\u00f1arte",
+      "url": "https://open.spotify.com/track/1IGd9cS67gcK1SGVyWqEtz"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "X Personas Como T\u00fa",
         "url": "https://open.spotify.com/album/3GaUAF6cuvJ8RIObkEJe2s"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 173016,
       "name": "X Personas Como T\u00fa",
       "url": "https://open.spotify.com/track/1BnzpdLJJk6JMGLM667CkG"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "No Quer\u00eda Enga\u00f1arte",
-        "url": "https://open.spotify.com/album/7iOHpFiXyBtlIvkCMInHpN"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 241728,
-      "name": "No Quer\u00eda Enga\u00f1arte",
-      "url": "https://open.spotify.com/track/1IGd9cS67gcK1SGVyWqEtz"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        }
+      ],
+      "duration_ms": 157607,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Paloma Blanca",
         "url": "https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI"
       },
@@ -1055,38 +1071,26 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Fumo Y Bebo",
-        "url": "https://open.spotify.com/album/0eZyVJO83jcxuJclfwfPoC"
+        "name": "Asi Soy Yo (Remix)",
+        "url": "https://open.spotify.com/album/70WHsIuGd7gv2HcD34hezS"
       },
       "artists": [
+        {
+          "name": "Alexis Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/74F14UgJDPL2FCVmQE8Ycj"
+        },
+        {
+          "name": "Luisito Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P"
+        },
         {
           "name": "Pipe Bueno",
           "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        },
-        {
-          "name": "Pablo Ocampo",
-          "url": "https://open.spotify.com/artist/69wshErE40YE33tpZXbdzK"
         }
       ],
-      "duration_ms": 148911,
-      "name": "Fumo Y Bebo",
-      "url": "https://open.spotify.com/track/7gCFWQenmcQN6Sp6kl8RKP"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/60kJstm2YGdiqr6g7gpCqB"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        }
-      ],
-      "duration_ms": 157607,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/6ExLGBti18vFy0Kc3QNXvO"
+      "duration_ms": 175813,
+      "name": "Asi Soy Yo - Remix",
+      "url": "https://open.spotify.com/track/2lCWraVKfxzcazOS9mxu5T"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1123,18 +1127,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Ese Fui Yo",
-        "url": "https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom"
+        "name": "Fumo Y Bebo",
+        "url": "https://open.spotify.com/album/0eZyVJO83jcxuJclfwfPoC"
       },
       "artists": [
         {
-          "name": "Nab\u00e1lez",
-          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Pablo Ocampo",
+          "url": "https://open.spotify.com/artist/69wshErE40YE33tpZXbdzK"
         }
       ],
-      "duration_ms": 162133,
-      "name": "Ese Fui Yo",
-      "url": "https://open.spotify.com/track/5PK6gIPq56QfTF9DIhWEgR"
+      "duration_ms": 148911,
+      "name": "Fumo Y Bebo",
+      "url": "https://open.spotify.com/track/7gCFWQenmcQN6Sp6kl8RKP"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1155,26 +1163,34 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Asi Soy Yo (Remix)",
-        "url": "https://open.spotify.com/album/70WHsIuGd7gv2HcD34hezS"
+        "name": "Ese Fui Yo",
+        "url": "https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom"
       },
       "artists": [
         {
-          "name": "Alexis Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/74F14UgJDPL2FCVmQE8Ycj"
-        },
-        {
-          "name": "Luisito Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P"
-        },
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+          "name": "Nab\u00e1lez",
+          "url": "https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF"
         }
       ],
-      "duration_ms": 175813,
-      "name": "Asi Soy Yo - Remix",
-      "url": "https://open.spotify.com/track/2lCWraVKfxzcazOS9mxu5T"
+      "duration_ms": 162133,
+      "name": "Ese Fui Yo",
+      "url": "https://open.spotify.com/track/5PK6gIPq56QfTF9DIhWEgR"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Navajas En El Viento",
+        "url": "https://open.spotify.com/album/2yGAqrfzTvChwWsB10c5Nj"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "Navajas En El Viento",
+      "url": "https://open.spotify.com/track/6EhatS1CYbGwgn1Sip0nG7"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1195,22 +1211,6 @@
       "duration_ms": 208106,
       "name": "Todo Me Recuerda A Ti",
       "url": "https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Navajas En El Viento",
-        "url": "https://open.spotify.com/album/2yGAqrfzTvChwWsB10c5Nj"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "Navajas En El Viento",
-      "url": "https://open.spotify.com/track/6EhatS1CYbGwgn1Sip0nG7"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Me Pase de Tragos",
+        "url": "https://open.spotify.com/album/6hA1t3VClQcV24hLiQ0zQn"
+      },
+      "artists": [
+        {
+          "name": "Alexis Escobar",
+          "url": "https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Me Pase de Tragos",
+      "url": "https://open.spotify.com/track/5ZGfTN3AjHosH5O8bpjyOf"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "No Copio de Nada",
         "url": "https://open.spotify.com/album/6i0OPQJveV0dkMlOb3jQWF"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 198893,
       "name": "No Mereces Que Te Quiera",
       "url": "https://open.spotify.com/track/6xtNRDtb45QqLNHNPYjw6f"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "La Loter\u00eda",
-        "url": "https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 186628,
-      "name": "La Loter\u00eda",
-      "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
     },
     {
       "added_at": "2023-04-14 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 
 > Britpop, trip\-hop, grunge and more from the other side of the 90s\. Cover: The Cure
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,182,245 likes - 80 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,181,536 likes - 80 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 32 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 |
 | 33 | [Friday I'm in Love](https://open.spotify.com/track/263aNAQCeFSWipk896byo6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu) | 3:34 |
 | 34 | [In Bloom](https://open.spotify.com/track/30HCB1FoE77IfGRyNv4eFq) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 4:15 |
-| 35 | [Common People](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 |
-| 36 | [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 |
+| 35 | [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 |
+| 36 | [Common People](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 |
 | 37 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
 | 38 | [Laid](https://open.spotify.com/track/2CdS3DRqWR5LAhy4hM5X9W) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Laid](https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe) | 2:36 |
 | 39 | [Man On The Moon](https://open.spotify.com/track/4jLv3tDBu8ww2R07DvL12s) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 5:14 |
 | 40 | [Lump](https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8) | [The Presidents Of The United States Of America](https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM) | [The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition](https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1) | 2:14 |
 | 41 | [Cherry\-coloured Funk](https://open.spotify.com/track/37pKTyMwalomKCZjxTc2QZ) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:12 |
-| 42 | [A Girl Like You](https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3) | [Edwyn Collins](https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT) | [Gorgeous George](https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir) | 3:56 |
-| 43 | [Your Woman](https://open.spotify.com/track/4ACxa9buEUnOdYEoPcnMpi) | [White Town](https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM) | [Women In Technology](https://open.spotify.com/album/3Xp1KG3G31VGZgV8JpMSX6) | 4:19 |
+| 42 | [Your Woman](https://open.spotify.com/track/4ACxa9buEUnOdYEoPcnMpi) | [White Town](https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM) | [Women In Technology](https://open.spotify.com/album/3Xp1KG3G31VGZgV8JpMSX6) | 4:19 |
+| 43 | [A Girl Like You](https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3) | [Edwyn Collins](https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT) | [Gorgeous George](https://open.spotify.com/album/4HBLunZ4GQjnraimqR77Ir) | 3:56 |
 | 44 | [Live Forever \- Remastered](https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:36 |
 | 45 | [There She Goes](https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW) | 2:42 |
 | 46 | [Born Slippy \(Nuxx\)](https://open.spotify.com/track/7xQYVjs4wZNdCwO0EeAWMC) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [1992 \- 2012](https://open.spotify.com/album/68wdXsJmyuDfbozV2rDjXq) | 7:36 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 79 | [You & Me Song](https://open.spotify.com/track/5KiKFJdmU6m0QWxpW9xjOB) | [The Wannadies](https://open.spotify.com/artist/7GBLSeDdlx3gl2cxHvYuOh) | [Be A Girl](https://open.spotify.com/album/7bx60z6sWg9fz9Ve2AruOI) | 2:50 |
 | 80 | [The Only One I Know](https://open.spotify.com/track/7ziicmUOzWXAkdPriOmFk9) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Some Friendly](https://open.spotify.com/album/6Bb253vXd4mFULDwLhNf7u) | 3:58 |
 
-Snapshot ID: `MTY3MzM1ODI1MywwMDAwMDAwMGM1ZTQyNWRkNmRiODgwMDhlMDYxYzc4YTk2NmJlZDcz`
+Snapshot ID: `MTY3MzM1ODI1MywwMDAwMDAwMDQ1MmRjYzgyZTgyOTQ4ZjRlYmVmNWY5MmEyMjYxNzZm`

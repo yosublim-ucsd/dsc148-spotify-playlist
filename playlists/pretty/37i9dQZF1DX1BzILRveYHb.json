@@ -1,12 +1,12 @@
 {
   "description": "Easy listening pop that feels sunny wherever you are.",
-  "num_followers": 571016,
+  "num_followers": 571417,
   "original_name": "Sunny Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjI5NDAxNSwwMDAwMDAwMDhhYjliOTdhNjY1NGIzMTk2YTFjNmFmMWE3MjQxZGE4",
+  "snapshot_id": "MTY3MjI5NDAxNSwwMDAwMDAwMDkxOWYzMDc0OWM2OTczMzc1MjZmNGNkMjY2MWFlNzVi",
   "tracks": [
     {
       "added_at": "2022-12-29 06:06:55",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-12-29 06:06:55",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Three Little Birds",
-      "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"
-    },
-    {
-      "added_at": "2022-12-29 06:06:55",
-      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 200306,
       "name": "Island In The Sun",
       "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
+    },
+    {
+      "added_at": "2022-12-29 06:06:55",
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"
     },
     {
       "added_at": "2022-12-29 06:06:55",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-12-29 06:06:55",
       "album": {
-        "name": "August And Everything After",
-        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 272293,
-      "name": "Mr. Jones",
-      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
-    },
-    {
-      "added_at": "2022-12-29 06:06:55",
-      "album": {
         "name": "Drops Of Jupiter",
         "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 259933,
       "name": "Drops of Jupiter (Tell Me)",
       "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
+    },
+    {
+      "added_at": "2022-12-29 06:06:55",
+      "album": {
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Mr. Jones",
+      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
     },
     {
       "added_at": "2022-12-29 06:06:55",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-12-29 06:06:55",
       "album": {
-        "name": "Simple Pleasures",
-        "url": "https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b"
-      },
-      "artists": [
-        {
-          "name": "Bobby McFerrin",
-          "url": "https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid"
-        }
-      ],
-      "duration_ms": 294400,
-      "name": "Don't Worry Be Happy",
-      "url": "https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY"
-    },
-    {
-      "added_at": "2022-12-29 06:06:55",
-      "album": {
         "name": "How To Save A Life",
         "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 236266,
       "name": "Over My Head (Cable Car)",
       "url": "https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP"
+    },
+    {
+      "added_at": "2022-12-29 06:06:55",
+      "album": {
+        "name": "Simple Pleasures",
+        "url": "https://open.spotify.com/album/4zhRkgoZKC2xCPPys1gK4b"
+      },
+      "artists": [
+        {
+          "name": "Bobby McFerrin",
+          "url": "https://open.spotify.com/artist/2FjkZT851ez950cyPjeYid"
+        }
+      ],
+      "duration_ms": 294400,
+      "name": "Don't Worry Be Happy",
+      "url": "https://open.spotify.com/track/4hObp5bmIJ3PP3cKA9K9GY"
     },
     {
       "added_at": "2022-12-29 06:06:55",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-12-29 06:06:55",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 230549,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs"
-    },
-    {
-      "added_at": "2022-12-29 06:06:55",
-      "album": {
         "name": "Jagged Little Pill (2015 Remaster)",
         "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 222013,
       "name": "Hand in My Pocket - 2015 Remaster",
       "url": "https://open.spotify.com/track/2lE7oRoKssULAtbWViL385"
+    },
+    {
+      "added_at": "2022-12-29 06:06:55",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 230549,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs"
     }
   ],
   "unique_name": "Sunny Day",

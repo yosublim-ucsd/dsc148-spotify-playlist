@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,837 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,364 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 44 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 |
 | 45 | [Thankful](https://open.spotify.com/track/62uRYwQ4UV7UoMpQ6hXqPj) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Thankful](https://open.spotify.com/album/7yOGwFeMaA4ucX5W0JFMKq) | 3:29 |
 | 46 | [Paso A Pasito](https://open.spotify.com/track/0oXXhfxgC0dV4UFvVKLL6J) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Paso A Pasito](https://open.spotify.com/album/65SCAsrB3oSDhqU6HY7r2j) | 2:43 |
-| 47 | [2 BEST FRIENDS](https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:18 |
+| 47 | [2 BEST FRIENDS](https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4) | 2:18 |
 | 48 | [The Game](https://open.spotify.com/track/1FTQhbMT3Wl7CoRS4jA2LK) | [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [The LOX](https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP) | [The Game](https://open.spotify.com/album/1iFw5aFJCIV4xLrvWdSdoH) | 3:53 |
 | 49 | [Distant Lover](https://open.spotify.com/track/7dKKGLfPUPPp4YsAke8iWE) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Love Scars II](https://open.spotify.com/album/4bOSKl0Hlmi5jXWxcxhHgs) | 2:56 |
 | 50 | [Eyes](https://open.spotify.com/track/6wuASGjSmuoGXdWsBH7X4U) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Eyes](https://open.spotify.com/album/3sAuWSoICmCl9cx6uBr4Ft) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Spider](https://open.spotify.com/track/5K2Pxa2zSpIk2ROgRa9jUc) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Spider](https://open.spotify.com/album/4w42UNeqts8JN3uSW6O2A9) | 4:01 |
 | 100 | [THERAPY](https://open.spotify.com/track/49Lbka7DlfHkooF7ZIkQl2) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [THERAPY](https://open.spotify.com/album/13pHhMjxP0rRnWm7o0CZHw) | 2:06 |
 
-Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMDM0ZmY0NTdmM2NiOTc1NDk2ZDkwMGYyNjBhZmRjODQ3`
+Snapshot ID: `MTY4MTQ0NDgwMCwwMDAwMDAwMGNmZWNmZTE3MGVhZTNmMzA4NWU1YTIzMWQ3Njc0YmQ3`

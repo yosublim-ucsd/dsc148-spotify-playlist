@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,242 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,667 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hAXqBDwvwI.md) - [plain]
 | 42 | [Sign](https://open.spotify.com/track/0xmWQKzc5m9rLv2ucDWxwD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [MICROCOSM](https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa) | 3:56 |
 | 43 | [冬のはなし](https://open.spotify.com/track/3VrKkcEm7RYXBI9RLv7SL7) | [ギヴン](https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j) | [gift](https://open.spotify.com/album/7wR9KWzI8aoR89ryUPDhmr) | 3:28 |
 | 44 | [遥か彼方](https://open.spotify.com/track/5ORPYXJKlpHWIdceavSGrL) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [BEST HIT AKG](https://open.spotify.com/album/2fgUFE1g0dJfGL007BoveA) | 4:03 |
-| 45 | [again](https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [HOLIDAYS IN THE SUN](https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX) | 4:14 |
-| 46 | [il vento d'oro](https://open.spotify.com/track/17VP4tofJ3evJbtY8Tk1Qi) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Golden Wind O.S.T vol.1 Overture](https://open.spotify.com/album/0SLGYonJPgxa7qRDxqtraX) | 4:55 |
-| 47 | [Zenzenzense \- movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 4:45 |
-| 48 | [White Noise](https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [White Noise](https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf) | 4:14 |
-| 49 | [MUKANJYO](https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [MUKANJYO](https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh) | 3:12 |
+| 45 | [Zenzenzense \- movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 4:45 |
+| 46 | [again](https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [HOLIDAYS IN THE SUN](https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX) | 4:14 |
+| 47 | [il vento d'oro](https://open.spotify.com/track/17VP4tofJ3evJbtY8Tk1Qi) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [JOJO'S BIZARRE ADVENTURE \-Golden Wind O.S.T vol.1 Overture](https://open.spotify.com/album/0SLGYonJPgxa7qRDxqtraX) | 4:55 |
+| 48 | [MUKANJYO](https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [MUKANJYO](https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh) | 3:12 |
+| 49 | [White Noise](https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [White Noise](https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf) | 4:14 |
 | 50 | [逆光 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/5GXYKnnzBlHvrzBQ5WoxME) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [逆光 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564) | 3:57 |
 
-Snapshot ID: `MTY4MTI4NTMxMywwMDAwMDAwMGQ2ZjBmNDY0YmMyOTI4YjliYTdmMzhhZDMzMmEzMjky`
+Snapshot ID: `MTY4MTI4NTMxMywwMDAwMDAwMDdkZDA2NzU4MzQ0ODJkYWM4OTkzZTg1MzQ0YzZlMjVm`

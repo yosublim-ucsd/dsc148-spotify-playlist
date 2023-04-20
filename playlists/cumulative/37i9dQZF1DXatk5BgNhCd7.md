@@ -4,7 +4,7 @@
 
 > Nuevos temas de géneros tropicales\. Foto: Matías Valdez & La K'onga.
 
-945 songs - 2 day 8 hr 27 min
+946 songs - 2 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -871,6 +871,7 @@
 | [Un recuerdo me hace llorar / Como has hecho / Todo de repente / En mi cuarto vacio / Se fueron los amigos / Cantando a la gilada](https://open.spotify.com/track/7feKPJWGZhwBOhLiGPdQoZ) | [Hernán Narváez](https://open.spotify.com/artist/2brJ4vBZ0qTpws7xxuMOSz), [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Un recuerdo me hace llorar / Como has hecho / Todo de repente / En mi cuarto vacio / Se fueron los amigos / Cantando a la gilada](https://open.spotify.com/album/14oRfGOD5rs8kFtATACv07) | 10:54 | 2023-01-13 | 2023-01-21 |
 | [Un Tín Tín](https://open.spotify.com/track/2gRN8dGLqnpj0TKoGE8sb5) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Un Tín Tín](https://open.spotify.com/album/4a5QcsvWyKziBN7cNw1E5b) | 2:59 | 2022-12-09 | 2023-04-09 |
 | [Un Verano Sin Ti](https://open.spotify.com/track/3DsXV8kdzLcHkpYo5PBrry) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Un Verano Sin Ti](https://open.spotify.com/album/2Fjfa3X3uAu6UlAj3cmcnn) | 3:09 | 2022-05-27 | 2022-06-04 |
+| [un x100to](https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [un x100to](https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT) | 3:14 | 2023-04-19 |  |
 | [Una Cerveza \- Remix](https://open.spotify.com/track/5Zc7p3LzwpM1DZ65toAj1l) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Una Cerveza \(Remix\)](https://open.spotify.com/album/5LgepBhce1HDTSO8Ko6e1G) | 3:16 | 2022-09-23 | 2022-10-15 |
 | [Una Copa de Más \- En Vivo](https://open.spotify.com/track/0SwkOOtQpkKDTUFOSIijpr) | [Sonido Caracol](https://open.spotify.com/artist/2QoRWNLJ6A9M8f9F0ovGcM), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Una Copa de Más \(En Vivo\)](https://open.spotify.com/album/7LlRV4bIsP2akGc5deG4sL) | 5:16 | 2023-04-14 |  |
 | [UNA CUMBITA](https://open.spotify.com/track/3GpnVe55oNyrjtrKy8ZMQJ) | [Qmbia Base](https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU) | [UNA CUMBITA](https://open.spotify.com/album/2xQpj4BrjTCrMmPgHYs4Az) | 2:15 | 2023-02-03 | 2023-02-18 |

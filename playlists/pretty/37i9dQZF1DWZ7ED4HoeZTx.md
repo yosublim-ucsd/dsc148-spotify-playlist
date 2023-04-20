@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 
 > Your chill anime soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,985 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,238 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 22 | [Eternal Youth](https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:25 |
 | 23 | [カタオモイ](https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 3:27 |
 | 24 | [ドラム式探査機](https://open.spotify.com/track/2qW7HHuuwlahgLsZcSpKca) | [田所あずさ](https://open.spotify.com/artist/6QA62pTldn4AF8DeKsKW0h) | [ドラム式探査機](https://open.spotify.com/album/1hmjufGe7sXt8LfQifBJZs) | 3:52 |
-| 25 | [Clair de Lune, L\. 32](https://open.spotify.com/track/5u5aVJKjSMJr4zesMPz7bL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Martin Jones](https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND) | [Debussy: Clair De Lune and Other Piano Favourites](https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe) | 4:28 |
-| 26 | [Sparkle \- movie ver.](https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 8:57 |
+| 25 | [Sparkle \- movie ver.](https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 8:57 |
+| 26 | [Clair de Lune, L\. 32](https://open.spotify.com/track/5u5aVJKjSMJr4zesMPz7bL) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Martin Jones](https://open.spotify.com/artist/1VzJXXVXsYbEK773GWSoND) | [Debussy: Clair De Lune and Other Piano Favourites](https://open.spotify.com/album/4O5tv6jrLH80bmll46xEEe) | 4:28 |
 | 27 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
 | 28 | [san francisco \- 181 ver](https://open.spotify.com/track/2wdmqQqUjGrZsjVvPzU0Qi) | [MIDICRONICA](https://open.spotify.com/artist/2v4xE9iGRGIKGxxCku3HWy), [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY), [MIDICRONICA 716](https://open.spotify.com/artist/7ErgIz6RK3oPeYp3wdVj0m), [894](https://open.spotify.com/artist/5PD9jnqnPTo1q1Fr6k619f) | [san francisco](https://open.spotify.com/album/5U0ePkRQnzYpglXS6glqO9) | 3:26 |
 | 29 | [ODDTAXI](https://open.spotify.com/track/4bMo9lJmh3jNTzfmfQ1YcL) | [スカートとPUNPEE](https://open.spotify.com/artist/2c1PTv8do7xhzgK6rKBf5A), [スカート](https://open.spotify.com/artist/1rOnNKoQhifOY4rIH4wMtk), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [ODDTAXI](https://open.spotify.com/album/3xvfQSF7SX9lk4OC1wwOTS) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 49 | [忘れられないの](https://open.spotify.com/track/7a3LbQFgp7NCuNcGlTgSsN) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 3:58 |
 | 50 | [Always with Me](https://open.spotify.com/track/0FJL3Dwu8oUpwDb80qNdvP) | [Yumi Kimura](https://open.spotify.com/artist/6GwGjApO5BIdafJUMazVN3) | [Spirited Away Soundtrack](https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9) | 3:35 |
 
-Snapshot ID: `MTY4MTgzMDAwMCwwMDAwMDAwMDBlNjc2OTA5OTNkYzZmYmQ1ZDA4MWNiZTVlODUyZDJl`
+Snapshot ID: `MTY4MTgzMDAwMCwwMDAwMDAwMDRkMmRhMmU4NmY0ZTBlM2NiMWU3Nzk3YzQxYzY0ZmU4`

@@ -1,12 +1,12 @@
 {
   "description": "Here's to the groom! Enjoy your day with the boys!",
-  "num_followers": 93323,
+  "num_followers": 93329,
   "original_name": "Bachelor Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDAwNTMwOSwwMDAwMDAwMDMzMGNhNDdiYmQ3ZTFlZGExOTg1ZjYwOTc2MzM3OGMy",
+  "snapshot_id": "MTY3MDAwNTMwOSwwMDAwMDAwMDBlNmEwNTQ4NTI0NDUwZDRjOGM0ZmFhNTgxNzMyM2M4",
   "tracks": [
     {
       "added_at": "2022-05-11 15:37:27",
@@ -851,6 +851,22 @@
     {
       "added_at": "2022-05-11 15:37:27",
       "album": {
+        "name": "Hold My Home",
+        "url": "https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "First",
+      "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
+    },
+    {
+      "added_at": "2022-05-11 15:37:27",
+      "album": {
         "name": "Jagged Little Thrill",
         "url": "https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 232573,
       "name": "Where the Party At (feat. Nelly)",
       "url": "https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0"
-    },
-    {
-      "added_at": "2022-05-11 15:37:27",
-      "album": {
-        "name": "Hold My Home",
-        "url": "https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "First",
-      "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
     },
     {
       "added_at": "2022-05-11 15:37:27",

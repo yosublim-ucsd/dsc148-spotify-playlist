@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! LAGOS y Reik en portada.",
-  "num_followers": 65107,
+  "num_followers": 65192,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg4MjcyNywwMDAwMDAwMDNmZmNiYzUwNWFjYmRhNWVkZTVhYmQ3NjBlYTE3YjAw",
+  "snapshot_id": "MTY4MDg4MjcyNywwMDAwMDAwMDY4NzQzNjkwMjcxNzE5MjY3ZGRmYTYwZGEzNTRjMTY5",
   "tracks": [
     {
       "added_at": "2023-04-07 15:52:07",
@@ -197,7 +197,7 @@
       "artists": [
         {
           "name": "Adri Torron",
-          "url": "https://open.spotify.com/artist/3T0oriPM85tk87rTIIX6pL"
+          "url": "https://open.spotify.com/artist/4dpXYalt8qXd3R4yLPQE7E"
         }
       ],
       "duration_ms": 136796,
@@ -479,18 +479,22 @@
     {
       "added_at": "2023-04-07 15:52:07",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf"
+        "name": "Modo Melanc\u00f3lico",
+        "url": "https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
         }
       ],
-      "duration_ms": 148700,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ"
+      "duration_ms": 166207,
+      "name": "Modo Melanc\u00f3lico",
+      "url": "https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI"
     },
     {
       "added_at": "2023-04-07 15:52:07",
@@ -535,22 +539,18 @@
     {
       "added_at": "2023-04-07 15:52:07",
       "album": {
-        "name": "Modo Melanc\u00f3lico",
-        "url": "https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1"
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf"
       },
       "artists": [
         {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 166207,
-      "name": "Modo Melanc\u00f3lico",
-      "url": "https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI"
+      "duration_ms": 148700,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ"
     },
     {
       "added_at": "2023-04-07 15:52:07",

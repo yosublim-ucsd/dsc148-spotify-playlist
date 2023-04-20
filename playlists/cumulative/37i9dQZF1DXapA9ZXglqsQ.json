@@ -531,24 +531,6 @@
     },
     {
       "album": {
-        "name": "FREEDOM PIANO STORIES 4",
-        "url": "https://open.spotify.com/album/5y3QOvNMlvamEs4rzua8JV"
-      },
-      "artists": [
-        {
-          "name": "Joe Hisaishi",
-          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
-        }
-      ],
-      "date_added": "2021-08-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 311106,
-      "name": "Merry-Go-Round of Life - from 'Howl's Moving Castle'",
-      "url": "https://open.spotify.com/track/39uLYYZytVUwcjgeYLI409"
-    },
-    {
-      "album": {
         "name": "Merry-Go-Round of Life (from 'Howl\u2019s Moving Castle')",
         "url": "https://open.spotify.com/album/39aX7AHzQvs6m4C8cIpatW"
       },
@@ -566,8 +548,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 164931,
-      "name": "Merry-Go-Round of Life - from 'Howl\u2019s Moving Castle'",
+      "name": "Merry-Go-Round of Life",
       "url": "https://open.spotify.com/track/1CHswVnHopmeIly3bTSnmF"
+    },
+    {
+      "album": {
+        "name": "FREEDOM PIANO STORIES 4",
+        "url": "https://open.spotify.com/album/5y3QOvNMlvamEs4rzua8JV"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "date_added": "2021-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311106,
+      "name": "Merry-Go-Round of Life - from 'Howl's Moving Castle'",
+      "url": "https://open.spotify.com/track/39uLYYZytVUwcjgeYLI409"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This is AFI\. The essential tracks, all in one playlist.
 
-59 songs - 2 hr 59 min
+60 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Aurelia](https://open.spotify.com/track/7DlLTbTiZiM1Yye5roUYku) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 2:54 | 2022-10-25 |  |
 | [Beautiful Thieves](https://open.spotify.com/track/1HZsS7bmZvn3TzCyI0Vs2C) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love](https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I) | 3:46 | 2022-10-25 |  |
 | [Begging For Trouble](https://open.spotify.com/track/5JdWKsA1x4DOpn8w25vJHg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 2:20 | 2022-10-25 |  |
-| [Caught](https://open.spotify.com/track/7A9NDbXc5OKPVwaVCdHee1) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Caught](https://open.spotify.com/album/4ZPqvJHBWHaFjgSkhWQcOA) | 4:11 | 2022-10-25 |  |
+| [Caught](https://open.spotify.com/track/7A9NDbXc5OKPVwaVCdHee1) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Caught](https://open.spotify.com/album/4ZPqvJHBWHaFjgSkhWQcOA) | 4:11 | 2022-10-25 | 2023-04-20 |
+| [Cult Status](https://open.spotify.com/track/3ugwlbdItAHh49CJrIUZXY) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:57 | 2023-04-19 |  |
 | [Dancing Through Sunday](https://open.spotify.com/track/4O5GKVbnQ8U9BxYWu0hIug) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Sing The Sorrow](https://open.spotify.com/album/1eIzVBHA5NvX0wo2nLACew) | 2:26 | 2022-10-25 |  |
 | [Dulcería](https://open.spotify.com/track/146C9OBVvmmRUVLPA6O8k8) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 4:53 | 2022-10-25 | 2023-04-10 |
 | [End Transmission](https://open.spotify.com/track/3x5SiKbgSLUTnWCAZIXc50) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love](https://open.spotify.com/album/0Y84KHrmhbX9IlDI64dC6I) | 3:46 | 2022-10-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 
 > Timeless Pakistani hits, all in one place\. Cover \- Nusrat Fateh Ali Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,030 likes - 70 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,060 likes - 70 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 | 49 | [Sanu Tere Nal](https://open.spotify.com/track/3Kfy9WwK8XDhR7bk86Dz9W) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [Bay Ja Cycle Tay](https://open.spotify.com/album/6uKjfTWErBupbZzKFr3JQA) | 5:09 |
 | 50 | [Sab Bhula Kai](https://open.spotify.com/track/42CyGBDHxkNX9qDp9F4qNn) | [Call](https://open.spotify.com/artist/5QHScjNJhVCWz5VM3XMYZI) | [Jilawatan](https://open.spotify.com/album/6zT7xb9NQaZGnMJH1Bry8C) | 5:32 |
 | 51 | [Bin Tere Kya Hai Jeena](https://open.spotify.com/track/5H37ud3obrc1uqRbpxIwJX) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp) | [Bol Tujhe Kya Chahiye](https://open.spotify.com/album/4pF6gcm1SuGxeu3Ds9JU8Q) | 4:41 |
-| 52 | [Channo](https://open.spotify.com/track/7sVZyeg9O5aMaqikhAH0DM) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Huqa Pani](https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb) | 4:43 |
+| 52 | [Khuda Ke Liye](https://open.spotify.com/track/4U3uG2DhO300tkqdXlbNjI) | [Mustafa Zahid](https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98) | [Runway](https://open.spotify.com/album/2Pbn0X5zYXVbOvhDDKpPa4) | 4:47 |
 | 53 | [Sar Kiye Yeh Pahar](https://open.spotify.com/track/56TNm1b4adFgXLQrfSWv0L) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Duur](https://open.spotify.com/album/5MDx3qMlEeLqvYeR1fNzg4) | 5:43 |
-| 54 | [Mahi Ve](https://open.spotify.com/track/4tKCjAC5dojOLYQ1FPdXSI) | [Faakhir](https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj) | [Mantra](https://open.spotify.com/album/4K4NopAmxp3YcObr8Pewqc) | 4:44 |
-| 55 | [Khuda Ke Liye](https://open.spotify.com/track/4U3uG2DhO300tkqdXlbNjI) | [Mustafa Zahid](https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98) | [Runway](https://open.spotify.com/album/2Pbn0X5zYXVbOvhDDKpPa4) | 4:47 |
+| 54 | [Channo](https://open.spotify.com/track/7sVZyeg9O5aMaqikhAH0DM) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Huqa Pani](https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb) | 4:43 |
+| 55 | [Mahi Ve](https://open.spotify.com/track/4tKCjAC5dojOLYQ1FPdXSI) | [Faakhir](https://open.spotify.com/artist/6ocVv3L8PefhnpANnoHLuj) | [Mantra](https://open.spotify.com/album/4K4NopAmxp3YcObr8Pewqc) | 4:44 |
 | 56 | [Meray Log](https://open.spotify.com/track/2YLYj3H91rrrU5TMt2yGyn) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl) | [Peeli Patti Aur Raja Jani Ki Gol Dunya](https://open.spotify.com/album/1ulFNPGcDNipaa6e1SbHsj) | 4:31 |
 | 57 | [Pardesy](https://open.spotify.com/track/1rKrd75GAyX7RpnCTgfTIp) | [Abrar Ul Haq](https://open.spotify.com/artist/5Z1MqXZgG3ooTyK3oqQVpw) | [Nachaan Mein Oday Nall](https://open.spotify.com/album/09OUqCA4QUA4U3Dv7PDBWd) | 4:34 |
 | 58 | [Khaireyan De Naal](https://open.spotify.com/track/0WxdqHRbdQ1R83ZvZ0qerN) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Tabeer](https://open.spotify.com/album/6zvlSsksjFjshGKJm3lJWD) | 4:36 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 | 67 | [Mehndi](https://open.spotify.com/track/0hZezjFqU0H81Fq4UCYMv0) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp) | [Jind Jan Sohniyie](https://open.spotify.com/album/4ZaLIwVcrgO7Cshf1rBkjh) | 5:35 |
 | 68 | [Ik Din Aye Ga](https://open.spotify.com/track/3wUreem0PICuBnFN8nfvz7) | [Jal \-The Band](https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8) | [Aadat](https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5) | 4:18 |
 | 69 | [Pappu Yaar](https://open.spotify.com/track/1nwJqXuGRkqWNCArdF3gMC) | [Junoon](https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK) | [Deewar](https://open.spotify.com/album/3xacHPm5pZVNYR6DIT3kNE) | 2:50 |
-| 70 | [Ik Arzu](https://open.spotify.com/track/4cndbON398hOOnGgqJwj4M) | [Jal](https://open.spotify.com/artist/2f50lwdTtShldrc5JrA5fU) | [Pyaas](https://open.spotify.com/album/6tR4OP2sLkYlUgdaz1y9bW) | 4:39 |
+| 70 | [Aap Ki Yaad](https://open.spotify.com/track/5fc9Jer5jSPSPBPE4xgnqd) | [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Parastish](https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT) | 5:11 |
 
-Snapshot ID: `MTY4MTgyMzUxMSwwMDAwMDAwMDJlMDkyY2FjN2RlYWYzOTkyNzcyNTAyZmQ1Y2RkNTcx`
+Snapshot ID: `MTY4MTgyMzUxMSwwMDAwMDAwMGQxMzIxYTliNDA4ZjdmMzY5Yzk0YTJjNDRmNjUzNzhh`

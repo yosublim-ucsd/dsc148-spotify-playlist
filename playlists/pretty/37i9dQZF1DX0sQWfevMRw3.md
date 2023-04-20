@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > Jag tjänar mera stålar än din farsa!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,089 likes - 100 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,151 likes - 100 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

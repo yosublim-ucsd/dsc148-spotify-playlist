@@ -1,12 +1,12 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 389147,
+  "num_followers": 389261,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTgxNjk2OSwwMDAwMDAwMDg0M2I1NmFmZDc5ZWZjNzA5ZGYyOTJhMTY3MWQ1YzBm",
+  "snapshot_id": "MTY4MTgxNjk2OSwwMDAwMDAwMGFlZmNlYjRlODgxNzJjOWU5N2Q4NjA5YTE3MGRhZjBi",
   "tracks": [
     {
       "added_at": "2023-04-18 11:22:49",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-04-18 11:22:49",
       "album": {
-        "name": "Real Life",
-        "url": "https://open.spotify.com/album/7DvHuhuhqmJSQZenm73mSv"
-      },
-      "artists": [
-        {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
-        }
-      ],
-      "duration_ms": 358213,
-      "name": "Out of the Blue",
-      "url": "https://open.spotify.com/track/5pQQjMOsR4HjuO94AEXTqX"
-    },
-    {
-      "added_at": "2023-04-18 11:22:49",
-      "album": {
         "name": "True North",
         "url": "https://open.spotify.com/album/3ym18a0dExcRA2VNAMAVBm"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 264453,
       "name": "Bluewave Bossanova",
       "url": "https://open.spotify.com/track/2QOqnhCrTIqTLzByQD7YQJ"
+    },
+    {
+      "added_at": "2023-04-18 11:22:49",
+      "album": {
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/7DvHuhuhqmJSQZenm73mSv"
+      },
+      "artists": [
+        {
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+        }
+      ],
+      "duration_ms": 358213,
+      "name": "Out of the Blue",
+      "url": "https://open.spotify.com/track/5pQQjMOsR4HjuO94AEXTqX"
     },
     {
       "added_at": "2023-04-18 11:22:49",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-04-18 11:22:49",
       "album": {
+        "name": "Lip Service",
+        "url": "https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4"
+      },
+      "artists": [
+        {
+          "name": "Richard Elliot",
+          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
+        }
+      ],
+      "duration_ms": 275773,
+      "name": "Lip Service",
+      "url": "https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7"
+    },
+    {
+      "added_at": "2023-04-18 11:22:49",
+      "album": {
         "name": "Magic Hour",
         "url": "https://open.spotify.com/album/5kirzWW6pF16lE8OHhuPiz"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 261640,
       "name": "SHINE!",
       "url": "https://open.spotify.com/track/0oqWJG5i5f01tKY4e3P3ux"
-    },
-    {
-      "added_at": "2023-04-18 11:22:49",
-      "album": {
-        "name": "Lip Service",
-        "url": "https://open.spotify.com/album/2OJdOCWFoUbOpS3azmEou4"
-      },
-      "artists": [
-        {
-          "name": "Richard Elliot",
-          "url": "https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH"
-        }
-      ],
-      "duration_ms": 275773,
-      "name": "Lip Service",
-      "url": "https://open.spotify.com/track/1zTSI03CU30W7w0b6Wxpx7"
     },
     {
       "added_at": "2023-04-18 11:22:49",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-04-18 11:22:49",
       "album": {
-        "name": "The Little Things",
-        "url": "https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 314574,
-      "name": "Exhale",
-      "url": "https://open.spotify.com/track/5w4bufYITsxPjmG7xSu8Ga"
-    },
-    {
-      "added_at": "2023-04-18 11:22:49",
-      "album": {
         "name": "Retro Forward",
         "url": "https://open.spotify.com/album/6cF2eSwNvRcS8K1nYzI0tT"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 249257,
       "name": "Forever Yours",
       "url": "https://open.spotify.com/track/2RrsWRwIovqT8NXqVohHJo"
+    },
+    {
+      "added_at": "2023-04-18 11:22:49",
+      "album": {
+        "name": "The Little Things",
+        "url": "https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 314574,
+      "name": "Exhale",
+      "url": "https://open.spotify.com/track/5w4bufYITsxPjmG7xSu8Ga"
     },
     {
       "added_at": "2023-04-18 11:22:49",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-04-18 11:22:49",
       "album": {
-        "name": "After 8",
-        "url": "https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe"
-      },
-      "artists": [
-        {
-          "name": "Ronny Jordan",
-          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
-        }
-      ],
-      "duration_ms": 252333,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/6iCsFk2zf1INRexhJQzRM0"
-    },
-    {
-      "added_at": "2023-04-18 11:22:49",
-      "album": {
         "name": "Candy Store",
         "url": "https://open.spotify.com/album/7KJJl8pNcDjhoDkjW3CDKp"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 242000,
       "name": "11:58",
       "url": "https://open.spotify.com/track/2vxubkwtKQ2Sn4FU47ygii"
+    },
+    {
+      "added_at": "2023-04-18 11:22:49",
+      "album": {
+        "name": "After 8",
+        "url": "https://open.spotify.com/album/2DZxWJXHFCYuiSNoVyWYZe"
+      },
+      "artists": [
+        {
+          "name": "Ronny Jordan",
+          "url": "https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9"
+        }
+      ],
+      "duration_ms": 252333,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/6iCsFk2zf1INRexhJQzRM0"
     },
     {
       "added_at": "2023-04-18 11:22:49",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-04-18 11:22:49",
       "album": {
-        "name": "Forward Motion",
-        "url": "https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe"
-      },
-      "artists": [
-        {
-          "name": "Mezzoforte",
-          "url": "https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs"
-        }
-      ],
-      "duration_ms": 338893,
-      "name": "Cruising",
-      "url": "https://open.spotify.com/track/6LyFVLSOjBL9gh5Q6fwAVK"
-    },
-    {
-      "added_at": "2023-04-18 11:22:49",
-      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 314312,
       "name": "Bliss",
       "url": "https://open.spotify.com/track/0fOtanczwW8mMxg9tnIeDc"
+    },
+    {
+      "added_at": "2023-04-18 11:22:49",
+      "album": {
+        "name": "Forward Motion",
+        "url": "https://open.spotify.com/album/6vAEljyy7bkYUYG5RYahVe"
+      },
+      "artists": [
+        {
+          "name": "Mezzoforte",
+          "url": "https://open.spotify.com/artist/53LlrTpfGrdZS8QyBUxrVs"
+        }
+      ],
+      "duration_ms": 338893,
+      "name": "Cruising",
+      "url": "https://open.spotify.com/track/6LyFVLSOjBL9gh5Q6fwAVK"
     },
     {
       "added_at": "2023-04-18 11:22:49",
@@ -1239,38 +1239,6 @@
     {
       "added_at": "2023-04-18 11:22:49",
       "album": {
-        "name": "Heart To Heart",
-        "url": "https://open.spotify.com/album/7ghPikFRfeqmMqpQDkwLIZ"
-      },
-      "artists": [
-        {
-          "name": "Norman Brown",
-          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Heading Wes",
-      "url": "https://open.spotify.com/track/3hTbwwtKP9wNaBXRO07jAw"
-    },
-    {
-      "added_at": "2023-04-18 11:22:49",
-      "album": {
-        "name": "Stylin'",
-        "url": "https://open.spotify.com/album/042LSaaSuwj4MCZIxDX59c"
-      },
-      "artists": [
-        {
-          "name": "Gregory Goodloe",
-          "url": "https://open.spotify.com/artist/54rVFwo1rV4sK63FyFCJBY"
-        }
-      ],
-      "duration_ms": 247346,
-      "name": "Stylin'",
-      "url": "https://open.spotify.com/track/40UbNyeFo1F7ETJ4zLi14e"
-    },
-    {
-      "added_at": "2023-04-18 11:22:49",
-      "album": {
         "name": "Crossroads",
         "url": "https://open.spotify.com/album/311JJvbG6VDhP5NDPutK1B"
       },
@@ -1303,6 +1271,38 @@
     {
       "added_at": "2023-04-18 11:22:49",
       "album": {
+        "name": "Stylin'",
+        "url": "https://open.spotify.com/album/042LSaaSuwj4MCZIxDX59c"
+      },
+      "artists": [
+        {
+          "name": "Gregory Goodloe",
+          "url": "https://open.spotify.com/artist/54rVFwo1rV4sK63FyFCJBY"
+        }
+      ],
+      "duration_ms": 247346,
+      "name": "Stylin'",
+      "url": "https://open.spotify.com/track/40UbNyeFo1F7ETJ4zLi14e"
+    },
+    {
+      "added_at": "2023-04-18 11:22:49",
+      "album": {
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/7ghPikFRfeqmMqpQDkwLIZ"
+      },
+      "artists": [
+        {
+          "name": "Norman Brown",
+          "url": "https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Heading Wes",
+      "url": "https://open.spotify.com/track/3hTbwwtKP9wNaBXRO07jAw"
+    },
+    {
+      "added_at": "2023-04-18 11:22:49",
+      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/7nl0iSPHwSEh0K2q27Ba15"
       },
@@ -1315,26 +1315,6 @@
       "duration_ms": 224000,
       "name": "BLUE MOON",
       "url": "https://open.spotify.com/track/4Nq3SI3SNpsnxwlkaHYL94"
-    },
-    {
-      "added_at": "2023-04-18 11:22:49",
-      "album": {
-        "name": "Velvet Groove",
-        "url": "https://open.spotify.com/album/5B8283WjNKxA2TAT7wE176"
-      },
-      "artists": [
-        {
-          "name": "Eric Valentine",
-          "url": "https://open.spotify.com/artist/5EgOh6qCgfprw49LvvMYC4"
-        },
-        {
-          "name": "Velvet Groove",
-          "url": "https://open.spotify.com/artist/79G1Bez3WADuY6eIJwCVnU"
-        }
-      ],
-      "duration_ms": 237029,
-      "name": "Velvet Groove",
-      "url": "https://open.spotify.com/track/2YKRhy9PI0jd0JZSi27sDe"
     },
     {
       "added_at": "2023-04-18 11:22:49",
@@ -1387,18 +1367,38 @@
     {
       "added_at": "2023-04-18 11:22:49",
       "album": {
-        "name": "Forecast",
-        "url": "https://open.spotify.com/album/4vD6CKS4dfw567CYVQtjW0"
+        "name": "Velvet Groove",
+        "url": "https://open.spotify.com/album/5B8283WjNKxA2TAT7wE176"
       },
       "artists": [
         {
-          "name": "Jazz Funk Soul",
-          "url": "https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED"
+          "name": "Eric Valentine",
+          "url": "https://open.spotify.com/artist/5EgOh6qCgfprw49LvvMYC4"
+        },
+        {
+          "name": "Velvet Groove",
+          "url": "https://open.spotify.com/artist/79G1Bez3WADuY6eIJwCVnU"
         }
       ],
-      "duration_ms": 343213,
-      "name": "Keep Holding On",
-      "url": "https://open.spotify.com/track/4Ld2yBGk0kBJ84sqSmDbq2"
+      "duration_ms": 237029,
+      "name": "Velvet Groove",
+      "url": "https://open.spotify.com/track/2YKRhy9PI0jd0JZSi27sDe"
+    },
+    {
+      "added_at": "2023-04-18 11:22:49",
+      "album": {
+        "name": "My Inspiration",
+        "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
+      },
+      "artists": [
+        {
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+        }
+      ],
+      "duration_ms": 307506,
+      "name": "All Jazzed Up (And Nowhere To Go)",
+      "url": "https://open.spotify.com/track/3vZVCOn1WEuuxm0jFWOllv"
     },
     {
       "added_at": "2023-04-18 11:22:49",
@@ -1415,6 +1415,22 @@
       "duration_ms": 294500,
       "name": "Sweet Kisses",
       "url": "https://open.spotify.com/track/34rxNLSGAcmsjBJtpZHRtW"
+    },
+    {
+      "added_at": "2023-04-18 11:22:49",
+      "album": {
+        "name": "Forecast",
+        "url": "https://open.spotify.com/album/4vD6CKS4dfw567CYVQtjW0"
+      },
+      "artists": [
+        {
+          "name": "Jazz Funk Soul",
+          "url": "https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED"
+        }
+      ],
+      "duration_ms": 343213,
+      "name": "Keep Holding On",
+      "url": "https://open.spotify.com/track/4Ld2yBGk0kBJ84sqSmDbq2"
     },
     {
       "added_at": "2023-04-18 11:22:49",
@@ -1439,22 +1455,18 @@
     {
       "added_at": "2023-04-18 11:22:49",
       "album": {
-        "name": "Soulmate",
-        "url": "https://open.spotify.com/album/3gPvkf0kcggPPcxqXKYmvd"
+        "name": "Burnin' up",
+        "url": "https://open.spotify.com/album/3lAestLNNFq14fqEXiKrow"
       },
       "artists": [
         {
-          "name": "Nathan Mitchell",
-          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
-        },
-        {
-          "name": "Jazmin Ghent",
-          "url": "https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY"
+          "name": "Alex Parchment",
+          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Swing City",
-      "url": "https://open.spotify.com/track/5MsQwkEceGOA8v9nrc5BnK"
+      "duration_ms": 285500,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/1prlZc4XUJoeQJIUvFaxPn"
     },
     {
       "added_at": "2023-04-18 11:22:49",
@@ -1475,38 +1487,6 @@
     {
       "added_at": "2023-04-18 11:22:49",
       "album": {
-        "name": "My Inspiration",
-        "url": "https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM"
-      },
-      "artists": [
-        {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
-        }
-      ],
-      "duration_ms": 307506,
-      "name": "All Jazzed Up (And Nowhere To Go)",
-      "url": "https://open.spotify.com/track/3vZVCOn1WEuuxm0jFWOllv"
-    },
-    {
-      "added_at": "2023-04-18 11:22:49",
-      "album": {
-        "name": "Soul City",
-        "url": "https://open.spotify.com/album/1DxgdQ1ElsqF3qHh536Q9D"
-      },
-      "artists": [
-        {
-          "name": "Marion Meadows",
-          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
-        }
-      ],
-      "duration_ms": 236723,
-      "name": "Consequences",
-      "url": "https://open.spotify.com/track/2Iw7eGTRmSALk6toRy9tw6"
-    },
-    {
-      "added_at": "2023-04-18 11:22:49",
-      "album": {
         "name": "The Little Things",
         "url": "https://open.spotify.com/album/2orWEnZfLJkxx3c5QAomvZ"
       },
@@ -1523,18 +1503,38 @@
     {
       "added_at": "2023-04-18 11:22:49",
       "album": {
-        "name": "Burnin' up",
-        "url": "https://open.spotify.com/album/3lAestLNNFq14fqEXiKrow"
+        "name": "Soulmate",
+        "url": "https://open.spotify.com/album/3gPvkf0kcggPPcxqXKYmvd"
       },
       "artists": [
         {
-          "name": "Alex Parchment",
-          "url": "https://open.spotify.com/artist/5AFoD42TbkRVaiogAMZ2Ab"
+          "name": "Nathan Mitchell",
+          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
+        },
+        {
+          "name": "Jazmin Ghent",
+          "url": "https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY"
         }
       ],
-      "duration_ms": 285500,
-      "name": "I Can't Stop Loving You",
-      "url": "https://open.spotify.com/track/1prlZc4XUJoeQJIUvFaxPn"
+      "duration_ms": 245000,
+      "name": "Swing City",
+      "url": "https://open.spotify.com/track/5MsQwkEceGOA8v9nrc5BnK"
+    },
+    {
+      "added_at": "2023-04-18 11:22:49",
+      "album": {
+        "name": "Soul City",
+        "url": "https://open.spotify.com/album/1DxgdQ1ElsqF3qHh536Q9D"
+      },
+      "artists": [
+        {
+          "name": "Marion Meadows",
+          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
+        }
+      ],
+      "duration_ms": 236723,
+      "name": "Consequences",
+      "url": "https://open.spotify.com/track/2Iw7eGTRmSALk6toRy9tw6"
     },
     {
       "added_at": "2023-04-18 11:22:49",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-04-18 11:22:49",
       "album": {
-        "name": "The Journey",
-        "url": "https://open.spotify.com/album/7BYmR4CnsUcPtLrUyy5b4H"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 257933,
-      "name": "Say What's on Your Mind",
-      "url": "https://open.spotify.com/track/0JKzJAkRRdqrfT7qjkp9Bx"
-    },
-    {
-      "added_at": "2023-04-18 11:22:49",
-      "album": {
         "name": "Smooth Grooves, Vol. 2",
         "url": "https://open.spotify.com/album/2dWhDa6kTyZlw7ip13EhTm"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 365000,
       "name": "Southern Style",
       "url": "https://open.spotify.com/track/18xGFscyHeMxrlgyti66gX"
+    },
+    {
+      "added_at": "2023-04-18 11:22:49",
+      "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/7BYmR4CnsUcPtLrUyy5b4H"
+      },
+      "artists": [
+        {
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
+        }
+      ],
+      "duration_ms": 257933,
+      "name": "Say What's on Your Mind",
+      "url": "https://open.spotify.com/track/0JKzJAkRRdqrfT7qjkp9Bx"
     },
     {
       "added_at": "2023-04-18 11:22:49",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2023-04-18 11:22:49",
       "album": {
-        "name": "Sippin the Yak",
-        "url": "https://open.spotify.com/album/7KeUO1iqx1u1C57fZb5GHx"
+        "name": "Turn It Up",
+        "url": "https://open.spotify.com/album/2emYvyogfNZbvdVJwUFRrb"
       },
       "artists": [
         {
-          "name": "Michael J Thomas",
-          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
         }
       ],
-      "duration_ms": 267913,
-      "name": "Sippin the Yak",
-      "url": "https://open.spotify.com/track/1UdgrocwAGRoQ6M8V7eQmu"
+      "duration_ms": 303693,
+      "name": "Reverence",
+      "url": "https://open.spotify.com/track/5aCHWYlwuHAnZkV0Po17Yn"
     }
   ],
   "unique_name": "Smooth Jazz",

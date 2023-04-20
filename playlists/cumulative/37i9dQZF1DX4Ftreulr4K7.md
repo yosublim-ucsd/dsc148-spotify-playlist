@@ -2,7 +2,7 @@
 
 ### [Fuego \#043 \- Eladio Carrion's Mixtape](https://open.spotify.com/playlist/37i9dQZF1DX4Ftreulr4K7)
 
-> Eladio Carrion takes over Fuego! Beny Jr, Neutro Shorty, Tego Calderón & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
+> Eladio Carrion takes over Fuego! Featuring Beny Jr, Neutro Shorty, Tego Calderón & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
 25 songs - 1 hr 31 min
 

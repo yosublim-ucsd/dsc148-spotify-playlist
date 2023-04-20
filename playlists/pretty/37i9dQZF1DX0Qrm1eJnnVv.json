@@ -1,12 +1,12 @@
 {
   "description": "Solo piano recordings of classic rags",
-  "num_followers": 3431,
+  "num_followers": 3438,
   "original_name": "Ragtime Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTE0MywwMDAwMDAwMDk5MDA4ZDRhNThhOGI5OWRjMzY4MGMyMDNmNTJkODc5",
+  "snapshot_id": "MTY0ODQ5OTE0MywwMDAwMDAwMDRmZGQwYWEwNmYzOGYwODhmNTc2YTg2YmQyYWU5ZGY1",
   "tracks": [
     {
       "added_at": "2020-08-19 17:18:36",
@@ -411,22 +411,18 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Ragtime Classics, 1901-1919",
-        "url": "https://open.spotify.com/album/5HQEWztM9JM2jOdXVZpb9b"
+        "name": "Scott Joplin Greatest Hits",
+        "url": "https://open.spotify.com/album/5fFPJzOXH8gdxuodz1EsAD"
       },
       "artists": [
         {
-          "name": "James Scott",
-          "url": "https://open.spotify.com/artist/4Dzdlxs6xusMPwxmED3CCJ"
-        },
-        {
-          "name": "Brian Dykstra",
-          "url": "https://open.spotify.com/artist/61riwtmBNJSb5iUwiChoCY"
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
         }
       ],
-      "duration_ms": 205773,
-      "name": "Grace and Beauty",
-      "url": "https://open.spotify.com/track/0TtzBFuB0p0bqsucSbwYaJ"
+      "duration_ms": 181026,
+      "name": "Sugar Cane",
+      "url": "https://open.spotify.com/track/6Z6oioQU909D5BbfdU4rss"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -463,18 +459,22 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Scott Joplin Greatest Hits",
-        "url": "https://open.spotify.com/album/5fFPJzOXH8gdxuodz1EsAD"
+        "name": "Ragtime Classics, 1901-1919",
+        "url": "https://open.spotify.com/album/5HQEWztM9JM2jOdXVZpb9b"
       },
       "artists": [
         {
-          "name": "James Levine",
-          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+          "name": "James Scott",
+          "url": "https://open.spotify.com/artist/4Dzdlxs6xusMPwxmED3CCJ"
+        },
+        {
+          "name": "Brian Dykstra",
+          "url": "https://open.spotify.com/artist/61riwtmBNJSb5iUwiChoCY"
         }
       ],
-      "duration_ms": 181026,
-      "name": "Sugar Cane",
-      "url": "https://open.spotify.com/track/6Z6oioQU909D5BbfdU4rss"
+      "duration_ms": 205773,
+      "name": "Grace and Beauty",
+      "url": "https://open.spotify.com/track/0TtzBFuB0p0bqsucSbwYaJ"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -563,22 +563,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Ragtime, Vol. 1",
-        "url": "https://open.spotify.com/album/3Utz9OLTlkaNYDjHX2R7YK"
-      },
-      "artists": [
-        {
-          "name": "Squeek Steele",
-          "url": "https://open.spotify.com/artist/4rrv3sg8daehyeV8xnOnrF"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Broadway Rag",
-      "url": "https://open.spotify.com/track/70DWx9b7tUII9NTYjN0mvb"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "Christmas Eve 1915",
         "url": "https://open.spotify.com/album/1YMw838UtJYBBzhCLDMT4C"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 198173,
       "name": "Reindeer Rag",
       "url": "https://open.spotify.com/track/3fyYH2qSoxabCNsFLRF1Rz"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Ragtime, Vol. 1",
+        "url": "https://open.spotify.com/album/3Utz9OLTlkaNYDjHX2R7YK"
+      },
+      "artists": [
+        {
+          "name": "Squeek Steele",
+          "url": "https://open.spotify.com/artist/4rrv3sg8daehyeV8xnOnrF"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Broadway Rag",
+      "url": "https://open.spotify.com/track/70DWx9b7tUII9NTYjN0mvb"
     },
     {
       "added_at": "2020-08-19 17:18:36",
@@ -675,22 +675,6 @@
     {
       "added_at": "2020-08-19 17:18:36",
       "album": {
-        "name": "Charleston Rag",
-        "url": "https://open.spotify.com/album/47f969oRBPbmRfS6jdVXQE"
-      },
-      "artists": [
-        {
-          "name": "Morten Gunnar Larsen",
-          "url": "https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI"
-        }
-      ],
-      "duration_ms": 186671,
-      "name": "Peace and Plenty Rag",
-      "url": "https://open.spotify.com/track/7G3GHUoDuOBoTrHP04VMDj"
-    },
-    {
-      "added_at": "2020-08-19 17:18:36",
-      "album": {
         "name": "Hilarity",
         "url": "https://open.spotify.com/album/2e91VHqCOu9juKYJVCHVR4"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 203360,
       "name": "Patricia Rag",
       "url": "https://open.spotify.com/track/6A431z6iC8Lk8880VEEEG6"
+    },
+    {
+      "added_at": "2020-08-19 17:18:36",
+      "album": {
+        "name": "Charleston Rag",
+        "url": "https://open.spotify.com/album/47f969oRBPbmRfS6jdVXQE"
+      },
+      "artists": [
+        {
+          "name": "Morten Gunnar Larsen",
+          "url": "https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI"
+        }
+      ],
+      "duration_ms": 186671,
+      "name": "Peace and Plenty Rag",
+      "url": "https://open.spotify.com/track/7G3GHUoDuOBoTrHP04VMDj"
     },
     {
       "added_at": "2020-08-19 17:18:36",

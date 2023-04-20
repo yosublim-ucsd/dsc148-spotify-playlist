@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > The best in Afro Bashment, Afro Swing and all that good stuff\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,825 likes - 49 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,993 likes - 49 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 45 | [Princess Cuts \(feat\. Young T & Bugsey\)](https://open.spotify.com/track/63Sb1AMnhb37DR59uXZdQd) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [EDNA](https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU) | 3:05 |
 | 46 | [Kilometre](https://open.spotify.com/track/03YUNUpazIbzwqJq2YSBvB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:32 |
 | 47 | [Eh God \(Barnabas\)](https://open.spotify.com/track/2Ydj7wgn4ZrFFQsfFBTTYJ) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 3:04 |
-| 48 | [PALAZZO](https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [PALAZZO](https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf) | 3:06 |
-| 49 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 |
+| 48 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 |
+| 49 | [PALAZZO](https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [PALAZZO](https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf) | 3:06 |
 
-Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMDU0YzdmOWFjZjA5NDMzNjZmYTU3Njg0ODVmODIwYjRj`
+Snapshot ID: `MTY3NzgwMTYwMCwwMDAwMDAwMDBjYjJhZmRmNjQxN2EwOGYwMWQyMGIwNDk0NjMwNGMx`

@@ -1,12 +1,12 @@
 {
   "description": "Leaders of the new school...Alternative R&B. Cover: Frank Ocean",
-  "num_followers": 1375392,
+  "num_followers": 1376359,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMGNhZDg2NTBhOWM2YjE3YjVlMzYxMjQ5MDhmNzUzMzEx",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDAyYzI1MzgzNTA1N2EyZDJiY2I5YmEzYjQzZGRiZWU0",
   "tracks": [
     {
       "added_at": "2022-12-09 05:00:00",
@@ -313,6 +313,22 @@
       "url": "https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS"
     },
     {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Sleep Well",
+        "url": "https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 175875,
+      "name": "Sleep Well",
+      "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
+    },
+    {
       "added_at": "2022-06-10 04:00:00",
       "album": {
         "name": "Absolutely",
@@ -327,22 +343,6 @@
       "duration_ms": 184767,
       "name": "The Dress",
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Too Late To Die Young",
-        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 116129,
-      "name": "Mad Riches",
-      "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -361,20 +361,20 @@
       "url": "https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD"
     },
     {
-      "added_at": "2023-04-14 04:01:00",
+      "added_at": "2022-10-21 04:00:00",
       "album": {
-        "name": "Sleep Well",
-        "url": "https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO"
+        "name": "Too Late To Die Young",
+        "url": "https://open.spotify.com/album/4MB6xXwCYtFbBW4ReqUWJn"
       },
       "artists": [
         {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
         }
       ],
-      "duration_ms": 175875,
-      "name": "Sleep Well",
-      "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
+      "duration_ms": 116129,
+      "name": "Mad Riches",
+      "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
     },
     {
       "added_at": "2023-01-13 05:00:00",
@@ -813,6 +813,22 @@
       "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
     },
     {
+      "added_at": "2022-07-22 14:09:12",
+      "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/3Kfh2IIk7nehym6iv2Ru8P"
+    },
+    {
       "added_at": "2022-10-14 04:01:00",
       "album": {
         "name": "Figures",
@@ -845,22 +861,6 @@
       "url": "https://open.spotify.com/track/2dldFaASbSWz8uzz9KY2al"
     },
     {
-      "added_at": "2022-07-22 14:09:12",
-      "album": {
-        "name": "JAMIE",
-        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/3Kfh2IIk7nehym6iv2Ru8P"
-    },
-    {
       "added_at": "2022-06-10 04:00:00",
       "album": {
         "name": "Getaway",
@@ -875,6 +875,22 @@
       "duration_ms": 220893,
       "name": "pressure",
       "url": "https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Fuck Tha World",
+        "url": "https://open.spotify.com/album/49QnWzeoHyQsILlEoM8aAQ"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 141538,
+      "name": "Fuck Tha World",
+      "url": "https://open.spotify.com/track/0BMNgV6BjAvWU3zueMBaRu"
     },
     {
       "added_at": "2022-11-18 05:00:00",
@@ -893,20 +909,20 @@
       "url": "https://open.spotify.com/track/4N9CjZCmixsudkya5a7MtW"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2023-03-03 05:00:00",
       "album": {
-        "name": "Fuck Tha World",
-        "url": "https://open.spotify.com/album/49QnWzeoHyQsILlEoM8aAQ"
+        "name": "Go\u00fbter +",
+        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
       },
       "artists": [
         {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+          "name": "Lou Val",
+          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
         }
       ],
-      "duration_ms": 141538,
-      "name": "Fuck Tha World",
-      "url": "https://open.spotify.com/track/0BMNgV6BjAvWU3zueMBaRu"
+      "duration_ms": 208192,
+      "name": "in ur motion",
+      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -949,22 +965,6 @@
       "url": "https://open.spotify.com/track/7BNvivBdgxjl80EugbEHFA"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Go\u00fbter +",
-        "url": "https://open.spotify.com/album/6OHBybRIcusOYfryQxiT6n"
-      },
-      "artists": [
-        {
-          "name": "Lou Val",
-          "url": "https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F"
-        }
-      ],
-      "duration_ms": 208192,
-      "name": "in ur motion",
-      "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
-    },
-    {
       "added_at": "2022-07-15 04:02:46",
       "album": {
         "name": "Dog Daze",
@@ -979,6 +979,22 @@
       "duration_ms": 144584,
       "name": "Brewster",
       "url": "https://open.spotify.com/track/3c2LHcsave8QZ2DTzQ2iln"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Raven",
+        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
+      },
+      "artists": [
+        {
+          "name": "Kelela",
+          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
+        }
+      ],
+      "duration_ms": 255401,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK"
     },
     {
       "added_at": "2023-01-27 05:01:00",
@@ -1015,22 +1031,6 @@
       "duration_ms": 147773,
       "name": "WHITE CROCS (with Ryan Trey)",
       "url": "https://open.spotify.com/track/45uwA5e851qa3xWqKGYxGC"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Raven",
-        "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
-      },
-      "artists": [
-        {
-          "name": "Kelela",
-          "url": "https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60"
-        }
-      ],
-      "duration_ms": 255401,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK"
     },
     {
       "added_at": "2022-07-22 04:15:47",
@@ -1257,58 +1257,6 @@
       "url": "https://open.spotify.com/track/31DhZKH7E1T41TAnK0qyC5"
     },
     {
-      "added_at": "2023-02-24 05:23:50",
-      "album": {
-        "name": "World In My Hands",
-        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
-      },
-      "artists": [
-        {
-          "name": "LAVI$H",
-          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
-        }
-      ],
-      "duration_ms": 194401,
-      "name": "World In My Hands",
-      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
-    },
-    {
-      "added_at": "2022-11-18 05:00:00",
-      "album": {
-        "name": "Girl In The Half Pearl",
-        "url": "https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w"
-      },
-      "artists": [
-        {
-          "name": "Liv.e",
-          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
-        }
-      ],
-      "duration_ms": 215813,
-      "name": "Wild Animals",
-      "url": "https://open.spotify.com/track/4JiLpvvnPiQtsf4izF1SQ5"
-    },
-    {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Exodus the North Star",
-        "url": "https://open.spotify.com/album/6ygmB4X6ejHZQcpNfxC8um"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        },
-        {
-          "name": "Exaktly",
-          "url": "https://open.spotify.com/artist/1MRB7UrVK6DvvefA7pAqS8"
-        }
-      ],
-      "duration_ms": 158130,
-      "name": "ascendent (mother fxcker)",
-      "url": "https://open.spotify.com/track/6uAWmu9PkZ7l7OAVeQljus"
-    },
-    {
       "added_at": "2023-03-31 04:00:00",
       "album": {
         "name": "Touch Your Soul / Love & Rage",
@@ -1327,6 +1275,22 @@
       "duration_ms": 189232,
       "name": "Touch Your Soul (feat. Merlyn Wood)",
       "url": "https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa"
+    },
+    {
+      "added_at": "2022-11-18 05:00:00",
+      "album": {
+        "name": "Girl In The Half Pearl",
+        "url": "https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w"
+      },
+      "artists": [
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        }
+      ],
+      "duration_ms": 215813,
+      "name": "Wild Animals",
+      "url": "https://open.spotify.com/track/4JiLpvvnPiQtsf4izF1SQ5"
     },
     {
       "added_at": "2023-02-24 05:23:50",
@@ -1365,20 +1329,40 @@
       "url": "https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
+      "added_at": "2023-02-24 05:23:50",
       "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/47fQUDWGQ9i5V4jp8zpKfT"
+        "name": "World In My Hands",
+        "url": "https://open.spotify.com/album/4VbYBboyCVdKFJ0eh9ATfT"
       },
       "artists": [
         {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+          "name": "LAVI$H",
+          "url": "https://open.spotify.com/artist/5E4159ttrOB57XW0YdLT32"
         }
       ],
-      "duration_ms": 180545,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA"
+      "duration_ms": 194401,
+      "name": "World In My Hands",
+      "url": "https://open.spotify.com/track/4c2HeCpHJ3VzN8RyEoULTW"
+    },
+    {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Exodus the North Star",
+        "url": "https://open.spotify.com/album/6ygmB4X6ejHZQcpNfxC8um"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        },
+        {
+          "name": "Exaktly",
+          "url": "https://open.spotify.com/artist/1MRB7UrVK6DvvefA7pAqS8"
+        }
+      ],
+      "duration_ms": 158130,
+      "name": "ascendent (mother fxcker)",
+      "url": "https://open.spotify.com/track/6uAWmu9PkZ7l7OAVeQljus"
     },
     {
       "added_at": "2023-02-24 05:23:50",
@@ -1399,6 +1383,22 @@
       "duration_ms": 222334,
       "name": "Water My Heart (feat. Mereba)",
       "url": "https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/47fQUDWGQ9i5V4jp8zpKfT"
+      },
+      "artists": [
+        {
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
+        }
+      ],
+      "duration_ms": 180545,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1493,6 +1493,22 @@
       "url": "https://open.spotify.com/track/2RBt0qVLDmXc5kpDluo3Ge"
     },
     {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "FKA MESS",
+        "url": "https://open.spotify.com/album/44vzwRlX0KWqnEf225EZ5S"
+      },
+      "artists": [
+        {
+          "name": "ABRA",
+          "url": "https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL"
+        }
+      ],
+      "duration_ms": 361877,
+      "name": "FKA MESS",
+      "url": "https://open.spotify.com/track/71itF9z7kqBaUIgoi80WqG"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Seltzer",
@@ -1529,22 +1545,6 @@
       "url": "https://open.spotify.com/track/3p3tezl8FJHkm68tczR0yP"
     },
     {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
-        "name": "FKA MESS",
-        "url": "https://open.spotify.com/album/44vzwRlX0KWqnEf225EZ5S"
-      },
-      "artists": [
-        {
-          "name": "ABRA",
-          "url": "https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL"
-        }
-      ],
-      "duration_ms": 361877,
-      "name": "FKA MESS",
-      "url": "https://open.spotify.com/track/71itF9z7kqBaUIgoi80WqG"
-    },
-    {
       "added_at": "2023-03-03 05:00:00",
       "album": {
         "name": "FORWARD",
@@ -1561,22 +1561,6 @@
       "url": "https://open.spotify.com/track/6FDNS9i86Il7ZeGBf7H2Aa"
     },
     {
-      "added_at": "2022-07-24 02:54:27",
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt"
-      },
-      "artists": [
-        {
-          "name": "Kelz",
-          "url": "https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6"
-        }
-      ],
-      "duration_ms": 99454,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g"
-    },
-    {
       "added_at": "2022-06-10 04:00:00",
       "album": {
         "name": "flora + fana",
@@ -1591,6 +1575,22 @@
       "duration_ms": 169579,
       "name": "BAD bad",
       "url": "https://open.spotify.com/track/6jn1TPD9mS9HGPXRIad6ck"
+    },
+    {
+      "added_at": "2022-07-24 02:54:27",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/1uUYrt95TGLSNkjrdjvoOt"
+      },
+      "artists": [
+        {
+          "name": "Kelz",
+          "url": "https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6"
+        }
+      ],
+      "duration_ms": 99454,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1649,22 +1649,6 @@
       "url": "https://open.spotify.com/track/4qzulXfoTGX3FBqsW4AzRF"
     },
     {
-      "added_at": "2022-07-15 04:02:46",
-      "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 265680,
-      "name": "Satellites",
-      "url": "https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Simp",
@@ -1681,20 +1665,20 @@
       "url": "https://open.spotify.com/track/1Blus5ZR4S5vAnLfzwAduY"
     },
     {
-      "added_at": "2023-01-13 05:00:00",
+      "added_at": "2022-07-15 04:02:46",
       "album": {
-        "name": "Girl In The Half Pearl",
-        "url": "https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w"
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
       "artists": [
         {
-          "name": "Liv.e",
-          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 148360,
-      "name": "Find Out",
-      "url": "https://open.spotify.com/track/4Rkm2ThV0B7TZLEF9IN7RN"
+      "duration_ms": 265680,
+      "name": "Satellites",
+      "url": "https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb"
     },
     {
       "added_at": "2022-09-16 04:00:00",
@@ -1711,6 +1695,22 @@
       "duration_ms": 155115,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/5WUKybZ2qvtWjZOKbK8JwF"
+    },
+    {
+      "added_at": "2023-01-13 05:00:00",
+      "album": {
+        "name": "Girl In The Half Pearl",
+        "url": "https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w"
+      },
+      "artists": [
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        }
+      ],
+      "duration_ms": 148360,
+      "name": "Find Out",
+      "url": "https://open.spotify.com/track/4Rkm2ThV0B7TZLEF9IN7RN"
     },
     {
       "added_at": "2022-09-09 04:06:40",

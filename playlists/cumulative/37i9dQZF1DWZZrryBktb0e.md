@@ -4,7 +4,7 @@
 
 > Featuring Feid, Kali Uchis, Rauw Alejandro & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-27 songs - 1 hr 25 min
+28 songs - 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [En Mi Cuarto](https://open.spotify.com/track/2Doh4izLZGrUD3yOSs9y9G) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Timelezz](https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y) | 3:16 | 2023-01-27 |  |
 | [For Ya](https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 | 2023-01-27 |  |
 | [Gato de Noche](https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Gato de Noche](https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH) | 3:47 | 2023-01-27 |  |
-| [Intocable \- Remix](https://open.spotify.com/track/12wrn8c4kzJR9pqTsQIVPN) | [Vgomez](https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Amalfitan](https://open.spotify.com/artist/2BnLHLbvzwOsSVFLnfpxKh) | [Intocable \(Remix\)](https://open.spotify.com/album/6ounTjjFKJEvu2HV6UAMFr) | 2:49 | 2023-01-27 |  |
+| [Intocable \- Remix](https://open.spotify.com/track/12wrn8c4kzJR9pqTsQIVPN) | [Vgomez](https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Amalfitan](https://open.spotify.com/artist/2BnLHLbvzwOsSVFLnfpxKh) | [Intocable \(Remix\)](https://open.spotify.com/album/6ounTjjFKJEvu2HV6UAMFr) | 2:49 | 2023-01-27 | 2023-04-20 |
+| [Intocable \- Remix](https://open.spotify.com/track/3uYloeZOfzOjx3h7IQqD9N) | [Vgomez](https://open.spotify.com/artist/7dtDNOdU0y0uHtjsVDOlU4), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Amalfitan](https://open.spotify.com/artist/2BnLHLbvzwOsSVFLnfpxKh) | [Intocable \(Remix\)](https://open.spotify.com/album/4ZAxnfKnod9PFvcXcX7ICq) | 2:49 | 2023-01-27 |  |
 | [JETSKI \- Remix](https://open.spotify.com/track/0ncCaYom8GIvfCjuecL2eP) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [JETSKI \(Remix\)](https://open.spotify.com/album/13W7b2LEH1MpoWPQzNpsHI) | 4:16 | 2023-01-27 |  |
 | [la luz\(Fín\)](https://open.spotify.com/track/4a1s8jkTbAoTlvj6x8pHK6) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 3:00 | 2023-01-27 |  |
 | [LACONE](https://open.spotify.com/track/4Rjq1TZbF0bDstOs6SiI6J) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [LACONE](https://open.spotify.com/album/05nsQTXQ0rPJbqnW4uOxx2) | 4:20 | 2023-01-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation Cover: Wednesday
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,189 likes - 71 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,268 likes - 71 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

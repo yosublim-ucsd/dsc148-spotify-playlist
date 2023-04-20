@@ -263,36 +263,6 @@
     },
     {
       "album": {
-        "name": "The Three Tenors - In Concert - Rome 1990",
-        "url": "https://open.spotify.com/album/2w6fQGB2X4Pt4iSyZSmrPd"
-      },
-      "artists": [
-        {
-          "name": "Pl\u00e1cido Domingo",
-          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
-        },
-        {
-          "name": "Orchestra Del Teatro Dell'Opera Di Roma",
-          "url": "https://open.spotify.com/artist/05pJB6sDGej7vpC9V6bjV8"
-        },
-        {
-          "name": "Orchestra del Maggio Musicale Fiorentino",
-          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
-        },
-        {
-          "name": "Zubin Mehta",
-          "url": "https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x"
-        }
-      ],
-      "date_added": "2022-08-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 163826,
-      "name": "_: Soroz\u00e1bal: No puede ser [La Taberna del Puerto] - Live",
-      "url": "https://open.spotify.com/track/2OO8l4Ypiq0O9bgWw7XcjB"
-    },
-    {
-      "album": {
         "name": "M\u00fasica Sacra do Brasil",
         "url": "https://open.spotify.com/album/4qLounK5Id31Qwk6PFkCUr"
       },
@@ -4834,6 +4804,40 @@
       "duration_ms": 422066,
       "name": "Sones de Mariachi",
       "url": "https://open.spotify.com/track/14ussuaqe2rcAH7CcaT429"
+    },
+    {
+      "album": {
+        "name": "The Three Tenors - In Concert - Rome 1990",
+        "url": "https://open.spotify.com/album/2w6fQGB2X4Pt4iSyZSmrPd"
+      },
+      "artists": [
+        {
+          "name": "Pablo Soroz\u00e1bal",
+          "url": "https://open.spotify.com/artist/0o02Uz0kwl3VQRWILTDd7d"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Orchestra Del Teatro Dell'Opera Di Roma",
+          "url": "https://open.spotify.com/artist/05pJB6sDGej7vpC9V6bjV8"
+        },
+        {
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
+        },
+        {
+          "name": "Zubin Mehta",
+          "url": "https://open.spotify.com/artist/3FEd0qHPFOgcpfw7bCXB4x"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163826,
+      "name": "Soroz\u00e1bal: _ - Soroz\u00e1bal: No puede ser [La Taberna del Puerto] - Live",
+      "url": "https://open.spotify.com/track/2OO8l4Ypiq0O9bgWw7XcjB"
     },
     {
       "album": {

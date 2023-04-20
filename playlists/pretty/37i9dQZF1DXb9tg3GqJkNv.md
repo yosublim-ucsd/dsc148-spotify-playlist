@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: Belly
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,973 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,010 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 45 | [Body & A Face](https://open.spotify.com/track/6cezfmuJT9mpkv7AwWRYpQ) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Body & A Face](https://open.spotify.com/album/3CRgye6TS3mO54pNpvVh7J) | 2:39 |
 | 46 | [Come Inside \(Kaytranada Edit\)](https://open.spotify.com/track/3jQL0t4Jg4EZ77oNEvjEtN) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [002 / LOVE ME](https://open.spotify.com/album/06tuQubTO3GAXGOcMtfHok) | 4:26 |
 | 47 | [Time & It's Order](https://open.spotify.com/track/6SCl4VK0Dq3jFe7U8D9k7D) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [Time & It's Order](https://open.spotify.com/album/5k0XSTYg5WgESO7PolSjkV) | 2:15 |
-| 48 | [Way Down](https://open.spotify.com/track/6uX0BTiAfFYBCm2zWBZbgd) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Trust Your Gut](https://open.spotify.com/album/5DmoSgxVksKJj8BizPuhfN) | 3:49 |
-| 49 | [While You on Road](https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [While You on Road](https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC) | 3:02 |
+| 48 | [While You on Road](https://open.spotify.com/track/7lUdvbrsHvoUfqBt7JOwkZ) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [While You on Road](https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC) | 3:02 |
+| 49 | [Way Down](https://open.spotify.com/track/6uX0BTiAfFYBCm2zWBZbgd) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg) | [Trust Your Gut](https://open.spotify.com/album/5DmoSgxVksKJj8BizPuhfN) | 3:49 |
 | 50 | [Money Showers](https://open.spotify.com/track/776uQXP7W3PhaLF7OoieS3) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d) | [The Extravagant Collection](https://open.spotify.com/album/2gd9dLTFgRz8rhUGSuu3Sq) | 2:21 |
-| 51 | [Been Himma](https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Been Himma](https://open.spotify.com/album/526OhvWv7oWC5xTrwG75Cq) | 2:46 |
-| 52 | [Mansion](https://open.spotify.com/track/7yWPBTrbUO3VmIsD6hLhGf) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [Mansion](https://open.spotify.com/album/1nwyxrszUQuWwdwgIKw02E) | 2:46 |
+| 51 | [Mansion](https://open.spotify.com/track/7yWPBTrbUO3VmIsD6hLhGf) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [Mansion](https://open.spotify.com/album/1nwyxrszUQuWwdwgIKw02E) | 2:46 |
+| 52 | [Been Himma](https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Been Himma](https://open.spotify.com/album/526OhvWv7oWC5xTrwG75Cq) | 2:46 |
 | 53 | [My Town \(feat\. Giggs\)](https://open.spotify.com/track/41l1RaDtTRnSPsy22JUFVC) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [no long talk.](https://open.spotify.com/album/3RIerAmfvbXRl9uFX3UZyT) | 3:18 |
 | 54 | [VULTURES](https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ) | [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [DUSK to DAWN](https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE) | 2:30 |
 | 55 | [• RIGHT NOW](https://open.spotify.com/track/1L5iqYFGMpKnmNjMgtiq0k) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [KTOE](https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L) | [Fleurever](https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH) | 2:22 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 57 | [Brk Frm Nrml](https://open.spotify.com/track/4Da8BX0odlupbRhjc4QmED) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Added Sugar](https://open.spotify.com/album/1EqGwkiaYljCmwbpzPO5d6) | 2:40 |
 | 58 | [Examples](https://open.spotify.com/track/44p4I5E6fECcUdbX53K8Ze) | [3MFrench](https://open.spotify.com/artist/7MPnGqTzCsarDScihWka1x), [T\-jin](https://open.spotify.com/artist/6rSB5wNriTJ9FOXwhkCNgN) | [Examples](https://open.spotify.com/album/3ZgKOfE40puoOrXkQK1Srq) | 2:36 |
 | 59 | [Realest In the City \(feat\. Meek Mill & PARTYNEXTDOOR\)](https://open.spotify.com/track/1kKfLv5RsxxQb6afxfIgsz) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Dear America](https://open.spotify.com/album/4ph77Ne0Z4oktYiXHDSH3G) | 4:05 |
-| 60 | [Vallie Mode](https://open.spotify.com/track/6c9JGhWjQgGydAxlS49f8Y) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Vallie Mode](https://open.spotify.com/album/0y1MaVOQk1jI3VTHlKQ6uN) | 2:28 |
-| 61 | [30,000 ft](https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Dj Charlie B](https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5) | [30,000 ft](https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn) | 2:37 |
+| 60 | [30,000 ft](https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Dj Charlie B](https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5) | [30,000 ft](https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn) | 2:37 |
+| 61 | [Vallie Mode](https://open.spotify.com/track/6c9JGhWjQgGydAxlS49f8Y) | [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [Vallie Mode](https://open.spotify.com/album/0y1MaVOQk1jI3VTHlKQ6uN) | 2:28 |
 | 62 | [NightmareZ](https://open.spotify.com/track/6VY3ID6avXR4EyraG6SDKz) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [NightmareZ](https://open.spotify.com/album/2Penu08dmmkH4PNmevsh4c) | 1:49 |
 | 63 | [When The Moving Stops](https://open.spotify.com/track/3iEwa9W9ls7vLbZbe7vgSr) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [When The Moving Stops](https://open.spotify.com/album/3NYk6nuDZeY65D7L5jesl8) | 3:28 |
 | 64 | [Priceless](https://open.spotify.com/track/2Ai10rvOZla3w0GZXuuFSp) | [Robin Banks](https://open.spotify.com/artist/46qgq6hZewSGvjR5kmT3jE), [FB](https://open.spotify.com/artist/5bDOWnyQ73utiM8fCtv1Ar) | [Priceless](https://open.spotify.com/album/3IkBPsHdtfjTozntH3W9ek) | 4:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 74 | [Alejandro Sosa](https://open.spotify.com/track/7E6dftnR9rRdXfBXn2eZow) | [Pengz](https://open.spotify.com/artist/6MtptleIGJ3C7lOpGf9Hxc), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [Alejandro Sosa](https://open.spotify.com/album/3XfyFPyRFhyG3PubBvv4kF) | 2:43 |
 | 75 | [Here it Goes](https://open.spotify.com/track/0TGWqVxhdfAyRHTqF3fsYo) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Here it Goes](https://open.spotify.com/album/1p93XxxZlLPV5O7kVC64jO) | 3:09 |
 
-Snapshot ID: `MTY4MTQzNjI3OCwwMDAwMDAwMDgyODhhYmRmMDViNDA0YmM1YTQ5ZDAwNjY0ZDIwMmI5`
+Snapshot ID: `MTY4MTQzNjI3OCwwMDAwMDAwMDdmYmFhOTc5MTUzMmVhZWYzMWExNzZiMTRiMDQwMGY2`

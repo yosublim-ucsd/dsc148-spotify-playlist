@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's hey day; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,385 likes - 74 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,474 likes - 74 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

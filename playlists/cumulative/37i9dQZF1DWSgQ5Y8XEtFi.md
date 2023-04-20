@@ -4,7 +4,7 @@
 
 > songs that break bones
 
-244 songs - 10 hr 54 min
+245 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Feel Good](https://open.spotify.com/track/37Q6kTk6hb3nqMCo6KaFln) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Feel Good](https://open.spotify.com/album/2QFN4eGrXTmC8AEWQJaSbp) | 2:04 | 2023-02-17 | 2023-03-18 |
 | [First Light](https://open.spotify.com/track/7AUHZBFJ5c7fiLhl0I9r5S) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Blood Shore Season 3](https://open.spotify.com/album/1IuOXWTMmNrH7H82V0gBcy) | 2:11 | 2022-12-21 | 2023-03-28 |
 | [Flash Bang](https://open.spotify.com/track/4svrshpdIytbEI2RSt0ctO) | [Fukkit](https://open.spotify.com/artist/2lumbRIs61wTw0biiIAUDI), [Dutchman](https://open.spotify.com/artist/1V2i4vrqsRUzHrv9DTizDF) | [Scratch Paper](https://open.spotify.com/album/6XDskCwojXEJFRjqEoCFuv) | 2:25 | 2022-04-20 | 2023-01-24 |
+| [Fluent Stutter](https://open.spotify.com/track/3FnEbhsdwIbe9gPR0O1okt) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/23Moldp9m4ZHPUHokhwg3z) | 2:26 | 2023-04-19 |  |
 | [For Real](https://open.spotify.com/track/3tcoEYOZUHKB3RKNByIN13) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 2:57 | 2022-03-29 | 2022-04-21 |
 | [Freak Mode](https://open.spotify.com/track/0Itw1DHI4ZfgskoX22k9I7) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Freak Mode](https://open.spotify.com/album/21XfypwulDuHsiuxd1XZ3W) | 2:37 | 2023-04-07 |  |
 | [from paris, with love](https://open.spotify.com/track/1AzF49Bow25YHLSxBOkWux) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [drive\-by lullabies](https://open.spotify.com/album/3aaCjvtpejeH1JVSnkRz05) | 3:02 | 2022-03-29 | 2022-07-21 |

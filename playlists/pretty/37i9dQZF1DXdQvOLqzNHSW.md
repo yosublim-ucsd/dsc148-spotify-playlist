@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > slow burners for late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 913,800 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,623 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 4 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
 | 5 | [Fallin'](https://open.spotify.com/track/1pkK7kZtxGBoXb583vDS9E) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Fallin'](https://open.spotify.com/album/3jRxPwXTP8INLOVpmDxDxo) | 4:20 |
 | 6 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 |
-| 7 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 |
-| 8 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 |
+| 7 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 |
+| 8 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 |
 | 9 | [New Slang \- 2021 Remaster](https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Oh, Inverted World \(20th Anniversary Remaster\)](https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE) | 3:50 |
 | 10 | [Numb](https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Numb](https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb) | 3:39 |
 | 11 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 34 | [Rosewood](https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 4:02 |
 | 35 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
 | 36 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 |
-| 37 | [Olson](https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 1:31 |
-| 38 | [Lovefool](https://open.spotify.com/track/3dmsgudsfeGdQ9NsZFOm0C) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Amo XO](https://open.spotify.com/album/04Yi3MVgftQcAqIqVdy9Wu) | 2:10 |
+| 37 | [Lovefool](https://open.spotify.com/track/3dmsgudsfeGdQ9NsZFOm0C) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Amo XO](https://open.spotify.com/album/04Yi3MVgftQcAqIqVdy9Wu) | 2:10 |
+| 38 | [Olson](https://open.spotify.com/track/5DZ4M3yMat79ok25rZHuA9) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/6LZiNXaDvhzvnXUubVOmNU) | 1:31 |
 | 39 | [Was It Something I Said](https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH) | 3:40 |
 | 40 | [Me \(heavy\)](https://open.spotify.com/track/3MhbnxA1JnksiATu9xyB2c) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 3:03 |
 | 41 | [Talk Down](https://open.spotify.com/track/4AZk9awBXJRVaLS7gOsaMO) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 2:31 |
@@ -69,25 +69,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 59 | [Slacks](https://open.spotify.com/track/1fCtah6RlmidPvSiyMfncH) | [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Slacks](https://open.spotify.com/album/08W1N1M71WmwpgbnpVZOF3) | 3:26 |
 | 60 | [some light](https://open.spotify.com/track/6K87kUhlsVou4V4TfdhVtt) | [airshade](https://open.spotify.com/artist/78PMYaOMIdiuJBtmSIFluQ) | [some light](https://open.spotify.com/album/0oFtq5MKHlFR1eoGj8u62T) | 1:51 |
 | 61 | [peas](https://open.spotify.com/track/6DXRUAHQTwJuCXuhXyRU53) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [peas](https://open.spotify.com/album/0dUqhKzeJy8fteS8h3XSw0) | 3:54 |
-| 62 | [Family and Genus](https://open.spotify.com/track/5lJ1NMNz6ymwdaL9aejm8e) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 5:19 |
-| 63 | [Hold On](https://open.spotify.com/track/47GsUibP7RiUL7SQ7YFfhu) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [SBTRKT \(Deluxe Version\)](https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq) | 3:26 |
+| 62 | [Hold On](https://open.spotify.com/track/47GsUibP7RiUL7SQ7YFfhu) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [SBTRKT \(Deluxe Version\)](https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq) | 3:26 |
+| 63 | [Family and Genus](https://open.spotify.com/track/5lJ1NMNz6ymwdaL9aejm8e) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 5:19 |
 | 64 | [Hannah Hunt](https://open.spotify.com/track/6AY1M1akbsVaQN3ATVyzH7) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j) | 3:57 |
 | 65 | [Eve](https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Eve](https://open.spotify.com/album/1O056siKSsHdDjlvIO0pJ5) | 2:43 |
 | 66 | [January](https://open.spotify.com/track/4ufN2o3Rf6LN5Z0XaqJXIz) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [January](https://open.spotify.com/album/0e3TGReFAa5Hatq0CDT0Tk) | 3:16 |
 | 67 | [TMF](https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [TMF](https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt) | 3:31 |
-| 68 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 |
-| 69 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 |
+| 68 | [Loud Places](https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour](https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ) | 4:43 |
+| 69 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 |
 | 70 | [On My Own](https://open.spotify.com/track/6GH5wjtkTqJsS7tC3TjaWq) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv) | 2:14 |
-| 71 | [Kintsugi](https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū](https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s) | 1:06 |
-| 72 | [Business Solutions](https://open.spotify.com/track/7AQF2AOa43bMg08srt9PO3) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Business Solutions](https://open.spotify.com/album/5EoBpPFpD4y4GCc4CFaLhE) | 3:40 |
+| 71 | [Business Solutions](https://open.spotify.com/track/7AQF2AOa43bMg08srt9PO3) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF) | [Business Solutions](https://open.spotify.com/album/5EoBpPFpD4y4GCc4CFaLhE) | 3:40 |
+| 72 | [Kintsugi](https://open.spotify.com/track/7I8v42wxDhfojsq3APrXU0) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū](https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s) | 1:06 |
 | 73 | [Kin](https://open.spotify.com/track/3RID7FNOsH3XqUcEsgpq5v) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Wild](https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD) | 5:24 |
 | 74 | [D4U \- Spotify Singles](https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [D4U \- Spotify Singles](https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj) | 2:40 |
 | 75 | [Rivers](https://open.spotify.com/track/1dBje6EOpDBLdoKGo94DEa) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Rivers](https://open.spotify.com/album/78s3die4I0Q75cp2NKO6sc) | 3:56 |
 | 76 | [I'll Come Too](https://open.spotify.com/track/6EvUAsfncetT0RcWshHCbl) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:42 |
 | 77 | [Fearless](https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Fearless](https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak) | 4:44 |
 | 78 | [Underwaterfall](https://open.spotify.com/track/4X9JAGRyJnnHN3KUjq1r9C) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Underwaterfall](https://open.spotify.com/album/5ENb57Y5akwf5BW16G1G0q) | 4:20 |
-| 79 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 |
-| 80 | [Black Dog](https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Black Dog](https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy) | 3:45 |
+| 79 | [Black Dog](https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Black Dog](https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy) | 3:45 |
+| 80 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 |
 | 81 | [Dream](https://open.spotify.com/track/66hacKPqwClRgpSmWDWhBx) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [L.O.L\. \(Lack Of Love\)](https://open.spotify.com/album/0ai9izfKKajSJkx9bwtIMP) | 1:24 |
 | 82 | [You're Too Precious](https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [You're Too Precious](https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q) | 3:43 |
 | 83 | [Lonely Shade of Blue](https://open.spotify.com/track/5rTjMOVDiXDxkJavr2GxEL) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [LEMONS](https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX) | 4:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 99 | [We're Here, My Dear](https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:41 |
 | 100 | [Columbia River](https://open.spotify.com/track/17cwqWxSyZK4bo7Hg7z9ko) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [4E](https://open.spotify.com/album/2UDkmwKTN9KsyF3204XjhL) | 4:42 |
 
-Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDgzM2ZiNjFiMWQ3MWFkODY5ZGY1ZGY3NDM4YjQ0YTlh`
+Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDU0YzNkZTcwMWIwYjk2NmRmOTRlYTdjZDVlNzA3NmM1`

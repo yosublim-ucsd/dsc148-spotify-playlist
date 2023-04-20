@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 300908,
+  "num_followers": 301031,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMGQ5ODU1NmYzNTkxY2EwYTM2ZDU1NmViNjVlYjljYTcy",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMGI0NzIzYTAxYTU2NjY3ZDQ4ODEwNDJhNmY0NzRhNjdi",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -811,6 +811,26 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "LowKey (feat. Jayd Ink)",
+        "url": "https://open.spotify.com/album/5IymapBkxovOp4ELc4sQNy"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        },
+        {
+          "name": "Jayd Ink",
+          "url": "https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac"
+        }
+      ],
+      "duration_ms": 173420,
+      "name": "LowKey (feat. Jayd Ink)",
+      "url": "https://open.spotify.com/track/1esyt62pq02xPShuaK5OpA"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Believe (feat. Fredwave & Jeshi)",
         "url": "https://open.spotify.com/album/0u1IdlsVv5D33d3aPKEZrL"
       },
@@ -835,22 +855,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "LowKey (feat. Jayd Ink)",
-        "url": "https://open.spotify.com/album/5IymapBkxovOp4ELc4sQNy"
+        "name": "Be Patient",
+        "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
       },
       "artists": [
         {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
-        },
-        {
-          "name": "Jayd Ink",
-          "url": "https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac"
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
         }
       ],
-      "duration_ms": 173420,
-      "name": "LowKey (feat. Jayd Ink)",
-      "url": "https://open.spotify.com/track/1esyt62pq02xPShuaK5OpA"
+      "duration_ms": 216793,
+      "name": "Be Patient",
+      "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -875,22 +891,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Be Patient",
-        "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 216793,
-      "name": "Be Patient",
-      "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
       },
@@ -907,6 +907,22 @@
       "duration_ms": 285093,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/693j0kfWsGfe7FWaGfWjRV"
+      },
+      "artists": [
+        {
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+        }
+      ],
+      "duration_ms": 174065,
+      "name": "People",
+      "url": "https://open.spotify.com/track/1HEs44PJB2lrOhFMHqs6lz"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -947,18 +963,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/693j0kfWsGfe7FWaGfWjRV"
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
       },
       "artists": [
         {
-          "name": "PL\u00dcM",
-          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
         }
       ],
-      "duration_ms": 174065,
-      "name": "People",
-      "url": "https://open.spotify.com/track/1HEs44PJB2lrOhFMHqs6lz"
+      "duration_ms": 194177,
+      "name": "Unrequited Love",
+      "url": "https://open.spotify.com/track/55odIfJy7sm2HkHf3n9Gha"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -975,22 +991,6 @@
       "duration_ms": 315608,
       "name": "Moving",
       "url": "https://open.spotify.com/track/3FsbNA7632mDE8gLp4K6oB"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "It Is What It Is",
-        "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 194177,
-      "name": "Unrequited Love",
-      "url": "https://open.spotify.com/track/55odIfJy7sm2HkHf3n9Gha"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "LoveConfusion",
-        "url": "https://open.spotify.com/album/1KKBhVD7u0bD0EdvHI7BeP"
-      },
-      "artists": [
-        {
-          "name": "Karnaval Blues",
-          "url": "https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "LoveConfusion",
-      "url": "https://open.spotify.com/track/38xyC5uryAeiprkzLbNF6W"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "La Linda",
         "url": "https://open.spotify.com/album/36BV0UIqHyq9RG7a2Q0x0K"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Gravitate",
-        "url": "https://open.spotify.com/album/10R8zdN5rOJQGSkXuKuTfb"
+        "name": "LoveConfusion",
+        "url": "https://open.spotify.com/album/1KKBhVD7u0bD0EdvHI7BeP"
       },
       "artists": [
         {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+          "name": "Karnaval Blues",
+          "url": "https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3"
         }
       ],
-      "duration_ms": 341826,
-      "name": "Gravitate",
-      "url": "https://open.spotify.com/track/3i97OJms85ExXn3lf9cHF2"
+      "duration_ms": 258333,
+      "name": "LoveConfusion",
+      "url": "https://open.spotify.com/track/38xyC5uryAeiprkzLbNF6W"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1275,6 +1259,22 @@
       "duration_ms": 189683,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Gravitate",
+        "url": "https://open.spotify.com/album/10R8zdN5rOJQGSkXuKuTfb"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "duration_ms": 341826,
+      "name": "Gravitate",
+      "url": "https://open.spotify.com/track/3i97OJms85ExXn3lf9cHF2"
     },
     {
       "added_at": "2022-06-20 14:19:42",

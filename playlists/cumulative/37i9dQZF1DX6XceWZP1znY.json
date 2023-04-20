@@ -3312,7 +3312,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 89387,
       "name": "katharsis (TV edit)",
       "url": "https://open.spotify.com/track/4IaZWtk88n1RD2IHJGUrxW"
@@ -10086,6 +10086,24 @@
       "duration_ms": 231700,
       "name": "\u30ea\u30ca\u30ea\u30a2",
       "url": "https://open.spotify.com/track/6CDwwQF6WjyiYf2YRwjtFk"
+    },
+    {
+      "album": {
+        "name": "\u30ea\u30f3\u30cd",
+        "url": "https://open.spotify.com/album/6HAAgNaMddnBwL6u9HOCpX"
+      },
+      "artists": [
+        {
+          "name": "ASCA",
+          "url": "https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255813,
+      "name": "\u30ea\u30f3\u30cd",
+      "url": "https://open.spotify.com/track/4Ps9apbyXwAzD99EfQdKdy"
     },
     {
       "album": {

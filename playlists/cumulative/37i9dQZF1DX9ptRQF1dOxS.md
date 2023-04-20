@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Jessie Ware
 
-664 songs - 1 day 14 hr 8 min
+665 songs - 1 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,8 @@
 | [Get Down](https://open.spotify.com/track/0Ex4dfzYtS1tgoubw8jLod) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0) | [Get Down](https://open.spotify.com/album/4RKK2gMGokfiGGGk4l1FiS) | 4:01 | 2023-03-01 | 2023-04-05 |
 | [Get With You](https://open.spotify.com/track/1cshIDD9PMf58mmOquIa9S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Get With You](https://open.spotify.com/album/7EeOH5oj2MgNjVFblGR6Ea) | 1:51 | 2022-08-03 | 2023-01-06 |
 | [Ghost of You](https://open.spotify.com/track/7Kbw2fTMOU43MrqXdGzroh) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Ghost of You](https://open.spotify.com/album/3tDXcAFGzJelw2FvjDP9aI) | 2:38 | 2023-01-05 | 2023-02-01 |
-| [Giant Feelings](https://open.spotify.com/track/2pSGUdDRQl6k0liOCbUza2) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Giant Feelings](https://open.spotify.com/album/19ICuGAKIU66VOA6MLc1WZ) | 2:19 | 2023-04-04 |  |
+| [Giant Feelings](https://open.spotify.com/track/2pSGUdDRQl6k0liOCbUza2) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Giant Feelings](https://open.spotify.com/album/19ICuGAKIU66VOA6MLc1WZ) | 2:19 | 2023-04-04 | 2023-04-20 |
+| [Giant Feelings](https://open.spotify.com/track/7wCFToKO63HYn4oP6xZMHh) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 2:19 | 2023-04-04 |  |
 | [Gift of Life](https://open.spotify.com/track/7hYvu99xJfuoxIHkNmFrXu) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Falling / Gift of Life](https://open.spotify.com/album/3JqnHutKl8g9uBGNsLasuF) | 3:54 | 2022-01-05 | 2022-02-11 |
 | [Girl Of Your Dreams](https://open.spotify.com/track/0TKw4XKCDwVlDK1DM7gUUg) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Girl Of Your Dreams](https://open.spotify.com/album/5nm4lP4GBk1ZLhvDjhPU19) | 2:43 | 2022-09-06 | 2022-10-06 |
 | [Girl Of Your Dreams](https://open.spotify.com/track/6l8ftiGJoFRog1rs3WV8Vj) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [The Greatest Thing I’ll Never Learn](https://open.spotify.com/album/4wdBZxpMVkbKFpHZPcsV5S) | 2:43 | 2023-01-05 | 2023-02-01 |

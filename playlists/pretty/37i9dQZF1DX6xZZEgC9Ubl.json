@@ -1,15 +1,15 @@
 {
   "description": "Emo feels for the misunderstood. Cover: Lil Peep",
-  "num_followers": 1478366,
+  "num_followers": 1477675,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTMxODY1MywwMDAwMDAwMDQ3M2MzNmQ3MWNhODU5YmEzMDkyYTczODI0ODM2MjI3",
+  "snapshot_id": "MTY4MTMxODY1MywwMDAwMDAwMDExNzUxOGE3ZTg1MjllNWI0Zjk1MWI2NGU4YzFiMmY5",
   "tracks": [
     {
-      "added_at": "2023-04-19 01:09:24",
+      "added_at": "2023-04-20 00:59:41",
       "album": {
         "name": "thishouseisnotahome",
         "url": "https://open.spotify.com/album/5luCmuvUUH79Vm21NB9de2"
@@ -681,6 +681,22 @@
       "url": "https://open.spotify.com/track/3W2m2qa0vPHoCMqEjrpLAo"
     },
     {
+      "added_at": "2023-03-03 05:00:00",
+      "album": {
+        "name": "Cherry Blossoms",
+        "url": "https://open.spotify.com/album/1F7sDdTBfac69FjehSaCc9"
+      },
+      "artists": [
+        {
+          "name": "Shady Moon",
+          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
+        }
+      ],
+      "duration_ms": 138311,
+      "name": "Cherry Blossoms",
+      "url": "https://open.spotify.com/track/6Rdp4sAeb38xf8DByVG3Xs"
+    },
+    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "dream girl",
@@ -711,22 +727,6 @@
       "duration_ms": 138306,
       "name": "then i met her",
       "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
-    },
-    {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Cherry Blossoms",
-        "url": "https://open.spotify.com/album/1F7sDdTBfac69FjehSaCc9"
-      },
-      "artists": [
-        {
-          "name": "Shady Moon",
-          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
-        }
-      ],
-      "duration_ms": 138311,
-      "name": "Cherry Blossoms",
-      "url": "https://open.spotify.com/track/6Rdp4sAeb38xf8DByVG3Xs"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -785,22 +785,6 @@
       "url": "https://open.spotify.com/track/7iLmh60QhnumkevZlMVbp3"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "runaway (OG Version)",
-        "url": "https://open.spotify.com/album/3chQAPIWOHN2iHIU7HU0r6"
-      },
-      "artists": [
-        {
-          "name": "Lil Peep",
-          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "runaway - OG Version",
-      "url": "https://open.spotify.com/track/5AHJytT9tCq5fhVce7FNnu"
-    },
-    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "why am i crying",
@@ -819,6 +803,38 @@
       "duration_ms": 204659,
       "name": "Letter to Jarad",
       "url": "https://open.spotify.com/track/508QhA2SncMbh5CnuxkvUc"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "runaway (OG Version)",
+        "url": "https://open.spotify.com/album/3chQAPIWOHN2iHIU7HU0r6"
+      },
+      "artists": [
+        {
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "runaway - OG Version",
+      "url": "https://open.spotify.com/track/5AHJytT9tCq5fhVce7FNnu"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "agoraphobic",
+        "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
+      },
+      "artists": [
+        {
+          "name": "CORPSE",
+          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
+        }
+      ],
+      "duration_ms": 129795,
+      "name": "agoraphobic",
+      "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -851,22 +867,6 @@
       "duration_ms": 168308,
       "name": "Never Be Alright",
       "url": "https://open.spotify.com/track/6v5vr3SqSczkqIIVeW8RjZ"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "agoraphobic",
-        "url": "https://open.spotify.com/album/3Hz3XGYtM6rcRIPBJVAury"
-      },
-      "artists": [
-        {
-          "name": "CORPSE",
-          "url": "https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW"
-        }
-      ],
-      "duration_ms": 129795,
-      "name": "agoraphobic",
-      "url": "https://open.spotify.com/track/6ATqL4f1nFWwASrWi8nF6e"
     },
     {
       "added_at": "2022-12-14 15:14:02",
@@ -1001,22 +1001,6 @@
       "url": "https://open.spotify.com/track/2kHrlDvECzPyjcbmSQNusl"
     },
     {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "Never With You Again",
-        "url": "https://open.spotify.com/album/5uk392dRRZMHJVM8PpyRTM"
-      },
-      "artists": [
-        {
-          "name": "Chri$tian Gate$",
-          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Never With You Again",
-      "url": "https://open.spotify.com/track/7cVufRmSWo6ogfYyuAJC0w"
-    },
-    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "I\u2019ll Keep You Safe",
@@ -1031,6 +1015,22 @@
       "duration_ms": 140338,
       "name": "I\u2019ll Keep You Safe",
       "url": "https://open.spotify.com/track/1H3Q48ARz2ZEwbOl6s53Mq"
+    },
+    {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Never With You Again",
+        "url": "https://open.spotify.com/album/5uk392dRRZMHJVM8PpyRTM"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Never With You Again",
+      "url": "https://open.spotify.com/track/7cVufRmSWo6ogfYyuAJC0w"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/4nN2WkOPVJSDgluTqLymQw"
+        "name": "First Draft",
+        "url": "https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX"
       },
       "artists": [
         {
-          "name": "Scorey",
-          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
         }
       ],
-      "duration_ms": 172307,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/2MPfWVq2YFGdNTSLoj4RgA"
+      "duration_ms": 127934,
+      "name": "Save Me, Please",
+      "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/4nN2WkOPVJSDgluTqLymQw"
+      },
+      "artists": [
+        {
+          "name": "Scorey",
+          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+        }
+      ],
+      "duration_ms": 172307,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/2MPfWVq2YFGdNTSLoj4RgA"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
         "name": "Digikid 2",
         "url": "https://open.spotify.com/album/3RoNCb8HWjDW4u1DTaDQVL"
       },
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "First Draft",
-        "url": "https://open.spotify.com/album/6CepDz0VAUeImOXIIVdjZX"
+        "name": "Tell Me About Tomorrow",
+        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
       },
       "artists": [
         {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],
-      "duration_ms": 127934,
-      "name": "Save Me, Please",
-      "url": "https://open.spotify.com/track/0FzEq5yepkq03NI8axcOBu"
+      "duration_ms": 155673,
+      "name": "BETTER OFF DEAD",
+      "url": "https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1131,22 +1147,6 @@
       "duration_ms": 184141,
       "name": "Hiding in the Dark",
       "url": "https://open.spotify.com/track/1eau7EVXGFffQAGYFxIx6w"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Tell Me About Tomorrow",
-        "url": "https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 155673,
-      "name": "BETTER OFF DEAD",
-      "url": "https://open.spotify.com/track/7MPxEoT36YBCDbrk3ng85S"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1361,22 +1361,6 @@
       "url": "https://open.spotify.com/track/6eKfQnTHKeqyyfaGlwMIcG"
     },
     {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "jaded",
-        "url": "https://open.spotify.com/album/6T23UR8liTx61aRkLl0E7p"
-      },
-      "artists": [
-        {
-          "name": "sadeyes",
-          "url": "https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0"
-        }
-      ],
-      "duration_ms": 160624,
-      "name": "jaded",
-      "url": "https://open.spotify.com/track/6Tt9PBM6oWGwVnxyzuM84j"
-    },
-    {
       "added_at": "2022-12-14 15:14:02",
       "album": {
         "name": "Violets",
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2022-10-07 04:18:00",
       "album": {
-        "name": "WELCOME HOME",
-        "url": "https://open.spotify.com/album/2NDlOOZNBvq6B26feV4gJc"
+        "name": "jaded",
+        "url": "https://open.spotify.com/album/6T23UR8liTx61aRkLl0E7p"
       },
       "artists": [
         {
-          "name": "Aries",
-          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
+          "name": "sadeyes",
+          "url": "https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0"
         }
       ],
-      "duration_ms": 164154,
-      "name": "BAD NEWS",
-      "url": "https://open.spotify.com/track/60ZppukPfY43NDU9meKJrz"
+      "duration_ms": 160624,
+      "name": "jaded",
+      "url": "https://open.spotify.com/track/6Tt9PBM6oWGwVnxyzuM84j"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1423,6 +1407,22 @@
       "duration_ms": 182546,
       "name": "WOULDN'T IT BE NICE",
       "url": "https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "WELCOME HOME",
+        "url": "https://open.spotify.com/album/2NDlOOZNBvq6B26feV4gJc"
+      },
+      "artists": [
+        {
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy"
+        }
+      ],
+      "duration_ms": 164154,
+      "name": "BAD NEWS",
+      "url": "https://open.spotify.com/track/60ZppukPfY43NDU9meKJrz"
     },
     {
       "added_at": "2022-10-07 04:18:00",
@@ -1625,6 +1625,22 @@
       "url": "https://open.spotify.com/track/66MIGyHdex7vfP6RAwpMNL"
     },
     {
+      "added_at": "2023-03-24 04:00:00",
+      "album": {
+        "name": "Why Do I Hear Breathing?",
+        "url": "https://open.spotify.com/album/5Rld3VgahTXdhsOQk1oRnt"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "duration_ms": 119142,
+      "name": "Why Do I Hear Breathing?",
+      "url": "https://open.spotify.com/track/34AV8kRHUmM06sdnmDrPRe"
+    },
+    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "Reckless",
@@ -1661,22 +1677,6 @@
       "url": "https://open.spotify.com/track/4ZUNw5tDBZTOqzPEVIYyOy"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Why Do I Hear Breathing?",
-        "url": "https://open.spotify.com/album/5Rld3VgahTXdhsOQk1oRnt"
-      },
-      "artists": [
-        {
-          "name": "Chri$tian Gate$",
-          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
-        }
-      ],
-      "duration_ms": 119142,
-      "name": "Why Do I Hear Breathing?",
-      "url": "https://open.spotify.com/track/34AV8kRHUmM06sdnmDrPRe"
-    },
-    {
       "added_at": "2022-10-07 04:18:00",
       "album": {
         "name": "come back",
@@ -1691,6 +1691,22 @@
       "duration_ms": 153245,
       "name": "come back",
       "url": "https://open.spotify.com/track/6efdzU3R68skVEHDJONh8p"
+    },
+    {
+      "added_at": "2022-10-07 04:18:00",
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/3GdlgjBNE6MBmlIovpcQym"
+      },
+      "artists": [
+        {
+          "name": "Yung Pinch",
+          "url": "https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n"
     },
     {
       "added_at": "2023-01-20 05:00:00",
@@ -1715,22 +1731,6 @@
       "duration_ms": 184900,
       "name": "Can't Change For You (feat. charlieonnafriday & Arden Jones)",
       "url": "https://open.spotify.com/track/103iTEPJwc4MththlvRakh"
-    },
-    {
-      "added_at": "2022-10-07 04:18:00",
-      "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/3GdlgjBNE6MBmlIovpcQym"
-      },
-      "artists": [
-        {
-          "name": "Yung Pinch",
-          "url": "https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/1JmEymqQwLXvCg3sJ7gz0n"
     },
     {
       "added_at": "2022-10-07 04:18:00",

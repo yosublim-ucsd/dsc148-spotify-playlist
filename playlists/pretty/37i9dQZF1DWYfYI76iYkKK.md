@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,631 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,655 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 36 | [第一個清晨](https://open.spotify.com/track/4FOcKtu7mXOrnifIaif0L3) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [蓋世英雄](https://open.spotify.com/album/22pEd6RNnbso5XFaZoT0YF) | 4:46 |
 | 37 | [悄悄告訴你](https://open.spotify.com/track/7j34mUd15g3RrhZzVx3CgB) | [Christine Fan](https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg) | [悄悄告訴你](https://open.spotify.com/album/42YXL6YhJBbP2ZM4WMUTkC) | 2:16 |
 | 38 | [就算我放棄了世界](https://open.spotify.com/track/5U02MVv6SGMigHeyKYC309) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [給天王星](https://open.spotify.com/album/4mrjsYBHIsDiYzHrYdxNfY) | 3:45 |
-| 39 | [別離開好嗎 \(《第9節課》插曲\)](https://open.spotify.com/track/3gsBzDDsdCEGSGNjbs5NL8) | [HAOR](https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx) | [別離開好嗎 \(《第9節課》插曲\)](https://open.spotify.com/album/2BIxoEhZZJ5TN0BqRpIKfe) | 4:07 |
-| 40 | [旅行中忘記](https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [T.I.A.](https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi) | 3:54 |
+| 39 | [旅行中忘記](https://open.spotify.com/track/1Of1jcGbCroKpUk7RGJaPA) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [T.I.A.](https://open.spotify.com/album/16FOXa3qlWPHP7MmPj0Ehi) | 3:54 |
+| 40 | [別離開好嗎 \(《第9節課》插曲\)](https://open.spotify.com/track/3gsBzDDsdCEGSGNjbs5NL8) | [HAOR](https://open.spotify.com/artist/1vhgWOwfVcKVTGTsfHmoBx) | [別離開好嗎 \(《第9節課》插曲\)](https://open.spotify.com/album/2BIxoEhZZJ5TN0BqRpIKfe) | 4:07 |
 | 41 | [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 |
 | 42 | [I Know You Know \- 電視劇《我的真朋友》主題曲](https://open.spotify.com/track/4ec3HOKBBbkjTvoGteQncK) | [李治廷](https://open.spotify.com/artist/5RkHWm6vOA31T32qyjQxgd) | [I Know You Know\-電視劇《我的真朋友》主題曲](https://open.spotify.com/album/4rmw9Ja0txHNXJ8wSSDBuJ) | 4:04 |
 | 43 | [皆可](https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:30 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 47 | [The Joy Of Sorrow](https://open.spotify.com/track/78oPAwgoMFL9QxnueTuNwy) | [柯智棠](https://open.spotify.com/artist/3KdU8KfkDy7xHmQS00B5wd) | [The Joy Of Sorrow](https://open.spotify.com/album/0xShV7TaXhCZ2WTwwFtwT9) | 3:27 |
 | 48 | [輸情歌](https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [輸情歌](https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV) | 3:44 |
 | 49 | [陪著你](https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 5:10 |
-| 50 | [為什麼只留下我一個](https://open.spotify.com/track/0PfB9QJ3T9uCGfkt0ml5TR) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [為什麼只留下我一個](https://open.spotify.com/album/0TzPiD0Z6JOcwbDY6vzuKL) | 3:46 |
+| 50 | [想念擬人化](https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7) | [孟慧圓](https://open.spotify.com/artist/4RcNXR3j50a6JCZcU06h6g) | [我被放上天空](https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y) | 4:26 |
 
-Snapshot ID: `MTY4MTQwMTYwMCwwMDAwMDAwMGUwZWJkNTIxMTg2OTA5ZjBjMzM2MDliMWRmYzc0OTli`
+Snapshot ID: `MTY4MTQwMTYwMCwwMDAwMDAwMGEwZmViMjMyYzMzNmY4ZGE2M2UzNzMyYzM5NjZmMTcw`

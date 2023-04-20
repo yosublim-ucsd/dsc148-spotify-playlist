@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > All new indie rock\. Featuring new music from Vacations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 844,386 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 844,442 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 77 | [King of Nothing](https://open.spotify.com/track/3A8zf3SB7ia8oMpqqnCRHl) | [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Head of the Love Club](https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST) | 2:29 |
 | 78 | [TV in the Gas Pump](https://open.spotify.com/track/2C3YgXBZpZx0FoguTk0fbj) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [TV in the Gas Pump](https://open.spotify.com/album/1KCYvFcQ0eLIx9Kpmr4WgX) | 2:22 |
 | 79 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 |
-| 80 | [Adderall \(End of the Line\)](https://open.spotify.com/track/2zJDq0UXhz3mUvmncn4GA1) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Adderall \(End of the Line\)](https://open.spotify.com/album/2RzQZs8tIVQEBEfAwagNm3) | 4:25 |
+| 80 | [Adderall \(End of the Line\)](https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:25 |
 | 81 | [Hybrid](https://open.spotify.com/track/1KcSoLTbW95AiUj8RLcPxr) | [Annie DiRusso](https://open.spotify.com/artist/58jk0945bnQBG9xfij6hHw) | [God, I Hate This Place](https://open.spotify.com/album/506D0KoP1j3ttcJACqWd3T) | 2:33 |
 | 82 | [Eyez](https://open.spotify.com/track/4gP55KOAwtv0qGuKq4YjLA) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Electrophonic Chronic](https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ) | 3:40 |
 | 83 | [Just To Keep You Satisfied](https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Daily News](https://open.spotify.com/track/1yhY41ETiHG3g8SulQMCaL) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Daily News](https://open.spotify.com/album/1zvGUFwtupod7nYJ9oziqO) | 4:15 |
 | 100 | [Hey Monet](https://open.spotify.com/track/2LReZPqy0KOejjm8E0aOLa) | [The Nude Party](https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK) | [Rides On](https://open.spotify.com/album/5rhWpaut3ohLsONxiS3ffn) | 2:12 |
 
-Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDgxOWUxZjNhYTI0NTUzY2NjNjhjMzJlOGM1OTZmNjhl`
+Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMGUwZmRlOTllNmQ5MmZhYWU5Y2ZiMzNhM2NmMzNlYjFl`

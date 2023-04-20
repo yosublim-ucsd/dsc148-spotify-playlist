@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 
 > These songs rocked the '60s\. Cover: Jimi Hendrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,762 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 835,078 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 28 | [Light My Fire](https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 7:09 |
 | 29 | [Green River](https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Green River \(Expanded Edition\)](https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG) | 2:34 |
 | 30 | [While My Guitar Gently Weeps \- Remastered 2009](https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 4:45 |
-| 31 | [Green Onions](https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU) | 2:56 |
-| 32 | [White Room](https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 4:58 |
+| 31 | [White Room](https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 4:58 |
+| 32 | [Green Onions](https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU) | 2:56 |
 | 33 | [Somebody to Love](https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Surrealistic Pillow](https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a) | 2:54 |
 | 34 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 |
 | 35 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 53 | [Summer in the City \- Remastered](https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Hums Of The Lovin' Spoonful](https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY) | 2:40 |
 | 54 | [Waterloo Sunset](https://open.spotify.com/track/5nrmGFJ87crVoJF5xdRqwn) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Something Else \(Deluxe\)](https://open.spotify.com/album/5ktMgVAJtsv4HagfFliWpR) | 3:14 |
 | 55 | [Turn! Turn! Turn! \(To Everything There Is a Season\)](https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Turn! Turn! Turn!](https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn) | 3:49 |
-| 56 | [Gloria \(feat\. Van Morrison\) \- Stereo Version](https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [The Essential Van Morrison](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) | 2:36 |
-| 57 | [Sunshine Of Your Love](https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 4:10 |
+| 56 | [Sunshine Of Your Love](https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 4:10 |
+| 57 | [Gloria \(feat\. Van Morrison\) \- Stereo Version](https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [The Essential Van Morrison](https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa) | 2:36 |
 | 58 | [Ruby Tuesday](https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Between The Buttons](https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5) | 3:16 |
 | 59 | [Evil Ways](https://open.spotify.com/track/5tmrnhMxx39jnu3kjopMdP) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana \(Legacy Edition\)](https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu) | 3:58 |
 | 60 | [Hello, I Love You](https://open.spotify.com/track/3bWGaqVeYKMlLss40mPgNn) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [Waiting for the Sun](https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh) | 2:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzBc3TOlaAV.md) - [plain]
 | 99 | [Revolution \- Remastered 2009](https://open.spotify.com/track/3UDmHZcBTQp8Iu8droNtUl) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 \- 1970 \(Remastered\)](https://open.spotify.com/album/1cTeNkeINtXiaMLlashAKs) | 3:25 |
 | 100 | [Street Fighting Man \- 50th Anniversary Edition](https://open.spotify.com/track/7EXgO1bRnEArE58rtrgMWB) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet \(50th Anniversary Edition\)](https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd) | 3:15 |
 
-Snapshot ID: `MTY3NDA3NTY1NiwwMDAwMDAwMDViZmExOTA1OGQyZDlmY2RlOWIyMTFjNzM4ZTE4NzQx`
+Snapshot ID: `MTY3NDA3NTY1NiwwMDAwMDAwMDBlYjZmOTM1NDc4Y2U3NTBlMjhmN2FhMjdhNDEwOTJk`

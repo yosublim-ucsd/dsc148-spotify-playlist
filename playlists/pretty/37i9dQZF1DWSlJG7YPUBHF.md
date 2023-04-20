@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlJG7YPUBHF.md) - [plain]
 
 > Face\-melters only\. Cover: Eddie Van Halen
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,339,384 likes - 50 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,339,679 likes - 50 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlJG7YPUBHF.md) - [plain]
 | 13 | [Purple Rain](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 8:40 |
 | 14 | [Comfortably Numb](https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 6:22 |
 | 15 | [Reelin' In The Years](https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p) | 4:37 |
-| 16 | [Sunshine Of Your Love](https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears \(Deluxe Edition\)](https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4) | 4:10 |
-| 17 | [While My Guitar Gently Weeps \- Remastered 2009](https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 4:45 |
+| 16 | [While My Guitar Gently Weeps \- Remastered 2009](https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 4:45 |
+| 17 | [Sunshine Of Your Love](https://open.spotify.com/track/2K2M0TcglCRLLpFOzKeFZA) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears \(Deluxe Edition\)](https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4) | 4:10 |
 | 18 | [Sultans of Swing](https://open.spotify.com/track/6cr6UDpkjEaMQ80OjWqEBQ) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Dire Straits](https://open.spotify.com/album/4dKdxly4ji1vfl7sEYuqBe) | 5:50 |
 | 19 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 5:13 |
 | 20 | [Hot for Teacher \- 2015 Remaster](https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:42 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlJG7YPUBHF.md) - [plain]
 | 25 | [Fade To Black \(Remastered\)](https://open.spotify.com/track/0dqGfCMAGyDgpUAgLNOjWd) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe Remaster\)](https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr) | 6:57 |
 | 26 | [Sympathy For The Devil](https://open.spotify.com/track/75zMKn5euxQdlkZgu4P42J) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones Singles Collection: The London Years](https://open.spotify.com/album/0ACOqjq9mQuCZry2kj5zkB) | 6:16 |
 | 27 | [Aqualung](https://open.spotify.com/track/5UuikgHTxSRFRnC0zXx10i) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Aqualung \(Special Edition\)](https://open.spotify.com/album/0NGM3Ftwjw0dLNpAowmz3x) | 6:36 |
-| 28 | [Little Wing](https://open.spotify.com/track/5XNpdKmlLJPUbwKQceX2tW) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 6:48 |
-| 29 | [Floods](https://open.spotify.com/track/1L2ZkXbRX00ZiaUDuMMgf7) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 6:59 |
+| 28 | [Floods](https://open.spotify.com/track/1L2ZkXbRX00ZiaUDuMMgf7) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [The Great Southern Trendkill](https://open.spotify.com/album/4LdquqwQoyu1pE6Vq8PIha) | 6:59 |
+| 29 | [Little Wing](https://open.spotify.com/track/5XNpdKmlLJPUbwKQceX2tW) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Couldn't Stand The Weather \(Legacy Edition\)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ) | 6:48 |
 | 30 | [Cliffs Of Dover \- Instrumental](https://open.spotify.com/track/5qm0KiVKMXW1kq6VrnIhz5) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb) | [Ah Via Musicom](https://open.spotify.com/album/4euX7BHHIVZecdn7Ii3eg2) | 4:09 |
 | 31 | [Highway Star](https://open.spotify.com/track/4gVTozEmzwAUXpwj3jEetX) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head](https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty) | 6:08 |
 | 32 | [Maggot Brain](https://open.spotify.com/track/5WJU527RQNyMLuKecjsL8V) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm) | 10:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlJG7YPUBHF.md) - [plain]
 | 49 | [Flying in a Blue Dream](https://open.spotify.com/track/2NrqjA3YUfNuZcmQzE2EJe) | [Joe Satriani](https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8) | [Flying In A Blue Dream](https://open.spotify.com/album/4TZmVQz3aV8yxxcogVNFW6) | 5:23 |
 | 50 | [Statesboro Blues](https://open.spotify.com/track/3UsbGR71AjcBYOWoUlfTdm) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [The 1971 Fillmore East Recordings](https://open.spotify.com/album/4RbjXWZ3uTRGP3DRT6nvKz) | 4:44 |
 
-Snapshot ID: `MTY4MDUzMzYzNCwwMDAwMDAwMDk4MjBkNGVmNTkzOWJlNzFjNWJkZTQ3MWY3M2MwNDEw`
+Snapshot ID: `MTY4MDUzMzYzNCwwMDAwMDAwMDc0OWEzZmM0N2FmZGRiMTFhMzM4Mjg1MTlhOGMzZjM1`

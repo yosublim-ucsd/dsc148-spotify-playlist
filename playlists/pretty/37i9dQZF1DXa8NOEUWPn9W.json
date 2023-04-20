@@ -1,12 +1,12 @@
 {
   "description": "House music lives here. United under one roof, featuring HUGEL.",
-  "num_followers": 1797946,
+  "num_followers": 1798507,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGIyMzZkZTI3OTI4ZDg5NGRiMTFjZjI2OTE4N2M2NTcz",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGUxNjAyNmJkMzA4NTMzMzI5NjFhMzBhZGMxMWNkYzI2",
   "tracks": [
     {
       "added_at": "2023-04-07 04:01:00",
@@ -851,26 +851,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Miracle Maker",
-        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 188592,
-      "name": "Miracle Maker",
-      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Make Me",
         "url": "https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 151436,
       "name": "Make Me",
       "url": "https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Miracle Maker",
+        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 188592,
+      "name": "Miracle Maker",
+      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
+        "name": "Lauren (I Can't Stay Forever)",
+        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        }
+      ],
+      "duration_ms": 200550,
+      "name": "Lauren (I Can't Stay Forever)",
+      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
         "name": "Sorry (with Madonna)",
         "url": "https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 161627,
       "name": "Sorry (with Madonna)",
       "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Lauren (I Can't Stay Forever)",
-        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        }
-      ],
-      "duration_ms": 200550,
-      "name": "Lauren (I Can't Stay Forever)",
-      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Tell Me Something Good",
-        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
-      },
-      "artists": [
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 249678,
-      "name": "Tell Me Something Good",
-      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "People Ain't Dancing (feat. Kah-Lo)",
         "url": "https://open.spotify.com/album/0AsTTy2s5hEPOasYtQKCQR"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 154859,
       "name": "People Ain't Dancing (feat. Kah-Lo)",
       "url": "https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Tell Me Something Good",
+        "url": "https://open.spotify.com/album/4tyukGQ3uDTgjLHxHZocH4"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "duration_ms": 249678,
+      "name": "Tell Me Something Good",
+      "url": "https://open.spotify.com/track/5krhFNgUcYHwXlNPJJYzFM"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
+        "name": "Let Me Take You",
+        "url": "https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "duration_ms": 154761,
+      "name": "Let Me Take You",
+      "url": "https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/3cgql1fqxswMfgrCfmsgcg"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 199967,
       "name": "Remember (feat. Stevie Appleton)",
       "url": "https://open.spotify.com/track/5Cv9UBYh2VkiCspwh4Wog5"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Let Me Take You",
-        "url": "https://open.spotify.com/album/6EQI68ufxLsZ4cTlhtcr3F"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        },
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 154761,
-      "name": "Let Me Take You",
-      "url": "https://open.spotify.com/track/0q6ty9Ga2ebtTKa2C74jrC"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1315,6 +1315,54 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
+        "name": "Push To Start (feat. No/Me)",
+        "url": "https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "Push To Start (feat. No/Me)",
+      "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 147401,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
         "name": "Drinkee (Vintage Culture & John Summit Remix)",
         "url": "https://open.spotify.com/album/3SJnS1rKgzb1tgi7oCkf5F"
       },
@@ -1355,54 +1403,6 @@
       "duration_ms": 208544,
       "name": "Coma Cat - Purple Disco Machine Re-Work",
       "url": "https://open.spotify.com/track/1BMFet4vUoOgpLYIl3kVMQ"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 147401,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Push To Start (feat. No/Me)",
-        "url": "https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        },
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "No/Me",
-          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
-        }
-      ],
-      "duration_ms": 181875,
-      "name": "Push To Start (feat. No/Me)",
-      "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
+        "name": "More Love",
+        "url": "https://open.spotify.com/album/6RqDJ6CVMcWAYKJjrR2SHx"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        {
+          "name": "Secondcity",
+          "url": "https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq"
+        }
+      ],
+      "duration_ms": 191612,
+      "name": "More Love",
+      "url": "https://open.spotify.com/track/5PY9fTLp4MPXsbeRouS8gd"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
         "name": "Disconnected",
         "url": "https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP"
       },
@@ -1519,26 +1539,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Back Tomorrow",
-        "url": "https://open.spotify.com/album/1UOQt2dEoHhoJTinUxvFaI"
-      },
-      "artists": [
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 118871,
-      "name": "Back Tomorrow",
-      "url": "https://open.spotify.com/track/4q2azQakSVVyqljRiCZtu3"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "Can\u2019t Fight The Feeling",
         "url": "https://open.spotify.com/album/0UDIxo8rh9AcO7oGHjaETt"
       },
@@ -1555,22 +1555,22 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "More Love",
-        "url": "https://open.spotify.com/album/6RqDJ6CVMcWAYKJjrR2SHx"
+        "name": "Back Tomorrow",
+        "url": "https://open.spotify.com/album/1UOQt2dEoHhoJTinUxvFaI"
       },
       "artists": [
         {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
         },
         {
-          "name": "Secondcity",
-          "url": "https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq"
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
         }
       ],
-      "duration_ms": 191612,
-      "name": "More Love",
-      "url": "https://open.spotify.com/track/5PY9fTLp4MPXsbeRouS8gd"
+      "duration_ms": 118871,
+      "name": "Back Tomorrow",
+      "url": "https://open.spotify.com/track/4q2azQakSVVyqljRiCZtu3"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/0m7I09FiI0eYNT87TUazHg"
-      },
-      "artists": [
-        {
-          "name": "CHANEY",
-          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
-        }
-      ],
-      "duration_ms": 190512,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/6WarP4oMloYg0Z8H8IHeDq"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "U Ok?",
         "url": "https://open.spotify.com/album/7KXw7os5bHmyb1LtfBFDY7"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 154176,
       "name": "U Ok?",
       "url": "https://open.spotify.com/track/7eHBDsqfqOMyzMhtnhytNB"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/0m7I09FiI0eYNT87TUazHg"
+      },
+      "artists": [
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        }
+      ],
+      "duration_ms": 190512,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/6WarP4oMloYg0Z8H8IHeDq"
     },
     {
       "added_at": "2023-04-07 04:01:00",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
-        "name": "Let Me Love U",
-        "url": "https://open.spotify.com/album/62nvVdhCk001EdiodfzunA"
-      },
-      "artists": [
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Let Me Love U",
-      "url": "https://open.spotify.com/track/2BoPkeahovHxCSfmmlEl26"
-    },
-    {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
         "name": "My Paradise",
         "url": "https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 211029,
       "name": "My Paradise",
       "url": "https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu"
+    },
+    {
+      "added_at": "2023-04-07 04:01:00",
+      "album": {
+        "name": "Let Me Love U",
+        "url": "https://open.spotify.com/album/62nvVdhCk001EdiodfzunA"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Let Me Love U",
+      "url": "https://open.spotify.com/track/2BoPkeahovHxCSfmmlEl26"
     },
     {
       "added_at": "2023-04-07 04:01:00",

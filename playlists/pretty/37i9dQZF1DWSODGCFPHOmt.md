@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 
 > Música navideña para las fiestas decembrinas\. Foto: Nuevo Elemento
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,791 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,790 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,13 +56,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 46 | [El Año Viejo](https://open.spotify.com/track/6KQoqaBI1CTKqRI58WnBP8) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Samo](https://open.spotify.com/artist/68QUssU8KffP7KmgO3Z6Ye) | [El Año Viejo](https://open.spotify.com/album/4Atk3MgZi0yZ7dZ8b5CQ5I) | 2:52 |
 | 47 | [Un Diciembre Diferente](https://open.spotify.com/track/3mACvGTK4JB371p4fkBtdU) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Un Diciembre Diferente](https://open.spotify.com/album/7q079isg5qDwqZmk6ZvHym) | 3:22 |
 | 48 | [Navidad Sin Ti \- Live](https://open.spotify.com/track/0IowQHym495GsLIVyuScWH) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Diva en Vivo](https://open.spotify.com/album/6nZlQ5J8lFrZ0Db4KZuFce) | 4:13 |
-| 49 | [En Esta Navidad](https://open.spotify.com/track/2ZT2xtqP0co0XrHNCrFmtD) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Esta Navidad](https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv) | 4:10 |
+| 49 | [Tristes Navidades](https://open.spotify.com/track/0HloBd2QQWB51uOp4Y52WN) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Tristes Navidades](https://open.spotify.com/album/0eHkoehUngElAFuWvDzKVc) | 3:59 |
 | 50 | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/track/7cWMHZIakSw3ANHmNSyndX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Navidad Con La Regida](https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT) | 4:00 |
 | 51 | [Navidad Rock](https://open.spotify.com/track/4mVnQj5u8jxrhD3L9RpzRs) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Navidad Rock](https://open.spotify.com/album/5C8PG8jp8zpr2fVCikWT0p) | 2:07 |
 | 52 | [Los Peces en el Río \- Edición Especial](https://open.spotify.com/track/1dWFzTAoqgvCxFQoE4bhom) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Navidad Con Angela \(Edición Especial\)](https://open.spotify.com/album/602qxwQA6vuw9d8ukke3XX) | 2:56 |
 | 53 | [Voy A Pedirle A Santa Claus](https://open.spotify.com/track/1HKXIQ2GtrOPfSoUz0e0Jk) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Voy A Pedirle A Santa Claus](https://open.spotify.com/album/7cA56I7kD0crUz40sGPqtW) | 2:37 |
 | 54 | [Jingle Bell Rock \- Versión Español](https://open.spotify.com/track/3LrYE8uEeDdO13G07UDRdL) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Navidad Con Mariachi](https://open.spotify.com/album/5F4QkpA6WWE49lnYGQZYDj) | 2:08 |
-| 55 | [Tristes Navidades](https://open.spotify.com/track/0HloBd2QQWB51uOp4Y52WN) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Tristes Navidades](https://open.spotify.com/album/0eHkoehUngElAFuWvDzKVc) | 3:59 |
+| 55 | [En Esta Navidad](https://open.spotify.com/track/2ZT2xtqP0co0XrHNCrFmtD) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Esta Navidad](https://open.spotify.com/album/0JzwwjGgwGuCeqfa8YvmIv) | 4:10 |
 | 56 | [Navidad En Mi Rancho](https://open.spotify.com/track/58poRvBpaSao6M24ZItrMq) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Momentos Inolvidables](https://open.spotify.com/album/4j52g8PEdpDLzznzt3lGUO) | 3:59 |
 | 57 | [Navidad Sin Ti](https://open.spotify.com/track/1Ha7nokU33XTvjzGtrU7Hy) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Navidad Sin Ti](https://open.spotify.com/album/6rXlCEugrnZmmfz3lbFNut) | 3:45 |
 | 58 | [Mi Burrito Sabanero](https://open.spotify.com/track/0iGJYuwI3jOn6lo0JeUvAB) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Burrito Sabanero](https://open.spotify.com/album/3Jjt4XVl9u8bNHxii9jrk2) | 2:58 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 70 | [Navidad Sin Ti](https://open.spotify.com/track/6JvXDavDKocEvJXRKLDuIm) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Navidad Sin Ti](https://open.spotify.com/album/0xJijA9NXeLfb13qavbFS2) | 3:19 |
 | 71 | [Ven a Mi Casa Esta Navidad](https://open.spotify.com/track/7zrd2YC8vcMEhCHtotD3nB) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Navidad Desde El Meritito Norte](https://open.spotify.com/album/1qNZCd4PLDIEEMxWzFF7ia) | 3:23 |
 | 72 | [Blanca Navidad](https://open.spotify.com/track/3rJPFF1i68T5fp3dWOzHfw) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w), [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Blanca Navidad](https://open.spotify.com/album/5qrIYIBTF7uwabLCf6s5cC) | 3:07 |
-| 73 | [El Burrito Sabanero](https://open.spotify.com/track/469MSmQG8v0E8p2JEX0mrY) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Iskander](https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p), [San Juan](https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq) | [El Burrito Sabanero](https://open.spotify.com/album/6d75W2OV6wICNxwSu4KCFU) | 3:51 |
-| 74 | [Una Noche Especial](https://open.spotify.com/track/7q8GUMNiVTC7UnoZSrJPyg) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Una Noche Especial](https://open.spotify.com/album/5ECYaKAjfXnztQ5wGe3IUc) | 2:49 |
+| 73 | [Una Noche Especial](https://open.spotify.com/track/7q8GUMNiVTC7UnoZSrJPyg) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Una Noche Especial](https://open.spotify.com/album/5ECYaKAjfXnztQ5wGe3IUc) | 2:49 |
+| 74 | [El Burrito Sabanero](https://open.spotify.com/track/469MSmQG8v0E8p2JEX0mrY) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Iskander](https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p), [San Juan](https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq) | [El Burrito Sabanero](https://open.spotify.com/album/6d75W2OV6wICNxwSu4KCFU) | 3:51 |
 | 75 | [Vamonos de Fiesta](https://open.spotify.com/track/3FTz7HqpK34vdYfPUiDkrV) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Feliz Navidad Con Banda el Recodo de Cruz Lizárraga](https://open.spotify.com/album/4O4jEe27pdyAt631nGTaAE) | 3:14 |
 | 76 | [En Esta Navidad](https://open.spotify.com/track/0esfRArcK1mkQapp2FYMnO) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 4:00 |
 | 77 | [Amarga Navidad](https://open.spotify.com/track/70GSsd2TYikh9QMQy8BR2P) | [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac), [Banda Lirio](https://open.spotify.com/artist/1CeKKAjI4yG5sAIPMxJvY8) | [Amarga Navidad](https://open.spotify.com/album/3MNqibanIKz1fwJtIoSnqF) | 3:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 79 | [Cada Diciembre](https://open.spotify.com/track/6vYw8xnCYqUggR61dGE1OX) | [Nuevo Elemento](https://open.spotify.com/artist/5bX24ABh13zF8hf5oPwc3N) | [Cada Diciembre](https://open.spotify.com/album/0HvnVL2VTStW5X5tT0nTOI) | 2:27 |
 | 80 | [Navidad, Feel The Magic](https://open.spotify.com/track/2YFFGpByfTYoNviZcFUEBy) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Navidad, Feel The Magic](https://open.spotify.com/album/0DkhKm7p0QeE3hmiwfr2cO) | 2:45 |
 
-Snapshot ID: `MTY3MTczNDUzMiwwMDAwMDAwMDk5ZGY1ODY1ZThhM2FiNzg5YzVhYzg3ZjAyMzBhMzA1`
+Snapshot ID: `MTY3MTczNDUzMiwwMDAwMDAwMDVlMTA2ZjllYjgzOGNiNWU2NzBiYzU1MDdkMjdmYWRl`

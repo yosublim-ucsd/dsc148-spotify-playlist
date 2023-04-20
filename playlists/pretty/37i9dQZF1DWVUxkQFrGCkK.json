@@ -1,12 +1,12 @@
 {
   "description": "Chill & Bumpy",
-  "num_followers": 164198,
+  "num_followers": 164314,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ2MDg3MywwMDAwMDAwMGNhYjVlMTNlMjI2MGMyNWMzOWMyNWJjNjI4MjUzNTA3",
+  "snapshot_id": "MTY4MTQ2MDg3MywwMDAwMDAwMDRkM2UyMjNjZjE2M2YyM2JkMzVhMWFmYjhmODQ2Zjcw",
   "tracks": [
     {
       "added_at": "2023-04-13 23:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 229424,
+      "name": "Both Of Us - Edit",
+      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Assumptions (Kaytranada Edit)",
         "url": "https://open.spotify.com/album/5YTiQmOzu1m293UgtWNJSR"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 288097,
       "name": "Assumptions - Kaytranada Edit",
       "url": "https://open.spotify.com/track/7lWdyj9RrMsEN6F0Dl0irE"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 229424,
-      "name": "Both Of Us - Edit",
-      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Like The Old Days",
-        "url": "https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 240041,
-      "name": "Like The Old Days",
-      "url": "https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "pass on over",
         "url": "https://open.spotify.com/album/3ZbbMzhyLBIqrpjtBA75X7"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 157176,
       "name": "pass on over",
       "url": "https://open.spotify.com/track/0j28heQh9SneJxHpLY4pdt"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Like The Old Days",
+        "url": "https://open.spotify.com/album/1UKTx4oagTgTO2PVtoTWf3"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 240041,
+      "name": "Like The Old Days",
+      "url": "https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Deny It",
-        "url": "https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 242250,
-      "name": "Deny It",
-      "url": "https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Just Can't Get Enough",
         "url": "https://open.spotify.com/album/0WTqPH4Z8TiNoEaHHvgIic"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Deny It",
+        "url": "https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 242250,
+      "name": "Deny It",
+      "url": "https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Fort Bellefleur",
         "url": "https://open.spotify.com/album/3uNzIQC7ndw7UmNPAd8okH"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 487752,
       "name": "When U Came into My Life",
       "url": "https://open.spotify.com/track/1hCh9vCBaH8cCGkq0ttvnT"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "porco rosso",
+        "url": "https://open.spotify.com/album/2DkNjsTfC3rPkgmN77x1fS"
+      },
+      "artists": [
+        {
+          "name": "sunflwr",
+          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "porco rosso",
+      "url": "https://open.spotify.com/track/5165zeO9t08BHlSJH7h0iN"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -835,6 +851,26 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "Function",
+        "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
+      },
+      "artists": [
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "Jordan Dennis",
+          "url": "https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5"
+        }
+      ],
+      "duration_ms": 197639,
+      "name": "Function",
+      "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Lights Up (Myd Remix)",
         "url": "https://open.spotify.com/album/2OozzcdZGwkAaj8zrEQcLR"
       },
@@ -859,38 +895,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Function",
-        "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
+        "name": "Everything Is Going To Be Alright",
+        "url": "https://open.spotify.com/album/4f7yJSqb2JuaTIRK3Kk148"
       },
       "artists": [
         {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
-        },
-        {
-          "name": "Jordan Dennis",
-          "url": "https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 197639,
-      "name": "Function",
-      "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "porco rosso",
-        "url": "https://open.spotify.com/album/2DkNjsTfC3rPkgmN77x1fS"
-      },
-      "artists": [
-        {
-          "name": "sunflwr",
-          "url": "https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF"
-        }
-      ],
-      "duration_ms": 219840,
-      "name": "porco rosso",
-      "url": "https://open.spotify.com/track/5165zeO9t08BHlSJH7h0iN"
+      "duration_ms": 226620,
+      "name": "Everything Is Going To Be Alright",
+      "url": "https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -907,22 +923,6 @@
       "duration_ms": 242773,
       "name": "Rosewood",
       "url": "https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Everything Is Going To Be Alright",
-        "url": "https://open.spotify.com/album/4f7yJSqb2JuaTIRK3Kk148"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 226620,
-      "name": "Everything Is Going To Be Alright",
-      "url": "https://open.spotify.com/track/4A33rjRNxA1uG6W8VyVMoR"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "ATK",
-        "url": "https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 245208,
-      "name": "ATK",
-      "url": "https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "hei",
         "url": "https://open.spotify.com/album/12ogBUIRgbSu6v4O6S7zDR"
       },
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
+        "name": "ATK",
+        "url": "https://open.spotify.com/album/1x8w8WymEDZWQ60O7qKGbH"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 245208,
+      "name": "ATK",
+      "url": "https://open.spotify.com/track/3AaGCSpUFAmtB1XGxz5IWk"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
         "name": "Violet Drive",
         "url": "https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu"
       },
@@ -1099,6 +1099,22 @@
       "duration_ms": 341088,
       "name": "Moonbeam, Midnight, Howl",
       "url": "https://open.spotify.com/track/4TGDSeSPvNW1t9lEApQOVE"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Interior",
+        "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
+      },
+      "artists": [
+        {
+          "name": "Teen Daze",
+          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
+        }
+      ],
+      "duration_ms": 228734,
+      "name": "Interior - Edit",
+      "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1119,22 +1135,6 @@
       "duration_ms": 231840,
       "name": "Welcome To Dinna",
       "url": "https://open.spotify.com/track/2bJcLpWpDWZNU5NtVOQXyY"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
-        "name": "Interior",
-        "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
-      },
-      "artists": [
-        {
-          "name": "Teen Daze",
-          "url": "https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l"
-        }
-      ],
-      "duration_ms": 228734,
-      "name": "Interior - Edit",
-      "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1kdJHSLs8tTh6g9FRRNRV5"
-      },
-      "artists": [
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 270082,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/2DYFxnCylg9w08UNLG5qTr"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/7uFPxf7dz1jdeBj6fyVVLi"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 381864,
       "name": "Floating on Silence",
       "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1kdJHSLs8tTh6g9FRRNRV5"
+      },
+      "artists": [
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 270082,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/2DYFxnCylg9w08UNLG5qTr"
     },
     {
       "added_at": "2023-04-13 23:00:00",

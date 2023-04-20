@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 
 > This is AFI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,483 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,488 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 44 | [Looking Tragic](https://open.spotify.com/track/0IgDRS7Sop5ClSYNFMTUSy) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 2:37 |
 | 45 | [The Last Kiss](https://open.spotify.com/track/6oDscaJdXFtRKk1G7cCcjf) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 3:02 |
 | 46 | [Hidden Knives](https://open.spotify.com/track/01qfmGPqmz2nWuM22YxdC5) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 2:56 |
-| 47 | [Caught](https://open.spotify.com/track/7A9NDbXc5OKPVwaVCdHee1) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Caught](https://open.spotify.com/album/4ZPqvJHBWHaFjgSkhWQcOA) | 4:11 |
+| 47 | [Cult Status](https://open.spotify.com/track/3ugwlbdItAHh49CJrIUZXY) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:57 |
 | 48 | [Escape From Los Angeles](https://open.spotify.com/track/5r46wLYpaQIwEHoS4cbdBC) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 3:24 |
 | 49 | [The Prayer Position](https://open.spotify.com/track/6DxOjwql8bm5hGn7WtRnS8) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 3:27 |
 | 50 | [Too Shy To Scream](https://open.spotify.com/track/730q5VwyabgCKDONwUX7Lt) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love \(Deluxe\)](https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz) | 2:56 |
 
-Snapshot ID: `MjgwMzAzOTAsMDAwMDAwMDAyMGUxMzRhMWFhNDNmZmY1YmNiNTMzZWE2ZGEyZjYzZg==`
+Snapshot ID: `MjgwMzE3ODQsMDAwMDAwMDBjNzcxZDYwMWU2MDA2ZWExNWRmYTczNWE5MmM4ZDE4Yw==`

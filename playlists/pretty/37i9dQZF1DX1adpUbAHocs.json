@@ -1,12 +1,12 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 660688,
+  "num_followers": 660720,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGU1ZmRiMmFiNTBlNmMyMDI5ZTg2MTI5Nzk1YmI2MjA2",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDgxMTY1Mjg5ZjA1ODZmMGYzZDUxMTA3YmYyN2ZiM2Jh",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Motel Mayday",
+        "url": "https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0"
+      },
+      "artists": [
+        {
+          "name": "Josiah and the Bonnevilles",
+          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Stolen Love",
+      "url": "https://open.spotify.com/track/6ZW6Q3Fzt9fGzC4nbhA5pf"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -907,22 +923,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Motel Mayday",
-        "url": "https://open.spotify.com/album/4dJgUM5aZ8GhXQp0QPkOS0"
-      },
-      "artists": [
-        {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Stolen Love",
-      "url": "https://open.spotify.com/track/6ZW6Q3Fzt9fGzC4nbhA5pf"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Evening Machines",
         "url": "https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 279186,
-      "name": "Face Down In The Moment",
-      "url": "https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Lost At Last Vol. 1",
         "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 173280,
       "name": "House Of My Soul (You Light The Rooms)",
       "url": "https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 279186,
+      "name": "Face Down In The Moment",
+      "url": "https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Fits Of Laughter",
-        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
-      },
-      "artists": [
-        {
-          "name": "Bendigo Fletcher",
-          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
-        }
-      ],
-      "duration_ms": 251746,
-      "name": "Sugar in the Creek",
-      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Right Down the Line",
         "url": "https://open.spotify.com/album/0xMvVtSsEL5HMYql9ZiRoI"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 267962,
       "name": "Right Down the Line",
       "url": "https://open.spotify.com/track/7sJ5JL0c0cba0tJBmy3tw7"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Fits Of Laughter",
+        "url": "https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D"
+      },
+      "artists": [
+        {
+          "name": "Bendigo Fletcher",
+          "url": "https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM"
+        }
+      ],
+      "duration_ms": 251746,
+      "name": "Sugar in the Creek",
+      "url": "https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "On The Road Again",
-        "url": "https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb"
-      },
-      "artists": [
-        {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
-        }
-      ],
-      "duration_ms": 173969,
-      "name": "On The Road Again",
-      "url": "https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Seasons of Change",
         "url": "https://open.spotify.com/album/74fRgN21qhhAQv43mbCJFq"
       },
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "The Million Masks Of God",
-        "url": "https://open.spotify.com/album/3GJ7F5BNIZjY5fhiu8ui4B"
+        "name": "On The Road Again",
+        "url": "https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb"
       },
       "artists": [
         {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
         }
       ],
-      "duration_ms": 148786,
-      "name": "Telepath",
-      "url": "https://open.spotify.com/track/2i8fcnTT5iItxMNwa8mfr3"
+      "duration_ms": 173969,
+      "name": "On The Road Again",
+      "url": "https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1191,6 +1175,22 @@
       "duration_ms": 260090,
       "name": "Sunset Canyon",
       "url": "https://open.spotify.com/track/4YvOkz9IrldHkWiDZremSr"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "The Million Masks Of God",
+        "url": "https://open.spotify.com/album/3GJ7F5BNIZjY5fhiu8ui4B"
+      },
+      "artists": [
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "duration_ms": 148786,
+      "name": "Telepath",
+      "url": "https://open.spotify.com/track/2i8fcnTT5iItxMNwa8mfr3"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "By The Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Every Time I Hear That Song",
+      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "American Love Call",
         "url": "https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY"
       },
@@ -1247,18 +1263,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "By The Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+        "name": "Cool Dry Place",
+        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
         }
       ],
-      "duration_ms": 241146,
-      "name": "Every Time I Hear That Song",
-      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
+      "duration_ms": 159453,
+      "name": "Juniper",
+      "url": "https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1275,22 +1291,6 @@
       "duration_ms": 280293,
       "name": "Song In My Head",
       "url": "https://open.spotify.com/track/0SqfoSpuWsk4CJpCX2LvCD"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Cool Dry Place",
-        "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
-      },
-      "artists": [
-        {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
-        }
-      ],
-      "duration_ms": 159453,
-      "name": "Juniper",
-      "url": "https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 265096,
-      "name": "Beloved",
-      "url": "https://open.spotify.com/track/1l1TLPILxVipEsTsSho4u3"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Artifacts",
         "url": "https://open.spotify.com/album/26G7PfSLTyLiIcITVl7GAK"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 164773,
       "name": "Fisher Island Sound",
       "url": "https://open.spotify.com/track/3XHtGQBlfMHfKcXdTX7Mt0"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/4TgzPAmjhR2Qkh7P6lIRnH"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 265096,
+      "name": "Beloved",
+      "url": "https://open.spotify.com/track/1l1TLPILxVipEsTsSho4u3"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "The Emitt Rhodes Recordings (1969-1973)",
-        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
-      },
-      "artists": [
-        {
-          "name": "Emitt Rhodes",
-          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
-        }
-      ],
-      "duration_ms": 146680,
-      "name": "Somebody Made For Me",
-      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
       },
@@ -1519,18 +1503,34 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Stand For Myself",
-        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
+        "name": "The Emitt Rhodes Recordings (1969-1973)",
+        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
       },
       "artists": [
         {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+          "name": "Emitt Rhodes",
+          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
         }
       ],
-      "duration_ms": 204693,
-      "name": "Diamond Studded Shoes",
-      "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
+      "duration_ms": 146680,
+      "name": "Somebody Made For Me",
+      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Outside Child",
+        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 295546,
+      "name": "Nightflyer",
+      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Outside Child",
-        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+        "name": "Stand For Myself",
+        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
       },
       "artists": [
         {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
         }
       ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
+      "duration_ms": 204693,
+      "name": "Diamond Studded Shoes",
+      "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1663,22 +1663,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Lotta Love",
-        "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
+        "name": "Big Red Machine",
+        "url": "https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2"
       },
       "artists": [
         {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        },
-        {
-          "name": "Flock of Dimes",
-          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+          "name": "Big Red Machine",
+          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
         }
       ],
-      "duration_ms": 197624,
-      "name": "Lotta Love",
-      "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
+      "duration_ms": 218786,
+      "name": "I Won't Run From It",
+      "url": "https://open.spotify.com/track/29HinKeyT5ZCmAgSm9TXC1"
     }
   ],
   "unique_name": "Scenic Route",

@@ -1,12 +1,12 @@
 {
   "description": "The official playlist for the 64th GRAMMY Awards.",
-  "num_followers": 126793,
+  "num_followers": 126790,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTczNDQ0MCwwMDAwMDAwMDkzYzNiMjNlNGQ1OTUyYmQzZjg3OTk5Yzg0YzMwOWNi",
+  "snapshot_id": "MTY3NTczNDQ0MCwwMDAwMDAwMDVjZGVjNzQ4ZTJlOTQ4YTY1MWYxYzk1MDlhZmRiZjBi",
   "tracks": [
     {
       "added_at": "2023-02-07 01:47:20",
@@ -1311,26 +1311,6 @@
     {
       "added_at": "2023-02-07 01:47:20",
       "album": {
-        "name": "Live Forever",
-        "url": "https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 180135,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO"
-    },
-    {
-      "added_at": "2023-02-07 01:47:20",
-      "album": {
         "name": "Crooked Tree",
         "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 232827,
       "name": "Crooked Tree",
       "url": "https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW"
+    },
+    {
+      "added_at": "2023-02-07 01:47:20",
+      "album": {
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/61IyMbppx5SvsZO0i3FJnf"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 180135,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO"
     },
     {
       "added_at": "2023-02-07 01:47:20",

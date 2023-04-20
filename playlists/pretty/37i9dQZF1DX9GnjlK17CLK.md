@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 
 > Plugged in and cranked up; the hottest Blues records from an amplified era\. Cover: B.B\. King.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,543 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,715 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 29 | [Shame, Shame, Shame](https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [The Very Best of Jimmy Reed](https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk) | 2:49 |
 | 30 | [Albert's Shuffle](https://open.spotify.com/track/1eWZY9g8A7GAbBTfxMUy14) | [Al Kooper](https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv) | [Al's Big Deal](https://open.spotify.com/album/4tjoWIPvhO3GW5vty6tHUn) | 6:54 |
 | 31 | [Red House](https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 3:43 |
-| 32 | [Snatch It Back And Hold It](https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:54 |
-| 33 | [Call It Stormy Monday](https://open.spotify.com/track/0v6tG0HoAHiluZAeany7oU) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Remaster w/ eBooklet\)](https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4) | 9:00 |
+| 32 | [Call It Stormy Monday](https://open.spotify.com/track/0v6tG0HoAHiluZAeany7oU) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Remaster w/ eBooklet\)](https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4) | 9:00 |
+| 33 | [Snatch It Back And Hold It](https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:54 |
 | 34 | [All Your Love](https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [1956\-1958 Cobra Recordings](https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7) | 2:38 |
 | 35 | [Walkin' Blues](https://open.spotify.com/track/0aBF6Zob3o2GthzPTuVplz) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [East West](https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3) | 3:19 |
 | 36 | [Dust My Broom](https://open.spotify.com/track/1mbD2setZsn2n4U6xs3Dxg) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 59 | [My Love Strikes Like Lightning](https://open.spotify.com/track/2axI8LbwG6EoLn57lofGQv) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Electric Blues: 1970s](https://open.spotify.com/album/23BKgXWnm0VUcPGugv7Rue) | 4:10 |
 | 60 | [Glamour Girl \- Remastered 2022](https://open.spotify.com/track/26NeJqqTN4obwlAHAep7jJ) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [Stormy Monday Blues \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC) | 2:44 |
 
-Snapshot ID: `MTY3Nzg2NzIyOSwwMDAwMDAwMDllNzNlNzBiZmNiOTIzNWQ4MzZhMGU2MjQwYTcxZDk4`
+Snapshot ID: `MTY3Nzg2NzIyOSwwMDAwMDAwMDZhMDFkOWQwZGM0ZTU1MDdkOTRjMmI4ZTJhYmNmZWNk`

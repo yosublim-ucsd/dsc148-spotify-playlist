@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Ariel & The Culture",
-  "num_followers": 747735,
+  "num_followers": 747719,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQwMTQwNiwwMDAwMDAwMDY5OWVlMjM4NzJlZTQ4NTA3ODRiMWM1NzQyMDRhMGRk",
+  "snapshot_id": "MTY4MTQwMTQwNiwwMDAwMDAwMGQxNzQwOTFiMmNlMGM4NDBmY2M2ZDExMTRiZDQ1ZTNj",
   "tracks": [
     {
       "added_at": "2023-04-13 15:56:46",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-04-13 15:56:46",
       "album": {
-        "name": "Hostage",
-        "url": "https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6"
-      },
-      "artists": [
-        {
-          "name": "Abrina",
-          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
-        }
-      ],
-      "duration_ms": 164770,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De"
-    },
-    {
-      "added_at": "2023-04-13 15:56:46",
-      "album": {
         "name": "Siempre tengo sue\u00f1o",
         "url": "https://open.spotify.com/album/4yUFJKvE11HBabznJjKRt3"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 165909,
       "name": "Siempre tengo sue\u00f1o",
       "url": "https://open.spotify.com/track/7kE9OWd9b7mFOA9GUXVMpX"
+    },
+    {
+      "added_at": "2023-04-13 15:56:46",
+      "album": {
+        "name": "Hostage",
+        "url": "https://open.spotify.com/album/19NdNTEHtg4U8qhNpOZNQ6"
+      },
+      "artists": [
+        {
+          "name": "Abrina",
+          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
+        }
+      ],
+      "duration_ms": 164770,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/07RY54HKxOorMfOUHzK5De"
     },
     {
       "added_at": "2023-04-13 15:56:46",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-04-13 15:56:46",
       "album": {
-        "name": "Ideas In Mind",
-        "url": "https://open.spotify.com/album/1iiFx24WGvey7d0rIJtk1D"
-      },
-      "artists": [
-        {
-          "name": "Aroe Phoenix",
-          "url": "https://open.spotify.com/artist/6AkFDQFapnYQswNRaqPSVO"
-        }
-      ],
-      "duration_ms": 218076,
-      "name": "Ideas In Mind",
-      "url": "https://open.spotify.com/track/5zS8EhKARJ1G6wfTXuNBu0"
-    },
-    {
-      "added_at": "2023-04-13 15:56:46",
-      "album": {
         "name": "Caribe Caribe",
         "url": "https://open.spotify.com/album/7zGq7oV1gSW4Aga1a9XJUK"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 240437,
       "name": "Aleros/Pompeii",
       "url": "https://open.spotify.com/track/2KSyKlJ3SWPFflplhYhPTl"
+    },
+    {
+      "added_at": "2023-04-13 15:56:46",
+      "album": {
+        "name": "Ideas In Mind",
+        "url": "https://open.spotify.com/album/1iiFx24WGvey7d0rIJtk1D"
+      },
+      "artists": [
+        {
+          "name": "Aroe Phoenix",
+          "url": "https://open.spotify.com/artist/6AkFDQFapnYQswNRaqPSVO"
+        }
+      ],
+      "duration_ms": 218076,
+      "name": "Ideas In Mind",
+      "url": "https://open.spotify.com/track/5zS8EhKARJ1G6wfTXuNBu0"
     },
     {
       "added_at": "2023-04-13 15:56:46",

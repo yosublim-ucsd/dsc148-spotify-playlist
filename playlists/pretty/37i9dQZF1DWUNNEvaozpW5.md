@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Jarabe de Palo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,093 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,233 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 30 | [Todos los días sale el sol](https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv) | [Bongo Botrako](https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ) | [Todos Los Días Sale El Sol](https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh) | 2:26 |
 | 31 | [So payaso](https://open.spotify.com/track/5HSpMRUC4m3L3q48to2Kmu) | [Extremoduro](https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK) | [Agila](https://open.spotify.com/album/3msSCqpQLoY0nl4RTSf1Is) | 4:41 |
 | 32 | [De cuando no había nacido](https://open.spotify.com/track/7sTAeb1In1O0sH1eEiFoYP) | [Jose Ignacio Lapido](https://open.spotify.com/artist/1iWumLWq8eGULX2Pvw7gC8) | [A primera sangre](https://open.spotify.com/album/1aNwDBOJSEOILJ26OyN8t5) | 4:16 |
-| 33 | [Mala Vida](https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX) | [Mano Negra](https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2) | [Patchanka](https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ) | 2:54 |
+| 33 | [Mucho mejor \(feat\. Coque Malla\)](https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K), [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 |
 | 34 | [El baile](https://open.spotify.com/track/7y33dk0ji9elkFdVfGr4xY) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn) | [El baile](https://open.spotify.com/album/4GhxIKxM6lxI0zpRlLsawC) | 4:55 |
 | 35 | [Romance de la Cautiva](https://open.spotify.com/track/2UQSi2b10AELUDmjIQXs78) | [Cristian de Moret](https://open.spotify.com/artist/0Lf8YxCqt0flPbiPlBDSPQ) | [Romance de la Cautiva](https://open.spotify.com/album/0LTCok68A2bZZXeNE8Lghk) | 3:23 |
-| 36 | [Mucho mejor \(feat\. Coque Malla\)](https://open.spotify.com/track/06xLo8Oa53wmBMdWcIsqPL) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K), [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 |
+| 36 | [Mala Vida](https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX) | [Mano Negra](https://open.spotify.com/artist/6jq7GptAwkoFiunDhZYqQ2) | [Patchanka](https://open.spotify.com/album/1i6RiKDCLS9KqgwfCQ1mRQ) | 2:54 |
 | 37 | [Sintiéndolo Mucho \(feat\. Leiva\)](https://open.spotify.com/track/4fe2YUvzu5oGWJz3FPyvDE) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Sintiéndolo Mucho \(feat\. Leiva\)](https://open.spotify.com/album/3bZgGd7L26rA44M7ppFSyi) | 4:04 |
 | 38 | [Duro de Roer \(En vivo\)](https://open.spotify.com/track/3mYftXhEH91qMpHp7KG602) | [Selvajes](https://open.spotify.com/artist/41Bkxd38yERewVUTQyOghu) | [Duro de Roer \(En vivo\)](https://open.spotify.com/album/1PJ8mcuzd4mMmZVndDHHvg) | 2:58 |
 | 39 | [La Manzana \- En directo](https://open.spotify.com/track/0p5BUKPYF6ogD5OCcHKVrE) | [Luis Carrillo](https://open.spotify.com/artist/0ZSHJBv0OtASJEtM4VBESg), [Santero y Los Muchachos](https://open.spotify.com/artist/1KX80l2v6D9jbexW3IkWvR) | [La Manzana \(En directo\)](https://open.spotify.com/album/0rJnxPObFG6Lk6siaG5gtf) | 3:34 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 66 | [El lenguaje de los coleteros](https://open.spotify.com/track/5Q4xFUlMcZJkP5GzMdZoOK) | [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa), [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [El lenguaje de los coleteros](https://open.spotify.com/album/1WclhT4Z96YxX4K9WQhdQn) | 3:25 |
 | 67 | [Caricias en tu espalda \(feat\. MARLENA\)](https://open.spotify.com/track/3W86lhWeDNKPG59RHLJAdh) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [Caricias en tu espalda \(feat\. MARLENA\)](https://open.spotify.com/album/6ZXosHrTpN0BCjofSGsKxF) | 3:04 |
 | 68 | [No Hay Tregua](https://open.spotify.com/track/5fuiYDXvDMVqsa3o8B8KLR) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R) | [Barricada](https://open.spotify.com/album/0TXXfuJy2zJ50x94VvCuqZ) | 2:55 |
-| 69 | [Serenade](https://open.spotify.com/track/4tzi4VV1vCTZsT4SEKQIKJ) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [Devil Came to Me](https://open.spotify.com/album/31cccvot053zKCeLHnnic1) | 3:54 |
+| 69 | [La senda del tiempo](https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Gente Impresentable](https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD) | 4:30 |
 | 70 | [Corazon de mimbre](https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3) | [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Coces al Aire 1997\-2007](https://open.spotify.com/album/3mfnHHROaUAzdzmTZHI1YQ) | 5:37 |
-| 71 | [La senda del tiempo](https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Gente Impresentable](https://open.spotify.com/album/79gPRqLvpQu9Kc8MYNYfSD) | 4:30 |
-| 72 | [Últimas Voluntades \- Canción Original De La Película](https://open.spotify.com/track/5A1iJXWsLLHZvpYPMQ5rRQ) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [Últimas Voluntades \(Canción Original De La Película\)](https://open.spotify.com/album/5JxqDLN2I5bdXtFEnduaNY) | 3:46 |
-| 73 | [Insurrección \(con Manolo García\)](https://open.spotify.com/track/5JD2HODIglXaNJopWb248t) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Miguel Ríos y las estrellas del Rock latino](https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH) | 3:47 |
+| 71 | [Serenade](https://open.spotify.com/track/4tzi4VV1vCTZsT4SEKQIKJ) | [Dover](https://open.spotify.com/artist/5kdLOinhQnlSk4su7U6lyW) | [Devil Came to Me](https://open.spotify.com/album/31cccvot053zKCeLHnnic1) | 3:54 |
+| 72 | [Insurrección \(con Manolo García\)](https://open.spotify.com/track/5JD2HODIglXaNJopWb248t) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4) | [Miguel Ríos y las estrellas del Rock latino](https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH) | 3:47 |
+| 73 | [Últimas Voluntades \- Canción Original De La Película](https://open.spotify.com/track/5A1iJXWsLLHZvpYPMQ5rRQ) | [Viva Suecia](https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC) | [Últimas Voluntades \(Canción Original De La Película\)](https://open.spotify.com/album/5JxqDLN2I5bdXtFEnduaNY) | 3:46 |
 | 74 | [Miedo](https://open.spotify.com/track/47oZRFceogtlw8Kcu5UGaj) | [M\-Clan](https://open.spotify.com/artist/4oVqMVHC03xnYJ7fyb1dh6) | [Sopa fria](https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj) | 4:57 |
 | 75 | [Cigarrito](https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi) | [Platero Y Tu](https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav) | [Correos](https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY) | 3:56 |
 
-Snapshot ID: `MTY4MTQyMzI2MCwwMDAwMDAwMDczYjZlMjUyZTY5ZGUyOTUwYTI5YTA1ODU5NDgwN2Nm`
+Snapshot ID: `MTY4MTQyMzI2MCwwMDAwMDAwMGYwZmZmMTdkMjVhYjE2MWRjYWI2ZmExMzQ3ODJkNmRj`

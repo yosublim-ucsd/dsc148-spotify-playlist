@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 
 > Para cantar y recordar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,072 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,149 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 22 | [Esa Mujer](https://open.spotify.com/track/4CELILzlKVURLFDPtG7bVW) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [No Me Compares Con Nadie](https://open.spotify.com/album/79GlGXtGZlOLBnxpKUap1h) | 3:11 |
 | 23 | [10 Razones Para Amarte](https://open.spotify.com/track/4chfldJFfWiuuSx1n3mojQ) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [La Historia Continua](https://open.spotify.com/album/7tOgagliNLN0RTLt0t0ODM) | 5:15 |
 | 24 | [Amarte Mas No Pude](https://open.spotify.com/track/105sSrcdsoN7Pj5NhIDUXx) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Orgullosa](https://open.spotify.com/album/4pMUHG6enf3RagNzHuCryB) | 4:49 |
-| 25 | [Que Me Puedas Amar](https://open.spotify.com/track/2TCLtIBA192ntJ6TQzzIzn) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Avanzando](https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O) | 4:26 |
-| 26 | [El Amor Más Grande del Planeta](https://open.spotify.com/track/1NUCgLFBPg0R4B6IPUcieM) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Zabaleta](https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU) | [Felipe Peláez 30 Grandes Éxitos](https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw) | 4:35 |
+| 25 | [El Amor Más Grande del Planeta](https://open.spotify.com/track/1NUCgLFBPg0R4B6IPUcieM) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Zabaleta](https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU) | [Felipe Peláez 30 Grandes Éxitos](https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw) | 4:35 |
+| 26 | [Que Me Puedas Amar](https://open.spotify.com/track/2TCLtIBA192ntJ6TQzzIzn) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Avanzando](https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O) | 4:26 |
 | 27 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/6f9wNWLVMRX9QbsStbaI4Q) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | […Que viva el vallenato!](https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY) | 4:54 |
 | 28 | [Me Tiraste Al Mar](https://open.spotify.com/track/4x0fsFljh9cbNLQTZxCov1) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Version Original](https://open.spotify.com/album/3bdzKN0XxINusa0DO7DRLo) | 4:26 |
 | 29 | [Quiero Saber De Ti](https://open.spotify.com/track/5Q9eoqeg4Z3c8wIsesbkaI) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 4:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUPnz12C5bA.md) - [plain]
 | 49 | [Pregúntele a Su Hija](https://open.spotify.com/track/4tU8cB6Sjtj7vJfD06KoZn) | [Farid Ortiz](https://open.spotify.com/artist/5OG4S2qn54NS8AAw5dCbgN), [Emilio Oviedo](https://open.spotify.com/artist/0gp7YgvBbdKBOd6dJIYY8z) | [Sólo Clasicos](https://open.spotify.com/album/5x7mrRtR1jPqBH6N2BuXou) | 4:40 |
 | 50 | [A Blanco y Negro](https://open.spotify.com/track/1CrKa4fjUJCjpcXXPeLuYu) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3) | [Más Unidos Que Nunca](https://open.spotify.com/album/20WkxKAK5cgqE6B3Llet7k) | 4:40 |
 
-Snapshot ID: `MTY3NjMzMDIzNSwwMDAwMDAwMDhmYmNjNTZmNjJhODA4NTM2YWExMGZjY2QwOGQzMzg3`
+Snapshot ID: `MTY3NjMzMDIzNSwwMDAwMDAwMGQ1NDgxMjVkOWYxNWM3MjQ0MGNjMTQwYWY5YjRmNGQ5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 
 > It's like rock, but softer\. Cover: Fleetwood Mac
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,582,218 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,582,351 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 | 32 | [Lonely Boy](https://open.spotify.com/track/6wGMLoEqD2k3RBXFHD0yUp) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [What's Wrong with This Picture?](https://open.spotify.com/album/646DiNC3Ack9x3Q7dEBzKW) | 4:24 |
 | 33 | [You're the Only Woman \- You & I](https://open.spotify.com/track/11qmuUlW5q5diLiVSOlsSF) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [One Eighty](https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH) | 4:22 |
 | 34 | [Handy Man](https://open.spotify.com/track/70aUjWZmd9F3bRSsR4DwAJ) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [JT](https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn) | 3:16 |
-| 35 | [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 3:11 |
-| 36 | [Sentimental Lady](https://open.spotify.com/track/478thMMvYGris8eJPcDRoq) | [Bob Welch](https://open.spotify.com/artist/0reZZVbAPxgX1Rqj6XbWj3) | [French Kiss](https://open.spotify.com/album/5YQsoNZvxTZKqsJ2Y7fQjJ) | 2:58 |
+| 35 | [Sentimental Lady](https://open.spotify.com/track/478thMMvYGris8eJPcDRoq) | [Bob Welch](https://open.spotify.com/artist/0reZZVbAPxgX1Rqj6XbWj3) | [French Kiss](https://open.spotify.com/album/5YQsoNZvxTZKqsJ2Y7fQjJ) | 2:58 |
+| 36 | [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 3:11 |
 | 37 | [This Is It](https://open.spotify.com/track/0YO8KsprTrEUEvJevpI7Na) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Keep The Fire](https://open.spotify.com/album/3Z9IvbRwLHwLXXBlPFKg3B) | 3:56 |
 | 38 | [I.G.Y.](https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3) | [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [The Nightfly](https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8) | 6:03 |
 | 39 | [Another Park, Another Sunday](https://open.spotify.com/track/6K1Wr66UPDkfsS4lrNdY9e) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [What Were Once Vices Are Now Habits](https://open.spotify.com/album/6Jnw1MZ5lrICgurtzc3WqB) | 4:27 |
@@ -56,14 +56,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 | 46 | [Love Is Alive](https://open.spotify.com/track/5vVuiXoHyRGxJeCaHUpgae) | [Gary Wright](https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84) | [The Dream Weaver](https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp) | 3:50 |
 | 47 | [Cool Night](https://open.spotify.com/track/29KyVqHekckVGfxHn8QS7m) | [Paul Davis](https://open.spotify.com/artist/6EJmqnuK0r6qiAevFFiNNR) | [Cool Night](https://open.spotify.com/album/6zK0vUxP3YQAWcc7injGov) | 3:38 |
 | 48 | [Diamond Girl](https://open.spotify.com/track/7CQQBWqFfROA5RWyY04ifv) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [Diamond Girl](https://open.spotify.com/album/11hw0WWSfcwWTNKaMk5kmr) | 4:13 |
-| 49 | [Dark Star](https://open.spotify.com/track/40lm5PFVQopOYaIXmyWNS9) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 4:45 |
-| 50 | [Time Passages](https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq) | [Al Stewart](https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC) | [Time Passages](https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0) | 6:43 |
+| 49 | [Time Passages](https://open.spotify.com/track/5zVKisBri6JH1fooBhUaVq) | [Al Stewart](https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC) | [Time Passages](https://open.spotify.com/album/5moFY0K48zOBW37SsThYL0) | 6:43 |
+| 50 | [Dark Star](https://open.spotify.com/track/40lm5PFVQopOYaIXmyWNS9) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 4:45 |
 | 51 | [You Belong to Me](https://open.spotify.com/track/3pErM4EiWKf3k8KU3jjbXn) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Boys in the Trees](https://open.spotify.com/album/6TUPBFLSBxRwHDXV0y3AHs) | 3:52 |
 | 52 | [Heart Of The Night](https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E) | [Poco](https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR) | [Legend](https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi) | 4:54 |
 | 53 | [Love Comes To Everyone \- 2004 Remaster](https://open.spotify.com/track/4ocIOYjSD4DzePZsiDWJXD) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [George Harrison](https://open.spotify.com/album/3keCJAndMw5QhUmJ6QmTUg) | 4:36 |
 | 54 | [Just Remember I Love You](https://open.spotify.com/track/2u8DFrCzgVuviSHB6RCEIO) | [Firefall](https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8) | [Luna Sea](https://open.spotify.com/album/1u3Ax4Zywsk4oW0XR4CL75) | 3:16 |
-| 55 | [Get It Right Next Time](https://open.spotify.com/track/0o3HJmXnQPRX4jymsmk3sS) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [Night Owl](https://open.spotify.com/album/6Xs4APmiDQ4IpqOqzKv0Yh) | 4:42 |
-| 56 | [Sweet Seasons](https://open.spotify.com/track/2CQhvHR4xM8uyAKwZYCaJx) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/7ghZpirxJtjGt4QzPtnkqT) | 3:13 |
+| 55 | [Sweet Seasons](https://open.spotify.com/track/2CQhvHR4xM8uyAKwZYCaJx) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/7ghZpirxJtjGt4QzPtnkqT) | 3:13 |
+| 56 | [Get It Right Next Time](https://open.spotify.com/track/0o3HJmXnQPRX4jymsmk3sS) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [Night Owl](https://open.spotify.com/album/6Xs4APmiDQ4IpqOqzKv0Yh) | 4:42 |
 | 57 | [This Time I'm In It For Love](https://open.spotify.com/track/0WEbxRkrGvgDQ5eBm6iH8n) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 4:25 |
 | 58 | [Hot Rod Hearts \- Remastered](https://open.spotify.com/track/1QEZIhNmz28cJ2Lr45MKJ4) | [Robbie Dupree](https://open.spotify.com/artist/3jrgftS3TYbNxcPt5itKhz) | [Robbie Dupree](https://open.spotify.com/album/1sY2wLftl601YlV9YUQFgW) | 3:41 |
 | 59 | [\(Remember the Days of The\) Old Schoolyard](https://open.spotify.com/track/1a2fmmAAlGGxiUTDLM3ghL) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Izitso](https://open.spotify.com/album/0HqRLZ9yvOGL23IcW0GDoV) | 2:44 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xOPeSOGone.md) - [plain]
 | 69 | [Fountain Of Sorrow](https://open.spotify.com/track/7Epjhq046YB3Sjjtz9nx0J) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:30 |
 | 70 | [You've Been in Love Too Long \- 2008 Remaster](https://open.spotify.com/track/1jiYXUtNTeZzebDXDGgGQd) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Takin' My Time](https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra) | 3:43 |
 | 71 | [Who'll Be the Fool Tonight](https://open.spotify.com/track/6gIX8nlmGBSJWkFvVDvfd1) | [Larsen/Feiten Band](https://open.spotify.com/artist/614GyAJSc7xbA6oYTvTLsB) | [Larsen/Feiten Band](https://open.spotify.com/album/1h1rSeeUKRSRefpSCmbbqB) | 4:12 |
-| 72 | [This Night Won't Last Forever](https://open.spotify.com/track/3KH39R9cO3ZWN6hqRbTKM3) | [Bill LaBounty](https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO) | [This Night Won't Last Forever](https://open.spotify.com/album/25h67pU7Dl8JlUYuvtVoue) | 4:25 |
-| 73 | [That's Why I Love You](https://open.spotify.com/track/5SY02PzNZUfrWUF4ujG4Mz) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Andrew Gold](https://open.spotify.com/album/3sZTuB8dgXYcVPeLvwWfcJ) | 3:10 |
+| 72 | [That's Why I Love You](https://open.spotify.com/track/5SY02PzNZUfrWUF4ujG4Mz) | [Andrew Gold](https://open.spotify.com/artist/5fmvGUlMVgmnCn45f1he7d) | [Andrew Gold](https://open.spotify.com/album/3sZTuB8dgXYcVPeLvwWfcJ) | 3:10 |
+| 73 | [This Night Won't Last Forever](https://open.spotify.com/track/3KH39R9cO3ZWN6hqRbTKM3) | [Bill LaBounty](https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO) | [This Night Won't Last Forever](https://open.spotify.com/album/25h67pU7Dl8JlUYuvtVoue) | 4:25 |
 | 74 | [Never Let Her Go](https://open.spotify.com/track/2b8ja3uL8fPS0ozNfjV15p) | [David Gates](https://open.spotify.com/artist/5BmXbfqAgfkuTkPlVQDKOW) | [Goodbye Girl](https://open.spotify.com/album/6In7MCrPTTezZiHrdFtSDd) | 3:07 |
 | 75 | [Everybody Needs Love](https://open.spotify.com/track/4z7xW0tQFF15mF9S3hRbDG) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Bish](https://open.spotify.com/album/4ISGqsq2NrlJOmn0BMRXBm) | 3:42 |
 
-Snapshot ID: `MTY3OTUxMTQzNiwwMDAwMDAwMGFmMGM0OTk3ZTFkZTcyOGRjNDNmNWFhZWNlNWE1Njdi`
+Snapshot ID: `MTY3OTUxMTQzNiwwMDAwMDAwMGZkZjYyZTMxZDkyYzE0NDljZWEzZTg4MjIzN2Y1MDQw`

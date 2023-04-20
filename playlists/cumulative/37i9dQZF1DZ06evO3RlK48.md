@@ -4,7 +4,7 @@
 
 > This is MUNA\. The essential tracks, all in one playlist.
 
-31 songs - 1 hr 56 min
+32 songs - 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Nihilist \- From "Promising Young Woman" Soundtrack](https://open.spotify.com/track/2yCtn6X5xZUjD049EllMFq) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Promising Young Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58gdv0EuhcZ2auHfEBm4mL) | 3:25 | 2023-03-17 |  |
 | [No Idea](https://open.spotify.com/track/4X0P4EdiA3HBqqKFnlV5n7) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 2:54 | 2023-03-19 |  |
 | [Number One Fan](https://open.spotify.com/track/69WAiCaEdxACKzB4B7Bv27) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 3:25 | 2023-03-17 |  |
+| [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 | 2023-04-19 |  |
 | [Pink Light](https://open.spotify.com/track/2zmGJTOfCKljp9HEffLM78) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 4:11 | 2023-03-17 |  |
 | [Relief Next to Me](https://open.spotify.com/track/5sCJS9pnT3xPShr4TeMGFV) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Tegan and Sara Present the Con X: Covers](https://open.spotify.com/album/3ADMYew7OUYnMPF1EHOIe9) | 2:57 | 2023-03-17 |  |
 | [Seeing Things \(MUNA's Version\)](https://open.spotify.com/track/7MW0iJ9bDHpijQyj1jq9ed) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc), [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Seeing Things \(MUNA's Version\)](https://open.spotify.com/album/1WDUYbdjkO3jOWMzpyfIrW) | 3:42 | 2023-03-17 |  |

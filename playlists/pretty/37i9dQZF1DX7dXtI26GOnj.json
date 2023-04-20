@@ -1,12 +1,12 @@
 {
   "description": "Todo o calor latino est\u00e1 aqui! \ud83d\udd25  foto: Rosal\u00eda, Rauw Alejandro",
-  "num_followers": 127658,
+  "num_followers": 127840,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTc1ODc1NiwwMDAwMDAwMDU4ZDc4ZDNmMjU5MjE4MDMzZjk3MzMzZGIxY2FlOGFm",
+  "snapshot_id": "MTY4MTc1ODc1NiwwMDAwMDAwMGQ2ZDQwYmRjMjUxZjYyNmUzOWZkOTMyNjE4ZmRmYjc1",
   "tracks": [
     {
       "added_at": "2023-04-17 19:12:36",
@@ -663,6 +663,26 @@
     {
       "added_at": "2023-04-17 19:12:36",
       "album": {
+        "name": "Diablo, Qu\u00e9 Chimba",
+        "url": "https://open.spotify.com/album/1BZibC0fiDXBFq0lrP82Yy"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 232222,
+      "name": "Diablo, Qu\u00e9 Chimba",
+      "url": "https://open.spotify.com/track/1mW1e6QAGPnhMbJoDTCLS3"
+    },
+    {
+      "added_at": "2023-04-17 19:12:36",
+      "album": {
         "name": "ULTRA SOLO REMIX",
         "url": "https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 322347,
       "name": "ULTRA SOLO REMIX",
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
-    },
-    {
-      "added_at": "2023-04-17 19:12:36",
-      "album": {
-        "name": "Diablo, Qu\u00e9 Chimba",
-        "url": "https://open.spotify.com/album/1BZibC0fiDXBFq0lrP82Yy"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 232222,
-      "name": "Diablo, Qu\u00e9 Chimba",
-      "url": "https://open.spotify.com/track/1mW1e6QAGPnhMbJoDTCLS3"
     },
     {
       "added_at": "2023-04-17 19:12:36",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-04-17 19:12:36",
       "album": {
+        "name": "Sobrio",
+        "url": "https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 201180,
+      "name": "Sobrio",
+      "url": "https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w"
+    },
+    {
+      "added_at": "2023-04-17 19:12:36",
+      "album": {
         "name": "Te Vi",
         "url": "https://open.spotify.com/album/02XOoh8XrlCc466QkkjGk5"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 231848,
       "name": "Te Vi",
       "url": "https://open.spotify.com/track/059bcIhyc2SBwm6sw2AZzd"
-    },
-    {
-      "added_at": "2023-04-17 19:12:36",
-      "album": {
-        "name": "Sobrio",
-        "url": "https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 201180,
-      "name": "Sobrio",
-      "url": "https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w"
     },
     {
       "added_at": "2023-04-17 19:12:36",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-04-17 19:12:36",
       "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 175317,
+      "name": "AUTOM\u00c1TICO",
+      "url": "https://open.spotify.com/track/0poQY3RMThmIiutOGv3yH3"
+    },
+    {
+      "added_at": "2023-04-17 19:12:36",
+      "album": {
         "name": "\u00c9xtasis",
         "url": "https://open.spotify.com/album/3pfyjuT8pPM0i9K3i7n451"
       },
@@ -991,18 +1007,18 @@
     {
       "added_at": "2023-04-17 19:12:36",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL"
+        "name": "La Vida Es Una (From Puss in Boots: The Last Wish)",
+        "url": "https://open.spotify.com/album/4IhIx79me6iItoaJzR0Xqb"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 175317,
-      "name": "AUTOM\u00c1TICO",
-      "url": "https://open.spotify.com/track/0poQY3RMThmIiutOGv3yH3"
+      "duration_ms": 189838,
+      "name": "La Vida Es Una (From Puss in Boots: The Last Wish)",
+      "url": "https://open.spotify.com/track/35HgzqAoEZ28Ovq7kb9nDz"
     },
     {
       "added_at": "2023-04-17 19:12:36",
@@ -1031,18 +1047,22 @@
     {
       "added_at": "2023-04-17 19:12:36",
       "album": {
-        "name": "La Vida Es Una (From Puss in Boots: The Last Wish)",
-        "url": "https://open.spotify.com/album/4IhIx79me6iItoaJzR0Xqb"
+        "name": "La F\u00f3rmula",
+        "url": "https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 189838,
-      "name": "La Vida Es Una (From Puss in Boots: The Last Wish)",
-      "url": "https://open.spotify.com/track/35HgzqAoEZ28Ovq7kb9nDz"
+      "duration_ms": 267016,
+      "name": "La F\u00f3rmula",
+      "url": "https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX"
     },
     {
       "added_at": "2023-04-17 19:12:36",
@@ -1063,26 +1083,6 @@
       "duration_ms": 233755,
       "name": "Amigos (con Maria Becerra)",
       "url": "https://open.spotify.com/track/34tHZJLk0adg5tW49iybbE"
-    },
-    {
-      "added_at": "2023-04-17 19:12:36",
-      "album": {
-        "name": "La F\u00f3rmula",
-        "url": "https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 267016,
-      "name": "La F\u00f3rmula",
-      "url": "https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX"
     },
     {
       "added_at": "2023-04-17 19:12:36",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-04-17 19:12:36",
       "album": {
+        "name": "La Reina",
+        "url": "https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 141890,
+      "name": "La Reina",
+      "url": "https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr"
+    },
+    {
+      "added_at": "2023-04-17 19:12:36",
+      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 174932,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J"
-    },
-    {
-      "added_at": "2023-04-17 19:12:36",
-      "album": {
-        "name": "La Reina",
-        "url": "https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 141890,
-      "name": "La Reina",
-      "url": "https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr"
     },
     {
       "added_at": "2023-04-17 19:12:36",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2023-04-17 19:12:36",
       "album": {
+        "name": "Junio",
+        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "Junio",
+      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
+    },
+    {
+      "added_at": "2023-04-17 19:12:36",
+      "album": {
         "name": "777",
         "url": "https://open.spotify.com/album/6U2Ncrmi1EeBQQz2NNgh1M"
       },
@@ -1327,26 +1343,6 @@
       "duration_ms": 209268,
       "name": "Felices Perdidos",
       "url": "https://open.spotify.com/track/5XJWVLhYE2tsa5vXlcgT3N"
-    },
-    {
-      "added_at": "2023-04-17 19:12:36",
-      "album": {
-        "name": "El \u00daltimo Beso",
-        "url": "https://open.spotify.com/album/1humxYpKb5wRgIUqVdJmKg"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "El \u00daltimo Beso",
-      "url": "https://open.spotify.com/track/1gYtMKmICjH8KQG3MheNJt"
     },
     {
       "added_at": "2023-04-17 19:12:36",
@@ -1371,18 +1367,22 @@
     {
       "added_at": "2023-04-17 19:12:36",
       "album": {
-        "name": "Junio",
-        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
+        "name": "El \u00daltimo Beso",
+        "url": "https://open.spotify.com/album/1humxYpKb5wRgIUqVdJmKg"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 168601,
-      "name": "Junio",
-      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
+      "duration_ms": 197647,
+      "name": "El \u00daltimo Beso",
+      "url": "https://open.spotify.com/track/1gYtMKmICjH8KQG3MheNJt"
     },
     {
       "added_at": "2023-04-17 19:12:36",
@@ -1443,18 +1443,22 @@
     {
       "added_at": "2023-04-17 19:12:36",
       "album": {
-        "name": "Sueltas",
-        "url": "https://open.spotify.com/album/7owbqoUvVQBJYuoEto3IMe"
+        "name": "El Que Espera",
+        "url": "https://open.spotify.com/album/1iouSXg5RihFIXRvZFJyTa"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 163259,
-      "name": "Sueltas",
-      "url": "https://open.spotify.com/track/6PkiSdWbhsuFP9qaFyu3CA"
+      "duration_ms": 170396,
+      "name": "El Que Espera",
+      "url": "https://open.spotify.com/track/2oNSHvGBGZIrZouRAA1eaX"
     }
   ],
   "unique_name": "Calorcito",

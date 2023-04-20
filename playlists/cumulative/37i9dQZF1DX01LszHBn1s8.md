@@ -4,7 +4,7 @@
 
 > OH I LOVE IT AND I HATE IT AT THE SAME TIME
 
-1,055 songs - 2 day 7 hr 31 min
+1,056 songs - 2 day 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,7 +486,7 @@
 | [Jungle \- Radio Edit](https://open.spotify.com/track/7CIcArZw3IdxTBWuXY484Q) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [Jungle \(Radio Edit\)](https://open.spotify.com/album/4Nm8yihvHXmJprYGLKl8ip) | 3:23 | 2022-05-19 | 2022-07-29 |
 | [Just a Cloud Away](https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Despicable Me 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ) | 2:56 | 2022-05-19 |  |
 | [Just A Little While](https://open.spotify.com/track/4o8w2detJfT45mdxIJ6hVb) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Just A Little While](https://open.spotify.com/album/3IOaxvwYaDmoQ36meh2niy) | 2:42 | 2022-05-19 |  |
-| [just wanna rock \(Lil Uzi Vert\) \- Sped Up Version](https://open.spotify.com/track/5BDZ8atcxq0QHGn66YwTwh) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [just wanna rock \(Lil Uzi Vert\) \[Sped Up Version\]](https://open.spotify.com/album/7u8Cd4sL0qRPr48vGjI5Ji) | 1:40 | 2022-10-26 |  |
+| [just wanna rock \- Sped Up Version](https://open.spotify.com/track/5BDZ8atcxq0QHGn66YwTwh) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [just wanna rock \(Lil Uzi Vert\) \[Sped Up Version\]](https://open.spotify.com/album/7u8Cd4sL0qRPr48vGjI5Ji) | 1:40 | 2022-10-26 |  |
 | [K.](https://open.spotify.com/track/7LX4aXtvImhdgUHQBlo8Kp) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 5:19 | 2022-06-15 |  |
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-21 |  |
 | [kassidy](https://open.spotify.com/track/5jrwsc97zyaJrO3I7C2bHQ) | [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [kassidy](https://open.spotify.com/album/70dj45RyTwssfdSSg9qAUL) | 2:21 | 2022-09-01 | 2023-01-06 |
@@ -807,6 +807,7 @@
 | [seaside\_demo](https://open.spotify.com/track/73M0rMVx5CWE8M4uATSsto) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/4FzvipXCsh9Ho8aujaOkLs) | 2:12 | 2022-05-19 | 2022-07-29 |
 | [seaside\_demo](https://open.spotify.com/track/7K3tHDY5uelNUy9DgLIFiq) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [seaside\_demo](https://open.spotify.com/album/0w0OXF5QUd40ePrP9kwPSo) | 2:12 | 2022-09-08 | 2022-09-29 |
 | [Secrets](https://open.spotify.com/track/2xB46Bj9HZ4cr058yN4Pla) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist 2.0 \(Deluxe\)](https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d) | 2:13 | 2022-11-16 |  |
+| [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 | 2023-04-19 |  |
 | [see you later \(ten years\)](https://open.spotify.com/track/5elofKuRmgZmCVImWT6JtE) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later \(ten years\)](https://open.spotify.com/album/2SAjAFJEgQwOMFt5awJK5x) | 3:08 | 2022-05-19 | 2022-07-29 |
 | [see you later \(ten years\)](https://open.spotify.com/track/7FKkswFflI5Txc3Y4gH0IB) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [see you later \(ten years\)](https://open.spotify.com/album/6RQzi0RPigwT6Y75lVTtYv) | 3:08 | 2022-05-19 | 2022-10-29 |
 | [Self Medication \(feat\. Seth MacFarlane, Redman, & Statik Selektah\)](https://open.spotify.com/track/5E4mQ2mXblbeuI4tefnMZG) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Seth MacFarlane](https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0) | [College Park](https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0) | 5:15 | 2023-03-06 | 2023-03-10 |

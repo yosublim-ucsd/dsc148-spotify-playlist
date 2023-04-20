@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE?si=qLEHAAUzSmGMCF2TXtKmMA"> YKB </a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,441 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,449 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 48 | [Way She Moves](https://open.spotify.com/track/3JkhLVjffCyHkVNHAbsVuB) | [Miguel Pregueiro](https://open.spotify.com/artist/1KJn2GWgLeT2bwifuI7sSZ), [Gvbriel](https://open.spotify.com/artist/6x4KFe5Xh1yVri5L2v0Yia) | [Way She Moves](https://open.spotify.com/album/3nnQG33scBtLyaE49Yp5OS) | 2:54 |
 | 49 | [WVVY](https://open.spotify.com/track/2UrkT9UkMByRSMAsQjmw2L) | [KVSE](https://open.spotify.com/artist/4IsB535rRnsghgHd9K4Iuz) | [WVVY](https://open.spotify.com/album/4hLBTrjvPrwDLKLa3FRlJ1) | 2:10 |
 | 50 | [CREW](https://open.spotify.com/track/1w9WKJxSP1fZjKFvNCm2Sz) | [System the One](https://open.spotify.com/artist/5pKpVqb0Hoz84sJZySk8U8) | [CREW](https://open.spotify.com/album/45L3r4eL4mNTuMsit7uFVg) | 3:35 |
-| 51 | [Imagurl](https://open.spotify.com/track/7I7hKpZpJipBkeKU91lLqf) | [CakeLife](https://open.spotify.com/artist/34QZjpXIKLyweTOLFOCLzt), [Pridgyn](https://open.spotify.com/artist/15cTBJxvgWqSyRPWBIpbTA) | [Imagurl](https://open.spotify.com/album/4j9GhQPZj5rdzu35V5oW3G) | 3:01 |
+| 51 | [Imagurl](https://open.spotify.com/track/7I7hKpZpJipBkeKU91lLqf) | [CakeLife](https://open.spotify.com/artist/34QZjpXIKLyweTOLFOCLzt), [Matt Pridgyn](https://open.spotify.com/artist/2RZVfmCJEK0AJ9JJ7Bphlu) | [Imagurl](https://open.spotify.com/album/4j9GhQPZj5rdzu35V5oW3G) | 3:01 |
 | 52 | [365](https://open.spotify.com/track/1QbnzsZxlbHIiQTYbdcqsE) | [Sky Walker Music](https://open.spotify.com/artist/6Cvv5uRLxqzAVo6xcyfO4N), [Ace Tour](https://open.spotify.com/artist/1QsHLKm8nZojhaEInfigP7) | [365](https://open.spotify.com/album/4x27QQi0bYO5DHme0ifNVe) | 3:36 |
 | 53 | [Xhosa Drill to E'tivini](https://open.spotify.com/track/4Yon2LvihZdjctwr1dW9pB) | [BLXCK 187](https://open.spotify.com/artist/1GQmNRP1EKIaBbtYo13iDI), [Gun Guluza](https://open.spotify.com/artist/74o0tJxeUR4jS9HaRa6diq), [Tido B](https://open.spotify.com/artist/0i7iHfeLd4xK5IeVXYehdQ) | [Xhosa Drill to E'tivini](https://open.spotify.com/album/1lmq8OWiP4J3yw2GMnDGYD) | 4:34 |
 | 54 | [Used To You](https://open.spotify.com/track/10ijm7q9TyoUgHcL9pSQo3) | [Epic\_SA\_kid](https://open.spotify.com/artist/2keK4PtvEnJPbkbnsB7Y5p) | [Used To You](https://open.spotify.com/album/1CTBO7MbgAHSGQnELbwakR) | 3:37 |

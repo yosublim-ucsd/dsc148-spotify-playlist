@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk.",
-  "num_followers": 70267,
+  "num_followers": 70287,
   "original_name": "Rockin' Chair Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQwMTc3MiwwMDAwMDAwMDhmYWFjOTQxZmUzOTBjZGVkM2IwNTdjNjM1YWQ5MTM1",
+  "snapshot_id": "MTY4MTQwMTc3MiwwMDAwMDAwMGZkYzgzYTBhZDE0NzNhN2MzNWU4M2JkMWIyMGU4MWNl",
   "tracks": [
     {
       "added_at": "2023-04-07 00:01:00",
@@ -517,6 +517,22 @@
       "url": "https://open.spotify.com/track/18ul6LoGQ7Fg9yOKLxxWZx"
     },
     {
+      "added_at": "2023-04-20 01:39:37",
+      "album": {
+        "name": "Blues Jumped a Rabbit",
+        "url": "https://open.spotify.com/album/5cOjiagbLZqw85RJNk8lQ4"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 235040,
+      "name": "Blues Jumped a Rabbit",
+      "url": "https://open.spotify.com/track/6Tb7mOJtHQtSSqJym83Bqr"
+    },
+    {
       "added_at": "2023-04-07 00:01:00",
       "album": {
         "name": "Mood",
@@ -531,22 +547,6 @@
       "duration_ms": 154924,
       "name": "New Anthem",
       "url": "https://open.spotify.com/track/6EY4naa1RCQkdfSL7DC0jI"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "Blue River Rising",
-        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
-      },
-      "artists": [
-        {
-          "name": "Michael van Merwyk",
-          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
-        }
-      ],
-      "duration_ms": 152106,
-      "name": "Lonely Days",
-      "url": "https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "In the Morning Twilight",
-        "url": "https://open.spotify.com/album/3xOp11fmqGp0EBz05MPX0T"
+        "name": "Blue River Rising",
+        "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
       },
       "artists": [
         {
-          "name": "Steffen Basho-Junghans",
-          "url": "https://open.spotify.com/artist/2AqJPIURzQPk72FXeh8LJx"
+          "name": "Michael van Merwyk",
+          "url": "https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF"
         }
       ],
-      "duration_ms": 384000,
-      "name": "In the Morning Twilight",
-      "url": "https://open.spotify.com/track/6vbE4tm7csOqDlSxsAzCtO"
+      "duration_ms": 152106,
+      "name": "Lonely Days",
+      "url": "https://open.spotify.com/track/0PtXPKTg2CWsWSNit3zXS5"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -595,6 +595,22 @@
       "duration_ms": 222199,
       "name": "Shake It for Me",
       "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "In the Morning Twilight",
+        "url": "https://open.spotify.com/album/3xOp11fmqGp0EBz05MPX0T"
+      },
+      "artists": [
+        {
+          "name": "Steffen Basho-Junghans",
+          "url": "https://open.spotify.com/artist/2AqJPIURzQPk72FXeh8LJx"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "In the Morning Twilight",
+      "url": "https://open.spotify.com/track/6vbE4tm7csOqDlSxsAzCtO"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -629,22 +645,6 @@
       "url": "https://open.spotify.com/track/2B2TzJyCst1rdWxCjfPCPk"
     },
     {
-      "added_at": "2023-04-19 01:18:07",
-      "album": {
-        "name": "Blues Jumped a Rabbit",
-        "url": "https://open.spotify.com/album/5cOjiagbLZqw85RJNk8lQ4"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 235040,
-      "name": "Blues Jumped a Rabbit",
-      "url": "https://open.spotify.com/track/6Tb7mOJtHQtSSqJym83Bqr"
-    },
-    {
       "added_at": "2023-04-07 00:01:00",
       "album": {
         "name": "A Place at the Table (Original Motion Picture Soundtrack)",
@@ -675,6 +675,22 @@
       "duration_ms": 525080,
       "name": "Ain't Nobody High Raga",
       "url": "https://open.spotify.com/track/71kzRcSaKgsNlWHzjANWC8"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Blowin' The Fuses",
+        "url": "https://open.spotify.com/album/01wckDXMEr0cA2tCTwu1jT"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 177120,
+      "name": "Trouble In Mind",
+      "url": "https://open.spotify.com/track/0ESNFiz1ATKj4fQyqJHmhE"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -759,22 +775,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Blowin' The Fuses",
-        "url": "https://open.spotify.com/album/01wckDXMEr0cA2tCTwu1jT"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 177120,
-      "name": "Trouble In Mind",
-      "url": "https://open.spotify.com/track/0ESNFiz1ATKj4fQyqJHmhE"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Jesus I'm a Sinner",
         "url": "https://open.spotify.com/album/398IZHABZSTKg102AxTtTO"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "That's All Right",
-        "url": "https://open.spotify.com/album/6PlMo3BPxSJRloZBHKp2wS"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 116173,
-      "name": "Mama Don't Tear Your Clothes",
-      "url": "https://open.spotify.com/track/4FKPgtDtqsVRE8BtfrmWPv"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Imaginational Anthem",
         "url": "https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO"
       },
@@ -871,22 +855,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Orange County Serenade",
-        "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/1FyHEp3lOHlnSbZkENr2mq"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Hooray For Another Day",
         "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
       },
@@ -899,6 +867,38 @@
       "duration_ms": 264880,
       "name": "Imaginational Anthem",
       "url": "https://open.spotify.com/track/2g8His2Vt7xUmZkhCuLB8W"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "That's All Right",
+        "url": "https://open.spotify.com/album/6PlMo3BPxSJRloZBHKp2wS"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 116173,
+      "name": "Mama Don't Tear Your Clothes",
+      "url": "https://open.spotify.com/track/4FKPgtDtqsVRE8BtfrmWPv"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Orange County Serenade",
+        "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/1FyHEp3lOHlnSbZkENr2mq"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "New Orleans Street Singer",
-        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
-      },
-      "artists": [
-        {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
-        }
-      ],
-      "duration_ms": 231706,
-      "name": "The Drifter Blues",
-      "url": "https://open.spotify.com/track/7xYH9C4xkI1xIW4Juq5bf6"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Bottom's Up",
         "url": "https://open.spotify.com/album/5rmJIwR8VuRFFSSjLjhg31"
       },
@@ -987,22 +971,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Orange County Serenade",
-        "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Orange County Serenade",
-      "url": "https://open.spotify.com/track/1c8RsqtiYSDmMDPhSrjkAS"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Imaginational Anthem",
         "url": "https://open.spotify.com/album/0Aht6TMCyVgToFJGKR22VO"
       },
@@ -1015,6 +983,38 @@
       "duration_ms": 264386,
       "name": "Lake Shore Drive (Slight Return)",
       "url": "https://open.spotify.com/track/32CfhB8FPrlOqkfsP9v4pi"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "New Orleans Street Singer",
+        "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
+      },
+      "artists": [
+        {
+          "name": "Snooks Eaglin",
+          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+        }
+      ],
+      "duration_ms": 231706,
+      "name": "The Drifter Blues",
+      "url": "https://open.spotify.com/track/7xYH9C4xkI1xIW4Juq5bf6"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Orange County Serenade",
+        "url": "https://open.spotify.com/album/5MX3706iqptzAKSur97vbT"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Orange County Serenade",
+      "url": "https://open.spotify.com/track/1c8RsqtiYSDmMDPhSrjkAS"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "Seven Pines",
+        "url": "https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bachman",
+          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
+        }
+      ],
+      "duration_ms": 245026,
+      "name": "Long Nights I",
+      "url": "https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "Presenting Robert Nighthawk",
         "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 192946,
       "name": "Way Down Yonder Blues",
       "url": "https://open.spotify.com/track/5cMLUxRl1dO83NLNgo8by9"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "Seven Pines",
-        "url": "https://open.spotify.com/album/6dn1vnsJx3NmheYFTjbaJV"
-      },
-      "artists": [
-        {
-          "name": "Daniel Bachman",
-          "url": "https://open.spotify.com/artist/3beAmqA2s5xwxDAIFJwDG9"
-        }
-      ],
-      "duration_ms": 245026,
-      "name": "Long Nights I",
-      "url": "https://open.spotify.com/track/0sqPuYdMB9O4OYRuPybCsB"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Hurt Me",
-        "url": "https://open.spotify.com/album/3BJs6falFjNzolCOEBYDUB"
-      },
-      "artists": [
-        {
-          "name": "Jackson Lynch",
-          "url": "https://open.spotify.com/artist/2scbHpKBvC3nXnWHkWluvb"
-        }
-      ],
-      "duration_ms": 155319,
-      "name": "Hurt Me",
-      "url": "https://open.spotify.com/track/5Ul9TZbc9nKI9BWlq4vHZO"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Cruel Old World",
         "url": "https://open.spotify.com/album/2b8RXtK0SUI7TELekPYCPB"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 172747,
       "name": "Cruel Old World",
       "url": "https://open.spotify.com/track/4kyce8EEMUUIMoPfWVsQwf"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Hurt Me",
+        "url": "https://open.spotify.com/album/3BJs6falFjNzolCOEBYDUB"
+      },
+      "artists": [
+        {
+          "name": "Jackson Lynch",
+          "url": "https://open.spotify.com/artist/2scbHpKBvC3nXnWHkWluvb"
+        }
+      ],
+      "duration_ms": 155319,
+      "name": "Hurt Me",
+      "url": "https://open.spotify.com/track/5Ul9TZbc9nKI9BWlq4vHZO"
     },
     {
       "added_at": "2023-04-07 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:4O5lO0bnj8YQ9wSsUPQejj">POPMINERALE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,776 likes - 55 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,780 likes - 55 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

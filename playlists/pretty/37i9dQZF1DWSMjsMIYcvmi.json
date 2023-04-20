@@ -1,12 +1,12 @@
 {
   "description": "Press play, feel motivated and grind hard throughout your work day.",
-  "num_followers": 13875,
+  "num_followers": 13898,
   "original_name": "9 to 5",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDcwNjQzOSwwMDAwMDAwMGMwMjViYTY3YTlmOTZlNzdkZjVhZDYwMjA0YWEzNjFl",
+  "snapshot_id": "MTY4MDcwNjQzOSwwMDAwMDAwMGQ4ZmFhZjdhYjdjZDdlY2EzZjI4NDVkMjYwOTkwOGIx",
   "tracks": [
     {
       "added_at": "2020-09-08 09:44:15",
@@ -553,26 +553,6 @@
       "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
     },
     {
-      "added_at": "2019-06-18 07:20:32",
-      "album": {
-        "name": "I Don't Care (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 219946,
-      "name": "I Don't Care (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
-    },
-    {
       "added_at": "2020-09-08 09:44:15",
       "album": {
         "name": "JORDI (Deluxe)",
@@ -595,6 +575,26 @@
       "duration_ms": 189486,
       "name": "Memories Remix (feat. Nipsey Hussle & YG)",
       "url": "https://open.spotify.com/track/3p4WMekidOIiyf8SFvfrIC"
+    },
+    {
+      "added_at": "2019-06-18 07:20:32",
+      "album": {
+        "name": "I Don't Care (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 219946,
+      "name": "I Don't Care (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
     },
     {
       "added_at": "2020-01-07 11:03:16",

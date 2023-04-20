@@ -4,7 +4,7 @@
 
 > it's never too early.
 
-235 songs - 12 hr 41 min
+236 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Chance](https://open.spotify.com/track/6EeGuEFLu9f72OsR3czhfF) | [Kablito](https://open.spotify.com/artist/51aWHhJ7AjxKmZ4dDUc0sm) | [Chance](https://open.spotify.com/album/5v6U2rpXx6aVLpjmoUjF3v) | 2:51 | 2022-02-16 | 2022-07-09 |
 | [CHORRITO PA LAS ANIMAS](https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:48 | 2023-02-17 |  |
 | [Con Altura](https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Con Altura](https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l) | 2:41 | 2022-07-08 | 2022-12-31 |
+| [Corazón Roto \- Remix](https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto \(Remix\)](https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF) | 4:35 | 2023-04-07 |  |
 | [Cosas De La Vida](https://open.spotify.com/track/0WfQLUjyg5wn0zWxsOda07) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Cosas De La Vida](https://open.spotify.com/album/37PlSJaDNBVPHnsqhFqfK4) | 2:44 | 2021-12-24 | 2022-05-24 |
 | [Criminal](https://open.spotify.com/track/2SmgFAhQkQCQPyBiBxR6Te) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Criminal](https://open.spotify.com/album/0FoBypfucpFwJIlu81aT5K) | 3:52 | 2022-07-08 | 2022-07-29 |
 | [Criminal](https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Criminal](https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0) | 3:52 | 2022-07-18 |  |
@@ -139,7 +140,7 @@
 | [Mantequilla](https://open.spotify.com/track/41w5I0tYohtHkqpbNNWcpK) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Mantequilla](https://open.spotify.com/album/4NK445aqlt017jEkN9L5Vx) | 2:45 | 2022-03-29 | 2022-04-15 |
 | [Mariposas](https://open.spotify.com/track/5Ci3Ru41bcPDdFO9NGzF8t) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Mariposas](https://open.spotify.com/album/02Nw3ZrfnzNK9Auu7LNuI6) | 3:02 | 2021-12-24 | 2022-05-12 |
 | [Maybe Baby](https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B) | 3:13 | 2022-05-11 | 2022-05-24 |
-| [Mayor Que Usted](https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mayor Que Usted](https://open.spotify.com/album/39bS0KqiLzhJvitnTt7Y4W) | 3:53 | 2022-07-08 |  |
+| [Mayor Que Usted](https://open.spotify.com/track/7d7aPD2oxuzjhOZnu4Dj23) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Mayor Que Usted](https://open.spotify.com/album/39bS0KqiLzhJvitnTt7Y4W) | 3:53 | 2022-07-08 | 2023-04-20 |
 | [Mayores](https://open.spotify.com/track/2AY1UAimvTqjJC8vDJsOyy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:23 | 2022-07-08 |  |
 | [Mañana](https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:12 | 2022-11-07 | 2023-02-18 |
 | [Me Duele \(Suceso 2\)](https://open.spotify.com/track/4QniAfJtmL0XDwjT1zODYz) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Roxanne](https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo) | 3:20 | 2021-12-24 | 2022-07-09 |

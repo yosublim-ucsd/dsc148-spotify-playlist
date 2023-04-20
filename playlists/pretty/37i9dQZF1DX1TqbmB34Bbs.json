@@ -1,12 +1,12 @@
 {
   "description": "Illest hardcore K-hip hop tracks are here. (Cover: \bCoogie(\ucfe0\uae30)) (\uacf5\uaca9\ub825 \uc0c1\uc2b9 \uad6d\ub0b4 \ud799\ud569\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
-  "num_followers": 13455,
+  "num_followers": 13472,
   "original_name": "K`illin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ2OTIwNiwwMDAwMDAwMDc5Y2NjNDA3ODU4OGM4OTFiZDMxNDA4YjI3NWQyY2M0",
+  "snapshot_id": "MTY4MTQ2OTIwNiwwMDAwMDAwMDhlNjZhN2U2ZTIwOTE1Mjg3YWY5MzdkM2U0YTM2OWE1",
   "tracks": [
     {
       "added_at": "2023-04-14 10:46:46",
@@ -923,6 +923,34 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
+        "name": "BAND",
+        "url": "https://open.spotify.com/album/22ryIcPpUrblmpK3nxBOtX"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "Hash Swan",
+          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "Keem Hyo-Eun",
+          "url": "https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p"
+        }
+      ],
+      "duration_ms": 245874,
+      "name": "BAND",
+      "url": "https://open.spotify.com/track/7GqAKBYPHaiLleRPu8z2op"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
         "name": "SLAY HOUSE REMIX",
         "url": "https://open.spotify.com/album/1nXs500bOOyoZJiLjQvD0b"
       },
@@ -987,34 +1015,6 @@
       "duration_ms": 459853,
       "name": "BLUE CHECK REMIX (Feat. Blase, 365LIT, JUPITER, KHAN, XINSAYNE, Roh Yun Ha, sokodomo, KOALA, Jambino, Lee Young Ji, Chillin Homie, NSW yoon)",
       "url": "https://open.spotify.com/track/2mqnyDbLObaEBnvGv5Ok5Z"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
-        "name": "BAND",
-        "url": "https://open.spotify.com/album/22ryIcPpUrblmpK3nxBOtX"
-      },
-      "artists": [
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        },
-        {
-          "name": "Hash Swan",
-          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
-        },
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        },
-        {
-          "name": "Keem Hyo-Eun",
-          "url": "https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p"
-        }
-      ],
-      "duration_ms": 245874,
-      "name": "BAND",
-      "url": "https://open.spotify.com/track/7GqAKBYPHaiLleRPu8z2op"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
+        "name": "Street Man Fighter Original Vol.1",
+        "url": "https://open.spotify.com/album/64RwgplkeOHLK04rkdf9Fq"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "duration_ms": 136733,
+      "name": "SMF (Prod. Czaer)",
+      "url": "https://open.spotify.com/track/2RwFM3urdm9MhkZek5G8aH"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
         "name": "Rollin'",
         "url": "https://open.spotify.com/album/6hbcWrnoEbGf2CDuSY1ROU"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 189080,
       "name": "Rollin' (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/6QVwpPsJzIthRL5NIfs0Hc"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
-        "name": "Street Man Fighter Original Vol.1",
-        "url": "https://open.spotify.com/album/64RwgplkeOHLK04rkdf9Fq"
-      },
-      "artists": [
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        }
-      ],
-      "duration_ms": 136733,
-      "name": "SMF (Prod. Czaer)",
-      "url": "https://open.spotify.com/track/2RwFM3urdm9MhkZek5G8aH"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "MAPSI",
-        "url": "https://open.spotify.com/album/2D1OkejpfnqXVPoxhrQM05"
-      },
-      "artists": [
-        {
-          "name": "CAMO",
-          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "MAPSI",
-      "url": "https://open.spotify.com/track/4CkCx4BUC7Be2fcGX1UCxG"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
         "name": "make her dance",
         "url": "https://open.spotify.com/album/61J3JZ2qxT6N1TM3OzS1hD"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 170868,
       "name": "make her dance",
       "url": "https://open.spotify.com/track/2IEaghW8CpyLlyQYvBxXEu"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
+        "name": "MAPSI",
+        "url": "https://open.spotify.com/album/2D1OkejpfnqXVPoxhrQM05"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "MAPSI",
+      "url": "https://open.spotify.com/track/4CkCx4BUC7Be2fcGX1UCxG"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -1371,26 +1371,18 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Semi Final",
-        "url": "https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx"
+        "name": "IS ANYBODY OUT THERE?",
+        "url": "https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p"
       },
       "artists": [
         {
-          "name": "JAMBINO",
-          "url": "https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "HyunA",
-          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
         }
       ],
-      "duration_ms": 223893,
-      "name": "LIKE WATER (Feat. Loco, HyunA)",
-      "url": "https://open.spotify.com/track/6Vo3VtFuU8qHeXJpb5rDFa"
+      "duration_ms": 170533,
+      "name": "LEGACY",
+      "url": "https://open.spotify.com/track/22Zxg7K8lEL8lkfQQbykKQ"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -1423,18 +1415,26 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "DAx4",
-        "url": "https://open.spotify.com/album/0SmdSlVPVFZ6eizAdVb6qK"
+        "name": "SHOW ME THE MONEY 11 Semi Final",
+        "url": "https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx"
       },
       "artists": [
         {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+          "name": "JAMBINO",
+          "url": "https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
         }
       ],
-      "duration_ms": 127921,
-      "name": "DAx4",
-      "url": "https://open.spotify.com/track/08BjRgnqzK1TAOU0zksdwB"
+      "duration_ms": 223893,
+      "name": "LIKE WATER (Feat. Loco, HyunA)",
+      "url": "https://open.spotify.com/track/6Vo3VtFuU8qHeXJpb5rDFa"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "IS ANYBODY OUT THERE?",
-        "url": "https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 170533,
-      "name": "LEGACY",
-      "url": "https://open.spotify.com/track/22Zxg7K8lEL8lkfQQbykKQ"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
         "name": "TRAVEL: NOAH",
         "url": "https://open.spotify.com/album/4JgE4ZTDBxLbXt8v1R6UB5"
       },
@@ -1499,6 +1483,38 @@
       "duration_ms": 224569,
       "name": "NOAH",
       "url": "https://open.spotify.com/track/4etQJPDd3ldrBqSiW74iuD"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
+        "name": "DAx4",
+        "url": "https://open.spotify.com/album/0SmdSlVPVFZ6eizAdVb6qK"
+      },
+      "artists": [
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "duration_ms": 127921,
+      "name": "DAx4",
+      "url": "https://open.spotify.com/track/08BjRgnqzK1TAOU0zksdwB"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
+        "name": "IS ANYBODY OUT THERE?",
+        "url": "https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 161586,
+      "name": "OUT OF CONTROL",
+      "url": "https://open.spotify.com/track/7ehbiFQ6131ymm4Xcywttc"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -1551,26 +1567,6 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "Girls Back Home (Feat. Lee Young Ji)",
-        "url": "https://open.spotify.com/album/0LGV5taFE9qH4XAJbykaAY"
-      },
-      "artists": [
-        {
-          "name": "Ash-B",
-          "url": "https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4"
-        },
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        }
-      ],
-      "duration_ms": 135600,
-      "name": "Girls Back Home (Feat. Lee Young Ji)",
-      "url": "https://open.spotify.com/track/4FJ3U3FHXPdIOSP6e1tQfb"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 0",
         "url": "https://open.spotify.com/album/2T2wsr1uhHDpZWhBAvKsTQ"
       },
@@ -1587,6 +1583,26 @@
       "duration_ms": 170323,
       "name": "SUN GOES DOWN (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/1pzMTqvKABFaYYde4coFSg"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
+        "name": "Girls Back Home (Feat. Lee Young Ji)",
+        "url": "https://open.spotify.com/album/0LGV5taFE9qH4XAJbykaAY"
+      },
+      "artists": [
+        {
+          "name": "Ash-B",
+          "url": "https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4"
+        },
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        }
+      ],
+      "duration_ms": 135600,
+      "name": "Girls Back Home (Feat. Lee Young Ji)",
+      "url": "https://open.spotify.com/track/4FJ3U3FHXPdIOSP6e1tQfb"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -1659,22 +1675,6 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "IS ANYBODY OUT THERE?",
-        "url": "https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 161586,
-      "name": "OUT OF CONTROL",
-      "url": "https://open.spotify.com/track/7ehbiFQ6131ymm4Xcywttc"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
         "name": "No Open Flames",
         "url": "https://open.spotify.com/album/112uXeWiA76N9tn0fyeYgq"
       },
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "DNSG",
-        "url": "https://open.spotify.com/album/3wRAY8jCfQC7BtnbazwFSr"
-      },
-      "artists": [
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        },
-        {
-          "name": "SUPERBEE",
-          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
-        }
-      ],
-      "duration_ms": 232308,
-      "name": "Selfmade Orange",
-      "url": "https://open.spotify.com/track/4Sj58SxB3Egh71Mzrm01aZ"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
         "name": "CHEF TALK",
         "url": "https://open.spotify.com/album/0FKMz23wZJpRofQZB0TobO"
       },
@@ -1767,90 +1747,22 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Semi Final",
-        "url": "https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx"
+        "name": "DNSG",
+        "url": "https://open.spotify.com/album/3wRAY8jCfQC7BtnbazwFSr"
       },
       "artists": [
         {
-          "name": "Blase",
-          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
         },
         {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+          "name": "SUPERBEE",
+          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
         }
       ],
-      "duration_ms": 227346,
-      "name": "Name Tag (Feat. Sik-K, Coogie) (Prod. GroovyRoom)",
-      "url": "https://open.spotify.com/track/4Q1mkQI9zKjEPsbI19hpsN"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
-        "name": "SHOW ME THE MONEY 11 Episode 1",
-        "url": "https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "CRUCiAL STAR",
-          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
-        },
-        {
-          "name": "QM",
-          "url": "https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j"
-        },
-        {
-          "name": "Kim Jae Wook",
-          "url": "https://open.spotify.com/artist/3cHJ87EhyuC7TPJLwIKIeS"
-        },
-        {
-          "name": "NSW yoon",
-          "url": "https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE"
-        },
-        {
-          "name": "DAMINI",
-          "url": "https://open.spotify.com/artist/1yNIinWsNuQUyXJsqnmaLh"
-        }
-      ],
-      "duration_ms": 293215,
-      "name": "AJUSHI",
-      "url": "https://open.spotify.com/track/7mD6UISuxA2uqWAQh7oSjV"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
-        "name": "Show Me The Money 9 Final",
-        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
-      },
-      "artists": [
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        }
-      ],
-      "duration_ms": 250645,
-      "name": "ON AIR (Feat. Loco, Jay Park & GRAY)",
-      "url": "https://open.spotify.com/track/3sNpAUnxxQWeP4gnSdJXg6"
+      "duration_ms": 232308,
+      "name": "Selfmade Orange",
+      "url": "https://open.spotify.com/track/4Sj58SxB3Egh71Mzrm01aZ"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -1895,6 +1807,94 @@
       "duration_ms": 280320,
       "name": "How We Rock",
       "url": "https://open.spotify.com/track/7kvmOl9he8v0649CG1KjLL"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Semi Final",
+        "url": "https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx"
+      },
+      "artists": [
+        {
+          "name": "Blase",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "duration_ms": 227346,
+      "name": "Name Tag (Feat. Sik-K, Coogie) (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/4Q1mkQI9zKjEPsbI19hpsN"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
+        "name": "Show Me The Money 9 Final",
+        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
+      },
+      "artists": [
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "duration_ms": 250645,
+      "name": "ON AIR (Feat. Loco, Jay Park & GRAY)",
+      "url": "https://open.spotify.com/track/3sNpAUnxxQWeP4gnSdJXg6"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 1",
+        "url": "https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        },
+        {
+          "name": "QM",
+          "url": "https://open.spotify.com/artist/0wMU0ruU41VLCAdBaWBo1j"
+        },
+        {
+          "name": "Kim Jae Wook",
+          "url": "https://open.spotify.com/artist/3cHJ87EhyuC7TPJLwIKIeS"
+        },
+        {
+          "name": "NSW yoon",
+          "url": "https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE"
+        },
+        {
+          "name": "DAMINI",
+          "url": "https://open.spotify.com/artist/1yNIinWsNuQUyXJsqnmaLh"
+        }
+      ],
+      "duration_ms": 293215,
+      "name": "AJUSHI",
+      "url": "https://open.spotify.com/track/7mD6UISuxA2uqWAQh7oSjV"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -1959,6 +1959,26 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
+        "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
+        "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "YUNHWAY",
+          "url": "https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy"
+        }
+      ],
+      "duration_ms": 192280,
+      "name": "100\u2103 (Prod. GIRIBOY, YEOHO) (Feat. YUNHWAY)",
+      "url": "https://open.spotify.com/track/2EKey8SiwOC7zMtgmAwss1"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
         "name": "SHOW ME THE MONEY 11 Final",
         "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
       },
@@ -1979,26 +1999,6 @@
       "duration_ms": 255168,
       "name": "Way up (Feat. CAMO, JUSTHIS) (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/75hcx0Zao2wGlveS7kLIZo"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
-        "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
-        "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "YUNHWAY",
-          "url": "https://open.spotify.com/artist/7nq2NwlzVsllu1h5qHPxIy"
-        }
-      ],
-      "duration_ms": 192280,
-      "name": "100\u2103 (Prod. GIRIBOY, YEOHO) (Feat. YUNHWAY)",
-      "url": "https://open.spotify.com/track/2EKey8SiwOC7zMtgmAwss1"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -2123,26 +2123,6 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Episode 3",
-        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
-      },
-      "artists": [
-        {
-          "name": "NSW yoon",
-          "url": "https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE"
-        },
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 210401,
-      "name": "ERI ERI (Feat. Homies)",
-      "url": "https://open.spotify.com/track/2IWjd02V6f5FBiC9ZDbe9R"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
         "name": "Uniform",
         "url": "https://open.spotify.com/album/258BtAEodn5ZhYIMYtS9hj"
       },
@@ -2215,6 +2195,26 @@
       "duration_ms": 319642,
       "name": "IMJMWDP (Prod. By GIRIBOY)",
       "url": "https://open.spotify.com/track/2pzNbCuGONzhCdfrehTfPY"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+      },
+      "artists": [
+        {
+          "name": "NSW yoon",
+          "url": "https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE"
+        },
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 210401,
+      "name": "ERI ERI (Feat. Homies)",
+      "url": "https://open.spotify.com/track/2IWjd02V6f5FBiC9ZDbe9R"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -2363,22 +2363,18 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Semi Final",
-        "url": "https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx"
+        "name": "Acrobat \uace1\uc608\uc0ac",
+        "url": "https://open.spotify.com/album/2THm7JvUSSTK4wutej90Rx"
       },
       "artists": [
         {
-          "name": "KHAN",
-          "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
-        },
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+          "name": "Gwangil Jo",
+          "url": "https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW"
         }
       ],
-      "duration_ms": 239543,
-      "name": "GOBLIN (Feat. Homies) (Prod. R.Tee)",
-      "url": "https://open.spotify.com/track/008hCrBLW4a7BbC6c6UUBL"
+      "duration_ms": 186666,
+      "name": "Acrobat \uace1\uc608\uc0ac",
+      "url": "https://open.spotify.com/track/0k21uOz3txTfyA1a91QWTr"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -2407,34 +2403,38 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "Acrobat \uace1\uc608\uc0ac",
-        "url": "https://open.spotify.com/album/2THm7JvUSSTK4wutej90Rx"
+        "name": "SHOW ME THE MONEY 11 Semi Final",
+        "url": "https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx"
       },
       "artists": [
         {
-          "name": "Gwangil Jo",
-          "url": "https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW"
+          "name": "KHAN",
+          "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
+        },
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Acrobat \uace1\uc608\uc0ac",
-      "url": "https://open.spotify.com/track/0k21uOz3txTfyA1a91QWTr"
+      "duration_ms": 239543,
+      "name": "GOBLIN (Feat. Homies) (Prod. R.Tee)",
+      "url": "https://open.spotify.com/track/008hCrBLW4a7BbC6c6UUBL"
     },
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "ISLAND",
-        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
+        "name": "My Ninjas",
+        "url": "https://open.spotify.com/album/3oqVwaLI47IzhmfaXycRTD"
       },
       "artists": [
         {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+          "name": "Fleeky Bang",
+          "url": "https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC"
         }
       ],
-      "duration_ms": 109506,
-      "name": "A STAR IS BORN",
-      "url": "https://open.spotify.com/track/6R1PVAFsQ8a37ibQQ7kvGj"
+      "duration_ms": 125793,
+      "name": "My Ninjas",
+      "url": "https://open.spotify.com/track/7mxagx3nBTNYcWxCFPRdsw"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -2455,18 +2455,18 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "My Ninjas",
-        "url": "https://open.spotify.com/album/3oqVwaLI47IzhmfaXycRTD"
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
       },
       "artists": [
         {
-          "name": "Fleeky Bang",
-          "url": "https://open.spotify.com/artist/4whHCEnN1w4cexp2J7h4OC"
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
         }
       ],
-      "duration_ms": 125793,
-      "name": "My Ninjas",
-      "url": "https://open.spotify.com/track/7mxagx3nBTNYcWxCFPRdsw"
+      "duration_ms": 109506,
+      "name": "A STAR IS BORN",
+      "url": "https://open.spotify.com/track/6R1PVAFsQ8a37ibQQ7kvGj"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -2499,30 +2499,6 @@
       "duration_ms": 165385,
       "name": "Wu",
       "url": "https://open.spotify.com/track/0awns037OT5FraMYo8jpUD"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/1NAYLXsyONAVFcIoSp8xLG"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        },
-        {
-          "name": "MUSHVENOM",
-          "url": "https://open.spotify.com/artist/1UIxKzYZnlJeF9siZ6IE1f"
-        }
-      ],
-      "duration_ms": 202840,
-      "name": "OKAY (Prod. GroovyRoom)",
-      "url": "https://open.spotify.com/track/5NF3oHIuRh2dnO1BR5WLOj"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -2563,6 +2539,30 @@
       "duration_ms": 193326,
       "name": "TAIJI",
       "url": "https://open.spotify.com/track/4kTZPPL28sYltXKMJramko"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/1NAYLXsyONAVFcIoSp8xLG"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "MUSHVENOM",
+          "url": "https://open.spotify.com/artist/1UIxKzYZnlJeF9siZ6IE1f"
+        }
+      ],
+      "duration_ms": 202840,
+      "name": "OKAY (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/5NF3oHIuRh2dnO1BR5WLOj"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -2699,22 +2699,6 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "Go Back",
-        "url": "https://open.spotify.com/album/2hb3zy9V9edKEGESIaUXaH"
-      },
-      "artists": [
-        {
-          "name": "Jvcki Wai",
-          "url": "https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN"
-        }
-      ],
-      "duration_ms": 186106,
-      "name": "Go Back",
-      "url": "https://open.spotify.com/track/4WRzvrqXTdzpEB6KaO1Oqh"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
         "name": "G+Jus",
         "url": "https://open.spotify.com/album/1j54pJLJwyvWWitfseFlBm"
       },
@@ -2731,6 +2715,22 @@
       "duration_ms": 234733,
       "name": "Take It",
       "url": "https://open.spotify.com/track/2VYAX2W40C5Xk5oxBQwsOD"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
+        "name": "Go Back",
+        "url": "https://open.spotify.com/album/2hb3zy9V9edKEGESIaUXaH"
+      },
+      "artists": [
+        {
+          "name": "Jvcki Wai",
+          "url": "https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN"
+        }
+      ],
+      "duration_ms": 186106,
+      "name": "Go Back",
+      "url": "https://open.spotify.com/track/4WRzvrqXTdzpEB6KaO1Oqh"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -2935,26 +2935,6 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "EP1 GENIUS",
-        "url": "https://open.spotify.com/album/2kRlCxIqcypglsPbSZex8k"
-      },
-      "artists": [
-        {
-          "name": "D.Ark",
-          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
-        },
-        {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "GENIUS (feat. CHANGMO)",
-      "url": "https://open.spotify.com/track/1NicxbS7NRiqclpy14WfCX"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
         "name": "AAA",
         "url": "https://open.spotify.com/album/67HPDc7fjJfJyHggdcRlc5"
       },
@@ -2979,6 +2959,26 @@
       "duration_ms": 183773,
       "name": "Yooooo (Feat. Kid Milli, sokodomo, Polodared)",
       "url": "https://open.spotify.com/track/1dSoTjwGH9HBlj6EEu2mhx"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
+        "name": "EP1 GENIUS",
+        "url": "https://open.spotify.com/album/2kRlCxIqcypglsPbSZex8k"
+      },
+      "artists": [
+        {
+          "name": "D.Ark",
+          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "GENIUS (feat. CHANGMO)",
+      "url": "https://open.spotify.com/track/1NicxbS7NRiqclpy14WfCX"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -3039,34 +3039,26 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "YNR VS ALL",
-        "url": "https://open.spotify.com/album/2K65RodurSpx5oPT94nG9b"
+        "name": "Show Me The Money 9 Episode 3",
+        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
       "artists": [
         {
-          "name": "OXYNOVA",
-          "url": "https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa"
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
         },
         {
-          "name": "SUPERBEE",
-          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
         },
         {
-          "name": "LIL GIMCHI",
-          "url": "https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ"
-        },
-        {
-          "name": "Uneducated Kid",
-          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
-        },
-        {
-          "name": "KHAN",
-          "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
         }
       ],
-      "duration_ms": 256825,
-      "name": "YnR Shit",
-      "url": "https://open.spotify.com/track/5eVFmgEEGG673mkRYGc2u8"
+      "duration_ms": 245613,
+      "name": "The Roots (Feat. JUSTHIS) (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/6LSRHi9dycuaS83L0Yych1"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -3111,26 +3103,34 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "Show Me The Money 9 Episode 3",
-        "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
+        "name": "YNR VS ALL",
+        "url": "https://open.spotify.com/album/2K65RodurSpx5oPT94nG9b"
       },
       "artists": [
         {
-          "name": "Khundi Panda",
-          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+          "name": "OXYNOVA",
+          "url": "https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa"
         },
         {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+          "name": "SUPERBEE",
+          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
         },
         {
-          "name": "JUSTHIS",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+          "name": "LIL GIMCHI",
+          "url": "https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ"
+        },
+        {
+          "name": "Uneducated Kid",
+          "url": "https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM"
+        },
+        {
+          "name": "KHAN",
+          "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
         }
       ],
-      "duration_ms": 245613,
-      "name": "The Roots (Feat. JUSTHIS) (Prod. GroovyRoom)",
-      "url": "https://open.spotify.com/track/6LSRHi9dycuaS83L0Yych1"
+      "duration_ms": 256825,
+      "name": "YnR Shit",
+      "url": "https://open.spotify.com/track/5eVFmgEEGG673mkRYGc2u8"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -3351,6 +3351,30 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
+        "name": "Street Woman Fighter(SWF) Special",
+        "url": "https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6"
+      },
+      "artists": [
+        {
+          "name": "HolyBang",
+          "url": "https://open.spotify.com/artist/55hCEdYVgnzW3ymnsIPd7T"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 139093,
+      "name": "NO BREAK (Prod. GooseBumps & Simon Dominic)",
+      "url": "https://open.spotify.com/track/7p5iFapJ56W9Swmu9NT00L"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
         "name": "business boy",
         "url": "https://open.spotify.com/album/5TM1tLTSVgkXIvrPGTTCQt"
       },
@@ -3387,30 +3411,6 @@
       "duration_ms": 174234,
       "name": "hey",
       "url": "https://open.spotify.com/track/6I2OEdbHkkaZTOi3mWpHjq"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
-        "name": "Street Woman Fighter(SWF) Special",
-        "url": "https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6"
-      },
-      "artists": [
-        {
-          "name": "HolyBang",
-          "url": "https://open.spotify.com/artist/55hCEdYVgnzW3ymnsIPd7T"
-        },
-        {
-          "name": "Simon Dominic",
-          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
-        },
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 139093,
-      "name": "NO BREAK (Prod. GooseBumps & Simon Dominic)",
-      "url": "https://open.spotify.com/track/7p5iFapJ56W9Swmu9NT00L"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -3523,26 +3523,6 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "HIGH RISK HIGH RETURN",
-        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        },
-        {
-          "name": "Polodared",
-          "url": "https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd"
-        }
-      ],
-      "duration_ms": 189350,
-      "name": "HIGH RISK HIGH RETURN (Feat. Polodared)",
-      "url": "https://open.spotify.com/track/5MnjjRXp2huzCdVXkGpU2I"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
         "name": "Wrecker",
         "url": "https://open.spotify.com/album/7B6ijiY8cpQnNbjvk4WHnv"
       },
@@ -3603,6 +3583,26 @@
       "duration_ms": 265227,
       "name": "B.O.T.B. (Prod. GRAY)",
       "url": "https://open.spotify.com/track/4AwtazkAUcviUqBmlvLft7"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
+        "name": "HIGH RISK HIGH RETURN",
+        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
+      },
+      "artists": [
+        {
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        },
+        {
+          "name": "Polodared",
+          "url": "https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd"
+        }
+      ],
+      "duration_ms": 189350,
+      "name": "HIGH RISK HIGH RETURN (Feat. Polodared)",
+      "url": "https://open.spotify.com/track/5MnjjRXp2huzCdVXkGpU2I"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -3707,6 +3707,22 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
+        "name": "\"SIKE\"!",
+        "url": "https://open.spotify.com/album/4cuZ0gQ51TtaNLs3uwqAKs"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 125226,
+      "name": "5 Gawd Remix",
+      "url": "https://open.spotify.com/track/2c119fwkd1qbsx2ZpQgmnJ"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
         "name": "Show Me The Money 9 Semi Final",
         "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
       },
@@ -3727,22 +3743,6 @@
       "duration_ms": 260372,
       "name": "Villain (Feat. LeeHi & Simon Dominic) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/3c6N9ENwOAfXZ97itIzYy6"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
-        "name": "\"SIKE\"!",
-        "url": "https://open.spotify.com/album/4cuZ0gQ51TtaNLs3uwqAKs"
-      },
-      "artists": [
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 125226,
-      "name": "5 Gawd Remix",
-      "url": "https://open.spotify.com/track/2c119fwkd1qbsx2ZpQgmnJ"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -4011,26 +4011,6 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "Water (Feat. Keith Ape)",
-        "url": "https://open.spotify.com/album/2HJkuFxiQaMOS8a8SeIMWQ"
-      },
-      "artists": [
-        {
-          "name": "MASTA WU",
-          "url": "https://open.spotify.com/artist/7ndYLcobuKuq9ZcoIAVvU6"
-        },
-        {
-          "name": "Keith Ape",
-          "url": "https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI"
-        }
-      ],
-      "duration_ms": 146893,
-      "name": "Water (Feat. Keith Ape)",
-      "url": "https://open.spotify.com/track/22f7zcdk27ikvUQNc9vT6r"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
         "name": "BIPOLAR",
         "url": "https://open.spotify.com/album/31GTeiqu8AUN76bXsnoCq9"
       },
@@ -4067,6 +4047,26 @@
       "duration_ms": 168832,
       "name": "Meet me at the London (Feat. Sik-K)",
       "url": "https://open.spotify.com/track/67LojJCuYg9v7CDWWcJf8J"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
+        "name": "Water (Feat. Keith Ape)",
+        "url": "https://open.spotify.com/album/2HJkuFxiQaMOS8a8SeIMWQ"
+      },
+      "artists": [
+        {
+          "name": "MASTA WU",
+          "url": "https://open.spotify.com/artist/7ndYLcobuKuq9ZcoIAVvU6"
+        },
+        {
+          "name": "Keith Ape",
+          "url": "https://open.spotify.com/artist/6f9bmfkqiYbhCtdAZsv7KI"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "Water (Feat. Keith Ape)",
+      "url": "https://open.spotify.com/track/22f7zcdk27ikvUQNc9vT6r"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -4195,34 +4195,6 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "Breathe 3",
-        "url": "https://open.spotify.com/album/0wTL0vndtougfYbicPb3Xr"
-      },
-      "artists": [
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        },
-        {
-          "name": "northfacegawd",
-          "url": "https://open.spotify.com/artist/620Vx5hEMowoa71wXk4bu1"
-        },
-        {
-          "name": "JUSTHIS",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
-        },
-        {
-          "name": "Layone",
-          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
-        }
-      ],
-      "duration_ms": 208541,
-      "name": "John Cena",
-      "url": "https://open.spotify.com/track/2UcpCe7sVfnawpEqmiTViH"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
         "name": "JANGJEON",
         "url": "https://open.spotify.com/album/4REKpriB6TJbP3WWaWBif9"
       },
@@ -4247,6 +4219,34 @@
       "duration_ms": 165957,
       "name": "JANGJEON (feat.Coogie, pH-1 & PUFF DAEHEE)",
       "url": "https://open.spotify.com/track/75o7SzlCbsZKRqWx4c0fKi"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
+        "name": "Breathe 3",
+        "url": "https://open.spotify.com/album/0wTL0vndtougfYbicPb3Xr"
+      },
+      "artists": [
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        },
+        {
+          "name": "northfacegawd",
+          "url": "https://open.spotify.com/artist/620Vx5hEMowoa71wXk4bu1"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        },
+        {
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+        }
+      ],
+      "duration_ms": 208541,
+      "name": "John Cena",
+      "url": "https://open.spotify.com/track/2UcpCe7sVfnawpEqmiTViH"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -4295,26 +4295,6 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "Brat of the Year",
-        "url": "https://open.spotify.com/album/4WyZ8bQeTXlDYgno46MaWT"
-      },
-      "artists": [
-        {
-          "name": "Ash-B",
-          "url": "https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4"
-        },
-        {
-          "name": "365LIT",
-          "url": "https://open.spotify.com/artist/65LSFEqRhq074aUBF1zF2e"
-        }
-      ],
-      "duration_ms": 145986,
-      "name": "Bounce Dat A$$ (feat. 365LIT)",
-      "url": "https://open.spotify.com/track/4n9y5hEcL9cxz4gA1N5pb5"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
         "name": "Windy Day (feat. JAY B)",
         "url": "https://open.spotify.com/album/3JVWrXrXx28g5fVeEVxkdj"
       },
@@ -4351,34 +4331,22 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "KEUNG",
-        "url": "https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc"
+        "name": "Brat of the Year",
+        "url": "https://open.spotify.com/album/4WyZ8bQeTXlDYgno46MaWT"
       },
       "artists": [
         {
-          "name": "C JAMM",
-          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
-        }
-      ],
-      "duration_ms": 159896,
-      "name": "Slay",
-      "url": "https://open.spotify.com/track/2L6Mx4R9795QsMMbAqsOFh"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
-        "name": "First Album : Rap Legend",
-        "url": "https://open.spotify.com/album/0EjwJIZJGIGxK9AJG1KFmN"
-      },
-      "artists": [
+          "name": "Ash-B",
+          "url": "https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4"
+        },
         {
-          "name": "SUPERBEE",
-          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
+          "name": "365LIT",
+          "url": "https://open.spotify.com/artist/65LSFEqRhq074aUBF1zF2e"
         }
       ],
-      "duration_ms": 271937,
-      "name": "+82 Bars",
-      "url": "https://open.spotify.com/track/2J5fF0d4ePNQfPRIS1LGJU"
+      "duration_ms": 145986,
+      "name": "Bounce Dat A$$ (feat. 365LIT)",
+      "url": "https://open.spotify.com/track/4n9y5hEcL9cxz4gA1N5pb5"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -4411,6 +4379,38 @@
       "duration_ms": 275128,
       "name": "J2B",
       "url": "https://open.spotify.com/track/60Gr8uHBBIQyRSVBVDFYOv"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
+        "name": "KEUNG",
+        "url": "https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc"
+      },
+      "artists": [
+        {
+          "name": "C JAMM",
+          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
+        }
+      ],
+      "duration_ms": 159896,
+      "name": "Slay",
+      "url": "https://open.spotify.com/track/2L6Mx4R9795QsMMbAqsOFh"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
+        "name": "First Album : Rap Legend",
+        "url": "https://open.spotify.com/album/0EjwJIZJGIGxK9AJG1KFmN"
+      },
+      "artists": [
+        {
+          "name": "SUPERBEE",
+          "url": "https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb"
+        }
+      ],
+      "duration_ms": 271937,
+      "name": "+82 Bars",
+      "url": "https://open.spotify.com/track/2J5fF0d4ePNQfPRIS1LGJU"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -4475,6 +4475,22 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
+        "name": "BENZO",
+        "url": "https://open.spotify.com/album/0BW5t9qhzscspZ6ozozmOa"
+      },
+      "artists": [
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "BENZO",
+      "url": "https://open.spotify.com/track/6rhq5U4vBZ90GpzhodA9rz"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
         "name": "Show Me the Money 6 Episode 4",
         "url": "https://open.spotify.com/album/7a6hpckd7RLWTbPZY2Ek8B"
       },
@@ -4499,22 +4515,6 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "BENZO",
-        "url": "https://open.spotify.com/album/0BW5t9qhzscspZ6ozozmOa"
-      },
-      "artists": [
-        {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "BENZO",
-      "url": "https://open.spotify.com/track/6rhq5U4vBZ90GpzhodA9rz"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
         "name": "Street Woman Fighter(SWF) Special",
         "url": "https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6"
       },
@@ -4531,6 +4531,26 @@
       "duration_ms": 147359,
       "name": "CAVIAR",
       "url": "https://open.spotify.com/track/2aGMvjT2nOUiPM5IcHrCR5"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
+        "name": "puzzle",
+        "url": "https://open.spotify.com/album/4MiWaeBW3TtFZ0ufwEZYw8"
+      },
+      "artists": [
+        {
+          "name": "C JAMM",
+          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
+        },
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        }
+      ],
+      "duration_ms": 261920,
+      "name": "puzzle",
+      "url": "https://open.spotify.com/track/3kJjYTtOQPiVSr1UNEqM0u"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -4575,22 +4595,26 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "puzzle",
-        "url": "https://open.spotify.com/album/4MiWaeBW3TtFZ0ufwEZYw8"
+        "name": "Show Me The Money 10 Semi Final",
+        "url": "https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP"
       },
       "artists": [
         {
-          "name": "C JAMM",
-          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
+          "name": "sokodomo",
+          "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
         },
         {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        },
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
         }
       ],
-      "duration_ms": 261920,
-      "name": "puzzle",
-      "url": "https://open.spotify.com/track/3kJjYTtOQPiVSr1UNEqM0u"
+      "duration_ms": 256450,
+      "name": "BE ! (Feat. Paloalto, lIlBOI) (Prod. PEEJAY & Slom)",
+      "url": "https://open.spotify.com/track/6oKcSOOwqdyNjyL4HiviRH"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -4615,30 +4639,6 @@
       "duration_ms": 279786,
       "name": "Waterbomb (Feat. Gaeko, Nucksal) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/4iMaBhUaR1xfkobeLEEQyx"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
-        "name": "Show Me The Money 10 Semi Final",
-        "url": "https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP"
-      },
-      "artists": [
-        {
-          "name": "sokodomo",
-          "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
-        },
-        {
-          "name": "Paloalto",
-          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
-        },
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        }
-      ],
-      "duration_ms": 256450,
-      "name": "BE ! (Feat. Paloalto, lIlBOI) (Prod. PEEJAY & Slom)",
-      "url": "https://open.spotify.com/track/6oKcSOOwqdyNjyL4HiviRH"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -4679,6 +4679,22 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
+        "name": "RACE",
+        "url": "https://open.spotify.com/album/6fa2O5Ph59LzOm0N4hiFwL"
+      },
+      "artists": [
+        {
+          "name": "BANG YONGGUK",
+          "url": "https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "RACE",
+      "url": "https://open.spotify.com/track/6ZRDqsJlFXzbIquKhaMdQe"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
         "name": "Show Me the Money 777 Episode 4",
         "url": "https://open.spotify.com/album/5gAOt24yKsdtpKRj7S0IDH"
       },
@@ -4691,22 +4707,6 @@
       "duration_ms": 225789,
       "name": "GOD GOD GOD",
       "url": "https://open.spotify.com/track/00YvEZqYSsmODe0zR6Ftep"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
-        "name": "LUCKY MAN",
-        "url": "https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e"
-      },
-      "artists": [
-        {
-          "name": "BOBBY",
-          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
-        }
-      ],
-      "duration_ms": 185996,
-      "name": "RocKstaR",
-      "url": "https://open.spotify.com/track/3aEDqRYIXcFsUrnNVY5Q5g"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -4731,38 +4731,18 @@
     {
       "added_at": "2023-04-14 10:46:46",
       "album": {
-        "name": "Trapstar Lifestyle",
-        "url": "https://open.spotify.com/album/45MJvGUTE2xSbFbeAvkFiY"
+        "name": "LUCKY MAN",
+        "url": "https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e"
       },
       "artists": [
         {
-          "name": "lobonabeat!",
-          "url": "https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva"
-        },
-        {
-          "name": "oygli",
-          "url": "https://open.spotify.com/artist/1xOiGoYkm1zgqwXLsvQA90"
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Young Boy (Feat. oygli)",
-      "url": "https://open.spotify.com/track/47QBxoKfR7WCXdJbkcGE2G"
-    },
-    {
-      "added_at": "2023-04-14 10:46:46",
-      "album": {
-        "name": "Minamdang (Original Television Soundtrack, Pt. 1)",
-        "url": "https://open.spotify.com/album/6KSJrdypDxR06zSkhTEK1i"
-      },
-      "artists": [
-        {
-          "name": "Gwangil Jo",
-          "url": "https://open.spotify.com/artist/49cCO8Hy5heGnXj9hb6KEW"
-        }
-      ],
-      "duration_ms": 180200,
-      "name": "Ghost Buster",
-      "url": "https://open.spotify.com/track/71nySQ4RntwCMUFZu29m1d"
+      "duration_ms": 185996,
+      "name": "RocKstaR",
+      "url": "https://open.spotify.com/track/3aEDqRYIXcFsUrnNVY5Q5g"
     },
     {
       "added_at": "2023-04-14 10:46:46",
@@ -4783,6 +4763,106 @@
       "duration_ms": 221826,
       "name": "Cheap talk (Feat. JUSTHIS) (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/31l7az7JT4boi5BjUth78k"
+    },
+    {
+      "added_at": "2023-04-14 10:46:46",
+      "album": {
+        "name": "G+Jus",
+        "url": "https://open.spotify.com/album/1j54pJLJwyvWWitfseFlBm"
+      },
+      "artists": [
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        },
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Munchman",
+          "url": "https://open.spotify.com/artist/7u2Nz7Bj2vbCps9AH5q6do"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        },
+        {
+          "name": "Louie",
+          "url": "https://open.spotify.com/artist/2SRltxyojqsV8eZKlelwN1"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Ourealgoat",
+          "url": "https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1"
+        },
+        {
+          "name": "Dbo",
+          "url": "https://open.spotify.com/artist/7pMFAOPNBL5beBLW4Pohst"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        },
+        {
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+        },
+        {
+          "name": "Nudeboi Seo",
+          "url": "https://open.spotify.com/artist/6NqaQISMEWl5gtHdKMWZGu"
+        },
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "Blase",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        },
+        {
+          "name": "sokodomo",
+          "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
+        },
+        {
+          "name": "Khundi Panda",
+          "url": "https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU"
+        },
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        },
+        {
+          "name": "Khakii",
+          "url": "https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA"
+        }
+      ],
+      "duration_ms": 689466,
+      "name": "Achoo Remix",
+      "url": "https://open.spotify.com/track/40oPzn3XgquFNnQWnwLz5A"
     }
   ],
   "unique_name": "K`illin'",

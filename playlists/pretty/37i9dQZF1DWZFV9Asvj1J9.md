@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFV9Asvj1J9.md) - [plain]
 
 > Our editorial picks for best hip\-hop songs of the year!<br/>Cover: Future
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,667 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,651 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

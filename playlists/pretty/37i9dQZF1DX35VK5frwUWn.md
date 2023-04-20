@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35VK5frwUWn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/rjbarrett/">RJ Barrett</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,118 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,125 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35VK5frwUWn.md) - [plain]
 | 25 | [Sharing Locations \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/3J4VKkUpLvomXJbn9ZAypO) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sharing Locations \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/album/0q6qOUfC4ikWtv62KCnoip) | 2:41 |
 | 26 | [Soul Survivor](https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Let's Get It: Thug Motivation 101](https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN) | 4:40 |
 | 27 | [Commercial \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/3tDqEKKUs6gf8zMvSuLyLA) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:34 |
-| 28 | [See Wat I’m Sayin](https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [See Wat I’m Sayin](https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R) | 2:26 |
-| 29 | [9 5 \. s o u t h](https://open.spotify.com/track/5R691ipUYRDYW6ehapjoj6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:16 |
+| 28 | [9 5 \. s o u t h](https://open.spotify.com/track/5R691ipUYRDYW6ehapjoj6) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:16 |
+| 29 | [See Wat I’m Sayin](https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [See Wat I’m Sayin](https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R) | 2:26 |
 | 30 | [Check](https://open.spotify.com/track/1jk9c0gZI0wbn5GvAj7PBV) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Barter 6](https://open.spotify.com/album/0BsMZIueWsJLWng8A7sE8e) | 3:50 |
 | 31 | [712PM](https://open.spotify.com/track/3FSwpQ9dBZBeBV6UdYHI2R) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 2:53 |
 | 32 | [Freddy Krueger \(feat\. Tee Grizzley\)](https://open.spotify.com/track/0hwkukpHcBJfGcIUxi1tK2) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Freddy Krueger \(feat\. Tee Grizzley\)](https://open.spotify.com/album/1RyJuFvHB1mIKGjynj533c) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35VK5frwUWn.md) - [plain]
 | 49 | [Best Friend](https://open.spotify.com/track/33JcUj9qQDayKswunZP9ar) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Best Friend](https://open.spotify.com/album/4YqXHbPtEXINS3CBtKfCyO) | 3:33 |
 | 50 | [No Worries](https://open.spotify.com/track/6bdFbw9THAMceZtkPWXu8e) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Detail](https://open.spotify.com/artist/4sglKanXuoU0gqGYP3wiNv) | [I Am Not A Human Being II \(Deluxe\)](https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK) | 3:42 |
 
-Snapshot ID: `MTY2NzI3NTIwMCwwMDAwMDAwMDRjMTU0OTBmNjM0NWFhZTc1OWNlYWQ1ZGIwYTA0NThk`
+Snapshot ID: `MTY2NzI3NTIwMCwwMDAwMDAwMGM4ZjkzYTkxMjAzZWMyM2VjODc1YTRlNTEwODgzMDQx`

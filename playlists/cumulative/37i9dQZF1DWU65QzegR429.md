@@ -2,7 +2,7 @@
 
 ### [Latin Frequency](https://open.spotify.com/playlist/37i9dQZF1DWU65QzegR429)
 
-> Latin music making waves\. Cover: Myke Towers by Ian Woods
+> Latin music making waves.
 
 157 songs - 8 hr 18 min
 
@@ -92,7 +92,7 @@
 | [Matadero](https://open.spotify.com/track/54ltC7BVfgNdk7PHq9rdjX) | [Yongel](https://open.spotify.com/artist/1Y2phPkZoEdryvIeit9Hud), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Matadero](https://open.spotify.com/album/0T8wEMb6B48Au06hjXb73M) | 3:17 | 2022-02-18 | 2022-06-03 |
 | [Maya](https://open.spotify.com/track/0FcOIIBRs6eW2YGonS4z9r) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [Maya](https://open.spotify.com/album/7pXHSP4BzhDOQvm6W3k00v) | 3:07 | 2023-02-10 |  |
 | [Me Siento Orgulloso](https://open.spotify.com/track/7vT4bUhhwTBZzUkO9iXU3X) | [Secreto "El Famoso Biberon"](https://open.spotify.com/artist/37UACiDcdzEYii0iU0QpAf), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [Davis Daniel](https://open.spotify.com/artist/0QcBwdBPnkfD4Y7XOMlENy) | [Me Siento Orgulloso](https://open.spotify.com/album/5oy9mS9CCWSYBGJr0mktbS) | 3:29 | 2022-02-18 | 2022-06-03 |
-| [MI DROGA](https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:43 | 2023-04-04 |  |
+| [MI DROGA](https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:43 | 2023-04-03 |  |
 | [Mi Regalo Mas Bonito](https://open.spotify.com/track/3JgGutjAwNXGAxcXaqVgWe) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Mi Regalo Mas Bonito](https://open.spotify.com/album/6DPhumayXNmnw4woMnSNk9) | 2:31 | 2023-02-10 |  |
 | [MIA BEACH](https://open.spotify.com/track/0boJB2GJMiCGbKr9ePpc9A) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [MIA BEACH](https://open.spotify.com/album/0pudiCC5zZUOicTxpLUFYB) | 3:18 | 2022-02-18 | 2023-02-11 |
 | [Mirame Ahora](https://open.spotify.com/track/197t3d2KORVSbnhxeWqYQf) | [Calma Carmona](https://open.spotify.com/artist/3cwyykLjgXZ09CV661ZO8q) | [MICRODOSIS](https://open.spotify.com/album/5xzr5tWqMTfBr55QGsJjzR) | 3:12 | 2022-02-18 | 2022-06-03 |
@@ -119,7 +119,7 @@
 | [Para Mi](https://open.spotify.com/track/4DW0XUPnGT6hWuJYZxErVX) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Para Mi](https://open.spotify.com/album/4xALKUOR6fodvNlUKaOHti) | 3:37 | 2022-06-02 |  |
 | [Peaches \- Spanish Version](https://open.spotify.com/track/5Gg3EdgGgaUq8G3hZEm7Eu) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [Tivi Gunz](https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI) | [Peaches \(Spanish Version\)](https://open.spotify.com/album/2BtIZr7suRdwZIZB5KdI6m) | 2:57 | 2022-02-18 | 2022-06-03 |
 | [Peligroso](https://open.spotify.com/track/2WRCmqSUVWpVZNeZ1u7njt) | [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [Peligroso](https://open.spotify.com/album/6QIrGcDvMIooPaTOXLXk1Q) | 2:48 | 2023-02-27 |  |
-| [Perdida](https://open.spotify.com/track/0S1a5taT51Mk1WVx1IwuFp) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Tibro](https://open.spotify.com/album/1ydYjSifTmO14cEY8l1eij) | 2:32 | 2023-04-04 |  |
+| [Perdida](https://open.spotify.com/track/0S1a5taT51Mk1WVx1IwuFp) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Tibro](https://open.spotify.com/album/1ydYjSifTmO14cEY8l1eij) | 2:32 | 2023-04-03 |  |
 | [Perfume](https://open.spotify.com/track/2UxCHjxmGN6X4oiBfWKM0c) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot \(Extended Version\)](https://open.spotify.com/album/75DDvdNMm1S83v3iefTbtu) | 3:12 | 2022-06-02 | 2023-02-11 |
 | [Pimpin' Smokin' Dro](https://open.spotify.com/track/4Q516psr4tSjGBrNbq2BHo) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [Pimpin' Smokin' Dro](https://open.spotify.com/album/7HM5lsCIeSuuxL3iD5hEXJ) | 3:50 | 2023-02-27 |  |
 | [PIN PIN](https://open.spotify.com/track/51tMYALx6Lkrte41DoWIPq) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 2:39 | 2022-02-18 | 2023-02-11 |
@@ -133,7 +133,7 @@
 | [Se Acabó \(feat\. Mozart La Para\)](https://open.spotify.com/track/13N9dHnUuR0W5MvzFYko5a) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Se Acabó \(feat\. Mozart La Para\)](https://open.spotify.com/album/6PIadmxdguUf7r0EZtxlMr) | 3:06 | 2022-02-18 | 2022-06-03 |
 | [Se Me Nota \(Agarrame\) \- Prod by B\-One](https://open.spotify.com/track/2E6BB9DvlEltjJfjSJLzFS) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Se Me Nota \(Agarrame\)](https://open.spotify.com/album/7gdOCnWo5AtbjLxf5g58Re) | 3:00 | 2023-02-10 |  |
 | [Señor Juez](https://open.spotify.com/track/2PH533J1xudlfZ5GaHAdVX) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Señor Juez](https://open.spotify.com/album/7jAArelViCK8oA7Anmlw5v) | 4:24 | 2022-02-18 | 2022-06-03 |
-| [Si La Calle Llama \- Remix](https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 4:00 | 2023-04-04 |  |
+| [Si La Calle Llama \- Remix](https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 4:00 | 2023-04-03 |  |
 | [Si Tu Quieres](https://open.spotify.com/track/3yC4gzNRrycuufTcRPSRx2) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [Si Tu Quieres](https://open.spotify.com/album/6uRf20wqSSfYmjwSC6wuYT) | 2:49 | 2022-02-18 |  |
 | [Si Veo a Tu Mama](https://open.spotify.com/track/2tf7mh67EHpNwlYaXV7jfz) | [Rauli V](https://open.spotify.com/artist/1TyllKWCaozGr3Ytrw95FG) | [Renditions](https://open.spotify.com/album/6dixzwmH9yxhoEzn43lwVa) | 2:53 | 2022-02-18 | 2022-06-01 |
 | [Sigue y Sigue](https://open.spotify.com/track/35orhhCkn3yT4Ijbb9gdxA) | [Jenn Morel](https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a) | [Sigue y Sigue](https://open.spotify.com/album/2UyuskfWq1BFbUKutvE3jS) | 2:26 | 2022-06-02 | 2023-02-11 |

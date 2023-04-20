@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > un cuore così 💔  \(in cover, solø\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,181 likes - 100 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,198 likes - 100 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 26 | [Tutto o niente 2](https://open.spotify.com/track/2VPm4NZZKroOssZ9TReJ6d) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [Tutto o niente 2](https://open.spotify.com/album/4F8Tln7lzrOD992Ft8tK7d) | 2:23 |
 | 27 | [SPECCHIO \(interludio\)](https://open.spotify.com/track/4ipopm8ZXDTY9a03gs2M5j) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [SPECCHIO](https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3) | 1:31 |
 | 28 | [È Andata Così](https://open.spotify.com/track/47jPZoeY2hgKA4Y4Zk3etW) | [Aiden](https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3) | [È Andata Così](https://open.spotify.com/album/7AdlQyoaGhS0pLTYKaBR7B) | 3:52 |
-| 29 | [Due anni fa](https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Due anni fa](https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7) | 2:40 |
-| 30 | [ALESSIA](https://open.spotify.com/track/4q0yteddAlr8X9MAv1GDXQ) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [ALESSIA](https://open.spotify.com/album/2vcA80mMkhOmL3hi2xrMo2) | 2:24 |
+| 29 | [ALESSIA](https://open.spotify.com/track/4q0yteddAlr8X9MAv1GDXQ) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [ALESSIA](https://open.spotify.com/album/2vcA80mMkhOmL3hi2xrMo2) | 2:24 |
+| 30 | [Due anni fa](https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Due anni fa](https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7) | 2:40 |
 | 31 | [Volevo dirti](https://open.spotify.com/track/4DGL38YHhXeoZehaVdoICU) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Volevo dirti](https://open.spotify.com/album/2uHvJYoHJbcC4rwcdqSgZM) | 3:01 |
 | 32 | [Mancati](https://open.spotify.com/track/60UVz0g8KAyj6gh2GfqKtb) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Mancati](https://open.spotify.com/album/5MkNbHFLjWH6vACWum4hAT) | 1:52 |
 | 33 | [Dove sei??](https://open.spotify.com/track/4sDryJaxNbgbucTleahrXE) | [Agon](https://open.spotify.com/artist/1LHVbos3OPyt6XN52RvTJK) | [Dove sei??](https://open.spotify.com/album/647emruUfFnCax2xaYKh6N) | 3:01 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 42 | [Campi Elisi](https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [Campi Elisi](https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT) | 2:57 |
 | 43 | [Cose stupide](https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 3:06 |
 | 44 | [Autopsia](https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Autopsia](https://open.spotify.com/album/01bwlYW15thIL49JrwibKC) | 3:28 |
-| 45 | [SOGNI](https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0) | [Zoda](https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB) | [AUTORITRATTO](https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712) | 2:13 |
-| 46 | [Hasta la Muerte](https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Hasta la Muerte](https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0) | 2:00 |
+| 45 | [Hasta la Muerte](https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Hasta la Muerte](https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0) | 2:00 |
+| 46 | [SOGNI](https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0) | [Zoda](https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB) | [AUTORITRATTO](https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712) | 2:13 |
 | 47 | [\(SEMBRA BELLO\)](https://open.spotify.com/track/6l5doB3A29SS3h0SVL8x1W) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 1:56 |
 | 48 | [pensieri brutti](https://open.spotify.com/track/49i5H63uLE5DBU13KDc5eA) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [nostalgia liquida](https://open.spotify.com/album/7KiMMxjH4YYmYk2JuQtfe0) | 2:31 |
 | 49 | [Ceramica](https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa), [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Ceramica](https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD) | 3:13 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 51 | [Letto grande](https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn) | [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Fedesse](https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC) | [Letto grande](https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC) | 3:31 |
 | 52 | [Non Mi Passa](https://open.spotify.com/track/1ZukPve2ImtM1f1ZbD9ATQ) | [Zeta](https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP) | [Non Mi Passa](https://open.spotify.com/album/4hDPcR2QtJ6o9uAh2UEmxh) | 2:16 |
 | 53 | [Aurora](https://open.spotify.com/track/5yhmgsfH8EhS0mAOIb1n6T) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [Lil Sanax](https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI) | [Aurora](https://open.spotify.com/album/43ynx05t8Kyc34nLqcrCB9) | 2:54 |
-| 54 | [L'effetto che mi fai](https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [L'effetto che mi fai](https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx) | 2:54 |
-| 55 | [Amsterdam](https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [OSIRIDE](https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq) | 3:20 |
+| 54 | [Amsterdam](https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [OSIRIDE](https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq) | 3:20 |
+| 55 | [L'effetto che mi fai](https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [L'effetto che mi fai](https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx) | 2:54 |
 | 56 | [solo polvere.](https://open.spotify.com/track/7gTd5z0K5FjcXyOnDSkcqc) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [PROLOGO](https://open.spotify.com/album/3zMx1otz8AGfuZ7bQ4JMhL) | 3:13 |
 | 57 | [Winston Blue](https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i) | [WECH PUTO](https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK) | [Winston Blue](https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT) | 2:31 |
 | 58 | [Hai fatto tardi](https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Hai fatto tardi](https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m) | 2:52 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 60 | [I CAN FLY](https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [MOVIMENTO + THE DAY AFTER](https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG) | 2:19 |
 | 61 | [Devil May Cry](https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs) | [Alelock](https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt), [Gaglianone](https://open.spotify.com/artist/3Kborlyf9Zfl8JNELvN5rn) | [Devil May Cry](https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA) | 2:28 |
 | 62 | [Come mi vuoi](https://open.spotify.com/track/6Isz6e91LJDEFDg88FHKKE) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB), [EDN](https://open.spotify.com/artist/2FfgO1FC4Bp1snTrGYZz9u) | [Come mi vuoi](https://open.spotify.com/album/1WfCPHnRKs9wcXVQ9yHZQY) | 3:02 |
-| 63 | [Ricordi](https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Amor proprio](https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08) | 1:49 |
-| 64 | [Mille Pezzi](https://open.spotify.com/track/6t1XiG2eJ6MtchAdieG8Zn) | [TB](https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN) | [Mille Pezzi](https://open.spotify.com/album/6O9TdMLd0pOmHz8Sh690JF) | 3:06 |
+| 63 | [Mille Pezzi](https://open.spotify.com/track/6t1XiG2eJ6MtchAdieG8Zn) | [TB](https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN) | [Mille Pezzi](https://open.spotify.com/album/6O9TdMLd0pOmHz8Sh690JF) | 3:06 |
+| 64 | [Ricordi](https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Amor proprio](https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08) | 1:49 |
 | 65 | [APNEA \- MTV Unplugged](https://open.spotify.com/track/3DP8cUzSO9tJx7tGShuS4c) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [TAXI DRIVER \(MTV Unplugged\)](https://open.spotify.com/album/3cZPj6lCLw8aia3nAiNKo8) | 3:25 |
 | 66 | [Acqua salata](https://open.spotify.com/track/0OghnnKcBKwlKlGdNVhbXS) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Acqua salata](https://open.spotify.com/album/08yGuN1G7NZ2go5RTHbycv) | 3:49 |
 | 67 | [Dimmi se sbaglio](https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT) | [Bada1](https://open.spotify.com/artist/5zMbRhhGvqWvCqCrs05YSb), [Matris](https://open.spotify.com/artist/5x5Qyt62T7QZNltmoEyshL) | [Dimmi se sbaglio](https://open.spotify.com/album/2NBmYkv65CNjS3n3ZCIirh) | 2:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 99 | [18 agosto](https://open.spotify.com/track/7oqehpNeFvWuVxAdqX7ocb) | [Loshinigami](https://open.spotify.com/artist/0zhf6EEDeRFf3B1d1Ck4Tq) | [18 agosto](https://open.spotify.com/album/5fqSGKBJyhYTDp5wZhh1Sc) | 2:25 |
 | 100 | [Polvere 2 \- Piano Version](https://open.spotify.com/track/43SCnZKrexM5T7C8AlsDBk) | [LXX Blood](https://open.spotify.com/artist/01JV7meMCVebgwpU2UN0h5), [Naima Blood](https://open.spotify.com/artist/4PK1VPNg3zWSbIK4SboMa9) | [Polvere 2 \(Piano Version\)](https://open.spotify.com/album/444H1b2kQtSy0elVuls7kG) | 1:52 |
 
-Snapshot ID: `MTY4MTgwMjUyMiwwMDAwMDAwMDRjMzZhMzIwYzEzMjFlOTcyZmI0OWI0MWVhNzczZmQy`
+Snapshot ID: `MTY4MTgwMjUyMiwwMDAwMDAwMDhmOWVmOWI4NzIzMTVmNjUyNjI3MGYzOGY1MGU5Njk2`

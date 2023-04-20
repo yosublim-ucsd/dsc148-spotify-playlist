@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Goditi l'aperitivo in compagnia e con la colonna sonora ideale!
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,098 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,108 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 15 | [Wicked Hearts](https://open.spotify.com/track/0iYdflVjQStuXFDspvUFrp) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD), [Jamie Hartman](https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo) | [Wicked Hearts](https://open.spotify.com/album/1NJTTkpZZoPGaCv3V7Q8pk) | 3:09 |
 | 16 | [All The Wild Things](https://open.spotify.com/track/6dts1ns58gm8pXv8EnJaYZ) | [Lylos](https://open.spotify.com/artist/5atRFMjItKzpYWYW1yVMoR) | [All The Wild Things](https://open.spotify.com/album/6cgWG2hgYYjxfx7MH5lYrc) | 3:30 |
 | 17 | [Best Part Of us](https://open.spotify.com/track/0t8zIi7cwdADvWmkIWE1sp) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Best Part Of Us](https://open.spotify.com/album/431OaLkgYn4TJU2JynSAJm) | 4:01 |
-| 18 | [The Look of Love](https://open.spotify.com/track/0qNZFUSRdjlELqeyxegq6A) | [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [The Look of Love](https://open.spotify.com/album/0R02lR8xPS4sCXZMSDoLEf) | 3:14 |
+| 18 | [Save Tonight](https://open.spotify.com/track/0DCjHnHogCFxuqrOZr6Bev) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [Save Tonight](https://open.spotify.com/album/4wh4tP75sFxIjXEKaCoQu0) | 3:18 |
 | 19 | [Before the Parade](https://open.spotify.com/track/59toTGL3M0Qyhl8UsWlZbM) | [The Lancelot](https://open.spotify.com/artist/3wy6NtyqVhXqpm32LHZNNJ) | [Before the Parade](https://open.spotify.com/album/1KuuarXiaBMsTySJ3IFB8J) | 3:55 |
 | 20 | [Heartbeat](https://open.spotify.com/track/5R6YdiE4n2U1SVQ2UgIcqK) | [Tom Garrick](https://open.spotify.com/artist/6pornfCIACcxUzhUcbDBFc) | [Heartbeat](https://open.spotify.com/album/2C5N1RcQcaY3Fx5Q3kiWkk) | 2:56 |
 | 21 | [Keep On It](https://open.spotify.com/track/3Wwmq8WUjZoDmzcZ5EJriJ) | [Mar Vei](https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI) | [Keep On It](https://open.spotify.com/album/4KID8UGDvhjy4hovwiBAWJ) | 4:17 |
 | 22 | [Amahlaya](https://open.spotify.com/track/3j4EQU3yN45Ai6wyAi9ou1) | [RaFa Orchestra](https://open.spotify.com/artist/1Rjd6BlZRbO3RVubcxvips) | [Amahlaya](https://open.spotify.com/album/4CsTJUpctD7bqZLgXujIeD) | 3:28 |
-| 23 | [Save Tonight](https://open.spotify.com/track/0DCjHnHogCFxuqrOZr6Bev) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [Save Tonight](https://open.spotify.com/album/4wh4tP75sFxIjXEKaCoQu0) | 3:18 |
+| 23 | [The Look of Love](https://open.spotify.com/track/0qNZFUSRdjlELqeyxegq6A) | [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [The Look of Love](https://open.spotify.com/album/0R02lR8xPS4sCXZMSDoLEf) | 3:14 |
 | 24 | [The Ghost in Your Smile](https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [The Ghost in Your Smile](https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa) | 3:14 |
 | 25 | [Smiles](https://open.spotify.com/track/2mO1SkhHswRTVKkuC4ou4M) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [The Night](https://open.spotify.com/album/3CMGHBzxZ3zelIEgQ8yjiV) | 3:06 |
 | 26 | [It's alright](https://open.spotify.com/track/4S1ApI9K5p6mAW1aKQ6f9d) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [It's alright](https://open.spotify.com/album/7cWCWMMAcUGHDEfcMgCJML) | 3:16 |
@@ -49,24 +49,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 39 | [Movement](https://open.spotify.com/track/6WKynwuNv6tsxlFsnWYkQn) | [Lylos](https://open.spotify.com/artist/5atRFMjItKzpYWYW1yVMoR) | [Movement](https://open.spotify.com/album/1uuViGWUYCNyHgaTan5oVk) | 2:52 |
 | 40 | [Never Gonna Give You Up](https://open.spotify.com/track/5fnDDcjcXKUvJ6iSnpiU0v) | [Mac Beez](https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds) | [Never Gonna Give You Up](https://open.spotify.com/album/1fWMQOAKIqdgzQgE311HK8) | 3:32 |
 | 41 | [Slow Me Down](https://open.spotify.com/track/7mgNqxpTacR6b338g5dEsA) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Slow Me Down](https://open.spotify.com/album/6G6J9h3VIXK36rmAIa8EL3) | 3:39 |
-| 42 | [Feel The Heat](https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i) | [Bon Lui](https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg) | [Feel The Heat](https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6) | 5:19 |
-| 43 | [Violet Breeze](https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:09 |
+| 42 | [Violet Breeze](https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:09 |
+| 43 | [Feel The Heat](https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i) | [Bon Lui](https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg) | [Feel The Heat](https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6) | 5:19 |
 | 44 | [Don't Ever Wonder](https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6) | [Linae](https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4) | [Don't Ever Wonder](https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG) | 2:27 |
-| 45 | [Nuit d'Afrique](https://open.spotify.com/track/4PyABgWf1yG2B2DxwjR1Bi) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9), [Adrien \(CA\)](https://open.spotify.com/artist/6Rqtg9oAMaZmwcN0gN5UNQ) | [Kindisch Presents: Kindisch Steps VI](https://open.spotify.com/album/4qYhEGnOCZSB01SrTtgmdy) | 11:59 |
-| 46 | [All Good](https://open.spotify.com/track/7szWO6GcxVU1lkWWLfpeyI) | [Crade](https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM) | [All Good](https://open.spotify.com/album/74Nnte7VwlaN2zfqX7OL2G) | 3:16 |
+| 45 | [All Good](https://open.spotify.com/track/7szWO6GcxVU1lkWWLfpeyI) | [Crade](https://open.spotify.com/artist/0sv3Ei5QResLibVKGeW1HM) | [All Good](https://open.spotify.com/album/74Nnte7VwlaN2zfqX7OL2G) | 3:16 |
+| 46 | [Nuit d'Afrique](https://open.spotify.com/track/4PyABgWf1yG2B2DxwjR1Bi) | [Kora \(CA\)](https://open.spotify.com/artist/7lHiOFpepHokhLTy6PNAL9), [Adrien \(CA\)](https://open.spotify.com/artist/6Rqtg9oAMaZmwcN0gN5UNQ) | [Kindisch Presents: Kindisch Steps VI](https://open.spotify.com/album/4qYhEGnOCZSB01SrTtgmdy) | 11:59 |
 | 47 | [Summer Vibe](https://open.spotify.com/track/1yt8EixTRCkF6TNPpqJ3Dv) | [Tomas Skyldeberg](https://open.spotify.com/artist/3yeLWKlxZaq5grWz85s0Ef) | [Everything Shines](https://open.spotify.com/album/30bj9NZcR0IteDzn5zvsx7) | 2:59 |
 | 48 | [Elephant & Castle](https://open.spotify.com/track/694EKGkpww46ejk4jyzYM0) | [Wilmer Woo](https://open.spotify.com/artist/6vaY3CMHKyCfQ4JKsg9mJk) | [Elephant & Castle](https://open.spotify.com/album/7kRY9tH9BPnAQ9eoA0bs6v) | 3:06 |
 | 49 | [Stranded](https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w) | [Art of November](https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq) | [Stranded](https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT) | 3:49 |
 | 50 | [Make It Work](https://open.spotify.com/track/20bIVbHo1YmaG11l3Y3NnP) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Make It Work](https://open.spotify.com/album/6Ga7bHYIzazaFPfdbluAO9) | 2:49 |
-| 51 | [Follow the Sun](https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [Follow the Sun](https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt) | 4:03 |
-| 52 | [Rooftop](https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM) | [Tabú](https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3) | [Rooftop](https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD) | 3:40 |
+| 51 | [Rooftop](https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM) | [Tabú](https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3) | [Rooftop](https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD) | 3:40 |
+| 52 | [Follow the Sun](https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [Follow the Sun](https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt) | 4:03 |
 | 53 | [Kiwi](https://open.spotify.com/track/7Cv5wO85eL2sc7KpXTrIlM) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Purple Summer](https://open.spotify.com/album/6k4cdjwYJ7qm7n1g5CcMV7) | 3:52 |
 | 54 | [Hold On](https://open.spotify.com/track/7KKfvDIIyl6tqeXADXah6W) | [Mac Beez](https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds) | [Hold On](https://open.spotify.com/album/2ZFRC28tWKrAIQtbTIaWAC) | 3:44 |
 | 55 | [Carneiros Beach](https://open.spotify.com/track/33NG5U8673kHJAS249qbFb) | [Carlos Robalinho](https://open.spotify.com/artist/1lyeueezpzyh7J2w3tMoXO) | [Carneiros Beach](https://open.spotify.com/album/2gwvYh1RlW9TtkmYb2Qtyo) | 3:42 |
 | 56 | [Wishing Well \(feat\. Olivia Sebastianelli\)](https://open.spotify.com/track/7uqS1gGcgWD0wiiKttEmyp) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [Sunrise To Sunset](https://open.spotify.com/album/4QyylR4pPcWRpp3U2gkPcd) | 3:06 |
 | 57 | [Esmeralda](https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e) | [Samba Twins](https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X) | [Esmeralda](https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0) | 3:54 |
-| 58 | [Bloom](https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Bloom](https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT) | 3:38 |
-| 59 | [Surf The Orange Water](https://open.spotify.com/track/2bkUVv8OYDOSkV6ElMafd2) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:06 |
+| 58 | [Surf The Orange Water](https://open.spotify.com/track/2bkUVv8OYDOSkV6ElMafd2) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:06 |
+| 59 | [Bloom](https://open.spotify.com/track/0mi3tBUwtdYwXCFdZ6QHAZ) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Bloom](https://open.spotify.com/album/6DRSizkWFTohOLptBgR2cT) | 3:38 |
 | 60 | [Girl](https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Girl](https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG) | 7:31 |
 
-Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMDRlMzFhYTU0MzU3NmRkOGM0YTcwYWVlZWY5N2Q2YmEz`
+Snapshot ID: `MTY2MTg2MjE5NCwwMDAwMDAwMDY4OTRkODQ5YTY4NjFkMjAzZjc5ODhkYzBhZTFkNDg3`

@@ -4,7 +4,7 @@
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: Madi Diaz
 
-156 songs - 9 hr 22 min
+157 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [charades](https://open.spotify.com/track/0CfyUqkj68lJXnWBsziP6V) | [Misty Boyce](https://open.spotify.com/artist/3QxHPvnw4NfrfEaqWlBjqN) | [genesis](https://open.spotify.com/album/2CxTdEDSHr7GUqfWqaryXg) | 3:31 | 2021-03-02 | 2022-07-29 |
 | [Control](https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note to Self](https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR) | 3:30 | 2022-03-08 |  |
 | [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 | 2021-03-02 |  |
-| [Cost of the Cold](https://open.spotify.com/track/0kjbF89Ff6zfL7B6BKBC8Z) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [Cost of the Cold b/w Here and Whole](https://open.spotify.com/album/6I4CXFR73mmZKrSxjcl6xs) | 3:50 | 2023-03-08 |  |
+| [Cost of the Cold](https://open.spotify.com/track/0kjbF89Ff6zfL7B6BKBC8Z) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [Cost of the Cold b/w Here and Whole](https://open.spotify.com/album/6I4CXFR73mmZKrSxjcl6xs) | 3:50 | 2023-03-08 | 2023-04-20 |
 | [Crater Lake](https://open.spotify.com/track/1lat1ihaU57L6V7s15SQXz) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Tender Warriors Club](https://open.spotify.com/album/6G895evPj3YPFAp7SZtEAg) | 1:54 | 2021-03-02 | 2022-07-29 |
 | [Crater Lake](https://open.spotify.com/track/7K0QvWgBNLf52UHhJxDJD0) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Tender Warriors Club](https://open.spotify.com/album/1RLAlQJk8qjwmd32hManwM) | 1:54 | 2021-03-02 |  |
 | [Crooked Tree](https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:52 | 2023-03-08 |  |
@@ -130,6 +130,7 @@
 | [Side Effects](https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:43 | 2021-03-02 |  |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-03-08 |  |
 | [Sober](https://open.spotify.com/track/3fTokbLfwqwi5cMZmGcI4b) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Choices](https://open.spotify.com/album/6zE8tiHOsAe74bv0VJIYX5) | 3:02 | 2021-03-02 | 2022-07-29 |
+| [Something to Say](https://open.spotify.com/track/47mOzOEYwFvW3JMMiKxCuX) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/0YsriZcAj8N6y89yav2GXl) | 3:38 | 2023-03-08 |  |
 | [Something to Say](https://open.spotify.com/track/5DvEC80DSVY64U1X5L2dmz) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/4UHTfYKYUIK3tRMNCO9VKu) | 3:38 | 2021-03-02 | 2023-03-29 |
 | [Sorry Now](https://open.spotify.com/track/2I0t9apRfrVbkxr8Fym2yf) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Thirties](https://open.spotify.com/album/4ITAxjdVfgevnS8SA4liGZ) | 3:12 | 2021-03-02 |  |
 | [Soundings](https://open.spotify.com/track/0esMQejJS5rGbjbZlEjgkp) | [Elanor Moss](https://open.spotify.com/artist/0zyFWHrZsZXBupeqrDkLtz) | [Soundings](https://open.spotify.com/album/6knZI5Gkp0SvKHpTkwhiTC) | 2:55 | 2022-03-08 | 2022-07-29 |

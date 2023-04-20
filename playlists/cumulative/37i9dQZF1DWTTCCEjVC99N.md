@@ -4,7 +4,7 @@
 
 > Get ready for some serious 00s nostalgia\. Cover : Nancy Ajram
 
-133 songs - 10 hr 17 min
+142 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A'zza A'laya](https://open.spotify.com/track/1e15xzSboc0oEYGxTxrUbc) | [Aline Khalaf](https://open.spotify.com/artist/0oclrFAehAHKcSC41QFabO) | [Best Of Aline Khalaf](https://open.spotify.com/album/5WqSrDBuoz8rpmrjLC0Kdv) | 4:58 | 2023-04-11 |  |
 | [Aam Tethalli](https://open.spotify.com/track/1FhAPKzBgtD2kMot4QfAwl) | [Darine Hadchiti](https://open.spotify.com/artist/3IkEauhflcvpap7UUoXeR2) | [Irtahlak Albi](https://open.spotify.com/album/3yh6BypH1FpcPVpajxbb9Z) | 4:17 | 2023-04-11 |  |
 | [Aayshalak](https://open.spotify.com/track/6wE5bUgyErJTzGBqqbjdGo) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Aayshalak](https://open.spotify.com/album/4iitDZmbi4tg9iCyUVkXY4) | 4:40 | 2021-12-06 |  |
-| [Aghla El Habayeb](https://open.spotify.com/track/1T8BJvWzqm59RIuwQaTob8) | [Nawal Al Zoghbi](https://open.spotify.com/artist/1KqJqf6cDp26AtuXFqrJaK) | [Yama Alo](https://open.spotify.com/album/1MQzDTbIXGBCl0hDS7B0nr) | 4:40 | 2021-12-06 |  |
+| [Aghla El Habayeb](https://open.spotify.com/track/1T8BJvWzqm59RIuwQaTob8) | [Nawal Al Zoghbi](https://open.spotify.com/artist/1KqJqf6cDp26AtuXFqrJaK) | [Yama Alo](https://open.spotify.com/album/1MQzDTbIXGBCl0hDS7B0nr) | 4:40 | 2021-12-06 | 2023-04-20 |
 | [Ah W Noss](https://open.spotify.com/track/0gI3WDESn8BOiol5BxsafH) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Arabic Pop 2022 \- بوب عربي](https://open.spotify.com/album/7sTQmVvf7BldYpxd7CvG4y) | 4:40 | 2021-12-06 | 2022-11-13 |
 | [Ah W Noss](https://open.spotify.com/track/5Z4F0zOGKoYLv8EtBhLzmZ) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Greatest Hits](https://open.spotify.com/album/1iDlgC8iuMM76wnekLCasu) | 4:40 | 2021-12-06 | 2023-03-18 |
 | [Ah W Noss](https://open.spotify.com/track/7ua22AD5CNo8lUDnH6imc1) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [أجمل أغاني نانسي عجرم](https://open.spotify.com/album/2W0VSGqUQZudLnc6drtRAs) | 4:40 | 2023-01-30 |  |
@@ -48,12 +48,14 @@
 | [El Hob El Kebir](https://open.spotify.com/track/093CMFUwvPyFIsjBsVfBPO) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [El Hob El Kebir](https://open.spotify.com/album/1dj55G9LZC4mbe8KaFFmHa) | 5:15 | 2021-12-06 |  |
 | [El Salamou Aleikom](https://open.spotify.com/track/7uVfi1yiAUujJ8TP3jQcNB) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Talakeek](https://open.spotify.com/album/382fYWYWmF1pHlVf0FBma3) | 4:02 | 2021-12-06 |  |
 | [El Wad Albo Beyewga'o](https://open.spotify.com/track/2nFgRNk02oiGaLTmE63mwv) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Kan Zaman](https://open.spotify.com/album/21rR3ItCM20ox0nJ4QqBDi) | 4:07 | 2023-04-11 |  |
-| [Elaab](https://open.spotify.com/track/7yhJW70FP6mmZ96mYdyNve) | [Maria](https://open.spotify.com/artist/6cqgkzXxB4M0vEa4E54gis) | [Elaab](https://open.spotify.com/album/0NcB0GrC9kx17vdXGOOeE3) | 4:13 | 2021-12-06 |  |
+| [Elaab](https://open.spotify.com/track/7yhJW70FP6mmZ96mYdyNve) | [Maria](https://open.spotify.com/artist/6cqgkzXxB4M0vEa4E54gis) | [Elaab](https://open.spotify.com/album/0NcB0GrC9kx17vdXGOOeE3) | 4:13 | 2021-12-06 | 2023-04-20 |
 | [Elaab](https://open.spotify.com/track/1WU1QDanoC8kyFcok3unCj) | [Maria](https://open.spotify.com/artist/6cqgkzXxB4M0vEa4E54gis) | [Elaab](https://open.spotify.com/album/11j3biCYrDYX18WoaYXRvK) | 4:13 | 2021-12-06 | 2022-07-29 |
+| [Enti Mshiti](https://open.spotify.com/track/4MmVIBw7hNG9Iw9arQDyKb) | [Melhem Zein](https://open.spotify.com/artist/3pCdpK2DVRSs77L9RtxFy0) | [Enti Mshiti](https://open.spotify.com/album/32H47741Ke2C4lq45RLke8) | 5:53 | 2023-04-19 |  |
 | [Esma'ny](https://open.spotify.com/track/4rsl5OyvvZGKdM0FmBXq4z) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Adwaa' El Shohra](https://open.spotify.com/album/1KhaNzsVNtdGtnfhVJgIJp) | 3:35 | 2021-12-06 |  |
 | [Ettala Fia](https://open.spotify.com/track/1AofrI6TYzXGIrvKk3tjWe) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Helm](https://open.spotify.com/album/5ZtffaFHscFIsdnJfAPotq) | 4:45 | 2023-04-11 |  |
 | [Fenoh](https://open.spotify.com/track/6dzfREL5EwPZxPGIgKsieT) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Gowa Fe Alby](https://open.spotify.com/album/27VrCWi59R8keOizrwJjGA) | 4:51 | 2021-12-06 |  |
 | [Fi 'Eshq El Banat](https://open.spotify.com/track/6NmGlzeBRAUTs3FIXgXlO6) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Fi 'Eshq El Banat](https://open.spotify.com/album/0IiIDiJz2V8n6Xcs4mMwzM) | 5:23 | 2021-12-06 |  |
+| [Ghalak](https://open.spotify.com/track/4tlX75Q9YHwTxEL8jhYdpe) | [Rabih El Asmar](https://open.spotify.com/artist/01TVewF6woaJqiQVrbAvOB) | [Ghalak](https://open.spotify.com/album/6Bg8g1MAfcZ7XroF6dLdHo) | 4:14 | 2023-04-19 |  |
 | [Ghali Aliya](https://open.spotify.com/track/0ZTi4yLjvzPELisNo5nt2r) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Ana Horra](https://open.spotify.com/album/34O1UaMvw1US6F7JvtGw34) | 3:32 | 2023-04-11 |  |
 | [Habeb Hayaty](https://open.spotify.com/track/4q8JLWV2F4a59csHoT99f9) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Hayaty](https://open.spotify.com/album/4qQIQlbIiyWWIiu8Jr6cVX) | 3:58 | 2021-12-06 |  |
 | [Habiby Da](https://open.spotify.com/track/5N0w2n2B3OzvBZv4WjcVyA) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Habiby Da](https://open.spotify.com/album/4L55wqHzJVwxNDHSqapcEt) | 4:27 | 2021-12-06 |  |
@@ -76,6 +78,7 @@
 | [Mandam A'leyk \- 2000 Digital Remaster](https://open.spotify.com/track/0zhjCI84FEpzxhVt7DcZ6H) | [Nawal Al Zoghbi](https://open.spotify.com/artist/1KqJqf6cDp26AtuXFqrJaK) | [Mandam A'Leuk](https://open.spotify.com/album/0xtqgojulqbkDENkt7vYjB) | 5:12 | 2023-01-30 |  |
 | [Maool](https://open.spotify.com/track/7GFPmRIpmI1qRym5wRtSjZ) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Maool](https://open.spotify.com/album/320sTowZ7E4pQYwypU8ibd) | 3:55 | 2021-12-06 |  |
 | [Monaya](https://open.spotify.com/track/3vL0Y0ixJVfLR9NWCtdzV4) | [Moustafa Amar](https://open.spotify.com/artist/138TnQ2OZ2ObFHOjKASDvC) | [Monaya](https://open.spotify.com/album/1ZoNpXuq1Hw04ZWWZVslOX) | 3:33 | 2021-12-06 |  |
+| [Mshit Khalas](https://open.spotify.com/track/67sFOE0IZ1UlbbVvFjU112) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Mshit Khalas](https://open.spotify.com/album/7wRB4ezPgs9olmgZ4ll1hP) | 4:38 | 2023-04-19 |  |
 | [Nasini El Donya](https://open.spotify.com/track/1qQqHzG5JAYD2bV1DGf5v7) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [El Hob El Kebir](https://open.spotify.com/album/1dj55G9LZC4mbe8KaFFmHa) | 4:30 | 2021-12-06 |  |
 | [Nour Einy](https://open.spotify.com/track/3QfXJGWOGQfST5XsTUPFj5) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Enaya Bet\-hebbak](https://open.spotify.com/album/1KwWs7TGIb880VM14E9kq0) | 4:03 | 2021-12-06 |  |
 | [Oum O'aaf](https://open.spotify.com/track/02hyp5EqS8Wu6F3gbAGYLM) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Oum O'aaf](https://open.spotify.com/album/7cyeJu1PlHROs9F0au7XCR) | 3:26 | 2021-12-06 |  |
@@ -87,6 +90,7 @@
 | [Shik Shak Shok](https://open.spotify.com/track/375TR2xdJLLeXkzceGzfq4) | [Hassan Abou Seoud](https://open.spotify.com/artist/7g4J1MFlUtDs117ACUxoUu) | [Shik Shak Shok](https://open.spotify.com/album/7D9ZZlV2MXfNWrM2ZXd2sb) | 5:32 | 2021-12-06 | 2022-07-29 |
 | [Shik Shak Shok](https://open.spotify.com/track/1nDnsh43YHOCfwpe7mR6b7) | [Hassan Abou Seoud](https://open.spotify.com/artist/7g4J1MFlUtDs117ACUxoUu) | [10 Songs Every Bellydancer Should Know](https://open.spotify.com/album/1KgcPCKWZ1I6NUfT625nVw) | 5:32 | 2021-12-06 | 2022-11-13 |
 | [Shik Shak Shok \- Remastered](https://open.spotify.com/track/7iT3T5K9J8MfxjigwzpRkK) | [Hassan Abou Seoud](https://open.spotify.com/artist/7g4J1MFlUtDs117ACUxoUu) | [Shik Shak Shok \(Remastered\)](https://open.spotify.com/album/0HExOi4eGlOnV36kY0aqJq) | 5:33 | 2021-12-06 |  |
+| [Sidi Mansour](https://open.spotify.com/track/6sNVx9BBrsA2IzwYSDfLOM) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD) | [Sidi Mansour](https://open.spotify.com/album/3ZONjiIIQLz72jYob5rhDM) | 4:41 | 2023-04-19 |  |
 | [Sidi Wesalak](https://open.spotify.com/track/5cV4VJEn6EeMbPYA1mwydl) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Leih Sebtaha](https://open.spotify.com/album/0LyRF1HsXB2HP971UZNRPQ) | 5:16 | 2021-12-06 |  |
 | [Tamally Maak](https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Tamally Maak](https://open.spotify.com/album/1qmAaW25CPUyam9Wrp9ZEu) | 4:29 | 2021-12-06 |  |
 | [Tararam](https://open.spotify.com/track/6wxXxapAHwpxgHdB0FCax2) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Meen Ana](https://open.spotify.com/album/26ZTjcVfkvcQLowlbwCYGl) | 3:45 | 2021-12-06 |  |
@@ -118,7 +122,11 @@
 | [اتحدى العالم](https://open.spotify.com/track/13Lc1DODxLE01Gs4Cpkp1n) | [صابر الرباعى](https://open.spotify.com/artist/3skqO5M0sMXLt506BFMksT) | [اتحدى العالم](https://open.spotify.com/album/0ld1Uq0f8yT6f7AAccuWSH) | 4:57 | 2023-01-30 |  |
 | [اخدني معك](https://open.spotify.com/track/2OG1u9eX4Zjsi7fGQB9T8t) | [فضل شاكر](https://open.spotify.com/artist/4BToNiwcCGe2xoQSuYQBXI) | [حبك علمني](https://open.spotify.com/album/41wGZLOe4uhn6VS40VjG9A) | 5:13 | 2023-01-30 |  |
 | [اشوف فيك يوم](https://open.spotify.com/track/6XbcPZc1kZ1bbTmzI7Pqzw) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [يا خسارتك فى اليالى](https://open.spotify.com/album/3oUnSsugdYXbTwLOpjq7Sa) | 4:23 | 2021-12-06 | 2023-02-01 |
+| [الليالي](https://open.spotify.com/track/0pKukwZMPKR02yxap7eEh6) | [Nawal Al Zoghbi](https://open.spotify.com/artist/1KqJqf6cDp26AtuXFqrJaK) | [الليالي](https://open.spotify.com/album/1I6nsdCL7wSh88GfucMJuQ) | 4:14 | 2023-04-19 |  |
+| [بتمون](https://open.spotify.com/track/565DwJNaH1c4Cj2YoPfADl) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [أيامي بيك](https://open.spotify.com/album/6czUisuzChJPALE0QbyP2V) | 4:05 | 2023-04-19 |  |
 | [حبيبي يا](https://open.spotify.com/track/3JtQZRGn1GWraaMI8hJWVk) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [حبيبي يا](https://open.spotify.com/album/0kD0fdr5woasIliscmO9eM) | 3:36 | 2023-01-30 |  |
+| [ختيار عالعكازة](https://open.spotify.com/track/4eGNtb20wdf8NepyJbSMHB) | [Fares Karam](https://open.spotify.com/artist/06LBSAoRYVLCzBU0HtlPW3) | [يقبرني](https://open.spotify.com/album/2vsR7ZCsiJ7vk11YB9kyia) | 3:31 | 2023-04-19 |  |
+| [خدنى ليك](https://open.spotify.com/track/3LsZBEdrulcolaWO9U4Oqf) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [قرب ليي](https://open.spotify.com/album/3S0M4p3Nklpm9nglRQjZ7U) | 4:42 | 2023-04-19 |  |
 | [ستة الصبح](https://open.spotify.com/track/4XwmkLMuFc96k7BJmXLUZF) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [حسين الجسمي ٢٠١٠](https://open.spotify.com/album/4cLgnSoT9jUsfT3YWwuMCs) | 4:26 | 2023-01-30 |  |
 | [شفت بعينيا](https://open.spotify.com/track/4aVeUf3RC1VKiqFT2FNyFp) | [Hossam Habib](https://open.spotify.com/artist/0OWaQSefazXfg4aaiC0Veg) | [جوه القلب](https://open.spotify.com/album/4W2UyI6S09RUKbpTQfJ2Ue) | 3:55 | 2021-12-06 |  |
 | [طبعك غير](https://open.spotify.com/track/50IxI0PAJfii3ggbTVTyU7) | [Nabeel Shuail](https://open.spotify.com/artist/4nZsv9MFbvSrHrNupU4Ttu) | [نبيل ٢٠٠٠](https://open.spotify.com/album/5MBlfc6WofFmD0wgOeAx5Q) | 5:42 | 2023-01-30 |  |
@@ -141,5 +149,6 @@
 | [يارب](https://open.spotify.com/track/1eZvf2kpynyMd6kIuja9mD) | [مروان خورى \- كارول سماحه](https://open.spotify.com/artist/5vXwZBIEHhceDpk0VIs50Q) | [انا والليل](https://open.spotify.com/album/5CkPFJECR9SZ21ZeYdxJeL) | 4:37 | 2023-01-30 |  |
 | [ياريتنى انا ولا انت](https://open.spotify.com/track/66OfX7oIyqZvSyq1k7Hw8L) | [Assi El Helani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [2010](https://open.spotify.com/album/1UmV5gMffuODbFphFHkM2M) | 4:17 | 2023-04-11 |  |
 | [ياعيبو](https://open.spotify.com/track/5dO1DVK8yI01YNzfeBfEKT) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [ياعيبو](https://open.spotify.com/album/7CebL91fa4J3Vx86Z20h88) | 3:42 | 2023-04-11 |  |
+| [يامسهر عيني](https://open.spotify.com/track/65YnEWo2zsM4mQDmpSozEL) | [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [يا مسهر عيني](https://open.spotify.com/album/7c6XuVotEMUjdmbZzoV5cR) | 4:03 | 2023-04-19 |  |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

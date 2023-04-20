@@ -1,12 +1,12 @@
 {
   "description": "Deja que estas sutiles piezas de jazz te arrullen hasta el sue\u00f1o.",
-  "num_followers": 27698,
+  "num_followers": 27734,
   "original_name": "Duerme con Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1NDkyOSwwMDAwMDAwMGRiODcyZDQxNjZhOTZkM2U1OWM5MDZkNTYxYzZiZTY5",
+  "snapshot_id": "MTY4MTQ1NDkyOSwwMDAwMDAwMDZkNzNhOGIzMmUyNzAzMDU5ZTNkZjBhYWYyMmE5OTlj",
   "tracks": [
     {
       "added_at": "2023-04-14 06:48:49",
@@ -59,18 +59,18 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "Don't Go To Strangers",
-        "url": "https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE"
+        "name": "April In Paris",
+        "url": "https://open.spotify.com/album/1sHCz75TX4YiRWvOnC3hIR"
       },
       "artists": [
         {
-          "name": "Jacob Baron",
-          "url": "https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2"
+          "name": "Anna Niva",
+          "url": "https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx"
         }
       ],
-      "duration_ms": 221093,
-      "name": "Don't Go To Strangers",
-      "url": "https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR"
+      "duration_ms": 182677,
+      "name": "The End Of A Love Affair",
+      "url": "https://open.spotify.com/track/121BsQV03zxG11taJmpnUe"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -91,18 +91,18 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "April In Paris",
-        "url": "https://open.spotify.com/album/1sHCz75TX4YiRWvOnC3hIR"
+        "name": "Don't Go To Strangers",
+        "url": "https://open.spotify.com/album/5iI9eFT71BqAwZQ0MDUMHE"
       },
       "artists": [
         {
-          "name": "Anna Niva",
-          "url": "https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx"
+          "name": "Jacob Baron",
+          "url": "https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2"
         }
       ],
-      "duration_ms": 182677,
-      "name": "The End Of A Love Affair",
-      "url": "https://open.spotify.com/track/121BsQV03zxG11taJmpnUe"
+      "duration_ms": 221093,
+      "name": "Don't Go To Strangers",
+      "url": "https://open.spotify.com/track/5EYoKITelsef8ygjCOEssR"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "Fly Me To The Moon",
-        "url": "https://open.spotify.com/album/3ySXvDzEc4bpNwjytNcoI2"
-      },
-      "artists": [
-        {
-          "name": "Ward Stetson",
-          "url": "https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S"
-        }
-      ],
-      "duration_ms": 151250,
-      "name": "Fly Me To The Moon",
-      "url": "https://open.spotify.com/track/4VSznnI2YHb2y2QpBHsfnY"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
         "name": "Sort Of Sentimental",
         "url": "https://open.spotify.com/album/5sPc2pe8CqCNaZzdyJThXO"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 185698,
       "name": "Sort Of Sentimental",
       "url": "https://open.spotify.com/track/56Wvp4BvcVgAosMtz1dkuV"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
+        "name": "Fly Me To The Moon",
+        "url": "https://open.spotify.com/album/3ySXvDzEc4bpNwjytNcoI2"
+      },
+      "artists": [
+        {
+          "name": "Ward Stetson",
+          "url": "https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "Fly Me To The Moon",
+      "url": "https://open.spotify.com/track/4VSznnI2YHb2y2QpBHsfnY"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
+        "name": "Long Ago And Far Away",
+        "url": "https://open.spotify.com/album/07UfdTx7ZeI0AasTPbvKtl"
+      },
+      "artists": [
+        {
+          "name": "Ray Horne",
+          "url": "https://open.spotify.com/artist/0ZHEC4FJWEfjvOsRwETzkS"
+        }
+      ],
+      "duration_ms": 177278,
+      "name": "Long Ago And Far Away",
+      "url": "https://open.spotify.com/track/17lWkPWGTjin8gQ85FGQer"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
         "name": "A Time For Love",
         "url": "https://open.spotify.com/album/41mr23Qo6KR4QmvlJEcJPA"
       },
@@ -363,22 +379,6 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "Long Ago And Far Away",
-        "url": "https://open.spotify.com/album/07UfdTx7ZeI0AasTPbvKtl"
-      },
-      "artists": [
-        {
-          "name": "Ray Horne",
-          "url": "https://open.spotify.com/artist/0ZHEC4FJWEfjvOsRwETzkS"
-        }
-      ],
-      "duration_ms": 177278,
-      "name": "Long Ago And Far Away",
-      "url": "https://open.spotify.com/track/17lWkPWGTjin8gQ85FGQer"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
         "name": "Beautiful Love",
         "url": "https://open.spotify.com/album/4WXTTaRmn0QF87ZRinEFPD"
       },
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "Look For The Silver Lining",
-        "url": "https://open.spotify.com/album/15pmzgvbSncLWPfBEmdFYy"
-      },
-      "artists": [
-        {
-          "name": "Angel Gregoire",
-          "url": "https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF"
-        }
-      ],
-      "duration_ms": 206187,
-      "name": "Look For The Silver Lining",
-      "url": "https://open.spotify.com/track/5L2iEidxZtQYZsXjRGWWJN"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
         "name": "Be Free",
         "url": "https://open.spotify.com/album/1miiJPlOWBBXi41jf6J3CJ"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 137984,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/3TuflVEQkgUdpMCIDZzg95"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
+        "name": "Look For The Silver Lining",
+        "url": "https://open.spotify.com/album/15pmzgvbSncLWPfBEmdFYy"
+      },
+      "artists": [
+        {
+          "name": "Angel Gregoire",
+          "url": "https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF"
+        }
+      ],
+      "duration_ms": 206187,
+      "name": "Look For The Silver Lining",
+      "url": "https://open.spotify.com/track/5L2iEidxZtQYZsXjRGWWJN"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "Out Of Nowhere",
-        "url": "https://open.spotify.com/album/0cu8JtZHQDqNPT0zmnDh2w"
-      },
-      "artists": [
-        {
-          "name": "Rudy Winston",
-          "url": "https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L"
-        }
-      ],
-      "duration_ms": 159361,
-      "name": "Out Of Nowhere",
-      "url": "https://open.spotify.com/track/6CPmUmMMXvGombRcl8p5Iw"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
         "name": "Do You Mind If I Smoke",
         "url": "https://open.spotify.com/album/4B9At7kBfjAyyNLg1SpG0R"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 245131,
       "name": "Do You Mind If I Smoke",
       "url": "https://open.spotify.com/track/4kFDH0KwaJVLz9UrYd3tPG"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
+        "name": "Out Of Nowhere",
+        "url": "https://open.spotify.com/album/0cu8JtZHQDqNPT0zmnDh2w"
+      },
+      "artists": [
+        {
+          "name": "Rudy Winston",
+          "url": "https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L"
+        }
+      ],
+      "duration_ms": 159361,
+      "name": "Out Of Nowhere",
+      "url": "https://open.spotify.com/track/6CPmUmMMXvGombRcl8p5Iw"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "Leave The Bottle",
-        "url": "https://open.spotify.com/album/4Wn4TtWxzxIVlhteYhGqrl"
-      },
-      "artists": [
-        {
-          "name": "Zachary Ronin",
-          "url": "https://open.spotify.com/artist/47ZLS2xH70Buh5bgghBDLx"
-        }
-      ],
-      "duration_ms": 218455,
-      "name": "Leave The Bottle",
-      "url": "https://open.spotify.com/track/4wzA7y3rVCFI5N65LIm1ie"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
         "name": "Looking Glass",
         "url": "https://open.spotify.com/album/7dXKSgHWw3TRKfMN0QUwfH"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 196011,
       "name": "I Could Write A Book",
       "url": "https://open.spotify.com/track/66eaAKE675VWRnj8EVeDQk"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
+        "name": "Leave The Bottle",
+        "url": "https://open.spotify.com/album/4Wn4TtWxzxIVlhteYhGqrl"
+      },
+      "artists": [
+        {
+          "name": "Zachary Ronin",
+          "url": "https://open.spotify.com/artist/47ZLS2xH70Buh5bgghBDLx"
+        }
+      ],
+      "duration_ms": 218455,
+      "name": "Leave The Bottle",
+      "url": "https://open.spotify.com/track/4wzA7y3rVCFI5N65LIm1ie"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "Behind The Jalousie",
-        "url": "https://open.spotify.com/album/3qfJVOI4wer702Ws5pYCLQ"
-      },
-      "artists": [
-        {
-          "name": "Charles Blake",
-          "url": "https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo"
-        }
-      ],
-      "duration_ms": 194637,
-      "name": "Behind The Jalousie",
-      "url": "https://open.spotify.com/track/39YCja6W45q9EtAtztQImq"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
         "name": "A Nightingale Sang In Berkeley Square",
         "url": "https://open.spotify.com/album/2OijUYhZR1MMnlH0gjAgeH"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 244825,
       "name": "A Nightingale Sang In Berkeley Square",
       "url": "https://open.spotify.com/track/0fmlfBRcoK9vpKPxzcykWX"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
+        "name": "Behind The Jalousie",
+        "url": "https://open.spotify.com/album/3qfJVOI4wer702Ws5pYCLQ"
+      },
+      "artists": [
+        {
+          "name": "Charles Blake",
+          "url": "https://open.spotify.com/artist/6ASBF6nUumFCEx6n88gTOo"
+        }
+      ],
+      "duration_ms": 194637,
+      "name": "Behind The Jalousie",
+      "url": "https://open.spotify.com/track/39YCja6W45q9EtAtztQImq"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "It Could Happen to You",
-        "url": "https://open.spotify.com/album/1FKkv7Mk67dv2gHkCqFdrf"
-      },
-      "artists": [
-        {
-          "name": "Maurillo",
-          "url": "https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg"
-        }
-      ],
-      "duration_ms": 155207,
-      "name": "It Could Happen to You",
-      "url": "https://open.spotify.com/track/2RDjWEu4n4V7lGshySL4a2"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
         "name": "Darn That Dream",
         "url": "https://open.spotify.com/album/1Hs8Ia3HjN1JzaXNEwJ6Y3"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 232374,
       "name": "Darn That Dream",
       "url": "https://open.spotify.com/track/7wyqQSiefHCrYQ3xqAqfwJ"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
+        "name": "It Could Happen to You",
+        "url": "https://open.spotify.com/album/1FKkv7Mk67dv2gHkCqFdrf"
+      },
+      "artists": [
+        {
+          "name": "Maurillo",
+          "url": "https://open.spotify.com/artist/6J2n4xru5kiYED8XltYDUg"
+        }
+      ],
+      "duration_ms": 155207,
+      "name": "It Could Happen to You",
+      "url": "https://open.spotify.com/track/2RDjWEu4n4V7lGshySL4a2"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
+        "name": "Lenox Hill",
+        "url": "https://open.spotify.com/album/27cTJGvI2eXXMNy94uBwv7"
+      },
+      "artists": [
+        {
+          "name": "Lou Green",
+          "url": "https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW"
+        }
+      ],
+      "duration_ms": 151298,
+      "name": "Lenox Hill",
+      "url": "https://open.spotify.com/track/3rtDk5D3VmzvZn2ywGg0bq"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 147029,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
-        "name": "You Stepped Out Of A Dream",
-        "url": "https://open.spotify.com/album/2BtUNsuQFXudi5fGHFjZbS"
-      },
-      "artists": [
-        {
-          "name": "Bill Walton",
-          "url": "https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl"
-        }
-      ],
-      "duration_ms": 155066,
-      "name": "You Stepped Out Of A Dream",
-      "url": "https://open.spotify.com/track/2szY5ICdZLvJOeN2iF1Tow"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "Lenox Hill",
-        "url": "https://open.spotify.com/album/27cTJGvI2eXXMNy94uBwv7"
+        "name": "You Stepped Out Of A Dream",
+        "url": "https://open.spotify.com/album/2BtUNsuQFXudi5fGHFjZbS"
       },
       "artists": [
         {
-          "name": "Lou Green",
-          "url": "https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW"
+          "name": "Bill Walton",
+          "url": "https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl"
         }
       ],
-      "duration_ms": 151298,
-      "name": "Lenox Hill",
-      "url": "https://open.spotify.com/track/3rtDk5D3VmzvZn2ywGg0bq"
+      "duration_ms": 155066,
+      "name": "You Stepped Out Of A Dream",
+      "url": "https://open.spotify.com/track/2szY5ICdZLvJOeN2iF1Tow"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "Falling In Love With Love",
-        "url": "https://open.spotify.com/album/3OxWfxfTgrO0oiOmmFY9qL"
-      },
-      "artists": [
-        {
-          "name": "Ray Horne",
-          "url": "https://open.spotify.com/artist/0ZHEC4FJWEfjvOsRwETzkS"
-        }
-      ],
-      "duration_ms": 178020,
-      "name": "Falling In Love With Love",
-      "url": "https://open.spotify.com/track/0ydPwnqqLcnUkJpZ7tfYiu"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
         "name": "I don\u2019t need that",
         "url": "https://open.spotify.com/album/1mrDFWDe0JVQyqDqCE2USc"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 149985,
       "name": "I don\u2019t need that",
       "url": "https://open.spotify.com/track/1TySgL1WjmOF5fObWRozz2"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
+        "name": "Falling In Love With Love",
+        "url": "https://open.spotify.com/album/3OxWfxfTgrO0oiOmmFY9qL"
+      },
+      "artists": [
+        {
+          "name": "Ray Horne",
+          "url": "https://open.spotify.com/artist/0ZHEC4FJWEfjvOsRwETzkS"
+        }
+      ],
+      "duration_ms": 178020,
+      "name": "Falling In Love With Love",
+      "url": "https://open.spotify.com/track/0ydPwnqqLcnUkJpZ7tfYiu"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "It Never Entered My Mind",
-        "url": "https://open.spotify.com/album/1wyMm8UqtOocJahYqDXThd"
-      },
-      "artists": [
-        {
-          "name": "William Adams",
-          "url": "https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9"
-        }
-      ],
-      "duration_ms": 286750,
-      "name": "It Never Entered My Mind",
-      "url": "https://open.spotify.com/track/0t4r5IuT6FzrNGEEpCJmf9"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
         "name": "Emily",
         "url": "https://open.spotify.com/album/33gP7iGrdPMvuZGkWeZPzR"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 226893,
       "name": "Emily",
       "url": "https://open.spotify.com/track/0VhprMWn19tc19W04Vz5Gc"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
+        "name": "It Never Entered My Mind",
+        "url": "https://open.spotify.com/album/1wyMm8UqtOocJahYqDXThd"
+      },
+      "artists": [
+        {
+          "name": "William Adams",
+          "url": "https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9"
+        }
+      ],
+      "duration_ms": 286750,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/0t4r5IuT6FzrNGEEpCJmf9"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "You Know It's Me",
-        "url": "https://open.spotify.com/album/70fqNXNdAYga8XSizrCfbS"
-      },
-      "artists": [
-        {
-          "name": "Tina Wellbeck",
-          "url": "https://open.spotify.com/artist/4ijOrgStHlgSpuka4omdoe"
-        }
-      ],
-      "duration_ms": 157144,
-      "name": "You Know It's Me",
-      "url": "https://open.spotify.com/track/1EzsGVXnTmukpzQ8u8F5gg"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/0TQSmqQGNkfyIEbu3I0m75"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 175005,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/200ZWfIGSTurs8dhUi0PUE"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
+        "name": "You Know It's Me",
+        "url": "https://open.spotify.com/album/70fqNXNdAYga8XSizrCfbS"
+      },
+      "artists": [
+        {
+          "name": "Tina Wellbeck",
+          "url": "https://open.spotify.com/artist/4ijOrgStHlgSpuka4omdoe"
+        }
+      ],
+      "duration_ms": 157144,
+      "name": "You Know It's Me",
+      "url": "https://open.spotify.com/track/1EzsGVXnTmukpzQ8u8F5gg"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
+        "name": "Easy To Love",
+        "url": "https://open.spotify.com/album/6OK4mZCuEVyzUTwDLkjUTY"
+      },
+      "artists": [
+        {
+          "name": "Angela Rowles",
+          "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
+        }
+      ],
+      "duration_ms": 166683,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/4IQIY6NBsk5X6NLYjPvOaZ"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
         "name": "A Sleepin' Bee",
         "url": "https://open.spotify.com/album/11yBQcdGh6062GGt9LE6YZ"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 179874,
       "name": "Cherokee",
       "url": "https://open.spotify.com/track/2ifo88z2ExBUBsmWav4mca"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
-        "name": "Easy To Love",
-        "url": "https://open.spotify.com/album/6OK4mZCuEVyzUTwDLkjUTY"
-      },
-      "artists": [
-        {
-          "name": "Angela Rowles",
-          "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
-        }
-      ],
-      "duration_ms": 166683,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/4IQIY6NBsk5X6NLYjPvOaZ"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "I'll Take Romance",
-        "url": "https://open.spotify.com/album/1lWwiRXgfCqxYlFd0T7SWq"
-      },
-      "artists": [
-        {
-          "name": "Avery Miller",
-          "url": "https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN"
-        }
-      ],
-      "duration_ms": 189923,
-      "name": "I'll Take Romance",
-      "url": "https://open.spotify.com/track/2OtiBmNGQaogw2iymAmTS4"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
         "name": "Blue Skies",
         "url": "https://open.spotify.com/album/0TQSmqQGNkfyIEbu3I0m75"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "My Roses",
-        "url": "https://open.spotify.com/album/4PCyvS0REXT2qxvOnOBA6v"
+        "name": "I'll Take Romance",
+        "url": "https://open.spotify.com/album/1lWwiRXgfCqxYlFd0T7SWq"
       },
       "artists": [
         {
-          "name": "Hamilton Reed",
-          "url": "https://open.spotify.com/artist/48VtkBYuWbEZxRWaXLJlkb"
+          "name": "Avery Miller",
+          "url": "https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN"
         }
       ],
-      "duration_ms": 131120,
-      "name": "My Roses",
-      "url": "https://open.spotify.com/track/3vje2r6o6xnUnPTsoAwxju"
+      "duration_ms": 189923,
+      "name": "I'll Take Romance",
+      "url": "https://open.spotify.com/track/2OtiBmNGQaogw2iymAmTS4"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -1439,18 +1423,18 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "That Old Fashioned Moon",
-        "url": "https://open.spotify.com/album/7K81q7vpeES90oyfHnltli"
+        "name": "My Roses",
+        "url": "https://open.spotify.com/album/4PCyvS0REXT2qxvOnOBA6v"
       },
       "artists": [
         {
-          "name": "Martin Landstr\u00f6m",
-          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+          "name": "Hamilton Reed",
+          "url": "https://open.spotify.com/artist/48VtkBYuWbEZxRWaXLJlkb"
         }
       ],
-      "duration_ms": 169446,
-      "name": "That Old Fashioned Moon",
-      "url": "https://open.spotify.com/track/00nvkAH00WYbmXddpr9i3v"
+      "duration_ms": 131120,
+      "name": "My Roses",
+      "url": "https://open.spotify.com/track/3vje2r6o6xnUnPTsoAwxju"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -1467,6 +1451,22 @@
       "duration_ms": 202889,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/4M83WIzH5cqPFqjnYwcji9"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
+        "name": "That Old Fashioned Moon",
+        "url": "https://open.spotify.com/album/7K81q7vpeES90oyfHnltli"
+      },
+      "artists": [
+        {
+          "name": "Martin Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+        }
+      ],
+      "duration_ms": 169446,
+      "name": "That Old Fashioned Moon",
+      "url": "https://open.spotify.com/track/00nvkAH00WYbmXddpr9i3v"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -1519,6 +1519,38 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Evans",
+          "url": "https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL"
+        }
+      ],
+      "duration_ms": 157250,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
+        "name": "Cheek to Cheek",
+        "url": "https://open.spotify.com/album/7ex7nfyDTp2UDpYxKWKsPh"
+      },
+      "artists": [
+        {
+          "name": "Penford Giles",
+          "url": "https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6"
+        }
+      ],
+      "duration_ms": 182398,
+      "name": "Cheek to Cheek",
+      "url": "https://open.spotify.com/track/4Fsl78MLuUrqJMnFXBctW8"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
         "name": "My Ideal",
         "url": "https://open.spotify.com/album/0qnqcSIA0b9d9pf9Tpoc8V"
       },
@@ -1551,22 +1583,6 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "Cheek to Cheek",
-        "url": "https://open.spotify.com/album/7ex7nfyDTp2UDpYxKWKsPh"
-      },
-      "artists": [
-        {
-          "name": "Penford Giles",
-          "url": "https://open.spotify.com/artist/1dIU42U3gWRcyOT7cdNiv6"
-        }
-      ],
-      "duration_ms": 182398,
-      "name": "Cheek to Cheek",
-      "url": "https://open.spotify.com/track/4Fsl78MLuUrqJMnFXBctW8"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
         "name": "I Can't Get Started",
         "url": "https://open.spotify.com/album/393ECl3A8bhqZpmPoKOWTs"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 253976,
       "name": "Juniper Leaves",
       "url": "https://open.spotify.com/track/5prNNKn1SNLrJsL5Ic4vew"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/1EWPWjrRLNYdQwYurmSEMT"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Evans",
-          "url": "https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL"
-        }
-      ],
-      "duration_ms": 157250,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/2rro7SoKEWIrhUl1xcXOIT"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "Jazz Piano Before Midnight",
-        "url": "https://open.spotify.com/album/6tC4AiQ7S9tz8bCrOmzfKo"
-      },
-      "artists": [
-        {
-          "name": "Christopher Colman",
-          "url": "https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N"
-        }
-      ],
-      "duration_ms": 123910,
-      "name": "Let's Fall in Love",
-      "url": "https://open.spotify.com/track/61Wv9rlpZz27NHul5O6XN7"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
         "name": "When Sunny Gets Blue",
         "url": "https://open.spotify.com/album/52eXoXB6bX5hvKocauqYKC"
       },
@@ -1919,18 +1903,18 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "Night Mood",
-        "url": "https://open.spotify.com/album/1Xsdw8DS23e5QULFLFqfRF"
+        "name": "Jazz Piano Before Midnight",
+        "url": "https://open.spotify.com/album/6tC4AiQ7S9tz8bCrOmzfKo"
       },
       "artists": [
         {
-          "name": "Franz Gordon",
-          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
+          "name": "Christopher Colman",
+          "url": "https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N"
         }
       ],
-      "duration_ms": 171250,
-      "name": "Night Mood",
-      "url": "https://open.spotify.com/track/1zQJVpcXpaXJRETpADpD5f"
+      "duration_ms": 123910,
+      "name": "Let's Fall in Love",
+      "url": "https://open.spotify.com/track/61Wv9rlpZz27NHul5O6XN7"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -1963,6 +1947,22 @@
       "duration_ms": 142909,
       "name": "Henry Street",
       "url": "https://open.spotify.com/track/2JIH2zpgozNspbN2vVva9G"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
+        "name": "Night Mood",
+        "url": "https://open.spotify.com/album/1Xsdw8DS23e5QULFLFqfRF"
+      },
+      "artists": [
+        {
+          "name": "Franz Gordon",
+          "url": "https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g"
+        }
+      ],
+      "duration_ms": 171250,
+      "name": "Night Mood",
+      "url": "https://open.spotify.com/track/1zQJVpcXpaXJRETpADpD5f"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -2079,6 +2079,22 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
+        "name": "I'd Never Lie to You",
+        "url": "https://open.spotify.com/album/7dDDmbvO3WZWZ3gyhQVqiw"
+      },
+      "artists": [
+        {
+          "name": "Karl-Erik",
+          "url": "https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4"
+        }
+      ],
+      "duration_ms": 170767,
+      "name": "Who Could Have Known",
+      "url": "https://open.spotify.com/track/70Ke4CBLI0C1N0pI9hbvib"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
         "name": "Without A Song",
         "url": "https://open.spotify.com/album/55vOtTdjD34L98MWwl57oU"
       },
@@ -2123,22 +2139,6 @@
       "duration_ms": 303750,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/4fX6BFRXtPC5knEwEIV4Zf"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
-        "name": "I'd Never Lie to You",
-        "url": "https://open.spotify.com/album/7dDDmbvO3WZWZ3gyhQVqiw"
-      },
-      "artists": [
-        {
-          "name": "Karl-Erik",
-          "url": "https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4"
-        }
-      ],
-      "duration_ms": 170767,
-      "name": "Who Could Have Known",
-      "url": "https://open.spotify.com/track/70Ke4CBLI0C1N0pI9hbvib"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "Stormy Weather",
-        "url": "https://open.spotify.com/album/3ys62gvyRiXgQDeaedo7VO"
-      },
-      "artists": [
-        {
-          "name": "Marc Leigh",
-          "url": "https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY"
-        }
-      ],
-      "duration_ms": 247788,
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/46ryjq76whaLHkJVrvkAqo"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
         "name": "My Old Town",
         "url": "https://open.spotify.com/album/5Fen3A5kz69GvxgEl016un"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 213052,
       "name": "My Old Town",
       "url": "https://open.spotify.com/track/4bgcSZ5LgC8O6KBHyybI6T"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
+        "name": "Stormy Weather",
+        "url": "https://open.spotify.com/album/3ys62gvyRiXgQDeaedo7VO"
+      },
+      "artists": [
+        {
+          "name": "Marc Leigh",
+          "url": "https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY"
+        }
+      ],
+      "duration_ms": 247788,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/46ryjq76whaLHkJVrvkAqo"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -2303,6 +2303,22 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
+        "name": "Am I the Only One?",
+        "url": "https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9"
+      },
+      "artists": [
+        {
+          "name": "Urskogen Jazz",
+          "url": "https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A"
+        }
+      ],
+      "duration_ms": 177071,
+      "name": "Break My Heart, Love",
+      "url": "https://open.spotify.com/track/2YJ50GpsJlWTmKBe5Mqk6y"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
         "name": "Sweet Dreams",
         "url": "https://open.spotify.com/album/0q8gPe14lThzUj7859i7MZ"
       },
@@ -2331,22 +2347,6 @@
       "duration_ms": 253056,
       "name": "Forest Flower",
       "url": "https://open.spotify.com/track/1YxFFbAsEvNA8ocSVQJEH2"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
-        "name": "Am I the Only One?",
-        "url": "https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9"
-      },
-      "artists": [
-        {
-          "name": "Urskogen Jazz",
-          "url": "https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A"
-        }
-      ],
-      "duration_ms": 177071,
-      "name": "Break My Heart, Love",
-      "url": "https://open.spotify.com/track/2YJ50GpsJlWTmKBe5Mqk6y"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "I'm Glad There Is You",
-        "url": "https://open.spotify.com/album/77MH1Wv80xJi7l26Ri1VaJ"
-      },
-      "artists": [
-        {
-          "name": "Edward France",
-          "url": "https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp"
-        }
-      ],
-      "duration_ms": 286500,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/0wAqaMAcQhd9Jk78XgqHWs"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
         "name": "I Thought About You",
         "url": "https://open.spotify.com/album/5SSTz0UA3HPFZxJVcmIlka"
       },
@@ -2415,18 +2399,18 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "I Fall In Love Too Easily",
-        "url": "https://open.spotify.com/album/5xh9QdbDD89FmJ44R1CA0e"
+        "name": "I'm Glad There Is You",
+        "url": "https://open.spotify.com/album/77MH1Wv80xJi7l26Ri1VaJ"
       },
       "artists": [
         {
-          "name": "Drew Milner",
-          "url": "https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5"
+          "name": "Edward France",
+          "url": "https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp"
         }
       ],
-      "duration_ms": 147250,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/0ZuEKQKcR0Zm53Bhb2wgLO"
+      "duration_ms": 286500,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/0wAqaMAcQhd9Jk78XgqHWs"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -2443,6 +2427,22 @@
       "duration_ms": 144893,
       "name": "Days of Wine and Roses",
       "url": "https://open.spotify.com/track/2QRUDqfSSNCY6MpTUxP7We"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
+        "name": "I Fall In Love Too Easily",
+        "url": "https://open.spotify.com/album/5xh9QdbDD89FmJ44R1CA0e"
+      },
+      "artists": [
+        {
+          "name": "Drew Milner",
+          "url": "https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5"
+        }
+      ],
+      "duration_ms": 147250,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/0ZuEKQKcR0Zm53Bhb2wgLO"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "Stars Fell On Alabama",
-        "url": "https://open.spotify.com/album/0K9xMpUcX0Yg3HAcb1IDLO"
-      },
-      "artists": [
-        {
-          "name": "Jacob Baron",
-          "url": "https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2"
-        }
-      ],
-      "duration_ms": 261432,
-      "name": "Stars Fell On Alabama",
-      "url": "https://open.spotify.com/track/509cZqCtvC6it9bKbuD0hP"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
         "name": "Love Theme",
         "url": "https://open.spotify.com/album/1X5HJijS1ImWbwfMA2rE6a"
       },
@@ -2507,6 +2491,22 @@
       "duration_ms": 222643,
       "name": "Love Theme",
       "url": "https://open.spotify.com/track/7BBqYC7h3qFjmZYQDmnTxi"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
+        "name": "Stars Fell On Alabama",
+        "url": "https://open.spotify.com/album/0K9xMpUcX0Yg3HAcb1IDLO"
+      },
+      "artists": [
+        {
+          "name": "Jacob Baron",
+          "url": "https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2"
+        }
+      ],
+      "duration_ms": 261432,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/509cZqCtvC6it9bKbuD0hP"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -2799,22 +2799,6 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "It Could Happen To You",
-        "url": "https://open.spotify.com/album/1ehoJKWcjUnHtLVseVCAmS"
-      },
-      "artists": [
-        {
-          "name": "Danny Walgreen",
-          "url": "https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/3JSz6DZZBRSLhIr4LMIkDD"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
         "name": "Next to Nothing",
         "url": "https://open.spotify.com/album/0aUgCD4UfCBXhuz0uBtT5z"
       },
@@ -2827,6 +2811,38 @@
       "duration_ms": 207747,
       "name": "Next to Nothing",
       "url": "https://open.spotify.com/track/3NSUJkVYfauEwgNlhJinXF"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
+        "name": "Street Of Dreams",
+        "url": "https://open.spotify.com/album/1bM7zzY2xmI0TMMFQKeNFu"
+      },
+      "artists": [
+        {
+          "name": "Mannie Goldings",
+          "url": "https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY"
+        }
+      ],
+      "duration_ms": 159192,
+      "name": "Street Of Dreams",
+      "url": "https://open.spotify.com/track/783BlsF88Ae8b0Xs4ZDzQy"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
+        "name": "It Could Happen To You",
+        "url": "https://open.spotify.com/album/1ehoJKWcjUnHtLVseVCAmS"
+      },
+      "artists": [
+        {
+          "name": "Danny Walgreen",
+          "url": "https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/3JSz6DZZBRSLhIr4LMIkDD"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -2895,22 +2911,6 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "Street Of Dreams",
-        "url": "https://open.spotify.com/album/1bM7zzY2xmI0TMMFQKeNFu"
-      },
-      "artists": [
-        {
-          "name": "Mannie Goldings",
-          "url": "https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY"
-        }
-      ],
-      "duration_ms": 159192,
-      "name": "Street Of Dreams",
-      "url": "https://open.spotify.com/track/783BlsF88Ae8b0Xs4ZDzQy"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
         "name": "My Golden Hour",
         "url": "https://open.spotify.com/album/7qNYGiFeAi8W0xvEuetOhj"
       },
@@ -2927,22 +2927,6 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "On The Street Where You Live",
-        "url": "https://open.spotify.com/album/5UvGpwpS3tYpZHbiQlonNp"
-      },
-      "artists": [
-        {
-          "name": "Ben Hubert",
-          "url": "https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz"
-        }
-      ],
-      "duration_ms": 231750,
-      "name": "On The Street Where You Live",
-      "url": "https://open.spotify.com/track/1dgYQO1Hui0E6lGe3F1hDw"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
         "name": "Somewhere Over The Rainbow",
         "url": "https://open.spotify.com/album/27YuGP0WcZhOOkUchV5yaz"
       },
@@ -2955,6 +2939,22 @@
       "duration_ms": 216218,
       "name": "Somewhere Over The Rainbow",
       "url": "https://open.spotify.com/track/26o8OLSxA9CpGLXZEqwS0y"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
+        "name": "On The Street Where You Live",
+        "url": "https://open.spotify.com/album/5UvGpwpS3tYpZHbiQlonNp"
+      },
+      "artists": [
+        {
+          "name": "Ben Hubert",
+          "url": "https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz"
+        }
+      ],
+      "duration_ms": 231750,
+      "name": "On The Street Where You Live",
+      "url": "https://open.spotify.com/track/1dgYQO1Hui0E6lGe3F1hDw"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -3119,22 +3119,6 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "Sweet And Lovely",
-        "url": "https://open.spotify.com/album/68praxj4zGWVqDHxwN7wex"
-      },
-      "artists": [
-        {
-          "name": "Ray Royston",
-          "url": "https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG"
-        }
-      ],
-      "duration_ms": 210115,
-      "name": "Sweet And Lovely",
-      "url": "https://open.spotify.com/track/0M2JImhfpQDeIw08Auazxl"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
         "name": "Misty",
         "url": "https://open.spotify.com/album/3zOiXs8f5OfRasBgZ7VNcJ"
       },
@@ -3147,6 +3131,22 @@
       "duration_ms": 133500,
       "name": "Misty",
       "url": "https://open.spotify.com/track/0fGNaE47Hx1SO8kEKtkGxb"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
+        "name": "Sweet And Lovely",
+        "url": "https://open.spotify.com/album/68praxj4zGWVqDHxwN7wex"
+      },
+      "artists": [
+        {
+          "name": "Ray Royston",
+          "url": "https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG"
+        }
+      ],
+      "duration_ms": 210115,
+      "name": "Sweet And Lovely",
+      "url": "https://open.spotify.com/track/0M2JImhfpQDeIw08Auazxl"
     },
     {
       "added_at": "2023-04-14 06:48:49",
@@ -3183,22 +3183,6 @@
     {
       "added_at": "2023-04-14 06:48:49",
       "album": {
-        "name": "Moon Over Brooklyn",
-        "url": "https://open.spotify.com/album/3cdgdzfuIoOWbMbemo7OGM"
-      },
-      "artists": [
-        {
-          "name": "Stephen Rogerson",
-          "url": "https://open.spotify.com/artist/5xXnBmVrb708VQBBjG59Gk"
-        }
-      ],
-      "duration_ms": 140432,
-      "name": "Don't Know Why",
-      "url": "https://open.spotify.com/track/7e9e6hczmTaB9bYrTJMcHe"
-    },
-    {
-      "added_at": "2023-04-14 06:48:49",
-      "album": {
         "name": "Round Midnight",
         "url": "https://open.spotify.com/album/1U9wFo9e4BQz7JuYmjXkTo"
       },
@@ -3211,6 +3195,22 @@
       "duration_ms": 230000,
       "name": "Round Midnight",
       "url": "https://open.spotify.com/track/48K9qO5shnoV2kjZi5n4aj"
+    },
+    {
+      "added_at": "2023-04-14 06:48:49",
+      "album": {
+        "name": "Like Someone in Love",
+        "url": "https://open.spotify.com/album/55LGBLAN5hoiDD4hGF0l0r"
+      },
+      "artists": [
+        {
+          "name": "Louie Martin",
+          "url": "https://open.spotify.com/artist/6V322191Co4lw7MgeQdcHu"
+        }
+      ],
+      "duration_ms": 212435,
+      "name": "Like Someone in Love",
+      "url": "https://open.spotify.com/track/7HfS1TFqIaAO044jhCmNAl"
     }
   ],
   "unique_name": "Duerme con Jazz",

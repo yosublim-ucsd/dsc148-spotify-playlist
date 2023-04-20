@@ -1,12 +1,12 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 33035,
+  "num_followers": 33082,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3Nzg2NzA4MSwwMDAwMDAwMDRiNDdjNTc3NzE4NjZkMDM1MGJmYTA5MDdhNTMzOTQy",
+  "snapshot_id": "MTY3Nzg2NzA4MSwwMDAwMDAwMDcwOGZlOTM1MjA1ZWJkMDg0MTk0MGE4MmZjZWJmN2Ez",
   "tracks": [
     {
       "added_at": "2023-03-03 18:11:20",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-03-03 18:11:20",
       "album": {
-        "name": "Hoodoo Lady (1933-1937)",
-        "url": "https://open.spotify.com/album/5t4lNoeKMZ2wT2FV5aIgcn"
-      },
-      "artists": [
-        {
-          "name": "Memphis Minnie",
-          "url": "https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC"
-        }
-      ],
-      "duration_ms": 195306,
-      "name": "If You See My Rooster (Please Run Him Home)",
-      "url": "https://open.spotify.com/track/7eNHeLu7yJB5HN9Srvrocv"
-    },
-    {
-      "added_at": "2023-03-03 18:11:20",
-      "album": {
         "name": "Rock Me Daddy, Vol. 1",
         "url": "https://open.spotify.com/album/1sz7BU4ZYeAJwQTfNzyxQD"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 154840,
       "name": "Boogie In \"G\"",
       "url": "https://open.spotify.com/track/3yY7zC0l6XJTub645Wa6uZ"
+    },
+    {
+      "added_at": "2023-03-03 18:11:20",
+      "album": {
+        "name": "Hoodoo Lady (1933-1937)",
+        "url": "https://open.spotify.com/album/5t4lNoeKMZ2wT2FV5aIgcn"
+      },
+      "artists": [
+        {
+          "name": "Memphis Minnie",
+          "url": "https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC"
+        }
+      ],
+      "duration_ms": 195306,
+      "name": "If You See My Rooster (Please Run Him Home)",
+      "url": "https://open.spotify.com/track/7eNHeLu7yJB5HN9Srvrocv"
     },
     {
       "added_at": "2023-03-03 18:11:20",

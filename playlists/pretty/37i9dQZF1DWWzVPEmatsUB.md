@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 
 > Ease into the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,004 likes - 101 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,016 likes - 101 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 90 | [Temptation](https://open.spotify.com/track/30YAMud3jbVG4tWkwmuH3E) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Temptation](https://open.spotify.com/album/4mIbuUoAWuVUJQHwdVwZxp) | 2:55 |
 | 91 | [Mending](https://open.spotify.com/track/6zbMkHR8vbJbEtuBytboaE) | [Frida Touray](https://open.spotify.com/artist/1MgSB6mX42chKoI7UjkdSm) | [Mending](https://open.spotify.com/album/34iFpOtXBv4hhHQ275AyJi) | 3:54 |
 | 92 | [Saturn](https://open.spotify.com/track/3F3YMGCp5ErvS14f71s8LX) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Saturn](https://open.spotify.com/album/3zt7xkuRvDftoB76HEu3oH) | 3:33 |
-| 93 | [Drunk On A Flight](https://open.spotify.com/track/6K6cG964OPWfRIyGDAiQzd) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/4CdeQksM2ApHyRrKX2InNk) | 3:02 |
+| 93 | [Drunk On A Flight](https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 3:02 |
 | 94 | [Compromised](https://open.spotify.com/track/0wQHBv0crqBcbkKqwg65J0) | [Lilith Merlot](https://open.spotify.com/artist/1aj2btWZXYFQP5KhTKGO0s) | [Compromised](https://open.spotify.com/album/3LiGOQ1RaeeGtBkhn0807e) | 2:58 |
 | 95 | [Thank You](https://open.spotify.com/track/1Z6ND9vhUdc2fXG7vAgfbl) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:26 |
 | 96 | [Love Overgrown](https://open.spotify.com/track/2e4oIsOkGJNQ4Ab9sjOm52) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Asha’s Awakening](https://open.spotify.com/album/2q0yeivzk1b2UUdtHf8mcC) | 3:20 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzVPEmatsUB.md) - [plain]
 | 100 | [Only Love](https://open.spotify.com/track/0dOuhQQVPnCBkvmCr5PeVH) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [When Everything Is Better, I'll Let You Know](https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx) | 2:47 |
 | 101 | [Smoke Alarm](https://open.spotify.com/track/3DO4Uwb1rmC5vNntGSmTBI) | [Laura Marano](https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT) | [Us](https://open.spotify.com/album/2J8gElhzAsvDSeU6kJvdZY) | 3:07 |
 
-Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDg4NjQ3OWZjMmIzYjIwNzNjYWE1NDE5ZWU0ZDFkY2Nk`
+Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMDhjYzExNDljZjNiMmU4OGU1ZTI0MWVjYmI5MzdhOTBh`

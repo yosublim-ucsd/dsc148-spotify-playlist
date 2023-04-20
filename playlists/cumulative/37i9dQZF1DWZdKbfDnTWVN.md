@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover Wakadinali
 
-107 songs - 5 hr 32 min
+108 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Light It Up](https://open.spotify.com/track/7wn9CznZ9KqtGxBmPVqnmN) | [AINE](https://open.spotify.com/artist/6wjvPNWZyYAX8Q98XzVrQM) | [Light It Up](https://open.spotify.com/album/1WlqYudMiTJkTF6fnx2EBi) | 3:55 | 2023-03-09 |  |
 | [Lip Service](https://open.spotify.com/track/2Mtk2PU62wsaU6f9qnEh3p) | [FEMI ONE](https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH), [Wangechi](https://open.spotify.com/artist/3sRwsuyZVOyczSZUSiAHj6) | [Lip Service](https://open.spotify.com/album/6lhrOKDPBdsz4adhAAoO6Q) | 3:51 | 2022-09-30 |  |
 | [Livin' Live](https://open.spotify.com/track/78HexnFc3Yy7NAMGmxXQyr) | [Asum Garvey](https://open.spotify.com/artist/5RzBJUlfg5ps6jEJz98Ga7) | [Livin' Live](https://open.spotify.com/album/25ibNvlW5yK0QyWzuOEt5J) | 2:44 | 2022-06-09 | 2022-10-22 |
-| [Lose](https://open.spotify.com/track/7ojMJpBewMnczrWKsIlKMC) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY) | [Lose](https://open.spotify.com/album/77GsYDaqzWi5uTDxBYVy3x) | 3:22 | 2023-01-12 |  |
+| [Lose](https://open.spotify.com/track/4nWq6NkvzFuxqbd1cyVk4A) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY) | [Lose](https://open.spotify.com/album/7LxnVwde82SZ0GCfFNGfJR) | 3:22 | 2023-04-13 |  |
+| [Lose](https://open.spotify.com/track/7ojMJpBewMnczrWKsIlKMC) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO), [BasicCity](https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY) | [Lose](https://open.spotify.com/album/77GsYDaqzWi5uTDxBYVy3x) | 3:22 | 2023-01-12 | 2023-04-20 |
 | [Mabadiliko](https://open.spotify.com/track/0fEw1TI2CPzXs93EEKo0cl) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o), [Fadhilee Itulya](https://open.spotify.com/artist/3iWzdkOgIDqZDiakNnnlig) | [Mabadiliko](https://open.spotify.com/album/6IFsDy5C0kynOzSTMQVolo) | 3:09 | 2022-08-04 |  |
 | [Magic](https://open.spotify.com/track/0SWqx2r2vLUY3j9bCPYnLp) | [Kig$](https://open.spotify.com/artist/0f9uh9RgnM6OSO5zkGyRpZ), [Kahu$h](https://open.spotify.com/artist/5XRsIBzy6ampDaZvPzRxxr) | [Connecting The Dots](https://open.spotify.com/album/65eH656OUbEIXNrFqV0tqc) | 3:50 | 2022-12-09 |  |
 | [Make Amends](https://open.spotify.com/track/5F2xI5nPDnatDJvNtP06NA) | [Amaz](https://open.spotify.com/artist/3wtVJS5a0IunELhRRHubXr) | [Make Amends](https://open.spotify.com/album/5uFC8GqHRAwtyV2wY8oWER) | 2:51 | 2022-06-02 | 2022-12-10 |

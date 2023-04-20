@@ -130,7 +130,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 217785,
       "name": "Alleen (Weer)",
       "url": "https://open.spotify.com/track/2KhW9wzxsOjcHhRqIq1dfn"
@@ -2003,6 +2003,28 @@
     },
     {
       "album": {
+        "name": "THIS YEAR (Blessings)",
+        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126206,
+      "name": "THIS YEAR (Blessings)",
+      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
+    },
+    {
+      "album": {
         "name": "Toda La Noche",
         "url": "https://open.spotify.com/album/1J2iemHQvJ59zY5Thbgbgf"
       },
@@ -2139,7 +2161,7 @@
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 250350,
+      "duration_ms": 247873,
       "name": "VOID",
       "url": "https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek"
     },

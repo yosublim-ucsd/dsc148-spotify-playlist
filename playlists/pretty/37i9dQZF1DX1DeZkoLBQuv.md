@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > Celebre o nascimento de Jesus com louvores natalinos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,039 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,036 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 26 | [Ao Único](https://open.spotify.com/track/0XwBn8aFHYmhHKeiwGBS4i) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Melhores Aline Barros](https://open.spotify.com/album/5vIVtdrGrNf7SxocqDuPui) | 4:10 |
 | 27 | [Busquem a Jesus](https://open.spotify.com/track/6Dhjqku6LpMOMzYJHMiwkl) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [Busquem a Jesus](https://open.spotify.com/album/3X38B5YfsA0lGcY4BEOj3i) | 5:22 |
 | 28 | [É Natal](https://open.spotify.com/track/2j3cFOpGzxVBvwDlhWkXHt) | [Arautos Do Rei](https://open.spotify.com/artist/7HMkkJU8KMSMpEZ1RA8gvK), [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Gabriel Tavela](https://open.spotify.com/artist/2oKH8ULbVEfOGrquTeOgh3), [Rayre Mota](https://open.spotify.com/artist/7KpvZgmCQas8vKbQvh0hMo), [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9) | [É Natal](https://open.spotify.com/album/7FjU2uBOba0eaYi5NsuMkn) | 2:48 |
-| 29 | [Glória a Deus nas Alturas](https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA) | [Laura Morena](https://open.spotify.com/artist/09BDr1YTa7t1YaOg3kg8QU), [Sullivan Dutra](https://open.spotify.com/artist/1hK8THIFG97c43aae8gLki) | [Glória a Deus nas Alturas](https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk) | 4:02 |
-| 30 | [Glória e Aleluia \- Christmas](https://open.spotify.com/track/5lNAIysz4Ca2y06ge7I7rF) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Glória e Aleluia \(Christmas\)](https://open.spotify.com/album/3yKAc435PtmccjTcqmoWRl) | 3:54 |
+| 29 | [Glória e Aleluia \- Christmas](https://open.spotify.com/track/5lNAIysz4Ca2y06ge7I7rF) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Glória e Aleluia \(Christmas\)](https://open.spotify.com/album/3yKAc435PtmccjTcqmoWRl) | 3:54 |
+| 30 | [Glória a Deus nas Alturas](https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA) | [Laura Morena](https://open.spotify.com/artist/09BDr1YTa7t1YaOg3kg8QU), [Sullivan Dutra](https://open.spotify.com/artist/1hK8THIFG97c43aae8gLki) | [Glória a Deus nas Alturas](https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk) | 4:02 |
 | 31 | [Medley de Natal: Num Berço de Palha / Noite de Paz](https://open.spotify.com/track/5rNPvuwcj2vdeLSgF8e8gI) | [Prisma Brasil](https://open.spotify.com/artist/1DFpmKLluE3dgqLgZSMFeW), [Coral Jovem do Unasp \- HT](https://open.spotify.com/artist/5Uudt8rtEFaTFRMHzXfVqj), [Coral Canto Livre](https://open.spotify.com/artist/7JjQo8WBfiIiJCG2oDPV3F) | [A Canção de Natal](https://open.spotify.com/album/7MFHWfAfMt5Ueioziy2y8O) | 5:45 |
 | 32 | [Ó, Vinde, Adoremos](https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Zoe Lilly](https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp) | [Ó, Vinde, Adoremos](https://open.spotify.com/album/18SwXFPhxjgOzEnJERhcBd) | 3:15 |
 | 33 | [Natal Real](https://open.spotify.com/track/7gx0SQWgU3PoLNPW02oRzW) | [Novo Tom](https://open.spotify.com/artist/45y2879LBmuzrx4krY6vQh), [Vitrine UNASP](https://open.spotify.com/artist/0PLADEHVEWTRR5fuaK2FFK) | [Natal Real](https://open.spotify.com/album/2m49nalJlB2nQHMjZaeIDK) | 4:16 |
-| 34 | [Noite Santa \(Cantique de Noel\)](https://open.spotify.com/track/6keWbatyTby28odg835j18) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 6:36 |
-| 35 | [Maria](https://open.spotify.com/track/1hDbPsFAV6FSFhvLIaEfuP) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 3:16 |
+| 34 | [Maria](https://open.spotify.com/track/1hDbPsFAV6FSFhvLIaEfuP) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 3:16 |
+| 35 | [Noite Santa \(Cantique de Noel\)](https://open.spotify.com/track/6keWbatyTby28odg835j18) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [O Natal de Todos Nós](https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB) | 6:36 |
 | 36 | [Dai Louvores ao Rei](https://open.spotify.com/track/68f92k1JBf9Aq8n69M10Pw) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 3:30 |
 | 37 | [O Primeiro Natal](https://open.spotify.com/track/6dN0kIqTHthn6kdt4YaNXA) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [O Novo Natal](https://open.spotify.com/album/5fva3ZEne4UOuOtXo5CSdq) | 3:50 |
 | 38 | [Vem Cear](https://open.spotify.com/track/1lzrmVDUaFNEB5586Lpw5e) | [Ellas](https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm) | [Clássicos da Música Cristã](https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 49 | [Por Amor a Nós](https://open.spotify.com/track/5gvwPdd3q0sw1yKmUNEHTw) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:43 |
 | 50 | [É meia\-noite \(Ó, Noite Santa\)](https://open.spotify.com/track/3Eozx9uSt4NhxmdBonTIFE) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Zoe Lilly](https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp) | [Nasceu o Redentor](https://open.spotify.com/album/6UWRRZufr3qRffAOkIfTfW) | 5:24 |
 
-Snapshot ID: `MTY3MDU2NzE3NCwwMDAwMDAwMGYwODRjM2RhMjIxN2UyYTc5NDE0ZjhkYWY0NzRjMTY3`
+Snapshot ID: `MTY3MDU2NzE3NCwwMDAwMDAwMDhkNGEwNDg2NGU5ZjdkZDI0NDI0NmE3MWM5ZDAyOTM2`

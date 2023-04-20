@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Pinkshift
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,925 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,957 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [to me](https://open.spotify.com/track/3NijO9nnAGdbQGaOF4Q1Zf) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [to me](https://open.spotify.com/album/30M5uH6R02LJBSO5CE70PE) | 4:03 |
-| 2 | [2 BEST FRIENDS](https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:18 |
+| 2 | [2 BEST FRIENDS](https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4) | 2:18 |
 | 3 | [Dizzy](https://open.spotify.com/track/2xETUGwxMo4bDcRwASJcKv) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge \(Deluxe Edition\)](https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv) | 2:44 |
 | 4 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |
 | 5 | [nobody's favorite person, not even my own](https://open.spotify.com/track/0RmfWxyMmROruOHM3dmdKq) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [nobody's favorite person, not even my own](https://open.spotify.com/album/6B1sAAlnS5AeE9xKijrD9b) | 2:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Don't Cut Your Hair](https://open.spotify.com/track/4afcRSxkvKPlZDoBRwTuv7) | [Baby Fisher](https://open.spotify.com/artist/0xyKLUHH6HXyMAgsDQgVsA) | [Don't Cut Your Hair](https://open.spotify.com/album/4AesOaNA7EgCBV8pIbBa01) | 2:21 |
 | 100 | [Make Way](https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ) | [Make Way](https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm) | 2:57 |
 
-Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMGU5OGRhNjA5NDg3Mzk4MWE2MzZkOTJjYjExOTc0ZWQy`
+Snapshot ID: `MTY4MTQyNjgwMCwwMDAwMDAwMDE0NDc5ZGQyZmExZjgzY2I5NGIwMzYzOGQ0NGI1NmVl`

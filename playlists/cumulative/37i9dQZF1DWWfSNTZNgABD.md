@@ -28,7 +28,7 @@
 | [Dale Don Dale](https://open.spotify.com/track/1PZrHbJjt5t7dP9OGRxcD0) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:32 | 2022-01-01 |  |
 | [Dale Don Dale](https://open.spotify.com/track/7zK02QSoQlMO0RAVqN0CI7) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Obsesión Latina](https://open.spotify.com/album/1qAvdZ9qvDBNEwzAJkZ68V) | 3:34 | 2022-01-01 | 2022-06-30 |
 | [Dame Otro Tequila \- Latin Version](https://open.spotify.com/track/1VIpGQ0U1PLhpUsjCXXQVp) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Pau\-Latina](https://open.spotify.com/album/5KhEBPND2VM1TyMkdwfQhl) | 2:48 | 2022-01-01 | 2022-07-29 |
-| [Dejame Entrar](https://open.spotify.com/track/2jNqxXMkVVpEvjvvwvUDDD) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Dejame Entrar](https://open.spotify.com/album/7qRqrZOCvzZLsNlOawHURC) | 4:00 | 2022-01-01 |  |
+| [Dejame Entrar](https://open.spotify.com/track/2jNqxXMkVVpEvjvvwvUDDD) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Dejame Entrar](https://open.spotify.com/album/7qRqrZOCvzZLsNlOawHURC) | 4:00 | 2022-01-01 | 2023-04-20 |
 | [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 | 2022-01-01 |  |
 | [Don't Wanna Try](https://open.spotify.com/track/1XE1UGRpvvkaFEeqe1OJpw) | [Frankie J](https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf) | [The One](https://open.spotify.com/album/3S2InZkyQQfQ16oSQOsGGn) | 4:05 | 2022-08-31 | 2022-11-13 |
 | [Down](https://open.spotify.com/track/0t0WIrjRcvgBAwLlby2gsZ) | [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Masterpiece: Nuestra Obra Maestra](https://open.spotify.com/album/7CpmPDrPfeDnR4ykfM7OYE) | 3:45 | 2022-01-01 |  |
@@ -120,6 +120,6 @@
 | [Yo No Sé Mañana](https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Ciclos](https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ) | 4:19 | 2022-01-01 |  |
 | [Yo Quisiera](https://open.spotify.com/track/1neSvFc8QotDXOJtXY7b8M) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Reik](https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU) | 3:37 | 2023-01-31 |  |
 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 | 2022-01-01 |  |
-| [¿Quién Te Dijo Eso?](https://open.spotify.com/track/159yUhKZg2ZAdt0HknTqDr) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Abrazar La Vida](https://open.spotify.com/album/7u8IWfPzlYcqN4N6tU4FcW) | 4:31 | 2022-01-01 | 2023-02-01 |
+| [¿Quién Te Dijo Eso?](https://open.spotify.com/track/159yUhKZg2ZAdt0HknTqDr) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Abrazar La Vida](https://open.spotify.com/album/7u8IWfPzlYcqN4N6tU4FcW) | 4:31 | 2022-01-01 |  |
 
 \*This playlist was first scraped on 2022-01-05. Prior content cannot be recovered.

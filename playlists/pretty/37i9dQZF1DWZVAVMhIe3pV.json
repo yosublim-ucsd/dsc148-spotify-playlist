@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 300136,
+  "num_followers": 300526,
   "original_name": "Energy Booster: Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTgxMjYzOCwwMDAwMDAwMDIzMTg0MGI3OWFkOGNmOTYyYzI5NzE5M2U1MzM3M2Vl",
+  "snapshot_id": "MTY4MTgxMjYzOCwwMDAwMDAwMGZjZGQ1OTMyMzk2MzczMGIwMmUzMTgzYTljMjhjOTk3",
   "tracks": [
     {
       "added_at": "2023-04-16 22:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-04-16 22:00:00",
       "album": {
-        "name": "Ten",
-        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 340907,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv"
-    },
-    {
-      "added_at": "2023-04-16 22:00:00",
-      "album": {
         "name": "Dressed To Kill",
         "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 168840,
       "name": "Rock And Roll All Nite",
       "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
+    },
+    {
+      "added_at": "2023-04-16 22:00:00",
+      "album": {
+        "name": "Ten",
+        "url": "https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 340907,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1L94M3KIu7QluZe63g64rv"
     },
     {
       "added_at": "2023-04-16 22:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-04-16 22:00:00",
       "album": {
-        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
-        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 134466,
-      "name": "Blitzkrieg Bop - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
-    },
-    {
-      "added_at": "2023-04-16 22:00:00",
-      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 186813,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4CbKVDZkYKdv69I4bCaKUq"
+    },
+    {
+      "added_at": "2023-04-16 22:00:00",
+      "album": {
+        "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+        "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 134466,
+      "name": "Blitzkrieg Bop - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
     },
     {
       "added_at": "2023-04-16 22:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-04-16 22:00:00",
       "album": {
-        "name": "The Young and The Hopeless",
-        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 190173,
-      "name": "Lifestyles of the Rich & Famous",
-      "url": "https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6"
-    },
-    {
-      "added_at": "2023-04-16 22:00:00",
-      "album": {
         "name": "School's Out",
         "url": "https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 210106,
       "name": "School's Out",
       "url": "https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe"
+    },
+    {
+      "added_at": "2023-04-16 22:00:00",
+      "album": {
+        "name": "The Young and The Hopeless",
+        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "Lifestyles of the Rich & Famous",
+      "url": "https://open.spotify.com/track/2g2a5kDeZexbUTD8abcvm6"
     },
     {
       "added_at": "2023-04-16 22:00:00",

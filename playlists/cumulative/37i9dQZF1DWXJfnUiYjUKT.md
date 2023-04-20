@@ -4,7 +4,7 @@
 
 > The very best in new music from around the world\. Cover: Lewis Capaldi
 
-6,566 songs - 14 day 8 hr 59 min
+6,567 songs - 14 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [1994](https://open.spotify.com/track/42kWSGSJu0tXXt3e2Guvsm) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [1994](https://open.spotify.com/album/2a20lEnbWdct9J2wI0J6lH) | 3:23 | 2022-09-09 | 2022-09-17 |
 | [1x1](https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [1x1](https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2) | 2:19 | 2022-05-13 | 2022-05-20 |
 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2022-07-15 | 2022-07-22 |
-| [2 BEST FRIENDS](https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:18 | 2023-04-14 |  |
+| [2 BEST FRIENDS](https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:18 | 2023-04-14 | 2023-04-20 |
+| [2 BEST FRIENDS](https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4) | 2:18 | 2023-04-14 |  |
 | [2 Certified](https://open.spotify.com/track/0I5ETO3rKcbvlFApCVVPqT) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [2 Certified](https://open.spotify.com/album/6lHMIYfSo2at38b3VzZdbY) | 3:21 | 2022-12-30 | 2023-01-06 |
 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 | 2022-07-29 | 2022-08-05 |
 | [2 DOGS 1 LEASH](https://open.spotify.com/track/3fyoU0LaGw1yqxK2bbWcOJ) | [Noah Guy](https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5) | [2 DOGS 1 LEASH](https://open.spotify.com/album/2IcmVtVgkrX6bmjRL03Kqz) | 2:42 | 2022-07-29 | 2022-08-05 |

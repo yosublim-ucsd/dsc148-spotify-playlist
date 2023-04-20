@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 174264,
+  "num_followers": 174312,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTczMzUxNiwwMDAwMDAwMDRkYjYwYTY3ZDZkNDViOTlmYThiOWRiMmE2ZmM1MTRj",
+  "snapshot_id": "MTY3NTczMzUxNiwwMDAwMDAwMGM4MmZkZDUwM2RmN2NhNGE0NjA0MzVlZWYwODY3N2Qx",
   "tracks": [
     {
       "added_at": "2023-02-07 01:31:56",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
+        "name": "Alto Voltaje",
+        "url": "https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
         "name": "Coleccion Top 50",
         "url": "https://open.spotify.com/album/6C1Kx81vuSDKo3V1r0DLMY"
       },
@@ -703,18 +719,22 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Alto Voltaje",
-        "url": "https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX"
+        "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
+        "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
       },
       "artists": [
         {
-          "name": "Daniel Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
         }
       ],
-      "duration_ms": 246800,
-      "name": "Infiel",
-      "url": "https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp"
+      "duration_ms": 287826,
+      "name": "Sin Perd\u00f3n",
+      "url": "https://open.spotify.com/track/41aYSjyFc0BwR2wdUawpzj"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -735,26 +755,6 @@
       "duration_ms": 277573,
       "name": "Tu Olvido",
       "url": "https://open.spotify.com/track/3YwtXX7xtSvQSVMzwc1PUP"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
-        "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
-        "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
-      },
-      "artists": [
-        {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
-        }
-      ],
-      "duration_ms": 287826,
-      "name": "Sin Perd\u00f3n",
-      "url": "https://open.spotify.com/track/41aYSjyFc0BwR2wdUawpzj"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -851,6 +851,26 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
+        "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
+        "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
+      },
+      "artists": [
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
+        }
+      ],
+      "duration_ms": 321160,
+      "name": "Ay Hombe",
+      "url": "https://open.spotify.com/track/4nWYJI6JxrALpuOc4StT1t"
+    },
+    {
+      "added_at": "2023-02-07 01:31:56",
+      "album": {
         "name": "Leyenda",
         "url": "https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 299733,
       "name": "Mi Hermano Y Yo",
       "url": "https://open.spotify.com/track/2uzLV2UzrpT2BFbYXwc5hZ"
-    },
-    {
-      "added_at": "2023-02-07 01:31:56",
-      "album": {
-        "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
-        "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
-      },
-      "artists": [
-        {
-          "name": "Jorge Celed\u00f3n",
-          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
-        }
-      ],
-      "duration_ms": 321160,
-      "name": "Ay Hombe",
-      "url": "https://open.spotify.com/track/4nWYJI6JxrALpuOc4StT1t"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Directo Al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2kF0AEAgWqpZTbLXNfJooJ"
+        "name": "Leyenda",
+        "url": "https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF"
       },
       "artists": [
         {
-          "name": "Jesus Manuel Estrada",
-          "url": "https://open.spotify.com/artist/6V6SKtrFyezkvonhvkd4Yg"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
         }
       ],
-      "duration_ms": 301023,
-      "name": "Directo Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0y16eBgMZ3ItBzFT6Jqchy"
+      "duration_ms": 241297,
+      "name": "Ceniza Fria",
+      "url": "https://open.spotify.com/track/2fxEsrGDk2ZcFxFUfmoolY"
     },
     {
       "added_at": "2023-02-07 01:31:56",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2023-02-07 01:31:56",
       "album": {
-        "name": "Leyenda",
-        "url": "https://open.spotify.com/album/4AgLTHJbge9qFG9EMDMulF"
+        "name": "Directo Al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2kF0AEAgWqpZTbLXNfJooJ"
       },
       "artists": [
         {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+          "name": "Jesus Manuel Estrada",
+          "url": "https://open.spotify.com/artist/6V6SKtrFyezkvonhvkd4Yg"
         }
       ],
-      "duration_ms": 241297,
-      "name": "Ceniza Fria",
-      "url": "https://open.spotify.com/track/2fxEsrGDk2ZcFxFUfmoolY"
+      "duration_ms": 301023,
+      "name": "Directo Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0y16eBgMZ3ItBzFT6Jqchy"
     }
   ],
   "unique_name": "Vallenato Full Bacano",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 
 > Abajo y a la izquierda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,309 likes - 60 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,361 likes - 60 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,11 +44,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 34 | [La Faca \- English Version](https://open.spotify.com/track/3wt9IGfeow7fndcKW4HOPB) | [Ángel Strife](https://open.spotify.com/artist/3Lse4fAlOchY8msotsYMA6), [Maritza Merk](https://open.spotify.com/artist/1I8DWt5B1TNO1ZMUcsUziI) | [La Faca \(English Version\)](https://open.spotify.com/album/1W96U3aPA75X8oxRyfAEI0) | 3:18 |
 | 35 | [Te Venero](https://open.spotify.com/track/4JdoNXs8MyxoovRv4g9udm) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [El Madrileño \(La Sobremesa\)](https://open.spotify.com/album/650sLMsoWUJ6AsjW2YvhCz) | 3:07 |
 | 36 | [Kristina](https://open.spotify.com/track/4uBAgsspUqFD9mzDebn7uV) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx) | [Kristina](https://open.spotify.com/album/5BCwHTPb0MVFbxsxtJtdIT) | 3:58 |
-| 37 | [Spanish Flea](https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!Going Places!!](https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT) | 2:06 |
-| 38 | [Fried Neck Bones And Some Home Fries](https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Uno Dos Tres 1\-2\-3](https://open.spotify.com/album/0RU2nMPZpLlb8DXBmZMB8k) | 3:03 |
-| 39 | [Afrikaan Beat](https://open.spotify.com/track/1BPXaPBTN9oF2HJ4PDx2sp) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [A Swingin' Safari \(Remastered\)](https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5) | 2:26 |
-| 40 | [Movimiento](https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:51 |
-| 41 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 |
+| 37 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 |
+| 38 | [Spanish Flea](https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!Going Places!!](https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT) | 2:06 |
+| 39 | [Movimiento](https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:51 |
+| 40 | [Afrikaan Beat](https://open.spotify.com/track/1BPXaPBTN9oF2HJ4PDx2sp) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [A Swingin' Safari \(Remastered\)](https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5) | 2:26 |
+| 41 | [Fried Neck Bones And Some Home Fries](https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Uno Dos Tres 1\-2\-3](https://open.spotify.com/album/0RU2nMPZpLlb8DXBmZMB8k) | 3:03 |
 | 42 | [Baja a la Tierra \(feat\. Lila Downs\)](https://open.spotify.com/track/44OP8tosI4ufd6XuUQvx0a) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Bi](https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483) | 3:22 |
 | 43 | [No me llores más](https://open.spotify.com/track/2gIeStpi0SclaktrnvncdO) | [Omara Portuondo](https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy) | [Omara Portuondo \(Buena Vista Social Club Presents\)](https://open.spotify.com/album/49I0jh6YTRjT56eqZvR0fs) | 4:56 |
 | 44 | [Esperanza](https://open.spotify.com/track/43iNZgahOKELvSYR0G6Yj4) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Esperanza](https://open.spotify.com/album/4PtPHfnj1DZZIkVNlVjpyq) | 5:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcViPZlF2qaM.md) - [plain]
 | 59 | [La Matanza](https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Matanza](https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6) | 3:21 |
 | 60 | [Maré](https://open.spotify.com/track/3d620Rc8aL3jnmKa9aqa8d) | [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Drama](https://open.spotify.com/album/3ZTkQB57XYgCuIH8Z09xr3) | 3:33 |
 
-Snapshot ID: `MTY4MTM0Mzc2MSwwMDAwMDAwMGRkMmFkNGZlMDIwMDA3OTAwZThkNDE1ODY4MmMxNGFm`
+Snapshot ID: `MTY4MTM0Mzc2MSwwMDAwMDAwMDNlMjZiZWY2OWUzOWM3YWJlMjE3MzkzMDExN2I1ZTg1`

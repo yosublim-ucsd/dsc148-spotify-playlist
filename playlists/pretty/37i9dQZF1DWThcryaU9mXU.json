@@ -1,12 +1,12 @@
 {
   "description": "When you want to be alone and the Blues is your soundtrack.",
-  "num_followers": 38714,
+  "num_followers": 38784,
   "original_name": "Just Me and the Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMGNkYTRmMzE4NjlhNzc2OWI2NzFkOTJhNjg1NjA1YThm",
+  "snapshot_id": "MTY3OTYxNjA2MCwwMDAwMDAwMDAxOTc1YzU0Nzc5NGFmNzNlMWNlZDZhYTEyZmFiNzdj",
   "tracks": [
     {
       "added_at": "2023-03-24 00:01:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "His Best",
-        "url": "https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        }
-      ],
-      "duration_ms": 229200,
-      "name": "Ooh Baby",
-      "url": "https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "The Amogla Sessions, Vol. 1",
         "url": "https://open.spotify.com/album/4yCM5denwMIxfmTlNXBDzJ"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 299973,
       "name": "Mean Blues",
       "url": "https://open.spotify.com/track/3BnnWKoUg5BKIflQJ7dyAz"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "His Best",
+        "url": "https://open.spotify.com/album/1ZpGSzyrRcrp6tn8IczHDU"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "duration_ms": 229200,
+      "name": "Ooh Baby",
+      "url": "https://open.spotify.com/track/3Caj3EuBDu2cpjpFNNTXLL"
     },
     {
       "added_at": "2023-03-24 00:01:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-03-24 00:01:00",
       "album": {
-        "name": "Kidney Stew (The Definitive Black & Blue Sessions)",
-        "url": "https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G"
-      },
-      "artists": [
-        {
-          "name": "Eddie \"Cleanhead\" Vinson",
-          "url": "https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58"
-        }
-      ],
-      "duration_ms": 275226,
-      "name": "Juice Head Baby",
-      "url": "https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6"
-    },
-    {
-      "added_at": "2023-03-24 00:01:00",
-      "album": {
         "name": "Muddy Waters Sings Big Bill Broonzy",
         "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 183120,
       "name": "Lonesome Road Blues",
       "url": "https://open.spotify.com/track/1lp1zm1MSYzwt3vAPhdIMQ"
+    },
+    {
+      "added_at": "2023-03-24 00:01:00",
+      "album": {
+        "name": "Kidney Stew (The Definitive Black & Blue Sessions)",
+        "url": "https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G"
+      },
+      "artists": [
+        {
+          "name": "Eddie \"Cleanhead\" Vinson",
+          "url": "https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58"
+        }
+      ],
+      "duration_ms": 275226,
+      "name": "Juice Head Baby",
+      "url": "https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6"
     },
     {
       "added_at": "2023-03-24 00:01:00",

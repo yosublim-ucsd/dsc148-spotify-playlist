@@ -1,12 +1,12 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Mirella, Mc Gabzin",
-  "num_followers": 54397,
+  "num_followers": 54502,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk5ODA2MCwwMDAwMDAwMGRlNTg3ZWNlNWI4YzJjMTI3NGVlMWJjOWMzZGRiNGFl",
+  "snapshot_id": "MTY3NTk5ODA2MCwwMDAwMDAwMDFhNWJhYmVlMmI4NjQ5MjcyMDg2YTg0MjJhNTEyOTE3",
   "tracks": [
     {
       "added_at": "2023-02-10 03:01:00",
@@ -471,6 +471,30 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
+        "name": "Respeitada",
+        "url": "https://open.spotify.com/album/0qEEb0EcNrZWILoI1Voyiz"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 140495,
+      "name": "Respeitada",
+      "url": "https://open.spotify.com/track/2s2KVzCf8ppEilPswLgGX4"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
         "name": "Ap\u00ea 1001",
         "url": "https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV"
       },
@@ -495,30 +519,6 @@
       "duration_ms": 171428,
       "name": "Ap\u00ea 1001",
       "url": "https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
-        "name": "Respeitada",
-        "url": "https://open.spotify.com/album/0qEEb0EcNrZWILoI1Voyiz"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 140495,
-      "name": "Respeitada",
-      "url": "https://open.spotify.com/track/2s2KVzCf8ppEilPswLgGX4"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -683,34 +683,6 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Dono das Esquinas",
-        "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Todo T\u00edmido",
-      "url": "https://open.spotify.com/track/6xs35sD9WnoShqmJXfOj27"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
         "name": "Lance Criminoso (feat. BK)",
         "url": "https://open.spotify.com/album/6JTwZgvuat1vaYfTAVn6Cy"
       },
@@ -739,6 +711,26 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
+        "name": "Medley Lud Session - Gato Siam\u00eas / Poesia Ac\u00fastica 10: Recome\u00e7ar / Poesia Ac\u00fastica Paris",
+        "url": "https://open.spotify.com/album/75AMCbYLJhWVXZNuPieAM7"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 353696,
+      "name": "Medley Lud Session - Gato Siam\u00eas / Poesia Ac\u00fastica 10: Recome\u00e7ar / Poesia Ac\u00fastica Paris",
+      "url": "https://open.spotify.com/track/4mvHFQ5eBJaCFaenNWcI9d"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
         "name": "Zod\u00edaco",
         "url": "https://open.spotify.com/album/4xH7fbJ5MRzks4KCpVy1J1"
       },
@@ -763,22 +755,30 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
-        "name": "Medley Lud Session - Gato Siam\u00eas / Poesia Ac\u00fastica 10: Recome\u00e7ar / Poesia Ac\u00fastica Paris",
-        "url": "https://open.spotify.com/album/75AMCbYLJhWVXZNuPieAM7"
+        "name": "Dono das Esquinas",
+        "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
         },
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
         }
       ],
-      "duration_ms": 353696,
-      "name": "Medley Lud Session - Gato Siam\u00eas / Poesia Ac\u00fastica 10: Recome\u00e7ar / Poesia Ac\u00fastica Paris",
-      "url": "https://open.spotify.com/track/4mvHFQ5eBJaCFaenNWcI9d"
+      "duration_ms": 176000,
+      "name": "Todo T\u00edmido",
+      "url": "https://open.spotify.com/track/6xs35sD9WnoShqmJXfOj27"
     },
     {
       "added_at": "2023-02-10 03:01:00",

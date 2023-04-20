@@ -1504,7 +1504,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 213310,
       "name": "Ciclo Lunar",
       "url": "https://open.spotify.com/track/1r7FUVqC9DUSeBmaXAJR3O"
@@ -2840,7 +2840,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-29",
+      "date_removed": null,
       "duration_ms": 151619,
       "name": "Estamos Bajo el Agua",
       "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
@@ -3364,7 +3364,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 138653,
       "name": "Im\u00e1n",
       "url": "https://open.spotify.com/track/0l4CmNAlJ4r2uIgJMK8yLD"
@@ -6782,6 +6782,28 @@
       "duration_ms": 155597,
       "name": "Sos Tan Perfecta",
       "url": "https://open.spotify.com/track/1kMSSiTNKUDC4qI1e2dJ62"
+    },
+    {
+      "album": {
+        "name": "Luz de perla",
+        "url": "https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY"
+      },
+      "artists": [
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        },
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169363,
+      "name": "Soy un volc\u00e1n",
+      "url": "https://open.spotify.com/track/0dGwAktrgm2gwLCcU3NLfG"
     },
     {
       "album": {

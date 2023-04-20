@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JIQWGoNdfp.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/cheetah/">Tyreek Hill</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,986 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,090 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JIQWGoNdfp.md) - [plain]
 | 5 | [Hrs & Hrs](https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 3:24 |
 | 6 | [Me U & Hennessy \(feat\. Lil Wayne\)](https://open.spotify.com/track/4TSDz7xZtxIXeKwiOuCe25) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Me U & Hennessy \(feat\. Lil Wayne\)](https://open.spotify.com/album/6pFVUvF0zOJvktayse6blO) | 3:44 |
 | 7 | [Heartbreak Anniversary](https://open.spotify.com/track/2QfznFotJNZmnIEYFdzE5T) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Heartbreak Anniversary](https://open.spotify.com/album/7nGyUIXooyVwUoAd565MN2) | 3:16 |
-| 8 | [Every Kind Of Way](https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 2:40 |
-| 9 | [Adorn](https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream](https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD) | 3:13 |
+| 8 | [Adorn](https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream](https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD) | 3:13 |
+| 9 | [Every Kind Of Way](https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 2:40 |
 | 10 | [Who Hurt You?](https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Who Hurt You?](https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039) | 3:51 |
 | 11 | [Can I](https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:47 |
 | 12 | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JIQWGoNdfp.md) - [plain]
 | 49 | [Countless Times](https://open.spotify.com/track/4Dy5oXGqZZLzOumW6Jho7o) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Love Letterz \(Deluxe\)](https://open.spotify.com/album/4QjiMgXdGCo8R2RPEqTjer) | 2:45 |
 | 50 | [Fuckin' wit Me](https://open.spotify.com/track/3v10vlZlZPApvDz3kE4aNe) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Sex, Love & Pain II](https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D) | 4:02 |
 
-Snapshot ID: `MTY2NDY3NTQ4MywwMDAwMDAwMGI0ZGI5YjBkODUwM2VmYjhiMTU0YTRmMWRkOWEzMDcy`
+Snapshot ID: `MTY2NDY3NTQ4MywwMDAwMDAwMGQ5MjEwMGZmOTA0ZmFiM2Y3NjYwODUwNjY0Y2QwY2Yx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: king isis
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,768 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,819 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 23 | [Feed The Fire](https://open.spotify.com/track/3Y1t6DTEVCbiAovIAKsiIo) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Feed The Fire](https://open.spotify.com/album/2lY4eTKT2ulUgwOz8lZp5r) | 3:38 |
 | 24 | [Self Control](https://open.spotify.com/track/7K0T7UwNqY46WC0MD6fEhr) | [Jacklen Ro](https://open.spotify.com/artist/02V9xHLkyNSvfSbJka7HhX) | [Self Control](https://open.spotify.com/album/6fARki7lNpZLU5evUM2gbn) | 3:02 |
 | 25 | [Bad Love](https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:30 |
-| 26 | [Adderall \(End of the Line\)](https://open.spotify.com/track/2zJDq0UXhz3mUvmncn4GA1) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Adderall \(End of the Line\)](https://open.spotify.com/album/2RzQZs8tIVQEBEfAwagNm3) | 4:25 |
+| 26 | [Adderall \(End of the Line\)](https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:25 |
 | 27 | [Cheese](https://open.spotify.com/track/70Ui5PlefBqCOW3uvqNRAa) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Crispy Crunchy Nothing](https://open.spotify.com/album/0cJXjTHI3rmuDoeSNb0YeU) | 2:19 |
 | 28 | [Big Plans](https://open.spotify.com/track/2JBiR5DVvF05VWERn4NeRl) | [Juliana Madrid](https://open.spotify.com/artist/6RhkgeqhRai3jy4ULSlxFx) | [Big Plans](https://open.spotify.com/album/3u3dIsBYRvqoHwBAbp1Ba1) | 3:40 |
 | 29 | [Girls Are Mean](https://open.spotify.com/track/0fMtFak025bkGYL8GHQ2UE) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3) | [Girls Are Mean](https://open.spotify.com/album/182qE2hYjrQqJie3Dqrzlo) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 99 | [Tulip Sniper](https://open.spotify.com/track/6uE5dLKF2y9brgIwJVGwNf) | [Charmer](https://open.spotify.com/artist/6vXndytZhDoSVuUIo3rOYc) | [Seney Stretch](https://open.spotify.com/album/34bh9mmSZIaDvCcfW6W2AH) | 2:02 |
 | 100 | [Liminal Bliss](https://open.spotify.com/track/0FREubimbOKkZtEVbdy9f5) | [Sweetie](https://open.spotify.com/artist/2oE9iKDAQnylK5wWR5Ldcs) | [Liminal Bliss](https://open.spotify.com/album/2Re8nPKprztJvXmVCAi6gw) | 3:22 |
 
-Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMGYyMjIzM2E3Mzc1NjgzYjcwNjBhNDQ4ZGYzYzQ5ODE4`
+Snapshot ID: `MTY4MTQ0NDg2MCwwMDAwMDAwMGU2NjRkYzE5YmRjY2U4MTMwNmE0MWIzMDA2ZWVkMDIz`

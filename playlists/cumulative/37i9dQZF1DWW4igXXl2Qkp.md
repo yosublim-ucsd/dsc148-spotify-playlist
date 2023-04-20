@@ -4,7 +4,7 @@
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: Lil Blessin
 
-724 songs - 1 day 7 hr 46 min
+726 songs - 1 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [ALL IN](https://open.spotify.com/track/0wG3FNzVfGGaTf7Dpce480) | [Broco](https://open.spotify.com/artist/1vcvlxsVaMndbUyyXnUS9L) | [ALL IN](https://open.spotify.com/album/3MB2Uzz6G4xIVbT6jYMa7t) | 3:17 | 2021-12-01 | 2022-01-14 |
 | [All or Nothing](https://open.spotify.com/track/3hAN6UAr1uMhV1HypM09hN) | [The Cool Kids](https://open.spotify.com/artist/1AWNf5CLnHH4oM1hcHiVeV), [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [All or Nothing](https://open.spotify.com/album/2aZjdkUhj431M1eXs4thcq) | 4:00 | 2022-01-13 | 2022-02-10 |
 | [Allstars](https://open.spotify.com/track/5FaHIQ1Qmf4AzMyAMjT4FN) | [Kayo Man](https://open.spotify.com/artist/4mJxYf5aa5k5c7MskJRLGA) | [Allstars](https://open.spotify.com/album/2WazslUYFi0e9JUgsTh80F) | 3:37 | 2021-12-01 | 2022-01-14 |
+| [Almost Killed Me](https://open.spotify.com/track/6B0e2V1iqzhhEihJWtZIev) | [ShaqIsDope](https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4) | [Almost Killed Me](https://open.spotify.com/album/1xrsHFd0en43PnV0vzE6Y1) | 4:13 | 2023-04-19 |  |
 | [Already Famous](https://open.spotify.com/track/5rQwF0QmVIoN91R66ARLyG) | [Tre' Amani](https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0) | [Already Famous](https://open.spotify.com/album/1HPjPr83KVb9yxOvYET3EP) | 3:26 | 2021-12-01 | 2022-01-14 |
 | [amazing!](https://open.spotify.com/track/5idzBnebMgiZLgC4ZT64GJ) | [OG KEMi](https://open.spotify.com/artist/5fnqXBFXnpSYgefFL3eGEj), [Cal1sto](https://open.spotify.com/artist/5ByRQoCFwf6cs18yGbEOJC) | [amazing!](https://open.spotify.com/album/2bduTBQK9PyT60bdql7FrW) | 3:18 | 2023-03-15 |  |
 | [American Deli \(feat\. Coi Leray\)](https://open.spotify.com/track/2GwOIEVXMZPGEJjSBF7lcp) | [Chavo](https://open.spotify.com/artist/6nlHpSAfPX5rJCuRKF2997), [Pi’erre Bourne](https://open.spotify.com/artist/3x3jSlhyv5CiCZDZlaTq0M), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Chavo's World 2](https://open.spotify.com/album/0xntyinSE3IRByoQDvTve7) | 3:13 | 2021-12-01 | 2022-01-14 |
@@ -566,7 +567,7 @@
 | [SAT\. 17](https://open.spotify.com/track/6a85jmIqcEo3QCHtHhGSF5) | [Forest Myles](https://open.spotify.com/artist/5SaSEAyoLXhklZRrFde7uA) | [SAT\. 17](https://open.spotify.com/album/26JgiEZ6tByikLutSpZIzU) | 2:49 | 2021-12-01 | 2022-01-14 |
 | [Save It](https://open.spotify.com/track/7azM14l0oXoKbYaLQEHKSO) | [Gio Dee](https://open.spotify.com/artist/6vDlSGgBjcYbC08baIEW46) | [Save It](https://open.spotify.com/album/0ELCs7dW0QN6JsIatiyI6J) | 1:48 | 2021-12-01 | 2022-01-14 |
 | [Say Datt](https://open.spotify.com/track/14Rg3f4eF9LoVZObgxkKiP) | [Fastmoney Ant](https://open.spotify.com/artist/1r1AoJILFfEvsqNiG85zwL), [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt) | [Say Datt](https://open.spotify.com/album/5pbbxNP5PcmG8lh0iZx0f0) | 2:31 | 2022-09-21 | 2022-12-01 |
-| [Scholarships](https://open.spotify.com/track/40Le5OkLnE80qyPeB8cTXw) | [Dominique](https://open.spotify.com/artist/0HEDkFaeylE7P6ntTi74aJ) | [Scholarships](https://open.spotify.com/album/4OYuyuTU9iD9kUBXmtmVeq) | 2:20 | 2023-02-22 |  |
+| [Scholarships](https://open.spotify.com/track/40Le5OkLnE80qyPeB8cTXw) | [Dominique](https://open.spotify.com/artist/0HEDkFaeylE7P6ntTi74aJ) | [Scholarships](https://open.spotify.com/album/4OYuyuTU9iD9kUBXmtmVeq) | 2:20 | 2023-02-22 | 2023-04-20 |
 | [Score Or Die](https://open.spotify.com/track/6VLv4EhaNR5SRfVEpleoWs) | [Rundown Choppaboy](https://open.spotify.com/artist/3vh0hSUAhFfS2QDNsSgtDG) | [Score Or Die](https://open.spotify.com/album/181lAFIxJUTVwxU244eJs8) | 2:43 | 2023-01-11 | 2023-02-23 |
 | [security](https://open.spotify.com/track/0hXRHx7JViumEZnIuryaPa) | [Koi](https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk) | [security](https://open.spotify.com/album/0ONEpfgK4TAtaG8p808DCh) | 1:51 | 2021-12-01 | 2022-01-14 |
 | [Set It Up](https://open.spotify.com/track/1k9bp6yzlRTOwqB4JB7RFF) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Set It Up](https://open.spotify.com/album/1e3u8uTl5quNGWVIbpD9aF) | 3:37 | 2022-03-23 | 2022-04-14 |
@@ -666,6 +667,7 @@
 | [Treasure](https://open.spotify.com/track/0vQlqxCAcLhw5u6BkkrjUP) | [Damzo](https://open.spotify.com/artist/3uV58eygtFeYiI8fj0M0eB) | [Treasure](https://open.spotify.com/album/2USNhgV9KRyW3zE1j0Cvg7) | 2:46 | 2022-03-02 | 2022-03-31 |
 | [Trenches](https://open.spotify.com/track/2TGJK0K2RDjpiRFQUF19Fv) | [Blvd Bizz](https://open.spotify.com/artist/5iESzq4XdJXus218beNwep) | [Trenches](https://open.spotify.com/album/3O0F0pbVnyDsj0S7AhYQsv) | 2:15 | 2022-03-30 | 2023-01-12 |
 | [Tricky](https://open.spotify.com/track/0Tii1QPgYcbxHdwA8pRX8Q) | [Sinzere](https://open.spotify.com/artist/5cz6c3YrUMlDVbmfZfdCat) | [Tricky](https://open.spotify.com/album/5Bv2cIUTiXcErWrh8GBIoW) | 2:38 | 2022-05-18 | 2022-07-07 |
+| [Trimmer](https://open.spotify.com/track/5FRQGuVPpvX94JkAMAYgn6) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx) | [Trimmer](https://open.spotify.com/album/1IsIWos17vXf7s6GEGSfAE) | 2:30 | 2023-04-19 |  |
 | [Trippin For No Reason](https://open.spotify.com/track/3qNBU8uyznXSeYaKRBhrmA) | [Rallyb](https://open.spotify.com/artist/5HwdNPbGU9sjjR1Eu9QhJw), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Trippin For No Reason](https://open.spotify.com/album/19AZlqiXP3YjRqUaj9s3tT) | 2:19 | 2023-01-18 | 2023-03-09 |
 | [Trophy Room](https://open.spotify.com/track/19lNcziysqSNTZ1ir6k9iy) | [Lofsky](https://open.spotify.com/artist/2oQVpMQQJZIvR4UtlYaak4) | [Timeless](https://open.spotify.com/album/1pp7k5E9klI3hiWSuoAyss) | 3:08 | 2021-12-01 | 2022-01-14 |
 | [Trust Fund](https://open.spotify.com/track/5qUHj7OWz9kkViP6DaELEc) | [Llainwire](https://open.spotify.com/artist/3IWfwGQsiQr1ywqC5w85vA) | [Trust Fund](https://open.spotify.com/album/51iB1U1CKjjelyP3ZE8oje) | 1:41 | 2023-02-15 | 2023-03-09 |
@@ -725,7 +727,7 @@
 | [WTF](https://open.spotify.com/track/4aPn8qfGNZW7UmyJ7iwEwR) | [Xlovclo](https://open.spotify.com/artist/30DOGGqkR0QtducsuI97si) | [WTF](https://open.spotify.com/album/4Nvbq6zC8Yflyd1cAQETU1) | 1:29 | 2022-03-16 | 2022-04-28 |
 | [Xfoliate \(feat\. General Fly\)](https://open.spotify.com/track/52mQbcaJNiPIn8OaiEflxY) | [Tre Nyce](https://open.spotify.com/artist/3HOxm7dZ7yd2mHjE6HQlS5), [General Fly](https://open.spotify.com/artist/0ovVBJhyUjwApNsNIPT8XB) | [Xfoliate \(feat\. General Fly\)](https://open.spotify.com/album/3zeWEXeE1KcvU9eKH4A1Mr) | 2:24 | 2022-04-06 | 2022-05-12 |
 | [Y OFC](https://open.spotify.com/track/66D4gGaEenEmVGDoO2XX4i) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [Y OFC](https://open.spotify.com/album/4IeLpOeduM8SodNkluPm06) | 3:23 | 2022-06-08 | 2022-08-11 |
-| [Ya Ya](https://open.spotify.com/track/16vVYwa7j9kMjZmq0EDLUJ) | [Leondro](https://open.spotify.com/artist/33OvupXcSbv7GsPtgWC98r) | [Ya Ya](https://open.spotify.com/album/2vZMOk7UqY2JUm6R53ZDHN) | 2:36 | 2023-04-05 |  |
+| [Ya Ya](https://open.spotify.com/track/16vVYwa7j9kMjZmq0EDLUJ) | [Leondro](https://open.spotify.com/artist/33OvupXcSbv7GsPtgWC98r) | [Ya Ya](https://open.spotify.com/album/2vZMOk7UqY2JUm6R53ZDHN) | 2:36 | 2023-04-05 | 2023-04-20 |
 | [YA YA YA](https://open.spotify.com/track/6WPH7wmoqgAy9b70XiP9mU) | [Black Yungin'](https://open.spotify.com/artist/4QiGp24evQtZMwl7Za2fsl) | [YA YA YA](https://open.spotify.com/album/3gJzcoeQdZhYwjkKpMXEkb) | 2:52 | 2022-09-21 | 2022-10-27 |
 | [Yeah Yeah](https://open.spotify.com/track/4uVIFUbUO4ZjmoTV2yVoB1) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Angels Never Die](https://open.spotify.com/album/1CzzDKZVAsxqjKtpNGAwtN) | 2:46 | 2023-01-18 | 2023-03-23 |
 | [You Again](https://open.spotify.com/track/5Kfn8EXu3UyzUuLk6PK4Og) | [Joey Melrose](https://open.spotify.com/artist/6b29OPfOOGNOsUOFLfxRrc) | [You Again](https://open.spotify.com/album/073EQPQAZCduQsVlppMv2J) | 2:10 | 2022-02-03 | 2023-01-12 |

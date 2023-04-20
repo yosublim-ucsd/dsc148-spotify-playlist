@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jessie Ware
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,713 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,845 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

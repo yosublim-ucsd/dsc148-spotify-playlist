@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Italy.",
-  "num_followers": 1047334,
+  "num_followers": 1047436,
   "original_name": "Top 50 - Italy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzM1MTgwNjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzM1MjY3MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
         "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7Da5kjy5GByLHE5OPQ4tpg"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "Innamorato",
         "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/6ds6kgkB0qRSpSnxcBomCO"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/7qMFX6YMY6dhl4OWzve4ty"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/0mHC3BK9vFGoEU0EcGPWRZ"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "Gelosa (feat. Shiva, Sfera Ebbasta, Gu\u00e8)",
         "url": "https://open.spotify.com/album/0EtbYgB5v6HF3VgWVYOOOi"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/2hHC2jw8qiE4IAPDGjU4Fu"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "RAVE, ECLISSI",
         "url": "https://open.spotify.com/album/0FfVgNTW9aFaHOYAzerA7I"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/74cyFjvgjyiFiQ3QxszFWq"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "ORIGAMI ALL'ALBA",
         "url": "https://open.spotify.com/album/282p191UnQOp3i5NREMfYL"
@@ -133,23 +133,7 @@
       "url": "https://open.spotify.com/track/3X6QTmtaKukOu5lISJYi4g"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
-      "album": {
-        "name": "Innamorato",
-        "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
-      },
-      "artists": [
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        }
-      ],
-      "duration_ms": 196693,
-      "name": "Lacrime Di Piombo",
-      "url": "https://open.spotify.com/track/5fh7anHZAkkaTzM3tUGkAg"
-    },
-    {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "BOSS",
         "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
@@ -165,7 +149,7 @@
       "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -181,7 +165,39 @@
       "url": "https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
+      "album": {
+        "name": "Innamorato",
+        "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "duration_ms": 196693,
+      "name": "Lacrime Di Piombo",
+      "url": "https://open.spotify.com/track/5fh7anHZAkkaTzM3tUGkAg"
+    },
+    {
+      "added_at": "2023-04-19 12:56:07",
+      "album": {
+        "name": "Mon Amour",
+        "url": "https://open.spotify.com/album/6q7bwUSY4WvyD6WkyDtbzH"
+      },
+      "artists": [
+        {
+          "name": "Annalisa",
+          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Mon Amour",
+      "url": "https://open.spotify.com/track/1UcJs6RsX9upkeaFCNPBNs"
+    },
+    {
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -201,7 +217,23 @@
       "url": "https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
+      "album": {
+        "name": "SUPEREROI",
+        "url": "https://open.spotify.com/album/54YVUZvEjuGMyVSyLwPPdn"
+      },
+      "artists": [
+        {
+          "name": "Mr.Rain",
+          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "SUPEREROI",
+      "url": "https://open.spotify.com/track/1nND6VDerwJxLaUwVVCp28"
+    },
+    {
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "MIRAGE (feat. Ozuna, Sfera Ebbasta & GIMS)",
         "url": "https://open.spotify.com/album/5WbgkuQehIgUQn9s5gpbZH"
@@ -229,39 +261,7 @@
       "url": "https://open.spotify.com/track/4e1U6KRJGed8gh3uRbAv3P"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
-      "album": {
-        "name": "SUPEREROI",
-        "url": "https://open.spotify.com/album/54YVUZvEjuGMyVSyLwPPdn"
-      },
-      "artists": [
-        {
-          "name": "Mr.Rain",
-          "url": "https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "SUPEREROI",
-      "url": "https://open.spotify.com/track/1nND6VDerwJxLaUwVVCp28"
-    },
-    {
-      "added_at": "2023-04-18 09:31:38",
-      "album": {
-        "name": "Innamorato",
-        "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
-      },
-      "artists": [
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "L'Isola Delle Rose",
-      "url": "https://open.spotify.com/track/0vJpQBk0qJYvlXdMash30m"
-    },
-    {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
@@ -281,23 +281,39 @@
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
-        "name": "Mon Amour",
-        "url": "https://open.spotify.com/album/6q7bwUSY4WvyD6WkyDtbzH"
+        "name": "Innamorato",
+        "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
       },
       "artists": [
         {
-          "name": "Annalisa",
-          "url": "https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv"
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
         }
       ],
-      "duration_ms": 203225,
-      "name": "Mon Amour",
-      "url": "https://open.spotify.com/track/1UcJs6RsX9upkeaFCNPBNs"
+      "duration_ms": 187400,
+      "name": "L'Isola Delle Rose",
+      "url": "https://open.spotify.com/track/0vJpQBk0qJYvlXdMash30m"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
+      "album": {
+        "name": "MATERIA (PELLE)",
+        "url": "https://open.spotify.com/album/6tgLnr7amiuRBK9LjO0pWG"
+      },
+      "artists": [
+        {
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+        }
+      ],
+      "duration_ms": 225652,
+      "name": "Due Vite",
+      "url": "https://open.spotify.com/track/4eI0ncpnZuv4A3ssTJRSDY"
+    },
+    {
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "c@ra++ere s?ec!@le",
         "url": "https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah"
@@ -317,55 +333,47 @@
       "url": "https://open.spotify.com/track/7jVQ6DP7Q6S2wKWqJmcTZL"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
-        "name": "MATERIA (PELLE)",
-        "url": "https://open.spotify.com/album/6tgLnr7amiuRBK9LjO0pWG"
+        "name": "Altamente Mia",
+        "url": "https://open.spotify.com/album/2DsrAMSZE08IvsVnluai0A"
       },
       "artists": [
         {
-          "name": "Marco Mengoni",
-          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        },
+        {
+          "name": "SHUNE",
+          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
         }
       ],
-      "duration_ms": 225652,
-      "name": "Due Vite",
-      "url": "https://open.spotify.com/track/4eI0ncpnZuv4A3ssTJRSDY"
+      "duration_ms": 172718,
+      "name": "Altamente Mia",
+      "url": "https://open.spotify.com/track/0hReXAWKqGzHBYnw0S1CXu"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
-        "name": "Innamorato",
-        "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
+        "name": "Guasto D'Amore",
+        "url": "https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7"
       },
       "artists": [
         {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        }
-      ],
-      "duration_ms": 156960,
-      "name": "Innamorato",
-      "url": "https://open.spotify.com/track/1k3CKhRz8iK3GNfTQu32eH"
-    },
-    {
-      "added_at": "2023-04-18 09:31:38",
-      "album": {
-        "name": "Milano Demons",
-        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
-      },
-      "artists": [
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        },
         {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+          "name": "SHUNE",
+          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
         }
       ],
-      "duration_ms": 228454,
-      "name": "Non lo Sai",
-      "url": "https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h"
+      "duration_ms": 200080,
+      "name": "Guasto D'Amore",
+      "url": "https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "Madreperla",
         "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
@@ -389,83 +397,23 @@
       "url": "https://open.spotify.com/track/1xUnvxp9DFrpwXnO0RHKUp"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
-        "name": "Altamente Mia",
-        "url": "https://open.spotify.com/album/2DsrAMSZE08IvsVnluai0A"
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
       },
       "artists": [
         {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
-        },
-        {
-          "name": "SHUNE",
-          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         }
       ],
-      "duration_ms": 172718,
-      "name": "Altamente Mia",
-      "url": "https://open.spotify.com/track/0hReXAWKqGzHBYnw0S1CXu"
+      "duration_ms": 228454,
+      "name": "Non lo Sai",
+      "url": "https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
-      "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/356cpEJ1ccLK6aAx99hWJK"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 200357,
-      "name": "Orange",
-      "url": "https://open.spotify.com/track/7jvwORp293fGCP6KfmE8aQ"
-    },
-    {
-      "added_at": "2023-04-18 09:31:38",
-      "album": {
-        "name": "Guasto D'Amore",
-        "url": "https://open.spotify.com/album/1CUZTsdUtnhtirsffXGMX7"
-      },
-      "artists": [
-        {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
-        },
-        {
-          "name": "SHUNE",
-          "url": "https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr"
-        }
-      ],
-      "duration_ms": 200080,
-      "name": "Guasto D'Amore",
-      "url": "https://open.spotify.com/track/4CQNELF3U3gyNcI6sLr6yK"
-    },
-    {
-      "added_at": "2023-04-18 09:31:38",
-      "album": {
-        "name": "Non litighiamo pi\u00f9",
-        "url": "https://open.spotify.com/album/3ARAg9P6I7BCuwRy0UJKos"
-      },
-      "artists": [
-        {
-          "name": "Rocco Hunt",
-          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
-        }
-      ],
-      "duration_ms": 180444,
-      "name": "Non litighiamo pi\u00f9",
-      "url": "https://open.spotify.com/track/5vHWd8yLGCxb8s9RaThO9w"
-    },
-    {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "Pel\u00e9",
         "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
@@ -485,7 +433,23 @@
       "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
+      "album": {
+        "name": "Non litighiamo pi\u00f9",
+        "url": "https://open.spotify.com/album/3ARAg9P6I7BCuwRy0UJKos"
+      },
+      "artists": [
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        }
+      ],
+      "duration_ms": 180444,
+      "name": "Non litighiamo pi\u00f9",
+      "url": "https://open.spotify.com/track/5vHWd8yLGCxb8s9RaThO9w"
+    },
+    {
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "L'AMORE",
         "url": "https://open.spotify.com/album/4SfgZ55Rx2K9Ae0ftl52YG"
@@ -501,7 +465,27 @@
       "url": "https://open.spotify.com/track/1r2uadbNnJrNjuupsFGXJJ"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
+      "album": {
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/356cpEJ1ccLK6aAx99hWJK"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 200357,
+      "name": "Orange",
+      "url": "https://open.spotify.com/track/7jvwORp293fGCP6KfmE8aQ"
+    },
+    {
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "Innamorato",
         "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
@@ -512,12 +496,12 @@
           "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
         }
       ],
-      "duration_ms": 193591,
-      "name": "Giulia",
-      "url": "https://open.spotify.com/track/0bqAI6Df61jBmtBbkrfSm8"
+      "duration_ms": 156960,
+      "name": "Innamorato",
+      "url": "https://open.spotify.com/track/1k3CKhRz8iK3GNfTQu32eH"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
@@ -541,27 +525,7 @@
       "url": "https://open.spotify.com/track/4midGjEpVz0mYkIdQMFX3l"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
-      "album": {
-        "name": "Milano Demons",
-        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 171702,
-      "name": "Un Altro Show (feat. Geolier)",
-      "url": "https://open.spotify.com/track/0AbDjrdgKTXzGzvQ1drgQl"
-    },
-    {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "Il Doc 3 (feat. Tony Effe, Slings & MamboLosco)",
         "url": "https://open.spotify.com/album/0Us36d7YZAKpS3YjY1oVNk"
@@ -597,75 +561,27 @@
       "url": "https://open.spotify.com/track/3yjVLPigd6HDjBpJMYEUih"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
-        "name": "Innamorato",
-        "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
       },
       "artists": [
         {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        }
-      ],
-      "duration_ms": 176100,
-      "name": "Anima Tormentata",
-      "url": "https://open.spotify.com/track/7C1cnKPhNwieQsKORc0hE1"
-    },
-    {
-      "added_at": "2023-04-18 09:31:38",
-      "album": {
-        "name": "Nove Chiamate",
-        "url": "https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy"
-      },
-      "artists": [
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         },
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         }
       ],
-      "duration_ms": 181668,
-      "name": "Arai (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c"
+      "duration_ms": 171702,
+      "name": "Un Altro Show (feat. Geolier)",
+      "url": "https://open.spotify.com/track/0AbDjrdgKTXzGzvQ1drgQl"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
-      "album": {
-        "name": "Innamorato",
-        "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
-      },
-      "artists": [
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        }
-      ],
-      "duration_ms": 175378,
-      "name": "Scusa",
-      "url": "https://open.spotify.com/track/7w9URuxEODwcChkFCpsf5Q"
-    },
-    {
-      "added_at": "2023-04-18 09:31:38",
-      "album": {
-        "name": "Innamorato",
-        "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
-      },
-      "artists": [
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
-        }
-      ],
-      "duration_ms": 202975,
-      "name": "Fotocopia",
-      "url": "https://open.spotify.com/track/1jztU94j0RX2DLWXhSHkKX"
-    },
-    {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "RR",
         "url": "https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW"
@@ -685,7 +601,27 @@
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
+      "album": {
+        "name": "Nove Chiamate",
+        "url": "https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 181668,
+      "name": "Arai (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c"
+    },
+    {
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "Innamorato",
         "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
@@ -696,12 +632,12 @@
           "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
         }
       ],
-      "duration_ms": 165244,
-      "name": "Ancora, Ancora, Ancora",
-      "url": "https://open.spotify.com/track/3Ipfe6NFwCvTtfBMl4NbBh"
+      "duration_ms": 193591,
+      "name": "Giulia",
+      "url": "https://open.spotify.com/track/0bqAI6Df61jBmtBbkrfSm8"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
@@ -717,7 +653,7 @@
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "Shakira: Bzrp Music Sessions, Vol. 53",
         "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
@@ -737,27 +673,23 @@
       "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
-        "name": "Radio Gotham",
-        "url": "https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU"
+        "name": "Duemilaminuti",
+        "url": "https://open.spotify.com/album/7LZw3UWmtxA9mP8s9ZeIEb"
       },
       "artists": [
         {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        },
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "Mara Sattei",
+          "url": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
         }
       ],
-      "duration_ms": 133266,
-      "name": "Fantasmi (feat. Geolier)",
-      "url": "https://open.spotify.com/track/0uXDSAM6q44glALKnQQyqW"
+      "duration_ms": 224993,
+      "name": "Duemilaminuti",
+      "url": "https://open.spotify.com/track/59nchDV5vZqIP0m1DgpSuS"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "Mare fuori (Colonna sonora originale della Serie TV)",
         "url": "https://open.spotify.com/album/4gNqj9AqQFp0OGiwrVTo8W"
@@ -785,39 +717,23 @@
       "url": "https://open.spotify.com/track/1DQXiBc8DqPfcdLVZkouhI"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
-        "name": "Duemilaminuti",
-        "url": "https://open.spotify.com/album/7LZw3UWmtxA9mP8s9ZeIEb"
+        "name": "Innamorato",
+        "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
       },
       "artists": [
         {
-          "name": "Mara Sattei",
-          "url": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
         }
       ],
-      "duration_ms": 224993,
-      "name": "Duemilaminuti",
-      "url": "https://open.spotify.com/track/59nchDV5vZqIP0m1DgpSuS"
+      "duration_ms": 176100,
+      "name": "Anima Tormentata",
+      "url": "https://open.spotify.com/track/7C1cnKPhNwieQsKORc0hE1"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
-      "album": {
-        "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
-        "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "HERMES",
-      "url": "https://open.spotify.com/track/4YM3Pxqe3FiapO16Myngww"
-    },
-    {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "Ok. Respira",
         "url": "https://open.spotify.com/album/3ElKadDuMaG1bpqkLHDpdg"
@@ -833,39 +749,59 @@
       "url": "https://open.spotify.com/track/1Zr8LezOCv9IKPm9cwN27F"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
-        "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
-        "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
+        "name": "Radio Gotham",
+        "url": "https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU"
       },
       "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
         {
           "name": "Geolier",
           "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
         }
       ],
-      "duration_ms": 145124,
-      "name": "SOLDATI",
-      "url": "https://open.spotify.com/track/1SNjXnEMWjEYRLAteXJpTK"
+      "duration_ms": 133266,
+      "name": "Fantasmi (feat. Geolier)",
+      "url": "https://open.spotify.com/track/0uXDSAM6q44glALKnQQyqW"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
-        "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
-        "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
+        "name": "Innamorato",
+        "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
       },
       "artists": [
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
         }
       ],
-      "duration_ms": 138579,
-      "name": "SO FLY",
-      "url": "https://open.spotify.com/track/2Xzauj0gFhELmQ8KgoYiUS"
+      "duration_ms": 202975,
+      "name": "Fotocopia",
+      "url": "https://open.spotify.com/track/1jztU94j0RX2DLWXhSHkKX"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
+      "album": {
+        "name": "Innamorato",
+        "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
+      },
+      "artists": [
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+        }
+      ],
+      "duration_ms": 175378,
+      "name": "Scusa",
+      "url": "https://open.spotify.com/track/7w9URuxEODwcChkFCpsf5Q"
+    },
+    {
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "MADE IN ITALY",
         "url": "https://open.spotify.com/album/0miArJPcQRJwlfZ6OGs2WJ"
@@ -885,23 +821,7 @@
       "url": "https://open.spotify.com/track/35BICD5dEJLVicj9cV0jhe"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
-      "album": {
-        "name": "ZONDA",
-        "url": "https://open.spotify.com/album/0XC7jYCEXjyK9Skl7ydilK"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 217190,
-      "name": "ZONDA",
-      "url": "https://open.spotify.com/track/28Q3CFgOA5EM2bmKaB9d53"
-    },
-    {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "Bellissima",
         "url": "https://open.spotify.com/album/3I7EQQqrQ1kdZBoaNkCdY4"
@@ -917,31 +837,7 @@
       "url": "https://open.spotify.com/track/39jxR2xnmcBbkdPX9oNzsI"
     },
     {
-      "added_at": "2023-04-18 09:31:38",
-      "album": {
-        "name": "IL CORAGGIO DEI BAMBINI",
-        "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Michelangelo",
-          "url": "https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH"
-        }
-      ],
-      "duration_ms": 165216,
-      "name": "MONDAY (feat. Shiva & Michelangelo)",
-      "url": "https://open.spotify.com/track/3gMPES6pOosBWxkXAakOxq"
-    },
-    {
-      "added_at": "2023-04-18 09:31:38",
+      "added_at": "2023-04-19 12:56:07",
       "album": {
         "name": "Innamorato",
         "url": "https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP"
@@ -952,9 +848,105 @@
           "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
         }
       ],
-      "duration_ms": 168952,
-      "name": "Vada Come Vada",
-      "url": "https://open.spotify.com/track/5lwKdmrgdLUI6ySYtxor3Z"
+      "duration_ms": 165244,
+      "name": "Ancora, Ancora, Ancora",
+      "url": "https://open.spotify.com/track/3Ipfe6NFwCvTtfBMl4NbBh"
+    },
+    {
+      "added_at": "2023-04-19 12:56:07",
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
+        "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "HERMES",
+      "url": "https://open.spotify.com/track/4YM3Pxqe3FiapO16Myngww"
+    },
+    {
+      "added_at": "2023-04-19 12:56:07",
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
+        "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 145124,
+      "name": "SOLDATI",
+      "url": "https://open.spotify.com/track/1SNjXnEMWjEYRLAteXJpTK"
+    },
+    {
+      "added_at": "2023-04-19 12:56:07",
+      "album": {
+        "name": "ZONDA",
+        "url": "https://open.spotify.com/album/0XC7jYCEXjyK9Skl7ydilK"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 217190,
+      "name": "ZONDA",
+      "url": "https://open.spotify.com/track/28Q3CFgOA5EM2bmKaB9d53"
+    },
+    {
+      "added_at": "2023-04-19 12:56:07",
+      "album": {
+        "name": "Fake News",
+        "url": "https://open.spotify.com/album/320Gb2Ckal3R9G5GI8hgjV"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 203647,
+      "name": "Coca zero",
+      "url": "https://open.spotify.com/track/76LF4y8EPCZztMVpoISOer"
+    },
+    {
+      "added_at": "2023-04-19 12:56:07",
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
+        "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 138579,
+      "name": "SO FLY",
+      "url": "https://open.spotify.com/track/2Xzauj0gFhELmQ8KgoYiUS"
+    },
+    {
+      "added_at": "2023-04-19 12:56:07",
+      "album": {
+        "name": "Hustle Mixtape",
+        "url": "https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Capri Sun",
+      "url": "https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2"
     }
   ],
   "unique_name": "Top 50 - Italy",

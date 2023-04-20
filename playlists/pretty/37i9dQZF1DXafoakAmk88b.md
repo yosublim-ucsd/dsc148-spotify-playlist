@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 ### [Indie Frequency](https://open.spotify.com/playlist/37i9dQZF1DXafoakAmk88b)
 
-> New Indie driving the current, every week\. Cover: Chiiild, by Ian Woods.
+> New Indie driving the current, every week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,122 likes - 111 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,148 likes - 111 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 110 | [Already free](https://open.spotify.com/track/45nFXvQK9RIi8zMip6ogzh) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I’m not a mother, but I have children](https://open.spotify.com/album/3g658ZgE7SVrv89Y3VkjgX) | 2:18 |
 | 111 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 |
 
-Snapshot ID: `MTY4MDIzNTIwMCwwMDAwMDAwMGY5ODQ0ZmEyYjMyZjgyNGY5MzIwNjJhODUyZGI2Njg4`
+Snapshot ID: `MTY4MTkyNTkzNiwwMDAwMDAwMDM3NWMzNGZjODNmNzkwZTQ2YTU5YzllMTE1MWFhYTA4`

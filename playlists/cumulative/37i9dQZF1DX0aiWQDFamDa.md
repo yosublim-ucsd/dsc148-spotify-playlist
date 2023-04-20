@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-264 songs - 22 hr 8 min
+265 songs - 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Remembrance](https://open.spotify.com/track/20idPJhwG1p86XbpNt5dAJ) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Remembrance](https://open.spotify.com/album/6dT2PVzDSBtjKXu4EhdezZ) | 4:04 | 2022-11-10 |  |
 | [Riddles](https://open.spotify.com/track/4Fsh2vQydc0fJCxCA3DYJD) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Riddles](https://open.spotify.com/album/3ohPksjl6oWAF2NkM9p0Q2) | 3:53 | 2023-02-12 | 2023-04-14 |
 | [Rise Again](https://open.spotify.com/track/278NmaKNQjLEF3sNyEzcSN) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [Rise Again](https://open.spotify.com/album/7b4UPV5j802exbvqWNoSgq) | 4:59 | 2022-11-10 | 2023-02-10 |
-| [Rubicon](https://open.spotify.com/track/2ZkAAVVr0wuSN0pYdXBGmI) | [Spiral TRIO](https://open.spotify.com/artist/0wIOfSD1FxqTXeoWVbP98f) | [Broken Blue](https://open.spotify.com/album/33y9tsuWeTjtansJsA5xCX) | 6:10 | 2022-05-18 |  |
+| [Rubicon](https://open.spotify.com/track/2ZkAAVVr0wuSN0pYdXBGmI) | [Spiral TRIO](https://open.spotify.com/artist/0wIOfSD1FxqTXeoWVbP98f) | [Broken Blue](https://open.spotify.com/album/33y9tsuWeTjtansJsA5xCX) | 6:10 | 2022-05-18 | 2023-04-20 |
 | [Sad Story](https://open.spotify.com/track/6DK6hcOB6iCaXH3Bc8TqWb) | [Patrik Boman](https://open.spotify.com/artist/6UJ3XmKfJ3nQmmfbkRRDxw) | [Sad Story](https://open.spotify.com/album/7EozYiaqWtSWnQ1l0gaqVH) | 5:30 | 2022-08-26 | 2022-10-27 |
 | [Salar de Uyuni](https://open.spotify.com/track/4lmHHLC06pFMx2gb7KnDJW) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Salar de Uyuni](https://open.spotify.com/album/3RcrtLDdMGa4pvCtV4AMkp) | 4:14 | 2022-12-01 |  |
 | [Say It \(Over And Over Again\)](https://open.spotify.com/track/016HKF7A4O7tatoJ9BgZM1) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 4:15 | 2022-05-18 | 2023-04-14 |
@@ -258,6 +258,7 @@
 | [When Your Lover Has Gone](https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:54 | 2022-05-18 | 2023-03-18 |
 | [Where Are You \- Remastered](https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 5:10 | 2022-09-08 |  |
 | [Where Can I Go Without You](https://open.spotify.com/track/6WTaPOmjmElVLG7HD8nHkb) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Last Dance](https://open.spotify.com/album/6SeF9urdp6Cw8aL11XwVEa) | 9:32 | 2022-06-03 |  |
+| [Whiplashed](https://open.spotify.com/track/6qJ26rva0vDec7YDB2olDD) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Whiplashed](https://open.spotify.com/album/48K8veuVqjwlO3SMUguVHw) | 3:17 | 2023-04-13 |  |
 | [Who Can I Turn To?](https://open.spotify.com/track/5QUGJBVRj59tCxosNP7G6X) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Shadow Of Your Smile](https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9) | 2:10 | 2022-05-18 | 2022-08-27 |
 | [Willow Weep for Me](https://open.spotify.com/track/07jrvCmNfEglvbjxPZ3GIv) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Plays Ballads](https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et) | 5:21 | 2022-05-18 | 2022-07-26 |
 | [Willow Weep for Me \- Remastered](https://open.spotify.com/track/111VqNnQA1m6enKxaO77B5) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Ben Webster Plays Ballads Remastered](https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG) | 5:15 | 2022-06-29 | 2022-09-23 |

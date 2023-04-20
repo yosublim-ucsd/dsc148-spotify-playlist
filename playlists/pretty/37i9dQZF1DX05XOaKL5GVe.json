@@ -1,12 +1,12 @@
 {
   "description": "Tesoros musicales del ayer.",
-  "num_followers": 619947,
+  "num_followers": 620599,
   "original_name": "Viejitas pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTc2NjA3MywwMDAwMDAwMDhjODA0ZWE5ZTU1MjZkMGQ4NDJlN2Y2OTk2YTc4MTBj",
+  "snapshot_id": "MTY3OTc2NjA3MywwMDAwMDAwMGU2ODJiMzAzZTQ5OTljMzY0ZjdlMTU2M2M2Mjc0Yzdj",
   "tracks": [
     {
       "added_at": "2021-04-22 14:20:49",
@@ -315,18 +315,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Silueta",
-        "url": "https://open.spotify.com/album/1pmUVsO9cAYP6OmJNho4I0"
+        "name": "15 \u00c9xitos de Marisela Vol. 2",
+        "url": "https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "Marisela",
+          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
         }
       ],
-      "duration_ms": 256706,
-      "name": "Evidencias",
-      "url": "https://open.spotify.com/track/5YndFYZkywO0F5taLwCEQR"
+      "duration_ms": 215626,
+      "name": "Sin \u00c9l",
+      "url": "https://open.spotify.com/track/4vwNVm3Jrdj7G9w5XJX4x3"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -347,34 +347,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "15 \u00c9xitos de Marisela Vol. 2",
-        "url": "https://open.spotify.com/album/4fNcKuACla3rJrdwA5s2hn"
+        "name": "Silueta",
+        "url": "https://open.spotify.com/album/1pmUVsO9cAYP6OmJNho4I0"
       },
       "artists": [
         {
-          "name": "Marisela",
-          "url": "https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 215626,
-      "name": "Sin \u00c9l",
-      "url": "https://open.spotify.com/track/4vwNVm3Jrdj7G9w5XJX4x3"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "Sin Tu Amor",
-        "url": "https://open.spotify.com/album/6f9QuizfwLCv9SvU8DtsO4"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Maria Napole\u00f3n",
-          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/08fbpynRAv6hPqqPZISRsa"
+      "duration_ms": 256706,
+      "name": "Evidencias",
+      "url": "https://open.spotify.com/track/5YndFYZkywO0F5taLwCEQR"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -391,6 +375,22 @@
       "duration_ms": 275066,
       "name": "Me llamas",
       "url": "https://open.spotify.com/track/0WFatRyMXS4JVP9jSfO1Fe"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Sin Tu Amor",
+        "url": "https://open.spotify.com/album/6f9QuizfwLCv9SvU8DtsO4"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Maria Napole\u00f3n",
+          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/08fbpynRAv6hPqqPZISRsa"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -639,22 +639,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Serie De Oro",
-        "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "Debut Y Despedida",
-      "url": "https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Volcan",
         "url": "https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 285360,
       "name": "Volc\u00e1n",
       "url": "https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Serie De Oro",
+        "url": "https://open.spotify.com/album/1vdwYgTjF9jklmR0RbRR0d"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "Debut Y Despedida",
+      "url": "https://open.spotify.com/track/1Ab8M5xfQ0nUTGSldQzAA2"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Mocedades 5",
-        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
-      },
-      "artists": [
-        {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
-      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 235572,
       "name": "Que Ganas de No Verte Nunca Mas",
       "url": "https://open.spotify.com/track/45k6YC7usGnU34FRz8peZd"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Mocedades 5",
+        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
+      },
+      "artists": [
+        {
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
+      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Mudanzas",
-        "url": "https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54"
-      },
-      "artists": [
-        {
-          "name": "Lupita D'Alessio",
-          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
-        }
-      ],
-      "duration_ms": 231967,
-      "name": "Mudanzas",
-      "url": "https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Cl\u00e1sicos Latinos",
         "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 141666,
       "name": "Adoro",
       "url": "https://open.spotify.com/track/00qP28OLPa3PQ7EmWBsaMK"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Mudanzas",
+        "url": "https://open.spotify.com/album/3iQaYoL4kryRUEHChDAm54"
+      },
+      "artists": [
+        {
+          "name": "Lupita D'Alessio",
+          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+        }
+      ],
+      "duration_ms": 231967,
+      "name": "Mudanzas",
+      "url": "https://open.spotify.com/track/1UPPpJhqQW34QGEjRx32jF"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Mi Pueblo",
-        "url": "https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2"
-      },
-      "artists": [
-        {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
-        }
-      ],
-      "duration_ms": 152711,
-      "name": "Mi Pueblo",
-      "url": "https://open.spotify.com/track/3SSOvO40lo6wmz8r0Kt3M1"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Rock, Balada y Sentimiento, Vol. I",
         "url": "https://open.spotify.com/album/1RlQD9D7ejT2KkSpGxJT9C"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 199262,
       "name": "Llamarada",
       "url": "https://open.spotify.com/track/0q8Ibx0l0varKmNQnlWTLZ"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Mi Pueblo",
+        "url": "https://open.spotify.com/album/3X6vNPToCXfZcdLVIGaJk2"
+      },
+      "artists": [
+        {
+          "name": "Cesar Costa",
+          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+        }
+      ],
+      "duration_ms": 152711,
+      "name": "Mi Pueblo",
+      "url": "https://open.spotify.com/track/3SSOvO40lo6wmz8r0Kt3M1"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Grandes \u00c9xitos Vol.2",
-        "url": "https://open.spotify.com/album/73HgDlnXFSEWv7qmKDogeN"
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4JUkSVuOwbbMwCXETe6qa0"
       },
       "artists": [
         {
-          "name": "Cesar Costa",
-          "url": "https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP"
+          "name": "Victor Yturbe \"El Piruli\"",
+          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
         }
       ],
-      "duration_ms": 160835,
-      "name": "La Historia de Tommy",
-      "url": "https://open.spotify.com/track/1LZZNt7iehSyCtsBvEk4EZ"
+      "duration_ms": 190533,
+      "name": "Mi\u00e9nteme",
+      "url": "https://open.spotify.com/track/75B5ZKWxccZztF9x76RKXt"
     }
   ],
   "unique_name": "Viejitas pero Bonitas",

@@ -4,7 +4,7 @@
 
 > Soulful Hindi songs for your nostalgic journey\. Cover \- Kabhi Kabhie
 
-134 songs - 10 hr 5 min
+135 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Tujhe Jeevan Ki Dor Se](https://open.spotify.com/track/4Rw9f44VIUPaTmXIiofHwB) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Asli Naqli](https://open.spotify.com/album/0Bl5C3tHLLJBWpDx8dO4Fv) | 4:14 | 2022-01-05 | 2022-06-29 |
 | [Tum Itna Jo Muskura Rahe Ho](https://open.spotify.com/track/4SVLJYv9gJQgFhtJdW3TEX) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Arth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0awQFrzYaUGPkilq1gGrXF) | 5:21 | 2021-09-29 |  |
 | [Tum Jo Mil Gaye Ho](https://open.spotify.com/track/2dURhAl9CNjpQ2aD2kN9XC) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Hanste Zakhm](https://open.spotify.com/album/7fyvwvooseBtKcfzx1j0Vd) | 8:06 | 2021-09-29 | 2022-07-23 |
+| [Tum Jo Mil Gaye Ho \(From "Hanste Zakhm"\)](https://open.spotify.com/track/2fUpfW6NKGbpVO4oSgpX38) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Lag Ja Gale \- Best of Lata Mangeshkar and Madan Mohan](https://open.spotify.com/album/3KtIvdV7p791lZ2J5TSSow) | 8:09 | 2023-04-19 |  |
 | [Tum Pukar Lo Tumhara Intezar Hai](https://open.spotify.com/track/3bKu8IK7vgUDwtJiYcBkme) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Khamoshi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JhYCL7nhuh98kIMzzqviP) | 3:45 | 2021-09-29 |  |
 | [Tumsa Nahin Dekha](https://open.spotify.com/track/19XGh74why406tLVd0ddVt) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Tumsa Nahin Dekha](https://open.spotify.com/album/3LTuCNDs3g4vWGtLS5RfVv) | 3:30 | 2022-01-05 | 2022-07-22 |
 | [Yaad Kiya Dil Ne](https://open.spotify.com/track/4SIyELnEXAxSzXbWQ5MorW) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Patita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1AO1npNUV93OKmz3J7X3lW) | 4:14 | 2021-09-29 | 2022-07-15 |
@@ -135,7 +136,7 @@
 | [Yeh Lo Main Haari Piya](https://open.spotify.com/track/2Qlx7OlT4o9JIsAbgLwhm1) | [Geeta Dutt](https://open.spotify.com/artist/0QsbYX8XslSSUcztc6u4pO) | [Aar Paar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0f846jv2LgmzT2ZvqWcLYe) | 3:10 | 2021-09-29 |  |
 | [Yeh Mera Diwanapan Hai](https://open.spotify.com/track/6O9tpC8F1dzV1JhkiGQ5iU) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Yahudi](https://open.spotify.com/album/3mD0hz6wZyw1JVpauwKlT4) | 3:46 | 2021-09-29 | 2022-07-29 |
 | [Yeh Raat Bheegi Bheegi](https://open.spotify.com/track/4B3UcOcsfqurNkTnO9tczy) | [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Chori Chori \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QhuFKn0eSrmf64IhtBzfW) | 4:29 | 2021-09-29 |  |
-| [Yeh Raaten \- From "Julie"](https://open.spotify.com/track/2QbjqY4vGkqC4eMrI4KiUX) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [The Golden Melodies, Vol\. 1](https://open.spotify.com/album/2qrLaaJpaQKJQF0fUS0lBJ) | 5:35 | 2023-02-03 |  |
+| [Yeh Raaten \- From "Julie"](https://open.spotify.com/track/2QbjqY4vGkqC4eMrI4KiUX) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [The Golden Melodies, Vol\. 1](https://open.spotify.com/album/2qrLaaJpaQKJQF0fUS0lBJ) | 5:35 | 2023-02-03 | 2023-04-20 |
 | [Yeh Raaten \- From "Julie" / Soundtrack Version](https://open.spotify.com/track/6jWYM50qljcVX5gypDKl2J) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Julie](https://open.spotify.com/album/77TiM1bLTtAg8Y5wc4W93B) | 5:36 | 2021-09-29 | 2022-07-27 |
 | [Yeh Raaten Yeh Mausam](https://open.spotify.com/track/5ZKMBzpA8E2dDOmL06pK3J) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Dilli Ka Thug](https://open.spotify.com/album/45Fd3urpMLMCbjqiHYWEBD) | 3:21 | 2021-09-29 | 2022-07-29 |
 | [Yeh Raaten Yeh Mausam \(From "Dilli Ka Thug"\)](https://open.spotify.com/track/1lq55yqSIDg3ZzDHai2Eot) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [One Man Many Roles \- Kishore Kumar](https://open.spotify.com/album/7hJJJsU0AS5dMOdyxDfUhQ) | 3:21 | 2023-02-21 |  |

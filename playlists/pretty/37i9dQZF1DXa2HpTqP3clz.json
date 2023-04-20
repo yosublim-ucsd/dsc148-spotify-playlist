@@ -1,12 +1,12 @@
 {
   "description": "Hear the latest releases from bluegrass and string bands alike. Cover: Mighty Poplar",
-  "num_followers": 120053,
+  "num_followers": 120078,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDYxZjdhYjY0OTQ4NzY3MWUxNzI2MTM3NTg2MTM0MWNm",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDJkZjNiZDI1NGZjOGY5YzJkMDdhNmVhOTVlMmIwODAy",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Long Time To Be Gone",
-        "url": "https://open.spotify.com/album/57Vu4douVKyoHc5Asa2LHM"
+        "name": "Turmoil & Tinfoil",
+        "url": "https://open.spotify.com/album/3CKP5G9f93RBbUi73HnyVC"
       },
       "artists": [
         {
-          "name": "Nora Brown",
-          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
         }
       ],
-      "duration_ms": 120609,
-      "name": "Jenny Put the Kettle On",
-      "url": "https://open.spotify.com/track/1r65QhZcekR3BWfwkjIf6I"
+      "duration_ms": 276004,
+      "name": "While I'm Waiting Here",
+      "url": "https://open.spotify.com/track/2AHa3IJtKoe0pvO5ZX1WU8"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Turmoil & Tinfoil",
-        "url": "https://open.spotify.com/album/3CKP5G9f93RBbUi73HnyVC"
+        "name": "Long Time To Be Gone",
+        "url": "https://open.spotify.com/album/57Vu4douVKyoHc5Asa2LHM"
       },
       "artists": [
         {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
         }
       ],
-      "duration_ms": 276004,
-      "name": "While I'm Waiting Here",
-      "url": "https://open.spotify.com/track/2AHa3IJtKoe0pvO5ZX1WU8"
+      "duration_ms": 120609,
+      "name": "Jenny Put the Kettle On",
+      "url": "https://open.spotify.com/track/1r65QhZcekR3BWfwkjIf6I"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -943,22 +943,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Echo In The Valley",
-        "url": "https://open.spotify.com/album/4go0nUSCyfDJGPnN33FWhe"
+        "name": "Lyin' Low",
+        "url": "https://open.spotify.com/album/20XVs57B5nrk68OGkSbWh4"
       },
       "artists": [
         {
-          "name": "B\u00e9la Fleck",
-          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
-        },
-        {
-          "name": "Abigail Washburn",
-          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
+          "name": "Charles Wesley Godwin",
+          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
         }
       ],
-      "duration_ms": 202053,
-      "name": "If I Could Talk To A Younger Me",
-      "url": "https://open.spotify.com/track/4QFM3QnPlyqDz0l5gdfeUs"
+      "duration_ms": 258683,
+      "name": "Lyin' Low",
+      "url": "https://open.spotify.com/track/4zKzSlADNWYQ8dKOQ3eMf0"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -983,6 +979,26 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Echo In The Valley",
+        "url": "https://open.spotify.com/album/4go0nUSCyfDJGPnN33FWhe"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Fleck",
+          "url": "https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU"
+        },
+        {
+          "name": "Abigail Washburn",
+          "url": "https://open.spotify.com/artist/40CfCtMnEXvvCKk8J1DniP"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "If I Could Talk To A Younger Me",
+      "url": "https://open.spotify.com/track/4QFM3QnPlyqDz0l5gdfeUs"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "White Freight Liner Blues (feat. Molly Tuttle)",
         "url": "https://open.spotify.com/album/6x0ueS4GGofC8q79ryKbR4"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 256000,
       "name": "White Freight Liner Blues (feat. Molly Tuttle)",
       "url": "https://open.spotify.com/track/4pIsyjHTDweaJDyQl6dMrd"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Lyin' Low",
-        "url": "https://open.spotify.com/album/20XVs57B5nrk68OGkSbWh4"
-      },
-      "artists": [
-        {
-          "name": "Charles Wesley Godwin",
-          "url": "https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC"
-        }
-      ],
-      "duration_ms": 258683,
-      "name": "Lyin' Low",
-      "url": "https://open.spotify.com/track/4zKzSlADNWYQ8dKOQ3eMf0"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Black Cowboys",
+        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
+      },
+      "artists": [
+        {
+          "name": "Dom Flemons",
+          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
+        }
+      ],
+      "duration_ms": 162473,
+      "name": "Lonesome Old River Blues",
+      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Stress Dreams",
         "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
       },
@@ -1099,6 +1115,22 @@
       "duration_ms": 481641,
       "name": "Stress Dreams",
       "url": "https://open.spotify.com/track/3cdT4Juf4LyAUXyk00SHtk"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "All Ashore",
+        "url": "https://open.spotify.com/album/2Jx5MfwDujgz2rFFDVocYl"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 425360,
+      "name": "All Ashore",
+      "url": "https://open.spotify.com/track/3rSpUHBDRFr4MiFOjyEWvP"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1119,38 +1151,6 @@
       "duration_ms": 216306,
       "name": "Railroad",
       "url": "https://open.spotify.com/track/5gdfUvZS4OdMA7BJtVG2tJ"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Black Cowboys",
-        "url": "https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw"
-      },
-      "artists": [
-        {
-          "name": "Dom Flemons",
-          "url": "https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb"
-        }
-      ],
-      "duration_ms": 162473,
-      "name": "Lonesome Old River Blues",
-      "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "All Ashore",
-        "url": "https://open.spotify.com/album/2Jx5MfwDujgz2rFFDVocYl"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 425360,
-      "name": "All Ashore",
-      "url": "https://open.spotify.com/track/3rSpUHBDRFr4MiFOjyEWvP"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1187,38 +1187,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/1oRVBQBpyqw1nrDROwOmct"
-      },
-      "artists": [
-        {
-          "name": "Trampled by Turtles",
-          "url": "https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4"
-        }
-      ],
-      "duration_ms": 268413,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/46X5yC3riaLqYzh8xwf6qm"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Stress Dreams",
-        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
-      },
-      "artists": [
-        {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
-        }
-      ],
-      "duration_ms": 281953,
-      "name": "Monument",
-      "url": "https://open.spotify.com/track/2Moh0ZPXOEn1yS19crNIFE"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Sidetrack My Engine",
         "url": "https://open.spotify.com/album/4J8nWVnRETkmTYA2023PCx"
       },
@@ -1231,6 +1199,38 @@
       "duration_ms": 165213,
       "name": "Wedding Dress",
       "url": "https://open.spotify.com/track/61PiRWXdcKeWZyi3Lf6I9t"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Edges Run",
+        "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 194786,
+      "name": "Edges Run",
+      "url": "https://open.spotify.com/track/3LTKKY3qb8MmG3ZfJcfR0x"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Any Old Time",
+      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Edges Run",
-        "url": "https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk"
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
       },
       "artists": [
         {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
         }
       ],
-      "duration_ms": 194786,
-      "name": "Edges Run",
-      "url": "https://open.spotify.com/track/3LTKKY3qb8MmG3ZfJcfR0x"
+      "duration_ms": 281953,
+      "name": "Monument",
+      "url": "https://open.spotify.com/track/2Moh0ZPXOEn1yS19crNIFE"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1303,22 +1303,6 @@
       "duration_ms": 190789,
       "name": "Don't Make Me Get up and Go",
       "url": "https://open.spotify.com/track/7dPMI5iIdwonksEYLSdsZY"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Any Old Time",
-      "url": "https://open.spotify.com/track/5u5OHbWaCxcvIoi04HGLy6"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1491,22 +1475,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "The More I Learn",
-        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
-      },
-      "artists": [
-        {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
-        }
-      ],
-      "duration_ms": 246853,
-      "name": "The More I Learn",
-      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Seasons Don't Change",
         "url": "https://open.spotify.com/album/0lH7Gzvl2yg8sEb1iWt8Sr"
       },
@@ -1519,6 +1487,22 @@
       "duration_ms": 269133,
       "name": "Seasons Don't Change",
       "url": "https://open.spotify.com/track/08Z8EH23jtMqOjvlP0dUrR"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "The More I Learn",
+        "url": "https://open.spotify.com/album/63gK1MXpwjJkEXiorwMU0b"
+      },
+      "artists": [
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        }
+      ],
+      "duration_ms": 246853,
+      "name": "The More I Learn",
+      "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1723,6 +1707,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Rise Sun",
+        "url": "https://open.spotify.com/album/3jFG5srnWyHmefKlXU3hZS"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 348849,
+      "name": "Planets",
+      "url": "https://open.spotify.com/track/0kTv9skMMRnFZQY1Mat5p9"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Up All Night",
         "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
       },
@@ -1739,34 +1739,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Not Our First Goat Rodeo",
-        "url": "https://open.spotify.com/album/4NDXeXypRq8YdFCKqg4sAn"
+        "name": "Spirit to the Sea",
+        "url": "https://open.spotify.com/album/3zG1NInyGjZ2xi00MfnypC"
       },
       "artists": [
         {
-          "name": "Stuart Duncan",
-          "url": "https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2"
-        },
-        {
-          "name": "Edgar Meyer",
-          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
-        },
-        {
-          "name": "Chris Thile",
-          "url": "https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF"
-        },
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+          "name": "Trout Steak Revival",
+          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
         }
       ],
-      "duration_ms": 219826,
-      "name": "The Trappings",
-      "url": "https://open.spotify.com/track/0gzzJTHTrLcPl6dUwROF7Z"
+      "duration_ms": 239346,
+      "name": "Last Chance",
+      "url": "https://open.spotify.com/track/21TryieQX3eY96LemAyX28"
     }
   ],
   "unique_name": "Grass Roots",

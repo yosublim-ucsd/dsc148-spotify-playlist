@@ -4,7 +4,7 @@
 
 > This is Mike Bahía\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 43 min
+52 songs - 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Por Vos](https://open.spotify.com/track/5RPl7zAToaiW6s9JjMlG6W) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Por Vos](https://open.spotify.com/album/1iggmUN30hhkmwqyWw7rmP) | 2:45 | 2023-03-19 |  |
 | [Quién Dijo Miedo \- Remix](https://open.spotify.com/track/6OGOo2UGP95Qrp8wMwwp74) | [Sharlene](https://open.spotify.com/artist/1gIUNwemvV0ieFYpL6jbEB), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Kobi Cantillo](https://open.spotify.com/artist/3eAw8vSPkVqu0VfSZxv79h), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Quién Dijo Miedo \(Remix\)](https://open.spotify.com/album/6jBso5WvelScOurIlQtQim) | 3:44 | 2023-03-19 |  |
 | [Quiéreme](https://open.spotify.com/track/5N99e6LuN2tknGikNAwl8n) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Quiéreme](https://open.spotify.com/album/680aKPMc7XA59sKyJ8mTCv) | 3:02 | 2023-03-19 |  |
-| [Quédate Aquí](https://open.spotify.com/track/40BHOcBhBU6InTXea4VRAK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Quédate Aquí](https://open.spotify.com/album/49FMV0pdlfmElBcTeGg8UX) | 3:03 | 2023-03-19 |  |
+| [Quédate Aquí](https://open.spotify.com/track/3BACFM8lX32l9N6jVqxsiY) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:03 | 2023-04-19 |  |
+| [Quédate Aquí](https://open.spotify.com/track/40BHOcBhBU6InTXea4VRAK) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Quédate Aquí](https://open.spotify.com/album/49FMV0pdlfmElBcTeGg8UX) | 3:03 | 2023-03-19 | 2023-04-20 |
 | [Ropa Interior \(feat\. Beéle\)](https://open.spotify.com/track/0fuNqrwsaOVrhowxsAKvc8) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:20 | 2023-03-19 |  |
 | [Sayonara](https://open.spotify.com/track/4AhrJnUccT5G6ZIBslE8E4) | [Ana Guerra](https://open.spotify.com/artist/3MRynBsyLGzv3IQ9Fip6hO), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Sayonara](https://open.spotify.com/album/39DPMMB7W6CvFTHSXjOBnW) | 3:17 | 2023-03-19 |  |
 | [Se Siente Bien](https://open.spotify.com/track/1mYdNVCnwFu67nOeFnSM1f) | [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Se Siente Bien](https://open.spotify.com/album/1X6o8ez2QXYtRIEM8CsfEU) | 3:57 | 2023-03-19 |  |
@@ -58,6 +59,6 @@
 | [Tu Nombre](https://open.spotify.com/track/7HvuLU19kk8CyeC6l0WOlq) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Tu Nombre](https://open.spotify.com/album/5wAhhAcKifWHboMzI9TjmC) | 2:44 | 2023-03-19 |  |
 | [Tú Tienes Razón \(feat\. Mike Bahía\) \- Versión Urbana](https://open.spotify.com/track/22ZDZQspD6nmT9krDjb8zO) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Tú Tienes Razón \- EP](https://open.spotify.com/album/0C0BMCxF9Xc4Dz5k7cSIWd) | 3:17 | 2023-03-19 |  |
 | [Yo Te Quiero Más \(feat\. Mike Bahía\) \- Remix](https://open.spotify.com/track/2Swr1cM9DQQjrmfQOgxHd7) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Yo Te Quiero Más \(feat\. Mike Bahía\) \[Remix\]](https://open.spotify.com/album/2qQGxdycZ6zAmOuRniRo7A) | 3:04 | 2023-03-19 |  |
-| [¿Cómo Estás?](https://open.spotify.com/track/39UW0ALFyTXCNpCNxBUdNP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 2:12 | 2023-03-19 |  |
+| [¿Cómo Estás?](https://open.spotify.com/track/39UW0ALFyTXCNpCNxBUdNP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 2:12 | 2023-03-19 | 2023-04-20 |
 
 \*This playlist was first scraped on 2023-03-20. Prior content cannot be recovered.

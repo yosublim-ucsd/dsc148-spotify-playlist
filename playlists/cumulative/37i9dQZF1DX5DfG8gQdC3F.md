@@ -4,7 +4,7 @@
 
 > New music from Charlotte Cardin, Post Malone, Lauren Spencer Smith, and Feist.
 
-6,656 songs - 14 day 19 hr 0 min
+6,657 songs - 14 day 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [1st Soundscape](https://open.spotify.com/track/2YMY061QrP62VEA6thqCqm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Wind Down](https://open.spotify.com/album/0SNkVpjU9S4zVxBoytcfON) | 3:44 | 2022-05-27 | 2022-06-04 |
 | [1x1](https://open.spotify.com/track/1afXT2ntjBUlydAFZ3db66) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [1x1](https://open.spotify.com/album/4Q2e5JRxMvRIrdeNWY7Bp2) | 2:19 | 2022-05-13 | 2022-05-20 |
 | [2 Be Loved \(Am I Ready\)](https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 | 2022-07-15 | 2022-07-23 |
-| [2 BEST FRIENDS](https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:18 | 2023-04-14 |  |
+| [2 BEST FRIENDS](https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:18 | 2023-04-14 | 2023-04-20 |
+| [2 BEST FRIENDS](https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4) | 2:18 | 2023-04-14 |  |
 | [2 Cups](https://open.spotify.com/track/6wm8PSkehuHYylR64rw1Gy) | [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [2 Cups](https://open.spotify.com/album/3ttazupNIeGDk28uLymPTC) | 3:03 | 2023-03-17 | 2023-03-25 |
 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 | 2022-07-29 | 2022-08-06 |
 | [2 Freaks \(feat\. Snoop Dogg\)](https://open.spotify.com/track/0bZoGGitOSSriBDfjT5g5J) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2 Freaks \(feat\. Snoop Dogg\)](https://open.spotify.com/album/1IUHCNX0sOEYnpfzo1vgBk) | 2:55 | 2022-06-03 | 2022-06-11 |

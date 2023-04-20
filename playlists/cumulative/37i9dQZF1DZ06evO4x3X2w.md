@@ -4,7 +4,7 @@
 
 > This is Aerosmith\. The essential tracks, all in one playlist.
 
-94 songs - 6 hr 52 min
+96 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Beautiful](https://open.spotify.com/track/22zzEs67LrT6RL25pwpOPW) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/1nrDZQLT9EfFArdk9oSCxQ) | 3:04 | 2022-09-17 | 2022-10-21 |
 | [Big Ten Inch Record](https://open.spotify.com/track/74jtieTD4GbZSwfCfmaFxz) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 2:15 | 2023-01-26 |  |
 | [Big Ten Inch Record](https://open.spotify.com/track/3sfdkh6pvMMvhcSIJ2j8AS) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 2:15 | 2022-10-12 | 2023-01-27 |
-| [Blind Man](https://open.spotify.com/track/269kNUOWTdD20N0s4ISsfN) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2JgnqOt5m0QNEo3VbplePI) | 4:01 | 2023-01-26 |  |
+| [Blind Man](https://open.spotify.com/track/269kNUOWTdD20N0s4ISsfN) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2JgnqOt5m0QNEo3VbplePI) | 4:01 | 2023-01-26 | 2023-04-20 |
 | [Can't Stop Lovin' You](https://open.spotify.com/track/795ERoqNFbElIkkGNJV58Y) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/39kme3iLwVpllmUCxrkcPn) | 4:04 | 2023-01-26 |  |
 | [Can't Stop Lovin' You \(with Carrie Underwood\)](https://open.spotify.com/track/4QiiT9eRGGSDZAxKN5BM46) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/1nrDZQLT9EfFArdk9oSCxQ) | 4:04 | 2022-09-17 | 2023-01-27 |
 | [Chip Away The Stone](https://open.spotify.com/track/7KQgiJUV02AchguMMv7Ymr) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Gems](https://open.spotify.com/album/26sKrmxTexOwtnBfOZmIAj) | 4:00 | 2022-10-18 | 2023-01-23 |
@@ -59,7 +59,9 @@
 | [Last Child](https://open.spotify.com/track/5jH8ecmEyX08pQ06T0h6ly) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/5Uv5LmSKTT9okGkr3l9MjR) | 3:26 | 2022-09-17 | 2023-01-27 |
 | [Last Child](https://open.spotify.com/track/3Kx6oHPQxtA5aJzcZeuE7r) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rocks](https://open.spotify.com/album/4ldiyfqRvKiIasHHuDftuP) | 3:26 | 2023-01-26 |  |
 | [Let The Music Do The Talking](https://open.spotify.com/track/2oUp3nS5lhoHZsoaLaKdRa) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Done With Mirrors](https://open.spotify.com/album/4V95fty2dd1ig3a1JzmjYf) | 3:47 | 2022-09-17 |  |
-| [Livin' On The Edge](https://open.spotify.com/track/4avSaixVwu8uqfSs7zgoj3) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 6:20 | 2022-09-17 |  |
+| [Lightning Strikes](https://open.spotify.com/track/2ervbJ7zh4Ry2hggiNeT3q) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rock In A Hard Place](https://open.spotify.com/album/15e4kGDE06PRB9RMunBZe9) | 4:26 | 2023-04-19 |  |
+| [Livin' On The Edge](https://open.spotify.com/track/4avSaixVwu8uqfSs7zgoj3) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 6:20 | 2022-09-17 | 2023-04-20 |
+| [Livin' On The Edge](https://open.spotify.com/track/6OZAcgTPxmjUTuiatU0Viq) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 6:21 | 2023-04-19 |  |
 | [Lord of the Thighs](https://open.spotify.com/track/2CVfNg22TjHfXXus4BXKZJ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1) | 4:14 | 2023-04-10 |  |
 | [Love In An Elevator \- Single Version](https://open.spotify.com/track/1l6DV8qhmCdgOKLSAFzPOe) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Big Ones](https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs) | 5:21 | 2022-09-17 |  |
 | [Make It](https://open.spotify.com/track/1IkCG9jkzCrl3TadPTh4dU) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ) | 3:38 | 2022-09-17 | 2022-12-27 |

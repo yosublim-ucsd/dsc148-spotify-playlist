@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 
 > This is Esteman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,011 likes - 43 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,034 likes - 43 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 7 | [Noche Sensorial](https://open.spotify.com/track/3GezDPu1wDhp31VMqgGwox) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:21 |
 | 8 | [Caótica Belleza](https://open.spotify.com/track/2mb51571ds4q4XcOP23rF1) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:57 |
 | 9 | [Juan Y Paul](https://open.spotify.com/track/1FUKWcdbjLj872lLhgdVeu) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Si Volviera A Nacer](https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq) | 3:41 |
-| 10 | [Una Noche Más](https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:31 |
-| 11 | [Despertar](https://open.spotify.com/track/4eYTJkjurpWAOvsEmG5W8A) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Despertar](https://open.spotify.com/album/7GMhyohcuBcKYnfR7FMM8L) | 3:15 |
+| 10 | [Despertar](https://open.spotify.com/track/4eYTJkjurpWAOvsEmG5W8A) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Despertar](https://open.spotify.com/album/7GMhyohcuBcKYnfR7FMM8L) | 3:15 |
+| 11 | [Una Noche Más](https://open.spotify.com/track/42yqhdvpet3rMgwnfbibh8) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 3:31 |
 | 12 | [Adelante](https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 4:28 |
 | 13 | [Si Volviera A Nacer](https://open.spotify.com/track/6K7J8BsFt49NA2Hx35RI4v) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Si Volviera A Nacer](https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq) | 3:44 |
 | 14 | [Bailando](https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailando](https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY) | 3:07 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 42 | [Se Nos Perdió](https://open.spotify.com/track/64UtnXxfVtC0MjGt9wpJjs) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [1er Acto](https://open.spotify.com/album/0IJXSV29IDhE6cD5WUTSAH) | 4:19 |
 | 43 | [No Te Metas A Mi Facebook](https://open.spotify.com/track/6tUFAewWAb5OkcYiwzSdr0) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [No Te Metas A Mi Facebook](https://open.spotify.com/album/6LFKWnhCAXntAHAvfPHAx0) | 3:24 |
 
-Snapshot ID: `MjgwMzAzOTAsMDAwMDAwMDAxM2MzZjQzMDI5NzBkYTgxMDE5YTAzYmNmNzZjMDY5Yw==`
+Snapshot ID: `MjgwMzE3ODMsMDAwMDAwMDA3NjIzOTViMDhkOTI2NGJmY2VhNjVlOThmZThmMjUxYg==`

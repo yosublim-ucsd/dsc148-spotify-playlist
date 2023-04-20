@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-257 songs - 14 hr 36 min
+258 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Que Entre el Frío](https://open.spotify.com/track/4zyF3KSeHYG0ZDEbA4NyaO) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Loza](https://open.spotify.com/album/5RLqqJGNdYJGp9pcHk0oGt) | 4:27 | 2021-07-16 |  |
 | [Que Facil Es Hablar](https://open.spotify.com/track/2CiVK2RuaMOieFPdYacJtB) | [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Casa del Viento](https://open.spotify.com/album/2mmRppQCZB8ccGGUkxp0dJ) | 2:54 | 2021-07-16 | 2022-07-29 |
 | [Que Facil Es Hablar](https://open.spotify.com/track/4zeTSpN6852mqKTFZcUkgc) | [Karina Vismara](https://open.spotify.com/artist/3yjMGsdyDczDjyaek80khK) | [Casa del Viento](https://open.spotify.com/album/2HyoT13F4NOLswwofAZaNw) | 2:54 | 2021-07-16 |  |
+| [Quien Tengo Que Ser](https://open.spotify.com/track/6wL2yRom12q8ZhPDPnKB0t) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Quien Tengo Que Ser](https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8) | 4:27 | 2023-04-20 |  |
 | [Ransom](https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb) | [NTMY](https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR) | [Ransom](https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb) | 2:46 | 2021-07-16 |  |
 | [Rare](https://open.spotify.com/track/4uhT2J1yUZkSDuETxsKq9P) | [Nina Olivia](https://open.spotify.com/artist/1pXIOLVqMBX1gWRyEJLBF9) | [Rare](https://open.spotify.com/album/0hJGqWWnuXvTBTNAq4b5Ak) | 3:44 | 2021-07-16 | 2023-04-15 |
 | [Reencontrarnos](https://open.spotify.com/track/7kqw8vYKO1ApxwpQXaivRy) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5), [The Acapulco Express](https://open.spotify.com/artist/398DySP5d4MCX9UJFkng6N) | [Reencontrarnos](https://open.spotify.com/album/3L5ujKZChuieBg8OspWra5) | 4:15 | 2023-03-31 |  |
@@ -210,7 +211,7 @@
 | [Sorry](https://open.spotify.com/track/21Cr9ZzBDHF7QxDS8kE5Lx) | [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [Sorry](https://open.spotify.com/album/0ep3oeAyv1CQKlVAGBUhrm) | 2:45 | 2021-07-16 |  |
 | [South of the Border \(feat\. Camila Cabello\) \- Acoustic](https://open.spotify.com/track/6Kzzkq9sFHm51RwhHswCVc) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [South of the Border \(feat\. Camila Cabello\) \[Acoustic\]](https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT) | 3:14 | 2021-07-16 |  |
 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 | 2021-07-16 |  |
-| [Spanish On The Beach](https://open.spotify.com/track/3GTqzTpAxsqbXiiL3OBZQu) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wilds](https://open.spotify.com/album/2IXuKQr2JhjocXGfkTmfPG) | 2:34 | 2023-01-03 |  |
+| [Spanish On The Beach](https://open.spotify.com/track/3GTqzTpAxsqbXiiL3OBZQu) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Wilds](https://open.spotify.com/album/2IXuKQr2JhjocXGfkTmfPG) | 2:34 | 2023-01-03 | 2023-04-20 |
 | [Starboy \- Acoustic](https://open.spotify.com/track/2QoyYV4YAuw9T9UgsDoam2) | [Simon Samaeng](https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw) | [Starboy \(Acoustic\)](https://open.spotify.com/album/5Bh0yujzOhMqly3ONkprWR) | 3:45 | 2021-07-16 |  |
 | [Stardust](https://open.spotify.com/track/2hq1gTwHxHpdgJQYDi2UYp) | [Moncaya](https://open.spotify.com/artist/1g56xa8gAZlYlsw9O7I8Nu) | [Stardust](https://open.spotify.com/album/5psabUraSDI0ZRRScKfW1T) | 3:34 | 2021-07-16 | 2022-07-29 |
 | [Stay Alive](https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:01 | 2021-07-16 |  |

@@ -4,7 +4,7 @@
 
 > Blues \- new and old \- to accompany your drive\. Cover: B.B\. King
 
-117 songs - 8 hr 6 min
+118 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Don't Owe You a Thang](https://open.spotify.com/track/4iu49FeQQGiUh2Dn1A8qCl) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Bright Lights EP](https://open.spotify.com/album/4KTVPkJdjNjQtP8J6S67sG) | 3:35 | 2021-03-03 |  |
 | [Feels Like Rain \(feat\. Bonnie Raitt\)](https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Feels Like Rain](https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd) | 4:35 | 2021-03-03 |  |
 | [Flesh & Bone \(Dedicated to B.B\. King\) \(with Van Morrison\)](https://open.spotify.com/track/37mWDk2nTyx0eon0AkdOKQ) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 4:00 | 2021-03-03 |  |
+| [Fresh Out](https://open.spotify.com/track/0hLEks6H1dPXioRyyHWCBz) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 3:48 | 2021-03-03 |  |
 | [Going Down](https://open.spotify.com/track/2wnjZXcAT3rCjjqxLeHjv7) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Getting Ready..\. \(World\)](https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI) | 3:24 | 2021-03-03 |  |
 | [Going Down South](https://open.spotify.com/track/3PeDt4Q8YIFDRph5UhxAaA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:48 | 2021-07-23 |  |
 | [Goodbye Carolina](https://open.spotify.com/track/6lNGQqEos6i2KxISBn24Xc) | [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9) | [Goodbye Carolina](https://open.spotify.com/album/0YQSSpPZgvUvGWJCKZbYj7) | 4:01 | 2021-03-03 |  |
@@ -72,7 +73,7 @@
 | [Life Is Beautiful](https://open.spotify.com/track/3mtUR8aNUoMblqX49YzVF3) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Suitcase](https://open.spotify.com/album/39Sd7IZSx6vUejzS14bLV7) | 4:16 | 2021-03-03 |  |
 | [Little Angel Child](https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk) | [Jimmy Dawkins](https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc) | [Fast Fingers](https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l) | 3:59 | 2021-03-03 |  |
 | [Love Me Like a Man \- 2008 Remaster](https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:12 | 2021-03-03 |  |
-| [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 | 2021-10-22 |  |
+| [Magnolia Blues](https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Magnolia Blues](https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr) | 3:28 | 2021-10-22 | 2023-04-20 |
 | [Mannish Boy](https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 5:21 | 2021-03-03 |  |
 | [Mean Mistreater](https://open.spotify.com/track/0tYJ6uY0ETQOtOM8KySMSp) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Johnny Winter](https://open.spotify.com/album/5RNAJslV8AaTq2gM5JJ9Ch) | 3:52 | 2021-03-03 |  |
 | [Midnight in Harlem](https://open.spotify.com/track/1ncSAZD0bzvU3cu0uPLbWd) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Revelator](https://open.spotify.com/album/3nvebrk47Qs9bTipgUgup7) | 5:52 | 2021-03-03 |  |

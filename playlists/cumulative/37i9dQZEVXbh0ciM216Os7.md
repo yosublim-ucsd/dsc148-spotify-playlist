@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-218 songs - 13 hr 22 min
+219 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Bartenders \(feat\. Toine Jameson\)](https://open.spotify.com/track/0127mZaKLNesIX582WB4R1) | [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC), [Toine Jameson](https://open.spotify.com/artist/5Sql9pzSHGCzUJUXvtZCcK) | [To What End](https://open.spotify.com/album/1bLJelUsSvsOZ93XAtyIZm) | 3:15 | 2023-02-10 | 2023-02-19 |
 | [BC](https://open.spotify.com/track/2T4jpgQTXUykbqZlvjKNQG) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [4th Feb \(Stay Awake\) / BC](https://open.spotify.com/album/0OpZZhtsJYMTUfOpCDNpLw) | 7:30 | 2023-02-10 | 2023-02-26 |
 | [Beautiful Black Eyes](https://open.spotify.com/track/7aN0EpKfV5J4IJJi0WCna0) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Beautiful Black Eyes](https://open.spotify.com/album/4NnTJSBGucLoZWlualGuVf) | 9:15 | 2023-02-17 | 2023-03-12 |
-| [Bicycle Rider](https://open.spotify.com/track/3Bdh4UCIwbRZoDLZ5UFvXI) | [Dan Horne](https://open.spotify.com/artist/32GWtrYOojtYr0DVybdhev) | [Count The Clouds](https://open.spotify.com/album/0hYFW952nfZWyN5y1vxjdb) | 4:23 | 2023-04-14 |  |
+| [Bicycle Rider](https://open.spotify.com/track/3Bdh4UCIwbRZoDLZ5UFvXI) | [Dan Horne](https://open.spotify.com/artist/32GWtrYOojtYr0DVybdhev) | [Count The Clouds](https://open.spotify.com/album/0hYFW952nfZWyN5y1vxjdb) | 4:23 | 2023-04-14 | 2023-04-20 |
 | [Bigger](https://open.spotify.com/track/1Hxdhp07XgEXWBLJ7rguud) | [Jonwayne](https://open.spotify.com/artist/3i7IUsb5VsiJAKqX2Md9Fc) | [Bigger](https://open.spotify.com/album/6kSMNmKVa8Wdefi29eZUbu) | 2:52 | 2023-02-17 | 2023-02-22 |
 | [Bitches Are Back \(feat\. Blu\)](https://open.spotify.com/track/4PwQK1PvtFcfI1c3G0CeGE) | [M.E.B.](https://open.spotify.com/artist/6AjJDwKIPlXjOxGeiCCy9P), [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Blu](https://open.spotify.com/artist/5iRHlWVQoS8kPIlZEBwA8K) | [Bitches Are Back \(feat\. Blu\)](https://open.spotify.com/album/3m2IraIFP2TKLSfq0QITrm) | 3:28 | 2023-02-17 | 2023-03-12 |
 | [Black Sunflower](https://open.spotify.com/track/6OWxTiwhdQXXidxdJSxHbo) | [Dale and the ZDubs](https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp) | [Black Sunflower](https://open.spotify.com/album/5hWWS5ydQWvgEty3Wkypdz) | 3:10 | 2023-03-24 | 2023-04-09 |
@@ -128,6 +128,7 @@
 | [Marie and the Undersea](https://open.spotify.com/track/1ht61Ev8xu5vq2joimHeE6) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Continue as a Guest](https://open.spotify.com/album/4W7yoLgWewZv3rdhGjLB3B) | 4:42 | 2023-04-07 | 2023-04-15 |
 | [Me Pone Mal](https://open.spotify.com/track/1i7WoaZrt8jGH9vM0GKYdn) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Me Pone Mal](https://open.spotify.com/album/7aJJYJalxCJx6kNLINcR9y) | 2:57 | 2023-04-14 |  |
 | [Meeting The Master](https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Meeting The Master](https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu) | 5:12 | 2023-04-07 | 2023-04-15 |
+| [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/1s71aSAX5H5Bi0bnJkXe5F) | [Floraleda Sacchi](https://open.spotify.com/artist/5j48oGQ0CfaOdcPHubZ9it), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/album/6L2f6qkdeluqFppYgcOKbG) | 5:42 | 2023-04-14 |  |
 | [Meta Glass \(NikNak Remix\)](https://open.spotify.com/track/3Lde16rrCL5XTjfCn4HNP2) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [NikNak](https://open.spotify.com/artist/108DScSlOQbchNa78euBES) | [Philip Glass: Refractions](https://open.spotify.com/album/1YHge00YN4pCBekDUAYyAK) | 8:32 | 2023-02-10 | 2023-02-26 |
 | [METALIZM](https://open.spotify.com/track/3wnNLHScykpYBErRf48owv) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:34 | 2023-04-14 |  |
 | [Mike \(desert island duvet\)](https://open.spotify.com/track/6cqcmtaxNL7YCKKsuYAPJo) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Mike \(desert island duvet\)](https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa) | 4:24 | 2023-03-03 | 2023-03-14 |

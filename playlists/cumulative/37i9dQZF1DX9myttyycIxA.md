@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: king isis
 
-874 songs - 2 day 1 hr 49 min
+875 songs - 2 day 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [A/B Futures](https://open.spotify.com/track/3W4Nr0J4tfKet8YjHGHXLd) | [Land of Talk](https://open.spotify.com/artist/0mEF6nwliNqJuMldWFPuvo) | [Indistinct Conversations](https://open.spotify.com/album/3a3g4ZBJyIWNmUtzUKFxGn) | 3:39 | 2021-03-05 | 2022-03-12 |
 | [Abalone](https://open.spotify.com/track/4OGBU3agg96CA483Q280FP) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [Abalone](https://open.spotify.com/album/00V1SgynYEv6OjsLOUo5mT) | 2:06 | 2022-12-16 | 2023-03-04 |
 | [Access](https://open.spotify.com/track/4mC6s6mZW0L0IXSrDodWhW) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [Access](https://open.spotify.com/album/6My1J5oGzw5wwVgVhqBQge) | 4:28 | 2021-03-05 | 2022-04-19 |
-| [Adderall \(End of the Line\)](https://open.spotify.com/track/2zJDq0UXhz3mUvmncn4GA1) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Adderall \(End of the Line\)](https://open.spotify.com/album/2RzQZs8tIVQEBEfAwagNm3) | 4:25 | 2023-03-03 |  |
+| [Adderall \(End of the Line\)](https://open.spotify.com/track/1BY6CdiV86LveMK7Z5NtVE) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 4:25 | 2023-03-03 |  |
+| [Adderall \(End of the Line\)](https://open.spotify.com/track/2zJDq0UXhz3mUvmncn4GA1) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Adderall \(End of the Line\)](https://open.spotify.com/album/2RzQZs8tIVQEBEfAwagNm3) | 4:25 | 2023-03-03 | 2023-04-20 |
 | [Advice](https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:37 | 2022-04-29 | 2022-09-24 |
 | [After Silver Leaves](https://open.spotify.com/track/7lRMtQETB0B5WQBc11paPx) | [Smut](https://open.spotify.com/artist/5ojcEAg9JjIhUdIjC8y5GF) | [Unbroken Thought](https://open.spotify.com/album/4k6mh2lSAOC0Z5GrXigXtq) | 4:37 | 2022-10-21 | 2022-12-15 |
 | [Afterglow](https://open.spotify.com/track/6aDXqeOAbR9Hxfr6rQe0Fo) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [Fall into Place / Afterglow](https://open.spotify.com/album/62e7kMRFN636XBdtZBp7F0) | 3:18 | 2022-05-13 | 2022-10-01 |

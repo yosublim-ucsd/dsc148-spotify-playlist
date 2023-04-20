@@ -1,12 +1,12 @@
 {
   "description": "Revive la \u00e9poca de los pantalones acampanados en compa\u00f1\u00eda de mam\u00e1.",
-  "num_followers": 33255,
+  "num_followers": 33283,
   "original_name": "Mam\u00e1 70era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTU4NjE3NSwwMDAwMDAwMGEwYzA5N2RhYmZhZjAzODBlMGI2OWI4ZTk5MWM5YmIz",
+  "snapshot_id": "MTYxOTU4NjE3NSwwMDAwMDAwMGZiMWU2MWQ0ZTI5YTEwYTM4NjRjODBhNzVkYjBjZmFj",
   "tracks": [
     {
       "added_at": "2021-04-28 05:02:55",
@@ -623,22 +623,6 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Cl\u00e1sicos Latinos",
-        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
-        }
-      ],
-      "duration_ms": 243573,
-      "name": "Y Volver\u00e9",
-      "url": "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
         "name": "Tiempo de oto\u00f1o",
         "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 275066,
       "name": "Me llamas",
       "url": "https://open.spotify.com/track/0WFatRyMXS4JVP9jSfO1Fe"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
+        "name": "Cl\u00e1sicos Latinos",
+        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 243573,
+      "name": "Y Volver\u00e9",
+      "url": "https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s"
     },
     {
       "added_at": "2021-04-28 05:02:55",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2021-04-28 05:02:55",
       "album": {
-        "name": "Eres M\u00eda (Remasterizado)",
-        "url": "https://open.spotify.com/album/5pW6xVlhMN3vnzroxGO5xj"
-      },
-      "artists": [
-        {
-          "name": "Chiquetete",
-          "url": "https://open.spotify.com/artist/3ELZjZr6LsTejHFIhpoB6z"
-        }
-      ],
-      "duration_ms": 219280,
-      "name": "Esta Cobard\u00eda - Remasterizado",
-      "url": "https://open.spotify.com/track/2qlmlFRhYMgaekmCuxxK0o"
-    },
-    {
-      "added_at": "2021-04-28 05:02:55",
-      "album": {
         "name": "\"Miguel\"",
         "url": "https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 251226,
       "name": "Morir de Amor",
       "url": "https://open.spotify.com/track/6RWXqBgjdLyAVFnJbyPCR8"
+    },
+    {
+      "added_at": "2021-04-28 05:02:55",
+      "album": {
+        "name": "Eres M\u00eda (Remasterizado)",
+        "url": "https://open.spotify.com/album/5pW6xVlhMN3vnzroxGO5xj"
+      },
+      "artists": [
+        {
+          "name": "Chiquetete",
+          "url": "https://open.spotify.com/artist/3ELZjZr6LsTejHFIhpoB6z"
+        }
+      ],
+      "duration_ms": 219280,
+      "name": "Esta Cobard\u00eda - Remasterizado",
+      "url": "https://open.spotify.com/track/2qlmlFRhYMgaekmCuxxK0o"
     },
     {
       "added_at": "2021-04-28 05:02:55",

@@ -1,12 +1,12 @@
 {
   "description": "Calm and soft sounds of Jazz to help you relax and unwind.",
-  "num_followers": 72594,
+  "num_followers": 72665,
   "original_name": "Calming Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ2NjU3MCwwMDAwMDAwMDhjNGNiZTg5OTI0YzYzNDhiMTM0NzQxY2Y3Yjg2MzI3",
+  "snapshot_id": "MTY4MTQ2NjU3MCwwMDAwMDAwMGZiZTUzMmUzOTNkNjBiZDJkNDBkZTdiYjc2MTkzN2U1",
   "tracks": [
     {
       "added_at": "2023-04-14 10:02:50",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-04-14 10:02:50",
       "album": {
-        "name": "Lonely as a Cloud",
-        "url": "https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11"
-      },
-      "artists": [
-        {
-          "name": "South North",
-          "url": "https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b"
-        }
-      ],
-      "duration_ms": 167071,
-      "name": "Lonely as a Cloud",
-      "url": "https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH"
-    },
-    {
-      "added_at": "2023-04-14 10:02:50",
-      "album": {
         "name": "Clowns And Crowns",
         "url": "https://open.spotify.com/album/4LECNBb5hlVQolcsuoNt0p"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 241516,
       "name": "Clowns And Crowns",
       "url": "https://open.spotify.com/track/2xQWfbb9oAoPpeLNNIyOoR"
+    },
+    {
+      "added_at": "2023-04-14 10:02:50",
+      "album": {
+        "name": "Lonely as a Cloud",
+        "url": "https://open.spotify.com/album/1i3rYnZMbkYnJ986bISo11"
+      },
+      "artists": [
+        {
+          "name": "South North",
+          "url": "https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b"
+        }
+      ],
+      "duration_ms": 167071,
+      "name": "Lonely as a Cloud",
+      "url": "https://open.spotify.com/track/3MDq3Y1Me06yoYQOfjNWcH"
     },
     {
       "added_at": "2023-04-14 10:02:50",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-04-14 10:02:50",
       "album": {
-        "name": "The Flow of Your Way",
-        "url": "https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq"
-      },
-      "artists": [
-        {
-          "name": "Lachlan Wright Trio",
-          "url": "https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx"
-        }
-      ],
-      "duration_ms": 206784,
-      "name": "The Flow of Your Way",
-      "url": "https://open.spotify.com/track/4cXWKqGv91HzvKQe0r6dNJ"
-    },
-    {
-      "added_at": "2023-04-14 10:02:50",
-      "album": {
         "name": "Nublu",
         "url": "https://open.spotify.com/album/0PqSULFQO0lLVbiV7lw9BP"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 233865,
       "name": "Nublu",
       "url": "https://open.spotify.com/track/7I3dKt5y4dlS0y8Kg0uOdK"
+    },
+    {
+      "added_at": "2023-04-14 10:02:50",
+      "album": {
+        "name": "The Flow of Your Way",
+        "url": "https://open.spotify.com/album/2DjphKfzhL1u4YCdraGRCq"
+      },
+      "artists": [
+        {
+          "name": "Lachlan Wright Trio",
+          "url": "https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx"
+        }
+      ],
+      "duration_ms": 206784,
+      "name": "The Flow of Your Way",
+      "url": "https://open.spotify.com/track/4cXWKqGv91HzvKQe0r6dNJ"
     },
     {
       "added_at": "2023-04-14 10:02:50",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-04-14 10:02:50",
       "album": {
+        "name": "Purple Magnolia",
+        "url": "https://open.spotify.com/album/6csQt0hu30OWJhPCJBMn7f"
+      },
+      "artists": [
+        {
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+        }
+      ],
+      "duration_ms": 205631,
+      "name": "Juniper Leaves",
+      "url": "https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce"
+    },
+    {
+      "added_at": "2023-04-14 10:02:50",
+      "album": {
         "name": "Akaishi",
         "url": "https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e"
       },
@@ -907,18 +923,18 @@
     {
       "added_at": "2023-04-14 10:02:50",
       "album": {
-        "name": "Purple Magnolia",
-        "url": "https://open.spotify.com/album/6csQt0hu30OWJhPCJBMn7f"
+        "name": "Obliqua",
+        "url": "https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX"
       },
       "artists": [
         {
-          "name": "James Jackson Jazz Trio",
-          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+          "name": "Bladverk Band",
+          "url": "https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65"
         }
       ],
-      "duration_ms": 205631,
-      "name": "Juniper Leaves",
-      "url": "https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce"
+      "duration_ms": 186664,
+      "name": "Caerulea",
+      "url": "https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC"
     },
     {
       "added_at": "2023-04-14 10:02:50",
@@ -951,22 +967,6 @@
       "duration_ms": 207663,
       "name": "Sails",
       "url": "https://open.spotify.com/track/6Acd5lhILmBOlhjGDFEUqz"
-    },
-    {
-      "added_at": "2023-04-14 10:02:50",
-      "album": {
-        "name": "Obliqua",
-        "url": "https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX"
-      },
-      "artists": [
-        {
-          "name": "Bladverk Band",
-          "url": "https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65"
-        }
-      ],
-      "duration_ms": 186664,
-      "name": "Caerulea",
-      "url": "https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC"
     },
     {
       "added_at": "2023-04-14 10:02:50",
@@ -1031,6 +1031,22 @@
       "duration_ms": 176729,
       "name": "In Another Universe",
       "url": "https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk"
+    },
+    {
+      "added_at": "2023-04-14 10:02:50",
+      "album": {
+        "name": "Love on a Lonely Street",
+        "url": "https://open.spotify.com/album/0o7H8gUcxfOs6Ir1BCAyer"
+      },
+      "artists": [
+        {
+          "name": "The Ebbing Tides",
+          "url": "https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3"
+        }
+      ],
+      "duration_ms": 183688,
+      "name": "Love on a Lonely Street",
+      "url": "https://open.spotify.com/track/4Ol91F33J7jGfPjRubHbEk"
     },
     {
       "added_at": "2023-04-14 10:02:50",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2023-04-14 10:02:50",
       "album": {
-        "name": "Blue Mist",
-        "url": "https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit"
-      },
-      "artists": [
-        {
-          "name": "Matt Marantz Quartet",
-          "url": "https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V"
-        }
-      ],
-      "duration_ms": 204544,
-      "name": "Blue Mist",
-      "url": "https://open.spotify.com/track/4douYG0S01NIbF0vyz7PPb"
-    },
-    {
-      "added_at": "2023-04-14 10:02:50",
-      "album": {
         "name": "Lonesome Road",
         "url": "https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C"
       },
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-04-14 10:02:50",
       "album": {
+        "name": "Blue Mist",
+        "url": "https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit"
+      },
+      "artists": [
+        {
+          "name": "Matt Marantz Quartet",
+          "url": "https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V"
+        }
+      ],
+      "duration_ms": 204544,
+      "name": "Blue Mist",
+      "url": "https://open.spotify.com/track/4douYG0S01NIbF0vyz7PPb"
+    },
+    {
+      "added_at": "2023-04-14 10:02:50",
+      "album": {
         "name": "Intangible",
         "url": "https://open.spotify.com/album/3YGiHeOdYUDi05wsYcEk6r"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 302645,
       "name": "Intangible",
       "url": "https://open.spotify.com/track/5jU0M5C3puyWnDvrd27RSP"
-    },
-    {
-      "added_at": "2023-04-14 10:02:50",
-      "album": {
-        "name": "Love on a Lonely Street",
-        "url": "https://open.spotify.com/album/0o7H8gUcxfOs6Ir1BCAyer"
-      },
-      "artists": [
-        {
-          "name": "The Ebbing Tides",
-          "url": "https://open.spotify.com/artist/4WW6fT5v4jH5eHqCn9myM3"
-        }
-      ],
-      "duration_ms": 183688,
-      "name": "Love on a Lonely Street",
-      "url": "https://open.spotify.com/track/4Ol91F33J7jGfPjRubHbEk"
     },
     {
       "added_at": "2023-04-14 10:02:50",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-04-14 10:02:50",
       "album": {
-        "name": "The Reasons That I Love You",
-        "url": "https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8"
+        "name": "Vi drar till fj\u00e4llet",
+        "url": "https://open.spotify.com/album/4QudsbRCU01iRaeI2kmOpP"
       },
       "artists": [
         {
-          "name": "6th Street Jazz",
-          "url": "https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1"
+          "name": "Sodermalm Strand",
+          "url": "https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp"
         }
       ],
-      "duration_ms": 280938,
-      "name": "The Reasons That I Love You",
-      "url": "https://open.spotify.com/track/1CLQ0p6nLmLQFCiUUkpBxW"
+      "duration_ms": 170019,
+      "name": "Vi drar till fj\u00e4llet",
+      "url": "https://open.spotify.com/track/2Y8O8KbZlh2OFLAOZAUKw1"
     },
     {
       "added_at": "2023-04-14 10:02:50",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2023-04-14 10:02:50",
       "album": {
-        "name": "Vi drar till fj\u00e4llet",
-        "url": "https://open.spotify.com/album/4QudsbRCU01iRaeI2kmOpP"
+        "name": "Mysterious Stranger",
+        "url": "https://open.spotify.com/album/6R7K535bnjXQy4DYE9VYnI"
       },
       "artists": [
         {
-          "name": "Sodermalm Strand",
-          "url": "https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp"
+          "name": "6th Street Jazz",
+          "url": "https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1"
         }
       ],
-      "duration_ms": 170019,
-      "name": "Vi drar till fj\u00e4llet",
-      "url": "https://open.spotify.com/track/2Y8O8KbZlh2OFLAOZAUKw1"
+      "duration_ms": 240950,
+      "name": "Mysterious Stranger",
+      "url": "https://open.spotify.com/track/5NBmnHqnUz4fOn3e1hHIaI"
     },
     {
       "added_at": "2023-04-14 10:02:50",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-04-14 10:02:50",
       "album": {
-        "name": "Lighter",
-        "url": "https://open.spotify.com/album/58ofYRb4CTqH3UBL6loe3M"
-      },
-      "artists": [
-        {
-          "name": "Gottfried Barber Trio",
-          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
-        }
-      ],
-      "duration_ms": 203855,
-      "name": "Lighter",
-      "url": "https://open.spotify.com/track/3ME6wz09uMm4wdzyQ4mQb0"
-    },
-    {
-      "added_at": "2023-04-14 10:02:50",
-      "album": {
         "name": "Extended Circle",
         "url": "https://open.spotify.com/album/3Y2Gvmeg7lM8r22Zp53sZJ"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2023-04-14 10:02:50",
       "album": {
-        "name": "Mysterious Stranger",
-        "url": "https://open.spotify.com/album/6R7K535bnjXQy4DYE9VYnI"
+        "name": "Lighter",
+        "url": "https://open.spotify.com/album/58ofYRb4CTqH3UBL6loe3M"
       },
       "artists": [
         {
-          "name": "6th Street Jazz",
-          "url": "https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1"
+          "name": "Gottfried Barber Trio",
+          "url": "https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf"
         }
       ],
-      "duration_ms": 240950,
-      "name": "Mysterious Stranger",
-      "url": "https://open.spotify.com/track/5NBmnHqnUz4fOn3e1hHIaI"
+      "duration_ms": 203855,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/3ME6wz09uMm4wdzyQ4mQb0"
     },
     {
       "added_at": "2023-04-14 10:02:50",
@@ -1387,6 +1371,22 @@
     {
       "added_at": "2023-04-14 10:02:50",
       "album": {
+        "name": "The Reasons That I Love You",
+        "url": "https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8"
+      },
+      "artists": [
+        {
+          "name": "6th Street Jazz",
+          "url": "https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1"
+        }
+      ],
+      "duration_ms": 280938,
+      "name": "The Reasons That I Love You",
+      "url": "https://open.spotify.com/track/1CLQ0p6nLmLQFCiUUkpBxW"
+    },
+    {
+      "added_at": "2023-04-14 10:02:50",
+      "album": {
         "name": "Blue Hour",
         "url": "https://open.spotify.com/album/1pM8P0Yfd5RRBnlICxzCyX"
       },
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-04-14 10:02:50",
       "album": {
+        "name": "From My Perspective",
+        "url": "https://open.spotify.com/album/6CY77pDMz6tioKGrK6aGaz"
+      },
+      "artists": [
+        {
+          "name": "Eduard Landings",
+          "url": "https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau"
+        }
+      ],
+      "duration_ms": 242833,
+      "name": "From My Perspective",
+      "url": "https://open.spotify.com/track/0aYO1PA22QmRVz7mYXAiUT"
+    },
+    {
+      "added_at": "2023-04-14 10:02:50",
+      "album": {
         "name": "Familiar Places",
         "url": "https://open.spotify.com/album/4PYeBFxWLxLaqfOmkcbjyS"
       },
@@ -1447,6 +1463,22 @@
       "duration_ms": 287323,
       "name": "It's Beginning To Rain Again",
       "url": "https://open.spotify.com/track/1hHnQUrgFC0ezzo27SkZeS"
+    },
+    {
+      "added_at": "2023-04-14 10:02:50",
+      "album": {
+        "name": "New York City Dreamin'",
+        "url": "https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U"
+      },
+      "artists": [
+        {
+          "name": "Glass Trio",
+          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
+        }
+      ],
+      "duration_ms": 253337,
+      "name": "Falling For Love",
+      "url": "https://open.spotify.com/track/2qWNjbqDTXBGRdcmZDcUXg"
     },
     {
       "added_at": "2023-04-14 10:02:50",
@@ -1499,22 +1531,6 @@
     {
       "added_at": "2023-04-14 10:02:50",
       "album": {
-        "name": "From My Perspective",
-        "url": "https://open.spotify.com/album/6CY77pDMz6tioKGrK6aGaz"
-      },
-      "artists": [
-        {
-          "name": "Eduard Landings",
-          "url": "https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau"
-        }
-      ],
-      "duration_ms": 242833,
-      "name": "From My Perspective",
-      "url": "https://open.spotify.com/track/0aYO1PA22QmRVz7mYXAiUT"
-    },
-    {
-      "added_at": "2023-04-14 10:02:50",
-      "album": {
         "name": "Being There",
         "url": "https://open.spotify.com/album/5JuT4GGK3RKVtbqQTDwlkS"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 231466,
       "name": "Draw Near",
       "url": "https://open.spotify.com/track/1ufvEL42UBnAYbi3gjSuZK"
-    },
-    {
-      "added_at": "2023-04-14 10:02:50",
-      "album": {
-        "name": "New York City Dreamin'",
-        "url": "https://open.spotify.com/album/0LFholvP8HQnmJaVTwgQ6U"
-      },
-      "artists": [
-        {
-          "name": "Glass Trio",
-          "url": "https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm"
-        }
-      ],
-      "duration_ms": 253337,
-      "name": "Falling For Love",
-      "url": "https://open.spotify.com/track/2qWNjbqDTXBGRdcmZDcUXg"
     },
     {
       "added_at": "2023-04-14 10:02:50",

@@ -4,7 +4,7 @@
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Marshmello, Farruko
 
-496 songs - 1 day 2 hr 52 min
+498 songs - 1 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Don't Wait Up](https://open.spotify.com/track/45PF1Y3RcW5MK0jxWvhc4D) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Don't Wait Up](https://open.spotify.com/album/5xEtia4eFu6W3Ql7xgR3Dp) | 3:24 | 2022-02-02 |  |
 | [DPM \(De Pxta Madre\)](https://open.spotify.com/track/37vqi0b9BqN0XN7QHLHTQ8) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [DPM \(De Pxta Madre\)](https://open.spotify.com/album/3wqz214xgljSs28s9MqzkZ) | 3:01 | 2022-02-02 |  |
 | [Déjame Ser](https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Déjame Ser](https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz) | 3:08 | 2023-02-10 |  |
+| [E Agora](https://open.spotify.com/track/6b83CJAjIXSk2cUjabJBlm) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Raizes](https://open.spotify.com/album/25DPDXZ8q1GtW8WUeX6w9I) | 3:05 | 2023-04-19 |  |
 | [El Bobo](https://open.spotify.com/track/5E0kv8h5M71Nk1z52QzYVc) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [El Bobo](https://open.spotify.com/album/4tps9duBVvnbgAkWTohF8O) | 4:08 | 2022-02-02 |  |
 | [El Chamaquito](https://open.spotify.com/track/1SxNFVI9TFJzQsxdzJ2oVd) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [El Chamaquito](https://open.spotify.com/album/3RWbJ1fakoCw5LDi7Nf3yp) | 2:19 | 2022-12-16 |  |
 | [El Comando del Diablo \- En Vivo](https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comando del Diablo \(En Vivo\)](https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx) | 2:53 | 2022-02-25 |  |
@@ -379,6 +380,7 @@
 | [Quien Va a Frontiar \- Remix](https://open.spotify.com/track/7v181skWxE4NxTrVVGtzNk) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Juanka](https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Quien Va a Frontiar \(Remix\)](https://open.spotify.com/album/7BEWbSJ0k1CCHTXcH4KxZ8) | 5:17 | 2023-02-17 |  |
 | [Quiero Decirte](https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Quiero Decirte](https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar) | 3:42 | 2022-05-12 |  |
 | [Qué Agonía](https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía](https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v) | 2:32 | 2022-10-31 |  |
+| [qué le pasa conmigo?](https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [qué le pasa conmigo?](https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc) | 2:47 | 2023-04-20 |  |
 | [Qué Lío](https://open.spotify.com/track/3GmCcVI6ahFNLvF0izvmFP) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [NATTIVIDAD](https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM) | 3:25 | 2022-02-02 |  |
 | [Qué Prefieres?](https://open.spotify.com/track/1YEQ5CvZVK9P4PsZY76GK5) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Qué Prefieres?](https://open.spotify.com/album/5EswK2NXREOYyhrPk8lXb1) | 3:22 | 2022-09-23 |  |
 | [Qué Rico Fuera](https://open.spotify.com/track/7Bd1mIvqRkIXTPAzw2wBmT) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Qué Rico Fuera](https://open.spotify.com/album/2Xk9iyx7nSm6evrOKCAypb) | 3:38 | 2022-02-02 |  |

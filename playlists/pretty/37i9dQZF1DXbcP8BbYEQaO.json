@@ -1,12 +1,12 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 188149,
+  "num_followers": 188263,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDU1MmU4YThkZGJhMjk5ZjgzMWM0ZDRmZjcxNjRlMTU5",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDU5NTU5Njk3ZjE0ZmMxNWViYjc5ZDhlZmY2ZDYwNWQw",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Like A Saviour",
-        "url": "https://open.spotify.com/album/0bAL4OMaZIgjmUH3j7q6kb"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 220403,
-      "name": "Like A Saviour",
-      "url": "https://open.spotify.com/track/5aNjxmDikP3zGMHfO9dop5"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "How Long (From \"Euphoria\" An HBO Original Series)",
         "url": "https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 183861,
       "name": "So Hot You're Hurting My Feelings",
       "url": "https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Like A Saviour",
+        "url": "https://open.spotify.com/album/0bAL4OMaZIgjmUH3j7q6kb"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 220403,
+      "name": "Like A Saviour",
+      "url": "https://open.spotify.com/track/5aNjxmDikP3zGMHfO9dop5"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "An Introduction To Ellie Goulding EP",
-        "url": "https://open.spotify.com/album/2zRzPgu8WPe2uLtppHv5uD"
+        "name": "2 Die 4",
+        "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
       },
       "artists": [
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
         }
       ],
-      "duration_ms": 244266,
-      "name": "Lights",
-      "url": "https://open.spotify.com/track/11ozIUBoXAgRTVWelDn4pL"
+      "duration_ms": 185875,
+      "name": "2 Die 4",
+      "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "An Introduction To Ellie Goulding EP",
+        "url": "https://open.spotify.com/album/2zRzPgu8WPe2uLtppHv5uD"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 244266,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/11ozIUBoXAgRTVWelDn4pL"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 217125,
       "name": "Over",
       "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "2 Die 4",
-        "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 185875,
-      "name": "2 Die 4",
-      "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "No One Dies From Love",
+        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 186018,
+      "name": "No One Dies From Love",
+      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/3ZFmdgfTOEBGApsmwbYIQy"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 166680,
       "name": "PIECES",
       "url": "https://open.spotify.com/track/07IMjyn9gW77cR7APem5g6"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "No One Dies From Love",
-        "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 186018,
-      "name": "No One Dies From Love",
-      "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "A Secret Wish (Analogue Sequence)",
-        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
-      },
-      "artists": [
-        {
-          "name": "Propaganda",
-          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
-        }
-      ],
-      "duration_ms": 282386,
-      "name": "Duel",
-      "url": "https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Cool It Down",
         "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 253026,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/4g3alZ0okNvZiOWW4pGUpw"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "A Secret Wish (Analogue Sequence)",
+        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
+      },
+      "artists": [
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
+        }
+      ],
+      "duration_ms": 282386,
+      "name": "Duel",
+      "url": "https://open.spotify.com/track/1sgMo3mjFB8mA7KLzETTeO"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "LUV (I KNOW I WANT THIS FOR REAL)",
-        "url": "https://open.spotify.com/album/1Tra5Ed1LWPGdmblM9ojiU"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        }
-      ],
-      "duration_ms": 193400,
-      "name": "LUV (I KNOW I WANT THIS FOR REAL)",
-      "url": "https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Slow Song (with Dragonette)",
         "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 253723,
       "name": "Slow Song (with Dragonette)",
       "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "LUV (I KNOW I WANT THIS FOR REAL)",
+        "url": "https://open.spotify.com/album/1Tra5Ed1LWPGdmblM9ojiU"
+      },
+      "artists": [
+        {
+          "name": "Q",
+          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "LUV (I KNOW I WANT THIS FOR REAL)",
+      "url": "https://open.spotify.com/track/1SiV9ERoyjtUPrNnuJCj21"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "In Ghost Colours",
-        "url": "https://open.spotify.com/album/6k3dwEFYKsGrhS40jtiAGt"
-      },
-      "artists": [
-        {
-          "name": "Cut Copy",
-          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
-        }
-      ],
-      "duration_ms": 277360,
-      "name": "Lights & Music",
-      "url": "https://open.spotify.com/track/2dngx6srtqsxvyh7oGV8FM"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Purple Sun",
         "url": "https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 241776,
       "name": "Purple Sun",
       "url": "https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "In Ghost Colours",
+        "url": "https://open.spotify.com/album/6k3dwEFYKsGrhS40jtiAGt"
+      },
+      "artists": [
+        {
+          "name": "Cut Copy",
+          "url": "https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS"
+        }
+      ],
+      "duration_ms": 277360,
+      "name": "Lights & Music",
+      "url": "https://open.spotify.com/track/2dngx6srtqsxvyh7oGV8FM"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Nymph",
-        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/3r6WmUjMVoxX7iVyuXfHAO"
       },
       "artists": [
         {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
         }
       ],
-      "duration_ms": 198625,
-      "name": "Firefly",
-      "url": "https://open.spotify.com/track/6K51akbgV0Tb3WI0NY1yYX"
+      "duration_ms": 159608,
+      "name": "See You In My Dreams",
+      "url": "https://open.spotify.com/track/41QTVIWEHUxKMZFsq7H7jI"
     }
   ],
   "unique_name": "night pop",

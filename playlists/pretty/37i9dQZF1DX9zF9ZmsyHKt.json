@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 321205,
+  "num_followers": 321248,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NTcyMDg1NywwMDAwMDAwMDgwNmU3MWRmMTkxMWVhYTExZGZkOGQxODU4ODc3NTc0",
+  "snapshot_id": "MTY2NTcyMDg1NywwMDAwMDAwMDQ3MjI5MjI4Y2RkZDA0ODMyZmY4OGNhZGM5N2I3MWZm",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Monomania",
+        "url": "https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA"
+      },
+      "artists": [
+        {
+          "name": "Clarice Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
+        }
+      ],
+      "duration_ms": 217756,
+      "name": "Eu Me Lembro",
+      "url": "https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Yasmin Santos Ao Vivo em S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/4Izu6KXDCXGOjSEFUjBvYq"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 300333,
       "name": "Reconvexo - Ao Vivo",
       "url": "https://open.spotify.com/track/1ddeP7G76wscmc0RH5sjVA"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Monomania",
-        "url": "https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA"
-      },
-      "artists": [
-        {
-          "name": "Clarice Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
-        }
-      ],
-      "duration_ms": 217756,
-      "name": "Eu Me Lembro",
-      "url": "https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Andarilho",
-        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
-      },
-      "artists": [
-        {
-          "name": "Majur",
-          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
-        }
-      ],
-      "duration_ms": 230160,
-      "name": "Andarilho",
-      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Peter Pan",
         "url": "https://open.spotify.com/album/55KHEIHNfQMBfuJ0JSpd5W"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 155851,
       "name": "Peter Pan",
       "url": "https://open.spotify.com/track/2izzg0ootMWve10LHVhFcx"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Andarilho",
+        "url": "https://open.spotify.com/album/4Q380wGkwoZ8ScnWrBoRC0"
+      },
+      "artists": [
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        }
+      ],
+      "duration_ms": 230160,
+      "name": "Andarilho",
+      "url": "https://open.spotify.com/track/4hZhNXdmGAQf3mHO1ZLf60"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Sempre a Cantar",
-        "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
-      },
-      "artists": [
-        {
-          "name": "Dona Ivone Lara",
-          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
-        }
-      ],
-      "duration_ms": 304866,
-      "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
-      "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Sandra de S\u00e1 - 1982",
         "url": "https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 267266,
       "name": "Olhos Coloridos",
       "url": "https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Sempre a Cantar",
+        "url": "https://open.spotify.com/album/1HyCOfJKZJ2uQqQfenUaGO"
+      },
+      "artists": [
+        {
+          "name": "Dona Ivone Lara",
+          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
+        }
+      ],
+      "duration_ms": 304866,
+      "name": "Algu\u00e9m Me Avisou/Acreditar/Sonho Meu",
+      "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Vem",
-        "url": "https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e"
-      },
-      "artists": [
-        {
-          "name": "Mallu Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
-        }
-      ],
-      "duration_ms": 235128,
-      "name": "Voc\u00ea N\u00e3o Presta",
-      "url": "https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "LoveSong",
         "url": "https://open.spotify.com/album/4MHpH5xowDkLR6BgImxHNS"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 142268,
       "name": "LoveSong",
       "url": "https://open.spotify.com/track/2EKr8S6HHKJcuRXdxXDbwD"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Vem",
+        "url": "https://open.spotify.com/album/1Oh3hIwfnqoNUWhZ8ksB5e"
+      },
+      "artists": [
+        {
+          "name": "Mallu Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
+        }
+      ],
+      "duration_ms": 235128,
+      "name": "Voc\u00ea N\u00e3o Presta",
+      "url": "https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Frevo Mulher",
-        "url": "https://open.spotify.com/album/48nwSoJS9YsQ1f8OotMNUg"
-      },
-      "artists": [
-        {
-          "name": "Amelinha",
-          "url": "https://open.spotify.com/artist/5hzHutt6DLPzctqvnS6Fdv"
-        }
-      ],
-      "duration_ms": 241093,
-      "name": "Frevo Mulher",
-      "url": "https://open.spotify.com/track/1ePuI28sGPx7ROzKZBRbqS"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Virgem",
         "url": "https://open.spotify.com/album/3U2agFlmhl2UWKZhsB6Vco"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 284040,
       "name": "Uma Noite E 1/2",
       "url": "https://open.spotify.com/track/2FSmesZ0BLPGOoEzS75Flc"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Frevo Mulher",
+        "url": "https://open.spotify.com/album/48nwSoJS9YsQ1f8OotMNUg"
+      },
+      "artists": [
+        {
+          "name": "Amelinha",
+          "url": "https://open.spotify.com/artist/5hzHutt6DLPzctqvnS6Fdv"
+        }
+      ],
+      "duration_ms": 241093,
+      "name": "Frevo Mulher",
+      "url": "https://open.spotify.com/track/1ePuI28sGPx7ROzKZBRbqS"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Assim Que Se Faz",
-        "url": "https://open.spotify.com/album/0RAjYNRqEDm7n1k5K9MKp0"
-      },
-      "artists": [
-        {
-          "name": "Luciana Mello",
-          "url": "https://open.spotify.com/artist/0rzVUhvOIVNUbY6uKCpGfb"
-        }
-      ],
-      "duration_ms": 300626,
-      "name": "Assim Que Se Faz",
-      "url": "https://open.spotify.com/track/7kHwpWr8LZDu4TmPTdu0rJ"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "S\u00f3 Porque Eu Sou Mulher",
         "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 163535,
       "name": "S\u00f3 Porque Eu Sou Mulher",
       "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "Assim Que Se Faz",
+        "url": "https://open.spotify.com/album/0RAjYNRqEDm7n1k5K9MKp0"
+      },
+      "artists": [
+        {
+          "name": "Luciana Mello",
+          "url": "https://open.spotify.com/artist/0rzVUhvOIVNUbY6uKCpGfb"
+        }
+      ],
+      "duration_ms": 300626,
+      "name": "Assim Que Se Faz",
+      "url": "https://open.spotify.com/track/7kHwpWr8LZDu4TmPTdu0rJ"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "TODXS",
-        "url": "https://open.spotify.com/album/4lfWlZdnEh4RDZk8qxmK8b"
-      },
-      "artists": [
-        {
-          "name": "Ana Ca\u00f1as",
-          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
-        }
-      ],
-      "duration_ms": 269706,
-      "name": "Eu Amo Voc\u00ea",
-      "url": "https://open.spotify.com/track/0NhJfWTezhboBET4DCXNO5"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
         "name": "Quer Ir no Meu Show ?",
         "url": "https://open.spotify.com/album/46nO35DqIMYP4YOo1RJukt"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 280946,
       "name": "Quer Ir no Meu Show ?",
       "url": "https://open.spotify.com/track/4bni91rf5R2zF6xElZY5la"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
+        "name": "TODXS",
+        "url": "https://open.spotify.com/album/4lfWlZdnEh4RDZk8qxmK8b"
+      },
+      "artists": [
+        {
+          "name": "Ana Ca\u00f1as",
+          "url": "https://open.spotify.com/artist/4v1mao101nIWvxzotCSKyz"
+        }
+      ],
+      "duration_ms": 269706,
+      "name": "Eu Amo Voc\u00ea",
+      "url": "https://open.spotify.com/track/0NhJfWTezhboBET4DCXNO5"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "Beijo De Judas",
+        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 153635,
+      "name": "Frank Ocean",
+      "url": "https://open.spotify.com/track/1YfAhV5hYhxhVdi0sTVh9b"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Rosa Amarela",
         "url": "https://open.spotify.com/album/4jNdQNWfoJFK8FEpXTzFtX"
       },
@@ -1603,18 +1619,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Beijo De Judas",
-        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
+        "name": "N\u00e3o \u00e9 S\u00f3 Isso",
+        "url": "https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt"
       },
       "artists": [
         {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
         }
       ],
-      "duration_ms": 153635,
-      "name": "Frank Ocean",
-      "url": "https://open.spotify.com/track/1YfAhV5hYhxhVdi0sTVh9b"
+      "duration_ms": 232361,
+      "name": "Essa Vista",
+      "url": "https://open.spotify.com/track/57GkzXwuA76arMtkhQUnxB"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1631,22 +1647,6 @@
       "duration_ms": 329680,
       "name": "Menina, Amanh\u00e3 de Manh\u00e3",
       "url": "https://open.spotify.com/track/264Jze0mvGjOzxNG8fLEuO"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "N\u00e3o \u00e9 S\u00f3 Isso",
-        "url": "https://open.spotify.com/album/74oYgcDGGUfRnt9bJHmkKt"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 232361,
-      "name": "Essa Vista",
-      "url": "https://open.spotify.com/track/57GkzXwuA76arMtkhQUnxB"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "Vinte Palavras ao Redor do Sol",
-        "url": "https://open.spotify.com/album/1ZBQq9OK0WC1Ti35wLNhgi"
+        "name": "Acabou",
+        "url": "https://open.spotify.com/album/0aewO9DlpZuzF26qDduvqR"
       },
       "artists": [
         {
-          "name": "C\u00e1tia de Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM"
+          "name": "Maria",
+          "url": "https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX"
         }
       ],
-      "duration_ms": 183933,
-      "name": "Quem Vai Quem Vem",
-      "url": "https://open.spotify.com/track/5Jkl4ADkfDH5mHgx3sM0m1"
+      "duration_ms": 179987,
+      "name": "Acabou",
+      "url": "https://open.spotify.com/track/0kyrKozPm9P5jbQhSvr9Ir"
     }
   ],
   "unique_name": "Escuta as Minas",

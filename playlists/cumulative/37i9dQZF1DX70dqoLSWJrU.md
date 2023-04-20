@@ -4,7 +4,7 @@
 
 > Heartbreaking and sad instrumental and vocal Jazz.
 
-135 songs - 7 hr 55 min
+136 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [There's No Such Thing As Love](https://open.spotify.com/track/6F4tYYGkZwRY0yNMHBzlV1) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty) | 3:03 | 2022-06-29 |  |
 | [There's No You](https://open.spotify.com/track/2CkKOGvbmPntrNs7ntLiTk) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 4:47 | 2022-04-13 |  |
 | [Too Young To Go Steady \- Remastered](https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Night Lights](https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx) | 2:52 | 2022-04-13 |  |
-| [Wasting My Love On You](https://open.spotify.com/track/1kKF0fbIAzKwbgdOedTWyg) | [Annette Hanshaw](https://open.spotify.com/artist/2NH5zRbA36q4uznwcJ8yDk) | [The Big Broadcast, Volume 2: Jazz and Popular Music of the 1920s and 1930s](https://open.spotify.com/album/1SfSBipIVlCDOgxqRUDxgf) | 3:17 | 2022-04-13 |  |
+| [Wasting My Love On You](https://open.spotify.com/track/1kKF0fbIAzKwbgdOedTWyg) | [Annette Hanshaw](https://open.spotify.com/artist/2NH5zRbA36q4uznwcJ8yDk) | [The Big Broadcast, Volume 2: Jazz and Popular Music of the 1920s and 1930s](https://open.spotify.com/album/1SfSBipIVlCDOgxqRUDxgf) | 3:17 | 2022-04-13 | 2023-04-20 |
+| [Wasting My Love on You](https://open.spotify.com/track/5Dp0YfR5ygkhdoB0rmLlFZ) | [Annette Hanshaw](https://open.spotify.com/artist/2NH5zRbA36q4uznwcJ8yDk) | [She's Got It](https://open.spotify.com/album/5UKPWnmzf6F2UlBhp1dIRi) | 3:17 | 2023-04-14 |  |
 | [What's New](https://open.spotify.com/track/6iUmixPxVD6SacLhATYace) | [Helen Merrill](https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q) | [Helen Merill](https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C) | 5:01 | 2022-04-13 |  |
 | [Whatever Happened To You?](https://open.spotify.com/track/2h3oMpsivzE6an9GBDVy35) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Waiter, Make Mine The Blues](https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7) | 4:41 | 2022-04-13 |  |
 | [When Your Lover Has Gone](https://open.spotify.com/track/5wIXpK3BAW5geIlEmYf23n) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [The Complete Piano Duets](https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd) | 4:57 | 2022-04-13 |  |

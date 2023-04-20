@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,248 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,720 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 29 | [Escape \- Radio Edit](https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh) | [Airbase](https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe) | [Escape](https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu) | 3:14 |
 | 30 | [We're All We Need](https://open.spotify.com/track/7jji8nfxJ84AJkUSpgruPL) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL) | [We Are All We Need](https://open.spotify.com/album/6coJxgM3dkzZbbuPBVVcOW) | 4:22 |
 | 31 | [Don't Give Up](https://open.spotify.com/track/0zjORbo98bRxMmyS3wzeKW) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Twenty](https://open.spotify.com/album/44vqzi1IjdNLJ6AtkTuzIh) | 3:30 |
-| 32 | [Carte Blanche \- FM Edit](https://open.spotify.com/track/5yTN79Mgt4licL40oassM3) | [Veracocha](https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd) | [Carte Blanche \(Ilan Bluestone Remix\)](https://open.spotify.com/album/295n2liNroUB9gpP6tsNAE) | 3:24 |
-| 33 | [Loneliness \- Radio Cut](https://open.spotify.com/track/7mPrEblYX8GLGRXLmPL8ws) | [Tomcraft](https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp) | [Loneliness](https://open.spotify.com/album/5LOLNALdP8O97CMeGdqOOM) | 3:48 |
+| 32 | [Loneliness \- Radio Cut](https://open.spotify.com/track/7mPrEblYX8GLGRXLmPL8ws) | [Tomcraft](https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp) | [Loneliness](https://open.spotify.com/album/5LOLNALdP8O97CMeGdqOOM) | 3:48 |
+| 33 | [Carte Blanche \- FM Edit](https://open.spotify.com/track/5yTN79Mgt4licL40oassM3) | [Veracocha](https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd) | [Carte Blanche \(Ilan Bluestone Remix\)](https://open.spotify.com/album/295n2liNroUB9gpP6tsNAE) | 3:24 |
 | 34 | [Find Yourself](https://open.spotify.com/track/6N2pJ8VdWc3DyoahZ2GoBW) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb), [Sarah Howells](https://open.spotify.com/artist/1tZ0IeTjOOVtRI0EKBsekw) | [Armada Collected: John O'Callaghan](https://open.spotify.com/album/0ji0T5B0uXzJZibt3ccSGq) | 2:31 |
 | 35 | [Gouryella](https://open.spotify.com/track/6xl5vg5rhmbGI7kNML1IP4) | [Gouryella](https://open.spotify.com/artist/1JKDQ9CDwfLKUrhO6KYaki) | [Gouryella](https://open.spotify.com/album/3m46k3MUplWsGimuECcGoL) | 3:37 |
 | 36 | [Coming On Strong](https://open.spotify.com/track/7cZAh5boqsZqcxfKUAwFHb) | [Signum](https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ), [Scott Mac](https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw) | [Coming On Strong \(ReOrder Remix\)](https://open.spotify.com/album/3dMgaoVi9AC6GMCpr9D4c3) | 3:19 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 47 | [Bits N Pianos](https://open.spotify.com/track/6F85zMy5Ucjr1H6dsdZYYx) | [SDC](https://open.spotify.com/artist/6qSmkoM4CdhOuo08wFdwDx) | [Bits N Pianos](https://open.spotify.com/album/5ThZFZtXcEDqXzsu970pdd) | 5:29 |
 | 48 | [Sun & Moon \- Above & Beyond Club Mix](https://open.spotify.com/track/5uwnXVq6NrQDvIlVZznVaC) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB) | [The Club Mix Collection](https://open.spotify.com/album/0RkRavz2FtCFuFe3U9iEZE) | 3:08 |
 | 49 | [U](https://open.spotify.com/track/7ej6hXuIvbHAz5tKRikMi1) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Bo Bruce](https://open.spotify.com/artist/4N2lZcytbZifGelhVEpMeK) | [Drive](https://open.spotify.com/album/0xt7caaIpRnFVyCHcl4zsW) | 4:20 |
-| 50 | [C'est Musique \- Armin van Buuren Mix](https://open.spotify.com/track/5kB1gEMaiHS78xIDT4JbJC) | [Shane](https://open.spotify.com/artist/1z72nMFtolqEV4KXotyigR), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [C'est Musique \(Armin van Buuren Mix\)](https://open.spotify.com/album/2f587WiMGu3vcpkbNfXOSX) | 11:09 |
+| 50 | [Take Me Away \(Into The Night\) \- Radio Edit](https://open.spotify.com/track/7AdWFGv4pv1o9YSPWACdOl) | [4 Strings](https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id) | [Take Me Away \(Into The Night\)](https://open.spotify.com/album/3BIWgt1SQ3YISooGrl0LQr) | 3:09 |
 
-Snapshot ID: `MTY3ODQ4Nzc3NywwMDAwMDAwMDcxNTg4MmUwNGJlMmViZmFlYjM4N2U4OTQ5MzlhNWYw`
+Snapshot ID: `MTY3ODQ4Nzc3NywwMDAwMDAwMGMxZDg2NzI5YjUzYTI2N2NmOTA4OTVhNWYwNzRjNGQ2`

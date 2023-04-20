@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,092 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,302 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,17 +54,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 44 | [Shiloh](https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Shiloh](https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG) | 4:28 |
 | 45 | [prove it](https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [prove it](https://open.spotify.com/album/5iN9wvIKMNLlOw6es5Kc03) | 2:42 |
 | 46 | [Wash Me Clean](https://open.spotify.com/track/7jnKoJHxdjjjQGqbkgyRPH) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Peace to All Who Enter Here](https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk) | 3:42 |
-| 47 | [Tomorrow](https://open.spotify.com/track/0I5r1VOxCdRdmAnBkTcBFS) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Evergreen](https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk) | 2:36 |
-| 48 | [Graves Into Gardens \- Acoustic](https://open.spotify.com/track/0yMTBqAAAtjNtCkphns47E) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Graves Into Gardens \(Acoustic\)](https://open.spotify.com/album/2lgBs5Jkwh9k8LvRxCaNmF) | 4:38 |
+| 47 | [Graves Into Gardens \- Acoustic](https://open.spotify.com/track/0yMTBqAAAtjNtCkphns47E) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Graves Into Gardens \(Acoustic\)](https://open.spotify.com/album/2lgBs5Jkwh9k8LvRxCaNmF) | 4:38 |
+| 48 | [Tomorrow](https://open.spotify.com/track/0I5r1VOxCdRdmAnBkTcBFS) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [Evergreen](https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk) | 2:36 |
 | 49 | [Just Like Heaven](https://open.spotify.com/track/79C3lXRjQvLCSPHeTfy52k) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Just Like Heaven](https://open.spotify.com/album/1ZQderlUe4quEPiuuZqADk) | 5:36 |
 | 50 | [When I Say Amen](https://open.spotify.com/track/72dkOjbNYK7xOstSxUiguh) | [Rachel Wammack](https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR) | [When I Say Amen](https://open.spotify.com/album/1OnvG3dApeM5v61vNW3yUZ) | 3:28 |
-| 51 | [Transparente](https://open.spotify.com/track/53OH88v4fyx4cqRlHE1Ezy) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [Todos A La Mesa](https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9) | 5:05 |
-| 52 | [Jesus My Beloved](https://open.spotify.com/track/4EsYYFhkGUz9kxjQzMx1D3) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7), [Kindred Worship](https://open.spotify.com/artist/1oOjYMuuEgcp5h2bawP47T) | [Songs from Home](https://open.spotify.com/album/6jdZFEEGZA6KcSUiETNOUP) | 5:07 |
+| 51 | [Jesus My Beloved](https://open.spotify.com/track/4EsYYFhkGUz9kxjQzMx1D3) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7), [Kindred Worship](https://open.spotify.com/artist/1oOjYMuuEgcp5h2bawP47T) | [Songs from Home](https://open.spotify.com/album/6jdZFEEGZA6KcSUiETNOUP) | 5:07 |
+| 52 | [Transparente](https://open.spotify.com/track/53OH88v4fyx4cqRlHE1Ezy) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [Todos A La Mesa](https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9) | 5:05 |
 | 53 | [Keep On Hoping \- Piano Choir Version](https://open.spotify.com/track/49z6pEQAihKOYZ3NZRfI8d) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Keep On Hoping](https://open.spotify.com/album/0tuOmgWScGIS1kjzutqYHo) | 3:27 |
 | 54 | [Rest On Us](https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Eric Gilmour](https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j) | [Rest On Us](https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF) | 3:29 |
 | 55 | [So Well](https://open.spotify.com/track/1uVIYYfysvEHvyAWKuF7sv) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Goodness of God: Songs of Worship](https://open.spotify.com/album/74R9jB4mMP9ei58XOno64f) | 4:49 |
-| 56 | [Take This](https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Now More Than Ever](https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf) | 4:40 |
-| 57 | [Lord Send Revival \- Acoustic](https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends \(Acoustic\)](https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA) | 4:53 |
+| 56 | [Lord Send Revival \- Acoustic](https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends \(Acoustic\)](https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA) | 4:53 |
+| 57 | [Take This](https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Now More Than Ever](https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf) | 4:40 |
 | 58 | [Quiet Talk](https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Quiet Talk](https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW) | 2:48 |
 | 59 | [God You Are \(feat\. Josh Baldwin\)](https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [God You Are](https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j) | 4:25 |
 | 60 | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB) | 5:55 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 65 | [Ever Closer](https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Ever Closer](https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc) | 3:52 |
 | 66 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 |
 | 67 | [Helpless One](https://open.spotify.com/track/4DccX20AEk2LUgaDht4eHt) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Helpless One](https://open.spotify.com/album/4MEBE9KVyYrQqDbUqZvyvN) | 3:15 |
-| 68 | [Whisper \(Acoustic\)](https://open.spotify.com/track/73ZcbnETkq6chgu1RhVULY) | [Stillman](https://open.spotify.com/artist/7oiurd2k5JbvCNjP3PWKTH) | [Whisper \(Acoustic Sessions\)](https://open.spotify.com/album/3njl0Jd9S5nSGIYJxp5UuT) | 4:27 |
-| 69 | [Providence](https://open.spotify.com/track/7G8ZEE8HmuPPfy5JE5PE8b) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Providence](https://open.spotify.com/album/16PEcahwDYpgyENSSIBPfN) | 6:18 |
-| 70 | [Holy, Holy, Holy](https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Holy, Holy, Holy](https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB) | 2:26 |
+| 68 | [Holy, Holy, Holy](https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Holy, Holy, Holy](https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB) | 2:26 |
+| 69 | [Whisper \(Acoustic\)](https://open.spotify.com/track/73ZcbnETkq6chgu1RhVULY) | [Stillman](https://open.spotify.com/artist/7oiurd2k5JbvCNjP3PWKTH) | [Whisper \(Acoustic Sessions\)](https://open.spotify.com/album/3njl0Jd9S5nSGIYJxp5UuT) | 4:27 |
+| 70 | [Providence](https://open.spotify.com/track/7G8ZEE8HmuPPfy5JE5PE8b) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Providence](https://open.spotify.com/album/16PEcahwDYpgyENSSIBPfN) | 6:18 |
 
-Snapshot ID: `MTY3NTc5MTc4MiwwMDAwMDAwMDczNzFjZWRiYjYxNmU4NGNkMzZkZDRkNjk4MDU5MjYy`
+Snapshot ID: `MTY3NTc5MTc4MiwwMDAwMDAwMDFlYzg4NmM5YzQwMzIyYjM1NjMyMjgwNjczYTgxYjZk`

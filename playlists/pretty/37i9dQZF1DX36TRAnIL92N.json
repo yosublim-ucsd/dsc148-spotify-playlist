@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 133214,
+  "num_followers": 133783,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzI2MCwwMDAwMDAwMGM4YzljZDJhNzhkOTUyYzhjNjE1YTJlMDkyMTFlYzc2",
+  "snapshot_id": "MTY4MTQyMzI2MCwwMDAwMDAwMGRhYjNlNTBlMTIzMDcyMWU5ZGQ1OTI5Y2I3YmQ1Nzk0",
   "tracks": [
     {
       "added_at": "2023-04-13 22:01:00",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "We Control",
+        "url": "https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 206625,
+      "name": "We Control",
+      "url": "https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "Choir Of Spirits",
         "url": "https://open.spotify.com/album/7yGPNpwNMQmMb6ufCztgnd"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 405439,
       "name": "Choir Of Spirits",
       "url": "https://open.spotify.com/track/0V6GWgubCBR8955ZWtJ4WR"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "We Control",
-        "url": "https://open.spotify.com/album/5VgrFAxkLmF6xAfgY6ByeW"
-      },
-      "artists": [
-        {
-          "name": "Lilly Palmer",
-          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
-        }
-      ],
-      "duration_ms": 206625,
-      "name": "We Control",
-      "url": "https://open.spotify.com/track/7K3OyIuvYF1qcwr4xqILeu"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -515,26 +515,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Quiet Woman",
-        "url": "https://open.spotify.com/album/3CVBDukXHdeMX4Tntt1O98"
-      },
-      "artists": [
-        {
-          "name": "Tao Andra",
-          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
-        },
-        {
-          "name": "Simina Grigoriu",
-          "url": "https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU"
-        }
-      ],
-      "duration_ms": 365373,
-      "name": "Quiet Woman - Simina Grigoriu Remix",
-      "url": "https://open.spotify.com/track/5L2xfiztZvJZdWLnd64GcY"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "Never Go Back To Sleep",
         "url": "https://open.spotify.com/album/7LTsOeCZMSlYLbyhoJmwM5"
       },
@@ -567,6 +547,26 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "Quiet Woman",
+        "url": "https://open.spotify.com/album/3CVBDukXHdeMX4Tntt1O98"
+      },
+      "artists": [
+        {
+          "name": "Tao Andra",
+          "url": "https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC"
+        },
+        {
+          "name": "Simina Grigoriu",
+          "url": "https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU"
+        }
+      ],
+      "duration_ms": 365373,
+      "name": "Quiet Woman - Simina Grigoriu Remix",
+      "url": "https://open.spotify.com/track/5L2xfiztZvJZdWLnd64GcY"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "We Control",
         "url": "https://open.spotify.com/album/5F2AxyNUfQ9jVfsVJMG9jl"
       },
@@ -579,26 +579,6 @@
       "duration_ms": 231437,
       "name": "Don't Look Back",
       "url": "https://open.spotify.com/track/6Z2NosTNVXFCTqKG3HmB04"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "The Coldest Form",
-        "url": "https://open.spotify.com/album/17MkLzzH2Wa6cUJcH5PcSh"
-      },
-      "artists": [
-        {
-          "name": "Julien Riess",
-          "url": "https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N"
-        },
-        {
-          "name": "CNTRBND",
-          "url": "https://open.spotify.com/artist/0FZp81997YIf776FPtBsGk"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "The Coldest Form",
-      "url": "https://open.spotify.com/track/0EEq5t7dahypAAQDUK1WjW"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -647,6 +627,26 @@
       "duration_ms": 192380,
       "name": "Platia",
       "url": "https://open.spotify.com/track/6ZDlNJ1RTu4HZv18GYVB2v"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "The Coldest Form",
+        "url": "https://open.spotify.com/album/17MkLzzH2Wa6cUJcH5PcSh"
+      },
+      "artists": [
+        {
+          "name": "Julien Riess",
+          "url": "https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N"
+        },
+        {
+          "name": "CNTRBND",
+          "url": "https://open.spotify.com/artist/0FZp81997YIf776FPtBsGk"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "The Coldest Form",
+      "url": "https://open.spotify.com/track/0EEq5t7dahypAAQDUK1WjW"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Lonely Traveller",
-        "url": "https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit"
-      },
-      "artists": [
-        {
-          "name": "Klanglos",
-          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
-        }
-      ],
-      "duration_ms": 366038,
-      "name": "Lonely Traveller",
-      "url": "https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "Affection",
         "url": "https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 271729,
       "name": "Affection - Radio Edit",
       "url": "https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Lonely Traveller",
+        "url": "https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit"
+      },
+      "artists": [
+        {
+          "name": "Klanglos",
+          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
+        }
+      ],
+      "duration_ms": 366038,
+      "name": "Lonely Traveller",
+      "url": "https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Together One Time",
-        "url": "https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM"
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/2mHKmSPCtMud5SwgzMNEQ1"
       },
       "artists": [
         {
-          "name": "Kaiserdisco",
-          "url": "https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i"
+          "name": "Luna Lucci",
+          "url": "https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp"
         }
       ],
-      "duration_ms": 288671,
-      "name": "Together One Time",
-      "url": "https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja"
+      "duration_ms": 348444,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/6ewzsniysRplwdDRA7eNdn"
     }
   ],
   "unique_name": "Techno Workout",

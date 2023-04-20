@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: INNA",
-  "num_followers": 892453,
+  "num_followers": 892420,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ3NDMxNiwwMDAwMDAwMDhkZTkzZGZmYzA4MjFhMTcyNTJlZTBjMjMxZGRlN2Y1",
+  "snapshot_id": "MTY4MTQ3NDMxNiwwMDAwMDAwMDZjOWY4ZWI0ZGQ2ZTUxM2Y2MzM1MjRmZWMzOWVlMDlh",
   "tracks": [
     {
       "added_at": "2023-04-05 04:00:00",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
+        "name": "Tiempo Indefinido",
+        "url": "https://open.spotify.com/album/4UBAXB1P4GiQoPXoprX1Xd"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "duration_ms": 137167,
+      "name": "Tiempo Indefinido",
+      "url": "https://open.spotify.com/track/5olfCMs2dCnGsz6ZQPSmYy"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
         "name": "Asphalt (feat. pH-1)",
         "url": "https://open.spotify.com/album/6opRDXGetgN7pAaReSCb1N"
       },
@@ -487,22 +503,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Tiempo Indefinido",
-        "url": "https://open.spotify.com/album/4UBAXB1P4GiQoPXoprX1Xd"
-      },
-      "artists": [
-        {
-          "name": "Susana Cala",
-          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
-        }
-      ],
-      "duration_ms": 137167,
-      "name": "Tiempo Indefinido",
-      "url": "https://open.spotify.com/track/5olfCMs2dCnGsz6ZQPSmYy"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "\u05dc\u05d0 \u05e9\u05d5\u05de\u05e2\u05ea (Prod. by Triangle)",
         "url": "https://open.spotify.com/album/3nxNC2KSRt306Go8ELMh87"
       },
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "*~Silencio...Shh",
-        "url": "https://open.spotify.com/album/4sdDj0R43l053n4BF8UZ1G"
-      },
-      "artists": [
-        {
-          "name": "Marf \u90b1\u5f65\u7b52",
-          "url": "https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08"
-        }
-      ],
-      "duration_ms": 204631,
-      "name": "*~Silencio...Shh",
-      "url": "https://open.spotify.com/track/4GEH1FbhEEgnt2NNpHoPYA"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Worst Taste In Girls",
         "url": "https://open.spotify.com/album/1D05rYqJaiYUhl3YX8t0Oq"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 176604,
       "name": "Worst Taste In Girls",
       "url": "https://open.spotify.com/track/3WSZgyMBLoNxXb8DjFFYDq"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "*~Silencio...Shh",
+        "url": "https://open.spotify.com/album/4sdDj0R43l053n4BF8UZ1G"
+      },
+      "artists": [
+        {
+          "name": "Marf \u90b1\u5f65\u7b52",
+          "url": "https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08"
+        }
+      ],
+      "duration_ms": 204631,
+      "name": "*~Silencio...Shh",
+      "url": "https://open.spotify.com/track/4GEH1FbhEEgnt2NNpHoPYA"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "if i fall for you",
-        "url": "https://open.spotify.com/album/5ZmHCATrtaAL8awlrlxBZW"
-      },
-      "artists": [
-        {
-          "name": "Karin Ann",
-          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
-        }
-      ],
-      "duration_ms": 186405,
-      "name": "if i fall for you",
-      "url": "https://open.spotify.com/track/1vtHdaq48zvFsHjYkn8R9a"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "De S\u2019 Afino",
         "url": "https://open.spotify.com/album/1maT0OfKtiyyUDdtIuu0i1"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 175578,
       "name": "De S\u2019 Afino",
       "url": "https://open.spotify.com/track/6aAXN1sRhLiSOhUfJ7g2Gr"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "if i fall for you",
+        "url": "https://open.spotify.com/album/5ZmHCATrtaAL8awlrlxBZW"
+      },
+      "artists": [
+        {
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+        }
+      ],
+      "duration_ms": 186405,
+      "name": "if i fall for you",
+      "url": "https://open.spotify.com/track/1vtHdaq48zvFsHjYkn8R9a"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "midnight rendezvous",
-        "url": "https://open.spotify.com/album/4XAi7fxJkMgdqS73Wjte5J"
-      },
-      "artists": [
-        {
-          "name": "Talitha.",
-          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
-        }
-      ],
-      "duration_ms": 156857,
-      "name": "midnight rendezvous",
-      "url": "https://open.spotify.com/track/6gVIrj4H3rmXYZnFXxtEl3"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "\u0411\u0415\u0417 \u041a\u041e\u0425\u0410\u041d\u041d\u042f",
         "url": "https://open.spotify.com/album/1yVePWCyQCKLeAdKXNlYiV"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 180437,
       "name": "\u0411\u0415\u0417 \u041a\u041e\u0425\u0410\u041d\u041d\u042f",
       "url": "https://open.spotify.com/track/6yTSdpaqc747hvfokBv8bS"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "midnight rendezvous",
+        "url": "https://open.spotify.com/album/4XAi7fxJkMgdqS73Wjte5J"
+      },
+      "artists": [
+        {
+          "name": "Talitha.",
+          "url": "https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY"
+        }
+      ],
+      "duration_ms": 156857,
+      "name": "midnight rendezvous",
+      "url": "https://open.spotify.com/track/6gVIrj4H3rmXYZnFXxtEl3"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Shoreditch Road",
-        "url": "https://open.spotify.com/album/56jLPpU2ZIgVy9Caq5umUH"
-      },
-      "artists": [
-        {
-          "name": "Valentina Ploy",
-          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
-        }
-      ],
-      "duration_ms": 193288,
-      "name": "Shoreditch Road",
-      "url": "https://open.spotify.com/track/1fXH9WeNGhc5xBAqQUp6e0"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Bebe",
         "url": "https://open.spotify.com/album/6VarZmpkqYXFYsO1NcWJX3"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 136662,
       "name": "Bebe",
       "url": "https://open.spotify.com/track/4cbbcvNAEwB1Mh6fvpFW0O"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Shoreditch Road",
+        "url": "https://open.spotify.com/album/56jLPpU2ZIgVy9Caq5umUH"
+      },
+      "artists": [
+        {
+          "name": "Valentina Ploy",
+          "url": "https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e"
+        }
+      ],
+      "duration_ms": 193288,
+      "name": "Shoreditch Road",
+      "url": "https://open.spotify.com/track/1fXH9WeNGhc5xBAqQUp6e0"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -811,18 +811,26 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/69mhSprfKPOftUhwt8UglR"
+        "name": "Aye Khuda",
+        "url": "https://open.spotify.com/album/6cRFB01oyEXqAQCIH5qFos"
       },
       "artists": [
         {
-          "name": "Kathia",
-          "url": "https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4"
+          "name": "Sanam Marvi",
+          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
+        },
+        {
+          "name": "Waqar Faiz",
+          "url": "https://open.spotify.com/artist/5PQ8zLBUFXDtS67TwbDOlY"
+        },
+        {
+          "name": "Rushil",
+          "url": "https://open.spotify.com/artist/1gHxomNGjRJHDAl7INHnxE"
         }
       ],
-      "duration_ms": 246000,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/3B1fIPSXUbuPQ5xShByFSU"
+      "duration_ms": 544565,
+      "name": "Aye Khuda",
+      "url": "https://open.spotify.com/track/7vIEXrKp0MXaGkiqJ8qVhx"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -847,6 +855,38 @@
       "duration_ms": 162843,
       "name": "CHROME",
       "url": "https://open.spotify.com/track/6sXubAaPRNZD4ls6fsOtRC"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Soul Ties",
+        "url": "https://open.spotify.com/album/3AM8Ck88yPerwlY7Fvp0oU"
+      },
+      "artists": [
+        {
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+        }
+      ],
+      "duration_ms": 238847,
+      "name": "Soul Ties",
+      "url": "https://open.spotify.com/track/6HFrOJItMlIgzlYsXcs6Fu"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/69mhSprfKPOftUhwt8UglR"
+      },
+      "artists": [
+        {
+          "name": "Kathia",
+          "url": "https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/3B1fIPSXUbuPQ5xShByFSU"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -879,46 +919,6 @@
       "duration_ms": 232857,
       "name": "Ana Wein",
       "url": "https://open.spotify.com/track/5FUkSeyQJaH4kZ8frwvKYo"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
-        "name": "Aye Khuda",
-        "url": "https://open.spotify.com/album/6cRFB01oyEXqAQCIH5qFos"
-      },
-      "artists": [
-        {
-          "name": "Sanam Marvi",
-          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
-        },
-        {
-          "name": "Waqar Faiz",
-          "url": "https://open.spotify.com/artist/5PQ8zLBUFXDtS67TwbDOlY"
-        },
-        {
-          "name": "Rushil",
-          "url": "https://open.spotify.com/artist/1gHxomNGjRJHDAl7INHnxE"
-        }
-      ],
-      "duration_ms": 544565,
-      "name": "Aye Khuda",
-      "url": "https://open.spotify.com/track/7vIEXrKp0MXaGkiqJ8qVhx"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
-        "name": "Soul Ties",
-        "url": "https://open.spotify.com/album/3AM8Ck88yPerwlY7Fvp0oU"
-      },
-      "artists": [
-        {
-          "name": "Illest Morena",
-          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
-        }
-      ],
-      "duration_ms": 238847,
-      "name": "Soul Ties",
-      "url": "https://open.spotify.com/track/6HFrOJItMlIgzlYsXcs6Fu"
     },
     {
       "added_at": "2023-04-05 04:00:00",

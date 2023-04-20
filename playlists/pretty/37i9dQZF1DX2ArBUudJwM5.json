@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Saramalacara.\nDales play, dales power.",
-  "num_followers": 29319,
+  "num_followers": 29458,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY2MzYwMCwwMDAwMDAwMDNmMDY2MGMwMTliZDliNWM3MDhkY2U4ZDdkNWRhZjNi",
+  "snapshot_id": "MTY4MDY2MzYwMCwwMDAwMDAwMGYyMzZjZmUwNDI3YzY5ZDg0ZWU1YzliYWJjOTQ0NTU5",
   "tracks": [
     {
       "added_at": "2023-04-05 03:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "Algo",
-        "url": "https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb"
-      },
-      "artists": [
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 168841,
-      "name": "Algo",
-      "url": "https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
         "name": "Dwele",
         "url": "https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 192800,
       "name": "Dwele",
       "url": "https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
+        "name": "Algo",
+        "url": "https://open.spotify.com/album/2sfNtiYkQmtEg2Nk1mebJb"
+      },
+      "artists": [
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 168841,
+      "name": "Algo",
+      "url": "https://open.spotify.com/track/6J9fOlNk1KXWSvMa5bvmtI"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
-        "name": "M\u00fasica bailando",
-        "url": "https://open.spotify.com/album/4j0GvUmwAlMVfRz9SVfaRq"
-      },
-      "artists": [
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 138466,
-      "name": "M\u00fasica bailando",
-      "url": "https://open.spotify.com/track/7a0UdEUK9b0zcRWMLHDhDA"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
         "name": "Miseria",
         "url": "https://open.spotify.com/album/6OvaaOohiSRpW9w9iJ0gAM"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 140444,
       "name": "Miseria",
       "url": "https://open.spotify.com/track/133WrLbDi3hHdqnmivs1yX"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
+        "name": "M\u00fasica bailando",
+        "url": "https://open.spotify.com/album/4j0GvUmwAlMVfRz9SVfaRq"
+      },
+      "artists": [
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 138466,
+      "name": "M\u00fasica bailando",
+      "url": "https://open.spotify.com/track/7a0UdEUK9b0zcRWMLHDhDA"
     },
     {
       "added_at": "2023-04-05 03:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-04-05 03:00:00",
       "album": {
+        "name": "Vladi",
+        "url": "https://open.spotify.com/album/7fu4kjCZwX5r2ZheVRSiDQ"
+      },
+      "artists": [
+        {
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+        }
+      ],
+      "duration_ms": 133897,
+      "name": "Revelde",
+      "url": "https://open.spotify.com/track/7A8PpZCTsUOVZm8vM0wUWy"
+    },
+    {
+      "added_at": "2023-04-05 03:00:00",
+      "album": {
         "name": "Como Hago",
         "url": "https://open.spotify.com/album/2FAxaj4IIILpoyhWVP4Zfm"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 123461,
       "name": "como hago",
       "url": "https://open.spotify.com/track/4KYePiLGY8oGeMNK1UH7BA"
-    },
-    {
-      "added_at": "2023-04-05 03:00:00",
-      "album": {
-        "name": "Vladi",
-        "url": "https://open.spotify.com/album/7fu4kjCZwX5r2ZheVRSiDQ"
-      },
-      "artists": [
-        {
-          "name": "Juana Rozas",
-          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
-        }
-      ],
-      "duration_ms": 133897,
-      "name": "Revelde",
-      "url": "https://open.spotify.com/track/7A8PpZCTsUOVZm8vM0wUWy"
     },
     {
       "added_at": "2023-04-05 03:00:00",

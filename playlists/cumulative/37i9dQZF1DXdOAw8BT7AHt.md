@@ -4,7 +4,7 @@
 
 > The best in new punk rock music\. Cover: Los Bitchos
 
-121 songs - 5 hr 59 min
+122 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,8 @@
 | [serotonin](https://open.spotify.com/track/7j1nFsNOimv0aj6CcLIsTj) | [lleo](https://open.spotify.com/artist/0zXY7bBZFvl0mNxPxzo1e4) | [serotonin](https://open.spotify.com/album/3VuJ9cyJWBvjQ8TxbJGrge) | 3:03 | 2022-12-02 |  |
 | [Sick Day](https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Sick Day](https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6) | 2:03 | 2023-03-20 |  |
 | [Silence Is Golden](https://open.spotify.com/track/7m3Lu7PUKNDJ2HgvrAKME9) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Expert In A Dying Field](https://open.spotify.com/album/6RWLJx7kQLSnwwPyTqPj0U) | 2:56 | 2022-12-02 |  |
-| [Six\-Pack](https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Six\-Pack](https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI) | 3:51 | 2023-01-18 |  |
+| [Six\-Pack](https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 3:51 | 2023-03-03 |  |
+| [Six\-Pack](https://open.spotify.com/track/4m6CLhBh46R33ELYBRa7ge) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Six\-Pack](https://open.spotify.com/album/3w357KurjmtsRZhooOMjgI) | 3:51 | 2023-01-18 | 2023-04-20 |
 | [STFU](https://open.spotify.com/track/3kUOyI09uhyv2hqKgj2o39) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [STFU](https://open.spotify.com/album/0NYz1EimESo3xgx3KMkknf) | 2:52 | 2022-12-02 |  |
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-12-02 |  |
 | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/track/2IY9lQ8pD2uVzAoIxJUPK8) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [TAKE THIS CROWN \(feat\. Good Charlotte\)](https://open.spotify.com/album/5A4pLq7sNTS4kdEnd6lN9M) | 3:35 | 2022-12-02 |  |

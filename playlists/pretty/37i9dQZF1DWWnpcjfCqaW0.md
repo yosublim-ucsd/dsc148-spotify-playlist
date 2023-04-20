@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,396 likes - 75 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,536 likes - 75 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,11 +60,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 50 | [Money Honey \- Remastered](https://open.spotify.com/track/1RLDhFignuYJaUyREhh1gM) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 2:14 |
 | 51 | [A Dear John Letter](https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI) | [Jean Shepard](https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty), [Ferlin Husky](https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB) | [Honky Tonk Heroine: Classic Capitol Recordings 1952\-1964](https://open.spotify.com/album/5GeQiPFDO8tJaRrbnHBKoM) | 2:37 |
 | 52 | [Under Your Spell Again](https://open.spotify.com/track/62aHZDM8REF3iJKIVcNoRK) | [Buck Owens](https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu) | [All\-Time Greatest Hits](https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt) | 2:44 |
-| 53 | [The Three Bells](https://open.spotify.com/track/24SbmQo3XQkNLpSBYda4DA) | [The Browns](https://open.spotify.com/artist/6GDSMFwAQBfnrrZf981Yji) | [Pure..\. Country](https://open.spotify.com/album/0voKCkfqWEnFaQ1TXsIdfR) | 2:49 |
+| 53 | [Crazy Arms](https://open.spotify.com/track/2cwGK6ZYfiZ1EZva2VEKSN) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [Greatest Hits](https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX) | 2:32 |
 | 54 | [You Win Again](https://open.spotify.com/track/6ZMHH9XpOSv0p9vl51nLO2) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW), [Drifting Cowboys](https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml) | [Memorial Album \(Expanded Edition\)](https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS) | 2:38 |
 | 55 | [Too Old To Cut The Mustard](https://open.spotify.com/track/6uaFrJlwnX79ZPz6xyzhrl) | [Red Foley](https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9), [Ernest Tubb](https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS) | [Retrospective \(Volume 2\)](https://open.spotify.com/album/1NwdehvDYJrG3gmyPkZ9fs) | 2:52 |
 | 56 | [Beautiful Lies](https://open.spotify.com/track/0TOnG6XkBU2Z9YBCCiRtMW) | [Jean Shepard](https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty) | [The Best Of Jean Shepard](https://open.spotify.com/album/18ClrNCJ8Y3yYbKhde22VB) | 2:50 |
-| 57 | [Crazy Arms](https://open.spotify.com/track/2cwGK6ZYfiZ1EZva2VEKSN) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [Greatest Hits](https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX) | 2:32 |
+| 57 | [The Three Bells](https://open.spotify.com/track/24SbmQo3XQkNLpSBYda4DA) | [The Browns](https://open.spotify.com/artist/6GDSMFwAQBfnrrZf981Yji) | [Pure..\. Country](https://open.spotify.com/album/0voKCkfqWEnFaQ1TXsIdfR) | 2:49 |
 | 58 | [Why Baby Why](https://open.spotify.com/track/3vewZQLIjngv5dmPm1ph45) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [22 Early Starday Recordings](https://open.spotify.com/album/5M4EJHZXWDI2XOaudxpg6G) | 2:16 |
 | 59 | [Honeycomb](https://open.spotify.com/track/7MqkjX5YCXhazcaAlHvPmJ) | [Jimmie Rodgers](https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp) | [The Best Of Jimmie Rodgers](https://open.spotify.com/album/45NJp1aF4AREJYjFww2PmH) | 2:17 |
 | 60 | [Am I Losing You](https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Greatest Hits](https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ) | 2:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 74 | [Tennessee Stud \- Remastered](https://open.spotify.com/track/0B6zRccZmGS6CoMFXv8wdc) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15) | 3:05 |
 | 75 | [In the Jailhouse Now](https://open.spotify.com/track/1oSJCRGSS3CbV526xMogmR) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [Golden Hits \(Vol\. 2\)](https://open.spotify.com/album/11KvQ30X7J2y2v8JPOUQbS) | 2:18 |
 
-Snapshot ID: `MTY3MjY5NTEyNywwMDAwMDAwMDJiMTk0ZWNlNjRkY2MzNmE0ZGE1ZTc2YmU0OTE3Njk0`
+Snapshot ID: `MTY3MjY5NTEyNywwMDAwMDAwMDM1ZWJkY2U5ZTUzYTA4NWRmNDBmNWJkMmU3NjMzYjA1`

@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
-  "num_followers": 59437,
+  "num_followers": 59488,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAwODA1MSwwMDAwMDAwMDExMmFkZGFmYTAxMjc0ZjZiMWRjYWViZTZkMWNkNzJi",
+  "snapshot_id": "MTY3OTAwODA1MSwwMDAwMDAwMGEwYmZkZjkwZTY5N2E4Y2YwMzZmNTY0NTM3ZTE5YTAx",
   "tracks": [
     {
       "added_at": "2023-03-16 23:07:31",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
-        "name": "Si La Vieras",
-        "url": "https://open.spotify.com/album/4RcPHUbcXSib4fo1c6h522"
+        "name": "Desde Adentro",
+        "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
       },
       "artists": [
         {
-          "name": "Los del Portezuelo",
-          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
         }
       ],
-      "duration_ms": 226750,
-      "name": "Si La Vieras",
-      "url": "https://open.spotify.com/track/5ULPFMQ1rDkp8XsyqunJ5d"
+      "duration_ms": 162093,
+      "name": "La Flor Azul",
+      "url": "https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5"
     },
     {
       "added_at": "2023-03-16 23:07:31",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
-        "name": "Desde Adentro",
-        "url": "https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0"
+        "name": "Si La Vieras",
+        "url": "https://open.spotify.com/album/4RcPHUbcXSib4fo1c6h522"
       },
       "artists": [
         {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
         }
       ],
-      "duration_ms": 162093,
-      "name": "La Flor Azul",
-      "url": "https://open.spotify.com/track/5jixR52PtP0o73ocfofVT5"
+      "duration_ms": 226750,
+      "name": "Si La Vieras",
+      "url": "https://open.spotify.com/track/5ULPFMQ1rDkp8XsyqunJ5d"
     },
     {
       "added_at": "2023-03-16 23:07:31",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
-        "name": "Que Tiene de Malo Eso",
-        "url": "https://open.spotify.com/album/6VcwvW6wSfr5DFyEiTL5Nw"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Que Tiene de Malo Eso",
-      "url": "https://open.spotify.com/track/5yGvbIKyrrTsFi0etQKgv7"
-    },
-    {
-      "added_at": "2023-03-16 23:07:31",
-      "album": {
         "name": "Luna Llena",
         "url": "https://open.spotify.com/album/3qNKPQP0exJIApWPz1SzWR"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 187439,
       "name": "Luna Llena",
       "url": "https://open.spotify.com/track/27682VM2spSTjaneKmvNjk"
+    },
+    {
+      "added_at": "2023-03-16 23:07:31",
+      "album": {
+        "name": "Que Tiene de Malo Eso",
+        "url": "https://open.spotify.com/album/6VcwvW6wSfr5DFyEiTL5Nw"
+      },
+      "artists": [
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Que Tiene de Malo Eso",
+      "url": "https://open.spotify.com/track/5yGvbIKyrrTsFi0etQKgv7"
     },
     {
       "added_at": "2023-03-16 23:07:31",
@@ -1315,38 +1315,6 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
-        "name": "Bien o Mal",
-        "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 210818,
-      "name": "Bien o Mal",
-      "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
-    },
-    {
-      "added_at": "2023-03-16 23:07:31",
-      "album": {
-        "name": "Corazon Sin Tiempo",
-        "url": "https://open.spotify.com/album/4AuCOi6XjMDbotmq5XpJ1I"
-      },
-      "artists": [
-        {
-          "name": "Duo Coplanacu",
-          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
-        }
-      ],
-      "duration_ms": 217680,
-      "name": "Corazon Sin Tiempo",
-      "url": "https://open.spotify.com/track/6mfVsaqE1raPyV3TvAuU85"
-    },
-    {
-      "added_at": "2023-03-16 23:07:31",
-      "album": {
         "name": "Volver A Verte",
         "url": "https://open.spotify.com/album/14tkcH6vS6AKuOFbGVeyT4"
       },
@@ -1367,6 +1335,38 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
+        "name": "Corazon Sin Tiempo",
+        "url": "https://open.spotify.com/album/4AuCOi6XjMDbotmq5XpJ1I"
+      },
+      "artists": [
+        {
+          "name": "Duo Coplanacu",
+          "url": "https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ"
+        }
+      ],
+      "duration_ms": 217680,
+      "name": "Corazon Sin Tiempo",
+      "url": "https://open.spotify.com/track/6mfVsaqE1raPyV3TvAuU85"
+    },
+    {
+      "added_at": "2023-03-16 23:07:31",
+      "album": {
+        "name": "Bien o Mal",
+        "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
+      },
+      "artists": [
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "duration_ms": 210818,
+      "name": "Bien o Mal",
+      "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
+    },
+    {
+      "added_at": "2023-03-16 23:07:31",
+      "album": {
         "name": "Te Olvid\u00e9",
         "url": "https://open.spotify.com/album/2v4r41b9qAum58wHgrBDDU"
       },
@@ -1379,42 +1379,6 @@
       "duration_ms": 180362,
       "name": "Te Olvid\u00e9",
       "url": "https://open.spotify.com/track/5rIOM7T84bwcBz4Rctn9bB"
-    },
-    {
-      "added_at": "2023-03-16 23:07:31",
-      "album": {
-        "name": "Ansiado Encuentro",
-        "url": "https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR"
-      },
-      "artists": [
-        {
-          "name": "ALEJANDRO FARIAS",
-          "url": "https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh"
-        },
-        {
-          "name": "La Eulogia Folk",
-          "url": "https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr"
-        }
-      ],
-      "duration_ms": 275563,
-      "name": "Ansiado Encuentro",
-      "url": "https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT"
-    },
-    {
-      "added_at": "2023-03-16 23:07:31",
-      "album": {
-        "name": "Repechando la Senda",
-        "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
-      },
-      "artists": [
-        {
-          "name": "Los Puesteros",
-          "url": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
-        }
-      ],
-      "duration_ms": 233561,
-      "name": "Nunca Olvides",
-      "url": "https://open.spotify.com/track/7uh4weyCU6SNgcNT4yyphY"
     },
     {
       "added_at": "2023-03-16 23:07:31",
@@ -1435,6 +1399,42 @@
       "duration_ms": 237957,
       "name": "Vivo",
       "url": "https://open.spotify.com/track/0Nvnd56uJQpOB104qIEcOM"
+    },
+    {
+      "added_at": "2023-03-16 23:07:31",
+      "album": {
+        "name": "Repechando la Senda",
+        "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
+      },
+      "artists": [
+        {
+          "name": "Los Puesteros",
+          "url": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
+        }
+      ],
+      "duration_ms": 233561,
+      "name": "Nunca Olvides",
+      "url": "https://open.spotify.com/track/7uh4weyCU6SNgcNT4yyphY"
+    },
+    {
+      "added_at": "2023-03-16 23:07:31",
+      "album": {
+        "name": "Ansiado Encuentro",
+        "url": "https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR"
+      },
+      "artists": [
+        {
+          "name": "ALEJANDRO FARIAS",
+          "url": "https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh"
+        },
+        {
+          "name": "La Eulogia Folk",
+          "url": "https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr"
+        }
+      ],
+      "duration_ms": 275563,
+      "name": "Ansiado Encuentro",
+      "url": "https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT"
     },
     {
       "added_at": "2023-03-16 23:07:31",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
-        "name": "D\u00e9jame Intentar",
-        "url": "https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 162192,
-      "name": "D\u00e9jame Intentar",
-      "url": "https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9"
-    },
-    {
-      "added_at": "2023-03-16 23:07:31",
-      "album": {
         "name": "Mil Momentos (En Vivo)",
         "url": "https://open.spotify.com/album/35oe1PzRomgYknZMJ8MCqT"
       },
@@ -1503,18 +1487,34 @@
     {
       "added_at": "2023-03-16 23:07:31",
       "album": {
-        "name": "Tan Cerca En La Distancia",
-        "url": "https://open.spotify.com/album/4RCRNdHuYCeV9jygMsAjVo"
+        "name": "D\u00e9jame Intentar",
+        "url": "https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO"
       },
       "artists": [
         {
-          "name": "Los Juncales",
-          "url": "https://open.spotify.com/artist/4d6yiiKUfZvhXlynmFVbtA"
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
         }
       ],
-      "duration_ms": 202728,
-      "name": "Tan Cerca En La Distancia",
-      "url": "https://open.spotify.com/track/1Sz2bHW2ULcrp9qyHYUZzG"
+      "duration_ms": 162192,
+      "name": "D\u00e9jame Intentar",
+      "url": "https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9"
+    },
+    {
+      "added_at": "2023-03-16 23:07:31",
+      "album": {
+        "name": "Antes De Ti",
+        "url": "https://open.spotify.com/album/2T3j2ziSjbAwlpryq8awBV"
+      },
+      "artists": [
+        {
+          "name": "Los Santiague\u00f1os del R\u00edo",
+          "url": "https://open.spotify.com/artist/6r9uNliQhXN4hiabQVvwi2"
+        }
+      ],
+      "duration_ms": 263993,
+      "name": "Antes De Ti",
+      "url": "https://open.spotify.com/track/4lCExNr3B8tP17auPWB9Le"
     }
   ],
   "unique_name": "Folklore Rom\u00e1ntico ",

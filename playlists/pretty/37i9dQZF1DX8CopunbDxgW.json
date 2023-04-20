@@ -1,12 +1,12 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: Yaeji",
-  "num_followers": 844290,
+  "num_followers": 844512,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTgzNjExMCwwMDAwMDAwMGRkODM5ZjBmZGQzYTExNmYwYjVhNjIyZjU0NjdlZWEy",
+  "snapshot_id": "MTY4MTgzNjExMCwwMDAwMDAwMDRiZmRlZDFkZWQ4MmQ1OWJkOWNmNGJlNmY3MzNmNDJh",
   "tracks": [
     {
       "added_at": "2023-04-18 16:41:50",
@@ -569,6 +569,22 @@
       "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
     },
     {
+      "added_at": "2023-04-14 03:54:18",
+      "album": {
+        "name": "Enjoy Your Life",
+        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 240053,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
+    },
+    {
       "added_at": "2023-02-17 05:00:00",
       "album": {
         "name": "Can\u2019t Let You Go",
@@ -661,20 +677,20 @@
       "url": "https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX"
     },
     {
-      "added_at": "2023-04-14 03:54:18",
+      "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Enjoy Your Life",
-        "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
       "artists": [
         {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 240053,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
+      "duration_ms": 243236,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -701,22 +717,6 @@
       "url": "https://open.spotify.com/track/4w2PIlbpP4jhc1S9MHUHzb"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 243236,
-      "name": "What I Want",
-      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
-    },
-    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "Real Cultural Shit",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "More Content",
-        "url": "https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 181873,
-      "name": "Sonder",
-      "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
         "name": "Wait For It",
         "url": "https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 239668,
       "name": "Wait For It",
       "url": "https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "More Content",
+        "url": "https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 181873,
+      "name": "Sonder",
+      "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -813,20 +813,20 @@
       "url": "https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j"
     },
     {
-      "added_at": "2023-02-24 05:01:00",
+      "added_at": "2023-03-24 04:00:00",
       "album": {
-        "name": "Circle Back Around",
-        "url": "https://open.spotify.com/album/4crvOlmTqKOcYeZkNs3D33"
+        "name": "Tighten It Up",
+        "url": "https://open.spotify.com/album/1kehGGSk2pMh7UNkDe4Njt"
       },
       "artists": [
         {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
         }
       ],
-      "duration_ms": 195408,
-      "name": "Circle Back Around",
-      "url": "https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB"
+      "duration_ms": 174896,
+      "name": "Tighten It Up",
+      "url": "https://open.spotify.com/track/2voltAhgLIXdr0AdlmYi8u"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -849,38 +849,6 @@
       "url": "https://open.spotify.com/track/0lFotZWVqwgQOh779DKet5"
     },
     {
-      "added_at": "2023-03-24 04:00:00",
-      "album": {
-        "name": "Tighten It Up",
-        "url": "https://open.spotify.com/album/1kehGGSk2pMh7UNkDe4Njt"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 174896,
-      "name": "Tighten It Up",
-      "url": "https://open.spotify.com/track/2voltAhgLIXdr0AdlmYi8u"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Beautiful Morning",
-        "url": "https://open.spotify.com/album/3WG5F3XvjH8NQPnux7GdQL"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 187126,
-      "name": "Beautiful Morning",
-      "url": "https://open.spotify.com/track/4To41a04u7ZaZ6bw8hIeX3"
-    },
-    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "Sunsleeper",
@@ -897,6 +865,22 @@
       "url": "https://open.spotify.com/track/7yWd93ZTbCuhaH2QCsTHKc"
     },
     {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Circle Back Around",
+        "url": "https://open.spotify.com/album/4crvOlmTqKOcYeZkNs3D33"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 195408,
+      "name": "Circle Back Around",
+      "url": "https://open.spotify.com/track/222xHxHw2MXwNX2qRFO6cB"
+    },
+    {
       "added_at": "2023-03-10 15:28:12",
       "album": {
         "name": "headstrong gunner",
@@ -911,6 +895,22 @@
       "duration_ms": 115651,
       "name": "headstrong gunner",
       "url": "https://open.spotify.com/track/3X0r6QZjpgWyMbyCBCvBX0"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Beautiful Morning",
+        "url": "https://open.spotify.com/album/3WG5F3XvjH8NQPnux7GdQL"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 187126,
+      "name": "Beautiful Morning",
+      "url": "https://open.spotify.com/track/4To41a04u7ZaZ6bw8hIeX3"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -953,38 +953,6 @@
       "url": "https://open.spotify.com/track/5g9Pgt8T9ppNyMtNIGV1pw"
     },
     {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Can't Do Without (My Baby)",
-        "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Can't Do Without (My Baby)",
-      "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "CLASH",
-        "url": "https://open.spotify.com/album/3teqPCjiUVKdmTONZZrrcv"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "CLASH - Edit",
-      "url": "https://open.spotify.com/track/4IPATLSUoEdsmqwxwNjr4g"
-    },
-    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "Out Of Time (Remix Bundle)",
@@ -1007,6 +975,38 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
+        "name": "CLASH",
+        "url": "https://open.spotify.com/album/3teqPCjiUVKdmTONZZrrcv"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "CLASH - Edit",
+      "url": "https://open.spotify.com/track/4IPATLSUoEdsmqwxwNjr4g"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Can't Do Without (My Baby)",
+        "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Can't Do Without (My Baby)",
+      "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
         "name": "Rooftop",
         "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
       },
@@ -1023,22 +1023,6 @@
       "duration_ms": 199440,
       "name": "Rooftop",
       "url": "https://open.spotify.com/track/1eMWdrMNzPuGOwsAeKlXBW"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 169351,
-      "name": "Laws of the Universe",
-      "url": "https://open.spotify.com/track/7mO2zFhGVdZdmGS7TMWH08"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1059,6 +1043,22 @@
       "duration_ms": 199088,
       "name": "Hi-Fidelity",
       "url": "https://open.spotify.com/track/2d9UdLMMe80RNfuQcGmuIe"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 169351,
+      "name": "Laws of the Universe",
+      "url": "https://open.spotify.com/track/7mO2zFhGVdZdmGS7TMWH08"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1317,6 +1317,46 @@
       "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
     },
     {
+      "added_at": "2023-04-14 03:54:18",
+      "album": {
+        "name": "Nymph_o",
+        "url": "https://open.spotify.com/album/28MZKxXQKX89mr1Y9g9d3k"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Erika de Casier",
+          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
+        }
+      ],
+      "duration_ms": 173869,
+      "name": "Crush feat. Erika de Casier",
+      "url": "https://open.spotify.com/track/4F3Xx2vBcZ0jq2JD8Bv9ZQ"
+    },
+    {
+      "added_at": "2023-02-24 05:01:00",
+      "album": {
+        "name": "Can't Help But Think About You",
+        "url": "https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Jesser",
+          "url": "https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG"
+        },
+        {
+          "name": "EMME",
+          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
+        }
+      ],
+      "duration_ms": 208185,
+      "name": "Can't Help But Think About You",
+      "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
+    },
+    {
       "added_at": "2023-03-03 18:55:26",
       "album": {
         "name": "Lavender Haze (Remixes)",
@@ -1335,38 +1375,6 @@
       "duration_ms": 235932,
       "name": "Lavender Haze - Jungle Remix",
       "url": "https://open.spotify.com/track/0ThxqUZ9PwS6n0UT5i1XH6"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Just Can't Get Enough",
-        "url": "https://open.spotify.com/album/0WTqPH4Z8TiNoEaHHvgIic"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 303124,
-      "name": "Just Can't Get Enough",
-      "url": "https://open.spotify.com/track/2keTABWAcdVZxJ6j8iEy83"
-    },
-    {
-      "added_at": "2023-03-10 15:28:12",
-      "album": {
-        "name": "Move Me",
-        "url": "https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Move Me",
-      "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1391,42 +1399,18 @@
     {
       "added_at": "2023-02-17 05:00:00",
       "album": {
-        "name": "Tunnel",
-        "url": "https://open.spotify.com/album/1HBAAAthpIYZLWtcr6NZUX"
+        "name": "Just Can't Get Enough",
+        "url": "https://open.spotify.com/album/0WTqPH4Z8TiNoEaHHvgIic"
       },
       "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        },
         {
           "name": "Channel Tres",
           "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 310573,
-      "name": "Tunnel",
-      "url": "https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT"
-    },
-    {
-      "added_at": "2023-02-24 05:01:00",
-      "album": {
-        "name": "Can't Help But Think About You",
-        "url": "https://open.spotify.com/album/4n8C4vGUmvNgpy4DO34Www"
-      },
-      "artists": [
-        {
-          "name": "Lincoln Jesser",
-          "url": "https://open.spotify.com/artist/3GxiyVFhM1CWoYBMfZ9hYG"
-        },
-        {
-          "name": "EMME",
-          "url": "https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs"
-        }
-      ],
-      "duration_ms": 208185,
-      "name": "Can't Help But Think About You",
-      "url": "https://open.spotify.com/track/43noj7erQp0en3LWB5pBF4"
+      "duration_ms": 303124,
+      "name": "Just Can't Get Enough",
+      "url": "https://open.spotify.com/track/2keTABWAcdVZxJ6j8iEy83"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1443,6 +1427,42 @@
       "duration_ms": 254773,
       "name": "Little Lies",
       "url": "https://open.spotify.com/track/7a0u0479DoiuV3DWg2AhoH"
+    },
+    {
+      "added_at": "2023-03-10 15:28:12",
+      "album": {
+        "name": "Move Me",
+        "url": "https://open.spotify.com/album/2DPuySW5r1sHgWXD7s4UfE"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Move Me",
+      "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
+    },
+    {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Tunnel",
+        "url": "https://open.spotify.com/album/1HBAAAthpIYZLWtcr6NZUX"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 310573,
+      "name": "Tunnel",
+      "url": "https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1479,26 +1499,6 @@
       "duration_ms": 164211,
       "name": "High",
       "url": "https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9"
-    },
-    {
-      "added_at": "2023-04-14 03:54:18",
-      "album": {
-        "name": "Nymph_o",
-        "url": "https://open.spotify.com/album/28MZKxXQKX89mr1Y9g9d3k"
-      },
-      "artists": [
-        {
-          "name": "Shygirl",
-          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
-        },
-        {
-          "name": "Erika de Casier",
-          "url": "https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0"
-        }
-      ],
-      "duration_ms": 173869,
-      "name": "Crush feat. Erika de Casier",
-      "url": "https://open.spotify.com/track/4F3Xx2vBcZ0jq2JD8Bv9ZQ"
     },
     {
       "added_at": "2023-02-17 05:00:00",
@@ -1725,6 +1725,22 @@
       "url": "https://open.spotify.com/track/5ukTUKLwsaThljUaV6IVAs"
     },
     {
+      "added_at": "2023-02-17 05:00:00",
+      "album": {
+        "name": "Violet Drive",
+        "url": "https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu"
+      },
+      "artists": [
+        {
+          "name": "Kerala Dust",
+          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
+        }
+      ],
+      "duration_ms": 341088,
+      "name": "Moonbeam, Midnight, Howl",
+      "url": "https://open.spotify.com/track/4TGDSeSPvNW1t9lEApQOVE"
+    },
+    {
       "added_at": "2023-02-24 05:01:00",
       "album": {
         "name": "Ghost On The Mend (veggi remix)",
@@ -1743,22 +1759,6 @@
       "duration_ms": 169591,
       "name": "Ghost On The Mend - veggi remix",
       "url": "https://open.spotify.com/track/5c3sjghivRZjMd0nvSGPUR"
-    },
-    {
-      "added_at": "2023-02-17 05:00:00",
-      "album": {
-        "name": "Violet Drive",
-        "url": "https://open.spotify.com/album/21PmcwFrDQFqr2vskQgyDu"
-      },
-      "artists": [
-        {
-          "name": "Kerala Dust",
-          "url": "https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH"
-        }
-      ],
-      "duration_ms": 341088,
-      "name": "Moonbeam, Midnight, Howl",
-      "url": "https://open.spotify.com/track/4TGDSeSPvNW1t9lEApQOVE"
     },
     {
       "added_at": "2023-02-17 05:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 30958,
+  "num_followers": 30996,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTMxMjI0MiwwMDAwMDAwMDI5Y2VhNzRiZmM2ZDA4NjBhNjZmMTU0OTM5ZDM3NGJj",
+  "snapshot_id": "MTY4MTMxMjI0MiwwMDAwMDAwMGExODdiN2I5YmY4ZGRmMmE4NzBlODQ4Mzc5NmJiYmIy",
   "tracks": [
     {
       "added_at": "2023-04-12 15:10:42",
@@ -287,8 +287,8 @@
     {
       "added_at": "2023-04-12 15:10:42",
       "album": {
-        "name": "Hold On Tight",
-        "url": "https://open.spotify.com/album/5YfaJdPhaDcckpYgCdUYPl"
+        "name": "Found It With You",
+        "url": "https://open.spotify.com/album/6jqi6Ii1B5N7rODfX2RtlJ"
       },
       "artists": [
         {
@@ -296,17 +296,17 @@
           "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
         },
         {
-          "name": "ASTIR",
-          "url": "https://open.spotify.com/artist/321JqFPEsiuwFpSmKwWi2h"
+          "name": "Ali Bakgor",
+          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
         },
         {
-          "name": "ALSO ASTIR",
-          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
+          "name": "Lewyn",
+          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
         }
       ],
-      "duration_ms": 206384,
-      "name": "Hold On Tight",
-      "url": "https://open.spotify.com/track/03YFjP88VNLZID5o112R3W"
+      "duration_ms": 163410,
+      "name": "Found It With You",
+      "url": "https://open.spotify.com/track/1ShSONF1T74kfTEakluK40"
     },
     {
       "added_at": "2023-04-12 15:10:42",
@@ -399,8 +399,8 @@
     {
       "added_at": "2023-04-12 15:10:42",
       "album": {
-        "name": "Found It With You",
-        "url": "https://open.spotify.com/album/6jqi6Ii1B5N7rODfX2RtlJ"
+        "name": "Hold On Tight",
+        "url": "https://open.spotify.com/album/5YfaJdPhaDcckpYgCdUYPl"
       },
       "artists": [
         {
@@ -408,17 +408,17 @@
           "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
         },
         {
-          "name": "Ali Bakgor",
-          "url": "https://open.spotify.com/artist/4Zdbr0JJj9SXMDJfus1mNs"
+          "name": "ASTIR",
+          "url": "https://open.spotify.com/artist/321JqFPEsiuwFpSmKwWi2h"
         },
         {
-          "name": "Lewyn",
-          "url": "https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR"
+          "name": "ALSO ASTIR",
+          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
         }
       ],
-      "duration_ms": 163410,
-      "name": "Found It With You",
-      "url": "https://open.spotify.com/track/1ShSONF1T74kfTEakluK40"
+      "duration_ms": 206384,
+      "name": "Hold On Tight",
+      "url": "https://open.spotify.com/track/03YFjP88VNLZID5o112R3W"
     },
     {
       "added_at": "2023-04-12 15:10:42",
@@ -583,6 +583,26 @@
     {
       "added_at": "2023-04-12 15:10:42",
       "album": {
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq"
+      },
+      "artists": [
+        {
+          "name": "Junerule",
+          "url": "https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur"
+        },
+        {
+          "name": "AUGUSTKID",
+          "url": "https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG"
+    },
+    {
+      "added_at": "2023-04-12 15:10:42",
+      "album": {
         "name": "Someday (Latroit Edition)",
         "url": "https://open.spotify.com/album/0imxdkIlwChhIIrJALipXW"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 201656,
       "name": "Someday (Latroit Edition)",
       "url": "https://open.spotify.com/track/6oF66hFngUSqA9lHimenPp"
-    },
-    {
-      "added_at": "2023-04-12 15:10:42",
-      "album": {
-        "name": "My Darling",
-        "url": "https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq"
-      },
-      "artists": [
-        {
-          "name": "Junerule",
-          "url": "https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur"
-        },
-        {
-          "name": "AUGUSTKID",
-          "url": "https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG"
     },
     {
       "added_at": "2023-04-12 15:10:42",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-04-12 15:10:42",
       "album": {
-        "name": "Drift",
-        "url": "https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J"
-      },
-      "artists": [
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        }
-      ],
-      "duration_ms": 164516,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
-    },
-    {
-      "added_at": "2023-04-12 15:10:42",
-      "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY"
       },
@@ -691,22 +675,18 @@
     {
       "added_at": "2023-04-12 15:10:42",
       "album": {
-        "name": "Forever, Now",
-        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/56C5BBBjgrQrjUIvyLYI4J"
       },
       "artists": [
         {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
-        },
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
         }
       ],
-      "duration_ms": 274795,
-      "name": "Elenore",
-      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
+      "duration_ms": 164516,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/1nN4hImiv5VUApR5bnqrvS"
     },
     {
       "added_at": "2023-04-12 15:10:42",
@@ -723,6 +703,26 @@
       "duration_ms": 175169,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/0AJFIWIHpC8W2YUvEFNoAS"
+    },
+    {
+      "added_at": "2023-04-12 15:10:42",
+      "album": {
+        "name": "Forever, Now",
+        "url": "https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        }
+      ],
+      "duration_ms": 274795,
+      "name": "Elenore",
+      "url": "https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ"
     },
     {
       "added_at": "2023-04-12 15:10:42",
@@ -771,6 +771,26 @@
     {
       "added_at": "2023-04-12 15:10:42",
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
+      },
+      "artists": [
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        },
+        {
+          "name": "KOLIDESCOPES",
+          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
+        }
+      ],
+      "duration_ms": 197739,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
+    },
+    {
+      "added_at": "2023-04-12 15:10:42",
+      "album": {
         "name": "Free Falling Love",
         "url": "https://open.spotify.com/album/5CJZNKNULqU1e71rCIBpWE"
       },
@@ -791,26 +811,6 @@
       "duration_ms": 155000,
       "name": "Free Falling Love",
       "url": "https://open.spotify.com/track/0srHt7dvF0U5ReVRVS3fz0"
-    },
-    {
-      "added_at": "2023-04-12 15:10:42",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
-      },
-      "artists": [
-        {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        },
-        {
-          "name": "KOLIDESCOPES",
-          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
-        }
-      ],
-      "duration_ms": 197739,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
     },
     {
       "added_at": "2023-04-12 15:10:42",
@@ -959,26 +959,6 @@
     {
       "added_at": "2023-04-12 15:10:42",
       "album": {
-        "name": "Inner Light",
-        "url": "https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z"
-      },
-      "artists": [
-        {
-          "name": "Autograf",
-          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
-        },
-        {
-          "name": "Dan Soleil",
-          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
-        }
-      ],
-      "duration_ms": 208995,
-      "name": "Inner Light",
-      "url": "https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn"
-    },
-    {
-      "added_at": "2023-04-12 15:10:42",
-      "album": {
         "name": "2 Much",
         "url": "https://open.spotify.com/album/2uyBSSOL4xLjy1AKiySCbc"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 138026,
       "name": "2 Much",
       "url": "https://open.spotify.com/track/7twp7m9ZSxWwWyPgimocpH"
+    },
+    {
+      "added_at": "2023-04-12 15:10:42",
+      "album": {
+        "name": "Inner Light",
+        "url": "https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z"
+      },
+      "artists": [
+        {
+          "name": "Autograf",
+          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+        },
+        {
+          "name": "Dan Soleil",
+          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
+        }
+      ],
+      "duration_ms": 208995,
+      "name": "Inner Light",
+      "url": "https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn"
     },
     {
       "added_at": "2023-04-12 15:10:42",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-04-12 15:10:42",
       "album": {
-        "name": "Floating",
-        "url": "https://open.spotify.com/album/5o0A1ckE8IQd9eyQ8LD8CM"
-      },
-      "artists": [
-        {
-          "name": "PL\u00dcM",
-          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/6sgmuupyveCXY52NjOYusN"
-    },
-    {
-      "added_at": "2023-04-12 15:10:42",
-      "album": {
         "name": "Scent of Wood (Bound to Divide Remix)",
         "url": "https://open.spotify.com/album/3F5raVu3wkj29XJ8UKa9o3"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 208548,
       "name": "Scent of Wood (Bound to Divide Remix)",
       "url": "https://open.spotify.com/track/10ziUOuysPmpB3mNtCpNTA"
+    },
+    {
+      "added_at": "2023-04-12 15:10:42",
+      "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/5o0A1ckE8IQd9eyQ8LD8CM"
+      },
+      "artists": [
+        {
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/6sgmuupyveCXY52NjOYusN"
     },
     {
       "added_at": "2023-04-12 15:10:42",
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2023-04-12 15:10:42",
       "album": {
-        "name": "Come Along",
-        "url": "https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY"
-      },
-      "artists": [
-        {
-          "name": "MNI",
-          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
-        },
-        {
-          "name": "Sofia Karlberg",
-          "url": "https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2"
-        }
-      ],
-      "duration_ms": 164304,
-      "name": "Come Along",
-      "url": "https://open.spotify.com/track/43LMm7SOJvocWxLGC4o7vY"
-    },
-    {
-      "added_at": "2023-04-12 15:10:42",
-      "album": {
         "name": "Nightcall",
         "url": "https://open.spotify.com/album/7LlRiB82ntL7v6JU4zqfd2"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 126147,
       "name": "Nightcall",
       "url": "https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy"
+    },
+    {
+      "added_at": "2023-04-12 15:10:42",
+      "album": {
+        "name": "Come Along",
+        "url": "https://open.spotify.com/album/24eGI8ydRbFmsGBh1ZMXnY"
+      },
+      "artists": [
+        {
+          "name": "MNI",
+          "url": "https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma"
+        },
+        {
+          "name": "Sofia Karlberg",
+          "url": "https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2"
+        }
+      ],
+      "duration_ms": 164304,
+      "name": "Come Along",
+      "url": "https://open.spotify.com/track/43LMm7SOJvocWxLGC4o7vY"
     },
     {
       "added_at": "2023-04-12 15:10:42",

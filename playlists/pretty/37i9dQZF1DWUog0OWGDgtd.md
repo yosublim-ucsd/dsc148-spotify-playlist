@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUog0OWGDgtd.md) - [plain]
 
 > Music from "Bungo Stray Dogs"\. 文豪ストレイドッグスの楽曲を1つのプレイリストで。©朝 霧 カフ カ・春 河 35 /ＫＡＤＯＫＡＷＡ /文 豪 ストレイドッ グス 製 作 委 員 会
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,144 likes - 40 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,314 likes - 40 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

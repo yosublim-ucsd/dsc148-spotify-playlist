@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > Dark, hard hitting pop\. Cover: Sam Short
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,746 likes - 72 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,978 likes - 72 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 8 | [PainHub](https://open.spotify.com/track/4GB5cFlNjLMHWUtr0H0nf3) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [PainHub](https://open.spotify.com/album/0SamMMaFRb5EgaQadXP2Yx) | 2:16 |
 | 9 | [Dolls](https://open.spotify.com/track/5lXddHmtOgU4ZXZno3nypA) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:12 |
 | 10 | [blue](https://open.spotify.com/track/78PzKHIuCAv8ve3VLIfCI8) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [blue](https://open.spotify.com/album/64Ezf43dKpmAsCXUPmO6Wr) | 2:48 |
-| 11 | [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:10 |
+| 11 | [VOID](https://open.spotify.com/track/1QvvLc5UihfQ2nOxzhjuek) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [VOID](https://open.spotify.com/album/5Zcbn14eQzkC78jEejObL2) | 4:07 |
 | 12 | [MONSTER](https://open.spotify.com/track/7kci5BIV3lQntWLztgsPdf) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [MONSTER](https://open.spotify.com/album/02C4IPMfqef1jih3U6xrKx) | 2:38 |
 | 13 | [Heart Attack \- Rock Version](https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Heart Attack \(Rock Version\)](https://open.spotify.com/album/2rOWZbcGNXuzelDRabOHI8) | 3:59 |
 | 14 | [Drama King](https://open.spotify.com/track/4dlGGvKNYl5uC9bwUZfrqa) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Drama King](https://open.spotify.com/album/6Do69YHGEiFnvLC70QGXW7) | 2:37 |

@@ -1,12 +1,12 @@
 {
   "description": "Dinner with Friends? Here's the perfect playlist.",
-  "num_followers": 1545979,
+  "num_followers": 1546082,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMDc4ODZmMmE2M2E4MTRjMTIxM2UyNmY2MzE3ZmI3ZDdm",
+  "snapshot_id": "MTY3OTAyNTYwMCwwMDAwMDAwMGE3YjQyMTNkNDJlNDNjNWMwNDY3YWFjZjBiMDNkMjA2",
   "tracks": [
     {
       "added_at": "2023-03-17 04:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Sweet Baby James (2019 Remaster)",
-        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 203613,
-      "name": "Fire and Rain - 2019 Remaster",
-      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Staying at Tamara's",
         "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 211763,
       "name": "Hold My Girl",
       "url": "https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "Sweet Baby James (2019 Remaster)",
+        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 203613,
+      "name": "Fire and Rain - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 290573,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Wasteland, Baby!",
         "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 217480,
       "name": "Almost (Sweet Music)",
       "url": "https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 290573,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "I Can Stand A Little Rain",
-        "url": "https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        }
-      ],
-      "duration_ms": 159640,
-      "name": "You Are So Beautiful",
-      "url": "https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Moon River",
         "url": "https://open.spotify.com/album/0iqqnLXoocsMeCYlTw3Q2q"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 188323,
       "name": "Moon River",
       "url": "https://open.spotify.com/track/41cpvQ2GyGb2BRdIRSsTqK"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "I Can Stand A Little Rain",
+        "url": "https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "duration_ms": 159640,
+      "name": "You Are So Beautiful",
+      "url": "https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 189671,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X"
       },
@@ -1203,18 +1219,22 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/71c88ePh8VRMXLmLdDEGzf"
+        "name": "Ventura",
+        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
       "artists": [
         {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
         }
       ],
-      "duration_ms": 189671,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/6El3mjjzGWOas5meWIETKI"
+      "duration_ms": 219332,
+      "name": "Make It Better (feat. Smokey Robinson)",
+      "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1235,26 +1255,6 @@
       "duration_ms": 213283,
       "name": "Bad For Me (feat. Teddy Swims)",
       "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
-        "name": "Ventura",
-        "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 219332,
-      "name": "Make It Better (feat. Smokey Robinson)",
-      "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
     },
     {
       "added_at": "2023-03-17 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-03-17 04:00:00",
       "album": {
-        "name": "When I Look In Your Eyes",
-        "url": "https://open.spotify.com/album/6NqwpeiAjwYAppRNA7F3yD"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 258959,
-      "name": "Let's Fall In Love",
-      "url": "https://open.spotify.com/track/4IVyX0UJzGyUk0MLiz1jVJ"
-    },
-    {
-      "added_at": "2023-03-17 04:00:00",
-      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/2jJlynVhghoeXJXjfbEXyg"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 235810,
       "name": "Missing You (with Ashe)",
       "url": "https://open.spotify.com/track/7xtsuU7WlDNmTzUQ32oQ7r"
+    },
+    {
+      "added_at": "2023-03-17 04:00:00",
+      "album": {
+        "name": "When I Look In Your Eyes",
+        "url": "https://open.spotify.com/album/6NqwpeiAjwYAppRNA7F3yD"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 258959,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/4IVyX0UJzGyUk0MLiz1jVJ"
     },
     {
       "added_at": "2023-03-17 04:00:00",

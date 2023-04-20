@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Los Bunkers",
-  "num_followers": 200136,
+  "num_followers": 200132,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMGZlZGI3ZjZjZWJjNWE3NDZkZDE1OGJmOWYyODY3MTM1",
+  "snapshot_id": "MTY4MTQ0MTIwMCwwMDAwMDAwMGUzMzQ1ZTNkMGZmYzdmYTJkNjFkMDI4M2JkZjI5NTc3",
   "tracks": [
     {
       "added_at": "2023-04-14 03:00:00",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Caballo sin due\u00f1o",
-        "url": "https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz"
-      },
-      "artists": [
-        {
-          "name": "Pettinellis",
-          "url": "https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD"
-        }
-      ],
-      "duration_ms": 217543,
-      "name": "Caballo sin due\u00f1o",
-      "url": "https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Los Tres Unplugged 20 A\u00f1os",
         "url": "https://open.spotify.com/album/5qwIg1kBzo0HabN4VwaX0P"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 285430,
       "name": "Amor Violento",
       "url": "https://open.spotify.com/track/2QBLfZKOgGhjjhtsAtStHI"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Caballo sin due\u00f1o",
+        "url": "https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz"
+      },
+      "artists": [
+        {
+          "name": "Pettinellis",
+          "url": "https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD"
+        }
+      ],
+      "duration_ms": 217543,
+      "name": "Caballo sin due\u00f1o",
+      "url": "https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Hollywood",
-        "url": "https://open.spotify.com/album/3VzbW4VDd8N5d0UwCMsVZC"
-      },
-      "artists": [
-        {
-          "name": "Cigarbox Man",
-          "url": "https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV"
-        }
-      ],
-      "duration_ms": 215699,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/71qDE7UIjXoFFuMQix4aGE"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Lo Que Dicen",
         "url": "https://open.spotify.com/album/3YtXNycKodGFqhS56qAA0U"
       },
@@ -743,6 +727,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Hollywood",
+        "url": "https://open.spotify.com/album/3VzbW4VDd8N5d0UwCMsVZC"
+      },
+      "artists": [
+        {
+          "name": "Cigarbox Man",
+          "url": "https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV"
+        }
+      ],
+      "duration_ms": 215699,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/71qDE7UIjXoFFuMQix4aGE"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Despertar (Cuando Todo Quema)",
         "url": "https://open.spotify.com/album/5HN0SbzXXWutMumpGzUJAk"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 201496,
       "name": "Despertar (Cuando Todo Quema)",
       "url": "https://open.spotify.com/track/7nSP1Z0q3am5FizKDJTTOX"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Shawarma Love",
+        "url": "https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx"
+      },
+      "artists": [
+        {
+          "name": "Pez Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
+        }
+      ],
+      "duration_ms": 231750,
+      "name": "Shawarma Love",
+      "url": "https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -791,22 +807,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Shawarma Love",
-        "url": "https://open.spotify.com/album/43aSsiOqPkg2R2CCX3ufQx"
-      },
-      "artists": [
-        {
-          "name": "Pez Pl\u00e1tano",
-          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
-        }
-      ],
-      "duration_ms": 231750,
-      "name": "Shawarma Love",
-      "url": "https://open.spotify.com/track/6Vi9Cf1rg1KSM7Vlnp1Wgn"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Autoda\u00f1o",
         "url": "https://open.spotify.com/album/3EdL27rSXJqNKQHtnSU5SR"
       },
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Destino Final",
-        "url": "https://open.spotify.com/album/4tCScaVRF0iuf1EX65clDY"
+        "name": "Santos",
+        "url": "https://open.spotify.com/album/3h8muVhOvlsw6Olfn5XrHG"
       },
       "artists": [
         {
-          "name": "Aut\u00f3ctonos de Ninguna Parte",
-          "url": "https://open.spotify.com/artist/7pqtHCx8vGUbM5sVb45peN"
+          "name": "Kapitol",
+          "url": "https://open.spotify.com/artist/5FuX1pfwNKtfSvimMmLSbt"
         }
       ],
-      "duration_ms": 329875,
-      "name": "Destino Final",
-      "url": "https://open.spotify.com/track/7GMGv2nCPAMmfYzV1wiMLR"
+      "duration_ms": 225478,
+      "name": "Soldados",
+      "url": "https://open.spotify.com/track/3TCj56rGlJRCmX7L8Kgwgk"
     }
   ],
   "unique_name": "Rock Chileno",

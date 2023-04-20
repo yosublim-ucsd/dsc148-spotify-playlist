@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Chicocurlyhead\n",
-  "num_followers": 106101,
+  "num_followers": 106126,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ4NDk1NiwwMDAwMDAwMDk2Y2M1YzBjZDk4NzIxNzcxNzE0MDE5ZjBjNDYzMTBh",
+  "snapshot_id": "MTY3ODQ4NDk1NiwwMDAwMDAwMDgyMTRlMmQ5ZjA2ZjllMDlhMTlhMzI1Yjg1YTU0ZTIx",
   "tracks": [
     {
       "added_at": "2023-03-10 21:49:16",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "ESQUEMAS",
-        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 199280,
-      "name": "DOLORES",
-      "url": "https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "Amor En Espa\u00f1ol",
         "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 187440,
       "name": "Monte Carlo",
       "url": "https://open.spotify.com/track/0vV9YneKNzEEsAxQBFfOzp"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "ESQUEMAS",
+        "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 199280,
+      "name": "DOLORES",
+      "url": "https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Truth Is",
-        "url": "https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 225733,
-      "name": "Truth Is (Spanish Version)",
-      "url": "https://open.spotify.com/track/4DkmvgEtrLZ9vzmDAHFzVZ"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "Pleasure (feat. RINI)",
         "url": "https://open.spotify.com/album/3FeCrMtnuv4FZiSc3EHeEz"
       },
@@ -799,6 +783,22 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
+        "name": "Truth Is",
+        "url": "https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 225733,
+      "name": "Truth Is (Spanish Version)",
+      "url": "https://open.spotify.com/track/4DkmvgEtrLZ9vzmDAHFzVZ"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J"
       },
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3gmQR1HPjoiANMh9j7arKV"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 233743,
-      "name": "Horas y Horas - Spotify Singles",
-      "url": "https://open.spotify.com/track/3NaLccB2WOURQgSa3gWdQF"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "Chimbita",
         "url": "https://open.spotify.com/album/4q0baF6ACF19h9lFRz3Dit"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 165508,
       "name": "Chimbita",
       "url": "https://open.spotify.com/track/1s8LnjztT2IIxezpn0JP7H"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3gmQR1HPjoiANMh9j7arKV"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 233743,
+      "name": "Horas y Horas - Spotify Singles",
+      "url": "https://open.spotify.com/track/3NaLccB2WOURQgSa3gWdQF"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Trebol",
-        "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
-      },
-      "artists": [
-        {
-          "name": "Ben Aler",
-          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
-        }
-      ],
-      "duration_ms": 226393,
-      "name": "Trebol",
-      "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "nostalgia",
         "url": "https://open.spotify.com/album/785qcbDsTlHgsDfjHpcbMv"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 159052,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/3k3bVvFGTnxPDb2dq9jQoD"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "Trebol",
+        "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
+      },
+      "artists": [
+        {
+          "name": "Ben Aler",
+          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
+        }
+      ],
+      "duration_ms": 226393,
+      "name": "Trebol",
+      "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Wild Americanos",
-        "url": "https://open.spotify.com/album/7vkUNL3WH7fg4PwqQlM0fJ"
-      },
-      "artists": [
-        {
-          "name": "COASTCITY",
-          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
-        }
-      ],
-      "duration_ms": 245666,
-      "name": "WILD AMERICANOS",
-      "url": "https://open.spotify.com/track/44cCOL0LvNHqf9StxUvQ5F"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
         "name": "hembrismo",
         "url": "https://open.spotify.com/album/1BI2alnlw8r7uaFFjDGZur"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 230787,
       "name": "diario",
       "url": "https://open.spotify.com/track/5sd1wfUgXN5bBuoAUYaD2c"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "Wild Americanos",
+        "url": "https://open.spotify.com/album/7vkUNL3WH7fg4PwqQlM0fJ"
+      },
+      "artists": [
+        {
+          "name": "COASTCITY",
+          "url": "https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj"
+        }
+      ],
+      "duration_ms": 245666,
+      "name": "WILD AMERICANOS",
+      "url": "https://open.spotify.com/track/44cCOL0LvNHqf9StxUvQ5F"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1355,34 +1355,22 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/4UDWBqFdxvXJfGwRsqxtKj"
+        "name": "Na Pa Ti (feat. Kofi)",
+        "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
       },
       "artists": [
         {
-          "name": "Fernanda",
-          "url": "https://open.spotify.com/artist/4ofHy9bcqR6gBvOBIvCyC0"
-        }
-      ],
-      "duration_ms": 137794,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/0P3E62IdOliXiZ1hJdU0B5"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
-        "name": "DIADREAMER",
-        "url": "https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9"
-      },
-      "artists": [
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        },
         {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
         }
       ],
-      "duration_ms": 150000,
-      "name": "QUIEN ES ESA",
-      "url": "https://open.spotify.com/track/3M2tFhrNdBDEEY3nDrcmNn"
+      "duration_ms": 173098,
+      "name": "Na Pa Ti (feat. Kofi)",
+      "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1403,22 +1391,34 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
-        "name": "Na Pa Ti (feat. Kofi)",
-        "url": "https://open.spotify.com/album/3UefdYQA4lzyOOZ8SHFSyr"
+        "name": "DIADREAMER",
+        "url": "https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9"
       },
       "artists": [
         {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
-        },
-        {
-          "name": "Kofi",
-          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
         }
       ],
-      "duration_ms": 173098,
-      "name": "Na Pa Ti (feat. Kofi)",
-      "url": "https://open.spotify.com/track/0BdFIT81iB6Irf3XjiBUjk"
+      "duration_ms": 150000,
+      "name": "QUIEN ES ESA",
+      "url": "https://open.spotify.com/track/3M2tFhrNdBDEEY3nDrcmNn"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/4UDWBqFdxvXJfGwRsqxtKj"
+      },
+      "artists": [
+        {
+          "name": "Fernanda",
+          "url": "https://open.spotify.com/artist/4ofHy9bcqR6gBvOBIvCyC0"
+        }
+      ],
+      "duration_ms": 137794,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/0P3E62IdOliXiZ1hJdU0B5"
     },
     {
       "added_at": "2023-03-10 21:49:16",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-03-10 21:49:16",
       "album": {
+        "name": "Nela",
+        "url": "https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 163516,
+      "name": "Nela",
+      "url": "https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx"
+    },
+    {
+      "added_at": "2023-03-10 21:49:16",
+      "album": {
         "name": "VAIV\u00c9N",
         "url": "https://open.spotify.com/album/5LLhc1nhCRLQ6EDdxNc0u8"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 218823,
       "name": "VAIV\u00c9N",
       "url": "https://open.spotify.com/track/7lU2NQ7kjK3TiNepbf2upU"
-    },
-    {
-      "added_at": "2023-03-10 21:49:16",
-      "album": {
-        "name": "Nela",
-        "url": "https://open.spotify.com/album/4nf0rIuMZG82HUKYWCzzID"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 163516,
-      "name": "Nela",
-      "url": "https://open.spotify.com/track/1E1TL6lHV2jwnuqRbzSAKx"
     }
   ],
   "unique_name": "Latin R&B",

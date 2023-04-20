@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CgRlkzaOFL.md) - [plain]
 
 > Discover the classical side of anime with these orchestral soundtracks and classical masterpieces\. アニメ作品に登場するクラシック音楽と象徴的なサウンドトラックを1つのプレイリストで。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,185 likes - 56 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,593 likes - 56 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Merry\-Go\-Round of Life \- from 'Howl’s Moving Castle'](https://open.spotify.com/track/1CHswVnHopmeIly3bTSnmF) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Merry\-Go\-Round of Life \(from 'Howl’s Moving Castle'\)](https://open.spotify.com/album/39aX7AHzQvs6m4C8cIpatW) | 2:44 |
+| 1 | [Merry\-Go\-Round of Life](https://open.spotify.com/track/1CHswVnHopmeIly3bTSnmF) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Merry\-Go\-Round of Life \(from 'Howl’s Moving Castle'\)](https://open.spotify.com/album/39aX7AHzQvs6m4C8cIpatW) | 2:44 |
 | 2 | [One Summer Day](https://open.spotify.com/track/3gFQOMoUwlR6aUZj81gCzu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Spirited Away Soundtrack](https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9) | 3:09 |
 | 3 | [La Parfum de Fleurs](https://open.spotify.com/track/5aAWl9sN7rffpfQnND78QO) | [松司馬拓指揮 Ensemble FOVE](https://open.spotify.com/artist/5KafCCJozxvzGwbHdX8TDq) | [Oh! スケトラ!!! ユーリ!!! on ICE/オリジナル・スケートソングCOLLECTION](https://open.spotify.com/album/7fSGa139Q2t6IgAgf1Cx7n) | 2:05 |
 | 4 | [Faces in the Rain](https://open.spotify.com/track/47glEWHDcFq99QJIG41uyF) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [Belle \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp) | 2:22 |

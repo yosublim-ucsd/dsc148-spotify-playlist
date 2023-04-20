@@ -6112,10 +6112,28 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 170865,
       "name": "N",
       "url": "https://open.spotify.com/track/25S5RcQ5NQTlPuaW4HLP5z"
+    },
+    {
+      "album": {
+        "name": "N",
+        "url": "https://open.spotify.com/album/62Uf86QDEeOJR3fsOBF1Xr"
+      },
+      "artists": [
+        {
+          "name": "the engy",
+          "url": "https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170865,
+      "name": "N",
+      "url": "https://open.spotify.com/track/3YoXxt7W9LTefFCUx8wSbS"
     },
     {
       "album": {
@@ -7778,10 +7796,28 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 208133,
       "name": "Season",
       "url": "https://open.spotify.com/track/28H2R5DE6eVKIBBYvGbKRg"
+    },
+    {
+      "album": {
+        "name": "Season",
+        "url": "https://open.spotify.com/album/0oNra3mg2Pon6DWljxx8WR"
+      },
+      "artists": [
+        {
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208133,
+      "name": "Season",
+      "url": "https://open.spotify.com/track/5mIJzqBwYM3SSVuCCCC3gg"
     },
     {
       "album": {
@@ -8794,7 +8830,7 @@
     {
       "album": {
         "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/0duTQZp3avVEjQELyT0vQd"
+        "url": "https://open.spotify.com/album/46wHXcoKdMG9VGPh7ogf1l"
       },
       "artists": [
         {
@@ -8805,6 +8841,24 @@
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 211327,
+      "name": "SUPERNOVA",
+      "url": "https://open.spotify.com/track/1sjPeakADwAfjZHis1svgO"
+    },
+    {
+      "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/0duTQZp3avVEjQELyT0vQd"
+      },
+      "artists": [
+        {
+          "name": "Murakami Keisuke",
+          "url": "https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-20",
       "duration_ms": 211327,
       "name": "SUPERNOVA",
       "url": "https://open.spotify.com/track/5V7YhNvRSazLfEANYU3peX"

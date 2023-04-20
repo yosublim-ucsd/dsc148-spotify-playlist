@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Prismala, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: ELLE MB, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -537,6 +537,24 @@
     },
     {
       "album": {
+        "name": "always",
+        "url": "https://open.spotify.com/album/0MBb9pJQYcJSo2tT1JFGh0"
+      },
+      "artists": [
+        {
+          "name": "sofd",
+          "url": "https://open.spotify.com/artist/0AUT0Zezk0RgjT5dBjsj27"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "always",
+      "url": "https://open.spotify.com/track/7AU2FTmWCZwnVSnhZW47sd"
+    },
+    {
+      "album": {
         "name": "always okay",
         "url": "https://open.spotify.com/album/33Ps1v8rCTYbZJE2vPk2zF"
       },
@@ -890,7 +908,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 179396,
       "name": "bad news",
       "url": "https://open.spotify.com/track/0XDXLhOaVVzlE3VWaZcKie"
@@ -1124,7 +1142,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 146583,
       "name": "Bevor ich hier verschwinde",
       "url": "https://open.spotify.com/track/6FTTDKPoGFzon9i9ugKW9L"
@@ -1236,7 +1254,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 171333,
       "name": "Black Queens",
       "url": "https://open.spotify.com/track/3YqRVv2RFWMQhcza2ZPrtc"
@@ -1946,6 +1964,24 @@
       "duration_ms": 212664,
       "name": "Cheerful Pessimist",
       "url": "https://open.spotify.com/track/1zRjEdR28LqVJDWYVYoTes"
+    },
+    {
+      "album": {
+        "name": "closure",
+        "url": "https://open.spotify.com/album/0UXB8RrbmesJlhmWqiKEqA"
+      },
+      "artists": [
+        {
+          "name": "ELLE MB",
+          "url": "https://open.spotify.com/artist/1fbq8P7ffshPlbpfoN3Xg3"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169131,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/4wfbsHukb95LmqXmcKLUtx"
     },
     {
       "album": {
@@ -4010,7 +4046,7 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 180923,
       "name": "F\u00fcchse",
       "url": "https://open.spotify.com/track/6pYc06ZDKBe10F1q9jVvaM"
@@ -4434,7 +4470,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 195358,
       "name": "Grauer Rauch",
       "url": "https://open.spotify.com/track/6QNvh9lgVqJAOshHB3HA2D"
@@ -5566,7 +5602,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 219000,
       "name": "Im Pelzmantel, Cretin",
       "url": "https://open.spotify.com/track/6aWssJX3FUA6ZKW7DGZclZ"
@@ -6418,6 +6454,24 @@
       "duration_ms": 296216,
       "name": "Leeres Haus",
       "url": "https://open.spotify.com/track/4nsodT0Ifmgjwq2MRidCJv"
+    },
+    {
+      "album": {
+        "name": "Left & Right",
+        "url": "https://open.spotify.com/album/3TXkMBDEaF6M13AT7VqW1I"
+      },
+      "artists": [
+        {
+          "name": "Joy Bogat",
+          "url": "https://open.spotify.com/artist/4W9ZAgvkctnqPK6BftsaQg"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220094,
+      "name": "Left & Right",
+      "url": "https://open.spotify.com/track/1VrLCEf3glqCrwRKp43UIv"
     },
     {
       "album": {
@@ -7413,6 +7467,32 @@
     },
     {
       "album": {
+        "name": "More than I Wanted",
+        "url": "https://open.spotify.com/album/0G5QqSEvuv5Yo16cM67Jpt"
+      },
+      "artists": [
+        {
+          "name": "Dean Terren",
+          "url": "https://open.spotify.com/artist/2t15FMMDuHUq0tNAoSssNa"
+        },
+        {
+          "name": "Dews",
+          "url": "https://open.spotify.com/artist/3LuhxDRuHLizmr5gT6w6Fu"
+        },
+        {
+          "name": "Mich",
+          "url": "https://open.spotify.com/artist/0tQpVd0c1E7VYFCNWgB5YL"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216001,
+      "name": "More than I Wanted",
+      "url": "https://open.spotify.com/track/2gDmDJy9HLmgoDUrhfjHjJ"
+    },
+    {
+      "album": {
         "name": "No Horizon",
         "url": "https://open.spotify.com/album/0Ni3U9SVD5Evy0Q82z8nJ2"
       },
@@ -7608,6 +7688,24 @@
       "duration_ms": 196000,
       "name": "Nach Dir",
       "url": "https://open.spotify.com/track/5fJ23SU4FzhG6ZzgNYDav6"
+    },
+    {
+      "album": {
+        "name": "Many Me",
+        "url": "https://open.spotify.com/album/3fupR9x52WIcjyM9A8pMuU"
+      },
+      "artists": [
+        {
+          "name": "P.Vanillaboy",
+          "url": "https://open.spotify.com/artist/6no5okBU3PLAhvonZbi21z"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196017,
+      "name": "Nachtschicht",
+      "url": "https://open.spotify.com/track/0PwWYVZRThCh8AyVAFPtYc"
     },
     {
       "album": {
@@ -7860,6 +7958,28 @@
       "duration_ms": 179120,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/75rtz3gDvZGfc6ncSK6YXN"
+    },
+    {
+      "album": {
+        "name": "Now Or Never",
+        "url": "https://open.spotify.com/album/4YKUIhAo0WvlE2qKkCvMUh"
+      },
+      "artists": [
+        {
+          "name": "TAM",
+          "url": "https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz"
+        },
+        {
+          "name": "Moglii",
+          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148997,
+      "name": "Now Or Never",
+      "url": "https://open.spotify.com/track/7xcmPlJlJZ4JsGapKjdkCu"
     },
     {
       "album": {
@@ -9450,7 +9570,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 235772,
       "name": "Search Bar",
       "url": "https://open.spotify.com/track/4slphl3JnFqtwwUka4zurt"
@@ -11276,10 +11396,28 @@
       ],
       "date_added": "2023-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 180186,
       "name": "tristesse",
       "url": "https://open.spotify.com/track/1m5CNvawNLaWC5YBWF0sXQ"
+    },
+    {
+      "album": {
+        "name": "Try Out",
+        "url": "https://open.spotify.com/album/01l4Fk4aDmSJRuTnyOlEkg"
+      },
+      "artists": [
+        {
+          "name": "LIA",
+          "url": "https://open.spotify.com/artist/1zojh8PHSNpfe2kMPp2uJC"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168603,
+      "name": "Try Out",
+      "url": "https://open.spotify.com/track/0Q7aSnXPuMBuoJO1CtoOMJ"
     },
     {
       "album": {
@@ -11406,10 +11544,28 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 160074,
       "name": "umgekippt",
       "url": "https://open.spotify.com/track/1LTUDOpkkw5QJ7ozohaAd3"
+    },
+    {
+      "album": {
+        "name": "Schneeweiss 14: Presented by Oliver Koletzki",
+        "url": "https://open.spotify.com/album/58ROoz6HWISF9VQFO0qX15"
+      },
+      "artists": [
+        {
+          "name": "Avis Vox",
+          "url": "https://open.spotify.com/artist/0C7l2N7H3hTYb3ZGRD4BNc"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357514,
+      "name": "Under Water",
+      "url": "https://open.spotify.com/track/3ZEQt1VMyvTTQgkamnFEgy"
     },
     {
       "album": {
@@ -11612,7 +11768,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 159600,
       "name": "Verliebt",
       "url": "https://open.spotify.com/track/3W7cU8Ncut4H5YiwwpXADz"
@@ -12038,6 +12194,24 @@
       "duration_ms": 163500,
       "name": "Where Are We Going",
       "url": "https://open.spotify.com/track/0efaZ3dCcrSjhyvGhxjJIM"
+    },
+    {
+      "album": {
+        "name": "Where Did the Day Go",
+        "url": "https://open.spotify.com/album/2ZKPQlqeCXnfft05lF8IG9"
+      },
+      "artists": [
+        {
+          "name": "Bertolt Meyer",
+          "url": "https://open.spotify.com/artist/6Q1qf7OgYILqbNNSzJFctv"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411042,
+      "name": "Where Did the Day Go",
+      "url": "https://open.spotify.com/track/6KXToRY3JOYDV5WHNnbO4S"
     },
     {
       "album": {
@@ -12644,6 +12818,24 @@
       "duration_ms": 146341,
       "name": "Your Fantasy",
       "url": "https://open.spotify.com/track/73qx7KRXGFdku2uHsilI6D"
+    },
+    {
+      "album": {
+        "name": "Von Tag 1",
+        "url": "https://open.spotify.com/album/12LX0xoCp1I4ZoRxlRBbUt"
+      },
+      "artists": [
+        {
+          "name": "SYM\u00d8N",
+          "url": "https://open.spotify.com/artist/5KV81QQAqR33twjAOIJFyR"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241014,
+      "name": "Zeit",
+      "url": "https://open.spotify.com/track/2gNydDHdLHUjYJCv97nSge"
     },
     {
       "album": {

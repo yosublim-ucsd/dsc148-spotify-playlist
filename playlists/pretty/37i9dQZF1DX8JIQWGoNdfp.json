@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/cheetah/\">Tyreek Hill</a>",
-  "num_followers": 15986,
+  "num_followers": 16090,
   "original_name": "Tyreek Hill's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY3NTQ4MywwMDAwMDAwMGI0ZGI5YjBkODUwM2VmYjhiMTU0YTRmMWRkOWEzMDcy",
+  "snapshot_id": "MTY2NDY3NTQ4MywwMDAwMDAwMGQ5MjEwMGZmOTA0ZmFiM2Y3NjYwODUwNjY0Y2QwY2Yx",
   "tracks": [
     {
       "added_at": "2022-10-02 01:51:23",
@@ -135,22 +135,6 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "H.E.R.",
-        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 160173,
-      "name": "Every Kind Of Way",
-      "url": "https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
         "name": "Kaleidoscope Dream",
         "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 193146,
       "name": "Adorn",
       "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 160173,
+      "name": "Every Kind Of Way",
+      "url": "https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7"
     },
     {
       "added_at": "2022-10-02 01:51:23",

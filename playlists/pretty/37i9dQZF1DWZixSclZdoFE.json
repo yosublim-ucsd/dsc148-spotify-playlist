@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 966345,
+  "num_followers": 967765,
   "original_name": "Energy Booster: Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgyMjkwMCwwMDAwMDAwMGE4NjdlYWI4YjYwMjc5OWJjZDU2NTViNjE0ZTVlNDRj",
+  "snapshot_id": "MTY3NzgyMjkwMCwwMDAwMDAwMGNmMWMxMmZiYjM5MDgwM2RiZWQwNDkyMzE4NTEyOTRk",
   "tracks": [
     {
       "added_at": "2023-03-03 05:55:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "To Pimp A Butterfly",
-        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
         "name": "Championships",
         "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 180522,
       "name": "Going Bad (feat. Drake)",
       "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
+        "name": "To Pimp A Butterfly",
+        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -659,18 +659,22 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+        "name": "BLAME IT ON BABY",
+        "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 185946,
-      "name": "DNA.",
-      "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
+      "duration_ms": 181733,
+      "name": "ROCKSTAR (feat. Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -691,22 +695,18 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "BLAME IT ON BABY",
-        "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e"
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 181733,
-      "name": "ROCKSTAR (feat. Roddy Ricch)",
-      "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
+      "duration_ms": 185946,
+      "name": "DNA.",
+      "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
     },
     {
       "added_at": "2023-02-01 16:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "Paper Trail",
-        "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
-      },
-      "artists": [
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 249533,
-      "name": "Whatever You Like",
-      "url": "https://open.spotify.com/track/1IAzD1muglOxOcPbUHs70R"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
         "name": "Ramen & OJ",
         "url": "https://open.spotify.com/album/48ahZJLcagb8VTgRAuv6WQ"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 218447,
       "name": "Ramen & OJ",
       "url": "https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
+        "name": "Paper Trail",
+        "url": "https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 249533,
+      "name": "Whatever You Like",
+      "url": "https://open.spotify.com/track/1IAzD1muglOxOcPbUHs70R"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -1839,18 +1839,22 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "Ball If I Want To",
-        "url": "https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu"
+        "name": "Taste (feat. Offset)",
+        "url": "https://open.spotify.com/album/0yd01cU78rnlFXq6vRxPSR"
       },
       "artists": [
         {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 112546,
-      "name": "Ball If I Want To",
-      "url": "https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3"
+      "duration_ms": 232959,
+      "name": "Taste (feat. Offset)",
+      "url": "https://open.spotify.com/track/5IaHrVsrferBYDm0bDyABy"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -1871,22 +1875,18 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "Taste (feat. Offset)",
-        "url": "https://open.spotify.com/album/0yd01cU78rnlFXq6vRxPSR"
+        "name": "Ball If I Want To",
+        "url": "https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu"
       },
       "artists": [
         {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 232959,
-      "name": "Taste (feat. Offset)",
-      "url": "https://open.spotify.com/track/5IaHrVsrferBYDm0bDyABy"
+      "duration_ms": 112546,
+      "name": "Ball If I Want To",
+      "url": "https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
+        "name": "Hell: The Sequel (Deluxe)",
+        "url": "https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P"
+      },
+      "artists": [
+        {
+          "name": "Bad Meets Evil",
+          "url": "https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is"
+        }
+      ],
+      "duration_ms": 249560,
+      "name": "Fast Lane",
+      "url": "https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
         "name": "Culture II",
         "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
       },
@@ -1983,22 +1999,6 @@
       "duration_ms": 303076,
       "name": "MotorSport",
       "url": "https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
-        "name": "Hell: The Sequel (Deluxe)",
-        "url": "https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P"
-      },
-      "artists": [
-        {
-          "name": "Bad Meets Evil",
-          "url": "https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is"
-        }
-      ],
-      "duration_ms": 249560,
-      "name": "Fast Lane",
-      "url": "https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -2159,6 +2159,22 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 251720,
+      "name": "Business",
+      "url": "https://open.spotify.com/track/0x60P5taxdI5pcGbqbap6S"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
         "name": "Lasers",
         "url": "https://open.spotify.com/album/1j0apvEvaWbTmlZpKsfr2D"
       },
@@ -2191,38 +2207,6 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "Right On",
-        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 213975,
-      "name": "Right On",
-      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
-        "name": "The Eminem Show",
-        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 251720,
-      "name": "Business",
-      "url": "https://open.spotify.com/track/0x60P5taxdI5pcGbqbap6S"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
         "name": "ADHD",
         "url": "https://open.spotify.com/album/5qkWpkGMULLVnSHb3Sej4X"
       },
@@ -2243,6 +2227,22 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
+        "name": "Right On",
+        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 213975,
+      "name": "Right On",
+      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
         "name": "Under Construction",
         "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
       },
@@ -2255,42 +2255,6 @@
       "duration_ms": 263226,
       "name": "Work It",
       "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
-        "name": "ICY",
-        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 126446,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
-        "name": "BETTER THAN YOU",
-        "url": "https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 111970,
-      "name": "Bestie",
-      "url": "https://open.spotify.com/track/6r9xnueU24r4eoG3HXC87E"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -2323,18 +2287,38 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "Astronomical",
-        "url": "https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge"
+        "name": "BETTER THAN YOU",
+        "url": "https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3"
       },
       "artists": [
         {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 132780,
-      "name": "Astronaut In The Ocean",
-      "url": "https://open.spotify.com/track/6E90gq0KO6FYZVOXx8kCcC"
+      "duration_ms": 111970,
+      "name": "Bestie",
+      "url": "https://open.spotify.com/track/6r9xnueU24r4eoG3HXC87E"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
+        "name": "ICY",
+        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 126446,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -2367,6 +2351,22 @@
       "duration_ms": 179133,
       "name": "VALENTINO",
       "url": "https://open.spotify.com/track/6piAUJJQFD8oHDUr0b7l7q"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
+        "name": "Astronomical",
+        "url": "https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        }
+      ],
+      "duration_ms": 132780,
+      "name": "Astronaut In The Ocean",
+      "url": "https://open.spotify.com/track/6E90gq0KO6FYZVOXx8kCcC"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -2483,6 +2483,26 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
+        "name": "FATHER OF 4",
+        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 205803,
+      "name": "Clout (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd"
+    },
+    {
+      "added_at": "2022-12-19 11:54:28",
+      "album": {
         "name": "Trip At Knight (Complete Edition)",
         "url": "https://open.spotify.com/album/4sS5IjHR0YOJQdSTQ8whWz"
       },
@@ -2503,26 +2523,6 @@
       "duration_ms": 247714,
       "name": "Rich MF (feat. Polo G & Lil Durk)",
       "url": "https://open.spotify.com/track/6cUHiQEECDl5m3WFGQ1GCR"
-    },
-    {
-      "added_at": "2022-12-19 11:54:28",
-      "album": {
-        "name": "FATHER OF 4",
-        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 205803,
-      "name": "Clout (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/59ywHNwwchG4nZJMLyxSzd"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -2719,22 +2719,22 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "The Recession",
-        "url": "https://open.spotify.com/album/0U54jjqJhihezshU9t9cuO"
+        "name": "Rumors (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM"
       },
       "artists": [
         {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         },
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 321293,
-      "name": "Put On",
-      "url": "https://open.spotify.com/track/5dANgSy7v091dhiPnEXNrf"
+      "duration_ms": 185855,
+      "name": "Rumors (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM"
     },
     {
       "added_at": "2022-12-19 11:54:28",
@@ -2755,22 +2755,22 @@
     {
       "added_at": "2022-12-19 11:54:28",
       "album": {
-        "name": "Rumors (feat. Lil Durk)",
-        "url": "https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM"
+        "name": "The Recession",
+        "url": "https://open.spotify.com/album/0U54jjqJhihezshU9t9cuO"
       },
       "artists": [
         {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
         },
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 185855,
-      "name": "Rumors (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/0P2P1AxcRYhiZvoF5MyRmM"
+      "duration_ms": 321293,
+      "name": "Put On",
+      "url": "https://open.spotify.com/track/5dANgSy7v091dhiPnEXNrf"
     },
     {
       "added_at": "2022-12-19 11:54:28",

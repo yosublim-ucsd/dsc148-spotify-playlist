@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "511",
+        "url": "https://open.spotify.com/album/10vvdzSUQmL6hYsoPDhG3X"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148321,
+      "name": "AL BORDE",
+      "url": "https://open.spotify.com/track/3eOkhJYDaTELGhWHBNbf4A"
+    },
+    {
+      "album": {
         "name": "Almanaque",
         "url": "https://open.spotify.com/album/3ZAKehawQdF1HlKRFJVZ8l"
       },

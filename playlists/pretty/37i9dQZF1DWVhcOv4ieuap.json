@@ -1,12 +1,12 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1013217,
+  "num_followers": 1013424,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI0MDMzMSwwMDAwMDAwMDczNDExODA0ZmQ2YjgwOWM4ZTEyNDhlMzNkZjQ0MmYw",
+  "snapshot_id": "MTY4MDI0MDMzMSwwMDAwMDAwMDMzYmM5MTFkZmU0MjQ5NDc1NjAxODRmOTBjOTg5M2Nm",
   "tracks": [
     {
       "added_at": "2023-03-31 05:25:31",
@@ -267,22 +267,18 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "Twelve Carat Toothache",
-        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+        "name": "No Se Va (En Vivo)",
+        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 192840,
-      "name": "I Like You (A Happier Song) (with Doja Cat)",
-      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
+      "duration_ms": 194019,
+      "name": "No Se Va - En Vivo",
+      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -303,18 +299,22 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "No Se Va (En Vivo)",
-        "url": "https://open.spotify.com/album/5jgCL0iatyi00rPPXjmYS3"
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 194019,
-      "name": "No Se Va - En Vivo",
-      "url": "https://open.spotify.com/track/23Lyy7ZXRvzfgH4JtDkKrX"
+      "duration_ms": 192840,
+      "name": "I Like You (A Happier Song) (with Doja Cat)",
+      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
         "name": "Yonaguni",
         "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
       },
@@ -443,22 +459,6 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
         "name": "Hounds Of Love",
         "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
       },
@@ -491,26 +491,6 @@
       "duration_ms": 246000,
       "name": "Hasta Que Dios Diga",
       "url": "https://open.spotify.com/track/06s3QtMJVXw1AJX3UfvZG1"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
-        "name": "CAIRO",
-        "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "CAIRO",
-      "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -567,22 +547,6 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 173947,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk"
       },
@@ -603,18 +567,38 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 173947,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
+        "name": "CAIRO",
+        "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
       },
       "artists": [
         {
           "name": "KAROL G",
           "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 167786,
-      "name": "TUS GAFITAS",
-      "url": "https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon"
+      "duration_ms": 201280,
+      "name": "CAIRO",
+      "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -691,6 +675,38 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Despu\u00e9s de la Playa",
+      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 167786,
+      "name": "TUS GAFITAS",
+      "url": "https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
         "name": "ULALA (OOH LA LA)",
         "url": "https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 188009,
       "name": "ULALA (OOH LA LA)",
       "url": "https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Despu\u00e9s de la Playa",
-      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
         "name": "Celebration (double disc version)",
         "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 240280,
       "name": "Material Girl",
       "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -1203,22 +1203,22 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "CHAO BEBE",
-        "url": "https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5"
+        "name": "Pareja Del A\u00f1o",
+        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
       "artists": [
         {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 206499,
-      "name": "CHAO BEBE",
-      "url": "https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ"
+      "duration_ms": 195053,
+      "name": "Pareja Del A\u00f1o",
+      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -1239,22 +1239,22 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "Pareja Del A\u00f1o",
-        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
+        "name": "CHAO BEBE",
+        "url": "https://open.spotify.com/album/7C2TalJn5YLPTuY7tA0ok5"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 195053,
-      "name": "Pareja Del A\u00f1o",
-      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
+      "duration_ms": 206499,
+      "name": "CHAO BEBE",
+      "url": "https://open.spotify.com/track/2caVKAWz7oM5Hw3LDWWVnQ"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -1383,30 +1383,6 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY"
-      },
-      "artists": [
-        {
-          "name": "The Rudeboyz",
-          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Adam Levine",
-          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
-        }
-      ],
-      "duration_ms": 189080,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk"
-    },
-    {
-      "added_at": "2023-03-31 05:25:31",
-      "album": {
         "name": "Potion (with Dua Lipa & Young Thug)",
         "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
       },
@@ -1463,6 +1439,30 @@
       "duration_ms": 142500,
       "name": "Mujeriego",
       "url": "https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1"
+    },
+    {
+      "added_at": "2023-03-31 05:25:31",
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY"
+      },
+      "artists": [
+        {
+          "name": "The Rudeboyz",
+          "url": "https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Adam Levine",
+          "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
+        }
+      ],
+      "duration_ms": 189080,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -1583,22 +1583,18 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "Bar",
-        "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
         }
       ],
-      "duration_ms": 160212,
-      "name": "Bar",
-      "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2023-03-31 05:25:31",
@@ -1619,18 +1615,22 @@
     {
       "added_at": "2023-03-31 05:25:31",
       "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+        "name": "Bar",
+        "url": "https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
         }
       ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
+      "duration_ms": 160212,
+      "name": "Bar",
+      "url": "https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC"
     },
     {
       "added_at": "2023-03-31 05:25:31",

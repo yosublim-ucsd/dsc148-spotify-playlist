@@ -1,12 +1,12 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e.",
-  "num_followers": 250545,
+  "num_followers": 250658,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTUyMDEyNywwMDAwMDAwMDc0NGJjZWQzOWRlYmUzOWUyNWIzMjkzM2QyNDMwMWUw",
+  "snapshot_id": "MTY4MTUyMDEyNywwMDAwMDAwMGNmYTNmMGU5NzEwYmZiODU5NWU3YzFhNDkwMzUwZDFi",
   "tracks": [
     {
       "added_at": "2023-04-14 03:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "traitor",
+      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 172235,
       "name": "Te Felicito",
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "traitor",
-      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -739,58 +723,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 242013,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Easy On Me",
-        "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 224694,
-      "name": "Easy On Me",
-      "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 198081,
-      "name": "Peaches (feat. Daniel Caesar & Giveon)",
-      "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -815,6 +759,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Easy On Me",
+        "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 224694,
+      "name": "Easy On Me",
+      "url": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "lo que hay x aqu\u00ed",
         "url": "https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm"
       },
@@ -827,6 +787,46 @@
       "duration_ms": 155031,
       "name": "lo que hay x aqu\u00ed",
       "url": "https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 198081,
+      "name": "Peaches (feat. Daniel Caesar & Giveon)",
+      "url": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -879,22 +879,6 @@
       "duration_ms": 269666,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "deja vu",
-      "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -959,6 +943,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "deja vu",
+      "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
         "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
       },
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Los \u00c1ngeles",
+        "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 158483,
+      "name": "Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Los \u00c1ngeles",
-        "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 158483,
-      "name": "Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 152666,
-      "name": "favorite crime",
-      "url": "https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8"
+      "duration_ms": 163854,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1087,22 +1087,6 @@
       "duration_ms": 197476,
       "name": "Por el Resto de Tu Vida",
       "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 163854,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1139,6 +1123,22 @@
       "duration_ms": 137704,
       "name": "MONTERO (Call Me By Your Name)",
       "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 152666,
+      "name": "favorite crime",
+      "url": "https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Pilantra",
-        "url": "https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 192708,
-      "name": "Pilantra",
-      "url": "https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 188106,
       "name": "LA FAMA",
       "url": "https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Pilantra",
+        "url": "https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 192708,
+      "name": "Pilantra",
+      "url": "https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Jagger.mp3",
+        "url": "https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 155861,
+      "name": "Jagger.mp3",
+      "url": "https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Tacones Rojos",
         "url": "https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S"
       },
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Jagger.mp3",
-        "url": "https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 155861,
-      "name": "Jagger.mp3",
-      "url": "https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "La Triple T",
         "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
       },
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
-        "name": "Junio",
-        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 168601,
-      "name": "Junio",
-      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
         "name": "CHARLIE",
         "url": "https://open.spotify.com/album/2LTqBgZUH4EkDcj8hdkNjK"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 144933,
       "name": "That's Hilarious",
       "url": "https://open.spotify.com/track/0wPKDeY4fZXT6k9bzV0kx0"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
+        "name": "Junio",
+        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 168601,
+      "name": "Junio",
+      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
     },
     {
       "added_at": "2023-04-14 03:00:00",
@@ -1687,6 +1687,26 @@
     {
       "added_at": "2023-04-14 03:00:00",
       "album": {
+        "name": "Dije Que No Me Iba a Enamorar",
+        "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 206146,
+      "name": "El Bolero",
+      "url": "https://open.spotify.com/track/7FwSZyO5ynlN0OJGVOjE6k"
+    },
+    {
+      "added_at": "2023-04-14 03:00:00",
+      "album": {
         "name": "Una Vaina Loca",
         "url": "https://open.spotify.com/album/1I92y0NxYT4cUYSQePekyM"
       },
@@ -1707,26 +1727,6 @@
       "duration_ms": 226187,
       "name": "Una Vaina Loca",
       "url": "https://open.spotify.com/track/2qEoAz0i6yEz5dPggABcLH"
-    },
-    {
-      "added_at": "2023-04-14 03:00:00",
-      "album": {
-        "name": "Dije Que No Me Iba a Enamorar",
-        "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 206146,
-      "name": "El Bolero",
-      "url": "https://open.spotify.com/track/7FwSZyO5ynlN0OJGVOjE6k"
     },
     {
       "added_at": "2023-04-14 03:00:00",

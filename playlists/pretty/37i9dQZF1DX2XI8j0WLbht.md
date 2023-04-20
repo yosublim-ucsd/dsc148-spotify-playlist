@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XI8j0WLbht.md) - [plain]
 
 > Color, humor y narrativas contemporáneas que recorren toda Latinoamérica\. Silvana Estrada en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,511 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,552 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

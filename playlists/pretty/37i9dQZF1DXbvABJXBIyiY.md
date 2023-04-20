@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 
 > Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,864 likes - 60 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,873 likes - 60 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 36 | [Keep Going](https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 6:39 |
 | 37 | [The Only Thing Worth Fighting For \- From The HBO Series True Detective](https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [The Only Thing Worth Fighting For \(From The HBO Series True Detective\)](https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob) | 3:16 |
 | 38 | [Seeing Other People](https://open.spotify.com/track/6P82NfCXl3lLcUNSYEmq1u) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Without People](https://open.spotify.com/album/51tp0W2tRU0IfrNpemM9ra) | 3:06 |
-| 39 | [Morning Theft](https://open.spotify.com/track/0WlRW4CG9ccUi96tP7GAwL) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Sketches for My Sweetheart The Drunk \(Expanded Edition\)](https://open.spotify.com/album/5HDvIlBDfoHiugEXmYULng) | 3:39 |
-| 40 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 |
+| 39 | [By Night](https://open.spotify.com/track/2HiVLVR0RrcjQagWwuiwob) | [Puzzle Muteson](https://open.spotify.com/artist/3PkGkJmTotXKubtTksWboK) | [Theatrics](https://open.spotify.com/album/51EBcEd7bGD96iR6yXtYRC) | 3:38 |
+| 40 | [Morning Theft](https://open.spotify.com/track/0WlRW4CG9ccUi96tP7GAwL) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Sketches for My Sweetheart The Drunk \(Expanded Edition\)](https://open.spotify.com/album/5HDvIlBDfoHiugEXmYULng) | 3:39 |
 | 41 | [Donoughmore](https://open.spotify.com/track/3hcMGfmZBzpR9l1tkk5Iy2) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi) | 3:15 |
 | 42 | [Kyoto \- Spotify Singles](https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:30 |
 | 43 | [The Lily](https://open.spotify.com/track/6clgEkDsjM0QGLRPH7GAwx) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [The Wind Rose EP](https://open.spotify.com/album/282IyhL4hVih0WwLOwrvtl) | 4:14 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 55 | [Ricochet](https://open.spotify.com/track/6If4a7ytTXliui3vJVi9px) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Ricochet](https://open.spotify.com/album/3OaA2qwULCg9W9QTvMv1iy) | 3:20 |
 | 56 | [Old Friend](https://open.spotify.com/track/3pvTrpsqbBF3OduTOPOkii) | [Sea Wolf](https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x) | [Old World Romance](https://open.spotify.com/album/35PDjoZa0FrKAmDo1coCyo) | 3:57 |
 | 57 | [Dark Child \- Single Edit](https://open.spotify.com/track/0vmVWuvmYuhVNV7t0B6fSc) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Dark Child](https://open.spotify.com/album/5nYlhb6IIM0mrPp1PO6eaN) | 3:57 |
-| 58 | [Howl](https://open.spotify.com/track/68i6MdF0uPSiUAOqY7r0fr) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Howl](https://open.spotify.com/album/1yPy6Kn7SESPYYS80oPDpj) | 3:03 |
-| 59 | [Mexico](https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Dead & Born & Grown](https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9) | 4:06 |
+| 58 | [Mexico](https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Dead & Born & Grown](https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9) | 4:06 |
+| 59 | [Howl](https://open.spotify.com/track/68i6MdF0uPSiUAOqY7r0fr) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Howl](https://open.spotify.com/album/1yPy6Kn7SESPYYS80oPDpj) | 3:03 |
 | 60 | [Bare](https://open.spotify.com/track/0hEUr7PprXg3ia1nl5kEaQ) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:54 |
 
-Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMDg2MDRiM2E4YjBlYTAwODM4MTkyNDU1NjFjMDFjNjlk`
+Snapshot ID: `MTY4MDg0MDAwMCwwMDAwMDAwMGVhY2RkMWRkMmI2ZmExZWY2OWE1NzM2OTZmNTFkNzNm`

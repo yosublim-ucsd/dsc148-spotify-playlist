@@ -1,12 +1,12 @@
 {
   "description": "make the whole place shimmer \u2728",
-  "num_followers": 121842,
+  "num_followers": 122153,
   "original_name": "neon cowgirl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY4NjMzNSwwMDAwMDAwMDE1NWJkMmU2MGFmZDNkNjAzYTU1YzJjZjE2OTNlZjBl",
+  "snapshot_id": "MTY3OTY4NjMzNSwwMDAwMDAwMDRhOGM4OGMzMjIxNTc1M2U2ZDg1YWEwNmZiY2Y4MjYw",
   "tracks": [
     {
       "added_at": "2023-03-24 19:32:15",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-03-24 19:32:15",
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+        "name": "Four The Record",
+        "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 218866,
-      "name": "That Don't Impress Me Much",
-      "url": "https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu"
+      "duration_ms": 177773,
+      "name": "Mama's Broken Heart",
+      "url": "https://open.spotify.com/track/2mXsZsJBThTaJXbNcg5QD4"
     },
     {
       "added_at": "2023-03-24 19:32:15",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-03-24 19:32:15",
       "album": {
-        "name": "Four The Record",
-        "url": "https://open.spotify.com/album/1Pv6Znx8kGygusP4fqBD7m"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 177773,
-      "name": "Mama's Broken Heart",
-      "url": "https://open.spotify.com/track/2mXsZsJBThTaJXbNcg5QD4"
-    },
-    {
-      "added_at": "2023-03-24 19:32:15",
-      "album": {
         "name": "Tuesday Night Music Club",
         "url": "https://open.spotify.com/album/7dC6axVAeBDpRMmNtRbpwU"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 272106,
       "name": "All I Wanna Do",
       "url": "https://open.spotify.com/track/3ZpQiJ78LKINrW9SQTgbXd"
+    },
+    {
+      "added_at": "2023-03-24 19:32:15",
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 218866,
+      "name": "That Don't Impress Me Much",
+      "url": "https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu"
     },
     {
       "added_at": "2023-03-24 19:32:15",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-03-24 19:32:15",
       "album": {
-        "name": "Giddy Up!",
-        "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 162665,
-      "name": "Giddy Up!",
-      "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
-    },
-    {
-      "added_at": "2023-03-24 19:32:15",
-      "album": {
         "name": "Start Walkin' 1965-1976",
         "url": "https://open.spotify.com/album/1J3CtRxcG9Tkuw2xQ59NEk"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 166133,
       "name": "These Boots Are Made for Walkin'",
       "url": "https://open.spotify.com/track/2HEgBBls7l0smWTxPx0MtZ"
+    },
+    {
+      "added_at": "2023-03-24 19:32:15",
+      "album": {
+        "name": "Giddy Up!",
+        "url": "https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 162665,
+      "name": "Giddy Up!",
+      "url": "https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W"
     },
     {
       "added_at": "2023-03-24 19:32:15",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-03-24 19:32:15",
       "album": {
-        "name": "Stand Still, Look Pretty (U.S. Version)",
-        "url": "https://open.spotify.com/album/0KxzAA13yiDK4rchYytEhe"
-      },
-      "artists": [
-        {
-          "name": "The Wreckers",
-          "url": "https://open.spotify.com/artist/2jI32eTOcSx2bn1MGgRyei"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Leave the Pieces",
-      "url": "https://open.spotify.com/track/1VnQfAPIHwFImjfO9gnyUt"
-    },
-    {
-      "added_at": "2023-03-24 19:32:15",
-      "album": {
         "name": "Thankful",
         "url": "https://open.spotify.com/album/5ErgI599IvfYniy0UWVGBN"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 214786,
       "name": "Miss Independent",
       "url": "https://open.spotify.com/track/2CZi8d774dBB0wiuWMIpr8"
+    },
+    {
+      "added_at": "2023-03-24 19:32:15",
+      "album": {
+        "name": "Stand Still, Look Pretty (U.S. Version)",
+        "url": "https://open.spotify.com/album/0KxzAA13yiDK4rchYytEhe"
+      },
+      "artists": [
+        {
+          "name": "The Wreckers",
+          "url": "https://open.spotify.com/artist/2jI32eTOcSx2bn1MGgRyei"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Leave the Pieces",
+      "url": "https://open.spotify.com/track/1VnQfAPIHwFImjfO9gnyUt"
     },
     {
       "added_at": "2023-03-24 19:32:15",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-03-24 19:32:15",
       "album": {
-        "name": "Off The Deep End",
-        "url": "https://open.spotify.com/album/6rVNBebVL2RgYkWrath59f"
-      },
-      "artists": [
-        {
-          "name": "Priscilla Block",
-          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
-        }
-      ],
-      "duration_ms": 196499,
-      "name": "Off The Deep End",
-      "url": "https://open.spotify.com/track/1w6LAczpJiuGAQSaVP99ek"
-    },
-    {
-      "added_at": "2023-03-24 19:32:15",
-      "album": {
         "name": "Crazy Ex-Girlfriend",
         "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 245333,
       "name": "Famous In a Small Town",
       "url": "https://open.spotify.com/track/4oXOOBwZsHFnRRNBNXrr9X"
+    },
+    {
+      "added_at": "2023-03-24 19:32:15",
+      "album": {
+        "name": "Off The Deep End",
+        "url": "https://open.spotify.com/album/6rVNBebVL2RgYkWrath59f"
+      },
+      "artists": [
+        {
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
+        }
+      ],
+      "duration_ms": 196499,
+      "name": "Off The Deep End",
+      "url": "https://open.spotify.com/track/1w6LAczpJiuGAQSaVP99ek"
     },
     {
       "added_at": "2023-03-24 19:32:15",
@@ -1519,22 +1519,6 @@
       "duration_ms": 385413,
       "name": "Daddy Lessons (feat. The Chicks)",
       "url": "https://open.spotify.com/track/7tTElNyvXsfFcxDXIiH5cm"
-    },
-    {
-      "added_at": "2023-03-24 19:32:15",
-      "album": {
-        "name": "SUBJECT TO CHANGE",
-        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 201966,
-      "name": "I CAN'T HELP MYSELF",
-      "url": "https://open.spotify.com/track/5NZviEn3DnOa2ZYqP5gIl2"
     },
     {
       "added_at": "2023-03-24 19:32:15",
@@ -1567,18 +1551,18 @@
     {
       "added_at": "2023-03-24 19:32:15",
       "album": {
-        "name": "It Didn't",
-        "url": "https://open.spotify.com/album/1w7fYtjzCp5c04VqpQclVd"
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
       },
       "artists": [
         {
-          "name": "Madeline Merlo",
-          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 178597,
-      "name": "It Didn't",
-      "url": "https://open.spotify.com/track/6ITA2Sf9ksBL8uCDPBaRcM"
+      "duration_ms": 201966,
+      "name": "I CAN'T HELP MYSELF",
+      "url": "https://open.spotify.com/track/5NZviEn3DnOa2ZYqP5gIl2"
     },
     {
       "added_at": "2023-03-24 19:32:15",
@@ -1611,6 +1595,22 @@
       "duration_ms": 188386,
       "name": "Blowin' Smoke",
       "url": "https://open.spotify.com/track/4oqD7zXh23uvf583rDkunI"
+    },
+    {
+      "added_at": "2023-03-24 19:32:15",
+      "album": {
+        "name": "It Didn't",
+        "url": "https://open.spotify.com/album/1w7fYtjzCp5c04VqpQclVd"
+      },
+      "artists": [
+        {
+          "name": "Madeline Merlo",
+          "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        }
+      ],
+      "duration_ms": 178597,
+      "name": "It Didn't",
+      "url": "https://open.spotify.com/track/6ITA2Sf9ksBL8uCDPBaRcM"
     },
     {
       "added_at": "2023-03-24 19:32:15",

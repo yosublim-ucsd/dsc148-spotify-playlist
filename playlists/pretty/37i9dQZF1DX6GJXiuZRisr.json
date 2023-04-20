@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1470472,
+  "num_followers": 1470869,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDg3NjA2MCwwMDAwMDAwMGE4MDBiNDc2YWM5Yjk0OGMwMzBkYzU4M2NjMjczOWIw",
+  "snapshot_id": "MTY4MDg3NjA2MCwwMDAwMDAwMGJmM2VmZTAyMGE3OTZjZjk2MDVlZTY0Mjk0ZGQ2MmE1",
   "tracks": [
     {
       "added_at": "2023-03-31 04:01:00",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza"
+        "name": "Forget It",
+        "url": "https://open.spotify.com/album/2DJVlpI8RAelMusdKi3ieH"
       },
       "artists": [
         {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
         }
       ],
-      "duration_ms": 194160,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI"
+      "duration_ms": 173694,
+      "name": "Forget It",
+      "url": "https://open.spotify.com/track/7nbuGxQ7TfJXb9OgH3xJEr"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Forget It",
-        "url": "https://open.spotify.com/album/2DJVlpI8RAelMusdKi3ieH"
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza"
       },
       "artists": [
         {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
         }
       ],
-      "duration_ms": 173694,
-      "name": "Forget It",
-      "url": "https://open.spotify.com/track/7nbuGxQ7TfJXb9OgH3xJEr"
+      "duration_ms": 194160,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -435,26 +435,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/0w9o19xIAioxJ94ikjpB7j"
+        "name": "Echoes Of Life: Night",
+        "url": "https://open.spotify.com/album/3XARakl3JkVizUCWSFG0wY"
       },
       "artists": [
         {
-          "name": "Autograf",
-          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
-        },
-        {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
-        },
-        {
-          "name": "Burko",
-          "url": "https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
         }
       ],
-      "duration_ms": 189102,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/5rWcCmqVjQpmmhbOpZ65aN"
+      "duration_ms": 215250,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/7Ib1fj8HnRmi9WRBpDK6ie"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -487,18 +479,26 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Echoes Of Life: Night",
-        "url": "https://open.spotify.com/album/3XARakl3JkVizUCWSFG0wY"
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/0w9o19xIAioxJ94ikjpB7j"
       },
       "artists": [
         {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+          "name": "Autograf",
+          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        },
+        {
+          "name": "Burko",
+          "url": "https://open.spotify.com/artist/7emuTCeEe2djrY4K1fcKAZ"
         }
       ],
-      "duration_ms": 215250,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/7Ib1fj8HnRmi9WRBpDK6ie"
+      "duration_ms": 189102,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/5rWcCmqVjQpmmhbOpZ65aN"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -645,7 +645,7 @@
       "url": "https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ"
     },
     {
-      "added_at": "2023-04-19 00:29:51",
+      "added_at": "2023-04-20 00:28:13",
       "album": {
         "name": "Made Of Gold",
         "url": "https://open.spotify.com/album/0awdtPEuXKHw6mJDrvxjR7"
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Hide and Seek (Le Youth Remix)",
-        "url": "https://open.spotify.com/album/0scTzt9c9pgTQJM5jPthaO"
-      },
-      "artists": [
-        {
-          "name": "Catie Turner",
-          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
-        },
-        {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        }
-      ],
-      "duration_ms": 231288,
-      "name": "Hide and Seek - Le Youth Remix",
-      "url": "https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "Fibonacci",
         "url": "https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY"
       },
@@ -1083,6 +1063,26 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
+        "name": "Hide and Seek (Le Youth Remix)",
+        "url": "https://open.spotify.com/album/0scTzt9c9pgTQJM5jPthaO"
+      },
+      "artists": [
+        {
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+        },
+        {
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        }
+      ],
+      "duration_ms": 231288,
+      "name": "Hide and Seek - Le Youth Remix",
+      "url": "https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
         "name": "Hear Me Out",
         "url": "https://open.spotify.com/album/7pQOGTptMRIC2DI3pZTz3F"
       },
@@ -1099,6 +1099,30 @@
       "duration_ms": 279555,
       "name": "Hear Me Out",
       "url": "https://open.spotify.com/track/2zpIU1OroZ3mUzrnYqoLBa"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/5PAmbnJ63zag2pdfYAj9mD"
+      },
+      "artists": [
+        {
+          "name": "Ytram",
+          "url": "https://open.spotify.com/artist/5qTx6amAEpOiXxb6KQjquZ"
+        },
+        {
+          "name": "Citadelle",
+          "url": "https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "duration_ms": 168319,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3IaDHisoQv2Iri6wj57jkZ"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1139,30 +1163,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/5PAmbnJ63zag2pdfYAj9mD"
-      },
-      "artists": [
-        {
-          "name": "Ytram",
-          "url": "https://open.spotify.com/artist/5qTx6amAEpOiXxb6KQjquZ"
-        },
-        {
-          "name": "Citadelle",
-          "url": "https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8"
-        },
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        }
-      ],
-      "duration_ms": 168319,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/3IaDHisoQv2Iri6wj57jkZ"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "To The Ground",
         "url": "https://open.spotify.com/album/5bundjYGYf7t6mn2ERjpoL"
       },
@@ -1175,22 +1175,6 @@
       "duration_ms": 233440,
       "name": "To The Ground",
       "url": "https://open.spotify.com/track/2InrK5IWeTPIVRZQPOEDIO"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Reminiscing",
-        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 258536,
-      "name": "Reminiscing",
-      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1211,26 +1195,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Offshore",
-        "url": "https://open.spotify.com/album/0myVJOaR23M72HCt1EynC6"
+        "name": "Reminiscing",
+        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
-        },
-        {
-          "name": "Chicane",
-          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 199680,
-      "name": "Offshore",
-      "url": "https://open.spotify.com/track/6yf6FF8BxqLqEr87RFY96m"
+      "duration_ms": 258536,
+      "name": "Reminiscing",
+      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1275,6 +1251,30 @@
       "duration_ms": 403902,
       "name": "Dreamers",
       "url": "https://open.spotify.com/track/0iANTai9oZfdFzmrGnMQ3Y"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Offshore",
+        "url": "https://open.spotify.com/album/0myVJOaR23M72HCt1EynC6"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        },
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Offshore",
+      "url": "https://open.spotify.com/track/6yf6FF8BxqLqEr87RFY96m"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "If Love Is A Skill & Georgia",
-        "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 230500,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/7LMjCMznpWK1TGrV1ryWRp"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "Little Darling (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU"
       },
@@ -1399,22 +1383,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Show Me A Sign",
-        "url": "https://open.spotify.com/album/2YhDLveyepgvgfnV8BBMOL"
+        "name": "If Love Is A Skill & Georgia",
+        "url": "https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1"
       },
       "artists": [
         {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
         }
       ],
-      "duration_ms": 223283,
-      "name": "Show Me A Sign (with MKLA)",
-      "url": "https://open.spotify.com/track/49yvk8qS9L7I5aDeIMSutb"
+      "duration_ms": 230500,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/7LMjCMznpWK1TGrV1ryWRp"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1431,6 +1411,26 @@
       "duration_ms": 278400,
       "name": "Elamy",
       "url": "https://open.spotify.com/track/6jdaBz780wecXanS9elu68"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Show Me A Sign",
+        "url": "https://open.spotify.com/album/2YhDLveyepgvgfnV8BBMOL"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        }
+      ],
+      "duration_ms": 223283,
+      "name": "Show Me A Sign (with MKLA)",
+      "url": "https://open.spotify.com/track/49yvk8qS9L7I5aDeIMSutb"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1615,18 +1615,22 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Kensh\u014d",
-        "url": "https://open.spotify.com/album/4gmTE6DRT8TfSxk3Ai9WOn"
+        "name": "Rush (Miss Monique Remix)",
+        "url": "https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6"
       },
       "artists": [
         {
-          "name": "Fatum",
-          "url": "https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C"
+          "name": "Sied Van Riel",
+          "url": "https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF"
+        },
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         }
       ],
-      "duration_ms": 220161,
-      "name": "Kensh\u014d",
-      "url": "https://open.spotify.com/track/6B6jWtgW9ZCocu0alFox1m"
+      "duration_ms": 291840,
+      "name": "Rush - Miss Monique Remix",
+      "url": "https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1647,22 +1651,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Rush (Miss Monique Remix)",
-        "url": "https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6"
+        "name": "Kensh\u014d",
+        "url": "https://open.spotify.com/album/4gmTE6DRT8TfSxk3Ai9WOn"
       },
       "artists": [
         {
-          "name": "Sied Van Riel",
-          "url": "https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF"
-        },
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+          "name": "Fatum",
+          "url": "https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C"
         }
       ],
-      "duration_ms": 291840,
-      "name": "Rush - Miss Monique Remix",
-      "url": "https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb"
+      "duration_ms": 220161,
+      "name": "Kensh\u014d",
+      "url": "https://open.spotify.com/track/6B6jWtgW9ZCocu0alFox1m"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Angel Dust",
-        "url": "https://open.spotify.com/album/26RgtRfY7tfyCOM88PrLAr"
-      },
-      "artists": [
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        }
-      ],
-      "duration_ms": 243984,
-      "name": "Angel Dust",
-      "url": "https://open.spotify.com/track/7yEDXWnJtWkHnVsclNuklc"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
         "name": "Golden (feat. Blondfire)",
         "url": "https://open.spotify.com/album/3lUeNPdccSYi4LK4pLvBiv"
       },
@@ -1759,34 +1743,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Born Digital",
-        "url": "https://open.spotify.com/album/2j3cS6gipRVSWiLKzcKHyz"
+        "name": "Angel Dust",
+        "url": "https://open.spotify.com/album/26RgtRfY7tfyCOM88PrLAr"
       },
       "artists": [
         {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
         }
       ],
-      "duration_ms": 201120,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/6tDzxYw5unq4XtGxxD1Nvz"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Am I Dreaming?",
-        "url": "https://open.spotify.com/album/6vwrLU9l7FV09bFgEzARS2"
-      },
-      "artists": [
-        {
-          "name": "Kasablanca",
-          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
-        }
-      ],
-      "duration_ms": 212636,
-      "name": "Am I Dreaming?",
-      "url": "https://open.spotify.com/track/3IIkauBOBcbGP2Oipz94Hn"
+      "duration_ms": 243984,
+      "name": "Angel Dust",
+      "url": "https://open.spotify.com/track/7yEDXWnJtWkHnVsclNuklc"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1811,18 +1779,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "First Contact",
-        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
+        "name": "Am I Dreaming?",
+        "url": "https://open.spotify.com/album/6vwrLU9l7FV09bFgEzARS2"
       },
       "artists": [
         {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
         }
       ],
-      "duration_ms": 311280,
-      "name": "False Reactions",
-      "url": "https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq"
+      "duration_ms": 212636,
+      "name": "Am I Dreaming?",
+      "url": "https://open.spotify.com/track/3IIkauBOBcbGP2Oipz94Hn"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1847,6 +1815,22 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
+        "name": "First Contact",
+        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        }
+      ],
+      "duration_ms": 311280,
+      "name": "False Reactions",
+      "url": "https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
         "name": "Flame",
         "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
       },
@@ -1859,26 +1843,6 @@
       "duration_ms": 326929,
       "name": "Flame - Edit",
       "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
-    },
-    {
-      "added_at": "2023-03-31 04:01:00",
-      "album": {
-        "name": "Neon Jungle Remixes",
-        "url": "https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2"
-      },
-      "artists": [
-        {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-        },
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 249919,
-      "name": "Neon Jungle - Lane 8 Remix",
-      "url": "https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1923,6 +1887,26 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
+        "name": "Neon Jungle Remixes",
+        "url": "https://open.spotify.com/album/2DFDsmaWVdYxxkxGaPi2i2"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        },
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 249919,
+      "name": "Neon Jungle - Lane 8 Remix",
+      "url": "https://open.spotify.com/track/4G3qY8rJC9C4BjKpzwsZN3"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
         "name": "Close My Eyes",
         "url": "https://open.spotify.com/album/3NPt95B03k5zZptWmquiJu"
       },
@@ -1963,26 +1947,18 @@
     {
       "added_at": "2023-03-31 04:01:00",
       "album": {
-        "name": "Tied to You",
-        "url": "https://open.spotify.com/album/30GL93GCC6ycBWmsG8w01t"
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4xOxUwV8tnuXPRbUeBqhhR"
       },
       "artists": [
         {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        },
-        {
-          "name": "L\u00f6Kii",
-          "url": "https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf"
-        },
-        {
-          "name": "Project 46",
-          "url": "https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ"
+          "name": "Giorgio Gee",
+          "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
         }
       ],
-      "duration_ms": 220952,
-      "name": "Tied to You",
-      "url": "https://open.spotify.com/track/3ztXhsmAArhAJAf6eGnu0v"
+      "duration_ms": 160000,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/75D58tUiQZRS4XXWcKNJOk"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -2007,6 +1983,30 @@
       "duration_ms": 228875,
       "name": "My Armour",
       "url": "https://open.spotify.com/track/0dcF0b9gjuGV3aCzjq5h6h"
+    },
+    {
+      "added_at": "2023-03-31 04:01:00",
+      "album": {
+        "name": "Tied to You",
+        "url": "https://open.spotify.com/album/30GL93GCC6ycBWmsG8w01t"
+      },
+      "artists": [
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        },
+        {
+          "name": "L\u00f6Kii",
+          "url": "https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf"
+        },
+        {
+          "name": "Project 46",
+          "url": "https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ"
+        }
+      ],
+      "duration_ms": 220952,
+      "name": "Tied to You",
+      "url": "https://open.spotify.com/track/3ztXhsmAArhAJAf6eGnu0v"
     }
   ],
   "unique_name": "Night Rider",

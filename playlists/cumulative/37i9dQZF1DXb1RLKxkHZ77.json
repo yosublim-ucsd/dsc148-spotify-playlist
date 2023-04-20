@@ -131,6 +131,36 @@
     },
     {
       "album": {
+        "name": "Ayuh (From Polis Evo 3 Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0E8108nmNwGBFPu3w1FHd9"
+      },
+      "artists": [
+        {
+          "name": "Malique",
+          "url": "https://open.spotify.com/artist/4ZsSCvTFG2Krx3AyQ6vHzk"
+        },
+        {
+          "name": "Ernie Zakri",
+          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
+        },
+        {
+          "name": "Aman RA",
+          "url": "https://open.spotify.com/artist/7iNkzIKfY3iDyyFxlbPT9U"
+        },
+        {
+          "name": "Kmy Kmo",
+          "url": "https://open.spotify.com/artist/43ZXvAH7c6jRsqNIRWft4P"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238426,
+      "name": "Ayuh - From Polis Evo 3 Original Soundtrack",
+      "url": "https://open.spotify.com/track/5It5ikDacxfwZXLSKsMEvS"
+    },
+    {
+      "album": {
         "name": "Bagaimana (Pano)",
         "url": "https://open.spotify.com/album/1LCDXgEwtK83RCzDa96GaW"
       },
@@ -280,7 +310,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 159190,
       "name": "Benar",
       "url": "https://open.spotify.com/track/5XRffsZ6c9u2I2yWRZBBx1"
@@ -990,7 +1020,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-20",
       "duration_ms": 226062,
       "name": "Hadiahkan Duka Kepadamu",
       "url": "https://open.spotify.com/track/3RCiaZsVcRqjx4VyDUSPmp"
@@ -3340,6 +3370,24 @@
       "duration_ms": 161229,
       "name": "Sudi",
       "url": "https://open.spotify.com/track/3LkywtbZCk2EI2FfWb6dRj"
+    },
+    {
+      "album": {
+        "name": "SUNYI",
+        "url": "https://open.spotify.com/album/4I7hYrZztzVYwj9dNBYYXX"
+      },
+      "artists": [
+        {
+          "name": "Joe Flizzow",
+          "url": "https://open.spotify.com/artist/28JPqJh7jsUuxus33Kfwe7"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232457,
+      "name": "SUNYI",
+      "url": "https://open.spotify.com/track/1UBbda9fmOcaOCkWgKK7bz"
     },
     {
       "album": {

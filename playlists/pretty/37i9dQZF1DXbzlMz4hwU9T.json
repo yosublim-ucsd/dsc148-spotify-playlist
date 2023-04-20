@@ -1,12 +1,12 @@
 {
   "description": "Ser\u00e9 la gata bajo la lluvia... \ud83d\ude3f",
-  "num_followers": 45123,
+  "num_followers": 45273,
   "original_name": "viendo llover desde la ventana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQwNzQzNiwwMDAwMDAwMGEyZWMxNWE2M2UwMzMyZTgxMjI0ZTQ2YmM1N2ZhZWUz",
+  "snapshot_id": "MTY4MTk1MjIyNywwMDAwMDAwMDRkNTM1YTM0ZDBiNDAzMDE0NGU2YjBlY2EyMmFkYmY3",
   "tracks": [
     {
       "added_at": "2023-02-24 17:37:22",
@@ -153,6 +153,22 @@
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
     },
     {
+      "added_at": "2023-04-20 00:57:07",
+      "album": {
+        "name": "Quien Tengo Que Ser",
+        "url": "https://open.spotify.com/album/61wj1csMUzGbtqqHFZRre8"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 267640,
+      "name": "Quien Tengo Que Ser",
+      "url": "https://open.spotify.com/track/6wL2yRom12q8ZhPDPnKB0t"
+    },
+    {
       "added_at": "2023-02-24 17:37:22",
       "album": {
         "name": "we fell in love in october / October Passed Me By",
@@ -231,22 +247,6 @@
       "duration_ms": 266200,
       "name": "1979 - Remastered 2012",
       "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
-    },
-    {
-      "added_at": "2023-04-13 17:37:16",
-      "album": {
-        "name": "Perra Soledad",
-        "url": "https://open.spotify.com/album/3doJ5jjjid4alv36j9yssG"
-      },
-      "artists": [
-        {
-          "name": "Vicente J\u00e1uregui",
-          "url": "https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9"
-        }
-      ],
-      "duration_ms": 210163,
-      "name": "Perra Soledad",
-      "url": "https://open.spotify.com/track/6wYF5EU5fLmemMGDGaIaVF"
     },
     {
       "added_at": "2023-02-24 17:37:22",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
+        "name": "Hasta el Fin Del Mundo",
+        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 235470,
+      "name": "Colapso",
+      "url": "https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
         "name": "Dije Que No Me Iba a Enamorar",
         "url": "https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 206146,
       "name": "El Bolero",
       "url": "https://open.spotify.com/track/7FwSZyO5ynlN0OJGVOjE6k"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
-        "name": "Hasta el Fin Del Mundo",
-        "url": "https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 235470,
-      "name": "Colapso",
-      "url": "https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9"
     },
     {
       "added_at": "2023-02-24 17:37:22",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
-        "name": "The La's",
-        "url": "https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW"
-      },
-      "artists": [
-        {
-          "name": "The La's",
-          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
-        }
-      ],
-      "duration_ms": 162160,
-      "name": "There She Goes",
-      "url": "https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 274391,
       "name": "B-Side",
       "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
+        "name": "The La's",
+        "url": "https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW"
+      },
+      "artists": [
+        {
+          "name": "The La's",
+          "url": "https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT"
+        }
+      ],
+      "duration_ms": 162160,
+      "name": "There She Goes",
+      "url": "https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0"
     },
     {
       "added_at": "2023-02-24 17:37:22",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 277674,
-      "name": "Ganas - Spotify Singles",
-      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
         "name": "MAM\u00c1",
         "url": "https://open.spotify.com/album/5rjblafbv954vxZYqnNvhR"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 175895,
       "name": "MAM\u00c1",
       "url": "https://open.spotify.com/track/34yQeTktePdLm0b95RffPw"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 277674,
+      "name": "Ganas - Spotify Singles",
+      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
     },
     {
       "added_at": "2023-02-24 17:37:22",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
+        "name": "Destellos",
+        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "\u00c1frika",
+      "url": "https://open.spotify.com/track/5cY6iwmzNfroYMCuLOlJio"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
         "name": "Kil\u00f3metros",
         "url": "https://open.spotify.com/album/4yitWO4wI8bRLSSIZ74E0L"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 212229,
       "name": "Kil\u00f3metros",
       "url": "https://open.spotify.com/track/6fAToGuBw5lPlWvzdzGyYx"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
-        "name": "Destellos",
-        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "\u00c1frika",
-      "url": "https://open.spotify.com/track/5cY6iwmzNfroYMCuLOlJio"
     },
     {
       "added_at": "2023-02-24 17:37:22",

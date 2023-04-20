@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSWiBVaJn3j.md) - [plain]
 
 > 60s rock to fuel your ride\. Cover: Jimi Hendrix
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,632 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,914 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSWiBVaJn3j.md) - [plain]
 | 11 | [Green Onions](https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU) | 2:56 |
 | 12 | [Gimme Shelter](https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:30 |
 | 13 | [Down On The Corner](https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:46 |
-| 14 | [Good Times Bad Times \- 1993 Remaster](https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 2:46 |
-| 15 | [Purple Haze](https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:50 |
+| 14 | [Purple Haze](https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:50 |
+| 15 | [Good Times Bad Times \- 1993 Remaster](https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 2:46 |
 | 16 | [White Room](https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 4:58 |
 | 17 | [Somebody to Love](https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL) | [Jefferson Airplane](https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF) | [Surrealistic Pillow](https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a) | 2:54 |
 | 18 | [Magic Carpet Ride](https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [The Second](https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSWiBVaJn3j.md) - [plain]
 | 49 | [I Had Too Much to Dream \(Last Night\)](https://open.spotify.com/track/5YgCmkSdGukXqK3fJlX4pQ) | [The Electric Prunes](https://open.spotify.com/artist/1kkpNi8Ii5MhBMxmUhN5g9) | [I Had Too Much To Dream \(Last Night\)](https://open.spotify.com/album/1k3ldWSHD1BwUVHGiFMhyw) | 2:59 |
 | 50 | [Evil Ways](https://open.spotify.com/track/4JFG8RLpi8m0xhjYmstb38) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana](https://open.spotify.com/album/0hfFLQzo3OwgYFFFvTQYhT) | 3:57 |
 
-Snapshot ID: `MTYzODk4MjE4NCwwMDAwMDAwMGM4MTc4NGQ5ZDJhZTc1MTRkOGZiOWJiM2Y4NDAxZTUw`
+Snapshot ID: `MTYzODk4MjE4NCwwMDAwMDAwMDBiOGNhYWY3ZTQxMTc2NTFjNWMzNTIxNWRkZDA3MTE4`

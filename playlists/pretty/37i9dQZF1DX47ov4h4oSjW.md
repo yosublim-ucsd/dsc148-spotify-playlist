@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 
 > Music to help you concentrate during your homework.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,189 likes - 100 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,187 likes - 100 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 31 | [20:17](https://open.spotify.com/track/7vbCfkJf89i4s745KbELgr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Trance Frendz](https://open.spotify.com/album/5yulSZK48ArdLPXWur0qik) | 5:54 |
 | 32 | [Her Eyes the Stars](https://open.spotify.com/track/3UR1smBMBt2bckrJfBSgyV) | [LUCHS](https://open.spotify.com/artist/5YNgVaI5vgMjBLel7QShBe), [Patrik Berg Almkvisth](https://open.spotify.com/artist/0K5Ns1UkBlmyx8clOiEUbo) | [Her Eyes the Stars](https://open.spotify.com/album/2DQBbKWhK5Vbd55LgImyRg) | 2:10 |
 | 33 | [Ambre](https://open.spotify.com/track/25zykbJGBYXYjnq5VyhO3N) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Wintermusik](https://open.spotify.com/album/7wkQV8xvauPFBG2xC3pawK) | 3:47 |
-| 34 | [Seascape](https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [Seascape](https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY) | 2:05 |
-| 35 | [Small Memory](https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF) | 1:40 |
-| 36 | [For Stormboy](https://open.spotify.com/track/1gLbbnyTOnx6LrCQ87c0gp) | [Rhiannon Bannenberg](https://open.spotify.com/artist/5gXJLUsp1nn6OPYnXczUHy) | [Ambrosia \(Official Soundtrack\)](https://open.spotify.com/album/0I5YQc4ZWo2sraMUEHgjcU) | 1:36 |
+| 34 | [For Stormboy](https://open.spotify.com/track/1gLbbnyTOnx6LrCQ87c0gp) | [Rhiannon Bannenberg](https://open.spotify.com/artist/5gXJLUsp1nn6OPYnXczUHy) | [Ambrosia \(Official Soundtrack\)](https://open.spotify.com/album/0I5YQc4ZWo2sraMUEHgjcU) | 1:36 |
+| 35 | [Seascape](https://open.spotify.com/track/55CV2zAzc0R9M31IRTm2vA) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [Seascape](https://open.spotify.com/album/1dnQVRgmoyYxwxRWPf9aBY) | 2:05 |
+| 36 | [Small Memory](https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF) | 1:40 |
 | 37 | [Home full of solipsism](https://open.spotify.com/track/0i5RkqFU2XfihIcxTxG3h1) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Home full of solipsism](https://open.spotify.com/album/6lO17gFILD6VAk71WT29dA) | 2:57 |
 | 38 | [Nos](https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [The Wind](https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj) | 1:21 |
-| 39 | [Soffia la notte](https://open.spotify.com/track/3BfKUxdpnG24qXFYX2e5XU) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [Viaggi in aeromobile](https://open.spotify.com/album/7gPDBvn3SRgtSmVFjqe6xI) | 3:24 |
-| 40 | [Remembrance](https://open.spotify.com/track/43z2LSP0180NFwr720P3xk) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Remembrance](https://open.spotify.com/album/7J0DCHHTGozed1GpKmge8J) | 2:26 |
-| 41 | [Snow Kiss](https://open.spotify.com/track/2WCeRZDVyagKARVqAxr7QW) | [Freya Rääf](https://open.spotify.com/artist/160moq3FVNizaDKVSK4Pmj) | [Snow Kiss](https://open.spotify.com/album/0z2kjuU6HASKwJoOMCYw1T) | 1:56 |
-| 42 | [Midwayer](https://open.spotify.com/track/6gLsyO69WqFXUYJK5mCaOt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Solipsism](https://open.spotify.com/album/2BGvT97OGSAivOsOb5PzMa) | 5:45 |
+| 39 | [Remembrance](https://open.spotify.com/track/43z2LSP0180NFwr720P3xk) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Remembrance](https://open.spotify.com/album/7J0DCHHTGozed1GpKmge8J) | 2:26 |
+| 40 | [Soffia la notte](https://open.spotify.com/track/3BfKUxdpnG24qXFYX2e5XU) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [Viaggi in aeromobile](https://open.spotify.com/album/7gPDBvn3SRgtSmVFjqe6xI) | 3:24 |
+| 41 | [Midwayer](https://open.spotify.com/track/6gLsyO69WqFXUYJK5mCaOt) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Solipsism](https://open.spotify.com/album/2BGvT97OGSAivOsOb5PzMa) | 5:45 |
+| 42 | [Snow Kiss](https://open.spotify.com/track/2WCeRZDVyagKARVqAxr7QW) | [Freya Rääf](https://open.spotify.com/artist/160moq3FVNizaDKVSK4Pmj) | [Snow Kiss](https://open.spotify.com/album/0z2kjuU6HASKwJoOMCYw1T) | 1:56 |
 | 43 | [Plum Coulee](https://open.spotify.com/track/3xfiHpIjVN3pN9wfD6BYMD) | [Michael Janzen](https://open.spotify.com/artist/2Vx2Zfx7Gxu6A6xbwbbtFg) | [Plum Coulee](https://open.spotify.com/album/4sfvTd6E3B6Ta0843XB9WT) | 2:53 |
 | 44 | [Mystique](https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Mystique](https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL) | 2:30 |
 | 45 | [Time is the Longest Distance](https://open.spotify.com/track/1vViUoB7DpXUX10isPj7YL) | [Danielle Fleur](https://open.spotify.com/artist/4SlWk9stVDNIL6l4BK2MlI) | [Time is the Longest Distance](https://open.spotify.com/album/7c9zTWwG3gmkYRqWomwQ6Q) | 2:04 |
@@ -74,19 +74,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 64 | [Amore](https://open.spotify.com/track/5IeHIsegjkCOEHUrbs8hrF) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [/05](https://open.spotify.com/album/1s8Esd8UoFFMGV6e8DCDix) | 5:09 |
 | 65 | [Exhibitions](https://open.spotify.com/track/5YyuiRIA1yDtS6ojdUvnUB) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Pour Vous](https://open.spotify.com/album/3w7nVmkMcpe9Vqo4BtG5nD) | 3:31 |
 | 66 | [Dolce](https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Dolce](https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv) | 2:23 |
-| 67 | [Kardelen](https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Kardelen](https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8) | 2:47 |
-| 68 | [Endless Summer](https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [Endless Summer](https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ) | 2:45 |
+| 67 | [Endless Summer](https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [Endless Summer](https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ) | 2:45 |
+| 68 | [Kardelen](https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Kardelen](https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8) | 2:47 |
 | 69 | [Heartbeat](https://open.spotify.com/track/5gYcfdwdwQ7eowE3ycuXaW) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [Heartbeat](https://open.spotify.com/album/23F1BckCyP3XYDPo7JQtZL) | 2:17 |
 | 70 | [Petrichor](https://open.spotify.com/track/27M7FdIBhufCksw0tQ1Vb9) | [Omri Grummet](https://open.spotify.com/artist/19LcF5dYN49CCl17FM7QYr) | [Petrichor](https://open.spotify.com/album/5e8gpa4yASJx8yTPZh51bz) | 2:27 |
 | 71 | [Branches étoilées](https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Branches étoilées](https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj) | 2:46 |
 | 72 | [Mosel Reflections \(Solo Piano Version\)](https://open.spotify.com/track/0iSA3uRjsCPvL43BO22xDt) | [Nikolas Belalis](https://open.spotify.com/artist/1TQOscEuZTmlsbkGPqkI4M) | [Mosel Reflections \(Solo Piano Version\)](https://open.spotify.com/album/53NCQhNYxx6IPEMaFG38hi) | 1:38 |
 | 73 | [Visionaire](https://open.spotify.com/track/3XmRYyDspHCnlXkvHAYVLL) | [Anna Goya](https://open.spotify.com/artist/3T6VP5tdYDJR2H9sc62fMW) | [Visionaire](https://open.spotify.com/album/3kAsZxO4D7aYpaJbcGyfQa) | 1:43 |
-| 74 | [Slowdance](https://open.spotify.com/track/1Qeltj3aBElDiFuaBtav77) | [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm), [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G) | [Slowdance](https://open.spotify.com/album/72A4G4HmEmKGjet1K8slI8) | 2:02 |
-| 75 | [Always](https://open.spotify.com/track/4cmE5SPvjKEzIHzhrLq9jO) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Always](https://open.spotify.com/album/53GIKoxcqDkU8yZgA3o9FO) | 3:17 |
+| 74 | [Always](https://open.spotify.com/track/4cmE5SPvjKEzIHzhrLq9jO) | [Olivier DeGrasse](https://open.spotify.com/artist/13mckNVoWSaXe2LubZG4Sb) | [Always](https://open.spotify.com/album/53GIKoxcqDkU8yZgA3o9FO) | 3:17 |
+| 75 | [Slowdance](https://open.spotify.com/track/1Qeltj3aBElDiFuaBtav77) | [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm), [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G) | [Slowdance](https://open.spotify.com/album/72A4G4HmEmKGjet1K8slI8) | 2:02 |
 | 76 | [Lizards play](https://open.spotify.com/track/251Nfh1hvBFIUvZHt562NS) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Lizards play](https://open.spotify.com/album/5lPrbJLWMohcRtbX1SDn5p) | 2:26 |
 | 77 | [Hideaway](https://open.spotify.com/track/3y4t41pbQBDpmD60HdCMRN) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [Hideaway](https://open.spotify.com/album/2Ng37Ew03H9E7Q01Oao765) | 2:39 |
-| 78 | [Paragon](https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6) | [Anton Lebedev](https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug) | [Paragon](https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe) | 2:40 |
-| 79 | [Tuesday Rain](https://open.spotify.com/track/1UQ81ra1A4myZmEoihQnPJ) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Tuesday Rain](https://open.spotify.com/album/6fEGTTswJiXhRc7iIavTeF) | 1:48 |
+| 78 | [Tuesday Rain](https://open.spotify.com/track/1UQ81ra1A4myZmEoihQnPJ) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Tuesday Rain](https://open.spotify.com/album/6fEGTTswJiXhRc7iIavTeF) | 1:48 |
+| 79 | [Paragon](https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6) | [Anton Lebedev](https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug) | [Paragon](https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe) | 2:40 |
 | 80 | [Compromise](https://open.spotify.com/track/7kymECxyr5OUG87vGN1vB2) | [Chris Snelling](https://open.spotify.com/artist/25ZHGX152rBqWlYA9C2iVp) | [Compromise](https://open.spotify.com/album/7r0yb6MxfuZ463XY9Qrvvo) | 2:31 |
 | 81 | [Trail of Light](https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:18 |
 | 82 | [A Letter Home](https://open.spotify.com/track/5CG4KWy5qqSnv62DmMjTrH) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [A Letter Home](https://open.spotify.com/album/2Qb9ubcV8RtJoyaNGcE4nV) | 2:19 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 96 | [Petals](https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1) | [Floriscope](https://open.spotify.com/artist/0G4MXHhzyHUB9XexNNg2Sw) | [Petals](https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L) | 2:37 |
 | 97 | [Lonely Leslie](https://open.spotify.com/track/1Y9CNCm8icZUaMtQV29NpC) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Lonely Leslie](https://open.spotify.com/album/1AWQaoW4Zdiubdcb0H7BAg) | 2:39 |
 | 98 | [Story of You](https://open.spotify.com/track/3eAN6u0NIx1YkkDNppNQC8) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Dreamland](https://open.spotify.com/album/4jb1RWCUm2HlhSNumh5bcm) | 3:36 |
-| 99 | [Carousel \#3](https://open.spotify.com/track/5a3frR7WKCWyLROlGbDg46) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [The Houseboat and the Moon](https://open.spotify.com/album/5w0YGqmvczvncmbxKhjqFK) | 4:23 |
-| 100 | [Beyond This Moment](https://open.spotify.com/track/54QFGiOthVqXeJtiXdlLYa) | [Patrick O'Hearn](https://open.spotify.com/artist/6T7JFvP8qvpOia4q43OmbJ) | [So Flows The Current](https://open.spotify.com/album/2G7NJdUQxp6vAO0arTebvj) | 4:49 |
+| 99 | [Ready Set Love](https://open.spotify.com/track/09lvJaGmgV91BqZVKAcaG2) | [Piotr Miteska](https://open.spotify.com/artist/76vFPXp4WOuiv8ppkBcd4c) | [Ready Set Love](https://open.spotify.com/album/739UKKT2LRs2Rj3Jidup25) | 1:29 |
+| 100 | [Carousel \#3](https://open.spotify.com/track/5a3frR7WKCWyLROlGbDg46) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [The Houseboat and the Moon](https://open.spotify.com/album/5w0YGqmvczvncmbxKhjqFK) | 4:23 |
 
-Snapshot ID: `MTY3ODYxNjMxOCwwMDAwMDAwMDA1ZjE1N2ZkMzc3MjRhMGE5NzNlZGJiZGZiODkyYzE2`
+Snapshot ID: `MTY3ODYxNjMxOCwwMDAwMDAwMDQ0YTMzNGI5YTJkYzIwYzU4NDE4MjE1OTc4ZDJlNTEz`

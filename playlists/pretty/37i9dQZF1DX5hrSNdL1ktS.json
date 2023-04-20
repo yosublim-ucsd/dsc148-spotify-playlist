@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Yng Lvcas y Peso Pluma en portada.",
-  "num_followers": 56348,
+  "num_followers": 56380,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMGFmYTc4ZThlYWZhOThjMGUwZmVmZWZhM2NjN2JkNGE2",
+  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDIwMzhkMDhmNzY0ZjJlZGQ4MzJmMmIzZjk1NGJkMDY2",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -313,7 +313,7 @@
       "artists": [
         {
           "name": "Los Reyes del Norte",
-          "url": "https://open.spotify.com/artist/1Xjm7jpjGWmZ2i6XSJpE7V"
+          "url": "https://open.spotify.com/artist/5XZZmaQkH0J3IFGNTYf7LA"
         },
         {
           "name": "Nash",
@@ -349,42 +349,6 @@
       "url": "https://open.spotify.com/track/74LXuYE8UubyCvLIrslqG5"
     },
     {
-      "added_at": "2023-01-27 18:00:00",
-      "album": {
-        "name": "Como T\u00fa",
-        "url": "https://open.spotify.com/album/1uGYD7JyIY9FwNc0pFCB4b"
-      },
-      "artists": [
-        {
-          "name": "Jd Pantoja",
-          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
-        }
-      ],
-      "duration_ms": 179013,
-      "name": "Como T\u00fa",
-      "url": "https://open.spotify.com/track/6yWpPKvt3aJ22i2cpB2QTG"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "NO TE VAYAS",
-        "url": "https://open.spotify.com/album/5gnzsCQT85f958D8YdLAg4"
-      },
-      "artists": [
-        {
-          "name": "Santa Anna",
-          "url": "https://open.spotify.com/artist/79XgYTBTsIyKqgxHyLpPSH"
-        },
-        {
-          "name": "Yanncy",
-          "url": "https://open.spotify.com/artist/03hBdKejw4tVUd7uz80TQM"
-        }
-      ],
-      "duration_ms": 256875,
-      "name": "NO TE VAYAS",
-      "url": "https://open.spotify.com/track/1R2EVhoWhlCkBTb8l9MdCn"
-    },
-    {
       "added_at": "2022-09-29 23:31:37",
       "album": {
         "name": "Me Doli\u00f3",
@@ -411,6 +375,42 @@
       "duration_ms": 163608,
       "name": "Me Doli\u00f3",
       "url": "https://open.spotify.com/track/6GohKuqUmoVmuZJ148PEjN"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "NO TE VAYAS",
+        "url": "https://open.spotify.com/album/5gnzsCQT85f958D8YdLAg4"
+      },
+      "artists": [
+        {
+          "name": "Santa Anna",
+          "url": "https://open.spotify.com/artist/79XgYTBTsIyKqgxHyLpPSH"
+        },
+        {
+          "name": "Yanncy",
+          "url": "https://open.spotify.com/artist/03hBdKejw4tVUd7uz80TQM"
+        }
+      ],
+      "duration_ms": 256875,
+      "name": "NO TE VAYAS",
+      "url": "https://open.spotify.com/track/1R2EVhoWhlCkBTb8l9MdCn"
+    },
+    {
+      "added_at": "2023-01-27 18:00:00",
+      "album": {
+        "name": "Como T\u00fa",
+        "url": "https://open.spotify.com/album/1uGYD7JyIY9FwNc0pFCB4b"
+      },
+      "artists": [
+        {
+          "name": "Jd Pantoja",
+          "url": "https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK"
+        }
+      ],
+      "duration_ms": 179013,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/6yWpPKvt3aJ22i2cpB2QTG"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -705,24 +705,20 @@
       "url": "https://open.spotify.com/track/4ECQfOTkdWbWpd62UJk796"
     },
     {
-      "added_at": "2023-01-13 04:35:26",
+      "added_at": "2022-09-29 23:31:37",
       "album": {
-        "name": "Si Supieras",
-        "url": "https://open.spotify.com/album/3RvYPSZgis00pjrlMCskCQ"
+        "name": "Las Gatas",
+        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
       },
       "artists": [
         {
-          "name": "Barbarela",
-          "url": "https://open.spotify.com/artist/2pFRwJDkZ3pvmzufOh2mc1"
-        },
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
         }
       ],
-      "duration_ms": 146511,
-      "name": "Si Supieras",
-      "url": "https://open.spotify.com/track/4jLmZzlR6qJy6V9CBEHE5D"
+      "duration_ms": 146303,
+      "name": "Las Gatas",
+      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
     },
     {
       "added_at": "2022-09-29 23:31:37",
@@ -745,20 +741,24 @@
       "url": "https://open.spotify.com/track/0KLIB8E9BhIE9FTqFeu3a7"
     },
     {
-      "added_at": "2022-09-29 23:31:37",
+      "added_at": "2023-01-13 04:35:26",
       "album": {
-        "name": "Las Gatas",
-        "url": "https://open.spotify.com/album/56FZSurIclX1C9JLm9px0n"
+        "name": "Si Supieras",
+        "url": "https://open.spotify.com/album/3RvYPSZgis00pjrlMCskCQ"
       },
       "artists": [
         {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+          "name": "Barbarela",
+          "url": "https://open.spotify.com/artist/2pFRwJDkZ3pvmzufOh2mc1"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
         }
       ],
-      "duration_ms": 146303,
-      "name": "Las Gatas",
-      "url": "https://open.spotify.com/track/1QCSrngkMfPKJJN88VbXhH"
+      "duration_ms": 146511,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/4jLmZzlR6qJy6V9CBEHE5D"
     },
     {
       "added_at": "2023-01-27 18:00:00",
@@ -903,6 +903,26 @@
     {
       "added_at": "2022-09-29 23:31:37",
       "album": {
+        "name": "Dm",
+        "url": "https://open.spotify.com/album/6TycrtSZUUpCEKRv6LBtkv"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "Dm",
+      "url": "https://open.spotify.com/track/094xqdZtg4JY1NzQfEDlUd"
+    },
+    {
+      "added_at": "2022-09-29 23:31:37",
+      "album": {
         "name": "necesito un break de tanta pendejad*",
         "url": "https://open.spotify.com/album/3Xk7qVeD5ygv9rr8kokjUT"
       },
@@ -923,26 +943,6 @@
       "duration_ms": 178741,
       "name": "necesito un break de tanta pendejad*",
       "url": "https://open.spotify.com/track/3gLTUkkHiWnbvG49FByvp2"
-    },
-    {
-      "added_at": "2022-09-29 23:31:37",
-      "album": {
-        "name": "Dm",
-        "url": "https://open.spotify.com/album/6TycrtSZUUpCEKRv6LBtkv"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Ey Gary",
-          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
-        }
-      ],
-      "duration_ms": 184360,
-      "name": "Dm",
-      "url": "https://open.spotify.com/track/094xqdZtg4JY1NzQfEDlUd"
     },
     {
       "added_at": "2022-09-29 23:31:37",

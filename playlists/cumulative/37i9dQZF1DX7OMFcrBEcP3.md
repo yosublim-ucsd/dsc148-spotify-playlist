@@ -4,7 +4,7 @@
 
 > The corridos our abuelos and parents listened to, viejitos y perrones!
 
-197 songs - 10 hr 11 min
+198 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [Los Tequileros](https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos](https://open.spotify.com/album/5D06CNjENIw3OPcXI79QnS) | 3:38 | 2023-02-21 | 2023-03-05 |
 | [Los Tres Amarradores](https://open.spotify.com/track/2YOZV4dEKxK9s54VcpDBkD) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w), [Manuel El Indio Ortega](https://open.spotify.com/artist/2XSgZhND5uCjcco3Q6GZXj) | [Con el Corazón en Sonora](https://open.spotify.com/album/23psNaHxAyRctb7HUSqq67) | 4:09 | 2023-02-21 |  |
 | [Los Tres Gallos](https://open.spotify.com/track/23i2YYyRUNEGbeJoBWXdUY) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Se Me Canso El Corazon](https://open.spotify.com/album/2SQA2dNyXsqxSKZJ52osuq) | 2:48 | 2023-02-21 |  |
-| [Luis Pulido](https://open.spotify.com/track/2jUiJuZFnTtG0xohTfGU4e) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández Y Sus Corridos Consentidos](https://open.spotify.com/album/7JRZqO7zZrTJiL0yeeQfYn) | 2:26 | 2023-02-21 |  |
+| [Luis Pulido](https://open.spotify.com/track/2jUiJuZFnTtG0xohTfGU4e) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández Y Sus Corridos Consentidos](https://open.spotify.com/album/7JRZqO7zZrTJiL0yeeQfYn) | 2:26 | 2023-02-21 | 2023-04-20 |
 | [Macario Leyva](https://open.spotify.com/track/2kXc2dAdkCpnlRXTtvEe67) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [24 Kilates de Corridos](https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs) | 3:19 | 2023-02-21 |  |
 | [Mario Peralta](https://open.spotify.com/track/6vNfwaopj623mACqlbCv2X) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Adios A Chalino](https://open.spotify.com/album/520Ht71HQF7tlL9YMJsOeP) | 3:10 | 2022-01-01 | 2022-07-29 |
 | [Mario Peralta](https://open.spotify.com/track/6HRpgUqFOM2qHJv0jgygu8) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Adiós A Chalino](https://open.spotify.com/album/1bNgOfg4GnCmHoF52wdVVF) | 3:10 | 2022-01-01 |  |
@@ -205,5 +205,6 @@
 | [Todos Hablan, Nada Saben](https://open.spotify.com/track/4zpw2XwVLml02gTUVtlGY4) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Todos Hablan, Nada Saben](https://open.spotify.com/album/1sV7gFFQ6YbfMHrM4uOztN) | 2:43 | 2022-01-01 | 2022-07-29 |
 | [Todos Hablan, Nada Saben](https://open.spotify.com/track/0SIooo95Kba3UwPBRUOcmd) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Todos Hablan, Nada Saben](https://open.spotify.com/album/1hAHT5gZfRLDYh0sZaTnDK) | 2:43 | 2022-01-01 | 2023-02-22 |
 | [Valente Quintero](https://open.spotify.com/track/4de4ivYcmGbVwkyi8nPdZ8) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [10 Aniversario](https://open.spotify.com/album/2P3M1m7lG147D6T1KhRZEV) | 4:47 | 2023-02-21 |  |
+| [Ya Me Voy](https://open.spotify.com/track/0JIvmxgwraNFHksIj81CFG) | [Adan Chalino Sanchez](https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy) | [Amor Y Lágrimas](https://open.spotify.com/album/1ofYSIU9pfhZy22WEL165p) | 2:51 | 2023-03-01 |  |
 
 \*This playlist was first scraped on 2022-05-23. Prior content cannot be recovered.

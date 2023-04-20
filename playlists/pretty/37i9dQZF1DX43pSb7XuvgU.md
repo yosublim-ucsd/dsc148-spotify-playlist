@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 
 > Los grandes éxitos de José José y Juan Gabriel en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,046 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,178 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 93 | [Contigo en la Distancia \(with Carlos Cuevas\)](https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 3:48 |
 | 94 | [Ahora Con la Banda..\. Te Voy a Olvidar / Ya para Qué / La Farsante](https://open.spotify.com/track/4tZ4seoyOqBvjlGlrJenF3) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel Con Banda..\. El Recodo](https://open.spotify.com/album/3noaO4I0Z1RCHltgBtmabl) | 5:02 |
 | 95 | [La Diferencia](https://open.spotify.com/track/7qCBdX4MbIaNlpqcKL2WSe) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Los Dúo](https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ) | 3:31 |
-| 96 | [Vienes o Voy](https://open.spotify.com/track/7JholUL3Iv83zpEY8CsuZf) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Gracias por Esperar](https://open.spotify.com/album/4XZyy5120of00kdsqlG0uI) | 5:08 |
-| 97 | [El Día Que Me Acaricies Lloraré](https://open.spotify.com/track/4Hju95i74r8s7zimcJ2map) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Pensamientos](https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl) | 3:33 |
+| 96 | [El Día Que Me Acaricies Lloraré](https://open.spotify.com/track/4Hju95i74r8s7zimcJ2map) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Pensamientos](https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl) | 3:33 |
+| 97 | [Vienes o Voy](https://open.spotify.com/track/7JholUL3Iv83zpEY8CsuZf) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Gracias por Esperar](https://open.spotify.com/album/4XZyy5120of00kdsqlG0uI) | 5:08 |
 | 98 | [Así Fue](https://open.spotify.com/track/7HGymGTKfdACYRI4g7H2Gu) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Los Dúo](https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ) | 6:32 |
 | 99 | [Mi Vida](https://open.spotify.com/track/0eXhCBr3S9MlyUpW42aSyU) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Musica Original De La Pelicula Gavilan O Paloma](https://open.spotify.com/album/1QiCz8Wjz3lJLZnK7PEVhy) | 4:06 |
-| 100 | [El México Que Se Nos Fue](https://open.spotify.com/track/0pgLQNQUeji7Dc7SASQaIW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [El Mexico Que Se Nos Fue](https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q) | 4:37 |
+| 100 | [Eso Nomás](https://open.spotify.com/track/7EmvOxDhWWlxIktbT4Yhgo) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [40 Y 20](https://open.spotify.com/album/72HLf3LP783UMuU1zQ6XgL) | 4:22 |
 
-Snapshot ID: `MTY0MDgyMDgzNywwMDAwMDAwMDMxNjQ5MTFkMzIzMTc2YzgzMzlhNTUxODU2MjBjZmRi`
+Snapshot ID: `MTY0MDgyMDgzNywwMDAwMDAwMGMxYWQ4Y2VjOWY0ODAzYzY5OWNlNTkxNDhjMWIzOGZl`

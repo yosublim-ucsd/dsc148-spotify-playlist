@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de esta cumbia! Cover: Los Ángeles Azules.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,432 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,492 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 15 | [Amor Regresa](https://open.spotify.com/track/3nbCTU4k0l68vml8nDajwU) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Pasión Y Cumbia](https://open.spotify.com/album/6DPWLpcFLqrD50JfN6NOk1) | 3:33 |
 | 16 | [Que Te Vaya Bien](https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:37 |
 | 17 | [Cómo Estás Tú](https://open.spotify.com/track/34dKLs3lTn2gqEai9xZSgc) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Con La Fuerza Del Destino](https://open.spotify.com/album/4TOGT8365axV7cXPk1XueY) | 2:57 |
-| 18 | [Como La Flor](https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 3:04 |
+| 18 | [Quizás Si, Quizás No](https://open.spotify.com/track/2xVueNhj6UehdAPDBWK7DN) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Memorias](https://open.spotify.com/album/3K83jJCyGiSq9lj1FQxYce) | 3:12 |
 | 19 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 |
-| 20 | [Quizás Si, Quizás No](https://open.spotify.com/track/2xVueNhj6UehdAPDBWK7DN) | [Grupo Bryndis](https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO) | [Memorias](https://open.spotify.com/album/3K83jJCyGiSq9lj1FQxYce) | 3:12 |
-| 21 | [El Botecito](https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE) | [Los Hijos Del Pueblo](https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ) | [El Botecito](https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP) | 2:30 |
-| 22 | [Rumba Cha\-Cha\-Cha](https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [El Poder De La Cumbia](https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m) | 4:43 |
+| 20 | [Como La Flor](https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 3:04 |
+| 21 | [Rumba Cha\-Cha\-Cha](https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [El Poder De La Cumbia](https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m) | 4:43 |
+| 22 | [El Botecito](https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE) | [Los Hijos Del Pueblo](https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ) | [El Botecito](https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP) | 2:30 |
 | 23 | [Donde Estaras](https://open.spotify.com/track/3734uAibGyPgZEABdWFVtM) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Donde Estaras](https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu) | 3:43 |
 | 24 | [Sergio el Bailador](https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Sergio El Bailador](https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y) | 2:49 |
 | 25 | [Guaracha Sabrosona](https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guaracha Sabrosona](https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ) | 3:39 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 73 | [La Cobra](https://open.spotify.com/track/3aSYVIS5nC3hrFK368flZt) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Veinte Años De Sabrosura](https://open.spotify.com/album/0GrxrRK6JBw0hyEVG7EJWo) | 3:09 |
 | 74 | [Mi Corazon Enamorado](https://open.spotify.com/track/4RWbOGWFhcnQbzafhHUSGB) | [Alberto Pedraza Con Su Ritmo Y Sabor](https://open.spotify.com/artist/4UIqtgggXTOuv5y97QQCrl) | [A Mis Amigos](https://open.spotify.com/album/4TtMhqvX6RwhKMLed7HMHg) | 4:39 |
 | 75 | [El Muñeco](https://open.spotify.com/track/19G8XMtHCX6y6eYTLDbaU3) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Pensando En Ella](https://open.spotify.com/album/7chUnyKUwq88xEWfyGEV7a) | 2:42 |
-| 76 | [Mami \(Angel De Paz\)](https://open.spotify.com/track/6Ty47iTpofWm0kytiMddq9) | [Andikiru](https://open.spotify.com/artist/7lVcmAxMvrV6ALiIKnNp8o) | [Sueño Contigo](https://open.spotify.com/album/6g6KhEpDtyvSFyoUXk9g2O) | 3:31 |
-| 77 | [Dile](https://open.spotify.com/track/38pqbquNNfWBqeIMGACgz2) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Donde Estaras](https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu) | 4:04 |
+| 76 | [Dile](https://open.spotify.com/track/38pqbquNNfWBqeIMGACgz2) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Donde Estaras](https://open.spotify.com/album/6XOIE8I44BYpa7bqctENqu) | 4:04 |
+| 77 | [Mami \(Angel De Paz\)](https://open.spotify.com/track/6Ty47iTpofWm0kytiMddq9) | [Andikiru](https://open.spotify.com/artist/7lVcmAxMvrV6ALiIKnNp8o) | [Sueño Contigo](https://open.spotify.com/album/6g6KhEpDtyvSFyoUXk9g2O) | 3:31 |
 | 78 | [Mentirosa \(Eres Mentirosa\)](https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss) | [Chicos de Barrio](https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X) | [Puros Vatos...Choca Y Rebota](https://open.spotify.com/album/6mIczU0lXJ1Mkyu0v1tdAe) | 4:33 |
 | 79 | [Bonita y Mentirosa \(with Yahir\) \- En Vivo](https://open.spotify.com/track/7z4wQKhuzm8bfRD1sGiVKN) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Yahir](https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ) | [Homenaje a la Música Tropical \(En Vivo\)](https://open.spotify.com/album/5QNwAswaESEp3axpv2d6gx) | 3:42 |
 | 80 | [Baila Así \(feat\. Chiquis\)](https://open.spotify.com/track/4uZA7hxe5WZiQpOAu9lerj) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Baila Así \(feat\. Chiquis\)](https://open.spotify.com/album/0SXbEP6U9u9JLzuPVYRIGQ) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 99 | [Paloma Ajena](https://open.spotify.com/track/65uUNFe02bXVS4KydSSYOE) | [Grupo Los Kiero de Edgar Zacary](https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF) | [Sólo Éxitos](https://open.spotify.com/album/6Kg07PFyPcAMUu0Tey9Qk1) | 4:12 |
 | 100 | [Pajaro Cenzontle](https://open.spotify.com/track/05NDHplkvd0j8hg0XxwPFX) | [Grupo Kual? Dinastia Pedraza](https://open.spotify.com/artist/5PjsLo3UsW3pdl1z6I4hWq) | [El Poder de la Cumbia](https://open.spotify.com/album/79LPQTAIJn9zkZbQxjijae) | 4:28 |
 
-Snapshot ID: `MTY3MzI0NjEyOCwwMDAwMDAwMDgxMWJjZTM1M2Y4ZTM2YWE3Mjg2OTkwNTdkYmQyOTUy`
+Snapshot ID: `MTY3MzI0NjEyOCwwMDAwMDAwMDNiYjMwYzM0MzJiYzc5NmRiMzI2M2VhYTcxYjQyNTgx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 
 > The essential pop rock songs from the 2010s\. Cover: Coldplay.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,732 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,932 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 32 | [Some Nights](https://open.spotify.com/track/6t6oULCRS6hnI7rm0h5gwl) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:37 |
 | 33 | [The Phoenix](https://open.spotify.com/track/7jwDuO7UZvWs77KNj9HbvF) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 4:04 |
 | 34 | [I Lived](https://open.spotify.com/track/7D49Iig0avHre9RFSUMkd2) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 3:54 |
-| 35 | [Heavy \(feat\. Kiiara\)](https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 2:49 |
+| 35 | [On Top Of The World](https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Deluxe\)](https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r) | 3:09 |
 | 36 | [Every Teardrop Is a Waterfall](https://open.spotify.com/track/2U8g9wVcUu9wsg6i7sFSv8) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18) | 4:00 |
-| 37 | [On Top Of The World](https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Deluxe\)](https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r) | 3:09 |
+| 37 | [Heavy \(feat\. Kiiara\)](https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 2:49 |
 | 38 | [Rx \(Medicate\)](https://open.spotify.com/track/2UZtI2HUyLRzqBjodvcUmY) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Wake Up Call](https://open.spotify.com/album/1P2L7DD1DCqb0VfpMyByLl) | 3:53 |
 | 39 | [When We Stand Together](https://open.spotify.com/track/4bCOAuhvjsxbVBM5MM8oik) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Here and Now \(Audio Only Version\)](https://open.spotify.com/album/2gMWwDIxxGIiblnv1pQHyd) | 3:10 |
 | 40 | [Stronger \(What Doesn't Kill You\)](https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Stronger \(Deluxe Version\)](https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj) | 3:41 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 85 | [Fire Escape](https://open.spotify.com/track/6uCmU6ldcsVpLAKNCojVg8) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Zombies On Broadway](https://open.spotify.com/album/4scns5rvvp6KbYQgSsQ8Zv) | 3:24 |
 | 86 | [This Ain't a Love Song](https://open.spotify.com/track/2tNE4DP5nL85XUJv1glO0a) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [Ten Add Ten: The Very Best of Scouting For Girls](https://open.spotify.com/album/62j2ag19WoiNtbSxhAk9r7) | 3:30 |
 | 87 | [We Won't Be Shaken](https://open.spotify.com/track/1B4L5VRP5fALiYJpHUHhZd) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [We Won't Be Shaken](https://open.spotify.com/album/236Dq5eabm2vaUU2pImQPX) | 3:56 |
-| 88 | [Come to Me](https://open.spotify.com/track/1jvoeTYt8usIxGWQUSzEyz) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Magnetic \(Deluxe Version\)](https://open.spotify.com/album/35jYPfl0Y8rCfMU2EkO56x) | 3:45 |
+| 88 | [Different Colors](https://open.spotify.com/track/3RRRDZig4RNJhVGfwwOOFZ) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:42 |
 | 89 | [The Anchor](https://open.spotify.com/track/0qwpBiu4uhW9hiQ6P4NePz) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:24 |
-| 90 | [Different Colors](https://open.spotify.com/track/3RRRDZig4RNJhVGfwwOOFZ) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 3:42 |
+| 90 | [Come to Me](https://open.spotify.com/track/1jvoeTYt8usIxGWQUSzEyz) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Magnetic \(Deluxe Version\)](https://open.spotify.com/album/35jYPfl0Y8rCfMU2EkO56x) | 3:45 |
 | 91 | [Start A Riot](https://open.spotify.com/track/3cpOqFZ30z5cUJUC9MYaar) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [BANNERS](https://open.spotify.com/album/3jA8ouJG0XT2E9uoEzh0j7) | 3:35 |
 | 92 | [Silenced By The Night](https://open.spotify.com/track/6ovxhuEp4zsnJLvNKnQiBL) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Strangeland \(Deluxe Version\)](https://open.spotify.com/album/3nwyEcUG2j9CXV7qY1BhVr) | 3:16 |
 | 93 | [Catch Me If You Can](https://open.spotify.com/track/0llbJISuonEwIS4hmdaTz1) | [Walking On Cars](https://open.spotify.com/artist/632WMoQfBWk76kBz7vMXNg) | [Everything This Way](https://open.spotify.com/album/6wycCzrlJHKrooOq3Dzzj3) | 4:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWCk4v3ohhHQ.md) - [plain]
 | 99 | [Out Of My Mind](https://open.spotify.com/track/2foU3yN5SE5IUasPTs91YV) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 3:43 |
 | 100 | [Shine A Light](https://open.spotify.com/track/3ScCe5tFbRmWdiOdzmaFzr) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Shine A Light](https://open.spotify.com/album/5Y3mOR1wCRhEhUmncrlLOO) | 3:26 |
 
-Snapshot ID: `MTY2ODcwMDEyNywwMDAwMDAwMDM3NWZkMTE1MTk4OTYyOGQ2NGUyZWFiMmYzNjAxZjVh`
+Snapshot ID: `MTY2ODcwMDEyNywwMDAwMDAwMDM0M2E2M2EyZjczYzNlYjVkNDA5NDViYzgyNmY3M2Ni`

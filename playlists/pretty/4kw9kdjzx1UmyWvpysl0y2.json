@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127109,
+  "num_followers": 127114,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDEzNyxiMmQzYTM1ZWQ0NzA4MTIxZjFiZDM1MzQ0NmRkNmRlMmEwOWIyZGUw",
+  "snapshot_id": "NDE0MCw2MDA0ODZjM2EyNDNiYTljZjAzOTE4Yjc2NGJlOGEyZjMzMWUxNTdk",
   "tracks": [
+    {
+      "added_at": "2023-04-20 00:15:04",
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/2HD81FIC7edc7NBQ8B5yVr"
+      },
+      "artists": [
+        {
+          "name": "Lewis Thompson",
+          "url": "https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        }
+      ],
+      "duration_ms": 146692,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3D3fw7H4zK3S6prSBncAkt"
+    },
     {
       "added_at": "2023-04-18 22:57:28",
       "album": {
@@ -1107,26 +1127,6 @@
       "duration_ms": 222857,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/532GvRC2Nvv6sZlMtppByu"
-    },
-    {
-      "added_at": "2023-02-01 20:19:03",
-      "album": {
-        "name": "Awakening",
-        "url": "https://open.spotify.com/album/5hoE227UcQ7Rj4ZR3Ed43I"
-      },
-      "artists": [
-        {
-          "name": "Banaati",
-          "url": "https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4"
-        },
-        {
-          "name": "Tarjei Bjermeland",
-          "url": "https://open.spotify.com/artist/4U54iUoK1nWa1l5QQLrcTx"
-        }
-      ],
-      "duration_ms": 232125,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/11WsGWuJHmdiYB0YuQgo3i"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

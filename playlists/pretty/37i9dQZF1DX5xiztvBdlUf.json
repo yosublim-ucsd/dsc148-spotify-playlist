@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 568207,
+  "num_followers": 568415,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDY5NjAwOSwwMDAwMDAwMDY0ZmYzY2UzNzg4MGRiZmYxOTNjZGE4ZTNhZWUyNDMz",
+  "snapshot_id": "MTY4MDY5NjAwOSwwMDAwMDAwMGViMjBkNWQ1M2I0ZWY4MzJjOTg4ZTQ4ZWVmZDJjOGFl",
   "tracks": [
     {
       "added_at": "2023-04-05 12:00:09",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-04-05 12:00:09",
       "album": {
+        "name": "Cynnes",
+        "url": "https://open.spotify.com/album/1gBWP6CbeIFWedMHaR5FJ4"
+      },
+      "artists": [
+        {
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        }
+      ],
+      "duration_ms": 324333,
+      "name": "Cynnes",
+      "url": "https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9"
+    },
+    {
+      "added_at": "2023-04-05 12:00:09",
+      "album": {
         "name": "Discoteca",
         "url": "https://open.spotify.com/album/1ToY6vQm5b4DgOpdGHZjVZ"
       },
@@ -511,18 +527,22 @@
     {
       "added_at": "2023-04-05 12:00:09",
       "album": {
-        "name": "Cynnes",
-        "url": "https://open.spotify.com/album/1gBWP6CbeIFWedMHaR5FJ4"
+        "name": "Le Funk",
+        "url": "https://open.spotify.com/album/2zTfxzoPO5BWpg5FVVM0ec"
       },
       "artists": [
         {
-          "name": "il:lo",
-          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+          "name": "Prunk",
+          "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
+        },
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
         }
       ],
-      "duration_ms": 324333,
-      "name": "Cynnes",
-      "url": "https://open.spotify.com/track/6EjqmQ7tyQUIOYo4jXDiX9"
+      "duration_ms": 239106,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/2tjWqC7s6tKPl1nBFuHX0m"
     },
     {
       "added_at": "2023-04-05 12:00:09",
@@ -547,26 +567,6 @@
       "duration_ms": 190942,
       "name": "Voices Above",
       "url": "https://open.spotify.com/track/62fX7oJFfJp4g1b3LShSqf"
-    },
-    {
-      "added_at": "2023-04-05 12:00:09",
-      "album": {
-        "name": "Le Funk",
-        "url": "https://open.spotify.com/album/2zTfxzoPO5BWpg5FVVM0ec"
-      },
-      "artists": [
-        {
-          "name": "Prunk",
-          "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
-        },
-        {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
-        }
-      ],
-      "duration_ms": 239106,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/2tjWqC7s6tKPl1nBFuHX0m"
     },
     {
       "added_at": "2023-04-05 12:00:09",
@@ -803,6 +803,26 @@
     {
       "added_at": "2023-04-05 12:00:09",
       "album": {
+        "name": "Speed Of Sound",
+        "url": "https://open.spotify.com/album/1AajlZNAhRY0EJ9G98kwIb"
+      },
+      "artists": [
+        {
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+        },
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+        }
+      ],
+      "duration_ms": 431419,
+      "name": "Speed of Sound",
+      "url": "https://open.spotify.com/track/7y36fE619nJ6071NI8dZHg"
+    },
+    {
+      "added_at": "2023-04-05 12:00:09",
+      "album": {
         "name": "Be Here and Now",
         "url": "https://open.spotify.com/album/3pcwig8qvCceUoeo4xhLD7"
       },
@@ -847,26 +867,6 @@
     {
       "added_at": "2023-04-05 12:00:09",
       "album": {
-        "name": "Speed Of Sound",
-        "url": "https://open.spotify.com/album/1AajlZNAhRY0EJ9G98kwIb"
-      },
-      "artists": [
-        {
-          "name": "El Mundo",
-          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
-        },
-        {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
-        }
-      ],
-      "duration_ms": 431419,
-      "name": "Speed of Sound",
-      "url": "https://open.spotify.com/track/7y36fE619nJ6071NI8dZHg"
-    },
-    {
-      "added_at": "2023-04-05 12:00:09",
-      "album": {
         "name": "Petit Matin",
         "url": "https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi"
       },
@@ -879,22 +879,6 @@
       "duration_ms": 447066,
       "name": "Petit Matin",
       "url": "https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP"
-    },
-    {
-      "added_at": "2023-04-05 12:00:09",
-      "album": {
-        "name": "Body Language, Vol. 24",
-        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 315026,
-      "name": "Kami",
-      "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
     },
     {
       "added_at": "2023-04-05 12:00:09",
@@ -915,6 +899,22 @@
       "duration_ms": 227384,
       "name": "Lay It All On Me",
       "url": "https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf"
+    },
+    {
+      "added_at": "2023-04-05 12:00:09",
+      "album": {
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 315026,
+      "name": "Kami",
+      "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
     },
     {
       "added_at": "2023-04-05 12:00:09",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-04-05 12:00:09",
       "album": {
-        "name": "Come Back Around",
-        "url": "https://open.spotify.com/album/5PWznD1Bh2vMBlXChhmsav"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 231349,
-      "name": "Come Back Around",
-      "url": "https://open.spotify.com/track/0TvCPywvY8QGAWdteEiCdF"
-    },
-    {
-      "added_at": "2023-04-05 12:00:09",
-      "album": {
         "name": "If We Only Had",
         "url": "https://open.spotify.com/album/6niJmh7Cz9YAwOEE2GjK7R"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 305800,
       "name": "If We Only Had",
       "url": "https://open.spotify.com/track/2h5mbuL0DFueiKstOhEuDo"
+    },
+    {
+      "added_at": "2023-04-05 12:00:09",
+      "album": {
+        "name": "Come Back Around",
+        "url": "https://open.spotify.com/album/5PWznD1Bh2vMBlXChhmsav"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 231349,
+      "name": "Come Back Around",
+      "url": "https://open.spotify.com/track/0TvCPywvY8QGAWdteEiCdF"
     },
     {
       "added_at": "2023-04-05 12:00:09",
@@ -1111,6 +1111,30 @@
       "duration_ms": 241010,
       "name": "Sway",
       "url": "https://open.spotify.com/track/5GkG36tzfeuSaeW5TROrE4"
+    },
+    {
+      "added_at": "2023-04-05 12:00:09",
+      "album": {
+        "name": "Noso",
+        "url": "https://open.spotify.com/album/46TCzN7jRdwIWXPzi60Eyz"
+      },
+      "artists": [
+        {
+          "name": "Edu Imbernon",
+          "url": "https://open.spotify.com/artist/0Vr0xxcbllx4JWHHxio088"
+        },
+        {
+          "name": "Nico Casal",
+          "url": "https://open.spotify.com/artist/2kSXdqONuui7oIahM6f6W7"
+        },
+        {
+          "name": "Solomon Grey",
+          "url": "https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO"
+        }
+      ],
+      "duration_ms": 443189,
+      "name": "Noso",
+      "url": "https://open.spotify.com/track/3HHsTf003jTaiysd5xFQML"
     },
     {
       "added_at": "2023-04-05 12:00:09",
@@ -1195,26 +1219,18 @@
     {
       "added_at": "2023-04-05 12:00:09",
       "album": {
-        "name": "Noso",
-        "url": "https://open.spotify.com/album/46TCzN7jRdwIWXPzi60Eyz"
+        "name": "Orbits of Dust",
+        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
       },
       "artists": [
         {
-          "name": "Edu Imbernon",
-          "url": "https://open.spotify.com/artist/0Vr0xxcbllx4JWHHxio088"
-        },
-        {
-          "name": "Nico Casal",
-          "url": "https://open.spotify.com/artist/2kSXdqONuui7oIahM6f6W7"
-        },
-        {
-          "name": "Solomon Grey",
-          "url": "https://open.spotify.com/artist/7pCfNMcSlUWQgBXbyoEcyO"
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
         }
       ],
-      "duration_ms": 443189,
-      "name": "Noso",
-      "url": "https://open.spotify.com/track/3HHsTf003jTaiysd5xFQML"
+      "duration_ms": 360071,
+      "name": "Orbits of Dust",
+      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
     },
     {
       "added_at": "2023-04-05 12:00:09",
@@ -1235,6 +1251,22 @@
     {
       "added_at": "2023-04-05 12:00:09",
       "album": {
+        "name": "Colorize 2023 Spring Sampler",
+        "url": "https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO"
+      },
+      "artists": [
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        }
+      ],
+      "duration_ms": 240448,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe"
+    },
+    {
+      "added_at": "2023-04-05 12:00:09",
+      "album": {
         "name": "What U Doing",
         "url": "https://open.spotify.com/album/65xPPLYFiHhx6YxRV3S9fV"
       },
@@ -1251,22 +1283,6 @@
       "duration_ms": 229523,
       "name": "What U Doing",
       "url": "https://open.spotify.com/track/6jn47IP90tvtvb7ddhOnS1"
-    },
-    {
-      "added_at": "2023-04-05 12:00:09",
-      "album": {
-        "name": "Orbits of Dust",
-        "url": "https://open.spotify.com/album/2fYopE6mpqCMkb5vaxHXEP"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 360071,
-      "name": "Orbits of Dust",
-      "url": "https://open.spotify.com/track/6Ph7youWJICoOoevKOvyJR"
     },
     {
       "added_at": "2023-04-05 12:00:09",
@@ -1303,22 +1319,6 @@
       "duration_ms": 373487,
       "name": "Nice to Meet You",
       "url": "https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe"
-    },
-    {
-      "added_at": "2023-04-05 12:00:09",
-      "album": {
-        "name": "Colorize 2023 Spring Sampler",
-        "url": "https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO"
-      },
-      "artists": [
-        {
-          "name": "VisionV",
-          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
-        }
-      ],
-      "duration_ms": 240448,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe"
     },
     {
       "added_at": "2023-04-05 12:00:09",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2023-04-05 12:00:09",
       "album": {
-        "name": "Future Memories",
-        "url": "https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u"
-      },
-      "artists": [
-        {
-          "name": "Hernan Cattaneo",
-          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
-        },
-        {
-          "name": "Soundexile",
-          "url": "https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg"
-        }
-      ],
-      "duration_ms": 383250,
-      "name": "Teleport - Future Mix",
-      "url": "https://open.spotify.com/track/70Oo2oO6UkIjkh6oy3SXDM"
-    },
-    {
-      "added_at": "2023-04-05 12:00:09",
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/7Hw5AFpacyOqZ208oWRUJY"
       },
@@ -1471,22 +1451,22 @@
     {
       "added_at": "2023-04-05 12:00:09",
       "album": {
-        "name": "Diving Into Minds",
-        "url": "https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z"
+        "name": "Future Memories",
+        "url": "https://open.spotify.com/album/3VwWcrB92fVFW4q4Jfuh7u"
       },
       "artists": [
         {
-          "name": "Soichi Terada",
-          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
         },
         {
-          "name": "Masalo",
-          "url": "https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53"
+          "name": "Soundexile",
+          "url": "https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg"
         }
       ],
-      "duration_ms": 387302,
-      "name": "Diving Into Minds - Club Mix",
-      "url": "https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH"
+      "duration_ms": 383250,
+      "name": "Teleport - Future Mix",
+      "url": "https://open.spotify.com/track/70Oo2oO6UkIjkh6oy3SXDM"
     },
     {
       "added_at": "2023-04-05 12:00:09",
@@ -1511,6 +1491,26 @@
       "duration_ms": 414000,
       "name": "De\u00eda - AVEM Remix",
       "url": "https://open.spotify.com/track/4pgBB90REWf829lym8RE6N"
+    },
+    {
+      "added_at": "2023-04-05 12:00:09",
+      "album": {
+        "name": "Diving Into Minds",
+        "url": "https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z"
+      },
+      "artists": [
+        {
+          "name": "Soichi Terada",
+          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
+        },
+        {
+          "name": "Masalo",
+          "url": "https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53"
+        }
+      ],
+      "duration_ms": 387302,
+      "name": "Diving Into Minds - Club Mix",
+      "url": "https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH"
     },
     {
       "added_at": "2023-04-05 12:00:09",

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy fantastic gameplay with k-pop music!",
-  "num_followers": 37007,
+  "num_followers": 37224,
   "original_name": "K-Pop Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDA2OTE4OCwwMDAwMDAwMDhiOGQwYmZhY2M3ZmRmMTkyNTEzZDBjZjFmNzAzZjkw",
+  "snapshot_id": "MTY4MDA2OTE4OCwwMDAwMDAwMDQ3YWRkNDE2MzEzZDlkMGY4M2U5ZThkNDdmYjhkYWMw",
   "tracks": [
     {
       "added_at": "2023-03-29 05:53:08",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-03-29 05:53:08",
       "album": {
-        "name": "IM NAYEON",
-        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        }
-      ],
-      "duration_ms": 168106,
-      "name": "POP!",
-      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
-    },
-    {
-      "added_at": "2023-03-29 05:53:08",
-      "album": {
         "name": "ELEVEN",
         "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 178453,
       "name": "ELEVEN",
       "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
+    },
+    {
+      "added_at": "2023-03-29 05:53:08",
+      "album": {
+        "name": "IM NAYEON",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+      },
+      "artists": [
+        {
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ],
+      "duration_ms": 168106,
+      "name": "POP!",
+      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33"
     },
     {
       "added_at": "2023-03-29 05:53:08",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-03-29 05:53:08",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+        "name": "Next Level",
+        "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
       },
       "artists": [
         {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 214253,
-      "name": "LILAC",
-      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
+      "duration_ms": 221573,
+      "name": "Next Level",
+      "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
     },
     {
       "added_at": "2023-03-29 05:53:08",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-03-29 05:53:08",
       "album": {
-        "name": "Next Level",
-        "url": "https://open.spotify.com/album/2CzbrboOLzeRoaaH1N5K0N"
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 221573,
-      "name": "Next Level",
-      "url": "https://open.spotify.com/track/2zrhoHlFKxFTRF5aMyxMoQ"
+      "duration_ms": 214253,
+      "name": "LILAC",
+      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
     },
     {
       "added_at": "2023-03-29 05:53:08",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-03-29 05:53:08",
       "album": {
-        "name": "Stamp On It - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7"
+        "name": "Girls - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
       },
       "artists": [
         {
-          "name": "GOT the beat",
-          "url": "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
         }
       ],
-      "duration_ms": 232813,
-      "name": "Stamp On It",
-      "url": "https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS"
+      "duration_ms": 240440,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
     },
     {
       "added_at": "2023-03-29 05:53:08",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-03-29 05:53:08",
       "album": {
-        "name": "Girls - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY"
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
       },
       "artists": [
         {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
         }
       ],
-      "duration_ms": 240440,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg"
+      "duration_ms": 199026,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
     },
     {
       "added_at": "2023-03-29 05:53:08",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-03-29 05:53:08",
       "album": {
-        "name": "Mar\u00eda",
-        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
+        "name": "Stamp On It - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/2Gxd1fr4RFHVNx6IxGr9I7"
       },
       "artists": [
         {
-          "name": "Hwa Sa",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+          "name": "GOT the beat",
+          "url": "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
         }
       ],
-      "duration_ms": 199026,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
+      "duration_ms": 232813,
+      "name": "Stamp On It",
+      "url": "https://open.spotify.com/track/0mlxHb4jbPr1PUBUv0WHRS"
     },
     {
       "added_at": "2023-03-29 05:53:08",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-03-29 05:53:08",
       "album": {
-        "name": "Step Back",
-        "url": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk"
-      },
-      "artists": [
-        {
-          "name": "GOT the beat",
-          "url": "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
-        }
-      ],
-      "duration_ms": 228613,
-      "name": "Step Back",
-      "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
-    },
-    {
-      "added_at": "2023-03-29 05:53:08",
-      "album": {
         "name": "BORDER : DAY ONE",
         "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
       },
@@ -1179,18 +1163,34 @@
     {
       "added_at": "2023-03-29 05:53:08",
       "album": {
-        "name": "INVU - The 3rd Album",
-        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "GOT the beat",
+          "url": "https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX"
         }
       ],
-      "duration_ms": 204973,
-      "name": "INVU",
-      "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
+      "duration_ms": 228613,
+      "name": "Step Back",
+      "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
+    },
+    {
+      "added_at": "2023-03-29 05:53:08",
+      "album": {
+        "name": "Take",
+        "url": "https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "duration_ms": 214136,
+      "name": "Way Back Home",
+      "url": "https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL"
     },
     {
       "added_at": "2023-03-29 05:53:08",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-03-29 05:53:08",
       "album": {
-        "name": "Take",
-        "url": "https://open.spotify.com/album/1NgwpxtZFd1x4DbC74V9bO"
+        "name": "INVU - The 3rd Album",
+        "url": "https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9"
       },
       "artists": [
         {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         }
       ],
-      "duration_ms": 214136,
-      "name": "Way Back Home",
-      "url": "https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL"
+      "duration_ms": 204973,
+      "name": "INVU",
+      "url": "https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV"
     },
     {
       "added_at": "2023-03-29 05:53:08",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-03-29 05:53:08",
       "album": {
-        "name": "Perfect Velvet - The 2nd Album",
-        "url": "https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 189049,
-      "name": "Peek-A-Boo",
-      "url": "https://open.spotify.com/track/42tFTth2jcF7iSo0RBjfJF"
-    },
-    {
-      "added_at": "2023-03-29 05:53:08",
-      "album": {
         "name": "Sour Candy (with BLACKPINK)",
         "url": "https://open.spotify.com/album/6y6lP1WRfqEhv8RLy4ufZB"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 157706,
       "name": "Sour Candy (with BLACKPINK)",
       "url": "https://open.spotify.com/track/6R6ZoHTypt5lt68MWbzZXv"
+    },
+    {
+      "added_at": "2023-03-29 05:53:08",
+      "album": {
+        "name": "Perfect Velvet - The 2nd Album",
+        "url": "https://open.spotify.com/album/0rvrbZvaDX5S9ZBhwOwFfH"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 189049,
+      "name": "Peek-A-Boo",
+      "url": "https://open.spotify.com/track/42tFTth2jcF7iSo0RBjfJF"
     },
     {
       "added_at": "2023-03-29 05:53:08",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-03-29 05:53:08",
       "album": {
-        "name": "FOREVER 1 - The 7th Album",
-        "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
       },
       "artists": [
         {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 202533,
-      "name": "FOREVER 1",
-      "url": "https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg"
+      "duration_ms": 170805,
+      "name": "Blessed-Cursed",
+      "url": "https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo"
     },
     {
       "added_at": "2023-03-29 05:53:08",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2023-03-29 05:53:08",
       "album": {
-        "name": "DIMENSION : ANSWER",
-        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
+        "name": "FOREVER 1 - The 7th Album",
+        "url": "https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP"
       },
       "artists": [
         {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
         }
       ],
-      "duration_ms": 170805,
-      "name": "Blessed-Cursed",
-      "url": "https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo"
+      "duration_ms": 202533,
+      "name": "FOREVER 1",
+      "url": "https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg"
     },
     {
       "added_at": "2023-03-29 05:53:08",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-03-29 05:53:08",
       "album": {
+        "name": "One-reeler / Act IV",
+        "url": "https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK"
+      },
+      "artists": [
+        {
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+        }
+      ],
+      "duration_ms": 222853,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo"
+    },
+    {
+      "added_at": "2023-03-29 05:53:08",
+      "album": {
         "name": "The Red Summer - Summer Mini Album",
         "url": "https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 199133,
       "name": "MAGO",
       "url": "https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50"
-    },
-    {
-      "added_at": "2023-03-29 05:53:08",
-      "album": {
-        "name": "One-reeler / Act IV",
-        "url": "https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK"
-      },
-      "artists": [
-        {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
-        }
-      ],
-      "duration_ms": 222853,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo"
     },
     {
       "added_at": "2023-03-29 05:53:08",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-03-29 05:53:08",
       "album": {
-        "name": "\u2018The ReVe Festival 2022 - Birthday\u2019",
-        "url": "https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        }
-      ],
-      "duration_ms": 216440,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv"
-    },
-    {
-      "added_at": "2023-03-29 05:53:08",
-      "album": {
         "name": "8TURNRISE",
         "url": "https://open.spotify.com/album/6fvrG4RkX06QBmmc9gA1OQ"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 202800,
       "name": "TIC TAC",
       "url": "https://open.spotify.com/track/60Oo6tKR0ckwZsRr95NrjL"
+    },
+    {
+      "added_at": "2023-03-29 05:53:08",
+      "album": {
+        "name": "\u2018The ReVe Festival 2022 - Birthday\u2019",
+        "url": "https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        }
+      ],
+      "duration_ms": 216440,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv"
     },
     {
       "added_at": "2023-03-29 05:53:08",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2023-03-29 05:53:08",
       "album": {
-        "name": "Ay-Yo - The 4th Album Repackage",
-        "url": "https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ"
-      },
-      "artists": [
-        {
-          "name": "NCT 127",
-          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "Ay-Yo",
-      "url": "https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81"
-    },
-    {
-      "added_at": "2023-03-29 05:53:08",
-      "album": {
         "name": "Glitch Mode - The 2nd Album",
         "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 207053,
       "name": "Glitch Mode",
       "url": "https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm"
+    },
+    {
+      "added_at": "2023-03-29 05:53:08",
+      "album": {
+        "name": "Ay-Yo - The 4th Album Repackage",
+        "url": "https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Ay-Yo",
+      "url": "https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81"
     },
     {
       "added_at": "2023-03-29 05:53:08",

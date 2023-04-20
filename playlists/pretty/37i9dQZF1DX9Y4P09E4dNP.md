@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,479 likes - 40 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,499 likes - 40 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 2 | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [CHOPLIFE \(feat\. Patoranking\)](https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf) | 3:33 |
 | 3 | [Game Changer \(Dike\)](https://open.spotify.com/track/5GxeZ0u1qDX95nZwV055JS) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Game Changer \(Dike\)](https://open.spotify.com/album/3CauGu6er8mkDoWdotpfJm) | 2:42 |
 | 4 | [Ohemaa](https://open.spotify.com/track/1u2K82uk2yeeWhYUieIa5b) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ), [Lord Paper](https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb) | [Ohemaa](https://open.spotify.com/album/6GSPOyYbPYTkR74gQMPus0) | 3:33 |
-| 5 | [Falling](https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 2:45 |
-| 6 | [Asew](https://open.spotify.com/track/7xujnLnBsxgby94GzXdPVi) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [Mic Flammez](https://open.spotify.com/artist/1EUY08IMbLAtjiyBxsgueI) | [Highlife Konnect](https://open.spotify.com/album/72NulXFtskbFG6htwcte2C) | 3:25 |
+| 5 | [Asew](https://open.spotify.com/track/7xujnLnBsxgby94GzXdPVi) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc), [Mic Flammez](https://open.spotify.com/artist/1EUY08IMbLAtjiyBxsgueI) | [Highlife Konnect](https://open.spotify.com/album/72NulXFtskbFG6htwcte2C) | 3:25 |
+| 6 | [Falling](https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 2:45 |
 | 7 | [Take Away](https://open.spotify.com/track/3TbPmLDrVHWDaNboZjSHuK) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Take Away](https://open.spotify.com/album/1G332MHTrv8gde5rXWMYRJ) | 2:46 |
 | 8 | [Celebrate](https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Celebrate](https://open.spotify.com/album/1DjCbRACl4Q9bLtT0hhiIF) | 2:28 |
 | 9 | [Over](https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:56 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 39 | [MAMA](https://open.spotify.com/track/7n3q5KB6vOF5Mh3YCVtovp) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [MAMA](https://open.spotify.com/album/08amz14qiWtlECBBBLIMSw) | 2:34 |
 | 40 | [Eboso](https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Eboso](https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP) | 3:06 |
 
-Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDkxMzczZDJjZjdjZmVhNGZjODEyNjUwOWFlNDFiYmQ4`
+Snapshot ID: `MTY3NzE5MzIwMCwwMDAwMDAwMDEyZTJkMDA3MjY5MjAwODUzNDNmYjNiODcwY2E4MTI2`

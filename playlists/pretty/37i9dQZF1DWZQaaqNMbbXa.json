@@ -1,12 +1,12 @@
 {
   "description": "Hit the dance floor with your favorite bops!",
-  "num_followers": 397023,
+  "num_followers": 397354,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTQ1NjAzMywwMDAwMDAwMDhkZGJlYjUxMzliY2I1MDgzZmFkZWViNTk0YjRiZTU1",
+  "snapshot_id": "MTY3OTQ1NjAzMywwMDAwMDAwMDUzNTMyMDExZDVkMzFjNzhhYjU4MzIyMzQ1MGNjMjhl",
   "tracks": [
     {
       "added_at": "2023-03-10 05:01:00",
@@ -343,8 +343,8 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+        "name": "Don't You Worry Child",
+        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
       },
       "artists": [
         {
@@ -352,13 +352,13 @@
           "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Moth To A Flame (with The Weeknd)",
-      "url": "https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK"
+      "duration_ms": 212862,
+      "name": "Don't You Worry Child - Radio Edit",
+      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -503,8 +503,8 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Don't You Worry Child",
-        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
       "artists": [
         {
@@ -512,13 +512,13 @@
           "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 212862,
-      "name": "Don't You Worry Child - Radio Edit",
-      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
+      "duration_ms": 234000,
+      "name": "Moth To A Flame (with The Weeknd)",
+      "url": "https://open.spotify.com/track/0VO8gYVDSwM1Qdd2GsMoYK"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Afraid To Feel",
-        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 177524,
-      "name": "Afraid To Feel",
-      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "The Middle",
         "url": "https://open.spotify.com/album/7nEiwcUSwycvC77kZ9ub7c"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 184732,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 177524,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -2159,26 +2159,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "One Love (Deluxe)",
-        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 210093,
-      "name": "Memories (feat. Kid Cudi)",
-      "url": "https://open.spotify.com/track/4dTaAiV9xFFCxnPur9c9yL"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "So Close (feat. Georgia Ku)",
         "url": "https://open.spotify.com/album/4ZIaWbFnkMozASM1CA59K6"
       },
@@ -2203,6 +2183,26 @@
       "duration_ms": 190302,
       "name": "So Close",
       "url": "https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "One Love (Deluxe)",
+        "url": "https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "duration_ms": 210093,
+      "name": "Memories (feat. Kid Cudi)",
+      "url": "https://open.spotify.com/track/4dTaAiV9xFFCxnPur9c9yL"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -2519,26 +2519,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Shivers (Dillon Francis Remix)",
-        "url": "https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 127766,
-      "name": "Shivers (Dillon Francis Remix) [Main Mix]",
-      "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "Sexual",
         "url": "https://open.spotify.com/album/4fpw9otqwjuKWM7OLu8DgP"
       },
@@ -2555,6 +2535,26 @@
       "duration_ms": 188888,
       "name": "Sexual",
       "url": "https://open.spotify.com/track/5fKBwqSTuCbnJlCOpeRa3o"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Shivers (Dillon Francis Remix)",
+        "url": "https://open.spotify.com/album/1IhjAej4bFQdXNh9yRwE7B"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 127766,
+      "name": "Shivers (Dillon Francis Remix) [Main Mix]",
+      "url": "https://open.spotify.com/track/59zbXPD0j7JxsVVm480g3b"
     },
     {
       "added_at": "2023-03-10 05:01:00",
@@ -3027,26 +3027,6 @@
     {
       "added_at": "2023-03-10 05:01:00",
       "album": {
-        "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
-        "url": "https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 215315,
-      "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
-      "url": "https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
         "name": "I'll Wait",
         "url": "https://open.spotify.com/album/5NtG3FTjuLNQPUhs60sebC"
       },
@@ -3063,6 +3043,26 @@
       "duration_ms": 215360,
       "name": "I'll Wait",
       "url": "https://open.spotify.com/track/6Q3K9gVUZRMZqZKrXovbM2"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
+        "url": "https://open.spotify.com/album/1Z7WbPmn7QFoJ2DrNfEehz"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 215315,
+      "name": "Carry On (from the Original Motion Picture \"POK\u00c9MON Detective Pikachu\")",
+      "url": "https://open.spotify.com/track/3y3brCCecHC3Db18aIOnny"
     }
   ],
   "unique_name": "Dance Pop Hits",

@@ -11069,6 +11069,28 @@
     },
     {
       "album": {
+        "name": "Red Or Blue",
+        "url": "https://open.spotify.com/album/0ncdVBLP1oBz0H19aNcmMu"
+      },
+      "artists": [
+        {
+          "name": "Frizzy The Streetz",
+          "url": "https://open.spotify.com/artist/76D7ppv4U20gNYE6iUcYFJ"
+        },
+        {
+          "name": "Simbai",
+          "url": "https://open.spotify.com/artist/3crJf5p7nUHziLEGTlikzg"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137777,
+      "name": "Red Or Blue",
+      "url": "https://open.spotify.com/track/5ItAI99ySNjoS5rfzo1f6T"
+    },
+    {
+      "album": {
         "name": "Dime A Dozen",
         "url": "https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae"
       },

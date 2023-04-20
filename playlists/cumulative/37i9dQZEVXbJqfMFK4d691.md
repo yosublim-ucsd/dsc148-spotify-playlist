@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bolivia.
 
-489 songs - 1 day 3 hr 24 min
+490 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Colapso](https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 3:55 | 2022-05-04 | 2022-05-08 |
 | [Combi Nueva](https://open.spotify.com/track/25YMD8Bf1CiQvAsYz5Bq0p) | [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Combi Nueva](https://open.spotify.com/album/6XPF6XwJkxIZTRM3jdAzeM) | 3:12 | 2021-11-08 | 2021-11-14 |
 | [COMO HAS ESTAU?](https://open.spotify.com/track/5S7FewmYYyLNdMOfeEcB6P) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 2:07 | 2022-11-05 | 2022-11-07 |
-| [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 | 2023-04-15 |  |
+| [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 | 2023-04-15 | 2023-04-20 |
 | [Cuando Nadie Ve](https://open.spotify.com/track/71iAechwVKGu26pahzFL0k) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:39 | 2022-06-23 | 2022-12-21 |
 | [Cupido](https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:54 | 2023-02-22 |  |
 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 | 2022-08-09 | 2023-02-01 |
@@ -122,6 +122,7 @@
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-07-30 | 2022-09-11 |
 | [Despeinada](https://open.spotify.com/track/0JAZWvvqttGFm4UMDsPQXC) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Enoc](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:44 | 2021-03-27\* | 2021-03-31 |
 | [Después de la Playa](https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-07 | 2022-10-12 |
+| [Di Que Si](https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Di Que Si](https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e) | 3:10 | 2023-04-19 |  |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-05 | 2022-11-11 |
 | [Die For You \(with Ariana Grande\) \- Remix](https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Starboy \(Deluxe\)](https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1) | 3:52 | 2023-03-15 | 2023-03-18 |
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-25 | 2023-03-16 |

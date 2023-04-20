@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > el amor es <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,133 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,180 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 24 | [QUEREME](https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUEREME](https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7) | 3:14 |
 | 25 | [pa quererte](https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [pa quererte](https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3) | 2:47 |
 | 26 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 |
-| 27 | [00:00](https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8) | 3:35 |
-| 28 | [FLORES](https://open.spotify.com/track/7oEkDWQeUlsu3UBfltE1WI) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [FLORES](https://open.spotify.com/album/4ZXoB7bH7El9Ad2kZHmRvw) | 2:40 |
+| 27 | [FLORES](https://open.spotify.com/track/7oEkDWQeUlsu3UBfltE1WI) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [FLORES](https://open.spotify.com/album/4ZXoB7bH7El9Ad2kZHmRvw) | 2:40 |
+| 28 | [00:00](https://open.spotify.com/track/1o1O7nDie7zzsdHKZxhgQD) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [00:00](https://open.spotify.com/album/4sN1ZUO6ZncV2XpLS0iKS8) | 3:35 |
 | 29 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 |
 | 30 | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Me Gustas Más Que Salir a Fumar](https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs) | 3:23 |
 | 31 | [86.400](https://open.spotify.com/track/3AncVybdw2UmiT8ulIGScN) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Sensaciones](https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9) | 1:08 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 64 | [Bonito](https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA) | [Mau Moctezuma](https://open.spotify.com/artist/1oSRId8yJK5I7KMtD5gp3q), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Bonito](https://open.spotify.com/album/6LyiWORGEUBMbphHMdZNSL) | 3:03 |
 | 65 | [nu love](https://open.spotify.com/track/0wNcVSZaQVTqSnx8i9FiZy) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Algo Bien](https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd) | 3:29 |
 | 66 | [Bolero Estelar](https://open.spotify.com/track/46ZNN9JUQFl0LXiTLKKkMZ) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Bolero Estelar](https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E) | 3:58 |
-| 67 | [Diez Pasos Hacia Ti \- En Vivo](https://open.spotify.com/track/0ROD7JL2jEvfmq2HdeINUH) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Vivo Desde Tu Nostalgia](https://open.spotify.com/album/56mFqd2JHQKSnOhiS6qVed) | 3:44 |
-| 68 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
+| 67 | [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 |
+| 68 | [Diez Pasos Hacia Ti \- En Vivo](https://open.spotify.com/track/0ROD7JL2jEvfmq2HdeINUH) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [En Vivo Desde Tu Nostalgia](https://open.spotify.com/album/56mFqd2JHQKSnOhiS6qVed) | 3:44 |
 | 69 | [Querernos Bien](https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Querernos Bien](https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2) | 3:03 |
 | 70 | [A Mi Ritmo](https://open.spotify.com/track/51h83YT521kYxTLng0FyRv) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [A Mi Ritmo](https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX) | 3:06 |
 | 71 | [Caguamita Banquetera](https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Caguamita Banquetera](https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG) | 2:35 |
 | 72 | [Señorita](https://open.spotify.com/track/7IOwZ2dsEZCg2NCeX7MCsm) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Señorita](https://open.spotify.com/album/6j6DsW88KYbKSe7qrzJLPE) | 3:29 |
 | 73 | [Ir por un Café](https://open.spotify.com/track/0oYWgghilCHzscMzQOVONP) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Ir por un Café](https://open.spotify.com/album/56uFQSAHC1c2PwWux1GeaD) | 3:20 |
 | 74 | [Volver](https://open.spotify.com/track/0PSmtygePqmxByr5eh0HST) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Volver](https://open.spotify.com/album/68M1eXLRiP9zLQOZbmSth7) | 3:10 |
-| 75 | [Automático](https://open.spotify.com/track/6Yr96hQHVxOsysOEiAxaUl) | [Juan Solo](https://open.spotify.com/artist/033ki1tu7MbVUn1nhuD2yV) | [Automático](https://open.spotify.com/album/6MQEA52oQyxgPLiZ0B3lDI) | 3:06 |
+| 75 | [Para Verte](https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Para Verte](https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk) | 3:02 |
 
-Snapshot ID: `MTY4MDI3NzczOCwwMDAwMDAwMDI4YjAzMTczY2E3ODU0NzczYWE2MTg1NTcyMzY0MzQx`
+Snapshot ID: `MTY4MDI3NzczOCwwMDAwMDAwMDY2OTdhNjllYjM4ZGM5N2NmY2RiOTkwOTEyMmY2NWEz`

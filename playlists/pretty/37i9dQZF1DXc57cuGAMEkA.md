@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Post Malone, yama, Diplo, d4vd, Metallica and more! Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,295 likes - 85 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,296 likes - 85 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 67 | [Begin Again \- Single Edit](https://open.spotify.com/track/36CGnEiFk8rGx0R14aW1Dw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Begin Again](https://open.spotify.com/album/5uvyLKCk0xALxoSlBEzP21) | 3:37 |
 | 68 | [poster boy](https://open.spotify.com/track/2TaCG1ArsxRsUyZhqy5jei) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [poster boy](https://open.spotify.com/album/2ErL96QPbe4hXnU8K2giJr) | 2:46 |
 | 69 | [Color Chaos](https://open.spotify.com/track/7gjG9tike8AJUB6dtwPRsB) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Color Chaos](https://open.spotify.com/album/4FrQPhcXLf98uHn3cb3t75) | 3:11 |
-| 70 | [2 BEST FRIENDS](https://open.spotify.com/track/0LEs4bUrJXJuNB7j24AB1V) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:18 |
+| 70 | [2 BEST FRIENDS](https://open.spotify.com/track/52KBmYTuwSRxccMFhBI2fA) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/0hFJA3uT3wLCq2KR6qD7K4) | 2:18 |
 | 71 | [Dizzy](https://open.spotify.com/track/2xETUGwxMo4bDcRwASJcKv) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Baku's Revenge \(Deluxe Edition\)](https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv) | 2:44 |
 | 72 | [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 |
 | 73 | [I Take It Back](https://open.spotify.com/track/6DcI73tbK4PoyI3GGV4zZS) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Drunk On A Flight](https://open.spotify.com/album/7gErkAlkyVUKrDeNnFV9fq) | 2:59 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 84 | [EVOKE](https://open.spotify.com/track/0TwK1i7La2lfEOUCcH1g9t) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [EVOKE](https://open.spotify.com/album/75loSbBYSXtaRofHhpBL6d) | 3:54 |
 | 85 | [Everything Is Going to Be OK](https://open.spotify.com/track/4JPj5HzPn5sRfwzqH9HMgX) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Everything Is Going to Be OK](https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M) | 4:47 |
 
-Snapshot ID: `MTY4MTQyMjgwOCwwMDAwMDAwMDQ5ZmVhZWU1M2RmMzhkMjM2NDA0NWUwYjg3ODYwYzNm`
+Snapshot ID: `MTY4MTQyMjgwOCwwMDAwMDAwMDkwM2Y4ZDVmMmI2YzIxNjM3MWM1MDI4ZjM3MDU0Mzc0`

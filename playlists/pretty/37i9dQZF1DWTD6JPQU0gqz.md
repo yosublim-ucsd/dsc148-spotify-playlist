@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 
 > Celebrando a los músicos Afro\-Latinos\. Cover: Tego Calderon
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,630 likes - 80 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,646 likes - 80 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 61 | [Oye Mi Ritmo](https://open.spotify.com/track/6HYo1T8GRaj8J9P4xZHFcq) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [En Letra de Otro](https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E) | 2:26 |
 | 62 | [Dormir Sola](https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [A Quien Pueda Interesar](https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm) | 2:41 |
 | 63 | [Sin Aire](https://open.spotify.com/track/4m93OTJad26zWgEFprZICX) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Sin Aire](https://open.spotify.com/album/4NA7ABRbQr0hgnmmJXWjBd) | 2:00 |
-| 64 | [MIA BEACH](https://open.spotify.com/track/0boJB2GJMiCGbKr9ePpc9A) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [MIA BEACH](https://open.spotify.com/album/0pudiCC5zZUOicTxpLUFYB) | 3:18 |
-| 65 | [Dale](https://open.spotify.com/track/0aKq8emz57dfXbuAVd5qXs) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Dale](https://open.spotify.com/album/49xNDnyM4bFoY2MVbC9bMQ) | 2:50 |
+| 64 | [Dale](https://open.spotify.com/track/0aKq8emz57dfXbuAVd5qXs) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [Dale](https://open.spotify.com/album/49xNDnyM4bFoY2MVbC9bMQ) | 2:50 |
+| 65 | [MIA BEACH](https://open.spotify.com/track/0boJB2GJMiCGbKr9ePpc9A) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [MIA BEACH](https://open.spotify.com/album/0pudiCC5zZUOicTxpLUFYB) | 3:18 |
 | 66 | [Gimme Light](https://open.spotify.com/track/6OebtUbp6bdEzH2eFYvY7m) | [Cyn Santana](https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf) | [Gimme Light](https://open.spotify.com/album/4FHDVRc9bE0EYRSfdfxozr) | 2:29 |
 | 67 | [Mírame](https://open.spotify.com/track/4xuYmM0jxeQ7svyfZpciVl) | [Anmily Brown](https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT) | [Pa' El Alma](https://open.spotify.com/album/0mQ5Zogqooq2V1S2k3gYUY) | 3:20 |
 | 68 | [Negrita](https://open.spotify.com/track/41p7vS76inehRNOSwYMrNx) | [Nitty Scott](https://open.spotify.com/artist/1Ah5AeHBzgy2b4u6sJtkLg) | [Creature!](https://open.spotify.com/album/4DcsUwb7h7ZxuGffs9q3Gd) | 2:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 79 | [La rebelion](https://open.spotify.com/track/00Ro1lnV3V6i87aY4t8Q43) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Sabor a Salsa](https://open.spotify.com/album/4168LZnMKT5rgITtNBbo5z) | 6:16 |
 | 80 | [Esa Flaca](https://open.spotify.com/track/2e0EnlrAtFtzo4q91sR38G) | [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo) | [Esa Flaca](https://open.spotify.com/album/2k3ZEVpOgGtzuqxXK2PhvV) | 3:01 |
 
-Snapshot ID: `MTY3NjYwNTIwNiwwMDAwMDAwMDFhMmQ5NmJkNzc5YWEyYTEyY2YwOTJkZTJiNjI3OGIx`
+Snapshot ID: `MTY3NjYwNTIwNiwwMDAwMDAwMGIxNjQwODE0YTQwNjMwZWQ4Mzg0ZDYzNDk0YWUyODY4`

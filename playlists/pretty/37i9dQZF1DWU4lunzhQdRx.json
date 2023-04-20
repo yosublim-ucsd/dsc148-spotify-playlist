@@ -1,12 +1,12 @@
 {
   "description": "yeah it was love then it was just married",
-  "num_followers": 80869,
+  "num_followers": 81175,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGVlNjA3ZTZkNDBhN2I5MWJkMjE1NjhhNzljMzExNjVk",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDBhZWE1MzRhZDZiNzRkMjFjZGMwZTQwYjViYTQyNjgz",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Pain Killer",
-        "url": "https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 193320,
-      "name": "Girl Crush",
-      "url": "https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "The Way It Feels",
         "url": "https://open.spotify.com/album/1HixYJpe6AJWGDpEbb7ZuE"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 188320,
       "name": "Die From A Broken Heart",
       "url": "https://open.spotify.com/track/3DA4SE262k6rdEtlHteNyq"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Pain Killer",
+        "url": "https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 193320,
+      "name": "Girl Crush",
+      "url": "https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "The First Time",
-        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+        "name": "Untamed",
+        "url": "https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
         }
       ],
-      "duration_ms": 200040,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo"
+      "duration_ms": 231333,
+      "name": "Burning House",
+      "url": "https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Untamed",
-        "url": "https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB"
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
       },
       "artists": [
         {
-          "name": "Cam",
-          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 231333,
-      "name": "Burning House",
-      "url": "https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14"
+      "duration_ms": 200040,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -423,22 +423,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Wishful Drinking (with Sam Hunt)",
-        "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
+        "name": "Montevallo",
+        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
       },
       "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        },
         {
           "name": "Sam Hunt",
           "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 194544,
-      "name": "Wishful Drinking (with Sam Hunt)",
-      "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
+      "duration_ms": 225693,
+      "name": "Make You Miss Me",
+      "url": "https://open.spotify.com/track/0xwPzLmBAYro8BUz7MrtAo"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -459,18 +455,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Montevallo",
-        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
+        "name": "Wishful Drinking (with Sam Hunt)",
+        "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
       },
       "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        },
         {
           "name": "Sam Hunt",
           "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 225693,
-      "name": "Make You Miss Me",
-      "url": "https://open.spotify.com/track/0xwPzLmBAYro8BUz7MrtAo"
+      "duration_ms": 194544,
+      "name": "Wishful Drinking (with Sam Hunt)",
+      "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
     },
     {
       "added_at": "2023-04-14 04:00:00",

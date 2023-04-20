@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 > Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Bivolt
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,147 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,153 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,11 +48,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 38 | [Não Me Chama de B\*tch!](https://open.spotify.com/track/3zfQ7bpsPlD17nUXFsg5TY) | [Bárbara Grando](https://open.spotify.com/artist/3Q7SOEZnnLV4lzp4I09k9F) | [Não Me Chama de B\*tch!](https://open.spotify.com/album/24OF1ZkPvnIHT1NqnwLBFr) | 2:48 |
 | 39 | [Vingativa](https://open.spotify.com/track/5sYtsBdGz8TeFYxERi2QTe) | [Attlanta](https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX) | [Futuro II Dia](https://open.spotify.com/album/6ZIGGpDGt3wkgHtEgmBE1a) | 3:12 |
 | 40 | [Pra Te Envolver](https://open.spotify.com/track/31vJOmz9qawxWqIGadYLq2) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Pra Te Envolver](https://open.spotify.com/album/5gZptLNPQo1jl93XlyIFF1) | 2:15 |
-| 41 | [Sagaz](https://open.spotify.com/track/29bg2slgQdSLT0tjsR95b9) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Luka G](https://open.spotify.com/artist/7C8aOOowROEiSZ9YfhFAg9), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Sagaz](https://open.spotify.com/album/1qysRiSfDDpuxQNaS8AG6p) | 2:15 |
+| 41 | [Sagaz](https://open.spotify.com/track/29bg2slgQdSLT0tjsR95b9) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Sagaz](https://open.spotify.com/album/1qysRiSfDDpuxQNaS8AG6p) | 2:15 |
 | 42 | [Campo Minado](https://open.spotify.com/track/2uPmyJMVozLNBE6YermhOM) | [Luacih](https://open.spotify.com/artist/7zsL7ceYrzvikWVlI7BnTI), [kvns](https://open.spotify.com/artist/2sjuykDI11jxTPdj2qosn4) | [Campo Minado](https://open.spotify.com/album/1GVoV2r9U7dZNKWXvXFX27) | 3:15 |
 | 43 | [Mal Acostumada](https://open.spotify.com/track/0RWjEc3Y45ZVYHVwqRwiPz) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Mal Acostumada](https://open.spotify.com/album/35BcLJ5tKOzbqKKqIgTeIB) | 2:16 |
 | 44 | [Brincando com Fogo](https://open.spotify.com/track/5PBBFVKYsPBj5qUs2O9QwI) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Brincando com Fogo](https://open.spotify.com/album/4fTVijJjlJ0oR9HpGHW1yk) | 3:02 |
-| 45 | [Malas Prontas](https://open.spotify.com/track/5tHCD2TzqXr91NqUCBnTpO) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Kary](https://open.spotify.com/artist/01BlVHDAqPgLw407BsxqzN), [Luka G](https://open.spotify.com/artist/7C8aOOowROEiSZ9YfhFAg9), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Malas Prontas](https://open.spotify.com/album/3NoLX9JnxmOaC0EfwKezAD) | 2:37 |
+| 45 | [Malas Prontas](https://open.spotify.com/track/5tHCD2TzqXr91NqUCBnTpO) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Kary](https://open.spotify.com/artist/01BlVHDAqPgLw407BsxqzN), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Malas Prontas](https://open.spotify.com/album/3NoLX9JnxmOaC0EfwKezAD) | 2:37 |
 | 46 | [Sinto Te Dizer](https://open.spotify.com/track/5O1UvWpcxMjT5ZoCjfAy2u) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ) | [Sinto Te Dizer](https://open.spotify.com/album/6HEscFE5brELtlw4Nfl76V) | 3:22 |
 | 47 | [First](https://open.spotify.com/track/0oomKGn85TDeVwhSIiTLQA) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [First](https://open.spotify.com/album/3cdm9REaJt8UGdSC3N2gSN) | 2:12 |
 | 48 | [Baby Hair](https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6) | [Pretta Poder](https://open.spotify.com/artist/6CEm11gYIUP8EeirFIXAYt), [Chris Beats Zn](https://open.spotify.com/artist/0YOr5sV4zMMyj5xviWiFjW), [SoudCrime](https://open.spotify.com/artist/0Huu7Wxkay3mCaoMuVkRNg) | [Baby Hair](https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo) | 2:33 |

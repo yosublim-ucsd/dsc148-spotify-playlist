@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 274297,
+  "num_followers": 274314,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTM0MzU5MywwMDAwMDAwMDA3MDcwYzM4OGIzNzFlODA5ZTVjYzdkMTdmMWUwZTcw",
+  "snapshot_id": "MTY3OTM0MzU5MywwMDAwMDAwMDBjYWZlMzc5MTBkMDdhODA3MzJmZmQyNmIyOGQ3OGQ2",
   "tracks": [
     {
       "added_at": "2023-03-20 20:19:53",
@@ -507,26 +507,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "The Acoustics",
-        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        },
-        {
-          "name": "BullySongs",
-          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
-        }
-      ],
-      "duration_ms": 161724,
-      "name": "Walking With Shadows - Acoustic Version",
-      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Lonely Together (Acoustic)",
         "url": "https://open.spotify.com/album/3IPBaA3vOQN7aGCQoZU40K"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 225106,
       "name": "Wake Me Up - Acoustic",
       "url": "https://open.spotify.com/track/5axBwqXk8lLdtdc1tLCNPn"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "The Acoustics",
+        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        },
+        {
+          "name": "BullySongs",
+          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
+        }
+      ],
+      "duration_ms": 161724,
+      "name": "Walking With Shadows - Acoustic Version",
+      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -639,26 +639,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Sun Comes Up (Acoustic)",
-        "url": "https://open.spotify.com/album/0nV7xy2faNV4ckOpZTJhhs"
-      },
-      "artists": [
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 255582,
-      "name": "Sun Comes Up - Acoustic",
-      "url": "https://open.spotify.com/track/2YO0VBWKaIdtUqfOKelqF1"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
         "url": "https://open.spotify.com/album/0FXgNlUQuffimeBnWUsepH"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 188527,
       "name": "Deep Down (Acoustic Version) (feat. Never Dull)",
       "url": "https://open.spotify.com/track/4Sea2XMlbP2Yt8E5CMwvbb"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Sun Comes Up (Acoustic)",
+        "url": "https://open.spotify.com/album/0nV7xy2faNV4ckOpZTJhhs"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 255582,
+      "name": "Sun Comes Up - Acoustic",
+      "url": "https://open.spotify.com/track/2YO0VBWKaIdtUqfOKelqF1"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -875,26 +875,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "DON'T LOOK DOWN (feat. Lizzy Land) [Acoustic]",
-        "url": "https://open.spotify.com/album/3vjUqxIylUXnCzjtebAmCg"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
-        }
-      ],
-      "duration_ms": 191225,
-      "name": "DON'T LOOK DOWN (feat. Lizzy Land) - Acoustic",
-      "url": "https://open.spotify.com/track/0wHwGDYc8nltuYykhZRKln"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Crazy What Love Can Do (Acoustic)",
         "url": "https://open.spotify.com/album/3iRtMz9n1e2yd2TBiuT83x"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 188644,
       "name": "Crazy What Love Can Do - Acoustic",
       "url": "https://open.spotify.com/track/0cCz33JLQYo8LQTddyF0IY"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "DON'T LOOK DOWN (feat. Lizzy Land) [Acoustic]",
+        "url": "https://open.spotify.com/album/3vjUqxIylUXnCzjtebAmCg"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        }
+      ],
+      "duration_ms": 191225,
+      "name": "DON'T LOOK DOWN (feat. Lizzy Land) - Acoustic",
+      "url": "https://open.spotify.com/track/0wHwGDYc8nltuYykhZRKln"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "Say Nothing (MAY-A\u2019s Version)",
+        "url": "https://open.spotify.com/album/08GGyfCuW03I97rDzpfv8K"
+      },
+      "artists": [
+        {
+          "name": "MAY-A",
+          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
+        }
+      ],
+      "duration_ms": 217894,
+      "name": "Say Nothing - MAY-A\u2019s Version",
+      "url": "https://open.spotify.com/track/4pIuWMo1pUkVGId6w2Ib3T"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Living Without You (Acoustic)",
         "url": "https://open.spotify.com/album/5sFCDMxGb2T6DkMgEFNTFU"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 211967,
       "name": "You Were Loved (with OneRepublic) - Acoustic",
       "url": "https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Say Nothing (MAY-A\u2019s Version)",
-        "url": "https://open.spotify.com/album/08GGyfCuW03I97rDzpfv8K"
-      },
-      "artists": [
-        {
-          "name": "MAY-A",
-          "url": "https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN"
-        }
-      ],
-      "duration_ms": 217894,
-      "name": "Say Nothing - MAY-A\u2019s Version",
-      "url": "https://open.spotify.com/track/4pIuWMo1pUkVGId6w2Ib3T"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "Better Half Of Me",
+        "url": "https://open.spotify.com/album/79kh6SAXvgQk0GCtpTRSGG"
+      },
+      "artists": [
+        {
+          "name": "Dash Berlin",
+          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+        },
+        {
+          "name": "Jonathan Mendelsohn",
+          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
+        }
+      ],
+      "duration_ms": 212846,
+      "name": "Better Half Of Me - Acoustic Mix",
+      "url": "https://open.spotify.com/track/1m5ZEyOd6b6RU6wJbdh6u1"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Real Life (Acoustic)",
         "url": "https://open.spotify.com/album/31IHRCGs5lvEvDkaDjr3eZ"
       },
@@ -1475,26 +1495,6 @@
       "duration_ms": 222275,
       "name": "Real Life - Acoustic",
       "url": "https://open.spotify.com/track/4Ujd4ROrsrujyD4GQZi4oh"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Better Half Of Me",
-        "url": "https://open.spotify.com/album/79kh6SAXvgQk0GCtpTRSGG"
-      },
-      "artists": [
-        {
-          "name": "Dash Berlin",
-          "url": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
-        },
-        {
-          "name": "Jonathan Mendelsohn",
-          "url": "https://open.spotify.com/artist/5d1oOpLkM76Tgr2zWMTYkm"
-        }
-      ],
-      "duration_ms": 212846,
-      "name": "Better Half Of Me - Acoustic Mix",
-      "url": "https://open.spotify.com/track/1m5ZEyOd6b6RU6wJbdh6u1"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Brighter Future",
-        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
-      },
-      "artists": [
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        }
-      ],
-      "duration_ms": 139701,
-      "name": "Long Time Coming",
-      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Mad World (Acoustic Version)",
         "url": "https://open.spotify.com/album/4Eq4A8AIi4PvXOEqrK2Iaq"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 169200,
       "name": "Mad World - Acoustic Version",
       "url": "https://open.spotify.com/track/3uXVW7yEmJvVeslQae2dc3"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Brighter Future",
+        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
+      },
+      "artists": [
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "duration_ms": 139701,
+      "name": "Long Time Coming",
+      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "Acoustic Collection (Vol. 1)",
+        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        }
+      ],
+      "duration_ms": 199080,
+      "name": "Surrender - Acoustic",
+      "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Best Is Yet To Come (with Kyle Reynolds) [Acoustic]",
         "url": "https://open.spotify.com/album/3pvNPVnQSVUgNzUs96A0pa"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 205159,
       "name": "Best Is Yet To Come (with Kyle Reynolds) - Acoustic",
       "url": "https://open.spotify.com/track/300r68E8TGRV1xoLatMgek"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Acoustic Collection (Vol. 1)",
-        "url": "https://open.spotify.com/album/3Gu0M7EGjPvdEP1vNlEQMk"
-      },
-      "artists": [
-        {
-          "name": "Cash Cash",
-          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
-        }
-      ],
-      "duration_ms": 199080,
-      "name": "Surrender - Acoustic",
-      "url": "https://open.spotify.com/track/5Q92iqDv61uNqMLABwdqWW"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1787,6 +1787,26 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "Watch the World",
+        "url": "https://open.spotify.com/album/3SgOQ6KcasJBRfK5nZtbUf"
+      },
+      "artists": [
+        {
+          "name": "Markus Schulz",
+          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
+        },
+        {
+          "name": "Kyau & Albert",
+          "url": "https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc"
+        }
+      ],
+      "duration_ms": 201748,
+      "name": "Fears - Acoustic Version",
+      "url": "https://open.spotify.com/track/1yQ8FL5C0EUY3jGnEUzopj"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Looking For Me (Remixes)",
         "url": "https://open.spotify.com/album/0IR8DIvSzJAGlSGqypZsNE"
       },
@@ -1807,26 +1827,6 @@
       "duration_ms": 163562,
       "name": "Looking For Me - Acoustic",
       "url": "https://open.spotify.com/track/5lyamXh1WgObdOl7Cmsgol"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Watch the World",
-        "url": "https://open.spotify.com/album/3SgOQ6KcasJBRfK5nZtbUf"
-      },
-      "artists": [
-        {
-          "name": "Markus Schulz",
-          "url": "https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL"
-        },
-        {
-          "name": "Kyau & Albert",
-          "url": "https://open.spotify.com/artist/0pyi4vNCq5T6GgV1rt7ncc"
-        }
-      ],
-      "duration_ms": 201748,
-      "name": "Fears - Acoustic Version",
-      "url": "https://open.spotify.com/track/1yQ8FL5C0EUY3jGnEUzopj"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Moon Faces (Acoustic Journey)",
-        "url": "https://open.spotify.com/album/2PKQRTPkOdcgdyBFnu2fK0"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        },
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Lost - Acoustic",
-      "url": "https://open.spotify.com/track/0FMV06iWpotUirc42n1Oj4"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Diplo (Deluxe)",
         "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
       },
@@ -1927,6 +1907,26 @@
       "duration_ms": 194594,
       "name": "Don't Forget My Love - Acoustic",
       "url": "https://open.spotify.com/track/11A85UqLSvYdT8Lxba3nVL"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Moon Faces (Acoustic Journey)",
+        "url": "https://open.spotify.com/album/2PKQRTPkOdcgdyBFnu2fK0"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Lost - Acoustic",
+      "url": "https://open.spotify.com/track/0FMV06iWpotUirc42n1Oj4"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1967,22 +1967,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "No Time For Tears (Acoustic)",
-        "url": "https://open.spotify.com/album/6JdEdTE43TPbQ49iawf3uw"
+        "name": "Kids in Love (Remixes)",
+        "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
       },
       "artists": [
         {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+          "name": "The Night Game",
+          "url": "https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs"
         }
       ],
-      "duration_ms": 205305,
-      "name": "No Time For Tears - Acoustic",
-      "url": "https://open.spotify.com/track/6j7JXcBcgkqiMV7RMWzcpk"
+      "duration_ms": 245066,
+      "name": "Kids in Love (feat. The Night Game) - Acoustic Version",
+      "url": "https://open.spotify.com/track/0b683lyejYRh6CBWJQgExw"
     }
   ],
   "unique_name": "mint Acoustic",

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 4065347,
+  "num_followers": 4066021,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ5MzE1NywwMDAwMDAwMDQzODhiYWEwODU1NDA4Y2Y4MzNmZGM2ZDhkOWRiMzJl",
+  "snapshot_id": "MTY4MTQ5MzE1NywwMDAwMDAwMDk2YTdjZmY2MTIzYzdhMzM4ODRmYzBmMDMxZjZjN2Y4",
   "tracks": [
     {
       "added_at": "2023-04-14 17:25:57",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-04-14 17:25:57",
       "album": {
+        "name": "Aire (Versi\u00f3n D\u00eda)",
+        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Te Esper\u00e9",
+      "url": "https://open.spotify.com/track/6W8Rl6LMWjCL17EvLlkyxc"
+    },
+    {
+      "added_at": "2023-04-14 17:25:57",
+      "album": {
         "name": "Vicentico 5",
         "url": "https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 242446,
       "name": "Te Regalo",
       "url": "https://open.spotify.com/track/4brw4anhV4og38Rv6o1dBa"
-    },
-    {
-      "added_at": "2023-04-14 17:25:57",
-      "album": {
-        "name": "Aire (Versi\u00f3n D\u00eda)",
-        "url": "https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Te Esper\u00e9",
-      "url": "https://open.spotify.com/track/6W8Rl6LMWjCL17EvLlkyxc"
     },
     {
       "added_at": "2023-04-14 17:25:57",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-04-14 17:25:57",
       "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
+        "name": "Fantas\u00eda o realidad",
+        "url": "https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe"
       },
       "artists": [
         {
-          "name": "Onda Vaselina",
-          "url": "https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw"
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
         }
       ],
-      "duration_ms": 187666,
-      "name": "Te Quiero Tanto, Tanto",
-      "url": "https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx"
+      "duration_ms": 266666,
+      "name": "Aunque no te pueda ver",
+      "url": "https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm"
     },
     {
       "added_at": "2023-04-14 17:25:57",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-04-14 17:25:57",
       "album": {
-        "name": "Fantas\u00eda o realidad",
-        "url": "https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe"
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
       },
       "artists": [
         {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+          "name": "Onda Vaselina",
+          "url": "https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw"
         }
       ],
-      "duration_ms": 266666,
-      "name": "Aunque no te pueda ver",
-      "url": "https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm"
+      "duration_ms": 187666,
+      "name": "Te Quiero Tanto, Tanto",
+      "url": "https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx"
     },
     {
       "added_at": "2023-04-14 17:25:57",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-04-14 17:25:57",
       "album": {
-        "name": "De Mi Para Ti",
-        "url": "https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Eazt",
-      "url": "https://open.spotify.com/track/4et8cFiIp4NPpWfULoukzc"
-    },
-    {
-      "added_at": "2023-04-14 17:25:57",
-      "album": {
         "name": "Franco De Vita En Primera Fila",
         "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 218760,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
+    },
+    {
+      "added_at": "2023-04-14 17:25:57",
+      "album": {
+        "name": "De Mi Para Ti",
+        "url": "https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Eazt",
+      "url": "https://open.spotify.com/track/4et8cFiIp4NPpWfULoukzc"
     },
     {
       "added_at": "2023-04-14 17:25:57",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2023-04-14 17:25:57",
       "album": {
-        "name": "Negroklaro",
-        "url": "https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM"
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
       "artists": [
         {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
         }
       ],
-      "duration_ms": 221293,
-      "name": "S\u00f3lo D\u00e9jate Amar",
-      "url": "https://open.spotify.com/track/7mUFcQWYwoRxRa5ZfI2mHG"
+      "duration_ms": 281640,
+      "name": "A Medio Vivir",
+      "url": "https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah"
     },
     {
       "added_at": "2023-04-14 17:25:57",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-04-14 17:25:57",
       "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+        "name": "Negroklaro",
+        "url": "https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
         }
       ],
-      "duration_ms": 281640,
-      "name": "A Medio Vivir",
-      "url": "https://open.spotify.com/track/4h9WxkuyzScrrPiK9nYtah"
+      "duration_ms": 221293,
+      "name": "S\u00f3lo D\u00e9jate Amar",
+      "url": "https://open.spotify.com/track/7mUFcQWYwoRxRa5ZfI2mHG"
     },
     {
       "added_at": "2023-04-14 17:25:57",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-04-14 17:25:57",
       "album": {
-        "name": "Agust\u00edn",
-        "url": "https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        }
-      ],
-      "duration_ms": 248533,
-      "name": "Ven",
-      "url": "https://open.spotify.com/track/0UDnTve3eqcCqBDLbHhX1k"
-    },
-    {
-      "added_at": "2023-04-14 17:25:57",
-      "album": {
         "name": "Montaner",
         "url": "https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 227520,
       "name": "Te Adorar\u00e9",
       "url": "https://open.spotify.com/track/3e4lLl0zCsOmiXjl9rBfNk"
+    },
+    {
+      "added_at": "2023-04-14 17:25:57",
+      "album": {
+        "name": "Agust\u00edn",
+        "url": "https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "duration_ms": 248533,
+      "name": "Ven",
+      "url": "https://open.spotify.com/track/0UDnTve3eqcCqBDLbHhX1k"
     },
     {
       "added_at": "2023-04-14 17:25:57",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-04-14 17:25:57",
       "album": {
-        "name": "Reik",
-        "url": "https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 217986,
-      "name": "Yo Quisiera",
-      "url": "https://open.spotify.com/track/1neSvFc8QotDXOJtXY7b8M"
-    },
-    {
-      "added_at": "2023-04-14 17:25:57",
-      "album": {
         "name": "Apague la Luz y Escuche",
         "url": "https://open.spotify.com/album/1Ke5xraBJtqZ8mM8Rb62TN"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 210373,
       "name": "Nada Es Como T\u00fa - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0FJoj1lLkUDPH4dazfrBOz"
+    },
+    {
+      "added_at": "2023-04-14 17:25:57",
+      "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/16QRglfvF1gpz6GLsBC1gU"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 217986,
+      "name": "Yo Quisiera",
+      "url": "https://open.spotify.com/track/1neSvFc8QotDXOJtXY7b8M"
     },
     {
       "added_at": "2023-04-14 17:25:57",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-04-14 17:25:57",
       "album": {
-        "name": "A Un Mil\u00edmetro De Ti Y Cada Vez M\u00e1s Cerca (Edici\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/1oSumrff62Iuju1SChmSzx"
-      },
-      "artists": [
-        {
-          "name": "Antonio Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
-        }
-      ],
-      "duration_ms": 229198,
-      "name": "A Un Mil\u00edmetro De Ti",
-      "url": "https://open.spotify.com/track/5v9oKnuJ4e7XDRybgktKVq"
-    },
-    {
-      "added_at": "2023-04-14 17:25:57",
-      "album": {
         "name": "Negroklaro",
         "url": "https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM"
       },
@@ -1739,18 +1723,34 @@
     {
       "added_at": "2023-04-14 17:25:57",
       "album": {
-        "name": "S\u00f3lo Para Mujeres",
-        "url": "https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9"
+        "name": "A Un Mil\u00edmetro De Ti Y Cada Vez M\u00e1s Cerca (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/1oSumrff62Iuju1SChmSzx"
       },
       "artists": [
         {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
         }
       ],
-      "duration_ms": 281800,
-      "name": "Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/5pSfMKeflHUgtXJHIXzioQ"
+      "duration_ms": 229198,
+      "name": "A Un Mil\u00edmetro De Ti",
+      "url": "https://open.spotify.com/track/5v9oKnuJ4e7XDRybgktKVq"
+    },
+    {
+      "added_at": "2023-04-14 17:25:57",
+      "album": {
+        "name": "Extra\u00f1os",
+        "url": "https://open.spotify.com/album/3VgQqkogbq1J5tNxz0Cbbj"
+      },
+      "artists": [
+        {
+          "name": "Zeri",
+          "url": "https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8"
+        }
+      ],
+      "duration_ms": 225428,
+      "name": "As\u00ed Te Ped\u00ed",
+      "url": "https://open.spotify.com/track/79Le7RyHdaPC1eEZBpFm4x"
     }
   ],
   "unique_name": "Baladas Rom\u00e1nticas",

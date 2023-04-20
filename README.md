@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(5946\)
+## Playlists \(5950\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1044,6 +1044,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [City Pop: シティ・ポップの今](/playlists/pretty/37i9dQZF1DXdY5tVYFPWb2.md)
 - [City Sounds for Sleep](/playlists/pretty/37i9dQZF1DWZwRv0cVNFLv.md)
 - [City to City](/playlists/pretty/37i9dQZF1DWWIfrT204w7E.md)
+- [Clark Official Playlist](/playlists/pretty/37i9dQZF1DWXJ3uKRXjFdH.md)
 - [Classic Acoustic](/playlists/pretty/37i9dQZF1DX504r1DvyvxG.md)
 - [Classic Afropop](/playlists/pretty/37i9dQZF1DXcIme26eJxid.md)
 - [Classic Artists New Music](/playlists/pretty/37i9dQZF1DWX3wsvr7czQx.md)
@@ -2754,6 +2755,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Make Out Jams](/playlists/pretty/37i9dQZF1DXbEm2sKzgoJ8.md)
 - [Mal de Amores](/playlists/pretty/37i9dQZF1DX68aCfKW9xMy.md)
 - [Malandro Posturado](/playlists/pretty/37i9dQZF1DWUOuypaVNd01.md)
+- [Malcolm & Marie Official Playlist](/playlists/pretty/37i9dQZF1DXcootfrxPg7o.md)
 - [Maldita Hamburguesa](/playlists/pretty/37i9dQZF1DWVtFO27AQ6dF.md)
 - [Malkia](/playlists/pretty/37i9dQZF1DX16usLA71XGW.md)
 - [Mall Anthems](/playlists/pretty/37i9dQZF1DX5QvuBqAhuBS.md)
@@ -3338,7 +3340,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Poolside Disco](/playlists/pretty/37i9dQZF1DWSvfPiFfb8Mi.md)
 - [Poolside Grooves](/playlists/pretty/37i9dQZF1DX2cEUXdJJLVG.md)
 - [Poolside Lounge](/playlists/pretty/37i9dQZF1DWZSdcRHMl2tT.md)
-- [Pop 4 Kids](/playlists/pretty/37i9dQZF1DWZhxU4AiByxO.md)
+- [Pop                4 Kids](/playlists/pretty/37i9dQZF1DWZhxU4AiByxO.md)
 - [Pop Acústico](/playlists/pretty/37i9dQZF1DX2d27idkCNWu.md)
 - [Pop All Day](/playlists/pretty/37i9dQZF1DXarRysLJmuju.md)
 - [Pop Brasil](/playlists/pretty/37i9dQZF1DWVLcZxJO5zyf.md)
@@ -3939,6 +3941,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Smooth Jazz Beats](/playlists/pretty/37i9dQZF1DX06817kK7cRP.md)
 - [Smooth Jazz Chill](/playlists/pretty/37i9dQZF1DX6lttj7ulLd6.md)
 - [Smooth Jazz Classics](/playlists/pretty/37i9dQZF1DWSSSls9eK29h.md)
+- [Snabba Cash Official Playlist](/playlists/pretty/37i9dQZF1DX1In9sy8Har4.md)
 - [Snack Time](/playlists/pretty/37i9dQZF1DWYieCBJS5DXo.md)
 - [Snowdrop \(설강화\)](/playlists/pretty/37i9dQZF1DWSV7xFZCVx23.md)
 - [Soak Up the Sun](/playlists/pretty/37i9dQZF1DX6ALfRKlHn1t.md)
@@ -4586,6 +4589,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [This Is Five Finger Death Punch](/playlists/pretty/37i9dQZF1DZ06evO3dwoSs.md)
 - [This Is Fleet Foxes](/playlists/pretty/37i9dQZF1DWWpEiFt0w46m.md)
 - [This Is Flo Milli](/playlists/pretty/37i9dQZF1DZ06evO00Q0Yo.md)
+- [This Is Foo Fighters](/playlists/pretty/37i9dQZF1DZ06evO4kqwHC.md)
 - [This Is Frank Sinatra](/playlists/pretty/37i9dQZF1DX4H3NUOwVLXj.md)
 - [This Is Funeral For A Friend](/playlists/pretty/37i9dQZF1DZ06evO2Gwh1O.md)
 - [This Is Future](/playlists/pretty/37i9dQZF1DWVstK6FYh8Nw.md)
@@ -5816,7 +5820,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [pov: te rompió el corazón](/playlists/pretty/37i9dQZF1DWSCmQCuAzM4J.md)
 - [pov: u borrowed an alien's headphones](/playlists/pretty/37i9dQZF1DWW9lEco8NkcU.md)
 - [pov: ur slow dancing with your love at midnight](/playlists/pretty/37i9dQZF1DWZcQCn3wRBSc.md)
-- [pov: you're obsessed with a popstar](/playlists/pretty/37i9dQZF1DX9c9lP3B4zeE.md)
+- [pov: ur watching a festival from the couch](/playlists/pretty/37i9dQZF1DX9c9lP3B4zeE.md)
 - [primavera chill](/playlists/pretty/37i9dQZF1DX5tzVwq5dYaq.md)
 - [pulp](/playlists/pretty/37i9dQZF1DX3IplhwNexYg.md)
 - [pumpkin spice](/playlists/pretty/37i9dQZF1DX6cFbK8tUIPC.md)

@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to being to best version of you.",
-  "num_followers": 404861,
+  "num_followers": 404911,
   "original_name": "The Glow Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMDliM2NkMjAwNTFjNzk0MDNhZDA1ODc4NWNiMTU0MTRl",
+  "snapshot_id": "MTY4MDIxNzIwMCwwMDAwMDAwMDVlOTNmMjYxNjI3ZDg3ODRhMTRlZDhjOTcwMGI0ZDc1",
   "tracks": [
     {
       "added_at": "2023-03-30 23:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "Celestial",
-        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "Celestial",
-      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
@@ -679,6 +663,38 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
+        "name": "Teatro d'ira - Vol. I",
+        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "I WANNA BE YOUR SLAVE",
+      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
         "name": "My Universe",
         "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
-        "name": "Teatro d'ira - Vol. I",
-        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "I WANNA BE YOUR SLAVE",
-      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
     },
     {
       "added_at": "2023-03-30 23:00:00",
@@ -783,26 +783,6 @@
     {
       "added_at": "2023-03-30 23:00:00",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
-      },
-      "artists": [
-        {
-          "name": "24kGoldn",
-          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
-        },
-        {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
-        }
-      ],
-      "duration_ms": 140533,
-      "name": "Mood (feat. iann dior)",
-      "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
-    },
-    {
-      "added_at": "2023-03-30 23:00:00",
-      "album": {
         "name": "Words (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 142677,
       "name": "Words (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
+    },
+    {
+      "added_at": "2023-03-30 23:00:00",
+      "album": {
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq"
+      },
+      "artists": [
+        {
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "duration_ms": 140533,
+      "name": "Mood (feat. iann dior)",
+      "url": "https://open.spotify.com/track/4jPy3l0RUwlUI9T5XHBW2m"
     },
     {
       "added_at": "2023-03-30 23:00:00",

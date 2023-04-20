@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Ele A in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,057 likes - 60 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,078 likes - 60 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 35 | [Inshallah](https://open.spotify.com/track/7cbZFOT8eJ2cZly97gjWzq) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [Inshallah](https://open.spotify.com/album/37CLRhs5jpWYqegh7pKkkQ) | 2:44 |
 | 36 | [Alo](https://open.spotify.com/track/1weSmVevss3ls6dngOZx27) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4) | [Alo](https://open.spotify.com/album/4gO4c8KUOUnmT9JKmNNr0v) | 3:04 |
 | 37 | [Se ti amo](https://open.spotify.com/track/0DuEBifTJH7UUCCZXxffXh) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Se ti amo](https://open.spotify.com/album/6KWpVZnQuIcwQYHCDbiPhF) | 2:10 |
-| 38 | [CHIAMA](https://open.spotify.com/track/0aY1osZnr4zro1o5gzetdA) | [Xhovana](https://open.spotify.com/artist/1qvJn4A1Y6gej2kJU0DWxX) | [CHIAMA](https://open.spotify.com/album/3u0DNXDUCxRzyuuKFGpFuP) | 2:53 |
+| 38 | [CHIAMA](https://open.spotify.com/track/0aY1osZnr4zro1o5gzetdA) | [Xhovana](https://open.spotify.com/artist/1qvJn4A1Y6gej2kJU0DWxX), [VXXO](https://open.spotify.com/artist/3YtQrwxvFkTMpH0F6e4r9H) | [CHIAMA](https://open.spotify.com/album/3u0DNXDUCxRzyuuKFGpFuP) | 2:53 |
 | 39 | [Bandit](https://open.spotify.com/track/0U9hvXudneGTIO3WtpVoh0) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw) | [Bandit](https://open.spotify.com/album/2gzqXgZ8Qdzyb0H7VvXmc9) | 2:54 |
 | 40 | [Ogni 2 Minuti](https://open.spotify.com/track/7BXVTzqKxMZywSrdIJm9yQ) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Ogni 2 Minuti](https://open.spotify.com/album/0LKW0DkGUMLkZFMhSMuHiA) | 2:35 |
 | 41 | [Pronto](https://open.spotify.com/track/34KXZcVcIaivELMEGQgk9M) | [YD Frost](https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L) | [Pronto](https://open.spotify.com/album/3WaCFgHj2H2dWIlzvbTb47) | 1:55 |

@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Akanksha Bhandari
 
-192 songs - 11 hr 6 min
+193 songs - 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Betahasha](https://open.spotify.com/track/7D5x7oRRK279Tx3SzJ95it) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Nilotpal Sinha](https://open.spotify.com/artist/5JJJXKgD03icW3z2dkjTTV) | [Betahasha](https://open.spotify.com/album/56DhJ2JIMfgT8mEI5VczxT) | 3:16 | 2022-06-20 | 2023-04-18 |
 | [Blush](https://open.spotify.com/track/6IjeHG6oLIkZeSq2SMEAtd) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Blush](https://open.spotify.com/album/5XLBXjciXLRxhhRI99zaOP) | 3:19 | 2021-12-06 | 2022-11-19 |
 | [Butterflies](https://open.spotify.com/track/033GYoHqCnmfr1LTqyViIl) | [Nida](https://open.spotify.com/artist/3uJI2m1BhqeAmoYBzRcuLs), [Derric D'souza](https://open.spotify.com/artist/5d5eoKkR83aVdBq4CCHG1b) | [Butterflies](https://open.spotify.com/album/19Yi3gxMj8QCiA6zUcGi2N) | 2:33 | 2021-12-06 | 2022-02-05 |
+| [Bye](https://open.spotify.com/track/0GamKm5LCEwxFh8p2VWvnq) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Bye](https://open.spotify.com/album/6OVWPaE71jVbIOqDAdlaDm) | 2:54 | 2023-04-19 |  |
 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 | 2022-02-24 |  |
 | [Chaand Baaliyan](https://open.spotify.com/track/0vaPHw608M1jHif7kO2TSc) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/0Q40XX2V1XxzMSyFi95J7h) | 1:43 | 2022-02-18 | 2022-02-25 |
 | [Choo Lo](https://open.spotify.com/track/2qgXrzJsry4KgYoJCpuaul) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/4U2xdJPJfGo2HofVpSynwO) | 3:53 | 2021-12-06 |  |

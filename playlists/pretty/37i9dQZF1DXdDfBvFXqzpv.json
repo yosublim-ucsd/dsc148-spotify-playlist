@@ -1,12 +1,12 @@
 {
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
-  "num_followers": 90599,
+  "num_followers": 90638,
   "original_name": "EA SPORTS FIFA Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzM5NzYwMCwwMDAwMDAwMGU2OWUwY2RmMTY1MzAzZWZhZmIyN2U4YjZhYmVjYmRj",
+  "snapshot_id": "MTY2NzM5NzYwMCwwMDAwMDAwMDQ5YmM0ZGQ1Yjg1N2Q5MDRiYzk1NWVjM2UxMDJhODA5",
   "tracks": [
     {
       "added_at": "2022-11-02 14:00:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 302840,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 212439,
       "name": "Supermassive Black Hole",
       "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 302840,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "seaside_demo",
-        "url": "https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT"
-      },
-      "artists": [
-        {
-          "name": "SEB",
-          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "seaside_demo",
-      "url": "https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "My Type EP",
         "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 204811,
       "name": "My Type",
       "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "seaside_demo",
+        "url": "https://open.spotify.com/album/5azRQ4hk4TEVhQWXEgE2WT"
+      },
+      "artists": [
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "seaside_demo",
+      "url": "https://open.spotify.com/track/1SgUjGzbmmMOsGFTVwQ59L"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
+        "name": "Window",
+        "url": "https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 139293,
+      "name": "Window",
+      "url": "https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
         "name": "Followers",
         "url": "https://open.spotify.com/album/3YRKOtLYysmk04YlzvpnU3"
       },
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Window",
-        "url": "https://open.spotify.com/album/4JxgricHyH0BbMUaefAHfR"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 139293,
-      "name": "Window",
-      "url": "https://open.spotify.com/track/3hARuUtzTdUuWH1KiLJlSf"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Me Gusta (with Cardi B & Myke Towers)",
         "url": "https://open.spotify.com/album/5J7bWCachL4Q662xAfzyJd"
       },
@@ -1243,26 +1243,6 @@
       "duration_ms": 180788,
       "name": "Me Gusta (with Cardi B & Myke Towers)",
       "url": "https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
-        "name": "BIEN O MAL",
-        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Victor Heredia",
-          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
-        }
-      ],
-      "duration_ms": 237658,
-      "name": "TIERRA ZANTA",
-      "url": "https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1295,6 +1275,26 @@
       "duration_ms": 209407,
       "name": "Stop This Flame",
       "url": "https://open.spotify.com/track/1bObrsJGW0UCIGZkvnDqbe"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "BIEN O MAL",
+        "url": "https://open.spotify.com/album/1HeNYlqvbUDkP97DJ33Kjl"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Victor Heredia",
+          "url": "https://open.spotify.com/artist/07S2B15CcvWG4jyfMhqx8X"
+        }
+      ],
+      "duration_ms": 237658,
+      "name": "TIERRA ZANTA",
+      "url": "https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y"
-      },
-      "artists": [
-        {
-          "name": "Loyle Carner",
-          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
-        }
-      ],
-      "duration_ms": 168654,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Kasabian",
         "url": "https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 197600,
       "name": "L.S.F.",
       "url": "https://open.spotify.com/track/1t8TCORVxdItzE3zy1X0tv"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2VZolgD2RKzb5F4gSNkx1Y"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "duration_ms": 168654,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/0pRyOQjr12h9RBEFmhbTQc"
     },
     {
       "added_at": "2022-11-02 14:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2022-11-02 14:00:00",
       "album": {
-        "name": "The Boy With No Name",
-        "url": "https://open.spotify.com/album/0uR1cnrej7aGnRIptQxVaR"
-      },
-      "artists": [
-        {
-          "name": "Travis",
-          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
-        }
-      ],
-      "duration_ms": 240626,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/7jP2937OACDPrN53DzO0Ye"
-    },
-    {
-      "added_at": "2022-11-02 14:00:00",
-      "album": {
         "name": "Wild World (Complete Edition)",
         "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 200987,
       "name": "Send Them Off!",
       "url": "https://open.spotify.com/track/4Wg7VfvO7NVG57R8cSPDQG"
+    },
+    {
+      "added_at": "2022-11-02 14:00:00",
+      "album": {
+        "name": "The Boy With No Name",
+        "url": "https://open.spotify.com/album/0uR1cnrej7aGnRIptQxVaR"
+      },
+      "artists": [
+        {
+          "name": "Travis",
+          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+        }
+      ],
+      "duration_ms": 240626,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/7jP2937OACDPrN53DzO0Ye"
     },
     {
       "added_at": "2022-11-02 14:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain]
 
 > canto de tristeza porque lo nuestro terminó
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,770 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,832 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain]
 | 19 | [Un Siglo Sin Ti](https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN) | 4:41 |
 | 20 | [Volver, Volver](https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 3:00 |
 | 21 | [Un Idiota](https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:19 |
-| 22 | [Te Fallé](https://open.spotify.com/track/2UDoZZSrs3NxlmvFZbffr4) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:51 |
-| 23 | [No Lo Hice Bien](https://open.spotify.com/track/211mktDmIq7g2Q4gBTXphj) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:03 |
+| 22 | [No Lo Hice Bien](https://open.spotify.com/track/211mktDmIq7g2Q4gBTXphj) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:03 |
+| 23 | [Te Fallé](https://open.spotify.com/track/2UDoZZSrs3NxlmvFZbffr4) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:51 |
 | 24 | [Cada Vez Te Extraño Más](https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Cada Vez Te Extraño Más](https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN) | 4:10 |
 | 25 | [Tu Recuerdo \(feat\. La Mari De Chambao & Tommy Torres\) \- MTV Unplugged Version](https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Lamari](https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Ricky Martin MTV Unplugged](https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM) | 4:07 |
 | 26 | [Y Volveré](https://open.spotify.com/track/1skQgtTyuxpGsKgWUEhz7s) | [Los Angeles Negros](https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx) | [Clásicos Latinos](https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd) | 4:03 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain]
 | 46 | [Perdóname](https://open.spotify.com/track/3gO8mvkxIcyF9N7Vd1WM2i) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo Superstar](https://open.spotify.com/album/1l6lAa8r9wh4s5TQbrG4RS) | 3:52 |
 | 47 | [Por Qué Nos Dijimos Adiós](https://open.spotify.com/track/738XO2aKhfoHC1yvySbBry) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Serie Sensacional Regional Mexican Yndio](https://open.spotify.com/album/58GJW5Vi2X7lbAbYCN8Xm2) | 3:10 |
 | 48 | [Perdóname](https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Una Mujer Bonita](https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS) | 3:31 |
-| 49 | [Duele](https://open.spotify.com/track/3qZ4beZNwiXKqGoopSzYBe) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Hecho En México \(Edición Especial\)](https://open.spotify.com/album/5VRiykfzXrzfY84WE1rRxj) | 3:13 |
-| 50 | [Perdón Por Tus Lágrimas](https://open.spotify.com/track/3YoLl2RHRhzKg3WhpaFRES) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Siempre Te Amaré](https://open.spotify.com/album/2vBkgzqbxptOQOnFqwJHos) | 3:57 |
+| 49 | [Perdón Por Tus Lágrimas](https://open.spotify.com/track/3YoLl2RHRhzKg3WhpaFRES) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Siempre Te Amaré](https://open.spotify.com/album/2vBkgzqbxptOQOnFqwJHos) | 3:57 |
+| 50 | [Duele](https://open.spotify.com/track/3qZ4beZNwiXKqGoopSzYBe) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Hecho En México \(Edición Especial\)](https://open.spotify.com/album/5VRiykfzXrzfY84WE1rRxj) | 3:13 |
 
-Snapshot ID: `MTY3NzE5NzMyMSwwMDAwMDAwMGQ0NDU0Y2JjZDlmNzgyZTkyZGM5ZmQwNzg3OGZjYmVh`
+Snapshot ID: `MTY3NzE5NzMyMSwwMDAwMDAwMGIyYWI2ODM4OGU5M2M1M2FlYzVkMmQ1ZDVlOGJkZGNj`

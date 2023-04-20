@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica en vivo de tus artistas favoritos del Regional Mexicano. Portada: Grupo Recluta y Adrian Chaparro",
-  "num_followers": 51300,
+  "num_followers": 51352,
   "original_name": "M\u00fasica Mexicana En Vivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMzk5MiwwMDAwMDAwMDkyNjk4NTMyYWE0N2E0ZGE2ZWM5NzhiZGZmZDg1MjU4",
+  "snapshot_id": "MTY3OTAzMzk5MiwwMDAwMDAwMDRjMTNhODA2YjBkYzU1YTY0ZmYwNzlhNWQ0YjJmNTM3",
   "tracks": [
     {
       "added_at": "2023-03-17 06:19:52",
@@ -643,26 +643,18 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "Y Si Me Miran",
-        "url": "https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R"
+        "name": "En Vivo, Vol.1",
+        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 213141,
-      "name": "Y Si Me Miran",
-      "url": "https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb"
+      "duration_ms": 187929,
+      "name": "Mas Que Amigos - En Vivo",
+      "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -723,18 +715,26 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "En Vivo, Vol.1",
-        "url": "https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM"
+        "name": "Y Si Me Miran",
+        "url": "https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 187929,
-      "name": "Mas Que Amigos - En Vivo",
-      "url": "https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB"
+      "duration_ms": 213141,
+      "name": "Y Si Me Miran",
+      "url": "https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "La Mb",
-        "url": "https://open.spotify.com/album/5R2kp5lNX5KmyRxFw4bRfl"
-      },
-      "artists": [
-        {
-          "name": "Panchito Arredondo",
-          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
-        }
-      ],
-      "duration_ms": 203522,
-      "name": "La Mb",
-      "url": "https://open.spotify.com/track/3FfCRdvFfPA93T8zT2dGqV"
-    },
-    {
-      "added_at": "2023-03-17 06:19:52",
-      "album": {
         "name": "Celoso",
         "url": "https://open.spotify.com/album/1PxZzOT3pK0MXifTBF4Wwj"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 201084,
       "name": "Celoso",
       "url": "https://open.spotify.com/track/6FDRwxDRtGhyISlA1d3uCy"
+    },
+    {
+      "added_at": "2023-03-17 06:19:52",
+      "album": {
+        "name": "La Mb",
+        "url": "https://open.spotify.com/album/5R2kp5lNX5KmyRxFw4bRfl"
+      },
+      "artists": [
+        {
+          "name": "Panchito Arredondo",
+          "url": "https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV"
+        }
+      ],
+      "duration_ms": 203522,
+      "name": "La Mb",
+      "url": "https://open.spotify.com/track/3FfCRdvFfPA93T8zT2dGqV"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
+        "name": "Lives Pa' la Raza",
+        "url": "https://open.spotify.com/album/5yMgi325xqK2QyENnFzCHU"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "duration_ms": 134234,
+      "name": "La Flechita",
+      "url": "https://open.spotify.com/track/5qmaaLhRmb0QZZtsLwYVwr"
+    },
+    {
+      "added_at": "2023-03-17 06:19:52",
+      "album": {
         "name": "El Mensaje",
         "url": "https://open.spotify.com/album/4boHu426ldWkKuKjrDq4Mv"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 217495,
       "name": "Locamente Enamorado",
       "url": "https://open.spotify.com/track/1tjPu3BbasHcAWkgnlfAux"
-    },
-    {
-      "added_at": "2023-03-17 06:19:52",
-      "album": {
-        "name": "Lives Pa' la Raza",
-        "url": "https://open.spotify.com/album/5yMgi325xqK2QyENnFzCHU"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 134234,
-      "name": "La Flechita",
-      "url": "https://open.spotify.com/track/5qmaaLhRmb0QZZtsLwYVwr"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -2183,22 +2183,6 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "Pura Lumbre Con (En Vivo)",
-        "url": "https://open.spotify.com/album/24qFUtXKUfNEkofuUSNIZY"
-      },
-      "artists": [
-        {
-          "name": "Los Viejones De Linares",
-          "url": "https://open.spotify.com/artist/48f1Wox7CUiX1nDfzgonjW"
-        }
-      ],
-      "duration_ms": 209972,
-      "name": "La Yaquesita - En Vivo",
-      "url": "https://open.spotify.com/track/0dc1DPMzXyPqbKWg6za1KS"
-    },
-    {
-      "added_at": "2023-03-17 06:19:52",
-      "album": {
         "name": "La Chapiza (En Vivo)",
         "url": "https://open.spotify.com/album/0wP13AMhGNtY0GWQICl4T6"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 125956,
       "name": "La Chapiza - En Vivo",
       "url": "https://open.spotify.com/track/3mHFLPUuMgKHjPNmOS2XTg"
+    },
+    {
+      "added_at": "2023-03-17 06:19:52",
+      "album": {
+        "name": "Pura Lumbre Con (En Vivo)",
+        "url": "https://open.spotify.com/album/24qFUtXKUfNEkofuUSNIZY"
+      },
+      "artists": [
+        {
+          "name": "Los Viejones De Linares",
+          "url": "https://open.spotify.com/artist/48f1Wox7CUiX1nDfzgonjW"
+        }
+      ],
+      "duration_ms": 209972,
+      "name": "La Yaquesita - En Vivo",
+      "url": "https://open.spotify.com/track/0dc1DPMzXyPqbKWg6za1KS"
     },
     {
       "added_at": "2023-03-17 06:19:52",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2023-03-17 06:19:52",
       "album": {
-        "name": "B\u00e9lico X Siempre (En Vivo)",
-        "url": "https://open.spotify.com/album/6PvM8qWEQNvh7hcyVMkxOV"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        }
-      ],
-      "duration_ms": 181750,
-      "name": "B\u00e9lico X Siempre - En Vivo",
-      "url": "https://open.spotify.com/track/67V38GVtNuQcuq7lcevAjh"
-    },
-    {
-      "added_at": "2023-03-17 06:19:52",
-      "album": {
         "name": "Gotas de Agua Dulce",
         "url": "https://open.spotify.com/album/0372SHDiyVvWYrx3rOv0tt"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 175438,
       "name": "Gotas de Agua Dulce",
       "url": "https://open.spotify.com/track/1cbWi2Lgu18XkyAnMed4oY"
+    },
+    {
+      "added_at": "2023-03-17 06:19:52",
+      "album": {
+        "name": "B\u00e9lico X Siempre (En Vivo)",
+        "url": "https://open.spotify.com/album/6PvM8qWEQNvh7hcyVMkxOV"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        }
+      ],
+      "duration_ms": 181750,
+      "name": "B\u00e9lico X Siempre - En Vivo",
+      "url": "https://open.spotify.com/track/67V38GVtNuQcuq7lcevAjh"
     },
     {
       "added_at": "2023-03-17 06:19:52",

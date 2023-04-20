@@ -4,7 +4,7 @@
 
 > The home of rave worthy melodic techno and house\. Cover: Grigoré
 
-479 songs - 1 day 13 hr 57 min
+480 songs - 1 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [From a World to Another](https://open.spotify.com/track/09XQ9G55yMCNyKdVjpEyp4) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Jacques](https://open.spotify.com/artist/55i4AnS7E58y41UwE0vvQh) | [From a World to Another](https://open.spotify.com/album/0rWma4mIzxjq7TEmsN56nK) | 4:47 | 2022-08-18 | 2022-11-25 |
 | [FUN \- yunè pinku Remix](https://open.spotify.com/track/7dUL7g3m05OdcGLcs3V0uS) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [FUN \(yunè pinku Remix\)](https://open.spotify.com/album/69fs5PB0bHIQ8UTUzUWpWo) | 2:51 | 2022-08-18 | 2022-11-18 |
 | [Function](https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5) | [Function](https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV) | 3:17 | 2023-02-16 |  |
+| [Funkenflug](https://open.spotify.com/track/319lRoBVgCsDtR3M3iEfS1) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Funkenflug](https://open.spotify.com/album/65xp7xUkGiERTwc7Zc8ZhQ) | 7:43 | 2023-04-13 |  |
 | [Get Up](https://open.spotify.com/track/07K4JzMfVOsHvPW9PZ9lYM) | [Layer J](https://open.spotify.com/artist/48KALXBf9Ookq2j30lSKBf) | [Trick, Pt\. 2](https://open.spotify.com/album/32EQU8Pm0tHEoKtasPVIkk) | 7:29 | 2022-12-08 | 2023-03-10 |
 | [Girls](https://open.spotify.com/track/4HN7LxO80cgi4pN1XSWNmj) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Looney Talks](https://open.spotify.com/album/1RpbVl2wdDPxBDwkyaA8bi) | 4:32 | 2023-03-23 | 2023-04-01 |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-03-09 |  |
@@ -388,7 +389,7 @@
 | [Standing There](https://open.spotify.com/track/4cKgbhKIp3zk1yhomKUQ63) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Standing There](https://open.spotify.com/album/0QHIWEblccyOGx3Y3QmQZH) | 3:36 | 2022-08-18 | 2022-12-02 |
 | [Starter](https://open.spotify.com/track/4oFlRoHqdnjfPm0tUUIvAq) | [Marco Lys](https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Starter](https://open.spotify.com/album/1Szi70idNJ5SYHU1qubvu0) | 2:58 | 2022-08-18 | 2023-03-25 |
 | [Stepper](https://open.spotify.com/track/6LWnD63tBcpnkWJRlOegja) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Mariella](https://open.spotify.com/artist/1TRFZkvpFayTy7cveLinG6) | [Pressure](https://open.spotify.com/album/6QEnHZniqvybsckdyptQql) | 3:26 | 2022-10-06 | 2023-03-10 |
-| [Still Rushing \- Azzecca Remix](https://open.spotify.com/track/1onY0fCdnvfCC7NhqPIQ2z) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo), [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Still Rushing \(Azzecca Remix\)](https://open.spotify.com/album/03xYoG36yKDLuewxredYR1) | 5:04 | 2023-02-23 |  |
+| [Still Rushing \- Azzecca Remix](https://open.spotify.com/track/1onY0fCdnvfCC7NhqPIQ2z) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo), [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [Still Rushing \(Azzecca Remix\)](https://open.spotify.com/album/03xYoG36yKDLuewxredYR1) | 5:04 | 2023-02-23 | 2023-04-20 |
 | [Strange World](https://open.spotify.com/track/4SHFAf2zHYBbk2HTMlR2vj) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [Strange World](https://open.spotify.com/album/4kpsUjDu3PINn1yu5jX09R) | 3:56 | 2023-04-13 |  |
 | [suddenly](https://open.spotify.com/track/5maVHEe34pMYm3bCDM8Vlq) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/1vdUANbVjD8diT0bPpdbva) | 3:35 | 2022-08-18 | 2022-09-24 |
 | [Sumatra](https://open.spotify.com/track/2SvDldertcHX0y6kGDhtU3) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Sumatra](https://open.spotify.com/album/0Md5pzmo4V44Qdep0yXlT2) | 3:17 | 2022-08-18 | 2022-09-24 |

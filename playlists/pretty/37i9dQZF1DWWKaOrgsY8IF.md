@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 
 > Las mejores canciones de pop latino durante el 2020\. En portada: Camilo
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,183 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,200 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,15 +27,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 | 17 | [Tattoo \- Remix with Camilo](https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Tattoo \(Remix with Camilo\)](https://open.spotify.com/album/3Na85E6foBKxAeoAojX427) | 3:42 |
 | 18 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 |
 | 19 | [Vida de Rico](https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Vida de Rico](https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT) | 3:07 |
-| 20 | [Se Me Olvidó](https://open.spotify.com/track/7paFC3FEu1WtPVP4Do6VZN) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY!](https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg) | 2:39 |
-| 21 | [Quiéreme Mientras Se Pueda](https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Quiéreme Mientras Se Pueda](https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5) | 3:11 |
+| 20 | [Quiéreme Mientras Se Pueda](https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Quiéreme Mientras Se Pueda](https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5) | 3:11 |
+| 21 | [Se Me Olvidó](https://open.spotify.com/track/7paFC3FEu1WtPVP4Do6VZN) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY!](https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg) | 2:39 |
 | 22 | [Tanto](https://open.spotify.com/track/0ZqhB08GsFc4xfV07AsXzE) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Aire \(Versión Día\)](https://open.spotify.com/album/6ra5IJfLnuwbBm8NhxA2zX) | 3:39 |
 | 23 | [Loco](https://open.spotify.com/track/2J9B63FawlTaPdg4eH5X03) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Loco](https://open.spotify.com/album/1uFr2PCsnDVZ71AiJnZYrb) | 3:24 |
 | 24 | [Dónde Estás](https://open.spotify.com/track/16DNJ8y6k97DxuMyV49W7V) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Dónde Estás](https://open.spotify.com/album/0ZyvU9dSoBua8NOYnAP0x3) | 2:33 |
 | 25 | [Agua \(with J Balvin\)](https://open.spotify.com/track/7CtbxAGq2P0jtYh6SH9DMR) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [The SpongeBob Movie: Sponge On The Run \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7) | 2:39 |
-| 26 | [Por Primera Vez](https://open.spotify.com/track/0pgj4EzB1XRqgZemoMNG5D) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 3:02 |
-| 27 | [Te Olvidé](https://open.spotify.com/track/0zRc5cHuMrulujN8t1XbYE) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:06 |
-| 28 | [Amor Tóxico](https://open.spotify.com/track/5LPlvbxA6bJQHvUW12Mr22) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY!](https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg) | 2:10 |
+| 26 | [Amor Tóxico](https://open.spotify.com/track/5LPlvbxA6bJQHvUW12Mr22) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY!](https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg) | 2:10 |
+| 27 | [Por Primera Vez](https://open.spotify.com/track/0pgj4EzB1XRqgZemoMNG5D) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 3:02 |
+| 28 | [Te Olvidé](https://open.spotify.com/track/0zRc5cHuMrulujN8t1XbYE) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:06 |
 | 29 | [Él Lo Tiene Todo](https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [Él Lo Tiene Todo](https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5) | 3:34 |
 | 30 | [Sodio](https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:06 |
 | 31 | [Djadja \(feat\. Maluma\) \- Remix](https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Djadja \(feat\. Maluma\) \[Remix\]](https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV) | 2:46 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 | 48 | [La Lá](https://open.spotify.com/track/1MYMEtHi6fmmGiDFLrBiY3) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:17 |
 | 49 | [El Equivocado](https://open.spotify.com/track/6yCrxyjQxkdYpNexoNixK2) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Trece](https://open.spotify.com/album/17iAbw8ZsuixaaATKdBIEB) | 3:39 |
 | 50 | [Los Consejos](https://open.spotify.com/track/17A6MT3U1YKYsYpn3tOEpA) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Los Consejos](https://open.spotify.com/album/2Cs0jR06nsyXtAIRwQq1hs) | 2:56 |
-| 51 | [Una Foto en Blanco y Negro](https://open.spotify.com/track/4BNqM0h2wukiQkAUKZjurV) | [David Otero](https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h), [Taburete](https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT) | [Una Foto en Blanco y Negro](https://open.spotify.com/album/3nB3A1kSf886E04UHsdDSI) | 3:32 |
-| 52 | [Enemigos](https://open.spotify.com/track/5XUtUnUsJ1PAkLZIiCfUD5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Enemigos](https://open.spotify.com/album/1LT7cecI9sEVx569gvjyd4) | 3:17 |
+| 51 | [Enemigos](https://open.spotify.com/track/5XUtUnUsJ1PAkLZIiCfUD5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Enemigos](https://open.spotify.com/album/1LT7cecI9sEVx569gvjyd4) | 3:17 |
+| 52 | [Una Foto en Blanco y Negro](https://open.spotify.com/track/4BNqM0h2wukiQkAUKZjurV) | [David Otero](https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h), [Taburete](https://open.spotify.com/artist/40Ippe6JeofRURQ4nbF8DT) | [Una Foto en Blanco y Negro](https://open.spotify.com/album/3nB3A1kSf886E04UHsdDSI) | 3:32 |
 | 53 | [High](https://open.spotify.com/track/5TmCIYJkPI8EEhpA6nFuoB) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [High](https://open.spotify.com/album/1O5hxcSqVLdi9mqSWG46r2) | 3:07 |
 | 54 | [Flamenkito](https://open.spotify.com/track/4fsj5oMLYrCUlTDs4P9qw5) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Flamenkito](https://open.spotify.com/album/1gXu9jczbkEdYN6FNekRqH) | 3:22 |
 | 55 | [Si por mi fuera](https://open.spotify.com/track/3c7U2Kj8YL8BquVmEhybCR) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Si por mi fuera](https://open.spotify.com/album/10Biiwr7Gd6dsEd4VgvFaZ) | 3:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKaOrgsY8IF.md) - [plain]
 | 59 | [Me Equivocaré](https://open.spotify.com/track/4500Dr4dVfnQiMjaTC4oIq) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Me Equivocaré](https://open.spotify.com/album/3kJtYTn44STQqsO6A1vF2b) | 2:32 |
 | 60 | [Conocerte](https://open.spotify.com/track/1U4xYstX4dcJbjlGZ3sQy9) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [La Mexicana](https://open.spotify.com/album/3jvseqHtHdkQXMWDjsoT4C) | 2:56 |
 
-Snapshot ID: `MTYwNjg4NTcwMSwwMDAwMDAwMDU4MGZhYzZlNzIwMDBjYjNjNmFkZGQ2YTY1NDZkNWZj`
+Snapshot ID: `MTYwNjg4NTcwMSwwMDAwMDAwMDVkYjJiNWE1ZmVjZjUwM2JmZjAwYWM1NzcwZTI4ZWU4`
