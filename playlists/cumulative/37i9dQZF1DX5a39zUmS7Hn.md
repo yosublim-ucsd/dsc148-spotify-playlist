@@ -4,7 +4,7 @@
 
 > New music and timeless tracks from legends only\. Cover: Alanis Morissette
 
-247 songs - 17 hr 43 min
+248 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Start!](https://open.spotify.com/track/4svNZgdVZNtpWKbb7nsaLs) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [Sound Affects](https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb) | 2:29 | 2022-04-08 | 2022-07-29 |
 | [Step On \- 2007 Remaster](https://open.spotify.com/track/4gAU0cHQJFxj1n2ZDiEIzG) | [Happy Mondays](https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0) | [Pills 'N' Thrills And Bellyaches \(Collector's Edition\)](https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ) | 5:18 | 2022-04-08 | 2022-07-29 |
 | [Strung Out Johnny](https://open.spotify.com/track/3bztP3gif7mrJ1LidczGWu) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Strung Out Johnny](https://open.spotify.com/album/3U6B7Thb2LXZjhV47KTqmm) | 4:13 | 2022-12-16 | 2023-01-12 |
-| [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 | 2022-07-28 |  |
+| [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 | 2022-07-28 | 2023-04-21 |
 | [Sweet Bird of Truth](https://open.spotify.com/track/1MH1Zfq6vJZEWf904atike) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Sweet Bird of Truth](https://open.spotify.com/album/17CUZ4KfTly5aMB73aM1b7) | 3:46 | 2022-05-27 | 2022-06-06 |
 | [Teach Me To Tango](https://open.spotify.com/track/5oIrbqdUT5z05cld5cXbaI) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Zoom In EP](https://open.spotify.com/album/5xaZbHax4UZEtgBUCsFRyy) | 3:07 | 2022-04-08 | 2022-07-27 |
 | [Temptation](https://open.spotify.com/track/7j5Q3zhjvpQvMeoPSZwdsa) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 6:59 | 2022-04-08 | 2022-07-28 |
@@ -233,6 +233,7 @@
 | [Time for Heroes \- December 2001 Demo](https://open.spotify.com/track/6k87YyUT0jGFSF8ezHGnu1) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Up the Bracket: Early Demos](https://open.spotify.com/album/5yhLhJL3vRJruNifGspbYS) | 2:39 | 2022-10-20 | 2022-10-28 |
 | [Time is Running Out](https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl) | 3:57 | 2022-07-28 |  |
 | [Tippa My Tongue](https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Tippa My Tongue](https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p) | 4:20 | 2022-08-18 | 2022-12-02 |
+| [Too Far Gone?](https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 4:33 | 2023-04-14 |  |
 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 | 2022-07-28 |  |
 | [Town Called Malice](https://open.spotify.com/track/4TOYmUloyDslQIj0k3pXn3) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift \(Deluxe Edition\)](https://open.spotify.com/album/5tCafNFnLdK5orQH5Y9FFP) | 2:53 | 2022-04-08 | 2022-07-29 |
 | [Trash](https://open.spotify.com/track/5sVPOuJJAmidyxU8LjJBVu) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Coming Up \- 20th Anniversary Edition \(Audio Version\)](https://open.spotify.com/album/7M4M2D5vnodz6lmP8iO15S) | 4:05 | 2022-04-08 | 2022-07-29 |

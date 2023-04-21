@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 51021,
+  "num_followers": 51062,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODQ5ODA2NywwMDAwMDAwMDBmMjQwNWUwOGVlMTQ4NDY4NWY0MzVhN2UzOGJlOTFl",
+  "snapshot_id": "MTY3ODQ5ODA2NywwMDAwMDAwMGEwNzJmZDg5YjQzZjZkZmYzYjE0ZGJjODc1MTc0ZDkz",
   "tracks": [
     {
       "added_at": "2023-03-11 01:27:47",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-03-11 01:27:47",
       "album": {
-        "name": "Quem Ama os Animais: Yasminzinha",
-        "url": "https://open.spotify.com/album/7zDczluqFBHATzo2eXUWZC"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Verissimo",
-          "url": "https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "Quem Ama os Animais: Yasminzinha",
-      "url": "https://open.spotify.com/track/3QeEhShhm4xarUOUmHS4tn"
-    },
-    {
-      "added_at": "2023-03-11 01:27:47",
-      "album": {
         "name": "Crian\u00e7a Nota 10",
         "url": "https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 164165,
       "name": "Crian\u00e7a Nota 10",
       "url": "https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn"
+    },
+    {
+      "added_at": "2023-03-11 01:27:47",
+      "album": {
+        "name": "Quem Ama os Animais: Yasminzinha",
+        "url": "https://open.spotify.com/album/7zDczluqFBHATzo2eXUWZC"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Verissimo",
+          "url": "https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Quem Ama os Animais: Yasminzinha",
+      "url": "https://open.spotify.com/track/3QeEhShhm4xarUOUmHS4tn"
     },
     {
       "added_at": "2023-03-11 01:27:47",

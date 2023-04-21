@@ -988,7 +988,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 386051,
       "name": "Blood In The Snow - Tibi Dabo Remix",
       "url": "https://open.spotify.com/track/49vNlVxrCBf5WwUCDySVuN"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 282580,
       "name": "Boa Noite (La Noche)",
       "url": "https://open.spotify.com/track/0e5tqOMASIDGrRrdl8IgbI"
@@ -1852,7 +1852,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 377904,
       "name": "Dance Again",
       "url": "https://open.spotify.com/track/1I1tcgZx6J1IHeZqWa3611"
@@ -3150,10 +3150,28 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 463816,
       "name": "Funkenflug",
       "url": "https://open.spotify.com/track/319lRoBVgCsDtR3M3iEfS1"
+    },
+    {
+      "album": {
+        "name": "Commune | Volume 2",
+        "url": "https://open.spotify.com/album/0PxSZFgvilDptwvLWieLxe"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503073,
+      "name": "Gator",
+      "url": "https://open.spotify.com/track/7slSQMJ8gq2hIWXbAdmNTg"
     },
     {
       "album": {
@@ -4815,6 +4833,24 @@
     },
     {
       "album": {
+        "name": "Level One",
+        "url": "https://open.spotify.com/album/32nuiBkyfkO2lLAvLgajFz"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470400,
+      "name": "Level One",
+      "url": "https://open.spotify.com/track/3oCfybScespNWsvxK6l48B"
+    },
+    {
+      "album": {
         "name": "Lift Me Up",
         "url": "https://open.spotify.com/album/69wmSV0itJ2bNrv0kEUsga"
       },
@@ -5439,6 +5475,24 @@
     },
     {
       "album": {
+        "name": "Milkshake",
+        "url": "https://open.spotify.com/album/4zSFzfRjEhNQv30O5en6rw"
+      },
+      "artists": [
+        {
+          "name": "Lexer",
+          "url": "https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414226,
+      "name": "Milkshake",
+      "url": "https://open.spotify.com/track/0sa9eAhDFupUOAxtGuwQZn"
+    },
+    {
+      "album": {
         "name": "Mind Control",
         "url": "https://open.spotify.com/album/63BUay1zGf5kZDICbE8HUF"
       },
@@ -5706,6 +5760,24 @@
       "duration_ms": 308571,
       "name": "Murphy - Edit",
       "url": "https://open.spotify.com/track/4n8fxV2m3ESCoQgOaMrR2n"
+    },
+    {
+      "album": {
+        "name": "Musa",
+        "url": "https://open.spotify.com/album/6Hpyr1c5AFXmWF68DJb67o"
+      },
+      "artists": [
+        {
+          "name": "Kill Them With Colour",
+          "url": "https://open.spotify.com/artist/51YdmMVkUtAJnXacxyBZdU"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196452,
+      "name": "Musa",
+      "url": "https://open.spotify.com/track/72DaECSz5fvcv21o33kUxK"
     },
     {
       "album": {
@@ -6654,7 +6726,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 258320,
       "name": "Pneuma",
       "url": "https://open.spotify.com/track/4qBwFgJNIwz4wtvcRdyJRa"
@@ -6773,6 +6845,24 @@
     },
     {
       "album": {
+        "name": "Rej EP",
+        "url": "https://open.spotify.com/album/18Ny5mx0OWqat32kkmoFC4"
+      },
+      "artists": [
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488920,
+      "name": "Rej",
+      "url": "https://open.spotify.com/track/5l3TZLe5uEk7vdXbHghZZW"
+    },
+    {
+      "album": {
         "name": "Remember Me",
         "url": "https://open.spotify.com/album/1C13hkYjqhNLmDbgwkmiVp"
       },
@@ -6810,7 +6900,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 240895,
       "name": "Remember Me?",
       "url": "https://open.spotify.com/track/2T7tybC5XZrEnHji0Ri34O"
@@ -7546,7 +7636,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 627840,
       "name": "Sit Back And Take It Down",
       "url": "https://open.spotify.com/track/5Tb0TQ1eaLuzour8Ymp6wo"
@@ -7893,6 +7983,28 @@
     },
     {
       "album": {
+        "name": "Protocol EP",
+        "url": "https://open.spotify.com/album/3fMDN2edFXC0wlSQSdo09J"
+      },
+      "artists": [
+        {
+          "name": "Oriss",
+          "url": "https://open.spotify.com/artist/1rKB4NZEHYcw97tZkjneH9"
+        },
+        {
+          "name": "Adam Sellouk",
+          "url": "https://open.spotify.com/artist/2T7HN3rqTpIn8OiVb0I5oq"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364453,
+      "name": "Stellar",
+      "url": "https://open.spotify.com/track/0jj8UUhLiLZWENctWjvtFh"
+    },
+    {
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/6QEnHZniqvybsckdyptQql"
       },
@@ -7948,7 +8060,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 236129,
       "name": "Strange World",
       "url": "https://open.spotify.com/track/4SHFAf2zHYBbk2HTMlR2vj"
@@ -8152,6 +8264,28 @@
       "duration_ms": 265611,
       "name": "Swelter",
       "url": "https://open.spotify.com/track/6it7E8OADgdkcacQHOYqN7"
+    },
+    {
+      "album": {
+        "name": "Mind Control, Pt. 1",
+        "url": "https://open.spotify.com/album/5BQb7ZNxbrF6s2IDGHrAgN"
+      },
+      "artists": [
+        {
+          "name": "Nuage",
+          "url": "https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD"
+        },
+        {
+          "name": "ALSO ASTIR",
+          "url": "https://open.spotify.com/artist/6OOxVfD4C5LQ4Il5NmLcWv"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241531,
+      "name": "Symbol",
+      "url": "https://open.spotify.com/track/1oYataUHnEfOMQOhwVA7jI"
     },
     {
       "album": {
@@ -9059,6 +9193,24 @@
     },
     {
       "album": {
+        "name": "Tumda",
+        "url": "https://open.spotify.com/album/0JSdXf6dVCBO4LkCx3jRQ9"
+      },
+      "artists": [
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "Tumda",
+      "url": "https://open.spotify.com/track/5TOlgoPRljluF62RKNcNnx"
+    },
+    {
+      "album": {
         "name": "Time Is Now",
         "url": "https://open.spotify.com/album/1mEZ8fADCdPqekkLzhG128"
       },
@@ -9718,7 +9870,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 249954,
       "name": "Who We Are - Lufthaus Remix",
       "url": "https://open.spotify.com/track/4cGZ0rJqgcu3lyfqDtk308"
@@ -9904,6 +10056,28 @@
       "duration_ms": 354404,
       "name": "You Run",
       "url": "https://open.spotify.com/track/02crxEctxfT2l3q1DsM9m2"
+    },
+    {
+      "album": {
+        "name": "Your Mind",
+        "url": "https://open.spotify.com/album/25fUzY5qFM0Fm6ESlFOJFu"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Josh Gigante",
+          "url": "https://open.spotify.com/artist/7dcUWT1KmxjXieEnzFSjeH"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354647,
+      "name": "Your Mind",
+      "url": "https://open.spotify.com/track/4zDG66t4CS5gD2WLq4K9JK"
     },
     {
       "album": {

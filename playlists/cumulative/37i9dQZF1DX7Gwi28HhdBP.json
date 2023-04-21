@@ -632,7 +632,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 223909,
       "name": "Bein Narein",
       "url": "https://open.spotify.com/track/6IgTNYRlXoOsQD7fV4O6TJ"
@@ -2726,6 +2726,24 @@
       "duration_ms": 258070,
       "name": "\u0627\u0645\u0627\u0646\u0647",
       "url": "https://open.spotify.com/track/4tFQtcaW9BHllKlhn4SAfk"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0646\u0627 \u0627\u0644\u0647\u064a\u0631\u0648",
+        "url": "https://open.spotify.com/album/5H3pCXqhJkzGlhHNwZVASs"
+      },
+      "artists": [
+        {
+          "name": "Tarek El Sheikh",
+          "url": "https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228832,
+      "name": "\u0627\u0646\u0627 \u0627\u0644\u0647\u064a\u0631\u0648",
+      "url": "https://open.spotify.com/track/08W2YoNffieqZdwUKUlDI2"
     },
     {
       "album": {

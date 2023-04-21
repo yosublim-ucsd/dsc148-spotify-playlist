@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Tafa Mi-Soleil",
-  "num_followers": 76407,
+  "num_followers": 76438,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTI0NjgwMCwwMDAwMDAwMDc0OTk4YzM4MGU2ZTE2NmU5YmM5YzI3ZGQ5ODcyN2Q1",
+  "snapshot_id": "MTY4MTI0NjgwMCwwMDAwMDAwMGU4MGE0NTI2NDA4YTNhZmFjODlmMGY5OTk1OTc1NmM2",
   "tracks": [
     {
       "added_at": "2023-03-17 20:33:35",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
+      },
+      "artists": [
+        {
+          "name": "Tadia",
+          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
+        }
+      ],
+      "duration_ms": 158663,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
+    },
+    {
+      "added_at": "2023-03-17 20:33:35",
+      "album": {
         "name": "No Regrets",
         "url": "https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD"
       },
@@ -1403,18 +1419,18 @@
     {
       "added_at": "2023-03-17 20:33:35",
       "album": {
-        "name": "Worth It",
-        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
+        "name": "Ou Bezwen",
+        "url": "https://open.spotify.com/album/0tH8ORhhM3pt7UhoG9jnOp"
       },
       "artists": [
         {
-          "name": "Tadia",
-          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
+          "name": "Jay Brixxx",
+          "url": "https://open.spotify.com/artist/3AbIquMMRDRsnRFR7uISXv"
         }
       ],
-      "duration_ms": 158663,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
+      "duration_ms": 252450,
+      "name": "Ou Bezwen",
+      "url": "https://open.spotify.com/track/5H51dmoxcnIjGtWi8Z7Mje"
     },
     {
       "added_at": "2023-03-17 20:33:35",
@@ -1467,22 +1483,6 @@
       "duration_ms": 400388,
       "name": "Ayizan",
       "url": "https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB"
-    },
-    {
-      "added_at": "2023-03-17 20:33:35",
-      "album": {
-        "name": "Ou Bezwen",
-        "url": "https://open.spotify.com/album/0tH8ORhhM3pt7UhoG9jnOp"
-      },
-      "artists": [
-        {
-          "name": "Jay Brixxx",
-          "url": "https://open.spotify.com/artist/3AbIquMMRDRsnRFR7uISXv"
-        }
-      ],
-      "duration_ms": 252450,
-      "name": "Ou Bezwen",
-      "url": "https://open.spotify.com/track/5H51dmoxcnIjGtWi8Z7Mje"
     },
     {
       "added_at": "2023-03-17 20:33:35",

@@ -4,7 +4,7 @@
 
 > Listen to the recent hits of Christian Rock\.  Cover artist: Skillet
 
-141 songs - 9 hr 18 min
+142 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Broken Pieces \(Matthew Parker Remix\)](https://open.spotify.com/track/5ivx3RMOrx3UrDln8DlH7q) | [Matt Moore](https://open.spotify.com/artist/2BK2I4WCQKbUFGDpddVFuf), [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54) | [Broken Pieces \(Matthew Parker Remix\)](https://open.spotify.com/album/327N5SiCa9EagolOyBKSvl) | 3:53 | 2022-03-11 |  |
 | [Burn Back the Sun](https://open.spotify.com/track/56ergFXREcLtf2aAWSG5Au) | [Decyfer Down](https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B) | [Acoustic \- EP](https://open.spotify.com/album/4VP9QymQERLlDbXazylOPA) | 3:59 | 2021-05-28 |  |
 | [Chariots \- Live](https://open.spotify.com/track/0lucLOAYQB0gpxARVqH7Mz) | [Freedom Church](https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh) | [Chariots \(Live\)](https://open.spotify.com/album/219sQ1lUO7Yxg8pFDNIn58) | 6:22 | 2023-02-17 | 2023-03-01 |
+| [Chariots \- Live](https://open.spotify.com/track/6DuEUsG8YvsNq91I2a9djH) | [Freedom Church](https://open.spotify.com/artist/1OgH8GLEEZWPtW9XJJDQYh) | [Barbarians \(Live\)](https://open.spotify.com/album/6L4poo7GcNGGcgcQPiB6Zo) | 6:22 | 2023-02-17 |  |
 | [Cold Winter Sun](https://open.spotify.com/track/3HUHIjnMOD22APRvYFlc6f) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Outlive](https://open.spotify.com/album/7kZFUYmtCKFdPvBIGzw6ow) | 3:25 | 2021-05-28 | 2022-07-29 |
 | [Cold Winter Sun](https://open.spotify.com/track/3x0jpqonkfTOPXtoVP4vmb) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Outlive](https://open.spotify.com/album/3qumSCBx2jU1GB8aIfXhrn) | 3:25 | 2022-03-11 |  |
 | [Coming Clean](https://open.spotify.com/track/6tXcD6XHOYyKgc1HmE0eE8) | [Attalus](https://open.spotify.com/artist/6qWfqxgw2jrwC3zBfm0QaQ) | [Into the Sea](https://open.spotify.com/album/2mk7BVUY7BkN7vyKitOTEr) | 4:05 | 2021-05-28 |  |
@@ -43,7 +44,7 @@
 | [Day by Day](https://open.spotify.com/track/7sYruoMImFwS3nvDVK0XGb) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [A Mirror Dimly](https://open.spotify.com/album/7sjiHBjRbYS3z4K9EuqKAH) | 5:38 | 2022-03-11 |  |
 | [Dead Man](https://open.spotify.com/track/6Hi6DD8ka5uOj1rO8u85sR) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Captors](https://open.spotify.com/album/4UBg8O6JEFIJJFi2ywLiiA) | 4:06 | 2021-05-28 | 2022-01-15 |
 | [Deadman](https://open.spotify.com/track/5hRTySOfrVVhDNOya4IML9) | [Glasslands](https://open.spotify.com/artist/1uaz4cRw5clcnWJIswU6Jy) | [Pariah](https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv) | 5:13 | 2021-05-28 |  |
-| [Deadweight](https://open.spotify.com/track/5FtSStkfgWaSbf7vN1CPR5) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Deadweight](https://open.spotify.com/album/2rDc9fiNUDMFsvBdTCjWDK) | 3:48 | 2022-03-11 |  |
+| [Deadweight](https://open.spotify.com/track/5FtSStkfgWaSbf7vN1CPR5) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Deadweight](https://open.spotify.com/album/2rDc9fiNUDMFsvBdTCjWDK) | 3:48 | 2022-03-11 | 2023-04-21 |
 | [Deathgrip](https://open.spotify.com/track/3Ucq1gQdwgIuhytmI1CEyj) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Deathgrip](https://open.spotify.com/album/1MK5aZeXCgg0zXvwdRdcDW) | 4:14 | 2022-03-11 |  |
 | [Deathgrip](https://open.spotify.com/track/5hC0PHHxcPJnhg6Mnncub4) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Deathgrip](https://open.spotify.com/album/1wuARmufRqgapPJIM888SU) | 4:14 | 2021-05-28 | 2022-07-29 |
 | [DEFENSE MECHANISM](https://open.spotify.com/track/0VmGPLjGJCFpU3cac3k4t7) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH), [Max Cavalera](https://open.spotify.com/artist/6p9q2PEuRNRMIXy0mxtDaf) | [DEFENSE MECHANISM](https://open.spotify.com/album/1ZBVbt7Kf8oEDABJyu4BlR) | 3:37 | 2022-10-29 | 2023-01-29 |

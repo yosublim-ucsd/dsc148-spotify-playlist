@@ -1,12 +1,12 @@
 {
   "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/5Yktx2wffJlILfJSpoISRR?si=-uklwWiaQ2GaNJ-TJp-SyQ\">SAKKIE</a> & <a href=\"https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF?si=DouTRLXgTSGA1YhBwm4zhA\">Francois van Coke</a>",
-  "num_followers": 12709,
+  "num_followers": 12727,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDQ2NywwMDAwMDAwMGZiYjRlMDhkNTYyMzc2ZDk3NmFiOTUzYzk2OGFjOWFm",
+  "snapshot_id": "MTY4MjAyNzk0MCwwMDAwMDAwMDA2YjQwMjViZmRjY2Y3YWE2YmE4ZTY4ODViODIzNmVi",
   "tracks": [
     {
       "added_at": "2023-03-16 21:59:00",
@@ -29,6 +29,22 @@
       "url": "https://open.spotify.com/track/77YX4Et5rOuvhQqG7RLUfe"
     },
     {
+      "added_at": "2023-04-20 21:59:00",
+      "album": {
+        "name": "Ntuthwane",
+        "url": "https://open.spotify.com/album/6H3Afy1rryTXuENzc6JQhy"
+      },
+      "artists": [
+        {
+          "name": "BCUC",
+          "url": "https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW"
+        }
+      ],
+      "duration_ms": 125116,
+      "name": "Ntuthwane",
+      "url": "https://open.spotify.com/track/26LjhwE4l45AnMbvyxavn9"
+    },
+    {
       "added_at": "2023-04-14 03:54:26",
       "album": {
         "name": "Redgrave",
@@ -45,10 +61,10 @@
       "url": "https://open.spotify.com/track/0hhRBa8XLU01VpjzrBdmTZ"
     },
     {
-      "added_at": "2023-02-16 21:59:00",
+      "added_at": "2023-04-20 21:59:00",
       "album": {
-        "name": "Crows Foot",
-        "url": "https://open.spotify.com/album/2rdWLJ9fW6uN5YDt62oetO"
+        "name": "Reincarnation",
+        "url": "https://open.spotify.com/album/37wsV9XmhCSKIYMi9d7wf2"
       },
       "artists": [
         {
@@ -56,25 +72,9 @@
           "url": "https://open.spotify.com/artist/5cPXEpwSlUHUTsGY3V39IY"
         }
       ],
-      "duration_ms": 191325,
-      "name": "Crows Foot",
-      "url": "https://open.spotify.com/track/1HitnCS6sx1ffnsZkFiZky"
-    },
-    {
-      "added_at": "2023-04-14 03:54:26",
-      "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/5Ok4qSR9XObWzkpgZlyK0B"
-      },
-      "artists": [
-        {
-          "name": "Yorxe",
-          "url": "https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8"
-        }
-      ],
-      "duration_ms": 165221,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/6Ka2NTLf6eD4oZEUAbLgt7"
+      "duration_ms": 170896,
+      "name": "Reincarnation",
+      "url": "https://open.spotify.com/track/5MwoGlSxY2oLYW1wYBw5Pl"
     },
     {
       "added_at": "2023-03-02 21:59:00",
@@ -99,34 +99,18 @@
     {
       "added_at": "2023-04-14 03:54:26",
       "album": {
-        "name": "Repine Forest",
-        "url": "https://open.spotify.com/album/1Vd2YgVrjDTfQ5IhJmMglP"
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/5Ok4qSR9XObWzkpgZlyK0B"
       },
       "artists": [
         {
-          "name": "I Forget Myself",
-          "url": "https://open.spotify.com/artist/0THqV33GCcyFh9myv6qD1y"
+          "name": "Yorxe",
+          "url": "https://open.spotify.com/artist/6S4m4nLUKn7OuavvVKQWv8"
         }
       ],
-      "duration_ms": 225875,
-      "name": "Light Up",
-      "url": "https://open.spotify.com/track/2rH0ehJmXiph2aMIaYcahL"
-    },
-    {
-      "added_at": "2023-03-30 21:59:00",
-      "album": {
-        "name": "Everything Is Black",
-        "url": "https://open.spotify.com/album/1sFLxuAtdcez5ozRb7anM5"
-      },
-      "artists": [
-        {
-          "name": "Ross Harding",
-          "url": "https://open.spotify.com/artist/1FqnXueiEcKhdI6NBFwKcA"
-        }
-      ],
-      "duration_ms": 245880,
-      "name": "Everything Is Black",
-      "url": "https://open.spotify.com/track/3USvpF3X4zg3DUw8Ro6AIY"
+      "duration_ms": 165221,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/6Ka2NTLf6eD4oZEUAbLgt7"
     },
     {
       "added_at": "2023-04-14 03:54:26",
@@ -143,6 +127,22 @@
       "duration_ms": 162810,
       "name": "#23",
       "url": "https://open.spotify.com/track/4jvrBXG8kgKQZEvsLwPXHl"
+    },
+    {
+      "added_at": "2023-04-14 03:54:26",
+      "album": {
+        "name": "Repine Forest",
+        "url": "https://open.spotify.com/album/1Vd2YgVrjDTfQ5IhJmMglP"
+      },
+      "artists": [
+        {
+          "name": "I Forget Myself",
+          "url": "https://open.spotify.com/artist/0THqV33GCcyFh9myv6qD1y"
+        }
+      ],
+      "duration_ms": 225875,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/2rH0ehJmXiph2aMIaYcahL"
     },
     {
       "added_at": "2023-02-16 21:59:00",
@@ -165,20 +165,20 @@
       "url": "https://open.spotify.com/track/4JsFnYPu7208vajpj05I7B"
     },
     {
-      "added_at": "2023-04-14 03:54:26",
+      "added_at": "2023-04-20 21:59:00",
       "album": {
-        "name": "SKIN",
-        "url": "https://open.spotify.com/album/6yHbCQ1kMQd54FzDsV5UM0"
+        "name": "Hawema",
+        "url": "https://open.spotify.com/album/5QZq4FHvOHdlgr1mts4T89"
       },
       "artists": [
         {
-          "name": "BRAINCHILD",
-          "url": "https://open.spotify.com/artist/0IKw7PVOOaFyDUTMcAYkCj"
+          "name": "Hawema",
+          "url": "https://open.spotify.com/artist/6CWA38UpeY34SNOKY29peK"
         }
       ],
-      "duration_ms": 144751,
-      "name": "SKIN",
-      "url": "https://open.spotify.com/track/4KqrcWePnhNGWAyfa8UTO6"
+      "duration_ms": 287425,
+      "name": "Wabaleka",
+      "url": "https://open.spotify.com/track/3hYjSz0QfFeaG9CTP8hNJF"
     },
     {
       "added_at": "2023-02-16 21:59:00",
@@ -199,6 +199,86 @@
       "duration_ms": 225160,
       "name": "Toe Roep Ek Jou Naam",
       "url": "https://open.spotify.com/track/2ZYbvsHY9vG3pqI8qYTgN6"
+    },
+    {
+      "added_at": "2023-03-30 21:59:00",
+      "album": {
+        "name": "Everything Is Black",
+        "url": "https://open.spotify.com/album/1sFLxuAtdcez5ozRb7anM5"
+      },
+      "artists": [
+        {
+          "name": "Ross Harding",
+          "url": "https://open.spotify.com/artist/1FqnXueiEcKhdI6NBFwKcA"
+        }
+      ],
+      "duration_ms": 245880,
+      "name": "Everything Is Black",
+      "url": "https://open.spotify.com/track/3USvpF3X4zg3DUw8Ro6AIY"
+    },
+    {
+      "added_at": "2023-04-20 21:59:00",
+      "album": {
+        "name": "Last Train",
+        "url": "https://open.spotify.com/album/5pbEoEmqn6QIp5t9ucNNl1"
+      },
+      "artists": [
+        {
+          "name": "The Varsity Project",
+          "url": "https://open.spotify.com/artist/1cJARVxXvfAxfobUWb6BFz"
+        }
+      ],
+      "duration_ms": 318000,
+      "name": "Last Train",
+      "url": "https://open.spotify.com/track/11hwRTYLm0gWMxYGnzUGE8"
+    },
+    {
+      "added_at": "2023-04-20 21:59:00",
+      "album": {
+        "name": "Delta V",
+        "url": "https://open.spotify.com/album/7tO9AkT65ZIpcsR1Yu0O5M"
+      },
+      "artists": [
+        {
+          "name": "Shaun Orlando Berry",
+          "url": "https://open.spotify.com/artist/12x6xKCX7sjd0sD4LKptM7"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "Delta V",
+      "url": "https://open.spotify.com/track/472uZf2otohSUoXG51wqwh"
+    },
+    {
+      "added_at": "2023-04-14 03:54:26",
+      "album": {
+        "name": "SKIN",
+        "url": "https://open.spotify.com/album/6yHbCQ1kMQd54FzDsV5UM0"
+      },
+      "artists": [
+        {
+          "name": "BRAINCHILD",
+          "url": "https://open.spotify.com/artist/0IKw7PVOOaFyDUTMcAYkCj"
+        }
+      ],
+      "duration_ms": 144751,
+      "name": "SKIN",
+      "url": "https://open.spotify.com/track/4KqrcWePnhNGWAyfa8UTO6"
+    },
+    {
+      "added_at": "2023-04-20 21:59:00",
+      "album": {
+        "name": "Wat Is Daar ?",
+        "url": "https://open.spotify.com/album/3c86T6y2WbY0NwHqS5AfXZ"
+      },
+      "artists": [
+        {
+          "name": "X_C_Xreece",
+          "url": "https://open.spotify.com/artist/5K7YIVq5HTLQROahka7QyZ"
+        }
+      ],
+      "duration_ms": 205608,
+      "name": "Wat Is Daar ?",
+      "url": "https://open.spotify.com/track/1lQDVdN8TfcJ6kolhTXFqB"
     },
     {
       "added_at": "2023-04-14 03:54:26",
@@ -281,38 +361,6 @@
       "url": "https://open.spotify.com/track/34oEkwMsB3u6JnyI8JlZm3"
     },
     {
-      "added_at": "2023-03-16 21:59:00",
-      "album": {
-        "name": "No Wah-Wah",
-        "url": "https://open.spotify.com/album/6jkxRWucYvKKu2SSTwzVb0"
-      },
-      "artists": [
-        {
-          "name": "Jim Neversink",
-          "url": "https://open.spotify.com/artist/7lcphTNzwW4Lx0FBAusFtK"
-        }
-      ],
-      "duration_ms": 239812,
-      "name": "Mans Best Friend",
-      "url": "https://open.spotify.com/track/6U4udqe4YtkSnRwMoUkqTE"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "Fatal Attraction",
-        "url": "https://open.spotify.com/album/2TJlitKnHY894L95PfqLie"
-      },
-      "artists": [
-        {
-          "name": "3's and 7's",
-          "url": "https://open.spotify.com/artist/1kVg5h8vTlaeO6BG4Tpf5H"
-        }
-      ],
-      "duration_ms": 201097,
-      "name": "Fatal Attraction",
-      "url": "https://open.spotify.com/track/5YL0AEgbd1fYMS5Jrgw10E"
-    },
-    {
       "added_at": "2023-03-30 21:59:00",
       "album": {
         "name": "Hold On",
@@ -327,38 +375,6 @@
       "duration_ms": 216450,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/31oIFvE1Vc8wnKqPyRdIgu"
-    },
-    {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "In My mind",
-        "url": "https://open.spotify.com/album/6t2MjbEdLrdir2i4bIN0kL"
-      },
-      "artists": [
-        {
-          "name": "The Tazers",
-          "url": "https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/4QIujxtLqnP1AGndp7fNlR"
-    },
-    {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "Three of Swords",
-        "url": "https://open.spotify.com/album/3kT07KBVwJev5xdhxg8Sl2"
-      },
-      "artists": [
-        {
-          "name": "Saturn Return",
-          "url": "https://open.spotify.com/artist/6pv2CpHVYGzPjEtSggRQmt"
-        }
-      ],
-      "duration_ms": 210881,
-      "name": "I Hate Your Shirt",
-      "url": "https://open.spotify.com/track/1o6pwsvHhE0siWoXUDkDiR"
     },
     {
       "added_at": "2023-03-30 21:59:00",
@@ -519,22 +535,6 @@
       "duration_ms": 159494,
       "name": "Nie Alleen Nie",
       "url": "https://open.spotify.com/track/0yXCVcqwnZdM2GVGtSMRS3"
-    },
-    {
-      "added_at": "2023-03-09 21:59:00",
-      "album": {
-        "name": "Vodka and Smoke",
-        "url": "https://open.spotify.com/album/3oDXIxLl40ilYOg0yfIfZm"
-      },
-      "artists": [
-        {
-          "name": "Metro Villa",
-          "url": "https://open.spotify.com/artist/5ix8M9VgoCHupwSJu5022W"
-        }
-      ],
-      "duration_ms": 276667,
-      "name": "Vodka and Smoke",
-      "url": "https://open.spotify.com/track/514tQtj7uyLHMn2yGgJkmj"
     },
     {
       "added_at": "2023-03-02 21:59:00",
@@ -775,22 +775,6 @@
       "duration_ms": 175728,
       "name": "Kopskud Revolusie (feat. Spoegwolf)",
       "url": "https://open.spotify.com/track/5taKG0t4Z0sv247eXWuWij"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "Remember the Hits Vol. 2",
-        "url": "https://open.spotify.com/album/25y45kTKUv2gmtQnUqzymB"
-      },
-      "artists": [
-        {
-          "name": "Jon Delinger",
-          "url": "https://open.spotify.com/artist/6N08SlULviNvUJhmDgevsF"
-        }
-      ],
-      "duration_ms": 249782,
-      "name": "Come Back to Me",
-      "url": "https://open.spotify.com/track/6IaBSKJbUHfH3MgRmLIr5p"
     },
     {
       "added_at": "2023-02-16 21:59:00",

@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 8504,
+  "num_followers": 8510,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTkwNTY3OSwwMDAwMDAwMGZmM2U0NzI3NDIwYjI1YmNlZWViMDIyMGVmMTRjN2Uw",
+  "snapshot_id": "MTY3OTkwNTY3OSwwMDAwMDAwMGM4MzRlYjI4ZjExNWFiZGY2YjgzNTQwNTJiMmNiMGM5",
   "tracks": [
     {
       "added_at": "2023-03-11 08:20:06",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-03-11 08:20:06",
       "album": {
-        "name": "On Rainy Days (2021)",
-        "url": "https://open.spotify.com/album/6KpcAZYdX5RrdXme2a12d8"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 230186,
-      "name": "On Rainy Days (2021)",
-      "url": "https://open.spotify.com/track/4a0OYMqeBOGuzCPLg5SfWU"
-    },
-    {
-      "added_at": "2023-03-11 08:20:06",
-      "album": {
         "name": "summer flows 0.02",
         "url": "https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 228500,
       "name": "ride",
       "url": "https://open.spotify.com/track/6k0YWt1KOckGRkFoKxElSN"
+    },
+    {
+      "added_at": "2023-03-11 08:20:06",
+      "album": {
+        "name": "On Rainy Days (2021)",
+        "url": "https://open.spotify.com/album/6KpcAZYdX5RrdXme2a12d8"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 230186,
+      "name": "On Rainy Days (2021)",
+      "url": "https://open.spotify.com/track/4a0OYMqeBOGuzCPLg5SfWU"
     },
     {
       "added_at": "2023-03-11 08:20:06",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-03-11 08:20:06",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/0pLInB6G2NXR87Pwi4O3dQ"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 237217,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/5n368tNF47S70THlmpaGLf"
-    },
-    {
-      "added_at": "2023-03-11 08:20:06",
-      "album": {
         "name": "wave 0.01",
         "url": "https://open.spotify.com/album/3v2wQt26hJ3ricGPZ1kbld"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 216399,
       "name": "bird",
       "url": "https://open.spotify.com/track/3A6DKSDBG8DyP1nndA6VVG"
+    },
+    {
+      "added_at": "2023-03-11 08:20:06",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/0pLInB6G2NXR87Pwi4O3dQ"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 237217,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/5n368tNF47S70THlmpaGLf"
     },
     {
       "added_at": "2023-03-11 08:20:06",

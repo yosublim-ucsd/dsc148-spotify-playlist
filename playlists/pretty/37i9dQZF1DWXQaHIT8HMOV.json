@@ -1,12 +1,12 @@
 {
   "description": "Top hits from homegrown artists showcasing rich culture and talent from Uganda",
-  "num_followers": 1431,
+  "num_followers": 1437,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0OTM4NiwwMDAwMDAwMDRlMzZiMGM5YjUyY2VjZDc0NTM1Y2MxNTUxYjMyMGEx",
+  "snapshot_id": "MTY4MTQ0OTM4NiwwMDAwMDAwMDlkNmIzZDQ3YzQwZTVjYjUyMGI5YTI1MDc4YjU2MDAz",
   "tracks": [
     {
       "added_at": "2023-04-06 20:59:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Stuck On You",
-        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
-      },
-      "artists": [
-        {
-          "name": "VineJohn",
-          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "Stuck On You",
-      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Pretty Young Thing",
         "url": "https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 190000,
       "name": "Pretty Young Thing",
       "url": "https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Stuck On You",
+        "url": "https://open.spotify.com/album/5YSGnmVJhAVx1vzbV54Uad"
+      },
+      "artists": [
+        {
+          "name": "VineJohn",
+          "url": "https://open.spotify.com/artist/3aTAgxC7LcBM44QpNlbazV"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "Stuck On You",
+      "url": "https://open.spotify.com/track/4N7uZttmsV4uQH7cGLn3z3"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -393,24 +393,24 @@
       "url": "https://open.spotify.com/track/4313TUVH2spsBkaGg8B8pC"
     },
     {
-      "added_at": "2023-04-06 20:59:00",
+      "added_at": "2023-04-14 05:16:26",
       "album": {
-        "name": "Enjoyment",
-        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/4XNZv5UNoT0UB8vXft9PBE"
       },
       "artists": [
         {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+          "name": "Fancy Fingers",
+          "url": "https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y"
         },
         {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+          "name": "Azawi",
+          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
         }
       ],
-      "duration_ms": 193776,
-      "name": "Enjoyment",
-      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
+      "duration_ms": 179762,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/1PfbJNTVJw6zSuyqJvf14J"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -431,22 +431,22 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Part2 (Dinner in Maui)",
-        "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
+        "name": "Enjoyment",
+        "url": "https://open.spotify.com/album/2PhVNYUYi6uiCsZerHfds4"
       },
       "artists": [
         {
-          "name": "Hermez",
-          "url": "https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6"
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
         },
         {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
         }
       ],
-      "duration_ms": 193896,
-      "name": "Part2 (Dinner in Maui)",
-      "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
+      "duration_ms": 193776,
+      "name": "Enjoyment",
+      "url": "https://open.spotify.com/track/5pf5ek4NcXQAsuoRhvO7A3"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -471,6 +471,26 @@
       "duration_ms": 157500,
       "name": "Leaving Summer",
       "url": "https://open.spotify.com/track/5rcpZXk678vSZxMcz8ZGz6"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Part2 (Dinner in Maui)",
+        "url": "https://open.spotify.com/album/2RjYPIml5GBer8oZvUV1OO"
+      },
+      "artists": [
+        {
+          "name": "Hermez",
+          "url": "https://open.spotify.com/artist/168iTeZjIZlN7Sc8ieZJl6"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        }
+      ],
+      "duration_ms": 193896,
+      "name": "Part2 (Dinner in Maui)",
+      "url": "https://open.spotify.com/track/6DuJn4hkMAzb4Iiamim1Te"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -503,26 +523,6 @@
       "duration_ms": 175000,
       "name": "Chai Mata",
       "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Sikwebela",
-        "url": "https://open.spotify.com/album/08tjyLILd9pe5oWiR1kOXe"
-      },
-      "artists": [
-        {
-          "name": "MC Yallah",
-          "url": "https://open.spotify.com/artist/5JEqaMjU6dwGqFJu2wn5Gg"
-        },
-        {
-          "name": "Debmaster",
-          "url": "https://open.spotify.com/artist/44DI5jAUWYRStA0amIvFRl"
-        }
-      ],
-      "duration_ms": 149312,
-      "name": "Sikwebela",
-      "url": "https://open.spotify.com/track/4G2CEKgb8m5jKItYAuVeJA"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -561,24 +561,24 @@
       "url": "https://open.spotify.com/track/7ov7271CIF8N5V5r6IspKw"
     },
     {
-      "added_at": "2023-04-14 05:16:26",
+      "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/4XNZv5UNoT0UB8vXft9PBE"
+        "name": "Sikwebela",
+        "url": "https://open.spotify.com/album/08tjyLILd9pe5oWiR1kOXe"
       },
       "artists": [
         {
-          "name": "Fancy Fingers",
-          "url": "https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y"
+          "name": "MC Yallah",
+          "url": "https://open.spotify.com/artist/5JEqaMjU6dwGqFJu2wn5Gg"
         },
         {
-          "name": "Azawi",
-          "url": "https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR"
+          "name": "Debmaster",
+          "url": "https://open.spotify.com/artist/44DI5jAUWYRStA0amIvFRl"
         }
       ],
-      "duration_ms": 179762,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/1PfbJNTVJw6zSuyqJvf14J"
+      "duration_ms": 149312,
+      "name": "Sikwebela",
+      "url": "https://open.spotify.com/track/4G2CEKgb8m5jKItYAuVeJA"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "4 U",
-        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
-      },
-      "artists": [
-        {
-          "name": "Ceee",
-          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
-        }
-      ],
-      "duration_ms": 135965,
-      "name": "4 U",
-      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Bulamu",
         "url": "https://open.spotify.com/album/0jOsRZm1XnBX4xuksaARJa"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 193246,
       "name": "Bulamu",
       "url": "https://open.spotify.com/track/2Kg2NJPPa6gkrwP6Kn4YHR"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "4 U",
+        "url": "https://open.spotify.com/album/1MgRMCqug76YT5f3dMp4vk"
+      },
+      "artists": [
+        {
+          "name": "Ceee",
+          "url": "https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT"
+        }
+      ],
+      "duration_ms": 135965,
+      "name": "4 U",
+      "url": "https://open.spotify.com/track/1sZFtAyyx16gmGz2wnp7ve"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -749,20 +749,20 @@
       "url": "https://open.spotify.com/track/4ctK1RbMMolmBH24Nws6bU"
     },
     {
-      "added_at": "2023-04-06 20:59:00",
+      "added_at": "2023-04-14 05:16:26",
       "album": {
-        "name": "Music for the Soul",
-        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
+        "name": "Leega",
+        "url": "https://open.spotify.com/album/40CrG5iYzKczTp0xHbUaN2"
       },
       "artists": [
         {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
         }
       ],
-      "duration_ms": 215757,
-      "name": "Riri",
-      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
+      "duration_ms": 214702,
+      "name": "Leega",
+      "url": "https://open.spotify.com/track/6wTXqwgEhXfdxYZOKEAtqP"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -797,20 +797,20 @@
       "url": "https://open.spotify.com/track/5QhpJ1fuYEwuUNUeaUPBqz"
     },
     {
-      "added_at": "2023-04-14 05:16:26",
+      "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Leega",
-        "url": "https://open.spotify.com/album/40CrG5iYzKczTp0xHbUaN2"
+        "name": "Music for the Soul",
+        "url": "https://open.spotify.com/album/1Py43eA0a9cU9cRuhvF46K"
       },
       "artists": [
         {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
         }
       ],
-      "duration_ms": 214702,
-      "name": "Leega",
-      "url": "https://open.spotify.com/track/6wTXqwgEhXfdxYZOKEAtqP"
+      "duration_ms": 215757,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/3kYMCCE3sV70yPOaFM4eCr"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -887,22 +887,22 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/53V8rIv7Bix3IbNXbnG0px"
+        "name": "Low",
+        "url": "https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb"
       },
       "artists": [
         {
-          "name": "Mugaba",
-          "url": "https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6"
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
         },
         {
-          "name": "Amani Greene",
-          "url": "https://open.spotify.com/artist/0nJznPzHXT4c62if3o5tsO"
+          "name": "Latinum",
+          "url": "https://open.spotify.com/artist/4L3ta0ADfVnBdi04utLTqA"
         }
       ],
-      "duration_ms": 184778,
-      "name": "Pause",
-      "url": "https://open.spotify.com/track/2yx8yJQIWgyZ3xS67mg8Qp"
+      "duration_ms": 201822,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6"
     }
   ],
   "unique_name": "Made In Uganda",

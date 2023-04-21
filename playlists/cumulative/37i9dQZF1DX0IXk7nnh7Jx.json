@@ -3472,7 +3472,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 241804,
       "name": "OH, YOUR GOODNESS!",
       "url": "https://open.spotify.com/track/55ssIBAfttyZyIxbhROXRl"
@@ -5286,6 +5286,28 @@
       "duration_ms": 108521,
       "name": "WAIT ON HIM",
       "url": "https://open.spotify.com/track/5UZoXgEHViOuSu4tBIbuyf"
+    },
+    {
+      "album": {
+        "name": "WAIT ON HIM (Funk Remix)",
+        "url": "https://open.spotify.com/album/23hKNPQ1U4AoZ15wDmoc43"
+      },
+      "artists": [
+        {
+          "name": "Saint James",
+          "url": "https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi"
+        },
+        {
+          "name": "JKO",
+          "url": "https://open.spotify.com/artist/3XOHfOgFSMuvOxOfzNOuIQ"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "WAIT ON HIM - Funk Remix",
+      "url": "https://open.spotify.com/track/5RJqdswyhkQRDxXuIqhOLC"
     },
     {
       "album": {

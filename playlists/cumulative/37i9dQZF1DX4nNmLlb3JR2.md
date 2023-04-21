@@ -4,7 +4,7 @@
 
 > A fresh lofi spin on your favourite tunes and old songs you love.
 
-188 songs - 7 hr 30 min
+190 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Born To Be Wild \- chill lofi remix](https://open.spotify.com/track/6Fl0hxOtP1xQ40Iwe1oRc8) | [The Remix Station](https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX), [The Rolling Beats](https://open.spotify.com/artist/7wvka6LIqEi6lGyljOm2h0) | [Born To Be Wild \- chill lofi remix](https://open.spotify.com/album/67Yu8CZ98TdOatwcujKpCs) | 2:06 | 2022-10-28 |  |
 | [Boyfriend \- Instrumental Lo\-Fi](https://open.spotify.com/track/44bi6DmplOmNDGSEexkHJo) | [Lowfie](https://open.spotify.com/artist/4QC0ZIhtfKdj6Y8YdXoy8x) | [Lo\-Fi Pop Covers, Vol.2](https://open.spotify.com/album/0bBDXJUNhgX3X04RUh7sJP) | 1:33 | 2022-09-02 |  |
 | [By This River \- Spotify Singles](https://open.spotify.com/track/3ZuyLRUhtxy3Aw8LOX3nsE) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Bluewerks: Spotify Singles](https://open.spotify.com/album/1PgcGR5YoK6f0BT00xD9LP) | 3:51 | 2022-09-02 |  |
+| [cake by the ocean](https://open.spotify.com/track/3PSfK8uljFKaWpFmhkUKjk) | [xOHARA](https://open.spotify.com/artist/2Sebo5izi3H67nS858uHoK) | [cake by the ocean](https://open.spotify.com/album/2UjrbW783efsL76eSx9BlX) | 2:14 | 2023-04-20 |  |
 | [californication](https://open.spotify.com/track/4tGyu6JEpbpYGCmwijRYOt) | [kent mills](https://open.spotify.com/artist/7622kFOP9UZ4bl6DN87EIZ) | [californication](https://open.spotify.com/album/2Dvz9vSWLxEBd2eO6uldcU) | 2:07 | 2022-12-02 |  |
 | [Californication](https://open.spotify.com/track/2qPuqNzXKGJxUGix3Ot6ff) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [Covers Collection \(Vol\. 3\)](https://open.spotify.com/album/6xV0OXNjDLNExHKq0NO6Tc) | 4:23 | 2022-09-02 |  |
 | [can't get you out of my head](https://open.spotify.com/track/0pMDDVEwKLJ0WaUK4BL4f2) | [amelia liz](https://open.spotify.com/artist/7N0txyqhJC7i8CPZQoWOVq) | [can't get you out of my head](https://open.spotify.com/album/5wox44PtCaRPxM1tMp1ozd) | 2:37 | 2023-03-01 |  |
@@ -191,6 +192,7 @@
 | [Wish You Were Here](https://open.spotify.com/track/5kr227jZLwUeZCDMU4JT1d) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl) | [Wish You Were Here](https://open.spotify.com/album/18SIXuoraTIBZdMy4jPVPD) | 2:57 | 2022-09-02 |  |
 | [wrecking ball](https://open.spotify.com/track/36jFRBBQIUbLxc7LRmGfir) | [Reggie Lume](https://open.spotify.com/artist/6wQTCO5DGk8vkOA0p514km) | [wrecking ball](https://open.spotify.com/album/2bByu5g7BkxtCO69Qpnsib) | 1:58 | 2023-02-07 |  |
 | [You Oughta Know](https://open.spotify.com/track/1wy11OtTLB78IcBoDrPP9W) | [Yoga Beats](https://open.spotify.com/artist/0YgFSc6eJJRhhgDnTdifyt), [Cameron Ford](https://open.spotify.com/artist/2Epdw19iNTn6Wv4YV29h9y) | [Jagged Little Chill](https://open.spotify.com/album/4WcB9SSwOI0DgKp2OJ6oFz) | 3:33 | 2022-10-07 |  |
+| [you shook me all night long](https://open.spotify.com/track/4Y49M9ujJJFgztbo1nU6w5) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [you shook me all night long](https://open.spotify.com/album/0kNYDcRWSwzGN1cUHQgmks) | 1:56 | 2023-04-20 |  |
 | [You'll Be In My Heart](https://open.spotify.com/track/3XXemjIqQleJMVtae2Vsb6) | [Jeff Kaale](https://open.spotify.com/artist/6HbFnvkO1zsyxqyyfbNRwL), [Disney Lofi](https://open.spotify.com/artist/2ETOhMwFhRRTCH8M1ge17v) | [Lofi Minnie: Chill](https://open.spotify.com/album/37Fq2lVxXUoEVOekYAo9Pm) | 4:48 | 2023-03-01 |  |
 | [you're makin' me high](https://open.spotify.com/track/49O7D9q23Z6o067OM9vHaE) | [NSW Kenny](https://open.spotify.com/artist/7rAgjCQMN8VOaqHzdKESzr) | [you're makin' me high](https://open.spotify.com/album/1qZR3NpT5gCEFiE0qWytWt) | 2:19 | 2023-02-07 |  |
 | [young folks](https://open.spotify.com/track/1aYcdEUigk7EO41RgbkYZh) | [Mrs Blonded](https://open.spotify.com/artist/6Gx6MRxYH7sQQTRe7EStEN) | [young folks](https://open.spotify.com/album/3UwBdJs9Mxm3y699ElCCKR) | 2:02 | 2023-01-06 |  |

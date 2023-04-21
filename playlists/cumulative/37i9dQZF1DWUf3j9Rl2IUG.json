@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg?si=KLI_k7C7RbKu67zS9IOi_A\"> Asake</a> ",
+  "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL?si=uflhdFTJTcChHYghWx3RoA\"> L.A.X</a> ",
   "name": "Gbedu",
   "tracks": [
     {
@@ -919,6 +919,32 @@
     },
     {
       "album": {
+        "name": "No Bad Vibes",
+        "url": "https://open.spotify.com/album/7Isz78RyCrtTdtVBexTV0E"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        },
+        {
+          "name": "Clemzy",
+          "url": "https://open.spotify.com/artist/3hfvLVSWxSXdxv0azihMtK"
+        },
+        {
+          "name": "DJ Obi",
+          "url": "https://open.spotify.com/artist/6f5BrFc4vmUU2dzfUVlcqe"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Energy (feat. DJ Obi)",
+      "url": "https://open.spotify.com/track/3EklQCmvvd8kjZ5YtGoXnF"
+    },
+    {
+      "album": {
         "name": "Escapade",
         "url": "https://open.spotify.com/album/5Crdlhgl0QFmuOGxfTvjke"
       },
@@ -1138,10 +1164,32 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 197894,
       "name": "Hypertension",
       "url": "https://open.spotify.com/track/5lLwFE3fCAQllnPLsKtFP9"
+    },
+    {
+      "album": {
+        "name": "I Salute (feat. Zlatan)",
+        "url": "https://open.spotify.com/album/57rCVdacl4vjhnT8UVb2n6"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187631,
+      "name": "I Salute (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/5o3dCqgRTiSt6MC3Gi0jzj"
     },
     {
       "album": {
@@ -1316,7 +1364,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 147326,
       "name": "Knee Down",
       "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"
@@ -1475,6 +1523,24 @@
     },
     {
       "album": {
+        "name": "Let Them Know",
+        "url": "https://open.spotify.com/album/5FCaxpcmBFkumiu6MpkD73"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204382,
+      "name": "Let Them Know",
+      "url": "https://open.spotify.com/track/6FLxB7ot3KZwjr0Zew8L7p"
+    },
+    {
+      "album": {
         "name": "Let There Be Light",
         "url": "https://open.spotify.com/album/6JwJpfpHsGoyENOJLHTk9b"
       },
@@ -1604,7 +1670,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 201874,
       "name": "Love You Well",
       "url": "https://open.spotify.com/track/2lGE2iyLAt0ICi0zKvArWo"
@@ -1670,7 +1736,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 206315,
       "name": "Maitama (Going)",
       "url": "https://open.spotify.com/track/6u333HFOmt5OTEqNg5qkEJ"
@@ -2780,6 +2846,28 @@
       "duration_ms": 155860,
       "name": "Traboski",
       "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
+    },
+    {
+      "album": {
+        "name": "Trumpet",
+        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187274,
+      "name": "Trumpet",
+      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
     },
     {
       "album": {

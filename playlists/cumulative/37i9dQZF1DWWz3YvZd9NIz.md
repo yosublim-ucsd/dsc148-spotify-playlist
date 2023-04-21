@@ -4,7 +4,7 @@
 
 > The best remixes of popular tracks!
 
-113 songs - 5 hr 45 min
+114 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/track/1qXFfxYo6lyVk8Cgeuyuu2) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [High Level](https://open.spotify.com/artist/4KvRH69whFDlnlkk39c1Hh) | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/album/7c9YtdfJjz6pCQWrrWb8Gn) | 2:00 | 2022-12-16 |  |
 | [Chase The Sun \(Hardstyle Mix\)](https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL) | [Psyko Punkz](https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS) | [Chase The Sun \(Hardstyle Mix\)](https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6) | 2:15 | 2023-01-26 | 2023-04-12 |
 | [Come With Me](https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Special D.](https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt) | [Come With Me](https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT) | 2:41 | 2022-12-05 |  |
+| [Cotton Eye Joe](https://open.spotify.com/track/6drFg3M61Ed3puJCcQ44XI) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Cotton Eye Joe](https://open.spotify.com/album/554PqhvRs4nc1b5M9Er6Ej) | 2:26 | 2023-04-20 |  |
 | [Country Roads](https://open.spotify.com/track/6wwAp1Cmkcwc7tlrP9U2X9) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Country Roads](https://open.spotify.com/album/5oZGGyO9tPtYKOkLi2rxkf) | 2:53 | 2022-12-05 |  |
 | [Creep \- Hardstyle Remix](https://open.spotify.com/track/3VwxvFdVh7i0NdroGxP3oz) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q), [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa) | [Creep \(Hardstyle Remix\)](https://open.spotify.com/album/0Qi2ncqZObbbkOlAt8MI92) | 3:07 | 2022-12-05 |  |
 | [Dark Horse \(Hardstyle\)](https://open.spotify.com/track/1U43pviSmkzoBDxIqPWbAc) | [PXSEIDON](https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw) | [Dark Horse \(Hardstyle\)](https://open.spotify.com/album/0WNNiEmWs9OlBiZaBvM9Et) | 1:48 | 2023-02-09 |  |
@@ -49,7 +50,7 @@
 | [Fire to the Rain \- Hardstyle Remix](https://open.spotify.com/track/4tZULb84s9ELGycuPWGa2k) | [ANDONIS](https://open.spotify.com/artist/1ji8ctPESvljpOLLvCbSRP) | [Fire to the Rain Hardstyle](https://open.spotify.com/album/1BLoFaML69GcWFn8uWkvX8) | 2:30 | 2023-02-09 |  |
 | [Firework](https://open.spotify.com/track/1U4Mw7gjMfM4GZh9mYgw16) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Firework](https://open.spotify.com/album/4Li0uK6UYj8neSzhAD6N0w) | 2:08 | 2022-12-05 |  |
 | [Forever Young](https://open.spotify.com/track/6mbT6kXc8kN2mC1PaM4wKv) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Forever Young](https://open.spotify.com/album/64HbV2QY0xeUBhVRBd6Yhu) | 3:21 | 2022-12-05 |  |
-| [Friday](https://open.spotify.com/track/41pcXZdymef4B80TYig9qT) | [MELON](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Vander Bass](https://open.spotify.com/artist/2XQtA0xF5aY9ZzxpjOgGRD), [Hardstyle Fruits Music](https://open.spotify.com/artist/5EkNG5Mzk2KopyyxAdNHJ8) | [Friday](https://open.spotify.com/album/0DZPkZHG0XqnBMqTWMLttB) | 2:32 | 2023-04-13 |  |
+| [Friday](https://open.spotify.com/track/41pcXZdymef4B80TYig9qT) | [MELON](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Vander Bass](https://open.spotify.com/artist/2XQtA0xF5aY9ZzxpjOgGRD), [Hardstyle Fruits Music](https://open.spotify.com/artist/5EkNG5Mzk2KopyyxAdNHJ8) | [Friday](https://open.spotify.com/album/0DZPkZHG0XqnBMqTWMLttB) | 2:32 | 2023-04-13 | 2023-04-21 |
 | [Gimme Bass](https://open.spotify.com/track/29mAlA42YLtpgMDWBmKb17) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Gimme Bass](https://open.spotify.com/album/4tGntCkV48pCNwIlKAMays) | 2:44 | 2022-12-05 | 2023-04-12 |
 | [Halo](https://open.spotify.com/track/0ln00F04EahMrWIb1Qijqo) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Halo](https://open.spotify.com/album/7ai7NJEVkIVTe2lPfYfC1X) | 2:50 | 2023-02-09 |  |
 | [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/track/4SNTRZEd437z47y4mL9vKi) | [Hard But Crazy](https://open.spotify.com/artist/1HKYpNnQsIvmReFNvFxdin), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt) | [Hardstyle Girl \(Harris & Ford Remix\)](https://open.spotify.com/album/6I2xwqoSru4cd1YYV3LU3L) | 2:45 | 2022-12-05 |  |

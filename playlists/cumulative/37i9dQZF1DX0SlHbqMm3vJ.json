@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Johnny Drille",
+  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Olamide & CKay",
   "name": "Ginger Me",
   "tracks": [
     {
@@ -292,6 +292,24 @@
       "duration_ms": 170000,
       "name": "Already Won",
       "url": "https://open.spotify.com/track/5N5JTHckZoTCvhjESdaMxK"
+    },
+    {
+      "album": {
+        "name": "Amina & The One",
+        "url": "https://open.spotify.com/album/6bdIYShApOLxOuaIiJXShU"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157208,
+      "name": "Amina",
+      "url": "https://open.spotify.com/track/7oAWhox1NR7AvI12w8Wzlg"
     },
     {
       "album": {
@@ -1688,7 +1706,7 @@
       ],
       "date_added": "2023-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 208163,
       "name": "Culture",
       "url": "https://open.spotify.com/track/5jfkErsgpDgdMQzO563tNL"
@@ -2160,6 +2178,24 @@
       "duration_ms": 177000,
       "name": "Fashion Killer",
       "url": "https://open.spotify.com/track/3R2Etej4zzbt8LTs3rvJA1"
+    },
+    {
+      "album": {
+        "name": "Feels",
+        "url": "https://open.spotify.com/album/4eziN2ydqDpZ2zNjr2ZWmD"
+      },
+      "artists": [
+        {
+          "name": "OCH\u00c9",
+          "url": "https://open.spotify.com/artist/0syn1OL9u8k1x9gEnNLt6X"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137872,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/2WE7yrbVF47nEmMkWCRwHd"
     },
     {
       "album": {
@@ -3573,6 +3609,24 @@
     },
     {
       "album": {
+        "name": "Let Them Know",
+        "url": "https://open.spotify.com/album/5FCaxpcmBFkumiu6MpkD73"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204382,
+      "name": "Let Them Know",
+      "url": "https://open.spotify.com/track/6FLxB7ot3KZwjr0Zew8L7p"
+    },
+    {
+      "album": {
         "name": "Lagos City Vice 2",
         "url": "https://open.spotify.com/album/64omUGepj0f51T6DJ57Tfy"
       },
@@ -4282,7 +4336,7 @@
       ],
       "date_added": "2021-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 192000,
       "name": "NEED ME",
       "url": "https://open.spotify.com/track/29tVTwzlKudGYkLOzbjAD3"
@@ -6150,7 +6204,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 141428,
       "name": "Tekkers",
       "url": "https://open.spotify.com/track/34xP9J8ofSuYzsAPM7LjCE"
@@ -6384,7 +6438,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 148800,
       "name": "TROUBLE - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw"
@@ -6432,6 +6486,28 @@
       "duration_ms": 247333,
       "name": "True Love (feat. Tay Iwar & Projexx)",
       "url": "https://open.spotify.com/track/4204hwPYuToiuSunPFUoML"
+    },
+    {
+      "album": {
+        "name": "Trumpet",
+        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187274,
+      "name": "Trumpet",
+      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
     },
     {
       "album": {

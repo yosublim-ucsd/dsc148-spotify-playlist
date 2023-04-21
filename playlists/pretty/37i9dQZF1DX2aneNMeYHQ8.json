@@ -1,12 +1,12 @@
 {
   "description": "A little alt, folk, and indie rock sprinkled into this delicious melting pot. Cover: The Revivalists\n",
-  "num_followers": 464948,
+  "num_followers": 464983,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTE0NzA4MSwwMDAwMDAwMDY0NWE1OTUyZmY5NjhhY2VlZWRlN2RmMTAwZGM0MWJi",
+  "snapshot_id": "MTY4MTE0NzA4MSwwMDAwMDAwMDk2OTMwYzVhN2Q4ZjhiYWNiYjMxNTdkZTI3OTEyNjhk",
   "tracks": [
     {
       "added_at": "2023-04-04 15:42:56",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-04-04 15:42:56",
       "album": {
-        "name": "Easy Now",
-        "url": "https://open.spotify.com/album/02bVPxzxY5E5yCmCuupRQT"
-      },
-      "artists": [
-        {
-          "name": "Noel Gallagher's High Flying Birds",
-          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
-        }
-      ],
-      "duration_ms": 233164,
-      "name": "Easy Now",
-      "url": "https://open.spotify.com/track/5uXWyJvnSIot8vVu8M4GGj"
-    },
-    {
-      "added_at": "2023-04-04 15:42:56",
-      "album": {
         "name": "Asphalt Meadows",
         "url": "https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS"
       },
@@ -687,6 +671,22 @@
     {
       "added_at": "2023-04-04 15:42:56",
       "album": {
+        "name": "Easy Now",
+        "url": "https://open.spotify.com/album/02bVPxzxY5E5yCmCuupRQT"
+      },
+      "artists": [
+        {
+          "name": "Noel Gallagher's High Flying Birds",
+          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
+        }
+      ],
+      "duration_ms": 233164,
+      "name": "Easy Now",
+      "url": "https://open.spotify.com/track/5uXWyJvnSIot8vVu8M4GGj"
+    },
+    {
+      "added_at": "2023-04-04 15:42:56",
+      "album": {
         "name": "Psychos",
         "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-04-04 15:42:56",
       "album": {
-        "name": "Blue Rev",
-        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Easy On Your Own?",
-      "url": "https://open.spotify.com/track/42oq4KDYcBwAHpEkV3PuWc"
-    },
-    {
-      "added_at": "2023-04-04 15:42:56",
-      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/2G3tS2k6gUuO14Y4fDxw4l"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 192134,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/4WTcpYfuTzxlWjffzeUjah"
+    },
+    {
+      "added_at": "2023-04-04 15:42:56",
+      "album": {
+        "name": "Blue Rev",
+        "url": "https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 174626,
+      "name": "Easy On Your Own?",
+      "url": "https://open.spotify.com/track/42oq4KDYcBwAHpEkV3PuWc"
     },
     {
       "added_at": "2023-04-04 15:42:56",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-04-04 15:42:56",
       "album": {
-        "name": "Motivational Speaking",
-        "url": "https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 192453,
-      "name": "Day by Day",
-      "url": "https://open.spotify.com/track/1bDS3ktQSucD150gp86iFU"
-    },
-    {
-      "added_at": "2023-04-04 15:42:56",
-      "album": {
         "name": "Oregon / Harvard",
         "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 198413,
       "name": "Oregon",
       "url": "https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13"
+    },
+    {
+      "added_at": "2023-04-04 15:42:56",
+      "album": {
+        "name": "Motivational Speaking",
+        "url": "https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 192453,
+      "name": "Day by Day",
+      "url": "https://open.spotify.com/track/1bDS3ktQSucD150gp86iFU"
     },
     {
       "added_at": "2023-04-04 15:42:56",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-04-04 15:42:56",
       "album": {
-        "name": "Play Loud",
-        "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
-      },
-      "artists": [
-        {
-          "name": "The Record Company",
-          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "How High",
-      "url": "https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G"
-    },
-    {
-      "added_at": "2023-04-04 15:42:56",
-      "album": {
         "name": "Sea Star",
         "url": "https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 207786,
       "name": "Sea Star",
       "url": "https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp"
+    },
+    {
+      "added_at": "2023-04-04 15:42:56",
+      "album": {
+        "name": "Play Loud",
+        "url": "https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk"
+      },
+      "artists": [
+        {
+          "name": "The Record Company",
+          "url": "https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "How High",
+      "url": "https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G"
     },
     {
       "added_at": "2023-04-04 15:42:56",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-04-04 15:42:56",
       "album": {
-        "name": "Shotgun",
-        "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 250053,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
-    },
-    {
-      "added_at": "2023-04-04 15:42:56",
-      "album": {
         "name": "U&ME",
         "url": "https://open.spotify.com/album/2LzUx0oJhUsjk4rBX8JAFK"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 198840,
       "name": "U&ME",
       "url": "https://open.spotify.com/track/1jyN2jROkI3dR6UbnkDPrp"
+    },
+    {
+      "added_at": "2023-04-04 15:42:56",
+      "album": {
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 250053,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/35PUhhwZL4HhmuqgOeFcfg"
     },
     {
       "added_at": "2023-04-04 15:42:56",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-04-04 15:42:56",
       "album": {
-        "name": "Miami",
-        "url": "https://open.spotify.com/album/3wApCcYjKiRA68wVVF3V1n"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 284960,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/6Swa2wkTqv5AzmeptAdn4d"
-    },
-    {
-      "added_at": "2023-04-04 15:42:56",
-      "album": {
         "name": "Live Like You",
         "url": "https://open.spotify.com/album/2NieQyyoTfUm1L8ovEaNda"
       },
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2023-04-04 15:42:56",
       "album": {
-        "name": "No Rule",
-        "url": "https://open.spotify.com/album/3q44ueZD50lWp4BXm0GDcE"
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/3wApCcYjKiRA68wVVF3V1n"
       },
       "artists": [
         {
-          "name": "Manchester Orchestra",
-          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
         }
       ],
-      "duration_ms": 325888,
-      "name": "No Rule",
-      "url": "https://open.spotify.com/track/5SvYRapjngsO2dYfBC9ZXV"
+      "duration_ms": 284960,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/6Swa2wkTqv5AzmeptAdn4d"
     },
     {
       "added_at": "2023-04-04 15:42:56",
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2023-04-04 15:42:56",
       "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/2T1BQNqAnEB9VC2dNrvpRR"
+        "name": "No Rule",
+        "url": "https://open.spotify.com/album/3q44ueZD50lWp4BXm0GDcE"
       },
       "artists": [
         {
-          "name": "Andrew McMahon in the Wilderness",
-          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
         }
       ],
-      "duration_ms": 270483,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/2lGIQz1KaDIFSoAtsYZWxI"
+      "duration_ms": 325888,
+      "name": "No Rule",
+      "url": "https://open.spotify.com/track/5SvYRapjngsO2dYfBC9ZXV"
     },
     {
       "added_at": "2023-04-04 15:42:56",
@@ -1555,6 +1539,22 @@
       "duration_ms": 218760,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/38D7NvjAcztFI1FKetw08V"
+    },
+    {
+      "added_at": "2023-04-04 15:42:56",
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/2T1BQNqAnEB9VC2dNrvpRR"
+      },
+      "artists": [
+        {
+          "name": "Andrew McMahon in the Wilderness",
+          "url": "https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM"
+        }
+      ],
+      "duration_ms": 270483,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/2lGIQz1KaDIFSoAtsYZWxI"
     },
     {
       "added_at": "2023-04-04 15:42:56",

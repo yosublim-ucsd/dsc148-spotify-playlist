@@ -4,7 +4,7 @@
 
 > Women at full volume! Cover: Dhurata Dora
 
-828 songs - 1 day 19 hr 38 min
+829 songs - 1 day 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,8 @@
 | [Halb 3](https://open.spotify.com/track/4S9w9u6MnE9j09UROeNsto) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Halb 3](https://open.spotify.com/album/7eBjH8qGXRW05o4RLI7Z6V) | 1:49 | 2022-02-01 | 2022-03-08 |
 | [hallo Kinder](https://open.spotify.com/track/6k6e4ZF2lrtwgwhHAgH73D) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [hallo Kinder](https://open.spotify.com/album/2cCsy0r86Odp6KRTK4dM0J) | 2:39 | 2022-01-04 | 2022-02-02 |
 | [Halluzination](https://open.spotify.com/track/2fdDMK5ANWPYHzPlfmvSig) | [Annett Gapstream](https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD) | [Halluzination](https://open.spotify.com/album/5NagXEhakJxCJwWvwiEQFO) | 6:10 | 2023-02-28 | 2023-04-05 |
-| [Happening](https://open.spotify.com/track/17IG2GzlTpFK3Axropk1Jm) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4ctUmGTDSaPBK4nxPopOKk) | 3:12 | 2023-04-04 |  |
+| [Happening](https://open.spotify.com/track/17IG2GzlTpFK3Axropk1Jm) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4ctUmGTDSaPBK4nxPopOKk) | 3:12 | 2023-04-04 | 2023-04-21 |
+| [Happening](https://open.spotify.com/track/4XU0y1xD1VulnULFzDQAna) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/4xADuwIS5TSQzoYTaPA5VH) | 3:12 | 2023-04-04 |  |
 | [Happiness](https://open.spotify.com/track/1cdXPtassjG2G4mtagd0sL) | [Freekind.](https://open.spotify.com/artist/5UEgXCXCQwKaQ4bmrSBcEV) | [Happiness](https://open.spotify.com/album/3awLtgdFb637B2kY7eQ3dq) | 3:24 | 2022-09-06 | 2022-10-05 |
 | [Happy](https://open.spotify.com/track/0AEXLqtldKlp5Kl48oSahy) | [WE ARE AVA](https://open.spotify.com/artist/5jJAPoKkkgYZyPnnoNLTLw) | [Happy](https://open.spotify.com/album/6xmmaNNmc3Ml6vGADbMKeX) | 2:39 | 2022-05-31 | 2022-07-06 |
 | [Harley Quinn](https://open.spotify.com/track/40cLuVN3G96ZcGjWluuBAQ) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [Harley Quinn](https://open.spotify.com/album/1GeXEh6XRAv8tvnC7W8hZD) | 2:07 | 2022-07-05 | 2022-08-03 |

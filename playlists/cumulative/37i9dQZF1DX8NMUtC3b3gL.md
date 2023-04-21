@@ -4,7 +4,7 @@
 
 > beautiful beats for beautiful moments.
 
-328 songs - 12 hr 50 min
+337 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Life of Joy](https://open.spotify.com/track/1dYGpcPwL6p2wrkq3mxDPm) | [Djsneverendingstory](https://open.spotify.com/artist/5H53Vq7VfrqjdEMX3mx5Xp) | [A Life of Joy](https://open.spotify.com/album/5DnA5FG3EQKFuVIcqqxtO9) | 3:15 | 2022-10-14 |  |
 | [A Life of Joy](https://open.spotify.com/track/7J7t21e5SpLxm1yYJZeeZF) | [Djsneverendingstory](https://open.spotify.com/artist/5H53Vq7VfrqjdEMX3mx5Xp) | [A Life of Joy](https://open.spotify.com/album/3ub5GRV9cYvsOhsSC3c3dS) | 3:15 | 2022-07-15 | 2022-10-20 |
 | [A Love Note](https://open.spotify.com/track/3esFgJFazYY26i5YwOekDi) | [Mr\. Jello](https://open.spotify.com/artist/36L95dDAJG3EJ2tstIZpFj), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt), [Strong.AL&](https://open.spotify.com/artist/41iDgaNQFTv4Igs0WMw8d1) | [A Love Note](https://open.spotify.com/album/0kzIwPWumx68D5eshhDX4D) | 2:06 | 2022-08-19 |  |
+| [A Night In Rio](https://open.spotify.com/track/4fnuzfQmjDLLOBYdXdmXum) | [Jussi Halme](https://open.spotify.com/artist/57nv9UWhYTBijBLYigIH2K), [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [A Night In Rio](https://open.spotify.com/album/6ymp9C7Cq6id82Dz5RJM91) | 2:25 | 2023-04-20 |  |
 | [a warm breeze](https://open.spotify.com/track/3xtFXpqq5OJ4NdlJVxpgRr) | [coldbrew](https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK) | [ode to summer](https://open.spotify.com/album/7gzLMwWkiNiaVVEeMxLcpM) | 2:07 | 2022-05-27 | 2022-11-12 |
 | [About Midnight](https://open.spotify.com/track/4qWo7tAotbfWgAWGrE1qWO) | [Jack Reefa](https://open.spotify.com/artist/7mS94sQcmmbPGWeF7vqfpB) | [Future Sound Of Be\-Bop](https://open.spotify.com/album/0Zvw8FlEegPu4y6MhAvfZi) | 2:05 | 2022-05-27 |  |
 | [Abracadabra](https://open.spotify.com/track/2tzpKB078CVO6s0L3zerxA) | [High Low Row](https://open.spotify.com/artist/2ExRfiZkCF0b2AR8vdCqk8) | [Abracadabra](https://open.spotify.com/album/46HcVEDXqFXCD0uIbiqL0I) | 4:26 | 2022-05-27 | 2022-07-08 |
@@ -94,6 +95,7 @@
 | [Electro Lofi](https://open.spotify.com/track/6fZgKfjI7TSVrjm3LPYnWB) | [´Goule](https://open.spotify.com/artist/2phpbwxQb0xbtDKXYP5VDu) | [Electro Lofi](https://open.spotify.com/album/2aq1w0HlCGB8hMf3nr2sPG) | 1:55 | 2022-05-27 |  |
 | [Elegua](https://open.spotify.com/track/3JKfpG7unjgUxjOVAVdxa3) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU), [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Elegua](https://open.spotify.com/album/6OxA3z3EOvhbEfPMQbM9Ka) | 2:02 | 2022-12-09 |  |
 | [Elevator Jam](https://open.spotify.com/track/05OuE2FeaeCkiz0EAKIqYZ) | [Wall Giant](https://open.spotify.com/artist/2SJLqBkYtTHwb0tYJDxnrf) | [Elevator Jam](https://open.spotify.com/album/0ILqNHJ9j8QNhBa3KomCeH) | 2:48 | 2022-05-27 |  |
+| [Encore](https://open.spotify.com/track/3HzvkY0HzN5PDlWXkgX9qs) | [shapes](https://open.spotify.com/artist/4BTgiaeE6KnrTaHsfEOPDC) | [Encore](https://open.spotify.com/album/622tAIkMJlUCGH556jdZAI) | 2:24 | 2023-04-20 |  |
 | [Endless Trial](https://open.spotify.com/track/6khoEFdFHEJvKpEqjscyXc) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Endless Trial](https://open.spotify.com/album/2X5s9BJcQ3kWg3eMr9sIiI) | 1:48 | 2022-08-12 | 2022-10-29 |
 | [Engraçado](https://open.spotify.com/track/1rD8PBJipssSYGR5F1KlFk) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Engraçado](https://open.spotify.com/album/7qqZGyhgzBV0nk2LtHRubI) | 1:53 | 2023-04-03 |  |
 | [Enough](https://open.spotify.com/track/2ALlB3nsSzTahHS1pH8Qnz) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [SōNE](https://open.spotify.com/artist/0vyQIO5WNw4aGfAaf9yUXi) | [Enough](https://open.spotify.com/album/0jmTlZaX5hQsFZ6PF2w63v) | 2:33 | 2023-04-03 |  |
@@ -163,6 +165,7 @@
 | [Just A Few Miles](https://open.spotify.com/track/3N5JOSqTmJoywIMqHngNZH) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84) | [Just A Few Miles](https://open.spotify.com/album/6snRVmsu7crJzrmKHZZazz) | 2:15 | 2022-09-23 |  |
 | [kinda wonderful](https://open.spotify.com/track/2HYaWr21HZQrC8gDFSFsz8) | [white noizz](https://open.spotify.com/artist/7czhgMvOftvpTun7qxVPPr) | [kinda wonderful](https://open.spotify.com/album/6A87KiSCfWLGMwB1ezU0SU) | 2:09 | 2022-05-27 |  |
 | [Kintsugi](https://open.spotify.com/track/5E3YYm8EmBn35w42VDj1fb) | [Third and Forever](https://open.spotify.com/artist/61ZLysh2sp3zFa23osGqBg) | [Third and Forever](https://open.spotify.com/album/07nMvYw3JrqK5832GuoFGD) | 2:20 | 2022-08-19 |  |
+| [Kitty Got Claws](https://open.spotify.com/track/4Pfh9UNVy3ok3CUbtHTip6) | [Beats On Cans](https://open.spotify.com/artist/2W6kwJ8wuKIw9JhUt1fofP) | [Kitty Got Claws](https://open.spotify.com/album/4zrNErMj3xEqBvQRPu30FR) | 1:59 | 2023-04-20 |  |
 | [laidback paradise](https://open.spotify.com/track/5vMQj2BQeVHxwnouYx2AfR) | [Rushee](https://open.spotify.com/artist/240eY7QFKitmqf9aiXwJQw) | [laidback paradise](https://open.spotify.com/album/6fGWUQo5V8HnrWppbPPYbe) | 3:21 | 2022-05-27 |  |
 | [Lasting Friendships](https://open.spotify.com/track/1GVnU4t7lZP96JiQjiL98r) | [Silk Surgeon](https://open.spotify.com/artist/43o413mKchb010kYQuLcyI) | [Lasting Friendships](https://open.spotify.com/album/6xhxC2JdPDkcvgGb318RiD) | 1:56 | 2022-06-24 | 2022-07-08 |
 | [Leaks](https://open.spotify.com/track/7LrHklAwWYsUNoFAwWDkDp) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Leaks](https://open.spotify.com/album/1YF3DE75jwhTCNwEYl2CsP) | 2:51 | 2022-07-29 | 2022-09-30 |
@@ -190,6 +193,7 @@
 | [Melrose](https://open.spotify.com/track/0Rgl3ZlwYRIqBXnlpswWTM) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB) | [Melrose](https://open.spotify.com/album/3tFXWxrKuIJFYu9iTTywXa) | 1:42 | 2022-06-03 | 2022-06-24 |
 | [Mirage](https://open.spotify.com/track/6WhmXYh77rfG5KieYfx5ad) | [Asha Eyes](https://open.spotify.com/artist/0kT70uuyReYQKONxepyC3Q) | [Mirage](https://open.spotify.com/album/1YxkNRrF5w5WQJyMURd69z) | 2:34 | 2022-10-07 |  |
 | [modernity](https://open.spotify.com/track/2Gwx7C7INLa5Ze2OwOPs8O) | [lonely call](https://open.spotify.com/artist/6Ssd20G0tbMif25RpIjxXM) | [modernity](https://open.spotify.com/album/1a097dX7Qga2xW0hQuYeXi) | 1:56 | 2022-05-27 | 2022-07-08 |
+| [Mooging Away](https://open.spotify.com/track/5UjCCzHAYZhSuTXHdfnk5G) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Mooging Away](https://open.spotify.com/album/3tGIr44JP55wqynE8EbUE4) | 2:25 | 2023-04-20 |  |
 | [Morning Coffee](https://open.spotify.com/track/5TdUqOVDbmmMUSTj5qne8U) | [Dr\. EuroDollar](https://open.spotify.com/artist/5kw3yDJJ3pSvEOSDvTsT7n) | [Morning Coffee](https://open.spotify.com/album/7h1FIH78FdkuzVW0VGunpy) | 2:09 | 2022-08-12 |  |
 | [Morning Glow](https://open.spotify.com/track/03UKH7unkeOer6mbroB56Q) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Morning Glow](https://open.spotify.com/album/2f4wtOv1lnMBQ09OY97sDJ) | 1:37 | 2022-05-27 | 2022-06-03 |
 | [Morning Thoughts](https://open.spotify.com/track/5BubJS4DjY6H6svy8jBrKG) | [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM), [darecloud](https://open.spotify.com/artist/3CEJ5kBVJx2hrk8bsEf8lp) | [Morning Thoughts](https://open.spotify.com/album/6Rd9ehMR9rLsPziuNdK6Sz) | 1:21 | 2022-06-24 | 2022-07-01 |
@@ -230,6 +234,7 @@
 | [Pizzazz](https://open.spotify.com/track/2uv5i2WtcA6TxsMO9YIQBR) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Pizzazz](https://open.spotify.com/album/5BfUFXf3jVHcDd48Tsk3Zv) | 2:16 | 2022-05-27 | 2022-09-03 |
 | [PJ](https://open.spotify.com/track/4245bsYQ8B8h1AaKzqhU7k) | [The Daily Bred](https://open.spotify.com/artist/2XaBoUP4lRy6lSZHywlwiD) | [Old Soul](https://open.spotify.com/album/0qEPqDvXeRr5EW47YCeIqb) | 4:43 | 2022-05-27 | 2022-07-15 |
 | [play’n rewind](https://open.spotify.com/track/4mQok4Y3Dvma1vB8cEdzP3) | [Mint Tape](https://open.spotify.com/artist/35l6dl8unoLV3T6EjbO0hn) | [play’n rewind](https://open.spotify.com/album/0Vra4cB3PZ6sjKbr19BQGO) | 1:21 | 2022-05-27 |  |
+| [Pleasure Management](https://open.spotify.com/track/3omD9V1ffkjV2YZJ5qs11A) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Pleasure Management](https://open.spotify.com/album/6DhW69NataNj5wX5W0q7hC) | 2:10 | 2023-04-20 |  |
 | [Polyforma](https://open.spotify.com/track/5TnCrehFKT6TsvHSeADpce) | [BLVKSHP](https://open.spotify.com/artist/49SU4KDi7vYuSfqsylFe6g) | [Polyforma](https://open.spotify.com/album/6dIeypjoGFFgegU5wj3C0s) | 3:09 | 2022-07-22 | 2022-08-12 |
 | [poolSide](https://open.spotify.com/track/2V33ELzmC3DA4hWxJoxjvX) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [Korean BBQ](https://open.spotify.com/album/0sxHgW3KYTmRfFq0qubtvU) | 2:36 | 2022-07-08 |  |
 | [Preti](https://open.spotify.com/track/1XSXrQlUswO2uLlfo1VQoc) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Preti](https://open.spotify.com/album/143OLYDZUl9xntSWAcOsOJ) | 2:25 | 2022-07-22 | 2022-09-09 |
@@ -272,6 +277,7 @@
 | [Solitaire](https://open.spotify.com/track/4SBrpMj6oa4keWYoXPklyL) | [Loe Moe](https://open.spotify.com/artist/7wKZzfuAPYrjb3kMCQX6II) | [Solitaire](https://open.spotify.com/album/4wub7J4LP8LsMC1Zj4kuDR) | 2:05 | 2022-09-09 |  |
 | [Some Say](https://open.spotify.com/track/0gSBc2xe2FvZXZpsloYAwu) | [Kathy Catchy](https://open.spotify.com/artist/3zDLVQgvm6DRcPgN1ypIBt) | [Some Say](https://open.spotify.com/album/1tHutlUmxF12xjp5sN81iN) | 2:38 | 2022-05-27 |  |
 | [Something Has Happened](https://open.spotify.com/track/5irlm4HR7wslp9BTuMlLQo) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi), [Hippo Dreams](https://open.spotify.com/artist/7d1hAWnZ7H67F3aarrkr9H), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Artifacts](https://open.spotify.com/album/5J0M15urtyOM5CxTjtgT8F) | 1:56 | 2022-05-27 |  |
+| [spice age](https://open.spotify.com/track/12Wq2oMs3cC5X4kLib48AX) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [spice age](https://open.spotify.com/album/6H4pKjbmFUb0tvbvaTSJHr) | 1:59 | 2023-04-20 |  |
 | [Spinning Ice Cubes](https://open.spotify.com/track/6HABopJrSooYxQmCfBTphQ) | [Hippo Dreams](https://open.spotify.com/artist/7d1hAWnZ7H67F3aarrkr9H) | [Spinning Ice Cubes](https://open.spotify.com/album/6ZoQ02AyceRUeRh6ipa2TK) | 2:04 | 2022-09-23 |  |
 | [star drive](https://open.spotify.com/track/1D1RwQ2Lt5F4gSsTApjoij) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [star drive](https://open.spotify.com/album/7p2Q3tN2DHenlhsWW2uZ87) | 2:01 | 2022-09-02 |  |
 | [Starlust](https://open.spotify.com/track/5XijzlJUxXVwKmMo2BoGDm) | [nrg](https://open.spotify.com/artist/6EEFjsH9sgqLhHpDzTsflL), [.ihaveaface](https://open.spotify.com/artist/70lhJJLywMwGqSshbha5Av) | [Starlust](https://open.spotify.com/album/3yO7pZzyGo8vuanWHaYCp4) | 2:45 | 2022-07-15 |  |
@@ -315,7 +321,9 @@
 | [Toyz](https://open.spotify.com/track/4Tx3rNMbcQABQzEnfc4lpF) | [PeeWee Cash](https://open.spotify.com/artist/0w7aB02RXntGs6Gng4IfIn) | [Toyz](https://open.spotify.com/album/0dlp73C5zJvWig7sYMMnV0) | 2:39 | 2022-05-27 | 2022-07-01 |
 | [Tram](https://open.spotify.com/track/2qrguu9bcFrNC40tpTu8ys) | [Mbrs Gear](https://open.spotify.com/artist/6bHl5CMbDUkkVJ0YUKqK30) | [Tram](https://open.spotify.com/album/4XQcFzMnkk5YKugdY9MkHM) | 2:10 | 2022-05-27 |  |
 | [treetops and flip flops](https://open.spotify.com/track/7B9XrqqtZSiWyrBC5QLEKY) | [laxlax](https://open.spotify.com/artist/7jaWfMGeX8R3FQuzCltkKA) | [treetops and flip flops](https://open.spotify.com/album/7yj5NFQFTkmRdAAZhVXWGa) | 2:27 | 2022-08-05 |  |
+| [Tropic of Capri\-Sun & Sodas](https://open.spotify.com/track/0xXik8DSYI7Y8SzcpaEIWP) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Tropic of Capri\-Sun & Sodas](https://open.spotify.com/album/7mXJ88wCsmgjjAMCy4j96H) | 2:59 | 2023-04-20 |  |
 | [undefined](https://open.spotify.com/track/4RzY9ZLhrqDwsbTl69va0t) | [Twinkz](https://open.spotify.com/artist/1uAbd4UZwniPiJefEpZfm9) | [undefined](https://open.spotify.com/album/3qJIV0suS9ltJYxEXB1dQF) | 1:41 | 2022-09-02 |  |
+| [Urban Chillax](https://open.spotify.com/track/26xKW0AN8JMF2muG39F8UR) | [Ludvig Freso](https://open.spotify.com/artist/6EL8Sngq7vN8aVAjWmLivS) | [Cozy Cafe Chronicles](https://open.spotify.com/album/1p9LKWRXihREGQJFsYcHZW) | 2:16 | 2023-04-20 |  |
 | [Vacation Days](https://open.spotify.com/track/3uywJ17iYcUK0niX2wE95F) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [Vacation Days](https://open.spotify.com/album/5mxnF5fVvpvWlK4TYW8Dh9) | 2:18 | 2022-05-27 | 2022-11-20 |
 | [Vacation Days](https://open.spotify.com/track/76cHnrbRZkkJzm6MbIrIHB) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm) | [Vacation Days](https://open.spotify.com/album/1l9PBk2Z5lUW5KuATKUMIu) | 2:18 | 2022-11-11 |  |
 | [Vivid Awake](https://open.spotify.com/track/1b1hS6FnAx5rJE0i17S187) | [Syzygy X](https://open.spotify.com/artist/5bQ0VyBeExuR0VDhSMIuii) | [Vivid Awake](https://open.spotify.com/album/5HFaR1pvKXlUsgJP6V9xTn) | 2:17 | 2022-05-27 |  |
@@ -335,6 +343,7 @@
 | [You’re a wizard Larry](https://open.spotify.com/track/4uj5GzaGYcWhMQJ8gs2Muf) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [You’re a wizard Larry](https://open.spotify.com/album/2u5LhMdMHGTbQU5JC7wXhM) | 2:07 | 2022-11-25 |  |
 | [yume](https://open.spotify.com/track/7AUPjm4vyi040tP5xrLJNH) | [Pat Poker](https://open.spotify.com/artist/6CAC4ia3z2NKbunyFfzEDS) | [yume](https://open.spotify.com/album/4ZfEICxa7tKz4UkrrQ3vPP) | 2:30 | 2022-08-12 |  |
 | [Zakky](https://open.spotify.com/track/0hZ2N9qQUApVWKWR1allC5) | [K9 Division](https://open.spotify.com/artist/14mNenIi1W5u68fvDTd7ES) | [Zakky](https://open.spotify.com/album/0qoRty23FJ6Whk9gQQvBIT) | 2:35 | 2022-05-27 |  |
+| [zum zum zum](https://open.spotify.com/track/0H5wGwPxWorkERCZqyUnc5) | [Isaac Tumor](https://open.spotify.com/artist/0xG7WIDGh5D81Fi04qsqzK) | [zum zum zum](https://open.spotify.com/album/72DcEF5iNlkEzFXg7PV0sU) | 2:26 | 2023-04-20 |  |
 | [Água de beber \- Lofi](https://open.spotify.com/track/1H1q2sQFV13oGHbMMOs48W) | [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv), [FaOut](https://open.spotify.com/artist/4yRJjgsEvPRqZOyNBOfZ9V) | [Água de beber \(Lofi\)](https://open.spotify.com/album/6E8Q1FV8DZsMZxannvP0BO) | 2:47 | 2022-07-01 | 2022-07-08 |
 
 \*This playlist was first scraped on 2022-06-02. Prior content cannot be recovered.

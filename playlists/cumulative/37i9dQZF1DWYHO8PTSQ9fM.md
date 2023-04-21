@@ -2,7 +2,7 @@
 
 ### [Hot Hits Maghreb](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Les hits du moment sont ici\. Cover : Kouz1
+> Les hits du moment sont ici\. Cover : Liamsi
 
 162 songs - 9 hr 2 min
 

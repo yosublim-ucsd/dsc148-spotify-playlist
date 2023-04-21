@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "FLEMMING op de cover van d\u00e9 Nederpop playlist",
+  "description": "Snelle & Jonna Fraser op de cover van d\u00e9 Nederpop playlist",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -136,6 +136,28 @@
       "duration_ms": 191200,
       "name": "Ala Day",
       "url": "https://open.spotify.com/track/0dBxxEhGVMH5EM9sjz3zxY"
+    },
+    {
+      "album": {
+        "name": "Alles Al",
+        "url": "https://open.spotify.com/album/3QxGactgkMfFmkUaqvr0mP"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184716,
+      "name": "Alles Al",
+      "url": "https://open.spotify.com/track/57rACaa3LKTruOGUENOXjW"
     },
     {
       "album": {
@@ -479,6 +501,24 @@
     },
     {
       "album": {
+        "name": "Blijf Weg",
+        "url": "https://open.spotify.com/album/5u55M6DoHMYK8udGKD6hZo"
+      },
+      "artists": [
+        {
+          "name": "WIES",
+          "url": "https://open.spotify.com/artist/4kswme1Kl2NXRCJ326f14n"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176782,
+      "name": "Blijf Weg",
+      "url": "https://open.spotify.com/track/4R6NnKwNseYYWtBXaMW6WX"
+    },
+    {
+      "album": {
         "name": "Blind Vertrouwen",
         "url": "https://open.spotify.com/album/77ibYjdivlUQtWaN7zX4uB"
       },
@@ -508,7 +548,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 138514,
       "name": "Bucketlist",
       "url": "https://open.spotify.com/track/4YITa5kXYgRNYKAQeLylRW"
@@ -620,7 +660,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 178541,
       "name": "Dat Kan Je Niet Kopen",
       "url": "https://open.spotify.com/track/4txaS5BTlGIlUNFmWef230"
@@ -764,7 +804,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 196033,
       "name": "Deel Van Mij",
       "url": "https://open.spotify.com/track/1vDtmWjpE1FEiIwlBjrppg"
@@ -986,7 +1026,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 167626,
       "name": "Gebruiksaanwijzing",
       "url": "https://open.spotify.com/track/618yYVf9TdfLpcj6tdePaP"
@@ -1188,6 +1228,28 @@
       "duration_ms": 199586,
       "name": "Het Feest Is Al Voorbij",
       "url": "https://open.spotify.com/track/79L1CzU84gFrFIqriFu6os"
+    },
+    {
+      "album": {
+        "name": "Hetzelfde",
+        "url": "https://open.spotify.com/album/2yjUK5W3QzyPXsTRwuhadJ"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Do",
+          "url": "https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176805,
+      "name": "Hetzelfde",
+      "url": "https://open.spotify.com/track/1mLP442VEMPztX02Gdsdfj"
     },
     {
       "album": {
@@ -2309,6 +2371,24 @@
     },
     {
       "album": {
+        "name": "Sexy",
+        "url": "https://open.spotify.com/album/6F47aUJVE7SBwQ4KDJaOek"
+      },
+      "artists": [
+        {
+          "name": "Paul Sinha",
+          "url": "https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132421,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/3ep4UFsL9NFPrTSReiJAWn"
+    },
+    {
+      "album": {
         "name": "SLAAPTEKORT",
         "url": "https://open.spotify.com/album/1RAZp1zZua1mGZREIWvKL6"
       },
@@ -2400,6 +2480,24 @@
       "duration_ms": 212386,
       "name": "Sterker Aan Jouw Zij",
       "url": "https://open.spotify.com/track/6exOnXSrSeRXD7SQHPo4ob"
+    },
+    {
+      "album": {
+        "name": "Sterker Dan De Storm",
+        "url": "https://open.spotify.com/album/11qRTASG7HKr227g4cdmz8"
+      },
+      "artists": [
+        {
+          "name": "Van Den Hil",
+          "url": "https://open.spotify.com/artist/5P5E6jVSNpreJUSWRJNjcl"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178245,
+      "name": "Sterker Dan De Storm",
+      "url": "https://open.spotify.com/track/0QPyuBHMMxBPq2RFSUUBQ0"
     },
     {
       "album": {
@@ -2620,7 +2718,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 164045,
       "name": "Tranen Om Te Lachen",
       "url": "https://open.spotify.com/track/0gdQfQM4aROhIG7YRt2yKr"

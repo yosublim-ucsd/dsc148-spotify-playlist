@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 92638,
+  "num_followers": 92807,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODgzMDY3MiwwMDAwMDAwMDBlMDcwODAyYjI5MWIyYzA5NmUyYTM3YzEzMjRlNmFj",
+  "snapshot_id": "MTY3ODgzMDY3MiwwMDAwMDAwMDc3ZTU4YjYwYzYxMjIzZDlmYjY4YmEwZGU3NmQ3OWQz",
   "tracks": [
     {
       "added_at": "2023-03-14 21:50:42",
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip"
     },
     {
-      "added_at": "2023-04-20 00:58:22",
+      "added_at": "2023-04-21 00:59:31",
       "album": {
         "name": "First Band On The Moon (Remastered)",
         "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
+        "name": "1982 4 Piece Demo",
+        "url": "https://open.spotify.com/album/7630ndv8hRJ54Cx8OpYGIG"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Switchblade",
+          "url": "https://open.spotify.com/artist/4z5NjzIMyaQC4dPxxzxF6e"
+        }
+      ],
+      "duration_ms": 194821,
+      "name": "Trees and Flowers",
+      "url": "https://open.spotify.com/track/39VxarnBZV8POFPXvnAD2U"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
         "name": "69 Love Songs",
         "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 162413,
       "name": "The Book of Love",
       "url": "https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
-        "name": "Early Music",
-        "url": "https://open.spotify.com/album/4EJQrRFgNXh8y3hI2wcQNH"
-      },
-      "artists": [
-        {
-          "name": "Voxtrot",
-          "url": "https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "The Start of Something",
-      "url": "https://open.spotify.com/track/30fQvBnDR8jLdN0SFcsFos"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "1982 4 Piece Demo",
-        "url": "https://open.spotify.com/album/7630ndv8hRJ54Cx8OpYGIG"
+        "name": "Early Music",
+        "url": "https://open.spotify.com/album/4EJQrRFgNXh8y3hI2wcQNH"
       },
       "artists": [
         {
-          "name": "Strawberry Switchblade",
-          "url": "https://open.spotify.com/artist/4z5NjzIMyaQC4dPxxzxF6e"
+          "name": "Voxtrot",
+          "url": "https://open.spotify.com/artist/7b697TI9p2abLzSo3eJTKW"
         }
       ],
-      "duration_ms": 194821,
-      "name": "Trees and Flowers",
-      "url": "https://open.spotify.com/track/39VxarnBZV8POFPXvnAD2U"
+      "duration_ms": 272080,
+      "name": "The Start of Something",
+      "url": "https://open.spotify.com/track/30fQvBnDR8jLdN0SFcsFos"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Big Echo",
-        "url": "https://open.spotify.com/album/5UYmZOpjjA5Y7GyZhjI6fy"
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
       },
       "artists": [
         {
-          "name": "The Morning Benders",
-          "url": "https://open.spotify.com/artist/5UqjSHztpMyc0liXncNbGD"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
         }
       ],
-      "duration_ms": 317426,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/4Tm2TkKTe23pgMXMzOK4Z2"
+      "duration_ms": 281746,
+      "name": "Romulus",
+      "url": "https://open.spotify.com/track/2woPqHnZek73ZIcozlk0Ig"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1251,34 +1251,18 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+        "name": "Big Echo",
+        "url": "https://open.spotify.com/album/5UYmZOpjjA5Y7GyZhjI6fy"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "The Morning Benders",
+          "url": "https://open.spotify.com/artist/5UqjSHztpMyc0liXncNbGD"
         }
       ],
-      "duration_ms": 281746,
-      "name": "Romulus",
-      "url": "https://open.spotify.com/track/2woPqHnZek73ZIcozlk0Ig"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
-        "name": "Made of Bricks",
-        "url": "https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY"
-      },
-      "artists": [
-        {
-          "name": "Kate Nash",
-          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
-        }
-      ],
-      "duration_ms": 245120,
-      "name": "Foundations",
-      "url": "https://open.spotify.com/track/1wi4ti9BYUbwoGJ1EBUVtv"
+      "duration_ms": 317426,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/4Tm2TkKTe23pgMXMzOK4Z2"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1295,6 +1279,22 @@
       "duration_ms": 192333,
       "name": "LDN",
       "url": "https://open.spotify.com/track/48T3AtfhOgz3euMEO2Z4hS"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "Made of Bricks",
+        "url": "https://open.spotify.com/album/4KNq0XtAJOTRKIA6W5zRsY"
+      },
+      "artists": [
+        {
+          "name": "Kate Nash",
+          "url": "https://open.spotify.com/artist/5vBKu1igxFo6g1sHADkIdg"
+        }
+      ],
+      "duration_ms": 245120,
+      "name": "Foundations",
+      "url": "https://open.spotify.com/track/1wi4ti9BYUbwoGJ1EBUVtv"
     },
     {
       "added_at": "2023-03-14 21:50:42",

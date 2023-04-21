@@ -110,10 +110,54 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 69683,
       "name": "Adulthood",
       "url": "https://open.spotify.com/track/5D8O2iH92KcvTpHRb691DF"
+    },
+    {
+      "album": {
+        "name": "Ahhi Kuj Khatteya",
+        "url": "https://open.spotify.com/album/1Stt5cMP16F8sn3bALd4ml"
+      },
+      "artists": [
+        {
+          "name": "Gurtaj",
+          "url": "https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO"
+        },
+        {
+          "name": "The Landers",
+          "url": "https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp"
+        },
+        {
+          "name": "Davi Singh",
+          "url": "https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143522,
+      "name": "Ahhi Kuj Khatteya",
+      "url": "https://open.spotify.com/track/6prYVb7vpt7o7zx7q2BaYM"
+    },
+    {
+      "album": {
+        "name": "Ain\u2019t Too Long",
+        "url": "https://open.spotify.com/album/0533kPz9WpIAMHF5nW10eT"
+      },
+      "artists": [
+        {
+          "name": "Deep Dhaliwal",
+          "url": "https://open.spotify.com/artist/0gGLeumBUhUmfJQjIMpvqv"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174023,
+      "name": "Ain\u2019t Too Long",
+      "url": "https://open.spotify.com/track/6cy1JX4TAyjfP9BTzqcQ3O"
     },
     {
       "album": {
@@ -362,7 +406,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 119072,
       "name": "Can't Judge",
       "url": "https://open.spotify.com/track/7HI8nsYQlsdz3DA02qbEpl"
@@ -530,7 +574,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 170250,
       "name": "Don\u2019T Care",
       "url": "https://open.spotify.com/track/4AGDZS12QtecmUYaIdIxZ5"
@@ -570,7 +614,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 172049,
       "name": "Excited",
       "url": "https://open.spotify.com/track/4zgEDxWXTVuNmkI79ptoms"
@@ -852,7 +896,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 192256,
       "name": "Highway To Hell",
       "url": "https://open.spotify.com/track/5f7N1TQ2N1Hf9Q4OUXLphX"
@@ -906,7 +950,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 157500,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/6o2hiOdWaq6hySMxPiQ04q"
@@ -1012,7 +1056,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 149731,
       "name": "Jatt Da Nishana",
       "url": "https://open.spotify.com/track/6N9A8SUlqnGQghsclChU5x"
@@ -1088,7 +1132,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 150909,
       "name": "Jhoonte",
       "url": "https://open.spotify.com/track/3dPThOApKc4R5dPoKxHsx1"
@@ -1186,7 +1230,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 176158,
       "name": "Miss India",
       "url": "https://open.spotify.com/track/25YxiGah27DBUtuxADIzug"
@@ -1208,6 +1252,36 @@
       "duration_ms": 213131,
       "name": "Modern Mirza",
       "url": "https://open.spotify.com/track/20gi7fdusYZmDvsj8hBd3Z"
+    },
+    {
+      "album": {
+        "name": "Muchh (From \" Yaaran Da Rutbaa)",
+        "url": "https://open.spotify.com/album/3Ld0wlvOJnsMD2KBdJSSVq"
+      },
+      "artists": [
+        {
+          "name": "Dilpreet Dhillon",
+          "url": "https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m"
+        },
+        {
+          "name": "Simar Kaur",
+          "url": "https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        },
+        {
+          "name": "Balkar",
+          "url": "https://open.spotify.com/artist/6zNY19Sp24dlHukMG0CC3k"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Muchh (From \" Yaaran Da Rutbaa)",
+      "url": "https://open.spotify.com/track/46BRhYVMvVdqVCnkMxsZvM"
     },
     {
       "album": {
@@ -1266,7 +1340,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 128274,
       "name": "Naam Jatt Da",
       "url": "https://open.spotify.com/track/6TjqQuqXmXOfHIsCcYvBaI"
@@ -1394,7 +1468,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 154948,
       "name": "No Way Back",
       "url": "https://open.spotify.com/track/6OA60KrsBqTBUS1uk4kVwo"
@@ -1430,7 +1504,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 150315,
       "name": "Nukra",
       "url": "https://open.spotify.com/track/113NNK55hGq1KmKOyz7qH2"
@@ -1536,7 +1610,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 153043,
       "name": "Pinda Aale",
       "url": "https://open.spotify.com/track/34uGihf7olNByEcHPVGbsV"
@@ -1562,7 +1636,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 178636,
       "name": "Raakhi (From \"Annhi Dea Mazaak Ae\")",
       "url": "https://open.spotify.com/track/0le7rsL6RS0cv3JRpPHim3"
@@ -1584,7 +1658,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 136000,
       "name": "Raid",
       "url": "https://open.spotify.com/track/0zzFgse3Kxav0FTpHD32JH"
@@ -1658,7 +1732,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 224347,
       "name": "Shawty Like A Melody",
       "url": "https://open.spotify.com/track/6FThFO8Pnz9YEbgyERV9XG"
@@ -1702,6 +1776,28 @@
       "duration_ms": 219200,
       "name": "Shohrat",
       "url": "https://open.spotify.com/track/2SMVMeQdop9x1cW3wCr6Y4"
+    },
+    {
+      "album": {
+        "name": "Silicone",
+        "url": "https://open.spotify.com/album/1RqwEmbCknatOwhjzxRMLV"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        },
+        {
+          "name": "Prodgk",
+          "url": "https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206257,
+      "name": "Silicone",
+      "url": "https://open.spotify.com/track/0qLjHFymEO1R7JSCeqomqQ"
     },
     {
       "album": {
@@ -1760,7 +1856,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 141529,
       "name": "TALK LESS",
       "url": "https://open.spotify.com/track/2FdHYqak0QNYVvvvYfTKLN"
@@ -1888,7 +1984,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 189094,
       "name": "W",
       "url": "https://open.spotify.com/track/2c4J01PS0n3oGz0uTHBnK8"

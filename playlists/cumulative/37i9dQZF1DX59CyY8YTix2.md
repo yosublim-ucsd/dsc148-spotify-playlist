@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: chilldspot
 
-896 songs - 2 day 8 hr 51 min
+897 songs - 2 day 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,7 +292,7 @@
 | [Q&A](https://open.spotify.com/track/1LxBNrw3vXh6U87t8kV3l0) | [ソールドシュガー](https://open.spotify.com/artist/2g7ZNRIgwT0g7zRx3CrU28) | [Q&A](https://open.spotify.com/album/65XfFPPFiOGkYgrmMjSJcB) | 4:26 | 2022-06-02 | 2022-06-07 |
 | [RADIO PAPA, RADIO MAMA](https://open.spotify.com/track/4ojPYVNetwcuBUNzkWfHpl) | [pandagolff](https://open.spotify.com/artist/4KReHO9hW14qVILtZReCra) | [RADIO PAPA, RADIO MAMA](https://open.spotify.com/album/7zlDqri2aHgVS3wK4YDwYW) | 3:11 | 2023-01-31 | 2023-03-01 |
 | [Radio song](https://open.spotify.com/track/5Li7CiLPW0LxAXw16xys6F) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/6sUwn2TICQMSAdXBeiq6lL) | 4:00 | 2022-10-04 | 2022-10-06 |
-| [Radio song](https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD) | 4:00 | 2022-10-04 | 2023-04-19 |
+| [Radio song](https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [A revolution](https://open.spotify.com/album/4hQR4egbzyjzu0MchDMZAD) | 4:00 | 2022-10-04 |  |
 | [Radio Star](https://open.spotify.com/track/1YeYZVR8zjv8K7iABHP6sD) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Radio Star](https://open.spotify.com/album/3Og5gta9zMnchjl4FX1RIe) | 3:02 | 2022-12-07 | 2022-12-08 |
 | [Radio Star](https://open.spotify.com/track/6sBKJKgBllikmmtVIVWOyN) | [Subway Daydream](https://open.spotify.com/artist/4Iiidb9Wqw3kMFVEMxtEyf) | [Radio Star](https://open.spotify.com/album/1YwAZ2D2cjHApWSZcAeXON) | 3:02 | 2022-12-08 | 2023-01-11 |
 | [rainy](https://open.spotify.com/track/7Hjyszt5KtLywfswsmkXeA) | [LIGHTERS](https://open.spotify.com/artist/3zIMtn2DQfuy14ZUthklGq) | [rainy](https://open.spotify.com/album/4H6V1w7bBvx3hfz9pJ4Lhk) | 2:26 | 2022-11-15 | 2022-12-07 |
@@ -331,6 +331,7 @@
 | [Shunrai](https://open.spotify.com/track/6QIyB1933cJ6VBt50bzidT) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 3:39 | 2023-01-12 |  |
 | [SHUTTER CHANCE](https://open.spotify.com/track/5zWmcgatjW7RhcqjUX41Wj) | [Hi Cheers!](https://open.spotify.com/artist/3FtZDTzCnJcwj722rHC53o) | [SHUTTER CHANCE](https://open.spotify.com/album/18RhkIHenGsmVmx1j7A1UJ) | 2:50 | 2022-07-19 | 2022-07-27 |
 | [Silly romance](https://open.spotify.com/track/0Z9oufPvd3uaolj0lw4eMk) | [EDOGA\-SULLIVAN](https://open.spotify.com/artist/0MfHOOVaHSNHSiNtOBOkkA) | [Silly romance](https://open.spotify.com/album/56VA0kGYvHZkzyyGMkEkcb) | 2:36 | 2022-09-13 | 2022-09-21 |
+| [Sincere](https://open.spotify.com/track/1FFn2s4koZgC3CYH1Xi2HI) | [Bray me](https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h) | [Sincere](https://open.spotify.com/album/0bGwHGRHNQ5ZIiEZajN8aD) | 3:54 | 2023-04-20 |  |
 | [Sing The Moon](https://open.spotify.com/track/5aDVNw5prQNcjWF02jhxmo) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [Sing The Moon](https://open.spotify.com/album/5J5JoAGR9Ui790ti2gDNiO) | 3:26 | 2022-08-22 |  |
 | [Sit Down, Let Me Tell You a Story.](https://open.spotify.com/track/6Ob8OB78fzTYUs9GUVvzrT) | [Deerhoof](https://open.spotify.com/artist/7AZwAitWq1KcFoIJhRWb6V) | [Sit Down, Let Me Tell You a Story.](https://open.spotify.com/album/1o16zgpmVi9uWECUI9jCCk) | 2:05 | 2023-01-17 | 2023-03-01 |
 | [Slow Motion](https://open.spotify.com/track/1JWtFauEXNtgbEif9fdCTg) | [天国姑娘](https://open.spotify.com/artist/60JSPE63xy6m6MWoY0D663) | [Slow Motion](https://open.spotify.com/album/4qzVqMaVapyv6zvK6uFxoR) | 4:09 | 2022-12-15 | 2023-01-11 |
@@ -444,7 +445,7 @@
 | [うみべの町](https://open.spotify.com/track/7KKXHXX913wiVckdwtYkNj) | [揺らす](https://open.spotify.com/artist/2gY7l0hsZP0p2G2HNsXmin) | [うみべの女の子](https://open.spotify.com/album/7qxZ61rX3UI5Bp1q4Bnx0X) | 3:30 | 2022-06-30 | 2022-07-15 |
 | [おぼえたて](https://open.spotify.com/track/2YUmsIakVgh7gkHFKlTmpF) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [ペンシルロケット](https://open.spotify.com/album/1rnWvBKAElp5VrP7gXy9K8) | 3:27 | 2022-10-25 | 2023-01-18 |
 | [おもちゃ箱はタイムマシン](https://open.spotify.com/track/0sg85QLa5f8Z0m1eWSqkyI) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [おもちゃ箱はタイムマシン](https://open.spotify.com/album/3l1zYsPI4PH6TO8RQHotyc) | 5:48 | 2022-09-22 | 2022-10-05 |
-| [お裁縫リフレッシュ](https://open.spotify.com/track/2bR2b6HB6X3BCpC7zVJlZJ) | [pandagolff](https://open.spotify.com/artist/4KReHO9hW14qVILtZReCra) | [お裁縫リフレッシュ](https://open.spotify.com/album/4IpoANH6ZchRcz9puHW5kZ) | 3:42 | 2023-04-04 |  |
+| [お裁縫リフレッシュ](https://open.spotify.com/track/2bR2b6HB6X3BCpC7zVJlZJ) | [pandagolff](https://open.spotify.com/artist/4KReHO9hW14qVILtZReCra) | [お裁縫リフレッシュ](https://open.spotify.com/album/4IpoANH6ZchRcz9puHW5kZ) | 3:42 | 2023-04-04 | 2023-04-21 |
 | [かくれん坊](https://open.spotify.com/track/1L3UMJURyF9UVc2Z4O16s6) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [ぼやぁ\~じゅ](https://open.spotify.com/album/5sw6cVMbXiNO6T7i5vfCP5) | 3:52 | 2022-08-02 | 2022-09-15 |
 | [かつて天才だった俺たちへ \(feat\. ASOBOiSM\)](https://open.spotify.com/track/7hEGeTypOtmAiNKaKVPxqn) | [AFTER HOURS](https://open.spotify.com/artist/0tt41FYRZVpxGMpgCaOmGi), [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D) | [かつて天才だった俺たちへ \(feat\. ASOBOiSM\)](https://open.spotify.com/album/0aY7cHP9Q2gj7NlpIrEyWb) | 3:26 | 2022-05-31 | 2022-06-10 |
 | [かはたれ時に](https://open.spotify.com/track/3fVGAML0tngj8CyUJSPFfM) | [PASSEPIED](https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c) | [かはたれ時に](https://open.spotify.com/album/1EWa05O03VPx0aJlNSEMSd) | 3:11 | 2022-11-01 | 2022-11-09 |
@@ -718,7 +719,7 @@
 | [夏嵐](https://open.spotify.com/track/7cD5iMN0Oq385by3Xhg8Ca) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [夏嵐](https://open.spotify.com/album/5uRsMPKDnQfqIdnFPUs9Rx) | 3:16 | 2022-05-31 | 2022-07-07 |
 | [夏影、](https://open.spotify.com/track/6TNCjUqjCfNyhqZKqTFMeY) | [anna calla](https://open.spotify.com/artist/5Kjfw00jyKFzU8IwAmwAy0) | [夏影、](https://open.spotify.com/album/2x3IupbEeHXoOmL8Y73T3c) | 4:09 | 2022-06-23 | 2022-06-28 |
 | [夜に生まれたお姫様](https://open.spotify.com/track/7MCnpCGq28ysMbvJw6FxLx) | [Carnival](https://open.spotify.com/artist/6uXssdScTiNC7wYrQWl7fF) | [夜に生まれたお姫様](https://open.spotify.com/album/6CP3c39dturRDbXal1225w) | 3:41 | 2022-06-23 | 2022-07-09 |
-| [夜啼鶯](https://open.spotify.com/track/5xGnQbGzev2iqqBFVoDzlg) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [十二次元](https://open.spotify.com/album/54OOd6x03hdIYeHWYajNyP) | 2:18 | 2023-01-31 |  |
+| [夜啼鶯](https://open.spotify.com/track/5xGnQbGzev2iqqBFVoDzlg) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [十二次元](https://open.spotify.com/album/54OOd6x03hdIYeHWYajNyP) | 2:18 | 2023-01-31 | 2023-04-21 |
 | [夜逃げ](https://open.spotify.com/track/6DtpRO1A0MRiGsWgKXlmzB) | [Ran](https://open.spotify.com/artist/79b158VP6p9yoQpqIqU4UR) | [夜逃げ](https://open.spotify.com/album/46sPxSwFOOq2zjACGq1grI) | 4:02 | 2022-05-26 | 2022-07-22 |
 | [夢をみせて](https://open.spotify.com/track/6Xl3ty4oPbccRS9ehumXID) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [夢をみせて](https://open.spotify.com/album/1PuFtFOnOSXNOHkKJkYcWm) | 5:24 | 2022-09-27 |  |
 | [大人になりたくない](https://open.spotify.com/track/6VYPwkSVZpfo0C7uPwl9v8) | [アカネサス](https://open.spotify.com/artist/7E61BhEMgngwg7EPgS17vl) | [大人になりたくない](https://open.spotify.com/album/1p26UNNwzU672gSeXDWU6U) | 3:27 | 2023-01-17 | 2023-01-19 |

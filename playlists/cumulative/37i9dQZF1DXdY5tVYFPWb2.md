@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-501 songs - 1 day 9 hr 6 min
+503 songs - 1 day 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [Make You, Make Me](https://open.spotify.com/track/0griATJYc9f9hCmHbuwBV1) | [CHiLi GiRL](https://open.spotify.com/artist/1kY3BOyFg8uv9aEQjr6R95) | [Make You, Make Me](https://open.spotify.com/album/3F8o6IneNTKnXPCCTPnbBz) | 3:23 | 2022-12-06 | 2022-12-14 |
 | [Metro](https://open.spotify.com/track/3mAzDOzooTATJzbPWkDnfN) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Metro](https://open.spotify.com/album/0LSl6mayhRd9fFCjhjiLVo) | 3:37 | 2022-07-05 | 2022-07-08 |
 | [METRO \- XL Middleton Remix](https://open.spotify.com/track/52QdtRrirgHtZJ6JLSbpD8) | [Schuwa Schuwa](https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8), [XL Middleton](https://open.spotify.com/artist/6jvRzmQ1J8Kr2QEi6JzQmh) | [METRO \(XL Middleton Remix\)](https://open.spotify.com/album/4QAelJ3mjmDtK9tkGOblvV) | 3:41 | 2022-07-19 | 2022-07-21 |
-| [Midnight Dew](https://open.spotify.com/track/7nxFb3o21pld23nhJNueQD) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [Midnight Dew](https://open.spotify.com/album/4pOcjmEBUBTkrcuBq0VNaM) | 4:06 | 2022-05-24 |  |
+| [Midnight Dew](https://open.spotify.com/track/7nxFb3o21pld23nhJNueQD) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [Midnight Dew](https://open.spotify.com/album/4pOcjmEBUBTkrcuBq0VNaM) | 4:06 | 2022-05-24 | 2023-04-21 |
 | [Midnight Inclusion](https://open.spotify.com/track/3MqWoxJK7lI4f1o97RChHs) | [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [Midnight Inclusion](https://open.spotify.com/album/07qpfnsM4dhv0bRUe187Ut) | 3:44 | 2022-12-13 | 2023-01-25 |
 | [Midnight Inclusion](https://open.spotify.com/track/6Q1azlryOoKMGl8hOTL6oY) | [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [Midnight Inclusion](https://open.spotify.com/album/6peKRsEDyhcbArzx9S0RWl) | 3:44 | 2022-12-13 | 2022-12-15 |
 | [Midnight Pretenders \(feat\. ひかり\)](https://open.spotify.com/track/5fHDSR4DixHSS93sPW1tWL) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Midnight Pretenders \(feat\. ひかり\)](https://open.spotify.com/album/7iKiMZAlyXjlC3HGP9DKnI) | 5:47 | 2022-05-24 | 2022-07-29 |
@@ -184,7 +184,7 @@
 | [Midnight Train](https://open.spotify.com/track/7HNzutKeiNnnBvW2GJbner) | [Murakami Keisuke](https://open.spotify.com/artist/0Vw8tOe5RjKNfs8fksBGXu) | [Midnight Train](https://open.spotify.com/album/6YuddXfc7Sthy3IZnshpmC) | 3:39 | 2022-10-25 | 2022-12-07 |
 | [Minari](https://open.spotify.com/track/7fSzV3YaugQjbfQJn1JOKf) | [Monenai](https://open.spotify.com/artist/3Z0IWHS1zD8VAjNoNqq4sB) | [Minari](https://open.spotify.com/album/712igKFozl7rB8zY3HqKiG) | 2:54 | 2023-03-28 | 2023-04-05 |
 | [Miragesong](https://open.spotify.com/track/4pNncZKpSx98scdDjn6COu) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [Miragesong](https://open.spotify.com/album/1UlKV6Ue1vVWHmnTzisGbt) | 4:45 | 2022-12-06 | 2023-02-19 |
-| [Mirrors](https://open.spotify.com/track/18LOgLjl2ljm2eOKKhYiWi) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Twilight](https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf) | 4:30 | 2022-05-24 |  |
+| [Mirrors](https://open.spotify.com/track/18LOgLjl2ljm2eOKKhYiWi) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [Twilight](https://open.spotify.com/album/5gfcLajeC6hAaslnzb0bxf) | 4:30 | 2022-05-24 | 2023-04-21 |
 | [monochrome](https://open.spotify.com/track/2qSY7Jceytm7QtkgvpV9Tn) | [Sayaka Kushibiki](https://open.spotify.com/artist/7LVZhoYVy97yvWR5411D8P) | [monochrome](https://open.spotify.com/album/60NWccBArijUkRxJWTe9E1) | 4:11 | 2022-11-30 | 2022-12-07 |
 | [MOON NIGHT](https://open.spotify.com/track/4Ndg10oNRmN8FtOrWxs3Q5) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [Black Humor](https://open.spotify.com/album/0LNnAK39uQkjEa0fSCYjBt) | 3:10 | 2022-05-24 |  |
 | [Moonlight](https://open.spotify.com/track/2APtffxTwkZAde3re7lPwT) | [felio](https://open.spotify.com/artist/5pRdgTB9LGXmh9dTVhXSrL), [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Moonlight](https://open.spotify.com/album/672QCcQwdw98EnUQ57E4yJ) | 3:17 | 2022-11-24 | 2023-02-08 |
@@ -309,6 +309,7 @@
 | [Talkin' Talkin'](https://open.spotify.com/track/5qvsE4V7Vpqa8GHDHQoQta) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Talkin' Talkin'](https://open.spotify.com/album/76D9Qr6EaD8P56RKKjgCF9) | 3:44 | 2023-03-07 |  |
 | [Tangerine](https://open.spotify.com/track/5BM1h0qH0CVWMjw0RIQtbn) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Tangerine](https://open.spotify.com/album/7Jox1gthhLqTpzfswyMnk2) | 3:22 | 2022-05-24 | 2022-06-29 |
 | [tasty tasks](https://open.spotify.com/track/3HQ7aHzoLMlbjtYW8rUPGN) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [pool mood / tasty tasks / 息を吸う ここで吸う 生きてく](https://open.spotify.com/album/6IL2lsyn0niP1eZyoLV5lz) | 4:07 | 2022-06-02 | 2022-07-28 |
+| [TATTOO](https://open.spotify.com/track/36jIu8oPR1Z4cguMuHxUXA) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [TATTOO](https://open.spotify.com/album/3VqutKQybsb2z1IT9CDRUE) | 4:48 | 2023-04-20 |  |
 | [Taxi driver](https://open.spotify.com/track/081aH87V7FfLfGoenHYBQE) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [Taxi driver](https://open.spotify.com/album/1JBnoKEtIT5Fc3gJbsiZ5c) | 3:49 | 2022-11-24 | 2023-03-07 |
 | [Terminal](https://open.spotify.com/track/3rhOErwrktp6BhHxpJ0W7b) | [Mashiro Shirakami](https://open.spotify.com/artist/4m5nPDb3wgSoFINV9szgbx) | [Terminal](https://open.spotify.com/album/6kD6CDLaZcFleo6HLt5jOB) | 3:59 | 2022-09-27 | 2022-10-05 |
 | [Thank you for the Music](https://open.spotify.com/track/1eKsUjRIRU6qJLDgNK5gBT) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Thank you for the Music](https://open.spotify.com/album/5YjWnYtYne2BxgybhtSJTM) | 5:23 | 2022-10-04 | 2022-10-06 |
@@ -342,6 +343,7 @@
 | [YOU+ME=](https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw) | [TICKETS](https://open.spotify.com/album/4Rt5bFyqY0uE8wdXJMID9z) | 2:51 | 2022-05-24 |  |
 | [your room](https://open.spotify.com/track/0ny70e6ql2HOEmQVfnWI8N) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB) | [your room](https://open.spotify.com/album/3JijWekYCz4gBkWB1jFeX6) | 3:35 | 2022-10-25 | 2023-04-11 |
 | [your room](https://open.spotify.com/track/1SQyaGfArVFSknUxwXzn80) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Mikeneko Homeless](https://open.spotify.com/artist/2I9uX6V9umuZP9CH5ufBEB) | [your room](https://open.spotify.com/album/7khBUxZhpj2K9019INmwGe) | 3:35 | 2022-10-25 | 2022-10-27 |
+| [Your Song On The Radio](https://open.spotify.com/track/1IQshfYUQE7H2z00aRMTqE) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Your Song On The Radio](https://open.spotify.com/album/03Epz45tqENNY3BS4uP1V3) | 3:01 | 2023-04-20 |  |
 | [yugi](https://open.spotify.com/track/2SgXOT2HryYnbtWL7JfIFy) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [yugi](https://open.spotify.com/album/7eexbOyxF5ZxRboSPVuNVc) | 3:21 | 2022-07-07 |  |
 | [Zurukunai?](https://open.spotify.com/track/5sfozeR3LgwkGWWUT5TmiH) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Zurukunai?](https://open.spotify.com/album/4wJr6bbq5dLHT5uSF6ZSrA) | 3:28 | 2022-08-02 |  |
 | [「あの娘は誰?」とか言わせたい](https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [cherish](https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30) | 4:39 | 2022-07-27 |  |

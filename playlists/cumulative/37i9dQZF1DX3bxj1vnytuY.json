@@ -112,7 +112,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 313890,
       "name": "Ainuke",
       "url": "https://open.spotify.com/track/3Mo4JnQEaIKOEVBIo9ewha"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 356074,
       "name": "Alesta",
       "url": "https://open.spotify.com/track/70MDy7d6MUnf4EUqpMxzW7"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 525619,
       "name": "Amal",
       "url": "https://open.spotify.com/track/30ChfPsn6LEcXGZPnWG5yh"
@@ -284,7 +284,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 211282,
       "name": "Aminta - Scorpios Edit",
       "url": "https://open.spotify.com/track/0l0HvE2nwRsMlsYYv5cAvL"
@@ -386,7 +386,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 191924,
       "name": "Asha",
       "url": "https://open.spotify.com/track/2gQmFeK3xvZVVbfdYXftld"
@@ -558,7 +558,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 368191,
       "name": "Basari - Amine K Remix",
       "url": "https://open.spotify.com/track/6m8jwfpf7ge0Dddsjp1pvS"
@@ -594,7 +594,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 373379,
       "name": "Bedouin Joy",
       "url": "https://open.spotify.com/track/2OKfAtj6fTgJRghXn2pxm0"
@@ -752,7 +752,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 436036,
       "name": "Celebration Santoor",
       "url": "https://open.spotify.com/track/1UjdeuHHj8GKfHf29gaHfV"
@@ -847,6 +847,28 @@
     },
     {
       "album": {
+        "name": "SANT JORDI 02 - Remixes",
+        "url": "https://open.spotify.com/album/1ohwBEow2ArSPZWepHkQ1g"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        },
+        {
+          "name": "Cincity",
+          "url": "https://open.spotify.com/artist/2JTUg3LgzJsqxzNnPB9hen"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386058,
+      "name": "CIRCLES - Cincity Space Mix",
+      "url": "https://open.spotify.com/track/6lCZ5qh6Q9dvS82bb0urY3"
+    },
+    {
+      "album": {
         "name": "Clocks",
         "url": "https://open.spotify.com/album/1ZuvhE9UsqjQnR56Lzk0Qy"
       },
@@ -858,7 +880,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 362000,
       "name": "Clocks",
       "url": "https://open.spotify.com/track/7GNYwsaMiYdFu5IRGHAZZw"
@@ -964,7 +986,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 362044,
       "name": "Delia",
       "url": "https://open.spotify.com/track/2cDCvD1ao7PRs83CzzEgzr"
@@ -1054,7 +1076,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 318720,
       "name": "Demedin Mi? - Billy Esteban Remix",
       "url": "https://open.spotify.com/track/1rtMK3g4NIHtcNMG4B7xS5"
@@ -1340,7 +1362,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 296597,
       "name": "Exile",
       "url": "https://open.spotify.com/track/4q3OgYOOdQ4Kad3Hj7IwsR"
@@ -1358,7 +1380,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 279000,
       "name": "Exoplanet - Original Mix",
       "url": "https://open.spotify.com/track/69RAvgFqYzlDJIofYpnCxx"
@@ -1380,7 +1402,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 426696,
       "name": "Faiyum - Zuma Dionys Remix",
       "url": "https://open.spotify.com/track/59klIKyEUOS7DwHzGkiGuz"
@@ -1530,7 +1552,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 386181,
       "name": "Garmi",
       "url": "https://open.spotify.com/track/6cCH4wUwLbCkCwYqQG2uPe"
@@ -1548,7 +1570,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 334000,
       "name": "Gate",
       "url": "https://open.spotify.com/track/64DQirKrhckZyaKJ0Xz30G"
@@ -1570,7 +1592,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 232378,
       "name": "Gesi Ba\u011flar\u0131",
       "url": "https://open.spotify.com/track/4qjwruCjh7Bx9GEzVQm918"
@@ -1622,7 +1644,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 458099,
       "name": "Going Deeper",
       "url": "https://open.spotify.com/track/6DcgPZVz4sC2vnLIXvTSm7"
@@ -1644,7 +1666,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 391395,
       "name": "Hamdouchia - Yamil Remix",
       "url": "https://open.spotify.com/track/4ZnXnJBnVPEStdMzLTEnfM"
@@ -1770,7 +1792,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 355259,
       "name": "Hwel El Wed",
       "url": "https://open.spotify.com/track/33dEnbTEFdh7ucUqN5FcEI"
@@ -1960,7 +1982,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 226883,
       "name": "Ithemba",
       "url": "https://open.spotify.com/track/1c1uaCg8VwmKpUOTWHmlRw"
@@ -2112,7 +2134,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 436687,
       "name": "Kaneba",
       "url": "https://open.spotify.com/track/01dnvO2H3SxeUxFgUtY7sM"
@@ -2200,7 +2222,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 320094,
       "name": "Kshama",
       "url": "https://open.spotify.com/track/41DoALg5bbmd2wNXNNyWsB"
@@ -2328,7 +2350,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 519969,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/1wrQkDDLad13DQpWO1zKay"
@@ -2354,7 +2376,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 467000,
       "name": "Lua - Pippi Ciez Retake",
       "url": "https://open.spotify.com/track/4ufLhIy7LcTO1gD0aoM7pU"
@@ -2376,7 +2398,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 364812,
       "name": "Luna",
       "url": "https://open.spotify.com/track/1tioHY3xfRwny9nFEjpKA9"
@@ -2428,7 +2450,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 518556,
       "name": "Mafeesh Mostaheel - Arrab Remix",
       "url": "https://open.spotify.com/track/2pCAbg8LNmLBThAJoA6gj8"
@@ -2570,7 +2592,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 495725,
       "name": "Mirari",
       "url": "https://open.spotify.com/track/33OHSpGMU23L5QbJ6tz76S"
@@ -2618,7 +2640,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 433698,
       "name": "Moniety - Zuma Dionys Remix",
       "url": "https://open.spotify.com/track/429fbNqnI6oPNg3vyMQHe3"
@@ -2636,7 +2658,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 383783,
       "name": "Mulajia - Live Album",
       "url": "https://open.spotify.com/track/7pFNRS6v5DFPSgeVnkiVEu"
@@ -2684,7 +2706,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 386000,
       "name": "Nabad",
       "url": "https://open.spotify.com/track/7wEmAzcAIKXhS1JnKP81Pe"
@@ -2724,7 +2746,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 390646,
       "name": "Nemrut - Edit",
       "url": "https://open.spotify.com/track/3yYRlfWjWcJReYTAT54I7o"
@@ -2750,6 +2772,32 @@
       "duration_ms": 418048,
       "name": "Nene Man Ni",
       "url": "https://open.spotify.com/track/7m4bWgzzK8DYLZBjHAIGVv"
+    },
+    {
+      "album": {
+        "name": "Nirva",
+        "url": "https://open.spotify.com/album/3Id8Tch7WRXrYmwvZzXSPD"
+      },
+      "artists": [
+        {
+          "name": "Kreisler",
+          "url": "https://open.spotify.com/artist/3ZlOuTPjW2CyKznrhAjFBL"
+        },
+        {
+          "name": "Copal",
+          "url": "https://open.spotify.com/artist/1LjHpgBTL94CVnf7IWq0es"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428125,
+      "name": "Nirva",
+      "url": "https://open.spotify.com/track/2vBZUSrurqmyNqt6N0a0UF"
     },
     {
       "album": {
@@ -2824,7 +2872,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 386221,
       "name": "Odin - atalkingdrum Remix",
       "url": "https://open.spotify.com/track/11LVlokOK5w2h2HWvX1jN1"
@@ -2872,7 +2920,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 492302,
       "name": "Oud Dreams (feat. The Spy From Cairo) - Pattern Drama & Kellam Remix",
       "url": "https://open.spotify.com/track/6ymCppoGyTwqt17DMt6xVg"
@@ -2912,7 +2960,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 400585,
       "name": "Pharaoh - Enoo Napa Remix",
       "url": "https://open.spotify.com/track/4MuRuDNaYCZ9IzaT0KSfhT"
@@ -2938,7 +2986,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 257747,
       "name": "Povoada - Remix",
       "url": "https://open.spotify.com/track/4y1Xc5sjKxBRObrIfXRYpS"
@@ -2990,6 +3038,28 @@
       "duration_ms": 418531,
       "name": "Rasme Zmune",
       "url": "https://open.spotify.com/track/2nuBil30xSfvm8xgbKHj62"
+    },
+    {
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/6jNoVRjtr6mmQebn8kFldn"
+      },
+      "artists": [
+        {
+          "name": "Yamil",
+          "url": "https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS"
+        },
+        {
+          "name": "Thimble",
+          "url": "https://open.spotify.com/artist/0mBkTixeprcflRIpyW8d9J"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403062,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/34UCEyfuQZ5sCf5gXLUNIp"
     },
     {
       "album": {
@@ -3238,7 +3308,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 454296,
       "name": "Sajanna",
       "url": "https://open.spotify.com/track/4aXBbgkj3wdit5Dq2FCo1v"
@@ -3286,7 +3356,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 248000,
       "name": "Sante",
       "url": "https://open.spotify.com/track/3GPDlvNptw7BwkpHP68DiJ"
@@ -3304,7 +3374,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 321276,
       "name": "Scarabaeus",
       "url": "https://open.spotify.com/track/6Zsf3CnoOS8X4r6ibSGHcv"
@@ -3396,7 +3466,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 430983,
       "name": "Sian - David Mayer Remix",
       "url": "https://open.spotify.com/track/6QPsEsb8PnTeKN1YAbS4jh"
@@ -3476,7 +3546,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 421453,
       "name": "Sunday Showers - Original Mix",
       "url": "https://open.spotify.com/track/2B2VCQULbAItuMzrS2O6Nn"
@@ -3596,7 +3666,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 398893,
       "name": "Teak - Omerar Nanda Remix",
       "url": "https://open.spotify.com/track/0uNqMpO7ClAfIl1Van5RpT"
@@ -3614,7 +3684,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 417484,
       "name": "Terravita",
       "url": "https://open.spotify.com/track/5zkW6ZBqED2TWNRjcZLS5n"
@@ -3698,7 +3768,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 283000,
       "name": "The Clarinetto",
       "url": "https://open.spotify.com/track/7AVMAZ5Geol0JQpgBYD771"
@@ -3884,7 +3954,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 434973,
       "name": "Vatra",
       "url": "https://open.spotify.com/track/5j1Qs1RNlzDlAzqz5wHuR4"
@@ -3902,7 +3972,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 432692,
       "name": "Vazda",
       "url": "https://open.spotify.com/track/3IBVWeulXxBj5pO5Sywojy"
@@ -4262,7 +4332,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 404255,
       "name": "Your Smile",
       "url": "https://open.spotify.com/track/48yHhCozhMi1bJgpPHtEPh"
@@ -4306,7 +4376,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 340934,
       "name": "Zulal Akh Ninar",
       "url": "https://open.spotify.com/track/6QXe8ZEUkZrap5bkieylIy"

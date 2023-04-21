@@ -86,7 +86,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 152440,
       "name": "10 minutes",
       "url": "https://open.spotify.com/track/2EHcd7CEEFfkaf2XV2ba49"
@@ -12414,7 +12414,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 179653,
       "name": "Nouvelles",
       "url": "https://open.spotify.com/track/7d391WfC0HtftRcetDFQUy"
@@ -14888,6 +14888,28 @@
       "duration_ms": 198483,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/5VOBsfdn1wlCwuuw7pKgU3"
+    },
+    {
+      "album": {
+        "name": "Schaduw (uit Liefde Voor Muziek)",
+        "url": "https://open.spotify.com/album/645iBo4QWzkgh6yzsWon0p"
+      },
+      "artists": [
+        {
+          "name": "Metejoor",
+          "url": "https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE"
+        },
+        {
+          "name": "Lisa Van Rossem",
+          "url": "https://open.spotify.com/artist/57KroarkQ9TMvCYSh8k7vi"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211506,
+      "name": "Schaduw - uit Liefde Voor Muziek",
+      "url": "https://open.spotify.com/track/51huT2vxSNeFOnfDWlKvlb"
     },
     {
       "album": {
@@ -18110,7 +18132,7 @@
       ],
       "date_added": "2021-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"

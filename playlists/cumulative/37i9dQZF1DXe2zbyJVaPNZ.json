@@ -96,10 +96,32 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 202703,
       "name": "Above the Clouds",
       "url": "https://open.spotify.com/track/3gpvkHtd5Tl48wZkkw0xoz"
+    },
+    {
+      "album": {
+        "name": "Above the Clouds",
+        "url": "https://open.spotify.com/album/0jEpETtq0jYNyjFKr3liEa"
+      },
+      "artists": [
+        {
+          "name": "Lauge",
+          "url": "https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY"
+        },
+        {
+          "name": "Matt Tondut",
+          "url": "https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204636,
+      "name": "Above the Clouds",
+      "url": "https://open.spotify.com/track/5xfPRxtmq3BPcgK7W1uXu5"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 2010s. Cover: Keane",
-  "num_followers": 83181,
+  "num_followers": 83369,
   "original_name": "10s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTIyNTE5NCwwMDAwMDAwMDQ2ZTM0MjFlZTNmOTgwYmVmMzQ1NzY2OTI0OTY5MTc1",
+  "snapshot_id": "MTY4MTIyNTE5NCwwMDAwMDAwMDAyOTFiYzU1NzlkODc4NGM0ZDg2MzcyMzE4N2VkNDYz",
   "tracks": [
     {
       "added_at": "2023-01-11 18:02:14",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "Zombie EP",
-        "url": "https://open.spotify.com/album/6bE4sIZ6patKzzy8qV5lOV"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 259253,
-      "name": "Zombie (Acoustic)",
-      "url": "https://open.spotify.com/track/4Y2bR875LdPq9JILrY2FSw"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "Battle Born",
         "url": "https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 273240,
       "name": "Be Still",
       "url": "https://open.spotify.com/track/1B5tiGNcOHERcXcBHiL6Xs"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "Zombie EP",
+        "url": "https://open.spotify.com/album/6bE4sIZ6patKzzy8qV5lOV"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 259253,
+      "name": "Zombie (Acoustic)",
+      "url": "https://open.spotify.com/track/4Y2bR875LdPq9JILrY2FSw"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "The Attractions Of Youth",
-        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "Little Boy",
-      "url": "https://open.spotify.com/track/1vkdwNTgBAzWFApCVYX9ER"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 198573,
       "name": "Stay With Me - Acoustic Version",
       "url": "https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "The Attractions Of Youth",
+        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "Little Boy",
+      "url": "https://open.spotify.com/track/1vkdwNTgBAzWFApCVYX9ER"
     },
     {
       "added_at": "2023-01-11 18:02:14",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-01-11 18:02:14",
       "album": {
-        "name": "Chaos And The Calm",
-        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 275493,
-      "name": "Move Together",
-      "url": "https://open.spotify.com/track/0GDQXt7qRJIDDUmcufomrU"
-    },
-    {
-      "added_at": "2023-01-11 18:02:14",
-      "album": {
         "name": "Miracle Pill",
         "url": "https://open.spotify.com/album/79gY3R2V5HcDbnrMp6wuVP"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 174373,
       "name": "Over You",
       "url": "https://open.spotify.com/track/2rF2dht1UkYFPpJ73w0AU6"
+    },
+    {
+      "added_at": "2023-01-11 18:02:14",
+      "album": {
+        "name": "Chaos And The Calm",
+        "url": "https://open.spotify.com/album/5BxvswQSGWrBbVCdx6mFGO"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 275493,
+      "name": "Move Together",
+      "url": "https://open.spotify.com/track/0GDQXt7qRJIDDUmcufomrU"
     },
     {
       "added_at": "2023-01-11 18:02:14",

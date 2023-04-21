@@ -1,12 +1,12 @@
 {
   "description": "Sangre fresca en las escenas del indie y el rock. El Mat\u00f3 a un Polic\u00eda Motorizado en portada.",
-  "num_followers": 143802,
+  "num_followers": 143858,
   "original_name": "EL ROCK NO HA MUERTO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDk5NzRkZjY5NWI1YWQ0MmZlMDJiNDRiZDIxMmE2OTNh",
+  "snapshot_id": "MTY4MTQ1MjAwMCwwMDAwMDAwMDUxMjRkYzkzYTNkNWNjZjhkYmU1YzhhZWMyNzNjMTEw",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Trebol",
+        "url": "https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7"
+      },
+      "artists": [
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn"
+        }
+      ],
+      "duration_ms": 162758,
+      "name": "Trebol",
+      "url": "https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Punk",
         "url": "https://open.spotify.com/album/0ALZJahmwF0u1AReCWtiZP"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 407449,
       "name": "De la Orqu\u00eddea y la Avispa",
       "url": "https://open.spotify.com/track/2cWaaXZL5idipbPuJkfvH9"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Trebol",
-        "url": "https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7"
-      },
-      "artists": [
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn"
-        }
-      ],
-      "duration_ms": 162758,
-      "name": "Trebol",
-      "url": "https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Esc\u00fapeme En La Cara",
-        "url": "https://open.spotify.com/album/02hnUWAP3zAetHmbm5q2gf"
-      },
-      "artists": [
-        {
-          "name": "Blnko",
-          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
-        }
-      ],
-      "duration_ms": 201546,
-      "name": "Esc\u00fapeme En La Cara",
-      "url": "https://open.spotify.com/track/3Wsvw8v3czfWGliziA9BCI"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "La Historia Sin Fin",
         "url": "https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 177800,
       "name": "Sol@",
       "url": "https://open.spotify.com/track/6VtARaI3I2MMINgcP7wuxJ"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Esc\u00fapeme En La Cara",
+        "url": "https://open.spotify.com/album/02hnUWAP3zAetHmbm5q2gf"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "duration_ms": 201546,
+      "name": "Esc\u00fapeme En La Cara",
+      "url": "https://open.spotify.com/track/3Wsvw8v3czfWGliziA9BCI"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Realidad Aparente",
-        "url": "https://open.spotify.com/album/7qgEurNldCzTbsDCy8FxDA"
-      },
-      "artists": [
-        {
-          "name": "Los Romanticos de Zacatecas",
-          "url": "https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg"
-        }
-      ],
-      "duration_ms": 101702,
-      "name": "Realidad Aparente",
-      "url": "https://open.spotify.com/track/7JJ8lSAxz7NaVTNiTcYwBc"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "El Eco de la Nada",
         "url": "https://open.spotify.com/album/0RmopllB8tAY9P2Of7NdIZ"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 184533,
       "name": "Nunca te am\u00e9",
       "url": "https://open.spotify.com/track/6CxvTZO3pqhGMiVUF9gW2R"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Realidad Aparente",
+        "url": "https://open.spotify.com/album/7qgEurNldCzTbsDCy8FxDA"
+      },
+      "artists": [
+        {
+          "name": "Los Romanticos de Zacatecas",
+          "url": "https://open.spotify.com/artist/0xg0tZofneUYpE1HQS4gOg"
+        }
+      ],
+      "duration_ms": 101702,
+      "name": "Realidad Aparente",
+      "url": "https://open.spotify.com/track/7JJ8lSAxz7NaVTNiTcYwBc"
     }
   ],
   "unique_name": "EL ROCK NO HA MUERTO",

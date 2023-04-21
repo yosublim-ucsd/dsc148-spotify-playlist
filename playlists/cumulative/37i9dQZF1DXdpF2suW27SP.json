@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Piruka entra na zona. ",
+  "description": "Kappa Jotta entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -282,6 +282,24 @@
       "duration_ms": 205091,
       "name": "Alcatraz",
       "url": "https://open.spotify.com/track/1Hc0zt33FVHdi4DWtUAa0s"
+    },
+    {
+      "album": {
+        "name": "Aleluia",
+        "url": "https://open.spotify.com/album/6kXdYalPHFucKRbnK0KzTD"
+      },
+      "artists": [
+        {
+          "name": "Jimmy P",
+          "url": "https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211826,
+      "name": "Aleluia",
+      "url": "https://open.spotify.com/track/6uCHzPdg4soaXghzZcmloN"
     },
     {
       "album": {
@@ -1131,6 +1149,24 @@
     },
     {
       "album": {
+        "name": "Coisas na Cabe\u00e7a",
+        "url": "https://open.spotify.com/album/5a82H0UW4hecXTZWD713Aq"
+      },
+      "artists": [
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211333,
+      "name": "Coisas na Cabe\u00e7a",
+      "url": "https://open.spotify.com/track/5K91m4uOhos4AhyLhb6Ilc"
+    },
+    {
+      "album": {
         "name": "SAY GOODNIGHT TO THE BAD GUYS",
         "url": "https://open.spotify.com/album/3iNvV3UvpZnhVWuoNgrKzT"
       },
@@ -1251,6 +1287,32 @@
     },
     {
       "album": {
+        "name": "DEADOPPS",
+        "url": "https://open.spotify.com/album/1RGxQoFNd33Cc42YUwrxeR"
+      },
+      "artists": [
+        {
+          "name": "PKA",
+          "url": "https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK"
+        },
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/6xf1SJx82RDLL6wdSDDZXI"
+        },
+        {
+          "name": "R9",
+          "url": "https://open.spotify.com/artist/4n62j4kWVDlqKf0i3NYq0z"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169736,
+      "name": "DEADOPPS",
+      "url": "https://open.spotify.com/track/4KE7b7hmPjdiCpgPrak4PX"
+    },
+    {
+      "album": {
         "name": "Dentu Di Espanha",
         "url": "https://open.spotify.com/album/3iC4A749XyBNEGTJUvGGGi"
       },
@@ -1288,7 +1350,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 196879,
       "name": "DENTU DI MEXICO",
       "url": "https://open.spotify.com/track/1D4kI1sM2RVHKgcaWT6cVb"
@@ -1532,6 +1594,24 @@
       "duration_ms": 135724,
       "name": "ELA QUERIA MAIS",
       "url": "https://open.spotify.com/track/4tAMEP8kPju61BoZtj0whg"
+    },
+    {
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/5h9LXGGTR6RiAGRbeY8PI7"
+      },
+      "artists": [
+        {
+          "name": "Chyna",
+          "url": "https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238603,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/0OuWQsF76w2jXQxOpvWfxn"
     },
     {
       "album": {
@@ -1934,7 +2014,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 153778,
       "name": "Forever Na Street",
       "url": "https://open.spotify.com/track/2Vbx8D4gpGQinSC4sDzHjH"
@@ -2088,6 +2168,28 @@
       "duration_ms": 218288,
       "name": "Gorillaz",
       "url": "https://open.spotify.com/track/3nX9NxKOHrxhtA45jRFyAd"
+    },
+    {
+      "album": {
+        "name": "Espiritual",
+        "url": "https://open.spotify.com/album/7xTaxeHz6oesIEjdahzG7O"
+      },
+      "artists": [
+        {
+          "name": "Kelson Most Wanted",
+          "url": "https://open.spotify.com/artist/12GghNFuOPqpisGJPLH0Jn"
+        },
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192143,
+      "name": "Gosta",
+      "url": "https://open.spotify.com/track/2X10SwvnLgiESulxlxczHz"
     },
     {
       "album": {
@@ -2516,7 +2618,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 145000,
       "name": "Luz Vermelha",
       "url": "https://open.spotify.com/track/1jD1WyibGUdVWRW4ZtzRf0"
@@ -2546,6 +2648,24 @@
       "duration_ms": 250816,
       "name": "M.O.D (feat. Xakal Da Gun & Piruka )",
       "url": "https://open.spotify.com/track/7Hv96cbXLVcSFW1EBpjA8t"
+    },
+    {
+      "album": {
+        "name": "Mais Uma Vez",
+        "url": "https://open.spotify.com/album/6XwhLnbx0ixfuoJJZvXB8S"
+      },
+      "artists": [
+        {
+          "name": "DREYA",
+          "url": "https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159846,
+      "name": "Mais Uma Vez",
+      "url": "https://open.spotify.com/track/3Oql2mB8DEtzzuAVFFPpHG"
     },
     {
       "album": {
@@ -2582,7 +2702,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 240000,
       "name": "Mama Ka Bu Txora",
       "url": "https://open.spotify.com/track/5CEghr9OYpFrCZurmxJThm"
@@ -3366,7 +3486,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 191988,
       "name": "O que \u00e9 que tens feito?",
       "url": "https://open.spotify.com/track/5cGy4NKlMprapxERb9AZk6"
@@ -3564,7 +3684,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 182190,
       "name": "Papaia",
       "url": "https://open.spotify.com/track/17MPtgaJHgr2WlJVyhA6kw"
@@ -4146,6 +4266,24 @@
       "duration_ms": 177464,
       "name": "Seguran\u00e7a",
       "url": "https://open.spotify.com/track/6CQei9foPt8tr65hP8ESdQ"
+    },
+    {
+      "album": {
+        "name": "Senti Tanto",
+        "url": "https://open.spotify.com/album/0SexRbV9z4iuJJeoDmTJp3"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162162,
+      "name": "Senti Tanto",
+      "url": "https://open.spotify.com/track/45xlwCyuZGswXaqm9sUGnQ"
     },
     {
       "album": {
@@ -4860,7 +4998,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 192000,
       "name": "VIDA DE ARTISTA",
       "url": "https://open.spotify.com/track/4fTXCTg0AdAdqGaFfVs3FK"

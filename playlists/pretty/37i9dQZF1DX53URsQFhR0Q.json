@@ -1,12 +1,12 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 161,
+  "num_followers": 175,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDc5MzY2NCwwMDAwMDAwMGEwZDQwOTMxOGZhNGY2Zjg1MTBkZjhhOGMwMzU4ZjAx",
+  "snapshot_id": "MTY4MDc5MzY2NCwwMDAwMDAwMDMxM2IwMDdjZWFjNzcxYjZmM2I2YmEzMWI0MjA1MTU4",
   "tracks": [
     {
       "added_at": "2023-04-06 15:07:44",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "Cindy's Messiah",
-        "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
-      },
-      "artists": [
-        {
-          "name": "Cindy Thompson",
-          "url": "https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd"
-        }
-      ],
-      "duration_ms": 305213,
-      "name": "Nyame Eguamba",
-      "url": "https://open.spotify.com/track/3rlWZJJR3L0RunfNccDCWB"
-    },
-    {
-      "added_at": "2023-04-06 15:07:44",
-      "album": {
         "name": "My Vision",
         "url": "https://open.spotify.com/album/3M2KpSQEs5CGmnAx4X5lcK"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 331990,
       "name": "Metease yi",
       "url": "https://open.spotify.com/track/3sqXQoSb19w97o2mTkeYJ3"
+    },
+    {
+      "added_at": "2023-04-06 15:07:44",
+      "album": {
+        "name": "Cindy's Messiah",
+        "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
+      },
+      "artists": [
+        {
+          "name": "Cindy Thompson",
+          "url": "https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd"
+        }
+      ],
+      "duration_ms": 305213,
+      "name": "Nyame Eguamba",
+      "url": "https://open.spotify.com/track/3rlWZJJR3L0RunfNccDCWB"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -219,18 +219,18 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "Cindy's Messiah",
-        "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
+        "name": "Onyame Boafuo",
+        "url": "https://open.spotify.com/album/3A9h6NBLzC7335Gfj26VXg"
       },
       "artists": [
         {
-          "name": "Cindy Thompson",
-          "url": "https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd"
+          "name": "Esther Smith",
+          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
         }
       ],
-      "duration_ms": 377280,
-      "name": "Awanwan Do",
-      "url": "https://open.spotify.com/track/3u08knojRQ81BB2GXTAHXz"
+      "duration_ms": 316055,
+      "name": "Nipa",
+      "url": "https://open.spotify.com/track/0XJE7VhpUDo9i1bVi94Kgt"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "Onyame Boafuo",
-        "url": "https://open.spotify.com/album/3A9h6NBLzC7335Gfj26VXg"
+        "name": "Yesu Do",
+        "url": "https://open.spotify.com/album/2zGL04iYPYg8nKkGe4Mk8k"
       },
       "artists": [
         {
-          "name": "Esther Smith",
-          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
+          "name": "Noble Nketsiah",
+          "url": "https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd"
         }
       ],
-      "duration_ms": 316055,
-      "name": "Nipa",
-      "url": "https://open.spotify.com/track/0XJE7VhpUDo9i1bVi94Kgt"
+      "duration_ms": 350328,
+      "name": "Yesu Do",
+      "url": "https://open.spotify.com/track/0sfKnmCHt4H48vqNyho6Jn"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "Yesu Do",
-        "url": "https://open.spotify.com/album/2zGL04iYPYg8nKkGe4Mk8k"
+        "name": "Cindy's Messiah",
+        "url": "https://open.spotify.com/album/318iVaeMOIDdtnZFzxnAPD"
       },
       "artists": [
         {
-          "name": "Noble Nketsiah",
-          "url": "https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd"
+          "name": "Cindy Thompson",
+          "url": "https://open.spotify.com/artist/0E9uTtyVv3p0wJPjRiTivd"
         }
       ],
-      "duration_ms": 350328,
-      "name": "Yesu Do",
-      "url": "https://open.spotify.com/track/0sfKnmCHt4H48vqNyho6Jn"
+      "duration_ms": 377280,
+      "name": "Awanwan Do",
+      "url": "https://open.spotify.com/track/3u08knojRQ81BB2GXTAHXz"
     },
     {
       "added_at": "2023-04-06 15:07:44",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
+        "name": "Onyame Wo Ho",
+        "url": "https://open.spotify.com/album/2DPjutXnhem2N3yTQfnFMo"
+      },
+      "artists": [
+        {
+          "name": "Esther Smith",
+          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
+        }
+      ],
+      "duration_ms": 302628,
+      "name": "Me Da Wase",
+      "url": "https://open.spotify.com/track/0GWEgzFgCq4lHxQ1kRg5Om"
+    },
+    {
+      "added_at": "2023-04-06 15:07:44",
+      "album": {
         "name": "W'agye Me (He Has Saved Me)",
         "url": "https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5"
       },
@@ -395,38 +411,6 @@
     {
       "added_at": "2023-04-06 15:07:44",
       "album": {
-        "name": "Osoro Ne Yefie",
-        "url": "https://open.spotify.com/album/558XdQJHrmVdEApTIorcdx"
-      },
-      "artists": [
-        {
-          "name": "Florence Obinim",
-          "url": "https://open.spotify.com/artist/4RTr7NACMCVixQUQlP64NO"
-        }
-      ],
-      "duration_ms": 434259,
-      "name": "Osoro Ne Yefie",
-      "url": "https://open.spotify.com/track/1THEQVHkf4yLPzoieMQk3B"
-    },
-    {
-      "added_at": "2023-04-06 15:07:44",
-      "album": {
-        "name": "Onyame Wo Ho",
-        "url": "https://open.spotify.com/album/2DPjutXnhem2N3yTQfnFMo"
-      },
-      "artists": [
-        {
-          "name": "Esther Smith",
-          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
-        }
-      ],
-      "duration_ms": 302628,
-      "name": "Me Da Wase",
-      "url": "https://open.spotify.com/track/0GWEgzFgCq4lHxQ1kRg5Om"
-    },
-    {
-      "added_at": "2023-04-06 15:07:44",
-      "album": {
         "name": "I Am Noble",
         "url": "https://open.spotify.com/album/6DRvrYraGgKanmBJIfqwVF"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 244297,
       "name": "Ayeyi",
       "url": "https://open.spotify.com/track/6EfsJGWyEb7ja8zInmtRNY"
+    },
+    {
+      "added_at": "2023-04-06 15:07:44",
+      "album": {
+        "name": "Osoro Ne Yefie",
+        "url": "https://open.spotify.com/album/558XdQJHrmVdEApTIorcdx"
+      },
+      "artists": [
+        {
+          "name": "Florence Obinim",
+          "url": "https://open.spotify.com/artist/4RTr7NACMCVixQUQlP64NO"
+        }
+      ],
+      "duration_ms": 434259,
+      "name": "Osoro Ne Yefie",
+      "url": "https://open.spotify.com/track/1THEQVHkf4yLPzoieMQk3B"
     },
     {
       "added_at": "2023-04-06 15:07:44",

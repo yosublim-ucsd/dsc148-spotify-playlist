@@ -4,7 +4,7 @@
 
 > killer songs from badass artists\. Cover: Tommy Lefroy
 
-337 songs - 20 hr 26 min
+338 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [In My Head](https://open.spotify.com/track/2vBARrL4ezTllHBQ9eFHf1) | [Our Girl](https://open.spotify.com/artist/09Lrr4vGyWxxsuo3lrZW7f) | [Stranger Today](https://open.spotify.com/album/0UHdDn5V0W3s5KRf0FPmcr) | 3:48 | 2023-01-27 |  |
 | [Interstate Vision](https://open.spotify.com/track/333ynS8xzTSbeRxxodU33d) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Thx](https://open.spotify.com/album/5ftfK29sHT2Tx7Wc3NMbqR) | 2:42 | 2021-11-14 | 2022-07-28 |
 | [Interstate Vision](https://open.spotify.com/track/348FPMPFwLA7ucpCqNXyPl) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4) | [Thx](https://open.spotify.com/album/2ayYjy02kHqMSMKHXOLRGp) | 2:42 | 2022-05-20 |  |
-| [It Hurts Until It Doesn't](https://open.spotify.com/track/6h3FOkiOixsUUEgIHS0qR5) | [Mothers](https://open.spotify.com/artist/0aeq6izGKdpdcBUkXGCHXv) | [When You Walk A Long Distance You Are Tired](https://open.spotify.com/album/6T0QEKUvqfDxyVJIUZTkYe) | 5:33 | 2023-01-27 |  |
+| [It Hurts Until It Doesn't](https://open.spotify.com/track/6h3FOkiOixsUUEgIHS0qR5) | [Mothers](https://open.spotify.com/artist/0aeq6izGKdpdcBUkXGCHXv) | [When You Walk A Long Distance You Are Tired](https://open.spotify.com/album/6T0QEKUvqfDxyVJIUZTkYe) | 5:33 | 2023-01-27 | 2023-04-21 |
 | [It Just Goes On](https://open.spotify.com/track/0KyGaxIJv099i3GMlrx8my) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Head of Roses: Phantom Limb](https://open.spotify.com/album/05X6RWZJ0lmYUPjpkM8rZH) | 3:33 | 2022-10-07 | 2023-01-28 |
 | [It Just Goes On](https://open.spotify.com/track/2sQTFWciCwG4CgNql5aiKj) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [It Just Goes On](https://open.spotify.com/album/5aXWY1KsCF76okXvdps06y) | 3:33 | 2022-04-01 | 2022-07-29 |
 | [It's a good day \(to fight the system\)](https://open.spotify.com/track/0NB9wJK1drissTXrrgj63w) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I \(motsi\)](https://open.spotify.com/album/5MMU5axa9ADuQuhoeoah4G) | 3:17 | 2021-11-14 |  |
@@ -218,6 +218,7 @@
 | [No Room](https://open.spotify.com/track/79DiDt5WgGywp6OUvlch1c) | [Nana Adjoa](https://open.spotify.com/artist/2W61gnKGmJykgFSJSvqVCe) | [Big Dreaming Ants](https://open.spotify.com/album/1a14VHmBPUI0k7bZgzyXYc) | 3:29 | 2022-04-01 | 2022-04-21 |
 | [Not](https://open.spotify.com/track/7lrhugjSbiImrNSLIFIq0c) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 6:07 | 2023-01-27 |  |
 | [Not The Time](https://open.spotify.com/track/0Vmd1bjR3CAhT86mHs3Mp1) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [SASAMI](https://open.spotify.com/album/5dJhE07Jbhdg8wj3ysnT7H) | 2:50 | 2022-01-21 | 2022-07-28 |
+| [Nothing Left To Give](https://open.spotify.com/track/5ti3pAj9M9HlnXrjUiO232) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Nothing Left To Give](https://open.spotify.com/album/0IVhJ8PzPajZB401x4lfkO) | 3:13 | 2023-04-14 |  |
 | [Oblivion](https://open.spotify.com/track/4VrhxPwnirO4cKLfQJz2Xk) | [Alaska Reid](https://open.spotify.com/artist/2CIThLiaeJxWgG5xAgL3p0) | [Oblivion](https://open.spotify.com/album/2C9vOSfkKENVtJVSl4KYhB) | 4:11 | 2021-11-14 | 2022-01-10 |
 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 | 2022-01-21 | 2022-10-08 |
 | [Oh No Darling!](https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Oh No Darling!](https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns) | 3:23 | 2023-04-14 |  |

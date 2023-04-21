@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> Mellow & sentimental K\-Pop ballads\. \(Cover:Nilo\(닐로\)\) \(당신의 감성에 발라드, 려요\)
+> Mellow & sentimental K\-Pop ballads\. \(Cover:Parc Jae Jung\(박재정\)\) \(당신의 감성에 발라드, 려요\)
 
-845 songs - 2 day 6 hr 59 min
+846 songs - 2 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -398,6 +398,7 @@
 | [Leave](https://open.spotify.com/track/77mtDpjG5MXCqqY4NusYgW) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Bulgasal: Immortal Souls \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/43wpzZRIko2hqhjZMkR32n) | 4:51 | 2022-02-25 | 2022-04-11 |
 | [Let's break up \(2022\)](https://open.spotify.com/track/3SSX55BjRYW4Qal3wnfR5I) | [Shin Hyun Woo](https://open.spotify.com/artist/3HDvjWBZO7L6wQ0ExZ7muK) | [Let's break up \(2022\)](https://open.spotify.com/album/2OexZPJLBuWflTSkB3d9Dt) | 4:06 | 2022-12-16 | 2023-01-21 |
 | [Let's End It Here](https://open.spotify.com/track/1QKgKxIn9AjgOXjq7OhFMN) | [Park Hyun Kyu](https://open.spotify.com/artist/0tcfyZmKNzfhClf4PB8YMt) | [Let's End It Here](https://open.spotify.com/album/5qUpfQ1O0Y70ibRHKXgBBr) | 3:36 | 2022-06-08 | 2022-08-13 |
+| [Let's Say Goodbye](https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Alone](https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4) | 4:03 | 2023-04-20 |  |
 | [Letter To The Sky](https://open.spotify.com/track/72dQcV33Ssp7lKU8b9bCHU) | [Andnew](https://open.spotify.com/artist/292GXpdx9IglUfxrfvh2l9) | [Letter To The Sky](https://open.spotify.com/album/69wQyItYqJpRwT3cfvG0zX) | 4:32 | 2023-02-24 |  |
 | [Letting go](https://open.spotify.com/track/710NqCm6L83EHgBM918bSt) | [Yoon Hyun Sang](https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2) | [SAEBYEOK.UHGUI](https://open.spotify.com/album/6rF6nN1A6krBUHpnc0vsUs) | 3:58 | 2022-03-31 | 2022-04-13 |
 | [Lifetime](https://open.spotify.com/track/2QGAi0XJUCowVqPlnIAoMk) | [Ran](https://open.spotify.com/artist/4nQC6kjFBXudy2V9eMS9Ps) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/38sPcF1CXr9lkLCI4AIIFY) | 4:06 | 2023-01-20 | 2023-02-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZHn4SQHDIn.md) - [plain]
 
 > ITZY? 있지! It'z ITZY Time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,651 likes - 66 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,807 likes - 66 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

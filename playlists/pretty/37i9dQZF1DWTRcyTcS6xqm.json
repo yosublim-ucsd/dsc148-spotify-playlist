@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 9069,
+  "num_followers": 9086,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDZlYzk2YTk3OTNhYTU2ZmQyZGRkMGM4OTY2YWE0NDRm",
+  "snapshot_id": "MTY0Njk3NDkyMCwwMDAwMDAwMDA5YjY4NGViMzEyMjZlMjNkMzc5YjFkNmRmMWUwOGYz",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Kingfish",
-        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 243449,
-      "name": "If You Love Me",
-      "url": "https://open.spotify.com/track/5RV340G9fvADcb7DGOK4ca"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/50CK5WZHyOwMeZHVYGCDIJ"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 114784,
       "name": "We've Got The Music",
       "url": "https://open.spotify.com/track/0nWPSw3PHjRTirJ9BAsZnb"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Kingfish",
+        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 243449,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/5RV340G9fvADcb7DGOK4ca"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -689,22 +689,6 @@
       "url": "https://open.spotify.com/track/0rOgDYmxNfgSlHyIuvBt5z"
     },
     {
-      "added_at": "2021-02-26 05:01:00",
-      "album": {
-        "name": "Damage Control",
-        "url": "https://open.spotify.com/album/0AYyCbmHz2vcgdbTjuFjEH"
-      },
-      "artists": [
-        {
-          "name": "Curtis Salgado",
-          "url": "https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0"
-        }
-      ],
-      "duration_ms": 256522,
-      "name": "Hail Mighty Caesar",
-      "url": "https://open.spotify.com/track/6jdEZXv8lPmCam6ENXQDZI"
-    },
-    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Girls With Guitars",
@@ -719,6 +703,22 @@
       "duration_ms": 163733,
       "name": "Satisfy My Soul",
       "url": "https://open.spotify.com/track/4c9VnYPdhCYh9kFen4mvnt"
+    },
+    {
+      "added_at": "2021-02-26 05:01:00",
+      "album": {
+        "name": "Damage Control",
+        "url": "https://open.spotify.com/album/0AYyCbmHz2vcgdbTjuFjEH"
+      },
+      "artists": [
+        {
+          "name": "Curtis Salgado",
+          "url": "https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0"
+        }
+      ],
+      "duration_ms": 256522,
+      "name": "Hail Mighty Caesar",
+      "url": "https://open.spotify.com/track/6jdEZXv8lPmCam6ENXQDZI"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Show Of Strength",
-        "url": "https://open.spotify.com/album/3ud6I5e1AGFRbBYb0UvZO3"
-      },
-      "artists": [
-        {
-          "name": "Michael Burks",
-          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
-        }
-      ],
-      "duration_ms": 360146,
-      "name": "Little Juke Joint",
-      "url": "https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Girls With Guitars",
         "url": "https://open.spotify.com/album/4lSq7OFkNp2R3xIdjNgewS"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 214133,
       "name": "Mr. Loving Man",
       "url": "https://open.spotify.com/track/7e6WgLvvZh7fWp0lYfdVm7"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Show Of Strength",
+        "url": "https://open.spotify.com/album/3ud6I5e1AGFRbBYb0UvZO3"
+      },
+      "artists": [
+        {
+          "name": "Michael Burks",
+          "url": "https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6"
+        }
+      ],
+      "duration_ms": 360146,
+      "name": "Little Juke Joint",
+      "url": "https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc"
     },
     {
       "added_at": "2020-12-01 05:01:00",

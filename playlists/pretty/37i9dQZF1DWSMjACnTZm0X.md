@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Join the global ampiano movement with tracks and artists pushing amapiano on the global stage\. Cover: <a href="https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb?si=yCQiL0xjT8OqOuSNDFrs6w">Crayon</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,813 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,824 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 | 13 | [Mashonzha](https://open.spotify.com/track/6fVhiCUu6bhwRQflSayHbh) | [Gusba Banana](https://open.spotify.com/artist/0JQngxUcKlWPmUklxDidWb) | [EP Ya Baba](https://open.spotify.com/album/0EkFZZ27esrer52Rqb9iF7) | 3:36 |
 | 14 | [Khusela \(feat\. Msaki\)](https://open.spotify.com/track/1mg27ci1uDANuJ2ghZBrir) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Khusela \(feat\. Msaki\)](https://open.spotify.com/album/2sfjcZkqiS1bQT3zb4EiVL) | 8:21 |
 | 15 | [CANADA](https://open.spotify.com/track/71ordUCcerb8nl8o0u2nOv) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Herc Cut The Lights](https://open.spotify.com/artist/0VhIHga32pr5ME5Eb8WXcP) | [CANADA](https://open.spotify.com/album/5BHHb27i02qVTfBB0JPavW) | 4:07 |
-| 16 | [Werser](https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Werser](https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI) | 4:08 |
+| 16 | [Werser](https://open.spotify.com/track/5ysRcpZAYSHvqtMNKgQQ16) | [Choplife Soundsystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Werser](https://open.spotify.com/album/1GkNzKt3pj4Gg2by8cokBI) | 4:08 |
 | 17 | [Tanzania](https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR) | [Tanzania](https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN) | 6:16 |
 | 18 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 |
 | 19 | [Ekhaya](https://open.spotify.com/track/1T2pzBmz9yh5ddK8KZbtG7) | [Iyane Jamdong](https://open.spotify.com/artist/5GJHtxMt5kp2gfBrnLZO3o), [Elzo Jamdong](https://open.spotify.com/artist/2reG2sYggrEZLUXvRI1yth), [Bianca Hester](https://open.spotify.com/artist/5f7Tf5kiBghcMQGY1idPsJ), [Crosswavee](https://open.spotify.com/artist/6Sq69aTwgyzk6yL6U5mU85), [Da Musiqal Prodigy](https://open.spotify.com/artist/46nnGGk1MsYqz7Yw9EZjxZ) | [Ekhaya](https://open.spotify.com/album/1I0NVt2ETbbxHOPsw083zF) | 6:21 |

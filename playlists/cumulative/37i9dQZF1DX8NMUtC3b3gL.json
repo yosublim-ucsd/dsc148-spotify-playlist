@@ -143,6 +143,32 @@
     },
     {
       "album": {
+        "name": "A Night In Rio",
+        "url": "https://open.spotify.com/album/6ymp9C7Cq6id82Dz5RJM91"
+      },
+      "artists": [
+        {
+          "name": "Jussi Halme",
+          "url": "https://open.spotify.com/artist/57nv9UWhYTBijBLYigIH2K"
+        },
+        {
+          "name": "Misha",
+          "url": "https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7"
+        },
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145803,
+      "name": "A Night In Rio",
+      "url": "https://open.spotify.com/track/4fnuzfQmjDLLOBYdXdmXum"
+    },
+    {
+      "album": {
         "name": "ode to summer",
         "url": "https://open.spotify.com/album/7gzLMwWkiNiaVVEeMxLcpM"
       },
@@ -1653,6 +1679,24 @@
     },
     {
       "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/622tAIkMJlUCGH556jdZAI"
+      },
+      "artists": [
+        {
+          "name": "shapes",
+          "url": "https://open.spotify.com/artist/4BTgiaeE6KnrTaHsfEOPDC"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144459,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/3HzvkY0HzN5PDlWXkgX9qs"
+    },
+    {
+      "album": {
         "name": "Endless Trial",
         "url": "https://open.spotify.com/album/2X5s9BJcQ3kWg3eMr9sIiI"
       },
@@ -2995,6 +3039,24 @@
     },
     {
       "album": {
+        "name": "Kitty Got Claws",
+        "url": "https://open.spotify.com/album/4zrNErMj3xEqBvQRPu30FR"
+      },
+      "artists": [
+        {
+          "name": "Beats On Cans",
+          "url": "https://open.spotify.com/artist/2W6kwJ8wuKIw9JhUt1fofP"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119911,
+      "name": "Kitty Got Claws",
+      "url": "https://open.spotify.com/track/4Pfh9UNVy3ok3CUbtHTip6"
+    },
+    {
+      "album": {
         "name": "laidback paradise",
         "url": "https://open.spotify.com/album/6fGWUQo5V8HnrWppbPPYbe"
       },
@@ -3530,6 +3592,24 @@
       "duration_ms": 116619,
       "name": "modernity",
       "url": "https://open.spotify.com/track/2Gwx7C7INLa5Ze2OwOPs8O"
+    },
+    {
+      "album": {
+        "name": "Mooging Away",
+        "url": "https://open.spotify.com/album/3tGIr44JP55wqynE8EbUE4"
+      },
+      "artists": [
+        {
+          "name": "This Is Moving",
+          "url": "https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145116,
+      "name": "Mooging Away",
+      "url": "https://open.spotify.com/track/5UjCCzHAYZhSuTXHdfnk5G"
     },
     {
       "album": {
@@ -4294,6 +4374,24 @@
       "duration_ms": 81946,
       "name": "play\u2019n rewind",
       "url": "https://open.spotify.com/track/4mQok4Y3Dvma1vB8cEdzP3"
+    },
+    {
+      "album": {
+        "name": "Pleasure Management",
+        "url": "https://open.spotify.com/album/6DhW69NataNj5wX5W0q7hC"
+      },
+      "artists": [
+        {
+          "name": "Demurely",
+          "url": "https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Pleasure Management",
+      "url": "https://open.spotify.com/track/3omD9V1ffkjV2YZJ5qs11A"
     },
     {
       "album": {
@@ -5090,6 +5188,24 @@
       "duration_ms": 116593,
       "name": "Something Has Happened",
       "url": "https://open.spotify.com/track/5irlm4HR7wslp9BTuMlLQo"
+    },
+    {
+      "album": {
+        "name": "spice age",
+        "url": "https://open.spotify.com/album/6H4pKjbmFUb0tvbvaTSJHr"
+      },
+      "artists": [
+        {
+          "name": "JoJo Mojo",
+          "url": "https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119300,
+      "name": "spice age",
+      "url": "https://open.spotify.com/track/12Wq2oMs3cC5X4kLib48AX"
     },
     {
       "album": {
@@ -5899,6 +6015,24 @@
     },
     {
       "album": {
+        "name": "Tropic of Capri-Sun & Sodas",
+        "url": "https://open.spotify.com/album/7mXJ88wCsmgjjAMCy4j96H"
+      },
+      "artists": [
+        {
+          "name": "Vanilla Beach",
+          "url": "https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179230,
+      "name": "Tropic of Capri-Sun & Sodas",
+      "url": "https://open.spotify.com/track/0xXik8DSYI7Y8SzcpaEIWP"
+    },
+    {
+      "album": {
         "name": "undefined",
         "url": "https://open.spotify.com/album/3qJIV0suS9ltJYxEXB1dQF"
       },
@@ -5914,6 +6048,24 @@
       "duration_ms": 101647,
       "name": "undefined",
       "url": "https://open.spotify.com/track/4RzY9ZLhrqDwsbTl69va0t"
+    },
+    {
+      "album": {
+        "name": "Cozy Cafe Chronicles",
+        "url": "https://open.spotify.com/album/1p9LKWRXihREGQJFsYcHZW"
+      },
+      "artists": [
+        {
+          "name": "Ludvig Freso",
+          "url": "https://open.spotify.com/artist/6EL8Sngq7vN8aVAjWmLivS"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136235,
+      "name": "Urban Chillax",
+      "url": "https://open.spotify.com/track/26xKW0AN8JMF2muG39F8UR"
     },
     {
       "album": {
@@ -6276,6 +6428,24 @@
       "duration_ms": 155384,
       "name": "Zakky",
       "url": "https://open.spotify.com/track/0hZ2N9qQUApVWKWR1allC5"
+    },
+    {
+      "album": {
+        "name": "zum zum zum",
+        "url": "https://open.spotify.com/album/72DcEF5iNlkEzFXg7PV0sU"
+      },
+      "artists": [
+        {
+          "name": "Isaac Tumor",
+          "url": "https://open.spotify.com/artist/0xG7WIDGh5D81Fi04qsqzK"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146038,
+      "name": "zum zum zum",
+      "url": "https://open.spotify.com/track/0H5wGwPxWorkERCZqyUnc5"
     },
     {
       "album": {

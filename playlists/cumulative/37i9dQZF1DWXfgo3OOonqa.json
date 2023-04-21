@@ -1495,6 +1495,24 @@
     },
     {
       "album": {
+        "name": "ARMA EN MANO",
+        "url": "https://open.spotify.com/album/2rR2zHIiJntFo3ds63oV5t"
+      },
+      "artists": [
+        {
+          "name": "KD",
+          "url": "https://open.spotify.com/artist/7iLbRJb6dj3iKikgCmapXn"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153204,
+      "name": "ARMA EN MANO",
+      "url": "https://open.spotify.com/track/2Q2cH0P5B9qBDQmA43Kkld"
+    },
+    {
+      "album": {
         "name": "AT",
         "url": "https://open.spotify.com/album/7hVYtLgfLQzG4Lj13T3Zre"
       },
@@ -2102,7 +2120,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 141892,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/5dUyaKfXyKPoZcMPcPLoRG"
@@ -2284,6 +2302,28 @@
       "duration_ms": 124166,
       "name": "BELLA CIAO",
       "url": "https://open.spotify.com/track/17bJr6f1OevRPrAcpmmrKI"
+    },
+    {
+      "album": {
+        "name": "Belly",
+        "url": "https://open.spotify.com/album/6RoMvd5VZ4atPFqWdHWFuq"
+      },
+      "artists": [
+        {
+          "name": "Grillat & Gr\u00e4ndy",
+          "url": "https://open.spotify.com/artist/7iL5mYnDruJbcp1eSq961R"
+        },
+        {
+          "name": "Masse",
+          "url": "https://open.spotify.com/artist/4YZ9Me6cB52GpYwzaC2MQN"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Belly",
+      "url": "https://open.spotify.com/track/6jZVGi3rAs41u3q6wVKoLe"
     },
     {
       "album": {
@@ -2872,7 +2912,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 150923,
       "name": "BRAZIL",
       "url": "https://open.spotify.com/track/0MNNXGTgc5wL5MPOGkEZNE"
@@ -4838,7 +4878,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 182535,
       "name": "Duplantis",
       "url": "https://open.spotify.com/track/30brjBzRbL5MFUXWxSfG5A"
@@ -5092,6 +5132,24 @@
       "duration_ms": 181106,
       "name": "En Stund - Spotify Studio 100 Recording",
       "url": "https://open.spotify.com/track/4bFeSR93jyLv2QPcmzOJRp"
+    },
+    {
+      "album": {
+        "name": "En till dans",
+        "url": "https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200412,
+      "name": "En till dans",
+      "url": "https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE"
     },
     {
       "album": {
@@ -6444,7 +6502,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 171500,
       "name": "GIRL",
       "url": "https://open.spotify.com/track/7zeafSIdEHF8HoskBRkFto"
@@ -6502,7 +6560,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 123609,
       "name": "GLITTER",
       "url": "https://open.spotify.com/track/2uQzFHxj2KYSFtKvKgcP9p"
@@ -7132,7 +7190,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 120624,
       "name": "HARKI",
       "url": "https://open.spotify.com/track/2EayJFSji4xEOIM4Ur8gik"
@@ -9459,6 +9517,28 @@
     },
     {
       "album": {
+        "name": "G\u00e5r som klockan sedan 2014",
+        "url": "https://open.spotify.com/album/0XFFbmvDOSjIGA2KZjhqku"
+      },
+      "artists": [
+        {
+          "name": "Rikard \"Skizz\" Bizzi",
+          "url": "https://open.spotify.com/artist/3AcDJEZvKgdQU4qK9JvczW"
+        },
+        {
+          "name": "MAR",
+          "url": "https://open.spotify.com/artist/05sagCJlmdoKKQVGoLLyVC"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248372,
+      "name": "Legender",
+      "url": "https://open.spotify.com/track/7qFVDZg7WnMreyXnyVrF8V"
+    },
+    {
+      "album": {
         "name": "LEMONAD",
         "url": "https://open.spotify.com/album/61EggV7UyNvJ2i6YYF9BpI"
       },
@@ -9514,6 +9594,24 @@
       "duration_ms": 205267,
       "name": "Lenad",
       "url": "https://open.spotify.com/track/31T9RWkdgq9RGZgjC0JIpC"
+    },
+    {
+      "album": {
+        "name": "Lev l\u00e4nge",
+        "url": "https://open.spotify.com/album/6ff1k8e17lvBGXTcqPtJg0"
+      },
+      "artists": [
+        {
+          "name": "Parham",
+          "url": "https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179306,
+      "name": "Lev l\u00e4nge",
+      "url": "https://open.spotify.com/track/3OedaGJ03QNHAutglQuf4B"
     },
     {
       "album": {
@@ -10392,7 +10490,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 175357,
       "name": "Ma ch\u00e9rie",
       "url": "https://open.spotify.com/track/1ILnuJSm8ScyNAlaWdn8fx"
@@ -10690,7 +10788,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 146400,
       "name": "MARSEILLE",
       "url": "https://open.spotify.com/track/7pMQOELC9dAYP0Fsml9qng"
@@ -11569,6 +11667,24 @@
     },
     {
       "album": {
+        "name": "Lev l\u00e4nge",
+        "url": "https://open.spotify.com/album/6ff1k8e17lvBGXTcqPtJg0"
+      },
+      "artists": [
+        {
+          "name": "Parham",
+          "url": "https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235040,
+      "name": "Mormor",
+      "url": "https://open.spotify.com/track/0NB2IZ06Iszo4xS9pdlhsD"
+    },
+    {
+      "album": {
         "name": "MUSIK ELLER METALL",
         "url": "https://open.spotify.com/album/5kfEEbJC2PxSVI6EmS9HQS"
       },
@@ -12152,7 +12268,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 210461,
       "name": "N\u00e5t Annat",
       "url": "https://open.spotify.com/track/3KwRaCqqEnv1mlpkirM2pG"
@@ -13467,6 +13583,24 @@
     },
     {
       "album": {
+        "name": "P\u00c5 MIN WAVE",
+        "url": "https://open.spotify.com/album/7woMbDTY5TXhIgJq2Gp22N"
+      },
+      "artists": [
+        {
+          "name": "Nilo",
+          "url": "https://open.spotify.com/artist/0keJuhsaIXm08OuJkPM1la"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "P\u00c5 MIN WAVE",
+      "url": "https://open.spotify.com/track/12sbrS8EVwVRGbwijV8WE2"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Te",
         "url": "https://open.spotify.com/album/0FI0Ih60ulMByc4uYrW8FH"
       },
@@ -13762,7 +13896,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 157263,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/5E4Eh8B98cgYzTXJqX0uyL"
@@ -14998,7 +15132,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 183529,
       "name": "Sportbil",
       "url": "https://open.spotify.com/track/7bX2TgbtZrg8rVogs6ISM8"
@@ -15086,7 +15220,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 130942,
       "name": "Stefflon Don",
       "url": "https://open.spotify.com/track/7dNBmm3pee2FxAYiZNFk13"
@@ -15112,7 +15246,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 179130,
       "name": "Sticky Situation",
       "url": "https://open.spotify.com/track/7vVLexVH1BvkF0xoXveBFt"
@@ -15370,6 +15504,24 @@
       "duration_ms": 164774,
       "name": "Sv\u00e4var",
       "url": "https://open.spotify.com/track/5XrcvciKcQqHpj2hArPR39"
+    },
+    {
+      "album": {
+        "name": "Switch",
+        "url": "https://open.spotify.com/album/5YCUvbLHngzkpPj6aWdfWY"
+      },
+      "artists": [
+        {
+          "name": "Tado",
+          "url": "https://open.spotify.com/artist/4qc3USZURjRYYS8PTyRimP"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132480,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/2Fe1u3Pk49jXFZBOny4OjY"
     },
     {
       "album": {
@@ -16462,7 +16614,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 165454,
       "name": "Trapstar",
       "url": "https://open.spotify.com/track/65EbLNXHsdqXbMN8PR7AnC"
@@ -16582,6 +16734,24 @@
       "duration_ms": 101559,
       "name": "Turbo S",
       "url": "https://open.spotify.com/track/0DEpDFlJZmU0mdOu8LKTzd"
+    },
+    {
+      "album": {
+        "name": "Tusen Och En Natt",
+        "url": "https://open.spotify.com/album/6kpjKN7wkZG8yC0NU34992"
+      },
+      "artists": [
+        {
+          "name": "Lucaz",
+          "url": "https://open.spotify.com/artist/7n2WwvF0ngNkWVvh7EW6IZ"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130466,
+      "name": "Tusen Och En Natt",
+      "url": "https://open.spotify.com/track/210J9fuZJgQySEdIdLzYwB"
     },
     {
       "album": {

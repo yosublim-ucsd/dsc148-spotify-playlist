@@ -6,7 +6,7 @@
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTAyOTksYmM2NzlhMGI5ZTdhZTJjYTZkM2JhNTJkNmFjZDhjYzFiNDM0OTg5NQ==",
+  "snapshot_id": "MTAzMDMsMzE0NjViOTk1NjU0YmVjMWY0YzYxNWRkMzhkNmJlNjhhNzJjNzZiMA==",
   "tracks": [
     {
       "added_at": "2023-02-22 21:57:47",
@@ -27,6 +27,22 @@
       "duration_ms": 181430,
       "name": "Conflicted",
       "url": "https://open.spotify.com/track/24fqHAeKYTZAx6gN9kc3DC"
+    },
+    {
+      "added_at": "2023-04-20 18:26:56",
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/3bQWBdE0psnZHqkCqqKfcS"
+      },
+      "artists": [
+        {
+          "name": "Covex",
+          "url": "https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm"
+        }
+      ],
+      "duration_ms": 196615,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/7zQ1BkyTeFduOLwofN51Je"
     },
     {
       "added_at": "2023-03-22 16:54:39",
@@ -123,6 +139,26 @@
       "duration_ms": 185161,
       "name": "Without u (feat. Holywatr)",
       "url": "https://open.spotify.com/track/2Q1OcWGI9zObzJ1cvhhi7i"
+    },
+    {
+      "added_at": "2023-04-20 18:27:23",
+      "album": {
+        "name": "1x1",
+        "url": "https://open.spotify.com/album/6JTEvvAjCkAMPlFuuTMIbv"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Ravenna Golden",
+          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
+        }
+      ],
+      "duration_ms": 204217,
+      "name": "1x1",
+      "url": "https://open.spotify.com/track/3sL923OLO2SfZWwz6Eu59M"
     },
     {
       "added_at": "2023-02-22 21:58:30",

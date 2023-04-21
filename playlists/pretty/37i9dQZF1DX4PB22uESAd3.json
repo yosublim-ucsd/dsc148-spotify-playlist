@@ -1,12 +1,12 @@
 {
   "description": "The artists who laid the groundwork for Rock & Roll. Cover: Sister Rosetta Tharpe.",
-  "num_followers": 38764,
+  "num_followers": 38841,
   "original_name": "Roots of Rock & Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2ODcwMTE1NCwwMDAwMDAwMDkwN2UxZDkyZDUwYjM4MGFhMDViMDg3NWY4MzM4OTIy",
+  "snapshot_id": "MTY4MjAyMDIzNywwMDAwMDAwMDU3Yjg0MTMxZmUyOGVmZWI1ZTdlZGNlNmNjMjRhOTY5",
   "tracks": [
     {
       "added_at": "2022-11-17 16:05:54",
@@ -23,6 +23,70 @@
       "duration_ms": 171666,
       "name": "Hound Dog - Single Version",
       "url": "https://open.spotify.com/track/4GgmAsaolWaBPn4DofdCck"
+    },
+    {
+      "added_at": "2023-04-20 19:50:37",
+      "album": {
+        "name": "Presenting Jackie Brenston",
+        "url": "https://open.spotify.com/album/0lGyLGmExgZq0spI3df0ow"
+      },
+      "artists": [
+        {
+          "name": "Jackie Brenston",
+          "url": "https://open.spotify.com/artist/5pEcgMFu5zKwK5NDdpEIIj"
+        }
+      ],
+      "duration_ms": 166653,
+      "name": "Rocket 88",
+      "url": "https://open.spotify.com/track/2WODVps1PWm5KHCXlpe7Mw"
+    },
+    {
+      "added_at": "2023-04-20 19:50:37",
+      "album": {
+        "name": "I've Got a Feelin' - Okeh & Savoy Recordings 1952-56",
+        "url": "https://open.spotify.com/album/23TvdUPk9uACZuIROsADwL"
+      },
+      "artists": [
+        {
+          "name": "Big Maybelle",
+          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
+        }
+      ],
+      "duration_ms": 176600,
+      "name": "Whole Lotta Shakin' Goin' On",
+      "url": "https://open.spotify.com/track/0hje5OrPK3XNbcuGzmZwDV"
+    },
+    {
+      "added_at": "2022-11-17 16:05:54",
+      "album": {
+        "name": "Sister Rosetta Tharpe Vol. 2 1942-1944",
+        "url": "https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f"
+      },
+      "artists": [
+        {
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+        }
+      ],
+      "duration_ms": 167367,
+      "name": "Strange Things Happening Every Day",
+      "url": "https://open.spotify.com/track/0uUBfmp0ulkpf6EJzsZJZl"
+    },
+    {
+      "added_at": "2023-04-20 19:50:37",
+      "album": {
+        "name": "The Best Of Louis Jordan",
+        "url": "https://open.spotify.com/album/5fvGQvU2Hr99ABkrykFD7u"
+      },
+      "artists": [
+        {
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
+        }
+      ],
+      "duration_ms": 322506,
+      "name": "Saturday Night Fish Fry",
+      "url": "https://open.spotify.com/track/2jPlhMe0ptZPA6Of2mwKEZ"
     },
     {
       "added_at": "2022-11-17 16:05:54",
@@ -45,68 +109,84 @@
       "url": "https://open.spotify.com/track/0ff9ixoxJnJgQ3o5rx3wZP"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2023-04-20 19:50:37",
       "album": {
-        "name": "Moanin' In The Moonlight",
-        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+        "name": "Let 'em Roll",
+        "url": "https://open.spotify.com/album/6kgA83hCaAet4t4txHNh53"
       },
       "artists": [
         {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+          "name": "Hank Ballard",
+          "url": "https://open.spotify.com/artist/3R0XvRGDJEL5cGXVLiAbDB"
         }
       ],
-      "duration_ms": 188400,
-      "name": "Smokestack Lightnin'",
-      "url": "https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp"
+      "duration_ms": 167506,
+      "name": "Work With Me Annie",
+      "url": "https://open.spotify.com/track/6JqgGrA5uWjVFuar7EC8v8"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2023-04-20 19:50:37",
       "album": {
-        "name": "Chess Pieces: The Very Best Of Chess Records",
-        "url": "https://open.spotify.com/album/0EGMBB51mdmWPgG0inOYlv"
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
       "artists": [
         {
-          "name": "Jackie Brenston & His Delta Cats",
-          "url": "https://open.spotify.com/artist/2ucOV7b445I6Dl6OFN71aN"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 169720,
-      "name": "Rocket 88 - Single Version",
-      "url": "https://open.spotify.com/track/0qWGLMQwo57IabwNksvwGa"
+      "duration_ms": 160226,
+      "name": "Mess Around",
+      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2023-04-20 19:50:37",
       "album": {
-        "name": "Berry Is On Top",
-        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
       "artists": [
         {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
         }
       ],
-      "duration_ms": 161560,
-      "name": "Johnny B. Goode",
-      "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
+      "duration_ms": 247373,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2023-04-20 19:50:37",
       "album": {
-        "name": "That's All Right Mama",
-        "url": "https://open.spotify.com/album/4hAbDv4epIWlV0UO4X198N"
+        "name": "Somebody Up There Digs Me",
+        "url": "https://open.spotify.com/album/3Oi4pLtW9GbwTX1Oycdjvt"
       },
       "artists": [
         {
-          "name": "Arthur \"Big Boy\" Crudup",
-          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
+          "name": "Louis Jordan",
+          "url": "https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2"
         }
       ],
-      "duration_ms": 176973,
-      "name": "That's All Right",
-      "url": "https://open.spotify.com/track/7qOFo8CJMGexuOkSOynx6b"
+      "duration_ms": 137026,
+      "name": "Choo Choo Ch'Boogie",
+      "url": "https://open.spotify.com/track/0F18rDmCyWFBuwbbHxQdZs"
+    },
+    {
+      "added_at": "2023-04-20 19:50:37",
+      "album": {
+        "name": "Boogie Woogie Blues",
+        "url": "https://open.spotify.com/album/5q7R4Xt2dh7oiIWLbeJTq4"
+      },
+      "artists": [
+        {
+          "name": "Roy Brown",
+          "url": "https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu"
+        }
+      ],
+      "duration_ms": 214865,
+      "name": "Good Rocking Tonight",
+      "url": "https://open.spotify.com/track/29D3AG8rhX2OSWg8k9GIII"
     },
     {
       "added_at": "2022-11-17 16:05:54",
@@ -127,8 +207,8 @@
     {
       "added_at": "2022-11-17 16:05:54",
       "album": {
-        "name": "See See Rider",
-        "url": "https://open.spotify.com/album/4ngkRpyw98uagKb7lOlQ03"
+        "name": "LaVern Baker",
+        "url": "https://open.spotify.com/album/4Wg7zulZEKDPrHvQJWOHLc"
       },
       "artists": [
         {
@@ -136,31 +216,63 @@
           "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
         }
       ],
-      "duration_ms": 150426,
-      "name": "See See Rider",
-      "url": "https://open.spotify.com/track/1MW7hcqDWh0ODZA5hVunaO"
+      "duration_ms": 130946,
+      "name": "Jim Dandy",
+      "url": "https://open.spotify.com/track/4WNEDjXbuCWnceZPOEkf0S"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2023-04-20 19:50:37",
       "album": {
-        "name": "I Remember Chuck Willis (US Internet Release)",
-        "url": "https://open.spotify.com/album/00sUHXj82zGyIxUCJCLm8u"
+        "name": "Still Stompin' at the Savoy",
+        "url": "https://open.spotify.com/album/51hmJbrX2UCEE1leO9FXxH"
       },
       "artists": [
         {
-          "name": "Chuck Willis",
-          "url": "https://open.spotify.com/artist/21uawITknPcgjwdJuvpcGE"
+          "name": "Wild Bill Moore",
+          "url": "https://open.spotify.com/artist/6qVDOKAgcvJ5YQcjQhlf4a"
         }
       ],
-      "duration_ms": 139906,
-      "name": "Hang up My Rock and Roll Shoes",
-      "url": "https://open.spotify.com/track/1L6JGepB2558f8XSYsw36G"
+      "duration_ms": 157626,
+      "name": "We're Gonna Rock. We're Gonna Roll",
+      "url": "https://open.spotify.com/track/5Gy61MmcWGceYkamBwxGqr"
+    },
+    {
+      "added_at": "2023-04-20 19:50:37",
+      "album": {
+        "name": "Greatest Country Blues",
+        "url": "https://open.spotify.com/album/3QdlrtSCUjm6kQuJzJIK2B"
+      },
+      "artists": [
+        {
+          "name": "Sonny Terry and Brownie McGhee",
+          "url": "https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw"
+        }
+      ],
+      "duration_ms": 142933,
+      "name": "Robbie-Doby Boogie",
+      "url": "https://open.spotify.com/track/7sB7DhFAZob2Ul2OEDjDLG"
     },
     {
       "added_at": "2022-11-17 16:05:54",
       "album": {
-        "name": "Shake Rattle & Rock",
-        "url": "https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI"
+        "name": "Messed Up! The Cobra Recordings 1956-1958",
+        "url": "https://open.spotify.com/album/3kVFweslzBULC6Do0cJ2kp"
+      },
+      "artists": [
+        {
+          "name": "Harold Burrage",
+          "url": "https://open.spotify.com/artist/21XSS3GkVX88nFHdTIpuGa"
+        }
+      ],
+      "duration_ms": 136479,
+      "name": "She Knocks Me Out (Master)",
+      "url": "https://open.spotify.com/track/20FacjwdyVBtI7AuKgov5R"
+    },
+    {
+      "added_at": "2023-04-20 19:50:37",
+      "album": {
+        "name": "Jumpin' With Joe",
+        "url": "https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM"
       },
       "artists": [
         {
@@ -168,319 +280,15 @@
           "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
         }
       ],
-      "duration_ms": 179626,
-      "name": "Shake, Rattle and Roll",
-      "url": "https://open.spotify.com/track/7aLoa1F3EoM8AeC6Ao1RKz"
+      "duration_ms": 175200,
+      "name": "Roll 'Em Pete",
+      "url": "https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2023-04-20 19:50:37",
       "album": {
-        "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf with Steve Winwood: Piano & Organ, Bill Wyman: Bass Guitar, Shaker & Cowbell, Charlie Watts: Drums, Conga & Assorted Percussion",
-          "url": "https://open.spotify.com/artist/33yY8KynjFTutORPp8Q8ln"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        },
-        {
-          "name": "Bill Wyman",
-          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
-        },
-        {
-          "name": "Charlie Watts",
-          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
-        },
-        {
-          "name": "Hubert Sumlin",
-          "url": "https://open.spotify.com/artist/3Dogy4uGWEG13OyOJmw3R9"
-        }
-      ],
-      "duration_ms": 167426,
-      "name": "Highway 49",
-      "url": "https://open.spotify.com/track/12notHo8LwKc09rKORGtAQ"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/5cERxgxqQGUNmqEjsaz0B8"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "You Can't Judge A Book By Its Cover",
-      "url": "https://open.spotify.com/track/4HEmPMRG1Mz4pYEpYbWTO0"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Stompin' At The Savoy: The Original Indie Label, 1944-1961",
-        "url": "https://open.spotify.com/album/7FX7LtZgNBhC56MkUMfhCf"
-      },
-      "artists": [
-        {
-          "name": "Wild Bill Moore",
-          "url": "https://open.spotify.com/artist/6qVDOKAgcvJ5YQcjQhlf4a"
-        },
-        {
-          "name": "Paul Williams",
-          "url": "https://open.spotify.com/artist/3f626JSVauIhTQgatsFcs4"
-        }
-      ],
-      "duration_ms": 158533,
-      "name": "We're Gonna Rock, We're Gonna Roll",
-      "url": "https://open.spotify.com/track/7n4jHBUYOtwr8AkEihuwL2"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "R&B: From Doo-Wop To Hip-Hop",
-        "url": "https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8"
-      },
-      "artists": [
-        {
-          "name": "Big Maybelle",
-          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "Whole Lotta Shakin' Goin' On",
-      "url": "https://open.spotify.com/track/2QrBIUz6Mbmkh5dqcLzTHp"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Dootone Rock 'N' Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5oB7VbLgswDb6bHKQW59N4"
-      },
-      "artists": [
-        {
-          "name": "Roy Milton & His Orchestra",
-          "url": "https://open.spotify.com/artist/2e56KmhoZQopxDwe5CcXJQ"
-        }
-      ],
-      "duration_ms": 129524,
-      "name": "You Got Me Reelin' and Rockin'",
-      "url": "https://open.spotify.com/track/2Nj0q9zrJW6TPqeiFwnWWa"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Wanda Jackson",
-        "url": "https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw"
-      },
-      "artists": [
-        {
-          "name": "Wanda Jackson",
-          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "Let's Have A Party",
-      "url": "https://open.spotify.com/track/2B4IYgIkBnemrp0YEkaUIH"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "After School Session",
-        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 160693,
-      "name": "School Day (Ring Ring Goes The Bell)",
-      "url": "https://open.spotify.com/track/3RYwxAkUbHCzCmX8M0C0Zd"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "The Best of Republic Records Volume I - Soul Blue",
-        "url": "https://open.spotify.com/album/02eWaB3ZUuq7W7oKKugt4v"
-      },
-      "artists": [
-        {
-          "name": "Bernard Hardison",
-          "url": "https://open.spotify.com/artist/52ROpvjECtlkc31taYLikI"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/5muOhtmFnII1fXPT7DUZEJ"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "5-10-15 Hours",
-      "url": "https://open.spotify.com/track/0w20j6tOA22U8Q8brOysGK"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Bo Diddley",
-        "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        }
-      ],
-      "duration_ms": 147373,
-      "name": "Who Do You Love",
-      "url": "https://open.spotify.com/track/3v30QiQtdQQAUIWwfKByN7"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Rock Around The Clock",
-        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
-      },
-      "artists": [
-        {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
-        }
-      ],
-      "duration_ms": 149466,
-      "name": "Shake, Rattle And Roll",
-      "url": "https://open.spotify.com/track/5z2Gef9D3UgRquZXe7UUW4"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Baby Let's Play House: The Best Of Arthur Gunter",
-        "url": "https://open.spotify.com/album/2oh1oi78a4BnVdr8bPjfyK"
-      },
-      "artists": [
-        {
-          "name": "Arthur Gunter",
-          "url": "https://open.spotify.com/artist/3TrBjRdu5ZlyC157MYnoGX"
-        }
-      ],
-      "duration_ms": 165493,
-      "name": "Baby Let's Play House",
-      "url": "https://open.spotify.com/track/2RgYm8Y4hVXY5wCNEqICfP"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Big Walter Horton w/ Carey Bell",
-        "url": "https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5"
-      },
-      "artists": [
-        {
-          "name": "Big Walter Horton",
-          "url": "https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX"
-        }
-      ],
-      "duration_ms": 228533,
-      "name": "Have A Good Time",
-      "url": "https://open.spotify.com/track/0xfzxjWLAsAZB0KC1juVUZ"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Memorial Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        },
-        {
-          "name": "Drifting Cowboys",
-          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
-        }
-      ],
-      "duration_ms": 176893,
-      "name": "Hey, Good Lookin'",
-      "url": "https://open.spotify.com/track/0deAIqyKFFw55JDMGWTcdA"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "The Blues Is Now",
-        "url": "https://open.spotify.com/album/7eIAMxI6NVQuDVwoFGrA3o"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Witherspoon",
-          "url": "https://open.spotify.com/artist/6vth8u6Wp7k2bbzDQMCmrb"
-        },
-        {
-          "name": "Jack McDuff",
-          "url": "https://open.spotify.com/artist/0GX5PlFlvOiEdNvA7YHJzs"
-        }
-      ],
-      "duration_ms": 134120,
-      "name": "Good Rocking Tonight",
-      "url": "https://open.spotify.com/track/2JnqkvRd9v9Nmb6L1kF4ad"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Fats Domino Swings",
-        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 126666,
-      "name": "I'm Walkin'",
-      "url": "https://open.spotify.com/track/2gZlblsff9FKnhSIwB2ZsU"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Jerry Lee's Greatest",
-        "url": "https://open.spotify.com/album/02FCCye8QsWyjHwedg9Quj"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 111535,
-      "name": "Great Balls Of Fire",
-      "url": "https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Good Golly!",
-        "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
+        "name": "Here's Little Richard (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8"
       },
       "artists": [
         {
@@ -488,129 +296,57 @@
           "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
         }
       ],
-      "duration_ms": 129132,
-      "name": "Good Golly, Miss Molly",
-      "url": "https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp"
+      "duration_ms": 127426,
+      "name": "Long Tall Sally (The Thing)",
+      "url": "https://open.spotify.com/track/507IFqPuG8mBQoKebfGG9t"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2023-04-20 19:50:37",
       "album": {
-        "name": "Berry Is On Top",
-        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+        "name": "I Feel So Good - the Smooth Jazz of Hal Singer",
+        "url": "https://open.spotify.com/album/4sMKVXekJtGwa9ObTFJi31"
       },
       "artists": [
         {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+          "name": "Hal Singer",
+          "url": "https://open.spotify.com/artist/79gZ7cvmetgEUB1yJMYKx2"
         }
       ],
-      "duration_ms": 143240,
-      "name": "Maybellene",
-      "url": "https://open.spotify.com/track/3SQhmctWreNM0X6Zkm2K5R"
+      "duration_ms": 177502,
+      "name": "Rock Around the Clock",
+      "url": "https://open.spotify.com/track/2Gxyi69M6qak0VbKvL5Nff"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2023-04-20 19:50:37",
       "album": {
-        "name": "Getting Ready... (World)",
-        "url": "https://open.spotify.com/album/2bNjljctm6ynfp9Xzdy7RI"
+        "name": "The Legendary Sun Classics Vol. 3",
+        "url": "https://open.spotify.com/album/6RBeUEUBSDu4XRlqNisfWw"
       },
       "artists": [
         {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
         }
       ],
-      "duration_ms": 204333,
-      "name": "Going Down",
-      "url": "https://open.spotify.com/track/2wnjZXcAT3rCjjqxLeHjv7"
+      "duration_ms": 142706,
+      "name": "Mystery Train",
+      "url": "https://open.spotify.com/track/5NFb4kLCowduMSq91XC7dl"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2023-04-20 19:50:37",
       "album": {
-        "name": "The Dance Album",
-        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+        "name": "Let The Good Times Roll: The Anthology 1938 - 1953",
+        "url": "https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK"
       },
       "artists": [
         {
-          "name": "Carl Perkins",
-          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+          "name": "Louis Jordan & His Tympany Five",
+          "url": "https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh"
         }
       ],
-      "duration_ms": 134445,
-      "name": "Blue Suede Shoes",
-      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "The Complete Chess Recordings",
-        "url": "https://open.spotify.com/album/0q40700ROBVpKW10ENxL9n"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Rogers",
-          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
-        }
-      ],
-      "duration_ms": 170466,
-      "name": "Rock This House",
-      "url": "https://open.spotify.com/track/2aEgEjhey9ehPOKvKNCJkv"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Buddy Holly",
-        "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        },
-        {
-          "name": "The Crickets",
-          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
-        }
-      ],
-      "duration_ms": 129120,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
-      },
-      "artists": [
-        {
-          "name": "Connie Francis",
-          "url": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Stupid Cupid",
-      "url": "https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Feelin' Good",
-        "url": "https://open.spotify.com/album/6K5vBtlHMc6PyZMoEBw6BF"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Rogers",
-          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
-        },
-        {
-          "name": "Rod Piazza",
-          "url": "https://open.spotify.com/artist/0zWkGcXh8YmA2CFDGUosWX"
-        }
-      ],
-      "duration_ms": 252706,
-      "name": "Rock With You Baby",
-      "url": "https://open.spotify.com/track/7MRHzIlnrmznrxdJ1Gb6EP"
+      "duration_ms": 161266,
+      "name": "Caldonia - Single Version",
+      "url": "https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig"
     },
     {
       "added_at": "2022-11-17 16:05:54",
@@ -645,68 +381,68 @@
       "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2023-04-20 19:50:37",
       "album": {
-        "name": "Ain't Got No Home: The Best Of Clarence \"Frogman\" Henry (Reissue)",
-        "url": "https://open.spotify.com/album/1lqxhBn0pdysvvWRTR5ggP"
+        "name": "Fats Domino Swings",
+        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
       },
       "artists": [
         {
-          "name": "Clarence \"Frogman\" Henry",
-          "url": "https://open.spotify.com/artist/3EYYw0bxDMBYfLoBehpsNf"
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
         }
       ],
-      "duration_ms": 141866,
-      "name": "Ain't Got No Home",
-      "url": "https://open.spotify.com/track/06r30bE8T4VXXN7hI9o93L"
+      "duration_ms": 163093,
+      "name": "The Fat Man",
+      "url": "https://open.spotify.com/track/0ImWszBg2sQEInlAWaug31"
+    },
+    {
+      "added_at": "2023-04-20 19:50:37",
+      "album": {
+        "name": "King Of The Delta Blues Singers",
+        "url": "https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU"
+      },
+      "artists": [
+        {
+          "name": "Robert Johnson",
+          "url": "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
+        }
+      ],
+      "duration_ms": 149560,
+      "name": "Cross Road Blues",
+      "url": "https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG"
     },
     {
       "added_at": "2022-11-17 16:05:54",
       "album": {
-        "name": "The Sonet Blues Story",
-        "url": "https://open.spotify.com/album/4HUZicdr97uVo9t0pmlGXw"
+        "name": "Good Golly!",
+        "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
       },
       "artists": [
         {
-          "name": "Snooks Eaglin",
-          "url": "https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS"
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
         }
       ],
-      "duration_ms": 104693,
-      "name": "Shake, Rattle And Roll - Bonus track",
-      "url": "https://open.spotify.com/track/2M0ouXw65O7RWDzxSkKosl"
+      "duration_ms": 129132,
+      "name": "Good Golly, Miss Molly",
+      "url": "https://open.spotify.com/track/0ZvgXNstN4o2ZXPomtBYVp"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2023-04-20 19:50:37",
       "album": {
-        "name": "Presenting Smiley Lewis",
-        "url": "https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj"
+        "name": "Female Blues - The Remaining Titles Vol. 2 (1938-1949)",
+        "url": "https://open.spotify.com/album/5Cdll1bM00Aeg588xttgyU"
       },
       "artists": [
         {
-          "name": "Smiley Lewis",
-          "url": "https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk"
+          "name": "Wee Bea Booze",
+          "url": "https://open.spotify.com/artist/1V8Mg68alm71auKXF8egnF"
         }
       ],
-      "duration_ms": 146373,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/3fPXG8Is2esxhm2y7W9ULI"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "The Legend Lives Anew: Hank Williams, Sr. With Strings",
-        "url": "https://open.spotify.com/album/1PEa3YWXafstgaF2bTpMg2"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        }
-      ],
-      "duration_ms": 169066,
-      "name": "I'm So Lonesome I Could Cry",
-      "url": "https://open.spotify.com/track/4tj7IsJrn4MvesuhoY0JBy"
+      "duration_ms": 156291,
+      "name": "See See Rider",
+      "url": "https://open.spotify.com/track/42hEuH3gb4Qp66pPyRqigA"
     },
     {
       "added_at": "2022-11-17 16:05:54",
@@ -727,18 +463,86 @@
     {
       "added_at": "2022-11-17 16:05:54",
       "album": {
-        "name": "Dedicated To You",
-        "url": "https://open.spotify.com/album/5Bewz5jmyclT9md37V03lK"
+        "name": "That's All Right Mama",
+        "url": "https://open.spotify.com/album/4hAbDv4epIWlV0UO4X198N"
       },
       "artists": [
         {
-          "name": "The \"5\" Royales",
-          "url": "https://open.spotify.com/artist/67OIf7vgqZq9qFuDqmCFyI"
+          "name": "Arthur \"Big Boy\" Crudup",
+          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
         }
       ],
-      "duration_ms": 156146,
-      "name": "Think",
-      "url": "https://open.spotify.com/track/4FCrFHaqYoEj28ietYuSnk"
+      "duration_ms": 176973,
+      "name": "That's All Right",
+      "url": "https://open.spotify.com/track/7qOFo8CJMGexuOkSOynx6b"
+    },
+    {
+      "added_at": "2022-11-17 16:05:54",
+      "album": {
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Smokestack Lightnin'",
+      "url": "https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp"
+    },
+    {
+      "added_at": "2023-04-20 19:50:37",
+      "album": {
+        "name": "Presenting Arthur \"Big Boy\" Crudup",
+        "url": "https://open.spotify.com/album/5XXzD0S8cAExlk8AQkBERQ"
+      },
+      "artists": [
+        {
+          "name": "Arthur \"Big Boy\" Crudup",
+          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
+        }
+      ],
+      "duration_ms": 149613,
+      "name": "Rock Me Mama",
+      "url": "https://open.spotify.com/track/12LedD0MvtCtmVIsCAQlpC"
+    },
+    {
+      "added_at": "2023-04-20 19:50:37",
+      "album": {
+        "name": "King Of The Boogie",
+        "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 189640,
+      "name": "Boogie Chillen",
+      "url": "https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4"
+    },
+    {
+      "added_at": "2023-04-20 19:50:37",
+      "album": {
+        "name": "The Early Years - Part 1 (1935-1938)",
+        "url": "https://open.spotify.com/album/24lKvz4OOlIWhpYxBnHBTR"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Chick Webb",
+          "url": "https://open.spotify.com/artist/7AgtFmxbJL1wDbp7yYrzQb"
+        }
+      ],
+      "duration_ms": 189866,
+      "name": "Rock It For Me",
+      "url": "https://open.spotify.com/track/0C0H0Drjxe9gnQtYz2f5b6"
     },
     {
       "added_at": "2022-11-17 16:05:54",
@@ -757,168 +561,52 @@
       "url": "https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2023-04-20 19:50:37",
       "album": {
-        "name": "Shake Your Moneymaker: The Best of the Fire Sessions",
-        "url": "https://open.spotify.com/album/04c932ZDWrJTCdBLfUCgUj"
+        "name": "Moanin' In The Moonlight",
+        "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
       },
       "artists": [
         {
-          "name": "Elmore James",
-          "url": "https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS"
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 152893,
-      "name": "Shake Your Money Maker",
-      "url": "https://open.spotify.com/track/3gW8N0jXhpnaw4R25UsRIL"
+      "duration_ms": 163026,
+      "name": "How Many More Years",
+      "url": "https://open.spotify.com/track/0MkINaEoNBJfG9G6ewd4xM"
+    },
+    {
+      "added_at": "2023-04-20 19:50:37",
+      "album": {
+        "name": "Presenting Memphis Minnie",
+        "url": "https://open.spotify.com/album/3dEooHBk6cpxW98yT25Z3T"
+      },
+      "artists": [
+        {
+          "name": "Memphis Minnie",
+          "url": "https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC"
+        }
+      ],
+      "duration_ms": 151253,
+      "name": "Kissing in the Dark",
+      "url": "https://open.spotify.com/track/1gmD8S3i2TKBPxWbanoYJi"
     },
     {
       "added_at": "2022-11-17 16:05:54",
       "album": {
-        "name": "Dedicated To You",
-        "url": "https://open.spotify.com/album/5Bewz5jmyclT9md37V03lK"
+        "name": "See See Rider",
+        "url": "https://open.spotify.com/album/4ngkRpyw98uagKb7lOlQ03"
       },
       "artists": [
         {
-          "name": "The \"5\" Royales",
-          "url": "https://open.spotify.com/artist/67OIf7vgqZq9qFuDqmCFyI"
+          "name": "LaVern Baker",
+          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
         }
       ],
-      "duration_ms": 165173,
-      "name": "Dedicated To The One I Love",
-      "url": "https://open.spotify.com/track/3FBRUiKXQUtRzLv8o9UAJb"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Memorial Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams",
-          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
-        },
-        {
-          "name": "Drifting Cowboys",
-          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
-        }
-      ],
-      "duration_ms": 166160,
-      "name": "Move It On Over",
-      "url": "https://open.spotify.com/track/4bLFRNxLjFltxVPjvUbgJ7"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Calling All Blues - The Chief, Profile & USA Recordings 1957-1963",
-        "url": "https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "duration_ms": 181786,
-      "name": "She's A Sweet One",
-      "url": "https://open.spotify.com/track/2Cg3GUkhjX96nO4p2WRlIa"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "The EP Collection",
-        "url": "https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb"
-      },
-      "artists": [
-        {
-          "name": "Tiny Bradshaw",
-          "url": "https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa"
-        }
-      ],
-      "duration_ms": 153573,
-      "name": "Soft",
-      "url": "https://open.spotify.com/track/5u87THoJXo4YgI7pxjwaqI"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Johnny Cash at Sun",
-        "url": "https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 133120,
-      "name": "Get Rhythm",
-      "url": "https://open.spotify.com/track/1xKEI3TDR1NjJSgAlC384x"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Muddy Waters At Newport 1960",
-        "url": "https://open.spotify.com/album/7gTcPv1bE0THbjuvDbK1gq"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 184826,
-      "name": "Baby, Please Don't Go - Live At Newport Jazz Festival/1960",
-      "url": "https://open.spotify.com/track/2mWeBfeGMAFRWnzjxBSyFo"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Patsy Cline",
-        "url": "https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v"
-      },
-      "artists": [
-        {
-          "name": "Patsy Cline",
-          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Walkin' After Midnight",
-      "url": "https://open.spotify.com/track/7E8nKMtXMqIQbvl1Ta9Ucw"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Presenting Smiley Lewis",
-        "url": "https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj"
-      },
-      "artists": [
-        {
-          "name": "Smiley Lewis",
-          "url": "https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk"
-        }
-      ],
-      "duration_ms": 165813,
-      "name": "I Hear You Knocking",
-      "url": "https://open.spotify.com/track/0HZKjunmlaB6ZGQHZJ0keN"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Messed Up! The Cobra Recordings 1956-1958",
-        "url": "https://open.spotify.com/album/3kVFweslzBULC6Do0cJ2kp"
-      },
-      "artists": [
-        {
-          "name": "Harold Burrage",
-          "url": "https://open.spotify.com/artist/21XSS3GkVX88nFHdTIpuGa"
-        }
-      ],
-      "duration_ms": 136479,
-      "name": "She Knocks Me Out (Master)",
-      "url": "https://open.spotify.com/track/20FacjwdyVBtI7AuKgov5R"
+      "duration_ms": 150426,
+      "name": "See See Rider",
+      "url": "https://open.spotify.com/track/1MW7hcqDWh0ODZA5hVunaO"
     },
     {
       "added_at": "2022-11-17 16:05:54",
@@ -937,20 +625,88 @@
       "url": "https://open.spotify.com/track/5tHFPtV7dT01fxDe2AhKjD"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2023-04-20 19:50:37",
       "album": {
-        "name": "Sister Rosetta Tharpe Vol. 2 1942-1944",
-        "url": "https://open.spotify.com/album/4FkQ3aw8yWpFGEuAcNIM4f"
+        "name": "After Midnight: The Complete Session",
+        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
       },
       "artists": [
         {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 167367,
-      "name": "Strange Things Happening Every Day",
-      "url": "https://open.spotify.com/track/0uUBfmp0ulkpf6EJzsZJZl"
+      "duration_ms": 223133,
+      "name": "(Get Your Kicks On) Route 66",
+      "url": "https://open.spotify.com/track/0zQ1o6q0QaeMgro248kNGh"
+    },
+    {
+      "added_at": "2023-04-20 19:50:37",
+      "album": {
+        "name": "Big Joe Turner: The Rhythm & Blues Years",
+        "url": "https://open.spotify.com/album/7to9F3RsITVIxiWIMDLwU7"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Turner",
+          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
+        }
+      ],
+      "duration_ms": 162946,
+      "name": "Honey Hush",
+      "url": "https://open.spotify.com/track/5ssXU6u9HqUW87W2gglY7F"
+    },
+    {
+      "added_at": "2023-04-20 19:50:37",
+      "album": {
+        "name": "Volume 2 - Rock the Joint",
+        "url": "https://open.spotify.com/album/7H4vgJSMCKTJ57maK2Q1Oe"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Preston",
+          "url": "https://open.spotify.com/artist/1NRTTzPGHng44EEV856n65"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Rock the Joint",
+      "url": "https://open.spotify.com/track/3i1pqfP4SQVAw0iWh8GDsG"
+    },
+    {
+      "added_at": "2023-04-20 19:50:37",
+      "album": {
+        "name": "Doo Wop Pops (Volume One)",
+        "url": "https://open.spotify.com/album/4wfRpsosy07okdHKP4gddi"
+      },
+      "artists": [
+        {
+          "name": "Clyde McPhatter",
+          "url": "https://open.spotify.com/artist/7gpPloImuWp6fM4DtszvUp"
+        },
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 174655,
+      "name": "Money Honey",
+      "url": "https://open.spotify.com/track/60fKMm3ts4mBzvfCityzUg"
+    },
+    {
+      "added_at": "2023-04-20 19:50:37",
+      "album": {
+        "name": "Blues Classics 3",
+        "url": "https://open.spotify.com/album/6iHSu46BEs0fIW7o339vp8"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson",
+          "url": "https://open.spotify.com/artist/547G7bscNX0eH1Wn8goMUz"
+        }
+      ],
+      "duration_ms": 169787,
+      "name": "Jivin' The Blues",
+      "url": "https://open.spotify.com/track/3mxe51ad3T4BFdguwAyp6Z"
     },
     {
       "added_at": "2022-11-17 16:05:54",
@@ -971,60 +727,88 @@
     {
       "added_at": "2022-11-17 16:05:54",
       "album": {
-        "name": "The Atlantic Albums",
-        "url": "https://open.spotify.com/album/4O6HOxKZ77w7dvnje0JM3k"
+        "name": "Calling All Blues - The Chief, Profile & USA Recordings 1957-1963",
+        "url": "https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        }
+      ],
+      "duration_ms": 181786,
+      "name": "She's A Sweet One",
+      "url": "https://open.spotify.com/track/2Cg3GUkhjX96nO4p2WRlIa"
+    },
+    {
+      "added_at": "2022-11-17 16:05:54",
+      "album": {
+        "name": "Shake Rattle & Rock",
+        "url": "https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI"
       },
       "artists": [
         {
           "name": "Big Joe Turner",
           "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        },
-        {
-          "name": "Van 'Piano Man' Walls Orchestra",
-          "url": "https://open.spotify.com/artist/3LhM28i6lmR4TTc9yZJD6O"
         }
       ],
-      "duration_ms": 142706,
-      "name": "Bump Miss Susie",
-      "url": "https://open.spotify.com/track/5vehIzA4sq72gr5GTg1W7K"
+      "duration_ms": 179626,
+      "name": "Shake, Rattle and Roll",
+      "url": "https://open.spotify.com/track/7aLoa1F3EoM8AeC6Ao1RKz"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2023-04-20 19:50:37",
       "album": {
-        "name": "\"America's Queen Mother Of Soul\" Got A Brand New Bag",
-        "url": "https://open.spotify.com/album/1DN50uhOQLKfCzTeDPaTn3"
+        "name": "Presenting Roy Brown",
+        "url": "https://open.spotify.com/album/4qP4SvX9u1r5hk3sxtmGYl"
       },
       "artists": [
         {
-          "name": "Big Maybelle",
-          "url": "https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0"
+          "name": "Roy Brown",
+          "url": "https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu"
         }
       ],
-      "duration_ms": 143280,
-      "name": "96 Tears",
-      "url": "https://open.spotify.com/track/7eotSbuPkqE4DkvsSZLUM6"
+      "duration_ms": 216733,
+      "name": "Good Rockin Tonight",
+      "url": "https://open.spotify.com/track/2k87zh87uA132TS9ENMpsw"
     },
     {
-      "added_at": "2022-11-17 16:05:54",
+      "added_at": "2023-04-20 19:50:37",
       "album": {
-        "name": "Good Rocking Tonight",
-        "url": "https://open.spotify.com/album/6UmN9wphbYK7NdCVpRi8lw"
+        "name": "Rock a While",
+        "url": "https://open.spotify.com/album/5aOqm88qLw7kXDZdvk1tr3"
       },
       "artists": [
         {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+          "name": "Goree Carter",
+          "url": "https://open.spotify.com/artist/37pKwOXXC8AxbS1wIBhtbP"
         }
       ],
-      "duration_ms": 169800,
-      "name": "Good Rocking Tonight",
-      "url": "https://open.spotify.com/track/4KkPswolFJD095NNLNP2AX"
+      "duration_ms": 160573,
+      "name": "Rock a While",
+      "url": "https://open.spotify.com/track/0oMOMV1xeO3n6MDaieuhCh"
+    },
+    {
+      "added_at": "2023-04-20 19:50:37",
+      "album": {
+        "name": "Sixty Minute Man",
+        "url": "https://open.spotify.com/album/7t26O9uEYKDVLhvmgLGeVo"
+      },
+      "artists": [
+        {
+          "name": "Billy Ward & The Dominoes",
+          "url": "https://open.spotify.com/artist/5N6BX9UJbyuWlb4rxH8mJk"
+        }
+      ],
+      "duration_ms": 153626,
+      "name": "Sixty Minute Man",
+      "url": "https://open.spotify.com/track/6O2ptWddF1zImt8CMwsdiF"
     },
     {
       "added_at": "2022-11-17 16:05:54",
       "album": {
-        "name": "One Dozen Berry's",
-        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
       },
       "artists": [
         {
@@ -1032,157 +816,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 151773,
-      "name": "Rock And Roll Music",
-      "url": "https://open.spotify.com/track/09hxCc0SgV8u46gWsfeqJA"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "King Of The Delta Blues Singers",
-        "url": "https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU"
-      },
-      "artists": [
-        {
-          "name": "Robert Johnson",
-          "url": "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "Traveling Riverside Blues",
-      "url": "https://open.spotify.com/track/3pS6HIZimRIBMrQU6vRfpp"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "New Orleans Soul 60's",
-        "url": "https://open.spotify.com/album/7rHMumkRlFefIy5vHpVhlE"
-      },
-      "artists": [
-        {
-          "name": "Earl King",
-          "url": "https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn"
-        },
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 270680,
-      "name": "Big Chief - Complete Version",
-      "url": "https://open.spotify.com/track/4ATn4VAtmlucFApQz9Rwpa"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Original Golden Hits - Volume 1 (Vol. 1)",
-        "url": "https://open.spotify.com/album/22cLZV8YJhDZzJ7lvJQXZj"
-      },
-      "artists": [
-        {
-          "name": "Jerry Lee Lewis",
-          "url": "https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo"
-        }
-      ],
-      "duration_ms": 173158,
-      "name": "Whole Lot Of Shakin' Going On - Single Version",
-      "url": "https://open.spotify.com/track/7Fyo9lTrk6pjT1rVW3GlBG"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "LaVern Baker",
-        "url": "https://open.spotify.com/album/4Wg7zulZEKDPrHvQJWOHLc"
-      },
-      "artists": [
-        {
-          "name": "LaVern Baker",
-          "url": "https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw"
-        }
-      ],
-      "duration_ms": 130946,
-      "name": "Jim Dandy",
-      "url": "https://open.spotify.com/track/4WNEDjXbuCWnceZPOEkf0S"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "That'll Be The Day",
-        "url": "https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY"
-      },
-      "artists": [
-        {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        }
-      ],
-      "duration_ms": 150133,
-      "name": "That'll Be The Day",
-      "url": "https://open.spotify.com/track/50RwvvEKX5Q7AZt8FTAwIF"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Bo Diddley",
-        "url": "https://open.spotify.com/album/1cbtDEwxCjMhglb49OgNBR"
-      },
-      "artists": [
-        {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
-        }
-      ],
-      "duration_ms": 149013,
-      "name": "Bo Diddley",
-      "url": "https://open.spotify.com/track/2R7uUQ0Dehu80gsOcydQC9"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Atlantic Rock & Roll",
-        "url": "https://open.spotify.com/album/6uKDu4300nbWtsEz1uiNYm"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Turner",
-          "url": "https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7"
-        }
-      ],
-      "duration_ms": 167506,
-      "name": "Flip, Flop & Fly - Mono",
-      "url": "https://open.spotify.com/track/2L3x7DQ4vsYma6PGDqyy9G"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "Lucky Lips",
-      "url": "https://open.spotify.com/track/2QD6hlIGUAqJuTzAw0eVTW"
-    },
-    {
-      "added_at": "2022-11-17 16:05:54",
-      "album": {
-        "name": "Good Golly!",
-        "url": "https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 143826,
-      "name": "Lucille",
-      "url": "https://open.spotify.com/track/4YXKKnIZuk7UtXH5oC0ffa"
+      "duration_ms": 161560,
+      "name": "Johnny B. Goode",
+      "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
     }
   ],
   "unique_name": "Roots of Rock & Roll",

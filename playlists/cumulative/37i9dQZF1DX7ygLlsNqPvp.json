@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The most intense local drill music firing up the continent. Cover:  <a href=\"https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T?si=Wu38xFPeR6SAC4ItkpqxHQ\" > Reggie</a> ",
+  "description": "The most intense local drill music firing up the continent. Cover:  <a href=\"https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ?si=_yq64HH-R5uDFrPq3m3jsg\" > Gyakie</a>  and  <a href=\"https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq?si=_gT-LkngTamHWqTBycfODQ\" > JBee</a> ",
   "name": "Asakaa",
   "tracks": [
     {
@@ -64,6 +64,24 @@
       "duration_ms": 262211,
       "name": "Adom Ntsi",
       "url": "https://open.spotify.com/track/2p4do2mYt62fuTZkqPIqZM"
+    },
+    {
+      "album": {
+        "name": "Adwuma",
+        "url": "https://open.spotify.com/album/6UoSOMyYyGYvt4QP2lWFkT"
+      },
+      "artists": [
+        {
+          "name": "Kwame Yesu",
+          "url": "https://open.spotify.com/artist/2Wj6QDzfwiv0Px83nDFTRf"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Adwuma",
+      "url": "https://open.spotify.com/track/4XLuxguiObaOWXuhTxn9mM"
     },
     {
       "album": {
@@ -440,7 +458,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 178599,
       "name": "Blessed Sinner",
       "url": "https://open.spotify.com/track/66fLV81N2fPV5XSaZn459U"
@@ -1230,7 +1248,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 185364,
       "name": "Kwaku the Traveller",
       "url": "https://open.spotify.com/track/7pXNFEzqeZB8rIbcFtYTop"
@@ -1400,6 +1418,24 @@
       "duration_ms": 188731,
       "name": "Masherita (feat. Skyface SDW, CHICOGOD & City Boy)",
       "url": "https://open.spotify.com/track/1SR6dJwu1Feh0RlAqS0HvK"
+    },
+    {
+      "album": {
+        "name": "Me & You",
+        "url": "https://open.spotify.com/album/7KhQhMmRKgHNSx37JkF37Q"
+      },
+      "artists": [
+        {
+          "name": "G-Migos",
+          "url": "https://open.spotify.com/artist/0t6ol0asVlzV0xbDxGdGGN"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240222,
+      "name": "Me & You",
+      "url": "https://open.spotify.com/track/5j9UwAnVUvntvKzLjbvVsT"
     },
     {
       "album": {
@@ -1805,6 +1841,32 @@
     },
     {
       "album": {
+        "name": "SCAR",
+        "url": "https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5"
+      },
+      "artists": [
+        {
+          "name": "Song bird",
+          "url": "https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        },
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "SCAR",
+      "url": "https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy"
+    },
+    {
+      "album": {
         "name": "YPSZN3",
         "url": "https://open.spotify.com/album/18fTwvrwISUL4KJiap0Ekp"
       },
@@ -1970,7 +2032,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 174500,
       "name": "SWAG (feat. O'Kenneth, Reggie, Jay Bahd & Kawabanga)",
       "url": "https://open.spotify.com/track/1Gn3pwGB9TLj56eElRY2a2"

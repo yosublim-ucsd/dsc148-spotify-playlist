@@ -78,7 +78,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 193718,
       "name": "19!",
       "url": "https://open.spotify.com/track/2yeeaXUNeoyWZgWP7V1rJM"
@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 154062,
       "name": "Cuida",
       "url": "https://open.spotify.com/track/6fBto8JNYvrhFAvTwYLbb4"
@@ -2232,7 +2232,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 177124,
       "name": "EGOH",
       "url": "https://open.spotify.com/track/0wvvRPSaBPo0YEo2y0Nnkx"
@@ -2905,6 +2905,40 @@
     },
     {
       "album": {
+        "name": "Fumo No Spot",
+        "url": "https://open.spotify.com/album/1pgsnBVJwE1L4sW9SVaW64"
+      },
+      "artists": [
+        {
+          "name": "Caixa Cart\u00e3o Collective",
+          "url": "https://open.spotify.com/artist/58OjDxOOGxAHL8s2mxbLgk"
+        },
+        {
+          "name": "UEST.",
+          "url": "https://open.spotify.com/artist/08jDGXzqrspw6c1r73rTh5"
+        },
+        {
+          "name": "Rilha",
+          "url": "https://open.spotify.com/artist/2qd9JIzESChvdBRKMjFmHJ"
+        },
+        {
+          "name": "V\u00e1cuo",
+          "url": "https://open.spotify.com/artist/7KdRBYXqkH88wCZFxixHXi"
+        },
+        {
+          "name": "Stone Jones",
+          "url": "https://open.spotify.com/artist/0qs6uqmfYtn7SxWVrap6Nb"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210774,
+      "name": "Fumo No Spot",
+      "url": "https://open.spotify.com/track/4BvIIeMYtthoWVMawj8zBT"
+    },
+    {
+      "album": {
         "name": "GANA",
         "url": "https://open.spotify.com/album/6xCXH2MTm96fgygr5GHUz1"
       },
@@ -2924,7 +2958,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 204982,
       "name": "Fundo",
       "url": "https://open.spotify.com/track/70RoY8wdFdF3rrnkHooxp1"
@@ -3416,7 +3450,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 230490,
       "name": "Hot Or Fire",
       "url": "https://open.spotify.com/track/03ufBsWERNppFLwZedOK70"
@@ -4398,7 +4432,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 125471,
       "name": "Mente Chora",
       "url": "https://open.spotify.com/track/1IXZp0IZSK91o4locn1ghq"
@@ -4893,6 +4927,28 @@
     },
     {
       "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/561uDatjg1nXtfCyAP3VP8"
+      },
+      "artists": [
+        {
+          "name": "Playboi Zuka",
+          "url": "https://open.spotify.com/artist/7mcVeenK6YYg0qivXEKdxX"
+        },
+        {
+          "name": "Hevvy x Fukk",
+          "url": "https://open.spotify.com/artist/4oKS5QR0v9JXTP3oG78WpJ"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/16q6ODer2H0BVVknam8OPU"
+    },
+    {
+      "album": {
         "name": "NBA Star",
         "url": "https://open.spotify.com/album/5tSUpw37pqA1NKkcpgkxdS"
       },
@@ -4948,7 +5004,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 246050,
       "name": "New Phone",
       "url": "https://open.spotify.com/track/0hRY0iehUKoX2yPMuFhW4g"
@@ -5170,7 +5226,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 195991,
       "name": "Nome No Largo",
       "url": "https://open.spotify.com/track/2dsSvbaLHaKs9D53uqXTyI"
@@ -5326,6 +5382,24 @@
       "duration_ms": 161904,
       "name": "N\u00e3o Desistas",
       "url": "https://open.spotify.com/track/0g2mHkXpRXMbmwZcNVu0Gm"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Finge",
+        "url": "https://open.spotify.com/album/6pv4K6of9HdrdpYpmx15Hk"
+      },
+      "artists": [
+        {
+          "name": "Kenwhy",
+          "url": "https://open.spotify.com/artist/5Yp3BOk6SCxdUw914xgm3U"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152195,
+      "name": "N\u00e3o Finge",
+      "url": "https://open.spotify.com/track/6ywwdAkZnzQPZIztmRhHQ6"
     },
     {
       "album": {
@@ -5909,6 +5983,24 @@
     },
     {
       "album": {
+        "name": "Pelo sim, pelo n\u00e3o",
+        "url": "https://open.spotify.com/album/3TOHVKjKKbfQLguECghYk6"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1ry M",
+          "url": "https://open.spotify.com/artist/6myextZ5obd54txCqZp7Ns"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212713,
+      "name": "Pelo sim, pelo n\u00e3o",
+      "url": "https://open.spotify.com/track/0KPuf9Kxjv5N0QFd3x6ZHe"
+    },
+    {
+      "album": {
         "name": "Perder",
         "url": "https://open.spotify.com/album/3D4GrroGK00DL5svXt5jUq"
       },
@@ -6253,6 +6345,24 @@
     },
     {
       "album": {
+        "name": "P\u00f3dio",
+        "url": "https://open.spotify.com/album/20fKnpI1280CSQvU4MiokJ"
+      },
+      "artists": [
+        {
+          "name": "xanny7k",
+          "url": "https://open.spotify.com/artist/5mtMzD3yu1LkWnCR29Jjt4"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154296,
+      "name": "P\u00f3dio",
+      "url": "https://open.spotify.com/track/73bDYFY2KA3QnyXqZSW7yb"
+    },
+    {
+      "album": {
         "name": "P\u00f5e o Som",
         "url": "https://open.spotify.com/album/6LMoXWUe8p0RJ8Dn53559S"
       },
@@ -6511,6 +6621,24 @@
     },
     {
       "album": {
+        "name": "Rei",
+        "url": "https://open.spotify.com/album/5F4wmXPK30IFCHxeggiGn4"
+      },
+      "artists": [
+        {
+          "name": "Deni",
+          "url": "https://open.spotify.com/artist/6HqlRHxDB2t1XzsLCmeK6G"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Rei",
+      "url": "https://open.spotify.com/track/1fdR45wvBGk3sC7HJBrZx2"
+    },
+    {
+      "album": {
         "name": "Rendez Vous",
         "url": "https://open.spotify.com/album/63dhxW3bKwPsh7diCrP9Kh"
       },
@@ -6678,7 +6806,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 154000,
       "name": "Room",
       "url": "https://open.spotify.com/track/6O4nV6rmc1oJtDvk39OogI"
@@ -6975,6 +7103,24 @@
     },
     {
       "album": {
+        "name": "Sei L\u00e1",
+        "url": "https://open.spotify.com/album/2J8ig7ChaH71qBF8PlB2Pn"
+      },
+      "artists": [
+        {
+          "name": "Jair Mc",
+          "url": "https://open.spotify.com/artist/5GkADCcSp6mQFWJ8mpRpkz"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193015,
+      "name": "Sei L\u00e1",
+      "url": "https://open.spotify.com/track/77ui30Q9Kj2ZJzNZ2R8lti"
+    },
+    {
+      "album": {
         "name": "Sei para Onde Vou, Pt. 2",
         "url": "https://open.spotify.com/album/2DW2clrlidkgpdLOA2H5ml"
       },
@@ -7082,6 +7228,24 @@
       "duration_ms": 259066,
       "name": "SER PURO SER",
       "url": "https://open.spotify.com/track/6qXAKUpIcUw2yEyAqE8vz5"
+    },
+    {
+      "album": {
+        "name": "Shotgun Season",
+        "url": "https://open.spotify.com/album/3B7ae1jtjaVKxkWfp9dtiJ"
+      },
+      "artists": [
+        {
+          "name": "Carlito Lagangzz",
+          "url": "https://open.spotify.com/artist/4gXs0G5ETeS6eTOMRCiSdL"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "Shotgun Season",
+      "url": "https://open.spotify.com/track/6MDI8ojthjKYMO9yazee4m"
     },
     {
       "album": {
@@ -7288,6 +7452,24 @@
       "duration_ms": 175935,
       "name": "Sonhar",
       "url": "https://open.spotify.com/track/1jdkbqMCGE0E18Pk2aOawJ"
+    },
+    {
+      "album": {
+        "name": "Sonhei Que No Meu Bairro",
+        "url": "https://open.spotify.com/album/5iTzlAW3bU6bUUUr8t76Zq"
+      },
+      "artists": [
+        {
+          "name": "Chullage",
+          "url": "https://open.spotify.com/artist/5yTuBrbKpiwjRoXGFAdnQc"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314929,
+      "name": "Sonhei Que No Meu Bairro",
+      "url": "https://open.spotify.com/track/09fPAsoOHwaMCIFnWJ9EU5"
     },
     {
       "album": {
@@ -7733,6 +7915,28 @@
     },
     {
       "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/6ImOPToKVAp99LWRTHG6jA"
+      },
+      "artists": [
+        {
+          "name": "Sarissari",
+          "url": "https://open.spotify.com/artist/3RxLhhb4DGlxpXnmSDqC8b"
+        },
+        {
+          "name": "G Baby Da Silva",
+          "url": "https://open.spotify.com/artist/6LvlOCoVYvPaXgk3dvmB1X"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195056,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/4JYrtfqHZC3caCJp9sfb4r"
+    },
+    {
+      "album": {
         "name": "Totoloto",
         "url": "https://open.spotify.com/album/5O9roURRhmpSDOs8840Ubn"
       },
@@ -8108,7 +8312,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 195450,
       "name": "VEM C\u00c1",
       "url": "https://open.spotify.com/track/1g7U6zOh8csoqUabagx8lM"

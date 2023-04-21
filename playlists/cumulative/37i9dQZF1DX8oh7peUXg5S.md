@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8oh7peUXg5S.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8oh7peUXg5S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8oh7peUXg5S)
 
-### [Cantautores](https://open.spotify.com/playlist/37i9dQZF1DX8oh7peUXg5S)
+### [Cantautoras](https://open.spotify.com/playlist/37i9dQZF1DX8oh7peUXg5S)
 
-> El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
+> El don de cantar y componer, una playlist llena de talento\. Foto: Sílvia Pérez Cruz.
 
-231 songs - 14 hr 50 min
+233 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Anoche Soñé Contigo](https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Logo](https://open.spotify.com/album/571r33emaklRI3YlPioelt) | 4:04 | 2022-06-09 |  |
 | [Antes De Verte \(with Kevin Johansen\)](https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v) | [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Cuando el Río Suena...](https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL) | 3:54 | 2022-06-09 |  |
 | [Aquellas Pequeñas Cosas](https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 1:50 | 2022-06-09 |  |
-| [Aunque tú no lo sepas](https://open.spotify.com/track/441XWdqnVR7daud8RbK2bg) | [Alba Rojas](https://open.spotify.com/artist/4xdBvo5jnfT71bRV8m30ZW) | [Aunque tú no lo sepas](https://open.spotify.com/album/3SaoEYIz0wkozITFrtSzDr) | 2:11 | 2022-06-30 |  |
+| [Aunque tú no lo sepas](https://open.spotify.com/track/441XWdqnVR7daud8RbK2bg) | [Alba Rojas](https://open.spotify.com/artist/4xdBvo5jnfT71bRV8m30ZW) | [Aunque tú no lo sepas](https://open.spotify.com/album/3SaoEYIz0wkozITFrtSzDr) | 2:11 | 2022-06-30 | 2023-04-21 |
 | [Aunque tú no lo sepas](https://open.spotify.com/track/4eexdcRvhWaRDDY2D3ka5P) | [Alba Rojas](https://open.spotify.com/artist/4xdBvo5jnfT71bRV8m30ZW) | [Aunque tú no lo sepas](https://open.spotify.com/album/0ZX3jNV0g9ERJM3BwAiMU1) | 2:11 | 2022-06-09 | 2022-07-16 |
 | [Aunque tú no lo sepas](https://open.spotify.com/track/2VybHZvsshGs8GpOaB0wS1) | [Enrique Urquijo y Los problemas](https://open.spotify.com/artist/43Q662o1VzhO3xwj97FWxT) | [Desde Que No Nos Vemos](https://open.spotify.com/album/1pQrDGSI9b3W3ur1XEYhVN) | 2:24 | 2022-06-09 |  |
 | [Aunque tú no lo sepas](https://open.spotify.com/track/2XXec5RwkNrjpBNfCjNhAv) | [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [Ajuste de cuentas](https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze) | 4:02 | 2022-08-11 |  |
@@ -73,11 +73,12 @@
 | [Deseos de cosas imposibles](https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Deseos de cosas imposibles](https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk) | 3:34 | 2022-06-09 | 2023-03-06 |
 | [Dice la gente](https://open.spotify.com/track/5nw6Uk1a2NkmTqfalBvMia) | [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [Dice la gente](https://open.spotify.com/album/2M5yZ4i9t80oONCUyGlp26) | 4:48 | 2022-06-30 | 2022-07-12 |
 | [Día De Luz \- 80 Aniversario](https://open.spotify.com/track/0SJcGKI0S0iqcFyCJw8XSm) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Día De Luz \(80 Aniversario\)](https://open.spotify.com/album/0JsYMVZiJ63aAw3MiyW8WK) | 4:11 | 2023-03-31 |  |
-| [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 | 2022-06-09 |  |
+| [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 | 2022-06-09 | 2023-04-21 |
 | [El Arriero](https://open.spotify.com/track/0DDk5QBU6Fsj4OtaDNHtfa) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [From Argentina To The World](https://open.spotify.com/album/6s6i8lmBcB27bjpzsNkksR) | 3:30 | 2022-09-08 | 2023-03-03 |
 | [El Baile](https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Vulnerables](https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl) | 3:30 | 2022-06-09 |  |
 | [El Breve Espacio en Que No Estas](https://open.spotify.com/track/0ZKHCt987c5ili0AegnZbb) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Querido Pablo](https://open.spotify.com/album/6TRGz0g8v91FdG5Re8y7yh) | 4:02 | 2022-06-09 |  |
 | [El Hombre del Piano](https://open.spotify.com/track/61ccRl3FBtLs3U5HuBtP6e) | [Ana Belén](https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t) | [26 Grandes Canciones Y Una Nube Blanca](https://open.spotify.com/album/45MhAsX9X7z5siVUxUjUk7) | 5:17 | 2022-06-09 |  |
+| [El Mar](https://open.spotify.com/track/6PHcN9K5GQE5BZEsHz7eze) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS) | [El Mar](https://open.spotify.com/album/1AM8igySA38ynWhzHNy38X) | 3:59 | 2023-04-20 |  |
 | [El Marido de la Peluquera \- En Directo](https://open.spotify.com/track/4C9wlbc9ttH9WH7QCtfb2J) | [Pedro Guerra](https://open.spotify.com/artist/2GrNjfw23jqL1NTopPlc6c) | [Golosinas](https://open.spotify.com/album/3tZBEjAniNH6OwIdTGbxtf) | 3:48 | 2022-06-09 | 2022-07-29 |
 | [El Meteco \(Le Métèque\)](https://open.spotify.com/track/5Wsk3PjvEpeyJADawCDHsJ) | [Marina Rossell](https://open.spotify.com/artist/4VtMHmnigTKtWyQR71len2) | [Canta Moustaki y Canciones de la Resistencia](https://open.spotify.com/album/7igLnNu1BTR55GnN49wfoW) | 3:25 | 2022-06-09 | 2022-07-29 |
 | [El novio de la muerte](https://open.spotify.com/track/1A1iR17dcSXzkhMZyYSOSn) | [javier álvarez](https://open.spotify.com/artist/7npPHFVavArmlInnza5R5n) | [Grandes Exitos](https://open.spotify.com/album/6XlZhZZ0tjPOTZhdyRDIul) | 4:00 | 2022-06-09 | 2022-07-28 |
@@ -138,6 +139,7 @@
 | [Mi Problema](https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 6:05 | 2022-06-09 |  |
 | [Mi Querida España](https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 2:39 | 2022-06-09 |  |
 | [Mi Querida España](https://open.spotify.com/track/5zaur8FlCQ5GGMtSJptmDr) | [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Mi Querida España](https://open.spotify.com/album/7ECRSE0sXmqHYUMqy9nEvS) | 2:37 | 2022-06-09 | 2022-07-26 |
+| [Mi última canción triste \- Mov.3: Mi Jardín](https://open.spotify.com/track/0dcPQzyzN3sEFxYDok6KrK) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Toda la vida, un día](https://open.spotify.com/album/1PcfqYmzT3TMYQclrZJU0J) | 4:35 | 2023-04-20 |  |
 | [Morna \(con Buika\)](https://open.spotify.com/track/09g1iDhRyOiK9q8yyTnw93) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El), [Buika](https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy) | [Morna \(con Buika\)](https://open.spotify.com/album/0joEMwV6uGHWctmL0BFtJ7) | 3:15 | 2022-06-09 | 2022-07-28 |
 | [Nada de Nada](https://open.spotify.com/track/33ztBCzJNrfd4mb1Wo1Bza) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Millon De Sueños \(Los Grandes Exitos\)](https://open.spotify.com/album/5tiaA0wQBryyelJzkHzRqi) | 2:58 | 2022-06-09 | 2022-07-27 |
 | [nana triste](https://open.spotify.com/track/7zH4rnKKGm5vACoSEXBEDe) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [nana triste](https://open.spotify.com/album/6piXewR2Si4LT96r9mUXl2) | 3:07 | 2022-06-30 | 2022-09-23 |

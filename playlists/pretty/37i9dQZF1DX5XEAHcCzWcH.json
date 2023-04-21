@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 23497,
+  "num_followers": 23536,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMDc1ZTc2ODk3Y2U5YjI1ODYwNzgwZTQwZWNkZTQyYjM2",
+  "snapshot_id": "MTY1MjQzODk0OCwwMDAwMDAwMGVmYzE3MzI3YTkyMWE0MDQ2MGMzMDUxMjhhNTFmNTky",
   "tracks": [
     {
       "added_at": "2022-05-13 10:49:08",
@@ -123,22 +123,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Presumed Innocent",
-        "url": "https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn"
-      },
-      "artists": [
-        {
-          "name": "Marcia Ball",
-          "url": "https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18"
-        }
-      ],
-      "duration_ms": 267466,
-      "name": "Louella",
-      "url": "https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Sweet Giant of the Blues",
         "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 366826,
       "name": "Bird in a Cage",
       "url": "https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Presumed Innocent",
+        "url": "https://open.spotify.com/album/6W1dqxSFVwT5eL7WlUQUtn"
+      },
+      "artists": [
+        {
+          "name": "Marcia Ball",
+          "url": "https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18"
+        }
+      ],
+      "duration_ms": 267466,
+      "name": "Louella",
+      "url": "https://open.spotify.com/track/6KM7FlnvLrETbLpoNCjxYE"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/6AWwvurjj21QEBbOucDWUQ"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "New York City Blues",
-      "url": "https://open.spotify.com/track/5dI7AFyk5idEj94ra4F5Y8"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Jumpin' With Joe",
         "url": "https://open.spotify.com/album/20iEYnDg4FqOWLfomgxWhM"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 175200,
       "name": "Roll 'Em Pete",
       "url": "https://open.spotify.com/track/4gqwSjQJBaqB1LYNyAfQsj"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/6AWwvurjj21QEBbOucDWUQ"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 240426,
+      "name": "New York City Blues",
+      "url": "https://open.spotify.com/track/5dI7AFyk5idEj94ra4F5Y8"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Joe Liggins & The Honeydrippers",
-        "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
-      },
-      "artists": [
-        {
-          "name": "Joe Liggins & The Honeydrippers",
-          "url": "https://open.spotify.com/artist/61zdmia3oH5vUieNIqI7iI"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Pink Champagne",
-      "url": "https://open.spotify.com/track/4NIC2PekIelrjo4DBbGhXG"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Living Chicago Blues, Vol. 4",
         "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 322426,
       "name": "Somebody To Shack",
       "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Joe Liggins & The Honeydrippers",
+        "url": "https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO"
+      },
+      "artists": [
+        {
+          "name": "Joe Liggins & The Honeydrippers",
+          "url": "https://open.spotify.com/artist/61zdmia3oH5vUieNIqI7iI"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Pink Champagne",
+      "url": "https://open.spotify.com/track/4NIC2PekIelrjo4DBbGhXG"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "Victor Wainwright and the Train",
+        "url": "https://open.spotify.com/album/1F2skCbg4JAAdWjWM2jr9p"
+      },
+      "artists": [
+        {
+          "name": "Victor Wainwright",
+          "url": "https://open.spotify.com/artist/5iXJjikLdfxrmqGkdyW5C9"
+        }
+      ],
+      "duration_ms": 215460,
+      "name": "Train",
+      "url": "https://open.spotify.com/track/7wKp4mA6hcs13duOudDQ6C"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "Blues Piano-Rama",
         "url": "https://open.spotify.com/album/1kVLClgeJAWwohZHPbqLGx"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 346786,
       "name": "The Blues Ain't Nothing",
       "url": "https://open.spotify.com/track/0kxvYuAulT8gtAJQMnM52H"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "Victor Wainwright and the Train",
-        "url": "https://open.spotify.com/album/1F2skCbg4JAAdWjWM2jr9p"
-      },
-      "artists": [
-        {
-          "name": "Victor Wainwright",
-          "url": "https://open.spotify.com/artist/5iXJjikLdfxrmqGkdyW5C9"
-        }
-      ],
-      "duration_ms": 215460,
-      "name": "Train",
-      "url": "https://open.spotify.com/track/7wKp4mA6hcs13duOudDQ6C"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "The Bach of Rock",
-        "url": "https://open.spotify.com/album/3XQzUwB49DzREHCMuFZz8s"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 344440,
-      "name": "Hey Now Baby",
-      "url": "https://open.spotify.com/track/3BDE7sDGBihu8EAIE21rto"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Living Chicago Blues, Vol. 4",
         "url": "https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 246266,
       "name": "If I Hadn't Been High",
       "url": "https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "The Bach of Rock",
+        "url": "https://open.spotify.com/album/3XQzUwB49DzREHCMuFZz8s"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 344440,
+      "name": "Hey Now Baby",
+      "url": "https://open.spotify.com/track/3BDE7sDGBihu8EAIE21rto"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "Best of Blues Vol. 6: Postwar Chicago Blues III (Collection Gerard Herzhaft - Remastered)",
-        "url": "https://open.spotify.com/album/3wIt6N0fd9c6ittIk8BpcZ"
-      },
-      "artists": [
-        {
-          "name": "Lazy Bill Lucas",
-          "url": "https://open.spotify.com/artist/4v9Nt1CRGlHHdDX1sIXuAq"
-        }
-      ],
-      "duration_ms": 166253,
-      "name": "My Baby's Gone",
-      "url": "https://open.spotify.com/track/1ORs7J8remmKEDvAMotH29"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
         "name": "Classic Piano Blues from Smithsonian Folkways",
         "url": "https://open.spotify.com/album/2v3tVwUhutMHIHeUd8lFaL"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 298600,
       "name": "Dices Blues",
       "url": "https://open.spotify.com/track/1SpInnSzoo1rAKv0BNQyrC"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
+        "name": "Best of Blues Vol. 6: Postwar Chicago Blues III (Collection Gerard Herzhaft - Remastered)",
+        "url": "https://open.spotify.com/album/3wIt6N0fd9c6ittIk8BpcZ"
+      },
+      "artists": [
+        {
+          "name": "Lazy Bill Lucas",
+          "url": "https://open.spotify.com/artist/4v9Nt1CRGlHHdDX1sIXuAq"
+        }
+      ],
+      "duration_ms": 166253,
+      "name": "My Baby's Gone",
+      "url": "https://open.spotify.com/track/1ORs7J8remmKEDvAMotH29"
     },
     {
       "added_at": "2022-05-13 10:49:08",

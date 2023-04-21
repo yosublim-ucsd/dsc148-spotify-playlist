@@ -1,12 +1,12 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: MAS",
-  "num_followers": 2775,
+  "num_followers": 2773,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTE2NDAwMCwwMDAwMDAwMDA5OGIyZDcxNmEzZWRhYjJhZmRhODc2MDg4ZGIzOTZj",
+  "snapshot_id": "MTY4MTE2NDAwMCwwMDAwMDAwMDI0MDI0OGJkMjRiMGEyMTA3ZTRhYWE4MThjNzAwYjNj",
   "tracks": [
     {
       "added_at": "2023-04-10 22:00:00",
@@ -555,34 +555,18 @@
     {
       "added_at": "2023-04-10 22:00:00",
       "album": {
-        "name": "Dziewczynka Tatusia",
-        "url": "https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B"
+        "name": "Straty",
+        "url": "https://open.spotify.com/album/3sxdd6lNRiAu3gUKktKcms"
       },
       "artists": [
         {
-          "name": "Sylvia Baudelaire",
-          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
         }
       ],
-      "duration_ms": 141340,
-      "name": "Barbie",
-      "url": "https://open.spotify.com/track/6qw0cxzRzqAw9EctLLSGkX"
-    },
-    {
-      "added_at": "2023-04-10 22:00:00",
-      "album": {
-        "name": "$WAG (lepi si\u0119 w ch*j)",
-        "url": "https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z"
-      },
-      "artists": [
-        {
-          "name": "susk",
-          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
-        }
-      ],
-      "duration_ms": 158787,
-      "name": "$WAG (lepi si\u0119 w ch*j)",
-      "url": "https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi"
+      "duration_ms": 244827,
+      "name": "Straty",
+      "url": "https://open.spotify.com/track/2zQ8tICZSaEpGe2twp2akq"
     },
     {
       "added_at": "2023-04-10 22:00:00",
@@ -607,6 +591,22 @@
     {
       "added_at": "2023-04-10 22:00:00",
       "album": {
+        "name": "$WAG (lepi si\u0119 w ch*j)",
+        "url": "https://open.spotify.com/album/2MV4hphFIybyLf6cGts90z"
+      },
+      "artists": [
+        {
+          "name": "susk",
+          "url": "https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc"
+        }
+      ],
+      "duration_ms": 158787,
+      "name": "$WAG (lepi si\u0119 w ch*j)",
+      "url": "https://open.spotify.com/track/5YfwxLj7jzNM38zLWse9Oi"
+    },
+    {
+      "added_at": "2023-04-10 22:00:00",
+      "album": {
         "name": "M\u0142odzi",
         "url": "https://open.spotify.com/album/3qB3nhievjivYCPPizraEG"
       },
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-04-10 22:00:00",
       "album": {
-        "name": "Spina",
-        "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
+        "name": "Dziewczynka Tatusia",
+        "url": "https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B"
       },
       "artists": [
         {
-          "name": "Lulu x Uaziuk",
-          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+          "name": "Sylvia Baudelaire",
+          "url": "https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF"
         }
       ],
-      "duration_ms": 213921,
-      "name": "Spina",
-      "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
+      "duration_ms": 141340,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/6qw0cxzRzqAw9EctLLSGkX"
     },
     {
       "added_at": "2023-04-10 22:00:00",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-04-10 22:00:00",
       "album": {
-        "name": "Straty",
-        "url": "https://open.spotify.com/album/3sxdd6lNRiAu3gUKktKcms"
+        "name": "Spina",
+        "url": "https://open.spotify.com/album/4tsyIKqr0ikFU4Az20FzSd"
       },
       "artists": [
         {
-          "name": "MAS",
-          "url": "https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH"
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
         }
       ],
-      "duration_ms": 244827,
-      "name": "Straty",
-      "url": "https://open.spotify.com/track/2zQ8tICZSaEpGe2twp2akq"
+      "duration_ms": 213921,
+      "name": "Spina",
+      "url": "https://open.spotify.com/track/7C0wMSnBrPRZbemrJnU0mX"
     },
     {
       "added_at": "2023-04-10 22:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-04-10 22:00:00",
       "album": {
-        "name": "Przypadki",
-        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
-      },
-      "artists": [
-        {
-          "name": "Zawadzki",
-          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
-        }
-      ],
-      "duration_ms": 190443,
-      "name": "Przypadki",
-      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
-    },
-    {
-      "added_at": "2023-04-10 22:00:00",
-      "album": {
         "name": "FOMO",
         "url": "https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2023-04-10 22:00:00",
       "album": {
-        "name": "Gus\u0142a (Human Rites)",
-        "url": "https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX"
+        "name": "Przypadki",
+        "url": "https://open.spotify.com/album/3zTSTlliW1LwlJTQHvBuCG"
       },
       "artists": [
         {
-          "name": "Avtomat",
-          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
+          "name": "Zawadzki",
+          "url": "https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt"
         }
       ],
-      "duration_ms": 305869,
-      "name": "Nieludzie (Ignorance Ha)",
-      "url": "https://open.spotify.com/track/0jS1ZL03A6dSpdhUz0T683"
+      "duration_ms": 190443,
+      "name": "Przypadki",
+      "url": "https://open.spotify.com/track/2fPkzFLaLi7ejMidEakhw2"
     },
     {
       "added_at": "2023-04-10 22:00:00",
@@ -843,6 +827,22 @@
       "duration_ms": 183178,
       "name": "Przed siebie",
       "url": "https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7"
+    },
+    {
+      "added_at": "2023-04-10 22:00:00",
+      "album": {
+        "name": "Gus\u0142a (Human Rites)",
+        "url": "https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX"
+      },
+      "artists": [
+        {
+          "name": "Avtomat",
+          "url": "https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj"
+        }
+      ],
+      "duration_ms": 305869,
+      "name": "Nieludzie (Ignorance Ha)",
+      "url": "https://open.spotify.com/track/0jS1ZL03A6dSpdhUz0T683"
     },
     {
       "added_at": "2023-04-10 22:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-04-10 22:00:00",
       "album": {
-        "name": "Dla nas dom",
-        "url": "https://open.spotify.com/album/6Rl3OmxvkuIQ4PBE9d5fNf"
-      },
-      "artists": [
-        {
-          "name": "thekayetan",
-          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
-        }
-      ],
-      "duration_ms": 250729,
-      "name": "R\u0119ce w udr\u0119ce",
-      "url": "https://open.spotify.com/track/4dEpsV9Rw64eVKe0ERUIsK"
-    },
-    {
-      "added_at": "2023-04-10 22:00:00",
-      "album": {
         "name": "Kimkolwiek chc\u0119",
         "url": "https://open.spotify.com/album/6QdVPvKhXhXRpPyxhLlJve"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 174637,
       "name": "Kimkolwiek chc\u0119",
       "url": "https://open.spotify.com/track/3mpogytAIg8ctUvq9hg91i"
+    },
+    {
+      "added_at": "2023-04-10 22:00:00",
+      "album": {
+        "name": "Dla nas dom",
+        "url": "https://open.spotify.com/album/6Rl3OmxvkuIQ4PBE9d5fNf"
+      },
+      "artists": [
+        {
+          "name": "thekayetan",
+          "url": "https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP"
+        }
+      ],
+      "duration_ms": 250729,
+      "name": "R\u0119ce w udr\u0119ce",
+      "url": "https://open.spotify.com/track/4dEpsV9Rw64eVKe0ERUIsK"
     },
     {
       "added_at": "2023-04-10 22:00:00",
@@ -983,26 +983,6 @@
     {
       "added_at": "2023-04-10 22:00:00",
       "album": {
-        "name": "Don't Collapse",
-        "url": "https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm"
-      },
-      "artists": [
-        {
-          "name": "Didi Lez",
-          "url": "https://open.spotify.com/artist/6e37ehXKRAloIRP7cW8w0v"
-        },
-        {
-          "name": "Julia Bossque",
-          "url": "https://open.spotify.com/artist/6mhPM4qRPEoFIz6AAZKj51"
-        }
-      ],
-      "duration_ms": 261818,
-      "name": "Don't Collapse",
-      "url": "https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP"
-    },
-    {
-      "added_at": "2023-04-10 22:00:00",
-      "album": {
         "name": "Polska",
         "url": "https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 186468,
       "name": "J\u0119zyk",
       "url": "https://open.spotify.com/track/5h5TrSLkar8aMAyVx07bi6"
+    },
+    {
+      "added_at": "2023-04-10 22:00:00",
+      "album": {
+        "name": "Don't Collapse",
+        "url": "https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm"
+      },
+      "artists": [
+        {
+          "name": "Didi Lez",
+          "url": "https://open.spotify.com/artist/6e37ehXKRAloIRP7cW8w0v"
+        },
+        {
+          "name": "Julia Bossque",
+          "url": "https://open.spotify.com/artist/6mhPM4qRPEoFIz6AAZKj51"
+        }
+      ],
+      "duration_ms": 261818,
+      "name": "Don't Collapse",
+      "url": "https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP"
     },
     {
       "added_at": "2023-04-10 22:00:00",

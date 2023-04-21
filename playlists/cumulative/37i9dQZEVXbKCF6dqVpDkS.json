@@ -13190,7 +13190,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 160166,
       "name": "Never Felt So Alone",
       "url": "https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo"
@@ -18704,6 +18704,24 @@
     {
       "album": {
         "name": "Verleden Tijd",
+        "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167244,
+      "name": "Verleden Tijd",
+      "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
+    },
+    {
+      "album": {
+        "name": "Verleden Tijd",
         "url": "https://open.spotify.com/album/4vWdcHbWWaj6j5VgHGCGJl"
       },
       "artists": [
@@ -18714,7 +18732,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 167244,
       "name": "Verleden Tijd",
       "url": "https://open.spotify.com/track/2XOZtdFQ62IQfDVQ8O4wWO"
@@ -20114,6 +20132,24 @@
       "duration_ms": 57649,
       "name": "Zie Ginds Komt De Stoomboot (feat. Sinterklaasliedjes)",
       "url": "https://open.spotify.com/track/3TKZ1WIvUj4A6wxhTRM7YF"
+    },
+    {
+      "album": {
+        "name": "ZiggZagg",
+        "url": "https://open.spotify.com/album/0ubDajCOt6N3FRP2ZXyWeG"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184227,
+      "name": "ZiggZagg",
+      "url": "https://open.spotify.com/track/0wdw86kxFxu0IGz2JxnbfN"
     },
     {
       "album": {

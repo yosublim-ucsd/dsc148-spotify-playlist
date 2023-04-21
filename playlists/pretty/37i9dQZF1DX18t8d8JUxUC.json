@@ -1,12 +1,12 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: selines",
-  "num_followers": 9753,
+  "num_followers": 9838,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDc0YTI1ZGY0OTRlM2U4ODVlMGVkMWJiMjUxMmVjYjgy",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDU0MTQ2YWJlZjllMDE0OWVmZDIyNTRkMTNlNzVmMTNl",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Sagitario",
+        "url": "https://open.spotify.com/album/53Q3hajYqzob6vYGPays8E"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 201861,
+      "name": "Sagitario",
+      "url": "https://open.spotify.com/track/0M8VrzJXhKpzuvXdVdfPlT"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Byebye Sayonara, Nunca Sabr\u00e1s Que Esto Fue para Ti",
         "url": "https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 236301,
       "name": "Te Lo Debo Contar",
       "url": "https://open.spotify.com/track/3qF89WKp5gQSabVlH1gpXj"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Iridiscente",
-        "url": "https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "Aguaceros",
-      "url": "https://open.spotify.com/track/69dAmQimqO0HFs9AQI0EDX"
     }
   ],
   "unique_name": "Latin Folk",

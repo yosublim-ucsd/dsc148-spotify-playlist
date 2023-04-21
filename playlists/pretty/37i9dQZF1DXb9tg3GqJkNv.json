@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Belly",
-  "num_followers": 2010,
+  "num_followers": 2061,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQzNjI3OCwwMDAwMDAwMDdmYmFhOTc5MTUzMmVhZWYzMWExNzZiMTRiMDQwMGY2",
+  "snapshot_id": "MTY4MTQzNjI3OCwwMDAwMDAwMDY1YWVlNTI0YmNjYjM0MmMwYmZjMGU2ZTQ4M2M5OTlm",
   "tracks": [
     {
       "added_at": "2023-04-14 01:37:58",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-04-14 01:37:58",
       "album": {
+        "name": "Come Outside",
+        "url": "https://open.spotify.com/album/2rjsJgXKKQRrLOrgmHHIby"
+      },
+      "artists": [
+        {
+          "name": "K Money",
+          "url": "https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6"
+        }
+      ],
+      "duration_ms": 198321,
+      "name": "Come Outside",
+      "url": "https://open.spotify.com/track/6N078G7btmtHvTLPPLL1wf"
+    },
+    {
+      "added_at": "2023-04-14 01:37:58",
+      "album": {
         "name": "Window Shopping (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/1ihYyrjsmkOCAYAMaHZv1J"
       },
@@ -723,18 +739,18 @@
     {
       "added_at": "2023-04-14 01:37:58",
       "album": {
-        "name": "Come Outside",
-        "url": "https://open.spotify.com/album/2rjsJgXKKQRrLOrgmHHIby"
+        "name": "Til The Morning",
+        "url": "https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC"
       },
       "artists": [
         {
-          "name": "K Money",
-          "url": "https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6"
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
         }
       ],
-      "duration_ms": 198321,
-      "name": "Come Outside",
-      "url": "https://open.spotify.com/track/6N078G7btmtHvTLPPLL1wf"
+      "duration_ms": 130560,
+      "name": "Til The Morning",
+      "url": "https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7"
     },
     {
       "added_at": "2023-04-14 01:37:58",
@@ -751,22 +767,6 @@
       "duration_ms": 168426,
       "name": "WOO!",
       "url": "https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U"
-    },
-    {
-      "added_at": "2023-04-14 01:37:58",
-      "album": {
-        "name": "Til The Morning",
-        "url": "https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC"
-      },
-      "artists": [
-        {
-          "name": "ARDN",
-          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
-        }
-      ],
-      "duration_ms": 130560,
-      "name": "Til The Morning",
-      "url": "https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7"
     },
     {
       "added_at": "2023-04-14 01:37:58",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-04-14 01:37:58",
       "album": {
-        "name": "Time & It's Order",
-        "url": "https://open.spotify.com/album/5k0XSTYg5WgESO7PolSjkV"
-      },
-      "artists": [
-        {
-          "name": "FRVRFRIDAY",
-          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
-        }
-      ],
-      "duration_ms": 135221,
-      "name": "Time & It's Order",
-      "url": "https://open.spotify.com/track/6SCl4VK0Dq3jFe7U8D9k7D"
-    },
-    {
-      "added_at": "2023-04-14 01:37:58",
-      "album": {
         "name": "While You on Road",
         "url": "https://open.spotify.com/album/3DfkG12XAd1TGx9F5wNMCC"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 229624,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/6uX0BTiAfFYBCm2zWBZbgd"
+    },
+    {
+      "added_at": "2023-04-14 01:37:58",
+      "album": {
+        "name": "Time & It's Order",
+        "url": "https://open.spotify.com/album/5k0XSTYg5WgESO7PolSjkV"
+      },
+      "artists": [
+        {
+          "name": "FRVRFRIDAY",
+          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
+        }
+      ],
+      "duration_ms": 135221,
+      "name": "Time & It's Order",
+      "url": "https://open.spotify.com/track/6SCl4VK0Dq3jFe7U8D9k7D"
     },
     {
       "added_at": "2023-04-14 01:37:58",

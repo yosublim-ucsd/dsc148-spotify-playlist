@@ -4,7 +4,7 @@
 
 > A mix of new songs and beloved classics from your favorite Contemporary Christian artists!
 
-301 songs - 18 hr 56 min
+302 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,8 +220,9 @@
 | [O Holy Night](https://open.spotify.com/track/0Z2tPnz4xjlqSzS2v4Ehlb) | [Land of Color](https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ) | [O Holy Night](https://open.spotify.com/album/18A6dWxk3ZavJbYdlO8Fgd) | 3:53 | 2021-12-24 | 2022-07-27 |
 | [O Holy Night](https://open.spotify.com/track/6nf8KmoyumSOyNOIBsKCgV) | [Paul Cardall](https://open.spotify.com/artist/7FQRbf8gbKw8KZQZAJWxH2), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Christmas](https://open.spotify.com/album/22wy6SWWn8Z060twQibq0L) | 7:07 | 2021-12-24 | 2022-07-26 |
 | [O Holy Night](https://open.spotify.com/track/2LqmbPc1ti3yGppE5Xy3Cq) | [Stephanie J\. Block](https://open.spotify.com/artist/4B6QaGBWXq8Y7tH7AMM3bN) | [O Holy Night](https://open.spotify.com/album/6prZ5iDuvCGMB465eNpout) | 5:58 | 2021-12-24 | 2022-07-26 |
+| [O Holy Night](https://open.spotify.com/track/77t2jkqojne0vc9YDnJ3NP) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lowborn](https://open.spotify.com/album/42fwK8CU4k8YMq2d0rVxOO) | 4:52 | 2022-12-11 |  |
 | [O Holy Night \(feat\. Jon McLaughlin\)](https://open.spotify.com/track/2iSlinPmYZ4yTSPfQHaWUt) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0), [Jon McLaughlin](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) | [Decade the Halls, Vol\. 1](https://open.spotify.com/album/7gEn3KzXsT2odUlIKtsGd2) | 4:13 | 2021-12-24 | 2022-07-27 |
-| [O Holy Night \(feat\. The Tenors\)](https://open.spotify.com/track/6nN0z2cPwFydCWPjtPaiLe) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [O Holy Night \(feat\. The Tenors\)](https://open.spotify.com/album/0p0zK4648YuGhRYWteoQ3l) | 4:19 | 2021-12-24 |  |
+| [O Holy Night \(feat\. The Tenors\)](https://open.spotify.com/track/6nN0z2cPwFydCWPjtPaiLe) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [O Holy Night \(feat\. The Tenors\)](https://open.spotify.com/album/0p0zK4648YuGhRYWteoQ3l) | 4:19 | 2021-12-24 | 2023-04-21 |
 | [O Holy Night \- Live](https://open.spotify.com/track/4mBR7vdP33yfR2w4y3pKHR) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Emmanuel: Christmas Songs Of Worship \(Live\)](https://open.spotify.com/album/1z06qfsfaXA1QFSQ4gIzDf) | 4:19 | 2021-12-24 | 2022-07-29 |
 | [O Holy Night \- Radio Version](https://open.spotify.com/track/3rWqSo85Y554bpc1XRmjmN) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16) | [O Holy Night \(Radio Version\)](https://open.spotify.com/album/4izT9J7YwgPndBfuA7j0dB) | 4:49 | 2021-12-24 | 2022-12-03 |
 | [O Little Town \(The Glory Of Christmas\)](https://open.spotify.com/track/3WWs6x4AK4prP8qqkcAmtP) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [O Little Town \(The Glory Of Christmas\)](https://open.spotify.com/album/6MwhhGgZ4Hjr6NXfDZOlFx) | 4:24 | 2021-12-24 | 2022-07-14 |

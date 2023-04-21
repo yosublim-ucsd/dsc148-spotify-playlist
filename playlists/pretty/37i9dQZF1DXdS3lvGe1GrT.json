@@ -1,44 +1,28 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Superviolet | Visual Artist: Bailey Elder",
-  "num_followers": 36075,
+  "num_followers": 36212,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTMxNDAxMSwwMDAwMDAwMGYwN2JmYzcwZjM1MzI5NjZhNThlMTQ0ZTQzNDNkMjBl",
+  "snapshot_id": "MTY4MTk1OTQ2NywwMDAwMDAwMGYwOTYzMjc0NDQ3ZDg5OGRjM2YzNjczZjUzNWQwY2Mw",
   "tracks": [
     {
-      "added_at": "2023-04-12 15:40:11",
+      "added_at": "2023-04-20 02:57:47",
       "album": {
-        "name": "Didn't Want to Have to Do It",
-        "url": "https://open.spotify.com/album/5vj1DEd1P5FD0BU4ZTaDbr"
+        "name": "Tiny Things",
+        "url": "https://open.spotify.com/album/7qEfd7XFXsGh5wNcjQuHxT"
       },
       "artists": [
         {
-          "name": "Lady Apple Tree",
-          "url": "https://open.spotify.com/artist/3AZOpYsQ1QPmgaVF2TCVrd"
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
         }
       ],
-      "duration_ms": 264362,
-      "name": "Didn't Want to Have to Do It",
-      "url": "https://open.spotify.com/track/6UdTSQDnAFyvnxMRXBFzlN"
-    },
-    {
-      "added_at": "2023-04-12 15:40:11",
-      "album": {
-        "name": "Favorite Kind of High",
-        "url": "https://open.spotify.com/album/0L7jKWeMm89p7p3jqmM0SN"
-      },
-      "artists": [
-        {
-          "name": "Sun Child",
-          "url": "https://open.spotify.com/artist/37INDqVvlodgiw1G55deqX"
-        }
-      ],
-      "duration_ms": 218325,
-      "name": "Favorite Kind of High",
-      "url": "https://open.spotify.com/track/556Fu8XOuzSrpZ8Pg6ERTW"
+      "duration_ms": 217687,
+      "name": "delay",
+      "url": "https://open.spotify.com/track/4smEceyd7k4ykSC5riSeFw"
     },
     {
       "added_at": "2023-04-12 15:40:11",
@@ -57,20 +41,68 @@
       "url": "https://open.spotify.com/track/4GGykL1fVMyX0d4qPCMaT4"
     },
     {
-      "added_at": "2023-04-12 15:40:11",
+      "added_at": "2023-04-20 02:57:47",
       "album": {
-        "name": "Days Go By",
-        "url": "https://open.spotify.com/album/4yRo9mkyjeLQ1vdQAtXIn2"
+        "name": "Familiar Face",
+        "url": "https://open.spotify.com/album/7A0h7lTs2LUIQ5FSoZqvyc"
       },
       "artists": [
         {
-          "name": "Jana Horn",
-          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+          "name": "Lutalo",
+          "url": "https://open.spotify.com/artist/0gSmzBSSMT1yJanwTK16Ln"
         }
       ],
-      "duration_ms": 194543,
-      "name": "Days Go By",
-      "url": "https://open.spotify.com/track/1DeYyjLYn23Mf2TB430UAN"
+      "duration_ms": 150531,
+      "name": "Familiar Face",
+      "url": "https://open.spotify.com/track/1tgv5EAivEwdfJiHvC6ZhZ"
+    },
+    {
+      "added_at": "2023-04-20 02:57:47",
+      "album": {
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/1kutmstIVd2137q5aiN9Al"
+      },
+      "artists": [
+        {
+          "name": "Jack Symes",
+          "url": "https://open.spotify.com/artist/3w86RIwTE80NR3m54obsgz"
+        }
+      ],
+      "duration_ms": 168890,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/1QdrHmhH2QfiyfqME61MTg"
+    },
+    {
+      "added_at": "2023-04-20 02:57:47",
+      "album": {
+        "name": "On Fire",
+        "url": "https://open.spotify.com/album/6rcMmXugsopvTEt4h1Ih9d"
+      },
+      "artists": [
+        {
+          "name": "Blake Ruby",
+          "url": "https://open.spotify.com/artist/6t2qGTjfjde2jbklcpoF3Z"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "On Fire",
+      "url": "https://open.spotify.com/track/35Y8IZv0K3lN22Vs4dHym2"
+    },
+    {
+      "added_at": "2023-04-12 15:40:11",
+      "album": {
+        "name": "Didn't Want to Have to Do It",
+        "url": "https://open.spotify.com/album/5vj1DEd1P5FD0BU4ZTaDbr"
+      },
+      "artists": [
+        {
+          "name": "Lady Apple Tree",
+          "url": "https://open.spotify.com/artist/3AZOpYsQ1QPmgaVF2TCVrd"
+        }
+      ],
+      "duration_ms": 264362,
+      "name": "Didn't Want to Have to Do It",
+      "url": "https://open.spotify.com/track/6UdTSQDnAFyvnxMRXBFzlN"
     },
     {
       "added_at": "2023-04-12 15:40:11",
@@ -91,6 +123,22 @@
     {
       "added_at": "2023-04-12 15:40:11",
       "album": {
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/4yRo9mkyjeLQ1vdQAtXIn2"
+      },
+      "artists": [
+        {
+          "name": "Jana Horn",
+          "url": "https://open.spotify.com/artist/1LrML89CKJhZjgji63Bvx1"
+        }
+      ],
+      "duration_ms": 194543,
+      "name": "Days Go By",
+      "url": "https://open.spotify.com/track/1DeYyjLYn23Mf2TB430UAN"
+    },
+    {
+      "added_at": "2023-04-12 15:40:11",
+      "album": {
         "name": "Jacob Slade",
         "url": "https://open.spotify.com/album/6SHtNkpygr9rKrR5ZnwS58"
       },
@@ -103,6 +151,118 @@
       "duration_ms": 183529,
       "name": "However You May",
       "url": "https://open.spotify.com/track/2krfD3TzLiV1WVNepAYJW9"
+    },
+    {
+      "added_at": "2023-04-20 02:57:47",
+      "album": {
+        "name": "Elsewhere",
+        "url": "https://open.spotify.com/album/66qlDjIdK3xlEWCD8LxNfE"
+      },
+      "artists": [
+        {
+          "name": "Hayden Pedigo",
+          "url": "https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ"
+        }
+      ],
+      "duration_ms": 328000,
+      "name": "Elsewhere",
+      "url": "https://open.spotify.com/track/4COm8ZWRV6EgPqQLNglZaS"
+    },
+    {
+      "added_at": "2023-04-20 02:57:47",
+      "album": {
+        "name": "Ol' Kentucky",
+        "url": "https://open.spotify.com/album/6jFtTvM9JxBL4VyET70xGe"
+      },
+      "artists": [
+        {
+          "name": "Aaron Raitiere",
+          "url": "https://open.spotify.com/artist/3Gbx4tL0G9U5j233fXABXw"
+        }
+      ],
+      "duration_ms": 177847,
+      "name": "Ol' Kentucky",
+      "url": "https://open.spotify.com/track/4mX39kfq08DC2l6GYk6rr7"
+    },
+    {
+      "added_at": "2023-04-20 02:57:47",
+      "album": {
+        "name": "American Band",
+        "url": "https://open.spotify.com/album/4mBrjs3kdxzgtWCfGQvD6g"
+      },
+      "artists": [
+        {
+          "name": "Slow Leaves",
+          "url": "https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8"
+        }
+      ],
+      "duration_ms": 224128,
+      "name": "American Band",
+      "url": "https://open.spotify.com/track/6Jko7ujfOIdrICLC3po34e"
+    },
+    {
+      "added_at": "2023-04-20 02:57:47",
+      "album": {
+        "name": "Never Mine To Lose",
+        "url": "https://open.spotify.com/album/2wUcSdKVC8k9y7Fh2WpStF"
+      },
+      "artists": [
+        {
+          "name": "Sarah Proctor",
+          "url": "https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl"
+        }
+      ],
+      "duration_ms": 269095,
+      "name": "Never Mine To Lose",
+      "url": "https://open.spotify.com/track/5BGpBL5DhIIEJtxQyDjaIS"
+    },
+    {
+      "added_at": "2023-04-12 15:40:11",
+      "album": {
+        "name": "Spider",
+        "url": "https://open.spotify.com/album/65w54D1vOCJrQC6cEcugiU"
+      },
+      "artists": [
+        {
+          "name": "Esther Rose",
+          "url": "https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs"
+        }
+      ],
+      "duration_ms": 230522,
+      "name": "Spider",
+      "url": "https://open.spotify.com/track/48bOPuopxKlUjzTVJeArTB"
+    },
+    {
+      "added_at": "2023-04-12 15:40:11",
+      "album": {
+        "name": "Favorite Kind of High",
+        "url": "https://open.spotify.com/album/0L7jKWeMm89p7p3jqmM0SN"
+      },
+      "artists": [
+        {
+          "name": "Sun Child",
+          "url": "https://open.spotify.com/artist/37INDqVvlodgiw1G55deqX"
+        }
+      ],
+      "duration_ms": 218325,
+      "name": "Favorite Kind of High",
+      "url": "https://open.spotify.com/track/556Fu8XOuzSrpZ8Pg6ERTW"
+    },
+    {
+      "added_at": "2023-04-20 02:57:47",
+      "album": {
+        "name": "Choose",
+        "url": "https://open.spotify.com/album/5uXVaWOm6gjQLj4KQL3Cyc"
+      },
+      "artists": [
+        {
+          "name": "Joseph & Maia",
+          "url": "https://open.spotify.com/artist/2dXGyySsUY7yYzCfMf6OSZ"
+        }
+      ],
+      "duration_ms": 170282,
+      "name": "Choose",
+      "url": "https://open.spotify.com/track/0ALBvFlwYodhGu6COmVspJ"
     },
     {
       "added_at": "2023-04-12 15:40:11",
@@ -123,18 +283,50 @@
     {
       "added_at": "2023-04-12 15:40:11",
       "album": {
-        "name": "Spider",
-        "url": "https://open.spotify.com/album/65w54D1vOCJrQC6cEcugiU"
+        "name": "Bindi in the Dirt",
+        "url": "https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm"
       },
       "artists": [
         {
-          "name": "Esther Rose",
-          "url": "https://open.spotify.com/artist/2oHUiSQkf9M1TELQvNJJPs"
+          "name": "Mikayla Pasterfield",
+          "url": "https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA"
         }
       ],
-      "duration_ms": 230522,
-      "name": "Spider",
-      "url": "https://open.spotify.com/track/48bOPuopxKlUjzTVJeArTB"
+      "duration_ms": 231573,
+      "name": "Bindi in the Dirt",
+      "url": "https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH"
+    },
+    {
+      "added_at": "2023-04-20 02:57:47",
+      "album": {
+        "name": "Dom Louis",
+        "url": "https://open.spotify.com/album/0gxSPjAI7bRL1qhMzQyQT6"
+      },
+      "artists": [
+        {
+          "name": "Dom Louis",
+          "url": "https://open.spotify.com/artist/13vGPMHjEc5xzTS1utb4Ph"
+        }
+      ],
+      "duration_ms": 175423,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/7MwtFy3hEW9ru5lF2vNHOL"
+    },
+    {
+      "added_at": "2023-04-20 02:57:47",
+      "album": {
+        "name": "World Burn",
+        "url": "https://open.spotify.com/album/6NowVZWXxm3LKvSjUxJXIX"
+      },
+      "artists": [
+        {
+          "name": "Amos the Kid",
+          "url": "https://open.spotify.com/artist/63LZAfaHUgHs3vW7lgqXr4"
+        }
+      ],
+      "duration_ms": 210976,
+      "name": "World Burn",
+      "url": "https://open.spotify.com/track/0te7qiBjtAE3NdIKy2Gmwy"
     },
     {
       "added_at": "2023-04-12 15:40:11",
@@ -167,22 +359,6 @@
       "duration_ms": 188124,
       "name": "flower bed",
       "url": "https://open.spotify.com/track/53SwRcMOGn4BsXledMvTzT"
-    },
-    {
-      "added_at": "2023-04-12 15:40:11",
-      "album": {
-        "name": "Bindi in the Dirt",
-        "url": "https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm"
-      },
-      "artists": [
-        {
-          "name": "Mikayla Pasterfield",
-          "url": "https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA"
-        }
-      ],
-      "duration_ms": 231573,
-      "name": "Bindi in the Dirt",
-      "url": "https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH"
     },
     {
       "added_at": "2023-04-12 15:40:11",
@@ -1459,182 +1635,6 @@
       "duration_ms": 245156,
       "name": "Yer Time'll Come",
       "url": "https://open.spotify.com/track/6R3q36NLBSLsrt0sdEraFQ"
-    },
-    {
-      "added_at": "2023-04-12 15:40:11",
-      "album": {
-        "name": "Slow It Down Cowboy",
-        "url": "https://open.spotify.com/album/2c0hi3ox1DBdF1u6OXGS6e"
-      },
-      "artists": [
-        {
-          "name": "Anna Bates",
-          "url": "https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx"
-        }
-      ],
-      "duration_ms": 221447,
-      "name": "Slow It Down Cowboy",
-      "url": "https://open.spotify.com/track/1cTgJD1tvxXTmxJm4OjHj1"
-    },
-    {
-      "added_at": "2023-04-12 15:40:11",
-      "album": {
-        "name": "She Still Sings",
-        "url": "https://open.spotify.com/album/4ieDJd01azRVp3PHbychPJ"
-      },
-      "artists": [
-        {
-          "name": "Lady Moon",
-          "url": "https://open.spotify.com/artist/4NMxUgqHqC9XlgSRGqqrqc"
-        }
-      ],
-      "duration_ms": 228832,
-      "name": "She Still Sings",
-      "url": "https://open.spotify.com/track/48osuvPh1naznY9iqrx9El"
-    },
-    {
-      "added_at": "2023-04-12 15:40:11",
-      "album": {
-        "name": "Nydia Gonzalez",
-        "url": "https://open.spotify.com/album/5KC0wppjb7Vz9PtvLtoZFP"
-      },
-      "artists": [
-        {
-          "name": "Nydia Gonzalez",
-          "url": "https://open.spotify.com/artist/3nH2RqalRI5Nf4WqQl51pI"
-        }
-      ],
-      "duration_ms": 149037,
-      "name": "Crossed Paths",
-      "url": "https://open.spotify.com/track/13e0ZH44yMl5zMiFwTGXUD"
-    },
-    {
-      "added_at": "2023-04-12 15:40:11",
-      "album": {
-        "name": "My Heart Can't Take A Hint",
-        "url": "https://open.spotify.com/album/3G3QtqfNLAvchgHrz4zXBu"
-      },
-      "artists": [
-        {
-          "name": "Swimmingly",
-          "url": "https://open.spotify.com/artist/5TwNdcFYWfZtvq3uUPKvTg"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "My Heart Can't Take A Hint",
-      "url": "https://open.spotify.com/track/7zi22N2Bi5wxc6dZgZTcnv"
-    },
-    {
-      "added_at": "2023-04-12 15:40:11",
-      "album": {
-        "name": "Your Own Adventure",
-        "url": "https://open.spotify.com/album/1QYFUpbZQXQ3eX5vVNpho5"
-      },
-      "artists": [
-        {
-          "name": "Hollow Hand",
-          "url": "https://open.spotify.com/artist/2sF6pXUAPODESAtYHliKTp"
-        }
-      ],
-      "duration_ms": 198188,
-      "name": "I\u2019m Going To Let You Break My Heart",
-      "url": "https://open.spotify.com/track/5zSmmQyDKH9kumCwKG6QDC"
-    },
-    {
-      "added_at": "2023-04-12 15:40:11",
-      "album": {
-        "name": "You and Me",
-        "url": "https://open.spotify.com/album/5Lz2AHmIfli0x9B9FATg6a"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cornfield",
-          "url": "https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ"
-        }
-      ],
-      "duration_ms": 194608,
-      "name": "You and Me",
-      "url": "https://open.spotify.com/track/5HlcRE58RugnXWoWxzJFu2"
-    },
-    {
-      "added_at": "2023-04-12 15:40:11",
-      "album": {
-        "name": "Ash",
-        "url": "https://open.spotify.com/album/6vTSHvtLHgE4lofqpbiTZy"
-      },
-      "artists": [
-        {
-          "name": "Annie Blackman",
-          "url": "https://open.spotify.com/artist/4SaxGqc1dzg74v8p8XcfOm"
-        }
-      ],
-      "duration_ms": 147546,
-      "name": "Ash",
-      "url": "https://open.spotify.com/track/19cSPtOkedXdO8LSJVgEBd"
-    },
-    {
-      "added_at": "2023-04-12 15:40:11",
-      "album": {
-        "name": "Colleen",
-        "url": "https://open.spotify.com/album/7E2W8E6zrSEmtKJcMWEyvX"
-      },
-      "artists": [
-        {
-          "name": "HORSEBATH",
-          "url": "https://open.spotify.com/artist/1ENPaKF21eJ1tPyOyS3NaD"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Colleen",
-      "url": "https://open.spotify.com/track/0fiCElDIjW9tZQ2z6RCMot"
-    },
-    {
-      "added_at": "2023-04-12 15:40:11",
-      "album": {
-        "name": "again & again",
-        "url": "https://open.spotify.com/album/297eLAsW7EGzCeRZvN1tNA"
-      },
-      "artists": [
-        {
-          "name": "lighthearted",
-          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
-        }
-      ],
-      "duration_ms": 184699,
-      "name": "again & again",
-      "url": "https://open.spotify.com/track/5ckEt2BhrFYAfqP7DVAINc"
-    },
-    {
-      "added_at": "2023-04-12 15:40:11",
-      "album": {
-        "name": "Is It Just Me?",
-        "url": "https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi"
-      },
-      "artists": [
-        {
-          "name": "Meg McRee",
-          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Mary Jane & Chardonnay",
-      "url": "https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi"
-    },
-    {
-      "added_at": "2023-04-12 15:40:11",
-      "album": {
-        "name": "Jesus Christ",
-        "url": "https://open.spotify.com/album/28QSE6vaNRA2ZkRK5luNhq"
-      },
-      "artists": [
-        {
-          "name": "Matilda Marigolds",
-          "url": "https://open.spotify.com/artist/1Bahs2JN67RjH6j5JMOytr"
-        }
-      ],
-      "duration_ms": 319375,
-      "name": "Jesus Christ",
-      "url": "https://open.spotify.com/track/1FHqLxctCO6J96ULx0lK2F"
     }
   ],
   "unique_name": "Fresh Finds Folk",

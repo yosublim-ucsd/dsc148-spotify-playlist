@@ -4056,7 +4056,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 270016,
       "name": "Jamie Rae",
       "url": "https://open.spotify.com/track/3GUYM3lATbcxCIvOYU4Oes"
@@ -9294,6 +9294,24 @@
       "duration_ms": 262229,
       "name": "Yemaya (Ile Ladde)",
       "url": "https://open.spotify.com/track/3oHbYtoQrQwjakUd4OfzYz"
+    },
+    {
+      "album": {
+        "name": "Yesterday Lied",
+        "url": "https://open.spotify.com/album/2sKmTNpYbLSauhNeyrYyy1"
+      },
+      "artists": [
+        {
+          "name": "JM Stevens",
+          "url": "https://open.spotify.com/artist/4LN1RIwD6YCy2ib7JSw0xf"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183080,
+      "name": "Yesterday Lied",
+      "url": "https://open.spotify.com/track/7GI8zkrEocXmA9taeIL7mH"
     },
     {
       "album": {

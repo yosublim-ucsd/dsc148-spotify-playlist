@@ -4153,6 +4153,32 @@
     },
     {
       "album": {
+        "name": "Come Away",
+        "url": "https://open.spotify.com/album/0oM3Tgtq9hZ6ZoiWzVlyt3"
+      },
+      "artists": [
+        {
+          "name": "Way Ched",
+          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176506,
+      "name": "Dial (Feat. Leellamarz, BIG Naughty)",
+      "url": "https://open.spotify.com/track/58ILKjE5DjYfGIHNQa5qij"
+    },
+    {
+      "album": {
         "name": "Pain Melody",
         "url": "https://open.spotify.com/album/2ptGsggWDr8uFfczVGVgBC"
       },
@@ -14852,6 +14878,28 @@
       "duration_ms": 254800,
       "name": "RIDERS (Feat. Chin, UNEDUCATED KID, Jay Park & Tiger JK)",
       "url": "https://open.spotify.com/track/0VVB1l4jFUpXwBCUDIBTvo"
+    },
+    {
+      "album": {
+        "name": "[ Rorschach ] Part 1",
+        "url": "https://open.spotify.com/album/4oJZ6lxEkCpw8ESH9NrCdZ"
+      },
+      "artists": [
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136706,
+      "name": "RINDAMAN (Feat. ZICO)",
+      "url": "https://open.spotify.com/track/5zoGBq6N98J1NnLeB2OPPy"
     },
     {
       "album": {

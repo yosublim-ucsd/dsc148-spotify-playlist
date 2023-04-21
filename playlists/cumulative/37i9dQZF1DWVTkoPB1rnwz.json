@@ -1453,6 +1453,32 @@
     },
     {
       "album": {
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/6cXeUFmFel7ilK4TWroDUH"
+      },
+      "artists": [
+        {
+          "name": "Jenny Owen Youngs",
+          "url": "https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H"
+        },
+        {
+          "name": "John Mark Nelson",
+          "url": "https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB"
+        },
+        {
+          "name": "Tancred",
+          "url": "https://open.spotify.com/artist/4rdoYKpVduYtHfKJgUnOkS"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186857,
+      "name": "dusk",
+      "url": "https://open.spotify.com/track/0dHuFXSJMfhnvcjyqEfgdd"
+    },
+    {
+      "album": {
         "name": "Field Works: Ultrasonic",
         "url": "https://open.spotify.com/album/5pJLTSGYfTkCnXdcz9Dfyt"
       },
@@ -1792,7 +1818,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 145588,
       "name": "floating",
       "url": "https://open.spotify.com/track/2d7z7wZhWV4mbbblWogbj4"

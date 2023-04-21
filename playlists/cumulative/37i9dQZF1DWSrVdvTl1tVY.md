@@ -2,9 +2,9 @@
 
 ### [UK House Music](https://open.spotify.com/playlist/37i9dQZF1DWSrVdvTl1tVY)
 
-> The biggest house bangers popping off in the UK, let's go! Cover: Romy
+> The biggest house bangers popping off in the UK, let's go! Cover: D.O.D
 
-492 songs - 1 day 5 hr 39 min
+494 songs - 1 day 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Badman Sound](https://open.spotify.com/track/7FcxEutyfHTCKlN2MltRAh) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Badman Sound](https://open.spotify.com/album/7lkg1Kbn6G00QskjBlEVsR) | 2:56 | 2023-01-20 | 2023-04-07 |
 | [Be My One](https://open.spotify.com/track/2KN5wY5R4gXbka8wB2kXh8) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Wide Awake \(Deluxe\)](https://open.spotify.com/album/1rlw3RxmnxQEx8g0uk1tG1) | 2:22 | 2022-04-15 | 2022-08-05 |
 | [Be The One](https://open.spotify.com/track/63MBVrJ8nADdP4AXbBGlOj) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Be The One](https://open.spotify.com/album/5XtT7YyAjN783nSW9ZtNBo) | 2:46 | 2023-01-27 |  |
+| [Beggin'](https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Beggin'](https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V) | 3:03 | 2023-04-20 |  |
 | [Believe](https://open.spotify.com/track/1Q67GzAimjd3OLMJJOTy9H) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Believe](https://open.spotify.com/album/501szlgNOu6d1wltnKyHKw) | 3:33 | 2022-07-20 | 2022-07-22 |
 | [Believe](https://open.spotify.com/track/40up5wCfwQXTDXyE18hJbJ) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Believe](https://open.spotify.com/album/3vUbTHFU39OGMaJ3VGD98N) | 6:48 | 2022-01-14 | 2022-04-23 |
 | [Believe In You](https://open.spotify.com/track/4jg1AyAqpMyNoSHNN6uw9P) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [Believe In You](https://open.spotify.com/album/2v0KpPRBm2rMYHMWIMeUJj) | 2:54 | 2021-12-17 | 2022-03-12 |
@@ -398,6 +399,7 @@
 | [So Do You](https://open.spotify.com/track/6rDMbb3VflzMQlV2lN9TyW) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [So Do You](https://open.spotify.com/album/7LF09IH8bgdqPIlseEOz9I) | 2:31 | 2022-03-04 | 2022-05-06 |
 | [So Far So Good](https://open.spotify.com/track/6NzM2e5qsOoCn4TG5XX2Mx) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [E11EVN](https://open.spotify.com/artist/6Xx4afrFly7ljWMyqVoZkj) | [So Far So Good](https://open.spotify.com/album/1SIcijucSaOA0qp7zDDhPB) | 3:06 | 2022-05-06 | 2022-07-30 |
 | [So Hot](https://open.spotify.com/track/2uLhfL4MvW6jTGEYt6NYPM) | [Daniel Orpi](https://open.spotify.com/artist/4gutgD9w8iSiLjvYYy72dO) | [So Hot EP](https://open.spotify.com/album/6000OjbTdVRwMFFKSDxwdV) | 3:32 | 2022-01-14 | 2022-04-29 |
+| [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 | 2023-04-20 |  |
 | [Somebody To Love](https://open.spotify.com/track/6hzWWZjqHcoI2KIWpldo9v) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL) | [Somebody To Love](https://open.spotify.com/album/6mWlw6oGjrIBh9ng0L9bim) | 2:39 | 2021-12-17 | 2022-01-28 |
 | [Somebody To Love](https://open.spotify.com/track/6VKpDRWz9HAUOEpElNvjSi) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Somebody To Love](https://open.spotify.com/album/69Jz6rL189yH01zQZzm7Y9) | 3:42 | 2022-03-04 | 2022-08-05 |
 | [Somebody To Love \- Gorgon City Remix](https://open.spotify.com/track/7hKFMrIPmTMku4tOi82e2z) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Somebody To Love \(Gorgon City Remix\)](https://open.spotify.com/album/5N5UjLorgG8OmxBb5UMLas) | 4:42 | 2022-01-28 | 2022-03-04 |

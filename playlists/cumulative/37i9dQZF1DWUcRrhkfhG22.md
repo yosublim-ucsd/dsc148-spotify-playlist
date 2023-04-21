@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes
 
-91 songs - 6 hr 49 min
+92 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Closer to You](https://open.spotify.com/track/174JRizws7VqM3oCF8zruo) | [Captain Supernova](https://open.spotify.com/artist/4BnBLvVYiuGjT6hNpZRzCH) | [The Voyage Never Ends...](https://open.spotify.com/album/2FzPLZyS7d7g6GneVKT4Kx) | 5:04 | 2020-09-18 |  |
 | [Closer to You](https://open.spotify.com/track/6QrSDXeYLtd67Qv05QekuL) | [Captain Supernova](https://open.spotify.com/artist/4BnBLvVYiuGjT6hNpZRzCH) | [The Voyage Never Ends...](https://open.spotify.com/album/04lEKdwK89i6kS8dhZZ54e) | 5:04 | 2020-09-18 | 2022-11-03 |
 | [Computer Funk](https://open.spotify.com/track/11D6lI4wkPYS4pgAwcVa5z) | [Osé](https://open.spotify.com/artist/1ogxAd9tjtTE5H6rtb4Pwj) | [Soul Jazz Records presents SPACE FUNK \- Afro\-Futurist Electro Funk in Space 1976\-84](https://open.spotify.com/album/5ThrbrIXfa7CbL34g1FH0f) | 6:32 | 2020-09-18 |  |
-| [Contagious](https://open.spotify.com/track/2TsASKFLtMb6M1D8W42pS3) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Contagious](https://open.spotify.com/album/4fbDHh7p8PDxoPMjlesQsA) | 3:53 | 2020-09-18 |  |
+| [Contagious](https://open.spotify.com/track/2TsASKFLtMb6M1D8W42pS3) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Contagious](https://open.spotify.com/album/4fbDHh7p8PDxoPMjlesQsA) | 3:53 | 2020-09-18 | 2023-04-21 |
+| [Contagious](https://open.spotify.com/track/5X4PAws5oW5K22G6Ic17AV) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [Panorama: Form](https://open.spotify.com/album/5JHsZYG9ai1cW6YEZ0Rh2v) | 3:53 | 2020-09-18 |  |
 | [Crazy](https://open.spotify.com/track/0kUxknsCizotSJvigXGz78) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream](https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS) | 5:18 | 2020-10-30 |  |
 | [Daft Funk \(feat\. Mr\. Talkbox\)](https://open.spotify.com/track/0tgGNtJNQfD6I6F1DuqEoc) | [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [Nathan East](https://open.spotify.com/album/0YvZVmKkFKuyYSPzMTLTwj) | 4:47 | 2020-09-18 |  |
 | [Dance And Get Your Funky On](https://open.spotify.com/track/7d5cRPlf0aAHgQvu9mOxbk) | [Woddyfunk](https://open.spotify.com/artist/4TfsQDVMAkODsfTys9hOUT) | [What's My Name?](https://open.spotify.com/album/4tkibNa3vdgTgE1Z0KXU8T) | 4:29 | 2020-09-18 |  |

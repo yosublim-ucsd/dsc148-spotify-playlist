@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:3SjPZFpbGUgmdGqpLIZ2lc">IMRSQD</a>
 
-310 songs - 19 hr 9 min
+311 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Not Afraid Of The Dark](https://open.spotify.com/track/7JnVYNEMeIryihBV8bADTz) | [Carrollton](https://open.spotify.com/artist/1i5HhzrkpHFFDpsUYdz2Fs) | [Carrollton](https://open.spotify.com/album/4oBlrxNq2gvN8OFwB05gYf) | 3:52 | 2020-12-18 | 2023-02-19 |
 | [Notice](https://open.spotify.com/track/4U4BCKxoVM1L3WcxJRjJ5t) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Notice](https://open.spotify.com/album/3vzg623fvEuthjjCpX1dFK) | 3:22 | 2023-02-19 |  |
 | [Oh, the Deep](https://open.spotify.com/track/0nWSEbzNG6GN6AaPcLMyFn) | [Asaph](https://open.spotify.com/artist/2t40riPUnb3uogM98mgx3f) | [Oh, the Deep](https://open.spotify.com/album/2wws5SPicpYsnvCPJTB1Ce) | 4:49 | 2020-12-18 | 2022-07-27 |
-| [OH, YOUR GOODNESS!](https://open.spotify.com/track/55ssIBAfttyZyIxbhROXRl) | [Sam&Steff](https://open.spotify.com/artist/5sxcOpP4RaZjYhaiwmPnWZ) | [OH, YOUR GOODNESS!](https://open.spotify.com/album/4ipfRLb4GhL2XahDcsWBKS) | 4:01 | 2023-04-07 |  |
+| [OH, YOUR GOODNESS!](https://open.spotify.com/track/55ssIBAfttyZyIxbhROXRl) | [Sam&Steff](https://open.spotify.com/artist/5sxcOpP4RaZjYhaiwmPnWZ) | [OH, YOUR GOODNESS!](https://open.spotify.com/album/4ipfRLb4GhL2XahDcsWBKS) | 4:01 | 2023-04-07 | 2023-04-21 |
 | [Only You Can Do It](https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [Only You Can Do It](https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1) | 2:20 | 2023-02-19 |  |
 | [Our Salvation is Bound Up Together](https://open.spotify.com/track/2aaBlsDmROA9D2BW7YdWRd) | [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38) | [Our Salvation is Bound Up Together](https://open.spotify.com/album/54KPD58pTk4raKt7RwXlNk) | 2:46 | 2023-02-19 |  |
 | [Over and Over](https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Over and Over](https://open.spotify.com/album/3EUqmYgGBbQQKawUQOzteX) | 3:35 | 2023-02-19 |  |
@@ -286,6 +286,7 @@
 | [Try \- Single Version](https://open.spotify.com/track/6wbqjtFuI74uvAVlDqw0vk) | [Josh Wright](https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2) | [Try](https://open.spotify.com/album/29b5ZgSObhw4CADCwR1cuX) | 3:12 | 2023-02-24 | 2023-04-09 |
 | [Ultimate Self](https://open.spotify.com/track/2DhdPfwL8RBRFekTrXM1Rj) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Ultimate Self](https://open.spotify.com/album/7GNJ7E8VAFTktjPHM5xFbd) | 3:45 | 2023-02-19 |  |
 | [WAIT ON HIM](https://open.spotify.com/track/5UZoXgEHViOuSu4tBIbuyf) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi), [JKO](https://open.spotify.com/artist/3XOHfOgFSMuvOxOfzNOuIQ) | [WAIT ON HIM](https://open.spotify.com/album/0Ppl2UlOrRYlbC1Q0eaDzY) | 1:48 | 2023-04-07 |  |
+| [WAIT ON HIM \- Funk Remix](https://open.spotify.com/track/5RJqdswyhkQRDxXuIqhOLC) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi), [JKO](https://open.spotify.com/artist/3XOHfOgFSMuvOxOfzNOuIQ) | [WAIT ON HIM \(Funk Remix\)](https://open.spotify.com/album/23hKNPQ1U4AoZ15wDmoc43) | 1:36 | 2023-04-07 |  |
 | [Wash Me Clean](https://open.spotify.com/track/7jnKoJHxdjjjQGqbkgyRPH) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Peace to All Who Enter Here](https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk) | 3:42 | 2020-12-18 | 2023-02-19 |
 | [Waters](https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8) | [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2) | [Waters](https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi) | 4:00 | 2020-12-18 | 2023-02-19 |
 | [Way Home](https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6) | [Grace Tena](https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT) | [Way Home](https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm) | 4:44 | 2023-02-19 |  |

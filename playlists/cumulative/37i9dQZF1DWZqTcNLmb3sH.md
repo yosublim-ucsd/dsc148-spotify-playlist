@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Kabzaa
 
-642 songs - 1 day 15 hr 52 min
+643 songs - 1 day 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,6 +338,7 @@
 | [Madhura Gatha Baa \(From "Shaakuntalam"\) \[Kannada\]](https://open.spotify.com/track/6es1IgWNjWi8imLWMVbCJw) | [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Madhura Gatha Baa \(From "Shaakuntalam"\) \[Kannada\] \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/6TrCpMIbTGhzpafuACtglp) | 5:29 | 2023-02-15 | 2023-03-25 |
 | [Magale Muddu Magale \(From "Savitri"\)](https://open.spotify.com/track/1ztbc43uWxxHLmhmQqspQH) | [Hridaya Shiva](https://open.spotify.com/artist/2XngmlAuc1ZpoMLCKU4Zjn), [Rajesh Krishnan](https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA) | [Magale Muddu Magale \(From "Savitri"\)](https://open.spotify.com/album/64oIKwBHzRKJFqPNej4wGl) | 5:05 | 2022-01-24 | 2022-02-16 |
 | [Maha Rakkasa](https://open.spotify.com/track/3dbyTXWN9o1hgLmg9N64Ff) | [Shashank Sheshagiri](https://open.spotify.com/artist/4VbeDQpfiX1x8FFDuxmrXy), [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Madhwesh Bharadwaj](https://open.spotify.com/artist/1H6i8xrN9PqWTo6u5EbaxH) | [Gowli](https://open.spotify.com/album/3bysfkv5RNMA9QW6BySSCw) | 4:11 | 2022-06-27 | 2022-08-25 |
+| [Mahimaalayavaa \(From "Shaakuntalam"\) \[Kannada\]](https://open.spotify.com/track/50UQctDiUySM007YaJDe4g) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Mahimaalayavaa \(From "Shaakuntalam"\) \[Kannada\] \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0x1BkZuYXeQdfHchbnUUkQ) | 1:38 | 2023-04-20 |  |
 | [Maja Maja](https://open.spotify.com/track/517avKaIe6b8lwyUtgyi8w) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Bond Ravi](https://open.spotify.com/album/0nBc61y7MwuI3c2hnOC3iz) | 3:57 | 2022-11-18 | 2022-11-29 |
 | [Male Haniye](https://open.spotify.com/track/0DQlRF4Z9MGqACDLtiTlot) | [Nihal Tauro](https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF), [Prithvi Bhat](https://open.spotify.com/artist/4NpvD2E2PGBnv56XQB3bqr) | [Shiva 143](https://open.spotify.com/album/4YrGH23sv7ChIwIBLi5BP2) | 3:25 | 2022-02-15 | 2022-07-06 |
 | [Male Modada \- From "Cocktail"](https://open.spotify.com/track/1uUJC3ps5NFrMhnPib2etl) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Siraj Mijar](https://open.spotify.com/artist/6rHFX6JOEQKuijSmHlRExb), [Lokesh](https://open.spotify.com/artist/1pt6sORY72y0gAnBQTCU67), [Hrudaya Shiva](https://open.spotify.com/artist/2BKQzpgC3HMsKf3A72yTGK) | [Male Modada \(From "Cocktail"\)](https://open.spotify.com/album/2KWA7z9vyGrHvgTkC4h1Zs) | 3:52 | 2022-11-07 |  |

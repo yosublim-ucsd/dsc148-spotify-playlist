@@ -4,7 +4,7 @@
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-467 songs - 1 day 14 hr 26 min
+468 songs - 1 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [God Of Miracles \- Live](https://open.spotify.com/track/2RwzuFDm2uqTaMMXXSZSw6) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 5:26 | 2021-04-04 |  |
 | [God So Loved \- Live](https://open.spotify.com/track/0f0BtT5yPDxiAwlO9JqJ6s) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Royalty: Live At The Ryman](https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef) | 7:07 | 2021-04-04 | 2023-04-09 |
 | [God Undefeatable \(feat\. Aaron Ivey\)](https://open.spotify.com/track/4VgrQg0p8rc2DGbEJFnft1) | [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x), [Aaron Ivey](https://open.spotify.com/artist/5BwhXNVZT5VMkZW3IPVVfF) | [Austin Stone Live](https://open.spotify.com/album/5Ng89tHiIx1rN1iMhIo8aF) | 4:56 | 2022-04-02 | 2022-04-13 |
+| [God You Are \(feat\. Josh Baldwin\)](https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [God You Are](https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j) | 4:25 | 2023-04-21 |  |
 | [God's Not Dead \(Like A Lion\)](https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [God's Not Dead](https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX) | 4:18 | 2022-04-02 |  |
 | [Good Good Father](https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The Ultimate Playlist](https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2) | 4:53 | 2021-04-04 |  |
 | [Good Grace \- Live](https://open.spotify.com/track/5oKjV2E0mt8SjAsuRGQKcV) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Another In The Fire \(Live\)](https://open.spotify.com/album/1StFSkLn6WcA8pORvC8KD8) | 5:53 | 2021-04-04 | 2022-07-29 |
@@ -214,7 +215,7 @@
 | [Hungry \(Falling On My Knees\)](https://open.spotify.com/track/0Dq9yBdFeKKjm0wIY9Rwsr) | [Kathryn Scott](https://open.spotify.com/artist/7HJ2qHT3pTpbEpLs7kGBCt) | [Satisfy \(Live\)](https://open.spotify.com/album/6nDeyEuf7K7BqKtEZlvHkN) | 5:02 | 2021-04-04 | 2022-07-24 |
 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/35Jws34tOFIMv1CTtnVUT9) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Discover Delirious?](https://open.spotify.com/album/3SLjgEhqc4lL5mcKbEme1O) | 6:06 | 2022-04-02 | 2022-04-25 |
 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1yowMNvS59dTccbZosir2o) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Cutting Edge 1 & 2](https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v) | 6:10 | 2022-04-17 |  |
-| [I Know That My Redeemer Lives](https://open.spotify.com/track/6mqfYOmG74s3Ao1N1fo1pB) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [I Know That My Redeemer Lives](https://open.spotify.com/album/59gbvANpXUgdR51ZqlNy9i) | 4:49 | 2023-04-02 |  |
+| [I Know That My Redeemer Lives](https://open.spotify.com/track/6mqfYOmG74s3Ao1N1fo1pB) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [I Know That My Redeemer Lives](https://open.spotify.com/album/59gbvANpXUgdR51ZqlNy9i) | 4:49 | 2023-04-02 | 2023-04-21 |
 | [I Love You Lord / Passion \- Acoustic](https://open.spotify.com/track/48LiTfePc5B8FfxzOqTqAC) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Youth Revival Acoustic](https://open.spotify.com/album/2SvGDeEas6TS4QA7UQUyzP) | 5:25 | 2021-04-04 | 2022-07-29 |
 | [I Surrender](https://open.spotify.com/track/13p3U002Sv8z722mFjTuWi) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Poets & Saints](https://open.spotify.com/album/4Ep9pR8RIXphUEEkgeELBK) | 4:13 | 2021-04-04 |  |
 | [I Surrender All](https://open.spotify.com/track/5teIIiCC0hAH44pD3FXJVO) | [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [Amazing Grace: Timeless Hymns of Faith](https://open.spotify.com/album/3JXwE9lyL9e9O6DnxaFFJf) | 4:36 | 2021-04-04 | 2022-07-28 |

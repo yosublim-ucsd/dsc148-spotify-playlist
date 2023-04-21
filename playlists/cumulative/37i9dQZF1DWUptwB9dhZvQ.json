@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 230000,
       "name": "Army of Slaves",
       "url": "https://open.spotify.com/track/5Jqob9lWkBm4W0xFek8bMv"
@@ -212,7 +212,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-06",
+      "date_removed": null,
       "duration_ms": 87607,
       "name": "Bad Eyes\u2026 Villain Theme",
       "url": "https://open.spotify.com/track/2yrMtqr4Sv8Oqv7wskQLVk"
@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 113000,
       "name": "Bakasuran Theme - From\"Bakasuran\"",
       "url": "https://open.spotify.com/track/6jejr1of1u1xn32zyMZeKA"
@@ -248,7 +248,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 150068,
       "name": "Barotta Master - Background Score",
       "url": "https://open.spotify.com/track/07ifNHZUt3BZTwXkdhjGwu"
@@ -436,7 +436,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-24",
+      "date_removed": null,
       "duration_ms": 143142,
       "name": "Con Man Theme (From \"Masss\")",
       "url": "https://open.spotify.com/track/3aTwmfaxQ6icUXmVCvPc8b"
@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 130363,
       "name": "Maaveeran Theme (From \"Maaveeran\")",
       "url": "https://open.spotify.com/track/1KnfuPUC6vmwhBeCilZ7IA"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 178000,
       "name": "Masked Warrior",
       "url": "https://open.spotify.com/track/5SISIYduHnFqlQz9lOAANQ"
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 128500,
       "name": "Michael Theme Song (Tamil)",
       "url": "https://open.spotify.com/track/3mQp0Zo0iSvfjXmaxXHOVp"
@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 119000,
       "name": "Muthu 2.0",
       "url": "https://open.spotify.com/track/4tuSWRyGXTfAaBB36PWJ9l"
@@ -1200,7 +1200,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 60439,
       "name": "Muthu In Love",
       "url": "https://open.spotify.com/track/3StXcqxenx47t0YHqQrYvK"
@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 94344,
       "name": "Run Baby Run Theme (From \"Run Baby Run\")",
       "url": "https://open.spotify.com/track/6BqFFXWO8pkogX2lI3u5c6"
@@ -1670,7 +1670,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 132604,
       "name": "Spooky Bogan - Theme",
       "url": "https://open.spotify.com/track/1237UvRI95TxJALF86RvMW"
@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 120496,
       "name": "Stand By Me",
       "url": "https://open.spotify.com/track/0s6Boq6VBwpDs0v9203uXQ"
@@ -1789,6 +1789,24 @@
     },
     {
       "album": {
+        "name": "Thangalaan (Exclusive Making Theme)",
+        "url": "https://open.spotify.com/album/08Gc2Y9PRNZtzf2dbW6Zb5"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106767,
+      "name": "Thangalaan (Exclusive Making Theme)",
+      "url": "https://open.spotify.com/track/3KUHtEaJVm1uUzL8KCiqwG"
+    },
+    {
+      "album": {
         "name": "96 (Original Background Score)",
         "url": "https://open.spotify.com/album/2wVkKhJFevirGdI4II2FM8"
       },
@@ -1818,7 +1836,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 124997,
       "name": "The Conquest of Time - Theme",
       "url": "https://open.spotify.com/track/28VwjI741mEmhZuGRHY5KU"
@@ -2232,7 +2250,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 79554,
       "name": "What's Cookin? - Background Score",
       "url": "https://open.spotify.com/track/3oWVw2H0cMJwsxLEKboZy4"

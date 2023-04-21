@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Agent
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,714 likes - 74 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,779 likes - 74 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 2 | [Kalallo \(From "Virupaksha"\)](https://open.spotify.com/track/4K21tbyME0wnR0jqGgLkyq) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Madhushree](https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo) | [Kalallo \(From "Virupaksha"\)](https://open.spotify.com/album/13x9vHOv9fKiM7vo9kGUp5) | 3:44 |
 | 3 | [Ayyayyo \(From "Mem Famous"\)](https://open.spotify.com/track/3dtfHypbH2717f8HlvY8DY) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Kalyan Nayak](https://open.spotify.com/artist/7tENuzTbvAI7BhqFbZI7Ul) | [Ayyayyo \(From "Mem Famous"\)](https://open.spotify.com/album/4HUS7r8KwX10VFNc9EIv3H) | 3:42 |
 | 4 | [Nachavule Nachavule \(From "Virupaksha"\)](https://open.spotify.com/track/1baeO9R7AdFjcb03pJYjay) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Nachavule Nachavule \(From "Virupaksha"\)](https://open.spotify.com/album/698JO1ewdhmDLUKr09hY3V) | 3:42 |
-| 5 | [Chamkeela Angeelesi](https://open.spotify.com/track/7oYOco3GphdxENmamXsqDh) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Dasara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/05CNNKerwG83acgQaXmzH3) | 3:23 |
+| 5 | [Chamkeela Angeelesi \(From "Dasara"\)](https://open.spotify.com/track/7Do3XWnRkEkyspwibizaBa) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Chamkeela Angeelesi \(From "Dasara"\) \- Single](https://open.spotify.com/album/35UNTC9xxXUCYSjwDbmBYb) | 3:23 |
 | 6 | [Kanula Chatu Meghama](https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Lipsika](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Phalana Abbayi Phalana Ammayi](https://open.spotify.com/album/3Vqgue7sXnuzKCjVyAVuIS) | 4:21 |
 | 7 | [Sogasuke Soku](https://open.spotify.com/track/7us2M7qEm5z0N8Pi4r9vCO) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ghantadi Krishna](https://open.spotify.com/artist/0pllOO8uQzMCl9IDGBxr8J) | [Risk \(Telugu\)](https://open.spotify.com/album/1x1YOnezfxRM5uq4E4LAp9) | 3:59 |
 | 8 | [Naa Ninnalaloo](https://open.spotify.com/track/1qZWMbGQ9F9Dvo6YLM9xv7) | [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP), [Satyan](https://open.spotify.com/artist/2aqF9xrw27sC5wAtvX9n2m) | [Richie Gadi Pelli](https://open.spotify.com/album/07zmBMXF0Tc0ZcKJ7Pjykp) | 3:35 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 73 | [O Tene Palukula \(From "Bimbisara"\)](https://open.spotify.com/track/1moaPNMvcmSEu9XmlXo3Vh) | [Satya Yamini](https://open.spotify.com/artist/1GcAgSs5t6sadg2O8efjEu), [Hymath Mohammed](https://open.spotify.com/artist/3J1GpjoKtKt2jMkQJAeiRV), [Varikuppala Yadagiri](https://open.spotify.com/artist/3cycJl75lhSFTnSYNaMbqN) | [O Tene Palukula \(From "Bimbisara"\) \- Single](https://open.spotify.com/album/2pDPWuV0UN03bx0zQK45Df) | 3:55 |
 | 74 | [Tholi Tholiga \(From "Janakiram"\)](https://open.spotify.com/track/0S6WMIucenxU1SvRTA73qi) | [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP), [Achu](https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY) | [Tholi Tholiga \(From "Janakiram"\) \- Single](https://open.spotify.com/album/0PxHjTPAkkn0qjhqBZ4W3T) | 4:59 |
 
-Snapshot ID: `MTY4MTczMzY4NywwMDAwMDAwMGU2Mjk4NzgyNGQ5MTEwYzllZmVmMzU2MGU2YTliYzQw`
+Snapshot ID: `MTY4MTczMzY4NywwMDAwMDAwMGY0MTI5OTkzOTNlZjhlM2VmOGQ3YmJjYzdjMDlmMDky`

@@ -1266,7 +1266,7 @@
       ],
       "date_added": "2021-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 198866,
       "name": "Lick the Bag",
       "url": "https://open.spotify.com/track/7ct0y8Itq93G2qrRJewVUp"
@@ -1810,6 +1810,24 @@
       "duration_ms": 261049,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/3g7VAnSddlg5ovDDvrZlyR"
+    },
+    {
+      "album": {
+        "name": "Boisad",
+        "url": "https://open.spotify.com/album/7JQ5JhmtlKabSCmHSFET3K"
+      },
+      "artists": [
+        {
+          "name": "Beach Goons",
+          "url": "https://open.spotify.com/artist/7Aw7RMHmISxyQBftcksDZ3"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209248,
+      "name": "Reservoir Dawgs",
+      "url": "https://open.spotify.com/track/2Yx0xNVsysG47yR19qvaKw"
     },
     {
       "album": {

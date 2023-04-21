@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Dessy",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: CHANKA",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -100,6 +100,28 @@
       "duration_ms": 190549,
       "name": "1973\u7684\u8ecc\u8de1 (feat. \u5f35\u8513\u59ff) - Remix",
       "url": "https://open.spotify.com/track/5moDU8oOdByOJhZfT0UjQ3"
+    },
+    {
+      "album": {
+        "name": "1973\u7684\u907a\u8de1",
+        "url": "https://open.spotify.com/album/0n8EXWlPfdWwjC9RxGAwgy"
+      },
+      "artists": [
+        {
+          "name": "Byejack",
+          "url": "https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n"
+        },
+        {
+          "name": "Trickie Bonnie",
+          "url": "https://open.spotify.com/artist/1nfAcziGyKgEOo0pIw4pVy"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217937,
+      "name": "1973\u7684\u907a\u8de1",
+      "url": "https://open.spotify.com/track/6VmZOgnW2EorJ3qD0hvpIO"
     },
     {
       "album": {
@@ -1750,6 +1772,32 @@
       "duration_ms": 189905,
       "name": "GET TO IT",
       "url": "https://open.spotify.com/track/4CJw0fbqYhDEl5aIGx7oU0"
+    },
+    {
+      "album": {
+        "name": "GET WILD (feat. AKIKO)",
+        "url": "https://open.spotify.com/album/2xPIIW6H5UcWKaplgKp0wT"
+      },
+      "artists": [
+        {
+          "name": "ANSONBEAN",
+          "url": "https://open.spotify.com/artist/1SwnEZ4IUZF2CEsWOM0E2L"
+        },
+        {
+          "name": "kayan9896",
+          "url": "https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt"
+        },
+        {
+          "name": "AKIKO",
+          "url": "https://open.spotify.com/artist/2Opwzcyz0gW62Gz9sbYTRZ"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171770,
+      "name": "GET WILD (feat. AKIKO)",
+      "url": "https://open.spotify.com/track/12NPhma0x5yqWaak5KDfly"
     },
     {
       "album": {
@@ -3433,6 +3481,24 @@
     },
     {
       "album": {
+        "name": "NOISY",
+        "url": "https://open.spotify.com/album/6cl9qpMSPUljRaiAicAQgm"
+      },
+      "artists": [
+        {
+          "name": "CHANKA",
+          "url": "https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205302,
+      "name": "NOISY",
+      "url": "https://open.spotify.com/track/6Rt1Bc95ecZQZPdOGtY7fK"
+    },
+    {
+      "album": {
         "name": "not alright",
         "url": "https://open.spotify.com/album/4UrsL2atzrnEEeVeSxlfRB"
       },
@@ -4001,6 +4067,24 @@
     },
     {
       "album": {
+        "name": "Pull My Hair",
+        "url": "https://open.spotify.com/album/4oILzeu5oXO9HeLSJ92Z0V"
+      },
+      "artists": [
+        {
+          "name": "Deb Fan",
+          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121159,
+      "name": "Pull My Hair",
+      "url": "https://open.spotify.com/track/37X6Jr8cHBOCD9tsuv25MA"
+    },
+    {
+      "album": {
         "name": "QUEST?ONS",
         "url": "https://open.spotify.com/album/3jN12LqDFLRF8EJn74RHKb"
       },
@@ -4554,6 +4638,24 @@
       "duration_ms": 153787,
       "name": "Stay",
       "url": "https://open.spotify.com/track/0kOBbEfT0pdghV2SvfkngL"
+    },
+    {
+      "album": {
+        "name": "Stick with You",
+        "url": "https://open.spotify.com/album/49xv1VRDu4J06GezkqFHr9"
+      },
+      "artists": [
+        {
+          "name": "Walter Kwan",
+          "url": "https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213589,
+      "name": "Stick with You",
+      "url": "https://open.spotify.com/track/2LrkvWO2443XxHjFDzq3Jz"
     },
     {
       "album": {
@@ -6947,6 +7049,24 @@
     },
     {
       "album": {
+        "name": "\u5149",
+        "url": "https://open.spotify.com/album/2MtSFBXfAvd1UlO6OVVkpP"
+      },
+      "artists": [
+        {
+          "name": "Triple G ",
+          "url": "https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "\u5c71",
+      "url": "https://open.spotify.com/track/2xzDKreyfbW10hylyz1elm"
+    },
+    {
+      "album": {
         "name": "\u5cb8",
         "url": "https://open.spotify.com/album/5Q7u6skbFXQSGgWdmJiAi7"
       },
@@ -7250,6 +7370,24 @@
       "duration_ms": 182004,
       "name": "\u6211\u548c\u963f\u59e8\u6709\u500b\u7d04\u6703 feat. \u9ece\u8389Chris Lai",
       "url": "https://open.spotify.com/track/4StKw8RzmJp0XnChWkUBSC"
+    },
+    {
+      "album": {
+        "name": "\u6211\u60f3 (Demo)",
+        "url": "https://open.spotify.com/album/428FM2z8PI5B4by19YTnF0"
+      },
+      "artists": [
+        {
+          "name": "Winter Bagels",
+          "url": "https://open.spotify.com/artist/5greJ5P16QGOFlMTnDH8F0"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325833,
+      "name": "\u6211\u60f3 - Demo",
+      "url": "https://open.spotify.com/track/30vkBvXDoRoLWxedYA5D97"
     },
     {
       "album": {
@@ -8244,6 +8382,24 @@
       "duration_ms": 165454,
       "name": "\u79d8\u5bc6\u90fd\u5e02",
       "url": "https://open.spotify.com/track/4OqPGzcwULn95cEN93OGQq"
+    },
+    {
+      "album": {
+        "name": "\u7a7f\u68ad",
+        "url": "https://open.spotify.com/album/6jT2iDwVI7lfuobzWAjfdb"
+      },
+      "artists": [
+        {
+          "name": "\u98a8\u6b63",
+          "url": "https://open.spotify.com/artist/4bJ89gRIHM14T4ZIzaBoEp"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178120,
+      "name": "\u7a7f\u68ad",
+      "url": "https://open.spotify.com/track/1kNOQ3199cr2d8Y268IIBP"
     },
     {
       "album": {

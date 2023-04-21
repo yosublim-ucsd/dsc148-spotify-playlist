@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Johnny Dailey, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,899 likes - 106 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,931 likes - 106 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

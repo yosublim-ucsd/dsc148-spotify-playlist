@@ -1,12 +1,12 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 23467,
+  "num_followers": 23509,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQwMjE4MSwwMDAwMDAwMDRhNmM3MmNkMjZkMWZhYTQyMjNlNDYwNGI2NGU0Y2U1",
+  "snapshot_id": "MTY4MTQwMjE4MSwwMDAwMDAwMDZlNzNkYmY2ZWE5YzdmZWI2YzI5ODIwZTRjYmE1ZWUw",
   "tracks": [
     {
       "added_at": "2023-03-30 22:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Take It or Leave It",
-        "url": "https://open.spotify.com/album/2RHjDtMCXgIFnh1KyoWYpR"
-      },
-      "artists": [
-        {
-          "name": "Teacup Monster",
-          "url": "https://open.spotify.com/artist/4Fqq8tVhE1sYO3MxyZL7sW"
-        }
-      ],
-      "duration_ms": 238947,
-      "name": "Take It",
-      "url": "https://open.spotify.com/track/2gUDcRODF4dwwC6vi90ypV"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Semi Finalists",
         "url": "https://open.spotify.com/album/16LfAB0rsKN5dbcYEGLhTb"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 218288,
       "name": "Undone",
       "url": "https://open.spotify.com/track/5VW0SagBIrGCmwlL1j51c6"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Take It or Leave It",
+        "url": "https://open.spotify.com/album/2RHjDtMCXgIFnh1KyoWYpR"
+      },
+      "artists": [
+        {
+          "name": "Teacup Monster",
+          "url": "https://open.spotify.com/artist/4Fqq8tVhE1sYO3MxyZL7sW"
+        }
+      ],
+      "duration_ms": 238947,
+      "name": "Take It",
+      "url": "https://open.spotify.com/track/2gUDcRODF4dwwC6vi90ypV"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
+        "name": "What?",
+        "url": "https://open.spotify.com/album/7Fz8X0lwUiiykWBsYooK0S"
+      },
+      "artists": [
+        {
+          "name": "Big Mountain County",
+          "url": "https://open.spotify.com/artist/4DzWstaAmf3JWxAWt3THQm"
+        }
+      ],
+      "duration_ms": 193481,
+      "name": "What?",
+      "url": "https://open.spotify.com/track/2nrolTBT7lRPdaFnfWxaKr"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
         "name": "Songs / Revolving",
         "url": "https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O"
       },
@@ -633,20 +649,20 @@
       "url": "https://open.spotify.com/track/3F0NHuzzFsv1JVQjvTibj1"
     },
     {
-      "added_at": "2023-03-30 22:00:00",
+      "added_at": "2023-04-21 01:20:41",
       "album": {
-        "name": "Kids Are Lo-Fi",
-        "url": "https://open.spotify.com/album/53IId7k0xkfOCTwsCF8lJY"
+        "name": "A Hooded Witness",
+        "url": "https://open.spotify.com/album/6tqv1rfiDlcXARBcoCyDTz"
       },
       "artists": [
         {
-          "name": "We Hate You Please Die",
-          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
+          "name": "Cemented Minds",
+          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
         }
       ],
-      "duration_ms": 162597,
-      "name": "Melancholic Rain",
-      "url": "https://open.spotify.com/track/25A9I9SrAJ4uPeGO7lsN34"
+      "duration_ms": 173226,
+      "name": "Flowers for Handcuffs",
+      "url": "https://open.spotify.com/track/2BaRigwJhkVeIMVkbcnUYT"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -663,6 +679,22 @@
       "duration_ms": 210153,
       "name": "Ashamed",
       "url": "https://open.spotify.com/track/0h0qjnCRWqkfdml8a6BSgp"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Kids Are Lo-Fi",
+        "url": "https://open.spotify.com/album/53IId7k0xkfOCTwsCF8lJY"
+      },
+      "artists": [
+        {
+          "name": "We Hate You Please Die",
+          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
+        }
+      ],
+      "duration_ms": 162597,
+      "name": "Melancholic Rain",
+      "url": "https://open.spotify.com/track/25A9I9SrAJ4uPeGO7lsN34"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -689,22 +721,6 @@
       "url": "https://open.spotify.com/track/4GW71Fj6Br2rH6ev9T8f1k"
     },
     {
-      "added_at": "2023-04-20 01:37:40",
-      "album": {
-        "name": "A Hooded Witness",
-        "url": "https://open.spotify.com/album/6tqv1rfiDlcXARBcoCyDTz"
-      },
-      "artists": [
-        {
-          "name": "Cemented Minds",
-          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
-        }
-      ],
-      "duration_ms": 173226,
-      "name": "Flowers for Handcuffs",
-      "url": "https://open.spotify.com/track/2BaRigwJhkVeIMVkbcnUYT"
-    },
-    {
       "added_at": "2023-03-30 22:00:00",
       "album": {
         "name": "Reach",
@@ -723,18 +739,34 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "What?",
-        "url": "https://open.spotify.com/album/7Fz8X0lwUiiykWBsYooK0S"
+        "name": "Newspapers",
+        "url": "https://open.spotify.com/album/6f7SIfP6rVwLqEGQ3z1hBl"
       },
       "artists": [
         {
-          "name": "Big Mountain County",
-          "url": "https://open.spotify.com/artist/4DzWstaAmf3JWxAWt3THQm"
+          "name": "A VOID",
+          "url": "https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI"
         }
       ],
-      "duration_ms": 193481,
-      "name": "What?",
-      "url": "https://open.spotify.com/track/2nrolTBT7lRPdaFnfWxaKr"
+      "duration_ms": 188736,
+      "name": "Newspapers",
+      "url": "https://open.spotify.com/track/0T6LqY3Cgi6xleNezgWgUE"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Random Acts of Total Control",
+        "url": "https://open.spotify.com/album/3o9F7xpJIGc5uv3gzXtd8C"
+      },
+      "artists": [
+        {
+          "name": "Unschooling",
+          "url": "https://open.spotify.com/artist/4kIdiDjOJs6U8AAvBhecWs"
+        }
+      ],
+      "duration_ms": 232895,
+      "name": "NYE",
+      "url": "https://open.spotify.com/track/1u0Lca6WIqx964isUAYwMY"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -775,34 +807,18 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Newspapers",
-        "url": "https://open.spotify.com/album/6f7SIfP6rVwLqEGQ3z1hBl"
+        "name": "Colostrum",
+        "url": "https://open.spotify.com/album/5r7VN2AznYigt0eq0xOzqp"
       },
       "artists": [
         {
-          "name": "A VOID",
-          "url": "https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI"
+          "name": "Cemented Minds",
+          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
         }
       ],
-      "duration_ms": 188736,
-      "name": "Newspapers",
-      "url": "https://open.spotify.com/track/0T6LqY3Cgi6xleNezgWgUE"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Random Acts of Total Control",
-        "url": "https://open.spotify.com/album/3o9F7xpJIGc5uv3gzXtd8C"
-      },
-      "artists": [
-        {
-          "name": "Unschooling",
-          "url": "https://open.spotify.com/artist/4kIdiDjOJs6U8AAvBhecWs"
-        }
-      ],
-      "duration_ms": 232895,
-      "name": "NYE",
-      "url": "https://open.spotify.com/track/1u0Lca6WIqx964isUAYwMY"
+      "duration_ms": 226244,
+      "name": "Hair Shirt",
+      "url": "https://open.spotify.com/track/2zbg7DsgsFd7Dw9AoWoRfS"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -823,18 +839,18 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Colostrum",
-        "url": "https://open.spotify.com/album/5r7VN2AznYigt0eq0xOzqp"
+        "name": "Event Horizon",
+        "url": "https://open.spotify.com/album/0x0gdhe3A8aWCEMktBiQAY"
       },
       "artists": [
         {
-          "name": "Cemented Minds",
-          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
+          "name": "Howard",
+          "url": "https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm"
         }
       ],
-      "duration_ms": 226244,
-      "name": "Hair Shirt",
-      "url": "https://open.spotify.com/track/2zbg7DsgsFd7Dw9AoWoRfS"
+      "duration_ms": 180960,
+      "name": "Heedless",
+      "url": "https://open.spotify.com/track/5Gp3ki8Tvqoop5f1AuvsXr"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -851,22 +867,6 @@
       "duration_ms": 165720,
       "name": "Stay Close To Me",
       "url": "https://open.spotify.com/track/58pV7RsaDG3rj2K3US9vJb"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Event Horizon",
-        "url": "https://open.spotify.com/album/0x0gdhe3A8aWCEMktBiQAY"
-      },
-      "artists": [
-        {
-          "name": "Howard",
-          "url": "https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "Heedless",
-      "url": "https://open.spotify.com/track/5Gp3ki8Tvqoop5f1AuvsXr"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Garage Is Dead",
-        "url": "https://open.spotify.com/album/5aHRyWY4RRq04Bx1cLgbjH"
-      },
-      "artists": [
-        {
-          "name": "Clavicule",
-          "url": "https://open.spotify.com/artist/3MyvhIeNVItWCpXSwm6pLI"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "My time",
-      "url": "https://open.spotify.com/track/3jRvGaPzOAK9UVFLRjs9wG"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Little Armageddon",
         "url": "https://open.spotify.com/album/4aGp0loKrV89iJdJoksnYN"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 186160,
       "name": "Second To None",
       "url": "https://open.spotify.com/track/1MCIbFw68FQAqyaiV246ai"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Garage Is Dead",
+        "url": "https://open.spotify.com/album/5aHRyWY4RRq04Bx1cLgbjH"
+      },
+      "artists": [
+        {
+          "name": "Clavicule",
+          "url": "https://open.spotify.com/artist/3MyvhIeNVItWCpXSwm6pLI"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "My time",
+      "url": "https://open.spotify.com/track/3jRvGaPzOAK9UVFLRjs9wG"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Rise from the Ashes",
-        "url": "https://open.spotify.com/album/1esrQ31gmJpt7c1I4inyFn"
-      },
-      "artists": [
-        {
-          "name": "Headcharger",
-          "url": "https://open.spotify.com/artist/34M4LcAKFb4852Iigq7BNv"
-        }
-      ],
-      "duration_ms": 243519,
-      "name": "Death Sound",
-      "url": "https://open.spotify.com/track/3jcqQv97hJOLA9CaHyEMBZ"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Ineffable",
         "url": "https://open.spotify.com/album/5ffY3OhPNukgdhw6n13tXz"
       },
@@ -1091,22 +1075,6 @@
       "duration_ms": 254687,
       "name": "The Password",
       "url": "https://open.spotify.com/track/5lXrakjlZisavgHGQlBEGx"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Can't Wait to Be Fine",
-        "url": "https://open.spotify.com/album/2MSwOyJWgQm0gnb4ofdNzD"
-      },
-      "artists": [
-        {
-          "name": "We Hate You Please Die",
-          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
-        }
-      ],
-      "duration_ms": 358080,
-      "name": "Can't Wait to Be Fine",
-      "url": "https://open.spotify.com/track/3ceHHdlzB4tgJXCviVKTBc"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1127,6 +1095,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
+        "name": "Can't Wait to Be Fine",
+        "url": "https://open.spotify.com/album/2MSwOyJWgQm0gnb4ofdNzD"
+      },
+      "artists": [
+        {
+          "name": "We Hate You Please Die",
+          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
+        }
+      ],
+      "duration_ms": 358080,
+      "name": "Can't Wait to Be Fine",
+      "url": "https://open.spotify.com/track/3ceHHdlzB4tgJXCviVKTBc"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
         "name": "Hara",
         "url": "https://open.spotify.com/album/23RMgtP4v1gGTXnANwQCPU"
       },
@@ -1143,6 +1127,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
+        "name": "Rise from the Ashes",
+        "url": "https://open.spotify.com/album/1esrQ31gmJpt7c1I4inyFn"
+      },
+      "artists": [
+        {
+          "name": "Headcharger",
+          "url": "https://open.spotify.com/artist/34M4LcAKFb4852Iigq7BNv"
+        }
+      ],
+      "duration_ms": 243519,
+      "name": "Death Sound",
+      "url": "https://open.spotify.com/track/3jcqQv97hJOLA9CaHyEMBZ"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
         "name": "Nothing Belongs to Anything",
         "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 308125,
       "name": "Welcome Newcomers",
       "url": "https://open.spotify.com/track/0yPdYvRz6qTo0oI6CFJwDj"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Songs / Revolving",
-        "url": "https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O"
-      },
-      "artists": [
-        {
-          "name": "Stuffed Foxes",
-          "url": "https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06"
-        }
-      ],
-      "duration_ms": 340004,
-      "name": "Sabotage",
-      "url": "https://open.spotify.com/track/2J9DxWY728bKvd0Q95XWJk"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1203,6 +1187,22 @@
       "duration_ms": 221322,
       "name": "Echo Street",
       "url": "https://open.spotify.com/track/7yUuvqh6jUnCiZpk9QUf2x"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Songs / Revolving",
+        "url": "https://open.spotify.com/album/6krcKaWpYXqjZSt1Uk430O"
+      },
+      "artists": [
+        {
+          "name": "Stuffed Foxes",
+          "url": "https://open.spotify.com/artist/61NXk42F56GdSy01BwNB06"
+        }
+      ],
+      "duration_ms": 340004,
+      "name": "Sabotage",
+      "url": "https://open.spotify.com/track/2J9DxWY728bKvd0Q95XWJk"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
-        "name": "Head Above Water",
-        "url": "https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj"
-      },
-      "artists": [
-        {
-          "name": "Laura Cox",
-          "url": "https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75"
-        }
-      ],
-      "duration_ms": 236868,
-      "name": "One Big Mess",
-      "url": "https://open.spotify.com/track/75o3FmX9UgTjT3H05EOuzg"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
         "name": "Full Circle Back",
         "url": "https://open.spotify.com/album/1G4sh6vNpyep8N9Kc8i4Lu"
       },
@@ -1459,22 +1443,6 @@
       "duration_ms": 226506,
       "name": "Full Circle Back",
       "url": "https://open.spotify.com/track/5kVeebGBrpAum8u2RYt9xh"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Salvation Prayer",
-        "url": "https://open.spotify.com/album/2Ntf4ad4LSlcqNFa5ZHBGo"
-      },
-      "artists": [
-        {
-          "name": "You Said Strange",
-          "url": "https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2"
-        }
-      ],
-      "duration_ms": 294594,
-      "name": "Cold Crusader",
-      "url": "https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1495,6 +1463,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
+        "name": "Salvation Prayer",
+        "url": "https://open.spotify.com/album/2Ntf4ad4LSlcqNFa5ZHBGo"
+      },
+      "artists": [
+        {
+          "name": "You Said Strange",
+          "url": "https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2"
+        }
+      ],
+      "duration_ms": 294594,
+      "name": "Cold Crusader",
+      "url": "https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
         "name": "Shreds of Tales",
         "url": "https://open.spotify.com/album/2o7lvEpqFRNvXtfqLtyufl"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 211505,
       "name": "Others",
       "url": "https://open.spotify.com/track/109wpUkiX8IcWR8WTPV7cp"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
+        "name": "Head Above Water",
+        "url": "https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj"
+      },
+      "artists": [
+        {
+          "name": "Laura Cox",
+          "url": "https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75"
+        }
+      ],
+      "duration_ms": 236868,
+      "name": "One Big Mess",
+      "url": "https://open.spotify.com/track/75o3FmX9UgTjT3H05EOuzg"
     },
     {
       "added_at": "2023-03-30 22:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-03-30 22:00:00",
       "album": {
+        "name": "Songs from the Deepwater",
+        "url": "https://open.spotify.com/album/5c1WlgOeb83vuE1cVROyOd"
+      },
+      "artists": [
+        {
+          "name": "Stone From the Sky",
+          "url": "https://open.spotify.com/artist/1uJnxjKOkMlCa2iZOW3GzD"
+        }
+      ],
+      "duration_ms": 284098,
+      "name": "Le Squinfus",
+      "url": "https://open.spotify.com/track/39Rcz81y7E41a7WObG37kn"
+    },
+    {
+      "added_at": "2023-03-30 22:00:00",
+      "album": {
         "name": "Three Years Later",
         "url": "https://open.spotify.com/album/4u8IttkEAoD3FEQPZgKGQ7"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 178515,
       "name": "Three Years Later",
       "url": "https://open.spotify.com/track/5uLNjGZb5uJzRx3iTYr4Z2"
-    },
-    {
-      "added_at": "2023-03-30 22:00:00",
-      "album": {
-        "name": "Songs from the Deepwater",
-        "url": "https://open.spotify.com/album/5c1WlgOeb83vuE1cVROyOd"
-      },
-      "artists": [
-        {
-          "name": "Stone From the Sky",
-          "url": "https://open.spotify.com/artist/1uJnxjKOkMlCa2iZOW3GzD"
-        }
-      ],
-      "duration_ms": 284098,
-      "name": "Le Squinfus",
-      "url": "https://open.spotify.com/track/39Rcz81y7E41a7WObG37kn"
     },
     {
       "added_at": "2023-03-30 22:00:00",

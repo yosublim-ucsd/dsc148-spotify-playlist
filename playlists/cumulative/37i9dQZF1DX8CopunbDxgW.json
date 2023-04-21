@@ -3182,7 +3182,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 244285,
       "name": "Don\u2019t Get Too Close",
       "url": "https://open.spotify.com/track/6GYe9bY4looLlWjY1ffJ5Y"
@@ -14650,6 +14650,24 @@
       "duration_ms": 241889,
       "name": "WANT NEED LOVE",
       "url": "https://open.spotify.com/track/3FIb81xI76x7pGPbFbzZXu"
+    },
+    {
+      "album": {
+        "name": "WASTED ON ME",
+        "url": "https://open.spotify.com/album/5e08LQuzV5wcQlCcp9rs2g"
+      },
+      "artists": [
+        {
+          "name": "Angrybaby",
+          "url": "https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182479,
+      "name": "WASTED ON ME",
+      "url": "https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO"
     },
     {
       "album": {

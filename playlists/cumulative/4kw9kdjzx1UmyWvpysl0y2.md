@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-458 songs - 1 day 2 hr 48 min
+459 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [CASHMERE](https://open.spotify.com/track/5NJkNOXKEfThIuCNOjraGy) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8), [boler mani](https://open.spotify.com/artist/7uAzXw50IscCTZwLGTP2nc) | [CASHMERE](https://open.spotify.com/album/7n2XaVtj6fO1MFnKz5yh8V) | 2:59 | 2022-09-12 | 2022-11-11 |
 | [Catharsis X](https://open.spotify.com/track/7ktbuWqGUsNmAS9OoNwgWk) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Catharsis X](https://open.spotify.com/album/3ryV1s0kjVYKwRR4Is6Dqs) | 4:04 | 2022-02-03 | 2022-04-14 |
 | [Changing](https://open.spotify.com/track/1kQpog4exXjcld0wSfB8Yq) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM) | [Changing](https://open.spotify.com/album/3YQ1hVACVI6ZQmkLvDj0O9) | 3:59 | 2021-11-19 | 2022-02-05 |
+| [Charmer](https://open.spotify.com/track/0qlcVvGMXn1aRB9nGPlaYN) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [Charmer](https://open.spotify.com/album/24LzfYkJVldWDPJWfilfoM) | 3:36 | 2023-04-20 |  |
 | [Chasing Shadows](https://open.spotify.com/track/7nxBtfw37vfNSV95pC8uzt) | [Haen](https://open.spotify.com/artist/09XV7VUHzuQEzdkul75n6g), [Banaati](https://open.spotify.com/artist/3lwdREjAeG9zskfcoPYAz4), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Chasing Shadows](https://open.spotify.com/album/0D1uc3g7ceS0gZWjAkEjUe) | 4:20 | 2021-11-19 | 2022-02-12 |
 | [Chasing Stars](https://open.spotify.com/track/0a9J0dDKTOqNxBUYufLOzY) | [Skyler Madison](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Chasing Stars](https://open.spotify.com/album/1jUyU3oh4FJCmJtNaPJWJw) | 4:41 | 2021-11-29 | 2022-03-04 |
 | [Cheat Code](https://open.spotify.com/track/7JJnlfOlh7dmQhjRDkyG0x) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [REDLESS](https://open.spotify.com/artist/30j2u2oo0Q8v2pBjnb3ctJ) | [Cheat Code](https://open.spotify.com/album/41N4WEXPbcLCJ5rgOQc6FC) | 2:50 | 2022-06-30 | 2022-09-13 |
@@ -246,7 +247,7 @@
 | [Losing My Mind](https://open.spotify.com/track/0YYghi9h8fntXyNlOfbMJl) | [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc), [Julian Gray](https://open.spotify.com/artist/7zgYgOlFA5NRLumUDzKSVN), [Avrii Castle](https://open.spotify.com/artist/0UqWEQATGeW7cOGCg1bVO8) | [Losing My Mind](https://open.spotify.com/album/4ZCJtrMnf06BuEeFJT5E7l) | 2:48 | 2022-09-23 | 2022-11-29 |
 | [Lost & Found](https://open.spotify.com/track/5ids0N0UPvFHDYDtvDgVCl) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [R7CKY](https://open.spotify.com/artist/7nwTgB0QOv2yGprKxofyT8), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [Lost & Found](https://open.spotify.com/album/1Qpo82QvvoXCawctSQfNNJ) | 3:57 | 2022-02-21 | 2022-05-03 |
 | [Love For You](https://open.spotify.com/track/7ao8imeoghP0rWSOrIJalv) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Love For You](https://open.spotify.com/album/3ymyjHRaZNbk8c2Sa2u8sg) | 3:23 | 2022-01-14 | 2022-03-24 |
-| [Love Me](https://open.spotify.com/track/532GvRC2Nvv6sZlMtppByu) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Love Me](https://open.spotify.com/album/2n3BfSQ9ey2xQP4sr9DGfr) | 3:42 | 2023-02-03 |  |
+| [Love Me](https://open.spotify.com/track/532GvRC2Nvv6sZlMtppByu) | [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Love Me](https://open.spotify.com/album/2n3BfSQ9ey2xQP4sr9DGfr) | 3:42 | 2023-02-03 | 2023-04-21 |
 | [Love Runs Out](https://open.spotify.com/track/62Il6xcyOlZ3oB4qvQ33sj) | [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf), [Dror](https://open.spotify.com/artist/31BRzHwH9Ayqp5AbRDk9kO) | [Love Runs Out](https://open.spotify.com/album/03DTFehGzdj45KPNxxpGxg) | 4:02 | 2023-02-21 |  |
 | [Madara](https://open.spotify.com/track/5j5AySWYSMSsBD4nmz6z1D) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo), [Dr\. Ushūu](https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR) | [Madara](https://open.spotify.com/album/17JIU9E1un5GmXxEGBjjEl) | 3:51 | 2022-10-31 | 2023-01-24 |
 | [Madness](https://open.spotify.com/track/3zsPz5ElM9EZZALNNN5gBy) | [Saxsquatch](https://open.spotify.com/artist/0rsyQklwpBiAvkeXbnFB1t) | [Madness](https://open.spotify.com/album/7jyOHk3mdvqCpGWqsj7aPE) | 2:55 | 2022-03-11 | 2022-05-26 |

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ravieb/\">Ravie B</a>",
-  "num_followers": 9233,
+  "num_followers": 9285,
   "original_name": "Ravie B's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY1NjA4OCwwMDAwMDAwMDVjODU5MGU5OGI5ZTMxODNhMmRhNTI2OGMxZjJhMjMz",
+  "snapshot_id": "MTY2NDY1NjA4OCwwMDAwMDAwMDlmNzBjY2U4NGZhYjlhOWMyNTQ2MDkwYjk5OGUzMjZl",
   "tracks": [
     {
       "added_at": "2022-10-01 20:09:45",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 301133,
-      "name": "Me, Myself and I",
-      "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
         "name": "Shen Yeng Anthem",
         "url": "https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 141226,
       "name": "Shen Yeng Anthem",
       "url": "https://open.spotify.com/track/4lqqbSHGGR5BRtnmnky00G"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 301133,
+      "name": "Me, Myself and I",
+      "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
     },
     {
       "added_at": "2022-10-01 20:09:45",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-10-01 20:09:45",
       "album": {
-        "name": "Born to Do It",
-        "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 257200,
-      "name": "Fill Me In",
-      "url": "https://open.spotify.com/track/0UzsDmdpw0Q14KU4hieQss"
-    },
-    {
-      "added_at": "2022-10-01 20:09:45",
-      "album": {
         "name": "Actual Life 2 (February 2 - October 15 2021)",
         "url": "https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 196796,
       "name": "Hannah (the sun)",
       "url": "https://open.spotify.com/track/4AGwu2Zn3sYmR2s2y3vfft"
+    },
+    {
+      "added_at": "2022-10-01 20:09:45",
+      "album": {
+        "name": "Born to Do It",
+        "url": "https://open.spotify.com/album/5TedEgCbtmvDnXzUtXEFJY"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 257200,
+      "name": "Fill Me In",
+      "url": "https://open.spotify.com/track/0UzsDmdpw0Q14KU4hieQss"
     },
     {
       "added_at": "2022-10-01 20:09:45",

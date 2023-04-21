@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Strandz",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Nines",
   "name": "Rap UK",
   "tracks": [
     {
@@ -3184,7 +3184,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 110070,
       "name": "Beautiful Day (Thank You for Sunshine)",
       "url": "https://open.spotify.com/track/1wNlxeNoKgMK3pAuZCHDcJ"
@@ -3972,7 +3972,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 188940,
       "name": "Blame Brexit",
       "url": "https://open.spotify.com/track/6SvG9RqYVvdvj14vVH8d4F"
@@ -7132,7 +7132,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 191228,
       "name": "Dancer (feat. Noizy, Rondodasosa & Capo Plaza)",
       "url": "https://open.spotify.com/track/57ubCgw0giJhVSayXBJ0xH"
@@ -16948,7 +16948,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 270288,
       "name": "Mummy Says (Part 3)",
       "url": "https://open.spotify.com/track/5r4LiZ5MSkJvPsJcwvRG55"
@@ -22979,6 +22979,24 @@
     },
     {
       "album": {
+        "name": "Side By Side",
+        "url": "https://open.spotify.com/album/144lNBYb7M9UtqIxheOp6y"
+      },
+      "artists": [
+        {
+          "name": "Ashbeck",
+          "url": "https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137158,
+      "name": "Side By Side",
+      "url": "https://open.spotify.com/track/0RuOpp6b4Jcvpm0HK4Z8YT"
+    },
+    {
+      "album": {
         "name": "Simple",
         "url": "https://open.spotify.com/album/590Evn5v06Vl6n6eLKZDsH"
       },
@@ -24675,6 +24693,24 @@
     },
     {
       "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/4k7biM7tNMH8KHvkQRNWWq"
+      },
+      "artists": [
+        {
+          "name": "Morrisson",
+          "url": "https://open.spotify.com/artist/3bn93QEHOITZ4ARuiZdfRA"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238356,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/386GQN58ij82H7lJ847vof"
+    },
+    {
+      "album": {
         "name": "Murk With A Mouth",
         "url": "https://open.spotify.com/album/1JB6fnwSLrP8YJ10XWWQk6"
       },
@@ -25479,6 +25515,28 @@
     },
     {
       "album": {
+        "name": "The Jungle",
+        "url": "https://open.spotify.com/album/2Ao1lDSZ1N9JmkTaR9PuQF"
+      },
+      "artists": [
+        {
+          "name": "Bandokay",
+          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
+        },
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167026,
+      "name": "The Jungle",
+      "url": "https://open.spotify.com/track/6bpsyayAnCZoPTjGt9Ifhw"
+    },
+    {
+      "album": {
         "name": "The Old Estate",
         "url": "https://open.spotify.com/album/50mAIRRttXdfDv0wVo7H2N"
       },
@@ -26030,6 +26088,24 @@
       "duration_ms": 215173,
       "name": "Tonight (feat. D-Block Europe & OBOY)",
       "url": "https://open.spotify.com/track/6yxTnrfmP6IPqzmQNkSv3S"
+    },
+    {
+      "album": {
+        "name": "Tony Soprano 2",
+        "url": "https://open.spotify.com/album/5qStOG2kaV6pRmO5ThwuQ1"
+      },
+      "artists": [
+        {
+          "name": "Nines",
+          "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230243,
+      "name": "Tony Soprano 2",
+      "url": "https://open.spotify.com/track/5ynt5y5eAcCc1Kpl9u4MMt"
     },
     {
       "album": {

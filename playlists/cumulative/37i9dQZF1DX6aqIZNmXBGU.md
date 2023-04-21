@@ -4,7 +4,7 @@
 
 > Get pumped, feel the vibe and get ready for the swell coming in.
 
-138 songs - 7 hr 59 min
+139 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Let's Go Surfing](https://open.spotify.com/track/2TOoPCW05TjfwMqpVTThVZ) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Kitsuné Maison Compilation 8](https://open.spotify.com/album/16Kp9T6MHoSXKJYiSWnyFL) | 2:57 | 2021-04-09 | 2022-07-29 |
 | [Lets Go Surfing](https://open.spotify.com/track/6l6LgnyNHL3U6UgSx5Aiph) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/3pfNU5FIwyvTjtxxtQXK9l) | 2:55 | 2021-04-09 |  |
 | [Lick the Bag](https://open.spotify.com/track/07iJL5aTEPKh4YGrUIBOsb) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Common Sense](https://open.spotify.com/album/7m1Sb6fRqT30QdNr0tjdDP) | 3:18 | 2021-04-09 | 2022-10-13 |
-| [Lick the Bag](https://open.spotify.com/track/7ct0y8Itq93G2qrRJewVUp) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Common Sense](https://open.spotify.com/album/1kiiHeNfR8OZWcCeOPpRW3) | 3:18 | 2021-04-09 |  |
+| [Lick the Bag](https://open.spotify.com/track/7ct0y8Itq93G2qrRJewVUp) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Common Sense](https://open.spotify.com/album/1kiiHeNfR8OZWcCeOPpRW3) | 3:18 | 2021-04-09 | 2023-04-21 |
 | [Loose \- 2005 Remaster](https://open.spotify.com/track/4jYeoH1fAXq5yRcOKOs1Df) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Fun House \(Deluxe Edition\)](https://open.spotify.com/album/3FTcomSFg2zWSqWLRgBYpv) | 3:34 | 2021-04-09 | 2022-11-13 |
 | [Love Fuzz](https://open.spotify.com/track/7EkDukn0DSarGxnpQS5Ymq) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Love Fuzz](https://open.spotify.com/album/1PBA8BAkM4RRM80RCsvZjj) | 7:36 | 2021-04-09 | 2022-07-28 |
 | [Love Supreme \(Work Together!\)](https://open.spotify.com/track/3hdWuSgCuJKxBCrm0GSxVE) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [Stardust Birthday Party](https://open.spotify.com/album/37BmBj2brWfP9HezMAebdH) | 3:11 | 2021-04-09 | 2022-07-29 |
@@ -108,6 +108,7 @@
 | [Pennyroyal Tea](https://open.spotify.com/track/3z53rfQOg6Eb5pBCRsd7Uu) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:38 | 2021-04-09 |  |
 | [Remember Me](https://open.spotify.com/track/48HSUrDZQPVeWuVckLb902) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Sundown Syndrome / Remember Me](https://open.spotify.com/album/58rVVNfX3nGIMcaC1Zf2qe) | 4:21 | 2021-04-09 |  |
 | [Remember Me](https://open.spotify.com/track/3g7VAnSddlg5ovDDvrZlyR) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker \(Collector's Edition\)](https://open.spotify.com/album/19KL6IwPJMECn2wosxguq7) | 4:21 | 2021-04-09 | 2022-07-29 |
+| [Reservoir Dawgs](https://open.spotify.com/track/2Yx0xNVsysG47yR19qvaKw) | [Beach Goons](https://open.spotify.com/artist/7Aw7RMHmISxyQBftcksDZ3) | [Boisad](https://open.spotify.com/album/7JQ5JhmtlKabSCmHSFET3K) | 3:29 | 2021-04-09 |  |
 | [Reservoir Dawgs](https://open.spotify.com/track/5QiqeGYwJDzZh2qCmXbooc) | [Beach Goons](https://open.spotify.com/artist/7Aw7RMHmISxyQBftcksDZ3) | [Boisad](https://open.spotify.com/album/1AW9OdUZ9PK4x1VH5Tg300) | 3:29 | 2021-04-09 | 2023-04-07 |
 | [Reservoir Dawgs](https://open.spotify.com/track/5PcajS32GzEYgnBKRX0d9p) | [Beach Goons](https://open.spotify.com/artist/7Aw7RMHmISxyQBftcksDZ3) | [BoiSad](https://open.spotify.com/album/3QZ3YT5ULnVuDYqVmbdpKm) | 3:31 | 2021-04-09 | 2022-06-22 |
 | [Ride A White Swan](https://open.spotify.com/track/4JzqDlNhjxxZ3oQcfXhS6q) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Get It On: The Collection](https://open.spotify.com/album/6EtPzgRUvsv5L0kL0dn4kx) | 2:11 | 2021-04-09 |  |

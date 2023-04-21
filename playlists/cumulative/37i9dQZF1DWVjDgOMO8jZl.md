@@ -2,9 +2,9 @@
 
 ### [RADAR Italia](https://open.spotify.com/playlist/37i9dQZF1DWVjDgOMO8jZl)
 
-> Scopri la nostra selezione di 6 artisti emergenti da tenere d'occhio quest'anno! Cover: Camilla Magli
+> Scopri la nostra selezione di 6 artisti emergenti da tenere d'occhio quest'anno! Cover: Asteria
 
-111 songs - 5 hr 24 min
+112 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Poker](https://open.spotify.com/track/6wHgwzvhFNFT01ecGXNGrI) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [Next Big Thing](https://open.spotify.com/album/0TeCxhwt1zggy58jurdvMA) | 2:41 | 2022-08-31 | 2023-04-12 |
 | [Ponza](https://open.spotify.com/track/5HfObWIsEfQ2PW5Kn57IId) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Ponza](https://open.spotify.com/album/3eeyeSBJ0KSAmhgf91dWhO) | 2:45 | 2022-08-31 | 2023-04-12 |
 | [Pressione bassa](https://open.spotify.com/track/3pxIA51RPAMQnsbuArdp1G) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Pressione bassa](https://open.spotify.com/album/7IymFkEORToOb49LSg5495) | 2:48 | 2023-04-11 |  |
+| [PROFUMO](https://open.spotify.com/track/0Gi4BJG02Hj6x1csoni8fz) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [PROFUMO](https://open.spotify.com/album/1lD5U7HWtabfmkSxx7vH6X) | 3:23 | 2023-04-20 |  |
 | [Quanto Ti Amo](https://open.spotify.com/track/1NhWxGIXtR2rEfxSvc5hXb) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Quanto Ti Amo](https://open.spotify.com/album/5Z8aea17ANp1pI8q89O7fL) | 3:09 | 2022-08-31 | 2023-04-12 |
 | [QUELLE PAROLE](https://open.spotify.com/track/44FeZREhPwoT8lYNImkVV6) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE 2.0](https://open.spotify.com/album/3V5mL95C6ca2X7UoQAwGpo) | 2:38 | 2022-08-31 | 2023-04-12 |
 | [Ricordi \(feat\. Ernia\)](https://open.spotify.com/track/7n8AUlwA0Fu3ryGYDYnIxd) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Ricordi \(feat\. Ernia\)](https://open.spotify.com/album/1UIV43DxOINFzn0C3AYtNU) | 2:35 | 2023-03-08 | 2023-04-12 |

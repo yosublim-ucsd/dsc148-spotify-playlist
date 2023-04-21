@@ -1811,6 +1811,24 @@
     },
     {
       "album": {
+        "name": "All The King's Men",
+        "url": "https://open.spotify.com/album/1NaWBSQT5rmPfpkADlCDWa"
+      },
+      "artists": [
+        {
+          "name": "Heather Cole",
+          "url": "https://open.spotify.com/artist/3sdO9vIKiak6NMryq06LOq"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153846,
+      "name": "All The King's Men",
+      "url": "https://open.spotify.com/track/7BLKqhihCvwMsv58Mxae6q"
+    },
+    {
+      "album": {
         "name": "All The Stars",
         "url": "https://open.spotify.com/album/2rcIVxSB7WcYiHfufMPQuS"
       },
@@ -8462,6 +8480,28 @@
       "duration_ms": 228018,
       "name": "Cupid",
       "url": "https://open.spotify.com/track/1ZuBznCTE0R6lVa0CGtevV"
+    },
+    {
+      "album": {
+        "name": "Curiosity",
+        "url": "https://open.spotify.com/album/0LUvY3vRLsxpbY3XEdQKrA"
+      },
+      "artists": [
+        {
+          "name": "Anemoia",
+          "url": "https://open.spotify.com/artist/1BDIEp7ezAYfcchzXDQuUC"
+        },
+        {
+          "name": "Afrobeta",
+          "url": "https://open.spotify.com/artist/4UqLRnUdi1XnIP2vYpDLko"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273733,
+      "name": "Curiosity",
+      "url": "https://open.spotify.com/track/3N9Q7XaQyXEtuNZxRI0ZZ6"
     },
     {
       "album": {
@@ -16315,6 +16355,24 @@
     },
     {
       "album": {
+        "name": "Hydro",
+        "url": "https://open.spotify.com/album/2ueRkhFyepzvkM6GqDnJRx"
+      },
+      "artists": [
+        {
+          "name": "Sheebo",
+          "url": "https://open.spotify.com/artist/3F3Kezf9C0nqhCpcFlBdiR"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Holy X",
+      "url": "https://open.spotify.com/track/1PqpL3CkE4EMhbEQ0w51yt"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4kzA8IMvnrzpl6qwTVRkmT"
       },
@@ -19707,6 +19765,24 @@
     },
     {
       "album": {
+        "name": "Kite",
+        "url": "https://open.spotify.com/album/7aD3E4e1QgTl4i9L2Im8AU"
+      },
+      "artists": [
+        {
+          "name": "Conor James",
+          "url": "https://open.spotify.com/artist/43PMupxFa1VjUtszgeQFsi"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133506,
+      "name": "Kite",
+      "url": "https://open.spotify.com/track/0TGOkdgALvt4KhBjtxYrRo"
+    },
+    {
+      "album": {
         "name": "Kitty Cat",
         "url": "https://open.spotify.com/album/0SDCZcP7XUyio5IwepSn2e"
       },
@@ -21466,6 +21542,24 @@
       "duration_ms": 326466,
       "name": "Lose Yourself - From \"8 Mile\" Soundtrack",
       "url": "https://open.spotify.com/track/5Z01UMMf7V1o0MzF86s6WJ"
+    },
+    {
+      "album": {
+        "name": "Loser On The Ropes",
+        "url": "https://open.spotify.com/album/1I8RlShvUi759kYoy4yzn7"
+      },
+      "artists": [
+        {
+          "name": "Brian Dunne",
+          "url": "https://open.spotify.com/artist/3OAxV7SBURDucfRHHQlJ2V"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252533,
+      "name": "Loser On The Ropes",
+      "url": "https://open.spotify.com/track/3mZZjbqrrrwC6lsqnwXpxj"
     },
     {
       "album": {
@@ -28331,6 +28425,24 @@
     },
     {
       "album": {
+        "name": "Procrastinating",
+        "url": "https://open.spotify.com/album/7f1SovVhz80yTmo4aXSiFt"
+      },
+      "artists": [
+        {
+          "name": "Levi Mitchell",
+          "url": "https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198391,
+      "name": "Procrastinating",
+      "url": "https://open.spotify.com/track/4sIOvktWsUIKEIUALX0ItC"
+    },
+    {
+      "album": {
         "name": "Promise U",
         "url": "https://open.spotify.com/album/032zxZaKLzi1gJ1xVTYOP7"
       },
@@ -30231,6 +30343,24 @@
     },
     {
       "album": {
+        "name": "Sad Tunes",
+        "url": "https://open.spotify.com/album/2d3F96KKNjY1ZO0hGDTSmY"
+      },
+      "artists": [
+        {
+          "name": "Smerkk",
+          "url": "https://open.spotify.com/artist/6d9hqtlCCewPxi10V17ZL0"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181091,
+      "name": "Sad Tunes",
+      "url": "https://open.spotify.com/track/6HM7Xx9NvISFOB6ExfC1tA"
+    },
+    {
+      "album": {
         "name": "INNER G",
         "url": "https://open.spotify.com/album/4sVVYmZ16vL5Jrj6hdDRAp"
       },
@@ -31930,6 +32060,32 @@
       "duration_ms": 183362,
       "name": "Snakes and Fakes",
       "url": "https://open.spotify.com/track/3yRR7KYDW2Rsyeicv5LcPi"
+    },
+    {
+      "album": {
+        "name": "Snow Dusted Ponies",
+        "url": "https://open.spotify.com/album/0kmMERaQsMUjp7Xd9khdCw"
+      },
+      "artists": [
+        {
+          "name": "Your Heart Breaks",
+          "url": "https://open.spotify.com/artist/1NBJbUP8o1MfB27jl84eeP"
+        },
+        {
+          "name": "Christine Fellows",
+          "url": "https://open.spotify.com/artist/1QbdQpDgMhmM5LcLhggcVH"
+        },
+        {
+          "name": "John K. Samson",
+          "url": "https://open.spotify.com/artist/3oOylXJSSKnZt9xZIjikTJ"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201373,
+      "name": "Snow Dusted Ponies",
+      "url": "https://open.spotify.com/track/0RSBWdCa1P8xoXOG90uZZ6"
     },
     {
       "album": {
@@ -36455,6 +36611,24 @@
     },
     {
       "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/1l4fr8rF9cd6OrBcyeS1Bv"
+      },
+      "artists": [
+        {
+          "name": "Black Holes",
+          "url": "https://open.spotify.com/artist/708I7Fy84HkPbSjEXB7wyZ"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237808,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/1nfNSVxFzWl8WN14Z9AMqY"
+    },
+    {
+      "album": {
         "name": "Good Times",
         "url": "https://open.spotify.com/album/53FelQG7etkXIkR5hFx2ma"
       },
@@ -40305,6 +40479,24 @@
     },
     {
       "album": {
+        "name": "Worth Your While",
+        "url": "https://open.spotify.com/album/7gU4XM3CXcvvgGLjwvPrAe"
+      },
+      "artists": [
+        {
+          "name": "Freedust",
+          "url": "https://open.spotify.com/artist/5ToWfy4enD67CmqGlb7TZ5"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198013,
+      "name": "Worth Your While",
+      "url": "https://open.spotify.com/track/2zFeKB60ea6mnQMu7qImv9"
+    },
+    {
+      "album": {
         "name": "Worthy",
         "url": "https://open.spotify.com/album/5kIKa0G1CyhSMAECu1uwiI"
       },
@@ -41062,6 +41254,24 @@
       "duration_ms": 218772,
       "name": "You're the Star",
       "url": "https://open.spotify.com/track/5w96vi5Kt3OC9F5MoEkzwP"
+    },
+    {
+      "album": {
+        "name": "Young Forever",
+        "url": "https://open.spotify.com/album/5R3AOmZVDsb5d7TUaL63BY"
+      },
+      "artists": [
+        {
+          "name": "Roy Tosh",
+          "url": "https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Young Forever",
+      "url": "https://open.spotify.com/track/5SiI25910PKfqOib9joLN3"
     },
     {
       "album": {

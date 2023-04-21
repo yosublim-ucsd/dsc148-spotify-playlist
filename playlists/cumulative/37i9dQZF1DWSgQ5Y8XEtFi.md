@@ -4,7 +4,7 @@
 
 > songs that break bones
 
-245 songs - 10 hr 56 min
+246 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [R.I.P.](https://open.spotify.com/track/3L0IKstjUgDFVQAbQIRZRv) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 3:12 | 2022-03-29 | 2022-11-08 |
 | [Racked](https://open.spotify.com/track/6Puwg0sgPn5ByIXy4srRCj) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [MONEYSUTRA](https://open.spotify.com/album/6yxdybIsZMRnsAAMR1A2vf) | 3:04 | 2022-03-29 |  |
 | [RATATA](https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 2:06 | 2023-04-11 |  |
+| [revenge](https://open.spotify.com/track/1Mq8BdG6aNUqZnDe5Ca4e1) | [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [revenge](https://open.spotify.com/album/5IS1yIRaMXCLq4tN3yTzTK) | 2:19 | 2023-04-20 |  |
 | [Rocket](https://open.spotify.com/track/5BXmnj6Qglm67cEQ3dOi20) | [Bearded Legend](https://open.spotify.com/artist/2JvDmwhrBiIlSwUI7QHvqe) | [Sogno](https://open.spotify.com/album/78mE3XmvNzocqHLzFj5CCG) | 1:46 | 2022-04-20 | 2023-03-28 |
 | [Rockstar Shit](https://open.spotify.com/track/2MvxhedNhxhj32eVQJnmII) | [BLIND.SEE](https://open.spotify.com/artist/6SSQog9cu2XcgHTRHPmECq), [BRYOZA](https://open.spotify.com/artist/5i5p2fa7SSJuw9MyHic30Y) | [Rockstar Shit](https://open.spotify.com/album/2UiIu2P6YGkWekwRn60ja5) | 2:08 | 2022-03-29 | 2022-04-21 |
 | [Roll in Peace \(feat\. XXXTENTACION\)](https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:33 | 2022-06-17 | 2023-03-28 |

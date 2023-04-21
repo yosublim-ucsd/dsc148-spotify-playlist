@@ -532,7 +532,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 263893,
       "name": "Bicycle Rider",
       "url": "https://open.spotify.com/track/3Bdh4UCIwbRZoDLZ5UFvXI"
@@ -898,7 +898,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 264026,
       "name": "Continue as a Guest",
       "url": "https://open.spotify.com/track/5PbPvcgxCZF677hZEVbxWM"
@@ -943,6 +943,24 @@
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 396564,
+      "name": "Cult of Personality - Re-Recorded - Slowed",
+      "url": "https://open.spotify.com/track/6ZFJTLRVmMLP0yuv5SvvyP"
+    },
+    {
+      "album": {
+        "name": "Cult of Personality (Re-Recorded - Sped Up)",
+        "url": "https://open.spotify.com/album/2GrhRj3q9UuIbKhK7opZXK"
+      },
+      "artists": [
+        {
+          "name": "Living Colour",
+          "url": "https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-21",
       "duration_ms": 237912,
       "name": "Cult of Personality - Re-Recorded - Sped Up",
       "url": "https://open.spotify.com/track/0eNAwfluEGtgbdURTceEtx"
@@ -2588,7 +2606,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 342363,
       "name": "Merry Christmas Mr. Lawrence",
       "url": "https://open.spotify.com/track/1s71aSAX5H5Bi0bnJkXe5F"
@@ -4632,6 +4650,24 @@
       "duration_ms": 168786,
       "name": "Wings Of Time - From the Motion Picture Dungeons & Dragons: Honor Among Thieves",
       "url": "https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS"
+    },
+    {
+      "album": {
+        "name": "Continue as a Guest",
+        "url": "https://open.spotify.com/album/4W7yoLgWewZv3rdhGjLB3B"
+      },
+      "artists": [
+        {
+          "name": "The New Pornographers",
+          "url": "https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320266,
+      "name": "Wish Automatic Suite",
+      "url": "https://open.spotify.com/track/6JhuM6y76K6CptGApIn0Oj"
     },
     {
       "album": {

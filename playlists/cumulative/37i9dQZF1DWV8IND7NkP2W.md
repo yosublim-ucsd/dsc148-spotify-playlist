@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-579 songs - 1 day 1 hr 52 min
+580 songs - 1 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [dialogue](https://open.spotify.com/track/0qKlKYrqonxvIFse1gjR0N) | [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v), [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4) | [dialogue](https://open.spotify.com/album/1HAdeAsJDRBJDhmP5OIIgz) | 3:36 | 2021-12-23 | 2022-07-25 |
 | [Dipping Time](https://open.spotify.com/track/3pzDRMgVcypNZR8PQKGhz3) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI), [ΔKTR](https://open.spotify.com/artist/4D2f1c2id2Udc2EcUONGv6) | [Breaking Point // Dipping Time](https://open.spotify.com/album/3xMXxcR16P9JzZ1OShYMUK) | 2:22 | 2022-02-10 | 2022-07-23 |
 | [Disco A](https://open.spotify.com/track/3w6HHJ3eWazjQoaDYDzpn3) | [Oh Shu](https://open.spotify.com/artist/75XDEXxePvX7Hx4T3rUlVS) | [Pulchra Ondo](https://open.spotify.com/album/3T6NjKer6Y8obnNywZrJzq) | 2:02 | 2022-01-06 | 2022-01-12 |
-| [distance](https://open.spotify.com/track/1tHDW0NXuPjYVnau1HSqs9) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [distance](https://open.spotify.com/album/18g0X9luZIPtcx0cr3wdoC) | 3:36 | 2023-01-12 | 2023-04-20 |
+| [distance](https://open.spotify.com/track/1tHDW0NXuPjYVnau1HSqs9) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [distance](https://open.spotify.com/album/18g0X9luZIPtcx0cr3wdoC) | 3:36 | 2023-01-12 |  |
 | [distance](https://open.spotify.com/track/56QJlPcE0Ge86Q7Sb6fVKp) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [distance](https://open.spotify.com/album/1mHEXbNTGqEDfvdVueuMJ9) | 3:36 | 2023-01-12 | 2023-01-14 |
 | [Dntleave](https://open.spotify.com/track/1CQyXpkx1jEC39RyijeOHy) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ) | [Dntleave](https://open.spotify.com/album/4eronGCeRlA7EwC7knCUV1) | 2:15 | 2021-12-23 | 2022-05-20 |
 | [DON](https://open.spotify.com/track/1sAJ1LjvLUhgQkQZ35BEI3) | [LADAISLE](https://open.spotify.com/artist/1ccn3ILGtQ8vZIN0ZAWM1r) | [DON](https://open.spotify.com/album/11A2qjPlbkOjDOA0xq8EkV) | 2:40 | 2021-12-23 | 2022-07-21 |
@@ -143,7 +143,7 @@
 | [Dusk Moon](https://open.spotify.com/track/4upyiEiuvlffFm1NlnzhiP) | [sakamoto junnosuke](https://open.spotify.com/artist/79CYOq7U0oNlU4H8kXUj5v) | [Dusk Moon](https://open.spotify.com/album/4zsH4GvEqvyi9tLHKJW2pR) | 3:51 | 2021-12-23 | 2022-07-26 |
 | [D’s Swing](https://open.spotify.com/track/6t19DdPFNoNbclHt3stXZ8) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [D’s Swing](https://open.spotify.com/album/7E2Dz8BSnXj0gAq86v43xX) | 3:38 | 2022-02-15 | 2022-07-26 |
 | [E V O L](https://open.spotify.com/track/4kbSFoEckzthWx8rL4xqHM) | [gerardparman](https://open.spotify.com/artist/4B5nMelhpP2gTR4YwY4FSi) | [No Going To EVOL](https://open.spotify.com/album/1jIeRz6wRKlgTiEPFCyNgF) | 3:34 | 2022-01-06 | 2022-01-08 |
-| [earlier tea](https://open.spotify.com/track/3fhMezBACtE94vd1sy0J50) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [earlier tea](https://open.spotify.com/album/7wHvV6zvZQo1TlVcoGbAQx) | 2:52 | 2022-12-22 |  |
+| [earlier tea](https://open.spotify.com/track/3fhMezBACtE94vd1sy0J50) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [earlier tea](https://open.spotify.com/album/7wHvV6zvZQo1TlVcoGbAQx) | 2:52 | 2022-12-22 | 2023-04-21 |
 | [Early Morning](https://open.spotify.com/track/5PMKOTPuXBhArXrbNUVyIx) | [shula](https://open.spotify.com/artist/52iC6ueA2YBROxmdd4d1WI) | [Intermission 2](https://open.spotify.com/album/6nusBfW3l0m1fTNP94LPyT) | 2:43 | 2021-12-23 | 2022-05-31 |
 | [Earth Calling](https://open.spotify.com/track/33bUkdaOiJDAUNRuwxAU8j) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Earth Calling](https://open.spotify.com/album/0UOdXQ5Z2lzCgmBLI6FR4u) | 2:33 | 2021-12-23 | 2022-07-03 |
 | [easy](https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH) | [MIZUKAMI](https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4) | [easy](https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu) | 3:23 | 2022-04-13 |  |
@@ -256,7 +256,7 @@
 | [Kiddish](https://open.spotify.com/track/3aJGP2lJwgsCduog1jmGuE) | [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP), [another silent weekend](https://open.spotify.com/artist/7tYro3kW5Ocevel9uXDCKA) | [Kiddish](https://open.spotify.com/album/5Vhwd7DKQWvXzBZh7MVe6n) | 2:08 | 2022-01-06 | 2022-07-16 |
 | [Kizanka](https://open.spotify.com/track/5IbxNiplCikWjPQIidIpbP) | [Hedge Hop](https://open.spotify.com/artist/73mgRho1n2qDPfYMgvzugF), [Kazuki Arai](https://open.spotify.com/artist/1tLZA82NJkrx6GOPKxlAIK) | [Kizanka](https://open.spotify.com/album/5a9lNbGJcjeLT6j8t3mTfh) | 2:30 | 2021-12-23 | 2022-07-29 |
 | [Kizuna](https://open.spotify.com/track/6bsS5j5OC2q5ZrxlVg9rTs) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Kizuna](https://open.spotify.com/album/1ISgbuRY57vsJWuxiNLtYu) | 3:09 | 2021-12-23 | 2022-07-19 |
-| [Know](https://open.spotify.com/track/2oRJS3visA5i3TNnGdqgIl) | [Rin Ishi](https://open.spotify.com/artist/1lpChpnNOXYwKQKjzl5wup) | [Know](https://open.spotify.com/album/2saePS98KD93dEu1pYAM2H) | 2:52 | 2022-03-31 |  |
+| [Know](https://open.spotify.com/track/2oRJS3visA5i3TNnGdqgIl) | [Rin Ishi](https://open.spotify.com/artist/1lpChpnNOXYwKQKjzl5wup) | [Know](https://open.spotify.com/album/2saePS98KD93dEu1pYAM2H) | 2:52 | 2022-03-31 | 2023-04-21 |
 | [Kodama](https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Kodama](https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG) | 3:06 | 2021-12-23 |  |
 | [Konbi](https://open.spotify.com/track/6P8KIcJyzzBst9rTZoTpFh) | [Mura Kami](https://open.spotify.com/artist/1UMKAtfbQKKYEp8mvAHRWE) | [Konbi](https://open.spotify.com/album/7oujpeIz11LxhncniITIoh) | 2:15 | 2021-12-23 | 2022-05-29 |
 | [Kurumi](https://open.spotify.com/track/3j1b88dEz4HILuRltaaC00) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Mentatea](https://open.spotify.com/album/0kyAObNeOcC4abeGJkLW0K) | 2:43 | 2022-04-14 | 2022-07-29 |
@@ -352,6 +352,7 @@
 | [New Adventure](https://open.spotify.com/track/3Jftg8VUsBreRUuZdG1bTC) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [New Adventure](https://open.spotify.com/album/3o7NGZYi9oRV6aRnfbOBJg) | 2:27 | 2022-07-28 | 2022-08-30 |
 | [Nicely Nostalgic](https://open.spotify.com/track/5fFZlk4YnpPJkCHllhCXvq) | [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9), [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Nicely Nostalgic](https://open.spotify.com/album/5Qi3p41NKuIZRQY8M2dpJr) | 1:54 | 2022-02-10 |  |
 | [Night Crawl](https://open.spotify.com/track/0qtpXpFtLklZHtComSaSoE) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Night Crawl](https://open.spotify.com/album/2UjBnYEd7L0XNWSLmkRrqu) | 2:52 | 2021-12-23 | 2022-07-28 |
+| [Night Drip](https://open.spotify.com/track/2RTmgpcbkD9LTyjjqWTlXl) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Night Drip](https://open.spotify.com/album/3gSJQV6vzdcnmKGoLSxpUn) | 3:03 | 2023-04-20 |  |
 | [Night Lights](https://open.spotify.com/track/6lD4z9pp562jUf3mJx1xSl) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG) | [Night Lights](https://open.spotify.com/album/0zfibDEedhD4zQiJFEk0SC) | 2:37 | 2022-01-06 | 2022-07-17 |
 | [Night Lights 2020](https://open.spotify.com/track/4EJIzAOBenyU7kQ6D7AvFe) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf) | [Night Lights 2020](https://open.spotify.com/album/5rqqrponuFtxKYusVGzSl2) | 4:01 | 2021-12-23 | 2023-04-02 |
 | [Night View](https://open.spotify.com/track/5fDXtT8xiVNZ0tAe8wYXPJ) | [NOBB\-D](https://open.spotify.com/artist/0oaDlNGcoCNlw4gCqWFYz2), [交響都市](https://open.spotify.com/artist/3RzWlu98pODmrYSMwhMNeX) | [Night View](https://open.spotify.com/album/4bOSB7ra5IOKvqyJC2qbtT) | 3:01 | 2021-12-23 | 2022-01-28 |

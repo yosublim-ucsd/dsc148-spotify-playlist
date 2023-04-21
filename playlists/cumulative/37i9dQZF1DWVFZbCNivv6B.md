@@ -2,9 +2,9 @@
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Aquí vive el hip\-hop\. Cartel de Santa y La Kelly en portada.
+> Aquí vive el hip\-hop mexicano.
 
-329 songs - 19 hr 28 min
+330 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Apaga La Luz](https://open.spotify.com/track/1bYlb2cvLeSmyvSdK67WJa) | [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Apaga La Luz](https://open.spotify.com/album/5TbtewNOQ8QsYUYUET9iyX) | 3:15 | 2022-03-25 | 2022-04-16 |
 | [Aquiles](https://open.spotify.com/track/13G2sCd1TekPn9EXxRpHda) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Mano de Mono](https://open.spotify.com/album/3GRg4jTS9ALfxROGSORT9Q) | 2:59 | 2022-04-01 | 2022-04-21 |
 | [Aquí Afuera](https://open.spotify.com/track/6kCDjSErf3LudSsdbPgzLd) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Chikis RA](https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA) | [Aquí Afuera](https://open.spotify.com/album/3FyYPBlR3oF8sp4LMJNRjo) | 3:08 | 2022-07-29 | 2023-03-11 |
+| [Aquí Dentro](https://open.spotify.com/track/3vRoi44ImFNJAgPySXJeFE) | [Cirujano Resendez](https://open.spotify.com/artist/0nFyvpRgCIvNG2JVyAGdbY), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Aquí Dentro](https://open.spotify.com/album/5bTbyJ5DuBQB2xuUJ6qf1i) | 2:56 | 2023-04-20 |  |
 | [Ashe](https://open.spotify.com/track/4Y2lNs0JZjFgVHVYYI0OE6) | [Neto Reyno](https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q), [La Sinclair](https://open.spotify.com/artist/5kkRe5KI7U7AvJ3PgLMwB9) | [Ashe](https://open.spotify.com/album/5E5w7D7aPR4RNEAnjaX0Y8) | 5:26 | 2022-07-22 | 2022-09-09 |
 | [Así Es Como Es](https://open.spotify.com/track/7AHcgO9JWCA8cwyQ9gPOBH) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Así Es Como Es](https://open.spotify.com/album/5cNd3JTnVB3cRY5WkSv3m9) | 3:46 | 2023-01-27 | 2023-03-04 |
 | [Aves](https://open.spotify.com/track/0CTwgxO20AME455MURJiHu) | [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy) | [Aves](https://open.spotify.com/album/0zHbCVIPjPnESnH1oZM9iw) | 3:19 | 2023-02-10 | 2023-04-09 |

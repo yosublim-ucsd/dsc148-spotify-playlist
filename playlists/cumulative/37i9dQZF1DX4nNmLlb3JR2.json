@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "cake by the ocean",
+        "url": "https://open.spotify.com/album/2UjrbW783efsL76eSx9BlX"
+      },
+      "artists": [
+        {
+          "name": "xOHARA",
+          "url": "https://open.spotify.com/artist/2Sebo5izi3H67nS858uHoK"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134488,
+      "name": "cake by the ocean",
+      "url": "https://open.spotify.com/track/3PSfK8uljFKaWpFmhkUKjk"
+    },
+    {
+      "album": {
         "name": "californication",
         "url": "https://open.spotify.com/album/2Dvz9vSWLxEBd2eO6uldcU"
       },
@@ -3508,6 +3526,24 @@
       "duration_ms": 213250,
       "name": "You Oughta Know",
       "url": "https://open.spotify.com/track/1wy11OtTLB78IcBoDrPP9W"
+    },
+    {
+      "album": {
+        "name": "you shook me all night long",
+        "url": "https://open.spotify.com/album/0kNYDcRWSwzGN1cUHQgmks"
+      },
+      "artists": [
+        {
+          "name": "buggy beats",
+          "url": "https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116079,
+      "name": "you shook me all night long",
+      "url": "https://open.spotify.com/track/4Y49M9ujJJFgztbo1nU6w5"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "kayblack esquece",
-  "num_followers": 1107534,
+  "num_followers": 1108311,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ3NzA4MCwwMDAwMDAwMDIzOTBiNWY0ZTQxMTVlZmMwNjdlYmY3NGY4N2UzM2Y5",
+  "snapshot_id": "MTY4MTQ3NzA4MCwwMDAwMDAwMGE3Njg4Y2NmYTI1YWQ4NmQ1OWFlMzVhMWMyYjgxMDFk",
   "tracks": [
     {
       "added_at": "2023-04-14 12:58:00",
@@ -723,34 +723,6 @@
     {
       "added_at": "2023-04-14 12:58:00",
       "album": {
-        "name": "Nunca Sozinho",
-        "url": "https://open.spotify.com/album/5UDKZWc01Bse8OGYCR2wpb"
-      },
-      "artists": [
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
-        }
-      ],
-      "duration_ms": 137102,
-      "name": "Nunca Sozinho",
-      "url": "https://open.spotify.com/track/0uGpWtQgtZ6UcFXnFiNhNq"
-    },
-    {
-      "added_at": "2023-04-14 12:58:00",
-      "album": {
         "name": "Hino dos Mlks",
         "url": "https://open.spotify.com/album/0oqZQcQBNKWMxTGgi72eMt"
       },
@@ -859,30 +831,6 @@
     {
       "added_at": "2023-04-14 12:58:00",
       "album": {
-        "name": "Doce Veneno",
-        "url": "https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl"
-      },
-      "artists": [
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        },
-        {
-          "name": "Kotim",
-          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "Doce Veneno",
-      "url": "https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq"
-    },
-    {
-      "added_at": "2023-04-14 12:58:00",
-      "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -915,6 +863,54 @@
     {
       "added_at": "2023-04-14 12:58:00",
       "album": {
+        "name": "Doce Veneno",
+        "url": "https://open.spotify.com/album/04GVjCszesD4CSwLqyKkFl"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Kotim",
+          "url": "https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "Doce Veneno",
+      "url": "https://open.spotify.com/track/7woVi4HBuv0rsO98Ox2Fcq"
+    },
+    {
+      "added_at": "2023-04-14 12:58:00",
+      "album": {
+        "name": "Contradi\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 124913,
+      "name": "C'est la vie (B\u00f4nus)",
+      "url": "https://open.spotify.com/track/1QRDn63eQzqC8dpNcI7HtQ"
+    },
+    {
+      "added_at": "2023-04-14 12:58:00",
+      "album": {
         "name": "Desabafo",
         "url": "https://open.spotify.com/album/5glFkBO45WBRpvp4dMWPrm"
       },
@@ -943,30 +939,6 @@
       "duration_ms": 150508,
       "name": "Desabafo",
       "url": "https://open.spotify.com/track/37LWZe5mdHIKuXBh8GuwlH"
-    },
-    {
-      "added_at": "2023-04-14 12:58:00",
-      "album": {
-        "name": "Contradi\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 124913,
-      "name": "C'est la vie (B\u00f4nus)",
-      "url": "https://open.spotify.com/track/1QRDn63eQzqC8dpNcI7HtQ"
     },
     {
       "added_at": "2023-04-14 12:58:00",
@@ -1451,6 +1423,22 @@
       "duration_ms": 380689,
       "name": "Bando",
       "url": "https://open.spotify.com/track/0XQqDiOmHFnITVwNohti8w"
+    },
+    {
+      "added_at": "2023-04-14 12:58:00",
+      "album": {
+        "name": "Nunca Sozinho",
+        "url": "https://open.spotify.com/album/06LCPYS9Nixib0IzHkurko"
+      },
+      "artists": [
+        {
+          "name": "xolair",
+          "url": "https://open.spotify.com/artist/4IyqUNtcBn4sS04LJCzkUq"
+        }
+      ],
+      "duration_ms": 137113,
+      "name": "Nunca Sozinho",
+      "url": "https://open.spotify.com/track/3rq6MZyghh4kjOZutPNBfS"
     },
     {
       "added_at": "2023-04-14 12:58:00",

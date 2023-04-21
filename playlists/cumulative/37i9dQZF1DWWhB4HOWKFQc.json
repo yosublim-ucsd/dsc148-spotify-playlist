@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Aziz Hedra",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Elsya, Aan Story",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -72,7 +72,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 249444,
       "name": "After Last Night (with Thundercat & Bootsy Collins)",
       "url": "https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
@@ -432,6 +432,50 @@
       "duration_ms": 294053,
       "name": "Cintamu Sepahit Topi Miring",
       "url": "https://open.spotify.com/track/1ixNEKbIZTTZ5LIz3rr9jD"
+    },
+    {
+      "album": {
+        "name": "Cintanya Aku",
+        "url": "https://open.spotify.com/album/2qEHRe3bIRZ1DLyYMmnBK4"
+      },
+      "artists": [
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        },
+        {
+          "name": "Arsy Widianto",
+          "url": "https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234125,
+      "name": "Cintanya Aku",
+      "url": "https://open.spotify.com/track/53fKDMfQhWMSw7QKVDOTBP"
+    },
+    {
+      "album": {
+        "name": "Cnv Sound Volums (Kion Studio One Shots)",
+        "url": "https://open.spotify.com/album/6ofhc8WsOvmFP8lLb7b6v3"
+      },
+      "artists": [
+        {
+          "name": "Pure Negga",
+          "url": "https://open.spotify.com/artist/1F23hhbmyCMBq3BadxKNhk"
+        },
+        {
+          "name": "Skillz Beatz",
+          "url": "https://open.spotify.com/artist/1mCTvKCE9hqsj2CnX81iUM"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194583,
+      "name": "Cnv Sound, Vol. 14",
+      "url": "https://open.spotify.com/track/1vmRfKejQWsWnE3arhhEit"
     },
     {
       "album": {
@@ -693,6 +737,24 @@
     },
     {
       "album": {
+        "name": "PHASES",
+        "url": "https://open.spotify.com/album/22DL6IRGNYNenKej7aw8pO"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248240,
+      "name": "HEAVEN AND BACK",
+      "url": "https://open.spotify.com/track/5dewQ7ojISR32NAYNHFYWC"
+    },
+    {
+      "album": {
         "name": "BOYS PLANET - Here I Am",
         "url": "https://open.spotify.com/album/3qaFHMGRbufnBob2fGNKkc"
       },
@@ -947,6 +1009,24 @@
     },
     {
       "album": {
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195440,
+      "name": "Kitsch",
+      "url": "https://open.spotify.com/track/7foeH2Emgq8A3LWk3q6dat"
+    },
+    {
+      "album": {
         "name": "Komang",
         "url": "https://open.spotify.com/album/2N8JUijzZsT2IJnplY4vAE"
       },
@@ -980,6 +1060,24 @@
       "duration_ms": 216524,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/3ym8ajVmKm6Fybgov3WBI5"
+    },
+    {
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212241,
+      "name": "Like Crazy",
+      "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"
     },
     {
       "album": {
@@ -1085,6 +1183,24 @@
     },
     {
       "album": {
+        "name": "Merindukanmu",
+        "url": "https://open.spotify.com/album/5CNkGpz6Hf1P595qSsOw3C"
+      },
+      "artists": [
+        {
+          "name": "Salma Aliyyah",
+          "url": "https://open.spotify.com/artist/090J9hBaxShI7OWuk64gm3"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235858,
+      "name": "Merindukanmu",
+      "url": "https://open.spotify.com/track/6iWN7lzwq9LedX3F1g3sTy"
+    },
+    {
+      "album": {
         "name": "Once Upon a Mind",
         "url": "https://open.spotify.com/album/4gkWfdUgz4jWrGx4sKQpb4"
       },
@@ -1096,10 +1212,28 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 259991,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/4SykS8RWkF6eK6xeua7XLP"
+    },
+    {
+      "album": {
+        "name": "Return To Sender",
+        "url": "https://open.spotify.com/album/3jOzdF8WPsqwUp9OznStfw"
+      },
+      "artists": [
+        {
+          "name": "KAIRO",
+          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172786,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/4a7Z10eGGg3th4H5jqFScX"
     },
     {
       "album": {
@@ -1208,7 +1342,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 202441,
       "name": "O Ya",
       "url": "https://open.spotify.com/track/3XxBabUCVJOgYxMuMhFb2W"
@@ -1338,7 +1472,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 208693,
       "name": "Ramadhan Tiba",
       "url": "https://open.spotify.com/track/06tjI6ZyMgSwISedNcldUw"
@@ -1468,6 +1602,24 @@
       "duration_ms": 263466,
       "name": "Seandainya",
       "url": "https://open.spotify.com/track/4zDsTPzY7Nm7rYKvszjKYL"
+    },
+    {
+      "album": {
+        "name": "summer flows 0.02",
+        "url": "https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "seasons",
+      "url": "https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh"
     },
     {
       "album": {
@@ -1620,7 +1772,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 236390,
       "name": "Suzume",
       "url": "https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5"
@@ -1717,6 +1869,24 @@
     },
     {
       "album": {
+        "name": "Tides (From \"Induk Gajah\")",
+        "url": "https://open.spotify.com/album/0IveWFjKEUnmg25sM4M5Hr"
+      },
+      "artists": [
+        {
+          "name": "Pepita",
+          "url": "https://open.spotify.com/artist/7dwjCFo7cfTvB1ZtBxyaJa"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239523,
+      "name": "Tides - From \"Induk Gajah\"",
+      "url": "https://open.spotify.com/track/6qiunf2Phv1XewxvWpZU7U"
+    },
+    {
+      "album": {
         "name": "Til You\u2019re Home (From \"A Man Called Otto \" Soundtrack)",
         "url": "https://open.spotify.com/album/5GXMVCZstkoXrH0F021CK2"
       },
@@ -1790,7 +1960,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 249298,
       "name": "Uneasy",
       "url": "https://open.spotify.com/track/4o31OUbP1WMjtpJeECtL7n"
@@ -1830,7 +2000,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 122880,
       "name": "Violet",
       "url": "https://open.spotify.com/track/7IezwtVIJIPC36LpKMR9d7"
@@ -1848,7 +2018,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 223120,
       "name": "Ya Maulana",
       "url": "https://open.spotify.com/track/1rnNm4yEXQCdnjQTsObWlY"

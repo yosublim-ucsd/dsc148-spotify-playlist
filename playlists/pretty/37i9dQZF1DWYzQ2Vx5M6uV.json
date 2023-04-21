@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Aya Nakamura & Myke Towers",
-  "num_followers": 106572,
+  "num_followers": 106625,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzgzMDUyOSwwMDAwMDAwMGI3NDgzZGJjYTExZmU3NDBjOWQwNjc0YmY0ZDBjZWJj",
+  "snapshot_id": "MTY3NzgzMDUyOSwwMDAwMDAwMDFhNzhkZTc3MzQ5N2E1MmZiN2MxNmI4YzZiZWMzMTZi",
   "tracks": [
     {
       "added_at": "2023-02-10 16:08:22",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-02-10 16:08:22",
       "album": {
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "Jeje de Whine",
+      "url": "https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy"
+    },
+    {
+      "added_at": "2023-02-10 16:08:22",
+      "album": {
         "name": "Like a Queen (Remix)",
         "url": "https://open.spotify.com/album/7oeAp9HBcnrktbdwe22fgK"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 158956,
       "name": "Like a Queen - Remix",
       "url": "https://open.spotify.com/track/34CKU5kPRpvJPCqBZ5224w"
-    },
-    {
-      "added_at": "2023-02-10 16:08:22",
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "Jeje de Whine",
-      "url": "https://open.spotify.com/track/3IKW5FVGMa3a45ZNHc6jxy"
     },
     {
       "added_at": "2023-02-10 16:08:22",
@@ -701,26 +701,6 @@
       "url": "https://open.spotify.com/track/79RAX0NTNBnzuLieO4zYcr"
     },
     {
-      "added_at": "2023-04-20 00:37:18",
-      "album": {
-        "name": "Guava Rose",
-        "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
-      },
-      "artists": [
-        {
-          "name": "June Freedom",
-          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
-        },
-        {
-          "name": "Eva Ruiz",
-          "url": "https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV"
-        }
-      ],
-      "duration_ms": 192108,
-      "name": "Guava Rose",
-      "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
-    },
-    {
       "added_at": "2023-02-10 16:08:22",
       "album": {
         "name": "Sounds of My World",
@@ -739,6 +719,26 @@
       "duration_ms": 204099,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/7Jqa7kWKN4d2Fn7FESctLz"
+    },
+    {
+      "added_at": "2023-04-21 00:21:11",
+      "album": {
+        "name": "Guava Rose",
+        "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
+      },
+      "artists": [
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        },
+        {
+          "name": "Eva Ruiz",
+          "url": "https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV"
+        }
+      ],
+      "duration_ms": 192108,
+      "name": "Guava Rose",
+      "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
     },
     {
       "added_at": "2023-02-10 16:08:22",
@@ -1279,34 +1279,6 @@
     {
       "added_at": "2023-02-10 16:08:22",
       "album": {
-        "name": "Son of the City",
-        "url": "https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS"
-      },
-      "artists": [
-        {
-          "name": "Trio Mio",
-          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
-        },
-        {
-          "name": "Mejja",
-          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
-        },
-        {
-          "name": "Exray",
-          "url": "https://open.spotify.com/artist/0jEAvweUh4N7mXYMDkRTQo"
-        },
-        {
-          "name": "Nellythegoon",
-          "url": "https://open.spotify.com/artist/33ypECIxCzdSYfzysHmrH7"
-        }
-      ],
-      "duration_ms": 334000,
-      "name": "Cheza Kama Wewe",
-      "url": "https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5"
-    },
-    {
-      "added_at": "2023-02-10 16:08:22",
-      "album": {
         "name": "Next To You Part II (feat. Rvssian & Davido)",
         "url": "https://open.spotify.com/album/67hfw7M0E3Rty5HntU1eC2"
       },
@@ -1331,6 +1303,34 @@
       "duration_ms": 179257,
       "name": "Next To You Part II (feat. Rvssian & Davido)",
       "url": "https://open.spotify.com/track/00yinrzqPZKA2vbnwnn3hS"
+    },
+    {
+      "added_at": "2023-02-10 16:08:22",
+      "album": {
+        "name": "Son of the City",
+        "url": "https://open.spotify.com/album/7sQ6TFEEb8N88lvV6NE8OS"
+      },
+      "artists": [
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        },
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        },
+        {
+          "name": "Exray",
+          "url": "https://open.spotify.com/artist/0jEAvweUh4N7mXYMDkRTQo"
+        },
+        {
+          "name": "Nellythegoon",
+          "url": "https://open.spotify.com/artist/33ypECIxCzdSYfzysHmrH7"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "Cheza Kama Wewe",
+      "url": "https://open.spotify.com/track/4NAhcKp6YtMDRAMH4UeUE5"
     },
     {
       "added_at": "2023-02-10 16:08:22",

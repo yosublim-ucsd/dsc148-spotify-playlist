@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. ",
-  "num_followers": 7637,
+  "num_followers": 7661,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTkyNjQwNiwwMDAwMDAwMGVkMzYyZWNiNzBlZDMxYjRhMDQ3M2Y3Y2RkNjFhOWVk",
+  "snapshot_id": "MTY4MTkyNjQwNiwwMDAwMDAwMDQ3ODZmNWNjYmQ5NjAwNTYxMTc5ODllYTVlMmNlZjM3",
   "tracks": [
     {
       "added_at": "2023-04-03 18:54:44",
@@ -1035,22 +1035,18 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "Pimpin' Smokin' Dro",
-        "url": "https://open.spotify.com/album/7HM5lsCIeSuuxL3iD5hEXJ"
+        "name": "Deja Que Te Lleve",
+        "url": "https://open.spotify.com/album/36mgrUsQbHrpFcR7gA914n"
       },
       "artists": [
         {
-          "name": "Los Rakas",
-          "url": "https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+          "name": "Sessi",
+          "url": "https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX"
         }
       ],
-      "duration_ms": 230434,
-      "name": "Pimpin' Smokin' Dro",
-      "url": "https://open.spotify.com/track/4Q516psr4tSjGBrNbq2BHo"
+      "duration_ms": 203202,
+      "name": "Deja Que Te Lleve",
+      "url": "https://open.spotify.com/track/1cOCvJSFjmdvh4ByUGZf2V"
     }
   ],
   "unique_name": "Latin Frequency",

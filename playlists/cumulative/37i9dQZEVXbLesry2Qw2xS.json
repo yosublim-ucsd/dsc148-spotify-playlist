@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 135569,
       "name": "ASPHALT 8",
       "url": "https://open.spotify.com/track/0ndWY0kASiq9s2Fx76W4Jq"
@@ -9124,7 +9124,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 133829,
       "name": "I Know - PR1SVX Edit",
       "url": "https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs"
@@ -23106,7 +23106,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 163139,
       "name": "Watch This - ARIZONATEARS Pluggnb Remix",
       "url": "https://open.spotify.com/track/0FA4wrjDJvJTTU8AepZTup"
@@ -24304,6 +24304,24 @@
       "duration_ms": 165190,
       "name": "\u00c4mblikmees",
       "url": "https://open.spotify.com/track/41Ui7RoO7DMZd6e0WnulQH"
+    },
+    {
+      "album": {
+        "name": "\u00c4RA J\u00c4\u00c4 MU PEALE LOOTMA",
+        "url": "https://open.spotify.com/album/5zX90Py3bF6bOwl2iO5Hif"
+      },
+      "artists": [
+        {
+          "name": "pluuto",
+          "url": "https://open.spotify.com/artist/3BtEY5R06YAu1KVF2rvNjg"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118765,
+      "name": "\u00c4RA J\u00c4\u00c4 MU PEALE LOOTMA",
+      "url": "https://open.spotify.com/track/1MqA0xjLBPZlV8C5KyvPhD"
     },
     {
       "album": {

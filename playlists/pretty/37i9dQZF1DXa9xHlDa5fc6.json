@@ -1,12 +1,12 @@
 {
   "description": "unwind with these alternative favorites and new discoveries.",
-  "num_followers": 433896,
+  "num_followers": 434458,
   "original_name": "License To Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDUwYTZjNjY5MWQ3ZTQ2ZjhkYzg1YjIzM2JiMTBmY2M1",
+  "snapshot_id": "MTY4MTQ0NDg2MCwwMDAwMDAwMDM3ZmQ3YmY0NTE4OTVkYWVmYzM1ZGZiMDg1NjMwNmQ5",
   "tracks": [
     {
       "added_at": "2023-04-14 04:01:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Black Summer",
-        "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 232412,
-      "name": "Black Summer",
-      "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Drop Stop Roll",
         "url": "https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 170788,
       "name": "Drop Stop Roll",
       "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Black Summer",
+        "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 232412,
+      "name": "Black Summer",
+      "url": "https://open.spotify.com/track/3a94TbZOxhkI9xuNwYL53b"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Meshuggah",
-        "url": "https://open.spotify.com/album/5GzhTq1Iu7jioZquau8f93"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 277986,
-      "name": "Meshuggah",
-      "url": "https://open.spotify.com/track/5qhbGJnarFtyRabkYMK8ex"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Nine Types of Light",
         "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 224986,
       "name": "Will Do",
       "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Meshuggah",
+        "url": "https://open.spotify.com/album/5GzhTq1Iu7jioZquau8f93"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 277986,
+      "name": "Meshuggah",
+      "url": "https://open.spotify.com/track/5qhbGJnarFtyRabkYMK8ex"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Growing/Dying",
-        "url": "https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0"
-      },
-      "artists": [
-        {
-          "name": "The Backseat Lovers",
-          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
-        }
-      ],
-      "duration_ms": 212093,
-      "name": "Growing/Dying",
-      "url": "https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Bad Thing",
         "url": "https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 202219,
       "name": "Bad Thing",
       "url": "https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Growing/Dying",
+        "url": "https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0"
+      },
+      "artists": [
+        {
+          "name": "The Backseat Lovers",
+          "url": "https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "Growing/Dying",
+      "url": "https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "See You In The Dark",
-        "url": "https://open.spotify.com/album/4TtZH64f81Pv1Y7rpwqDBe"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 196239,
-      "name": "Spoiled",
-      "url": "https://open.spotify.com/track/1kpLFYELP9ZawXgUd8gr8v"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "Hoops",
         "url": "https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 158946,
       "name": "Hoops",
       "url": "https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "See You In The Dark",
+        "url": "https://open.spotify.com/album/4TtZH64f81Pv1Y7rpwqDBe"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 196239,
+      "name": "Spoiled",
+      "url": "https://open.spotify.com/track/1kpLFYELP9ZawXgUd8gr8v"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/3d0l3XhPXEaYYEDcTdk6IP"
-      },
-      "artists": [
-        {
-          "name": "Carlie Hanson",
-          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
-        }
-      ],
-      "duration_ms": 128906,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "I Don't Think I Can Do This Anymore",
         "url": "https://open.spotify.com/album/2Kq0O56yHIBpLJ0Oc2FjGe"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 236560,
       "name": "It's Too Much",
       "url": "https://open.spotify.com/track/3kr9H1n5OHezIhj8oA9gOX"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "Pretender",
+        "url": "https://open.spotify.com/album/3d0l3XhPXEaYYEDcTdk6IP"
+      },
+      "artists": [
+        {
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
+        }
+      ],
+      "duration_ms": 128906,
+      "name": "Pretender",
+      "url": "https://open.spotify.com/track/1mos63P1S2fnTT3j0PgTVO"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "IFK (i fucking know)",
-        "url": "https://open.spotify.com/album/63kQGsHtkPcqYLIhrQwC66"
-      },
-      "artists": [
-        {
-          "name": "Nahko And Medicine For The People",
-          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
-        }
-      ],
-      "duration_ms": 195038,
-      "name": "IFK (i fucking know)",
-      "url": "https://open.spotify.com/track/74fBwFr3FdloVDSFemyNuD"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
         "name": "I See You",
         "url": "https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 228735,
       "name": "I See You",
       "url": "https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "IFK (i fucking know)",
+        "url": "https://open.spotify.com/album/63kQGsHtkPcqYLIhrQwC66"
+      },
+      "artists": [
+        {
+          "name": "Nahko And Medicine For The People",
+          "url": "https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb"
+        }
+      ],
+      "duration_ms": 195038,
+      "name": "IFK (i fucking know)",
+      "url": "https://open.spotify.com/track/74fBwFr3FdloVDSFemyNuD"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
+        "name": "Dead Boys",
+        "url": "https://open.spotify.com/album/45vySJkc2UuDd6DWYnJeAL"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 205045,
+      "name": "Dead Boys",
+      "url": "https://open.spotify.com/track/0dApI39mMqaXSbSsq4J7kI"
+    },
+    {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
         "name": "Inner Love Energy",
         "url": "https://open.spotify.com/album/467cvMN0A1qVbVXIC7iJCz"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 136325,
       "name": "Inner Love Energy",
       "url": "https://open.spotify.com/track/5pqxLFVOwSS23rX0lobc86"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Can You Feel The Sun",
-        "url": "https://open.spotify.com/album/3GLchSPLUNW5y5Dd09uNNq"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 286342,
-      "name": "Can You Feel The Sun",
-      "url": "https://open.spotify.com/track/2DZqu0ju4GPs4nJXm1XrQ1"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1923,18 +1923,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "Dead Boys",
-        "url": "https://open.spotify.com/album/45vySJkc2UuDd6DWYnJeAL"
+        "name": "Can You Feel The Sun",
+        "url": "https://open.spotify.com/album/3GLchSPLUNW5y5Dd09uNNq"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
         }
       ],
-      "duration_ms": 205045,
-      "name": "Dead Boys",
-      "url": "https://open.spotify.com/track/0dApI39mMqaXSbSsq4J7kI"
+      "duration_ms": 286342,
+      "name": "Can You Feel The Sun",
+      "url": "https://open.spotify.com/track/2DZqu0ju4GPs4nJXm1XrQ1"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -2019,18 +2019,18 @@
     {
       "added_at": "2023-04-14 04:01:00",
       "album": {
-        "name": "All The Truth That I Can Tell",
-        "url": "https://open.spotify.com/album/7e8ZKs0jaBUKF0jHjbs0bD"
+        "name": "Come Follow Me Down",
+        "url": "https://open.spotify.com/album/45qH3mYvEOhFYrCVJC8QZn"
       },
       "artists": [
         {
-          "name": "Dashboard Confessional",
-          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+          "name": "George Taylor",
+          "url": "https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5"
         }
       ],
-      "duration_ms": 257040,
-      "name": "Here's To Moving On",
-      "url": "https://open.spotify.com/track/0GCngfjdoIbBBPisYkv3Y3"
+      "duration_ms": 192666,
+      "name": "Come Follow Me Down",
+      "url": "https://open.spotify.com/track/5RPx9i0nwUdzpvJcYFTe1D"
     }
   ],
   "unique_name": "License To Chill",

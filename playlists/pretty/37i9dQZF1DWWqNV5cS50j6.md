@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > maxime\. makes anti pop
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,963 likes - 102 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,006 likes - 102 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

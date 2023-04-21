@@ -1,12 +1,12 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 55077,
+  "num_followers": 55137,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMGEzY2U0NmU1NDdiZWQ2MDViNzI5N2ViMDEyM2IzYjM3",
+  "snapshot_id": "MTY1NzkwNjQ1NSwwMDAwMDAwMDQwNDZlM2JhZThhNWIyOGViNzMwYzY4ZDg0YWRjNDE5",
   "tracks": [
     {
       "added_at": "2022-07-15 17:34:15",
@@ -119,6 +119,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Powers of Ten",
+        "url": "https://open.spotify.com/album/5zj0qH4lKPQOotmWkE3ECb"
+      },
+      "artists": [
+        {
+          "name": "Stephan Bodzin",
+          "url": "https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7"
+        }
+      ],
+      "duration_ms": 421306,
+      "name": "Singularity",
+      "url": "https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Mind Doodles",
         "url": "https://open.spotify.com/album/2Zlm5KWIiAgooWhwWdM8xI"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 401409,
       "name": "Mind Doodles",
       "url": "https://open.spotify.com/track/4ZVqqf3Eo4uXSeFUrYD5lw"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Powers of Ten",
-        "url": "https://open.spotify.com/album/5zj0qH4lKPQOotmWkE3ECb"
-      },
-      "artists": [
-        {
-          "name": "Stephan Bodzin",
-          "url": "https://open.spotify.com/artist/2nq2BeSbzExGAv3Y4HgUf7"
-        }
-      ],
-      "duration_ms": 421306,
-      "name": "Singularity",
-      "url": "https://open.spotify.com/track/0yuJtvXsapVOQfNDYxQ5mw"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -331,26 +331,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "What Have You Done To Me?",
-        "url": "https://open.spotify.com/album/31UYvnKUP1cDazUDpAA19x"
-      },
-      "artists": [
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        },
-        {
-          "name": "Arctic Lake",
-          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
-        }
-      ],
-      "duration_ms": 286186,
-      "name": "What Have You Done To Me?",
-      "url": "https://open.spotify.com/track/6Y1i876TjV3Gmf9eUIs8Fw"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Blurred",
         "url": "https://open.spotify.com/album/6buz46xNMKBZ5xItTu5rDK"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 361160,
       "name": "Blurred - Bonobo Remix",
       "url": "https://open.spotify.com/track/4uayzCHBoZ1cpTSpMmdMXB"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "What Have You Done To Me?",
+        "url": "https://open.spotify.com/album/31UYvnKUP1cDazUDpAA19x"
+      },
+      "artists": [
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        },
+        {
+          "name": "Arctic Lake",
+          "url": "https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6"
+        }
+      ],
+      "duration_ms": 286186,
+      "name": "What Have You Done To Me?",
+      "url": "https://open.spotify.com/track/6Y1i876TjV3Gmf9eUIs8Fw"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/0Hnl1IyMwvwT3ieAqR1fSa"
-      },
-      "artists": [
-        {
-          "name": "Fantom '87",
-          "url": "https://open.spotify.com/artist/2T4w33dLBJyXVZugL5ZrwU"
-        }
-      ],
-      "duration_ms": 353407,
-      "name": "Pay Phone",
-      "url": "https://open.spotify.com/track/6udA6tzAZ2bolSfaSibQEV"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Pacer",
         "url": "https://open.spotify.com/album/37phnoxKPcmDZ0rxmC5hZw"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 189677,
       "name": "Luscious Rain",
       "url": "https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/0Hnl1IyMwvwT3ieAqR1fSa"
+      },
+      "artists": [
+        {
+          "name": "Fantom '87",
+          "url": "https://open.spotify.com/artist/2T4w33dLBJyXVZugL5ZrwU"
+        }
+      ],
+      "duration_ms": 353407,
+      "name": "Pay Phone",
+      "url": "https://open.spotify.com/track/6udA6tzAZ2bolSfaSibQEV"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -747,6 +747,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "Where Will You Be Spending Eternity?",
+        "url": "https://open.spotify.com/album/13iR44I1vESNGv6QTn4Wwi"
+      },
+      "artists": [
+        {
+          "name": "Francis Inferno Orchestra",
+          "url": "https://open.spotify.com/artist/3OOEKzLNBzkeQWCKun4UXe"
+        }
+      ],
+      "duration_ms": 314445,
+      "name": "Harmony - Original Mix",
+      "url": "https://open.spotify.com/track/1sWLKYeMhFOUd7QjVbxbK3"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "It's Just A Silly Phase I'm Going Through",
         "url": "https://open.spotify.com/album/3pCNvytAktBWfslmbpow5H"
       },
@@ -763,18 +779,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Where Will You Be Spending Eternity?",
-        "url": "https://open.spotify.com/album/13iR44I1vESNGv6QTn4Wwi"
+        "name": "Hold Me To The Light",
+        "url": "https://open.spotify.com/album/0Z9BaFHQjPMDOwAUXh32zI"
       },
       "artists": [
         {
-          "name": "Francis Inferno Orchestra",
-          "url": "https://open.spotify.com/artist/3OOEKzLNBzkeQWCKun4UXe"
+          "name": "KAS:ST",
+          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
         }
       ],
-      "duration_ms": 314445,
-      "name": "Harmony - Original Mix",
-      "url": "https://open.spotify.com/track/1sWLKYeMhFOUd7QjVbxbK3"
+      "duration_ms": 474142,
+      "name": "The Hymn Of Fallen Dreams",
+      "url": "https://open.spotify.com/track/5o6XskFbO8jYabXJZIah8l"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -795,22 +811,6 @@
       "duration_ms": 420465,
       "name": "What I Saw That Night",
       "url": "https://open.spotify.com/track/4ApOByOlG6mFtAtn7TjEs1"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "Hold Me To The Light",
-        "url": "https://open.spotify.com/album/0Z9BaFHQjPMDOwAUXh32zI"
-      },
-      "artists": [
-        {
-          "name": "KAS:ST",
-          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
-        }
-      ],
-      "duration_ms": 474142,
-      "name": "The Hymn Of Fallen Dreams",
-      "url": "https://open.spotify.com/track/5o6XskFbO8jYabXJZIah8l"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Find Myself EP",
-        "url": "https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b"
-      },
-      "artists": [
-        {
-          "name": "Danny B",
-          "url": "https://open.spotify.com/artist/1tTPp6zfAgJuXzLG7okW3B"
-        }
-      ],
-      "duration_ms": 364579,
-      "name": "Raw Charmer",
-      "url": "https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Dazed & Confused",
         "url": "https://open.spotify.com/album/5ELUDL08pgSVM1FmpWlJP2"
       },
@@ -939,22 +923,6 @@
       "duration_ms": 223060,
       "name": "Opal Waltz",
       "url": "https://open.spotify.com/track/5rHTvJCwN2D4sLrqwAVorG"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
-        "name": "WWDKF",
-        "url": "https://open.spotify.com/album/1PZ4lKDTSi66OmL8plZEfM"
-      },
-      "artists": [
-        {
-          "name": "Pilotpriest",
-          "url": "https://open.spotify.com/artist/6WedqgL53vbco33SU3sVAX"
-        }
-      ],
-      "duration_ms": 344470,
-      "name": "Archive Seven",
-      "url": "https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -975,6 +943,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
+        "name": "WWDKF",
+        "url": "https://open.spotify.com/album/1PZ4lKDTSi66OmL8plZEfM"
+      },
+      "artists": [
+        {
+          "name": "Pilotpriest",
+          "url": "https://open.spotify.com/artist/6WedqgL53vbco33SU3sVAX"
+        }
+      ],
+      "duration_ms": 344470,
+      "name": "Archive Seven",
+      "url": "https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
         "name": "Miracle Of The Rose EP",
         "url": "https://open.spotify.com/album/2RqPo78ZB3Ln3i7TQPUcaC"
       },
@@ -987,6 +971,38 @@
       "duration_ms": 331486,
       "name": "Miracle Of The Rose",
       "url": "https://open.spotify.com/track/3Tw7T1en0fIwM5RzKPVvCi"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Find Myself EP",
+        "url": "https://open.spotify.com/album/5Gc6QWBtKKNUpLObp9Rq6b"
+      },
+      "artists": [
+        {
+          "name": "Danny B",
+          "url": "https://open.spotify.com/artist/1tTPp6zfAgJuXzLG7okW3B"
+        }
+      ],
+      "duration_ms": 364579,
+      "name": "Raw Charmer",
+      "url": "https://open.spotify.com/track/6lS2kTYNUCVwOsyBAIUq3s"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "After & Before EP",
+        "url": "https://open.spotify.com/album/1p14a0p8X9STKt6yYncrAf"
+      },
+      "artists": [
+        {
+          "name": "Trickski",
+          "url": "https://open.spotify.com/artist/62ODIfRSB2K4w7GdBEFhKm"
+        }
+      ],
+      "duration_ms": 455528,
+      "name": "Pill Collins",
+      "url": "https://open.spotify.com/track/6tb0FandMz53RXzHTwh6XS"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1015,18 +1031,22 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "After & Before EP",
-        "url": "https://open.spotify.com/album/1p14a0p8X9STKt6yYncrAf"
+        "name": "Dance Machine",
+        "url": "https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn"
       },
       "artists": [
         {
-          "name": "Trickski",
-          "url": "https://open.spotify.com/artist/62ODIfRSB2K4w7GdBEFhKm"
+          "name": "Stereoclip",
+          "url": "https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL"
+        },
+        {
+          "name": "Jim Henderson",
+          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
         }
       ],
-      "duration_ms": 455528,
-      "name": "Pill Collins",
-      "url": "https://open.spotify.com/track/6tb0FandMz53RXzHTwh6XS"
+      "duration_ms": 340100,
+      "name": "Dance Machine - Original Mix",
+      "url": "https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1047,22 +1067,18 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Dance Machine",
-        "url": "https://open.spotify.com/album/5F2iDQN8FGSAT8Qis3uVjn"
+        "name": "Aerial",
+        "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
       },
       "artists": [
         {
-          "name": "Stereoclip",
-          "url": "https://open.spotify.com/artist/4x2Ejyd2OGXtZrPvAQWvYL"
-        },
-        {
-          "name": "Jim Henderson",
-          "url": "https://open.spotify.com/artist/0MXiMSXku6aYHyNgXtT9MG"
+          "name": "P\u00e9pe",
+          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
         }
       ],
-      "duration_ms": 340100,
-      "name": "Dance Machine - Original Mix",
-      "url": "https://open.spotify.com/track/15Xi6tukR3x3rl6XcY8Pb7"
+      "duration_ms": 369714,
+      "name": "As Long as There's Sunset",
+      "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Aerial",
-        "url": "https://open.spotify.com/album/3uV2tuCayo5bl19yAPav89"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9pe",
-          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
-        }
-      ],
-      "duration_ms": 369714,
-      "name": "As Long as There's Sunset",
-      "url": "https://open.spotify.com/track/5eQ2YObncpEg7yizNJFQsW"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Kill Frenzy",
         "url": "https://open.spotify.com/album/5K9V9bm1Bn9xVviaCP5f0w"
       },
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Vasudeva",
-        "url": "https://open.spotify.com/album/0MonXllNzp5GeLEGopQE5G"
-      },
-      "artists": [
-        {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
-        }
-      ],
-      "duration_ms": 376720,
-      "name": "Vasudeva",
-      "url": "https://open.spotify.com/track/7j3zDLa2WRzvNdaYfriFMy"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "like me",
         "url": "https://open.spotify.com/album/3b5GMe23M4eZ8uqOplgPup"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 311186,
       "name": "like me",
       "url": "https://open.spotify.com/track/6CJwIcJNQStg1cgRBMLM76"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Vasudeva",
+        "url": "https://open.spotify.com/album/0MonXllNzp5GeLEGopQE5G"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "duration_ms": 376720,
+      "name": "Vasudeva",
+      "url": "https://open.spotify.com/track/7j3zDLa2WRzvNdaYfriFMy"
     },
     {
       "added_at": "2022-07-15 17:34:15",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-07-15 17:34:15",
       "album": {
-        "name": "Frekk EP",
-        "url": "https://open.spotify.com/album/1OEm5cnudsYGee21Ic1nYE"
-      },
-      "artists": [
-        {
-          "name": "Async",
-          "url": "https://open.spotify.com/artist/5PZlBEt3wsD3kAw6i7Mz0t"
-        }
-      ],
-      "duration_ms": 474009,
-      "name": "Deepart 8.0",
-      "url": "https://open.spotify.com/track/1TmgIqBZJsMvs4p96tEWrI"
-    },
-    {
-      "added_at": "2022-07-15 17:34:15",
-      "album": {
         "name": "Backstabber EP",
         "url": "https://open.spotify.com/album/4wJgGNqo2pQtzSs4f0ZTmu"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 407038,
       "name": "Backstabber",
       "url": "https://open.spotify.com/track/0ZGTzeO2ZmFq0OEVcxMhgk"
+    },
+    {
+      "added_at": "2022-07-15 17:34:15",
+      "album": {
+        "name": "Frekk EP",
+        "url": "https://open.spotify.com/album/1OEm5cnudsYGee21Ic1nYE"
+      },
+      "artists": [
+        {
+          "name": "Async",
+          "url": "https://open.spotify.com/artist/5PZlBEt3wsD3kAw6i7Mz0t"
+        }
+      ],
+      "duration_ms": 474009,
+      "name": "Deepart 8.0",
+      "url": "https://open.spotify.com/track/1TmgIqBZJsMvs4p96tEWrI"
     },
     {
       "added_at": "2022-07-15 17:34:15",

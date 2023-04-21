@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Liricistas & Utopiko.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,268 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,282 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 34 | [Nuevo Comienzo](https://open.spotify.com/track/2wDbuMncsJJm6LbExT4HEC) | [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS), [Portavoz](https://open.spotify.com/artist/271TPCWy79Q4utmSP6uSQg) | [Pasado, Presente & Libertad](https://open.spotify.com/album/1OFFDDBuRek7hFHF95KAbq) | 3:15 |
 | 35 | [Semilla](https://open.spotify.com/track/5jIhasjpf5Wf9aiZncqq6N) | [Tiro De Gracia](https://open.spotify.com/artist/3yIbPI61iAhMptDnfnyScb) | [Semilla](https://open.spotify.com/album/4QqjRVnG1fOYR4UhI9i4Gl) | 3:36 |
 | 36 | [Rebelión de Octubre](https://open.spotify.com/track/18KlviWQU3bDCVDWCVdZXb) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz), [MC Millaray](https://open.spotify.com/artist/3BMneIOFMaeXTeJwv1ZtK9) | [Rebelión de Octubre](https://open.spotify.com/album/1UNMUP2Bx2bj6GxbxnPYCs) | 4:07 |
-| 37 | [Ca](https://open.spotify.com/track/17k3dBGW9qrP7UXJ2XSE2T) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Ca](https://open.spotify.com/album/0VU6LPLQmyq8lLaaOHYT2l) | 2:50 |
+| 37 | [Ca](https://open.spotify.com/track/0tl9MlhSFXuMwUWBnNFGcR) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Ca](https://open.spotify.com/album/6fDR0RJVdU9ih9DiRpRtoX) | 2:50 |
 | 38 | [Se Armo El Kilombo](https://open.spotify.com/track/2knPIRlPOjKwGgtqic9Khp) | [Omega El CTM](https://open.spotify.com/artist/0tXcalxqLUWMRZVfj1xtkP), [Estrellas del Porno](https://open.spotify.com/artist/71Wh74AX7GvBUWVf7qJUux), [Dj Akrylik](https://open.spotify.com/artist/4DpQwUtMbnw1jVj8Luu32p) | [Se Armo El Kilombo](https://open.spotify.com/album/593EzuccSrfI8AU57QSW6s) | 3:48 |
 | 39 | [III Figura](https://open.spotify.com/track/7aukVJcUSYzvbpyP3LhZwN) | [Como Asesinar a Felipes](https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds) | [III Figura](https://open.spotify.com/album/4zgFIrq7Nxsc5M3GDeax1d) | 3:32 |
 | 40 | [Sexy](https://open.spotify.com/track/0w7gzat7AEj3xGjoQCfrkW) | [Gran Rah](https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ), [Negro Sambo](https://open.spotify.com/artist/44D02T0aBZrnN7GKfB3VUk) | [Sexy](https://open.spotify.com/album/58slgS3KlNBeOWAr7iEPrs) | 4:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 99 | [Sexy \- Remix](https://open.spotify.com/track/50B6OT1umN4KL8OmMbLeWe) | [Gran Rah](https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ), [Negro Sambo](https://open.spotify.com/artist/44D02T0aBZrnN7GKfB3VUk), [Shamanes Crew](https://open.spotify.com/artist/6J9Vq69rGl3fJftWDT8jaK) | [Sexy \(Remix\)](https://open.spotify.com/album/4xrkMnRR2GeIhJBlcPe8Qf) | 4:43 |
 | 100 | [Lucha](https://open.spotify.com/track/3wMvE0XAID6AIP13rJedQ6) | [AKACATS](https://open.spotify.com/artist/5SaHvzTtCZQHeRjbUsJq1X), [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS) | [Lucha](https://open.spotify.com/album/6gRDacwclCBvNamgOgKCa6) | 3:26 |
 
-Snapshot ID: `MTY4MDgzNjQwMCwwMDAwMDAwMGEwOTExMTQ2ZGUwOGI2NTU1NjhjYjZhYTliYmMyM2Y1`
+Snapshot ID: `MTY4MDgzNjQwMCwwMDAwMDAwMGNkN2UwYjlhYjFiY2EzNWI1MGNiNTZjOGQ4OTJmYTE5`

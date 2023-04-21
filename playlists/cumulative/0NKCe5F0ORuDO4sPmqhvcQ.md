@@ -4,12 +4,13 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-435 songs - 1 day 0 hr 24 min
+437 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10/10](https://open.spotify.com/track/61AvmHxUtaEOUK8GSb9cbK) | [R.C.D.](https://open.spotify.com/artist/0FrdFfkE81gnXdYbf5Do3Q) | [SARINE QUAZAR](https://open.spotify.com/album/6WQaXDhkwu1AuvMQxOTb9l) | 4:06 | 2022-03-11 | 2022-04-19 |
 | [1000 \(feat\. CP\)](https://open.spotify.com/track/3CejJ593Dg54c4m8NlSpto) | [Très Mortimer](https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7), [CP](https://open.spotify.com/artist/4yyJIkmo80mhEQXr8DF2ub) | [1000 \(feat\. CP\)](https://open.spotify.com/album/6svs8n6epi8U1u6xhENItF) | 2:50 | 2022-01-28 | 2022-02-16 |
+| [1x1](https://open.spotify.com/track/3sL923OLO2SfZWwz6Eu59M) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [1x1](https://open.spotify.com/album/6JTEvvAjCkAMPlFuuTMIbv) | 3:24 | 2023-04-20 |  |
 | [222](https://open.spotify.com/track/2aFaDxU5b4aRxOKrTRuA0v) | [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [222](https://open.spotify.com/album/5v4pzv7O0Ye6dKobqXgMg5) | 3:28 | 2022-09-18 |  |
 | [3AM IN CHELSEA](https://open.spotify.com/track/78Y0MDNQJea7OsrUpcatF2) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [DIAMOND TAPE](https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P) | 4:06 | 2022-02-28 | 2022-04-26 |
 | [3AM IN CHELSEA \- Club Edit](https://open.spotify.com/track/1y907js7DgPzTwe2w7P2c1) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [3AM IN CHELSEA \(Club Edit\)](https://open.spotify.com/album/0Pjbs4N6KLan9GQ3gzaPnL) | 5:34 | 2022-04-25 | 2023-01-30 |
@@ -62,6 +63,7 @@
 | [bowl \- live](https://open.spotify.com/track/7ulbzUYHu6nJNHVjxY56rK) | [Aisa](https://open.spotify.com/artist/0YBEhX6xbkcMuhH3OD6D9L) | [bowl \(live\)](https://open.spotify.com/album/7ceeIAPMjnn0Uce7XPd01V) | 2:35 | 2022-02-01 | 2022-02-16 |
 | [Breath of Fresh Air](https://open.spotify.com/track/0ikr85ckI4rmk5iEnLjweB) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Breath of Fresh Air](https://open.spotify.com/album/17CEhenABEIxCElZiKiTYp) | 3:31 | 2022-02-11 | 2022-03-10 |
 | [Breathing](https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Breathing](https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42) | 3:42 | 2022-01-18 | 2022-02-05 |
+| [Broken](https://open.spotify.com/track/7zQ1BkyTeFduOLwofN51Je) | [Covex](https://open.spotify.com/artist/2BlB5MW4WdyyglpczlQ6Mm) | [Broken](https://open.spotify.com/album/3bQWBdE0psnZHqkCqqKfcS) | 3:16 | 2023-04-20 |  |
 | [Brothers](https://open.spotify.com/track/1lot66VQeVUqsFdy7Lsfbd) | [Pritty](https://open.spotify.com/artist/1vJZhbUzq6DxjIxtikFk1v) | [Black Zebra](https://open.spotify.com/album/5bYDboirUS3rp1FhFSVcqE) | 2:50 | 2021-11-23 | 2022-02-05 |
 | [Burning](https://open.spotify.com/track/3igWrJSeQD4HGqmyoYRnNP) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [Burning](https://open.spotify.com/album/2tOVEx5H7eELyXIKs8Eweo) | 2:59 | 2022-01-18 | 2022-02-16 |
 | [Bury Me in Leather](https://open.spotify.com/track/1UOKmBLABOg9weXxIYM6oB) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy) | [Bury Me in Leather](https://open.spotify.com/album/3Dvdh7oOswePpcRafceHcj) | 2:46 | 2023-01-25 |  |

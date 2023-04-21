@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwMzE3ODMsMDAwMDAwMDBhYzgyYmMwNjg5MzZiMmMxMjY4OTMwZjY2ZTFhMGJiZA==",
+  "snapshot_id": "MjgwMzMyMzUsMDAwMDAwMDA0YjZlNjM4M2MyYjRlMGIyMzgyMjZjYjA1ODI0ZDBiMg==",
   "tracks": [
     {
-      "added_at": "2023-04-19 12:23:38",
+      "added_at": "2023-04-20 12:35:09",
       "album": {
         "name": "Illusion Of Time (Teodor Wolgers Rework)",
         "url": "https://open.spotify.com/album/0yF4JzJ0a96qaWLLhE9zcp"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/6uZ7HlryD5c0IU65ANbaj2"
     },
     {
-      "added_at": "2023-04-19 12:23:38",
+      "added_at": "2023-04-20 12:35:09",
       "album": {
         "name": "Iniziare",
         "url": "https://open.spotify.com/album/0slaiqzIOB4yT6UlSPdC8S"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/4SgUoGv3RlcMF4Vpm0Jp5i"
     },
     {
-      "added_at": "2023-04-19 12:23:38",
+      "added_at": "2023-04-20 12:35:09",
       "album": {
         "name": "Illusion Of Time",
         "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
@@ -69,7 +69,23 @@
       "url": "https://open.spotify.com/track/0iNQjPzuYEexBAsPSsKvnO"
     },
     {
-      "added_at": "2023-04-19 12:23:38",
+      "added_at": "2023-04-20 12:35:09",
+      "album": {
+        "name": "Bushido (Alessandro Cortini Re-Work)",
+        "url": "https://open.spotify.com/album/4bKDoYcDByQOhJvqoNgOsE"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 259120,
+      "name": "Bushido (Alessandro Cortini Re-Work)",
+      "url": "https://open.spotify.com/track/00McKa13pdr3JQIaMHtsW6"
+    },
+    {
+      "added_at": "2023-04-20 12:35:09",
       "album": {
         "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
@@ -93,23 +109,7 @@
       "url": "https://open.spotify.com/track/21CJdaJkRDMz2UA3tNxORl"
     },
     {
-      "added_at": "2023-04-19 12:23:38",
-      "album": {
-        "name": "Bushido (Alessandro Cortini Re-Work)",
-        "url": "https://open.spotify.com/album/4bKDoYcDByQOhJvqoNgOsE"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 259120,
-      "name": "Bushido (Alessandro Cortini Re-Work)",
-      "url": "https://open.spotify.com/track/00McKa13pdr3JQIaMHtsW6"
-    },
-    {
-      "added_at": "2023-04-19 12:23:38",
+      "added_at": "2023-04-20 12:35:09",
       "album": {
         "name": "Scacco al Maestro - Volume 2",
         "url": "https://open.spotify.com/album/67xUiBAxO2Mri7wxHd2Ulz"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/1yicvjJVBy78161FcNOXID"
     },
     {
-      "added_at": "2023-04-19 12:23:38",
+      "added_at": "2023-04-20 12:35:09",
       "album": {
         "name": "Illusion Of Time",
         "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
@@ -149,7 +149,23 @@
       "url": "https://open.spotify.com/track/0kkV16AVMLlMt5tMYZEM2H"
     },
     {
-      "added_at": "2023-04-19 12:23:38",
+      "added_at": "2023-04-20 12:35:09",
+      "album": {
+        "name": "Perdonare",
+        "url": "https://open.spotify.com/album/7m96tEGvDuA7bpuqsLHl1E"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 292517,
+      "name": "Perdonare",
+      "url": "https://open.spotify.com/track/0VkyEqTvoq7OA0pC4aBSgG"
+    },
+    {
+      "added_at": "2023-04-20 12:35:09",
       "album": {
         "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
@@ -173,23 +189,7 @@
       "url": "https://open.spotify.com/track/3KEKkaN5ZeKhFokaWtbPae"
     },
     {
-      "added_at": "2023-04-19 12:23:38",
-      "album": {
-        "name": "Perdonare",
-        "url": "https://open.spotify.com/album/7m96tEGvDuA7bpuqsLHl1E"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 292517,
-      "name": "Perdonare",
-      "url": "https://open.spotify.com/track/0VkyEqTvoq7OA0pC4aBSgG"
-    },
-    {
-      "added_at": "2023-04-19 12:23:38",
+      "added_at": "2023-04-20 12:35:09",
       "album": {
         "name": "Immediate Horizon",
         "url": "https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/2V1cuZ6Hn8CxRWaKFOANNs"
     },
     {
-      "added_at": "2023-04-19 12:23:38",
+      "added_at": "2023-04-20 12:35:09",
       "album": {
         "name": "Illusion Of Time",
         "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
@@ -229,7 +229,23 @@
       "url": "https://open.spotify.com/track/2piqRx94EW1ZC6jIcct63N"
     },
     {
-      "added_at": "2023-04-19 12:23:38",
+      "added_at": "2023-04-20 12:35:09",
+      "album": {
+        "name": "Vincere",
+        "url": "https://open.spotify.com/album/0QOiZ7kmSuZ1FwsDYxYr93"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 447883,
+      "name": "Vincere",
+      "url": "https://open.spotify.com/track/2bCJY4qvQtBKa6r47i2vem"
+    },
+    {
+      "added_at": "2023-04-20 12:35:09",
       "album": {
         "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
@@ -253,23 +269,7 @@
       "url": "https://open.spotify.com/track/5oblJwpXzETf1DGPAeXXOg"
     },
     {
-      "added_at": "2023-04-19 12:23:38",
-      "album": {
-        "name": "Vincere",
-        "url": "https://open.spotify.com/album/0QOiZ7kmSuZ1FwsDYxYr93"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 447883,
-      "name": "Vincere",
-      "url": "https://open.spotify.com/track/2bCJY4qvQtBKa6r47i2vem"
-    },
-    {
-      "added_at": "2023-04-19 12:23:38",
+      "added_at": "2023-04-20 12:35:09",
       "album": {
         "name": "Immediate Horizon",
         "url": "https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/6smKelrD4IAbrF2APLgoEe"
     },
     {
-      "added_at": "2023-04-19 12:23:38",
+      "added_at": "2023-04-20 12:35:09",
       "album": {
         "name": "Illusion Of Time",
         "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
@@ -309,7 +309,27 @@
       "url": "https://open.spotify.com/track/5fQUBfDG5EZB5GcyiX8bRE"
     },
     {
-      "added_at": "2023-04-19 12:23:38",
+      "added_at": "2023-04-20 12:35:09",
+      "album": {
+        "name": "Hydra",
+        "url": "https://open.spotify.com/album/3qABNj1U8xKRORwWRkLEuw"
+      },
+      "artists": [
+        {
+          "name": "Roll the Dice",
+          "url": "https://open.spotify.com/artist/64Ub5tUgRolfKc6HgoSEzv"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 361806,
+      "name": "Hydra",
+      "url": "https://open.spotify.com/track/4O8FJIzm4sVtbs7bKvbN1j"
+    },
+    {
+      "added_at": "2023-04-20 12:35:09",
       "album": {
         "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
@@ -333,27 +353,7 @@
       "url": "https://open.spotify.com/track/3BPYSSsURFB3PHfn8VKx3I"
     },
     {
-      "added_at": "2023-04-19 12:23:38",
-      "album": {
-        "name": "Hydra",
-        "url": "https://open.spotify.com/album/3qABNj1U8xKRORwWRkLEuw"
-      },
-      "artists": [
-        {
-          "name": "Roll the Dice",
-          "url": "https://open.spotify.com/artist/64Ub5tUgRolfKc6HgoSEzv"
-        },
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 361806,
-      "name": "Hydra",
-      "url": "https://open.spotify.com/track/4O8FJIzm4sVtbs7bKvbN1j"
-    },
-    {
-      "added_at": "2023-04-19 12:23:38",
+      "added_at": "2023-04-20 12:35:09",
       "album": {
         "name": "Nordic Flora Series, Pt. 3: Gore-Tex City",
         "url": "https://open.spotify.com/album/02y1isyvMiP2I0no5y14aU"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/4JcfBaIDwUqeIQVSw8m063"
     },
     {
-      "added_at": "2023-04-19 12:23:38",
+      "added_at": "2023-04-20 12:35:09",
       "album": {
         "name": "Illusion Of Time",
         "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
@@ -397,7 +397,27 @@
       "url": "https://open.spotify.com/track/7wuuqyvG8y72HPxoFIa2oc"
     },
     {
-      "added_at": "2023-04-19 12:23:38",
+      "added_at": "2023-04-20 12:35:09",
+      "album": {
+        "name": "Immediate Horizon",
+        "url": "https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Lawrence English",
+          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
+        }
+      ],
+      "duration_ms": 299196,
+      "name": "Immediate Horizon 1",
+      "url": "https://open.spotify.com/track/3FaAMSO4RytHjUQ2CKUprQ"
+    },
+    {
+      "added_at": "2023-04-20 12:35:09",
       "album": {
         "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
@@ -421,27 +441,7 @@
       "url": "https://open.spotify.com/track/1rfCCZxJcU1UA9oRfKLF8e"
     },
     {
-      "added_at": "2023-04-19 12:23:38",
-      "album": {
-        "name": "Immediate Horizon",
-        "url": "https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        },
-        {
-          "name": "Lawrence English",
-          "url": "https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI"
-        }
-      ],
-      "duration_ms": 299196,
-      "name": "Immediate Horizon 1",
-      "url": "https://open.spotify.com/track/3FaAMSO4RytHjUQ2CKUprQ"
-    },
-    {
-      "added_at": "2023-04-19 12:23:38",
+      "added_at": "2023-04-20 12:35:09",
       "album": {
         "name": "Baresi",
         "url": "https://open.spotify.com/album/0sBNgCtkmhq1eC7RR3UQ1y"
@@ -461,7 +461,7 @@
       "url": "https://open.spotify.com/track/3X0GKQRNLjVjNs3E5z695C"
     },
     {
-      "added_at": "2023-04-19 12:23:38",
+      "added_at": "2023-04-20 12:35:09",
       "album": {
         "name": "Illusion Of Time",
         "url": "https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi"
@@ -481,31 +481,7 @@
       "url": "https://open.spotify.com/track/7676v3sYbrRj3gMncWzuvg"
     },
     {
-      "added_at": "2023-04-19 12:23:38",
-      "album": {
-        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
-      },
-      "artists": [
-        {
-          "name": "Alain Johannes",
-          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
-        },
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        },
-        {
-          "name": "Norm Block",
-          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Black Hawks Down",
-      "url": "https://open.spotify.com/track/5SighFSFYzN69U4L7JhDLT"
-    },
-    {
-      "added_at": "2023-04-19 12:23:38",
+      "added_at": "2023-04-20 12:35:09",
       "album": {
         "name": "Immediate Horizon",
         "url": "https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2"
@@ -525,7 +501,31 @@
       "url": "https://open.spotify.com/track/5XGszMhQLTPpMhvL5Q3EaU"
     },
     {
-      "added_at": "2023-04-19 12:23:38",
+      "added_at": "2023-04-20 12:35:09",
+      "album": {
+        "name": "Tom Clancy's Ghost Recon Breakpoint (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO"
+      },
+      "artists": [
+        {
+          "name": "Alain Johannes",
+          "url": "https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C"
+        },
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        },
+        {
+          "name": "Norm Block",
+          "url": "https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm"
+        }
+      ],
+      "duration_ms": 118546,
+      "name": "Standing Vigilant",
+      "url": "https://open.spotify.com/track/0JbyJNFiUr6HHhJHYzYoga"
+    },
+    {
+      "added_at": "2023-04-20 12:35:09",
       "album": {
         "name": "Immediate Horizon",
         "url": "https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2"

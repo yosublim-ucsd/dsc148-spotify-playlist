@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS!! Cover: Brothers Osborne\n",
-  "num_followers": 537690,
+  "num_followers": 537651,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGJhY2U2MGMxYWJjN2ZkYjQ0ZTM3MTliZjI3MmZjYTg3",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDNiOTNhNDkwNmNjZTRmZjY5ZDMxZDM0ZWVmZDU3MmY2",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "That Lonesome Song",
-        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
-      },
-      "artists": [
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        }
-      ],
-      "duration_ms": 251960,
-      "name": "Between Jennings And Jones",
-      "url": "https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Gold Chain Cowboy",
         "url": "https://open.spotify.com/album/6uiblZVOgKdhYp96cSCtqu"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 201173,
       "name": "Wait Outside",
       "url": "https://open.spotify.com/track/3FemRrmhLglpUFS3qOijE2"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "That Lonesome Song",
+        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
+      },
+      "artists": [
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "duration_ms": 251960,
+      "name": "Between Jennings And Jones",
+      "url": "https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Never Change",
+        "url": "https://open.spotify.com/album/0c4zjlkdnOEYt5sfrLuJee"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        }
+      ],
+      "duration_ms": 190677,
+      "name": "Never Change",
+      "url": "https://open.spotify.com/track/6PuM7qkapYCJsN45KMMOwR"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Blame It On The Double (feat. Tyler Connolly of Theory of a Deadman & Jason Hook)",
         "url": "https://open.spotify.com/album/6WUx4f0koM9yb5bfLQcXNv"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 207229,
       "name": "Blame It On The Double (feat. Tyler Connolly of Theory of a Deadman & Jason Hook)",
       "url": "https://open.spotify.com/track/5u0VRvkQ9iklgcVw631pJu"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Never Change",
-        "url": "https://open.spotify.com/album/0c4zjlkdnOEYt5sfrLuJee"
-      },
-      "artists": [
-        {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        }
-      ],
-      "duration_ms": 190677,
-      "name": "Never Change",
-      "url": "https://open.spotify.com/track/6PuM7qkapYCJsN45KMMOwR"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 233973,
-      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
-      "url": "https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Brothers Osborne",
         "url": "https://open.spotify.com/album/7xiDBY4VdkEgAp5Ua60MBi"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 213826,
       "name": "Shoot From The Hip",
       "url": "https://open.spotify.com/track/4F880Aeo2WO7N0lULjWgzm"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5eByAKcHvykX4jCkS2004X"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 233973,
+      "name": "Rock and Roll, Hoochie Koo - Spotify Singles",
+      "url": "https://open.spotify.com/track/39vMw8qyI9ycXeuet3Jbbs"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Tabasco & Sweet Tea",
-        "url": "https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA"
-      },
-      "artists": [
-        {
-          "name": "The Cadillac Three",
-          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
-        }
-      ],
-      "duration_ms": 280065,
-      "name": "Tabasco & Sweet Tea",
-      "url": "https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "What Do I Know (feat. HARDY)",
         "url": "https://open.spotify.com/album/2hqjCJb0jLGNPyBjBV9WVJ"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 208418,
       "name": "What Do I Know (feat. HARDY)",
       "url": "https://open.spotify.com/track/2SncBUzb3UsejCoo4NHhtk"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Tabasco & Sweet Tea",
+        "url": "https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA"
+      },
+      "artists": [
+        {
+          "name": "The Cadillac Three",
+          "url": "https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x"
+        }
+      ],
+      "duration_ms": 280065,
+      "name": "Tabasco & Sweet Tea",
+      "url": "https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B"
     },
     {
       "added_at": "2023-04-14 04:00:00",

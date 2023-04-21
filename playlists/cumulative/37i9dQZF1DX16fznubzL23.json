@@ -198,7 +198,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
+      "date_removed": null,
       "duration_ms": 181348,
       "name": "Blues",
       "url": "https://open.spotify.com/track/6uoyzoymKumUx2oQwHvVd6"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 203800,
       "name": "I Wish It Was Me",
       "url": "https://open.spotify.com/track/3ghmdRTijueJLRzswc779P"
@@ -954,7 +954,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-09",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/3yVy2TK4A8pyGtzFFSzYhJ"
@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 209454,
       "name": "Kilode (In Particular)",
       "url": "https://open.spotify.com/track/0MCO9Iggfh5eB8N9lx0dvs"
@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 172342,
       "name": "Last Last",
       "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 187027,
       "name": "Lie Again",
       "url": "https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 225750,
       "name": "lonely forever",
       "url": "https://open.spotify.com/track/7367yPl8eNATrjThrwXq1l"
@@ -1610,7 +1610,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 275139,
       "name": "Omoge Mi",
       "url": "https://open.spotify.com/track/6xKWafFBzv9KGbWODuwQ0V"
@@ -1867,6 +1867,32 @@
     },
     {
       "album": {
+        "name": "SCAR",
+        "url": "https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5"
+      },
+      "artists": [
+        {
+          "name": "Song bird",
+          "url": "https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        },
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203333,
+      "name": "SCAR",
+      "url": "https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy"
+    },
+    {
+      "album": {
         "name": "Selling Dreams",
         "url": "https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL"
       },
@@ -1900,6 +1926,24 @@
       "duration_ms": 205131,
       "name": "Shattered",
       "url": "https://open.spotify.com/track/2ncseCYD6unNaUj3j05azH"
+    },
+    {
+      "album": {
+        "name": "Silly Nigga",
+        "url": "https://open.spotify.com/album/1wHUHtcfT6Rs7rV9vj9ung"
+      },
+      "artists": [
+        {
+          "name": "Kofee Bean",
+          "url": "https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175307,
+      "name": "Silly Nigga",
+      "url": "https://open.spotify.com/track/5A9jthOz2ZMepULTBPQACH"
     },
     {
       "album": {

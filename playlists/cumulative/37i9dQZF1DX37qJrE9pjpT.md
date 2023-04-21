@@ -4,7 +4,7 @@
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Joh Makini
 
-69 songs - 4 hr 0 min
+70 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [FOREVER](https://open.spotify.com/track/1MCRjYXjDAR0KN8M53wEZF) | [BROBYBROBY](https://open.spotify.com/artist/25hmf6xsH7GsnqIQQ88659), [T.D.E](https://open.spotify.com/artist/1LTFfykgqONFKCudCp0YIo) | [UGLYBEAST VOL III](https://open.spotify.com/album/5WsySNQ6Uy09QpdEcA63SS) | 3:17 | 2022-10-21 |  |
 | [Future Wife](https://open.spotify.com/track/1Yq6tM4AzDJKcUC1ziv9O8) | [Stamina Shorwebwenzi](https://open.spotify.com/artist/7vGp5tmuvQ5ku1Fh6d1UsV), [Mkwawa](https://open.spotify.com/artist/4RIy8pk0S2X84NZGn3Kgcc) | [Love Bite](https://open.spotify.com/album/2LFuHTgXhM3IQrX7BbN9uj) | 3:47 | 2022-07-08 |  |
 | [G E N E R A T I O N A L C U R S E S](https://open.spotify.com/track/023cszAO7MmPwBU5u3uNfJ) | [Leone](https://open.spotify.com/artist/4Y2tMbo5x9mEaRYSHyiuwP) | [G E N E R A T I O N A L C U R S E S](https://open.spotify.com/album/3dILSTrmz8JZDMXltQGYqS) | 4:14 | 2022-05-27 |  |
-| [Good Vibes Only](https://open.spotify.com/track/767sgj41tpoJkOjfbCer1W) | [Wednesdaytie](https://open.spotify.com/artist/46OoU9zEjI0CbVpQYozPYK) | [Good Vibes Only](https://open.spotify.com/album/0sCoGzxZQ9UgxPj2r0f0IO) | 3:24 | 2022-05-27 |  |
+| [Good Vibes Only](https://open.spotify.com/track/767sgj41tpoJkOjfbCer1W) | [Wednesdaytie](https://open.spotify.com/artist/46OoU9zEjI0CbVpQYozPYK) | [Good Vibes Only](https://open.spotify.com/album/0sCoGzxZQ9UgxPj2r0f0IO) | 3:24 | 2022-05-27 | 2023-04-21 |
 | [Hatuna Kesi](https://open.spotify.com/track/1eTNIIvyLFSuMB6kIlPhEE) | [Msodoki Young Killer](https://open.spotify.com/artist/0DL1WbE3Jyb5wyOKfYAxRn), [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Belle 9](https://open.spotify.com/artist/0b7i9eSFo4LpOALg7LKExh) | [Hatuna Kesi](https://open.spotify.com/album/2BQXiotfASO146JznwXpYb) | 3:14 | 2022-03-28 |  |
 | [Hatuna Kesi](https://open.spotify.com/track/19dPNBIshTozSYco9XvOc6) | [Young Killer](https://open.spotify.com/artist/33087Y6d4XZj4ZKaXlB6TW) | [Hatuna Kesi](https://open.spotify.com/album/4PcFiqKFwpzhAaTFI5OWRI) | 3:14 | 2022-03-28 | 2023-02-24 |
 | [Hobbies](https://open.spotify.com/track/0UwT5g5Y9i0CSS70QLAZaU) | [SAN AWARD](https://open.spotify.com/artist/2XSFwx92IDcFxGBcKghxKe) | [Hobbies](https://open.spotify.com/album/4iHVXzab9cNuWRPvyhiEVE) | 3:54 | 2022-09-02 | 2023-01-14 |
@@ -49,6 +49,7 @@
 | [Mzee Mbuzi](https://open.spotify.com/track/6q3XDuxrOftN7gb5ONJTt8) | [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Gifted](https://open.spotify.com/artist/5LEjFMfFZMUHqxJYye0xKp) | [Kitaaolojia](https://open.spotify.com/album/1UK4Xl5OjQdJZsI52ZBewB) | 3:36 | 2022-03-28 |  |
 | [Nesa Nesa](https://open.spotify.com/track/1lAx9q2mKqMHBUqQoSm5l0) | [Chin Bees](https://open.spotify.com/artist/4gIhwhkt6pLAUC8OQRoI6q) | [Nesa Nesa](https://open.spotify.com/album/0XeudDQ4NkZPijFWCVEybP) | 3:15 | 2022-03-28 | 2023-02-10 |
 | [O 2 the G Cypher](https://open.spotify.com/track/1ib32aj9wikMcH5paMNp9E) | [Sela Ninja](https://open.spotify.com/artist/6iqemSjNOiy7P6OEsbGTUS), [JawnRaw](https://open.spotify.com/artist/4bNirV1zXi9h0JP1wew94Q), [Defi Ant](https://open.spotify.com/artist/3G2mWYGQY79nhOkiQH9oFf), [Subtex](https://open.spotify.com/artist/4DtFulxlK1vJEwMLtz1pp3), [Jonathon Karabekian](https://open.spotify.com/artist/5B6XbfiXyPPbXmV8Foy7Zn), [nem r](https://open.spotify.com/artist/4ctcls1emJuy0L5TGDJrM0), [P\-Tah](https://open.spotify.com/artist/7yk0XpTOwg0Dhxequ5EtlM), [Plate Mdaijasho](https://open.spotify.com/artist/6asRW7Z2SVFaj6SZw65xuW), [Cody Nash](https://open.spotify.com/artist/3CvzptNJ6jW1r2kZaGGIWl), [Shazzy B](https://open.spotify.com/artist/4hoMkkezRc78CVqSy8ESJX) | [O 2 the G Cypher](https://open.spotify.com/album/5UWkAkFSjlEDvMay2tBwUH) | 7:51 | 2023-01-13 |  |
+| [ORIGHT](https://open.spotify.com/track/7mGUhdodjJtyTZobpLUANt) | [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [ORIGHT](https://open.spotify.com/album/3uozcnWR0UJO4Ilg6xqEm1) | 2:46 | 2023-04-20 |  |
 | [OWN BO$$](https://open.spotify.com/track/67oXagPoTbm4XivSJ17MIx) | [Akim Rubi](https://open.spotify.com/artist/2jUNGiVgRjY50lUHQFxWQ8) | [OWN BO$$](https://open.spotify.com/album/6szXz3RCn2BkNhL9C02Fme) | 2:02 | 2022-04-14 | 2023-01-21 |
 | [Penzi La Bando](https://open.spotify.com/track/0SxZTwQeZ8v2o7Y6bH7KEX) | [Weusi](https://open.spotify.com/artist/7eECTa41N0fSqdhZbIxcGK), [Khadija Kopa](https://open.spotify.com/artist/1s1TIAIKBdvHt03yUuKmqr) | [AIR WEUSI](https://open.spotify.com/album/5nejSaBxg7FugqcXWtOoNr) | 3:45 | 2022-03-28 | 2022-10-22 |
 | [PRAISE GOD](https://open.spotify.com/track/2PFhoFM8hDwXyMXVxtTZm1) | [Conrad Bubex](https://open.spotify.com/artist/4w8hRnEWibdMPZs4kd4MxW) | [PRAISE GOD](https://open.spotify.com/album/3V1KNGUw3RZNo3AX1rEoLm) | 3:12 | 2023-04-14 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b Vipra in cover",
+  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b Cover: iann dior in cover",
   "name": "sanguegiovane",
   "tracks": [
     {
@@ -872,7 +872,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 111235,
       "name": "Backrooms",
       "url": "https://open.spotify.com/track/1cEcfTBf5PwaZIuYFurscC"
@@ -1709,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "Come Quando Piove",
+        "url": "https://open.spotify.com/album/2RazpXsgzAePoyZpFa8zEq"
+      },
+      "artists": [
+        {
+          "name": "Candyvan",
+          "url": "https://open.spotify.com/artist/2FdQbKMXV59OJR3YE3KkrN"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145400,
+      "name": "Come Quando Piove",
+      "url": "https://open.spotify.com/track/1iC7pD4qkhnWX7nhgOufeU"
+    },
+    {
+      "album": {
         "name": "CONCERTO",
         "url": "https://open.spotify.com/album/7wkIY7ClF3gXIEXDauou57"
       },
@@ -2296,6 +2314,32 @@
       "duration_ms": 152786,
       "name": "don't come back",
       "url": "https://open.spotify.com/track/3RhyHYnYxuGnP8njFlNxHq"
+    },
+    {
+      "album": {
+        "name": "DON'T CRY",
+        "url": "https://open.spotify.com/album/4LDpCYR2cZQmXI0iC8sqTk"
+      },
+      "artists": [
+        {
+          "name": "Yans",
+          "url": "https://open.spotify.com/artist/0JMlv0THvYWc44fizfiVCX"
+        },
+        {
+          "name": "Fulgur",
+          "url": "https://open.spotify.com/artist/3AgppFtvLifix2HTKhGDiC"
+        },
+        {
+          "name": "Kunai",
+          "url": "https://open.spotify.com/artist/1meu0gJt7jU6ltCO5eYz1J"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152129,
+      "name": "DON'T CRY",
+      "url": "https://open.spotify.com/track/2b0LaxHKMrukK0EHBF7Z4p"
     },
     {
       "album": {
@@ -3026,7 +3070,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 182500,
       "name": "Fottuta Met\u00e0",
       "url": "https://open.spotify.com/track/2DEKLuq7DbIF74ZfHauwhI"
@@ -3848,7 +3892,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 197647,
       "name": "I Pi\u00f9 Strani",
       "url": "https://open.spotify.com/track/6r18ZkrA6zKHvz3Gi6jP58"
@@ -4608,7 +4652,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 175997,
       "name": "lonely bitch",
       "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
@@ -6683,6 +6727,32 @@
     },
     {
       "album": {
+        "name": "RISPOSTA",
+        "url": "https://open.spotify.com/album/4yEzQJWaRVby77Eas0bWfa"
+      },
+      "artists": [
+        {
+          "name": "Cherry Ills",
+          "url": "https://open.spotify.com/artist/2xltT1bsHxP4ogBIoaqIS3"
+        },
+        {
+          "name": "Thoma XLV",
+          "url": "https://open.spotify.com/artist/7apbbzVxzvDJQAFTT7Rdrg"
+        },
+        {
+          "name": "tommi",
+          "url": "https://open.spotify.com/artist/7Dm4WSJBiAnfUi5fsqSboi"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171529,
+      "name": "RISPOSTA",
+      "url": "https://open.spotify.com/track/6pqQLdlYeEFcSDH0hxhyL5"
+    },
+    {
+      "album": {
         "name": "rituale",
         "url": "https://open.spotify.com/album/1hLXOwH9aQ0UqSuCUDDJDY"
       },
@@ -7390,7 +7460,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 190137,
       "name": "Shelter (feat. Avril Lavigne)",
       "url": "https://open.spotify.com/track/62pC4mgtn2CwTxEHVbCCvn"
@@ -7999,6 +8069,24 @@
     },
     {
       "album": {
+        "name": "leave me where you found me",
+        "url": "https://open.spotify.com/album/5ErAWZUiPinYqoryslUsFy"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "start again",
+      "url": "https://open.spotify.com/track/3pkacg4CSnP4i0K907SODj"
+    },
+    {
+      "album": {
         "name": "STOCCOLMA",
         "url": "https://open.spotify.com/album/0sctf7X3nBVx3d2yIznyXD"
       },
@@ -8130,7 +8218,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 181801,
       "name": "Stupida scusa",
       "url": "https://open.spotify.com/track/23LV89m2teIc59m3lejM2a"
@@ -8626,7 +8714,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 215163,
       "name": "Tissues",
       "url": "https://open.spotify.com/track/0jRY4XO556pn1zHZAoY3ph"

@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 122098,
+  "num_followers": 122116,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYxMzQ4MCwwMDAwMDAwMDJiMzIxMDEyMDdkNGYyYzJiN2E1MDM4NGY1OTAwYmZh",
+  "snapshot_id": "MTY3NjYxMzQ4MCwwMDAwMDAwMDA0ZmJmNGZmOThlMWE0Yjc1MTU0MDQ3ZjViZTVlYTI3",
   "tracks": [
     {
       "added_at": "2023-02-17 05:58:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Amor Ardiente (Bolivia y Su Folklore)",
-        "url": "https://open.spotify.com/album/28ekMoSZk09F8bWYeO3O2c"
-      },
-      "artists": [
-        {
-          "name": "Maya Andina",
-          "url": "https://open.spotify.com/artist/3Rd5uZJK7LV9xnCDIsUxYU"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Tiwanacu",
-      "url": "https://open.spotify.com/track/3NO8H307ShIWN71ifxTnAN"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 224333,
       "name": "Solo",
       "url": "https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Amor Ardiente (Bolivia y Su Folklore)",
+        "url": "https://open.spotify.com/album/28ekMoSZk09F8bWYeO3O2c"
+      },
+      "artists": [
+        {
+          "name": "Maya Andina",
+          "url": "https://open.spotify.com/artist/3Rd5uZJK7LV9xnCDIsUxYU"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Tiwanacu",
+      "url": "https://open.spotify.com/track/3NO8H307ShIWN71ifxTnAN"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Mezcla",
-        "url": "https://open.spotify.com/album/4Eq9kFfrgL1LL3mslSKwKa"
-      },
-      "artists": [
-        {
-          "name": "M.A.K.U SoundSystem",
-          "url": "https://open.spotify.com/artist/1XvVZZxpcgZw7MUG5BIUJh"
-        }
-      ],
-      "duration_ms": 351173,
-      "name": "De Barrio",
-      "url": "https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
         "name": "A Journey To The Andes",
         "url": "https://open.spotify.com/album/5z3wwXWdl5P7lNsZ1jTS9P"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 296560,
       "name": "Cacharpaya Del Indio",
       "url": "https://open.spotify.com/track/01faYqKRsEL1LnJa78gkfu"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "Mezcla",
+        "url": "https://open.spotify.com/album/4Eq9kFfrgL1LL3mslSKwKa"
+      },
+      "artists": [
+        {
+          "name": "M.A.K.U SoundSystem",
+          "url": "https://open.spotify.com/artist/1XvVZZxpcgZw7MUG5BIUJh"
+        }
+      ],
+      "duration_ms": 351173,
+      "name": "De Barrio",
+      "url": "https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -703,6 +703,22 @@
       "duration_ms": 208170,
       "name": "Arriba Quemando el Sol",
       "url": "https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw"
+    },
+    {
+      "added_at": "2023-02-17 05:58:00",
+      "album": {
+        "name": "T\u00fa Me Llevas",
+        "url": "https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0"
+      },
+      "artists": [
+        {
+          "name": "MO\u00dcGLI",
+          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
+        }
+      ],
+      "duration_ms": 263650,
+      "name": "T\u00fa Me Llevas",
+      "url": "https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -735,22 +751,6 @@
       "duration_ms": 162168,
       "name": "Sajsahuaman",
       "url": "https://open.spotify.com/track/4kRLMCyV87XE573Iocaqpp"
-    },
-    {
-      "added_at": "2023-02-17 05:58:00",
-      "album": {
-        "name": "T\u00fa Me Llevas",
-        "url": "https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0"
-      },
-      "artists": [
-        {
-          "name": "MO\u00dcGLI",
-          "url": "https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9"
-        }
-      ],
-      "duration_ms": 263650,
-      "name": "T\u00fa Me Llevas",
-      "url": "https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y"
     },
     {
       "added_at": "2023-02-17 05:58:00",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-02-17 05:58:00",
       "album": {
-        "name": "Morena Esperanza (Remasterizado)",
-        "url": "https://open.spotify.com/album/5XKPz8xM5PTS5vzaC7gyrY"
+        "name": "Eso Que Tu Haces",
+        "url": "https://open.spotify.com/album/4JGmH3z4Hr3xhUEWvnAqz7"
       },
       "artists": [
         {
-          "name": "Illapu",
-          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
         }
       ],
-      "duration_ms": 266080,
-      "name": "Isla Negra",
-      "url": "https://open.spotify.com/track/4HK6iuNDF0SC5Vz7jznprn"
+      "duration_ms": 273067,
+      "name": "Eso Que Tu Haces",
+      "url": "https://open.spotify.com/track/3KXaCW6XnAJnon4VwwVJWY"
     }
   ],
   "unique_name": "Entre los Andes",

@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 524,
+  "num_followers": 530,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NDc2Njc0MCwwMDAwMDAwMGQyNzYwMzRmZjQ1OTljNjA3NjNiOGVmMmIzNDg4NzUw",
+  "snapshot_id": "MTY3NDc2Njc0MCwwMDAwMDAwMGRmMjllZmY5NGZlMDNkYzZlOGQyYTIyOTE1ZjJhYzk3",
   "tracks": [
     {
       "added_at": "2023-01-13 14:02:52",
@@ -577,6 +577,22 @@
       "url": "https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0"
     },
     {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Wulira Omuziki",
+        "url": "https://open.spotify.com/album/2BZawSxeREkP2C2oQnOIrM"
+      },
+      "artists": [
+        {
+          "name": "Eezzy",
+          "url": "https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL"
+        }
+      ],
+      "duration_ms": 196205,
+      "name": "Wulira Omuziki",
+      "url": "https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O"
+    },
+    {
       "added_at": "2022-07-29 06:06:22",
       "album": {
         "name": "Bikole",
@@ -617,22 +633,6 @@
       "url": "https://open.spotify.com/track/5KaGzEZXtr2tBRoTYkxihk"
     },
     {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Wulira Omuziki",
-        "url": "https://open.spotify.com/album/2BZawSxeREkP2C2oQnOIrM"
-      },
-      "artists": [
-        {
-          "name": "Eezzy",
-          "url": "https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL"
-        }
-      ],
-      "duration_ms": 196205,
-      "name": "Wulira Omuziki",
-      "url": "https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O"
-    },
-    {
       "added_at": "2022-06-28 08:35:51",
       "album": {
         "name": "LIFIST",
@@ -669,6 +669,22 @@
       "url": "https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM"
     },
     {
+      "added_at": "2022-10-06 21:00:00",
+      "album": {
+        "name": "Nsudiya",
+        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
+      },
+      "artists": [
+        {
+          "name": "Aroma Music",
+          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
+        }
+      ],
+      "duration_ms": 165429,
+      "name": "Nsudiya",
+      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
+    },
+    {
       "added_at": "2022-03-31 17:42:20",
       "album": {
         "name": "Stupid",
@@ -687,22 +703,6 @@
       "duration_ms": 217338,
       "name": "Stupid",
       "url": "https://open.spotify.com/track/2GQFN64gmx6tGYW5y3VLFA"
-    },
-    {
-      "added_at": "2022-10-06 21:00:00",
-      "album": {
-        "name": "Nsudiya",
-        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
-      },
-      "artists": [
-        {
-          "name": "Aroma Music",
-          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
-        }
-      ],
-      "duration_ms": 165429,
-      "name": "Nsudiya",
-      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
     },
     {
       "added_at": "2023-01-12 20:59:00",
@@ -779,30 +779,6 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Nkwatewa",
-        "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
-      },
-      "artists": [
-        {
-          "name": "selecta jef",
-          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
-        },
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
-        }
-      ],
-      "duration_ms": 181890,
-      "name": "Nkwatewa",
-      "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
         "name": "Kokonya",
         "url": "https://open.spotify.com/album/6SEPhQLO1WCYyynan8uCTS"
       },
@@ -843,6 +819,54 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
+        "name": "Nkwatewa",
+        "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
+      },
+      "artists": [
+        {
+          "name": "selecta jef",
+          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
+        },
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 181890,
+      "name": "Nkwatewa",
+      "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
+        "name": "Semyekozo",
+        "url": "https://open.spotify.com/album/2rfyTnxyRZlPN0fxLj8jhs"
+      },
+      "artists": [
+        {
+          "name": "Eddy Kenzo",
+          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+        },
+        {
+          "name": "Cindy Sanyu",
+          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
+        },
+        {
+          "name": "Beenie Gunter",
+          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
+        }
+      ],
+      "duration_ms": 280160,
+      "name": "Dancehall",
+      "url": "https://open.spotify.com/track/4ZQwrdnmtEhWLK7iLOWqn8"
+    },
+    {
+      "added_at": "2022-03-31 17:42:20",
+      "album": {
         "name": "Kisses at Midnight",
         "url": "https://open.spotify.com/album/0vj2zDD1YqVkAinMPj3XpM"
       },
@@ -875,46 +899,22 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Semyekozo",
-        "url": "https://open.spotify.com/album/2rfyTnxyRZlPN0fxLj8jhs"
+        "name": "Bakuwe",
+        "url": "https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ"
       },
       "artists": [
         {
-          "name": "Eddy Kenzo",
-          "url": "https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j"
+          "name": "Guvnor Ace",
+          "url": "https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9"
         },
         {
-          "name": "Cindy Sanyu",
-          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
-        },
-        {
-          "name": "Beenie Gunter",
-          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
+          "name": "Jose Chameleone",
+          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
         }
       ],
-      "duration_ms": 280160,
-      "name": "Dancehall",
-      "url": "https://open.spotify.com/track/4ZQwrdnmtEhWLK7iLOWqn8"
-    },
-    {
-      "added_at": "2022-03-31 17:42:20",
-      "album": {
-        "name": "Kiriza (Remix)",
-        "url": "https://open.spotify.com/album/6JSkoPNtL66yYRhDR8hcsd"
-      },
-      "artists": [
-        {
-          "name": "Vyper Ranking",
-          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
-        },
-        {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Kiriza - Remix",
-      "url": "https://open.spotify.com/track/3CJJBRNeQ7ypuw4uT4VqSg"
+      "duration_ms": 186000,
+      "name": "Bakuwe",
+      "url": "https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst"
     },
     {
       "added_at": "2023-01-20 05:09:22",
@@ -943,22 +943,22 @@
     {
       "added_at": "2022-03-31 17:42:20",
       "album": {
-        "name": "Bakuwe",
-        "url": "https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ"
+        "name": "Kiriza (Remix)",
+        "url": "https://open.spotify.com/album/6JSkoPNtL66yYRhDR8hcsd"
       },
       "artists": [
         {
-          "name": "Guvnor Ace",
-          "url": "https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9"
+          "name": "Vyper Ranking",
+          "url": "https://open.spotify.com/artist/5oqBr2TaQCIsLGIDNGyexQ"
         },
         {
-          "name": "Jose Chameleone",
-          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Bakuwe",
-      "url": "https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst"
+      "duration_ms": 162500,
+      "name": "Kiriza - Remix",
+      "url": "https://open.spotify.com/track/3CJJBRNeQ7ypuw4uT4VqSg"
     },
     {
       "added_at": "2022-05-19 20:59:00",

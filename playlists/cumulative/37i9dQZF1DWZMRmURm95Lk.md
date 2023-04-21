@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. Kiave, Gheesa e Macro Marco in cover.
 
-266 songs - 16 hr 0 min
+267 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Casse rotte \(feat\. Brokenspeakers\)](https://open.spotify.com/track/3jmjTGbN86A2DcZIEulmvM) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Brokenspeakers](https://open.spotify.com/artist/4Ttq7tTGmx28IM7sN0nEMa) | [Volare](https://open.spotify.com/album/1mduA9KWQcE64fHeH8U17C) | 4:02 | 2022-05-12 | 2022-07-29 |
 | [CHE COSA ASPETTI \(feat\. Moder & DJ 5L\)](https://open.spotify.com/track/5PN4LcS8QNwGM6hy0MGUJA) | [MACK](https://open.spotify.com/artist/5wcs9FAxgMQEfZNsqJFMmM), [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ), [DJ 5L](https://open.spotify.com/artist/7368E7lI1AdJpBQfLEgZmv) | [CHE COSA ASPETTI \(feat\. Moder & DJ 5L\)](https://open.spotify.com/album/4YkQGIotWBXezBU2Va1XTD) | 3:38 | 2022-05-12 | 2022-05-28 |
 | [Che nessuno si muova](https://open.spotify.com/track/58DcYPv6jTVD6BeYsiPfSn) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Deleterio](https://open.spotify.com/artist/7b4WvxNQtqlXbprLRUyxt6), [Vincenzo Da Via Anfossi](https://open.spotify.com/artist/3fe7sEsyZiMKV8T2vW3EoA), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Hashishinz Sound, Vol\. 1](https://open.spotify.com/album/686o277ou2T3uWQ2LBiJAP) | 4:00 | 2022-05-12 | 2022-07-28 |
-| [Chi more pe' mme](https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Chi more pe' mme](https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei) | 4:43 | 2022-05-12 |  |
+| [Chi more pe' mme](https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Chi more pe' mme](https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei) | 4:43 | 2022-05-12 | 2023-04-21 |
 | [Chi Paga](https://open.spotify.com/track/2tXbb9hzPUT8fPVShdLKRa) | [OneMic](https://open.spotify.com/artist/4GnQ4vQjurDOY1b0q9LL25) | [Promo EP](https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n) | 4:35 | 2022-06-16 | 2022-07-20 |
 | [Chiedi Alla Polvere 2008](https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Marracash](https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B) | 4:25 | 2022-07-28 |  |
 | [Chiudi Gli Occhi](https://open.spotify.com/track/7Iq93UBQAA4zSYVkbKDJBO) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:02 | 2023-01-13 |  |
@@ -254,6 +254,7 @@
 | [Tieni Duro!](https://open.spotify.com/track/6Ur5wy2jIrftniHwWd4nOu) | [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN) | [Mondo Marcio](https://open.spotify.com/album/0as4qNSUMvD3Fh69GB9nu9) | 3:55 | 2022-05-12 | 2022-07-29 |
 | [Tieni duro! \- 2022 Remastered](https://open.spotify.com/track/1Uw9UJ25oqXVbld6BbmIsk) | [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN) | [Mondo Marcio \(2022 Remastered\)](https://open.spotify.com/album/76VmOnyPsdl1fZRqnOhGkf) | 3:55 | 2022-07-28 |  |
 | [Tiger Mask \- Se Acabo](https://open.spotify.com/track/5UVvbBbPmlBl6i7OAZRMpP) | [Jangy Leeon](https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7), [Wego FTS](https://open.spotify.com/artist/2PoxLmzjISQlPoZ7KLzOMf) | [Tiger Mask \(Se Acabo\)](https://open.spotify.com/album/60oDLiIshmfMvwYg3KX5SJ) | 3:10 | 2022-05-12 | 2022-06-23 |
+| [Tinta unita \(feat\. Danno\)](https://open.spotify.com/track/3jmoC0sFLeBrYbC5NujQK9) | [Lovegang126](https://open.spotify.com/artist/7Munu8K4WpaJxPfnwXh0re), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Drone126](https://open.spotify.com/artist/4r64DBNfhWlXinhF5PAhpg) | [CRISTI E DIAVOLI](https://open.spotify.com/album/1HORxlpvyOlVXnBGuU7DRC) | 2:48 | 2023-04-20 |  |
 | [Titanic](https://open.spotify.com/track/3j3woTPzyCtMANeff1VEe1) | [Kaos](https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r) | [Titanic](https://open.spotify.com/album/2g5mdnKae0ZnGzI6nXyDko) | 3:50 | 2022-06-02 | 2022-08-02 |
 | [Tranqi Funky](https://open.spotify.com/track/2ttUbhePgGQQKAe5vxQVG4) | [Articolo 31](https://open.spotify.com/artist/1Ij5ZIGlPTkoZibay58zHe) | [Così Com' è](https://open.spotify.com/album/4qtNe5vJDsAYXFhMX81Gp2) | 3:23 | 2022-06-30 |  |
 | [Treddepomeriggio](https://open.spotify.com/track/4rHpOyjCOminwSgwxdVVpP) | [Er Costa](https://open.spotify.com/artist/7zfnElBFcdWC87g9HANXQ1) | [Treddepomeriggio](https://open.spotify.com/album/6zyQlLxLYMpuxYSw4ABYCF) | 3:03 | 2022-05-12 | 2023-03-04 |

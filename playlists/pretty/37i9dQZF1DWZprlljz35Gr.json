@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 7141,
+  "num_followers": 7153,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAyNTY2MCwwMDAwMDAwMGQ0YzAzNzhhZTlmM2Q4MDZjODI1MzM4Mjk3NTdjMDk0",
+  "snapshot_id": "MTY3OTAyNTY2MCwwMDAwMDAwMDE1ZDFiMTA4N2E4MzkzN2E4ZTM1ZTFlZWVkOGQ2YmY5",
   "tracks": [
     {
       "added_at": "2023-03-17 04:01:00",
@@ -839,22 +839,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "A Different Beat",
-        "url": "https://open.spotify.com/album/3FgB6MV0HuR9Ie8057mamx"
+        "name": "The Good Girl Blues",
+        "url": "https://open.spotify.com/album/1M46LnviAQPlUxo1BKrF7G"
       },
       "artists": [
         {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        },
-        {
-          "name": "E-Z Rollers",
-          "url": "https://open.spotify.com/artist/2DRV8CWHnuapa1bpbvHjCl"
+          "name": "The Soul Of John Black",
+          "url": "https://open.spotify.com/artist/5hPY3EzV0OMxYKyj3gNaHS"
         }
       ],
-      "duration_ms": 738306,
-      "name": "Can't Help Myself - E-Z Rollers Remix",
-      "url": "https://open.spotify.com/track/2e8IYlqaTSYo7zNR0DTi5m"
+      "duration_ms": 167973,
+      "name": "Swamp Thang",
+      "url": "https://open.spotify.com/track/1Y3xPsuvx57Jtck6U92SNj"
     }
   ],
   "unique_name": "Bluestronica",

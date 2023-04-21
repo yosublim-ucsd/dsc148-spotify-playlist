@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Harmonize
 
-228 songs - 12 hr 54 min
+229 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Jela](https://open.spotify.com/track/7xmYLGUy5kzd9DeRIE1WP6) | [Ruby](https://open.spotify.com/artist/0WZGAVZxeoQ1fQywauk3S5) | [Jela](https://open.spotify.com/album/01yo9hQXVmd7SrMPGK5bp0) | 4:15 | 2021-11-25 | 2022-02-11 |
 | [Jeshi](https://open.spotify.com/track/3WU4mcgDNDwvOh5yvvUkiR) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Jeshi](https://open.spotify.com/album/0F99MTbWxyLZbXLtcgfYg5) | 3:17 | 2021-06-25 | 2022-02-05 |
 | [Jipinde](https://open.spotify.com/track/66Y7mdsIOB9o6VrAJjdJGU) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Jipinde](https://open.spotify.com/album/4JMCOqbKas506lkTUtGGOq) | 2:40 | 2021-09-02 | 2022-07-15 |
-| [Jugni](https://open.spotify.com/track/0gHFDbhx2RFBrhJplPxlcT) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Jugni](https://open.spotify.com/album/2f4OFd2m05NI1WSJnhJi9v) | 3:13 | 2022-10-07 |  |
+| [Jugni](https://open.spotify.com/track/0gHFDbhx2RFBrhJplPxlcT) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Jugni](https://open.spotify.com/album/2f4OFd2m05NI1WSJnhJi9v) | 3:13 | 2022-10-07 | 2023-04-21 |
 | [Kama Unae](https://open.spotify.com/track/4nlevgaJwaJShkPGD36kYQ) | [Rapcha](https://open.spotify.com/artist/3AaJQYhvfd09pcBKzNwEaa), [Kid Golden](https://open.spotify.com/artist/1mVLIIOcE7lXrw47yFUxYU), [Paul Peter Matthysse](https://open.spotify.com/artist/25nD2JksQyjpZxchxgvgDK) | [Wanangu 99](https://open.spotify.com/album/5R6gnSXhq3hNUgeeaKBlZJ) | 3:24 | 2021-10-29 | 2022-03-25 |
 | [Kamata](https://open.spotify.com/track/2bLflnEjSux9pQT0WZRjFh) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Kamata](https://open.spotify.com/album/3Uy9ZwsRWYXUShlaP86vSm) | 2:19 | 2021-08-26 | 2022-01-14 |
 | [Katerina](https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K) | [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Katerina](https://open.spotify.com/album/205OcJThFPWLVFc19sGU3U) | 4:35 | 2021-09-09 | 2022-08-19 |
@@ -178,6 +178,7 @@
 | [Pomp Pomp](https://open.spotify.com/track/7c80qxudZjhs4niCgOi0Gi) | [Sani Boy](https://open.spotify.com/artist/7koc9wMjyVw3KNLwc6bSKb), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Pomp Pomp](https://open.spotify.com/album/2VgxfRdeb2X6nihfFXMhrM) | 3:06 | 2022-02-10 | 2022-11-11 |
 | [Puuh](https://open.spotify.com/track/4qMofi2HvTzvLEQ6EqywPP) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Puuh](https://open.spotify.com/album/6Y1kRLTcchAfHbb1XYgNWt) | 3:56 | 2022-12-16 |  |
 | [Pwi Pwi](https://open.spotify.com/track/2mLo2SWYWjzXfC2mqvJoVY) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [Pwi Pwi](https://open.spotify.com/album/3Pbtdd5ArfOYHr73MIChnX) | 3:09 | 2023-03-16 |  |
+| [Rafiki](https://open.spotify.com/track/4lh8Whj4Uk8o4c4LWelSfc) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Rafiki](https://open.spotify.com/album/55TGRN5FPMfEz42zQSmjRr) | 4:42 | 2023-04-20 |  |
 | [Rara](https://open.spotify.com/track/7bcYejtryMBwpWehedwsse) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe) | [Rara](https://open.spotify.com/album/3rdA7AosUizjDVtRQUREUK) | 3:22 | 2022-04-14 | 2022-10-14 |
 | [Sasambu](https://open.spotify.com/track/6tfVC1Ghg5KvIh8NItSPQh) | [Gigy Money](https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e) | [Sasambu](https://open.spotify.com/album/0VCZszjUueH3WySk5EPrcz) | 2:37 | 2022-03-03 | 2022-05-06 |
 | [Sawa](https://open.spotify.com/track/7Brx47p9jy0bF0NoZ6MYdB) | [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Sawa](https://open.spotify.com/album/5UjFk656mvckQJGUhW1Bg8) | 3:23 | 2023-03-02 |  |

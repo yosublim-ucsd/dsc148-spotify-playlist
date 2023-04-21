@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:  <a href=\"https://open.spotify.com/artist/7JwNO91xnzO8mqTn1LYS9h?si=2e33ZQeKSQqH4E0377Z0sw\"> Boijake </a>  and <a href=\"https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO?si=P5Cm2p4iSRWRDXWDS21hjQ\"> Cina Soul </a>  ",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover:  <a href=\"https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9?si=GfxlfFB8QF-zvacXwbVGrQ\"> Kirani Ayat </a>  ",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -104,6 +104,32 @@
       "duration_ms": 137946,
       "name": "Adoley",
       "url": "https://open.spotify.com/track/2IxaCE3hoNMs8k5wtCOK22"
+    },
+    {
+      "album": {
+        "name": "Affairs",
+        "url": "https://open.spotify.com/album/4G7HCFjj6K39ELUmXSO49G"
+      },
+      "artists": [
+        {
+          "name": "Kirani Ayat",
+          "url": "https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9"
+        },
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "Pure Akan",
+          "url": "https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Affairs",
+      "url": "https://open.spotify.com/track/7jbLmF56d83iYzKZMnwP8a"
     },
     {
       "album": {
@@ -368,7 +394,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 147272,
       "name": "Blind",
       "url": "https://open.spotify.com/track/05nQi9vhgIRdm4U3Ibt5Ae"
@@ -522,6 +548,24 @@
       "duration_ms": 132413,
       "name": "Change Your Style (feat. st Lennon, KiDi & Kojo Manuel)",
       "url": "https://open.spotify.com/track/6RjeOjvhLRWaGvUracU23d"
+    },
+    {
+      "album": {
+        "name": "Chop Life",
+        "url": "https://open.spotify.com/album/4vxbBbvegnEZ8wMiH7Y6lh"
+      },
+      "artists": [
+        {
+          "name": "E.L",
+          "url": "https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180386,
+      "name": "Chop Life",
+      "url": "https://open.spotify.com/track/64j2xnJweYeCQvycBGBmLR"
     },
     {
       "album": {
@@ -860,7 +904,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 185571,
       "name": "Fa Me Saa",
       "url": "https://open.spotify.com/track/4YEI5dYaeNjeP70CTSZLGs"
@@ -1268,7 +1312,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 556190,
       "name": "Holding On - Live Dub Mix",
       "url": "https://open.spotify.com/track/4MzxG2az6IMFAMNlUlivwP"
@@ -1512,7 +1556,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 150853,
       "name": "License",
       "url": "https://open.spotify.com/track/5ZyPiaFTDOX68KYU5zFMqz"
@@ -1556,7 +1600,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 189266,
       "name": "Magic (with Slim Kofi)",
       "url": "https://open.spotify.com/track/1uvVtqWFD5ur2A45zo9FRm"
@@ -1796,6 +1840,24 @@
       "duration_ms": 177692,
       "name": "No Money",
       "url": "https://open.spotify.com/track/2wS10dgPSZ3EmQdYCbwSsy"
+    },
+    {
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/0ykFfjy3oJJpaJXGC3pzHu"
+      },
+      "artists": [
+        {
+          "name": "Kurl Songx",
+          "url": "https://open.spotify.com/artist/0VukMQoTyIAqKl0qUEw9Cv"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186306,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/70FKWQNSTDcmcXNQYemy0P"
     },
     {
       "album": {
@@ -2960,7 +3022,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 120000,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6ir2ShLPrZxXgYTtlMxeCN"
@@ -3046,6 +3108,24 @@
       "duration_ms": 192960,
       "name": "Yaa Asantewaa (feat. Frenna)",
       "url": "https://open.spotify.com/track/6NGXW92wizzbj2aHI2ZpPT"
+    },
+    {
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/74wxWN3gRi3kU8GrCvkO9F"
+      },
+      "artists": [
+        {
+          "name": "KOFI BRUCE",
+          "url": "https://open.spotify.com/artist/3C96ARfG9uaoD9AiE86jzt"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174432,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/7Iro07haSFYU2yVx149Tcu"
     },
     {
       "album": {

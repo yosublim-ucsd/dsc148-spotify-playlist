@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 115367,
+  "num_followers": 115428,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjY5NDkyNCwwMDAwMDAwMDQ4M2VmNmU0MjZhMzYxNmY4YTI1OGI0YjQ0YTA0NTdj",
+  "snapshot_id": "MTY3NjY5NDkyNCwwMDAwMDAwMDEyYjJiOWMwMWMzMGUzNDIyNDRhOTczZDBjNmU0ODlh",
   "tracks": [
     {
       "added_at": "2023-02-18 04:35:24",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-02-18 04:35:24",
       "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
+      },
+      "artists": [
+        {
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
+        }
+      ],
+      "duration_ms": 218200,
+      "name": "More Than Good Enough",
+      "url": "https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1"
+    },
+    {
+      "added_at": "2023-02-18 04:35:24",
+      "album": {
         "name": "Clouds Are Clearing: Mixtape 1A",
         "url": "https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 159000,
       "name": "Higher Than Mine (Remix)",
       "url": "https://open.spotify.com/track/7nOD4RtNzWbUlYchguMhr7"
-    },
-    {
-      "added_at": "2023-02-18 04:35:24",
-      "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
-      },
-      "artists": [
-        {
-          "name": "Joel Vaughn",
-          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
-        }
-      ],
-      "duration_ms": 218200,
-      "name": "More Than Good Enough",
-      "url": "https://open.spotify.com/track/1c2ckzh1SNljvnwwAPj4N1"
     },
     {
       "added_at": "2023-02-18 04:35:24",

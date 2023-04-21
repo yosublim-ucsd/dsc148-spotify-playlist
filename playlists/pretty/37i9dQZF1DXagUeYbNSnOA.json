@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Amanda Puj\u00f3. Updates every Wednesday.",
-  "num_followers": 169592,
+  "num_followers": 169620,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTkyNzIwMCwwMDAwMDAwMDVjOWY4YjM0ZWUzOTIxYWJhYWI2ZTJjZTQ3YmFkMTg1",
+  "snapshot_id": "MTY4MTkyNzIwMCwwMDAwMDAwMDliMzk3Y2E5NzY5OWE3NWI2ZTM4NDYzMDdiOThlYmE2",
   "tracks": [
     {
       "added_at": "2023-04-19 18:00:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-04-19 18:00:00",
       "album": {
+        "name": "P\u00e1nico y Distorsi\u00f3n",
+        "url": "https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc"
+      },
+      "artists": [
+        {
+          "name": "Piba",
+          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
+        }
+      ],
+      "duration_ms": 196951,
+      "name": "\u00c9xodo Mental",
+      "url": "https://open.spotify.com/track/1ZT6RqnorPxsQnQ2mzgwP1"
+    },
+    {
+      "added_at": "2023-04-19 18:00:00",
+      "album": {
         "name": "Casualidad",
         "url": "https://open.spotify.com/album/0aO9I8Mp9HVz4S4bphs0q9"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": "2023-04-19 18:00:00",
       "album": {
-        "name": "Velvet",
-        "url": "https://open.spotify.com/album/769hmq1tKBE2Tu950P9enr"
-      },
-      "artists": [
-        {
-          "name": "Tuzeint",
-          "url": "https://open.spotify.com/artist/0iQ2RumqYpmrZVxHCR771X"
-        }
-      ],
-      "duration_ms": 161661,
-      "name": "Velvet",
-      "url": "https://open.spotify.com/track/3qU8U9M2l7Q32WAy2eYAwm"
-    },
-    {
-      "added_at": "2023-04-19 18:00:00",
-      "album": {
         "name": "te mirar\u00eda",
         "url": "https://open.spotify.com/album/4BlvYZB9VQ5qlISigYwRnM"
       },
@@ -679,18 +679,38 @@
     {
       "added_at": "2023-04-19 18:00:00",
       "album": {
-        "name": "P\u00e1nico y Distorsi\u00f3n",
-        "url": "https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc"
+        "name": "Velvet",
+        "url": "https://open.spotify.com/album/769hmq1tKBE2Tu950P9enr"
       },
       "artists": [
         {
-          "name": "Piba",
-          "url": "https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb"
+          "name": "Tuzeint",
+          "url": "https://open.spotify.com/artist/0iQ2RumqYpmrZVxHCR771X"
         }
       ],
-      "duration_ms": 196951,
-      "name": "\u00c9xodo Mental",
-      "url": "https://open.spotify.com/track/1ZT6RqnorPxsQnQ2mzgwP1"
+      "duration_ms": 161661,
+      "name": "Velvet",
+      "url": "https://open.spotify.com/track/3qU8U9M2l7Q32WAy2eYAwm"
+    },
+    {
+      "added_at": "2023-04-19 18:00:00",
+      "album": {
+        "name": "Coraz\u00f3n de Hojalata",
+        "url": "https://open.spotify.com/album/07upp7a8Y0bTkYYsoqvvb5"
+      },
+      "artists": [
+        {
+          "name": "Serranow",
+          "url": "https://open.spotify.com/artist/38NpF2cwENnpQ3P19UnyUP"
+        },
+        {
+          "name": "Emm Silverio",
+          "url": "https://open.spotify.com/artist/0LqZYyxpnN9W2CeWRNGYli"
+        }
+      ],
+      "duration_ms": 238058,
+      "name": "Coraz\u00f3n de Hojalata",
+      "url": "https://open.spotify.com/track/4gH7AJLxGrrbQRCJp5aGsm"
     },
     {
       "added_at": "2023-04-19 18:00:00",
@@ -715,6 +735,26 @@
     {
       "added_at": "2023-04-19 18:00:00",
       "album": {
+        "name": "SUERTE",
+        "url": "https://open.spotify.com/album/5QKexiENC5HezkBqafnEAb"
+      },
+      "artists": [
+        {
+          "name": "Dani Manzan",
+          "url": "https://open.spotify.com/artist/3yk1IfXsveWfy2oyl5yQm0"
+        },
+        {
+          "name": "Christopher Rafael",
+          "url": "https://open.spotify.com/artist/0UzqLxUiIgatEfQfxEN26K"
+        }
+      ],
+      "duration_ms": 243272,
+      "name": "SUERTE",
+      "url": "https://open.spotify.com/track/4SgIhxy6ViuwWZEB3tePLo"
+    },
+    {
+      "added_at": "2023-04-19 18:00:00",
+      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/52s8CsnS9McjKPTlJukBkN"
       },
@@ -727,26 +767,6 @@
       "duration_ms": 211508,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/5kNOeciDEYgCTe5XyQrJOh"
-    },
-    {
-      "added_at": "2023-04-19 18:00:00",
-      "album": {
-        "name": "Coraz\u00f3n de Hojalata",
-        "url": "https://open.spotify.com/album/07upp7a8Y0bTkYYsoqvvb5"
-      },
-      "artists": [
-        {
-          "name": "Serranow",
-          "url": "https://open.spotify.com/artist/38NpF2cwENnpQ3P19UnyUP"
-        },
-        {
-          "name": "Emm Silverio",
-          "url": "https://open.spotify.com/artist/0LqZYyxpnN9W2CeWRNGYli"
-        }
-      ],
-      "duration_ms": 238058,
-      "name": "Coraz\u00f3n de Hojalata",
-      "url": "https://open.spotify.com/track/4gH7AJLxGrrbQRCJp5aGsm"
     },
     {
       "added_at": "2023-04-19 18:00:00",
@@ -779,26 +799,6 @@
       "duration_ms": 303000,
       "name": "Arrullo",
       "url": "https://open.spotify.com/track/1WNZcZIO1LsoUra7hiYT7A"
-    },
-    {
-      "added_at": "2023-04-19 18:00:00",
-      "album": {
-        "name": "SUERTE",
-        "url": "https://open.spotify.com/album/5QKexiENC5HezkBqafnEAb"
-      },
-      "artists": [
-        {
-          "name": "Dani Manzan",
-          "url": "https://open.spotify.com/artist/3yk1IfXsveWfy2oyl5yQm0"
-        },
-        {
-          "name": "Christopher Rafael",
-          "url": "https://open.spotify.com/artist/0UzqLxUiIgatEfQfxEN26K"
-        }
-      ],
-      "duration_ms": 243272,
-      "name": "SUERTE",
-      "url": "https://open.spotify.com/track/4SgIhxy6ViuwWZEB3tePLo"
     },
     {
       "added_at": "2023-04-19 18:00:00",

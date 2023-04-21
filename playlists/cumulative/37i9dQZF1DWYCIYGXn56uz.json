@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: NASKA",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Matteo Paolillo",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -189,6 +189,28 @@
     },
     {
       "album": {
+        "name": "Ammore Malamente",
+        "url": "https://open.spotify.com/album/5pydbU79C724udCB6btJsy"
+      },
+      "artists": [
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        },
+        {
+          "name": "LDA",
+          "url": "https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191140,
+      "name": "Basta (feat. LDA)",
+      "url": "https://open.spotify.com/track/13EWG0TWbIVmyzd2ohpE0B"
+    },
+    {
+      "album": {
         "name": "Cado",
         "url": "https://open.spotify.com/album/2HgX6tuQ1Qjl8gZAZkKdW4"
       },
@@ -294,7 +316,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 157875,
       "name": "Casa Gigante",
       "url": "https://open.spotify.com/track/405myFSFhjIeFh83qXGtlW"
@@ -381,6 +403,24 @@
     },
     {
       "album": {
+        "name": "Come Marilyn",
+        "url": "https://open.spotify.com/album/6lqeWrraxv3mCVWytlzBT0"
+      },
+      "artists": [
+        {
+          "name": "Federica Carta",
+          "url": "https://open.spotify.com/artist/0vQk2DnpCtSLT8QeMbCE6L"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178780,
+      "name": "Come Marilyn",
+      "url": "https://open.spotify.com/track/0omRmMj87tSJhmggf4cWo1"
+    },
+    {
+      "album": {
         "name": "Cuori di ghiaccio",
         "url": "https://open.spotify.com/album/3CmNrgMOnTXUfLQY7TDRtd"
       },
@@ -430,6 +470,24 @@
       "duration_ms": 170399,
       "name": "DIECIMILAVOCI (con ARIETE)",
       "url": "https://open.spotify.com/track/4XULNbLgh1OiOuYMbPOmyN"
+    },
+    {
+      "album": {
+        "name": "DIRTY LOVE",
+        "url": "https://open.spotify.com/album/1X1EiUOZEtp2ELLUBF0RMz"
+      },
+      "artists": [
+        {
+          "name": "Wayne",
+          "url": "https://open.spotify.com/artist/4FiPwqm4GHYuJyldqILugY"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164562,
+      "name": "DIRTY LOVE",
+      "url": "https://open.spotify.com/track/4BEeA6vmhoslMtRqePZMny"
     },
     {
       "album": {
@@ -509,6 +567,28 @@
     },
     {
       "album": {
+        "name": "Fammi capire",
+        "url": "https://open.spotify.com/album/4kRNlOJ8ZDQv43ec2QPFwm"
+      },
+      "artists": [
+        {
+          "name": "Samurai Jay",
+          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
+        },
+        {
+          "name": "DANI",
+          "url": "https://open.spotify.com/artist/0AKaGOjJkxnPFYwdK252sp"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "Fammi capire",
+      "url": "https://open.spotify.com/track/2vGTPYu3T8lrkcA2pCBRQ6"
+    },
+    {
+      "album": {
         "name": "Fammi morire",
         "url": "https://open.spotify.com/album/3Cg3jbGc848IssQcMO1Isy"
       },
@@ -567,6 +647,32 @@
     },
     {
       "album": {
+        "name": "fiume di parole",
+        "url": "https://open.spotify.com/album/1vfdwQ7JuTqGrWdYjJQEAp"
+      },
+      "artists": [
+        {
+          "name": "Anima",
+          "url": "https://open.spotify.com/artist/78KLSh5jP52tMwFeDpR5Ml"
+        },
+        {
+          "name": "Poet",
+          "url": "https://open.spotify.com/artist/0vhFnK8A5YPnVWLlwu2IHs"
+        },
+        {
+          "name": "Pi Greco",
+          "url": "https://open.spotify.com/artist/1gIiepAFE8pnPuyWnlVQ6b"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151364,
+      "name": "fiume di parole",
+      "url": "https://open.spotify.com/track/19RZHhzIgCrnUBFJfGzexj"
+    },
+    {
+      "album": {
         "name": "fluo",
         "url": "https://open.spotify.com/album/7H6plhkpevG4P0dF05CMnt"
       },
@@ -578,7 +684,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 175384,
       "name": "fluo",
       "url": "https://open.spotify.com/track/2F6uEtSu7h6QUjgenM86K7"
@@ -712,6 +818,24 @@
       "duration_ms": 156960,
       "name": "Innamorato",
       "url": "https://open.spotify.com/track/1k3CKhRz8iK3GNfTQu32eH"
+    },
+    {
+      "album": {
+        "name": "Io Non Lo So",
+        "url": "https://open.spotify.com/album/6idUEOKJZ3dkR1f1DrbNe1"
+      },
+      "artists": [
+        {
+          "name": "Romeo & Drill",
+          "url": "https://open.spotify.com/artist/58R2c9Zopp6mfar9rKXbEm"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149911,
+      "name": "Io Non Lo So",
+      "url": "https://open.spotify.com/track/2eHOxOoWWj0is98NlvUoqd"
     },
     {
       "album": {
@@ -879,6 +1003,28 @@
     },
     {
       "album": {
+        "name": "LIBERATEMI",
+        "url": "https://open.spotify.com/album/783m7OtnMt3fv1PcFjPSXw"
+      },
+      "artists": [
+        {
+          "name": "Lolloflow",
+          "url": "https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic"
+        },
+        {
+          "name": "Matteo Paolillo - Icaro",
+          "url": "https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142400,
+      "name": "LIBERATEMI",
+      "url": "https://open.spotify.com/track/1vKqI6G0dSqURi5vxdz09k"
+    },
+    {
+      "album": {
         "name": "lipgloss",
         "url": "https://open.spotify.com/album/04bo4aK6Isi0l0RfG4TqaG"
       },
@@ -952,6 +1098,24 @@
       "duration_ms": 191024,
       "name": "Maldit\u00e8",
       "url": "https://open.spotify.com/track/5g65Enzok3y36EZyb0hjo4"
+    },
+    {
+      "album": {
+        "name": "Male",
+        "url": "https://open.spotify.com/album/0nndqYNjqMbfwSk4xShONI"
+      },
+      "artists": [
+        {
+          "name": "GionnyScandal",
+          "url": "https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174827,
+      "name": "Male",
+      "url": "https://open.spotify.com/track/1EMmeaIX1LEl1FrNJkK0eJ"
     },
     {
       "album": {
@@ -1038,10 +1202,28 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 122578,
       "name": "mi manca la vecchia te",
       "url": "https://open.spotify.com/track/1ngm13kPGndthBqF8AxTAb"
+    },
+    {
+      "album": {
+        "name": "MI ODIAVO",
+        "url": "https://open.spotify.com/album/7unERA8tM6z0Uob0it4eZI"
+      },
+      "artists": [
+        {
+          "name": "TETI",
+          "url": "https://open.spotify.com/artist/61obQpNdnmE9dia8LmBah8"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "MI ODIAVO",
+      "url": "https://open.spotify.com/track/0nuek47aUtoaF65sNqKhD5"
     },
     {
       "album": {
@@ -1295,6 +1477,28 @@
     },
     {
       "album": {
+        "name": "Pane e Burro (feat. Ascanio)",
+        "url": "https://open.spotify.com/album/5AXe8ItdrXgeTCNJKBwRNu"
+      },
+      "artists": [
+        {
+          "name": "Charlotte M",
+          "url": "https://open.spotify.com/artist/6v839swiOjpjUxeXJ3l78M"
+        },
+        {
+          "name": "Ascanio",
+          "url": "https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155933,
+      "name": "Pane e Burro (feat. Ascanio)",
+      "url": "https://open.spotify.com/track/77TD6EFSrQjolUvGHImg6t"
+    },
+    {
+      "album": {
         "name": "(tra parentesi)",
         "url": "https://open.spotify.com/album/2cavlI3WwEcr1mJeyVC4ZV"
       },
@@ -1525,6 +1729,24 @@
     },
     {
       "album": {
+        "name": "PROFUMO",
+        "url": "https://open.spotify.com/album/1lD5U7HWtabfmkSxx7vH6X"
+      },
+      "artists": [
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203170,
+      "name": "PROFUMO",
+      "url": "https://open.spotify.com/track/0Gi4BJG02Hj6x1csoni8fz"
+    },
+    {
+      "album": {
         "name": "Ricordarmi di scordarti",
         "url": "https://open.spotify.com/album/7sPORpkE6mfvYJm6XBdiJ5"
       },
@@ -1634,6 +1856,24 @@
       "duration_ms": 175378,
       "name": "Scusa",
       "url": "https://open.spotify.com/track/7w9URuxEODwcChkFCpsf5Q"
+    },
+    {
+      "album": {
+        "name": "SE MI LASCI DOMANI",
+        "url": "https://open.spotify.com/album/23w6agrUntnc6Ok1A18gvD"
+      },
+      "artists": [
+        {
+          "name": "Tancredi",
+          "url": "https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213784,
+      "name": "SE MI LASCI DOMANI",
+      "url": "https://open.spotify.com/track/4Z8Rrgk9MYwcvMGbxZluuX"
     },
     {
       "album": {
@@ -1862,6 +2102,24 @@
       "duration_ms": 171666,
       "name": "Voglio di pi\u00f9",
       "url": "https://open.spotify.com/track/2EwaZtnl6HtnesKXiHfn7U"
+    },
+    {
+      "album": {
+        "name": "Vorrei",
+        "url": "https://open.spotify.com/album/3yrHXLLKrmhuRis3E1gP8C"
+      },
+      "artists": [
+        {
+          "name": "Amedeo Preziosi",
+          "url": "https://open.spotify.com/artist/7r9k0d7uURPaucWBl9pMwu"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185044,
+      "name": "Vorrei",
+      "url": "https://open.spotify.com/track/0zZzsWmNBZuzxg80aJdgT2"
     },
     {
       "album": {

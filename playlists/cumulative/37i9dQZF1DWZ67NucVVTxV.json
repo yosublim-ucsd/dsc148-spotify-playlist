@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "1 Hour",
+        "url": "https://open.spotify.com/album/4yjXmygzd1jmDWAJMiPVKo"
+      },
+      "artists": [
+        {
+          "name": "Lemon Adisa",
+          "url": "https://open.spotify.com/artist/12rRvGu4TetZ3pcPLBZQz3"
+        },
+        {
+          "name": "Lyta",
+          "url": "https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "1 Hour",
+      "url": "https://open.spotify.com/track/3mK2wWhcgKT1QbPT97Vy0R"
+    },
+    {
+      "album": {
         "name": "Twice As Tall",
         "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
       },
@@ -1670,7 +1692,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 171258,
       "name": "Fire Down",
       "url": "https://open.spotify.com/track/6ZzN6WLgAlx7sHCath3P9B"
@@ -2260,7 +2282,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 144019,
       "name": "Hope",
       "url": "https://open.spotify.com/track/4yBMg5u4P9zMpi6Ew9RedK"
@@ -2468,7 +2490,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 182804,
       "name": "Ire",
       "url": "https://open.spotify.com/track/6f8A1OcVXvAZSPyiQTeRvE"
@@ -2526,6 +2548,32 @@
       "duration_ms": 170000,
       "name": "Jara Joro",
       "url": "https://open.spotify.com/track/1HZd6S5XRpOqUTqQI4yH0Y"
+    },
+    {
+      "album": {
+        "name": "Jeje (Easy)",
+        "url": "https://open.spotify.com/album/0CrKfunCicrYq2ufIw3P0n"
+      },
+      "artists": [
+        {
+          "name": "Dajon AF",
+          "url": "https://open.spotify.com/artist/4yN3RB5NqyHi9cSyllXgeS"
+        },
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        },
+        {
+          "name": "Korshi T",
+          "url": "https://open.spotify.com/artist/6LYgIKATg0RJj86yCqAxnc"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161427,
+      "name": "Jeje (Easy)",
+      "url": "https://open.spotify.com/track/6siJBdHjgN9jy9n04yxA9y"
     },
     {
       "album": {
@@ -2942,6 +2990,24 @@
       "duration_ms": 190621,
       "name": "Many Man - A COLORS SHOW",
       "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
+    },
+    {
+      "album": {
+        "name": "Many Things",
+        "url": "https://open.spotify.com/album/1yS7tbUsMdT1D1tcwGKNIe"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167881,
+      "name": "Many Things",
+      "url": "https://open.spotify.com/track/7rIHP8C7oHYONnJpLjVnAc"
     },
     {
       "album": {
@@ -3798,7 +3864,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 178064,
       "name": "Pray 2 The East (feat. BNXN fka Buju)",
       "url": "https://open.spotify.com/track/5NI7jC26RB9s7prQc7SkZg"
@@ -3930,7 +3996,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 179247,
       "name": "Rader",
       "url": "https://open.spotify.com/track/2s0nWQX4bt2n9nUL9md5eI"
@@ -4214,6 +4280,32 @@
       "duration_ms": 196902,
       "name": "SENSATION",
       "url": "https://open.spotify.com/track/1apopV3Q5tF8ZqgpmLQc3C"
+    },
+    {
+      "album": {
+        "name": "Show Dem",
+        "url": "https://open.spotify.com/album/2UcamQzPAUNFKXHTvseo1P"
+      },
+      "artists": [
+        {
+          "name": "Dopsy Flow",
+          "url": "https://open.spotify.com/artist/3kdXVl3uUenZ0ctMpULhg8"
+        },
+        {
+          "name": "SBG",
+          "url": "https://open.spotify.com/artist/0YX4c3CwqB6lvz031ThpG6"
+        },
+        {
+          "name": "Fisherman",
+          "url": "https://open.spotify.com/artist/5pWkg4HchnEmpzTxk4ygnh"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174193,
+      "name": "Show Dem",
+      "url": "https://open.spotify.com/track/0rfQ48q9Krb373B8yzsFF4"
     },
     {
       "album": {
@@ -4954,6 +5046,24 @@
       "duration_ms": 126772,
       "name": "Winner",
       "url": "https://open.spotify.com/track/759sfP7h2s5b3DSixkSAeD"
+    },
+    {
+      "album": {
+        "name": "Wire",
+        "url": "https://open.spotify.com/album/7sp3pOTSG2BO3VWKcRWJH8"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144065,
+      "name": "Wire",
+      "url": "https://open.spotify.com/track/2XNaMlHROxvkKGohcQHQZV"
     },
     {
       "album": {

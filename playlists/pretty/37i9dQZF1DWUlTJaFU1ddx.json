@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Jordan.",
-  "num_followers": 21113,
+  "num_followers": 21130,
   "original_name": "Jordan Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MDIzNzE3MiwwMDAwMDAwMDA5NjlkNTAxOTMxNGNkOTZkNDlkMzEzNmU1YzBkOTY5",
+  "snapshot_id": "MTY3MDIzNzE3MiwwMDAwMDAwMGI3MzI4NDUzNTY4NThkZDhhZjhiODU0ODQ2ZmZiM2Ex",
   "tracks": [
     {
       "added_at": "2022-12-05 10:46:12",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-12-05 10:46:12",
       "album": {
+        "name": "Nasi",
+        "url": "https://open.spotify.com/album/5LC6AvKrSmynyr7o50k5OM"
+      },
+      "artists": [
+        {
+          "name": "Hana Malhas",
+          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Nasi",
+      "url": "https://open.spotify.com/track/2c2by2xH5vEW142S9zZD7G"
+    },
+    {
+      "added_at": "2022-12-05 10:46:12",
+      "album": {
         "name": "Tmaneet Ashofak",
         "url": "https://open.spotify.com/album/0FIEcX7gSEX1h8PqsQbWhu"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 298823,
       "name": "Tmaneet Ashofak",
       "url": "https://open.spotify.com/track/5dueytCp1DWHJizVwQ34va"
-    },
-    {
-      "added_at": "2022-12-05 10:46:12",
-      "album": {
-        "name": "Nasi",
-        "url": "https://open.spotify.com/album/5LC6AvKrSmynyr7o50k5OM"
-      },
-      "artists": [
-        {
-          "name": "Hana Malhas",
-          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Nasi",
-      "url": "https://open.spotify.com/track/2c2by2xH5vEW142S9zZD7G"
     },
     {
       "added_at": "2022-12-05 10:46:12",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-12-05 10:46:12",
       "album": {
-        "name": "Bafaker Kteer",
-        "url": "https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi"
-      },
-      "artists": [
-        {
-          "name": "Reina Khoury",
-          "url": "https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq"
-        }
-      ],
-      "duration_ms": 200337,
-      "name": "Bafaker Kteer",
-      "url": "https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD"
-    },
-    {
-      "added_at": "2022-12-05 10:46:12",
-      "album": {
         "name": "Khalliha Ala Allah",
         "url": "https://open.spotify.com/album/3yqmmWNUtIMWBlFImfPhb0"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 252295,
       "name": "Khalliha Ala Allah",
       "url": "https://open.spotify.com/track/4UiGACEtRM9N0PxuXzrVfQ"
+    },
+    {
+      "added_at": "2022-12-05 10:46:12",
+      "album": {
+        "name": "Bafaker Kteer",
+        "url": "https://open.spotify.com/album/0q5ucPk4f2c4vkm2XjCDYi"
+      },
+      "artists": [
+        {
+          "name": "Reina Khoury",
+          "url": "https://open.spotify.com/artist/1YsXYbFPDHJlPToN7Jj1Pq"
+        }
+      ],
+      "duration_ms": 200337,
+      "name": "Bafaker Kteer",
+      "url": "https://open.spotify.com/track/74ML4fl3QH6xBpoesTHSWD"
     },
     {
       "added_at": "2022-12-05 10:46:12",

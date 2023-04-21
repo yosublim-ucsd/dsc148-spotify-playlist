@@ -752,7 +752,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 297813,
       "name": "Ausland",
       "url": "https://open.spotify.com/track/5kvTLh8mq7wvJagpebHWpv"
@@ -1296,6 +1296,24 @@
       "duration_ms": 402666,
       "name": "Carceres Ex Novum",
       "url": "https://open.spotify.com/track/5Oa7sFlWvolNqolGptFWPi"
+    },
+    {
+      "album": {
+        "name": "Bytes",
+        "url": "https://open.spotify.com/album/3bVlfmSsqAhusT3IIyfHCW"
+      },
+      "artists": [
+        {
+          "name": "Xeper",
+          "url": "https://open.spotify.com/artist/29kmgH2zz9B7nOJXxNCwwC"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404693,
+      "name": "Carceres Ex Novum",
+      "url": "https://open.spotify.com/track/3Yu5KZAOboKyL3MH7VMFm8"
     },
     {
       "album": {

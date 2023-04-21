@@ -4,7 +4,7 @@
 
 > 한국 여성 아티스트들의 음악을 즐겨보세요! \(커버: NMIXX\)
 
-741 songs - 1 day 18 hr 52 min
+742 songs - 1 day 18 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,8 @@
 | [Dawn](https://open.spotify.com/track/23N1GRWq5U8mRLML7kFQGj) | [Jung So An](https://open.spotify.com/artist/0ZMUNPbr2C1knSYhpCfd6K) | [Dawn](https://open.spotify.com/album/7kcZOsfbpyZEyScs8NQW8I) | 3:42 | 2022-02-01 | 2022-03-08 |
 | [Day By Day](https://open.spotify.com/track/035HmS3BoIvFVe1ho1qxc4) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 4:10 | 2022-02-01 | 2022-03-08 |
 | [daydream](https://open.spotify.com/track/3CMR94d8HbST2a0VPfy0NS) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:06 | 2023-04-04 |  |
-| [Daydreaming](https://open.spotify.com/track/4sMaKBeqInpDVaGZCQHNl4) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Love or Hate](https://open.spotify.com/album/2Xff5qFOIixfs1RyPlM43V) | 3:16 | 2023-04-04 |  |
+| [Daydreaming](https://open.spotify.com/track/3b6dZemExfXk9Z69Feto18) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Love or Hate](https://open.spotify.com/album/73lmR1Fx6yF8KdtCRfr6a0) | 3:16 | 2023-04-04 |  |
+| [Daydreaming](https://open.spotify.com/track/4sMaKBeqInpDVaGZCQHNl4) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Love or Hate](https://open.spotify.com/album/2Xff5qFOIixfs1RyPlM43V) | 3:16 | 2023-04-04 | 2023-04-21 |
 | [Dead Man Runnin’](https://open.spotify.com/track/5eFGkCXi83auDi0bcDBEKD) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:19 | 2022-10-04 | 2022-11-11 |
 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 | 2022-11-10 | 2022-12-01 |
 | [dear tomorrow](https://open.spotify.com/track/1XpmXuiviEbGEK0tWPh26j) | [Wyne](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [dear tomorrow](https://open.spotify.com/album/4CxHKxvooeHnoItNaWqF8o) | 2:36 | 2022-03-07 | 2022-04-06 |

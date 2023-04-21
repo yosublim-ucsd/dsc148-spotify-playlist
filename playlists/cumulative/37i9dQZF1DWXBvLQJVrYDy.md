@@ -4,11 +4,11 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-163 songs - 10 hr 51 min
+164 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/68je1RygvBfwUcTZXU9toA) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Jazz Moods \- 'Round Midnight](https://open.spotify.com/album/58vSENHhdZo1Tc9VGCV5pY) | 7:12 | 2022-08-18 |  |
+| [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/68je1RygvBfwUcTZXU9toA) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Jazz Moods \- 'Round Midnight](https://open.spotify.com/album/58vSENHhdZo1Tc9VGCV5pY) | 7:12 | 2022-08-18 | 2023-04-21 |
 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/4pIF1SiB1GMFOFfo6OhrOi) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Here, There And Everywhere](https://open.spotify.com/album/0YDrnRN4lgzFDIWLtNLz2F) | 3:05 | 2022-08-18 |  |
 | [A Time For Love](https://open.spotify.com/track/5hlXjAmHmvbLNR169UW394) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [A Time For Love](https://open.spotify.com/album/5VQ209Y2ATo0ehJJbwpSi5) | 3:48 | 2022-09-29 |  |
 | [Aesthete](https://open.spotify.com/track/0oJWmWozI8Hgn9kxkv6vaL) | [Billy Hicks Quartet](https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5) | [Aesthete](https://open.spotify.com/album/3PJ0KtKGlCir7TYGmQaZ8q) | 3:42 | 2023-01-05 |  |
@@ -46,6 +46,7 @@
 | [Easy Living](https://open.spotify.com/track/03HZaJepBONLxbgWTsV7AK) | [The Bob Davis Group](https://open.spotify.com/artist/1lfkgC6uwLGN8qsvoaRgzT) | [Easy Living](https://open.spotify.com/album/4uh99qF1AoXvdsbU8IeMW7) | 3:23 | 2022-08-18 |  |
 | [Effortless Directions](https://open.spotify.com/track/1dcNIZLxbuD82G4kteimY5) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Effortless Directions](https://open.spotify.com/album/0I31GQwscZUsGHQv653JHa) | 3:32 | 2022-08-18 |  |
 | [Embraceble You](https://open.spotify.com/track/61qcz5XScc4DubjroIyGsG) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [Embraceble You](https://open.spotify.com/album/4GwhE4HL4dbZe9rch6dwAB) | 4:38 | 2022-08-18 |  |
+| [Epilogue](https://open.spotify.com/track/3VyR5Ge6OR28B8sSNlZGxN) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [Epilogue](https://open.spotify.com/album/5X29DiYEFR8JLcghhL1fIK) | 3:33 | 2023-04-20 |  |
 | [Evening In Paris](https://open.spotify.com/track/36NzG0ptwi4k798mpIS3Oz) | [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap) | [Zoot Sims avec Henri Renaud et son orchestre](https://open.spotify.com/album/1tYXf9tuMLCiUrW18UwlHE) | 3:21 | 2022-08-18 |  |
 | [Flatlands](https://open.spotify.com/track/2zI4BotlVn6HNOmCv3Nf75) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Flatlands](https://open.spotify.com/album/77J8FVf2roMDpGKHXjKIQC) | 3:14 | 2023-02-02 |  |
 | [Foggy Sunday](https://open.spotify.com/track/331aspu4164ZfUMcaWzc8C) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Foggy Sunday](https://open.spotify.com/album/3U2D6KS4rrUHvaFHY5w9P4) | 3:47 | 2022-08-18 | 2023-02-10 |
@@ -154,7 +155,7 @@
 | [Till There Was You](https://open.spotify.com/track/4MNtFvNn7MXXyiZjBgyuFo) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [A Song For You](https://open.spotify.com/album/1G6WFnEImR9Gnpt1kMsPHA) | 3:42 | 2022-08-18 |  |
 | [To Neville](https://open.spotify.com/track/5JOtxbSUTe2GjbcSDKDYAh) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [John B\. Stewart and friends Vol\. 1](https://open.spotify.com/album/2MiuqCoGcESaakS9BS5JAS) | 2:59 | 2022-08-18 |  |
 | [Trav'lin' Light](https://open.spotify.com/track/1qC105p6vhT7k9zP4pKHcU) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Joe Zawinul](https://open.spotify.com/artist/3DkK9XA1CI1i7U7ovpAo1G) | [Soulmates](https://open.spotify.com/album/0PsjPYsAPEyLg8DAUaUVcG) | 6:10 | 2022-08-18 |  |
-| [Underbart Är Kort](https://open.spotify.com/track/0oEP3faX4gSyczncGt1CYs) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Underbart Är Kort](https://open.spotify.com/album/5ONqJB3570jk1QqYEb4X3A) | 3:53 | 2022-10-06 |  |
+| [Underbart Är Kort](https://open.spotify.com/track/0oEP3faX4gSyczncGt1CYs) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [Underbart Är Kort](https://open.spotify.com/album/5ONqJB3570jk1QqYEb4X3A) | 3:53 | 2022-10-06 | 2023-04-21 |
 | [Västerbotten](https://open.spotify.com/track/6zM6wh0b8QjJHoXzUZbPe8) | [Andreas Gidlund](https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO) | [Västerbotten](https://open.spotify.com/album/1kc45nQdPEfUbk99ljLebi) | 3:25 | 2022-08-18 |  |
 | [Warm Valley](https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Used To Be Duke](https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ) | 3:20 | 2022-08-18 |  |
 | [Watch What Happens](https://open.spotify.com/track/3C8LKleDein4hf61QPoWg5) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [Crossways](https://open.spotify.com/album/5wS9f4r6IGfxyluF1ykXtG) | 2:57 | 2022-08-18 |  |

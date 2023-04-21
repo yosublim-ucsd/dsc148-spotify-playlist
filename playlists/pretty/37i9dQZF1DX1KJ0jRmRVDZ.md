@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,141 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,284 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 20 | [ただ君に晴れ](https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:18 |
 | 21 | [砂嵐](https://open.spotify.com/track/3ixlsKtDOXRKPnAr52s2b9) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [砂嵐](https://open.spotify.com/album/1QkoBNKwXejKLtlOFUDVV1) | 3:38 |
 | 22 | [Surges](https://open.spotify.com/track/66a0Ib85gRjtZmac4HFsvw) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [夏背](https://open.spotify.com/artist/3xRckHz0CRl2Z328bNeVpC), [ルワン](https://open.spotify.com/artist/0UOSYwTdo7kX41HWeuykKm) | [Surges](https://open.spotify.com/album/3Ub59gYPmtgwd0FUDeptaH) | 2:00 |
-| 23 | [秘密の言葉](https://open.spotify.com/track/0I5sXEB3M0LoLJcWhEtBvf) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [ズーカラデル](https://open.spotify.com/artist/1Xm4wqBkfcWe6mqO2w4hdV) | [秘密の言葉](https://open.spotify.com/album/36B8cQgCAwSE9ObdprQEGJ) | 3:17 |
-| 24 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 |
+| 23 | [色彩](https://open.spotify.com/track/1uveEvgKX4irLcp1BUTIFD) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [色彩](https://open.spotify.com/album/3gQJWupAma6DdzcHVBQ9Bn) | 3:12 |
+| 24 | [Nascent Sacrifice](https://open.spotify.com/track/1QzvSEACKXiCPweJe8OLmm) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [Nascent Sacrifice](https://open.spotify.com/album/6TBYIFQR3zIQmqkAEqUmv6) | 3:12 |
 | 25 | [メロウ](https://open.spotify.com/track/6cGU6sOzRem6E8S7tCme1n) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [メロウ](https://open.spotify.com/album/0jkxbnOM0JnTw4c3Uegf6e) | 4:09 |
 | 26 | [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 |
 | 27 | [shampoo](https://open.spotify.com/track/4NIcz7Sd5xD9HKeRSJt4Of) | [Tsumiki](https://open.spotify.com/artist/2yOW9NvwKDNZhbH3nNiuyM), [Airi Suzuki](https://open.spotify.com/artist/5CNizvovBclNd3YP1DzaiI) | [shampoo](https://open.spotify.com/album/50SoXlMhlHSXXPJY3dAbSA) | 3:33 |
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 32 | [レモンの花](https://open.spotify.com/track/70AT1JCm28kVWclugOUbeM) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [レモンの花](https://open.spotify.com/album/02rdR2S8XYznEiYEQqTFvm) | 3:36 |
 | 33 | [好きだ](https://open.spotify.com/track/7537JfhvVpEqkrY2CIY7zu) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [好きだ](https://open.spotify.com/album/1IOv9TZ1IarsEQ6RB7HEe0) | 3:37 |
 | 34 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 |
-| 35 | [レブル](https://open.spotify.com/track/2866mFfVRWokPM8PHRPSUB) | [むト](https://open.spotify.com/artist/38gt1AsY6ZhEtrOP7e94ui) | [レブル](https://open.spotify.com/album/4GjhNKHhyfR2F1AEaH4Jqg) | 3:38 |
+| 35 | [BLUE](https://open.spotify.com/track/6XBLLp49i8tXIEYR7KDYUt) | [堂村璃羽](https://open.spotify.com/artist/6s5z8omxqZ2k0gdGUSB0hp) | [BLUE](https://open.spotify.com/album/68FbIirzOmmkc44PrvOQor) | 3:08 |
 | 36 | [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 |
 | 37 | [Luck in me](https://open.spotify.com/track/7Cc2wTxZ2ZaglTu1wVCZUZ) | [來\-Ray\-](https://open.spotify.com/artist/2ZBJuQnv8Gmj0fIgvcgxhi) | [Luck in me](https://open.spotify.com/album/2SqQaZKFWtGqbb4UtnfSSx) | 3:17 |
 | 38 | [綺羅キラー](https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj), [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [綺羅キラー](https://open.spotify.com/album/24HE9Q8LrZupbkTmux0U9O) | 4:13 |
-| 39 | [水光](https://open.spotify.com/track/1h8SMT8M4eoaMUxAHzDYk9) | [詩道](https://open.spotify.com/artist/3GxiOV4tzMiuDG4MDmQMzC) | [水光](https://open.spotify.com/album/0UEfFiPlXtGjtOdNFdO1mD) | 4:00 |
+| 39 | [君君舞](https://open.spotify.com/track/7nJACq9fYQW0H6cJmmmkri) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [君君舞](https://open.spotify.com/album/21XcpsofKNDoMDf9u678Wz) | 3:13 |
 | 40 | [海のまにまに](https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [海のまにまに](https://open.spotify.com/album/6M4p4S5t8PuRZiq7zvMEPB) | 4:15 |
 | 41 | [ピアスを飲む](https://open.spotify.com/track/0MeVGdMTHtVDu9bYS21BcS) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [ピアスを飲む](https://open.spotify.com/album/4gELhndqwqi2hJjO7ljuqp) | 2:42 |
 | 42 | [SHOCK!](https://open.spotify.com/track/2L1HeoX1m3Zv8KPM6HdfZN) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [SHOCK!](https://open.spotify.com/album/4L33Z8w28HGEwywExm2Z4L) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 49 | [ミスター](https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [ミスター](https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt) | 3:07 |
 | 50 | [消えてしまいそうです](https://open.spotify.com/track/4wYCZ6QS5EClBXqjakTieR) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [消えてしまいそうです](https://open.spotify.com/album/6UdhROGy9pKEVMLZxTQU5Z) | 4:17 |
 
-Snapshot ID: `MTY4MTgzMDAwMCwwMDAwMDAwMDY2YjM0NTY1OGQyMjEwZDdjYzExMDE5MTYxZTk0YWUw`
+Snapshot ID: `MTY4MjAwMjgwMCwwMDAwMDAwMDQ3ODhlNDdhMTA0OTQ1NTEwMzE3OTgxMTdhNDAxNzVh`

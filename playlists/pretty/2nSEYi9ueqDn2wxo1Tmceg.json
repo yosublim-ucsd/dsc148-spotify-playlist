@@ -1,13 +1,33 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78581,
+  "num_followers": 78578,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzY2NSxjYWYzNjk0MWFiOWEzMjU3YTAzZDY1MmFiZWNiNDI4ZGEyMWU0ZTE0",
+  "snapshot_id": "MzY2Niw5YTVhZmI0MWIzYzc2OTRjYzg0YWExZmI0MzJiNjU1ZTk5MDU4YTQ5",
   "tracks": [
+    {
+      "added_at": "2023-04-20 09:11:50",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/038nzTPTer7dDaM9Z5K4M6"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        },
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 221046,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/0GAr2dDEqEXqlhQzvyZTsK"
+    },
     {
       "added_at": "2023-04-19 13:46:46",
       "album": {

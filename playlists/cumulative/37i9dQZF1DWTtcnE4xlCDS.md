@@ -4,7 +4,7 @@
 
 > Enjoy music from DEN\-ON\-BU! 気鋭のコンポーザーが多数参加し、今話題のキャラクタープロジェクト<a href="https://denonbu.jp/">「電音部」</a>を特集!! キャラクターと紡ぐ電子音楽の世界に飛び込もう。
 
-122 songs - 7 hr 42 min
+123 songs - 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Sirens in the Beginning](https://open.spotify.com/track/43KbYiXkCyQteYflZRxcsj) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU) | [Sirens in the Beginning](https://open.spotify.com/album/41aQJ6VnDr7aU1wLOFRDsn) | 1:58 | 2022-08-24 |  |
 | [Spot AA by maeshima soshi](https://open.spotify.com/track/3qlajwJ4RDxD7sgZF4NOuo) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [DENONBU 1st LIVE \-Make Waves\- DANCE TRACK](https://open.spotify.com/album/5xCiqHMNrNax57or0U39oH) | 3:01 | 2022-08-24 |  |
 | [Starchild](https://open.spotify.com/track/42c2s0zb9FT06MvOeQJrSS) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [BOOGEY VOXX](https://open.spotify.com/artist/3VAdXfwUyM3Z1KvtnPlllq), [D.watt\(IOSYS\)](https://open.spotify.com/artist/0t8quIImGrrY7TD7uW2twd), [日高零奈 \(CV: 蔀 祐佳\)](https://open.spotify.com/artist/3U8W8KZ51Z96pSqPjkWNYz), [D.watt](https://open.spotify.com/artist/7jEjiWsuWaoWwNS9I8CtJr) | [Starchild](https://open.spotify.com/album/3JtrsZzAxhjO8n9YDz0Fw5) | 5:27 | 2022-12-22 |  |
+| [SUPERSONIC](https://open.spotify.com/track/2T5fVFxNeWpBIQrQQxyjoL) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [Yuta Imai](https://open.spotify.com/artist/3sMoBcuGm33knrJxEoJY5k), [鳳凰火凛 \(CV: 健屋花那\)](https://open.spotify.com/artist/12WNAXEoWB8oNjlyuYU5hZ), [瀬戸海月 \(CV: シスター・クレア\)](https://open.spotify.com/artist/3fHDuekX2NfAhKC0f3Qde5), [大賀ルキア \(CV: 星川サラ\)](https://open.spotify.com/artist/3IFOQg0N8gQooK5duWNRq4) | [SUPERSONIC](https://open.spotify.com/album/1sNOYfDx1kKPGi7wpe4yQM) | 2:28 | 2023-04-20 |  |
 | [Sweet Illusion](https://open.spotify.com/track/3NS4FZSiLcwkVrgGdSUIEI) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [白金 煌 \(CV: 小宮有紗\)](https://open.spotify.com/artist/2xJeAewClnCHglceTI3gIw) | [Sweet Illusion](https://open.spotify.com/album/5UkeLvWAFmmCo4ogCKQ2ZL) | 3:57 | 2022-12-08 |  |
 | [Sweet Operation by Midy](https://open.spotify.com/track/5DyirjXPWr2fPllPR3Elqc) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [ミディ](https://open.spotify.com/artist/2kfVJr9I2VZHzjuxkvlM12) | [DENONBU 1st LIVE \-Make Waves\- DANCE TRACK](https://open.spotify.com/album/5xCiqHMNrNax57or0U39oH) | 2:53 | 2022-08-24 |  |
 | [Sync My Lights](https://open.spotify.com/track/6xUEfLhkIz6lOycSgPHYDd) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [日高零奈 \(CV: 蔀 祐佳\)](https://open.spotify.com/artist/3U8W8KZ51Z96pSqPjkWNYz), [桜乃美々兎 \(CV: 小坂井祐莉絵\)](https://open.spotify.com/artist/2she8Gi8cVSwSM8aTWmurk), [市瀬るぽ](https://open.spotify.com/artist/4JPnxsMo1F3QOkh9KGDWz1) | [Sync My Lights](https://open.spotify.com/album/2vTZyxDN4NpFRJWHWv740U) | 4:26 | 2022-08-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Tafa Mi\-Soleil
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,407 likes - 91 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,438 likes - 91 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,11 +81,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 71 | [Bout Konpa \- Original Mix](https://open.spotify.com/track/55PtuQkEHQn7Hv8Eol2s4M) | [DZgot](https://open.spotify.com/artist/5iBk1Zgk2MpjUKJAZzUala) | [La Vibe Tropicale EP](https://open.spotify.com/album/7iPsCx6iGPY9ZUNEA2MuHH) | 3:50 |
 | 72 | [Twa Fey](https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3) | [Riva Nyri Precil](https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0) | [Perle De Culture](https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v) | 4:25 |
 | 73 | [Mercy](https://open.spotify.com/track/3ytSwpnF36uspwdRkqPTG1) | [NEVRMIND](https://open.spotify.com/artist/09apxys93rFK3x28ufjH6w) | [Mercy](https://open.spotify.com/album/2LMAGmJtjSF4yu3LFKs4NK) | 2:33 |
-| 74 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 |
-| 75 | [Worth It](https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg) | [Tadia](https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6) | [Worth It](https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD) | 2:38 |
-| 76 | [Gas](https://open.spotify.com/track/4DdQQo4qhk9eF1UHdJbyHe) | [Prophete](https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga), [Z The Vibe Doctor](https://open.spotify.com/artist/3WRJrViaYZhEeFmys3qkhh), [Benny D](https://open.spotify.com/artist/2MVqOz9KQgt7COdVrx9pEu), [Machi](https://open.spotify.com/artist/0poIF8nGpOv2KH9hGlrTMy), [Julian Mendoza](https://open.spotify.com/artist/0KeoZWpxqa1hhsIuhMnGv4) | [Gas](https://open.spotify.com/album/3yheahck4DYMvzYQXkuWGI) | 3:00 |
-| 77 | [Ayizan](https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB) | [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [Rasanbleman \(Red Moon\)](https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY) | 6:40 |
-| 78 | [Ou Bezwen](https://open.spotify.com/track/5H51dmoxcnIjGtWi8Z7Mje) | [Jay Brixxx](https://open.spotify.com/artist/3AbIquMMRDRsnRFR7uISXv) | [Ou Bezwen](https://open.spotify.com/album/0tH8ORhhM3pt7UhoG9jnOp) | 4:12 |
+| 74 | [Worth It](https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg) | [Tadia](https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6) | [Worth It](https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD) | 2:38 |
+| 75 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 |
+| 76 | [Ou Bezwen](https://open.spotify.com/track/5H51dmoxcnIjGtWi8Z7Mje) | [Jay Brixxx](https://open.spotify.com/artist/3AbIquMMRDRsnRFR7uISXv) | [Ou Bezwen](https://open.spotify.com/album/0tH8ORhhM3pt7UhoG9jnOp) | 4:12 |
+| 77 | [Gas](https://open.spotify.com/track/4DdQQo4qhk9eF1UHdJbyHe) | [Prophete](https://open.spotify.com/artist/4X0h94zhNOynYlY7GOacga), [Z The Vibe Doctor](https://open.spotify.com/artist/3WRJrViaYZhEeFmys3qkhh), [Benny D](https://open.spotify.com/artist/2MVqOz9KQgt7COdVrx9pEu), [Machi](https://open.spotify.com/artist/0poIF8nGpOv2KH9hGlrTMy), [Julian Mendoza](https://open.spotify.com/artist/0KeoZWpxqa1hhsIuhMnGv4) | [Gas](https://open.spotify.com/album/3yheahck4DYMvzYQXkuWGI) | 3:00 |
+| 78 | [Ayizan](https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB) | [Paul Beaubrun](https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg), [Anie Alerte](https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf) | [Rasanbleman \(Red Moon\)](https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY) | 6:40 |
 | 79 | [U.F.O.](https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc) | [Freedom](https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd), [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [U.F.O.](https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu) | 3:30 |
 | 80 | [Solèy Midi](https://open.spotify.com/track/25Vevbcv3QfVgwbdqiGSMW) | [Talie](https://open.spotify.com/artist/1005EO3lZm6PtyflJuB5k6), [David Chavannes](https://open.spotify.com/artist/7uvV6jZpaQUFDhQD5aNjHc) | [Solèy Midi](https://open.spotify.com/album/5TLXCx8PFQwyaoc8LhnqlF) | 3:49 |
 | 81 | [Nan ou](https://open.spotify.com/track/7BXFfnn1uw7e1Zx6Pi3KGH) | [Gessica Généus](https://open.spotify.com/artist/1GAw14vejnlO5eyny3lDHw) | [Nan ou](https://open.spotify.com/album/6hofahig2OrGv725bqsmo3) | 3:46 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 90 | [Koupé](https://open.spotify.com/track/4qDqvbShZqZoipdKJuV3fk) | [Bilix](https://open.spotify.com/artist/2t3MOHUqpgzXfxRugdaXSY), [Blackboy](https://open.spotify.com/artist/41rmcjpuoB63va3wJtJ5sV), [Jay Brixxx](https://open.spotify.com/artist/3AbIquMMRDRsnRFR7uISXv) | [Koupé](https://open.spotify.com/album/0wDhbYYG03ApoFYKwtFpZI) | 2:35 |
 | 91 | [Family](https://open.spotify.com/track/0T1U4AfxwwJgVjBrVVlrB0) | [SLESH](https://open.spotify.com/artist/0iETUq1npNcYLaeKJfQxyE) | [Family](https://open.spotify.com/album/7vOv0fgzJ60IIDOAmqDRY3) | 3:08 |
 
-Snapshot ID: `MTY4MTI0NjgwMCwwMDAwMDAwMDc0OTk4YzM4MGU2ZTE2NmU5YmM5YzI3ZGQ5ODcyN2Q1`
+Snapshot ID: `MTY4MTI0NjgwMCwwMDAwMDAwMGU4MGE0NTI2NDA4YTNhZmFjODlmMGY5OTk1OTc1NmM2`

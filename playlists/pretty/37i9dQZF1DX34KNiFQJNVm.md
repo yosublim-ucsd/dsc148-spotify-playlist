@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Lagum, Mc Don Juan, Dilsinho, Leo Santana, Xande De Pilares com Grupo Menos É Mais e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,861,933 likes - 98 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,862,079 likes - 98 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

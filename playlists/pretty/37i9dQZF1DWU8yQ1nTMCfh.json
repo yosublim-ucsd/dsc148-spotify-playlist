@@ -1,12 +1,12 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: ROBI",
-  "num_followers": 279945,
+  "num_followers": 279966,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMGMzMjQ1YTY1MTdjNTU3NDcyNDAwOGEyM2Y2MGE2N2M0",
+  "snapshot_id": "MTY4MTQ0NDgwMCwwMDAwMDAwMDRjZjJiZTkyYzlhNmE0NjU2MDVkMmY0ZjZkZDA0NDlm",
   "tracks": [
     {
       "added_at": "2023-04-14 04:00:00",
@@ -195,6 +195,26 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Himno (para los que est\u00e1n jodidos)",
+        "url": "https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c"
+      },
+      "artists": [
+        {
+          "name": "La La Love You",
+          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
+        },
+        {
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
+        }
+      ],
+      "duration_ms": 185790,
+      "name": "Himno (para los que est\u00e1n jodidos)",
+      "url": "https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Invulnerables",
         "url": "https://open.spotify.com/album/2jsPDhunOhaszojgFUOEwg"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 242600,
       "name": "Invulnerables",
       "url": "https://open.spotify.com/track/2cwzPKMXgXkBNF2RMogu4v"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 204455,
-      "name": "Venganza",
-      "url": "https://open.spotify.com/track/2UJfYO4NNQSxBq0ElmDNd1"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -247,22 +247,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Himno (para los que est\u00e1n jodidos)",
-        "url": "https://open.spotify.com/album/0WCX8VZK7JA2mChT1sQO3c"
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
       },
       "artists": [
         {
-          "name": "La La Love You",
-          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
         },
         {
-          "name": "Allison",
-          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 185790,
-      "name": "Himno (para los que est\u00e1n jodidos)",
-      "url": "https://open.spotify.com/track/0xk30CeA3Klu0xOOdE8grl"
+      "duration_ms": 204455,
+      "name": "Venganza",
+      "url": "https://open.spotify.com/track/2UJfYO4NNQSxBq0ElmDNd1"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 211204,
-      "name": "No Te Imagin\u00e1s",
-      "url": "https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Alaska",
         "url": "https://open.spotify.com/album/4okxJTqEzEQdyS682cvCKr"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 258573,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/1LpsC9iwh1VK1nOtN7729V"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Flashbacks",
+        "url": "https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p"
+      },
+      "artists": [
+        {
+          "name": "ALOISIO",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Flashbacks",
+      "url": "https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Flashbacks",
-        "url": "https://open.spotify.com/album/2eX3VTEufyr7HyraJAJh3p"
-      },
-      "artists": [
-        {
-          "name": "ALOISIO",
-          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Flashbacks",
-      "url": "https://open.spotify.com/track/26Frme7h8IxAkzfFp7rUSS"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "ROY",
         "url": "https://open.spotify.com/album/40hEXrrbfFrriCUTOw4uRh"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 191725,
       "name": "Si En Tu Mente Estuve",
       "url": "https://open.spotify.com/track/6EjBcoyPVn99cpRfoDiuRf"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 211204,
+      "name": "No Te Imagin\u00e1s",
+      "url": "https://open.spotify.com/track/7x00uv5aDR0MA8eIk7xAuf"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "La \u00daltima Canci\u00f3n",
+        "url": "https://open.spotify.com/album/1hPosK94j6gE80FZzEkgMy"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Obreg\u00f3n",
+          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
+        }
+      ],
+      "duration_ms": 157144,
+      "name": "La \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/3js8DzXWWL7hfRMumQRAAQ"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Ramona Flowers",
         "url": "https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Todo cambi\u00f3",
-        "url": "https://open.spotify.com/album/4l7LSWZZmywFhZ95giwwao"
-      },
-      "artists": [
-        {
-          "name": "Hens",
-          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
-        }
-      ],
-      "duration_ms": 188951,
-      "name": "Todo cambi\u00f3",
-      "url": "https://open.spotify.com/track/30pCQuZVJAmBgzVJkLuq7p"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "EL PEOR",
         "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
       },
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "La \u00daltima Canci\u00f3n",
-        "url": "https://open.spotify.com/album/1hPosK94j6gE80FZzEkgMy"
+        "name": "Todo cambi\u00f3",
+        "url": "https://open.spotify.com/album/4l7LSWZZmywFhZ95giwwao"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Obreg\u00f3n",
-          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
         }
       ],
-      "duration_ms": 157144,
-      "name": "La \u00daltima Canci\u00f3n",
-      "url": "https://open.spotify.com/track/3js8DzXWWL7hfRMumQRAAQ"
+      "duration_ms": 188951,
+      "name": "Todo cambi\u00f3",
+      "url": "https://open.spotify.com/track/30pCQuZVJAmBgzVJkLuq7p"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Eva",
-        "url": "https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 163720,
-      "name": "Qu\u00e9date Con \u00c9l",
-      "url": "https://open.spotify.com/track/0Izcb9Fi0SttnpjldQEgvc"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Noches Largas (feat. Bruses)",
         "url": "https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 293866,
       "name": "Noches Largas (feat. Bruses)",
       "url": "https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Eva",
+        "url": "https://open.spotify.com/album/5L5zhlV2NQALYptNM3WNIz"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 163720,
+      "name": "Qu\u00e9date Con \u00c9l",
+      "url": "https://open.spotify.com/track/0Izcb9Fi0SttnpjldQEgvc"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Trebol",
+        "url": "https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7"
+      },
+      "artists": [
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn"
+        }
+      ],
+      "duration_ms": 162758,
+      "name": "Trebol",
+      "url": "https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "El Ding Dong",
         "url": "https://open.spotify.com/album/5fIoGmJwYfj24FqrUU8Yvp"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 206615,
       "name": "Plaza en el cielo",
       "url": "https://open.spotify.com/track/2gCUxvwaDqfzp6zDiijnfr"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Trebol",
-        "url": "https://open.spotify.com/album/4smZo9EQGuF39FTXLVkIf7"
-      },
-      "artists": [
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/3iDRCnCdwM5oi2F2HWBiLn"
-        }
-      ],
-      "duration_ms": 162758,
-      "name": "Trebol",
-      "url": "https://open.spotify.com/track/5fnNI5FXd0d6Wdaj6lUoyi"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Astronom\u00eda Interior",
-        "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
-      },
-      "artists": [
-        {
-          "name": "Astronom\u00eda Interior",
-          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
-        }
-      ],
-      "duration_ms": 203880,
-      "name": "Movimiento",
-      "url": "https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
         "name": "Generaci\u00f3n Inmediata",
         "url": "https://open.spotify.com/album/5tNTvuit5SbZJcqpFvRxLB"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 205400,
       "name": "Tu Tiempo",
       "url": "https://open.spotify.com/track/2a09cdduEZrXSIhVo2LPmv"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Astronom\u00eda Interior",
+        "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
+      },
+      "artists": [
+        {
+          "name": "Astronom\u00eda Interior",
+          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
+        }
+      ],
+      "duration_ms": 203880,
+      "name": "Movimiento",
+      "url": "https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Guanaco",
+        "url": "https://open.spotify.com/album/5NfJb3X3Yr0lAEu3tRdWgr"
+      },
+      "artists": [
+        {
+          "name": "Kiltro",
+          "url": "https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm"
+        }
+      ],
+      "duration_ms": 308035,
+      "name": "Guanaco",
+      "url": "https://open.spotify.com/track/4alR2UPn0Xwlg45XJNAyMS"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "Instinto Felino",
         "url": "https://open.spotify.com/album/3b7KSl4T0aZx1ET3wMWyqV"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 164095,
       "name": "L\u00c1 L\u00c1",
       "url": "https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Guanaco",
-        "url": "https://open.spotify.com/album/5NfJb3X3Yr0lAEu3tRdWgr"
-      },
-      "artists": [
-        {
-          "name": "Kiltro",
-          "url": "https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm"
-        }
-      ],
-      "duration_ms": 308035,
-      "name": "Guanaco",
-      "url": "https://open.spotify.com/track/4alR2UPn0Xwlg45XJNAyMS"
     },
     {
       "added_at": "2023-04-14 04:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-04-14 04:00:00",
       "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/1SCkHpyMe6KZK5ScMcrp9a"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/2VqVScPVFQLtg6bDtnhQW3"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
         "name": "FBI",
         "url": "https://open.spotify.com/album/7nISyqRwUIfAYATsvHgdgS"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 212693,
       "name": "\u00bfY C\u00f3mo?",
       "url": "https://open.spotify.com/track/0VZ2en9UGr6NgVUyOkAUdO"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/1SCkHpyMe6KZK5ScMcrp9a"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 216040,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/2VqVScPVFQLtg6bDtnhQW3"
     },
     {
       "added_at": "2023-04-14 04:00:00",

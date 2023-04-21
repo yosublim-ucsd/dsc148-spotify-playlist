@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 157017,
+  "num_followers": 157095,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTIwMDE5NSwwMDAwMDAwMDZmNzFhY2RlYmNkZGFlZGFlMzA0ZWZhZGVjNTQ4YTNi",
+  "snapshot_id": "MTY0NTIwMDE5NSwwMDAwMDAwMGQ1NDUxMzBhYWVmMzI2MTZmM2FkNjI1OGM2OTNkYzU5",
   "tracks": [
     {
       "added_at": "2022-02-18 16:03:15",
@@ -655,26 +655,6 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
-        "name": "Los Amigos",
-        "url": "https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY"
-      },
-      "artists": [
-        {
-          "name": "Johnny Pacheco",
-          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
-        },
-        {
-          "name": "Hector Casanova",
-          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
-        }
-      ],
-      "duration_ms": 382360,
-      "name": "Agua De Clavelito",
-      "url": "https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 333280,
       "name": "El Pito (I'll Never Go Back To Georgia)",
       "url": "https://open.spotify.com/track/4urZ7xOhe9Ss1Yi2t9a9NY"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
+        "name": "Los Amigos",
+        "url": "https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Hector Casanova",
+          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
+        }
+      ],
+      "duration_ms": 382360,
+      "name": "Agua De Clavelito",
+      "url": "https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl"
     },
     {
       "added_at": "2022-02-18 16:03:15",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-02-18 16:03:15",
       "album": {
+        "name": "With A Little Help From My Friend",
+        "url": "https://open.spotify.com/album/3RRcw4zxfUm5rhfYpLMzlZ"
+      },
+      "artists": [
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        }
+      ],
+      "duration_ms": 282213,
+      "name": "Salom\u00e9",
+      "url": "https://open.spotify.com/track/6DDQmrMvH4RfxVn7TTTDW6"
+    },
+    {
+      "added_at": "2022-02-18 16:03:15",
+      "album": {
         "name": "Jibaro Soy... Dg1236",
         "url": "https://open.spotify.com/album/3QoLk4smlcw55snXcRwGTP"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 327497,
       "name": "Siempre Ser\u00e9 Guajiro",
       "url": "https://open.spotify.com/track/2PQMhXmBx5h2jDsgZYHTfx"
-    },
-    {
-      "added_at": "2022-02-18 16:03:15",
-      "album": {
-        "name": "With A Little Help From My Friend",
-        "url": "https://open.spotify.com/album/3RRcw4zxfUm5rhfYpLMzlZ"
-      },
-      "artists": [
-        {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
-        }
-      ],
-      "duration_ms": 282213,
-      "name": "Salom\u00e9",
-      "url": "https://open.spotify.com/track/6DDQmrMvH4RfxVn7TTTDW6"
     },
     {
       "added_at": "2022-02-18 16:03:15",

@@ -285,6 +285,24 @@
     },
     {
       "album": {
+        "name": "Bended Light",
+        "url": "https://open.spotify.com/album/5MA3BeStjVJwUIHRSX7QgR"
+      },
+      "artists": [
+        {
+          "name": "Rahill",
+          "url": "https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143466,
+      "name": "Bended Light",
+      "url": "https://open.spotify.com/track/4Rv8cCe4oO9tRR2vkoXSHp"
+    },
+    {
+      "album": {
         "name": "Better Now (feat. MARO)",
         "url": "https://open.spotify.com/album/2Yf834YZ8vDNN7mcjJ0FEo"
       },
@@ -912,7 +930,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 213671,
       "name": "Geronimo",
       "url": "https://open.spotify.com/track/50p95vsF3KsQ1Yp4tt6Qkf"

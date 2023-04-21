@@ -4,7 +4,7 @@
 
 > Learn more at <a href="https://folk.org/programs/conference/">folk.org/conference</a>\. Cover: The Milk Carton Kids
 
-492 songs - 1 day 8 hr 5 min
+493 songs - 1 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [It's Burning](https://open.spotify.com/track/65lIZKbg40Zfu5Y1wiNm7X) | [Mark Rubin, Jew of Oklahoma](https://open.spotify.com/artist/32bbDxOZn7MY1zf5P3aBLm) | [The Triumph of Assimilation](https://open.spotify.com/album/6RlGIIXmMLAtj1jlif5cFB) | 2:34 | 2022-04-25 | 2023-01-25 |
 | [I’m Still Trying](https://open.spotify.com/track/7DPecD3ijWkltDP4WUyMok) | [Matthew Fowler](https://open.spotify.com/artist/4sEwd00h37jbfriErP8soZ) | [The Grief We Gave Our Mother](https://open.spotify.com/album/7snLxBVME5RadyC4qFlgHk) | 3:22 | 2023-01-24 |  |
 | [James Monroe](https://open.spotify.com/track/6Yj3YkHvEiFiuoiN0LIG5a) | [The Henry Girls](https://open.spotify.com/artist/02KeGV8345Zm6WfWdCiD2i) | [Louder Than Words](https://open.spotify.com/album/71Xv0HxHxU6zsYTjXLHcPi) | 3:44 | 2023-01-24 |  |
-| [Jamie Rae](https://open.spotify.com/track/3GUYM3lATbcxCIvOYU4Oes) | [Cary Morin](https://open.spotify.com/artist/51oTB1rGltPYEUj9WqBqgh) | [Dockside Saints](https://open.spotify.com/album/0VvtzEDQNaB465SWFxPI9o) | 4:30 | 2023-01-24 |  |
+| [Jamie Rae](https://open.spotify.com/track/3GUYM3lATbcxCIvOYU4Oes) | [Cary Morin](https://open.spotify.com/artist/51oTB1rGltPYEUj9WqBqgh) | [Dockside Saints](https://open.spotify.com/album/0VvtzEDQNaB465SWFxPI9o) | 4:30 | 2023-01-24 | 2023-04-21 |
 | [Je veux m'y marier / Le talencourt](https://open.spotify.com/track/1OO5XumJ22bglUWWs3pId3) | [Grosse Isle](https://open.spotify.com/artist/608gEqY93wuJtHdofldWwR) | [Le bonhomme sept heures / The Bonesetter](https://open.spotify.com/album/52ylZOnjjntlhhTcjaHbNH) | 4:21 | 2022-04-25 | 2023-01-25 |
 | [Jerusalem Ridge](https://open.spotify.com/track/6BOZeKJVCzMSZfiHsY57ah) | [Michael Cleveland & Flamekeeper](https://open.spotify.com/artist/46HGE8bfMWCixEEe2qkOXG) | [Leavin' Town](https://open.spotify.com/album/39gtOe2bxoiVaX5VrfGag0) | 4:37 | 2021-02-23 | 2022-04-26 |
 | [Jurame](https://open.spotify.com/track/0haThdi0U8vPh29jhfUtwl) | [Ensemble Iberica](https://open.spotify.com/artist/6IHtGDZKdtCSwrfGWri2Su) | [Colonia](https://open.spotify.com/album/3fkNDz0KIGAUycso4g0q3I) | 3:50 | 2021-02-23 | 2022-04-26 |
@@ -494,6 +494,7 @@
 | [Yellow Lines](https://open.spotify.com/track/7pPgvCyOjp4jQTqXMyP6H1) | [The Pairs](https://open.spotify.com/artist/0lHbro7ngdrxRknqRzR9E9) | [Yellow Lines](https://open.spotify.com/album/4A14mmS2HfkfJIp6PX3xKO) | 3:07 | 2023-01-24 |  |
 | [Yemanjá](https://open.spotify.com/track/3s93NjNLvol0JdtnxHjkZA) | [Dendê & Band](https://open.spotify.com/artist/6UGwird8paeVPHXc6CPRTT) | [Agô](https://open.spotify.com/album/06CIShwZYGYtlRx3wEfljZ) | 4:12 | 2023-01-24 | 2023-03-28 |
 | [Yemaya \(Ile Ladde\)](https://open.spotify.com/track/3oHbYtoQrQwjakUd4OfzYz) | [Okan](https://open.spotify.com/artist/3lzMXGRYV6IqjfU16Igakt), [Rauzzy Ferrer](https://open.spotify.com/artist/2kyhJaXsjTZOEdp5LVpnj0) | [Yemaya \(Ile Ladde\)](https://open.spotify.com/album/3bl3gaq46FVVtgJksDM9up) | 4:22 | 2022-04-25 | 2023-01-25 |
+| [Yesterday Lied](https://open.spotify.com/track/7GI8zkrEocXmA9taeIL7mH) | [JM Stevens](https://open.spotify.com/artist/4LN1RIwD6YCy2ib7JSw0xf) | [Yesterday Lied](https://open.spotify.com/album/2sKmTNpYbLSauhNeyrYyy1) | 3:03 | 2023-01-24 |  |
 | [You Don't Care or You Don't Have the Time](https://open.spotify.com/track/1BHSkaWKX6ndWSNM2azk5L) | [The Contenders](https://open.spotify.com/artist/2SfJeCSWSXkOxFcmFYkUGP) | [You Don't Care or You Don't Have the Time](https://open.spotify.com/album/4DioJ7eR3btbe88xhWc8m5) | 3:54 | 2023-01-24 |  |
 | [You Make Me Complete](https://open.spotify.com/track/28YjdLbZisGZMAJsFu3gpR) | [Xani](https://open.spotify.com/artist/1LP72B5kQrU2Ns4C02koav) | [You Make Me Complete](https://open.spotify.com/album/1zfD1lgOIQP8eIOWTpA1kl) | 4:37 | 2022-04-25 | 2023-01-25 |
 | [You Make Me Wanna Dance](https://open.spotify.com/track/4yonD9lIO1eTrSofS0qsld) | [Dan Weber](https://open.spotify.com/artist/2IW8tpYJv3nKXyNi9wizuy) | [You Make Me Wanna Dance](https://open.spotify.com/album/2keZoHj1xA8mTgdWm5U7eg) | 3:08 | 2022-04-25 | 2023-01-25 |

@@ -4,11 +4,12 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-278 songs - 1 day 2 hr 3 min
+279 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [>>>>>>Becoming](https://open.spotify.com/track/07BmM24UshepfB2PeBxu7Y) | [Kendrick Scott](https://open.spotify.com/artist/3xidVCWg60r8Wdm6g9VCux) | [A Wall Becomes A Bridge](https://open.spotify.com/album/6x36FYMhcxlEjJB97ikwA3) | 4:52 | 2020-10-09 |  |
+| [A Ballad for Alice](https://open.spotify.com/track/01gXG16eWORzNaZdTqdVWD) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [A Ballad for Alice](https://open.spotify.com/album/1iWcq6geiresvdyp7hUajv) | 2:58 | 2023-04-20 |  |
 | [A Child Not Yet Born](https://open.spotify.com/track/1oK3iRgQrsfVjPPCRf9KoG) | [Farnell Newton](https://open.spotify.com/artist/7j8hJ3AUvRVQp2J4eFxjVi), [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib), [Boris Kozlov](https://open.spotify.com/artist/3oPzcffnTlaWQILnSzNNh5), [Joe Strasser](https://open.spotify.com/artist/2pAeDu7ejJdbpsxwJm1nhE), [Brandon Wright](https://open.spotify.com/artist/5mqnoc3ceU0OebStAoldPL) | [Feel the Love](https://open.spotify.com/album/5B12r1hEUg8WiJN3GYdFTS) | 5:13 | 2021-10-15 |  |
 | [A Flower Is a Lovesome Thing](https://open.spotify.com/track/5m5k5wCQiXimPD5V4ik6VN) | [Gathering in Jazz](https://open.spotify.com/artist/76ByYkq6kq4j3eWue0iTJh), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Straight Road](https://open.spotify.com/album/248dwcccpMSMb7giqK1nJg) | 4:45 | 2022-10-06 |  |
 | [A Hundred Dreams from Now](https://open.spotify.com/track/2R9KveaVtFgiiEC6KSF9un) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [A Hundred Dreams from Now](https://open.spotify.com/album/1OLQClJexwEK6xNTb5mU4L) | 3:26 | 2020-10-09 | 2022-07-29 |

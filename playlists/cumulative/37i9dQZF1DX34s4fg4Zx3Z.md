@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Nie; thiết kế: Isu Kim
+> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Ronboogz; thiết kế: Isu Kim
 
 888 songs - 2 day 4 hr 4 min
 
@@ -148,7 +148,7 @@
 | [Chơi](https://open.spotify.com/track/2ogSoDRRrXcEfQ7EPAdllM) | [DMYB](https://open.spotify.com/artist/7mRASKVWQFYzG4ODPVpHuE), [Wack](https://open.spotify.com/artist/7nZ97fCmqv4FoADCJZkll8) | [Chơi](https://open.spotify.com/album/5UpkKx6dil3cMdFEPHXr7c) | 4:08 | 2022-07-31 | 2022-10-27 |
 | [Chơi](https://open.spotify.com/track/4x21TQ5qMPbyHLktv5daN5) | [Khác Họ Records](https://open.spotify.com/artist/2tC1eJc79vvyIH0sw4mLIZ), [X2C](https://open.spotify.com/artist/4ruBa4DSUymegLyh5MsV6H), [LNGY](https://open.spotify.com/artist/4P85cBAXFfHR7OTBe1wSVk), [TraceD](https://open.spotify.com/artist/5oZsnZpmT2hvUHJDEgy5TH), [DJ Tzo](https://open.spotify.com/artist/7k6G3hJXloo3wmP7wlbmgs) | [Chơi](https://open.spotify.com/album/73n9DFigMSpl0OVOIUlM1n) | 3:02 | 2022-11-15 | 2023-02-16 |
 | [Chơi Vơi](https://open.spotify.com/track/5zAwaOFcbpAi1wHb1tiBt3) | [Seth](https://open.spotify.com/artist/1bFOMacB1TfMrwNfkxEa8B), [MGT ICON](https://open.spotify.com/artist/2EqMZlswDzpOrebm3etddS) | [Chơi Vơi](https://open.spotify.com/album/06l04JDPG0CDxE7ok6Jif9) | 2:34 | 2023-03-01 |  |
-| [Chưa từng lớn](https://open.spotify.com/track/3BhplNaW7h0iQmxYnZYq5W) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Chưa từng lớn](https://open.spotify.com/album/098phzLpy6PyGhoaR2Af19) | 3:25 | 2023-02-01 | 2023-03-03 |
+| [Chưa từng lớn](https://open.spotify.com/track/3BhplNaW7h0iQmxYnZYq5W) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [Chưa từng lớn](https://open.spotify.com/album/098phzLpy6PyGhoaR2Af19) | 3:25 | 2023-02-01 |  |
 | [Chưa Về Được Nhà](https://open.spotify.com/track/4MEyA3U4lXndTenIb8dTXy) | [Nal](https://open.spotify.com/artist/3hHKSLqpEWNAsCjbvVb1te), [RyoT](https://open.spotify.com/artist/2UfA7WI5TFvWFGtSFuSytZ) | [Chưa Về Được Nhà](https://open.spotify.com/album/2iwJHXi6LJSEEEAeMiscqd) | 4:59 | 2022-01-14 | 2022-04-08 |
 | [Chạnh Lòng Thương Cô 3 \(Cánh Chim Lạc Bầy\) TikTok](https://open.spotify.com/track/4fMJAZYc6HdvKGVdGsfqQr) | [Non Hanta](https://open.spotify.com/artist/0jcGcJKtH0D3xsdjHHO3KS), [Vy Phạm](https://open.spotify.com/artist/1hTdsS6jxYCqGRdIGANdLY) | [Chạnh Lòng Thương Cô 3 \(Cánh Chim Lạc Bầy\) TikTok](https://open.spotify.com/album/6zzBcN1vMd9hREsyjyjMCG) | 0:32 | 2022-02-21 | 2022-02-25 |
 | [chạy trốn](https://open.spotify.com/track/0ytT0BAsapL17sylQKwCUN) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [chạy trốn](https://open.spotify.com/album/1lWx3rPdvhE7QO8kP1G8nD) | 2:23 | 2023-01-06 | 2023-02-16 |

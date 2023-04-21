@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: The Teskey Brothers",
-  "num_followers": 439148,
+  "num_followers": 439207,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgxODQwMCwwMDAwMDAwMDY4NWU5YzFlYmNmMDlkMTE0OTI5YjZkZjdiZDUyMmMy",
+  "snapshot_id": "MTY4MDgxODQwMCwwMDAwMDAwMGY4YTAzN2I5ZjEwYjUzM2ZhMGZhMmRjYjQ0MTdlMTZh",
   "tracks": [
     {
       "added_at": "2023-04-06 22:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
+        "name": "I'm Gonna Love You",
+        "url": "https://open.spotify.com/album/1xtuuytm8AJhcaafPLYL65"
+      },
+      "artists": [
+        {
+          "name": "Josh Tatofi",
+          "url": "https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ"
+        }
+      ],
+      "duration_ms": 268211,
+      "name": "I'm Gonna Love You",
+      "url": "https://open.spotify.com/track/5Vqtjb3p6g0cIWUPXVesln"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
         "name": "Oceans Of Emotions",
         "url": "https://open.spotify.com/album/6QWKqhxWcYma5iHK9oS4Vq"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 263613,
       "name": "You're Still The One",
       "url": "https://open.spotify.com/track/5aGlygs4voalgMxBCCSg4l"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "I'm Gonna Love You",
-        "url": "https://open.spotify.com/album/1xtuuytm8AJhcaafPLYL65"
-      },
-      "artists": [
-        {
-          "name": "Josh Tatofi",
-          "url": "https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ"
-        }
-      ],
-      "duration_ms": 268211,
-      "name": "I'm Gonna Love You",
-      "url": "https://open.spotify.com/track/5Vqtjb3p6g0cIWUPXVesln"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "This Will Be Our Year",
-        "url": "https://open.spotify.com/album/1aunApiIbz5beHK7ty68bT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 157152,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/2oy3hJGwD5aJSlFy4OnAkL"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "GEEK OUT!",
         "url": "https://open.spotify.com/album/0pcNZasBNHBCU8MilSUv1X"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 184137,
       "name": "GEEK OUT!",
       "url": "https://open.spotify.com/track/5BHJAKnYZ4GGlxTmpnPGab"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "This Will Be Our Year",
+        "url": "https://open.spotify.com/album/1aunApiIbz5beHK7ty68bT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 157152,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/2oy3hJGwD5aJSlFy4OnAkL"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Don't Forget to Look Up",
-        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
-      },
-      "artists": [
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 210873,
-      "name": "Good Man",
-      "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "Snoop Dogg Presents Death Row Summer 2022",
         "url": "https://open.spotify.com/album/78R84o4n1a3LxcdzgGZKfC"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 186965,
       "name": "Everybody Watching",
       "url": "https://open.spotify.com/track/1nHMytYSkk9bmMEVa7j5bY"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Don't Forget to Look Up",
+        "url": "https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 210873,
+      "name": "Good Man",
+      "url": "https://open.spotify.com/track/5KfKnJVNXZoohjeSA6hw8e"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "STILL HAVE YOU",
-        "url": "https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX"
-      },
-      "artists": [
-        {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        }
-      ],
-      "duration_ms": 142306,
-      "name": "STILL HAVE YOU",
-      "url": "https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "Bruises",
         "url": "https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 244560,
       "name": "I Miss You Baby, Pt. 1",
       "url": "https://open.spotify.com/track/2TN9b4mxmXeA6bXJWTMxuZ"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "STILL HAVE YOU",
+        "url": "https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        }
+      ],
+      "duration_ms": 142306,
+      "name": "STILL HAVE YOU",
+      "url": "https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -991,6 +991,30 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
+        "name": "More To Learn",
+        "url": "https://open.spotify.com/album/3r7mEDjTNdNxWfjS1mClE2"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        },
+        {
+          "name": "Swatkins",
+          "url": "https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP"
+        },
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
+        }
+      ],
+      "duration_ms": 270722,
+      "name": "More To Learn",
+      "url": "https://open.spotify.com/track/7IX7LDLs3vCtrY7poNX0p4"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
         "name": "Forbidden Fruit",
         "url": "https://open.spotify.com/album/7lmHWiL2lAGtJ5z2KDfazD"
       },
@@ -1039,6 +1063,26 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/0ubYsntRb3f8BJcrFQJRbA"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        },
+        {
+          "name": "Ebban Dorsey",
+          "url": "https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu"
+        }
+      ],
+      "duration_ms": 302746,
+      "name": "Didn't Cha Know",
+      "url": "https://open.spotify.com/track/3BiyFCHlWPgm3q3zdtljxM"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
         "name": "Some Of Us Are Brave",
         "url": "https://open.spotify.com/album/2TETLoSHPG3KjGTHlMbFuQ"
       },
@@ -1051,6 +1095,30 @@
       "duration_ms": 272020,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/2ogZQLXNwWUnlgNDqeh7Cl"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Nobody's Fool",
+        "url": "https://open.spotify.com/album/3o6zpnwxSC8PeIQkdP5V1w"
+      },
+      "artists": [
+        {
+          "name": "Brasstracks",
+          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
+        },
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "FATHERDUDE",
+          "url": "https://open.spotify.com/artist/2B50tPmaH4o50MqFC7j98Z"
+        }
+      ],
+      "duration_ms": 196534,
+      "name": "Nobody's Fool",
+      "url": "https://open.spotify.com/track/6folHlbbLuRgOtNj6fS5OS"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1083,70 +1151,18 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/0ubYsntRb3f8BJcrFQJRbA"
+        "name": "Slow",
+        "url": "https://open.spotify.com/album/5g98eX19j6hiHuyHPlIGhW"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        },
-        {
-          "name": "Ebban Dorsey",
-          "url": "https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu"
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
         }
       ],
-      "duration_ms": 302746,
-      "name": "Didn't Cha Know",
-      "url": "https://open.spotify.com/track/3BiyFCHlWPgm3q3zdtljxM"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Nobody's Fool",
-        "url": "https://open.spotify.com/album/3o6zpnwxSC8PeIQkdP5V1w"
-      },
-      "artists": [
-        {
-          "name": "Brasstracks",
-          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
-        },
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        },
-        {
-          "name": "FATHERDUDE",
-          "url": "https://open.spotify.com/artist/2B50tPmaH4o50MqFC7j98Z"
-        }
-      ],
-      "duration_ms": 196534,
-      "name": "Nobody's Fool",
-      "url": "https://open.spotify.com/track/6folHlbbLuRgOtNj6fS5OS"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "More To Learn",
-        "url": "https://open.spotify.com/album/3r7mEDjTNdNxWfjS1mClE2"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        },
-        {
-          "name": "Swatkins",
-          "url": "https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP"
-        },
-        {
-          "name": "Eric Krasno",
-          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
-        }
-      ],
-      "duration_ms": 270722,
-      "name": "More To Learn",
-      "url": "https://open.spotify.com/track/7IX7LDLs3vCtrY7poNX0p4"
+      "duration_ms": 175493,
+      "name": "Slow",
+      "url": "https://open.spotify.com/track/7w9bSUUdghXGjWmYtu6fl6"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Slow",
-        "url": "https://open.spotify.com/album/5g98eX19j6hiHuyHPlIGhW"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 175493,
-      "name": "Slow",
-      "url": "https://open.spotify.com/track/7w9bSUUdghXGjWmYtu6fl6"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "Lonely Are the Brave (Mav's Version)",
         "url": "https://open.spotify.com/album/62MJBLFK4G1AM9ZZS0p3Ph"
       },
@@ -1195,6 +1195,22 @@
       "duration_ms": 239346,
       "name": "I Need - Mav's Version",
       "url": "https://open.spotify.com/track/5PfmVIO6dwDTDL4u2ICfMd"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Some Of Us Are Brave",
+        "url": "https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "duration_ms": 233846,
+      "name": "Some Of Us Are Brave",
+      "url": "https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1231,22 +1247,6 @@
       "duration_ms": 232500,
       "name": "Leave It",
       "url": "https://open.spotify.com/track/4d53iJvfGbPyQGRnbtmtiW"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Some Of Us Are Brave",
-        "url": "https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn"
-      },
-      "artists": [
-        {
-          "name": "Danielle Ponder",
-          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
-        }
-      ],
-      "duration_ms": 233846,
-      "name": "Some Of Us Are Brave",
-      "url": "https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1551,34 +1551,18 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Show Me What You Got",
-        "url": "https://open.spotify.com/album/6fvnmyccUEQcG3q3iZ5yiI"
+        "name": "IRONEYE",
+        "url": "https://open.spotify.com/album/63EPS17zm5uUritHjGzs3C"
       },
       "artists": [
         {
-          "name": "Souldrippin",
-          "url": "https://open.spotify.com/artist/1b0D9jgh2pJtPsKjU1gyS5"
-        },
-        {
-          "name": "Bo Saris",
-          "url": "https://open.spotify.com/artist/5iFyVnPvgc3b4bduxnqn6l"
-        },
-        {
-          "name": "Brownie Dutch",
-          "url": "https://open.spotify.com/artist/3I5bcZ9sKB87Nftg0uXad0"
-        },
-        {
-          "name": "Hari Loco",
-          "url": "https://open.spotify.com/artist/3nPiCfsgxJlJAkdPPVG2hQ"
-        },
-        {
-          "name": "Darius Dante",
-          "url": "https://open.spotify.com/artist/1QCRuNTOqoXVN7F39fWxz5"
+          "name": "Adja",
+          "url": "https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g"
         }
       ],
-      "duration_ms": 195173,
-      "name": "Show Me What You Got",
-      "url": "https://open.spotify.com/track/0Z3ECFfbdIJvv9D5itlCJS"
+      "duration_ms": 239813,
+      "name": "To be naive",
+      "url": "https://open.spotify.com/track/2TEHLlEisZwKMziVAAFKRu"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "IRONEYE",
-        "url": "https://open.spotify.com/album/63EPS17zm5uUritHjGzs3C"
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
       },
       "artists": [
         {
-          "name": "Adja",
-          "url": "https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g"
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
         }
       ],
-      "duration_ms": 239813,
-      "name": "To be naive",
-      "url": "https://open.spotify.com/track/2TEHLlEisZwKMziVAAFKRu"
+      "duration_ms": 268013,
+      "name": "inside out",
+      "url": "https://open.spotify.com/track/6Jk5XZB83vccvK6svvkjzA"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1651,18 +1635,34 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+        "name": "Show Me What You Got",
+        "url": "https://open.spotify.com/album/6fvnmyccUEQcG3q3iZ5yiI"
       },
       "artists": [
         {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+          "name": "Souldrippin",
+          "url": "https://open.spotify.com/artist/1b0D9jgh2pJtPsKjU1gyS5"
+        },
+        {
+          "name": "Bo Saris",
+          "url": "https://open.spotify.com/artist/5iFyVnPvgc3b4bduxnqn6l"
+        },
+        {
+          "name": "Brownie Dutch",
+          "url": "https://open.spotify.com/artist/3I5bcZ9sKB87Nftg0uXad0"
+        },
+        {
+          "name": "Hari Loco",
+          "url": "https://open.spotify.com/artist/3nPiCfsgxJlJAkdPPVG2hQ"
+        },
+        {
+          "name": "Darius Dante",
+          "url": "https://open.spotify.com/artist/1QCRuNTOqoXVN7F39fWxz5"
         }
       ],
-      "duration_ms": 268013,
-      "name": "inside out",
-      "url": "https://open.spotify.com/track/6Jk5XZB83vccvK6svvkjzA"
+      "duration_ms": 195173,
+      "name": "Show Me What You Got",
+      "url": "https://open.spotify.com/track/0Z3ECFfbdIJvv9D5itlCJS"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 279453,
+      "name": "deeper",
+      "url": "https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/4uN0xpwveVbQtN7Rcl1dFA"
       },
@@ -1819,18 +1835,22 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+        "name": "Summer in Amsterdam",
+        "url": "https://open.spotify.com/album/41oCea6cFoAFT5ws1c5Dm1"
       },
       "artists": [
         {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+          "name": "Benjamin Fro",
+          "url": "https://open.spotify.com/artist/0O9dDLVIaf3EA0HlMjant6"
+        },
+        {
+          "name": "Noa Lauryn",
+          "url": "https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9"
         }
       ],
-      "duration_ms": 279453,
-      "name": "deeper",
-      "url": "https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs"
+      "duration_ms": 210019,
+      "name": "Summer in Amsterdam",
+      "url": "https://open.spotify.com/track/1AdwbV9TaiLct5zKaLpiqB"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1851,26 +1871,6 @@
       "duration_ms": 195257,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5wAdIhCznqx3rrDrKzjb2k"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Summer in Amsterdam",
-        "url": "https://open.spotify.com/album/41oCea6cFoAFT5ws1c5Dm1"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Fro",
-          "url": "https://open.spotify.com/artist/0O9dDLVIaf3EA0HlMjant6"
-        },
-        {
-          "name": "Noa Lauryn",
-          "url": "https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9"
-        }
-      ],
-      "duration_ms": 210019,
-      "name": "Summer in Amsterdam",
-      "url": "https://open.spotify.com/track/1AdwbV9TaiLct5zKaLpiqB"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Summer Moon",
-        "url": "https://open.spotify.com/album/3EIMnvmiotPTh3glLLnUm0"
-      },
-      "artists": [
-        {
-          "name": "Jeangu Macrooy",
-          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
-        }
-      ],
-      "duration_ms": 201343,
-      "name": "Summer Moon",
-      "url": "https://open.spotify.com/track/5z0q7N7cFB1YCI6LiZLajl"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
         "name": "Stand Up",
         "url": "https://open.spotify.com/album/07bddfiyAYcp3Gwp1AgDnn"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 175829,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/2AOCiU18f4kuZMltkR8cgh"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "Summer Moon",
+        "url": "https://open.spotify.com/album/3EIMnvmiotPTh3glLLnUm0"
+      },
+      "artists": [
+        {
+          "name": "Jeangu Macrooy",
+          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
+        }
+      ],
+      "duration_ms": 201343,
+      "name": "Summer Moon",
+      "url": "https://open.spotify.com/track/5z0q7N7cFB1YCI6LiZLajl"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -2035,18 +2035,18 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Come Around",
-        "url": "https://open.spotify.com/album/3TPOOljJFpM8dtCv7glSFQ"
+        "name": "Flashing Lights",
+        "url": "https://open.spotify.com/album/25p8WJ7KjgpXVH5RvZqyxv"
       },
       "artists": [
         {
-          "name": "Leonard Luka",
-          "url": "https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew"
+          "name": "Dragonfruit",
+          "url": "https://open.spotify.com/artist/5XedNczaTKAEy9NrSXZeUy"
         }
       ],
-      "duration_ms": 186200,
-      "name": "Come Around",
-      "url": "https://open.spotify.com/track/7AEEEVNZCENxzU4J2V6Ah9"
+      "duration_ms": 213728,
+      "name": "Flashing Lights",
+      "url": "https://open.spotify.com/track/1sK3qSrr5cbVBbFobG2Gjh"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -2067,18 +2067,18 @@
     {
       "added_at": "2023-04-06 22:00:00",
       "album": {
-        "name": "Flashing Lights",
-        "url": "https://open.spotify.com/album/25p8WJ7KjgpXVH5RvZqyxv"
+        "name": "Come Around",
+        "url": "https://open.spotify.com/album/3TPOOljJFpM8dtCv7glSFQ"
       },
       "artists": [
         {
-          "name": "Dragonfruit",
-          "url": "https://open.spotify.com/artist/5XedNczaTKAEy9NrSXZeUy"
+          "name": "Leonard Luka",
+          "url": "https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew"
         }
       ],
-      "duration_ms": 213728,
-      "name": "Flashing Lights",
-      "url": "https://open.spotify.com/track/1sK3qSrr5cbVBbFobG2Gjh"
+      "duration_ms": 186200,
+      "name": "Come Around",
+      "url": "https://open.spotify.com/track/7AEEEVNZCENxzU4J2V6Ah9"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -2107,6 +2107,22 @@
       "duration_ms": 213619,
       "name": "How Long",
       "url": "https://open.spotify.com/track/3kbDEejuDSeOS2biB43MNq"
+    },
+    {
+      "added_at": "2023-04-06 22:00:00",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/27zVikKFB0moOYXJanIOct"
+      },
+      "artists": [
+        {
+          "name": "August Charles",
+          "url": "https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S"
+        }
+      ],
+      "duration_ms": 229751,
+      "name": "River",
+      "url": "https://open.spotify.com/track/7kQsiMaQD3hveS6ejQNOw8"
     },
     {
       "added_at": "2023-04-06 22:00:00",
@@ -2155,26 +2171,6 @@
       "duration_ms": 239386,
       "name": "Perspective",
       "url": "https://open.spotify.com/track/3RN9aExVAKIXHut4l7ODxx"
-    },
-    {
-      "added_at": "2023-04-06 22:00:00",
-      "album": {
-        "name": "Double Cream",
-        "url": "https://open.spotify.com/album/6QOMBBhNPQUGSbLDLKIoVN"
-      },
-      "artists": [
-        {
-          "name": "Dawn Brothers",
-          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
-        },
-        {
-          "name": "DeWolff",
-          "url": "https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k"
-        }
-      ],
-      "duration_ms": 197960,
-      "name": "Hear Me Singing (Na Na Na Na Na Na Na Na)",
-      "url": "https://open.spotify.com/track/19vDhiyfEiDossnoDkDgKA"
     }
   ],
   "unique_name": "Soul 'n' the City",

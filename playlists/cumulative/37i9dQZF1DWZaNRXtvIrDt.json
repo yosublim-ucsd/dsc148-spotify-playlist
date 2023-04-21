@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 264812,
       "name": "87 Yams",
       "url": "https://open.spotify.com/track/7weyjwy7ylvA14AQV7PjRQ"
@@ -168,10 +168,28 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 271742,
       "name": "All Good",
       "url": "https://open.spotify.com/track/0E1R3RC1YxQ6nIJ2ZDbDjF"
+    },
+    {
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/1VsjBsi7QxD87w4dRoBc8h"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/54DstnlyeCz0Zb2HDtBJaq"
     },
     {
       "album": {
@@ -486,7 +504,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 293800,
       "name": "Believe",
       "url": "https://open.spotify.com/track/302cIFXJZGLRIWMN4Ri91S"
@@ -1311,6 +1329,24 @@
     },
     {
       "album": {
+        "name": "Falling Under",
+        "url": "https://open.spotify.com/album/5uVjUcMLeQmlgIBsAikmEO"
+      },
+      "artists": [
+        {
+          "name": "a.s.o.",
+          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271557,
+      "name": "Falling Under",
+      "url": "https://open.spotify.com/track/1xVfYTbOUuA5FJaLbZXVIg"
+    },
+    {
+      "album": {
         "name": "Silkworm",
         "url": "https://open.spotify.com/album/5OHnpPZroept4tmsAdwfQP"
       },
@@ -1876,7 +1912,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 241916,
       "name": "Hot Evening",
       "url": "https://open.spotify.com/track/7l7tXEWUMfW5m5AE8vPfOB"
@@ -2166,6 +2202,32 @@
       "duration_ms": 388441,
       "name": "KeQue",
       "url": "https://open.spotify.com/track/2OfwlVwQGw7AN3aE1lQ4QN"
+    },
+    {
+      "album": {
+        "name": "L.F.O.",
+        "url": "https://open.spotify.com/album/56FZp4N6OxLqFWcEG8qhmA"
+      },
+      "artists": [
+        {
+          "name": "SBTRKT",
+          "url": "https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        },
+        {
+          "name": "George Riley",
+          "url": "https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271633,
+      "name": "L.F.O.",
+      "url": "https://open.spotify.com/track/09s0LZjI9zgBvXRNNA6j7K"
     },
     {
       "album": {
@@ -2487,6 +2549,24 @@
     },
     {
       "album": {
+        "name": "The Planets: Neptune",
+        "url": "https://open.spotify.com/album/4LTPMgfqWEOJRI0TQXKBKP"
+      },
+      "artists": [
+        {
+          "name": "Coco Bryce",
+          "url": "https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322417,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/4iJ1K6IHuGKOjkmhzCK6qN"
+    },
+    {
+      "album": {
         "name": "New Glow",
         "url": "https://open.spotify.com/album/730jR5hdTM6cZI10fgl7tk"
       },
@@ -2564,7 +2644,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 264097,
       "name": "Mike (desert island duvet)",
       "url": "https://open.spotify.com/track/6cqcmtaxNL7YCKKsuYAPJo"
@@ -2586,6 +2666,28 @@
       "duration_ms": 301916,
       "name": "MNG with Mike",
       "url": "https://open.spotify.com/track/3ysiBsnFcdnCThFgJYAFYE"
+    },
+    {
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/038nzTPTer7dDaM9Z5K4M6"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        },
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221046,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/0GAr2dDEqEXqlhQzvyZTsK"
     },
     {
       "album": {
@@ -2654,7 +2756,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 202611,
       "name": "Need U",
       "url": "https://open.spotify.com/track/6OAlog0TfLYgmT1LVXPOQU"
@@ -3044,7 +3146,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 181459,
       "name": "Quiver",
       "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
@@ -3357,6 +3459,28 @@
     },
     {
       "album": {
+        "name": "Selfish Soul (ODESZA Remix)",
+        "url": "https://open.spotify.com/album/4aJcCRF4B3Tjefsu0aZKu2"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        },
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206210,
+      "name": "Selfish Soul - ODESZA Remix",
+      "url": "https://open.spotify.com/track/6N5thJ3UQMpHdf2fYOB3XL"
+    },
+    {
+      "album": {
         "name": "Serotonin Moonbeams",
         "url": "https://open.spotify.com/album/1UTc8WInycl4tVgJ1yODaO"
       },
@@ -3434,6 +3558,24 @@
       "duration_ms": 439205,
       "name": "Shaker",
       "url": "https://open.spotify.com/track/46n0wrSJEaMogpv54UWFgi"
+    },
+    {
+      "album": {
+        "name": "Shotgun Baby",
+        "url": "https://open.spotify.com/album/2Y0QvT0p9gS0wcCmXK28nS"
+      },
+      "artists": [
+        {
+          "name": "K\u00c9DU CARL\u00d6",
+          "url": "https://open.spotify.com/artist/5FdNimxRznD7ZK6LR5VTJC"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301229,
+      "name": "Shotgun Baby",
+      "url": "https://open.spotify.com/track/0q49donmfN5VivjT9utGcq"
     },
     {
       "album": {
@@ -3535,6 +3677,24 @@
     },
     {
       "album": {
+        "name": "Sora",
+        "url": "https://open.spotify.com/album/6t1eLn4EXLLuu2cYGybM8e"
+      },
+      "artists": [
+        {
+          "name": "LCY",
+          "url": "https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257866,
+      "name": "Sora",
+      "url": "https://open.spotify.com/track/2Fhze8ZgxgbVlsNh4y1X7W"
+    },
+    {
+      "album": {
         "name": "Uu003",
         "url": "https://open.spotify.com/album/3gm06y1TNKQ2RMCgROAEAm"
       },
@@ -3586,7 +3746,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 300000,
       "name": "Stop Everything",
       "url": "https://open.spotify.com/track/7C7jBRGeBVwuITQjqaTYQa"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 
 ### [Indie Rock Club](https://open.spotify.com/playlist/37i9dQZF1DX35DWKgAk2B5)
 
-> Welcome to Indie Rock Club\. Cover: Arctic Monkeys
+> Welcome to Indie Rock Club\. Cover: The Strokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,175,588 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,176,101 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

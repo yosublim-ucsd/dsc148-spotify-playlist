@@ -4,7 +4,7 @@
 
 > ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย!
 
-92 songs - 5 hr 48 min
+93 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Locker](https://open.spotify.com/track/43rGeSTINiWovwNPiQGAXl) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [Locker](https://open.spotify.com/album/6Z4hEV3oVdbCiJd4yYJqu7) | 2:29 | 2022-09-15 | 2022-11-24 |
 | [Me](https://open.spotify.com/track/1CpGLnjauP66HeqZEaCq5i) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:29 | 2022-09-15 |  |
 | [MUSE](https://open.spotify.com/track/7bRSjYVqEPeAvKG1KrlPtI) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [DAVII](https://open.spotify.com/artist/7qvsi3nQ5V6Np0MdEpdmoc) | [MUSE](https://open.spotify.com/album/0JApBQ8xuOnFPw32RnoGrS) | 3:27 | 2023-04-13 |  |
+| [My Moon](https://open.spotify.com/track/1kynRiOydIAzpVIXOKf5iH) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [SIMON](https://open.spotify.com/artist/4Dz036NLSs8GPIFaCPJWGU) | [My Moon](https://open.spotify.com/album/1M2AkqbtUCIMHa0stw4Fuc) | 3:00 | 2023-04-20 |  |
 | [Please](https://open.spotify.com/track/7nElMqssjoTPpfm8kSN1y1) | [Blackbeans](https://open.spotify.com/artist/3u45DFB1kjVXKwE14FKXCo) | [Flowers on earth](https://open.spotify.com/album/26V3mMqmTFbQxjVHCHjlle) | 4:45 | 2022-09-15 |  |
 | [R U OK?](https://open.spotify.com/track/6pskBGYOeLLQBOA7B7C9ij) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF) | [R U OK?](https://open.spotify.com/album/4Zkf8cfL2yoewuMfwoXk95) | 3:27 | 2023-04-13 |  |
 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 | 2022-09-15 |  |
@@ -69,7 +70,7 @@
 | [ย้าย](https://open.spotify.com/track/0CqwvHOZeAP0kEEOR1NfnI) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [ย้าย](https://open.spotify.com/album/02XG7etkpra35FNMqAphWe) | 3:51 | 2022-09-15 | 2022-09-24 |
 | [รอวันเธอลืมเขา](https://open.spotify.com/track/7IhbsxmWUQi7Q6PSR8Ecq5) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [รอวันเธอลืมเขา](https://open.spotify.com/album/5KYd61ZcqKn5TyYpIHeP3B) | 3:58 | 2022-11-23 | 2023-04-14 |
 | [ลาก่อน](https://open.spotify.com/track/3vfwUrq22haMmIJyyyI7Hq) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [ลาก่อน](https://open.spotify.com/album/2MM6NjLf7zzQxVNfD93wU1) | 3:08 | 2022-09-15 |  |
-| [ลาลับไป](https://open.spotify.com/track/7r2AEI9Ey8quvF0nt36y4o) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [JUEDJANG](https://open.spotify.com/artist/1QA9rYsSUnQlc9XNqtfMDo), [THAOWANZ](https://open.spotify.com/artist/2oWR5K3i3LCNx5e7DI1wdQ) | [ลาลับไป](https://open.spotify.com/album/0KQCPZz56DPPRPDS1MxNNk) | 3:58 | 2023-03-20 |  |
+| [ลาลับไป](https://open.spotify.com/track/7r2AEI9Ey8quvF0nt36y4o) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [JUEDJANG](https://open.spotify.com/artist/1QA9rYsSUnQlc9XNqtfMDo), [THAOWANZ](https://open.spotify.com/artist/2oWR5K3i3LCNx5e7DI1wdQ) | [ลาลับไป](https://open.spotify.com/album/0KQCPZz56DPPRPDS1MxNNk) | 3:58 | 2023-03-20 | 2023-04-21 |
 | [ลืมแทบไม่ไหว](https://open.spotify.com/track/7DNNJcCstLheOvqLsiq2Qz) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [MaiMhon](https://open.spotify.com/artist/4eFeCIHTS2zPKAOPdaKTxg) | [ลืมแทบไม่ไหว](https://open.spotify.com/album/0n7QgYSZ3K4Brs1K2SB9Fk) | 5:54 | 2022-09-15 |  |
 | [ลืมไปแล้วว่าลืมยังไง \(Fade\)](https://open.spotify.com/track/4gNkIyfaf2iwPgeLSVIj8O) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ลืมไปแล้วว่าลืมยังไง \(Fade\)](https://open.spotify.com/album/3HMAApilEcTJ4HZ8xMvlh6) | 4:22 | 2022-09-23 |  |
 | [ลูกเทวดา](https://open.spotify.com/track/37hVWVtSjHJjSSuEmeXdet) | [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [ลูกเทวดา](https://open.spotify.com/album/1wA0Hk3CI8w8lrKNKfSb4a) | 2:01 | 2023-03-23 | 2023-04-19 |

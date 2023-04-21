@@ -2,9 +2,9 @@
 
 ### [Reggaetón Chileno](https://open.spotify.com/playlist/37i9dQZF1DX5hIsIIk6w1F)
 
-> Este Flow tiene otro Flow\. Foto: Gino Mella.
+> Este Flow tiene otro Flow\. Foto: Marcianeke & AK4:20.
 
-344 songs - 19 hr 51 min
+345 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Beubi](https://open.spotify.com/track/3fJrw0HopY0HKX42Uo4qeA) | [Jared](https://open.spotify.com/artist/7mccMACHaRkUsmX5Y4TPdg), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT) | [2:22](https://open.spotify.com/album/4F6EY2liR8elrht1Kni4Ln) | 2:38 | 2023-02-24 |  |
 | [Bichiyal](https://open.spotify.com/track/6DwvPQUStsslrkVTSQnB9M) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Bichiyal](https://open.spotify.com/album/5aaDH1WH9oBYiVld6KvI2C) | 3:37 | 2022-05-23 | 2023-01-28 |
 | [Blin Blin](https://open.spotify.com/track/7hE27SJ37oEXB12o1rkMEC) | [Yordano El Menor](https://open.spotify.com/artist/7dP0HBmeSdYJwYhXnNLNvH), [Yohancito](https://open.spotify.com/artist/5h3snNTJSuYLpsdORqRy0A), [El Goldo De Las Conec](https://open.spotify.com/artist/3TcTm7AGTlIJys8Wh7QzBr) | [Blin Blin](https://open.spotify.com/album/5lohF4YnICasTqorEvlX2z) | 3:03 | 2023-01-27 | 2023-02-25 |
+| [BOCHE](https://open.spotify.com/track/3pGAnDf8BgWM7zNkt9IwV9) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [BOCHE](https://open.spotify.com/album/7GfFfHmiowO6Q86NJC2b3V) | 3:20 | 2023-04-20 |  |
 | [Bon Appetit](https://open.spotify.com/track/6QQUBksnxXfbhdei3biVK8) | [Ziklo](https://open.spotify.com/artist/5XLiCNy0UoGs5jPK5OWSse), [Drago200](https://open.spotify.com/artist/0iBZjEZBg8GsjaBq3lTAvC) | [Bon Appetit](https://open.spotify.com/album/2mQ4nDpCf6yBkq7ujjZ2Re) | 2:55 | 2022-08-26 | 2022-09-10 |
 | [Buen Rato](https://open.spotify.com/track/7AqMSwTJIYgEzmYpRjTWX3) | [Igna](https://open.spotify.com/artist/1gMGY47VdNj1nF2NRyjd5t) | [Fe](https://open.spotify.com/album/1TW2yrWSXV0mT6OPm5hMRi) | 3:05 | 2022-06-08 | 2022-07-23 |
 | [CAI EN TU JUEGO \(REMIX\)](https://open.spotify.com/track/2zS7Rzrg5jRSFAHPaSZF0l) | [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK), [Fuka](https://open.spotify.com/artist/5TyQ1yXiSsZxrJHrL5kFmZ), [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [Minion Mixtape](https://open.spotify.com/album/0mlzT7AnWFy75UAyqhD2f2) | 5:00 | 2022-12-09 | 2023-01-21 |

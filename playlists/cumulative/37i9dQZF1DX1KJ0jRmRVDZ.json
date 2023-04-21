@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "BLUE",
+        "url": "https://open.spotify.com/album/68FbIirzOmmkc44PrvOQor"
+      },
+      "artists": [
+        {
+          "name": "\u5802\u6751\u7483\u7fbd",
+          "url": "https://open.spotify.com/artist/6s5z8omxqZ2k0gdGUSB0hp"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188757,
+      "name": "BLUE",
+      "url": "https://open.spotify.com/track/6XBLLp49i8tXIEYR7KDYUt"
+    },
+    {
+      "album": {
         "name": "bofura",
         "url": "https://open.spotify.com/album/14mbhuQ13lsb31DDUEy4TK"
       },
@@ -2724,6 +2742,24 @@
       "duration_ms": 247441,
       "name": "Mr.\u30b7\u30e3\u30fc\u30c7\u30f3\u30d5\u30ed\u30a4\u30c7",
       "url": "https://open.spotify.com/track/501T1i6UuMqL2cpovNqvso"
+    },
+    {
+      "album": {
+        "name": "Nascent Sacrifice",
+        "url": "https://open.spotify.com/album/6TBYIFQR3zIQmqkAEqUmv6"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192107,
+      "name": "Nascent Sacrifice",
+      "url": "https://open.spotify.com/track/1QzvSEACKXiCPweJe8OLmm"
     },
     {
       "album": {
@@ -8718,7 +8754,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 218913,
       "name": "\u30ec\u30d6\u30eb",
       "url": "https://open.spotify.com/track/2866mFfVRWokPM8PHRPSUB"
@@ -9402,6 +9438,24 @@
       "duration_ms": 216799,
       "name": "\u541b\u3088 \u6c17\u9ad8\u304f\u3042\u308c",
       "url": "https://open.spotify.com/track/0rlYL6IQIwLZwYIguyy3l0"
+    },
+    {
+      "album": {
+        "name": "\u541b\u541b\u821e",
+        "url": "https://open.spotify.com/album/21XcpsofKNDoMDf9u678Wz"
+      },
+      "artists": [
+        {
+          "name": "\u30b7\u30e6\u30a4",
+          "url": "https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193230,
+      "name": "\u541b\u541b\u821e",
+      "url": "https://open.spotify.com/track/7nJACq9fYQW0H6cJmmmkri"
     },
     {
       "album": {
@@ -11098,7 +11152,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 240458,
       "name": "\u6c34\u5149",
       "url": "https://open.spotify.com/track/1h8SMT8M4eoaMUxAHzDYk9"
@@ -11924,7 +11978,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 197066,
       "name": "\u79d8\u5bc6\u306e\u8a00\u8449",
       "url": "https://open.spotify.com/track/0I5sXEB3M0LoLJcWhEtBvf"

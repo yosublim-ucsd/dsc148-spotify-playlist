@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Jarabe de Palo.",
-  "num_followers": 546233,
+  "num_followers": 546360,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzI2MCwwMDAwMDAwMGYwZmZmMTdkMjVhYjE2MWRjYWI2ZmExMzQ3ODJkNmRj",
+  "snapshot_id": "MTY4MTQyMzI2MCwwMDAwMDAwMDg0YjI3M2Y5NWViNmIwNjZmMTlhMTQxNDJiYTNmOGE0",
   "tracks": [
     {
       "added_at": "2023-04-13 22:01:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "28.000 pu\u00f1aladas",
+        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
+      },
+      "artists": [
+        {
+          "name": "Marea",
+          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "La rueca",
+      "url": "https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "Rumbapop",
         "url": "https://open.spotify.com/album/4I0VNxfe8qdt1SnvEiqREu"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 158857,
       "name": "Rumbapop",
       "url": "https://open.spotify.com/track/1sLotMFghANlkVzI4ln2uW"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "28.000 pu\u00f1aladas",
-        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
-      },
-      "artists": [
-        {
-          "name": "Marea",
-          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "La rueca",
-      "url": "https://open.spotify.com/track/3C3EQeacSrIsdYdPl921qk"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "28.000 pu\u00f1aladas",
+        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
+      },
+      "artists": [
+        {
+          "name": "Marea",
+          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
+        }
+      ],
+      "duration_ms": 305253,
+      "name": "Que se joda el viento",
+      "url": "https://open.spotify.com/track/35RZlC2of95tgErjy8BtVx"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "Veneno En La Piel",
         "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 275026,
       "name": "El Limite",
       "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "28.000 pu\u00f1aladas",
-        "url": "https://open.spotify.com/album/2yMi2lDSI8eZ3GND3TBirR"
-      },
-      "artists": [
-        {
-          "name": "Marea",
-          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
-        }
-      ],
-      "duration_ms": 305253,
-      "name": "Que se joda el viento",
-      "url": "https://open.spotify.com/track/35RZlC2of95tgErjy8BtVx"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
+        "name": "Caricias en tu espalda (feat. MARLENA)",
+        "url": "https://open.spotify.com/album/6ZXosHrTpN0BCjofSGsKxF"
+      },
+      "artists": [
+        {
+          "name": "Despistaos",
+          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
+        },
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "duration_ms": 184867,
+      "name": "Caricias en tu espalda (feat. MARLENA)",
+      "url": "https://open.spotify.com/track/3W86lhWeDNKPG59RHLJAdh"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
         "name": "El lenguaje de los coleteros",
         "url": "https://open.spotify.com/album/1WclhT4Z96YxX4K9WQhdQn"
       },
@@ -1107,22 +1127,18 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Caricias en tu espalda (feat. MARLENA)",
-        "url": "https://open.spotify.com/album/6ZXosHrTpN0BCjofSGsKxF"
+        "name": "Coces al Aire 1997-2007",
+        "url": "https://open.spotify.com/album/3mfnHHROaUAzdzmTZHI1YQ"
       },
       "artists": [
         {
-          "name": "Despistaos",
-          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
-        },
-        {
-          "name": "MARLENA",
-          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+          "name": "Marea",
+          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
         }
       ],
-      "duration_ms": 184867,
-      "name": "Caricias en tu espalda (feat. MARLENA)",
-      "url": "https://open.spotify.com/track/3W86lhWeDNKPG59RHLJAdh"
+      "duration_ms": 337666,
+      "name": "Corazon de mimbre",
+      "url": "https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1155,22 +1171,6 @@
       "duration_ms": 270466,
       "name": "La senda del tiempo",
       "url": "https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Coces al Aire 1997-2007",
-        "url": "https://open.spotify.com/album/3mfnHHROaUAzdzmTZHI1YQ"
-      },
-      "artists": [
-        {
-          "name": "Marea",
-          "url": "https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ"
-        }
-      ],
-      "duration_ms": 337666,
-      "name": "Corazon de mimbre",
-      "url": "https://open.spotify.com/track/6ScI1xf3RszISXvLGmitY3"
     },
     {
       "added_at": "2023-04-13 22:01:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "\u00daltimas Voluntades (Canci\u00f3n Original De La Pel\u00edcula)",
-        "url": "https://open.spotify.com/album/5JxqDLN2I5bdXtFEnduaNY"
-      },
-      "artists": [
-        {
-          "name": "Viva Suecia",
-          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
-        }
-      ],
-      "duration_ms": 226487,
-      "name": "\u00daltimas Voluntades - Canci\u00f3n Original De La Pel\u00edcula",
-      "url": "https://open.spotify.com/track/5A1iJXWsLLHZvpYPMQ5rRQ"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
         "name": "Sopa fria",
         "url": "https://open.spotify.com/album/0Q2szvW8oeHdReOGcdYrBj"
       },
@@ -1243,18 +1227,34 @@
     {
       "added_at": "2023-04-13 22:01:00",
       "album": {
-        "name": "Correos",
-        "url": "https://open.spotify.com/album/2CT7oREbwTDOSWIMjRCCaY"
+        "name": "\u00daltimas Voluntades (Canci\u00f3n Original De La Pel\u00edcula)",
+        "url": "https://open.spotify.com/album/5JxqDLN2I5bdXtFEnduaNY"
       },
       "artists": [
         {
-          "name": "Platero Y Tu",
-          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+          "name": "Viva Suecia",
+          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
         }
       ],
-      "duration_ms": 236413,
-      "name": "Cigarrito",
-      "url": "https://open.spotify.com/track/2Gt5oL4aEufZvJy9KjEkxi"
+      "duration_ms": 226487,
+      "name": "\u00daltimas Voluntades - Canci\u00f3n Original De La Pel\u00edcula",
+      "url": "https://open.spotify.com/track/5A1iJXWsLLHZvpYPMQ5rRQ"
+    },
+    {
+      "added_at": "2023-04-13 22:01:00",
+      "album": {
+        "name": "Heroes De Los 80",
+        "url": "https://open.spotify.com/album/6Lml9AoEtkTD7BW6J57wzd"
+      },
+      "artists": [
+        {
+          "name": "Loquillo",
+          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
+        }
+      ],
+      "duration_ms": 293533,
+      "name": "El ritmo del garaje",
+      "url": "https://open.spotify.com/track/020aPMXlwYFpPB7cI8Kuc1"
     }
   ],
   "unique_name": "Rock Espa\u00f1ol",

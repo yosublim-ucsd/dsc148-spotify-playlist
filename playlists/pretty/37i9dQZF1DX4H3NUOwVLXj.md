@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4H3NUOwVLXj.md) - [plain]
 
 > Favorites, hits and deep cuts: this is Francis Albert Sinatra, one of the most popular and influential musical artists of the 20th century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,088,345 likes - 54 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,088,704 likes - 54 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4H3NUOwVLXj.md) - [plain]
 | 41 | [All Or Nothing At All](https://open.spotify.com/track/4ObsUll5eY9caJrdkauYuj) | [Harry James](https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Complete Harry James And His Orchestra featuring Frank Sinatra \(feat\. Frank Sinatra\)](https://open.spotify.com/album/2dQlX72ZvhsMRSRSNxhTgL) | 2:56 |
 | 42 | [Change Partners](https://open.spotify.com/track/5LMDR9OJOVfRAB99Vr96zn) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG), [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra/Jobim: The Complete Reprise Recordings](https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX) | 2:43 |
 | 43 | [Three Coins In The Fountain](https://open.spotify.com/track/2LnTydfDh8VOvJH7cSLqjS) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 3:45 |
-| 44 | [Ol' Man River](https://open.spotify.com/track/6XppiJ3Z1trI3uDVUh7Mu7) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra: The Centennial Collection](https://open.spotify.com/album/22KCcelRH1AeHz7S7x5XhY) | 4:24 |
+| 44 | [Ol' Man River](https://open.spotify.com/track/2ZTPL4fDK3vvI1h54nF4c6) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra: The Centennial Collection](https://open.spotify.com/album/7F1DRunIUlihQZ44KWVnMZ) | 4:24 |
 | 45 | [Put Your Dreams Away \(For Another Day\)](https://open.spotify.com/track/6kD1SNGPkfX9LwaGd1FG92) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra Sings His Greatest Hits](https://open.spotify.com/album/57vPH8jXw3PF0zD6zeaNOD) | 3:06 |
 | 46 | [It's A Lonesome Old Town \- Remastered](https://open.spotify.com/track/2sRFg7qcMwGPVEmBREeIja) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Concepts](https://open.spotify.com/album/0XCMp3IS7fWPwKo372vhjr) | 4:16 |
 | 47 | [Nancy \(With the Laughing Face\) \- 78rpm Version](https://open.spotify.com/track/4Pnzw1nLOpDNV6MKI5ueIR) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra Sings His Greatest Hits](https://open.spotify.com/album/57vPH8jXw3PF0zD6zeaNOD) | 3:19 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4H3NUOwVLXj.md) - [plain]
 | 53 | [All Through The Day](https://open.spotify.com/track/5ZG1JwCKyUWBRizunThX1i) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Columbia Years \(1943\-1952\): The Complete Recordings: Volume 3](https://open.spotify.com/album/5BoSBPiaIMAPs87jvtAvFi) | 3:00 |
 | 54 | [Watertown \- 2022 Mix](https://open.spotify.com/track/15AD0dVRa56knhKRVJrhtY) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Watertown \(Deluxe Edition / 2022 Mix\)](https://open.spotify.com/album/1r6CYUhkI07HNT5ONg6AqL) | 3:36 |
 
-Snapshot ID: `MTY4MDI2ODExOSwwMDAwMDAwMGMzNjQyN2U0MDhjZTJjOWNmNzYwN2M2NWFiMWIyZDg2`
+Snapshot ID: `MTY4MDI2ODExOSwwMDAwMDAwMGUyNjY3ODZhMDg4OWMyM2QyMzgzMzQ0Y2MxNjg1M2Mw`

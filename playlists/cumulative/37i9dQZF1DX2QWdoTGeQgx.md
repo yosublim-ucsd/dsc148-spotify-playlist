@@ -2,7 +2,7 @@
 
 ### [Chill Lah](https://open.spotify.com/playlist/37i9dQZF1DX2QWdoTGeQgx)
 
-> Happy National Pet Day from Shye, Chestnut and Tigreal!
+> Chill out.
 
 309 songs - 16 hr 57 min
 

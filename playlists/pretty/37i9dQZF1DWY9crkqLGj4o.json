@@ -1,12 +1,12 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 351179,
+  "num_followers": 351503,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDg5ODUwMiwwMDAwMDAwMDg1YWY2MDEzOTAyZTUwNzI4NTVkZDU3OWM5MTEwZjJj",
+  "snapshot_id": "MTY2NDg5ODUwMiwwMDAwMDAwMDdmMzQ4NWQwNzJmNWUxNTMwODM1NTA0MzhjZWIwOTc3",
   "tracks": [
     {
       "added_at": "2022-04-15 03:00:00",
@@ -91,6 +91,26 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
+        "name": "Preto no Branco (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG"
+      },
+      "artists": [
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 390386,
+      "name": "Ningu\u00e9m Explica Deus (feat. Gabriela Rocha) - Ao Vivo",
+      "url": "https://open.spotify.com/track/682XjN6L1Qhs5rXbuGSQKK"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
         "name": "Pode Morar Aqui",
         "url": "https://open.spotify.com/album/4DZvXBLQeG6YTNggyOQGDI"
       },
@@ -119,26 +139,6 @@
       "duration_ms": 333902,
       "name": "Ousado Amor",
       "url": "https://open.spotify.com/track/5qyFts6geTWeNbMeYQcPai"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
-        "name": "Preto no Branco (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG"
-      },
-      "artists": [
-        {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 390386,
-      "name": "Ningu\u00e9m Explica Deus (feat. Gabriela Rocha) - Ao Vivo",
-      "url": "https://open.spotify.com/track/682XjN6L1Qhs5rXbuGSQKK"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -855,18 +855,18 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+        "name": "Rompendo",
+        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
       },
       "artists": [
         {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 239211,
-      "name": "Prioridade",
-      "url": "https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj"
+      "duration_ms": 233406,
+      "name": "Volte a Sonhar",
+      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
-        "name": "Rompendo",
-        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
       },
       "artists": [
         {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 233406,
-      "name": "Volte a Sonhar",
-      "url": "https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R"
+      "duration_ms": 239211,
+      "name": "Prioridade",
+      "url": "https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj"
     },
     {
       "added_at": "2022-04-15 03:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2022-04-15 03:00:00",
       "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 284862,
+      "name": "Casa do Pai",
+      "url": "https://open.spotify.com/track/5Phlatr2avk8DRTA1ahxb6"
+    },
+    {
+      "added_at": "2022-04-15 03:00:00",
+      "album": {
         "name": "Sou Casa (Ao Vivo)",
         "url": "https://open.spotify.com/album/3Fx1gxZTg4x5mG90SY3l4H"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 275110,
       "name": "Sou Casa (Ao Vivo)",
       "url": "https://open.spotify.com/track/5TRRTSIsEzdxjG56pKBXvi"
-    },
-    {
-      "added_at": "2022-04-15 03:00:00",
-      "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/5cnXg9VgRklof02kUD45zk"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 284862,
-      "name": "Casa do Pai",
-      "url": "https://open.spotify.com/track/5Phlatr2avk8DRTA1ahxb6"
     }
   ],
   "unique_name": "Louvando e Lou\u00e7a",

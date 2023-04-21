@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,498 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,625 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 96 | [How Do We Heal](https://open.spotify.com/track/5Ds0wPs6q6pHAWXVa5EXmY) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Bryce The Third](https://open.spotify.com/artist/2vybgOw7cAjEAInqTAT5Hx) | [It Starts with Love](https://open.spotify.com/album/6gzrKLDkaYEyUknqeS4aFW) | 5:11 |
 | 97 | [Never](https://open.spotify.com/track/7vH4dCyPjR98UIOi9eg5Ez) | [Luqman Frank](https://open.spotify.com/artist/2n9bS9HE2t5dn4sx6d4uAj) | [Never](https://open.spotify.com/album/2ggiQt0eaXS4ZsbUnjnC0h) | 4:40 |
 | 98 | [Trust](https://open.spotify.com/track/1SSdSN70LK45vWndX3twa9) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Truth & Soul](https://open.spotify.com/album/0d1vlMDPL6j1ebfb4x0sTt) | 4:20 |
-| 99 | [Oo Baby](https://open.spotify.com/track/5nu4tzBw8B0EutFSqkgExx) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Oo Baby](https://open.spotify.com/album/3uCgGKgPoZC6IlnAmtSUgJ) | 4:08 |
+| 99 | [Oo Baby](https://open.spotify.com/track/4EBy3nzmqlfnnbhxCESldy) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Oo Baby](https://open.spotify.com/album/5KmiOydl3O3vGKR5OrfLlF) | 4:08 |
 | 100 | [On My Line](https://open.spotify.com/track/69Zsk4qDZhC0lSTHd6dcaA) | [Meernaa](https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g) | [On My Line](https://open.spotify.com/album/1ojdHKB7tifei9riIPoiLd) | 3:11 |
 
-Snapshot ID: `MTY4MDg0MDA2MCwwMDAwMDAwMGZhYzNhYzRmMGI5NWYxZWE1Y2QwZTAxYjVlNGU2NWY3`
+Snapshot ID: `MTY4MDg0MDA2MCwwMDAwMDAwMDMzZjNkODNjMzgxYWQ1MDI4MjlkMzU3MGViYjI3YjA4`

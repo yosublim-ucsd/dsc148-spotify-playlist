@@ -2,7 +2,7 @@
 
 ### [Fresh Finds: Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWW4igXXl2Qkp)
 
-> The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: Lil Blessin
+> The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: ODUMODUBLVCK
 
 726 songs - 1 day 7 hr 53 min
 

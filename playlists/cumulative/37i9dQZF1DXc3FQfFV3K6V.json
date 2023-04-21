@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Blanket On The Ground",
+        "url": "https://open.spotify.com/album/373M8k23TiJ2QvysKoDuAo"
+      },
+      "artists": [
+        {
+          "name": "Los Types",
+          "url": "https://open.spotify.com/artist/1LhKDFwRnbRBPCc3BfA68N"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213883,
+      "name": "Blanket On The Ground",
+      "url": "https://open.spotify.com/track/1OisioJjA7Y2pM19yBf4jl"
+    },
+    {
+      "album": {
         "name": "Blinding Lights (Acoustic)",
         "url": "https://open.spotify.com/album/4HDwVxGI1HOC8Up7sYxWqd"
       },
@@ -734,6 +752,24 @@
       "duration_ms": 210473,
       "name": "Call Me Maybe - Acoustic",
       "url": "https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O"
+    },
+    {
+      "album": {
+        "name": "Ceilings",
+        "url": "https://open.spotify.com/album/6rnRR1r64FOlvbH2jdEuTT"
+      },
+      "artists": [
+        {
+          "name": "WestSouth",
+          "url": "https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199687,
+      "name": "Ceilings",
+      "url": "https://open.spotify.com/track/50akjhvSXjPASWlkD1XSCd"
     },
     {
       "album": {
@@ -1079,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "Fall In Love Alone",
+        "url": "https://open.spotify.com/album/24QJPsoorh8vk0ixCffZGS"
+      },
+      "artists": [
+        {
+          "name": "Dez Duron",
+          "url": "https://open.spotify.com/artist/6NJ8Wjbd4o2C828EE5R9hS"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215308,
+      "name": "Fall In Love Alone",
+      "url": "https://open.spotify.com/track/45IGfL1jAat9k7E3Wjt7q1"
+    },
+    {
+      "album": {
         "name": "Fast Car",
         "url": "https://open.spotify.com/album/4pIM0EG3s7vcZKcZHt0AHU"
       },
@@ -1206,6 +1260,24 @@
       "duration_ms": 179939,
       "name": "Glycerine",
       "url": "https://open.spotify.com/track/5oyDs4s7zWcvPyOr6aenCW"
+    },
+    {
+      "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/1hBcP9vQCIkoKfJRtGh4zX"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kristine",
+          "url": "https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229855,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/4fiMHTOM1LyoqUKxCj540L"
     },
     {
       "album": {
@@ -1631,6 +1703,24 @@
     },
     {
       "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/5QJUIAKt4hjiP7NMf6w7Hm"
+      },
+      "artists": [
+        {
+          "name": "Mia Rainn",
+          "url": "https://open.spotify.com/artist/63EpmRhZSeqagTpfNFzmxP"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206101,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/7KRDGmyQGgJ1yrehPOJqnE"
+    },
+    {
+      "album": {
         "name": "Here You Come Again",
         "url": "https://open.spotify.com/album/06L0xtIRXUnbnVX4MOfytS"
       },
@@ -1787,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "how do you sleep?",
+        "url": "https://open.spotify.com/album/6HHO3PkWgYYK6D0zAS9VUm"
+      },
+      "artists": [
+        {
+          "name": "who's heather",
+          "url": "https://open.spotify.com/artist/7LCGqAuRA0aJc7pQYfJSq8"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223340,
+      "name": "how do you sleep?",
+      "url": "https://open.spotify.com/track/6vRNE5P6s0GIZRQPJgLpF6"
+    },
+    {
+      "album": {
         "name": "Leave Me Breathless",
         "url": "https://open.spotify.com/album/64q8FVttuqM8sKaUB1WyfV"
       },
@@ -1860,6 +1968,24 @@
       "duration_ms": 232500,
       "name": "I Don't Wanna Live Forever (Fifty Shades Darker) - Acoustic",
       "url": "https://open.spotify.com/track/3DiSg52IvK0nmFwsMKL7bB"
+    },
+    {
+      "album": {
+        "name": "I Get to Love You (Acoustic)",
+        "url": "https://open.spotify.com/album/2SjgmfolAvjxYp6MBgAJOn"
+      },
+      "artists": [
+        {
+          "name": "Mysha Didi",
+          "url": "https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186221,
+      "name": "I Get to Love You - Acoustic",
+      "url": "https://open.spotify.com/track/1Pte35IwrE0KkvftaAofgw"
     },
     {
       "album": {
@@ -2119,6 +2245,24 @@
     },
     {
       "album": {
+        "name": "I'm So Tired...",
+        "url": "https://open.spotify.com/album/3XqIOJaJckjEYwx8zOhslK"
+      },
+      "artists": [
+        {
+          "name": "Scottie",
+          "url": "https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175432,
+      "name": "I'm So Tired...",
+      "url": "https://open.spotify.com/track/3KUBVgFUF0JfXI0MkcHgQO"
+    },
+    {
+      "album": {
         "name": "I'm the One (Acoustic)",
         "url": "https://open.spotify.com/album/6WzXYSMc9J693mYihBbTwe"
       },
@@ -2314,6 +2458,24 @@
       "duration_ms": 192545,
       "name": "It Aint me - Acoustic",
       "url": "https://open.spotify.com/track/18ZK9RiSZdZVTkzVFw0yin"
+    },
+    {
+      "album": {
+        "name": "Kiss An Angel Good Mornin'",
+        "url": "https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895"
+      },
+      "artists": [
+        {
+          "name": "Xochi Krausse",
+          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164785,
+      "name": "Kiss An Angel Good Mornin'",
+      "url": "https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ"
     },
     {
       "album": {
@@ -2519,6 +2681,24 @@
     },
     {
       "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/0UkPFZiEY8VJLDiWFuYiqd"
+      },
+      "artists": [
+        {
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191496,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/0Vdw0avLSgSt2uZoSZOXTx"
+    },
+    {
+      "album": {
         "name": "Covers EP",
         "url": "https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q"
       },
@@ -2602,7 +2782,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 281062,
       "name": "Lightning Crashes",
       "url": "https://open.spotify.com/track/7e5dQ0xfbBFC4RWg7ogstX"
@@ -2786,6 +2966,24 @@
       "duration_ms": 183814,
       "name": "One",
       "url": "https://open.spotify.com/track/1hoSHBbsZBNvv051EjQP5D"
+    },
+    {
+      "album": {
+        "name": "Out Of My Head And Back In My Bed",
+        "url": "https://open.spotify.com/album/2tYlc586qfpzDq1nfh8z1M"
+      },
+      "artists": [
+        {
+          "name": "Eloise Freud",
+          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190561,
+      "name": "Out Of My Head And Back In My Bed",
+      "url": "https://open.spotify.com/track/13TEQskDYFrpAtPtKVMznF"
     },
     {
       "album": {
@@ -3180,7 +3378,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 197227,
       "name": "Save Me from Myself",
       "url": "https://open.spotify.com/track/27QsIV6W06TrPVmhVPbfoP"
@@ -3948,7 +4146,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 197118,
       "name": "We Don't Have To Take Our Clothes Off",
       "url": "https://open.spotify.com/track/5PacEiW4GT9mLA1d0W95tA"
@@ -3974,6 +4172,24 @@
       "duration_ms": 173065,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/7ggLvZ7Ot5bfayAva458kA"
+    },
+    {
+      "album": {
+        "name": "When I Get There",
+        "url": "https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m"
+      },
+      "artists": [
+        {
+          "name": "Brandon Chase",
+          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233150,
+      "name": "When I Get There",
+      "url": "https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK"
     },
     {
       "album": {
@@ -4082,7 +4298,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 180532,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/3AfGSGi7tctvzyaw4yZy7A"

@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127114,
+  "num_followers": 127297,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDE0MCw2MDA0ODZjM2EyNDNiYTljZjAzOTE4Yjc2NGJlOGEyZjMzMWUxNTdk",
+  "snapshot_id": "NDE0Myw1ZmY5YmJjZmMxNDljY2FmMWVlNDM1YWQ2OTQxNzg2MDkyYmUzNWJh",
   "tracks": [
+    {
+      "added_at": "2023-04-20 16:37:15",
+      "album": {
+        "name": "Charmer",
+        "url": "https://open.spotify.com/album/24LzfYkJVldWDPJWfilfoM"
+      },
+      "artists": [
+        {
+          "name": "Godlands",
+          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Charmer",
+      "url": "https://open.spotify.com/track/0qlcVvGMXn1aRB9nGPlaYN"
+    },
     {
       "added_at": "2023-04-20 00:15:04",
       "album": {
@@ -1111,22 +1127,6 @@
       "duration_ms": 265000,
       "name": "Used to Losing You",
       "url": "https://open.spotify.com/track/0A4VK9bpXxGWyHQPm8D81s"
-    },
-    {
-      "added_at": "2023-02-03 18:43:12",
-      "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/2n3BfSQ9ey2xQP4sr9DGfr"
-      },
-      "artists": [
-        {
-          "name": "Dr. Ush\u016bu",
-          "url": "https://open.spotify.com/artist/5UCxi2O9gdyXj7fNgQE9xR"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/532GvRC2Nvv6sZlMtppByu"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

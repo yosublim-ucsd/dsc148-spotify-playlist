@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: MiLES\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,153,459 likes - 119 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,153,654 likes - 119 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 4 | [Advantage](https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Advantage](https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb) | 3:25 |
 | 5 | [Sunday](https://open.spotify.com/track/4pg7v1l4E54OSfojSVa6RL) | [ShaqIsDope](https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4) | [Sunday](https://open.spotify.com/album/2m7woQW8imyUenD0BQyoyn) | 2:36 |
 | 6 | [If You Were A Song](https://open.spotify.com/track/3vKAQFXRh0lkJdPuS5pclq) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [If You Were A Song](https://open.spotify.com/album/45vV4tTizW88VginnGXeJ9) | 4:19 |
-| 7 | [Dopamine \- French Version](https://open.spotify.com/track/4B6eD1nzrz6PNOLMgtT7VX) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [dopamine](https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3) | 2:45 |
+| 7 | [dopamine \- Version Française](https://open.spotify.com/track/4B6eD1nzrz6PNOLMgtT7VX) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [dopamine](https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3) | 2:45 |
 | 8 | [Éxodo Mental](https://open.spotify.com/track/1ZT6RqnorPxsQnQ2mzgwP1) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Pánico y Distorsión](https://open.spotify.com/album/7hhroFtSzsFx9L9ALmKESc) | 3:16 |
 | 9 | [Summa Glo](https://open.spotify.com/track/2iAKOeAInq4myXRXSwalRI) | [Apricot Ink](https://open.spotify.com/artist/1G1wiJFW17GKtPfxUNLPhJ) | [Summa Glo](https://open.spotify.com/album/2C7pH4yGqHN7ol7C4BZr2D) | 3:05 |
 | 10 | [Kissing Other Boys](https://open.spotify.com/track/2aQBuAFU3CTwrpLZCaas3F) | [JXCKY](https://open.spotify.com/artist/6BaMvb4XicSCtYWqjXw3hV) | [Kissing Other Boys](https://open.spotify.com/album/6JBlGGrV3hTJQqyV5GFPOE) | 2:35 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z">Tiësto</a>'s best songs, remixes and compilations.
 
-326 songs - 22 hr 52 min
+327 songs - 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Chant](https://open.spotify.com/track/7MB5rmPDUQQmKM50ActNhA) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U) | [Club Life, Vol\. 4 \- New York City](https://open.spotify.com/album/57bABnvvPfNhBQRI70dqlU) | 3:48 | 2020-10-20\* | 2023-04-20 |
 | [Chasing Summers \(Original Mix\)](https://open.spotify.com/track/3vzQxHxomtCtb4PVILnLS0) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Club Life \- Volume 2 Miami](https://open.spotify.com/album/5P21DkmdD7MiWR05Mde1Cc) | 4:15 | 2020-10-20\* | 2023-04-20 |
 | [Chemicals \(feat\. Thomas Troelsen\)](https://open.spotify.com/track/5hZz0GjweCU7v0u5VU6KlT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Thomas Troelsen](https://open.spotify.com/artist/66dO8EHFd4ZfjxdQC4VdAS) | [Chemicals \(feat\. Thomas Troelsen\)](https://open.spotify.com/album/5ahoJwdRxEV11glfqkF5zX) | 3:42 | 2020-10-20\* |  |
+| [Chills \(LA Hills\)](https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 3:03 | 2023-04-20 |  |
 | [Clarity \(feat\. Foxes\) \- Tiësto Remix](https://open.spotify.com/track/4jIQ0wouzKHbi1fYHORIN0) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Club Life, Vol\. 3 \- Stockholm](https://open.spotify.com/album/5pbsUGC9LpIf2r9QSfJpGZ) | 5:22 | 2022-07-28 | 2023-04-20 |
 | [Clarity \- Tiësto Remix](https://open.spotify.com/track/18l9dai8PHPKp0MzR73toP) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Club Life, Vol\. 3 \- Stockholm \(Spotify Exclusive\)](https://open.spotify.com/album/4WGxTGkyuhM6sKj3QbhHnd) | 5:22 | 2020-10-20\* | 2022-07-29 |
 | [Close To Me](https://open.spotify.com/track/1aE32D6KsmlSm2tfeUQOxK) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Quilla](https://open.spotify.com/artist/13lEYlk34kzGboBYa9le4K) | [A Town Called Paradise \(Deluxe\)](https://open.spotify.com/album/1116PKIKlArm87HVaPtonW) | 4:24 | 2020-10-20\* | 2023-04-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: BLP KOSHER
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,345,229 likes - 100 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,345,956 likes - 100 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 74 | [Tally \(with Denzel Curry\)](https://open.spotify.com/track/6FGrBYBdIAS2asaP54AnZo) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Tally \(with Denzel Curry\)](https://open.spotify.com/album/4zGtu3hNTfIqxyNOAQwkLq) | 2:27 |
 | 75 | [HIMBO](https://open.spotify.com/track/6p3E1pfSwR1UPK8s4OVQOD) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [HIMBO/GOD'S LONELY MAN](https://open.spotify.com/album/2rHMPRzjudUluNghHTKsLq) | 1:53 |
 | 76 | [Trapping & Finessing \(LOVE Song\)](https://open.spotify.com/track/6TSwiqJJ7alc1rHHetz4Eb) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Trapping & Finessing](https://open.spotify.com/album/3Z0aq4NH3sfrAMURV9pv41) | 2:28 |
-| 77 | [Need](https://open.spotify.com/track/4s8fQKAfuHR9gMDzoA9ioQ) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [Need](https://open.spotify.com/album/5zcHTgSTVHfrF4JJOh1Gnh) | 2:37 |
+| 77 | [NEED](https://open.spotify.com/track/1QdRSAlZRjPuoZ9Hd8YTQp) | [Laylia](https://open.spotify.com/artist/58GEe1kDLCyFbTFGvOiJdy) | [NEED](https://open.spotify.com/album/3LxtiqscRn3D9H48SgaZae) | 2:38 |
 | 78 | [GNARLY! \(WITH ARMANI WHITE\)](https://open.spotify.com/track/19wJJ7XPv1IQ6tWZ6LktGu) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [GNARLY! \(WITH ARMANI WHITE\)](https://open.spotify.com/album/47OW0oO4aSghC0y0ivflp5) | 2:27 |
 | 79 | [Sky](https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Whole Lotta Red](https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR) | 3:13 |
 | 80 | [Mine](https://open.spotify.com/track/4O1UcKLwZ92kxNTn3u0voN) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Mine](https://open.spotify.com/album/5X1ugJYc0B57rw0OnTwBKE) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/track/53acd3PVcgGCux58YABBr5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/album/1RJ4oGkndLQuhu4EfVTKk5) | 3:15 |
 | 100 | [sipping my tea](https://open.spotify.com/track/5f4NTBzhDSX8d8eT0HsZEL) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [sipping my tea](https://open.spotify.com/album/1WxpvhzIDHLG5F9unXWM0C) | 1:42 |
 
-Snapshot ID: `MTY4MTc2MjY5OSwwMDAwMDAwMGNhNTQ3NzhkZjIxOWIxZDc3ZTFlOTc1NDllMTBhOWY3`
+Snapshot ID: `MTY4MTc2MjY5OSwwMDAwMDAwMDFhZmUzMWRlZGM1MjcxN2IxOTYzYzdiYTIzYzliMmNi`

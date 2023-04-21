@@ -3138,7 +3138,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 185810,
       "name": "F.O.O.L. - Hard Mix",
       "url": "https://open.spotify.com/track/5PaX3RxYZKeqIZzuC2vtOH"
@@ -4598,7 +4598,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 219200,
       "name": "Harder Generation",
       "url": "https://open.spotify.com/track/6iLMS7BoubufyLfSf2PUpy"
@@ -5856,6 +5856,28 @@
       "duration_ms": 179635,
       "name": "Keep On Rockin'",
       "url": "https://open.spotify.com/track/03Gu5zrOY4mCq0RSQNELM7"
+    },
+    {
+      "album": {
+        "name": "Keepers Of Our Legacy",
+        "url": "https://open.spotify.com/album/0hF85b1g0YOWqRorVVUlkF"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        },
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252549,
+      "name": "Keepers Of Our Legacy",
+      "url": "https://open.spotify.com/track/7w06cAEK8P7PzQCopSQyuJ"
     },
     {
       "album": {
@@ -7812,6 +7834,32 @@
       "duration_ms": 222033,
       "name": "Out Of The Shadows",
       "url": "https://open.spotify.com/track/0wM5xMaTddQjAXkNcFBcrR"
+    },
+    {
+      "album": {
+        "name": "Outside (Hardstyle Remix)",
+        "url": "https://open.spotify.com/album/3npYJDvpWgrXks0LmNWZQt"
+      },
+      "artists": [
+        {
+          "name": "Yohan Gerber",
+          "url": "https://open.spotify.com/artist/0KxXlISC2jglmPDAGGBlra"
+        },
+        {
+          "name": "ATHYN",
+          "url": "https://open.spotify.com/artist/41esbIbuaddLTrWceKGbf1"
+        },
+        {
+          "name": "Elise Lieberth",
+          "url": "https://open.spotify.com/artist/42hdUVfhzUs7dZWafzvJ7e"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169487,
+      "name": "Outside (Hardstyle Remix)",
+      "url": "https://open.spotify.com/track/5idLCQX198buvDTviDEPP2"
     },
     {
       "album": {
@@ -10940,7 +10988,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 284903,
       "name": "Time Is Now (I AM HARDSTYLE In Concert Theme)",
       "url": "https://open.spotify.com/track/0VZTgcwJaA2LBspPvQ32hh"
@@ -11230,6 +11278,28 @@
       "duration_ms": 232950,
       "name": "Trip to Valhalla",
       "url": "https://open.spotify.com/track/2D9WT9MeG07a26kKU9IGEb"
+    },
+    {
+      "album": {
+        "name": "Turn The Tide Revisited",
+        "url": "https://open.spotify.com/album/6lO0IvuTGuO9zlpgC2NUCz"
+      },
+      "artists": [
+        {
+          "name": "Lowriderz",
+          "url": "https://open.spotify.com/artist/6r2jFoPfqDkcIFa0WlQTg6"
+        },
+        {
+          "name": "Sylver",
+          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Turn The Tide Revisited",
+      "url": "https://open.spotify.com/track/6HZMjW77EJTRimMarTJVnh"
     },
     {
       "album": {
@@ -12077,6 +12147,28 @@
     },
     {
       "album": {
+        "name": "What's Up?",
+        "url": "https://open.spotify.com/album/2KzqXQI4UMfDoVAoT9f26Z"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "What's Up?",
+      "url": "https://open.spotify.com/track/2Sdpn0xjNKuWdfdccdvFnl"
+    },
+    {
+      "album": {
         "name": "Where is the Beat?",
         "url": "https://open.spotify.com/album/1dDPrbRNE9Q4hjnz36Ctp8"
       },
@@ -12314,7 +12406,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 167072,
       "name": "YRML 2K20",
       "url": "https://open.spotify.com/track/0gakxtyAQxCAQ9h7PiUpKu"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : DMS",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : USKY",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -242,7 +242,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 212812,
       "name": "ALO",
       "url": "https://open.spotify.com/track/2gVEgY3FxEL8R4frXffu6E"
@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/5ASTxD2T9pvG21LyJYGkcF"
+      },
+      "artists": [
+        {
+          "name": "DTF",
+          "url": "https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146181,
+      "name": "Bilan",
+      "url": "https://open.spotify.com/track/4LX12WH82yNq6q6G6MIcmu"
+    },
+    {
+      "album": {
         "name": "Etoile Noire : N\u00e9buleuse",
         "url": "https://open.spotify.com/album/2ckXqM9XfrPuuKnN39oRvw"
       },
@@ -452,7 +470,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 186000,
       "name": "Boulevard des Belges",
       "url": "https://open.spotify.com/track/7KFpc05eZ24c3DTDwY8ER4"
@@ -818,7 +836,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 156592,
       "name": "Donatello",
       "url": "https://open.spotify.com/track/751GmCqzetFYzJ7b3b0AZR"
@@ -1557,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "J'oublie",
+        "url": "https://open.spotify.com/album/3cHfA8bgpYXok3XYIIaYb1"
+      },
+      "artists": [
+        {
+          "name": "Yuzmv",
+          "url": "https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176051,
+      "name": "J'oublie",
+      "url": "https://open.spotify.com/track/47ZrpiH2Koy794jtcdPmHn"
+    },
+    {
+      "album": {
         "name": "J'rentre pas chez moi",
         "url": "https://open.spotify.com/album/5MaykxZo8kzq0uYHgQXjqD"
       },
@@ -1701,6 +1737,24 @@
     },
     {
       "album": {
+        "name": "Larmes",
+        "url": "https://open.spotify.com/album/1YGUXrZ9U4pLtke6ZQPVW1"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9my",
+          "url": "https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222713,
+      "name": "Larmes",
+      "url": "https://open.spotify.com/track/278IRNfCKsIEDlXgZCLWZ6"
+    },
+    {
+      "album": {
         "name": "Le monde par ma fen\u00eatre",
         "url": "https://open.spotify.com/album/1wfDHmjYJOji4uln5Ep65z"
       },
@@ -1824,7 +1878,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 216000,
       "name": "Loyal",
       "url": "https://open.spotify.com/track/45OP9T9rtIJgZ0uMUcsls3"
@@ -2162,7 +2216,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 213068,
       "name": "M\u00e9moire d'un presque rien",
       "url": "https://open.spotify.com/track/5lQTCLF6eeHJnkS03xzWmB"
@@ -2813,6 +2867,46 @@
     },
     {
       "album": {
+        "name": "Meribel",
+        "url": "https://open.spotify.com/album/5EXbemr2yfeyEIfocOf5R7"
+      },
+      "artists": [
+        {
+          "name": "illi",
+          "url": "https://open.spotify.com/artist/2qDnnMwHGuuOavNoAczDgZ"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183588,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/3UnOokumsh7zsWbMwdMVdo"
+    },
+    {
+      "album": {
+        "name": "R\u00e9tina",
+        "url": "https://open.spotify.com/album/3UIIEm33dsCVkZiSS1PezU"
+      },
+      "artists": [
+        {
+          "name": "USKY",
+          "url": "https://open.spotify.com/artist/0VbfTzGkMlei0XtibnO466"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171033,
+      "name": "R\u00e9tina",
+      "url": "https://open.spotify.com/track/46dOsqKgsS8XNKAy0Ttno2"
+    },
+    {
+      "album": {
         "name": "R\u00eaves",
         "url": "https://open.spotify.com/album/1BDipX9JYqyiiP05lWx6Tn"
       },
@@ -2904,7 +2998,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 210349,
       "name": "Samoura\u00ef",
       "url": "https://open.spotify.com/track/3LaKrRSIzGwr9onnpLijKG"
@@ -3225,6 +3319,24 @@
     },
     {
       "album": {
+        "name": "KILO",
+        "url": "https://open.spotify.com/album/7f9bQMl1mk8T3B5aBz72Ya"
+      },
+      "artists": [
+        {
+          "name": "BFG",
+          "url": "https://open.spotify.com/artist/3XxZVlDivZ7aV3xCIViakY"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Tous les jours",
+      "url": "https://open.spotify.com/track/1O5nheIwgavNsDYIHIUx7Z"
+    },
+    {
+      "album": {
         "name": "Tout peut s'effacer",
         "url": "https://open.spotify.com/album/3FPxbZhLbM2AJ7E0jthbco"
       },
@@ -3236,7 +3348,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 197441,
       "name": "Tout peut s'effacer",
       "url": "https://open.spotify.com/track/04lh5nf7uhCtzdD60ZtXHk"

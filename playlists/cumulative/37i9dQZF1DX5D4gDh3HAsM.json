@@ -648,7 +648,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-16",
+      "date_removed": null,
       "duration_ms": 243600,
       "name": "Have a Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/2Lb9nBoZ8V5GNtMOgcaF8o"
@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 196200,
       "name": "O Little Town Of Bethlehem",
       "url": "https://open.spotify.com/track/7mN5Va59eJwb5fRTuOmuUb"
@@ -1330,6 +1330,24 @@
       "duration_ms": 176080,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/11EHUtg6DvSmW0qVNVZWXI"
+    },
+    {
+      "album": {
+        "name": "Santa Baby",
+        "url": "https://open.spotify.com/album/2RqEmOKf7AE3yeGMAQR3mJ"
+      },
+      "artists": [
+        {
+          "name": "Haley Reinhart",
+          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176080,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/1VKndPOz75Bk97MT4Jg46Z"
     },
     {
       "album": {
@@ -1754,7 +1772,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-26",
+      "date_removed": null,
       "duration_ms": 223315,
       "name": "The Little Things",
       "url": "https://open.spotify.com/track/5iSVLB0MDNoeXXfi5hs9T8"
@@ -1772,7 +1790,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 212400,
       "name": "To Us Is Given",
       "url": "https://open.spotify.com/track/7n76J43bOv8dO4MXCbv4Zt"
@@ -1938,7 +1956,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 286533,
       "name": "What Child Is This?",
       "url": "https://open.spotify.com/track/08dQ920WdoLvM1iItUuflQ"

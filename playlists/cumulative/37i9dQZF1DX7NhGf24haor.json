@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "The newest Hardstyle tracks | 2023 Hardstyle. Cover: D-Block & S-te-Fan & Headhunterz",
+  "description": "The newest Hardstyle tracks | 2023 Hardstyle. Cover: Warface",
   "name": "Hardstyle Adrenaline! 2023",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 190125,
       "name": "ACID is my DNA",
       "url": "https://open.spotify.com/track/2cJA1sa6T2mVyScP5cRd0Z"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 241600,
       "name": "All Of The Lights",
       "url": "https://open.spotify.com/track/5hBqQDU8fb3tuUDgtRR13H"
@@ -334,7 +334,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 181274,
       "name": "Attack Mode",
       "url": "https://open.spotify.com/track/6RpHz3kIbDNS2vjdlSN7rO"
@@ -670,7 +670,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 154400,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/1cV1UP1QRnCOZcAlRTPJxM"
@@ -714,10 +714,28 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 145650,
       "name": "Catch Me If You Can",
       "url": "https://open.spotify.com/track/1HNFlssmxq6pvQKsJbOJhT"
+    },
+    {
+      "album": {
+        "name": "Chaos & Crime",
+        "url": "https://open.spotify.com/album/5MUUC1zNpYjQexL7dvbQwA"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199741,
+      "name": "Chaos & Crime",
+      "url": "https://open.spotify.com/track/6Ouzg40su5Hj3m1R0X32k6"
     },
     {
       "album": {
@@ -1195,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "Rest In Pieces",
+        "url": "https://open.spotify.com/album/0GtKJFawJ0GTmEz0uKOyJr"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Down To Earth",
+      "url": "https://open.spotify.com/track/3kihuUqBuMDO6tXGUY65s9"
+    },
+    {
+      "album": {
         "name": "Dragon's Roar",
         "url": "https://open.spotify.com/album/0Mou6whPgdgVpSebDTdVFd"
       },
@@ -1364,7 +1400,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 212129,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/7nJPt8h1ONb7XRWxxqTW7Q"
@@ -1674,7 +1710,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 159209,
       "name": "Follow The Light",
       "url": "https://open.spotify.com/track/1qOpSKl9lrC8awApyPNQpt"
@@ -2149,6 +2185,32 @@
     },
     {
       "album": {
+        "name": "High as a Kite",
+        "url": "https://open.spotify.com/album/2HtXsxglrAIPjCE1695lye"
+      },
+      "artists": [
+        {
+          "name": "NIKSTER",
+          "url": "https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai"
+        },
+        {
+          "name": "WhiteCapMusic",
+          "url": "https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB"
+        },
+        {
+          "name": "Moo Malika",
+          "url": "https://open.spotify.com/artist/4YiBf59wHegq9AGbBVs4Yf"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177480,
+      "name": "High as a Kite",
+      "url": "https://open.spotify.com/track/764Bpz4lGP4jJyr5kGl00t"
+    },
+    {
+      "album": {
         "name": "High Power (Radical Redemption Remix)",
         "url": "https://open.spotify.com/album/3ueLngpFKZcWMkTrfc7gGX"
       },
@@ -2451,6 +2513,24 @@
     },
     {
       "album": {
+        "name": "I\u00b4ll be fine",
+        "url": "https://open.spotify.com/album/06X5BvNmFim7e14jxJuL7r"
+      },
+      "artists": [
+        {
+          "name": "Mirisz",
+          "url": "https://open.spotify.com/artist/2uGfa8SP7ICbWj3hxaSnoH"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197538,
+      "name": "I'll be fine",
+      "url": "https://open.spotify.com/track/2dqTlgUaIJgufoaRSCKbDa"
+    },
+    {
+      "album": {
         "name": "I'm A Fighter",
         "url": "https://open.spotify.com/album/6wyPTU7HdVyxiUNa0TuYPh"
       },
@@ -2678,6 +2758,28 @@
       "duration_ms": 235294,
       "name": "It's All About The Music",
       "url": "https://open.spotify.com/track/0w9Ycu6AN8kuN5LyIskWJD"
+    },
+    {
+      "album": {
+        "name": "Judgement Day",
+        "url": "https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY"
     },
     {
       "album": {
@@ -3224,6 +3326,28 @@
       "duration_ms": 191250,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/7kaAuxCzuAb2v8z2zKKfOh"
+    },
+    {
+      "album": {
+        "name": "Love, Bass & Happiness",
+        "url": "https://open.spotify.com/album/3gGQZFVaKVNQmiUKgyuToE"
+      },
+      "artists": [
+        {
+          "name": "Maxtreme",
+          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
+        },
+        {
+          "name": "TNYA",
+          "url": "https://open.spotify.com/artist/5uyrncH54t5oHqQVYgisiT"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171096,
+      "name": "Love, Bass & Happiness",
+      "url": "https://open.spotify.com/track/3bWtc9Fx7y4FRSCalxozJ4"
     },
     {
       "album": {
@@ -3799,6 +3923,32 @@
     },
     {
       "album": {
+        "name": "No More (feat. Veronica Bravo)",
+        "url": "https://open.spotify.com/album/57NU4PCcrt5z9aeDq5hsXR"
+      },
+      "artists": [
+        {
+          "name": "Lockdown",
+          "url": "https://open.spotify.com/artist/11ESC6KI0jpdML0CijeROt"
+        },
+        {
+          "name": "Marnage",
+          "url": "https://open.spotify.com/artist/1WVacTvQLSx5Kg3sji9WZP"
+        },
+        {
+          "name": "Veronica Bravo",
+          "url": "https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "No More (feat. Veronica Bravo)",
+      "url": "https://open.spotify.com/track/0aAHHE4Gs1MgL1WVVHYqvX"
+    },
+    {
+      "album": {
         "name": "No Resistance",
         "url": "https://open.spotify.com/album/64YdKvElIkpCQ2GAcDNZwv"
       },
@@ -4088,7 +4238,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 169487,
       "name": "Outside (Hardstyle Remix)",
       "url": "https://open.spotify.com/track/5idLCQX198buvDTviDEPP2"
@@ -4634,7 +4784,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 205935,
       "name": "Riders Of The Storm",
       "url": "https://open.spotify.com/track/7yuse8hjUyQ1nzbuUJ7OxC"
@@ -4761,6 +4911,32 @@
     },
     {
       "album": {
+        "name": "Rocket (Remixes)",
+        "url": "https://open.spotify.com/album/5IqJFVfmH7pl83kYKOSAzN"
+      },
+      "artists": [
+        {
+          "name": "Special D.",
+          "url": "https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt"
+        },
+        {
+          "name": "Mental Theo",
+          "url": "https://open.spotify.com/artist/3dOyTnBq9jKfRXJlJlddQq"
+        },
+        {
+          "name": "Clockartz",
+          "url": "https://open.spotify.com/artist/7GVB7uYTgkeYtLJxYMYYDp"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152250,
+      "name": "Rocket - Clockartz Remix",
+      "url": "https://open.spotify.com/track/5wW3uvXkZNNX63bIoVJvXA"
+    },
+    {
+      "album": {
         "name": "Roll The Dice",
         "url": "https://open.spotify.com/album/5Kz7m9hUnPcOE5qjfXv6c6"
       },
@@ -4872,6 +5048,28 @@
       "duration_ms": 223659,
       "name": "Running up That Hill",
       "url": "https://open.spotify.com/track/05kWHB3BEfFsP4ti1x6IWY"
+    },
+    {
+      "album": {
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/4CTKqkSwHk3N1nEDMnchrx"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Marc Blou",
+          "url": "https://open.spotify.com/artist/3NqSZ6T8QqQLyA5baayI19"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Satellites",
+      "url": "https://open.spotify.com/track/0ueLLmCacZAdtP23ecNWAu"
     },
     {
       "album": {
@@ -5072,7 +5270,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 164476,
       "name": "Stand Up",
       "url": "https://open.spotify.com/track/1bRt6XCQkPnzNjO2bpIZfZ"
@@ -5172,6 +5370,32 @@
       "duration_ms": 168963,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/49mOQAd9oshTGH4W3Z7OJ7"
+    },
+    {
+      "album": {
+        "name": "Summer Secrets",
+        "url": "https://open.spotify.com/album/3dJXsDviKg5vCw87ovcji6"
+      },
+      "artists": [
+        {
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+        },
+        {
+          "name": "Adjuzt",
+          "url": "https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8"
+        },
+        {
+          "name": "RXBY",
+          "url": "https://open.spotify.com/artist/1XpF2jsRjXNS7PXMfbOn0z"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197468,
+      "name": "Summer Secrets",
+      "url": "https://open.spotify.com/track/47EcxNsrHWXozZeAzuEfjN"
     },
     {
       "album": {
@@ -5314,6 +5538,28 @@
       "duration_ms": 152000,
       "name": "Tarantula",
       "url": "https://open.spotify.com/track/6BxlQF0gdDOybWTBAcIaA3"
+    },
+    {
+      "album": {
+        "name": "Techno Is Back",
+        "url": "https://open.spotify.com/album/2O5Lw3qbDOXqwWuMqrenUr"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        },
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176440,
+      "name": "Techno Is Back",
+      "url": "https://open.spotify.com/track/5VCi0XuLd9ejKOZEaV4Tvq"
     },
     {
       "album": {
@@ -5966,7 +6212,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 208979,
       "name": "Truly Madly Deeply",
       "url": "https://open.spotify.com/track/61yudMS42OFC6KWgmbqwQ7"
@@ -6151,6 +6397,24 @@
     },
     {
       "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/4ZeO8CWebXZWsEyRT3iEe7"
+      },
+      "artists": [
+        {
+          "name": "Sub Sonik",
+          "url": "https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177003,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/0H5K4h0u9Z8KDuAPJVSxsh"
+    },
+    {
+      "album": {
         "name": "Unsung Heroes",
         "url": "https://open.spotify.com/album/6aPa1pPSSyO6ZBUQenvJPJ"
       },
@@ -6258,10 +6522,32 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 219477,
       "name": "Vendetta - X-Qlusive OST",
       "url": "https://open.spotify.com/track/7hUjxqqihtkNajd5pGFaut"
+    },
+    {
+      "album": {
+        "name": "Warriors Unite",
+        "url": "https://open.spotify.com/album/5ENwIKOEysK3ux6pnYkVPc"
+      },
+      "artists": [
+        {
+          "name": "Atmozfears",
+          "url": "https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64"
+        },
+        {
+          "name": "Sound Rush",
+          "url": "https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243108,
+      "name": "Warriors Unite",
+      "url": "https://open.spotify.com/track/2aO2ZmC6srHWZ1VWiquEXF"
     },
     {
       "album": {
@@ -6542,7 +6828,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 174169,
       "name": "Zyzzbrah - Wild Angel Remix",
       "url": "https://open.spotify.com/track/481IUBPpXiTWn8G9Mm52bK"

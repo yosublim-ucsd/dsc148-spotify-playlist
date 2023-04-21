@@ -3573,6 +3573,28 @@
     },
     {
       "album": {
+        "name": "revenge",
+        "url": "https://open.spotify.com/album/5IS1yIRaMXCLq4tN3yTzTK"
+      },
+      "artists": [
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        },
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139941,
+      "name": "revenge",
+      "url": "https://open.spotify.com/track/1Mq8BdG6aNUqZnDe5Ca4e1"
+    },
+    {
+      "album": {
         "name": "Sogno",
         "url": "https://open.spotify.com/album/78mE3XmvNzocqHLzFj5CCG"
       },

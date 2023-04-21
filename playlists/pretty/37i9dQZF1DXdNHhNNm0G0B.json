@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk.",
-  "num_followers": 70287,
+  "num_followers": 70319,
   "original_name": "Rockin' Chair Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQwMTc3MiwwMDAwMDAwMGZkYzgzYTBhZDE0NzNhN2MzNWU4M2JkMWIyMGU4MWNl",
+  "snapshot_id": "MTY4MTQwMTc3MiwwMDAwMDAwMGQyNTJkOGNhMjlmZDQxMzdlMWY3MDkyMzQzZjM5NjU5",
   "tracks": [
     {
       "added_at": "2023-04-07 00:01:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Presenting Blind Willie McTell",
-        "url": "https://open.spotify.com/album/3CwFKuklZs4BJKkwqIR46z"
-      },
-      "artists": [
-        {
-          "name": "Blind Willie McTell",
-          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
-        }
-      ],
-      "duration_ms": 152853,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/2T3YfMI0xRk93bmVMuJcKu"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "New Orleans Street Singer",
         "url": "https://open.spotify.com/album/0swNksscllX2uKAYfFoLuu"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 161266,
       "name": "Alberta",
       "url": "https://open.spotify.com/track/6THJEXEOlRPu7BDyrQwJJP"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Presenting Blind Willie McTell",
+        "url": "https://open.spotify.com/album/3CwFKuklZs4BJKkwqIR46z"
+      },
+      "artists": [
+        {
+          "name": "Blind Willie McTell",
+          "url": "https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6"
+        }
+      ],
+      "duration_ms": 152853,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/2T3YfMI0xRk93bmVMuJcKu"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -453,20 +453,20 @@
       "url": "https://open.spotify.com/track/2rQVexxmI985m2iefLfhbm"
     },
     {
-      "added_at": "2023-04-07 00:01:00",
+      "added_at": "2023-04-21 00:49:55",
       "album": {
-        "name": "Willow Witchin' (Hot Take)",
-        "url": "https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl"
+        "name": "Blues Jumped a Rabbit",
+        "url": "https://open.spotify.com/album/5cOjiagbLZqw85RJNk8lQ4"
       },
       "artists": [
         {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
         }
       ],
-      "duration_ms": 150941,
-      "name": "Willow Witchin' (Hot Take)",
-      "url": "https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6"
+      "duration_ms": 235040,
+      "name": "Blues Jumped a Rabbit",
+      "url": "https://open.spotify.com/track/6Tb7mOJtHQtSSqJym83Bqr"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "Willow Witchin' (Hot Take)",
+        "url": "https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "duration_ms": 150941,
+      "name": "Willow Witchin' (Hot Take)",
+      "url": "https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "Live in Forl\u00ec, Italy 1982",
         "url": "https://open.spotify.com/album/6jJ64hMG1uwafIGiltuNNZ"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 282981,
       "name": "Clair de lune (For Twelve-String) [Live]",
       "url": "https://open.spotify.com/track/18ul6LoGQ7Fg9yOKLxxWZx"
-    },
-    {
-      "added_at": "2023-04-20 01:39:37",
-      "album": {
-        "name": "Blues Jumped a Rabbit",
-        "url": "https://open.spotify.com/album/5cOjiagbLZqw85RJNk8lQ4"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 235040,
-      "name": "Blues Jumped a Rabbit",
-      "url": "https://open.spotify.com/track/6Tb7mOJtHQtSSqJym83Bqr"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "Nickel for Your Troubles",
+        "url": "https://open.spotify.com/album/7BehaPSDwpwY35CddZrreY"
+      },
+      "artists": [
+        {
+          "name": "Will Harrison",
+          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
+        }
+      ],
+      "duration_ms": 168254,
+      "name": "Keepin On",
+      "url": "https://open.spotify.com/track/2o63bYzr3IwgehTtlU0Fk3"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "Tell Me Pretty Baby",
         "url": "https://open.spotify.com/album/1w5cDGWOyVFdkFi9rRLeOE"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 209796,
       "name": "Tell Me Pretty Baby",
       "url": "https://open.spotify.com/track/6pqbK1w6kI8NPTmCldLqsR"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 316048,
-      "name": "Dodge City",
-      "url": "https://open.spotify.com/track/5ny1yG9VdXEa2UmfRImdjZ"
     },
     {
       "added_at": "2023-04-07 00:01:00",

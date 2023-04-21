@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: G!ft",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Delilah Bon",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -380,6 +380,24 @@
       "duration_ms": 215433,
       "name": "Boppin",
       "url": "https://open.spotify.com/track/70RfBeqS2vWnO0QiEJcZHF"
+    },
+    {
+      "album": {
+        "name": "Brat",
+        "url": "https://open.spotify.com/album/06LFLzsI6HOJU1E0Lbcgv3"
+      },
+      "artists": [
+        {
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186601,
+      "name": "Brat",
+      "url": "https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy"
     },
     {
       "album": {

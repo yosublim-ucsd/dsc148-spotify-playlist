@@ -1,12 +1,12 @@
 {
   "description": "The official 2020 VMAs playlist from MTV + Spotify. See more at <a href=\"http://www.mtv.com/vma\">vma.mtv.com</a> \ud83d\ude80",
-  "num_followers": 105090,
+  "num_followers": 105080,
   "original_name": "MTV VMAs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMGNkMjEyN2FmMGZjNDI1OTM1MDM4NDg2NTEyNTg5ZWZl",
+  "snapshot_id": "MTU5ODMwNzU2OSwwMDAwMDAwMGNiNDAxYzlmOTcxMDNjODc2NWI5MWZiNjU4MDJjZWI0",
   "tracks": [
     {
       "added_at": "2020-08-24 22:19:29",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
+        "name": "Lockdown",
+        "url": "https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 212613,
+      "name": "Lockdown",
+      "url": "https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
         "name": "weird!",
         "url": "https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 239876,
       "name": "If You\u2019re Too Shy (Let Me Know) - Edit",
       "url": "https://open.spotify.com/track/3iEqGBZ2wcpVzhiAcwXVC6"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
-        "name": "Lockdown",
-        "url": "https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 212613,
-      "name": "Lockdown",
-      "url": "https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ"
     },
     {
       "added_at": "2020-08-24 22:19:29",

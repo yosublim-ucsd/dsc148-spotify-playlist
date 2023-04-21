@@ -1,12 +1,12 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 172741,
+  "num_followers": 172852,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDgzNjQwMCwwMDAwMDAwMGM0Y2QyOWE2YWM4ZDg5OGIyMGU5NWVkYTI2MWQxNTk4",
+  "snapshot_id": "MTY4MDgzNjQwMCwwMDAwMDAwMGM5MDEzYzFjMGVlMjE3NWM0YzJkYjJmZDU3NTMxMzIw",
   "tracks": [
     {
       "added_at": "2023-04-07 03:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
+        "name": "Por Amor A La M\u00fasica",
+        "url": "https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Y Que De M\u00ed",
+      "url": "https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/5k4mZBSWVZ1984ZwDULZ2L"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 192106,
       "name": "Ojal\u00e1 Que No Puedas",
       "url": "https://open.spotify.com/track/2VoXXbqULk6GZf0lhEi2bl"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
-        "name": "Por Amor A La M\u00fasica",
-        "url": "https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Y Que De M\u00ed",
-      "url": "https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
+        "name": "Exitos de oro",
+        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
+      },
+      "artists": [
+        {
+          "name": "Los Leales",
+          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "Vuelve Mi Amor",
+      "url": "https://open.spotify.com/track/1YQExirdEk4Xh525kr4SHW"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
         "name": "25 A\u00f1os",
         "url": "https://open.spotify.com/album/3gjGW42amvKTLvJLl4wPua"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 222161,
       "name": "Paloma",
       "url": "https://open.spotify.com/track/3MxI6yhm9SPQSB1xXmvcfs"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
-        "name": "Exitos de oro",
-        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
-      },
-      "artists": [
-        {
-          "name": "Los Leales",
-          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "Vuelve Mi Amor",
-      "url": "https://open.spotify.com/track/1YQExirdEk4Xh525kr4SHW"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
+        "name": "Una Eterna Pasi\u00f3n",
+        "url": "https://open.spotify.com/album/6rYOGgU9UPgjVhmpbBFVfn"
+      },
+      "artists": [
+        {
+          "name": "Los Del Maranaho",
+          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
+        }
+      ],
+      "duration_ms": 239595,
+      "name": "Qu\u00e9 Se Siente",
+      "url": "https://open.spotify.com/track/0sL2C1WvJnmrvE9F3hTZaw"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
         "name": "La Segunda del Hombre del Acorde\u00f3n",
         "url": "https://open.spotify.com/album/5Gxv471mSx2PNVklNpicaU"
       },
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2023-04-07 03:00:00",
       "album": {
-        "name": "Una Eterna Pasi\u00f3n",
-        "url": "https://open.spotify.com/album/6rYOGgU9UPgjVhmpbBFVfn"
-      },
-      "artists": [
-        {
-          "name": "Los Del Maranaho",
-          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
-        }
-      ],
-      "duration_ms": 239595,
-      "name": "Qu\u00e9 Se Siente",
-      "url": "https://open.spotify.com/track/0sL2C1WvJnmrvE9F3hTZaw"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
         "name": "S\u00f3lo Dios Puede Juzgarme",
         "url": "https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h"
       },
@@ -1255,22 +1255,6 @@
       "duration_ms": 155360,
       "name": "El Chancho Come Caviar",
       "url": "https://open.spotify.com/track/7A0WZELK73UK7CMvDUbdQ1"
-    },
-    {
-      "added_at": "2023-04-07 03:00:00",
-      "album": {
-        "name": "Respetando un Estilo",
-        "url": "https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC"
-      },
-      "artists": [
-        {
-          "name": "La San Francisco",
-          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
-        }
-      ],
-      "duration_ms": 241705,
-      "name": "Esta Noche Quiero Brandy",
-      "url": "https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK"
     },
     {
       "added_at": "2023-04-07 03:00:00",
@@ -1291,6 +1275,22 @@
       "duration_ms": 236435,
       "name": "\u00c9xitos Santafesinos Enganchados ATR",
       "url": "https://open.spotify.com/track/2cBvpjA37H8AGuVhSpWbMv"
+    },
+    {
+      "added_at": "2023-04-07 03:00:00",
+      "album": {
+        "name": "Respetando un Estilo",
+        "url": "https://open.spotify.com/album/6FvvpSp5IUdBVzIQ9su2dC"
+      },
+      "artists": [
+        {
+          "name": "La San Francisco",
+          "url": "https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr"
+        }
+      ],
+      "duration_ms": 241705,
+      "name": "Esta Noche Quiero Brandy",
+      "url": "https://open.spotify.com/track/2cZS89lJVnN2DQKL4mYQbK"
     },
     {
       "added_at": "2023-04-07 03:00:00",

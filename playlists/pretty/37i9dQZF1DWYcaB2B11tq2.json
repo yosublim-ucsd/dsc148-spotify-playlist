@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 355343,
+  "num_followers": 355637,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDhlYzQyMTg3ZTM3ZmUwNjM3MmEwMjIwMDdiYTY4ODk2",
+  "snapshot_id": "MTYyMTYyNDc2NywwMDAwMDAwMDc1MzhlYjZlNzE4YzAwYmEzN2ViNGEwNGNhMzcwZDIw",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -247,6 +247,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Lo Que el Viento Me Ense\u00f1o",
+        "url": "https://open.spotify.com/album/4yu6vGUgF13tbPSO4Pysy5"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "duration_ms": 274050,
+      "name": "No Estoy Solo",
+      "url": "https://open.spotify.com/track/5a3l8FTXaRGFkUn9jdvqKa"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "\u00bfQui\u00e9n Contra Nosotros?",
         "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
       },
@@ -259,26 +275,6 @@
       "duration_ms": 229240,
       "name": "Cambiaste Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6wkcbqDurhYtPtZP5QxN5U"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Piedras Vivas",
-        "url": "https://open.spotify.com/album/2Z3y8daO4p0u99UfYxeGzG"
-      },
-      "artists": [
-        {
-          "name": "En Esp\u00edritu Y En Verdad",
-          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
-        },
-        {
-          "name": "Omar Rodriguez Music",
-          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
-        }
-      ],
-      "duration_ms": 315653,
-      "name": "Gracia Sublime Es feat. Omar Rodr\u00edguez Music",
-      "url": "https://open.spotify.com/track/5fx0pSrRtDq2u7qlaly8fC"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -299,18 +295,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Lo Que el Viento Me Ense\u00f1o",
-        "url": "https://open.spotify.com/album/4yu6vGUgF13tbPSO4Pysy5"
+        "name": "Piedras Vivas",
+        "url": "https://open.spotify.com/album/2Z3y8daO4p0u99UfYxeGzG"
       },
       "artists": [
         {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+          "name": "En Esp\u00edritu Y En Verdad",
+          "url": "https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb"
+        },
+        {
+          "name": "Omar Rodriguez Music",
+          "url": "https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac"
         }
       ],
-      "duration_ms": 274050,
-      "name": "No Estoy Solo",
-      "url": "https://open.spotify.com/track/5a3l8FTXaRGFkUn9jdvqKa"
+      "duration_ms": 315653,
+      "name": "Gracia Sublime Es feat. Omar Rodr\u00edguez Music",
+      "url": "https://open.spotify.com/track/5fx0pSrRtDq2u7qlaly8fC"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -663,6 +663,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Cuan Gran Amor",
+        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "Que Se Llene Tu Casa",
+      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "\u00bfQui\u00e9n Contra Nosotros?",
         "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 270920,
       "name": "No Hay Pero Va a Sobrar",
       "url": "https://open.spotify.com/track/1Y408UKyzHsHxAQn9L4hPn"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Cuan Gran Amor",
-        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "Que Se Llene Tu Casa",
-      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "El Eco De Su Voz",
-        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 299013,
-      "name": "Amor Sin Comparaci\u00f3n",
-      "url": "https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Todo Pasar\u00e1",
         "url": "https://open.spotify.com/album/2qYzPWIFw6k0lix800JNyL"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 225900,
       "name": "Todo Pasar\u00e1",
       "url": "https://open.spotify.com/track/79MIBZkxaab6Pqv1Jsb49G"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "El Eco De Su Voz",
+        "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 299013,
+      "name": "Amor Sin Comparaci\u00f3n",
+      "url": "https://open.spotify.com/track/78UnexCmrxXnAJNCKlGQ5Y"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "No M\u00e1s",
-        "url": "https://open.spotify.com/album/5cPtEugAHEiJGwIFCrzykF"
+        "name": "Encu\u00e9ntrame Otra Vez (Here Again)",
+        "url": "https://open.spotify.com/album/47bDlzZt1dpN1gladBQiYF"
       },
       "artists": [
         {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         }
       ],
-      "duration_ms": 206865,
-      "name": "No M\u00e1s",
-      "url": "https://open.spotify.com/track/3AGq91W4DTXIWReXHd5jQ4"
+      "duration_ms": 409217,
+      "name": "Encu\u00e9ntrame Otra Vez (Here Again)",
+      "url": "https://open.spotify.com/track/3DTZ3zRoH5QajNRxLFiLEL"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1167,18 +1167,34 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Encu\u00e9ntrame Otra Vez (Here Again)",
-        "url": "https://open.spotify.com/album/47bDlzZt1dpN1gladBQiYF"
+        "name": "No M\u00e1s",
+        "url": "https://open.spotify.com/album/5cPtEugAHEiJGwIFCrzykF"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
         }
       ],
-      "duration_ms": 409217,
-      "name": "Encu\u00e9ntrame Otra Vez (Here Again)",
-      "url": "https://open.spotify.com/track/3DTZ3zRoH5QajNRxLFiLEL"
+      "duration_ms": 206865,
+      "name": "No M\u00e1s",
+      "url": "https://open.spotify.com/track/3AGq91W4DTXIWReXHd5jQ4"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "Jes\u00fas en el Centro (En Vivo)",
+        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "duration_ms": 402626,
+      "name": "Jesus En El Centro - Live",
+      "url": "https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Jes\u00fas en el Centro (En Vivo)",
-        "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
+        "name": "Tranz4mando el Universo (Los Legendarios Presenta Triple Seven)",
+        "url": "https://open.spotify.com/album/5oHA1GyW3JXvVPmpY8sCXX"
       },
       "artists": [
         {
-          "name": "Israel & New Breed",
-          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+          "name": "Triple Seven",
+          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
         }
       ],
-      "duration_ms": 402626,
-      "name": "Jesus En El Centro - Live",
-      "url": "https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3"
+      "duration_ms": 210364,
+      "name": "Grito de Jubilo",
+      "url": "https://open.spotify.com/track/6MWNjHcrwB14NeiHbdY2hO"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1235,22 +1251,6 @@
       "duration_ms": 220862,
       "name": "Tiempo Para Perder",
       "url": "https://open.spotify.com/track/39hExRQoKpDsnbqrnYw8P5"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Tranz4mando el Universo (Los Legendarios Presenta Triple Seven)",
-        "url": "https://open.spotify.com/album/5oHA1GyW3JXvVPmpY8sCXX"
-      },
-      "artists": [
-        {
-          "name": "Triple Seven",
-          "url": "https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN"
-        }
-      ],
-      "duration_ms": 210364,
-      "name": "Grito de Jubilo",
-      "url": "https://open.spotify.com/track/6MWNjHcrwB14NeiHbdY2hO"
     },
     {
       "added_at": "2021-05-21 19:19:27",

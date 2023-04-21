@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 
 > Great chilled house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,747 likes - 212 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,846 likes - 212 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 | 7 | [Pineapple Mist](https://open.spotify.com/track/4ndh3toTLQ5E3BSAFN2ohZ) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Pineapple Mist](https://open.spotify.com/album/5twCNvcGLOYE8JtLnndxnb) | 3:31 |
 | 8 | [Frivolous](https://open.spotify.com/track/1fVj0isyvpOfiLYonUNnte) | [Joe Franzoni](https://open.spotify.com/artist/0hgnhbFQrceUMjdC3L3Ugn) | [Frivolous](https://open.spotify.com/album/0aRy2vynizabbfMoWyIHLC) | 3:18 |
 | 9 | [Plush](https://open.spotify.com/track/243Aqc62PAXAKpT5cUh2MV) | [Soundomana](https://open.spotify.com/artist/2aQFQIHp5PyZHdWN9Ilnyp) | [Plush](https://open.spotify.com/album/1gKaBG8fWwZt10NyV6kslq) | 2:36 |
-| 10 | [nitroglycerin](https://open.spotify.com/track/3S7HQKapnOuNj2B4XQZpqM) | [Generation.](https://open.spotify.com/artist/1WoQDlJJ6xAsBaJSRSYx9o) | [It's Time](https://open.spotify.com/album/4rjcmDoDzIMaEgNtXGsSSl) | 2:31 |
+| 10 | [It's Time](https://open.spotify.com/track/3S7HQKapnOuNj2B4XQZpqM) | [Generation.](https://open.spotify.com/artist/1WoQDlJJ6xAsBaJSRSYx9o) | [It's Time](https://open.spotify.com/album/4rjcmDoDzIMaEgNtXGsSSl) | 2:31 |
 | 11 | [Blurry Stars](https://open.spotify.com/track/2MvYG2MZjHljTK468rBncA) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Blurry Stars](https://open.spotify.com/album/41rRCpIgzmzAFRCdqtWTH1) | 2:40 |
 | 12 | [Blurry Sequence](https://open.spotify.com/track/5XZoho8oZJWia9bcNgmArJ) | [Lazy Driver](https://open.spotify.com/artist/3zkRucjAZeFDqyYYyUylmg) | [Blurry Sequence](https://open.spotify.com/album/373f1VkuNBKtI1rtXZBKDv) | 2:15 |
 | 13 | [Waipio](https://open.spotify.com/track/2cIwV2VqHn925sWcJ7Fmma) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Waipio](https://open.spotify.com/album/6JNHYe93hZDKHroRSX6jiB) | 2:15 |

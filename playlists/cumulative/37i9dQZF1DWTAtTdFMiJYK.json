@@ -914,7 +914,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 211428,
       "name": "Dar Nahi",
       "url": "https://open.spotify.com/track/4xIgWpwTC5nFDXvH6KWCCJ"
@@ -936,6 +936,24 @@
       "duration_ms": 234228,
       "name": "Dear Mind (En Route)",
       "url": "https://open.spotify.com/track/1zINTeMqxjb9UtMhOsIQPJ"
+    },
+    {
+      "album": {
+        "name": "Deewani",
+        "url": "https://open.spotify.com/album/2WBOsknsh2EiQEa606KQgR"
+      },
+      "artists": [
+        {
+          "name": "NAALAYAK",
+          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136357,
+      "name": "Deewani",
+      "url": "https://open.spotify.com/track/4UBrRVPfDNnbGIg1zZubv2"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Preto no Branco",
-  "num_followers": 242228,
+  "num_followers": 242360,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTU4MjgwMywwMDAwMDAwMGQ1Y2JmNjM3YTY3MjdjOGVjYmQ3MGM2NDhhMjEwMzYx",
+  "snapshot_id": "MTY4MTU4MjgwMywwMDAwMDAwMGU3M2Y4YzMwMTY0MWE0MGEyYTJjZTM5ODc1MmFmNWNh",
   "tracks": [
     {
       "added_at": "2023-04-15 18:20:03",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-04-15 18:20:03",
       "album": {
+        "name": "Acoustic Session, Vol. 01",
+        "url": "https://open.spotify.com/album/3CbHY7zcK9lxuEDtYtU4ig"
+      },
+      "artists": [
+        {
+          "name": "Casa Worship",
+          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
+        }
+      ],
+      "duration_ms": 280161,
+      "name": "Eu Te Vejo Em Tudo - Acoustic Session",
+      "url": "https://open.spotify.com/track/6SzmdFsNObCiadGBYgHoly"
+    },
+    {
+      "added_at": "2023-04-15 18:20:03",
+      "album": {
         "name": "Gra\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/0Gdv1W2qUBvyGokxjDmK71"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 513960,
       "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) - Ao Vivo",
       "url": "https://open.spotify.com/track/06I10BV3eKbBeWMELGddHT"
-    },
-    {
-      "added_at": "2023-04-15 18:20:03",
-      "album": {
-        "name": "Acoustic Session, Vol. 01",
-        "url": "https://open.spotify.com/album/3CbHY7zcK9lxuEDtYtU4ig"
-      },
-      "artists": [
-        {
-          "name": "Casa Worship",
-          "url": "https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs"
-        }
-      ],
-      "duration_ms": 280161,
-      "name": "Eu Te Vejo Em Tudo - Acoustic Session",
-      "url": "https://open.spotify.com/track/6SzmdFsNObCiadGBYgHoly"
     },
     {
       "added_at": "2023-04-15 18:20:03",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-04-15 18:20:03",
       "album": {
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/2zyQ9AgE1siYNFwTVZHECX"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Baena",
+          "url": "https://open.spotify.com/artist/5Y9gRv6jhlSzK4IVpSHp57"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Express\u00e3o de Louvor - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3vMnBRfXNxKqr8TeCi7L1K"
+    },
+    {
+      "added_at": "2023-04-15 18:20:03",
+      "album": {
         "name": "De Dentro Pra Fora (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3yvcoy8mYfNGb6Q9WdUd70"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 257105,
       "name": "De Dentro Pra Fora - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5SstyI2yTMKPkGHRcLjsmO"
-    },
-    {
-      "added_at": "2023-04-15 18:20:03",
-      "album": {
-        "name": "Preciso de Ti",
-        "url": "https://open.spotify.com/album/34KTvYx7zsEo7boa55RrIc"
-      },
-      "artists": [
-        {
-          "name": "Marcos Almeida",
-          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
-        }
-      ],
-      "duration_ms": 220518,
-      "name": "Preciso de Ti",
-      "url": "https://open.spotify.com/track/2pt4Nhq39eZgDMZspMAIPm"
     },
     {
       "added_at": "2023-04-15 18:20:03",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-04-15 18:20:03",
       "album": {
+        "name": "Preciso de Ti",
+        "url": "https://open.spotify.com/album/34KTvYx7zsEo7boa55RrIc"
+      },
+      "artists": [
+        {
+          "name": "Marcos Almeida",
+          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
+        }
+      ],
+      "duration_ms": 220518,
+      "name": "Preciso de Ti",
+      "url": "https://open.spotify.com/track/2pt4Nhq39eZgDMZspMAIPm"
+    },
+    {
+      "added_at": "2023-04-15 18:20:03",
+      "album": {
         "name": "Confiar em Deus - Spotify Singles",
         "url": "https://open.spotify.com/album/44LijlMAyaGINUQkTYg5xs"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 223422,
       "name": "Confiar em Deus - Spotify Singles",
       "url": "https://open.spotify.com/track/1C9SmYGyTZdb3xCR1SQ9xR"
-    },
-    {
-      "added_at": "2023-04-15 18:20:03",
-      "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/2zyQ9AgE1siYNFwTVZHECX"
-      },
-      "artists": [
-        {
-          "name": "Lincoln Baena",
-          "url": "https://open.spotify.com/artist/5Y9gRv6jhlSzK4IVpSHp57"
-        }
-      ],
-      "duration_ms": 249000,
-      "name": "Express\u00e3o de Louvor - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3vMnBRfXNxKqr8TeCi7L1K"
     },
     {
       "added_at": "2023-04-15 18:20:03",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-04-15 18:20:03",
       "album": {
-        "name": "Som das \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 225840,
-      "name": "Som das \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
-    },
-    {
-      "added_at": "2023-04-15 18:20:03",
-      "album": {
         "name": "Encaixe",
         "url": "https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 222607,
       "name": "Encaixe",
       "url": "https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h"
+    },
+    {
+      "added_at": "2023-04-15 18:20:03",
+      "album": {
+        "name": "Som das \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/332OkIGSvCq0dVFyiWwrbB"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Som das \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6H6M4j6KRN22amTC0p9ZyJ"
     },
     {
       "added_at": "2023-04-15 18:20:03",
@@ -807,26 +807,6 @@
       "duration_ms": 299008,
       "name": "Esp\u00edrito Santo (feat. Weslei Santos & Marcus Salles) - Ao Vivo no Sintonize",
       "url": "https://open.spotify.com/track/4Xhh7S35G90S6qXREJihzi"
-    },
-    {
-      "added_at": "2023-04-15 18:20:03",
-      "album": {
-        "name": "Tuas \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Fernanda Madaloni",
-          "url": "https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ"
-        }
-      ],
-      "duration_ms": 299893,
-      "name": "Tuas \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d"
     },
     {
       "added_at": "2023-04-15 18:20:03",
@@ -915,18 +895,38 @@
     {
       "added_at": "2023-04-15 18:20:03",
       "album": {
-        "name": "Existe uma Sa\u00edda (Acoustic)",
-        "url": "https://open.spotify.com/album/4y5r3YC2DaxZoRNEVtNj09"
+        "name": "Rastros e Trilha",
+        "url": "https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA"
       },
       "artists": [
         {
-          "name": "Igor Roque",
-          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
+          "name": "Os Arrais",
+          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Existe uma Sa\u00edda",
-      "url": "https://open.spotify.com/track/2dc7do0kHfamzWqeedGsO8"
+      "duration_ms": 302653,
+      "name": "Deserto",
+      "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
+    },
+    {
+      "added_at": "2023-04-15 18:20:03",
+      "album": {
+        "name": "Tuas \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        },
+        {
+          "name": "Fernanda Madaloni",
+          "url": "https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ"
+        }
+      ],
+      "duration_ms": 299893,
+      "name": "Tuas \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d"
     },
     {
       "added_at": "2023-04-15 18:20:03",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-04-15 18:20:03",
       "album": {
-        "name": "Rastros e Trilha",
-        "url": "https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA"
+        "name": "Existe uma Sa\u00edda (Acoustic)",
+        "url": "https://open.spotify.com/album/4y5r3YC2DaxZoRNEVtNj09"
       },
       "artists": [
         {
-          "name": "Os Arrais",
-          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
+          "name": "Igor Roque",
+          "url": "https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8"
         }
       ],
-      "duration_ms": 302653,
-      "name": "Deserto",
-      "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
+      "duration_ms": 216000,
+      "name": "Existe uma Sa\u00edda",
+      "url": "https://open.spotify.com/track/2dc7do0kHfamzWqeedGsO8"
     },
     {
       "added_at": "2023-04-15 18:20:03",

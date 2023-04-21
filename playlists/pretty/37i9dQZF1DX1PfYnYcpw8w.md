@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PfYnYcpw8w.md) - [plain]
 
 > Today she's Arianators' favourite pop princess.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,266,817 likes - 72 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,267,638 likes - 72 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

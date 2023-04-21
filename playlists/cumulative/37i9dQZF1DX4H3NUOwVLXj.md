@@ -4,7 +4,7 @@
 
 > Favorites, hits and deep cuts: this is Francis Albert Sinatra, one of the most popular and influential musical artists of the 20th century.
 
-87 songs - 4 hr 49 min
+88 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Nice 'n' Easy \- Remastered](https://open.spotify.com/track/5Z7bkW3dsu8jLdv3dEGxly) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Nice 'n' Easy \(Remastered / Expanded Edition\)](https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2) | 2:45 | 2018-01-19 |  |
 | [Nice Work If You Can Get It \- Remastered](https://open.spotify.com/track/1mxW31WHnp0Rq1RQrhMPDj) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Swingin' Affair! \(Remastered / Expanded Edition\)](https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj) | 2:21 | 2018-01-19 |  |
 | [Ol' Man River](https://open.spotify.com/track/4myyFa9YrZzbqLNzfXDiAU) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Concert Sinatra](https://open.spotify.com/album/0wwOisWeSkvTIPiyPcU9Fr) | 4:24 | 2018-01-19 | 2023-01-29 |
-| [Ol' Man River](https://open.spotify.com/track/6XppiJ3Z1trI3uDVUh7Mu7) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra: The Centennial Collection](https://open.spotify.com/album/22KCcelRH1AeHz7S7x5XhY) | 4:24 | 2018-01-19 |  |
+| [Ol' Man River](https://open.spotify.com/track/2ZTPL4fDK3vvI1h54nF4c6) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra: The Centennial Collection](https://open.spotify.com/album/7F1DRunIUlihQZ44KWVnMZ) | 4:24 | 2023-03-31 |  |
+| [Ol' Man River](https://open.spotify.com/track/6XppiJ3Z1trI3uDVUh7Mu7) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra: The Centennial Collection](https://open.spotify.com/album/22KCcelRH1AeHz7S7x5XhY) | 4:24 | 2018-01-19 | 2023-04-21 |
 | [Put Your Dreams Away \(For Another Day\)](https://open.spotify.com/track/43W48lcGiBl7KZU6pRtLtR) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Essential Frank Sinatra](https://open.spotify.com/album/0r7da132K35RCtPvE7H7U3) | 3:05 | 2018-01-19 | 2022-11-13 |
 | [Put Your Dreams Away \(For Another Day\)](https://open.spotify.com/track/6kD1SNGPkfX9LwaGd1FG92) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra Sings His Greatest Hits](https://open.spotify.com/album/57vPH8jXw3PF0zD6zeaNOD) | 3:06 | 2018-01-19 |  |
 | [Put Your Dreams Away \(For Another Day\)](https://open.spotify.com/track/1Hf41bz4arxF8qMyekRMu2) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [The Columbia Years \(1943\-1952\): The Complete Recordings](https://open.spotify.com/album/7IB2vtJdc9zz7g9A3Ddqnk) | 3:06 | 2018-01-19 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/cheetah/\">Tyreek Hill</a>",
-  "num_followers": 16090,
+  "num_followers": 16175,
   "original_name": "Tyreek Hill's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NDY3NTQ4MywwMDAwMDAwMGQ5MjEwMGZmOTA0ZmFiM2Y3NjYwODUwNjY0Y2QwY2Yx",
+  "snapshot_id": "MTY2NDY3NTQ4MywwMDAwMDAwMGFhNWM3NmM2NTE4NmY5YmVlYmYwYThhZGI1MGQ4OTFk",
   "tracks": [
     {
       "added_at": "2022-10-02 01:51:23",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "ELDORADO",
-        "url": "https://open.spotify.com/album/1SXqTsVnjtIULG5YKXafeY"
-      },
-      "artists": [
-        {
-          "name": "Ro James",
-          "url": "https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y"
-        }
-      ],
-      "duration_ms": 281511,
-      "name": "Permission",
-      "url": "https://open.spotify.com/track/3gx6E5B42WHKf5agVWQAf2"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
         "name": "Comin' From Where I'm From",
         "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 246773,
       "name": "Charlene",
       "url": "https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
+        "name": "ELDORADO",
+        "url": "https://open.spotify.com/album/1SXqTsVnjtIULG5YKXafeY"
+      },
+      "artists": [
+        {
+          "name": "Ro James",
+          "url": "https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y"
+        }
+      ],
+      "duration_ms": 281511,
+      "name": "Permission",
+      "url": "https://open.spotify.com/track/3gx6E5B42WHKf5agVWQAf2"
     },
     {
       "added_at": "2022-10-02 01:51:23",

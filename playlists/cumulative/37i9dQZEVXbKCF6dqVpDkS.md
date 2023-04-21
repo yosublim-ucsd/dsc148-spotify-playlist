@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-995 songs - 2 day 3 hr 42 min
+997 songs - 2 day 3 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -655,7 +655,7 @@
 | [NDA](https://open.spotify.com/track/6uqyE384HDSsuwpoF4mjrL) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [NDA](https://open.spotify.com/album/6pFgyYC8zPwVPPS4cbJO29) | 3:15 | 2021-07-11 | 2021-07-13 |
 | [Nee is Nee](https://open.spotify.com/track/58hvkiqc5envT8NYssA2rK) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Nee is Nee](https://open.spotify.com/album/4GXaIpoYQICltddeYtB9hK) | 2:58 | 2021-05-09 | 2021-06-16 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-08-25 | 2021-08-31 |
-| [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-04-18 |  |
+| [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-04-18 | 2023-04-21 |
 | [Never Going Home](https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Never Going Home](https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA) | 2:49 | 2021-08-13 | 2021-11-21 |
 | [New Balance](https://open.spotify.com/track/4VIehrP2qQjaH2vDyp4G0v) | [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs) | [New Balance](https://open.spotify.com/album/32Z4vXVcGnl7pJZ5iGyUNF) | 2:24 | 2023-02-11 | 2023-02-20 |
 | [Niet Doen Alsof](https://open.spotify.com/track/5s7cLiQLO3PFG2knc8rkr8) | [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Crooks](https://open.spotify.com/artist/0UJGBMWuG3d1ACpzVfvD0k) | [Niet Doen Alsof](https://open.spotify.com/album/4sBhDba9UmlNetxFr8e2mk) | 2:47 | 2021-10-03 | 2021-10-04 |
@@ -925,7 +925,8 @@
 | [Ven Ven](https://open.spotify.com/track/3upYG0cy9J2QhyV4GgV37x) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Ven Ven](https://open.spotify.com/album/4SzujG2DgIY5wfFOtQFdEx) | 2:30 | 2021-03-27\* | 2021-05-13 |
 | [Veppie vroom](https://open.spotify.com/track/7xdErSNSM2KrduVTGZvoX9) | [QuatroByVeks](https://open.spotify.com/artist/6Thwvyg74Tn4VCSkpsMu65), [CJaye](https://open.spotify.com/artist/1k6UJX3fICUUXA9W5vnnDD) | [Veppie vroom](https://open.spotify.com/album/0RXEbmksA3QO5cpBueLeZ5) | 2:03 | 2022-06-12 | 2022-06-17 |
 | [Verdien Model](https://open.spotify.com/track/2QKr1BQ4K2I4sL73kZ1HSy) | [Rotjoch](https://open.spotify.com/artist/52kkq3LdnSafdKRWjNqKBw), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Float](https://open.spotify.com/album/1z0AKJhbx7jiVu0SlsyMhW) | 3:33 | 2022-08-05 | 2022-08-08 |
-| [Verleden Tijd](https://open.spotify.com/track/2XOZtdFQ62IQfDVQ8O4wWO) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Verleden Tijd](https://open.spotify.com/album/4vWdcHbWWaj6j5VgHGCGJl) | 2:47 | 2023-04-15 |  |
+| [Verleden Tijd](https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Verleden Tijd](https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa) | 2:47 | 2023-04-20 |  |
+| [Verleden Tijd](https://open.spotify.com/track/2XOZtdFQ62IQfDVQ8O4wWO) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Verleden Tijd](https://open.spotify.com/album/4vWdcHbWWaj6j5VgHGCGJl) | 2:47 | 2023-04-15 | 2023-04-21 |
 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 | 2022-10-22 | 2022-10-30 |
 | [Vijfzes](https://open.spotify.com/track/2eYNrrqxFmodusF1bHHyi9) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Rami](https://open.spotify.com/artist/29pELPV4yKMAQND6m6Cz08) | [Vijfzes](https://open.spotify.com/album/1M0pzYENRnlrAlxyzuVRed) | 2:35 | 2022-03-08 | 2022-03-14 |
 | [Visiting Hours](https://open.spotify.com/track/0rt63HYAAIzUZo5O2D0uA6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:35 | 2021-11-02 | 2021-11-03 |
@@ -992,6 +993,7 @@
 | [Zie Ginds Komt De Stoomboot](https://open.spotify.com/track/7ftem6EQF6isH4imw6qK58) | [Alles Kids](https://open.spotify.com/artist/07DX1ovPdfcA492wXjR5yd), [Sinterklaasliedjes Alles Kids](https://open.spotify.com/artist/6zmlIW9JjRUAsOGOaUmR3i) | [Sinterklaasliedjes om mee te zingen](https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd) | 1:03 | 2022-12-04 | 2022-12-08 |
 | [Zie Ginds Komt De Stoomboot](https://open.spotify.com/track/2wC30lLCl3n4QERyZd0pWW) | [Noord\-Hollands Kinderkoor](https://open.spotify.com/artist/7yOobv5U0tQXYJaow5MN9P) | [Oerhollandse Sinterklaasliedjes](https://open.spotify.com/album/7Is5aN4rrDSKimGlZWzAkv) | 1:29 | 2021-12-07 | 2021-12-08 |
 | [Zie Ginds Komt De Stoomboot \(feat\. Sinterklaasliedjes\)](https://open.spotify.com/track/3TKZ1WIvUj4A6wxhTRM7YF) | [Kinderliedjes](https://open.spotify.com/artist/5NIQNYb3j3WtX4ZKnLNajy), [Sinterklaasliedjes](https://open.spotify.com/artist/2ieZVeLSXjusHvAKJCQ1NC) | [Sinterklaasliedjes](https://open.spotify.com/album/7l4uTpA6SDnW0Qq47sNxqF) | 0:57 | 2021-12-07 | 2021-12-08 |
+| [ZiggZagg](https://open.spotify.com/track/0wdw86kxFxu0IGz2JxnbfN) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [ZiggZagg](https://open.spotify.com/album/0ubDajCOt6N3FRP2ZXyWeG) | 3:04 | 2023-04-20 |  |
 | [Zij aan zij](https://open.spotify.com/track/5QGGDdqiTjGA8u8TS1xQRI) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [Zij aan zij](https://open.spotify.com/album/0VVyLi8EL6qVWRh7JsSQTu) | 3:07 | 2021-04-26 | 2021-04-30 |
 | [Zij Wil Mij](https://open.spotify.com/track/01F3XjTDNiB5v3hfAPi7qT) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Zij Wil Mij](https://open.spotify.com/album/463bjptI7QogsQjWLw566S) | 2:36 | 2022-01-08 | 2022-06-14 |
 | [Zij Wil Mij](https://open.spotify.com/track/3Falq0rEoroeaZqNp9UDIY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Zij Wil Mij](https://open.spotify.com/album/0NIlQZDDCGRMDuZbujA2ZR) | 2:36 | 2022-01-03 | 2022-01-08 |

@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: INNA",
-  "num_followers": 892420,
+  "num_followers": 892435,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ3NDMxNiwwMDAwMDAwMDZjOWY4ZWI0ZGQ2ZTUxM2Y2MzM1MjRmZWMzOWVlMDlh",
+  "snapshot_id": "MTY4MTQ3NDMxNiwwMDAwMDAwMGE3YWM2MzFlNGJiMTQ3ZWI2NGU0NTQxZjE0ODNmNTZi",
   "tracks": [
     {
       "added_at": "2023-04-05 04:00:00",
@@ -59,26 +59,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "n\u1ebfu l\u00fac \u0111\u00f3",
-        "url": "https://open.spotify.com/album/0OThHPtV2ovPxWwh8ublMV"
-      },
-      "artists": [
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        },
-        {
-          "name": "2pillz",
-          "url": "https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "n\u1ebfu l\u00fac \u0111\u00f3",
-      "url": "https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Stamina",
         "url": "https://open.spotify.com/album/1hfN3p0gt7f6kW8UUyehWm"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 166956,
       "name": "Stamina",
       "url": "https://open.spotify.com/track/1tOp1bXhT9tvydSAGDHdQy"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "n\u1ebfu l\u00fac \u0111\u00f3",
+        "url": "https://open.spotify.com/album/0OThHPtV2ovPxWwh8ublMV"
+      },
+      "artists": [
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        },
+        {
+          "name": "2pillz",
+          "url": "https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "n\u1ebfu l\u00fac \u0111\u00f3",
+      "url": "https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "\u60c5\u6b4c\u6c92\u8aaa\u7684\u4e8b",
-        "url": "https://open.spotify.com/album/5QxiBMd8YTI9XsYEaKofuY"
-      },
-      "artists": [
-        {
-          "name": "\u674e\u4f73\u6b61",
-          "url": "https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH"
-        }
-      ],
-      "duration_ms": 234798,
-      "name": "\u60c5\u6b4c\u6c92\u8aaa\u7684\u4e8b",
-      "url": "https://open.spotify.com/track/2TcAhWtoD2raLezOYcsvxK"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "De S\u2019 Afino",
         "url": "https://open.spotify.com/album/1maT0OfKtiyyUDdtIuu0i1"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 175578,
       "name": "De S\u2019 Afino",
       "url": "https://open.spotify.com/track/6aAXN1sRhLiSOhUfJ7g2Gr"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "\u60c5\u6b4c\u6c92\u8aaa\u7684\u4e8b",
+        "url": "https://open.spotify.com/album/5QxiBMd8YTI9XsYEaKofuY"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u4f73\u6b61",
+          "url": "https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH"
+        }
+      ],
+      "duration_ms": 234798,
+      "name": "\u60c5\u6b4c\u6c92\u8aaa\u7684\u4e8b",
+      "url": "https://open.spotify.com/track/2TcAhWtoD2raLezOYcsvxK"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "La flor (Mov.1: La Flor)",
-        "url": "https://open.spotify.com/album/2Ngrngggmplmt5fVkqI1XT"
-      },
-      "artists": [
-        {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
-        }
-      ],
-      "duration_ms": 200985,
-      "name": "La flor - Mov.1: La Flor",
-      "url": "https://open.spotify.com/track/4GJGDhm3mINXAghS4mkpjK"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Bebe",
         "url": "https://open.spotify.com/album/6VarZmpkqYXFYsO1NcWJX3"
       },
@@ -727,6 +711,46 @@
       "duration_ms": 136662,
       "name": "Bebe",
       "url": "https://open.spotify.com/track/4cbbcvNAEwB1Mh6fvpFW0O"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Aye Khuda",
+        "url": "https://open.spotify.com/album/6cRFB01oyEXqAQCIH5qFos"
+      },
+      "artists": [
+        {
+          "name": "Sanam Marvi",
+          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
+        },
+        {
+          "name": "Waqar Faiz",
+          "url": "https://open.spotify.com/artist/5PQ8zLBUFXDtS67TwbDOlY"
+        },
+        {
+          "name": "Rushil",
+          "url": "https://open.spotify.com/artist/1gHxomNGjRJHDAl7INHnxE"
+        }
+      ],
+      "duration_ms": 544565,
+      "name": "Aye Khuda",
+      "url": "https://open.spotify.com/track/7vIEXrKp0MXaGkiqJ8qVhx"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "La flor (Mov.1: La Flor)",
+        "url": "https://open.spotify.com/album/2Ngrngggmplmt5fVkqI1XT"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "duration_ms": 200985,
+      "name": "La flor - Mov.1: La Flor",
+      "url": "https://open.spotify.com/track/4GJGDhm3mINXAghS4mkpjK"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -747,22 +771,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Can't Control",
-        "url": "https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co"
-      },
-      "artists": [
-        {
-          "name": "LOVRA",
-          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
-        }
-      ],
-      "duration_ms": 177139,
-      "name": "Can't Control",
-      "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Tiba Tiba Hilang",
         "url": "https://open.spotify.com/album/13peROZOrOtZVAXj31Szfq"
       },
@@ -775,6 +783,22 @@
       "duration_ms": 265999,
       "name": "Tiba Tiba Hilang",
       "url": "https://open.spotify.com/track/1AvxW0tQF0SEaXNMiLe8aU"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Can't Control",
+        "url": "https://open.spotify.com/album/7nez9h7CDSZtWNVyAuC8Co"
+      },
+      "artists": [
+        {
+          "name": "LOVRA",
+          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
+        }
+      ],
+      "duration_ms": 177139,
+      "name": "Can't Control",
+      "url": "https://open.spotify.com/track/5ZJE92mDnbh9jr7XgJs5lQ"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -811,26 +835,18 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Aye Khuda",
-        "url": "https://open.spotify.com/album/6cRFB01oyEXqAQCIH5qFos"
+        "name": "Soul Ties",
+        "url": "https://open.spotify.com/album/3AM8Ck88yPerwlY7Fvp0oU"
       },
       "artists": [
         {
-          "name": "Sanam Marvi",
-          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
-        },
-        {
-          "name": "Waqar Faiz",
-          "url": "https://open.spotify.com/artist/5PQ8zLBUFXDtS67TwbDOlY"
-        },
-        {
-          "name": "Rushil",
-          "url": "https://open.spotify.com/artist/1gHxomNGjRJHDAl7INHnxE"
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
         }
       ],
-      "duration_ms": 544565,
-      "name": "Aye Khuda",
-      "url": "https://open.spotify.com/track/7vIEXrKp0MXaGkiqJ8qVhx"
+      "duration_ms": 238847,
+      "name": "Soul Ties",
+      "url": "https://open.spotify.com/track/6HFrOJItMlIgzlYsXcs6Fu"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -855,22 +871,6 @@
       "duration_ms": 162843,
       "name": "CHROME",
       "url": "https://open.spotify.com/track/6sXubAaPRNZD4ls6fsOtRC"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
-        "name": "Soul Ties",
-        "url": "https://open.spotify.com/album/3AM8Ck88yPerwlY7Fvp0oU"
-      },
-      "artists": [
-        {
-          "name": "Illest Morena",
-          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
-        }
-      ],
-      "duration_ms": 238847,
-      "name": "Soul Ties",
-      "url": "https://open.spotify.com/track/6HFrOJItMlIgzlYsXcs6Fu"
     },
     {
       "added_at": "2023-04-05 04:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-04-05 04:00:00",
       "album": {
-        "name": "Malibu Babie SZN: Vol I",
-        "url": "https://open.spotify.com/album/0baOUkjYE0kLhwWaGwdu78"
-      },
-      "artists": [
-        {
-          "name": "Malibu Babie",
-          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
-        }
-      ],
-      "duration_ms": 143124,
-      "name": "IBTC",
-      "url": "https://open.spotify.com/track/7BokHWSjR5wKAcytz1y6S4"
-    },
-    {
-      "added_at": "2023-04-05 04:00:00",
-      "album": {
         "name": "Kinesis",
         "url": "https://open.spotify.com/album/5NmANPMiXncyAwoNXOW9tK"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 233195,
       "name": "Mawaan Te Dhiyaan",
       "url": "https://open.spotify.com/track/2YjCorBTZCnYPZX7CgnRl4"
+    },
+    {
+      "added_at": "2023-04-05 04:00:00",
+      "album": {
+        "name": "Malibu Babie SZN: Vol I",
+        "url": "https://open.spotify.com/album/0baOUkjYE0kLhwWaGwdu78"
+      },
+      "artists": [
+        {
+          "name": "Malibu Babie",
+          "url": "https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ"
+        }
+      ],
+      "duration_ms": 143124,
+      "name": "IBTC",
+      "url": "https://open.spotify.com/track/7BokHWSjR5wKAcytz1y6S4"
     },
     {
       "added_at": "2023-04-05 04:00:00",

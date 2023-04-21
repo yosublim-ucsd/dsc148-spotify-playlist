@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Kenia OS y Gera MX
 
-[Spotify](https://open.spotify.com/user/spotify) - 929,629 likes - 71 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 929,669 likes - 71 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

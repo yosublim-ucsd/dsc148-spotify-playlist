@@ -1644,7 +1644,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 128571,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/6o6l8qajBu2ke8E7IcpRVu"
@@ -2068,6 +2068,24 @@
       "duration_ms": 104573,
       "name": "Friends",
       "url": "https://open.spotify.com/track/62ETSS8iVAoE47L0nNinTK"
+    },
+    {
+      "album": {
+        "name": "From My Perspective",
+        "url": "https://open.spotify.com/album/6CY77pDMz6tioKGrK6aGaz"
+      },
+      "artists": [
+        {
+          "name": "Eduard Landings",
+          "url": "https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242833,
+      "name": "From My Perspective",
+      "url": "https://open.spotify.com/track/0aYO1PA22QmRVz7mYXAiUT"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 
 > Who needs heroes when you have thieves? Co\-curated by the cast of D&D: Honor Among Thieves \(Michelle Rodriguez, Regé\-Jean Page, Justice Smith, and Sophia Lillis\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,882 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,942 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

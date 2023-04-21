@@ -4,7 +4,7 @@
 
 > Discover the multifaceted creativity of the black queer community\. Cover: Honey Dijon
 
-123 songs - 6 hr 44 min
+124 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Bikini Bottom](https://open.spotify.com/track/4RsqpFi9rvEfjtMywsOYkQ) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 1:46 | 2023-04-06 |  |
 | [Bisexual Anthem](https://open.spotify.com/track/4O5vkTY3ivnCv5oY6UXAPd) | [Domo Wilson](https://open.spotify.com/artist/2h2fB0j2IN50sSwolVO1AZ) | [Chapter 25: Domonique](https://open.spotify.com/album/6hN3Sw6FzfmfGhEeD78cVU) | 3:07 | 2022-05-31 |  |
 | [BITTERSWEET](https://open.spotify.com/track/52tFvypUPX3uDgVgqrNtY9) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [BITTERSWEET](https://open.spotify.com/album/5LdnNVb0nomYIlLiRUtAcq) | 3:25 | 2020-07-10 | 2022-09-13 |
+| [Body Move](https://open.spotify.com/track/7f8ikUEaa2glQLszmOh7aN) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/20v7NPIDPBIRXIBEnJdoQg) | 2:56 | 2022-05-31 |  |
 | [Body Move](https://open.spotify.com/track/4ymwozmsZ75AyUUTRhSOcQ) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/4DEf7dix4OkYsi4bpsstRU) | 2:57 | 2022-05-31 | 2023-04-09 |
 | [Boys In The Ocean](https://open.spotify.com/track/1kQXCF4D2OZb7uflk6Q5Bz) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Boys In The Ocean](https://open.spotify.com/album/48z032ADzLfisp0n8EIqqm) | 3:15 | 2021-06-11 | 2022-07-28 |
 | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/track/2ak79ho44RiDi9DFrqYgfq) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/album/0z4oE7Qw23PPTKR8Upu0Iu) | 2:40 | 2020-06-01 |  |
@@ -69,7 +70,7 @@
 | [Horsewh!p](https://open.spotify.com/track/02LCf5tJcF6KszW2cKOySx) | [Aja](https://open.spotify.com/artist/0fWt4FY87imqsBJpt2QVL0), [Dai Burger](https://open.spotify.com/artist/5G6jDaJ9jJIfRgVsqFQ78c) | [CROWN](https://open.spotify.com/album/1cPF0Lik7NzzRuUs7lNln6) | 3:57 | 2021-06-01 | 2022-07-12 |
 | [Human](https://open.spotify.com/track/3U6yomdo8N6SwTQeCpOLUN) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Thicker Than Water](https://open.spotify.com/album/6DQn1eHIKyRGNiDbAYnUo5) | 4:07 | 2021-06-25 |  |
 | [I Am America](https://open.spotify.com/track/0MkBDogipPa3FvHzlXsxqO) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [I Am America](https://open.spotify.com/album/0hdDylmyXxtpZdciiSaQS2) | 2:51 | 2020-06-01 | 2022-07-23 |
-| [I WANT U](https://open.spotify.com/track/2SgstO9H0RRu2BPicuLmij) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [I WANT U](https://open.spotify.com/album/3kbMKWZpLQ2nu9m3Ma6jHI) | 1:55 | 2023-04-06 |  |
+| [I WANT U](https://open.spotify.com/track/2SgstO9H0RRu2BPicuLmij) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [I WANT U](https://open.spotify.com/album/3kbMKWZpLQ2nu9m3Ma6jHI) | 1:55 | 2023-04-06 | 2023-04-21 |
 | [I'm Baby \(ft\. Jvck James\)](https://open.spotify.com/track/2rZQC2Hwy4sClylYHg2MXI) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [3000°](https://open.spotify.com/album/2phJX6Yo2s6WB7jhLgg9EF) | 3:22 | 2023-04-06 |  |
 | [In My Room](https://open.spotify.com/track/4S4Mfvv03M1cHgIOJcbUCL) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [In My Room](https://open.spotify.com/album/71VX8yv9T2hNIYVZJVUWVp) | 2:13 | 2022-05-31 |  |
 | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [INDUSTRY BABY \(feat\. Jack Harlow\)](https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh) | 3:32 | 2021-08-03 |  |

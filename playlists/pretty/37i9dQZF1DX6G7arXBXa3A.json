@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 381461,
+  "num_followers": 381496,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMDVjYzhjMjg5YjY0MzZkYThiMDg0NjIzZDhkYTcyZjAy",
+  "snapshot_id": "MTY3NjAwNTI2MCwwMDAwMDAwMGUzY2NlNTRlYjNkYjU4Y2EwZTZhZDVmYWI4YWY1OGQ2",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -371,22 +371,6 @@
       "duration_ms": 143706,
       "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
       "url": "https://open.spotify.com/track/1GERVZcph8qx09OR7Wo1UV"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "Blues On Parade",
-        "url": "https://open.spotify.com/album/28V0dxj4vb8blEfyvx5Bvp"
-      },
-      "artists": [
-        {
-          "name": "Woody Herman & His Orchestra",
-          "url": "https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Woodchopper's Ball",
-      "url": "https://open.spotify.com/track/4rHjZlNFyBhY6CgjlR5y5W"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -817,6 +801,22 @@
       "url": "https://open.spotify.com/track/16yjO1COFYdqvjg0r6sweq"
     },
     {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Birks Works: The Verve Big-Band Sessions",
+        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Doodlin'",
+      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
+    },
+    {
       "added_at": "2022-07-22 04:02:00",
       "album": {
         "name": "I Can't Turn You Loose",
@@ -871,18 +871,18 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Birks Works: The Verve Big-Band Sessions",
-        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
+        "name": "Boss Brass And Woods",
+        "url": "https://open.spotify.com/album/4YDkAgQADwIzdytQBDXBtb"
       },
       "artists": [
         {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+          "name": "Rob McConnell & The Boss Brass With Phil Woods",
+          "url": "https://open.spotify.com/artist/2Xc5v4VchWoxiC0VJn21br"
         }
       ],
-      "duration_ms": 235866,
-      "name": "Doodlin'",
-      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
+      "duration_ms": 461934,
+      "name": "Greenhouse",
+      "url": "https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP"
     },
     {
       "added_at": "2021-02-26 05:01:00",

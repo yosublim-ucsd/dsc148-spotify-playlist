@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y?si=yQO2kRpzRDWwBd52K0f9_A\"> Prettyboy D-O</a> ",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: <a href=\"https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu?si=fL99jsIQS3OdQLYrAT5RlA\"> Sut\u00e9 Iwar</a> ",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -2451,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "Gateway Drug",
+        "url": "https://open.spotify.com/album/2Icsn7gs28Yplr9cNLy1N1"
+      },
+      "artists": [
+        {
+          "name": "Rukmani",
+          "url": "https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158147,
+      "name": "Gateway Drug",
+      "url": "https://open.spotify.com/track/7ajMHPi55sVjqunyK7Kj32"
+    },
+    {
+      "album": {
         "name": "GBEDU",
         "url": "https://open.spotify.com/album/21XomI9UziLcJk8yLCInRY"
       },
@@ -2956,6 +2974,24 @@
       "duration_ms": 206253,
       "name": "Hubris",
       "url": "https://open.spotify.com/track/61jRGsVT7lj1DlYSSAlVV3"
+    },
+    {
+      "album": {
+        "name": "Hyperlove",
+        "url": "https://open.spotify.com/album/6HwYTnri4ryi1620cSNlvF"
+      },
+      "artists": [
+        {
+          "name": "KiD JET",
+          "url": "https://open.spotify.com/artist/0flZt1TurT6T8OujnfC9EF"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129044,
+      "name": "Hyperlove",
+      "url": "https://open.spotify.com/track/6EJO9st8JcVyLMVzdCe6ER"
     },
     {
       "album": {
@@ -4217,6 +4253,24 @@
     },
     {
       "album": {
+        "name": "Mary J",
+        "url": "https://open.spotify.com/album/4Bult0rXG6CXrovcqnTIZX"
+      },
+      "artists": [
+        {
+          "name": "Radar X",
+          "url": "https://open.spotify.com/artist/61sgW29lXEHcAgCfaSmoEj"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204042,
+      "name": "Mary J",
+      "url": "https://open.spotify.com/track/61mSUYsdQknaRbWwxwI9xg"
+    },
+    {
+      "album": {
         "name": "Subaru Boys : FINAL HEAVEN",
         "url": "https://open.spotify.com/album/0t69hftoCPq776cXlSpqFl"
       },
@@ -4236,6 +4290,32 @@
       "duration_ms": 230769,
       "name": "MATILDA (feat. Brazy)",
       "url": "https://open.spotify.com/track/4PdDPRNhKeS1krsLvclPUb"
+    },
+    {
+      "album": {
+        "name": "ULTRALIGHT",
+        "url": "https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Lex Amor",
+          "url": "https://open.spotify.com/artist/0IKVDL3N8vpYgeNOV6np14"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237346,
+      "name": "MEDITATE",
+      "url": "https://open.spotify.com/track/3luCfdUPwws6omTEmIUKXX"
     },
     {
       "album": {
@@ -6638,6 +6718,28 @@
       "duration_ms": 132571,
       "name": "the one",
       "url": "https://open.spotify.com/track/4vTOVXrG6mAWSJdQpBQaBn"
+    },
+    {
+      "album": {
+        "name": "ULTRALIGHT",
+        "url": "https://open.spotify.com/album/555u9I3MowqYOghGFSAR7U"
+      },
+      "artists": [
+        {
+          "name": "Sut\u00e9 Iwar",
+          "url": "https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu"
+        },
+        {
+          "name": "Raytheboffin",
+          "url": "https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248853,
+      "name": "THE PLEASURE PRINCIPLE",
+      "url": "https://open.spotify.com/track/2Mi6xZwRYDe9RLVpeFtpgX"
     },
     {
       "album": {

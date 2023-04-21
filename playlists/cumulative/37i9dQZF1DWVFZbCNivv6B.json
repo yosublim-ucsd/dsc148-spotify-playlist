@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop. Cartel de Santa y La Kelly en portada. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -644,6 +644,28 @@
       "duration_ms": 188571,
       "name": "Aqu\u00ed Afuera",
       "url": "https://open.spotify.com/track/6kCDjSErf3LudSsdbPgzLd"
+    },
+    {
+      "album": {
+        "name": "Aqu\u00ed Dentro",
+        "url": "https://open.spotify.com/album/5bTbyJ5DuBQB2xuUJ6qf1i"
+      },
+      "artists": [
+        {
+          "name": "Cirujano Resendez",
+          "url": "https://open.spotify.com/artist/0nFyvpRgCIvNG2JVyAGdbY"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Aqu\u00ed Dentro",
+      "url": "https://open.spotify.com/track/3vRoi44ImFNJAgPySXJeFE"
     },
     {
       "album": {

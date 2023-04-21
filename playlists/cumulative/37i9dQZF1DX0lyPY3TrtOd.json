@@ -506,7 +506,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 232168,
       "name": "Down",
       "url": "https://open.spotify.com/track/2O0SzeXQTcXFlGuFsY5JNH"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 266480,
       "name": "Future Monuments",
       "url": "https://open.spotify.com/track/6GdpJH4VWJSPLtSi7VHBuL"
@@ -900,6 +900,24 @@
       "duration_ms": 256113,
       "name": "Inside Out - Kraak & Smaak Remix",
       "url": "https://open.spotify.com/track/5xuiK7v2JYO6aphlTMON3U"
+    },
+    {
+      "album": {
+        "name": "It Must Have Been The Devil",
+        "url": "https://open.spotify.com/album/6rA2DOWBPWxTzSg4R9K9zt"
+      },
+      "artists": [
+        {
+          "name": "Girlhood",
+          "url": "https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232146,
+      "name": "It Must Have Been The Devil",
+      "url": "https://open.spotify.com/track/5zYXy39HoFAA3D3yM6sLVq"
     },
     {
       "album": {
@@ -1296,6 +1314,24 @@
       "duration_ms": 215149,
       "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
+    },
+    {
+      "album": {
+        "name": "Next Exit",
+        "url": "https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Next Exit",
+      "url": "https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz"
     },
     {
       "album": {

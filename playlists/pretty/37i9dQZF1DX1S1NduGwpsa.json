@@ -1,95 +1,31 @@
 {
-  "description": "The best jazz new releases. Cover: Gabriels ",
-  "num_followers": 113081,
+  "description": "The best jazz new releases. Cover: Alfa Mist",
+  "num_followers": 113120,
   "original_name": "Jazz Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzI2MCwwMDAwMDAwMDg4YTA0NThkZTdiNWYwMWE5MTBhODYxMDMyYzk4YWE2",
+  "snapshot_id": "MTY4MjAyODA2MCwwMDAwMDAwMDMwNTMzNWZlNmFiMmYzNjk0M2QxYjVjZmE2Y2RkYThj",
   "tracks": [
     {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Offering - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7jPjIloCzLLfYAgao6gf3a"
+        "name": "Variables",
+        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
       },
       "artists": [
         {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
         }
       ],
-      "duration_ms": 188905,
-      "name": "Offering - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/0kxDdCDxMbpNkdpw7AtajU"
+      "duration_ms": 403933,
+      "name": "Foreword",
+      "url": "https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Chasing Days",
-        "url": "https://open.spotify.com/album/7aYZkjC8EiJrs8ivzwbYxh"
-      },
-      "artists": [
-        {
-          "name": "Izo FitzRoy",
-          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
-        }
-      ],
-      "duration_ms": 231818,
-      "name": "Chasing Days",
-      "url": "https://open.spotify.com/track/6CaaOpcDDrGf6FGHtGwgXl"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Bird of Beauty",
-        "url": "https://open.spotify.com/album/2VKy0JyPz1r9LTmaHIoBej"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 295739,
-      "name": "Bird of Beauty",
-      "url": "https://open.spotify.com/track/1nJ1e4KA6flzNjWnkH8O5i"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Easy come easy go (Edit)",
-        "url": "https://open.spotify.com/album/5uBaxsQ1SZ6LfEqRCUgzZL"
-      },
-      "artists": [
-        {
-          "name": "Laurent De Wilde",
-          "url": "https://open.spotify.com/artist/7Iupw9PXaMDkdkQ3oqtDOj"
-        }
-      ],
-      "duration_ms": 314306,
-      "name": "Easy come easy go - Edit",
-      "url": "https://open.spotify.com/track/0TPnEGIdWuqnW85mIVqoie"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 187005,
-      "name": "Just Me This Year",
-      "url": "https://open.spotify.com/track/0pVUyPxZk9qYINtd0nsWhG"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "The Power of the Spirit",
         "url": "https://open.spotify.com/album/1rZYyWPLTCaED9z294E9CN"
@@ -117,7 +53,27 @@
       "url": "https://open.spotify.com/track/4EtkLLlDXFTXN53ZRFxP4s"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Plays Well With Others",
+        "url": "https://open.spotify.com/album/1glJqGy1jDHQp6KjmV42Tv"
+      },
+      "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 235757,
+      "name": "Don't Fence Me In / Strollin'",
+      "url": "https://open.spotify.com/track/19OTt5vFfApZoRLmMjtgyk"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Coltrane Plays The Blues",
         "url": "https://open.spotify.com/album/2MCJ9ae1x9jzpx4kOVWzgO"
@@ -133,27 +89,7 @@
       "url": "https://open.spotify.com/track/5KT08xhOGbce2aoy0I8sgV"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Pennies from Heaven",
-        "url": "https://open.spotify.com/album/2CUBXmrfjX2rVFsU63duYv"
-      },
-      "artists": [
-        {
-          "name": "Laila Biali",
-          "url": "https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I"
-        },
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 330240,
-      "name": "Pennies from Heaven",
-      "url": "https://open.spotify.com/track/4wzU95hQPK14Uascf4wkEo"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Rituel du soleil",
         "url": "https://open.spotify.com/album/1349X3aKwOlh6XimmsJS5U"
@@ -169,7 +105,83 @@
       "url": "https://open.spotify.com/track/28s6vG5qO8iJ6EOtqIoBQZ"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Day Dream",
+        "url": "https://open.spotify.com/album/406jynG8Y0juiFhyOaviak"
+      },
+      "artists": [
+        {
+          "name": "Ashley Henry",
+          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
+        }
+      ],
+      "duration_ms": 295846,
+      "name": "Day Dream",
+      "url": "https://open.spotify.com/track/0pmfzrYIaHzPQ0DYnRWLwi"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Taking Me Higher",
+        "url": "https://open.spotify.com/album/0fsKfRIS3CvprsvgtL6ojm"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 243314,
+      "name": "Taking Me Higher",
+      "url": "https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Gabi Hartmann",
+        "url": "https://open.spotify.com/album/1blq9cHNkbEFBPNUyUNRLv"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        },
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 156400,
+      "name": "People Tell Me / Les gens me disent (feat. Julian Lage)",
+      "url": "https://open.spotify.com/track/6VpSE1x8TpJ1uVyUbPDoeJ"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "La Septi\u00e8me Reine",
+        "url": "https://open.spotify.com/album/33gLfX0wqcpYOhmZViuXAO"
+      },
+      "artists": [
+        {
+          "name": "David Georgelet",
+          "url": "https://open.spotify.com/artist/2LtA68RzaNBt40yR5HCFJJ"
+        },
+        {
+          "name": "Fran\u00e7ois Chesnel",
+          "url": "https://open.spotify.com/artist/6V7lY4nwZUyd0SfHv8wv0w"
+        },
+        {
+          "name": "Yoni Zelnik",
+          "url": "https://open.spotify.com/artist/4hqzR5w8mpfDRsYS3AGbTs"
+        }
+      ],
+      "duration_ms": 185672,
+      "name": "Momo",
+      "url": "https://open.spotify.com/track/0CBX0WAXLUlxZLxVzNcL2U"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Les \u00c9gar\u00e9s (with Ballak\u00e9 Sissoko, Vincent Segal, Emile Parisien & Vincent Peirani)",
         "url": "https://open.spotify.com/album/2mrxRmDXdZFlEKZZx9OcWR"
@@ -197,119 +209,107 @@
       "url": "https://open.spotify.com/track/42F16X6WRCAFwPyRY4nH7O"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Brand New Life",
-        "url": "https://open.spotify.com/album/2bF9vZG92EocmLQdS1M1Ro"
+        "name": "Back on the beat",
+        "url": "https://open.spotify.com/album/2IOOiVxPT2N3fOYQJlubz1"
       },
       "artists": [
         {
-          "name": "Brandee Younger",
-          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+          "name": "Laurent De Wilde",
+          "url": "https://open.spotify.com/artist/7Iupw9PXaMDkdkQ3oqtDOj"
         }
       ],
-      "duration_ms": 279200,
-      "name": "Running Game",
-      "url": "https://open.spotify.com/track/5cIsn2aKRqKneGmQVJ66LC"
+      "duration_ms": 310900,
+      "name": "Back on the beat",
+      "url": "https://open.spotify.com/track/52q5MqCCKzUjYE06orhDxX"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Gabi Hartmann",
-        "url": "https://open.spotify.com/album/1blq9cHNkbEFBPNUyUNRLv"
+        "name": "Offering - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7jPjIloCzLLfYAgao6gf3a"
       },
       "artists": [
         {
-          "name": "Gabi Hartmann",
-          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 188905,
+      "name": "Offering - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0kxDdCDxMbpNkdpw7AtajU"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Chasing Days",
+        "url": "https://open.spotify.com/album/7aYZkjC8EiJrs8ivzwbYxh"
+      },
+      "artists": [
+        {
+          "name": "Izo FitzRoy",
+          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
+        }
+      ],
+      "duration_ms": 231818,
+      "name": "Chasing Days",
+      "url": "https://open.spotify.com/track/6CaaOpcDDrGf6FGHtGwgXl"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Bird of Beauty",
+        "url": "https://open.spotify.com/album/2VKy0JyPz1r9LTmaHIoBej"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 295739,
+      "name": "Bird of Beauty",
+      "url": "https://open.spotify.com/track/1nJ1e4KA6flzNjWnkH8O5i"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 187005,
+      "name": "Just Me This Year",
+      "url": "https://open.spotify.com/track/0pVUyPxZk9qYINtd0nsWhG"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Pennies from Heaven",
+        "url": "https://open.spotify.com/album/2CUBXmrfjX2rVFsU63duYv"
+      },
+      "artists": [
+        {
+          "name": "Laila Biali",
+          "url": "https://open.spotify.com/artist/6ioJTe2wSpFulE39iP818I"
         },
         {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
         }
       ],
-      "duration_ms": 156400,
-      "name": "People Tell Me / Les gens me disent (feat. Julian Lage)",
-      "url": "https://open.spotify.com/track/6VpSE1x8TpJ1uVyUbPDoeJ"
+      "duration_ms": 330240,
+      "name": "Pennies from Heaven",
+      "url": "https://open.spotify.com/track/4wzU95hQPK14Uascf4wkEo"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Plays Well With Others",
-        "url": "https://open.spotify.com/album/1glJqGy1jDHQp6KjmV42Tv"
-      },
-      "artists": [
-        {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
-        },
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 235757,
-      "name": "Don't Fence Me In / Strollin'",
-      "url": "https://open.spotify.com/track/19OTt5vFfApZoRLmMjtgyk"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Taking Me Higher",
-        "url": "https://open.spotify.com/album/0fsKfRIS3CvprsvgtL6ojm"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 243314,
-      "name": "Taking Me Higher",
-      "url": "https://open.spotify.com/track/5ZfnFMQcDepyO0QO7faF8A"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Colors (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6cJxhnKH8MoueYQod1iuH1"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Reinhardt",
-          "url": "https://open.spotify.com/artist/269JN3NUKhXFyIG1uGLWS4"
-        }
-      ],
-      "duration_ms": 192515,
-      "name": "Cargo of Oranges",
-      "url": "https://open.spotify.com/track/42WTvRYrLPG3CVivyVqmde"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "La Septi\u00e8me Reine",
-        "url": "https://open.spotify.com/album/33gLfX0wqcpYOhmZViuXAO"
-      },
-      "artists": [
-        {
-          "name": "David Georgelet",
-          "url": "https://open.spotify.com/artist/2LtA68RzaNBt40yR5HCFJJ"
-        },
-        {
-          "name": "Fran\u00e7ois Chesnel",
-          "url": "https://open.spotify.com/artist/6V7lY4nwZUyd0SfHv8wv0w"
-        },
-        {
-          "name": "Yoni Zelnik",
-          "url": "https://open.spotify.com/artist/4hqzR5w8mpfDRsYS3AGbTs"
-        }
-      ],
-      "duration_ms": 185672,
-      "name": "Momo",
-      "url": "https://open.spotify.com/track/0CBX0WAXLUlxZLxVzNcL2U"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Mat Max",
         "url": "https://open.spotify.com/album/3MGqkowFXei8xJPfJcO1M2"
@@ -337,43 +337,79 @@
       "url": "https://open.spotify.com/track/50LexdUge0HcHesRocUvGa"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Let It Ride (with Robert Glasper) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-        "url": "https://open.spotify.com/album/4C3DMnehzEcys0OYqOuH1G"
+        "name": "Vuma (feat. Thandiswa, Joel Ross)",
+        "url": "https://open.spotify.com/album/0h4Nddo7ZvobQTY5aXWCGO"
       },
       "artists": [
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
         },
         {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
         }
       ],
-      "duration_ms": 355456,
-      "name": "Let It Ride (with Robert Glasper) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-      "url": "https://open.spotify.com/track/1Aflfm3OTl13XvFjvclJtR"
+      "duration_ms": 180540,
+      "name": "Vuma (feat. Thandiswa, Joel Ross)",
+      "url": "https://open.spotify.com/track/7t1XwTEKSzxXawdNah4tzw"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Back on the beat",
-        "url": "https://open.spotify.com/album/2IOOiVxPT2N3fOYQJlubz1"
+        "name": "Brand New Life",
+        "url": "https://open.spotify.com/album/2bF9vZG92EocmLQdS1M1Ro"
       },
       "artists": [
         {
-          "name": "Laurent De Wilde",
-          "url": "https://open.spotify.com/artist/7Iupw9PXaMDkdkQ3oqtDOj"
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
         }
       ],
-      "duration_ms": 310900,
-      "name": "Back on the beat",
-      "url": "https://open.spotify.com/track/52q5MqCCKzUjYE06orhDxX"
+      "duration_ms": 279200,
+      "name": "Running Game",
+      "url": "https://open.spotify.com/track/5cIsn2aKRqKneGmQVJ66LC"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "M\u00e9lusine",
+        "url": "https://open.spotify.com/album/1AP6E8gCkPzDjFC8DrGFPc"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 167682,
+      "name": "Il m'a vue nue",
+      "url": "https://open.spotify.com/track/0aJdVn2GpPMiOa1xlOHDeP"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Colors (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6cJxhnKH8MoueYQod1iuH1"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Reinhardt",
+          "url": "https://open.spotify.com/artist/269JN3NUKhXFyIG1uGLWS4"
+        }
+      ],
+      "duration_ms": 192515,
+      "name": "Cargo of Oranges",
+      "url": "https://open.spotify.com/track/42WTvRYrLPG3CVivyVqmde"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Rollin'",
         "url": "https://open.spotify.com/album/4vay9WmJyXHGkr6ayYUmRC"
@@ -393,7 +429,119 @@
       "url": "https://open.spotify.com/track/0DxiZzEeYhIFupggoAcox3"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Apho",
+        "url": "https://open.spotify.com/album/3W9XyDsJb5XDmF2iIFsjMx"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Bongeziwe Mabandla",
+          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
+        }
+      ],
+      "duration_ms": 178173,
+      "name": "Apho",
+      "url": "https://open.spotify.com/track/4PShi8ZHJXoax9jqzSiMa2"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/1dBh8K3zOKvn5OxQR1sRZi"
+      },
+      "artists": [
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "Twenty Fifteen",
+      "url": "https://open.spotify.com/track/3F4SnqRLateUMs5HpAkhRx"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "A World Without Love",
+        "url": "https://open.spotify.com/album/12n0c6H7dBP5A4UyYP6ocL"
+      },
+      "artists": [
+        {
+          "name": "Scott Bradlee's Postmodern Jukebox",
+          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
+        },
+        {
+          "name": "Eva Mikhailovna",
+          "url": "https://open.spotify.com/artist/48Y0Z3ONtqljq0GPRy3F2F"
+        },
+        {
+          "name": "Eva and the Vagabond Tales",
+          "url": "https://open.spotify.com/artist/12liNL6Nr66VXAew05JCw8"
+        }
+      ],
+      "duration_ms": 227846,
+      "name": "A World Without Love",
+      "url": "https://open.spotify.com/track/2zFCLeBkn4s1iO4wYHNQf7"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Easy come easy go (Edit)",
+        "url": "https://open.spotify.com/album/5uBaxsQ1SZ6LfEqRCUgzZL"
+      },
+      "artists": [
+        {
+          "name": "Laurent De Wilde",
+          "url": "https://open.spotify.com/artist/7Iupw9PXaMDkdkQ3oqtDOj"
+        }
+      ],
+      "duration_ms": 314306,
+      "name": "Easy come easy go - Edit",
+      "url": "https://open.spotify.com/track/0TPnEGIdWuqnW85mIVqoie"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Let It Ride (with Robert Glasper) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/4C3DMnehzEcys0OYqOuH1G"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        }
+      ],
+      "duration_ms": 355456,
+      "name": "Let It Ride (with Robert Glasper) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/1Aflfm3OTl13XvFjvclJtR"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Lights Away from Home",
+        "url": "https://open.spotify.com/album/3kGTTuz6VveX3AibqUxsHJ"
+      },
+      "artists": [
+        {
+          "name": "ARTEMIS",
+          "url": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
+        }
+      ],
+      "duration_ms": 291891,
+      "name": "Lights Away from Home",
+      "url": "https://open.spotify.com/track/1MddW2SVQk0AklDHArtN3v"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Introducing - Danger Zone",
         "url": "https://open.spotify.com/album/5QmtGwt6ZQEc2SCB9yJ7OP"
@@ -429,195 +577,7 @@
       "url": "https://open.spotify.com/track/1DEJ1CsHeZUHaXAULowcw5"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Apho",
-        "url": "https://open.spotify.com/album/3W9XyDsJb5XDmF2iIFsjMx"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Bongeziwe Mabandla",
-          "url": "https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy"
-        }
-      ],
-      "duration_ms": 178173,
-      "name": "Apho",
-      "url": "https://open.spotify.com/track/4PShi8ZHJXoax9jqzSiMa2"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Vuma (feat. Thandiswa, Joel Ross)",
-        "url": "https://open.spotify.com/album/0h4Nddo7ZvobQTY5aXWCGO"
-      },
-      "artists": [
-        {
-          "name": "Meshell Ndegeocello",
-          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
-        },
-        {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        },
-        {
-          "name": "Joel Ross",
-          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
-        }
-      ],
-      "duration_ms": 180540,
-      "name": "Vuma (feat. Thandiswa, Joel Ross)",
-      "url": "https://open.spotify.com/track/7t1XwTEKSzxXawdNah4tzw"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "M\u00e9lusine",
-        "url": "https://open.spotify.com/album/1AP6E8gCkPzDjFC8DrGFPc"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 167682,
-      "name": "Il m'a vue nue",
-      "url": "https://open.spotify.com/track/0aJdVn2GpPMiOa1xlOHDeP"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Day Dream",
-        "url": "https://open.spotify.com/album/406jynG8Y0juiFhyOaviak"
-      },
-      "artists": [
-        {
-          "name": "Ashley Henry",
-          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
-        }
-      ],
-      "duration_ms": 295846,
-      "name": "Day Dream",
-      "url": "https://open.spotify.com/track/0pmfzrYIaHzPQ0DYnRWLwi"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/1dBh8K3zOKvn5OxQR1sRZi"
-      },
-      "artists": [
-        {
-          "name": "Emile Londonien",
-          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "Twenty Fifteen",
-      "url": "https://open.spotify.com/track/3F4SnqRLateUMs5HpAkhRx"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Brand New Life",
-        "url": "https://open.spotify.com/album/6Vwe5sledpijPPJGg8HyGE"
-      },
-      "artists": [
-        {
-          "name": "Brandee Younger",
-          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
-        },
-        {
-          "name": "Mumu Fresh",
-          "url": "https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD"
-        }
-      ],
-      "duration_ms": 272323,
-      "name": "Brand New Life (feat. Mumu Fresh)",
-      "url": "https://open.spotify.com/track/6SGBrgYMtDQfjTb1GXfBSK"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Be My Lover",
-        "url": "https://open.spotify.com/album/3s23xRvp9RWPxZfHpOvqVf"
-      },
-      "artists": [
-        {
-          "name": "Anne Bisson",
-          "url": "https://open.spotify.com/artist/0M93Gh9vPXf1XKa3CqchZF"
-        }
-      ],
-      "duration_ms": 234280,
-      "name": "Nature Boy",
-      "url": "https://open.spotify.com/track/5qRl4AhKqAHyombYJ2SqiZ"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Sweet Pumpkin (Duo Version)",
-        "url": "https://open.spotify.com/album/4uqKcyr2SSRVfK1huj5gQx"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        },
-        {
-          "name": "Gerald Clayton",
-          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
-        }
-      ],
-      "duration_ms": 224320,
-      "name": "Sweet Pumpkin (feat. Gerald Clayton) - Duo Version",
-      "url": "https://open.spotify.com/track/4gmxdNHKgBmE8x0CyKnvc0"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "A World Without Love",
-        "url": "https://open.spotify.com/album/12n0c6H7dBP5A4UyYP6ocL"
-      },
-      "artists": [
-        {
-          "name": "Scott Bradlee's Postmodern Jukebox",
-          "url": "https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc"
-        },
-        {
-          "name": "Eva Mikhailovna",
-          "url": "https://open.spotify.com/artist/48Y0Z3ONtqljq0GPRy3F2F"
-        },
-        {
-          "name": "Eva and the Vagabond Tales",
-          "url": "https://open.spotify.com/artist/12liNL6Nr66VXAew05JCw8"
-        }
-      ],
-      "duration_ms": 227846,
-      "name": "A World Without Love",
-      "url": "https://open.spotify.com/track/2zFCLeBkn4s1iO4wYHNQf7"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Lights Away from Home",
-        "url": "https://open.spotify.com/album/3kGTTuz6VveX3AibqUxsHJ"
-      },
-      "artists": [
-        {
-          "name": "ARTEMIS",
-          "url": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
-        }
-      ],
-      "duration_ms": 291891,
-      "name": "Lights Away from Home",
-      "url": "https://open.spotify.com/track/1MddW2SVQk0AklDHArtN3v"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "constellations",
         "url": "https://open.spotify.com/album/3tXcqoG6fMJQciSTv0wGGC"
@@ -637,23 +597,55 @@
       "url": "https://open.spotify.com/track/1GCJZ0gIDc4XtWco9Jp9fA"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Sarah Brown Sings Mahalia Jackson",
-        "url": "https://open.spotify.com/album/1sBIYJA6QJMbcV8aGPHspJ"
+        "name": "Be My Lover",
+        "url": "https://open.spotify.com/album/3s23xRvp9RWPxZfHpOvqVf"
       },
       "artists": [
         {
-          "name": "Sarah Brown",
-          "url": "https://open.spotify.com/artist/6qu4iot78uVk1bp65nuQvh"
+          "name": "Anne Bisson",
+          "url": "https://open.spotify.com/artist/0M93Gh9vPXf1XKa3CqchZF"
         }
       ],
-      "duration_ms": 184177,
-      "name": "I'm On My Way",
-      "url": "https://open.spotify.com/track/40MiZBtqaj19eRza6L67g1"
+      "duration_ms": 234280,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/5qRl4AhKqAHyombYJ2SqiZ"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "'A \u00e7imma",
+        "url": "https://open.spotify.com/album/6t7AB7ZyaihdBkS9Gkj53l"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Omar Sosa",
+          "url": "https://open.spotify.com/artist/2zyVwasA2QkaVopBFZ2RfX"
+        },
+        {
+          "name": "Jaques Morelenbaum",
+          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+        },
+        {
+          "name": "Cristiano De Andr\u00e9",
+          "url": "https://open.spotify.com/artist/4vhlKamY3mdKkq6V6cChOJ"
+        },
+        {
+          "name": "CRISTIANO DE ANDR\u00c9 and JAQUES MORELENBAUM",
+          "url": "https://open.spotify.com/artist/59ylsTAZ8356EvbK74CJ9C"
+        }
+      ],
+      "duration_ms": 388000,
+      "name": "'A \u00e7imma",
+      "url": "https://open.spotify.com/track/5ZfBTK4AOtIlTHlLlebnwE"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Nobody Else But Me",
         "url": "https://open.spotify.com/album/0SuDfLmKL0ssHmajwKGZ8G"
@@ -673,7 +665,27 @@
       "url": "https://open.spotify.com/track/5Ke5AnORQzHKS1xkvXG0uI"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Brand New Life",
+        "url": "https://open.spotify.com/album/6Vwe5sledpijPPJGg8HyGE"
+      },
+      "artists": [
+        {
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        },
+        {
+          "name": "Mumu Fresh",
+          "url": "https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD"
+        }
+      ],
+      "duration_ms": 272323,
+      "name": "Brand New Life (feat. Mumu Fresh)",
+      "url": "https://open.spotify.com/track/6SGBrgYMtDQfjTb1GXfBSK"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Inner Songs",
         "url": "https://open.spotify.com/album/3bHRe5o2d25MQm0M2LLhfA"
@@ -689,7 +701,43 @@
       "url": "https://open.spotify.com/track/7sDCXDgzgv9LrrSxSerVEa"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Sweet Pumpkin (Duo Version)",
+        "url": "https://open.spotify.com/album/4uqKcyr2SSRVfK1huj5gQx"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        },
+        {
+          "name": "Gerald Clayton",
+          "url": "https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "Sweet Pumpkin (feat. Gerald Clayton) - Duo Version",
+      "url": "https://open.spotify.com/track/4gmxdNHKgBmE8x0CyKnvc0"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Sarah Brown Sings Mahalia Jackson",
+        "url": "https://open.spotify.com/album/1sBIYJA6QJMbcV8aGPHspJ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Brown",
+          "url": "https://open.spotify.com/artist/6qu4iot78uVk1bp65nuQvh"
+        }
+      ],
+      "duration_ms": 184177,
+      "name": "I'm On My Way",
+      "url": "https://open.spotify.com/track/40MiZBtqaj19eRza6L67g1"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Route de nuit",
         "url": "https://open.spotify.com/album/056ScEAKzcIJ3BeDXxdevJ"
@@ -705,7 +753,7 @@
       "url": "https://open.spotify.com/track/3aJ4NTA6ZN58RxzlT8MFHu"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Spark Bird",
         "url": "https://open.spotify.com/album/6z3wz0ytwIBkn6pcxWQiNN"
@@ -721,7 +769,7 @@
       "url": "https://open.spotify.com/track/1rRCoIYM6CVJ2iWiSFMGQG"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Aged Eyes",
         "url": "https://open.spotify.com/album/7A6hBg9U4hIYiCLcthKQzG"
@@ -741,7 +789,7 @@
       "url": "https://open.spotify.com/track/7xtWxotWjZAFB1rw5J3HHz"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "My One and Only",
         "url": "https://open.spotify.com/album/3gqvvLZSkrGFl1gtomQrs0"
@@ -757,7 +805,7 @@
       "url": "https://open.spotify.com/track/2jCaIOqD6BTFsz4gdTE01H"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Behind the Angel Face",
         "url": "https://open.spotify.com/album/0cdYf8PZO9KKVhVvkZzVHi"
@@ -773,7 +821,7 @@
       "url": "https://open.spotify.com/track/1h2MnWfQSvgvi8dtiswT0E"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "A Baptist Beat",
         "url": "https://open.spotify.com/album/2tbIMQxw0o5EvK2cCTUcKB"
@@ -789,7 +837,7 @@
       "url": "https://open.spotify.com/track/6R7rddgouLxoW9KwWX5azf"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "ASTA 2",
         "url": "https://open.spotify.com/album/54ew3n9npGAcqI9GtBBTpo"
@@ -817,23 +865,7 @@
       "url": "https://open.spotify.com/track/7Bd5QBn1WRxcDXXzCS1DSB"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "Pash Rash",
-        "url": "https://open.spotify.com/album/6LG9QQHDTyZhtrjBaa9cPN"
-      },
-      "artists": [
-        {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
-        }
-      ],
-      "duration_ms": 368232,
-      "name": "Pash Rash",
-      "url": "https://open.spotify.com/track/1Wl1mqm9URwTkFcfTOBI78"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Guess Who I Saw Today (Duo Version)",
         "url": "https://open.spotify.com/album/2SZO6jit46DlAS8kE017FI"
@@ -853,23 +885,7 @@
       "url": "https://open.spotify.com/track/4VEOAK2Wf0HmxDfyk0r25t"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
-      "album": {
-        "name": "From The Mountains",
-        "url": "https://open.spotify.com/album/6eSbOxKBVFiUUF8iKSs9aB"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
-        }
-      ],
-      "duration_ms": 500435,
-      "name": "From The Mountains",
-      "url": "https://open.spotify.com/track/7evvPuIQkcJEPki0t5nkxd"
-    },
-    {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Where Will I Be?",
         "url": "https://open.spotify.com/album/5UKySePl9G3Dq910vjPO3r"
@@ -885,7 +901,7 @@
       "url": "https://open.spotify.com/track/66xrFr0ap2a807yw6qqmAD"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Sound of Eymet",
         "url": "https://open.spotify.com/album/0h5gvS1eJnvhvQ6ldWuIcs"
@@ -901,7 +917,7 @@
       "url": "https://open.spotify.com/track/5823hf55oABckejkndnNXR"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Dance Kobina",
         "url": "https://open.spotify.com/album/0AUn2s7xXGY4ZGWArU66QA"
@@ -917,7 +933,7 @@
       "url": "https://open.spotify.com/track/0x1ouEGnLQh4Iyv3EpNSmV"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Oan Kim & the Dirty Jazz",
         "url": "https://open.spotify.com/album/2JdcIcXxMhbqCP0foDe6ws"
@@ -933,7 +949,7 @@
       "url": "https://open.spotify.com/track/0F74dT9SZEtGzd8bg7bd3c"
     },
     {
-      "added_at": "2023-04-13 22:01:00",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Street of Minarets",
         "url": "https://open.spotify.com/album/6WYbU1sKldxrr2utsPRbKx"

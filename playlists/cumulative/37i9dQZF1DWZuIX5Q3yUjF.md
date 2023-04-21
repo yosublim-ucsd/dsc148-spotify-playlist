@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Ernia, Mara Sattei
+> Il meglio dell'R&B italiano\. Cover: AISHA
 
-312 songs - 15 hr 22 min
+314 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [balliamo](https://open.spotify.com/track/2QXUDeLfGYGm13vx6GUpBr) | [claro](https://open.spotify.com/artist/0APvLMkrmJV6BSKJWoy3Jz) | [balliamo](https://open.spotify.com/album/5tHit6JjQnNOctneZJoukH) | 2:49 | 2022-05-05 | 2022-09-09 |
 | [Birthday](https://open.spotify.com/track/32lSBUAwseG81GL0VjeXEz) | [Feliciana](https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY) | [Birthday](https://open.spotify.com/album/2L11I1HBuWIlrTBBRjXuFi) | 2:13 | 2022-05-05 | 2022-11-11 |
 | [Bitter](https://open.spotify.com/track/2V8r2YxPjZTCpfkDvSGcjQ) | [Diora Madama](https://open.spotify.com/artist/7wOA7etbtOByr52HImiMI2) | [Bitter](https://open.spotify.com/album/1o3kKZNiluPkE0UIDkpWvn) | 2:52 | 2022-05-05 | 2022-11-11 |
+| [Black Eagle](https://open.spotify.com/track/1RgTtE3B08KoJXq5brKcuW) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Black Eagle](https://open.spotify.com/album/3SDlaTsiUiEX0h7QeE5vV0) | 3:17 | 2023-04-20 |  |
 | [BLU](https://open.spotify.com/track/6w4QgM7NJgyIxAOVdvMR32) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj), [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [BLU](https://open.spotify.com/album/4sMPCLZ2dW95sOp9pOCfTm) | 3:35 | 2023-02-23 |  |
 | [BOLLA](https://open.spotify.com/track/59hITQBriwhFRILx6xJBra) | [Bonsai](https://open.spotify.com/artist/4EKEOzsltTuwD2kKuDKd6t) | [REWIND EP](https://open.spotify.com/album/6tudu1HtN2VinixmMMOXYZ) | 3:48 | 2022-10-13 | 2023-01-13 |
 | [Brandy & Monica](https://open.spotify.com/track/7D0lKhGUyoJvXA83Gko8ou) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [Brandy & Monica](https://open.spotify.com/album/2TGJGvjsRyiNZub7jgeIcM) | 2:40 | 2022-07-14 |  |
@@ -125,7 +126,7 @@
 | [Hot Thing](https://open.spotify.com/track/1HigmdWZNe4G1K7KklpsDp) | [GIOIA](https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB) | [Hot Thing](https://open.spotify.com/album/6h0asJFNiWmM0tNapbJKyF) | 2:56 | 2022-06-02 | 2022-07-29 |
 | [Houdini](https://open.spotify.com/track/4tIQReYfn7HqUd2ngDUGeB) | [Livrea](https://open.spotify.com/artist/64fhIeqXVHuWtTrmoT8HG0), [Nubula](https://open.spotify.com/artist/7bGSYDi7LmU5F1wx8ITzIk) | [Houdini](https://open.spotify.com/album/2NfGUOifngHawKceRRzsn6) | 3:08 | 2022-05-05 | 2022-07-01 |
 | [Igloo](https://open.spotify.com/track/2Xd1cBqnJfvFydAyrMJufM) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa) | [Igloo](https://open.spotify.com/album/5AA5aRX6SDYGP6HbcXvlQz) | 2:35 | 2022-10-06 | 2023-02-03 |
-| [Il Male \- Italian Version](https://open.spotify.com/track/6R2Eem2AarE3nevr2PqV75) | [TECHNOIR](https://open.spotify.com/artist/1RS1JwEkPQM8W9lsTfVFwI) | [Il Male \(Italian Version\)](https://open.spotify.com/album/0NqZ0hiTf1zcJwP6ak50WU) | 3:08 | 2023-03-09 |  |
+| [Il Male \- Italian Version](https://open.spotify.com/track/6R2Eem2AarE3nevr2PqV75) | [TECHNOIR](https://open.spotify.com/artist/1RS1JwEkPQM8W9lsTfVFwI) | [Il Male \(Italian Version\)](https://open.spotify.com/album/0NqZ0hiTf1zcJwP6ak50WU) | 3:08 | 2023-03-09 | 2023-04-21 |
 | [IL MIO NOME](https://open.spotify.com/track/4dpWBKuNFd3W4pJCgD3kCD) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0kfy23QZO9KebgwxJvXzJI) | 3:18 | 2022-11-17 | 2022-12-08 |
 | [IL MIO NOME](https://open.spotify.com/track/50BtIqilFzXVUMVC6ddTDa) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ) | 3:18 | 2022-12-01 | 2023-04-14 |
 | [IL MIO NOME REMIX \(con Mara Sattei\)](https://open.spotify.com/track/72G9NI5LnHlbvFHZxWfmNv) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [IO NON HO PAURA](https://open.spotify.com/album/2AaqxCs7aRTt4MqK8Q3LuO) | 2:37 | 2023-04-06 |  |
@@ -180,6 +181,7 @@
 | [Mariposa](https://open.spotify.com/track/7lQ4yvORROiXuznj1ZoTOP) | [M¥RA](https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa) | [Mariposa](https://open.spotify.com/album/2OZ46QQ4k72Hsy15w4Lvsl) | 3:36 | 2022-10-27 | 2023-02-03 |
 | [Mercurio](https://open.spotify.com/track/4V5DQ7DcZgmS5dW9bFCSac) | [Jacopo Planet](https://open.spotify.com/artist/4poKX0fRYCGvuffNIj2f5f) | [Mercurio](https://open.spotify.com/album/5GeDTicAnATrr6MpgBRwCI) | 2:35 | 2022-09-29 | 2022-12-02 |
 | [Midnight](https://open.spotify.com/track/38zBWUqKuUgXRgP7xIvE2s) | [Naomi](https://open.spotify.com/artist/3dbuSqzwPQGqucy4evhJUB) | [Midnight](https://open.spotify.com/album/6FyyqpFQV4ozDqKwzgT3cI) | 2:48 | 2023-01-26 |  |
+| [MILANO](https://open.spotify.com/track/33mBz8kHUd3j9Sf2fnL0S1) | [AISHA](https://open.spotify.com/artist/78S0OMZxZhxSE5WxSzJoCf) | [MILANO](https://open.spotify.com/album/7Av7omyGt9WMtZhln5aAP4) | 2:41 | 2023-04-20 |  |
 | [Moment](https://open.spotify.com/track/5HDTDiCbhdH91dqtvfgexa) | [bluāstro](https://open.spotify.com/artist/4u0dzk3uwHVSzmPr92CueC) | [Moment](https://open.spotify.com/album/71rtcVmZhPgHZK3lGXCP8y) | 3:09 | 2023-02-23 | 2023-03-18 |
 | [Monodose](https://open.spotify.com/track/4Doceb3PbB1O4Rdijrn2Qp) | [Chiara Ranieri](https://open.spotify.com/artist/3I0mGLOlyKCXxPSUD26Eu6) | [Monodose](https://open.spotify.com/album/2RrqdXnY3YzsJAQif4JcW7) | 2:47 | 2022-06-30 | 2022-07-15 |
 | [Morsi](https://open.spotify.com/track/5k0bWnsm97QQQHuMs0wIvG) | [Andrea Blanc](https://open.spotify.com/artist/6WGCfH6ATZyAe39uWtPLR4), [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6) | [Morsi](https://open.spotify.com/album/2rZEMo1uGjBPEOnMCCL1GP) | 3:29 | 2022-08-11 | 2022-08-26 |
@@ -291,7 +293,7 @@
 | [Tell Me Why](https://open.spotify.com/track/5JiVlyEvnZj6D3fZEhS9M8) | [Giusi Barone](https://open.spotify.com/artist/7pM35OnnDSSLU6alsc13Tn), [MISSILE](https://open.spotify.com/artist/7Jid1qynsHeXSNftV0jR2Q) | [Tell Me Why](https://open.spotify.com/album/6cUx83dXwKcmjER80iUAWy) | 2:03 | 2022-06-02 | 2022-11-11 |
 | [Terra](https://open.spotify.com/track/60YAdeRQQVjsiQEbrDXpW1) | [Lüzai](https://open.spotify.com/artist/76tW4wf0r1CYkHwsYSFihB) | [Terra](https://open.spotify.com/album/0mofgrEIJjMuLRjYICvd17) | 2:57 | 2022-12-08 | 2023-02-09 |
 | [Tessie](https://open.spotify.com/track/5OTrpx7SZy97ymkPE6fXPS) | [Feliciana](https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY) | [Tessie](https://open.spotify.com/album/0s9z3rl3VdBrORlFgrdN9H) | 3:01 | 2022-11-10 |  |
-| [Threeway](https://open.spotify.com/track/0JhPjKFuDsmBvMBdzcu8uS) | [emme](https://open.spotify.com/artist/1AaQO7zitcB9Q3iarTLP4h), [Federico Vinci](https://open.spotify.com/artist/2WXOFbXEJ319V8Qoc6UIf4) | [Threeway](https://open.spotify.com/album/5QEYRMLrUuEDlZMjtce30g) | 2:35 | 2023-03-09 |  |
+| [Threeway](https://open.spotify.com/track/0JhPjKFuDsmBvMBdzcu8uS) | [emme](https://open.spotify.com/artist/1AaQO7zitcB9Q3iarTLP4h), [Federico Vinci](https://open.spotify.com/artist/2WXOFbXEJ319V8Qoc6UIf4) | [Threeway](https://open.spotify.com/album/5QEYRMLrUuEDlZMjtce30g) | 2:35 | 2023-03-09 | 2023-04-21 |
 | [Tra di noi](https://open.spotify.com/track/4sItwBhx0dgj8VtkGK6BGz) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J) | [Tra di noi](https://open.spotify.com/album/4iWjvdquhsSVH76bUTOSxO) | 3:26 | 2022-09-22 | 2023-01-26 |
 | [Tra Mille](https://open.spotify.com/track/4fS7KNScimKvqgeUeASIW0) | [ETT](https://open.spotify.com/artist/4ZYO3loQ3PgnwXe3hUVPrS) | [Tra Mille](https://open.spotify.com/album/0byWbGyBA4AV85ULjNVYIC) | 2:35 | 2022-06-23 |  |
 | [Traumi](https://open.spotify.com/track/2LIM6FxHKqRUcz2gP3byUc) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Traumi](https://open.spotify.com/album/6PddgCmogPiR4yyC6X8chF) | 3:04 | 2022-11-03 | 2023-02-03 |

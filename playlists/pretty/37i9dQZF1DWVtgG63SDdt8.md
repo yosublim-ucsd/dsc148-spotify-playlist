@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4?si=7125ac0f4fdf4097">Cade Thompson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,439 likes - 99 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,538 likes - 99 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 45 | [Translatin' Spirit](https://open.spotify.com/track/31GbaIoMFUJxLVvUmMlpPb) | [Ki Alexis](https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch) | [Translatin' Spirit](https://open.spotify.com/album/1H08kD5iF9SwgI9bI6aIk5) | 2:58 |
 | 46 | [The Author](https://open.spotify.com/track/5kerGo1eZ5DUBvas9pPlvp) | [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [The Author](https://open.spotify.com/album/7edUmzYfGRHLXtnkbJn68O) | 3:18 |
 | 47 | [Right Here](https://open.spotify.com/track/1sZiwag2P2qUCYFQiL1OBi) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S) | [Right Here](https://open.spotify.com/album/4AMqShLdVOsopjuvg97n6e) | 3:06 |
-| 48 | [Feel This Way](https://open.spotify.com/track/5tPY2vc80TSwKt34hQkjhH) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [BKE](https://open.spotify.com/artist/4vIgLF6uMtQo8HV3bcPUSe), [RVIVXL](https://open.spotify.com/artist/5C1BuQjvF1s7Usyff3T36B) | [Feel This Way](https://open.spotify.com/album/3wNqQkST2CZQqXg6QvFvx6) | 3:05 |
+| 48 | [Feel This Way](https://open.spotify.com/track/5tPY2vc80TSwKt34hQkjhH) | [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [BKE](https://open.spotify.com/artist/4vIgLF6uMtQo8HV3bcPUSe), [RVIVXL](https://open.spotify.com/artist/5C1BuQjvF1s7Usyff3T36B), [Christ United Music](https://open.spotify.com/artist/4bP6S5RyoXeEY8Lbm0xqtA) | [Feel This Way](https://open.spotify.com/album/3wNqQkST2CZQqXg6QvFvx6) | 3:05 |
 | 49 | [Reason](https://open.spotify.com/track/4Z9DZqnQJy68WIBft5pNQD) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Reason](https://open.spotify.com/album/7qRh53LMZ3GQTTaNWVPq2o) | 3:07 |
 | 50 | [Sure \(Counting on You\)](https://open.spotify.com/track/6631GJTIN4OwoKTeAoIk3Q) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH), [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Sure \(Counting on You\)](https://open.spotify.com/album/2FqECWZ9A5Jr304QeQftM3) | 3:01 |
 | 51 | [Not Alone](https://open.spotify.com/track/5pL9FOvzo6Vn0WFeWynS4r) | [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [Not Alone](https://open.spotify.com/album/7BhUadmaY7GgzhpPLlc1QQ) | 2:16 |

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Earth Night 2019",
+        "url": "https://open.spotify.com/album/5A7ggVyiQKqtJE1IZ5Kj6o"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431240,
+      "name": "Abiogenesis",
+      "url": "https://open.spotify.com/track/0zz17YzBvTBLHwOwaCvHd0"
+    },
+    {
+      "album": {
         "name": "Adonis",
         "url": "https://open.spotify.com/album/1IxANPUvfBsyFeRZqdsN0j"
       },
@@ -118,7 +136,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 182360,
       "name": "Alageyik Destan\u0131",
       "url": "https://open.spotify.com/track/26xK6N0byHCa4e7hIwjhSX"
@@ -152,6 +170,28 @@
       "duration_ms": 598100,
       "name": "All I Want is You",
       "url": "https://open.spotify.com/track/44OZPn5il5c0XA7KTU1lnS"
+    },
+    {
+      "album": {
+        "name": "Atomic Alchemy",
+        "url": "https://open.spotify.com/album/49Ja0XYLywQFJMgFfBUBL0"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        },
+        {
+          "name": "Qualista",
+          "url": "https://open.spotify.com/artist/2rIvjgB0z5QII5THLUVArN"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353621,
+      "name": "Atomic Alchemy - Original",
+      "url": "https://open.spotify.com/track/2sntzWf1oa90KGpqDb9pPX"
     },
     {
       "album": {
@@ -195,6 +235,24 @@
     },
     {
       "album": {
+        "name": "Binbo\u011fa",
+        "url": "https://open.spotify.com/album/2ZETfZLZlvOUvF2sI4hBZ9"
+      },
+      "artists": [
+        {
+          "name": "Yalnayak",
+          "url": "https://open.spotify.com/artist/3jEtefzgPeUqmWbhrh27gu"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242400,
+      "name": "Binbo\u011fa",
+      "url": "https://open.spotify.com/track/0zxL1Bz2ntGvyljo7EVO39"
+    },
+    {
+      "album": {
         "name": "Bir Dost Arar\u0131m",
         "url": "https://open.spotify.com/album/6oN2ghYoe5VOBMCmP1llcz"
       },
@@ -206,10 +264,54 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 200470,
       "name": "Bir Dost Arar\u0131m",
       "url": "https://open.spotify.com/track/1cuPAyQdRViryoZjDUddxX"
+    },
+    {
+      "album": {
+        "name": "Birth of Quiescence",
+        "url": "https://open.spotify.com/album/5Vk8g3yYelIggIMFMGo6wl"
+      },
+      "artists": [
+        {
+          "name": "Karma Whiff",
+          "url": "https://open.spotify.com/artist/414O3gPDAvBftGcLSqgtw5"
+        },
+        {
+          "name": "Mehmet Denizci",
+          "url": "https://open.spotify.com/artist/1m772YHVJ2dSV4XFsyxff0"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311250,
+      "name": "Birth of Quiescence",
+      "url": "https://open.spotify.com/track/6USQoWh3nIruao5qEt1sSZ"
+    },
+    {
+      "album": {
+        "name": "Trust In The Lifeforce Of The Deep Mystery",
+        "url": "https://open.spotify.com/album/2mvz0NPBCPTbSEgRViuDLK"
+      },
+      "artists": [
+        {
+          "name": "The Comet Is Coming",
+          "url": "https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU"
+        },
+        {
+          "name": "Kae Tempest",
+          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495400,
+      "name": "Blood Of The Past",
+      "url": "https://open.spotify.com/track/1st2ldrAppYwbJmbXucFhD"
     },
     {
       "album": {
@@ -290,10 +392,28 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 102800,
       "name": "D For Danny",
       "url": "https://open.spotify.com/track/3WZqzZ4fC4Vyts4MD6za5J"
+    },
+    {
+      "album": {
+        "name": "Fortune Seeker",
+        "url": "https://open.spotify.com/album/35b1Eslh5g4fKbypwAomEx"
+      },
+      "artists": [
+        {
+          "name": "Stavroz",
+          "url": "https://open.spotify.com/artist/7su1fG75ZwXHA6ei9Zcy7T"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331008,
+      "name": "Designer Eggs im Garten",
+      "url": "https://open.spotify.com/track/6H518neJY8BB6OW8fygzvV"
     },
     {
       "album": {
@@ -362,7 +482,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 60026,
       "name": "El rey",
       "url": "https://open.spotify.com/track/6IfQLhMvIohZQb0ro5rHa7"
@@ -402,7 +522,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 225906,
       "name": "Falling from Grace",
       "url": "https://open.spotify.com/track/1tgbxNQlN0ELxU55jDFzFp"
@@ -456,7 +576,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 356727,
       "name": "Galata",
       "url": "https://open.spotify.com/track/3JwHLrGfDW9O7uEIusuyoi"
@@ -492,7 +612,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 161960,
       "name": "Get a New Daddy",
       "url": "https://open.spotify.com/track/6Wt83XorRbwrHMGDt3furX"
@@ -543,6 +663,24 @@
     },
     {
       "album": {
+        "name": "misfit mantra",
+        "url": "https://open.spotify.com/album/4GwWwpisaCBuVEqfrg2t28"
+      },
+      "artists": [
+        {
+          "name": "talking rocks",
+          "url": "https://open.spotify.com/artist/4dtZP42cTa7KX9sbpz31dX"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331124,
+      "name": "harami",
+      "url": "https://open.spotify.com/track/1ZnJkF9IkibF0fmNcKwpOO"
+    },
+    {
+      "album": {
         "name": "Isle Of Magic",
         "url": "https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6"
       },
@@ -558,7 +696,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 295799,
       "name": "Heritage feat. Anthony Joseph",
       "url": "https://open.spotify.com/track/15llwHbLMKejJughR05oT6"
@@ -620,7 +758,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 193893,
       "name": "I Wanna Be Your Lover",
       "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
@@ -638,7 +776,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 362386,
       "name": "Imagine A Box",
       "url": "https://open.spotify.com/track/45gTexD7t6tJiOz3vtAqOD"
@@ -656,7 +794,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 333600,
       "name": "In Cucina",
       "url": "https://open.spotify.com/track/0qaUHyOIIx3F4aAQUtVOms"
@@ -932,7 +1070,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 195371,
       "name": "L\u2019amour \u00e0 deux doigts",
       "url": "https://open.spotify.com/track/48l1d3zf92bgjaMjTE6OYk"
@@ -1229,6 +1367,28 @@
     },
     {
       "album": {
+        "name": "Belacqua",
+        "url": "https://open.spotify.com/album/3MwLXfcuBIty5MTtylN49Z"
+      },
+      "artists": [
+        {
+          "name": "Or\u00e7un Barni",
+          "url": "https://open.spotify.com/artist/7gOSLq3ujEx1F2xgRhrICy"
+        },
+        {
+          "name": "Kamer Kaya",
+          "url": "https://open.spotify.com/artist/1M2ncHXsNMaDbJ5KhLz1ce"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342510,
+      "name": "Salvation of Trajan's Soul",
+      "url": "https://open.spotify.com/track/2HErzfkgblJN79kGsCdCjH"
+    },
+    {
+      "album": {
         "name": "Monolith",
         "url": "https://open.spotify.com/album/4a6AeHFHXmVzk9zk2IjVDT"
       },
@@ -1321,6 +1481,28 @@
     },
     {
       "album": {
+        "name": "Atomic Alchemy",
+        "url": "https://open.spotify.com/album/49Ja0XYLywQFJMgFfBUBL0"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        },
+        {
+          "name": "Qualista",
+          "url": "https://open.spotify.com/artist/2rIvjgB0z5QII5THLUVArN"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491538,
+      "name": "Space Age - Original",
+      "url": "https://open.spotify.com/track/4NiS44isUaBf2YHD6KVw52"
+    },
+    {
+      "album": {
         "name": "Sla Radical Dance Disco Club",
         "url": "https://open.spotify.com/album/0HHFfVAOIzKegm7pCAjHAh"
       },
@@ -1357,6 +1539,28 @@
     },
     {
       "album": {
+        "name": "Atomic Alchemy",
+        "url": "https://open.spotify.com/album/49Ja0XYLywQFJMgFfBUBL0"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        },
+        {
+          "name": "Qualista",
+          "url": "https://open.spotify.com/artist/2rIvjgB0z5QII5THLUVArN"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489142,
+      "name": "Sunyata - Original",
+      "url": "https://open.spotify.com/track/2rG2JtE5Edzoy3Bn6XWVtG"
+    },
+    {
+      "album": {
         "name": "Swing Bop - Remixes",
         "url": "https://open.spotify.com/album/15qzUlJHFD9SDE3kE8r3nq"
       },
@@ -1379,6 +1583,42 @@
     },
     {
       "album": {
+        "name": "Guts (Le Bienheureux)",
+        "url": "https://open.spotify.com/album/2LxAR31doiApbutixbJrWW"
+      },
+      "artists": [
+        {
+          "name": "Guts",
+          "url": "https://open.spotify.com/artist/5mMkUZv8uUrlH0SHX89BeS"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228345,
+      "name": "Take a Look Around You",
+      "url": "https://open.spotify.com/track/5g98ssfibneuZea37r95qX"
+    },
+    {
+      "album": {
+        "name": "Bow Wave",
+        "url": "https://open.spotify.com/album/5p43nP4A1dKJeYAiBkk9j6"
+      },
+      "artists": [
+        {
+          "name": "Andi Otto",
+          "url": "https://open.spotify.com/artist/2jKLUMV4pDwTvSSUmnhnig"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355120,
+      "name": "Taste of Bamboo",
+      "url": "https://open.spotify.com/track/6Af8C264b3XWFDzV5xknsg"
+    },
+    {
+      "album": {
         "name": "Rossini - Ouvertures",
         "url": "https://open.spotify.com/album/7ffyF7j0RpYXyYEpPyCuTP"
       },
@@ -1398,7 +1638,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 453066,
       "name": "The Barber of Seville: Overture",
       "url": "https://open.spotify.com/track/3PGPfeQTaZgHnmofWYBHSW"
@@ -1521,6 +1761,24 @@
     },
     {
       "album": {
+        "name": "Yabani",
+        "url": "https://open.spotify.com/album/4pD5ajO8cTTOWpsopddS3F"
+      },
+      "artists": [
+        {
+          "name": "Netam",
+          "url": "https://open.spotify.com/artist/1YY9OGXBUigFmgd8wgKEE6"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413000,
+      "name": "Tren",
+      "url": "https://open.spotify.com/track/25mi7ueabfFAVpUczjMJqe"
+    },
+    {
+      "album": {
         "name": "Tancade",
         "url": "https://open.spotify.com/album/3gljD9nf9Ln8RMU6P3HY9U"
       },
@@ -1572,7 +1830,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 326252,
       "name": "VII. Aquatic Ape",
       "url": "https://open.spotify.com/track/5VtDwYtQsKKaul8mRsIhxy"
@@ -1637,6 +1895,28 @@
     },
     {
       "album": {
+        "name": "Memoriam in Posterum (Memorias Del Futuro)",
+        "url": "https://open.spotify.com/album/0gwy5shJdbeTKhCbL3vIpv"
+      },
+      "artists": [
+        {
+          "name": "Yako Ma",
+          "url": "https://open.spotify.com/artist/3Ni6FYTvNYEyncSdjtnauK"
+        },
+        {
+          "name": "Rod Raines",
+          "url": "https://open.spotify.com/artist/6hksSl3jPYEIJtf5nTWI1l"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477701,
+      "name": "Work for the Soul",
+      "url": "https://open.spotify.com/track/1Yhu40teddRkK8kivbf5AB"
+    },
+    {
+      "album": {
         "name": "Xifse",
         "url": "https://open.spotify.com/album/656VfYB2vpN2lPXMrR6DKI"
       },
@@ -1652,7 +1932,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 347142,
       "name": "Xifse",
       "url": "https://open.spotify.com/track/5HiIArUMG19W23gyBUqlst"
@@ -1714,6 +1994,24 @@
       "duration_ms": 406308,
       "name": "Zebra",
       "url": "https://open.spotify.com/track/0Xeihvze3TQMpho3IW1Tu3"
+    },
+    {
+      "album": {
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/3Rq1AfBPNwmeIiDIzIdmW9"
+      },
+      "artists": [
+        {
+          "name": "Goodil",
+          "url": "https://open.spotify.com/artist/3Pinc5WeUvCbGC7RJ0Zlxw"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281109,
+      "name": "Zwei",
+      "url": "https://open.spotify.com/track/5871ZbBu6HSgNArMNDKQpW"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6NYc6NOT7sQ"

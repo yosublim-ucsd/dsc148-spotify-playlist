@@ -4,7 +4,7 @@
 
 > Swinging jazz and soft beats for relaxing and unwinding.
 
-330 songs - 20 hr 37 min
+331 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Elegance](https://open.spotify.com/track/6aafuZXImh9Yvgix3ZhMIf) | [Otis Ubaka](https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK) | [Elegance](https://open.spotify.com/album/1QF0DKX7Qa1BTzXI04N5MR) | 2:27 | 2022-08-18 | 2022-11-20 |
 | [Elephant & Ivory \- Vanilla's Version](https://open.spotify.com/track/7eDl54jBPJL295eBq95GIH) | [Les Loups](https://open.spotify.com/artist/3U6FqAuXdKYRrGUIyv9MWa), [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Elephant & Ivory \(Vanilla's Version\)](https://open.spotify.com/album/1SmtfuffGWMdf6MXUp8ITM) | 3:28 | 2022-08-25 | 2022-09-22 |
 | [Enlightened](https://open.spotify.com/track/26EckqdKwbnLgXPoiUgaEo) | [Joona Toivanen Trio](https://open.spotify.com/artist/7lkzHd6Tzt9hQJSnIYkVrl) | [Both Only](https://open.spotify.com/album/2e06pqph69m1CCBkKNiBQQ) | 5:50 | 2022-04-22 | 2023-03-21 |
-| [Evergreen](https://open.spotify.com/track/6o6l8qajBu2ke8E7IcpRVu) | [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [tonbo](https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4) | [Evergreen](https://open.spotify.com/album/2Zql1fESYIoPwFwy40zCSm) | 2:08 | 2023-03-24 |  |
+| [Evergreen](https://open.spotify.com/track/6o6l8qajBu2ke8E7IcpRVu) | [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [tonbo](https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4) | [Evergreen](https://open.spotify.com/album/2Zql1fESYIoPwFwy40zCSm) | 2:08 | 2023-03-24 | 2023-04-21 |
 | [Everybody Loves the Sunshine](https://open.spotify.com/track/31kkgCImsQJjSGDVzxJN4R) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Between Days](https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X) | 5:22 | 2022-06-02 | 2022-09-22 |
 | [Everytime We Say Goodbye](https://open.spotify.com/track/5iIuzPWH3IIskHD5IJAUrA) | [Carl Bagge Trio](https://open.spotify.com/artist/1hyKcLTz5pzxyla8DxNTcs) | [Everytime We Say Goodbye](https://open.spotify.com/album/6pbo4Ak9A83INF7HCTqDyh) | 4:40 | 2023-03-20 |  |
 | [EYES](https://open.spotify.com/track/7p0fqkMZzEnpzwaAF1BbDR) | [Silvan Strauss](https://open.spotify.com/artist/0z54TmC14v7FGV2rq69YEN) | [EYES](https://open.spotify.com/album/2heTYhmqhs6PTSdvyqXHp9) | 2:19 | 2022-09-14 | 2022-10-07 |
@@ -113,6 +113,7 @@
 | [Frank's Tune](https://open.spotify.com/track/0j5BDpqfAAzF4mtu4vE68P) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 3:37 | 2022-04-22 | 2023-03-21 |
 | [Fresh Bloom](https://open.spotify.com/track/7qmcHozSGwsH5I7IjF16eU) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Fresh Bloom](https://open.spotify.com/album/2tc7pWoDXmlpiWrGuaeyPA) | 1:45 | 2023-03-02 |  |
 | [Friends](https://open.spotify.com/track/62ETSS8iVAoE47L0nNinTK) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO) | [Friends](https://open.spotify.com/album/19hBcwOsKTRuOclZ5bDoXP) | 1:44 | 2022-12-22 | 2023-02-23 |
+| [From My Perspective](https://open.spotify.com/track/0aYO1PA22QmRVz7mYXAiUT) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [From My Perspective](https://open.spotify.com/album/6CY77pDMz6tioKGrK6aGaz) | 4:02 | 2023-04-20 |  |
 | [Frontline \- CARRTOONS Remix](https://open.spotify.com/track/3Qhv1YKYj84eJ6JSVO6E5n) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [Frontline \(CARRTOONS Remix\)](https://open.spotify.com/album/20J2i6BDv9gNl2ytEXSHSL) | 3:06 | 2022-02-17 | 2022-06-03 |
 | [Fruit Market Jazz](https://open.spotify.com/track/2rUed9JkrDpHCU0KR1AYEh) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Fruit Market Jazz](https://open.spotify.com/album/7mTU3mxr061prOhmRKuHzQ) | 1:59 | 2022-02-17 | 2023-03-21 |
 | [Gone Surfing](https://open.spotify.com/track/6K8z3GPdPLr6DqDxiluhyk) | [Hemai](https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz) | [Strange Beauty Instrumental](https://open.spotify.com/album/3ZoOg4mHUlrcATrLte79uZ) | 3:14 | 2022-04-22 | 2022-06-03 |

@@ -4,7 +4,7 @@
 
 > Digging deep into the history of 10s pop\. Cover: Ellie Goulding.
 
-696 songs - 1 day 17 hr 33 min
+697 songs - 1 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Change Your Life](https://open.spotify.com/track/4QN7nPeo5KDAM6HiRI0NJU) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [DNA: The Deluxe Edition](https://open.spotify.com/album/0SHgpefjbVvnR2NnMPj1ve) | 3:21 | 2021-08-10 | 2022-07-29 |
 | [Change Your Life](https://open.spotify.com/track/1nDQ9EvOmLj1dYKRbbqcoU) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [DNA \(Expanded Edition\)](https://open.spotify.com/album/7B8LPRplA8cByTSzgQvdxd) | 3:25 | 2022-05-11 |  |
 | [Chasing Highs](https://open.spotify.com/track/1eUziV5HIH10UsCIEHk1sm) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Chasing Highs](https://open.spotify.com/album/4xNtQAkdGO9g6UY60xsOaQ) | 3:15 | 2021-08-10 | 2022-07-29 |
-| [Chasing Highs](https://open.spotify.com/track/3GJjiToqnCxTm5rOaqoxdi) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Chasing Highs](https://open.spotify.com/album/1nF6jsEiGpdjS7gG3DPaIP) | 3:15 | 2022-05-11 |  |
+| [Chasing Highs](https://open.spotify.com/track/3GJjiToqnCxTm5rOaqoxdi) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Chasing Highs](https://open.spotify.com/album/1nF6jsEiGpdjS7gG3DPaIP) | 3:15 | 2022-05-11 | 2023-04-21 |
+| [Chasing Highs](https://open.spotify.com/track/3TVpk6F6UTLG6uhAxbdUWm) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Chasing Highs \(Sped Up Version\)](https://open.spotify.com/album/1h1EQkgVenPa8PTWr4E2Vr) | 3:15 | 2022-11-29 |  |
 | [Chasing Highs](https://open.spotify.com/track/4uGXaJdunGiQJyNpkPrKqn) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Sport rentrée 2020](https://open.spotify.com/album/6O7b1MtNiMEkghznrxGly5) | 3:15 | 2022-05-11 | 2022-11-13 |
 | [Cheers \(Drink To That\)](https://open.spotify.com/track/3DDBW9yeXc0RQUAOBeKYti) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud \(Japan Version\)](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) | 4:21 | 2022-05-11 |  |
 | [Cheers \(Drink To That\)](https://open.spotify.com/track/5Lm8wha7kmEuqyjJ237HNM) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp) | 4:21 | 2021-08-10 | 2022-07-29 |

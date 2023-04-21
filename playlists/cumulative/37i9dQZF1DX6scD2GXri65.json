@@ -209,6 +209,28 @@
     },
     {
       "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/1cXegml0Di3ZWtZn13OaBt"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145650,
+      "name": "Catch Me If You Can",
+      "url": "https://open.spotify.com/track/1HNFlssmxq6pvQKsJbOJhT"
+    },
+    {
+      "album": {
         "name": "Cello",
         "url": "https://open.spotify.com/album/0EO8XSWJRvJpF68ODjYO1S"
       },
@@ -2096,7 +2118,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 187741,
       "name": "The Keymaker",
       "url": "https://open.spotify.com/track/54Qx60cjse61OwpSV3uFV0"
@@ -2504,7 +2526,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 256000,
       "name": "Unsung Heroes",
       "url": "https://open.spotify.com/track/75QWJJ6axfkD7KqSYVqmAJ"
@@ -2706,6 +2728,28 @@
       "duration_ms": 170326,
       "name": "You're My Angel - Hypnose Remix Edit",
       "url": "https://open.spotify.com/track/1mCx32u41MITwQIlYTeZ6x"
+    },
+    {
+      "album": {
+        "name": "Zyzzbrah (Wild Angel Remix)",
+        "url": "https://open.spotify.com/album/2ENRbO0fXogFaE7EO7hl4X"
+      },
+      "artists": [
+        {
+          "name": "Tevvez",
+          "url": "https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44"
+        },
+        {
+          "name": "Wild Angel",
+          "url": "https://open.spotify.com/artist/74gkRyj7Ewp0kcakS0xTiL"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174169,
+      "name": "Zyzzbrah - Wild Angel Remix",
+      "url": "https://open.spotify.com/track/481IUBPpXiTWn8G9Mm52bK"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6scD2GXri65"

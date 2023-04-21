@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 
 > Trending dance hits in India\. Cover: Deepika Padukone & Shahrukh Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,155 likes - 36 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,224 likes - 36 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 | 7 | [Jugnu](https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Jugnu](https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP) | 3:50 |
 | 8 | [Dilbar](https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD) | 2:48 |
 | 9 | [Jadi Buti \(feat\. Rashmeet Kaur\)](https://open.spotify.com/track/58PeAWeOz9yVemSLoeYyKZ) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g) | 2:43 |
-| 10 | [Ek Meri Akh Kashni Trap Mix](https://open.spotify.com/track/3NGH0wmZ0pT3Z1LCPOWWtt) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Dixit Seth](https://open.spotify.com/artist/2vKDhoyeBijAcWJzSiOny4) | [Punjabi Retro Trap Mix](https://open.spotify.com/album/6qeYUrQzY8NZJlAFBKaa1v) | 1:45 |
+| 10 | [Ek Meri Akh Kashni \(Trap Mix\)](https://open.spotify.com/track/35n9OJm9vnqpFQ6PjuMoxV) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Dixit Seth](https://open.spotify.com/artist/2vKDhoyeBijAcWJzSiOny4) | [Ek Meri Akh Kashni \- The Versions](https://open.spotify.com/album/5et8tafg4IcYJOF59O06nE) | 1:45 |
 | 11 | [Bass Rani](https://open.spotify.com/track/6uiTWAJmiA7UO0bb80982m) | [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Bass Rani](https://open.spotify.com/album/6qz7Uf0jWIEaAr7vEr5cYY) | 2:26 |
 | 12 | [Tu Kahaan \- 1 Min Music](https://open.spotify.com/track/1CPhllOfBgOtTTDe05tSEw) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) | [Tu Kahaan \(1 Min Music\)](https://open.spotify.com/album/5QdhLeikSse9wFEokUM2Gw) | 1:00 |
 | 13 | [Dillagi](https://open.spotify.com/track/3kA53abqN88SJ06rXMd3np) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Dillagi](https://open.spotify.com/album/6XpGHTIMmOITEcwG5z86NR) | 1:24 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 | 35 | [Sauda](https://open.spotify.com/track/6BgHJll6fCYkbBaW52FACV) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Sauda](https://open.spotify.com/album/7mbrC2oMrMrm034VVrVo9F) | 4:37 |
 | 36 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 |
 
-Snapshot ID: `MTY3ODc5MTE3NiwwMDAwMDAwMDg0MTRmMjAxNzNlN2M0NWM2NzlhNTNmZjYxYmU3ZWU1`
+Snapshot ID: `MTY3ODc5MTE3NiwwMDAwMDAwMDQ5MmZlNDY5ZWIwNWQwNTE1MDUzZWVmODQzMTAyZjQ3`

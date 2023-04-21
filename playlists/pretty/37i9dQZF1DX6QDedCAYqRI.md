@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,350 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,355 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 | 61 | [Rumours](https://open.spotify.com/track/122HY5fBoA7FzHiognH3PP) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [Bad Habits](https://open.spotify.com/album/52tqBFO4WgbW0C1WZzItgE) | 3:11 |
 | 62 | [Love Pocket](https://open.spotify.com/track/6cjZgQBK1bXdbcFYjHxMAy) | [SaraCortez](https://open.spotify.com/artist/6r14qqaIQA7lLEezQkQ8Hm) | [Love Pocket](https://open.spotify.com/album/05rkn9YXm66phKIK5qMVzD) | 2:55 |
 | 63 | [Lovers](https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:35 |
-| 64 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [sadHAPPY](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
+| 64 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
 | 65 | [Corset.](https://open.spotify.com/track/4OUWZo6p7Kf7Oqe9dovS00) | [Keigo.](https://open.spotify.com/artist/3YkzB5L1vnpsFgIS849R7y), [Paulo Herrera](https://open.spotify.com/artist/3m1FQvDukcgiSWImE3Flqb) | [Corset.](https://open.spotify.com/album/6tK73Hl7cCf9E0PHmQzYtS) | 2:07 |
 | 66 | [Bottle Tops](https://open.spotify.com/track/0DU88MhtGfzyCvt3YZijfL) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68), [Mononoke](https://open.spotify.com/artist/7JDpmpWfaFoeSTeKP5l881) | [Every Night Another But Not You](https://open.spotify.com/album/3sQW3x8p9ymXu4xMSrWtEB) | 4:37 |
 | 67 | [White Noise](https://open.spotify.com/track/6rCjkeurS1X32ZQZyrLtR1) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Words I Never Said](https://open.spotify.com/album/6zn2bIrOrQ78RoNRG5SxJK) | 3:42 |

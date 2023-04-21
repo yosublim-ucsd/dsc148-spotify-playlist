@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,088 songs - 2 day 10 hr 52 min
+1,089 songs - 2 day 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Apofasi](https://open.spotify.com/track/0OEChhNS8PjgKVm0tdJBAQ) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Green Goblin](https://open.spotify.com/album/0z4VAJn6GjgtoDFP7DV1vh) | 2:28 | 2022-02-26 | 2022-02-28 |
 | [Apopse](https://open.spotify.com/track/0GXrOfGwmN3Myw5U4o87jq) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Negros Tou Moria](https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1), [Skive](https://open.spotify.com/artist/1zDXh0x75B4zPVsAHDuTnO) | [Romeo](https://open.spotify.com/album/2OnQLL9RttxYadI0WMt5MU) | 3:57 | 2022-07-08 | 2022-07-18 |
 | [Apostash Anapnohs](https://open.spotify.com/track/0HUVuymkKobJrTUtcMMUbO) | [FANN](https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269), [Greco Beats](https://open.spotify.com/artist/7x4X4E8agWghoTDdHrUfLV) | [Kyrios Nekrikos Part I](https://open.spotify.com/album/0Is0VPWEV0FhVMfAp0vqwZ) | 2:54 | 2023-01-20 | 2023-01-22 |
-| [Apothimeno](https://open.spotify.com/track/5YxvdEAIKhCAPBZNNPnTGe) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [Issy Beats](https://open.spotify.com/artist/6symUxu7p0bp1z4kkyFGk6) | [Apothimeno](https://open.spotify.com/album/0HCMFcYvI1k7DIRUyvguMS) | 3:02 | 2022-10-29 |  |
+| [Apothimeno](https://open.spotify.com/track/5YxvdEAIKhCAPBZNNPnTGe) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [Issy Beats](https://open.spotify.com/artist/6symUxu7p0bp1z4kkyFGk6) | [Apothimeno](https://open.spotify.com/album/0HCMFcYvI1k7DIRUyvguMS) | 3:02 | 2022-10-29 | 2023-04-21 |
 | [Areti](https://open.spotify.com/track/2rbSs3LMmRjqvE8OkjHlu9) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd) | [Super Trapper II](https://open.spotify.com/album/2ceBhmjSZM70fotWrLnsUV) | 3:00 | 2021-09-04 | 2022-05-02 |
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 | 2022-10-16 |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-26 |
@@ -636,6 +636,7 @@
 | [MHB](https://open.spotify.com/track/5RUaVfg9K8BxadxIIg1k8C) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Chico Beatz](https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY) | [BOSSIDONAS](https://open.spotify.com/album/7xpeeJKLPPbfvrKPjSYkHz) | 2:46 | 2022-07-02 | 2022-07-08 |
 | [Mi Koitas Tin Ora](https://open.spotify.com/track/6750yVgCrAoOp3seWLy2tC) | [Rack](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [Rackattack \(Deluxe Edition\)](https://open.spotify.com/album/5T6qUQtVUyNagAK4955FV1) | 3:09 | 2021-08-21 | 2021-09-20 |
 | [Mi Milas](https://open.spotify.com/track/0XEvweAMtxdcSOfNdrF1sT) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Mi Milas](https://open.spotify.com/album/4QRjhM7jDsfWukybZStXEX) | 2:58 | 2023-04-05 |  |
+| [Mia Gineka](https://open.spotify.com/track/4uytPup7KIRhUZasViPFDr) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV) | [Mia Gineka](https://open.spotify.com/album/4sOCaCnJWsK5OctMniqruI) | 2:31 | 2023-04-20 |  |
 | [Mia Klisi](https://open.spotify.com/track/38ztkalYixz4hYX3R9K27K) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Immortale \(Deluxe Edition\)](https://open.spotify.com/album/4pG7RebITssOm6t4w9TNL8) | 2:30 | 2021-06-20 | 2021-06-22 |
 | [Mia Zoi](https://open.spotify.com/track/0iP2NME41Inz2Hb2tS6sKJ) | [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9), [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw) | [Aliteia](https://open.spotify.com/album/0P6s8gS6LcV2V1tkDl7cXY) | 3:51 | 2021-04-18 | 2022-05-02 |
 | [MIAMI](https://open.spotify.com/track/4zk4Q1nwAC0zB2maZ2zyW9) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [1987](https://open.spotify.com/album/0tIrawhAe8o5l0kU66hVi4) | 2:13 | 2022-01-14 | 2022-04-29 |

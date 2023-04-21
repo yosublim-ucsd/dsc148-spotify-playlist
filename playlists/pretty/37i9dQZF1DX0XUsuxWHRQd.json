@@ -1,12 +1,12 @@
 {
   "description": "New music from NLE Choppa, Ice Spice and Fivio Foreign.",
-  "num_followers": 15229283,
+  "num_followers": 15232008,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTc1NTgwMiwwMDAwMDAwMGE3ZWExNjY4ZjZjZjQyZWMwNGQyY2VkZjNkMWU3Mzg3",
+  "snapshot_id": "MTY4MTk2MzIwMCwwMDAwMDAwMGMzYTdlMDE5YmM3ZmE1ODUwZTk2ODE0YzM5NDU1Y2Qw",
   "tracks": [
     {
       "added_at": "2023-04-17 18:23:22",
@@ -187,6 +187,26 @@
       "duration_ms": 238253,
       "name": "Private Landing (feat. Justin Bieber & Future)",
       "url": "https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf"
+    },
+    {
+      "added_at": "2023-04-20 04:00:00",
+      "album": {
+        "name": "Operation Stackola",
+        "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
+      },
+      "artists": [
+        {
+          "name": "Luniz",
+          "url": "https://open.spotify.com/artist/3z3g65U7mmyyBmmDfsQK9x"
+        },
+        {
+          "name": "Michael Marshall",
+          "url": "https://open.spotify.com/artist/2FT75iYuWmycqYrXbVD9cn"
+        }
+      ],
+      "duration_ms": 253533,
+      "name": "I Got 5 On It",
+      "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
     },
     {
       "added_at": "2023-04-17 18:23:22",

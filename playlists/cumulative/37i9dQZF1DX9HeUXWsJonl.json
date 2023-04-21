@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "Binetna Layem",
+        "url": "https://open.spotify.com/album/6Ut6jmti17RQK7YJLyzdGs"
+      },
+      "artists": [
+        {
+          "name": "D-Boy",
+          "url": "https://open.spotify.com/artist/5lzHwZFme9EybZygeGKMA0"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202212,
+      "name": "Binetna Layem",
+      "url": "https://open.spotify.com/track/1jAQdXTEXfuVHALTavUjM4"
+    },
+    {
+      "album": {
         "name": "BLA BLA",
         "url": "https://open.spotify.com/album/5qy4gJpXBGvCqlAM7uyVTj"
       },
@@ -1702,7 +1720,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 209571,
       "name": "Mani Nassi - \u0645\u0627\u0646\u0649 \u0646\u0627\u0633\u0649",
       "url": "https://open.spotify.com/track/3GdU3rvO5odP2AIGSmm24z"

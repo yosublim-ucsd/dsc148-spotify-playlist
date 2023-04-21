@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 20346,
+  "num_followers": 20387,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MDI1ODIzNCwwMDAwMDAwMGJiMWZjYTNkZjJhOTVhNDY3MTkyYmZkNjc5ZWM1MDU3",
+  "snapshot_id": "MTY4MDI1ODIzNCwwMDAwMDAwMDU1MWM4YjFiMDZmMTkwMGFhNzZjNjMzYTQ0NzlmNGRm",
   "tracks": [
     {
       "added_at": "2023-03-31 10:23:54",
@@ -691,18 +691,22 @@
     {
       "added_at": "2023-03-31 10:23:54",
       "album": {
-        "name": "company",
-        "url": "https://open.spotify.com/album/0MWs86VIV9f589mPhhcxxF"
+        "name": "Yearbook 2022",
+        "url": "https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4"
       },
       "artists": [
         {
-          "name": "Sweet The Kid",
-          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
+          "name": "015B",
+          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
+        },
+        {
+          "name": "Dawon",
+          "url": "https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa"
         }
       ],
-      "duration_ms": 128695,
-      "name": "company",
-      "url": "https://open.spotify.com/track/6FPhihTO2c9rdew9tt8Bai"
+      "duration_ms": 195187,
+      "name": "Not Bad (feat. Dawon)",
+      "url": "https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ"
     },
     {
       "added_at": "2023-03-31 10:23:54",
@@ -727,22 +731,18 @@
     {
       "added_at": "2023-03-31 10:23:54",
       "album": {
-        "name": "Yearbook 2022",
-        "url": "https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4"
+        "name": "company",
+        "url": "https://open.spotify.com/album/0MWs86VIV9f589mPhhcxxF"
       },
       "artists": [
         {
-          "name": "015B",
-          "url": "https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7"
-        },
-        {
-          "name": "Dawon",
-          "url": "https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa"
+          "name": "Sweet The Kid",
+          "url": "https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq"
         }
       ],
-      "duration_ms": 195187,
-      "name": "Not Bad (feat. Dawon)",
-      "url": "https://open.spotify.com/track/04mktU1pvPJmwtO43xeYmJ"
+      "duration_ms": 128695,
+      "name": "company",
+      "url": "https://open.spotify.com/track/6FPhihTO2c9rdew9tt8Bai"
     },
     {
       "added_at": "2023-03-31 10:23:54",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-03-31 10:23:54",
       "album": {
+        "name": "BOYCOLD",
+        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 193882,
+      "name": "Get That Money",
+      "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
+    },
+    {
+      "added_at": "2023-03-31 10:23:54",
+      "album": {
         "name": "Not my fault",
         "url": "https://open.spotify.com/album/2JkrPV9FwfFQd5EI8Haau9"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 214319,
       "name": "I wonder (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/5MHGisZlUlK6btdLRBCpYr"
-    },
-    {
-      "added_at": "2023-03-31 10:23:54",
-      "album": {
-        "name": "BOYCOLD",
-        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        }
-      ],
-      "duration_ms": 193882,
-      "name": "Get That Money",
-      "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
     },
     {
       "added_at": "2023-03-31 10:23:54",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-03-31 10:23:54",
       "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 160443,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1"
+    },
+    {
+      "added_at": "2023-03-31 10:23:54",
+      "album": {
         "name": "Hated you",
         "url": "https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 209433,
       "name": "Hated you",
       "url": "https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx"
-    },
-    {
-      "added_at": "2023-03-31 10:23:54",
-      "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/70lpefg9cR9CQjbFfzNx8g"
-      },
-      "artists": [
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 160443,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1"
     },
     {
       "added_at": "2023-03-31 10:23:54",

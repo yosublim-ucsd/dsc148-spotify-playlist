@@ -331,6 +331,24 @@
     },
     {
       "album": {
+        "name": "GLBTM (Studio Outtakes)",
+        "url": "https://open.spotify.com/album/1gDbMxDY14mf9OZzpQfON0"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158790,
+      "name": "GLBTM (Studio Outtakes) [Edit]",
+      "url": "https://open.spotify.com/track/6gLkmtXYQHitabChjGfiqy"
+    },
+    {
+      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },

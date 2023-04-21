@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV?si=ENdEQvTgSRy_h1e6MKFsqQ\">Felo Le Tee</a>.",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8?si=7XYZaReXRbqCSIdbp-n5tQ\">Mas Musiq</a>.",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -2333,6 +2333,40 @@
     },
     {
       "album": {
+        "name": "Baja Ko Pele",
+        "url": "https://open.spotify.com/album/5rDVWC3IBpWunIKPEx5PXd"
+      },
+      "artists": [
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "M.J",
+          "url": "https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "Shaunmusiq",
+          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
+        },
+        {
+          "name": "Ftears",
+          "url": "https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275105,
+      "name": "Baja Ko Pele",
+      "url": "https://open.spotify.com/track/6RzTv3JiPndZpv0Lq3kGHO"
+    },
+    {
+      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/4GSO0sVELc1GIiJQjzqt8E"
       },
@@ -3362,7 +3396,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 420016,
       "name": "Blue String",
       "url": "https://open.spotify.com/track/3lWrCS93Zib7rCBLZOWAt7"
@@ -14339,6 +14373,36 @@
     },
     {
       "album": {
+        "name": "Midnight In Sunnyside 2",
+        "url": "https://open.spotify.com/album/7e3NSMRQiXtYirVHJLoriX"
+      },
+      "artists": [
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        },
+        {
+          "name": "Shaunmusiq",
+          "url": "https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85"
+        },
+        {
+          "name": "Ftears",
+          "url": "https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370553,
+      "name": "Ndiya (feat. Xduppy, ShaunMusiQ & Ftears)",
+      "url": "https://open.spotify.com/track/5gQGF1NUJxMk3LA4efkDVe"
+    },
+    {
+      "album": {
         "name": "Ndiyo",
         "url": "https://open.spotify.com/album/4pioIZJe3MmodFaBlIBv3w"
       },
@@ -15285,6 +15349,28 @@
     },
     {
       "album": {
+        "name": "Ngyakuthanda",
+        "url": "https://open.spotify.com/album/5wwvIzREBJim4vu10XXfyk"
+      },
+      "artists": [
+        {
+          "name": "Dj nsi_man",
+          "url": "https://open.spotify.com/artist/3F9pLYwzEp1DMaC742g9HY"
+        },
+        {
+          "name": "Mr JazziQ",
+          "url": "https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182335,
+      "name": "Ngyakuthanda",
+      "url": "https://open.spotify.com/track/2f1BklaRXoAYyXUnuqHt0R"
+    },
+    {
+      "album": {
         "name": "Nice (Kiss)",
         "url": "https://open.spotify.com/album/1c92y23VH1pBjyR4LOhJQm"
       },
@@ -15338,6 +15424,32 @@
       "duration_ms": 487187,
       "name": "Ningalali Emakhaya (feat. Zan'Ten & Ta Skippa)",
       "url": "https://open.spotify.com/track/5dcRkfX5Uzo9CNTafinRzD"
+    },
+    {
+      "album": {
+        "name": "NINI na NINI",
+        "url": "https://open.spotify.com/album/0R4G8NI4IjNRcqqrCBRUCr"
+      },
+      "artists": [
+        {
+          "name": "Mas Musiq",
+          "url": "https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8"
+        },
+        {
+          "name": "Daliwonga",
+          "url": "https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn"
+        },
+        {
+          "name": "Howard Gomba",
+          "url": "https://open.spotify.com/artist/6BxBeI7yJjq876ErPGPatm"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402896,
+      "name": "Nini Nannini (feat. Daliwonga & Howard Gomba)",
+      "url": "https://open.spotify.com/track/3MqIKE7r4Pjag6xaEgOHlD"
     },
     {
       "album": {
@@ -19882,7 +19994,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 378978,
       "name": "Tetema",
       "url": "https://open.spotify.com/track/5emv0gRnEk4dVXWETqewAC"
@@ -22398,7 +22510,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 169911,
       "name": "UNAVAILABLE (feat. Musa Keys)",
       "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
@@ -23550,7 +23662,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 386441,
       "name": "Waze wamuhle",
       "url": "https://open.spotify.com/track/0NOynuuhIhaLFABegJ0TyS"
@@ -23988,7 +24100,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 381544,
       "name": "Wiralang",
       "url": "https://open.spotify.com/track/03k3i0uy4D1ZB3vNiV0aGA"
@@ -24022,6 +24134,32 @@
       "duration_ms": 355758,
       "name": "Woza La",
       "url": "https://open.spotify.com/track/3xPsHIBAFsl2x1WYiU91F1"
+    },
+    {
+      "album": {
+        "name": "WOZAAAA",
+        "url": "https://open.spotify.com/album/1gOFVFiS1y9OBVTYb4kPzy"
+      },
+      "artists": [
+        {
+          "name": "Mcdeez Fboy",
+          "url": "https://open.spotify.com/artist/2yxRzYUynwWwvAOzeKngNk"
+        },
+        {
+          "name": "Touch of Soul",
+          "url": "https://open.spotify.com/artist/4WA0HMLh4iBIpRsArTukib"
+        },
+        {
+          "name": "DrummeRTee924",
+          "url": "https://open.spotify.com/artist/0ZZCEY4BIDjUjHmKcty31P"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360059,
+      "name": "WOZAAAA",
+      "url": "https://open.spotify.com/track/1MMiMeLNPhmWmBDmWnO9zF"
     },
     {
       "album": {

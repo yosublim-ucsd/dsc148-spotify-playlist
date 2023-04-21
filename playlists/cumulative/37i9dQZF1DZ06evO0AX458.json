@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Touch\u00e9 Amor\u00e9 / La Dispute Split",
+        "url": "https://open.spotify.com/album/2jP8JB4JR5B9nqS1rn3kyi"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103520,
+      "name": "I'll Deserve Just That",
+      "url": "https://open.spotify.com/track/65j0RolSwc2Cn44tsaHiv9"
+    },
+    {
+      "album": {
         "name": "Searching For A Pulse/The Worth Of The World",
         "url": "https://open.spotify.com/album/7zKDC3zIId5lJy0ycwPFDD"
       },

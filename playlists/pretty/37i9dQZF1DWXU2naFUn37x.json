@@ -1,35 +1,15 @@
 {
-  "description": "La casa dello street rap italiano. Cover: Sfera Ebbasta, Luciano",
-  "num_followers": 834669,
+  "description": "La casa dello street rap italiano. Cover: Geolier",
+  "num_followers": 834803,
   "original_name": "Street Culto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTczNjQ5MSwwMDAwMDAwMDc4ODUzN2JlODU0OTViNGRjOTRmZmI0MDgxNjZkOWJj",
+  "snapshot_id": "MTY4MjAyODA2MCwwMDAwMDAwMDM0ZmY3YmMwNWRlOWJhNjM1NDYwNjdkNTc1YjQ3NTFi",
   "tracks": [
     {
-      "added_at": "2023-04-17 13:01:31",
-      "album": {
-        "name": "Orange",
-        "url": "https://open.spotify.com/album/356cpEJ1ccLK6aAx99hWJK"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 200357,
-      "name": "Orange",
-      "url": "https://open.spotify.com/track/7jvwORp293fGCP6KfmE8aQ"
-    },
-    {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Pel\u00e9",
         "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
@@ -49,7 +29,43 @@
       "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/356cpEJ1ccLK6aAx99hWJK"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 200357,
+      "name": "Orange",
+      "url": "https://open.spotify.com/track/7jvwORp293fGCP6KfmE8aQ"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
+        "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 145124,
+      "name": "SOLDATI",
+      "url": "https://open.spotify.com/track/1SNjXnEMWjEYRLAteXJpTK"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Ghettosuperstar",
         "url": "https://open.spotify.com/album/4EjqOuqjcPm50M6cMZwGYN"
@@ -69,7 +85,7 @@
       "url": "https://open.spotify.com/track/1sMzjYyFSWexHB145BgD6O"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Batman",
         "url": "https://open.spotify.com/album/41EM84IPIMmhqzbz3KrAZm"
@@ -89,23 +105,7 @@
       "url": "https://open.spotify.com/track/4jEIiFxvacRKVIIlAw3uLY"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
-      "album": {
-        "name": "BOSS",
-        "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 144930,
-      "name": "BOSS",
-      "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
-    },
-    {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Yamamay",
         "url": "https://open.spotify.com/album/4yMQk3qc1pbUOLjgRN1gIB"
@@ -121,43 +121,23 @@
       "url": "https://open.spotify.com/track/6P68S7IrfuDyXOmhUpwvxZ"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
-        "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
+        "name": "BOSS",
+        "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
       },
       "artists": [
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
         }
       ],
-      "duration_ms": 145124,
-      "name": "SOLDATI",
-      "url": "https://open.spotify.com/track/1SNjXnEMWjEYRLAteXJpTK"
+      "duration_ms": 144930,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
-      "album": {
-        "name": "Nove Chiamate",
-        "url": "https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy"
-      },
-      "artists": [
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 181668,
-      "name": "Arai (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c"
-    },
-    {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Il Doc 3 (feat. Tony Effe, Slings & MamboLosco)",
         "url": "https://open.spotify.com/album/0Us36d7YZAKpS3YjY1oVNk"
@@ -193,7 +173,7 @@
       "url": "https://open.spotify.com/track/3yjVLPigd6HDjBpJMYEUih"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "ZONDA",
         "url": "https://open.spotify.com/album/0XC7jYCEXjyK9Skl7ydilK"
@@ -209,7 +189,43 @@
       "url": "https://open.spotify.com/track/28Q3CFgOA5EM2bmKaB9d53"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
+        "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "2 SECONDI",
+      "url": "https://open.spotify.com/track/5EL2pGymrFM9jpVjBbsZhn"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Nove Chiamate",
+        "url": "https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy"
+      },
+      "artists": [
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 181668,
+      "name": "Arai (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "BRUTTE COSE (feat. MINUR)",
         "url": "https://open.spotify.com/album/5JFv3cliyAn44LE6HeYSID"
@@ -233,23 +249,23 @@
       "url": "https://open.spotify.com/track/48S401yC1PCMmueiXPuB6F"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Avanti",
-        "url": "https://open.spotify.com/album/4c1n4Fmve8p70NESEBivV3"
+        "name": "Pararara",
+        "url": "https://open.spotify.com/album/3wy6SeCkIKp1AipBNAJx8q"
       },
       "artists": [
         {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
         }
       ],
-      "duration_ms": 150731,
-      "name": "Avanti",
-      "url": "https://open.spotify.com/track/32Qx2Az9vNtdAPw1KxKoa8"
+      "duration_ms": 163118,
+      "name": "Pararara",
+      "url": "https://open.spotify.com/track/5Vio7g8p9zDEdJY03cDF2G"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Salvatore Vive",
         "url": "https://open.spotify.com/album/7H6877riJIFSominCYGZx8"
@@ -269,7 +285,7 @@
       "url": "https://open.spotify.com/track/5OSdAnnPdKg2KvsUjL1uXl"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "QUELLO VERO",
         "url": "https://open.spotify.com/album/5sKFWHoVyf9t65zdLmx6wg"
@@ -289,59 +305,7 @@
       "url": "https://open.spotify.com/track/4lZ87DJUjjAEcOzF6Uhyfj"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
-      "album": {
-        "name": "Pararara",
-        "url": "https://open.spotify.com/album/3wy6SeCkIKp1AipBNAJx8q"
-      },
-      "artists": [
-        {
-          "name": "N\u00e9za",
-          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
-        }
-      ],
-      "duration_ms": 163118,
-      "name": "Pararara",
-      "url": "https://open.spotify.com/track/5Vio7g8p9zDEdJY03cDF2G"
-    },
-    {
-      "added_at": "2023-04-17 13:01:31",
-      "album": {
-        "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
-        "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "2 SECONDI",
-      "url": "https://open.spotify.com/track/5EL2pGymrFM9jpVjBbsZhn"
-    },
-    {
-      "added_at": "2023-04-17 13:01:31",
-      "album": {
-        "name": "Mentalit\u00e9 RMX (feat. ASHE 22)",
-        "url": "https://open.spotify.com/album/0M1NDlEKQ03aDlPqHOfkre"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "ASHE 22",
-          "url": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
-        }
-      ],
-      "duration_ms": 183092,
-      "name": "Mentalit\u00e9 RMX (feat. ASHE 22)",
-      "url": "https://open.spotify.com/track/47XiTkMb4QCa2iMGAeRhOp"
-    },
-    {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Trafficante",
         "url": "https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB"
@@ -357,23 +321,7 @@
       "url": "https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
-      "album": {
-        "name": "Milano Demons",
-        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 167804,
-      "name": "Cup",
-      "url": "https://open.spotify.com/track/5tZLWsGOFHRBxZ96ZRe67z"
-    },
-    {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "EYES OF THE TIGER",
         "url": "https://open.spotify.com/album/5R6eqKWeUb9Suxt6CP6yR1"
@@ -393,7 +341,79 @@
       "url": "https://open.spotify.com/track/1OWN1K4Yb1Sd8g4xDnQg7R"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 167804,
+      "name": "Cup",
+      "url": "https://open.spotify.com/track/5tZLWsGOFHRBxZ96ZRe67z"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Mentalit\u00e9 RMX (feat. ASHE 22)",
+        "url": "https://open.spotify.com/album/0M1NDlEKQ03aDlPqHOfkre"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "ASHE 22",
+          "url": "https://open.spotify.com/artist/3tTvSeZiFDP3CY5EdPGcR4"
+        }
+      ],
+      "duration_ms": 183092,
+      "name": "Mentalit\u00e9 RMX (feat. ASHE 22)",
+      "url": "https://open.spotify.com/track/47XiTkMb4QCa2iMGAeRhOp"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "WAO",
+        "url": "https://open.spotify.com/album/6nMTRVyMQdql9a5Afk1lOD"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Blssd",
+          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
+        }
+      ],
+      "duration_ms": 149464,
+      "name": "WAO",
+      "url": "https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Avanti",
+        "url": "https://open.spotify.com/album/4c1n4Fmve8p70NESEBivV3"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        }
+      ],
+      "duration_ms": 150731,
+      "name": "Avanti",
+      "url": "https://open.spotify.com/track/32Qx2Az9vNtdAPw1KxKoa8"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Connexion",
         "url": "https://open.spotify.com/album/3bPPFbT0uMsq5Ma3IoeCUI"
@@ -413,7 +433,7 @@
       "url": "https://open.spotify.com/track/3OiVezwUqRu6R5byvFV6qA"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Notte in Caserma",
         "url": "https://open.spotify.com/album/38Ul6msWrKeRIlUP60pMU3"
@@ -429,31 +449,7 @@
       "url": "https://open.spotify.com/track/7e13N2FGtTbGDLToobRfxw"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
-      "album": {
-        "name": "Bandito",
-        "url": "https://open.spotify.com/album/4W80htSBryS02rTJg0nXUh"
-      },
-      "artists": [
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
-        },
-        {
-          "name": "Nardi",
-          "url": "https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG"
-        },
-        {
-          "name": "Finesse",
-          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
-        }
-      ],
-      "duration_ms": 159272,
-      "name": "Bandito",
-      "url": "https://open.spotify.com/track/04emP3rMNw3yi1E7Q4ZoTI"
-    },
-    {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Mari\u00e8 (feat. Kassimi)",
         "url": "https://open.spotify.com/album/47yhTU5uScGBADR14wgyC3"
@@ -473,7 +469,27 @@
       "url": "https://open.spotify.com/track/5MfWyat51dW4EnIAl3HL3j"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Karma (feat. Rondodasosa)",
+        "url": "https://open.spotify.com/album/70fx0AktGUG48bJp4vlh5Y"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "duration_ms": 226863,
+      "name": "Karma (feat. Rondodasosa)",
+      "url": "https://open.spotify.com/track/5O3JxKrBqIQais5ZgMx1Qp"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "20 ALBANESI",
         "url": "https://open.spotify.com/album/6vFxXGFvqMTjm7IIgXg16q"
@@ -489,7 +505,7 @@
       "url": "https://open.spotify.com/track/0D2U3OZOuOuYptEF4Q6ziQ"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Lacrime (feat. Zeta Cooper) [D\u00e8sol\u00e8 RMX]",
         "url": "https://open.spotify.com/album/0nRRbsuMaZ9bGoWkczXUqD"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/4wjV4XQBpZuGEPVSgXdQPO"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Sharm El Sheikh",
         "url": "https://open.spotify.com/album/2nS6UzfcpGjaukHeQOiofW"
@@ -525,7 +541,7 @@
       "url": "https://open.spotify.com/track/1mmYcbjgplZto84xmMFJA3"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "EP2",
         "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "ALBV",
         "url": "https://open.spotify.com/album/7CIlHDEtln2cbqATa3uRoF"
@@ -561,7 +577,7 @@
       "url": "https://open.spotify.com/track/11CLbFT3tm8UTU2b0XNd79"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Braquages",
         "url": "https://open.spotify.com/album/0W0T9Tpqc5h82PiBZY27CJ"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/5X4mISo6fLNbc2cn6W38A7"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Nove Chiamate",
         "url": "https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy"
@@ -597,7 +613,23 @@
       "url": "https://open.spotify.com/track/0GInNohJz3OQ3iPNJJob5h"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Trendsetter",
+        "url": "https://open.spotify.com/album/7BnUlh1mAu8h3t9tSvuFJz"
+      },
+      "artists": [
+        {
+          "name": "Vaz T\u00e8",
+          "url": "https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY"
+        }
+      ],
+      "duration_ms": 122677,
+      "name": "Trendsetter",
+      "url": "https://open.spotify.com/track/2SektBPshBcB4rLKQUxDQY"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Snobbava",
         "url": "https://open.spotify.com/album/0I4nw0CPX7J1MLRzy9jBXs"
@@ -613,7 +645,7 @@
       "url": "https://open.spotify.com/track/7KGOocrNaKZBPQr4VLDz49"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Milano Demons",
         "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
@@ -633,7 +665,7 @@
       "url": "https://open.spotify.com/track/1MboxS3hV7Wr8UVO59uRth"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "PLAYA",
         "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
@@ -649,51 +681,7 @@
       "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
-      "album": {
-        "name": "DON DADA",
-        "url": "https://open.spotify.com/album/1aElHPJaZyQZkJ2OIwXWAu"
-      },
-      "artists": [
-        {
-          "name": "Don Joe",
-          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
-        },
-        {
-          "name": "Vale pain",
-          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
-        }
-      ],
-      "duration_ms": 165418,
-      "name": "DIE YOUNG (feat. Vale Pain & Kid Yugi)",
-      "url": "https://open.spotify.com/track/2W8RVRL10rvjvt2WS5cZGi"
-    },
-    {
-      "added_at": "2023-04-17 13:01:31",
-      "album": {
-        "name": "TRENCHES BABY",
-        "url": "https://open.spotify.com/album/79WpLPCSS0jwoYJHQjFcL7"
-      },
-      "artists": [
-        {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
-        },
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 168275,
-      "name": "READY 4 WAR (feat. Artie 5ive)",
-      "url": "https://open.spotify.com/track/11bmZlbL7pICvsYXQxYiNp"
-    },
-    {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "One Of A Kind",
         "url": "https://open.spotify.com/album/2IhLU2znWzCRnwUthzjrRe"
@@ -721,7 +709,51 @@
       "url": "https://open.spotify.com/track/57ubCgw0giJhVSayXBJ0xH"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Players Club '23 (Knights of the Posse) (feat. Nerissima Serpe, Artie 5ive, Tony Boy, Papa V, Low Red, Digital Astro & Kid Yugi)",
+        "url": "https://open.spotify.com/album/1Df8xOZdbcPDUdOPsTrEVC"
+      },
+      "artists": [
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Low-Red",
+          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
+        },
+        {
+          "name": "Digital Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "duration_ms": 358413,
+      "name": "Players Club '23 (Knights of the Posse) (feat. Nerissima Serpe, Artie 5ive, Tony Boy, Papa V, Low Red, Digital Astro & Kid Yugi)",
+      "url": "https://open.spotify.com/track/2tlHNbWsOphjepsOTyv55Y"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Madreperla",
         "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
@@ -741,7 +773,7 @@
       "url": "https://open.spotify.com/track/1Pw9JvFxbenEtnGRRcDvzD"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Probl\u00e8mes",
         "url": "https://open.spotify.com/album/4TgBFy1SSFw7m5lhx2wut6"
@@ -761,7 +793,7 @@
       "url": "https://open.spotify.com/track/6wdpb17i1FDIexi6x1vTke"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Freestyle#2",
         "url": "https://open.spotify.com/album/4RJSyh82Vs7fi6e6EibCSN"
@@ -777,23 +809,23 @@
       "url": "https://open.spotify.com/track/3GWunIYzxXspSGD7lzj0F1"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "RASOI / RIGOR MORTIS",
-        "url": "https://open.spotify.com/album/7wcWK3KQdvoZmAbdZKGYhW"
+        "name": "Libert\u00e0",
+        "url": "https://open.spotify.com/album/62L40Yc2xo7tqqSviIjXWW"
       },
       "artists": [
         {
-          "name": "Dylan",
-          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+          "name": "Yunes LaGrintaa",
+          "url": "https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW"
         }
       ],
-      "duration_ms": 146614,
-      "name": "RIGOR MORTIS",
-      "url": "https://open.spotify.com/track/3xvTpSh27JsIfN4Og2gxgG"
+      "duration_ms": 141395,
+      "name": "Libert\u00e0",
+      "url": "https://open.spotify.com/track/4LGH4aHf7cnlyDym7hgX47"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "TEN TEN",
         "url": "https://open.spotify.com/album/6HAiyDtspjIZ3fFNGoZSHp"
@@ -813,39 +845,7 @@
       "url": "https://open.spotify.com/track/6xWwDNDnU6SeshHsKJKiML"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
-      "album": {
-        "name": "Fumo Con Lei",
-        "url": "https://open.spotify.com/album/0YuiNiDJ0y3sUhRRwBVZEe"
-      },
-      "artists": [
-        {
-          "name": "Kassimi",
-          "url": "https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd"
-        }
-      ],
-      "duration_ms": 134117,
-      "name": "Fumo Con Lei",
-      "url": "https://open.spotify.com/track/0Mx0iBrF9xsZeSZlCP0M5s"
-    },
-    {
-      "added_at": "2023-04-17 13:01:31",
-      "album": {
-        "name": "Vada come vada",
-        "url": "https://open.spotify.com/album/1uiCVnEYRbmcRACX7cfq8S"
-      },
-      "artists": [
-        {
-          "name": "167 Gang",
-          "url": "https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33"
-        }
-      ],
-      "duration_ms": 147500,
-      "name": "Vada come vada",
-      "url": "https://open.spotify.com/track/5bJKrpclp5ZwxHjgMHQD9O"
-    },
-    {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Impliqu\u00e9",
         "url": "https://open.spotify.com/album/5fgtL0uuUrVb3bdI6UIKhC"
@@ -861,31 +861,7 @@
       "url": "https://open.spotify.com/track/1w6tgbznwNUxacR6bTAYxY"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
-      "album": {
-        "name": "Towro Industria 2",
-        "url": "https://open.spotify.com/album/4qKL8ayTp3YmbAQyXKiseN"
-      },
-      "artists": [
-        {
-          "name": "ODT",
-          "url": "https://open.spotify.com/artist/7qjWcA6FFIXU0JUWDv47Gf"
-        },
-        {
-          "name": "CrocoJonny",
-          "url": "https://open.spotify.com/artist/7p8ahUHgDDCdDv552Kq2nH"
-        },
-        {
-          "name": "Axell",
-          "url": "https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka"
-        }
-      ],
-      "duration_ms": 209684,
-      "name": "Towro Industria 2",
-      "url": "https://open.spotify.com/track/0kE2Ke5hNq50j9MHwMqh8i"
-    },
-    {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "X2 DELUXE",
         "url": "https://open.spotify.com/album/5AfejwZ6MABGyj1BJF5wC6"
@@ -909,27 +885,23 @@
       "url": "https://open.spotify.com/track/48yJi1ujkozgmtZIYr2Tev"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "OUTSIDER",
-        "url": "https://open.spotify.com/album/65bhPTCdqbC37RhICrkUUu"
+        "name": "Fumo Con Lei",
+        "url": "https://open.spotify.com/album/0YuiNiDJ0y3sUhRRwBVZEe"
       },
       "artists": [
         {
-          "name": "Nitro",
-          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+          "name": "Kassimi",
+          "url": "https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd"
         }
       ],
-      "duration_ms": 148083,
-      "name": "FANGORIA (feat. Kid Yugi)",
-      "url": "https://open.spotify.com/track/2X2MteIqOjRSozQACNDtEo"
+      "duration_ms": 134117,
+      "name": "Fumo Con Lei",
+      "url": "https://open.spotify.com/track/0Mx0iBrF9xsZeSZlCP0M5s"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
         "name": "Nove Chiamate",
         "url": "https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy"
@@ -953,24 +925,60 @@
       "url": "https://open.spotify.com/track/77FQ6iMaTn7fT9IMdMnpEn"
     },
     {
-      "added_at": "2023-04-17 13:01:31",
+      "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Progressi (feat. Vale pain)",
-        "url": "https://open.spotify.com/album/4TXJALE2louD30G0onu9zl"
+        "name": "RASOI / RIGOR MORTIS",
+        "url": "https://open.spotify.com/album/7wcWK3KQdvoZmAbdZKGYhW"
       },
       "artists": [
         {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
+        }
+      ],
+      "duration_ms": 146614,
+      "name": "RIGOR MORTIS",
+      "url": "https://open.spotify.com/track/3xvTpSh27JsIfN4Og2gxgG"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Vada come vada",
+        "url": "https://open.spotify.com/album/1uiCVnEYRbmcRACX7cfq8S"
+      },
+      "artists": [
+        {
+          "name": "167 Gang",
+          "url": "https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33"
+        }
+      ],
+      "duration_ms": 147500,
+      "name": "Vada come vada",
+      "url": "https://open.spotify.com/track/5bJKrpclp5ZwxHjgMHQD9O"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "DON DADA",
+        "url": "https://open.spotify.com/album/1aElHPJaZyQZkJ2OIwXWAu"
+      },
+      "artists": [
+        {
+          "name": "Don Joe",
+          "url": "https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ"
         },
         {
           "name": "Vale pain",
           "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
         }
       ],
-      "duration_ms": 150006,
-      "name": "Progressi (feat. Vale pain)",
-      "url": "https://open.spotify.com/track/1Pyj0bfp0E6xvDjJdBR662"
+      "duration_ms": 165418,
+      "name": "DIE YOUNG (feat. Vale Pain & Kid Yugi)",
+      "url": "https://open.spotify.com/track/2W8RVRL10rvjvt2WS5cZGi"
     }
   ],
   "unique_name": "Street Culto",

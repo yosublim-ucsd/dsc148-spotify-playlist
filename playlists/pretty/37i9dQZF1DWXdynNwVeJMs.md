@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 
 > Listen to the finest Jazz made in Belgium\. Cover: LũpḁGangGang
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,432 likes - 80 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,435 likes - 80 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Polder](https://open.spotify.com/track/4XZ8K11KnsFFEMhHSQe3Ip) | [KVR](https://open.spotify.com/artist/46ExxwNgHEKxA2mRzQhdXo) | [Polder](https://open.spotify.com/album/5Knwv3rVbbwrXdRxAFwlVv) | 5:35 |
 | 2 | [Wanderer](https://open.spotify.com/track/1mDqDD1QWMY3LcU4nnfn3D) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Dopamine Overdose](https://open.spotify.com/album/6ZalNPvkWelPjhB4NaV5RL) | 4:04 |
-| 3 | [Buraq](https://open.spotify.com/track/0GxohwzA5N4eHPKSLmC6yU) | [Dishwasher\_](https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa) | [Buraq](https://open.spotify.com/album/6ECr1SbrqlO6LjzbTKUuXC) | 3:58 |
+| 3 | [Buraq](https://open.spotify.com/track/5eEVndJMdH8YKwByOHY3ef) | [Dishwasher\_](https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa) | [Dishwasher\_](https://open.spotify.com/album/5EQLnoq5Z8Qjr4FHF4VjxM) | 3:58 |
 | 4 | [Mtwk part 2](https://open.spotify.com/track/7230vgOt7dkrPZUBb70OOd) | [ECHT!](https://open.spotify.com/artist/5QVpBddRLx04sLx4pwsiei) | [Cheesecake](https://open.spotify.com/album/5fxo3OiIaTYNtr6v2I5XBn) | 4:33 |
 | 5 | [Fair Enough](https://open.spotify.com/track/3JCgJv9obC3FmP0uyrDlEr) | [Dishwasher\_](https://open.spotify.com/artist/0gem6YDkBcWquPOHgLnHTa) | [Dishwasher\_](https://open.spotify.com/album/5EQLnoq5Z8Qjr4FHF4VjxM) | 3:56 |
 | 6 | [Bossa dolce](https://open.spotify.com/track/5tkqbAUvxJ3hkvqRfIoEAE) | [HONEY](https://open.spotify.com/artist/4A8G43ljlPyTmgBYOzi6zc) | [Bossa dolce](https://open.spotify.com/album/34HZEX6AwbnbGCdqJ5BUtZ) | 5:08 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdynNwVeJMs.md) - [plain]
 | 79 | [Chimes](https://open.spotify.com/track/6gzPmb75SbQGuCWwtAoutC) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Chimes](https://open.spotify.com/album/2n04MCWQqg1W7hXDVa5pzi) | 2:43 |
 | 80 | [Drops](https://open.spotify.com/track/3awFJqol6x36gdU7I0p8vw) | [Pascal Schumacher](https://open.spotify.com/artist/0VSt9azgjBhQlNlSlySE7M), [Maxime Delpierre](https://open.spotify.com/artist/7IHLrjSlSFup9A50WSJkRO) | [Drops & Points](https://open.spotify.com/album/2KKXVzr8i0J2oGKFMvKz60) | 5:33 |
 
-Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMDIwYTg0OTg5NTA4YjhmNzZlYzk2ZWVmMzk0NDZmN2Iy`
+Snapshot ID: `MTY4MTQyMzIwMCwwMDAwMDAwMDQyZWIzOWJkYjBhMjgzOTUzZDVmY2JmMTVlY2UxOGM5`

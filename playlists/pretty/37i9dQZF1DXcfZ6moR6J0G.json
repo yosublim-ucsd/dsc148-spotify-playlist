@@ -1,12 +1,12 @@
 {
   "description": "You know what time it is.",
-  "num_followers": 1638413,
+  "num_followers": 1639776,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzUzNjQ0MywwMDAwMDAwMDA2ZDNkZGZiMTU2ZjZlNzdlZDA4NDdkNDkxMWZiODdh",
+  "snapshot_id": "MTY3NzUzNjQ0MywwMDAwMDAwMDY0ODZiYjM5N2JjOTdmYTc0YWE5ZDlmYTdkNzUxODk3",
   "tracks": [
     {
       "added_at": "2023-02-27 22:20:42",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-02-27 22:20:42",
       "album": {
-        "name": "Revolution Revolucion",
-        "url": "https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ"
-      },
-      "artists": [
-        {
-          "name": "Ill Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF"
-        }
-      ],
-      "duration_ms": 210533,
-      "name": "I Am Loco",
-      "url": "https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH"
-    },
-    {
-      "added_at": "2023-02-27 22:20:42",
-      "album": {
         "name": "Adema",
         "url": "https://open.spotify.com/album/2px7Z3Hvmb846rH8JHIiJh"
       },
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2023-02-27 22:20:42",
       "album": {
-        "name": "Introduction To Mayhem",
-        "url": "https://open.spotify.com/album/1TwA6wlxYBuYZi8xb3Hk76"
+        "name": "Revolution Revolucion",
+        "url": "https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ"
       },
       "artists": [
         {
-          "name": "Primer 55",
-          "url": "https://open.spotify.com/artist/6jnxIScI1LhNdbLNbTDNwY"
+          "name": "Ill Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF"
         }
       ],
-      "duration_ms": 182200,
-      "name": "Loose",
-      "url": "https://open.spotify.com/track/5u07rgQcg8F2xIZp90lm3p"
+      "duration_ms": 210533,
+      "name": "I Am Loco",
+      "url": "https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH"
     },
     {
       "added_at": "2023-02-27 22:20:42",
@@ -1236,9 +1220,25 @@
           "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
         }
       ],
-      "duration_ms": 193200,
-      "name": "Vitamin",
-      "url": "https://open.spotify.com/track/7fceKgGxIE3s6yGZ0vduQa"
+      "duration_ms": 191360,
+      "name": "A Certain Shade of Green",
+      "url": "https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR"
+    },
+    {
+      "added_at": "2023-02-27 22:20:42",
+      "album": {
+        "name": "Introduction To Mayhem",
+        "url": "https://open.spotify.com/album/1TwA6wlxYBuYZi8xb3Hk76"
+      },
+      "artists": [
+        {
+          "name": "Primer 55",
+          "url": "https://open.spotify.com/artist/6jnxIScI1LhNdbLNbTDNwY"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Loose",
+      "url": "https://open.spotify.com/track/5u07rgQcg8F2xIZp90lm3p"
     },
     {
       "added_at": "2023-02-27 22:20:42",

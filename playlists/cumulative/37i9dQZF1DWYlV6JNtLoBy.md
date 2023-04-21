@@ -4,14 +4,17 @@
 
 > Gospel music from across East Africa
 
-53 songs - 4 hr 8 min
+56 songs - 4 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aina Noma](https://open.spotify.com/track/3P50UlKQOuLbGUd1nnTR9u) | [Kelele Takatifu](https://open.spotify.com/artist/65SihDM3mTGy4xmICANg9S) | [Aina Noma](https://open.spotify.com/album/3nz9nyVPp8s27GB2tIJRGD) | 4:14 | 2022-12-19 |  |
 | [Awesome God](https://open.spotify.com/track/4oCXUgcCSlJTe2UjMfzbOl) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Nations Will Rise and Sing](https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV) | 5:04 | 2022-12-19 |  |
+| [Conduis mes pas](https://open.spotify.com/track/1zGlgkEa3sONbUQISvtGtO) | [LORD LOMBO](https://open.spotify.com/artist/7LYWtUyWFb2GIE5sjigMvX), [Princesse Betu](https://open.spotify.com/artist/6BbWSslst8GBiQQHtDiMST), [BEN MAVINGA](https://open.spotify.com/artist/3QekiUqMIPwFSYGcoOJWCQ) | [Conduis mes pas](https://open.spotify.com/album/3TxaM33oOiLSwIwS7JC15h) | 4:58 | 2023-04-21 |  |
+| [Confessions](https://open.spotify.com/track/2g9awZdAvsvtNQjWBcVO4n) | [Daniel Mundos](https://open.spotify.com/artist/3aLEhh4HY2Sdl0v0lWhZwc) | [Confessions](https://open.spotify.com/album/50MXoiG4gRL47tdW5ui6VP) | 3:30 | 2023-04-21 |  |
+| [Enjoy \(Yo Blessings\)](https://open.spotify.com/track/4y9lTRxtVT0OZgzpGRbRqT) | [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW) | [Enjoy \(Yo Blessings\)](https://open.spotify.com/album/24SeTWvJHoEFzO7zcxKOzy) | 3:15 | 2023-04-21 |  |
 | [Everything \(Amen\)](https://open.spotify.com/track/2H6RIf2y9HyT5WWJXzWzGu) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK) | [Everything \(Amen\)](https://open.spotify.com/album/1Dx9yZ1ej8pG0sCMXdt9f7) | 3:57 | 2022-12-19 |  |
-| [Happy Birthday](https://open.spotify.com/track/5gt0c4Lnuk7en8EowAWKNt) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Zaidi](https://open.spotify.com/album/1XUrgCEu95MYR1z6rZfm5J) | 2:55 | 2022-12-19 |  |
+| [Happy Birthday](https://open.spotify.com/track/5gt0c4Lnuk7en8EowAWKNt) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Zaidi](https://open.spotify.com/album/1XUrgCEu95MYR1z6rZfm5J) | 2:55 | 2022-12-19 | 2023-04-21 |
 | [Huyu Ni Nani](https://open.spotify.com/track/0l39flJoMHffawcZES5NCS) | [St\. Joseph's Choir Kendu Bay Parish](https://open.spotify.com/artist/4bjImNCR2CnizpD0gGPmeA) | [Bwana Ni Ngome Yangu](https://open.spotify.com/album/1zT0yESxbYFAo3kwDd7QwF) | 5:46 | 2023-04-05 |  |
 | [I Believe \(Island Medley\) \[So Long Bye Bye\] \(Radio Edit\)](https://open.spotify.com/track/7bZCkTQ5qXrCgQvPbKF2gH) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa) | [I Believe \(Island Medley\) \- Single](https://open.spotify.com/album/69PdhhgvSzawIe73yaItL8) | 4:00 | 2022-12-19 |  |
 | [Ipo Siku](https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Ipo Siku](https://open.spotify.com/album/4XeVEyWo9UFsSGXfzuIu8C) | 5:47 | 2022-12-19 |  |
@@ -23,7 +26,7 @@
 | [Mfalme Wa Amani](https://open.spotify.com/track/131ZGEBLS3GBmcVcs57S3W) | [Solomon Mkubwa](https://open.spotify.com/artist/3Up2Sprj20ft57tCYus7UZ) | [Mfalme Wa Amani](https://open.spotify.com/album/36ZilAXt9d4ZqUphTaJaTG) | 7:52 | 2022-12-19 |  |
 | [Mkono Wa Bwana](https://open.spotify.com/track/0I5hC840hWZCo3nGTptRm5) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Mkono Wa Bwana](https://open.spotify.com/album/5oXO7E3vFCkWTfdwkZDckF) | 5:49 | 2022-12-19 |  |
 | [Mtetezi Wangu](https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Unikumbuke](https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu) | 8:10 | 2022-12-19 |  |
-| [Mungu Baba](https://open.spotify.com/track/5M5gw7OlOtho2gyoiCW5Cq) | [Rufftone](https://open.spotify.com/artist/2QedlserMBA6I7t6zA70bv), [GSU Choir](https://open.spotify.com/artist/7gIUM7VgRJn6R3IVECjYj7) | [Mungu Baba](https://open.spotify.com/album/6MJF92t5iiPxU1BNPoKJtJ) | 4:00 | 2022-12-19 |  |
+| [Mungu Baba](https://open.spotify.com/track/5M5gw7OlOtho2gyoiCW5Cq) | [Rufftone](https://open.spotify.com/artist/2QedlserMBA6I7t6zA70bv), [GSU Choir](https://open.spotify.com/artist/7gIUM7VgRJn6R3IVECjYj7) | [Mungu Baba](https://open.spotify.com/album/6MJF92t5iiPxU1BNPoKJtJ) | 4:00 | 2022-12-19 | 2023-04-21 |
 | [Mungu Mkuu](https://open.spotify.com/track/50Fkvb6cISuTobM1YA7Gys) | [Evelyn Wanjiru](https://open.spotify.com/artist/7EWjYW7bIdaCPSa7XvUyQK) | [Mungu Mkuu](https://open.spotify.com/album/7d5UjFXgi6OO2MYYsFx8aj) | 5:03 | 2022-12-19 |  |
 | [Mungu Ni Mungu Tu](https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C) | [Christopher Mwahangila](https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt) | [Mungu Ni Mungu Tu](https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl) | 8:27 | 2022-12-19 |  |
 | [Mwanake \(feat\. Kaberere\)](https://open.spotify.com/track/1nO0fZt8fzqEcwl7GTIFp2) | [Benachi](https://open.spotify.com/artist/5EQ2AIGwonSlijrgX1L5fD), [kaberere](https://open.spotify.com/artist/6OpSgB1IGIOMtpkHJEOnF7) | [Tulia](https://open.spotify.com/album/0EOHUyjyF25kXcMo0CxcmE) | 3:36 | 2022-12-19 |  |
@@ -51,7 +54,7 @@
 | [Uliniumba Nikuabudu](https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Yahwe Uhimidiwe](https://open.spotify.com/album/2IKNfYCQSbUEwjSVMDQzJn) | 4:30 | 2022-12-19 |  |
 | [Uniongoze Yesu](https://open.spotify.com/track/2V5Bn7Mazl8A7jNQ4fdyTy) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Uniongoze Yesu, Vol.4](https://open.spotify.com/album/01mAHADPk1dOnHMBb1ILbx) | 8:10 | 2022-12-19 |  |
 | [Upendo Wa Yesu](https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Hapa Nilipo](https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz) | 4:21 | 2022-12-19 |  |
-| [Utukufu](https://open.spotify.com/track/5vFGjh1BlYhklM4ikVcRcC) | [Ali Mukhwana](https://open.spotify.com/artist/0U7KGdU4TcvHnZok2Yntrj) | [Utukufu](https://open.spotify.com/album/7GCarY8GirkE80DpFX5Ki4) | 4:41 | 2022-12-19 |  |
+| [Utukufu](https://open.spotify.com/track/5vFGjh1BlYhklM4ikVcRcC) | [Ali Mukhwana](https://open.spotify.com/artist/0U7KGdU4TcvHnZok2Yntrj) | [Utukufu](https://open.spotify.com/album/7GCarY8GirkE80DpFX5Ki4) | 4:41 | 2022-12-19 | 2023-04-21 |
 | [Utukufu Na Heshima](https://open.spotify.com/track/0vNZmwnIZqzz0jUCEHs8Z3) | [John Lisu](https://open.spotify.com/artist/39ASHssSh5BCkjBzCA1Cdg) | [Jehovah Yu Hai](https://open.spotify.com/album/7m1A6ahy5nTSXLlZb63aDt) | 8:37 | 2022-12-19 | 2023-04-09 |
 | [Vanity](https://open.spotify.com/track/2hU8ghQ7P480nxYoD3hzmc) | [Daddy Owen](https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy) | [Vanity](https://open.spotify.com/album/6llcDSIf386x2uFut64Z0O) | 4:37 | 2022-12-19 |  |
 | [Vimbada](https://open.spotify.com/track/6PAZJPDC9Qrcz30gpiCMMx) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Yesu Mtaani](https://open.spotify.com/album/5grus83AKDhpY4rKcBV3VS) | 3:14 | 2022-12-19 |  |

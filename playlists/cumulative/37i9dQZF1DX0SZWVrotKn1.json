@@ -248,7 +248,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 229064,
       "name": "Besos Moja2",
       "url": "https://open.spotify.com/track/6OzUIp8KjuwxJnCWkXp1uL"
@@ -274,6 +274,24 @@
       "duration_ms": 229064,
       "name": "Besos Moja2",
       "url": "https://open.spotify.com/track/6TsVhM8qIkWN5cJVDIVbbz"
+    },
+    {
+      "album": {
+        "name": "La Revolucion (Deluxe)",
+        "url": "https://open.spotify.com/album/7zTlfidBmhUVtUmLSKk7WF"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264680,
+      "name": "Besos Mojados",
+      "url": "https://open.spotify.com/track/0fZq7eIpfg7GHi9UOeRaaB"
     },
     {
       "album": {
@@ -496,7 +514,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 235626,
       "name": "El Telefono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
@@ -1830,7 +1848,7 @@
       ],
       "date_added": "2021-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 251480,
       "name": "Sexo, Sudor y Calor",
       "url": "https://open.spotify.com/track/06CyfuBxMGOX495rzZR7Im"
@@ -1909,6 +1927,24 @@
     },
     {
       "album": {
+        "name": "Sin Miedo",
+        "url": "https://open.spotify.com/album/151z3gITteVJACjqfyFnvQ"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196468,
+      "name": "Sin Miedo",
+      "url": "https://open.spotify.com/track/6hWW4e5GeZpppndu1IwKzR"
+    },
+    {
+      "album": {
         "name": "La Melodia de la Calle \"Updated\"",
         "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
       },
@@ -1946,6 +1982,24 @@
       "duration_ms": 292160,
       "name": "Taboo",
       "url": "https://open.spotify.com/track/4cyYC67XY3weSVmSLdKLP8"
+    },
+    {
+      "album": {
+        "name": "Pa' Que No Pequen Tanto",
+        "url": "https://open.spotify.com/album/74hDSP8pxQCA4cdkN2Vv8Z"
+      },
+      "artists": [
+        {
+          "name": "Frank \"El Santo\"",
+          "url": "https://open.spotify.com/artist/1u0mcr2aVRUr3EIU9942Oc"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169776,
+      "name": "TE DESEO",
+      "url": "https://open.spotify.com/track/1pGq3Dg1Sewmz7tluUd09t"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Turn the energy levels up and join the party wherever you are!",
-  "num_followers": 687786,
+  "num_followers": 687800,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3MjUwMTg5NiwwMDAwMDAwMDU1OTE5MzcwNWQ4MjgzZDkxYmIyNjUzOGIxN2Y1ZDQ3",
+  "snapshot_id": "MTY3MjUwMTg5NiwwMDAwMDAwMDlhZTM4OGExZTRmMTU3MzBkYjM1YTBlNDkxMjkzMWE3",
   "tracks": [
     {
       "added_at": "2022-12-31 15:51:36",
@@ -943,26 +943,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Diplo",
-        "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Don't Forget My Love",
-      "url": "https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Stop This Flame (Celeste x MK)",
         "url": "https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 203946,
       "name": "Stop This Flame - Celeste x MK",
       "url": "https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Diplo",
+        "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Don't Forget My Love",
+      "url": "https://open.spotify.com/track/22pjmqZq2oTZtEThEt66Zn"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1695,26 +1695,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/2R65x1NUpvpI1Dp97sEPFU"
-      },
-      "artists": [
-        {
-          "name": "Navos",
-          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
-        },
-        {
-          "name": "HARLEE",
-          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
-        }
-      ],
-      "duration_ms": 168201,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/0OE5nvs8Sc1meDrjN7vwBw"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Afraid",
         "url": "https://open.spotify.com/album/0hxaNsjHneCKXSOijcqPVz"
       },
@@ -1731,6 +1711,26 @@
       "duration_ms": 142971,
       "name": "Afraid (feat. HARLEE)",
       "url": "https://open.spotify.com/track/4FUFk1uJuPtUJrDQ8ZSylK"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/2R65x1NUpvpI1Dp97sEPFU"
+      },
+      "artists": [
+        {
+          "name": "Navos",
+          "url": "https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb"
+        },
+        {
+          "name": "HARLEE",
+          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
+        }
+      ],
+      "duration_ms": 168201,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0OE5nvs8Sc1meDrjN7vwBw"
     },
     {
       "added_at": "2022-12-31 15:51:36",

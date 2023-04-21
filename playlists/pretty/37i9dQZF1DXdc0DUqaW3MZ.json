@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 301031,
+  "num_followers": 301142,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMGI0NzIzYTAxYTU2NjY3ZDQ4ODEwNDJhNmY0NzRhNjdi",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDQ1ZDE0NWYwNTFhNTNhYTVhZjg5NmYwMzRjYmIwMTVl",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "What If",
-        "url": "https://open.spotify.com/album/0XObJRKFbMGcYmSvctXK4Q"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 215239,
-      "name": "What If",
-      "url": "https://open.spotify.com/track/3yhInewGeB4AzUJKyz3SUR"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Look Easy",
         "url": "https://open.spotify.com/album/0XCbNyUbT3873z30JAwkbi"
       },
@@ -595,18 +579,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Passion Controller",
-        "url": "https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL"
+        "name": "What If",
+        "url": "https://open.spotify.com/album/0XObJRKFbMGcYmSvctXK4Q"
       },
       "artists": [
         {
-          "name": "Khazali",
-          "url": "https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd"
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 172219,
-      "name": "Passion Controller",
-      "url": "https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4"
+      "duration_ms": 215239,
+      "name": "What If",
+      "url": "https://open.spotify.com/track/3yhInewGeB4AzUJKyz3SUR"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -623,6 +607,22 @@
       "duration_ms": 217093,
       "name": "Not Today Mate",
       "url": "https://open.spotify.com/track/5UQhTk7Pn3ZpXrqnYgJpPm"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Passion Controller",
+        "url": "https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL"
+      },
+      "artists": [
+        {
+          "name": "Khazali",
+          "url": "https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd"
+        }
+      ],
+      "duration_ms": 172219,
+      "name": "Passion Controller",
+      "url": "https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Be Patient",
+        "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "duration_ms": 216793,
+      "name": "Be Patient",
+      "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Believe (feat. Fredwave & Jeshi)",
         "url": "https://open.spotify.com/album/0u1IdlsVv5D33d3aPKEZrL"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 208439,
       "name": "Believe (feat. Fredwave & Jeshi)",
       "url": "https://open.spotify.com/track/2DLxohwNmcbWktWGVG0dN7"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Be Patient",
-        "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 216793,
-      "name": "Be Patient",
-      "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Only Diamonds Cut Diamonds",
-        "url": "https://open.spotify.com/album/64oaZ6WZ5heQZvhIvd1Me5"
-      },
-      "artists": [
-        {
-          "name": "Vegyn",
-          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
-        }
-      ],
-      "duration_ms": 205893,
-      "name": "It's Nice to Be Alive",
-      "url": "https://open.spotify.com/track/0KmxMouBQhAihwTJLKxQgW"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Hot In Herre",
         "url": "https://open.spotify.com/album/3nh64W0WwLqiG8eCHBJWXW"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 185786,
       "name": "Hot In Herre",
       "url": "https://open.spotify.com/track/6YjRsyEcSOLKYIT5MIkKYT"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Only Diamonds Cut Diamonds",
+        "url": "https://open.spotify.com/album/64oaZ6WZ5heQZvhIvd1Me5"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "duration_ms": 205893,
+      "name": "It's Nice to Be Alive",
+      "url": "https://open.spotify.com/track/0KmxMouBQhAihwTJLKxQgW"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Pleasure (Now & Forever)",
-        "url": "https://open.spotify.com/album/6rFWEYBOT85TvmryKgEufn"
-      },
-      "artists": [
-        {
-          "name": "Buddy Love",
-          "url": "https://open.spotify.com/artist/76If8HF56JoLYMc3AqmuVf"
-        }
-      ],
-      "duration_ms": 246760,
-      "name": "Boy Blue",
-      "url": "https://open.spotify.com/track/0ZMaQmfnm9rvC2gGuu09bN"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "La Linda",
         "url": "https://open.spotify.com/album/36BV0UIqHyq9RG7a2Q0x0K"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 250920,
       "name": "Even If It Hurts (feat. Blood Orange)",
       "url": "https://open.spotify.com/track/3awUAAKKgqpvQUKSxvcqYM"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Pleasure (Now & Forever)",
+        "url": "https://open.spotify.com/album/6rFWEYBOT85TvmryKgEufn"
+      },
+      "artists": [
+        {
+          "name": "Buddy Love",
+          "url": "https://open.spotify.com/artist/76If8HF56JoLYMc3AqmuVf"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Boy Blue",
+      "url": "https://open.spotify.com/track/0ZMaQmfnm9rvC2gGuu09bN"
     },
     {
       "added_at": "2022-06-20 14:19:42",

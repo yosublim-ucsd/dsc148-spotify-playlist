@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: iri
 
-1,295 songs - 3 day 12 hr 21 min
+1,297 songs - 3 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,7 +391,7 @@
 | [Lovely](https://open.spotify.com/track/0vH1UCjFHp0VCDK7U0XK8W) | [Haruy](https://open.spotify.com/artist/1fUfOzkQ6XFNv0JMdl3afw), [Hayata Kosugi](https://open.spotify.com/artist/5OvlM7DqqwZUHpIWhECso2) | [MAO](https://open.spotify.com/album/1gUytKK9FdgvwF8BZ2Kmxv) | 4:27 | 2022-06-07 | 2022-08-11 |
 | [Lovin' time](https://open.spotify.com/track/0KQWGzw2zrJXrqqWTftJF1) | [南条采良](https://open.spotify.com/artist/5mTcbbKdzfbWwb45fx9xYG) | [Lovin' time](https://open.spotify.com/album/25cUgpem6lKrCg6G8TwkrJ) | 3:19 | 2022-06-25 | 2022-06-30 |
 | [Lucky feat.VivaOla](https://open.spotify.com/track/7Jdrn1vwz1upvs6dRl5TC9) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [Lucky feat.VivaOla](https://open.spotify.com/album/4AG6qN7Qm9sDxLfZQLjKXW) | 3:18 | 2022-06-16 | 2022-07-20 |
-| [lullaby](https://open.spotify.com/track/2zg2jjRWX3zKG6GW4zaPqX) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [lullaby](https://open.spotify.com/album/124KAJ6yPCPMVOYQy60qzZ) | 3:32 | 2022-06-16 |  |
+| [lullaby](https://open.spotify.com/track/2zg2jjRWX3zKG6GW4zaPqX) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [lullaby](https://open.spotify.com/album/124KAJ6yPCPMVOYQy60qzZ) | 3:32 | 2022-06-16 | 2023-04-21 |
 | [Lunchtime Lover](https://open.spotify.com/track/0voYtFLM5Yr6ME6Wbfi0Eb) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Warui Onna EP](https://open.spotify.com/album/2EShlVYZ57EYvpFGrKQTdj) | 3:39 | 2022-07-28 | 2022-08-03 |
 | [Lycoris](https://open.spotify.com/track/0r8tGHTLV1XdNTNjrOhSg8) | [THE SxPLAY](https://open.spotify.com/artist/3buTqojSELwUcO2apjmpVi) | [Lycoris](https://open.spotify.com/album/6A7nUQ1vGlsz82s7bN1K0M) | 2:48 | 2022-05-29 | 2022-06-24 |
 | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/track/0dPBmyhOEonUNrfqywYioK) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/album/7lXiHtM1UrVjszxehfzoyI) | 3:55 | 2022-11-29 | 2023-02-22 |
@@ -414,6 +414,7 @@
 | [Metro](https://open.spotify.com/track/7taibwvU4cNkjeB5rol4rp) | [POOL](https://open.spotify.com/artist/2dvTZ5JWjRhkzd8QSBIhDo) | [TWØ](https://open.spotify.com/album/2pEXeGmIVAStlWdWOTXzWd) | 3:18 | 2022-05-29 | 2022-06-01 |
 | [Miami No Shima \(Kakuu\)](https://open.spotify.com/track/6DoNrxNGA1Dju2WPzG9FLr) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [aoi12sai](https://open.spotify.com/artist/3dKz4ajPTXz5cBrcMNio6t) | [Miami No Shima \(Kakuu\)](https://open.spotify.com/album/0lFCiZ6zFLrOvqZMXWOnE2) | 3:22 | 2022-08-31 | 2022-09-07 |
 | [Mid\-20s](https://open.spotify.com/track/4h4Oa8uzPl6eW0Eh9bBLqP) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [Tasty City](https://open.spotify.com/album/4ZcHvn5pkdDxn60PhV7OjN) | 3:44 | 2022-10-04 | 2022-12-07 |
+| [Midnight City Lovers](https://open.spotify.com/track/6LspxPoYyG65ZQGwR6VREF) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [EMI](https://open.spotify.com/artist/2s875LWBmOE1q9BuhcuQA8) | [Midnight City Lovers](https://open.spotify.com/album/4VJnZQcIIjAcTnC03BzC80) | 4:31 | 2023-04-20 |  |
 | [Midnight Dew](https://open.spotify.com/track/7nxFb3o21pld23nhJNueQD) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [Midnight Dew](https://open.spotify.com/album/4pOcjmEBUBTkrcuBq0VNaM) | 4:06 | 2022-06-02 | 2022-07-20 |
 | [Midnight in Paris](https://open.spotify.com/track/66q650bEchJtIPELfURWaZ) | [Kylie](https://open.spotify.com/artist/69hUP9xAmScJ0sFfMNH1hb) | [Midnight in Paris](https://open.spotify.com/album/75eEUwi0urbnFXrm3dw5jS) | 3:02 | 2022-08-17 | 2022-08-24 |
 | [Midnight Phone](https://open.spotify.com/track/7CnGvZnLIawI3CxWP9cXRu) | [Youmentbay](https://open.spotify.com/artist/2sLSgexahLIueH18ra4hhC) | [Midnight Phone](https://open.spotify.com/album/0qxY6Gw7UVYGWKDELpQwGD) | 3:42 | 2022-09-06 | 2022-09-15 |
@@ -747,6 +748,7 @@
 | [あいまって。](https://open.spotify.com/track/7cP0835n4b8PbT0eA2VttB) | [Sayaka Yamamoto](https://open.spotify.com/artist/0MkmM5Vy3gj9QX1JHiYCiK) | [あいまって。](https://open.spotify.com/album/6wWxRz4EW01BgFG89CXw7l) | 3:45 | 2022-06-02 | 2022-07-27 |
 | [あかい](https://open.spotify.com/track/299XX9C7B56JuqGtokDeap) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [あかい](https://open.spotify.com/album/4xHSKbJ1A4RlyCsT1J1siD) | 3:34 | 2022-08-17 | 2022-08-24 |
 | [あたりまえに](https://open.spotify.com/track/1cNFIt4DtWVzH0rnbpEsio) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5) | [あたりまえに](https://open.spotify.com/album/6u9Kg6Q7dP9L5s5IQ6O1Iq) | 3:49 | 2022-08-02 | 2022-09-02 |
+| [あてもなく](https://open.spotify.com/track/0xO5jkEJFwOJubHFVPJZCQ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [あてもなく](https://open.spotify.com/album/4bCJ9NCd5jxC0udzWCQCAG) | 3:54 | 2023-04-20 |  |
 | [あなたが課金しないなら](https://open.spotify.com/track/0vvbQxbtAz2foovHOPkWQw) | [近視のサエ子](https://open.spotify.com/artist/2MsmOuarlQw1AYEhbDhwUv), [AATA](https://open.spotify.com/artist/73mPAqGn9r2CPr5kh28dX5) | [あなたが課金しないなら](https://open.spotify.com/album/0iHAdNeMIbKgA3oMMA03Jk) | 4:15 | 2022-06-21 | 2022-06-29 |
 | [あなたをやめられない](https://open.spotify.com/track/1ilR5NDnD3WWt7TKbrgYMg) | [Mirei Toyama](https://open.spotify.com/artist/7Lb6KifoVBVM3cAXiDvirw) | [あなたをやめられない](https://open.spotify.com/album/2pXtOx6Da6rNPXaQ4IoNZM) | 4:05 | 2022-11-15 | 2022-11-23 |
 | [あの笑み \(feat\. ano\)](https://open.spotify.com/track/3ZV2Ikfk9eGJbPZLqLjgQy) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [あの笑み \(feat\. ano\)](https://open.spotify.com/album/1QuHCYOQRcHOfCROj1FrkV) | 4:50 | 2022-06-21 | 2022-06-29 |
@@ -1068,7 +1070,7 @@
 | [夜になって](https://open.spotify.com/track/3ohNS5Eax4EhZAhLougF08) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [夜になって](https://open.spotify.com/album/566G21112Ia3rfedoo4hSk) | 4:08 | 2022-05-29 | 2022-07-05 |
 | [夜になって](https://open.spotify.com/track/0FEv7hqfEcVSf02wMogOgd) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 4:11 | 2022-07-28 | 2022-08-03 |
 | [夜の魔物](https://open.spotify.com/track/1clpIi0TBP2DduJGa5m0F4) | [みぃなとルーチ](https://open.spotify.com/artist/3y3QVcRaHp6wskSfDQsNKZ) | [夜の魔物](https://open.spotify.com/album/3KgfV1XgQMmxBrwcMFmQwT) | 3:13 | 2023-02-07 | 2023-02-15 |
-| [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 | 2022-08-17 |  |
+| [夜をループ](https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [NIGHT TAPE](https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB) | 4:26 | 2022-08-17 | 2023-04-21 |
 | [夜逃げ](https://open.spotify.com/track/6DtpRO1A0MRiGsWgKXlmzB) | [Ran](https://open.spotify.com/artist/79b158VP6p9yoQpqIqU4UR) | [夜逃げ](https://open.spotify.com/album/46sPxSwFOOq2zjACGq1grI) | 4:02 | 2022-06-02 | 2022-07-27 |
 | [夜風](https://open.spotify.com/track/6Ml6Al2FULhS5MmKHX5HGO) | [笹生実久](https://open.spotify.com/artist/0rV9s5ykUdPnpBWYoGVFeY) | [She was a girl](https://open.spotify.com/album/7sgwDnLuYnrgxdh0AiDANx) | 4:06 | 2022-06-25 | 2022-06-28 |
 | [夢うらら](https://open.spotify.com/track/3OMpSwsfADNdcCnyE8bjzT) | [甲田まひる](https://open.spotify.com/artist/12jXKCFV7aE96Zt5792waP) | [夢うらら](https://open.spotify.com/album/4OdbtCRb5hZUE9legqRuF7) | 4:07 | 2022-09-01 | 2022-09-07 |

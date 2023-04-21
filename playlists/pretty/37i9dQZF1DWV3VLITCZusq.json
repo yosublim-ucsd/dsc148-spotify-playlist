@@ -1,12 +1,12 @@
 {
   "description": "The perfect pop rock running mix.",
-  "num_followers": 196650,
+  "num_followers": 196867,
   "original_name": "Pop Rock Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIwODI4NiwwMDAwMDAwMDRiMDdiMzc2M2RmODJkZjI0OWEzZTE4NDYxNzcyZjRh",
+  "snapshot_id": "MTY3ODIwODI4NiwwMDAwMDAwMDI0MDhhNDAzNGFiNzBmZWQ4NDZhZWFkYjdiMmZlM2Fh",
   "tracks": [
     {
       "added_at": "2023-02-15 21:23:55",
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/6D60klaHqbCl9ySc8VcRss"
     },
     {
-      "added_at": "2023-04-20 00:12:35",
+      "added_at": "2023-04-21 00:21:27",
       "album": {
         "name": "Metamorph",
         "url": "https://open.spotify.com/album/1kf3w2zcfjNYpx1NjnJmQ8"
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-02-15 21:23:55",
       "album": {
-        "name": "For Your Entertainment",
-        "url": "https://open.spotify.com/album/0cUNjl7p6LYZJkKXJWzqP0"
+        "name": "Oh My My",
+        "url": "https://open.spotify.com/album/30Ni9qg2MBeeZXybsMOQ7m"
       },
       "artists": [
         {
-          "name": "Adam Lambert",
-          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 227320,
-      "name": "Whataya Want from Me",
-      "url": "https://open.spotify.com/track/2rDwdvBma1O1eLzo29p2cr"
+      "duration_ms": 169773,
+      "name": "Wherever I Go",
+      "url": "https://open.spotify.com/track/7kftK4n15rl1wbpfjSq2Tk"
     }
   ],
   "unique_name": "Pop Rock Run",

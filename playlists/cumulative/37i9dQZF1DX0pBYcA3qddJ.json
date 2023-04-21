@@ -736,7 +736,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 283000,
       "name": "Berceuse in D-Flat Major, Op. 57",
       "url": "https://open.spotify.com/track/54EA2jYguG3h7L5i22NZ8y"
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-06",
+      "date_removed": null,
       "duration_ms": 493800,
       "name": "Cello Concerto No. 1 in C Major, Hob. VIIb:1: II. Adagio",
       "url": "https://open.spotify.com/track/3cc1BpGtocKOEnROApTv8M"
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 211746,
       "name": "Drawing - transcription ver.",
       "url": "https://open.spotify.com/track/7g2W5rKkGCv1B4FqlXTVNC"
@@ -1638,7 +1638,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 232000,
       "name": "Falling",
       "url": "https://open.spotify.com/track/2COAy9Fid4TD0jZA7wqaAm"
@@ -2737,6 +2737,24 @@
     },
     {
       "album": {
+        "name": "Loves&Cults",
+        "url": "https://open.spotify.com/album/4N8YhEmhvmSBlunbdjTKdL"
+      },
+      "artists": [
+        {
+          "name": "yahyel",
+          "url": "https://open.spotify.com/artist/1PSuZ74d4aJt9LR4fIoBNo"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278480,
+      "name": "kyokou",
+      "url": "https://open.spotify.com/track/6bc4C84YxaMQNJw3O2AlUr"
+    },
+    {
+      "album": {
         "name": "Heavenly Me Last Days",
         "url": "https://open.spotify.com/album/2ygBTmJ4Mvq2hXL3Ssjojm"
       },
@@ -3164,7 +3182,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 157857,
       "name": "Lonely Love Song",
       "url": "https://open.spotify.com/track/1P6BMlC7DeXbGgEpz84WDw"
@@ -3666,8 +3684,8 @@
           "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
         },
         {
-          "name": "\u30ed\u30a4\u30e4\u30eb\u30fb\u30d5\u30a3\u30eb\u30cf\u30fc\u30e2\u30cb\u30fc\u7ba1\u5f26\u697d\u56e3",
-          "url": "https://open.spotify.com/artist/7Ah35lhlp7p3HOVmmzJh2I"
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
         }
       ],
       "date_added": "2023-04-18",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover: Limoblaze",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover: TBabz",
   "name": "Youth Service",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 216674,
       "name": "Able",
       "url": "https://open.spotify.com/track/4NDtKpWb0IpALyrOdZAeWW"
@@ -364,7 +364,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 201691,
       "name": "Cruise Control",
       "url": "https://open.spotify.com/track/1SllW19Y1RKHN4YJv6y4t8"
@@ -525,6 +525,28 @@
     },
     {
       "album": {
+        "name": "The Pen Of A Ready Writer",
+        "url": "https://open.spotify.com/album/51yOhvYNPRcZWyXOY8pOhr"
+      },
+      "artists": [
+        {
+          "name": "Louis Pascal",
+          "url": "https://open.spotify.com/artist/2XftZv39x5JTEBmKZFDuvg"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144169,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/4h2jfMLM38ub5BFyZcmlvn"
+    },
+    {
+      "album": {
         "name": "Everyday (Remix)",
         "url": "https://open.spotify.com/album/3E1O2M9HaXaE3TCQiq6NKl"
       },
@@ -610,7 +632,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 162618,
       "name": "Faithful",
       "url": "https://open.spotify.com/track/22utKBg816BokCNCCmgMiE"
@@ -702,7 +724,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 223032,
       "name": "FOLLOW",
       "url": "https://open.spotify.com/track/5iP9wtauchW9tyyBUQfNQg"
@@ -724,7 +746,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 172680,
       "name": "For Me",
       "url": "https://open.spotify.com/track/6lUrx0YCmQQEgUpTlCSvbk"
@@ -816,7 +838,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 120000,
       "name": "Give Him Praise",
       "url": "https://open.spotify.com/track/4Ikl54y6b8kMlzT1OM0MF0"
@@ -838,7 +860,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 131369,
       "name": "God Dey My Side",
       "url": "https://open.spotify.com/track/3hOSKIDn7IMHmZ6931TFxh"
@@ -937,6 +959,28 @@
     },
     {
       "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/1qhTnZDA67hssvx5HQ2O77"
+      },
+      "artists": [
+        {
+          "name": "M\u00fcn The Shinobi",
+          "url": "https://open.spotify.com/artist/3C0LlGBwMGs0ZjAtxUlJ6B"
+        },
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174159,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/0bKzerzZVCgaS2Bx0WDabA"
+    },
+    {
+      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/1g6gpLlBjCGR836cM7o51N"
       },
@@ -956,6 +1000,32 @@
       "duration_ms": 224634,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/4icYKOgfJLxp44GNWEZqyJ"
+    },
+    {
+      "album": {
+        "name": "Hallelujah (Me Re Jirie) [feat. Godwin Adams & Justina]",
+        "url": "https://open.spotify.com/album/3TmMKKwbfKRBqXBYJ2IKMA"
+      },
+      "artists": [
+        {
+          "name": "Onos",
+          "url": "https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0"
+        },
+        {
+          "name": "Godwin Adams",
+          "url": "https://open.spotify.com/artist/74p8vyUHFNVCV240Gam4O6"
+        },
+        {
+          "name": "Justina",
+          "url": "https://open.spotify.com/artist/1WaCguNeKSENLLlSd0vSVR"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 628223,
+      "name": "Hallelujah (Me Re Jirie) [feat. Godwin Adams & Justina]",
+      "url": "https://open.spotify.com/track/4NkTMo4kZK5nM42y3CBaNE"
     },
     {
       "album": {
@@ -1000,6 +1070,24 @@
       "duration_ms": 175255,
       "name": "Higher",
       "url": "https://open.spotify.com/track/0I2M8cNeHVWZXDU2I7DpfN"
+    },
+    {
+      "album": {
+        "name": "His Name Is Yahweh",
+        "url": "https://open.spotify.com/album/308FQqS15fW2nFaZS6h5SE"
+      },
+      "artists": [
+        {
+          "name": "Holy drill",
+          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218094,
+      "name": "His Name Is Yahweh",
+      "url": "https://open.spotify.com/track/5OcLmYtbiMRtpnUDyvw6xS"
     },
     {
       "album": {
@@ -1296,6 +1384,32 @@
       "duration_ms": 237289,
       "name": "Jesu ni Logo",
       "url": "https://open.spotify.com/track/3QIzMA6hCj4b5jUIrQceax"
+    },
+    {
+      "album": {
+        "name": "Jesus (I'm Yours)",
+        "url": "https://open.spotify.com/album/1MkXYkXFkGcOsGMZtyDSiY"
+      },
+      "artists": [
+        {
+          "name": "Hills Music",
+          "url": "https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135800,
+      "name": "Jesus (I'm Yours)",
+      "url": "https://open.spotify.com/track/5IpM5VBsjHyHaaGN4vxsqQ"
     },
     {
       "album": {
@@ -2446,6 +2560,32 @@
       "duration_ms": 172156,
       "name": "Sword",
       "url": "https://open.spotify.com/track/411fOJODnOqnGM84vgo5Xp"
+    },
+    {
+      "album": {
+        "name": "Take It",
+        "url": "https://open.spotify.com/album/1yDiC9e4VJrVT8BA2AaGnZ"
+      },
+      "artists": [
+        {
+          "name": "O'Tobi",
+          "url": "https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155400,
+      "name": "Take It",
+      "url": "https://open.spotify.com/track/7uJcY8am7ZHYlBRjNmtwjl"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 192896,
+  "num_followers": 192929,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTE1OTI3MiwwMDAwMDAwMDQ0MDhhMjlkNWJmNGY2YjQ1MmI4YjlhZTBmNjMzMzI0",
+  "snapshot_id": "MTY3NTE1OTI3MiwwMDAwMDAwMGZkNjZiYmExMzFhNmQ5MDRlOWQ2MjYzMTMzYmQwOTU2",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Let It Fly",
-        "url": "https://open.spotify.com/album/0HxQEWPXmbBGyffEIlp5k9"
+        "name": "Love Will Have the Final Word",
+        "url": "https://open.spotify.com/album/6ZTyCd2C1LuDlOwdlHmCzr"
       },
       "artists": [
         {
-          "name": "Jonny Diaz",
-          "url": "https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt"
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
         }
       ],
-      "duration_ms": 195160,
-      "name": "Thank God I Got Her",
-      "url": "https://open.spotify.com/track/6snkKhKtxK4ig9fA6w6Pz4"
+      "duration_ms": 216453,
+      "name": "With Every Act of Love",
+      "url": "https://open.spotify.com/track/603W79d0dqq4nGZMFKHWJi"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Love Will Have the Final Word",
-        "url": "https://open.spotify.com/album/6ZTyCd2C1LuDlOwdlHmCzr"
+        "name": "Let It Fly",
+        "url": "https://open.spotify.com/album/0HxQEWPXmbBGyffEIlp5k9"
       },
       "artists": [
         {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+          "name": "Jonny Diaz",
+          "url": "https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt"
         }
       ],
-      "duration_ms": 216453,
-      "name": "With Every Act of Love",
-      "url": "https://open.spotify.com/track/603W79d0dqq4nGZMFKHWJi"
+      "duration_ms": 195160,
+      "name": "Thank God I Got Her",
+      "url": "https://open.spotify.com/track/6snkKhKtxK4ig9fA6w6Pz4"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Love Me Like I Am",
-        "url": "https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 184103,
-      "name": "Love Me Like I Am",
-      "url": "https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Dosis",
         "url": "https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 250754,
       "name": "Amor De Telenovela",
       "url": "https://open.spotify.com/track/0LzGLoA82RIcGUEfbGQe47"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Love Me Like I Am",
+        "url": "https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "duration_ms": 184103,
+      "name": "Love Me Like I Am",
+      "url": "https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -851,22 +851,38 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "BUSY",
-        "url": "https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC"
+        "name": "Choose You",
+        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
       },
       "artists": [
         {
           "name": "Aaron Cole",
           "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
         }
       ],
-      "duration_ms": 127058,
-      "name": "BUSY",
-      "url": "https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh"
+      "duration_ms": 185211,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Love in the West",
+        "url": "https://open.spotify.com/album/0Oe6yZLlmHs90r6pLAuYBH"
+      },
+      "artists": [
+        {
+          "name": "Uninvtd",
+          "url": "https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ"
+        },
+        {
+          "name": "S A I N T",
+          "url": "https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN"
+        }
+      ],
+      "duration_ms": 138556,
+      "name": "Love in the West",
+      "url": "https://open.spotify.com/track/5ttoyQ1sdU1IuE1nd5MD4l"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -891,26 +907,6 @@
       "duration_ms": 125284,
       "name": "Adam & Eve'n",
       "url": "https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Love in the West",
-        "url": "https://open.spotify.com/album/0Oe6yZLlmHs90r6pLAuYBH"
-      },
-      "artists": [
-        {
-          "name": "Uninvtd",
-          "url": "https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ"
-        },
-        {
-          "name": "S A I N T",
-          "url": "https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN"
-        }
-      ],
-      "duration_ms": 138556,
-      "name": "Love in the West",
-      "url": "https://open.spotify.com/track/5ttoyQ1sdU1IuE1nd5MD4l"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -947,18 +943,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Choose You",
-        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
+        "name": "BUSY",
+        "url": "https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC"
       },
       "artists": [
         {
           "name": "Aaron Cole",
           "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
         }
       ],
-      "duration_ms": 185211,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
+      "duration_ms": 127058,
+      "name": "BUSY",
+      "url": "https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh"
     },
     {
       "added_at": "2023-01-31 10:01:12",

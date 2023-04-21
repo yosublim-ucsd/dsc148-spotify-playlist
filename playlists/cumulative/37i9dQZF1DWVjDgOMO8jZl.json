@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Scopri la nostra selezione di 6 artisti emergenti da tenere d'occhio quest'anno! Cover: Camilla Magli",
+  "description": "Scopri la nostra selezione di 6 artisti emergenti da tenere d'occhio quest'anno! Cover: Asteria",
   "name": "RADAR Italia",
   "tracks": [
     {
@@ -1702,6 +1702,24 @@
       "duration_ms": 168240,
       "name": "Pressione bassa",
       "url": "https://open.spotify.com/track/3pxIA51RPAMQnsbuArdp1G"
+    },
+    {
+      "album": {
+        "name": "PROFUMO",
+        "url": "https://open.spotify.com/album/1lD5U7HWtabfmkSxx7vH6X"
+      },
+      "artists": [
+        {
+          "name": "Asteria",
+          "url": "https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203170,
+      "name": "PROFUMO",
+      "url": "https://open.spotify.com/track/0Gi4BJG02Hj6x1csoni8fz"
     },
     {
       "album": {

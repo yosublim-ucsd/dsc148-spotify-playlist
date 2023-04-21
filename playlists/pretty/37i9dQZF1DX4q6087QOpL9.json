@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 68490,
+  "num_followers": 68570,
   "original_name": "Soulful House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3ODIxMTM2MSwwMDAwMDAwMDcxOTAwMTIyYThlMTQ3OTQ4YWFlNmFmYzY2ZjFmMzRh",
+  "snapshot_id": "MTY3ODIxMTM2MSwwMDAwMDAwMGFjZTcwYjYyMGY3Y2E5ZmZjYjlkOWNhNGEyYWEzN2Yz",
   "tracks": [
     {
       "added_at": "2023-03-07 17:49:21",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "I Believe In Miracles",
-        "url": "https://open.spotify.com/album/7skJgHIK6fM8oBz6REK82U"
-      },
-      "artists": [
-        {
-          "name": "Sunlightsquare",
-          "url": "https://open.spotify.com/artist/04Yb1Hoq1XbQHmjjLhs4Et"
-        }
-      ],
-      "duration_ms": 289849,
-      "name": "I Believe In Miracles - Broken Party Animal Mix",
-      "url": "https://open.spotify.com/track/7GHHZJ0tQu4SVSzvAKus6R"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Michael",
         "url": "https://open.spotify.com/album/6bKcuQcBLfUwfMycHOvWlF"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 342800,
       "name": "Michael - Love From San Francisco Dub",
       "url": "https://open.spotify.com/track/7pPhKV991VkEc2oGCV7eSD"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "I Believe In Miracles",
+        "url": "https://open.spotify.com/album/7skJgHIK6fM8oBz6REK82U"
+      },
+      "artists": [
+        {
+          "name": "Sunlightsquare",
+          "url": "https://open.spotify.com/artist/04Yb1Hoq1XbQHmjjLhs4Et"
+        }
+      ],
+      "duration_ms": 289849,
+      "name": "I Believe In Miracles - Broken Party Animal Mix",
+      "url": "https://open.spotify.com/track/7GHHZJ0tQu4SVSzvAKus6R"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -911,26 +911,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Dance",
-        "url": "https://open.spotify.com/album/6ojblANvXgceb7VeUn2QSS"
-      },
-      "artists": [
-        {
-          "name": "3 Winans Brothers",
-          "url": "https://open.spotify.com/artist/7xbASS1kd4OAMYms7T3uo3"
-        },
-        {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
-        }
-      ],
-      "duration_ms": 569724,
-      "name": "Dance - Louie Vega Dance Ritual Mix",
-      "url": "https://open.spotify.com/track/5MPpG8Z31ys5BanX8ug7El"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Release",
         "url": "https://open.spotify.com/album/1iWWc8Yads44yQcCJntXFq"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 402800,
       "name": "Cascades of Colour",
       "url": "https://open.spotify.com/track/4Q1lNgOmrCPu5pnPHBDP3n"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/6ojblANvXgceb7VeUn2QSS"
+      },
+      "artists": [
+        {
+          "name": "3 Winans Brothers",
+          "url": "https://open.spotify.com/artist/7xbASS1kd4OAMYms7T3uo3"
+        },
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "duration_ms": 569724,
+      "name": "Dance - Louie Vega Dance Ritual Mix",
+      "url": "https://open.spotify.com/track/5MPpG8Z31ys5BanX8ug7El"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Lost & Found EP Vol. 1",
-        "url": "https://open.spotify.com/album/72pHup0berMNoFJQwlwNWg"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        }
-      ],
-      "duration_ms": 440854,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/4oc5WWzY3pKZ5R1H0nj8b9"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Kissing Strangers",
         "url": "https://open.spotify.com/album/5dOouQAVL4EmZ2TYfcpZyj"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 466163,
       "name": "Kissing Strangers - Ralf GUM & CrisP Club Mix",
       "url": "https://open.spotify.com/track/1y8atHf1XO3GLyUSo8vJuq"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Lost & Found EP Vol. 1",
+        "url": "https://open.spotify.com/album/72pHup0berMNoFJQwlwNWg"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "duration_ms": 440854,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/4oc5WWzY3pKZ5R1H0nj8b9"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Here to There",
+        "url": "https://open.spotify.com/album/3bYHhxZtHnG7Ys0Vpf3xvy"
+      },
+      "artists": [
+        {
+          "name": "Dj Spinna",
+          "url": "https://open.spotify.com/artist/44E0JWHttieVoD6vUHWoa2"
+        },
+        {
+          "name": "Shaun Escoffery",
+          "url": "https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz"
+        }
+      ],
+      "duration_ms": 325773,
+      "name": "Music in Me (Come Alive)",
+      "url": "https://open.spotify.com/track/5DVTiIwuqEuXHWIOpnTSng"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Turntables on the Hudson: Twenty Years of Good Vibes (20 Year Anniversary)",
         "url": "https://open.spotify.com/album/3DOPqkVGLObaxnNhc7GMwI"
       },
@@ -1527,46 +1547,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "House Classics V (Presented by Harley & Muscle)",
-        "url": "https://open.spotify.com/album/7h7XZ78QlYAgRh69VlG3L9"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        },
-        {
-          "name": "Arnold Jarvis",
-          "url": "https://open.spotify.com/artist/7KWmHJx8szSRWhzUHluYC5"
-        }
-      ],
-      "duration_ms": 372908,
-      "name": "Inspiration",
-      "url": "https://open.spotify.com/track/202tI4GzvovvGhMbqgmXDQ"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Here to There",
-        "url": "https://open.spotify.com/album/3bYHhxZtHnG7Ys0Vpf3xvy"
-      },
-      "artists": [
-        {
-          "name": "Dj Spinna",
-          "url": "https://open.spotify.com/artist/44E0JWHttieVoD6vUHWoa2"
-        },
-        {
-          "name": "Shaun Escoffery",
-          "url": "https://open.spotify.com/artist/4QQV60vtp1G3XReD6dWgNz"
-        }
-      ],
-      "duration_ms": 325773,
-      "name": "Music in Me (Come Alive)",
-      "url": "https://open.spotify.com/track/5DVTiIwuqEuXHWIOpnTSng"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Joey Negro presents 30 Years of Z Records",
         "url": "https://open.spotify.com/album/2tiE4dyEl6oDQmGX2U6P7o"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 271680,
       "name": "Change for Me - Joey Negro Radio Edit",
       "url": "https://open.spotify.com/track/4CZDxv04XuF7yaDDXpAoD5"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "House Classics V (Presented by Harley & Muscle)",
+        "url": "https://open.spotify.com/album/7h7XZ78QlYAgRh69VlG3L9"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        },
+        {
+          "name": "Arnold Jarvis",
+          "url": "https://open.spotify.com/artist/7KWmHJx8szSRWhzUHluYC5"
+        }
+      ],
+      "duration_ms": 372908,
+      "name": "Inspiration",
+      "url": "https://open.spotify.com/track/202tI4GzvovvGhMbqgmXDQ"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Defected Presents House Masters: DJ Gregory & Julien Jabre",
+        "url": "https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr"
+      },
+      "artists": [
+        {
+          "name": "Julien Jabre",
+          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
+        }
+      ],
+      "duration_ms": 642782,
+      "name": "Swimming Places",
+      "url": "https://open.spotify.com/track/296UJwtCHLVfs9zdE5zny9"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Timeless Vol. 4",
         "url": "https://open.spotify.com/album/4fl5mvQpEBICZVHFCE01OU"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 577426,
       "name": "Into My Life - Roots Mix",
       "url": "https://open.spotify.com/track/3lVQjR2V8Zjz1thimpgor8"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Defected Presents House Masters: DJ Gregory & Julien Jabre",
-        "url": "https://open.spotify.com/album/2gn3OHZyw0fShGuhs4cYcr"
-      },
-      "artists": [
-        {
-          "name": "Julien Jabre",
-          "url": "https://open.spotify.com/artist/3MKxO8huUSV0g9E08bJbBM"
-        }
-      ],
-      "duration_ms": 642782,
-      "name": "Swimming Places",
-      "url": "https://open.spotify.com/track/296UJwtCHLVfs9zdE5zny9"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Abstract Jazz Journey EP 2",
-        "url": "https://open.spotify.com/album/1aPp2W2uo2oe9XdjsSJPZR"
-      },
-      "artists": [
-        {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
-        }
-      ],
-      "duration_ms": 507744,
-      "name": "Reach 4 Freedom - DF's Vocal Mix",
-      "url": "https://open.spotify.com/track/0ZEcI78PzxOXJ7mY3cRQDV"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "The Afro Club Night",
         "url": "https://open.spotify.com/album/0BT0H5aadr5TFW8pl4yY4K"
       },
@@ -1699,6 +1683,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Abstract Jazz Journey EP 2",
+        "url": "https://open.spotify.com/album/1aPp2W2uo2oe9XdjsSJPZR"
+      },
+      "artists": [
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        }
+      ],
+      "duration_ms": 507744,
+      "name": "Reach 4 Freedom - DF's Vocal Mix",
+      "url": "https://open.spotify.com/track/0ZEcI78PzxOXJ7mY3cRQDV"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Find A Friend",
         "url": "https://open.spotify.com/album/1VzRZvS1esx3ieORitcrnc"
       },
@@ -1711,26 +1711,6 @@
       "duration_ms": 409238,
       "name": "Find A Friend",
       "url": "https://open.spotify.com/track/6F7ddffZhKO7OsfGROYLDA"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Nuyorican Soul",
-        "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
-      },
-      "artists": [
-        {
-          "name": "Nuyorican Soul",
-          "url": "https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw"
-        },
-        {
-          "name": "Jocelyn Brown",
-          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "It's Alright, I Feel It",
-      "url": "https://open.spotify.com/track/15coSKNGG21bUKZpJ2Lv6N"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1759,6 +1739,26 @@
       "duration_ms": 455505,
       "name": "Love's Been Right Here - DJ Spen & Gary Hudgins Remix",
       "url": "https://open.spotify.com/track/0I0Cp90UWNjsg3iOFW3iR5"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Nuyorican Soul",
+        "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
+      },
+      "artists": [
+        {
+          "name": "Nuyorican Soul",
+          "url": "https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw"
+        },
+        {
+          "name": "Jocelyn Brown",
+          "url": "https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "It's Alright, I Feel It",
+      "url": "https://open.spotify.com/track/15coSKNGG21bUKZpJ2Lv6N"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1987,18 +1987,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Deep House Anthems",
-        "url": "https://open.spotify.com/album/1SzBvO7yYYh7DtHbxECwxh"
+        "name": "TIME AFTER TIME",
+        "url": "https://open.spotify.com/album/46cffMNNSqO6tR8rxjBPuh"
       },
       "artists": [
         {
-          "name": "Sounds Of Blackness",
-          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
+          "name": "Soul Central",
+          "url": "https://open.spotify.com/artist/7AhOEwT7t9lSIypvP1WTGP"
+        },
+        {
+          "name": "Abigail Bailey",
+          "url": "https://open.spotify.com/artist/0QUNf5BdFRIp6NSs2WbgxM"
         }
       ],
-      "duration_ms": 504933,
-      "name": "The Pressure - Frankie Knuckles Classic Mix (With Intro)",
-      "url": "https://open.spotify.com/track/4oEmebMDofPYbVSsbQYwF8"
+      "duration_ms": 399693,
+      "name": "Time After Time (feat. Abigail Bailey) - Yoruba Soul Club Mix",
+      "url": "https://open.spotify.com/track/45Z6d1DyniiBmnLwepN9KH"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2023,26 +2027,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "TIME AFTER TIME",
-        "url": "https://open.spotify.com/album/46cffMNNSqO6tR8rxjBPuh"
-      },
-      "artists": [
-        {
-          "name": "Soul Central",
-          "url": "https://open.spotify.com/artist/7AhOEwT7t9lSIypvP1WTGP"
-        },
-        {
-          "name": "Abigail Bailey",
-          "url": "https://open.spotify.com/artist/0QUNf5BdFRIp6NSs2WbgxM"
-        }
-      ],
-      "duration_ms": 399693,
-      "name": "Time After Time (feat. Abigail Bailey) - Yoruba Soul Club Mix",
-      "url": "https://open.spotify.com/track/45Z6d1DyniiBmnLwepN9KH"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "I Got Rhythm (Remixes)",
         "url": "https://open.spotify.com/album/59QaF98IvGfD6xHKn5E0To"
       },
@@ -2059,18 +2043,18 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Dedication EP",
-        "url": "https://open.spotify.com/album/3Kq6Nk7TIM4qNQ86iaUJbq"
+        "name": "Deep House Anthems",
+        "url": "https://open.spotify.com/album/1SzBvO7yYYh7DtHbxECwxh"
       },
       "artists": [
         {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+          "name": "Sounds Of Blackness",
+          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
         }
       ],
-      "duration_ms": 193560,
-      "name": "Cosmic Signs",
-      "url": "https://open.spotify.com/track/0TIHCDsma88XmpH7oHUEPj"
+      "duration_ms": 504933,
+      "name": "The Pressure - Frankie Knuckles Classic Mix (With Intro)",
+      "url": "https://open.spotify.com/track/4oEmebMDofPYbVSsbQYwF8"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2091,6 +2075,22 @@
       "duration_ms": 435920,
       "name": "Set Me Free - Original Mix",
       "url": "https://open.spotify.com/track/1ZYMfaDlaigLdi7hJgpxdX"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Dedication EP",
+        "url": "https://open.spotify.com/album/3Kq6Nk7TIM4qNQ86iaUJbq"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 193560,
+      "name": "Cosmic Signs",
+      "url": "https://open.spotify.com/track/0TIHCDsma88XmpH7oHUEPj"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "The Kerri Chandler Collection",
-        "url": "https://open.spotify.com/album/0VIowp3nc3KpEdwiMEQ3Gg"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        }
-      ],
-      "duration_ms": 444153,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/70EOnXNxRilUCb7OrTvOqw"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Voices & Visions",
         "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 483573,
       "name": "He Is (feat. Song Williamson) - Ferrer & Sydenham Inc Vox Mix",
       "url": "https://open.spotify.com/track/1y8VbIB3UBYC9Vov2ZuOOr"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "The Kerri Chandler Collection",
+        "url": "https://open.spotify.com/album/0VIowp3nc3KpEdwiMEQ3Gg"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "duration_ms": 444153,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/70EOnXNxRilUCb7OrTvOqw"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2543,22 +2543,18 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Blaque House",
-        "url": "https://open.spotify.com/album/5vlYXrDm2pyyIpHQ9Uf33O"
+        "name": "Deep Creations EP",
+        "url": "https://open.spotify.com/album/7bxC08H2DI2AjrOeHlEC85"
       },
       "artists": [
         {
-          "name": "Jovonn",
-          "url": "https://open.spotify.com/artist/3sxYSXk6nwIqVweh5Lxa9V"
-        },
-        {
-          "name": "KT Brooks",
-          "url": "https://open.spotify.com/artist/1mWHQjx7JR2Rbi4KUMcmV2"
+          "name": "Jon Cutler",
+          "url": "https://open.spotify.com/artist/6vmRl3VuXiU126ssJufx2Z"
         }
       ],
-      "duration_ms": 392640,
-      "name": "I'm Gonna Miss You (feat. K.T. Brooks)",
-      "url": "https://open.spotify.com/track/0vuDLKz7yeNhmIpSDJ1Gz4"
+      "duration_ms": 421935,
+      "name": "Headz",
+      "url": "https://open.spotify.com/track/4cLBJzfMsha3cGj2zqnAQK"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2591,18 +2587,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Deep Creations EP",
-        "url": "https://open.spotify.com/album/7bxC08H2DI2AjrOeHlEC85"
+        "name": "Blaque House",
+        "url": "https://open.spotify.com/album/5vlYXrDm2pyyIpHQ9Uf33O"
       },
       "artists": [
         {
-          "name": "Jon Cutler",
-          "url": "https://open.spotify.com/artist/6vmRl3VuXiU126ssJufx2Z"
+          "name": "Jovonn",
+          "url": "https://open.spotify.com/artist/3sxYSXk6nwIqVweh5Lxa9V"
+        },
+        {
+          "name": "KT Brooks",
+          "url": "https://open.spotify.com/artist/1mWHQjx7JR2Rbi4KUMcmV2"
         }
       ],
-      "duration_ms": 421935,
-      "name": "Headz",
-      "url": "https://open.spotify.com/track/4cLBJzfMsha3cGj2zqnAQK"
+      "duration_ms": 392640,
+      "name": "I'm Gonna Miss You (feat. K.T. Brooks)",
+      "url": "https://open.spotify.com/track/0vuDLKz7yeNhmIpSDJ1Gz4"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2647,6 +2647,26 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Voices & Visions",
+        "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
+      },
+      "artists": [
+        {
+          "name": "Copyright",
+          "url": "https://open.spotify.com/artist/1QcNpVT6u0dHxmjpZoJtHd"
+        },
+        {
+          "name": "Imaani",
+          "url": "https://open.spotify.com/artist/0dQzwkQ8ESNa3Uz9NIWEEi"
+        }
+      ],
+      "duration_ms": 419400,
+      "name": "Wizeman (feat. Imaani)",
+      "url": "https://open.spotify.com/track/0EsWTCXnAOjeVGDx7Rky7N"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "I Can't Wait",
         "url": "https://open.spotify.com/album/70CvoeJITpeEJrlkrBr8QE"
       },
@@ -2671,26 +2691,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Voices & Visions",
-        "url": "https://open.spotify.com/album/4tsU4INm6QWFeP1JC5sbwq"
-      },
-      "artists": [
-        {
-          "name": "Copyright",
-          "url": "https://open.spotify.com/artist/1QcNpVT6u0dHxmjpZoJtHd"
-        },
-        {
-          "name": "Imaani",
-          "url": "https://open.spotify.com/artist/0dQzwkQ8ESNa3Uz9NIWEEi"
-        }
-      ],
-      "duration_ms": 419400,
-      "name": "Wizeman (feat. Imaani)",
-      "url": "https://open.spotify.com/track/0EsWTCXnAOjeVGDx7Rky7N"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "The Best of Blaze, Vol. 2 - Hubert Street",
         "url": "https://open.spotify.com/album/4FOV54XWPqa1sQDXgGdafZ"
       },
@@ -2703,22 +2703,6 @@
       "duration_ms": 413200,
       "name": "Take a Stand - Blaze Shelter Mix",
       "url": "https://open.spotify.com/track/7xsfE9vCuyXqKY2jtxgGYn"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Blaque House",
-        "url": "https://open.spotify.com/album/5vlYXrDm2pyyIpHQ9Uf33O"
-      },
-      "artists": [
-        {
-          "name": "Jovonn",
-          "url": "https://open.spotify.com/artist/3sxYSXk6nwIqVweh5Lxa9V"
-        }
-      ],
-      "duration_ms": 369946,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/2pcBpS2hW2sxgFA61D3OVC"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2771,6 +2755,22 @@
       "duration_ms": 440500,
       "name": "Kathy Brown Happy People Knee Deep's to L.B. Dub - Knee Deep's to L.B. Dub",
       "url": "https://open.spotify.com/track/6vQ92IeQktoyuy4wwalsp6"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Blaque House",
+        "url": "https://open.spotify.com/album/5vlYXrDm2pyyIpHQ9Uf33O"
+      },
+      "artists": [
+        {
+          "name": "Jovonn",
+          "url": "https://open.spotify.com/artist/3sxYSXk6nwIqVweh5Lxa9V"
+        }
+      ],
+      "duration_ms": 369946,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/2pcBpS2hW2sxgFA61D3OVC"
     },
     {
       "added_at": "2023-03-07 17:49:21",

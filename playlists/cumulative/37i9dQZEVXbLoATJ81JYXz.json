@@ -6060,10 +6060,28 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 195200,
       "name": "Ella mai",
       "url": "https://open.spotify.com/track/4abHyHTOkA4DTY0zwSdbZL"
+    },
+    {
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R"
+      },
+      "artists": [
+        {
+          "name": "Sarettii",
+          "url": "https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Ella Mai",
+      "url": "https://open.spotify.com/track/58juOPlXa4qKOU6snOHlsG"
     },
     {
       "album": {
@@ -8056,7 +8074,7 @@
       ],
       "date_added": "2021-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 165253,
       "name": "Gamora",
       "url": "https://open.spotify.com/track/2Gd0oV24QsH0zb9nKFx7s5"
@@ -11850,7 +11868,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 169640,
       "name": "John Daly",
       "url": "https://open.spotify.com/track/2bHkxIrKmodno557Z4BJBK"

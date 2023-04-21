@@ -4,7 +4,7 @@
 
 > Warming instrumental guitar for sitting by the fire.
 
-238 songs - 10 hr 57 min
+239 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Alahazy Basin](https://open.spotify.com/track/01Whyc3tjloWGRTPoK8MKR) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [Alahazy Basin](https://open.spotify.com/album/27fuxVWhEIMGis2Eu0hgk9) | 2:29 | 2022-10-07 |  |
 | [Alt Evolution](https://open.spotify.com/track/5X3Ghag14o3GUR3F0ljNWU) | [Nicole Ellis](https://open.spotify.com/artist/29i78ujvmrXRSFg9nZYaVK) | [Alt Evolution](https://open.spotify.com/album/4faddULwhKK0FTU1IrXCRL) | 3:11 | 2022-05-13 | 2023-02-25 |
 | [Altri Tempi](https://open.spotify.com/track/2bdS2ijhi2tuwOlkHFF0lm) | [Atos Arces](https://open.spotify.com/artist/4ljlcKJnAdk2UlhQR638pG) | [Altri Tempi](https://open.spotify.com/album/3QGyNeWDbPOGX6oSXtDCWG) | 4:12 | 2022-12-09 |  |
-| [Another Year](https://open.spotify.com/track/3cpghClYBVWb7SjRZS6xtu) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Another Year](https://open.spotify.com/album/5LsS0b99IKvCpkWKvKTZ1d) | 2:07 | 2022-05-27 |  |
+| [Another Year](https://open.spotify.com/track/1yNM4fnj0ixfRn6EIPJi9F) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Another Year](https://open.spotify.com/album/6O6RtPJPOFiQvYeGXFJzBN) | 2:07 | 2023-03-31 |  |
+| [Another Year](https://open.spotify.com/track/3cpghClYBVWb7SjRZS6xtu) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Another Year](https://open.spotify.com/album/5LsS0b99IKvCpkWKvKTZ1d) | 2:07 | 2022-05-27 | 2023-04-21 |
 | [anticipation](https://open.spotify.com/track/0OhvlAMiXwy7i9dbnXbOWH) | [Sara Rice\-Clark](https://open.spotify.com/artist/1ChFJ60swiMaSUuw1mmHwd) | [leaving the city](https://open.spotify.com/album/6wQyphlrdifX6l2gS3tM6x) | 3:46 | 2022-05-13 |  |
 | [Appalachian Hike](https://open.spotify.com/track/7bvwShGPBpiojWB5SdI8Dh) | [Paolo Capello](https://open.spotify.com/artist/3RsJfN4McPUPnLMecUGhik) | [Appalachian Hike](https://open.spotify.com/album/1gkHmZmkrqGiP1X6Gso7WX) | 2:16 | 2022-05-13 |  |
 | [Archetype](https://open.spotify.com/track/3i47adxdexT9O3A6o8VO9Z) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Follow Me](https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e) | 3:12 | 2022-05-13 |  |

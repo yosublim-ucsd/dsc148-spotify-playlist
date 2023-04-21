@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Yng Lvcas y Peso Pluma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,380 likes - 55 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,398 likes - 55 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 28 | [BORRACHA](https://open.spotify.com/track/3JWKzfp6YX4LXFk2ybAfql) | [Felix Klain](https://open.spotify.com/artist/5cqI53b15GRiXRfls7DWMP), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [BORRACHA](https://open.spotify.com/album/2dS81EdC1fIj8XX0X0O9Ex) | 3:24 |
 | 29 | [Ya No Somos](https://open.spotify.com/track/7s6yrTbRWxKo9z42M3OP17) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Ya No Somos](https://open.spotify.com/album/5CGjusSMsLJwCCe0rn2cv8) | 3:09 |
 | 30 | [Cómo Haré?](https://open.spotify.com/track/2zh2oQk6qMKYx7NYwWTGHx) | [Panea](https://open.spotify.com/artist/5knDqp1Rt5PCmJF46vWLC4) | [Cómo Haré](https://open.spotify.com/album/3122VI6TccbqMLfCWJF69y) | 3:02 |
-| 31 | [Nos Matamos](https://open.spotify.com/track/7mo1AfuiwZaPxoD6UX7P3A) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Nos Matamos](https://open.spotify.com/album/21ZaKyZrmiksMqiystXkml) | 4:17 |
-| 32 | [Mal Mal Mal](https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mal Mal Mal](https://open.spotify.com/album/3x7JpBJgdqWUEDM0M3Tuv5) | 3:48 |
+| 31 | [Mal Mal Mal](https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mal Mal Mal](https://open.spotify.com/album/3x7JpBJgdqWUEDM0M3Tuv5) | 3:48 |
+| 32 | [Nos Matamos](https://open.spotify.com/track/7mo1AfuiwZaPxoD6UX7P3A) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Nos Matamos](https://open.spotify.com/album/21ZaKyZrmiksMqiystXkml) | 4:17 |
 | 33 | [DIAMANTES](https://open.spotify.com/track/0VQlZB2RM67y5wUSqHsnI3) | [Luan](https://open.spotify.com/artist/33GE05uZTGDMenXT0StvhM) | [DIAMANTES](https://open.spotify.com/album/3FWcTBE082Glwf0XJMcjk6) | 2:49 |
 | 34 | [La Oportunidad \- Spotify Singles](https://open.spotify.com/track/4TSdm4ySoU7RMVhTFWLp2m) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [La Oportunidad \- Spotify Singles](https://open.spotify.com/album/1dVeSK7GcCkjb9Q8MaiyQy) | 3:27 |
 | 35 | [La Última Noche](https://open.spotify.com/track/4ECQfOTkdWbWpd62UJk796) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [La Última Noche](https://open.spotify.com/album/5C8YQntAB1w3a3l76DJY9N) | 2:42 |
@@ -62,6 +62,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 52 | [Ñero Session 2](https://open.spotify.com/track/5dERrcB9eCq5x44BbpQQfp) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cris Sour](https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t), [Zkiper Mami](https://open.spotify.com/artist/42dhqBXADvMbtRoUX2SckE) | [Ñero Session 2](https://open.spotify.com/album/24Oz2KxC0F5F2JKWOoNZ7E) | 2:26 |
 | 53 | [Me Tientas \- Remix](https://open.spotify.com/track/6csH5yeXeOcZGDrIq0FRIe) | [Ele O](https://open.spotify.com/artist/7JNMkQEQnwqIGB2VQbypxi), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Me Tientas \(Remix\)](https://open.spotify.com/album/2JZUX0M1kl0BGD5dBqem6Z) | 3:05 |
 | 54 | [Flama](https://open.spotify.com/track/3qPl0LBkxkpC8dLBs8oxug) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Mayki Graff](https://open.spotify.com/artist/7EiFezQrfthN6y5Aiiw0Q5) | [Flama](https://open.spotify.com/album/1NVzPKVN5FSqANSjAewanV) | 2:22 |
-| 55 | [Pereza](https://open.spotify.com/track/0Oy1etXcmeKuWkyPbdVqnT) | [Mia Salinas](https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um) | [Pereza](https://open.spotify.com/album/77HhN60VUTZCnySGoOG7aB) | 3:09 |
+| 55 | [Waii](https://open.spotify.com/track/1YV4LaJpgdEzqLhzScQWuw) | [Santa Griega](https://open.spotify.com/artist/6Y7LaIJtLawCz1tW0QPHeu) | [Waii](https://open.spotify.com/album/2lWsYpwRzt5eocRtcFaaB9) | 3:29 |
 
-Snapshot ID: `MTY4MTQ1MjAwMCwwMDAwMDAwMDIwMzhkMDhmNzY0ZjJlZGQ4MzJmMmIzZjk1NGJkMDY2`
+Snapshot ID: `MTY4MTQ1MjAwMCwwMDAwMDAwMDMwMWUxZDgxOGVlYzI5MjFlM2RjNzUyMmM2NDg4NTZi`

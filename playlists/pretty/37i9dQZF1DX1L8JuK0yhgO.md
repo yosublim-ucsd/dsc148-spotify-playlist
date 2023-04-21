@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,825 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,824 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 39 | [poi](https://open.spotify.com/track/05ivKk1UcHAwLp0MJ32IV5) | [dodo](https://open.spotify.com/artist/1YwZlTKyH1RiGnCDb8O7TT) | [poi](https://open.spotify.com/album/3YZPlQeXbuoRSnnvBvMO6f) | 2:43 |
 | 40 | [Favorite](https://open.spotify.com/track/39aSuMWZM48DEdjpP8lyt4) | [VOLOJZA](https://open.spotify.com/artist/4668NHC8JYfpDOCBKAW5md), [WO](https://open.spotify.com/artist/0hh4YTu0SawVx4w2tM16AW) | [Favorite](https://open.spotify.com/album/3sJr5ot5VxKiYpSEUMyahU) | 3:31 |
 | 41 | [Bouquet](https://open.spotify.com/track/45I57NjUhhZuGWS0j3DGkI) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [Linn Mori](https://open.spotify.com/artist/2XJEj3lY4tkVx0IH5Ue69E) | [Bouquet](https://open.spotify.com/album/1tCZ5EdMtSdaimvdhSafS9) | 1:34 |
-| 42 | [No ID \- STUTS Remix](https://open.spotify.com/track/1hY7y4jZwDghyZPCK6ywoL) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Stuts](https://open.spotify.com/artist/1FLsISEXRfx0FhZ37uWlym) | [No ID \(STUTS Remix\)](https://open.spotify.com/album/5ZLEIC3I1YDfj69D7WYRXq) | 2:59 |
+| 42 | [No ID \- STUTS Remix](https://open.spotify.com/track/1hY7y4jZwDghyZPCK6ywoL) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [No ID \(STUTS Remix\)](https://open.spotify.com/album/5ZLEIC3I1YDfj69D7WYRXq) | 2:59 |
 | 43 | [Dear, My Friends](https://open.spotify.com/track/01Njag7j6G65JLFOZvcwMK) | [mashoe'](https://open.spotify.com/artist/5MPZJyDVTTKSdkli4U4k6Z) | [Dear, My Friends](https://open.spotify.com/album/79rNXwJvs1rmFvaezP6YYZ) | 2:48 |
 | 44 | [YOUTH](https://open.spotify.com/track/5CWAOY9n4c4Uo6YlBYLgQb) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [BEGINNING \- EP](https://open.spotify.com/album/4VGyyc8FtjNz7YUYGfeHUd) | 3:46 |
 | 45 | [スーパースター](https://open.spotify.com/track/4cLY3TliAjXGMPXsVJ1TC6) | [Qnel](https://open.spotify.com/artist/3BPOGmjOCeLb5xwdz17OuF) | [スーパースター](https://open.spotify.com/album/095fLu9RgH0tXClNTz4uCS) | 3:39 |

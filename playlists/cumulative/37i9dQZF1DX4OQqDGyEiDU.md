@@ -2,9 +2,9 @@
 
 ### [君が生きてなくてよかった](https://open.spotify.com/playlist/37i9dQZF1DX4OQqDGyEiDU)
 
-> 命を持たないVOCALOIDの魅力を特集。
+> 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。
 
-483 songs - 1 day 3 hr 48 min
+484 songs - 1 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Wah Wah World \(feat\. Hatsune Miku & Kagamine Rin\)](https://open.spotify.com/track/060o2JWYP7I22bHf7ZpWfV) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Rin Kagamine](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [Wah Wah World \(feat\. Hatsune Miku & Kagamine Rin\)](https://open.spotify.com/album/2kCOKJUHG8bLievJdoXaJy) | 3:28 | 2022-06-09 | 2022-07-27 |
 | [Weekender Girl](https://open.spotify.com/track/1ezXW6syS9nqHhh6f2WJQf) | [Hachioji P](https://open.spotify.com/artist/4TtpMS8RsX8vW64WOivJrb), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Eight \-THE BEST OF 八王子P\-](https://open.spotify.com/album/7bysXND6TNs6Hw7DAroyDH) | 3:31 | 2022-07-12 | 2022-07-15 |
 | [Weekender Girl](https://open.spotify.com/track/09Fx51otY6lZNfwHACp57U) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Re:Upload](https://open.spotify.com/album/7LP4mt5orMMrzqiOWIFYT4) | 3:33 | 2022-06-23 | 2022-06-29 |
+| [Whisper Whisper Whisper](https://open.spotify.com/track/1fcR1xtq85n7k14tRuCsjw) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Whisper Whisper Whisper](https://open.spotify.com/album/7DGoBmJVnFgvFxu3zBBa6O) | 2:04 | 2023-04-20 |  |
 | [Who?](https://open.spotify.com/track/6K13hIU8J8NSSKMfLWu8sn) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Who?](https://open.spotify.com/album/1Q8OHx0Czg42H94rajby9S) | 1:56 | 2022-10-13 |  |
 | [Wonder of Wonder](https://open.spotify.com/track/3Mx9BRnML0cHrdfulaKFfu) | [daniwellP](https://open.spotify.com/artist/057M88mJrSI7zUZpSHexpe) | [Wonder of Wonder](https://open.spotify.com/album/38tj7VvLfkBEJksWb8DHNP) | 3:45 | 2022-07-14 | 2022-07-20 |
 | [WORLD'S END UMBRELLA \- ORIGINAL](https://open.spotify.com/track/4WnNJCPzJYzOvM8gLdFcs9) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [花束と水葬](https://open.spotify.com/album/28uForAlijhQ8ISFZOZfFw) | 5:28 | 2022-06-14 | 2022-06-22 |
@@ -439,7 +440,7 @@
 | [残星と鴎](https://open.spotify.com/track/1M07a757rwmx99M8XUiMdk) | [立椅子かんな](https://open.spotify.com/artist/7y3hS1XfKRHoWbs5SrJyJy) | [残星と鴎](https://open.spotify.com/album/08VJMW4iDXIQ8e0IM5JTgJ) | 3:41 | 2022-07-19 | 2022-07-23 |
 | [毒林檎](https://open.spotify.com/track/1wRpemWBeN95dIO84BQXRu) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [毒林檎](https://open.spotify.com/album/2MeXjWnEJE7sso6PkmfpDk) | 2:23 | 2022-12-13 | 2023-01-20 |
 | [気まぐれ流星群](https://open.spotify.com/track/3GeYWTHbDTU98WhkowXavL) | [パンD](https://open.spotify.com/artist/6XbY0ubbBCcuM1ony5gu9I) | [気まぐれ流星群](https://open.spotify.com/album/7r3JbbLphgZPeshbhYzyxt) | 3:28 | 2022-06-09 | 2022-07-23 |
-| [水死体は恋したい](https://open.spotify.com/track/0t9X7vdypTC2niY0GA9DBW) | [LonePi](https://open.spotify.com/artist/0FtyTvAiyb0IS8qTfGOaxb) | [水死体は恋したい](https://open.spotify.com/album/2K4FoBm3Sx9NBKOF9z0pX7) | 3:05 | 2023-03-08 |  |
+| [水死体は恋したい](https://open.spotify.com/track/0t9X7vdypTC2niY0GA9DBW) | [LonePi](https://open.spotify.com/artist/0FtyTvAiyb0IS8qTfGOaxb) | [水死体は恋したい](https://open.spotify.com/album/2K4FoBm3Sx9NBKOF9z0pX7) | 3:05 | 2023-03-08 | 2023-04-21 |
 | [水色侵略](https://open.spotify.com/track/7mzT4nSOs335TWzIVrRarX) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [水色侵略](https://open.spotify.com/album/669k9UED6tumRgLBqWzZ1T) | 4:09 | 2022-06-14 | 2022-07-09 |
 | [泡沫未来 \(feat\. 初音ミク\)](https://open.spotify.com/track/1dV1V1xgkrnWE1GcK5fsdw) | [加賀\(ネギシャワーP\)](https://open.spotify.com/artist/11wmNSrLRQHfaR2Gb8ehHm) | [Negi Shower Party!!](https://open.spotify.com/album/1O9VzscrVd71TqaTIhV2sC) | 2:51 | 2022-06-14 | 2022-07-17 |
 | [流星のパルス \(feat\. 鏡音レン\)](https://open.spotify.com/track/0hgBNUmvRqa8se2Gs10Un3) | [\*Luna](https://open.spotify.com/artist/4vwJe968gHHZzL0or0gSZA) | [流星のパルス](https://open.spotify.com/album/3GzJnwhTXiW7MWGRmTmywu) | 4:45 | 2022-06-14 | 2022-07-22 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Meryl",
+  "description": "Les hits dancehall du moment. Photo : Shenseea",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -717,6 +717,32 @@
     },
     {
       "album": {
+        "name": "Born Leader",
+        "url": "https://open.spotify.com/album/6K8Gng28hRABEDohP2TkRw"
+      },
+      "artists": [
+        {
+          "name": "Stig da Artist",
+          "url": "https://open.spotify.com/artist/7sEmKnf9Wp6NPOpMniFYpD"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/1ALSdJg7rTlST5DIOjDO8b"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247448,
+      "name": "Born Leader",
+      "url": "https://open.spotify.com/track/6tgW4WT1IUnKKbUATVcZfm"
+    },
+    {
+      "album": {
         "name": "Bounce Up",
         "url": "https://open.spotify.com/album/2DMaefc4W5AgIQFr9zfYMP"
       },
@@ -1160,7 +1186,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 160363,
       "name": "Dancehall Need Mi",
       "url": "https://open.spotify.com/track/3BmircqF5zplm6dGNjGP0e"
@@ -3391,6 +3417,24 @@
     },
     {
       "album": {
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/6sgUIssd845Xcxl6Fb2Auk"
+      },
+      "artists": [
+        {
+          "name": "Venssy",
+          "url": "https://open.spotify.com/artist/5aEyUm5wfsHdn0z3QCcPlf"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174351,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/2H88Kxs8ckt4vFXUDsIsrf"
+    },
+    {
+      "album": {
         "name": "Oway",
         "url": "https://open.spotify.com/album/4rs8ExlxBHjXZUlE3mr76M"
       },
@@ -4908,7 +4952,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 245240,
       "name": "We Caa Done (feat. Drake)",
       "url": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-1,411 songs - 3 day 3 hr 29 min
+1,412 songs - 3 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1079,6 +1079,7 @@
 | [Say It Ain't So \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/4NBSkqCopxDtoMNABwtsce) | [Calpurnia](https://open.spotify.com/artist/5A2yiLLhc0NJaG8rn4mYp5) | [Spotify Singles](https://open.spotify.com/album/520akeRTx4b3o0RQZT23Zo) | 4:03 | 2022-07-13 | 2022-08-02 |
 | [Se Acabo \(feat\. Method Man\) \- Remix](https://open.spotify.com/track/4F3AZKEJubvPsl0hBArVBW) | [The Beatnuts](https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Take It Or Squeeze It](https://open.spotify.com/album/3XdJ1vN71jqV69uJ6oCsPL) | 3:32 | 2022-05-03 | 2022-06-22 |
 | [Sebiksy](https://open.spotify.com/track/1zwuT3oMcSs6Bo1uBQMRtq) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X), [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Kryzys Wieku Wczesnego](https://open.spotify.com/album/7FFyqG9TyQBQw08sYM9zjj) | 3:05 | 2022-01-10 | 2022-01-13 |
+| [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 | 2023-04-20 |  |
 | [Sehnsucht](https://open.spotify.com/track/1W1N3usYjgI3XGQA0iX9Vq) | [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU), [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD) | [Sehnsucht](https://open.spotify.com/album/4xTyBut8EFwy8FGzKD9NY6) | 2:32 | 2022-03-29 | 2022-03-31 |
 | [self esteem \- Mixtape](https://open.spotify.com/track/5YIMTHKWgGklloKgZHc41H) | [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [CRYSTAL SOUL \(Mixtape\)](https://open.spotify.com/album/6OuTvXRq5Wk5hrvODxuQX8) | 2:08 | 2022-10-16 | 2022-10-19 |
 | [Selfish](https://open.spotify.com/track/2xbI8Vmyv3TkpTdywpPyNw) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [GTTM: Goin Thru the Motions](https://open.spotify.com/album/7eFfp9r4A30ueN9A5EJbk2) | 4:05 | 2022-09-14 | 2022-09-22 |
@@ -1290,7 +1291,7 @@
 | [Tá na Hora do Jair Já Ir Embora](https://open.spotify.com/track/3pgKhQdt8MNXUhh9698qmi) | [Tiago Doidão](https://open.spotify.com/artist/6JyfXyzoX303xiXFwhT9Za), [Juliano Maderada](https://open.spotify.com/artist/72DK3UxDm7IOR9jCwnZKEz) | [Tá na Hora do Jair Já Ir Embora](https://open.spotify.com/album/2iMogSRFO3aYVPaubhxlsT) | 3:22 | 2022-10-30 | 2022-11-10 |
 | [Tú No Tienes La Culpa](https://open.spotify.com/track/4jQkzC3vhDRKy1mMZoGpYu) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Tu Amigo Nada Más](https://open.spotify.com/album/1eLe9veDFuCD9ZIQYhsaI2) | 2:46 | 2022-06-23 | 2022-07-06 |
 | [U Know What's Up](https://open.spotify.com/track/0d83zVs3OmdjrhfoAxg1dE) | [4\*TOWN \(From Disney and Pixar’s Turning Red\)](https://open.spotify.com/artist/7jLpPyJ5gQxCvwiBsUfFu6), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2), [Finneas O'Connell](https://open.spotify.com/artist/7hCuNVmOMT7ntattMgmL96), [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [Topher Ngo](https://open.spotify.com/artist/10WKlp1bjWxC1IWbpX4Q6l), [Grayson Villanueva](https://open.spotify.com/artist/0wSCwQI0t7XUj0zdGO25PZ) | [Turning Red \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3) | 3:08 | 2022-04-05 | 2022-04-13 |
-| [Uhaw](https://open.spotify.com/track/5SyigMsSY8uAV1m27fhnLD) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Uhaw](https://open.spotify.com/album/432KTeJ8URaOv2GduJw7K5) | 4:27 | 2023-03-26 |  |
+| [Uhaw](https://open.spotify.com/track/5SyigMsSY8uAV1m27fhnLD) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Uhaw](https://open.spotify.com/album/432KTeJ8URaOv2GduJw7K5) | 4:27 | 2023-03-26 | 2023-04-21 |
 | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [Uhaw \(Tayong Lahat\)](https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD) | 4:01 | 2023-03-09 |  |
 | [Ultimamente Speed](https://open.spotify.com/track/5ghSPv2tPkGZN8DESSvKZl) | [dreko](https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy) | [Ultimamente Speed](https://open.spotify.com/album/3JOo0DgxsnC7TK0TaJ4Um4) | 2:10 | 2022-10-20 | 2022-11-02 |
 | [ULTRA SOLO](https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ULTRA SOLO](https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd) | 3:47 | 2022-03-13 | 2022-06-04 |

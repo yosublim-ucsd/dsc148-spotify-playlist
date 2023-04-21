@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 137356,
+  "num_followers": 137418,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDdmOTQzMDU2NGE0MGQwNjhmYmJjMzc0ZGQ5ZGUxNzE0",
+  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDRmYjVmNjBmN2NhYWY2N2UyNGVjZWFmODZhZmU0MzNk",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -591,18 +591,22 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "No Other",
-        "url": "https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY"
+        "name": "Magnetic South (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2JdE6W8pxUtwNET1xI3OZ7"
       },
       "artists": [
         {
-          "name": "Gene Clark",
-          "url": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
+          "name": "Michael Nesmith",
+          "url": "https://open.spotify.com/artist/5Tic1bWAbmRoLrqaJ5SxU2"
+        },
+        {
+          "name": "The First National Band",
+          "url": "https://open.spotify.com/artist/08xBftDfAD7CMC51uxUuZF"
         }
       ],
-      "duration_ms": 391773,
-      "name": "Strength of Strings",
-      "url": "https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a"
+      "duration_ms": 159133,
+      "name": "Mama Nantucket",
+      "url": "https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -639,22 +643,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Magnetic South (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2JdE6W8pxUtwNET1xI3OZ7"
+        "name": "No Other",
+        "url": "https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY"
       },
       "artists": [
         {
-          "name": "Michael Nesmith",
-          "url": "https://open.spotify.com/artist/5Tic1bWAbmRoLrqaJ5SxU2"
-        },
-        {
-          "name": "The First National Band",
-          "url": "https://open.spotify.com/artist/08xBftDfAD7CMC51uxUuZF"
+          "name": "Gene Clark",
+          "url": "https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX"
         }
       ],
-      "duration_ms": 159133,
-      "name": "Mama Nantucket",
-      "url": "https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq"
+      "duration_ms": 391773,
+      "name": "Strength of Strings",
+      "url": "https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -839,18 +839,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Safe at Home",
-        "url": "https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM"
+        "name": "Longbranch/Pennywhistle (Remastered)",
+        "url": "https://open.spotify.com/album/6z5JQxMPg26VbiNjK0ktjp"
       },
       "artists": [
         {
-          "name": "The International Submarine Band",
-          "url": "https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF"
+          "name": "Longbranch/Pennywhistle",
+          "url": "https://open.spotify.com/artist/7bK26KSS2vRPxiT2UDeYSF"
         }
       ],
-      "duration_ms": 175240,
-      "name": "Luxury Liner",
-      "url": "https://open.spotify.com/track/69WQgn5cXFhtwbDGBHOzxS"
+      "duration_ms": 168493,
+      "name": "Rebecca - Remastered",
+      "url": "https://open.spotify.com/track/6JivFldqJ4qjT7kYhygGTl"
     }
   ],
   "unique_name": "Country Rock Classics",

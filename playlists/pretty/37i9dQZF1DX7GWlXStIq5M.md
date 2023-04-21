@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits já consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Priscilla Alcantara
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,702 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,779 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 32 | [Quer Dançar Comigo?](https://open.spotify.com/track/6t5Su8EZf1C0HNSD7asjKp) | [GHABI](https://open.spotify.com/artist/1yzhaT2wIvdMuJdrd2iRPM), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD) | [Quer Dançar Comigo?](https://open.spotify.com/album/6I8WAPnDvwJg52va0zILXE) | 2:43 |
 | 33 | [Make Love](https://open.spotify.com/track/3aQVJli1oacTuEez1JNOp9) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 2:41 |
 | 34 | [bem e longe de mim](https://open.spotify.com/track/2ZShJQxim4BUyKBdgUfqtF) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0), [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [bem e longe de mim](https://open.spotify.com/album/4DYs2AReu32M8R6fGS0xh1) | 2:28 |
-| 35 | [LIVRE, LEVE E LOUCA](https://open.spotify.com/track/7aalW4HyPKgvAsBy1SLsc5) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [LIVRE, LEVE E LOUCA](https://open.spotify.com/album/3wkGKV6z3zXMWmuwIzUjqO) | 2:37 |
+| 35 | [LIVRE, LEVE E LOUCA](https://open.spotify.com/track/7aalW4HyPKgvAsBy1SLsc5) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Laudz](https://open.spotify.com/artist/3xRm6hPQpFfaPFZTjLIYHh) | [LIVRE, LEVE E LOUCA](https://open.spotify.com/album/3wkGKV6z3zXMWmuwIzUjqO) | 2:37 |
 | 36 | [Some](https://open.spotify.com/track/2J3AJ5KoxccD2VXKcWtsxe) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [Lil Whind](https://open.spotify.com/artist/3r3YJUzNBJc9y703QG8zkr) | [Some](https://open.spotify.com/album/2aKkuY9VYxP4oNUV3us7rs) | 2:30 |
 | 37 | [Dia Azul](https://open.spotify.com/track/3SHl55xRIt6VYxifFmqYAi) | [CALI](https://open.spotify.com/artist/58XX830AG7eO98Od1VXwC8) | [Dia Azul](https://open.spotify.com/album/2Webb4pLc4PtWCraYpOOab) | 3:08 |
 | 38 | [flor da pele](https://open.spotify.com/track/529aT6nLTdg6KfnbHhi31E) | [ZOO](https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH), [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [efeito borboleta](https://open.spotify.com/album/4cQpsjgyS4h2wDSJJf1LTs) | 2:21 |

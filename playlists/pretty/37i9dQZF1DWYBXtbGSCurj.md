@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Ryu the Runner, Mateca
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,908 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,142 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 32 | [Daqui de Cima](https://open.spotify.com/track/717tAnbqbE7NMGDVOFdwww) | [Arthurzim](https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri) | [Do Alto da Laje](https://open.spotify.com/album/62hm4EluZad8WpNZZPdR0H) | 2:39 |
 | 33 | [Pura Adrenalina](https://open.spotify.com/track/6KgPTk8J2i1DOTSGvwhLPM) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [dvrkness13](https://open.spotify.com/artist/2Pel0jsoeCdLst2bxzykQJ) | [Pura Adrenalina](https://open.spotify.com/album/4mf1WTCpicIS2WNsd0DHJO) | 2:18 |
 | 34 | [Moda de Favela](https://open.spotify.com/track/4y3MAr4Q3dhGHuZt8X6RxG) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Moda de Favela](https://open.spotify.com/album/5gHa9wnNiEo2kZzY0HvFFj) | 1:53 |
-| 35 | [Nunca Sozinho](https://open.spotify.com/track/0uGpWtQgtZ6UcFXnFiNhNq) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Nunca Sozinho](https://open.spotify.com/album/5UDKZWc01Bse8OGYCR2wpb) | 2:17 |
+| 35 | [Nunca Sozinho](https://open.spotify.com/track/3rq6MZyghh4kjOZutPNBfS) | [xolair](https://open.spotify.com/artist/4IyqUNtcBn4sS04LJCzkUq) | [Nunca Sozinho](https://open.spotify.com/album/06LCPYS9Nixib0IzHkurko) | 2:17 |
 | 36 | [Preferida](https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 2:10 |
 | 37 | [Pódio](https://open.spotify.com/track/3HbwiEXq3qP1fxF34knmnV) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Pódio](https://open.spotify.com/album/7APauEMJTjJ92yVrCoa16T) | 4:52 |
 | 38 | [Ai Ai Ai](https://open.spotify.com/track/1zaPLy70EDETZvhErzb9VL) | [MC Igu](https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po), [Langris](https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI) | [Ai Ai Ai](https://open.spotify.com/album/2IWjtNIo56K5l3JaE9bpgb) | 1:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Fim de Semana no Rio](https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Fim de Semana no Rio](https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S) | 2:45 |
 | 75 | [Isso Que É Bom](https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Isso Que É Bom](https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk) | 2:35 |
 
-Snapshot ID: `MTY4MTc0NDcxMiwwMDAwMDAwMGE4ZTNkZjkyZTNhMmJiNGVlYjgxZDdkMWQxNTU5ZWJh`
+Snapshot ID: `MTY4MTc0NDcxMiwwMDAwMDAwMDFiNWU1ZDEyNzVhMTdkZDYyOTNjNjljNGNmNDFmODdi`

@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 20154,
+  "num_followers": 20158,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMDVmY2MxZjYwZDJjMmYyNTQ4ZWRmMGEyODcyZmZmNzI5",
+  "snapshot_id": "MTYwNjg4NTczMSwwMDAwMDAwMDlkODk5YzRlOTU1ZGViYTZhZDYxZWNhMGNmNjBlYTlj",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "\u018eD\u00c9N",
-        "url": "https://open.spotify.com/album/3biwHpS1Tnm3LOgTf3CqYr"
-      },
-      "artists": [
-        {
-          "name": "MIEL",
-          "url": "https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd"
-        }
-      ],
-      "duration_ms": 218814,
-      "name": "Centro",
-      "url": "https://open.spotify.com/track/5kABp0JZfAxisR5zzpAi7d"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Las Monta\u00f1as",
         "url": "https://open.spotify.com/album/1vLTjn72rGfaaR6AnoVxUj"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 225834,
       "name": "Clap Clap",
       "url": "https://open.spotify.com/track/4vUIReErgckFJjhncayvWI"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "\u018eD\u00c9N",
+        "url": "https://open.spotify.com/album/3biwHpS1Tnm3LOgTf3CqYr"
+      },
+      "artists": [
+        {
+          "name": "MIEL",
+          "url": "https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd"
+        }
+      ],
+      "duration_ms": 218814,
+      "name": "Centro",
+      "url": "https://open.spotify.com/track/5kABp0JZfAxisR5zzpAi7d"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "No Hay Mal Que Dure una Vida",
-        "url": "https://open.spotify.com/album/6vz0U3riunxqTjYYQgOnu2"
-      },
-      "artists": [
-        {
-          "name": "Lika Nova",
-          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
-        }
-      ],
-      "duration_ms": 215287,
-      "name": "Qu\u00e9date Cerca",
-      "url": "https://open.spotify.com/track/7LRXAR7DVFB3cB95uqSJcQ"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Sentimiento Mundial",
         "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 178146,
       "name": "Delicadeza",
       "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "No Hay Mal Que Dure una Vida",
+        "url": "https://open.spotify.com/album/6vz0U3riunxqTjYYQgOnu2"
+      },
+      "artists": [
+        {
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
+        }
+      ],
+      "duration_ms": 215287,
+      "name": "Qu\u00e9date Cerca",
+      "url": "https://open.spotify.com/track/7LRXAR7DVFB3cB95uqSJcQ"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Eternos",
-        "url": "https://open.spotify.com/album/5Ch3VsbQLxLmsewBpNKs8U"
-      },
-      "artists": [
-        {
-          "name": "Hay Un Dinosaurio",
-          "url": "https://open.spotify.com/artist/6EarpkLGAtCbNZcKJ0WnGe"
-        }
-      ],
-      "duration_ms": 223308,
-      "name": "Eternos",
-      "url": "https://open.spotify.com/track/0BRQB84vP5k2XOeAMEkw74"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Too Bad",
         "url": "https://open.spotify.com/album/5cNLXghCrrmNHRBski3fMC"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 200250,
       "name": "Stuck on You",
       "url": "https://open.spotify.com/track/2p7g3PDq8PGgyD79Tzpvez"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Eternos",
+        "url": "https://open.spotify.com/album/5Ch3VsbQLxLmsewBpNKs8U"
+      },
+      "artists": [
+        {
+          "name": "Hay Un Dinosaurio",
+          "url": "https://open.spotify.com/artist/6EarpkLGAtCbNZcKJ0WnGe"
+        }
+      ],
+      "duration_ms": 223308,
+      "name": "Eternos",
+      "url": "https://open.spotify.com/track/0BRQB84vP5k2XOeAMEkw74"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Miedo, Amor y Vida - EP",
+        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
+      },
+      "artists": [
+        {
+          "name": "Ati Lane",
+          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
+        }
+      ],
+      "duration_ms": 216857,
+      "name": "La Oscuridad",
+      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Corte Superior",
         "url": "https://open.spotify.com/album/07LYLQ1wwl1sjSZTebfpDG"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 254834,
       "name": "Puede Ser Mortal",
       "url": "https://open.spotify.com/track/38fXO2P0O838i1ahIiWVWo"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Miedo, Amor y Vida - EP",
-        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
-      },
-      "artists": [
-        {
-          "name": "Ati Lane",
-          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
-        }
-      ],
-      "duration_ms": 216857,
-      "name": "La Oscuridad",
-      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
     },
     {
       "added_at": "2020-12-01 05:03:00",

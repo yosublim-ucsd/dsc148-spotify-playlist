@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-162 songs - 10 hr 56 min
+163 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [40,000ft \(IV\)](https://open.spotify.com/track/1bKdskMZB1pnGa9Iwr5jLN) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [40,000ft](https://open.spotify.com/album/4IOCIwtFbUqszEGTPd3zDZ) | 3:46 | 2022-08-05 |  |
 | [528 Hz \- Self Actualization](https://open.spotify.com/track/0VwH6mJjAIIajVUYCnlQe3) | [Assembly of Sines](https://open.spotify.com/artist/16iSnfmdXqHdufWNzURPFt) | [528 Hz \- Self Actualization](https://open.spotify.com/album/0EVtFFjvvtmeXVnylkWPPA) | 2:24 | 2023-04-06 |  |
 | [A Long Line of Violet Hills](https://open.spotify.com/track/4d6CikfRNaivEqMOrqtHuF) | [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [Who Tends a Garden](https://open.spotify.com/album/6CPGzcPxekd5T5s17Ak34R) | 3:07 | 2023-01-13 |  |
-| [Above the Clouds](https://open.spotify.com/track/3gpvkHtd5Tl48wZkkw0xoz) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY), [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Above the Clouds](https://open.spotify.com/album/5l5Obv9lGFcDTXs1yfikCk) | 3:22 | 2022-08-05 |  |
+| [Above the Clouds](https://open.spotify.com/track/3gpvkHtd5Tl48wZkkw0xoz) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY), [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Above the Clouds](https://open.spotify.com/album/5l5Obv9lGFcDTXs1yfikCk) | 3:22 | 2022-08-05 | 2023-04-21 |
+| [Above the Clouds](https://open.spotify.com/track/5xfPRxtmq3BPcgK7W1uXu5) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY), [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Above the Clouds](https://open.spotify.com/album/0jEpETtq0jYNyjFKr3liEa) | 3:24 | 2023-04-06 |  |
 | [Aether Talk](https://open.spotify.com/track/6Av8cijBWCaJtAGAuAr5s6) | [Mei Wyatt](https://open.spotify.com/artist/3dlas5ivLc1UoaGKlWz7ak) | [Aether Talk](https://open.spotify.com/album/3cARiEXphXSJtlU63ttYuC) | 2:52 | 2022-09-08 |  |
 | [Aftensol](https://open.spotify.com/track/7nJROsInAKwIAJocNsAMzf) | [Sullen Sky](https://open.spotify.com/artist/0ptQgQTBR2qUJzNVSrkBQO) | [Aftensol](https://open.spotify.com/album/5Ia3BDFg9VEJtxXK5SgrAs) | 3:34 | 2022-08-05 |  |
 | [Air & Breath](https://open.spotify.com/track/66p16uDnBSWhd4LfGClZRR) | [Be Still the Earth](https://open.spotify.com/artist/7FedGrros77uFxBy4PT8k6), [We Dream of Eden](https://open.spotify.com/artist/55dhSq6LQ1N5JlHF5DlbFf) | [Liminal: Spaces](https://open.spotify.com/album/4WpadMECXyxkpkGOWKzIKG) | 3:55 | 2022-08-05 |  |

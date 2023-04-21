@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Almost Blue",
+        "url": "https://open.spotify.com/album/5zR2jKKGxU9ky183AimzCm"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u4e2d\u30bf\u30af\u30c8",
+          "url": "https://open.spotify.com/artist/1lzRj29LBri61awaqrOGN0"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185687,
+      "name": "Almost Blue",
+      "url": "https://open.spotify.com/track/149IYcG5v0YPBiNLgABDQA"
+    },
+    {
+      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/3fq4jjQKN9tURefSyKisVW"
       },
@@ -850,7 +868,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 188869,
       "name": "Daidai",
       "url": "https://open.spotify.com/track/4aIkJ57mTcNDluNttXBi5R"
@@ -1270,7 +1288,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 173627,
       "name": "Eye of Howruis - imai REMIX",
       "url": "https://open.spotify.com/track/4Ag1N1VhuoLxb7h4DPNk5P"
@@ -2090,7 +2108,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 257786,
       "name": "HUMAN",
       "url": "https://open.spotify.com/track/2HTPQfPf92R09MFSOaE8nD"
@@ -2616,7 +2634,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 323328,
       "name": "Lemon Cake",
       "url": "https://open.spotify.com/track/3V2ox5LEU3dB1n5z39P6MS"
@@ -5105,6 +5123,24 @@
     },
     {
       "album": {
+        "name": "Your Song On The Radio",
+        "url": "https://open.spotify.com/album/03Epz45tqENNY3BS4uP1V3"
+      },
+      "artists": [
+        {
+          "name": "Pictured Resort",
+          "url": "https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181040,
+      "name": "Your Song On The Radio",
+      "url": "https://open.spotify.com/track/1IQshfYUQE7H2z00aRMTqE"
+    },
+    {
+      "album": {
         "name": "\u00daltimamente",
         "url": "https://open.spotify.com/album/0WJBCgQpMgOg6OGrLw7IHC"
       },
@@ -6829,6 +6865,24 @@
     },
     {
       "album": {
+        "name": "\u6625\u306e\u5302\u3044\u306b\u8a98\u308f\u308c\u3066",
+        "url": "https://open.spotify.com/album/7KJG0imdCMwHBnyloMglft"
+      },
+      "artists": [
+        {
+          "name": "Merlion",
+          "url": "https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97213,
+      "name": "\u6625\u306e\u5302\u3044\u306b\u8a98\u308f\u308c\u3066",
+      "url": "https://open.spotify.com/track/6eBoTEaIcF7lZQE3GBE3Kl"
+    },
+    {
+      "album": {
         "name": "\u6625\u3088\u3001\u604b",
         "url": "https://open.spotify.com/album/158n63trUTwgLxptMqxA7h"
       },
@@ -7248,6 +7302,24 @@
       "duration_ms": 266445,
       "name": "\u7a93",
       "url": "https://open.spotify.com/track/1kSI2K7ziJRvqqv1pOwJC8"
+    },
+    {
+      "album": {
+        "name": "\u7d4c\u9a13",
+        "url": "https://open.spotify.com/album/3XIBN10g7e3wsL5naIp77z"
+      },
+      "artists": [
+        {
+          "name": "kumagusu",
+          "url": "https://open.spotify.com/artist/13fYVVUSG52q6sTm1Fx3HQ"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "\u7d4c\u9a13",
+      "url": "https://open.spotify.com/track/0yu9KcjQ7H3TzCG0nLOFOn"
     },
     {
       "album": {

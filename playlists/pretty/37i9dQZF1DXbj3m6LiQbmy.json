@@ -1,12 +1,12 @@
 {
   "description": "Free to be! Musica dalla comunit\u00e0 LGBQTIA+ e dai suoi alleati. Ethan in cover! <a href=\"spotify:playlist:37i9dQZF1DX3LyU0mhfqgP\">Qua la playlist global</a> \u2728 ",
-  "num_followers": 5368,
+  "num_followers": 5365,
   "original_name": "GLOW Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTI4OTEyNSwwMDAwMDAwMDMyZTllNjA0YWVmZGRjZThjMDhlNTQ2N2I0ODkwN2Rj",
+  "snapshot_id": "MTY4MTI4OTEyNSwwMDAwMDAwMGNiNDUxYmJiMjhlYmNmODA5MjExNzBmMTA3ZWRiMzM1",
   "tracks": [
     {
       "added_at": "2023-04-12 08:45:25",
@@ -1211,38 +1211,6 @@
     {
       "added_at": "2023-04-12 08:45:25",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs"
-      },
-      "artists": [
-        {
-          "name": "Osvaldo Supino",
-          "url": "https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj"
-        }
-      ],
-      "duration_ms": 196721,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX"
-    },
-    {
-      "added_at": "2023-04-12 08:45:25",
-      "album": {
-        "name": "La Suora",
-        "url": "https://open.spotify.com/album/3wzvmQaqF6O3aFj5HM8BLk"
-      },
-      "artists": [
-        {
-          "name": "Romina Falconi",
-          "url": "https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K"
-        }
-      ],
-      "duration_ms": 183311,
-      "name": "La Suora",
-      "url": "https://open.spotify.com/track/5ubAfEZgRmYFE1TEcw8dVq"
-    },
-    {
-      "added_at": "2023-04-12 08:45:25",
-      "album": {
         "name": "QUEERADISE",
         "url": "https://open.spotify.com/album/3uIS4STA53QzTuetrTr4xJ"
       },
@@ -1267,6 +1235,22 @@
     {
       "added_at": "2023-04-12 08:45:25",
       "album": {
+        "name": "La Suora",
+        "url": "https://open.spotify.com/album/3wzvmQaqF6O3aFj5HM8BLk"
+      },
+      "artists": [
+        {
+          "name": "Romina Falconi",
+          "url": "https://open.spotify.com/artist/7miQC7MI2Hne4f41KiPi1K"
+        }
+      ],
+      "duration_ms": 183311,
+      "name": "La Suora",
+      "url": "https://open.spotify.com/track/5ubAfEZgRmYFE1TEcw8dVq"
+    },
+    {
+      "added_at": "2023-04-12 08:45:25",
+      "album": {
         "name": "Lingua in Fiamme",
         "url": "https://open.spotify.com/album/2LKM66yAYt1a0XS0jCdymF"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 183196,
       "name": "Lingua in Fiamme",
       "url": "https://open.spotify.com/track/66dUFD7kK9aHU4AwKJeMEL"
+    },
+    {
+      "added_at": "2023-04-12 08:45:25",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Supino",
+          "url": "https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj"
+        }
+      ],
+      "duration_ms": 196721,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX"
     },
     {
       "added_at": "2023-04-12 08:45:25",

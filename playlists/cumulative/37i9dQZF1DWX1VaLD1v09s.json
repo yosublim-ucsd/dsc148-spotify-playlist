@@ -2671,6 +2671,28 @@
     },
     {
       "album": {
+        "name": "God You Are",
+        "url": "https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265286,
+      "name": "God You Are (feat. Josh Baldwin)",
+      "url": "https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x"
+    },
+    {
+      "album": {
         "name": "God's Not Dead",
         "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
       },
@@ -4064,7 +4086,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 289569,
       "name": "I Know That My Redeemer Lives",
       "url": "https://open.spotify.com/track/6mqfYOmG74s3Ao1N1fo1pB"

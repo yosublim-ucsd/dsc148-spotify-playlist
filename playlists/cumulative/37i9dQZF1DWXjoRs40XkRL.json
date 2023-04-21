@@ -565,7 +565,7 @@
     },
     {
       "album": {
-        "name": "Ganga Kaleidoscope from Manoyatri",
+        "name": "Ganga Kaleidoscope (From the Album \"Manoyatri\")",
         "url": "https://open.spotify.com/album/3DjEukNrmG8SekFcns4EUQ"
       },
       "artists": [
@@ -1236,6 +1236,28 @@
       "duration_ms": 260256,
       "name": "Kahaani",
       "url": "https://open.spotify.com/track/6z0iNZXZ7xEwjQf6SXDH8P"
+    },
+    {
+      "album": {
+        "name": "Kanha Re",
+        "url": "https://open.spotify.com/album/4OwpgHERocW4KSPZ1D1rqV"
+      },
+      "artists": [
+        {
+          "name": "RaagNRocks",
+          "url": "https://open.spotify.com/artist/3jTcN7ekTH3C1dnzRW65CY"
+        },
+        {
+          "name": "Nabanita Goswami",
+          "url": "https://open.spotify.com/artist/6x3CZ20CvNvPKylTfC2nzB"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231321,
+      "name": "Kanha Re",
+      "url": "https://open.spotify.com/track/2WE7d2v6kdC2tED3oWtdaz"
     },
     {
       "album": {

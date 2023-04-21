@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 397,
+  "num_followers": 408,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQzMjIwMCwwMDAwMDAwMDA2ODBjYWFlNmIyZTM0ZGEzMzQzNjM5NmJiNzI3YTdl",
+  "snapshot_id": "MTY4MjAzNTI2MCwwMDAwMDAwMDQzYzNjMDIyMzk0Yzk0YzY0MTkzZWMyODVkMWMwZGVm",
   "tracks": [
     {
       "added_at": "2023-04-14 00:30:00",
@@ -23,6 +23,30 @@
       "duration_ms": 200891,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/3X0MU7pHpzFOTaUgve3EDS"
+    },
+    {
+      "added_at": "2023-04-21 00:01:00",
+      "album": {
+        "name": "Conduis mes pas",
+        "url": "https://open.spotify.com/album/3TxaM33oOiLSwIwS7JC15h"
+      },
+      "artists": [
+        {
+          "name": "LORD LOMBO",
+          "url": "https://open.spotify.com/artist/7LYWtUyWFb2GIE5sjigMvX"
+        },
+        {
+          "name": "Princesse Betu",
+          "url": "https://open.spotify.com/artist/6BbWSslst8GBiQQHtDiMST"
+        },
+        {
+          "name": "BEN MAVINGA",
+          "url": "https://open.spotify.com/artist/3QekiUqMIPwFSYGcoOJWCQ"
+        }
+      ],
+      "duration_ms": 298004,
+      "name": "Conduis mes pas",
+      "url": "https://open.spotify.com/track/1zGlgkEa3sONbUQISvtGtO"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -283,6 +307,22 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
+        "name": "Yatupasa Kushukuru",
+        "url": "https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd"
+      },
+      "artists": [
+        {
+          "name": "Ambassadors Of Christ Choir",
+          "url": "https://open.spotify.com/artist/2yrDcZOG852sQedI47WMQi"
+        }
+      ],
+      "duration_ms": 229715,
+      "name": "Kuna Sauti Yaita",
+      "url": "https://open.spotify.com/track/79DSttMu86Iu2cR4PbFPay"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
         "name": "Uniongoze Yesu, Vol.4",
         "url": "https://open.spotify.com/album/01mAHADPk1dOnHMBb1ILbx"
       },
@@ -311,38 +351,6 @@
       "duration_ms": 507425,
       "name": "Mungu Ni Mungu Tu",
       "url": "https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Yatupasa Kushukuru",
-        "url": "https://open.spotify.com/album/3FTy3A7du71Pa12uK0mJZd"
-      },
-      "artists": [
-        {
-          "name": "Ambassadors Of Christ Choir",
-          "url": "https://open.spotify.com/artist/2yrDcZOG852sQedI47WMQi"
-        }
-      ],
-      "duration_ms": 229715,
-      "name": "Kuna Sauti Yaita",
-      "url": "https://open.spotify.com/track/79DSttMu86Iu2cR4PbFPay"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Nipe Macho",
-        "url": "https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV"
-      },
-      "artists": [
-        {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
-        }
-      ],
-      "duration_ms": 353720,
-      "name": "Nipe Macho",
-      "url": "https://open.spotify.com/track/6RShwwY6EHo3sOJtkUMKvh"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -411,8 +419,8 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Unikumbuke",
-        "url": "https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu"
+        "name": "Nipe Macho",
+        "url": "https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV"
       },
       "artists": [
         {
@@ -420,9 +428,25 @@
           "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
         }
       ],
-      "duration_ms": 490293,
-      "name": "Mtetezi Wangu",
-      "url": "https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3"
+      "duration_ms": 353720,
+      "name": "Nipe Macho",
+      "url": "https://open.spotify.com/track/6RShwwY6EHo3sOJtkUMKvh"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Bwana Ni Ngome Yangu",
+        "url": "https://open.spotify.com/album/1zT0yESxbYFAo3kwDd7QwF"
+      },
+      "artists": [
+        {
+          "name": "St. Joseph's Choir Kendu Bay Parish",
+          "url": "https://open.spotify.com/artist/4bjImNCR2CnizpD0gGPmeA"
+        }
+      ],
+      "duration_ms": 346640,
+      "name": "Huyu Ni Nani",
+      "url": "https://open.spotify.com/track/0l39flJoMHffawcZES5NCS"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -459,22 +483,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Bwana Ni Ngome Yangu",
-        "url": "https://open.spotify.com/album/1zT0yESxbYFAo3kwDd7QwF"
-      },
-      "artists": [
-        {
-          "name": "St. Joseph's Choir Kendu Bay Parish",
-          "url": "https://open.spotify.com/artist/4bjImNCR2CnizpD0gGPmeA"
-        }
-      ],
-      "duration_ms": 346640,
-      "name": "Huyu Ni Nani",
-      "url": "https://open.spotify.com/track/0l39flJoMHffawcZES5NCS"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Mfalme Wa Amani",
         "url": "https://open.spotify.com/album/36ZilAXt9d4ZqUphTaJaTG"
       },
@@ -507,22 +515,6 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Uinuliwe Baba",
-        "url": "https://open.spotify.com/album/0Gv7L9BwjC0tmSKRYS3OpX"
-      },
-      "artists": [
-        {
-          "name": "Rose Muhando",
-          "url": "https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87"
-        }
-      ],
-      "duration_ms": 418560,
-      "name": "Yesu Nakupenda",
-      "url": "https://open.spotify.com/track/17xj9O92AfXMEBVvf8ACSN"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
         "name": "Sweetie Sweetie",
         "url": "https://open.spotify.com/album/1gp2BVV3amp3NTsJN59IOg"
       },
@@ -539,6 +531,54 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
+        "name": "Uinuliwe Baba",
+        "url": "https://open.spotify.com/album/0Gv7L9BwjC0tmSKRYS3OpX"
+      },
+      "artists": [
+        {
+          "name": "Rose Muhando",
+          "url": "https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87"
+        }
+      ],
+      "duration_ms": 418560,
+      "name": "Yesu Nakupenda",
+      "url": "https://open.spotify.com/track/17xj9O92AfXMEBVvf8ACSN"
+    },
+    {
+      "added_at": "2023-04-21 00:01:00",
+      "album": {
+        "name": "Enjoy (Yo Blessings)",
+        "url": "https://open.spotify.com/album/24SeTWvJHoEFzO7zcxKOzy"
+      },
+      "artists": [
+        {
+          "name": "Levixone",
+          "url": "https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW"
+        }
+      ],
+      "duration_ms": 195056,
+      "name": "Enjoy (Yo Blessings)",
+      "url": "https://open.spotify.com/track/4y9lTRxtVT0OZgzpGRbRqT"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Unikumbuke",
+        "url": "https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu"
+      },
+      "artists": [
+        {
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+        }
+      ],
+      "duration_ms": 490293,
+      "name": "Mtetezi Wangu",
+      "url": "https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
         "name": "Wewe ni mungu",
         "url": "https://open.spotify.com/album/4EPQZLH7dmSyngXFG7D0OP"
       },
@@ -551,22 +591,6 @@
       "duration_ms": 262321,
       "name": "Wewe ni mungu",
       "url": "https://open.spotify.com/track/6mmr75lBVZnN3iWl8Jk3jO"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Nipe Macho",
-        "url": "https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV"
-      },
-      "artists": [
-        {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
-        }
-      ],
-      "duration_ms": 315213,
-      "name": "Thamani Ya Wokovu",
-      "url": "https://open.spotify.com/track/5npUvkxp8M3tT4DMSjvoeS"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -641,36 +665,20 @@
       "url": "https://open.spotify.com/track/6PsXyv0ljD3fuOTZRiOw4Z"
     },
     {
-      "added_at": "2023-04-06 20:59:00",
+      "added_at": "2023-04-21 00:01:00",
       "album": {
-        "name": "Yesu Mtaani",
-        "url": "https://open.spotify.com/album/5grus83AKDhpY4rKcBV3VS"
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/50MXoiG4gRL47tdW5ui6VP"
       },
       "artists": [
         {
-          "name": "Moji Shortbabaa",
-          "url": "https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn"
+          "name": "Daniel Mundos",
+          "url": "https://open.spotify.com/artist/3aLEhh4HY2Sdl0v0lWhZwc"
         }
       ],
-      "duration_ms": 194064,
-      "name": "Vimbada",
-      "url": "https://open.spotify.com/track/6PAZJPDC9Qrcz30gpiCMMx"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Pale Pale",
-        "url": "https://open.spotify.com/album/1UCwuyBGve3MilWhoBhIhl"
-      },
-      "artists": [
-        {
-          "name": "Size 8",
-          "url": "https://open.spotify.com/artist/4ZnnTnbEvzqmp1r52XTbBe"
-        }
-      ],
-      "duration_ms": 210809,
-      "name": "Pale Pale",
-      "url": "https://open.spotify.com/track/20CfRlYyl69ZcixsWjIXR9"
+      "duration_ms": 210731,
+      "name": "Confessions",
+      "url": "https://open.spotify.com/track/2g9awZdAvsvtNQjWBcVO4n"
     },
     {
       "added_at": "2023-04-14 00:30:00",
@@ -691,6 +699,54 @@
       "duration_ms": 181176,
       "name": "Sure (Counting on You)",
       "url": "https://open.spotify.com/track/6631GJTIN4OwoKTeAoIk3Q"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Yesu Mtaani",
+        "url": "https://open.spotify.com/album/5grus83AKDhpY4rKcBV3VS"
+      },
+      "artists": [
+        {
+          "name": "Moji Shortbabaa",
+          "url": "https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn"
+        }
+      ],
+      "duration_ms": 194064,
+      "name": "Vimbada",
+      "url": "https://open.spotify.com/track/6PAZJPDC9Qrcz30gpiCMMx"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Nipe Macho",
+        "url": "https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV"
+      },
+      "artists": [
+        {
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+        }
+      ],
+      "duration_ms": 315213,
+      "name": "Thamani Ya Wokovu",
+      "url": "https://open.spotify.com/track/5npUvkxp8M3tT4DMSjvoeS"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Pale Pale",
+        "url": "https://open.spotify.com/album/1UCwuyBGve3MilWhoBhIhl"
+      },
+      "artists": [
+        {
+          "name": "Size 8",
+          "url": "https://open.spotify.com/artist/4ZnnTnbEvzqmp1r52XTbBe"
+        }
+      ],
+      "duration_ms": 210809,
+      "name": "Pale Pale",
+      "url": "https://open.spotify.com/track/20CfRlYyl69ZcixsWjIXR9"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -787,58 +843,6 @@
       "duration_ms": 221754,
       "name": "Wacha Story",
       "url": "https://open.spotify.com/track/6tZ9ux4XLVmeHbW8yPrMtH"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Zaidi",
-        "url": "https://open.spotify.com/album/1XUrgCEu95MYR1z6rZfm5J"
-      },
-      "artists": [
-        {
-          "name": "Mercy Masika",
-          "url": "https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T"
-        }
-      ],
-      "duration_ms": 175793,
-      "name": "Happy Birthday",
-      "url": "https://open.spotify.com/track/5gt0c4Lnuk7en8EowAWKNt"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Mungu Baba",
-        "url": "https://open.spotify.com/album/6MJF92t5iiPxU1BNPoKJtJ"
-      },
-      "artists": [
-        {
-          "name": "Rufftone",
-          "url": "https://open.spotify.com/artist/2QedlserMBA6I7t6zA70bv"
-        },
-        {
-          "name": "GSU Choir",
-          "url": "https://open.spotify.com/artist/7gIUM7VgRJn6R3IVECjYj7"
-        }
-      ],
-      "duration_ms": 240039,
-      "name": "Mungu Baba",
-      "url": "https://open.spotify.com/track/5M5gw7OlOtho2gyoiCW5Cq"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Utukufu",
-        "url": "https://open.spotify.com/album/7GCarY8GirkE80DpFX5Ki4"
-      },
-      "artists": [
-        {
-          "name": "Ali Mukhwana",
-          "url": "https://open.spotify.com/artist/0U7KGdU4TcvHnZok2Yntrj"
-        }
-      ],
-      "duration_ms": 281959,
-      "name": "Utukufu",
-      "url": "https://open.spotify.com/track/5vFGjh1BlYhklM4ikVcRcC"
     }
   ],
   "unique_name": "Sunday Service",

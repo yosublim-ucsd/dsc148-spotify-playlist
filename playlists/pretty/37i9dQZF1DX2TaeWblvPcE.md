@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TaeWblvPcE.md) - [plain]
 
 > Concentrate comfortably with sweet k\-pop accompaniments without lyrics\. \(가사 없는 감미로운 가요 반주곡들과 편안하게 집중하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,365 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,366 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TaeWblvPcE.md) - [plain]
 | 24 | [Orbit \- Instrumental](https://open.spotify.com/track/17cK339xKTGOIlBTM02WbS) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3cYozFVrbaSezuvCd5DXq2) | 3:06 |
 | 25 | [Feel Special \(Sad Ver.\)](https://open.spotify.com/track/1KnxMIoj6vvru9055Le3II) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [KPOP Piano Collection, Vol\. 1](https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX) | 3:52 |
 | 26 | [You're Cold \- Instrumental](https://open.spotify.com/track/6D14Zg8SqVnXr5bxNoOwZ4) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/63qfWGAvtGwa2YF4yC98Ak) | 3:54 |
-| 27 | [Love Poem](https://open.spotify.com/track/37OnDQ4E9gSzfyn7KlDvTF) | [짱군 Zzanggoon](https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL) | [이 겨울 피아노로 만나는 따끈한 K\-Pop K\-Pop Hotlist Piano for the Winter](https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H) | 4:16 |
-| 28 | [I Just Want To Stay With You \- Instrumental](https://open.spotify.com/track/75af0KkwnezifuJqpQKV8x) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/7vVkg2DjA247mg2XdEC49T) | 3:27 |
+| 27 | [I Just Want To Stay With You \- Instrumental](https://open.spotify.com/track/75af0KkwnezifuJqpQKV8x) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/7vVkg2DjA247mg2XdEC49T) | 3:27 |
+| 28 | [Love Poem](https://open.spotify.com/track/37OnDQ4E9gSzfyn7KlDvTF) | [짱군 Zzanggoon](https://open.spotify.com/artist/3a3LDEkR20md8TlZk0zTrL) | [이 겨울 피아노로 만나는 따끈한 K\-Pop K\-Pop Hotlist Piano for the Winter](https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H) | 4:16 |
 | 29 | [Shine On You \- Instrumental](https://open.spotify.com/track/5YulRNwiJWA0XbTr08D5fx) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Record of Youth \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/0RXkfsaEQIeOyAfC5Im2hY) | 4:30 |
 | 30 | [More Than Words \- Instrumental](https://open.spotify.com/track/78QbLG6ybYftybcqJxniL6) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [DINNER MATE \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/7aF3Y9ZTC67P0ISGQeK7JF) | 3:15 |
 | 31 | [Every second \- Instrumental](https://open.spotify.com/track/1fzzhtCEeuvPRRfuMP4xtA) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Record of Youth \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/1l3oUdtu9GYbNzSFgPW8p1) | 3:32 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TaeWblvPcE.md) - [plain]
 | 53 | [Just Like a Dream \(Inst.\)](https://open.spotify.com/track/2N06GBKKf4NOWXCYsNHnP8) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Another Miss Oh \(Original Television Soundtrack\), Pt 2](https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW) | 3:46 |
 | 54 | [Raindrops \- Instrumental](https://open.spotify.com/track/1V2Xa0tC01IrxtqM2aXCgl) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Oh My Baby \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/2ODbnq7BEn2pSPiKEr7kmq) | 3:32 |
 | 55 | [Leaning on you \- Instrumental](https://open.spotify.com/track/2tSJ5EVYDOCB6LCdJFnCnH) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [TALE OF THE NINE TAILED \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/6d9WJan9PUdbfD457BMjBu) | 4:00 |
-| 56 | [Love Message \- Instrumental](https://open.spotify.com/track/4VeLIyv4WczeFbvNpn9ZXT) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [My Unfamiliar Family \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/5XRPtycMCCWe4jpJyyUENu) | 4:10 |
-| 57 | [Not Clumsy Anymore \- Inst.](https://open.spotify.com/track/57BktxAPR5BpYECaBSS0P2) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Men Are Men \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/6AIcz3ze4NsFdV98ZxgEix) | 4:16 |
+| 56 | [Not Clumsy Anymore \- Inst.](https://open.spotify.com/track/57BktxAPR5BpYECaBSS0P2) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Men Are Men \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/6AIcz3ze4NsFdV98ZxgEix) | 4:16 |
+| 57 | [Love Message \- Instrumental](https://open.spotify.com/track/4VeLIyv4WczeFbvNpn9ZXT) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [My Unfamiliar Family \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/5XRPtycMCCWe4jpJyyUENu) | 4:10 |
 | 58 | [My Tale \- inst.](https://open.spotify.com/track/0ztk0XIgjQxvdyN0AIW18g) | [PARK WON](https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/3P3uCfolgmfnepYcbg8HmU) | 3:46 |
 | 59 | [Love Resembles Memories \- Instrumental](https://open.spotify.com/track/4TSaLllN793GqbJ3tk7Lju) | [YOOK SUNG JAE](https://open.spotify.com/artist/2CTby8c4ravq3bTYDqB0yN) | [Mystic Pop\-up Bar, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/6XwT8iVf1vomZd0BeZEjJL) | 3:47 |
 | 60 | [Trying to say good\-bye \(Inst.\)](https://open.spotify.com/track/0prQ2KfBBPwSZ45IIrRoWk) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Trying to say good\-bye](https://open.spotify.com/album/3WgFwwCXgMNxz2bAqwl817) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TaeWblvPcE.md) - [plain]
 | 99 | [Boy With Luv](https://open.spotify.com/track/7xThmcrNfxkwlljLH1tkzO) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [MAP OF THE SOUL: 7 Piano Collection](https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a) | 4:00 |
 | 100 | [Make It Right](https://open.spotify.com/track/1CalLW36KN3v7Qx57BgVTV) | [DooPiano](https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY) | [MAP OF THE SOUL: 7 Piano Collection](https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a) | 3:54 |
 
-Snapshot ID: `MTY2NzM5NjQ1MywwMDAwMDAwMDZlMzE3ZTg4NGVjZWE3ZjBkYmQ5Y2M3OTAyMDZkYTFk`
+Snapshot ID: `MTY2NzM5NjQ1MywwMDAwMDAwMDQxYjRjYzQ5MThkYTNhZDA5OTM3MTY5YmE0NWJkNWFl`

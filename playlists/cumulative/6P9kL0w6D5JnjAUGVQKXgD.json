@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 194693,
       "name": "Are You Sure? (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/0fH86zQcE2CmATQju6WpXv"
@@ -2352,7 +2352,7 @@
       ],
       "date_added": "2021-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 168173,
       "name": "BDE (feat. slowthai)",
       "url": "https://open.spotify.com/track/3ed5gMzocnaLWCvljQdCwe"
@@ -4819,6 +4819,52 @@
     },
     {
       "album": {
+        "name": "Champions",
+        "url": "https://open.spotify.com/album/1xuSorM2dDIiB5zhftB5NY"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Desiigner",
+          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334253,
+      "name": "Champions",
+      "url": "https://open.spotify.com/track/2nBI3iWLhupR7LyAJ5GGkE"
+    },
+    {
+      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/7b4aiTuV4w4OO5nEl924EL"
       },
@@ -5700,7 +5746,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 195483,
       "name": "Congratulations - Don Diablo VIP Mix",
       "url": "https://open.spotify.com/track/04g1aQFzaegB7ovWaMMIzz"
@@ -6214,7 +6260,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 192380,
       "name": "Dance with Somebody",
       "url": "https://open.spotify.com/track/0ThqsnddBDqUqD6nawh5wX"
@@ -7212,7 +7258,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 157338,
       "name": "Don't Hide",
       "url": "https://open.spotify.com/track/5Ddp5V1M84fKmXbtDhASu0"
@@ -8672,7 +8718,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 176639,
       "name": "Fahrenheit",
       "url": "https://open.spotify.com/track/3MXZi355tCBzswOzrpIOAM"
@@ -9660,7 +9706,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 215555,
       "name": "Firin Shots",
       "url": "https://open.spotify.com/track/6aqCQTnhKaAYEhwvgQaMY5"
@@ -9962,7 +10008,7 @@
       ],
       "date_added": "2019-09-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 167440,
       "name": "For You",
       "url": "https://open.spotify.com/track/3PEOQwIjl63hKEc67hyYSY"
@@ -10776,7 +10822,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 269149,
       "name": "Glue",
       "url": "https://open.spotify.com/track/5ZYAufbhkzyhLxk0u2uLqj"
@@ -12390,7 +12436,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 239067,
       "name": "Home (feat. Bonn)",
       "url": "https://open.spotify.com/track/4aTtHoSBB0CuQGA6vXBNyp"
@@ -13134,7 +13180,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 156000,
       "name": "I Feel Good (R3HAB Remix)",
       "url": "https://open.spotify.com/track/1DV04K6TT3Lx2N3dJuRBTi"
@@ -13570,7 +13616,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 150744,
       "name": "I Would Never",
       "url": "https://open.spotify.com/track/1b5ZTzqfIDjilVdOdFCgb4"
@@ -13816,7 +13862,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 181071,
       "name": "ily",
       "url": "https://open.spotify.com/track/6bJnv3XAkUBlNQ9CKiICKl"
@@ -14040,7 +14086,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 179124,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/2HvMyC2NoRJceu6Lgbn4lS"
@@ -15970,7 +16016,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 185365,
       "name": "Let It Be Me - Sondr Remix",
       "url": "https://open.spotify.com/track/2v3DuCVBbopteJqdM7aKQK"
@@ -17448,7 +17494,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 136000,
       "name": "Love We Lost (with R3HAB)",
       "url": "https://open.spotify.com/track/2ayyzfxamdoNRDI0au3wva"
@@ -21422,7 +21468,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 301174,
       "name": "Oxas",
       "url": "https://open.spotify.com/track/3Zg6kO3S4FQ0jMfTIgHzyl"
@@ -24322,7 +24368,7 @@
       ],
       "date_added": "2020-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 168937,
       "name": "Scrub The Ground",
       "url": "https://open.spotify.com/track/1AJAQmdCa9D1JhN6vVbaLJ"
@@ -25098,7 +25144,7 @@
       ],
       "date_added": "2020-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 188160,
       "name": "Sing For Me (with Mary N'diaye)",
       "url": "https://open.spotify.com/track/2U5fAT4kBBbrHAFp6UseoH"
@@ -25618,7 +25664,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 178536,
       "name": "Something Good",
       "url": "https://open.spotify.com/track/76fM7d7hS1jHSzCGIy69DN"
@@ -26946,7 +26992,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 167253,
       "name": "Supersonic (My Existence) [with Noisia, josh pan & Dylan Brady]",
       "url": "https://open.spotify.com/track/7gCuKTyBb5nurNalzs0Hvp"
@@ -27932,7 +27978,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 291532,
       "name": "The Grand Swell",
       "url": "https://open.spotify.com/track/3SwAjQOvQ79jpLZyjzJwJh"
@@ -28734,7 +28780,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 263373,
       "name": "Too Good",
       "url": "https://open.spotify.com/track/11KJSRSgaDxqydKYiD2Jew"
@@ -30666,7 +30712,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 157714,
       "name": "What If I Told You That I Love You - Don Diablo Remix",
       "url": "https://open.spotify.com/track/1J5ubGIOlUBT3t3WgfYidN"
@@ -31620,7 +31666,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 217261,
       "name": "Won\u2019t Let You Go",
       "url": "https://open.spotify.com/track/5UZA39t4lX42ApegVubl7f"
@@ -32152,7 +32198,7 @@
       ],
       "date_added": "2020-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 192026,
       "name": "You Are",
       "url": "https://open.spotify.com/track/418wnyeZOQ6NPVfiNbLsRk"
@@ -32214,7 +32260,7 @@
       ],
       "date_added": "2021-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2021-09-15",
+      "date_removed": null,
       "duration_ms": 228807,
       "name": "You Can Do It",
       "url": "https://open.spotify.com/track/74usZNReO4g4j5aZ0yAmBw"

@@ -223,6 +223,28 @@
     },
     {
       "album": {
+        "name": "Love & Vibes",
+        "url": "https://open.spotify.com/album/5siLX3JnBQwSCMUgPM3Gjp"
+      },
+      "artists": [
+        {
+          "name": "Lexsil",
+          "url": "https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h"
+        },
+        {
+          "name": "Nadia Mukami",
+          "url": "https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191007,
+      "name": "Everybody (feat. Nadia Mukami)",
+      "url": "https://open.spotify.com/track/7F9u95UV1uLvGd2niJByiD"
+    },
+    {
+      "album": {
         "name": "Hoi",
         "url": "https://open.spotify.com/album/2bzN3eovanDiVHhnW9afer"
       },
@@ -510,7 +532,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 222066,
       "name": "Malaika",
       "url": "https://open.spotify.com/track/0HmfKWUkWltmnyHFdFBA4X"
@@ -778,6 +800,32 @@
       "duration_ms": 168045,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/3m9WNPWRYShDu975I5dYtH"
+    },
+    {
+      "album": {
+        "name": "The Lion of Sudah",
+        "url": "https://open.spotify.com/album/4sx5OcEfV3O6BLmKF3FV1h"
+      },
+      "artists": [
+        {
+          "name": "Bensoul",
+          "url": "https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE"
+        },
+        {
+          "name": "Savara",
+          "url": "https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap"
+        },
+        {
+          "name": "Fancy Fingers",
+          "url": "https://open.spotify.com/artist/1xdz3e3xkRKYMS9TqgIbi5"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242024,
+      "name": "My Boo",
+      "url": "https://open.spotify.com/track/7MR6B14XLBuEt167xbdWB5"
     },
     {
       "album": {
@@ -1186,7 +1234,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 157962,
       "name": "Niteke",
       "url": "https://open.spotify.com/track/3dWC1S6dok7pr1B3WyNvQQ"

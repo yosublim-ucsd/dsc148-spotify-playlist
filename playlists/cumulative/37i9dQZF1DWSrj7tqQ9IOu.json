@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover: Camp Claude",
+  "description": "The best French indie tracks right now. Cover: Christine and the Queens",
   "name": "Made in France",
   "tracks": [
     {
@@ -1585,6 +1585,24 @@
     },
     {
       "album": {
+        "name": "Coast 2 Coast",
+        "url": "https://open.spotify.com/album/6y5kCZvxD1Oq5M385icFT9"
+      },
+      "artists": [
+        {
+          "name": "Pearl & The Oysters",
+          "url": "https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164906,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/2w5qTNK3kadYOs8pgc2JRM"
+    },
+    {
+      "album": {
         "name": "first flight",
         "url": "https://open.spotify.com/album/3oSCYW6kooJ9tZqrBCy5qi"
       },
@@ -1908,6 +1926,24 @@
       "duration_ms": 162733,
       "name": "Havana",
       "url": "https://open.spotify.com/track/5ZJ2VXdJ6koG4m7uXptk0g"
+    },
+    {
+      "album": {
+        "name": "HEAR ME. N2.23",
+        "url": "https://open.spotify.com/album/3EKIndqFsifqwrkP4kYYiQ"
+      },
+      "artists": [
+        {
+          "name": "BLOW",
+          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222320,
+      "name": "HEAR ME. N2.23",
+      "url": "https://open.spotify.com/track/7w77qLgJW3lhCuoVTKbOdC"
     },
     {
       "album": {
@@ -2872,7 +2908,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 184026,
       "name": "La Yaris",
       "url": "https://open.spotify.com/track/4M5dyfQlZgFxfhZEvlWvYd"
@@ -3024,6 +3060,24 @@
       "duration_ms": 169226,
       "name": "le moment pr\u00e9sent",
       "url": "https://open.spotify.com/track/6kxkOZuhy1MhEG6OA0cwvR"
+    },
+    {
+      "album": {
+        "name": "Out Loud",
+        "url": "https://open.spotify.com/album/0LGn3ez9k4sgR5WT2XFD0i"
+      },
+      "artists": [
+        {
+          "name": "Victor Marc",
+          "url": "https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "Le soleil revient sans toi",
+      "url": "https://open.spotify.com/track/0b0zIcKGft8yTZv2gqXSxu"
     },
     {
       "album": {
@@ -3702,6 +3756,24 @@
       "duration_ms": 216466,
       "name": "M\u00e9lodie (with DORA)",
       "url": "https://open.spotify.com/track/0t2zRI2lKyJOLsVqAVL6qi"
+    },
+    {
+      "album": {
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/7arCig498ft2Kc7pJJFHxw"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249920,
+      "name": "Night Heights",
+      "url": "https://open.spotify.com/track/7fPM25Phrs4uJhHyuBbVbU"
     },
     {
       "album": {
@@ -4832,7 +4904,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 220684,
       "name": "Sombrer",
       "url": "https://open.spotify.com/track/3TSX5zQARv82t3XkGKBqT1"
@@ -5068,7 +5140,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 226720,
       "name": "T'\u00e9tais pas l\u00e0",
       "url": "https://open.spotify.com/track/46OzY465Q9H3j1OQ0l8UCO"
@@ -5513,6 +5585,28 @@
     },
     {
       "album": {
+        "name": "True love (feat. 070 Shake)",
+        "url": "https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347713,
+      "name": "True love (feat. 070 Shake)",
+      "url": "https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5"
+    },
+    {
+      "album": {
         "name": "The Circle",
         "url": "https://open.spotify.com/album/133flpfpzLu7VJ6xGQLvR7"
       },
@@ -5542,7 +5636,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 178347,
       "name": "Tu me manques",
       "url": "https://open.spotify.com/track/5l81POgmEdF2aUv0zcxSPa"
@@ -5636,7 +5730,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 187370,
       "name": "Une derni\u00e8re fois",
       "url": "https://open.spotify.com/track/3FWo0LZdY98cNzlJ3vkBPO"

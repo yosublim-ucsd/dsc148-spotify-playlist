@@ -1,12 +1,12 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Julieta Venegas en portada.",
-  "num_followers": 480356,
+  "num_followers": 480562,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTY4MDQzMSwwMDAwMDAwMDU0ODYwZWQxOWRmYjExMDg2Mzc3ZjQwZjVmZWM4NzRk",
+  "snapshot_id": "MTY3OTY4MDQzMSwwMDAwMDAwMGRlZjZlZGQyNWI4N2Q1NjY0N2NiZDFmN2VhM2NlMDk3",
   "tracks": [
     {
       "added_at": "2023-03-24 17:53:51",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Kinky (Remastered)",
-        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
-      },
-      "artists": [
-        {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "Soun Tha Mi Primer Amor - Remastered",
-      "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
         "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
       },
@@ -995,6 +979,22 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
+        "name": "Kinky (Remastered)",
+        "url": "https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI"
+      },
+      "artists": [
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "Soun Tha Mi Primer Amor - Remastered",
+      "url": "https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
         "name": "Tasty + B Sides",
         "url": "https://open.spotify.com/album/5IO0ppb7WMdyanUnnBCR0M"
       },
@@ -1007,22 +1007,6 @@
       "duration_ms": 254160,
       "name": "Nalguita",
       "url": "https://open.spotify.com/track/3vEkB7InOc5P7Vs3CNkCB2"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Globoscopio",
-        "url": "https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc"
-      },
-      "artists": [
-        {
-          "name": "Azul Violeta",
-          "url": "https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX"
-        }
-      ],
-      "duration_ms": 273266,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1059,6 +1043,22 @@
       "duration_ms": 305213,
       "name": "Morenaza",
       "url": "https://open.spotify.com/track/6MaTImJcG82qYwx6fJkm84"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Globoscopio",
+        "url": "https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc"
+      },
+      "artists": [
+        {
+          "name": "Azul Violeta",
+          "url": "https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX"
+        }
+      ],
+      "duration_ms": 273266,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY"
     },
     {
       "added_at": "2022-01-28 17:39:37",

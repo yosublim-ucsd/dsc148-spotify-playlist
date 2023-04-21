@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1327,
+  "num_followers": 1326,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTA0NjE4MywwMDAwMDAwMDk1YjBkNmRmYjIxNTdkMmE0NTdhZTA5MWY2Y2E2NzE1",
+  "snapshot_id": "MTY3OTA0NjE4MywwMDAwMDAwMDUyN2U0MmRmMjk1OGQ0MGNlM2MxYmM3OGI3NWEyNzk4",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -459,8 +459,8 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Miss Patylu, vol. 1",
-        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
+        "name": "El Primer D\u00eda de Escuela",
+        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
         }
       ],
-      "duration_ms": 155193,
-      "name": "Leche Con Pan",
-      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
+      "duration_ms": 158693,
+      "name": "El Primer D\u00eda de Escuela",
+      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
+        "name": "Bailar\u00e9 junto a ti",
+        "url": "https://open.spotify.com/album/6IvaryN7xqFwBQQLdWJrFh"
+      },
+      "artists": [
+        {
+          "name": "Cantando con Adriana",
+          "url": "https://open.spotify.com/artist/1nbn5tCrTiPWwDUqhgzMGk"
+        }
+      ],
+      "duration_ms": 101040,
+      "name": "Aguita Y Jabon",
+      "url": "https://open.spotify.com/track/6xAuZbX2PrnuqNqZnloKal"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
         "name": "Sesame Street: Splish Splash - Bath Time Fun",
         "url": "https://open.spotify.com/album/6OmsdGwWWCNw19J8zPCnhw"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 92173,
       "name": "Fixin' My Hair",
       "url": "https://open.spotify.com/track/34AjttGzdQFz3rXmQakgR7"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
-        "name": "Bailar\u00e9 junto a ti",
-        "url": "https://open.spotify.com/album/6IvaryN7xqFwBQQLdWJrFh"
-      },
-      "artists": [
-        {
-          "name": "Cantando con Adriana",
-          "url": "https://open.spotify.com/artist/1nbn5tCrTiPWwDUqhgzMGk"
-        }
-      ],
-      "duration_ms": 101040,
-      "name": "Aguita Y Jabon",
-      "url": "https://open.spotify.com/track/6xAuZbX2PrnuqNqZnloKal"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -631,8 +631,8 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "El Primer D\u00eda de Escuela",
-        "url": "https://open.spotify.com/album/6Al0OxQ0ESjbWkiWHYpKhX"
+        "name": "Miss Patylu, vol. 1",
+        "url": "https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
         }
       ],
-      "duration_ms": 158693,
-      "name": "El Primer D\u00eda de Escuela",
-      "url": "https://open.spotify.com/track/3fkpODmwBAdwSl8AbLWGsB"
+      "duration_ms": 155193,
+      "name": "Leche Con Pan",
+      "url": "https://open.spotify.com/track/6molqV0gi5xSIYJaIv9BEa"
     },
     {
       "added_at": "2023-03-17 09:43:03",

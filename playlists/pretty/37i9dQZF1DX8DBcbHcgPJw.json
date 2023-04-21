@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: FMK, Big One & Ke Personajes.",
-  "num_followers": 1185413,
+  "num_followers": 1185774,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTgxOTMzNCwwMDAwMDAwMDhiN2IyYjQ2MjdlMDJhMjE5NjhjY2NmOTQzNmVkYTlk",
+  "snapshot_id": "MTY4MTgxOTMzNCwwMDAwMDAwMGUwZDJkNDNiM2MwZjM2M2E4OTQzN2I4ZWFkM2NkZWMz",
   "tracks": [
     {
       "added_at": "2023-04-18 12:02:14",
@@ -663,26 +663,18 @@
     {
       "added_at": "2023-04-18 12:02:14",
       "album": {
-        "name": "Flasheaste Amor",
-        "url": "https://open.spotify.com/album/34AlPTtBDL5H8B1Dl2DgoO"
+        "name": "La Champions Liga",
+        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
       },
       "artists": [
         {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        },
-        {
-          "name": "Hernan y La Champion's Liga",
-          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
-        },
-        {
-          "name": "Lauro",
-          "url": "https://open.spotify.com/artist/6jf90HKr9vgFgKaQ2iHGHJ"
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
         }
       ],
-      "duration_ms": 175263,
-      "name": "Flasheaste Amor",
-      "url": "https://open.spotify.com/track/2ACgvo2Kx4LgWqQ2amvM5C"
+      "duration_ms": 127973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
     },
     {
       "added_at": "2023-04-18 12:02:14",
@@ -703,18 +695,26 @@
     {
       "added_at": "2023-04-18 12:02:14",
       "album": {
-        "name": "La Champions Liga",
-        "url": "https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm"
+        "name": "Flasheaste Amor",
+        "url": "https://open.spotify.com/album/34AlPTtBDL5H8B1Dl2DgoO"
       },
       "artists": [
         {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        },
+        {
+          "name": "Hernan y La Champion's Liga",
+          "url": "https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt"
+        },
+        {
+          "name": "Lauro",
+          "url": "https://open.spotify.com/artist/6jf90HKr9vgFgKaQ2iHGHJ"
         }
       ],
-      "duration_ms": 127973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD"
+      "duration_ms": 175263,
+      "name": "Flasheaste Amor",
+      "url": "https://open.spotify.com/track/2ACgvo2Kx4LgWqQ2amvM5C"
     },
     {
       "added_at": "2023-04-18 12:02:14",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-04-18 12:02:14",
       "album": {
+        "name": "De Fiesta",
+        "url": "https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf"
+      },
+      "artists": [
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
+        }
+      ],
+      "duration_ms": 131004,
+      "name": "Locuras contigo",
+      "url": "https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg"
+    },
+    {
+      "added_at": "2023-04-18 12:02:14",
+      "album": {
         "name": "Aunque Te Enamores",
         "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 130212,
       "name": "Aunque Te Enamores",
       "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
-    },
-    {
-      "added_at": "2023-04-18 12:02:14",
-      "album": {
-        "name": "De Fiesta",
-        "url": "https://open.spotify.com/album/5QcyFFfTjCqvhVUO9Dl8pf"
-      },
-      "artists": [
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
-        }
-      ],
-      "duration_ms": 131004,
-      "name": "Locuras contigo",
-      "url": "https://open.spotify.com/track/5jMvnSyOgGY8JpvHqeyVOg"
     },
     {
       "added_at": "2023-04-18 12:02:14",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-04-18 12:02:14",
       "album": {
-        "name": "El Otro",
-        "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
-      },
-      "artists": [
-        {
-          "name": "Chano",
-          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
-        }
-      ],
-      "duration_ms": 190813,
-      "name": "Carnavalintro",
-      "url": "https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0"
-    },
-    {
-      "added_at": "2023-04-18 12:02:14",
-      "album": {
         "name": "Ya No Llora",
         "url": "https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 152942,
       "name": "Noche de Party",
       "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
+    },
+    {
+      "added_at": "2023-04-18 12:02:14",
+      "album": {
+        "name": "El Otro",
+        "url": "https://open.spotify.com/album/6swPfLunPCGK1WcmMML99p"
+      },
+      "artists": [
+        {
+          "name": "Chano",
+          "url": "https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM"
+        }
+      ],
+      "duration_ms": 190813,
+      "name": "Carnavalintro",
+      "url": "https://open.spotify.com/track/6XxIFsqBxiUct0UK7deoJ0"
     },
     {
       "added_at": "2023-04-18 12:02:14",
@@ -1059,30 +1059,6 @@
     {
       "added_at": "2023-04-18 12:02:14",
       "album": {
-        "name": "Nuestro Amor Regresa",
-        "url": "https://open.spotify.com/album/2e5tKhL1WWZa17slG15nyx"
-      },
-      "artists": [
-        {
-          "name": "Marama",
-          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
-        },
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "Nuestro Amor Regresa",
-      "url": "https://open.spotify.com/track/17NXlqBKA08Qf6Jt4kpc14"
-    },
-    {
-      "added_at": "2023-04-18 12:02:14",
-      "album": {
         "name": "Vas a Querer Regresar",
         "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
       },
@@ -1103,6 +1079,30 @@
       "duration_ms": 199270,
       "name": "Vas a Querer Regresar",
       "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
+    },
+    {
+      "added_at": "2023-04-18 12:02:14",
+      "album": {
+        "name": "Nuestro Amor Regresa",
+        "url": "https://open.spotify.com/album/2e5tKhL1WWZa17slG15nyx"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "Nuestro Amor Regresa",
+      "url": "https://open.spotify.com/track/17NXlqBKA08Qf6Jt4kpc14"
     },
     {
       "added_at": "2023-04-18 12:02:14",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-04-18 12:02:14",
       "album": {
-        "name": "Summer Pack",
-        "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
-      },
-      "artists": [
-        {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
-        }
-      ],
-      "duration_ms": 135400,
-      "name": "Lloviendo Estrellas",
-      "url": "https://open.spotify.com/track/047FBnA7oPMeqV3tAmdISa"
-    },
-    {
-      "added_at": "2023-04-18 12:02:14",
-      "album": {
         "name": "Me Voy",
         "url": "https://open.spotify.com/album/4ZsEahCVUrqLbheIJR91bN"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 177786,
       "name": "Me Voy",
       "url": "https://open.spotify.com/track/22sESxzbY1O1E19xjOTaYf"
+    },
+    {
+      "added_at": "2023-04-18 12:02:14",
+      "album": {
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/6hbdZKUwC4l3Fee6NuxuAm"
+      },
+      "artists": [
+        {
+          "name": "Juan Ingaramo",
+          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
+        }
+      ],
+      "duration_ms": 135400,
+      "name": "Lloviendo Estrellas",
+      "url": "https://open.spotify.com/track/047FBnA7oPMeqV3tAmdISa"
     },
     {
       "added_at": "2023-04-18 12:02:14",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2023-04-18 12:02:14",
       "album": {
+        "name": "Y Si Est\u00e1s Perseguido...!",
+        "url": "https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq"
+      },
+      "artists": [
+        {
+          "name": "El Perro",
+          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+        }
+      ],
+      "duration_ms": 161410,
+      "name": "Te Escapas De Mis Brazos",
+      "url": "https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8"
+    },
+    {
+      "added_at": "2023-04-18 12:02:14",
+      "album": {
         "name": "Cumbia Baby!",
         "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 199495,
       "name": "La Noche No Es para Dormir",
       "url": "https://open.spotify.com/track/07ZHn1csuJvAQAZiYFds12"
-    },
-    {
-      "added_at": "2023-04-18 12:02:14",
-      "album": {
-        "name": "De los Besos Que Te Di",
-        "url": "https://open.spotify.com/album/2CoAYWDIDeKHaUswbc9fws"
-      },
-      "artists": [
-        {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        }
-      ],
-      "duration_ms": 186734,
-      "name": "De los Besos Que Te Di",
-      "url": "https://open.spotify.com/track/6IPYskK5xGPGyxmA1yuoRs"
     },
     {
       "added_at": "2023-04-18 12:02:14",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2023-04-18 12:02:14",
       "album": {
-        "name": "Y Si Est\u00e1s Perseguido...!",
-        "url": "https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq"
+        "name": "De los Besos Que Te Di",
+        "url": "https://open.spotify.com/album/2CoAYWDIDeKHaUswbc9fws"
       },
       "artists": [
         {
-          "name": "El Perro",
-          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
         }
       ],
-      "duration_ms": 161410,
-      "name": "Te Escapas De Mis Brazos",
-      "url": "https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8"
+      "duration_ms": 186734,
+      "name": "De los Besos Que Te Di",
+      "url": "https://open.spotify.com/track/6IPYskK5xGPGyxmA1yuoRs"
     },
     {
       "added_at": "2023-04-18 12:02:14",
@@ -1515,26 +1515,18 @@
     {
       "added_at": "2023-04-18 12:02:14",
       "album": {
-        "name": "Camila / Segu\u00ed la flecha / No pinto pajaritos",
-        "url": "https://open.spotify.com/album/3Du6tfNXrSoamWDmsQ58Zr"
+        "name": "CUMBIA DE BARRIO",
+        "url": "https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ"
       },
       "artists": [
         {
-          "name": "El Mala",
-          "url": "https://open.spotify.com/artist/1LSYfRidvKN3sUXOg8HDWC"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
         }
       ],
-      "duration_ms": 184456,
-      "name": "Camila / Segu\u00ed la flecha / No pinto pajaritos",
-      "url": "https://open.spotify.com/track/1qTBg3MqElniTUD4DF3dcE"
+      "duration_ms": 181354,
+      "name": "CUMBIA DE BARRIO",
+      "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
     },
     {
       "added_at": "2023-04-18 12:02:14",
@@ -1559,34 +1551,26 @@
     {
       "added_at": "2023-04-18 12:02:14",
       "album": {
-        "name": "CUMBIA DE BARRIO",
-        "url": "https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ"
+        "name": "Camila / Segu\u00ed la flecha / No pinto pajaritos",
+        "url": "https://open.spotify.com/album/3Du6tfNXrSoamWDmsQ58Zr"
       },
       "artists": [
         {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
-        }
-      ],
-      "duration_ms": 181354,
-      "name": "CUMBIA DE BARRIO",
-      "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
-    },
-    {
-      "added_at": "2023-04-18 12:02:14",
-      "album": {
-        "name": "Maravillosa Esta Noche",
-        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
-      },
-      "artists": [
+          "name": "El Mala",
+          "url": "https://open.spotify.com/artist/1LSYfRidvKN3sUXOg8HDWC"
+        },
         {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
         }
       ],
-      "duration_ms": 242400,
-      "name": "Maravillosa Esta Noche",
-      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
+      "duration_ms": 184456,
+      "name": "Camila / Segu\u00ed la flecha / No pinto pajaritos",
+      "url": "https://open.spotify.com/track/1qTBg3MqElniTUD4DF3dcE"
     },
     {
       "added_at": "2023-04-18 12:02:14",
@@ -1603,6 +1587,22 @@
       "duration_ms": 164081,
       "name": "El Equivocado",
       "url": "https://open.spotify.com/track/4bi9EKw1E7hDldh36dhp1R"
+    },
+    {
+      "added_at": "2023-04-18 12:02:14",
+      "album": {
+        "name": "Maravillosa Esta Noche",
+        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Maravillosa Esta Noche",
+      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
     },
     {
       "added_at": "2023-04-18 12:02:14",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2023-04-18 12:02:14",
       "album": {
-        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
-        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
+        "name": "Ya Sup\u00e9rame",
+        "url": "https://open.spotify.com/album/7yMrWYOXO2U8ZTl8DT8sE1"
       },
       "artists": [
         {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
         }
       ],
-      "duration_ms": 475951,
-      "name": "Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera",
-      "url": "https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr"
+      "duration_ms": 125909,
+      "name": "Ya Sup\u00e9rame",
+      "url": "https://open.spotify.com/track/0jPKUwIK6xiB5xZWXoYGXk"
     },
     {
       "added_at": "2023-04-18 12:02:14",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-04-18 12:02:14",
       "album": {
-        "name": "Ya Sup\u00e9rame",
-        "url": "https://open.spotify.com/album/7yMrWYOXO2U8ZTl8DT8sE1"
-      },
-      "artists": [
-        {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        }
-      ],
-      "duration_ms": 125909,
-      "name": "Ya Sup\u00e9rame",
-      "url": "https://open.spotify.com/track/0jPKUwIK6xiB5xZWXoYGXk"
-    },
-    {
-      "added_at": "2023-04-18 12:02:14",
-      "album": {
         "name": "Todavia Me Amas / La Novelita / Los Infieles",
         "url": "https://open.spotify.com/album/7H121ttrb3Hz1D34G2KJW0"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 263496,
       "name": "Todavia Me Amas / La Novelita / Los Infieles",
       "url": "https://open.spotify.com/track/4LN5b4doyzFdKK9SgwEm8p"
+    },
+    {
+      "added_at": "2023-04-18 12:02:14",
+      "album": {
+        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
+        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 475951,
+      "name": "Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera",
+      "url": "https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr"
     },
     {
       "added_at": "2023-04-18 12:02:14",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2023-04-18 12:02:14",
       "album": {
+        "name": "El Color de Tus Ojos",
+        "url": "https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        }
+      ],
+      "duration_ms": 156821,
+      "name": "El Color de Tus Ojos",
+      "url": "https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz"
+    },
+    {
+      "added_at": "2023-04-18 12:02:14",
+      "album": {
         "name": "Sigue Bailando",
         "url": "https://open.spotify.com/album/7qiIuRaqtRk5PtUdzL96ZS"
       },
@@ -1827,22 +1843,6 @@
     {
       "added_at": "2023-04-18 12:02:14",
       "album": {
-        "name": "Fuego en la Noche",
-        "url": "https://open.spotify.com/album/3kuFkR32n0p4DEQ9LOXnmU"
-      },
-      "artists": [
-        {
-          "name": "El Super Hobby",
-          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
-        }
-      ],
-      "duration_ms": 147960,
-      "name": "Chica Brasile\u00f1a",
-      "url": "https://open.spotify.com/track/3cjnOR9smeeqVfj13XSpqS"
-    },
-    {
-      "added_at": "2023-04-18 12:02:14",
-      "album": {
         "name": "P\u00eddeme la Luna",
         "url": "https://open.spotify.com/album/4T4FeDNo1vPoJ1CycNu5gZ"
       },
@@ -1859,34 +1859,34 @@
     {
       "added_at": "2023-04-18 12:02:14",
       "album": {
-        "name": "Se me va la voz / Normal",
-        "url": "https://open.spotify.com/album/3lEPODcqZx2MNFj1xbXAd8"
+        "name": "Fuego en la Noche",
+        "url": "https://open.spotify.com/album/3kuFkR32n0p4DEQ9LOXnmU"
       },
       "artists": [
         {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+          "name": "El Super Hobby",
+          "url": "https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V"
         }
       ],
-      "duration_ms": 242073,
-      "name": "Se me va la voz / Normal",
-      "url": "https://open.spotify.com/track/717a02PPNnSexxZySWaG9t"
+      "duration_ms": 147960,
+      "name": "Chica Brasile\u00f1a",
+      "url": "https://open.spotify.com/track/3cjnOR9smeeqVfj13XSpqS"
     },
     {
       "added_at": "2023-04-18 12:02:14",
       "album": {
-        "name": "El Color de Tus Ojos",
-        "url": "https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO"
+        "name": "Gracias a Vos",
+        "url": "https://open.spotify.com/album/17JKI0xNdEeTDqJUKqNYUr"
       },
       "artists": [
         {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
         }
       ],
-      "duration_ms": 156821,
-      "name": "El Color de Tus Ojos",
-      "url": "https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz"
+      "duration_ms": 129505,
+      "name": "Gracias a Vos",
+      "url": "https://open.spotify.com/track/7JrFcPtiHC0bB5F8LlHTIE"
     }
   ],
   "unique_name": "Dame M\u00e1s Cumbia",

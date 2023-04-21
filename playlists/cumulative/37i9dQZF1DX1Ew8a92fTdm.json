@@ -808,7 +808,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 161500,
       "name": "Don't Grow Up Too Soon",
       "url": "https://open.spotify.com/track/1Y2GR3ytnyBeMUGl53yF5g"
@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Du k\u00e4ra lille snickarbo",
+        "url": "https://open.spotify.com/album/3jAwCwcqjsGdPSkrcA68Co"
+      },
+      "artists": [
+        {
+          "name": "Rene Roses",
+          "url": "https://open.spotify.com/artist/221z7KkoNPAehx4DhjF33f"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111283,
+      "name": "Du k\u00e4ra lille snickarbo",
+      "url": "https://open.spotify.com/track/7ej3sLTJUZl8DuFsvGfZ1A"
+    },
+    {
+      "album": {
         "name": "Du K\u00e4re Lille Snickerbo",
         "url": "https://open.spotify.com/album/26EFRwAOhaDc3sg3QyH5ai"
       },
@@ -1028,6 +1046,24 @@
       "duration_ms": 66992,
       "name": "Elsas Vaggvisa (MusicBox)",
       "url": "https://open.spotify.com/track/10oj8CDN9OqSJRoajUH4Oe"
+    },
+    {
+      "album": {
+        "name": "Elvira Fattigans S\u00e5ng",
+        "url": "https://open.spotify.com/album/7gDqsbPcfTsUwkWrxBSnJk"
+      },
+      "artists": [
+        {
+          "name": "Wilda Sigridsdottir",
+          "url": "https://open.spotify.com/artist/5BRw3Nw9N9xMeukUV9rw5S"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115874,
+      "name": "Elvira Fattigans Song",
+      "url": "https://open.spotify.com/track/2SBnTu8Ne3WInyZlXuKB5o"
     },
     {
       "album": {
@@ -1474,7 +1510,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 117785,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/3dsyTAFaheGia7mzN23joQ"
@@ -1571,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "John Blund",
+        "url": "https://open.spotify.com/album/4mQHKIcKPh6CmIxcpYOuLK"
+      },
+      "artists": [
+        {
+          "name": "Mel Rhodes",
+          "url": "https://open.spotify.com/artist/4w5EOctmJhCFqHsXJw5nT4"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79798,
+      "name": "John Blund",
+      "url": "https://open.spotify.com/track/3YNJRAOhFEQtebjq8j6sWN"
+    },
+    {
+      "album": {
         "name": "Joyful Dreams",
         "url": "https://open.spotify.com/album/48BRkijGa9KDMkWltUiuTp"
       },
@@ -1654,7 +1708,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 102573,
       "name": "Little Bo Peep",
       "url": "https://open.spotify.com/track/2up0LGm75ZneCdHr8ngfKa"
@@ -1726,10 +1780,28 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 85474,
       "name": "Lullaby For My Dearest",
       "url": "https://open.spotify.com/track/4llzqO9uUBV4TTE0TbfNCF"
+    },
+    {
+      "album": {
+        "name": "Lullaby For Oliva (MusicBox)",
+        "url": "https://open.spotify.com/album/4jaFw6pNfRYvQgWHDzb6f4"
+      },
+      "artists": [
+        {
+          "name": "Green Dino",
+          "url": "https://open.spotify.com/artist/7MVCEO6QGAHj3KIIQplBpl"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92144,
+      "name": "Lullaby For Oliva (MusicBox)",
+      "url": "https://open.spotify.com/track/1Ic5ecQVRTmaAVxNAXFdij"
     },
     {
       "album": {
@@ -2068,10 +2140,28 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 104005,
       "name": "Once Upon A Star",
       "url": "https://open.spotify.com/track/0OYg9WxGtCb046jKfVVM8O"
+    },
+    {
+      "album": {
+        "name": "One Two Three",
+        "url": "https://open.spotify.com/album/1z9BkOTZESIn64PfUqOFRt"
+      },
+      "artists": [
+        {
+          "name": "Teddy Yawns",
+          "url": "https://open.spotify.com/artist/6wWETmvBDGKmiNBypzSLdL"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83382,
+      "name": "One Two Three",
+      "url": "https://open.spotify.com/track/6xzTftimykDDWxCKVzICLC"
     },
     {
       "album": {
@@ -2201,6 +2291,24 @@
     },
     {
       "album": {
+        "name": "Puff the magic dragon",
+        "url": "https://open.spotify.com/album/4aYcSWwf9BNF7UzwZL7CdN"
+      },
+      "artists": [
+        {
+          "name": "Un Rose",
+          "url": "https://open.spotify.com/artist/2L7wQxWHlSVom2T0r5h45G"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99452,
+      "name": "Puff the magic dragon",
+      "url": "https://open.spotify.com/track/4leWqNkAmWtG2YLzb2cT3q"
+    },
+    {
+      "album": {
         "name": "Que Linda Manita",
         "url": "https://open.spotify.com/album/0d6Uw4qOFr4CXufEReGGwc"
       },
@@ -2320,7 +2428,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 73996,
       "name": "See You In The Morning",
       "url": "https://open.spotify.com/track/65Il6ojXnanbNrm33uMYAj"
@@ -2432,6 +2540,24 @@
       "duration_ms": 109044,
       "name": "Sleep Tight",
       "url": "https://open.spotify.com/track/3WYzdiuE5IViSiYn0eTfaU"
+    },
+    {
+      "album": {
+        "name": "Elvira Fattigans S\u00e5ng",
+        "url": "https://open.spotify.com/album/7gDqsbPcfTsUwkWrxBSnJk"
+      },
+      "artists": [
+        {
+          "name": "Wilda Sigridsdottir",
+          "url": "https://open.spotify.com/artist/5BRw3Nw9N9xMeukUV9rw5S"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93250,
+      "name": "Sleep Well",
+      "url": "https://open.spotify.com/track/2Eopi5U2T0C9CXru05TppU"
     },
     {
       "album": {
@@ -2738,6 +2864,24 @@
       "duration_ms": 68750,
       "name": "Suo G\u00e2n",
       "url": "https://open.spotify.com/track/5ejZpwnJQipTb8H7IHr6va"
+    },
+    {
+      "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/0lD7lhZoXu7OPcH6hozqIw"
+      },
+      "artists": [
+        {
+          "name": "Box the Music",
+          "url": "https://open.spotify.com/artist/46P9q5Ebet7HTKGpqyysV8"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105943,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/2BwNQUTBCxpDlIvM0QazQi"
     },
     {
       "album": {
@@ -3299,6 +3443,24 @@
     },
     {
       "album": {
+        "name": "What a wonderful world",
+        "url": "https://open.spotify.com/album/3kPXdk1E6QyVk7Mz2LYL7n"
+      },
+      "artists": [
+        {
+          "name": "Elliot Gordon",
+          "url": "https://open.spotify.com/artist/57vFl2LNxCx1EPf2cqMe2a"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133263,
+      "name": "What a wonderful world",
+      "url": "https://open.spotify.com/track/4MqtOQaiDKJlVCOmUOjL36"
+    },
+    {
+      "album": {
         "name": "Classics on Music Box",
         "url": "https://open.spotify.com/album/58bmcL0R1A0b0MTY34sZS2"
       },
@@ -3346,7 +3508,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 97000,
       "name": "When you wish upon a star",
       "url": "https://open.spotify.com/track/4yT4xev2ymB9x0SCahcLlV"
@@ -3400,7 +3562,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 95937,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/6sGDR7NjjMNmoj2ORLOyFZ"

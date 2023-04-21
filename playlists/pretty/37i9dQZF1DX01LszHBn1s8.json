@@ -1,13 +1,33 @@
 {
-  "description": "OH I LOVE IT AND I HATE IT AT THE SAME TIME ",
-  "num_followers": 179193,
+  "description": "If I were a fish and you caught me you'd say look at that fish!!!",
+  "num_followers": 179375,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTkwNDQzNSwwMDAwMDAwMDU1ZDc4NmNiMTQ5N2ZkYzEzZTZmNDdjMmFhMGEyYTdk",
+  "snapshot_id": "MTY4MjAzMjE1OCwwMDAwMDAwMDk5OGUwYzZhNThmYzU0ZjM4YWM0NWNlOGZkYjQxY2U2",
   "tracks": [
+    {
+      "added_at": "2023-04-20 23:09:18",
+      "album": {
+        "name": "if i were a fish (feat. Olivia Barton)",
+        "url": "https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        },
+        {
+          "name": "Olivia Barton",
+          "url": "https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1"
+        }
+      ],
+      "duration_ms": 141903,
+      "name": "if i were a fish (feat. Olivia Barton)",
+      "url": "https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g"
+    },
     {
       "added_at": "2023-04-13 22:00:00",
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 279896,
+  "num_followers": 279965,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTYxNjAwMCwwMDAwMDAwMDJiYjE2YjY1NGM1OGJjMDcyMmE3ZWUzMzczYTA4Zjhl",
+  "snapshot_id": "MTY3OTYxNjAwMCwwMDAwMDAwMDc1YzhhYTFjOGQ3ZDhkNWY1ZjIxYjE2NTIzYzBjZmY5",
   "tracks": [
     {
       "added_at": "2023-03-24 00:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Anak Ko",
-        "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
-      },
-      "artists": [
-        {
-          "name": "Jay Som",
-          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
-        }
-      ],
-      "duration_ms": 241097,
-      "name": "Tenderness",
-      "url": "https://open.spotify.com/track/6xlO0KbxxktH6OnY56wkwF"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 400037,
       "name": "Earth To Sea",
       "url": "https://open.spotify.com/track/2njyI8ksGaS9H0K3OZxVpp"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "Anak Ko",
+        "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
+      },
+      "artists": [
+        {
+          "name": "Jay Som",
+          "url": "https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO"
+        }
+      ],
+      "duration_ms": 241097,
+      "name": "Tenderness",
+      "url": "https://open.spotify.com/track/6xlO0KbxxktH6OnY56wkwF"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Plum",
-        "url": "https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA"
-      },
-      "artists": [
-        {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
-        }
-      ],
-      "duration_ms": 264954,
-      "name": "Plum",
-      "url": "https://open.spotify.com/track/5IGWNhUvt8pmhlUF5bGz2a"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "Lean Into Life",
         "url": "https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 327266,
       "name": "Lean Into Life",
       "url": "https://open.spotify.com/track/59I8EVpxxsE50dQRPpaBms"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "Plum",
+        "url": "https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "duration_ms": 264954,
+      "name": "Plum",
+      "url": "https://open.spotify.com/track/5IGWNhUvt8pmhlUF5bGz2a"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "27 Club",
-        "url": "https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 214137,
-      "name": "27 Club",
-      "url": "https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Shadam",
-        "url": "https://open.spotify.com/album/3VjokSh7ZReeBII2o5ORAS"
+        "name": "27 Club",
+        "url": "https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW"
       },
       "artists": [
         {
-          "name": "Camp Claude",
-          "url": "https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB"
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
         }
       ],
-      "duration_ms": 234760,
-      "name": "Shadam",
-      "url": "https://open.spotify.com/track/69Fn2if8AVxUGC3khEJHDM"
+      "duration_ms": 214137,
+      "name": "27 Club",
+      "url": "https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -691,18 +675,18 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Notice Me",
-        "url": "https://open.spotify.com/album/1kOhuN7E5bWjkfUUu1BDID"
+        "name": "number own",
+        "url": "https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c"
       },
       "artists": [
         {
-          "name": "Peach Luffe",
-          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+          "name": "hanbee",
+          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
         }
       ],
-      "duration_ms": 152307,
-      "name": "Notice Me",
-      "url": "https://open.spotify.com/track/0QvmhbIf4rbeRx4DzAbIce"
+      "duration_ms": 159032,
+      "name": "number own",
+      "url": "https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -723,18 +707,34 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "number own",
-        "url": "https://open.spotify.com/album/5dgEKrKHdm5NzdjbjRSQ7c"
+        "name": "Shadam",
+        "url": "https://open.spotify.com/album/3VjokSh7ZReeBII2o5ORAS"
       },
       "artists": [
         {
-          "name": "hanbee",
-          "url": "https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk"
+          "name": "Camp Claude",
+          "url": "https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB"
         }
       ],
-      "duration_ms": 159032,
-      "name": "number own",
-      "url": "https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF"
+      "duration_ms": 234760,
+      "name": "Shadam",
+      "url": "https://open.spotify.com/track/69Fn2if8AVxUGC3khEJHDM"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "Notice Me",
+        "url": "https://open.spotify.com/album/1kOhuN7E5bWjkfUUu1BDID"
+      },
+      "artists": [
+        {
+          "name": "Peach Luffe",
+          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+        }
+      ],
+      "duration_ms": 152307,
+      "name": "Notice Me",
+      "url": "https://open.spotify.com/track/0QvmhbIf4rbeRx4DzAbIce"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Polymorphe",
-        "url": "https://open.spotify.com/album/1Mi10Z1Hh8DAQikC7n8KYI"
-      },
-      "artists": [
-        {
-          "name": "Laurence-Anne",
-          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
-        }
-      ],
-      "duration_ms": 216146,
-      "name": "Polymorphe",
-      "url": "https://open.spotify.com/track/1szVCzng0CIp1LdNVV0JfP"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "Ways To Get Out (Deluxe)",
         "url": "https://open.spotify.com/album/7FmLx521t1FJ6bWggcuNCY"
       },
@@ -951,22 +935,34 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Your Type",
-        "url": "https://open.spotify.com/album/1jPDRUC92JFdr6zCTnugV3"
+        "name": "Polymorphe",
+        "url": "https://open.spotify.com/album/1Mi10Z1Hh8DAQikC7n8KYI"
       },
       "artists": [
         {
-          "name": "bb sway",
-          "url": "https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz"
-        },
-        {
-          "name": "Basile Petite",
-          "url": "https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE"
+          "name": "Laurence-Anne",
+          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
         }
       ],
-      "duration_ms": 241560,
-      "name": "Your Type",
-      "url": "https://open.spotify.com/track/1xEZKgQsD52AvrFxpON5EX"
+      "duration_ms": 216146,
+      "name": "Polymorphe",
+      "url": "https://open.spotify.com/track/1szVCzng0CIp1LdNVV0JfP"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "If I Come Home",
+        "url": "https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45"
+      },
+      "artists": [
+        {
+          "name": "lil rozey",
+          "url": "https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u"
+        }
+      ],
+      "duration_ms": 216145,
+      "name": "If I Come Home",
+      "url": "https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -987,18 +983,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "If I Come Home",
-        "url": "https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45"
+        "name": "Your Type",
+        "url": "https://open.spotify.com/album/1jPDRUC92JFdr6zCTnugV3"
       },
       "artists": [
         {
-          "name": "lil rozey",
-          "url": "https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u"
+          "name": "bb sway",
+          "url": "https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz"
+        },
+        {
+          "name": "Basile Petite",
+          "url": "https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE"
         }
       ],
-      "duration_ms": 216145,
-      "name": "If I Come Home",
-      "url": "https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm"
+      "duration_ms": 241560,
+      "name": "Your Type",
+      "url": "https://open.spotify.com/track/1xEZKgQsD52AvrFxpON5EX"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "rest up",
+        "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 204464,
+      "name": "rest up",
+      "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "George Clanton and Nick Hexum",
         "url": "https://open.spotify.com/album/714XLbWXbM8C6sfaYALRG7"
       },
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "rest up",
-        "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 204464,
-      "name": "rest up",
-      "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "Detox",
         "url": "https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI"
       },
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Jay II",
-        "url": "https://open.spotify.com/album/3POZPNpTVD49agqnSXpXes"
-      },
-      "artists": [
-        {
-          "name": "Jay Arner",
-          "url": "https://open.spotify.com/artist/6crQDsQSmr4hlmhb9nkGQ4"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "Earth to Jay",
-      "url": "https://open.spotify.com/track/1iWYgk1B62lSeNCocRAMVm"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "Heavy Days",
         "url": "https://open.spotify.com/album/5B2eSjpDpzAmIxfpGndPHe"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 227683,
       "name": "Heavy Days",
       "url": "https://open.spotify.com/track/0nGmz6gDOZdRh0rYd623P9"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "Jay II",
+        "url": "https://open.spotify.com/album/3POZPNpTVD49agqnSXpXes"
+      },
+      "artists": [
+        {
+          "name": "Jay Arner",
+          "url": "https://open.spotify.com/artist/6crQDsQSmr4hlmhb9nkGQ4"
+        }
+      ],
+      "duration_ms": 240426,
+      "name": "Earth to Jay",
+      "url": "https://open.spotify.com/track/1iWYgk1B62lSeNCocRAMVm"
     },
     {
       "added_at": "2023-03-24 00:00:00",

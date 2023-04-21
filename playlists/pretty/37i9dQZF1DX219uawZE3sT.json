@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 113156,
+  "num_followers": 113237,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTg2MTk0NiwwMDAwMDAwMDNjZTIwMzE4NDMzZWU1ZTYwNTdkY2Q0NWY0ZDMwNGQ3",
+  "snapshot_id": "MTY1MTg2MTk0NiwwMDAwMDAwMDg1NDhkYTQ0OGU2NDU4NjdlNzExMjMzMmQ2OWU5M2Yy",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Da' Take Over",
-        "url": "https://open.spotify.com/album/441w84evLgVKSEgdIw8f3m"
-      },
-      "artists": [
-        {
-          "name": "Angel Y Khriz",
-          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
-        }
-      ],
-      "duration_ms": 236080,
-      "name": "Ayer La Vi",
-      "url": "https://open.spotify.com/track/2DcgfpjjP0EDY11XiBKUnX"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "La vida es... Amor sincero",
         "url": "https://open.spotify.com/album/3LiUITjrr8pxbeejKsgF5u"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 226433,
       "name": "Amor sincero",
       "url": "https://open.spotify.com/track/4OPLeqfkiSm5tLz9A6Rst4"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Da' Take Over",
+        "url": "https://open.spotify.com/album/441w84evLgVKSEgdIw8f3m"
+      },
+      "artists": [
+        {
+          "name": "Angel Y Khriz",
+          "url": "https://open.spotify.com/artist/7npqy7rgdX2D3yfVyWExKo"
+        }
+      ],
+      "duration_ms": 236080,
+      "name": "Ayer La Vi",
+      "url": "https://open.spotify.com/track/2DcgfpjjP0EDY11XiBKUnX"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Se Dice de Mi, Yo Soy Betty la Fea.",
-        "url": "https://open.spotify.com/album/58XAbuYyEa6UV5wIuEgN2x"
-      },
-      "artists": [
-        {
-          "name": "Yolanda Rayo",
-          "url": "https://open.spotify.com/artist/6huV8wdNiXy3qqVuvXAquU"
-        }
-      ],
-      "duration_ms": 145005,
-      "name": "Se Dice de Mi (Yo Soy Betty la Fea) (Versi\u00f3n Completa)",
-      "url": "https://open.spotify.com/track/6oq52sFxdbZn9JOJPXcNSc"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "Mis \u00cdntimas Razones",
         "url": "https://open.spotify.com/album/0NVKTnvoqBpIGJDgT8A7yr"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 220706,
       "name": "Un Alma en Pena",
       "url": "https://open.spotify.com/track/19a0LWL0uI0ggevU7QpzpG"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Se Dice de Mi, Yo Soy Betty la Fea.",
+        "url": "https://open.spotify.com/album/58XAbuYyEa6UV5wIuEgN2x"
+      },
+      "artists": [
+        {
+          "name": "Yolanda Rayo",
+          "url": "https://open.spotify.com/artist/6huV8wdNiXy3qqVuvXAquU"
+        }
+      ],
+      "duration_ms": 145005,
+      "name": "Se Dice de Mi (Yo Soy Betty la Fea) (Versi\u00f3n Completa)",
+      "url": "https://open.spotify.com/track/6oq52sFxdbZn9JOJPXcNSc"
     }
   ],
   "unique_name": "Telenovelas",

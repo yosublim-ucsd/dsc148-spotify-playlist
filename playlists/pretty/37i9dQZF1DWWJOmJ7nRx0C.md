@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Sevendust
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,537 likes - 142 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,740 likes - 142 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:Dok2, Blacknut, Jimmy Page, Blase, SMUGGLERS\)\)
 
-872 songs - 2 day 0 hr 23 min
+874 songs - 2 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [DEJAVU \(Feat\. Jay Park\) \(Prod\. by Slom\)](https://open.spotify.com/track/3SB8fH05CZEkPTWJAgkAB2) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:38 | 2023-01-02 |  |
 | [Desperado](https://open.spotify.com/track/2f6FeSVRU7OINi0OLkeFqj) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [OFF DUTY](https://open.spotify.com/album/5bC4Moqxle03k5N2RbhVun) | 3:38 | 2022-09-02 | 2022-09-04 |
 | [Dessert shop \(Feat\. h3hyeon\)](https://open.spotify.com/track/6hMwJeEhfeVm98LyRN7WWk) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [Beginning](https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0) | 2:52 | 2022-01-24 | 2022-07-08 |
+| [Dial \(Feat\. Leellamarz, BIG Naughty\)](https://open.spotify.com/track/58ILKjE5DjYfGIHNQa5qij) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Come Away](https://open.spotify.com/album/0oM3Tgtq9hZ6ZoiWzVlyt3) | 2:56 | 2023-04-20 |  |
 | [Diamonds](https://open.spotify.com/track/73Za0sGW3USEZjoNrYX145) | [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ) | [Pain Melody](https://open.spotify.com/album/2ptGsggWDr8uFfczVGVgBC) | 2:35 | 2022-09-02 | 2022-09-23 |
 | [Diamonds \(Feat\. lIlBOI, Spray\)](https://open.spotify.com/track/6KgkuACjbs8BCaGwwZt4Fj) | [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Spray](https://open.spotify.com/artist/08yoNApAYvtzOK5P3qZKw8) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 4:12 | 2023-01-02 |  |
 | [Dickhead Freestyle \(Feat\. viceversa, Swings\)](https://open.spotify.com/track/7w8mE5b0EdpVplCnJKbwZX) | [Ian Ka$h](https://open.spotify.com/artist/0WlRUcYhuk4rkUm4zEpXu1), [viceversa](https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [ICEBOX](https://open.spotify.com/album/3BwNFpY7SMop2NmhaFrO41) | 2:42 | 2022-10-23 | 2022-12-10 |
@@ -653,6 +654,7 @@
 | [ridah 7](https://open.spotify.com/track/6rEEyrCL3Z613rR7ejS2JY) | [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva) | [lobonatune2¡](https://open.spotify.com/album/4lH36ZOYZO1P82wQbwiqN9) | 2:07 | 2022-03-26 | 2022-06-12 |
 | [Ride](https://open.spotify.com/track/3zc19kM0SD3H1Bi56NCUcj) | [Ahn byeong woong](https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe) | [Ride](https://open.spotify.com/album/73hWhsjMjOJb8licVYN7sP) | 2:59 | 2022-07-24 | 2022-09-28 |
 | [RIDERS \(Feat\. Chin, UNEDUCATED KID, Jay Park & Tiger JK\)](https://open.spotify.com/track/0VVB1l4jFUpXwBCUDIBTvo) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [Chin](https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw), [Uneducated Kid](https://open.spotify.com/artist/08KbKkPqaYNFYM9R5eMjuM), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD) | [RIDERS](https://open.spotify.com/album/5KH38MvGoRjseF0zEAH8aV) | 4:14 | 2021-12-18 | 2022-04-26 |
+| [RINDAMAN \(Feat\. ZICO\)](https://open.spotify.com/track/5zoGBq6N98J1NnLeB2OPPy) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [\[ Rorschach \] Part 1](https://open.spotify.com/album/4oJZ6lxEkCpw8ESH9NrCdZ) | 2:16 | 2023-04-20 |  |
 | [Ring Ring](https://open.spotify.com/track/6Wu6Ee5c9n5s6g8xvK2cK3) | [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o) | [Ring Ring](https://open.spotify.com/album/6sy7z0niqeYj9ld25PeeYB) | 2:39 | 2022-01-14 | 2022-07-07 |
 | [Ringtone](https://open.spotify.com/track/6mZvHTwEuBvCyRXyRzRDo2) | [Dopein](https://open.spotify.com/artist/3Ad2aAlqtVBScdhET9ZPwt) | [Trick](https://open.spotify.com/album/5YuSoEzVRkukvE6UwGCcNS) | 2:33 | 2022-01-04 | 2022-04-16 |
 | [River Boy](https://open.spotify.com/track/0CZl8qZgyCBTRQASsiJx1k) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [River Boy](https://open.spotify.com/album/6QGsBgxDtQICNXfCjC3Yjp) | 2:26 | 2022-12-11 | 2023-03-28 |

@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Jalen Ngonda
 
-275 songs - 16 hr 56 min
+276 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,8 @@
 | [One More Night](https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 3:53 | 2021-12-03 |  |
 | [One More Night](https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [One More Night](https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt) | 3:46 | 2022-07-29 |  |
 | [Only Want You](https://open.spotify.com/track/24BE8f0DdJxgtHDjsN9FA7) | [Eric Zayne](https://open.spotify.com/artist/5HMNsIi6AQplZELW9jeLjd) | [Only Want You](https://open.spotify.com/album/5jdmLkQQ1fX8cC0du4H8Va) | 3:50 | 2022-07-01 |  |
-| [Oo Baby](https://open.spotify.com/track/5nu4tzBw8B0EutFSqkgExx) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Oo Baby](https://open.spotify.com/album/3uCgGKgPoZC6IlnAmtSUgJ) | 4:08 | 2022-09-02 |  |
+| [Oo Baby](https://open.spotify.com/track/4EBy3nzmqlfnnbhxCESldy) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Oo Baby](https://open.spotify.com/album/5KmiOydl3O3vGKR5OrfLlF) | 4:08 | 2022-09-02 |  |
+| [Oo Baby](https://open.spotify.com/track/5nu4tzBw8B0EutFSqkgExx) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Oo Baby](https://open.spotify.com/album/3uCgGKgPoZC6IlnAmtSUgJ) | 4:08 | 2022-09-02 | 2023-04-21 |
 | [Ordinary Lives](https://open.spotify.com/track/4MU7yhKkOpVVDCWfxTGfxk) | [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Ordinary Lives](https://open.spotify.com/album/0z87IQzrtDMve4JMe8LZjO) | 3:16 | 2022-01-21 | 2022-07-29 |
 | [Our Love \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0OFSdfkFF5wLszOz0csftu) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 3:38 | 2021-12-13 | 2023-01-28 |
 | [Paddle to the Stars](https://open.spotify.com/track/74TtehL8KqCN6dvTX6uiRi) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Paddle to the Stars](https://open.spotify.com/album/4BXAPfbjgQM0JEHopQKkFU) | 2:36 | 2021-11-05 | 2022-07-29 |

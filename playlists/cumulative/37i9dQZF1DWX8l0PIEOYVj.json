@@ -2351,6 +2351,24 @@
     },
     {
       "album": {
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/6k5FweUEC7LRCbPf586dwj"
+      },
+      "artists": [
+        {
+          "name": "KLAXX",
+          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190546,
+      "name": "Flare",
+      "url": "https://open.spotify.com/track/4CmHVTshjFsRm89G0rPRTF"
+    },
+    {
+      "album": {
         "name": "Floating Through The Sky",
         "url": "https://open.spotify.com/album/3bnBt9QTkHPu7KFZJeccTJ"
       },
@@ -5930,7 +5948,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 217500,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/1YUxhMsagttgRockQyd58z"

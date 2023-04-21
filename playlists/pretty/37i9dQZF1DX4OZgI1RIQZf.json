@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 22886,
+  "num_followers": 23010,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDYzY2FkOTZkYTBjMzdlMTI3ZWM2MzVjOTYyYWYwNjc2",
+  "snapshot_id": "MTY3NTk4MzYwMCwwMDAwMDAwMDI4NDZmMTIwNjhiYzdiYjllZTNmNTBjNmQ5ZWNhZDVl",
   "tracks": [
     {
       "added_at": "2023-02-09 23:00:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "New York",
-        "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Halloween Parade",
-      "url": "https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Introducing The Sonics",
         "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 158680,
       "name": "The Witch",
       "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "New York",
+        "url": "https://open.spotify.com/album/7xGqf9DddW89cg7m6zX88t"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Halloween Parade",
+      "url": "https://open.spotify.com/track/5Hb0p1Ti6nkeA3SSKfbvM2"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Breakfast",
-        "url": "https://open.spotify.com/album/3w4m4CcL9u1R5THKkVFDdl"
+        "name": "The Five Ghosts",
+        "url": "https://open.spotify.com/album/1VNSdysVD6rAJKsW7IInNU"
       },
       "artists": [
         {
-          "name": "Teleman",
-          "url": "https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV"
+          "name": "Stars",
+          "url": "https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL"
         }
       ],
-      "duration_ms": 217880,
-      "name": "Skeleton Dance",
-      "url": "https://open.spotify.com/track/1w4Nno8lOz0xv8KxvIqghO"
+      "duration_ms": 185773,
+      "name": "I Died So I Could Haunt You",
+      "url": "https://open.spotify.com/track/4KgMpCMGIQYWvCqwRHlwIJ"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "The Five Ghosts",
-        "url": "https://open.spotify.com/album/1VNSdysVD6rAJKsW7IInNU"
+        "name": "Breakfast",
+        "url": "https://open.spotify.com/album/3w4m4CcL9u1R5THKkVFDdl"
       },
       "artists": [
         {
-          "name": "Stars",
-          "url": "https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL"
+          "name": "Teleman",
+          "url": "https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV"
         }
       ],
-      "duration_ms": 185773,
-      "name": "I Died So I Could Haunt You",
-      "url": "https://open.spotify.com/track/4KgMpCMGIQYWvCqwRHlwIJ"
+      "duration_ms": 217880,
+      "name": "Skeleton Dance",
+      "url": "https://open.spotify.com/track/1w4Nno8lOz0xv8KxvIqghO"
     },
     {
       "added_at": "2023-02-09 23:00:00",

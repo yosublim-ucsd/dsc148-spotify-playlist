@@ -4,7 +4,7 @@
 
 > La casa de lxs MC's\. Foto: Liricistas & Utopiko.
 
-151 songs - 8 hr 40 min
+152 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Aunque No Valga Nada](https://open.spotify.com/track/3tntsQI2S7aIW0W26isOJu) | [Droow](https://open.spotify.com/artist/54U7OiU7yC2eB4Ij71sqlW) | [Aunque No Valga Nada](https://open.spotify.com/album/29EwbjVepYy8dcxUHHDBIF) | 3:50 | 2022-01-06 |  |
 | [Belleza](https://open.spotify.com/track/41sdDRca6UhPB5MLZjpz1L) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [Belleza](https://open.spotify.com/album/4ZsbHVMtDZWzZrh4w4Amsb) | 3:34 | 2022-01-06 |  |
 | [Boombarrio](https://open.spotify.com/track/0san1KUetFkSctwivThY7z) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Macrodee](https://open.spotify.com/artist/1LFSjjDBhaukmZa69zJvgM) | [Boombarrio](https://open.spotify.com/album/5bmFCK52DIm32GPjOzzT8V) | 3:26 | 2022-01-06 |  |
-| [Ca](https://open.spotify.com/track/17k3dBGW9qrP7UXJ2XSE2T) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Ca](https://open.spotify.com/album/0VU6LPLQmyq8lLaaOHYT2l) | 2:50 | 2023-03-10 |  |
+| [Ca](https://open.spotify.com/track/0tl9MlhSFXuMwUWBnNFGcR) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Ca](https://open.spotify.com/album/6fDR0RJVdU9ih9DiRpRtoX) | 2:50 | 2023-04-07 |  |
+| [Ca](https://open.spotify.com/track/17k3dBGW9qrP7UXJ2XSE2T) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [Ca](https://open.spotify.com/album/0VU6LPLQmyq8lLaaOHYT2l) | 2:50 | 2023-03-10 | 2023-04-21 |
 | [CA](https://open.spotify.com/track/7mKQTOFOkOZKkRRqwycXS5) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90) | [CA](https://open.spotify.com/album/777UI3UJvvMSh6vpWk2D77) | 2:50 | 2022-01-06 | 2023-04-01 |
 | [Cactus Jack \(Crema Lirical \#4\)](https://open.spotify.com/track/11KJuoeSk4CaobzFOWEMiI) | [Claudio Bastardo](https://open.spotify.com/artist/0Nk33fSMhlt1EL2uLH5eTx), [Chicho Beats](https://open.spotify.com/artist/2lSF63SRPd450Q968OQKWL) | [Cactus Jack \(Crema Lirical \#4\)](https://open.spotify.com/album/6jg2M7GCI3E5GQyjHGWi6n) | 2:41 | 2022-02-11 | 2022-11-08 |
 | [Camino Solo](https://open.spotify.com/track/7AmMGAw57PWbwezOIViUOs) | [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Bascur](https://open.spotify.com/artist/1gr15bpTzqHwHxj9PVZf4N), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Joe Bananas](https://open.spotify.com/artist/43vTEnc5TjdbKqJMtDxZii) | [Camino Solo](https://open.spotify.com/album/1PLmCzSzldLHYxT9ZmlMsf) | 4:53 | 2022-01-06 |  |

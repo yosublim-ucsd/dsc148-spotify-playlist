@@ -996,6 +996,24 @@
     {
       "album": {
         "name": "Ultimate Sinatra: The Centennial Collection",
+        "url": "https://open.spotify.com/album/7F1DRunIUlihQZ44KWVnMZ"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264906,
+      "name": "Ol' Man River",
+      "url": "https://open.spotify.com/track/2ZTPL4fDK3vvI1h54nF4c6"
+    },
+    {
+      "album": {
+        "name": "Ultimate Sinatra: The Centennial Collection",
         "url": "https://open.spotify.com/album/22KCcelRH1AeHz7S7x5XhY"
       },
       "artists": [
@@ -1006,7 +1024,7 @@
       ],
       "date_added": "2018-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 264906,
       "name": "Ol' Man River",
       "url": "https://open.spotify.com/track/6XppiJ3Z1trI3uDVUh7Mu7"

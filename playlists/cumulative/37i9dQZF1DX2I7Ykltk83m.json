@@ -2924,7 +2924,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 333514,
       "name": "It Hurts Until It Doesn't",
       "url": "https://open.spotify.com/track/6h3FOkiOixsUUEgIHS0qR5"
@@ -3858,6 +3858,24 @@
       "duration_ms": 170760,
       "name": "Not The Time",
       "url": "https://open.spotify.com/track/0Vmd1bjR3CAhT86mHs3Mp1"
+    },
+    {
+      "album": {
+        "name": "Nothing Left To Give",
+        "url": "https://open.spotify.com/album/0IVhJ8PzPajZB401x4lfkO"
+      },
+      "artists": [
+        {
+          "name": "BAILEN",
+          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193522,
+      "name": "Nothing Left To Give",
+      "url": "https://open.spotify.com/track/5ti3pAj9M9HlnXrjUiO232"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > New music from NLE Choppa, Ice Spice and Fivio Foreign.
 
-1,583 songs - 3 day 9 hr 43 min
+1,584 songs - 3 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,6 +624,7 @@
 | [I Do This](https://open.spotify.com/track/7gcF9zyTczyx9aXtHOMsWJ) | [Paper Route EMPIRE](https://open.spotify.com/artist/65smG2lgnRmrDB8g7z1hG0), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [PAPER ROUTE iLLUMINATi](https://open.spotify.com/album/6WDlSPJvEMoZLHj9jJ1dhY) | 2:58 | 2021-07-31 | 2021-08-14 |
 | [I Don't Sleep \(ft\. Takeoff\)](https://open.spotify.com/track/03TzvVWdkVbLT9pzewYiDw) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Funeral](https://open.spotify.com/album/2x657XotA7LCsPElXmXX4W) | 3:20 | 2020-02-01 | 2020-03-27 |
 | [I Get Around](https://open.spotify.com/track/4voEoczU7Ijborps9XF1n3) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:19 | 2023-02-16 | 2023-02-18 |
+| [I Got 5 On It](https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG) | [Luniz](https://open.spotify.com/artist/3z3g65U7mmyyBmmDfsQK9x), [Michael Marshall](https://open.spotify.com/artist/2FT75iYuWmycqYrXbVD9cn) | [Operation Stackola](https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb) | 4:13 | 2023-04-20 |  |
 | [I KNOW](https://open.spotify.com/track/7N17JE5sPConOSeEIC5AnS) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [I KNOW](https://open.spotify.com/album/0uXwRisshXdfubkYqLPiff) | 3:12 | 2022-07-22 | 2022-10-01 |
 | [I Like Girls \(feat\. Lil Skies\)](https://open.spotify.com/track/4KXDT3pmPDB9IB6hTUoGpd) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [I Like Girls \(feat\. Lil Skies\)](https://open.spotify.com/album/4VJClrN4XctgW0auQg2BG6) | 2:35 | 2019-05-26\* | 2019-06-15 |
 | [i n t e r l u d e](https://open.spotify.com/track/2gyYjQWXKxemhAyMPgctIx) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [i n t e r l u d e](https://open.spotify.com/album/0WvwihMfA5E29MrLyNpJYF) | 2:11 | 2021-05-08 | 2021-05-15 |

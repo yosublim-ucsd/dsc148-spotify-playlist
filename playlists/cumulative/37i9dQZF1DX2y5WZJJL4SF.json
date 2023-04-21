@@ -70,7 +70,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 114000,
       "name": "A La Nanita Nana",
       "url": "https://open.spotify.com/track/3yxBmeBq6F5PbqO88oFkiA"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 65405,
       "name": "A Night Waltz",
       "url": "https://open.spotify.com/track/6xKgT2rqcKfnKZynq9ZpqV"
@@ -1193,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "Flower Song",
+        "url": "https://open.spotify.com/album/5cyyi4rQr7IvfRScdabB9J"
+      },
+      "artists": [
+        {
+          "name": "Vere Bloxam",
+          "url": "https://open.spotify.com/artist/4FC10eLqYfr28FOVVDJZun"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82972,
+      "name": "Flower Song",
+      "url": "https://open.spotify.com/track/3y88lv3Z00VqdE1DtFcpji"
+    },
+    {
+      "album": {
         "name": "Flowerpicking",
         "url": "https://open.spotify.com/album/1PzBefJUzF6gTpIJJGGbuy"
       },
@@ -1402,7 +1420,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 91730,
       "name": "Giver of All Dreams",
       "url": "https://open.spotify.com/track/0L5Y4smsxJ2l4QJpbKfZRQ"
@@ -1528,7 +1546,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 224358,
       "name": "Granny",
       "url": "https://open.spotify.com/track/2MOG3Xy69V748oSpESfSME"
@@ -1600,7 +1618,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 76410,
       "name": "Hoppe Hoppe Hare",
       "url": "https://open.spotify.com/track/3e9FbBMiP9UAGtIobXuzwl"
@@ -2165,6 +2183,24 @@
     },
     {
       "album": {
+        "name": "Lundi matin",
+        "url": "https://open.spotify.com/album/0twvUvkbakjQSxE55lhoes"
+      },
+      "artists": [
+        {
+          "name": "Victoria Griffiths",
+          "url": "https://open.spotify.com/artist/1iaN5x7M1F2j9R5y0bJ88J"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80289,
+      "name": "Lundi matin",
+      "url": "https://open.spotify.com/track/6sXi9EExliDNd5AZpVptIr"
+    },
+    {
+      "album": {
         "name": "Mary Had A Little Lamb",
         "url": "https://open.spotify.com/album/4bTW7FSi3N9snrPV1AvfUB"
       },
@@ -2180,6 +2216,24 @@
       "duration_ms": 89217,
       "name": "Mary Had A Little Lamb",
       "url": "https://open.spotify.com/track/3uTe0oqzohSULibOFh7Wqs"
+    },
+    {
+      "album": {
+        "name": "May Your Dreams Come True",
+        "url": "https://open.spotify.com/album/2iApYUYbAkkZa7inorBGrq"
+      },
+      "artists": [
+        {
+          "name": "Leo Fosbrook",
+          "url": "https://open.spotify.com/artist/3KWH7rrwTcMZJd9ni15iZW"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111778,
+      "name": "May Your Dreams Come True",
+      "url": "https://open.spotify.com/track/0NWSjBvxmDU39tIm7z1EJk"
     },
     {
       "album": {
@@ -2345,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "Mrs Frog's Daydream",
+        "url": "https://open.spotify.com/album/2iZtihUu4yn7SvXotNqxHr"
+      },
+      "artists": [
+        {
+          "name": "Francine Reveur",
+          "url": "https://open.spotify.com/artist/2Cy1U663G5b7w3j3CUNgiQ"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102539,
+      "name": "Mrs Frog's Daydream",
+      "url": "https://open.spotify.com/track/3QnjauHkZ71ZupNKuSGcxC"
+    },
+    {
+      "album": {
         "name": "My Best Friend Bob",
         "url": "https://open.spotify.com/album/0omMrAr8zSXzokTTBqyM4Q"
       },
@@ -2435,6 +2507,24 @@
     },
     {
       "album": {
+        "name": "My Lovely Teddybear",
+        "url": "https://open.spotify.com/album/1UkWtJfevcLWaqX8dhuo8u"
+      },
+      "artists": [
+        {
+          "name": "Travers Yates",
+          "url": "https://open.spotify.com/artist/6NaBJxSpp6FfNqpLkfHuNN"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101621,
+      "name": "My Lovely Teddybear",
+      "url": "https://open.spotify.com/track/0Snqqrusf0KJMb4kaOdxfI"
+    },
+    {
+      "album": {
         "name": "My name is Sue",
         "url": "https://open.spotify.com/album/1bsFXc2mI2oEveM9nNkMiv"
       },
@@ -2464,7 +2554,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 77027,
       "name": "My One True Wish",
       "url": "https://open.spotify.com/track/5wT6Pr22GqUE3yxXe2zm6t"
@@ -2669,6 +2759,24 @@
     },
     {
       "album": {
+        "name": "Puff the magic dragon",
+        "url": "https://open.spotify.com/album/14DKuczrbNj8joIyBOKrva"
+      },
+      "artists": [
+        {
+          "name": "Angeline Delaunay",
+          "url": "https://open.spotify.com/artist/4v4KtI8f8puIEpQ4SoW270"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98591,
+      "name": "Puff the magic dragon",
+      "url": "https://open.spotify.com/track/5RhFrMvsZ3YbylfWXwj8l8"
+    },
+    {
+      "album": {
         "name": "Come Sail Away",
         "url": "https://open.spotify.com/album/2Kusp6AwauNVXkSixFiUXu"
       },
@@ -2842,7 +2950,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 83950,
       "name": "Sleep Little Willow",
       "url": "https://open.spotify.com/track/17NWEpNMRzpNXdB93xIO3M"
@@ -3170,6 +3278,24 @@
       "duration_ms": 68648,
       "name": "Sweet Lullaby",
       "url": "https://open.spotify.com/track/7KfKKlOMT7DBC4gHlbTLek"
+    },
+    {
+      "album": {
+        "name": "Sweetest Dreams",
+        "url": "https://open.spotify.com/album/4PMCeIaE6lQH8LHkl1LOoo"
+      },
+      "artists": [
+        {
+          "name": "Megan Wofford",
+          "url": "https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127136,
+      "name": "Sweetest Dreams",
+      "url": "https://open.spotify.com/track/0cymBq49LPSc0tyWDLJ997"
     },
     {
       "album": {

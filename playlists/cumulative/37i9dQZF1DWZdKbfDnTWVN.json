@@ -169,6 +169,28 @@
     },
     {
       "album": {
+        "name": "ATTENTION",
+        "url": "https://open.spotify.com/album/4n52Tqi6oeQ6ernLccrz2D"
+      },
+      "artists": [
+        {
+          "name": "Boeyylee",
+          "url": "https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN"
+        },
+        {
+          "name": "The Renaissance Man",
+          "url": "https://open.spotify.com/artist/6nszgkJNXu8EhZdEzaYqWi"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128052,
+      "name": "ATTENTION",
+      "url": "https://open.spotify.com/track/6ez0JhtiRFzmBej1FBiU2S"
+    },
+    {
+      "album": {
         "name": "SUPREME",
         "url": "https://open.spotify.com/album/3fXiFOgUIgjXK7XndFWN3I"
       },
@@ -496,7 +518,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 151010,
       "name": "Dice",
       "url": "https://open.spotify.com/track/5SJxfCadODTEdgO9ooKOmR"
@@ -746,7 +768,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 149974,
       "name": "Hii Mtaa",
       "url": "https://open.spotify.com/track/0ui12FkQuzICZ0eLlWylsb"
@@ -1807,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "Spooky Shit.",
+        "url": "https://open.spotify.com/album/7f7xbV76grCg1PJeQSYpVe"
+      },
+      "artists": [
+        {
+          "name": "Trill Hunnid Ke",
+          "url": "https://open.spotify.com/artist/060e8JfWsQ4SemQo5iB8h4"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151062,
+      "name": "Spooky Shit.",
+      "url": "https://open.spotify.com/track/323Aol9VAFndxhTaIVxqV0"
+    },
+    {
+      "album": {
         "name": "Staki Kubonga Mob",
         "url": "https://open.spotify.com/album/00RqPEmbdfzMfDEpoZjZdC"
       },
@@ -2027,6 +2067,24 @@
     },
     {
       "album": {
+        "name": "TIME ITATELL",
+        "url": "https://open.spotify.com/album/1MuTtWsvJBRpfZ92rpzwOr"
+      },
+      "artists": [
+        {
+          "name": "Big yasa",
+          "url": "https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168071,
+      "name": "TIME ITATELL",
+      "url": "https://open.spotify.com/track/2mXWteorFyNu2D94ae38nL"
+    },
+    {
+      "album": {
         "name": "Tom Mboya",
         "url": "https://open.spotify.com/album/1FC8uWdB2v0vgMiLFqbnH9"
       },
@@ -2038,7 +2096,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 220055,
       "name": "Tom Mboya",
       "url": "https://open.spotify.com/track/2y5CIx4aoIGMoJilesf2yA"

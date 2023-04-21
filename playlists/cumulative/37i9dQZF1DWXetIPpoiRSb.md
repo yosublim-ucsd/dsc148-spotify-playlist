@@ -2,9 +2,9 @@
 
 ### [New Pop Revolution](https://open.spotify.com/playlist/37i9dQZF1DWXetIPpoiRSb)
 
-> The freshest pop sounds\. Cover: Lauren Spencer Smith + GAYLE + Em Beihold
+> The freshest pop sounds\. Cover: David Kushner
 
-1,022 songs - 2 day 3 hr 28 min
+1,024 songs - 2 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [All The Way Over](https://open.spotify.com/track/0AGAaQYL0QtGqQCEvHnqZx) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [All The Way Over](https://open.spotify.com/album/4zzRDfFoxSdriNk7cBAE20) | 3:08 | 2022-11-04 | 2023-01-14 |
 | [All Your Exes](https://open.spotify.com/track/2SDswD3RdceDWthkgCrCCU) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [All Your Exes](https://open.spotify.com/album/1yo1w1CBfPMLaXycgfNj70) | 3:29 | 2021-03-27 | 2021-05-03 |
 | [Alone](https://open.spotify.com/track/4SVuJDPtk2kJl3ULqO5nvF) | [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [Alone](https://open.spotify.com/album/4xAOOAuLxBOqEworUmUWhc) | 3:04 | 2021-09-25 | 2021-11-27 |
+| [Alone \(with Nicki Minaj\)](https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Alone](https://open.spotify.com/album/5YdIiv5WLNbaONCyGIDszz) | 3:05 | 2023-04-20 |  |
 | [Already Mine](https://open.spotify.com/track/1KKMr0ZDhEdbaB7YfI61Te) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Already Mine](https://open.spotify.com/album/7nkeRsDWy0FqTPyXMp0yxO) | 2:25 | 2022-01-10 | 2022-03-04 |
 | [Always Been You](https://open.spotify.com/track/2zpZkOV7sD9C4Cv0cukoHV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Always Been You](https://open.spotify.com/album/1VhOdgOjIARBn6SoNyeQDa) | 2:11 | 2021-11-27 | 2022-02-26 |
 | [Always On My Mind](https://open.spotify.com/track/4sWH0Fhl1a6yBCXnYm73Jp) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Champagne Problems \#DQH1](https://open.spotify.com/album/62XwEYC2iJIX37oZlJbsvi) | 2:44 | 2022-01-10 | 2022-03-04 |
@@ -626,6 +627,7 @@
 | [NANANA](https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:07 | 2022-05-27 | 2022-07-09 |
 | [Never Be A Cool Girl](https://open.spotify.com/track/4XOy0oz47n9XDfcSSop0aj) | [Phoebe Katis](https://open.spotify.com/artist/0hPB6WmY4JXhcrficlznCx) | [Never Be A Cool Girl](https://open.spotify.com/album/4wBRbxCYHA1KUGYY2z9Pvd) | 3:15 | 2021-07-04 | 2021-09-10 |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-04-06 |  |
+| [Never Look Back](https://open.spotify.com/track/3K3bZDkHev8R7Clcqs2u8M) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Never Look Back](https://open.spotify.com/album/4GVxVTIaQg7zEEQ2Fqsu0q) | 2:42 | 2023-04-20 |  |
 | [Never Mind](https://open.spotify.com/track/5HimdzGTZUCGLlFDaLxR4k) | [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ) | [Never Mind](https://open.spotify.com/album/4AiGdpvMInBvLVFFgr7htk) | 2:55 | 2020-11-14 | 2021-03-06 |
 | [never mind, let's break up](https://open.spotify.com/track/7HmYcLhoo4MVRSUVZSRIpg) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [never mind, let's break up](https://open.spotify.com/album/38cbgGWFNBxq8zVtacRpqC) | 2:42 | 2021-08-21 | 2021-11-13 |
 | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D) | 3:22 | 2022-07-01 | 2022-10-08 |
@@ -655,7 +657,7 @@
 | [NOW I'M ALONE \(feat\. Sofía Valdés\)](https://open.spotify.com/track/43YIg00RcAoXF4isZgqFh7) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [PART 1: WWYD?](https://open.spotify.com/album/1BE6pGMVQh8wSnPp2hfGGs) | 3:44 | 2021-07-10 | 2021-09-25 |
 | [Obsessed](https://open.spotify.com/track/1VpKOZ6nnap41hh5CbY8gJ) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Obsessed](https://open.spotify.com/album/1pNNZl0NpdpOYQulwgkV8s) | 2:14 | 2021-03-19 | 2021-05-28 |
 | [Odyssey](https://open.spotify.com/track/7MXQGX1algOe1JNg8gzIyg) | [Flownn](https://open.spotify.com/artist/2cCuAsfwl1oYhN6yovKdv8) | [Odyssey](https://open.spotify.com/album/4LuOcdjHAnaUlAJxJ24YtV) | 2:49 | 2021-04-24 | 2021-05-22 |
-| [Oh Laura](https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [AudioLust & HigherLove](https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8) | 3:36 | 2023-01-27 |  |
+| [Oh Laura](https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [AudioLust & HigherLove](https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8) | 3:36 | 2023-01-27 | 2023-04-21 |
 | [OH MY LORD \(feat\. 24kGoldn\)](https://open.spotify.com/track/1hQTaxMocyO7uH3Mko9Tn2) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [OH MY LORD \(feat\. 24kGoldn\)](https://open.spotify.com/album/5G8RlksQs4NlBrWcLEDPjY) | 2:27 | 2022-06-10 | 2022-07-30 |
 | [ok on your own \(feat\. Carly Rae Jepsen\)](https://open.spotify.com/track/36GBFPY75lJpxk7GugxhL7) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [ok on your own](https://open.spotify.com/album/2UUaWZK2WP9xhzNb0kd8rK) | 3:28 | 2020-10-13\* | 2020-11-28 |
 | [Older](https://open.spotify.com/track/4qeHV9T5N3S7KAKryZQp8s) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Older](https://open.spotify.com/album/7Hz2GKXQniSyGHdNjRs7PP) | 2:44 | 2021-09-18 | 2022-01-11 |
@@ -666,7 +668,7 @@
 | [One Day Left](https://open.spotify.com/track/52BgV5YV7PQ3u8DaM2amGP) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [One Day Left](https://open.spotify.com/album/03ZDIZy9LyQBKuDZDIrMeN) | 3:14 | 2020-10-13\* | 2020-11-28 |
 | [One of the Guys](https://open.spotify.com/track/4jXEvctpjLM9moyDwG8SGp) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [One of the Guys](https://open.spotify.com/album/3PMqsg6TJ2AaTCA00Y7Sjb) | 1:58 | 2022-09-03 | 2022-12-10 |
 | [One Of Us](https://open.spotify.com/track/07IKYVGXYta34nMlu6OWit) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [One Of Us](https://open.spotify.com/album/0u59JNRwvPl2rfN5OIY8Zn) | 2:58 | 2023-01-13 | 2023-01-20 |
-| [One Of Us](https://open.spotify.com/track/1ItdTDx23yt7tIJOZv5iLQ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 2:58 | 2023-01-27 |  |
+| [One Of Us](https://open.spotify.com/track/1ItdTDx23yt7tIJOZv5iLQ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 2:58 | 2023-01-27 | 2023-04-21 |
 | [One Of Us](https://open.spotify.com/track/1lmLWFZA8056zsE4paVrPC) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [One Of Us](https://open.spotify.com/album/4k4NkY9Y054ETiqhz2cNCS) | 2:58 | 2023-01-13 | 2023-01-30 |
 | [One Whole Day \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/4eHceQL93Re1ZiaY7kRZ7F) | [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [One Whole Day \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/4ZdRvkHcJzmDhweKxFdjUw) | 2:56 | 2020-12-05 | 2021-01-09 |
 | [Only Human](https://open.spotify.com/track/4hSrkHkhSDF2aNfdBp21ZY) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Only Human](https://open.spotify.com/album/43eillpnAaV3zXVRE6aXlL) | 2:15 | 2022-02-18 | 2022-04-15 |

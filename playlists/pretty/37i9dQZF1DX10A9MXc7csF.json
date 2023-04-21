@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: Nivel Codiciado ",
-  "num_followers": 98436,
+  "num_followers": 98452,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3OTAzMzE5MywwMDAwMDAwMDQwY2JiNGQ1YzVmMDY3NzVkN2FkZDM1MDVmYTk5ZDU0",
+  "snapshot_id": "MTY3OTAzMzE5MywwMDAwMDAwMDVmZDQ4YmYzMzlmMWU2NzRkNmY1NTQwYjU4MmYyZjQ4",
   "tracks": [
     {
       "added_at": "2023-03-17 06:06:33",
@@ -499,38 +499,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "En La Silverado",
-        "url": "https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi"
-      },
-      "artists": [
-        {
-          "name": "Ruben Figueroa",
-          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
-        }
-      ],
-      "duration_ms": 170922,
-      "name": "En La Silverado",
-      "url": "https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
-        "name": "Roll It",
-        "url": "https://open.spotify.com/album/3oLDxDpjzpNPOU8KdzUjx4"
-      },
-      "artists": [
-        {
-          "name": "Jay S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/3KWXqSfNmUT0fdjBmTisCJ"
-        }
-      ],
-      "duration_ms": 176499,
-      "name": "Roll It",
-      "url": "https://open.spotify.com/track/1rmkdRN6cMTLEgVlrl2fVK"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Amor De Lejos",
         "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
       },
@@ -551,6 +519,38 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
+        "name": "Roll It",
+        "url": "https://open.spotify.com/album/3oLDxDpjzpNPOU8KdzUjx4"
+      },
+      "artists": [
+        {
+          "name": "Jay S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/3KWXqSfNmUT0fdjBmTisCJ"
+        }
+      ],
+      "duration_ms": 176499,
+      "name": "Roll It",
+      "url": "https://open.spotify.com/track/1rmkdRN6cMTLEgVlrl2fVK"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "En La Silverado",
+        "url": "https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi"
+      },
+      "artists": [
+        {
+          "name": "Ruben Figueroa",
+          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
+        }
+      ],
+      "duration_ms": 170922,
+      "name": "En La Silverado",
+      "url": "https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
         "name": "Solo Tu Podras",
         "url": "https://open.spotify.com/album/6xUOmWbItiEJrE2bAU3p9W"
       },
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Cambio De Canci\u00f3n",
-        "url": "https://open.spotify.com/album/669yLYUn6jylypYi5lmge1"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        }
-      ],
-      "duration_ms": 169548,
-      "name": "Cambio De Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Me Dejaste en Cero",
         "url": "https://open.spotify.com/album/2ibH9gTeQQ741EqrYNoaiv"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 200733,
       "name": "Me Dejaste en Cero",
       "url": "https://open.spotify.com/track/677dhnA2KeTjbTdCLldI7E"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Cambio De Canci\u00f3n",
+        "url": "https://open.spotify.com/album/669yLYUn6jylypYi5lmge1"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        }
+      ],
+      "duration_ms": 169548,
+      "name": "Cambio De Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "Payonazo Exoticos",
-        "url": "https://open.spotify.com/album/4RdLhLXeCGo3xDAFH0lwNR"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "Payonazo Exoticos",
-      "url": "https://open.spotify.com/track/6Sr29vvXfxPaV8wlfW6If8"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Tu Labial",
         "url": "https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 227018,
       "name": "Tu Labial",
       "url": "https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "Payonazo Exoticos",
+        "url": "https://open.spotify.com/album/4RdLhLXeCGo3xDAFH0lwNR"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Payonazo Exoticos",
+      "url": "https://open.spotify.com/track/6Sr29vvXfxPaV8wlfW6If8"
     },
     {
       "added_at": "2023-03-17 06:06:33",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-03-17 06:06:33",
       "album": {
-        "name": "El Jamaico",
-        "url": "https://open.spotify.com/album/4hgCUGj95UEGaoM83P5V33"
-      },
-      "artists": [
-        {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        }
-      ],
-      "duration_ms": 144340,
-      "name": "El Jamaico",
-      "url": "https://open.spotify.com/track/5mfbrsTi4Xln6E3MKVC0yE"
-    },
-    {
-      "added_at": "2023-03-17 06:06:33",
-      "album": {
         "name": "Mi Coraz\u00f3n",
         "url": "https://open.spotify.com/album/6WjLL6O3dxamFqfKF0AJ21"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 217196,
       "name": "Mi Coraz\u00f3n",
       "url": "https://open.spotify.com/track/7nFCfXEl2JiaxzPF8233hz"
+    },
+    {
+      "added_at": "2023-03-17 06:06:33",
+      "album": {
+        "name": "El Jamaico",
+        "url": "https://open.spotify.com/album/4hgCUGj95UEGaoM83P5V33"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        }
+      ],
+      "duration_ms": 144340,
+      "name": "El Jamaico",
+      "url": "https://open.spotify.com/track/5mfbrsTi4Xln6E3MKVC0yE"
     },
     {
       "added_at": "2023-03-17 06:06:33",

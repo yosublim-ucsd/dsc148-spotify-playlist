@@ -3844,7 +3844,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 251687,
       "name": "Know",
       "url": "https://open.spotify.com/track/18Nb7k9gprZ6r17bbaiUQZ"
@@ -5740,6 +5740,28 @@
       "duration_ms": 111473,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/7K4Qx5XjMLsgJi71uHwbmG"
+    },
+    {
+      "album": {
+        "name": "sedatives",
+        "url": "https://open.spotify.com/album/4GGM10hPG0dbjmbFbHfWaf"
+      },
+      "artists": [
+        {
+          "name": "demotapes",
+          "url": "https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X"
+        },
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165217,
+      "name": "sedatives",
+      "url": "https://open.spotify.com/track/6XMBQ2Dk9oQoXBfoI53Sqt"
     },
     {
       "album": {

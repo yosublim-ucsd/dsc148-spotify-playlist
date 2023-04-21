@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/0lFUyfjC5cqcXgrpxrJXHZ"
+      },
+      "artists": [
+        {
+          "name": "Tulenkey",
+          "url": "https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT"
+        },
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        },
+        {
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210782,
+      "name": "22",
+      "url": "https://open.spotify.com/track/3N2JLPxI5vhf0exDEFEO7D"
+    },
+    {
+      "album": {
         "name": "500 DEGREES",
         "url": "https://open.spotify.com/album/12DMWu6jgeqicdxuJcb75A"
       },
@@ -160,13 +186,13 @@
           "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
         },
         {
-          "name": "Odumodublvck",
+          "name": "ODUMODUBLVCK",
           "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-26",
+      "date_removed": null,
       "duration_ms": 158298,
       "name": "Bando Diaries",
       "url": "https://open.spotify.com/track/6GbCVFzQZXgP2yd3EQv4hp"
@@ -436,7 +462,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 179533,
       "name": "Diet Coke",
       "url": "https://open.spotify.com/track/3BMG9dnjNymT1OGUXQTAXl"
@@ -546,7 +572,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 257647,
       "name": "Ease",
       "url": "https://open.spotify.com/track/39qkz1q7TkelO5Eb6YTKOv"
@@ -886,7 +912,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-03",
+      "date_removed": null,
       "duration_ms": 196529,
       "name": "King of Parole",
       "url": "https://open.spotify.com/track/1neQ0MJbFV4O1eYwa7Hj2x"
@@ -1175,6 +1201,32 @@
     },
     {
       "album": {
+        "name": "No Excuses",
+        "url": "https://open.spotify.com/album/3uPpZ6wh5UYeTryNFAWWs1"
+      },
+      "artists": [
+        {
+          "name": "Chop Life Crew",
+          "url": "https://open.spotify.com/artist/3nqzRwaPGt1NTRCddyBgbx"
+        },
+        {
+          "name": "MOJO AF",
+          "url": "https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J"
+        },
+        {
+          "name": "EESKAY",
+          "url": "https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194571,
+      "name": "No Excuses",
+      "url": "https://open.spotify.com/track/3FlXFKRo2w4xbc1SGvVhJ0"
+    },
+    {
+      "album": {
         "name": "Nyash (Current & Savings)",
         "url": "https://open.spotify.com/album/0YZfUfdOUTJQHburi0BM5B"
       },
@@ -1234,7 +1286,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 169769,
       "name": "Open The Front Door",
       "url": "https://open.spotify.com/track/4kqpXbmZyHMwVByAV6mdtP"
@@ -1252,7 +1304,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 161684,
       "name": "Pain Interlude",
       "url": "https://open.spotify.com/track/4X78TxqQ8EQXgEQDrWdSwS"
@@ -1590,7 +1642,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 182666,
       "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
       "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
@@ -1792,7 +1844,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 162692,
       "name": "Wahala",
       "url": "https://open.spotify.com/track/3neQ27BTYg6eBK3Zb4PERm"

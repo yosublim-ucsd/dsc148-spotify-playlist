@@ -8844,10 +8844,28 @@
       ],
       "date_added": "2019-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 242000,
       "name": "Whatever You Want",
       "url": "https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig"
+    },
+    {
+      "album": {
+        "name": "70s Classic Rock",
+        "url": "https://open.spotify.com/album/3MyD4913logQSz9z48IYmq"
+      },
+      "artists": [
+        {
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+        }
+      ],
+      "date_added": "2019-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243546,
+      "name": "Whatever You Want",
+      "url": "https://open.spotify.com/track/2z1RL1YeK6mNbbArsz6q3X"
     },
     {
       "album": {

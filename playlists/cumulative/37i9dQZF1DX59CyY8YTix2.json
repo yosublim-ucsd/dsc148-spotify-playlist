@@ -5216,7 +5216,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 240133,
       "name": "Radio song",
       "url": "https://open.spotify.com/track/6EzqEvGM8W0ipnjRkxM43X"
@@ -5908,6 +5908,24 @@
       "duration_ms": 156130,
       "name": "Silly romance",
       "url": "https://open.spotify.com/track/0Z9oufPvd3uaolj0lw4eMk"
+    },
+    {
+      "album": {
+        "name": "Sincere",
+        "url": "https://open.spotify.com/album/0bGwHGRHNQ5ZIiEZajN8aD"
+      },
+      "artists": [
+        {
+          "name": "Bray me",
+          "url": "https://open.spotify.com/artist/4xEsjzaqA3rvuB8eRBv95h"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234052,
+      "name": "Sincere",
+      "url": "https://open.spotify.com/track/1FFn2s4koZgC3CYH1Xi2HI"
     },
     {
       "album": {
@@ -7980,7 +7998,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 222500,
       "name": "\u304a\u88c1\u7e2b\u30ea\u30d5\u30ec\u30c3\u30b7\u30e5",
       "url": "https://open.spotify.com/track/2bR2b6HB6X3BCpC7zVJlZJ"
@@ -12936,7 +12954,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 138333,
       "name": "\u591c\u557c\u9daf",
       "url": "https://open.spotify.com/track/5xGnQbGzev2iqqBFVoDzlg"

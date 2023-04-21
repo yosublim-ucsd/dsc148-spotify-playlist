@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-209 songs - 18 hr 25 min
+210 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Ghosts and All](https://open.spotify.com/track/0pAZJrgG34WZZI16v8sTkc) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Vergers](https://open.spotify.com/album/3m1PX4NYhDWFpdbphMpUgG) | 8:32 | 2022-12-30 | 2023-02-02 |
 | [Ghosts And All](https://open.spotify.com/track/3NoWosBv396ElBNTIuDT4u) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Vergers](https://open.spotify.com/album/2MfGjYqGBrXFFPqr2Cduv6) | 8:32 | 2022-01-28 | 2022-07-26 |
 | [Ghosts and All](https://open.spotify.com/track/4Yaz0sGAAYLDbORbe7BIWO) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Vergers](https://open.spotify.com/album/2x96hFE6R6H9MkNXjGWwib) | 8:32 | 2023-03-10 |  |
-| [Gleam \- Stilhed Rework](https://open.spotify.com/track/5GyufZsvj3CWSo3LFfjnTu) | [Infralyd](https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt), [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U) | [Gleam \(Stilhed Rework\)](https://open.spotify.com/album/5zuUQpYObgeu5QsopETALB) | 4:01 | 2022-02-18 | 2023-01-24 |
+| [Gleam \- Stilhed Rework](https://open.spotify.com/track/5GyufZsvj3CWSo3LFfjnTu) | [Infralyd](https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt), [Stilhed](https://open.spotify.com/artist/2atvQaSxUn8GTHQq2fID3U) | [Gleam \(Stilhed Rework\)](https://open.spotify.com/album/5zuUQpYObgeu5QsopETALB) | 4:01 | 2022-02-18 |  |
 | [Good Earth](https://open.spotify.com/track/07GU39LRsLAOdjT6FTwYKY) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [Good Earth](https://open.spotify.com/album/4f79S7nCBxZ9UvqQJn8nih) | 2:15 | 2022-02-25 |  |
 | [Graveyard](https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG) | [Sonja Tofik](https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3) | [Anomi](https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV) | 2:53 | 2022-01-28 |  |
 | [Greener](https://open.spotify.com/track/603qsBFMCGXburZt057Wv3) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 1:43 | 2022-01-21 |  |
@@ -162,7 +162,7 @@
 | [Seeing Past What Things Seem](https://open.spotify.com/track/2sgqTahUU0PBwKcgRhqRDN) | [Aidan Baker](https://open.spotify.com/artist/7wPBSl15ddi9mRCgIllOa9) | [Seeing Past What Things Seem](https://open.spotify.com/album/7km6d7bH6SLfaaB52JuuoT) | 11:33 | 2022-01-21 | 2022-07-27 |
 | [Serpentine](https://open.spotify.com/track/0plMWuZSwX65585sUIUdd5) | [Úlfur](https://open.spotify.com/artist/4MdxCuKlnNvOXnVSWN7aLi) | [Arborescence](https://open.spotify.com/album/118CEJliIg47Jcr70y7Kww) | 3:41 | 2022-01-21 |  |
 | [Silkworms](https://open.spotify.com/track/31Vk1L8CuFKyBH86bx8owb) | [Hannu Karjalainen](https://open.spotify.com/artist/1jrtEzcK5ERQoXAFVcQV00) | [Silkworms](https://open.spotify.com/album/2mdi7sz4i7gVr4cg8lD5MY) | 9:35 | 2022-01-28 | 2022-07-26 |
-| [Sista Dagen](https://open.spotify.com/track/1JVvm4PkGTT3ppDBKCBEuA) | [Född Död](https://open.spotify.com/artist/7rjm7DC7c6sTKPmqGgQHFs) | [Studie I Närhet, Längtan & Besvikelse](https://open.spotify.com/album/1EPI6cKlZnQE6NzuS8Iy3M) | 6:20 | 2022-01-21 |  |
+| [Sista Dagen](https://open.spotify.com/track/1JVvm4PkGTT3ppDBKCBEuA) | [Född Död](https://open.spotify.com/artist/7rjm7DC7c6sTKPmqGgQHFs) | [Studie I Närhet, Längtan & Besvikelse](https://open.spotify.com/album/1EPI6cKlZnQE6NzuS8Iy3M) | 6:20 | 2022-01-21 | 2023-04-21 |
 | [Skymningszonen](https://open.spotify.com/track/6TMAYNIdnq8uEgK2YWmBOc) | [AKB](https://open.spotify.com/artist/2t9tbX2KNkdUAkiTmFxsat) | [Marianergraven](https://open.spotify.com/album/2r8nNouZ00fu3vA3CLmgos) | 4:13 | 2022-01-21 | 2022-07-28 |
 | [Slowdown](https://open.spotify.com/track/41QYplWe7lMbiQ0hOi2ZlM) | [Thomas Brett](https://open.spotify.com/artist/24hkUG05qbSP0SqKye9Ahz) | [Slowdown](https://open.spotify.com/album/4T5nJayq61rBgNZRzF8o4Y) | 8:17 | 2022-03-18 |  |
 | [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 | 2022-01-21 |  |
@@ -186,7 +186,7 @@
 | [The Nixe of John Cage's River](https://open.spotify.com/track/6oq6jkurHXr3q9RhAeEkQ7) | [Ben Bertrand](https://open.spotify.com/artist/2JEhCRAfJXQCuHHHAsFcPx) | [Dokkaebi](https://open.spotify.com/album/7tY1R7mHYbPWD1rIEtjUBU) | 8:18 | 2022-01-21 |  |
 | [The Reckoning](https://open.spotify.com/track/4eq5135ivFfvHFtRHvjgHN) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda), [Ella Zwietnig](https://open.spotify.com/artist/60cHgnfXVYiogMeM1K0zfa) | [Far Within Reach](https://open.spotify.com/album/3kdqtmyBQjtJSGR5n8dB7g) | 5:12 | 2022-01-21 |  |
 | [the river race](https://open.spotify.com/track/7tA1grFgMTBKiRwebiyvF8) | [Emra Grid](https://open.spotify.com/artist/20sUjZQrFJhslGZLMpvyIY) | [five cycles through an empty chamber](https://open.spotify.com/album/5k2FfmQtwwj83auNkMDPTe) | 9:36 | 2022-01-21 |  |
-| [The Smoke In The Photo \- Remastered](https://open.spotify.com/track/5fPGK6O2B8ljOsTSCfHI4B) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [Neon \(Remastered\)](https://open.spotify.com/album/3M2JntluSuC9NNlkyq9lui) | 6:00 | 2022-01-21 |  |
+| [The Smoke In The Photo \- Remastered](https://open.spotify.com/track/5fPGK6O2B8ljOsTSCfHI4B) | [Celer](https://open.spotify.com/artist/6nDeZk1AU320DQaj8pD80O) | [Neon \(Remastered\)](https://open.spotify.com/album/3M2JntluSuC9NNlkyq9lui) | 6:00 | 2022-01-21 | 2023-04-21 |
 | [The Walk \- Piano Noir Rework](https://open.spotify.com/track/52oDFJBhX0QMwUiPUFIl1p) | [Sylvain Texier](https://open.spotify.com/artist/2a7kVqWOzTGVmZH28HZauf), [Ô Lake](https://open.spotify.com/artist/6811GEOzZlD8ILi15xUpbN), [Piano Noir](https://open.spotify.com/artist/3pNLseBzEa0hRjLqzI32KB) | [The Walk \(Piano Noir Rework\)](https://open.spotify.com/album/3bXyE5FNCRHuHwWT6Vx4OL) | 4:34 | 2022-01-28 |  |
 | [The Weavers](https://open.spotify.com/track/34dBNgalCO1L56XU5xYndy) | [Syntropy](https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU) | [The Weavers](https://open.spotify.com/album/7A65Zvm39UKY1t1DCVpjPs) | 2:32 | 2023-01-27 |  |
 | [The World Until Yesterday](https://open.spotify.com/track/7Jz9HikD4AWe2WoUIQLnBs) | [Paul Haslinger](https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE) | [The World Until Yesterday](https://open.spotify.com/album/3qiijbyweVFxZ6qcEKRSbX) | 2:56 | 2022-01-21 |  |
@@ -201,6 +201,7 @@
 | [Under](https://open.spotify.com/track/3kCzddqKxidFHMrhKNSVDD) | [Jeroen Dirrix](https://open.spotify.com/artist/02Ay0xb3u177rlIOA1YmGs) | [Under](https://open.spotify.com/album/5M7NwfVh112enG9mdtt9nI) | 2:49 | 2022-01-21 |  |
 | [Under Hamnen](https://open.spotify.com/track/5xY2aih32s6PXblLdnvK5U) | [Jakob Lindhagen](https://open.spotify.com/artist/1UgNIzq9FgAThlcwjbcGgn), [Dag Rosenqvist](https://open.spotify.com/artist/48wweWXKBVt3B0FdyYNprj), [Sebastian Selke](https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui) | [Stadsbilder](https://open.spotify.com/album/32dQ6VGcKlWLwD0tJwhM2d) | 5:26 | 2022-01-21 | 2022-07-25 |
 | [Unearth](https://open.spotify.com/track/6Xi8YlrC0eGYuyjnJHWUVR) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Fallen](https://open.spotify.com/album/52thnHxyMTyY56yHm8i6Sx) | 5:57 | 2022-01-21 | 2023-03-05 |
+| [Unearth](https://open.spotify.com/track/6vMAWM4yqbgVsZtHrDd4pS) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Fallen](https://open.spotify.com/album/62LqgYHUIWUbWBtTVpZHPL) | 5:57 | 2023-04-07 |  |
 | [Untitled, Saturday](https://open.spotify.com/track/1yAG81LXyetlG4yrmowDGn) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB), [deer meadow](https://open.spotify.com/artist/7IjTtPufpIvS5zpffa9FXr) | [In a Sad Red Dusk, We Were Finally Leaving](https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR) | 4:52 | 2022-01-28 | 2022-07-29 |
 | [Vaara](https://open.spotify.com/track/7saUM4eE5H2Ai6c4Ot6Q47) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX) | [Vaara](https://open.spotify.com/album/58BzF0qi2u7FwZlTRsKcG7) | 5:09 | 2022-01-21 |  |
 | [Vanished](https://open.spotify.com/track/5eP0rdHSybIF4XU9tJalxU) | [Mayumi Masuya](https://open.spotify.com/artist/2c4dh6oAFivRgqb0CfOknz), [Sounds M](https://open.spotify.com/artist/2NaVCoohbahnm2WjNXW8Gn) | [Dusk to Dawn](https://open.spotify.com/album/3H37eb0yDPh3cSA6LOILx1) | 3:15 | 2022-12-30 |  |

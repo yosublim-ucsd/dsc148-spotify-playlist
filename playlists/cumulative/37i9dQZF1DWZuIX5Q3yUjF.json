@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: Ernia, Mara Sattei",
+  "description": "Il meglio dell'R&B italiano. Cover: AISHA",
   "name": "anima R&B",
   "tracks": [
     {
@@ -400,6 +400,24 @@
       "duration_ms": 172290,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/2V8r2YxPjZTCpfkDvSGcjQ"
+    },
+    {
+      "album": {
+        "name": "Black Eagle",
+        "url": "https://open.spotify.com/album/3SDlaTsiUiEX0h7QeE5vV0"
+      },
+      "artists": [
+        {
+          "name": "M\u00a5RA",
+          "url": "https://open.spotify.com/artist/3bSIOqKFJHDEVnuBSuOwWa"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197066,
+      "name": "Black Eagle",
+      "url": "https://open.spotify.com/track/1RgTtE3B08KoJXq5brKcuW"
     },
     {
       "album": {
@@ -2298,7 +2316,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 188953,
       "name": "Il Male - Italian Version",
       "url": "https://open.spotify.com/track/6R2Eem2AarE3nevr2PqV75"
@@ -3346,6 +3364,24 @@
       "duration_ms": 168000,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/38zBWUqKuUgXRgP7xIvE2s"
+    },
+    {
+      "album": {
+        "name": "MILANO",
+        "url": "https://open.spotify.com/album/7Av7omyGt9WMtZhln5aAP4"
+      },
+      "artists": [
+        {
+          "name": "AISHA",
+          "url": "https://open.spotify.com/artist/78S0OMZxZhxSE5WxSzJoCf"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161311,
+      "name": "MILANO",
+      "url": "https://open.spotify.com/track/33mBz8kHUd3j9Sf2fnL0S1"
     },
     {
       "album": {
@@ -5538,7 +5574,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 155948,
       "name": "Threeway",
       "url": "https://open.spotify.com/track/0JhPjKFuDsmBvMBdzcu8uS"

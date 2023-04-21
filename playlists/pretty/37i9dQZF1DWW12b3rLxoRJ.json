@@ -1,15 +1,175 @@
 {
   "description": "S\u00fabele el volumen a La Firma. Escucha los hits de esta competencia de Netflix.",
-  "num_followers": 334580,
+  "num_followers": 334278,
   "original_name": "La Firma Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTMxMzcxMSwwMDAwMDAwMDhhY2RmMzcwN2QyNDIxZjAyMWZkNGZkYWVhYzhhMTll",
+  "snapshot_id": "MTY4MjAwNzY0NiwwMDAwMDAwMGQ3ZGY4Yzc0NjM2NjM2YzkzMzQ0NmFkMjM4NGFkOWVk",
   "tracks": [
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
+      "album": {
+        "name": "BAILA CONMIGO",
+        "url": "https://open.spotify.com/album/38nLuVtvsMeM6Ab1AFdctz"
+      },
+      "artists": [
+        {
+          "name": "LA FIRMA",
+          "url": "https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q"
+        },
+        {
+          "name": "Nashy-Nashai",
+          "url": "https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx"
+        }
+      ],
+      "duration_ms": 138013,
+      "name": "Groove",
+      "url": "https://open.spotify.com/track/0n1pZSNV61doP2n3wRgMnu"
+    },
+    {
+      "added_at": "2023-04-20 16:20:46",
+      "album": {
+        "name": "OTRO NIVEL",
+        "url": "https://open.spotify.com/album/4VDUeWYXaKBXnm9YNj8TfP"
+      },
+      "artists": [
+        {
+          "name": "LA FIRMA",
+          "url": "https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q"
+        },
+        {
+          "name": "Nashy-Nashai",
+          "url": "https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx"
+        }
+      ],
+      "duration_ms": 149346,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/72MflEVFtLKecQtYGUcUZs"
+    },
+    {
+      "added_at": "2023-04-20 16:20:46",
+      "album": {
+        "name": "BAILA CONMIGO",
+        "url": "https://open.spotify.com/album/38nLuVtvsMeM6Ab1AFdctz"
+      },
+      "artists": [
+        {
+          "name": "LA FIRMA",
+          "url": "https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q"
+        },
+        {
+          "name": "RMAND",
+          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
+        }
+      ],
+      "duration_ms": 134626,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/2Q9aThWQN7JWsZTFglESXH"
+    },
+    {
+      "added_at": "2023-04-20 16:20:46",
+      "album": {
+        "name": "BAILA CONMIGO",
+        "url": "https://open.spotify.com/album/38nLuVtvsMeM6Ab1AFdctz"
+      },
+      "artists": [
+        {
+          "name": "LA FIRMA",
+          "url": "https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q"
+        },
+        {
+          "name": "Diego Smith",
+          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
+        }
+      ],
+      "duration_ms": 136746,
+      "name": "Prr",
+      "url": "https://open.spotify.com/track/5HtcoOKvjH5J0TeaZPUiQz"
+    },
+    {
+      "added_at": "2023-04-20 16:20:46",
+      "album": {
+        "name": "OTRO NIVEL",
+        "url": "https://open.spotify.com/album/4VDUeWYXaKBXnm9YNj8TfP"
+      },
+      "artists": [
+        {
+          "name": "LA FIRMA",
+          "url": "https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q"
+        },
+        {
+          "name": "RMAND",
+          "url": "https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK"
+        }
+      ],
+      "duration_ms": 134893,
+      "name": "Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/6VhKXXCWcy5lFRCK7d5W1C"
+    },
+    {
+      "added_at": "2023-04-20 16:20:46",
+      "album": {
+        "name": "OTRO NIVEL",
+        "url": "https://open.spotify.com/album/4VDUeWYXaKBXnm9YNj8TfP"
+      },
+      "artists": [
+        {
+          "name": "LA FIRMA",
+          "url": "https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q"
+        },
+        {
+          "name": "Diego Smith",
+          "url": "https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6"
+        }
+      ],
+      "duration_ms": 142266,
+      "name": "T\u00fa + Yo = ?",
+      "url": "https://open.spotify.com/track/65MgC2twdL83gcQvgLTMNw"
+    },
+    {
+      "added_at": "2023-04-20 16:20:46",
+      "album": {
+        "name": "OTRO NIVEL",
+        "url": "https://open.spotify.com/album/4VDUeWYXaKBXnm9YNj8TfP"
+      },
+      "artists": [
+        {
+          "name": "LA FIRMA",
+          "url": "https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q"
+        },
+        {
+          "name": "WANDA ORIGINAL",
+          "url": "https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD"
+        }
+      ],
+      "duration_ms": 123546,
+      "name": "Hasta Que Salga El Sol",
+      "url": "https://open.spotify.com/track/06w2xEUpknXWpKE2OqnuAS"
+    },
+    {
+      "added_at": "2023-04-20 16:20:46",
+      "album": {
+        "name": "BAILA CONMIGO",
+        "url": "https://open.spotify.com/album/38nLuVtvsMeM6Ab1AFdctz"
+      },
+      "artists": [
+        {
+          "name": "LA FIRMA",
+          "url": "https://open.spotify.com/artist/72wklUFxQO6sCK8LFrMF9q"
+        },
+        {
+          "name": "WANDA ORIGINAL",
+          "url": "https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD"
+        }
+      ],
+      "duration_ms": 124573,
+      "name": "Nagasaki",
+      "url": "https://open.spotify.com/track/6IaWhOAJpePhzxBntI4tnL"
+    },
+    {
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "COLABORACIONES",
         "url": "https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU"
@@ -33,7 +193,7 @@
       "url": "https://open.spotify.com/track/419xono1KqiWbVCu5bzSd8"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "RITMO GLOBAL",
         "url": "https://open.spotify.com/album/2Y262XwiPVL4WvKhbo6OKG"
@@ -53,7 +213,7 @@
       "url": "https://open.spotify.com/track/6Ux934DuivpRNBj6b9Aq1S"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "RITMO GLOBAL",
         "url": "https://open.spotify.com/album/2Y262XwiPVL4WvKhbo6OKG"
@@ -73,7 +233,7 @@
       "url": "https://open.spotify.com/track/0S8cQiwRG0jrSQpK7cToGd"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "S\u00c9 T\u00da MISMO",
         "url": "https://open.spotify.com/album/2wp0LYoPXrDjxbZZyfJcOw"
@@ -93,7 +253,7 @@
       "url": "https://open.spotify.com/track/1ftOFW7Nl8nV73hv6RmwLm"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "S\u00c9 T\u00da MISMO",
         "url": "https://open.spotify.com/album/2wp0LYoPXrDjxbZZyfJcOw"
@@ -113,7 +273,7 @@
       "url": "https://open.spotify.com/track/6HifbN3TTXNgjFEmUdk1E4"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "RITMO GLOBAL",
         "url": "https://open.spotify.com/album/2Y262XwiPVL4WvKhbo6OKG"
@@ -133,7 +293,7 @@
       "url": "https://open.spotify.com/track/0PcwKctURiZcDTaUBkWxnc"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "S\u00c9 T\u00da MISMO",
         "url": "https://open.spotify.com/album/2wp0LYoPXrDjxbZZyfJcOw"
@@ -153,7 +313,7 @@
       "url": "https://open.spotify.com/track/7nIV3QBnfqfm1YWTdHIGR0"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "COLABORACIONES",
         "url": "https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU"
@@ -177,7 +337,7 @@
       "url": "https://open.spotify.com/track/6f424CH1mjwlOLr8MevYp7"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "S\u00c9 T\u00da MISMO",
         "url": "https://open.spotify.com/album/2wp0LYoPXrDjxbZZyfJcOw"
@@ -197,7 +357,7 @@
       "url": "https://open.spotify.com/track/70gh5D4V88umWqsrCEvCHe"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "COLABORACIONES",
         "url": "https://open.spotify.com/album/6BvUu9MCrLMkeTQa5lDuyU"
@@ -221,7 +381,7 @@
       "url": "https://open.spotify.com/track/2c8DR5PSzNkHHxd8HkW9xg"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "S\u00c9 T\u00da MISMO",
         "url": "https://open.spotify.com/album/2wp0LYoPXrDjxbZZyfJcOw"
@@ -241,7 +401,7 @@
       "url": "https://open.spotify.com/track/1sRqMsTT4mThTgls8QMZGH"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "S\u00c9 T\u00da MISMO",
         "url": "https://open.spotify.com/album/2wp0LYoPXrDjxbZZyfJcOw"
@@ -261,7 +421,7 @@
       "url": "https://open.spotify.com/track/5CYB2aYfeoVD64kXkimgxJ"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "S\u00c9 T\u00da MISMO",
         "url": "https://open.spotify.com/album/2wp0LYoPXrDjxbZZyfJcOw"
@@ -281,7 +441,7 @@
       "url": "https://open.spotify.com/track/6oabOdwZZPRtpzZCAS6CoA"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "S\u00c9 T\u00da MISMO",
         "url": "https://open.spotify.com/album/2wp0LYoPXrDjxbZZyfJcOw"
@@ -301,7 +461,7 @@
       "url": "https://open.spotify.com/track/0FwcuaGlQPAUXpfRyJdlhX"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "RITMO GLOBAL",
         "url": "https://open.spotify.com/album/2Y262XwiPVL4WvKhbo6OKG"
@@ -321,7 +481,7 @@
       "url": "https://open.spotify.com/track/26MAhZfRxjMn0UjZrnkKKx"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "RITMO GLOBAL",
         "url": "https://open.spotify.com/album/2Y262XwiPVL4WvKhbo6OKG"
@@ -341,7 +501,7 @@
       "url": "https://open.spotify.com/track/1YNrXQmAQWAZ38bJpvdhKE"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "PA' LA CULTURA",
         "url": "https://open.spotify.com/album/2rTJC2lYUcP5iBUGzjgqde"
@@ -361,7 +521,7 @@
       "url": "https://open.spotify.com/track/13i8dEF5nrp2MZgFhE0aMu"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "PA' LA CULTURA",
         "url": "https://open.spotify.com/album/2rTJC2lYUcP5iBUGzjgqde"
@@ -381,7 +541,7 @@
       "url": "https://open.spotify.com/track/3OEuBxl0Ofh3uB54pnGq1G"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "PA' LA CULTURA",
         "url": "https://open.spotify.com/album/2rTJC2lYUcP5iBUGzjgqde"
@@ -401,7 +561,7 @@
       "url": "https://open.spotify.com/track/0EDNzuf97KScKug0Sov7Xu"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "PA' LA CULTURA",
         "url": "https://open.spotify.com/album/2rTJC2lYUcP5iBUGzjgqde"
@@ -421,7 +581,7 @@
       "url": "https://open.spotify.com/track/0rUYnGKCqlAcE36HkgPNVo"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "LA B\u00daSQUEDA",
         "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
@@ -441,7 +601,7 @@
       "url": "https://open.spotify.com/track/2w8mK5E51BICF0MCerzYkS"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "LA B\u00daSQUEDA",
         "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
@@ -461,7 +621,7 @@
       "url": "https://open.spotify.com/track/6VwH4mDDsCaiqVPPm9t0sy"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "OTRA CANCI\u00d3N DE AMOR",
         "url": "https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy"
@@ -481,7 +641,7 @@
       "url": "https://open.spotify.com/track/0unMcfI4AF1Sd1zEC0Rt8h"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "OTRA CANCI\u00d3N DE AMOR",
         "url": "https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy"
@@ -501,7 +661,7 @@
       "url": "https://open.spotify.com/track/1uMAdCac9JadOEzDEsq6PI"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "OTRA CANCI\u00d3N DE AMOR",
         "url": "https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy"
@@ -521,7 +681,7 @@
       "url": "https://open.spotify.com/track/7zf1PxJNga3gfPXOFEpQLs"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "LA B\u00daSQUEDA",
         "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
@@ -541,7 +701,7 @@
       "url": "https://open.spotify.com/track/3t7hYqeFKKlXsIc0q8eRLb"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "LA B\u00daSQUEDA",
         "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
@@ -561,7 +721,7 @@
       "url": "https://open.spotify.com/track/31CTDMQUOtkYsNZYuVXQx1"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "OTRA CANCI\u00d3N DE AMOR",
         "url": "https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy"
@@ -581,7 +741,7 @@
       "url": "https://open.spotify.com/track/2qOasu3wsh6kR5QW2YCXC4"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "OTRA CANCI\u00d3N DE AMOR",
         "url": "https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy"
@@ -601,7 +761,7 @@
       "url": "https://open.spotify.com/track/6jk8uwRPUVZw0dMWuJ4A6A"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "LA B\u00daSQUEDA",
         "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
@@ -621,7 +781,7 @@
       "url": "https://open.spotify.com/track/6RSy7km5kxiakrSCs8WNyp"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "LA B\u00daSQUEDA",
         "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
@@ -641,7 +801,7 @@
       "url": "https://open.spotify.com/track/2O3daDiFh6eM5yw4q0CF1C"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "PA' LA CULTURA",
         "url": "https://open.spotify.com/album/2rTJC2lYUcP5iBUGzjgqde"
@@ -661,7 +821,7 @@
       "url": "https://open.spotify.com/track/5UhOZgoHiABwpbFCQ68n5Q"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "OTRA CANCI\u00d3N DE AMOR",
         "url": "https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy"
@@ -681,7 +841,7 @@
       "url": "https://open.spotify.com/track/1MpE4mrrhYWAIzp87lM00i"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "PA' LA CULTURA",
         "url": "https://open.spotify.com/album/2rTJC2lYUcP5iBUGzjgqde"
@@ -701,7 +861,7 @@
       "url": "https://open.spotify.com/track/1IElcEU5eiVX6rfnzAIIYf"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "LA B\u00daSQUEDA",
         "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
@@ -721,7 +881,7 @@
       "url": "https://open.spotify.com/track/4iVmpDLh2cBdDKFRAtAa3E"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "OTRA CANCI\u00d3N DE AMOR",
         "url": "https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy"
@@ -741,7 +901,7 @@
       "url": "https://open.spotify.com/track/5sOQoRJxRLOwnxyTDIPnze"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "PA' LA CULTURA",
         "url": "https://open.spotify.com/album/2rTJC2lYUcP5iBUGzjgqde"
@@ -761,7 +921,7 @@
       "url": "https://open.spotify.com/track/46R6hzLoXGTl8HnPPRAOD4"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "OTRA CANCI\u00d3N DE AMOR",
         "url": "https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy"
@@ -781,7 +941,7 @@
       "url": "https://open.spotify.com/track/5gQbxzw0vAWI1F3RLXWsna"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "LA B\u00daSQUEDA",
         "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
@@ -801,7 +961,7 @@
       "url": "https://open.spotify.com/track/6GAy0g8xRgipvwEdosXmjR"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "OTRA CANCI\u00d3N DE AMOR",
         "url": "https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy"
@@ -821,7 +981,7 @@
       "url": "https://open.spotify.com/track/6fE7XcLoadUog7a85tVjne"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "PA' LA CULTURA",
         "url": "https://open.spotify.com/album/2rTJC2lYUcP5iBUGzjgqde"
@@ -841,7 +1001,7 @@
       "url": "https://open.spotify.com/track/2RiAAhn7kMrztEtDqW2gIC"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "LA B\u00daSQUEDA",
         "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
@@ -861,7 +1021,7 @@
       "url": "https://open.spotify.com/track/1g36G7v29GgqQQc5UQuSMe"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "OTRA CANCI\u00d3N DE AMOR",
         "url": "https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy"
@@ -881,7 +1041,7 @@
       "url": "https://open.spotify.com/track/1W1StNdx32yp7SE97b7jrp"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "PA' LA CULTURA",
         "url": "https://open.spotify.com/album/2rTJC2lYUcP5iBUGzjgqde"
@@ -901,7 +1061,7 @@
       "url": "https://open.spotify.com/track/6kwRRSL0brlfT1TyauSBjD"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "LA B\u00daSQUEDA",
         "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
@@ -921,7 +1081,7 @@
       "url": "https://open.spotify.com/track/6hXohHZ4YIYQ46rd8HzTU1"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "LA B\u00daSQUEDA",
         "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
@@ -941,7 +1101,7 @@
       "url": "https://open.spotify.com/track/2rceLllmbc2Db56L5pvoyX"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "LA B\u00daSQUEDA",
         "url": "https://open.spotify.com/album/2FH6oshOadbZFFNHsdy1uE"
@@ -961,7 +1121,7 @@
       "url": "https://open.spotify.com/track/1yaEjkqoa0atDKaxfd9mie"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "Resistencia",
         "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
@@ -981,7 +1141,7 @@
       "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
@@ -1005,7 +1165,7 @@
       "url": "https://open.spotify.com/track/1aUq8rjW1EwkAkMri4VfJy"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "NO voy a llorar :')",
         "url": "https://open.spotify.com/album/1IHXBPJAY47mRg8MWZbwwT"
@@ -1021,7 +1181,7 @@
       "url": "https://open.spotify.com/track/5lR23GryHOflIeSkJ0zGnW"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "Sci-Fi",
         "url": "https://open.spotify.com/album/1aVp3b9xC3Wrc0du10sDBu"
@@ -1041,7 +1201,7 @@
       "url": "https://open.spotify.com/track/5hF1rSgXQ4EPdWdYb8E6q0"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
@@ -1057,7 +1217,7 @@
       "url": "https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "Parte de M\u00ed",
         "url": "https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP"
@@ -1073,7 +1233,7 @@
       "url": "https://open.spotify.com/track/3hGtjSJQ76HkWzeUkekKGY"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "UNA M\u00c1S",
         "url": "https://open.spotify.com/album/2ZkJEUGwCwMl8AvzLsVdI5"
@@ -1097,7 +1257,7 @@
       "url": "https://open.spotify.com/track/1WORage8OfXlWtd8l0fWY6"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
@@ -1117,7 +1277,7 @@
       "url": "https://open.spotify.com/track/4uVEdikP5eLUy8Dq6gjiPV"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
         "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
@@ -1141,7 +1301,7 @@
       "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "Resistencia",
         "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
@@ -1161,7 +1321,7 @@
       "url": "https://open.spotify.com/track/4l4AiTqEyjCAJui6xVREH7"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "Parte de M\u00ed",
         "url": "https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP"
@@ -1185,7 +1345,7 @@
       "url": "https://open.spotify.com/track/0PgZvzLzdbwJC0a0UZvZle"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "The SpongeBob Movie: Sponge On The Run (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7"
@@ -1205,7 +1365,7 @@
       "url": "https://open.spotify.com/track/7CtbxAGq2P0jtYh6SH9DMR"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "#Update",
         "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
@@ -1225,7 +1385,7 @@
       "url": "https://open.spotify.com/track/1LszjjoVwDDZcWUQbzeDLG"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "DYNASTY",
         "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
@@ -1245,7 +1405,7 @@
       "url": "https://open.spotify.com/track/0GovomHOO7m93RvjaDPaLH"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "Fr\u00edo",
         "url": "https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O"
@@ -1261,7 +1421,7 @@
       "url": "https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "TRAP CAKE VOL. 2",
         "url": "https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI"
@@ -1277,7 +1437,7 @@
       "url": "https://open.spotify.com/track/6WfxIJKmYRSpsBJv0tEAKX"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "Parte de M\u00ed",
         "url": "https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP"
@@ -1297,7 +1457,7 @@
       "url": "https://open.spotify.com/track/0XYZhJIcwKNjd0tjbSXwaQ"
     },
     {
-      "added_at": "2023-04-12 15:35:10",
+      "added_at": "2023-04-20 16:20:46",
       "album": {
         "name": "LAS QUE NO IBAN A SALIR",
         "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"

@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 124235,
+  "num_followers": 124343,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2NzgzMTMxMCwwMDAwMDAwMDU4M2I0ZTk2N2RiNWRkMDlhYTE3NWU1ODFhMGM5Mzlm",
+  "snapshot_id": "MTY2NzgzMTMxMCwwMDAwMDAwMDJlNTA2MWQwMDdlYjIyZmY2MzZlZGJmYzhmNDU5ODA2",
   "tracks": [
     {
       "added_at": "2022-11-07 14:28:30",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy"
-      },
-      "artists": [
-        {
-          "name": "Simon Antonio",
-          "url": "https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3"
-        }
-      ],
-      "duration_ms": 202105,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/0nxsmIu2WTp8h0VF2x5zoI"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 146016,
       "name": "November Sea",
       "url": "https://open.spotify.com/track/0dxSuI5Uriw7To0hzt9cjw"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/7Aaekg6jo3Z5tESUKyCiqy"
+      },
+      "artists": [
+        {
+          "name": "Simon Antonio",
+          "url": "https://open.spotify.com/artist/0MN3gDdLq76RTXU53UrOh3"
+        }
+      ],
+      "duration_ms": 202105,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/2I2hhG25ox1FXfMFcbnos8"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "R\u00eaverie",
-        "url": "https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK"
-      },
-      "artists": [
-        {
-          "name": "Jack Hopkins",
-          "url": "https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV"
-        }
-      ],
-      "duration_ms": 232105,
-      "name": "R\u00eaverie",
-      "url": "https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
         "name": "On The Verge Of Collapse",
         "url": "https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 168224,
       "name": "We All Grieve Differently",
       "url": "https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "R\u00eaverie",
+        "url": "https://open.spotify.com/album/2RKHY2zuVqYuI6XXOVeLRK"
+      },
+      "artists": [
+        {
+          "name": "Jack Hopkins",
+          "url": "https://open.spotify.com/artist/0RwM3W2gHbLUjWhdF35JtV"
+        }
+      ],
+      "duration_ms": 232105,
+      "name": "R\u00eaverie",
+      "url": "https://open.spotify.com/track/4VAjZUJSihI7cKpuP8mJRy"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -579,18 +579,18 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa"
+        "name": "Everything Is Everything Else",
+        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
       },
       "artists": [
         {
-          "name": "Takaaki Izumi",
-          "url": "https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p"
+          "name": "Luke Duffy",
+          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Drifter",
-      "url": "https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW"
+      "duration_ms": 281841,
+      "name": "Everything Is Everything Else",
+      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "Everything Is Everything Else",
-        "url": "https://open.spotify.com/album/2DHZZIPWMaAe02rgscl7bH"
+        "name": "Life",
+        "url": "https://open.spotify.com/album/3Ly89MLIwLM1ECNLJUTJRa"
       },
       "artists": [
         {
-          "name": "Luke Duffy",
-          "url": "https://open.spotify.com/artist/4ASptjf5qv6ZS6GfWWdHl2"
+          "name": "Takaaki Izumi",
+          "url": "https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p"
         }
       ],
-      "duration_ms": 281841,
-      "name": "Everything Is Everything Else",
-      "url": "https://open.spotify.com/track/4RKYTpwYHjrriplUOlae20"
+      "duration_ms": 157500,
+      "name": "Drifter",
+      "url": "https://open.spotify.com/track/5qylsVTG6k9vStN40LcpwW"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
+        "name": "S\u00e9r\u00e9nit\u00e9",
+        "url": "https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9mie Fauquet",
+          "url": "https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob"
+        }
+      ],
+      "duration_ms": 108690,
+      "name": "S\u00e9r\u00e9nit\u00e9",
+      "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
         "name": "Islands",
         "url": "https://open.spotify.com/album/2XIKAebL8aZ70mFTOFDsAr"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 141610,
       "name": "Islands",
       "url": "https://open.spotify.com/track/6nEE1lj51T4efni3T2NxET"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "S\u00e9r\u00e9nit\u00e9",
-        "url": "https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00e9mie Fauquet",
-          "url": "https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob"
-        }
-      ],
-      "duration_ms": 108690,
-      "name": "S\u00e9r\u00e9nit\u00e9",
-      "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -879,8 +879,8 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "EGUZKIA GALDU",
-        "url": "https://open.spotify.com/album/6mHmrZX37v9XTVUJWVavXv"
+        "name": "S\u00f3liton",
+        "url": "https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
         }
       ],
-      "duration_ms": 161981,
-      "name": "EGUZKIA GALDU",
-      "url": "https://open.spotify.com/track/3EsMeZfc60xWznnM6QgHBq"
+      "duration_ms": 122347,
+      "name": "S\u00f3liton",
+      "url": "https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -963,8 +963,8 @@
     {
       "added_at": "2022-11-07 14:28:30",
       "album": {
-        "name": "S\u00f3liton",
-        "url": "https://open.spotify.com/album/0971hkOs6jrivjyQaAgdqE"
+        "name": "EGUZKIA GALDU",
+        "url": "https://open.spotify.com/album/6mHmrZX37v9XTVUJWVavXv"
       },
       "artists": [
         {
@@ -972,29 +972,9 @@
           "url": "https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1"
         }
       ],
-      "duration_ms": 122347,
-      "name": "S\u00f3liton",
-      "url": "https://open.spotify.com/track/5WstJ13vyaoD8EqpVbKB8v"
-    },
-    {
-      "added_at": "2022-11-07 14:28:30",
-      "album": {
-        "name": "First Time Of Heaven (Piano and Strings)",
-        "url": "https://open.spotify.com/album/5J4JVqt7PgLD5RzwYt5FjG"
-      },
-      "artists": [
-        {
-          "name": "Charlie Ward",
-          "url": "https://open.spotify.com/artist/2DAW0Yp7gDtFqrJk4v3zt2"
-        },
-        {
-          "name": "Kelly Lerner",
-          "url": "https://open.spotify.com/artist/1qEe8TfUNdAIGm9ZBe23hO"
-        }
-      ],
-      "duration_ms": 136521,
-      "name": "First Time Of Heaven - Piano and Strings",
-      "url": "https://open.spotify.com/track/28xXlF8sz0TgNL52WI7VkT"
+      "duration_ms": 161981,
+      "name": "EGUZKIA GALDU",
+      "url": "https://open.spotify.com/track/3EsMeZfc60xWznnM6QgHBq"
     },
     {
       "added_at": "2022-11-07 14:28:30",
@@ -1015,6 +995,26 @@
       "duration_ms": 100875,
       "name": "Things of the World - Piano and Strings",
       "url": "https://open.spotify.com/track/5e7rOKu6CZxntaa8gKOihj"
+    },
+    {
+      "added_at": "2022-11-07 14:28:30",
+      "album": {
+        "name": "First Time Of Heaven (Piano and Strings)",
+        "url": "https://open.spotify.com/album/5J4JVqt7PgLD5RzwYt5FjG"
+      },
+      "artists": [
+        {
+          "name": "Charlie Ward",
+          "url": "https://open.spotify.com/artist/2DAW0Yp7gDtFqrJk4v3zt2"
+        },
+        {
+          "name": "Kelly Lerner",
+          "url": "https://open.spotify.com/artist/1qEe8TfUNdAIGm9ZBe23hO"
+        }
+      ],
+      "duration_ms": 136521,
+      "name": "First Time Of Heaven - Piano and Strings",
+      "url": "https://open.spotify.com/track/28xXlF8sz0TgNL52WI7VkT"
     },
     {
       "added_at": "2022-11-07 14:28:30",

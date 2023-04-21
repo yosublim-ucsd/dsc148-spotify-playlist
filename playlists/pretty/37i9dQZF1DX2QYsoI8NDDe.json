@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Conexi\u00f3n Divina",
-  "num_followers": 503209,
+  "num_followers": 503204,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ2MDg2NCwwMDAwMDAwMDVlYTQwOWZiZTRjNmUyNWZhOTMyMDg4YzYxMDgyMGI3",
+  "snapshot_id": "MTY4MTQ2MDg2NCwwMDAwMDAwMDUwYjA0NTI0M2YxNmE4ZjBjMzcxZjdjMTM2MjliYjEy",
   "tracks": [
     {
       "added_at": "2023-04-14 08:27:44",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-04-14 08:27:44",
       "album": {
-        "name": "En Mil Cosas (En Vivo)",
-        "url": "https://open.spotify.com/album/3ubgBWnTXQHbo9pGYvqyaL"
-      },
-      "artists": [
-        {
-          "name": "Lili Zetina",
-          "url": "https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j"
-        }
-      ],
-      "duration_ms": 194034,
-      "name": "En Mil Cosas - En Vivo",
-      "url": "https://open.spotify.com/track/048c1vHlRPl2mD86C4fx3m"
-    },
-    {
-      "added_at": "2023-04-14 08:27:44",
-      "album": {
         "name": "Ni El Dinero Ni Nada (En Vivo)",
         "url": "https://open.spotify.com/album/7g5OiP73DVPgH2y0YcrKAP"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 150935,
       "name": "Ni El Dinero Ni Nada - En Vivo",
       "url": "https://open.spotify.com/track/70Z5TUJaJ3G9335olKP7SL"
+    },
+    {
+      "added_at": "2023-04-14 08:27:44",
+      "album": {
+        "name": "En Mil Cosas (En Vivo)",
+        "url": "https://open.spotify.com/album/3ubgBWnTXQHbo9pGYvqyaL"
+      },
+      "artists": [
+        {
+          "name": "Lili Zetina",
+          "url": "https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j"
+        }
+      ],
+      "duration_ms": 194034,
+      "name": "En Mil Cosas - En Vivo",
+      "url": "https://open.spotify.com/track/048c1vHlRPl2mD86C4fx3m"
     },
     {
       "added_at": "2023-04-14 08:27:44",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-04-14 08:27:44",
       "album": {
-        "name": "Vanessa Guillen",
-        "url": "https://open.spotify.com/album/7LdX5t2i8wNlXlixStYkiq"
-      },
-      "artists": [
-        {
-          "name": "Ivonne Galaz",
-          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
-        }
-      ],
-      "duration_ms": 207642,
-      "name": "Vanessa Guillen",
-      "url": "https://open.spotify.com/track/6nvpeJpxKOp2XtDTiTP2KB"
-    },
-    {
-      "added_at": "2023-04-14 08:27:44",
-      "album": {
         "name": "Ya Tengo Con Quien",
         "url": "https://open.spotify.com/album/4RAkuPeLPfeHhujFrjiliU"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 223914,
       "name": "Ya Tengo Con Quien",
       "url": "https://open.spotify.com/track/6IM22e1Hz9RP3iKLaIuvaQ"
+    },
+    {
+      "added_at": "2023-04-14 08:27:44",
+      "album": {
+        "name": "Vanessa Guillen",
+        "url": "https://open.spotify.com/album/7LdX5t2i8wNlXlixStYkiq"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        }
+      ],
+      "duration_ms": 207642,
+      "name": "Vanessa Guillen",
+      "url": "https://open.spotify.com/track/6nvpeJpxKOp2XtDTiTP2KB"
     },
     {
       "added_at": "2023-04-14 08:27:44",

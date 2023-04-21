@@ -1,13 +1,33 @@
 {
   "description": "De lunes a domingo, descubre un tema elegido por tus editores de Spotify.",
-  "num_followers": 421827,
+  "num_followers": 421833,
   "original_name": "Canci\u00f3n del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTg3MzIwMCwwMDAwMDAwMGYyYjY2OTUwNGUwYzQ2YWNhY2U3NGNmYTAyODM1ZGQ1",
+  "snapshot_id": "MTY4MTk1OTYwMCwwMDAwMDAwMGFjOWQyNjkxYzNlYzBhNTUwMmI0NGY5MDYwODIwNzMx",
   "tracks": [
+    {
+      "added_at": "2023-04-20 03:00:00",
+      "album": {
+        "name": "Provoqu\u00e9",
+        "url": "https://open.spotify.com/album/7koNsR3jjgbbVhFVEj8AaE"
+      },
+      "artists": [
+        {
+          "name": "La Femme D\u00b4Argent",
+          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
+        },
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Provoqu\u00e9",
+      "url": "https://open.spotify.com/track/6EPG6MmVGZvV36sUaPN4u9"
+    },
     {
       "added_at": "2023-04-19 03:00:00",
       "album": {
@@ -879,26 +899,6 @@
       "duration_ms": 282020,
       "name": "Fotonovela",
       "url": "https://open.spotify.com/track/1SoR39CY4CbGknDHwqxAvV"
-    },
-    {
-      "added_at": "2023-04-10 18:00:00",
-      "album": {
-        "name": "El Bolero (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5P85yo4uOZwMXQT46vubPe"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 209217,
-      "name": "El Bolero - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/27gu4iadh6eZ3seAD74dTM"
     }
   ],
   "unique_name": "Canci\u00f3n del D\u00eda",

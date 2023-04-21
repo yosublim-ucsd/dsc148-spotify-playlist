@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: Yaeji
 
-772 songs - 2 day 2 hr 43 min
+773 songs - 2 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Don't Hold Back](https://open.spotify.com/track/5aL4CEwuO8mGuT2Ar1EjbQ) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Don't Hold Back](https://open.spotify.com/album/0NwmXGutD38SPKaJNyYbaM) | 3:22 | 2021-05-28 | 2022-02-12 |
 | [Don't Wait \(feat\. Yahtzel\)](https://open.spotify.com/track/2oWfyTJMRjOK38Repljm2S) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s), [Yahtzel](https://open.spotify.com/artist/1zlKMq4vfH4f037a8JjKlq) | [Don't Wait \(feat\. Yahtzel\)](https://open.spotify.com/album/2rdr4N4DCXrjLXnbLO3uoN) | 3:51 | 2021-06-11 | 2022-04-15 |
 | [Done \(Let’s Get It\)](https://open.spotify.com/track/2aiZVh8PAgIVy3wNlsQnhD) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Done \(Let's Get It\)](https://open.spotify.com/album/1qVKptza3e1owyE8IzvTUO) | 2:52 | 2023-02-24 | 2023-04-15 |
-| [Don’t Get Too Close](https://open.spotify.com/track/6GYe9bY4looLlWjY1ffJ5Y) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Don’t Get Too Close](https://open.spotify.com/album/7y03BXt9jGpDHvQ01knCXE) | 4:04 | 2023-02-17 |  |
+| [Don’t Get Too Close](https://open.spotify.com/track/6GYe9bY4looLlWjY1ffJ5Y) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [Don’t Get Too Close](https://open.spotify.com/album/7y03BXt9jGpDHvQ01knCXE) | 4:04 | 2023-02-17 | 2023-04-21 |
 | [Down](https://open.spotify.com/track/2O0SzeXQTcXFlGuFsY5JNH) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Down](https://open.spotify.com/album/2Ra7ZC8kZB8dWKveQYkaCt) | 3:52 | 2022-04-22 | 2022-04-29 |
 | [Downtown](https://open.spotify.com/track/0DfRIdHGNm3JfPGjPqg6GJ) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 4:27 | 2022-09-17 | 2022-10-06 |
 | [DREAMER](https://open.spotify.com/track/6j2AojKOLW867QDk2hEO5j) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DREAMER](https://open.spotify.com/album/4aBAyZHJOWq0M7uVXYSEnF) | 5:39 | 2022-11-11 |  |
@@ -736,6 +736,7 @@
 | [Walk The Beat](https://open.spotify.com/track/1MMO7ytenCjfcWSIFhWvql) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Walk The Beat](https://open.spotify.com/album/1ygm7W37eAOhhGvvSDdE2a) | 2:55 | 2021-08-06 | 2022-06-14 |
 | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2) | 3:36 | 2022-01-14 | 2022-09-10 |
 | [WANT NEED LOVE](https://open.spotify.com/track/3FIb81xI76x7pGPbFbzZXu) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [WANT NEED LOVE](https://open.spotify.com/album/6T51zmSsyXWFh2wgu2AVLq) | 4:01 | 2022-09-17 | 2022-10-06 |
+| [WASTED ON ME](https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [WASTED ON ME](https://open.spotify.com/album/5e08LQuzV5wcQlCcp9rs2g) | 3:02 | 2023-03-31 |  |
 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 | 2022-10-05 |  |
 | [Water](https://open.spotify.com/track/0HX7Qdf2R0pfeDueFpF6C4) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [QUOTA](https://open.spotify.com/album/2yj9MtZaGfQXkiH1CR3AeA) | 3:29 | 2021-07-09 | 2022-02-11 |
 | [WATER\. \(feat\. Bryce Vine\)](https://open.spotify.com/track/57Zhe3iZ0PGDXm5qpeoXIh) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [WATER\. \(feat\. Bryce Vine\)](https://open.spotify.com/album/6rin0eQVQWe4kAA7tCLmyX) | 2:46 | 2022-04-29 | 2023-04-01 |

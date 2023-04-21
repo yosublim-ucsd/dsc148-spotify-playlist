@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: محمود الليثى
 
-201 songs - 15 hr 26 min
+202 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Ana Mesh Arefny](https://open.spotify.com/track/5zEy0QZouNwg7ZtqSs6M54) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [Darbt Maalem](https://open.spotify.com/album/73dc4gBSKPXVBTY9UTpEsy) | 5:41 | 2021-12-16 |  |
 | [Ana Mesh Hafya](https://open.spotify.com/track/6wkLyntrkilzCmarir4r8k) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Ahmed Shiba Cocktail](https://open.spotify.com/album/1k0LL1fgNsewKfbPUTpQwD) | 6:28 | 2021-12-16 | 2022-12-21 |
 | [Ashamy Fe Rabena](https://open.spotify.com/track/24cag0e6MUffIW9zTQLnIn) | [Ehab Tawfik](https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C), [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [Ashamy Fe Rabena](https://open.spotify.com/album/0U9cWogBOZo04lTWxW3ZU2) | 5:08 | 2021-12-16 | 2022-12-21 |
-| [Bein Narein](https://open.spotify.com/track/6IgTNYRlXoOsQD7fV4O6TJ) | [Hoda](https://open.spotify.com/artist/7pzIBGIsX1puhih75jGnX3) | [Ah Menak](https://open.spotify.com/album/0wINmOPUtmzFxZRaE1kRUw) | 3:43 | 2021-12-16 |  |
+| [Bein Narein](https://open.spotify.com/track/6IgTNYRlXoOsQD7fV4O6TJ) | [Hoda](https://open.spotify.com/artist/7pzIBGIsX1puhih75jGnX3) | [Ah Menak](https://open.spotify.com/album/0wINmOPUtmzFxZRaE1kRUw) | 3:43 | 2021-12-16 | 2023-04-21 |
 | [Bena2es](https://open.spotify.com/track/50L0cjBEGiEuxA15kQw850) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Bena2es](https://open.spotify.com/album/3r6ulG2SGCqROirKSqdetn) | 4:08 | 2021-12-16 | 2022-12-21 |
 | [Bent El Soltan](https://open.spotify.com/track/31LFewwCdaBFct3p1Os0fn) | [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [Bent El Soltan](https://open.spotify.com/album/7G75mfH0x0LG40buGY3LGI) | 12:41 | 2021-12-16 |  |
 | [Beshweish Alaya](https://open.spotify.com/track/1e41x6mKFcFNCWx4jolBuB) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Beshweish Alaya](https://open.spotify.com/album/61XCudIdITOYqycdnHI34j) | 4:29 | 2021-12-16 | 2023-02-17 |
@@ -152,6 +152,7 @@
 | [المولد يرجع الفرحة ترجع](https://open.spotify.com/track/3CZOi1OCkOnnR4MtdWh3hz) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [المولد يرجع الفرحة ترجع](https://open.spotify.com/album/1YtoLoItsxMgeI88ynX9KA) | 1:36 | 2021-12-30 |  |
 | [امانه](https://open.spotify.com/track/1Xqv1JLeOgkaADrmi0Ivpx) | [رمضان البرنس](https://open.spotify.com/artist/2ZG1AVuDRXlugVnlxF9gTn) | [امانه](https://open.spotify.com/album/4R0XHv67F9qsuNHKZP28iW) | 4:18 | 2022-07-14 |  |
 | [امانه](https://open.spotify.com/track/4tFQtcaW9BHllKlhn4SAfk) | [رمضان البرنس](https://open.spotify.com/artist/2ZG1AVuDRXlugVnlxF9gTn) | [امانه](https://open.spotify.com/album/7wgJVoSAQAnYzexJzkIsr3) | 4:18 | 2021-12-16 | 2022-07-29 |
+| [انا الهيرو](https://open.spotify.com/track/08W2YoNffieqZdwUKUlDI2) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [انا الهيرو](https://open.spotify.com/album/5H3pCXqhJkzGlhHNwZVASs) | 3:48 | 2023-04-20 |  |
 | [اه يا دنيا](https://open.spotify.com/track/0THQA9oPhOoXuBFJKAJtGi) | [Bossy](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [اه يا دنيا \- ارت تمبلت الالبوم الاول](https://open.spotify.com/album/3tNNn4fKSt7Zvv7wWFusil) | 4:37 | 2021-12-16 | 2022-07-29 |
 | [اه يا دنيا](https://open.spotify.com/track/2ZQH0ouCOc78akBj28DfCQ) | [بوسي](https://open.spotify.com/artist/0CtOY7f9AHgJu6rd7uXmgL) | [اه يا دنيا \- ارت تمبلت الالبوم الاول](https://open.spotify.com/album/1pI3Na3k6Pv4BYRMJIquEm) | 4:37 | 2022-07-14 |  |
 | [باب الشعريه](https://open.spotify.com/track/1LvxnrYAgVPrmSl2U8lYqz) | [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [باب الشعريه](https://open.spotify.com/album/5W7slMzTwQbryB0as01CLa) | 3:22 | 2021-12-16 |  |

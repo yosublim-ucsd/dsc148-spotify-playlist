@@ -2,7 +2,7 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw?si=3bS5VgyJReir6n95q\-4PSQ">Malome Vector</a>
+> Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1?si=lgth504CTee5yzE5FWtE5w">Lwah Ndlunkulu</a>
 
 359 songs - 1 day 1 hr 33 min
 

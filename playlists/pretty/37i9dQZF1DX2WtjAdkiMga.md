@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 
 > Soft piano lullaby versions of Jazz classics to lull your baby to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,085 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,156 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,20 +49,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 | 39 | [the midnight sun will never set](https://open.spotify.com/track/0iSiLiy0wdl41Pz0RcNzrH) | [Matthew Simmons](https://open.spotify.com/artist/0VLnZmWurenu8BMwOR8iSF) | [The midnight sun will never set](https://open.spotify.com/album/2OyFudTG8k36YEzfScXgLQ) | 4:25 |
 | 40 | [In Another Day](https://open.spotify.com/track/21uYfxqePi9cX2aHvsEGAI) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [In Another Day](https://open.spotify.com/album/326l5lpeuTwSNNyZ9GpbHc) | 3:14 |
 | 41 | [It's Only A Paper Moon](https://open.spotify.com/track/7naIptuhLR1lTnnxx4Dx46) | [Maki Yuoma](https://open.spotify.com/artist/3VUflANX1g7LBvBXRZKatX) | [I Keep Clinging To Close](https://open.spotify.com/album/4rCMPGvTEERHD29NspCuC7) | 4:26 |
-| 42 | [Here Is That Rainy Day](https://open.spotify.com/track/2OMdeDUpMJdWmsYm9x7cxM) | [Lissie Lane](https://open.spotify.com/artist/6v8NL7nzdB6eDICGrOxn8V) | [Misty](https://open.spotify.com/album/4im0vaW5Oa6WZGxnPU7nHo) | 2:24 |
-| 43 | [Someday My Prince Will Come](https://open.spotify.com/track/6DEvwWmkHDV5H8Qj9VUz0S) | [Taylor Leon](https://open.spotify.com/artist/2Bb369ue6IRZKBoA1Fst4o) | [Someone To Watch Over Me](https://open.spotify.com/album/53DXqdTx25Frvdr2ZBpJZW) | 2:34 |
-| 44 | [Very Early](https://open.spotify.com/track/233mHTkvc7567uCXc7XsHR) | [Ottilie Lebau](https://open.spotify.com/artist/361nXBd8zOp4m6PB7Gjnie) | [Very Early](https://open.spotify.com/album/0Gdo0WpxqvA4s8UGxFO3Hf) | 2:10 |
-| 45 | [Blue Moon](https://open.spotify.com/track/5rmh8KIWhqte8XIfaowQEf) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Jazz Standard Lullabies](https://open.spotify.com/album/4SgbBMJb2slZ0mSnWJblIb) | 2:20 |
-| 46 | [What a Difference a Day Makes](https://open.spotify.com/track/2leHkcbJyZho0oEWfCzt11) | [Ted Gaupt](https://open.spotify.com/artist/3VhxsWlOY8nQqDOZG6Mq4c) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/5d32AriMFyj1woEPOUoNMz) | 2:58 |
+| 42 | [Someday My Prince Will Come](https://open.spotify.com/track/6DEvwWmkHDV5H8Qj9VUz0S) | [Taylor Leon](https://open.spotify.com/artist/2Bb369ue6IRZKBoA1Fst4o) | [Someone To Watch Over Me](https://open.spotify.com/album/53DXqdTx25Frvdr2ZBpJZW) | 2:34 |
+| 43 | [Very Early](https://open.spotify.com/track/233mHTkvc7567uCXc7XsHR) | [Ottilie Lebau](https://open.spotify.com/artist/361nXBd8zOp4m6PB7Gjnie) | [Very Early](https://open.spotify.com/album/0Gdo0WpxqvA4s8UGxFO3Hf) | 2:10 |
+| 44 | [Blue Moon](https://open.spotify.com/track/5rmh8KIWhqte8XIfaowQEf) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Jazz Standard Lullabies](https://open.spotify.com/album/4SgbBMJb2slZ0mSnWJblIb) | 2:20 |
+| 45 | [What a Difference a Day Makes](https://open.spotify.com/track/2leHkcbJyZho0oEWfCzt11) | [Ted Gaupt](https://open.spotify.com/artist/3VhxsWlOY8nQqDOZG6Mq4c) | [Twinkle Twinkle Little Star](https://open.spotify.com/album/5d32AriMFyj1woEPOUoNMz) | 2:58 |
+| 46 | [Here Is That Rainy Day](https://open.spotify.com/track/2OMdeDUpMJdWmsYm9x7cxM) | [Lissie Lane](https://open.spotify.com/artist/6v8NL7nzdB6eDICGrOxn8V) | [Misty](https://open.spotify.com/album/4im0vaW5Oa6WZGxnPU7nHo) | 2:24 |
 | 47 | [The Stars Are Bright](https://open.spotify.com/track/1h6f4tjOYIGKZ3dVs1DBcs) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [The Stars Are Bright](https://open.spotify.com/album/141eACqjInBXxRwguRT1bS) | 4:01 |
 | 48 | [Skylark](https://open.spotify.com/track/3gDXxFjx7S85a3jCOIVYHx) | [Jesse Nielsen](https://open.spotify.com/artist/28hL1CMeKSmGDu43cUqsWW) | [Jazz Standard Lullabies](https://open.spotify.com/album/4SgbBMJb2slZ0mSnWJblIb) | 2:27 |
 | 49 | [A Flower Is A Lonesome Thing](https://open.spotify.com/track/6VvWYVzG8F16Q1lGrBE22Q) | [Jonny Lockley](https://open.spotify.com/artist/09VHG7HRDUHBwGjvRRB3Xj) | [A Flower Is a Lonesome Thing](https://open.spotify.com/album/5yyEbOdcKmTWyYraAagFSk) | 4:03 |
 | 50 | [I'll Be Seeing You](https://open.spotify.com/track/0KTPLB6sLuMnZ9ano7LA7c) | [Isaac Clough](https://open.spotify.com/artist/6Dkbd6XA0kB66pT1wWlfKS) | [I'll Be Seeing You](https://open.spotify.com/album/0g2TfniROywbNxQlqHiEFc) | 2:11 |
 | 51 | [Jitterbug Waltz](https://open.spotify.com/track/466GOMGOnG9eld0Hx4JWKm) | [Jenn Higgins](https://open.spotify.com/artist/1osOMrNNhLsHInJWbS6ejR) | [Polkadots and Moonbeams](https://open.spotify.com/album/4Ui5vnomcfy5yjjhTLnTYa) | 2:35 |
-| 52 | [I Loves You Porgy](https://open.spotify.com/track/6NvpzvvoILZTttsq8Fzam7) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [I Loves You Porgy](https://open.spotify.com/album/1wqYxQO7panIKBjUMRbMkQ) | 4:40 |
-| 53 | [Moonlight in Vermont](https://open.spotify.com/track/6VJn0MDkRQzrGCLo098JOs) | [Donal Garcia](https://open.spotify.com/artist/6IgqfiaWleSjVYu9Dr5D0S) | [Smile](https://open.spotify.com/album/7tUDzSSUGdeeC6nnYiT7K5) | 2:15 |
-| 54 | [Next to Nothing](https://open.spotify.com/track/3NSUJkVYfauEwgNlhJinXF) | [Jacob De La Rose](https://open.spotify.com/artist/4fe6kAGXzfd9qBI1z4cwjj) | [Next to Nothing](https://open.spotify.com/album/0aUgCD4UfCBXhuz0uBtT5z) | 3:27 |
-| 55 | [Remembering Yesterday](https://open.spotify.com/track/2Zwb29cNNm14tWsiF3miBs) | [Roger Strauss](https://open.spotify.com/artist/2zvMk2zsPGcS2y7gKjmRn9) | [Remembering Yesterday](https://open.spotify.com/album/2VakgfW7V5sTcM4L4nOnxL) | 3:21 |
+| 52 | [Moonlight in Vermont](https://open.spotify.com/track/6VJn0MDkRQzrGCLo098JOs) | [Donal Garcia](https://open.spotify.com/artist/6IgqfiaWleSjVYu9Dr5D0S) | [Smile](https://open.spotify.com/album/7tUDzSSUGdeeC6nnYiT7K5) | 2:15 |
+| 53 | [Next to Nothing](https://open.spotify.com/track/3NSUJkVYfauEwgNlhJinXF) | [Jacob De La Rose](https://open.spotify.com/artist/4fe6kAGXzfd9qBI1z4cwjj) | [Next to Nothing](https://open.spotify.com/album/0aUgCD4UfCBXhuz0uBtT5z) | 3:27 |
+| 54 | [Remembering Yesterday](https://open.spotify.com/track/2Zwb29cNNm14tWsiF3miBs) | [Roger Strauss](https://open.spotify.com/artist/2zvMk2zsPGcS2y7gKjmRn9) | [Remembering Yesterday](https://open.spotify.com/album/2VakgfW7V5sTcM4L4nOnxL) | 3:21 |
+| 55 | [I Loves You Porgy](https://open.spotify.com/track/6NvpzvvoILZTttsq8Fzam7) | [Jim Jensen](https://open.spotify.com/artist/1mzZZuAmYl9ZyBmrI0beiJ) | [I Loves You Porgy](https://open.spotify.com/album/1wqYxQO7panIKBjUMRbMkQ) | 4:40 |
 | 56 | [Tenderly](https://open.spotify.com/track/7tyZqOZDFhCgARJWP4g6EC) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [Tenderly](https://open.spotify.com/album/1jw8z9WMpLOl5y89HN5Zda) | 3:10 |
 | 57 | [Come Rain or Come Shine](https://open.spotify.com/track/0oVK8j9mHARdEf5IKX3r2s) | [John Paul Connor](https://open.spotify.com/artist/5tEfXL28fgpdT21o1yE7Zf) | [Embraceable You](https://open.spotify.com/album/1uyvwNjx3tPhpkvsinMZll) | 2:56 |
 | 58 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/10RuHxKum9NEanMnjISzNF) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/3sQaHcC5OYhvDmJalmlLoM) | 2:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WtjAdkiMga.md) - [plain]
 | 79 | [Why try to change me now](https://open.spotify.com/track/6eGpLVtbSxsiOLXT47AcIe) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [Why try to change me now](https://open.spotify.com/album/5uCLR0oUrQISjDJpZyqvpi) | 5:19 |
 | 80 | [Alfie](https://open.spotify.com/track/0hM1KJAmxzankL3lgogyxf) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Alfie](https://open.spotify.com/album/5Utoepi0mubUEicgDq7WnY) | 2:43 |
 
-Snapshot ID: `MTY4MTM4NzM3NCwwMDAwMDAwMDhhNzE4ZTljNGQ2MjdlNWVhYTAyN2YzMDI3ZTNlNmY2`
+Snapshot ID: `MTY4MTk3MzQyOCwwMDAwMDAwMGMxNjcxYWQ5MjEzMzkwZmU5Y2FkMTMxMWZjYTJjZTcz`

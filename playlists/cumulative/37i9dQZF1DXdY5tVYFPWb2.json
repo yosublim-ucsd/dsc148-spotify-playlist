@@ -3236,7 +3236,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 246613,
       "name": "Midnight Dew",
       "url": "https://open.spotify.com/track/7nxFb3o21pld23nhJNueQD"
@@ -3384,7 +3384,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 270133,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/18LOgLjl2ljm2eOKKhYiWi"
@@ -5771,6 +5771,24 @@
     },
     {
       "album": {
+        "name": "TATTOO",
+        "url": "https://open.spotify.com/album/3VqutKQybsb2z1IT9CDRUE"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288099,
+      "name": "TATTOO",
+      "url": "https://open.spotify.com/track/36jIu8oPR1Z4cguMuHxUXA"
+    },
+    {
+      "album": {
         "name": "Taxi driver",
         "url": "https://open.spotify.com/album/1JBnoKEtIT5Fc3gJbsiZ5c"
       },
@@ -6434,6 +6452,24 @@
       "duration_ms": 215400,
       "name": "your room",
       "url": "https://open.spotify.com/track/1SQyaGfArVFSknUxwXzn80"
+    },
+    {
+      "album": {
+        "name": "Your Song On The Radio",
+        "url": "https://open.spotify.com/album/03Epz45tqENNY3BS4uP1V3"
+      },
+      "artists": [
+        {
+          "name": "Pictured Resort",
+          "url": "https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181040,
+      "name": "Your Song On The Radio",
+      "url": "https://open.spotify.com/track/1IQshfYUQE7H2z00aRMTqE"
     },
     {
       "album": {

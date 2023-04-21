@@ -4,7 +4,7 @@
 
 > Trending dance hits in India\. Cover: Deepika Padukone & Shahrukh Khan
 
-193 songs - 10 hr 11 min
+194 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Dillagi](https://open.spotify.com/track/3kA53abqN88SJ06rXMd3np) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Dillagi](https://open.spotify.com/album/6XpGHTIMmOITEcwG5z86NR) | 1:24 | 2023-02-17 |  |
 | [DRXGS](https://open.spotify.com/track/0HWJbGrwVbmXWelYMDJtid) | [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh), [Sara Fajira](https://open.spotify.com/artist/5YwqDzUzArjMlfxI6sQRgP) | [DRXGS](https://open.spotify.com/album/2hpy6JvNQTxNTbysJTRoPU) | 2:52 | 2021-11-26 | 2022-05-19 |
 | [Echo \(with KSHMR\)](https://open.spotify.com/track/5sbkFKdxVQ2FgEjKMvrHAL) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Echo \(with KSHMR\)](https://open.spotify.com/album/4Pqc9IVg6YRJPKakVOuZ2R) | 3:12 | 2022-02-01 | 2022-05-19 |
-| [Ek Meri Akh Kashni Trap Mix](https://open.spotify.com/track/3NGH0wmZ0pT3Z1LCPOWWtt) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Dixit Seth](https://open.spotify.com/artist/2vKDhoyeBijAcWJzSiOny4) | [Punjabi Retro Trap Mix](https://open.spotify.com/album/6qeYUrQzY8NZJlAFBKaa1v) | 1:45 | 2022-09-16 |  |
+| [Ek Meri Akh Kashni \(Trap Mix\)](https://open.spotify.com/track/35n9OJm9vnqpFQ6PjuMoxV) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Dixit Seth](https://open.spotify.com/artist/2vKDhoyeBijAcWJzSiOny4) | [Ek Meri Akh Kashni \- The Versions](https://open.spotify.com/album/5et8tafg4IcYJOF59O06nE) | 1:45 | 2023-03-14 |  |
+| [Ek Meri Akh Kashni Trap Mix](https://open.spotify.com/track/3NGH0wmZ0pT3Z1LCPOWWtt) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC), [Dixit Seth](https://open.spotify.com/artist/2vKDhoyeBijAcWJzSiOny4) | [Punjabi Retro Trap Mix](https://open.spotify.com/album/6qeYUrQzY8NZJlAFBKaa1v) | 1:45 | 2022-09-16 | 2023-04-21 |
 | [Enjoy Enjaami \- Spotify Singles \(with Dhee feat\. Arivu & Santhosh Narayanan\)](https://open.spotify.com/track/3z5ITnx50sxmTospLAcM03) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Enjoy Enjaami \- Spotify Singles \(with Dhee feat\. Arivu & Santhosh Narayanan\)](https://open.spotify.com/album/340wvzkkhWbH7wllc3UDLM) | 2:47 | 2021-11-26 | 2023-02-18 |
 | [Excuses](https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Excuses](https://open.spotify.com/album/3GkXRRRkV3rfgwG1wJset9) | 2:56 | 2022-05-18 |  |
 | [Feel It Again](https://open.spotify.com/track/67Oqmxf4EUPXHfMtvXGT1g) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep), [Svidden](https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG) | [Feel It Again](https://open.spotify.com/album/1UxTHYfvEcgI4VTBzfjYMc) | 3:07 | 2021-11-26 | 2022-05-19 |

@@ -1,13 +1,33 @@
 {
   "description": "songs that break bones",
-  "num_followers": 193919,
+  "num_followers": 194057,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTkyOTExMCwwMDAwMDAwMGRlZTRkM2Q3MTQ4YmIyNGQwMTQ2NGQ2NDI2MGNkNTM1",
+  "snapshot_id": "MTY4MjAxNzA1MiwwMDAwMDAwMDliMzg2ZTdhNzQ2YzQzMTIwMzRmNjhmM2RjOTM4YWNk",
   "tracks": [
+    {
+      "added_at": "2023-04-20 18:57:32",
+      "album": {
+        "name": "revenge",
+        "url": "https://open.spotify.com/album/5IS1yIRaMXCLq4tN3yTzTK"
+      },
+      "artists": [
+        {
+          "name": "Godly the Ruler",
+          "url": "https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp"
+        },
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        }
+      ],
+      "duration_ms": 139941,
+      "name": "revenge",
+      "url": "https://open.spotify.com/track/1Mq8BdG6aNUqZnDe5Ca4e1"
+    },
     {
       "added_at": "2023-04-19 18:31:50",
       "album": {

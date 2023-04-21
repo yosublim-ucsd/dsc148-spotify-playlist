@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Joshwa
 
-1,008 songs - 2 day 11 hr 34 min
+1,009 songs - 2 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Chupala](https://open.spotify.com/track/260UqjOU5GBsipeS4KtiFf) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Chupala EP](https://open.spotify.com/album/0EpIPIlJSmceNqdT8bufsv) | 2:50 | 2023-02-24 | 2023-04-09 |
 | [Clap](https://open.spotify.com/track/6OXCzxfoAYvvMPSSu0JdHB) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w) | [Clap](https://open.spotify.com/album/406EgxwjS585YgkObvGLgk) | 2:15 | 2022-08-05 | 2022-10-29 |
 | [Climax](https://open.spotify.com/track/5kV4UK6QYYOvBDe3nH0Djs) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Climax](https://open.spotify.com/album/75F1ELRXCrRGAPwavt9PNC) | 3:18 | 2022-05-20 | 2022-09-10 |
+| [Close My Eyes](https://open.spotify.com/track/35hAnNUTIqNWCawcWOTcne) | [Zookëper](https://open.spotify.com/artist/2XvV82x6Qs0W3GBTkBSjPI), [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC) | [Close My Eyes](https://open.spotify.com/album/4ff3YNNH7NtW1MGTL1ukji) | 3:37 | 2023-04-07 |  |
 | [Close To Me](https://open.spotify.com/track/2b1WYx8VpODBylDvI1AT3T) | [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Close To Me](https://open.spotify.com/album/1grSHALqCq4HaSe7N0HW0C) | 3:25 | 2023-02-03 | 2023-02-18 |
 | [Closure](https://open.spotify.com/track/4Ndpfmb5C6LTYJT9qOeOV1) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3), [Modern Lover](https://open.spotify.com/artist/04mRnX3dfLtv3ZT9kPay35) | [Closure](https://open.spotify.com/album/4bybBsCcJpOWZ9b3NlZNBu) | 3:24 | 2022-10-07 | 2023-01-28 |
 | [Cloud 9](https://open.spotify.com/track/5ekbROvx6LuyF3nxchudHO) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Cloud 9](https://open.spotify.com/album/6sGcAgeoGQnbSaiHo77leq) | 3:02 | 2023-01-27 | 2023-04-09 |
@@ -440,7 +441,7 @@
 | [Jungle](https://open.spotify.com/track/7qUKunNI8Gvfn6uM2EOhLE) | [Rob Black](https://open.spotify.com/artist/6mVOQan1tOCXwFuyrAffOK) | [Jungle](https://open.spotify.com/album/26jD9l49XNSn8rBbpDuOsT) | 2:55 | 2021-11-26 | 2022-06-04 |
 | [Junglist](https://open.spotify.com/track/40E2w7AGNUFx4roieo6ekh) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH) | [Junglist](https://open.spotify.com/album/7bk9B0wJbhPD3eCrPclPxB) | 3:30 | 2023-03-17 | 2023-04-20 |
 | [Just Feels Tight](https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Just Feels Tight](https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS) | 3:17 | 2021-11-26 | 2022-01-06 |
-| [Kanpai](https://open.spotify.com/track/44UxWRfHk1fnB9IaaTwesy) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx) | [Kanpai](https://open.spotify.com/album/0cnohJmdsFgCYmjgCN8ywB) | 2:22 | 2023-02-17 |  |
+| [Kanpai](https://open.spotify.com/track/44UxWRfHk1fnB9IaaTwesy) | [Steff da Campo](https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx) | [Kanpai](https://open.spotify.com/album/0cnohJmdsFgCYmjgCN8ywB) | 2:22 | 2023-02-17 | 2023-04-21 |
 | [Kebali](https://open.spotify.com/track/7jBXtUxifBXcBZmK1hV0ap) | [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Sunnery James & Ryan Marciano present: The Tribe Vol\. Three](https://open.spotify.com/album/2VYiuRSAWChwOTf8R8kzDp) | 3:36 | 2021-12-10 | 2022-04-23 |
 | [Keep An Eye](https://open.spotify.com/track/1eeMkl1riLTme891ShjpiI) | [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB) | [Keep An Eye](https://open.spotify.com/album/3bkvIPn6rp9fmoHJpiAkOs) | 4:05 | 2022-05-13 | 2022-06-11 |
 | [Keep It Goin](https://open.spotify.com/track/3LvKz6clKRSGm2hfLOVixK) | [SQWAD](https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI), [Gold Lemonade](https://open.spotify.com/artist/7FRrxvFEPbNCEJt0E7O7UD) | [Your Soul EP](https://open.spotify.com/album/7sTirjHMUMYwWivQKkEQWT) | 4:22 | 2022-04-08 | 2022-06-11 |

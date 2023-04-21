@@ -1,12 +1,12 @@
 {
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: slipmami, Ebony, LARINHX",
-  "num_followers": 33386,
+  "num_followers": 33487,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ0MTI2MCwwMDAwMDAwMDc4NzQxZDVhZjNjOTliMGJlM2JmNWE3MjJhM2Q2Yjk0",
+  "snapshot_id": "MTY4MTQ0MTI2MCwwMDAwMDAwMDAxZmFjY2Q2ZWQxYjZmNGZlZDA0NDI4ZmZiYmY5ZTA1",
   "tracks": [
     {
       "added_at": "2023-04-14 03:01:00",
@@ -267,26 +267,6 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "100 Mili",
-        "url": "https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "100 Mili",
-      "url": "https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
         "name": "Combate",
         "url": "https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 190850,
       "name": "Combate",
       "url": "https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
+        "name": "100 Mili",
+        "url": "https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "100 Mili",
+      "url": "https://open.spotify.com/track/4eolUWC5VizUx1YMHMeagu"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -551,22 +551,26 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Cara, Hoje \u00c9 Meu Anivers\u00e1rio",
-        "url": "https://open.spotify.com/album/29B30ocnhpIQndlp0UtEtD"
+        "name": "Pimenta",
+        "url": "https://open.spotify.com/album/4uNMPFLGmrvLhMWGgT8fT7"
       },
       "artists": [
         {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         },
         {
-          "name": "Su Madre Mandrake",
-          "url": "https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i"
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 121607,
-      "name": "Cara, Hoje \u00c9 Meu Anivers\u00e1rio",
-      "url": "https://open.spotify.com/track/2DpgbrHd6RCrmFA6oLInv1"
+      "duration_ms": 164839,
+      "name": "Pimenta",
+      "url": "https://open.spotify.com/track/12LpEgxl7XLiuvv0PXj1DT"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -615,26 +619,22 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Pimenta",
-        "url": "https://open.spotify.com/album/4uNMPFLGmrvLhMWGgT8fT7"
+        "name": "Cara, Hoje \u00c9 Meu Anivers\u00e1rio",
+        "url": "https://open.spotify.com/album/29B30ocnhpIQndlp0UtEtD"
       },
       "artists": [
         {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
         },
         {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+          "name": "Su Madre Mandrake",
+          "url": "https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i"
         }
       ],
-      "duration_ms": 164839,
-      "name": "Pimenta",
-      "url": "https://open.spotify.com/track/12LpEgxl7XLiuvv0PXj1DT"
+      "duration_ms": 121607,
+      "name": "Cara, Hoje \u00c9 Meu Anivers\u00e1rio",
+      "url": "https://open.spotify.com/track/2DpgbrHd6RCrmFA6oLInv1"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -843,26 +843,22 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Betty Boop",
-        "url": "https://open.spotify.com/album/3Mp7oY9PZbzT8UEQjDUlBK"
+        "name": "Drip do Gaza",
+        "url": "https://open.spotify.com/album/416rvMJm3dpl5L6XB0L6q9"
       },
       "artists": [
         {
-          "name": "MC Taya",
-          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
+          "name": "Alinega",
+          "url": "https://open.spotify.com/artist/5cuq4MQJ4HGk0JeNrXkpl6"
         },
         {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "HERvolution",
-          "url": "https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt"
+          "name": "Calado Beats",
+          "url": "https://open.spotify.com/artist/0hOreiY25L5j8Li8HtBBSN"
         }
       ],
-      "duration_ms": 110421,
-      "name": "Betty Boop",
-      "url": "https://open.spotify.com/track/46gDGTjG68eRcC9S0EpILt"
+      "duration_ms": 122000,
+      "name": "Drip do Gaza",
+      "url": "https://open.spotify.com/track/697vMFx7zhkhj5uQ8asedp"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -887,22 +883,26 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Drip do Gaza",
-        "url": "https://open.spotify.com/album/416rvMJm3dpl5L6XB0L6q9"
+        "name": "Betty Boop",
+        "url": "https://open.spotify.com/album/3Mp7oY9PZbzT8UEQjDUlBK"
       },
       "artists": [
         {
-          "name": "Alinega",
-          "url": "https://open.spotify.com/artist/5cuq4MQJ4HGk0JeNrXkpl6"
+          "name": "MC Taya",
+          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
         },
         {
-          "name": "Calado Beats",
-          "url": "https://open.spotify.com/artist/0hOreiY25L5j8Li8HtBBSN"
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "HERvolution",
+          "url": "https://open.spotify.com/artist/0CWHe4ko5bXSeafBHMeFvt"
         }
       ],
-      "duration_ms": 122000,
-      "name": "Drip do Gaza",
-      "url": "https://open.spotify.com/track/697vMFx7zhkhj5uQ8asedp"
+      "duration_ms": 110421,
+      "name": "Betty Boop",
+      "url": "https://open.spotify.com/track/46gDGTjG68eRcC9S0EpILt"
     },
     {
       "added_at": "2023-04-14 03:01:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-04-14 03:01:00",
       "album": {
-        "name": "Preta Patr\u00edcia",
-        "url": "https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX"
-      },
-      "artists": [
-        {
-          "name": "MC Taya",
-          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
-        }
-      ],
-      "duration_ms": 254756,
-      "name": "Preta Patr\u00edcia",
-      "url": "https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6"
-    },
-    {
-      "added_at": "2023-04-14 03:01:00",
-      "album": {
         "name": "A Cuca",
         "url": "https://open.spotify.com/album/29QITg4lHccmO94R4qX5xK"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 198000,
       "name": "A Cuca",
       "url": "https://open.spotify.com/track/6kdqevDkFJvZeIwYCJZxLh"
+    },
+    {
+      "added_at": "2023-04-14 03:01:00",
+      "album": {
+        "name": "Preta Patr\u00edcia",
+        "url": "https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX"
+      },
+      "artists": [
+        {
+          "name": "MC Taya",
+          "url": "https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i"
+        }
+      ],
+      "duration_ms": 254756,
+      "name": "Preta Patr\u00edcia",
+      "url": "https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6"
     },
     {
       "added_at": "2023-04-14 03:01:00",

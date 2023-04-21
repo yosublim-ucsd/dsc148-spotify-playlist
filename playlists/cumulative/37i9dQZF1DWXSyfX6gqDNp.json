@@ -3524,7 +3524,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 203348,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/5w6hGJhvWy9Fth9eldO0rT"
@@ -3794,7 +3794,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 177093,
       "name": "Turn Down the Lights",
       "url": "https://open.spotify.com/track/0ogRwGa7KtCUBF2PKJKO3F"
@@ -4250,6 +4250,24 @@
       "duration_ms": 238354,
       "name": "You're My Nemo",
       "url": "https://open.spotify.com/track/20rIiJfktbLUX82tPwVBq6"
+    },
+    {
+      "album": {
+        "name": "Your Hustle",
+        "url": "https://open.spotify.com/album/7j4aTfQDdA5G8ah7d6gvXF"
+      },
+      "artists": [
+        {
+          "name": "The Lyon Hearts",
+          "url": "https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204954,
+      "name": "Your Hustle",
+      "url": "https://open.spotify.com/track/7iCNaTqbUs3LsTqdYLPOvz"
     },
     {
       "album": {

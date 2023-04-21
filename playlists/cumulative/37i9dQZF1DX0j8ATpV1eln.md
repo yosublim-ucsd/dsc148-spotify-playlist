@@ -4,7 +4,7 @@
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-135 songs - 8 hr 56 min
+136 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,8 +31,9 @@
 | [Hands](https://open.spotify.com/track/2PKGYVQikLr2uxVZCVVfr6) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Entertainer](https://open.spotify.com/album/4Xe4P2qe5ob7xiyl0apWFm) | 3:49 | 2022-07-26 |  |
 | [Hands](https://open.spotify.com/track/5FZajvwwwvNWlir4tRGJm2) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [ウルトラマンR/B オープニング主題歌 Hands](https://open.spotify.com/album/3buYEfufCsJ2ABhZ2zpddB) | 3:49 | 2022-04-26 | 2022-07-29 |
 | [Hero License \- High Five&S\-quad](https://open.spotify.com/track/6y80BJ0b4QVzXuZyWecqvv) | [PRELUDERS](https://open.spotify.com/artist/08GdvK322sPgeFx1xMDQNU) | [Hero License \(High Five&S\-quad\)](https://open.spotify.com/album/226fsZ9TvvCKj7zeoXylJk) | 4:15 | 2022-07-26 |  |
+| [HOLLOW HUNGER](https://open.spotify.com/track/77tBI3JCCnvJYLAH6j6Gy1) | [caleb982](https://open.spotify.com/artist/0hjUXdnmj0C9gVbmTvtsnm) | [HOLLOW HUNGER](https://open.spotify.com/album/450SRXXak0hHsMtwazOi0q) | 3:43 | 2023-04-06 |  |
 | [HOLLOW HUNGER](https://open.spotify.com/track/1lW6lfQZszjBQVN5rDLGKj) | [fantasy](https://open.spotify.com/artist/3jcjyxkrisZ1dxNuQyMFyO) | [HOLLOW HUNGER](https://open.spotify.com/album/2QNbOtPZP2TvtZYBzVIbW2) | 3:43 | 2022-08-16 | 2022-09-02 |
-| [HOLLOW HUNGER](https://open.spotify.com/track/355nQhlJ37CswXP54GZAz9) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPEING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/1iR5yhnaLHIIUEbXq5Zcxh) | 3:43 | 2022-07-26 |  |
+| [HOLLOW HUNGER](https://open.spotify.com/track/355nQhlJ37CswXP54GZAz9) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPEING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/1iR5yhnaLHIIUEbXq5Zcxh) | 3:43 | 2022-07-26 | 2023-04-21 |
 | [HOLLOW HUNGER](https://open.spotify.com/track/3RNSTLShlhmMXtixgofPlX) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [TVアニメ「オーバーロードIV」オープニングテーマ「HOLLOW HUNGER」](https://open.spotify.com/album/5mUZKHJHNfGZmAx901Dqff) | 3:43 | 2022-07-26 | 2022-07-29 |
 | [Hollow Hunger](https://open.spotify.com/track/49fWwmxDQg6b8itrzcCy9Z) | [Rem](https://open.spotify.com/artist/3X70Znu4TytvUxJANvWDS7), [revain1337](https://open.spotify.com/artist/69eeA1RbxMvqyfzuGGmneH) | [Hollow Hunger](https://open.spotify.com/album/2LCPSxuiBiDrg27Dfdkz8S) | 3:36 | 2022-08-16 | 2022-10-30 |
 | [HOLLOW HUNGER](https://open.spotify.com/track/7uNsCBO9bzMEVnfWEjSQ50) | [Wiara](https://open.spotify.com/artist/04CkHYISvS6wvA1B5h3EWK), [Batusyex](https://open.spotify.com/artist/6lG7ZvNf1ZOqZOVZLSEvKE), [mârshall](https://open.spotify.com/artist/4wQG17mDQkWTiqumHDitMo) | [HOLLOW HUNGER](https://open.spotify.com/album/51qgmpr7vw54IAZGeneM1W) | 3:43 | 2022-08-16 | 2023-02-02 |

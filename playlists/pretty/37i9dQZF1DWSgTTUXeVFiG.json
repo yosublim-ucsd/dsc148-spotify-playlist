@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 15880,
+  "num_followers": 15927,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDM2Y2M1N2Q3YjYxM2VmNGI0ZDVhMGQ4ZjA5MzllNTIw",
+  "snapshot_id": "MTY0NzU3OTYwMCwwMDAwMDAwMDYyNDhjZmQxMjAzNzkyNTI3ZmM4MWIyOTEzZTI4ODVi",
   "tracks": [
     {
       "added_at": "2022-03-18 05:00:00",
@@ -327,18 +327,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Lo Mejor de Alberto Barros, Vol. 2",
-        "url": "https://open.spotify.com/album/6VdyZL32AcIh6cpeZNJOuQ"
+        "name": "Mickey Taveras (Live)",
+        "url": "https://open.spotify.com/album/7BaIfVeFvc4pcyYvO305CC"
       },
       "artists": [
         {
-          "name": "Alberto Barros",
-          "url": "https://open.spotify.com/artist/33ZuRLa8CHXZVPJXdQCcul"
+          "name": "Mickey Taveras",
+          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
         }
       ],
-      "duration_ms": 294130,
-      "name": "La Cita",
-      "url": "https://open.spotify.com/track/6OEyQCvf7ZJjMTgEfdqN3C"
+      "duration_ms": 296683,
+      "name": "A Pesar del Tiempo - Live",
+      "url": "https://open.spotify.com/track/5CQ5h3Jlt5cKvlKsCOuSgR"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -363,18 +363,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Mickey Taveras (Live)",
-        "url": "https://open.spotify.com/album/7BaIfVeFvc4pcyYvO305CC"
+        "name": "Lo Mejor de Alberto Barros, Vol. 2",
+        "url": "https://open.spotify.com/album/6VdyZL32AcIh6cpeZNJOuQ"
       },
       "artists": [
         {
-          "name": "Mickey Taveras",
-          "url": "https://open.spotify.com/artist/1iVpMZKqpnZWfCXO2vIozm"
+          "name": "Alberto Barros",
+          "url": "https://open.spotify.com/artist/33ZuRLa8CHXZVPJXdQCcul"
         }
       ],
-      "duration_ms": 296683,
-      "name": "A Pesar del Tiempo - Live",
-      "url": "https://open.spotify.com/track/5CQ5h3Jlt5cKvlKsCOuSgR"
+      "duration_ms": 294130,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/6OEyQCvf7ZJjMTgEfdqN3C"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -723,22 +723,18 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
-        "name": "Todos Vuelven Live, Vol. 2",
-        "url": "https://open.spotify.com/album/5vuelvutC4GRdYdO4Ka3Bq"
+        "name": "Sergio George Presents Salsa Giants (Live)",
+        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
       "artists": [
         {
-          "name": "Ruben Blades",
-          "url": "https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195"
-        },
-        {
-          "name": "Seis del Solar",
-          "url": "https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO"
+          "name": "Willy Chirino",
+          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
         }
       ],
-      "duration_ms": 489853,
-      "name": "Pedro Navaja - Live",
-      "url": "https://open.spotify.com/track/7lStMGLa4YPstX9AedQSl2"
+      "duration_ms": 352480,
+      "name": "Medias Negras - Live Version",
+      "url": "https://open.spotify.com/track/51QsdN4xBmkLhtqNi0J40l"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -807,6 +803,26 @@
     {
       "added_at": "2022-03-18 05:00:00",
       "album": {
+        "name": "Todos Vuelven Live, Vol. 2",
+        "url": "https://open.spotify.com/album/5vuelvutC4GRdYdO4Ka3Bq"
+      },
+      "artists": [
+        {
+          "name": "Ruben Blades",
+          "url": "https://open.spotify.com/artist/7nmSWqIN08F0TMpZWVx195"
+        },
+        {
+          "name": "Seis del Solar",
+          "url": "https://open.spotify.com/artist/2KcCnCAiL5Wrikulvf6HyO"
+        }
+      ],
+      "duration_ms": 489853,
+      "name": "Pedro Navaja - Live",
+      "url": "https://open.spotify.com/track/7lStMGLa4YPstX9AedQSl2"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
         "name": "Ismael Miranda (En Vivo)",
         "url": "https://open.spotify.com/album/40DjMiB2wSxUTCuXiX1Egk"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 330426,
       "name": "Se\u00f1or Sereno - En Vivo",
       "url": "https://open.spotify.com/track/5sGbO1yZxuXVGT6B7c7XP4"
-    },
-    {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Sergio George Presents Salsa Giants (Live)",
-        "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
-      },
-      "artists": [
-        {
-          "name": "Willy Chirino",
-          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
-        }
-      ],
-      "duration_ms": 352480,
-      "name": "Medias Negras - Live Version",
-      "url": "https://open.spotify.com/track/51QsdN4xBmkLhtqNi0J40l"
     },
     {
       "added_at": "2022-03-18 05:00:00",

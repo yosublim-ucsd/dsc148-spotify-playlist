@@ -1,13 +1,37 @@
 {
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover: Limoblaze",
-  "num_followers": 3201,
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover: TBabz",
+  "num_followers": 3255,
   "original_name": "Youth Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQ5MDYzOCwwMDAwMDAwMDAyNWNjOWQ5YWI5ZDM4NWYwOWRlMWNjMDk1Y2EwYTU3",
+  "snapshot_id": "MTY4MjAzNTI2MCwwMDAwMDAwMDIzNjZmMGZiYTAzZWUwYzU3MDE5MDc5OWEyYjQyNjcz",
   "tracks": [
+    {
+      "added_at": "2023-04-21 00:01:00",
+      "album": {
+        "name": "Take It",
+        "url": "https://open.spotify.com/album/1yDiC9e4VJrVT8BA2AaGnZ"
+      },
+      "artists": [
+        {
+          "name": "O'Tobi",
+          "url": "https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        },
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        }
+      ],
+      "duration_ms": 155400,
+      "name": "Take It",
+      "url": "https://open.spotify.com/track/7uJcY8am7ZHYlBRjNmtwjl"
+    },
     {
       "added_at": "2023-04-14 16:43:58",
       "album": {
@@ -31,38 +55,46 @@
     {
       "added_at": "2023-04-14 16:43:58",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/6ogAwvxSzjwnaolFyQBpAf"
+        "name": "THIS YEAR (Blessings)",
+        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
       },
       "artists": [
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         },
         {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
         }
       ],
-      "duration_ms": 174146,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid"
+      "duration_ms": 126206,
+      "name": "THIS YEAR (Blessings)",
+      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
     },
     {
-      "added_at": "2023-04-14 16:43:58",
+      "added_at": "2023-04-21 00:01:00",
       "album": {
-        "name": "I Will Sing (Refreshed)",
-        "url": "https://open.spotify.com/album/5MtpR8Yf1nlAwjGgu8gqKD"
+        "name": "Hallelujah (Me Re Jirie) [feat. Godwin Adams & Justina]",
+        "url": "https://open.spotify.com/album/3TmMKKwbfKRBqXBYJ2IKMA"
       },
       "artists": [
         {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+          "name": "Onos",
+          "url": "https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0"
+        },
+        {
+          "name": "Godwin Adams",
+          "url": "https://open.spotify.com/artist/74p8vyUHFNVCV240Gam4O6"
+        },
+        {
+          "name": "Justina",
+          "url": "https://open.spotify.com/artist/1WaCguNeKSENLLlSd0vSVR"
         }
       ],
-      "duration_ms": 350847,
-      "name": "I Will Sing (Refreshed)",
-      "url": "https://open.spotify.com/track/76sNlwv6Jt2mTJDAzRfhxj"
+      "duration_ms": 628223,
+      "name": "Hallelujah (Me Re Jirie) [feat. Godwin Adams & Justina]",
+      "url": "https://open.spotify.com/track/4NkTMo4kZK5nM42y3CBaNE"
     },
     {
       "added_at": "2023-04-14 16:43:58",
@@ -83,42 +115,6 @@
       "duration_ms": 197795,
       "name": "Hosanna",
       "url": "https://open.spotify.com/track/4w6r299QMnin39PgRFRYXk"
-    },
-    {
-      "added_at": "2023-04-14 16:43:58",
-      "album": {
-        "name": "Greater",
-        "url": "https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "Imela",
-      "url": "https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj"
-    },
-    {
-      "added_at": "2023-04-14 16:43:58",
-      "album": {
-        "name": "Energy (Afropop Gospel Vol 1)",
-        "url": "https://open.spotify.com/album/2FSJvM11UlOJePeYvXmKA2"
-      },
-      "artists": [
-        {
-          "name": "Greatman Takit",
-          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
-        }
-      ],
-      "duration_ms": 159947,
-      "name": "Jowo",
-      "url": "https://open.spotify.com/track/05ZCmG4Y7ELlzI4ncSKBKJ"
     },
     {
       "added_at": "2023-04-14 16:43:58",
@@ -147,6 +143,198 @@
     {
       "added_at": "2023-04-14 16:43:58",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/6ogAwvxSzjwnaolFyQBpAf"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid"
+    },
+    {
+      "added_at": "2023-04-21 00:01:00",
+      "album": {
+        "name": "Jesus (I'm Yours)",
+        "url": "https://open.spotify.com/album/1MkXYkXFkGcOsGMZtyDSiY"
+      },
+      "artists": [
+        {
+          "name": "Hills Music",
+          "url": "https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE"
+        },
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        },
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        }
+      ],
+      "duration_ms": 135800,
+      "name": "Jesus (I'm Yours)",
+      "url": "https://open.spotify.com/track/5IpM5VBsjHyHaaGN4vxsqQ"
+    },
+    {
+      "added_at": "2023-04-14 16:43:58",
+      "album": {
+        "name": "Greater",
+        "url": "https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Imela",
+      "url": "https://open.spotify.com/track/6zhvRncoF78h7c3D5ckuPj"
+    },
+    {
+      "added_at": "2023-04-14 16:43:58",
+      "album": {
+        "name": "Put It On God",
+        "url": "https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+        }
+      ],
+      "duration_ms": 157189,
+      "name": "Put it On God",
+      "url": "https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV"
+    },
+    {
+      "added_at": "2023-04-21 00:01:00",
+      "album": {
+        "name": "The Pen Of A Ready Writer",
+        "url": "https://open.spotify.com/album/51yOhvYNPRcZWyXOY8pOhr"
+      },
+      "artists": [
+        {
+          "name": "Louis Pascal",
+          "url": "https://open.spotify.com/artist/2XftZv39x5JTEBmKZFDuvg"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 144169,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/4h2jfMLM38ub5BFyZcmlvn"
+    },
+    {
+      "added_at": "2023-04-14 16:43:58",
+      "album": {
+        "name": "Cock & Bull",
+        "url": "https://open.spotify.com/album/6Uogs97Nbk2Ed4UtBJYQdi"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 602290,
+      "name": "Cock & Bull",
+      "url": "https://open.spotify.com/track/3ZRgwGkJsp5LKVUopyVfUg"
+    },
+    {
+      "added_at": "2023-04-14 16:43:58",
+      "album": {
+        "name": "I Will Sing (Refreshed)",
+        "url": "https://open.spotify.com/album/5MtpR8Yf1nlAwjGgu8gqKD"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 350847,
+      "name": "I Will Sing (Refreshed)",
+      "url": "https://open.spotify.com/track/76sNlwv6Jt2mTJDAzRfhxj"
+    },
+    {
+      "added_at": "2023-04-14 16:43:58",
+      "album": {
+        "name": "Energy (Afropop Gospel Vol 1)",
+        "url": "https://open.spotify.com/album/2FSJvM11UlOJePeYvXmKA2"
+      },
+      "artists": [
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "duration_ms": 159947,
+      "name": "Jowo",
+      "url": "https://open.spotify.com/track/05ZCmG4Y7ELlzI4ncSKBKJ"
+    },
+    {
+      "added_at": "2023-04-21 00:01:00",
+      "album": {
+        "name": "His Name Is Yahweh",
+        "url": "https://open.spotify.com/album/308FQqS15fW2nFaZS6h5SE"
+      },
+      "artists": [
+        {
+          "name": "Holy drill",
+          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+        }
+      ],
+      "duration_ms": 218094,
+      "name": "His Name Is Yahweh",
+      "url": "https://open.spotify.com/track/5OcLmYtbiMRtpnUDyvw6xS"
+    },
+    {
+      "added_at": "2023-04-14 16:43:58",
+      "album": {
+        "name": "Morning Devotion",
+        "url": "https://open.spotify.com/album/05u6kpaR8cFKzktUJxk3ds"
+      },
+      "artists": [
+        {
+          "name": "Street Church Music",
+          "url": "https://open.spotify.com/artist/0IepUFTdh1Oc3P2VgShszv"
+        },
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        },
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        }
+      ],
+      "duration_ms": 127988,
+      "name": "Morning Devotion",
+      "url": "https://open.spotify.com/track/5AZ8G1XQM0I20LS61y44Qs"
+    },
+    {
+      "added_at": "2023-04-14 16:43:58",
+      "album": {
         "name": "Melody",
         "url": "https://open.spotify.com/album/5ohhAarbKDSjtPZO54IbP7"
       },
@@ -169,6 +357,26 @@
       "url": "https://open.spotify.com/track/0QDzvCDTphXN4P0waDbWRS"
     },
     {
+      "added_at": "2023-04-21 00:01:00",
+      "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/1qhTnZDA67hssvx5HQ2O77"
+      },
+      "artists": [
+        {
+          "name": "M\u00fcn The Shinobi",
+          "url": "https://open.spotify.com/artist/3C0LlGBwMGs0ZjAtxUlJ6B"
+        },
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        }
+      ],
+      "duration_ms": 174159,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/0bKzerzZVCgaS2Bx0WDabA"
+    },
+    {
       "added_at": "2023-04-14 16:43:58",
       "album": {
         "name": "ThisIsPrinx",
@@ -183,42 +391,6 @@
       "duration_ms": 151836,
       "name": "Kpeme",
       "url": "https://open.spotify.com/track/7A2nBqZ1wxJX49n0TYrwtq"
-    },
-    {
-      "added_at": "2023-04-14 16:43:58",
-      "album": {
-        "name": "THIS YEAR (Blessings)",
-        "url": "https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Ehis 'D' Greatest",
-          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
-        }
-      ],
-      "duration_ms": 126206,
-      "name": "THIS YEAR (Blessings)",
-      "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
-    },
-    {
-      "added_at": "2023-04-14 16:43:58",
-      "album": {
-        "name": "Cock & Bull",
-        "url": "https://open.spotify.com/album/6Uogs97Nbk2Ed4UtBJYQdi"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 602290,
-      "name": "Cock & Bull",
-      "url": "https://open.spotify.com/track/3ZRgwGkJsp5LKVUopyVfUg"
     },
     {
       "added_at": "2023-04-14 16:43:58",
@@ -295,6 +467,22 @@
     {
       "added_at": "2023-04-14 16:43:58",
       "album": {
+        "name": "Get Life",
+        "url": "https://open.spotify.com/album/4ze6VirKRBFHmYcBUoeE0W"
+      },
+      "artists": [
+        {
+          "name": "Rehmahz",
+          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
+        }
+      ],
+      "duration_ms": 156604,
+      "name": "Get Life",
+      "url": "https://open.spotify.com/track/1IebogScf6Y1hidP6VMYoi"
+    },
+    {
+      "added_at": "2023-04-14 16:43:58",
+      "album": {
         "name": "LEAVE AM",
         "url": "https://open.spotify.com/album/6EltsuO2yImenIFxamWSNb"
       },
@@ -323,6 +511,22 @@
       "duration_ms": 265769,
       "name": "LEAVE AM",
       "url": "https://open.spotify.com/track/5qD6spLX6xyPoGaWhQ7aBV"
+    },
+    {
+      "added_at": "2023-04-14 16:43:58",
+      "album": {
+        "name": "God No Go Shame Us",
+        "url": "https://open.spotify.com/album/5hjyGoHHqyLyliSIGJrpTo"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 149549,
+      "name": "God No Go Shame Us",
+      "url": "https://open.spotify.com/track/6oHUaQylY7C9vpLDrLR32C"
     },
     {
       "added_at": "2023-04-14 16:43:58",
@@ -663,30 +867,6 @@
     {
       "added_at": "2023-04-14 16:43:58",
       "album": {
-        "name": "FOLLOW",
-        "url": "https://open.spotify.com/album/1e87ScTOtmWOynxRrc8sjL"
-      },
-      "artists": [
-        {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
-        },
-        {
-          "name": "Maikon West",
-          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
-        },
-        {
-          "name": "Spillz Ochai",
-          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
-        }
-      ],
-      "duration_ms": 223032,
-      "name": "FOLLOW",
-      "url": "https://open.spotify.com/track/5iP9wtauchW9tyyBUQfNQg"
-    },
-    {
-      "added_at": "2023-04-14 16:43:58",
-      "album": {
         "name": "Sword",
         "url": "https://open.spotify.com/album/5d2QLLemHkPVzuAUKJan4P"
       },
@@ -703,30 +883,6 @@
       "duration_ms": 172156,
       "name": "Sword",
       "url": "https://open.spotify.com/track/411fOJODnOqnGM84vgo5Xp"
-    },
-    {
-      "added_at": "2023-04-14 16:43:58",
-      "album": {
-        "name": "Morning Devotion",
-        "url": "https://open.spotify.com/album/05u6kpaR8cFKzktUJxk3ds"
-      },
-      "artists": [
-        {
-          "name": "Street Church Music",
-          "url": "https://open.spotify.com/artist/0IepUFTdh1Oc3P2VgShszv"
-        },
-        {
-          "name": "Greatman Takit",
-          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
-        },
-        {
-          "name": "nina shezz",
-          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
-        }
-      ],
-      "duration_ms": 127988,
-      "name": "Morning Devotion",
-      "url": "https://open.spotify.com/track/5AZ8G1XQM0I20LS61y44Qs"
     },
     {
       "added_at": "2023-04-14 16:43:58",
@@ -895,26 +1051,6 @@
     {
       "added_at": "2023-04-14 16:43:58",
       "album": {
-        "name": "Faithful",
-        "url": "https://open.spotify.com/album/6nM7v7Uhd8mnwTOiUZU8Uu"
-      },
-      "artists": [
-        {
-          "name": "Spillz Ochai",
-          "url": "https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q"
-        },
-        {
-          "name": "Giliane",
-          "url": "https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t"
-        }
-      ],
-      "duration_ms": 162618,
-      "name": "Faithful",
-      "url": "https://open.spotify.com/track/22utKBg816BokCNCCmgMiE"
-    },
-    {
-      "added_at": "2023-04-14 16:43:58",
-      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/1sc4DA0c5sY2Pr0EZxX2p6"
       },
@@ -983,42 +1119,6 @@
       "duration_ms": 263458,
       "name": "Dripping Glory - Remix",
       "url": "https://open.spotify.com/track/4dXlq4U4reZ2vPHpNL9HQF"
-    },
-    {
-      "added_at": "2023-04-14 16:43:58",
-      "album": {
-        "name": "For Me",
-        "url": "https://open.spotify.com/album/0wIz13pE8Hw5QY3lKXySae"
-      },
-      "artists": [
-        {
-          "name": "Dj Horphuray",
-          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
-        },
-        {
-          "name": "Naffymar",
-          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
-        }
-      ],
-      "duration_ms": 172680,
-      "name": "For Me",
-      "url": "https://open.spotify.com/track/6lUrx0YCmQQEgUpTlCSvbk"
-    },
-    {
-      "added_at": "2023-04-14 16:43:58",
-      "album": {
-        "name": "Get Life",
-        "url": "https://open.spotify.com/album/4ze6VirKRBFHmYcBUoeE0W"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 156604,
-      "name": "Get Life",
-      "url": "https://open.spotify.com/track/1IebogScf6Y1hidP6VMYoi"
     },
     {
       "added_at": "2023-04-14 16:43:58",
@@ -1159,26 +1259,6 @@
     {
       "added_at": "2023-04-14 16:43:58",
       "album": {
-        "name": "Put It On God",
-        "url": "https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Annatoria",
-          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
-        }
-      ],
-      "duration_ms": 157189,
-      "name": "Put it On God",
-      "url": "https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV"
-    },
-    {
-      "added_at": "2023-04-14 16:43:58",
-      "album": {
         "name": "Mighty",
         "url": "https://open.spotify.com/album/5X5CFxfOZLEdWhd3LrmJsQ"
       },
@@ -1211,50 +1291,6 @@
       "duration_ms": 219847,
       "name": "Your Majesty",
       "url": "https://open.spotify.com/track/03X6MyoC2RWPKlQLF6cAZ9"
-    },
-    {
-      "added_at": "2023-04-14 16:43:58",
-      "album": {
-        "name": "Talking Drums",
-        "url": "https://open.spotify.com/album/5MkiKFAEQn2dtyJfN081du"
-      },
-      "artists": [
-        {
-          "name": "Drakare",
-          "url": "https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be"
-        },
-        {
-          "name": "A Mose",
-          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
-        }
-      ],
-      "duration_ms": 131369,
-      "name": "God Dey My Side",
-      "url": "https://open.spotify.com/track/3hOSKIDn7IMHmZ6931TFxh"
-    },
-    {
-      "added_at": "2023-04-14 16:43:58",
-      "album": {
-        "name": "Cruise Control",
-        "url": "https://open.spotify.com/album/6Jw54f06s0F3jYmZO1mihv"
-      },
-      "artists": [
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        },
-        {
-          "name": "Jenge",
-          "url": "https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT"
-        },
-        {
-          "name": "LAMB CULTURE.",
-          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
-        }
-      ],
-      "duration_ms": 201691,
-      "name": "Cruise Control",
-      "url": "https://open.spotify.com/track/1SllW19Y1RKHN4YJv6y4t8"
     },
     {
       "added_at": "2023-04-14 16:43:58",
@@ -1383,42 +1419,6 @@
     {
       "added_at": "2023-04-14 16:43:58",
       "album": {
-        "name": "Give Him Praise",
-        "url": "https://open.spotify.com/album/4TQq1GaAPtn8nTRGWLiqiy"
-      },
-      "artists": [
-        {
-          "name": "Kofi Dartey",
-          "url": "https://open.spotify.com/artist/2VgS8SW9VgfDQCkYqiasPr"
-        },
-        {
-          "name": "Legacy",
-          "url": "https://open.spotify.com/artist/3yFtG2kdWcqEM5lu6jxGvJ"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Give Him Praise",
-      "url": "https://open.spotify.com/track/4Ikl54y6b8kMlzT1OM0MF0"
-    },
-    {
-      "added_at": "2023-04-14 16:43:58",
-      "album": {
-        "name": "God No Go Shame Us",
-        "url": "https://open.spotify.com/album/5hjyGoHHqyLyliSIGJrpTo"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 149549,
-      "name": "God No Go Shame Us",
-      "url": "https://open.spotify.com/track/6oHUaQylY7C9vpLDrLR32C"
-    },
-    {
-      "added_at": "2023-04-14 16:43:58",
-      "album": {
         "name": "Congratulations",
         "url": "https://open.spotify.com/album/6Y7LaoeSXPsarZXQtD49xk"
       },
@@ -1483,26 +1483,6 @@
       "duration_ms": 225714,
       "name": "Now",
       "url": "https://open.spotify.com/track/7MuaxCreOLw1Gu6rgvQi1S"
-    },
-    {
-      "added_at": "2023-04-14 16:43:58",
-      "album": {
-        "name": "Able",
-        "url": "https://open.spotify.com/album/6KqJjlg8GqLgZwuME7CbR4"
-      },
-      "artists": [
-        {
-          "name": "Agent Snypa",
-          "url": "https://open.spotify.com/artist/5LUpT5RzeYT5aH16GfEzHJ"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 216674,
-      "name": "Able",
-      "url": "https://open.spotify.com/track/4NDtKpWb0IpALyrOdZAeWW"
     },
     {
       "added_at": "2023-04-14 16:43:58",

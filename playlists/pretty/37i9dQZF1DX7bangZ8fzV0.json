@@ -1,28 +1,28 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7?si=2B0znxhWQXSVqpHhurbo6g\">Riaan Benad\u00e9</a> ",
-  "num_followers": 68418,
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE?si=vc-MP2uuTbOtBh19IHWeew\">Arno Jordaan</a> ",
+  "num_followers": 68464,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4MTQyMzE0MCwwMDAwMDAwMDJmMjllMzc4NTk1MjNkMjhkNjViYjNkNDlmMWE2NGRk",
+  "snapshot_id": "MTY4MjAyNzk0MCwwMDAwMDAwMDc5OTkwNzI0YjA4NzE0Y2MzMGYxZjRiMGY2YzVhMDRi",
   "tracks": [
     {
-      "added_at": "2022-10-28 03:41:22",
+      "added_at": "2023-04-20 21:59:00",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
+        "name": "Fairway Lyf",
+        "url": "https://open.spotify.com/album/4gIcGlEcuNiBtT7IcB56DV"
       },
       "artists": [
         {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+          "name": "Arno Jordaan",
+          "url": "https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE"
         }
       ],
-      "duration_ms": 191303,
-      "name": "Toer Om Die Vloer",
-      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
+      "duration_ms": 189803,
+      "name": "Fairway Lyf",
+      "url": "https://open.spotify.com/track/3DLeotilho45LEdwKPYb49"
     },
     {
       "added_at": "2021-04-19 09:32:09",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/181RlW4FYWSzaV9xt8xUPQ"
     },
     {
+      "added_at": "2022-10-28 03:41:22",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 191303,
+      "name": "Toer Om Die Vloer",
+      "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
+    },
+    {
       "added_at": "2023-02-23 21:59:00",
       "album": {
         "name": "Hittegolf",
@@ -55,22 +71,6 @@
       "duration_ms": 220831,
       "name": "Swipe Regs",
       "url": "https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc"
-    },
-    {
-      "added_at": "2022-11-24 21:59:00",
-      "album": {
-        "name": "Impulsief",
-        "url": "https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L"
-      },
-      "artists": [
-        {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
-        }
-      ],
-      "duration_ms": 183317,
-      "name": "Impulsief",
-      "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
     },
     {
       "added_at": "2023-04-06 21:59:00",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/474ACPInPwPBWt1eFwG0fs"
     },
     {
+      "added_at": "2022-11-24 21:59:00",
+      "album": {
+        "name": "Impulsief",
+        "url": "https://open.spotify.com/album/7bLPdsKXCDH8CSCSFgAN5L"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 183317,
+      "name": "Impulsief",
+      "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
+    },
+    {
       "added_at": "2022-10-28 03:41:22",
       "album": {
         "name": "Foto's",
@@ -103,6 +119,26 @@
       "duration_ms": 194890,
       "name": "Foto's",
       "url": "https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J"
+    },
+    {
+      "added_at": "2022-08-25 21:59:00",
+      "album": {
+        "name": "Weer",
+        "url": "https://open.spotify.com/album/4YPFlgvGCWtK0bKrN6qIkz"
+      },
+      "artists": [
+        {
+          "name": "Re\u00ebn",
+          "url": "https://open.spotify.com/artist/7tIsf2CtmTtj0UGJshHIyB"
+        },
+        {
+          "name": "Refentse",
+          "url": "https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl"
+        }
+      ],
+      "duration_ms": 212533,
+      "name": "Skobbejak",
+      "url": "https://open.spotify.com/track/1PoFAgfEa11NdWylrd8sCc"
     },
     {
       "added_at": "2022-12-08 21:59:00",
@@ -127,6 +163,22 @@
       "duration_ms": 180182,
       "name": "Vat Die Cruiser",
       "url": "https://open.spotify.com/track/1PIvpkHqj84KC0En6LosWH"
+    },
+    {
+      "added_at": "2022-08-25 21:59:00",
+      "album": {
+        "name": "H2O\u00eb",
+        "url": "https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 175375,
+      "name": "H2O\u00eb",
+      "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
     },
     {
       "added_at": "2022-09-14 21:59:00",
@@ -161,40 +213,20 @@
       "url": "https://open.spotify.com/track/6R80KkMcEbBasMSQGFBiHB"
     },
     {
-      "added_at": "2022-08-25 21:59:00",
+      "added_at": "2022-11-03 21:59:00",
       "album": {
-        "name": "Weer",
-        "url": "https://open.spotify.com/album/4YPFlgvGCWtK0bKrN6qIkz"
+        "name": "Hittegolf",
+        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
       },
       "artists": [
         {
-          "name": "Re\u00ebn",
-          "url": "https://open.spotify.com/artist/7tIsf2CtmTtj0UGJshHIyB"
-        },
-        {
-          "name": "Refentse",
-          "url": "https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl"
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
         }
       ],
-      "duration_ms": 212533,
-      "name": "Skobbejak",
-      "url": "https://open.spotify.com/track/1PoFAgfEa11NdWylrd8sCc"
-    },
-    {
-      "added_at": "2022-08-25 21:59:00",
-      "album": {
-        "name": "H2O\u00eb",
-        "url": "https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP"
-      },
-      "artists": [
-        {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
-        }
-      ],
-      "duration_ms": 175375,
-      "name": "H2O\u00eb",
-      "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
+      "duration_ms": 184026,
+      "name": "ATKV",
+      "url": "https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL"
     },
     {
       "added_at": "2022-12-08 21:59:00",
@@ -217,22 +249,6 @@
       "url": "https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz"
     },
     {
-      "added_at": "2022-11-03 21:59:00",
-      "album": {
-        "name": "Hittegolf",
-        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
-      },
-      "artists": [
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        }
-      ],
-      "duration_ms": 184026,
-      "name": "ATKV",
-      "url": "https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL"
-    },
-    {
       "added_at": "2023-01-05 21:59:00",
       "album": {
         "name": "Vuur En Vlam",
@@ -247,22 +263,6 @@
       "duration_ms": 165173,
       "name": "Vuur En Vlam",
       "url": "https://open.spotify.com/track/3EK9M3oCsXhMGLUpjwgvla"
-    },
-    {
-      "added_at": "2023-03-30 21:59:00",
-      "album": {
-        "name": "Coco Pops en Kaas",
-        "url": "https://open.spotify.com/album/7eX7oEbmqlgWrMeWP4CAA1"
-      },
-      "artists": [
-        {
-          "name": "Nicholis Louw",
-          "url": "https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "Coco Pops en Kaas",
-      "url": "https://open.spotify.com/track/47a7yKmqL4y49StvHnrT0Y"
     },
     {
       "added_at": "2022-06-30 22:21:09",
@@ -283,6 +283,54 @@
       "duration_ms": 198995,
       "name": "Haai Haai",
       "url": "https://open.spotify.com/track/7oNaAYHagyDVzB8YoyhuMm"
+    },
+    {
+      "added_at": "2023-03-30 21:59:00",
+      "album": {
+        "name": "Coco Pops en Kaas",
+        "url": "https://open.spotify.com/album/7eX7oEbmqlgWrMeWP4CAA1"
+      },
+      "artists": [
+        {
+          "name": "Nicholis Louw",
+          "url": "https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "Coco Pops en Kaas",
+      "url": "https://open.spotify.com/track/47a7yKmqL4y49StvHnrT0Y"
+    },
+    {
+      "added_at": "2022-07-21 21:59:00",
+      "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 238615,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg"
+    },
+    {
+      "added_at": "2023-04-20 21:59:00",
+      "album": {
+        "name": "Brand Die Skepe",
+        "url": "https://open.spotify.com/album/4YoNjsXDZjPPlo4WqaNKT2"
+      },
+      "artists": [
+        {
+          "name": "Muller Brandt",
+          "url": "https://open.spotify.com/artist/72ylqxCBlJ3k3cRUhNL3pI"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Braaibroodjies",
+      "url": "https://open.spotify.com/track/34lszvPii4Yz3O5ieuPXuz"
     },
     {
       "added_at": "2022-12-22 21:59:00",
@@ -333,6 +381,22 @@
       "url": "https://open.spotify.com/track/6v1hZo339lw7OUT5vH66DC"
     },
     {
+      "added_at": "2022-10-13 21:59:00",
+      "album": {
+        "name": "My Nannas",
+        "url": "https://open.spotify.com/album/5aHgjmoL4dh4xbDgzl6rHc"
+      },
+      "artists": [
+        {
+          "name": "Wikus Botma",
+          "url": "https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io"
+        }
+      ],
+      "duration_ms": 197230,
+      "name": "My Nannas",
+      "url": "https://open.spotify.com/track/7AiWpdNAuQtauRiZLRTiin"
+    },
+    {
       "added_at": "2023-03-03 03:21:19",
       "album": {
         "name": "Vleisvreters",
@@ -351,38 +415,6 @@
       "duration_ms": 187558,
       "name": "Vleisvreters",
       "url": "https://open.spotify.com/track/63RtO5V94GhSGYvZEucg4h"
-    },
-    {
-      "added_at": "2022-10-20 21:59:00",
-      "album": {
-        "name": "As die Plaas Byt",
-        "url": "https://open.spotify.com/album/4PGN89EQTVefM2Gfrq1q9z"
-      },
-      "artists": [
-        {
-          "name": "Marissa",
-          "url": "https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6"
-        }
-      ],
-      "duration_ms": 213734,
-      "name": "As die Plaas Byt",
-      "url": "https://open.spotify.com/track/3ygtwhrpxC9K6vvzTXVfNK"
-    },
-    {
-      "added_at": "2022-10-13 21:59:00",
-      "album": {
-        "name": "My Nannas",
-        "url": "https://open.spotify.com/album/5aHgjmoL4dh4xbDgzl6rHc"
-      },
-      "artists": [
-        {
-          "name": "Wikus Botma",
-          "url": "https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io"
-        }
-      ],
-      "duration_ms": 197230,
-      "name": "My Nannas",
-      "url": "https://open.spotify.com/track/7AiWpdNAuQtauRiZLRTiin"
     },
     {
       "added_at": "2022-08-04 21:59:00",
@@ -417,36 +449,20 @@
       "url": "https://open.spotify.com/track/5U6cE7kIhPe69nQuEG90CL"
     },
     {
-      "added_at": "2022-07-21 21:59:00",
+      "added_at": "2022-10-20 21:59:00",
       "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB"
+        "name": "As die Plaas Byt",
+        "url": "https://open.spotify.com/album/4PGN89EQTVefM2Gfrq1q9z"
       },
       "artists": [
         {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+          "name": "Marissa",
+          "url": "https://open.spotify.com/artist/2uFAfVNLrN2ewh731Oc0C6"
         }
       ],
-      "duration_ms": 238615,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/7fQLFDmSuqTnMX0IwjESNg"
-    },
-    {
-      "added_at": "2023-02-09 21:59:00",
-      "album": {
-        "name": "Ek Ly Aan",
-        "url": "https://open.spotify.com/album/60enOSqxjh06pLpDFRkzD8"
-      },
-      "artists": [
-        {
-          "name": "Droomsindroom",
-          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
-        }
-      ],
-      "duration_ms": 197828,
-      "name": "Ek Ly Aan",
-      "url": "https://open.spotify.com/track/5q7za64TQKzLN6qga093Jo"
+      "duration_ms": 213734,
+      "name": "As die Plaas Byt",
+      "url": "https://open.spotify.com/track/3ygtwhrpxC9K6vvzTXVfNK"
     },
     {
       "added_at": "2022-12-01 21:59:00",
@@ -467,6 +483,38 @@
       "duration_ms": 198471,
       "name": "Ditjies & Datjies",
       "url": "https://open.spotify.com/track/1PILq0KMOWhfXaP7eqmS95"
+    },
+    {
+      "added_at": "2023-02-09 21:59:00",
+      "album": {
+        "name": "Ek Ly Aan",
+        "url": "https://open.spotify.com/album/60enOSqxjh06pLpDFRkzD8"
+      },
+      "artists": [
+        {
+          "name": "Droomsindroom",
+          "url": "https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW"
+        }
+      ],
+      "duration_ms": 197828,
+      "name": "Ek Ly Aan",
+      "url": "https://open.spotify.com/track/5q7za64TQKzLN6qga093Jo"
+    },
+    {
+      "added_at": "2022-12-29 21:59:00",
+      "album": {
+        "name": "Vir Jou Geval",
+        "url": "https://open.spotify.com/album/3XWL5eNy3Q2bSOjk9Pwfwx"
+      },
+      "artists": [
+        {
+          "name": "Arno Jordaan",
+          "url": "https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE"
+        }
+      ],
+      "duration_ms": 242477,
+      "name": "Vir Jou Geval",
+      "url": "https://open.spotify.com/track/63jjmPri2msVTjuX1Jdwbw"
     },
     {
       "added_at": "2023-04-06 21:59:00",
@@ -501,20 +549,20 @@
       "url": "https://open.spotify.com/track/19NUbG17wydOXIC8e3dFma"
     },
     {
-      "added_at": "2022-12-29 21:59:00",
+      "added_at": "2021-07-01 21:59:00",
       "album": {
-        "name": "Vir Jou Geval",
-        "url": "https://open.spotify.com/album/3XWL5eNy3Q2bSOjk9Pwfwx"
+        "name": "Tekkies Brand",
+        "url": "https://open.spotify.com/album/05uEJdtdKnM4SjNGpkEuOD"
       },
       "artists": [
         {
-          "name": "Arno Jordaan",
-          "url": "https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE"
+          "name": "Irene-Louise Van Wyk",
+          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
         }
       ],
-      "duration_ms": 242477,
-      "name": "Vir Jou Geval",
-      "url": "https://open.spotify.com/track/63jjmPri2msVTjuX1Jdwbw"
+      "duration_ms": 208519,
+      "name": "Tekkies Brand",
+      "url": "https://open.spotify.com/track/3bDZnbdUWy02rqFzb5Sooi"
     },
     {
       "added_at": "2023-03-09 21:59:00",
@@ -599,22 +647,6 @@
       "duration_ms": 237336,
       "name": "Ek Wens",
       "url": "https://open.spotify.com/track/7cYUAAyZDMOLBqhzXCen7S"
-    },
-    {
-      "added_at": "2021-07-01 21:59:00",
-      "album": {
-        "name": "Tekkies Brand",
-        "url": "https://open.spotify.com/album/05uEJdtdKnM4SjNGpkEuOD"
-      },
-      "artists": [
-        {
-          "name": "Irene-Louise Van Wyk",
-          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
-        }
-      ],
-      "duration_ms": 208519,
-      "name": "Tekkies Brand",
-      "url": "https://open.spotify.com/track/3bDZnbdUWy02rqFzb5Sooi"
     },
     {
       "added_at": "2022-12-15 21:59:00",
@@ -999,22 +1031,6 @@
     {
       "added_at": "2023-03-09 21:59:00",
       "album": {
-        "name": "Hittegolf",
-        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
-      },
-      "artists": [
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        }
-      ],
-      "duration_ms": 187094,
-      "name": "Witblits",
-      "url": "https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE"
-    },
-    {
-      "added_at": "2023-03-09 21:59:00",
-      "album": {
         "name": "Swaartekrag",
         "url": "https://open.spotify.com/album/6KykLYdne818aTl3ogcYSt"
       },
@@ -1027,6 +1043,22 @@
       "duration_ms": 178021,
       "name": "Lenie Blou",
       "url": "https://open.spotify.com/track/10s1HbmFsDCKmMNcAbDLyV"
+    },
+    {
+      "added_at": "2023-03-09 21:59:00",
+      "album": {
+        "name": "Hittegolf",
+        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "duration_ms": 187094,
+      "name": "Witblits",
+      "url": "https://open.spotify.com/track/5bJEHJ8BPTn7dYM7EYmwvE"
     },
     {
       "added_at": "2023-03-09 21:59:00",
@@ -1105,22 +1137,6 @@
       "url": "https://open.spotify.com/track/3AnbHTbNiQuURUxHiiFBtl"
     },
     {
-      "added_at": "2023-02-02 21:59:00",
-      "album": {
-        "name": "Die Dansvloer",
-        "url": "https://open.spotify.com/album/6H59UrYa3cmFGsd5INDVkx"
-      },
-      "artists": [
-        {
-          "name": "Janie Bay",
-          "url": "https://open.spotify.com/artist/0VSXm0RbmbovOLT6ADgovM"
-        }
-      ],
-      "duration_ms": 184405,
-      "name": "Die Dansvloer",
-      "url": "https://open.spotify.com/track/2bXohPFI2yPrHTlCifvDhy"
-    },
-    {
       "added_at": "2023-03-09 21:59:00",
       "album": {
         "name": "Swaeltjies",
@@ -1169,22 +1185,6 @@
       "url": "https://open.spotify.com/track/7xeOloDznov24h4JCtmn3p"
     },
     {
-      "added_at": "2023-03-23 21:59:00",
-      "album": {
-        "name": "Braaf Soos 'n Boerboel",
-        "url": "https://open.spotify.com/album/02mJIfPUPEHgkOJCshmvvC"
-      },
-      "artists": [
-        {
-          "name": "JAN JAN JAN",
-          "url": "https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ"
-        }
-      ],
-      "duration_ms": 192426,
-      "name": "Braaf Soos 'n Boerboel",
-      "url": "https://open.spotify.com/track/2ySJvbJGrQ7uhllRVxW3Gb"
-    },
-    {
       "added_at": "2023-03-09 21:59:00",
       "album": {
         "name": "Vuur Op Die Water",
@@ -1221,22 +1221,6 @@
       "url": "https://open.spotify.com/track/5J24BPmjKlr77KK4sQ5iuo"
     },
     {
-      "added_at": "2023-03-16 21:59:00",
-      "album": {
-        "name": "Klaar Gesmeek",
-        "url": "https://open.spotify.com/album/2y41EKqRsAGwgRgbvQWlDQ"
-      },
-      "artists": [
-        {
-          "name": "Jemma Catherine",
-          "url": "https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ"
-        }
-      ],
-      "duration_ms": 148776,
-      "name": "Klaar Gesmeek",
-      "url": "https://open.spotify.com/track/22HyJsOfW7MAhyIPXpjXA8"
-    },
-    {
       "added_at": "2023-03-09 21:59:00",
       "album": {
         "name": "Vuil Coke",
@@ -1251,6 +1235,22 @@
       "duration_ms": 217029,
       "name": "Vuil Coke",
       "url": "https://open.spotify.com/track/3tDxxrog40sqbYRN1xPTfx"
+    },
+    {
+      "added_at": "2023-03-23 21:59:00",
+      "album": {
+        "name": "Braaf Soos 'n Boerboel",
+        "url": "https://open.spotify.com/album/02mJIfPUPEHgkOJCshmvvC"
+      },
+      "artists": [
+        {
+          "name": "JAN JAN JAN",
+          "url": "https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ"
+        }
+      ],
+      "duration_ms": 192426,
+      "name": "Braaf Soos 'n Boerboel",
+      "url": "https://open.spotify.com/track/2ySJvbJGrQ7uhllRVxW3Gb"
     },
     {
       "added_at": "2023-03-09 21:59:00",

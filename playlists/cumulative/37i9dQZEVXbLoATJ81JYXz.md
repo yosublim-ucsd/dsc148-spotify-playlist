@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Sweden.
 
-1,308 songs - 2 day 19 hr 46 min
+1,309 songs - 2 day 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,8 @@
 | [Eld & lågor](https://open.spotify.com/track/5etlUg6yiQ8565mdyrWUiP) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Vinterviken](https://open.spotify.com/album/4bza1f2XnAhCSRYMhqQJmr) | 2:59 | 2021-08-29 | 2022-08-21 |
 | [ELDEN](https://open.spotify.com/track/2rE34gpxOSBVaQrfsgKycT) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [INLOGGAD 2](https://open.spotify.com/album/6hnfGHMjUdFgaAdnX442Yy) | 2:49 | 2022-06-11 | 2022-06-17 |
 | [Elden \(feat\. Dizzy & Manny Flaco\)](https://open.spotify.com/track/7360iScV4BTruAJfE6TnjO) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [Elden \(feat\. Dizzy & Manny Flaco\)](https://open.spotify.com/album/4FmtP9HdfFAlmXtbpGiIax) | 3:03 | 2021-10-03 | 2021-10-04 |
-| [Ella mai](https://open.spotify.com/track/4abHyHTOkA4DTY0zwSdbZL) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Ella mai](https://open.spotify.com/album/2t6gMApNfFjb3vvZmZQjEe) | 3:15 | 2023-04-01 |  |
+| [Ella mai](https://open.spotify.com/track/4abHyHTOkA4DTY0zwSdbZL) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Ella mai](https://open.spotify.com/album/2t6gMApNfFjb3vvZmZQjEe) | 3:15 | 2023-04-01 | 2023-04-21 |
+| [Ella Mai](https://open.spotify.com/track/58juOPlXa4qKOU6snOHlsG) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Come Alive](https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R) | 3:15 | 2023-04-20 |  |
 | [Eloise](https://open.spotify.com/track/4QZ6hp2CKRaZG5RI9zXQqg) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [Eloise](https://open.spotify.com/album/0zK4JYFfXuCAlWktGbniOR) | 3:08 | 2022-06-25 | 2022-06-27 |
 | [Eloise](https://open.spotify.com/track/5Ws6u3a6SibPmJazXdEAHB) | [Arvingarna](https://open.spotify.com/artist/1qC3LsWlbrRCPVRooOX81u) | [Eloise](https://open.spotify.com/album/1HvFdKLYVWFSV6JHESyusy) | 3:08 | 2021-06-27 | 2021-06-28 |
 | [Eloise](https://open.spotify.com/track/7liZY5pEPPfOhZ5QtnT20L) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Eloise](https://open.spotify.com/album/6h8gT1uqOIadq5KRL1eA6P) | 2:54 | 2021-11-16 | 2021-11-28 |
@@ -414,7 +415,7 @@
 | [Förutom dig](https://open.spotify.com/track/2hJp0IL3ESDXhlyXNAC2US) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r) | [Förutom dig](https://open.spotify.com/album/5Bw1AqtLIewl5hUQ1Lj8Rv) | 3:20 | 2021-06-06 | 2021-06-07 |
 | [G\-CODE](https://open.spotify.com/track/7GLqG1b18ebqXmCl7EUNt3) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [G\-CODE](https://open.spotify.com/album/2iq0rnASwKLB5xlTzVedGp) | 2:28 | 2022-03-20 | 2022-04-03 |
 | [G63](https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5) | 2:42 | 2023-03-11 |  |
-| [Gamora](https://open.spotify.com/track/2Gd0oV24QsH0zb9nKFx7s5) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Barn av vår tid](https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm) | 2:45 | 2021-10-03 | 2023-04-09 |
+| [Gamora](https://open.spotify.com/track/2Gd0oV24QsH0zb9nKFx7s5) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Barn av vår tid](https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm) | 2:45 | 2021-10-03 |  |
 | [Gamora](https://open.spotify.com/track/4tGPi30jgutml0z5QgNd8Q) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt), [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [Gamora](https://open.spotify.com/album/2ShdgOPkxdlnwuE21iXpWS) | 2:45 | 2021-03-27\* | 2021-08-31 |
 | [GANG GANG](https://open.spotify.com/track/1T43ASu3jRDUOtv80ebNJO) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [GANG GANG](https://open.spotify.com/album/0gzMnl7iKqxfIJSHmuiYk3) | 3:36 | 2021-04-04 | 2021-06-06 |
 | [GANGSHIT](https://open.spotify.com/track/05D3jh8aVFZUlPbx4mklmb) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [GANGSHIT](https://open.spotify.com/album/4zJTchJtdb10QwXkeLpEvJ) | 1:51 | 2022-02-26 | 2022-02-28 |
@@ -611,7 +612,7 @@
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-06-20 | 2022-06-25 |
 | [Jingle Bell Rock](https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Jingle Bell Rock/Captain Santa Claus \(And His Reindeer Space Patrol\)](https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT) | 2:10 | 2021-11-28 | 2022-12-29 |
 | [Jingle Bell Rock \- Daryl's Version](https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Jingle Bell Rock](https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R) | 2:06 | 2022-11-28 | 2022-12-27 |
-| [John Daly](https://open.spotify.com/track/2bHkxIrKmodno557Z4BJBK) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [John Daly](https://open.spotify.com/album/410yZGA5oklqvmUXCEJeVu) | 2:49 | 2023-04-01 |  |
+| [John Daly](https://open.spotify.com/track/2bHkxIrKmodno557Z4BJBK) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [John Daly](https://open.spotify.com/album/410yZGA5oklqvmUXCEJeVu) | 2:49 | 2023-04-01 | 2023-04-21 |
 | [JOKER](https://open.spotify.com/track/7a802vreAOcKkK8JLT4KFD) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt) | [JOKER](https://open.spotify.com/album/7JFn8WQbABOPZcOWHyukRk) | 3:30 | 2021-10-10 | 2021-10-23 |
 | [Jonah](https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:15 | 2021-08-31 | 2021-09-04 |
 | [Josefin](https://open.spotify.com/track/2gwirjNHYJPlBwOJ5Aftwv) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Josefin](https://open.spotify.com/album/482RW3Fc6VeLEsGTHh0cII) | 3:41 | 2021-06-21 |  |

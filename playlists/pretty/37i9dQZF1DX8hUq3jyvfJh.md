@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Lauana Prado e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,892 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,188 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 33 | [Correndo Do Tchau \- Ao Vivo](https://open.spotify.com/track/4k0QGeZFgaLwB2m3GpJNA9) | [Naessa](https://open.spotify.com/artist/4yeGmRY9a2vswZ47DGqKJH) | [Correndo Do Tchau](https://open.spotify.com/album/6Ov3FfZ06rE22owgghD925) | 4:17 |
 | 34 | [Morfina](https://open.spotify.com/track/7JMoUku5izAjJIzW8v7y5L) | [Bizay](https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX) | [Sentimentos](https://open.spotify.com/album/2WZ00uchMe97wUgfxjugok) | 3:18 |
 | 35 | [Foi Tudo Culpa do Amor \- Ao Vivo](https://open.spotify.com/track/0cqq1hyN79OILZitNS2CNJ) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [Priscila Em Cena \(Ao Vivo no Classic Hall\)](https://open.spotify.com/album/2of2wBTolajrVJ5fEWYdFR) | 2:42 |
-| 36 | [Para ou Vem](https://open.spotify.com/track/62gFsSwQ0jwoSNJjYs3x3P) | [Day Macedo](https://open.spotify.com/artist/0jRfVNZDw9P1PqSxkxfm5v) | [Para ou Vem](https://open.spotify.com/album/1SUQkyxHKDpWRjXBpandCP) | 2:55 |
-| 37 | [Coração Sóbrio \- Ao Vivo](https://open.spotify.com/track/5w7TofoEAWjOoUpMjvYYNl) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Respeita As Braba \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/3GSgPM8TTns6aQWtp4B8BS) | 3:02 |
+| 36 | [Coração Sóbrio \- Ao Vivo](https://open.spotify.com/track/5w7TofoEAWjOoUpMjvYYNl) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Respeita As Braba \(Ao Vivo / Vol\. 1\)](https://open.spotify.com/album/3GSgPM8TTns6aQWtp4B8BS) | 3:02 |
+| 37 | [Para ou Vem](https://open.spotify.com/track/62gFsSwQ0jwoSNJjYs3x3P) | [Day Macedo](https://open.spotify.com/artist/0jRfVNZDw9P1PqSxkxfm5v) | [Para ou Vem](https://open.spotify.com/album/1SUQkyxHKDpWRjXBpandCP) | 2:55 |
 | 38 | [Penhasco](https://open.spotify.com/track/7HlqKriadwCPdGnqNjzY7x) | [Taty pink](https://open.spotify.com/artist/0zp4Tuw2qRqrPTZyBkk8pS) | [Rotina](https://open.spotify.com/album/2Y9cAed6jkgJV1jA2HXeRW) | 2:35 |
 | 39 | [Espelunca](https://open.spotify.com/track/6amQ1SxVkIktjYFiCCgUDk) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Tô no Buteco, Ep\. 2](https://open.spotify.com/album/51wofKkc9XtMWExQXhTT65) | 2:55 |
 | 40 | [Amiga é o Caramba \- Ao Vivo](https://open.spotify.com/track/37QzNJM8bMBsohYSPE5gBc) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos Ao Vivo em Goiânia](https://open.spotify.com/album/5LiNfSeXC0VjZ00nSF5Rab) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Segue Invicto \- Ao Vivo](https://open.spotify.com/track/22BxPqZRPSzYtbCXPHaVTN) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Márcia A Fenomenal \[\(Ao Vivo\) \[Deluxe\]\]](https://open.spotify.com/album/5DYEhmHPZ4AwU1dLowty2M) | 2:42 |
 | 50 | [Foda Me Esquecer \- Ao Vivo](https://open.spotify.com/track/2lW3PosUws0xAS5UcybOuo) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/0NJBo8eIqMh78Ba5HWTWAD) | 2:16 |
 
-Snapshot ID: `MTY4MDY2MzYwMCwwMDAwMDAwMDA5N2IwOWJiYzkwYzA5OTc5MzU5Njc3OWRkNDM0MDBi`
+Snapshot ID: `MTY4MDY2MzYwMCwwMDAwMDAwMDc4MTYzZGFlMzcyNTA2ZjFkMDYzMTNkMjYxN2EyZTE5`

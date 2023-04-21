@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Rap napoletano e il meglio della scena campana. Geolier in cover.",
+  "description": "Rap napoletano e il meglio della scena campana. MV Killa in cover.",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -74,10 +74,32 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 149000,
       "name": "2 SECONDI",
       "url": "https://open.spotify.com/track/5EL2pGymrFM9jpVjBbsZhn"
+    },
+    {
+      "album": {
+        "name": "64 Bare",
+        "url": "https://open.spotify.com/album/03T2e774bXN4yNQzN9F3aj"
+      },
+      "artists": [
+        {
+          "name": "Nt\u00f2",
+          "url": "https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96"
+        },
+        {
+          "name": "Baloo",
+          "url": "https://open.spotify.com/artist/7fjRLtiDvaLA8CeqGCmEYA"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161890,
+      "name": "64 Bare",
+      "url": "https://open.spotify.com/track/2hgdx2fVpYncIrV4IDMZoF"
     },
     {
       "album": {
@@ -314,7 +336,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 183428,
       "name": "Blow (feat. Yung Snapp & MV Killa)",
       "url": "https://open.spotify.com/track/5gKTEHncscaUVJOCCuRSed"
@@ -1221,6 +1243,24 @@
     },
     {
       "album": {
+        "name": "IL CORAGGIO DEI BAMBINI - ATTO II",
+        "url": "https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "HERMES",
+      "url": "https://open.spotify.com/track/4YM3Pxqe3FiapO16Myngww"
+    },
+    {
+      "album": {
         "name": "Homies",
         "url": "https://open.spotify.com/album/66gwTXAR4CeE333WL38MJ0"
       },
@@ -1699,6 +1739,28 @@
     },
     {
       "album": {
+        "name": "ME VOGL BENE (feat. Geolier)",
+        "url": "https://open.spotify.com/album/5zRsIaSAVqjaskO9aH851E"
+      },
+      "artists": [
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186506,
+      "name": "ME VOGL BENE (feat. Geolier)",
+      "url": "https://open.spotify.com/track/6fJBFIo43hyaij2dWl7L6f"
+    },
+    {
+      "album": {
         "name": "IL CORAGGIO DEI BAMBINI",
         "url": "https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K"
       },
@@ -1728,7 +1790,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 177852,
       "name": "MEMORIA",
       "url": "https://open.spotify.com/track/5aQbOtxyucj4doA2vX1i2C"
@@ -1869,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "Ammore Malamente",
+        "url": "https://open.spotify.com/album/5pydbU79C724udCB6btJsy"
+      },
+      "artists": [
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154428,
+      "name": "Mon Fr\u00e8re",
+      "url": "https://open.spotify.com/track/07dSNokvCYwkEcHfajaIJz"
+    },
+    {
+      "album": {
         "name": "MONEY",
         "url": "https://open.spotify.com/album/1L3BundfZgLB9db5496I4y"
       },
@@ -1996,7 +2076,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 172235,
       "name": "NO BODYGUARD",
       "url": "https://open.spotify.com/track/6YRgwPft1oLkMnAE42Zsx4"
@@ -2150,7 +2230,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 176084,
       "name": "Nun stamm nziem",
       "url": "https://open.spotify.com/track/6NEBMsVr1iWvQhE2to11S4"
@@ -2918,6 +2998,28 @@
       "duration_ms": 158800,
       "name": "SGUARDI PERSI",
       "url": "https://open.spotify.com/track/1GjdvlHLp5d1ycZPocsAbS"
+    },
+    {
+      "album": {
+        "name": "Ammore Malamente",
+        "url": "https://open.spotify.com/album/5pydbU79C724udCB6btJsy"
+      },
+      "artists": [
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        },
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Shake That Ass (feat. MamboLosco)",
+      "url": "https://open.spotify.com/track/2AMTqFIevr6wZRofMA0JJ0"
     },
     {
       "album": {

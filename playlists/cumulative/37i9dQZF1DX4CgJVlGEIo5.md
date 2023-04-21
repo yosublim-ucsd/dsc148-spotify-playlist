@@ -4,7 +4,7 @@
 
 > Cherish the day with these low\-key favorites.
 
-210 songs - 12 hr 27 min
+211 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Acoustic](https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 2:52 | 2022-03-23 |  |
 | [Adeline](https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Adeline](https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1) | 3:08 | 2022-03-23 | 2023-02-24 |
 | [All Alone](https://open.spotify.com/track/4fTjzZ3IkS5tYw1VlgJs4Q) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [All Alone](https://open.spotify.com/album/2gtSZRxZMNsxXhBphBdhPO) | 2:52 | 2022-03-23 | 2022-07-29 |
+| [All Alone](https://open.spotify.com/track/6vxgKI4X5bOOXv996rz2Vf) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Foreign Sea](https://open.spotify.com/album/2zw3vj7T9QBMk7xCwy5cTt) | 2:52 | 2023-03-31 |  |
 | [All I Need](https://open.spotify.com/track/2mPOJSHkjAbUxnOcbLI6oK) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [High Tide](https://open.spotify.com/album/4KizRi22Ekbl4vebGS9mhe) | 3:44 | 2022-03-23 | 2022-07-27 |
 | [All The Time](https://open.spotify.com/track/521A5RngWc34nHMDR7oFGq) | [Emil Landman](https://open.spotify.com/artist/0TaelSp6OIZw6mzikDmDrB) | [Vinter](https://open.spotify.com/album/7h8RxiFul6fOlooCGfLFwv) | 2:56 | 2022-03-23 | 2022-07-29 |
 | [Already Gone](https://open.spotify.com/track/1Smn50EpTK7SQgQrb8msPt) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Already Gone](https://open.spotify.com/album/1Xo0VJzbpi2lbGywKOPfDs) | 2:53 | 2022-03-23 | 2022-04-20 |
@@ -161,7 +162,7 @@
 | [Praying for Love](https://open.spotify.com/track/4KETfxD7dbHBR2z52z6vKl) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Praying for Love](https://open.spotify.com/album/0GLHwOs7kfsOMaF5EDqG4L) | 3:02 | 2022-03-23 | 2022-04-20 |
 | [Pretty Things](https://open.spotify.com/track/39xEaNKhJgBovrThCsz7pq) | [TFDI](https://open.spotify.com/artist/5yyewYEjlKM5SeTp8eJrif) | [TFDI](https://open.spotify.com/album/3qIuuJrNO2lZ2TfiGwkFnh) | 5:06 | 2022-03-23 |  |
 | [Pretty Words](https://open.spotify.com/track/1trYM6Evd3SQHcXYWzbVTe) | [Crissi Cochrane](https://open.spotify.com/artist/1sKPIw7teK8qWo58pKKzRz) | [Little Sway](https://open.spotify.com/album/6I0LeQIdlJMEwfjwXixeg6) | 4:57 | 2022-03-23 | 2022-04-21 |
-| [Puppy and a Truck](https://open.spotify.com/track/3yN6F2vOf3ypKv9kr8sDdm) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Puppy and a Truck](https://open.spotify.com/album/358Blro4SuMHGHYnH1Tgbl) | 3:11 | 2022-03-23 |  |
+| [Puppy and a Truck](https://open.spotify.com/track/3yN6F2vOf3ypKv9kr8sDdm) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Puppy and a Truck](https://open.spotify.com/album/358Blro4SuMHGHYnH1Tgbl) | 3:11 | 2022-03-23 | 2023-04-21 |
 | [Quiet \- Stripped](https://open.spotify.com/track/60oCAd3gei66GObniGX4wV) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Quiet \(Stripped\)](https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi) | 3:28 | 2022-03-23 | 2022-04-20 |
 | [Rebellion \(Lies\)](https://open.spotify.com/track/7HU1RzZlG56N35NNppXgvN) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Rebellion \(Lies\)](https://open.spotify.com/album/0tV55IDV0N3ztHHBADhD0y) | 3:11 | 2022-03-23 | 2022-04-21 |
 | [Resentment](https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:53 | 2022-03-23 |  |

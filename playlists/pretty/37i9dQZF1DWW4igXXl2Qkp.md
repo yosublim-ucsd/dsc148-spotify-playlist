@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 ### [Fresh Finds: Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWW4igXXl2Qkp)
 
-> The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: Lil Blessin
+> The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: ODUMODUBLVCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,084 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,203 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [With The Stars](https://open.spotify.com/track/7F1QaXBNyWBJSdDGFUbUmf) | [Fazer](https://open.spotify.com/artist/5RzIPKoDSwKPJWsZ2FKamY), [YL](https://open.spotify.com/artist/6wnMFZFfsoJCOH4lVl5hGr) | [With The Stars](https://open.spotify.com/album/2hnfdzwLtugSUoDVHL0uQ8) | 3:32 |
 | 75 | [Krazy](https://open.spotify.com/track/2yD3rny0lKgHqh7Y6KmAY5) | [T$AN](https://open.spotify.com/artist/3xxFIilHFOKX6QaoJfBYrk) | [Krazy](https://open.spotify.com/album/7AwhvI7Jfr61xzUi61R3Eh) | 2:53 |
 
-Snapshot ID: `MTY4MTkyODc1MiwwMDAwMDAwMDA1ZmVhMmMxMzUyMzQ5YjY3ODU2Nzk4YmRhZWYyZThj`
+Snapshot ID: `MTY4MjAzMTIyMiwwMDAwMDAwMGE4ZGE4ODEwZTM4YjE3ZjFmYzliMWVmN2U3OWU4Yjll`

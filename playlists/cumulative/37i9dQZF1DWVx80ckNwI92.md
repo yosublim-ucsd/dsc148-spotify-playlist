@@ -4,7 +4,7 @@
 
 > The future of African Indie and Alternative
 
-58 songs - 2 hr 50 min
+61 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,10 +25,11 @@
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2023-03-30 |  |
 | [Falling in Love](https://open.spotify.com/track/0Tnzjifkv9W8xm0wXy7gOh) | [Choccy Chox](https://open.spotify.com/artist/1Il8vHCOT51z2KfQXPJNJv) | [Falling in Love](https://open.spotify.com/album/1awIuzfs8WL23tLUeBnEf1) | 3:09 | 2023-03-30 |  |
 | [Feel It](https://open.spotify.com/track/5UoYzAzGdlv8F2Vh6flsYk) | [AfroNautiq](https://open.spotify.com/artist/0L6AmIetS4zqs79IC1jQpX), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Feel It](https://open.spotify.com/album/3gsYQFKUnBsGGQZ0yRXrdw) | 3:15 | 2023-03-30 | 2023-04-07 |
+| [FINSTA](https://open.spotify.com/track/7v4mEXJ0C2LHI1W9abbzfx) | [Shoka Sunflower](https://open.spotify.com/artist/0DcH0gejGYEsy8bcxdlWii) | [ECOSYSTEM\_01](https://open.spotify.com/album/11vteDfC4Jsj89ZrAuWjgs) | 1:31 | 2023-04-20 |  |
 | [Galatea](https://open.spotify.com/track/6DpzJLvpEoQ8JHYBT7UFqO) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Galatea](https://open.spotify.com/album/5knaY5eUPXeY51TN6lyUIG) | 3:46 | 2023-03-30 |  |
 | [Heartbeat](https://open.spotify.com/track/2CgftIycIHQ1fp5QGUD3NM) | [Kileza](https://open.spotify.com/artist/12ypK1yfRvOPCvB8qpCIAg) | [Heartbeat](https://open.spotify.com/album/2MLMkg33gAHRjwHDRvw2Cn) | 3:06 | 2023-03-31 |  |
 | [Hello Lady](https://open.spotify.com/track/4zqe6jCp2UmN8OVOgSt9U2) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Hello Lady](https://open.spotify.com/album/2IJt9NcgSGvdj37aQ9XsCD) | 3:25 | 2023-03-30 |  |
-| [Hey! \- A COLORS SHOW](https://open.spotify.com/track/7LDMiQocR2DFVu12nG2TKP) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR) | [Hey! \- A COLORS SHOW](https://open.spotify.com/album/6ChwUKdWh13psgCZEY3NCN) | 2:37 | 2023-03-30 |  |
+| [Hey! \- A COLORS SHOW](https://open.spotify.com/track/7LDMiQocR2DFVu12nG2TKP) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR) | [Hey! \- A COLORS SHOW](https://open.spotify.com/album/6ChwUKdWh13psgCZEY3NCN) | 2:37 | 2023-03-30 | 2023-04-21 |
 | [I Like](https://open.spotify.com/track/2GcwwYFPbbfxVYWvw68VOF) | [mau from nowhere](https://open.spotify.com/artist/7MZ8Hh17R6vfPDn9UCkvuf) | [I Like](https://open.spotify.com/album/7lWvIKqlECC0RPyLOtcg3p) | 3:19 | 2023-03-30 |  |
 | [I'm Yours](https://open.spotify.com/track/4cTopCzcmxBvWE6K96RnhP) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [I'm Yours](https://open.spotify.com/album/3wg8nl3xkrTiZG3Kq3YH2d) | 3:32 | 2023-03-30 |  |
 | [Isn't Love](https://open.spotify.com/track/2QmHGPhKmgCKhlrnvihVK6) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Elani Boshoff](https://open.spotify.com/artist/5suRdrTilj7Ufg7eAwMnB9) | [Closure](https://open.spotify.com/album/3ocN0pai5zWdLg5CJLTLc5) | 1:53 | 2023-03-30 |  |
@@ -54,6 +55,8 @@
 | [Simple Things](https://open.spotify.com/track/75hLIkx0MpoWDc8LJfOsPR) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Simple Things](https://open.spotify.com/album/02ksay19qLiCSc2zWBGJsj) | 3:17 | 2023-03-30 | 2023-04-17 |
 | [Simple Things \(feat\. Theo Croker\)](https://open.spotify.com/track/12aouEbQ2CAzBg7yc4IYVf) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [MotherFather](https://open.spotify.com/album/6G76PblQXf5i8JB7mC0mv3) | 3:17 | 2023-03-30 |  |
 | [Take Me Home \(One Take\)](https://open.spotify.com/track/0ihhrhAPOVGNhyaSlSFgVz) | [True nESS](https://open.spotify.com/artist/7b7SUjtDrf6ym930Pmi3jh) | [Take Me Home \(One Take\)](https://open.spotify.com/album/00JQKIr7LCVu0bI0uVr2pY) | 2:21 | 2023-03-30 | 2023-04-07 |
+| [Taking Things For Granted](https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Taking Things For Granted](https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN) | 3:36 | 2023-04-20 |  |
+| [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 | 2023-04-20 |  |
 | [The Girl and the Time Machine](https://open.spotify.com/track/1d59d3DFywurMx6uBtlGu9) | [Asa Quana](https://open.spotify.com/artist/5bZxKABYkYmtKIh1f3us7m) | [The Girl and the Time Machine](https://open.spotify.com/album/4XsGm3iq4Bg2q6vTZ72lCF) | 1:37 | 2023-03-30 |  |
 | [THE VALLEY](https://open.spotify.com/track/0FUCIaGATJiBUgOrdgOpQf) | [Nu Fvnk](https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R) | [THE VALLEY](https://open.spotify.com/album/1wXWu2bowTw4dXmSnhzHgn) | 2:07 | 2023-03-30 | 2023-04-07 |
 | [Time In Our Lives](https://open.spotify.com/track/7Gbit25MiuKzmybIw1bDBr) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Time In Our Lives](https://open.spotify.com/album/13iVhxOwGBTV46Wat0jZpK) | 2:38 | 2023-03-30 |  |

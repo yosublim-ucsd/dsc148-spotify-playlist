@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Blanke.
 
-335 songs - 20 hr 13 min
+336 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Fire Again \- Dabin Remix](https://open.spotify.com/track/6GJy7B0rZdy2PhWCp2jJpc) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv) | [Fire Again \(Dabin Remix\)](https://open.spotify.com/album/6VcgKd8N1eGmiaiWYi2rsf) | 3:10 | 2022-09-16 |  |
 | [First Place](https://open.spotify.com/track/21kVD9H40rRQkGmcMi01Fl) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Lexi Scatena](https://open.spotify.com/artist/6OrvGE61MCrOZJM5naN4Vd) | [First Place](https://open.spotify.com/album/05cVnyWLCNRyeXJUQHutXZ) | 3:13 | 2022-07-08 | 2023-04-09 |
 | [Flare](https://open.spotify.com/track/030SJMnWzEaAE7979A3NcW) | [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [Mirrors](https://open.spotify.com/album/6rPIY9dx2jNh9VFsX86ErA) | 3:10 | 2022-07-08 | 2022-10-29 |
+| [Flare](https://open.spotify.com/track/4CmHVTshjFsRm89G0rPRTF) | [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [Mirrors](https://open.spotify.com/album/6k5FweUEC7LRCbPf586dwj) | 3:10 | 2023-03-31 |  |
 | [Floating Through The Sky](https://open.spotify.com/track/1RurO5tWqos1i8Lg1ROZyI) | [Awakend](https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O), [TRØVES](https://open.spotify.com/artist/66tyfeU6ZerzudGCX9mXcg) | [Floating Through The Sky](https://open.spotify.com/album/3bnBt9QTkHPu7KFZJeccTJ) | 4:17 | 2022-07-08 | 2022-07-24 |
 | [FLOW IN YOU](https://open.spotify.com/track/4isX1HXrZwPtobTgFAWokB) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf), [June One](https://open.spotify.com/artist/0aWV0dhiGN7C4U2NnsgAqQ) | [FLOW IN YOU](https://open.spotify.com/album/55BRp7ExsBopCMFVTSmElu) | 3:05 | 2022-07-08 | 2022-08-13 |
 | [For The First Time](https://open.spotify.com/track/6y5Nl8wL8RAlcM1tlyWqoF) | [Adam Pearce](https://open.spotify.com/artist/0AhdWP01wLAKxDfhsKMEKf), [glasscat](https://open.spotify.com/artist/1iZIgKdk4aQdTSupTIcRSQ) | [For The First Time](https://open.spotify.com/album/7Hj8SJiME4AwfwZhYhSRUX) | 3:06 | 2022-07-08 | 2022-09-13 |
@@ -271,7 +272,7 @@
 | [Sideways](https://open.spotify.com/track/0PMNxtgeNSmPPp4aiA4T8F) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4) | [Sideways](https://open.spotify.com/album/06eiw663CL0vHSY7jvtZ3p) | 4:11 | 2022-07-08 | 2023-04-09 |
 | [Silence](https://open.spotify.com/track/4QxPnild2hz6dk4Xjwx4jc) | [Mixed Signals](https://open.spotify.com/artist/3LesrToD7rQlHqkxCmJyuo), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [Silence](https://open.spotify.com/album/0fIZ72yzouEt4MM4jcnj4A) | 3:30 | 2022-07-08 | 2022-08-31 |
 | [Sleepy Eyes](https://open.spotify.com/track/1xtQcZUH8YDKPEAGMgS41P) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Ray Le Fanue](https://open.spotify.com/artist/5KbHk9IwiIF0fdu1AOJx29) | [Sleepy Eyes](https://open.spotify.com/album/2bIJRlNZNfuMacE6ZRIegc) | 2:43 | 2023-02-03 |  |
-| [Slow Down](https://open.spotify.com/track/1YUxhMsagttgRockQyd58z) | [Taylor Kade](https://open.spotify.com/artist/5xZctf19fhC6NgttHakfzF), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Slow Down](https://open.spotify.com/album/423H47c5tKiL35G7bXzq1e) | 3:37 | 2023-03-31 |  |
+| [Slow Down](https://open.spotify.com/track/1YUxhMsagttgRockQyd58z) | [Taylor Kade](https://open.spotify.com/artist/5xZctf19fhC6NgttHakfzF), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Slow Down](https://open.spotify.com/album/423H47c5tKiL35G7bXzq1e) | 3:37 | 2023-03-31 | 2023-04-21 |
 | [So Alive](https://open.spotify.com/track/0h6bm47GyD7bArUBTGEkp9) | [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [So Alive](https://open.spotify.com/album/0jCAy2DkhbyDW7uaONsiIX) | 4:09 | 2022-07-08 | 2023-04-09 |
 | [So Long \- Tails Remix](https://open.spotify.com/track/3FLxGmYJyextdbsVPZxn5p) | [On Planets](https://open.spotify.com/artist/5uz8HDS6eOsefdqSyMlTzi), [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v) | [So Long \(Tails Remix\)](https://open.spotify.com/album/0C8IJ8Gmzhsby8BpZiItgc) | 4:12 | 2022-07-08 | 2022-08-06 |
 | [Souvenir](https://open.spotify.com/track/63ZVznFlskQ476pRXraojW) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Dutch Melrose](https://open.spotify.com/artist/6NRSfOnXw4qaypEfIV2QXn) | [Souvenir](https://open.spotify.com/album/1026SyCwCyd15SR93J2TRH) | 3:17 | 2022-07-08 | 2022-08-06 |

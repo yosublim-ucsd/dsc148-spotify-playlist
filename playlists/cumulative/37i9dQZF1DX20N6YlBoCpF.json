@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die varste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/006t5IfX5IGVA19yVoJxaR?si=kygHtQppRPe17puVrImy2Q\">Lisie Basson</a> ",
+  "description": "Net die nuutste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65?si=DaGsU0I6QG-CNO-MOqmzZQ\">Zo\u00e9</a> ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -254,7 +254,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 204192,
       "name": "Anker My",
       "url": "https://open.spotify.com/track/69h8coUge7LT7hjhYiRxTX"
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 236317,
       "name": "Die Son Kom Op",
       "url": "https://open.spotify.com/track/7qCrASJyo3JTjEpUauJMEA"
@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 197828,
       "name": "Ek Ly Aan",
       "url": "https://open.spotify.com/track/5q7za64TQKzLN6qga093Jo"
@@ -1622,6 +1622,28 @@
       "duration_ms": 237336,
       "name": "Ek Wens",
       "url": "https://open.spotify.com/track/7cYUAAyZDMOLBqhzXCen7S"
+    },
+    {
+      "album": {
+        "name": "Ek Wil Jou Nie Laat Gaan Nie",
+        "url": "https://open.spotify.com/album/34bL6pXaO4UGrjYF7iwP59"
+      },
+      "artists": [
+        {
+          "name": "B+C",
+          "url": "https://open.spotify.com/artist/3K4syqj9H8aPFqQF65Nvi9"
+        },
+        {
+          "name": "Anrii",
+          "url": "https://open.spotify.com/artist/1O0CA4D9Kyv1zpl1WSPrFN"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224727,
+      "name": "Ek Wil Jou Nie Laat Gaan Nie",
+      "url": "https://open.spotify.com/track/3cUi5Z3sHGz9UEhfuYZssc"
     },
     {
       "album": {
@@ -2122,7 +2144,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 273626,
       "name": "Huistoe",
       "url": "https://open.spotify.com/track/7f8WJbF95f2mSF5zpD66xG"
@@ -2443,6 +2465,24 @@
     },
     {
       "album": {
+        "name": "Kettiekind",
+        "url": "https://open.spotify.com/album/1QucS4MzIumUUEj2yWdLQJ"
+      },
+      "artists": [
+        {
+          "name": "Marisa",
+          "url": "https://open.spotify.com/artist/3D5LWS4lYmwbw8IvEbvDC5"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211111,
+      "name": "Kettiekind",
+      "url": "https://open.spotify.com/track/6ecISaRk7wWrLrb69tRCXV"
+    },
+    {
+      "album": {
         "name": "#Pantiesmoetval",
         "url": "https://open.spotify.com/album/41TQnPeqWCygyDtopKS8fg"
       },
@@ -2490,7 +2530,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 191133,
       "name": "Kinders van die Wind",
       "url": "https://open.spotify.com/track/2rvhSILvJDVBl46xXB0Omc"
@@ -2846,6 +2886,24 @@
       "duration_ms": 229561,
       "name": "Laatnag-sonop-koebaai",
       "url": "https://open.spotify.com/track/6gq6he9HdSJqPcsgFQbxWQ"
+    },
+    {
+      "album": {
+        "name": "Lammergeier",
+        "url": "https://open.spotify.com/album/7dCkVGNUO2nQdOXmrtc838"
+      },
+      "artists": [
+        {
+          "name": "Neil Sandilands",
+          "url": "https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277480,
+      "name": "Lammergeier",
+      "url": "https://open.spotify.com/track/7fYELnegsjMM0ekzu6lRBe"
     },
     {
       "album": {
@@ -3986,7 +4044,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 165898,
       "name": "Plaashond",
       "url": "https://open.spotify.com/track/1eiR8emxoRf3vNz84uY08i"
@@ -4340,6 +4398,28 @@
       "duration_ms": 155146,
       "name": "Sexy Selfies",
       "url": "https://open.spotify.com/track/52BrZvCiBxFlNk51pnjqO5"
+    },
+    {
+      "album": {
+        "name": "Sexy Time",
+        "url": "https://open.spotify.com/album/5XxHLRFUQQEk6ZzAKZUifM"
+      },
+      "artists": [
+        {
+          "name": "Van Pletzen",
+          "url": "https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN"
+        },
+        {
+          "name": "Early B",
+          "url": "https://open.spotify.com/artist/7jHhWbZTn8I9ZJLFNgorqp"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190911,
+      "name": "Sexy Time",
+      "url": "https://open.spotify.com/track/1498BZFUe7DO4iKjYqzbe5"
     },
     {
       "album": {
@@ -5193,6 +5273,24 @@
     },
     {
       "album": {
+        "name": "Vat 5",
+        "url": "https://open.spotify.com/album/1hyfXs1kxA2JOhxwmZaCYY"
+      },
+      "artists": [
+        {
+          "name": "Riaan Grobler",
+          "url": "https://open.spotify.com/artist/6iwer4syGzZ82grPiCUt4u"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213176,
+      "name": "Vat 5",
+      "url": "https://open.spotify.com/track/1tERAe58iLcA5fkoOicFaR"
+    },
+    {
+      "album": {
         "name": "Vat Die Cruiser",
         "url": "https://open.spotify.com/album/1kfAKry5OJsrxRQsKBX5s1"
       },
@@ -5234,6 +5332,28 @@
       "duration_ms": 210324,
       "name": "Vat Jou Hoender",
       "url": "https://open.spotify.com/track/1aSzuwa31lyAhCXoebzi6f"
+    },
+    {
+      "album": {
+        "name": "Vergeet My Hier",
+        "url": "https://open.spotify.com/album/45KsVqzl4HaaNrXOSaVHkN"
+      },
+      "artists": [
+        {
+          "name": "Stephan Visagie",
+          "url": "https://open.spotify.com/artist/2h1s5akGU3fealiouNkYds"
+        },
+        {
+          "name": "Henri Alant",
+          "url": "https://open.spotify.com/artist/64Y5vIEzgTcde6q9zndRH4"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197454,
+      "name": "Vergeet My Hier",
+      "url": "https://open.spotify.com/track/1MYJPZHmnRcoHemHr9Su8S"
     },
     {
       "album": {

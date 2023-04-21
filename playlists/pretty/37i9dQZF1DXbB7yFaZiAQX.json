@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 926697,
+  "num_followers": 927069,
   "original_name": "The '80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NzQ5NDkzOSwwMDAwMDAwMDA0N2NlMmVhNjZkYTJhNzVkY2IwMTdmNzcwNTQxODM2",
+  "snapshot_id": "MTY3NzQ5NDkzOSwwMDAwMDAwMGZhZWU2MDAwZWQ1N2I0ZGM3YjFlNjU0MDJmMzE1YjY5",
   "tracks": [
     {
       "added_at": "2022-06-01 09:47:30",
@@ -163,22 +163,6 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
-      },
-      "artists": [
-        {
-          "name": "The Cult",
-          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
-        }
-      ],
-      "duration_ms": 252533,
-      "name": "She Sells Sanctuary",
-      "url": "https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
         "name": "Love Will Tear Us Apart",
         "url": "https://open.spotify.com/album/0u0CJa9zwFbGSU8JWQYS5G"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 208453,
       "name": "Love Will Tear Us Apart - 2020 Remaster",
       "url": "https://open.spotify.com/track/34iOH7LY3vme5rQxsVILZ4"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
+      },
+      "artists": [
+        {
+          "name": "The Cult",
+          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
+        }
+      ],
+      "duration_ms": 252533,
+      "name": "She Sells Sanctuary",
+      "url": "https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -289,22 +289,6 @@
       "url": "https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw"
     },
     {
-      "added_at": "2019-08-01 09:13:54",
-      "album": {
-        "name": "Unknown Pleasures (Collector's Edition)",
-        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 209039,
-      "name": "Disorder - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
-    },
-    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "Call Me",
@@ -335,6 +319,22 @@
       "duration_ms": 288339,
       "name": "Modern Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
+    },
+    {
+      "added_at": "2019-08-01 09:13:54",
+      "album": {
+        "name": "Unknown Pleasures (Collector's Edition)",
+        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 209039,
+      "name": "Disorder - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5fbQCQt91LsVgXusFS0CCD"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -417,22 +417,6 @@
       "url": "https://open.spotify.com/track/4dneV7C1yDt9UtyxrQY375"
     },
     {
-      "added_at": "2019-08-02 12:01:33",
-      "album": {
-        "name": "Document - 25th Anniversary Edition",
-        "url": "https://open.spotify.com/album/65kIVEdb93smbnC7k4aie7"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "The One I Love - Remastered 2012",
-      "url": "https://open.spotify.com/track/2fdfsGuqb6SBX5ocoBWHUd"
-    },
-    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "The Hurting",
@@ -447,6 +431,22 @@
       "duration_ms": 215400,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/0Qv7xi6uPSqH2k82tOkGSt"
+    },
+    {
+      "added_at": "2019-08-02 12:01:33",
+      "album": {
+        "name": "Document - 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/65kIVEdb93smbnC7k4aie7"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "The One I Love - Remastered 2012",
+      "url": "https://open.spotify.com/track/2fdfsGuqb6SBX5ocoBWHUd"
     },
     {
       "added_at": "2019-08-02 12:01:33",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/5cy5IStIn7OSHDEIgXeDyq"
     },
     {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
-        "name": "Visage",
-        "url": "https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf"
-      },
-      "artists": [
-        {
-          "name": "Visage",
-          "url": "https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B"
-        }
-      ],
-      "duration_ms": 239360,
-      "name": "Fade To Grey",
-      "url": "https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu"
-    },
-    {
       "added_at": "2021-08-31 07:26:09",
       "album": {
         "name": "The Pleasure Principle",
@@ -671,6 +655,22 @@
       "duration_ms": 238906,
       "name": "Cars",
       "url": "https://open.spotify.com/track/4QQEzkxcONBthDLfzqIh9S"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Visage",
+        "url": "https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf"
+      },
+      "artists": [
+        {
+          "name": "Visage",
+          "url": "https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "Fade To Grey",
+      "url": "https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu"
     },
     {
       "added_at": "2021-01-06 11:26:51",
@@ -995,22 +995,6 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "Tom Tom Club",
-        "url": "https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu"
-      },
-      "artists": [
-        {
-          "name": "Tom Tom Club",
-          "url": "https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo"
-        }
-      ],
-      "duration_ms": 334360,
-      "name": "Genius of Love",
-      "url": "https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
         "name": "Daydream Nation (Deluxe Edition)",
         "url": "https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 417800,
       "name": "Teen Age Riot (Album Version)",
       "url": "https://open.spotify.com/track/0WIbzDVEpmOyBnqqdtqIL9"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "Tom Tom Club",
+        "url": "https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu"
+      },
+      "artists": [
+        {
+          "name": "Tom Tom Club",
+          "url": "https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo"
+        }
+      ],
+      "duration_ms": 334360,
+      "name": "Genius of Love",
+      "url": "https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef"
     },
     {
       "added_at": "2023-02-02 17:23:31",
@@ -1121,22 +1121,6 @@
       "url": "https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB"
     },
     {
-      "added_at": "2019-08-02 12:19:29",
-      "album": {
-        "name": "Fine Young Cannibals",
-        "url": "https://open.spotify.com/album/7KQgihtbLnpyr3KVk9OqYB"
-      },
-      "artists": [
-        {
-          "name": "Fine Young Cannibals",
-          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
-        }
-      ],
-      "duration_ms": 215733,
-      "name": "Johnny Come Home",
-      "url": "https://open.spotify.com/track/4fFxkU9C7prSviiYtvlV8V"
-    },
-    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "Surfer Rosa",
@@ -1151,6 +1135,22 @@
       "duration_ms": 235706,
       "name": "Gigantic - Remastered",
       "url": "https://open.spotify.com/track/5G2g1EbEtFSMkMbAnhl7FV"
+    },
+    {
+      "added_at": "2019-08-02 12:19:29",
+      "album": {
+        "name": "Fine Young Cannibals",
+        "url": "https://open.spotify.com/album/7KQgihtbLnpyr3KVk9OqYB"
+      },
+      "artists": [
+        {
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+        }
+      ],
+      "duration_ms": 215733,
+      "name": "Johnny Come Home",
+      "url": "https://open.spotify.com/track/4fFxkU9C7prSviiYtvlV8V"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2018-12-12 10:56:53",
       "album": {
-        "name": "The Pink Opaque",
-        "url": "https://open.spotify.com/album/7ssrkaAkcmqRno7FUADrA3"
-      },
-      "artists": [
-        {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
-        }
-      ],
-      "duration_ms": 250800,
-      "name": "Pearly-Dewdrops' Drops - 7\" Version",
-      "url": "https://open.spotify.com/track/0mxe1uof85IOstFsn2l2da"
-    },
-    {
-      "added_at": "2018-12-12 10:56:53",
-      "album": {
         "name": "Skylarking",
         "url": "https://open.spotify.com/album/3FVsJiQMI7dp0RfTBdWtMW"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 259493,
       "name": "Steppin' Out",
       "url": "https://open.spotify.com/track/1qaS4rwkm52lpkDZVmvF52"
+    },
+    {
+      "added_at": "2018-12-12 10:56:53",
+      "album": {
+        "name": "The Pink Opaque",
+        "url": "https://open.spotify.com/album/7ssrkaAkcmqRno7FUADrA3"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        }
+      ],
+      "duration_ms": 250800,
+      "name": "Pearly-Dewdrops' Drops - 7\" Version",
+      "url": "https://open.spotify.com/track/0mxe1uof85IOstFsn2l2da"
     },
     {
       "added_at": "2018-12-12 10:56:53",
@@ -2225,6 +2225,22 @@
       "url": "https://open.spotify.com/track/1lNn0udm3EHKFRCGpNKZxn"
     },
     {
+      "added_at": "2021-10-17 09:47:36",
+      "album": {
+        "name": "Fehler im System (2023 Remaster)",
+        "url": "https://open.spotify.com/album/7KDpHLxa1aLFJuw8pt3Yy2"
+      },
+      "artists": [
+        {
+          "name": "Peter Schilling",
+          "url": "https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS"
+        }
+      ],
+      "duration_ms": 303903,
+      "name": "Major Tom (V\u00f6llig losgel\u00f6st) - 2022 Remaster",
+      "url": "https://open.spotify.com/track/3pR29mXC5gp0UjJSRePU2f"
+    },
+    {
       "added_at": "2019-08-02 12:01:33",
       "album": {
         "name": "Private Revolution",
@@ -2243,22 +2259,6 @@
       "duration_ms": 268493,
       "name": "Ship of Fools",
       "url": "https://open.spotify.com/track/3ndKgw7LvKO7zIk1rgOQJ2"
-    },
-    {
-      "added_at": "2021-10-17 09:47:36",
-      "album": {
-        "name": "Fehler im System (2023 Remaster)",
-        "url": "https://open.spotify.com/album/7KDpHLxa1aLFJuw8pt3Yy2"
-      },
-      "artists": [
-        {
-          "name": "Peter Schilling",
-          "url": "https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS"
-        }
-      ],
-      "duration_ms": 303903,
-      "name": "Major Tom (V\u00f6llig losgel\u00f6st) - 2022 Remaster",
-      "url": "https://open.spotify.com/track/3pR29mXC5gp0UjJSRePU2f"
     },
     {
       "added_at": "2019-08-02 12:19:29",
@@ -2373,22 +2373,6 @@
       "url": "https://open.spotify.com/track/5KjueTOwREhwpEcYrzD0Fz"
     },
     {
-      "added_at": "2019-08-02 11:52:58",
-      "album": {
-        "name": "Kilimanjaro",
-        "url": "https://open.spotify.com/album/6u9JszNMhfmzpwwUr7DHy5"
-      },
-      "artists": [
-        {
-          "name": "The Teardrop Explodes",
-          "url": "https://open.spotify.com/artist/4AIo9dEYhuS3AtwhhKgA0M"
-        }
-      ],
-      "duration_ms": 162266,
-      "name": "Reward",
-      "url": "https://open.spotify.com/track/2vULfNEAOjjRyjj6hs0kBm"
-    },
-    {
       "added_at": "2018-12-12 10:56:53",
       "album": {
         "name": "Some Girls Wander by Mistake",
@@ -2403,6 +2387,22 @@
       "duration_ms": 214935,
       "name": "Alice",
       "url": "https://open.spotify.com/track/4PbxSwW7CxxYIFINPjuTnd"
+    },
+    {
+      "added_at": "2019-08-02 11:52:58",
+      "album": {
+        "name": "Kilimanjaro",
+        "url": "https://open.spotify.com/album/6u9JszNMhfmzpwwUr7DHy5"
+      },
+      "artists": [
+        {
+          "name": "The Teardrop Explodes",
+          "url": "https://open.spotify.com/artist/4AIo9dEYhuS3AtwhhKgA0M"
+        }
+      ],
+      "duration_ms": 162266,
+      "name": "Reward",
+      "url": "https://open.spotify.com/track/2vULfNEAOjjRyjj6hs0kBm"
     },
     {
       "added_at": "2018-12-12 10:56:53",

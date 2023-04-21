@@ -893,6 +893,24 @@
     },
     {
       "album": {
+        "name": "Carolina Avenue",
+        "url": "https://open.spotify.com/album/3CFtKNUVZh6kN0UCoEa4rl"
+      },
+      "artists": [
+        {
+          "name": "Ethan Setiawan",
+          "url": "https://open.spotify.com/artist/4PiLSMo2ZPdBLhSNv1Rggn"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275146,
+      "name": "Carolina Avenue",
+      "url": "https://open.spotify.com/track/1jWJf2pSmdEBJvpMB6xlA8"
+    },
+    {
+      "album": {
         "name": "Cattle in the Cane",
         "url": "https://open.spotify.com/album/0lh355GxjrO9zVZ7gHUdUb"
       },
@@ -940,7 +958,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 196875,
       "name": "Cellopickin'",
       "url": "https://open.spotify.com/track/656nmSiyqb2Y5Hv1M795ux"
@@ -1935,7 +1953,7 @@
         },
         {
           "name": "Greg Garrison",
-          "url": "https://open.spotify.com/artist/2EKWBtmH6vxSsQORh2uxdA"
+          "url": "https://open.spotify.com/artist/1Wzl4iYvY9UIWZFQgUhrdJ"
         }
       ],
       "date_added": "2023-03-24",
@@ -3773,6 +3791,24 @@
     },
     {
       "album": {
+        "name": "Riveter",
+        "url": "https://open.spotify.com/album/5meAQIac2yGj2ZzcdhHXlz"
+      },
+      "artists": [
+        {
+          "name": "Sami Braman",
+          "url": "https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177361,
+      "name": "Train in the Wilderness",
+      "url": "https://open.spotify.com/track/6gdItCqeyJc5U9TvW7t3xj"
+    },
+    {
+      "album": {
         "name": "Trapper's Attic",
         "url": "https://open.spotify.com/album/1WcNGOJOZqoU1cGoCZo6ME"
       },
@@ -4278,7 +4314,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-04-21",
       "duration_ms": 273586,
       "name": "Winnipeg",
       "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"

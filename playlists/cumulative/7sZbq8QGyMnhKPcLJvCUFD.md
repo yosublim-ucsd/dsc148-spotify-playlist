@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-248 songs - 12 hr 33 min
+249 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Paradise](https://open.spotify.com/track/37g9thpV049tXHhHiiZ44T) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Paradise](https://open.spotify.com/album/46zTRHAfAaAeHERgP9y9pg) | 2:43 | 2023-02-21 |  |
 | [Party](https://open.spotify.com/track/4FULPITIQbUrszR2lZsoZZ) | [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Party](https://open.spotify.com/album/3y4HtUHYYXZ4wdI2OHxABQ) | 3:12 | 2022-12-21 |  |
 | [Patience](https://open.spotify.com/track/2wB3bSpptrSiz9vAA9YQbZ) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Patience](https://open.spotify.com/album/5xKP3ZZUuqeqhmsyAJslh5) | 3:36 | 2022-06-24 |  |
+| [PLAYAS NEVER DIE](https://open.spotify.com/track/43bEmGTSrAViM7cplkNaSM) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [PLAYAS NEVER DIE](https://open.spotify.com/album/1tfZqv1gURs5EJTWduqwgv) | 2:30 | 2023-04-20 |  |
 | [Pray For You](https://open.spotify.com/track/1fbWDbvTqqGiAGlz1HedTE) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Pray For You](https://open.spotify.com/album/2OPPQopBKbrfZkmrN4AveE) | 2:51 | 2022-11-30 |  |
 | [Pray Tonight](https://open.spotify.com/track/1hA5xRYK6RwZVVfRaKVDUh) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [P\-One](https://open.spotify.com/artist/07rQW5tiQ8KWfhvtNckUpX) | [Pray Tonight](https://open.spotify.com/album/0U4Ruukm83LlMVis7pecv4) | 3:26 | 2022-04-26 |  |
 | [Pray Tonight \- borne Remix](https://open.spotify.com/track/24UiVa4yw52VDpPxGwq3Bw) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [P\-One](https://open.spotify.com/artist/07rQW5tiQ8KWfhvtNckUpX), [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Pray Tonight \(borne Remix\)](https://open.spotify.com/album/3ddEoq1V87uYH3IOXxdGg1) | 2:46 | 2022-11-15 |  |

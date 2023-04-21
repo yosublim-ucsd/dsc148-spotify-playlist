@@ -4,7 +4,7 @@
 
 > Nuevos temas de géneros tropicales\. Foto: Matías Valdez & La K'onga.
 
-946 songs - 2 day 8 hr 30 min
+947 songs - 2 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -657,7 +657,8 @@
 | [Placer y Olvido](https://open.spotify.com/track/6oYPVRn8ioihapnk3hYGRU) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Placer y Olvido \(En Vivo\)](https://open.spotify.com/album/7wcqpXexsimtSCJWu5uYpP) | 1:22 | 2022-11-04 | 2022-11-12 |
 | [Placer y Olvido](https://open.spotify.com/track/39sQdBAlAzIatOQAJOZSwr) | [La Sep7ima](https://open.spotify.com/artist/4Ci5R3dahfN3wRSGnLEeeW), [CDI RECORDS S.A.](https://open.spotify.com/artist/6RYcrTuVVfidFKu0WKNc5k) | [Placer y Olvido](https://open.spotify.com/album/0Du6RgrVRho0rmYoMfMISS) | 3:13 | 2022-06-03 | 2022-06-18 |
 | [Plena Rkt](https://open.spotify.com/track/2cOcNId9bPrHwIVuq5sJme) | [Letan](https://open.spotify.com/artist/14LqX7WKEinOwg1VZcM1xE), [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Anthony MM](https://open.spotify.com/artist/3L0TDlLE2v4lWjz5vw3vE8) | [Plena Rkt](https://open.spotify.com/album/5QXEiMJOD1b4tTzhEEdzln) | 2:44 | 2023-02-17 | 2023-04-09 |
-| [Pobre Corazón](https://open.spotify.com/track/1gpayq8BQ8Z1AZSCHUeZOC) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Pobre Corazón](https://open.spotify.com/album/1IV4edNM4eYtHUOieGtIj9) | 3:18 | 2023-03-03 |  |
+| [Pobre Corazón](https://open.spotify.com/track/1gpayq8BQ8Z1AZSCHUeZOC) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Pobre Corazón](https://open.spotify.com/album/1IV4edNM4eYtHUOieGtIj9) | 3:18 | 2023-03-03 | 2023-04-21 |
+| [Pobre Corazón \- En vivo](https://open.spotify.com/track/6UsuNAY6rB2LMD4NPMK9lF) | [Music Factory](https://open.spotify.com/artist/7xj1YIDzHU6vkUwP76NEyx) | [Pobre Corazón \(En vivo\)](https://open.spotify.com/album/76vyJ5BEey5rKrDglOfkpV) | 3:18 | 2023-04-19 |  |
 | [Poco](https://open.spotify.com/track/7jiBjftkmWFijn6VufQQfE) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Poco](https://open.spotify.com/album/51qb2RFstuUv6NvyyZvvf1) | 4:09 | 2022-09-09 | 2022-09-24 |
 | [Police in my house](https://open.spotify.com/track/6c6zgqbIrmDxEx8IKUJ53M) | [Club Atlético Carnaval](https://open.spotify.com/artist/5Gbb55j9FoLdtsK7Z2BZda) | [Police in my house](https://open.spotify.com/album/0zbXGQxplSE1oZXiHNxdWc) | 4:02 | 2022-12-09 | 2022-12-17 |
 | [Por Ella \- Radio Edit](https://open.spotify.com/track/4oZ38bqhRYd7XlPxSXr8eC) | [Internacional Orquesta la Típica](https://open.spotify.com/artist/5UrXs2sLwpV2MOMSiIhKRi) | [Por Ella \(Radio Edit\)](https://open.spotify.com/album/2yBx1vaavMtL4Izv0q1QE4) | 4:33 | 2022-06-17 | 2022-06-25 |

@@ -4,7 +4,7 @@
 
 > De beste norske låtene fra noen av våre aller beste artister.
 
-207 songs - 13 hr 8 min
+209 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Bonden](https://open.spotify.com/track/3qJ67DQIkl9FnqTcbxqkuf) | [Sigrid Moldestad](https://open.spotify.com/artist/4l2PfWenotuMdNx3O2QzkM) | [Bonden](https://open.spotify.com/album/4rhFyhczRVGlYU9zOPYmnE) | 4:44 | 2021-12-16 | 2022-06-17 |
 | [Brenner overalt](https://open.spotify.com/track/38okmcjwEQKPa6qQLC16NW) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Brenner overalt](https://open.spotify.com/album/2tvHKfP5GG5mpPwaNhvM0D) | 4:04 | 2021-12-16 | 2022-06-10 |
 | [Bror](https://open.spotify.com/track/5TWg0DczP5O3aJyVyD0mlh) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Bror](https://open.spotify.com/album/3Md4sOQ6TuqSouOgzIqcVP) | 3:13 | 2021-12-16 | 2022-07-29 |
-| [Bror](https://open.spotify.com/track/1585fzVgMIK5BzPXA5a2iS) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Hjarteskjell](https://open.spotify.com/album/5LrKrBAJdrfrqdv6kFnugC) | 3:15 | 2022-10-06 |  |
+| [Bror](https://open.spotify.com/track/1585fzVgMIK5BzPXA5a2iS) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Hjarteskjell](https://open.spotify.com/album/5LrKrBAJdrfrqdv6kFnugC) | 3:15 | 2022-10-06 | 2023-04-21 |
 | [Bror](https://open.spotify.com/track/1vnOWt0MAEkZGCOzD2snSA) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Bror](https://open.spotify.com/album/2hGjZ58iJaDiV8EAX2oxsI) | 3:14 | 2023-01-12 |  |
 | [Bru over mørke bølger](https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf) | [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Bru over mørke bølger](https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4) | 4:59 | 2021-12-16 |  |
 | [Bråtebrann](https://open.spotify.com/track/2dzVpK8VpDFO9icFxoOMBr) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann](https://open.spotify.com/album/6DMFNBhXpJOPFpa6KqT6CF) | 2:28 | 2022-03-23 | 2022-04-20 |
@@ -78,7 +78,7 @@
 | [Fingeravtrykk](https://open.spotify.com/track/7176c184pups4Q02ZPhTAl) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Fingeravtrykk](https://open.spotify.com/album/4LQ9X3yVtTvsR7zx0GyRyW) | 7:01 | 2022-07-14 | 2022-10-03 |
 | [Finn Veien Engel \- New version](https://open.spotify.com/track/57okbLO40Q3aH4SgcAfmSS) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [Finn Veien Engel \(New Version\)](https://open.spotify.com/album/7wcbrQi9tIPwNN5R9g87vE) | 3:04 | 2021-12-16 | 2022-07-28 |
 | [For vår jord](https://open.spotify.com/track/1J6GFv4CtXFuG0Ip7e0OZt) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [For vår jord](https://open.spotify.com/album/7asbXo2omni85X3WgOMbIO) | 2:36 | 2023-02-02 |  |
-| [Fordi eg elskar deg](https://open.spotify.com/track/2MkdeB9TXLBZpYHpXJECXe) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Fordi eg elskar deg](https://open.spotify.com/album/53dmlzt7IY86gQU3sObaPC) | 3:10 | 2023-01-12 |  |
+| [Fordi eg elskar deg](https://open.spotify.com/track/2MkdeB9TXLBZpYHpXJECXe) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Fordi eg elskar deg](https://open.spotify.com/album/53dmlzt7IY86gQU3sObaPC) | 3:10 | 2023-01-12 | 2023-04-21 |
 | [Fordi eg elskar deg](https://open.spotify.com/track/2l0D5xYyekMyMNMJY92MdT) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Månesinn](https://open.spotify.com/album/4tP6uyIDQ3LC6QsxwLbdh7) | 2:51 | 2021-12-16 |  |
 | [Fremmed](https://open.spotify.com/track/2liMUVPm6WJu5dG2DD7ZRt) | [Terje Formoe](https://open.spotify.com/artist/6kD825qRQoUKwYKDar95SP) | [En Fremmed Banker På](https://open.spotify.com/album/6O1DlVAdXcMVuCOrfnl0nQ) | 2:59 | 2022-01-27 | 2022-01-29 |
 | [Få](https://open.spotify.com/track/4t2s5uZhLjwubLLZroiOr8) | [Jan Eggum](https://open.spotify.com/artist/1QfTCSQTI4rrK027UaiSQ6) | [Hold ut, hold på](https://open.spotify.com/album/1nsgKRyaiObJAN6CRRbLKh) | 3:29 | 2022-03-23 | 2022-07-26 |
@@ -113,6 +113,7 @@
 | [I huset med deg](https://open.spotify.com/track/6YFSlVmx8n88FwjoN1hplw) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [I huset med deg](https://open.spotify.com/album/1GfXdx0EnteXLP3dw314tU) | 3:23 | 2022-05-26 | 2023-01-23 |
 | [I ungdommen](https://open.spotify.com/track/5XPqE4SyHOXygx8vLFmV8p) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [I ungdommen](https://open.spotify.com/album/59rrLxBYfqVcdzEzZQadPa) | 2:53 | 2021-12-16 | 2022-10-25 |
 | [Ikke deg](https://open.spotify.com/track/6CWyZcIAv53L2x8Nv1eu5N) | [Marion Ravn](https://open.spotify.com/artist/6yAM1PGDw9qo26YNtIHLjt), [Magnus Grønneberg](https://open.spotify.com/artist/3V9H1F7vYbeggiAlp0RIxM) | [Mellom disse 4 vegger](https://open.spotify.com/album/7xvVHqMGHBrDBYPdMuVTkt) | 4:28 | 2021-12-16 | 2022-07-23 |
+| [Ikkje sei det som det er](https://open.spotify.com/track/5e4TIoq5Vs4LSBjuQbgntw) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz) | [Ikkje sei det som det er](https://open.spotify.com/album/4os6BrDtAhffbzeBHOKnT7) | 2:41 | 2023-04-20 |  |
 | [Ingen som du](https://open.spotify.com/track/4FbpUlIwMiWiqP8fUhDbW2) | [Ingebjørg Bratland](https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C) | [Berre meg](https://open.spotify.com/album/7s0RRWzX6z2zieWyyyxogN) | 3:46 | 2021-12-16 | 2022-07-29 |
 | [Intet nytt under solen](https://open.spotify.com/track/3VuCSOTQFM8lhUtKRlZeCO) | [Åse Kleveland](https://open.spotify.com/artist/6MaSC3kVT4BUDanHNS4n8C) | [Norske Viseperler](https://open.spotify.com/album/6Wiegj2UloKYSHTK0BK5mM) | 1:39 | 2022-03-23 | 2022-04-20 |
 | [jeg drømte at noen ville ha meg i natt](https://open.spotify.com/track/21hBJzNz2iMICXTe5JMbO9) | [Fredrik Segelstad](https://open.spotify.com/artist/5wHJSWQfAgCCChEShG9eOt) | [jeg drømte at noen ville ha meg i natt](https://open.spotify.com/album/5hKEOv6DlNk1MhC84fHc36) | 3:46 | 2022-03-23 | 2022-04-11 |
@@ -188,6 +189,7 @@
 | [Tar du i mot meg? \- en flyktning synger Händel](https://open.spotify.com/track/67O3bDK9Euq9EuqEDSIuFM) | [Lars Martin Myhre](https://open.spotify.com/artist/5pmGOqAGCrrD4Y89zUJknI) | [Tar du imot meg? \- en flyktning synger Händel](https://open.spotify.com/album/1SXDYfUkGECaWM5V6WVaYT) | 3:37 | 2021-12-16 | 2022-07-22 |
 | [Til alle tider](https://open.spotify.com/track/6kr1xwYYaIH7ZQa3uBE921) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [Bauta \- En hyllest til Bjørn Eidsvåg](https://open.spotify.com/album/1cj2bGhHCxMdx3wNr9u5OF) | 3:33 | 2021-12-16 | 2022-07-28 |
 | [Til deg \- Single Version](https://open.spotify.com/track/7bD91vOzk9L2gKMSkdSQy7) | [Marthe Wang](https://open.spotify.com/artist/1C5w8BJZv0qoTGCFiVlfyZ) | [Til deg \(Single Version\)](https://open.spotify.com/album/1dZ6qeWJTDkOPO3ZECRvd2) | 3:43 | 2021-12-16 |  |
+| [Tilbake i det blå](https://open.spotify.com/track/2KI1LvPIvQlxUT6QXmiQPq) | [Stein Torleif Bjella](https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm) | [Tilbake i det blå](https://open.spotify.com/album/4Z0Ur6cqPOeRylQNRjXZIT) | 5:16 | 2023-04-20 |  |
 | [Ting er som de er](https://open.spotify.com/track/2gfDYYhGLTEIY2oD9ZJXed) | [Henning Kvitnes](https://open.spotify.com/artist/2OCfkmVQCpJdqe4GfhXpF6) | [Ting er som de er](https://open.spotify.com/album/2FrtdxsSn21OUAOvo9I7TK) | 3:55 | 2022-05-12 | 2022-07-20 |
 | [Tir n'a Noir](https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA) | [Vamp](https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk), [Rita Eriksen](https://open.spotify.com/artist/2lkUWx6myyrFf2KOAAD1da) | [Godmorgen, søster](https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G) | 4:30 | 2021-12-16 |  |
 | [Togsang](https://open.spotify.com/track/5qSJ6zAlnBXmIQc8vBE72R) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Kæm va du?](https://open.spotify.com/album/1AQXVLdZSRPpt1HviBevmZ) | 2:59 | 2022-03-23 | 2023-02-01 |
